@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="iso-8859-1" ?>
-<TEI.2>
+<?xml version="1.0" encoding="utf-8" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
 <teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>L'OPÉRATEUR BARRY, COMÉDIE</title>
+				<title>L'OPÃ‰RATEUR BARRY, COMÃ‰DIE</title>
 				<author born='1661' born_location='Paris' death='1725' death_location='Paris' academie=''>DANCOURT, Florent Carton dit</author>
 				<date>1699</date>
 			</titleStmt>
 			<publicationStmp>	
-				<p>publié par Paul FIEVRE, ocotbre 2013</p>
+				<p>publiÃ© par Paul FIEVRE, ocotbre 2013</p>
 			</publicationStmp>
 			<SourceDesc>
-				<genre>Comédie</genre>
-				<inspiration>moeurs françaises</inspiration>
+				<genre>ComÃ©die</genre>
+				<inspiration>moeurs franÃ§aises</inspiration>
 				<structure>Un acte, un prologue</structure>
 				<type>prose</type>
 				<periode>1701-1710</periode>
@@ -27,10 +27,10 @@
 <text>
 	<front>
 		<docTitle>
-			<titlePart type="main">L'OPÉRATEUR BARRY</titlePart>
-			<titlePart type="sub">COMÉDIE</titlePart>
+			<titlePart type="main">L'OPÃ‰RATEUR BARRY</titlePart>
+			<titlePart type="sub">COMÃ‰DIE</titlePart>
 		</docTitle> 
-		<docDate value="1702">M. CC. II.</docDate>
+		<docDate value="1702">M. DCC. II.</docDate>
 		<docAuthor id="DANCOURT, Florent Carton dit" bio='dancourt'>Par Dancourt</docAuthor>
 		<docImprint>
 		<privilege date=""><head></head>
@@ -40,37 +40,37 @@
 			<printer id=''></printer>
 		</docImprint>
 		<performance>
-			<premiere date="1702-10-11" location='Théâtre de la rue des Fossés Saint-Germain'>Représentée pour la première fois le 11 Octobre 1702 au Théâtre de la rue des Fossés Saint-Germain.</premiere>
+			<premiere date="1702-10-11" location='ThÃ©Ã¢tre de la rue des FossÃ©s Saint-Germain'>ReprÃ©sentÃ©e pour la premiÃ¨re fois le 11 Octobre 1702 au ThÃ©Ã¢tre de la rue des FossÃ©s Saint-Germain.</premiere>
 		</performance>
 	<castList><head>ACTEURS DU PROLOGUE.</head>
-		<castItem><role id="MONSIEUR DANCOURT" civil='M' type='H' statut='comédien' age='A' stat_amour='néant'>MONSIEUR DANCOURT</role>, Comédien.</castItem>
-		<castItem><role id="MONSIEUR LE COMTE" civil='M' type='H' statut='comédien' age='A' stat_amour='néant'>MONSIEUR LE COMTE</role>, Comédien.</castItem>
-		<castItem><role id="MADAME DE CHANVALLON" civil='F' type='H' statut='comédien' age='A' stat_amour='néant'>MADAME DE CHANVALLON</role>, Comédienne.</castItem> 
-		<castItem><role id="MONSIEUR BARRY" civil='M' type='H' statut='opérateur' age='A' stat_amour='néant'>MONSIEUR BARRY</role>, Opérateur.</castItem>
-		<castItem><role id="JODELET" civil='M' type='H' statut='valet' age='A' stat_amour='néant'>JODELET</role>, Valet de M. Barry.</castItem>
-		<castItem><role id="LA FRANCE" civil='M' type='H' statut='décorateur' age='A' stat_amour='néant'>LA FRANCE</role>, Décorateur.</castItem>
+		<castItem><role id="MONSIEUR DANCOURT" civil='M' type='H' statut='comÃ©dien' age='A' stat_amour='nÃ©ant'>MONSIEUR DANCOURT</role>, ComÃ©dien.</castItem>
+		<castItem><role id="MONSIEUR LE COMTE" civil='M' type='H' statut='comÃ©dien' age='A' stat_amour='nÃ©ant'>MONSIEUR LE COMTE</role>, ComÃ©dien.</castItem>
+		<castItem><role id="MADAME DE CHANVALLON" civil='F' type='H' statut='comÃ©dien' age='A' stat_amour='nÃ©ant'>MADAME DE CHANVALLON</role>, ComÃ©dienne.</castItem> 
+		<castItem><role id="MONSIEUR BARRY" civil='M' type='H' statut='opÃ©rateur' age='A' stat_amour='nÃ©ant'>MONSIEUR BARRY</role>, OpÃ©rateur.</castItem>
+		<castItem><role id="JODELET" civil='M' type='H' statut='valet' age='A' stat_amour='nÃ©ant'>JODELET</role>, Valet de M. Barry.</castItem>
+		<castItem><role id="LA FRANCE" civil='M' type='H' statut='dÃ©corateur' age='A' stat_amour='nÃ©ant'>LA FRANCE</role>, DÃ©corateur.</castItem>
 	</castList>
-	<castList><head>ACTEURS DE LA COMÉDIE.</head>
-		<castItem><role id="GAUTIER-GARGUILLE" civil='M' type='H' statut='bourgeois' age='A' stat_amour='néant'>GAUTIER-GARGUILLE</role>, père d’Isabelle.</castItem>
-		<castItem><role id="SPACAMONTE" civil='M' type='H' statut='capitan' age='A' stat_amour='Isabelle'>SPACAMONTE</role>, Capitan, Amoureux d’Isabelle.</castItem>
-		<castItem><role id="MOSTELIN" civil='M' type='H' statut='bourgeois' age='A' stat_amour='Isabelle'>MOSTELIN</role>, Amant d’Isabelle.</castItem>
-		<castItem><role id="ZERBINETTE" civil='F' type='H' statut='bourgeois' age='A' stat_amour='néant'>ZERBINETTE</role>, voisine de Gautier-Garguille.</castItem>
-		<castItem><role id="ISABELLE" civil='F' type='H' statut='bourgeois' age='A' stat_amour='néant'>ISABELLE</role>.</castItem>
-		<castItem><role id="JODELET" civil='M' type='H' statut='valet' age='A' stat_amour='néant'>JODELET</role>, Valet de Madame Garguille.</castItem>
-		<castItem><role id="CASCARET" civil='M' type='H' statut='laquais' age='A' stat_amour='néant'>CASCARET</role>, petit Laquais.</castItem>
-		<castItem><role id="MASQUES ET VIOLONS" civil='G' type='H' statut='musicien' age='A' stat_amour='néant'>TROUPE DE MASQUES ET DE VIOLONS</role>  pour le Bal.</castItem>
+	<castList><head>ACTEURS DE LA COMÃ‰DIE.</head>
+		<castItem><role id="GAUTIER-GARGUILLE" civil='M' type='H' statut='bourgeois' age='A' stat_amour='nÃ©ant'>GAUTIER-GARGUILLE</role>, pÃ¨re d'Isabelle.</castItem>
+		<castItem><role id="SPACAMONTE" civil='M' type='H' statut='capitan' age='A' stat_amour='Isabelle'>SPACAMONTE</role>, Capitan, Amoureux d'Isabelle.</castItem>
+		<castItem><role id="MOSTELIN" civil='M' type='H' statut='bourgeois' age='A' stat_amour='Isabelle'>MOSTELIN</role>, Amant d'Isabelle.</castItem>
+		<castItem><role id="ZERBINETTE" civil='F' type='H' statut='bourgeois' age='A' stat_amour='nÃ©ant'>ZERBINETTE</role>, voisine de Gautier-Garguille.</castItem>
+		<castItem><role id="ISABELLE" civil='F' type='H' statut='bourgeois' age='A' stat_amour='nÃ©ant'>ISABELLE</role>.</castItem>
+		<castItem><role id="JODELET" civil='M' type='H' statut='valet' age='A' stat_amour='nÃ©ant'>JODELET</role>, Valet de Madame Garguille.</castItem>
+		<castItem><role id="CASCARET" civil='M' type='H' statut='laquais' age='A' stat_amour='nÃ©ant'>CASCARET</role>, petit Laquais.</castItem>
+		<castItem><role id="MASQUES ET VIOLONS" civil='G' type='H' statut='musicien' age='A' stat_amour='nÃ©ant'>TROUPE DE MASQUES ET DE VIOLONS</role>  pour le Bal.</castItem>
 	</castList>
-	<set location="Paris" country='France' periode='XVIIIème' link=''>La Scène est à Paris.</set>
+	<set location="Paris" country='France' periode='XVIIIÃ¨me' link=''>La ScÃ¨ne est Ã  Paris.</set>
 	</front>
 <body>
-<div1 type='acte' n='1'><head>PROLOGUE</head>
-<div2 type='scene' n='1'><head>SCÈNE I. Monsieur le Comte, la France.</head>
-<stage>La Scène est sur le Théâtre de la Comédie Française. </stage>
+<div1 type="act" n='1'><head>PROLOGUE</head>
+<div2 type="scene" n='1'><head>SCÃˆNE I. Monsieur le Comte, la France.</head>
+<stage>La ScÃ¨ne est sur le ThÃ©Ã¢tre de la ComÃ©die FranÃ§aise. </stage>
 <sp who='MONSIEUR LE COMTE'><speaker>MONSIEUR LE COMTE.</speaker>
 <p id='1'>
-	<s id='1'>Holà, hé, Champagne ? La France ? </s>
-	<s id='2'>Quelqu’un ? </s>
-	<s id='3'>Monsieur Dufort ?</s>
+	<s id='1'>HolÃ , hÃ©, ChampagneÂ ? La FranceÂ ? </s>
+	<s id='2'>Quelqu'unÂ ? </s>
+	<s id='3'>Monsieur DufortÂ ?</s>
 </p>
 </sp>
 <sp who='LA FRANCE'><speaker>LA FRANCE.</speaker>
@@ -79,81 +79,81 @@
 </p>
 </sp>
 <sp who='MONSIEUR LE COMTE'><speaker>MONSIEUR LE COMTE.</speaker>
-<note type="L">Opérateur : Médecin empirique, charlatan qui vend ses drogues, et ses remèdes en public et sur le théâtre, qui annonce son logis et sa science par des affiches et des billets qu'il distribue. Il ne se faut pas fier à ces gens qui se disent opérateurs et distillateurs du Roi. [F]</note>
+<note type="L">OpÃ©rateur : MÃ©decin empirique, charlatan qui vend ses drogues, et ses remÃ¨des en public et sur le thÃ©Ã¢tre, qui annonce son logis et sa science par des affiches et des billets qu'il distribue. Il ne se faut pas fier Ã  ces gens qui se disent opÃ©rateurs et distillateurs du Roi. [F]</note>
 <p id='3'>
-	<s id='1'>Qu’est-ce que c’est donc que cette décoration-là ? </s>
-	<s id='2'>Un Opérateur sur notre Théâtre ! </s>
-	<s id='3'>Se moque-t-on de nous ?</s>
+	<s id='1'>Qu'est-ce que c'est donc que cette dÃ©coration-lÃ Â ? </s>
+	<s id='2'>Un OpÃ©rateur sur notre ThÃ©Ã¢treÂ ! </s>
+	<s id='3'>Se moque-t-on de nousÂ ?</s>
 </p>
 </sp>
 <sp who='LA FRANCE'><speaker>LA FRANCE.</speaker>
 <p id='4'>
-	<s id='1'>Ma foi, Monsieur, je ne sais ce que c’est.</s>
+	<s id='1'>Ma foi, Monsieur, je ne sais ce que c'est.</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='2'><head>SCÈNE II. Monsieur le Comte, Monsieur Dancourt.</head>
+<div2 type="scene" n='2'><head>SCÃˆNE II. Monsieur le Comte, Monsieur Dancourt.</head>
 <sp who='MONSIEUR LE COMTE'><speaker>MONSIEUR LE COMTE.</speaker>
 <p id='1'>
-	<s id='1'>Ah vous voilà, Monsieur Dancourt ! </s>
-	<s id='2'>Est-ce de votre ordonnance que les Opérateurs viennent vendre leurs marchandises dans notre Hôtel ?</s>
+	<s id='1'>Ah vous voilÃ , Monsieur DancourtÂ ! </s>
+	<s id='2'>Est-ce de votre ordonnance que les OpÃ©rateurs viennent vendre leurs marchandises dans notre HÃ´telÂ ?</s>
 </p>
 </sp>
 <sp who='MONSIEUR DANCOURT'><speaker>MONSIEUR DANCOURT.</speaker>
 <p id='2'>
-	<s id='1'>Ma foi, Monsieur, il me semble que depuis quelque temps nous avons si peu de débit de la nôtre, que ce ne serait pas trop mal fait de louer la boutique.</s>
+	<s id='1'>Ma foi, Monsieur, il me semble que depuis quelque temps nous avons si peu de dÃ©bit de la nÃ´tre, que ce ne serait pas trop mal fait de louer la boutique.</s>
 </p>
 </sp>
 <sp who='MONSIEUR LE COMTE'><speaker>MONSIEUR LE COMTE.</speaker>
 <p id='3'>
-	<s id='1'>Oui, mais de la louer à un Opérateur, ce serait une chose ridicule, ne vous en déplaise ; et je ne sache rien de plus déshonorant pour la Comédie.</s>
+	<s id='1'>Oui, mais de la louer Ã  un OpÃ©rateur, ce serait une chose ridicule, ne vous en dÃ©plaiseÂ ; et je ne sache rien de plus dÃ©shonorant pour la ComÃ©die.</s>
 </p>
 </sp>
 <sp who='MONSIEUR DANCOURT'><speaker>MONSIEUR DANCOURT.</speaker>
 <p id='4'>
-	<s id='1'>Hé ! </s>
-	<s id='2'>Que vous importe, pourvu que l’Opérateur la fasse mieux valoir qu’un autre, et que le profit vous en revienne ?</s>
+	<s id='1'>HÃ©Â ! </s>
+	<s id='2'>Que vous importe, pourvu que l'OpÃ©rateur la fasse mieux valoir qu'un autre, et que le profit vous en revienneÂ ?</s>
 </p>
 </sp>
 <sp who='MONSIEUR LE COMTE'><speaker>MONSIEUR LE COMTE.</speaker>
 <p id='5'>
-	<s id='1'>C’est de quoi je doute, qu’il la fasse bien valoir.</s>
+	<s id='1'>C'est de quoi je doute, qu'il la fasse bien valoir.</s>
 </p>
 </sp>
 <sp who='MONSIEUR DANCOURT'><speaker>MONSIEUR DANCOURT.</speaker>
-<note type="L">Gautier-Garguille : C'est le nom d'un fameux Baladin, d'où est venue cette façon de parler : C'est un franc Gautier-Garguille ; pour dire, Un franc sot, un franc badin. D'autres disent, C'est un fin Gautier, et entendent ce proverbe d'un homme qui fait bien son marché et ses affaires. [T]</note>
+<note type="L">Gautier-Garguille : C'est le nom d'un fameux Baladin, d'oÃ¹ est venue cette faÃ§on de parler : C'est un franc Gautier-Garguille ; pour dire, Un franc sot, un franc badin. D'autres disent, C'est un fin Gautier, et entendent ce proverbe d'un homme qui fait bien son marchÃ© et ses affaires. [T]</note>
 <p id='6'>
-	<s id='1'>J’en doute aussi pour le moins autant que vous : mais il n’y a point de mal d’en faire l’expérience. </s>
-	<s id='2'>Au bout du compte, que voulez-vous faire ? </s>
-	<s id='3'>La meilleure partie de nos Acteurs et de nos Actrices est à Fontainebleau depuis un mois, nous n’avons pu jouer que cinq ou six Pièces, que nous avons recommencées quatre ou cinq fois chacune ; pensez-vous que cela soit fort agréable au public, et qu’il ne paraisse pas là-dedans une négligence qui fait aussi qu’on nous néglige.</s>
+	<s id='1'>J'en doute aussi pour le moins autant que vousÂ : mais il n'y a point de mal d'en faire l'expÃ©rience. </s>
+	<s id='2'>Au bout du compte, que voulez-vous faireÂ ? </s>
+	<s id='3'>La meilleure partie de nos Acteurs et de nos Actrices est Ã  Fontainebleau depuis un mois, nous n'avons pu jouer que cinq ou six PiÃ¨ces, que nous avons recommencÃ©es quatre ou cinq fois chacuneÂ ; pensez-vous que cela soit fort agrÃ©able au public, et qu'il ne paraisse pas lÃ -dedans une nÃ©gligence qui fait aussi qu'on nous nÃ©glige.</s>
 </p>
 </sp>
 <sp who='MONSIEUR LE COMTE'><speaker>MONSIEUR LE COMTE.</speaker>
-<note type="L">Madame Gigogne : ou la mère Gigogne, nom d'un personnage de théâtre d'enfants ; elle est entourée d'un grand nombre de petits enfants qui sortent de dessous ses jupons. [L]</note>
-<note type="L">Gille : Personnage du théâtre de la foire, le niais. [L]</note>
+<note type="L">Madame Gigogne : ou la mÃ¨re Gigogne, nom d'un personnage de thÃ©Ã¢tre d'enfants ; elle est entourÃ©e d'un grand nombre de petits enfants qui sortent de dessous ses jupons. [L]</note>
+<note type="L">Gille : Personnage du thÃ©Ã¢tre de la foire, le niais. [L]</note>
 <p id='7'>
-	<s id='1'>Mais cette négligence apparente, Monsieur, prétendez-vous la réparer avec une Farce d’Opérateur, une Dame Gigogne, un Gille, un Gautier-Garguille, un Capitan ?</s>
+	<s id='1'>Mais cette nÃ©gligence apparente, Monsieur, prÃ©tendez-vous la rÃ©parer avec une Farce d'OpÃ©rateur, une Dame Gigogne, un Gille, un Gautier-Garguille, un CapitanÂ ?</s>
 </p>
 </sp>
 <sp who='MONSIEUR DANCOURT'><speaker>MONSIEUR DANCOURT.</speaker>
-<note type="L">Capitan : Fanfaron outré, qui se vante de plusieurs actions de bravoure incroyables, quoi qu'il soit en effet poltron. [F]</note>
+<note type="L">Capitan : Fanfaron outrÃ©, qui se vante de plusieurs actions de bravoure incroyables, quoi qu'il soit en effet poltron. [F]</note>
 <p id='8'>
-	<s id='1'>Non : mais on connaîtra du moins que le petit nombre d’Acteurs qui demeure à Paris, se donne du soin pour plaire ; et ce petit nombre ne pouvant suffire par lui-même à jouer de certaines Pièces anciennes ou nouvelles, on ne peut que nous savoir gré de laisser Monsieur l’Opérateur Barry donner une espèce de nouveauté, qui sera peut-être moins mal reçue que nous ne pensons l’un et l’autre.</s>
+	<s id='1'>NonÂ : mais on connaÃ®tra du moins que le petit nombre d'Acteurs qui demeure Ã  Paris, se donne du soin pour plaireÂ ; et ce petit nombre ne pouvant suffire par lui-mÃªme Ã  jouer de certaines PiÃ¨ces anciennes ou nouvelles, on ne peut que nous savoir grÃ© de laisser Monsieur l'OpÃ©rateur Barry donner une espÃ¨ce de nouveautÃ©, qui sera peut-Ãªtre moins mal reÃ§ue que nous ne pensons l'un et l'autre.</s>
 </p>
 </sp>
 <sp who='MONSIEUR LE COMTE'><speaker>MONSIEUR LE COMTE.</speaker>
 <p id='9'>
-	<s id='1'>Oh bien, Monsieur, l’Opérateur me révolte, je vous l’avoue, et je vous déclare que c’est malgré moi…</s>
+	<s id='1'>Oh bien, Monsieur, l'OpÃ©rateur me rÃ©volte, je vous l'avoue, et je vous dÃ©clare que c'est malgrÃ© moiÂ…</s>
 </p>
 </sp>
 <sp who='MONSIEUR DANCOURT'><speaker>MONSIEUR DANCOURT.</speaker>
 <p id='10'>
-	<s id='1'>Et malgré Mademoiselle de Chanvallon, surtout, elle s’était habillée pour jouer la Paysanne du Médecin malgré lui. </s>
-	<s id='2'>La voilà aux prises avec Monsieur Barry, laissons-les faire, ils ont aussi bonne tête et aussi bonne langue l’un que l’autre, et la Scène naturelle qu’ils vont nous donner, vaudra peut-être mieux que si elle était étudiée.</s>
+	<s id='1'>Et malgrÃ© Mademoiselle de Chanvallon, surtout, elle s'Ã©tait habillÃ©e pour jouer la Paysanne du MÃ©decin malgrÃ© lui. </s>
+	<s id='2'>La voilÃ  aux prises avec Monsieur Barry, laissons-les faire, ils ont aussi bonne tÃªte et aussi bonne langue l'un que l'autre, et la ScÃ¨ne naturelle qu'ils vont nous donner, vaudra peut-Ãªtre mieux que si elle Ã©tait Ã©tudiÃ©e.</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='3'><head>SCÈNE III. Madame de Chanvallon, Monsieur Barry, Jodelet, Troupe de Valets de Barry.</head>
+<div2 type="scene" n='3'><head>SCÃˆNE III. Madame de Chanvallon, Monsieur Barry, Jodelet, Troupe de Valets de Barry.</head>
 <sp who='MADAME DE CHANVALLON'><speaker>MADAME DE CHANVALLON.</speaker>
 <p id='1'>
 	<s id='1'>Vous sortirez, Monsieur, vous sortirez.</s>
@@ -161,167 +161,167 @@
 </sp>
 <sp who='MONSIEUR BARRY'><speaker>MONSIEUR BARRY.</speaker>
 <p id='2'>
-	<s id='1'>Non Signora, non, je ne sortirai point, mi souis un Forestier, une personne de ma profession, un homme comme mi, qui a un caractère, est bien reçu partout.</s>
+	<s id='1'>Non Signora, non, je ne sortirai point, mi souis un Forestier, une personne de ma profession, un homme comme mi, qui a un caractÃ¨re, est bien reÃ§u partout.</s>
 </p>
 </sp>
 <sp who='MADAME DE CHANVALLON'><speaker>MADAME DE CHANVALLON.</speaker>
 <p id='3'>
-	<s id='1'>Que voulez-vous dire avec votre caractère ? </s>
-	<s id='2'>Est-ce que vous êtes sorcier, mon ami ? </s>
-	<s id='3'>Vous en avez assez la mine ; et vos figures choquantes, et vos visages hétéroclites ne sont point faits pour ce Théâtre-ci.</s>
+	<s id='1'>Que voulez-vous dire avec votre caractÃ¨reÂ ? </s>
+	<s id='2'>Est-ce que vous Ãªtes sorcier, mon amiÂ ? </s>
+	<s id='3'>Vous en avez assez la mineÂ ; et vos figures choquantes, et vos visages hÃ©tÃ©roclites ne sont point faits pour ce ThÃ©Ã¢tre-ci.</s>
 </p>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 <p id='4'>
-	<s id='1'>Madame, Madame, visage vous-même, on ne traite point des gens comme nous de visages, afin que vous l’entendiez.</s>
+	<s id='1'>Madame, Madame, visage vous-mÃªme, on ne traite point des gens comme nous de visages, afin que vous l'entendiez.</s>
 </p>
 </sp>
 <sp who='MADAME DE CHANVALLON'><speaker>MADAME DE CHANVALLON.</speaker>
 <note type="L">Bourle : Tromperie, attrape. [L]</note>
-<note type="L">Carabin(e) : Anciennement, carabin de Saint-Côme (Saint-Côme était l'école de chirurgie, à Paris), frater, garçon chirurgien. Aujourd'hui, familièrement et par dénigrement, étudiant en médecine. [L]</note>
+<note type="L">Carabin(e) : Anciennement, carabin de Saint-CÃ´me (Saint-CÃ´me Ã©tait l'Ã©cole de chirurgie, Ã  Paris), frater, garÃ§on chirurgien. Aujourd'hui, familiÃ¨rement et par dÃ©nigrement, Ã©tudiant en mÃ©decine. [L]</note>
 <p id='5'>
-	<s id='1'>Ah ! </s>
-	<s id='2'>Que de bruit ! </s>
-	<s id='3'>N’y a-t-il pas là quelqu’un de ces Messieurs ? </s>
-	<s id='4'>Qu’on fasse monter la Garde, pour mettre dehors ces originaux-là.</s>
+	<s id='1'>AhÂ ! </s>
+	<s id='2'>Que de bruitÂ ! </s>
+	<s id='3'>N'y a-t-il pas lÃ  quelqu'un de ces MessieursÂ ? </s>
+	<s id='4'>Qu'on fasse monter la Garde, pour mettre dehors ces originaux-lÃ .</s>
 </p>
 </sp>
 <sp who='MONSIEUR BARRY'><speaker>MONSIEUR BARRY.</speaker>
-<note type="L">Suppôt : Terme dogmatique, qui se dit de ce qui sert de base, et de fondement à quelque chose. Se dit quelquefois des personnes soumises et sousordonnées à une autre. [T]</note>
-<note type="L">Apothicaire : Qui exerce cette partie de la Medecine qui consiste en la préparation des remèdes. À Paris, les apothicaires prennent aussi la qualité de marchands épiciers et droguistes.</note>
+<note type="L">SuppÃ´t : Terme dogmatique, qui se dit de ce qui sert de base, et de fondement Ã  quelque chose. Se dit quelquefois des personnes soumises et sousordonnÃ©es Ã  une autre. [T]</note>
+<note type="L">Apothicaire : Qui exerce cette partie de la Medecine qui consiste en la prÃ©paration des remÃ¨des. Ã€ Paris, les apothicaires prennent aussi la qualitÃ© de marchands Ã©piciers et droguistes.</note>
 <p id='6'>
-	<s id='1'>Me mettre dehors, mi ? </s>
-	<s id='2'>Et qui aura la hardiesse de porter la main sur la mia personna ? </s>
-	<s id='3'>Mais je vois bien que c’est une bourle que l’on m’a fait, vous êtes une espionne de la Médecine, une Carabine de la Faculté, un suppôt d’Apothicaire, peut-être, payée des Médecins que ma réputation anéantit, et dont l’ignorance crasse va se dissiper à l’aspect du Soleil de la véritable médecine ; mais je ferai taire l’envie. </s>
-	<s id='4'>Je parlerai si haut, qu’on m’entendra aux quatre coins de l’Univers, au Levant, au Couchant, au Midi, au Septentrion.</s>
+	<s id='1'>Me mettre dehors, miÂ ? </s>
+	<s id='2'>Et qui aura la hardiesse de porter la main sur la mia personnaÂ ? </s>
+	<s id='3'>Mais je vois bien que c'est une bourle que l'on m'a fait, vous Ãªtes une espionne de la MÃ©decine, une Carabine de la FacultÃ©, un suppÃ´t d'Apothicaire, peut-Ãªtre, payÃ©e des MÃ©decins que ma rÃ©putation anÃ©antit, et dont l'ignorance crasse va se dissiper Ã  l'aspect du Soleil de la vÃ©ritable mÃ©decineÂ ; mais je ferai taire l'envie. </s>
+	<s id='4'>Je parlerai si haut, qu'on m'entendra aux quatre coins de l'Univers, au Levant, au Couchant, au Midi, au Septentrion.</s>
 </p>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 <p id='7'>
-	<s id='1'>Au nord, au Sud, à l’Est, à l’Ouest, entendez-vous, Madame ?</s>
+	<s id='1'>Au nord, au Sud, Ã  l'Est, Ã  l'Ouest, entendez-vous, MadameÂ ?</s>
 </p>
 </sp>
 <sp who='MADAME DE CHANVALLON'><speaker>MADAME DE CHANVALLON.</speaker>
-<note type="L">Dévisager : Blesser quelqu'un au visage, en sorte qu'il en soit défiguré et gâté. [F]</note>
+<note type="L">DÃ©visager : Blesser quelqu'un au visage, en sorte qu'il en soit dÃ©figurÃ© et gÃ¢tÃ©. [F]</note>
 <p id='8'>
-	<s id='1'>Messieurs les babillards, je vous dévisagerai, moi, si vous ne vous taisez.</s>
+	<s id='1'>Messieurs les babillards, je vous dÃ©visagerai, moi, si vous ne vous taisez.</s>
 </p>
 </sp>
 <sp who='MONSIEUR BARRY'><speaker>MONSIEUR BARRY.</speaker>
 <p id='9'>
-	<s id='1'>Mi, que je me taise ? </s>
-	<s id='2'>Que je me taise, mi ? </s>
-	<s id='3'>Et qui parlera donc, si je ne dis mot ? </s>
-	<s id='4'>Mi qui souis piou Orateur que Cicéron, piou sage que Caton, piou savant cent fois qu’Aristote, qui possède toutes les langues et tous les idiomes de la terre, le Grec, le Latin, le Syriaque, le Chaldéen, l’Arabe, l’Hébreu, le Suédois, le Laponois, l’Iroquois, le Chinois, le Tonquinois, et le Cochinchinois.</s>
+	<s id='1'>Mi, que je me taiseÂ ? </s>
+	<s id='2'>Que je me taise, miÂ ? </s>
+	<s id='3'>Et qui parlera donc, si je ne dis motÂ ? </s>
+	<s id='4'>Mi qui souis piou Orateur que CicÃ©ron, piou sage que Caton, piou savant cent fois qu'Aristote, qui possÃ¨de toutes les langues et tous les idiomes de la terre, le Grec, le Latin, le Syriaque, le ChaldÃ©en, l'Arabe, l'HÃ©breu, le SuÃ©dois, le Laponois, l'Iroquois, le Chinois, le Tonquinois, et le Cochinchinois.</s>
 </p>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 <p id='10'>
-	<s id='1'>Et qui outre cela sait lire et écrire, afin que vous le sachiez.</s>
+	<s id='1'>Et qui outre cela sait lire et Ã©crire, afin que vous le sachiez.</s>
 </p>
 </sp>
 <sp who='MADAME DE CHANVALLON'><speaker>MADAME DE CHANVALLON.</speaker>
 <p id='11'>
-	<s id='1'>Maudit harangueur, te tairas-tu ? </s>
-	<s id='2'>Il y a ici nombre d’honnêtes gens, que tu étourdis de ton babil.</s>
+	<s id='1'>Maudit harangueur, te tairas-tuÂ ? </s>
+	<s id='2'>Il y a ici nombre d'honnÃªtes gens, que tu Ã©tourdis de ton babil.</s>
 </p>
 </sp>
 <sp who='MONSIEUR BARRY'><speaker>MONSIEUR BARRY.</speaker>
 <p id='12'>
-	<s id='1'>Nombre d’honnêtes gens ! </s>
-	<s id='2'>Bon, tant mieux, c’est ce que je cherche, et ce que j’ai tant de peine à trouver.</s>
+	<s id='1'>Nombre d'honnÃªtes gensÂ ! </s>
+	<s id='2'>Bon, tant mieux, c'est ce que je cherche, et ce que j'ai tant de peine Ã  trouver.</s>
 </p>
 </sp>
 <sp who='MADAME DE CHANVALLON'><speaker>MADAME DE CHANVALLON.</speaker>
 <p id='13'>
-	<s id='1'>Cet homme-là a encore plus de babil que moi, toute femme que je suis. </s>
-	<s id='2'>Il n’y a pas moyen de le faire taire, il vaut mieux céder.</s>
+	<s id='1'>Cet homme-lÃ  a encore plus de babil que moi, toute femme que je suis. </s>
+	<s id='2'>Il n'y a pas moyen de le faire taire, il vaut mieux cÃ©der.</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='4'><head>SCÈNE IV. Monsieur Barry, Jodelet et ses Valets.</head>
+<div2 type="scene" n='4'><head>SCÃˆNE IV. Monsieur Barry, Jodelet et ses Valets.</head>
 <sp who='MONSIEUR BARRY'><speaker>MONSIEUR BARRY.</speaker>
-<note type="L">Phénix : Oiseau fabuleux, qu'on croyait unique en son espèce, et renaître de ses cendres.  Figurément, qui est supérieur à tous ceux de son genre. [F]</note>
+<note type="L">PhÃ©nix : Oiseau fabuleux, qu'on croyait unique en son espÃ¨ce, et renaÃ®tre de ses cendres.  FigurÃ©ment, qui est supÃ©rieur Ã  tous ceux de son genre. [F]</note>
 <note type="L">Parangon : Vieux mot qui signifiait autrefois une chose excellente et hors de comparaison. [F]</note>
 <p id='1'>
-	<s id='1'>Vous voyez, Messieurs et Mesdames, vous voyez, dis-je, le plus grand personnage du monde, un Virtuose, un Phénix pour sa profession, le Parangon de la Médecine, le successeur d’Hippocrate en ligne directe, et l’Héritier de ses Aphorismes, le scrutateur de la nature, le vainqueur des maladies, et le fléau de toutes les Facultés. </s>
-	<s id='2'>Vous voyez, dis-je, de vos propres yeux, un médecin méthodique, galénique, hippocratique, pathologique, chimique, spagyrique, empirique.</s>
+	<s id='1'>Vous voyez, Messieurs et Mesdames, vous voyez, dis-je, le plus grand personnage du monde, un Virtuose, un PhÃ©nix pour sa profession, le Parangon de la MÃ©decine, le successeur d'Hippocrate en ligne directe, et l'HÃ©ritier de ses Aphorismes, le scrutateur de la nature, le vainqueur des maladies, et le flÃ©au de toutes les FacultÃ©s. </s>
+	<s id='2'>Vous voyez, dis-je, de vos propres yeux, un mÃ©decin mÃ©thodique, galÃ©nique, hippocratique, pathologique, chimique, spagyrique, empirique.</s>
 </p>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
-<note type="L">Hippocrate : le père de la Médecine, né en 460 avant JC dans l'île de Cos. Il ets l'auteur de la théorie des quatres humeurs : sang, flegme, bile, atrabile. Les médecins modernes prêtent serment de porter soins et secours au nom d'Hippocrate.</note>
+<note type="L">Hippocrate : le pÃ¨re de la MÃ©decine, nÃ© en 460 avant JC dans l'Ã®le de Cos. Il ets l'auteur de la thÃ©orie des quatres humeurs : sang, flegme, bile, atrabile. Les mÃ©decins modernes prÃªtent serment de porter soins et secours au nom d'Hippocrate.</note>
 <p id='2'>
-	<s id='1'>Et un médecin qui fait la médecine, cela n’est pas commun.</s>
+	<s id='1'>Et un mÃ©decin qui fait la mÃ©decine, cela n'est pas commun.</s>
 </p>
 </sp>
 <sp who='MONSIEUR BARRY'><speaker>MONSIEUR BARRY.</speaker>
 <p id='3'>
 	<s id='1'>Je souis, Messieurs et Mesdames, ce fameux Melchisedech Barry. </s>
-	<s id='2'>Comme il n’y a qu’un Soleil dans le Ciel, il n’y a aussi qu’un Barry sur terre. </s>
-	<s id='3'>Il y a quatre-vingt-treize ans que je faisais du bruit de diable à Paris, n’y a-t-il personne ici qui se souvienne de m’y avoir vu ? </s>
-	<s id='4'>En quel lieu de l’Univers n’ai-je point été depuis ? </s>
-	<s id='5'>Quelles cures n’ai-je point faites ? </s>
-	<s id='6'>Informez-vous de moi à Siam, on vous dira que j’ai guéri l’Éléphant blanc d’une colique néphrétique. </s>
-	<s id='7'>Que l’on écrive en Italie, on saura que j’ai délivré la République de Raguse d’un cancer qu’elle avait à la mamelle gauche. </s>
-	<s id='8'>Que l’on demande au Grand Mogol, qui l’a sauvé de sa dernière petite vérole ? </s>
-	<s id='9'>C’est Barry. </s>
-	<s id='10'>Qui est-ce qui a arraché onze dents machelières, et quinze cors aux pieds à l’Infante Atabalippa ? </s>
-	<s id='11'>Quel autre pourrait-ce être que le fameux Barry.</s>
+	<s id='2'>Comme il n'y a qu'un Soleil dans le Ciel, il n'y a aussi qu'un Barry sur terre. </s>
+	<s id='3'>Il y a quatre-vingt-treize ans que je faisais du bruit de diable Ã  Paris, n'y a-t-il personne ici qui se souvienne de m'y avoir vuÂ ? </s>
+	<s id='4'>En quel lieu de l'Univers n'ai-je point Ã©tÃ© depuisÂ ? </s>
+	<s id='5'>Quelles cures n'ai-je point faitesÂ ? </s>
+	<s id='6'>Informez-vous de moi Ã  Siam, on vous dira que j'ai guÃ©ri l'Ã‰lÃ©phant blanc d'une colique nÃ©phrÃ©tique. </s>
+	<s id='7'>Que l'on Ã©crive en Italie, on saura que j'ai dÃ©livrÃ© la RÃ©publique de Raguse d'un cancer qu'elle avait Ã  la mamelle gauche. </s>
+	<s id='8'>Que l'on demande au Grand Mogol, qui l'a sauvÃ© de sa derniÃ¨re petite vÃ©roleÂ ? </s>
+	<s id='9'>C'est Barry. </s>
+	<s id='10'>Qui est-ce qui a arrachÃ© onze dents macheliÃ¨res, et quinze cors aux pieds Ã  l'Infante AtabalippaÂ ? </s>
+	<s id='11'>Quel autre pourrait-ce Ãªtre que le fameux Barry.</s>
 </p>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 <p id='4'>
-	<s id='1'>Pour peu que vous en doutiez, allez vous-mêmes sur les lieux, on vous en dira des nouvelles.</s>
+	<s id='1'>Pour peu que vous en doutiez, allez vous-mÃªmes sur les lieux, on vous en dira des nouvelles.</s>
 </p>
 </sp>
 <sp who='MONSIEUR BARRY'><speaker>MONSIEUR BARRY.</speaker>
 <p id='5'>
-	<s id='1'>Mais, me direz-vous, je n’ai que faire de vos remèdes, je me porte bien ; je ne suis, Dieu merci, ni pulmonique, ni asthmatique ; je n’ai ni pierre, ni gravelle, ni fluxion, ni catarrhe, ni rhumatisme. </s>
-	<s id='2'>Hé tant mieux ! </s>
-	<s id='3'>Le Ciel en soit loué, c’est ce que je demande. </s>
-	<s id='4'>Est-ce l’intérêt qui me fait agir ? </s>
+	<s id='1'>Mais, me direz-vous, je n'ai que faire de vos remÃ¨des, je me porte bienÂ ; je ne suis, Dieu merci, ni pulmonique, ni asthmatiqueÂ ; je n'ai ni pierre, ni gravelle, ni fluxion, ni catarrhe, ni rhumatisme. </s>
+	<s id='2'>HÃ© tant mieuxÂ ! </s>
+	<s id='3'>Le Ciel en soit louÃ©, c'est ce que je demande. </s>
+	<s id='4'>Est-ce l'intÃ©rÃªt qui me fait agirÂ ? </s>
 	<s id='5'>Non, Signori, non. </s>
-	<s id='6'>J’ai piou de bien que je n’en veux : mais j’ai d’autres sec rets, où le beau sexe ne sera peut-être pas insensible. </s>
-	<s id='7'>Je vous apporte, Mesdames ; et quoi ? </s>
-	<s id='8'>Le trésor de la beauté, le magasin des agréments, l’arsenal de l’amour. </s>
-	<s id='9'>Je vous apporte de quoi pousser la beauté et la jeunesse jusques par-delà la décrépitude.</s>
+	<s id='6'>J'ai piou de bien que je n'en veuxÂ : mais j'ai d'autres sec rets, oÃ¹ le beau sexe ne sera peut-Ãªtre pas insensible. </s>
+	<s id='7'>Je vous apporte, MesdamesÂ ; et quoiÂ ? </s>
+	<s id='8'>Le trÃ©sor de la beautÃ©, le magasin des agrÃ©ments, l'arsenal de l'amour. </s>
+	<s id='9'>Je vous apporte de quoi pousser la beautÃ© et la jeunesse jusques par-delÃ  la dÃ©crÃ©pitude.</s>
 </p>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 <p id='6'>
-	<s id='1'>C’est lui qui m’a rendu beau comme vous me voyez.</s>
+	<s id='1'>C'est lui qui m'a rendu beau comme vous me voyez.</s>
 </p>
 </sp>
 <sp who='MONSIEUR BARRY'><speaker>MONSIEUR BARRY.</speaker>
 <p id='7'>
-	<s id='1'>Je porte avec moi un baume du Japon, qui noircit les cheveux gris, et dément les Extraits baptistaires ; une pommade du Pérou, qui rend le teint uni comme un miroir, et recrépit les trous de la petite vérole. </s>
-	<s id='2'>Une quintessence de la Chine, qui agrandit les yeux, et rapproche les coins de la bouche, fait sortir le nez à celles qui n’en ont guères, et le fait rentrer à celles qui en ont trop. </s>
-	<s id='3'>Enfin, un Élixir spécifique, que je puis appeler le supplément de la beauté, le réparateur des visages, et l’abrégé universel de tous les charmes qui ont été refusés par la nature. </s>
-	<s id='4'>Mais, vous autres, belles Dames, vous n’avez pas besoin de mes secrets, je le sais, je le vois, ce réduit est aujourd’hui le centre des charmes et de la beauté, et je vois bien qu’il faut attendre un autre jour pour le débit de mes trésors, et me borner présentement au seul honneur de vous donner en impromptu le divertissement d’une espèce de petite Farce, telle que j’en faisais autrefois représenter assez près d’icI. Nous y joindrons un petit Ballet, où tout le monde entrera masqué. </s>
-	<s id='5'>Que l’on joue seulement un petit air, pour donner le temps à mes Acteurs de se disposer pour leurs Rôles.</s>
+	<s id='1'>Je porte avec moi un baume du Japon, qui noircit les cheveux gris, et dÃ©ment les Extraits baptistairesÂ ; une pommade du PÃ©rou, qui rend le teint uni comme un miroir, et recrÃ©pit les trous de la petite vÃ©role. </s>
+	<s id='2'>Une quintessence de la Chine, qui agrandit les yeux, et rapproche les coins de la bouche, fait sortir le nez Ã  celles qui n'en ont guÃ¨res, et le fait rentrer Ã  celles qui en ont trop. </s>
+	<s id='3'>Enfin, un Ã‰lixir spÃ©cifique, que je puis appeler le supplÃ©ment de la beautÃ©, le rÃ©parateur des visages, et l'abrÃ©gÃ© universel de tous les charmes qui ont Ã©tÃ© refusÃ©s par la nature. </s>
+	<s id='4'>Mais, vous autres, belles Dames, vous n'avez pas besoin de mes secrets, je le sais, je le vois, ce rÃ©duit est aujourd'hui le centre des charmes et de la beautÃ©, et je vois bien qu'il faut attendre un autre jour pour le dÃ©bit de mes trÃ©sors, et me borner prÃ©sentement au seul honneur de vous donner en impromptu le divertissement d'une espÃ¨ce de petite Farce, telle que j'en faisais autrefois reprÃ©senter assez prÃ¨s d'icI. Nous y joindrons un petit Ballet, oÃ¹ tout le monde entrera masquÃ©. </s>
+	<s id='5'>Que l'on joue seulement un petit air, pour donner le temps Ã  mes Acteurs de se disposer pour leurs RÃ´les.</s>
 </p>
-<stage>Les violons jouent une ouverture, après laquelle la comédie commence.</stage>
+<stage>Les violons jouent une ouverture, aprÃ¨s laquelle la comÃ©die commence.</stage>
 </sp>
 </div2>
 </div1>
-<div1 type='acte' n='2'><head>COMÉDIE.</head>
-<div2 type='scene' n='1'><head>SCÈNE I.</head>
+<div1 type="act" n='2'><head>COMÃ‰DIE.</head>
+<div2 type="scene" n='1'><head>SCÃˆNE I.</head>
 <sp who='GARGUILLE'><speaker>GARGUILLE, seul.</speaker>
 <p id='1'>
-	<s id='1'>Que la volonté de l’homme est changeante ! </s>
-	<s id='2'>Et, comme disait fort bien à feu mon grand-père, son feu grand-père à lui, qui était un fort grand personnage, il n’y a rien de certain dans le monde comme le changement. </s>
-	<s id='3'>Ce que nous souhaitions hier nous déplaît aujourd’hui, et ce que nous voulons aujourd’hui nous fatigueras de main. </s>
-	<s id='4'>Je me suis ennuyé d’être garçon, un Notaire de mes amis m’a marié, je voudrais bien être veuf. </s>
-	<s id='5'>J’ai souhaité avoir des enfants, le Ciel m’a donné une fille, et je me trouverais fort heureux si quelqu’un m’en voulait débarrasser. </s>
-	<s id='6'>Mais voici le Capitan Spacamonte : ce fanfaron-là ne me plaît point. </s>
-	<s id='7'>Il vient vers moi ; me voudrait-il quelque chose ?</s>
+	<s id='1'>Que la volontÃ© de l'homme est changeanteÂ ! </s>
+	<s id='2'>Et, comme disait fort bien Ã  feu mon grand-pÃ¨re, son feu grand-pÃ¨re Ã  lui, qui Ã©tait un fort grand personnage, il n'y a rien de certain dans le monde comme le changement. </s>
+	<s id='3'>Ce que nous souhaitions hier nous dÃ©plaÃ®t aujourd'hui, et ce que nous voulons aujourd'hui nous fatigueras de main. </s>
+	<s id='4'>Je me suis ennuyÃ© d'Ãªtre garÃ§on, un Notaire de mes amis m'a mariÃ©, je voudrais bien Ãªtre veuf. </s>
+	<s id='5'>J'ai souhaitÃ© avoir des enfants, le Ciel m'a donnÃ© une fille, et je me trouverais fort heureux si quelqu'un m'en voulait dÃ©barrasser. </s>
+	<s id='6'>Mais voici le Capitan SpacamonteÂ : ce fanfaron-lÃ  ne me plaÃ®t point. </s>
+	<s id='7'>Il vient vers moiÂ ; me voudrait-il quelque choseÂ ?</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='2'><head>SCÈNE II. Garguille, Spacamonte.</head>
+<div2 type="scene" n='2'><head>SCÃˆNE II. Garguille, Spacamonte.</head>
 <sp who='SPACAMONTE'><speaker>SPACAMONTE.</speaker>
 <p id='1'>
-	<s id='1'>Je baise les pieds et les mains, et tout ce qu’on peut baiser avec bienséance au bonhomme Gautier-Garguille.</s>
+	<s id='1'>Je baise les pieds et les mains, et tout ce qu'on peut baiser avec biensÃ©ance au bonhomme Gautier-Garguille.</s>
 </p>
 </sp>
 <sp who='GARGUILLE'><speaker>GARGUILLE.</speaker>
@@ -331,112 +331,112 @@
 </sp>
 <sp who='SPACAMONTE'><speaker>SPACAMONTE.</speaker>
 <p id='3'>
-	<s id='1'>Hé bien, comment vous ça va, pauvre diable ?</s>
+	<s id='1'>HÃ© bien, comment vous Ã§a va, pauvre diableÂ ?</s>
 </p>
 </sp>
 <sp who='GARGUILLE'><speaker>GARGUILLE.</speaker>
 <p id='4'>
-	<s id='1'>Fort bien, grâce au Ciel, et vous voyez le plus malade de la famille.</s>
+	<s id='1'>Fort bien, grÃ¢ce au Ciel, et vous voyez le plus malade de la famille.</s>
 </p>
 </sp>
 <sp who='SPACAMONTE'><speaker>SPACAMONTE.</speaker>
 <p id='5'>
-	<s id='1'>Vous êtes vieux, attaqué de gouttes parfois, sujet aux fluxions, aux catarrhes, aux rhumatismes.</s>
+	<s id='1'>Vous Ãªtes vieux, attaquÃ© de gouttes parfois, sujet aux fluxions, aux catarrhes, aux rhumatismes.</s>
 </p>
 </sp>
 <sp who='GARGUILLE'><speaker>GARGUILLE.</speaker>
 <p id='6'>
-	<s id='1'>Cela n’est rien. </s>
-	<s id='2'>Hors un mal de tête qui me tient presque toujours, une douleur de dents continuelle, mon petit rhume de poitrine ordinaire, une colique qui me prend de temps en temps dans le bas ventre, le mouvement de cette hanche-là que je n’ai pas bien libre, de grandes lassitudes dans les cuisses, et la jambe gauche qui me refuse un peu le service ; à cela près, je me porte à merveilles, et je suis toujours gai et gaillard, comme vous voyez.</s>
+	<s id='1'>Cela n'est rien. </s>
+	<s id='2'>Hors un mal de tÃªte qui me tient presque toujours, une douleur de dents continuelle, mon petit rhume de poitrine ordinaire, une colique qui me prend de temps en temps dans le bas ventre, le mouvement de cette hanche-lÃ  que je n'ai pas bien libre, de grandes lassitudes dans les cuisses, et la jambe gauche qui me refuse un peu le serviceÂ ; Ã  cela prÃ¨s, je me porte Ã  merveilles, et je suis toujours gai et gaillard, comme vous voyez.</s>
 </p>
 </sp>
 <sp who='SPACAMONTE'><speaker>SPACAMONTE.</speaker>
 <p id='7'>
-	<s id='1'>Allez, mon ami, je défie la mort de vous prendre par maladies, et j’ai dessein de vous tuer à force de joie.</s>
+	<s id='1'>Allez, mon ami, je dÃ©fie la mort de vous prendre par maladies, et j'ai dessein de vous tuer Ã  force de joie.</s>
 </p>
 </sp>
 <sp who='GARGUILLE'><speaker>GARGUILLE.</speaker>
 <p id='8'>
-	<s id='1'>Comment ! </s>
-	<s id='2'>Me tuer à force de joie ?</s>
+	<s id='1'>CommentÂ ! </s>
+	<s id='2'>Me tuer Ã  force de joieÂ ?</s>
 </p>
 </sp>
 <sp who='SPACAMONTE'><speaker>SPACAMONTE.</speaker>
 <p id='9'>
-	<s id='1'>Si vous en échappez, bonhomme, je vous tiens l’âme bien tenace.</s>
+	<s id='1'>Si vous en Ã©chappez, bonhomme, je vous tiens l'Ã¢me bien tenace.</s>
 </p>
 </sp>
 <sp who='GARGUILLE'><speaker>GARGUILLE.</speaker>
 <p id='10'>
-	<s id='1'>Et qui pourrait me causer ces excès de plaisir ?</s>
+	<s id='1'>Et qui pourrait me causer ces excÃ¨s de plaisirÂ ?</s>
 </p>
 </sp>
 <sp who='SPACAMONTE'><speaker>SPACAMONTE.</speaker>
 <p id='11'>
 	<s id='1'>Votre bonne fortune. </s>
-	<s id='2'>Vous m’avez plu, je vais devenir votre gendre.</s>
+	<s id='2'>Vous m'avez plu, je vais devenir votre gendre.</s>
 </p>
 </sp>
 <sp who='GARGUILLE'><speaker>GARGUILLE.</speaker>
 <p id='12'>
-	<s id='1'>Oh ! </s>
+	<s id='1'>OhÂ ! </s>
 	<s id='2'>Je ne mourrai point de cela, ni ma fille non plus, je vous assure.</s>
 </p>
 </sp>
 <sp who='SPACAMONTE'><speaker>SPACAMONTE.</speaker>
 <p id='13'>
-	<s id='1'>Sottise, bagatelle, vous déguisez. </s>
+	<s id='1'>Sottise, bagatelle, vous dÃ©guisez. </s>
 	<s id='2'>Je cours avertir mes parents, et les prier du festin que je vous commande de commander.</s>
 </p>
 </sp>
 <sp who='GARGUILLE'><speaker>GARGUILLE.</speaker>
 <p id='14'>
-	<s id='1'>Attendez, Seigneur Spacamonte, priez vos parents de votre enterrement plutôt que de la noce ? </s>
-	<s id='2'>Je vais vous tuer à force de chagrin.</s>
+	<s id='1'>Attendez, Seigneur Spacamonte, priez vos parents de votre enterrement plutÃ´t que de la noceÂ ? </s>
+	<s id='2'>Je vais vous tuer Ã  force de chagrin.</s>
 </p>
 </sp>
 <sp who='SPACAMONTE'><speaker>SPACAMONTE.</speaker>
 <p id='15'>
-	<s id='1'>Comment me tuer de chagrin ?</s>
+	<s id='1'>Comment me tuer de chagrinÂ ?</s>
 </p>
 </sp>
 <sp who='GARGUILLE'><speaker>GARGUILLE.</speaker>
 <p id='16'>
-	<s id='1'>Oui, le chagrin est plus mortel que la joie, et vous n’aurez pas ma fille, je vous en avertis : ah, ah, ah.</s>
+	<s id='1'>Oui, le chagrin est plus mortel que la joie, et vous n'aurez pas ma fille, je vous en avertisÂ : ah, ah, ah.</s>
 </p>
 </sp>
 <sp who='SPACAMONTE'><speaker>SPACAMONTE.</speaker>
 <p id='17'>
 	<s id='1'>Ah, ah, ah. </s>
-	<s id='2'>Un petit mot, bonhomme : j’aurai votre fille ; la Mademoiselle Garguille, votre femme, me l’a promise.</s>
+	<s id='2'>Un petit mot, bonhommeÂ : j'aurai votre filleÂ ; la Mademoiselle Garguille, votre femme, me l'a promise.</s>
 </p>
 </sp>
 <sp who='GARGUILLE'><speaker>GARGUILLE.</speaker>
 <p id='18'>
-	<s id='1'>Ma femme vous l’a promise ?</s>
+	<s id='1'>Ma femme vous l'a promiseÂ ?</s>
 </p>
 </sp>
 <sp who='SPACAMONTE'><speaker>SPACAMONTE.</speaker>
 <p id='19'>
-	<s id='1'>Hé donc ! </s>
-	<s id='2'>Belle demande ! </s>
-	<s id='3'>Et j’ai fait serment d’exterminer, fût-ce vous, le premier coquin qui aurait l’audace de s’y opposer.</s>
+	<s id='1'>HÃ© doncÂ ! </s>
+	<s id='2'>Belle demandeÂ ! </s>
+	<s id='3'>Et j'ai fait serment d'exterminer, fÃ»t-ce vous, le premier coquin qui aurait l'audace de s'y opposer.</s>
 </p>
 </sp>
 <sp who='GARGUILLE'><speaker>GARGUILLE.</speaker>
 <p id='20'>
-	<s id='1'>Hé bien, cela est clair.</s>
+	<s id='1'>HÃ© bien, cela est clair.</s>
 </p>
 </sp>
 <sp who='SPACAMONTE'><speaker>SPACAMONTE.</speaker>
 <p id='21'>
-	<s id='1'>Cette enfant est toute ajustée, toute déguisée, pour le petit Bal qui se donne. </s>
-	<s id='2'>Je vais souper à fond, puis je viendrai la prendre, et nous épouserons immédiatement après la danse : n’est-ce pas votre avis ?</s>
+	<s id='1'>Cette enfant est toute ajustÃ©e, toute dÃ©guisÃ©e, pour le petit Bal qui se donne. </s>
+	<s id='2'>Je vais souper Ã  fond, puis je viendrai la prendre, et nous Ã©pouserons immÃ©diatement aprÃ¨s la danseÂ : n'est-ce pas votre avisÂ ?</s>
 </p>
 </sp>
 <sp who='GARGUILLE'><speaker>GARGUILLE.</speaker>
 <p id='22'>
-	<s id='1'>Est-ce celui de ma femme ?</s>
+	<s id='1'>Est-ce celui de ma femmeÂ ?</s>
 </p>
 </sp>
 <sp who='SPACAMONTE'><speaker>SPACAMONTE.</speaker>
@@ -446,62 +446,62 @@
 </sp>
 <sp who='GARGUILLE'><speaker>GARGUILLE.</speaker>
 <p id='24'>
-	<s id='1'>Et le vôtre aussi, apparemment ?</s>
+	<s id='1'>Et le vÃ´tre aussi, apparemmentÂ ?</s>
 </p>
 </sp>
 <sp who='SPACAMONTE'><speaker>SPACAMONTE.</speaker>
 <p id='25'>
-	<s id='1'>Hé ! </s>
-	<s id='2'>Cadédis, sans doute.</s>
+	<s id='1'>HÃ©Â ! </s>
+	<s id='2'>CadÃ©dis, sans doute.</s>
 </p>
 </sp>
 <sp who='GARGUILLE'><speaker>GARGUILLE.</speaker>
 <p id='26'>
-	<s id='1'>Deux avis valent mieux qu’un, je n’ai pas de mot à dire.</s>
+	<s id='1'>Deux avis valent mieux qu'un, je n'ai pas de mot Ã  dire.</s>
 </p>
 </sp>
 <sp who='SPACAMONTE'><speaker>SPACAMONTE.</speaker>
 <p id='27'>
 	<s id='1'>Je suis ravi de vous trouver sage. </s>
-	<s id='2'>Si vous cessiez de l’être, je vous réduirais. </s>
-	<s id='3'>Sans adieu, beau-père.</s>
+	<s id='2'>Si vous cessiez de l'Ãªtre, je vous rÃ©duirais. </s>
+	<s id='3'>Sans adieu, beau-pÃ¨re.</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='3'><head>SCÈNE III.</head>
+<div2 type="scene" n='3'><head>SCÃˆNE III.</head>
 <sp who='GARGUILLE'><speaker>GARGUILLE, seul.</speaker>
 <p id='1'>
-	<s id='1'>Beau-père… Voilà un mariage bientôt bâtI. Je ne veux point de ce Bretteur-là dans ma maison. </s>
-	<s id='2'>Que faut-il que je fasse ? </s>
-	<s id='3'>Il me vient une pensée. </s>
+	<s id='1'>Beau-pÃ¨reÂ… VoilÃ  un mariage bientÃ´t bÃ¢tI. Je ne veux point de ce Bretteur-lÃ  dans ma maison. </s>
+	<s id='2'>Que faut-il que je fasseÂ ? </s>
+	<s id='3'>Il me vient une pensÃ©e. </s>
 	<s id='4'>Les conseils des femmes ne sont pas mauvais quelquefois. </s>
 	<s id='5'>Voici la maison de Zerbinette, elle est de ma connaissance, et cette petite vieille Italienne en sait beaucoup. </s>
-	<s id='6'>Opposons femme à femme, et malice à malice ; elle trouvera peut-être moyen d’empêcher ce mariage, qui me fait de la peine. </s>
-	<s id='7'>Holà, quelqu’un.</s>
+	<s id='6'>Opposons femme Ã  femme, et malice Ã  maliceÂ ; elle trouvera peut-Ãªtre moyen d'empÃªcher ce mariage, qui me fait de la peine. </s>
+	<s id='7'>HolÃ , quelqu'un.</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='4'><head>SCÈNE IV. Garguille, Zerbinette.</head>
+<div2 type="scene" n='4'><head>SCÃˆNE IV. Garguille, Zerbinette.</head>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
 <p id='1'>
-	<s id='1'>Ah, buon di, buon di, Signor Garguille, dèh come sta Vossignoria,</s>
+	<s id='1'>Ah, buon di, buon di, Signor Garguille, dÃ¨h come sta Vossignoria,</s>
 </p>
 </sp>
 <sp who='GARGUILLE'><speaker>GARGUILLE.</speaker>
 <p id='2'>
-	<s id='1'>Laissez-là votre baragouin, de grâce ; et parlez français, si vous voulez que nous nous entendions</s>
+	<s id='1'>Laissez-lÃ  votre baragouin, de grÃ¢ceÂ ; et parlez franÃ§ais, si vous voulez que nous nous entendions</s>
 </p>
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
 <p id='3'>
-	<s id='1'>Francesè ? </s>
-	<s id='2'>Volontieri ; che volete da me ? </s>
-	<s id='3'>Son tutt’ al vostro servitio.</s>
+	<s id='1'>FrancesÃ¨Â ? </s>
+	<s id='2'>VolontieriÂ ; che volete da meÂ ? </s>
+	<s id='3'>Son tutt' al vostro servitio.</s>
 </p>
 </sp>
 <sp who='GARGUILLE'><speaker>GARGUILLE.</speaker>
 <p id='4'>
-	<s id='1'>Madame Zerbinette, si je vous parlais Turc, y comprendriez-vous quelque chose ?</s>
+	<s id='1'>Madame Zerbinette, si je vous parlais Turc, y comprendriez-vous quelque choseÂ ?</s>
 </p>
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
@@ -511,271 +511,271 @@
 </sp>
 <sp who='GARGUILLE'><speaker>GARGUILLE.</speaker>
 <p id='6'>
-	<s id='1'>Dites-vous oui, ou non ?</s>
+	<s id='1'>Dites-vous oui, ou nonÂ ?</s>
 </p>
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
 <p id='7'>
-	<s id='1'>Signor, sì.</s>
+	<s id='1'>Signor, sÃ¬.</s>
 </p>
 </sp>
 <sp who='GARGUILLE'><speaker>GARGUILLE.</speaker>
 <p id='8'>
-	<s id='1'>Dites-vous non, ou oui ?</s>
+	<s id='1'>Dites-vous non, ou ouiÂ ?</s>
 </p>
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
 <p id='9'>
-	<s id='1'>Si e no, no e sì , conform’a l’occasione.</s>
+	<s id='1'>Si e no, no e sÃ¬ , conform'a l'occasione.</s>
 </p>
 </sp>
 <sp who='GARGUILLE'><speaker>GARGUILLE.</speaker>
 <p id='10'>
-	<s id='1'>Mais écoutez donc, c’est pour une affaire de conséquence que je viens vous consulter ; vous êtes de mes amies ; parlons français, je vous en conjure.</s>
+	<s id='1'>Mais Ã©coutez donc, c'est pour une affaire de consÃ©quence que je viens vous consulterÂ ; vous Ãªtes de mes amiesÂ ; parlons franÃ§ais, je vous en conjure.</s>
 </p>
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
 <p id='11'>
-	<s id='1'>Voilà qui est fait, Sarete contento. </s>
-	<s id='2'>De quoi s’agit-il ?</s>
+	<s id='1'>VoilÃ  qui est fait, Sarete contento. </s>
+	<s id='2'>De quoi s'agit-ilÂ ?</s>
 </p>
 </sp>
 <sp who='GARGUILLE'><speaker>GARGUILLE.</speaker>
 <p id='12'>
-	<s id='1'>Ma femme veut marier notre fille Isabelle ; et comme le mari qu’elle prétend lui donner ne me plaît pas, je viens vous prier de m’aider à rompre ce mariage.</s>
+	<s id='1'>Ma femme veut marier notre fille IsabelleÂ ; et comme le mari qu'elle prÃ©tend lui donner ne me plaÃ®t pas, je viens vous prier de m'aider Ã  rompre ce mariage.</s>
 </p>
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
 <p id='13'>
-	<s id='1'>O che gioia ! </s>
-	<s id='2'>Che gusto !</s>
+	<s id='1'>O che gioiaÂ ! </s>
+	<s id='2'>Che gustoÂ !</s>
 </p>
 </sp>
 <sp who='GARGUILLE'><speaker>GARGUILLE.</speaker>
 <p id='14'>
-	<s id='1'>Encore ? </s>
-	<s id='2'>Hé de grâce.</s>
+	<s id='1'>EncoreÂ ? </s>
+	<s id='2'>HÃ© de grÃ¢ce.</s>
 </p>
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
 <p id='15'>
-	<s id='1'>Ce n’est pas à vous, c’est à moi que je parle.</s>
+	<s id='1'>Ce n'est pas Ã  vous, c'est Ã  moi que je parle.</s>
 </p>
 </sp>
 <sp who='GARGUILLE'><speaker>GARGUILLE.</speaker>
 <p id='16'>
-	<s id='1'>Oui : mais comme c’est moi qui vous parle, c’est à moi qu’il faudrait répondre.</s>
+	<s id='1'>OuiÂ : mais comme c'est moi qui vous parle, c'est Ã  moi qu'il faudrait rÃ©pondre.</s>
 </p>
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
 <p id='17'>
 	<s id='1'>Vous avez raison. </s>
-	<s id='2'>Et qui est ce mari qui ne vous plaît pas ?</s>
+	<s id='2'>Et qui est ce mari qui ne vous plaÃ®t pasÂ ?</s>
 </p>
 </sp>
 <sp who='GARGUILLE'><speaker>GARGUILLE.</speaker>
 <p id='18'>
-	<s id='1'>Un certain Capitan, un batteur de pavé, qui est si souvent au Cabaret, et qu’on voit presque tous les jours ivre, le Seigneur Spacamonte.</s>
+	<s id='1'>Un certain Capitan, un batteur de pavÃ©, qui est si souvent au Cabaret, et qu'on voit presque tous les jours ivre, le Seigneur Spacamonte.</s>
 </p>
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
 <p id='19'>
-	<s id='1'>Ohime, che bruta bestia !</s>
+	<s id='1'>Ohime, che bruta bestiaÂ !</s>
 </p>
 </sp>
 <sp who='GARGUILLE'><speaker>GARGUILLE.</speaker>
 <p id='20'>
-	<s id='1'>Madame Zerbinette ?</s>
+	<s id='1'>Madame ZerbinetteÂ ?</s>
 </p>
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
 <p id='21'>
-	<s id='1'>Cela ne vous regarde pas, c’est une réflexion.</s>
+	<s id='1'>Cela ne vous regarde pas, c'est une rÃ©flexion.</s>
 </p>
 </sp>
 <sp who='GARGUILLE'><speaker>GARGUILLE.</speaker>
 <p id='22'>
-	<s id='1'>Mais réfléchissez en français, je vous en supplie.</s>
+	<s id='1'>Mais rÃ©flÃ©chissez en franÃ§ais, je vous en supplie.</s>
 </p>
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
 <p id='23'>
-	<s id='1'>En français ou autrement, je vous réponds que si vous voulez me laisser faire, le Capitan Spacamonte n’épousera point votre fille.</s>
+	<s id='1'>En franÃ§ais ou autrement, je vous rÃ©ponds que si vous voulez me laisser faire, le Capitan Spacamonte n'Ã©pousera point votre fille.</s>
 </p>
 </sp>
 <sp who='GARGUILLE'><speaker>GARGUILLE.</speaker>
 <p id='24'>
-	<s id='1'>Assurément ?</s>
+	<s id='1'>AssurÃ©mentÂ ?</s>
 </p>
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
 <p id='25'>
-	<s id='1'>Assurément. </s>
-	<s id='2'>Faites-moi parler à elle.</s>
+	<s id='1'>AssurÃ©ment. </s>
+	<s id='2'>Faites-moi parler Ã  elle.</s>
 </p>
 </sp>
 <sp who='GARGUILLE'><speaker>GARGUILLE.</speaker>
 <p id='26'>
-	<s id='1'>Entrez au logis, ma femme n’y est pas, et elle ne reviendra que demain.</s>
+	<s id='1'>Entrez au logis, ma femme n'y est pas, et elle ne reviendra que demain.</s>
 </p>
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
 <p id='27'>
-	<s id='1'>La conjoncture est admirable, et je serai bien aise que cela me donne occasion de passer avec votre fille toute la soirée.</s>
+	<s id='1'>La conjoncture est admirable, et je serai bien aise que cela me donne occasion de passer avec votre fille toute la soirÃ©e.</s>
 </p>
 </sp>
 <sp who='GARGUILLE'><speaker>GARGUILLE.</speaker>
 <p id='28'>
-	<s id='1'>Vous pourrez aller au Bal ensemble, je vais l’en avertir.</s>
+	<s id='1'>Vous pourrez aller au Bal ensemble, je vais l'en avertir.</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='5'><head>SCÈNE V.</head>
+<div2 type="scene" n='5'><head>SCÃˆNE V.</head>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE, seule.</speaker>
 <p id='1'>
-	<s id='1'>La fortune se déclare pour ce pauvre garçon, qui m’est tantôt venu faire confidence de la passion qu’il a pour isabelle. </s>
-	<s id='2'>Pour peu que je me mêle de cette affaire, l’amour sera bientôt de notre parti ; et la fortune, moi et l’amour, nous faisons une assez bonne petite société. </s>
-	<s id='3'>Venez, venez, Seigneur Mostelin, J’ai de bonnes nouvelles à vous apprendre.</s>
+	<s id='1'>La fortune se dÃ©clare pour ce pauvre garÃ§on, qui m'est tantÃ´t venu faire confidence de la passion qu'il a pour isabelle. </s>
+	<s id='2'>Pour peu que je me mÃªle de cette affaire, l'amour sera bientÃ´t de notre partiÂ ; et la fortune, moi et l'amour, nous faisons une assez bonne petite sociÃ©tÃ©. </s>
+	<s id='3'>Venez, venez, Seigneur Mostelin, J'ai de bonnes nouvelles Ã  vous apprendre.</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='6'><head>SCÈNE VI. Mostelin, Zerbinette.</head>
+<div2 type="scene" n='6'><head>SCÃˆNE VI. Mostelin, Zerbinette.</head>
 <sp who='MOSTELIN'><speaker>MOSTELIN.</speaker>
 <p id='1'>
-	<s id='1'>Hé bien, ma chère Zerbinette, tu viens de parler au père de l’adorable Isabelle ? </s>
-	<s id='2'>Il est de tes amis apparemment ? </s>
+	<s id='1'>HÃ© bien, ma chÃ¨re Zerbinette, tu viens de parler au pÃ¨re de l'adorable IsabelleÂ ? </s>
+	<s id='2'>Il est de tes amis apparemmentÂ ? </s>
 	<s id='3'>Tu devais bien hasarder de lui dire quelque chose en ma faveur.</s>
 </p>
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
 <p id='2'>
-	<s id='1'>Comment ! </s>
-	<s id='2'>Vous n’êtes pas amoureux de lui, peut-être ? </s>
-	<s id='3'>C’est sa fille à qui vous en voulez ; c’est à elle à qui il faut s’adresser.</s>
+	<s id='1'>CommentÂ ! </s>
+	<s id='2'>Vous n'Ãªtes pas amoureux de lui, peut-ÃªtreÂ ? </s>
+	<s id='3'>C'est sa fille Ã  qui vous en voulezÂ ; c'est Ã  elle Ã  qui il faut s'adresser.</s>
 </p>
 </sp>
 <sp who='MOSTELIN'><speaker>MOSTELIN.</speaker>
 <p id='3'>
-	<s id='1'>Ma timidité est aussi forte, que mon amour ; l’un combat ce que m’inspire l’autre. </s>
-	<s id='2'>J’ai besoin de tes conseils pour me déterminer, et de ton adresse pour devenir heureux.</s>
+	<s id='1'>Ma timiditÃ© est aussi forte, que mon amourÂ ; l'un combat ce que m'inspire l'autre. </s>
+	<s id='2'>J'ai besoin de tes conseils pour me dÃ©terminer, et de ton adresse pour devenir heureux.</s>
 </p>
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
 <p id='4'>
 	<s id='1'>Ni mes conseils, ni mon adresse ne vous manqueront pas dans le besoin. </s>
-	<s id='2'>Je vais commencer par vous ménager un entretien avec Isabelle. </s>
-	<s id='3'>Je dois passer la soirée avec elle, hasardez de lui écrire pour me donner l’occasion de lui parler. </s>
+	<s id='2'>Je vais commencer par vous mÃ©nager un entretien avec Isabelle. </s>
+	<s id='3'>Je dois passer la soirÃ©e avec elle, hasardez de lui Ã©crire pour me donner l'occasion de lui parler. </s>
 	<s id='4'>Elle va venir ici, allez-vous-en.</s>
 </p>
 </sp>
 <sp who='MOSTELIN'><speaker>MOSTELIN.</speaker>
 <p id='5'>
-	<s id='1'>L’Amour me défend ce que tu m’ordonnes.</s>
+	<s id='1'>L'Amour me dÃ©fend ce que tu m'ordonnes.</s>
 </p>
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
 <p id='6'>
-	<s id='1'>La raison vous commande ce que l’Amour vous défend.</s>
+	<s id='1'>La raison vous commande ce que l'Amour vous dÃ©fend.</s>
 </p>
 </sp>
 <sp who='MOSTELIN'><speaker>MOSTELIN.</speaker>
 <p id='7'>
-	<s id='1'>L’Amour est plus fort que la raison.</s>
+	<s id='1'>L'Amour est plus fort que la raison.</s>
 </p>
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
 <p id='8'>
-	<s id='1'>Que la raison triomphe à présent, l’Amour triomphera tantôt.</s>
+	<s id='1'>Que la raison triomphe Ã  prÃ©sent, l'Amour triomphera tantÃ´t.</s>
 </p>
 </sp>
 <sp who='MOSTELIN'><speaker>MOSTELIN.</speaker>
 <p id='9'>
-	<s id='1'>Mais, Zerbinette…</s>
+	<s id='1'>Mais, ZerbinetteÂ…</s>
 </p>
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
 <p id='10'>
-	<s id='1'>Voilà avec elle un coquin de valet, qui est l’espion de sa mère ; retirez-vous, et me laissez prendre langue. </s>
+	<s id='1'>VoilÃ  avec elle un coquin de valet, qui est l'espion de sa mÃ¨reÂ ; retirez-vous, et me laissez prendre langue. </s>
 	<s id='2'>Adieu.</s>
 </p>
 </sp>
 <sp who='MOSTELIN'><speaker>MOSTELIN.</speaker>
 <p id='11'>
-	<s id='1'>Je t’obéis aveuglément.</s>
+	<s id='1'>Je t'obÃ©is aveuglÃ©ment.</s>
 </p>
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
 <p id='12'>
-	<s id='1'>Je vous rendrai service de même.</s>
+	<s id='1'>Je vous rendrai service de mÃªme.</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='7'><head>SCÈNE VII. Garguille, Isabelle, Zerbinette, Jodelet.</head>
+<div2 type="scene" n='7'><head>SCÃˆNE VII. Garguille, Isabelle, Zerbinette, Jodelet.</head>
 <sp who='GARGUILLE'><speaker>GARGUILLE.</speaker>
 <p id='1'>
-	<s id='1'>Venez, ma fille, voilà Madame Zerbinette, qui est une personne d’esprit, de vos voisines, avec qui je veux que vous fassiez connaissance.</s>
+	<s id='1'>Venez, ma fille, voilÃ  Madame Zerbinette, qui est une personne d'esprit, de vos voisines, avec qui je veux que vous fassiez connaissance.</s>
 </p>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 <p id='2'>
-	<s id='1'>Je vous suis bien obligée, mon père, de me donner de si bonnes habitudes.</s>
+	<s id='1'>Je vous suis bien obligÃ©e, mon pÃ¨re, de me donner de si bonnes habitudes.</s>
 </p>
 </sp>
 <sp who='GARGUILLE'><speaker>GARGUILLE.</speaker>
 <p id='3'>
-	<s id='1'>Elle ne vous donnera que de bons conseils, et je veux que vous fassiez absolument tout ce qu’elle vous dira.</s>
+	<s id='1'>Elle ne vous donnera que de bons conseils, et je veux que vous fassiez absolument tout ce qu'elle vous dira.</s>
 </p>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 <p id='4'>
-	<s id='1'>Je n’aurai pas de peine à vous obéir, mon père.</s>
+	<s id='1'>Je n'aurai pas de peine Ã  vous obÃ©ir, mon pÃ¨re.</s>
 </p>
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
 <p id='5'>
-	<s id='1'>Et moi, Madame, je ne vous conseillerai rien que vous n’ayez envie de faire.</s>
+	<s id='1'>Et moi, Madame, je ne vous conseillerai rien que vous n'ayez envie de faire.</s>
 </p>
 </sp>
 <sp who='GARGUILLE'><speaker>GARGUILLE.</speaker>
 <p id='6'>
-	<s id='1'>Débarrasse-nous de ce fanfaron de Capitan, tâche de faire en sorte que ma fille prenne de l’amour pour quelque autre, afin qu’elle contredise sa mère, sans que je paraisse me mêler de cela, moI. Ôte-toi de là, toi, gros coquin, que viens-tu faire ici ?</s>
+	<s id='1'>DÃ©barrasse-nous de ce fanfaron de Capitan, tÃ¢che de faire en sorte que ma fille prenne de l'amour pour quelque autre, afin qu'elle contredise sa mÃ¨re, sans que je paraisse me mÃªler de cela, moI. Ã”te-toi de lÃ , toi, gros coquin, que viens-tu faire iciÂ ?</s>
 </p>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 <p id='7'>
-	<s id='1'>Madame m’a dit de prendre garde à sa fille, qui est sa fille plus que la vôtre ; et au cas qu’elle parlât à d’autres qu’au Seigneur Spacamonte, d’écouter tout ce qu’on lui dirait.</s>
+	<s id='1'>Madame m'a dit de prendre garde Ã  sa fille, qui est sa fille plus que la vÃ´treÂ ; et au cas qu'elle parlÃ¢t Ã  d'autres qu'au Seigneur Spacamonte, d'Ã©couter tout ce qu'on lui dirait.</s>
 </p>
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
 <p id='8'>
-	<s id='1'>Je le défierai bien de nous entendre, ne vous mettez pas en peine.</s>
+	<s id='1'>Je le dÃ©fierai bien de nous entendre, ne vous mettez pas en peine.</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='8'><head>SCÈNE VIII. Isabelle, Zerbinette, Jodelet.</head>
+<div2 type="scene" n='8'><head>SCÃˆNE VIII. Isabelle, Zerbinette, Jodelet.</head>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
 <p id='1'>
-	<s id='1'>Signora amabile !</s>
+	<s id='1'>Signora amabileÂ !</s>
 </p>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 <p id='2'>
-	<s id='1'>Obligeante personne !</s>
+	<s id='1'>Obligeante personneÂ !</s>
 </p>
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
 <p id='3'>
-	<s id='1'>Sapete la lingua Italiana ?</s>
+	<s id='1'>Sapete la lingua ItalianaÂ ?</s>
 </p>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 <p id='4'>
-	<s id='1'>Signora sì.</s>
+	<s id='1'>Signora sÃ¬.</s>
 </p>
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
 <p id='5'>
-	<s id='1'>La parlate un poco ?</s>
+	<s id='1'>La parlate un pocoÂ ?</s>
 </p>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
@@ -785,23 +785,23 @@
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
 <p id='7'>
-	<s id='1'>Tanto meglio ; quest’ animalaccio non intenderà i nostri discorsi.</s>
+	<s id='1'>Tanto meglioÂ ; quest' animalaccio non intenderÃ  i nostri discorsi.</s>
 </p>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 <p id='8'>
-	<s id='1'>On m’a dit d’écouter ; mais je n’y entends rien. </s>
-	<s id='2'>Est-ce que ce n’est pas parler que ce qu’elles disent-là ?</s>
+	<s id='1'>On m'a dit d'Ã©couterÂ ; mais je n'y entends rien. </s>
+	<s id='2'>Est-ce que ce n'est pas parler que ce qu'elles disent-lÃ Â ?</s>
 </p>
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
 <p id='9'>
-	<s id='1'>Con tanta belleza e tante gratie, portate voi nel petto un cuor insensibile ?</s>
+	<s id='1'>Con tanta belleza e tante gratie, portate voi nel petto un cuor insensibileÂ ?</s>
 </p>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 <p id='10'>
-	<s id='1'>Non hà sentito sin adesso che antipatia, mà sento ben ch’è formato per un’ altro uso.</s>
+	<s id='1'>Non hÃ  sentito sin adesso che antipatia, mÃ  sento ben ch'Ã¨ formato per un' altro uso.</s>
 </p>
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
@@ -811,12 +811,12 @@
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 <p id='12'>
-	<s id='1'>Il faut pourtant bien qu’elles s’entendent ; car elles se répondent l’une à l’autre.</s>
+	<s id='1'>Il faut pourtant bien qu'elles s'entendentÂ ; car elles se rÃ©pondent l'une Ã  l'autre.</s>
 </p>
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
 <p id='13'>
-	<s id='1'>Deh, qual è l’ogetto delle vostra antipatia.</s>
+	<s id='1'>Deh, qual Ã¨ l'ogetto delle vostra antipatia.</s>
 </p>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
@@ -826,39 +826,39 @@
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
 <p id='15'>
-	<s id='1'>Questo non sarà. </s>
-	<s id='2'>Vi dispiacerebbe ch’ un altro amante v’insegnasse à far del vostro cuore quell’uso al quale lo credete destinato ?</s>
+	<s id='1'>Questo non sarÃ . </s>
+	<s id='2'>Vi dispiacerebbe ch' un altro amante v'insegnasse Ã  far del vostro cuore quell'uso al quale lo credete destinatoÂ ?</s>
 </p>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 <p id='16'>
-	<s id='1'>Sarebbe cosa nuova, Signora : e sapete che le cose nuove piacciono volontieri alle giovinette.</s>
+	<s id='1'>Sarebbe cosa nuova, SignoraÂ : e sapete che le cose nuove piacciono volontieri alle giovinette.</s>
 </p>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 <p id='17'>
-	<s id='1'>J’examine leurs gestes pour tâcher de deviner quelque chose, elles ont l’esprit de ne point gesticuler. </s>
-	<s id='2'>Il y a bien de la malice là-dedans.</s>
+	<s id='1'>J'examine leurs gestes pour tÃ¢cher de deviner quelque chose, elles ont l'esprit de ne point gesticuler. </s>
+	<s id='2'>Il y a bien de la malice lÃ -dedans.</s>
 </p>
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
 <p id='18'>
-	<s id='1'>Si questo Amante vi scrivesse, neghereste di leggere la sua lettera ?</s>
+	<s id='1'>Si questo Amante vi scrivesse, neghereste di leggere la sua letteraÂ ?</s>
 </p>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 <p id='19'>
-	<s id='1'>Conforme ai consigli che mi darete, Signora, m’hà ordinato mio padre di far tutto quel che mi direte.</s>
+	<s id='1'>Conforme ai consigli che mi darete, Signora, m'hÃ  ordinato mio padre di far tutto quel che mi direte.</s>
 </p>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 <p id='20'>
-	<s id='1'>Que je suis fâché de ne savoir pas le Latin ; car c’en est là.</s>
+	<s id='1'>Que je suis fÃ¢chÃ© de ne savoir pas le LatinÂ ; car c'en est lÃ .</s>
 </p>
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
 <p id='21'>
-	<s id='1'>Deh, quali consigli vorreste ch’ io vi dessi ?</s>
+	<s id='1'>Deh, quali consigli vorreste ch' io vi dessiÂ ?</s>
 </p>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
@@ -868,32 +868,32 @@
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
 <p id='23'>
-	<s id='1'>Vi daro quelli medesimi che desiderate, mà bisognerebbe fare entrare quel Baronaccio di spia ne’ nostri interreI. Con lusinghe e denari si viene à capo d’ogni cosa mà veramente. </s>
-	<s id='2'>Je ne m’apercevais pas que nous avions auprès de nous un jeune homme, tout des plus beaux et des mieux faits. </s>
-	<s id='3'>Hé ! </s>
-	<s id='4'>Où avais-je les yeux ?</s>
+	<s id='1'>Vi daro quelli medesimi che desiderate, mÃ  bisognerebbe fare entrare quel Baronaccio di spia ne' nostri interreI. Con lusinghe e denari si viene Ã  capo d'ogni cosa mÃ  veramente. </s>
+	<s id='2'>Je ne m'apercevais pas que nous avions auprÃ¨s de nous un jeune homme, tout des plus beaux et des mieux faits. </s>
+	<s id='3'>HÃ©Â ! </s>
+	<s id='4'>OÃ¹ avais-je les yeuxÂ ?</s>
 </p>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 <p id='24'>
-	<s id='1'>Ho, Madame ! </s>
-	<s id='2'>Elle me cajole, elle veut m’attraper.</s>
+	<s id='1'>Ho, MadameÂ ! </s>
+	<s id='2'>Elle me cajole, elle veut m'attraper.</s>
 </p>
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
 <p id='25'>
-	<s id='1'>C’est quelqu’un de vos parents, apparemment ? </s>
-	<s id='2'>Monsieur votre frère, peut-être ?</s>
+	<s id='1'>C'est quelqu'un de vos parents, apparemmentÂ ? </s>
+	<s id='2'>Monsieur votre frÃ¨re, peut-ÃªtreÂ ?</s>
 </p>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 <p id='26'>
-	<s id='1'>Avec tout cela, il faut que j’aie bonne mine.</s>
+	<s id='1'>Avec tout cela, il faut que j'aie bonne mine.</s>
 </p>
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
 <p id='27'>
-	<s id='1'>Qu’il paraît avoir d’esprit et de politesse !</s>
+	<s id='1'>Qu'il paraÃ®t avoir d'esprit et de politesseÂ !</s>
 </p>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
@@ -904,51 +904,51 @@
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
 <p id='29'>
-	<s id='1'>Qui est ce jeune Monsieur-là, Madame ? </s>
+	<s id='1'>Qui est ce jeune Monsieur-lÃ , MadameÂ ? </s>
 	<s id='3'>Je vous prie.</s>
 </p>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 <p id='30'>
-	<s id='1'>C’est un domestique, que ma mère affectionne beaucoup.</s>
+	<s id='1'>C'est un domestique, que ma mÃ¨re affectionne beaucoup.</s>
 </p>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 <p id='31'>
-	<s id='1'>Il était bien nécessaire de dire cela. </s>
-	<s id='2'>Oh la babillarde !</s>
+	<s id='1'>Il Ã©tait bien nÃ©cessaire de dire cela. </s>
+	<s id='2'>Oh la babillardeÂ !</s>
 </p>
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
 <p id='32'>
-	<s id='1'>Un domestique ! </s>
-	<s id='2'>Ah vraiment il sentira les effets de ma libéralité. </s>
-	<s id='3'>Tenez, mon ami, voilà un écu, pour avoir un chapeau.</s>
+	<s id='1'>Un domestiqueÂ ! </s>
+	<s id='2'>Ah vraiment il sentira les effets de ma libÃ©ralitÃ©. </s>
+	<s id='3'>Tenez, mon ami, voilÃ  un Ã©cu, pour avoir un chapeau.</s>
 </p>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 <p id='33'>
-	<s id='1'>Elle me donne de l’argent, cela est bien sujet à caution.</s>
+	<s id='1'>Elle me donne de l'argent, cela est bien sujet Ã  caution.</s>
 </p>
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
 <p id='34'>
-	<s id='1'>Et puis en voilà un autre pour des gants.</s>
+	<s id='1'>Et puis en voilÃ  un autre pour des gants.</s>
 </p>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 <p id='35'>
-	<s id='1'>On m’attaque sérieusement.</s>
+	<s id='1'>On m'attaque sÃ©rieusement.</s>
 </p>
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
 <p id='36'>
-	<s id='1'>Celui-ci pour des nœuds ce cravates.</s>
+	<s id='1'>Celui-ci pour des nÂœuds ce cravates.</s>
 </p>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 <p id='37'>
-	<s id='1'>Me voilà pris comme un sot.</s>
+	<s id='1'>Me voilÃ  pris comme un sot.</s>
 </p>
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
@@ -958,34 +958,34 @@
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 <p id='39'>
-	<s id='1'>Je n’en porte jamais, Madame. </s>
-	<s id='2'>Pourquoi me donnez-vous tout cela ?</s>
+	<s id='1'>Je n'en porte jamais, Madame. </s>
+	<s id='2'>Pourquoi me donnez-vous tout celaÂ ?</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='9'><head>SCÈNE IX. Isabelle, Zerbinette, Jodelet, Cascaret.</head>
+<div2 type="scene" n='9'><head>SCÃˆNE IX. Isabelle, Zerbinette, Jodelet, Cascaret.</head>
 <sp who='CASCARET'><speaker>CASCARET.</speaker>
 <p id='1'>
-	<s id='1'>Voilà une lettre qu’on m’a dit de rendre à une Madame.</s>
+	<s id='1'>VoilÃ  une lettre qu'on m'a dit de rendre Ã  une Madame.</s>
 </p>
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
 <p id='2'>
-	<s id='1'>C’est à moi qu’elle s’adresse, donne. </s>
-	<s id='2'>Elle est d’un amant, d’un certain jeune homme de par le monde.</s>
+	<s id='1'>C'est Ã  moi qu'elle s'adresse, donne. </s>
+	<s id='2'>Elle est d'un amant, d'un certain jeune homme de par le monde.</s>
 </p>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 <p id='3'>
-	<s id='1'>Elle a un amant ? </s>
-	<s id='2'>Bon, me voilà à couvert d’une médisance.</s>
+	<s id='1'>Elle a un amantÂ ? </s>
+	<s id='2'>Bon, me voilÃ  Ã  couvert d'une mÃ©disance.</s>
 </p>
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
 <p id='4'>
-	<s id='1'>Ah ! </s>
-	<s id='2'>Je n’ai pas sur moi mes lunettes. </s>
-	<s id='3'>Holà, petit garçon, on attend la réponse, n’est-ce pas ?</s>
+	<s id='1'>AhÂ ! </s>
+	<s id='2'>Je n'ai pas sur moi mes lunettes. </s>
+	<s id='3'>HolÃ , petit garÃ§on, on attend la rÃ©ponse, n'est-ce pasÂ ?</s>
 </p>
 </sp>
 <sp who='CASCARET'><speaker>CASCARET.</speaker>
@@ -995,51 +995,51 @@
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
 <p id='6'>
-	<s id='1'>Comment faire ? </s>
-	<s id='2'>Ma belle Dame, faites-moi l’amitié de la lire tout haut, je vous prie, il n’y a rien dedans qui ne se puisse voir. </s>
-	<s id='3'>C’est un garçon fort respectueux.</s>
+	<s id='1'>Comment faireÂ ? </s>
+	<s id='2'>Ma belle Dame, faites-moi l'amitiÃ© de la lire tout haut, je vous prie, il n'y a rien dedans qui ne se puisse voir. </s>
+	<s id='3'>C'est un garÃ§on fort respectueux.</s>
 </p>
-<stage>À part.</stage>
+<stage>Ã€ part.</stage>
 <p id='7'>
-	<s id='1'>Questa lettera è por Vossignoria.</s>
+	<s id='1'>Questa lettera Ã¨ por Vossignoria.</s>
 </p>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE, lit.</speaker>
 <p id='8'>
-	<s id='1'>Je suis né pour vous adorer éternellement ; et je renoncerai sans peine à la vie, s’il faut que je renonce à l’espoir de vous posséder.</s>
+	<s id='1'>Je suis nÃ© pour vous adorer Ã©ternellementÂ ; et je renoncerai sans peine Ã  la vie, s'il faut que je renonce Ã  l'espoir de vous possÃ©der.</s>
 </p>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 <p id='9'>
-	<s id='1'>Voilà un sot jeune homme, d’être si fort amoureux de cette petite vieille !</s>
+	<s id='1'>VoilÃ  un sot jeune homme, d'Ãªtre si fort amoureux de cette petite vieilleÂ !</s>
 </p>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE, continue de lire.</speaker>
 <p id='10'>
-	<s id='1'>Accordez-moi de grâce un moment d’entretien dans cet instant même, et la liberté de vous dire un million de choses, que je n’oserais hasarder de vous écrire.</s>
+	<s id='1'>Accordez-moi de grÃ¢ce un moment d'entretien dans cet instant mÃªme, et la libertÃ© de vous dire un million de choses, que je n'oserais hasarder de vous Ã©crire.</s>
 </p>
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
 <p id='11'>
-	<s id='1'>Un million de choses ? </s>
-	<s id='2'>Cela est curieux, il faut les savoir : qu’il vienne nous les dire. </s>
-	<s id='3'>Vous le voulez bien, Madame ?</s>
+	<s id='1'>Un million de chosesÂ ? </s>
+	<s id='2'>Cela est curieux, il faut les savoirÂ : qu'il vienne nous les dire. </s>
+	<s id='3'>Vous le voulez bien, MadameÂ ?</s>
 </p>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 <p id='12'>
-	<s id='1'>Ne me conseillez-vous pas de le vouloir ? </s>
-	<s id='2'>Et n’ai-je pas promis à mon père de vous obéir ?</s>
+	<s id='1'>Ne me conseillez-vous pas de le vouloirÂ ? </s>
+	<s id='2'>Et n'ai-je pas promis Ã  mon pÃ¨re de vous obÃ©irÂ ?</s>
 </p>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 <p id='13'>
-	<s id='1'>Notre Demoiselle est bien obéissante.</s>
+	<s id='1'>Notre Demoiselle est bien obÃ©issante.</s>
 </p>
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
 <p id='14'>
-	<s id='1'>Va, petit garçon, va dire à ton maître qu’il peut venir, et qu’il se dépêche.</s>
+	<s id='1'>Va, petit garÃ§on, va dire Ã  ton maÃ®tre qu'il peut venir, et qu'il se dÃ©pÃªche.</s>
 </p>
 </sp>
 <sp who='CASCARET'><speaker>CASCARET.</speaker>
@@ -1048,10 +1048,10 @@
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='10'><head>SCÈNE X. Isabelle, Zerbinette, Jodelet.</head>
+<div2 type="scene" n='10'><head>SCÃˆNE X. Isabelle, Zerbinette, Jodelet.</head>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 <p id='1'>
-	<s id='1'>Ma, cara mia Signora, questo furfantaccio non ci abbandonnerà : quest’ altro giovinetto parlerebbe forse Italiano ?</s>
+	<s id='1'>Ma, cara mia Signora, questo furfantaccio non ci abbandonnerÃ Â : quest' altro giovinetto parlerebbe forse ItalianoÂ ?</s>
 </p>
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
@@ -1061,7 +1061,7 @@
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 <p id='3'>
-	<s id='1'>Come faremo adunque ?</s>
+	<s id='1'>Come faremo adunqueÂ ?</s>
 </p>
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
@@ -1071,7 +1071,7 @@
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 <p id='5'>
-	<s id='1'>Voilà du baragouin qui me chicane.</s>
+	<s id='1'>VoilÃ  du baragouin qui me chicane.</s>
 </p>
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
@@ -1081,159 +1081,159 @@
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 <p id='7'>
-	<s id='1'>De tout mon cœur, vous n’avez qu’à dire.</s>
+	<s id='1'>De tout mon cÂœur, vous n'avez qu'Ã  dire.</s>
 </p>
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
 <p id='8'>
-	<s id='1'>J’ai un frère brutal qui me tuerait, s’il me soupçonnait de quelque intrigue, et je serais perdue si quelqu’un me voyait avec ce jeune homme-ci : faites un peu le guet, je vous prie, et m’avertissez en cas que quelqu’un vienne.</s>
+	<s id='1'>J'ai un frÃ¨re brutal qui me tuerait, s'il me soupÃ§onnait de quelque intrigue, et je serais perdue si quelqu'un me voyait avec ce jeune homme-ciÂ : faites un peu le guet, je vous prie, et m'avertissez en cas que quelqu'un vienne.</s>
 </p>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 <p id='9'>
-	<s id='1'>Mais je ne puis guetter pour vous et pour Madame Garguille, qui m’a donné sa fille en garde.</s>
+	<s id='1'>Mais je ne puis guetter pour vous et pour Madame Garguille, qui m'a donnÃ© sa fille en garde.</s>
 </p>
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
 <p id='10'>
-	<s id='1'>Guettez pour moi, je guetterai pour vous, et nous nous rendrons ainsi service l’un à l’autre.</s>
+	<s id='1'>Guettez pour moi, je guetterai pour vous, et nous nous rendrons ainsi service l'un Ã  l'autre.</s>
 </p>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 <p id='11'>
-	<s id='1'>Hé bien oui, voilà un accommodement ; mais point de trahison, au moins.</s>
+	<s id='1'>HÃ© bien oui, voilÃ  un accommodementÂ ; mais point de trahison, au moins.</s>
 </p>
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
 <p id='12'>
-	<s id='1'>Non, non, prenez bien garde de votre côté.</s>
+	<s id='1'>Non, non, prenez bien garde de votre cÃ´tÃ©.</s>
 </p>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
-<stage>À part.</stage>
+<stage>Ã€ part.</stage>
 <p id='13'>
-	<s id='1'>Oui, oui, je prendrai garde à elles-mêmes ; car je me doute de quelque manigance.</s>
+	<s id='1'>Oui, oui, je prendrai garde Ã  elles-mÃªmesÂ ; car je me doute de quelque manigance.</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='11'><head>SCÈNE XI. Isabelle, Zerbinette, Mostelin, Jodelet au fonds du Théâtre.</head>
+<div2 type="scene" n='11'><head>SCÃˆNE XI. Isabelle, Zerbinette, Mostelin, Jodelet au fonds du ThÃ©Ã¢tre.</head>
 <sp who='MOSTELIN'><speaker>MOSTELIN.</speaker>
 <p id='1'>
-	<s id='1'>Que je sens de trouble et d’agitation, et que l’amour est parfaitement le maître de mon cœur !</s>
+	<s id='1'>Que je sens de trouble et d'agitation, et que l'amour est parfaitement le maÃ®tre de mon cÂœurÂ !</s>
 </p>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 <p id='2'>
-	<s id='1'>Je connais ce jeune Monsieur-là. </s>
-	<s id='2'>Il soupire quelquefois en me regardant, lorsqu’il me rencontre.</s>
+	<s id='1'>Je connais ce jeune Monsieur-lÃ . </s>
+	<s id='2'>Il soupire quelquefois en me regardant, lorsqu'il me rencontre.</s>
 </p>
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
 <p id='3'>
-	<s id='1'>Et vous n’aviez point encore deviné ce que cela veut dire ?</s>
+	<s id='1'>Et vous n'aviez point encore devinÃ© ce que cela veut direÂ ?</s>
 </p>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 <p id='4'>
-	<s id='1'>Je m’en doutais un peu.</s>
+	<s id='1'>Je m'en doutais un peu.</s>
 </p>
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
 <p id='5'>
 	<s id='1'>On va vous expliquer vos doutes. </s>
-	<s id='2'>Approchez, Seigneur Mostelin, et ne craignez point de faire éclater les tendres sentiments que vous avez pour cette charmante personne.</s>
+	<s id='2'>Approchez, Seigneur Mostelin, et ne craignez point de faire Ã©clater les tendres sentiments que vous avez pour cette charmante personne.</s>
 </p>
 </sp>
 <sp who='MOSTELIN'><speaker>MOSTELIN, embrassant Zerbinette.</speaker>
 <p id='6'>
-	<s id='1'>Que je te suis redevable, ma chère Zerbinette, d’en avoir fait naître l’occasion.</s>
+	<s id='1'>Que je te suis redevable, ma chÃ¨re Zerbinette, d'en avoir fait naÃ®tre l'occasion.</s>
 </p>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 <p id='7'>
-	<s id='1'>Il embrasse la petite vieille, c’est à elle qu’il en veut.</s>
+	<s id='1'>Il embrasse la petite vieille, c'est Ã  elle qu'il en veut.</s>
 </p>
 </sp>
 <sp who='MOSTELIN'><speaker>MOSTELIN.</speaker>
 <p id='8'>
-	<s id='1'>Adorable Isabelle, mes yeux vous ont cent fois parlé de mon amour, avez-vous daigné les entendre ? </s>
-	<s id='2'>Ma bouche oserait-elle vous le déclarer ? </s>
-	<s id='3'>Et souffrirez-vous à mon cœur l’espoir de vous rendre sensible ?</s>
+	<s id='1'>Adorable Isabelle, mes yeux vous ont cent fois parlÃ© de mon amour, avez-vous daignÃ© les entendreÂ ? </s>
+	<s id='2'>Ma bouche oserait-elle vous le dÃ©clarerÂ ? </s>
+	<s id='3'>Et souffrirez-vous Ã  mon cÂœur l'espoir de vous rendre sensibleÂ ?</s>
 </p>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 <p id='9'>
-	<s id='1'>Oui da !</s>
+	<s id='1'>Oui daÂ !</s>
 </p>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 <p id='10'>
-	<s id='1'>Le langage de vos yeux était moins intelligible que vos discours. </s>
-	<s id='2'>Je les écoute avec trop de plaisir, peut-être ; et c’est autoriser plus que ne devrais l’espoir que vous me demander de vous souffrir.</s>
+	<s id='1'>Le langage de vos yeux Ã©tait moins intelligible que vos discours. </s>
+	<s id='2'>Je les Ã©coute avec trop de plaisir, peut-ÃªtreÂ ; et c'est autoriser plus que ne devrais l'espoir que vous me demander de vous souffrir.</s>
 </p>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 <p id='11'>
-	<s id='1'>Gares, gares, gares, voici quelqu’un qui vient interrompre la conversation.</s>
+	<s id='1'>Gares, gares, gares, voici quelqu'un qui vient interrompre la conversation.</s>
 </p>
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
 <p id='12'>
-	<s id='1'>Hé qui ?</s>
+	<s id='1'>HÃ© quiÂ ?</s>
 </p>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 <p id='13'>
-	<s id='1'>Moi-même.</s>
+	<s id='1'>Moi-mÃªme.</s>
 </p>
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
 <p id='14'>
-	<s id='1'>Hé pourquoi ?</s>
+	<s id='1'>HÃ© pourquoiÂ ?</s>
 </p>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 <p id='15'>
-	<s id='1'>Parce que vous êtes une friponne, qui voulez m’en donner à garder. </s>
-	<s id='2'>Ah, ah ! </s>
-	<s id='3'>Notre Demoiselle, vous avez la langue bien pendue ; et vous, Monsieur…</s>
+	<s id='1'>Parce que vous Ãªtes une friponne, qui voulez m'en donner Ã  garder. </s>
+	<s id='2'>Ah, ahÂ ! </s>
+	<s id='3'>Notre Demoiselle, vous avez la langue bien pendueÂ ; et vous, MonsieurÂ…</s>
 </p>
 </sp>
 <sp who='MOSTELIN'><speaker>MOSTELIN.</speaker>
 <p id='16'>
-	<s id='1'>Écoute, mon pauvre Jodelet, il y a du temps que nous nous connaissons ; tiens, voilà deux pistoles pour boire : on ne te paiera pas si bien pour nous trahir, que je te paierai pour nous rendre service.</s>
+	<s id='1'>Ã‰coute, mon pauvre Jodelet, il y a du temps que nous nous connaissonsÂ ; tiens, voilÃ  deux pistoles pour boireÂ : on ne te paiera pas si bien pour nous trahir, que je te paierai pour nous rendre service.</s>
 </p>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 <p id='17'>
 	<s id='1'>Je crois que vous avez raison. </s>
-	<s id='2'>Grand bien vous fasse : parlez à présent, me voilà devenu muet.</s>
+	<s id='2'>Grand bien vous fasseÂ : parlez Ã  prÃ©sent, me voilÃ  devenu muet.</s>
 </p>
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
 <p id='18'>
-	<s id='1'>Ah ! </s>
-	<s id='2'>Voilà le Capitan Spacamonte, il est si ivre, qu’il ne se peut soutenir.</s>
+	<s id='1'>AhÂ ! </s>
+	<s id='2'>VoilÃ  le Capitan Spacamonte, il est si ivre, qu'il ne se peut soutenir.</s>
 </p>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 <p id='19'>
-	<s id='1'>Il ne faut pas qu’il nous voie ensemble ; entrez vite dans ce cabinet.</s>
+	<s id='1'>Il ne faut pas qu'il nous voie ensembleÂ ; entrez vite dans ce cabinet.</s>
 </p>
 </sp>
 <sp who='MOSTELIN'><speaker>MOSTELIN.</speaker>
 <p id='20'>
-	<s id='1'>Me cacher pour ce faquin-là ?</s>
+	<s id='1'>Me cacher pour ce faquin-lÃ Â ?</s>
 </p>
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
 <p id='21'>
-	<s id='1'>Ce n’est pas pour lui, c’est pour elle.</s>
+	<s id='1'>Ce n'est pas pour lui, c'est pour elle.</s>
 </p>
 </sp>
 <sp who='MOSTELIN'><speaker>MOSTELIN.</speaker>
 <p id='22'>
-	<s id='1'>Cette raison me détermine.</s>
+	<s id='1'>Cette raison me dÃ©termine.</s>
 </p>
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
@@ -1243,137 +1243,137 @@
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 <p id='24'>
-	<s id='1'>Voilà deux pistoles bientôt gagnées.</s>
+	<s id='1'>VoilÃ  deux pistoles bientÃ´t gagnÃ©es.</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='12'><head>SCÈNE XII. Spacamonte, Isabelle, Zerbinette, Jodelet.</head>
+<div2 type="scene" n='12'><head>SCÃˆNE XII. Spacamonte, Isabelle, Zerbinette, Jodelet.</head>
 <sp who='SPACAMONTE'><speaker>SPACAMONTE, ivre, chante.</speaker>
-	<l id='1'>L’usage qu’on fait de l’eau,</l>
-	<l id='2'>Cause rhume et pourriture ;</l>
+	<l id='1'>L'usage qu'on fait de l'eau,</l>
+	<l id='2'>Cause rhume et pourritureÂ ;</l>
 	<l id='3'>Mais celui du vin nouveau,</l>
 	<l id='4'>Ture lure,</l>
-	<l id='5'>Empêche la morfondure,</l>
+	<l id='5'>EmpÃªche la morfondure,</l>
 	<l id='6'>Robin ture lure lure.</l>
 <p id='1'>
-	<s id='1'>Ah ! </s>
-	<s id='2'>Bon soir ma Divinité. </s>
-	<s id='3'>Oh ! </s>
-	<s id='4'>Vous voyez un Gentilhomme assez bien nourrI. Oh ! </s>
+	<s id='1'>AhÂ ! </s>
+	<s id='2'>Bon soir ma DivinitÃ©. </s>
+	<s id='3'>OhÂ ! </s>
+	<s id='4'>Vous voyez un Gentilhomme assez bien nourrI. OhÂ ! </s>
 	<s id='5'>Quand nous serons mari et femme, je donne au diable la famille, si vous mourez de faim ni de soif. </s>
-	<s id='6'>Oh !</s>
+	<s id='6'>OhÂ !</s>
 </p>
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
 <p id='2'>
-	<s id='1'>Hé ! </s>
-	<s id='2'>Comme vous voilà fait, Seigneur Spacamonte ?</s>
+	<s id='1'>HÃ©Â ! </s>
+	<s id='2'>Comme vous voilÃ  fait, Seigneur SpacamonteÂ ?</s>
 </p>
 </sp>
 <sp who='SPACAMONTE'><speaker>SPACAMONTE.</speaker>
 <p id='3'>
-	<s id='1'>Oh, sandis, quand je sors de table, je suis toujours rangé de même. </s>
-	<s id='2'>Ho !</s>
+	<s id='1'>Oh, sandis, quand je sors de table, je suis toujours rangÃ© de mÃªme. </s>
+	<s id='2'>HoÂ !</s>
 </p>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 <p id='4'>
-	<s id='1'>Ah fi, Monsieur, que vous puez le vin !</s>
+	<s id='1'>Ah fi, Monsieur, que vous puez le vinÂ !</s>
 </p>
 </sp>
 <sp who='SPACAMONTE'><speaker>SPACAMONTE.</speaker>
 <p id='5'>
-	<s id='1'>C’est que j’en ai bu. </s>
-	<s id='2'>Hé donc, n’allons-nous pas au Bal ? </s>
+	<s id='1'>C'est que j'en ai bu. </s>
+	<s id='2'>HÃ© donc, n'allons-nous pas au BalÂ ? </s>
 	<s id='3'>Je viens vous prendre.</s>
 </p>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 <p id='6'>
-	<s id='1'>Au Bal avec vous, moi ?</s>
+	<s id='1'>Au Bal avec vous, moiÂ ?</s>
 </p>
 </sp>
 <sp who='SPACAMONTE'><speaker>SPACAMONTE.</speaker>
 <p id='7'>
-	<s id='1'>Avec qui donc ? </s>
-	<s id='2'>Ne craignez pas d’être pressée ; quelque grande que soit la foule, d’un seul hoquet, oh, je fais faire place.</s>
+	<s id='1'>Avec qui doncÂ ? </s>
+	<s id='2'>Ne craignez pas d'Ãªtre pressÃ©eÂ ; quelque grande que soit la foule, d'un seul hoquet, oh, je fais faire place.</s>
 </p>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 <p id='8'>
-	<s id='1'>Non, Monsieur, je n’irai point au Bal avec un homme qui sent le vin.</s>
+	<s id='1'>Non, Monsieur, je n'irai point au Bal avec un homme qui sent le vin.</s>
 </p>
 </sp>
 <sp who='SPACAMONTE'><speaker>SPACAMONTE.</speaker>
 <p id='9'>
-	<s id='1'>Cette odeur vous déplaît ? </s>
+	<s id='1'>Cette odeur vous dÃ©plaÃ®tÂ ? </s>
 	<s id='2'>Il faut la corriger. </s>
-	<s id='3'>Je suis complaisant : allons rasade d’eau de vie.</s>
+	<s id='3'>Je suis complaisantÂ : allons rasade d'eau de vie.</s>
 </p>
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
 <p id='10'>
-	<s id='1'>Rasade d’eau-de-vie ! </s>
-	<s id='2'>Voilà un beau correctif.</s>
+	<s id='1'>Rasade d'eau-de-vieÂ ! </s>
+	<s id='2'>VoilÃ  un beau correctif.</s>
 </p>
 </sp>
 <sp who='SPACAMONTE'><speaker>SPACAMONTE.</speaker>
 <p id='11'>
-	<s id='1'>J’aime les liqueurs, c’est ma folie : il y en a dans ce cabinet, vous allez voir comme je sable.</s>
+	<s id='1'>J'aime les liqueurs, c'est ma folieÂ : il y en a dans ce cabinet, vous allez voir comme je sable.</s>
 </p>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 <p id='12'>
-	<s id='1'>Dans ce cabinet ? </s>
-	<s id='2'>Vous rêvez, Monsieur il n’y en a point. </s>
-	<s id='3'>Ah ! </s>
+	<s id='1'>Dans ce cabinetÂ ? </s>
+	<s id='2'>Vous rÃªvez, Monsieur il n'y en a point. </s>
+	<s id='3'>AhÂ ! </s>
 	<s id='4'>Je suis perdue.</s>
 </p>
 </sp>
 <sp who='SPACAMONTE'><speaker>SPACAMONTE.</speaker>
 <p id='13'>
-	<s id='1'>Je sais où elle est, j’en trouverai bien, laissez-moi faire.</s>
+	<s id='1'>Je sais oÃ¹ elle est, j'en trouverai bien, laissez-moi faire.</s>
 </p>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 <p id='14'>
-	<s id='1'>Ils vont s’égorger, cela sera drôle.</s>
+	<s id='1'>Ils vont s'Ã©gorger, cela sera drÃ´le.</s>
 </p>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 <p id='15'>
-	<s id='1'>Qu’ils fassent tout ce qu’ils voudront, pour moi je me retire.</s>
+	<s id='1'>Qu'ils fassent tout ce qu'ils voudront, pour moi je me retire.</s>
 </p>
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
 <p id='16'>
-	<s id='1'>C’est le meilleur parti, vous avez raison.</s>
+	<s id='1'>C'est le meilleur parti, vous avez raison.</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='13'><head>SCÈNE XIII. Spacamonte, Mostelin, Jodelet.</head>
-<stage>Spacamonte ouvre le cabinet, et Mostelin le ramène tout tremblant au coin du Théâtre.</stage>
+<div2 type="scene" n='13'><head>SCÃˆNE XIII. Spacamonte, Mostelin, Jodelet.</head>
+<stage>Spacamonte ouvre le cabinet, et Mostelin le ramÃ¨ne tout tremblant au coin du ThÃ©Ã¢tre.</stage>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 <p id='1'>
-	<s id='1'>Voilà de mauvaises liqueurs.</s>
+	<s id='1'>VoilÃ  de mauvaises liqueurs.</s>
 </p>
 </sp>
 <sp who='MOSTELIN'><speaker>MOSTELIN.</speaker>
 <p id='2'>
-	<s id='1'>Mon beau Capitaine, sortez de votre étonnement. </s>
-	<s id='2'>J’aime Isabelle, et j’en suis aimé. </s>
-	<s id='3'>Si vous n’êtes pas content de me trouver enfermé dans son cabinet, je porte une épée, entendez-vous ? </s>
-	<s id='4'>Je porte une épée.</s>
+	<s id='1'>Mon beau Capitaine, sortez de votre Ã©tonnement. </s>
+	<s id='2'>J'aime Isabelle, et j'en suis aimÃ©. </s>
+	<s id='3'>Si vous n'Ãªtes pas content de me trouver enfermÃ© dans son cabinet, je porte une Ã©pÃ©e, entendez-vousÂ ? </s>
+	<s id='4'>Je porte une Ã©pÃ©e.</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='14'><head>SCÈNE XIV. Spacamonte, Jodelet.</head>
+<div2 type="scene" n='14'><head>SCÃˆNE XIV. Spacamonte, Jodelet.</head>
 <sp who='SPACAMONTE'><speaker>SPACAMONTE.</speaker>
 <p id='1'>
-	<s id='1'>Il porte une épée. </s>
-	<s id='2'>Est-ce que je ne le vois pas bien ? </s>
-	<s id='3'>Hé, que diable est-ce que je porte donc moi ? </s>
-	<s id='4'>Ami Jodelet ?</s>
+	<s id='1'>Il porte une Ã©pÃ©e. </s>
+	<s id='2'>Est-ce que je ne le vois pas bienÂ ? </s>
+	<s id='3'>HÃ©, que diable est-ce que je porte donc moiÂ ? </s>
+	<s id='4'>Ami JodeletÂ ?</s>
 </p>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
@@ -1383,55 +1383,55 @@
 </sp>
 <sp who='SPACAMONTE'><speaker>SPACAMONTE.</speaker>
 <p id='3'>
-	<s id='1'>Tu vois cet enfant, il abuse du mépris que je fais de luI. Pour peu que j’eusse le vin furieux, je l’aurais déjà tué plus de trente fois.</s>
+	<s id='1'>Tu vois cet enfant, il abuse du mÃ©pris que je fais de luI. Pour peu que j'eusse le vin furieux, je l'aurais dÃ©jÃ  tuÃ© plus de trente fois.</s>
 </p>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 <p id='4'>
-	<s id='1'>Plus de trente fois, c’est assez d’une bonne.</s>
+	<s id='1'>Plus de trente fois, c'est assez d'une bonne.</s>
 </p>
 </sp>
 <sp who='SPACAMONTE'><speaker>SPACAMONTE.</speaker>
 <p id='5'>
-	<s id='1'>Le petit bélître ! </s>
-	<s id='2'>Il porte une épée, je me veux munir d’une canne.</s>
+	<s id='1'>Le petit bÃ©lÃ®treÂ ! </s>
+	<s id='2'>Il porte une Ã©pÃ©e, je me veux munir d'une canne.</s>
 </p>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 <p id='6'>
-	<s id='1'>Le voilà qui revient.</s>
+	<s id='1'>Le voilÃ  qui revient.</s>
 </p>
 </sp>
 <sp who='SPACAMONTE'><speaker>SPACAMONTE.</speaker>
 <p id='7'>
-	<s id='1'>Foin, j’ai laissé mes pistolets. </s>
+	<s id='1'>Foin, j'ai laissÃ© mes pistolets. </s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='15'><head>SCÈNE XV. Spacamonte, Mostelin, Jodelet.</head>
+<div2 type="scene" n='15'><head>SCÃˆNE XV. Spacamonte, Mostelin, Jodelet.</head>
 <sp who='MOSTELIN'><speaker>MOSTELIN.</speaker>
 <p id='1'>
-	<s id='1'>Monsieur, Monsieur le fanfaron, vous vous exhalez en mauvais discours : mais je sais les moyens de les faire finir. </s>
-	<s id='2'>Allons, Monsieur, l’épée à la main.</s>
+	<s id='1'>Monsieur, Monsieur le fanfaron, vous vous exhalez en mauvais discoursÂ : mais je sais les moyens de les faire finir. </s>
+	<s id='2'>Allons, Monsieur, l'Ã©pÃ©e Ã  la main.</s>
 </p>
 </sp>
 <sp who='SPACAMONTE'><speaker>SPACAMONTE.</speaker>
 <p id='2'>
-	<s id='1'>Petit badin, fi donc, je ne puis souffrir les rencontres, et ne me bats qu’en rendez-vous. </s>
-	<s id='2'>À demain, entendez-vous ? </s>
-	<s id='3'>À demain.</s>
+	<s id='1'>Petit badin, fi donc, je ne puis souffrir les rencontres, et ne me bats qu'en rendez-vous. </s>
+	<s id='2'>Ã€ demain, entendez-vousÂ ? </s>
+	<s id='3'>Ã€ demain.</s>
 </p>
 </sp>
 <sp who='MOSTELIN'><speaker>MOSTELIN.</speaker>
 <p id='3'>
-	<s id='1'>Vous n’échapperez pas, défendez-vous, ou je vous déshonorerai.</s>
+	<s id='1'>Vous n'Ã©chapperez pas, dÃ©fendez-vous, ou je vous dÃ©shonorerai.</s>
 </p>
 </sp>
 <sp who='SPACAMONTE'><speaker>SPACAMONTE.</speaker>
 <p id='4'>
-	<s id='1'>Oh ! </s>
-	<s id='2'>Cadedis, je vous en défie, je n’ai que trop d’honneur. </s>
-	<s id='3'>On peut m’en ôter sans qu’il y paraisse.</s>
+	<s id='1'>OhÂ ! </s>
+	<s id='2'>Cadedis, je vous en dÃ©fie, je n'ai que trop d'honneur. </s>
+	<s id='3'>On peut m'en Ã´ter sans qu'il y paraisse.</s>
 </p>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
@@ -1441,14 +1441,14 @@
 </sp>
 <sp who='MOSTELIN'><speaker>MOSTELIN, feignant de lui porter un coup.</speaker>
 <p id='6'>
-	<s id='1'>C’est trop perdre de temps, allons.</s>
+	<s id='1'>C'est trop perdre de temps, allons.</s>
 </p>
 </sp>
 <sp who='SPACAMONTE'><speaker>SPACAMONTE, en tombant.</speaker>
 <p id='7'>
-	<s id='1'>Ah ! </s>
+	<s id='1'>AhÂ ! </s>
 	<s id='2'>Je suis mort. </s>
-	<s id='3'>Petit jeune homme, on ne bat point à terre ; observez les règles du point d’honneur.</s>
+	<s id='3'>Petit jeune homme, on ne bat point Ã  terreÂ ; observez les rÃ¨gles du point d'honneur.</s>
 </p>
 </sp>
 <sp who='MOSTELIN'><speaker>MOSTELIN.</speaker>
@@ -1458,142 +1458,142 @@
 </sp>
 <sp who='SPACAMONTE'><speaker>SPACAMONTE.</speaker>
 <p id='9'>
-	<s id='1'>Oh ! </s>
+	<s id='1'>OhÂ ! </s>
 	<s id='2'>Diablezot. </s>
-	<s id='3'>La peste m’étouffe si j’en fais rien : je couche ici.</s>
+	<s id='3'>La peste m'Ã©touffe si j'en fais rienÂ : je couche ici.</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='16'><head>SCÈNE XVI. Spacamonte, Mostelin, Isabelle, Garguille, Zerbinette, Jodelet.</head>
+<div2 type="scene" n='16'><head>SCÃˆNE XVI. Spacamonte, Mostelin, Isabelle, Garguille, Zerbinette, Jodelet.</head>
 <sp who='GARGUILLE'><speaker>GARGUILLE.</speaker>
 <p id='1'>
-	<s id='1'>Qu’est-ce donc que ceci ? </s>
-	<s id='2'>Que faites-vous là, Seigneur Spacamonte ?</s>
+	<s id='1'>Qu'est-ce donc que ceciÂ ? </s>
+	<s id='2'>Que faites-vous lÃ , Seigneur SpacamonteÂ ?</s>
 </p>
 </sp>
-<sp who='SPACAMONTE'><speaker>SPACAMONTE, à terre.</speaker>
+<sp who='SPACAMONTE'><speaker>SPACAMONTE, Ã  terre.</speaker>
 <p id='2'>
-	<s id='1'>Je me promène.</s>
+	<s id='1'>Je me promÃ¨ne.</s>
 </p>
 </sp>
 <sp who='GARGUILLE'><speaker>GARGUILLE.</speaker>
 <p id='3'>
-	<s id='1'>Pourquoi ce jeune Monsieur l’épée à la main ?</s>
+	<s id='1'>Pourquoi ce jeune Monsieur l'Ã©pÃ©e Ã  la mainÂ ?</s>
 </p>
 </sp>
 <sp who='SPACAMONTE'><speaker>SPACAMONTE.</speaker>
 <p id='4'>
 	<s id='1'>Par amusement. </s>
-	<s id='2'>Il fait l’exercice, et je lui montre son métier.</s>
+	<s id='2'>Il fait l'exercice, et je lui montre son mÃ©tier.</s>
 </p>
 </sp>
 <sp who='MOSTELIN'><speaker>MOSTELIN.</speaker>
 <p id='5'>
 	<s id='1'>Il faut vous expliquer la chose, Monsieur. </s>
-	<s id='2'>Je suis aimé de votre fille, je sais que ce fanfaron en est amoureux, et je lui veux ôter la vie s’il ne cesse de me la disputer.</s>
+	<s id='2'>Je suis aimÃ© de votre fille, je sais que ce fanfaron en est amoureux, et je lui veux Ã´ter la vie s'il ne cesse de me la disputer.</s>
 </p>
 </sp>
 <sp who='SPACAMONTE'><speaker>SPACAMONTE.</speaker>
 <p id='6'>
-	<s id='1'>C’est là le fait. </s>
-	<s id='2'>Oh ! </s>
-	<s id='3'>Sans rancune, petit bonhomme, je suis humain, je vous la cède : ces pauvres amants me font pitié.</s>
+	<s id='1'>C'est lÃ  le fait. </s>
+	<s id='2'>OhÂ ! </s>
+	<s id='3'>Sans rancune, petit bonhomme, je suis humain, je vous la cÃ¨deÂ : ces pauvres amants me font pitiÃ©.</s>
 </p>
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
 <p id='7'>
-	<s id='1'>Seigneur Gautier-Garguille, profitez de l’absence de votre femme. </s>
-	<s id='2'>Vous voilà défait du Capitan, prenez au plus vite cet autre gendre, et que Madame Garguille trouve le mariage fait quand elle reviendra.</s>
+	<s id='1'>Seigneur Gautier-Garguille, profitez de l'absence de votre femme. </s>
+	<s id='2'>Vous voilÃ  dÃ©fait du Capitan, prenez au plus vite cet autre gendre, et que Madame Garguille trouve le mariage fait quand elle reviendra.</s>
 </p>
 </sp>
 <sp who='GARGUILLE'><speaker>GARGUILLE.</speaker>
 <p id='8'>
-	<s id='1'>Ce conseil est trop bon pour n’être pas suivi.</s>
+	<s id='1'>Ce conseil est trop bon pour n'Ãªtre pas suivi.</s>
 </p>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 <p id='9'>
-	<s id='1'>Seigneur Spacamonte, ne serez-vous pas de la noce ?</s>
+	<s id='1'>Seigneur Spacamonte, ne serez-vous pas de la noceÂ ?</s>
 </p>
 </sp>
 <sp who='SPACAMONTE'><speaker>SPACAMONTE.</speaker>
 <p id='10'>
-	<s id='1'>Oh ! </s>
-	<s id='2'>De grand cœur : je n’ai point de fiel, et bien en prend à l’Univers que je sois aussi bon que brave. </s>
-	<s id='3'>Allons, enfants, que le Bal commence, et qu’on laisse entrer tous les Masques.</s>
+	<s id='1'>OhÂ ! </s>
+	<s id='2'>De grand cÂœurÂ : je n'ai point de fiel, et bien en prend Ã  l'Univers que je sois aussi bon que brave. </s>
+	<s id='3'>Allons, enfants, que le Bal commence, et qu'on laisse entrer tous les Masques.</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='17'><head>AIRS DU DIVERTISSEMENT.</head>
+<div2 type="scene" n='17'><head>AIRS DU DIVERTISSEMENT.</head>
 <sp who='MONSIEUR BARRY'><speaker>MONSIEUR BARRY.</speaker>
-	<l id='7'>Les chagrins, la mélancolie,</l>
-	<l id='8'>Sont les plus grands maux de la vie ;</l>
-	<l id='9'>Les secrets dont je les guéris,</l>
+	<l id='7'>Les chagrins, la mÃ©lancolie,</l>
+	<l id='8'>Sont les plus grands maux de la vieÂ ;</l>
+	<l id='9'>Les secrets dont je les guÃ©ris,</l>
 	<l id='10'>Sont les plaisirs, les jeux, les ris,</l>
-	<l id='11'>Un peu d’amoureuse folie,</l>
-	<l id='12'>Et l’usage des meilleurs vins,</l>
-	<l id='13'>Avec cela, quel mal peut vous surprendre ?</l>
-	<l id='14'>Que mes remèdes sont bénins,</l>
-	<l id='15'>Et qu’ils sont faciles à prendre.</l>
+	<l id='11'>Un peu d'amoureuse folie,</l>
+	<l id='12'>Et l'usage des meilleurs vins,</l>
+	<l id='13'>Avec cela, quel mal peut vous surprendreÂ ?</l>
+	<l id='14'>Que mes remÃ¨des sont bÃ©nins,</l>
+	<l id='15'>Et qu'ils sont faciles Ã  prendre.</l>
 </sp>
 <sp who='MOSTELIN'><speaker>MOSTELIN.</speaker>
-	<l id='16'>L’Opérateur Monsieur Barry</l>
-	<l id='17'>Est mon Médecin favori ;</l>
-	<l id='18'>Avec les secrets qu’il débite,</l>
-	<l id='19'>Il n’est point de maux qu’on évite.</l>
-	<l id='20'>L’Opérateur Monsieur Barry</l>
-	<l id='21'>Est mon Médecin favori.</l>
+	<l id='16'>L'OpÃ©rateur Monsieur Barry</l>
+	<l id='17'>Est mon MÃ©decin favoriÂ ;</l>
+	<l id='18'>Avec les secrets qu'il dÃ©bite,</l>
+	<l id='19'>Il n'est point de maux qu'on Ã©vite.</l>
+	<l id='20'>L'OpÃ©rateur Monsieur Barry</l>
+	<l id='21'>Est mon MÃ©decin favori.</l>
 </sp>
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
-	<l id='22'>Dieu vous garde, Monsieur l’Empirique,</l>
-	<l id='23'>Toute la nuit Margot n’a fait qu’un cri :</l>
-	<l id='24'>Ah ! Que vous auriez de la pratique,</l>
+	<l id='22'>Dieu vous garde, Monsieur l'Empirique,</l>
+	<l id='23'>Toute la nuit Margot n'a fait qu'un criÂ :</l>
+	<l id='24'>AhÂ ! Que vous auriez de la pratique,</l>
 	<l id='25'>Et de chalandise, si</l>
 	<l id='26'>Vous lui donniez en bon ami</l>
-	<l id='27'>Un remède pour sa colique.</l>
+	<l id='27'>Un remÃ¨de pour sa colique.</l>
 </sp>
 <sp who='MONSIEUR BARRY'><speaker>MONSIEUR BARRY.</speaker>
 	<l id='28'>Fillette, prenez un mari,</l>
-	<l id='29'>Ni trop nourri, ni trop étique ;</l>
-	<l id='30'>S’il ne vous guérit, joignez-y</l>
+	<l id='29'>Ni trop nourri, ni trop Ã©tiqueÂ ;</l>
+	<l id='30'>S'il ne vous guÃ©rit, joignez-y</l>
 	<l id='31'>Quelque dose de favori,</l>
-	<l id='32'>C’est un remède spécifique.</l>
+	<l id='32'>C'est un remÃ¨de spÃ©cifique.</l>
 </sp>
 <sp who='TOUS ENSEMBLE'><speaker>TOUS ENSEMBLE.</speaker>
 	<l id='33'>Vivat, vivat Monsieur Barry,</l>
-	<l id='34'>C’est mon Médecin favori.</l>
+	<l id='34'>C'est mon MÃ©decin favori.</l>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
-	<l id='35'>Monsieur l’Opérateur, de grâce,</l>
-	<l id='36'>Expliquez-moi le mal que j’ai.</l>
-	<l id='37'>J’ai peur de mourir enragé,</l>
-	<l id='38'>Je ne puis boire d’eau dans ma tasse,</l>
-	<l id='39'>Ce serait un terrible cas ;</l>
-	<l id='40'>Ah ! Sauvez-moi, je vous supplie,</l>
+	<l id='35'>Monsieur l'OpÃ©rateur, de grÃ¢ce,</l>
+	<l id='36'>Expliquez-moi le mal que j'ai.</l>
+	<l id='37'>J'ai peur de mourir enragÃ©,</l>
+	<l id='38'>Je ne puis boire d'eau dans ma tasse,</l>
+	<l id='39'>Ce serait un terrible casÂ ;</l>
+	<l id='40'>AhÂ ! Sauvez-moi, je vous supplie,</l>
 	<l id='41'>Des suites de ma maladie,</l>
-	<l id='42'>Mais ne me la guérissez pas.</l>
+	<l id='42'>Mais ne me la guÃ©rissez pas.</l>
 </sp>
 <sp who='MONSIEUR BARRY'><speaker>MONSIEUR BARRY.</speaker>
 	<l id='43'>Bois du vin, ne crains pas la rage,</l>
-	<l id='44'>Ton mal n’est pas un mal nouveau ;</l>
-	<l id='45'>Heureux, heureux, qui ne fait point usage de l’eau</l>
-	<l id='46'>On sait que le père Silène</l>
-	<l id='47'>Descendit fort vieux au tombeau ;</l>
+	<l id='44'>Ton mal n'est pas un mal nouveauÂ ;</l>
+	<l id='45'>Heureux, heureux, qui ne fait point usage de l'eau</l>
+	<l id='46'>On sait que le pÃ¨re SilÃ¨ne</l>
+	<l id='47'>Descendit fort vieux au tombeauÂ ;</l>
 	<l id='48'>Il eut comme toi de la haine</l>
-	<l id='49'>Pour l’eau.</l>
+	<l id='49'>Pour l'eau.</l>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
-	<l id='50'>Ô ! Grand merci, Monsieur Barry ;</l>
+	<l id='50'>Ã”Â ! Grand merci, Monsieur BarryÂ ;</l>
 	<l id='51'>De ma ridicule crainte</l>
-	<l id='52'>Me voilà désormais guéri.</l>
+	<l id='52'>Me voilÃ  dÃ©sormais guÃ©ri.</l>
 	<l id='53'>Je boirai pinte sur pinte,</l>
-	<l id='54'>Plusieurs pintes font un barry ;</l>
-	<l id='55'>Ô ! Grand merci, Monsieur Barry.</l>
+	<l id='54'>Plusieurs pintes font un barryÂ ;</l>
+	<l id='55'>Ã”Â ! Grand merci, Monsieur Barry.</l>
 <stage>BRANLE.</stage>
 </sp>
 <sp who='MONSIEUR BARRY'><speaker>MONSIEUR BARRY.</speaker>
-	<l id='56'>L’Amour est le protecteur</l>
-	<l id='57'>De tous les cœurs qu’il engage ;</l>
+	<l id='56'>L'Amour est le protecteur</l>
+	<l id='57'>De tous les cÂœurs qu'il engageÂ ;</l>
 	<l id='58'>Fuir les traits est une erreur,</l>
 	<l id='59'>Venez tous lui rendre hommage,</l>
 	<l id='60'>Pour le mariage, bon,</l>
@@ -1601,15 +1601,15 @@
 </sp>
 <sp who='MOSTELIN'><speaker>MOSTELIN.</speaker>
 	<l id='62'>Jeunes et tendres galants</l>
-	<l id='63'>Que père ou mère inquiète,</l>
+	<l id='63'>Que pÃ¨re ou mÃ¨re inquiÃ¨te,</l>
 	<l id='64'>Ayez recours aux talents</l>
-	<l id='65'>De l’aimable Zerbinette,</l>
+	<l id='65'>De l'aimable Zerbinette,</l>
 	<l id='66'>Pour le mariage, bon,</l>
 	<l id='67'>Pour le badinage, non.</l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
-	<l id='68'>Jeune fillette à quinze ans</l>
-	<l id='69'>Doit savoir plus d’un langage.</l>
+	<l id='68'>Jeune fillette Ã  quinze ans</l>
+	<l id='69'>Doit savoir plus d'un langage.</l>
 	<l id='70'>Pour tromper les surveillants</l>
 	<l id='71'>On peut tout mettre en usage</l>
 	<l id='72'>Pour le mariage, bon,</l>
@@ -1618,8 +1618,8 @@
 <sp who='ZERBINETTE'><speaker>ZERBINETTE.</speaker>
 	<l id='74'>Au sortir de son printemps</l>
 	<l id='75'>Femme de joli visage,</l>
-	<l id='76'>Quoiqu’elle ait passé trente ans</l>
-	<l id='77'>Est encore dans le bel âge,</l>
+	<l id='76'>Quoiqu'elle ait passÃ© trente ans</l>
+	<l id='77'>Est encore dans le bel Ã¢ge,</l>
 	<l id='78'>Pour le mariage, bon,</l>
 	<l id='79'>Pour le badinage, non.</l>
 </sp>
@@ -1632,17 +1632,17 @@
 	<l id='85'>Pour le badinage, non.</l>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
-	<l id='86'>Ce médisant de Pierrot</l>
-	<l id='87'>Dit que Margot n’est pas sage,</l>
+	<l id='86'>Ce mÃ©disant de Pierrot</l>
+	<l id='87'>Dit que Margot n'est pas sage,</l>
 	<l id='88'>Moi je soutiens que Margot</l>
-	<l id='89'>Est à son apprentissage,</l>
+	<l id='89'>Est Ã  son apprentissage,</l>
 	<l id='90'>Pour le mariage, bon,</l>
 	<l id='91'>Pour le badinage, non.</l>
-<stage>Septième Couplet.</stage>
-	<l id='92'>Si quelqu’un d’entre vous a</l>
+<stage>SeptiÃ¨me Couplet.</stage>
+	<l id='92'>Si quelqu'un d'entre vous a</l>
 	<l id='93'>Du penchant pour quelque belle,</l>
-	<l id='94'>L’Opérateur vous dira</l>
-	<l id='95'>La secret d’être aimé d’elle,</l>
+	<l id='94'>L'OpÃ©rateur vous dira</l>
+	<l id='95'>La secret d'Ãªtre aimÃ© d'elle,</l>
 	<l id='96'>Pour le mariage, bon,</l>
 	<l id='97'>Pour le badinage, non.</l>
 </sp>
@@ -1650,4 +1650,4 @@
 </div1>
 </body>
 </text>
-</TEI.2>
+</TEI>

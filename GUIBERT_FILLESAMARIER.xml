@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-<TEI.2>
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
 <teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>LES FILLES A MARIER, COMÉDIE EN UN ACTE EN VERS.</title>
+				<title>LES FILLES Ã€ MARIER, COMÃ‰DIE EN UN ACTE EN VERS.</title>
 				<author born='1725' born_location='' death='1787' death_location='' academie=''>GUIBERT, Elisabeth</author>
 			</titleStmt>
 			<publicationStmp>	
-				<p>publié par Paul FIEVRE, avril 2012</p>
+				<p>publiÃ© par Paul FIEVRE, avril 2012</p>
 			</publicationStmp>
 			<SourceDesc>
-				<genre>Comédie</genre>
-				<inspiration>moeurs françaises</inspiration>
+				<genre>ComÃ©die</genre>
+				<inspiration>moeurs franÃ§aises</inspiration>
 				<structure>Un acte</structure>
 				<type>vers</type>
 				<periode>1761-1770</periode>
@@ -27,136 +27,136 @@
 <text>
 	<front>
 		<docTitle>
-			<titlePart type="main">LES FILLES À MARIER</titlePart>
-			<titlePart type="sub">COMÉDIE EN UN ACTE EN VERS.</titlePart>
+			<titlePart type="main">LES FILLES Ã€ MARIER</titlePart>
+			<titlePart type="sub">COMÃ‰DIE EN UN ACTE EN VERS.</titlePart>
 		</docTitle> 
 		<docDate value='1768'>M. DCC. LXVIII.</docDate>
 		<docAuthor id='GUIBERT, Elisabeth' bio=''>Par Madame GUIBERT.</docAuthor>
 		<docImprint>
 			<privilege id="1767-11-19"><head></head>
 			<p>J'ai lu par ordre de Monseigneur le Vice-Chancelier,
-un Manuscrit qui a pour titre : les Filles à Marier, Comédie, et je crois que l'on peut en permettre l'impression. À Paris ce 19 Nov. 1767. ARNOUL.
+un Manuscrit qui a pour titre : les Filles Ã  Marier, ComÃ©die, et je crois que l'on peut en permettre l'impression. Ã€ Paris ce 19 Nov. 1767. ARNOUL.
 </p></privilege>
 			<acheveImprime id=""></acheveImprime>
-			<printer id='DUSCHENE'>À AMSTERDAM, et se trouve à Paris, Chez la Veuve DUCHESNE, Libraire, rue Saint-Jacques, au Temple du GoÛt, et la Veuve L'ECLAPART, Quai de Gèvres.</printer>
+			<printer id='DUSCHENE'>Ã€ AMSTERDAM, et se trouve Ã  Paris, Chez la Veuve DUCHESNE, Libraire, rue Saint-Jacques, au Temple du GoÃ›t, et la Veuve L'ECLAPART, Quai de GÃ¨vres.</printer>
 		</docImprint>
 		<performance>
-			<premiere date='1768' location='Théâtre de Nicolet'>Représenté pour le première fois en 1768 au Théâtre de Nicolet.</premiere>
+			<premiere date='1768' location='ThÃ©Ã¢tre de Nicolet'>ReprÃ©sentÃ© pour le premiÃ¨re fois en 1768 au ThÃ©Ã¢tre de Nicolet.</premiere>
 		</performance>
 
 <castList><head>PERSONNAGES. </head>
-		<castItem><role id="MONSIEUR-BROTON" civil="M" type="H" statut='bourgeois' age='A' stat_amour='néant'>MONSIEUR BROTON</role>, Bourgeois.</castItem>
-		<castItem><role id="CATHIS" civil="F" type="H" statut='bourgeois' age='J' stat_amour='néant'>CATHIS</role>, fille de M. Broton.</castItem>
-		<castItem><role id="LOLOTTE" civil="F" type="H" statut='bourgeois' age='J' stat_amour='néant'>LOLOTTE</role>, fille de M. Broton.</castItem>
+		<castItem><role id="MONSIEUR-BROTON" civil="M" type="H" statut='bourgeois' age='A' stat_amour='nÃ©ant'>MONSIEUR BROTON</role>, Bourgeois.</castItem>
+		<castItem><role id="CATHIS" civil="F" type="H" statut='bourgeois' age='J' stat_amour='nÃ©ant'>CATHIS</role>, fille de M. Broton.</castItem>
+		<castItem><role id="LOLOTTE" civil="F" type="H" statut='bourgeois' age='J' stat_amour='nÃ©ant'>LOLOTTE</role>, fille de M. Broton.</castItem>
 		<castItem><role id="VICTOIRE" civil="F" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>VICTOIRE</role>.</castItem>
-		<castItem><role id="LÉANDRE" civil="M" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>LÉANDRE</role>, amant de Victoire.</castItem>
-		<castItem><role id="CLORINDE" civil="M" type="H" statut='bourgeois' age='A' stat_amour='néant'>CLORINDE</role>.</castItem>
-		<castItem><role id="DAMIS" civil="M" type="H" statut='chevalier' age='A' stat_amour='néant'>LE CHEVALIER DAMIS</role>, ami de Clorinde.</castItem>
-		<castItem><role id="BABOT" civil="M" type="H" statut='servante' age='A' stat_amour='néant'>BABOT</role>, servante chez Monsieur Broton.</castItem>
-		<castItem><role id="CHAMPAGNE" civil="M" type="H" statut='valet' age='A' stat_amour='néant'>CHAMPAGNE</role>, valet de Léandre.</castItem>
+		<castItem><role id="LÃ‰ANDRE" civil="M" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>LÃ‰ANDRE</role>, amant de Victoire.</castItem>
+		<castItem><role id="CLORINDE" civil="M" type="H" statut='bourgeois' age='A' stat_amour='nÃ©ant'>CLORINDE</role>.</castItem>
+		<castItem><role id="DAMIS" civil="M" type="H" statut='chevalier' age='A' stat_amour='nÃ©ant'>LE CHEVALIER DAMIS</role>, ami de Clorinde.</castItem>
+		<castItem><role id="BABOT" civil="M" type="H" statut='servante' age='A' stat_amour='nÃ©ant'>BABOT</role>, servante chez Monsieur Broton.</castItem>
+		<castItem><role id="CHAMPAGNE" civil="M" type="H" statut='valet' age='A' stat_amour='nÃ©ant'>CHAMPAGNE</role>, valet de LÃ©andre.</castItem>
 </castList>
-<set location="France" country='France' periode='XVIIIème' link=''>La Scène est chez M. Broton.</set>
+<set location="France" country='France' periode='XVIIIÃ¨me' link=''>La ScÃ¨ne est chez M. Broton.</set>
 </front>
 <body>
-<div1 type='acte' n='1'><head></head>
-<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Monsieur Broton, Cathis, Victoire, Lolotte.</head>
+<div1 type="act" n='1'><head></head>
+<div2 type="scene" n='1'><head>SCÃˆNE PREMIÃˆRE. Monsieur Broton, Cathis, Victoire, Lolotte.</head>
 <sp who='CATHIS_LOLOTTE'><speaker>CATHIS, ET LOLOTTE, en ensemble suivant.</speaker>
 	<l id='1' part='i'>Mon Papa !</l>
 </sp>
 <sp who='BROTON'><speaker>MONSIEUR BROTON, avec humeur.</speaker>
-	<l id='1' part='f'>Ventrebleu, je ne sais où j'en fuis !</l>
+	<l id='1' part='f'>Ventrebleu, je ne sais oÃ¹ j'en fuis !</l>
 	<l id='2'>Est-ce que je peux, moi, vous forger des maris ?</l>
-	<l id='3'>Ces trois carognes-là me font tourner la tête.</l>
+	<l id='3'>Ces trois carognes-lÃ  me font tourner la tÃªte.</l>
 </sp>
 <sp who='LOLOTTE'><speaker>LOLOTTE.</speaker>
-	<l id='4'>Nous voulons un état ; la demande est honnête.</l>
+	<l id='4'>Nous voulons un Ã©tat ; la demande est honnÃªte.</l>
 </sp>
 <sp who='CATHIS'><speaker>CATHIS.</speaker>
-	<l id='5'>Le moyen, s'il vous plaît, detrouver des époux,</l>
+	<l id='5'>Le moyen, s'il vous plaÃ®t, detrouver des Ã©poux,</l>
 	<l id='6'>Quand on ne voit ici que portes et verroux ?</l>
 </sp>
 <sp who='BROTON'><speaker>MONSIEUR BROTON.</speaker>
 	<l id='7'>Eh ! Peut-on trop fermer, quand au travers des grilles,</l>
-	<l id='8'>On voit s'évaporer l'honneur de tant de filles ?</l>
+	<l id='8'>On voit s'Ã©vaporer l'honneur de tant de filles ?</l>
 </sp>
 <sp who='VICTOIRE'><speaker>VICTOIRE.</speaker>
-	<l id='9'>C'est donc notre vertu qui répond de nos moeurs :</l>
-	<l id='10'>Rien ne peut arrêter le penchant de nos coeurs,</l>
+	<l id='9'>C'est donc notre vertu qui rÃ©pond de nos moeurs :</l>
+	<l id='10'>Rien ne peut arrÃªter le penchant de nos coeurs,</l>
 	<l id='11'>C'est elle seule aussi que vous devez en croire,</l>
-	<l id='12' part='i'>La contrainte, mon père....</l>
+	<l id='12' part='i'>La contrainte, mon pÃ¨re....</l>
 </sp>
 <sp who='BROTON'><speaker>MONSIEUR BROTON.</speaker>
 	<l id='12' part='f'>Ah ! Taisez-vous, Victoire.</l>
 </sp>
 <sp who='CATHIS'><speaker>CATHIS.</speaker>
-	<l id='13'>Pour trouver des partis, il faut paraître au moins.</l>
+	<l id='13'>Pour trouver des partis, il faut paraÃ®tre au moins.</l>
 </sp>
 <sp who='BROTON'><speaker>MONSIEUR BROTON.</speaker>
 	<l id='14'>Non, vous dis-je, attendez tout du temps, de mes soins,</l>
 	<l id='15'>Et je vous marierai ; ces conteurs de sornettes,</l>
-	<l id='16'>Qui dans chaque maison débitent leurs fleurettes,</l>
-	<l id='17'>Ne sont point épouseurs ; le quatrième jour</l>
+	<l id='16'>Qui dans chaque maison dÃ©bitent leurs fleurettes,</l>
+	<l id='17'>Ne sont point Ã©pouseurs ; le quatriÃ¨me jour</l>
 	<l id='18'>Qu'on vous frequentera, serviteur ; plus d'amour ;</l>
-	<l id='19' part='i'>Ou bien qu'on vous épouse.</l>
+	<l id='19' part='i'>Ou bien qu'on vous Ã©pouse.</l>
 </sp>
 <sp who='LOLOTTE'><speaker>LOLOTTE.</speaker>
-	<l id='19' part='f'>Il paraît impossible</l>
-	<l id='20'>Qu'une fille d'honneur qui doit être insensible,</l>
-	<l id='21' part='i'>En quatre jours connaisse, aime, épouse...</l>
+	<l id='19' part='f'>Il paraÃ®t impossible</l>
+	<l id='20'>Qu'une fille d'honneur qui doit Ãªtre insensible,</l>
+	<l id='21' part='i'>En quatre jours connaisse, aime, Ã©pouse...</l>
 </sp>
 <sp who='BROTON'><speaker>MONSIEUR BROTON.</speaker>
 	<l id='21' part='f'>Comment,</l>
 	<l id='22'>La doucette Lolotte aussi veut un amant ?</l>
 </sp>
 <sp who='LOLOTTE'><speaker>LOLOTTE.</speaker>
-	<l id='23' part='i'>J'ai bientôt dix-huit ans.</l>
+	<l id='23' part='i'>J'ai bientÃ´t dix-huit ans.</l>
 </sp>
 <sp who='CATHIS'><speaker>CATHIS, vivement.</speaker>
-	<l id='23' part='f'>Et je suis son aînée.</l>
+	<l id='23' part='f'>Et je suis son aÃ®nÃ©e.</l>
 </sp>
 <sp who='VICTOIRE'><speaker>VICTOIRE.</speaker>
-	<l id='24' part='i'>Moi, je suis déjà grande.</l>
+	<l id='24' part='i'>Moi, je suis dÃ©jÃ  grande.</l>
 </sp>
 <sp who='BROTON'><speaker>MONSIEUR BROTON.</speaker>
 	<l id='24' part='m'>Ah ! Tant mieux.</l>
 </sp>
 <sp who='CATHIS'><speaker>CATHIS.</speaker>
-	<l id='24' part='f'>Une année</l>
-	<l id='25'>En donne trois ici, mon père, en vérité,</l>
-	<l id='26'>Si vous ne modérez notre captivité,</l>
+	<l id='24' part='f'>Une annÃ©e</l>
+	<l id='25'>En donne trois ici, mon pÃ¨re, en vÃ©ritÃ©,</l>
+	<l id='26'>Si vous ne modÃ©rez notre captivitÃ©,</l>
 	<l id='27'>Point de maris pour nous. En fait de mariage....</l>
 </sp>
 <sp who='BROTON'><speaker>MONSIEUR BROTON.</speaker>
 	<l id='28' part='i'>Morbleu !</l>
 </sp>
 <sp who='CATHIS'><speaker>CATHIS.</speaker>
-	<l id='28' part='f'>La plus pressée est toujours la plus sage.</l>
+	<l id='28' part='f'>La plus pressÃ©e est toujours la plus sage.</l>
 </sp>
 <sp who='BROTON'><speaker>MONSIEUR BROTON, ironiquement.</speaker>
 	<l id='29'>Ah ! Mesdames tant-pis ! Le tour est merveilleux ;</l>
 	<l id='30'>Mais moi je ne veux point voir ici d'amoureux :</l>
-	<l id='31'>Vous prenez des conseils, on vous met à la mode,</l>
-	<l id='32'>Et corbleu, ma maison est déjà trop commode !</l>
+	<l id='31'>Vous prenez des conseils, on vous met Ã  la mode,</l>
+	<l id='32'>Et corbleu, ma maison est dÃ©jÃ  trop commode !</l>
 	<l id='33'>Votre belle Clorinde avec son Chevalier,</l>
-	<l id='34'>Sans leur bail, à l'instant vuideraient mon premier.</l>
+	<l id='34'>Sans leur bail, Ã  l'instant vuideraient mon premier.</l>
 	<l id='35'>C'est elle qui vous met dans la coquetterie.</l>
-<note type="L">Frisure : Manière de friser. Il y a des perruques faites avec tant d'art, qu'elles conservent toujours leur frisure.</note>
-	<l id='36'>Les pompons, la frisure, un air d'étourderie....</l>
-<note type="L">Escoffions : terme populaire qui se dit de la coiffure des femmes du peuple, ou des paysannes, des femmes coiffées mal proprement. [F]</note>
-	<l id='37'>Je vois mille escoffions qui m'étetient inconnus</l>
-	<l id='38'>Depuis qu'on la fréquente on ne travaille plus.</l>
-	<l id='39'>Nouër un bout de soie, et sourire avec grâce ;</l>
-	<l id='40'>Voilà ce qu'on vous montre, et tout cela me lasse.</l>
+<note type="L">Frisure : ManiÃ¨re de friser. Il y a des perruques faites avec tant d'art, qu'elles conservent toujours leur frisure.</note>
+	<l id='36'>Les pompons, la frisure, un air d'Ã©tourderie....</l>
+<note type="L">Escoffions : terme populaire qui se dit de la coiffure des femmes du peuple, ou des paysannes, des femmes coiffÃ©es mal proprement. [F]</note>
+	<l id='37'>Je vois mille escoffions qui m'Ã©tetient inconnus</l>
+	<l id='38'>Depuis qu'on la frÃ©quente on ne travaille plus.</l>
+	<l id='39'>NouÃ«r un bout de soie, et sourire avec grÃ¢ce ;</l>
+	<l id='40'>VoilÃ  ce qu'on vous montre, et tout cela me lasse.</l>
 	<l id='41'>On ne dort plus ici ; c'est un train nuit et jour...</l>
 	<l id='42'>Des carosses sans cesse, embarassent ma cour,</l>
 	<l id='43'>Elle vient ; des laquais, des coureurs, et des pages.</l>
-	<l id='44'>On frappe, on ouvre, on entre et de quatre équipages,</l>
-	<l id='45'>Sortent comtes, marquis et des abbés coquets,</l>
+	<l id='44'>On frappe, on ouvre, on entre et de quatre Ã©quipages,</l>
+	<l id='45'>Sortent comtes, marquis et des abbÃ©s coquets,</l>
 	<l id='46'>L'un lui porte ses chiens, l'autre ses perroquets :</l>
 	<l id='47'>Un Petit-Maitre tient le singe de Madame....</l>
-	<l id='48'>Voilà le bel exemple ! Ah ! Si ma pauvre femme</l>
-	<l id='49'>Revenait à la vie et voyait ce fracas,</l>
-<note type="L">Falbalas : bande d'étoffe plissée, et froncée, que les femmes ont mis d'abord pour ornemant au bas de leurs jupes, et qu'elle mettent présentement presque tout au haut. [F]</note>
+	<l id='48'>VoilÃ  le bel exemple ! Ah ! Si ma pauvre femme</l>
+	<l id='49'>Revenait Ã  la vie et voyait ce fracas,</l>
+<note type="L">Falbalas : bande d'Ã©toffe plissÃ©e, et froncÃ©e, que les femmes ont mis d'abord pour ornemant au bas de leurs jupes, et qu'elle mettent prÃ©sentement presque tout au haut. [F]</note>
 	<l id='50'>Ses filles en rubans, aigrettes, falbalas...</l>
 </sp>
 <sp who='CATHIS'><speaker>CATHIS.</speaker>
@@ -173,43 +173,43 @@ un Manuscrit qui a pour titre : les Filles à Marier, Comédie, et je crois que l'
 	<l id='59'>Encor bien rarement : que l'esprit se repose,</l>
 	<l id='60'>Coudre, filer, pour vous est la meilleure chose.</l>
 	<l id='61'>Il faut changer de ton ; Lolotte. Et vous Cathis,</l>
-	<l id='62'>Passez racommoder, s'il vous plaît, mes habits.</l>
+	<l id='62'>Passez racommoder, s'il vous plaÃ®t, mes habits.</l>
 </sp>
 </div2>
-<div2 type='scene' n='2'><head>SCENE II. VICTOIRE, BABOT.</head>
+<div2 type="scene" n='2'><head>SCENE II. VICTOIRE, BABOT.</head>
 <sp who='BABOT'><speaker>BABOT, entre vivement.</speaker>
-	<l id='63'>Que j'étais ennuyée avec sa sermonade !</l>
+	<l id='63'>Que j'Ã©tais ennuyÃ©e avec sa sermonade !</l>
 	<l id='64'>Il ne finissait pas ; une heure en embuscade</l>
-	<l id='65' part='i'>Je voulais vous parler ; Léandre...</l>
+	<l id='65' part='i'>Je voulais vous parler ; LÃ©andre...</l>
 </sp>
-<sp who='VICTOIRE'><speaker>VICTOIRE, sans entendre que Babot lui parle de Léandre.</speaker>
+<sp who='VICTOIRE'><speaker>VICTOIRE, sans entendre que Babot lui parle de LÃ©andre.</speaker>
 	<l id='65' part='f'>Il a raison.</l>
 	<l id='66'>Mes soeurs, depuis un temps, prennent un mauvais ton :</l>
-	<l id='67'>Ce qui sied à Clorinde a pour nous peu de grâce.</l>
+	<l id='67'>Ce qui sied Ã  Clorinde a pour nous peu de grÃ¢ce.</l>
 </sp>
 <sp who='BABOT'><speaker>BABOT.</speaker>
-	<l id='68' part='i'>Léandre est là qui vient...</l>
+	<l id='68' part='i'>LÃ©andre est lÃ  qui vient...</l>
 </sp>
 <sp who='VICTOIRE'><speaker>VICTOIRE.</speaker>
 	<l id='68' part='f'>Ce fard sur nous s'efface :</l>
-	<l id='69'>L'éclat est pour les grands ; la noblesse a ses droits,</l>
-	<l id='70'>Et la simplicité fait l'honneur des bourgeois.</l>
+	<l id='69'>L'Ã©clat est pour les grands ; la noblesse a ses droits,</l>
+	<l id='70'>Et la simplicitÃ© fait l'honneur des bourgeois.</l>
 </sp>
 <sp who='BABOT'><speaker>BABOT, feignant de sortir.</speaker>
-	<l id='71'>Votre commodité n'est donc point de m'entendre ?</l>
-	<l id='72'>Je reviendrai ce soir vous parler de Léandre.</l>
+	<l id='71'>Votre commoditÃ© n'est donc point de m'entendre ?</l>
+	<l id='72'>Je reviendrai ce soir vous parler de LÃ©andre.</l>
 </sp>
 <sp who='VICTOIRE'><speaker>VICTOIRE.</speaker>
-	<l id='73' part='i'>Léandre ? Que dis-tu?</l>
+	<l id='73' part='i'>LÃ©andre ? Que dis-tu?</l>
 </sp>
 <sp who='BABOT'><speaker>BABOT.</speaker>
 	<l id='73' part='f'>Non, non, moralisez  :</l>
 	<l id='74'>Que voulez-vous de plus, quand vous vous amusez ?</l>
-	<l id='75'>Si Monsieur Broton même en prêchant peut vous plaire,</l>
-	<l id='76'>Je vais le rappeller : telle fille, tel père...</l>
+	<l id='75'>Si Monsieur Broton mÃªme en prÃªchant peut vous plaire,</l>
+	<l id='76'>Je vais le rappeller : telle fille, tel pÃ¨re...</l>
 </sp>
 <sp who='VICTOIRE'><speaker>VICTOIRE.</speaker>
-	<l id='77'>Ah ! Finis. Quoi! Léandre est ici, dis, Babot ?</l>
+	<l id='77'>Ah ! Finis. Quoi! LÃ©andre est ici, dis, Babot ?</l>
 </sp>
 <sp who='BABOT'><speaker>BABOT.</speaker>
 	<l id='78' part='i'>Parlez raison, vertu...</l>
@@ -221,50 +221,50 @@ un Manuscrit qui a pour titre : les Filles à Marier, Comédie, et je crois que l'
 	<l id='78' part='f'>Je ne dis mot.</l>
 </sp>
 <sp who='VICTOIRE'><speaker>VICTOIRE.</speaker>
-	<l id='79'>Je t'en conjure, ah ! Dis ; que mon âme est émue !</l>
+	<l id='79'>Je t'en conjure, ah ! Dis ; que mon Ã¢me est Ã©mue !</l>
 </sp>
 <sp who='BABOT'><speaker>BABOT, vivement.</speaker>
-	<l id='80'>Eh bien, j'ai ménagé pour vous une entrevue.</l>
-	<l id='81' part='i'>Léandre vient...</l>
+	<l id='80'>Eh bien, j'ai mÃ©nagÃ© pour vous une entrevue.</l>
+	<l id='81' part='i'>LÃ©andre vient...</l>
 </sp>
 <sp who='VICTOIRE'><speaker>VICTOIRE.</speaker>
 	<l id='81' part='f'>Grands Dieux ! Qu'il soit en mon pouvoir ;</l>
 	<l id='82'>D'accorder la raison, l'amour et mon devoir.</l>
 </sp>
 </div2>
-<div2 type='scene' n='3'><head>SCENE III. VICTOIRE, LEANDRE, BABOT.</head>
-<sp who='LÉANDRE'><speaker>LÉANDRE.</speaker>
-	<l id='83'>Qu'avez vous décidé, sage et tendre Victoire?</l>
+<div2 type="scene" n='3'><head>SCENE III. VICTOIRE, LEANDRE, BABOT.</head>
+<sp who='LÃ‰ANDRE'><speaker>LÃ‰ANDRE.</speaker>
+	<l id='83'>Qu'avez vous dÃ©cidÃ©, sage et tendre Victoire?</l>
 </sp>
 <sp who='VICTOIRE'><speaker>VICTOIRE.</speaker>
-	<l id='84'>De vous aimer toujours et de chérir ma gloire;</l>
-	<l id='85'>Et si mon père un jour, consent à nous unir,</l>
-	<l id='86'>Léandre, mon bonheur sera de vous chérir...</l>
+	<l id='84'>De vous aimer toujours et de chÃ©rir ma gloire;</l>
+	<l id='85'>Et si mon pÃ¨re un jour, consent Ã  nous unir,</l>
+	<l id='86'>LÃ©andre, mon bonheur sera de vous chÃ©rir...</l>
 </sp>
-<sp who='LÉANDRE'><speaker>LÉANDRE.</speaker>
-	<l id='87'>Quand je suis dévoré, par une flame ardente,</l>
+<sp who='LÃ‰ANDRE'><speaker>LÃ‰ANDRE.</speaker>
+	<l id='87'>Quand je suis dÃ©vorÃ©, par une flame ardente,</l>
 	<l id='88'>Puis-je me contenter d'une cruelle attente ?</l>
 </sp>
 <sp who='VICTOIRE'><speaker>VICTOIRE.</speaker>
-	<l id='89'>Peut-être peu de temps satisfera nos coeurs ;</l>
-	<l id='90'>Il suffit que mon père ait marié mes soeurs,</l>
+	<l id='89'>Peut-Ãªtre peu de temps satisfera nos coeurs ;</l>
+	<l id='90'>Il suffit que mon pÃ¨re ait mariÃ© mes soeurs,</l>
 	<l id='91' part='i'>Il vous acceptera.</l>
 </sp>
 <sp who='BABOT'><speaker>BABOT.</speaker>
 	<l id='91' part='f'>Bon ! Quand le seront-elles ?</l>
 	<l id='92'>Il les garde avec soin, et quoi qu'elles soient belles,</l>
-	<l id='93' part='i'>Elles resteront là.</l>
+	<l id='93' part='i'>Elles resteront lÃ .</l>
 </sp>
-<sp who='LÉANDRE'><speaker>LÉANDRE.</speaker>
+<sp who='LÃ‰ANDRE'><speaker>LÃ‰ANDRE.</speaker>
 	<l id='93' part='f'>Mais il faut lui parler.</l>
 </sp>
 <sp who='BABOT'><speaker>BABOT.</speaker>
-	<l id='94'>Si par un stratagème on pouvait l'engeôler ?</l>
+	<l id='94'>Si par un stratagÃ¨me on pouvait l'engeÃ´ler ?</l>
 </sp>
 <sp who='VICTOIRE'><speaker>VICTOIRE.</speaker>
-	<l id='95'>C'est un soin superflu, qu'esperez vous Léandre ?</l>
+	<l id='95'>C'est un soin superflu, qu'esperez vous LÃ©andre ?</l>
 </sp>
-<sp who='LÉANDRE'><speaker>LÉANDRE.</speaker>
+<sp who='LÃ‰ANDRE'><speaker>LÃ‰ANDRE.</speaker>
 	<l id='96' part='i'>Obtenir votre main.</l>
 </sp>
 <sp who='BABOT'><speaker>BABOT.</speaker>
@@ -272,7 +272,7 @@ un Manuscrit qui a pour titre : les Filles à Marier, Comédie, et je crois que l'
 </sp>
 <sp who='VICTOIRE'><speaker>VICTOIRE.</speaker>
 	<l id='97'>Je suis une cadette, et mes soeurs pour mon choix,</l>
-	<l id='98'>Ne seront pas d'humeur à me céder leurs droits.</l>
+	<l id='98'>Ne seront pas d'humeur Ã  me cÃ©der leurs droits.</l>
 </sp>
 <sp who='BABOT'><speaker>BABOT.</speaker>
 	<l id='99'>Encor se marier est toute leur folie.</l>
@@ -280,27 +280,27 @@ un Manuscrit qui a pour titre : les Filles à Marier, Comédie, et je crois que l'
 <sp who='VICTOIRE'><speaker>VICTOIRE.</speaker>
 	<l id='100'>Et moi qui suis plus jeune en ai-je moins d'envie ?</l>
 </sp>
-<sp who='LÉANDRE'><speaker>LÉANDRE.</speaker>
+<sp who='LÃ‰ANDRE'><speaker>LÃ‰ANDRE.</speaker>
 	<l id='101' part='i'>Comment donc faire ?</l>
 </sp>
-<sp who='BABOT'><speaker>BABOT, rêvant.</speaker>
+<sp who='BABOT'><speaker>BABOT, rÃªvant.</speaker>
 	<l id='101' part='f'>Mais... Il faudrait boire un peu...</l>
 	<l id='102' part='i'>Vous griser...</l>
 </sp>
-<sp who='LÉANDRE'><speaker>LÉANDRE.</speaker>
+<sp who='LÃ‰ANDRE'><speaker>LÃ‰ANDRE.</speaker>
 	<l id='102' part='m'>Me griser !</l>
 </sp>
 <sp who='BABOT'><speaker>BABOT, vivement.</speaker>
 	<l id='102' part='f'>Ceci n'est pas un jeu.</l>
 	<l id='103'>Monsieur fait d'un bouchon sa retraite ordinaire,</l>
-<note type="L">Atrabilaire : Mélancolique, qui est d'un tempérament où la bile noire domine. [F]</note>
-	<l id='104'>C'est là qu'il adoucit sa bile atrabilaire,</l>
-	<l id='105'>Et qui peut sur un banc être assis près de lui,</l>
+<note type="L">Atrabilaire : MÃ©lancolique, qui est d'un tempÃ©rament oÃ¹ la bile noire domine. [F]</note>
+	<l id='104'>C'est lÃ  qu'il adoucit sa bile atrabilaire,</l>
+	<l id='105'>Et qui peut sur un banc Ãªtre assis prÃ¨s de lui,</l>
 	<l id='106'>Bavarder et brailler deviendra son ami.</l>
-	<l id='107'>Moi-même qu'au logis il bougonne sans cesse,</l>
+	<l id='107'>Moi-mÃªme qu'au logis il bougonne sans cesse,</l>
 	<l id='108' part='i'>Quand je vais l'y chercher...</l>
 </sp>
-<sp who='LÉANDRE'><speaker>LÉANDRE.</speaker>
+<sp who='LÃ‰ANDRE'><speaker>LÃ‰ANDRE.</speaker>
 	<l id='108' part='m'>Eh ! Bien ?</l>
 </sp>
 <sp who='BABOT'><speaker>BABOT.</speaker>
@@ -309,57 +309,57 @@ un Manuscrit qui a pour titre : les Filles à Marier, Comédie, et je crois que l'
 	<l id='110'>J'avale de bon vin deux ou trois petits coups,</l>
 	<l id='111'>Alors tout plein d'amour, il dit, ma gouvernante...</l>
 <stage>Elle contrefait Broton.</stage>
-	<l id='112' part='i'>Est une honnête fille... Et...</l>
+	<l id='112' part='i'>Est une honnÃªte fille... Et...</l>
 </sp>
-<sp who='LÉANDRE'><speaker>LÉANDRE.</speaker>
+<sp who='LÃ‰ANDRE'><speaker>LÃ‰ANDRE.</speaker>
 	<l id='112' part='f'>Fille complaisante.</l>
 </sp>
 <sp who='BABOT'><speaker>BABOT.</speaker>
-	<l id='113'>Écoutez, n'allez pas faire le Dameret,</l>
+	<l id='113'>Ã‰coutez, n'allez pas faire le Dameret,</l>
 	<l id='114'>Il faut avec Broton aller au cabaret.</l>
 </sp>
-<sp who='LÉANDRE'><speaker>LÉANDRE.</speaker>
+<sp who='LÃ‰ANDRE'><speaker>LÃ‰ANDRE.</speaker>
 	<l id='115' part='i'>Au Cabaret Babot !</l>
 </sp>
 <sp who='BABOT'><speaker>BABOT.</speaker>
-	<l id='115' part='f'>Vous voilà bien à plaindre.</l>
-	<l id='116'>Si par là vous parez ce que vous devez craindre,</l>
+	<l id='115' part='f'>Vous voilÃ  bien Ã  plaindre.</l>
+	<l id='116'>Si par lÃ  vous parez ce que vous devez craindre,</l>
 	<l id='117'>En buvant comme lui, rapellez le vieux temps ;</l>
 	<l id='118' part='i'>Faites des contes bleus.</l>
 </sp>
-<sp who='LÉANDRE'><speaker>LÉANDRE.</speaker>
-	<l id='118' part='f'>Mais les honnêtes gens,</l>
+<sp who='LÃ‰ANDRE'><speaker>LÃ‰ANDRE.</speaker>
+	<l id='118' part='f'>Mais les honnÃªtes gens,</l>
 	<l id='119' part='i'>Rougissent...</l>
 </sp>
 <sp who='BABOT'><speaker>BABOT.</speaker>
 	<l id='119' part='m'>Il le faut.</l>
 </sp>
-<sp who='LÉANDRE'><speaker>LÉANDRE.</speaker>
-	<l id='119' part='f'>L'épreuve est un peu sotte.</l>
+<sp who='LÃ‰ANDRE'><speaker>LÃ‰ANDRE.</speaker>
+	<l id='119' part='f'>L'Ã©preuve est un peu sotte.</l>
 </sp>
 <sp who='BABOT'><speaker>BABOT.</speaker>
 	<l id='120' part='i'>Il le faut, il le faut.</l>
 </sp>
-<sp who='LÉANDRE'><speaker>LÉANDRE.</speaker>
+<sp who='LÃ‰ANDRE'><speaker>LÃ‰ANDRE.</speaker>
 	<l id='120' part='f'>Allons, j'irai ; n'importe.</l>
 </sp>
 <sp who='BABOT'><speaker>BABOT.</speaker>
 	<l id='121'>Il faut boire, jurer, parler beaux sentiments,</l>
-	<l id='122'>Rire, à l'instant pleurer, critiquer les amants.</l>
+	<l id='122'>Rire, Ã  l'instant pleurer, critiquer les amants.</l>
 </sp>
-<sp who='LÉANDRE'><speaker>LÉANDRE.</speaker>
+<sp who='LÃ‰ANDRE'><speaker>LÃ‰ANDRE.</speaker>
 	<l id='123'>Je ferai tout cela pour vous, belle Victoire.</l>
 </sp>
 <sp who='VICTOIRE'><speaker>VICTOIRE.</speaker>
-	<l id='124'>Léandre, en verité, je rougis de ma gloire ;</l>
+	<l id='124'>LÃ©andre, en veritÃ©, je rougis de ma gloire ;</l>
 	<l id='125' part='i'>Et Babot est bien folle...</l>
 </sp>
 <sp who='BABOT'><speaker>BABOT.</speaker>
 	<l id='125' part='f'>Il n'est que ce chemin ;</l>
 	<l id='126'>Je vous le garantis son intime demain,</l>
-	<l id='127'>Il tramera pour vous et contre vos soeurs même.</l>
+	<l id='127'>Il tramera pour vous et contre vos soeurs mÃªme.</l>
 <stage>Avec enthousiasme.</stage>
-	<l id='128'>Léandre est votre époux ; ah ! Lorsqu'un buveur aime,</l>
+	<l id='128'>LÃ©andre est votre Ã©poux ; ah ! Lorsqu'un buveur aime,</l>
 	<l id='129'>Avec un petit verre on ranime l'Amour,</l>
 	<l id='130'>Et l'on fait vingt amis et cent amants par jour !</l>
 	<l id='131' part='i'>Clorinde vient...</l>
@@ -372,54 +372,54 @@ un Manuscrit qui a pour titre : les Filles à Marier, Comédie, et je crois que l'
 	<l id='132'>J'accommoderai tout ; Damis est avec elle :</l>
 	<l id='133'>Broton ne veut souffrir aucun amant chez lui,</l>
 	<l id='134'>Mais je trouve un moyen pour nous tirer d'ici ;</l>
-	<l id='135'>Et crainte qu'on ne jase et qu'on ne vous soupçonne,</l>
+	<l id='135'>Et crainte qu'on ne jase et qu'on ne vous soupÃ§onne,</l>
 	<l id='136'>Faites ce que je dis, je vais leur donner bonne.</l>
 </sp>
 </div2>
-<div2 type='scene' n='4'><head>SCÈNE IV. Clorinde, Damis, Léandre, Babot.</head>
-<sp who='BABOT'><speaker>BABOT, bas à Léandre.</speaker>
+<div2 type="scene" n='4'><head>SCÃˆNE IV. Clorinde, Damis, LÃ©andre, Babot.</head>
+<sp who='BABOT'><speaker>BABOT, bas Ã  LÃ©andre.</speaker>
 	<l id='137' part='i'>Contrefaites le fou.</l>
 </sp>
-<sp who='LÉANDRE'><speaker>LEANDRE, bas á Babot.</speaker>
-	<l id='137' part='f'>Puis tantôt le buveur ?</l>
-	<l id='138'>J'ai mis en bonnes mains l'interêt de mon coeur !</l>
+<sp who='LÃ‰ANDRE'><speaker>LEANDRE, bas Ã¡ Babot.</speaker>
+	<l id='137' part='f'>Puis tantÃ´t le buveur ?</l>
+	<l id='138'>J'ai mis en bonnes mains l'interÃªt de mon coeur !</l>
 </sp>
-<sp who='BABOT'><speaker>BABOT, piquée bas.</speaker>
-	<l id='139'>Eh bien, laissons tout là ; finissons la querelle !</l>
+<sp who='BABOT'><speaker>BABOT, piquÃ©e bas.</speaker>
+	<l id='139'>Eh bien, laissons tout lÃ  ; finissons la querelle !</l>
 </sp>
-<sp who='LÉANDRE'><speaker>LÉANDRE.</speaker>
+<sp who='LÃ‰ANDRE'><speaker>LÃ‰ANDRE.</speaker>
 	<l id='140'>Non, non, poursuis, Babot, la cause en est trop belle.</l>
 </sp>
-<sp who='BABOT'><speaker>BABOT, à Clorinde, feignant de regarder si Léandre écoute.</speaker>
-	<l id='141'>Ah ! Le pauvre garçon ! Son mal est dangereux !</l>
-	<l id='142'>Il vaudrait mieux, ma foi, qu'il fût bien amoureux</l>
-	<l id='143'>Que d'avoir des vapeurs qui lui tournent la tête ;</l>
-	<l id='144'>Mais à plus de vingt ans être encor assez bête ;</l>
+<sp who='BABOT'><speaker>BABOT, Ã  Clorinde, feignant de regarder si LÃ©andre Ã©coute.</speaker>
+	<l id='141'>Ah ! Le pauvre garÃ§on ! Son mal est dangereux !</l>
+	<l id='142'>Il vaudrait mieux, ma foi, qu'il fÃ»t bien amoureux</l>
+	<l id='143'>Que d'avoir des vapeurs qui lui tournent la tÃªte ;</l>
+	<l id='144'>Mais Ã  plus de vingt ans Ãªtre encor assez bÃªte ;</l>
 	<l id='145'>Pour ignorer l'Amour ! Il vient de m'avouer...</l>
 	<l id='146'>J'ignore si l'on doit le plaindre ou le louer :</l>
-	<l id='147'>Qu'il s'ennuie à périr près d'une jeune fille :</l>
-	<l id='148'>Mon Maître a, ce dit-on, un secret de famille ;</l>
-	<l id='149'>Pour guérir la folie; il vient le consulter,</l>
+	<l id='147'>Qu'il s'ennuie Ã  pÃ©rir prÃ¨s d'une jeune fille :</l>
+	<l id='148'>Mon MaÃ®tre a, ce dit-on, un secret de famille ;</l>
+	<l id='149'>Pour guÃ©rir la folie; il vient le consulter,</l>
 	<l id='150'>Madame, et vos beaux yeux ne font que l'irriter :</l>
-	<l id='151'>S'ils’ approche de vous, d'abord au moindre geste,</l>
-	<l id='152'>Son accès le prendra, puis vous le verrez, zeste,</l>
+	<l id='151'>S'ilsÂ’ approche de vous, d'abord au moindre geste,</l>
+	<l id='152'>Son accÃ¨s le prendra, puis vous le verrez, zeste,</l>
 	<l id='153'>Sauter, gesticuler, devenir en fureur.</l>
 </sp>
 <sp who='CLORINDE'><speaker>CLORINDE.</speaker>
-	<l id='154'>Ah ! Par ce seul récit tu me glace de peur !</l>
+	<l id='154'>Ah ! Par ce seul rÃ©cit tu me glace de peur !</l>
 </sp>
 <sp who='DAMIS'><speaker>DAMIS.</speaker>
 	<l id='155'>Vient-il souvent ici des objets de la sorte.</l>
 </sp>
 <sp who='BABOT'><speaker>BABOT.</speaker>
-<stage>Léandre regarde fixement Damis et s'approche de Clorinde.</stage>
+<stage>LÃ©andre regarde fixement Damis et s'approche de Clorinde.</stage>
 	<l id='156' part='i'>Non.</l>
 </sp>
-<sp who='CLORINDE'><speaker>CLORINDE, effrayée.</speaker>
+<sp who='CLORINDE'><speaker>CLORINDE, effrayÃ©e.</speaker>
 	<l id='156' part='f'>Son mal va lui prendre ! Ah ! Babot, fais qu'il sorte.</l>
 </sp>
 <sp who='DAMIS'><speaker>DAMIS.</speaker>
-	<l id='157'>Quoi donc ! Vos yeux, Madame, auraient pu le guérir ;</l>
+	<l id='157'>Quoi donc ! Vos yeux, Madame, auraient pu le guÃ©rir ;</l>
 	<l id='158' part='i'>Le refuseriez vous ?</l>
 </sp>
 <sp who='CLORINDE'><speaker>CLORINDE.</speaker>
@@ -431,10 +431,10 @@ un Manuscrit qui a pour titre : les Filles à Marier, Comédie, et je crois que l'
 </sp>
 <sp who='CLORINDE'><speaker>CLORINDE.</speaker>
 	<l id='160' part='f'>Ah ! J'en ai la migraine !</l>
-<stage>Léandre sort avec Babot.</stage>
+<stage>LÃ©andre sort avec Babot.</stage>
 </sp>
 </div2>
-<div2 type='scene' n='5'><head>SCENE V. DAMIS, CLORINDE.</head>
+<div2 type="scene" n='5'><head>SCENE V. DAMIS, CLORINDE.</head>
 <sp who='DAMIS'><speaker>DAMIS.</speaker>
 	<l id='161' part='i'>Madame il est sorti.</l>
 </sp>
@@ -445,11 +445,11 @@ un Manuscrit qui a pour titre : les Filles à Marier, Comédie, et je crois que l'
 	<l id='162'>Ainsi que lui, Madame, un sage le ferait.</l>
 </sp>
 <sp who='CLORINDE'><speaker>CLORINDE.</speaker>
-	<l id='163'>Dans le trouble où je suis je crains quelques visites ;</l>
+	<l id='163'>Dans le trouble oÃ¹ je suis je crains quelques visites ;</l>
 	<l id='164' part='i'>On l'interpreterait...</l>
 </sp>
 <sp who='DAMIS'><speaker>DAMIS.</speaker>
-	<l id='164' part='m'>Voilà...</l>
+	<l id='164' part='m'>VoilÃ ...</l>
 </sp>
 <sp who='CLORINDE'><speaker>CLORINDE.</speaker>
 	<l id='164' part='m'>Qui ?</l>
@@ -458,29 +458,29 @@ un Manuscrit qui a pour titre : les Filles à Marier, Comédie, et je crois que l'
 	<l id='164' part='f'>Les petites.</l>
 </sp>
 </div2>
-<div2 type='scene' n='6'><head>SCENE VI. CLORINDE, DAMIS, CATHIS, LOLOTTE.</head>
+<div2 type="scene" n='6'><head>SCENE VI. CLORINDE, DAMIS, CATHIS, LOLOTTE.</head>
 <sp who='CLORINDE'><speaker>CLORINDE, se rassurant.</speaker>
 	<l id='165'>Ah ! Ce sont nos enfants ; avons-nous du papa,</l>
-	<l id='166'>Obtenu joliment d'aller à l'Opéra,</l>
+	<l id='166'>Obtenu joliment d'aller Ã  l'OpÃ©ra,</l>
 	<l id='167' part='i'>Mon coeur !</l>
 </sp>
 <sp who='CATHIS'><speaker>CATHIS.</speaker>
 	<l id='167' part='f'>Oh oui, Madame, et c'est ma soeur Lolotte ;</l>
-	<l id='168' part='i'>Qui l'a déterminé.</l>
+	<l id='168' part='i'>Qui l'a dÃ©terminÃ©.</l>
  <stage>Elle rit et saute.</stage>
 </sp>
 <sp who='CLORINDE'><speaker>CLORINDE.</speaker>
 	<l id='168' part='f'>Paix donc petite sotte ;</l>
 	<l id='169'>Il faut cacher sa joye et que l'exterieur,</l>
-	<l id='170'>Offre précifément le contraire du coeur ;</l>
-	<l id='171' part='i'>Voilà le monde.</l>
+	<l id='170'>Offre prÃ©cifÃ©ment le contraire du coeur ;</l>
+	<l id='171' part='i'>VoilÃ  le monde.</l>
 </sp>
 <sp who='DAMIS'><speaker>DAMIS.</speaker>
 	<l id='171' part='m'>Bien !</l>
 </sp>
 <sp who='CATHIS'><speaker>CATHIS.</speaker>
 	<l id='171' part='f'>Ah ! Ma belle Madame !</l>
-	<l id='172'>Que d'obligation... De plaisir... Que mon âme..</l>
+	<l id='172'>Que d'obligation... De plaisir... Que mon Ã¢me..</l>
 </sp>
 <sp who='CLORINDE'><speaker>CLORINDE.</speaker>
 	<l id='173'>Comment donc ! Chevalier ! Elle a des sentiments !</l>
@@ -495,10 +495,10 @@ un Manuscrit qui a pour titre : les Filles à Marier, Comédie, et je crois que l'
 	<l id='175' part='m'>Bon !</l>
 </sp>
 <sp who='CLORINDE'><speaker>CLORINDE.</speaker>
-	<l id='175' part='f'>Que tout soit mystère.</l>
-	<l id='176'>Pour vous, Lolotte, il est bien peu de chose à faire.</l>
-<stage>À Damis.</stage>
-	<l id='177'>Voyez elle a dejà certain air nonchalant.</l>
+	<l id='175' part='f'>Que tout soit mystÃ¨re.</l>
+	<l id='176'>Pour vous, Lolotte, il est bien peu de chose Ã  faire.</l>
+<stage>Ã€ Damis.</stage>
+	<l id='177'>Voyez elle a dejÃ  certain air nonchalant.</l>
 </sp>
 <sp who='DAMIS'><speaker>DAMIS.</speaker>
 	<l id='178'>Elle est bien, et ses yeux ont l'air fier et galant.</l>
@@ -507,46 +507,46 @@ un Manuscrit qui a pour titre : les Filles à Marier, Comédie, et je crois que l'
 	<l id='179'>Pour d'autres c'est un art, c'est nature chez elle.</l>
 </sp>
 <sp who='LOLOTTE'><speaker>LOLOTTE, regardant Clorinde.</speaker>
-	<l id='180'>Vous vous trompez, Madame, et je vois mon modèle.</l>
+	<l id='180'>Vous vous trompez, Madame, et je vois mon modÃ¨le.</l>
 </sp>
 <sp who='CLORINDE'><speaker>CLORINDE.</speaker>
 	<l id='181'>Elle a le ton du monde ; elle est faite pour lui.</l>
-	<l id='182'>Trop de vivacité nous annonce. Aujourd'hui,</l>
-	<l id='183'>Les jeux, la promenade, et jusques à la danse ;</l>
-	<l id='184'>Tout doit se prendre enfin d'un air d'indifférence.</l>
-	<l id='185'>D'un transport modéré le plaisir est plus doux.</l>
+	<l id='182'>Trop de vivacitÃ© nous annonce. Aujourd'hui,</l>
+	<l id='183'>Les jeux, la promenade, et jusques Ã  la danse ;</l>
+	<l id='184'>Tout doit se prendre enfin d'un air d'indiffÃ©rence.</l>
+	<l id='185'>D'un transport modÃ©rÃ© le plaisir est plus doux.</l>
 </sp>
 <sp who='DAMIS'><speaker>DAMIS.</speaker>
 	<l id='186' part='i'>Et plus durable aussi...</l>
 </sp>
-<sp who='CLORINDE'><speaker>CLORINDE, à Cathis.</speaker>
-	<l id='186' part='f'>L'Opéra, l'aimez vous ?</l>
+<sp who='CLORINDE'><speaker>CLORINDE, Ã  Cathis.</speaker>
+	<l id='186' part='f'>L'OpÃ©ra, l'aimez vous ?</l>
 	<l id='187'>Par exemple en ce lieu la morale est contrire.</l>
-	<l id='188'>À ce que la vertu nous commande d'austère ;</l>
-	<l id='189'>Mais cela se tolère à la faveur du chant ;</l>
-	<l id='190'>On en est quitte après pour vaincre un doux penchant.</l>
-<stage>À Lolotte.</stage>
-	<l id='191'>Allons douce beauté, voir du grave, du tendre,</l>
-<stage>À Cathis.</stage>
+	<l id='188'>Ã€ ce que la vertu nous commande d'austÃ¨re ;</l>
+	<l id='189'>Mais cela se tolÃ¨re Ã  la faveur du chant ;</l>
+	<l id='190'>On en est quitte aprÃ¨s pour vaincre un doux penchant.</l>
+<stage>Ã€ Lolotte.</stage>
+	<l id='191'>Allons douce beautÃ©, voir du grave, du tendre,</l>
+<stage>Ã€ Cathis.</stage>
 	<l id='192'>Vous il vous faut du gai : nous allons tout entendre :</l>
-<stage>À Damis.</stage>
+<stage>Ã€ Damis.</stage>
 	<l id='193'>Sortons. Que dites-vous de leur ajustement ?</l>
 </sp>
 <sp who='DAMIS'><speaker>DAMIS.</speaker>
 	<l id='194'>Qu'il leur faudrait un peu de rouge seulement.</l>
 </sp>
 <sp who='CLORINDE'><speaker>CLORINDE, leur met du rouge.</speaker>
-	<l id='195' part='i'>Elles sont à charmer.</l>
+	<l id='195' part='i'>Elles sont Ã  charmer.</l>
 </sp>
 <sp who='CATHIS'><speaker>CATHIS, montrant des noeuds de manches.</speaker>
 	<l id='195' part='f'>Ces noeuds sont votre ouvrage.</l>
 </sp>
-<sp who='DAMIS'><speaker>DAMIS, à Clorinde qui met une mouche à Lolotte.</speaker>
-	<l id='196'>Une mouche par-là... Fort bien... Voilà je gage,</l>
+<sp who='DAMIS'><speaker>DAMIS, Ã  Clorinde qui met une mouche Ã  Lolotte.</speaker>
+	<l id='196'>Une mouche par-lÃ ... Fort bien... VoilÃ  je gage,</l>
 	<l id='197' part='i'>Monsieur Broton.</l>
 </sp>
 </div2>
-<div2 type='scene' n='7'><head>SCÈNE VII. Clorinde, Damis, Cathis, Lolotte, Broton.</head>
+<div2 type="scene" n='7'><head>SCÃˆNE VII. Clorinde, Damis, Cathis, Lolotte, Broton.</head>
 <sp who='BROTON'><speaker>MONSIEUR BROTON, demi yvre.</speaker>
 	<l id='197' part='f'>Eh bien ! Qu'est-ce donc !... Du plaisir !...</l>
 </sp>
@@ -554,17 +554,17 @@ un Manuscrit qui a pour titre : les Filles à Marier, Comédie, et je crois que l'
 	<l id='198' part='i'>Il est gai : d'ou vient-il ?</l>
 </sp>
 <sp who='CLORINDE'><speaker>CLORINDE.</speaker>
-	<l id='198' part='f'>Je sens à ce soupir</l>
-	<l id='199' part='i'>Qu'il a fort bien diné.</l>
+	<l id='198' part='f'>Je sens Ã  ce soupir</l>
+	<l id='199' part='i'>Qu'il a fort bien dinÃ©.</l>
 </sp>
-<sp who='BROTON'><speaker>MONSIEUR BROTON, à Cathis qui lui donne un fauteuil.</speaker>
+<sp who='BROTON'><speaker>MONSIEUR BROTON, Ã  Cathis qui lui donne un fauteuil.</speaker>
 	<l id='199' part='f'>Qu'il fait chaud ! Non, ne bouge...</l>
 </sp>
 <sp who='CATHIS'><speaker>CATHIS.</speaker>
 	<l id='200' part='i'>Asseyez-vous, papa.</l>
 </sp>
 <sp who='BROTON'><speaker>MONSIEUR BROTON.</speaker>
-	<l id='200' part='f'>Comme te voilà rouge !</l>
+	<l id='200' part='f'>Comme te voilÃ  rouge !</l>
 </sp>
 <sp who='CATHIS'><speaker>CATHIS.</speaker>
 	<l id='201' part='i'>C'est que j'ai chaud aussi.</l>
@@ -573,7 +573,7 @@ un Manuscrit qui a pour titre : les Filles à Marier, Comédie, et je crois que l'
 	<l id='201' part='f'>Toujours mille chiffons ?</l>
 </sp>
 <sp who='CLORINDE'><speaker>CLORINDE.</speaker>
-	<l id='202' part='i'>C'est moi qui l'ai parée.</l>
+	<l id='202' part='i'>C'est moi qui l'ai parÃ©e.</l>
 </sp>
 <sp who='BROTON'><speaker>MONSIEUR BROTON, se radoucissant.</speaker>
 	<l id='202' part='m'>Elle est.... Bien.. Propre.</l>
@@ -582,7 +582,7 @@ un Manuscrit qui a pour titre : les Filles à Marier, Comédie, et je crois que l'
 	<l id='202' part='f'>Allons,</l>
 	<l id='203' part='i'>Avouez qu'elle est bien.</l>
 </sp>
-<sp who='DAMIS'><speaker>DAMIS, frappant sur l'épaule à Broton.</speaker>
+<sp who='DAMIS'><speaker>DAMIS, frappant sur l'Ã©paule Ã  Broton.</speaker>
 	<l id='203' part='m'>Mon cher Broton ?</l>
 </sp>
 <sp who='CLORINDE'><speaker>CLORINDE, montrant Lolotte.</speaker>
@@ -605,40 +605,40 @@ un Manuscrit qui a pour titre : les Filles à Marier, Comédie, et je crois que l'
 </sp>
 <sp who='BROTON'><speaker>MONSIEUR BROTON.</speaker>
 	<l id='206' part='f'>Ah ! Madame... Au parfait !</l>
-<stage>À ses deux filles: il se met dans le fauteuil.</stage>
+<stage>Ã€ ses deux filles: il se met dans le fauteuil.</stage>
 	<l id='207'>Que je vous parle, enfants : vous serez satisfaites,</l>
-	<l id='208'>Et les choses dejà sont plus d'à moitié faites.</l>
+	<l id='208'>Et les choses dejÃ  sont plus d'Ã  moitiÃ© faites.</l>
 </sp>
-<sp who='CLORINDE'><speaker>CLORINDE, bas à Damis.</speaker>
-	<l id='209'>Nous voilà bons amis, mais ce prélude là,</l>
-	<l id='210'>Nous annonce qu'il faut se passer d'Opéra.</l>
+<sp who='CLORINDE'><speaker>CLORINDE, bas Ã  Damis.</speaker>
+	<l id='209'>Nous voilÃ  bons amis, mais ce prÃ©lude lÃ ,</l>
+	<l id='210'>Nous annonce qu'il faut se passer d'OpÃ©ra.</l>
 <stage>Elle sort avec Damis.</stage>
 </sp>
 </div2>
-<div2 type='scene' n='8'><head>SCÈNE VIII. Broton, Cathis, Lolotte.</head>
+<div2 type="scene" n='8'><head>SCÃˆNE VIII. Broton, Cathis, Lolotte.</head>
 <sp who='CATHIS'><speaker>CATHIS.</speaker>
-	<l id='211' part='i'>Vous plaît-il de parler ?</l>
+	<l id='211' part='i'>Vous plaÃ®t-il de parler ?</l>
 </sp>
 <sp who='BROTON'><speaker>MONSIEUR BROTON.</speaker>
 	<l id='211' part='f'>Oui vous allez entendre.</l>
-	<l id='212'>Au cabaret voisin... Connaissez vous Léandre?</l>
+	<l id='212'>Au cabaret voisin... Connaissez vous LÃ©andre?</l>
 </sp>
 <sp who='CATHIS'><speaker>CATHIS.</speaker>
 	<l id='213' part='i'>Non</l>
 </sp>
 <sp who='BROTON'><speaker>MONSIEUR BROTON.</speaker>
-	<l id='213' part='f'>C'est un épouseur... Parbleu ! C'est toujours un...</l>
-	<l id='214'>Bon garçon, qui boit bien... Et... N'est pas du commun.</l>
+	<l id='213' part='f'>C'est un Ã©pouseur... Parbleu ! C'est toujours un...</l>
+	<l id='214'>Bon garÃ§on, qui boit bien... Et... N'est pas du commun.</l>
 	<l id='215'>Je l'ai mis sous la table et quoi qu'il sache boire,</l>
-	<l id='216'>J'ai remporté sur lui l'honneur de la Victoire ;</l>
+	<l id='216'>J'ai remportÃ© sur lui l'honneur de la Victoire ;</l>
 	<l id='217'>Pour choisir entre vous il viendra dans ce jour,</l>
-	<l id='218'>Songez à lui montrer beaucoup, beaucoup d'amour.</l>
+	<l id='218'>Songez Ã  lui montrer beaucoup, beaucoup d'amour.</l>
 <stage>Il sort.</stage>
 </sp>
 </div2>
-<div2 type='scene' n='9'><head>SCÈNE IX. Cathis, Lolotte, Babot.</head>
+<div2 type="scene" n='9'><head>SCÃˆNE IX. Cathis, Lolotte, Babot.</head>
 <sp who='BABOT'><speaker>BABOT.</speaker>
-	<l id='219'>J'ai vu le prétendu, dans l'instant il arrive.</l>
+	<l id='219'>J'ai vu le prÃ©tendu, dans l'instant il arrive.</l>
 </sp>
 <sp who='CATHIS'><speaker>CATHIS.</speaker>
 	<l id='220' part='i'>Est-il blond ?</l>
@@ -647,29 +647,29 @@ un Manuscrit qui a pour titre : les Filles à Marier, Comédie, et je crois que l'
 	<l id='220' part='m'>Est-il brun ?</l>
 </sp>
 <sp who='BABOT'><speaker>BABOT.</speaker>
-	<l id='220' part='f'>Ah ! Que vous êtes vive !</l>
+	<l id='220' part='f'>Ah ! Que vous Ãªtes vive !</l>
 	<l id='221'>Il est noir de cheveux, d'humeur aussi, je crois :</l>
-	<l id='222'>Ce que j'en ai pu voir me déplait fort à moi,</l>
-	<l id='223'>Il prétend que l'on soit simple, silencieuse:</l>
+	<l id='222'>Ce que j'en ai pu voir me dÃ©plait fort Ã  moi,</l>
+	<l id='223'>Il prÃ©tend que l'on soit simple, silencieuse:</l>
 	<l id='224'>Avec un tel bizarre on serait malheureuse.</l>
 </sp>
 <sp who='CATHIS'><speaker>CATHIS.</speaker>
 	<l id='225'>Point du tout ; vite otons mon rouge et mes rubans.</l>
 </sp>
 <sp who='LOLOTTE'><speaker>LOLOTTE.</speaker>
-<stage>Elles courent toutes deux à une toilette qui est au fond du Théâtre.</stage>
-	<l id='226'>Courons à la toilette : en avons nous le temps ?</l>
+<stage>Elles courent toutes deux Ã  une toilette qui est au fond du ThÃ©Ã¢tre.</stage>
+	<l id='226'>Courons Ã  la toilette : en avons nous le temps ?</l>
 </sp>
 <sp who='CATHIS'><speaker>CATHIS.</speaker>
-	<l id='227'>Par la simplicité pour moi je veux lui plaire.</l>
+	<l id='227'>Par la simplicitÃ© pour moi je veux lui plaire.</l>
 </sp>
 <sp who='LOLOTTE'><speaker>LOLOTTE.</speaker>
 	<l id='228' part='i'>Et moi par l'ornement.</l>
 </sp>
-<sp who='BABOT'><speaker>BABOT, sur le bord du Théâtre.</speaker>
-	<l id='228' part='f'>Voilà bien du mystère,</l>
-	<l id='229' part='i'>Pour tenter un coeur pris grâce à notre complot ;</l>
-	<l id='230' part='i'>Le père est tout à nous.</l>
+<sp who='BABOT'><speaker>BABOT, sur le bord du ThÃ©Ã¢tre.</speaker>
+	<l id='228' part='f'>VoilÃ  bien du mystÃ¨re,</l>
+	<l id='229' part='i'>Pour tenter un coeur pris grÃ¢ce Ã  notre complot ;</l>
+	<l id='230' part='i'>Le pÃ¨re est tout Ã  nous.</l>
 </sp>
 <sp who='CATHIS'><speaker>CATHIS, revenant.</speaker>
 	<l id='230' part='f'>Suis-je bien ?</l>
@@ -685,83 +685,83 @@ un Manuscrit qui a pour titre : les Filles à Marier, Comédie, et je crois que l'
 </sp>
 <sp who='BABOT'><speaker>BABOT.</speaker>
 	<l id='231' part='f'>Est trop plate.</l>
-<stage>Elles retournent à la toilette.</stage>
+<stage>Elles retournent Ã  la toilette.</stage>
 	<l id='232'>Victoire enfin aura le mari qui la flatte,</l>
-	<l id='233'>Si nous réussissons dans ce nouveau projet ;</l>
+	<l id='233'>Si nous rÃ©ussissons dans ce nouveau projet ;</l>
 	<l id='234'>Je pense qu'il vaudra celui du cabaret,</l>
-	<l id='235'>De mon esprit fécond il est encore l'ouvrage,</l>
-	<l id='236'>Léandre va venir jouer son personage ;</l>
-	<l id='237'>Il a su plaire au père, il faut déplaire aux soeurs ;</l>
+	<l id='235'>De mon esprit fÃ©cond il est encore l'ouvrage,</l>
+	<l id='236'>LÃ©andre va venir jouer son personage ;</l>
+	<l id='237'>Il a su plaire au pÃ¨re, il faut dÃ©plaire aux soeurs ;</l>
 	<l id='238'>Par la condescendance on gagne tous les coeurs ;</l>
-	<l id='239'>Mais il n'est pas aisé de dégouter des filles,</l>
+	<l id='239'>Mais il n'est pas aisÃ© de dÃ©gouter des filles,</l>
 	<l id='240' part='i'>Qui veulent un mari.</l>
-<stage>À Cathis et Lolotte qui reviennent.</stage>
-	<l id='240' part='f'>Vous voilà bien gentilles,</l>
+<stage>Ã€ Cathis et Lolotte qui reviennent.</stage>
+	<l id='240' part='f'>Vous voilÃ  bien gentilles,</l>
 	<l id='241'>Quel dommage pourtant de quitter tout cela !</l>
-	<l id='242'>Car le futur époux voit mieux que le papa,</l>
-	<l id='243'>Je m'en suis aperçue, il a l'humeur jalouse.</l>
+	<l id='242'>Car le futur Ã©poux voit mieux que le papa,</l>
+	<l id='243'>Je m'en suis aperÃ§ue, il a l'humeur jalouse.</l>
 </sp>
 <sp who='LOLOTTE'><speaker>LOLOTTE.</speaker>
-	<l id='244'>Le plaisir d'obéir est celui d'une épouse.</l>
+	<l id='244'>Le plaisir d'obÃ©ir est celui d'une Ã©pouse.</l>
 </sp>
 <sp who='CATHIS'><speaker>CATHIS.</speaker>
 	<l id='245'>Eh ! Mais, ma soeur, c'est moi qu'il doit choisir ici.</l>
 </sp>
 <sp who='LOLOTTE'><speaker>LOLOTTE.</speaker>
-	<l id='246'>S'il a droit de choisir, moi j'y prétends aussi.</l>
+	<l id='246'>S'il a droit de choisir, moi j'y prÃ©tends aussi.</l>
 </sp>
 <sp who='BABOT'><speaker>BABOT.</speaker>
-	<l id='247'>Vite, redressez-vous, votre père l'amène.</l>
-<stage>À part.</stage>
-	<l id='248'>Que la jeune Victdoire à présent est en peine !</l>
+	<l id='247'>Vite, redressez-vous, votre pÃ¨re l'amÃ¨ne.</l>
+<stage>Ã€ part.</stage>
+	<l id='248'>Que la jeune Victdoire Ã  prÃ©sent est en peine !</l>
 </sp>
 </div2>
-<div2 type='scene' n='10'><head>SCÈNE X. Broton, Léandre, Cathis, Lootte, Babot. </head>
-<sp who='BROTON'><speaker>MONSIEUR BROTON, à Léandre.</speaker>
+<div2 type="scene" n='10'><head>SCÃˆNE X. Broton, LÃ©andre, Cathis, Lootte, Babot. </head>
+<sp who='BROTON'><speaker>MONSIEUR BROTON, Ã  LÃ©andre.</speaker>
 	<l id='249' part='i'>Entrez...</l>
 </sp>
-<sp who='LÉANDRE'><speaker>LÉANDRE.</speaker>
+<sp who='LÃ‰ANDRE'><speaker>LÃ‰ANDRE.</speaker>
 	<l id='249' part='m'>Non.</l>
 </sp>
 <sp who='BROTON'><speaker>MONSIEUR BROTON.</speaker>
 	<l id='249' part='m'>Vous...</l>
 </sp>
-<sp who='LÉANDRE'><speaker>LÉANDRE.</speaker>
+<sp who='LÃ‰ANDRE'><speaker>LÃ‰ANDRE.</speaker>
 	<l id='249' part='m'>Monsieur...</l>
 </sp>
-<sp who='BROTON'><speaker>MONSIEUR BROTON, à ses filles.</speaker>
+<sp who='BROTON'><speaker>MONSIEUR BROTON, Ã  ses filles.</speaker>
 	<l id='249' part='f'>Enfants c'est le mari...</l>
-	<l id='250'>Dont je vous ai parlé ; mon gendre et mon ami ;</l>
-	<l id='251'>Bon vivant, honnête homme... Et, voilà ma cadette,</l>
-	<l id='252'>Et l'ainée, entre nous, elle est assez drolette ?</l>
+	<l id='250'>Dont je vous ai parlÃ© ; mon gendre et mon ami ;</l>
+	<l id='251'>Bon vivant, honnÃªte homme... Et, voilÃ  ma cadette,</l>
+	<l id='252'>Et l'ainÃ©e, entre nous, elle est assez drolette ?</l>
 	<l id='253' part='i'>Au moins !</l>
 </sp>
-<sp who='LÉANDRE'><speaker>LÉANDRE, froidement.</speaker>
-	<l id='253' part='f'>Comme une épouse elle est peinte en mon coeur.</l>
+<sp who='LÃ‰ANDRE'><speaker>LÃ‰ANDRE, froidement.</speaker>
+	<l id='253' part='f'>Comme une Ã©pouse elle est peinte en mon coeur.</l>
 </sp>
 <sp who='CATHIS'><speaker>CATHIS.</speaker>
 	<l id='254'>Monsieur, je m'applaudis de ce titre flatteur.</l>
 </sp>
-<sp who='BABOT'><speaker>BABOT, bas à Cathis pendant que Léandre parle à Broton à l'oreille.</speaker>
+<sp who='BABOT'><speaker>BABOT, bas Ã  Cathis pendant que LÃ©andre parle Ã  Broton Ã  l'oreille.</speaker>
 	<l id='255' part='i'>Cela peut vous flatter ? </l>
 </sp>
 <sp who='CATHIS'><speaker>CATHIS.</speaker>
-	<l id='255' part='f'>Tais-toi point d'interprète :</l>
+	<l id='255' part='f'>Tais-toi point d'interprÃ¨te :</l>
 	<l id='256'>Je pense en femme sage, et non pas en coquette...</l>
 </sp>
 <sp who='BROTON'><speaker>MONSIEUR BROTON.</speaker>
-<note type="L">Affiquets : on entend pas là tous es petits ornements que les dames emploient pour se parer, et pour rélever leur beauté. comme sont les bracelets, les colliers, et toutes les autres choses qui regardent particulièrement la coiffure. [F]</note>
+<note type="L">Affiquets : on entend pas lÃ  tous es petits ornements que les dames emploient pour se parer, et pour rÃ©lever leur beautÃ©. comme sont les bracelets, les colliers, et toutes les autres choses qui regardent particuliÃ¨rement la coiffure. [F]</note>
 	<l id='257'>Il me disait tout bas que tous ces affiquets,</l>
-	<l id='258'>L'avaient un peu choqué, que des airs trop coquets.</l>
+	<l id='258'>L'avaient un peu choquÃ©, que des airs trop coquets.</l>
 </sp>
-<sp who='LÉANDRE'><speaker>LÉANDRE.</speaker>
+<sp who='LÃ‰ANDRE'><speaker>LÃ‰ANDRE.</speaker>
 	<l id='259' part='i'>Ah ! Doucement, Monsieur...</l>
 </sp>
 <sp who='BROTON'><speaker>MONSIEUR BROTON.</speaker>
 	<l id='259' part='f'>Qui plaisent dans les femmes,</l>
 	<l id='260' part='i'>Offusquent les maris.</l>
 </sp>
-<sp who='LÉANDRE'><speaker>LÉANDRE.</speaker>
+<sp who='LÃ‰ANDRE'><speaker>LÃ‰ANDRE.</speaker>
 	<l id='260' part='f'>Excusez-moi mesdames,</l>
 	<l id='261'>Si j'ai pu m'expliquer un peu trop librement.</l>
 	<l id='262' part='i'>Je parlais en mari.</l>
@@ -771,68 +771,68 @@ un Manuscrit qui a pour titre : les Filles à Marier, Comédie, et je crois que l'
 	<l id='263'>On pourrait vous taxer, Monsieur de jalousie.</l>
 </sp>
 <sp who='CATHIS'><speaker>CATHIS.</speaker>
-	<l id='264'>Eh ! cet heureux défaut fait le bien de la vie.</l>
+	<l id='264'>Eh ! cet heureux dÃ©faut fait le bien de la vie.</l>
 </sp>
-<sp who='LÉANDRE'><speaker>LÉANDRE.</speaker>
-	<l id='265'>Si je le suis, jaloux ? oui, sans doute ; à l'excès !</l>
+<sp who='LÃ‰ANDRE'><speaker>LÃ‰ANDRE.</speaker>
+	<l id='265'>Si je le suis, jaloux ? oui, sans doute ; Ã  l'excÃ¨s !</l>
 </sp>
 <sp who='CATHIS'><speaker>CATHIS.</speaker>
-	<l id='266'>J'aime que pour un rien on me fasse un procès,</l>
+	<l id='266'>J'aime que pour un rien on me fasse un procÃ¨s,</l>
 	<l id='267'>La fureur d'un jaloux n'a rien dont je m'irrite,</l>
-	<l id='268'>C'est un aveu secret de son peu de mérite,</l>
-	<l id='269'>J'aime à le voir se croire indigne de mes feux,</l>
-	<l id='270'>M'accabler de rigueurs et soupçonner mes voeux,</l>
+	<l id='268'>C'est un aveu secret de son peu de mÃ©rite,</l>
+	<l id='269'>J'aime Ã  le voir se croire indigne de mes feux,</l>
+	<l id='270'>M'accabler de rigueurs et soupÃ§onner mes voeux,</l>
 	<l id='271'>C'est par ce sentiment que triomphe une belle :</l>
-	<l id='272'>Être injuste n'est rien, quand le coeur est fidèle.</l>
+	<l id='272'>ÃŠtre injuste n'est rien, quand le coeur est fidÃ¨le.</l>
 </sp>
 <sp who='BABOT'><speaker>BABOT.</speaker>
-	<l id='273'>Ne vous y trompez pas, à présent les époux,</l>
+	<l id='273'>Ne vous y trompez pas, Ã  prÃ©sent les Ã©poux,</l>
 	<l id='274'>Par le droit du plus fort sont coquets et jaloux.</l>
 </sp>
-<sp who='LÉANDRE'><speaker>LÉANDRE, vivement.</speaker>
+<sp who='LÃ‰ANDRE'><speaker>LÃ‰ANDRE, vivement.</speaker>
 	<l id='275'>Oui l'Amour est jaloux de toute la nature,</l>
 	<l id='276'>Mais si mon coeur un jour pouvait vous faire injure,</l>
 	<l id='277'>Si pour quelques instants j'oubliais vos attraits,</l>
-	<l id='278'>Je reviendrais à vous plus soumis que jamais.</l>
-	<l id='279'>Il se peut quelquefois, qu'une âme un peu trop tendre,</l>
+	<l id='278'>Je reviendrais Ã  vous plus soumis que jamais.</l>
+	<l id='279'>Il se peut quelquefois, qu'une Ã¢me un peu trop tendre,</l>
 	<l id='280' part='i'>Sur les droits de l'hymen anticipe.</l>
 </sp>
 <sp who='CATHIS'><speaker>CATHIS.</speaker>
-	<l id='280' part='f'>Léandre,</l>
-	<l id='281'>Cela me paraît fort; vous me poussez à bout :</l>
-	<l id='282'>Être injuste n'est rien, être infidele est tout,</l>
+	<l id='280' part='f'>LÃ©andre,</l>
+	<l id='281'>Cela me paraÃ®t fort; vous me poussez Ã  bout :</l>
+	<l id='282'>ÃŠtre injuste n'est rien, Ãªtre infidele est tout,</l>
 	<l id='283' part='i'>Je n'excuserais pas...</l>
 </sp>
 <sp who='BABOT'><speaker>BABOT, ironiquement.</speaker>
-	<l id='283' part='f'>Mais, vous êtes si bonne !</l>
+	<l id='283' part='f'>Mais, vous Ãªtes si bonne !</l>
 </sp>
 <sp who='BROTON'><speaker>MONSIEUR BROTON.</speaker>
 	<l id='284' part='i'>Ah ! Mon gendre, c'est trop !</l>
 </sp>
-<sp who='LÉANDRE'><speaker>LÉANDRE.</speaker>
+<sp who='LÃ‰ANDRE'><speaker>LÃ‰ANDRE.</speaker>
 	<l id='284' part='f'>La chose se pardonne.</l>
 </sp>
-<sp who='CATHIS'><speaker>CATHIS, piquée à Lolotte.</speaker>
-	<l id='285'>Une infidélité ! Qu'en dites-vous, ma soeur ?</l>
+<sp who='CATHIS'><speaker>CATHIS, piquÃ©e Ã  Lolotte.</speaker>
+	<l id='285'>Une infidÃ©litÃ© ! Qu'en dites-vous, ma soeur ?</l>
 </sp>
 <sp who='LOLOTTE'><speaker>LOLOTTE.</speaker>
 	<l id='286'>Que l'on peut excuser la faiblesse du coeur ;</l>
 	<l id='287'>Que la vertu triomphe avec plus d'avantage,</l>
-	<l id='288'>Quand l'épouse pardonne, et qu'elle est belle et sage.</l>
+	<l id='288'>Quand l'Ã©pouse pardonne, et qu'elle est belle et sage.</l>
 </sp>
-<sp who='BABOT'><speaker>BABOT à Cathis.</speaker>
-	<l id='289'>Vous pardonnerez tout à cet époux parfait?</l>
-	<l id='290'>Voilà pour tous les tems un modele complet.</l>
-<stage>Cathis marque du dépit.</stage>
+<sp who='BABOT'><speaker>BABOT Ã  Cathis.</speaker>
+	<l id='289'>Vous pardonnerez tout Ã  cet Ã©poux parfait?</l>
+	<l id='290'>VoilÃ  pour tous les tems un modele complet.</l>
+<stage>Cathis marque du dÃ©pit.</stage>
 </sp>
 <sp who='BROTON'><speaker>MONSIEUR BROTON.</speaker>
-	<l id='291'>Si Cathis est fachée, en tout cas j'ai trois filles.</l>
+	<l id='291'>Si Cathis est fachÃ©e, en tout cas j'ai trois filles.</l>
 	<l id='292'>Entends-tu bien ; mon gendre ? Et toutes trois gentilles...</l>
-	<l id='293'>Viens-t'en laisse-les là : viens vite boire un coup,</l>
-	<l id='294'>Je veux t'accoutumer à boire comme un trou.</l>
+	<l id='293'>Viens-t'en laisse-les lÃ  : viens vite boire un coup,</l>
+	<l id='294'>Je veux t'accoutumer Ã  boire comme un trou.</l>
 </sp>
 </div2>
-<div2 type='scene' n='11'><head>SCÈNE XI. Cathis, Lolotte, Babot.</head>
+<div2 type="scene" n='11'><head>SCÃˆNE XI. Cathis, Lolotte, Babot.</head>
 <sp who='LOLOTTE'><speaker>LOLOTTE.</speaker>
 	<l id='295' part='i'>Son caractere est franc, tendre.</l>
 </sp>
@@ -840,49 +840,49 @@ un Manuscrit qui a pour titre : les Filles à Marier, Comédie, et je crois que l'
 	<l id='295' part='f'>Et sans artifice.</l>
 </sp>
 <sp who='CATHIS'><speaker>CATHIS.</speaker>
-	<l id='296'>Oui la chose vaut bien que l'on y réflechisse.</l>
+	<l id='296'>Oui la chose vaut bien que l'on y rÃ©flechisse.</l>
 </sp>
 <sp who='LOLOTTE'><speaker>LOLOTTE.</speaker>
 	<l id='297'>Faites moi part, ma soeur, de votre intention.</l>
 </sp>
 <sp who='CATHIS'><speaker>CATHIS.</speaker>
-	<l id='298'>Mon père saura seul ma résolution.</l>
+	<l id='298'>Mon pÃ¨re saura seul ma rÃ©solution.</l>
 </sp>
 </div2>
-<div2 type='scene' n='12'><head>SCÈNE XII. Victoire, Babot.</head>
+<div2 type="scene" n='12'><head>SCÃˆNE XII. Victoire, Babot.</head>
 <sp who='VICTOIRE'><speaker>VICTOIRE, avec empressement.</speaker>
-	<l id='299'>Eh ! Bien, chère Babot, a-t-on fait quelque chose ?</l>
+	<l id='299'>Eh ! Bien, chÃ¨re Babot, a-t-on fait quelque chose ?</l>
 </sp>
 <sp who='BABOT'><speaker>BABOT.</speaker>
-	<l id='300'>Léandre était à nous, et quand tout se dispose,</l>
+	<l id='300'>LÃ©andre Ã©tait Ã  nous, et quand tout se dispose,</l>
 	<l id='301'>Le diable dans l'instant vient qui nous brouille tout,</l>
-	<l id='302'>Cathis n'en voulait plus, et Lolotte y prend goût.</l>
+	<l id='302'>Cathis n'en voulait plus, et Lolotte y prend goÃ»t.</l>
 </sp>
 <sp who='VICTOIRE'><speaker>VICTOIRE.</speaker>
-	<l id='303'>Que je suis malheureuse ! Il est vrai que Léandre,</l>
+	<l id='303'>Que je suis malheureuse ! Il est vrai que LÃ©andre,</l>
 	<l id='304'>Ne veut aimer que moi, mais si longtemps attende.</l>
-	<l id='305'>Ou sentir le remords d'avoir trompé mes soeurs !</l>
-	<l id='306'>Gouterais-je un plaisir qui leur coutât des pleurs ?</l>
+	<l id='305'>Ou sentir le remords d'avoir trompÃ© mes soeurs !</l>
+	<l id='306'>Gouterais-je un plaisir qui leur coutÃ¢t des pleurs ?</l>
 	<l id='307' part='i'>Non j'en mourrai Babot.</l>
 </sp>
 <sp who='BABOT'><speaker>BABOT.</speaker>
-	<l id='307' part='f'>Trop de délicatesse,</l>
-	<l id='308'>Dans les pressants dangers dégénère en foiblesse.</l>
+	<l id='307' part='f'>Trop de dÃ©licatesse,</l>
+	<l id='308'>Dans les pressants dangers dÃ©gÃ©nÃ¨re en foiblesse.</l>
 	<l id='309'>L'affaire est en bon train ; faites vous peu de cas,</l>
 	<l id='310'>Que l'Amour et Bacchus y saient vos avocats ?</l>
-	<l id='311'>Nous mettrons ordre à tout, vous voyez votre père ;</l>
-	<l id='312'>Agir avec tendresse. Ah ! Le bon caractère !</l>
-	<l id='313'>Vive le bon vieux temps où l'on était tout rond,</l>
-	<l id='314'>De cette pâte d'homme on n'a plus la façon.</l>
+	<l id='311'>Nous mettrons ordre Ã  tout, vous voyez votre pÃ¨re ;</l>
+	<l id='312'>Agir avec tendresse. Ah ! Le bon caractÃ¨re !</l>
+	<l id='313'>Vive le bon vieux temps oÃ¹ l'on Ã©tait tout rond,</l>
+	<l id='314'>De cette pÃ¢te d'homme on n'a plus la faÃ§on.</l>
 </sp>
 </div2>
-<div2 type='scene' n='13'><head>SCENE XIII. Victoire, Babot, Broton, Lolotte, Cathis.</head>
-<stage>Lolotte et Cathis amenent Proton à Lolotte.</stage>
+<div2 type="scene" n='13'><head>SCENE XIII. Victoire, Babot, Broton, Lolotte, Cathis.</head>
+<stage>Lolotte et Cathis amenent Proton Ã  Lolotte.</stage>
 <sp who='BROTON'><speaker>MONSIEUR BROTON.</speaker>
 	<l id='315' part='i'>Eh ! Mais... Laissez moi donc..</l>
 </sp>
 <sp who='CATHIS'><speaker>CATHIS.</speaker>
-	<l id='315' part='f'>Venez, venez mon père.</l>
+	<l id='315' part='f'>Venez, venez mon pÃ¨re.</l>
 </sp>
 <sp who='BROTON'><speaker>MONSIEUR BROTON.</speaker>
 	<l id='316' part='i'>Laissez-moi boire un coup.</l>
@@ -891,11 +891,11 @@ un Manuscrit qui a pour titre : les Filles à Marier, Comédie, et je crois que l'
 	<l id='316' part='f'>Terminez notre affaire,</l>
 </sp>
 <sp who='LOLOTTE'><speaker>LOLOTTE.</speaker>
-<note type="L">Atys : fils de Crésus, roi de Lydie, était muet, mais recouvvra la parole par un suprême effort en voyant, dans un bataille, un soldat prât à percer son père, et s'écria : "Soldat, ne frappe pas Crésus" ce qui sauva le roi. [F] Différent de l'Atys illustré par l'oeuvre de Quinault.</note>
-	<l id='317' part='i'>Imposez donc silence à Atys.</l>
+<note type="L">Atys : fils de CrÃ©sus, roi de Lydie, Ã©tait muet, mais recouvvra la parole par un suprÃªme effort en voyant, dans un bataille, un soldat prÃ¢t Ã  percer son pÃ¨re, et s'Ã©cria : "Soldat, ne frappe pas CrÃ©sus" ce qui sauva le roi. [F] DiffÃ©rent de l'Atys illustrÃ© par l'oeuvre de Quinault.</note>
+	<l id='317' part='i'>Imposez donc silence Ã  Atys.</l>
 </sp>
 <sp who='CATHIS'><speaker>CATHIS.</speaker>
-	<l id='317' part='f'>À ma soeur.</l>
+	<l id='317' part='f'>Ã€ ma soeur.</l>
 </sp>
 <sp who='LOLOTTE'><speaker>LOLOTTE.</speaker>
 	<l id='318' part='i'>Terminez.</l>
@@ -908,72 +908,72 @@ un Manuscrit qui a pour titre : les Filles à Marier, Comédie, et je crois que l'
 </sp>
 <sp who='BROTON'><speaker>MONSIEUR BROTON.</speaker>
 	<l id='318' part='f'>Allons de tout mon coeur,</l>
-	<l id='319'>Commençons par Lolotte elle a vu que Léandre,</l>
-	<l id='320'>A l'humeur déplaisante, il n'y doit plus prétendre,</l>
+	<l id='319'>CommenÃ§ons par Lolotte elle a vu que LÃ©andre,</l>
+	<l id='320'>A l'humeur dÃ©plaisante, il n'y doit plus prÃ©tendre,</l>
 </sp>
 <sp who='LOLOTTE'><speaker>LOLOTTE.</speaker>
 	<l id='321'>Si vous y consentez, mon espoir le plus doux,</l>
-	<l id='322'>Serait, des aujourdhui d'en faire mon époux.</l>
+	<l id='322'>Serait, des aujourdhui d'en faire mon Ã©poux.</l>
 	<l id='323'>Rien ne doit effrayer dans un mari qu'on aime,</l>
-	<l id='324'>Caractère léger, un peu libertin même,</l>
+	<l id='324'>CaractÃ¨re lÃ©ger, un peu libertin mÃªme,</l>
 	<l id='325'>Tout est pour notre gloire un triophe de plus.</l>
 </sp>
 <sp who='CATHIS'><speaker>CATHIS.</speaker>
-	<l id='326'>Cessez, ma tendre soeur d'étaler vos vertus,</l>
-	<l id='327'>Pour voler un amant, on n'est pas dégoutée,</l>
-	<l id='328'>Mais vous oubliez donc que je suis votre aînée ?</l>
-	<l id='329'>Que je l'épouse moi, que fut-il ombrageux,</l>
-	<l id='330'>Suffisant, emporté, tel qu'il est, je le veux.</l>
+	<l id='326'>Cessez, ma tendre soeur d'Ã©taler vos vertus,</l>
+	<l id='327'>Pour voler un amant, on n'est pas dÃ©goutÃ©e,</l>
+	<l id='328'>Mais vous oubliez donc que je suis votre aÃ®nÃ©e ?</l>
+	<l id='329'>Que je l'Ã©pouse moi, que fut-il ombrageux,</l>
+	<l id='330'>Suffisant, emportÃ©, tel qu'il est, je le veux.</l>
 </sp>
 <sp who='LOLOTTE'><speaker>LOLOTTE.</speaker>
-	<l id='331'>Vous déclamiez tantôt contre les infid7les,</l>
+	<l id='331'>Vous dÃ©clamiez tantÃ´t contre les infid7les,</l>
 	<l id='332' part='i'>Et j'ai cru...</l>
 </sp>
 <sp who='CATHIS'><speaker>CATHIS.</speaker>
 	<l id='332' part='m'>Moi je sais...</l>
 </sp>
 <sp who='BROTON'><speaker>MONSIEUR BROTON.</speaker>
-<note type="L">Peronnelle : terme injurieux qu'on dit à une femme ou à une fille de basse condition, ou servante.</note>
+<note type="L">Peronnelle : terme injurieux qu'on dit Ã  une femme ou Ã  une fille de basse condition, ou servante.</note>
 	<l id='332' part='f'>Peste des peronnelles !</l>
-	<l id='333'>Le diable vous épouse en peut-il prendre trois ?</l>
-<note type="L">Matois : rusé, difficile à être trompé ; adroit à tromper les autres. [F]</note>
+	<l id='333'>Le diable vous Ã©pouse en peut-il prendre trois ?</l>
+<note type="L">Matois : rusÃ©, difficile Ã  Ãªtre trompÃ© ; adroit Ã  tromper les autres. [F]</note>
 	<l id='334'>Car Victoire sans doute aime aussi le matois.</l>
 </sp>
 <sp who='VICTOIRE'><speaker>VICTOIRE.</speaker>
-	<l id='335'>Au refus de mes soeurs j'obeirai, mon père.</l>
+	<l id='335'>Au refus de mes soeurs j'obeirai, mon pÃ¨re.</l>
 </sp>
 <sp who='BROTON'><speaker>MONSIEUR BROTON.</speaker>
-	<l id='336'>Eh bien ! Soyez d'accord, et sans tant de colère,</l>
-	<l id='337'>Laisses-lui le mari qui fait votre débat.</l>
+	<l id='336'>Eh bien ! Soyez d'accord, et sans tant de colÃ¨re,</l>
+	<l id='337'>Laisses-lui le mari qui fait votre dÃ©bat.</l>
 </sp>
 <sp who='CATHIS_LOLOTTE'><speaker>LOLOTTE ET CATHIS ensemble.</speaker>
-	<l id='338'>Nous n'avons point de goût du tout au célibat ;</l>
-	<l id='339' part='i'>Bien des grâces, mon père.</l>
+	<l id='338'>Nous n'avons point de goÃ»t du tout au cÃ©libat ;</l>
+	<l id='339' part='i'>Bien des grÃ¢ces, mon pÃ¨re.</l>
 </sp>
 <sp who='VICTOIRE'><speaker>VICTOIRE.</speaker>
 	<l id='339' part='f'>On trouve par la suite.</l>
 </sp>
 <sp who='CATHIS_LOLOTTE'><speaker>LOLOTTE ET CATHIS.</speaker>
-	<l id='340' part='i'>Milles grâces, ma soeur.</l>
+	<l id='340' part='i'>Milles grÃ¢ces, ma soeur.</l>
 </sp>
 <sp who='CATHIS'><speaker>CATHIS.</speaker>
 	<l id='340' part='f'>Ah ! Ma pauvre petite,</l>
-	<l id='341'>Vous n'entendez pas mal déjá vos intérêts !</l>
+	<l id='341'>Vous n'entendez pas mal dÃ©jÃ¡ vos intÃ©rÃªts !</l>
 </sp>
 <sp who='BROTON'><speaker>MONSIEUR BROTON.</speaker>
 	<l id='342'>Allez vous consulter, puisque j'ai fait les frais,</l>
 	<l id='343'>Je vous donne un quart d'heure, et veux sans plus attendre,</l>
-	<l id='344'>La noce pour ce soir, ou bien, plus de Léandre.</l>
+	<l id='344'>La noce pour ce soir, ou bien, plus de LÃ©andre.</l>
 </sp>
 </div2>
-<div2 type='scene' n='14'><head>SCÈNE XIV. Broton, Léandre, Babot.</head>
-<sp who='LÉANDRE'><speaker>LÉANDRE.</speaker>
-	<l id='345' part='i'>Hé bien, papa,</l>
+<div2 type="scene" n='14'><head>SCÃˆNE XIV. Broton, LÃ©andre, Babot.</head>
+<sp who='LÃ‰ANDRE'><speaker>LÃ‰ANDRE.</speaker>
+	<l id='345' part='i'>HÃ© bien, papa,</l>
 </sp>
 <sp who='BROTON'><speaker>MONSIEUR BROTON.</speaker>
 	<l id='345' part='f'>Mon gendre on n'a pu rien gagner.</l>
-<note type="L">Barguigner : marchander sou à sou quelque chose. [F]</note>
-	<l id='346'>Aussi c'est ma bonté qui me fait barguigner,</l>
+<note type="L">Barguigner : marchander sou Ã  sou quelque chose. [F]</note>
+	<l id='346'>Aussi c'est ma bontÃ© qui me fait barguigner,</l>
 	<l id='347'>Eh ! Que doit m'importer le rang de chaque fille ;</l>
 	<l id='348'>Pourvu que mon ami vienne dans ma famille ?</l>
 </sp>
@@ -982,96 +982,96 @@ un Manuscrit qui a pour titre : les Filles à Marier, Comédie, et je crois que l'
 </sp>
 <sp who='BROTON'><speaker>MONSIEUR BROTON.</speaker>
 	<l id='349' part='f'>Il faut qu'il ait celle qu'il a choisi,</l>
-	<l id='350'>J'ordonnerai, morbleu ! Je veux être obéi.</l>
+	<l id='350'>J'ordonnerai, morbleu ! Je veux Ãªtre obÃ©i.</l>
 	<l id='351'>Je suis honteux d'agir avec tant de faiblesse.</l>
 </sp>
-<sp who='LÉANDRE'><speaker>LÉANDRE.</speaker>
-	<l id='352'>Beau-père, il vaudrait mieux par quelque tour d'adresse,</l>
+<sp who='LÃ‰ANDRE'><speaker>LÃ‰ANDRE.</speaker>
+	<l id='352'>Beau-pÃ¨re, il vaudrait mieux par quelque tour d'adresse,</l>
 	<l id='353'>Appaiser les deux soeurs. Un valet entendu,</l>
 	<l id='354'>Que j'ai pris depuis peu, qui leur est inconnu,</l>
-	<l id='355'>Pourra nous y servir décriant ma conduite.</l>
-<stage>Il rêve.</stage>
+	<l id='355'>Pourra nous y servir dÃ©criant ma conduite.</l>
+<stage>Il rÃªve.</stage>
 	<l id='356' part='i'>Ici comme marchand... Il viendra...</l>
 </sp>
 <sp who='BABOT'><speaker>BABOT.</speaker>
 	<l id='356' part='f'>Tout de suite,</l>
-	<l id='357'>Oui je vais l'introduire, et soyez assuré,</l>
-	<l id='358'>Qu'on vous équipera, Monsieur, à votre gré.</l>
+	<l id='357'>Oui je vais l'introduire, et soyez assurÃ©,</l>
+	<l id='358'>Qu'on vous Ã©quipera, Monsieur, Ã  votre grÃ©.</l>
 </sp>
 <sp who='BROTON'><speaker>MONSIEUR BROTON.</speaker>
 	<l id='359' part='i'>Oui bon cela, l'ami !</l>
 </sp>
 </div2>
-<div2 type='scene' n='15'><head>SCÈNE XV. Victoire, Léandre, Broton, Babot.</head>
+<div2 type="scene" n='15'><head>SCÃˆNE XV. Victoire, LÃ©andre, Broton, Babot.</head>
 <sp who='VICTOIRE'><speaker>VICTOIRE, vivement.</speaker>
 	<l id='359' part='f'>Du transport qui m'anime ;</l>
 	<l id='360'>Permettez qu'a vos pieds la douce ardeur s'exprime,</l>
 	<l id='361' part='i'>Si je vous interromps...</l>
 </sp>
 <sp who='BABOT'><speaker>BABOT.</speaker>
-	<l id='361' part='f'>Quelle vivacité !</l>
+	<l id='361' part='f'>Quelle vivacitÃ© !</l>
 </sp>
 <sp who='VICTOIRE'><speaker>VICTOIRE.</speaker>
-	<l id='362'>Mon père, pardonnez ; mon coeur est transporté,</l>
+	<l id='362'>Mon pÃ¨re, pardonnez ; mon coeur est transportÃ©,</l>
 	<l id='363'>Par la crainte, l'amour et la reconnaissance.</l>
 </sp>
 <sp who='BROTON'><speaker>MONSIEUR BROTON, s'attendrissant.</speaker>
-	<l id='364'>Tu transportes le mien ; va ; ton obéissance,</l>
+	<l id='364'>Tu transportes le mien ; va ; ton obÃ©issance,</l>
 	<l id='365'>M'a toujours contente, mon enfant, et ton coeur,</l>
 	<l id='366'>Est franc comme le mien et digne d'un buveur,</l>
-	<l id='367'>Je reconnais mon sang, c'est la fille à son père.</l>
+	<l id='367'>Je reconnais mon sang, c'est la fille Ã  son pÃ¨re.</l>
 </sp>
 <sp who='VICTOIRE'><speaker>VICTOIRE.</speaker>
-	<l id='368'>Vos ordres sont si doux, qui pourrait vous déplaire?</l>
+	<l id='368'>Vos ordres sont si doux, qui pourrait vous dÃ©plaire?</l>
 </sp>
-<sp who='LÉANDRE'><speaker>LÉANDRE.</speaker>
-	<l id='369'>Que ce transport, Victoire, à de quoi me flatter !</l>
+<sp who='LÃ‰ANDRE'><speaker>LÃ‰ANDRE.</speaker>
+	<l id='369'>Que ce transport, Victoire, Ã  de quoi me flatter !</l>
 	<l id='370'>J'en suis l'heureux objet, je n'en saurais douter.</l>
 </sp>
 <sp who='VICTOIRE'><speaker>VICTOIRE.</speaker>
-	<l id='371' part='i'>Oui c'est vous, cher Léandre !</l>
+	<l id='371' part='i'>Oui c'est vous, cher LÃ©andre !</l>
 </sp>
-<sp who='LÉANDRE'><speaker>LÉANDRE.</speaker>
-	<l id='371' part='f'>Hélas ! Chère Victoire !</l>
+<sp who='LÃ‰ANDRE'><speaker>LÃ‰ANDRE.</speaker>
+	<l id='371' part='f'>HÃ©las ! ChÃ¨re Victoire !</l>
 </sp>
 <sp who='BROTON'><speaker>MONSIEUR BROTON, tendre.</speaker>
-	<l id='372'>Morbleu ! Près de cela ce n'est rien que de boire,</l>
+	<l id='372'>Morbleu ! PrÃ¨s de cela ce n'est rien que de boire,</l>
 	<l id='373'>Chers enfants ! Oui... l'Amour... Vous me faites pleurer,</l>
-	<l id='374'>Pour la première fois ils m'ont fait soupirer.</l>
+	<l id='374'>Pour la premiÃ¨re fois ils m'ont fait soupirer.</l>
 </sp>
-<sp who='LÉANDRE'><speaker>LÉANDRE.</speaker>
-	<l id='375'>Quel plaisir nous aurons à vous chérir sans cesse !</l>
+<sp who='LÃ‰ANDRE'><speaker>LÃ‰ANDRE.</speaker>
+	<l id='375'>Quel plaisir nous aurons Ã  vous chÃ©rir sans cesse !</l>
 </sp>
 <sp who='VICTOIRE'><speaker>VICTOIRE.</speaker>
-	<l id='376'>Mon père et mon époux partagent ma tendresse.</l>
+	<l id='376'>Mon pÃ¨re et mon Ã©poux partagent ma tendresse.</l>
 </sp>
 <sp who='BROTON'><speaker>MONSIEUR BROTON.</speaker>
 	<l id='377'>J'aurai tout le bonheur quand vous serez heureux.</l>
 </sp>
-<sp who='LÉANDRE'><speaker>LÉANDRE.</speaker>
-	<l id='378'>Ah ! Par ce seul désir vous comblez tous mes voeux.</l>
+<sp who='LÃ‰ANDRE'><speaker>LÃ‰ANDRE.</speaker>
+	<l id='378'>Ah ! Par ce seul dÃ©sir vous comblez tous mes voeux.</l>
 </sp>
-<sp who='BABOT'><speaker>BABOT, en colère.</speaker>
-	<l id='379'>Voilà nos gens d'esprit ! Si je n'y prenais garde,</l>
-	<l id='380'>Ils passeraient, jarni ! Le temps à la moutarde,</l>
-	<l id='381'>Allez, votre valet devrait être envoyé.</l>
+<sp who='BABOT'><speaker>BABOT, en colÃ¨re.</speaker>
+	<l id='379'>VoilÃ  nos gens d'esprit ! Si je n'y prenais garde,</l>
+	<l id='380'>Ils passeraient, jarni ! Le temps Ã  la moutarde,</l>
+	<l id='381'>Allez, votre valet devrait Ãªtre envoyÃ©.</l>
 </sp>
-<sp who='LÉANDRE'><speaker>LÉANDRE.</speaker>
-	<l id='382'>Je vois qu'elle a raison : je m'étais oublié.</l>
+<sp who='LÃ‰ANDRE'><speaker>LÃ‰ANDRE.</speaker>
+	<l id='382'>Je vois qu'elle a raison : je m'Ã©tais oubliÃ©.</l>
 </sp>
 <sp who='BABOT'><speaker>BABOT.</speaker>
-	<l id='383'>Le coeur quoi qu'on en dise, ici n'est qu'une bête,</l>
-	<l id='384'>Et vous aviez tous trois bon besoin de ma tête.</l>
+	<l id='383'>Le coeur quoi qu'on en dise, ici n'est qu'une bÃªte,</l>
+	<l id='384'>Et vous aviez tous trois bon besoin de ma tÃªte.</l>
 </sp>
-<sp who='LÉANDRE'><speaker>LÉANDRE.</speaker>
-	<l id='385'>On s'oublierait à moins, et ces heureux instants.</l>
+<sp who='LÃ‰ANDRE'><speaker>LÃ‰ANDRE.</speaker>
+	<l id='385'>On s'oublierait Ã  moins, et ces heureux instants.</l>
 	<l id='386' part='i'>Sont les seuls de ma vie...</l>
 </sp>
 <sp who='BABOT'><speaker>BABOT, ironiquemnt.</speaker>
 	<l id='386' part='f'>Ah ! Les beaux sentiments !</l>
 	<l id='387' part='i'>Allez, vous dis-je ; allez.</l>
 </sp>
-<sp who='LÉANDRE'><speaker>LÉANDRE.</speaker>
+<sp who='LÃ‰ANDRE'><speaker>LÃ‰ANDRE.</speaker>
 	<l id='387' part='f'>Il faut te satisfaire.</l>
 <stage>Il sort.</stage>
 </sp>
@@ -1079,26 +1079,26 @@ un Manuscrit qui a pour titre : les Filles à Marier, Comédie, et je crois que l'
 	<l id='388'>Un millier de soupirs ne fait pas une affaire.</l>
 </sp>
 </div2>
-<div2 type='scene' n='16'><head>SCÈNE XVI. Broton, Cathis, Lolotte.</head>
+<div2 type="scene" n='16'><head>SCÃˆNE XVI. Broton, Cathis, Lolotte.</head>
 <sp who='CATHIS'><speaker>CATHIS.</speaker>
-	<l id='389'>Vous voulez nous parler, à ce que dit Babot,</l>
-	<l id='390' part='i'>Vous décidez, sans doute ?</l>
+	<l id='389'>Vous voulez nous parler, Ã  ce que dit Babot,</l>
+	<l id='390' part='i'>Vous dÃ©cidez, sans doute ?</l>
 </sp>
 <sp who='BROTON'><speaker>MONSIEUR BROTON.</speaker>
 	<l id='390' part='f'>Il n'en est pas le mot.</l>
-	<l id='391'>Entre vous le débat ; la cadette ou l'ainée,</l>
-	<l id='392'>Tout cela m'est égal, pourvu que la journée,</l>
-	<l id='393'>Décide qui des trois de Victoire ou de vous,</l>
-	<l id='394'>Recevra de ma main Léandre pour époux.</l>
+	<l id='391'>Entre vous le dÃ©bat ; la cadette ou l'ainÃ©e,</l>
+	<l id='392'>Tout cela m'est Ã©gal, pourvu que la journÃ©e,</l>
+	<l id='393'>DÃ©cide qui des trois de Victoire ou de vous,</l>
+	<l id='394'>Recevra de ma main LÃ©andre pour Ã©poux.</l>
 <stage>Il fort.</stage>
 </sp>
 </div2>
-<div2 type='scene' n='17'><head>SCÈNE XVII. Lolotte, Cathis, Babot, Champagne, en Marchand de poudre et de rubans.</head>
-<sp who='CHAMPAGNE'><speaker>CHAMPAGNE, à Babot au fond du Théâtre.</speaker>
-	<l id='395'>Bonjour, ma belle enfant, où sont tes Demoiselles?</l>
+<div2 type="scene" n='17'><head>SCÃˆNE XVII. Lolotte, Cathis, Babot, Champagne, en Marchand de poudre et de rubans.</head>
+<sp who='CHAMPAGNE'><speaker>CHAMPAGNE, Ã  Babot au fond du ThÃ©Ã¢tre.</speaker>
+	<l id='395'>Bonjour, ma belle enfant, oÃ¹ sont tes Demoiselles?</l>
 </sp>
 <sp who='CATHIS'><speaker>CATHIS.</speaker>
-	<l id='396' part='i'>À qui parles-tu là?</l>
+	<l id='396' part='i'>Ã€ qui parles-tu lÃ ?</l>
 </sp>
 <sp who='CHAMPAGNE'><speaker>CHAMPAGNE.</speaker>
 	<l id='396' part='f'>J'ai les modes nouvelles.</l>
@@ -1107,21 +1107,21 @@ un Manuscrit qui a pour titre : les Filles à Marier, Comédie, et je crois que l'
 	<l id='397'>C'est un petit marchand de pompons, de bijoux.</l>
 </sp>
 <sp who='CHAMPAGNE'><speaker>CHAMPAGNE.</speaker>
-	<l id='398'>Des peignes, des saveurs pour les nouveaux époux.</l>
+	<l id='398'>Des peignes, des saveurs pour les nouveaux Ã©poux.</l>
 	<l id='399'>La fille du logis, m'a-t'on dit, se marie...</l>
-<stage>Bas à Babot.</stage>
+<stage>Bas Ã  Babot.</stage>
 	<l id='400'>On ne m'avait pas dit que tu sois si jolie.</l>
 </sp>
 <sp who='CATHIS'><speaker>CATHIS.</speaker>
-	<l id='401'>Cette affaire, ma soeur, a dejà fait du bruit,</l>
-<stage>À Champagne.</stage>
+	<l id='401'>Cette affaire, ma soeur, a dejÃ  fait du bruit,</l>
+<stage>Ã€ Champagne.</stage>
 	<l id='402' part='i'>Comment le savez vous?</l>
 </sp>
 <sp who='CHAMPAGNE'><speaker>CHAMPAGNE.</speaker>
 	<l id='402' part='f'>Tout le monde le dit.</l>
 	<l id='403'>Voici de bons parfums, des mouches, des aigrettes:</l>
-	<l id='404'>Pour le futur époux voilà des savonettes.</l>
-<stage>À Babot en lui montrant des rubans.</stage>
+	<l id='404'>Pour le futur Ã©poux voilÃ  des savonettes.</l>
+<stage>Ã€ Babot en lui montrant des rubans.</stage>
 	<l id='405'>Approchez-vous, ma Reine, et choisissez ici.</l>
 </sp>
 <sp who='BABOT'><speaker>BABOT.</speaker>
@@ -1131,15 +1131,15 @@ un Manuscrit qui a pour titre : les Filles à Marier, Comédie, et je crois que l'
 	<l id='407' part='i'>Recevez ce ruban.</l>
 </sp>
 <sp who='BABOT'><speaker>BABOT.</speaker>
-	<l id='407' part='f'>Tes façons sont galantes.</l>
+	<l id='407' part='f'>Tes faÃ§ons sont galantes.</l>
 </sp>
 <sp who='CHAMPAGNE'><speaker>CHAMPAGNE.</speaker>
-	<l id='408'>J'en usé ainsi partout, pour les belles suivantes.</l>
+	<l id='408'>J'en usÃ© ainsi partout, pour les belles suivantes.</l>
 </sp>
 <sp who='BABOT'><speaker>BABOT.</speaker>
-	<l id='409' part='i'>Mais réponds moi ; l'on dit...</l>
+	<l id='409' part='i'>Mais rÃ©ponds moi ; l'on dit...</l>
 </sp>
-<sp who='CHAMPAGNE'><speaker>CHAMPAGNE, bas à Babot.</speaker>
+<sp who='CHAMPAGNE'><speaker>CHAMPAGNE, bas Ã  Babot.</speaker>
 	<l id='409' part='f'>Que je suis son valet,</l>
 	<l id='410'>Que quand je le regarde il me semble parfait.</l>
 </sp>
@@ -1147,7 +1147,7 @@ un Manuscrit qui a pour titre : les Filles à Marier, Comédie, et je crois que l'
 	<l id='411' part='i'>Que dit il?</l>
 </sp>
 <sp who='BABOT'><speaker>BABOT.</speaker>
-	<l id='411' part='f'>Il m'a dit, qu'il vous trouvait à plaindre.</l>
+	<l id='411' part='f'>Il m'a dit, qu'il vous trouvait Ã  plaindre.</l>
 </sp>
 <sp who='CHAMPAGNE'><speaker>CHAMPAGNE.</speaker>
 	<l id='412' part='i'>Non.</l>
@@ -1156,10 +1156,10 @@ un Manuscrit qui a pour titre : les Filles à Marier, Comédie, et je crois que l'
 <stage>Bas.</stage>
 	<l id='412' part='m'>Tai-toi donc, serpent ! </l>
 <stage>Haut.</stage>
-	<l id='412' part='f'>Que Léandre sait feindre.</l>
+	<l id='412' part='f'>Que LÃ©andre sait feindre.</l>
 </sp>
-<sp who='CHAMPAGNE'><speaker>CHAMPAGNE, bas à babot.</speaker>
-	<l id='413'>Le ferai-je chasser quand j'entre en goût pour toi ?</l>
+<sp who='CHAMPAGNE'><speaker>CHAMPAGNE, bas Ã  babot.</speaker>
+	<l id='413'>Le ferai-je chasser quand j'entre en goÃ»t pour toi ?</l>
 </sp>
 <sp who='BABOT'><speaker>BABOT, lui faisant des signes.</speaker>
 	<l id='414' part='i'>Je t'instruirai de tout.</l>
@@ -1179,8 +1179,8 @@ un Manuscrit qui a pour titre : les Filles à Marier, Comédie, et je crois que l'
 	<l id='418'>Il nous prenait, je crois, pour des femmes de Cour.</l>
 </sp>
 <sp who='CATHIS'><speaker>CATHIS.</speaker>
-	<l id='419'>Pourquoi le renvoyer ? nous aurions su peut être,</l>
-	<l id='420'>Que Léandre n'est pas ce qu'il voudrait paraître.</l>
+	<l id='419'>Pourquoi le renvoyer ? nous aurions su peut Ãªtre,</l>
+	<l id='420'>Que LÃ©andre n'est pas ce qu'il voudrait paraÃ®tre.</l>
 </sp>
 <sp who='BABOT'><speaker>BABOT, pendant qu'il s'en va.</speaker>
 	<l id='421'>Laissez moi seule, ici, je vais le rapeller,</l>
@@ -1190,61 +1190,61 @@ un Manuscrit qui a pour titre : les Filles à Marier, Comédie, et je crois que l'
 	<l id='423'>Oui sortons; tu pourras en savoir davantage.</l>
 </sp>
 </div2>
-<div2 type='scene' n='18'><head>SCÈNE XVIII. Léandre, Baabot, Champagne.</head>
+<div2 type="scene" n='18'><head>SCÃˆNE XVIII. LÃ©andre, Baabot, Champagne.</head>
 <sp who='BABOT'><speaker>BABOT, haut, pendant que les maitresses sortent.</speaker>
-	<l id='424' part='i'>Écoutez, beau Marchand.</l>
+	<l id='424' part='i'>Ã‰coutez, beau Marchand.</l>
 <stage>Bas.</stage>
-	<l id='424' part='f'>Tout est manqué: j'enrage !</l>
+	<l id='424' part='f'>Tout est manquÃ©: j'enrage !</l>
 </sp>
-<sp who='LÉANDRE'><speaker>LÉANDRE, avec empressement.</speaker>
-	<l id='425'>Champagne, qu'as-tu fait ? Eh ! Bien suis-je chassé ?</l>
+<sp who='LÃ‰ANDRE'><speaker>LÃ‰ANDRE, avec empressement.</speaker>
+	<l id='425'>Champagne, qu'as-tu fait ? Eh ! Bien suis-je chassÃ© ?</l>
 </sp>
-<sp who='CHAMPAGNE'><speaker>CHAMPAGNE, embarassé.</speaker>
-	<l id='426' part='i'>Pas... tout-à-fait, Monsieur,</l>
+<sp who='CHAMPAGNE'><speaker>CHAMPAGNE, embarassÃ©.</speaker>
+	<l id='426' part='i'>Pas... tout-Ã -fait, Monsieur,</l>
 </sp>
 <sp who='BABOT'><speaker>BABOT.</speaker>
-	<l id='426' part='f'>Il aurait tout gâtê.</l>
+	<l id='426' part='f'>Il aurait tout gÃ¢tÃª.</l>
 	<l id='427' part='i'>Si je n'avais rien dit.</l>
 </sp>
-<sp who='LÉANDRE'><speaker>LÉANDRE.</speaker>
-<note type="L">Bélitre : gueux qui mendie par fainéantise, et qui pourrait bine gagner sa vie. Il se dit quelqfois pas extension, des coquins qui n'ont ni bien, ni honneur. [F]</note>
-	<l id='427' part='f'>Ah ! Maraud ! Ah ! Belître !</l>
+<sp who='LÃ‰ANDRE'><speaker>LÃ‰ANDRE.</speaker>
+<note type="L">BÃ©litre : gueux qui mendie par fainÃ©antise, et qui pourrait bine gagner sa vie. Il se dit quelqfois pas extension, des coquins qui n'ont ni bien, ni honneur. [F]</note>
+	<l id='427' part='f'>Ah ! Maraud ! Ah ! BelÃ®tre !</l>
 </sp>
 <sp who='BABOT'><speaker>BABOT.</speaker>
-	<l id='428'>Loin de vous décrier, Valets sur ce chapitre,</l>
+	<l id='428'>Loin de vous dÃ©crier, Valets sur ce chapitre,</l>
 	<l id='429'>Ne tarissent jamais, leur esprit inventif :</l>
 	<l id='430'>Trouve dessus cela du faux ou positif ;</l>
-	<l id='431' part='i'>Lui, faisait votre éloge !</l>
+	<l id='431' part='i'>Lui, faisait votre Ã©loge !</l>
 </sp>
 <sp who='CHAMPAGNE'><speaker>CHAMPAGNE, montrant Babot.</speaker>
-	<l id='431' part='f'>En voici le mystère :</l>
-	<l id='432'>Déplait-on quand on a tant de désir de plaire ?</l>
+	<l id='431' part='f'>En voici le mystÃ¨re :</l>
+	<l id='432'>DÃ©plait-on quand on a tant de dÃ©sir de plaire ?</l>
 	<l id='433'>Vous me pardonnerez en regardant Babot.</l>
 </sp>
-<sp who='BABOT'><speaker>BABOT, à Léandre.</speaker>
+<sp who='BABOT'><speaker>BABOT, Ã  LÃ©andre.</speaker>
 	<l id='434' part='i'>C'est votre faute...</l>
 </sp>
 <sp who='CHAMPAGNE'><speaker>CHAMPAGNE.</speaker>
 	<l id='434' part='m'>Oui.</l>
 </sp>
-<sp who='LÉANDRE'><speaker>LÉANDRE.</speaker>
+<sp who='LÃ‰ANDRE'><speaker>LÃ‰ANDRE.</speaker>
 	<l id='434' part='f'>Taisez-vous maitre sot !</l>
 </sp>
 <sp who='BABOT'><speaker>BABOT.</speaker>
-	<l id='435' part='i'>Il n'était qu'a demi dans votre confidence.</l>
+	<l id='435' part='i'>Il n'Ã©tait qu'a demi dans votre confidence.</l>
 </sp>
 <sp who='CHAMPAGNE'><speaker>CHAMPAGNE.</speaker>
-	<l id='436'>Si j'ai péché, Monsieur, c'était par ignorance;</l>
-	<l id='437'>Je pourrai réparer tout le mal que j'ai fait.</l>
+	<l id='436'>Si j'ai pÃ©chÃ©, Monsieur, c'Ã©tait par ignorance;</l>
+	<l id='437'>Je pourrai rÃ©parer tout le mal que j'ai fait.</l>
 </sp>
 <sp who='BABOT'><speaker>BABOT.</speaker>
 	<l id='438'>Il voit ici deux soeurs, une autre est votre fait :</l>
-	<l id='439'>Il ne comprenAit rien à toutes ces vétilles.</l>
+	<l id='439'>Il ne comprenAit rien Ã  toutes ces vÃ©tilles.</l>
 </sp>
 <sp who='CHAMPAGNE'><speaker>CHAMPAGNE.</speaker>
-	<l id='440'>Qui diable eut deviné que Broton eut trois filles ?</l>
+	<l id='440'>Qui diable eut devinÃ© que Broton eut trois filles ?</l>
 </sp>
-<sp who='LÉANDRE'><speaker>LÉANDRE, ironiquement.</speaker>
+<sp who='LÃ‰ANDRE'><speaker>LÃ‰ANDRE, ironiquement.</speaker>
 	<l id='441'>Fort bien ! Il a raison, puisqu'il est amoureux ;</l>
 	<l id='442'>Mais je perds mon bonheur, et c'est pour tes beaux yeux.</l>
 </sp>
@@ -1252,49 +1252,49 @@ un Manuscrit qui a pour titre : les Filles à Marier, Comédie, et je crois que l'
 	<l id='443'>Pouvait-on deviner qu'on lui brouillait la vue ?</l>
 	<l id='444'>On pourra retrouver l'occasion perdue.</l>
 </sp>
-<sp who='LÉANDRE'><speaker>LÉANDRE.</speaker>
-	<l id='445'>Votre zèle à présent serait hors de saison ;</l>
-	<l id='446'>Je ne veux écouter que la droite raison.</l>
+<sp who='LÃ‰ANDRE'><speaker>LÃ‰ANDRE.</speaker>
+	<l id='445'>Votre zÃ¨le Ã  prÃ©sent serait hors de saison ;</l>
+	<l id='446'>Je ne veux Ã©couter que la droite raison.</l>
 	<l id='447'>Enfin je vais risquer tout ce que je peux craindre,</l>
-	<l id='448'>Et mon coeur souffre trop d'être obligé de feindre.</l>
+	<l id='448'>Et mon coeur souffre trop d'Ãªtre obligÃ© de feindre.</l>
 </sp>
 </div2>
-<div2 type='scene' n='19'><head>SCÈNE XIX. Broton, Léandre, Babot, Champagne.</head>
-<sp who='LÉANDRE'><speaker>LÉANDRE.</speaker>
-	<l id='449'>Tout nous réussit mal; il saut, mon cher papa,</l>
+<div2 type="scene" n='19'><head>SCÃˆNE XIX. Broton, LÃ©andre, Babot, Champagne.</head>
+<sp who='LÃ‰ANDRE'><speaker>LÃ‰ANDRE.</speaker>
+	<l id='449'>Tout nous rÃ©ussit mal; il saut, mon cher papa,</l>
 	<l id='450' part='i'>Instruire les deux soeurs...</l>
 </sp>
 <sp who='BABOT'><speaker>BABOT.</speaker>
-	<l id='450' part='f'>Justement les voilà.</l>
+	<l id='450' part='f'>Justement les voilÃ .</l>
 </sp>
 <sp who='BROTON'><speaker>MONSIEUR BROTON.</speaker>
-	<l id='451'>Eh oui ! La vérité ; c'est la vertu que j'aime.</l>
-<note type="C">Phrase latine : La vérité est dans le vin.</note>
+	<l id='451'>Eh oui ! La vÃ©ritÃ© ; c'est la vertu que j'aime.</l>
+<note type="C">Phrase latine : La vÃ©ritÃ© est dans le vin.</note>
 	<l id='452' part='i'>In vino veritas.</l>
 </sp>
 </div2>
-<div2 type='scene' n='20'><head>SCÈNE XX et dernière. Tous les acteurs.</head>
-<sp who='CLORINDE'><speaker>CLORINDE, s'effrayant, appuyée sur Cathis.</speaker>
-	<l id='452' part='f'>C'est ce fou ! C'est lui-même !...</l>
-	<l id='453'>Je vois son teint rougir, et ses yeux s'égarer.</l>
+<div2 type="scene" n='20'><head>SCÃˆNE XX et derniÃ¨re. Tous les acteurs.</head>
+<sp who='CLORINDE'><speaker>CLORINDE, s'effrayant, appuyÃ©e sur Cathis.</speaker>
+	<l id='452' part='f'>C'est ce fou ! C'est lui-mÃªme !...</l>
+	<l id='453'>Je vois son teint rougir, et ses yeux s'Ã©garer.</l>
 </sp>
 <sp who='BABOT'><speaker>BABOT, montrant Victoire.</speaker>
-	<l id='454'>Nous possédons ici de quoi tout réparer.</l>
+	<l id='454'>Nous possÃ©dons ici de quoi tout rÃ©parer.</l>
 </sp>
 <sp who='CLORINDE'><speaker>CLORINDE.</speaker>
-	<l id='455' part='i'>Tu me l'as déja dit.</l>
+	<l id='455' part='i'>Tu me l'as dÃ©ja dit.</l>
 </sp>
-<sp who='LÉANDRE'><speaker>LÉANDRE, s'approche de Clorinde.</speaker>
+<sp who='LÃ‰ANDRE'><speaker>LÃ‰ANDRE, s'approche de Clorinde.</speaker>
 	<l id='455' part='f'>Il n'est plus temps de feindre.</l>
 </sp>
 <sp who='CLORINDE'><speaker>CLORINDE.</speaker>
 	<l id='456' part='i'>Ah ! Damis !</l>
 </sp>
-<sp who='LÉANDRE'><speaker>LÉANDRE.</speaker>
-	<l id='456' part='f'>Pardonnez ; vous n'avez rien à craindre.</l>
-	<l id='457'>Et l'Amour seul, Madame, a causé ces erreurs,</l>
+<sp who='LÃ‰ANDRE'><speaker>LÃ‰ANDRE.</speaker>
+	<l id='456' part='f'>Pardonnez ; vous n'avez rien Ã  craindre.</l>
+	<l id='457'>Et l'Amour seul, Madame, a causÃ© ces erreurs,</l>
 	<l id='458'>Je craignais d'offenser ces deux aimables soeurs ;</l>
-	<l id='459'>En adressant mes voeux à ma chère Victoire,</l>
+	<l id='459'>En adressant mes voeux Ã  ma chÃ¨re Victoire,</l>
 	<l id='460'>Dont la main comblerait mon bonheur et ma gloire.</l>
 	<l id='461' pat='i'>J'ose vous implorer...</l>
 </sp>
@@ -1302,71 +1302,71 @@ un Manuscrit qui a pour titre : les Filles à Marier, Comédie, et je crois que l'
 	<l id='461' part='f'>Qu'en dites-vous, Damis ?</l>
 </sp>
 <sp who='BROTON'><speaker>MONSIEUR BROTON.</speaker>
-	<l id='462'>On tirerait plutôt morbleu ! du vin d'un puits,</l>
-	<l id='463'>Qu'on ne dégouterait filles du mariage,</l>
+	<l id='462'>On tirerait plutÃ´t morbleu ! du vin d'un puits,</l>
+	<l id='463'>Qu'on ne dÃ©gouterait filles du mariage,</l>
 	<l id='464'>Surtout quand elles sont... Vous m'entendez...</l>
-	<l id='465' part='i'>D'un âge...</l>
+	<l id='465' part='i'>D'un Ã¢ge...</l>
 </sp>
 <sp who='DAMIS'><speaker>DAMIS.</speaker>
-	<l id='465' part='f'>À moins que ce ne soit par leur propre raison.</l>
+	<l id='465' part='f'>Ã€ moins que ce ne soit par leur propre raison.</l>
 </sp>
 <sp who='CLORINDE'><speaker>CLORINDE.</speaker>
-	<l id='466' part='i'>Il faut faire un effort, mes chères.</l>
+	<l id='466' part='i'>Il faut faire un effort, mes chÃ¨res.</l>
 </sp>
 <sp who='BABOT'><speaker>BABOT.</speaker>
 	<l id='466' part='f'>Un bon non,</l>
 	<l id='467'>Car ce libertinage et cette jalousie,</l>
-	<l id='468' part='i'>Tout était faux...</l>
+	<l id='468' part='i'>Tout Ã©tait faux...</l>
 </sp>
-<sp who='LOLOTTE'><speaker>LOLOTTE, à Cathis.</speaker>
+<sp who='LOLOTTE'><speaker>LOLOTTE, Ã  Cathis.</speaker>
 	<l id='468' part='m'>Ma soeur...</l>
 </sp>
-<sp who='LÉANDRE'><speaker>LÉANDRE, à Clorinde.</speaker>
+<sp who='LÃ‰ANDRE'><speaker>LÃ‰ANDRE, Ã  Clorinde.</speaker>
 	<l id='468' part='f'>Ainsi que ma folie.</l>
 </sp>
-<sp who='CATHIS'><speaker>CATHIS, à Lolotte.</speaker>
+<sp who='CATHIS'><speaker>CATHIS, Ã  Lolotte.</speaker>
 	<l id='469'>Quoi ! Ma soeur on nous joue ! et Victoire...</l>
 </sp>
-<sp who='LOLOTTE'><speaker>LOLOTTE, avec dédain.</speaker>
+<sp who='LOLOTTE'><speaker>LOLOTTE, avec dÃ©dain.</speaker>
 	<l id='469' part='f'>Ah ma soeur !</l>
 	<l id='470' part='i'>Il faut abandonner ce Bourgeois...</l>
 </sp>
-<sp who='CATHIS'><speaker>CATHIS, piquée.</speaker>
+<sp who='CATHIS'><speaker>CATHIS, piquÃ©e.</speaker>
 	<l id='470' part='f'>De grand coeur !</l>
 </sp>
 <sp who='BROTON'><speaker>MONSIEUR BROTON, embrasse Cathis.</speaker>
-	<l id='471'>Baise moi mes Amours... Te voilà raisonnable,</l>
-	<l id='472'>On verra mon bon coeur, quand nous serons à table,</l>
-	<l id='473'>Je leur fais un présent qui vaut bien... Cent maris.</l>
+	<l id='471'>Baise moi mes Amours... Te voilÃ  raisonnable,</l>
+	<l id='472'>On verra mon bon coeur, quand nous serons Ã  table,</l>
+	<l id='473'>Je leur fais un prÃ©sent qui vaut bien... Cent maris.</l>
 </sp>
 <sp who='CLORINDE'><speaker>CLORINDE.</speaker>
-	<l id='474'>Je leur fais épouser pour le moins des Marquis :</l>
-	<l id='475'>De leur âme à l'instant j'ai connu la noblesse ;</l>
-	<l id='476'>Elles ont de grands biens ; la beauté, la sagesse :</l>
+	<l id='474'>Je leur fais Ã©pouser pour le moins des Marquis :</l>
+	<l id='475'>De leur Ã¢me Ã  l'instant j'ai connu la noblesse ;</l>
+	<l id='476'>Elles ont de grands biens ; la beautÃ©, la sagesse :</l>
 	<l id='477' part='i'>Que leur faut-il de plus ?</l>
 </sp>
 <sp who='BABOT'><speaker>BABOT, bas.</speaker>
-	<l id='477' part='f'>C'est fort bien engeôler.</l>
+	<l id='477' part='f'>C'est fort bien engeÃ´ler.</l>
 </sp>
 <sp who='CHAMPAGNE'><speaker>CHAMPAGNE.</speaker>
-	<l id='478'>Et toi coquine, aussi voudrais-tu m'enrôler ?</l>
+	<l id='478'>Et toi coquine, aussi voudrais-tu m'enrÃ´ler ?</l>
 </sp>
 <sp who='BROTON'><speaker>MONSIEUR BROTON.</speaker>
-	<l id='479'>Allons boire aux accords de Victoire et Léandre ;</l>
+	<l id='479'>Allons boire aux accords de Victoire et LÃ©andre ;</l>
 	<l id='480'>Et vive le bon vin qui me procure un gendre !</l>
 </sp>
 <sp who='BABOT'><speaker>BABOT.</speaker>
-	<l id='481'>L'amour avec Bacchus est au moins de moitié.</l>
+	<l id='481'>L'amour avec Bacchus est au moins de moitiÃ©.</l>
 </sp>
 <sp who='VICTOIRE'><speaker>VICTOIRE.</speaker>
-	<l id='482'>Couronnez ce beau jour par la douce amitié :</l>
-	<l id='483'>Je l'espère, mes soeurs, puisque tout m'autorise.</l>
+	<l id='482'>Couronnez ce beau jour par la douce amitiÃ© :</l>
+	<l id='483'>Je l'espÃ¨re, mes soeurs, puisque tout m'autorise.</l>
 </sp>
 <sp who='CATHIS'><speaker>CATHIS.</speaker>
-	<l id='484'>On vous fréquentera quand on sera Marquise.</l>
+	<l id='484'>On vous frÃ©quentera quand on sera Marquise.</l>
 </sp>
 </div2>
 </div1>
 </body>
 </text>
-</TEI.2>
+</TEI>

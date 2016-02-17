@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding='iso-8859-1'?>
-<TEI.2>
+<?xml version="1.0" encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
 <teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>LE FAUCON, COMÉDIE</title>
-				<author born='1664' born_location='Orléans' death='1745' death_location='Paris' academie=''>BARBIER, Marie-Anne</author>
+				<title>LE FAUCON, COMÃ‰DIE</title>
+				<author born='1664' born_location='OrlÃ©ans' death='1745' death_location='Paris' academie=''>BARBIER, Marie-Anne</author>
 			</titleStmt>
 			<publicationStmp>	
-				<p>publié par Paul FIEVRE, juillet 2013</p>
+				<p>publiÃ© par Paul FIEVRE, juillet 2013</p>
 			</publicationStmp>
 			<SourceDesc>
-				<genre>Comédie</genre>
-				<inspiration>moeurs françaises</inspiration>
+				<genre>ComÃ©die</genre>
+				<inspiration>moeurs franÃ§aises</inspiration>
 				<structure>Un acte</structure>
 				<type>vers</type>
 				<periode>1711-1720</periode>
@@ -28,9 +28,9 @@
 	<front>
 		<docTitle>
 			<titlePart type="main">LE FAUCON</titlePart>
-			<titlePart type="sub">COMÉDIE</titlePart>
+			<titlePart type="sub">COMÃ‰DIE</titlePart>
 		</docTitle> 
-		<docDate value='1719'>M. DCC. XIX. AVEC PRIVILÈGE DU ROI.</docDate>
+		<docDate value='1719'>M. DCC. XIX. AVEC PRIVILÃˆGE DU ROI.</docDate>
 		<docAuthor id='BARBIER, Marie-Anne' bio='dancourt'>De Melle BARBIER</docAuthor>
 		<docImprint>
 		<privilege id=''></privilege>
@@ -39,51 +39,51 @@
 		</docImprint>
 		<printer id=''></printer>
 		<performance>
-			<premiere date='1719-09-01' location='Théâtre de la rue des Fossés Saint-Germain'>Représentée, pour la première fois, le 1 septembre 1719 au Théâtre de la rue des Fossés Saint-Germain.</premiere>
+			<premiere date='1719-09-01' location='ThÃ©Ã¢tre de la rue des FossÃ©s Saint-Germain'>ReprÃ©sentÃ©e, pour la premiÃ¨re fois, le 1 septembre 1719 au ThÃ©Ã¢tre de la rue des FossÃ©s Saint-Germain.</premiere>
 		</performance>
 			
 		<castList><head>ACTEURS</head>
 			<castItem><role id='FEDERIC' civil='M' type="H" statut='bourgeois' age='A' stat_amour='amoureux'>FEDERIC</role>, Amant d'Axiane.</castItem>
 			<castItem><role id='AXIANE' civil='M' type="H" statut='bourgeois' age='A' stat_amour='amoureux'>AXIANE</role>, Amante de Federic.</castItem>
-			<castItem><role id='PASQUIN' civil='M' type="H" statut='valet' age='A' stat_amour='néant'>PASQUIN</role>, Valet de Federic.</castItem>
-			<castItem><role id='LISETTE' civil='M' type="H" statut='suivante' age='A' stat_amour='néant'>LISETTE</role>, Suivante d'Axiane.</castItem>
+			<castItem><role id='PASQUIN' civil='M' type="H" statut='valet' age='A' stat_amour='nÃ©ant'>PASQUIN</role>, Valet de Federic.</castItem>
+			<castItem><role id='LISETTE' civil='M' type="H" statut='suivante' age='A' stat_amour='nÃ©ant'>LISETTE</role>, Suivante d'Axiane.</castItem>
 		</castList>
-		<set location='Créteil' country='France' periode='XVIIème' link=''>La Scène est devant un vieux Château, situé dans le fond d'un Bois.</set>
+		<set location='CrÃ©teil' country='France' periode='XVIIÃ¨me' link=''>La ScÃ¨ne est devant un vieux ChÃ¢teau, situÃ© dans le fond d'un Bois.</set>
 	</front>
 <body>
-<div1 type='acte' n='1'><head>ACTE I</head>
-<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Federic, Pasquin tenant un Faucon sur le poing.</head> 
+<div1 type="act" n='1'><head>ACTE I</head>
+<div2 type="scene" n='1'><head>SCÃˆNE PREMIÃˆRE. Federic, Pasquin tenant un Faucon sur le poing.</head> 
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
-	<l id="1" part='i'>Te voilà bien chagrin ?</l>
+	<l id="1" part='i'>Te voilÃ  bien chagrin ?</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 	<l id="1" part='f'>N'en ai-je pas raison ?</l>
-	<l id="2">Vainement dans les airs vous lâchez ce faucon ;</l>
+	<l id="2">Vainement dans les airs vous lÃ¢chez ce faucon ;</l>
 	<l id="3" part='i'>Il ne rapporte rien.</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
-<note type="L">Maraud : Terme injurieux qui se dit des gueux, des coquins qui n'ont ni bien ni honneur, qui sont capables de faire toutes sortes de lâchetés. [F]</note>
-	<l id="3" part='f'>Hé, maraud, que t'importe ?</l>
+<note type="L">Maraud : Terme injurieux qui se dit des gueux, des coquins qui n'ont ni bien ni honneur, qui sont capables de faire toutes sortes de lÃ¢chetÃ©s. [F]</note>
+	<l id="3" part='f'>HÃ©, maraud, que t'importe ?</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 	<l id="4">Comment ! Nous ne vivons que de ce qu'il rapporte :</l>
 	<l id="5">Il nous a jusqu'ici fourni quelques repas ;</l>
 	<l id="6">Mais il ne vaut plus rien depuis qu'il est si gras;</l>
 	<l id="7">Ah ! Que j'aime un Oiseau, qui par un seul coup d'aIle,</l>
-	<l id="8">S'en va me tenir lieu de pourvoyeur fidèle !</l>
-	<l id="9">Je voudrais que son vol fut plus prompt qu'un éclair :</l>
+	<l id="8">S'en va me tenir lieu de pourvoyeur fidÃ¨le !</l>
+	<l id="9">Je voudrais que son vol fut plus prompt qu'un Ã©clair :</l>
 	<l id="10">J'appelle tels oiseaux les pirates de l'air.</l>
-	<l id="11">Un Vaisseau trop chargé, Monsieur, n'avance guère,</l>
+	<l id="11">Un Vaisseau trop chargÃ©, Monsieur, n'avance guÃ¨re,</l>
 	<l id="12">Et le meilleur voilier, est le meilleur corsaire.</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
-	<l id="13">Rassure-toi, le jour n'est pas encor passé.</l>
+	<l id="13">Rassure-toi, le jour n'est pas encor passÃ©.</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
-	<l id="14">Ah ! Le petit ingrat, je l'ai trop engraissé ;</l>
-	<l id="15">Et pour ma récompense il veut que je maigrisse :</l>
-	<l id="16">Tenez, voyez plutôt, j'ai déjà la jaunisse,</l>
-	<l id="17">Me voilà saffrané jusques au blanc des yeux.</l>
+	<l id="14">Ah ! Le petit ingrat, je l'ai trop engraissÃ© ;</l>
+	<l id="15">Et pour ma rÃ©compense il veut que je maigrisse :</l>
+	<l id="16">Tenez, voyez plutÃ´t, j'ai dÃ©jÃ  la jaunisse,</l>
+	<l id="17">Me voilÃ  saffranÃ© jusques au blanc des yeux.</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
 	<l id="18" part='i'>Tant mieux.</l>
@@ -95,24 +95,24 @@
 	<l id="18" part='f'>Tant mieux, Pasquin, tant mieux.</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
-	<l id="19" part='i'>Dites plutôt, tant pis.</l>
+	<l id="19" part='i'>Dites plutÃ´t, tant pis.</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
-	<l id="19" part='m'>Hé ! Hé ! Hé !</l>
+	<l id="19" part='m'>HÃ© ! HÃ© ! HÃ© !</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 	<l id="19" part='f'>Pourquoi rire ?</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
-	<l id="20">Hé ! Qui ne rirait pas ? Ne viens-tu pas de dire,</l>
+	<l id="20">HÃ© ! Qui ne rirait pas ? Ne viens-tu pas de dire,</l>
 	<l id="21">Que depuis qu'il est gras ce faucon ne vaut rien ?</l>
-	<l id="22">Prononçant son arrêt tu prononces le tien ;</l>
-	<l id="23">À te faire jeûner je mettrai mon étude ;</l>
+	<l id="22">PrononÃ§ant son arrÃªt tu prononces le tien ;</l>
+	<l id="23">Ã€ te faire jeÃ»ner je mettrai mon Ã©tude ;</l>
 	<l id="24" part='i'>Tu n'en vaudras que mieux.</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
-	<l id="24" part='f'>L'épreuve est un peu rude ;</l>
-	<l id="25">Et s'il y faut venir, je ne vous réponds pas,</l>
+	<l id="24" part='f'>L'Ã©preuve est un peu rude ;</l>
+	<l id="25">Et s'il y faut venir, je ne vous rÃ©ponds pas,</l>
 	<l id="26">De m'attacher ici plus longtemps sur vos pas.</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
@@ -120,79 +120,79 @@
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 	<l id="27" part='f'>J'irai trouver Lisette ;</l>
-	<l id="28">Pour me mettre à l'abri d'une affreuse disette :</l>
-	<l id="29">Dans ce triste séjour, on ne fait que jeûner ;</l>
-	<l id="30">L'Oiseau n'a-t-il rien pris ? Il ne faut point dîner ?</l>
-	<l id="31">Voilà ce qu'ont produit vos feux pour Axiane :</l>
-	<l id="32">J'en enrage ; à jeûner, c'est ce qui me condamne.</l>
+	<l id="28">Pour me mettre Ã  l'abri d'une affreuse disette :</l>
+	<l id="29">Dans ce triste sÃ©jour, on ne fait que jeÃ»ner ;</l>
+	<l id="30">L'Oiseau n'a-t-il rien pris ? Il ne faut point dÃ®ner ?</l>
+	<l id="31">VoilÃ  ce qu'ont produit vos feux pour Axiane :</l>
+	<l id="32">J'en enrage ; Ã  jeÃ»ner, c'est ce qui me condamne.</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
-	<l id="33">Ce jeûne-là, Pasquin, te tient bien fort au coeur ?</l>
+	<l id="33">Ce jeÃ»ne-lÃ , Pasquin, te tient bien fort au coeur ?</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
-	<l id="34">Oui, c'est-là le sujet de ma triste langueur.</l>
+	<l id="34">Oui, c'est-lÃ  le sujet de ma triste langueur.</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
 	<l id="35" part='i'>Le terme est un peu fort.</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 	<l id="35" part='f'>Il est de votre style ;</l>
-	<l id="36">Doux, tendre, pathétique, et pourtant inutile.</l>
+	<l id="36">Doux, tendre, pathÃ©tique, et pourtant inutile.</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
-	<l id="37">Poursuis ; tout à loisir je te laisse jaser.</l>
+	<l id="37">Poursuis ; tout Ã  loisir je te laisse jaser.</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
-	<l id="38">Nous voici dans un lieu propre à moraliser.</l>
-	<l id="39">Cà, raisonnons un peu : pour plaire à votre ingrate,</l>
-	<l id="40">Dont malgré ses rigueurs le souvenir vous flatte,</l>
-	<l id="41">Vous n'avez épargné ni bijoux, ni cadeaux :</l>
-	<l id="42">Pour elle tous les jours c'étaient plaisirs nouveaux,</l>
-<note type="L">Bombance : Vieux mot qui signifint, grande dépense faite pour la parade, pour la vanité. On s'en peut encore servir aujourd'hui, pourvu que ce soit en riant, en goguenardant, en imitant le style du siècle précédent. [F]</note>
-	<l id="43">Comédie, Opéra, bombance sur bombance :</l>
+	<l id="38">Nous voici dans un lieu propre Ã  moraliser.</l>
+	<l id="39">CÃ , raisonnons un peu : pour plaire Ã  votre ingrate,</l>
+	<l id="40">Dont malgrÃ© ses rigueurs le souvenir vous flatte,</l>
+	<l id="41">Vous n'avez Ã©pargnÃ© ni bijoux, ni cadeaux :</l>
+	<l id="42">Pour elle tous les jours c'Ã©taient plaisirs nouveaux,</l>
+<note type="L">Bombance : Vieux mot qui signifint, grande dÃ©pense faite pour la parade, pour la vanitÃ©. On s'en peut encore servir aujourd'hui, pourvu que ce soit en riant, en goguenardant, en imitant le style du siÃ¨cle prÃ©cÃ©dent. [F]</note>
+	<l id="43">ComÃ©die, OpÃ©ra, bombance sur bombance :</l>
 	<l id="44">Cependant, de vos soins, quelle est la recompense ?</l>
 	<l id="45">L'Amour qui vous a fait consumer votre bien,</l>
-	<l id="46">Est ce faucon lâché, qui ne rapporte rien.</l>
+	<l id="46">Est ce faucon lÃ¢chÃ©, qui ne rapporte rien.</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
 	<l id="47" part='i'>Quoi ! Des comparaisons !</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 	<l id="47" part='f'>Ce sont sages paroles ;</l>
-<note type="L">Fariboles : contes ; choses vaines qui ne méritent aucne considération. [F]</note>
-	<l id="48">Mais vous les écoutez comme des fariboles,</l>
-	<l id="49">Que d'un air dédaigneux il faut mettre à l'écart ;</l>
-	<l id="50">Et d'ailleurs mes leçons viennent un peu tard.</l>
+<note type="L">Fariboles : contes ; choses vaines qui ne mÃ©ritent aucne considÃ©ration. [F]</note>
+	<l id="48">Mais vous les Ã©coutez comme des fariboles,</l>
+	<l id="49">Que d'un air dÃ©daigneux il faut mettre Ã  l'Ã©cart ;</l>
+	<l id="50">Et d'ailleurs mes leÃ§ons viennent un peu tard.</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
-	<l id="51">Moraliseur fâcheux, n'as-tu plus rien à dire ?</l>
+	<l id="51">Moraliseur fÃ¢cheux, n'as-tu plus rien Ã  dire ?</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 	<l id="52" part='i'>Quoi ! Vous ne pleurez pas !</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
-	<l id="52" part='f'>Va, je n'aime qu'à rire.</l>
+	<l id="52" part='f'>Va, je n'aime qu'Ã  rire.</l>
 	<l id="53">Philosophe nouveau, tu le sais bien. Pasquin,</l>
-	<l id="54">Plus l'amour autrefois m'a causé de chagrin,</l>
-	<l id="55">Plus mon coeur du repos goûte aujourd'hui les charmes ;</l>
-	<l id="56">La molle oisiveté succède à mille alarmes :</l>
-	<l id="57">Si j'ai vu tant de soins, tant d'amour négligé,</l>
-	<l id="58">Par un profond oubli n'en suis-je pas vengés ?</l>
+	<l id="54">Plus l'amour autrefois m'a causÃ© de chagrin,</l>
+	<l id="55">Plus mon coeur du repos goÃ»te aujourd'hui les charmes ;</l>
+	<l id="56">La molle oisivetÃ© succÃ¨de Ã  mille alarmes :</l>
+	<l id="57">Si j'ai vu tant de soins, tant d'amour nÃ©gligÃ©,</l>
+	<l id="58">Par un profond oubli n'en suis-je pas vengÃ©s ?</l>
 	<l id="59">Je l'avoue, Axiane est toujours jeune et belle,</l>
-	<l id="60">Elle mérite bien le soin qu'on prend pour elle ;</l>
-	<l id="61">Mais par sa cruauté mon espoir démenti,</l>
-	<l id="62">M'a fait résoudre enfin à prendre mon parti.</l>
+	<l id="60">Elle mÃ©rite bien le soin qu'on prend pour elle ;</l>
+	<l id="61">Mais par sa cruautÃ© mon espoir dÃ©menti,</l>
+	<l id="62">M'a fait rÃ©soudre enfin Ã  prendre mon parti.</l>
 	<l id="63">Tiens, sa maison des Champs n'est pas loin de la mienne,</l>
 	<l id="64">Vers moi tranquillement j'attendrai qu'elle vienne :</l>
 	<l id="65">Moi, je l'irais chercher ! Qu'elle n'y compte pas,</l>
 	<l id="66">Dussai-je autant d'amour que je lui sais d'appas :</l>
-	<l id="67" part='i'>Non, je fuis trop piqué.</l>
+	<l id="67" part='i'>Non, je fuis trop piquÃ©.</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
-	<l id="67" part='f'>Monsieur, je me défie</l>
-	<l id="68">D'un dépit si contraire à la Philosophie ;</l>
-	<l id="69">Votre coeur me paraît un peu trop agité :</l>
-	<l id="70">Ne sauriez-vous haïr avec tranquillité ?</l>
+	<l id="67" part='f'>Monsieur, je me dÃ©fie</l>
+	<l id="68">D'un dÃ©pit si contraire Ã  la Philosophie ;</l>
+	<l id="69">Votre coeur me paraÃ®t un peu trop agitÃ© :</l>
+	<l id="70">Ne sauriez-vous haÃ¯r avec tranquillitÃ© ?</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
 	<l id="71">Moi, je ne la hais point ; mais du moins je te jure</l>
@@ -200,39 +200,39 @@
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 	<l id="72" part='f'>Je crains peu le parjure :</l>
-	<l id="73">On ne peut qu'à grands frais se montrer son amant,</l>
-	<l id="74">Et votre pauvreté me répond du serment :</l>
-	<l id="75" part='i'>Ah ! Qu'il eût mieux valu...</l>
+	<l id="73">On ne peut qu'Ã  grands frais se montrer son amant,</l>
+	<l id="74">Et votre pauvretÃ© me rÃ©pond du serment :</l>
+	<l id="75" part='i'>Ah ! Qu'il eÃ»t mieux valu...</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
 	<l id="75" part='f'>Toujours de la morale ?</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 	<l id="76">Ce font noires vapeurs que l'abstinence exhale ;</l>
-	<l id="77" part='i'>Mais quand dînerons-nous ?</l>
+	<l id="77" part='i'>Mais quand dÃ®nerons-nous ?</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
-	<l id="77" part='f'>Tu dîneras demain.</l>
+	<l id="77" part='f'>Tu dÃ®neras demain.</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 	<l id="78">Peste soit de l'Amour qui fait mourir de faim.</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
-	<l id="79">Mais toi-même autrefois n'aimais-tu pas Lisette ?</l>
+	<l id="79">Mais toi-mÃªme autrefois n'aimais-tu pas Lisette ?</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
-	<l id="80">Mais, comme sa Maîtresse, était-elle coquette ?</l>
+	<l id="80">Mais, comme sa MaÃ®tresse, Ã©tait-elle coquette ?</l>
 	<l id="81">Du moins dans mes amours je n'ai rien mis du mien.</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
 	<l id="82">Et la grande raison, c'est que tu n'avais rien.</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
-	<l id="83">Qu'importe, à vos dépens je me donnais carrière :</l>
-	<l id="84">Ô Lisette ! Avec toi je faisais chère entière :</l>
+	<l id="83">Qu'importe, Ã  vos dÃ©pens je me donnais carriÃ¨re :</l>
+	<l id="84">Ã” Lisette ! Avec toi je faisais chÃ¨re entiÃ¨re :</l>
 	<l id="85">Que de charmants repas ! Mais regrets superflus !</l>
-	<l id="86">Hélas ! J'en ai tant fait, que je n'en ferai plus :</l>
-	<l id="87">Tous mes plaisirs passés ne sont qu'une ombre vaine ;</l>
+	<l id="86">HÃ©las ! J'en ai tant fait, que je n'en ferai plus :</l>
+	<l id="87">Tous mes plaisirs passÃ©s ne sont qu'une ombre vaine ;</l>
 	<l id="88">Vous avez fait la faute, et j'en porte la peine.</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
@@ -244,12 +244,12 @@
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
 	<l id="91" part='f'>Imite ma sagesse,</l>
-	<l id="92">Oublions pour jamais et suivante et maîtresse ;</l>
+	<l id="92">Oublions pour jamais et suivante et maÃ®tresse ;</l>
 	<l id="93">De la seule raison il faut suivre la loi ;</l>
 	<l id="94">Pour moi je n'aime plus que ce faucon et toi.</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
-	<l id="95">Passe pour le faucon, grâce à votre tendresse,</l>
+	<l id="95">Passe pour le faucon, grÃ¢ce Ã  votre tendresse,</l>
 	<l id="96">Autant que je maigris, tous les jours il engraisse.</l>
 <stage>On entend un bruit de cors.</stage>
 </sp>
@@ -257,76 +257,76 @@
 	<l id="97">Quel bruit vient me frapper ? Cours, va voir ce que c'est.</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
-	<l id="98">À la chasse d'autrui, prenons-nous intérêt ?</l>
+	<l id="98">Ã€ la chasse d'autrui, prenons-nous intÃ©rÃªt ?</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
 	<l id="99" part='i'>N'importe, va savoir...</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 	<l id="99" part='f'>Si c'est votre Diane ?</l>
-	<l id="100" part='i'>Elle aime les forêts.</l>
+	<l id="100" part='i'>Elle aime les forÃªts.</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
 	<l id="100" part='f'>Quoi ! Toujours Axiane ?</l>
-	<l id="101">Pasquin, je te défends de prononcer son nom :</l>
+	<l id="101">Pasquin, je te dÃ©fends de prononcer son nom :</l>
 	<l id="102">Fais ce que je te dis, va, donne ce faucon.</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
-	<l id="103">Tenez : je fuis ravi que l'on m'en débarasse.</l>
+	<l id="103">Tenez : je fuis ravi que l'on m'en dÃ©barasse.</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
 	<l id="104">Cours, et viens m'informer de tout ce qui se passe.</l>
 </sp>
 </div2>
-<div2 type='scene' n='2'><head>SCÈNE II.</head>
+<div2 type="scene" n='2'><head>SCÃˆNE II.</head>
 <sp who='FEDERIC'><speaker>FEDERIC, seul.</speaker>
-	<l id="105">Toi qui d'un vol plus prompt que celui des Zéphirs,</l>
-	<l id="106">T'élances dans les airs au gré de mes désirs ,</l>
-	<l id="107">Et qui dans les forêts à mes leçons docile,</l>
-	<l id="108">Apprens l'art de mêler l'agréable à futile ;</l>
+	<l id="105">Toi qui d'un vol plus prompt que celui des ZÃ©phirs,</l>
+	<l id="106">T'Ã©lances dans les airs au grÃ© de mes dÃ©sirs ,</l>
+	<l id="107">Et qui dans les forÃªts Ã  mes leÃ§ons docile,</l>
+	<l id="108">Apprens l'art de mÃªler l'agrÃ©able Ã  futile ;</l>
 	<l id="109">Cher oiseau, c'en est fait, je veux n'aimer que toi ;</l>
-	<l id="110">J'ai vécu trop longtemps sous une dure loi.</l>
-<stage>On entend encore le bruit de la chasse, qui fait tourner la tête à Federic.</stage>
+	<l id="110">J'ai vÃ©cu trop longtemps sous une dure loi.</l>
+<stage>On entend encore le bruit de la chasse, qui fait tourner la tÃªte Ã  Federic.</stage>
 	<l id="111">Cesse bruit importun, cesse de me distraire,</l>
 	<l id="112">Ne trouble plus la paix de ce bois solitaire ;</l>
-	<l id="113">Dûsses-tu m'annoncer Axiane en ces lieux,</l>
-	<l id="114">Avec tous ses appas la montrer à mes yeux ;</l>
-	<l id="115">À mon fidèle oiseau, mon coeur toujours fidèle ;</l>
+	<l id="113">DÃ»sses-tu m'annoncer Axiane en ces lieux,</l>
+	<l id="114">Avec tous ses appas la montrer Ã  mes yeux ;</l>
+	<l id="115">Ã€ mon fidÃ¨le oiseau, mon coeur toujours fidÃ¨le ;</l>
 	<l id="116">Tout de feu pour lui seul, tout de glace pour elle,</l>
-	<l id="117">Ne lui laissera voir qu'une noble fierté :</l>
-	<l id="118">Ii était dans les fers, il est en liberté.</l>
+	<l id="117">Ne lui laissera voir qu'une noble fiertÃ© :</l>
+	<l id="118">Ii Ã©tait dans les fers, il est en libertÃ©.</l>
 	<l id="119">Quel bonheur de pouvoir dans une paix profonde,</l>
-	<l id="120">Pour n'être qu'à soi-même, oublier tout le monde !</l>
+	<l id="120">Pour n'Ãªtre qu'Ã  soi-mÃªme, oublier tout le monde !</l>
 <stage>Le bruit de chasse continue.</stage>
-	<l id="121">Hé quoi ! Ce bruit fâcheux vient toujours me frapper ?</l>
-	<l id="122">Cher oiseau de toi seul je prétends m'occuper :</l>
+	<l id="121">HÃ© quoi ! Ce bruit fÃ¢cheux vient toujours me frapper ?</l>
+	<l id="122">Cher oiseau de toi seul je prÃ©tends m'occuper :</l>
 	<l id="123">Non, je ne veux plus voir l'insensible, l'Ingrate,</l>
-	<l id="124">Qui peut-être en secret de mon retour se flatte.</l>
+	<l id="124">Qui peut-Ãªtre en secret de mon retour se flatte.</l>
 	<l id="125">Je veux bien convenir qu'elle avait mille attraits ;</l>
-	<l id="126">Qu'il partait de ces yeux d'inévitables traits :</l>
-	<l id="127">Je veux de sa beauté conserver la mémoire ;</l>
+	<l id="126">Qu'il partait de ces yeux d'inÃ©vitables traits :</l>
+	<l id="127">Je veux de sa beautÃ© conserver la mÃ©moire ;</l>
 	<l id="128">Mais c'est pour ma vengeance, et non pas pour sa gloire :</l>
-	<l id="129">Si je l'élève ici, c'est pour l'humilier,</l>
+	<l id="129">Si je l'Ã©lÃ¨ve ici, c'est pour l'humilier,</l>
 	<l id="130">Et je ne m'en souviens, que pour mieux l'oublier.</l>
-	<l id="131" part='i'>Mais j'aperçois Pasquin.</l>
+	<l id="131" part='i'>Mais j'aperÃ§ois Pasquin.</l>
 </sp>
 </div2>
-<div2 type='scene' n='3'><head>SCÈNE III. Federic, PASQUIN.</head>
+<div2 type="scene" n='3'><head>SCÃˆNE III. Federic, PASQUIN.</head>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
-	<l id="131" part='f'>Hé bien ! Quelle nouvelle ?</l>
+	<l id="131" part='f'>HÃ© bien ! Quelle nouvelle ?</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 	<l id="132">Ah ! Monsieur, il n'en fut jamais de plus cruelle :</l>
 	<l id="133">Ouf ! Je ne puis parler tant je suis confondu.</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
-	<l id="134" part='i'>Qu'est-il donc arrivé ? Parle.</l>
+	<l id="134" part='i'>Qu'est-il donc arrivÃ© ? Parle.</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 	<l id="134" part='f'>Tout est perdu.</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
-	<l id="135">Quel étrange accident, Pasquin, viens-tu m'apprendre ?</l>
+	<l id="135">Quel Ã©trange accident, Pasquin, viens-tu m'apprendre ?</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 	<l id="136">Tremblez, votre Axiane en ces lieux va se rendre.</l>
@@ -336,37 +336,37 @@
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 	<l id="137" part='f'>Ce n'est pas tout : pour nous assassiner,</l>
-	<l id="138">C'est peu que d'y venir, elle y prétend dîner.</l>
+	<l id="138">C'est peu que d'y venir, elle y prÃ©tend dÃ®ner.</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
-	<l id="139">Ô comble de bonheur ! Pasquin, un tête-à-tête !</l>
-	<l id="140">Qu'à la bien recevoir à l'envi tout s'apprête.</l>
-	<l id="141">Adorable beauté ! Que ne puisse à tes yeux</l>
+	<l id="139">Ã” comble de bonheur ! Pasquin, un tÃªte-Ã -tÃªte !</l>
+	<l id="140">Qu'Ã  la bien recevoir Ã  l'envi tout s'apprÃªte.</l>
+	<l id="141">Adorable beautÃ© ! Que ne puisse Ã  tes yeux</l>
 	<l id="142">Prodiguer l'ambroisie, et le nectar des Dieux ?</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 	<l id="143">Que parlez-vous ici de nectar, d'ambroisie ?</l>
-	<l id="144">L'Amour vous a-t-il fait tomber en frénésie ?</l>
+	<l id="144">L'Amour vous a-t-il fait tomber en frÃ©nÃ©sie ?</l>
 	<l id="145">Ne vous souvient-il plus de cet ordre inhumain,</l>
-	<l id="146">Qui tantôt pour dîner m'a remis à demain ?</l>
+	<l id="146">Qui tantÃ´t pour dÃ®ner m'a remis Ã  demain ?</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
 	<l id="147" part='i'>Que me rappelles-tu ?</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
-	<l id="147" part='f'>Cet oiseau si fidèle</l>
+	<l id="147" part='f'>Cet oiseau si fidÃ¨le</l>
 	<l id="148" part='i'>Vous sert mal au besoin.</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
-	<l id="148" part='f'>Ô fortune cruelle !</l>
-	<l id="149">Ne m'as-tu pas encor assez persécuté ?</l>
-	<l id="150">Je te pardonnerais de m'avoir tout ôté,</l>
+	<l id="148" part='f'>Ã” fortune cruelle !</l>
+	<l id="149">Ne m'as-tu pas encor assez persÃ©cutÃ© ?</l>
+	<l id="150">Je te pardonnerais de m'avoir tout Ã´tÃ©,</l>
 	<l id="151">Si du moins pour premier et pour dernier office</l>
 	<l id="152">Dans ce pressant besoin je te trouvais propice.</l>
 	<l id="153" part='i'>Pasquin ?</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
-	<l id="153" part='m'>Hé bien ! Pasquin ?</l>
+	<l id="153" part='m'>HÃ© bien ! Pasquin ?</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
 	<l id="153" part='f'>N'imagines-tu rien ?</l>
@@ -376,26 +376,26 @@
 	<l id="154" part='m'>Monsieur...</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
-	<l id="154" part='m'>Hé bien ! Dépêche.</l>
+	<l id="154" part='m'>HÃ© bien ! DÃ©pÃªche.</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
-	<l id="154" part='f'>Hé bien !</l>
+	<l id="154" part='f'>HÃ© bien !</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
-	<l id="155" part='i'>Quoi ! Toi-même au besoin tu me manques ?</l>
+	<l id="155" part='i'>Quoi ! Toi-mÃªme au besoin tu me manques ?</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 	<l id="155" part='f'>J'enrage.</l>
 	<l id="156">De rien on ne fait rien ; et le diable, je gage,</l>
-	<l id="157">S'il était comme moi dans un si mauvais pas,</l>
+	<l id="157">S'il Ã©tait comme moi dans un si mauvais pas,</l>
 	<l id="158">Tout inventif qu'il est, ne s'en tirerait pas.</l>
 	<l id="159" part='i'>Je ne sais qu'un moyen.</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
-	<l id="159" part='f'>Ah ! Que j'aime ton zèle !</l>
+	<l id="159" part='f'>Ah ! Que j'aime ton zÃ¨le !</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
-	<l id="160">C'est de vous éclipser aux yeux de votre belle.</l>
+	<l id="160">C'est de vous Ã©clipser aux yeux de votre belle.</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
 	<l id="161">Que me proposes-tu ? Je fuirais ses beaux yeux ?</l>
@@ -404,77 +404,77 @@
 	<l id="162">Voyez, imaginez, quelque chose de mieux.</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
-	<l id="163">De grâce, cher Pasquin, montre ici ton adresse.</l>
+	<l id="163">De grÃ¢ce, cher Pasquin, montre ici ton adresse.</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
-	<l id="164" part='i'>Elle est à bout.</l>
+	<l id="164" part='i'>Elle est Ã  bout.</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
 	<l id="164" part='f'>Ah ! Ciel ! Cependant le temps presse ;</l>
 	<l id="165">Et l'objet de mes feux sans doute n'est pas loin ;</l>
 	<l id="166">Il y va de ma gloire, il faut en prendre soin :</l>
 	<l id="167">Il faut, quoi qu'il arrive, aux yeux de ce que j'aime</l>
-	<l id="168">Dérober, s'il se peut, mon indigence extrême.</l>
+	<l id="168">DÃ©rober, s'il se peut, mon indigence extrÃªme.</l>
 	<l id="169" part='i'>Amour, inspire-moi.</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
-	<l id="169" part='f'>Ma foi, jusqu'à ce jour</l>
-	<l id="170">Rien de bon ne vous fut inspiré par l'amour.</l>
+	<l id="169" part='f'>Ma foi, jusqu'Ã  ce jour</l>
+	<l id="170">Rien de bon ne vous fut inspirÃ© par l'amour.</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC, lui parlant bas.</speaker>
-	<l id="171" part='i'>On vient. Écoute.</l>
+	<l id="171" part='i'>On vient. Ã‰coute.</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
-	<l id="171" part='f'>Ciel ! Je pourrais m'y résoudre !</l>
-	<l id="172">Ah ! Que je sois plutôt écrasé de la foudre,</l>
+	<l id="171" part='f'>Ciel ! Je pourrais m'y rÃ©soudre !</l>
+	<l id="172">Ah ! Que je sois plutÃ´t Ã©crasÃ© de la foudre,</l>
 	<l id="173" part='i'>Monsieur....</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
-	<l id="173" part='f'>Épargne-toi des conseils superflus,</l>
-	<l id="174">Emporte ce Faucon, et ne réplique plus.</l>
+	<l id="173" part='f'>Ã‰pargne-toi des conseils superflus,</l>
+	<l id="174">Emporte ce Faucon, et ne rÃ©plique plus.</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 	<l id="175" part='i'>Je suis mort.</l>
 </sp>
 </div2>
-<div2 type='scene' n='4'><head>SCÈNE IV. Federic, Axiane e, habit de chasse, et Lisette.</head>
+<div2 type="scene" n='4'><head>SCÃˆNE IV. Federic, Axiane e, habit de chasse, et Lisette.</head>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
 	<l id="175" part='f'>Quoi ! C'est vous, trop aimable inhumaine !</l>
-	<l id="176">Auprès de Federic quel destin vous amène ?</l>
-	<l id="177">J'avais cru pour jamais être oublié de vous.</l>
+	<l id="176">AuprÃ¨s de Federic quel destin vous amÃ¨ne ?</l>
+	<l id="177">J'avais cru pour jamais Ãªtre oubliÃ© de vous.</l>
 </sp>
 <sp who='AXIANE'><speaker>AXIANE.</speaker>
 	<l id="178">Il faut bien vous chercher, quand vous nous fuyez tous.</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
-	<l id="179">Hélas ! En vous fuyant, je fuis tout ce que j'aime ;</l>
-	<l id="180">Et m'arrachant à vous, je m'arrache à moi-même :</l>
-	<l id="181">Mais je me cache en vain dans le fond des forêts ;</l>
-	<l id="182">Des yeux qui m'ont blessé, jc sens partout les traits.</l>
-	<l id="183">Se peut-il que l'Amour survive à l'espérance ?</l>
+	<l id="179">HÃ©las ! En vous fuyant, je fuis tout ce que j'aime ;</l>
+	<l id="180">Et m'arrachant Ã  vous, je m'arrache Ã  moi-mÃªme :</l>
+	<l id="181">Mais je me cache en vain dans le fond des forÃªts ;</l>
+	<l id="182">Des yeux qui m'ont blessÃ©, jc sens partout les traits.</l>
+	<l id="183">Se peut-il que l'Amour survive Ã  l'espÃ©rance ?</l>
 </sp>
 <sp who='AXIANE'><speaker>AXIANE.</speaker>
-	<l id="184">Vous plaindrez-vous toujours de mon indifférence ?</l>
+	<l id="184">Vous plaindrez-vous toujours de mon indiffÃ©rence ?</l>
 	<l id="185">L'Amour a des tourments quii doivent m'alarmer,</l>
-	<l id="186">Et mon coeur à ce prix ne veut pas s'enflammer.</l>
+	<l id="186">Et mon coeur Ã  ce prix ne veut pas s'enflammer.</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
-	<l id="187">Quoi ! Je ne puis prétendre au bonheur de vous plaire ?</l>
+	<l id="187">Quoi ! Je ne puis prÃ©tendre au bonheur de vous plaire ?</l>
 </sp>
 <sp who='AXIANE'><speaker>AXIANE.</speaker>
-	<l id="188">Avez-vous des rivaux que mon coeur vous préfère ?</l>
+	<l id="188">Avez-vous des rivaux que mon coeur vous prÃ©fÃ¨re ?</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
 	<l id="189">Le mal de mes rivaux n'adoucit pas le mien :</l>
 	<l id="190">Est ce un bonheur pour moi que ce coeur n'aime rien ?</l>
-	<l id="191">Que dis-je ? Pour ma flamme il vaudrait mieux peut-être,</l>
-	<l id="192">Qu'un Rival plus heureux eût su s'en rendre maître ;</l>
+	<l id="191">Que dis-je ? Pour ma flamme il vaudrait mieux peut-Ãªtre,</l>
+	<l id="192">Qu'un Rival plus heureux eÃ»t su s'en rendre maÃ®tre ;</l>
 	<l id="193">Comme j'ai plus d'amour, je pourrais aspirer</l>
-	<l id="194">Au bonheur, sans égal, de me voir préférer.</l>
+	<l id="194">Au bonheur, sans Ã©gal, de me voir prÃ©fÃ©rer.</l>
 </sp>
 <sp who='AXIANE'><speaker>AXIANE.</speaker>
 	<l id="195">Ah ! Ne souhaitez pas qu'un autre objet m'enflamme,</l>
-	<l id="196">Si l'amour une fois s'emparait de mon âme :</l>
+	<l id="196">Si l'amour une fois s'emparait de mon Ã¢me :</l>
 	<l id="197">J'ose vous l'assurer, ce serait pour toujours ;</l>
 	<l id="198">Je me connais trop bien : mais quittons ces discours.</l>
 </sp>
@@ -482,7 +482,7 @@
 	<l id="199">Et pourquoi les quitter ? Craignez-vous d'en trop dire ?</l>
 </sp>
 <sp who='AXIANE'><speaker>AXIANE.</speaker>
-	<l id="200">Mon coeur s'est expliqué, cela vous doit suffire :</l>
+	<l id="200">Mon coeur s'est expliquÃ©, cela vous doit suffire :</l>
 	<l id="201">Croyez que jusqu'ici vous l'avez mal connu,</l>
 	<l id="202">Et qu'un jour... mais ce jour n'est pas encor venu.</l>
 </sp>
@@ -490,40 +490,40 @@
 	<l id="203">Ciel ! qu'entends-je ? Achevez de rompre le silence.</l>
 </sp>
 <sp who='AXIANE'><speaker>AXIANE.</speaker>
-	<l id="204">Arrêtez, ces transports ont trop de violence :</l>
-	<l id="205">Mais je m'en prends à moi, ce que j'ai fait pour vous</l>
-	<l id="206">A donné lieu, Sans doute, à des transports si doux :</l>
-	<l id="207">Détrompez-vous pourtant ? Malgré ce tête-à-tête,</l>
-	<l id="208">Ne me regardez pas comme votre conquête ;</l>
-	<l id="209">À ma présence ici l'amour n'a point de part,</l>
+	<l id="204">ArrÃªtez, ces transports ont trop de violence :</l>
+	<l id="205">Mais je m'en prends Ã  moi, ce que j'ai fait pour vous</l>
+	<l id="206">A donnÃ© lieu, Sans doute, Ã  des transports si doux :</l>
+	<l id="207">DÃ©trompez-vous pourtant ? MalgrÃ© ce tÃªte-Ã -tÃªte,</l>
+	<l id="208">Ne me regardez pas comme votre conquÃªte ;</l>
+	<l id="209">Ã€ ma prÃ©sence ici l'amour n'a point de part,</l>
 	<l id="210">Et vous ne la devez tout au plus qu'au hasard.</l>
-	<l id="211">Après avoir longtemps couru de plaine en plaine,</l>
-	<l id="212">Ma troupe chasse encor dans la forêt prochaine ;</l>
+	<l id="211">AprÃ¨s avoir longtemps couru de plaine en plaine,</l>
+	<l id="212">Ma troupe chasse encor dans la forÃªt prochaine ;</l>
 	<l id="213">Moi, pour me reposer, je viens l'attendre ici.</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
-	<l id="214">Me voilà de mon sort pleinement éclairci.</l>
+	<l id="214">Me voilÃ  de mon sort pleinement Ã©clairci.</l>
 	<l id="215" part='i'>Ah ! cruelle.</l>
 </sp>
 </div2>
-<div2 type='scene' n='5'><head>SCÈNE V. Federic, Axiane, Lisette, Pasquin.</head>
+<div2 type="scene" n='5'><head>SCÃˆNE V. Federic, Axiane, Lisette, Pasquin.</head>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 	<l id="215" part='f'>Monsieur, je n'ai pas le courage</l>
 	<l id="216" part='i'>De...</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC, bas.</speaker>
-	<l id="216" part='f'>Si tu dis un mot, crains d'éprouver ma rage;</l>
+	<l id="216" part='f'>Si tu dis un mot, crains d'Ã©prouver ma rage;</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
-	<l id="217">Dûssai-je être cent fois et mille fois battu ;</l>
+	<l id="217">DÃ»ssai-je Ãªtre cent fois et mille fois battu ;</l>
 	<l id="218" part='i'>J'en aurai le coeur net.</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC, bas.</speaker>
 	<l id="218" part='f'>Bourreau, te tairas-tu ?</l>
-<stage>À Axiane.</stage>
+<stage>Ã€ Axiane.</stage>
 	<l id="219">Madame, pardonnez, pour certaines affaires ;</l>
-	<l id="220">Je donne à ce valet des ordres nécessaires.</l>
-<stage>À Pasquin bas.</stage>
+	<l id="220">Je donne Ã  ce valet des ordres nÃ©cessaires.</l>
+<stage>Ã€ Pasquin bas.</stage>
 	<l id="221" part='i'>Prends garde de broncher. </l>
 <stage>Haut d'un ton radouci.</stage>
 	<l id="221" part='f'>Pasquin, tu m'entends bien,</l>
@@ -534,11 +534,11 @@
 	<l id="224">Ce serait vous trahir que garder le silence.</l>
 	<l id="225" part='i'>Madame.</l>
 </sp>
-<sp who='FEDERIC'><speaker>FEDERIC, à part.</speaker>
+<sp who='FEDERIC'><speaker>FEDERIC, Ã  part.</speaker>
 	<l id="225" part='f'>Ce coquin va me deshonorer ;</l>
-	<l id="226">D'un pas si dangereux, tâchons de nous tirer.</l>
-<stage>À Axiane.</stage>
-	<l id="227">Pasquin depuis un temps est sujet au délire,</l>
+	<l id="226">D'un pas si dangereux, tÃ¢chons de nous tirer.</l>
+<stage>Ã€ Axiane.</stage>
+	<l id="227">Pasquin depuis un temps est sujet au dÃ©lire,</l>
 	<l id="228" part='i'>Il est fou.</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
@@ -546,106 +546,106 @@
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
 	<l id="228" part='f'>Voyez, comme son mal empire ;</l>
-	<l id="229">Il est d'autant plus fou qu'il croit ne l'être pas.</l>
+	<l id="229">Il est d'autant plus fou qu'il croit ne l'Ãªtre pas.</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 	<l id="230" part='i'>Quoi donc ?</l>
 </sp>
-<sp who='FEDERIC'><speaker>FEDERIC, tout bas à Pasquin.</speaker>
-	<l id="230" part='f'>Si tu réponds, je te casse les bras.</l>
+<sp who='FEDERIC'><speaker>FEDERIC, tout bas Ã  Pasquin.</speaker>
+	<l id="230" part='f'>Si tu rÃ©ponds, je te casse les bras.</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 	<l id="231">Je serais trop heureux, si j'en perdais l'usage.</l>
 </sp>
-<sp who='FEDERIC'><speaker>FEDERIC, à Axiane.</speaker>
-	<l id="232">Voyez, comme il répond, et jugez s'il est sage.</l>
+<sp who='FEDERIC'><speaker>FEDERIC, Ã  Axiane.</speaker>
+	<l id="232">Voyez, comme il rÃ©pond, et jugez s'il est sage.</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
-	<l id="233">Ah ! mon pauvre Pasquin : éloignement máudir !</l>
+	<l id="233">Ah ! mon pauvre Pasquin : Ã©loignement mÃ¡udir !</l>
 	<l id="234">En cessant de me voir, il a perdu l'esprit.</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 	<l id="235">C'est bien en vous voyant en ces lieux l'une et l'autre ;</l>
-	<l id="236">Qu'y venez - vous chercher ì Quel malheur est le nôtre!</l>
+	<l id="236">Qu'y venez - vous chercher Ã¬ Quel malheur est le nÃ´tre!</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 	<l id="237">Madame, il est trop vrai ; n'en doutons nullement ;</l>
-	<l id="238">De ses yeux enfoncés, voyez l'égarement,</l>
+	<l id="238">De ses yeux enfoncÃ©s, voyez l'Ã©garement,</l>
 	<l id="239" part='i'>L'amour l'a rendu fou.</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
-	<l id="239" part='f'>Mais toi-même es-tu folle ?</l>
+	<l id="239" part='f'>Mais toi-mÃªme es-tu folle ?</l>
 	<l id="240" part='i'>De croire que l'amour...</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 	<l id="240" part='f'>Cette seule parole</l>
-	<l id="241">Ne me fait que trop voir que son timbre est fêlé,</l>
-	<l id="242">ll peut nier qu'il m'aime ! il est ensorcelé.</l>
+	<l id="241">Ne me fait que trop voir que son timbre est fÃªlÃ©,</l>
+	<l id="242">ll peut nier qu'il m'aime ! il est ensorcelÃ©.</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
-	<l id="243">Trêve d'amour, Lisette, et de sorcellerie ;</l>
-	<l id="244">Veux-tu savoir d'où vient toute la diablerie.</l>
+	<l id="243">TrÃªve d'amour, Lisette, et de sorcellerie ;</l>
+	<l id="244">Veux-tu savoir d'oÃ¹ vient toute la diablerie.</l>
 	<l id="245" part='i'>C'est...</l>
 </sp>
-<sp who='FEDERIC'><speaker>FEDERIC, bas à Pasquin.</speaker>
-	<l id="245" part='f'>Pour un mot lâché, deux cents coups de bâton.</l>
+<sp who='FEDERIC'><speaker>FEDERIC, bas Ã  Pasquin.</speaker>
+	<l id="245" part='f'>Pour un mot lÃ¢chÃ©, deux cents coups de bÃ¢ton.</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
-	<l id="246">Ouf ! C'est le prendre là sur un diable de ton.</l>
+	<l id="246">Ouf ! C'est le prendre lÃ  sur un diable de ton.</l>
 </sp>
-<sp who='FEDERIC'><speaker>FEDERIC, à Axiane.</speaker>
-	<l id="247">Je lui dis certains mots d'un Médecin Arabe.</l>
+<sp who='FEDERIC'><speaker>FEDERIC, Ã  Axiane.</speaker>
+	<l id="247">Je lui dis certains mots d'un MÃ©decin Arabe.</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 	<l id="248">Je n'ai garde d'en perdre une seule syllabe :</l>
-	<l id="249">Ce sont mots d'un grand poids, ils opèrent des mieux.</l>
+	<l id="249">Ce sont mots d'un grand poids, ils opÃ¨rent des mieux.</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
 	<l id="250">Voyez, comme son mal lui fait rouler les yeux.</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
-	<l id="251">Que je dise à Lisette un seul mot à l'oreille;</l>
-	<l id="252" part='i'>Écoute.</l>
+	<l id="251">Que je dise Ã  Lisette un seul mot Ã  l'oreille;</l>
+	<l id="252" part='i'>Ã‰coute.</l>
 </sp>
-<sp who='FEDERIC'><speaker>FEDERIC, à Lisette.</speaker>
-	<l id="252" part='f'>Garde-toi d'une épreuve pareille,</l>
+<sp who='FEDERIC'><speaker>FEDERIC, Ã  Lisette.</speaker>
+	<l id="252" part='f'>Garde-toi d'une Ã©preuve pareille,</l>
 	<l id="253" part='i'>Il te l'arracherait.</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 	<l id="253" part='f'>Ah ! ah ! N'approche pas.</l>
-	<l id="254">Je vais m'évanouir si tu fais un seul pas.</l>
+	<l id="254">Je vais m'Ã©vanouir si tu fais un seul pas.</l>
 </sp>
-<sp who='FEDERIC'><speaker>FEDERIC, à Lisette.</speaker>
+<sp who='FEDERIC'><speaker>FEDERIC, Ã  Lisette.</speaker>
 	<l id="255">Il est temps de finir tes mortelles alarmes;</l>
-<stage>À Axiane.</stage>
+<stage>Ã€ Axiane.</stage>
 	<l id="256">Madame ; votre vue a pour moi mille charmes :</l>
 	<l id="257">Mais au mal de Pasquin il faut aller pourvoir,</l>
-	<l id="258">Et préparer ces lieux pour vous y recevoir.</l>
+	<l id="258">Et prÃ©parer ces lieux pour vous y recevoir.</l>
 </sp>
-<sp who='PASQUIN'><speaker>PASQUIN, à Axiane.</speaker>
+<sp who='PASQUIN'><speaker>PASQUIN, Ã  Axiane.</speaker>
 	<l id="259">Allez, vous nous ruinez ; c'est une conscience.</l>
 </sp>
-<sp who='AXIANE'><speaker>AXIANE, à Federic.</speaker>
-	<l id="260">Au moins ne faites pas ici de la dépense ;</l>
+<sp who='AXIANE'><speaker>AXIANE, Ã  Federic.</speaker>
+	<l id="260">Au moins ne faites pas ici de la dÃ©pense ;</l>
 	<l id="261" part='i'>Je ne veux qu'un seul plat.</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
-	<l id="261" part='f'>Un plat, et très léger.</l>
+	<l id="261" part='f'>Un plat, et trÃ¨s lÃ©ger.</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
-	<l id="262">Quelque léger qu'il soit, il nous coûtera cher.</l>
+	<l id="262">Quelque lÃ©ger qu'il soit, il nous coÃ»tera cher.</l>
 </sp>
 </div2>
-<div2 type='scene' n='6'><head>SCÈNE VI. Axiane, Lisette.</head>
+<div2 type="scene" n='6'><head>SCÃˆNE VI. Axiane, Lisette.</head>
 <sp who='AXIANE'><speaker>AXIANE.</speaker>
-	<l id="263" part='i'>Pasquin me fait pitié.</l>
+	<l id="263" part='i'>Pasquin me fait pitiÃ©.</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 	<l id="263" part='f'>Je suis inconsolable.</l>
-	<l id="264">Encor si de son mal j'étais seule coupable ;</l>
+	<l id="264">Encor si de son mal j'Ã©tais seule coupable ;</l>
 	<l id="265">Si pour me trop aimer il perdait la raison,</l>
-	<l id="266">D'où le mal est venu viendrait la guérison ;</l>
-	<l id="267">Je sens que ma fierté rendrait bientôt les armes,</l>
+	<l id="266">D'oÃ¹ le mal est venu viendrait la guÃ©rison ;</l>
+	<l id="267">Je sens que ma fiertÃ© rendrait bientÃ´t les armes,</l>
 	<l id="268">Et d'ailleurs sa folie honorerait mes charmes ;</l>
 	<l id="269">Mais, Madame ; c'est vous que j'en dois accuser.</l>
 </sp>
@@ -653,12 +653,12 @@
 	<l id="270" part='i'>Moi !</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
-	<l id="270" part='f'>Je vous parle ici sans vous rien déguiser,</l>
-	<l id="271">Je vous garantis sous le valet et le maître ;</l>
-	<l id="272">L'un l'est déjà, pour l'autre il n'est pas loin de l'être.</l>
+	<l id="270" part='f'>Je vous parle ici sans vous rien dÃ©guiser,</l>
+	<l id="271">Je vous garantis sous le valet et le maÃ®tre ;</l>
+	<l id="272">L'un l'est dÃ©jÃ , pour l'autre il n'est pas loin de l'Ãªtre.</l>
 </sp>
 <sp who='AXIANE'><speaker>AXIANE.</speaker>
-	<l id="273" part='i'>Tu perds l'esprit toi-même.</l>
+	<l id="273" part='i'>Tu perds l'esprit toi-mÃªme.</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 	<l id="273" part='m'>Oh que non.</l>
@@ -668,22 +668,22 @@
 	<l id="274" part='i'>Que veux-tu dire ?</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
-	<l id="274" part='f'>Hélas ! Si vous plaignez Pasquin,</l>
-	<l id="275">Federic plus que lui sera bientôt à plaindre.</l>
+	<l id="274" part='f'>HÃ©las ! Si vous plaignez Pasquin,</l>
+	<l id="275">Federic plus que lui sera bientÃ´t Ã  plaindre.</l>
 </sp>
 <sp who='AXIANE'><speaker>AXIANE.</speaker>
-	<l id="276">Mais à devenir fou qui pourrait le contraindre ?</l>
+	<l id="276">Mais Ã  devenir fou qui pourrait le contraindre ?</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
-	<l id="277">La faim. Quand malgré soi l'on jeûne trop souvent,</l>
+	<l id="277">La faim. Quand malgrÃ© soi l'on jeÃ»ne trop souvent,</l>
 	<l id="278">L'estomac au cerveau ne porte que du vent.</l>
 	<l id="279">Du corps et de l'esprit la sympathie est telle,</l>
 	<l id="280">Que l'un s'affaiblissant, l'autre baisse et chancelle ;</l>
-	<l id="281">Et voilà ce qui fait que le pauvre Pasquin,</l>
-<note type="L">Petites-maisons : nom donné autrefois à un hôpital de Paris où l'on renfermait les aliénés. [F]</note>
+	<l id="281">Et voilÃ  ce qui fait que le pauvre Pasquin,</l>
+<note type="L">Petites-maisons : nom donnÃ© autrefois Ã  un hÃ´pital de Paris oÃ¹ l'on renfermait les aliÃ©nÃ©s. [F]</note>
 	<l id="282">Des petites-maisons enfilant le chemin,</l>
-	<l id="283">Vient par tous ses discours de vous faire connaître,</l>
-	<l id="284">Qu'il y va préparer la loge de son maître.</l>
+	<l id="283">Vient par tous ses discours de vous faire connaÃ®tre,</l>
+	<l id="284">Qu'il y va prÃ©parer la loge de son maÃ®tre.</l>
 </sp>
 <sp who='AXIANE'><speaker>AXIANE.</speaker>
 	<l id="285">Soit, mais de tout cela suis-je coupable moi ?</l>
@@ -691,34 +691,34 @@
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 	<l id="286">Qui donc ? Morbleu ! Qui donc ? Parlez de bonne foi :</l>
 	<l id="287">Avez-vous pu souffrir en bonne conscience,</l>
-	<l id="288">Que pour vous Federic épuisât fa finance,</l>
-	<l id="289">Que pour vous nuit et jour il fît tant de fracas ?</l>
+	<l id="288">Que pour vous Federic Ã©puisÃ¢t fa finance,</l>
+	<l id="289">Que pour vous nuit et jour il fÃ®t tant de fracas ?</l>
 	<l id="290">Car enfin vous l'aimiez, ou vous ne l'aimiez pas ;</l>
-<note type="L">Trait d'étourdie : trait d'étourderie ; un agissement sans reflexion, sans prendre garde à ce qu'on fait.</note>
-	<l id="291">Parlez : si vous l'aimiez, c'est un trait d'étourdie ;</l>
+<note type="L">Trait d'Ã©tourdie : trait d'Ã©tourderie ; un agissement sans reflexion, sans prendre garde Ã  ce qu'on fait.</note>
+	<l id="291">Parlez : si vous l'aimiez, c'est un trait d'Ã©tourdie ;</l>
 	<l id="292">Si vous ne l'aimiez pas, c'est une perfidie :</l>
-	<l id="293">C'à que répondez-vous sur l'un et l'autre point ?</l>
+	<l id="293">C'Ã  que rÃ©pondez-vous sur l'un et l'autre point ?</l>
 </sp>
 <sp who='AXIANE'><speaker>AXIANE.</speaker>
 	<l id="294">Que j'aime Federic, que je ne l'aime point,</l>
 	<l id="295" part='i'>Qu'importe ?</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
-	<l id="295" part='f'>La réponse est tant soit peu normande,</l>
-	<l id="296">Et c'est ce qu'on appelle éluder la demande.</l>
+	<l id="295" part='f'>La rÃ©ponse est tant soit peu normande,</l>
+	<l id="296">Et c'est ce qu'on appelle Ã©luder la demande.</l>
 </sp>
 <sp who='AXIANE'><speaker>AXIANE.</speaker>
-	<l id="297">Moi ! Je n'élude rien. Choisis ce que tu veux :</l>
+	<l id="297">Moi ! Je n'Ã©lude rien. Choisis ce que tu veux :</l>
 	<l id="298" part='i'>J'aime, je n'aime point.</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 	<l id="298" part='f'>Lequel choisir des deux ?</l>
 </sp>
 <sp who='AXIANE'><speaker>AXIANE.</speaker>
-	<l id="299" part='i'>Tout est égal pour moi.</l>
+	<l id="299" part='i'>Tout est Ã©gal pour moi.</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
-	<l id="299" part='f'>Me voilà bien instruite :</l>
+	<l id="299" part='f'>Me voilÃ  bien instruite :</l>
 	<l id="300">Quoi ? Dans tous vos discours trouver fuite sur fuites !</l>
 	<l id="301" part='i'>Je m'y perds.</l>
 </sp>
@@ -726,14 +726,14 @@
 	<l id="301" part='f'>Mais pourquoi me presses-tu si fort ?</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
-	<l id="302">C'est que de Federic je déplore le sort.</l>
+	<l id="302">C'est que de Federic je dÃ©plore le sort.</l>
 </sp>
 <sp who='AXIANE'><speaker>AXIANE.</speaker>
 	<l id="303" part='i'>Va, ne le plains pas tant.</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 	<l id="303" part='f'>Quoi ! Serait-il possible,</l>
-	<l id="304">Qu'enfin à son amour votre coeur fut sensible ?</l>
+	<l id="304">Qu'enfin Ã  son amour votre coeur fut sensible ?</l>
 </sp>
 <sp who='AXIANE'><speaker>AXIANE.</speaker>
 	<l id="305" part='i'>Je ne dis pas cela.</l>
@@ -743,66 +743,66 @@
 </sp>
 <sp who='AXIANE'><speaker>AXIANE.</speaker>
 	<l id="305" part='f'>Que Federic</l>
-	<l id="306" part='i'>Peut-être n'aime point.</l>
+	<l id="306" part='i'>Peut-Ãªtre n'aime point.</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
-	<l id="306" part='f'>Ha ! Ha ! Voilà le hic.</l>
+	<l id="306" part='f'>Ha ! Ha ! VoilÃ  le hic.</l>
 	<l id="307">Nous n'osons pas aimer, ou nous n'osons le dire,</l>
 	<l id="308">Que sur de bons garants que pour nous on soupire ;</l>
-	<l id="309">Mais quel garant plus sûr voulez-vous de l'amour,</l>
-	<l id="310">Dont Federic pour vous brûla jusqu'à ce jour ?</l>
-	<l id="311">Ces Fêtes, ces cadeaux, cette énorme dépense,</l>
-	<l id="312">Dont il n'obtint jamais la moindre récompense,</l>
-	<l id="313">Et dont il fait ici pénitence à loisir ,</l>
+	<l id="309">Mais quel garant plus sÃ»r voulez-vous de l'amour,</l>
+	<l id="310">Dont Federic pour vous brÃ»la jusqu'Ã  ce jour ?</l>
+	<l id="311">Ces FÃªtes, ces cadeaux, cette Ã©norme dÃ©pense,</l>
+	<l id="312">Dont il n'obtint jamais la moindre rÃ©compense,</l>
+	<l id="313">Et dont il fait ici pÃ©nitence Ã  loisir ,</l>
 	<l id="314" part='i'>Tout cela s'est donc fait, pourquoi ?</l>
 </sp>
 <sp who='AXIANE'><speaker>AXIANE.</speaker>
 	<l id="314" part='f'>Pour son plaisir,</l>
-	<l id="315">Voilà comme ils sont tous. Crédules que nous sommes,</l>
+	<l id="315">VoilÃ  comme ils sont tous. CrÃ©dules que nous sommes,</l>
 	<l id="316">Ne serons-nous jamais que les dupes des hommes.</l>
 	<l id="317">Quoi qu'ils fassent pour nous, toute leur passion</l>
 	<l id="318">N'est qu'orgueil, qu'amour propre, et qu'ostentation.</l>
 	<l id="319">C'est pour faire du bruit seulement que l'on aime ;</l>
-	<l id="320">Le véritable amour s'explique-t-il de même ?</l>
+	<l id="320">Le vÃ©ritable amour s'explique-t-il de mÃªme ?</l>
 	<l id="321">Ne peut-on renfermer son secret dans son coeur,</l>
-	<l id="322">Sans que d'une maîtresse on triomphe en vainqueur ?</l>
-	<l id="323">Je rends à Federic un peu plus de justice ;</l>
+	<l id="322">Sans que d'une maÃ®tresse on triomphe en vainqueur ?</l>
+	<l id="323">Je rends Ã  Federic un peu plus de justice ;</l>
 	<l id="324">Et s'il faut te parler enfin sans artifice ;</l>
 	<l id="325">Mon coeur le distinguait du reste des amants ;</l>
-	<l id="326">Mais combien sont changés mes premiers sentiments,</l>
-	<l id="327">Depuis que loin de moi, méditant sa retraite,</l>
-	<l id="328">Il ne m'en a laissé, que la honte secrète.</l>
-	<l id="329">L'inconstant, à mes yeux soigneux de se cacher ,</l>
-	<l id="330">Triomphe et me réduit à le venir chercher.</l>
+	<l id="326">Mais combien sont changÃ©s mes premiers sentiments,</l>
+	<l id="327">Depuis que loin de moi, mÃ©ditant sa retraite,</l>
+	<l id="328">Il ne m'en a laissÃ©, que la honte secrÃ¨te.</l>
+	<l id="329">L'inconstant, Ã  mes yeux soigneux de se cacher ,</l>
+	<l id="330">Triomphe et me rÃ©duit Ã  le venir chercher.</l>
 	<l id="331">Que dis-je ? Sans raison, vois si je le condamne ;</l>
-	<l id="332">Un oiseau qu'il chérit lui tient lieu d'Axiane,</l>
-	<l id="333">Et je vois dans son coeur succéder en ce jour,</l>
+	<l id="332">Un oiseau qu'il chÃ©rit lui tient lieu d'Axiane,</l>
+	<l id="333">Et je vois dans son coeur succÃ©der en ce jour,</l>
 	<l id="334">La fureur de la chasse aux transports de l'amour ;</l>
 	<l id="335">Et tu te plains encor ! C'est moi que tu dois plaindre.</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
-	<l id="336">Que j'aime à voir enfin que vous cessiez de feindre !</l>
-	<l id="337">Je me doutais déjà que vous l'aimiez un peu.</l>
+	<l id="336">Que j'aime Ã  voir enfin que vous cessiez de feindre !</l>
+	<l id="337">Je me doutais dÃ©jÃ  que vous l'aimiez un peu.</l>
 </sp>
 <sp who='AXIANE'><speaker>AXIANE.</speaker>
 	<l id="338" part='i'>Moi ! l'aimer!</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
-	<l id="338" part='f'>Est-il temps d'en rétracter l'aveu ?</l>
-	<l id="339">Mais, quand de Federic votre coeur se défie,</l>
+	<l id="338" part='f'>Est-il temps d'en rÃ©tracter l'aveu ?</l>
+	<l id="339">Mais, quand de Federic votre coeur se dÃ©fie,</l>
 	<l id="340">Permettez un moment que je le justifie.</l>
 	<l id="341">S'il vous fuit, c'est qu'il craint de vous importuner,</l>
-	<l id="342">Quiconque, comme lui n'a plus rien à donner</l>
-	<l id="343">Auprès d'une Maîtresse est bientôt incommode ;</l>
+	<l id="342">Quiconque, comme lui n'a plus rien Ã  donner</l>
+	<l id="343">AuprÃ¨s d'une MaÃ®tresse est bientÃ´t incommode ;</l>
 	<l id="344">N'aimer que pour aimer ! Ce n'en est plus la mode ;</l>
 	<l id="345">Et l'on risque de perdre, et ses soins et son temps,</l>
-	<l id="346">Quand on ne fait l'amour qu'à beaux soupirs comptants.</l>
+	<l id="346">Quand on ne fait l'amour qu'Ã  beaux soupirs comptants.</l>
 	<l id="347">Pour la chasse, entre nous, fait-il mal quand il l'aime ?</l>
-	<l id="348">Il veut vous imiter, être un autre vous-même.</l>
-	<l id="349">Pour le faucon, malgré votre mauvaise humeur,</l>
-	<l id="350">Je ne puis m'empêcher d'en rire au fond du coeur :</l>
-	<l id="351">Et d'un oiseau chéri vous voyant inquiète,</l>
-	<l id="352">Je vous dirais tout franc, si vous étiez coquette,</l>
+	<l id="348">Il veut vous imiter, Ãªtre un autre vous-mÃªme.</l>
+	<l id="349">Pour le faucon, malgrÃ© votre mauvaise humeur,</l>
+	<l id="350">Je ne puis m'empÃªcher d'en rire au fond du coeur :</l>
+	<l id="351">Et d'un oiseau chÃ©ri vous voyant inquiÃ¨te,</l>
+	<l id="352">Je vous dirais tout franc, si vous Ã©tiez coquette,</l>
 	<l id="353">Qu'avec vous Federic le fait aller de pair, </l>
 	<l id="354">Et qu'il n'a jamais eu que des amours en l'air.</l>
 </sp>
@@ -810,9 +810,9 @@
 	<l id="355">Tais-toi : je n'aime pas sur ce point qu'on plaisante.</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
-	<l id="356">Ah ! Vous le prenez là sur un ton qui m'enchante.</l>
+	<l id="356">Ah ! Vous le prenez lÃ  sur un ton qui m'enchante.</l>
 	<l id="357">Poursuivez : redoublez ce charmant ........</l>
-	<l id="358">Vous ne fûtes jamais plus aimable à mes yeux.</l>
+	<l id="358">Vous ne fÃ»tes jamais plus aimable Ã  mes yeux.</l>
 	<l id="359">Continuez, Madame, aimez qui vous adore :</l>
 	<l id="360" part='i'>Que Federic apprenne...</l>
 </sp>
@@ -821,53 +821,53 @@
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 	<l id="361">Qu'attendez-vous ? Qu'il perde ou l'esprit, ou le jour ?</l>
-	<l id="362">Voyez où l'a réduit l'excès de son amour !</l>
-	<l id="363">Avec le seul Pasquin dans un séjour sauvage,</l>
-	<l id="364">Il cache le débris d'un éclatant naufrage :</l>
-	<l id="365">Lui, qu'on vit autrefois entouré de laquais,</l>
+	<l id="362">Voyez oÃ¹ l'a rÃ©duit l'excÃ¨s de son amour !</l>
+	<l id="363">Avec le seul Pasquin dans un sÃ©jour sauvage,</l>
+	<l id="364">Il cache le dÃ©bris d'un Ã©clatant naufrage :</l>
+	<l id="365">Lui, qu'on vit autrefois entourÃ© de laquais,</l>
 	<l id="366">Remplir pompeusement un superbe palais :</l>
 	<l id="367">Les mets les plus exquis inondaient ses cuisines :</l>
-	<l id="368">Il ne vit que de fruits, peut-être de racines ;</l>
+	<l id="368">Il ne vit que de fruits, peut-Ãªtre de racines ;</l>
 	<l id="369">Et s'il mange parfois un morceau de gibier,</l>
-	<l id="370">Il le tient d'un oiseau, son père nourricier.</l>
-	<l id="371">Cependant... j'en ressens une douleur amère :</l>
-	<l id="372">Hélas ! S'il s'est ruiné ce n'est que pour vous plaire ;</l>
-	<l id="373">Voilà de son amour le déplorable effet.</l>
+	<l id="370">Il le tient d'un oiseau, son pÃ¨re nourricier.</l>
+	<l id="371">Cependant... j'en ressens une douleur amÃ¨re :</l>
+	<l id="372">HÃ©las ! S'il s'est ruinÃ© ce n'est que pour vous plaire ;</l>
+	<l id="373">VoilÃ  de son amour le dÃ©plorable effet.</l>
 </sp>
 <sp who='AXIANE'><speaker>AXIANE.</speaker>
 	<l id="374">Ah ! S'il est vrai qu'il m'aime, il n'en a que trop fait :</l>
 	<l id="375">Mais si son triste sort est mon funeste ouvrage,</l>
-	<l id="376">Quelle gloire pour moi d'en réparer l'outrage !</l>
+	<l id="376">Quelle gloire pour moi d'en rÃ©parer l'outrage !</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
-	<l id="377">Ah ! J'attendais de vous ce généreux retour.</l>
+	<l id="377">Ah ! J'attendais de vous ce gÃ©nÃ©reux retour.</l>
 </sp>
 <sp who='AXIANE'><speaker>AXIANE.</speaker>
-	<l id="378">Voyons si Federic mérite mon amour.</l>
-	<l id="379">Par quelque piège adroit qu'il faut que je lui dresse,</l>
-	<l id="380">Je veux savoir, pour moi, jusqu'où va sa tendresse ;</l>
-	<l id="381">J'en doute encor, Lisette, et prétends l'éprouver.</l>
-	<l id="382">Toi, ne fuis point mes pas, et me laisse y rêver.</l>
+	<l id="378">Voyons si Federic mÃ©rite mon amour.</l>
+	<l id="379">Par quelque piÃ¨ge adroit qu'il faut que je lui dresse,</l>
+	<l id="380">Je veux savoir, pour moi, jusqu'oÃ¹ va sa tendresse ;</l>
+	<l id="381">J'en doute encor, Lisette, et prÃ©tends l'Ã©prouver.</l>
+	<l id="382">Toi, ne fuis point mes pas, et me laisse y rÃªver.</l>
 </sp>
 </div2>
-<div2 type='scene' n='7'><head>SCÈNE VII.</head>
+<div2 type="scene" n='7'><head>SCÃˆNE VII.</head>
 <sp who='LISETTE'><speaker>LISETTE, seule.</speaker>
-	<l id="383">Quel est donc son dessein ? D'un Amant si fidèle,</l>
-	<l id="384">Elle veut faire encore une épreuve nouvelle !</l>
+	<l id="383">Quel est donc son dessein ? D'un Amant si fidÃ¨le,</l>
+	<l id="384">Elle veut faire encore une Ã©preuve nouvelle !</l>
 	<l id="385">Mais quoi ? Que pourrait-elle enfin se proposer ?</l>
 	<l id="386">Federic l'aime trop pour lui rien refuser.</l>
-	<l id="387">Je vois Pasquin. Ô Ciel ! Quelle mélancolie ?</l>
+	<l id="387">Je vois Pasquin. Ã” Ciel ! Quelle mÃ©lancolie ?</l>
 </sp>
 </div2>
-<div2 type='scene' n='6'><head>SCÈNE VIO. Pasquin, Lisette.</head>
+<div2 type="scene" n='6'><head>SCÃˆNE VIO. Pasquin, Lisette.</head>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
-	<l id="388" part='i'>Hélas !</l>
+	<l id="388" part='i'>HÃ©las !</l>
 </sp>
-<sp who='LISETTE'><speaker>LISETTE, à part.</speaker>
-	<l id="388" part='f'>Je sens venir quelque accès de folie.</l>
+<sp who='LISETTE'><speaker>LISETTE, Ã  part.</speaker>
+	<l id="388" part='f'>Je sens venir quelque accÃ¨s de folie.</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN, sans voir Lisette.</speaker>
-	<l id="389">Hélas ! Il ne vit plus ! Ô comble de malheurs !</l>
+	<l id="389">HÃ©las ! Il ne vit plus ! Ã” comble de malheurs !</l>
 	<l id="390">Je viens de voir son sang couler avec mes pleurs.</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
@@ -877,29 +877,29 @@
 	<l id="392" part='i'>Qui te parle de lui ?</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
-	<l id="392" part='f'>Grâce au Ciel ! Je respire ;</l>
+	<l id="392" part='f'>GrÃ¢ce au Ciel ! Je respire ;</l>
 	<l id="393" part='i'>Et qui donc pleures-tu ?</l>
 </sp>
-<sp who='PASQUIN'><speaker>PASQUIN, à part.</speaker>
-	<l id="393" part='f'>C'est... gare le bâton.</l>
+<sp who='PASQUIN'><speaker>PASQUIN, Ã  part.</speaker>
+	<l id="393" part='f'>C'est... gare le bÃ¢ton.</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
-	<l id="394" part='i'>Achève...</l>
+	<l id="394" part='i'>AchÃ¨ve...</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 	<l id="394" part='m'>C'est...</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
-	<l id="394" part='m'>Hé ! Bien.</l>
+	<l id="394" part='m'>HÃ© ! Bien.</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 	<l id="394" part='f'>C'est le meilleur oison ;</l>
-	<l id="395">Par qui l'on puisse voir des basse-cours peuplées,</l>
-	<l id="396">Qu'allez-vous devenir, ô veuves désolées ?</l>
+	<l id="395">Par qui l'on puisse voir des basse-cours peuplÃ©es,</l>
+	<l id="396">Qu'allez-vous devenir, Ã´ veuves dÃ©solÃ©es ?</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
-	<l id="397">Ah ! Ciel ! Peut-on plus loin porter l'égarement ?</l>
-	<l id="398">Sans doute son délire augmente en ce moment,</l>
+	<l id="397">Ah ! Ciel ! Peut-on plus loin porter l'Ã©garement ?</l>
+	<l id="398">Sans doute son dÃ©lire augmente en ce moment,</l>
 	<l id="399" part='i'>Fuyons.</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
@@ -916,18 +916,18 @@
 	<l id="402" part='i'>Je crains les fous.</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
-	<l id="402" part='f'>Mon Maître est moins sage que moi.</l>
+	<l id="402" part='f'>Mon MaÃ®tre est moins sage que moi.</l>
 	<l id="403">Peste soit de l'amour qu'il a pour Axiane !</l>
-	<l id="404">Puisqu'à mourir de faim tous deux il nous condamne...</l>
+	<l id="404">Puisqu'Ã  mourir de faim tous deux il nous condamne...</l>
 </sp>
-<sp who='LISETTE'><speaker>LISETTE, à part.</speaker>
+<sp who='LISETTE'><speaker>LISETTE, Ã  part.</speaker>
 	<l id="405">Je l'ai bien dit ; la faim lui trouble la raison.</l>
 	<l id="406">Mais par bonheur pour lui, j'ai le contre-poison ;</l>
 	<l id="407">Il en faut sur le champ employer la recette.</l>
 	<l id='408' part='i'>Pasquin ?</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
-	<l id="408" part='m'>Hé bien.</l>
+	<l id="408" part='m'>HÃ© bien.</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 	<l id="408" part='m'>Un mot.</l>
@@ -937,38 +937,38 @@
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 	<l id="409">Bon, tu ne mourras pas pour un oison de moins ;</l>
-	<l id="410">Et l'Amour va bientôt pourvoir à tes besoins.</l>
+	<l id="410">Et l'Amour va bientÃ´t pourvoir Ã  tes besoins.</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 	<l id="411">Vraiment, il s'y prend bien, d'un coup il nous accable.</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
-	<l id="412" part='i'>C'est un grand médecin.</l>
+	<l id="412" part='i'>C'est un grand mÃ©decin.</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 	<l id="412" part='f'>Le mal est incurable,</l>
-	<l id="413">Nous n'avons plus d'espoir. Ô le maudit repas !</l>
+	<l id="413">Nous n'avons plus d'espoir. Ã” le maudit repas !</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE, riant.</speaker>
 	<l id="414" part='i'>Ha ! Ha !</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 	<l id="414" part='f'>Tous les oisons ne se ressemblent pas ;</l>
-	<l id="415">Et le nôtre était tel, que tout notre ménage...</l>
-	<l id="416">Federic me défend d'en dire davantage.</l>
+	<l id="415">Et le nÃ´tre Ã©tait tel, que tout notre mÃ©nage...</l>
+	<l id="416">Federic me dÃ©fend d'en dire davantage.</l>
 	<l id="417">Mais ce jour malheureux, le dernier de nos jours,</l>
-	<l id="418">À ta feule pitié me fait avoir recours :</l>
+	<l id="418">Ã€ ta feule pitiÃ© me fait avoir recours :</l>
 	<l id="419">Jette sur ton Pasquin un regard favorable ;</l>
-	<l id="420">M'abandonneras tu dans mon sort déplorable :</l>
+	<l id="420">M'abandonneras tu dans mon sort dÃ©plorable :</l>
 	<l id="421">Souviens-toi de ces temps que nous trouvions si doux ;</l>
 	<l id="422">Tous les jours se levaient clairs et sereins pour nous ;</l>
-	<l id="423">Nous les passions ensemble à bien manger et boire :</l>
-	<l id="424">J'irai t'en rafraîchir quelquefois la mémoire ;</l>
+	<l id="423">Nous les passions ensemble Ã  bien manger et boire :</l>
+	<l id="424">J'irai t'en rafraÃ®chir quelquefois la mÃ©moire ;</l>
 	<l id="425">Et promenant mes yeux sur quelque plat charmant,</l>
-	<l id="426">Dans l'Office avec toi soupirer goulûment.</l>
-	<l id="427">Là, mes boyaux plaintifs, de mes langueurs secrètes,</l>
-	<l id="428">Au défaut des échos seront les interprêtes :</l>
-	<l id="429">Là, le tendre Pasquin, t'assurant de sa foi,</l>
+	<l id="426">Dans l'Office avec toi soupirer goulÃ»ment.</l>
+	<l id="427">LÃ , mes boyaux plaintifs, de mes langueurs secrÃ¨tes,</l>
+	<l id="428">Au dÃ©faut des Ã©chos seront les interprÃªtes :</l>
+	<l id="429">LÃ , le tendre Pasquin, t'assurant de sa foi,</l>
 	<l id="430">Lisette, dira-t-il, puis-je vivre sans toi ?</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
@@ -976,20 +976,20 @@
 	<l id="432" part='i'>Ton destin va changer.</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
-	<l id="432" part='f'>Hé ! Par quelle aventure ?</l>
+	<l id="432" part='f'>HÃ© ! Par quelle aventure ?</l>
 	<l id="433" part='i'>Je suis trop malheureux.</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
-	<l id="433" part='f'>Laisse-là tes regrets ;</l>
-	<l id="434">Tu jouiras bientôt d'un sort rempli d'attraits.</l>
+	<l id="433" part='f'>Laisse-lÃ  tes regrets ;</l>
+	<l id="434">Tu jouiras bientÃ´t d'un sort rempli d'attraits.</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 	<l id="435" part='i'>Que viens-tu m'annoncer ?</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 	<l id="435" part='f'>La plus grande nouvelle...</l>
-	<l id="436">Axiane à la fin cesse d'être cruelle,</l>
-	<l id="437">Et ton Maître pourrait s'en ressentir un jour :</l>
+	<l id="436">Axiane Ã  la fin cesse d'Ãªtre cruelle,</l>
+	<l id="437">Et ton MaÃ®tre pourrait s'en ressentir un jour :</l>
 	<l id="438">Mais, Pasquin, elle doute encor de son amour.</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
@@ -998,14 +998,14 @@
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 	<l id="440" part='f'>Quoi qu'elle lui demande ,</l>
-	<l id="441">À lui complaire en tout il faut le disposer.</l>
+	<l id="441">Ã€ lui complaire en tout il faut le disposer.</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
-	<l id="442">Il ne peut désormais donner, ni refuser;</l>
+	<l id="442">Il ne peut dÃ©sormais donner, ni refuser;</l>
 	<l id="443" part='i'>Il n'a plus rien.</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
-	<l id="443" part='f'>N'importe, il faut la mettre à même ;</l>
+	<l id="443" part='f'>N'importe, il faut la mettre Ã  mÃªme ;</l>
 	<l id="444">Offrir tout, donner tout, pour lui prouver qu'il l'aime.</l>
 	<l id="445">Elle veut de son coeur s'assurer aujourd'hui.</l>
 	<l id="446">Tiens, s'il ne promet tout, tout est perdu pour lui.</l>
@@ -1015,75 +1015,75 @@
 	<l id="448" part='i'>Il est sec.</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
-	<l id="448" part='f'>Quoi ! Son sort est si déplorable ?</l>
+	<l id="448" part='f'>Quoi ! Son sort est si dÃ©plorable ?</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 	<l id="449" part='i'>J'en pleure tous les jours.</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 	<l id="449" part='f'>Va, cesse de pleurer ;</l>
-	<l id="450">L'Amour a fait le mal, il peut le réparer.</l>
+	<l id="450">L'Amour a fait le mal, il peut le rÃ©parer.</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
-	<l id="451">Au moins s'il se pouvait que ta riche maîtresse,</l>
-	<l id="452">Jusqu'à nous épouser fît aller sa tendresse ;</l>
+	<l id="451">Au moins s'il se pouvait que ta riche maÃ®tresse,</l>
+	<l id="452">Jusqu'Ã  nous Ã©pouser fÃ®t aller sa tendresse ;</l>
 	<l id="453">Je braverais la faim, muni d'un tel appui,</l>
 	<l id="454">Et me consolerais du repas d'aujourd'hui.</l>
-	<l id="455">Mais les moments sont chers ; et pour peu qu'on diffère...</l>
+	<l id="455">Mais les moments sont chers ; et pour peu qu'on diffÃ¨re...</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
-	<l id="456">Va, dans un jeune coeur, l'Amour ne s'endort guère ;</l>
+	<l id="456">Va, dans un jeune coeur, l'Amour ne s'endort guÃ¨re ;</l>
 	<l id="457" part='i'>Il fait bien du chemin.</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN, gaiement.</speaker>
 	<l id="457" part='f'>Ah ! Quel est mon bonheur !</l>
 	<l id="458">Allons, plus de soucis, plus de mauvaise humeur ;</l>
-	<l id="459">Rions, chantons, dansons. Ô ! Ma chère Lisette !</l>
+	<l id="459">Rions, chantons, dansons. Ã” ! Ma chÃ¨re Lisette !</l>
 	<l id="460">Je ne me connais plus ; ma joie est si parfaite,</l>
-	<l id="461">Qu'il ne tient plus qu'à moi de te sauter au cou.</l>
+	<l id="461">Qu'il ne tient plus qu'Ã  moi de te sauter au cou.</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
-	<l id="462">Modère ce transport ; tu deviens encor fou !</l>
+	<l id="462">ModÃ¨re ce transport ; tu deviens encor fou !</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
-	<l id="463">On les croit à moins : Oui, ma belle Princesse,</l>
+	<l id="463">On les croit Ã  moins : Oui, ma belle Princesse,</l>
 	<l id="464">On devient fou de joie, ainsi que de tristesse :</l>
-	<l id="465">D'un excès de plaisir les traits sont si puissants,</l>
-	<l id="466">Que quand il surprend l'âme, il fait perdre le sens :</l>
+	<l id="465">D'un excÃ¨s de plaisir les traits sont si puissants,</l>
+	<l id="466">Que quand il surprend l'Ã¢me, il fait perdre le sens :</l>
 	<l id="467">Je sens que ma raison... mais Federic approche ;</l>
-	<l id="468">Je sens que c'est à moi d'aller tourner la broche.</l>
-	<l id="469">Je t'invite au convoi de défunt notre oison.</l>
+	<l id="468">Je sens que c'est Ã  moi d'aller tourner la broche.</l>
+	<l id="469">Je t'invite au convoi de dÃ©funt notre oison.</l>
 </sp>
 </div2>
-<div2 type='scene' n='9'><head>SCÈNE IX. Federic, Lisette, Pasquin.</head>
+<div2 type="scene" n='9'><head>SCÃˆNE IX. Federic, Lisette, Pasquin.</head>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 	<l id="470">Vous le voyez, Monsieur, je n'en dis pas le nom.</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
-	<l id="471" part='i'>Bien en prend à ton dos.</l>
+	<l id="471" part='i'>Bien en prend Ã  ton dos.</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
-	<l id="471" part='f'>Ah ! nous savons peut-être</l>
-	<l id="472">Le respect qu'un valet doit porter à son maître,</l>
-	<l id="473">Et nous n'avons à coeur que son propre intérêt.</l>
+	<l id="471" part='f'>Ah ! nous savons peut-Ãªtre</l>
+	<l id="472">Le respect qu'un valet doit porter Ã  son maÃ®tre,</l>
+	<l id="473">Et nous n'avons Ã  coeur que son propre intÃ©rÃªt.</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
-	<l id="474">Va, fais-nous avertir, lorsque tout sera prêt.</l>
+	<l id="474">Va, fais-nous avertir, lorsque tout sera prÃªt.</l>
 </sp>
 </div2>
-<div2 type='scene' n='10'><head>SCÈNE X. Federic, Lisette.</head>
+<div2 type="scene" n='10'><head>SCÃˆNE X. Federic, Lisette.</head>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
-	<l id="475">Lisette, qu'as-tu fait de ta belle maîtresse ?</l>
+	<l id="475">Lisette, qu'as-tu fait de ta belle maÃ®tresse ?</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 	<l id="476">Dans le bosquet prochain certain souci la presse ;</l>
-	<l id="477" part='i'>Elle y rêve.</l>
+	<l id="477" part='i'>Elle y rÃªve.</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
 	<l id="477" part='f'>Quoi ! Seule ? Il faut l'aller trouver.</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
-	<l id="478">Non, vous ne perdrez rien à la laisser rêver.</l>
+	<l id="478">Non, vous ne perdrez rien Ã  la laisser rÃªver.</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
 	<l id="479" part='i'>Lisette, que dis-tu ?</l>
@@ -1095,59 +1095,59 @@
 	<l id="482">Quoi qu'elle exige enfin, ne lui refusez rien.</l>
 </sp>
 </div2>
-<div2 type='scene' n='11'><head>SCÈNE XI. Federic, Axiane, Lisette.</head>
+<div2 type="scene" n='11'><head>SCÃˆNE XI. Federic, Axiane, Lisette.</head>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
-	<l id="483">Madame, pardonnez si je vous ai quittée ,</l>
-	<l id="484">D'un soin pressant mon âme était inquiétée,</l>
-	<l id="485">Et ma présence était nécessaire à Pasquin.</l>
-	<l id="486" part='i'>On va bientôt servir.</l>
+	<l id="483">Madame, pardonnez si je vous ai quittÃ©e ,</l>
+	<l id="484">D'un soin pressant mon Ã¢me Ã©tait inquiÃ©tÃ©e,</l>
+	<l id="485">Et ma prÃ©sence Ã©tait nÃ©cessaire Ã  Pasquin.</l>
+	<l id="486" part='i'>On va bientÃ´t servir.</l>
 </sp>
 <sp who='AXIANE'><speaker>AXIANE.</speaker>
 	<l id="486" part='f'>Au moins point de festin.</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
-	<l id="487">Ce séjour écarté ne permet pas d'en faire.</l>
+	<l id="487">Ce sÃ©jour Ã©cartÃ© ne permet pas d'en faire.</l>
 </sp>
 <sp who='AXIANE'><speaker>AXIANE.</speaker>
 	<l id="488" part='i'>Tant mieux.</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
-	<l id="488" part='f'>Dans un désert on fait mauvaise chère :</l>
+	<l id="488" part='f'>Dans un dÃ©sert on fait mauvaise chÃ¨re :</l>
 	<l id="489">Cependant je prends soin qu'on vous offre en ces lieux</l>
-	<l id="490">Ce que j'ai de plus cher, et de plus précieux.</l>
+	<l id="490">Ce que j'ai de plus cher, et de plus prÃ©cieux.</l>
 </sp>
 <sp who='AXIANE'><speaker>AXIANE.</speaker>
 	<l id="491">Je ne regarde ici que la main qui le donne :</l>
 	<l id="492">Quel que soit un repas, le bon coeur l'assaisonne :</l>
-	<l id="493">Je compte sur le vôtre, et j'ose me flatter...</l>
+	<l id="493">Je compte sur le vÃ´tre, et j'ose me flatter...</l>
 	<l id="494" part='i'>Mais non, n'achevons point.</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
 	<l id="494" part='f'>Quoi ! vous pourriez douter,</l>
-	<l id="495">Quoique vous ordonniez, que je ne l'exécute ?</l>
-	<l id="496">La Fortune ennemie en vain me persécute ;</l>
-	<l id="497">Elle m'a tout ôté par une dure loi :</l>
-	<l id="498">Mais ce coeur qui me reste, est plus à vous qu'à moi.</l>
+	<l id="495">Quoique vous ordonniez, que je ne l'exÃ©cute ?</l>
+	<l id="496">La Fortune ennemie en vain me persÃ©cute ;</l>
+	<l id="497">Elle m'a tout Ã´tÃ© par une dure loi :</l>
+	<l id="498">Mais ce coeur qui me reste, est plus Ã  vous qu'Ã  moi.</l>
 </sp>
 <sp who='AXIANE'><speaker>AXIANE.</speaker>
 	<l id="499" part='i'>Que vous me rassurez !</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
-	<l id="499" part='f'>Expliquez-vous, de grâce ?</l>
+	<l id="499" part='f'>Expliquez-vous, de grÃ¢ce ?</l>
 	<l id="500" part='i'>Que puis-je ?</l>
 </sp>
 <sp who='AXIANE'><speaker>AXIANE.</speaker>
 	<l id="500" part='f'>Federic, vous savez que la chasse</l>
-	<l id="501">Dès mes plus tendres ans fit mes foins les plus chers ;</l>
-	<l id="502">Vous avez un oiseau plus prompt que les éclairs.</l>
+	<l id="501">DÃ¨s mes plus tendres ans fit mes foins les plus chers ;</l>
+	<l id="502">Vous avez un oiseau plus prompt que les Ã©clairs.</l>
 </sp>
-<sp who='FEDERIC'><speaker>FEDERIC, à part.</speaker>
+<sp who='FEDERIC'><speaker>FEDERIC, Ã  part.</speaker>
 	<l id="503" part='i'>Je tremble.</l>
 </sp>
 <sp who='AXIANE'><speaker>AXIANE.</speaker>
-	<l id="503" part='f'>De plaisir je me sens éperdue,</l>
-	<l id="504">Sitôt que je le vois se perdre dans la nue :</l>
-	<l id="505">Je l'aime, et je mettrais mon coeur même à ce prix,</l>
+	<l id="503" part='f'>De plaisir je me sens Ã©perdue,</l>
+	<l id="504">SitÃ´t que je le vois se perdre dans la nue :</l>
+	<l id="505">Je l'aime, et je mettrais mon coeur mÃªme Ã  ce prix,</l>
 	<l id="506" part='i'>Si...</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
@@ -1160,43 +1160,43 @@
 	<l id="507">Ai-je bien entendu ? Quoi ! Vous voulez, Madame...</l>
 </sp>
 <sp who='AXIANE'><speaker>AXIANE.</speaker>
-	<l id="508">Non, je ne veux plus rien ; le trouble de ton âme</l>
+	<l id="508">Non, je ne veux plus rien ; le trouble de ton Ã¢me</l>
 	<l id="509">M'apprend trop tes refus : Que puis-je demander ?</l>
 </sp>
-<sp who='LISETTE'><speaker>LISETTE, bas à Federic.</speaker>
+<sp who='LISETTE'><speaker>LISETTE, bas Ã  Federic.</speaker>
 	<l id="510" part='i'>Accordez tout, Monsieur.</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
-	<l id="510" part='f'>Hé ! Que puis-je accorder ?</l>
-	<l id="511">Fortune impitoyable, achevé, prend ma vie ;</l>
+	<l id="510" part='f'>HÃ© ! Que puis-je accorder ?</l>
+	<l id="511">Fortune impitoyable, achevÃ©, prend ma vie ;</l>
 	<l id="512">Barbare, je croyais ta fureur assouvie ;</l>
-	<l id="513">Mais tu mets aujourd'hui le comble à mon malheur,</l>
-	<l id="514">Par le coup imprévu dont tu frappes mon coeur.</l>
-	<l id="515">Ô rigueur sans égale ! Ô tyrannique empire !</l>
+	<l id="513">Mais tu mets aujourd'hui le comble Ã  mon malheur,</l>
+	<l id="514">Par le coup imprÃ©vu dont tu frappes mon coeur.</l>
+	<l id="515">Ã” rigueur sans Ã©gale ! Ã” tyrannique empire !</l>
 </sp>
 <sp who='AXIANE'><speaker>AXIANE.</speaker>
 	<l id="516">Qu'entends-je ! Avec le sort c'est donc moi qui conspire ?</l>
-	<l id="517">Je viens à votre coeur porter les derniers coups :</l>
+	<l id="517">Je viens Ã  votre coeur porter les derniers coups :</l>
 	<l id="518" part='i'>Quoi ! Pour un seul Oiseuu...</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
 	<l id="518" part='f'>Que me demandez-vous ?</l>
-	<l id="519">Hélas ! Si vous saviez, Madame, à quel usage...</l>
+	<l id="519">HÃ©las ! Si vous saviez, Madame, Ã  quel usage...</l>
 </sp>
 <sp who='AXIANE'><speaker>AXIANE.</speaker>
 	<l id="520">Va, tu n'as pas besoin d'en dire davantage :</l>
-	<l id="521">Je sais qu'à le garder tout doit t'interesser ;</l>
-	<l id="522">Qu'il t'est cher, précieux : mais as-tu pu penser,</l>
+	<l id="521">Je sais qu'Ã  le garder tout doit t'interesser ;</l>
+	<l id="522">Qu'il t'est cher, prÃ©cieux : mais as-tu pu penser,</l>
 	<l id="523">Que pour te le ravir je fusse assez cruelle ?</l>
 	<l id="524">Je voulais de tes feux une marque nouvelle,</l>
-	<l id="525">Triste épreuve ! Ton coeur d'un seul mot alarmé,</l>
-	<l id="526">Ne m'a que trop fait voir qu'il n'a jamais aimé.</l>
+	<l id="525">Triste Ã©preuve ! Ton coeur d'un seul mot alarmÃ©,</l>
+	<l id="526">Ne m'a que trop fait voir qu'il n'a jamais aimÃ©.</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
-	<l id="527">Je n'ai jamais aimé ! Quel injuste langage !</l>
-	<l id="528">Hélas ! Et dans quel temps me fait-on cet outrage !</l>
-	<l id="529">Je viens de me réduire au plus funeste état ;</l>
-	<l id="530">Et quand j'ai tout donné, je passe pour ingrat.</l>
+	<l id="527">Je n'ai jamais aimÃ© ! Quel injuste langage !</l>
+	<l id="528">HÃ©las ! Et dans quel temps me fait-on cet outrage !</l>
+	<l id="529">Je viens de me rÃ©duire au plus funeste Ã©tat ;</l>
+	<l id="530">Et quand j'ai tout donnÃ©, je passe pour ingrat.</l>
 </sp>
 <sp who='AXIANE'><speaker>AXIANE.</speaker>
 	<l id="531">Ah ! C'en est trop enfin , ce reproche me blesse.</l>
@@ -1207,64 +1207,64 @@
 	<l id="533" part='f'>Non, demeurez, ou dans mon noir transport,</l>
 	<l id="534">De ce fer a vos yeux, je me donne la mort :</l>
 	<l id="535">Il faut sur mes refus que je me justifie.</l>
-	<l id="536">Heureux, si vous n'aviez demandé que ma vie !</l>
-	<l id="537">Je vous l'aurais donnée, elle est en mon pouvoir,</l>
-	<l id="538">L'amour que j'ai pour vous m'en eût fait un devoir,</l>
-	<l id="539">Mais faut-il que le sort à tous mes voeux contraire,</l>
-	<l id="540">M'ôte le seul moyen que j'avais de vous plaire ?</l>
+	<l id="536">Heureux, si vous n'aviez demandÃ© que ma vie !</l>
+	<l id="537">Je vous l'aurais donnÃ©e, elle est en mon pouvoir,</l>
+	<l id="538">L'amour que j'ai pour vous m'en eÃ»t fait un devoir,</l>
+	<l id="539">Mais faut-il que le sort Ã  tous mes voeux contraire,</l>
+	<l id="540">M'Ã´te le seul moyen que j'avais de vous plaire ?</l>
 	<l id="541">Avec plus de noirceur peut-il m'assassiner ?</l>
-	<l id="542">Hélas ! L'oiseau n'est plus, vous en allez diner.</l>
+	<l id="542">HÃ©las ! L'oiseau n'est plus, vous en allez diner.</l>
 </sp>
 <sp who='AXIANE'><speaker>AXIANE.</speaker>
 	<l id="543" part='i'>L'oiseau n'est plus !</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
-	<l id="543" part='f'>Le sort à tel point m'est funeste,</l>
+	<l id="543" part='f'>Le sort Ã  tel point m'est funeste,</l>
 	<l id="544">Que je vous offre en vain le seul bien qui me reste ;</l>
-	<l id="545">Mais n'importe, en ces lieux prêt à vous recevoir ;</l>
+	<l id="545">Mais n'importe, en ces lieux prÃªt Ã  vous recevoir ;</l>
 	<l id="546">Ai-je pu trop payer le plaisir de vous voir ?</l>
 </sp>
 <sp who='AXIANE'><speaker>AXIANE.</speaker>
-	<l id="547">Hélas ! Qu'avez-vous fait ? Et qu'ai-je fait moi-même ?</l>
-	<l id="548">Quel outrage ! Quel prix de votre amour extrême !</l>
-	<l id="549">Et comment réparer cet excès de rigueur ?</l>
+	<l id="547">HÃ©las ! Qu'avez-vous fait ? Et qu'ai-je fait moi-mÃªme ?</l>
+	<l id="548">Quel outrage ! Quel prix de votre amour extrÃªme !</l>
+	<l id="549">Et comment rÃ©parer cet excÃ¨s de rigueur ?</l>
 	<l id="550">Est-ce assez de mes biens ? De ma main ? De mon coeur ?</l>
-	<l id="551" part='i'>Tout est à vous.</l>
+	<l id="551" part='i'>Tout est Ã  vous.</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
-	<l id="551" part='f'>Quels mots ont frappé mon oreille !</l>
-	<l id="552">Votre coeur est à moi ! Je doute si je veille :</l>
+	<l id="551" part='f'>Quels mots ont frappÃ© mon oreille !</l>
+	<l id="552">Votre coeur est Ã  moi ! Je doute si je veille :</l>
 	<l id="553">Ah ! Dans le doux transport qui vient de me saisir,</l>
-	<l id="554">Permettez qu'à vos pieds j'expire de plaisir.</l>
+	<l id="554">Permettez qu'Ã  vos pieds j'expire de plaisir.</l>
 </sp>
 <sp who='AXIANE'><speaker>AXIANE, en le relevant.</speaker>
-	<l id="555">Federic, il est temps qu'une chaîne éternelle</l>
-	<l id="556">Unisse à mon destin l'amant le plus fidèle ;</l>
-	<l id="557">Mon coeur est tout à vous, ma main dépend de moi,</l>
+	<l id="555">Federic, il est temps qu'une chaÃ®ne Ã©ternelle</l>
+	<l id="556">Unisse Ã  mon destin l'amant le plus fidÃ¨le ;</l>
+	<l id="557">Mon coeur est tout Ã  vous, ma main dÃ©pend de moi,</l>
 	<l id="558" part='i'>Je vous la donne.</l>
 </sp>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
 	<l id="558" part='f'>Amour, ai-je trop fait pour toi ?</l>
 </sp>
 </div2>
-<div2 type='scene' n='12'><head>SCÈNE DERNIÈRE. Federic, Axiane, Pasquin, Lisette.</head>
+<div2 type="scene" n='12'><head>SCÃˆNE DERNIÃˆRE. Federic, Axiane, Pasquin, Lisette.</head>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 	<l id="559">De chasseurs, une troupe s'avance :</l>
 	<l id="560">Quoi ! Viendrait-on encor me rogner ma pitance.</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
-	<l id="561">Rassure-toi, Pasquin, tout répond à tes voeux ;</l>
-	<l id="562">Axiane est sensible, et ton maître est heureux.</l>
+	<l id="561">Rassure-toi, Pasquin, tout rÃ©pond Ã  tes voeux ;</l>
+	<l id="562">Axiane est sensible, et ton maÃ®tre est heureux.</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 	<l id="563">Que m'apprends-tu, Lisette ? Ah ! Tu me rends la vie !</l>
-	<l id="564">Que je vais m'en donner ! Ô sort digne d'envie !</l>
+	<l id="564">Que je vais m'en donner ! Ã” sort digne d'envie !</l>
 	<l id="565">Qu'un repas succulent commence un sort si doux ?</l>
-<stage>À Axiane.</stage>
-	<l id="566">Mais croyez-moi, Madame, allons dîner chez vous.</l>
+<stage>Ã€ Axiane.</stage>
+	<l id="566">Mais croyez-moi, Madame, allons dÃ®ner chez vous.</l>
 </sp>
 </div2>
 </div1>
 </body>
 </text>
-</TEI.2>
+</TEI>

@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-<TEI.2>
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
 <teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>MONSIEUR DE POURCEAUGNAC, COMÉDIE-BALLET.</title>
-			<author born='1622' born_location='Paris' death='1673' death_location='Paris' academie=''>Molière</author>
+				<title>MONSIEUR DE POURCEAUGNAC, COMÃ‰DIE-BALLET.</title>
+			<author born='1622' born_location='Paris' death='1673' death_location='Paris' academie=''>MoliÃ¨re</author>
 			</titleStmt>
 			<publicationStmp>	
-				<p>publié par Paul FIEVRE, août 2009, revu mai 2013.</p>
+				<p>publiÃ© par Paul FIEVRE, aoÃ»t 2009, revu mai 2013.</p>
 			</publicationStmp>
 			<SourceDesc>
-				<genre>Comédie-ballet</genre>
-				<inspiration>moeurs françaises</inspiration>
+				<genre>ComÃ©die-ballet</genre>
+				<inspiration>moeurs franÃ§aises</inspiration>
 				<type>mixte</type>
 				<structure>Cinq actes</structure>
 				<periode>1661-1670</periode>
@@ -24,164 +24,164 @@
 	<front>
 		<docTitle>
 			<titlePart type="main">MONSIEUR DE POURCEAUGNAC</titlePart>
-			<titlePart type="sub">COMÉDIE</titlePart>
+			<titlePart type="sub">COMÃ‰DIE</titlePart>
 			<titlePart type="sub">FAITE A CHAMBORD</titlePart>
 			<titlePart type="sub">pour le Divertissement du Roi</titlePart>
 		</docTitle> 
 		<docDate value='1665'>1665</docDate>
-		<docAuthor id='MOLIERE' bio='moliere'>Molière</docAuthor>
+		<docAuthor id='MOLIERE' bio='moliere'>MoliÃ¨re</docAuthor>
 		<docImprint>
 			<privilege id=''></privilege>
 			<acheveImprime id=''></acheveImprime>
 			<editor id=''></editor>
 		</docImprint>
 		<performance>
-			<premiere date='1669-11-15' location='Théâtre du Palais-Royal'>Faite à Chambord, pour le divertissement du roi, au mois de septembre 1669, et représentée en public à Paris, pour la première fois, sur le Théâtre du Palais-Royal, le 15e novembre de la même année 1669, par la Troupe du Roi.</premiere>
+			<premiere date='1669-11-15' location='ThÃ©Ã¢tre du Palais-Royal'>Faite Ã  Chambord, pour le divertissement du roi, au mois de septembre 1669, et reprÃ©sentÃ©e en public Ã  Paris, pour la premiÃ¨re fois, sur le ThÃ©Ã¢tre du Palais-Royal, le 15e novembre de la mÃªme annÃ©e 1669, par la Troupe du Roi.</premiere>
 		</performance>
 	<castList><head>PERSONNAGES</head>
-	<castItem><role id="MONSIEUR-DE-POURCEAUGNAC" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>MONSIEUR DE POURCEAUGNAC</role>.</castItem> 
-	<castItem><role id="ORONTE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>ORONTE</role>.</castItem> 
+	<castItem><role id="MONSIEUR-DE-POURCEAUGNAC" civil='M' type="H" statut='bourgeois' age='A' stat_amour='nÃ©ant'>MONSIEUR DE POURCEAUGNAC</role>.</castItem> 
+	<castItem><role id="ORONTE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='nÃ©ant'>ORONTE</role>.</castItem> 
 	<castItem><role id="JULIE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='amoureux'>JULIE</role>, fille d'Oronte.</castItem> 
-	<castItem><role id="NÉRINE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>NÉRINE</role>, femme d'intrigue.</castItem> 
-	<castItem><role id="LUCETTE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>LUCETTE</role>, feinte gasconne.</castItem> 
-	<castItem><role id="ÉRASTE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='amoureux'>ÉRASTE</role>, amant de Julie.</castItem> 
-	<castItem><role id="SBRIGANI" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>SBRIGANI</role>, napolitain, homme d'intrigue.</castItem> 
-	<castItem><role id="PREMIER-MEDECIN" civil='M' type="H" statut='médecin' age='A' stat_amour='néant'>PREMIER MÉDECIN</role>.</castItem> 
-	<castItem><role id="SECOND-MEDECIN" civil='M' type="H" statut='médecin' age='A' stat_amour='néant'>SECOND MÉDECIN</role>.</castItem> 
-	<castItem><role id="L-APOTHICAIRE" civil='M' type="H" statut='apothcaire' age='A' stat_amour='néant'>L'APOTHICAIRE</role>.</castItem> 
-	<castItem><role id="UN-PAYSAN" civil='M' type="H" statut='paysan' age='A' stat_amour='néant'>UN PAYSAN</role>.</castItem> 
-	<castItem><role id="UNE-PAYSANNE" civil='F' type="H" statut='paysan' age='A' stat_amour='néant'>UNE PAYSANNE</role>.</castItem> 
-	<castItem><role id="PREMIER-MUSICIEN" civil='M' type="H" statut='musicien' age='A' stat_amour='néant'>PREMIER MUSICIEN</role>.</castItem> 
-	<castItem><role id="SECOND-MUSICIEN" civil='M' type="H" statut='musicien' age='A' stat_amour='néant'>SECOND MUSICIEN</role>.</castItem> 
-	<castItem><role id="PREMIER-AVOCAT" civil='M' type="H" statut='avocat' age='A' stat_amour='néant'>PREMIER AVOCAT</role>.</castItem> 
-	<castItem><role id="SECOND-AVOCAT" civil='M' type="H" statut='avocat' age='A' stat_amour='néant'>SECOND AVOCAT</role>.</castItem> 
-	<castItem><role id="PREMIER-SUISSE" civil='M' type="H" statut='suisse' age='A' stat_amour='néant'>PREMIER SUISSE</role>.</castItem> 
-	<castItem><role id="SECOND-SUISSE" civil='M' type="H" statut='suisse' age='A' stat_amour='néant'>SECOND SUISSE</role>.</castItem> 
-	<castItem><role id="UN-EXEMPT" civil='M' type="H" statut='exempt' age='A' stat_amour='néant'>UN EXEMPT</role>.</castItem> 
-	<castItem><role id="DEUX-ARCHERS" civil='G' type="H" statut='achers' age='A' stat_amour='néant'>DEUX ARCHERS</role>.</castItem> 
-	<castItem><role id="PLUSIEURS-MUSICIENS" civil='G' type="H" statut='musicien' age='A' stat_amour='néant'>PLUSIEURS MUSICIENS</role>.</castItem> 
-	<castItem><role id="JOUEURS-INSTRUMENTS_DANSEURS" civil='G' type="H" statut='danseur' age='A' stat_amour='néant'>JOUEURS d'INSTRUMENTS et DANSEURS</role>.</castItem> 
+	<castItem><role id="NÃ‰RINE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='nÃ©ant'>NÃ‰RINE</role>, femme d'intrigue.</castItem> 
+	<castItem><role id="LUCETTE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='nÃ©ant'>LUCETTE</role>, feinte gasconne.</castItem> 
+	<castItem><role id="Ã‰RASTE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='amoureux'>Ã‰RASTE</role>, amant de Julie.</castItem> 
+	<castItem><role id="SBRIGANI" civil='M' type="H" statut='bourgeois' age='A' stat_amour='nÃ©ant'>SBRIGANI</role>, napolitain, homme d'intrigue.</castItem> 
+	<castItem><role id="PREMIER-MEDECIN" civil='M' type="H" statut='mÃ©decin' age='A' stat_amour='nÃ©ant'>PREMIER MÃ‰DECIN</role>.</castItem> 
+	<castItem><role id="SECOND-MEDECIN" civil='M' type="H" statut='mÃ©decin' age='A' stat_amour='nÃ©ant'>SECOND MÃ‰DECIN</role>.</castItem> 
+	<castItem><role id="L-APOTHICAIRE" civil='M' type="H" statut='apothcaire' age='A' stat_amour='nÃ©ant'>L'APOTHICAIRE</role>.</castItem> 
+	<castItem><role id="UN-PAYSAN" civil='M' type="H" statut='paysan' age='A' stat_amour='nÃ©ant'>UN PAYSAN</role>.</castItem> 
+	<castItem><role id="UNE-PAYSANNE" civil='F' type="H" statut='paysan' age='A' stat_amour='nÃ©ant'>UNE PAYSANNE</role>.</castItem> 
+	<castItem><role id="PREMIER-MUSICIEN" civil='M' type="H" statut='musicien' age='A' stat_amour='nÃ©ant'>PREMIER MUSICIEN</role>.</castItem> 
+	<castItem><role id="SECOND-MUSICIEN" civil='M' type="H" statut='musicien' age='A' stat_amour='nÃ©ant'>SECOND MUSICIEN</role>.</castItem> 
+	<castItem><role id="PREMIER-AVOCAT" civil='M' type="H" statut='avocat' age='A' stat_amour='nÃ©ant'>PREMIER AVOCAT</role>.</castItem> 
+	<castItem><role id="SECOND-AVOCAT" civil='M' type="H" statut='avocat' age='A' stat_amour='nÃ©ant'>SECOND AVOCAT</role>.</castItem> 
+	<castItem><role id="PREMIER-SUISSE" civil='M' type="H" statut='suisse' age='A' stat_amour='nÃ©ant'>PREMIER SUISSE</role>.</castItem> 
+	<castItem><role id="SECOND-SUISSE" civil='M' type="H" statut='suisse' age='A' stat_amour='nÃ©ant'>SECOND SUISSE</role>.</castItem> 
+	<castItem><role id="UN-EXEMPT" civil='M' type="H" statut='exempt' age='A' stat_amour='nÃ©ant'>UN EXEMPT</role>.</castItem> 
+	<castItem><role id="DEUX-ARCHERS" civil='G' type="H" statut='achers' age='A' stat_amour='nÃ©ant'>DEUX ARCHERS</role>.</castItem> 
+	<castItem><role id="PLUSIEURS-MUSICIENS" civil='G' type="H" statut='musicien' age='A' stat_amour='nÃ©ant'>PLUSIEURS MUSICIENS</role>.</castItem> 
+	<castItem><role id="JOUEURS-INSTRUMENTS_DANSEURS" civil='G' type="H" statut='danseur' age='A' stat_amour='nÃ©ant'>JOUEURS d'INSTRUMENTS et DANSEURS</role>.</castItem> 
 	</castList>
-<set location='Paris' country='France' periode='XVIIème' link=''>La scène est à Paris.</set>
+<set location='Paris' country='France' periode='XVIIÃ¨me' link=''>La scÃ¨ne est Ã  Paris.</set>
 </front>
 <body>
-<div1 type='acte' n='1'><head>PROLOGUE</head>
-<div2 type='scene' n='1'><head>OUVERTURE.</head>
-<stage>L'ouverture se fait par Eraste, qui conduit un grand concert, de voix et d'instruments, pour une sérénade, dont les paroles chantées par trois voix en manière de dialogue, sont faites sur le sujet de la comédie, et expriment les sentiments de deux amants, qui, étant bien ensemble, sont traversés par le caprice des parents.</stage>
-<sp who='PREMIERE-VOIX'><speaker>PREMIÈRE VOIX.</speaker>
-	<l id='1'>Répands, charmante nuit, répands sur tous les yeux</l>
+<div1 type="act" n='1'><head>PROLOGUE</head>
+<div2 type="scene" n='1'><head>OUVERTURE.</head>
+<stage>L'ouverture se fait par Eraste, qui conduit un grand concert, de voix et d'instruments, pour une sÃ©rÃ©nade, dont les paroles chantÃ©es par trois voix en maniÃ¨re de dialogue, sont faites sur le sujet de la comÃ©die, et expriment les sentiments de deux amants, qui, Ã©tant bien ensemble, sont traversÃ©s par le caprice des parents.</stage>
+<sp who='PREMIERE-VOIX'><speaker>PREMIÃˆRE VOIX.</speaker>
+	<l id='1'>RÃ©pands, charmante nuit, rÃ©pands sur tous les yeux</l>
 	<l id='2'>De tes pavots la douce violence,</l>
 	<l id='3'>Et ne laisse veiller en ces aimables lieux</l>
-	<l id='4'>Que les coeurs que l'Amour soumet à sa puissance.</l>
+	<l id='4'>Que les coeurs que l'Amour soumet Ã  sa puissance.</l>
 	<l id='5'>Tes ombres et ton silence, </l>
 	<l id='6'>Plus beau que le plus beau jour,</l>
-	<l id='7'>Offrent de doux moments à soupirer d'amour.</l>
+	<l id='7'>Offrent de doux moments Ã  soupirer d'amour.</l>
 </sp>
-<sp who='DEUXIEME-VOIX'><speaker>DEUXIÈME VOIX.</speaker>
+<sp who='DEUXIEME-VOIX'><speaker>DEUXIÃˆME VOIX.</speaker>
 	<l id='8'>Que soupirer d'amour</l>
 	<l id='9'>Est une douce chose,</l>
-	<l id='10'>Quand rien à nos voeux ne s'oppose !</l>
-	<l id='11'>À d'aimables penchants notre coeur nous dispose,</l>
-	<l id='12'>Mais on a des tyrans à qui l'on doit le jour.</l>
+	<l id='10'>Quand rien Ã  nos voeux ne s'oppose !</l>
+	<l id='11'>Ã€ d'aimables penchants notre coeur nous dispose,</l>
+	<l id='12'>Mais on a des tyrans Ã  qui l'on doit le jour.</l>
 	<l id='13'>Que soupirer d'amour</l>
 	<l id='14'>Est une douce chose,</l>
-	<l id='15'>Quand rien à nos voeux ne s'oppose !</l>
+	<l id='15'>Quand rien Ã  nos voeux ne s'oppose !</l>
 </sp>
-<sp who='TROISIEME-VOIX'><speaker>TROISIÈME VOIX.</speaker>
-	<l id='16'>Tout ce qu'à nos voeux on oppose</l>
+<sp who='TROISIEME-VOIX'><speaker>TROISIÃˆME VOIX.</speaker>
+	<l id='16'>Tout ce qu'Ã  nos voeux on oppose</l>
 	<l id='17'>Contre un parfait amour ne gagne jamais rien,</l>
 	<l id='18'>Et pour vaincre toute chose,</l>
 	<l id='19'>Il ne faut que s'aimer bien.</l>
 </sp>
 <sp who='TROIS-VOIX-ENSEMBLE'><speaker>Les trois voix ensemble.</speaker>
-	<l id='20'>Aimons-nous donc d'une ardeur éternelle : </l>
+	<l id='20'>Aimons-nous donc d'une ardeur Ã©ternelle : </l>
 	<l id='21'>Les rigueurs des parents, la contrainte cruelle,</l>
 	<l id='22'>L'absence, les travaux, la fortune rebelle,</l>
-	<l id='23'>Ne font que redoubler une amitié fidèle.</l>
-	<l id='24'>Aimons-nous donc d'une ardeur éternelle : </l>
+	<l id='23'>Ne font que redoubler une amitiÃ© fidÃ¨le.</l>
+	<l id='24'>Aimons-nous donc d'une ardeur Ã©ternelle : </l>
 	<l id='25'>Quand deux coeurs s'aiment bien,</l>
 	<l id='26'>Tout le reste n'est rien.</l>
-<stage>La sérénade est suivie d'une danse de deux Pages, pendant laquelle quatre Curieux de spectacles, ayant pris querelle ensemble, mettent l'épée à la main. Après un assez agréable combat, ils sont séparés par deux Suisses, qui, les ayant mis d'accord, dansent avec eux, au son de tous les instruments.</stage>
+<stage>La sÃ©rÃ©nade est suivie d'une danse de deux Pages, pendant laquelle quatre Curieux de spectacles, ayant pris querelle ensemble, mettent l'Ã©pÃ©e Ã  la main. AprÃ¨s un assez agrÃ©able combat, ils sont sÃ©parÃ©s par deux Suisses, qui, les ayant mis d'accord, dansent avec eux, au son de tous les instruments.</stage>
 </sp>
 </div2>
-</div1> 
-<div1 type='acte' n='2'><head>ACTE I</head>
-<div2 type='scene' n='1'><head>SCÈNE I. Julie, Eraste, Nérine.</head>
+</div1>Â 
+<div1 type="act" n='2'><head>ACTE I</head>
+<div2 type="scene" n='1'><head>SCÃˆNE I. Julie, Eraste, NÃ©rine.</head>
 <sp who='JULIE'><speaker>JULIE.</speaker>
 <p id='1'>
 	<s id='1'>Mon Dieu ! </s>
-	<s id='2'>Eraste, gardons d'être surpris ; je tremble qu'on ne nous voie ensemble, et tout serait perdu, après la défense que l'on m'a faite.</s>
+	<s id='2'>Eraste, gardons d'Ãªtre surpris ; je tremble qu'on ne nous voie ensemble, et tout serait perdu, aprÃ¨s la dÃ©fense que l'on m'a faite.</s>
 </p>
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
 <p id='2'>
-	<s id='1'>Je regarde de tous côtés, et je n'aperçois rien.</s>
+	<s id='1'>Je regarde de tous cÃ´tÃ©s, et je n'aperÃ§ois rien.</s>
 </p>
 </sp>
 <sp who='JULIE'><speaker>JULIE.</speaker>
 <p id='3'>
-	<s id='1'>Aie aussi l'oeil au guet, Nérine, et prends bien garde qu'il ne vienne personne.</s>
+	<s id='1'>Aie aussi l'oeil au guet, NÃ©rine, et prends bien garde qu'il ne vienne personne.</s>
 </p>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
+<sp who='NERINE'><speaker>NÃ‰RINE.</speaker>
 <p id='4'>
-	<s id='1'>Reposez-vous sur moi, et dites hardiment ce que vous avez à vous dire.</s>
+	<s id='1'>Reposez-vous sur moi, et dites hardiment ce que vous avez Ã  vous dire.</s>
 </p>
 </sp>
 <sp who='JULIE'><speaker>JULIE.</speaker>
 <p id='5'>
-	<s id='1'>Avez-vous imaginé pour notre affaire quelque chose de favorable ? </s>
-	<s id='2'>Et croyez-vous, Eraste, pouvoir venir à bout de détourner ce fâcheux mariage que mon père s'est mis en tête ?</s>
+	<s id='1'>Avez-vous imaginÃ© pour notre affaire quelque chose de favorable ? </s>
+	<s id='2'>Et croyez-vous, Eraste, pouvoir venir Ã  bout de dÃ©tourner ce fÃ¢cheux mariage que mon pÃ¨re s'est mis en tÃªte ?</s>
 </p>
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
 <p id='6'>
-	<s id='1'>Au moins y travaillons-nous fortement ; et déjà nous avons préparé un bon nombre de batteries pour renverser ce dessein ridicule.</s>
+	<s id='1'>Au moins y travaillons-nous fortement ; et dÃ©jÃ  nous avons prÃ©parÃ© un bon nombre de batteries pour renverser ce dessein ridicule.</s>
 </p>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
+<sp who='NERINE'><speaker>NÃ‰RINE.</speaker>
 <p id='7'>
 	<s id='1'>Par ma foi ! </s>
-	<s id='2'>Voilà votre père.</s>
+	<s id='2'>VoilÃ  votre pÃ¨re.</s>
 </p>
 </sp>
 <sp who='JULIE'><speaker>JULIE.</speaker>
 <p id='8'>
 	<s id='1'>Ah ! </s>
-	<s id='2'>Séparons-nous vite.</s>
+	<s id='2'>SÃ©parons-nous vite.</s>
 </p>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
+<sp who='NERINE'><speaker>NÃ‰RINE.</speaker>
 <p id='9'>
-	<s id='1'>Non, non, non, ne bougez : je m'étais trompée.</s>
+	<s id='1'>Non, non, non, ne bougez : je m'Ã©tais trompÃ©e.</s>
 </p>
 </sp>
 <sp who='JULIE'><speaker>JULIE.</speaker>
 <p id='10'>
 	<s id='1'>Mon Dieu ! </s>
-	<s id='2'>Nérine, que tu es sotte de nous donner de ces frayeurs !</s>
+	<s id='2'>NÃ©rine, que tu es sotte de nous donner de ces frayeurs !</s>
 </p>
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
 <p id='11'>
-	<s id='1'>Oui, belle Julie, nous avons dressé pour cela quantités de machines, et nous ne feignons point de mettre tout en usage, sur la permission que vous m'avez donnée. </s>
-	<s id='2'>Ne nous demandez point tous les ressorts que nous ferons jouer : vous en aurez le divertissement ; et, comme aux comédies, il est bon de vous laisser le plaisir de la surprise, et de ne vous avertir point de tout ce qu'on vous fera voir. </s>
-	<s id='3'>C'est assez de vous dire que nous avons en main divers stratagèmes tous prêts à produire dans l'occasion, et que l'ingénieuse Nérine et l'adroit Sbrigani entreprennent l'affaire.</s>
+	<s id='1'>Oui, belle Julie, nous avons dressÃ© pour cela quantitÃ©s de machines, et nous ne feignons point de mettre tout en usage, sur la permission que vous m'avez donnÃ©e. </s>
+	<s id='2'>Ne nous demandez point tous les ressorts que nous ferons jouer : vous en aurez le divertissement ; et, comme aux comÃ©dies, il est bon de vous laisser le plaisir de la surprise, et de ne vous avertir point de tout ce qu'on vous fera voir. </s>
+	<s id='3'>C'est assez de vous dire que nous avons en main divers stratagÃ¨mes tous prÃªts Ã  produire dans l'occasion, et que l'ingÃ©nieuse NÃ©rine et l'adroit Sbrigani entreprennent l'affaire.</s>
 </p>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
+<sp who='NERINE'><speaker>NÃ‰RINE.</speaker>
 <p id='12'>
-	<s id='1'>Assurément. </s>
-	<s id='2'>Votre père se moque-t-il de vouloir vous anger de son avocat de Limoges, Monsieur de Pourceaugnac, qu'il n'a vu de sa vie, et qui vient par le coche vous enlever à notre barbe ? </s>
-	<s id='3'>Faut-il que trois ou quatre mille écus de plus, sur la parole de votre oncle, lui fassent rejeter un amant qui vous agrée ? </s>
+	<s id='1'>AssurÃ©ment. </s>
+	<s id='2'>Votre pÃ¨re se moque-t-il de vouloir vous anger de son avocat de Limoges, Monsieur de Pourceaugnac, qu'il n'a vu de sa vie, et qui vient par le coche vous enlever Ã  notre barbe ? </s>
+	<s id='3'>Faut-il que trois ou quatre mille Ã©cus de plus, sur la parole de votre oncle, lui fassent rejeter un amant qui vous agrÃ©e ? </s>
 	<s id='4'>Et une personne comme vous est-elle faite pour un Limousin ? </s>
-	<s id='5'>S'il a envie de se marier, que ne prend-il une Limosine et ne laisse-t-il en repos les chrétiens ? </s>
-	<s id='6'>Le seul nom de Monsieur de Pourceaugnac m'a mis dans une colère effroyable. </s>
+	<s id='5'>S'il a envie de se marier, que ne prend-il une Limosine et ne laisse-t-il en repos les chrÃ©tiens ? </s>
+	<s id='6'>Le seul nom de Monsieur de Pourceaugnac m'a mis dans une colÃ¨re effroyable. </s>
 	<s id='7'>J'enrage de Monsieur de Pourceaugnac. </s>
-	<s id='8'>Quand il n'y aurait que ce nom-là, Monsieur de Pourceaugnac, j'y brûlerai mes livres, ou je romprai ce mariage, et vous ne serez point Madame de Pourceaugnac. </s>
+	<s id='8'>Quand il n'y aurait que ce nom-lÃ , Monsieur de Pourceaugnac, j'y brÃ»lerai mes livres, ou je romprai ce mariage, et vous ne serez point Madame de Pourceaugnac. </s>
 	<s id='9'>Pourceaugnac ! </s>
 	<s id='10'>Cela se peut-il souffrir ? </s>
-	<s id='11'>Non, Pourceaugnac est une chose que je ne saurais supporter ; et nous lui jouerons tant de pièces, nous lui ferons tant de niches sur niches ; que nous renverrons à Limoges Monsieur de Pourceaugnac.</s>
+	<s id='11'>Non, Pourceaugnac est une chose que je ne saurais supporter ; et nous lui jouerons tant de piÃ¨ces, nous lui ferons tant de niches sur niches ; que nous renverrons Ã  Limoges Monsieur de Pourceaugnac.</s>
 </p>
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
@@ -190,12 +190,12 @@
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='2'><head>SCÈNE II. Sbrigani, Julie, Eraste, Nérine.</head>
+<div2 type="scene" n='2'><head>SCÃˆNE II. Sbrigani, Julie, Eraste, NÃ©rine.</head>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='1'>
-	<s id='1'>Monsieur, votre homme arrive, je l'ai vu à trois lieues d'ici, où a couché le coche ; et dans la cuisine où il est descendu pour déjeuner, je l'ai étudié une bonne grosse demie heure, et je le sais déjà par coeur. </s>
-	<s id='2'>Pour sa figure, je ne veux point vous en parler : vous verrez de quel air la nature l'a dessinée, et si l'ajustement qui l'accompagne y répond comme il faut. </s>
-	<s id='3'>Mais pour son esprit, je vous avertis par avance qu'il est des plus épais qui se fassent ; que nous trouvons en lui une matière tout à fait disposée pour ce que nous voulons, et qu'il est homme enfin à donner dans tous les panneaux qu'on lui présentera.</s>
+	<s id='1'>Monsieur, votre homme arrive, je l'ai vu Ã  trois lieues d'ici, oÃ¹ a couchÃ© le coche ; et dans la cuisine oÃ¹ il est descendu pour dÃ©jeuner, je l'ai Ã©tudiÃ© une bonne grosse demie heure, et je le sais dÃ©jÃ  par coeur. </s>
+	<s id='2'>Pour sa figure, je ne veux point vous en parler : vous verrez de quel air la nature l'a dessinÃ©e, et si l'ajustement qui l'accompagne y rÃ©pond comme il faut. </s>
+	<s id='3'>Mais pour son esprit, je vous avertis par avance qu'il est des plus Ã©pais qui se fassent ; que nous trouvons en lui une matiÃ¨re tout Ã  fait disposÃ©e pour ce que nous voulons, et qu'il est homme enfin Ã  donner dans tous les panneaux qu'on lui prÃ©sentera.</s>
 </p>
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
@@ -208,49 +208,49 @@
 	<s id='1'>Oui, si je me connais en gens.</s>
 </p>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
+<sp who='NERINE'><speaker>NÃ‰RINE.</speaker>
 <p id='4'>
-	<s id='1'>Madame, voilà un illustre ; votre affaire ne pouvait être mise en de meilleures mains, et c'est le héros de notre siècle pour les exploits dont il s'agit : un homme qui, vingt fois en sa vie, pour servir ses amis, a généreusement affronté les galères, qui, au péril de ses bras, et de ses épaules, sait mettre noblement à fin les aventures les plus difficiles ; et qui, tel que vous le voyez, est exilé de son pays pour je ne sais combien d'actions honorables qu'il a généreusement entreprises.</s>
+	<s id='1'>Madame, voilÃ  un illustre ; votre affaire ne pouvait Ãªtre mise en de meilleures mains, et c'est le hÃ©ros de notre siÃ¨cle pour les exploits dont il s'agit : un homme qui, vingt fois en sa vie, pour servir ses amis, a gÃ©nÃ©reusement affrontÃ© les galÃ¨res, qui, au pÃ©ril de ses bras, et de ses Ã©paules, sait mettre noblement Ã  fin les aventures les plus difficiles ; et qui, tel que vous le voyez, est exilÃ© de son pays pour je ne sais combien d'actions honorables qu'il a gÃ©nÃ©reusement entreprises.</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='5'>
-	<s id='1'>Je suis confus des louanges dont vous m'honorez, et je pourrais vous en donner, avec plus de justice, sur les merveilles de votre vie ; et principalement sur la gloire que vous acquîtes, lorsque, avec tant d'honnêteté, vous pipâtes au jeu, pour douze mille écus, ce jeune seigneur étranger que l'on mena chez vous ; lorsque vous fîtes galamment ce faux contrat qui ruina toute une famille ; lorsque, avec tant de grandeur d'âme, vous sûtes nier le dépôt qu'on vous avait confié ; et que si généreusement on vous vit prêter votre témoignage à faire pendre ces deux personnages qui ne l'avaient pas mérité.</s>
+	<s id='1'>Je suis confus des louanges dont vous m'honorez, et je pourrais vous en donner, avec plus de justice, sur les merveilles de votre vie ; et principalement sur la gloire que vous acquÃ®tes, lorsque, avec tant d'honnÃªtetÃ©, vous pipÃ¢tes au jeu, pour douze mille Ã©cus, ce jeune seigneur Ã©tranger que l'on mena chez vous ; lorsque vous fÃ®tes galamment ce faux contrat qui ruina toute une famille ; lorsque, avec tant de grandeur d'Ã¢me, vous sÃ»tes nier le dÃ©pÃ´t qu'on vous avait confiÃ© ; et que si gÃ©nÃ©reusement on vous vit prÃªter votre tÃ©moignage Ã  faire pendre ces deux personnages qui ne l'avaient pas mÃ©ritÃ©.</s>
 </p>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
+<sp who='NERINE'><speaker>NÃ‰RINE.</speaker>
 <p id='6'>
-	<s id='1'>Ce sont petites bagatelles qui ne valent pas qu'on en parle, et vos éloges me font rougir.</s>
+	<s id='1'>Ce sont petites bagatelles qui ne valent pas qu'on en parle, et vos Ã©loges me font rougir.</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='7'>
-	<s id='1'>Je veux bien épargner votre modestie : laissons cela ; et pour commencer notre affaire, allons vite joindre notre provincial, tandis que, de votre côté, vous nous tiendrez prêts au besoin les autres acteurs de la comédie.</s>
+	<s id='1'>Je veux bien Ã©pargner votre modestie : laissons cela ; et pour commencer notre affaire, allons vite joindre notre provincial, tandis que, de votre cÃ´tÃ©, vous nous tiendrez prÃªts au besoin les autres acteurs de la comÃ©die.</s>
 </p>
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
 <p id='8'>
-	<s id='1'>Au moins, Madame, souvenez-vous de votre rôle ; et pour mieux couvrir notre jeu, feignez, comme on vous a dit, d'être la plus contente du monde des résolutions de votre père.</s>
+	<s id='1'>Au moins, Madame, souvenez-vous de votre rÃ´le ; et pour mieux couvrir notre jeu, feignez, comme on vous a dit, d'Ãªtre la plus contente du monde des rÃ©solutions de votre pÃ¨re.</s>
 </p>
 </sp>
 <sp who='JULIE'><speaker>JULIE.</speaker>
 <p id='9'>
-	<s id='1'>S'il ne tient qu'à cela, les choses iront à merveille.</s>
+	<s id='1'>S'il ne tient qu'Ã  cela, les choses iront Ã  merveille.</s>
 </p>
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
 <p id='10'>
-	<s id='1'>Mais, belle Julie, si toutes nos machines venaient à ne pas réussir ?</s>
+	<s id='1'>Mais, belle Julie, si toutes nos machines venaient Ã  ne pas rÃ©ussir ?</s>
 </p>
 </sp>
 <sp who='JULIE'><speaker>JULIE.</speaker>
 <p id='11'>
-	<s id='1'>Je déclarerai à mon père mes véritables sentiments.</s>
+	<s id='1'>Je dÃ©clarerai Ã  mon pÃ¨re mes vÃ©ritables sentiments.</s>
 </p>
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
 <p id='12'>
-	<s id='1'>Et si, contre vos sentiments, il s'obstinait à son dessein ?</s>
+	<s id='1'>Et si, contre vos sentiments, il s'obstinait Ã  son dessein ?</s>
 </p>
 </sp>
 <sp who='JULIE'><speaker>JULIE.</speaker>
@@ -260,7 +260,7 @@
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
 <p id='14'>
-	<s id='1'>Mais si, malgré tout cela, il voulait vous forcer à ce mariage ?</s>
+	<s id='1'>Mais si, malgrÃ© tout cela, il voulait vous forcer Ã  ce mariage ?</s>
 </p>
 </sp>
 <sp who='JULIE'><speaker>JULIE.</speaker>
@@ -290,13 +290,13 @@
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
 <p id='20'>
-	<s id='1'>Que rien ne pourra vous contraindre, et que, malgré tous les efforts d'un père, vous me promettez d'être à moi.</s>
+	<s id='1'>Que rien ne pourra vous contraindre, et que, malgrÃ© tous les efforts d'un pÃ¨re, vous me promettez d'Ãªtre Ã  moi.</s>
 </p>
 </sp>
 <sp who='JULIE'><speaker>JULIE.</speaker>
 <p id='21'>
 	<s id='1'>Mon Dieu ! </s>
-	<s id='2'>Eraste, contentez-vous de ce que je fais maintenant, et n'allez point tenter sur l'avenir les résolutions de mon coeur ; ne fatiguez point mon devoir par les propositions d'une fâcheuse extrémité, dont peut-être n'aurons-nous pas besoin ; et s'il y faut venir, souffrez au moins que j'y sois entraînée par la suite des choses.</s>
+	<s id='2'>Eraste, contentez-vous de ce que je fais maintenant, et n'allez point tenter sur l'avenir les rÃ©solutions de mon coeur ; ne fatiguez point mon devoir par les propositions d'une fÃ¢cheuse extrÃ©mitÃ©, dont peut-Ãªtre n'aurons-nous pas besoin ; et s'il y faut venir, souffrez au moins que j'y sois entraÃ®nÃ©e par la suite des choses.</s>
 </p>
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
@@ -306,24 +306,24 @@
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='23'>
-	<s id='1'>Ma foi, voici notre homme, songeons à nous.</s>
+	<s id='1'>Ma foi, voici notre homme, songeons Ã  nous.</s>
 </p>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
+<sp who='NERINE'><speaker>NÃ‰RINE.</speaker>
 <p id='24'>
 	<s id='1'>Ah ! </s>
-	<s id='2'>Comme il est bâti !</s>
+	<s id='2'>Comme il est bÃ¢ti !</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='3'><head>SCÈNE III. Monsieur de Pourceaugnac se tourne du côté d'où il vient, comme parlant à des gens qui le suivent, Sbrigani.</head>
+<div2 type="scene" n='3'><head>SCÃˆNE III. Monsieur de Pourceaugnac se tourne du cÃ´tÃ© d'oÃ¹ il vient, comme parlant Ã  des gens qui le suivent, Sbrigani.</head>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='1'>
-	<s id='1'>Hé bien, quoi ? </s>
+	<s id='1'>HÃ© bien, quoi ? </s>
 	<s id='2'>Qu'est-ce ? </s>
 	<s id='3'>Qu'y a-t-il ? </s>
 	<s id='4'>Au diantre soit la sotte ville, et les sottes gens qui y sont ! </s>
-	<s id='4'>Ne pouvoir faire un pas sans trouver des nigauds qui vous regardent et se mettent à rire ! </s>
+	<s id='4'>Ne pouvoir faire un pas sans trouver des nigauds qui vous regardent et se mettent Ã  rire ! </s>
 	<s id='5'>Eh ! </s>
 	<s id='6'>Messieurs les badauds, faites vos affaires, et laissez passer les personnes sans leur rire au nez. </s>
 	<s id='7'>Je me donne au diable, si je ne baille un coup de poing au premier que je verrai rire.</s>
@@ -333,19 +333,19 @@
 <p id='2'>
 	<s id='1'>Qu'est-ce que c'est, Messieurs ? </s>
 	<s id='2'>Que veut dire cela ? </s>
-	<s id='3'>À qui en avez-vous ? </s>
-	<s id='4'>Faut-il se moquer ainsi des honnêtes étrangers qui arrivent ici ?</s>
+	<s id='3'>Ã€ qui en avez-vous ? </s>
+	<s id='4'>Faut-il se moquer ainsi des honnÃªtes Ã©trangers qui arrivent ici ?</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='3'>
-	<s id='1'>Voilà un homme raisonnable, celui-là.</s>
+	<s id='1'>VoilÃ  un homme raisonnable, celui-lÃ .</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='4'>
-	<s id='1'>Quel procédé est le vôtre ? </s>
-	<s id='2'>Et qu'avez-vous à rire ?</s>
+	<s id='1'>Quel procÃ©dÃ© est le vÃ´tre ? </s>
+	<s id='2'>Et qu'avez-vous Ã  rire ?</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
@@ -375,7 +375,7 @@
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='10'>
-	<s id='1'>Apprenez à connaître les gens.</s>
+	<s id='1'>Apprenez Ã  connaÃ®tre les gens.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
@@ -385,7 +385,7 @@
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='12'>
-	<s id='1'>Monsieur est d'une mine à respecter.</s>
+	<s id='1'>Monsieur est d'une mine Ã  respecter.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
@@ -410,7 +410,7 @@
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='17'>
-	<s id='1'>Qui a étudié en droit.</s>
+	<s id='1'>Qui a Ã©tudiÃ© en droit.</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
@@ -425,27 +425,27 @@
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='20'>
-	<s id='1'>Monsieur n'est point une personne à faire rire.</s>
+	<s id='1'>Monsieur n'est point une personne Ã  faire rire.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='21'>
-	<s id='1'>Assurément.</s>
+	<s id='1'>AssurÃ©ment.</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='22'>
-	<s id='1'>Et quiconque rira de lui aura affaire à moi.</s>
+	<s id='1'>Et quiconque rira de lui aura affaire Ã  moi.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='23'>
-	<s id='1'>Monsieur, je vous suis infiniment obligé.</s>
+	<s id='1'>Monsieur, je vous suis infiniment obligÃ©.</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='24'>
-	<s id='1'>Je suis fâché, Monsieur, de voir recevoir de la sorte une personne comme vous, et je vous demande pardon pour la ville.</s>
+	<s id='1'>Je suis fÃ¢chÃ©, Monsieur, de voir recevoir de la sorte une personne comme vous, et je vous demande pardon pour la ville.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
@@ -455,22 +455,22 @@
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='26'>
-	<s id='1'>Je vous ai vu ce matin, Monsieur, avec le coche, lorsque vous avez déjeuné ; et la grâce avec laquelle vous mangiez votre pain m'a fait naître d'abord de l'amitié pour vous ; et comme je sais que vous n'êtes jamais venu en ce pays, et que vous y êtes tout neuf, je suis bien aise de vous avoir trouvé, pour vous offrir mon service à cette arrivée, et vous aider à vous conduire parmi ce peuple, qui n'a pas parfois pour les honnêtes gens toute la considération qu'il faudrait.</s>
+	<s id='1'>Je vous ai vu ce matin, Monsieur, avec le coche, lorsque vous avez dÃ©jeunÃ© ; et la grÃ¢ce avec laquelle vous mangiez votre pain m'a fait naÃ®tre d'abord de l'amitiÃ© pour vous ; et comme je sais que vous n'Ãªtes jamais venu en ce pays, et que vous y Ãªtes tout neuf, je suis bien aise de vous avoir trouvÃ©, pour vous offrir mon service Ã  cette arrivÃ©e, et vous aider Ã  vous conduire parmi ce peuple, qui n'a pas parfois pour les honnÃªtes gens toute la considÃ©ration qu'il faudrait.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='27'>
-	<s id='1'>C'est trop de grâce que vous me faites.</s>
+	<s id='1'>C'est trop de grÃ¢ce que vous me faites.</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='28'>
-	<s id='1'>Je vous l'ai déjà dit : du moment que je vous ai vu, je me suis senti pour vous de l'inclination.</s>
+	<s id='1'>Je vous l'ai dÃ©jÃ  dit : du moment que je vous ai vu, je me suis senti pour vous de l'inclination.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='29'>
-	<s id='1'>Je vous suis obligé.</s>
+	<s id='1'>Je vous suis obligÃ©.</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
@@ -485,7 +485,7 @@
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='32'>
-	<s id='1'>J'y ai vu quelque chose d'honnête.</s>
+	<s id='1'>J'y ai vu quelque chose d'honnÃªte.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
@@ -561,7 +561,7 @@
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='46'>
-	<s id='1'>Je vous assure que je suis tout à vous.</s>
+	<s id='1'>Je vous assure que je suis tout Ã  vous.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
@@ -581,7 +581,7 @@
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='50'>
-	<s id='1'>Si j'avais l'honneur d'être connu de vous, vous sauriez que je suis un homme tout à fait sincère.</s>
+	<s id='1'>Si j'avais l'honneur d'Ãªtre connu de vous, vous sauriez que je suis un homme tout Ã  fait sincÃ¨re.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
@@ -596,34 +596,34 @@
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='53'>
-	<s id='1'>J'en suis persuadé.</s>
+	<s id='1'>J'en suis persuadÃ©.</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='54'>
-	<s id='1'>Et qui n'est pas capable de déguiser ses sentiments.</s>
+	<s id='1'>Et qui n'est pas capable de dÃ©guiser ses sentiments.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='55'>
-	<s id='1'>C'est ma pensée.</s>
+	<s id='1'>C'est ma pensÃ©e.</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='56'>
-	<s id='1'>Vous regardez mon habit qui n'est pas fait comme les autres ; mais je suis originaire de Naples, à votre service, et j'ai voulu conserver un peu et la manière de s'habiller, et la sincérité de mon pays.</s>
+	<s id='1'>Vous regardez mon habit qui n'est pas fait comme les autres ; mais je suis originaire de Naples, Ã  votre service, et j'ai voulu conserver un peu et la maniÃ¨re de s'habiller, et la sincÃ©ritÃ© de mon pays.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='57'>
 	<s id='1'>C'est fort bien fait. </s>
-	<s id='2'>Pour moi, j'ai voulu me mettre à la mode de la cour pour la campagne.</s>
+	<s id='2'>Pour moi, j'ai voulu me mettre Ã  la mode de la cour pour la campagne.</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='58'>
 	<s id='1'>Ma foi ! </s>
-	<s id='2'>Cela vous va mieux qu'à tous nos courtisans.</s>
+	<s id='2'>Cela vous va mieux qu'Ã  tous nos courtisans.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
@@ -654,7 +654,7 @@
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='64'>
-	<s id='1'>Avez-vous arrêté un logis ?</s>
+	<s id='1'>Avez-vous arrÃªtÃ© un logis ?</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
@@ -664,11 +664,11 @@
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='66'>
-	<s id='1'>Je serai bien aise d'être avec vous pour cela, et je connais tout ce pays-ci.</s>
+	<s id='1'>Je serai bien aise d'Ãªtre avec vous pour cela, et je connais tout ce pays-ci.</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='4'><head>SCÈNE IV. Eraste, Sbrigani, Monsieur de Pourceaugnac. </head>
+<div2 type="scene" n='4'><head>SCÃˆNE IV. Eraste, Sbrigani, Monsieur de Pourceaugnac. </head>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
 <p id='1'>
 	<s id='1'>Ah ! </s>
@@ -678,7 +678,7 @@
 	<s id='5'>Monsieur de Pourceaugnac ! </s>
 	<s id='6'>Que je suis ravi de vous voir ! </s>
 	<s id='7'>Comment ? </s>
-	<s id='8'>Il semble que vous ayez peine à me reconnaître !</s>
+	<s id='8'>Il semble que vous ayez peine Ã  me reconnaÃ®tre !</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
@@ -688,7 +688,7 @@
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
 <p id='3'>
-	<s id='1'>Est-il possible que cinq ou six années m'aient ôté de votre mémoire ? </s>
+	<s id='1'>Est-il possible que cinq ou six annÃ©es m'aient Ã´tÃ© de votre mÃ©moire ? </s>
 	<s id='2'>Et que vous ne reconnaissiez pas le meilleur ami de toute la famille des Pourceaugnac ?</s>
 </p>
 </sp>
@@ -696,7 +696,7 @@
 <p id='4'>
 	<s id='1'>Pardonnez-moi. </s>
 </p>
-<stage>À Sbrigani.</stage>
+<stage>Ã€ Sbrigani.</stage>
 <p id='5'>
 	<s id='1'>Ma foi ! </s>
 	<s id='2'>Je ne sais qui il est.</s>
@@ -704,12 +704,12 @@
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
 <p id='6'>
-	<s id='1'>Il n'y a pas un Pourceaugnac à Limoges que je ne connaisse depuis le plus grand jusques au plus petit ; je ne fréquentais qu'eux dans le temps que j'y étais, et j'avais l'honneur de vous voir presque tous les jours.</s>
+	<s id='1'>Il n'y a pas un Pourceaugnac Ã  Limoges que je ne connaisse depuis le plus grand jusques au plus petit ; je ne frÃ©quentais qu'eux dans le temps que j'y Ã©tais, et j'avais l'honneur de vous voir presque tous les jours.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='7'>
-	<s id='1'>C'est moi qui l'ai reçu, Monsieur.</s>
+	<s id='1'>C'est moi qui l'ai reÃ§u, Monsieur.</s>
 </p>
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
@@ -721,7 +721,7 @@
 <p id='9'>
 	<s id='1'>Si fait. </s>
 </p>
-<stage>À Sbrigani.</stage>
+<stage>Ã€ Sbrigani.</stage>
 <p id='10'>
 	<s id='1'>Je ne le connais point.</s>
 </p>
@@ -735,14 +735,14 @@
 <p id='12'>
 	<s id='1'>Excusez-moi. </s>
 </p>
-<stage>À Sbrigani.</stage>
+<stage>Ã€ Sbrigani.</stage>
 <p id='13'>
 	<s id='1'>Je ne sais ce que c'est.</s>
 </p>
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
 <p id='14'>
-	<s id='1'>Comment appelez-vous ce traiteur de Limoges qui fait si bonne chère ?</s>
+	<s id='1'>Comment appelez-vous ce traiteur de Limoges qui fait si bonne chÃ¨re ?</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
@@ -752,19 +752,19 @@
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
 <p id='16'>
-	<s id='1'>Le voilà. </s>
-	<s id='2'>Nous allions le plus souvent ensemble chez lui nous réjouir. </s>
-	<s id='3'>Comment est-ce que vous nommez à Limoges ce lieu où l'on se promène ?</s>
+	<s id='1'>Le voilÃ . </s>
+	<s id='2'>Nous allions le plus souvent ensemble chez lui nous rÃ©jouir. </s>
+	<s id='3'>Comment est-ce que vous nommez Ã  Limoges ce lieu oÃ¹ l'on se promÃ¨ne ?</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='17'>
-	<s id='1'>Le cimetière des Arènes ?</s>
+	<s id='1'>Le cimetiÃ¨re des ArÃ¨nes ?</s>
 </p>
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
 <p id='18'>
-	<s id='1'>Justement : c'est où je passais de si douces heures à jouir de votre agréable conversation. </s>
+	<s id='1'>Justement : c'est oÃ¹ je passais de si douces heures Ã  jouir de votre agrÃ©able conversation. </s>
 	<s id='2'>Vous ne vous remettez pas tout cela ?</s>
 </p>
 </sp>
@@ -772,36 +772,36 @@
 <p id='19'>
 	<s id='1'>Excusez-moi, je me le remets. </s>
 </p>
-<stage>À Sbrigani.</stage>
+<stage>Ã€ Sbrigani.</stage>
 <p id='20'>
 	<s id='1'>Diable emporte si je m'en souviens !</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='21'>
-	<s id='1'>Il y a cent choses comme cela qui passent de la tête.</s>
+	<s id='1'>Il y a cent choses comme cela qui passent de la tÃªte.</s>
 </p>
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
 <p id='22'>
-	<s id='1'>Embrassez-moi donc, je vous prie, et resserrons les noeuds de notre ancienne amitié.</s>
+	<s id='1'>Embrassez-moi donc, je vous prie, et resserrons les noeuds de notre ancienne amitiÃ©.</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='23'>
-	<s id='1'>Voilà un homme qui vous aime fort.</s>
+	<s id='1'>VoilÃ  un homme qui vous aime fort.</s>
 </p>
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
 <p id='24'>
-	<s id='1'>Dites-moi un peu des nouvelles de toute la parenté : comment se porte Monsieur votre... </s>
-	<s id='2'>là... </s>
-	<s id='3'>Qui est si honnête homme ?</s>
+	<s id='1'>Dites-moi un peu des nouvelles de toute la parentÃ© : comment se porte Monsieur votre... </s>
+	<s id='2'>lÃ ... </s>
+	<s id='3'>Qui est si honnÃªte homme ?</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='25'>
-	<s id='1'>Mon frère le consul ?</s>
+	<s id='1'>Mon frÃ¨re le consul ?</s>
 </p>
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
@@ -818,7 +818,7 @@
 <p id='28'>
 	<s id='1'>Certes j'en suis ravi. </s>
 	<s id='2'>Et celui qui est de si bonne humeur ? </s>
-	<s id='3'>Là... </s>
+	<s id='3'>LÃ ... </s>
 	<s id='4'>Monsieur votre... ?</s>
 </p>
 </sp>
@@ -852,7 +852,7 @@
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
 <p id='34'>
-	<s id='1'>Vous aviez pourtant en ce temps-là...</s>
+	<s id='1'>Vous aviez pourtant en ce temps-lÃ ...</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
@@ -872,20 +872,20 @@
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
 <p id='38'>
-	<s id='1'>Hélas ! </s>
+	<s id='1'>HÃ©las ! </s>
 	<s id='2'>La pauvre femme ! </s>
-	<s id='3'>Elle était si bonne personne.</s>
+	<s id='3'>Elle Ã©tait si bonne personne.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
-<note type="L">Chanoine : celui qui possède une prébende dans une église cathédrale, ou colléfiale, c'est à dire un certain revenu affecté à ceux qui y doivent faire le service divin. [F]</note>
+<note type="L">Chanoine : celui qui possÃ¨de une prÃ©bende dans une Ã©glise cathÃ©drale, ou collÃ©fiale, c'est Ã  dire un certain revenu affectÃ© Ã  ceux qui y doivent faire le service divin. [F]</note>
 <p id='39'>
-	<s id='1'>Nous avons aussi mon neveu le chanoine qui a pensé mourir de la petite vérole.</s>
+	<s id='1'>Nous avons aussi mon neveu le chanoine qui a pensÃ© mourir de la petite vÃ©role.</s>
 </p>
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
 <p id='40'>
-	<s id='1'>Quel dommage ç'aurait été !</s>
+	<s id='1'>Quel dommage Ã§'aurait Ã©tÃ© !</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
@@ -896,7 +896,7 @@
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
 <p id='42'>
 	<s id='1'>Vraiment si je le connais ! </s>
-	<s id='2'>Un grand garçon bien fait.</s>
+	<s id='2'>Un grand garÃ§on bien fait.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
@@ -927,7 +927,7 @@
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
 <p id='48'>
-	<s id='1'>Fils de votre frère et de votre soeur...</s>
+	<s id='1'>Fils de votre frÃ¨re et de votre soeur...</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
@@ -937,7 +937,7 @@
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
 <p id='50'>
-	<s id='1'>Chanoine de l'église de... </s>
+	<s id='1'>Chanoine de l'Ã©glise de... </s>
 	<s id='2'>Comment l'appelez-vous ?</s>
 </p>
 </sp>
@@ -948,22 +948,22 @@
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
 <p id='52'>
-	<s id='1'>Le voilà, je ne connais autre.</s>
+	<s id='1'>Le voilÃ , je ne connais autre.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='53'>
-	<s id='1'>Il dit toute la parenté.</s>
+	<s id='1'>Il dit toute la parentÃ©.</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='54'>
-	<s id='1'>Il vous connaît plus que vous ne croyez.</s>
+	<s id='1'>Il vous connaÃ®t plus que vous ne croyez.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='55'>
-	<s id='1'>À ce que je vois, vous avez demeuré longtemps dans notre ville ?</s>
+	<s id='1'>Ã€ ce que je vois, vous avez demeurÃ© longtemps dans notre ville ?</s>
 </p>
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
@@ -973,12 +973,12 @@
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='57'>
-	<s id='1'>Vous étiez donc là quand mon cousin l'élu fit tenir son enfant à Monsieur notre gouverneur ?</s>
+	<s id='1'>Vous Ã©tiez donc lÃ  quand mon cousin l'Ã©lu fit tenir son enfant Ã  Monsieur notre gouverneur ?</s>
 </p>
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
 <p id='58'>
-	<s id='1'>Vraiment oui, j'y fus convié des premiers.</s>
+	<s id='1'>Vraiment oui, j'y fus conviÃ© des premiers.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
@@ -988,12 +988,12 @@
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
 <p id='60'>
-	<s id='1'>Très galant.</s>
+	<s id='1'>TrÃ¨s galant.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='61'>
-	<s id='1'>C'était un repas bien troussé.</s>
+	<s id='1'>C'Ã©tait un repas bien troussÃ©.</s>
 </p>
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
@@ -1003,7 +1003,7 @@
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='63'>
-	<s id='1'>Vous vîtes donc aussi la querelle que j'eus avec ce gentilhomme périgordin ?</s>
+	<s id='1'>Vous vÃ®tes donc aussi la querelle que j'eus avec ce gentilhomme pÃ©rigordin ?</s>
 </p>
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
@@ -1014,7 +1014,7 @@
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='65'>
 	<s id='1'>Parbleu ! </s>
-	<s id='2'>Il trouva à qui parler.</s>
+	<s id='2'>Il trouva Ã  qui parler.</s>
 </p>
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
@@ -1024,15 +1024,15 @@
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
-<note type="L">Soufflet : est aussi un coup donné du plat de la main sur la joue. Le soufflet est un des plus grand affront qu'on puisse faire à un gentilhomme. [F]</note>
+<note type="L">Soufflet : est aussi un coup donnÃ© du plat de la main sur la joue. Le soufflet est un des plus grand affront qu'on puisse faire Ã  un gentilhomme. [F]</note>
 <p id='67'>
 	<s id='1'>Il me donna un soufflet, mais je lui dis bien son fait.</s>
 </p>
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
 <p id='68'>
-	<s id='1'>Assurément. </s>
-	<s id='2'>Au reste, je ne prétends pas que vous preniez d'autre logis que le mien.</s>
+	<s id='1'>AssurÃ©ment. </s>
+	<s id='2'>Au reste, je ne prÃ©tends pas que vous preniez d'autre logis que le mien.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
@@ -1059,38 +1059,38 @@
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='73'>
-	<s id='1'>Puisqu'il le veut obstinément, je vous conseille d'accepter l'offre.</s>
+	<s id='1'>Puisqu'il le veut obstinÃ©ment, je vous conseille d'accepter l'offre.</s>
 </p>
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
-<note type="L">Hardes : signifie les habits et meubles portatifs qui servent à vêtir ou à parer une personne ou sa chambre. [F]</note>
+<note type="L">Hardes : signifie les habits et meubles portatifs qui servent Ã  vÃªtir ou Ã  parer une personne ou sa chambre. [F]</note>
 <p id='74'>
-	<s id='1'>Où sont vos hardes ?</s>
+	<s id='1'>OÃ¹ sont vos hardes ?</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='75'>
-	<s id='1'>Je les ai laissées, avec mon valet, où je suis descendu.</s>
+	<s id='1'>Je les ai laissÃ©es, avec mon valet, oÃ¹ je suis descendu.</s>
 </p>
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
 <p id='76'>
-	<s id='1'>Envoyons-les quérir par quelqu'un.</s>
+	<s id='1'>Envoyons-les quÃ©rir par quelqu'un.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='77'>
-	<s id='1'>Non : je lui ai défendu de bouger, à moins que j'y fusse moi-même, de peur de quelque fourberie.</s>
+	<s id='1'>Non : je lui ai dÃ©fendu de bouger, Ã  moins que j'y fusse moi-mÃªme, de peur de quelque fourberie.</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='78'>
-	<s id='1'>C'est prudemment avisé.</s>
+	<s id='1'>C'est prudemment avisÃ©.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='79'>
-	<s id='1'>Ce pays-ci est un peu sujet à caution.</s>
+	<s id='1'>Ce pays-ci est un peu sujet Ã  caution.</s>
 </p>
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
@@ -1100,17 +1100,17 @@
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='81'>
-	<s id='1'>Je vais accompagner Monsieur, et le ramènerai où vous voudrez.</s>
+	<s id='1'>Je vais accompagner Monsieur, et le ramÃ¨nerai oÃ¹ vous voudrez.</s>
 </p>
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
 <p id='82'>
-	<s id='1'>Oui, je serai bien aise de donner quelques ordres, et vous n'avez qu'à revenir à cette maison-là.</s>
+	<s id='1'>Oui, je serai bien aise de donner quelques ordres, et vous n'avez qu'Ã  revenir Ã  cette maison-lÃ .</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='83'>
-	<s id='1'>Nous sommes à vous tout à l'heure.</s>
+	<s id='1'>Nous sommes Ã  vous tout Ã  l'heure.</s>
 </p>
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
@@ -1120,74 +1120,74 @@
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='85'>
-	<s id='1'>Voilà une connaissance où je ne m'attendais point.</s>
+	<s id='1'>VoilÃ  une connaissance oÃ¹ je ne m'attendais point.</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='86'>
-	<s id='1'>Il a la mine d'être honnête homme.</s>
+	<s id='1'>Il a la mine d'Ãªtre honnÃªte homme.</s>
 </p>
 </sp>
 <sp who='ERASTE'><speaker>ERASTE, seul.</speaker>
 <p id='87'>
 	<s id='1'>Ma foi ! </s>
-	<s id='2'>Monsieur de Pourceaugnac, nous vous en donnerons de toutes les façons ; les choses sont préparées, et je n'ai qu'à frapper.</s>
+	<s id='2'>Monsieur de Pourceaugnac, nous vous en donnerons de toutes les faÃ§ons ; les choses sont prÃ©parÃ©es, et je n'ai qu'Ã  frapper.</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='5'><head>SCÈNE V. L'Apothicaire, Eraste.</head>
+<div2 type="scene" n='5'><head>SCÃˆNE V. L'Apothicaire, Eraste.</head>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
 <p id='1'>
-	<s id='1'>Je crois, Monsieur, que vous êtes le médecin à qui l'on est venu parler de ma part.</s>
+	<s id='1'>Je crois, Monsieur, que vous Ãªtes le mÃ©decin Ã  qui l'on est venu parler de ma part.</s>
 </p>
 </sp>
 <sp who='L-APOTHICAIRE'><speaker>L'APOTHICAIRE.</speaker>
 <p id='2'>
-	<s id='1'>Non, Monsieur, ce n'est pas moi qui suis le médecin ; à moi n'appartient pas cet honneur, et je ne suis qu'apothicaire, apothicaire indigne, pour vous servir.</s>
+	<s id='1'>Non, Monsieur, ce n'est pas moi qui suis le mÃ©decin ; Ã  moi n'appartient pas cet honneur, et je ne suis qu'apothicaire, apothicaire indigne, pour vous servir.</s>
 </p>
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
 <p id='3'>
-	<s id='1'>Et Monsieur le médecin est-il à la maison ?</s>
+	<s id='1'>Et Monsieur le mÃ©decin est-il Ã  la maison ?</s>
 </p>
 </sp>
 <sp who='L-APOTHICAIRE'><speaker>L'APOTHICAIRE.</speaker>
 <p id='4'>
-	<s id='1'>Oui, il est là embarrassé à expédier quelques malades, et je vais lui dire que vous êtes ici.</s>
+	<s id='1'>Oui, il est lÃ  embarrassÃ© Ã  expÃ©dier quelques malades, et je vais lui dire que vous Ãªtes ici.</s>
 </p>
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
 <p id='5'>
-	<s id='1'>Non, ne bougez : j'attendrai qu'il ait fait ; c'est pour lui mettre entre les mains certain parent que nous avons, dont on lui a parlé, et qui se trouve attaqué de quelque folie, que nous serions bien aises qu'il pût guérir avant que de le marier.</s>
+	<s id='1'>Non, ne bougez : j'attendrai qu'il ait fait ; c'est pour lui mettre entre les mains certain parent que nous avons, dont on lui a parlÃ©, et qui se trouve attaquÃ© de quelque folie, que nous serions bien aises qu'il pÃ»t guÃ©rir avant que de le marier.</s>
 </p>
 </sp>
 <sp who='L-APOTHICAIRE'><speaker>L'APOTHICAIRE.</speaker>
 <p id='6'>
-	<s id='1'>Je sais ce que c'est, je sais ce que c'est, et j'étais avec lui quand on lui a parlé de cette affaire. </s>
+	<s id='1'>Je sais ce que c'est, je sais ce que c'est, et j'Ã©tais avec lui quand on lui a parlÃ© de cette affaire. </s>
 	<s id='2'>Ma foi, ma foi ! </s>
-	<s id='3'>Vous ne pouviez pas vous adresser à un médecin plus habile : c'est un homme qui sait la médecine à fond, comme je sais ma croix de par Dieu, et qui, quand on devrait crever, ne démordrait pas d'un iota des règles des anciens. </s>
-	<s id=''>Oui, il suit toujours le grand chemin, le grand chemin, et ne va point chercher midi à quatorze heures ; et pour tout l'or du monde, il ne voudrait point avoir guéri une personne avec d'autres remèdes que ceux que la Faculté permet.</s>
+	<s id='3'>Vous ne pouviez pas vous adresser Ã  un mÃ©decin plus habile : c'est un homme qui sait la mÃ©decine Ã  fond, comme je sais ma croix de par Dieu, et qui, quand on devrait crever, ne dÃ©mordrait pas d'un iota des rÃ¨gles des anciens. </s>
+	<s id=''>Oui, il suit toujours le grand chemin, le grand chemin, et ne va point chercher midi Ã  quatorze heures ; et pour tout l'or du monde, il ne voudrait point avoir guÃ©ri une personne avec d'autres remÃ¨des que ceux que la FacultÃ© permet.</s>
 </p>
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
 <p id='7'>
-	<s id='1'>Il fait fort bien : un malade ne doit point vouloir guérir que la Faculté n'y consente.</s>
+	<s id='1'>Il fait fort bien : un malade ne doit point vouloir guÃ©rir que la FacultÃ© n'y consente.</s>
 </p>
 </sp>
 <sp who='L-APOTHICAIRE'><speaker>L'APOTHICAIRE.</speaker>
 <p id='8'>
-	<s id='1'>Ce n'est pas parce que nous sommes grands amis, que j'en parle ; mais il y a plaisir, il y a plaisir d'être son malade ; et j'aimerais mieux mourir de ses remèdes que de guérir de ceux d'un autre ; car, quoi qui puisse arriver, on est assuré que les choses sont toujours dans l'ordre ; et quand on meurt sous sa conduite, vos héritiers n'ont rien à vous reprocher.</s>
+	<s id='1'>Ce n'est pas parce que nous sommes grands amis, que j'en parle ; mais il y a plaisir, il y a plaisir d'Ãªtre son malade ; et j'aimerais mieux mourir de ses remÃ¨des que de guÃ©rir de ceux d'un autre ; car, quoi qui puisse arriver, on est assurÃ© que les choses sont toujours dans l'ordre ; et quand on meurt sous sa conduite, vos hÃ©ritiers n'ont rien Ã  vous reprocher.</s>
 </p>
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
 <p id='9'>
-	<s id='1'>C'est une grande consolation pour un défunt.</s>
+	<s id='1'>C'est une grande consolation pour un dÃ©funt.</s>
 </p>
 </sp>
 <sp who='L-APOTHICAIRE'><speaker>L'APOTHICAIRE.</speaker>
 <p id='10'>
-	<s id='1'>Assurément : on est bien aise au moins d'être mort méthodiquement. </s>
-	<s id='2'>Au reste, il n'est pas de ces médecins qui marchandent les maladies : c'est un homme expéditif, qui aime à dépêcher ses malades ; et quand on a à mourir, cela se fait avec lui le plus vite du monde.</s>
+	<s id='1'>AssurÃ©ment : on est bien aise au moins d'Ãªtre mort mÃ©thodiquement. </s>
+	<s id='2'>Au reste, il n'est pas de ces mÃ©decins qui marchandent les maladies : c'est un homme expÃ©ditif, qui aime Ã  dÃ©pÃªcher ses malades ; et quand on a Ã  mourir, cela se fait avec lui le plus vite du monde.</s>
 </p>
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
@@ -1196,9 +1196,9 @@
 </p>
 </sp>
 <sp who='L-APOTHICAIRE'><speaker>L'APOTHICAIRE.</speaker>
-<note type="L">Barguigner : se dit figurément en choses spirituelles, des irrésolutions d'esprit, quand un homme a du mal à se résoudre, à donner quelque parole, à conclure une affaire, à se défaire de quelque engagement. [F]</note>
+<note type="L">Barguigner : se dit figurÃ©ment en choses spirituelles, des irrÃ©solutions d'esprit, quand un homme a du mal Ã  se rÃ©soudre, Ã  donner quelque parole, Ã  conclure une affaire, Ã  se dÃ©faire de quelque engagement. [F]</note>
 <p id='12'>
-	<s id='1'>Cela est vrai : à quoi bon tant barguigner et tant tourner autour du pot ? </s>
+	<s id='1'>Cela est vrai : Ã  quoi bon tant barguigner et tant tourner autour du pot ? </s>
 	<s id='2'>Il faut savoir vitement le court ou le long d'une maladie.</s>
 </p>
 </sp>
@@ -1209,7 +1209,7 @@
 </sp>
 <sp who='L-APOTHICAIRE'><speaker>L'APOTHICAIRE.</speaker>
 <p id='14'>
-	<s id='1'>Voilà déjà trois de mes enfants dont il m'a fait l'honneur de conduire la maladie, qui sont morts en moins de quatre jours et qui, entre les mains d'un autre, auraient langui plus de trois mois.</s>
+	<s id='1'>VoilÃ  dÃ©jÃ  trois de mes enfants dont il m'a fait l'honneur de conduire la maladie, qui sont morts en moins de quatre jours et qui, entre les mains d'un autre, auraient langui plus de trois mois.</s>
 </p>
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
@@ -1220,12 +1220,12 @@
 <sp who='L-APOTHICAIRE'><speaker>L'APOTHICAIRE.</speaker>
 <p id='16'>
 	<s id='1'>Sans doute. </s>
-	<s id='2'>Il ne me reste plus que deux enfants, dont il prend soin comme des siens ; il les traite et gouverne à sa fantaisie, sans que je me mêle de rien ; et le plus souvent, quand je reviens de la ville, je suis tout étonné que je les trouve saignés ou purgés par son ordre.</s>
+	<s id='2'>Il ne me reste plus que deux enfants, dont il prend soin comme des siens ; il les traite et gouverne Ã  sa fantaisie, sans que je me mÃªle de rien ; et le plus souvent, quand je reviens de la ville, je suis tout Ã©tonnÃ© que je les trouve saignÃ©s ou purgÃ©s par son ordre.</s>
 </p>
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
 <p id='17'>
-	<s id='1'>Voilà des soins fort obligeants.</s>
+	<s id='1'>VoilÃ  des soins fort obligeants.</s>
 </p>
 </sp>
 <sp who='L-APOTHICAIRE'><speaker>L'APOTHICAIRE.</speaker>
@@ -1234,15 +1234,15 @@
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='6'><head>SCÈNE VI. Premier Médecin, Un Paysan, Une Paysanne, Eraste, L'Apothicaire.</head>
+<div2 type="scene" n='6'><head>SCÃˆNE VI. Premier MÃ©decin, Un Paysan, Une Paysanne, Eraste, L'Apothicaire.</head>
 <sp who='LE-PAYSAN'><speaker>LE PAYSAN</speaker>
 <p id='1'>
-       <s id='1'>Monsieur, il n'en peut plus, et il dit qu'il sent dans la tête les plus grandes douleurs du monde.</s>
+       <s id='1'>Monsieur, il n'en peut plus, et il dit qu'il sent dans la tÃªte les plus grandes douleurs du monde.</s>
 </p>
 </sp>
-<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÉDECIN.</speaker>
+<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÃ‰DECIN.</speaker>
 <p id='2'>
-	<s id='1'>Le malade est un sot, d'autant plus que, dans la maladie dont il est attaqué, ce n'est pas la tête, selon Galien, mais la rate, qui lui doit faire mal.</s>
+	<s id='1'>Le malade est un sot, d'autant plus que, dans la maladie dont il est attaquÃ©, ce n'est pas la tÃªte, selon Galien, mais la rate, qui lui doit faire mal.</s>
 </p>
 </sp>
 <sp who='LE-PAYSAN'><speaker>LE PAYSAN.</speaker>
@@ -1250,21 +1250,21 @@
 	<s id='1'>Quoi que c'en soit, Monsieur, il a toujours avec cela son cours de ventre depuis six mois.</s>
 </p>
 </sp>
-<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÉDECIN.</speaker>
+<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÃ‰DECIN.</speaker>
 <p id='4'>
-	<s id='1'>Bon, c'est signe que le dedans se dégage. </s>
-	<s id='2'>Je l'irai visiter dans deux ou trois jours ; mais s'il mourait avant ce temps-là, ne manquez pas de m'en donner avis, car il n'est pas de la civilité qu'un médecin visite un mort.</s>
+	<s id='1'>Bon, c'est signe que le dedans se dÃ©gage. </s>
+	<s id='2'>Je l'irai visiter dans deux ou trois jours ; mais s'il mourait avant ce temps-lÃ , ne manquez pas de m'en donner avis, car il n'est pas de la civilitÃ© qu'un mÃ©decin visite un mort.</s>
 </p>
 </sp>
 <sp who='LA-PAYSANNE'><speaker>LA PAYSANNE.</speaker>
 <p id='5'>
-	<s id='1'>Mon père, Monsieur, est toujours malade de plus en plus.</s>
+	<s id='1'>Mon pÃ¨re, Monsieur, est toujours malade de plus en plus.</s>
 </p>
 </sp>
-<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÉDECIN.</speaker>
+<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÃ‰DECIN.</speaker>
 <p id='6'>
-	<s id='1'>Ce n'est pas ma faute : je lui donne des remèdes ; que ne guérit-il ? </s>
-	<s id='2'>Combien a-t-il été saigné de fois ?</s>
+	<s id='1'>Ce n'est pas ma faute : je lui donne des remÃ¨des ; que ne guÃ©rit-il ? </s>
+	<s id='2'>Combien a-t-il Ã©tÃ© saignÃ© de fois ?</s>
 </p>
 </sp>
 <sp who='LA-PAYSANNE'><speaker>LA PAYSANNE.</speaker>
@@ -1272,9 +1272,9 @@
 	<s id='1'>Quinze, Monsieur, depuis vingt jours.</s>
 </p>
 </sp>
-<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÉDECIN.</speaker>
+<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÃ‰DECIN.</speaker>
 <p id='8'>
-	<s id='1'>Quinze fois saigné ?</s>
+	<s id='1'>Quinze fois saignÃ© ?</s>
 </p>
 </sp>
 <sp who='LA-PAYSANNE'><speaker>LA PAYSANNE.</speaker>
@@ -1282,9 +1282,9 @@
 	<s id='1'>Oui.</s>
 </p>
 </sp>
-<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÉDECIN.</speaker>
+<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÃ‰DECIN.</speaker>
 <p id='10'>
-	<s id='1'>Et il ne guérit point ?</s>
+	<s id='1'>Et il ne guÃ©rit point ?</s>
 </p>
 </sp>
 <sp who='LA-PAYSANNE'><speaker>LA PAYSANNE.</speaker>
@@ -1292,25 +1292,25 @@
 	<s id='1'>Non, Monsieur.</s>
 </p>
 </sp>
-<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÉDECIN.</speaker>
+<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÃ‰DECIN.</speaker>
 <p id='12'>
 	<s id='1'>C'est signe que la maladie n'est pas dans le sang. </s>
-	<s id='2'>Nous le ferons purger autant de fois, pour voir si elle n'est pas dans les humeurs, et si rien ne nous réussit, nous l'envoyerons aux bains.</s>
+	<s id='2'>Nous le ferons purger autant de fois, pour voir si elle n'est pas dans les humeurs, et si rien ne nous rÃ©ussit, nous l'envoyerons aux bains.</s>
 </p>
 </sp>
 <sp who='L-APOTHICAIRE'><speaker>L'APOTHICAIRE.</speaker>
 <p id='13'>
-	<s id='1'>Voilà le fin cela, voilà le fin de la médecine.</s>
+	<s id='1'>VoilÃ  le fin cela, voilÃ  le fin de la mÃ©decine.</s>
 </p>
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
 <p id='14'>
-	<s id='1'>C'est moi, Monsieur, qui vous ai envoyé parler ces jours passés pour un parent un peu troublé d'esprit, que je veux vous donner chez vous, afin de le guérir avec plus de commodité, et qu'il soit vu de moins de monde.</s>
+	<s id='1'>C'est moi, Monsieur, qui vous ai envoyÃ© parler ces jours passÃ©s pour un parent un peu troublÃ© d'esprit, que je veux vous donner chez vous, afin de le guÃ©rir avec plus de commoditÃ©, et qu'il soit vu de moins de monde.</s>
 </p>
 </sp>
-<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÉDECIN.</speaker>
+<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÃ‰DECIN.</speaker>
 <p id='15'>
-	<s id='1'>Oui, Monsieur, j'ai déjà disposé tout, et promets d'en avoir tous les soins imaginables.</s>
+	<s id='1'>Oui, Monsieur, j'ai dÃ©jÃ  disposÃ© tout, et promets d'en avoir tous les soins imaginables.</s>
 </p>
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
@@ -1318,52 +1318,52 @@
 	<s id='1'>Le voici</s>
 </p>
 </sp>
-<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÉDECIN.</speaker>
+<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÃ‰DECIN.</speaker>
 <p id='17'>
-	<s id='1'>La conjoncture est tout à fait heureuse, et j'ai ici un ancien de mes amis avec lequel je serai bien aise de consulter sa maladie.</s>
+	<s id='1'>La conjoncture est tout Ã  fait heureuse, et j'ai ici un ancien de mes amis avec lequel je serai bien aise de consulter sa maladie.</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='7'><head>SCÈNE VII. Monsieur de Pourceaugnac, Eraste, Premier Médecin, L'Apothicaire.</head>
+<div2 type="scene" n='7'><head>SCÃˆNE VII. Monsieur de Pourceaugnac, Eraste, Premier MÃ©decin, L'Apothicaire.</head>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
 <p id='1'>
-	<s id='1'>Une petite affaire m'est survenue, qui m'oblige à vous quitter : mais voilà une personne entre les mains de qui je vous laisse, qui aura soin pour moi de vous traiter du mieux qu'il lui sera possible.</s>
+	<s id='1'>Une petite affaire m'est survenue, qui m'oblige Ã  vous quitter : mais voilÃ  une personne entre les mains de qui je vous laisse, qui aura soin pour moi de vous traiter du mieux qu'il lui sera possible.</s>
 </p>
 </sp>
-<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÉDECIN.</speaker>
+<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÃ‰DECIN.</speaker>
 <p id='2'>
 	<s id='1'>Le devoir de ma profession m'y oblige, et c'est assez que vous me chargiez de ce soin.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='3'>
-	<s id='1'>C'est son maître d'hôtel, et il faut que ce soit un homme de qualité.</s>
+	<s id='1'>C'est son maÃ®tre d'hÃ´tel, et il faut que ce soit un homme de qualitÃ©.</s>
 </p>
 </sp>
-<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÉDECIN.</speaker>
+<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÃ‰DECIN.</speaker>
 <p id='4'>
-	<s id='1'>Oui, je vous assure que je traiterai Monsieur méthodiquement, et dans toutes les régularités de notre art.</s>
+	<s id='1'>Oui, je vous assure que je traiterai Monsieur mÃ©thodiquement, et dans toutes les rÃ©gularitÃ©s de notre art.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='5'>
 	<s id='1'>Mon Dieu ! </s>
-	<s id='2'>Il ne me faut point tant de cérémonies ; et je ne viens pas ici pour incommoder.</s>
+	<s id='2'>Il ne me faut point tant de cÃ©rÃ©monies ; et je ne viens pas ici pour incommoder.</s>
 </p>
 </sp>
-<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÉDECIN.</speaker>
+<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÃ‰DECIN.</speaker>
 <p id='6'>
 	<s id='1'>Un tel emploi ne me donne que de la joie.</s>
 </p>
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
 <p id='7'>
-	<s id='1'>Voilà toujours six pistoles d'avance, en attendant ce que j'ai promis.</s>
+	<s id='1'>VoilÃ  toujours six pistoles d'avance, en attendant ce que j'ai promis.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='8'>
-	<s id='1'>Non, s'il vous plaît, je n'entends pas que vous fassiez de dépense, et que vous envoyiez rien acheter pour moi.</s>
+	<s id='1'>Non, s'il vous plaÃ®t, je n'entends pas que vous fassiez de dÃ©pense, et que vous envoyiez rien acheter pour moi.</s>
 </p>
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
@@ -1382,31 +1382,31 @@
 <p id='11'>
 	<s id='1'>C'est ce que je veux faire. </s>
 </p>
-<stage>Bas au médecin.</stage>
+<stage>Bas au mÃ©decin.</stage>
 <p id='12'>
-	<s id='1'>Je vous recommande surtout de ne le point laisser sortir de vos mains ; car parfois il veut s'échapper.</s>
+	<s id='1'>Je vous recommande surtout de ne le point laisser sortir de vos mains ; car parfois il veut s'Ã©chapper.</s>
 </p>
 </sp>
-<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÉDECIN.</speaker>
+<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÃ‰DECIN.</speaker>
 <p id='13'>
 	<s id='1'>Ne vous mettez pas en peine.</s>
 </p>
 </sp>
-<sp who='ERASTE'><speaker>Eraste, à Monsieur de Pourceaugnac.</speaker>
+<sp who='ERASTE'><speaker>Eraste, Ã  Monsieur de Pourceaugnac.</speaker>
 <p id='14'>
-       <s id='1'>Je vous prie de m'excuser de l'incivilité que je commets.</s>
+       <s id='1'>Je vous prie de m'excuser de l'incivilitÃ© que je commets.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='15'>
-	<s id='1'>Vous vous moquez, et c'est trop de grâce que vous me faites.</s>
+	<s id='1'>Vous vous moquez, et c'est trop de grÃ¢ce que vous me faites.</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='8'><head>SCÈNE VIII. Premier Médecin, Second Médecin, Monsieur de Pourceaugnac, L'Apothicaire</head>
-<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÉDECIN.</speaker>
+<div2 type="scene" n='8'><head>SCÃˆNE VIII. Premier MÃ©decin, Second MÃ©decin, Monsieur de Pourceaugnac, L'Apothicaire</head>
+<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÃ‰DECIN.</speaker>
 <p id='1'>
-	<s id='1'>Ce m'est beaucoup d'honneur, Monsieur, d'être choisi pour vous rendre service.</s>
+	<s id='1'>Ce m'est beaucoup d'honneur, Monsieur, d'Ãªtre choisi pour vous rendre service.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
@@ -1414,42 +1414,42 @@
 	<s id='1'>Je suis votre serviteur</s>
 </p>
 </sp>
-<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÉDECIN.</speaker>
+<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÃ‰DECIN.</speaker>
 <p id='3'>
-	<s id='1'>Voici un habile homme, mon confrère, avec lequel je vais consulter la manière dont nous vous traiterons.</s>
+	<s id='1'>Voici un habile homme, mon confrÃ¨re, avec lequel je vais consulter la maniÃ¨re dont nous vous traiterons.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='4'>
-	<s id='1'>Il ne faut point tant de façons, vous dis-je, et je suis homme à me contenter de l'ordinaire.</s>
+	<s id='1'>Il ne faut point tant de faÃ§ons, vous dis-je, et je suis homme Ã  me contenter de l'ordinaire.</s>
 </p>
 </sp>
-<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÉDECIN.</speaker>
+<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÃ‰DECIN.</speaker>
 <p id='5'>
-	<s id='1'>Allons, des sièges.</s>
+	<s id='1'>Allons, des siÃ¨ges.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='6'>
-	<s id='1'>Voilà, pour un jeune homme, des domestiques bien lugubres.</s>
+	<s id='1'>VoilÃ , pour un jeune homme, des domestiques bien lugubres.</s>
 </p>
 </sp>
-<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÉDECIN.</speaker>
+<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÃ‰DECIN.</speaker>
 <p id='7'>
 	<s id='1'>Allons, Monsieur : prenez votre place, Monsieur.</s>
 </p>
-<stage>Lorsqu'ils sont assis, les deux Médecins lui prennent chacun une main, pour lui tâter le pouls.</stage>
+<stage>Lorsqu'ils sont assis, les deux MÃ©decins lui prennent chacun une main, pour lui tÃ¢ter le pouls.</stage>
 </sp>
-<sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC, présentant ses mains.</speaker>
+<sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC, prÃ©sentant ses mains.</speaker>
 <p id='8'>
-	<s id='1'>Votre très humble valet. </s>
+	<s id='1'>Votre trÃ¨s humble valet. </s>
 </p>
-<stage>Voyant qu'ils lui tâtent le pouls.</stage>
+<stage>Voyant qu'ils lui tÃ¢tent le pouls.</stage>
 <p id='9'>
 	<s id='1'>Que veut dire cela ?</s>
 </p>
 </sp>
-<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÉDECIN.</speaker>
+<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÃ‰DECIN.</speaker>
 <p id='10'>
 	<s id='1'>Mangez-vous bien, Monsieur ?</s>
 </p>
@@ -1459,18 +1459,18 @@
 	<s id='1'>Oui, et bois encore mieux.</s>
 </p>
 </sp>
-<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÉDECIN.</speaker>
+<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÃ‰DECIN.</speaker>
 <p id='12'>
-	<s id='1'>Tant pis : cette grande appétition du froid et de l'humide est une indication de la chaleur et sécheresse qui est au dedans. </s>
+	<s id='1'>Tant pis : cette grande appÃ©tition du froid et de l'humide est une indication de la chaleur et sÃ©cheresse qui est au dedans. </s>
 	<s id='2'>Dormez-vous fort ?</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='13'>
-	<s id='1'>Oui, quand j'ai bien soupé.</s>
+	<s id='1'>Oui, quand j'ai bien soupÃ©.</s>
 </p>
 </sp>
-<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÉDECIN.</speaker>
+<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÃ‰DECIN.</speaker>
 <p id='14'>
 	<s id='1'>Faites-vous des songes ?</s>
 </p>
@@ -1480,7 +1480,7 @@
 	<s id='1'>Quelquefois.</s>
 </p>
 </sp>
-<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÉDECIN.</speaker>
+<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÃ‰DECIN.</speaker>
 <p id='16'>
 	<s id='1'>De quelle nature sont-ils ?</s>
 </p>
@@ -1488,23 +1488,23 @@
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='17'>
 	<s id='1'>De la nature des songes. </s>
-	<s id='2'>Quelle diable de conversation est-ce là ?</s>
+	<s id='2'>Quelle diable de conversation est-ce lÃ  ?</s>
 </p>
 </sp>
-<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÉDECIN.</speaker>
+<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÃ‰DECIN.</speaker>
 <p id='18'>
-	<s id='1'>Vos déjections, comment sont-elles ?</s>
+	<s id='1'>Vos dÃ©jections, comment sont-elles ?</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='19'>
 	<s id='1'>Ma foi ! </s>
-	<s id='2'>Je ne comprends rien à toutes ces questions, et je veux plutôt boire un coup.</s>
+	<s id='2'>Je ne comprends rien Ã  toutes ces questions, et je veux plutÃ´t boire un coup.</s>
 </p>
 </sp>
-<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÉDECIN.</speaker>
+<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÃ‰DECIN.</speaker>
 <p id='20'>
-	<s id='1'>Un peu de patience, nous allons raisonner sur votre affaire devant vous et nous le ferons en français, pour être plus intelligibles.</s>
+	<s id='1'>Un peu de patience, nous allons raisonner sur votre affaire devant vous et nous le ferons en franÃ§ais, pour Ãªtre plus intelligibles.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
@@ -1512,34 +1512,34 @@
 	<s id='1'>Quel grand raisonnement faut-il pour manger un morceau ?</s>
 </p>
 </sp>
-<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÉDECIN.</speaker>
+<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÃ‰DECIN.</speaker>
 <p id='22'>
-	<s id='1'>Comme ainsi soit qu'on ne puisse guérir une maladie qu'on ne la connaisse parfaitement, et qu'on ne la puisse parfaitement connaître sans en bien établir l'idée particulière, et la véritable espèce, par ses signes diagnostiques et prognostiques, vous me permettrez, Monsieur notre ancien, d'entrer en considération de la maladie dont il s'agit, avant que de toucher à la thérapeutique, et aux remèdes qu'il nous conviendra faire pour la parfaite curation d'icelle. </s>
-	<s id='2'>Je dis donc, Monsieur, avec votre permission, que notre malade ici présent est malheureusement attaqué, affecté, possédé, travaillé de cette sorte de folie que nous nommons fort bien mélancolie hypocondriaque, espèce de folie très fâcheuse, et qui ne demande pas moins qu'un Esculape comme vous, consommé dans notre art, vous, dis-je, qui avez blanchi, comme on dit, sous le harnois, et auquel il en a tant passé par les mains de toutes les façons. </s>
-	<s id='3'>Je l'appelle mélancolie hypocondriaque, pour la distinguer des deux autres ; car le célèbre Galien établit doctement à son ordinaire trois espèces de cette maladie que nous nommons mélancolie, ainsi appelée non seulement par les Latins, mais encore par les Grecs, ce qui est bien à remarquer pour notre affaire : la première, qui vient du propre vice du cerveau ; la seconde, qui vient de tout le sang, fait et rendu atrabilaire ; la troisième, appelée hypocondriaque, qui est la nôtre, laquelle procède du vice de quelque partie du bas-ventre et de la région inférieure, mais particulièrement de la rate, dont la chaleur et l'inflammation porte au cerveau de notre malade beaucoup de fuligines épaisses et crasses, dont la vapeur noire et maligne cause dépravation aux fonctions de la faculté princesse, et fait la maladie dont, par notre raisonnement, il est manifestement atteint et convaincu. </s>
-	<s id='4'>Qu'ainsi ne soit, pour diagnostique incontestable de ce que je dis, vous n'avez qu'à considérer ce grand sérieux que vous voyez ; cette tristesse accompagnée de crainte et de défiance, signes pathognomoniques et individuels de cette maladie, si bien marquée chez le divin vieillard Hippocrate ; cette physionomie, ces yeux rouges et hagards, cette grande barbe, cette habitude du corps, menue, grêle, noire et velue, lesquels signes le dénotent très affecté de cette maladie, procédante du vice des hypocondres : laquelle maladie, par laps de temps naturalisée, envieillie, habituée, et ayant pris droit de bourgeoisie chez lui, pourrait bien dégénérer ou en manie, ou en phtisie, ou en apoplexie, ou même en fine frénésie et fureur. </s>
-	<s id='5'>Tout ceci supposé, puisqu'une maladie bien connue est à demi guérie, car ignoti nulla est curatio morbi, il ne vous sera pas difficile de convenir des remèdes que nous devons faire à Monsieur. </s>
-	<s id='6'>Premièrement, pour remédier à cette pléthore obturante, et à cette cacochymie luxuriante par tout le corps, je suis d'avis qu'il soit phlébotomisé libéralement, c'est-à-dire que les saignées soient fréquentes et plantureuses : en premier lieu de la basilique, puis de la céphalique ; et même, si le mal est opiniâtre, de lui ouvrir la veine du front, et que l'ouverture soit large, afin que le gros sang puisse sortir ; et en même temps, de le purger, désopiler, et évacuer par purgatifs propres et convenables, c'est-à-dire par cholagogues, mélanogogues, et caetera ; et comme la véritable source de tout le mal est ou une humeur crasse et féculente, ou une vapeur noire et grossière qui obscurcit, infecte et salit les esprits animaux, il est à propos ensuite qu'il prenne un bain d'eau pure et nette, avec force petit-lait clair, pour purifier par l'eau la féculence de l'humeur crasse, et éclaircir par le lait clair la noirceur de cette vapeur ; mais, avant toute chose, je trouve qu'il est bon de le réjouir par agréables conversations, chants et instruments de musique, à quoi il n'y a pas d'inconvénient de joindre des danseurs, afin que leurs mouvements, disposition et agilité puissent exciter et réveiller la paresse de ses esprits engourdis, qui occasionne l'épaisseur de son sang, d'où procède la maladie. </s>
-	<s id='7'>Voilà les remèdes que j'imagine, auxquels pourront être ajoutés beaucoup d'autres meilleurs par Monsieur notre maître et ancien, suivant l'expérience, jugement, lumière et suffisance qu'il s'est acquise dans notre art. </s>
+	<s id='1'>Comme ainsi soit qu'on ne puisse guÃ©rir une maladie qu'on ne la connaisse parfaitement, et qu'on ne la puisse parfaitement connaÃ®tre sans en bien Ã©tablir l'idÃ©e particuliÃ¨re, et la vÃ©ritable espÃ¨ce, par ses signes diagnostiques et prognostiques, vous me permettrez, Monsieur notre ancien, d'entrer en considÃ©ration de la maladie dont il s'agit, avant que de toucher Ã  la thÃ©rapeutique, et aux remÃ¨des qu'il nous conviendra faire pour la parfaite curation d'icelle. </s>
+	<s id='2'>Je dis donc, Monsieur, avec votre permission, que notre malade ici prÃ©sent est malheureusement attaquÃ©, affectÃ©, possÃ©dÃ©, travaillÃ© de cette sorte de folie que nous nommons fort bien mÃ©lancolie hypocondriaque, espÃ¨ce de folie trÃ¨s fÃ¢cheuse, et qui ne demande pas moins qu'un Esculape comme vous, consommÃ© dans notre art, vous, dis-je, qui avez blanchi, comme on dit, sous le harnois, et auquel il en a tant passÃ© par les mains de toutes les faÃ§ons. </s>
+	<s id='3'>Je l'appelle mÃ©lancolie hypocondriaque, pour la distinguer des deux autres ; car le cÃ©lÃ¨bre Galien Ã©tablit doctement Ã  son ordinaire trois espÃ¨ces de cette maladie que nous nommons mÃ©lancolie, ainsi appelÃ©e non seulement par les Latins, mais encore par les Grecs, ce qui est bien Ã  remarquer pour notre affaire : la premiÃ¨re, qui vient du propre vice du cerveau ; la seconde, qui vient de tout le sang, fait et rendu atrabilaire ; la troisiÃ¨me, appelÃ©e hypocondriaque, qui est la nÃ´tre, laquelle procÃ¨de du vice de quelque partie du bas-ventre et de la rÃ©gion infÃ©rieure, mais particuliÃ¨rement de la rate, dont la chaleur et l'inflammation porte au cerveau de notre malade beaucoup de fuligines Ã©paisses et crasses, dont la vapeur noire et maligne cause dÃ©pravation aux fonctions de la facultÃ© princesse, et fait la maladie dont, par notre raisonnement, il est manifestement atteint et convaincu. </s>
+	<s id='4'>Qu'ainsi ne soit, pour diagnostique incontestable de ce que je dis, vous n'avez qu'Ã  considÃ©rer ce grand sÃ©rieux que vous voyez ; cette tristesse accompagnÃ©e de crainte et de dÃ©fiance, signes pathognomoniques et individuels de cette maladie, si bien marquÃ©e chez le divin vieillard Hippocrate ; cette physionomie, ces yeux rouges et hagards, cette grande barbe, cette habitude du corps, menue, grÃªle, noire et velue, lesquels signes le dÃ©notent trÃ¨s affectÃ© de cette maladie, procÃ©dante du vice des hypocondres : laquelle maladie, par laps de temps naturalisÃ©e, envieillie, habituÃ©e, et ayant pris droit de bourgeoisie chez lui, pourrait bien dÃ©gÃ©nÃ©rer ou en manie, ou en phtisie, ou en apoplexie, ou mÃªme en fine frÃ©nÃ©sie et fureur. </s>
+	<s id='5'>Tout ceci supposÃ©, puisqu'une maladie bien connue est Ã  demi guÃ©rie, car ignoti nulla est curatio morbi, il ne vous sera pas difficile de convenir des remÃ¨des que nous devons faire Ã  Monsieur. </s>
+	<s id='6'>PremiÃ¨rement, pour remÃ©dier Ã  cette plÃ©thore obturante, et Ã  cette cacochymie luxuriante par tout le corps, je suis d'avis qu'il soit phlÃ©botomisÃ© libÃ©ralement, c'est-Ã -dire que les saignÃ©es soient frÃ©quentes et plantureuses : en premier lieu de la basilique, puis de la cÃ©phalique ; et mÃªme, si le mal est opiniÃ¢tre, de lui ouvrir la veine du front, et que l'ouverture soit large, afin que le gros sang puisse sortir ; et en mÃªme temps, de le purger, dÃ©sopiler, et Ã©vacuer par purgatifs propres et convenables, c'est-Ã -dire par cholagogues, mÃ©lanogogues, et caetera ; et comme la vÃ©ritable source de tout le mal est ou une humeur crasse et fÃ©culente, ou une vapeur noire et grossiÃ¨re qui obscurcit, infecte et salit les esprits animaux, il est Ã  propos ensuite qu'il prenne un bain d'eau pure et nette, avec force petit-lait clair, pour purifier par l'eau la fÃ©culence de l'humeur crasse, et Ã©claircir par le lait clair la noirceur de cette vapeur ; mais, avant toute chose, je trouve qu'il est bon de le rÃ©jouir par agrÃ©ables conversations, chants et instruments de musique, Ã  quoi il n'y a pas d'inconvÃ©nient de joindre des danseurs, afin que leurs mouvements, disposition et agilitÃ© puissent exciter et rÃ©veiller la paresse de ses esprits engourdis, qui occasionne l'Ã©paisseur de son sang, d'oÃ¹ procÃ¨de la maladie. </s>
+	<s id='7'>VoilÃ  les remÃ¨des que j'imagine, auxquels pourront Ãªtre ajoutÃ©s beaucoup d'autres meilleurs par Monsieur notre maÃ®tre et ancien, suivant l'expÃ©rience, jugement, lumiÃ¨re et suffisance qu'il s'est acquise dans notre art. </s>
 	<s id='8'>Dixi.</s>
 </p>
 </sp>
-<sp who='SECOND-MEDECIN'><speaker>SECOND MÉDECIN.</speaker>
+<sp who='SECOND-MEDECIN'><speaker>SECOND MÃ‰DECIN.</speaker>
 <p id='23'>
-	<s id='1'>À Dieu ne plaise, Monsieur, qu'il me tombe en pensée d'ajouter rien à ce que vous venez de dire ! </s>
-	<s id=''>Vous avez si bien discouru sur tous les signes, les symptômes et les causes de la maladie de Monsieur ; le raisonnement que vous en avez fait est si docte et si beau, qu'il est impossible qu'il ne soit pas fou, et mélancolique hypocondriaque ; et quand il ne le serait pas, il faudrait qu'il le devînt, pour la beauté des choses que vous avez dites, et la justesse du raisonnement que vous depinxisti, tout ce qui appartient à cette maladie : il ne se peut rien de plus doctement, sagement, ingénieusement conçu, pensé, imaginé, que ce que vous avez prononcé au sujet de ce mal, soit pour la diagnose, ou la prognose, ou la thérapie ; et il ne me reste rien ici, que de féliciter Monsieur d'être tombé entre vos mains, et de lui dire qu'il est trop heureux d'être fou, pour éprouver l'efficace et la douceur des remèdes que vous avez si judicieusement proposés. </s>
+	<s id='1'>Ã€ Dieu ne plaise, Monsieur, qu'il me tombe en pensÃ©e d'ajouter rien Ã  ce que vous venez de dire ! </s>
+	<s id=''>Vous avez si bien discouru sur tous les signes, les symptÃ´mes et les causes de la maladie de Monsieur ; le raisonnement que vous en avez fait est si docte et si beau, qu'il est impossible qu'il ne soit pas fou, et mÃ©lancolique hypocondriaque ; et quand il ne le serait pas, il faudrait qu'il le devÃ®nt, pour la beautÃ© des choses que vous avez dites, et la justesse du raisonnement que vous depinxisti, tout ce qui appartient Ã  cette maladie : il ne se peut rien de plus doctement, sagement, ingÃ©nieusement conÃ§u, pensÃ©, imaginÃ©, que ce que vous avez prononcÃ© au sujet de ce mal, soit pour la diagnose, ou la prognose, ou la thÃ©rapie ; et il ne me reste rien ici, que de fÃ©liciter Monsieur d'Ãªtre tombÃ© entre vos mains, et de lui dire qu'il est trop heureux d'Ãªtre fou, pour Ã©prouver l'efficace et la douceur des remÃ¨des que vous avez si judicieusement proposÃ©s. </s>
 	<s id='2'>Je les approuve tous, manibus et pedibus descendo in tuam sententiam. </s>
-	<s id='3'>Tout ce que j'y voudrais, c'est de faire les saignées et les purgations en nombre impair : numero deus impari gaudet ; de prendre le lait clair avant le bain ; de lui composer un fronteau où il entre du sel : le sel est symbole de la sagesse ; de faire blanchir les murailles de sa chambre, pour dissiper les ténèbres de ses esprits : album est disgregativum visus ; et de lui donner tout à l'heure un petit lavement, pour servir de prélude et d'introduction à ces judicieux remèdes, dont, s'il a à guérir, il doit recevoir du soulagement. </s>
-	<s id='4'>Fasse le Ciel que ces remèdes, Monsieur, qui sont les vôtres, réussissent au malade selon notre intention !</s>
+	<s id='3'>Tout ce que j'y voudrais, c'est de faire les saignÃ©es et les purgations en nombre impair : numero deus impari gaudet ; de prendre le lait clair avant le bain ; de lui composer un fronteau oÃ¹ il entre du sel : le sel est symbole de la sagesse ; de faire blanchir les murailles de sa chambre, pour dissiper les tÃ©nÃ¨bres de ses esprits : album est disgregativum visus ; et de lui donner tout Ã  l'heure un petit lavement, pour servir de prÃ©lude et d'introduction Ã  ces judicieux remÃ¨des, dont, s'il a Ã  guÃ©rir, il doit recevoir du soulagement. </s>
+	<s id='4'>Fasse le Ciel que ces remÃ¨des, Monsieur, qui sont les vÃ´tres, rÃ©ussissent au malade selon notre intention !</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='24'>
-	<s id='1'>Messieurs, il y a une heure que je vous écoute. </s>
-	<s id='2'>Est-ce que nous jouons une comédie ?</s>
+	<s id='1'>Messieurs, il y a une heure que je vous Ã©coute. </s>
+	<s id='2'>Est-ce que nous jouons une comÃ©die ?</s>
 </p>
 </sp>
-<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÉDECIN.</speaker>
+<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÃ‰DECIN.</speaker>
 <p id='25'>
 	<s id='1'>Non, Monsieur, nous ne jouons point.</s>
 </p>
@@ -1550,10 +1550,10 @@
 	<s id='2'>Et que voulez-vous dire avec votre galimatias et vos sottises ?</s>
 </p>
 </sp>
-<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÉDECIN.</speaker>
+<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÃ‰DECIN.</speaker>
 <p id='17'>
 	<s id='1'>Bon, dire des injures. </s>
-	<s id='2'>Voilà un diagnostique qui nous manquait pour la confirmation de son mal, et ceci pourrait bien tourner en manie.</s>
+	<s id='2'>VoilÃ  un diagnostique qui nous manquait pour la confirmation de son mal, et ceci pourrait bien tourner en manie.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
@@ -1562,9 +1562,9 @@
 </p>
 <stage>Il crache deux ou trois fois.</stage>
 </sp>
-<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÉDECIN.</speaker>
+<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÃ‰DECIN.</speaker>
 <p id='19'>
-	<s id='1'>Autre diagnostique : la sputation fréquente.</s>
+	<s id='1'>Autre diagnostique : la sputation frÃ©quente.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
@@ -1572,9 +1572,9 @@
 	<s id='1'>Laissons cela, et sortons d'ici.</s>
 </p>
 </sp>
-<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÉDECIN.</speaker>
+<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÃ‰DECIN.</speaker>
 <p id='21'>
-	<s id='1'>Autre encore : l'inquiétude de changer de place.</s>
+	<s id='1'>Autre encore : l'inquiÃ©tude de changer de place.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
@@ -1583,17 +1583,17 @@
 	<s id='2'>Et que me voulez-vous ?</s>
 </p>
 </sp>
-<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÉDECIN.</speaker>
+<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÃ‰DECIN.</speaker>
 <p id='23'>
-	<s id='1'>Vous guérir selon l'ordre qui nous a été donné.</s>
+	<s id='1'>Vous guÃ©rir selon l'ordre qui nous a Ã©tÃ© donnÃ©.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='24'>
-	<s id='1'>Me guérir ?</s>
+	<s id='1'>Me guÃ©rir ?</s>
 </p>
 </sp>
-<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÉDECIN.</speaker>
+<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÃ‰DECIN.</speaker>
 <p id='25'>
 	<s id='1'>Oui.</s>
 </p>
@@ -1604,7 +1604,7 @@
 	<s id='2'>Je ne suis pas malade.</s>
 </p>
 </sp>
-<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÉDECIN.</speaker>
+<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÃ‰DECIN.</speaker>
 <p id='27'>
 	<s id='1'>Mauvais signe, lorsqu'un malade ne sent pas son mal.</s>
 </p>
@@ -1614,65 +1614,65 @@
 	<s id='1'>Je vous dis que je me porte bien.</s>
 </p>
 </sp>
-<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÉDECIN.</speaker>
+<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÃ‰DECIN.</speaker>
 <p id='29'>
-	<s id='1'>Nous savons mieux que vous comment vous vous portez, et nous sommes médecins, qui voyons clair dans votre constitution.</s>
+	<s id='1'>Nous savons mieux que vous comment vous vous portez, et nous sommes mÃ©decins, qui voyons clair dans votre constitution.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='30'>
-	<s id='1'>Si vous êtes médecins, je n'ai que faire de vous ; et je me moque de la médecine.</s>
+	<s id='1'>Si vous Ãªtes mÃ©decins, je n'ai que faire de vous ; et je me moque de la mÃ©decine.</s>
 </p>
 </sp>
-<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÉDECIN.</speaker>
+<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÃ‰DECIN.</speaker>
 <p id='31'>
 	<s id='1'>Hon, hon : voici un homme plus fou que nous ne pensons.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='32'>
-	<s id='1'>Mon père et ma mère n'ont jamais voulu de remèdes, et ils sont morts tous deux sans l'assistance des médecins.</s>
+	<s id='1'>Mon pÃ¨re et ma mÃ¨re n'ont jamais voulu de remÃ¨des, et ils sont morts tous deux sans l'assistance des mÃ©decins.</s>
 </p>
 </sp>
-<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÉDECIN.</speaker>
+<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÃ‰DECIN.</speaker>
 <note type="L">Accoiser :  vieux mot qui signifiait adoucir, apaiser. [F]</note>
 <p id='33'>
-	<s id='1'>Je ne m'étonne pas s'ils ont engendré un fils qui est insensé. </s>
-	<s id='2'>Allons, procédons à la curation, et par la douceur exhilarante de l'harmonie, adoucissons, lénifions, et accoisons l'aigreur de ses esprits, que je vois prêts à s'enflammer.</s>
+	<s id='1'>Je ne m'Ã©tonne pas s'ils ont engendrÃ© un fils qui est insensÃ©. </s>
+	<s id='2'>Allons, procÃ©dons Ã  la curation, et par la douceur exhilarante de l'harmonie, adoucissons, lÃ©nifions, et accoisons l'aigreur de ses esprits, que je vois prÃªts Ã  s'enflammer.</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='1'><head>SCÈNE I..</head>
+<div2 type="scene" n='1'><head>SCÃˆNE I..</head>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='1'>
-	<s id='1'>Que diable est-ce là ? </s>
-	<s id='2'>Les gens de ce pays-ci sont-ils insensés ? </s>
+	<s id='1'>Que diable est-ce lÃ  ? </s>
+	<s id='2'>Les gens de ce pays-ci sont-ils insensÃ©s ? </s>
 	<s id='3'>Je n'ai jamais rien vu de tel, et je n'y comprends rien du tout.</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='10'><head>SCÈNE X. Deux Musiciens italiens en médecins grotesques suivis de Huit Matassins, chantent ces paroles soutenues de la symphonie d'un mélange d'instruments.</head>
+<div2 type="scene" n='10'><head>SCÃˆNE X. Deux Musiciens italiens en mÃ©decins grotesques suivis de Huit Matassins, chantent ces paroles soutenues de la symphonie d'un mÃ©lange d'instruments.</head>
 <sp who='DEUX-MUSICIENS'><speaker>Les DEUX MUSICIENS.</speaker>
-	<l id='27'>Bon dî, bon dî, bon dî : </l>
+	<l id='27'>Bon dÃ®, bon dÃ®, bon dÃ® : </l>
 	<l id='28'>Non vi lasciate uccidere</l>
 	<l id='29'>Dal dolor malinconico.</l>
 	<l id='30'>Noi vi faremo ridere</l>
 	<l id='31'>Col nostro canto harmonico,</l>
 	<l id='32'>Sol' per guarirvi</l>
 	<l id='33'>Siamo venuti qui.</l>
-	<l id='34'>Bon dî, bon dî, bon dî.</l>
+	<l id='34'>Bon dÃ®, bon dÃ®, bon dÃ®.</l>
 </sp>
 <sp who='PREMIER-MUSICIEN'><speaker>PREMIER MUSICIEN.</speaker>
-	<l id='35'>Altro non è la pazzia</l>
+	<l id='35'>Altro non Ã¨ la pazzia</l>
 	<l id='36'>Che malinconia.</l>
 	<l id='37'>Il malato</l>
-	<l id='38'>Non è disperato,</l>
+	<l id='38'>Non Ã¨ disperato,</l>
 	<l id='39'>Se vol pigliar un poco d'allegria : </l>
-	<l id='40'>Altro non è la pazzia</l>
+	<l id='40'>Altro non Ã¨ la pazzia</l>
 	<l id='41'>Che malinconia.</l>
 </sp>
 <sp who='SECOND-MUSICIEN'><speaker>SECOND MUSICIEN.</speaker>
-	<l id='42'>Sù, cantate, ballate, ridete ; </l>
+	<l id='42'>SÃ¹, cantate, ballate, ridete ; </l>
 	<l id='43'>E se far meglio volete,</l>
 	<l id='44'>Quando sentite il deliro vicino,</l>
 	<l id='45'>Pigliate del vino,</l>
@@ -1680,10 +1680,10 @@
 	<l id='47'>Alegramente, Monsu Pourceaugnac !</l>
 </sp>
 </div2>
-<div2 type='scene' n='11'><head>SCÈNE XI. L'Apothicaire, Monsieur de Pourceaugnac.</head>
+<div2 type="scene" n='11'><head>SCÃˆNE XI. L'Apothicaire, Monsieur de Pourceaugnac.</head>
 <sp who='L-APOTHICAIRE'><speaker>L'APOTHICAIRE.</speaker>
 <p id='1'>
-	<s id='1'>Monsieur, voici un petit remède, un petit remède, qu'il vous faut prendre, s'il vous plaît, s'il vous plaît.</s>
+	<s id='1'>Monsieur, voici un petit remÃ¨de, un petit remÃ¨de, qu'il vous faut prendre, s'il vous plaÃ®t, s'il vous plaÃ®t.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
@@ -1694,7 +1694,7 @@
 </sp>
 <sp who='L-APOTHICAIRE'><speaker>L'APOTHICAIRE.</speaker>
 <p id='3'>
-	<s id='1'>Il a été ordonné, Monsieur, il a été ordonné.</s>
+	<s id='1'>Il a Ã©tÃ© ordonnÃ©, Monsieur, il a Ã©tÃ© ordonnÃ©.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
@@ -1714,86 +1714,86 @@
 </p>
 </sp>
 <sp who='L-APOTHICAIRE'><speaker>L'APOTHICAIRE.</speaker>
-<note type="L">Clystère : c'est un remède ou injection liquide qu'on introduit dans les intestins par le foncdement pour les refraichir, pour lâcher le ventre, pour humecter et amollir les matières, pour irriter la faculté expultrice, dissiper les vents, aider à l'accouchement etc. [F]</note>
+<note type="L">ClystÃ¨re : c'est un remÃ¨de ou injection liquide qu'on introduit dans les intestins par le foncdement pour les refraichir, pour lÃ¢cher le ventre, pour humecter et amollir les matiÃ¨res, pour irriter la facultÃ© expultrice, dissiper les vents, aider Ã  l'accouchement etc. [F]</note>
 <p id='7'>
-	<s id='1'>C'est un petit clystère, un petit clystère, benin, benin ; il est benin, benin, là, prenez, prenez, prenez, Monsieur : c'est pour déterger, pour déterger, déterger...</s>
+	<s id='1'>C'est un petit clystÃ¨re, un petit clystÃ¨re, benin, benin ; il est benin, benin, lÃ , prenez, prenez, prenez, Monsieur : c'est pour dÃ©terger, pour dÃ©terger, dÃ©terger...</s>
 </p>
 </sp>
-<sp who='DEUX-MUSICIENS'><speaker>Les DEUX MUSICIENS, accompagnés des Matassins et des instruments, dansent à l'entour de Monsieur de Pourceaugnac, et, s'arrêtant devant lui, chantent : </speaker>
-	<l id='48'>Piglia-lo sù,</l>
+<sp who='DEUX-MUSICIENS'><speaker>Les DEUX MUSICIENS, accompagnÃ©s des Matassins et des instruments, dansent Ã  l'entour de Monsieur de Pourceaugnac, et, s'arrÃªtant devant lui, chantent : </speaker>
+	<l id='48'>Piglia-lo sÃ¹,</l>
 	<l id='49'>Signor Monsu,</l>
-	<l id='50'>Piglia-lo, piglia-lo, piglia-lo sù,</l>
-	<l id='51'>Che non ti farà male,</l>
-	<l id='52'>Piglia-lo sù questo servitiale ; </l>
-	<l id='53'>Piglia-lo sù,</l>
+	<l id='50'>Piglia-lo, piglia-lo, piglia-lo sÃ¹,</l>
+	<l id='51'>Che non ti farÃ  male,</l>
+	<l id='52'>Piglia-lo sÃ¹ questo servitiale ; </l>
+	<l id='53'>Piglia-lo sÃ¹,</l>
 	<l id='54'>Signor Monsu,</l>
-	<l id='55'>Piglia-lo, piglia-lo, piglia-lo sù.</l>
+	<l id='55'>Piglia-lo, piglia-lo, piglia-lo sÃ¹.</l>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='8'>
 	<s id='1'>Allez-vous-en au diable.</s>
 </p>
-<stage>L'Apothicaire, les deux Musiciens et les Matassins le suivent, tous une seringue à la main.</stage>
+<stage>L'Apothicaire, les deux Musiciens et les Matassins le suivent, tous une seringue Ã  la main.</stage>
 </sp>
 </div2>
-</div1> 
-<div1 type='acte' n='3'><head>ACTE II</head>
-<div2 type='scene' n='1'><head>SCÈNE I. Sbrigani, Premier Médecin.</head>
-<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÉDECIN.</speaker>
+</div1>Â 
+<div1 type="act" n='3'><head>ACTE II</head>
+<div2 type="scene" n='1'><head>SCÃˆNE I. Sbrigani, Premier MÃ©decin.</head>
+<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÃ‰DECIN.</speaker>
 <p id='1'>
-	<s id='1'>Il a forcé tous les obstacles que j'avais mis, et s'est dérobé aux remèdes que je commençois de lui faire.</s>
+	<s id='1'>Il a forcÃ© tous les obstacles que j'avais mis, et s'est dÃ©robÃ© aux remÃ¨des que je commenÃ§ois de lui faire.</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='2'>
-	<s id='1'>C'est être bien ennemi de soi-même, que de fuir des remèdes aussi salutaires que les vôtres.</s>
+	<s id='1'>C'est Ãªtre bien ennemi de soi-mÃªme, que de fuir des remÃ¨des aussi salutaires que les vÃ´tres.</s>
 </p>
 </sp>
-<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÉDECIN.</speaker>
+<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÃ‰DECIN.</speaker>
 <p id='3'>
-	<s id='1'>Marque d'un cerveau démonté, et d'une raison dépravée, que de ne vouloir pas guérir.</s>
+	<s id='1'>Marque d'un cerveau dÃ©montÃ©, et d'une raison dÃ©pravÃ©e, que de ne vouloir pas guÃ©rir.</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='4'>
-	<s id='1'>Vous l'auriez guéri haut la main.</s>
+	<s id='1'>Vous l'auriez guÃ©ri haut la main.</s>
 </p>
 </sp>
-<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÉDECIN.</speaker>
+<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÃ‰DECIN.</speaker>
 <p id='5'>
 	<s id='1'>Sans doute, quand il y aurait eu complication de douze maladies.</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='6'>
-	<s id='1'>Cependant voilà cinquante pistoles bien acquises qu'il vous fait perdre.</s>
+	<s id='1'>Cependant voilÃ  cinquante pistoles bien acquises qu'il vous fait perdre.</s>
 </p>
 </sp>
-<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÉDECIN.</speaker>
+<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÃ‰DECIN.</speaker>
 <p id='7'>
 	<s id='1'>Moi ? </s>
-	<s id='2'>Je n'entends point les perdre, et prétends le guérir en dépit qu'il en ait. </s>
-	<s id='3'>Il est lié et engagé à mes remèdes, et je veux le faire saisir où je le trouverai, comme déserteur de la médecine, et infracteur de mes ordonnances.</s>
+	<s id='2'>Je n'entends point les perdre, et prÃ©tends le guÃ©rir en dÃ©pit qu'il en ait. </s>
+	<s id='3'>Il est liÃ© et engagÃ© Ã  mes remÃ¨des, et je veux le faire saisir oÃ¹ je le trouverai, comme dÃ©serteur de la mÃ©decine, et infracteur de mes ordonnances.</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='8'>
-	<s id='1'>Vous avez raison : vos remèdes étaient un coup sûr, et c'est de l'argent qu'il vous vole.</s>
+	<s id='1'>Vous avez raison : vos remÃ¨des Ã©taient un coup sÃ»r, et c'est de l'argent qu'il vous vole.</s>
 </p>
 </sp>
-<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÉDECIN.</speaker>
+<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÃ‰DECIN.</speaker>
 <p id='9'>
-	<s id='1'>Où puis-je en avoir des nouvelles ?</s>
+	<s id='1'>OÃ¹ puis-je en avoir des nouvelles ?</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='10'>
-	<s id='1'>Chez le bonhomme Oronte assurément, dont il vient épouser la fille, et qui, ne sachant rien de l'infirmité de son gendre futur, voudra peut-être se hâter de conclure le mariage.</s>
+	<s id='1'>Chez le bonhomme Oronte assurÃ©ment, dont il vient Ã©pouser la fille, et qui, ne sachant rien de l'infirmitÃ© de son gendre futur, voudra peut-Ãªtre se hÃ¢ter de conclure le mariage.</s>
 </p>
 </sp>
-<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÉDECIN.</speaker>
+<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÃ‰DECIN.</speaker>
 <p id='11'>
-	<s id='1'>Je vais lui parler tout à l'heure.</s>
+	<s id='1'>Je vais lui parler tout Ã  l'heure.</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
@@ -1801,41 +1801,41 @@
 	<s id='1'>Vous ne ferez point mal.</s>
 </p>
 </sp>
-<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÉDECIN.</speaker>
+<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÃ‰DECIN.</speaker>
 <p id='13'>
-	<s id='1'>Il est hypothéqué à mes consultations, et un malade ne se moquera pas d'un médecin.</s>
+	<s id='1'>Il est hypothÃ©quÃ© Ã  mes consultations, et un malade ne se moquera pas d'un mÃ©decin.</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='14'>
-	<s id='1'>C'est fort bien dit à vous ; et, si vous m'en croyez, vous ne souffrirez point qu'il se marie, que vous ne l'ayez pansé tout votre soûl.</s>
+	<s id='1'>C'est fort bien dit Ã  vous ; et, si vous m'en croyez, vous ne souffrirez point qu'il se marie, que vous ne l'ayez pansÃ© tout votre soÃ»l.</s>
 </p>
 </sp>
-<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÉDECIN.</speaker>
+<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÃ‰DECIN.</speaker>
 <p id='15'>
 	<s id='1'>Laissez-moi faire.</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='16'>
-	<s id='1'>Je vais, de mon côté, dresser une autre batterie, et le beau-père est aussi dupe que le gendre.</s>
+	<s id='1'>Je vais, de mon cÃ´tÃ©, dresser une autre batterie, et le beau-pÃ¨re est aussi dupe que le gendre.</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='2'><head>SCÈNE II. Oronte, Premier Médecin.</head>
-<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÉDECIN.</speaker>
+<div2 type="scene" n='2'><head>SCÃˆNE II. Oronte, Premier MÃ©decin.</head>
+<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÃ‰DECIN.</speaker>
 <p id='1'>
-	<s id='1'>Vous avez, Monsieur, un certain Monsieur de Pourceaugnac qui doit épouser votre fille.</s>
+	<s id='1'>Vous avez, Monsieur, un certain Monsieur de Pourceaugnac qui doit Ã©pouser votre fille.</s>
 </p>
 </sp>
 <sp who='ORONTE'><speaker>ORONTE.</speaker>
 <p id='2'>
-	<s id='1'>Oui, je l'attends de Limoges, et il devrait être arrivé.</s>
+	<s id='1'>Oui, je l'attends de Limoges, et il devrait Ãªtre arrivÃ©.</s>
 </p>
 </sp>
-<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÉDECIN.</speaker>
+<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÃ‰DECIN.</speaker>
 <p id='3'>
-	<s id='1'>Aussi l'est-il, et il s'en est fui de chez moi, après y avoir été mis ; mais je vous défends, de la part de la médecine, de procéder au mariage que vous avez conclu, que je ne l'aie dûment préparé pour cela, et mis en état de procréer des enfants bien conditionnés et de corps et d'esprit.</s>
+	<s id='1'>Aussi l'est-il, et il s'en est fui de chez moi, aprÃ¨s y avoir Ã©tÃ© mis ; mais je vous dÃ©fends, de la part de la mÃ©decine, de procÃ©der au mariage que vous avez conclu, que je ne l'aie dÃ»ment prÃ©parÃ© pour cela, et mis en Ã©tat de procrÃ©er des enfants bien conditionnÃ©s et de corps et d'esprit.</s>
 </p>
 </sp>
 <sp who='ORONTE'><speaker>ORONTE.</speaker>
@@ -1843,9 +1843,9 @@
 	<s id='1'>Comment donc ?</s>
 </p>
 </sp>
-<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÉDECIN.</speaker>
+<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÃ‰DECIN.</speaker>
 <p id='5'>
-	<s id='1'>Votre prétendu gendre a été constitué mon malade : sa maladie qu'on m'a donné à guérir est un meuble qui m'appartient, et que je compte entre mes effets ; et je vous déclare que je ne prétends point qu'il se marie, qu'au préalable il n'ait satisfait à la médecine, et subi les remèdes que je lui ai ordonnés.</s>
+	<s id='1'>Votre prÃ©tendu gendre a Ã©tÃ© constituÃ© mon malade : sa maladie qu'on m'a donnÃ© Ã  guÃ©rir est un meuble qui m'appartient, et que je compte entre mes effets ; et je vous dÃ©clare que je ne prÃ©tends point qu'il se marie, qu'au prÃ©alable il n'ait satisfait Ã  la mÃ©decine, et subi les remÃ¨des que je lui ai ordonnÃ©s.</s>
 </p>
 </sp>
 <sp who='ORONTE'><speaker>ORONTE.</speaker>
@@ -1853,17 +1853,17 @@
 	<s id='1'>Il a quelque mal ?</s>
 </p>
 </sp>
-<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÉDECIN.</speaker>
+<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÃ‰DECIN.</speaker>
 <p id='7'>
 	<s id='1'>Oui.</s>
 </p>
 </sp>
 <sp who='ORONTE'><speaker>ORONTE.</speaker>
 <p id='8'>
-	<s id='1'>Et quel mal, s'il vous plaît ?</s>
+	<s id='1'>Et quel mal, s'il vous plaÃ®t ?</s>
 </p>
 </sp>
-<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÉDECIN.</speaker>
+<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÃ‰DECIN.</speaker>
 <p id='9'>
 	<s id='1'>Ne vous en mettez pas en peine.</s>
 </p>
@@ -1873,9 +1873,9 @@
 	<s id='1'>Est-ce quelque mal... ?</s>
 </p>
 </sp>
-<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÉDECIN.</speaker>
+<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÃ‰DECIN.</speaker>
 <p id='11'>
-	<s id='1'>Les médecins sont obligés au secret : il suffit que je vous ordonne, à vous et à votre fille, de ne point célébrer, sans mon consentement, vos noces avec lui, sur peine d'encourir la disgrâce de la Faculté, et d'être accablés de toutes les maladies qu'il nous plaira.</s>
+	<s id='1'>Les mÃ©decins sont obligÃ©s au secret : il suffit que je vous ordonne, Ã  vous et Ã  votre fille, de ne point cÃ©lÃ©brer, sans mon consentement, vos noces avec lui, sur peine d'encourir la disgrÃ¢ce de la FacultÃ©, et d'Ãªtre accablÃ©s de toutes les maladies qu'il nous plaira.</s>
 </p>
 </sp>
 <sp who='ORONTE'><speaker>ORONTE.</speaker>
@@ -1883,19 +1883,19 @@
 	<s id='1'>Je n'ai garde, si cela est, de faire le mariage.</s>
 </p>
 </sp>
-<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÉDECIN.</speaker>
+<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÃ‰DECIN.</speaker>
 <p id='13'>
-	<s id='1'>On me l'a mis entre les mains, et il est obligé d'être mon malade.</s>
+	<s id='1'>On me l'a mis entre les mains, et il est obligÃ© d'Ãªtre mon malade.</s>
 </p>
 </sp>
 <sp who='ORONTE'><speaker>ORONTE.</speaker>
 <p id='14'>
-	<s id='1'>À la bonne heure.</s>
+	<s id='1'>Ã€ la bonne heure.</s>
 </p>
 </sp>
-<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÉDECIN.</speaker>
+<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÃ‰DECIN.</speaker>
 <p id='15'>
-	<s id='1'>Il a beau fuir, je le ferai condamner par arrêt à se faire guérir par moi.</s>
+	<s id='1'>Il a beau fuir, je le ferai condamner par arrÃªt Ã  se faire guÃ©rir par moi.</s>
 </p>
 </sp>
 <sp who='ORONTE'><speaker>ORONTE.</speaker>
@@ -1903,9 +1903,9 @@
 	<s id='1'>J'y consens.</s>
 </p>
 </sp>
-<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÉDECIN.</speaker>
+<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÃ‰DECIN.</speaker>
 <p id='17'>
-	<s id='1'>Oui, il faut qu'il crève, ou que je le guérisse.</s>
+	<s id='1'>Oui, il faut qu'il crÃ¨ve, ou que je le guÃ©risse.</s>
 </p>
 </sp>
 <sp who='ORONTE'><speaker>ORONTE.</speaker>
@@ -1913,9 +1913,9 @@
 	<s id='1'>Je le veux bien.</s>
 </p>
 </sp>
-<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÉDECIN.</speaker>
+<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÃ‰DECIN.</speaker>
 <p id='19'>
-	<s id='1'>Et si je ne le trouve, je m'en prendrai à vous, et je vous guérirai au lieu de lui.</s>
+	<s id='1'>Et si je ne le trouve, je m'en prendrai Ã  vous, et je vous guÃ©rirai au lieu de lui.</s>
 </p>
 </sp>
 <sp who='ORONTE'><speaker>ORONTE.</speaker>
@@ -1923,7 +1923,7 @@
 	<s id='1'>Je me porte bien.</s>
 </p>
 </sp>
-<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÉDECIN.</speaker>
+<sp who='PREMIER-MEDECIN'><speaker>PREMIER MÃ‰DECIN.</speaker>
 <p id='21'>
 	<s id='1'>Il n'importe, il me faut un malade, et je prendrai qui je pourrai.</s>
 </p>
@@ -1935,7 +1935,7 @@
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='3'><head>SCÈNE III. Sbrigani, en marchand flamand, Oronte.</head>
+<div2 type="scene" n='3'><head>SCÃˆNE III. Sbrigani, en marchand flamand, Oronte.</head>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='1'>
 	<s id='1'>Montsir, avec le vostre permissione, je suisse un trancher marchand Flamane, qui voudroit bienne vous temantair un petit nouvel.</s>
@@ -2019,7 +2019,7 @@
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='17'>
-	<s id='1'>L'est, Montsir, pour un petit raisonne de conséquence pour nous.</s>
+	<s id='1'>L'est, Montsir, pour un petit raisonne de consÃ©quence pour nous.</s>
 </p>
 </sp>
 <sp who='ORONTE'><speaker>ORONTE.</speaker>
@@ -2029,37 +2029,37 @@
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='19'>
-	<s id='1'>L'est, Montsir, que sti Montsir Oronte donne son fille en mariage à un certe Montsir de Pourcegnac.</s>
+	<s id='1'>L'est, Montsir, que sti Montsir Oronte donne son fille en mariage Ã  un certe Montsir de Pourcegnac.</s>
 </p>
 </sp>
 <sp who='ORONTE'><speaker>ORONTE.</speaker>
 <p id='20'>
-	<s id='1'>Hé bien ?</s>
+	<s id='1'>HÃ© bien ?</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='21'>
-	<s id='1'>Et sti Montsir de Pourcegnac, Montsir, l'est un homme que doivre beaucoup grandement à dix ou douze marchanne Flamane qui estre venu ici.</s>
+	<s id='1'>Et sti Montsir de Pourcegnac, Montsir, l'est un homme que doivre beaucoup grandement Ã  dix ou douze marchanne Flamane qui estre venu ici.</s>
 </p>
 </sp>
 <sp who='ORONTE'><speaker>ORONTE.</speaker>
 <p id='22'>
-	<s id='1'>Ce Monsieur de Pourceaugnac doit beaucoup à dix ou douze marchands ?</s>
+	<s id='1'>Ce Monsieur de Pourceaugnac doit beaucoup Ã  dix ou douze marchands ?</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='23'>
-	<s id='1'>Oui, Montsir ; et depuis huite mois, nous avoir obtenir un petit sentence contre lui, et lui à remettre à payer tou ce créanciers de sti mariage que sti Montsir Oronte donne pour son fille.</s>
+	<s id='1'>Oui, Montsir ; et depuis huite mois, nous avoir obtenir un petit sentence contre lui, et lui Ã  remettre Ã  payer tou ce crÃ©anciers de sti mariage que sti Montsir Oronte donne pour son fille.</s>
 </p>
 </sp>
 <sp who='ORONTE'><speaker>ORONTE.</speaker>
 <p id='24'>
-	<s id='1'>Hon, hon, il a remis là à payer ses créanciers ?</s>
+	<s id='1'>Hon, hon, il a remis lÃ  Ã  payer ses crÃ©anciers ?</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='25'>
-	<s id='1'>Oui, Montsir, et avec un grand dévotion nous tous attendre sti mariage.</s>
+	<s id='1'>Oui, Montsir, et avec un grand dÃ©votion nous tous attendre sti mariage.</s>
 </p>
 </sp>
 <sp who='ORONTE'><speaker>ORONTE.</speaker>
@@ -2075,22 +2075,22 @@
 </sp>
 <sp who='ORONTE'><speaker>ORONTE.</speaker>
 <p id='28'>
-	<s id='1'>Votre très humble valet.</s>
+	<s id='1'>Votre trÃ¨s humble valet.</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='29'>
-	<s id='1'>Je le suis, Montsir, obliger plus que beaucoup du bon nouvel que Montsir m'avoir donné. </s>
+	<s id='1'>Je le suis, Montsir, obliger plus que beaucoup du bon nouvel que Montsir m'avoir donnÃ©. </s>
 	<s id='2'>Cela ne va pas mal. </s>
-	<s id='3'>Quittons notre ajustement de Flamand, pour songer à d'autres machines ; et tâchons de semer tant de soupçons et de division entre le beau-père et le gendre, que cela rompe le mariage prétendu. </s>
-	<s id='4'>Tous deux également sont propres à gober les hameçons qu'on leur veut tendre ; et, entre nous autres fourbes de la première classe, nous ne faisons que nous jouer, lorsque nous trouvons un gibier aussi facile que celui-là.</s>
+	<s id='3'>Quittons notre ajustement de Flamand, pour songer Ã  d'autres machines ; et tÃ¢chons de semer tant de soupÃ§ons et de division entre le beau-pÃ¨re et le gendre, que cela rompe le mariage prÃ©tendu. </s>
+	<s id='4'>Tous deux Ã©galement sont propres Ã  gober les hameÃ§ons qu'on leur veut tendre ; et, entre nous autres fourbes de la premiÃ¨re classe, nous ne faisons que nous jouer, lorsque nous trouvons un gibier aussi facile que celui-lÃ .</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='4'><head>SCÈNE IV. Monsieur de Pourceaugnac, Sbrigani.</head>
+<div2 type="scene" n='4'><head>SCÃˆNE IV. Monsieur de Pourceaugnac, Sbrigani.</head>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='1'>
-	<s id='1'>Piglia-lo sù, piglia-lo sù, Signor Monsu : que diable est-ce là ? </s>
+	<s id='1'>Piglia-lo sÃ¹, piglia-lo sÃ¹, Signor Monsu : que diable est-ce lÃ  ? </s>
 	<s id='2'>Ah !</s>
 </p>
 </sp>
@@ -2111,7 +2111,7 @@
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='5'>
-	<s id='1'>Vous ne savez pas ce qui m'est arrivé dans ce logis à la porte duquel vous m'avez conduit ?</s>
+	<s id='1'>Vous ne savez pas ce qui m'est arrivÃ© dans ce logis Ã  la porte duquel vous m'avez conduit ?</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
@@ -2121,25 +2121,25 @@
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='7'>
-	<s id='1'>Je pensais y être régalé comme il faut.</s>
+	<s id='1'>Je pensais y Ãªtre rÃ©galÃ© comme il faut.</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='8'>
-	<s id='1'>Hé bien ?</s>
+	<s id='1'>HÃ© bien ?</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='9'>
 	<s id='1'>Je vous laisse entre les mains de Monsieur. </s>
-	<s id='2'>Des médecins habillés de noir. </s>
+	<s id='2'>Des mÃ©decins habillÃ©s de noir. </s>
 	<s id='3'>Dans une chaise. </s>
-	<s id='4'>Tâter le pouls. </s>
+	<s id='4'>TÃ¢ter le pouls. </s>
 	<s id='5'>Comme ainsi soit. </s>
 	<s id='6'>Il est fou. </s>
 	<s id='7'>Deux gros joufflus. </s>
 	<s id='8'>Grands chapeaux. </s>
-	<s id='9'>Bon dî, bon dî. </s>
+	<s id='9'>Bon dÃ®, bon dÃ®. </s>
 	<s id='10'>Six pantalons. </s>
 	<s id='11'>Ta, ra, ta, ta ; Ta, ra, ta, ta. </s>
 	<s id='12'>Alegramente, Monsu Pourceaugnac. </s>
@@ -2147,9 +2147,9 @@
 	<s id='14'>Lavement. </s>
 	<s id='15'>Prenez, Monsieur, prenez, prenez. </s>
 	<s id='16'>Il est benin, benin, benin. </s>
-	<s id='17'>C'est pour déterger, pour déterger, déterger. </s>
-	<s id='18'>Piglia-lo sù, Signor Monsu, piglia-lo, piglia-lo, piglia-lo sù. </s>
-	<s id='19'>Jamais je n'ai été si soûl de sottises.</s>
+	<s id='17'>C'est pour dÃ©terger, pour dÃ©terger, dÃ©terger. </s>
+	<s id='18'>Piglia-lo sÃ¹, Signor Monsu, piglia-lo, piglia-lo, piglia-lo sÃ¹. </s>
+	<s id='19'>Jamais je n'ai Ã©tÃ© si soÃ»l de sottises.</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
@@ -2158,9 +2158,9 @@
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
-<note type="L">Pièce : Fig. Tromperie, moquerie, petit complot, comparé à une pièce de théâtre ; car c'est ainsi que s'explique l'emploi du mot en ce sens. [L]</note>
+<note type="L">PiÃ¨ce : Fig. Tromperie, moquerie, petit complot, comparÃ© Ã  une piÃ¨ce de thÃ©Ã¢tre ; car c'est ainsi que s'explique l'emploi du mot en ce sens. [L]</note>
 <p id='11'>
-	<s id='1'>Cela veut dire que cet homme-là, avec ses grandes embrassades, est un fourbe qui m'a mis dans une maison pour se moquer de moi, et me faire une pièce.</s>
+	<s id='1'>Cela veut dire que cet homme-lÃ , avec ses grandes embrassades, est un fourbe qui m'a mis dans une maison pour se moquer de moi, et me faire une piÃ¨ce.</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
@@ -2171,14 +2171,14 @@
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='13'>
 	<s id='1'>Sans doute. </s>
-	<s id='2'>Ils étaient une douzaine de possédés après mes chausses ; et j'ai eu toutes les peines du monde à m'échapper de leurs pattes.</s>
+	<s id='2'>Ils Ã©taient une douzaine de possÃ©dÃ©s aprÃ¨s mes chausses ; et j'ai eu toutes les peines du monde Ã  m'Ã©chapper de leurs pattes.</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='14'>
 	<s id='1'>Voyez un peu, les mines sont bien trompeuses ! </s>
-	<s id='2'>je l'aurais cru le plus affectionné de vos amis. </s>
-	<s id='4'>Voilà un de mes étonnements, comme il est possible qu'il y ait des fourbes comme cela dans le monde.</s>
+	<s id='2'>je l'aurais cru le plus affectionnÃ© de vos amis. </s>
+	<s id='4'>VoilÃ  un de mes Ã©tonnements, comme il est possible qu'il y ait des fourbes comme cela dans le monde.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
@@ -2200,31 +2200,31 @@
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='18'>
-	<s id='1'>Voilà une méchanceté bien grande ! </s>
-	<s id='2'>Et les hommes sont bien traîtres et scélérats !</s>
+	<s id='1'>VoilÃ  une mÃ©chancetÃ© bien grande ! </s>
+	<s id='2'>Et les hommes sont bien traÃ®tres et scÃ©lÃ©rats !</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='19'>
-	<s id='1'>Enseignez-moi, de grâce, le logis de Monsieur Oronte : je suis bien aise d'y aller tout à l'heure.</s>
+	<s id='1'>Enseignez-moi, de grÃ¢ce, le logis de Monsieur Oronte : je suis bien aise d'y aller tout Ã  l'heure.</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='20'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Ah ! </s>
-	<s id='3'>Vous êtes donc de complexion amoureuse, et vous avez ouï parler que ce Monsieur Oronte a une fille... ?</s>
+	<s id='3'>Vous Ãªtes donc de complexion amoureuse, et vous avez ouÃ¯ parler que ce Monsieur Oronte a une fille... ?</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='21'>
-	<s id='1'>Oui, je viens l'épouser.</s>
+	<s id='1'>Oui, je viens l'Ã©pouser.</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='22'>
-	<s id='1'>L'é... </s>
-	<s id='2'>l'épouser ?</s>
+	<s id='1'>L'Ã©... </s>
+	<s id='2'>l'Ã©pouser ?</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
@@ -2239,7 +2239,7 @@
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='25'>
-	<s id='1'>De quelle façon donc ?</s>
+	<s id='1'>De quelle faÃ§on donc ?</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
@@ -2265,22 +2265,22 @@
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='30'>
-	<s id='1'>Rien, vous dis-je : j'ai un peu parlé trop vite.</s>
+	<s id='1'>Rien, vous dis-je : j'ai un peu parlÃ© trop vite.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='31'>
-	<s id='1'>Je vous prie de me dire ce qu'il y a là-dessous.</s>
+	<s id='1'>Je vous prie de me dire ce qu'il y a lÃ -dessous.</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='32'>
-	<s id='1'>Non, cela n'est pas nécessaire.</s>
+	<s id='1'>Non, cela n'est pas nÃ©cessaire.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='33'>
-	<s id='1'>De grâce.</s>
+	<s id='1'>De grÃ¢ce.</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
@@ -2290,12 +2290,12 @@
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='35'>
-	<s id='1'>Est-ce que vous n'êtes pas de mes amis ?</s>
+	<s id='1'>Est-ce que vous n'Ãªtes pas de mes amis ?</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='36'>
-	<s id='1'>Si fait ; on ne peut pas l'être davantage.</s>
+	<s id='1'>Si fait ; on ne peut pas l'Ãªtre davantage.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
@@ -2305,24 +2305,24 @@
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='38'>
-	<s id='1'>C'est une chose où il y va de l'intérêt du prochain.</s>
+	<s id='1'>C'est une chose oÃ¹ il y va de l'intÃ©rÃªt du prochain.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='39'>
-	<s id='1'>Afin de vous obliger à m'ouvrir votre coeur, voilà une petite bague que je vous prie de garder pour l'amour de moi.</s>
+	<s id='1'>Afin de vous obliger Ã  m'ouvrir votre coeur, voilÃ  une petite bague que je vous prie de garder pour l'amour de moi.</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='40'>
 	<s id='1'>Laissez-moi consulter un peu si je le puis faire en conscience. </s>
-	<s id='2'>C'est un homme qui cherche son bien, qui tâche de pourvoir sa fille le plus avantageusement qu'il est possible, et il ne faut nuire à personne. </s>
-	<s id='3'>Ce sont des choses qui sont connues à la vérité, mais j'irai les découvrir à un homme qui les ignore, et il est défendu de scandaliser son prochain. </s>
+	<s id='2'>C'est un homme qui cherche son bien, qui tÃ¢che de pourvoir sa fille le plus avantageusement qu'il est possible, et il ne faut nuire Ã  personne. </s>
+	<s id='3'>Ce sont des choses qui sont connues Ã  la vÃ©ritÃ©, mais j'irai les dÃ©couvrir Ã  un homme qui les ignore, et il est dÃ©fendu de scandaliser son prochain. </s>
 	<s id='4'>Cela est vrai. </s>
-	<s id='5'>Mais, d'autre part, voilà un étranger qu'on veut surprendre, et qui, de bonne foi, vient se marier avec une fille qu'il ne connaît pas et qu'il n'a jamais vue ; un gentilhomme plein de franchise, pour qui je me sens de l'inclination, qui me fait l'honneur de me tenir pour son ami, prend confiance en moi, et me donne une bague à garder pour l'amour de lui. </s>
-	<s id='6'>Oui, je trouve que je puis vous dire les choses sans blesser ma conscience ; mais tâchons de vous les dire le plus doucement qu'il nous sera possible, et d'épargner les gens le plus que nous pourrons. </s>
-	<s id='7'>De vous dire que cette fille-là mène une vie déshonnête, cela serait un peu trop fort ; cherchons, pour nous expliquer, quelques termes plus doux. </s>
-	<s id='8'>Le mot de galante aussi n'est pas assez ; celui de coquette achevée me semble propre à ce que nous voulons, et je m'en puis servir pour vous dire honnêtement ce qu'elle est.</s>
+	<s id='5'>Mais, d'autre part, voilÃ  un Ã©tranger qu'on veut surprendre, et qui, de bonne foi, vient se marier avec une fille qu'il ne connaÃ®t pas et qu'il n'a jamais vue ; un gentilhomme plein de franchise, pour qui je me sens de l'inclination, qui me fait l'honneur de me tenir pour son ami, prend confiance en moi, et me donne une bague Ã  garder pour l'amour de lui. </s>
+	<s id='6'>Oui, je trouve que je puis vous dire les choses sans blesser ma conscience ; mais tÃ¢chons de vous les dire le plus doucement qu'il nous sera possible, et d'Ã©pargner les gens le plus que nous pourrons. </s>
+	<s id='7'>De vous dire que cette fille-lÃ  mÃ¨ne une vie dÃ©shonnÃªte, cela serait un peu trop fort ; cherchons, pour nous expliquer, quelques termes plus doux. </s>
+	<s id='8'>Le mot de galante aussi n'est pas assez ; celui de coquette achevÃ©e me semble propre Ã  ce que nous voulons, et je m'en puis servir pour vous dire honnÃªtement ce qu'elle est.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
@@ -2332,23 +2332,23 @@
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='42'>
-	<s id='1'>Peut-être dans le fond n'y a-t-il pas tant de mal que tout le monde croit. </s>
-	<s id='2'>Et puis il y a des gens, après tout, qui se mettent au-dessus de ces sortes de choses, et qui ne croient pas que leur honneur dépende...</s>
+	<s id='1'>Peut-Ãªtre dans le fond n'y a-t-il pas tant de mal que tout le monde croit. </s>
+	<s id='2'>Et puis il y a des gens, aprÃ¨s tout, qui se mettent au-dessus de ces sortes de choses, et qui ne croient pas que leur honneur dÃ©pende...</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='43'>
-	<s id='1'>Je suis votre serviteur, je ne me veux point mettre sur la tête un chapeau comme celui-là, et l'on aime à aller le front levé dans la famille des Pourceaugnac.</s>
+	<s id='1'>Je suis votre serviteur, je ne me veux point mettre sur la tÃªte un chapeau comme celui-lÃ , et l'on aime Ã  aller le front levÃ© dans la famille des Pourceaugnac.</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='44'>
-	<s id='1'>Voilà le père.</s>
+	<s id='1'>VoilÃ  le pÃ¨re.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='45'>
-	<s id='1'>Ce vieillard-là ?</s>
+	<s id='1'>Ce vieillard-lÃ  ?</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
@@ -2357,7 +2357,7 @@
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='5'><head>SCÈNE V. Oronte, Monsieur de Pourceaugnac.</head>
+<div2 type="scene" n='5'><head>SCÃˆNE V. Oronte, Monsieur de Pourceaugnac.</head>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='1'>
 	<s id='1'>Bonjour, Monsieur, bonjour.</s>
@@ -2370,7 +2370,7 @@
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='3'>
-	<s id='1'>Vous êtes Monsieur Oronte, n'est-ce pas ?</s>
+	<s id='1'>Vous Ãªtes Monsieur Oronte, n'est-ce pas ?</s>
 </p>
 </sp>
 <sp who='ORONTE'><speaker>ORONTE.</speaker>
@@ -2385,7 +2385,7 @@
 </sp>
 <sp who='ORONTE'><speaker>ORONTE.</speaker>
 <p id='6'>
-	<s id='1'>À la bonne heure.</s>
+	<s id='1'>Ã€ la bonne heure.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
@@ -2395,30 +2395,30 @@
 </sp>
 <sp who='ORONTE'><speaker>ORONTE.</speaker>
 <p id='8'>
-	<s id='1'>Croyez-vous, Monsieur de Pourceaugnac, que les Parisiens soient des bêtes ?</s>
+	<s id='1'>Croyez-vous, Monsieur de Pourceaugnac, que les Parisiens soient des bÃªtes ?</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='9'>
-	<s id='1'>Vous imaginez-vous, Monsieur Oronte, qu'un homme comme moi soit si affamé de femme ?</s>
+	<s id='1'>Vous imaginez-vous, Monsieur Oronte, qu'un homme comme moi soit si affamÃ© de femme ?</s>
 </p>
 </sp>
 <sp who='ORONTE'><speaker>ORONTE.</speaker>
 <p id='10'>
-	<s id='1'>Vous imaginez-vous, Monsieur de Pourceaugnac, qu'une fille comme la mienne soit si affamée de mari ?</s>
+	<s id='1'>Vous imaginez-vous, Monsieur de Pourceaugnac, qu'une fille comme la mienne soit si affamÃ©e de mari ?</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='6'><head>SCÈNE VI. Julie, Oronte, Monsieur de Pourceaugnac.</head>
+<div2 type="scene" n='6'><head>SCÃˆNE VI. Julie, Oronte, Monsieur de Pourceaugnac.</head>
 <sp who='JULIE'><speaker>JULIE.</speaker>
 <p id='1'>
-	<s id='1'>On vient de me dire, mon père, que Monsieur de Pourceaugnac est arrivé. </s>
+	<s id='1'>On vient de me dire, mon pÃ¨re, que Monsieur de Pourceaugnac est arrivÃ©. </s>
 	<s id='2'>Ah ! </s>
-	<s id='3'>Le voilà sans doute, et mon coeur me le dit. </s>
+	<s id='3'>Le voilÃ  sans doute, et mon coeur me le dit. </s>
 	<s id='4'>Qu'il est bien fait ! </s>
 	<s id='5'>Qu'il a bon air ! </s>
-	<s id='6'>Et que je suis contente d'avoir un tel époux ! </s>
-	<s id='7'>Souffrez que je l'embrasse, et que je lui témoigne...</s>
+	<s id='6'>Et que je suis contente d'avoir un tel Ã©poux ! </s>
+	<s id='7'>Souffrez que je l'embrasse, et que je lui tÃ©moigne...</s>
 </p>
 </sp>
 <sp who='ORONTE'><speaker>ORONTE.</speaker>
@@ -2440,25 +2440,25 @@
 <sp who='JULIE'><speaker>JULIE.</speaker>
 <p id='5'>
 	<s id='1'>Que je suis aise de vous voir ! </s>
-	<s id='2'>Et que je brûle d'impatience...</s>
+	<s id='2'>Et que je brÃ»le d'impatience...</s>
 </p>
 </sp>
 <sp who='ORONTE'><speaker>ORONTE.</speaker>
 <p id='6'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Ma fille ! </s>
-	<s id='3'>Otez-vous de là, vous dis-je</s>
+	<s id='3'>Otez-vous de lÃ , vous dis-je</s>
 </p>
 </sp>
 <stage>Julie s'approche de Monsieur de Pourceaugnac, le regarde d'un air languissant, et lui veut prendre la main.</stage>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='7'>
-	<s id='1'>Ho, ho, quelle égrillarde !</s>
+	<s id='1'>Ho, ho, quelle Ã©grillarde !</s>
 </p>
 </sp>
 <sp who='ORONTE'><speaker>ORONTE.</speaker>
 <p id='8'>
-	<s id='1'>Je voudrais bien, dis-je, savoir par quelle raison, s'il vous plaît, vous avez la hardiesse de...</s>
+	<s id='1'>Je voudrais bien, dis-je, savoir par quelle raison, s'il vous plaÃ®t, vous avez la hardiesse de...</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
@@ -2469,17 +2469,17 @@
 <sp who='ORONTE'><speaker>ORONTE.</speaker>
 <p id='10'>
 	<s id='1'>Encore ? </s>
-	<s id='2'>Qu'est-ce à dire cela ?</s>
+	<s id='2'>Qu'est-ce Ã  dire cela ?</s>
 </p>
 </sp>
 <sp who='JULIE'><speaker>JULIE.</speaker>
 <p id='11'>
-	<s id='1'>Ne voulez-vous pas que je caresse l'époux que vous m'avez choisi ?</s>
+	<s id='1'>Ne voulez-vous pas que je caresse l'Ã©poux que vous m'avez choisi ?</s>
 </p>
 </sp>
 <sp who='ORONTE'><speaker>ORONTE.</speaker>
 <p id='12'>
-	<s id='1'>Non : rentrez là dedans.</s>
+	<s id='1'>Non : rentrez lÃ  dedans.</s>
 </p>
 </sp>
 <sp who='JULIE'><speaker>JULIE.</speaker>
@@ -2494,17 +2494,17 @@
 </sp>
 <sp who='JULIE'><speaker>JULIE.</speaker>
 <p id='15'>
-	<s id='1'>Je veux demeurer là, s'il vous plaît.</s>
+	<s id='1'>Je veux demeurer lÃ , s'il vous plaÃ®t.</s>
 </p>
 </sp>
 <sp who='ORONTE'><speaker>ORONTE.</speaker>
 <p id='16'>
-	<s id='1'>Je ne veux pas, moi ; et si tu ne rentres tout à l'heure, je...</s>
+	<s id='1'>Je ne veux pas, moi ; et si tu ne rentres tout Ã  l'heure, je...</s>
 </p>
 </sp>
 <sp who='JULIE'><speaker>JULIE.</speaker>
 <p id='17'>
-	<s id='1'>Hé bien ! </s>
+	<s id='1'>HÃ© bien ! </s>
 	<s id='2'>Je rentre.</s>
 </p>
 </sp>
@@ -2540,7 +2540,7 @@
 </sp>
 <sp who='ORONTE'><speaker>ORONTE.</speaker>
 <p id='24'>
-	<s id='1'>Si je te l'ai promis, je te le dépromets.</s>
+	<s id='1'>Si je te l'ai promis, je te le dÃ©promets.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
@@ -2550,56 +2550,56 @@
 </sp>
 <sp who='JULIE'><speaker>JULIE.</speaker>
 <p id='26'>
-	<s id='1'>Vous avez beau faire, nous serons mariés ensemble en dépit de tout le monde.</s>
+	<s id='1'>Vous avez beau faire, nous serons mariÃ©s ensemble en dÃ©pit de tout le monde.</s>
 </p>
 </sp>
 <sp who='ORONTE'><speaker>ORONTE.</speaker>
-<note type="L">Vertigo : maladie qui presque le connaissance au cheval ; que le fait chanceler et donner de la tête contre les murs. S'emploie aussi figurément dans le style burlesque, pour caprice, colère soudaine. [F]</note>
+<note type="L">Vertigo : maladie qui presque le connaissance au cheval ; que le fait chanceler et donner de la tÃªte contre les murs. S'emploie aussi figurÃ©ment dans le style burlesque, pour caprice, colÃ¨re soudaine. [F]</note>
 <p id='27'>
-	<s id='1'>Je vous en empêcherai bien tous deux, je vous assure. </s>
+	<s id='1'>Je vous en empÃªcherai bien tous deux, je vous assure. </s>
 	<s id='2'>Voyez un peu quel vertigo lui prend.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='28'>
-	<s id='1'>Mon Dieu, notre beau-père prétendu, ne vous fatiguez point tant : on n'a pas envie de vous enlever votre fille, et vos grimaces n'attraperont rien.</s>
+	<s id='1'>Mon Dieu, notre beau-pÃ¨re prÃ©tendu, ne vous fatiguez point tant : on n'a pas envie de vous enlever votre fille, et vos grimaces n'attraperont rien.</s>
 </p>
 </sp>
 <sp who='ORONTE'><speaker>ORONTE.</speaker>
 <p id='29'>
-	<s id='1'>Toutes les vôtres n'auront pas grand effet.</s>
+	<s id='1'>Toutes les vÃ´tres n'auront pas grand effet.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <note type="L">Acheter chat en poche : Conclure une affaire sans examen. [L]</note>
 <p id='30'>
-	<s id='1'>Vous êtes-vous mis dans la tête que Léonard de Pourceaugnac soit un homme à acheter chat en poche ? </s>
-	<s id='2'>3t qu'il n'ait pas là dedans quelque morceau de judiciaire pour se conduire, pour se faire informer de l'histoire du monde, et voir, en se mariant, si son honneur a bien toutes ses sûretés ?</s>
+	<s id='1'>Vous Ãªtes-vous mis dans la tÃªte que LÃ©onard de Pourceaugnac soit un homme Ã  acheter chat en poche ? </s>
+	<s id='2'>3t qu'il n'ait pas lÃ  dedans quelque morceau de judiciaire pour se conduire, pour se faire informer de l'histoire du monde, et voir, en se mariant, si son honneur a bien toutes ses sÃ»retÃ©s ?</s>
 </p>
 </sp>
 <sp who='ORONTE'><speaker>ORONTE.</speaker>
 <p id='31'>
-	<s id='1'>Je ne sais pas ce que cela veut dire ; mais vous êtes-vous mis dans la tête qu'un homme de soixante et trois ans ait si peu de cervelle, et considère si peu sa fille, que de la marier avec un homme qui a ce que vous savez, et qui a été mis chez un médecin pour être pansé ?</s>
+	<s id='1'>Je ne sais pas ce que cela veut dire ; mais vous Ãªtes-vous mis dans la tÃªte qu'un homme de soixante et trois ans ait si peu de cervelle, et considÃ¨re si peu sa fille, que de la marier avec un homme qui a ce que vous savez, et qui a Ã©tÃ© mis chez un mÃ©decin pour Ãªtre pansÃ© ?</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='32'>
-	<s id='1'>C'est une pièce que l'on m'a faite, et je n'ai aucun mal.</s>
+	<s id='1'>C'est une piÃ¨ce que l'on m'a faite, et je n'ai aucun mal.</s>
 </p>
 </sp>
 <sp who='ORONTE'><speaker>ORONTE.</speaker>
 <p id='33'>
-	<s id='1'>Le médecin me l'a dit lui-même.</s>
+	<s id='1'>Le mÃ©decin me l'a dit lui-mÃªme.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='34'>
-	<s id='1'>Le médecin en a menti : je suis gentilhomme, et je le veux voir l'épée à la main.</s>
+	<s id='1'>Le mÃ©decin en a menti : je suis gentilhomme, et je le veux voir l'Ã©pÃ©e Ã  la main.</s>
 </p>
 </sp>
 <sp who='ORONTE'><speaker>ORONTE.</speaker>
 <p id='35'>
-	<s id='1'>Je sais ce que j'en dois croire, et vous ne m'abuserez pas là-dessus, non plus que sur les dettes que vous avez assignées sur le mariage de ma fille.</s>
+	<s id='1'>Je sais ce que j'en dois croire, et vous ne m'abuserez pas lÃ -dessus, non plus que sur les dettes que vous avez assignÃ©es sur le mariage de ma fille.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
@@ -2609,13 +2609,13 @@
 </sp>
 <sp who='ORONTE'><speaker>ORONTE.</speaker>
 <p id='37'>
-	<s id='1'>La feinte ici est inutile, et j'ai vu le marchand flamand qui, avec les autres créanciers, a obtenu, depuis huit mois, sentence contre vous.</s>
+	<s id='1'>La feinte ici est inutile, et j'ai vu le marchand flamand qui, avec les autres crÃ©anciers, a obtenu, depuis huit mois, sentence contre vous.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='38'>
 	<s id='1'>Quel marchand flamand ? </s>
-	<s id='2'>Quels créanciers ? </s>
+	<s id='2'>Quels crÃ©anciers ? </s>
 	<s id='3'>Quelle sentence obtenue contre moi ?</s>
 </p>
 </sp>
@@ -2625,24 +2625,24 @@
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='7'><head>SCÈNE VII. Lucette, Oronte, Monsieur de Pourceaugnac.</head>
+<div2 type="scene" n='7'><head>SCÃˆNE VII. Lucette, Oronte, Monsieur de Pourceaugnac.</head>
 <sp who='LUCETTE'><speaker>LUCETTE.</speaker>
 <p id='1'> 
 	<s id='1'>Ah ! </s>
-	<s id='2'>Tu es assy, et à la fy yeu te trobi aprés abé fait tant de passés. </s>
-	<s id='3'>Podes-tu, scélérat, podes-tu sousteni ma bisto ?</s>
+	<s id='2'>Tu es assy, et Ã  la fy yeu te trobi aprÃ©s abÃ© fait tant de passÃ©s. </s>
+	<s id='3'>Podes-tu, scÃ©lÃ©rat, podes-tu sousteni ma bisto ?</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='2'>
-	<s id='1'>Qu'est-ce que veut cette femme-là ?</s>
+	<s id='1'>Qu'est-ce que veut cette femme-lÃ  ?</s>
 </p>
 </sp>	
 <sp who='LUCETTE'><speaker>LUCETTE.</speaker>
 <p id='3'> 
 	<s id='1'>Que te boli, infame ! </s>
 	<s id='2'>Tu fas semblan de nou me pas counouysse, et nou rougisses pas, impudent que tu sios, tu ne rougisses pas de me beyre ? </s>
-	<s id='3'>Nou sabi pas, Moussur, saquos bous dont m'an dit que bouillo espousa la fillo ; may yeu bous declari que yeu soun sa fenno, et que y a set ans, Moussur, qu'en passan à Pezenas el auguet l'adresse dambé sas mignardisos, commo sap tapla fayre, de me gaigna lou cor, et m'oubligel pra quel mouyen à ly douna la ma per l'espousa.</s>
+	<s id='3'>Nou sabi pas, Moussur, saquos bous dont m'an dit que bouillo espousa la fillo ; may yeu bous declari que yeu soun sa fenno, et que y a set ans, Moussur, qu'en passan Ã  Pezenas el auguet l'adresse dambÃ© sas mignardisos, commo sap tapla fayre, de me gaigna lou cor, et m'oubligel pra quel mouyen Ã  ly douna la ma per l'espousa.</s>
 </p>
 </sp>
 <sp who='ORONTE'><speaker>ORONTE.</speaker>
@@ -2658,13 +2658,13 @@
 </sp>	
 <sp who='LUCETTE'><speaker>LUCETTE.</speaker>
 <p id='6'> 
-	<s id='1'>Lou trayté me quitel trés ans aprés, sul preteste de qualques affayrés que l'apelabon dins soun païs, et despey noun ly resçauput quaso de noubelo ; may dins lou tens qui soungeabi lou mens, m'an dounat abist, que begnio dins aquesto bilo, per se remarida danbé un autro jouena fillo, que sous parens ly an proucurado, sensse saupré res de sou prumié mariatge. </s>
-	<s id='2'>Yeu ay tout quitat en diligensso, et me souy rendudo dins aqueste loc lou pu leu qu'ay pouscut, per m'oupousa en aquel criminel mariatge, et confondre as ely de tout le mounde lou plus méchant des hommes.</s>
+	<s id='1'>Lou traytÃ© me quitel trÃ©s ans aprÃ©s, sul preteste de qualques affayrÃ©s que l'apelabon dins soun paÃ¯s, et despey noun ly resÃ§auput quaso de noubelo ; may dins lou tens qui soungeabi lou mens, m'an dounat abist, que begnio dins aquesto bilo, per se remarida danbÃ© un autro jouena fillo, que sous parens ly an proucurado, sensse sauprÃ© res de sou prumiÃ© mariatge. </s>
+	<s id='2'>Yeu ay tout quitat en diligensso, et me souy rendudo dins aqueste loc lou pu leu qu'ay pouscut, per m'oupousa en aquel criminel mariatge, et confondre as ely de tout le mounde lou plus mÃ©chant des hommes.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='7'>
-	<s id='1'>Voilà une étrange effrontée !</s>
+	<s id='1'>VoilÃ  une Ã©trange effrontÃ©e !</s>
 </p>
 </sp>	
 <sp who='LUCETTE'><speaker>LUCETTE.</speaker>
@@ -2680,32 +2680,32 @@
 <sp who='LUCETTE'><speaker>LUCETTE.</speaker>
 <p id='10'> 
 	<s id='1'>Infame, gausos-tu dire lou contrari ? </s>
-	<s id='2'>He tu sabes be, per ma penno, que n'es que trop bertat ; et plaguesso al Cel qu'aco nou fougesso pas, et que m'auquessos layssado dins l'estat d'innoussenço et dins la tranquillitat oun moun amo bibio daban que tous charmes et tas trounpariés nou m'en benguesson malhurousomen fayre sourty ! </s>
-	<s id='3'>Yeu nou serio pas reduito à fayré lou tristé perssounatgé qu'yeu fave presentomen, à beyre un marit cruel mespresa touto l'ardou que yeu ay per el, et me laissa sensse cap de pietat abandounado à las mourtéles doulous que yeu ressenty de sas perfidos acciûs.</s>
+	<s id='2'>He tu sabes be, per ma penno, que n'es que trop bertat ; et plaguesso al Cel qu'aco nou fougesso pas, et que m'auquessos layssado dins l'estat d'innoussenÃ§o et dins la tranquillitat oun moun amo bibio daban que tous charmes et tas trounpariÃ©s nou m'en benguesson malhurousomen fayre sourty ! </s>
+	<s id='3'>Yeu nou serio pas reduito Ã  fayrÃ© lou tristÃ© perssounatgÃ© qu'yeu fave presentomen, Ã  beyre un marit cruel mespresa touto l'ardou que yeu ay per el, et me laissa sensse cap de pietat abandounado Ã  las mourtÃ©les doulous que yeu ressenty de sas perfidos acciÃ»s.</s>
 </p>
 </sp>
 <sp who='ORONTE'><speaker>ORONTE.</speaker>
 <p id='11'>
-	<s id='1'>Je ne saurais m'empêcher de pleurer. </s>
-	<s id='2'>Allez, vous êtes un méchant homme.</s>
+	<s id='1'>Je ne saurais m'empÃªcher de pleurer. </s>
+	<s id='2'>Allez, vous Ãªtes un mÃ©chant homme.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='12'>
-	<s id='1'>Je ne connais rien à tout ceci.</s>
+	<s id='1'>Je ne connais rien Ã  tout ceci.</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='8'><head>SCÈNE VIII. Nérine, en Picarde, Lucette, Oronte, Monsieur de Pourceaugnac</head>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
+<div2 type="scene" n='8'><head>SCÃˆNE VIII. NÃ©rine, en Picarde, Lucette, Oronte, Monsieur de Pourceaugnac</head>
+<sp who='NERINE'><speaker>NÃ‰RINE.</speaker>
 <p id='1'>
 	<s id='1'>Ah ! </s>
-	<s id='2'>Je n'en pis plus, je sis toute essoflée ! </s>
+	<s id='2'>Je n'en pis plus, je sis toute essoflÃ©e ! </s>
 	<s id='3'>Ah ! </s>
-	<s id='4'>Finfaron, tu m'as bien fait courir, tu ne m'écaperas mie. </s>
+	<s id='4'>Finfaron, tu m'as bien fait courir, tu ne m'Ã©caperas mie. </s>
 	<s id='5'>Justice, justice ! </s>
 	<s id='6'>je boute empeschement au mariage. </s>
-	<s id='7'>Chés mon mery, Monsieur, et je veux faire pindre che bon pindar-là.</s>
+	<s id='7'>ChÃ©s mon mery, Monsieur, et je veux faire pindre che bon pindar-lÃ .</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
@@ -2720,23 +2720,23 @@
 </sp>	
 <sp who='LUCETTE'><speaker>LUCETTE.</speaker>
 <p id='4'> 
-	<s id='1'>Et que boulés-bous dire, ambe bostre empachomen, et bostro pendarié ? </s>
+	<s id='1'>Et que boulÃ©s-bous dire, ambe bostre empachomen, et bostro pendariÃ© ? </s>
 	<s id='2'>Quaquel homo es bostre marit ?</s>
 </p>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
+<sp who='NERINE'><speaker>NÃ‰RINE.</speaker>
 <p id='5'>
 	<s id='1'>Oui, Medeme, et je sis sa femme.</s>
 </p>
 </sp>	
 <sp who='LUCETTE'><speaker>LUCETTE.</speaker>
 <p id='6'> 
-	<s id='1'>Aquo es faus, aquos yeu que soun sa fenno ; et se deû estre pendut, aquo sera yeu que lou faray penda.</s>
+	<s id='1'>Aquo es faus, aquos yeu que soun sa fenno ; et se deÃ» estre pendut, aquo sera yeu que lou faray penda.</s>
 </p>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
+<sp who='NERINE'><speaker>NÃ‰RINE.</speaker>
 <p id='7'>
-	<s id='1'>Je n'entains mie che baragoin-là.</s>
+	<s id='1'>Je n'entains mie che baragoin-lÃ .</s>
 </p>
 </sp>	
 <sp who='LUCETTE'><speaker>LUCETTE.</speaker>
@@ -2744,7 +2744,7 @@
 	<s id='1'>Yeu bous disy que yeu soun sa fenno.</s>
 </p>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
+<sp who='NERINE'><speaker>NÃ‰RINE.</speaker>
 <p id='9'>
 	<s id='1'>Sa femme ?</s>
 </p>	
@@ -2754,7 +2754,7 @@
 	<s id='1'>Oy.</s>
 </p>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
+<sp who='NERINE'><speaker>NÃ‰RINE.</speaker>
 <p id='11'>
 	<s id=''>Je vous dis que chest my, encore in coup, qui le sis.</s>
 </p>
@@ -2764,9 +2764,9 @@
 	<s id='1'>Et yeus bous sousteni yeu, qu'aquos yeu.</s>
 </p>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
+<sp who='NERINE'><speaker>NÃ‰RINE.</speaker>
 <p id='13'>
-	<s id='1'>Il y a quetre ans qu'il m'a éposée.</s>
+	<s id='1'>Il y a quetre ans qu'il m'a Ã©posÃ©e.</s>
 </p>
 </sp>
 <sp who='LUCETTE'><speaker>LUCETTE.</speaker>
@@ -2774,31 +2774,31 @@
 	<s id='1'>Et yeu set ans y a que m'a preso per fenno.</s>
 </p>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
+<sp who='NERINE'><speaker>NÃ‰RINE.</speaker>
 <p id='15'>
 	<s id='1'>J'ay des gairents de tout ce que je dy.</s>
 </p>	
 </sp>
 <sp who='LUCETTE'><speaker>LUCETTE.</speaker>
 <p id='16'> 
-	<s id='1'>Tout mon païs lo sap.</s>
+	<s id='1'>Tout mon paÃ¯s lo sap.</s>
 </p>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
+<sp who='NERINE'><speaker>NÃ‰RINE.</speaker>
 <p id='17'>
-	<s id='1'>No ville en est témoin.</s>
+	<s id='1'>No ville en est tÃ©moin.</s>
 </p>
 </sp>	
 <sp who='LUCETTE'><speaker>LUCETTE.</speaker>
-<note type="L">Pezenas : vile de l'Hérault entre Béziers et Montpellier. Molière y a séjourné longuement.</note>
+<note type="L">Pezenas : vile de l'HÃ©rault entre BÃ©ziers et Montpellier. MoliÃ¨re y a sÃ©journÃ© longuement.</note>
 <p id='18'> 
 	<s id='1'>Tout Pezenas a bist notre mariatge.</s>
 </p>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
+<sp who='NERINE'><speaker>NÃ‰RINE.</speaker>
 <note type="L">Saint-Quentin : une ville de l'Oise au nord de Paris</note>
 <p id='19'>
-	<s id=''>Tout Chin-Quentin a assisté à no noce.</s>
+	<s id=''>Tout Chin-Quentin a assistÃ© Ã  no noce.</s>
 </p>
 </sp>	
 <sp who='LUCETTE'><speaker>LUCETTE.</speaker>
@@ -2806,7 +2806,7 @@
 	<s id='1'>Nou y a res de tan beritable.</s>
 </p>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
+<sp who='NERINE'><speaker>NÃ‰RINE.</speaker>
 <p id='21'>
 	<s id=''>Il gn'y a rien de plus chertain.</s>
 </p>
@@ -2816,9 +2816,9 @@
 	<s id='1'>Gausos-tu dire lou contrari, valisquos ?</s>
 </p>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
+<sp who='NERINE'><speaker>NÃ‰RINE.</speaker>
 <p id='23'>
-	<s id='1'>Est-che que tu me démaintiras, méchaint homme ?</s>
+	<s id='1'>Est-che que tu me dÃ©maintiras, mÃ©chaint homme ?</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
@@ -2829,29 +2829,29 @@
 <sp who='LUCETTE'><speaker>LUCETTE.</speaker>
 <p id='25'> 
 	<s id='1'>Quaign'impudensso ! </s>
-	<s id=''>Et coussy, miserable, nou te soubenes plus de la pauro Françon, et del paure Jeanet, que soun lous fruits de notre mariatge ?</s>
+	<s id=''>Et coussy, miserable, nou te soubenes plus de la pauro FranÃ§on, et del paure Jeanet, que soun lous fruits de notre mariatge ?</s>
 </p>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
+<sp who='NERINE'><speaker>NÃ‰RINE.</speaker>
 <p id='26'>
 	<s id='1'>Bayez un peu l'insolence. </s>
 	<s id='2'>Quoi ? </s>
-	<s id='3'>Tu ne te souviens mie de chette pauvre ainfain, no petite Madelaine, que tu m'as laichée pour gaige de ta foy ?</s>
+	<s id='3'>Tu ne te souviens mie de chette pauvre ainfain, no petite Madelaine, que tu m'as laichÃ©e pour gaige de ta foy ?</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='27'>
-	<s id='1'>Voilà deux impudentes carognes !</s>
+	<s id='1'>VoilÃ  deux impudentes carognes !</s>
 </p>
 </sp>	
 <sp who='LUCETTE'><speaker>LUCETTE.</speaker>
 <p id='28'> 
-	<s id='1'>Beny, Françon, beny, Jeanet, beny, toustou, beny, toustoune, beny fayre beyre à un payre dénaturat la duretat qu'el a per nautres.</s>
+	<s id='1'>Beny, FranÃ§on, beny, Jeanet, beny, toustou, beny, toustoune, beny fayre beyre Ã  un payre dÃ©naturat la duretat qu'el a per nautres.</s>
 </p>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
+<sp who='NERINE'><speaker>NÃ‰RINE.</speaker>
 <p id='29'>
-	<s id='1'>Venez, Madelaine, me n'ainfain, venez-ves-en ichy faire honte à vo père de l'impudainche qu'il a.</s>
+	<s id='1'>Venez, Madelaine, me n'ainfain, venez-ves-en ichy faire honte Ã  vo pÃ¨re de l'impudainche qu'il a.</s>
 </p>
 </sp>
 <sp who='JEANET_FANCHON_MADELAINE'><speaker>Jeanet, Fanchon, Madelaine.</speaker>
@@ -2867,14 +2867,14 @@
 </sp>	
 <sp who='LUCETTE'><speaker>LUCETTE.</speaker>
 <p id='32'> 
-	<s id='1'>Coussy, trayte, tu nou sios pas dins la darnière confusiu, de ressaupre à tal tous enfants, et de ferma l'aureillo à la tendresso paternello ? </s>
-	<s id='2'>Tu nou m'escaperas pas, infame ; yeu te boli seguy per tout, et te reproucha ton crime jusquos à tant que me sio beniado, et que t'ayo fayt penia : couqui, te boli fayré penia.</s>
+	<s id='1'>Coussy, trayte, tu nou sios pas dins la darniÃ¨re confusiu, de ressaupre Ã  tal tous enfants, et de ferma l'aureillo Ã  la tendresso paternello ? </s>
+	<s id='2'>Tu nou m'escaperas pas, infame ; yeu te boli seguy per tout, et te reproucha ton crime jusquos Ã  tant que me sio beniado, et que t'ayo fayt penia : couqui, te boli fayrÃ© penia.</s>
 </p>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
+<sp who='NERINE'><speaker>NÃ‰RINE.</speaker>
 <p id='33'>
-	<s id='1'>Ne rougis-tu mie de dire ches mots-là, et d'estre insainsible aux cairesses de chette pauvre ainfain ? </s>
-	<s id='2'>Tu ne te sauveras mie de mes pattes ; et en dépit de tes dains, je feray bien voir que je sis ta femme, et je te feray pindre.</s>
+	<s id='1'>Ne rougis-tu mie de dire ches mots-lÃ , et d'estre insainsible aux cairesses de chette pauvre ainfain ? </s>
+	<s id='2'>Tu ne te sauveras mie de mes pattes ; et en dÃ©pit de tes dains, je feray bien voir que je sis ta femme, et je te feray pindre.</s>
 </p>
 </sp>
 <sp who='JEANET_FANCHON_MADELAINE'><speaker>LES ENFANTS, tous ensemble.</speaker>
@@ -2886,39 +2886,39 @@
 <p id='35'>
 	<s id='1'>Au secours ! </s>
 	<s id='2'>Au secours ! </s>
-	<s id='3'>Où fuirai-je ? </s>
+	<s id='3'>OÃ¹ fuirai-je ? </s>
 	<s id='4'>Je n'en puis plus.</s>
 </p>
 </sp>
 <sp who='ORONTE'><speaker>ORONTE.</speaker>
 <p id='36'>
-	<s id='1'>Allez, vous ferez bien de le faire punir, et il mérite d'être pendu.</s>
+	<s id='1'>Allez, vous ferez bien de le faire punir, et il mÃ©rite d'Ãªtre pendu.</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='9'><head>SCÈNE IX.</head>
+<div2 type="scene" n='9'><head>SCÃˆNE IX.</head>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='1'>
 	<s id='1'>Je conduis de l'oeil toutes choses, et tout ceci ne va pas mal. </s>
 	<s id='2'>Nous fatiguerons tant notre provincial, qu'il faudra, ma foi ! </s>
-	<s id='3'>Qu'il déguerpisse.</s>
+	<s id='3'>Qu'il dÃ©guerpisse.</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='10'><head>SCÈNE X. Monsieur de Pourceaugnac, Sbrigani.</head>
+<div2 type="scene" n='10'><head>SCÃˆNE X. Monsieur de Pourceaugnac, Sbrigani.</head>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='1'>
 	<s id='1'>Ah ! </s>
-	<s id='2'>Je suis assommé. </s>
+	<s id='2'>Je suis assommÃ©. </s>
 	<s id='3'>Quelle peine ! </s>
 	<s id='4'>Quelle maudite ville ! </s>
-	<s id='5'>Assassiné de tous côtés !</s>
+	<s id='5'>AssassinÃ© de tous cÃ´tÃ©s !</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='2'>
 	<s id='1'>Qu'est-ce, Monsieur ? </s>
-	<s id='2'>Est-il encore arrivé quelque chose ?</s>
+	<s id='2'>Est-il encore arrivÃ© quelque chose ?</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
@@ -2934,54 +2934,54 @@
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='5'>
-	<s id='1'>Deux carognes de baragouineuses me sont venu accuser de les avoir épousé toutes deux, et me menacent de la justice.</s>
+	<s id='1'>Deux carognes de baragouineuses me sont venu accuser de les avoir Ã©pousÃ© toutes deux, et me menacent de la justice.</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='6'>
-	<s id='1'>Voilà une méchante affaire, et la justice en ce pays-ci est rigoureuse en diable contre cette sorte de crime.</s>
+	<s id='1'>VoilÃ  une mÃ©chante affaire, et la justice en ce pays-ci est rigoureuse en diable contre cette sorte de crime.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
-<note type="L">Juridiction : justice, tribunal où l'on plaide. Il y a vint-quatre juridictions tant grandes que petites dans l'enclos du Palais de Paris, des lieux où l'on plaide. [F]</note>
+<note type="L">Juridiction : justice, tribunal oÃ¹ l'on plaide. Il y a vint-quatre juridictions tant grandes que petites dans l'enclos du Palais de Paris, des lieux oÃ¹ l'on plaide. [F]</note>
 <p id='7'>
-	<s id='1'>Oui ; mais quand il y aurait information, ajournement, décret, et jugement obtenu par surprise, défaut et contumace, j'ai la voie de conflit de juridiction, pour temporiser, et venir aux moyens de nullité qui seront dans les procédures.</s>
+	<s id='1'>Oui ; mais quand il y aurait information, ajournement, dÃ©cret, et jugement obtenu par surprise, dÃ©faut et contumace, j'ai la voie de conflit de juridiction, pour temporiser, et venir aux moyens de nullitÃ© qui seront dans les procÃ©dures.</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='8'>
-	<s id='1'>Voilà en parler dans tous les termes, et l'on voit bien, Monsieur, que vous êtes du métier.</s>
+	<s id='1'>VoilÃ  en parler dans tous les termes, et l'on voit bien, Monsieur, que vous Ãªtes du mÃ©tier.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
-<note type="L">Gentilhomme : On appelle gentilhomme de nom et d'armes, celui qui porte le nom de quelque province, bourg, château, seigeurie ou fief noble, qui ont des armes particulières, quoiqu'il ne soit pas seigneur de ces terres. [F]</note>
+<note type="L">Gentilhomme : On appelle gentilhomme de nom et d'armes, celui qui porte le nom de quelque province, bourg, chÃ¢teau, seigeurie ou fief noble, qui ont des armes particuliÃ¨res, quoiqu'il ne soit pas seigneur de ces terres. [F]</note>
 <p id='9'>
 	<s id='1'>Moi, point du tout : je suis gentilhomme.</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='10'>
-	<s id='1'>Il faut bien, pour parler ainsi, que vous ayez étudié la pratique.</s>
+	<s id='1'>Il faut bien, pour parler ainsi, que vous ayez Ã©tudiÃ© la pratique.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='11'>
-	<s id='1'>Point : ce n'est que le sens commun qui me fait juger que je serai toujours reçu à mes faits justificatifs, et qu'on ne me saurait condamner sur une simple accusation, sans un récolement et confrontation avec mes parties.</s>
+	<s id='1'>Point : ce n'est que le sens commun qui me fait juger que je serai toujours reÃ§u Ã  mes faits justificatifs, et qu'on ne me saurait condamner sur une simple accusation, sans un rÃ©colement et confrontation avec mes parties.</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='12'>
-	<s id='1'>En voilà du plus fin encore.</s>
+	<s id='1'>En voilÃ  du plus fin encore.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='13'>
-	<s id='1'>Ces mots-là me viennent sans que je les sache.</s>
+	<s id='1'>Ces mots-lÃ  me viennent sans que je les sache.</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='14'>
-	<s id='1'>Il me semble que le sens commun d'un gentilhomme peut bien aller à concevoir ce qui est du droit et de l'ordre de la justice, mais non pas à savoir les vrais termes de la chicane.</s>
+	<s id='1'>Il me semble que le sens commun d'un gentilhomme peut bien aller Ã  concevoir ce qui est du droit et de l'ordre de la justice, mais non pas Ã  savoir les vrais termes de la chicane.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
@@ -2997,12 +2997,12 @@
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='17'>
-	<s id='1'>Pour vous montrer que je n'entends rien du tout à la chicane, je vous prie de me mener chez quelque avocat pour consulter mon affaire.</s>
+	<s id='1'>Pour vous montrer que je n'entends rien du tout Ã  la chicane, je vous prie de me mener chez quelque avocat pour consulter mon affaire.</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='18'>
-	<s id='1'>Je le veux, et vais vous conduire chez deux hommes fort habiles ; mais j'ai auparavant à vous avertir de n'être point surpris de leur manière de parler : ils ont contracté du barreau certaine habitude de déclamation qui fait que l'on dirait qu'ils chantent ; et vous prendrez pour musique tout ce qu'ils vous diront.</s>
+	<s id='1'>Je le veux, et vais vous conduire chez deux hommes fort habiles ; mais j'ai auparavant Ã  vous avertir de n'Ãªtre point surpris de leur maniÃ¨re de parler : ils ont contractÃ© du barreau certaine habitude de dÃ©clamation qui fait que l'on dirait qu'ils chantent ; et vous prendrez pour musique tout ce qu'ils vous diront.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
@@ -3011,19 +3011,19 @@
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='10'><head>SCÈNE X.. Sbrigani, Monsieur de Pourceaugnac, Deux Avocats musiciens, dont l'un parle fort lentement, et l'autre fort vite accompagnés de deux Procureurs et de deux Sergents.</head>
-<sp who='AVOCAT-trainant'><speaker>L'Avocat traînant ces paroles.</speaker>
+<div2 type="scene" n='10'><head>SCÃˆNE X.. Sbrigani, Monsieur de Pourceaugnac, Deux Avocats musiciens, dont l'un parle fort lentement, et l'autre fort vite accompagnÃ©s de deux Procureurs et de deux Sergents.</head>
+<sp who='AVOCAT-trainant'><speaker>L'Avocat traÃ®nant ces paroles.</speaker>
 	<l id='56'>La polygamie est un cas,</l>
 	<l id='57'>Est un cas pendable.</l>
 </sp>
-<sp who='AVOCAT-bredouilleur'><speaker>L'AVOCAT traînant ces paroles.</speaker>
+<sp who='AVOCAT-bredouilleur'><speaker>L'AVOCAT traÃ®nant ces paroles.</speaker>
 	<l id='58'>Votre fait</l>
 	<l id='59'>Est clair et net ; </l>
 	<l id='60'>Et tout le droit</l>
 	<l id='61'>Sur cet endroit</l>
 	<l id='62'>Conclut tout droit.</l>
 	<l id='63'>Si vous consultez nos auteurs,</l>
-	<l id='64'>Législateurs et glossateurs,</l>
+	<l id='64'>LÃ©gislateurs et glossateurs,</l>
 	<l id='65'>Justinian, Papinian,</l>
 	<l id='66'>Ulpian et Tribonian,</l>
 	<l id='67'>Fernad, Rebuffe, Jean Imole,</l>
@@ -3032,35 +3032,35 @@
 	<l id='70'>Ce grand homme si capable,</l>
 	<l id='71'>La polygamie est un cas,</l>
 	<l id='72'>Est un cas pendable.</l>
-	<l id='73'>Tous les peuples policés</l>
-	<l id='74'>Et bien sensés : </l>
-	<l id='75'>Les Français, Anglais, Hollandais,</l>
-	<l id='76'>Danois, Suédois, Polonais,</l>
+	<l id='73'>Tous les peuples policÃ©s</l>
+	<l id='74'>Et bien sensÃ©s : </l>
+	<l id='75'>Les FranÃ§ais, Anglais, Hollandais,</l>
+	<l id='76'>Danois, SuÃ©dois, Polonais,</l>
 	<l id='77'>Portugais, Espagnols, Flamands,</l>
 	<l id='78'>Italiens, Allemands,</l>
 	<l id='79'>Sur ce fait tiennent loi semblable,</l>
 	<l id='80'>Et l'affaire est sans embarras : </l>
 	<l id='81'>La polygamie est un cas,</l>
 	<l id='82'>Est un cas pendable.</l>
-<stage>Monsieur de Pourceaugnac les bat. Deux Procureurs et deux Sergents dansent une entrée, qui finit l'acte.</stage>
+<stage>Monsieur de Pourceaugnac les bat. Deux Procureurs et deux Sergents dansent une entrÃ©e, qui finit l'acte.</stage>
 </sp>
-</div2> 
+</div2>Â 
 </div1>
-<div1 type='acte' n='4'><head>ACTE III</head>
-<div2 type='scene' n='1'><head>SCÈNE I. Eraste, Sbrigani.</head>
+<div1 type="act" n='4'><head>ACTE III</head>
+<div2 type="scene" n='1'><head>SCÃˆNE I. Eraste, Sbrigani.</head>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='1'>
-	<s id='1'>Oui, les choses s'acheminent où nous voulons ; et comme ses lumières sont fort petites, et son sens le plus borné du monde, je lui ai fait prendre une frayeur si grande de la sévérité de la justice de ce pays, et des apprêts qu'on faisait déjà pour sa mort, qu'il veut prendre la fuite ; et pour se dérober avec plus de facilité aux gens que je lui ai dit qu'on avait mis pour l'arrêter aux portes de la ville, il s'est résolu à se déguiser, et le déguisement qu'il a pris est l'habit d'une femme.</s>
+	<s id='1'>Oui, les choses s'acheminent oÃ¹ nous voulons ; et comme ses lumiÃ¨res sont fort petites, et son sens le plus bornÃ© du monde, je lui ai fait prendre une frayeur si grande de la sÃ©vÃ©ritÃ© de la justice de ce pays, et des apprÃªts qu'on faisait dÃ©jÃ  pour sa mort, qu'il veut prendre la fuite ; et pour se dÃ©rober avec plus de facilitÃ© aux gens que je lui ai dit qu'on avait mis pour l'arrÃªter aux portes de la ville, il s'est rÃ©solu Ã  se dÃ©guiser, et le dÃ©guisement qu'il a pris est l'habit d'une femme.</s>
 </p>
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
 <p id='2'>
-	<s id='1'>Je voudrais bien le voir en cet équipage.</s>
+	<s id='1'>Je voudrais bien le voir en cet Ã©quipage.</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='3'>
-	<s id='1'>Songez de votre part à achever la comédie ; et tandis que je jouerai mes scènes avec lui, allez-vous-en... </s>
+	<s id='1'>Songez de votre part Ã  achever la comÃ©die ; et tandis que je jouerai mes scÃ¨nes avec lui, allez-vous-en... </s>
 	<s id='2'>Vous entendez bien ?</s>
 </p>
 </sp>
@@ -3071,7 +3071,7 @@
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='5'>
-	<s id='1'>Et lorsque je l'aurai mis où je veux...</s>
+	<s id='1'>Et lorsque je l'aurai mis oÃ¹ je veux...</s>
 </p>
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
@@ -3081,7 +3081,7 @@
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='7'>
-	<s id='1'>Et quand le père aura été averti par moi...</s>
+	<s id='1'>Et quand le pÃ¨re aura Ã©tÃ© averti par moi...</s>
 </p>
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
@@ -3095,30 +3095,30 @@
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='2'><head>SCÈNE II. Monsieur de Pourceaugnac, en femme, Sbrigani.</head>
+<div2 type="scene" n='2'><head>SCÃˆNE II. Monsieur de Pourceaugnac, en femme, Sbrigani.</head>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='1'>
-	<s id='1'>Pour moi, je ne crois pas qu'en cet état on puisse jamais vous connaître, et vous avez la mine, comme cela, d'une femme de condition.</s>
+	<s id='1'>Pour moi, je ne crois pas qu'en cet Ã©tat on puisse jamais vous connaÃ®tre, et vous avez la mine, comme cela, d'une femme de condition.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='2'>
-	<s id='1'>Voilà qui m'étonne, qu'en ce pays-ci les formes de la justice ne soient point observées.</s>
+	<s id='1'>VoilÃ  qui m'Ã©tonne, qu'en ce pays-ci les formes de la justice ne soient point observÃ©es.</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='3'>
-	<s id='1'>Oui, je vous l'ai déjà dit, ils commencent ici par faire pendre un homme, et puis ils lui font son procès.</s>
+	<s id='1'>Oui, je vous l'ai dÃ©jÃ  dit, ils commencent ici par faire pendre un homme, et puis ils lui font son procÃ¨s.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='4'>
-	<s id='1'>Voilà une justice bien injuste.</s>
+	<s id='1'>VoilÃ  une justice bien injuste.</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='5'>
-	<s id='1'>Elle est sévère comme tous les diables, particulièrement sur ces sortes de crimes.</s>
+	<s id='1'>Elle est sÃ©vÃ¨re comme tous les diables, particuliÃ¨rement sur ces sortes de crimes.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
@@ -3128,7 +3128,7 @@
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='7'>
-	<s id='1'>N'importe, ils ne s'enquêtent point de cela ; et puis ils ont en cette ville une haine effroyable pour les gens de votre pays, et ils ne sont point plus ravis que de voir pendre un Limosin.</s>
+	<s id='1'>N'importe, ils ne s'enquÃªtent point de cela ; et puis ils ont en cette ville une haine effroyable pour les gens de votre pays, et ils ne sont point plus ravis que de voir pendre un Limosin.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
@@ -3138,19 +3138,19 @@
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='9'>
-	<s id='1'>Ce sont des brutaux, ennemis de la gentillesse et du mérite des autres villes. </s>
-	<s id='2'>Pour moi, je vous avoue que je suis pour vous dans une peur épouvantable ; et je ne me consolerais de ma vie si vous veniez à être pendu.</s>
+	<s id='1'>Ce sont des brutaux, ennemis de la gentillesse et du mÃ©rite des autres villes. </s>
+	<s id='2'>Pour moi, je vous avoue que je suis pour vous dans une peur Ã©pouvantable ; et je ne me consolerais de ma vie si vous veniez Ã  Ãªtre pendu.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='10'>
-	<s id='1'>Ce n'est pas tant la peur de la mort qui me fait fuir, que de ce qu'il est fâcheux à un gentilhomme d'être pendu, et qu'une preuve comme celle-là ferait tort à nos titres de noblesse.</s>
+	<s id='1'>Ce n'est pas tant la peur de la mort qui me fait fuir, que de ce qu'il est fÃ¢cheux Ã  un gentilhomme d'Ãªtre pendu, et qu'une preuve comme celle-lÃ  ferait tort Ã  nos titres de noblesse.</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='11'>
-	<s id='1'>Vous avez raison, on vous contesterait après cela le titre d'écuyer. </s>
-	<s id='2'>Au reste, étudiez-vous, quand je vous mènerai par la main, à bien marcher comme une femme, et prendre le langage et toutes les manières d'une personne de qualité.</s>
+	<s id='1'>Vous avez raison, on vous contesterait aprÃ¨s cela le titre d'Ã©cuyer. </s>
+	<s id='2'>Au reste, Ã©tudiez-vous, quand je vous mÃ¨nerai par la main, Ã  bien marcher comme une femme, et prendre le langage et toutes les maniÃ¨res d'une personne de qualitÃ©.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
@@ -3161,16 +3161,16 @@
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='13'>
 	<s id='1'>Votre barbe n'est rien, et il y a des femmes qui en ont autant que vous. </s>
-	<s id='2'>Çà, voyons un peu comme vous ferez. </s>
+	<s id='2'>Ã‡Ã , voyons un peu comme vous ferez. </s>
 	<s id='3'>Bon.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='14'>
-	<s id='1'>Allons donc, mon carrosse : où est-ce qu'est mon carrosse ? </s>
+	<s id='1'>Allons donc, mon carrosse : oÃ¹ est-ce qu'est mon carrosse ? </s>
 	<s id='2'>Mon Dieu ! </s>
-	<s id='3'>Qu'on est misérable d'avoir des gens comme cela ! </s>
-	<s id='4'>Est-ce qu'on me fera attendre toute la journée sur le pavé, et qu'on ne me fera point venir mon carrosse ?</s>
+	<s id='3'>Qu'on est misÃ©rable d'avoir des gens comme cela ! </s>
+	<s id='4'>Est-ce qu'on me fera attendre toute la journÃ©e sur le pavÃ©, et qu'on ne me fera point venir mon carrosse ?</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
@@ -3180,13 +3180,13 @@
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='16'>
-	<s id='1'>Holà ! </s>
+	<s id='1'>HolÃ  ! </s>
 	<s id='2'>Ho ! </s>
 	<s id='3'>Cocher, petit laquais ! </s>
 	<s id='4'>Ah ! </s>
-	<s id='5'>Petit fripon, que de coups de fouet je vous ferai donner tantôt ! </s>
+	<s id='5'>Petit fripon, que de coups de fouet je vous ferai donner tantÃ´t ! </s>
 	<s id='6'>Petit laquais, petit laquais ! </s>
-	<s id='7'>Où est-ce donc qu'est ce petit laquais ? </s>
+	<s id='7'>OÃ¹ est-ce donc qu'est ce petit laquais ? </s>
 	<s id='8'>Ce petit laquais ne se trouvera-t-il point ? </s>
 	<s id='9'>Ne me fera-t-on point venir ce petit laquais ? </s>
 	<s id='10'>Est-ce que je n'ai point un petit laquais dans le monde ?</s>
@@ -3194,7 +3194,7 @@
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='17'>
-	<s id='1'>Voilà qui va à merveille ; mais je remarque une chose, cette coiffe est un peu trop déliée ; j'en vais qu2rir une un peu plus épaisse, pour vous mieux cacher le visage, en cas de quelque rencontre.</s>
+	<s id='1'>VoilÃ  qui va Ã  merveille ; mais je remarque une chose, cette coiffe est un peu trop dÃ©liÃ©e ; j'en vais qu2rir une un peu plus Ã©paisse, pour vous mieux cacher le visage, en cas de quelque rencontre.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
@@ -3204,25 +3204,25 @@
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='19'>
-	<s id='1'>Attendez-moi là. </s>
-	<s id='2'>Je suis à vous dans un moment ; vous n'avez qu'à vous promener.</s>
+	<s id='1'>Attendez-moi lÃ . </s>
+	<s id='2'>Je suis Ã  vous dans un moment ; vous n'avez qu'Ã  vous promener.</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='3'><head>SCÈNE III. Deux Suisses, Monsieur de Pourceaugnac.</head>
+<div2 type="scene" n='3'><head>SCÃˆNE III. Deux Suisses, Monsieur de Pourceaugnac.</head>
 <sp who='PREMIER-SUISSE'><speaker>PREMIER SUISSE.</speaker>
 <p id='1'>
-	<s id='1'>Allons, dépeschons, camerade, ly faut allair tous deux nous à la Crève pour regarter un peu chousticier sti Monsiu de Porcegnac, qui l'a esté contané par ortonnance à l'estre pendu par son cou.</s>
+	<s id='1'>Allons, dÃ©peschons, camerade, ly faut allair tous deux nous Ã  la CrÃ¨ve pour regarter un peu chousticier sti Monsiu de Porcegnac, qui l'a estÃ© contanÃ© par ortonnance Ã  l'estre pendu par son cou.</s>
 </p>
 </sp>
 <sp who='SECOND-SUISSE'><speaker>SECOND SUISSE.</speaker>
 <p id='2'>
-	<s id='1'>Ly faut nous loër un fenestre pour foir sti choustice.</s>
+	<s id='1'>Ly faut nous loÃ«r un fenestre pour foir sti choustice.</s>
 </p>
 </sp>
 <sp who='PREMIER-SUISSE'><speaker>PREMIER SUISSE.</speaker>
 <p id='3'>
-	<s id='1'>Ly disent que l'on fait tesjà planter un grand potence tout neuve pour ly accrocher sti Porcegnac.</s>
+	<s id='1'>Ly disent que l'on fait tesjÃ  planter un grand potence tout neuve pour ly accrocher sti Porcegnac.</s>
 </p>
 </sp>
 <sp who='SECOND-SUISSE'><speaker>SECOND SUISSE.</speaker>
@@ -3238,12 +3238,12 @@
 </sp>
 <sp who='SECOND-SUISSE'><speaker>SECOND SUISSE.</speaker>
 <p id='6'>
-	<s id='1'>Ly est un plaisant drole, oui ; ly disent que c'estre marié troy foye.</s>
+	<s id='1'>Ly est un plaisant drole, oui ; ly disent que c'estre mariÃ© troy foye.</s>
 </p>
 </sp>
 <sp who='PREMIER-SUISSE'><speaker>PREMIER SUISSE.</speaker>
 <p id='7'>
-	<s id='1'>Sti diable ly vouloir troy femmes à ly tout seul : ly est bien assez t'une.</s>
+	<s id='1'>Sti diable ly vouloir troy femmes Ã  ly tout seul : ly est bien assez t'une.</s>
 </p>
 </sp>
 <sp who='SECOND-SUISSE'><speaker>SECOND SUISSE.</speaker>
@@ -3254,7 +3254,7 @@
 </sp>
 <sp who='PREMIER-SUISSE'><speaker>PREMIER SUISSE.</speaker>
 <p id='9'>
-	<s id='1'>Que faire fous là tout seul ?</s>
+	<s id='1'>Que faire fous lÃ  tout seul ?</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
@@ -3274,28 +3274,28 @@
 </sp>
 <sp who='PREMIER-SUISSE'><speaker>PREMIER SUISSE.</speaker>
 <p id='13'>
-	<s id='1'>Fous, Mameselle, fouloir finir réchouir fous à la Crève ? </s>
-	<s id='2'>Nous faire foir à fous un petit pendement pien choly.</s>
+	<s id='1'>Fous, Mameselle, fouloir finir rÃ©chouir fous Ã  la CrÃ¨ve ? </s>
+	<s id='2'>Nous faire foir Ã  fous un petit pendement pien choly.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='14'>
-	<s id='1'>Je vous rends grâce.</s>
+	<s id='1'>Je vous rends grÃ¢ce.</s>
 </p>
 </sp>
 <sp who='SECOND-SUISSE'><speaker>SECOND SUISSE.</speaker>
 <p id='15'>
-	<s id='1'>L'est un gentilhomme Limosin, qui sera pendu chantiment à un grand potence.</s>
+	<s id='1'>L'est un gentilhomme Limosin, qui sera pendu chantiment Ã  un grand potence.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='16'>
-	<s id='1'>Je n'ai pas de curiosité.</s>
+	<s id='1'>Je n'ai pas de curiositÃ©.</s>
 </p>
 </sp>
 <sp who='PREMIER-SUISSE'><speaker>PREMIER SUISSE.</speaker>
 <p id='17'>
-	<s id='1'>Ly est là un petit teton qui l'est drole.</s>
+	<s id='1'>Ly est lÃ  un petit teton qui l'est drole.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
@@ -3312,7 +3312,7 @@
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='20'>
 	<s id='1'>Ah ! </s>
-	<s id='2'>C'en est trop, et ces sortes d'ordures-là ne se disent point à une femme de ma condition.</s>
+	<s id='2'>C'en est trop, et ces sortes d'ordures-lÃ  ne se disent point Ã  une femme de ma condition.</s>
 </p>
 </sp>
 <sp who='SECOND-SUISSE'><speaker>SECOND SUISSE.</speaker>
@@ -3349,17 +3349,17 @@
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='27'>
 	<s id='1'>Au secours ! </s>
-	<s id='2'>À la force !</s>
+	<s id='2'>Ã€ la force !</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='4'><head>SCÈNE IV. Un Exempt, deux Archers, Premier et Second suisses, Monsieur de Pourceaugnac.</head>
+<div2 type="scene" n='4'><head>SCÃˆNE IV. Un Exempt, deux Archers, Premier et Second suisses, Monsieur de Pourceaugnac.</head>
 <sp who='L-EXEMPT'><speaker>L'EXEMPT.</speaker>
 <p id='1'>
 	<s id='1'>Qu'est-ce ? </s>
-	<s id='2'>Quelle violence est-ce là ? </s>
-	<s id='3'>Et que voulez-vous faire à Madame ? </s>
-	<s id='4'>Allons, que l'on sorte de là, si vous ne voulez que je vous mette en prison.</s>
+	<s id='2'>Quelle violence est-ce lÃ  ? </s>
+	<s id='3'>Et que voulez-vous faire Ã  Madame ? </s>
+	<s id='4'>Allons, que l'on sorte de lÃ , si vous ne voulez que je vous mette en prison.</s>
 </p>
 </sp>
 <sp who='PREMIER-SUISSE'><speaker>PREMIER SUISSE.</speaker>
@@ -3374,13 +3374,13 @@
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='4'>
-	<s id='1'>Je vous suis bien obligée, Monsieur, de m'avoir délivrée de ces insolents.</s>
+	<s id='1'>Je vous suis bien obligÃ©e, Monsieur, de m'avoir dÃ©livrÃ©e de ces insolents.</s>
 </p>
 </sp>
 <sp who='L-EXEMPT'><speaker>L'EXEMPT.</speaker>
 <p id='5'>
 	<s id='1'>Ouais ! </s>
-	<s id='2'>Voilà un visage qui ressemble bien à celui que l'on m'a dépeint.</s>
+	<s id='2'>VoilÃ  un visage qui ressemble bien Ã  celui que l'on m'a dÃ©peint.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
@@ -3412,27 +3412,27 @@
 </sp>
 <sp who='L-EXEMPT'><speaker>L'EXEMPT.</speaker>
 <p id='11'>
-	<s id='1'>Voilà un discours qui marque quelque chose, et je vous arrête prisonnier.</s>
+	<s id='1'>VoilÃ  un discours qui marque quelque chose, et je vous arrÃªte prisonnier.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='12'>
 	<s id='1'>Eh ! </s>
-	<s id='2'>Monsieur, de grâce !</s>
+	<s id='2'>Monsieur, de grÃ¢ce !</s>
 </p>
 </sp>
 <sp who='L-EXEMPT'><speaker>L'EXEMPT.</speaker>
 <p id='13'>
-	<s id='1'>Non, non : à votre mine, et à vos discours, il faut que vous soyez ce Monsieur de Pourceaugnac que nous cherchons, qui se soit déguisé de la sorte ; et vous viendrez en prison tout à l'heure.</s>
+	<s id='1'>Non, non : Ã  votre mine, et Ã  vos discours, il faut que vous soyez ce Monsieur de Pourceaugnac que nous cherchons, qui se soit dÃ©guisÃ© de la sorte ; et vous viendrez en prison tout Ã  l'heure.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='14'>
-	<s id='1'>Hélas !</s>
+	<s id='1'>HÃ©las !</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='5'><head>SCÈNE V. L'Exempt, Archers, Sbrigani, Monsieur de Pourceaugnac.</head>
+<div2 type="scene" n='5'><head>SCÃˆNE V. L'Exempt, Archers, Sbrigani, Monsieur de Pourceaugnac.</head>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='1'>
 	<s id='1'>Ah ! </s>
@@ -3463,10 +3463,10 @@
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='6'>
-	<s id='1'>Vous êtes homme d'accommodement : n'y a-t-il pas moyen d'ajuster cela avec quelques pistoles ?</s>
+	<s id='1'>Vous Ãªtes homme d'accommodement : n'y a-t-il pas moyen d'ajuster cela avec quelques pistoles ?</s>
 </p>
 </sp>
-<sp who='L-EXEMPT'><speaker>L'EXEMPT, à ses archers.</speaker>
+<sp who='L-EXEMPT'><speaker>L'EXEMPT, Ã  ses archers.</speaker>
 <p id='7'>
 	<s id='1'>Retirez-vous un peu.</s>
 </p>
@@ -3500,14 +3500,14 @@
 </sp>
 <sp who='L-EXEMPT'><speaker>L'EXEMPT.</speaker>
 <p id='13'>
-	<s id='1'>Non, mon ordre est trop exprès.</s>
+	<s id='1'>Non, mon ordre est trop exprÃ¨s.</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='14'>
 	<s id='1'>Mon Dieu ! </s>
 	<s id='2'>Attendez. </s>
-	<s id='3'>Dépêchez, donnez-lui-en encore autant.</s>
+	<s id='3'>DÃ©pÃªchez, donnez-lui-en encore autant.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
@@ -3517,7 +3517,7 @@
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='16'>
-	<s id='1'>Dépêchez-vous, vous dis-je, et ne perdez point de temps : vous auriez un grand plaisir, quand vous seriez pendu.</s>
+	<s id='1'>DÃ©pÃªchez-vous, vous dis-je, et ne perdez point de temps : vous auriez un grand plaisir, quand vous seriez pendu.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
@@ -3532,7 +3532,7 @@
 </sp>
 <sp who='L-EXEMPT'><speaker>L'EXEMPT.</speaker>
 <p id='19'>
-	<s id='1'>Il faut donc que je m'enfuie avec lui, car il n'y aurait point ici de sûreté pour moi. </s>
+	<s id='1'>Il faut donc que je m'enfuie avec lui, car il n'y aurait point ici de sÃ»retÃ© pour moi. </s>
 	<s id='2'>Laissez-le-moi conduire, et ne bougez d'ici.</s>
 </p>
 </sp>
@@ -3543,103 +3543,103 @@
 </sp>
 <sp who='L-EXEMPT'><speaker>L'EXEMPT.</speaker>
 <p id='21'>
-	<s id='1'>Je vous promets de ne le point quitter, que je ne l'aie mis en lieu de sûreté.</s>
+	<s id='1'>Je vous promets de ne le point quitter, que je ne l'aie mis en lieu de sÃ»retÃ©.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-DE-POURCEAUGNAC'><speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p id='22'>
 	<s id='1'>Adieu. </s>
-	<s id='2'>Voilà le seul honnête homme que j'ai trouvé en cette ville.</s>
+	<s id='2'>VoilÃ  le seul honnÃªte homme que j'ai trouvÃ© en cette ville.</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='23'>
-	<s id='1'>Ne perdez point de temps ; je vous aime tant, que je voudrais que vous fussiez déjà bien loin. </s>
+	<s id='1'>Ne perdez point de temps ; je vous aime tant, que je voudrais que vous fussiez dÃ©jÃ  bien loin. </s>
 	<s id='2'>Que le Ciel te conduise ! </s>
 	<s id='3'>Par ma foi ! </s>
-	<s id='4'>Voilà une grande dupe. </s>
+	<s id='4'>VoilÃ  une grande dupe. </s>
 	<s id='5'>Mais voici...</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='6'><head>SCÈNE VI. Oronte, Sbrigani.</head>
+<div2 type="scene" n='6'><head>SCÃˆNE VI. Oronte, Sbrigani.</head>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='1'>
 	<s id='1'>Ah ! </s>
-	<s id='2'>Quelle étrange aventure ! </s>
-	<s id='3'>Quelle fâcheuse nouvelle pour un père ! </s>
+	<s id='2'>Quelle Ã©trange aventure ! </s>
+	<s id='3'>Quelle fÃ¢cheuse nouvelle pour un pÃ¨re ! </s>
 	<s id='4'>Pauvre Oronte, que je te plains ! </s>
 	<s id='5'>Que diras-tu ? </s>
-	<s id='6'>Et de quelle façon pourras-tu supporter cette douleur mortelle ?</s>
+	<s id='6'>Et de quelle faÃ§on pourras-tu supporter cette douleur mortelle ?</s>
 </p>
 </sp>
 <sp who='ORONTE'><speaker>ORONTE.</speaker>
 <p id='2'>
 	<s id='1'>Qu'est-ce ? </s>
-	<s id='2'>Quel malheur me présages-tu ?</s>
+	<s id='2'>Quel malheur me prÃ©sages-tu ?</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='3'>
 	<s id='1'>Ah ! </s>
-	<s id='2'>Monsieur, ce perfide de Limousin, ce traître de Monsieur de Pourceaugnac, vous enlève votre fille.</s>
+	<s id='2'>Monsieur, ce perfide de Limousin, ce traÃ®tre de Monsieur de Pourceaugnac, vous enlÃ¨ve votre fille.</s>
 </p>
 </sp>
 <sp who='ORONTE'><speaker>ORONTE.</speaker>
 <p id='4'>
-	<s id='1'>Il m'enlève ma fille !</s>
+	<s id='1'>Il m'enlÃ¨ve ma fille !</s>
 </p>
 </sp>
 <sp who='SBRIGANI'><speaker>SBRIGANI.</speaker>
 <p id='5'>
-	<s id='1'>Oui : elle en est devenue si folle, qu'elle vous quitte pour le suivre ; et l'on dit qu'il a un caractère pour se faire aimer de toutes les femmes.</s>
+	<s id='1'>Oui : elle en est devenue si folle, qu'elle vous quitte pour le suivre ; et l'on dit qu'il a un caractÃ¨re pour se faire aimer de toutes les femmes.</s>
 </p>
 </sp>
 <sp who='ORONTE'><speaker>ORONTE.</speaker>
 <p id='6'>
-	<s id='1'>Allons vite à la justice. </s>
-	<s id='2'>Des archers après eux !</s>
+	<s id='1'>Allons vite Ã  la justice. </s>
+	<s id='2'>Des archers aprÃ¨s eux !</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='7'><head>SCÈNE VII. Eraste, Julie, Sbrigani, Oronte.</head>
+<div2 type="scene" n='7'><head>SCÃˆNE VII. Eraste, Julie, Sbrigani, Oronte.</head>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
 <p id='1'>
-	<s id='1'>Allons, vous viendrez malgré vous, et je veux vous remettre entre les mains de votre père. </s>
-	<s id='2'>Tenez, Monsieur, voilà votre fille que j'ai tirée de force d'entre les mains de l'homme avec qui elle s'enfuyait ; non pas pour l'amour d'elle, mais pour votre seule considération ; car, après l'action qu'elle a faite, je dois la mépriser, et me guérir absolument de l'amour que j'avais pour elle.</s>
+	<s id='1'>Allons, vous viendrez malgrÃ© vous, et je veux vous remettre entre les mains de votre pÃ¨re. </s>
+	<s id='2'>Tenez, Monsieur, voilÃ  votre fille que j'ai tirÃ©e de force d'entre les mains de l'homme avec qui elle s'enfuyait ; non pas pour l'amour d'elle, mais pour votre seule considÃ©ration ; car, aprÃ¨s l'action qu'elle a faite, je dois la mÃ©priser, et me guÃ©rir absolument de l'amour que j'avais pour elle.</s>
 </p>
 </sp>
 <sp who='ORONTE'><speaker>ORONTE.</speaker>
 <p id='2'>
 	<s id='1'>Ah ! </s>
-	<s id='2'>Infâme que tu es !</s>
+	<s id='2'>InfÃ¢me que tu es !</s>
 </p>
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
 <p id='3'>
 	<s id='1'>Comment ? </s>
-	<s id='2'>Me traiter de la sorte, après toutes les marques d'amitié que je vous ai données ! </s>
-	<s id='3'>Je ne vous blâme point de vous être soumise aux volontés de Monsieur votre père ; il est sage et judicieux dans les choses qu'il fait et je ne me plains point de lui de m'avoir rejeté pour un autre. </s>
-	<s id='4'>S'il a manqué à la parole qu'il m'avait donnée, il a ses raisons pour cela. </s>
-	<s id='5'>On lui a fait croire que cet autre est plus riche que moi de quatre ou cinq mille écus ; et quatre ou cinq mille écus est un denier considérable, et qui vaut bien la peine qu'un homme manque à sa parole ; mais oublier en un moment toute l'ardeur que je vous ai montrée, vous laisser d'abord enflammer d'amour pour un nouveau venu, et le suivre honteusement sans le consentement de Monsieur votre père, après les crimes qu'on lui impute, c'est une chose condamnée de tout le monde, et dont mon coeur ne peut vous faire d'assez sanglants reproches.</s>
+	<s id='2'>Me traiter de la sorte, aprÃ¨s toutes les marques d'amitiÃ© que je vous ai donnÃ©es ! </s>
+	<s id='3'>Je ne vous blÃ¢me point de vous Ãªtre soumise aux volontÃ©s de Monsieur votre pÃ¨re ; il est sage et judicieux dans les choses qu'il fait et je ne me plains point de lui de m'avoir rejetÃ© pour un autre. </s>
+	<s id='4'>S'il a manquÃ© Ã  la parole qu'il m'avait donnÃ©e, il a ses raisons pour cela. </s>
+	<s id='5'>On lui a fait croire que cet autre est plus riche que moi de quatre ou cinq mille Ã©cus ; et quatre ou cinq mille Ã©cus est un denier considÃ©rable, et qui vaut bien la peine qu'un homme manque Ã  sa parole ; mais oublier en un moment toute l'ardeur que je vous ai montrÃ©e, vous laisser d'abord enflammer d'amour pour un nouveau venu, et le suivre honteusement sans le consentement de Monsieur votre pÃ¨re, aprÃ¨s les crimes qu'on lui impute, c'est une chose condamnÃ©e de tout le monde, et dont mon coeur ne peut vous faire d'assez sanglants reproches.</s>
 </p>
 </sp>
 <sp who='JULIE'><speaker>JULIE.</speaker>
 <p id='4'>
-	<s id='1'>Hé bien ! </s>
-	<s id='2'>Oui, j'ai conçu de l'amour pour lui, et je l'ai voulu suivre, puisque mon père me l'avait choisi pour époux. </s>
-	<s id='3'>Quoi que vous me disiez, c'est un fort honnête homme, et tous les crimes dont on l'accuse sont faussetés épouvantables.</s>
+	<s id='1'>HÃ© bien ! </s>
+	<s id='2'>Oui, j'ai conÃ§u de l'amour pour lui, et je l'ai voulu suivre, puisque mon pÃ¨re me l'avait choisi pour Ã©poux. </s>
+	<s id='3'>Quoi que vous me disiez, c'est un fort honnÃªte homme, et tous les crimes dont on l'accuse sont faussetÃ©s Ã©pouvantables.</s>
 </p>
 </sp>
 <sp who='ORONTE'><speaker>ORONTE.</speaker>
 <p id='5'>
 	<s id='1'>Taisez-vous ! </s>
-	<s id='2'>Vous êtes une impertinente, et je sais mieux que vous ce qui en est.</s>
+	<s id='2'>Vous Ãªtes une impertinente, et je sais mieux que vous ce qui en est.</s>
 </p>
 </sp>
 <sp who='JULIE'><speaker>JULIE.</speaker>
 <p id='6'>
-	<s id='1'>Ce sont sans doute des pièces qu'on lui fait, et c'est peut-être lui qui a trouvé cet artifice pour vous en dégoûter.</s>
+	<s id='1'>Ce sont sans doute des piÃ¨ces qu'on lui fait, et c'est peut-Ãªtre lui qui a trouvÃ© cet artifice pour vous en dÃ©goÃ»ter.</s>
 </p>
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
@@ -3656,31 +3656,31 @@
 <p id='9'>
 	<s id='1'>Taisez-vous ! </s>
 	<s id='2'>Vous dis-je. </s>
-	<s id='3'>Vous êtes une sotte.</s>
+	<s id='3'>Vous Ãªtes une sotte.</s>
 </p>
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
 <p id='10'>
-	<s id='1'>Non, non, ne vous imaginez pas que j'aie aucune envie de détourner ce mariage, et que ce soit ma passion qui m'ait forcé à courir après vous. </s>
-	<s id='2'>Je vous l'ai déjà dit, ce n'est que la seule considération que j'ai pour Monsieur votre père, et je n'ai pu souffrir qu'un honnête homme comme lui fût exposé à la honte de tous les bruits qui pourraient suivre une action comme la vôtre.</s>
+	<s id='1'>Non, non, ne vous imaginez pas que j'aie aucune envie de dÃ©tourner ce mariage, et que ce soit ma passion qui m'ait forcÃ© Ã  courir aprÃ¨s vous. </s>
+	<s id='2'>Je vous l'ai dÃ©jÃ  dit, ce n'est que la seule considÃ©ration que j'ai pour Monsieur votre pÃ¨re, et je n'ai pu souffrir qu'un honnÃªte homme comme lui fÃ»t exposÃ© Ã  la honte de tous les bruits qui pourraient suivre une action comme la vÃ´tre.</s>
 </p>
 </sp>
 <sp who='ORONTE'><speaker>ORONTE.</speaker>
 <p id='11'>
-	<s id='1'>Je vous suis, seigneur Eraste, infiniment obligé.</s>
+	<s id='1'>Je vous suis, seigneur Eraste, infiniment obligÃ©.</s>
 </p>
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
 <p id='12'>
 	<s id='1'>Adieu, Monsieur. </s>
-	<s id='2'>J'avais toutes les ardeurs du monde d'entrer dans votre alliance ; j'ai fait tout ce que j'ai pu pour obtenir un tel honneur ; mais j'ai été malheureux, et vous ne m'avez pas jugé digne de cette grâce. </s>
-	<s id='3'>Cela n'empêchera pas que je ne conserve pour vous les sentiments d'estime et de vénération où votre personne m'oblige ; et si je n'ai pu être votre gendre, au moins serai-je éternellement votre serviteur.</s>
+	<s id='2'>J'avais toutes les ardeurs du monde d'entrer dans votre alliance ; j'ai fait tout ce que j'ai pu pour obtenir un tel honneur ; mais j'ai Ã©tÃ© malheureux, et vous ne m'avez pas jugÃ© digne de cette grÃ¢ce. </s>
+	<s id='3'>Cela n'empÃªchera pas que je ne conserve pour vous les sentiments d'estime et de vÃ©nÃ©ration oÃ¹ votre personne m'oblige ; et si je n'ai pu Ãªtre votre gendre, au moins serai-je Ã©ternellement votre serviteur.</s>
 </p>
 </sp>
 <sp who='ORONTE'><speaker>ORONTE.</speaker>
 <p id='13'>
-	<s id='1'>Arrêtez, seigneur Eraste. </s>
-	<s id='2'>Votre procédé me touche l'âme, et je vous donne ma fille en mariage.</s>
+	<s id='1'>ArrÃªtez, seigneur Eraste. </s>
+	<s id='2'>Votre procÃ©dÃ© me touche l'Ã¢me, et je vous donne ma fille en mariage.</s>
 </p>
 </sp>
 <sp who='JULIE'><speaker>JULIE.</speaker>
@@ -3690,7 +3690,7 @@
 </sp>
 <sp who='ORONTE'><speaker>ORONTE.</speaker>
 <p id='15'>
-	<s id='1'>Et je veux, moi, tout à l'heure, que tu prennes le seigneur Eraste. </s>
+	<s id='1'>Et je veux, moi, tout Ã  l'heure, que tu prennes le seigneur Eraste. </s>
 	<s id='2'>Ca, la main.</s>
 </p>
 </sp>
@@ -3711,18 +3711,18 @@
 </sp>
 <sp who='ORONTE'><speaker>ORONTE.</speaker>
 <p id='18'>
-	<s id='1'>C'est à elle à m'obéir, et je sais me montrer le maître.</s>
+	<s id='1'>C'est Ã  elle Ã  m'obÃ©ir, et je sais me montrer le maÃ®tre.</s>
 </p>
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
 <p id='19'>
-	<s id='1'>Ne voyez-vous pas l'amour qu'elle a pour cet homme-là ? </s>
-	<s id='2'>Et voulez-vous que je possède un corps dont un autre possédera le coeur ?</s>
+	<s id='1'>Ne voyez-vous pas l'amour qu'elle a pour cet homme-lÃ  ? </s>
+	<s id='2'>Et voulez-vous que je possÃ¨de un corps dont un autre possÃ©dera le coeur ?</s>
 </p>
 </sp>
 <sp who='ORONTE'><speaker>ORONTE.</speaker>
 <p id='20'>
-	<s id='1'>C'est un sortilège qu'il lui a donné, et vous verrez qu'elle changera de sentiment avant qu'il soit peu. </s>
+	<s id='1'>C'est un sortilÃ¨ge qu'il lui a donnÃ©, et vous verrez qu'elle changera de sentiment avant qu'il soit peu. </s>
 	<s id='2'>Donnez-moi votre main. </s>
 	<s id='3'>Allons.</s>
 </p>
@@ -3736,54 +3736,54 @@
 <p id='22'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Que de bruit ! </s>
-	<s id='3'>Çà, votre main, vous dis-je. </s>
+	<s id='3'>Ã‡Ã , votre main, vous dis-je. </s>
 	<s id='4'>Ah, ah, ah !</s>
 </p>
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
 <p id='23'>
-	<s id='1'>Ne croyez pas que ce soit pour l'amour de vous que je vous donne la main : ce n'est que Monsieur votre père dont je suis amoureux, et c'est lui que j'épouse.</s>
+	<s id='1'>Ne croyez pas que ce soit pour l'amour de vous que je vous donne la main : ce n'est que Monsieur votre pÃ¨re dont je suis amoureux, et c'est lui que j'Ã©pouse.</s>
 </p>
 </sp>
 <sp who='ORONTE'><speaker>ORONTE.</speaker>
 <p id='24'>
-	<s id='1'>Je vous suis beaucoup obligé, et j'augmente de dix mille écus le mariage de ma fille. </s>
+	<s id='1'>Je vous suis beaucoup obligÃ©, et j'augmente de dix mille Ã©cus le mariage de ma fille. </s>
 	<s id='2'>Allons, qu'on fasse venir le notaire pour dresser le contrat.</s>
 </p>
 </sp>
 <sp who='ERASTE'><speaker>ERASTE.</speaker>
 <p id='25'>
-	<s id='1'>En attendant qu'il vienne, nous pouvons jouir du divertissement de la saison, et faire entrer les masques que le bruit des noces de Monsieur de Pourceaugnac a attirés ici de tous les endroits de la ville.</s>
+	<s id='1'>En attendant qu'il vienne, nous pouvons jouir du divertissement de la saison, et faire entrer les masques que le bruit des noces de Monsieur de Pourceaugnac a attirÃ©s ici de tous les endroits de la ville.</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='8'><head>SCÈNE VIII. Plusieurs masques de toutes les manières, dont les uns occupent plusieurs balcons, et les autres sont dans la place, qui, par plusieurs chansons et diverses danses et jeux, cherchent à se donner des plaisirs innocents.</head>
+<div2 type="scene" n='8'><head>SCÃˆNE VIII. Plusieurs masques de toutes les maniÃ¨res, dont les uns occupent plusieurs balcons, et les autres sont dans la place, qui, par plusieurs chansons et diverses danses et jeux, cherchent Ã  se donner des plaisirs innocents.</head>
 <sp who='UNE-EGYPTIENNE'><speaker>Une EGYPTIENNE.</speaker>
 	<l id='83'>Sortez, sortez de ces lieux,</l>
 	<l id='84'>Soucis, Chagrins et Tristesse ; </l>
 	<l id='85'>Venez, venez, Ris et Jeux,</l>
 	<l id='86'>Plaisirs, Amour, et Tendresse.</l>
-	<l id='87'>Ne songeons qu'à nous réjouir : </l>
+	<l id='87'>Ne songeons qu'Ã  nous rÃ©jouir : </l>
 	<l id='88'>La grande affaire est le plaisir.</l>
 </sp>
 <sp who='CHOEUR-DES-MUSICIENS'><speaker>Choeur des musiciens</speaker>
-	<l id='89'>Ne songeons qu'à nous réjouir : </l>
+	<l id='89'>Ne songeons qu'Ã  nous rÃ©jouir : </l>
 	<l id='90'>La grande affaire est le plaisir.</l>
 </sp>
 <sp who='UNE-EGYPTIENNE'><speaker>L'EGYPTIENNE.</speaker>
-	<l id='91'>À me suivre tous ici</l>
+	<l id='91'>Ã€ me suivre tous ici</l>
 	<l id='92'>Votre ardeur est non commune,</l>
-	<l id='93'>Et vous êtes en souci</l>
+	<l id='93'>Et vous Ãªtes en souci</l>
 	<l id='94'>De votre bonne fortune.</l>
 	<l id='95'>Soyez toujours amoureux : </l>
-	<l id='96'>C'est le moyen d'être heureux.</l>
+	<l id='96'>C'est le moyen d'Ãªtre heureux.</l>
 </sp>
 <sp who='UN-EGYPTIEN'><speaker>Un EGYPTIEN</speaker>
-	<l id='97'>Aimons jusques au trépas,</l>
+	<l id='97'>Aimons jusques au trÃ©pas,</l>
 	<l id='98'>La raison nous y convie : </l>
-	<l id='99'>Hélas ! Si l'on n'aimait pas</l>
+	<l id='99'>HÃ©las ! Si l'on n'aimait pas</l>
 	<l id='100'>Que serait-ce de la vie ?</l>
-	<l id='101'>Ah ! Perdons plutôt le jour</l>
+	<l id='101'>Ah ! Perdons plutÃ´t le jour</l>
 	<l id='102'>Que de perdre notre amour.</l>
 <stage>Tous deux, en dialogue.</stage>
 </sp>
@@ -3800,15 +3800,15 @@
 	<l id='106'>Les sceptres qui font tant d'envie,</l>
 </sp>
 <sp who='UN-EGYPTIEN'><speaker>L'EGYPTIEN</speaker>
-	<l id='107'>Tout n'est rien, si l'amour n'y mêle ses ardeurs.</l>
+	<l id='107'>Tout n'est rien, si l'amour n'y mÃªle ses ardeurs.</l>
 </sp>
 <sp who='UNE-EGYPTIENNE'><speaker>L'EGYPTIENNE.</speaker>
 	<l id='108'>Il n'est point, sans l'amour, de plaisir dans la vie.</l>
 </sp>
 <sp who='EGYPTIEN_EGYPTIENNE'><speaker>TOUS DEUX, ensemble.</speaker>
 	<l id='109'>Soyons toujours amoureux : </l>
-	<l id='110'>C'est le moyen d'être heureux.</l>
-	<l id='111'>Le petit choeur chante après ces deux derniers vers : </l>
+	<l id='110'>C'est le moyen d'Ãªtre heureux.</l>
+	<l id='111'>Le petit choeur chante aprÃ¨s ces deux derniers vers : </l>
 	<l id='112'>Sus, sus, chantons tous ensemble,</l>
 	<l id='113'>Dansons, sautons, jouons-nous.</l>
 </sp>
@@ -3818,11 +3818,11 @@
 	<l id='116'>Sont ceux qui sont les plus fous.</l>
 </sp>
 <sp who='TOUS-ENSEMBLE'><speaker>TOUS ENSEMBLE.</speaker>
-	<l id='117'>Ne songeons qu'à nous réjouir : </l>
+	<l id='117'>Ne songeons qu'Ã  nous rÃ©jouir : </l>
 	<l id='118'>La grande affaire est le plaisir.</l>
 </sp>
 </div2>
 </div1>
 </body>
 </text>
-</TEI.2>
+</TEI>

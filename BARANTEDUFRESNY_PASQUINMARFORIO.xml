@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-<TEI.2>
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
 <teiHeader>
 	<fileDesc>
 		<titleStmt>
-			<title>PASQUIN ET MARFORIO. MÉDECINS DES MOEURS. COMÉDIE EN TROIS ACTES.</title>
+			<title>PASQUIN ET MARFORIO. MÃ‰DECINS DES MOEURS. COMÃ‰DIE EN TROIS ACTES.</title>
 			<author>BARANTE et DUFESNY</author>
 		</titleStmt>
 		<publicationStmp>
-			<p>publié par Paul FIEVRE, décembre 2011</p>
+			<p>publiÃ© par Paul FIEVRE, dÃ©cembre 2011</p>
 		</publicationStmp>
 		<SourceDesc>
-			<genre>Comédie</genre>
-			<inspiration>moeurs françaises</inspiration>
+			<genre>ComÃ©die</genre>
+			<inspiration>moeurs franÃ§aises</inspiration>
 			<structure>Trois actes</structure>
 			<type>mixte</type>
 			<periode>1691-1700</periode>
@@ -25,97 +25,97 @@
 	<front>
 		<docTitle>
 			<titlePart type="main">PASQUIN ET MARFORIO.</titlePart>
-			<titlePart type="sub">	MÉDECINS DES MOEURS.</titlePart>
-			<titlePart type="sub">COMÉDIE EN TROIS ACTES.</titlePart>
+			<titlePart type="sub">MÃ‰DECINS DES MOEURS.</titlePart>
+			<titlePart type="sub">COMÃ‰DIE EN TROIS ACTES.</titlePart>
 		</docTitle> 
 		<docDate value='1697'>M. DC. LXXXXVII.</docDate>
-		<docAuthor id='BARANTE et DUFESNY' bio='dufresny'>Mise au Théâtre par Messieurs du F**, et B****.</docAuthor>
+		<docAuthor id='BARANTE et DUFESNY' bio='dufresny'>Mise au ThÃ©Ã¢tre par Messieurs du F**, et B****.</docAuthor>
 		<docImprint>
 		<approbation value=''></approbation>
 			<acheveImprime value=''></acheveImprime>
 			<printer id=''></printer>
 		</docImprint>
 		<performance>
-			<premiere date='1697-02-03' location='Hôtel de Bourgogne'>Représentée pour la première fois par les Comédiens Italiens du Roi dans leur Hôtel de Bourgogne le 3 de Février 1697.</premiere>
+			<premiere date='1697-02-03' location='HÃ´tel de Bourgogne'>ReprÃ©sentÃ©e pour la premiÃ¨re fois par les ComÃ©diens Italiens du Roi dans leur HÃ´tel de Bourgogne le 3 de FÃ©vrier 1697.</premiere>
 		</performance>
 
 	<castList><head>ACTEURS</head>
-		<castItem><role id="LE-DOCTEUR" civil="M" type="H" statut='docteur' age='A' stat_amour='néant'>LE DOCTEUR</role>.</castItem>
-		<castItem><role id="ANGÉLIQUE" civil="F" type="H" statut='bourgeois' age='J' stat_amour='néant'>ANGÉLIQUE</role>, fille du Docteur.</castItem>
-		<castItem><role id="JULIE" civil="F" type="H" statut='bourgeois' age='J' stat_amour='néant'>JULIE</role>, fille du Docteur.</castItem>
-		<castItem><role id="LÉONOR" civil="F" type="H" statut='bourgeois' age='A' stat_amour='néant'>LÉONOR</role>, nièce du Docteur.</castItem>
-		<castItem><role id="LÉANDRE" civil="M" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>LÉANDRE</role>, amant de Julie.</castItem>
-		<castItem><role id="OCTAVE" civil="M" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>OCTAVE</role>, amant d'Angélique.</castItem>
+		<castItem><role id="LE-DOCTEUR" civil="M" type="H" statut='docteur' age='A' stat_amour='nÃ©ant'>LE DOCTEUR</role>.</castItem>
+		<castItem><role id="ANGÃ‰LIQUE" civil="F" type="H" statut='bourgeois' age='J' stat_amour='nÃ©ant'>ANGÃ‰LIQUE</role>, fille du Docteur.</castItem>
+		<castItem><role id="JULIE" civil="F" type="H" statut='bourgeois' age='J' stat_amour='nÃ©ant'>JULIE</role>, fille du Docteur.</castItem>
+		<castItem><role id="LÃ‰ONOR" civil="F" type="H" statut='bourgeois' age='A' stat_amour='nÃ©ant'>LÃ‰ONOR</role>, niÃ¨ce du Docteur.</castItem>
+		<castItem><role id="LÃ‰ANDRE" civil="M" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>LÃ‰ANDRE</role>, amant de Julie.</castItem>
+		<castItem><role id="OCTAVE" civil="M" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>OCTAVE</role>, amant d'AngÃ©lique.</castItem>
 		<castItem><role id="SCARAMOUCHE" civil="M" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>SCARAMOUCHE</role>, valet d'Octave.</castItem>
-		<castItem><role id="PIERROT" civil="M" type="H" statut='valet' age='A' stat_amour='néant'>PIERROT</role>, valet du Docteur.</castItem>
-		<castItem><role id="PASQUIN" civil="M" type="H" statut='(sans)' age='A' stat_amour='néant'>PASQUIN</role>, Arlequin.</castItem>
-		<castItem><role id="MARFORIO" civil="M" type="H" statut='(sans)' age='A' stat_amour='néant'>MARFORIO</role>, Mezzetin. </castItem>
-		<castItem><role id="LA-VÉRITÉ" civil="F" type="A" statut='(sans)' age='A' stat_amour='néant'>LA VÉRITÉ</role>.</castItem>
-		<castItem><role id="LA-MÉDISANCE" civil="F" type="A" statut='(sans)' age='A' stat_amour='néant'>LA MÉDISANCE</role>.</castItem>
-		<castItem><role id="UN-CUISINIER" civil="M" type="H" statut='cuisinier' age='A' stat_amour='néant'>UN CUISINIER</role>.</castItem>
+		<castItem><role id="PIERROT" civil="M" type="H" statut='valet' age='A' stat_amour='nÃ©ant'>PIERROT</role>, valet du Docteur.</castItem>
+		<castItem><role id="PASQUIN" civil="M" type="H" statut='(sans)' age='A' stat_amour='nÃ©ant'>PASQUIN</role>, Arlequin.</castItem>
+		<castItem><role id="MARFORIO" civil="M" type="H" statut='(sans)' age='A' stat_amour='nÃ©ant'>MARFORIO</role>, Mezzetin. </castItem>
+		<castItem><role id="LA-VÃ‰RITÃ‰" civil="F" type="A" statut='(sans)' age='A' stat_amour='nÃ©ant'>LA VÃ‰RITÃ‰</role>.</castItem>
+		<castItem><role id="LA-MÃ‰DISANCE" civil="F" type="A" statut='(sans)' age='A' stat_amour='nÃ©ant'>LA MÃ‰DISANCE</role>.</castItem>
+		<castItem><role id="UN-CUISINIER" civil="M" type="H" statut='cuisinier' age='A' stat_amour='nÃ©ant'>UN CUISINIER</role>.</castItem>
 		<castItem><role id="UN-JALOUX" civil="M" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>UN JALOUX</role>.</castItem>
-		<castItem><role id="UNE-IMPATIENTE" civil="F" type="H" statut='bourgeois' age='A' stat_amour='néant'>UNE IMPATIENTE</role>.</castItem>
+		<castItem><role id="UNE-IMPATIENTE" civil="F" type="H" statut='bourgeois' age='A' stat_amour='nÃ©ant'>UNE IMPATIENTE</role>.</castItem>
     </castList>
-	<set location='Paris' country='France' periode='XVIIème' link=''>La scène est à Paris. </set>
+	<set location='Paris' country='France' periode='XVIIÃ¨me' link=''>La scÃ¨ne est Ã  Paris. </set>
 </front>
 <body>
 <div1 type='' n='1'><head>ACTE I</head>
-<div2 type='scene' n='1'><head>SCÈNE I.</head>
+<div2 type="scene" n='1'><head>SCÃˆNE I.</head>
 <sp who='PASQUIN'><speaker>PASQUIN, seul, en voyageur.</speaker>
-<note type="L">Pasquinade : Raillerie satirique, ainsi nommée, à cause d'une vieille statue mutilée qui est à Rome, appelée Pasquin, et à laquelle on a accoutumé d'attacher ces sortes de satires. [Ac. 1762]</note>
-<note type="C">Phrase latine : La consolation est pour les malheureux d’avoir des compagnons d’infortune.</note>
-<note type="L">Commis : Anciennement, commis aux aides, personne préposée par les fermiers des impôts à la perception des droits sur diverses marchandises. [L]</note>
+<note type="L">Pasquinade : Raillerie satirique, ainsi nommÃ©e, Ã  cause d'une vieille statue mutilÃ©e qui est Ã  Rome, appelÃ©e Pasquin, et Ã  laquelle on a accoutumÃ© d'attacher ces sortes de satires. [Ac. 1762]</note>
+<note type="C">Phrase latineÂ : La consolation est pour les malheureux dÂ’avoir des compagnons dÂ’infortune.</note>
+<note type="L">Commis : Anciennement, commis aux aides, personne prÃ©posÃ©e par les fermiers des impÃ´ts Ã  la perception des droits sur diverses marchandises. [L]</note>
 <p id='1'>
-	<s id='1'>Ah fortune, fortune ! </s>
-	<s id='2'>Feras-tu toujours faire la pirouette aux pasquinades du malheureux Pasquin, et n'embourberas-tu jamais la roue de ton inconstance dans l'ornière de mon mérite ? </s>
-	<s id='3'>Partito di Roma à coups de pieds au cul, Son venuto trenando la savate d'hôtellerie en hôtellerie, n'ayant d'autre monnaie pour payer mon écot, que de médire libéralement de ceux qui me donnaient à manger. </s>
-	<s id='4'>Enfin, j'arrive ici sans argent, mais avec une faim canine, sans pouvoir apaiser les murmures affamés de mes languissants boyaux. </s>
-	<s id='5'>Ô vous, Cara Oliveta, ma chère maîtresse, dont les gentillesses et les minauderies coquettes me faisaient si souvent crédit dans les hôtelleries, vous deviez rétablir ma fortune ; mais comme tout est variable, votre beauté ne faisant plus que blanchir auprès de l'inhumanité des hôteliers, j'ai été obligé de vous laisser là pour les gages. </s>
-	<s id='6'>Que diriez-vous, belle abandonnée, si vous voyiez le tendre Pasquin le ventre aussi creux que la bourse, vous qui l'avez trouvé cent fois regorgeant de vin sur le pas de votre porte, comme sur un lit mollet dont les Amours auraient remué la paillasse ? </s>
-	<s id='7'>C'est là qu'en venant me relever, vous saviez distinguer avec tant d'adresse, les hoquets de ma plénitude vineuse, d'avec les soupirs de mon ardent amour. </s>
-	<s id='8'>Ouf ! </s>
-	<s id='9'>Cuisine, retraite charmante et délicieuse ! </s>
-	<s id='10'>Asile favorable autrefois à mon appétit ; vous qui faites le séjour ordinaire de ma charmante Olivette ! </s>
-	<s id='11'>Heureuses et tranquilles marmites qui étaient écurées par ses belles mains ! </s>
-	<s id='12'>Broches, chaudrons, poêles, et lèchefrites, instruments guerriers de la mâchoire, qui servez de trophée ordinaire à ma belle maîtresse ! </s>
-	<s id='13'>Hélas ! </s>
-	<s id='14'>Per pietà révoltez-vous contre tous les rôtis, et les ragoûts dont vous êtes les causes secondes ; et par un cliquetis universel et harmonieusement funèbre, apprenez alla mia cara Olivetta, qu'une faim désespérée est prête à rompre les ressorts du tournebroche de ses inclinations. Mais la perte de ma maîtresse m'est encore moins sensible que celle de mon cher Camarade Marforio. </s>
-	<s id='15'>Ses prudents conseils et son ingénieuse industrie seraient capables de me tirer de la misère où je suis. </s>
-	<s id='16'>Mais la fortune qui a résolu ma perte, l'a fait noyer dans le naufrage que nous avons fait sur mer. </s>
-	<s id='17'>Si je trouvais encore quelque compagnon dans cette Ville, je me consolerais de ma mauvaise fortune ; car, comme dit le Philosophe : Solatium est miseris socios habere poenarum.</s>
+	<s id='1'>Ah fortune, fortuneÂ ! </s>
+	<s id='2'>Feras-tu toujours faire la pirouette aux pasquinades du malheureux Pasquin, et n'embourberas-tu jamais la roue de ton inconstance dans l'orniÃ¨re de mon mÃ©riteÂ ? </s>
+	<s id='3'>Partito di Roma Ã  coups de pieds au cul, Son venuto trenando la savate d'hÃ´tellerie en hÃ´tellerie, n'ayant d'autre monnaie pour payer mon Ã©cot, que de mÃ©dire libÃ©ralement de ceux qui me donnaient Ã  manger. </s>
+	<s id='4'>Enfin, j'arrive ici sans argent, mais avec une faim canine, sans pouvoir apaiser les murmures affamÃ©s de mes languissants boyaux. </s>
+	<s id='5'>Ã” vous, Cara Oliveta, ma chÃ¨re maÃ®tresse, dont les gentillesses et les minauderies coquettes me faisaient si souvent crÃ©dit dans les hÃ´telleries, vous deviez rÃ©tablir ma fortuneÂ ; mais comme tout est variable, votre beautÃ© ne faisant plus que blanchir auprÃ¨s de l'inhumanitÃ© des hÃ´teliers, j'ai Ã©tÃ© obligÃ© de vous laisser lÃ  pour les gages. </s>
+	<s id='6'>Que diriez-vous, belle abandonnÃ©e, si vous voyiez le tendre Pasquin le ventre aussi creux que la bourse, vous qui l'avez trouvÃ© cent fois regorgeant de vin sur le pas de votre porte, comme sur un lit mollet dont les Amours auraient remuÃ© la paillasseÂ ? </s>
+	<s id='7'>C'est lÃ  qu'en venant me relever, vous saviez distinguer avec tant d'adresse, les hoquets de ma plÃ©nitude vineuse, d'avec les soupirs de mon ardent amour. </s>
+	<s id='8'>OufÂ ! </s>
+	<s id='9'>Cuisine, retraite charmante et dÃ©licieuseÂ ! </s>
+	<s id='10'>Asile favorable autrefois Ã  mon appÃ©titÂ ; vous qui faites le sÃ©jour ordinaire de ma charmante OlivetteÂ ! </s>
+	<s id='11'>Heureuses et tranquilles marmites qui Ã©taient Ã©curÃ©es par ses belles mainsÂ ! </s>
+	<s id='12'>Broches, chaudrons, poÃªles, et lÃ¨chefrites, instruments guerriers de la mÃ¢choire, qui servez de trophÃ©e ordinaire Ã  ma belle maÃ®tresseÂ ! </s>
+	<s id='13'>HÃ©lasÂ ! </s>
+	<s id='14'>Per pietÃ  rÃ©voltez-vous contre tous les rÃ´tis, et les ragoÃ»ts dont vous Ãªtes les causes secondesÂ ; et par un cliquetis universel et harmonieusement funÃ¨bre, apprenez alla mia cara Olivetta, qu'une faim dÃ©sespÃ©rÃ©e est prÃªte Ã  rompre les ressorts du tournebroche de ses inclinations. Mais la perte de ma maÃ®tresse m'est encore moins sensible que celle de mon cher Camarade Marforio. </s>
+	<s id='15'>Ses prudents conseils et son ingÃ©nieuse industrie seraient capables de me tirer de la misÃ¨re oÃ¹ je suis. </s>
+	<s id='16'>Mais la fortune qui a rÃ©solu ma perte, l'a fait noyer dans le naufrage que nous avons fait sur mer. </s>
+	<s id='17'>Si je trouvais encore quelque compagnon dans cette Ville, je me consolerais de ma mauvaise fortuneÂ ; car, comme dit le PhilosopheÂ : Solatium est miseris socios habere poenarum.</s>
 </p>
-<stage>Scaramouche vient en roulant un quartaut de vin d'Italie, qu'il dit avoir adroitement volé sur le Port. Pasquin qui l'a observé, feint d'être un des Commis aux Aides, qui réclame le quartaut. Scaramouche épouvanté s'enfuit, et en s'en allant laisse tomber un forêt. Pasquin ramasse le foret, et perce le tonneau qui ne rend rien. Pasquin croyant que le tonneau n'a pas assez d'évent, en ôte un cerceau, et aussitôt les douves tombent, et Marforio sort du tonneau. Pasquin le reconnaît, et ils s'embrassent. Scaramouche revient, qui, après les avoir reconnus, les console, et leur dit qu'Octave et Léandre ses Maîtres sachant qu'ils devaient arriver, ont fait préparer un magnifique repas pour les régaler ; et en attendant il appelle le Cuisinier ; et lui demande de leur donner tout ce qu'ils demandent, et s'en va.</stage>
-<note type="L">Douve : piece de bois merrain qui est propre à faire des tonneaux, des cuves, et autres vaisseaux. [F]</note>
-<note type="L">Merrain : bois préparé pour faire les douves des tonneaux.</note>
+<stage>Scaramouche vient en roulant un quartaut de vin d'Italie, qu'il dit avoir adroitement volÃ© sur le Port. Pasquin qui l'a observÃ©, feint d'Ãªtre un des Commis aux Aides, qui rÃ©clame le quartaut. Scaramouche Ã©pouvantÃ© s'enfuit, et en s'en allant laisse tomber un forÃªt. Pasquin ramasse le foret, et perce le tonneau qui ne rend rien. Pasquin croyant que le tonneau n'a pas assez d'Ã©vent, en Ã´te un cerceau, et aussitÃ´t les douves tombent, et Marforio sort du tonneau. Pasquin le reconnaÃ®t, et ils s'embrassent. Scaramouche revient, qui, aprÃ¨s les avoir reconnus, les console, et leur dit qu'Octave et LÃ©andre ses MaÃ®tres sachant qu'ils devaient arriver, ont fait prÃ©parer un magnifique repas pour les rÃ©galerÂ ; et en attendant il appelle le CuisinierÂ ; et lui demande de leur donner tout ce qu'ils demandent, et s'en va.</stage>
+<note type="L">Douve : piece de bois merrain qui est propre Ã  faire des tonneaux, des cuves, et autres vaisseaux. [F]</note>
+<note type="L">Merrain : bois prÃ©parÃ© pour faire les douves des tonneaux.</note>
 </sp>
 </div2>
-<div2 type='scene' n='2'><head>SCÈNE II. Pasquin, Marforio, Le Cuisinier. </head>
+<div2 type="scene" n='2'><head>SCÃˆNE II. Pasquin, Marforio, Le Cuisinier. </head>
 <sp who='MARFORIO'><speaker>MARFORIO.</speaker>
 <p id='1'>
-	<s id='1'>Vous avez entendu l'ordre, Monsieur, le Cuisinier ? </s>
-	<s id='2'>C'est nous que vous devez régaler.</s>
+	<s id='1'>Vous avez entendu l'ordre, Monsieur, le CuisinierÂ ? </s>
+	<s id='2'>C'est nous que vous devez rÃ©galer.</s>
 </p>
 </sp>
-<sp who='LE-CUISINIER'><speaker>LE CUISINIER, d'un ton de colère. </speaker>
+<sp who='LE-CUISINIER'><speaker>LE CUISINIER, d'un ton de colÃ¨re. </speaker>
 <p id='2'>
-	<s id='1'>Le maladroit ! </s>
-	<s id='2'>Le brutal ! </s>
+	<s id='1'>Le maladroitÂ ! </s>
+	<s id='2'>Le brutalÂ ! </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <p id='3'>
-	<s id='1'>Monsieur, si vous êtes en colère contre quelqu'un, abrégez, car nos dents s'allongent. </s>
+	<s id='1'>Monsieur, si vous Ãªtes en colÃ¨re contre quelqu'un, abrÃ©gez, car nos dents s'allongent. </s>
 </p>
 </sp>
 <sp who='LE-CUISINIER'><speaker>LE CUISINIER.</speaker>
 <p id='4'>
-	<s id='1'>Je veux aller chercher un bâton, et employer quatre heures d'horloge à battre ce Maraud-là. </s>
+	<s id='1'>Je veux aller chercher un bÃ¢ton, et employer quatre heures d'horloge Ã  battre ce Maraud-lÃ . </s>
 	<s id='2'>Il en mourra. </s>
 </p>
 </sp>
 <sp who='MARFORIO'><speaker>MARFORIO.</speaker>
 <p id='5'>
-	<s id='1'>Mais qu'a-t-il fait pour mériter la mort ? </s>
+	<s id='1'>Mais qu'a-t-il fait pour mÃ©riter la mortÂ ? </s>
 </p>
 </sp>
 <sp who='LE-CUISINIER'><speaker>LE CUISINIER.</speaker>
@@ -125,84 +125,84 @@
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <p id='7'>
-	<s id='1'>Pour bien juger, il faut avoir été à la buvette. </s>
+	<s id='1'>Pour bien juger, il faut avoir Ã©tÃ© Ã  la buvette. </s>
 </p>
 </sp>
 <sp who='LE-CUISINIER'><speaker>LE CUISINIER.</speaker>
 <p id='8'>
-	<s id='1'>Le scélérat ! </s>
-	<s id='2'>Il choisit une belle nappe, fine, blanche, et parfumée. </s>
-	<s id='3'>Le traître ! </s>
-	<s id='4'>Il met le couvert d'une propreté... </s>
-	<s id='5'>Le Coquin ! </s>
-	<s id='6'>Il sert sur la table des soupes succulentes, des ragoûts friands, un rôt rissolé, cuit à propos...</s>
+	<s id='1'>Le scÃ©lÃ©ratÂ ! </s>
+	<s id='2'>Il choisit une belle nappe, fine, blanche, et parfumÃ©e. </s>
+	<s id='3'>Le traÃ®treÂ ! </s>
+	<s id='4'>Il met le couvert d'une propretÃ©... </s>
+	<s id='5'>Le CoquinÂ ! </s>
+	<s id='6'>Il sert sur la table des soupes succulentes, des ragoÃ»ts friands, un rÃ´t rissolÃ©, cuit Ã  propos...</s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <p id='9'>
 	<s id='1'>Monsieur, n'allez pas si vite. </s>
-	<s id='2'>Vous servez le rôti, et je n'ai pas encore tâté des ragoûts. </s>
+	<s id='2'>Vous servez le rÃ´ti, et je n'ai pas encore tÃ¢tÃ© des ragoÃ»ts. </s>
 </p>
 </sp>
 <sp who='MARFORIO'><speaker>MARFORIO.</speaker>
 <p id='10'>
-	<s id='1'>Mais je ne vois encore rien qui mérite la mort. </s>
+	<s id='1'>Mais je ne vois encore rien qui mÃ©rite la mort. </s>
 </p>
 </sp>
 <sp who='LE-CUISINIER'><speaker>LE CUISINIER.</speaker>
 <p id='11'>
-	<s id='1'>Moi, qui suis d'une exactitude, je lève un coin de la nappe, et j'aperçois que la table est d'un bois vermoulu, tout pourri. </s>
-	<s id='2'>Aussitôt de rage je renverse la table, je jette les plats par les fenêtres...</s>
+	<s id='1'>Moi, qui suis d'une exactitude, je lÃ¨ve un coin de la nappe, et j'aperÃ§ois que la table est d'un bois vermoulu, tout pourri. </s>
+	<s id='2'>AussitÃ´t de rage je renverse la table, je jette les plats par les fenÃªtres...</s>
 </p>
 </sp>
 <sp who='MARFORIO'><speaker>MARFORIO.</speaker>
-<note type="L">Hoime : est une altération de Hom, comme on dit en espagnol hombre, qui exprime le doute, la défiance.</note>
+<note type="L">Hoime : est une altÃ©ration de Hom, comme on dit en espagnol hombre, qui exprime le doute, la dÃ©fiance.</note>
 <p id='12'>
-	<s id='1'>Hoime ! </s>
-	<s id='2'>Nous voilà ruinés ! </s>
+	<s id='1'>HoimeÂ ! </s>
+	<s id='2'>Nous voilÃ  ruinÃ©sÂ ! </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <p id='13'>
-	<s id='1'>Monsieur, ne pourriez-vous pas m'enseignez l'endroit où vous avez jeté toutes ces viandes ? </s>
+	<s id='1'>Monsieur, ne pourriez-vous pas m'enseignez l'endroit oÃ¹ vous avez jetÃ© toutes ces viandesÂ ? </s>
 </p>
 </sp>
 <sp who='LE-CUISINIER'><speaker>LE CUISINIER.</speaker>
 <p id='14'>
-	<s id='1'>Hé fi, Monsieur ! </s>
+	<s id='1'>HÃ© fi, MonsieurÂ ! </s>
 	<s id='2'>Quand vous devriez mourir de faim, il faut attendre de la viande neuve. </s>
-	<s id='3'>J'ai envoyé acheter un boeuf à Sceaux, un mouton à Beauvais, et des poulardes au Maine. </s>
+	<s id='3'>J'ai envoyÃ© acheter un boeuf Ã  Sceaux, un mouton Ã  Beauvais, et des poulardes au Maine. </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <p id='15'>
-	<s id='1'>Et du fromage à Milan. </s>
+	<s id='1'>Et du fromage Ã  Milan. </s>
 </p>
 </sp>
 <sp who='LE-CUISINIER'><speaker>LE CUISINIER.</speaker>
 <p id='15'>
-	<s id='1'>J'ai envoyé chez le Menuisier faire faire une table neuve, et dès que cela sera venu, on vous servira. </s>
+	<s id='1'>J'ai envoyÃ© chez le Menuisier faire faire une table neuve, et dÃ¨s que cela sera venu, on vous servira. </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
-<note type="L">Bière : boisson faite à partir de houblons, mais aussi coffre de bois où l'on met un corps mort.</note>
+<note type="L">BiÃ¨re : boisson faite Ã  partir de houblons, mais aussi coffre de bois oÃ¹ l'on met un corps mort.</note>
 <p id='16'>
-	<s id='1'>Cela ne sera pas nécessaire, nous serons déjà morts ; et au lieu d'une table il n'aurait qu'à apporter une bière. </s>
+	<s id='1'>Cela ne sera pas nÃ©cessaire, nous serons dÃ©jÃ  mortsÂ ; et au lieu d'une table il n'aurait qu'Ã  apporter une biÃ¨re. </s>
 </p>
 </sp>
 <sp who='LE-CUISINIER'><speaker>LE CUISINIER.</speaker>
 <p id='17'>
-	<s id='1'>Des gens comme vous ne se traitent pas sans cérémonie. </s>
+	<s id='1'>Des gens comme vous ne se traitent pas sans cÃ©rÃ©monie. </s>
 </p>
 </sp>
 <sp who='MARFORIO'><speaker>MARFORIO.</speaker>
 <p id='18'>
-	<s id='1'>Les cérémonies sont mortelles à jeun ; mais n'avez-vous rien de cuit ? </s>
+	<s id='1'>Les cÃ©rÃ©monies sont mortelles Ã  jeunÂ ; mais n'avez-vous rien de cuitÂ ? </s>
 </p>
 </sp>
 <sp who='LE-CUISINIER'><speaker>LE CUISINIER.</speaker>
 <p id='19'>
-	<s id='1'>Non, si ce n'est deux oeufs frais cuits d'avant-hier, et cela viendra fort à propos, car vous voilà deux. </s>
+	<s id='1'>Non, si ce n'est deux oeufs frais cuits d'avant-hier, et cela viendra fort Ã  propos, car vous voilÃ  deux. </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
@@ -213,557 +213,557 @@
 <sp who='LE-CUISINIER'><speaker>LE CUISINIER.</speaker>
 <p id='21'>
 	<s id='1'>Je le veux bien, venez. </s>
-	<s id='2'>Où mettra-t-on le couvert ? </s>
-	<s id='3'>Dans la salle ? </s>
-	<s id='4'>Le salon ? </s>
-	<s id='5'>La chambre ? </s>
-	<s id='6'>La cour ? </s>
+	<s id='2'>OÃ¹ mettra-t-on le couvertÂ ? </s>
+	<s id='3'>Dans la salleÂ ? </s>
+	<s id='4'>Le salonÂ ? </s>
+	<s id='5'>La chambreÂ ? </s>
+	<s id='6'>La courÂ ? </s>
 	<s id='7'>Le garde... </s>
 </p>
 </sp>
 <sp who='MARFORIO'><speaker>MARFORIO.</speaker>
 <p id='22'>
-	<s id='1'>Dans la rivière, cuisinier au Diable. </s>
+	<s id='1'>Dans la riviÃ¨re, cuisinier au Diable. </s>
 </p>
 </sp>
 <sp who='LE-CUISINIER'><speaker>LE CUISINIER.</speaker>
-<note type="L">Métail : se dit anciennement pour métal et en termes de blason, se dit de l'or et de l'argent representé par le jaune et le blanc. [F]</note>
+<note type="L">MÃ©tail : se dit anciennement pour mÃ©tal et en termes de blason, se dit de l'or et de l'argent representÃ© par le jaune et le blanc. [F]</note>
 <p id='23'>
-	<s id='1'>Vous servira-t-on en vaisselle d'or ? </s>
-	<s id='2'>D'argent ? </s>
-	<s id='3'>De vermeil ? </s>
-	<s id='4'>De cuivre ? </s>
-	<s id='5'>D'étain ? </s>
-	<s id='6'>De métail de Prince... </s>
+	<s id='1'>Vous servira-t-on en vaisselle d'orÂ ? </s>
+	<s id='2'>D'argentÂ ? </s>
+	<s id='3'>De vermeilÂ ? </s>
+	<s id='4'>De cuivreÂ ? </s>
+	<s id='5'>D'Ã©tainÂ ? </s>
+	<s id='6'>De mÃ©tail de Prince... </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <p id='24'>
-	<s id='1'>Et sers-nous en terre à potier si tu veux, pourvu que nous mangions.</s>
+	<s id='1'>Et sers-nous en terre Ã  potier si tu veux, pourvu que nous mangions.</s>
 </p>
 <stage>Ils le chassent en le battant, et le suivent. </stage>
 </sp>
 </div2>
-<div2 type='scene' n='3'><head>SCÈNE III.</head>
+<div2 type="scene" n='3'><head>SCÃˆNE III.</head>
 <sp who='LE-DOCTEUR'><speaker>LE DOCTEUR, seul. </speaker>
 <p id='1'>
-	<s id='1'>C'est une profession bien fatigante que celle d'un médecin, il est toujours embarrassé pour les affaires des autres, et n'a pas le temps de veiller aux siennes. </s>
-	<s id='2'>Voilà une lettre que j'ai reçu de mon gendre futur, je vais avertir Angélique de se disposer à le recevoir. </s>
-	<s id='3'>Angélique, Angélique ?</s>
+	<s id='1'>C'est une profession bien fatigante que celle d'un mÃ©decin, il est toujours embarrassÃ© pour les affaires des autres, et n'a pas le temps de veiller aux siennes. </s>
+	<s id='2'>VoilÃ  une lettre que j'ai reÃ§u de mon gendre futur, je vais avertir AngÃ©lique de se disposer Ã  le recevoir. </s>
+	<s id='3'>AngÃ©lique, AngÃ©liqueÂ ?</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='4'><head>SCÈNE IV. Angélique, Le Docteur. </head>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<div2 type="scene" n='4'><head>SCÃˆNE IV. AngÃ©lique, Le Docteur. </head>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='1'>
-	<s id='1'>Ah mon père ! </s>
-	<s id='2'>Que vous êtes injuste et incommode, d'interrompre le seul plaisir auquel je sois sensible. </s>
-	<s id='3'>Je ne me suis encore regardée que deux heures, et j'ai trouvé une manière de sourire toute nouvelle, dont je ne m'étais pas encore avisée. 
+	<s id='1'>Ah mon pÃ¨reÂ ! </s>
+	<s id='2'>Que vous Ãªtes injuste et incommode, d'interrompre le seul plaisir auquel je sois sensible. </s>
+	<s id='3'>Je ne me suis encore regardÃ©e que deux heures, et j'ai trouvÃ© une maniÃ¨re de sourire toute nouvelle, dont je ne m'Ã©tais pas encore avisÃ©e. 
 </s>
 </p>
 </sp>
 <sp who='LE-DOCTEUR'><speaker>LE DOCTEUR.</speaker>
 <p id='2'>
-	<s id='1'>Un beau plaisir vraiment, de faire des grimaces devant un miroir ! </s>
-	<s id='2'>Je veux te donner un mari, afin que tu aies autre chose que toi à regarder. </s>
+	<s id='1'>Un beau plaisir vraiment, de faire des grimaces devant un miroirÂ ! </s>
+	<s id='2'>Je veux te donner un mari, afin que tu aies autre chose que toi Ã  regarder. </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='3'>
-	<s id='1'>Moi, mon père, j'épouserais un homme, qui deux jours après mon mariage ne saurait pas si je suis belle ? 
+	<s id='1'>Moi, mon pÃ¨re, j'Ã©pouserais un homme, qui deux jours aprÃ¨s mon mariage ne saurait pas si je suis belleÂ ? 
 </s>
 </p>
 </sp>
 <sp who='LE-DOCTEUR'><speaker>LE DOCTEUR.</speaker>
 <p id='4'>
-	<s id='1'>On a bien affaire de beauté vraiment dans une famille ! </s>
-	<s id='2'>C'est la beauté qui le plus souvent déshonore une maison. </s>
-	<s id='3'>Je veux dans la mienne de la vertu, et de la noblesse : il y a plus de trente ans que j'ai la rage d'être noble, et je veux que ce soit toi qui m'anoblisse.</s>
+	<s id='1'>On a bien affaire de beautÃ© vraiment dans une familleÂ ! </s>
+	<s id='2'>C'est la beautÃ© qui le plus souvent dÃ©shonore une maison. </s>
+	<s id='3'>Je veux dans la mienne de la vertu, et de la noblesseÂ : il y a plus de trente ans que j'ai la rage d'Ãªtre noble, et je veux que ce soit toi qui m'anoblisse.</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='5'><head>SCÈNE V. Léonor, Angélique, Le Docteur. </head>
-<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+<div2 type="scene" n='5'><head>SCÃˆNE V. LÃ©onor, AngÃ©lique, Le Docteur. </head>
+<sp who='LÃ‰ONOR'><speaker>LÃ‰ONOR.</speaker>
 <p id='1'>
-	<s id='1'>Ah ma Cousine ! </s>
+	<s id='1'>Ah ma CousineÂ ! </s>
 	<s id='2'>Sauvons-nous, sauvons-nous. </s>
 	<s id='3'>Qu'on mette les chevaux au carrosse.</s>
 </p>
 </sp>
 <sp who='LE-DOCTEUR'><speaker>LE DOCTEUR.</speaker>
 <p id='2'>
-	<s id='1'>À qui en veut cette folle-là ? </s>
+	<s id='1'>Ã€ qui en veut cette folle-lÃ Â ? </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='3'>
-	<s id='1'>Mais, ma Cousine, qui vous oblige à un départ si précipité ? </s>
+	<s id='1'>Mais, ma Cousine, qui vous oblige Ã  un dÃ©part si prÃ©cipitÃ©Â ? </s>
 </p>
 </sp>
-<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
-<note type="L">Caquet : Abondance de paroles inutiles qui n'ont point de solidité. [F] </note>
+<sp who='LÃ‰ONOR'><speaker>LÃ‰ONOR.</speaker>
+<note type="L">Caquet : Abondance de paroles inutiles qui n'ont point de soliditÃ©. [F] </note>
 <p id='4'>
-	<s id='1'>Une femme comme moi peut-elle partir trop promptement de Paris, quand Pasquin et Marforio y arrivent ? </s>
-	<s id='2'>On dit qu'ils amènent de Rome la Médisance, que je hais beaucoup, et la Vérité, que je crains encore davantage. </s>
-	<s id='3'>Mais, ma Cousine, savez-vous bien ce qu'on dit ? </s>
+	<s id='1'>Une femme comme moi peut-elle partir trop promptement de Paris, quand Pasquin et Marforio y arriventÂ ? </s>
+	<s id='2'>On dit qu'ils amÃ¨nent de Rome la MÃ©disance, que je hais beaucoup, et la VÃ©ritÃ©, que je crains encore davantage. </s>
+	<s id='3'>Mais, ma Cousine, savez-vous bien ce qu'on ditÂ ? </s>
 	<s id='4'>Ils affichent, Cousine, ils affichent. </s>
-	<s id='5'>Une femme affichée est une femme perdue. </s>
-	<s id='6'>Ils disent tout ce qu'ils savent ; je n'aime point les caquets, je n'aime point les caquets. </s>
+	<s id='5'>Une femme affichÃ©e est une femme perdue. </s>
+	<s id='6'>Ils disent tout ce qu'ils saventÂ ; je n'aime point les caquets, je n'aime point les caquets. </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='5'>
-	<s id='1'>Ils disent ce qu'ils savent ? </s>
-	<s id='2'>Oh tant mieux ; je les attends de pied ferme. </s>
-	<s id='3'>Ils sauront à quel degré je suis sage, ils le publieront partout, et cela me distinguera de la multitude. </s>
+	<s id='1'>Ils disent ce qu'ils saventÂ ? </s>
+	<s id='2'>Oh tant mieuxÂ ; je les attends de pied ferme. </s>
+	<s id='3'>Ils sauront Ã  quel degrÃ© je suis sage, ils le publieront partout, et cela me distinguera de la multitude. </s>
 	<s id='4'>Ils disent tout ce qu'ils savent. </s>
 </p>
 </sp>
-<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+<sp who='LÃ‰ONOR'><speaker>LÃ‰ONOR.</speaker>
 <p id='6'>
 	<s id='1'>Et savent tout ce qui se fait, c'est le pis que j'y trouve. </s>
-	<s id='2'>Ces esprits pénétrants sont dangereux pour la réputation des femmes. </s>
-	<s id='3'>Mais en vérité, Cousine, j'admire votre tranquillité. </s>
-	<s id='4'>Quoi ? </s>
-	<s id='5'>Tant de sang-froid à l'approche de ces vilaines gens-là ? </s>
-	<s id='6'>Pour moi, je n'ai point assez de hardiesse pour les attendre ; et si toutes les femmes entre deux réputations veulent me suivre, j'aurai bonne compagnie. </s>
+	<s id='2'>Ces esprits pÃ©nÃ©trants sont dangereux pour la rÃ©putation des femmes. </s>
+	<s id='3'>Mais en vÃ©ritÃ©, Cousine, j'admire votre tranquillitÃ©. </s>
+	<s id='4'>QuoiÂ ? </s>
+	<s id='5'>Tant de sang-froid Ã  l'approche de ces vilaines gens-lÃ Â ? </s>
+	<s id='6'>Pour moi, je n'ai point assez de hardiesse pour les attendreÂ ; et si toutes les femmes entre deux rÃ©putations veulent me suivre, j'aurai bonne compagnie. </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='7'>
-	<s id='1'>C'est fort bien fait à vous. </s>
-	<s id='2'>Vous craignez la médisance ; pour moi je vous conseille d'aller établir en Amérique une Colonie de femmes craintives. </s>
+	<s id='1'>C'est fort bien fait Ã  vous. </s>
+	<s id='2'>Vous craignez la mÃ©disanceÂ ; pour moi je vous conseille d'aller Ã©tablir en AmÃ©rique une Colonie de femmes craintives. </s>
 </p>
 </sp>
-<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+<sp who='LÃ‰ONOR'><speaker>LÃ‰ONOR.</speaker>
 <p id='8'>
-	<s id='1'>Votre tranquillité me ferait soupçonner quelque chose. </s>
-	<s id='2'>En cas d'honneur, Cousine, celle qui craint le moins est celle qui n'a rien à perdre. </s>
+	<s id='1'>Votre tranquillitÃ© me ferait soupÃ§onner quelque chose. </s>
+	<s id='2'>En cas d'honneur, Cousine, celle qui craint le moins est celle qui n'a rien Ã  perdre. </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='9'>
-	<s id='1'>Mais encore, expliquez-nous les raisons qui vous obligent à partir si promptement. </s>
+	<s id='1'>Mais encore, expliquez-nous les raisons qui vous obligent Ã  partir si promptement. </s>
 </p>
 </sp>
-<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
-<note type="L">Académiste : écolier qui apprend ses exercices chez un écuyer, à monter à cheval, à faire des armes, à danser, etc. [F]</note>
-<note type="L">Economie :  ou oeconomie, ménagement prudent qu'on fait de son bien, ou de celui d'autrui. [F]</note>
+<sp who='LÃ‰ONOR'><speaker>LÃ‰ONOR.</speaker>
+<note type="L">AcadÃ©miste : Ã©colier qui apprend ses exercices chez un Ã©cuyer, Ã  monter Ã  cheval, Ã  faire des armes, Ã  danser, etc. [F]</note>
+<note type="L">Economie :  ou oeconomie, mÃ©nagement prudent qu'on fait de son bien, ou de celui d'autrui. [F]</note>
 <p id='10'>
-	<s id='1'>Des raisons ! </s>
+	<s id='1'>Des raisonsÂ ! </s>
 	<s id='2'>J'en ai mille pour une. </s>
-	<s id='3'>Pasquin ira dire au conseiller ce que le banquier me donne ; au banquier ce que je donne à mon maître à danser ; au maître à danser que je reçois du vin d'un premier commis ; au commis que je le bois avec le Colonel, au Colonel les espiègleries de l'académiste. </s>
-	<s id='4'>Or le banquier ne prêtera plus d'argent au conseiller ; le commis fera manquer le banquier ; l'académiste ferraillera avec le Colonel ; et le Colonel fera sauter la maître à danser. </s>
-	<s id='5'>Et voilà une guerre civile dans l'économie de mon ménage.</s>
+	<s id='3'>Pasquin ira dire au conseiller ce que le banquier me donneÂ ; au banquier ce que je donne Ã  mon maÃ®tre Ã  danserÂ ; au maÃ®tre Ã  danser que je reÃ§ois du vin d'un premier commisÂ ; au commis que je le bois avec le Colonel, au Colonel les espiÃ¨gleries de l'acadÃ©miste. </s>
+	<s id='4'>Or le banquier ne prÃªtera plus d'argent au conseillerÂ ; le commis fera manquer le banquierÂ ; l'acadÃ©miste ferraillera avec le ColonelÂ ; et le Colonel fera sauter la maÃ®tre Ã  danser. </s>
+	<s id='5'>Et voilÃ  une guerre civile dans l'Ã©conomie de mon mÃ©nage.</s>
 </p>
 </sp>
 <sp who='LE-DOCTEUR'><speaker>LE DOCTEUR.</speaker>
 <p id='11'>
-	<s id='1'>Quel pot-pourri de galanterie ! </s>
+	<s id='1'>Quel pot-pourri de galanterieÂ ! </s>
 </p>
 </sp>
-<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+<sp who='LÃ‰ONOR'><speaker>LÃ‰ONOR.</speaker>
 <p id='12'>
 	<s id='1'>Vous voyez bien que j'ai mille raisons pour une. </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='13'>
 	<s id='1'>J'entends, vous avez autant d'Amants que de raisons. </s>
 </p>
 </sp>
-<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+<sp who='LÃ‰ONOR'><speaker>LÃ‰ONOR.</speaker>
 <p id='14'>
-	<s id='1'>Vous ne voulez pas venir ? </s>
-	<s id='2'>Pour moi je vous déclare que je m'en vais. </s>
-	<s id='3'>Qu'entends-je ? </s>
-	<s id='4'>Tout me paraît Pasquin. </s>
-	<s id='5'>Fuyons, fuyons ces vilaines gens-là. </s>
-	<s id='6'>Mon équipage, un fiacre, un fiacre ?</s>
+	<s id='1'>Vous ne voulez pas venirÂ ? </s>
+	<s id='2'>Pour moi je vous dÃ©clare que je m'en vais. </s>
+	<s id='3'>Qu'entends-jeÂ ? </s>
+	<s id='4'>Tout me paraÃ®t Pasquin. </s>
+	<s id='5'>Fuyons, fuyons ces vilaines gens-lÃ . </s>
+	<s id='6'>Mon Ã©quipage, un fiacre, un fiacreÂ ?</s>
 </p>
 <stage>Elle sort. </stage>
 </sp>
 <sp who='LE-DOCTEUR'><speaker>LE DOCTEUR.</speaker>
 <p id='15'>
-	<s id='1'>Or sus, ma fille, recommençons le discours que nous tenions. </s>
-	<s id='2'>Ce Gentilhomme me doit venir aujourd'hui, et je prétends que vous l'épousiez. </s>
+	<s id='1'>Or sus, ma fille, recommenÃ§ons le discours que nous tenions. </s>
+	<s id='2'>Ce Gentilhomme me doit venir aujourd'hui, et je prÃ©tends que vous l'Ã©pousiez. </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='16'>
-	<s id='1'>Quoi, mon Père, vous voulez me parler encore de mariage ? Si vous n'aviez pas autre chose à me dire, fallait-il me donner la peine de descendre ? </s>
+	<s id='1'>Quoi, mon PÃ¨re, vous voulez me parler encore de mariageÂ ? Si vous n'aviez pas autre chose Ã  me dire, fallait-il me donner la peine de descendreÂ ? </s>
 	<s id='2'>Adieu, je vais achever de me mirer.</s>
 </p>
 </sp>
 <sp who='LE-DOCTEUR'><speaker>LE DOCTEUR.</speaker>
 <p id=''>
-	<s id='1'>Et moi j'achèverai de te marier. </s>
-	<s id='2'>Que je suis malheureux ! </s>
-	<s id='3'>J'ai deux filles, je ne saurais me défaire de celle que je n'aime point, et l'autre me fait enrager. </s>
+	<s id='1'>Et moi j'achÃ¨verai de te marier. </s>
+	<s id='2'>Que je suis malheureuxÂ ! </s>
+	<s id='3'>J'ai deux filles, je ne saurais me dÃ©faire de celle que je n'aime point, et l'autre me fait enrager. </s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='6'><head>SCÈNE VI. Pierrot, Le Docteur.</head>
+<div2 type="scene" n='6'><head>SCÃˆNE VI. Pierrot, Le Docteur.</head>
 <sp who='PIERROT'><speaker>PIERROT.</speaker>
 <p id='1'>
-	<s id='1'>Que diantre, Monsieur, faites donc taire votre fille ? Elle veut que je la serve en Musique ; elle me chante toujours aux oreilles : </s>
+	<s id='1'>Que diantre, Monsieur, faites donc taire votre filleÂ ? Elle veut que je la serve en MusiqueÂ ; elle me chante toujours aux oreillesÂ : </s>
 </p>
 <stage>Il chante. </stage>
-	<l id='1'>Pierrot, je veux sortir, Baille-moi mon écharpe. </l>
-	<l id='2'>As-tu décrotté mes souliers ?</l>
+	<l id='1'>Pierrot, je veux sortir, Baille-moi mon Ã©charpe. </l>
+	<l id='2'>As-tu dÃ©crottÃ© mes souliersÂ ?</l>
 <p id='2'>
-	<s id='1'>Je crois pour moi qu'elle a le démon de l'Opéra dans le ventre. </s>
+	<s id='1'>Je crois pour moi qu'elle a le dÃ©mon de l'OpÃ©ra dans le ventre. </s>
 </p>
 </sp>
 <sp who='LE-DOCTEUR'><speaker>LE DOCTEUR.</speaker>
 <p id='3'>
-	<s id='1'>Quoi ? </s>
-	<s id='2'>Sa manie chantante ne la quitte point ? </s>
+	<s id='1'>QuoiÂ ? </s>
+	<s id='2'>Sa manie chantante ne la quitte pointÂ ? </s>
 </p>
 </sp>
 <sp who='PIERROT'><speaker>PIERROT.</speaker>
-<note type="L">Chanterie : Terme de dénigrement. Mauvais chants, chants ennuyeux. [L]</note>
+<note type="L">Chanterie : Terme de dÃ©nigrement. Mauvais chants, chants ennuyeux. [L]</note>
 <note type="L">Faligoterie : Sottise, niaiserie. [T]</note>
 <p id='4'>
-	<s id='1'>Sa chanterie l'a prise depuis que vous lui avez refusé ce petit Léandre, qui lui venait tous les jours chanter mille faligoteries sous ses fenêtres. </s>
-	<s id='2'>Et franchement, si vous la mariez, cela la ferait bien déchanter ; car ce qui cause la chanterie, c'est lorsque la joie surmonte : or la surmontation ne vient que quand on a envie de rire : si bien qu'un mari qui est un animal triste, empêche toujours sa femme de rire ; et voilà ce qui suffoque la démangeaison de chanter. </s>
+	<s id='1'>Sa chanterie l'a prise depuis que vous lui avez refusÃ© ce petit LÃ©andre, qui lui venait tous les jours chanter mille faligoteries sous ses fenÃªtres. </s>
+	<s id='2'>Et franchement, si vous la mariez, cela la ferait bien dÃ©chanterÂ ; car ce qui cause la chanterie, c'est lorsque la joie surmonteÂ : or la surmontation ne vient que quand on a envie de rireÂ : si bien qu'un mari qui est un animal triste, empÃªche toujours sa femme de rireÂ ; et voilÃ  ce qui suffoque la dÃ©mangeaison de chanter. </s>
 </p>
 </sp>
 <sp who='LE-DOCTEUR'><speaker>LE DOCTEUR.</speaker>
 <p id='5'>
-	<s id='1'>Je l'aime trop pour la donner à un mari. </s>
+	<s id='1'>Je l'aime trop pour la donner Ã  un mari. </s>
 </p>
 </sp>
 <sp who='PIERROT'><speaker>PIERROT.</speaker>
 <p id='6'>
-	<s id='1'>Parce que vous l'aimez, vous ne voulez pas la marier ? </s>
-	<s id='2'>Elle aimerait bien mieux que vous la haïssiez, la pauvre fille. 
+	<s id='1'>Parce que vous l'aimez, vous ne voulez pas la marierÂ ? </s>
+	<s id='2'>Elle aimerait bien mieux que vous la haÃ¯ssiez, la pauvre fille. 
 </s>
 </p>
 </sp>
 <sp who='LE-DOCTEUR'><speaker>LE DOCTEUR.</speaker>
 <p id='7'>
-	<s id='1'>Mais Pierrot, toi qui es son confident, tu devrais bien lui remontrer qu'il y a de la folie à chanter toujours. </s>
+	<s id='1'>Mais Pierrot, toi qui es son confident, tu devrais bien lui remontrer qu'il y a de la folie Ã  chanter toujours. </s>
 </p>
 </sp>
 <sp who='PIERROT'><speaker>PIERROT.</speaker>
 <p id='8'>
-	<s id='1'>J'y ai fait mes cinq ou six sens de nature ; et je l'ai avertie plusieurs fois, que plus une fille chantait, plus on croyait qu'elle faisait pis. </s>
-	<s id='2'>Savez-vous bien ce qu'elle me répond à tout cela ? </s>
+	<s id='1'>J'y ai fait mes cinq ou six sens de natureÂ ; et je l'ai avertie plusieurs fois, que plus une fille chantait, plus on croyait qu'elle faisait pis. </s>
+	<s id='2'>Savez-vous bien ce qu'elle me rÃ©pond Ã  tout celaÂ ? </s>
 </p>
 <stage>Il chante.</stage>
 	<l id='3'>Tais-toi, tu n'es qu'un sot. </l>
 <p id='9'>
-	<s id='1'>Dame, Monsieur, je ne suis pas accoutumé qu'on me dise des injures en Musique. </s>
+	<s id='1'>Dame, Monsieur, je ne suis pas accoutumÃ© qu'on me dise des injures en Musique. </s>
 </p>
 </sp>
 <sp who='LE-DOCTEUR'><speaker>LE DOCTEUR.</speaker>
 <p id='10'>
-	<s id='1'>Suffit, je tâcherai de ramener celle-ci par la raison, et je me servirai de mon autorité envers l'autre pour lui faire épouser le Gentilhomme à qui je l'ai promise. </s>
-	<s id='2'>Il faudra bien qu'elle m'obéisse. </s>
+	<s id='1'>Suffit, je tÃ¢cherai de ramener celle-ci par la raison, et je me servirai de mon autoritÃ© envers l'autre pour lui faire Ã©pouser le Gentilhomme Ã  qui je l'ai promise. </s>
+	<s id='2'>Il faudra bien qu'elle m'obÃ©isse. </s>
 </p>
 </sp>
 <sp who='PIERROT'><speaker>PIERROT.</speaker>
 <p id='11'>
-	<s id='1'>Oh, il faudra, il faudra ! </s>
-	<s id='2'>Ça est bien aisé à dire ! </s>
-	<s id='3'>Mais quand je lui en ai parlé, elle m'a dit que vous n'aviez rien à lui commander.</s>
+	<s id='1'>Oh, il faudra, il faudraÂ ! </s>
+	<s id='2'>Ã‡a est bien aisÃ© Ã  direÂ ! </s>
+	<s id='3'>Mais quand je lui en ai parlÃ©, elle m'a dit que vous n'aviez rien Ã  lui commander.</s>
 </p>
 </sp>
 <sp who='LE-DOCTEUR'><speaker>LE DOCTEUR.</speaker>
 <p id='12'>
-	<s id='1'>Comment donc ? Est-ce que je ne suis pas son père ? </s>
+	<s id='1'>Comment doncÂ ? Est-ce que je ne suis pas son pÃ¨reÂ ? </s>
 </p>
 </sp>
 <sp who='PIERROT'><speaker>PIERROT.</speaker>
 <p id='13'>
-	<s id='1'>Faut bien qu'elle répugne à cela : car si elle y trouvait la moindre apparence dans son instinct, elle vous obéirait.</s>
+	<s id='1'>Faut bien qu'elle rÃ©pugne Ã  celaÂ : car si elle y trouvait la moindre apparence dans son instinct, elle vous obÃ©irait.</s>
 </p>
 </sp>
 <sp who='LE-DOCTEUR'><speaker>LE DOCTEUR.</speaker>
-<note type="L">Godelureau : Jeune fanfaron, glorieux, pimpant et coquet qui se pique de galanterie, de bonne fortune auprés des femmes, qui est toujours bien propre et bien mis sans avoir d'autres perfections. Les vieux maris ont sujet d'être jaloux de ces godelureaux qui viennent cajoler leurs femmes. [F]</note>
+<note type="L">Godelureau : Jeune fanfaron, glorieux, pimpant et coquet qui se pique de galanterie, de bonne fortune auprÃ©s des femmes, qui est toujours bien propre et bien mis sans avoir d'autres perfections. Les vieux maris ont sujet d'Ãªtre jaloux de ces godelureaux qui viennent cajoler leurs femmes. [F]</note>
 <p id='14'>
-	<s id='1'>Je lui ferai bien connaître que je le suis. </s>
-	<s id='2'>Mais voici ces godelureaux qui lorgnent mes filles ; j'ai envie de leur aller dire qu'ils aillent au diable. </s>
-	<s id='3'>Mais non, retirons-nous plutôt, Mars ne s'accorde pas avec Hippocrate. </s>
+	<s id='1'>Je lui ferai bien connaÃ®tre que je le suis. </s>
+	<s id='2'>Mais voici ces godelureaux qui lorgnent mes fillesÂ ; j'ai envie de leur aller dire qu'ils aillent au diable. </s>
+	<s id='3'>Mais non, retirons-nous plutÃ´t, Mars ne s'accorde pas avec Hippocrate. </s>
 </p>
 </sp>
 <sp who='PIERROT'><speaker>PIERROT.</speaker>
 <p id='15'>
 	<s id='1'>Sauvons-nous avec Hippocrate. </s>
 </p>
-<stage>Octave et Léandre viennent avec Scaramouche, et le prient de recommander leurs intérêts à Pasquin et à Marforio. Après qu'ils se sont retirés Pasquin arrive. Scaramouche lui annonce l'arrivée de la Vérité et de la Médisance qui le cherchent.</stage>
+<stage>Octave et LÃ©andre viennent avec Scaramouche, et le prient de recommander leurs intÃ©rÃªts Ã  Pasquin et Ã  Marforio. AprÃ¨s qu'ils se sont retirÃ©s Pasquin arrive. Scaramouche lui annonce l'arrivÃ©e de la VÃ©ritÃ© et de la MÃ©disance qui le cherchent.</stage>
 </sp>
 </div2>
-<div2 type='scene' n='7'><head>SCÈNE VII. Pasquin, La Vérité. </head>
-<stage>Le Théâtre représente une rivière. On voit La Vérité dans une magnifique gondole, qui avance jusqu'au bord du théâtre, au son des instruments. </stage>
+<div2 type="scene" n='7'><head>SCÃˆNE VII. Pasquin, La VÃ©ritÃ©. </head>
+<stage>Le ThÃ©Ã¢tre reprÃ©sente une riviÃ¨re. On voit La VÃ©ritÃ© dans une magnifique gondole, qui avance jusqu'au bord du thÃ©Ã¢tre, au son des instruments. </stage>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
-	<l id='4'>Quoi ! C'est la Vérité ma fidèle compagne ? </l>
-	<l id='5'>Quel dessein vous oblige à battre la campagne ? </l>
+	<l id='4'>QuoiÂ ! C'est la VÃ©ritÃ© ma fidÃ¨le compagneÂ ? </l>
+	<l id='5'>Quel dessein vous oblige Ã  battre la campagneÂ ? </l>
 	<l id='6'>Je ne vous croyais pas si proche de Paris. </l>
-	<l id='7'>Mais quel éclat frappe ma vue ? </l>
-	<l id='8'>Depuis quand portez-vous de si riches habits ? </l>
+	<l id='7'>Mais quel Ã©clat frappe ma vueÂ ? </l>
+	<l id='8'>Depuis quand portez-vous de si riches habitsÂ ? </l>
 	<l id='9'>Je comptais de vous voir arriver toute nue. </l>
 </sp>
-<sp who='LA-VÉRITÉ'><speaker>LA VÉRITÉ. </speaker>
-	<l id='10'>Des hommes d'aujourd'hui je serais mal reçue, </l>
-	<l id='11'>Et s'ils aiment la nudité, </l>
-	<l id='12'>Ce n'est pas dans la vérité ? </l>
-	<l id='13'>Pour me conformer à l'usage </l>
+<sp who='LA-VÃ‰RITÃ‰'><speaker>LA VÃ‰RITÃ‰. </speaker>
+	<l id='10'>Des hommes d'aujourd'hui je serais mal reÃ§ue, </l>
+	<l id='11'>Et s'ils aiment la nuditÃ©, </l>
+	<l id='12'>Ce n'est pas dans la vÃ©ritÃ©Â ? </l>
+	<l id='13'>Pour me conformer Ã  l'usage </l>
 	<l id='14'>Des femmes de ce pays-ci, </l>
-	<l id='15'>J'ai cru que c'était peu de masquer mon visage, </l>
+	<l id='15'>J'ai cru que c'Ã©tait peu de masquer mon visage, </l>
 	<l id='16'>Je masque ma parole aussi.</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
-	<l id='17'>Vous êtes effrontée, indiscrète fieffée ; </l>
+	<l id='17'>Vous Ãªtes effrontÃ©e, indiscrÃ¨te fieffÃ©eÂ ; </l>
 	<l id='18'>Je puis en parler savamment. </l>
 	<l id='19'>Je vous ai maintes fois servi de truchement, </l>
-	<l id='20'>Et ma peau de cents coups s'en trouve paraphée. </l>
-<note type="L">Guignon : Malheur, accident dont on ne peut savoir la cause, ni à qui s'en prendre. Tous les joueurs qui perdent disent toujours, qu'il y a quelqu'un qui leur a porté guignon. [F]</note>
-	<l id='21'>Bref, vous m'avez toujours porté guignon </l>
-	<l id='22'>Aussi bien qu'à mon compagnon. </l>
-	<l id='23'>Cependant près de moi soyez la bienvenue. </l>
-	<l id='24'>Vous trouverez à critiquer </l>
-	<l id='25'>Dans ce pays beaucoup plus qu'à croquer </l>
-	<l id='26'>Point d'argent sur votre parole ; </l>
-	<l id='27'>Car jamais Vérité chez les faibles humains, </l>
-	<l id='28'>Malgré ses charmes tout divins, </l>
-	<l id='29'>Ne trouva crédit d'une obole. </l>
+	<l id='20'>Et ma peau de cents coups s'en trouve paraphÃ©e. </l>
+<note type="L">Guignon : Malheur, accident dont on ne peut savoir la cause, ni Ã  qui s'en prendre. Tous les joueurs qui perdent disent toujours, qu'il y a quelqu'un qui leur a portÃ© guignon. [F]</note>
+	<l id='21'>Bref, vous m'avez toujours portÃ© guignon </l>
+	<l id='22'>Aussi bien qu'Ã  mon compagnon. </l>
+	<l id='23'>Cependant prÃ¨s de moi soyez la bienvenue. </l>
+	<l id='24'>Vous trouverez Ã  critiquer </l>
+	<l id='25'>Dans ce pays beaucoup plus qu'Ã  croquer </l>
+	<l id='26'>Point d'argent sur votre paroleÂ ; </l>
+	<l id='27'>Car jamais VÃ©ritÃ© chez les faibles humains, </l>
+	<l id='28'>MalgrÃ© ses charmes tout divins, </l>
+	<l id='29'>Ne trouva crÃ©dit d'une obole. </l>
 </sp>
-<sp who='LA-VÉRITÉ'><speaker>LA VÉRITÉ. </speaker>
+<sp who='LA-VÃ‰RITÃ‰'><speaker>LA VÃ‰RITÃ‰. </speaker>
 	<l id='30'>Mes habits m'ont fait subsister. </l>
-	<l id='31'>C'est souvent par l'habit qu'on se fait écouter. </l>
-	<l id='32'>Femme n'est en crédit que selon ses parures ; </l>
-	<l id='33'>C'est là le fondement des grandes aventures. </l>
+	<l id='31'>C'est souvent par l'habit qu'on se fait Ã©couter. </l>
+	<l id='32'>Femme n'est en crÃ©dit que selon ses paruresÂ ; </l>
+	<l id='33'>C'est lÃ  le fondement des grandes aventures. </l>
 <note type="L">Bavolet : Coiffure villageoise. [L]</note>
 	<l id='34'>Telle qui dans son bavolet </l>
-	<l id='35'>Écoutait volontiers les soupirs d'un valet ; </l>
-	<l id='36'>Sitôt qu'elle a changé d'habits et de coiffures, </l>
+	<l id='35'>Ã‰coutait volontiers les soupirs d'un valetÂ ; </l>
+	<l id='36'>SitÃ´t qu'elle a changÃ© d'habits et de coiffures, </l>
 	<l id='37'>D'un riche adorateur elle devient l'objet.</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
-<note type="C">Lulli, Jean-Baptiste (1633-1687) : musicien originaire de Florence, qui cée l'académie royale de Musique, fut le muscien le plus connu et prisé du règne de Louis XIV. Il écrivit 19 opéras, les ballets et intermèdes de la Cour et une multitude d'autres compositions.</note>
-<note type="L">Louis : pièce de monnaie de France qu'on a commencé à fabriquer sous la fin du règne de Louis XIII, et qui a eu grand cours sous celui de Louis XIV. Il y a des louis d'or qui ont valu d'abord 10. liv. puis onze, et enfin jusqu'à 12. liv. [F]</note>
-	<l id='38'>Il est de ces beautés comme de la Musique. </l>
-	<l id='39'>Sur un théâtre magnifique </l>
+<note type="C">Lulli, Jean-Baptiste (1633-1687) : musicien originaire de Florence, qui cÃ©e l'acadÃ©mie royale de Musique, fut le muscien le plus connu et prisÃ© du rÃ¨gne de Louis XIV. Il Ã©crivit 19 opÃ©ras, les ballets et intermÃ¨des de la Cour et une multitude d'autres compositions.</note>
+<note type="L">Louis : piÃ¨ce de monnaie de France qu'on a commencÃ© Ã  fabriquer sous la fin du rÃ¨gne de Louis XIII, et qui a eu grand cours sous celui de Louis XIV. Il y a des louis d'or qui ont valu d'abord 10. liv. puis onze, et enfin jusqu'Ã  12. liv. [F]</note>
+	<l id='38'>Il est de ces beautÃ©s comme de la Musique. </l>
+	<l id='39'>Sur un thÃ©Ã¢tre magnifique </l>
 	<l id='40'>Un grand air de Lully se vend </l>
-	<l id='41'>Un louis d'or ; c'est le prix courant. </l>
-	<l id='42'>Mais quand il court la prétentaine </l>
-<note type="L">Prétentaine : terme burlesque, qui ne se dit qu'en cette phrase proverbiale : Ils ont été tout le jour courir la pretentaine, pour dire, Ils sont allez deçà et delà. [F]</note>
+	<l id='41'>Un louis d'orÂ ; c'est le prix courant. </l>
+	<l id='42'>Mais quand il court la prÃ©tentaine </l>
+<note type="L">PrÃ©tentaine : terme burlesque, qui ne se dit qu'en cette phrase proverbiale : Ils ont Ã©tÃ© tout le jour courir la pretentaine, pour dire, Ils sont allez deÃ§Ã  et delÃ . [F]</note>
 	<l id='43'>Autour de la Samaritaine, </l>
-<note type="L">Blanc : est aussi une ancienne monnaie qui valait cinq deniers. Le denier, en France se dit maintenant  [XVIIè] d'une petite monnaie de cuivre qui vaut la moitié d'un double. [F]</note>
+<note type="L">Blanc : est aussi une ancienne monnaie qui valait cinq deniers. Le denier, en France se dit maintenant  [XVIIÃ¨] d'une petite monnaie de cuivre qui vaut la moitiÃ© d'un double. [F]</note>
 	<l id='44'>Le livre et la feuille, six blancs. </l>
 </sp>
-<sp who='LA-VÉRITÉ'><speaker>LA VÉRITÉ. </speaker>
-	<l id='45'>À propos de théâtre et de scène comique, </l>
-	<l id='46'>Sais-tu le parti que je prends ? </l>
+<sp who='LA-VÃ‰RITÃ‰'><speaker>LA VÃ‰RITÃ‰. </speaker>
+	<l id='45'>Ã€ propos de thÃ©Ã¢tre et de scÃ¨ne comique, </l>
+	<l id='46'>Sais-tu le parti que je prendsÂ ? </l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 	<l id='47' part='i'>Non. </l>
 </sp>
-<sp who='LA-VÉRITÉ'><speaker>LA VÉRITÉ. </speaker>
+<sp who='LA-VÃ‰RITÃ‰'><speaker>LA VÃ‰RITÃ‰. </speaker>
 	<l id='47' part='m'>Devine.</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 	<l id='47' part='f'>J'entends. </l>
-	<l id='48'>Auprès des Courtisans tu vas chercher pratique ? </l>
-	<l id='49'>À dire vrai chez eux l'on gagne peu de biens. </l>
+	<l id='48'>AuprÃ¨s des Courtisans tu vas chercher pratiqueÂ ? </l>
+	<l id='49'>Ã€ dire vrai chez eux l'on gagne peu de biens. </l>
 </sp>
-<sp who='LA-VÉRITÉ'><speaker>LA VÉRITÉ. </speaker>
-	<l id='50'>Non, je vais m'établir chez des comédiens, </l>
+<sp who='LA-VÃ‰RITÃ‰'><speaker>LA VÃ‰RITÃ‰. </speaker>
+	<l id='50'>Non, je vais m'Ã©tablir chez des comÃ©diens, </l>
 	<l id='51'>Nous verrons comme le Parterre, </l>
-	<l id='52'>Sur la Scène me recevra. </l>
+	<l id='52'>Sur la ScÃ¨ne me recevra. </l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 	<l id='53'>Selon l'humeur dont il sera. </l>
-	<l id='54'>Mais quel sera ton ministère ? </l>
+	<l id='54'>Mais quel sera ton ministÃ¨reÂ ? </l>
 </sp>
-<sp who='LA-VÉRITÉ'><speaker>LA VÉRITÉ. </speaker>
+<sp who='LA-VÃ‰RITÃ‰'><speaker>LA VÃ‰RITÃ‰. </speaker>
 	<l id='55'>Sans rien craindre j'annoncerai, </l>
-	<l id='56'>Des pièces je déciderai, </l>
-	<l id='57'>J'en ferai le rapport fidèle.</l>
+	<l id='56'>Des piÃ¨ces je dÃ©ciderai, </l>
+	<l id='57'>J'en ferai le rapport fidÃ¨le.</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
-	<l id='58'>On ne voit point chez eux tant de sincérité, </l>
-	<l id='59'>Car en fait de pièce nouvelle, </l>
-	<l id='60'>Jamais Comédien n'a dit la vérité. </l>
+	<l id='58'>On ne voit point chez eux tant de sincÃ©ritÃ©, </l>
+	<l id='59'>Car en fait de piÃ¨ce nouvelle, </l>
+	<l id='60'>Jamais ComÃ©dien n'a dit la vÃ©ritÃ©. </l>
 </sp>
-<sp who='LA-VÉRITÉ'><speaker>LA VÉRITÉ. </speaker>
-	<l id='61'>Bon ! C'est justement sur la Scène. </l>
-	<l id='62'>Que je décide en Souveraine. </l>
-	<l id='63'>Chez eux en ce métier je réussis si bien, </l>
-	<l id='64'>Que les Originaux que dépeint ma Satire </l>
-	<l id='65'>Sont charmés du Comédien. </l>
+<sp who='LA-VÃ‰RITÃ‰'><speaker>LA VÃ‰RITÃ‰. </speaker>
+	<l id='61'>BonÂ ! C'est justement sur la ScÃ¨ne. </l>
+	<l id='62'>Que je dÃ©cide en Souveraine. </l>
+	<l id='63'>Chez eux en ce mÃ©tier je rÃ©ussis si bien, </l>
+	<l id='64'>Que les Originaux que dÃ©peint ma Satire </l>
+	<l id='65'>Sont charmÃ©s du ComÃ©dien. </l>
 	<l id='66'>Qui les corrige et les fait rire. </l>
 	<l id='67'>De ma protection tu te trouveras bien. </l>
-	<l id='68'>Tu sais qu'à Rome en pleine rue </l>
-	<l id='69'>Je t'ai fait élever jadis une Statue. </l>
+	<l id='68'>Tu sais qu'Ã  Rome en pleine rue </l>
+	<l id='69'>Je t'ai fait Ã©lever jadis une Statue. </l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 	<l id='70'>Je sais qu'au bout d'un funeste chevron. </l>
 	<l id='71'>On mit mon portrait et mon nom, </l>
 	<l id='72'>Et ce portrait en diligence </l>
-	<l id='73'>Fit décamper l'Original. </l>
+	<l id='73'>Fit dÃ©camper l'Original. </l>
 </sp>
-<sp who='LA-VÉRITÉ'><speaker>LA VÉRITÉ. </speaker>
+<sp who='LA-VÃ‰RITÃ‰'><speaker>LA VÃ‰RITÃ‰. </speaker>
 	<l id='74'>Je ne t'ai jamais fait de mal. </l>
-	<l id='75'>Tu sais que c'est la médisance.</l>
+	<l id='75'>Tu sais que c'est la mÃ©disance.</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
-	<l id='76'>Ne fut-ce pas la Vérité, </l>
-	<l id='77'>Qui contre ce vieillard d'Hymen trop entêté, </l>
-	<l id='78'>Me fit faire cette satire : </l>
-	<l id='79'>Harpagon se marie ! Ô ciel ! Il signera : </l>
+	<l id='76'>Ne fut-ce pas la VÃ©ritÃ©, </l>
+	<l id='77'>Qui contre ce vieillard d'Hymen trop entÃªtÃ©, </l>
+	<l id='78'>Me fit faire cette satireÂ : </l>
+	<l id='79'>Harpagon se marieÂ ! Ã” cielÂ ! Il signeraÂ : </l>
 <note type="L">Non plus ultra : Le terme qu'on ne saurait passer. [L]</note>
 	<l id='80'>Mais du reste, non plus ultra. </l>
 </sp>
-<sp who='LA-VÉRITÉ'><speaker>LA VÉRITÉ. </speaker>
+<sp who='LA-VÃ‰RITÃ‰'><speaker>LA VÃ‰RITÃ‰. </speaker>
 	<l id='81'>Oui, mais quand tu fis dire </l>
-	<l id='82'>À son Voisin : </l>
-	<l id='83'>J'irai plus loin ; </l>
+	<l id='82'>Ã€ son VoisinÂ : </l>
+	<l id='83'>J'irai plus loinÂ ; </l>
 	<l id='84'>Ce fut je pense </l>
-	<l id='85'>La Médisance. </l>
-	<l id='86'>C'est elle enfin qui me détruit, </l>
+	<l id='85'>La MÃ©disance. </l>
+	<l id='86'>C'est elle enfin qui me dÃ©truit, </l>
 	<l id='87'>Partout elle me suit. </l>
 	<l id='88'>Je l'entends, elle vient me faire une querelle. </l>
-	<l id='89'>Je suis, si tu l'en crois, bien plus méchante qu'elle. </l>
-<stage>La Gondole se change en un antre affreux, d'où sort la médisance, qui chante : </stage>
+	<l id='89'>Je suis, si tu l'en crois, bien plus mÃ©chante qu'elle. </l>
+<stage>La Gondole se change en un antre affreux, d'oÃ¹ sort la mÃ©disance, qui chanteÂ : </stage>
 </sp>
-<sp who='LA-MÉDISANCE'><speaker>LA MÉDISANCE.</speaker>
-	<l id='90'>Non, ce n'est point la Médisance ; </l>
-	<l id='91'>C'est la Vérité qui nous offense. </l>
+<sp who='LA-MÃ‰DISANCE'><speaker>LA MÃ‰DISANCE.</speaker>
+	<l id='90'>Non, ce n'est point la MÃ©disanceÂ ; </l>
+	<l id='91'>C'est la VÃ©ritÃ© qui nous offense. </l>
 	<l id='92'>La Coquette se rit. </l>
-	<l id='93'>Du médisant qui dit </l>
+	<l id='93'>Du mÃ©disant qui dit </l>
 	<l id='94'>Qu'elle n'est pas cruelle </l>
 	<l id='95'>Au troupeau d'Amants qui la suit. </l>
 	<l id='96'>Mais on ferait rougir la Belle, </l>
 	<l id='97'>En lui nommant tout bas </l>
 	<l id='98'>Le seul qu'on voir entrer chez elle </l>
 	<l id='99'>Quand tous les autres n'y sont pas. </l>
-	<l id='100'>Non, ce n'est pas la Médisance, </l>
-	<l id='101'>C'est la Vérité qui nous offense.</l>
+	<l id='100'>Non, ce n'est pas la MÃ©disance, </l>
+	<l id='101'>C'est la VÃ©ritÃ© qui nous offense.</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <p id='1'>
-	<s id='1'>Mais ne pourrait-on point savoir la différence qu'il y a entre vous deux ?</s>
+	<s id='1'>Mais ne pourrait-on point savoir la diffÃ©rence qu'il y a entre vous deuxÂ ?</s>
 </p>
 </sp>
-<sp who='LA-MÉDISANCE'><speaker>LA MÉDISANCE, chante.</speaker>
+<sp who='LA-MÃ‰DISANCE'><speaker>LA MÃ‰DISANCE, chante.</speaker>
 	<l id='102'>On dit qu'en festins Iris </l>
 	<l id='103'>Ruinerait quatre maris, </l>
-	<l id='104'>Ce n'est qu'une médisance. </l>
-	<l id='105'>On dit que sans répugnance, </l>
-	<l id='106'>Au dépens de sa beauté, </l>
-	<l id='107'>Son sot Époux fait bombance, </l>
-	<l id='108'>C'est la pure vérité. </l>
+	<l id='104'>Ce n'est qu'une mÃ©disance. </l>
+	<l id='105'>On dit que sans rÃ©pugnance, </l>
+	<l id='106'>Au dÃ©pens de sa beautÃ©, </l>
+	<l id='107'>Son sot Ã‰poux fait bombance, </l>
+	<l id='108'>C'est la pure vÃ©ritÃ©. </l>
 </sp>
 <sp who='MARFORIO'><speaker>MARFORIO chante. </speaker>
 	<l id='109'>On dit que Madame Auroux </l>
-	<l id='110'>Vit mal avec son Époux. </l>
-	<l id='111'>Ce n'est qu'une médisance. </l>
+	<l id='110'>Vit mal avec son Ã‰poux. </l>
+	<l id='111'>Ce n'est qu'une mÃ©disance. </l>
 	<l id='112'>On dit que sa complaisance, </l>
-	<l id='113'>N'est qu'un amour affecté, </l>
+	<l id='113'>N'est qu'un amour affectÃ©, </l>
 	<l id='114'>Pour cacher sa manigance, </l>
-	<l id='115'>C'est la pure vérité. </l>
+	<l id='115'>C'est la pure vÃ©ritÃ©. </l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN chante. </speaker>
 	<l id='116'>On dit que la jeune Alix, </l>
 	<l id='117'>Voudrait avoir un mari, </l>
-	<l id='118'>Ce n'est qu'une médisance. </l>
-	<l id='119'>On dit qu'un Maître de Danse, </l>
-	<l id='120'>Loin de la formalité, </l>
-	<l id='121'>En secret la récompense, </l>
-	<l id='122'>C'est la pure vérité. </l>
+	<l id='118'>Ce n'est qu'une mÃ©disance. </l>
+	<l id='119'>On dit qu'un MaÃ®tre de Danse, </l>
+	<l id='120'>Loin de la formalitÃ©, </l>
+	<l id='121'>En secret la rÃ©compense, </l>
+	<l id='122'>C'est la pure vÃ©ritÃ©. </l>
 </sp>
-<sp who='LA-MÉDISANCE'><speaker>LA MÉDISANCE, chante.</speaker>
-	<l id='123'>On dit que le Médecin, </l>
+<sp who='LA-MÃ‰DISANCE'><speaker>LA MÃ‰DISANCE, chante.</speaker>
+	<l id='123'>On dit que le MÃ©decin, </l>
 	<l id='124'>Par malice est assassin, </l>
-	<l id='125'>C'est une médisance. </l>
+	<l id='125'>C'est une mÃ©disance. </l>
 	<l id='126'>On dit que son ignorance, </l>
-	<l id='127'>Cause la mortalité, </l>
+	<l id='127'>Cause la mortalitÃ©, </l>
 	<l id='128'>Plus que guerre et pestilence, </l>
-	<l id='129'>C'est la pure vérité. </l>
+	<l id='129'>C'est la pure vÃ©ritÃ©. </l>
 </sp>
 <sp who='MARFORIO'><speaker>MARFORIO chante. </speaker>
 	<l id='130'>On dit que d'un Bas Normand, </l>
 	<l id='131'>Un Juge a pris de l'argent, </l>
-	<l id='132'>C'est de la médisance. </l>
+	<l id='132'>C'est de la mÃ©disance. </l>
 	<l id='133'>On dit qu'avant l'Audience, </l>
-	<l id='134'>Sa femme a sollicité, </l>
+	<l id='134'>Sa femme a sollicitÃ©, </l>
 	<l id='135'>Et fait pencher la balance, </l>
-	<l id='136'>C'est la pure vérité. </l>
+	<l id='136'>C'est la pure vÃ©ritÃ©. </l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN chante. </speaker>
 	<l id='137'>On dit que Jeannot chez lui, </l>
 	<l id='138'>Nourrit les enfants d'autrui, </l>
-	<l id='139'>Ce ne sont que médisances. </l>
-	<l id='140'>On dit que de leurs dépenses, </l>
-	<l id='141'>Son Épouse par bonté, </l>
+	<l id='139'>Ce ne sont que mÃ©disances. </l>
+	<l id='140'>On dit que de leurs dÃ©penses, </l>
+	<l id='141'>Son Ã‰pouse par bontÃ©, </l>
 	<l id='142'>Veut bien faire les avances, </l>
-	<l id='143'>C'est la pure vérité. </l>
+	<l id='143'>C'est la pure vÃ©ritÃ©. </l>
 </sp>
 <sp who='MARFORIO'><speaker>MARFORIO chante. </speaker>
 	<l id='144'>On dit que ce Carnaval, </l>
 	<l id='145'>Maints Cocus iront au Bal, </l>
-	<l id='146'>Ce n'est qu'une médisance. </l>
+	<l id='146'>Ce n'est qu'une mÃ©disance. </l>
 	<l id='147'>On dit aussi qu'en cadence, </l>
-	<l id='148'>Leurs femmes de leur côté, </l>
+	<l id='148'>Leurs femmes de leur cÃ´tÃ©, </l>
 	<l id='149'>Danseront la contredanse, </l>
-	<l id='150'>C'est la pure vérité. </l>
+	<l id='150'>C'est la pure vÃ©ritÃ©. </l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN chante. </speaker>
 	<l id='151'>On dit que les Officiers, </l>
-	<l id='152'>Vont payer leurs créanciers, </l>
-	<l id='153'>Ce n'est qu'une médisance. </l>
+	<l id='152'>Vont payer leurs crÃ©anciers, </l>
+	<l id='153'>Ce n'est qu'une mÃ©disance. </l>
 	<l id='154'>On dit qu'ils ont la prudence,</l>
-	<l id='155'>Sans aucun compte arrêté, </l>
-<note type="L">Diligence : activité, promptitude à exécuter notre devoir, ou nos desseins. [T]</note>
+	<l id='155'>Sans aucun compte arrÃªtÃ©, </l>
+<note type="L">Diligence : activitÃ©, promptitude Ã  exÃ©cuter notre devoir, ou nos desseins. [T]</note>
 	<l id='156'>De partir en diligence, </l>
-	<l id='157'>C'est la pure vérité. </l>
+	<l id='157'>C'est la pure vÃ©ritÃ©. </l>
 </sp>
-<sp who='LA-MÉDISANCE'><speaker>LA MÉDISANCE, chante.</speaker>
+<sp who='LA-MÃ‰DISANCE'><speaker>LA MÃ‰DISANCE, chante.</speaker>
 	<l id='158'>On dit qu'un certain Gascon, </l>
-	<l id='159'>Fait grande chère en poisson, </l>
-	<l id='160'>Ce n'est qu'une médisance. </l>
+	<l id='159'>Fait grande chÃ¨re en poisson, </l>
+	<l id='160'>Ce n'est qu'une mÃ©disance. </l>
 	<l id='161'>On dit que par indigence, </l>
-	<l id='162'>Sans crédit d'aucun côté, </l>
+	<l id='162'>Sans crÃ©dit d'aucun cÃ´tÃ©, </l>
 	<l id='163'>Il fait souvent abstinence, </l>
-	<l id='164'>C'est la pure vérité. </l>
+	<l id='164'>C'est la pure vÃ©ritÃ©. </l>
 </sp>
 <sp who='MARFORIO'><speaker>MARFORIO chante. </speaker>
 	<l id='165'>On dit qu'avec son Amant, </l>
 	<l id='166'>Iris perdit son argent, </l>
-	<l id='167'>Ce n'est qu'une médisance. </l>
-	<l id='168'>On dit qu'après la séance, </l>
-	<l id='169'>À un jeu mieux concerté, </l>
+	<l id='167'>Ce n'est qu'une mÃ©disance. </l>
+	<l id='168'>On dit qu'aprÃ¨s la sÃ©ance, </l>
+	<l id='169'>Ã€ un jeu mieux concertÃ©, </l>
 	<l id='170'>Il lui rendit sa finance, </l>
-	<l id='171'>C'est la pure vérité. </l>
+	<l id='171'>C'est la pure vÃ©ritÃ©. </l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN chante. </speaker>
 	<l id='172'>On dit que Jeannin Carton </l>
 	<l id='173'>N'est pas un bon Tabellion, </l>
-	<l id='174'>Ce n'est qu'une médisance. </l>
+	<l id='174'>Ce n'est qu'une mÃ©disance. </l>
 	<l id='175'>On dit qu'il a la science </l>
-	<l id='176'>De voler de tout côté ; </l>
-	<l id='177'>Et d'éviter la Potence, </l>
-	<l id='178'>C'est la pure vérité. </l>
+	<l id='176'>De voler de tout cÃ´tÃ©Â ; </l>
+	<l id='177'>Et d'Ã©viter la Potence, </l>
+	<l id='178'>C'est la pure vÃ©ritÃ©. </l>
 </sp>
 <sp who='MARFORIO'><speaker>MARFORIO chante. </speaker>
-	<l id='179'>On dit que l'Abbé Friquet </l>
+	<l id='179'>On dit que l'AbbÃ© Friquet </l>
 	<l id='180'>Est toujours au Cabaret, </l>
-	<l id='181'>Ce n'est qu'une médisance : </l>
+	<l id='181'>Ce n'est qu'une mÃ©disanceÂ : </l>
 	<l id='182'>On dit que de l'Alliance, </l>
-	<l id='183'>On l'a souvent rapporté </l>
+	<l id='183'>On l'a souvent rapportÃ© </l>
 	<l id='184'>Sans raison ni connaissance, </l>
-	<l id='185'>C'est la pure vérité. </l>
+	<l id='185'>C'est la pure vÃ©ritÃ©. </l>
 </sp>
 </div2>
 </div1>
-<div1 type='acte' n='1'><head>ACTE II</head>
-<div2 type='scene' n='1'><head>SCÈNE I. Pasquin, Marforio. </head>
+<div1 type="act" n='1'><head>ACTE II</head>
+<div2 type="scene" n='1'><head>SCÃˆNE I. Pasquin, Marforio. </head>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <p id='1'>
-	<s id='1'>Voyons un peu les Pasquinades qu'on a affichées à notre porte ce matin. </s>
+	<s id='1'>Voyons un peu les Pasquinades qu'on a affichÃ©es Ã  notre porte ce matin. </s>
 </p>
 </sp>
 <sp who='MARFORIO'><speaker>MARFORIO.</speaker>
@@ -773,85 +773,85 @@
 <stage>Il lit. </stage>
 	<l id='186'>Pourquoi cet homme d'importance, </l>
 	<l id='187'>Superbe et bouffi d'arrogance, </l>
-	<l id='188'>Fait-il si bien claquet son fouet ? </l>
+	<l id='188'>Fait-il si bien claquet son fouetÂ ? </l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN lit. </speaker>
 	<l id='189'>C'est qu'il est fils d'un Cochet fort adroit.</l>
 </sp>
 <sp who='MARFORIO'><speaker>MARFORIO lit. </speaker>
-	<l id='190'>Pourquoi la jeune Lingère, </l>
+	<l id='190'>Pourquoi la jeune LingÃ¨re, </l>
 	<l id='191'>Sans Rudiment ni Grammaire, </l>
-	<l id='192'>Apprend-elle à parler Flamand, </l>
-	<l id='193'>Italien, Suisse, Allemand ? </l>
-	<l id='194'>Dis-nous quel est son manège. </l>
+	<l id='192'>Apprend-elle Ã  parler Flamand, </l>
+	<l id='193'>Italien, Suisse, AllemandÂ ? </l>
+	<l id='194'>Dis-nous quel est son manÃ¨ge. </l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN lit. </speaker>
-	<l id='195'>La friponne pendant les récréations </l>
-	<l id='196'>Étudie au collège </l>
+	<l id='195'>La friponne pendant les rÃ©crÃ©ations </l>
+	<l id='196'>Ã‰tudie au collÃ¨ge </l>
 	<l id='197'>Des quatre Nations.</l>
 </sp>
 <sp who='MARFORIO'><speaker>MARFORIO lit. </speaker>
-<note type="L">Garde-notes : qualité que se donnent les Notaires, et qui veut dire, gardant les minutes et originaux des actes. [R]</note>
+<note type="L">Garde-notes : qualitÃ© que se donnent les Notaires, et qui veut dire, gardant les minutes et originaux des actes. [R]</note>
 	<l id='198'>Pourquoi ce garde-notes a-t-il fait de grands gains, </l>
-<note type="L">Débauche : être en débauche, se livrer à quelques excès ou parties de table. [L]</note>
-	<l id='199'>Quoiqu'il soit toujours en débauche ? </l>
+<note type="L">DÃ©bauche : Ãªtre en dÃ©bauche, se livrer Ã  quelques excÃ¨s ou parties de table. [L]</note>
+	<l id='199'>Quoiqu'il soit toujours en dÃ©baucheÂ ? </l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN lit. </speaker>
-	<l id='200'>C'est qu'il signe à droit et à gauche, </l>
-	<l id='201'>Et sait écrire des deux mains. </l>
+	<l id='200'>C'est qu'il signe Ã  droit et Ã  gauche, </l>
+	<l id='201'>Et sait Ã©crire des deux mains. </l>
 </sp>
 <sp who='MARFORIO'><speaker>MARFORIO lit. </speaker>
 	<l id='202'>Pourquoi ce gros Caissier, qui chemine avec peine, </l>
-	<l id='203'>Pour charger de lauriers son ancien écusson, </l>
-	<l id='204'>En ôte-t-il et le gland et le chêne ? </l>
+	<l id='203'>Pour charger de lauriers son ancien Ã©cusson, </l>
+	<l id='204'>En Ã´te-t-il et le gland et le chÃªneÂ ? </l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN lit. </speaker>
 	<l id='205'>C'est qu'il est trop gras, le cochon. </l>
 </sp>
 <sp who='MARFORIO'><speaker>MARFORIO lit. </speaker>
-	<l id='206'>Pourquoi cette beauté charmante, </l>
-	<l id='207'>Cherchant l'épouseur qui la fuit, </l>
-<note type="L">Pierre d'attente : On appelle Pierres d'attente, certaines pierres avancées alternativement à l'extremité d'un mur, pour en faire la liaison avec celui qu'on a dessein de bâtir auprés. On le dit aussi au figuré, quand on laisse des marques d'un ouvrage, d'un dessein qu'on a entrepris, et qu'on n'a encore executé qu'à demi. [F]</note>
-	<l id='208'>Languit-elle d'ennui d'être pierre d'attente ? </l>
+	<l id='206'>Pourquoi cette beautÃ© charmante, </l>
+	<l id='207'>Cherchant l'Ã©pouseur qui la fuit, </l>
+<note type="L">Pierre d'attente : On appelle Pierres d'attente, certaines pierres avancÃ©es alternativement Ã  l'extremitÃ© d'un mur, pour en faire la liaison avec celui qu'on a dessein de bÃ¢tir auprÃ©s. On le dit aussi au figurÃ©, quand on laisse des marques d'un ouvrage, d'un dessein qu'on a entrepris, et qu'on n'a encore executÃ© qu'Ã  demi. [F]</note>
+	<l id='208'>Languit-elle d'ennui d'Ãªtre pierre d'attenteÂ ? </l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN lit. </speaker>
-	<l id='209'>On voit sécher sur pied la plante </l>
-	<l id='210'>Qui trop jeune a porté du fruit. </l>
+	<l id='209'>On voit sÃ©cher sur pied la plante </l>
+	<l id='210'>Qui trop jeune a portÃ© du fruit. </l>
 </sp>
 </div2>
-<div2 type='scene' n='2'><head>SCÈNE II. Octave, Léandre, Pasquin, Marforio. </head>
+<div2 type="scene" n='2'><head>SCÃˆNE II. Octave, LÃ©andre, Pasquin, Marforio. </head>
 <sp who='OCTAVE'><speaker>OCTAVE.</speaker>
 <p id='1'>
-	<s id='1'>Hé bien, mon pauvre Pasquin, songeras-tu à nos affaires ? </s>
+	<s id='1'>HÃ© bien, mon pauvre Pasquin, songeras-tu Ã  nos affairesÂ ? </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <p id='2'>
-	<s id='1'>Nous vous servirons mon camarade et moi, pourvu que vous ne nous obligiez pas à sortir de notre caractère. </s>
-	<s id='2'>S'il s'agit de découvrir les vices cachés, d'en faire trouver même où il n'y en a point, d'estropier la sagesse, et de redresser la folie, nous sommes vos gens. </s>
+	<s id='1'>Nous vous servirons mon camarade et moi, pourvu que vous ne nous obligiez pas Ã  sortir de notre caractÃ¨re. </s>
+	<s id='2'>S'il s'agit de dÃ©couvrir les vices cachÃ©s, d'en faire trouver mÃªme oÃ¹ il n'y en a point, d'estropier la sagesse, et de redresser la folie, nous sommes vos gens. </s>
 </p>
 </sp>
-<sp who='LÉANDRE'><speaker>LÉANDRE.</speaker>
+<sp who='LÃ‰ANDRE'><speaker>LÃ‰ANDRE.</speaker>
 <p id='3'>
 	<s id='1'>Il ne s'agit que de cela. </s>
 	<s id='2'>Par exemple, il faut redresser la folie du vieux Docteur qui ne veut point marier sa fille. </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
-<note type="L">Pasquiniser : Faire des pasquinades, des satyres, et Marforiser. Censurer son prochain, médire du tiers et du quart, à l'exemple de Marforio. Ces mots sont absolument factices. [T] </note>
+<note type="L">Pasquiniser : Faire des pasquinades, des satyres, et Marforiser. Censurer son prochain, mÃ©dire du tiers et du quart, Ã  l'exemple de Marforio. Ces mots sont absolument factices. [T] </note>
 <p id='4'>
-	<s id='1'>Pasquinisons là-dessus.</s>
+	<s id='1'>Pasquinisons lÃ -dessus.</s>
 </p>
-	<l id='211'>À deux ou trois Dcteurs j'ai dit plus de cent fois, </l>
-	<l id='212'>Qu'il faut sans différer conclure l'Hyménée </l>
-	<l id='213'>D'une fille à friand minois. </l>
-	<l id='214'>Pour un époux complet qu'on refuse à son choix, </l>
-	<l id='215'>On la trouve souvent à demi mariée </l>
-	<l id='216'>À deux ou trois. </l>
+	<l id='211'>Ã€ deux ou trois Dcteurs j'ai dit plus de cent fois, </l>
+	<l id='212'>Qu'il faut sans diffÃ©rer conclure l'HymÃ©nÃ©e </l>
+	<l id='213'>D'une fille Ã  friand minois. </l>
+	<l id='214'>Pour un Ã©poux complet qu'on refuse Ã  son choix, </l>
+	<l id='215'>On la trouve souvent Ã  demi mariÃ©e </l>
+	<l id='216'>Ã€ deux ou trois. </l>
 </sp>
 <sp who='OCTAVE'><speaker>OCTAVE.</speaker>
 <p id='5'>
-	<s id='1'>Ce même Docteur est entêté d'un Gentilhomme de campagne, qu'il me préfère, à moi qui ne me pique point du tout de noblesse. </s>
+	<s id='1'>Ce mÃªme Docteur est entÃªtÃ© d'un Gentilhomme de campagne, qu'il me prÃ©fÃ¨re, Ã  moi qui ne me pique point du tout de noblesse. </s>
 </p>
 </sp>
 <sp who='MARFORIO'><speaker>MARFORIO.</speaker>
@@ -859,7 +859,7 @@
 	<s id='1'>Marforisons.</s>
 </p>
 <stage>Il chante. </stage>
-	<l id='217'>Noblesse n'est que vétille, </l>
+	<l id='217'>Noblesse n'est que vÃ©tille, </l>
 	<l id='218'>Jean Gille, Gille joli Jean, </l>
 	<l id='219'>Un Roturier pour la fille, </l>
 	<l id='220'>Jean Gille, Gille joli Gille, </l>
@@ -867,7 +867,7 @@
 	<l id='222'>Joli Jean, Jean Gille, </l>
 	<l id='223'>Gille joli Jean, </l>
 	<l id='224'>Un Roturier pour la fille, </l>
-	<l id='225'>Jean Gille, Gille joli Jean ; </l>
+	<l id='225'>Jean Gille, Gille joli JeanÂ ; </l>
 	<l id='226'>Rend la moisson plus fertile, </l>
 	<l id='227'>Jean Gille, Gille joli Gille, </l>
 	<l id='228'>Gille joli Jean, </l>
@@ -876,24 +876,24 @@
 </sp>
 <sp who='OCTAVE'><speaker>OCTAVE.</speaker>
 <p id='7'>
-	<s id='1'>Angélique que j'aime, est si entêtée de sa beauté, qu'elle ne veut pas m'entendre. </s>
+	<s id='1'>AngÃ©lique que j'aime, est si entÃªtÃ©e de sa beautÃ©, qu'elle ne veut pas m'entendre. </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
-	<l id='231'>Employer ses beaux jours à vaincre des cruelles, </l>
-	<l id='232'>C'est un métier bien ennuyant. </l>
-	<l id='233'>À des soldats poltrons je compare les belles ; </l>
-	<l id='234'>On les fait fuir en courant après elles, </l>
+	<l id='231'>Employer ses beaux jours Ã  vaincre des cruelles, </l>
+	<l id='232'>C'est un mÃ©tier bien ennuyant. </l>
+	<l id='233'>Ã€ des soldats poltrons je compare les bellesÂ ; </l>
+	<l id='234'>On les fait fuir en courant aprÃ¨s elles, </l>
 	<l id='235'>On les attire en les fuyant.</l>
 </sp>
-<sp who='LÉANDRE'><speaker>LÉANDRE.</speaker>
+<sp who='LÃ‰ANDRE'><speaker>LÃ‰ANDRE.</speaker>
 <p id='8'>
-	<s id='1'>Comme le père de Julie hait la musique à mort, j'ai conseillé à sa fille de chanter toujours.</s>
+	<s id='1'>Comme le pÃ¨re de Julie hait la musique Ã  mort, j'ai conseillÃ© Ã  sa fille de chanter toujours.</s>
 </p>
 </sp>
 <sp who='MARFORIO'><speaker>MARFORIO.</speaker>
 <p id='9'>
-	<s id='1'>À moi.</s>
+	<s id='1'>Ã€ moi.</s>
 </p>
 <stage>Il chante. </stage>
 	<l id='236'>Fille qui chante est habile, </l>
@@ -904,31 +904,31 @@
 	<l id='241'>Joli Jean, Jean Gille, </l>
 	<l id='242'>Gille joli Jean, </l>
 	<l id='243'>Fille qui chante est docile, </l>
-	<l id='244'>Jean Gille, Gille joli Jean ; </l>
+	<l id='244'>Jean Gille, Gille joli JeanÂ ; </l>
 	<l id='245'>Mais parfois un peu fragile, </l>
 	<l id='246'>Jean Gille, Gille joli Gille, </l>
 	<l id='247'>Gille joli Jean, </l>
 	<l id='248'>Joli Jean, Jean Gille, </l>
-	<l id='249'>Défiez-vous-en. </l>
+	<l id='249'>DÃ©fiez-vous-en. </l>
 <p id='10'>
-	<s id='1'>Allez, Monsieur Octave, ne vous mettez pas en peine, je vous répons se désabuser Angélique de sa beauté, et de la rendre bien raisonnable là-dessus. </s>
-	<s id='2'>Nous allons nous déguiser mon camarade et moi, et nous agirons comme il faut pour vos intérêts.</s>
+	<s id='1'>Allez, Monsieur Octave, ne vous mettez pas en peine, je vous rÃ©pons se dÃ©sabuser AngÃ©lique de sa beautÃ©, et de la rendre bien raisonnable lÃ -dessus. </s>
+	<s id='2'>Nous allons nous dÃ©guiser mon camarade et moi, et nous agirons comme il faut pour vos intÃ©rÃªts.</s>
 </p>
-<note type="L">Petit-maître : jeune homme qui a de la recherche dans sa parure, et un ton avantageux avec les femmes. [L]</note>
-<stage>Ils sortent ensemble. Scaramouche arrive qui trouve le secret de présenter une lettre à Julie en présence du Docteur. Après qu'ils sont sortis, Pasquin et Marforio arrivent déguisés, l'un en petit-maître, l'autre en Page.</stage>
+<note type="L">Petit-maÃ®tre : jeune homme qui a de la recherche dans sa parure, et un ton avantageux avec les femmes. [L]</note>
+<stage>Ils sortent ensemble. Scaramouche arrive qui trouve le secret de prÃ©senter une lettre Ã  Julie en prÃ©sence du Docteur. AprÃ¨s qu'ils sont sortis, Pasquin et Marforio arrivent dÃ©guisÃ©s, l'un en petit-maÃ®tre, l'autre en Page.</stage>
 </sp>
 </div2>
-<div2 type='scene' n='3'><head>SCÈNE III. Octave, Léandre, Pasquin en Petit Maître, Marforio en Page, Scaramouche, Julie, qui survient. </head>
+<div2 type="scene" n='3'><head>SCÃˆNE III. Octave, LÃ©andre, Pasquin en Petit MaÃ®tre, Marforio en Page, Scaramouche, Julie, qui survient. </head>
 <sp who='OCTAVE'><speaker>OCTAVE.</speaker>
 <p id='1'>
-	<s id='1'>Ah, bonjour, monsieur Pasquin ! </s>
-	<s id='2'>Je suis votre serviteur de toute mon âme.</s>
+	<s id='1'>Ah, bonjour, monsieur PasquinÂ ! </s>
+	<s id='2'>Je suis votre serviteur de toute mon Ã¢me.</s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN lui donnant un coup de pied. </speaker>
 <p id='2'>
 	<s id='1'>Serviteur. </s>
-	<s id='2'>Voilà un échantillon de mon rôle de jeune Seigneur ; je vous aborde moitié caresses tendres, et moitié coups de pied au cul ; j'entre assez bien dans le caractère, comme vous voyez. </s>
+	<s id='2'>VoilÃ  un Ã©chantillon de mon rÃ´le de jeune SeigneurÂ ; je vous aborde moitiÃ© caresses tendres, et moitiÃ© coups de pied au culÂ ; j'entre assez bien dans le caractÃ¨re, comme vous voyez. </s>
 </p>
 </sp>
 <sp who='OCTAVE'><speaker>OCTAVE.</speaker>
@@ -938,29 +938,29 @@
 </sp>
 <sp who='MARFORIO'><speaker>MARFORIO faisant tomber Scaramouche. </speaker>
 <p id='4'>
-	<s id='1'>Excusez ma familiarité impertinente. </s>
-	<s id='2'>Les caresses des petits-maîtres, et les malices des pages sont assez sur le même ton. </s>
+	<s id='1'>Excusez ma familiaritÃ© impertinente. </s>
+	<s id='2'>Les caresses des petits-maÃ®tres, et les malices des pages sont assez sur le mÃªme ton. </s>
 </p>
 </sp>
 <sp who='OCTAVE'><speaker>OCTAVE.</speaker>
 <p id='5'>
 	<s id='1'>Je vous laisse. </s>
-	<s id='2'>Je souffrirais trop des duretés que vous allez dire à Angélique. </s>
+	<s id='2'>Je souffrirais trop des duretÃ©s que vous allez dire Ã  AngÃ©lique. </s>
 	<s id='3'>Adieu.</s>
 </p>
-<stage>Il sort avec Léandre et Scaramouche.</stage>
+<stage>Il sort avec LÃ©andre et Scaramouche.</stage>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <p id='6'>
-	<s id='1'>Oh ça, copions tic pour tic les grimaces des jeunes Seigneurs. </s>
-	<s id='2'>Suis-je bien ainsi ? </s>
-	<s id='3'>Ma figure est-elle assez déréglée ? </s>
+	<s id='1'>Oh Ã§a, copions tic pour tic les grimaces des jeunes Seigneurs. </s>
+	<s id='2'>Suis-je bien ainsiÂ ? </s>
+	<s id='3'>Ma figure est-elle assez dÃ©rÃ©glÃ©eÂ ? </s>
 </p>
 </sp>
 <sp who='MARFORIO'><speaker>MARFORIO.</speaker>
 <p id='7'>
-	<s id='1'>Te voilà assez bien sur tes jambes. </s>
-	<s id='2'>Mais c'est dans un fauteuil ou sur un canapé qu'il faut t'achever de peindre. </s>
+	<s id='1'>Te voilÃ  assez bien sur tes jambes. </s>
+	<s id='2'>Mais c'est dans un fauteuil ou sur un canapÃ© qu'il faut t'achever de peindre. </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
@@ -974,9 +974,9 @@
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
-<note type="L">Cheval fondu : jeu d'enfants dans lequel l'un saute par-dessus l'autre qui a le corps plus ou moins fléchi. [L]</note>
+<note type="L">Cheval fondu : jeu d'enfants dans lequel l'un saute par-dessus l'autre qui a le corps plus ou moins flÃ©chi. [L]</note>
 <p id='10'>
-	<s id='1'>Oh je sais qu'il faut se précipiter sur l'un des bras du fauteuil, comme si on jouait au cheval fondu.</s>
+	<s id='1'>Oh je sais qu'il faut se prÃ©cipiter sur l'un des bras du fauteuil, comme si on jouait au cheval fondu.</s>
 </p>
 <stage>Il se jette sur un bras du fauteuil.</stage>
 </sp>
@@ -988,8 +988,8 @@
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
-<note type="L">Crotter les cornettes : avoir ses chausssures à hauteur ds cornettes de la Dame.</note>
-<note type="L">Cornette : Sorte de coiffure de femme en déshabillé. [L]</note>
+<note type="L">Crotter les cornettes : avoir ses chausssures Ã  hauteur ds cornettes de la Dame.</note>
+<note type="L">Cornette : Sorte de coiffure de femme en dÃ©shabillÃ©. [L]</note>
 <p id='12'>
 	<s id='1'>J'entends. </s>
 	<s id='2'>Il faut avec le bout du pied crotter les cornetttes de la Dame. </s>
@@ -997,54 +997,54 @@
 </sp>
 <sp who='MARFORIO'><speaker>MARFORIO.</speaker>
 <p id='13'>
-	<s id='1'>Débraille-toi. </s>
+	<s id='1'>DÃ©braille-toi. </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <p id='14'>
-	<s id='1'>Et où est la pudeur ? </s>
+	<s id='1'>Et oÃ¹ est la pudeurÂ ? </s>
 </p>
 </sp>
 <sp who='MARFORIO'><speaker>MARFORIO.</speaker>
-<note type="L">Rigodon : Sorte d'air ; et danse qu'on danse sur cet air là. [FC]</note>
-<note type="L">Courante : pièce de musique, d'une mesure triple ou mouvement ternaire. Elle commence et finit, quand celui qui bat la mesure baisse la main ; au contraire de la sarabande, qui finit ordinairement quand il la lève. C'est la plus commune de toutes les danses qu'on pratique en France, qui se fait d'un temps, d'un pas, d'un balancement, et d'un coupé. [F]</note>
+<note type="L">Rigodon : Sorte d'air ; et danse qu'on danse sur cet air lÃ . [FC]</note>
+<note type="L">Courante : piÃ¨ce de musique, d'une mesure triple ou mouvement ternaire. Elle commence et finit, quand celui qui bat la mesure baisse la main ; au contraire de la sarabande, qui finit ordinairement quand il la lÃ¨ve. C'est la plus commune de toutes les danses qu'on pratique en France, qui se fait d'un temps, d'un pas, d'un balancement, et d'un coupÃ©. [F]</note>
 <p id='15'>
 	<s id='1'>La pudeur est chez les pages. </s>
-	<s id='2'>Jette un côté de ta perruque, fredonne une courante, bats la mesure d'un rigodon, enfonce-toi dans le fauteuil, fais-en une balançoire. </s>
-	<s id='3'>Mais voilà Angélique, je vais lui faire l'ambassade.</s>
+	<s id='2'>Jette un cÃ´tÃ© de ta perruque, fredonne une courante, bats la mesure d'un rigodon, enfonce-toi dans le fauteuil, fais-en une balanÃ§oire. </s>
+	<s id='3'>Mais voilÃ  AngÃ©lique, je vais lui faire l'ambassade.</s>
 </p>
-<stage>À Angélique qui arrive. </stage>
-<note type="L">Ambassade : signifie aussi en termes familiers, un petit message qu'on fait faire par un ami, ou par un domestique pour quelque petite négociation, et particulierement d'amour. [F]</note>
+<stage>Ã€ AngÃ©lique qui arrive. </stage>
+<note type="L">Ambassade : signifie aussi en termes familiers, un petit message qu'on fait faire par un ami, ou par un domestique pour quelque petite nÃ©gociation, et particulierement d'amour. [F]</note>
 <p id='16'>
-	<s id='1'>Madame, votre beauté fait plus de bruit que toutes les cloches de Paris. </s>
-	<s id='2'>Voilà mon Maître, qui est un jeune Seigneur, qui est accouru au carillon de vos charmes.</s>
+	<s id='1'>Madame, votre beautÃ© fait plus de bruit que toutes les cloches de Paris. </s>
+	<s id='2'>VoilÃ  mon MaÃ®tre, qui est un jeune Seigneur, qui est accouru au carillon de vos charmes.</s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='17'>
-	<s id='1'>Je ne puis refuser à sa curiosité le plaisir qu'il se propose en me voyant ; cela me vengera des mépris d'Octave. </s>
-	<s id='2'>Mais se connaît-il en beauté ? </s>
+	<s id='1'>Je ne puis refuser Ã  sa curiositÃ© le plaisir qu'il se propose en me voyantÂ ; cela me vengera des mÃ©pris d'Octave. </s>
+	<s id='2'>Mais se connaÃ®t-il en beautÃ©Â ? </s>
 </p>
 </sp>
 <sp who='MARFORIO'><speaker>MARFORIO.</speaker>
 <p id='18'>
-	<s id='1'>Comment ? </s>
-	<s id='2'>C'est un des plus fins gourmets de beauté qui soit dans le vignoble de la galanterie.</s>
+	<s id='1'>CommentÂ ? </s>
+	<s id='2'>C'est un des plus fins gourmets de beautÃ© qui soit dans le vignoble de la galanterie.</s>
 </p>
-<stage>À Pasquin. </stage>
+<stage>Ã€ Pasquin. </stage>
 <p id='19'>
 	<s id='1'>Allons, Monsieur, saluez Madame. </s>
 </p>
 </sp>
-<sp who='PASQUIN'><speaker>PASQUIN, chantant sans regarder Angélique. </speaker>
+<sp who='PASQUIN'><speaker>PASQUIN, chantant sans regarder AngÃ©lique. </speaker>
 	<l id='250'>Robin ture lure.</l>
-<stage>Regardant Angélique. </stage>
+<stage>Regardant AngÃ©lique. </stage>
 <p id='20'>
-	<s id='1'>Ah : Vous voilà la belle. </s>
+	<s id='1'>AhÂ : Vous voilÃ  la belle. </s>
 </p>
-<stage>À Angélique. </stage>
+<stage>Ã€ AngÃ©lique. </stage>
 <p id='21'>
-	<s id='1'>Page, qu'on lui donne un siège, s'il y en a.</s>
+	<s id='1'>Page, qu'on lui donne un siÃ¨ge, s'il y en a.</s>
 </p>
 </sp>
 <sp who='MARFORIO'><speaker>MARFORIO.</speaker>
@@ -1052,117 +1052,117 @@
 	<s id='1'>Il n'y en a point.</s>
 </p>
 </sp>
-<sp who='PASQUIN'><speaker>PASQUIN à Angélique. </speaker>
+<sp who='PASQUIN'><speaker>PASQUIN Ã  AngÃ©lique. </speaker>
 <p id='23'>
-	<s id='1'>Je vous offrirais bien le mien ; mais vous seriez peut-être assez incivile pour le prendre. </s>
+	<s id='1'>Je vous offrirais bien le mienÂ ; mais vous seriez peut-Ãªtre assez incivile pour le prendre. </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='24'>
-	<s id='1'>Quelle brutalité ! </s>
+	<s id='1'>Quelle brutalitÃ©Â ! </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <p id='25'>
 	<s id='1'>Approchez, approchez, ne faites point tant la timide. </s>
-	<s id='2'>On dit que vous êtes belle ? </s>
+	<s id='2'>On dit que vous Ãªtes belleÂ ? </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='26'>
 	<s id='1'>Je ne puis souffrir plus longtemps son extravagance. </s>
-	<s id='2'>Hélas ! </s>
-	<s id='3'>Les hommes d'aujourd'hui ressemblent à ces décorations de théâtre qui paraissent de loin, et ne sont rien quand on les approche. </s>
+	<s id='2'>HÃ©lasÂ ! </s>
+	<s id='3'>Les hommes d'aujourd'hui ressemblent Ã  ces dÃ©corations de thÃ©Ã¢tre qui paraissent de loin, et ne sont rien quand on les approche. </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <p id='27'>
-	<s id='1'>Quel monologue faites-vous là ? </s>
+	<s id='1'>Quel monologue faites-vous lÃ Â ? </s>
 </p>
-<stage>À Marforio. </stage>
-<note type="L">Poil de souris : Couleur gris de souris, se dit d'un gris argenté.
+<stage>Ã€ Marforio. </stage>
+<note type="L">Poil de souris : Couleur gris de souris, se dit d'un gris argentÃ©.
 Cheval souris, cheval de cette couleur. [L] </note>
 <p id='28'>
-	<s id='1'>Page ? </s>
-	<s id='2'>Le cheval poil de souris souffle-t-il toujours beaucoup ? </s>
+	<s id='1'>PageÂ ? </s>
+	<s id='2'>Le cheval poil de souris souffle-t-il toujours beaucoupÂ ? </s>
 </p>
-<stage>Vers Angélique. </stage>
+<stage>Vers AngÃ©lique. </stage>
 <p id='29'>
-	<s id='1'>Il a une difficulté de respirer qui l'empêche de parler. </s>
-	<s id='2'>C'est une fort bonne bête, je serais fâché qu'il en vînt faute.</s>
+	<s id='1'>Il a une difficultÃ© de respirer qui l'empÃªche de parler. </s>
+	<s id='2'>C'est une fort bonne bÃªte, je serais fÃ¢chÃ© qu'il en vÃ®nt faute.</s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='30'>
 	<s id='1'>Je n'y puis rien comprendre. </s>
-	<s id='2'>Vous êtes venu ici pour me voir ; ma beauté dont on vous a parlé vous y a attiré : ne saurais-je point comment vous me trouver ? </s>
+	<s id='2'>Vous Ãªtes venu ici pour me voirÂ ; ma beautÃ© dont on vous a parlÃ© vous y a attirÃ©Â : ne saurais-je point comment vous me trouverÂ ? </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
-<note type="L">Atomiser : Faire l'anatomie. Il se dit tant au propre qu'au figuré, d'un corps, d'une affaire, d'un ouvrage. [F]</note>
+<note type="L">Atomiser : Faire l'anatomie. Il se dit tant au propre qu'au figurÃ©, d'un corps, d'une affaire, d'un ouvrage. [F]</note>
 <p id='31'>
-	<s id='1'>Ah ! </s>
-	<s id='2'>C'est de cela que vous êtes en peine ? </s>
-	<s id='3'>Anatomisons votre beauté grain pour grain. </s>
-	<s id='4'>Est-ce bien là votre vrai visage. </s>
+	<s id='1'>AhÂ ! </s>
+	<s id='2'>C'est de cela que vous Ãªtes en peineÂ ? </s>
+	<s id='3'>Anatomisons votre beautÃ© grain pour grain. </s>
+	<s id='4'>Est-ce bien lÃ  votre vrai visage. </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='32'>
-	<s id='1'>Mon visage et mon coeur ne sont jamais fardés. </s>
+	<s id='1'>Mon visage et mon coeur ne sont jamais fardÃ©s. </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <p id='33'>
 	<s id='1'>Cela, il n'est pas trop joli. </s>
-	<s id='2'>Page, parcours-moi ce visage-là d'un bout à l'autre, après tu m'en feras le rapport.</s>
+	<s id='2'>Page, parcours-moi ce visage-lÃ  d'un bout Ã  l'autre, aprÃ¨s tu m'en feras le rapport.</s>
 </p>
-<stage>À Angélique. </stage>
+<stage>Ã€ AngÃ©lique. </stage>
 <p id='34'>
-	<s id='1'>Laissez le faire, Madame, il s'y connaît. </s>
+	<s id='1'>Laissez le faire, Madame, il s'y connaÃ®t. </s>
 </p>
-<stage>Marforio après avoir regardé Angélique sous le nez, chante. </stage>
+<stage>Marforio aprÃ¨s avoir regardÃ© AngÃ©lique sous le nez, chante. </stage>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE, à Pasquin.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE, Ã  Pasquin.</speaker>
 <p id='35'>
-	<s id='1'>Mais quoi ? </s>
-	<s id='2'>Ne saurai-je point ce que vous pensez de ma beauté ? </s>
+	<s id='1'>Mais quoiÂ ? </s>
+	<s id='2'>Ne saurai-je point ce que vous pensez de ma beautÃ©Â ? </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <p id='36'>
-	<s id='1'>Quelle fatigue ! </s>
-	<s id='2'>Hé fi, fi ! </s>
-	<s id='3'>Voilà des dents d'un blanc si fade, un petit nez et des narines à dépenser deux livres de tabac par jour. </s>
-	<s id='4'>Hé fi, fi ! </s>
+	<s id='1'>Quelle fatigueÂ ! </s>
+	<s id='2'>HÃ© fi, fiÂ ! </s>
+	<s id='3'>VoilÃ  des dents d'un blanc si fade, un petit nez et des narines Ã  dÃ©penser deux livres de tabac par jour. </s>
+	<s id='4'>HÃ© fi, fiÂ ! </s>
 </p>
 </sp>
 <sp who='MARFORIO'><speaker>MARFORIO.</speaker>
-<note type="L">Piquette : méchant vin qu'on donne aux valets. [F] Ici, il s’agit de la beauté du visage : elle ne vaut rien c’est comme la piquette par rapport au bon vin.</note>
+<note type="L">Piquette : mÃ©chant vin qu'on donne aux valets. [F] Ici, il sÂ’agit de la beautÃ© du visageÂ : elle ne vaut rien cÂ’est comme la piquette par rapport au bon vin.</note>
 <p id='37'>
-	<s id='1'>Ce n'est là que de la piquette. </s>
+	<s id='1'>Ce n'est lÃ  que de la piquette. </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='38'>
-	<s id='1'>Que manque-t-il donc à la proportion de mes traits ? </s>
+	<s id='1'>Que manque-t-il donc Ã  la proportion de mes traitsÂ ? </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <p id='39'>
-	<s id='1'>Je gage que votre nez n'est pas dans le centre de la circonférence de votre visage... </s>
+	<s id='1'>Je gage que votre nez n'est pas dans le centre de la circonfÃ©rence de votre visage... </s>
 	<s id='2'>Page, va me chercher mon compas, pour voir si Madame a toutes les proportions qu'elle s'imagine. </s>
 	<s id='3'>Mais non, cela n'en vaut pas la peine. </s>
 	<s id='4'>Adieu. </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='40'>
-	<s id='1'>Quoi mon air, ma taille, mon visage ?</s>
+	<s id='1'>Quoi mon air, ma taille, mon visageÂ ?</s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN chante en s'en allant. </speaker>
-	<l id='251'>De vos yeux en rond percés </l>
+	<l id='251'>De vos yeux en rond percÃ©s </l>
 	<l id='252'>La caverne est trop obscure, </l>
 	<l id='253'>Et vous avez sous le nez, </l>
 	<l id='254'>Ture lure, </l>
@@ -1172,15 +1172,15 @@ Cheval souris, cheval de cette couleur. [L] </note>
 <sp who='MARFORIO'><speaker>MARFORIO.</speaker>
 <p id='41'>
 	<s id='1'>Il a raison. </s>
-	<s id='2'>Vous ne sauriez pas même assez belle pour un Page.</s>
+	<s id='2'>Vous ne sauriez pas mÃªme assez belle pour un Page.</s>
 </p>
 <stage>Ils s'en vont.</stage>
 </sp>
 </div2>
-<div2 type='scene' n='4'><head>SCÈNE IV. Le Docteur, Julie qui chante toujours. </head>
+<div2 type="scene" n='4'><head>SCÃˆNE IV. Le Docteur, Julie qui chante toujours. </head>
 <sp who='LE-DOCTEUR'><speaker>LE DOCTEUR.</speaker>
 <p id='1'>
-	<s id='1'>Julie, Julie ?</s>
+	<s id='1'>Julie, JulieÂ ?</s>
 </p>
 </sp>
 <sp who='JULIE'><speaker>JULIE en dedans. </speaker>
@@ -1188,49 +1188,49 @@ Cheval souris, cheval de cette couleur. [L] </note>
 </sp>
 <sp who='LE-DOCTEUR'><speaker>LE DOCTEUR.</speaker>
 <p id='2'>
-	<s id='1'>Et où es-tu donc ? </s>
-	<s id='3'>Ne viendras-tu pas ?</s>
+	<s id='1'>Et oÃ¹ es-tu doncÂ ? </s>
+	<s id='3'>Ne viendras-tu pasÂ ?</s>
 </p>
 </sp>
 <sp who='JULIE'><speaker>JULIE en sortant. </speaker>
-	<l id='258'>La la la lire, me voilà. </l>
+	<l id='258'>La la la lire, me voilÃ . </l>
 </sp>
 <sp who='LE-DOCTEUR'><speaker>LE DOCTEUR.</speaker>
 <p id='3'>
-	<s id='1'>Ne t'avais-je pas défendu de parler à Léandre ? </s>
-	<s id='2'>Que lui disais-tu ? </s>
+	<s id='1'>Ne t'avais-je pas dÃ©fendu de parler Ã  LÃ©andreÂ ? </s>
+	<s id='2'>Que lui disais-tuÂ ? </s>
 </p>
 </sp>
 <sp who='JULIE'><speaker>JULIE.</speaker>
-	<l id='259'>Vraiment j'avais à lui dire, la, </l>
+	<l id='259'>Vraiment j'avais Ã  lui dire, la, </l>
 	<l id='260'>La la lire lire la. </l>
 </sp>
 <sp who='LE-DOCTEUR'><speaker>LE DOCTEUR.</speaker>
 <p id='4'>
-	<s id='1'>Quoi tu chanteras toujours, et tu me feras enrager ? </s>
+	<s id='1'>Quoi tu chanteras toujours, et tu me feras enragerÂ ? </s>
 </p>
 </sp>
 <sp who='JULIE'><speaker>JULIE.</speaker>
-	<l id='261'>En tout je cherche à vous plaire, ma </l>
+	<l id='261'>En tout je cherche Ã  vous plaire, ma </l>
 	<l id='262'>La la lire lire la. </l>
 </sp>
 <sp who='LE-DOCTEUR'><speaker>LE DOCTEUR.</speaker>
 <p id='5'>
-	<s id='1'>Écoute, si tu m'échauffes les oreilles, je pourrais bien... </s>
-	<s id='2'>Prends-y garde, mon bras est tout prêt. </s>
+	<s id='1'>Ã‰coute, si tu m'Ã©chauffes les oreilles, je pourrais bien... </s>
+	<s id='2'>Prends-y garde, mon bras est tout prÃªt. </s>
 </p>
 </sp>
 <sp who='JULIE'><speaker>JULIE.</speaker>
-	<l id='263'>La la la frappez, mon père, la </l>
-	<l id='264'>La la lire, me voilà. </l>
+	<l id='263'>La la la frappez, mon pÃ¨re, la </l>
+	<l id='264'>La la lire, me voilÃ . </l>
 </sp>
 <sp who='LE-DOCTEUR'><speaker>LE DOCTEUR.</speaker>
 <p id='6'>
-	<s id='1'>Ouf ! </s>
-	<s id='2'>Tu te fies à ma tendresse paternelle. </s>
-	<s id='3'>Mais, ma chère fille, ne pourrai-je rien obtenir sur toi par la raison ? </s>
-	<s id='4'>Ne sais-tu pas que les Docteurs haïssent autant la Musique, que les Musiciens haïssent la science ? </s>
-	<s id='5'>J'ai beau te questionner, tu me réponds toujours en chantant. </s>
+	<s id='1'>OufÂ ! </s>
+	<s id='2'>Tu te fies Ã  ma tendresse paternelle. </s>
+	<s id='3'>Mais, ma chÃ¨re fille, ne pourrai-je rien obtenir sur toi par la raisonÂ ? </s>
+	<s id='4'>Ne sais-tu pas que les Docteurs haÃ¯ssent autant la Musique, que les Musiciens haÃ¯ssent la scienceÂ ? </s>
+	<s id='5'>J'ai beau te questionner, tu me rÃ©ponds toujours en chantant. </s>
 	<s id='6'>Parle donc, je t'en conjure, parle donc. </s>
 </p>
 </sp>
@@ -1238,57 +1238,57 @@ Cheval souris, cheval de cette couleur. [L] </note>
 	<l id='265'>Ah ne me faites point parler. </l>
 	<l id='266'>Fille qui dit ce qu'elle pense </l>
 	<l id='267'>En dit toujours trop, j'aime mieux chanter, </l>
-	<l id='268'>Une chansonnette est sans conséquence. </l>
+	<l id='268'>Une chansonnette est sans consÃ©quence. </l>
 	<l id='269'>Ah ne me faites point parler. </l>
-	<l id='270'>Si je parlais, je vous dirais peut-être </l>
-	<l id='271'>Que lasse d'être fille, je veux être... </l>
-	<l id='272'>Ah ne me faites point parler !</l>
+	<l id='270'>Si je parlais, je vous dirais peut-Ãªtre </l>
+	<l id='271'>Que lasse d'Ãªtre fille, je veux Ãªtre... </l>
+	<l id='272'>Ah ne me faites point parlerÂ !</l>
 <stage>Elle s'en va. </stage>
 </sp>
 </div2>
-<div2 type='scene' n='5'><head>SCÈNE V. Le Docteur, Pierrot, Pasquin. </head>
+<div2 type="scene" n='5'><head>SCÃˆNE V. Le Docteur, Pierrot, Pasquin. </head>
 <sp who='PIERROT'><speaker>PIERROT.</speaker>
 <p id='1'>
-	<s id='1'>Monsieur, voilà la noblesse de votre gendre futur, qui demande à vous parler.</s>
+	<s id='1'>Monsieur, voilÃ  la noblesse de votre gendre futur, qui demande Ã  vous parler.</s>
 </p>
 </sp>
 <sp who='LE-DOCTEUR'><speaker>LE DOCTEUR.</speaker>
 <p id='2'>
-	<s id='1'>Ah j'entends, c'est le Généalogiste que mon Gendre m'envoie. </s>
+	<s id='1'>Ah j'entends, c'est le GÃ©nÃ©alogiste que mon Gendre m'envoie. </s>
 	<s id='2'>Fais-le entrer.</s>
 </p>
 </sp>
 <sp who='PIERROT'><speaker>PIERROT.</speaker>
 <p id='3'>
-	<s id='1'>Entrez, Monsieur le Généalogiste. </s>
+	<s id='1'>Entrez, Monsieur le GÃ©nÃ©alogiste. </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
-<note type="L">Radoubeur : ouvrier qui radoube. On l'appelle plus ordinairement Calfat, ou Calfateur. [F] Ici, c’est quelqu’un qui arrange les généalogies au gré du client, pour qu’ils puissent justifier d’un titre de noblesse.</note>
-<note type="L">Corroyer : préparer le cuir pour les divers usages auxquels il est destiné. Corroyer des peaux, des cuirs.</note>
+<note type="L">Radoubeur : ouvrier qui radoube. On l'appelle plus ordinairement Calfat, ou Calfateur. [F] Ici, cÂ’est quelquÂ’un qui arrange les gÃ©nÃ©alogies au grÃ© du client, pour quÂ’ils puissent justifier dÂ’un titre de noblesse.</note>
+<note type="L">Corroyer : prÃ©parer le cuir pour les divers usages auxquels il est destinÃ©. Corroyer des peaux, des cuirs.</note>
 <p id='4'>
-	<s id='1'>Je suis, Monsieur, un radoubeur de noble, qui sait calfeutrer les crevasses que les alliances roturières ont fait dans les familles. </s>
-	<s id='2'>Je suis un jardinier qui greffe sur un sauvageon des branches nobles, et je sais me servir si adroitement des avantages de ma science, que sur un parchemin nouvellement corroyé, je fais paraître des titres datés de la veille du déluge.</s>
+	<s id='1'>Je suis, Monsieur, un radoubeur de noble, qui sait calfeutrer les crevasses que les alliances roturiÃ¨res ont fait dans les familles. </s>
+	<s id='2'>Je suis un jardinier qui greffe sur un sauvageon des branches nobles, et je sais me servir si adroitement des avantages de ma science, que sur un parchemin nouvellement corroyÃ©, je fais paraÃ®tre des titres datÃ©s de la veille du dÃ©luge.</s>
 </p>
 </sp>
 <sp who='LE-DOCTEUR'><speaker>LE DOCTEUR.</speaker>
 <p id='5'>
-	<s id='1'>Je suis persuadé de votre capacité. </s>
-	<s id='2'>Mais Monsieur, il y a fort longtemps que j'aie la démangeaison d'être noble, combien me coûterait une noblesse de votre façon, dont vous feriez la généalogie ? </s>
+	<s id='1'>Je suis persuadÃ© de votre capacitÃ©. </s>
+	<s id='2'>Mais Monsieur, il y a fort longtemps que j'aie la dÃ©mangeaison d'Ãªtre noble, combien me coÃ»terait une noblesse de votre faÃ§on, dont vous feriez la gÃ©nÃ©alogieÂ ? </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <note type="L">Pistole : Voici la correspondance entre les monnaies: 
-1 écu = 3 francs. 
-1 écu = 3 livres tournois. 
+1 Ã©cu = 3 francs. 
+1 Ã©cu = 3 livres tournois. 
 1 livre tournois = 20 sols. 
 1 sol (sou)= 4 liards ou 12 deniers. 
 1 liard = 3 deniers. 
 1 pistole = 10 francs ou 10 livres tournois. 
 1 blanc = 5 deniers.
 1 petit sesterce romain = 18 deniers tournois. 
-1 grand sesterce romain = 1.000 petis sesterces, (25 écus environ). 
-1 louis d’or = 11 livres. 
+1 grand sesterce romain = 1.000 petis sesterces, (25 Ã©cus environ). 
+1 louis dÂ’or = 11 livres. 
 </note>
 <p id='6'>
 	<s id='1'>Pour trente pistoles je vous rendrai noble comme le grand Turc.</s>
@@ -1296,40 +1296,40 @@ Cheval souris, cheval de cette couleur. [L] </note>
 </sp>
 <sp who='LE-DOCTEUR'><speaker>LE DOCTEUR.</speaker>
 <p id='7'>
-	<s id='1'>C'est bien de l'argent, Monsieur, vos généalogies sont bien chères.</s>
+	<s id='1'>C'est bien de l'argent, Monsieur, vos gÃ©nÃ©alogies sont bien chÃ¨res.</s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <p id='8'>
-	<s id='1'>Mais elles sont chères à proportion de l'étoffe qu'on y met. </s>
-	<s id='2'>En cas d'ancêtres, les plus anciens sont les meilleurs. </s>
+	<s id='1'>Mais elles sont chÃ¨res Ã  proportion de l'Ã©toffe qu'on y met. </s>
+	<s id='2'>En cas d'ancÃªtres, les plus anciens sont les meilleurs. </s>
 </p>
 </sp>
 <sp who='PIERROT'><speaker>PIERROT.</speaker>
 <p id='9'>
-	<s id='1'>Oh, point d'ancienneté, nous ne voulons rien qui soit à la vieille mode. </s>
+	<s id='1'>Oh, point d'anciennetÃ©, nous ne voulons rien qui soit Ã  la vieille mode. </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <p id='10'>
-	<s id='1'>Je ferai entrer dans votre Généalogie douze Sénateurs Romains à un Louis d'or par tête. </s>
-	<s id='2'>Vous voyez bien que des Sénateurs ne peuvent pas moins payer.</s>
+	<s id='1'>Je ferai entrer dans votre GÃ©nÃ©alogie douze SÃ©nateurs Romains Ã  un Louis d'or par tÃªte. </s>
+	<s id='2'>Vous voyez bien que des SÃ©nateurs ne peuvent pas moins payer.</s>
 </p>
 </sp>
 <sp who='LE-DOCTEUR'><speaker>LE DOCTEUR.</speaker>
 <p id='11'>
-	<s id='1'>Ne pourriez-vous pas, à cause que je suis un Docteur... </s>
+	<s id='1'>Ne pourriez-vous pas, Ã  cause que je suis un Docteur... </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <p id='12'>
-	<s id='1'>Je n'en puis rien rabattre, si vous voulez une Généalogie neuve. </s>
+	<s id='1'>Je n'en puis rien rabattre, si vous voulez une GÃ©nÃ©alogie neuve. </s>
 </p>
 </sp>
 <sp who='PIERROT'><speaker>PIERROT.</speaker>
 <p id='13'>
-	<s id='1'>Oh neuve, neuve ! </s>
-	<s id='2'>Quand elle ne serait que retournée, elle serait assez bonne pour un Médecin.</s>
+	<s id='1'>Oh neuve, neuveÂ ! </s>
+	<s id='2'>Quand elle ne serait que retournÃ©e, elle serait assez bonne pour un MÃ©decin.</s>
 </p>
 </sp>
 <sp who='LE-DOCTEUR'><speaker>LE DOCTEUR.</speaker>
@@ -1339,183 +1339,183 @@ Cheval souris, cheval de cette couleur. [L] </note>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <p id='15'>
-	<s id='1'>Mais pour l'argent que vous m'offrez, on peut vous faire échapper de quelque République morte sans enfants.</s>
+	<s id='1'>Mais pour l'argent que vous m'offrez, on peut vous faire Ã©chapper de quelque RÃ©publique morte sans enfants.</s>
 </p>
 </sp>
 <sp who='LE-DOCTEUR'><speaker>LE DOCTEUR.</speaker>
 <p id='16'>
-	<s id='1'>Oh non, les Républiques sont trop couronnées. Je voudrais quelque chose, là, qui vînt comme un champignon. </s>
+	<s id='1'>Oh non, les RÃ©publiques sont trop couronnÃ©es. Je voudrais quelque chose, lÃ , qui vÃ®nt comme un champignon. </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <p id='17'>
-	<s id='1'>Si à Paris tous les nobles semés sur couche poussaient chacun une branche verte, on irait à l'ombre dans les rues comme dans le bois de Boulogne. </s>
-	<s id='2'>Vous voudriez apparemment quelque Noblesse secrète, dont on n'eût point entendu parler, afin qu'elle fût à couvert de la chronique médisante de Pasquin et de Marforio ? </s>
+	<s id='1'>Si Ã  Paris tous les nobles semÃ©s sur couche poussaient chacun une branche verte, on irait Ã  l'ombre dans les rues comme dans le bois de Boulogne. </s>
+	<s id='2'>Vous voudriez apparemment quelque Noblesse secrÃ¨te, dont on n'eÃ»t point entendu parler, afin qu'elle fÃ»t Ã  couvert de la chronique mÃ©disante de Pasquin et de MarforioÂ ? </s>
 </p>
 </sp>
 <sp who='LE-DOCTEUR'><speaker>LE DOCTEUR.</speaker>
 <p id='1'>
-	<s id='1'>Voilà mon affaire. </s>
+	<s id='1'>VoilÃ  mon affaire. </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <p id='2'>
 	<s id='1'>Entrez dans ma Manufacture. </s>
-	<s id='2'>Je m'en vais vous faire voir tous les Ancêtres de votre Gendre futur.</s>
+	<s id='2'>Je m'en vais vous faire voir tous les AncÃªtres de votre Gendre futur.</s>
 </p>
-<stage>On ouvre, et on voit un Arbre généalogique chargé de plusieurs Médailles qui représentent des Héros.</stage>
+<stage>On ouvre, et on voit un Arbre gÃ©nÃ©alogique chargÃ© de plusieurs MÃ©dailles qui reprÃ©sentent des HÃ©ros.</stage>
 </sp>
-<sp who='LA-GÉNÉALOGIE'><speaker>LA GÉNÉALOGIE s'avance et chante. </speaker>
-	<l id='273'>Dans cet Arbre chargé d'une noble chimère, </l>
+<sp who='LA-GÃ‰NÃ‰ALOGIE'><speaker>LA GÃ‰NÃ‰ALOGIE s'avance et chante. </speaker>
+	<l id='273'>Dans cet Arbre chargÃ© d'une noble chimÃ¨re, </l>
 	<l id='274'>Pourquoi veux-tu fonder ton fabuleux destin </l>
-	<l id='275'>Sur un père incertain, </l>
-	<l id='276'>Sans avoir égard à la mère ? </l>
-	<l id='277'>On connaît mieux ce que l'Arbre produit </l>
+	<l id='275'>Sur un pÃ¨re incertain, </l>
+	<l id='276'>Sans avoir Ã©gard Ã  la mÃ¨reÂ ? </l>
+	<l id='277'>On connaÃ®t mieux ce que l'Arbre produit </l>
 	<l id='278'>Par la branche femelle, </l>
 	<l id='279'>Puisque c'est elle </l>
 	<l id='280'>Qui porte le fruit. </l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <p id='3'>
-	<s id='1'>Vous ne voyez là que l'écorce de cette Généalogie, je vais vous en faire pénétrer le fond.</s>
+	<s id='1'>Vous ne voyez lÃ  que l'Ã©corce de cette GÃ©nÃ©alogie, je vais vous en faire pÃ©nÃ©trer le fond.</s>
 </p>
-<stage>Les Médailles changent et représentent des artisans.</stage>
+<stage>Les MÃ©dailles changent et reprÃ©sentent des artisans.</stage>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <note type="L">Maille : Ce mot signifie quelquefois une monnoie de peu de valeur. [T]</note>
-<note type="L">Double : petite monnaie de cuivre valant deux deniers. Il sert à exagérer la pauvreté. [F]</note>
+<note type="L">Double : petite monnaie de cuivre valant deux deniers. Il sert Ã  exagÃ©rer la pauvretÃ©. [F]</note>
 <p id='4'>
-	<s id='1'>Vous voyez cela ? </s>
-	<s id='2'>La souche de tous ces gens-là, c'est un Pêcheur de harengs.</s>
+	<s id='1'>Vous voyez celaÂ ? </s>
+	<s id='2'>La souche de tous ces gens-lÃ , c'est un PÃªcheur de harengs.</s>
 </p>
-	<l id='281'>Ce pêcheur honnête homme, et sans aucun talent, </l>
-	<l id='282'>Eut un fils vertueux, mais sans maille ni double ; </l>
-	<l id='283'>Ce fils eût été riche et noble à l'avenant, </l>
-	<l id='284'>Si son père eût eu l'art de pêcher en eau trouble. </l>
+	<l id='281'>Ce pÃªcheur honnÃªte homme, et sans aucun talent, </l>
+	<l id='282'>Eut un fils vertueux, mais sans maille ni doubleÂ ; </l>
+	<l id='283'>Ce fils eÃ»t Ã©tÃ© riche et noble Ã  l'avenant, </l>
+	<l id='284'>Si son pÃ¨re eÃ»t eu l'art de pÃªcher en eau trouble. </l>
 <p id='5'>
-	<s id='1'>Tenez voilà Monsieur de l'Escarpin, Maître à Danser. </s>
+	<s id='1'>Tenez voilÃ  Monsieur de l'Escarpin, MaÃ®tre Ã  Danser. </s>
 </p>
 	<l id='285'>Monsieur de l'Escarpin </l>
-	<l id='286'>Trépassa de chagrin </l>
-	<l id='287'>Sur sa trentième année, </l>
-	<l id='288'>Pour avoir été mal payé </l>
-<note type="L">Surrané : qui est d'une année précédente. Un committimus ne vaut rien, quand il est suranné. On le dit aussi de ce qui est vieux, ou passé. [F]</note>
-	<l id='289'>D'une écolière surannée. </l>
-	<l id='290'>Il ne fut jamais marié, </l>
-	<l id='291'>Et s'il ne laissa pas d'avoir grande lignée. </l>
+	<l id='286'>TrÃ©passa de chagrin </l>
+	<l id='287'>Sur sa trentiÃ¨me annÃ©e, </l>
+	<l id='288'>Pour avoir Ã©tÃ© mal payÃ© </l>
+<note type="L">SurranÃ© : qui est d'une annÃ©e prÃ©cÃ©dente. Un committimus ne vaut rien, quand il est surannÃ©. On le dit aussi de ce qui est vieux, ou passÃ©. [F]</note>
+	<l id='289'>D'une Ã©coliÃ¨re surannÃ©e. </l>
+	<l id='290'>Il ne fut jamais mariÃ©, </l>
+	<l id='291'>Et s'il ne laissa pas d'avoir grande lignÃ©e. </l>
 <p id='6'>
-	<s id='1'>À côté c'est Monsieur de Machefer, Forgeron. </s>
+	<s id='1'>Ã€ cÃ´tÃ© c'est Monsieur de Machefer, Forgeron. </s>
 </p>
 	<l id='292'>Ce Forgeron borgne et vilain </l>
 	<l id='293'>D'un cyclope voulait tirer son parentage, </l>
 	<l id='294'>Mais sa femme croyant l'illustrer davantage, </l>
-<note type="C">Vulcain : préside aux feux soûterrains, aux mines et aux métaux. Il étoit fils de Jupiter et de Junon. Il étoit fort laid, ce qui fut cause que son pere le jetta d'un coup de pied du ciel en terre. Cette chûte le rendit boiteux. Il se fit forgeron, et travaillait aux armes des Dieux, et principalement à la foudre de Jupiter. Il épousa Vénus qui lui fut infidèle, et s'abandonna au Dieu Mars. [T]</note>
+<note type="C">Vulcain : prÃ©side aux feux soÃ»terrains, aux mines et aux mÃ©taux. Il Ã©toit fils de Jupiter et de Junon. Il Ã©toit fort laid, ce qui fut cause que son pere le jetta d'un coup de pied du ciel en terre. Cette chÃ»te le rendit boiteux. Il se fit forgeron, et travaillait aux armes des Dieux, et principalement Ã  la foudre de Jupiter. Il Ã©pousa VÃ©nus qui lui fut infidÃ¨le, et s'abandonna au Dieu Mars. [T]</note>
 	<l id='295'>Le fit descendre de Vulcain. </l>
 <p id='7'>
 	<s id='1'>Celui que vous voyez plus bas, c'est Monsieur Rafle Procureur. </s>
 </p>
-	<l id='296'>Ce Doyen à quatre-vingt ans </l>
-	<l id='297'>Voulut tâter du mariage ; </l>
+	<l id='296'>Ce Doyen Ã  quatre-vingt ans </l>
+	<l id='297'>Voulut tÃ¢ter du mariageÂ ; </l>
 	<l id='298'>L'Histoire nous apprend que sa femme fut sage, </l>
 	<l id='299'>Cependant il eut quatre enfants, </l>
-	<l id='300'>Qui n'étaient presque pas parents. </l>
+	<l id='300'>Qui n'Ã©taient presque pas parents. </l>
 <p id='8'>
-	<s id='1'>Voilà Monsieur du Meurtre, Médecin. </s>
+	<s id='1'>VoilÃ  Monsieur du Meurtre, MÃ©decin. </s>
 </p>
 	<l id='301'>Ce Docteur qui savait l'art de donner la mort, </l>
 	<l id='302'>D'engendrer des enfants n'eut pas la moindre envie, </l>
-	<l id='303'>Ne croyant pas qu'il fût de son ressort </l>
-	<l id='304'>De donner à quelqu'un la vie. </l>
+	<l id='303'>Ne croyant pas qu'il fÃ»t de son ressort </l>
+	<l id='304'>De donner Ã  quelqu'un la vie. </l>
 </sp>
 <sp who='LE-DOCTEUR'><speaker>LE DOCTEUR.</speaker>
 <p id='9'>
-	<s id='1'>Mais Monsieur, qui est ce visage efféminé tout au milieu ? </s>
+	<s id='1'>Mais Monsieur, qui est ce visage effÃ©minÃ© tout au milieuÂ ? </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
-<note type="L">Voix claire : chanteur castrat, qui tait très en vogaues au XVI et XVIIème siècle.</note>
+<note type="L">Voix claire : chanteur castrat, qui tait trÃ¨s en vogaues au XVI et XVIIÃ¨me siÃ¨cle.</note>
 <p id='10'>
-	<s id='1'>C'est un musicien italien à voix claire. </s>
-	<s id='2'>Or vous savez que les musiciens italiens à voix claire sont l'écueil des généalogies. </s>
-	<s id='3'>Je vais le faire avancer, et il vous chantera sa Généalogie lui-même.</s>
+	<s id='1'>C'est un musicien italien Ã  voix claire. </s>
+	<s id='2'>Or vous savez que les musiciens italiens Ã  voix claire sont l'Ã©cueil des gÃ©nÃ©alogies. </s>
+	<s id='3'>Je vais le faire avancer, et il vous chantera sa GÃ©nÃ©alogie lui-mÃªme.</s>
 </p>
 </sp>
-<sp who='MARFORIO'><speaker>MARFORIO, sort d'une Médaille, et chante. </speaker>
-	<l id='305'>Mon père était fils </l>
-	<l id='306'>D'un père qui fut fils </l>
-	<l id='307'>D'un père, </l>
+<sp who='MARFORIO'><speaker>MARFORIO, sort d'une MÃ©daille, et chante. </speaker>
+	<l id='305'>Mon pÃ¨re Ã©tait fils </l>
+	<l id='306'>D'un pÃ¨re qui fut fils </l>
+	<l id='307'>D'un pÃ¨re, </l>
 	<l id='308'>Qui fut tant ingrat, </l>
-	<l id='309'>Qu'il ne voulut pas être père </l>
+	<l id='309'>Qu'il ne voulut pas Ãªtre pÃ¨re </l>
 	<l id='310'>Par un Contrat. </l>
-	<l id='311'>Ma mère était fille </l>
+	<l id='311'>Ma mÃ¨re Ã©tait fille </l>
 	<l id='312'>De la fille d'une fille, </l>
-	<l id='313'>Qui chérissait si fort </l>
-	<l id='314'>L'honneur d'être fille </l>
+	<l id='313'>Qui chÃ©rissait si fort </l>
+	<l id='314'>L'honneur d'Ãªtre fille </l>
 	<l id='315'>Qu'elle fut fille </l>
-	<l id='316'>Jusqu'à la mort. </l>
+	<l id='316'>Jusqu'Ã  la mort. </l>
 </sp>
 </div2>
 </div1>
 <div1 type='' n='3'><head>ACTE III</head>
-<div2 type='scene' n='1'><head>SCÈNE I. Angélique, Pasquin, Marforio. </head>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<div2 type="scene" n='1'><head>SCÃˆNE I. AngÃ©lique, Pasquin, Marforio. </head>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='1'>
-	<s id='1'>Vous passez pour gens si fins et si connaisseurs, qu'on peut se croire sans défauts, quand on a échappé aux traits de votre satire. </s>
-	<s id='2'>J'ai eu jusqu'à présent tant d'aversion pour les hommes, que je n'ai pu me résoudre à épouser un gentilhomme que mon père m'a proposé. </s>
+	<s id='1'>Vous passez pour gens si fins et si connaisseurs, qu'on peut se croire sans dÃ©fauts, quand on a Ã©chappÃ© aux traits de votre satire. </s>
+	<s id='2'>J'ai eu jusqu'Ã  prÃ©sent tant d'aversion pour les hommes, que je n'ai pu me rÃ©soudre Ã  Ã©pouser un gentilhomme que mon pÃ¨re m'a proposÃ©. </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <p id='2'>
-	<s id='1'>C'est-à-dire que vous êtes encore fille ? </s>
-	<s id='2'>Tant pis, c'est le plus méchant métier qu'on puisse faire à votre âge.</s>
+	<s id='1'>C'est-Ã -dire que vous Ãªtes encore filleÂ ? </s>
+	<s id='2'>Tant pis, c'est le plus mÃ©chant mÃ©tier qu'on puisse faire Ã  votre Ã¢ge.</s>
 </p>
-	<l id='317'>La moitié tout au moins des filles de nos jours, </l>
-	<l id='318'>Sont des espèces altérées, </l>
+	<l id='317'>La moitiÃ© tout au moins des filles de nos jours, </l>
+	<l id='318'>Sont des espÃ¨ces altÃ©rÃ©es, </l>
 	<l id='319'>Qui ne laissent pas d'avoir cours, </l>
-	<l id='320'>Quoiqu'elles soient souvent rognées. </l>
+	<l id='320'>Quoiqu'elles soient souvent rognÃ©es. </l>
 </sp>
 <sp who='MARFORIO'><speaker>MARFORIO.</speaker>
 <p id='3'>
-	<s id='1'>Il y a bien de cette fausse monnaie-là, qu'on donne en mariage pour de bon argent comptant. </s>
+	<s id='1'>Il y a bien de cette fausse monnaie-lÃ , qu'on donne en mariage pour de bon argent comptant. </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='4'>
-	<s id='1'>Vous êtes si éclairés, vous avez tant d'esprit, et vous dites les choses si galamment... </s>
+	<s id='1'>Vous Ãªtes si Ã©clairÃ©s, vous avez tant d'esprit, et vous dites les choses si galamment... </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
-<note type="L">Confuser : mot inventé pour dire : vous me rendez confus.</note>
-<note type="L">Vermillonner : Mettre une couleur de vermillon sur une pièce dorée et brunie. Rendre rouge comme du vermillon. [L]</note>
+<note type="L">Confuser : mot inventÃ© pour direÂ : vous me rendez confus.</note>
+<note type="L">Vermillonner : Mettre une couleur de vermillon sur une piÃ¨ce dorÃ©e et brunie. Rendre rouge comme du vermillon. [L]</note>
 <p id='5'>
-	<s id='1'>Ah Madame ! </s>
-	<s id='2'>Vous me confusez, vous me vermillonnez les joues, vous me mettez de la litière jusqu'au ventre. </s>
+	<s id='1'>Ah MadameÂ ! </s>
+	<s id='2'>Vous me confusez, vous me vermillonnez les joues, vous me mettez de la litiÃ¨re jusqu'au ventre. </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='6'>
-	<s id='1'>Enseignez-moi de grâce le secret de plaire et de paraître aimable. </s>
+	<s id='1'>Enseignez-moi de grÃ¢ce le secret de plaire et de paraÃ®tre aimable. </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 	<l id='321'>Fi donc je ne veux pas </l>
-	<l id='322'>Découvrir le secret qui sonne des appas, </l>
+	<l id='322'>DÃ©couvrir le secret qui sonne des appas, </l>
 	<l id='323'>Il vous ferait ma foi trop rire. </l>
-	<l id='324'>Cependant je veux bien vous le dire tout bas ! </l>
-	<l id='325'>Pour plaire il ne faut jamais dire : </l>
+	<l id='324'>Cependant je veux bien vous le dire tout basÂ ! </l>
+	<l id='325'>Pour plaire il ne faut jamais direÂ : </l>
 	<l id='326'>Fi donc je ne veux pas.</l>
 </sp>
 <sp who='MARFORIO'><speaker>MARFORIO.</speaker>
 <p id='7'>
-	<s id='1'>En effet la coquetterie pour plaire est plus utile que la beauté, et je vous le prouve.</s>
+	<s id='1'>En effet la coquetterie pour plaire est plus utile que la beautÃ©, et je vous le prouve.</s>
 </p>
 <stage>Il chante. </stage>
-	<l id='327'>Mère dont la fille est jeunette, </l>
+	<l id='327'>MÃ¨re dont la fille est jeunette, </l>
 	<l id='328'>Et qui veut la landerira, </l>
 	<l id='329'>Qui veut voir sa fortune faite, </l>
 	<l id='330'>Dont un peu la, landerirette, </l>
 	<l id='331'>Dont un peu la, landerira, </l>
-	<l id='332'>Doit un peu la rendre coquette : </l>
+	<l id='332'>Doit un peu la rendre coquetteÂ : </l>
 	<l id='333'>Car avec la, landerira, </l>
 	<l id='334'>Avec la vertu la plus nette, </l>
 	<l id='335'>Il faut de la , landerirette, </l>
@@ -1532,7 +1532,7 @@ Cheval souris, cheval de cette couleur. [L] </note>
 	<l id='345'>Finissons, la landerirette, </l>
 	<l id='346'>Finissons, la landerira. </l>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='8'>
 	<s id='1'>Et bien, s'il ne faut que de la coquetterie pour plaire, je deviendrai coquette. </s>
 </p>
@@ -1542,66 +1542,66 @@ Cheval souris, cheval de cette couleur. [L] </note>
 	<s id='1'>Oh oui, il faut un peu de landerira. </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='10'>
-	<s id='1'>Mais de grâce dites-moi comment vous me trouvez ? </s>
+	<s id='1'>Mais de grÃ¢ce dites-moi comment vous me trouvezÂ ? </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <p id='11'>
-	<s id='1'>Nous ne saurions vous rien dire là-dessus, mais nous allons vous montrer des glaces qui ne flattent point. Holà, ho, qu'on apporte un miroir.</s>
+	<s id='1'>Nous ne saurions vous rien dire lÃ -dessus, mais nous allons vous montrer des glaces qui ne flattent point. HolÃ , ho, qu'on apporte un miroir.</s>
 </p>
-<stage>On apporte un grand Miroir, Angélique s'y voit fort laide, et s'en va toute fâchée. </stage>
+<stage>On apporte un grand Miroir, AngÃ©lique s'y voit fort laide, et s'en va toute fÃ¢chÃ©e. </stage>
 </sp>
 </div2>
-<div2 type='scene' n='2'><head>SCÈNE II. Pierrot, le Docteur. </head>
+<div2 type="scene" n='2'><head>SCÃˆNE II. Pierrot, le Docteur. </head>
 <sp who='PIERROT'><speaker>PIERROT.</speaker>
 <p id='1'>
-	<s id='1'>Monsieur réjouissez-vous, vous n'aviez qu'une fille folle ; à présent vous avez deux filles et une nièce qui ont perdu l'esprit. </s>
-	<s id='2'>Cela fera bien la symétrie avec vous.</s>
+	<s id='1'>Monsieur rÃ©jouissez-vous, vous n'aviez qu'une fille folleÂ ; Ã  prÃ©sent vous avez deux filles et une niÃ¨ce qui ont perdu l'esprit. </s>
+	<s id='2'>Cela fera bien la symÃ©trie avec vous.</s>
 </p>
 </sp>
 <sp who='LE-DOCTEUR'><speaker>LE DOCTEUR.</speaker>
 <p id='2'>
-	<s id='1'>Comment donc, ma nièce est devenue folle ? </s>
+	<s id='1'>Comment donc, ma niÃ¨ce est devenue folleÂ ? </s>
 </p>
 </sp>
 <sp who='PIERROT'><speaker>PIERROT.</speaker>
 <p id='3'>
-	<s id='1'>Oui, Monsieur, elle cherche partout un certain Pasquin, qui a découvert ses fredaines. </s>
-	<s id='2'>C'est la plus drôle de chose du monde. </s>
-	<s id='3'>Elle se jette à son cou d'un air... et lui dit des douceurs, et puis tout d'un coup elle prend le grand couteau de Cuisine pour le poignarder ; quand elle est dans le poignardement, elle prend votre Robe rouge de Médecin pour le faire mourir plus vite ; en prenant votre Robe de Médecin rouge, elle a trouvé trois mots de Latin dans la doublure, et elle en a fait un Rondeau.</s>
+	<s id='1'>Oui, Monsieur, elle cherche partout un certain Pasquin, qui a dÃ©couvert ses fredaines. </s>
+	<s id='2'>C'est la plus drÃ´le de chose du monde. </s>
+	<s id='3'>Elle se jette Ã  son cou d'un air... et lui dit des douceurs, et puis tout d'un coup elle prend le grand couteau de Cuisine pour le poignarderÂ ; quand elle est dans le poignardement, elle prend votre Robe rouge de MÃ©decin pour le faire mourir plus viteÂ ; en prenant votre Robe de MÃ©decin rouge, elle a trouvÃ© trois mots de Latin dans la doublure, et elle en a fait un Rondeau.</s>
 </p>
 </sp>
 <sp who='LE-DOCTEUR'><speaker>LE DOCTEUR.</speaker>
 <p id='4'>
-	<s id='1'>Comment ferai-je donc ? </s>
+	<s id='1'>Comment ferai-je doncÂ ? </s>
 </p>
 </sp>
 <sp who='PIERROT'><speaker>PIERROT.</speaker>
 <p id='5'>
-	<s id='1'>Et que n'allez-vous consulter Pasquin et Marforio ? </s>
-	<s id='2'>On dit qu'ils guérissent la folie, vous en avez autant de besoin qu'elles. </s>
-	<s id='3'>Tenez, voilà Pasquin qui vient.</s>
+	<s id='1'>Et que n'allez-vous consulter Pasquin et MarforioÂ ? </s>
+	<s id='2'>On dit qu'ils guÃ©rissent la folie, vous en avez autant de besoin qu'elles. </s>
+	<s id='3'>Tenez, voilÃ  Pasquin qui vient.</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='3'><head>SCÈNE III. Pasquin, Pierrot, le Docteur. </head>
-<stage>Pasquin se promène à grands pas sans regarder personne. </stage>
+<div2 type="scene" n='3'><head>SCÃˆNE III. Pasquin, Pierrot, le Docteur. </head>
+<stage>Pasquin se promÃ¨ne Ã  grands pas sans regarder personne. </stage>
 <sp who='LE-DOCTEUR'><speaker>LE DOCTEUR.</speaker>
 <p id='1'>
-	<s id='1'>Monsieur Pasquin, écoutez-moi. </s>
+	<s id='1'>Monsieur Pasquin, Ã©coutez-moi. </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <p id='2'>
-	<s id='1'>Je ne m'appelle plus Pasquin, j'ai changé de nom. </s>
+	<s id='1'>Je ne m'appelle plus Pasquin, j'ai changÃ© de nom. </s>
 </p>
 </sp>
 <sp who='LE-DOCTEUR'><speaker>LE DOCTEUR.</speaker>
 <p id='3'>
-	<s id='1'>Changé de nom ! </s>
-	<s id='2'>Et pourquoi ? </s>
+	<s id='1'>ChangÃ© de nomÂ ! </s>
+	<s id='2'>Et pourquoiÂ ? </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
@@ -1611,27 +1611,27 @@ Cheval souris, cheval de cette couleur. [L] </note>
 </sp>
 <sp who='PIERROT'><speaker>PIERROT.</speaker>
 <p id='5'>
-	<s id='1'>Quoi ? </s>
-	<s id='2'>Le changement de nom fait faire fortune ? </s>
-	<s id='3'>Je vous déclare, Monsieur, que je ne m'appelle plus Pierrot. </s>
+	<s id='1'>QuoiÂ ? </s>
+	<s id='2'>Le changement de nom fait faire fortuneÂ ? </s>
+	<s id='3'>Je vous dÃ©clare, Monsieur, que je ne m'appelle plus Pierrot. </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <p id='6'>
-	<s id='1'>Mortels, faibles mortels, ignorants et superficiels, qui jugez des choses par les noms, des hommes par les habits, et de la seringue pour l'étui.</s>
+	<s id='1'>Mortels, faibles mortels, ignorants et superficiels, qui jugez des choses par les noms, des hommes par les habits, et de la seringue pour l'Ã©tui.</s>
 </p>
 </sp>
 <sp who='LE-DOCTEUR'><speaker>LE DOCTEUR.</speaker>
 <p id='7'>
-	<s id='1'>Voilà bien des moralités à contretemps ! </s>
+	<s id='1'>VoilÃ  bien des moralitÃ©s Ã  contretempsÂ ! </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
-<note type="L">Commission : Charge qu'on done à quelqu'un de faire quelque chose. [FC]</note>
+<note type="L">Commission : Charge qu'on done Ã  quelqu'un de faire quelque chose. [FC]</note>
 <p id='8'>
-	<s id='1'>Que de changements, que de révolutions subites dans la fortune et dans la qualité par le seul changement de nom ! </s>
+	<s id='1'>Que de changements, que de rÃ©volutions subites dans la fortune et dans la qualitÃ© par le seul changement de nomÂ ! </s>
 	<s id='2'>Voyez cette coquette illustre. </s>
-	<s id='3'>Pendant qu'elle s'appelait Toinette, à peine ses charmes naissants lui produisaient-ils de quoi se vêtir d'une simple grisette ; à présent qu'on l'appelle Madame la Marquise de la Bonne-Aventure, la rue des Bourdonnais ne fournit point d'étoffes assez riches pour elle. Elle dispose des emplois ; et tandis que le chien au grand collier est de garde chez elle, elle ne laisse pas d'écouter les petits aboyants buralistes et de les employer par commissions. </s>
+	<s id='3'>Pendant qu'elle s'appelait Toinette, Ã  peine ses charmes naissants lui produisaient-ils de quoi se vÃªtir d'une simple grisetteÂ ; Ã  prÃ©sent qu'on l'appelle Madame la Marquise de la Bonne-Aventure, la rue des Bourdonnais ne fournit point d'Ã©toffes assez riches pour elle. Elle dispose des emploisÂ ; et tandis que le chien au grand collier est de garde chez elle, elle ne laisse pas d'Ã©couter les petits aboyants buralistes et de les employer par commissions. </s>
 </p>
 </sp>
 <sp who='LE-DOCTEUR'><speaker>LE DOCTEUR.</speaker>
@@ -1640,60 +1640,60 @@ Cheval souris, cheval de cette couleur. [L] </note>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
-<note type="L">Grosse : acte de Justice, ou procédures écrites en grosses lettres, qui est opposé à minute, et aux copies qu'on signifie. [F]</note>
-<note type="L">Demi-setier : ancienne mesure de capacité, quart de pinte. Se dit à Paris d'un quart de litre. [L]</note>
+<note type="L">Grosse : acte de Justice, ou procÃ©dures Ã©crites en grosses lettres, qui est opposÃ© Ã  minute, et aux copies qu'on signifie. [F]</note>
+<note type="L">Demi-setier : ancienne mesure de capacitÃ©, quart de pinte. Se dit Ã  Paris d'un quart de litre. [L]</note>
 <p id='10'>
-	<s id='1'>Que dirons-nous de ce rare génie, qui en moins de huit ans a appris l'orthographe, et à écrire la lettre bâtarde. </s>
-	<s id='2'>Tandis qu'il s'appelait Champagne, il se contentait d'un écu, pour écrire cent rôles de grosse dans une antichambre ; à présent qu'on l'appelle Monsieur de la Folle-enchère, on lui donne cent mille écus seulement pour signer son nom ; encore dit-il qu'il y perd, encore dit-il qu'il y perd. </s>
-	<s id='3'>À l'application. </s>
-	<s id='4'>Pendant que je me suis appelé Pasquin, mes Pasquinades m'ont attiré force coups et peu d'argent ; à présent que je me fais appeler le Médecin des Moeurs, je m'assure que toute la France malade va fondre chez moi. </s>
-	<s id='5'>J'ai acheté pour cet effet cinquante pièces de vin de mante, dans lequel je ferai accroire qu'il y a une vertu qui guérit la folie. </s>
-	<s id='6'>La nouveauté de ce remède m'attirera tous les fous du Royaume, et si je suis obligé d'en distribuer un demi-setier à chacun, mes cinquante pièces n'iront pas loin.</s>
+	<s id='1'>Que dirons-nous de ce rare gÃ©nie, qui en moins de huit ans a appris l'orthographe, et Ã  Ã©crire la lettre bÃ¢tarde. </s>
+	<s id='2'>Tandis qu'il s'appelait Champagne, il se contentait d'un Ã©cu, pour Ã©crire cent rÃ´les de grosse dans une antichambreÂ ; Ã  prÃ©sent qu'on l'appelle Monsieur de la Folle-enchÃ¨re, on lui donne cent mille Ã©cus seulement pour signer son nomÂ ; encore dit-il qu'il y perd, encore dit-il qu'il y perd. </s>
+	<s id='3'>Ã€ l'application. </s>
+	<s id='4'>Pendant que je me suis appelÃ© Pasquin, mes Pasquinades m'ont attirÃ© force coups et peu d'argentÂ ; Ã  prÃ©sent que je me fais appeler le MÃ©decin des Moeurs, je m'assure que toute la France malade va fondre chez moi. </s>
+	<s id='5'>J'ai achetÃ© pour cet effet cinquante piÃ¨ces de vin de mante, dans lequel je ferai accroire qu'il y a une vertu qui guÃ©rit la folie. </s>
+	<s id='6'>La nouveautÃ© de ce remÃ¨de m'attirera tous les fous du Royaume, et si je suis obligÃ© d'en distribuer un demi-setier Ã  chacun, mes cinquante piÃ¨ces n'iront pas loin.</s>
 </p>
 </sp>
 <sp who='LE-DOCTEUR'><speaker>LE DOCTEUR.</speaker>
 <p id='11'>
-	<s id='1'>Mais, Monsieur, croyez-vous pouvoir vous établir en si peu de temps ? </s>
+	<s id='1'>Mais, Monsieur, croyez-vous pouvoir vous Ã©tablir en si peu de tempsÂ ? </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <p id='12'>
-	<s id='1'>Bon, il en est des Médecins comme des Almanachs, plus ils sont nouveaux, plus ils sont consultés. </s>
-	<s id='2'>La nouveauté fait la folie des Français. </s>
-	<s id='3'>Ils préfèrent les pois verts aux pois secs, la Gazette nouvelle à la vieille, et les filles de quinze ans aux mères les plus expérimentées. </s>
-	<s id='4'>De Médecin des Moeurs, je prends aujourd'hui le caractère.</s>
+	<s id='1'>Bon, il en est des MÃ©decins comme des Almanachs, plus ils sont nouveaux, plus ils sont consultÃ©s. </s>
+	<s id='2'>La nouveautÃ© fait la folie des FranÃ§ais. </s>
+	<s id='3'>Ils prÃ©fÃ¨rent les pois verts aux pois secs, la Gazette nouvelle Ã  la vieille, et les filles de quinze ans aux mÃ¨res les plus expÃ©rimentÃ©es. </s>
+	<s id='4'>De MÃ©decin des Moeurs, je prends aujourd'hui le caractÃ¨re.</s>
 </p>
 </sp>
 <sp who='LE-DOCTEUR'><speaker>LE DOCTEUR.</speaker>
 <p id='13'>
-	<s id='1'>Monsieur, si vous vouliez commencer par guérir une nièce que j'ai qui est folle. La voilà qui vient.</s>
+	<s id='1'>Monsieur, si vous vouliez commencer par guÃ©rir une niÃ¨ce que j'ai qui est folle. La voilÃ  qui vient.</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='5'><head>SCÈNE IV. Léonor en Médecin, avec une Robe rouge. Le Docteur, Pasquin, Pierrot. </head>
-<note type="C">Phrases latines signifiant : Où fuir ? Je suis Médecin, non une femme. 
+<div2 type="scene" n='5'><head>SCÃˆNE IV. LÃ©onor en MÃ©decin, avec une Robe rouge. Le Docteur, Pasquin, Pierrot. </head>
+<note type="C">Phrases latines signifiantÂ : OÃ¹ fuirÂ ? Je suis MÃ©decin, non une femme. 
 Fuis dans ma chambre. </note>
-<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+<sp who='LÃ‰ONOR'><speaker>LÃ‰ONOR.</speaker>
 <p id='1'>
-	<s id='1'>Quo fugiam ? </s>
+	<s id='1'>Quo fugiamÂ ? </s>
 	<s id='2'>Medicus sum, non foemina. </s>
 </p>
 </sp>
 <sp who='PIERROT'><speaker>PIERROT.</speaker>
 <p id='2'>
-	<s id='1'>Monsieur, voilà le rondeau, guérissez-la.</s>
+	<s id='1'>Monsieur, voilÃ  le rondeau, guÃ©rissez-la.</s>
 </p>
 <stage>Le Docteur et Pierrot s'en vont. </stage>
 </sp>
-<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+<sp who='LÃ‰ONOR'><speaker>LÃ‰ONOR.</speaker>
 <p id='3'>
-	<s id='1'>Quo fugiam ? </s>
-	<s id='2'>Où fuirai-je ? </s>
-	<s id='3'>Pasquin et Marforio ont affiché mes fredaines. </s>
-	<s id='4'>Où fuir pour les éviter ? </s>
+	<s id='1'>Quo fugiamÂ ? </s>
+	<s id='2'>OÃ¹ fuirai-jeÂ ? </s>
+	<s id='3'>Pasquin et Marforio ont affichÃ© mes fredaines. </s>
+	<s id='4'>OÃ¹ fuir pour les Ã©viterÂ ? </s>
 	<s id='5'>Tout le monde caquette. </s>
-	<s id='6'>Je vois celui-ci, je vois celui-là ; elle fait par-ci, elle fait par-là ? </s>
-	<s id='7'>Quo fugiam ? </s>
+	<s id='6'>Je vois celui-ci, je vois celui-lÃ Â ; elle fait par-ci, elle fait par-lÃ Â ? </s>
+	<s id='7'>Quo fugiamÂ ? </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
@@ -1701,140 +1701,140 @@ Fuis dans ma chambre. </note>
 	<s id='1'>Fuge dans ma chambre. </s>
 </p>
 </sp>
-<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
-<note type="L">Cassolette : Vase où l'on met des eaux de senteur, ou d'autres parfums, pour les faire évaporer par le feu.  Il se dit aussi de l'odeur même qui s'exhale de la cassolette. [FC]</note>
+<sp who='LÃ‰ONOR'><speaker>LÃ‰ONOR.</speaker>
+<note type="L">Cassolette : Vase oÃ¹ l'on met des eaux de senteur, ou d'autres parfums, pour les faire Ã©vaporer par le feu.  Il se dit aussi de l'odeur mÃªme qui s'exhale de la cassolette. [FC]</note>
 <p id='5'>
-	<s id='1'>Où sont-ils ces calomniateurs, qui m'ont mis en mauvaise odeur dans mon quartier, dont ma vertu était la cassolette ? </s>
-	<s id='2'>Que de Vaudevilles, que de Robins turelure sur moi ! </s>
-	<s id='3'>Que de "Vous m'entendez bien !" </s>
+	<s id='1'>OÃ¹ sont-ils ces calomniateurs, qui m'ont mis en mauvaise odeur dans mon quartier, dont ma vertu Ã©tait la cassoletteÂ ? </s>
+	<s id='2'>Que de Vaudevilles, que de Robins turelure sur moiÂ ! </s>
+	<s id='3'>Que de "Vous m'entendez bienÂ !" </s>
 	<s id='4'>Il faut que je me venge de tous ces Chansonniers. </s>
-	<s id='5'>Ils ne mourront jamais que de ma main ; car Médicus sum. </s>
+	<s id='5'>Ils ne mourront jamais que de ma mainÂ ; car MÃ©dicus sum. </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <p id='6'>
-	<s id='1'>La conséquence est juste. </s>
+	<s id='1'>La consÃ©quence est juste. </s>
 </p>
 </sp>
-<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+<sp who='LÃ‰ONOR'><speaker>LÃ‰ONOR.</speaker>
 <p id='7'>
 	<s id='1'>Mais non, je ne veux point me venger. </s>
 	<s id='2'>Non foemina. </s>
-	<s id='3'>Dans le fonds, quel mal m'ont-ils fait ? </s>
+	<s id='3'>Dans le fonds, quel mal m'ont-ils faitÂ ? </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <p id='8'>
-	<s id='1'>Bon ! </s>
-	<s id='2'>Ils vous ont mise en réputation. </s>
+	<s id='1'>BonÂ ! </s>
+	<s id='2'>Ils vous ont mise en rÃ©putation. </s>
 </p>
 </sp>
-<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+<sp who='LÃ‰ONOR'><speaker>LÃ‰ONOR.</speaker>
 <p id='9'>
-	<s id='1'>Ils disent que je mets ma beauté à profit. </s>
+	<s id='1'>Ils disent que je mets ma beautÃ© Ã  profit. </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <p id='10'>
-	<s id='1'>C'est être ménagère. </s>
+	<s id='1'>C'est Ãªtre mÃ©nagÃ¨re. </s>
 </p>
 </sp>
-<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+<sp who='LÃ‰ONOR'><speaker>LÃ‰ONOR.</speaker>
 <p id='11'>
-	<s id='1'>Que je répands mes grâces avec profusion. </s>
+	<s id='1'>Que je rÃ©pands mes grÃ¢ces avec profusion. </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <p id='12'>
-	<s id='1'>C'est être libérale. </s>
+	<s id='1'>C'est Ãªtre libÃ©rale. </s>
 </p>
 </sp>
-<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+<sp who='LÃ‰ONOR'><speaker>LÃ‰ONOR.</speaker>
 <p id='13'>
 	<s id='1'>Que j'ai nombre d'amants. </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <p id='14'>
-	<s id='1'>Est-ce votre faute ? </s>
+	<s id='1'>Est-ce votre fauteÂ ? </s>
 	<s id='2'>Les hommes sont si changeants, que pour en avoir toujours un, il faut toujours en avoir douze. </s>
 </p>
 </sp>
-<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
-<note type="L">Epilogueur : Qui est accoutumé à épiloguer sur les actions des autres. [T]</note>
+<sp who='LÃ‰ONOR'><speaker>LÃ‰ONOR.</speaker>
+<note type="L">Epilogueur : Qui est accoutumÃ© Ã  Ã©piloguer sur les actions des autres. [T]</note>
 <p id='15'>
-	<s id='1'>Mais mettez-vous à ma place, Mesdames les épilogueuses. </s>
-	<s id='2'>Si vous vous trouviez assiégées d'un Régiment de jolis hommes... </s>
-	<s id='3'>Ah ! </s>
-	<s id='4'>Les voici qui m'environnent ? </s>
-	<s id='5'>Quo fugiam ? </s>
-	<s id='6'>Où fuirai-je ? </s>
-	<s id='7'>Celui-ci s'évanouit à mes pieds, Medicus sum. Je ne suis point de marbre, sum foemina. </s>
+	<s id='1'>Mais mettez-vous Ã  ma place, Mesdames les Ã©pilogueuses. </s>
+	<s id='2'>Si vous vous trouviez assiÃ©gÃ©es d'un RÃ©giment de jolis hommes... </s>
+	<s id='3'>AhÂ ! </s>
+	<s id='4'>Les voici qui m'environnentÂ ? </s>
+	<s id='5'>Quo fugiamÂ ? </s>
+	<s id='6'>OÃ¹ fuirai-jeÂ ? </s>
+	<s id='7'>Celui-ci s'Ã©vanouit Ã  mes pieds, Medicus sum. Je ne suis point de marbre, sum foemina. </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <p id='16'>
-	<s id='1'>Ah vous êtes femme. </s>
+	<s id='1'>Ah vous Ãªtes femme. </s>
 </p>
 </sp>
-<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+<sp who='LÃ‰ONOR'><speaker>LÃ‰ONOR.</speaker>
 <note type="L">Traitable : Doux, maniable, facile. [L]</note>
 <p id='17'>
 	<s id='1'>Non foemina, non foemina. </s>
 	<s id='2'>Non, Monsieur Pasquin, ce n'est pas moi, c'est ma voisine, je ne suis point traitable, Medicus sum. </s>
-	<s id='3'>Et une marque de mon habileté en Médecine, c'est que je guéris de la folie. </s>
+	<s id='3'>Et une marque de mon habiletÃ© en MÃ©decine, c'est que je guÃ©ris de la folie. </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <p id='18'>
-	<s id='1'>Guérissez-vous donc. </s>
+	<s id='1'>GuÃ©rissez-vous donc. </s>
 </p>
 </sp>
-<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+<sp who='LÃ‰ONOR'><speaker>LÃ‰ONOR.</speaker>
 <p id='19'>
-	<s id='1'>Mais vous qui parlez, répondez-moi. </s>
-	<s id='2'>Qu'est-ce que la folie ? </s>
-	<s id='3'>De quelle couleur est la folie ? </s>
+	<s id='1'>Mais vous qui parlez, rÃ©pondez-moi. </s>
+	<s id='2'>Qu'est-ce que la folieÂ ? </s>
+	<s id='3'>De quelle couleur est la folieÂ ? </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <p id='20'>
-	<s id='1'>La folie ? </s>
-	<s id='2'>La folie est habillée de rouge. </s>
+	<s id='1'>La folieÂ ? </s>
+	<s id='2'>La folie est habillÃ©e de rouge. </s>
 </p>
 </sp>
-<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+<sp who='LÃ‰ONOR'><speaker>LÃ‰ONOR.</speaker>
 <p id='21'>
-	<s id='1'>Écoutez ce qu'en disent Hippocrate et Galien. </s>
-	<s id='2'>Premièrement, Hippocrate dans son Traité de la folie, n'en parle point du tout. </s>
+	<s id='1'>Ã‰coutez ce qu'en disent Hippocrate et Galien. </s>
+	<s id='2'>PremiÃ¨rement, Hippocrate dans son TraitÃ© de la folie, n'en parle point du tout. </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <p id='22'>
-	<s id='1'>C'est un traité en papier blanc. </s>
+	<s id='1'>C'est un traitÃ© en papier blanc. </s>
 </p>
 </sp>
-<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
-<note type="L">Eventé : Qui a la tête légère, qui est emporté, évaporé, imprudent. [F]</note>
-<note type="L">Galien : célèbre médecin grec né à Pergame, l'an 131 de JC, mort vers 200. Galien est avec Hippocrate, le premier médecin de l'antiquité. Il expliquait tout en médecine par quatre éléments : eau, feu, air, terre ;par quetre qualités pysiques : chaud, froid, humide, sec ; et par quatre humeur : sang, bile, pituite, atrabile. [B]</note>
+<sp who='LÃ‰ONOR'><speaker>LÃ‰ONOR.</speaker>
+<note type="L">EventÃ© : Qui a la tÃªte lÃ©gÃ¨re, qui est emportÃ©, Ã©vaporÃ©, imprudent. [F]</note>
+<note type="L">Galien : cÃ©lÃ¨bre mÃ©decin grec nÃ© Ã  Pergame, l'an 131 de JC, mort vers 200. Galien est avec Hippocrate, le premier mÃ©decin de l'antiquitÃ©. Il expliquait tout en mÃ©decine par quatre Ã©lÃ©ments : eau, feu, air, terre ;par quetre qualitÃ©s pysiques : chaud, froid, humide, sec ; et par quatre humeur : sang, bile, pituite, atrabile. [B]</note>
 <p id='23'>
-	<s id='1'>Pour Galien, je ne l'ai jamais lu ; mais je soutiens moi, que la folie peut procéder de deux causes opposées. </s>
-	<s id='2'>Évaporation et obstruction. </s>
-	<s id='3'>Évaporation, lorsque la bouteille est débouchée, le vin s'évente. </s>
-	<s id='4'>Obstruction, lorsque le tuyau de la cheminée est bouché. </s>
-	<s id='5'>Folie blanche, folie noire, folie haute, folie basse, folie gaie, folie mélancolique, folie du cerveau, folie de la rate. </s>
-	<s id='6'>Distinguons la folie en deux tomes. Évaporation, dans nos jeunes éventés, leur cervelle est toujours en l'air, et leur raison au vent. </s>
-	<s id='7'>Obstruction, mère nourrice des vapeurs, étrange folie qu'on ne saurait guérir que par d'autres folies ! </s>
-	<s id='8'>Parlez aux femmes de sagesse et de morale, du soin de leur ménage et de l'amour conjugal, la vapeur s'élève, l'humeur s'obscurcit, le caprice les surmonte, et vous ne tirez d'elles que des bâillements et des égratignures. </s>
-	<s id='9'>Parlez-leur colifichets, chansonnettes équivoques, aventures galantes, caquets du quartier, modes nouvelles, noces prématurées, mariage suranné, l'enjouement succède, la vapeur se dissipe, et vous faites d'elles tout ce que vous voulez. </s>
+	<s id='1'>Pour Galien, je ne l'ai jamais luÂ ; mais je soutiens moi, que la folie peut procÃ©der de deux causes opposÃ©es. </s>
+	<s id='2'>Ã‰vaporation et obstruction. </s>
+	<s id='3'>Ã‰vaporation, lorsque la bouteille est dÃ©bouchÃ©e, le vin s'Ã©vente. </s>
+	<s id='4'>Obstruction, lorsque le tuyau de la cheminÃ©e est bouchÃ©. </s>
+	<s id='5'>Folie blanche, folie noire, folie haute, folie basse, folie gaie, folie mÃ©lancolique, folie du cerveau, folie de la rate. </s>
+	<s id='6'>Distinguons la folie en deux tomes. Ã‰vaporation, dans nos jeunes Ã©ventÃ©s, leur cervelle est toujours en l'air, et leur raison au vent. </s>
+	<s id='7'>Obstruction, mÃ¨re nourrice des vapeurs, Ã©trange folie qu'on ne saurait guÃ©rir que par d'autres foliesÂ ! </s>
+	<s id='8'>Parlez aux femmes de sagesse et de morale, du soin de leur mÃ©nage et de l'amour conjugal, la vapeur s'Ã©lÃ¨ve, l'humeur s'obscurcit, le caprice les surmonte, et vous ne tirez d'elles que des bÃ¢illements et des Ã©gratignures. </s>
+	<s id='9'>Parlez-leur colifichets, chansonnettes Ã©quivoques, aventures galantes, caquets du quartier, modes nouvelles, noces prÃ©maturÃ©es, mariage surannÃ©, l'enjouement succÃ¨de, la vapeur se dissipe, et vous faites d'elles tout ce que vous voulez. </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <p id='24'>
-	<s id='1'>Et voilà comme je les veux. </s>
+	<s id='1'>Et voilÃ  comme je les veux. </s>
 </p>
 </sp>
-<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+<sp who='LÃ‰ONOR'><speaker>LÃ‰ONOR.</speaker>
 <p id='25'>
 	<s id='1'>Mais plus je parle et plus je deviens folle. </s>
 </p>
@@ -1844,7 +1844,7 @@ Fuis dans ma chambre. </note>
 	<s id='1'>Foemina. </s>
 </p>
 </sp>
-<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+<sp who='LÃ‰ONOR'><speaker>LÃ‰ONOR.</speaker>
 <p id='27'>
 	<s id='1'>Plus je deviens folle, et plus je veux parler.</s>
 </p>
@@ -1854,179 +1854,179 @@ Fuis dans ma chambre. </note>
 	<s id='1'>Foemina, vous dis-je.</s>
 </p>
 </sp>
-<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+<sp who='LÃ‰ONOR'><speaker>LÃ‰ONOR.</speaker>
 <p id='29'>
-	<s id='1'>Non foemina, Medicus sum, quo fugiam ? </s>
+	<s id='1'>Non foemina, Medicus sum, quo fugiamÂ ? </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
-<note type="L">Petites-maisons : nom donné autrefois à un hôpital de Paris où l'on renfermait les aliénés. [F]</note>
+<note type="L">Petites-maisons : nom donnÃ© autrefois Ã  un hÃ´pital de Paris oÃ¹ l'on renfermait les aliÃ©nÃ©s. [F]</note>
 <p id='30'>
 	<s id='1'>Aux Petites-maisons.</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='5'><head>SCÈNE V. Le Docteur, Pasquin. </head>
+<div2 type="scene" n='5'><head>SCÃˆNE V. Le Docteur, Pasquin. </head>
 <sp who='LE-DOCTEUR'><speaker>LE DOCTEUR.</speaker>
 <p id='1'>
-	<s id='1'>Hé bien, avez-vous parlé à ma nièce ? </s>
+	<s id='1'>HÃ© bien, avez-vous parlÃ© Ã  ma niÃ¨ceÂ ? </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <p id='2'>
-	<s id='1'>Oui, nous avons raisonné à fond sur la folie. </s>
-	<s id='2'>Nous l'avons distinguée en deux tomes. Si vous aviez été ici nous l'eussions divisée en trois. 
+	<s id='1'>Oui, nous avons raisonnÃ© Ã  fond sur la folie. </s>
+	<s id='2'>Nous l'avons distinguÃ©e en deux tomes. Si vous aviez Ã©tÃ© ici nous l'eussions divisÃ©e en trois. 
 </s>
 </p>
 </sp>
 <sp who='LE-DOCTEUR'><speaker>LE DOCTEUR.</speaker>
 <p id='3'>
-	<s id='1'>Mais son mal ?</s>
+	<s id='1'>Mais son malÂ ?</s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <p id='4'>
-	<s id='1'>À l'égard de son mal, nous avons vu ce qu'en disaient Hippocrate et Gallien. 
+	<s id='1'>Ã€ l'Ã©gard de son mal, nous avons vu ce qu'en disaient Hippocrate et Gallien. 
 </s>
 </p>
 </sp>
 <sp who='LE-DOCTEUR'><speaker>LE DOCTEUR.</speaker>
 <p id='5'>
-	<s id='1'>Hé bien ? </s>
+	<s id='1'>HÃ© bienÂ ? </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <p id='6'>
-	<s id='1'>Hé bien ? </s>
+	<s id='1'>HÃ© bienÂ ? </s>
 	<s id='2'>Hippocrate n'en parle point du tout, et pour Gallien nous ne l'avons jamais lu ni l'un ni l'autre. 
 </s>
 </p>
 </sp>
 <sp who='LE-DOCTEUR'><speaker>LE DOCTEUR.</speaker>
 <p id='7'>
-	<s id='1'>Ce n'est pas ma nièce qui m'inquiète le plus. </s>
-	<s id='2'>Il est vrai que ma fille Angélique est revenue dans son bon sens. </s>
-	<s id='3'>Mais Julie a toujours la folie de chanter, je vous prie de travailler à la guérir, au cas que nous puissions la trouver ; car elle a pris la fuite avec Léandre son amant.</s>
+	<s id='1'>Ce n'est pas ma niÃ¨ce qui m'inquiÃ¨te le plus. </s>
+	<s id='2'>Il est vrai que ma fille AngÃ©lique est revenue dans son bon sens. </s>
+	<s id='3'>Mais Julie a toujours la folie de chanter, je vous prie de travailler Ã  la guÃ©rir, au cas que nous puissions la trouverÂ ; car elle a pris la fuite avec LÃ©andre son amant.</s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <p id='8'>
-	<s id='1'>Je vais faire ouvrir ma Boutique, peut-être y seront-ils avec les autres.</s>
+	<s id='1'>Je vais faire ouvrir ma Boutique, peut-Ãªtre y seront-ils avec les autres.</s>
 </p>
 <stage>On ouvre, et on voit une Boutique d'Apothicaire remplie de muids et de bouteilles de vin. </stage>
 </sp>
 </div2>
-<div2 type='scene' n='6'><head>SCÈNE VI. Léandre, Julie, Le Docteur, Pasquin. </head>
+<div2 type="scene" n='6'><head>SCÃˆNE VI. LÃ©andre, Julie, Le Docteur, Pasquin. </head>
 <sp who='LE-DOCTEUR'><speaker>LE DOCTEUR.</speaker>
 <p id='1'>
-	<s id='1'>Voilà justement ma fille.</s>
+	<s id='1'>VoilÃ  justement ma fille.</s>
 </p>
 </sp>
 <sp who='JULIE'><speaker>JULIE chante. </speaker>
-<note type="L">Fillage : état d'une fille qui vit dans le célibat. [T]</note>
-	<l id='347'>Craignez, pères, craignez les périls du fillage, </l>
+<note type="L">Fillage : Ã©tat d'une fille qui vit dans le cÃ©libat. [T]</note>
+	<l id='347'>Craignez, pÃ¨res, craignez les pÃ©rils du fillage, </l>
 	<l id='348'>La vertu souvent </l>
 	<l id='349'>Fait naufrage, </l>
 	<l id='350'>Avant que d'arriver au port du mariage, </l>
-	<l id='351'>Prévenez l'orage, </l>
-	<l id='352'>Du tempérament. </l>
-	<l id='353'>Craignez, Pères, craignez les périls du fillage, </l>
+	<l id='351'>PrÃ©venez l'orage, </l>
+	<l id='352'>Du tempÃ©rament. </l>
+	<l id='353'>Craignez, PÃ¨res, craignez les pÃ©rils du fillage, </l>
 </sp>
 <sp who='LE-DOCTEUR'><speaker>LE DOCTEUR.</speaker>
 <p id='2'>
-	<s id='1'>Mais ne saurait-on pas la guérir de sa manie chantante ? </s>
+	<s id='1'>Mais ne saurait-on pas la guÃ©rir de sa manie chantanteÂ ? </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <p id='3'>
-	<s id='1'>Je vais vous dire par un apologue, ce qu'il faut faire pour l'empêcher de chanter.</s>
+	<s id='1'>Je vais vous dire par un apologue, ce qu'il faut faire pour l'empÃªcher de chanter.</s>
 </p>
 <stage>FABLE. </stage>
 <note type="L">Rossignolette : femelle du rossignol. [T]</note>
 	<l id='354'>Un jeune Rossignol et sa Rossignolette, </l>
 	<l id='355'>Par mainte et mainte Chansonnette, </l>
-<note type="L">S’entreconter : Se conter l’un à l’autre. </note>
-	<l id='356'>Naïvement s'entrecontaient, </l>
+<note type="L">SÂ’entreconter : Se conter lÂ’un Ã  lÂ’autre. </note>
+	<l id='356'>NaÃ¯vement s'entrecontaient, </l>
 	<l id='357'>Ce que l'un pour l'autre ils sentaient, </l>
-	<l id='358'>Ni plus ni moins selon la Gauloise méthode. </l>
+	<l id='358'>Ni plus ni moins selon la Gauloise mÃ©thode. </l>
 	<l id='359'>Comme nous, les oiseaux ne changent point de mode, </l>
-	<l id='360'>Toujours même plumage, et toujours même amour. </l>
-	<l id='361'>Ils chantaient jour et nuit ; les échos d'alentour, </l>
+	<l id='360'>Toujours mÃªme plumage, et toujours mÃªme amour. </l>
+	<l id='361'>Ils chantaient jour et nuitÂ ; les Ã©chos d'alentour, </l>
 	<l id='362'>Retentissaient du son de leur vive cadence. </l>
-	<l id='363'>Sur un buisson voisin faisait sa résidence </l>
+	<l id='363'>Sur un buisson voisin faisait sa rÃ©sidence </l>
 	<l id='364'>Un vieux Merle, grand radoteur </l>
 	<l id='365'>Noir et bourru comme un Docteur. </l>
 	<l id='366'>Le chant des rossignols lui donnait la migraine, </l>
 	<l id='367'>Eussent-ils comme moi l'asthme et la courte haleine, </l>
-<note type="L">Caduc : Qui a perdu ses forces, soit par l'âge, soit par les maladies. [F]</note>
-	<l id='368'>Disait le caduc animal : </l>
-	<l id='369'>Au diable l'amour musical : </l>
-<note type="L">Morbleu : Sorte de jurement en usage même parmi les gens de bon ton. [L]</note>
+<note type="L">Caduc : Qui a perdu ses forces, soit par l'Ã¢ge, soit par les maladies. [F]</note>
+	<l id='368'>Disait le caduc animalÂ : </l>
+	<l id='369'>Au diable l'amour musicalÂ : </l>
+<note type="L">Morbleu : Sorte de jurement en usage mÃªme parmi les gens de bon ton. [L]</note>
 	<l id='370'>Morbleu je les ferai bien taire. </l>
-	<l id='371'>Il médita sur cette affaire, </l>
-	<l id='372'>Comme un fin merle qu'il était, </l>
-	<l id='373'>C'est ainsi qu'il argumentait : </l>
-	<l id='374'>Rossignol sans amour est bientôt sans ramage, </l>
+	<l id='371'>Il mÃ©dita sur cette affaire, </l>
+	<l id='372'>Comme un fin merle qu'il Ã©tait, </l>
+	<l id='373'>C'est ainsi qu'il argumentaitÂ : </l>
+	<l id='374'>Rossignol sans amour est bientÃ´t sans ramage, </l>
 	<l id='375'>L'amour ne peut durer que jusqu'au mariage. </l>
 	<l id='376'>Oh marions-les donc. Le grand noeud se noua. </l>
-	<l id='377'>Dès la première nuit, Rossignol s'enroua. </l>
+	<l id='377'>DÃ¨s la premiÃ¨re nuit, Rossignol s'enroua. </l>
 	<l id='378'>La femelle forte en ramage, </l>
-	<l id='379'>Se maintint un peu davantage ; </l>
+	<l id='379'>Se maintint un peu davantageÂ ; </l>
 	<l id='380'>Mais les deux eurent le bec clos </l>
-	<l id='381'>En voyant leurs petits éclos. </l>
-	<l id='382'>C'est ainsi parmi nous que le cours d'une année, </l>
+	<l id='381'>En voyant leurs petits Ã©clos. </l>
+	<l id='382'>C'est ainsi parmi nous que le cours d'une annÃ©e, </l>
 	<l id='383'>Finit la tendresse et les chants </l>
-	<l id='384'>De nos plus folâtres amants. </l>
-	<l id='385'>On voit même souvent naître dans l'Hyménée </l>
+	<l id='384'>De nos plus folÃ¢tres amants. </l>
+	<l id='385'>On voit mÃªme souvent naÃ®tre dans l'HymÃ©nÃ©e </l>
 	<l id='386'>Les chagrins avant les enfants. </l>
 <p id='4'>
-	<s id='1'>Ainsi, si vous avez envie que votre fille parle, vous n'avez qu'à la marier. 
+	<s id='1'>Ainsi, si vous avez envie que votre fille parle, vous n'avez qu'Ã  la marier. 
 </s>
 </p>
 </sp>
 <sp who='LE-DOCTEUR'><speaker>LE DOCTEUR.</speaker>
 <p id='5'>
-	<s id='1'>Puisque vous m'assurez que le mariage la guérira, je consens qu'elle épouse Léandre.</s>
+	<s id='1'>Puisque vous m'assurez que le mariage la guÃ©rira, je consens qu'elle Ã©pouse LÃ©andre.</s>
 </p>
 </sp>
 <sp who='JULIE'><speaker>JULIE. </speaker>
 <p id='6'>
-	<s id=''>Ah mon père ! </s>
+	<s id=''>Ah mon pÃ¨reÂ ! </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <p id='7'>
-	<s id='1'>Voyez-vous comme le remède opère. </s>
+	<s id='1'>Voyez-vous comme le remÃ¨de opÃ¨re. </s>
 	<s id='2'>Ce sera tout autre chose quand le mariage sera fait. </s>
-	<s id='3'>Holà, s'il y a des gens qui me viennent consulter, qu'on les fasse entrer.</s>
+	<s id='3'>HolÃ , s'il y a des gens qui me viennent consulter, qu'on les fasse entrer.</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='7'><head>SCÈNE VII. Le Jaloux, Pasquin, Marforio. </head>
-<sp who='LE-JALOUX'><speaker>LE JALOUX l'épée à la main. </speaker>
+<div2 type="scene" n='7'><head>SCÃˆNE VII. Le Jaloux, Pasquin, Marforio. </head>
+<sp who='LE-JALOUX'><speaker>LE JALOUX l'Ã©pÃ©e Ã  la main. </speaker>
 <p id='1'>
-	<s id='1'>Où est-elle ? </s>
+	<s id='1'>OÃ¹ est-elleÂ ? </s>
 	<s id='2'>Rendez-la moi, ou morbleu... </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <p id='2'>
-	<s id='1'>Qui donc ? </s>
+	<s id='1'>Qui doncÂ ? </s>
 </p>
 </sp>
 <sp who='MARFORIO'><speaker>MARFORIO.</speaker>
 <p id='3'>
-	<s id='1'>Prenez garde à moi.</s>
+	<s id='1'>Prenez garde Ã  moi.</s>
 </p>
 </sp>
 <sp who='LE-JALOUX'><speaker>LE JALOUX. </speaker>
 <p id='4'>
-	<s id='1'>Oui, rendez-la moi tout à l'heure. </s>
+	<s id='1'>Oui, rendez-la moi tout Ã  l'heure. </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <p id='5'>
-	<s id='1'>Mais qui cherchez-vous ?</s>
+	<s id='1'>Mais qui cherchez-vousÂ ?</s>
 </p>
 </sp>
 <sp who='LE-JALOUX'><speaker>LE JALOUX. </speaker>
@@ -2034,12 +2034,12 @@ Fuis dans ma chambre. </note>
 	<s id='1'>Ma femme. </s>
 	<s id='2'>Furetons partout. </s>
 	<s id='3'>Mais non, attendez. </s>
-	<s id='4'>Je me souviens que je l'ai enfermée dans sa chambre, et justement voilà la clef que j'ai dans ma poche. </s>
+	<s id='4'>Je me souviens que je l'ai enfermÃ©e dans sa chambre, et justement voilÃ  la clef que j'ai dans ma poche. </s>
 </p>
 </sp>
 <sp who='MARFORIO'><speaker>MARFORIO.</speaker>
 <p id='6'>
-	<s id='1'>Voilà qui est bien Italien ?</s>
+	<s id='1'>VoilÃ  qui est bien ItalienÂ ?</s>
 </p>
 </sp>
 <sp who='LE-JALOUX'><speaker>LE JALOUX. </speaker>
@@ -2050,24 +2050,24 @@ Fuis dans ma chambre. </note>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <p id='8'>
-	<s id='1'>Et avez-vous quelque raison pour cela ? </s>
-	<s id='2'>Auriez-vous trouvé votre femme en flagrant délit ?</s>
+	<s id='1'>Et avez-vous quelque raison pour celaÂ ? </s>
+	<s id='2'>Auriez-vous trouvÃ© votre femme en flagrant dÃ©litÂ ?</s>
 </p>
 </sp>
 <sp who='LE-JALOUX'><speaker>LE JALOUX. </speaker>
 <p id='9'>
-	<s id='1'>Non, Monsieur, ma femme est fort sage ; mais je suis jaloux de tout ce qui l'approche ; un oiseau, un souffle de vent, tout me rend jaloux. </s>
+	<s id='1'>Non, Monsieur, ma femme est fort sageÂ ; mais je suis jaloux de tout ce qui l'approcheÂ ; un oiseau, un souffle de vent, tout me rend jaloux. </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <p id='10'>
-	<s id='1'>Diable ! </s>
-	<s id='2'>Si vous êtes jaloux des vents, empêchez votre femme de manger des châtaignes.</s>
+	<s id='1'>DiableÂ ! </s>
+	<s id='2'>Si vous Ãªtes jaloux des vents, empÃªchez votre femme de manger des chÃ¢taignes.</s>
 </p>
 </sp>
 <sp who='LE-JALOUX'><speaker>LE JALOUX. </speaker>
 <p id='11'>
-	<s id='1'>J'étais dernièrement avec ma femme devant un grand miroir, je la caressais je l'embrassaiS tendrement, et venant à regarder dans la glace, je fus si fâché de voir embrasser ma femme par un homme, que je rompis le miroir en mille pièces. </s>
+	<s id='1'>J'Ã©tais derniÃ¨rement avec ma femme devant un grand miroir, je la caressais je l'embrassaiS tendrement, et venant Ã  regarder dans la glace, je fus si fÃ¢chÃ© de voir embrasser ma femme par un homme, que je rompis le miroir en mille piÃ¨ces. </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
@@ -2077,65 +2077,65 @@ Fuis dans ma chambre. </note>
 </sp>
 <sp who='MARFORIO'><speaker>MARFORIO chante. </speaker>
 	<l id='387'>Mari qui fait sentinelle </l>
-<note type="L">Péronnelle : Terme de dénigrement. Jeune femme sotte et babillarde. [L]</note>
-	<l id='388'>Pour garder sa péronnelle, </l>
+<note type="L">PÃ©ronnelle : Terme de dÃ©nigrement. Jeune femme sotte et babillarde. [L]</note>
+	<l id='388'>Pour garder sa pÃ©ronnelle, </l>
 	<l id='389'>Y perd son latin, </l>
-	<l id='390'>Qu'en dis-tu, Pasquin ? </l>
+	<l id='390'>Qu'en dis-tu, PasquinÂ ? </l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN chante. </speaker>
 	<l id='391'>Pendant qu'il veille elle est sage, </l>
-	<l id='392'>Mais elle se dédommage, </l>
+	<l id='392'>Mais elle se dÃ©dommage, </l>
 	<l id='393'>Mon ami Marforio, </l>
 	<l id='394'>Pendant qu'il fait dodo. </l>
 <p id='13'>
-	<s id='1'>Oh ça, pour guérir votre jalousie il ne s'agit que de vous empêcher de penser à votre femme ; et pour vous empêcher d'y penser, vous n'avez qu'à boire de demi-heure en demi-heure pinte de mon vin de Mante. </s>
+	<s id='1'>Oh Ã§a, pour guÃ©rir votre jalousie il ne s'agit que de vous empÃªcher de penser Ã  votre femmeÂ ; et pour vous empÃªcher d'y penser, vous n'avez qu'Ã  boire de demi-heure en demi-heure pinte de mon vin de Mante. </s>
 	<s id='2'>Allons, qu'on lui donne du vin.</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='8'><head>SCÈNE VIII. L'Impatiente, Pasquin, Marforio. </head><sp who='L-IMPATIENTE'><speaker>L'IMPATIENTE.</speaker>
+<div2 type="scene" n='8'><head>SCÃˆNE VIII. L'Impatiente, Pasquin, Marforio. </head><sp who='L-IMPATIENTE'><speaker>L'IMPATIENTE.</speaker>
 <p id='1'>
-	<s id='1'>Hé vite, Monsieur, vite dépêchez-vous de me guérir. </s>
+	<s id='1'>HÃ© vite, Monsieur, vite dÃ©pÃªchez-vous de me guÃ©rir. </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <p id='2'>
-	<s id='1'>En voilà une bien pressée ! </s>
+	<s id='1'>En voilÃ  une bien pressÃ©eÂ ! </s>
 </p>
 </sp>
 <sp who='L-IMPATIENTE'><speaker>L'IMPATIENTE.</speaker>
 <p id='3'>
-	<s id='1'>Dépêchez-vous donc, vous dis-je ; car je me meurs d'impatience.</s>
+	<s id='1'>DÃ©pÃªchez-vous donc, vous dis-jeÂ ; car je me meurs d'impatience.</s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <p id='4'>
-	<s id='1'>D'impatience, de quoi faire ? </s>
+	<s id='1'>D'impatience, de quoi faireÂ ? </s>
 </p>
 </sp>
 <sp who='L-IMPATIENTE'><speaker>L'IMPATIENTE.</speaker>
 <p id='5'>
 	<s id='1'>D'impatience, Monsieur, d'impatience, c'est mon vice que l'impatience. </s>
-	<s id='2'>Il n'y a pas trois mois que l'impatience me prit de me marier, et prêt, me voilà mariée. </s>
+	<s id='2'>Il n'y a pas trois mois que l'impatience me prit de me marier, et prÃªt, me voilÃ  mariÃ©e. </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <p id='6'>
 	<s id='1'>Je vous entends. </s>
-	<s id='2'>À présent l'impatience d'être veuve vous a pris, et tac, vous voudriez déjà l'être. </s>
+	<s id='2'>Ã€ prÃ©sent l'impatience d'Ãªtre veuve vous a pris, et tac, vous voudriez dÃ©jÃ  l'Ãªtre. </s>
 </p>
 </sp>
 <sp who='L-IMPATIENTE'><speaker>L'IMPATIENTE.</speaker>
 <p id='7'>
-	<s id='1'>Oh vraiment non ! </s>
+	<s id='1'>Oh vraiment nonÂ ! </s>
 	<s id='2'>J'aime trop mon mari pour cela. </s>
-	<s id='3'>Et je l'aime si fort, que je brûle d'impatience d'avoir famille ; car je suis enceinte, Monsieur ? </s>
+	<s id='3'>Et je l'aime si fort, que je brÃ»le d'impatience d'avoir familleÂ ; car je suis enceinte, MonsieurÂ ? </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <p id='8'>
-	<s id='1'>Ah ! </s>
-	<s id='2'>C'est-à-dire que vous avez peur que votre enfant ne tienne de vous, et que l'impatience qu'il a de voir son papa ne précipite son arrivée. </s>
+	<s id='1'>AhÂ ! </s>
+	<s id='2'>C'est-Ã -dire que vous avez peur que votre enfant ne tienne de vous, et que l'impatience qu'il a de voir son papa ne prÃ©cipite son arrivÃ©e. </s>
 </p>
 </sp>
 <sp who='L-IMPATIENTE'><speaker>L'IMPATIENTE.</speaker>
@@ -2145,116 +2145,116 @@ Fuis dans ma chambre. </note>
 </sp>
 <sp who='MARFORIO'><speaker>MARFORIO chante. </speaker>
 	<l id='395'>D'une femme impatiente, </l>
-<note type="L">Pétulant : Vif, impétueux et brusque, qui a peine à se contenir. [Ac 1762]</note>
-	<l id='396'>Brusque, vive et pétulante, </l>
+<note type="L">PÃ©tulant : Vif, impÃ©tueux et brusque, qui a peine Ã  se contenir. [Ac 1762]</note>
+	<l id='396'>Brusque, vive et pÃ©tulante, </l>
 	<l id='397'>L'amour est mesquin, </l>
-	<l id='398'>Qu'en dis-tu Pasquin ? </l>
+	<l id='398'>Qu'en dis-tu PasquinÂ ? </l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN chante. </speaker>
 	<l id='399'>D'une femme volatile, </l>
-	<l id='400'>Dont le sang si fort pétille, </l>
+	<l id='400'>Dont le sang si fort pÃ©tille, </l>
 	<l id='401'>Mon ami Marforio, </l>
 <note type="L">Mirliton : Refrain populaire. On le trouve aussi sous la forme mirlitot. [L]</note>
 	<l id='402'>J'en dis du mirlito. </l>
 <p id='10'>
-	<s id='1'>Pour empêcher votre enfant de sortir, prenez de demi-heure en demi-heure chopine de mon vin de Mante.</s>
+	<s id='1'>Pour empÃªcher votre enfant de sortir, prenez de demi-heure en demi-heure chopine de mon vin de Mante.</s>
 </p>
 </sp>
 <sp who='L-IMPATIENTE'><speaker>L'IMPATIENTE.</speaker>
 <p id='11'>
-	<s id='1'>Chopine, Monsieur ! </s>
+	<s id='1'>Chopine, MonsieurÂ ! </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <p id='12'>
 	<s id='1'>Oui chopine. </s>
-	<s id='2'>Tant que vous fournirez du bon vin à votre enfant, il n'aura pas l'impatience de sortir. </s>
-	<s id='3'>J'en juge par moi-même : tant que je trouve de bon vin dans un Cabaret, je n'ai pas l'impatience d'en aller chercher ailleurs.</s>
+	<s id='2'>Tant que vous fournirez du bon vin Ã  votre enfant, il n'aura pas l'impatience de sortir. </s>
+	<s id='3'>J'en juge par moi-mÃªmeÂ : tant que je trouve de bon vin dans un Cabaret, je n'ai pas l'impatience d'en aller chercher ailleurs.</s>
 </p>
 </sp>
 <sp who='LA-CHANTEUSE'><speaker>LA CHANTEUSE chante. </speaker>
-	<l id='403'>Le Médecin plein de science, </l>
+	<l id='403'>Le MÃ©decin plein de science, </l>
 	<l id='404'>Qui veut que nous nous portions bien, </l>
-	<l id='405'>Quand il a cité Gallien, </l>
-	<l id='406'>Ressemble au sot Époux, qui par son éloquence, </l>
+	<l id='405'>Quand il a citÃ© Gallien, </l>
+	<l id='406'>Ressemble au sot Ã‰poux, qui par son Ã©loquence, </l>
 	<l id='407'>Veux exhorter sa femme au bien. </l>
-	<l id='408'>Maris et Médecine, </l>
+	<l id='408'>Maris et MÃ©decine, </l>
 	<l id='409'>C'est moi qui vous l'assure, </l>
-	<l id='410'>Votre éloquence ne peut rien, </l>
+	<l id='410'>Votre Ã©loquence ne peut rien, </l>
 	<l id='411'>Laisser agir la nature. </l>
 	<l id='412'>Si le malade et la coquette, </l>
 	<l id='413'>N'ont pas encore le fonds malsain,</l>
-	<l id='414'>Ils guériront sans Médecin :</l>
-	<l id='415'>S'ils ont le coeur mauvais ou la tête mal faite, </l>
+	<l id='414'>Ils guÃ©riront sans MÃ©decinÂ :</l>
+	<l id='415'>S'ils ont le coeur mauvais ou la tÃªte mal faite, </l>
 	<l id='416'>Vous y perdrez votre latin. </l>
-	<l id='417'>Maris et Médecins, </l>
+	<l id='417'>Maris et MÃ©decins, </l>
 	<l id='418'>Votre art n'est qu'imposture, </l>
 	<l id='419'>On ne peut forcer le destin, </l>
 	<l id='420'>Laissez agir la nature. </l>
 </sp>
 <sp who='MARFORIO'><speaker>MARFORIO chante. </speaker>
-	<l id='421'>La nature a dit : </l>
-	<l id='422'>À notre appétit. </l>
-	<l id='423'>Fi des drogues de Médecine, </l>
+	<l id='421'>La nature a ditÂ : </l>
+	<l id='422'>Ã€ notre appÃ©tit. </l>
+	<l id='423'>Fi des drogues de MÃ©decine, </l>
 	<l id='424'>Filons donc pour la Cuisine. </l>
 	<l id='425'>Point de Quinquina, </l>
 	<l id='426'>D'assa foetida. </l>
 	<l id='427'>Ni d'autre guenille, </l>
-<note type="L">Piler : réduire un corps en menues parties avec des instruments pesants, pressants ou contondants. [F]</note>
+<note type="L">Piler : rÃ©duire un corps en menues parties avec des instruments pesants, pressants ou contondants. [F]</note>
 	<l id='428'>Pilez la morille, </l>
 	<l id='429'>Truffe et champignons, </l>
 	<l id='430'>Pilez Compagnons, </l>
-	<l id='431'>Pilez la poudre délectable, </l>
-	<l id='432'>Qui fait si bien piler à table. </l>
+	<l id='431'>Pilez la poudre dÃ©lectable, </l>
+	<l id='432'>Qui fait si bien piler Ã  table. </l>
 </sp>
 <sp who='LA-CHANTEUSE'><speaker>LA CHANTEUSE chante. </speaker>
 	<l id='433'>Si de quelque humeur affligeante, </l>
-	<l id='434'>Votre coeur est environné, </l>
-	<l id='435'>Ahi, ahi, ouf, ohimé ; </l>
-<note type="L">Emetique : est un remède qui purge avec violence par haut et par bas, fait de la poudre et du beurre d'antimoine preparé, dont on a separé les sels corrosifs par plusieurs lotions. [F]</note>
-	<l id='436'>Notre émétique vous présente, </l>
+	<l id='434'>Votre coeur est environnÃ©, </l>
+	<l id='435'>Ahi, ahi, ouf, ohimÃ©Â ; </l>
+<note type="L">Emetique : est un remÃ¨de qui purge avec violence par haut et par bas, fait de la poudre et du beurre d'antimoine preparÃ©, dont on a separÃ© les sels corrosifs par plusieurs lotions. [F]</note>
+	<l id='436'>Notre Ã©mÃ©tique vous prÃ©sente, </l>
 	<l id='437'>Un joyeux secours, </l>
 	<l id='438'>Vous en prendrez tous les jours, </l>
 	<l id='439'>Dans du sirop de Mante. </l>
 </sp>
 <sp who='LE-JALOUX'><speaker>LE JALOUX chante. </speaker>
 	<l id='440'>Lorsque un Plumet d'humeur bouillante, </l>
-	<l id='441'>Fait à ma femme l'oeil pâmé, </l>
-	<l id='442'>Ahi, ahi, ouf, ohimé ; </l>
-	<l id='443'>Si son art guerrier m'épouvante, </l>
+	<l id='441'>Fait Ã  ma femme l'oeil pÃ¢mÃ©, </l>
+	<l id='442'>Ahi, ahi, ouf, ohimÃ©Â ; </l>
+	<l id='443'>Si son art guerrier m'Ã©pouvante, </l>
 	<l id='444'>Je l'enivrerai, </l>
-	<l id='445'>Lui faisant rouler le degré, </l>
+	<l id='445'>Lui faisant rouler le degrÃ©, </l>
 	<l id='446'>Avec du vin de Mante. </l>
 </sp>
 <sp who='L-IMPATIENTE'><speaker>L'IMPATIENTE chante. </speaker>
 	<l id='447'>Si mon Poupon veut que je chante, </l>
-	<l id='448'>Avant le terme accoutumé, </l>
-	<l id='449'>Ahi, ahi, ouf, ohimé ; </l>
-	<l id='450'>Et si mon Époux se tourmente, </l>
+	<l id='448'>Avant le terme accoutumÃ©, </l>
+	<l id='449'>Ahi, ahi, ouf, ohimÃ©Â ; </l>
+	<l id='450'>Et si mon Ã‰poux se tourmente, </l>
 	<l id='451'>Comptant par ses doigts, </l>
 	<l id='452'>Nous lui ferons voir neuf par trois, </l>
 	<l id='453'>Avec du vin de Mante. </l>
 </sp>
 <sp who='MARFORIO'><speaker>MARFORIO chante. </speaker>
 	<l id='454'>Si celui que le jeu tourmente, </l>
-	<l id='455'>D'emprunter sur gage est forcé, </l>
-	<l id='456'>Ahi, ahi, ouf, ohimé ;</l>
-	<l id='457'>Notre Cabaret lui présente, </l>
-	<l id='458'>Sur ces murs écrit. </l>
+	<l id='455'>D'emprunter sur gage est forcÃ©, </l>
+	<l id='456'>Ahi, ahi, ouf, ohimÃ©Â ;</l>
+	<l id='457'>Notre Cabaret lui prÃ©sente, </l>
+	<l id='458'>Sur ces murs Ã©crit. </l>
 	<l id='459'>Le beau nom de Pilor Bouffi, </l>
 	<l id='460'>Grand Usurier de Mante.  </l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN chante. </speaker>
-	<l id='461'>Si par notre pièce naissante, </l>
-	<l id='462'>Votre goût n'est point chatouillé, </l>
-	<l id='463'>Ahi, ahi, ouf, ohimé ;</l>
+	<l id='461'>Si par notre piÃ¨ce naissante, </l>
+	<l id='462'>Votre goÃ»t n'est point chatouillÃ©, </l>
+	<l id='463'>Ahi, ahi, ouf, ohimÃ©Â ;</l>
 	<l id='464'>Mais secondant notre attente, </l>
 	<l id='465'>Vous sortez contents, </l>
-	<l id='466'>Nous irons boire à vos dépens, </l>
+	<l id='466'>Nous irons boire Ã  vos dÃ©pens, </l>
 	<l id='467'>Du bon sirop de Mante</l>
 </sp>
 </div2>
 </div1>
 </body>
 </text>
-</TEI.2>
+</TEI>

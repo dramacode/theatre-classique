@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-<TEI.2>
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
 <teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>LA FRIVOLITÉ, COMÉDIE.</title>
-				<author born='1694' born_location='Vic-sur-Cère' death='1758' death_location='Paris' academie='1754'>BOISSY, Louis de</author>
+				<title>LA FRIVOLITÃ‰, COMÃ‰DIE.</title>
+				<author born='1694' born_location='Vic-sur-CÃ¨re' death='1758' death_location='Paris' academie='1754'>BOISSY, Louis de</author>
 				<date>1732</date>
 			</titleStmt>
 			<publicationStmp>	
-				<publisher>publié par Paul FIEVRE janvier 2016</publisher>
+				<publisher>publiÃ© par Paul FIEVRE janvier 2016</publisher>
 			</publicationStmp>
 			<SourceDesc>
-				<genre>Comédie</genre>
-				<inspiration>moeurs françaises</inspiration>
+				<genre>ComÃ©die</genre>
+				<inspiration>moeurs franÃ§aises</inspiration>
 				<structure>Un acte</structure>
 				<type>vers</type>
 				<periode>1751-1760</periode>
 				<taille>750-1000</taille>
 				<liens>
-					<lien type='auteur cité'>Corneille, Pierre </lien>
-					<lien type='auteur cité'>Shakespeare, William </lien>
-					<lien type='musicien cité'>Lulli, Jean-Baptiste</lien>
-					<lien type='musicien cité'>Pergolèse, Jean-Baptiste</lien>
+					<lien type='auteur citÃ©'>Corneille, Pierre </lien>
+					<lien type='auteur citÃ©'>Shakespeare, William </lien>
+					<lien type='musicien citÃ©'>Lulli, Jean-Baptiste</lien>
+					<lien type='musicien citÃ©'>PergolÃ¨se, Jean-Baptiste</lien>
 				</liens>	
 			</SourceDesc>
 		</fileDesc>
@@ -29,17 +29,17 @@
 <text>
 <front>
 		<docTitle>
-			<titlePart type="main">LA FRIVOLITÉ</titlePart>
-			<titlePart type="sub">COMÉDIE EN UN ACTE ET EN VERS.</titlePart>
-			<titlePart type="sub">Représentée pour la première fois par les Comédiens Italiens le 23 Janvier 1753.</titlePart>
+			<titlePart type="main">LA FRIVOLITÃ‰</titlePart>
+			<titlePart type="sub">COMÃ‰DIE EN UN ACTE ET EN VERS.</titlePart>
+			<titlePart type="sub">ReprÃ©sentÃ©e pour la premiÃ¨re fois par les ComÃ©diens Italiens le 23 Janvier 1753.</titlePart>
 		</docTitle> 
-		<docDate value='1753'>M. DCC LIII. Avec approbation et Privilège du Roi.</docDate>
-		<docAuthor id="BOISSY, Louis" bio='boissy'>De Monsieur De BOISSY, de l'Académie Française.</docAuthor>
+		<docDate value='1753'>M. DCC LIII. Avec approbation et PrivilÃ¨ge du Roi.</docDate>
+		<docAuthor id="BOISSY, Louis" bio='boissy'>De Monsieur De BOISSY, de l'AcadÃ©mie FranÃ§aise.</docAuthor>
 		<docImprint>
 			<approbation id=''><head>APPROBATION</head>
-			<p>J'ai lu par ordre de Monseigneur le Chancelier, La Frivolité, comédie faisan tpartie du receuil de meilleures pièces représentées aux théâtre, et je crois que l'on peut en permettre l'impression.</p>
-		<p>Ce 10 février 1753. CRÉBILLON.</p>
-		<p>Le Privilège et l'enregistrement se trouvent à la fin des Oeuvres de Théâtre de M. D***.</p>
+			<p>J'ai lu par ordre de Monseigneur le Chancelier, La FrivolitÃ©, comÃ©die faisan tpartie du receuil de meilleures piÃ¨ces reprÃ©sentÃ©es aux thÃ©Ã¢tre, et je crois que l'on peut en permettre l'impression.</p>
+		<p>Ce 10 fÃ©vrier 1753. CRÃ‰BILLON.</p>
+		<p>Le PrivilÃ¨ge et l'enregistrement se trouvent Ã  la fin des Oeuvres de ThÃ©Ã¢tre de M. D***.</p>
 			</approbation>
 			<privilege id=''><head></head>
 			<p></p>
@@ -49,496 +49,496 @@
 			<signature></signature>
 			</enregistrement>
 			<acheveImprime id=''></acheveImprime>
-			<printer id='PRAULT'>À PARIS, Chez PIERRE PRAULT, Quai de Gêvres, au Paradis.</printer>
+			<printer id='PRAULT'>Ã€ PARIS, Chez PIERRE PRAULT, Quai de GÃªvres, au Paradis.</printer>
 		</docImprint>
 		<performance>	
-			<premiere date='1753-01-23' location=''>Représentée pour la première fois, par les Comédiens Italiens le 23 janvier 1753.</premiere>
+			<premiere date='1753-01-23' location=''>ReprÃ©sentÃ©e pour la premiÃ¨re fois, par les ComÃ©diens Italiens le 23 janvier 1753.</premiere>
 		</performance>
 		<castList>
 			<head>ACTEURS</head>
-			<castItem><role id="" civil='F' type='H' statut='conte' age='A' statut_amoureux="néant">LA FRIVOLITÉ</role>.</castItem>
-			<castItem><role id="" civil='F' type='H' statut='conte' age='A' statut_amoureux="néant">L'HIVER</role>. </castItem>
-			<castItem><role id="" civil='F' type='H' statut='conte' age='A' statut_amoureux="néant">MONSIEUR FAUSTER</role>, Suisse. </castItem>
-			<castItem><role id="" civil='F' type='H' statut='conte' age='A' statut_amoureux="néant">MISS-BLAR</role>, Comédienne Anglaise.</castItem>
-			<castItem><role id="" civil='F' type='H' statut='conte' age='A' statut_amoureux="néant">LE MARQUIS</role>. </castItem>
-			<castItem><role id="" civil='F' type='H' statut='conte' age='A' statut_amoureux="néant">ARLEQUIN</role>, déguisé en Maître de Musique. </castItem>
+			<castItem><role id="" civil='F' type='H' statut='conte' age='A' statut_amoureux="nÃ©ant">LA FRIVOLITÃ‰</role>.</castItem>
+			<castItem><role id="" civil='F' type='H' statut='conte' age='A' statut_amoureux="nÃ©ant">L'HIVER</role>. </castItem>
+			<castItem><role id="" civil='F' type='H' statut='conte' age='A' statut_amoureux="nÃ©ant">MONSIEUR FAUSTER</role>, Suisse. </castItem>
+			<castItem><role id="" civil='F' type='H' statut='conte' age='A' statut_amoureux="nÃ©ant">MISS-BLAR</role>, ComÃ©dienne Anglaise.</castItem>
+			<castItem><role id="" civil='F' type='H' statut='conte' age='A' statut_amoureux="nÃ©ant">LE MARQUIS</role>. </castItem>
+			<castItem><role id="" civil='F' type='H' statut='conte' age='A' statut_amoureux="nÃ©ant">ARLEQUIN</role>, dÃ©guisÃ© en MaÃ®tre de Musique. </castItem>
 		</castList>
-<set location='Paris' country='France' periode='XVIIIème' link=''>La Scène est à Paris, dans l'Hôtel d'une jeune veuve de Finance.</set>
+<set location='Paris' country='France' periode='XVIIIÃ¨me' link=''>La ScÃ¨ne est Ã  Paris, dans l'HÃ´tel d'une jeune veuve de Finance.</set>
 </front>
 <body>
-<div1 type="acte" n="1"><head>ACTE I</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. La Frivolité, L'Hiver.</head>
-<sp who='LA FRIVOLITÉ'><speaker>LA FRIVOLITÉ. </speaker>
+<div1 type="act" n="1"><head>ACTE I</head>
+<div2 type="scene" n="1"><head>SCÃˆNE PREMIÃˆRE. La FrivolitÃ©, L'Hiver.</head>
+<sp who='LA FRIVOLITÃ‰'><speaker>LA FRIVOLITÃ‰. </speaker>
 	<l id='1'>C'est vous, mon bel Hiver ! Votre retour m'enchante : </l>
-	<l id='2'>Vous voilà mis d'un goût divin. </l>
+	<l id='2'>Vous voilÃ  mis d'un goÃ»t divin. </l>
 </sp>
 <sp who="L'HIVER"><speaker>L'HIVER.</speaker>
-	<l id='3'>En Hiver de Paris, qui te pare à dessein,</l>
-	<l id='4'>Pour vous faire sa cour, Frivolité charmante.</l>
-	<l id='5'>Mon âme était impatiente</l>
-	<l id='6'>De vous revoir dans ce brillant séjour. </l>
-	<l id='7'>Pour avoir ce plaisir, j'ai pressé mon retour, </l>
-	<l id='8'>Tout cède à ma froideur constante :</l>
-	<l id='9'>Pour vous, j'étends mes droits sur les autres saisons ; </l>
+	<l id='3'>En Hiver de Paris, qui te pare Ã  dessein,</l>
+	<l id='4'>Pour vous faire sa cour, FrivolitÃ© charmante.</l>
+	<l id='5'>Mon Ã¢me Ã©tait impatiente</l>
+	<l id='6'>De vous revoir dans ce brillant sÃ©jour. </l>
+	<l id='7'>Pour avoir ce plaisir, j'ai pressÃ© mon retour, </l>
+	<l id='8'>Tout cÃ¨de Ã  ma froideur constante :</l>
+	<l id='9'>Pour vous, j'Ã©tends mes droits sur les autres saisons ; </l>
 	<l id='10'>Je raccourcis l'automne, et souvent je recule </l>
-	<l id='11'>Les roses du Printemps, qu'alarment mes glaçons. </l>
-	<l id='12'>Te fais trembler l'Été, quelque feu qui le brûle ;</l>
-<note type="L">Aquilon : Le vent du nord. Poétiquement. Tout vent violent et froid. [L] </note>
-	<l id='13'>Et pour vous je ramène ici les aquilons </l>
+	<l id='11'>Les roses du Printemps, qu'alarment mes glaÃ§ons. </l>
+	<l id='12'>Te fais trembler l'Ã‰tÃ©, quelque feu qui le brÃ»le ;</l>
+<note type="L">Aquilon : Le vent du nord. PoÃ©tiquement. Tout vent violent et froid. [L] </note>
+	<l id='13'>Et pour vous je ramÃ¨ne ici les aquilons </l>
 	<l id='14'>Dans le fort de la canicule.</l>
 </sp>
-<sp who='LA FRIVOLITÉ'><speaker>LA FRIVOLITÉ. </speaker>
+<sp who='LA FRIVOLITÃ‰'><speaker>LA FRIVOLITÃ‰. </speaker>
 	<l id='15'>C'est me faire un honneur qu'on trouve ridicule,</l>
 	<l id='16'>Vous faites murmurer Paris</l>
-	<l id='17'>Par ce contre-temps qui le gèle.</l>
+	<l id='17'>Par ce contre-temps qui le gÃ¨le.</l>
 	<l id='18'>Je vous dirai bien plus : votre glace mortelle</l>
 	<l id='19'>Depuis un temps passe dans les esprits,</l>
-	<l id='20'>Et se répand surtout jusques sur les écrits. </l>
+	<l id='20'>Et se rÃ©pand surtout jusques sur les Ã©crits. </l>
 	<l id='21'>Les spectacles souvent en sont si refroidis,</l>
-	<l id='22'>Qu'on voit le jour d'une pièce nouvelle ,</l>
+	<l id='22'>Qu'on voit le jour d'une piÃ¨ce nouvelle ,</l>
 	<l id='23'>Tous les Spectateurs engourdis </l>
-	<l id='24'>Bâiller à l'unisson , et sortir tout transis.</l>
-	<l id='25'>Votre tyrannie est extrême, </l>
+	<l id='24'>BÃ¢iller Ã  l'unisson , et sortir tout transis.</l>
+	<l id='25'>Votre tyrannie est extrÃªme, </l>
 	<l id='26' part='i'>Et le Public s'en plaint.</l>
 </sp>
 <sp who="L'HIVER"><speaker>L'HIVER.</speaker>
 	<l id='26' part='f'>Il n'est jamais content. </l>
-	<l id='27'>Il sifflait autrefois, il bâille maintenant :</l>
-	<l id='28'>Au fond, cela revient au même ; </l>
-	<l id='29'>Et l'Auteur, qui plus est, gagne à ce changement;</l>
-	<l id='30'>Car la manière est moins brutale.</l>
+	<l id='27'>Il sifflait autrefois, il bÃ¢ille maintenant :</l>
+	<l id='28'>Au fond, cela revient au mÃªme ; </l>
+	<l id='29'>Et l'Auteur, qui plus est, gagne Ã  ce changement;</l>
+	<l id='30'>Car la maniÃ¨re est moins brutale.</l>
 	<l id='31'>Il tombe au moins plus doucement, </l>
-	<l id='32'>Et sa pièce meurt fans scandale. </l>
-	<l id='33'>Mais qu'il s'en prenne aux éléments , </l>
+	<l id='32'>Et sa piÃ¨ce meurt fans scandale. </l>
+	<l id='33'>Mais qu'il s'en prenne aux Ã©lÃ©ments , </l>
 	<l id='34'>Et qu'avec lui l'Univers me condamne , </l>
 	<l id='35'>Je ris de ces emportements, </l>
 	<l id='36'>Pourvu que vous soyez toujours ma partisane. </l>
 </sp>
-<sp who='LA FRIVOLITÉ'><speaker>LA FRIVOLITÉ.</speaker>
-	<l id='37'>Oui, vous êtes pour moi plus beau que le Printemps, </l>
+<sp who='LA FRIVOLITÃ‰'><speaker>LA FRIVOLITÃ‰.</speaker>
+	<l id='37'>Oui, vous Ãªtes pour moi plus beau que le Printemps, </l>
 	<l id='38'>Et vous ferez toujours ma Saison favorite. </l>
-	<l id='39'>Votre arrivée accroît mes agréments ; </l>
-	<l id='40'>De mes sujets vous ramenez l'élite, </l>
-	<l id='41'>Et vous réunissez cent plaisirs différents ; </l>
+	<l id='39'>Votre arrivÃ©e accroÃ®t mes agrÃ©ments ; </l>
+	<l id='40'>De mes sujets vous ramenez l'Ã©lite, </l>
+	<l id='41'>Et vous rÃ©unissez cent plaisirs diffÃ©rents ; </l>
 	<l id='42'>Spectacles, Jeux , Bals, Soupers ravissants, </l>
-	<l id='43'>Qui font briller tout mon mérite. </l>
+	<l id='43'>Qui font briller tout mon mÃ©rite. </l>
 </sp>
 <sp who="L'HIVER"><speaker>L'HIVER. </speaker>
-	<l id='44'>D'un si rare bonheur, l'Hiver se félicite.</l>
+	<l id='44'>D'un si rare bonheur, l'Hiver se fÃ©licite.</l>
 	<l id='45'>Mais vous brillez dans tous les temps. </l>
 	<l id='46'>Votre destin est des plus surprenants. </l>
-	<l id='47'>C'est la légèreté qui forme votre empire. </l>
-	<l id='48'>Votre trône fragile est assis sur les vents,</l>
-	<l id='49'>Et toutefois rien ne peut vous détruire. </l>
+	<l id='47'>C'est la lÃ©gÃ¨retÃ© qui forme votre empire. </l>
+	<l id='48'>Votre trÃ´ne fragile est assis sur les vents,</l>
+	<l id='49'>Et toutefois rien ne peut vous dÃ©truire. </l>
 </sp>
-<sp who='LA FRIVOLITÉ'><speaker>LA FRIVOLITÉ. </speaker>
-<note type="L">Sylphe : Nom que les cabalistes donnaient aux prétendus génies élémentaires de l'air. [L]</note>
-	<l id='50'>Mon trône est dans les airs par les Sylphes porté ; </l>
-<note type="L">Gnome : Nom des esprits qui. dans le système des cabalistes, président à l'élément de la terre et à tout ce qu'elle renferme dans son sein, comme les ondins à l'élément de l'eau, les sylphes à celui de l'air et les salamandres à celui du feu. [L]</note>
+<sp who='LA FRIVOLITÃ‰'><speaker>LA FRIVOLITÃ‰. </speaker>
+<note type="L">Sylphe : Nom que les cabalistes donnaient aux prÃ©tendus gÃ©nies Ã©lÃ©mentaires de l'air. [L]</note>
+	<l id='50'>Mon trÃ´ne est dans les airs par les Sylphes portÃ© ; </l>
+<note type="L">Gnome : Nom des esprits qui. dans le systÃ¨me des cabalistes, prÃ©sident Ã  l'Ã©lÃ©ment de la terre et Ã  tout ce qu'elle renferme dans son sein, comme les ondins Ã  l'Ã©lÃ©ment de l'eau, les sylphes Ã  celui de l'air et les salamandres Ã  celui du feu. [L]</note>
 	<l id='51'>Mais les Gnomes, qui sont l'appui de ma puissance, </l>
-	<l id='52'>L'attachent à la terre avec solidité.</l>
+	<l id='52'>L'attachent Ã  la terre avec soliditÃ©.</l>
 	<l id='53'>IL a pour base l'opulence, </l>
-	<l id='54'>Et mon règne est fondé sur la réalité. </l>
-	<l id='55'>Au milieu de Paris, j'ai pris, en conséquence,</l>
-	<l id='56'>La figure et les traits d'une jeune Beauté,</l>
-	<l id='57'>Veuve d'un Héros de finance,</l>
-	<l id='58'>Qu'elle épousa par préférence,</l>
-	<l id='59'>Pour rehausser sa qualité , </l>
-	<l id='60'>De tout l'éclat d'une fortune immense :</l>
-	<l id='61'>Et dans son riche hôtel, je fais ma résidence, </l>
+	<l id='54'>Et mon rÃ¨gne est fondÃ© sur la rÃ©alitÃ©. </l>
+	<l id='55'>Au milieu de Paris, j'ai pris, en consÃ©quence,</l>
+	<l id='56'>La figure et les traits d'une jeune BeautÃ©,</l>
+	<l id='57'>Veuve d'un HÃ©ros de finance,</l>
+	<l id='58'>Qu'elle Ã©pousa par prÃ©fÃ©rence,</l>
+	<l id='59'>Pour rehausser sa qualitÃ© , </l>
+	<l id='60'>De tout l'Ã©clat d'une fortune immense :</l>
+	<l id='61'>Et dans son riche hÃ´tel, je fais ma rÃ©sidence, </l>
 	<l id='62'>J'attire ici toute la France,</l>
-	<l id='63'>Dont je suis la Divinité. </l>
-	<l id='64'>Légère, vive, gaie, étourdie et coquette,</l>
-	<l id='65'>Je fixe les désirs de ce peuple brillant : </l>
+	<l id='63'>Dont je suis la DivinitÃ©. </l>
+	<l id='64'>LÃ©gÃ¨re, vive, gaie, Ã©tourdie et coquette,</l>
+	<l id='65'>Je fixe les dÃ©sirs de ce peuple brillant : </l>
 	<l id='66'>Les ris composent seuls le culte qu'il me rend ? </l>
 	<l id='67'>Et mon Autel est ma toilette, </l>
-	<l id='68'>Où je reçois ses voeux, en minaudant.</l>
+	<l id='68'>OÃ¹ je reÃ§ois ses voeux, en minaudant.</l>
 </sp>
 <sp who="L'HIVER"><speaker>L'HIVER. </speaker>
-	<l id='69'>Comme vous présidez aux talents agréables, </l>
-	<l id='70'>Danseurs , musiciens, poètes, tour atour, </l>
-	<l id='71'>Doivent faire, pour vous, éclater leur amour,</l>
+	<l id='69'>Comme vous prÃ©sidez aux talents agrÃ©ables, </l>
+	<l id='70'>Danseurs , musiciens, poÃ¨tes, tour atour, </l>
+	<l id='71'>Doivent faire, pour vous, Ã©clater leur amour,</l>
 	<l id='72'>Et former un concert de tous les arts aimables.</l>
 </sp>
-<sp who='LA FRIVOLITÉ'><speaker>LA FRIVOLITÉ. </speaker>
-	<l id='73'>Les États les plus sérieux,</l>
+<sp who='LA FRIVOLITÃ‰'><speaker>LA FRIVOLITÃ‰. </speaker>
+	<l id='73'>Les Ã‰tats les plus sÃ©rieux,</l>
 	<l id='74'>Les personnages les plus graves</l>
-	<l id='75'>Sont également mes esclaves ; </l>
-	<l id='76'>Même le plus frivole est souvent le plus vieux. </l>
-	<l id='77'>Le Magistrat que je délasse, </l>
+	<l id='75'>Sont Ã©galement mes esclaves ; </l>
+	<l id='76'>MÃªme le plus frivole est souvent le plus vieux. </l>
+	<l id='77'>Le Magistrat que je dÃ©lasse, </l>
 	<l id='78'>Vient me rendre le soir son hommage badin,</l>
 	<l id='79'>Au Militaire, il dispute la place </l>
-<note type="L">Menin : Chacun des six gentilhommes qui étaient attachés particulièrement à la personne du Dauphin ; ce nom venu d'Espagne fut employé pour la première fois à l'occasion du Dauphin de Louis XIV, en 1680, quand on lui composa sa maison. [L]</note>
+<note type="L">Menin : Chacun des six gentilhommes qui Ã©taient attachÃ©s particuliÃ¨rement Ã  la personne du Dauphin ; ce nom venu d'Espagne fut employÃ© pour la premiÃ¨re fois Ã  l'occasion du Dauphin de Louis XIV, en 1680, quand on lui composa sa maison. [L]</note>
 	<l id='80'>De mon premier menin ; </l>
 	<l id='81'>Et le jeune Marquis qui tous deux les surpasse,</l>
-	<l id='82'>Sur le beau Sexe même a le pas dans ma Cour, </l>
-	<l id='83'>1I taille mes pompons, il leur donne la grâce ; </l>
+	<l id='82'>Sur le beau Sexe mÃªme a le pas dans ma Cour, </l>
+	<l id='83'>1I taille mes pompons, il leur donne la grÃ¢ce ; </l>
 	<l id='84'>Et j'en fais ma coiffeuse, ou ma Dame d'atour.</l>
 </sp>
 <sp who="L'HIVER"><speaker>L'HIVER. </speaker>
-	<l id='85' part='i'>Il le mérite bien,</l>
+	<l id='85' part='i'>Il le mÃ©rite bien,</l>
 </sp>
-<sp who='LA FRIVOLITÉ'><speaker>LA FRIVOLITÉ. </speaker>
+<sp who='LA FRIVOLITÃ‰'><speaker>LA FRIVOLITÃ‰. </speaker>
 	<l id='85' part='f'>Dans ce jour d'importance, </l>
-	<l id='86'>Pour mieux étendre ma puissance, </l>
+	<l id='86'>Pour mieux Ã©tendre ma puissance, </l>
 	<l id='87'>Et mon nom dans tous les pays, </l>
 	<l id='88'>Je viens de me parer de mes plus beaux habits. </l>
 	<l id='89'>J'ai pris mon sceptre en main, et je donne audience </l>
-	<l id='90'>À tous les étrangers qui viennent à Paris, </l>
+	<l id='90'>Ã€ tous les Ã©trangers qui viennent Ã  Paris, </l>
 	<l id='91'>Pour former leur maintien, pour polir leur science,</l>
 	<l id='92'>Et donner aux talents ce brillant coloris</l>
 	<l id='93'>Qui les met dans leur jour, et qu'on ne prend qu'en France.</l>
 	<l id='94'>Je veux, de mes attraits, qu'ils connaissent le prix, </l>
-	<l id='95'>Et qu'à mon éventail, ils soient tous asservis.</l>
+	<l id='95'>Et qu'Ã  mon Ã©ventail, ils soient tous asservis.</l>
 </sp>
 <sp who="L'HIVER"><speaker>L'HIVER. </speaker>
 	<l id='96'>Votre victoire est trop certaine : </l>
-	<l id='97'>Pour mieux la célébrer, je vais, ma souveraine, </l>
+	<l id='97'>Pour mieux la cÃ©lÃ©brer, je vais, ma souveraine, </l>
 	<l id='98'>Rassembler tous mes jeux, qui vous doivent le jour,</l>
-	<l id='99'>Et je reviens après signaler mon retour, </l>
+	<l id='99'>Et je reviens aprÃ¨s signaler mon retour, </l>
 	<l id='100'>Par un bal singulier, dont vous serez la Reine,</l>
 <stage>Il sort.</stage>
 </sp>
 </div2>
-<div2 type='scene' n='2'><head>SCÈNE II. La Frivolité, Monsieur Fauster.</head>
+<div2 type="scene" n='2'><head>SCÃˆNE II. La FrivolitÃ©, Monsieur Fauster.</head>
 <sp who='MONSIEUR FAUSTER'><speaker>MONSIEUR FAUSTER.</speaker>
-	<l id='101'>Je donne le bonjour à tous vos agréments. </l>
+	<l id='101'>Je donne le bonjour Ã  tous vos agrÃ©ments. </l>
 	<l id='102'>Madame, vous voyez un Socrate moderne, </l>
-	<l id='103'>Qui, pour ne rien savoir, étudia vingt ans, </l>
+	<l id='103'>Qui, pour ne rien savoir, Ã©tudia vingt ans, </l>
 	<l id='104'>Et qui honteux d'avoir perdu son temps,</l>
-	<l id='105'>De dépit est parti de Berne,</l>
+	<l id='105'>De dÃ©pit est parti de Berne,</l>
 	<l id='106'>Pour devenir en France un aimable ignorant. </l>
 	<l id='107'>Tout ce que j'ai, Madame, appris certainement,</l>
 	<l id='108'>C'est qu'ici-bas tout est frivole,</l>
-	<l id='109'>Que la réalité n'est que l'amusement,</l>
+	<l id='109'>Que la rÃ©alitÃ© n'est que l'amusement,</l>
 	<l id='110'>Et pour apprendre promptement </l>
-	<l id='111'>Ce joli savoir-là, je viens à votre école.</l>
+	<l id='111'>Ce joli savoir-lÃ , je viens Ã  votre Ã©cole.</l>
 </sp>
-<sp who='LA FRIVOLITÉ'><speaker>LA FRIVOLITÉ.</speaker>
-	<l id='112'>Votre sincérité me plaît. </l>
+<sp who='LA FRIVOLITÃ‰'><speaker>LA FRIVOLITÃ‰.</speaker>
+	<l id='112'>Votre sincÃ©ritÃ© me plaÃ®t. </l>
 	<l id='113'>Vous voyez, quoique tard, le monde tel qu'il est.</l>
 	<l id='114'>Son globe entier n'est que superficie :</l>
-	<l id='115'>Un ballon gonflé d'air, décoré de clinquant,</l>
-	<l id='116'>Tout est, à mes pompons, soumis par conséquent, </l>
-	<l id='117'>Et dépend de ma Monarchie. </l>
-	<l id='118'>Elle est universelle, et je n'ai qu'à vouloir. </l>
-	<l id='119'>Le Sage en vain déclame contre,</l>
-	<l id='120'>Il est comme le fou, sujet à mon pouvoir. </l>
-	<l id='121'>Il a beau m'éviter, partout il me rencontre. </l>
+	<l id='115'>Un ballon gonflÃ© d'air, dÃ©corÃ© de clinquant,</l>
+	<l id='116'>Tout est, Ã  mes pompons, soumis par consÃ©quent, </l>
+	<l id='117'>Et dÃ©pend de ma Monarchie. </l>
+	<l id='118'>Elle est universelle, et je n'ai qu'Ã  vouloir. </l>
+	<l id='119'>Le Sage en vain dÃ©clame contre,</l>
+	<l id='120'>Il est comme le fou, sujet Ã  mon pouvoir. </l>
+	<l id='121'>Il a beau m'Ã©viter, partout il me rencontre. </l>
 	<l id='122'>Qu'il mesure la Terre, ou soit qu'il vole au Ciel, </l>
 	<l id='123'>Soit qu'il sonde la Mer, je suis toujours son guide; </l>
 	<l id='124'>Et l'Anglais si profond, ou qui passe pour tel, </l>
 	<l id='125'>Creuse dans le frivole, et tombe dans le vide. </l>
-	<l id='126'>Le Français, qui tout haut s'honore de mes fers,</l>
+	<l id='126'>Le FranÃ§ais, qui tout haut s'honore de mes fers,</l>
 	<l id='127'>Est plus raisonnable et moins dupe,</l>
-	<l id='128'>Son esprit léger ne s'occupe </l>
-	<l id='129'>Qu'à parer ses dehors, à varier ses jeux, </l>
-	<l id='130'>Qu'à goûter le plaisir, sans rechercher sa cause,</l>
-	<l id='131'>Et qu'à prendre, en passant, la fleur de chaque chose. </l>
-	<l id='132'>Par ce système avantageux,</l>
+	<l id='128'>Son esprit lÃ©ger ne s'occupe </l>
+	<l id='129'>Qu'Ã  parer ses dehors, Ã  varier ses jeux, </l>
+	<l id='130'>Qu'Ã  goÃ»ter le plaisir, sans rechercher sa cause,</l>
+	<l id='131'>Et qu'Ã  prendre, en passant, la fleur de chaque chose. </l>
+	<l id='132'>Par ce systÃ¨me avantageux,</l>
 	<l id='133'>Il en est plus aimable, et cent fois plus heureux. </l>
 </sp>
 <sp who='MONSIEUR FAUSTER'><speaker>MONSIEUR FAUSTER.</speaker>
 	<l id='134'>C'est ce que j'ai senti. Pour marcher fur sa trace, </l>
-	<l id='135'>Donner dans le léger, voler fur la surface , </l>
+	<l id='135'>Donner dans le lÃ©ger, voler fur la surface , </l>
 	<l id='136'>Je compose un roman : j'ose vous supplier </l>
-	<l id='137'>D'en agréer la dédicace..</l>
+	<l id='137'>D'en agrÃ©er la dÃ©dicace..</l>
 </sp>
-<sp who='LA FRIVOLITÉ'><speaker>LA FRIVOLITÉ.</speaker>
-	<l id='138'>Un roman Suisse ! Et me le dédier! </l>
+<sp who='LA FRIVOLITÃ‰'><speaker>LA FRIVOLITÃ‰.</speaker>
+	<l id='138'>Un roman Suisse ! Et me le dÃ©dier! </l>
 	<l id='139'>L'honneur est rare, et je m'en glorifie.</l>
 </sp>
 <sp who='MONSIEUR FAUSTER'><speaker>MONSIEUR FAUSTER.</speaker>
-	<l id='140'>Je l'écris en Français, d'un style fort léger, </l>
-	<l id='141'>Il contient votre éloge, ou votre apologie, </l>
-	<l id='142'>Et vous devez le protéger.</l>
-	<l id='143'>Le Héros, dont j'écris la vie, </l>
-	<l id='144'>Est un Héros paisible ; et son plus grand danger </l>
-	<l id='145'>Est celui de tomber dans une Comédie, </l>
-	<l id='146'>Ou de voir de trop près une actrice jolie. </l>
+	<l id='140'>Je l'Ã©cris en FranÃ§ais, d'un style fort lÃ©ger, </l>
+	<l id='141'>Il contient votre Ã©loge, ou votre apologie, </l>
+	<l id='142'>Et vous devez le protÃ©ger.</l>
+	<l id='143'>Le HÃ©ros, dont j'Ã©cris la vie, </l>
+	<l id='144'>Est un HÃ©ros paisible ; et son plus grand danger </l>
+	<l id='145'>Est celui de tomber dans une ComÃ©die, </l>
+	<l id='146'>Ou de voir de trop prÃ¨s une actrice jolie. </l>
 </sp>
-<sp who='LA FRIVOLITÉ'><speaker>LA FRIVOLITÉ.</speaker>
-	<l id='147'>Mais, vu par ce côté, votre ouvrage me rit.</l>
+<sp who='LA FRIVOLITÃ‰'><speaker>LA FRIVOLITÃ‰.</speaker>
+	<l id='147'>Mais, vu par ce cÃ´tÃ©, votre ouvrage me rit.</l>
 	<l id='148'>Quel est le titre, je vous prie ? </l>
 </sp>
 <sp who='MONSIEUR FAUSTER'><speaker>MONSIEUR FAUSTER.</speaker>
-	<l id='149'>C'est le Suisse qui rêve, ou la Philosophie </l>
-	<l id='150'>Réduite à rien par un homme d'esprits.</l>
+	<l id='149'>C'est le Suisse qui rÃªve, ou la Philosophie </l>
+	<l id='150'>RÃ©duite Ã  rien par un homme d'esprits.</l>
 </sp>
-<sp who='LA FRIVOLITÉ'><speaker>LA FRIVOLITÉ.</speaker>
-	<l id='151'>Suisse spirituel, et qui rêve à profit ! </l>
+<sp who='LA FRIVOLITÃ‰'><speaker>LA FRIVOLITÃ‰.</speaker>
+	<l id='151'>Suisse spirituel, et qui rÃªve Ã  profit ! </l>
 </sp>
 <sp who='MONSIEUR FAUSTER'><speaker>MONSIEUR FAUSTER.</speaker>
-	<l id='152'>Ce paradoxe vous étonne. </l>
-	<l id='153'>Il choque ouvertement le proverbe reçu. </l>
+	<l id='152'>Ce paradoxe vous Ã©tonne. </l>
+	<l id='153'>Il choque ouvertement le proverbe reÃ§u. </l>
 </sp>
-<sp who='LA FRIVOLITÉ'><speaker>LA FRIVOLITÉ.</speaker>
+<sp who='LA FRIVOLITÃ‰'><speaker>LA FRIVOLITÃ‰.</speaker>
 	<l id='154'>Il est vrai que l'esprit n'est pas une vertu</l>
-	<l id='155'>Dont le grand nombre vous soupçonne.</l>
+	<l id='155'>Dont le grand nombre vous soupÃ§onne.</l>
 </sp>
 <sp who='MONSIEUR FAUSTER'><speaker>MONSIEUR FAUSTER.</speaker>
-	<l id='156'>Voilà précisément ce que j'ai combattu</l>
-	<l id='157'>Dans mon discours préliminaire.</l>
-	<l id='158'>J'y compare d'abord l'esprit, qui nous éclaire, </l>
-	<l id='159'>Au bel Astre du jour, qui répand sa lumière </l>
-	<l id='160'>Sur tout le monde également ; </l>
-	<l id='161'>Et je fais voir après par des preuves réelles, </l>
-	<l id='162'>Qu'on le transplante en commerçant, </l>
-	<l id='163'>Que du Français, il passe à l'Allemand, </l>
-<note type="L">Dardanelles : Détroit qui sépare l'Asie de l'Europe et lie l'Archipel à la mer de Marmara. [B] actuellement en Turquie.</note>
+	<l id='156'>VoilÃ  prÃ©cisÃ©ment ce que j'ai combattu</l>
+	<l id='157'>Dans mon discours prÃ©liminaire.</l>
+	<l id='158'>J'y compare d'abord l'esprit, qui nous Ã©claire, </l>
+	<l id='159'>Au bel Astre du jour, qui rÃ©pand sa lumiÃ¨re </l>
+	<l id='160'>Sur tout le monde Ã©galement ; </l>
+	<l id='161'>Et je fais voir aprÃ¨s par des preuves rÃ©elles, </l>
+	<l id='162'>Qu'on le transplante en commerÃ§ant, </l>
+	<l id='163'>Que du FranÃ§ais, il passe Ã  l'Allemand, </l>
+<note type="L">Dardanelles : DÃ©troit qui sÃ©pare l'Asie de l'Europe et lie l'Archipel Ã  la mer de Marmara. [B] actuellement en Turquie.</note>
 	<l id='164'>Qu'il s'embarque sur mer, franchit les Dardanelles,</l>
 	<l id='165'>Et circule comme l'argent. </l>
-	<l id='166'>Voilà pourquoi chaque peuple varie, </l>
+	<l id='166'>VoilÃ  pourquoi chaque peuple varie, </l>
 	<l id='167'>En trafiquant dans les autres climats, </l>
-	<l id='168'>II en prend l'air, les façons, le génie, </l>
-	<l id='169'>Communique le sien à ces mêmes États. </l>
-	<l id='170'>Les moeurs ainsi partout se mêlent en partie, </l>
-	<l id='171'>Et forment, par degrés, un monde tout nouveau ? </l>
-	<l id='172'>Nous sommes les témoins d'un prodige si beau. </l>
+	<l id='168'>II en prend l'air, les faÃ§ons, le gÃ©nie, </l>
+	<l id='169'>Communique le sien Ã  ces mÃªmes Ã‰tats. </l>
+	<l id='170'>Les moeurs ainsi partout se mÃªlent en partie, </l>
+	<l id='171'>Et forment, par degrÃ©s, un monde tout nouveau ? </l>
+	<l id='172'>Nous sommes les tÃ©moins d'un prodige si beau. </l>
 	<l id='173'>L'Europe maintenant, et, qui plus est, l'Asie </l>
-	<l id='174'>Présentent à nos yeux un différent tableau. </l>
+	<l id='174'>PrÃ©sentent Ã  nos yeux un diffÃ©rent tableau. </l>
 	<l id='175'>Le beau Sexe n'est plus esclave en Italie ;</l>
 	<l id='176'>Et l'on boit du vin en Turquie.</l>
-	<l id='177'>En France, l'on s'est mis à l'eau ; </l>
+	<l id='177'>En France, l'on s'est mis Ã  l'eau ; </l>
 	<l id='178'>Et l'on fait des vers en Russie.</l>
 </sp>
-<sp who='LA FRIVOLITÉ'><speaker>LA FRIVOLITÉ.</speaker>
-	<l id='179'>Des vers Russes, je crois, doivent être jolis.</l>
+<sp who='LA FRIVOLITÃ‰'><speaker>LA FRIVOLITÃ‰.</speaker>
+	<l id='179'>Des vers Russes, je crois, doivent Ãªtre jolis.</l>
 </sp>
 <sp who='MONSIEUR FAUSTER'><speaker>MONSIEUR FAUSTER.</speaker>
 	<l id='180'>Votre commerce et vos ouvrages </l>
-	<l id='181'>Nous ont polis, nous ont éclairés tous ; </l>
+	<l id='181'>Nous ont polis, nous ont Ã©clairÃ©s tous ; </l>
 	<l id='182'>Et pour vous vaincre, un jour, dans tous vos avantages,</l>
 	<l id='183'>Nous prenons des armes chez vous. </l>
-	<l id='184'>Votre idiome ailleurs fait du progrès fans cesse</l>
+	<l id='184'>Votre idiome ailleurs fait du progrÃ¨s fans cesse</l>
 	<l id='185'>On le parle dans tout pays, </l>
-	<l id='186'>Comme celui de Rome et de la Grèce. </l>
-	<l id='187'>À Copenhague, on le professe , </l>
-	<l id='188'>Et, jusqu'en Amérique, il fait des Beaux-Esprits. </l>
+	<l id='186'>Comme celui de Rome et de la GrÃ¨ce. </l>
+	<l id='187'>Ã€ Copenhague, on le professe , </l>
+	<l id='188'>Et, jusqu'en AmÃ©rique, il fait des Beaux-Esprits. </l>
 </sp>
-<sp who='LA FRIVOLITÉ'><speaker>LA FRIVOLITÉ.</speaker>
+<sp who='LA FRIVOLITÃ‰'><speaker>LA FRIVOLITÃ‰.</speaker>
 	<l id='189'>Puissent-ils venir mieux dans la nouvelle France,</l>
 	<l id='190'>Que, depuis quelque temps, ils ne viennent ici ! </l>
 </sp>
 <sp who='MONSIEUR FAUSTER'><speaker>MONSIEUR FAUSTER.</speaker>
-	<l id='191'>La révolution n'est pas si loin qu'on pense. </l>
-	<l id='192'>Le règne de l'Esprit peut, comme la Science, </l>
-<note type="L">Potosi : Il existe une ville de Bolivie nommée Potisi et qui signifie Tonnerre en Quechua.</note>
+	<l id='191'>La rÃ©volution n'est pas si loin qu'on pense. </l>
+	<l id='192'>Le rÃ¨gne de l'Esprit peut, comme la Science, </l>
+<note type="L">Potosi : Il existe une ville de Bolivie nommÃ©e Potisi et qui signifie Tonnerre en Quechua.</note>
 	<l id='193'>Passer dans nos Cantons, et puis au Potosi.</l>
-	<l id='194'>Notre bon goût se forme, et le vôtre commence </l>
-	<l id='195'>À s'altérer dans vos écrits. </l>
-	<l id='196'>Le savoir, parmi vous tombé dans le mépris, </l>
-	<l id='197'>Fait dans le Nord sa résidence, </l>
-	<l id='198'>Et, pour les Arts qu'il récompense ;</l>
-	<l id='199'>Berlin déjà le dispute à Paris.</l>
+	<l id='194'>Notre bon goÃ»t se forme, et le vÃ´tre commence </l>
+	<l id='195'>Ã€ s'altÃ©rer dans vos Ã©crits. </l>
+	<l id='196'>Le savoir, parmi vous tombÃ© dans le mÃ©pris, </l>
+	<l id='197'>Fait dans le Nord sa rÃ©sidence, </l>
+	<l id='198'>Et, pour les Arts qu'il rÃ©compense ;</l>
+	<l id='199'>Berlin dÃ©jÃ  le dispute Ã  Paris.</l>
 </sp>
-<sp who='LA FRIVOLITÉ'><speaker>LA FRIVOLITÉ.</speaker>
+<sp who='LA FRIVOLITÃ‰'><speaker>LA FRIVOLITÃ‰.</speaker>
 	<l id='200'>Nous honorons d'un accueil favorable , </l>
-	<l id='201'>Plus que jamais, tous les Arts d'agrément. </l>
-	<l id='202'>Nous n'estimons pas moins l'abstrait que l'agréable.</l>
-	<l id='203'>Nous préférons l'Algébre à la Danse souvent. </l>
-	<l id='204'>Newton, plus que Dupré, nous paraît admirable; </l>
-	<l id='205'>Et l'électricité nous frappe uniquement.</l>
+	<l id='201'>Plus que jamais, tous les Arts d'agrÃ©ment. </l>
+	<l id='202'>Nous n'estimons pas moins l'abstrait que l'agrÃ©able.</l>
+	<l id='203'>Nous prÃ©fÃ©rons l'AlgÃ©bre Ã  la Danse souvent. </l>
+	<l id='204'>Newton, plus que DuprÃ©, nous paraÃ®t admirable; </l>
+	<l id='205'>Et l'Ã©lectricitÃ© nous frappe uniquement.</l>
 	<l id='206'>Ses invisibles coups, qui tiennent de la fable, </l>
-	<l id='207'>Comme ceux de l'Amour, exercent à présent </l>
+	<l id='207'>Comme ceux de l'Amour, exercent Ã  prÃ©sent </l>
 	<l id='208'>Un empire aussi sort, qu'il est inexplicable. </l>
 	<l id='209'>Nous l'employons universellement,</l>
 	<l id='210'>Et, dans notre fureur, jusqu'au feu du tonnerre, </l>
-	<l id='211'>Nous électrisons tout impitoyablement. </l>
+	<l id='211'>Nous Ã©lectrisons tout impitoyablement. </l>
 	<l id='212'>Nouveaux Titans, dans cette guerre, </l>
-	<l id='213'>Nous voulons désarmer le Roi du Firmament, </l>
+	<l id='213'>Nous voulons dÃ©sarmer le Roi du Firmament, </l>
 	<l id='214'>Et soumettre le Ciel au pouvoir de la Terre. </l>
 </sp>
 <sp who='MONSIEUR FAUSTER'><speaker>MONSIEUR FAUSTER.</speaker>
 	<l id='215'>Vous regardez cela comme un amusement. </l>
 </sp>
-<sp who='LA FRIVOLITÉ'><speaker>LA FRIVOLITÉ.</speaker>
-	<l id='216'>C'est comme il faut tout voir, par le côté charmant. </l>
-	<l id='217'>Pour l'érudition, dont la lourdeur accable, </l>
-	<l id='218'>Si nous la négligeons, le mal n'est pas bien grand. </l>
-	<l id='219'>Le gros savoir fait un pédant. </l>
+<sp who='LA FRIVOLITÃ‰'><speaker>LA FRIVOLITÃ‰.</speaker>
+	<l id='216'>C'est comme il faut tout voir, par le cÃ´tÃ© charmant. </l>
+	<l id='217'>Pour l'Ã©rudition, dont la lourdeur accable, </l>
+	<l id='218'>Si nous la nÃ©gligeons, le mal n'est pas bien grand. </l>
+	<l id='219'>Le gros savoir fait un pÃ©dant. </l>
 	<l id='220'>L'esprit lui seul fait l'homme aimable, </l>
 	<l id='221'>Qui chez nous est le vrai savant. </l>
 </sp>
 <sp who='MONSIEUR FAUSTER'><speaker>MONSIEUR FAUSTER.</speaker>
 	<l id='222' part='i'>L'Esprit en fait partout. </l>
 </sp>
-<sp who='LA FRIVOLITÉ'><speaker>LA FRIVOLITÉ, d'un ton ironique.</speaker>
+<sp who='LA FRIVOLITÃ‰'><speaker>LA FRIVOLITÃ‰, d'un ton ironique.</speaker>
 	<l id='222' part='f'>Et qui doivent nous vaincre. </l>
 	<l id='223'>Votre exemple , Monsieur, suffit pour nous convaincre.</l>
 </sp>
 <sp who='MONSIEUR FAUSTER'><speaker>MONSIEUR FAUSTER.</speaker>
 	<l id='224'>Le tort me sait sentir le vrai sens de ces mots. </l>
-	<l id='225'>Il dit, en bon Français, que nous sommes des sots. </l>
+	<l id='225'>Il dit, en bon FranÃ§ais, que nous sommes des sots. </l>
 </sp>
-<sp who='LA FRIVOLITÉ'><speaker>LA FRIVOLITÉ.</speaker>
-	<l id='226' part='i'>Vous l'interprétez mal. </l>
+<sp who='LA FRIVOLITÃ‰'><speaker>LA FRIVOLITÃ‰.</speaker>
+	<l id='226' part='i'>Vous l'interprÃ©tez mal. </l>
 </sp>
 <sp who='MONSIEUR FAUSTER'><speaker>MONSIEUR FAUSTER.</speaker>
 	<l id='226' part='f'>Non, j'entends l'ironie. </l>
-	<l id='227'>Vos pièces de tout temps, ainsi que vos propos, </l>
-	<l id='228'>De la bêtise, en tout, nous ont fait les Héros ; </l>
-	<l id='229'>Et votre raillerie, aux spectateurs crédules, </l>
-	<l id='230'>Offre un Tableau chargé de nos vieux ridicules, </l>
+	<l id='227'>Vos piÃ¨ces de tout temps, ainsi que vos propos, </l>
+	<l id='228'>De la bÃªtise, en tout, nous ont fait les HÃ©ros ; </l>
+	<l id='229'>Et votre raillerie, aux spectateurs crÃ©dules, </l>
+	<l id='230'>Offre un Tableau chargÃ© de nos vieux ridicules, </l>
 	<l id='231'>Tels qu'ils n'existent plus que dans vos seuls cerveaux. </l>
-	<l id='232'>Moi, plus juste, d'une âme franche, </l>
+	<l id='232'>Moi, plus juste, d'une Ã¢me franche, </l>
 	<l id='233'>Je ris de vos travers nouveaux, </l>
 	<l id='234'>Et je viens prendre ma revanche. </l>
-<note tyype="L">Berne : Capitale de la Confédération Suisse.</note>
+<note tyype="L">Berne : Capitale de la ConfÃ©dÃ©ration Suisse.</note>
 	<l id='235'>Comme Berne, Paris a ses originaux.</l>
 	<l id='236'>Cette Ville qui, toujours franche, </l>
 <note type="L">Treize cantons : la Suisse.</note>
 	<l id='237'>Ne doit plus se moquer de nos treize cantons, </l>
 	<l id='238'>Madame ; et vos Marquis valent bien nos Barons.</l>
 </sp>
-<sp who='LA FRIVOLITÉ'><speaker>LA FRIVOLITÉ.</speaker>
-	<l id='239'>Aux étrangers toujours nous donnons l'avantage.</l>
+<sp who='LA FRIVOLITÃ‰'><speaker>LA FRIVOLITÃ‰.</speaker>
+	<l id='239'>Aux Ã©trangers toujours nous donnons l'avantage.</l>
 </sp>
 <sp who='MONSIEUR FAUSTER'><speaker>MONSIEUR FAUSTER.</speaker>
-	<l id='240'>Madame, s'il vous plaît, trêve de persiflage.</l>
+	<l id='240'>Madame, s'il vous plaÃ®t, trÃªve de persiflage.</l>
 </sp>
-<sp who='LA FRIVOLITÉ'><speaker>LA FRIVOLITÉ.</speaker>
-	<l id='241'>Non, en votre faveur, nous sommes prévenus.</l>
-	<l id='242'>Lé défaut du Français est d'outrer là-dessus. </l>
+<sp who='LA FRIVOLITÃ‰'><speaker>LA FRIVOLITÃ‰.</speaker>
+	<l id='241'>Non, en votre faveur, nous sommes prÃ©venus.</l>
+	<l id='242'>LÃ© dÃ©faut du FranÃ§ais est d'outrer lÃ -dessus. </l>
 	<l id='243'>Les moeurs de ses voisins sont toujours les plus sages. </l>
-	<l id='244'>Il adopte leurs Arts, leurs écrits, leurs usages. </l>
-	<l id='245'>Fait, pour servir en tout de modèle brillant, </l>
-	<l id='246'>II en perd le mérite, et par cette manie </l>
-	<l id='247'>D'un bon original, il devient très souvent </l>
+	<l id='244'>Il adopte leurs Arts, leurs Ã©crits, leurs usages. </l>
+	<l id='245'>Fait, pour servir en tout de modÃ¨le brillant, </l>
+	<l id='246'>II en perd le mÃ©rite, et par cette manie </l>
+	<l id='247'>D'un bon original, il devient trÃ¨s souvent </l>
 	<l id='248'>Une fort mauvaise copie.</l>
 </sp>
 <sp who='MONSIEUR FAUSTER'><speaker>MONSIEUR FAUSTER.</speaker>
-	<l id='249'>Je blâme cet excès vraiment.</l>
+	<l id='249'>Je blÃ¢me cet excÃ¨s vraiment.</l>
 	<l id='250'>Il forme en elle un autre ridicule. </l>
 	<l id='251'>Lorsqu'un voisin fait bien, on doit prendre son ton, </l>
-	<l id='252'>Ou plutôt enchérir sur ce qu'il a de bon. </l>
+	<l id='252'>Ou plutÃ´t enchÃ©rir sur ce qu'il a de bon. </l>
 	<l id='253'>Mais, quand servilement on le suit sans scrupule, </l>
-	<l id='254'>On est alors son singe, et non pas son émule. </l>
-	<l id='255'>Au portrait du Français j'ajouterai ce trait,</l>
+	<l id='254'>On est alors son singe, et non pas son Ã©mule. </l>
+	<l id='255'>Au portrait du FranÃ§ais j'ajouterai ce trait,</l>
 	<l id='256'>Dans mon Roman que je retouche:</l>
-	<l id='257'>Je vous implore à ce sujet. </l>
+	<l id='257'>Je vous implore Ã  ce sujet. </l>
 	<l id='258'>Adoucissez, pour moi, le critique farouche. </l>
-	<l id='259'>Les Dames aujourd'hui sont le sort d'un écrit ; </l>
-	<l id='260'>Et, dès qu'il est vanté par une belle bouche </l>
-	<l id='261'>L'ouvrage a de la vogue, et l'Auteur réussit.</l>
+	<l id='259'>Les Dames aujourd'hui sont le sort d'un Ã©crit ; </l>
+	<l id='260'>Et, dÃ¨s qu'il est vantÃ© par une belle bouche </l>
+	<l id='261'>L'ouvrage a de la vogue, et l'Auteur rÃ©ussit.</l>
 </sp>
-<sp who='LA FRIVOLITÉ'><speaker>LA FRIVOLITÉ.</speaker>
+<sp who='LA FRIVOLITÃ‰'><speaker>LA FRIVOLITÃ‰.</speaker>
 	<l id='262'>Sans avoir lu, je donne mon suffrage ; </l>
-	<l id='263'>De maison en maison, j'irai prôner l'ouvrage. </l>
+	<l id='263'>De maison en maison, j'irai prÃ´ner l'ouvrage. </l>
 	<l id='264'>Je forcerai tous mes amis,</l>
-	<l id='265'>Les uns à l'acheter, les autres à le vendre,</l>
-	<l id='266'>Pour mieux l'accréditer, je doublerai le prix.</l>
-	<l id='267'>En même-temps, j'aurai foin de répandre </l>
-	<l id='268'>Qu'il est d'un étranger. C'est pour le faire prendre,</l>
+	<l id='265'>Les uns Ã  l'acheter, les autres Ã  le vendre,</l>
+	<l id='266'>Pour mieux l'accrÃ©diter, je doublerai le prix.</l>
+	<l id='267'>En mÃªme-temps, j'aurai foin de rÃ©pandre </l>
+	<l id='268'>Qu'il est d'un Ã©tranger. C'est pour le faire prendre,</l>
 	<l id='269'>Monsieur, un titre qui suffit. </l>
-	<l id='270'>Je réponds du succès, ou du moins du débit. </l>
-	<l id='271'>L'un a de l'air de l'autre, et l'on peut s'y méprendre </l>
-	<l id='272'>La réussite, ou le grand bruit, </l>
-	<l id='273'>Aujourd'hui, d'une Comédie, </l>
-	<l id='274'>Du seul manège est en secret le fruit. </l>
-	<l id='275'>La première semaine, en foule on s'extasie ; </l>
+	<l id='270'>Je rÃ©ponds du succÃ¨s, ou du moins du dÃ©bit. </l>
+	<l id='271'>L'un a de l'air de l'autre, et l'on peut s'y mÃ©prendre </l>
+	<l id='272'>La rÃ©ussite, ou le grand bruit, </l>
+	<l id='273'>Aujourd'hui, d'une ComÃ©die, </l>
+	<l id='274'>Du seul manÃ¨ge est en secret le fruit. </l>
+	<l id='275'>La premiÃ¨re semaine, en foule on s'extasie ; </l>
 	<l id='276'>La seconde, elle baisse, et n'offre rien de neuf, </l>
-	<l id='277'>La troisième, elle perd la vie. </l>
-	<l id='278'>Voilà, j'en excepte Génie,</l>
-	<l id='279'>Voilà nos grands succès depuis quarante-neuf.</l>
+	<l id='277'>La troisiÃ¨me, elle perd la vie. </l>
+	<l id='278'>VoilÃ , j'en excepte GÃ©nie,</l>
+	<l id='279'>VoilÃ  nos grands succÃ¨s depuis quarante-neuf.</l>
 </sp>
 <sp who='MONSIEUR FAUSTER'><speaker>MONSIEUR FAUSTER.</speaker>
 	<l id='280'>Mille remerciements. Une Dame s'avance. </l>
 	<l id='281'>J'attendrai qu'elle ait fait, pour vous dire bonsoir,</l>
-	<l id='282'>Et je m'éloigne un peu par bienséance.</l>
+	<l id='282'>Et je m'Ã©loigne un peu par biensÃ©ance.</l>
 </sp>
-<sp who='LA FRIVOLITÉ'><speaker>LA FRIVOLITÉ.</speaker>
+<sp who='LA FRIVOLITÃ‰'><speaker>LA FRIVOLITÃ‰.</speaker>
 	<l id='283'>C'est une Anglaise, et de ma connaissance. </l>
 	<l id='284'>Je ne saurais trop bien la recevoir. </l>
 </sp>
 </div2>
-<div2 type='scene' n='3'><head>SCÈNE III. La Frivolité, Monsieur Fauster, Miss-Blar.</head>
+<div2 type="scene" n='3'><head>SCÃˆNE III. La FrivolitÃ©, Monsieur Fauster, Miss-Blar.</head>
 <sp who='MISS-BLAR'><speaker>MISS-BLAR.</speaker>
 	<l id='285'>Vous faites aujourd'hui les honneurs de la France,</l>
-	<l id='286'>Recevez donc ma révérence. </l>
+	<l id='286'>Recevez donc ma rÃ©vÃ©rence. </l>
 	<l id='287'>Avant que de partir j'ai voulu vous revoir,</l>
 	<l id='288' part='i'>Madame.</l>
 </sp>
-<sp who='LA FRIVOLITÉ'><speaker>LA FRIVOLITÉ.</speaker>
+<sp who='LA FRIVOLITÃ‰'><speaker>LA FRIVOLITÃ‰.</speaker>
 	<l id='288' part='m'>Vous partez, Miss-Blar !</l>
 </sp>
 <sp who='MISS-BLAR'><speaker>MISS-BLAR.</speaker>
 	<l id='288' part='f'>En diligence, </l>
-	<l id='289'>Et sans avoir le temps d'aller même en Provence.</l>
+	<l id='289'>Et sans avoir le temps d'aller mÃªme en Provence.</l>
 </sp>
-<sp who='LA FRIVOLITÉ'><speaker>LA FRIVOLITÉ.</speaker>
+<sp who='LA FRIVOLITÃ‰'><speaker>LA FRIVOLITÃ‰.</speaker>
 	<l id='290'>Mais pour dissiper, pour bannir l'esprit noir,</l>
-	<l id='291'>Qui vous travaille dès l'enfance, </l>
+	<l id='291'>Qui vous travaille dÃ¨s l'enfance, </l>
 	<l id='292'>L'air de Paris est l'air par excellence.</l>
-	<l id='293' part='i'>Vous l'avez dû sentir déjà.</l>
+	<l id='293' part='i'>Vous l'avez dÃ» sentir dÃ©jÃ .</l>
 </sp>
 <sp who='MISS-BLAR'><speaker>MISS-BLAR.</speaker>
 	<l id='293' part='f'>Moi ! point ; jusqu'ici, </l>
-	<l id='294'>Madame, il a mal réussi.</l>
+	<l id='294'>Madame, il a mal rÃ©ussi.</l>
 </sp>
-<sp who='LA FRIVOLITÉ'><speaker>LA FRIVOLITÉ.</speaker>
-	<l id='295'>Vous méritez que je vous gronde. </l>
+<sp who='LA FRIVOLITÃ‰'><speaker>LA FRIVOLITÃ‰.</speaker>
+	<l id='295'>Vous mÃ©ritez que je vous gronde. </l>
 	<l id='296'>Que ne me croyez-vous ? C'est votre faute aussi. </l>
-	<l id='297'>Il fallait vous répandre au milieu du grand monde,</l>
+	<l id='297'>Il fallait vous rÃ©pandre au milieu du grand monde,</l>
 	<l id='298'>Me suivre dans son tourbillon.</l>
 </sp>
 <sp who='MISS-BLAR'><speaker>MISS-BLAR.</speaker>
-	<l id='299'>Dans l'espoir de ma guérison, </l>
-	<l id='300'>Madame, je m'y fuis jetée en furieuse ; </l>
+	<l id='299'>Dans l'espoir de ma guÃ©rison, </l>
+	<l id='300'>Madame, je m'y fuis jetÃ©e en furieuse ; </l>
 	<l id='301'>J'ai d'abord entrevu quelque petit rayon ; </l>
-	<l id='302'>Mais pst, il s'est éteint. J'ai trouvé, malheureuse ! </l>
-	<l id='303'>Que malgré tous ses airs et sa prétention, </l>
+	<l id='302'>Mais pst, il s'est Ã©teint. J'ai trouvÃ©, malheureuse ! </l>
+	<l id='303'>Que malgrÃ© tous ses airs et sa prÃ©tention, </l>
 	<l id='304'>La bonne compagnie est la plus ennuyeuse.</l>
-	<l id='305'>La tristesse est assise à côté du bon ton. </l>
+	<l id='305'>La tristesse est assise Ã  cÃ´tÃ© du bon ton. </l>
 </sp>
-<sp who='LA FRIVOLITÉ'><speaker>LA FRIVOLITÉ.</speaker>
+<sp who='LA FRIVOLITÃ‰'><speaker>LA FRIVOLITÃ‰.</speaker>
 	<l id='306'>C'est dans son sein pourtant que le plaisir habite, </l>
-	<l id='307'>Avec les jeux badins qui marchent à sa suite , </l>
-	<l id='308'>Et la gaieté, son adorable soeur. </l>
+	<l id='307'>Avec les jeux badins qui marchent Ã  sa suite , </l>
+	<l id='308'>Et la gaietÃ©, son adorable soeur. </l>
 </sp>
 <sp who='MISS-BLAR'><speaker>MISS-BLAR.</speaker>
 	<l id='309'>La sienne n'est point vraie, et puisqu'il faut le dire, </l>
-	<l id='310'>Elle est au fond de l'âme aussi triste que moi.</l>
-	<l id='311'>C'est l'ennui déguise, qui s'efforce à sourire, </l>
-	<l id='312'>Et non pas la gaieté qui rit de bonne foi. </l>
+	<l id='310'>Elle est au fond de l'Ã¢me aussi triste que moi.</l>
+	<l id='311'>C'est l'ennui dÃ©guise, qui s'efforce Ã  sourire, </l>
+	<l id='312'>Et non pas la gaietÃ© qui rit de bonne foi. </l>
 </sp>
-<sp who='LA FRIVOLITÉ'><speaker>LA FRIVOLITÉ.</speaker>
-	<l id='313'>Voulez-vous qu'elle éclate en bourgeoise maussade ?</l>
+<sp who='LA FRIVOLITÃ‰'><speaker>LA FRIVOLITÃ‰.</speaker>
+	<l id='313'>Voulez-vous qu'elle Ã©clate en bourgeoise maussade ?</l>
 </sp>
 <sp who='MISS-BLAR'><speaker>MISS-BLAR.</speaker>
-	<l id='314'>Oui, c'est la meilleure façon : </l>
+	<l id='314'>Oui, c'est la meilleure faÃ§on : </l>
 	<l id='315'>Quand elle a besoin d'art, la joie est bien malade.</l>
 </sp>
 <sp who='MONSIEUR FAUSTER'><speaker>MONSIEUR FAUSTER, s'approchant.</speaker>
-	<l id='316'>Sa plus grande ennemie est la réflexion. </l>
-	<l id='317'>Pardon, si je me mêle à l'entretien, Mesdames.</l>
-	<l id='318'>Mais je suis Médecin, surtout celui des femmes.</l>
-	<l id='319'>Sans être de la Faculté,</l>
-	<l id='320'>J'ai traité bien des fois, guéri plus d'une belle. </l>
-<stage>À Miss-Blar.</stage>
-	<l id='321'>De votre mal, d'un coup d'oeil, je démêle,</l>
-	<l id='322'>L'origine et la qualité. </l>
-	<l id='323'>Milady pense trop. La pensée est mortelle.</l>
-	<l id='324'>Elle fait haïr la clarté, </l>
-	<l id='325'>C'est le poison de la santé.</l>
+	<l id='316'>Sa plus grande ennemie est la rÃ©flexion. </l>
+	<l id='317'>Pardon, si je me mÃªle Ã  l'entretien, Mesdames.</l>
+	<l id='318'>Mais je suis MÃ©decin, surtout celui des femmes.</l>
+	<l id='319'>Sans Ãªtre de la FacultÃ©,</l>
+	<l id='320'>J'ai traitÃ© bien des fois, guÃ©ri plus d'une belle. </l>
+<stage>Ã€ Miss-Blar.</stage>
+	<l id='321'>De votre mal, d'un coup d'oeil, je dÃ©mÃªle,</l>
+	<l id='322'>L'origine et la qualitÃ©. </l>
+	<l id='323'>Milady pense trop. La pensÃ©e est mortelle.</l>
+	<l id='324'>Elle fait haÃ¯r la clartÃ©, </l>
+	<l id='325'>C'est le poison de la santÃ©.</l>
 </sp>
 <sp who='MISS-BLAR'><speaker>MISS-BLAR.</speaker>
 	<l id='326'>Savoir quel est mon mal, c'est une bagatelle,</l>
-	<l id='327'>Mais le guérir, Monsieur, c'est la difficulté.</l>
+	<l id='327'>Mais le guÃ©rir, Monsieur, c'est la difficultÃ©.</l>
 </sp>
 <sp who='MONSIEUR FAUSTER'><speaker>MONSIEUR FAUSTER.</speaker>
 	<l id='328'>La recette en est simple autant que naturelle.</l>
-	<l id='329'>Sitôt que de la vie on se sent dégoûté, </l>
-	<l id='330'>On se doit sur le champ débarrasser la tête </l>
+	<l id='329'>SitÃ´t que de la vie on se sent dÃ©goÃ»tÃ©, </l>
+	<l id='330'>On se doit sur le champ dÃ©barrasser la tÃªte </l>
 	<l id='331'>Du jugement qui nous maigrit ; </l>
-	<l id='332'>Déraisonner beaucoup, parler sans être instruit, </l>
-	<l id='333'>Rire sans cause, aller sans que rien nous arrête, </l>
-	<l id='334'>Se réduire à l'instinct qui nous guide à profit.</l>
+	<l id='332'>DÃ©raisonner beaucoup, parler sans Ãªtre instruit, </l>
+	<l id='333'>Rire sans cause, aller sans que rien nous arrÃªte, </l>
+	<l id='334'>Se rÃ©duire Ã  l'instinct qui nous guide Ã  profit.</l>
 </sp>
 <sp who='MISS-BLAR'><speaker>MISS-BLAR.</speaker>
-	<l id='335'>Ah ! Peut-on exister si l'on ne refléchit ?</l>
-	<l id='336'>Votre recette est révoltante :</l>
-	<l id='337'>C'est végéter comme une plante.</l>
+	<l id='335'>Ah ! Peut-on exister si l'on ne reflÃ©chit ?</l>
+	<l id='336'>Votre recette est rÃ©voltante :</l>
+	<l id='337'>C'est vÃ©gÃ©ter comme une plante.</l>
 </sp>
 <sp who='MONSIEUR FAUSTER'><speaker>MONSIEUR FAUSTER.</speaker>
 	<l id='338'>Le grand nombre l'imite, et le bon sens nous dit </l>
@@ -550,13 +550,13 @@
 	<l id='342'>Ah ! J'aimerais autant orner un espalier. </l>
 </sp>
 <sp who='MONSIEUR FAUSTER'><speaker>MONSIEUR FAUSTER.</speaker>
-	<l id='343'>Ne pensez donc qu'à l'agréable,</l>
+	<l id='343'>Ne pensez donc qu'Ã  l'agrÃ©able,</l>
 	<l id='344'>Et ne faites, je cherche un terme favorable, </l>
 	<l id='345'>Ne faites que frivoliser,</l>
 	<l id='346'>Si de ce mot il m'est permis d'user. </l>
 </sp>
-<sp who='LA FRIVOLITÉ'><speaker>LA FRIVOLITÉ.</speaker>
-	<l id='347'>Voilà depuis trois mois ce qu'ici je lui crie,</l>
+<sp who='LA FRIVOLITÃ‰'><speaker>LA FRIVOLITÃ‰.</speaker>
+	<l id='347'>VoilÃ  depuis trois mois ce qu'ici je lui crie,</l>
 	<l id='348'>Dissipez votre esprit sans jamais l'occuper.</l>
 </sp>
 <sp who='MISS-BLAR'><speaker>MISS-BLAR.</speaker>
@@ -566,14 +566,14 @@
 <sp who='MONSIEUR FAUSTER'><speaker>MONSIEUR FAUSTER.</speaker>
 	<l id='351'>II ne faut pas se rebuter : </l>
 	<l id='352'>Comme l'oiseau que rien ne lie,</l>
-	<l id='353'>Parcourez, sans vous arrêter, </l>
+	<l id='353'>Parcourez, sans vous arrÃªter, </l>
 	<l id='354'>Le cercle des plaisirs que chaque instant varie. </l>
 </sp>
 <sp who='MISS-BLAR'><speaker>MISS-BLAR.</speaker>
 	<l id='355'>Ces plaisirs ! Je les cherche, et je n'en trouve point. </l>
 </sp>
 <sp who='MONSIEUR FAUSTER'><speaker>MONSIEUR FAUSTER.</speaker>
-	<l id='356'>La promenade est un remède... </l>
+	<l id='356'>La promenade est un remÃ¨de... </l>
 </sp>
 <sp who='MISS-BLAR'><speaker>MISS-BLAR.</speaker>
 	<l id='357'>Qui me fatigue au dernier point. </l>
@@ -582,13 +582,13 @@
 	<l id='358' part='i'>La table ?...</l>
 </sp>
 <sp who='MISS-BLAR'><speaker>MISS-BLAR.</speaker>
-	<l id='358' part='m'>M'est à charge.</l>
+	<l id='358' part='m'>M'est Ã  charge.</l>
 </sp>
-<sp who='LA FRIVOLITÉ'><speaker>LA FRIVOLITÉ.</speaker>
+<sp who='LA FRIVOLITÃ‰'><speaker>LA FRIVOLITÃ‰.</speaker>
 	<l id='358' part='m'>Et le bal ?...</l>
 </sp>
 <sp who='MISS-BLAR'><speaker>MISS-BLAR.</speaker>
-	<l id='358' part='f'>Il m'excède.</l>
+	<l id='358' part='f'>Il m'excÃ¨de.</l>
 </sp>
 <sp who='MONSIEUR FAUSTER'><speaker>MONSIEUR FAUSTER.</speaker>
 	<l id='359' part='i'>Le jeu ?...</l>
@@ -596,146 +596,146 @@
 <sp who='MISS-BLAR'><speaker>MISS-BLAR.</speaker>
 	<l id='359' part='m'>M'est odieux.</l>
 </sp>
-<sp who='LA FRIVOLITÉ'><speaker>LA FRIVOLITÉ.</speaker>
+<sp who='LA FRIVOLITÃ‰'><speaker>LA FRIVOLITÃ‰.</speaker>
 	<l id='359' part='m'>Le spectacle ?...</l>
 </sp>
 <sp who='MISS-BLAR'><speaker>MISS-BLAR.</speaker>
 	<l id='359' part='f'>Importun.</l>
 </sp>
 <sp who='MONSIEUR FAUSTER'><speaker>MONSIEUR FAUSTER.</speaker>
-	<l id='360'>Votre mal est tenace. En cet état funeste, </l>
-	<l id='361'>À votre place, moi, je jouerais de mon reste.</l>
-	<l id='362'>C'est peu de folâtrer pour chasser l'esprit brun : </l>
-	<l id='363'>Il faut extravaguer jusqu'à la frénésie.</l>
+	<l id='360'>Votre mal est tenace. En cet Ã©tat funeste, </l>
+	<l id='361'>Ã€ votre place, moi, je jouerais de mon reste.</l>
+	<l id='362'>C'est peu de folÃ¢trer pour chasser l'esprit brun : </l>
+	<l id='363'>Il faut extravaguer jusqu'Ã  la frÃ©nÃ©sie.</l>
 </sp>
 <sp who='MISS-BLAR'><speaker>MISS-BLAR.</speaker>
 	<l id='364'>Eh ! Je n'ai pas le sens commun </l>
-	<l id='365'>Depuis que j'ai quitté le sein de ma Patrie.</l>
+	<l id='365'>Depuis que j'ai quittÃ© le sein de ma Patrie.</l>
 	<l id='366'>C'est un mauvais contrepoison. </l>
-	<l id='367'>J'étais malade à Londres à force de raison, </l>
-	<l id='368'>Et je meurs à Paris d'un excès de folie. </l>
+	<l id='367'>J'Ã©tais malade Ã  Londres Ã  force de raison, </l>
+	<l id='368'>Et je meurs Ã  Paris d'un excÃ¨s de folie. </l>
 </sp>
 <sp who='MONSIEUR FAUSTER'><speaker>MONSIEUR FAUSTER.</speaker>
 	<l id='369'>Madame, il vaudrait mieux mourir </l>
-	<l id='370'>Cinquante fois plutôt d'un excès de plaisir, </l>
-	<l id='371'>À ce propos, parlez, je vous supplie ; </l>
-	<l id='372' part='i'>À Londres n'avez-vous rien aimé ?</l>
+	<l id='370'>Cinquante fois plutÃ´t d'un excÃ¨s de plaisir, </l>
+	<l id='371'>Ã€ ce propos, parlez, je vous supplie ; </l>
+	<l id='372' part='i'>Ã€ Londres n'avez-vous rien aimÃ© ?</l>
 </sp>
 <sp who='MISS-BLAR'><speaker>MISS-BLAR.</speaker>
 	<l id='372' part='f'>Non, jamais,</l>
-	<l id='373'>Et j'ai porté chez moi la froideur à l'excès.</l>
+	<l id='373'>Et j'ai portÃ© chez moi la froideur Ã  l'excÃ¨s.</l>
 </sp>
 <sp who='MONSIEUR FAUSTER'><speaker>MONSIEUR FAUSTER.</speaker>
-	<l id='374'>Contre votre mélancolie,</l>
-	<l id='375'>Je sais donc en ce cas un remède certain.</l>
+	<l id='374'>Contre votre mÃ©lancolie,</l>
+	<l id='375'>Je sais donc en ce cas un remÃ¨de certain.</l>
 	<l id='376' part='i'>Prenez... </l>
 </sp>
 <sp who='MISS-BLAR'><speaker>MISS-BLAR.</speaker>
 	<l id='376' part='f'>Quoi donc ? Achevez, je vous prie.</l>
 </sp>
 <sp who='MONSIEUR FAUSTER'><speaker>MONSIEUR FAUSTER.</speaker>
-	<l id='377'>Prenez vite un amant pour votre médecin ; </l>
-	<l id='378'>Ses soins sauront bientôt, je vous le certifie,</l>
-	<l id='379'>Vous donner du goût pour la vie, </l>
-	<l id='380'>Et faire succéder le plaisir au chagrin. </l>
+	<l id='377'>Prenez vite un amant pour votre mÃ©decin ; </l>
+	<l id='378'>Ses soins sauront bientÃ´t, je vous le certifie,</l>
+	<l id='379'>Vous donner du goÃ»t pour la vie, </l>
+	<l id='380'>Et faire succÃ©der le plaisir au chagrin. </l>
 </sp>
-<sp who='LA FRIVOLITÉ'><speaker>LA FRIVOLITÉ.</speaker>
+<sp who='LA FRIVOLITÃ‰'><speaker>LA FRIVOLITÃ‰.</speaker>
 	<l id='381'>Il est de bon conseil.</l>
 </sp>
 <sp who='MISS-BLAR'><speaker>MISS-BLAR.</speaker>
 	<l id='382'>Ah ! Je l'en remercie ;</l>
-	<l id='383'>Le remède, Madame, est pire que le mal.</l>
+	<l id='383'>Le remÃ¨de, Madame, est pire que le mal.</l>
 </sp>
 <sp who='MONSIEUR FAUSTER'><speaker>MONSIEUR FAUSTER.</speaker>
 	<l id='384'>Mais comment jugez-vous qu'il vous fera fatal,</l>
-	<l id='385' part='i'>N'ayant point effrayé ?.... </l>
+	<l id='385' part='i'>N'ayant point effrayÃ© ?.... </l>
 </sp>
 <sp who='MISS-BLAR'><speaker>MISS-BLAR.</speaker>
-	<l id='385' part='f'>Non pas, Monsieur, à Londres.</l>
+	<l id='385' part='f'>Non pas, Monsieur, Ã  Londres.</l>
 </sp>
 <sp who='MONSIEUR FAUSTER'><speaker>MONSIEUR FAUSTER.</speaker>
-	<l id='386'>En France, Milady, l'auriez-vous éprouvé ?</l>
+	<l id='386'>En France, Milady, l'auriez-vous Ã©prouvÃ© ?</l>
 </sp>
 <sp who='MISS-BLAR'><speaker>MISS-BLAR.</speaker>
-	<l id='387'>Me taire, c'est assez répondre.</l>
+	<l id='387'>Me taire, c'est assez rÃ©pondre.</l>
 </sp>
-<sp who='LA FRIVOLITÉ'><speaker>LA FRIVOLITÉ.</speaker>
-	<l id='388'>Chère Miss, votre coeur s'en est-il bien trouvé ?</l>
+<sp who='LA FRIVOLITÃ‰'><speaker>LA FRIVOLITÃ‰.</speaker>
+	<l id='388'>ChÃ¨re Miss, votre coeur s'en est-il bien trouvÃ© ?</l>
 </sp>
 <sp who='MISS-BLAR'><speaker>MISS-BLAR.</speaker>
-	<l id='389'>Au mieux le premier jour. Je crus alors renaître. </l>
-	<l id='390'>Il se fit, dans mon âme, un changement nouveau. </l>
-	<l id='391'>Pour la première fois, le jour me parut beau, </l>
-	<l id='392'>Et je goûtai le bonheur d'être.</l>
+	<l id='389'>Au mieux le premier jour. Je crus alors renaÃ®tre. </l>
+	<l id='390'>Il se fit, dans mon Ã¢me, un changement nouveau. </l>
+	<l id='391'>Pour la premiÃ¨re fois, le jour me parut beau, </l>
+	<l id='392'>Et je goÃ»tai le bonheur d'Ãªtre.</l>
 </sp>
 <sp who='MONSIEUR FAUSTER'><speaker>MONSIEUR FAUSTER.</speaker>
 	<l id='393' part='i'>Le second jour ?</l>
 </sp>
 <sp who='MISS-BLAR'><speaker>MISS-BLAR.</speaker>
-	<l id='393' part='f'>Mon plaisir s'altéra. </l>
+	<l id='393' part='f'>Mon plaisir s'altÃ©ra. </l>
 	<l id='394'>Mon amant fut absent, mon coeur en soupira. </l>
-	<l id='395'>Le troisième, il revint, et chassa ce nuage.</l>
-	<l id='396'>Le quatrième, il parut moins ardent, </l>
-	<l id='397'>Et mon amour troublé s'alarma vivement. </l>
-	<l id='398'>Le cinquième, il devint volage, </l>
+	<l id='395'>Le troisiÃ¨me, il revint, et chassa ce nuage.</l>
+	<l id='396'>Le quatriÃ¨me, il parut moins ardent, </l>
+	<l id='397'>Et mon amour troublÃ© s'alarma vivement. </l>
+	<l id='398'>Le cinquiÃ¨me, il devint volage, </l>
 	<l id='399'>Et tout mon bonheur disparut. </l>
 	<l id='400'>Une rivale eut l'avantage.</l>
-	<l id='401'>J'en fus témoin. Mon désespoir s'accrut, </l>
+	<l id='401'>J'en fus tÃ©moin. Mon dÃ©sespoir s'accrut, </l>
 	<l id='402'>Et, dans mon coeur trahi, ne laissa que la rage.</l>
 </sp>
-<sp who='LA FRIVOLITÉ'><speaker>LA FRIVOLITÉ.</speaker>
-	<l id='403'>Vous êtes mal tombée, et c'est un grand dommage.</l>
+<sp who='LA FRIVOLITÃ‰'><speaker>LA FRIVOLITÃ‰.</speaker>
+	<l id='403'>Vous Ãªtes mal tombÃ©e, et c'est un grand dommage.</l>
 	<l id='404'>J'en connais un, qui serait plus constant. </l>
 </sp>
 <sp who='MISS-BLAR'><speaker>MISS-BLAR.</speaker>
-	<l id='405'>En quatre mots, voilà mon histoire finie. </l>
-	<l id='406'>Tout calculé bien justement, </l>
-	<l id='407'>Je n'ai vécu que trois jours dans ma vie.</l>
+	<l id='405'>En quatre mots, voilÃ  mon histoire finie. </l>
+	<l id='406'>Tout calculÃ© bien justement, </l>
+	<l id='407'>Je n'ai vÃ©cu que trois jours dans ma vie.</l>
 </sp>
-<sp who='LA FRIVOLITÉ'><speaker>LA FRIVOLITÉ.</speaker>
-	<l id='408'>D'un noeud léger, tissu pour un moment,</l>
+<sp who='LA FRIVOLITÃ‰'><speaker>LA FRIVOLITÃ‰.</speaker>
+	<l id='408'>D'un noeud lÃ©ger, tissu pour un moment,</l>
 	<l id='409'>Il fallait, avec lui, vous lier seulement.</l>
-	<l id='410'>Vous avez , contre ma défense, </l>
-	<l id='411'>Formé le sot lien d'un tendre attachement ; </l>
-	<l id='412'>Et vous en recevez le juste châtiment.</l>
-<note type="L">Petit maître : Fig. et familièrement. Petit-maître, jeune homme qui a de la recherche dans sa parure, et un ton avantageux avec les femmes. [L]</note>
-	<l id='413'>Mais quel est donc le Petit-Maître ?... </l>
+	<l id='410'>Vous avez , contre ma dÃ©fense, </l>
+	<l id='411'>FormÃ© le sot lien d'un tendre attachement ; </l>
+	<l id='412'>Et vous en recevez le juste chÃ¢timent.</l>
+<note type="L">Petit maÃ®tre : Fig. et familiÃ¨rement. Petit-maÃ®tre, jeune homme qui a de la recherche dans sa parure, et un ton avantageux avec les femmes. [L]</note>
+	<l id='413'>Mais quel est donc le Petit-MaÃ®tre ?... </l>
 </sp>
 <sp who='MISS-BLAR'><speaker>MISS-BLAR.</speaker>
 	<l id='414'>C'est votre favori, ce fripon de Marquis </l>
-	<l id='415'>Qu'ici, pour mon malheur, vous m'avez fait connaître. </l>
+	<l id='415'>Qu'ici, pour mon malheur, vous m'avez fait connaÃ®tre. </l>
 	<l id='416'>Adorateur de mon pays, </l>
-	<l id='417'>Dans ma personne, il en parut épris, </l>
-	<l id='418'>Nous fûmes joints d'estime, autant qu'on le peut être, </l>
-	<l id='419'>Par un moyen qui réussit souvent, </l>
+	<l id='417'>Dans ma personne, il en parut Ã©pris, </l>
+	<l id='418'>Nous fÃ»mes joints d'estime, autant qu'on le peut Ãªtre, </l>
+	<l id='419'>Par un moyen qui rÃ©ussit souvent, </l>
 	<l id='420'>Je me flattais de fixer fa tendresse. </l>
-	<l id='421'>Malgré tout mon amour , j'ai très exactement</l>
-	<l id='422'>Conservé toute ma sagesse. </l>
+	<l id='421'>MalgrÃ© tout mon amour , j'ai trÃ¨s exactement</l>
+	<l id='422'>ConservÃ© toute ma sagesse. </l>
 </sp>
 <sp who='MONSIEUR FAUSTER'><speaker>MONSIEUR FAUSTER.</speaker>
 	<l id='423'>C'est un effort bien surprenant. </l>
 </sp>
 <sp who='MISS-BLAR'><speaker>MISS-BLAR.</speaker>
 	<l id='424'>Cela tient un peu du miracle, </l>
-	<l id='425'>Monsieur, particulièrement </l>
+	<l id='425'>Monsieur, particuliÃ¨rement </l>
 	<l id='426'>Dans une fille de spectacle. </l>
-	<l id='427'>De cet aveu vous êtes étourdi ! </l>
-	<l id='427' part='f'>Le préjugé sur vous...</l>
+	<l id='427'>De cet aveu vous Ãªtes Ã©tourdi ! </l>
+	<l id='427' part='f'>Le prÃ©jugÃ© sur vous...</l>
 </sp>
 <sp who='MONSIEUR FAUSTER'><speaker>MONSIEUR FAUSTER.</speaker>
 	<l id='427' part='f'>Non ; je sais le combattre ; </l>
 	<l id='428'>Mais je vous croyais Milady.</l>
 </sp>
 <sp who='MISS-BLAR'><speaker>MISS-BLAR.</speaker>
-	<l id='429'>Souvent je le fuis au Théâtre.</l>
+	<l id='429'>Souvent je le fuis au ThÃ©Ã¢tre.</l>
 </sp>
 <sp who='MONSIEUR FAUSTER'><speaker>MONSIEUR FAUSTER.</speaker>
-	<l id='430'>Vous pourriez l'être ailleurs par un titre plus fort.</l>
+	<l id='430'>Vous pourriez l'Ãªtre ailleurs par un titre plus fort.</l>
 </sp>
 <sp who='MISS-BLAR'><speaker>MISS-BLAR.</speaker>
 	<l id='431'>Jamais je ne m'allie avec aucun Mylord, </l>
-	<l id='432'>Notre profession à Londres est glorieuse. </l>
-	<l id='433'>Le défaut de mérite est seul déshonorant. </l>
+	<l id='432'>Notre profession Ã  Londres est glorieuse. </l>
+	<l id='433'>Le dÃ©faut de mÃ©rite est seul dÃ©shonorant. </l>
 	<l id='434'>Une Actrice de nom , quand elle est vertueuse, </l>
 	<l id='435'>Peut aspirer chez nous au parti le plus grand. </l>
 	<l id='436'>On y rougit du vice, et non pas du talent.</l>
@@ -743,108 +743,108 @@
 <sp who='MONSIEUR FAUSTER'><speaker>MONSIEUR FAUSTER.</speaker>
 	<l id='437'>Moi, je l'honore infiniment. </l>
 	<l id='438'>Il devient, entre nous, un noeud de sympathie.</l>
-	<l id='439'>Si vous jouez la Comédie, </l>
+	<l id='439'>Si vous jouez la ComÃ©die, </l>
 	<l id='440'>En plusieurs Langues, moi, j'en fais facilement, </l>
-	<l id='441'>En Français, en Anglais, tout comme en Allemand, </l>
-	<l id='442'>Nous sommes étrangers, Le hasard nous rassemble. </l>
+	<l id='441'>En FranÃ§ais, en Anglais, tout comme en Allemand, </l>
+	<l id='442'>Nous sommes Ã©trangers, Le hasard nous rassemble. </l>
 	<l id='443'>Marions nos accents et nos talents ensemble. </l>
-	<l id='444'>Tout-à-coup, dans mon coeur, je sens naître pour vous,</l>
+	<l id='444'>Tout-Ã -coup, dans mon coeur, je sens naÃ®tre pour vous,</l>
 	<l id='445'>Mestris , une estime amoureuse.</l>
-<stage>Il se jette à ses genoux.</stage>
+<stage>Il se jette Ã  ses genoux.</stage>
 </sp>
 <sp who='MISS-BLAR'><speaker>MISS-BLAR.</speaker>
 	<l id='446' part='i'>Que faites-vous ?</l>
 </sp>
 <sp who='MONSIEUR FAUSTER'><speaker>MONSIEUR FAUSTER.</speaker>
 	<l id='446' part='f'>Devant une actrice fameuse,</l>
-	<l id='447'>Un auteur doit toujours fléchir les deux genoux. </l>
-	<l id='448'>Nous devons, à votre art, nos fuccès les plus doux.</l>
+	<l id='447'>Un auteur doit toujours flÃ©chir les deux genoux. </l>
+	<l id='448'>Nous devons, Ã  votre art, nos fuccÃ¨s les plus doux.</l>
 </sp>
 <sp who='MISS-BLAR'><speaker>MISS-BLAR.</speaker>
-	<l id='449'>Ah ! Levez-vous, Monsieur. J'aperçois mon perfide. </l>
-	<l id='450'>La colère, à sa vue, est mon seul sentiment ; </l>
+	<l id='449'>Ah ! Levez-vous, Monsieur. J'aperÃ§ois mon perfide. </l>
+	<l id='450'>La colÃ¨re, Ã  sa vue, est mon seul sentiment ; </l>
 	<l id='451'>Et, pour savoir ici quelle raison le guide, </l>
 	<l id='452'>Je m'en vais dans ce coin me cacher un moment.</l>
 </sp>
 <sp who='MONSIEUR FAUSTER'><speaker>MONSIEUR FAUSTER.</speaker>
 	<l id='453'>Acceptez ma main, je vous prie. </l>
 	<l id='454'>Je vous y tiendrai compagnie.</l>
-<stage>II s'éloigne avec elle.</stage>
+<stage>II s'Ã©loigne avec elle.</stage>
 </sp>
 </div2>
-<div2 type='scene' n='4'><head>SCÈNE IV. La Frivolité, Le Marquis, Miss-Blar et Monsieur Fauster, cachés.</head>
-<sp who='LE MARQUIS'><speaker>LE MARQUIS, à la Frivolité.</speaker>
+<div2 type="scene" n='4'><head>SCÃˆNE IV. La FrivolitÃ©, Le Marquis, Miss-Blar et Monsieur Fauster, cachÃ©s.</head>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS, Ã  la FrivolitÃ©.</speaker>
 	<l id='455'>Je viens verser ma joie en votre sein ; </l>
 	<l id='456'>Madame, elle est immense, et rien ne peut la rendre : </l>
 	<l id='457'>Ils ne partiront pas. Ils demeurent enfin.</l>
 	<l id='458'>Nous allons les revoir ; nous allons les entendre.</l>
 </sp>
-<sp who='LA FRIVOLITÉ'><speaker>LA FRIVOLITÉ.</speaker>
-	<l id='459'>Qui donc ? Expliquez-vous. Je crains de me méprendre.</l>
+<sp who='LA FRIVOLITÃ‰'><speaker>LA FRIVOLITÃ‰.</speaker>
+	<l id='459'>Qui donc ? Expliquez-vous. Je crains de me mÃ©prendre.</l>
 </sp>
 <sp who='LE MARQUIS'><speaker>LE MARQUIS, parodiant Serpilla , du Joueur.</speaker>
-<note>La Joueur est une comédie de Jean-François Regnard (1692). Claude Favart donna au théâtre italien le 6 juin 1753 une parodie nommé Baiacoo et Serpilla.</note>
+<note>La Joueur est une comÃ©die de Jean-FranÃ§ois Regnard (1692). Claude Favart donna au thÃ©Ã¢tre italien le 6 juin 1753 une parodie nommÃ© Baiacoo et Serpilla.</note>
 	<l id='460' part='i'>La charita, la charita. </l>
 </sp>
-<sp who='LA FRIVOLITÉ'><speaker>LA FRIVOLITÉ.</speaker>
+<sp who='LA FRIVOLITÃ‰'><speaker>LA FRIVOLITÃ‰.</speaker>
 <stage>Elle chante. </stage>
 	<l id='460' part='f'>Comment nous entendrons encor, Bella mia,</l>
 	<l id='461'>Se son tuo sposo.</l>
 </sp>
 <sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id='462'>Demain, ma souveraine, </l>
-	<l id='463'>Ils reparaîtront sur la scène. </l>
+	<l id='463'>Ils reparaÃ®tront sur la scÃ¨ne. </l>
 </sp>
-<sp who='LA FRIVOLITÉ'><speaker>LA FRIVOLITÉ.</speaker>
+<sp who='LA FRIVOLITÃ‰'><speaker>LA FRIVOLITÃ‰.</speaker>
 	<l id='464'>J'irai donc, avec eux, y triompher demain. </l>
-	<l id='465'>Ma joie, au moins, à la vôtre est égale.</l>
+	<l id='465'>Ma joie, au moins, Ã  la vÃ´tre est Ã©gale.</l>
 </sp>
 <sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id='466'>Ah ! Vive l'Italie et son Trio divin. </l>
 </sp>
-<sp who='LA FRIVOLITÉ'><speaker>LA FRIVOLITÉ.</speaker>
+<sp who='LA FRIVOLITÃ‰'><speaker>LA FRIVOLITÃ‰.</speaker>
 	<l id='467'>La mandoline, la timbale. </l>
 </sp>
 <sp who="LE MARQUIS"><speaker>LE MARQUIS, contrefaisant les Bouffons.</speaker>
 	<l id='468'>Et le violon, zin, zin, zin. </l>
 </sp>
-<sp who='LA FRIVOLITÉ'><speaker>LA FRIVOLITÉ, les parodiant aussi.</speaker>
+<sp who='LA FRIVOLITÃ‰'><speaker>LA FRIVOLITÃ‰, les parodiant aussi.</speaker>
 	<l id='469'>Pa, ta, pon, et trin, trin. </l>
 	<l id='470'>Ce prompt retour que je n'osais attendre, </l>
 	<l id='471'>Est une victoire pour nous. </l>
-	<l id='472'>Puis-je la célébrer par des transports trop fous ?</l>
+	<l id='472'>Puis-je la cÃ©lÃ©brer par des transports trop fous ?</l>
 </sp>
 <sp who=''><speaker>LE MARQUIS, contrefaisant le rire de Manelli? dans le Joueur.</speaker>
 	<l id='473'>Ah ! ah ! Bouffonnons, rions tous. </l>
-	<l id='474'>Moi pour modèle je veux prendre, </l>
-	<l id='475'>Dans ses plaisants éclats, l'agréable Joueur.</l>
+	<l id='474'>Moi pour modÃ¨le je veux prendre, </l>
+	<l id='475'>Dans ses plaisants Ã©clats, l'agrÃ©able Joueur.</l>
 </sp>
-<sp who='LA FRIVOLITÉ'><speaker>LA FRIVOLITÉ.</speaker>
+<sp who='LA FRIVOLITÃ‰'><speaker>LA FRIVOLITÃ‰.</speaker>
 	<l id='476'>Moi, Serpilla , dans son souris moqueur. </l>
-	<l id='477'>Elle, que je chéris, dont l'adieu fut si tendre</l>
-	<l id='478'>Qu'elle versa des pleurs, et nous en fit répandre, </l>
+	<l id='477'>Elle, que je chÃ©ris, dont l'adieu fut si tendre</l>
+	<l id='478'>Qu'elle versa des pleurs, et nous en fit rÃ©pandre, </l>
 </sp>
-<sp who='LE MARQUIS'><speaker>LE MARQUIS, parodiant Vair , vuo diilobafíb, basso , du Maître de Musique. </speaker>
-	<l id='479'>Écoutez tout bas, tout bas,</l>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS, parodiant Vair , vuo diilobafÃ­b, basso , du MaÃ®tre de Musique. </speaker>
+	<l id='479'>Ã‰coutez tout bas, tout bas,</l>
 	<l id='480'>Je fuis fou de ses appas ; </l>
 	<l id='481'>Et, pour faire un grand fracas,</l>
-	<l id='482'>Nous irons tous à l'Opéra.</l>
+	<l id='482'>Nous irons tous Ã  l'OpÃ©ra.</l>
 	<l id='483'>Ma main la cla, claquera. </l>
 </sp>
 <sp who='MISS-BLAR'><speaker>MISS-BLAR, s'approchant et l'interrompant.</speaker>
-	<l id='484'>Quel secret dites-vous-là ? </l>
+	<l id='484'>Quel secret dites-vous-lÃ  ? </l>
 </sp>
 <sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id='485'>Je lui disois, en confidence , </l>
 	<l id='486'>Que je vous adore , MifT-Blar, </l>
 </sp>
 <sp who='MISS-BLAR'><speaker>MISS-BLAR.</speaker>
-	<l id='487'>C'est Serpilla plutôt qui vous lie à son char, </l>
-	<l id='488'>Vous voulez déguiser en vain votre inconstance.</l>
+	<l id='487'>C'est Serpilla plutÃ´t qui vous lie Ã  son char, </l>
+	<l id='488'>Vous voulez dÃ©guiser en vain votre inconstance.</l>
 </sp>
 <sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
-	<l id='489'>Votre coeur ne doit pas en paraître jaloux. </l>
-	<l id='490'>Je folâtre avec elle, et soupire avec vous.</l>
+	<l id='489'>Votre coeur ne doit pas en paraÃ®tre jaloux. </l>
+	<l id='490'>Je folÃ¢tre avec elle, et soupire avec vous.</l>
 </sp>
 <sp who='MISS-BLAR'><speaker>MISS-BLAR.</speaker>
 	<l id='491'>Mon coeur veut tout ou rien. Ce partage m'offense. </l>
@@ -853,53 +853,53 @@
 <sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id='493'>Je ne prononce point entre Londres et Florence,</l>
 	<l id='494'>De vos talents divers je ne puis me passer. </l>
-	<l id='495'>J'apprends à chanter d'elle, et de vous à penser. </l>
+	<l id='495'>J'apprends Ã  chanter d'elle, et de vous Ã  penser. </l>
 	<l id='496'>C'est ainsi, de vos dons, que j'enrichis la France.</l>
 </sp>
 <sp who='MISS-BLAR'><speaker>MISS-BLAR.</speaker>
-	<l id='497' part='i'>Ciel ! Quel injuste Arrêt ! Mais j'en appelle. </l>
+	<l id='497' part='i'>Ciel ! Quel injuste ArrÃªt ! Mais j'en appelle. </l>
 </sp>
-<sp who='LA FRIVOLITÉ'><speaker>LA FRIVOLITÉ.</speaker>
-	<l id='497' part='f'>À qui ?</l>
+<sp who='LA FRIVOLITÃ‰'><speaker>LA FRIVOLITÃ‰.</speaker>
+	<l id='497' part='f'>Ã€ qui ?</l>
 </sp>
 <sp who='MISS-BLAR'><speaker>MISS-BLAR.</speaker>
-	<l id='498'>À la raison, qui prendra ma défense.</l>
+	<l id='498'>Ã€ la raison, qui prendra ma dÃ©fense.</l>
 </sp>
-<sp who='LA FRIVOLITÉ'><speaker>LA FRIVOLITÉ.</speaker>
-	<l id='499'>La raison, comme vous, est étrangère ici. </l>
+<sp who='LA FRIVOLITÃ‰'><speaker>LA FRIVOLITÃ‰.</speaker>
+	<l id='499'>La raison, comme vous, est Ã©trangÃ¨re ici. </l>
 </sp>
 <sp who='MISS-BLAR'><speaker>MISS-BLAR.</speaker>
 	<l id='500'>J'implore donc votre puissance. </l>
 </sp>
-<sp who="LA FRIVOLITÉ"><speaker>LA FRIVOLITÉ.</speaker>
+<sp who="LA FRIVOLITÃ‰"><speaker>LA FRIVOLITÃ‰.</speaker>
 	<l id='501'>C'est mon esprit qu'il a suivi,</l>
 	<l id='502'>Et je confirme la sentence.</l>
 </sp>
 <sp who='MISS-BLAR'><speaker>MISS-BLAR.</speaker>
-	<l id='503'>Je n'attendais pas moins de la Frivolité,</l>
+	<l id='503'>Je n'attendais pas moins de la FrivolitÃ©,</l>
 	<l id='504'>Protectrice de l'inconstance, </l>
-	<l id='505'>Et digne soeur de la légèreté. </l>
+	<l id='505'>Et digne soeur de la lÃ©gÃ¨retÃ©. </l>
 </sp>
 <sp who='MONSIEUR FAUSTER'><speaker>MONSIEUR FAUSTER.</speaker>
-	<l id='506'>Voilà bien le François, dont elle est le génie. </l>
-	<l id='507'>La nommer, c'est la définir.</l>
+	<l id='506'>VoilÃ  bien le FranÃ§ois, dont elle est le gÃ©nie. </l>
+	<l id='507'>La nommer, c'est la dÃ©finir.</l>
 <note type="L">Anglomanie : Passion, avec imitation, pour ce qui est anglais. [L]</note>
-	<l id='508'>Son transport, l'autre jour, était l'Anglomanie, </l>
-	<l id='509'>Rien, sans l'habit anglais, ne pouvait réussir. </l>
+	<l id='508'>Son transport, l'autre jour, Ã©tait l'Anglomanie, </l>
+	<l id='509'>Rien, sans l'habit anglais, ne pouvait rÃ©ussir. </l>
 	<l id='510'>Au-dessus de Corneille, il mettait Shakespeare. </l>
-	<l id='511'>Une nouvelle frénésie </l>
+	<l id='511'>Une nouvelle frÃ©nÃ©sie </l>
 	<l id='512'>Aujourd'hui vient de le saisir ;</l>
 	<l id='513'>C'est la fureur des accords d'Italie. </l>
 </sp>
 <sp who='MISS-BLAR'><speaker>MISS-BLAR.</speaker>
-	<l id='514'>Ce mal épidémique a gagné tout Paris. </l>
+	<l id='514'>Ce mal Ã©pidÃ©mique a gagnÃ© tout Paris. </l>
 	<l id='515' part='i'>J'en enrage. </l>
 </sp>
-<sp who="LA FRIVOLITÉ"><speaker>LA FRIVOLITÉ.</speaker>
+<sp who="LA FRIVOLITÃ‰"><speaker>LA FRIVOLITÃ‰.</speaker>
 	<l id='515' part='f'>Et moi j'en ris.</l>
 </sp>
 <sp who='MISS-BLAR'><speaker>MISS-BLAR.</speaker>
-	<l id='516'>La chose est en effet très-digne de risée. </l>
+	<l id='516'>La chose est en effet trÃ¨s-digne de risÃ©e. </l>
 	<l id='517' part='i'>Vous y perdez.</l>
 </sp>
 <sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
@@ -907,126 +907,126 @@
 	<l id='518'>En changeant de plaisirs , nous les multiplions.</l>
 </sp>
 <sp who='MISS-BLAR'><speaker>MISS-BLAR.</speaker>
-	<l id='519'>Quelle rivale, ingrat, m'avez-vous opposée ?</l>
+	<l id='519'>Quelle rivale, ingrat, m'avez-vous opposÃ©e ?</l>
 </sp>
-<sp who="LA FRIVOLITÉ"><speaker>LA FRIVOLITÉ.</speaker>
+<sp who="LA FRIVOLITÃ‰"><speaker>LA FRIVOLITÃ‰.</speaker>
 	<l id='520'>Mais, mais, j'admire en vous ces exclamations !</l>
 	<l id='521'>Cette Musique Italienne</l>
 	<l id='522'>Que vous rabaissez tant, soumet tous les pays.</l>
-	<l id='523'>Elle est, par conséquent, et la sienne et la vôtre.</l>
+	<l id='523'>Elle est, par consÃ©quent, et la sienne et la vÃ´tre.</l>
 </sp>
 <sp who='MISS-BLAR'><speaker>MISS-BLAR.</speaker>
-	<l id='524'>Non, je la méconnais défigurée ainsi. </l>
+	<l id='524'>Non, je la mÃ©connais dÃ©figurÃ©e ainsi. </l>
 </sp>
-<sp who="LA FRIVOLITÉ"><speaker>LA FRIVOLITÉ.</speaker>
-	<l id='525'>Nous voulons justement en embellir la nôtre. </l>
-	<l id='526'>Cet alliage a déjà réussi. </l>
+<sp who="LA FRIVOLITÃ‰"><speaker>LA FRIVOLITÃ‰.</speaker>
+	<l id='525'>Nous voulons justement en embellir la nÃ´tre. </l>
+	<l id='526'>Cet alliage a dÃ©jÃ  rÃ©ussi. </l>
 </sp>
 <sp who='MISS-BLAR'><speaker>MISS-BLAR.</speaker>
-	<l id='527'>Ah ! Plutôt par ce pot-pourri,</l>
-	<l id='528'>Vous la dénaturez, et gâtez l'une et l'autre. </l>
+	<l id='527'>Ah ! PlutÃ´t par ce pot-pourri,</l>
+	<l id='528'>Vous la dÃ©naturez, et gÃ¢tez l'une et l'autre. </l>
 	<l id='529'>C'est un chef-d'oeuvre ailleurs ; mais un vrai monstre ici.</l>
 </sp>
 <sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
-	<l id='530'>Pour vous guérit de cette idée étrange, </l>
-	<l id='531'>Je la veux toute seule établir sans mélange ; </l>
-	<l id='532'>Et je veux qu'à fa gloire un Autel soit dressé </l>
-	<l id='533'>Sur les derniers débris et d'Armide et d'Issé. </l>
+	<l id='530'>Pour vous guÃ©rit de cette idÃ©e Ã©trange, </l>
+	<l id='531'>Je la veux toute seule Ã©tablir sans mÃ©lange ; </l>
+	<l id='532'>Et je veux qu'Ã  fa gloire un Autel soit dressÃ© </l>
+	<l id='533'>Sur les derniers dÃ©bris et d'Armide et d'IssÃ©. </l>
 </sp>
 <sp who='MISS-BLAR'><speaker>MISS-BLAR.</speaker>
-	<l id='534'>François dénaturé, quel transport vous égare !</l>
+	<l id='534'>FranÃ§ois dÃ©naturÃ©, quel transport vous Ã©gare !</l>
 	<l id='535'>Priver la Nation d'un si bel ornement ! </l>
-	<l id='536'>Pouvez-vous, fans frémissement,</l>
+	<l id='536'>Pouvez-vous, fans frÃ©missement,</l>
 	<l id='537'>Former un projet si barbare : </l>
-	<l id='538'>Cet Opéra de sentiment </l>
-	<l id='539'>Dont la mélodie est si tendre, </l>
+	<l id='538'>Cet OpÃ©ra de sentiment </l>
+	<l id='539'>Dont la mÃ©lodie est si tendre, </l>
 	<l id='540' part='i'>Vous les sacrifiez, Monsieur ?</l>
 </sp>
 <sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
-	<l id='540' part='f'>Oui, forcément. </l>
+	<l id='540' part='f'>Oui, forcÃ©ment. </l>
 	<l id='541'>Nous n'avons plus d'acteurs aujourd'hui pour les rendre,</l>
-	<l id='542'>Le dernier des Romains est prêt à nous quitter.</l>
+	<l id='542'>Le dernier des Romains est prÃªt Ã  nous quitter.</l>
 	<l id='543'>Nous n'avons pas le temps d'attendre </l>
-	<l id='544'>Qu'il ait des successeurs pour les représenter.</l>
-	<l id='545'>De cette perte-là, toi seul, tu nous consoles,</l>
-	<l id='546'>Orphée Italien ! Pour exprimer ton chant,</l>
+	<l id='544'>Qu'il ait des successeurs pour les reprÃ©senter.</l>
+	<l id='545'>De cette perte-lÃ , toi seul, tu nous consoles,</l>
+	<l id='546'>OrphÃ©e Italien ! Pour exprimer ton chant,</l>
 	<l id='547'>Notre Orchestre suffit : un accompagnement, </l>
 	<l id='548'>Un coup d'archet dit plus que deux cents mots frivoles.</l>
 	<l id='549'>Tu vas nous procurer encore un bien plus grand. </l>
-	<l id='550'>Nos Opéras nouveaux, par ton moyen charmant, </l>
-	<l id='551'>Pourront à l'avenir se passer de paroles.</l>
+	<l id='550'>Nos OpÃ©ras nouveaux, par ton moyen charmant, </l>
+	<l id='551'>Pourront Ã  l'avenir se passer de paroles.</l>
 </sp>
 <sp who='MONSIEUR FAUSTER'><speaker>MONSIEUR FAUSTER.</speaker>
 	<l id='552'>On en fait joliment encor. </l>
-	<l id='553'>Les Fêtes de l'Hymen, Monsieur, et Zélindor.</l>
-	<l id='554'>Pour les Ballets Français sont deux bonnes écoles.</l>
+	<l id='553'>Les FÃªtes de l'Hymen, Monsieur, et ZÃ©lindor.</l>
+	<l id='554'>Pour les Ballets FranÃ§ais sont deux bonnes Ã©coles.</l>
 </sp>
 <sp who='MISS-BLAR'><speaker>MISS-BLAR.</speaker>
-	<l id='555'>Vous serez donc réduits au concert seulement, </l>
-<note type="L">Falot : Plaisant, drôle, grotesque. Conte falot. Aventure falote. [L]</note>
+	<l id='555'>Vous serez donc rÃ©duits au concert seulement, </l>
+<note type="L">Falot : Plaisant, drÃ´le, grotesque. Conte falot. Aventure falote. [L]</note>
 	<l id='556'>Quand vous supprimerez leurs actions falotes. </l>
 </sp>
-<sp who="LA FRIVOLITÉ"><speaker>LA FRIVOLITÉ.</speaker>
+<sp who="LA FRIVOLITÃ‰"><speaker>LA FRIVOLITÃ‰.</speaker>
 	<l id='557'>Non, la plaisanterie est toute dans les notes. </l>
-	<l id='558'>Je dois à leurs accords un nouvel agrément, </l>
-	<l id='559'>Oui redouble, pour eux, le zèle qui m'allume :</l>
-	<l id='560'>Ils sont dialogués si merveilleusement , </l>
+	<l id='558'>Je dois Ã  leurs accords un nouvel agrÃ©ment, </l>
+	<l id='559'>Oui redouble, pour eux, le zÃ¨le qui m'allume :</l>
+	<l id='560'>Ils sont dialoguÃ©s si merveilleusement , </l>
 	<l id='561'>Que, dans l'Orchestre seul, je trouve heureusement </l>
 	<l id='562'>Un acteur accompli, qui jamais ne s'enrhume.</l>
 </sp>
 <sp who='MISS-BLAR'><speaker>MISS-BLAR.</speaker>
-	<l id='563'>Mais rire à l'Opéra ce n'est pas la coutume. </l>
+	<l id='563'>Mais rire Ã  l'OpÃ©ra ce n'est pas la coutume. </l>
 </sp>
-<sp who="LA FRIVOLITÉ"><speaker>LA FRIVOLITÉ.</speaker>
-	<l id='564'>On rit tous les jours, sans façon, </l>
-	<l id='565'>Aux Français que je crois d'aussi bonne maison.</l>
+<sp who="LA FRIVOLITÃ‰"><speaker>LA FRIVOLITÃ‰.</speaker>
+	<l id='564'>On rit tous les jours, sans faÃ§on, </l>
+	<l id='565'>Aux FranÃ§ais que je crois d'aussi bonne maison.</l>
 </sp>
 <sp who='MISS-BLAR'><speaker>MISS-BLAR.</speaker>
 	<l id='566'>Ah ! Ne plaisantez pas : c'est commettre une offense </l>
-	<l id='567'>Contre sa dignité qui proscrit le badin. </l>
+	<l id='567'>Contre sa dignitÃ© qui proscrit le badin. </l>
 </sp>
 <sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
-	<l id='568'>La dignité du magasin ! </l>
+	<l id='568'>La dignitÃ© du magasin ! </l>
 </sp>
 <sp who='MISS-BLAR'><speaker>MISS-BLAR.</speaker>
-	<l id='569'>Oui, je rougis pour lui de l'indécence.</l>
+	<l id='569'>Oui, je rougis pour lui de l'indÃ©cence.</l>
 </sp>
 <sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
-	<l id='570'>L'indécence de l'Opéra </l>
+	<l id='570'>L'indÃ©cence de l'OpÃ©ra </l>
 	<l id='571'>Est dans la mauvaise musique. </l>
 	<l id='572'>Celle qu'un amateur, toujours admirera, </l>
-	<l id='573'>Est la plus noble sans réplique. </l>
+	<l id='573'>Est la plus noble sans rÃ©plique. </l>
 </sp>
 <sp who='MISS-BLAR'><speaker>MISS-BLAR.</speaker>
-	<l id='574'>Tous ces prétendus amateurs </l>
-	<l id='575'>Qui la vantent par air, avec un ton de maître.</l>
-	<l id='576'>À Paris en font les honneurs, </l>
-	<l id='577'>Sans avoir bien souvent celui de la connaître.</l>
+	<l id='574'>Tous ces prÃ©tendus amateurs </l>
+	<l id='575'>Qui la vantent par air, avec un ton de maÃ®tre.</l>
+	<l id='576'>Ã€ Paris en font les honneurs, </l>
+	<l id='577'>Sans avoir bien souvent celui de la connaÃ®tre.</l>
 </sp>
-<sp who="LA FRIVOLITÉ"><speaker>LA FRIVOLITÉ.</speaker>
-	<l id='578'>Vous avez contre nous trop de prévention.</l>
-	<l id='579'>Pour être juge en notre cause,</l>
+<sp who="LA FRIVOLITÃ‰"><speaker>LA FRIVOLITÃ‰.</speaker>
+	<l id='578'>Vous avez contre nous trop de prÃ©vention.</l>
+	<l id='579'>Pour Ãªtre juge en notre cause,</l>
 	<l id='580'>Monsieur est d'une nation,</l>
 	<l id='581'>Qui, toujours neutre, agit sans passion. </l>
-	<l id='582'>Je m'en rapporte à lui, qu'il décide la chose.</l>
+	<l id='582'>Je m'en rapporte Ã  lui, qu'il dÃ©cide la chose.</l>
 </sp>
 <sp who='MONSIEUR FAUSTER'><speaker>MONSIEUR FAUSTER.</speaker>
 	<l id='583' part='i'>Je crains...</l>
 </sp>
 <sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
-	<l id='583' part='f'>Monsieur, point d'appréhension.</l>
-	<l id='584'>Vous ne pouvez jamais que m'être favorable.</l>
+	<l id='583' part='f'>Monsieur, point d'apprÃ©hension.</l>
+	<l id='584'>Vous ne pouvez jamais que m'Ãªtre favorable.</l>
 </sp>
 <sp who='MONSIEUR FAUSTER'><speaker>MONSIEUR FAUSTER.</speaker>
-	<l id='585'>Je vais, en ce cas-là, tâcher d'être équitable.</l>
-	<l id='586'>Votre Opéra Parisien </l>
+	<l id='585'>Je vais, en ce cas-lÃ , tÃ¢cher d'Ãªtre Ã©quitable.</l>
+	<l id='586'>Votre OpÃ©ra Parisien </l>
 	<l id='587'>Me fait priser Lulli ; mais Quinault davantage. </l>
-	<l id='588'>L'intérêt de la scène est son premier soutien,</l>
-	<l id='589'>Et le poète sait si bien,</l>
+	<l id='588'>L'intÃ©rÃªt de la scÃ¨ne est son premier soutien,</l>
+	<l id='589'>Et le poÃ¨te sait si bien,</l>
 	<l id='590'>De la tendresse, exprimer le langage,</l>
 	<l id='591'>Que le coeur avec lui devient musicien.</l>
-	<l id='592'>À l'égard du chant italique,</l>
-	<l id='593'>Comme j'ai calculé les accords séducteurs,</l>
+	<l id='592'>Ã€ l'Ã©gard du chant italique,</l>
+	<l id='593'>Comme j'ai calculÃ© les accords sÃ©ducteurs,</l>
 	<l id='594'>Et vu son action d'un oeil philosophique,</l>
 	<l id='595'>J'applaudis tout haut sa musique,</l>
 	<l id='596'>Et ris tout bas du jeu de ses acteurs. </l>
@@ -1036,26 +1036,26 @@
 </sp>
 <sp who='MONSIEUR FAUSTER'><speaker>MONSIEUR FAUSTER.</speaker>
 	<l id='597' part='f'>Sans doute. Un homme raisonnable</l>
-	<l id='598'>Craint d'éclater, Monsieur, et rit modestement.</l>
+	<l id='598'>Craint d'Ã©clater, Monsieur, et rit modestement.</l>
 </sp>
-<sp who='LA FRIVOLITÉ'><speaker>LA FRIVOLITÉ.</speaker>
+<sp who='LA FRIVOLITÃ‰'><speaker>LA FRIVOLITÃ‰.</speaker>
 	<l id='599'>Est-ce en bien ? Est-ce en mal ?</l>
 </sp>
 <sp who='MONSIEUR FAUSTER'><speaker>MONSIEUR FAUSTER.</speaker>
-	<l id='600'>Un arrêt sagement </l>
-	<l id='601'>S'interprète toujours dans un sens favorable.</l>
+	<l id='600'>Un arrÃªt sagement </l>
+	<l id='601'>S'interprÃ¨te toujours dans un sens favorable.</l>
 </sp>
 <sp who='MISS-BLAR'><speaker>MISS-BLAR.</speaker>
 	<l id='602'>Il s'en tire fort joliment,</l>
-	<l id='603'>Et sa décision est d'autant plus louable,</l>
-	<l id='604'>Qu'au fond chaque parti doit en être content.</l>
-	<l id='605'>Adieu. Je sors moins triste, après ce jugement.</l>
+	<l id='603'>Et sa dÃ©cision est d'autant plus louable,</l>
+	<l id='604'>Qu'au fond chaque parti doit en Ãªtre content.</l>
+	<l id='605'>Adieu. Je sors moins triste, aprÃ¨s ce jugement.</l>
 </sp>
-<sp who='LA FRIVOLITÉ'><speaker>LA FRIVOLITÉ.</speaker>
+<sp who='LA FRIVOLITÃ‰'><speaker>LA FRIVOLITÃ‰.</speaker>
 	<l id='606'>Amenez une troupe anglaise,</l>
 	<l id='607'>Et revenez ici pour y jouer. </l>
 	<l id='608'>Qu'elle soit bonne, ou qu'elle soit mauvaise,</l>
-	<l id='609'>Vous verrez tout Paris déserter la Française, </l>
+	<l id='609'>Vous verrez tout Paris dÃ©serter la FranÃ§aise, </l>
 	<l id='610'>Et vous venir en foule applaudir et louer. </l>
 </sp>
 <sp who='MISS-BLAR'><speaker>MISS-BLAR.</speaker>
@@ -1063,148 +1063,148 @@
 	<l id='612'>Madame, j'attendrai que vous sachiez l'anglais.</l>
 </sp>
 <sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
-	<l id='613'>Il ne faut que paraître aux regards du Français ; </l>
+	<l id='613'>Il ne faut que paraÃ®tre aux regards du FranÃ§ais ; </l>
 	<l id='614'>Il est au fait avant qu'on ait ouvert la bouche. </l>
 </sp>
 <sp who='MISS-BLAR'><speaker>MISS-BLAR.</speaker>
 	<l id='615'>Comme vous aimez le badin , </l>
 	<l id='616'>Nous jouerons donc la pantomime, </l>
 	<l id='617'>Et nous approcherons, Monsieur, du baladin. </l>
-	<l id='618'>Pour mieux mériter votre estime. </l>
+	<l id='618'>Pour mieux mÃ©riter votre estime. </l>
 </sp>
-<sp who="LA FRIVOLITÉ"><speaker>LA FRIVOLITÉ.</speaker>
-	<l id='619'>On est sûr de l'avoir dès qu'on est singulier.</l>
+<sp who="LA FRIVOLITÃ‰"><speaker>LA FRIVOLITÃ‰.</speaker>
+	<l id='619'>On est sÃ»r de l'avoir dÃ¨s qu'on est singulier.</l>
 </sp>
 <sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
-	<l id='620'>Nous avons tant pleuré qu'il faut nous égayer.</l>
+	<l id='620'>Nous avons tant pleurÃ© qu'il faut nous Ã©gayer.</l>
 	<l id='621'>Je ne vous offre pas ma main pour vous conduire.</l>
-	<l id='622'>Vous avez dans Monsieur un meilleur écuyer. </l>
+	<l id='622'>Vous avez dans Monsieur un meilleur Ã©cuyer. </l>
 </sp>
-<sp who='MONSIEUR FAUSTER'><speaker>MONSIEUR FAUSTER, à Miss-Blar.</speaker>
+<sp who='MONSIEUR FAUSTER'><speaker>MONSIEUR FAUSTER, Ã  Miss-Blar.</speaker>
 	<l id='623'>Madame, avec tranSport j'accepte cet office</l>
 	<l id='624'>Un autre plus charmant, dont j'oSe vous prier, </l>
-	<l id='625'>Comblerait tous mes voeux ; si vous m'étiez propice,</l>
+	<l id='625'>Comblerait tous mes voeux ; si vous m'Ã©tiez propice,</l>
 	<l id='626'>Je m'en acquitterais. Que l'hymen nous unisse.</l>
 	<l id='627'>Nous sommes faits pour nous lier. </l>
 	<l id='628'>La raison est Anglaise et le bon sens est Suisse.</l>
 </sp>
 <sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
-	<l id='629'>Et l'esprit est Français ; qui n'en est point jaloux ? </l>
-	<l id='630'>Il fait compliment à l'époux, </l>
-	<l id='631'>Quand sa maîtresse se marie,</l>
-	<l id='632'>Sûr que le lendemain, apaisant son courroux,</l>
+	<l id='629'>Et l'esprit est FranÃ§ais ; qui n'en est point jaloux ? </l>
+	<l id='630'>Il fait compliment Ã  l'Ã©poux, </l>
+	<l id='631'>Quand sa maÃ®tresse se marie,</l>
+	<l id='632'>SÃ»r que le lendemain, apaisant son courroux,</l>
 	<l id='633'>Elle sera sa bonne amie.</l>
 </sp>
-<sp who='MISS-BLAR'><speaker>MISS-BLAR, à Monsieur Fauster.</speaker>
+<sp who='MISS-BLAR'><speaker>MISS-BLAR, Ã  Monsieur Fauster.</speaker>
 	<l id='634'>Monsieur, je vous donne ma main.</l>
 	<l id='635'>Pour vous, qui tournez tout, Marquis, en raillerie, </l>
 	<l id='636'>Vous n'aurez point de lendemain.</l>
-	<l id='637'>Je pars, de tous vos traits parfaitement guérie.</l>
+	<l id='637'>Je pars, de tous vos traits parfaitement guÃ©rie.</l>
 </sp>
 <sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
-	<l id='638'>Le dépit seul vous dicte ce discours ;</l>
+	<l id='638'>Le dÃ©pit seul vous dicte ce discours ;</l>
 	<l id='639'>Quand je blesse quelqu'un, c'est pour toute la vie. </l>
 </sp>
 <sp who='MISS-BLAR'><speaker>MISS-BLAR.</speaker>
 	<l id='640'>Non, je vous fais, Monsieur, mes adieux pour toujours.</l>
 	<l id='641'>Rien ne m'attire plus au sein de cette ville.</l>
-	<l id='642'>Des talents étrangers, votre esprit amateur </l>
+	<l id='642'>Des talents Ã©trangers, votre esprit amateur </l>
 	<l id='643'>N'en saisit, dans sa folle ardeur, </l>
 	<l id='644'>Que le frivole ou l'inutile.</l>
 	<l id='645'>Il prend, des miens, la licence facile,</l>
 	<l id='646'>Sans en avoir la profondeur :</l>
 	<l id='647'>Le battelage d'Italie, </l>
-	<l id='648'>Sans en posséder l'harmonie. </l>
-	<l id='649'>Opulent par lui-même, il néglige son bien, </l>
-	<l id='650'>Pour faire un sot emploi du nôtre qu'il envie ;</l>
-	<l id='651'>Et, croyant s'enrichir, il se réduit à rien. </l>
+	<l id='648'>Sans en possÃ©der l'harmonie. </l>
+	<l id='649'>Opulent par lui-mÃªme, il nÃ©glige son bien, </l>
+	<l id='650'>Pour faire un sot emploi du nÃ´tre qu'il envie ;</l>
+	<l id='651'>Et, croyant s'enrichir, il se rÃ©duit Ã  rien. </l>
 </sp>
-<sp who="LA FRIVOLITÉ"><speaker>LA FRIVOLITÉ.</speaker>
-	<l id='652' part='i'>Vous partez mécontente ?</l>
+<sp who="LA FRIVOLITÃ‰"><speaker>LA FRIVOLITÃ‰.</speaker>
+	<l id='652' part='i'>Vous partez mÃ©contente ?</l>
 </sp>
 <sp who='MISS-BLAR'><speaker>MISS-BLAR.</speaker>
-	<l id='652' part='f'>Oui, puisqu'il faut répondre : </l>
-	<l id='653'>J'étais venue en France apprendre expressément </l>
-	<l id='654'>La décence, le goût, la grâce et l'agrément, </l>
-	<l id='655'>Pour les joindre à la force, où nous primons à Londres ; </l>
-	<l id='656'>Mais je me suis méprise infiniment. </l>
-	<l id='657'>Vos Spectacles changés ne sont plus une école, </l>
-	<l id='658'>On ne voit plus régner chez eux </l>
-	<l id='659'>Qu'un plagiat qui me désole, </l>
-	<l id='660'>Et qu'un déplacement affreux. </l>
-	<l id='661'>C'est l'Opéra que partout on copie.</l>
-	<l id='662'>On chante au Théâtre François;</l>
-	<l id='663'>Ou comme lui plutôt on crie </l>
-	<l id='664'>Des vers bouffis, faits pour mugir exprès.</l>
+	<l id='652' part='f'>Oui, puisqu'il faut rÃ©pondre : </l>
+	<l id='653'>J'Ã©tais venue en France apprendre expressÃ©ment </l>
+	<l id='654'>La dÃ©cence, le goÃ»t, la grÃ¢ce et l'agrÃ©ment, </l>
+	<l id='655'>Pour les joindre Ã  la force, oÃ¹ nous primons Ã  Londres ; </l>
+	<l id='656'>Mais je me suis mÃ©prise infiniment. </l>
+	<l id='657'>Vos Spectacles changÃ©s ne sont plus une Ã©cole, </l>
+	<l id='658'>On ne voit plus rÃ©gner chez eux </l>
+	<l id='659'>Qu'un plagiat qui me dÃ©sole, </l>
+	<l id='660'>Et qu'un dÃ©placement affreux. </l>
+	<l id='661'>C'est l'OpÃ©ra que partout on copie.</l>
+	<l id='662'>On chante au ThÃ©Ã¢tre FranÃ§ois;</l>
+	<l id='663'>Ou comme lui plutÃ´t on crie </l>
+	<l id='664'>Des vers bouffis, faits pour mugir exprÃ¨s.</l>
 	<l id='665'>La troupe Italienne en tout le parodie ; </l>
-	<l id='666'>Et, lui dérobant ses moutons</l>
+	<l id='666'>Et, lui dÃ©robant ses moutons</l>
 	<l id='667'>Ne quitte plus la Bergerie. </l>
 	<l id='668'>Pour avoir sa revanche, il a pris leurs bouffons. </l>
-	<l id='669'>L'amour, qu'on a pour eux, devient le goût unique. </l>
-	<l id='670'>Tout paraît travesti, tout est lazzis, chansons. </l>
+	<l id='669'>L'amour, qu'on a pour eux, devient le goÃ»t unique. </l>
+	<l id='670'>Tout paraÃ®t travesti, tout est lazzis, chansons. </l>
 	<l id='671'>Comme on outre le jeu, l'on charge la Musique,</l>
-	<l id='672'>Et tout Paris n'est plus qu'un Opéra Comique.</l>
+	<l id='672'>Et tout Paris n'est plus qu'un OpÃ©ra Comique.</l>
 </sp>
 <sp who='MONSIEUR FAUSTER'><speaker>MONSIEUR FAUSTER.</speaker>
-	<l id='673'>Pour moi, qui de sang-froid, vois tout également, </l>
-	<l id='674'>Je vous quitte, Monsieur, plein d'estime et de zèle. </l>
-	<l id='675'>Je sais que votre esprit ne s'égare un moment,</l>
-	<l id='676'>Que pour reprendre après plus sûrement </l>
-	<l id='677'>Le chemin du bon goût dont il est le modèle. </l>
-	<l id='678'>Pour être bien, Messieurs, restez toujours Français, </l>
-	<l id='679'>N'imitez que vous-mêmes, et vous ferez parfaits.</l>
+	<l id='673'>Pour moi, qui de sang-froid, vois tout Ã©galement, </l>
+	<l id='674'>Je vous quitte, Monsieur, plein d'estime et de zÃ¨le. </l>
+	<l id='675'>Je sais que votre esprit ne s'Ã©gare un moment,</l>
+	<l id='676'>Que pour reprendre aprÃ¨s plus sÃ»rement </l>
+	<l id='677'>Le chemin du bon goÃ»t dont il est le modÃ¨le. </l>
+	<l id='678'>Pour Ãªtre bien, Messieurs, restez toujours FranÃ§ais, </l>
+	<l id='679'>N'imitez que vous-mÃªmes, et vous ferez parfaits.</l>
 <stage>En revenant.</stage>
 	<l id='680'>Je reviens sur mes pas vous dire une nouvelle</l>
-	<l id='681'>Tout-à-coup il s'élève une aurore si belle,</l>
-	<l id='682'>Qu'elle a rendu le jour à votre chant.</l>
-<note type="L">Tithon : Prince troyen aimé par la déesse de l'Aurore.</note>
+	<l id='681'>Tout-Ã -coup il s'Ã©lÃ¨ve une aurore si belle,</l>
+	<l id='682'>Qu'elle a rendu le jour Ã  votre chant.</l>
+<note type="L">Tithon : Prince troyen aimÃ© par la dÃ©esse de l'Aurore.</note>
 	<l id='683'>Nouveau Tithon, il rajeunit par elle, </l>
-	<l id='684'>Embelli des accords que vous chérissez tant,</l>
-	<l id='685'>En conservant toujours sa grâce naturelle, </l>
+	<l id='684'>Embelli des accords que vous chÃ©rissez tant,</l>
+	<l id='685'>En conservant toujours sa grÃ¢ce naturelle, </l>
 	<l id='686'>Le beau sexe surtout est son grand partisan. </l>
-	<l id='687'>Je vous félicite. Adieu. Bonjour, bon an.</l>
+	<l id='687'>Je vous fÃ©licite. Adieu. Bonjour, bon an.</l>
 <stage>Il sort.</stage>
 </sp>
 </div2>
-<div2 type='scene' n='5'><head>SCÈNE V.</head>
-<sp who="LA FRIVOLITÉ"><speaker>LA FRIVOLITÉ.</speaker>
-	<l id='688'>Pour combattre l'éclat de cette réussite, </l>
+<div2 type="scene" n='5'><head>SCÃˆNE V.</head>
+<sp who="LA FRIVOLITÃ‰"><speaker>LA FRIVOLITÃ‰.</speaker>
+	<l id='688'>Pour combattre l'Ã©clat de cette rÃ©ussite, </l>
 	<l id='689'>Redoublons nos transports pour notre favorite </l>
-	<l id='690'>Célébrons son retour par un brillant duo. </l>
+	<l id='690'>CÃ©lÃ©brons son retour par un brillant duo. </l>
 </sp>
 <sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
-	<l id='691'>Souffrez plutôt, par un trio,</l>
+	<l id='691'>Souffrez plutÃ´t, par un trio,</l>
 	<l id='692'>Que notre amour envers elle s'acquitte. </l>
 </sp>
-<sp who="LA FRIVOLITÉ"><speaker>LA FRIVOLITÉ.</speaker>
-	<l id='693'>À deux un trio ? Rêvez-vous ? </l>
+<sp who="LA FRIVOLITÃ‰"><speaker>LA FRIVOLITÃ‰.</speaker>
+	<l id='693'>Ã€ deux un trio ? RÃªvez-vous ? </l>
 </sp>
 <sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
-	<l id='694'>II est de la façon d'un serin de Bergame. </l>
+	<l id='694'>II est de la faÃ§on d'un serin de Bergame. </l>
 	<l id='695'>Mais le voici qui vient, Madame, </l>
-	<l id='696'>Pour l'exécuter avec nous. </l>
+	<l id='696'>Pour l'exÃ©cuter avec nous. </l>
 </sp>
 </div2>
-<div2 type='scene' n='6'><head>SCÈNE VI et DERNIÈRE. La Frivolité, Le Marquis, Arlequin, déguisé en Maître de Musique.</head>
-<sp who='ARLEQUIN'><speaker>ARLEQUIN, tout esouffléb l'hibit en désordre.</speaker>
+<div2 type="scene" n='6'><head>SCÃˆNE VI et DERNIÃˆRE. La FrivolitÃ©, Le Marquis, Arlequin, dÃ©guisÃ© en MaÃ®tre de Musique.</head>
+<sp who='ARLEQUIN'><speaker>ARLEQUIN, tout esoufflÃ©b l'hibit en dÃ©sordre.</speaker>
 	<l id='697'>Ouf ! Madame, pardon. Souffrez que je respire.</l>
-	<l id='698'>Je n'en puis plus, je viens d'être le spectateur</l>
-	<l id='699'>D'un combat qui tient du délire. </l>
-	<l id='700'>On m'a même forcé d'y devenir acteur.</l>
-	<l id='701'>L'image encore est présente à mon coeur ; </l>
-	<l id='702'>J'en frémis d'épouvante, et j'en crève de rire.</l>
+	<l id='698'>Je n'en puis plus, je viens d'Ãªtre le spectateur</l>
+	<l id='699'>D'un combat qui tient du dÃ©lire. </l>
+	<l id='700'>On m'a mÃªme forcÃ© d'y devenir acteur.</l>
+	<l id='701'>L'image encore est prÃ©sente Ã  mon coeur ; </l>
+	<l id='702'>J'en frÃ©mis d'Ã©pouvante, et j'en crÃ¨ve de rire.</l>
 </sp>
-<sp who="LA FRIVOLITÉ"><speaker>LA FRIVOLITÉ.</speaker>
+<sp who="LA FRIVOLITÃ‰"><speaker>LA FRIVOLITÃ‰.</speaker>
 	<l id='703' part='i'>Quel combat ?</l>
 </sp>
 <sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
-	<l id='703' part='f'>Au Café. C'est le Champ de bataille. </l>
+	<l id='703' part='f'>Au CafÃ©. C'est le Champ de bataille. </l>
 	<l id='704'>Les deux partis, Madame, en sont venus aux mains.</l>
 	<l id='705'>D'abord on s'escarmouche, on raille. </l>
 	<l id='706'>Sur notre Musico, tombent les traits malins. </l>
 	<l id='707'>L'un dit que ce chanteur, pour qui l'on se chamaille,</l>
 	<l id='708'>Miaule dans le haut, et jaPpe dans le bas. </l>
-	<l id='709'>L'autre, avec nos accords, exalte ses éclats. </l>
+	<l id='709'>L'autre, avec nos accords, exalte ses Ã©clats. </l>
 </sp>
 <sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id='710'>C'est une grande voix, pour peu qu'on la travaille. </l>
@@ -1216,24 +1216,24 @@
 	<l id='714'>Crie : aux pieds de Lulli, profanes, tombez tous,</l>
 	<l id='715'>Et devant lui baissez la nuque.</l>
 	<l id='716'>Ah ! Taisez-vous, vieille perruque, </l>
-	<l id='717'>Lui réplique un cousis, qui s'échauffe pour nous.</l>
-	<l id='718'>Ne parlez plus de musique française.</l>
-<note type="L">Lulli, Jean-Baptiste (1633-1687) : célèbre musicien, vint à Paris dès l'âge de 13 ans et y resta jusqu'à sa mort. Il composa 19 opéras dont les paroles étaient le plus souvent fournies par Quinault et qui eurent un grand succès. C'est lui qui faisait la musique des ballets et intermèdes qu'on jouait à la Cour. [B]</note>
+	<l id='717'>Lui rÃ©plique un cousis, qui s'Ã©chauffe pour nous.</l>
+	<l id='718'>Ne parlez plus de musique franÃ§aise.</l>
+<note type="L">Lulli, Jean-Baptiste (1633-1687) : cÃ©lÃ¨bre musicien, vint Ã  Paris dÃ¨s l'Ã¢ge de 13 ans et y resta jusqu'Ã  sa mort. Il composa 19 opÃ©ras dont les paroles Ã©taient le plus souvent fournies par Quinault et qui eurent un grand succÃ¨s. C'est lui qui faisait la musique des ballets et intermÃ¨des qu'on jouait Ã  la Cour. [B]</note>
 	<l id='719'>Votre petit Lulli ne va pas aux genoux </l>
-<note type="L">Pergolèse, Jean-Baptiste (1710-1736) : Compositeur italien qui composa dix opéras "serias".</note>
-	<l id='720'>Du grand, du divin Pergolèse. </l>
-	<l id='721'>Petit Lulli, dit l'autre écumant de courroux,</l>
-	<l id='722'>Un tel blasphème est indigne de grâce.</l>
-	<l id='723'>À la tête, à ces mots, il lui jette une tasse. </l>
+<note type="L">PergolÃ¨se, Jean-Baptiste (1710-1736) : Compositeur italien qui composa dix opÃ©ras "serias".</note>
+	<l id='720'>Du grand, du divin PergolÃ¨se. </l>
+	<l id='721'>Petit Lulli, dit l'autre Ã©cumant de courroux,</l>
+	<l id='722'>Un tel blasphÃ¨me est indigne de grÃ¢ce.</l>
+	<l id='723'>Ã€ la tÃªte, Ã  ces mots, il lui jette une tasse. </l>
 </sp>
-<sp who='LA FRIVOLITÉ'><speaker>LA FRIVOLITÉ.</speaker>
-	<l id='724'>Ô Ciel ! Pour nos amis je frémis de l'affront.</l>
+<sp who='LA FRIVOLITÃ‰'><speaker>LA FRIVOLITÃ‰.</speaker>
+	<l id='724'>Ã” Ciel ! Pour nos amis je frÃ©mis de l'affront.</l>
 </sp>
 <sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
 	<l id='725'>Notre Gascon l'esquive, et son bras furibond </l>
 	<l id='726'>Lui lance un tabouret, au milieu de la face,</l>
 	<l id='727'>Qui nous venge et qui le terrasse. </l>
-	<l id='728'>À ce beau coup ? Notre parti vainqueur </l>
+	<l id='728'>Ã€ ce beau coup ? Notre parti vainqueur </l>
 	<l id='729'>Bat des mains, pousse un cri de joie, </l>
 	<l id='730'>Et l'ennemi confus en pousse un de douleur. </l>
 </sp>
@@ -1241,113 +1241,113 @@
 	<l id='731' part='i'>Je respire.</l>
 </sp>
 <sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
-	<l id='731' part='f'>Ce n'est qu'un prélude, Monsieur. </l>
-	<l id='732'>De la Guerre aussitôt le signal se déploie. </l>
-	<l id='733'>Le Café se divise. Ils jurent, nous chantons. </l>
-	<l id='734'>Leur bataillon ferré vient fondre sur nos troupes. </l>
-	<l id='735'>On voit bientôt voler les verres, les soucoupes, </l>
+	<l id='731' part='f'>Ce n'est qu'un prÃ©lude, Monsieur. </l>
+	<l id='732'>De la Guerre aussitÃ´t le signal se dÃ©ploie. </l>
+	<l id='733'>Le CafÃ© se divise. Ils jurent, nous chantons. </l>
+	<l id='734'>Leur bataillon ferrÃ© vient fondre sur nos troupes. </l>
+	<l id='735'>On voit bientÃ´t voler les verres, les soucoupes, </l>
 	<l id='736'>Les carafes, les carafons, </l>
 	<l id='737'>Les biscuits et les macarons. </l>
-	<l id='738'>De toutes parts le sang coule et se mêle </l>
-	<l id='739'>Parmi les flots de thé, d'orgeat et de cannelle.</l>
+	<l id='738'>De toutes parts le sang coule et se mÃªle </l>
+	<l id='739'>Parmi les flots de thÃ©, d'orgeat et de cannelle.</l>
 </sp>
-<sp who='LA FRIVOLITÉ'><speaker>LA FRIVOLITÉ.</speaker>
-	<l id='740'>Ce récit, sur mon front, fait dresser mes cheveux.</l>
+<sp who='LA FRIVOLITÃ‰'><speaker>LA FRIVOLITÃ‰.</speaker>
+	<l id='740'>Ce rÃ©cit, sur mon front, fait dresser mes cheveux.</l>
 </sp>
 <sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
-	<l id='741'>Pour arrêter l'horreur d'un combat ruineux,</l>
-	<l id='742'>La Reine du Cassé sort de son trône en larmes.</l>
-	<l id='743'>Loin de se rendre à son aspect,</l>
-	<l id='744'>Ils la décoiffent sans respect </l>
+	<l id='741'>Pour arrÃªter l'horreur d'un combat ruineux,</l>
+	<l id='742'>La Reine du CassÃ© sort de son trÃ´ne en larmes.</l>
+	<l id='743'>Loin de se rendre Ã  son aspect,</l>
+	<l id='744'>Ils la dÃ©coiffent sans respect </l>
 	<l id='745'>Ni pour son rang ni pour ses charmes. </l>
-	<l id='746'>Dans la mêlée, elle perd son bonnet, </l>
+	<l id='746'>Dans la mÃªlÃ©e, elle perd son bonnet, </l>
 	<l id='747'>Et son mari, qui veut leur arracher les armes, </l>
-	<l id='748'>Est inhumainement plongé dans un baquet. </l>
+	<l id='748'>Est inhumainement plongÃ© dans un baquet. </l>
 </sp>
 <sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
-	<l id='749' part='i'>Voilà du grand tragique.</l>
+	<l id='749' part='i'>VoilÃ  du grand tragique.</l>
 </sp>
-<sp who='LA FRIVOLITÉ'><speaker>LA FRIVOLITÉ.</speaker>
+<sp who='LA FRIVOLITÃ‰'><speaker>LA FRIVOLITÃ‰.</speaker>
 	<l id='749' part='f'>Au fort de la bagarre ; </l>
 	<l id='750' part='i'>Que faisiez-vous, Signor ?</l>
 </sp>
 <sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
 	<l id='750' part='f'>Tapi seul dans un coin </l>
-	<l id='751'>J'étais de la bataille un paisible témoin, </l>
+	<l id='751'>J'Ã©tais de la bataille un paisible tÃ©moin, </l>
 	<l id='752'>Quand ce Chantre maudit, ce Lulliste barbare </l>
-	<l id='753'>M'aperçoit par malheur, et dit : ah ! Le voilà</l>
- <note type="L">Amphion : Fils de Zeus et d'Antiope, poète et musicien.</note>
+	<l id='753'>M'aperÃ§oit par malheur, et dit : ah ! Le voilÃ </l>
+ <note type="L">Amphion : Fils de Zeus et d'Antiope, poÃ¨te et musicien.</note>
 	<l id='754'>Cet Amphion en A , mi, la, </l>
-	<l id='755'>Qui de nos démêlés est la cause bizarre.</l>
-	<l id='756'>Assommons ce coquin. Aussitôt dit, aussitôt fait.</l>
+	<l id='755'>Qui de nos dÃ©mÃªlÃ©s est la cause bizarre.</l>
+	<l id='756'>Assommons ce coquin. AussitÃ´t dit, aussitÃ´t fait.</l>
 	<l id='757'>Il se jette sur moi comme un tigre farouche.</l>
 	<l id='758'>Pour me justifier, je veux ouvrir la bouche : </l>
 	<l id='759'>Il me la ferme d'un soufflet. </l>
 <note type="L">Rosser : Terme familier. Battre quelqu'un violemment. [L]</note>
-	<l id='760'>Tout son parti l'imite, et me rosse à forfait.</l>
+	<l id='760'>Tout son parti l'imite, et me rosse Ã  forfait.</l>
 </sp>
 <sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
-	<l id='761'>Et le nôtre ? Achevez, votre malheur me touche.</l>
+	<l id='761'>Et le nÃ´tre ? Achevez, votre malheur me touche.</l>
 </sp>
 <sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
-	<l id='762'>II vole à mon secours, m'arrache de leurs mains,</l>
-	<l id='763'>Et m'élevant malgré leurs efforts inhumains, </l>
+	<l id='762'>II vole Ã  mon secours, m'arrache de leurs mains,</l>
+	<l id='763'>Et m'Ã©levant malgrÃ© leurs efforts inhumains, </l>
 	<l id='764'>Sur ses bras, qui pour moi font un char de victoire,</l>
 	<l id='765'>Il me porte en triomphe, au milieu de Paris, </l>
-	<l id='766'>Jusques dans ce Palais où, quittant mes amis, </l>
-	<l id='767'>J'entre, chargé de coups, et tout couvert de gloire. </l>
+	<l id='766'>Jusques dans ce Palais oÃ¹, quittant mes amis, </l>
+	<l id='767'>J'entre, chargÃ© de coups, et tout couvert de gloire. </l>
 </sp>
 <sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
-	<l id='768'>Se peut-il qu'on vous ait aussi peu respecté ? </l>
+	<l id='768'>Se peut-il qu'on vous ait aussi peu respectÃ© ? </l>
 	<l id='769'>Ah ! J'en rougis pour ma patrie !</l>
 </sp>
-<sp who='LA FRIVOLITÉ'><speaker>LA FRIVOLITÉ, à Arlequin. </speaker>
-	<l id='770'>Quoi ? Vous êtes, Monsieur, ce fausset si vanté ?</l>
+<sp who='LA FRIVOLITÃ‰'><speaker>LA FRIVOLITÃ‰, Ã  Arlequin. </speaker>
+	<l id='770'>Quoi ? Vous Ãªtes, Monsieur, ce fausset si vantÃ© ?</l>
 </sp>
 <sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
 	<l id='771'>Non, Madame, je suis une taille accomplie. </l>
 </sp>
 <sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
-	<l id='772'>Chanteur, danseur, rimeur en même-temps, </l>
-	<l id='773'>Il compose lui seul des Opéra burlesques, </l>
+	<l id='772'>Chanteur, danseur, rimeur en mÃªme-temps, </l>
+	<l id='773'>Il compose lui seul des OpÃ©ra burlesques, </l>
 	<l id='774'>Il fait des vers Gascons , des airs Toscans, </l>
 <note type="L">Tudesque :  Qui appartient aux anciens Germains. La langue tudesque. [L]</note>
 	<l id='775'>Madame, et des ballets tudesques. </l>
 </sp>
 <sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
-	<l id='776'>J'en tiens ici de sûrs garants. </l>
-	<l id='777'>Voilà pour vous, Madame, une chanson d'élite. </l>
+	<l id='776'>J'en tiens ici de sÃ»rs garants. </l>
+	<l id='777'>VoilÃ  pour vous, Madame, une chanson d'Ã©lite. </l>
 	<l id='778'>Et voici pour nous trois un morceau triomphant. </l>
 </sp>
 <sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id='779'>Nous y parodions chacun un instrument. </l>
 </sp>
-<sp who='LA FRIVOLITÉ'><speaker>LA FRIVOLITÉ.</speaker>
-	<l id='780'>Pour assurer la réussite, </l>
+<sp who='LA FRIVOLITÃ‰'><speaker>LA FRIVOLITÃ‰.</speaker>
+	<l id='780'>Pour assurer la rÃ©ussite, </l>
 	<l id='781'>Il faut l'accompagner d'un ballet allemand. </l>
 </sp>
 <sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
 	<l id='782'>En attendant, Madame, un danseur moscovite.</l>
 </sp>
-<sp who='LA FRIVOLITÉ'><speaker>LA FRIVOLITÉ, chante.</speaker>
+<sp who='LA FRIVOLITÃ‰'><speaker>LA FRIVOLITÃ‰, chante.</speaker>
 <stage>Air.</stage>
-	<l id='783'>Coumo l'ausel près ol niou, </l>
+	<l id='783'>Coumo l'ausel prÃ¨s ol niou, </l>
 	<l id='784'>Mon cor crido que fa pierat. </l>
 	<l id='785'>Auzi que sa, piou, piou,</l>
 	<l id='786'>Per aber la libertat. </l>
 <stage>Trio.</stage>
 </sp>
-<sp who='LA FRIVOLITÉ'><speaker>LA FRIVOLITÉ.</speaker>
+<sp who='LA FRIVOLITÃ‰'><speaker>LA FRIVOLITÃ‰.</speaker>
 	<l id='787'>Que la Vielle, Instrument de ma gloire,</l>
-	<l id='788'>La flûte, le Basson célèbrent ma victoire.</l>
+	<l id='788'>La flÃ»te, le Basson cÃ©lÃ¨brent ma victoire.</l>
 </sp>
-<sp who='LE MARQUIS, ARLEQUIN'><speaker>LE MARQUIS ET ARLEQUIN, répètent ensemble.</speaker>
+<sp who='LE MARQUIS, ARLEQUIN'><speaker>LE MARQUIS ET ARLEQUIN, rÃ©pÃ¨tent ensemble.</speaker>
 	<l id='789'>Que la Vielle, Instrument de ma gloire,</l>
-	<l id='790'>La flûte, le Basson célèbrent ma victoire.</l>
-<stage>Il sortent tous trois à reculons en saluant le Public à la manière des bouffons.</stage>
+	<l id='790'>La flÃ»te, le Basson cÃ©lÃ¨brent ma victoire.</l>
+<stage>Il sortent tous trois Ã  reculons en saluant le Public Ã  la maniÃ¨re des bouffons.</stage>
 </sp>
 </div2>
 </div1>
 </body>
 </text>
-</TEI.2>
+</TEI>

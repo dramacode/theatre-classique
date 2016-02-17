@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="iso-8859-1" ?>
-<TEI.2>
+<?xml version="1.0" encoding="utf-8" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>LES TRAGÉDIES DE M. DE VOLTAIRE, ou TANCRÈDE JUGÉE PAR SES SOEURS, COMÉDIE NOUVELLE</title>
-				<author born='1731' born_location='Touraine' death='1798' death_location='Paris' academie='1746'>CAILLEAU, André-Charles (1731-1798)</author>
+				<title>LES TRAGÃ‰DIES DE M. DE VOLTAIRE, ou TANCRÃˆDE JUGÃ‰E PAR SES SOEURS, COMÃ‰DIE NOUVELLE</title>
+				<author born='1731' born_location='Touraine' death='1798' death_location='Paris' academie='1746'>CAILLEAU, AndrÃ©-Charles (1731-1798)</author>
 			</titleStmt>
 			<publicationStmp>	
-				<authority>publié par Paul FIEVRE, mai 2015</authority>
+				<authority>publiÃ© par Paul FIEVRE, mai 2015</authority>
 			</publicationStmp>
 			<SourceDesc>
-				<genre>Tragédie</genre>
+				<genre>TragÃ©die</genre>
 				<inspiration>histoire orientale</inspiration>
 				<structure>Cinq actes</structure>
 				<type>vers</type>
@@ -23,15 +23,15 @@
 	<text>
 		<front>
 			<docTitle>
-				<titlePart type="main">LES TRAGÉDIES DE M. DE VOLTAIRE</titlePart>
-				<titlePart type="sub">ou TANCRÈDE JUGÉE PAR SES SOEURS</titlePart>
-				<titlePart type="sub">COMÉDIE NOUVELLE en un Acte et en Prose.</titlePart>
+				<titlePart type="main">LES TRAGÃ‰DIES DE M. DE VOLTAIRE</titlePart>
+				<titlePart type="sub">ou TANCRÃˆDE JUGÃ‰E PAR SES SOEURS</titlePart>
+				<titlePart type="sub">COMÃ‰DIE NOUVELLE en un Acte et en Prose.</titlePart>
 			</docTitle> 
 			<docDate value='1760'>M. DCC. XL.</docDate>
-			<docAuthor id='CAILLEAU, André-Charles' bio='voltaire'>Par M. CAILLEAU</docAuthor>
+			<docAuthor id='CAILLEAU, AndrÃ©-Charles' bio='voltaire'>Par M. CAILLEAU</docAuthor>
 			<docImprint>
 				<privilege id='17**-**-**'></privilege>
-				<printer id='***'>À GENÈVE, Et se trouve à Paris, Chez CAILLEAU, Libraire, Quai des Augustins, près le Pont Saint Michel, à Saint André.</printer>
+				<printer id='***'>Ã€ GENÃˆVE, Et se trouve Ã  Paris, Chez CAILLEAU, Libraire, Quai des Augustins, prÃ¨s le Pont Saint Michel, Ã  Saint AndrÃ©.</printer>
 				<acheveImprime id='17**-**-**'></acheveImprime>
 			</docImprint>
 			<performance>
@@ -39,117 +39,117 @@
 					
 					<nombre value=''> </nombre>
 			</performance>
-			<preface><head>AVERTISSEMENT</head>
-	<p>Nous avertissons le Lecteur que les Tragédies sont ici personnifiées, que ce sont elles qui parlent et non le héros dont elles portent le nom.</p>
-</preface>
+			<div type="preface"><head>AVERTISSEMENT</head>
+	<p>Nous avertissons le Lecteur que les TragÃ©dies sont ici personnifiÃ©es, que ce sont elles qui parlent et non le hÃ©ros dont elles portent le nom.</p>
+</div>
 
 <castList><head>PERSONNAGES</head>
-	<castItem><role id='OEDIPE' civil='M' type="H" statut='allégorie' age='A' stat_amour='néant'>OEDIPE</role>.</castItem>
-	<castItem><role id='ARTÉMIRE' civil='M' type="H" statut='allégorie' age='A' stat_amour='néant'>ARTÉMIRE</role>.</castItem>
-	<castItem><role id='HERODE ET MARIAMNE' civil='M' type="H" statut='allégorie' age='A' stat_amour='néant'>HERODE ET MARIAMNE</role>.</castItem>
-	<castItem><role id='BRUTUS' civil='M' type="H" statut='allégorie' age='A' stat_amour='néant'>BRUTUS</role>.</castItem>
-	<castItem><role id='ERIPHILE' civil='M' type="H" statut='allégorie' age='A' stat_amour='néant'>ERIPHILE</role>.</castItem>
-	<castItem><role id='ZAÏRE' civil='M' type="H" statut='allégorie' age='A' stat_amour='néant'>ZAÏRE</role>.</castItem>
-	<castItem><role id='ALZIRE' civil='M' type="H" statut='allégorie' age='A' stat_amour='néant'>ALZIRE</role>.</castItem>
-	<castItem><role id='LA MORT DE CÉSAR' civil='M' type="H" statut='allégorie' age='A' stat_amour='néant'>LA MORT DE CÉSAR</role>.</castItem>
-	<castItem><role id='MAHOMET' civil='M' type="H" statut='allégorie' age='A' stat_amour='néant'>MAHOMET</role>.</castItem>
-	<castItem><role id='MÉROPE' civil='M' type="H" statut='allégorie' age='A' stat_amour='néant'>MÉROPE</role>.</castItem>
-	<castItem><role id='SÉMIRAMIS' civil='M' type="H" statut='allégorie' age='A' stat_amour='néant'>SÉMIRAMIS</role>.</castItem>
-	<castItem><role id='LE DUC DE FOIX' civil='M' type="H" statut='allégorie' age='A' stat_amour='néant'>LE DUC DE FOIX</role>.</castItem>
-	<castItem><role id='ROME SAUVÉE' civil='M' type="H" statut='allégorie' age='A' stat_amour='néant'>ROME SAUVÉE</role>.</castItem>
-	<castItem><role id="L'ORPHELIN DE LA CHINE" civil='M' type="H" statut='allégorie' age='A' stat_amour='néant'>L'ORPHELIN DE LA CHINE</role>.</castItem>
-	<castItem><role id='TANCRÈDE' civil='M' type="H" statut='allégorie' age='A' stat_amour='néant'>TANCRÈDE</role>.</castItem>
+	<castItem><role id='OEDIPE' civil='M' type="H" statut='allÃ©gorie' age='A' stat_amour='nÃ©ant'>OEDIPE</role>.</castItem>
+	<castItem><role id='ARTÃ‰MIRE' civil='M' type="H" statut='allÃ©gorie' age='A' stat_amour='nÃ©ant'>ARTÃ‰MIRE</role>.</castItem>
+	<castItem><role id='HERODE ET MARIAMNE' civil='M' type="H" statut='allÃ©gorie' age='A' stat_amour='nÃ©ant'>HERODE ET MARIAMNE</role>.</castItem>
+	<castItem><role id='BRUTUS' civil='M' type="H" statut='allÃ©gorie' age='A' stat_amour='nÃ©ant'>BRUTUS</role>.</castItem>
+	<castItem><role id='ERIPHILE' civil='M' type="H" statut='allÃ©gorie' age='A' stat_amour='nÃ©ant'>ERIPHILE</role>.</castItem>
+	<castItem><role id='ZAÃRE' civil='M' type="H" statut='allÃ©gorie' age='A' stat_amour='nÃ©ant'>ZAÃRE</role>.</castItem>
+	<castItem><role id='ALZIRE' civil='M' type="H" statut='allÃ©gorie' age='A' stat_amour='nÃ©ant'>ALZIRE</role>.</castItem>
+	<castItem><role id='LA MORT DE CÃ‰SAR' civil='M' type="H" statut='allÃ©gorie' age='A' stat_amour='nÃ©ant'>LA MORT DE CÃ‰SAR</role>.</castItem>
+	<castItem><role id='MAHOMET' civil='M' type="H" statut='allÃ©gorie' age='A' stat_amour='nÃ©ant'>MAHOMET</role>.</castItem>
+	<castItem><role id='MÃ‰ROPE' civil='M' type="H" statut='allÃ©gorie' age='A' stat_amour='nÃ©ant'>MÃ‰ROPE</role>.</castItem>
+	<castItem><role id='SÃ‰MIRAMIS' civil='M' type="H" statut='allÃ©gorie' age='A' stat_amour='nÃ©ant'>SÃ‰MIRAMIS</role>.</castItem>
+	<castItem><role id='LE DUC DE FOIX' civil='M' type="H" statut='allÃ©gorie' age='A' stat_amour='nÃ©ant'>LE DUC DE FOIX</role>.</castItem>
+	<castItem><role id='ROME SAUVÃ‰E' civil='M' type="H" statut='allÃ©gorie' age='A' stat_amour='nÃ©ant'>ROME SAUVÃ‰E</role>.</castItem>
+	<castItem><role id="L'ORPHELIN DE LA CHINE" civil='M' type="H" statut='allÃ©gorie' age='A' stat_amour='nÃ©ant'>L'ORPHELIN DE LA CHINE</role>.</castItem>
+	<castItem><role id='TANCRÃˆDE' civil='M' type="H" statut='allÃ©gorie' age='A' stat_amour='nÃ©ant'>TANCRÃˆDE</role>.</castItem>
 </castList>
 
-<set location='Paris' country='France' periode='XVIIIème' link=''>La Scène est à la Comédie Française.</set>
-<note>Texte établi à partir du document numérisé de la BnF cote YF-8488.</note>
+<set location='Paris' country='France' periode='XVIIIÃ¨me' link=''>La ScÃ¨ne est Ã  la ComÃ©die FranÃ§aise.</set>
+<note>Texte Ã©tabli Ã  partir du document numÃ©risÃ© de la BnF cote YF-8488.</note>
 </front>
 <body>
-<div1 type='acte' n='1'><head></head>
-<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE.</head>
-<sp who='OEDIPE'><speaker>LA TRAGÉDIE D'OEDIPE seule.</speaker>
-<note>Monseigneur le Duc d'Orléans, Régent de France présenta au Public M. de Voltaire, après la première représentation d'OEdipe en l'année 1718 ; elle fut représentée trente fois de suite : et c'est depuis ce temps qu'on demande l'Auteur d'une Pièce nouvelle, lorsqu'elle réussit.</note>
+<div1 type="act" n='1'><head></head>
+<div2 type="scene" n='1'><head>SCÃˆNE PREMIÃˆRE.</head>
+<sp who='OEDIPE'><speaker>LA TRAGÃ‰DIE D'OEDIPE seule.</speaker>
+<note>Monseigneur le Duc d'OrlÃ©ans, RÃ©gent de France prÃ©senta au Public M. de Voltaire, aprÃ¨s la premiÃ¨re reprÃ©sentation d'OEdipe en l'annÃ©e 1718 ; elle fut reprÃ©sentÃ©e trente fois de suite : et c'est depuis ce temps qu'on demande l'Auteur d'une PiÃ¨ce nouvelle, lorsqu'elle rÃ©ussit.</note>
 <p id='1'>
-	<s id='1'>Que je suis indignée ! </s>
+	<s id='1'>Que je suis indignÃ©e ! </s>
 	<s id='2'>Encore une soeur ! </s>
-	<s id='3'>Mon Père y pense-t-il ? </s>
+	<s id='3'>Mon PÃ¨re y pense-t-il ? </s>
 	<s id='4'>Combien il me fait de tort ! </s>
-	<s id='5'>Dans ma jeunesse je paraissais souvent en ces lieux, je faisais plaisir : et je serais oubliée ! </s>
-	<s id='6'>Non, je demanderai vengeance ; c'est une ingratitude que je ne puis pardonner à mon père. </s>
-	<s id='7'>Moi qui ai fait sa réputation ! </s>
-	<s id='8'>Tout le monde sait qu'il m'a l'obligation de ce qu'un Prince aussi éclairé qu'illustre, l'honora de sa protection : que c'est moi qui l'ai rendu célèbre, et je n'en suis pas mieux regardée. </s>
-	<s id='9'>Mes soeurs ignorent que leur famille est augmentée, je veux les prévenir, et les faire entrer dans ma juste colère.</s>
+	<s id='5'>Dans ma jeunesse je paraissais souvent en ces lieux, je faisais plaisir : et je serais oubliÃ©e ! </s>
+	<s id='6'>Non, je demanderai vengeance ; c'est une ingratitude que je ne puis pardonner Ã  mon pÃ¨re. </s>
+	<s id='7'>Moi qui ai fait sa rÃ©putation ! </s>
+	<s id='8'>Tout le monde sait qu'il m'a l'obligation de ce qu'un Prince aussi Ã©clairÃ© qu'illustre, l'honora de sa protection : que c'est moi qui l'ai rendu cÃ©lÃ¨bre, et je n'en suis pas mieux regardÃ©e. </s>
+	<s id='9'>Mes soeurs ignorent que leur famille est augmentÃ©e, je veux les prÃ©venir, et les faire entrer dans ma juste colÃ¨re.</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='2'><head>SCÈNE II. OEdipe, Zaïre, Alzire.</head>
-<sp who='ZAÏRE'><speaker>ZAÏRE.</speaker>
+<div2 type="scene" n='2'><head>SCÃˆNE II. OEdipe, ZaÃ¯re, Alzire.</head>
+<sp who='ZAÃRE'><speaker>ZAÃRE.</speaker>
 <p id='1'>
-	<s id='1'>OEdipe paraît bien agitée ! </s>
-	<s id='2'>Dans son égarement elle ne nous voit pas. </s>
-	<s id='3'>Écoutons.</s>
+	<s id='1'>OEdipe paraÃ®t bien agitÃ©e ! </s>
+	<s id='2'>Dans son Ã©garement elle ne nous voit pas. </s>
+	<s id='3'>Ã‰coutons.</s>
 </p>
 </sp>
 <sp who='OEDIPE'><speaker>OEDIPE, sans les voir.</speaker>
 <p id='2'>
-	<s id='1'>Toutes mes soeurs seront traitées comme moi... </s>
-	<s id='2'>Nous irons chez l'étranger... </s>
-	<s id='3'>Nous ne serons jamais oubliées.</s>
+	<s id='1'>Toutes mes soeurs seront traitÃ©es comme moi... </s>
+	<s id='2'>Nous irons chez l'Ã©tranger... </s>
+	<s id='3'>Nous ne serons jamais oubliÃ©es.</s>
 </p>
 </sp>
 <sp who='ALZIRE'><speaker>ALZIRE.</speaker>
 <p id='3'>
-	<s id='1'>Oubliées ! </s>
+	<s id='1'>OubliÃ©es ! </s>
 	<s id='2'>Ce ne sera pas moi : je sers d'exemple.</s>
 </p>
-	<note>Alzire fut représentée en 1736, elle eut 20 représentations de suite. Cette Tragédie est un des chefs d'oeuvres de M. Voltaire ; c'est sans contredit la mieux conduite de ses pièces, et dont le sujet soit presque tout de son invention.</note>
+	<note>Alzire fut reprÃ©sentÃ©e en 1736, elle eut 20 reprÃ©sentations de suite. Cette TragÃ©die est un des chefs d'oeuvres de M. Voltaire ; c'est sans contredit la mieux conduite de ses piÃ¨ces, et dont le sujet soit presque tout de son invention.</note>
 </sp>
-<sp who='ZAÏRE'><speaker>ZAÏRE.</speaker>
+<sp who='ZAÃRE'><speaker>ZAÃRE.</speaker>
 <p id='4'>
 	<s id='1'>Pour moi je suis trop belle pour qu'on me fasse cet affront.</s>
 </p>
 </sp>
 <sp who='OEDIPE'><speaker>OEDIPE.</speaker>
 <p id='5'>
-	<s id='1'>Je ne vous croyais point si près de moi. </s>
-	<s id='2'>Puisque vous voilà, je ne vous irai point chercher. </s>
-	<s id='3'>Mais qui vous amène ?</s>
+	<s id='1'>Je ne vous croyais point si prÃ¨s de moi. </s>
+	<s id='2'>Puisque vous voilÃ , je ne vous irai point chercher. </s>
+	<s id='3'>Mais qui vous amÃ¨ne ?</s>
 </p>
 </sp>
-<sp who='ZAÏRE'><speaker>ZAÏRE.</speaker>
+<sp who='ZAÃRE'><speaker>ZAÃRE.</speaker>
 <p id='6'>
-	<s id='1'>Il se fait tant de bruit ici depuis quelques jours, que nous n'avons pu résister au désir d'en apprendre le sujet.</s>
+	<s id='1'>Il se fait tant de bruit ici depuis quelques jours, que nous n'avons pu rÃ©sister au dÃ©sir d'en apprendre le sujet.</s>
 </p>
 </sp>
 <sp who='ALZIRE'><speaker>ALZIRE.</speaker>
 <p id='7'>
 	<s id='1'>Il n'est pas possible d'y tenir. </s>
-	<s id='2'>Vous êtes ici, vous savez ce qui l'occasionne.</s>
+	<s id='2'>Vous Ãªtes ici, vous savez ce qui l'occasionne.</s>
 </p>
 </sp>
 <sp who='OEDIPE'><speaker>OEDIPE.</speaker>
 <p id='8'>
-	<s id='1'>C'est ce qui me met en courroux, sachez que notre père nous abandonne.</s>
+	<s id='1'>C'est ce qui me met en courroux, sachez que notre pÃ¨re nous abandonne.</s>
 </p>
 </sp>
-<sp who='ZAÏRE'><speaker>ZAÏRE.</speaker>
+<sp who='ZAÃRE'><speaker>ZAÃRE.</speaker>
 <p id='9'>
 	<s id='1'>Comment donc ! </s>
 	<s id='2'>Nous lui avons fait tant d'honneur. </s>
 </p>
 </sp>
 <sp who='OEDIPE'><speaker>OEDIPE.</speaker>
-<note>On suppose que les Tragédies de M. de Voltaire se réveillent au bruit des applaudissements que le Public n'a pu refuser aux beautés des troisième et quatrième Actes de Tancrède.</note>
+<note>On suppose que les TragÃ©dies de M. de Voltaire se rÃ©veillent au bruit des applaudissements que le Public n'a pu refuser aux beautÃ©s des troisiÃ¨me et quatriÃ¨me Actes de TancrÃ¨de.</note>
 <p id='10'>
-	<s id='1'>C'est pour cela même ; et comme il veut s'en procurer encore, il vient de mettre au jour un nouvel enfant, et voilà le sujet de ce bruit qui peut nous être fatal. </s>
-	<s id='2'>Ne point se laisser de faire des enfants à son âge !</s>
+	<s id='1'>C'est pour cela mÃªme ; et comme il veut s'en procurer encore, il vient de mettre au jour un nouvel enfant, et voilÃ  le sujet de ce bruit qui peut nous Ãªtre fatal. </s>
+	<s id='2'>Ne point se laisser de faire des enfants Ã  son Ã¢ge !</s>
 </p>
 </sp>
-<sp who='ZAÏRE'><speaker>ZAÏRE.</speaker>
-<note>M. de Voltaire ne mit que trois semaines à faire la Tragédie de Zaïre ; il la fit par complaisance pour une Dame Respectable qui lui avait reproché que toutes ses Tragédies étaient sans amour, et qu'il n'y régnait pas assez de tendresse, Zaïre fut jouée en 1733, elle eut trente-deux représentations consécutives.</note>
+<sp who='ZAÃRE'><speaker>ZAÃRE.</speaker>
+<note>M. de Voltaire ne mit que trois semaines Ã  faire la TragÃ©die de ZaÃ¯re ; il la fit par complaisance pour une Dame Respectable qui lui avait reprochÃ© que toutes ses TragÃ©dies Ã©taient sans amour, et qu'il n'y rÃ©gnait pas assez de tendresse, ZaÃ¯re fut jouÃ©e en 1733, elle eut trente-deux reprÃ©sentations consÃ©cutives.</note>
 <p id='11'>
 	<s id='1'>Quel mal y trouvez-vous ? </s>
-	<s id='2'>Cela lui coûte si peu.</s>
+	<s id='2'>Cela lui coÃ»te si peu.</s>
 </p>
 </sp>
 <sp who='OEDIPE'><speaker>OEDIPE.</speaker>
@@ -164,24 +164,24 @@
 </sp>
 <sp who='OEDIPE'><speaker>OEDIPE.</speaker>
 <p id='14'>
-	<s id='1'>Gardez-vous bien de penser autrement, nous n'aurions jamais un père d'un mérite si universel ; ce qui nous console, c'est que nous sommes bien faites, et que nous ne mourrons jamais ; mais plus nous aurons de soeurs, plus nous serons oubliées, et c'est ce que j'appréhende. </s>
-	<s id=''>Les derniers font oublier les premiers ; cela peut arriver parmi nous, et nous ne le méritons pas.</s>
+	<s id='1'>Gardez-vous bien de penser autrement, nous n'aurions jamais un pÃ¨re d'un mÃ©rite si universel ; ce qui nous console, c'est que nous sommes bien faites, et que nous ne mourrons jamais ; mais plus nous aurons de soeurs, plus nous serons oubliÃ©es, et c'est ce que j'apprÃ©hende. </s>
+	<s id=''>Les derniers font oublier les premiers ; cela peut arriver parmi nous, et nous ne le mÃ©ritons pas.</s>
 </p>
 </sp>
 <sp who='ALZIRE'><speaker>ALZIRE.</speaker>
 <p id='15'>
-	<s id=''>Assurément, il faut y mettre ordre.</s>
+	<s id=''>AssurÃ©ment, il faut y mettre ordre.</s>
 </p>
 </sp>
-<sp who='ZAÏRE'><speaker>ZAÏRE.</speaker>
+<sp who='ZAÃRE'><speaker>ZAÃRE.</speaker>
 <p id='16'>
 	<s id='1'>C'est mon sentiment, et le temps presse.</s>
 </p>
 </sp>
 <sp who='OEDIPE'><speaker>OEDIPE.</speaker>
 <p id='17'>
-	<s id='1'>Je ne vois qu'un moyen ; c'est de n'admettre au nombre de nos soeurs, que celles qui seront dignes de l'être. </s>
-	<s id='2'>Épluchons leur conduite.</s>
+	<s id='1'>Je ne vois qu'un moyen ; c'est de n'admettre au nombre de nos soeurs, que celles qui seront dignes de l'Ãªtre. </s>
+	<s id='2'>Ã‰pluchons leur conduite.</s>
 </p>
 </sp>
 <sp who='ALZIRE'><speaker>ALZIRE.</speaker>
@@ -193,72 +193,72 @@
 <p id='19'>
 	<s id='1'>J'en conviens. </s>
 	<s id='2'>Mais il est encore temps. </s>
-	<s id='3'>Nous sommes les premières et les meilleures tragédies de ce spectacle, comme bonnes et bien aimées du Public, intercédons-le pour nous. </s>
-	<s id='4'>Il prendra notre parti, et ne recevra nos soeurs que selon leur mérite et leur beauté.</s>
+	<s id='3'>Nous sommes les premiÃ¨res et les meilleures tragÃ©dies de ce spectacle, comme bonnes et bien aimÃ©es du Public, intercÃ©dons-le pour nous. </s>
+	<s id='4'>Il prendra notre parti, et ne recevra nos soeurs que selon leur mÃ©rite et leur beautÃ©.</s>
 </p>
 </sp>
 <sp who='ALZIRE'><speaker>ALZIRE.</speaker>
 <p id='20'>
 	<s id='1'>Il ne faut point s'y prendre ainsi. </s>
 	<s id='2'>Pourquoi fatiguer le Public de remontrances ? </s>
-	<s id='3'>Il doit en être las. Si nous l'instruisions de notre procédé, il s'en formaliserait ; il voit avec trop de plaisir toutes les productions de notre père, pour nous être favorable.</s>
+	<s id='3'>Il doit en Ãªtre las. Si nous l'instruisions de notre procÃ©dÃ©, il s'en formaliserait ; il voit avec trop de plaisir toutes les productions de notre pÃ¨re, pour nous Ãªtre favorable.</s>
 </p>
 </sp>
-<sp who='ZAÏRE'><speaker>ZAÏRE.</speaker>
+<sp who='ZAÃRE'><speaker>ZAÃRE.</speaker>
 <p id='21'>
-	<s id='1'>Sa réflexion est juste.</s>
+	<s id='1'>Sa rÃ©flexion est juste.</s>
 </p>
 </sp>
 <sp who='OEDIPE'><speaker>OEDIPE.</speaker>
 <p id='22'>
-	<s id='1'>Eh bien, jugeons nous-même du mérite de nos soeurs, mais avec impartialité. N'imitons pas ces gens qui croient tout savoir pour faire l'extrait d'un Livre, et en dire du mal s'il est bon. </s>
-	<s id=''>Soyons sincères, et les enfants de Voltaire </s>
+	<s id='1'>Eh bien, jugeons nous-mÃªme du mÃ©rite de nos soeurs, mais avec impartialitÃ©. N'imitons pas ces gens qui croient tout savoir pour faire l'extrait d'un Livre, et en dire du mal s'il est bon. </s>
+	<s id=''>Soyons sincÃ¨res, et les enfants de Voltaire </s>
 </p>
-<note>Ce vers est tiré de l'Acte V, scène 1. de Tancrède.</note>
-	<l id='1'>Doivent être assez grands pour être sans envie.</l>
+<note>Ce vers est tirÃ© de l'Acte V, scÃ¨ne 1. de TancrÃ¨de.</note>
+	<l id='1'>Doivent Ãªtre assez grands pour Ãªtre sans envie.</l>
 <p id=''>
 	<s id=''>Et si nous avertissions nos soeurs...</s>
 </p>
 </sp>
-<sp who='ZAÏRE'><speaker>ZAÏRE.</speaker>
+<sp who='ZAÃRE'><speaker>ZAÃRE.</speaker>
 <p id='23'>
-	<s id='1'>Elles se réveilleront sans doute au bruit qui se fait ici.</s>
+	<s id='1'>Elles se rÃ©veilleront sans doute au bruit qui se fait ici.</s>
 </p>
 </sp>
 <sp who='ALZIRE'><speaker>ALZIRE.</speaker>
 <p id='24'>
-	<s id='1'>Je défierais bien qu'elles puissent y résister.</s>
+	<s id='1'>Je dÃ©fierais bien qu'elles puissent y rÃ©sister.</s>
 </p>
 </sp>
 <sp who='OEDIPE'><speaker>OEDIPE.</speaker>
 <p id='25'>
 	<s id='1'>Que vois-je ? </s>
-	<s id='2'>Il faut que le bruit soir redoublé, puisque voilà Artémire et Eriphile ; elles sont avec Hérode et Mariamne, et Brutus.</s>
+	<s id='2'>Il faut que le bruit soir redoublÃ©, puisque voilÃ  ArtÃ©mire et Eriphile ; elles sont avec HÃ©rode et Mariamne, et Brutus.</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='3'><head>SCÈNE III. OEdipe, Artémire, Hérode et Mariamne, Brutus, Eriphile, Zaïre, Alzire.</head>
-<sp who='ARTÉMIRE'><speaker>ARTÉMIRE.</speaker>
+<div2 type="scene" n='3'><head>SCÃˆNE III. OEdipe, ArtÃ©mire, HÃ©rode et Mariamne, Brutus, Eriphile, ZaÃ¯re, Alzire.</head>
+<sp who='ARTÃ‰MIRE'><speaker>ARTÃ‰MIRE.</speaker>
 <p id='1'>
-	<s id='1'>Pourquoi me tirer de la léthargie où j'étais ?</s>
+	<s id='1'>Pourquoi me tirer de la lÃ©thargie oÃ¹ j'Ã©tais ?</s>
 </p>
 </sp>
-<sp who='HÉRODE ET MARIAMNE'><speaker>HÉRODE ET MARIAMNE.</speaker>
+<sp who='HÃ‰RODE ET MARIAMNE'><speaker>HÃ‰RODE ET MARIAMNE.</speaker>
 <p id='2'>
 	<s id='1'>Ce n'est pas moi. </s>
-	<s id='2'>Je me suis réveillée comme vous : et si te viens ici, ce n'est que pour y rester jusqu'à ce que le bruit qui nous inquiète, cède.</s>
+	<s id='2'>Je me suis rÃ©veillÃ©e comme vous : et si te viens ici, ce n'est que pour y rester jusqu'Ã  ce que le bruit qui nous inquiÃ¨te, cÃ¨de.</s>
 </p>
-<note>Hérode fut jouée en 1714, et ne fut représentée qu'une fois. Voici pourquoi à la fin de cette tragédie on présentait à la Reine une coupe ; et dans le moment qu'elle allait boire ; un mauvais plaisant cria : "La Reine boit". Cette idée se trouvait à propos, attendu que cette pièce se donnait la veille des Rois. Tous les Spectateurs firent de si grands éclats de rire, qu'il ne fut pas possible aux comédiens d'achever la pi7ce. M. de Voltaire la retira, y fit quelques changements, et la redonna l'année suivante, où elle reprit avec succès.</note>
+<note>HÃ©rode fut jouÃ©e en 1714, et ne fut reprÃ©sentÃ©e qu'une fois. Voici pourquoi Ã  la fin de cette tragÃ©die on prÃ©sentait Ã  la Reine une coupe ; et dans le moment qu'elle allait boire ; un mauvais plaisant cria : "La Reine boit". Cette idÃ©e se trouvait Ã  propos, attendu que cette piÃ¨ce se donnait la veille des Rois. Tous les Spectateurs firent de si grands Ã©clats de rire, qu'il ne fut pas possible aux comÃ©diens d'achever la pi7ce. M. de Voltaire la retira, y fit quelques changements, et la redonna l'annÃ©e suivante, oÃ¹ elle reprit avec succÃ¨s.</note>
 </sp>
-<sp who='ARTÉMIRE'><speaker>ARTÉMIRE.</speaker>
+<sp who='ARTÃ‰MIRE'><speaker>ARTÃ‰MIRE.</speaker>
 <p id='3'>
 	<s id='1'>Avec qui sommes-nous ? </s>
-	<s id='2'>Voilà des personnes bien brillantes : retirons-nous.</s>
+	<s id='2'>VoilÃ  des personnes bien brillantes : retirons-nous.</s>
 </p>
 </sp>
 <sp who='OEDIPE'><speaker>OEDIPE.</speaker>
 <p id='4'>
-	<s id='1'>Restez, Artémire ; ne craignez rien, nous sommes vos soeurs.</s>
+	<s id='1'>Restez, ArtÃ©mire ; ne craignez rien, nous sommes vos soeurs.</s>
 </p>
 </sp>
 <sp who='BRUTUS'><speaker>BRUTUS.</speaker>
@@ -268,22 +268,22 @@
 </p>
 </sp>
 <sp who='ERIPHILE'><speaker>ERIPHILE.</speaker>
-<note>Eriphile, Tragédie, fut jouée pour la première fois est l732 ; elle eut fort peu de représentations. Le sujet est presque tout d'invention ; M. de Voltaire la retira, et ne la fit point imprimer.</note>
+<note>Eriphile, TragÃ©die, fut jouÃ©e pour la premiÃ¨re fois est l732 ; elle eut fort peu de reprÃ©sentations. Le sujet est presque tout d'invention ; M. de Voltaire la retira, et ne la fit point imprimer.</note>
 <p id='6'>
 	<s id='1'>C'est avec bien de la peine que je soutiens le grand jour. </s>
-	<s id=''>Depuis le temps que mon père me tient enfermée, je ne suis pas reconnaissable.</s>
+	<s id=''>Depuis le temps que mon pÃ¨re me tient enfermÃ©e, je ne suis pas reconnaissable.</s>
 </p>
 </sp>
-<sp who='ARTÉMIRE'><speaker>ARTÉMIRE.</speaker>
-<note>Artémire n'eut qu'une représentalion en 1720, M. du Voltaire la retira.</note>
+<sp who='ARTÃ‰MIRE'><speaker>ARTÃ‰MIRE.</speaker>
+<note>ArtÃ©mire n'eut qu'une reprÃ©sentalion en 1720, M. du Voltaire la retira.</note>
 <p id='7'>
-	<s id='1'>Ma situation est plus mauvaise que la vôtre. </s>
+	<s id='1'>Ma situation est plus mauvaise que la vÃ´tre. </s>
 	<s id='2'>Depuis ma chute je tremble toujours.</s>
 </p>
 </sp>
 <sp who='BRUTUS'><speaker>BRUTUS.</speaker>
 <p id='8'>
-	<s id='1'>Je ne comptais point reparaître ici sitôt ; moi qui suis belle, on me néglige.</s>
+	<s id='1'>Je ne comptais point reparaÃ®tre ici sitÃ´t ; moi qui suis belle, on me nÃ©glige.</s>
 </p>
 </sp>
 <sp who='OEDIPE'><speaker>OEDIPE.</speaker>
@@ -292,17 +292,17 @@
 </p>
 </sp>
 <sp who='BRUTUS'><speaker>BRUTUS.</speaker>
-<note>Brutus fut jouée en 1730, elle eut quinze représentations de suite et autant à la reprise ; c'est une des meilleures tragédies de M. de Voltaire.</note>
+<note>Brutus fut jouÃ©e en 1730, elle eut quinze reprÃ©sentations de suite et autant Ã  la reprise ; c'est une des meilleures tragÃ©dies de M. de Voltaire.</note>
 <p id='10'>
-	<s id='1'>Vous savez le plaisir que j'ai fait ici ; la foule des spectateurs était si grande, que la salle n'était pas assez vaste pour contenir tout le monde.</s>
+	<s id='1'>Vous savez le plaisir que j'ai fait ici ; la foule des spectateurs Ã©tait si grande, que la salle n'Ã©tait pas assez vaste pour contenir tout le monde.</s>
 </p>
 </sp>
-<sp who='HÉRODE ET MARIAMNE'><speaker>HÉRODE ET MARIAMNE.</speaker>
+<sp who='HÃ‰RODE ET MARIAMNE'><speaker>HÃ‰RODE ET MARIAMNE.</speaker>
 <p id='11'>
 	<s id='1'>Vengeons nous de l'affront qu'on nous fait.</s>
 </p>
 </sp>
-<sp who='ZAÏRE'><speaker>ZAÏRE.</speaker>
+<sp who='ZAÃRE'><speaker>ZAÃRE.</speaker>
 <p id='12'>
 	<s id='1'>Vous vous emportez pour bien peu de chose. </s>
 	<s id='2'>Que direz-vous donc quAnd vous saurez que nous avons une nouvelle soeur ?</s>
@@ -321,96 +321,96 @@
 <sp who='BRUTUS'><speaker>BRUTUS.</speaker>
 <p id='15'>
 	<s id='1'>Laquelle ? </s>
-	<s id='2'>Nous en avons de tant de façons... </s>
+	<s id='2'>Nous en avons de tant de faÃ§ons... </s>
 	<s id='3'>Elle n'est point ici sans doute.</s>
 </p>
 </sp>
 <sp who='OEDIPE'><speaker>OEDIPE.</speaker>
 <p id='16'>
-	<s id=''>Elle est en ce lieu, et va paraître dans un moment.</s>
+	<s id=''>Elle est en ce lieu, et va paraÃ®tre dans un moment.</s>
 </p>
 </sp>
 <sp who='BRUTUS'><speaker>BRUTUS.</speaker>
 <p id='17'>
-	<s id='1'>J'aurais voulu que ce fut Mérope, elle attire tout le monde ici, et on n'a des yeux que pour elle.</s>
+	<s id='1'>J'aurais voulu que ce fut MÃ©rope, elle attire tout le monde ici, et on n'a des yeux que pour elle.</s>
 </p>
 </sp>
 <sp who='ALZIRE'><speaker>ALZIRE.</speaker>
 <p id='18'>
-	<s iid='1'>Mérope est bonne ; il ne faut pas lui vouloir du mal.</s>
+	<s iid='1'>MÃ©rope est bonne ; il ne faut pas lui vouloir du mal.</s>
 </p>
 </sp>
-<sp who='HÉRODE ET MARIAMNE'><speaker>HÉRODE ET MARIAMNE.</speaker>
+<sp who='HÃ‰RODE ET MARIAMNE'><speaker>HÃ‰RODE ET MARIAMNE.</speaker>
 <p id='19'>
-	<s id=''>Il faudrait aussi reprendre Mahomet ; elle est d'une hardiesse révoltante ; elle imprime trop de terreur.</s>
+	<s id=''>Il faudrait aussi reprendre Mahomet ; elle est d'une hardiesse rÃ©voltante ; elle imprime trop de terreur.</s>
 </p>
 </sp>
-<sp who='ZAÏRE'><speaker>ZAÏRE.</speaker>
+<sp who='ZAÃRE'><speaker>ZAÃRE.</speaker>
 <p id='20'>
 	<s id='1'>De la terreur ! </s>
-	<s id='2'>C'est bon pour Sémiramis ; on a l'âme émue en la voyant.</s>
+	<s id='2'>C'est bon pour SÃ©miramis ; on a l'Ã¢me Ã©mue en la voyant.</s>
 </p>
 </sp>
-<sp who='ARTÉMIRE'><speaker>ARTÉMIRE.</speaker>
+<sp who='ARTÃ‰MIRE'><speaker>ARTÃ‰MIRE.</speaker>
 <p id='21'>
-	<s id='1'>Je n'aurais pas été fâchée qu'on jugeât la Mort de César.</s>
+	<s id='1'>Je n'aurais pas Ã©tÃ© fÃ¢chÃ©e qu'on jugeÃ¢t la Mort de CÃ©sar.</s>
 </p>
 </sp>
 <sp who='OEDIPE'><speaker>OEDIPE.</speaker>
-<note>La Mort de César, Tragédie en trois actes est sans femmes, elle a plutôt été faite pour être représentée dans les Collèges que sur le Théâtre français. Elle fut cependant représentée 6 à 7 fois, elle fit même plaisir : elle fut jouée
-pour la première fois au Collège d'Harcour, où l'on assure qu'elle fut bien représentée.</note>
+<note>La Mort de CÃ©sar, TragÃ©die en trois actes est sans femmes, elle a plutÃ´t Ã©tÃ© faite pour Ãªtre reprÃ©sentÃ©e dans les CollÃ¨ges que sur le ThÃ©Ã¢tre franÃ§ais. Elle fut cependant reprÃ©sentÃ©e 6 Ã  7 fois, elle fit mÃªme plaisir : elle fut jouÃ©e
+pour la premiÃ¨re fois au CollÃ¨ge d'Harcour, oÃ¹ l'on assure qu'elle fut bien reprÃ©sentÃ©e.</note>
 <p id='22'>
-	<s id='1'>Son procès est tout fait : quoiqu'elle ait été fort applaudie et qu'elle ait de grandes beautés, nous l'avons renvoyée au collège.</s>
+	<s id='1'>Son procÃ¨s est tout fait : quoiqu'elle ait Ã©tÃ© fort applaudie et qu'elle ait de grandes beautÃ©s, nous l'avons renvoyÃ©e au collÃ¨ge.</s>
 </p>
 </sp>
 <sp who='BRUTUS'><speaker>BRUTUS.</speaker>
-<note>Grimaud : petit écolier. Terme injurieux dont les grand écolier se servent pour injurier les petits. [F]</note>
+<note>Grimaud : petit Ã©colier. Terme injurieux dont les grand Ã©colier se servent pour injurier les petits. [F]</note>
 <p id='23'>
 	<s id='1'>Elle est trop bonne pour des grimauds.</s>
 </p>
 </sp>
 <sp who='ALZIRE'><speaker>ALZIRE.</speaker>
 <p id='24'>
-	<s id='1'>Le Public a jugé toutes nos soeurs, et nous nous réservons à juger celle qui vient de naître.</s>
+	<s id='1'>Le Public a jugÃ© toutes nos soeurs, et nous nous rÃ©servons Ã  juger celle qui vient de naÃ®tre.</s>
 </p>
 </sp>
-<sp who='HÉRODE ET MARIAMNE'><speaker>HÉRODE ET MARIAMNE.</speaker>
+<sp who='HÃ‰RODE ET MARIAMNE'><speaker>HÃ‰RODE ET MARIAMNE.</speaker>
 <p id='25'>
-	<s id='2'>Voici la Mort de César, Mahomet, Mérope et Sémiramis ; elles ont du dépit : à qui en ont-elles ?</s>
+	<s id='2'>Voici la Mort de CÃ©sar, Mahomet, MÃ©rope et SÃ©miramis ; elles ont du dÃ©pit : Ã  qui en ont-elles ?</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='4'><head>SCÈNE IV. Oedipe, Artéimire, Hérode et Mariamne, Brutus, Ériphile, Zaïre, Alzire, La Mort de César, Mahomet, Mérope, Sémiramis.</head>
-<sp who='LA MORT DE CÉSAR'><speaker>LA MORT DE CÉSAR.</speaker>
+<div2 type="scene" n='4'><head>SCÃˆNE IV. Oedipe, ArtÃ©imire, HÃ©rode et Mariamne, Brutus, Ã‰riphile, ZaÃ¯re, Alzire, La Mort de CÃ©sar, Mahomet, MÃ©rope, SÃ©miramis.</head>
+<sp who='LA MORT DE CÃ‰SAR'><speaker>LA MORT DE CÃ‰SAR.</speaker>
 <p id='1'>
-	<s id='1'>N'êtes-vous pas surprises de me revoir sur le Théâtre ; malgré ce défaut que l'on me trouve de ne pas aimer les femmes, si c'en est un, et la haine que vous me portez, ne pouvant me souffrir parmi vous, je n'ai pu résilier à la curiosité que j'ai de voir ma nouvelle soeur : elle commence à faire un bruit étonnant.</s>
+	<s id='1'>N'Ãªtes-vous pas surprises de me revoir sur le ThÃ©Ã¢tre ; malgrÃ© ce dÃ©faut que l'on me trouve de ne pas aimer les femmes, si c'en est un, et la haine que vous me portez, ne pouvant me souffrir parmi vous, je n'ai pu rÃ©silier Ã  la curiositÃ© que j'ai de voir ma nouvelle soeur : elle commence Ã  faire un bruit Ã©tonnant.</s>
 </p>
 </sp>
 <sp who='MAHOMET'><speaker>MAHOMET.</speaker>
-<note>Mahomet fut représentée en 1741, elle n'eut que trois représentations de suite, et 8 à la reprise.</note>
+<note>Mahomet fut reprÃ©sentÃ©e en 1741, elle n'eut que trois reprÃ©sentations de suite, et 8 Ã  la reprise.</note>
 <p id='2'>
-	<s id='1'>Il est vrai qu'elle fait parler d'elle comme si elle était merveilleuse.</s>
+	<s id='1'>Il est vrai qu'elle fait parler d'elle comme si elle Ã©tait merveilleuse.</s>
 </p>
 </sp>
-<sp who='MÉROPE'><speaker>MÉROPE.</speaker>
-<note>Mérope fut représentée en 1745, elle eut 15 représentations et 14 à la reprise.</note>
+<sp who='MÃ‰ROPE'><speaker>MÃ‰ROPE.</speaker>
+<note>MÃ©rope fut reprÃ©sentÃ©e en 1745, elle eut 15 reprÃ©sentations et 14 Ã  la reprise.</note>
 <p id='3'>
 	<s id='1'>Elle ne fera jamais tant de bruit que j'en ai fait.</s>
 </p>
 </sp>
-<sp who='SÉMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
-<note>Sémiramis fut représentée en 1748, elle eut 12 représentations. Son succès fut très douteux : mais à la reprise on rendit à M. de Voltaire tous les éloges qu'il méritait. Cette Tragédie étant une des mieux écrites et des mieux versifiées de ses pièces. Ce sont partout des sentiments de grandeur d'âme.</note>
+<sp who='SÃ‰MIRAMIS'><speaker>SÃ‰MIRAMIS.</speaker>
+<note>SÃ©miramis fut reprÃ©sentÃ©e en 1748, elle eut 12 reprÃ©sentations. Son succÃ¨s fut trÃ¨s douteux : mais Ã  la reprise on rendit Ã  M. de Voltaire tous les Ã©loges qu'il mÃ©ritait. Cette TragÃ©die Ã©tant une des mieux Ã©crites et des mieux versifiÃ©es de ses piÃ¨ces. Ce sont partout des sentiments de grandeur d'Ã¢me.</note>
 <p id='4'>
 	<s id='1'>Il ne faut pas qu'elle l'emporte sur nous. </s>
-	<s id='2'>Au bruit qu'elle commence à faire, je suis bien vite accourue ici pour en empêcher la continuation.</s>
+	<s id='2'>Au bruit qu'elle commence Ã  faire, je suis bien vite accourue ici pour en empÃªcher la continuation.</s>
 </p>
 </sp>
 <sp who='OEDIPE'><speaker>OEDIPE.</speaker>
 <p id='5'>
-	<s id='1'>Je suis la première qu'elle a surprise ici ; je ne rougis point de vous avouer que j'ai tremblée de son arrivée.</s>
+	<s id='1'>Je suis la premiÃ¨re qu'elle a surprise ici ; je ne rougis point de vous avouer que j'ai tremblÃ©e de son arrivÃ©e.</s>
 </p>
 </sp>
-<sp who='MÉROPE'><speaker>MÉROPE.</speaker>
+<sp who='MÃ‰ROPE'><speaker>MÃ‰ROPE.</speaker>
 <p id='6'>
 	<s id='1'>Comment ! </s>
 	<s id='2'>Elle irait loin ?</s>
@@ -418,7 +418,7 @@ pour la première fois au Collège d'Harcour, où l'on assure qu'elle fut bien repr
 </sp>
 <sp who='MAHOMET'><speaker>MAHOMET.</speaker>
 <p id='7'>
-	<s id='1'>Cela n'est pas étonnant : tout ce que notre père enfante, fait toujours beaucoup de bruit.</s>
+	<s id='1'>Cela n'est pas Ã©tonnant : tout ce que notre pÃ¨re enfante, fait toujours beaucoup de bruit.</s>
 </p>
 </sp>
 <sp who='BRUTUS'><speaker>BRUTUS.</speaker>
@@ -427,42 +427,42 @@ pour la première fois au Collège d'Harcour, où l'on assure qu'elle fut bien repr
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='5'><head>SCÈNE V. OEdipe, Artémire, Hérode et Mariamne, Brutus, Eriphile, Zaïre, Alzire, La Mort de César, MAhomet, Mérope, sémiramis, La Duc de Foix, Rome Sauvé, L'Orphelin de la Chine.</head>
+<div2 type="scene" n='5'><head>SCÃˆNE V. OEdipe, ArtÃ©mire, HÃ©rode et Mariamne, Brutus, Eriphile, ZaÃ¯re, Alzire, La Mort de CÃ©sar, MAhomet, MÃ©rope, sÃ©miramis, La Duc de Foix, Rome SauvÃ©, L'Orphelin de la Chine.</head>
 <sp who='LE DUC DE FOIX'><speaker>LE DUC DE FOIX.</speaker>
-<note>Le Duc de Foix fut jouée en 1752 ; elle eut 17 représentations.</note>
+<note>Le Duc de Foix fut jouÃ©e en 1752 ; elle eut 17 reprÃ©sentations.</note>
 <p id='1'>
-	<s id='1'>Les voilà toutes ici... </s>
-	<s id='2'>Nous arrivons peut-être un peu tard c'est la faute de notre père. </s>
-	<s id='3'>Au surplus, je ne suis pas bien intéressante.</s>
+	<s id='1'>Les voilÃ  toutes ici... </s>
+	<s id='2'>Nous arrivons peut-Ãªtre un peu tard c'est la faute de notre pÃ¨re. </s>
+	<s id='3'>Au surplus, je ne suis pas bien intÃ©ressante.</s>
 </p>
 </sp>
-<sp who='ROME SAUVÉE'><speaker>ROME SAUVÉE.</speaker>
-<note>M. de Voltaire, à la première représentation de Catilina, Tragédie de M. de Crébillon, promit de venger Cicéron dont il trouva le rôle faible et indigne d'un orateur. Il donna en 1753 Rome Sauvée, où Cicéron fait le plus beau rôle ; cette pièce eut onze Représentations de suite.</note>
+<sp who='ROME SAUVÃ‰E'><speaker>ROME SAUVÃ‰E.</speaker>
+<note>M. de Voltaire, Ã  la premiÃ¨re reprÃ©sentation de Catilina, TragÃ©die de M. de CrÃ©billon, promit de venger CicÃ©ron dont il trouva le rÃ´le faible et indigne d'un orateur. Il donna en 1753 Rome SauvÃ©e, oÃ¹ CicÃ©ron fait le plus beau rÃ´le ; cette piÃ¨ce eut onze ReprÃ©sentations de suite.</note>
 <p id='2'>
 	<s id='1'>Si vous me voyez avec vous, c'est un effet du hasard : on peut tirer cependant quelque chose de moi.</s>
 </p>
 </sp>
 <sp who="L'ORPHELIN DE LA CHINE"><speaker>L'ORPHELIN DE LA CHINE.</speaker>
 <p id='3'>
-	<s id='1'>Lorsque je me contemple auprès d'OEdipe, de Mérope, de Zaïre, et d'Alzire, je me trouve bien petite. </s>
+	<s id='1'>Lorsque je me contemple auprÃ¨s d'OEdipe, de MÃ©rope, de ZaÃ¯re, et d'Alzire, je me trouve bien petite. </s>
 	<s id='2'>Cela me mortifie autant que d'avoir une nouvelle soeur.</s>
 </p>
 </sp>
 <sp who='OEDIPE'><speaker>OEDIPE.</speaker>
 <p id='4'>
 	<s id='1'>Comment ! </s>
-	<s id='2'>Le bruit s'est répandu jusqu'à vous ? </s>
+	<s id='2'>Le bruit s'est rÃ©pandu jusqu'Ã  vous ? </s>
 	<s id='3'>Cela est inconcevable.</s>
 </p>
 </sp>
 <sp who="L'ORPHELIN DE LA CHINE"><speaker>L'ORPHELIN DE LA CHINE.</speaker>
 <p id='5'>
-	<s id='1'>Nous ne venons ici que pour l'examiner à notre aise.</s>
+	<s id='1'>Nous ne venons ici que pour l'examiner Ã  notre aise.</s>
 </p>
 </sp>
-<sp who='ROME SAUVÉE'><speaker>ROME SAUVÉE.</speaker>
+<sp who='ROME SAUVÃ‰E'><speaker>ROME SAUVÃ‰E.</speaker>
 <p id='6'>
-	<s id='1'>Notre Père se fait vieux elle ne sera pas sans défaut.</s>
+	<s id='1'>Notre PÃ¨re se fait vieux elle ne sera pas sans dÃ©faut.</s>
 </p>
 </sp>
 <sp who='SEMIRAMIS'><speaker>SEMIRAMIS.</speaker>
@@ -470,69 +470,69 @@ pour la première fois au Collège d'Harcour, où l'on assure qu'elle fut bien repr
 	<s id='1'>La plus belle d'entre nous n'en a-t-elle pas ; mais nous sommes trop.</s>
 </p>
 </sp>
-<sp who='ZAÏRE'><speaker>ZAÏRE.</speaker>
+<sp who='ZAÃRE'><speaker>ZAÃRE.</speaker>
 <p id='8'>
-	<s id='1'>Bon bon, moins nous servirons, moins nous serons usées.</s>
+	<s id='1'>Bon bon, moins nous servirons, moins nous serons usÃ©es.</s>
 </p>
 </sp>
-<sp who='ROME SAUVÉE'><speaker>ROME SAUVÉE.</speaker>
+<sp who='ROME SAUVÃ‰E'><speaker>ROME SAUVÃ‰E.</speaker>
 <p id='9'>
-	<s id='1'>Et plus nous ferons plaisir quand nous reparaîtrons.</s>
+	<s id='1'>Et plus nous ferons plaisir quand nous reparaÃ®trons.</s>
 </p>
 </sp>
 <sp who="L'ORPHELIN DE LA CHINE"><speaker>L'ORPHELIN DE LA CHINE.</speaker>
-<note>L'Orphelin de la Chine fut représentée en 1755. Elle eut 17 représentations.</note>
+<note>L'Orphelin de la Chine fut reprÃ©sentÃ©e en 1755. Elle eut 17 reprÃ©sentations.</note>
 <p id='10'>
-	<s id='1'>Je vous assure que notre père aurait dû finir par moi, j'avais achevé	sa carrière avec gloire.</s>
+	<s id='1'>Je vous assure que notre pÃ¨re aurait dÃ» finir par moi, j'avais achevÃ©	sa carriÃ¨re avec gloire.</s>
 </p>
 </sp>
-<sp who='SÉMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
+<sp who='SÃ‰MIRAMIS'><speaker>SÃ‰MIRAMIS.</speaker>
 <p id='11'>
-	<s id='1'>C'était bien par moi qu'il aurait dû finir.</s>
+	<s id='1'>C'Ã©tait bien par moi qu'il aurait dÃ» finir.</s>
 </p>
 </sp>
-<sp who='MÉROPE'><speaker>MÉROPE.</speaker>
+<sp who='MÃ‰ROPE'><speaker>MÃ‰ROPE.</speaker>
 <p id='12'>
-	<s id='1'>Dites plutôt par moi. Je l'ai rendu immortel.</s>
+	<s id='1'>Dites plutÃ´t par moi. Je l'ai rendu immortel.</s>
 </p>
 </sp>
 <sp who='OEDIPE'><speaker>OEDIPE.</speaker>
 <p id='13'>
-	<s id='1'>Nous en avons chacune en particulier notre part ; et à l'exception de	deux ou trois d'entre nous, nous lui avons fait toutes beaucoup d'honneur.</s>
+	<s id='1'>Nous en avons chacune en particulier notre part ; et Ã  l'exception de	deux ou trois d'entre nous, nous lui avons fait toutes beaucoup d'honneur.</s>
 </p>
 </sp>
 <sp who="L'ORPHELIN DE LA CHINE"><speaker>L'ORPHELIN DE LA CHINE.</speaker>
 <p id='14'>
-	<s id='1'>Vous avez raison ; mais malgré ma jeunesse je ne puis distinguer les	traits de mes deux soeurs. </s>
-	<s id='2'>Elles me paraissent âgées ; qui sont-elles ?</s>
+	<s id='1'>Vous avez raison ; mais malgrÃ© ma jeunesse je ne puis distinguer les	traits de mes deux soeurs. </s>
+	<s id='2'>Elles me paraissent Ã¢gÃ©es ; qui sont-elles ?</s>
 </p>
 </sp>
 <sp who='BRUTUS'><speaker>BRUTUS.</speaker>
-<note>Dans le Portefeuille trouvé de M. de Voltaire, on lit une scène d'Artemne où le vers se trouve, Tome premier, page 197. Il y a cependant d'assez bonnes tirades dans cette Tragédie qui n'est point imprimée.</note>
+<note>Dans le Portefeuille trouvÃ© de M. de Voltaire, on lit une scÃ¨ne d'Artemne oÃ¹ le vers se trouve, Tome premier, page 197. Il y a cependant d'assez bonnes tirades dans cette TragÃ©die qui n'est point imprimÃ©e.</note>
 <p id='15'>
-	<s id='1'>C'est Artémire et Eriphile. La première ne s'est fait voir qu'une fois ; la seconde n'eut guère un plus grand avantage. </s>
-	<s id='2'>Artémire était farcie de grands vers, dont la plupart portaient maximes, entr'autres celui-ci que Cassandre, un de ses personnages, prononce.</s>
+	<s id='1'>C'est ArtÃ©mire et Eriphile. La premiÃ¨re ne s'est fait voir qu'une fois ; la seconde n'eut guÃ¨re un plus grand avantage. </s>
+	<s id='2'>ArtÃ©mire Ã©tait farcie de grands vers, dont la plupart portaient maximes, entr'autres celui-ci que Cassandre, un de ses personnages, prononce.</s>
 </p>
 	<l id='2'>La honte est dans le crime, et non dans le supplice.</l>
 </sp>
 <sp who='OEDIPE'><speaker>OEDIPE.</speaker>
 <p id='16'>
-	<s id='1'>Ce vers prouve bien que notre père a une prodigieuse mémoire : il est mot pour mot dans le Comte d'Essex, tragédie de Thomas Corneille : encore aimerais-je mieux. </s>
+	<s id='1'>Ce vers prouve bien que notre pÃ¨re a une prodigieuse mÃ©moire : il est mot pour mot dans le Comte d'Essex, tragÃ©die de Thomas Corneille : encore aimerais-je mieux. </s>
 </p>
-	<l id='3'>Le crime fait la honte, et non pas l'échaffaut. </l>
+	<l id='3'>Le crime fait la honte, et non pas l'Ã©chaffaut. </l>
 </sp>
 <sp who="L'ORPHELIN DE LA CHINE"><speaker>L'ORPHELIN DE LA CHINE.</speaker>
 <p id='17'>
 	<s id='1'>Il faut qu'Eriphile soit bien petite ; c'est tout ce que je puis faire que de la distinguer.</s>
 </p>
 </sp>
-<sp who='ROME SAUVÉE'><speaker>ROME SAUVÉE.</speaker>
+<sp who='ROME SAUVÃ‰E'><speaker>ROME SAUVÃ‰E.</speaker>
 <p id='18'>
-	<s id='1'>Voilà ce que c'est que de n'avoir pas de fortune, on vous méprise. </s>
-	<s id='2'>Si je n'avais point de partisans, on me mettrait à côté d'elle et d'Artémire.</s>
+	<s id='1'>VoilÃ  ce que c'est que de n'avoir pas de fortune, on vous mÃ©prise. </s>
+	<s id='2'>Si je n'avais point de partisans, on me mettrait Ã  cÃ´tÃ© d'elle et d'ArtÃ©mire.</s>
 </p>
 </sp>
-<sp who='ARTÉMIRE'><speaker>ARTÉMIRE</speaker>
+<sp who='ARTÃ‰MIRE'><speaker>ARTÃ‰MIRE</speaker>
 <p id='19'>
 	<s id='1'>Moi ! </s>
 	<s id='2'>J'ai l'avantage sur toutes mes soeurs de n'avoir fait pleurer personne.</s>
@@ -540,26 +540,26 @@ pour la première fois au Collège d'Harcour, où l'on assure qu'elle fut bien repr
 </sp>
 <sp who='ERIPHILE'><speaker>ERIPHILE.</speaker>
 <p id='20'>
-	<s id='1'>Ne devriez-vous pas, ma soeur, garder le silence : faites comme moi : je ne parle pas dans la crainte de déshonorer notre père.</s>
+	<s id='1'>Ne devriez-vous pas, ma soeur, garder le silence : faites comme moi : je ne parle pas dans la crainte de dÃ©shonorer notre pÃ¨re.</s>
 </p>
 </sp>
-<sp who='SÉMIRAMIS'><speaker>SÉMIRAMIS, éclatant de rire.</speaker>
+<sp who='SÃ‰MIRAMIS'><speaker>SÃ‰MIRAMIS, Ã©clatant de rire.</speaker>
 <p id='21'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Ah ! </s>
 	<s id='3'>Ah ! </s>
 	<s id='4'>Ah ! </s>
-	<s id='5'>Regardez donc cette figure hétéroclite qui s'approche de nous.</s>
+	<s id='5'>Regardez donc cette figure hÃ©tÃ©roclite qui s'approche de nous.</s>
 </p>
 </sp>
-<sp who='HÉRODE ET MARIAMNE'><speaker>HÉRODE ET MARIAMNE.</speaker>
+<sp who='HÃ‰RODE ET MARIAMNE'><speaker>HÃ‰RODE ET MARIAMNE.</speaker>
 <p id='22'>
 	<s id='1'>Elle n'ose avancer : qu'elle marche lentement !</s>
 </p>
 </sp>
 <sp who='BRUTUS'><speaker>BRUTUS.</speaker>
 <p id='23'>
-	<s id='1'>Elle nous fait des révérences...</s>
+	<s id='1'>Elle nous fait des rÃ©vÃ©rences...</s>
 </p>
 </sp>
 <sp who='ALZIRE'><speaker>ALZIRE.</speaker>
@@ -567,15 +567,15 @@ pour la première fois au Collège d'Harcour, où l'on assure qu'elle fut bien repr
 	<s id='1'>C'est nous qu'elle cherche.</s>
 </p>
 </sp>
-<sp who='ZAÏRE'><speaker>ZAÏRE</speaker>
+<sp who='ZAÃRE'><speaker>ZAÃRE</speaker>
 <p id='25'>
-	<s id='1'>Mais quelqu'un la précède.</s>
+	<s id='1'>Mais quelqu'un la prÃ©cÃ¨de.</s>
 </p>
 </sp>
-<sp who='MÉROPE'><speaker>MÉROPE.</speaker>
-<note>La première représentation de Tancrède qui se fit le 3 Septembre, fut précédée d'un compliment que le sieur le Kain prononça.</note>
+<sp who='MÃ‰ROPE'><speaker>MÃ‰ROPE.</speaker>
+<note>La premiÃ¨re reprÃ©sentation de TancrÃ¨de qui se fit le 3 Septembre, fut prÃ©cÃ©dÃ©e d'un compliment que le sieur le Kain prononÃ§a.</note>
 <p id='26'>
-	<s id='1'>C'est celui qui a intercédé pour elle.</s>
+	<s id='1'>C'est celui qui a intercÃ©dÃ© pour elle.</s>
 </p>
 </sp>
 <sp who='MAHOMET'><speaker>MAHOMET.</speaker>
@@ -585,67 +585,67 @@ pour la première fois au Collège d'Harcour, où l'on assure qu'elle fut bien repr
 </sp>
 <sp who="L'ORPHELIN DE LA CHINE"><speaker>L'ORPHELIN DE LA CHINE.</speaker>
 <p id='28'>
-	<s id='1'>Plus cette figure s'approche de nous, et plus elle me paraît singulière.</s>
+	<s id='1'>Plus cette figure s'approche de nous, et plus elle me paraÃ®t singuliÃ¨re.</s>
 </p>
 </sp>
 <sp who='LE DUC DE FOIX'><speaker>LE DUC DE FOIX.</speaker>
-<note>Les vers de la Tragédie de Tancréde sont à rimes croisées, cela n'a point paru ridicule, et M. de Voltaire a bien fait de secouer le joug des vers à rimes plates.</note>
+<note>Les vers de la TragÃ©die de TancrÃ©de sont Ã  rimes croisÃ©es, cela n'a point paru ridicule, et M. de Voltaire a bien fait de secouer le joug des vers Ã  rimes plates.</note>
 <p id='29'>
-	<s id='1'>Elle n'est pas vêtue comme nous.</s>
+	<s id='1'>Elle n'est pas vÃªtue comme nous.</s>
 </p>
 </sp>
 <sp who='OEDIPE'><speaker>OEDIPE.</speaker>
 <p id='30'>
-	<s id='1'>Avez-vous assez examiné votre soeur ?</s>
+	<s id='1'>Avez-vous assez examinÃ© votre soeur ?</s>
 </p>
 </sp>
-<sp who='LA MORT DE CÉSAR'><speaker>LA MORT DE CÉSAR. </speaker>
+<sp who='LA MORT DE CÃ‰SAR'><speaker>LA MORT DE CÃ‰SAR. </speaker>
 <p id='31'>
 	<s id='1'>Quoi ! </s>
-	<s id='2'>C'est-là notre soeur ! </s>
+	<s id='2'>C'est-lÃ  notre soeur ! </s>
 	<s id='3'>Elle n'est pas si mal.</s>
 </p>
 </sp>
 <sp who='OEDIPE'><speaker>OEDIPE.</speaker>
 <p id='32'>
-	<s id='1'>Je vous tire de l'embarras où je vous vois depuis un moment.</s>
+	<s id='1'>Je vous tire de l'embarras oÃ¹ je vous vois depuis un moment.</s>
 </p>
 </sp>
 <sp who='SEMIRAMIS'><speaker>SEMIRAMIS.</speaker>
 <p id='33'>
-	<s id='1'>Elle nous fait des inclinations de têtes.</s>
+	<s id='1'>Elle nous fait des inclinations de tÃªtes.</s>
 </p>
 </sp>
 <sp who='OEDIPE'><speaker>OEDIPE.</speaker>
 <p id='34'>
-	<s id='1'>Ce ne font pas des inclinations de têtes qu'elle vous fait. </s>
+	<s id='1'>Ce ne font pas des inclinations de tÃªtes qu'elle vous fait. </s>
 	<s id='2'>Ne voyez-vous pas qu'elle boite un peu.</s>
 </p>
 </sp>
-<sp who='ZAÏRE'><speaker>ZAÏRE.</speaker>
+<sp who='ZAÃRE'><speaker>ZAÃRE.</speaker>
 <p id='35'>
 	<s id='1'>C'est bien dommage.</s>
 </p>
 </sp>
 <sp who='BRUTUS'><speaker>BRUTUS.</speaker>
 <p id='36'>
-	<s id='1'>Sa conduite irrégulière rend sa marche difficile.</s>
+	<s id='1'>Sa conduite irrÃ©guliÃ¨re rend sa marche difficile.</s>
 </p>
 </sp>
-<sp who='ROME SAUVÉE'><speaker>ROME SAUVÉE.</speaker>
+<sp who='ROME SAUVÃ‰E'><speaker>ROME SAUVÃ‰E.</speaker>
 <p id='37'>
-	<s id='1'>C'est peut-être une mode nouvelle. </s>
-	<s id='2'>Notre père fait bien de ne se pas gêner. </s>
+	<s id='1'>C'est peut-Ãªtre une mode nouvelle. </s>
+	<s id='2'>Notre pÃ¨re fait bien de ne se pas gÃªner. </s>
 </p>
 </sp>
 <sp who='ERIPHILE'><speaker>ERIPHILE.</speaker>
 <p id='38'>
-	<s id='1'>Je prévois qu'elle aura plus de bonheur que moi.</s>
+	<s id='1'>Je prÃ©vois qu'elle aura plus de bonheur que moi.</s>
 </p>
 </sp>
-<sp who='ARTÉMIRE'><speaker>ARTÉMIRE.</speaker>
+<sp who='ARTÃ‰MIRE'><speaker>ARTÃ‰MIRE.</speaker>
 <p id='39'>
-	<s id='1'>Il est bien malheureux pour moi de ne ressembler à aucune de mes soeurs.</s>
+	<s id='1'>Il est bien malheureux pour moi de ne ressembler Ã  aucune de mes soeurs.</s>
 </p>
 </sp>
 <sp who='LE DUC DE FOIX'><speaker>LE DUC DE FOIX.</speaker>
@@ -655,56 +655,56 @@ pour la première fois au Collège d'Harcour, où l'on assure qu'elle fut bien repr
 </sp>
 <sp who='ERIPHILE'><speaker>ERIPHILE.</speaker>
 <p id='41'>
-	<s id='1'>Pour moi, je voudrais n'être pas ici. </s>
+	<s id='1'>Pour moi, je voudrais n'Ãªtre pas ici. </s>
 	<s id='2'>Si je me retirais ...?</s>
 </p>
 </sp>
 <sp who='OEDIPE'><speaker>OEDIPE.</speaker>
 <p id='42'>
-	<s id='1'>Non, restez encore un moment : il faut au moins que vous soyez présente à l'entrée de notre nouvelle soeur.</s>
+	<s id='1'>Non, restez encore un moment : il faut au moins que vous soyez prÃ©sente Ã  l'entrÃ©e de notre nouvelle soeur.</s>
 </p>
 </sp>
 <sp who='ERIPHILE'><speaker>ERIPHILE.</speaker>
 <p id='43'>
-	<s id='1'>Je le veux bien : mais elle ne m'aura pas plutôt vue qu'elle m'oubliera.</s>
+	<s id='1'>Je le veux bien : mais elle ne m'aura pas plutÃ´t vue qu'elle m'oubliera.</s>
 </p>
 </sp>
-<sp who='ARTÉMIRE'><speaker>ARTÉMIRE,</speaker>
+<sp who='ARTÃ‰MIRE'><speaker>ARTÃ‰MIRE,</speaker>
 <p id='44'>
 	<s id='1'>Autant rester. </s>
 	<s id='2'>La voici.</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='6'><head>SCÈNE VI. OEdipe, Artémire, Hérode et Mariamne, Brutus, Eriphile, Zaïre, Alzire, La Mort de César, Mahomet, Mérope, Sémiramis, Le Duc de Foix, Rome Sauvée, L'Orphelin de la Chine, Tancrède.</head>
-<sp who='TANCRÈDE'><speaker>TANCRÈDE garde le silence ttntnoment, et t/oitses Soeurs avec admiration.</speaker>
-<stage>À part.</stage>
+<div2 type="scene" n='6'><head>SCÃˆNE VI. OEdipe, ArtÃ©mire, HÃ©rode et Mariamne, Brutus, Eriphile, ZaÃ¯re, Alzire, La Mort de CÃ©sar, Mahomet, MÃ©rope, SÃ©miramis, Le Duc de Foix, Rome SauvÃ©e, L'Orphelin de la Chine, TancrÃ¨de.</head>
+<sp who='TANCRÃˆDE'><speaker>TANCRÃˆDE garde le silence ttntnoment, et t/oitses Soeurs avec admiration.</speaker>
+<stage>Ã€ part.</stage>
 <p id='1'>
-	<s id='1'>Que de beautés ! </s>
-	<s id='2'>Sont-ce là mes soeurs ? </s>
-	<s id='3'>Ne me trompé-je pas ? </s>
+	<s id='1'>Que de beautÃ©s ! </s>
+	<s id='2'>Sont-ce lÃ  mes soeurs ? </s>
+	<s id='3'>Ne me trompÃ©-je pas ? </s>
 	<s id='4'>Quelles sont grandes et bien faites... </s>
-	<s id='5'>En voilà pourtant de ma taille, et même de plus petites que moi. </s>
-	<s id='6'>Me ferai-je connaître ? </s>
+	<s id='5'>En voilÃ  pourtant de ma taille, et mÃªme de plus petites que moi. </s>
+	<s id='6'>Me ferai-je connaÃ®tre ? </s>
 	<s id='7'>Pourquoi non ? </s>
-	<s id='8'>Il ne faut qu'un trait de ressemblance pour me déceler. </s>
-	<s id='9'>Elles ne disent mot... et je n'ose leur parler la première.</s>
+	<s id='8'>Il ne faut qu'un trait de ressemblance pour me dÃ©celer. </s>
+	<s id='9'>Elles ne disent mot... et je n'ose leur parler la premiÃ¨re.</s>
 </p>
 </sp>
 <sp who='OEDIPE'><speaker>OEDIPE.</speaker>
 <p id='2'>
-	<s id='1'>Approchez, et remettez-vous un peu de votre étonnement. </s>
-	<s id='2'>Nous sommes vos soeurs, toutes du même Père. </s>
-	<s id='3'>Et vous n'avez rien à craindre de nous. </s>
-	<s id='4'>Nous avons ici chacune notre Palais ; le mêne souvent sert à plusieurs d'entre nous, mais c'est toujours en l'absence de l'une ou de l'autre. </s>
-	<s id='5'>Votre arrivée en ces lieux nous a surpris, nous vous l'avouons : mais vous paraissez bonne, et nous espérons que vous mériterez d'être avec nous par votre sincérité.</s>
+	<s id='1'>Approchez, et remettez-vous un peu de votre Ã©tonnement. </s>
+	<s id='2'>Nous sommes vos soeurs, toutes du mÃªme PÃ¨re. </s>
+	<s id='3'>Et vous n'avez rien Ã  craindre de nous. </s>
+	<s id='4'>Nous avons ici chacune notre Palais ; le mÃªne souvent sert Ã  plusieurs d'entre nous, mais c'est toujours en l'absence de l'une ou de l'autre. </s>
+	<s id='5'>Votre arrivÃ©e en ces lieux nous a surpris, nous vous l'avouons : mais vous paraissez bonne, et nous espÃ©rons que vous mÃ©riterez d'Ãªtre avec nous par votre sincÃ©ritÃ©.</s>
 </p> 
 </sp>
-<sp who='TANCRÈDE'><speaker>TANCRÈDE.</speaker>
-<note>M. De Voltaire ayant appris que les Comédiens avaient reçu la Comédie des Philosophes, retira aussitôt de leurs mains, TancRéde et Zulime.</note>
-<note> M. Palissot, Auteur de la Comédie des Philosophes. Cette Pièce n'aurait jamais dû paraître pour l'honneur de notre siècle et l'avantage de la Littérature.</note>
+<sp who='TANCRÃˆDE'><speaker>TANCRÃˆDE.</speaker>
+<note>M. De Voltaire ayant appris que les ComÃ©diens avaient reÃ§u la ComÃ©die des Philosophes, retira aussitÃ´t de leurs mains, TancRÃ©de et Zulime.</note>
+<note> M. Palissot, Auteur de la ComÃ©die des Philosophes. Cette PiÃ¨ce n'aurait jamais dÃ» paraÃ®tre pour l'honneur de notre siÃ¨cle et l'avantage de la LittÃ©rature.</note>
 <p id='3'>
-	<s id='1'>J'ai bien cru ne jamais paraître ici : mon Père était si irrité contre un Anti-philosophe, qu'il m'avait fait revenir avec lui.</s>
+	<s id='1'>J'ai bien cru ne jamais paraÃ®tre ici : mon PÃ¨re Ã©tait si irritÃ© contre un Anti-philosophe, qu'il m'avait fait revenir avec lui.</s>
 </p>
 </sp>
 <sp who='BRUTUS'><speaker>BRUTUS.</speaker>
@@ -712,20 +712,20 @@ pour la première fois au Collège d'Harcour, où l'on assure qu'elle fut bien repr
 	<s id='1'>Portez-vous un beau nom, ma soeur ?</s>
 </p>
 </sp>
-<sp who='TANCRÈDE'><speaker>TANCRÈDE.</speaker>
+<sp who='TANCRÃˆDE'><speaker>TANCRÃˆDE.</speaker>
 <p id='5'>
-	<s id='1'>On m'appelle Tancrède.</s>
+	<s id='1'>On m'appelle TancrÃ¨de.</s>
 </p>
 </sp>
-<sp who='ZAÏRE'><speaker>ZAÏRE.</speaker>
+<sp who='ZAÃRE'><speaker>ZAÃRE.</speaker>
 <p id='6'>
 	<s id='1'>Ce nom annonce quelque chose. </s>
-	<s id='2'>Le Tasse en parle comme d'un Héros fameux. </s>
+	<s id='2'>Le Tasse en parle comme d'un HÃ©ros fameux. </s>
 </p>
 </sp>
-<sp who='TANCRÈDE'><speaker>TANCRÈDE.</speaker>
+<sp who='TANCRÃˆDE'><speaker>TANCRÃˆDE.</speaker>
 <p id='7'>
-	<s id='1'>Je ne porte point le nom de ce Tancrède-là : mon Héros est un Chevalier de Syracuse.</s>
+	<s id='1'>Je ne porte point le nom de ce TancrÃ¨de-lÃ  : mon HÃ©ros est un Chevalier de Syracuse.</s>
 </p>
 </sp>
 <sp who='MAHOMET'><speaker>MAHOMET.</speaker>
@@ -735,27 +735,27 @@ pour la première fois au Collège d'Harcour, où l'on assure qu'elle fut bien repr
 </sp>
 <sp who='ALZIRE'><speaker>ALZIRE.</speaker>
 <p id='9'>
-	<s id='1'>Vous devez intéresser davantage si vous êtes neuve.</s>
+	<s id='1'>Vous devez intÃ©resser davantage si vous Ãªtes neuve.</s>
 </p>
 </sp>
 <sp who='SEMIRAMIS'><speaker>SEMIRAMIS.</speaker>
 <p id='10'>
-	<s id='1'>Vous présentez vous bien sur la scène ?</s>
+	<s id='1'>Vous prÃ©sentez vous bien sur la scÃ¨ne ?</s>
 </p>
 </sp>
-<sp who='TANCRÈDE'><speaker>TANCRÈDE.</speaker>
+<sp who='TANCRÃˆDE'><speaker>TANCRÃˆDE.</speaker>
 <p id='11'>
-	<s id='1'>Mon abord est extrêmement difficile à concevoir.</s>
+	<s id='1'>Mon abord est extrÃªmement difficile Ã  concevoir.</s>
 </p>
 </sp>
-<sp who='MÉROPE'><speaker>MÉROPE</speaker>
+<sp who='MÃ‰ROPE'><speaker>MÃ‰ROPE</speaker>
 <p id='12'>
-	<s id='1'>Il m'a semblé d'un froid à glace, et si vous n'aviez pas été une fille de mon Père vous n'auriez pas prise si bien.</s>
+	<s id='1'>Il m'a semblÃ© d'un froid Ã  glace, et si vous n'aviez pas Ã©tÃ© une fille de mon PÃ¨re vous n'auriez pas prise si bien.</s>
 </p>
 </sp>
-<sp who='TANCRÈDE'><speaker>TANCRÈDE.</speaker>
+<sp who='TANCRÃˆDE'><speaker>TANCRÃˆDE.</speaker>
 <p id='13'>
-	<s id='1'>Je craignais bien de faire un faux pas en entrant ici : mais l'indulgence du Public m'a ranimée, et il ne s'en repent point.</s>
+	<s id='1'>Je craignais bien de faire un faux pas en entrant ici : mais l'indulgence du Public m'a ranimÃ©e, et il ne s'en repent point.</s>
 </p>
 </sp>
 <sp who='MAHOMET'><speaker>MAHOMET.</speaker>
@@ -763,112 +763,112 @@ pour la première fois au Collège d'Harcour, où l'on assure qu'elle fut bien repr
 	<s id='1'>Vous lui avez fait plaisir ?</s>
 </p>
 </sp>
-<sp who='TANCRÈDE'><speaker>TANCRÈDE.</speaker>
+<sp who='TANCRÃˆDE'><speaker>TANCRÃˆDE.</speaker>
 <p id='15'>
 	<s id='1'>Je le crois.</s>
 </p>
 </sp>
 <sp who="L'ORPHELIN DE LA CHINE"><speaker>L'ORPHELIN DE LA CHINE.</speaker>
 <p id='16'>
-	<s id='1'>Allez, Tancrède, telle que vous êtes vous ne l'emporterez jamais sur moi.</s>
+	<s id='1'>Allez, TancrÃ¨de, telle que vous Ãªtes vous ne l'emporterez jamais sur moi.</s>
 </p>
 </sp>
-<sp who='LA MORT DE CÉSAR'><speaker>LA MORT DE CÉSAR.</speaker>
+<sp who='LA MORT DE CÃ‰SAR'><speaker>LA MORT DE CÃ‰SAR.</speaker>
 <p id='17'>
 	<s id='1'>Quand j'aurai fait connaissance avec elle je dirai mon sentiment.</s>
 </p>
 </sp>
-<sp who='ARTÉMIRE'><speaker>ARTÉMIRE.</speaker>
+<sp who='ARTÃ‰MIRE'><speaker>ARTÃ‰MIRE.</speaker>
 <p id='18'>
-	<s id='1'>C'est la benne façon de penser. </s>
-	<s id='2'>Pour être la plus jeune de nous, Tancrède me paraît déjà grande.</s>
+	<s id='1'>C'est la benne faÃ§on de penser. </s>
+	<s id='2'>Pour Ãªtre la plus jeune de nous, TancrÃ¨de me paraÃ®t dÃ©jÃ  grande.</s>
 </p>
 </sp>
 <sp who='ERIPHILE'><speaker>ERIPHILE.</speaker>
 <p id='19'>
-	<s id='1'>À quoi mon père pensait-il donc quand il nous a mis au monde ? </s>
-	<s id='2'>Tancrède a déjà le pas sur moi. </s>
+	<s id='1'>Ã€ quoi mon pÃ¨re pensait-il donc quand il nous a mis au monde ? </s>
+	<s id='2'>TancrÃ¨de a dÃ©jÃ  le pas sur moi. </s>
 	<s id='3'>Quel bonheur ? </s>
-	<s id='4'>Elle est née coiffée.</s>
+	<s id='4'>Elle est nÃ©e coiffÃ©e.</s>
 </p>
 </sp>
-<sp who='TANCRÈDE'><speaker>TANCRÈDE.</speaker>
+<sp who='TANCRÃˆDE'><speaker>TANCRÃˆDE.</speaker>
 <p id='20'>
-	<s id='1'>Vous me parlez les unes après les autres inutilement : comment voulez-vous que je vous réponde ? </s>
-	<s id=''>Je ne vous connais pas : vous êtes presque toutes fort belles ; mais je ne puis vous distinguer que par votre nom, et je i'ignore.</s>
+	<s id='1'>Vous me parlez les unes aprÃ¨s les autres inutilement : comment voulez-vous que je vous rÃ©ponde ? </s>
+	<s id=''>Je ne vous connais pas : vous Ãªtes presque toutes fort belles ; mais je ne puis vous distinguer que par votre nom, et je i'ignore.</s>
 </p>
 </sp>
 <sp who='OEDIPE'><speaker>OEDIPE.</speaker>
 <p id='21'>
 	<s id='1'>Je vais vous en instruire. </s>
-	<s id='2'>Je fuis votre aînée ; et comme j'ai vu naître toutes mes Soeurs, voici en abrégé les jugements qu'on  a porté d'elles. </s>
-	<s id='3'>ARTÉMIRE a parue après moi, et n'a pas eu assez de force pour se soutenir ; elle languit encore, et n'en reviendra pas. </s>
-	<s id='4'>HÉRODE ETMARIAMNE n'aurait pas été plus heureuse ; mais à force de corrections, notre père l'a rendue, meilleure : effectivement elle a des beautés. </s>
+	<s id='2'>Je fuis votre aÃ®nÃ©e ; et comme j'ai vu naÃ®tre toutes mes Soeurs, voici en abrÃ©gÃ© les jugements qu'on  a portÃ© d'elles. </s>
+	<s id='3'>ARTÃ‰MIRE a parue aprÃ¨s moi, et n'a pas eu assez de force pour se soutenir ; elle languit encore, et n'en reviendra pas. </s>
+	<s id='4'>HÃ‰RODE ETMARIAMNE n'aurait pas Ã©tÃ© plus heureuse ; mais Ã  force de corrections, notre pÃ¨re l'a rendue, meilleure : effectivement elle a des beautÃ©s. </s>
 	<s id='5'>BRUTUS se conduit sagement, je voudrais que vous lui ressembliez. </s>
-	<s id='6'>ERIPHILE fut malheureuse ; elle est si mauvaise , que notre Père n'a jamais eu le courage de la corriger. </s>
-	<s id='7'>ZAÏRE est une de nos meilleures Soeurs. </s>
-	<s id='8'>On lui reproche quelques défauts dans sa marche ; mais c'est si peu de chose, que le plaisir qu'elle procure fait passer par-dessus ces minuties. </s>
-	<s id='9'>ALZIRE est belle et sa conduite régulière ; elle fera toujours honneur à notre père. </s>
-	<s id='10'>LA MORT DE CÉSAR a des beautés ; son défaut est de n'aimer que les hommes, c'est pourquoi elle ne peut rester avec nous. </s>
-	<s id='11'>MAHOMET n'est pas mauvaise, elle a de la chaleur, mais vous n'avez rien à craindre d'elle. </s>
-	<s id='12'>MÉROPE, sa bonté est dangereuse ; et quoique sans beaucoup de conduite, elle ne fait grâce à aucune de nous, elle en surpasse même plusieurs par son intérêt. </s>
-	<s id='13'>SÉMIRAMIS est belle [à] voir ; mais elle n'a pas de vraisemblance, elle est cependant bien constituée. </s>
+	<s id='6'>ERIPHILE fut malheureuse ; elle est si mauvaise , que notre PÃ¨re n'a jamais eu le courage de la corriger. </s>
+	<s id='7'>ZAÃRE est une de nos meilleures Soeurs. </s>
+	<s id='8'>On lui reproche quelques dÃ©fauts dans sa marche ; mais c'est si peu de chose, que le plaisir qu'elle procure fait passer par-dessus ces minuties. </s>
+	<s id='9'>ALZIRE est belle et sa conduite rÃ©guliÃ¨re ; elle fera toujours honneur Ã  notre pÃ¨re. </s>
+	<s id='10'>LA MORT DE CÃ‰SAR a des beautÃ©s ; son dÃ©faut est de n'aimer que les hommes, c'est pourquoi elle ne peut rester avec nous. </s>
+	<s id='11'>MAHOMET n'est pas mauvaise, elle a de la chaleur, mais vous n'avez rien Ã  craindre d'elle. </s>
+	<s id='12'>MÃ‰ROPE, sa bontÃ© est dangereuse ; et quoique sans beaucoup de conduite, elle ne fait grÃ¢ce Ã  aucune de nous, elle en surpasse mÃªme plusieurs par son intÃ©rÃªt. </s>
+	<s id='13'>SÃ‰MIRAMIS est belle [Ã ] voir ; mais elle n'a pas de vraisemblance, elle est cependant bien constituÃ©e. </s>
 	<s id='14'>LE DUC DE FOIX est froide ; il n'y a jamais eu qu'une feule action chez elle qui ait fait plaisir : vous valez mieux qu'elle. </s>
-	<s id='15'>ROME SAUVÉE ne s'est point fait une grande réputation, notre père n'ayant pas mis assez de temps à la rendre parfaite ; elle reçut cependant des applaudissements. </s>
+	<s id='15'>ROME SAUVÃ‰E ne s'est point fait une grande rÃ©putation, notre pÃ¨re n'ayant pas mis assez de temps Ã  la rendre parfaite ; elle reÃ§ut cependant des applaudissements. </s>
 	<s id='16'>L'ORPHELIN DE LA CHINE est bien conduite, et fait beaucoup de plaisir. </s>
-	<s id='17'>Quant à moi, je m'appelle OEDIPE, je suis votre Soeur la mieux faite, je passe même pour le chef-d'oeuvre de notre Père aux yeux de bien des personnes éclairées.</s>
+	<s id='17'>Quant Ã  moi, je m'appelle OEDIPE, je suis votre Soeur la mieux faite, je passe mÃªme pour le chef-d'oeuvre de notre PÃ¨re aux yeux de bien des personnes Ã©clairÃ©es.</s>
 </p>
 </sp>
-<sp who='MÉROPE'><speaker>MÉROPE.</speaker>
+<sp who='MÃ‰ROPE'><speaker>MÃ‰ROPE.</speaker>
 <p id='22'>
-	<s id='1'>Nous voilà peintes à ne pas s'y méprendre.</s>
+	<s id='1'>Nous voilÃ  peintes Ã  ne pas s'y mÃ©prendre.</s>
 </p>
 </sp>
-<sp who='TANCRÈDE'><speaker>TANCRÈDE.</speaker>
+<sp who='TANCRÃˆDE'><speaker>TANCRÃˆDE.</speaker>
 <p id='23'>
-	<s id='1'>Je ne suis point ingrate ; je vais me faire connaître, en vous	faisant un simple détail de mon individu.</s>
+	<s id='1'>Je ne suis point ingrate ; je vais me faire connaÃ®tre, en vous	faisant un simple dÃ©tail de mon individu.</s>
 </p>
 </sp>
-<sp who='SÉMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
+<sp who='SÃ‰MIRAMIS'><speaker>SÃ‰MIRAMIS.</speaker>
 <p id='24'>
-	<s id='1'>Nous vous en prions en grâce.</s>
+	<s id='1'>Nous vous en prions en grÃ¢ce.</s>
 </p>
 </sp>
-<sp who='TANCRÈDE'><speaker>TANCRÈDE.</speaker>
+<sp who='TANCRÃˆDE'><speaker>TANCRÃˆDE.</speaker>
 <p id='25'>
-	<s id='1'>Je sais ce que je vous dois ; puissai-je mériter votre bienveillance ! </s>
-	<s id='2'>Voilà ce qui a donné lieu à ma naissance. </s>
-	<s id='3'>Solamir , Général des Sarrasins, assiège Syracuse que plusieurs Chevaliers intrépides défendent vigoureusement. </s>
-	<s id='4'>Argire, leur Chef, est à leur tête. </s>
-	<s id='5'>Aménaïde, fille d'Argire, avait été élevée à Byzance avec sa mère, où elle avait fait connaissance de Tancrède, Chevalier proscrit de Syracuse. </s>
-	<s id='6'>Elle l'aimait du consentement de sa mère qui, avec sa mort, les avaient unis par des serments. </s>
-	<s id='7'>Amenaïde revient auprès de son père. </s>
-	<s id='8'>Tancrède voulant revoir Amenaïde, s'était rendu près de Syracuse dans l'intention de servir aussi sa patrie ingrate à son égard. Un billet surpris dans les mains d'un esclave que l'on croit être pour Solamir, fait toute mon intrigue.</s>
+	<s id='1'>Je sais ce que je vous dois ; puissai-je mÃ©riter votre bienveillance ! </s>
+	<s id='2'>VoilÃ  ce qui a donnÃ© lieu Ã  ma naissance. </s>
+	<s id='3'>Solamir , GÃ©nÃ©ral des Sarrasins, assiÃ¨ge Syracuse que plusieurs Chevaliers intrÃ©pides dÃ©fendent vigoureusement. </s>
+	<s id='4'>Argire, leur Chef, est Ã  leur tÃªte. </s>
+	<s id='5'>AmÃ©naÃ¯de, fille d'Argire, avait Ã©tÃ© Ã©levÃ©e Ã  Byzance avec sa mÃ¨re, oÃ¹ elle avait fait connaissance de TancrÃ¨de, Chevalier proscrit de Syracuse. </s>
+	<s id='6'>Elle l'aimait du consentement de sa mÃ¨re qui, avec sa mort, les avaient unis par des serments. </s>
+	<s id='7'>AmenaÃ¯de revient auprÃ¨s de son pÃ¨re. </s>
+	<s id='8'>TancrÃ¨de voulant revoir AmenaÃ¯de, s'Ã©tait rendu prÃ¨s de Syracuse dans l'intention de servir aussi sa patrie ingrate Ã  son Ã©gard. Un billet surpris dans les mains d'un esclave que l'on croit Ãªtre pour Solamir, fait toute mon intrigue.</s>
 </p>
 </sp>
-<sp who='MÉROPE'><speaker>MÉROPE.</speaker>
+<sp who='MÃ‰ROPE'><speaker>MÃ‰ROPE.</speaker>
 <p id='26'>
-	<s id='1'>Que ce manège est rebattu ! </s>
-	<s id='2'>Je suis surprise qu'il vous ait fait réussir.</s>
+	<s id='1'>Que ce manÃ¨ge est rebattu ! </s>
+	<s id='2'>Je suis surprise qu'il vous ait fait rÃ©ussir.</s>
 </p>
 </sp>
-<sp who='ZAÏRE'><speaker>ZAÏRE.</speaker>
+<sp who='ZAÃRE'><speaker>ZAÃRE.</speaker>
 <p id='27'>
-	<s id='1'>Le billet dont je me sers, a fait le même effet.</s>
+	<s id='1'>Le billet dont je me sers, a fait le mÃªme effet.</s>
 </p>
 </sp>
 <sp who='OEDIPE'><speaker>OEDIPE.</speaker>
 <p id='28'>
 	<s id='1'>Comment ! </s>
-	<s id='2'>Un billet produit de grands événements, quand il n'est pas entendu.</s>
+	<s id='2'>Un billet produit de grands Ã©vÃ©nements, quand il n'est pas entendu.</s>
 </p>
 </sp>
 <sp who='BRUTUS'><speaker>BRUTUS.</speaker>
 <p id='29'>
-	<s id='1'>Entendons-nous ; et que Tancréde commence.</s>
+	<s id='1'>Entendons-nous ; et que TancrÃ©de commence.</s>
 </p>
 </sp>
-<sp who='ARTÉMIRE'><speaker>ARTÉMIRE, à Enphile.</speaker>
+<sp who='ARTÃ‰MIRE'><speaker>ARTÃ‰MIRE, Ã  Enphile.</speaker>
 <p id='30'>
 	<s id='1'>Que ferons-nous ici, ma Soeur ? </s>
 	<s id='2'>J'en sais assez ; sortons.</s>
@@ -876,96 +876,96 @@ pour la première fois au Collège d'Harcour, où l'on assure qu'elle fut bien repr
 </sp>
 <sp who='ERIPHILE'><speaker>ERIPHILE.</speaker>
 <p id='31'>
-	<s id='1'>Aussi bien ne servons-nous pas à grand-chose. </s>
-	<s id='2'>Tancrède vaut mieux que nous ; et cela ne nous rend pas meilleures.</s>
+	<s id='1'>Aussi bien ne servons-nous pas Ã  grand-chose. </s>
+	<s id='2'>TancrÃ¨de vaut mieux que nous ; et cela ne nous rend pas meilleures.</s>
 </p>
 </sp>
-<sp who='ARTÉMIRE'><speaker>ARTÉMIRE.</speaker>
+<sp who='ARTÃ‰MIRE'><speaker>ARTÃ‰MIRE.</speaker>
 <p id='32'>
-	<s id='1'>Adieu, Tancrède ; nous allons nous reposer. </s>
+	<s id='1'>Adieu, TancrÃ¨de ; nous allons nous reposer. </s>
 	<s id='2'>Comptez que nous ne vous ferons jamais de tort.</s>
 </p>
 </sp>
 <sp who='ERIPHILE'><speaker>ERIPHILE.</speaker>
 <p id='33'>
-	<s id='1'>Croyez-moi, Artemire, retournons aux Délices. </s>
-	<s id='2'>Nous ne pouvons point faire de plus grande peine à notre père que d'être sous ses yeux.</s>
+	<s id='1'>Croyez-moi, Artemire, retournons aux DÃ©lices. </s>
+	<s id='2'>Nous ne pouvons point faire de plus grande peine Ã  notre pÃ¨re que d'Ãªtre sous ses yeux.</s>
 </p>
 </sp>
-<sp who='ARTÉMIRE'><speaker>ARTÉMIRE.</speaker>
+<sp who='ARTÃ‰MIRE'><speaker>ARTÃ‰MIRE.</speaker>
 <p id='34'>
 	<s id='1'>Deux malheureux ensemble trouvent de la consolation : je vous suivrai.</s>
 </p>
 <stage>Elles sortent.</stage>
 </sp>
 </div2>
-<div2 type='scene' n='6'><head>SCÈNE VI.. OEdipe, Hérode et Mariamne, Brutus, Zaïre, Alzire, La Mort de César, Mahomet, Mérope, Sémiramis, Le Duc de Foix, Rome Sauvée, L'Orphelin de la Chine, Tancrède.</head>
-<sp who='TANCRÈDE'><speaker>TANCRÈDE.</speaker>
+<div2 type="scene" n='6'><head>SCÃˆNE VI.. OEdipe, HÃ©rode et Mariamne, Brutus, ZaÃ¯re, Alzire, La Mort de CÃ©sar, Mahomet, MÃ©rope, SÃ©miramis, Le Duc de Foix, Rome SauvÃ©e, L'Orphelin de la Chine, TancrÃ¨de.</head>
+<sp who='TANCRÃˆDE'><speaker>TANCRÃˆDE.</speaker>
 <p id='1'>
-	<s id='1'>Est-ce que je leur déplairais ? </s>
+	<s id='1'>Est-ce que je leur dÃ©plairais ? </s>
 	<s id='2'>Elles me fuient. </s>
 	<s id='3'>Si elles allaient cabaler ?</s>
 </p>
 </sp>
-<sp who='OEDIPE'><speaker>OEDIPE. •</speaker>
+<sp who='OEDIPE'><speaker>OEDIPE. Â•</speaker>
 <p id='2'>
 	<s id='1'>Ne les craignez point : au contraire elles vous trouvent beaucoup au-dessus d'elles.</s>
 </p>
 </sp>
 <sp who='BRUTUS'><speaker>BRUTUS.</speaker>
 <p id='3'>
-	<s id='1'>Ne nous faites pas attendre davantage ; nous sommes prêtes à vous donner audience.</s>
+	<s id='1'>Ne nous faites pas attendre davantage ; nous sommes prÃªtes Ã  vous donner audience.</s>
 </p>
 </sp>
-<sp who='TANCRÈDE'><speaker>TANCRÈDE.</speaker>
+<sp who='TANCRÃˆDE'><speaker>TANCRÃˆDE.</speaker>
 <p id='4'>
 	<s id='1'>Je commence. </s>
-	<s id='2'>Le lieu de ma scène est en Sicile. </s>
-	<s id='3'>On me représente tantôt dans le Palais d'Argire, et tantôt dans une Place publique.</s>
+	<s id='2'>Le lieu de ma scÃ¨ne est en Sicile. </s>
+	<s id='3'>On me reprÃ©sente tantÃ´t dans le Palais d'Argire, et tantÃ´t dans une Place publique.</s>
 </p>
 <p id='5'>
 	<s id='1'>ACTE PREMIER DE TANCREDE.</s>
 </p>
 <p id='6'>
-	<s id='1'>La première scène de cet acte s'ouvre par une Assemblée du Sénat de Syracuse dans le Palais d'Argire. </s>
-	<s id='2'>On y parle des affaires et des troubles de l'État. </s>
-	<s id='3'>Les Sénateurs concluent que pour sa sûreté, on punira de mort celui qui trahira sa patrie, sans égard pour le rang, le sexe et l'âge. </s>
-	<s id='4'>Argire propose Amenaïde, sa fille, à Orbassan, un des Sénateurs, qui a rendu de grands services à l'État. </s>
-	<s id='5'>Le Sénat se retire.</s>
+	<s id='1'>La premiÃ¨re scÃ¨ne de cet acte s'ouvre par une AssemblÃ©e du SÃ©nat de Syracuse dans le Palais d'Argire. </s>
+	<s id='2'>On y parle des affaires et des troubles de l'Ã‰tat. </s>
+	<s id='3'>Les SÃ©nateurs concluent que pour sa sÃ»retÃ©, on punira de mort celui qui trahira sa patrie, sans Ã©gard pour le rang, le sexe et l'Ã¢ge. </s>
+	<s id='4'>Argire propose AmenaÃ¯de, sa fille, Ã  Orbassan, un des SÃ©nateurs, qui a rendu de grands services Ã  l'Ã‰tat. </s>
+	<s id='5'>Le SÃ©nat se retire.</s>
 </p>
 <p id='7'>
-	<s id='1'>Il y a dans cette scène un seul vers de remarquable.</s>
+	<s id='1'>Il y a dans cette scÃ¨ne un seul vers de remarquable.</s>
 </p>
-	<l id='4'>À l'infidélité, l'indulgence encourage.</l>
+	<l id='4'>Ã€ l'infidÃ©litÃ©, l'indulgence encourage.</l>
 <p id='8'>
-	<s id='1'>Orbassan dit encore celui-ci en parlant d'Amenaïde.</s>
+	<s id='1'>Orbassan dit encore celui-ci en parlant d'AmenaÃ¯de.</s>
 </p>
 	<l id='5'>Mais sa voix doit ici se taire an bruit des armes.</l>
 <p id='9'>
-	<s id='1'>Amenaïde arrive ; Argire, son père, lui annonce Orbassan pour époux. </s>
-	<s id='2'>Elle frémit. </s>
-	<s id='3'>Le nom de Tancrède échappe à son père. Aménaïde par un soupir fait connaître que ce nom lui est cher. </s>
-	<s id='4'>Argire s'apperçoit de son trouble, et lui dit :</s>
+	<s id='1'>AmenaÃ¯de arrive ; Argire, son pÃ¨re, lui annonce Orbassan pour Ã©poux. </s>
+	<s id='2'>Elle frÃ©mit. </s>
+	<s id='3'>Le nom de TancrÃ¨de Ã©chappe Ã  son pÃ¨re. AmÃ©naÃ¯de par un soupir fait connaÃ®tre que ce nom lui est cher. </s>
+	<s id='4'>Argire s'apperÃ§oit de son trouble, et lui dit :</s>
 </p>
-	<l id='6'>La bouche obéit mal lorsque le coeur murmure,,</l>
+	<l id='6'>La bouche obÃ©it mal lorsque le coeur murmure,,</l>
 <p id='10'>
-	<s id='1'>Il lui remontre les services importants qu'Orbassan à rendu à sa patrie. </s>
-	<s id='2'>Amenaïde répond : </s>
+	<s id='1'>Il lui remontre les services importants qu'Orbassan Ã  rendu Ã  sa patrie. </s>
+	<s id='2'>AmenaÃ¯de rÃ©pond : </s>
 </p>
-	<l id='7'>Je voudrais qu'un Héros si fier et si puissant,</l>
-	<l id='8'>N'eût point, pour s'agrandir, opprimé l'innocent.</l>
+	<l id='7'>Je voudrais qu'un HÃ©ros si fier et si puissant,</l>
+	<l id='8'>N'eÃ»t point, pour s'agrandir, opprimÃ© l'innocent.</l>
 <p id='11'>
-	<s id='1'>Elle demande à son père la liberté de l'entretenir, avec la permission d'Orbastan qui se retire. </s>
-	<s id='2'>Amenaïde fait dans cette Scène une exposition de ses malheurs. </s>
-	<s id='3'>Son père veut qu'elle obéisse, et il s'en va. </s>
-	<s id='4'>Amenaïde frémit de sa destinée. </s>
+	<s id='1'>Elle demande Ã  son pÃ¨re la libertÃ© de l'entretenir, avec la permission d'Orbastan qui se retire. </s>
+	<s id='2'>AmenaÃ¯de fait dans cette ScÃ¨ne une exposition de ses malheurs. </s>
+	<s id='3'>Son pÃ¨re veut qu'elle obÃ©isse, et il s'en va. </s>
+	<s id='4'>AmenaÃ¯de frÃ©mit de sa destinÃ©e. </s>
 	<s id='5'>Sa confidente la console en vain. </s>
-	<s id='6'>En parlant des malheurs de Tancrède, elle dit : </s>
+	<s id='6'>En parlant des malheurs de TancrÃ¨de, elle dit : </s>
 </p>
-	<l id='9'>•C'est le sort des Héros d'être persécutés,</l>
-	<l id='10'>À leur seul intérêt les Grands sont attachés.</l>
+	<l id='9'>Â•C'est le sort des HÃ©ros d'Ãªtre persÃ©cutÃ©s,</l>
+	<l id='10'>Ã€ leur seul intÃ©rÃªt les Grands sont attachÃ©s.</l>
 <p id='12'>
-	<s id='1'>Comme elle a fait serment de n'épouser jamais d'autre héros que Tancrède, elle se resout à tout, plutôt que de lui être infidèle ; et elle finit cet acte par ces deux vers : </s>
+	<s id='1'>Comme elle a fait serment de n'Ã©pouser jamais d'autre hÃ©ros que TancrÃ¨de, elle se resout Ã  tout, plutÃ´t que de lui Ãªtre infidÃ¨le ; et elle finit cet acte par ces deux vers : </s>
 </p>
 	<l id='11'>Et s'il est des dangers que la crainte envisage,</l>
 	<l id='12'>Ces dangers me sont chers, ils naissent de l'amour.</l>
@@ -975,19 +975,19 @@ pour la première fois au Collège d'Harcour, où l'on assure qu'elle fut bien repr
 	<s id='1'>Je trouve cette exposition obscure.</s>
 </p>
 </sp>
-<sp who='MÉROPE'><speaker>MÉROPE.</speaker>
+<sp who='MÃ‰ROPE'><speaker>MÃ‰ROPE.</speaker>
 <p id='14'>
 	<s id='1'>On ne pouvait pas mieux la faire, et pour moi je la trouve belle.</s>
 </p>
 </sp>
-<sp who='ZAÏRE'><speaker>ZAÏRE.</speaker>
+<sp who='ZAÃRE'><speaker>ZAÃRE.</speaker>
 <p id='15'>
 	<s id=''>Mais vous ne parlez pas comme nous.</s>
 </p>
 </sp>
-<sp who='TANCRÈDE'><speaker>TANCRÈDE.</speaker>
+<sp who='TANCRÃˆDE'><speaker>TANCRÃˆDE.</speaker>
 <p id='16'>
-	<s id='1'>Mon Père me fait parler sur ce ton pour éviter la monotonie. </s>
+	<s id='1'>Mon PÃ¨re me fait parler sur ce ton pour Ã©viter la monotonie. </s>
 </p>
 </sp>
 <sp who='MAHOMET'><speaker>MAHOMET.</speaker>
@@ -998,100 +998,100 @@ pour la première fois au Collège d'Harcour, où l'on assure qu'elle fut bien repr
 </sp>
 <sp who='SEMIRAMIS'><speaker>SEMIRAMIS.</speaker>
 <p id='18'>
-	<s id='1'>Si vous continuez de même, ce n'est pas le moyen de plaire.</s>
+	<s id='1'>Si vous continuez de mÃªme, ce n'est pas le moyen de plaire.</s>
 </p>
 </sp>
 <sp who='ALZIRE'><speaker>ALZIRE.</speaker>
 <p id='19'>
-	<s id='1'>Dans un premier acte que peut-on désirer !</s>
+	<s id='1'>Dans un premier acte que peut-on dÃ©sirer !</s>
 </p>
 </sp>
 <sp who="L'ORPHELIN DE LA CHINE"><speaker>L'ORPHELIN DE LA CHINE.</speaker>
 <p id='20'>
-	<s id='1'>Votre début me déplaît souverainement, ma soeur.</s>
+	<s id='1'>Votre dÃ©but me dÃ©plaÃ®t souverainement, ma soeur.</s>
 </p>
 </sp>
-<sp who='TANCRÈDE'><speaker>TANCRÈDE.</speaker>
+<sp who='TANCRÃˆDE'><speaker>TANCRÃˆDE.</speaker>
 <p id='21'>
-	<s id='1'>Peut-être que l'acte second vous intéressera davantage.</s>
+	<s id='1'>Peut-Ãªtre que l'acte second vous intÃ©ressera davantage.</s>
 </p>
 </sp>
-<sp who='TOUTES LES TRAGÉDIES'><speaker>TOUTES ENSEMBLE.</speaker>
+<sp who='TOUTES LES TRAGÃ‰DIES'><speaker>TOUTES ENSEMBLE.</speaker>
 <p id='22'>
 	<s id='1'>Nous le souhaitons.</s>
 </p>
 </sp>
-<sp who='TANCRÈDE'><speaker>TANCRÈDE.</speaker>
+<sp who='TANCRÃˆDE'><speaker>TANCRÃˆDE.</speaker>
 <p id='23'>
-	<s id='1'>Je vous ménage afin de ne pas vous surprendre trop subitement.</s>
+	<s id='1'>Je vous mÃ©nage afin de ne pas vous surprendre trop subitement.</s>
 </p>
 <p id='24'>
 	<s id='1'>ACTE SECOND.</s>
 </p>
 <p id='24'>
-	<s id='1'>Je n'intéresse pas beaucoup dans la première scène de cet Acte qui se pasze entre Argire et Amenaïde sa fille. </s>
+	<s id='1'>Je n'intÃ©resse pas beaucoup dans la premiÃ¨re scÃ¨ne de cet Acte qui se pasze entre Argire et AmenaÃ¯de sa fille. </s>
 	<s id='2'>Argire sort. </s>
-	<s id='3'>Aménaide reste avec sa confidente, à qui, elle apprend que Tancréde n'est pas éloigné de Syracuse, et qu'elle lui a fait parvenir un billet par un esclave fidèle, elle lui mande qu'il est temps qu'il se montre, et termine son billet par ce vers :</s>
+	<s id='3'>AmÃ©naide reste avec sa confidente, Ã  qui, elle apprend que TancrÃ©de n'est pas Ã©loignÃ© de Syracuse, et qu'elle lui a fait parvenir un billet par un esclave fidÃ¨le, elle lui mande qu'il est temps qu'il se montre, et termine son billet par ce vers :</s>
 </p>
-	<l id='13'>Régnez sur Syracuse, et surtout sur mon coeur.</l>
+	<l id='13'>RÃ©gnez sur Syracuse, et surtout sur mon coeur.</l>
 <p id='25'>
-	<s id=''>Sa Confidente lui représente les dangers où Tancrède va s'exposer, s'il revient, et lui demande : •</s>
+	<s id=''>Sa Confidente lui reprÃ©sente les dangers oÃ¹ TancrÃ¨de va s'exposer, s'il revient, et lui demande : Â•</s>
 </p>
 	<l id='14' part='i'>Qui fera son appui ?</l>
 <p id='26'>
-	<s id='1'>Amenaïde lui répond :</s>
+	<s id='1'>AmenaÃ¯de lui rÃ©pond :</s>
 </p>
 	<l id='14' part='f'>Sa gloire.</l>
 <p id='27'>
 	<s id='1'>Argire, Orbassan et plusieurs Chevaliers arrivent. </s>
-	<s id='2'>Argire d'un ton sévère dit à sa fille de se retirer. </s>
+	<s id='2'>Argire d'un ton sÃ©vÃ¨re dit Ã  sa fille de se retirer. </s>
 	<s id='3'>Ce qu'elle fait, ignorant le sujet de ce traitement. </s>
-	<s id='4'>On condamne dans la scène suivante Amenaïde à la mort pour avoir trahi l'État. </s>
-	<s id='5'>Le billet, trouvé dans les mains de l'esclave, que l'on a surpris dans le  camp de Solamir, pour qui l'on soupçonne qu'il est, produit cet événement. </s>
-	<s id='6'>Argire veut défendre sa fille, un Chevalier lui répond :</s>
+	<s id='4'>On condamne dans la scÃ¨ne suivante AmenaÃ¯de Ã  la mort pour avoir trahi l'Ã‰tat. </s>
+	<s id='5'>Le billet, trouvÃ© dans les mains de l'esclave, que l'on a surpris dans le  camp de Solamir, pour qui l'on soupÃ§onne qu'il est, produit cet Ã©vÃ©nement. </s>
+	<s id='6'>Argire veut dÃ©fendre sa fille, un Chevalier lui rÃ©pond :</s>
 </p>
-	<l id='15'>Les lois n'écoutent point la pitié paternelle.</l>
+	<l id='15'>Les lois n'Ã©coutent point la pitiÃ© paternelle.</l>
 <p id='28'>
 	<s id='1'>Argire et les Chevaliers sortent, et laissent Orbassan. </s>
-	<s id='2'>Arrive Amenaïde enchaînée. </s>
-	<s id='3'>Orbassan lui dit qu'elle est accusé d'avoir trahi sa patrie, et qu'elle est condamnée à la mort. </s>
-	<s id='4'>Il lui dit que comme il devait être son époux, il croit pouvoir se déclarer son Chevalier, selon la coutume du pays. </s>
-	<s id='5'>Amenaïde lui répond fièrement qu'elle ne veut de lui ni pour Chevalier, ni pour époux. </s>
+	<s id='2'>Arrive AmenaÃ¯de enchaÃ®nÃ©e. </s>
+	<s id='3'>Orbassan lui dit qu'elle est accusÃ© d'avoir trahi sa patrie, et qu'elle est condamnÃ©e Ã  la mort. </s>
+	<s id='4'>Il lui dit que comme il devait Ãªtre son Ã©poux, il croit pouvoir se dÃ©clarer son Chevalier, selon la coutume du pays. </s>
+	<s id='5'>AmenaÃ¯de lui rÃ©pond fiÃ¨rement qu'elle ne veut de lui ni pour Chevalier, ni pour Ã©poux. </s>
 	<s id='6'>Orbassan sort furieux. </s>
-	<s id='7'>Amenaïde veut mourir plutôt que de changer de sentiment, protestant qu'elle n'aimera jamais que Tancrède. </s>
+	<s id='7'>AmenaÃ¯de veut mourir plutÃ´t que de changer de sentiment, protestant qu'elle n'aimera jamais que TancrÃ¨de. </s>
 	<s id='8'>Elle sort en disant :</s>
 </p>
 	<l id='16'>Et je porte au tombeau ,</l>
-	<l id='17'>De la fidélité l'exemple le plus beau.</l>
+	<l id='17'>De la fidÃ©litÃ© l'exemple le plus beau.</l>
 </sp>
 <sp who='BRUTUS'><speaker>BRUTUS.</speaker>
 <p id='29'>
-	<s id='1'>Il y a bien des beautés dans cet acte, mars elles font trop froides ; elles ne vous émeuvent point.</s>
+	<s id='1'>Il y a bien des beautÃ©s dans cet acte, mars elles font trop froides ; elles ne vous Ã©meuvent point.</s>
 </p>
 </sp>
-<sp who='LA MORT DE CÉSAR'><speaker>LA MORT DE CÉSAR.</speaker>
+<sp who='LA MORT DE CÃ‰SAR'><speaker>LA MORT DE CÃ‰SAR.</speaker>
 <p id='30'>
-	<s id='1'>L'intérêt veut percer ; mais il est encore loin.</s>
+	<s id='1'>L'intÃ©rÃªt veut percer ; mais il est encore loin.</s>
 </p>
 </sp>
-<sp who='HÉRODE ET MARIAMNE'><speaker>HÉRODE ET MARIAMNE.</speaker>
+<sp who='HÃ‰RODE ET MARIAMNE'><speaker>HÃ‰RODE ET MARIAMNE.</speaker>
 <p id='31'>
 	<s id='1'>Pour moi je m'y perds, je crains que vous nous embarrassiez dans votre marche.</s>
 </p>
 </sp>
-<sp who='ROME SAUVÉE'><speaker>ROME SAUVÉE.</speaker>
+<sp who='ROME SAUVÃ‰E'><speaker>ROME SAUVÃ‰E.</speaker>
 <p id='32'>
-	<s id='1'>Jusqu'à présent vous ne valez pas mieux que moi, et je débute avec plus de chaleur.</s>
+	<s id='1'>Jusqu'Ã  prÃ©sent vous ne valez pas mieux que moi, et je dÃ©bute avec plus de chaleur.</s>
 </p>
 </sp>
-<sp who='ZAÏRE'><speaker>ZAÏRE.</speaker>
+<sp who='ZAÃRE'><speaker>ZAÃRE.</speaker>
 <p id='33'>
 	<s id='1'>Je ne vous vois encore aucune ressemblance avec nous.</s>
 </p>
 </sp>
 <sp who='OEDIPE'><speaker>OEDIPE.</speaker>
 <p id='34'>
-	<s id='1'>Nous sommes trop d'enfants pour être toutes belles.</s>
+	<s id='1'>Nous sommes trop d'enfants pour Ãªtre toutes belles.</s>
 </p>
 </sp>
 <sp who='LE DUC DE FOIX'><speaker>LE DUC DE FOIX.</speaker>
@@ -1099,109 +1099,109 @@ pour la première fois au Collège d'Harcour, où l'on assure qu'elle fut bien repr
 	<s id='1'>Je compte sur la fin.</s>
 </p>
 </sp>
-<sp who='TANCRÈDE'><speaker>TANCRÈDE.</speaker>
+<sp who='TANCRÃˆDE'><speaker>TANCRÃˆDE.</speaker>
 <p id='36'>
-	<s id='1'>C'est là où je brille : écoutez cet acte.</s>
+	<s id='1'>C'est lÃ  oÃ¹ je brille : Ã©coutez cet acte.</s>
 </p>
 <p id='37'>
 	<s id='1'>ACTE III.</s>
 </p>
 <p id='38'>
-	<s id='1'>Le Théâtre représente, dans le fond, une Place publique. </s>
-	<s id='2'>D'un coté, ce sont des trophées, des casques et des boucliers attachés a des arbres ; et de l'autre une partie du Palais d'Argire.</s>
+	<s id='1'>Le ThÃ©Ã¢tre reprÃ©sente, dans le fond, une Place publique. </s>
+	<s id='2'>D'un cotÃ©, ce sont des trophÃ©es, des casques et des boucliers attachÃ©s a des arbres ; et de l'autre une partie du Palais d'Argire.</s>
 </p>
 <p id='29'>
 	<s id='1'>TANCREDE, dont je porte le nom, arrive. </s>
-	<s id='2'>Un écuyer et deux soldats l'accompagnent. </s>
+	<s id='2'>Un Ã©cuyer et deux soldats l'accompagnent. </s>
 	<s id='3'>Il regarde en soupirant Syracuse. </s>
-	<s id='4'>Il vient servir l'État contre Solamir.</s>
+	<s id='4'>Il vient servir l'Ã‰tat contre Solamir.</s>
 </p>
-	<l id='18'>Je le servis injuste, et le chéris ingrat.</l>
+	<l id='18'>Je le servis injuste, et le chÃ©ris ingrat.</l>
 <p id='30'>
-	<s id=''>Il veut servir Amenaïde sa Maîtresse. </s>
-	<s id='2'>Il s'informe où il est, son Ecuyer l'en instruit, et lui montre les casques et les boucliers des chevaliers qui se sont signalés dans les combats. </s>
-	<s id='3'>Tancrède fait attacher le sien à un arbre. </s>
+	<s id=''>Il veut servir AmenaÃ¯de sa MaÃ®tresse. </s>
+	<s id='2'>Il s'informe oÃ¹ il est, son Ecuyer l'en instruit, et lui montre les casques et les boucliers des chevaliers qui se sont signalÃ©s dans les combats. </s>
+	<s id='3'>TancrÃ¨de fait attacher le sien Ã  un arbre. </s>
 	<s id='4'>Sa devise est l'Amour et l'Honneur. </s>
-	<s id='5'>Il remercie son écuyer de son zèle à le servir, qui lui répond.</s>
+	<s id='5'>Il remercie son Ã©cuyer de son zÃ¨le Ã  le servir, qui lui rÃ©pond.</s>
 </p>
 	<l id='19'>Je ne suis qu'un soldat, qu'un simple citoyen.</l>
 <p id='31'>
-	<s id='1'>Tancrède répart :</s>
+	<s id='1'>TancrÃ¨de rÃ©part :</s>
 </p>
-	<l id='20'>Je le suis comme vous, les citoyens son frères.</l>
+	<l id='20'>Je le suis comme vous, les citoyens son frÃ¨res.</l>
 <p id='32'>
-	<s id='1'>Il envoie son confident au Palais d'Argire s'informer de sa Maîtresse. </s>
-	<s id='2'>Il revient lui dire qu'Amenaïde est infidèle, qu'elle aime Solamir, et qu'elle a trahi sa patrie. </s>
-	<s id='3'>Tancrède est au désespoir. </s>
-	<s id='4'>Il aperçoit un vieillard désolé, c'est Agire. </s>
+	<s id='1'>Il envoie son confident au Palais d'Argire s'informer de sa MaÃ®tresse. </s>
+	<s id='2'>Il revient lui dire qu'AmenaÃ¯de est infidÃ¨le, qu'elle aime Solamir, et qu'elle a trahi sa patrie. </s>
+	<s id='3'>TancrÃ¨de est au dÃ©sespoir. </s>
+	<s id='4'>Il aperÃ§oit un vieillard dÃ©solÃ©, c'est Agire. </s>
 	<s id='5'>Il l'interroge. </s>
 	<s id='6'>Argire lui confirme le malheur de la fille criminelle. </s>
-	<s id='7'>Tancrède qui n'en est pas connnu lui dit : </s>
+	<s id='7'>TancrÃ¨de qui n'en est pas connnu lui dit : </s>
 </p>
-<stage>Cette pensée est belle, mais n'en est pas neuve. M. Lemière s'en est servie dans sa tragédie d'Hypermnestre.</stage>
+<stage>Cette pensÃ©e est belle, mais n'en est pas neuve. M. LemiÃ¨re s'en est servie dans sa tragÃ©die d'Hypermnestre.</stage>
 	<l id='21'>Je pensais</l>
-	<l id='22'>Que si la vertu même habitait sur la terre,</l>
-	<l id='23'>Le coeur d'Amenaïde était son sanctuaire.</l>
+	<l id='22'>Que si la vertu mÃªme habitait sur la terre,</l>
+	<l id='23'>Le coeur d'AmenaÃ¯de Ã©tait son sanctuaire.</l>
 <p id='33'>
-	<s id='1'>Argire lui raconte que pour comble d'infortune, aucun chevalier ne se présente pour défendre la fille. </s>
-	<s id='2'>Tancréde répond avec vivacité :</s>
+	<s id='1'>Argire lui raconte que pour comble d'infortune, aucun chevalier ne se prÃ©sente pour dÃ©fendre la fille. </s>
+	<s id='2'>TancrÃ©de rÃ©pond avec vivacitÃ© :</s>
 </p>
-	<l id='24'>Il s'en présentera, gardez vous d'en douter ?</l>
+	<l id='24'>Il s'en prÃ©sentera, gardez vous d'en douter ?</l>
 <p id='33'>
-	<s id='1'>Argire lui dit, qui osera prendre sa défense ? </s>
+	<s id='1'>Argire lui dit, qui osera prendre sa dÃ©fense ? </s>
 	<s id='2'>Qui ? </s>
-	<s id='3'>Répond	Tancréde ?</s>
+	<s id='3'>RÃ©pond	TancrÃ©de ?</s>
 </p>
 	<l id='25'>Moi. Je combattrai pour elle.</l>
 <p id='34'>
-	<s id='1'>Elle ne le mérite point ; mais est pour vous, Pour sa famille auguste. (continue-t-il.),</s>
+	<s id='1'>Elle ne le mÃ©rite point ; mais est pour vous, Pour sa famille auguste. (continue-t-il.),</s>
 </p>
 <p id='35'>
-	<s id='1'>Orbassan, et plusieurs Chevaliers viennent annoncer, à Aigire le moment du supplice. </s>
-	<s id='2'>On veut qu'il se retire. Tancrède s'y oppose, et retient Argire. Amenaïde arrive entourée de Soldats et de Citoyens : elle adresse aux Chevaliers la parole, et finit son Discours par ce beau vers :</s>
+	<s id='1'>Orbassan, et plusieurs Chevaliers viennent annoncer, Ã  Aigire le moment du supplice. </s>
+	<s id='2'>On veut qu'il se retire. TancrÃ¨de s'y oppose, et retient Argire. AmenaÃ¯de arrive entourÃ©e de Soldats et de Citoyens : elle adresse aux Chevaliers la parole, et finit son Discours par ce beau vers :</s>
 </p>
-<stage>Qui va répondre a Dieu, parle aux hommes sans peur.</stage>
+<stage>Qui va rÃ©pondre a Dieu, parle aux hommes sans peur.</stage>
 <p id='36'>
-	<s id='1'>Elle proteste qu'elle est innocente ; et sa surprise est sans égaie de trouver son père et Tancrède avec lui. </s>
+	<s id='1'>Elle proteste qu'elle est innocente ; et sa surprise est sans Ã©gaie de trouver son pÃ¨re et TancrÃ¨de avec lui. </s>
 	<s id='2'>Elle perd connaissance. </s>
-	<s id='3'>Tancréde furieux, s'annonce pour son Chevalier, jette le gantelet à Orbassan qui accepte le combat, et fait briser les fers d'Amenaïde, qui devient libre jusqu'au succès du combat. </s>
-	<s id='4'>Orbassan, avant que départir, dit encore ces beaux vers :</s>
+	<s id='3'>TancrÃ©de furieux, s'annonce pour son Chevalier, jette le gantelet Ã  Orbassan qui accepte le combat, et fait briser les fers d'AmenaÃ¯de, qui devient libre jusqu'au succÃ¨s du combat. </s>
+	<s id='4'>Orbassan, avant que dÃ©partir, dit encore ces beaux vers :</s>
 </p>
-	<l id='26'>D'un combat singulier la gloire est périssable,</l>
-	<l id='27'>Mais servir sa patrie est l'honneur véritable.</l>
+	<l id='26'>D'un combat singulier la gloire est pÃ©rissable,</l>
+	<l id='27'>Mais servir sa patrie est l'honneur vÃ©ritable.</l>
 <p id='37'>
-	<s id='1'>Les Chevaliers accompagnent Tancréde et Orbassan qui vont se battre. </s>
-	<s id='2'>Amenaïde reste avec son père. </s>
-	<s id='3'>Elle s'inquiète de ne pas voir Tancréde. </s>
+	<s id='1'>Les Chevaliers accompagnent TancrÃ©de et Orbassan qui vont se battre. </s>
+	<s id='2'>AmenaÃ¯de reste avec son pÃ¨re. </s>
+	<s id='3'>Elle s'inquiÃ¨te de ne pas voir TancrÃ©de. </s>
 	<s id='4'>Elle ne sait ce qu'il est devenu. </s>
-	<s id='5'>Son père lui apprend que cet inconnu est son libérateur, et qu'il est son Chevalier. </s>
-	<s id='6'>Amenaïde fait un soupir de joie ; son père l'emmène ; et finit cet acte par ce vers :</s>
+	<s id='5'>Son pÃ¨re lui apprend que cet inconnu est son libÃ©rateur, et qu'il est son Chevalier. </s>
+	<s id='6'>AmenaÃ¯de fait un soupir de joie ; son pÃ¨re l'emmÃ¨ne ; et finit cet acte par ce vers :</s>
 </p>
-	<l id='28'>Ô ma fille ! Vivez : fussiez-vous criminelle.</l>
+	<l id='28'>Ã” ma fille ! Vivez : fussiez-vous criminelle.</l>
 </sp>
-<sp who='HÉRODE ET MARIAMNE'><speaker>HÉRODE ET MARIAMNE.</speaker>
+<sp who='HÃ‰RODE ET MARIAMNE'><speaker>HÃ‰RODE ET MARIAMNE.</speaker>
 <p id='37'>
 	<s id='1'>Quelle chaleur ! </s>
-	<s id='2'>Que de beautés ! </s>
+	<s id='2'>Que de beautÃ©s ! </s>
 	<s id='3'>Que de situations neuves !</s>
 </p>
 </sp>
 <sp who='OEDIPE'><speaker>OEDIPE.</speaker>
 <p id='38'>
-	<s id='1'>Quel intérêt ! </s>
+	<s id='1'>Quel intÃ©rÃªt ! </s>
 	<s id='2'>Qu'il est vif ! </s>
-	<s id='3'>Ô mon père. </s>
+	<s id='3'>Ã” mon pÃ¨re. </s>
 	<s id='4'>Vous ne vieillissez point.</s>
 </p>
 </sp>
-<sp who='ZAÏRE'><speaker>ZAÏRE.</speaker>
+<sp who='ZAÃRE'><speaker>ZAÃRE.</speaker>
 <p id='39'>
-	<s id='1'>Quelle générosité dans ce héros, ma soeur !</s>
+	<s id='1'>Quelle gÃ©nÃ©rositÃ© dans ce hÃ©ros, ma soeur !</s>
 </p>
 </sp>
 <sp who='ALZIRE'><speaker>ALZIRE.</speaker>
 <p id='40'>
-	<s id='1'>Je le blâme cependant de croire sa maîtresse infidèle sur un faux soupçon.</s>
+	<s id='1'>Je le blÃ¢me cependant de croire sa maÃ®tresse infidÃ¨le sur un faux soupÃ§on.</s>
 </p>
 </sp>
 <sp who='SEMIRAMIS'><speaker>SEMIRAMIS.</speaker>
@@ -1209,106 +1209,106 @@ pour la première fois au Collège d'Harcour, où l'on assure qu'elle fut bien repr
 	<s id='1'>Il faut de l'action : sans cela serions-nous parfaites ? </s>
 </p>
 </sp>
-<sp who='MÉROPE'><speaker>MÉROPE</speaker>
+<sp who='MÃ‰ROPE'><speaker>MÃ‰ROPE</speaker>
 <p id='42'>
-	<s id='1'>Je ne prévois pas encore le dénouement.</s>
+	<s id='1'>Je ne prÃ©vois pas encore le dÃ©nouement.</s>
 </p>
 </sp>
 <sp who="L'ORPHELIN DE LA CHINE"><speaker>L'ORPHELIN DE LA CHINE.</speaker>
 <p id='43'>
-	<s id='1'>Je voudrais déjà le voir ; il doit être frappant.</s>
+	<s id='1'>Je voudrais dÃ©jÃ  le voir ; il doit Ãªtre frappant.</s>
 </p>
 </sp>
-<sp who='TANCRÈDE'><speaker>TANCRÈDE.</speaker>
+<sp who='TANCRÃˆDE'><speaker>TANCRÃˆDE.</speaker>
 <p id='44'>
 	<s id='1'>C'est ce dont vous jugerez. </s>
 	<s id='2'>Je poursuis.</s>
 </p>
 <p id='45'>
-	<s id='1'>ACTE QUATRIÈME.</s>
+	<s id='1'>ACTE QUATRIÃˆME.</s>
 </p>
 <p id='46'>
-	<s id='1'>Tancrède est vainqueur d'Orbassan. </s>
-	<s id='2'>Plusieurs Chevaliers, témoins de sa victoire, désirent savoir son nom, ce que Tancréde refuse. </s>
-	<s id='3'>On le prie de remplacer Orbassan, et de commander l'armée contre Solamir. </s>
-	<s id='4'>Tancrède l'accepte avec plaisir, le croyant son rival. </s>
-	<s id='5'>Les Chevaliers se retirent pour pré»parer routes les choses nécessaires pour la bataille qui va se donner. </s>
-	<s id='6'>Tancrède désespéré de l'infidélité de sa maîtresse, veut chercher la mort dans les combats, sans se faire connaître. </s>
-	<s id='7'>Un Chevalier revient lui annoncer que tout est prêt. Tancrède va pour le suivre. </s>
-	<s id='8'>Amenaide l'arrête et se jette à ses genoux, en l'appellant son liberateur. </s>
-	<s id='9'>Elle n'ose le nommer à cause du Chevalier qui est présent. </s>
-	<s id='10'>Tancrède détourne les yeux, de dessus elle. </s>
-	<s id='11'>Amenaïde s'en alarme. </s>
-	<s id='12'>Elle lui promet une reconnaissance éternelle, </s>
-	<s id='13'>Tancréde lui, répond sèchement :</s>
+	<s id='1'>TancrÃ¨de est vainqueur d'Orbassan. </s>
+	<s id='2'>Plusieurs Chevaliers, tÃ©moins de sa victoire, dÃ©sirent savoir son nom, ce que TancrÃ©de refuse. </s>
+	<s id='3'>On le prie de remplacer Orbassan, et de commander l'armÃ©e contre Solamir. </s>
+	<s id='4'>TancrÃ¨de l'accepte avec plaisir, le croyant son rival. </s>
+	<s id='5'>Les Chevaliers se retirent pour prÃ©Â»parer routes les choses nÃ©cessaires pour la bataille qui va se donner. </s>
+	<s id='6'>TancrÃ¨de dÃ©sespÃ©rÃ© de l'infidÃ©litÃ© de sa maÃ®tresse, veut chercher la mort dans les combats, sans se faire connaÃ®tre. </s>
+	<s id='7'>Un Chevalier revient lui annoncer que tout est prÃªt. TancrÃ¨de va pour le suivre. </s>
+	<s id='8'>Amenaide l'arrÃªte et se jette Ã  ses genoux, en l'appellant son liberateur. </s>
+	<s id='9'>Elle n'ose le nommer Ã  cause du Chevalier qui est prÃ©sent. </s>
+	<s id='10'>TancrÃ¨de dÃ©tourne les yeux, de dessus elle. </s>
+	<s id='11'>AmenaÃ¯de s'en alarme. </s>
+	<s id='12'>Elle lui promet une reconnaissance Ã©ternelle, </s>
+	<s id='13'>TancrÃ©de lui, rÃ©pond sÃ¨chement :</s>
 </p>
-	<l id='29'>Trop de reconnaissance est un fardeau peut-être ;</l>
+	<l id='29'>Trop de reconnaissance est un fardeau peut-Ãªtre ;</l>
 	<l id='30'>Vivez, Madame, et, moi je vais chercher la mort.</l>
 <p id='47'>
 	<s id='1'>II sort. </s>
-	<s id='2'>Amenaïde ne peut revenir de sa surprise. </s>
-	<s id='3'>Elle déplore ses malheurs sur la froideur de Tancrède. </s>
-	<s id='4'>Elle ignore les raisons qui portent son amant à l'abandonner. </s>
-	<s id='5'>Elle s'emporte contre l'Univers, et ne veut plus songer à Tancrède. </s>
-	<s id='6'>Voilà les hommes, dit-elle.</s>
+	<s id='2'>AmenaÃ¯de ne peut revenir de sa surprise. </s>
+	<s id='3'>Elle dÃ©plore ses malheurs sur la froideur de TancrÃ¨de. </s>
+	<s id='4'>Elle ignore les raisons qui portent son amant Ã  l'abandonner. </s>
+	<s id='5'>Elle s'emporte contre l'Univers, et ne veut plus songer Ã  TancrÃ¨de. </s>
+	<s id='6'>VoilÃ  les hommes, dit-elle.</s>
 </p>
-	<l id='31'>Ou trompeurs, ou trompés ; et ma douleur profonde •</l>
-	<l id='32'>En oubliant Tancrède, oubliera tout le monde.</l>
+	<l id='31'>Ou trompeurs, ou trompÃ©s ; et ma douleur profonde Â•</l>
+	<l id='32'>En oubliant TancrÃ¨de, oubliera tout le monde.</l>
 <p id='48'>
-	<s id='1'>Sa confidente lui apprend que Tancréde, sur le bruit public, la croit infidèle, et qu'il croit, comme les autres, que ce billet fatal était pour Solamir ; mais que ce Héros est pardonnable de son erreur, puisqu'il ne savait pas...</s>
+	<s id='1'>Sa confidente lui apprend que TancrÃ©de, sur le bruit public, la croit infidÃ¨le, et qu'il croit, comme les autres, que ce billet fatal Ã©tait pour Solamir ; mais que ce HÃ©ros est pardonnable de son erreur, puisqu'il ne savait pas...</s>
 </p>
-	<l id='33'>Il devait me connaître ,</l>
+	<l id='33'>Il devait me connaÃ®tre ,</l>
 <p id='49'>
-	<s id='1'>Interrompit vivement Amenaïde. </s>
+	<s id='1'>Interrompit vivement AmenaÃ¯de. </s>
 	<s id='2'>Argire vient. </s>
-	<s id='3'>Sa fille lui apprend que cet inconnu, son libérateur, est Tancréde. </s>
-	<s id='4'>Argire admire la générosité de ce Héros qui, après avoir été proscrit et dépouillé de tous ses biens, revient pour le défendre et délivrer fa fille. </s>
-	<s id='5'>Amenaïde dit avec enthousiasme.</s>
+	<s id='3'>Sa fille lui apprend que cet inconnu, son libÃ©rateur, est TancrÃ©de. </s>
+	<s id='4'>Argire admire la gÃ©nÃ©rositÃ© de ce HÃ©ros qui, aprÃ¨s avoir Ã©tÃ© proscrit et dÃ©pouillÃ© de tous ses biens, revient pour le dÃ©fendre et dÃ©livrer fa fille. </s>
+	<s id='5'>AmenaÃ¯de dit avec enthousiasme.</s>
 </p>
-	<l id='34'>Quel autre que Tancrède eût été mon appui ?</l>
+	<l id='34'>Quel autre que TancrÃ¨de eÃ»t Ã©tÃ© mon appui ?</l>
 <p id='50'>
-	<s id='1'>Argire lui dit qu'il combat pour lui, qu'il va le rejoindre. Amenaïde veut suivre son père, Argire veut la retenir. </s>
-	<s id='2'>Après un discours un peu trop hardi que tient Amenaïde à son père en lui disant : Notre sexe ne doit-il paraître qu'au milieu des bourreaux ? </s>
-	<s id='3'>Vous n'avez, plus d'autorité sur moi. </s>
+	<s id='1'>Argire lui dit qu'il combat pour lui, qu'il va le rejoindre. AmenaÃ¯de veut suivre son pÃ¨re, Argire veut la retenir. </s>
+	<s id='2'>AprÃ¨s un discours un peu trop hardi que tient AmenaÃ¯de Ã  son pÃ¨re en lui disant : Notre sexe ne doit-il paraÃ®tre qu'au milieu des bourreaux ? </s>
+	<s id='3'>Vous n'avez, plus d'autoritÃ© sur moi. </s>
 	<s id='4'>Elle finit par ce vers.</s>
 </p>
-	<l id='34'>L'injustice à la fin [p]roduit l'ìndëpendance.</l>
+	<l id='34'>L'injustice Ã  la fin [p]roduit l'Ã¬ndÃ«pendance.</l>
 <p id='51'>
-	<s id='1'>Argire convient qu'il n'a plus la même autorité sur fa fille, et sort.</s>
+	<s id='1'>Argire convient qu'il n'a plus la mÃªme autoritÃ© sur fa fille, et sort.</s>
 </p>
 <p id='52'>
-	<s id='1'>Amenaïde est résolue d'aller au devant des coups que Solamir peut porter à Tancréde et elle s'emporte toujours contre l'amour qu'elle abjure et l'honneur qui l'accable.</s>
+	<s id='1'>AmenaÃ¯de est rÃ©solue d'aller au devant des coups que Solamir peut porter Ã  TancrÃ©de et elle s'emporte toujours contre l'amour qu'elle abjure et l'honneur qui l'accable.</s>
 </p>
 </sp>
-<sp who='LA MORT DE CÉSAR'><speaker>LA MORT DE CÉSAR.</speaker>
+<sp who='LA MORT DE CÃ‰SAR'><speaker>LA MORT DE CÃ‰SAR.</speaker>
 <p id='53'>
-	<s id='1'>Cet acte ne m'a point fait tant de plaisir que le troisième.</s>
+	<s id='1'>Cet acte ne m'a point fait tant de plaisir que le troisiÃ¨me.</s>
 </p>
 </sp>
-<sp who='ROME SAUVÉE'><speaker>ROME SAUVÉE.</speaker>
+<sp who='ROME SAUVÃ‰E'><speaker>ROME SAUVÃ‰E.</speaker>
 <p id='54'>
-	<s id='54'>Il est beaucoup meilleur que les deux premiers, l'intérêt augmente.</s>
+	<s id='54'>Il est beaucoup meilleur que les deux premiers, l'intÃ©rÃªt augmente.</s>
 </p>
 </sp>
-<sp who='MÉROPE'><speaker>MÉROPE.</speaker>
+<sp who='MÃ‰ROPE'><speaker>MÃ‰ROPE.</speaker>
 <p id='55'>
-	<s id='1'>Je n'aime point l'emportement d'Amenaïde vis-à-vis de son père. Elle perd tout à fait le respect qu'elle lui doit.</s>
+	<s id='1'>Je n'aime point l'emportement d'AmenaÃ¯de vis-Ã -vis de son pÃ¨re. Elle perd tout Ã  fait le respect qu'elle lui doit.</s>
 </p>
 </sp>
 <sp who='SEMIRAMIS'><speaker>SEMIRAMIS.</speaker>
 <p id='56'>
-	<s id='1'>Pour moi je trouve votre héros, ma soeur, trop froid. </s>
-	<s id='2'>Il aurait dû éclaircir sa maîtresse de la raison pour laquelle il ne veut point la voir ni l'entendre.</s>
+	<s id='1'>Pour moi je trouve votre hÃ©ros, ma soeur, trop froid. </s>
+	<s id='2'>Il aurait dÃ» Ã©claircir sa maÃ®tresse de la raison pour laquelle il ne veut point la voir ni l'entendre.</s>
 </p>
 </sp>
-<sp who='ZAÏRE'><speaker>ZAÏRE.</speaker>
+<sp who='ZAÃRE'><speaker>ZAÃRE.</speaker>
 <p id='57'>
-	<s id='1'>On ménage, cet éclaircissement pour le dénouement.</s>
+	<s id='1'>On mÃ©nage, cet Ã©claircissement pour le dÃ©nouement.</s>
 </p>
 </sp>
 <sp who='ALZIRE'><speaker>ALZIRE.</speaker>
 <p id='58'>
-	<s id='1'>C'est dans l'ordre ; et notre père a bien ménagé ses situations.</s>
+	<s id='1'>C'est dans l'ordre ; et notre pÃ¨re a bien mÃ©nagÃ© ses situations.</s>
 </p>
 </sp>
 <sp who='BRUTUS'><speaker>BRUTUS.</speaker>
@@ -1316,31 +1316,31 @@ pour la première fois au Collège d'Harcour, où l'on assure qu'elle fut bien repr
 	<s id='1'>Finissez-vous avec bien du fracas ?</s>
 </p>
 </sp>
-<sp who='TANCRÈDE'><speaker>TANCRÈDE.</speaker>
+<sp who='TANCRÃˆDE'><speaker>TANCRÃˆDE.</speaker>
 <p id='60'>
 	<s id='1'>Je cause plus de bruit que je n'en fais.</s>
 </p>
 </sp>
-<sp who='HÉRODE ET MARIAMNE'><speaker>HÉRODE ET MARIAMNE.</speaker>
+<sp who='HÃ‰RODE ET MARIAMNE'><speaker>HÃ‰RODE ET MARIAMNE.</speaker>
 <p id='61'>
-	<s id='1'>C'est à dire que vous marchez lentement pour finir.</s>
+	<s id='1'>C'est Ã  dire que vous marchez lentement pour finir.</s>
 </p>
 </sp>
 <sp who='OEDIPE'><speaker>OEDIPE.</speaker>
 <p id='62'>
-	<s id='1'>Croyez-vous qu'on peut toujours aller de même ? </s>
-	<s id='2'>À la fin on se fatigue.</s>
+	<s id='1'>Croyez-vous qu'on peut toujours aller de mÃªme ? </s>
+	<s id='2'>Ã€ la fin on se fatigue.</s>
 </p>
 </sp>
 <sp who='MAHOMET'><speaker>MAHOMET</speaker>
 <p id='63'>
-	<s id='1'>Tâchez de vous soutenir jusqu'au bout.</s>
+	<s id='1'>TÃ¢chez de vous soutenir jusqu'au bout.</s>
 </p>
 </sp>
 <sp who='LE DUC DE FOIX'><speaker>LE DUC DE FOIX.</speaker>
-<note type="L">Tomber : pour une pièce de théâtre, c'est ne pas connaître le succès et ne pas être rejouée. [NdE]</note>
+<note type="L">Tomber : pour une piÃ¨ce de thÃ©Ã¢tre, c'est ne pas connaÃ®tre le succÃ¨s et ne pas Ãªtre rejouÃ©e. [NdE]</note>
 <p id='64'>
-	<s id='1'>Allez toujours, allez : vous ne pouvez plus tomber ; et je réponds de votre succès.</s>
+	<s id='1'>Allez toujours, allez : vous ne pouvez plus tomber ; et je rÃ©ponds de votre succÃ¨s.</s>
 </p>
 </sp>
 <sp who="L'ORPHELIN DE LA CHINE"><speaker>L'ORPHELIN DE LA CHINE.</speaker>
@@ -1348,207 +1348,207 @@ pour la première fois au Collège d'Harcour, où l'on assure qu'elle fut bien repr
 	<s id='1'>Ne perdez point courage : vous faites, trop de plaisir.</s>
 </p>
 </sp>
-<sp who='TANCRÈDE'><speaker>TANCRÈDE.</speaker>
+<sp who='TANCRÃˆDE'><speaker>TANCRÃˆDE.</speaker>
 <p id='66'>
-	<s id='1'>Je tremble de ne vous point émouvoir ; dans, cet acte. </s>
+	<s id='1'>Je tremble de ne vous point Ã©mouvoir ; dans, cet acte. </s>
 	<s id='2'>Cependant le voici.</s>
 </p>
 <p id='67'>
-	<s id='1'>ACTE CINQUIÈME.</s>
+	<s id='1'>ACTE CINQUIÃˆME.</s>
 </p>
 <p id='68'>
-	<s id='1'>Plusieurs Chevaliers, et un grand nombre de soldats ouvrent la scène. </s>
-	<s id='2'>Un des chevaliers s'informe si l'on a découvert le nom du vainqueur de Solamir, on l'ignore. </s>
+	<s id='1'>Plusieurs Chevaliers, et un grand nombre de soldats ouvrent la scÃ¨ne. </s>
+	<s id='2'>Un des chevaliers s'informe si l'on a dÃ©couvert le nom du vainqueur de Solamir, on l'ignore. </s>
 	<s id='3'>Tous les Chevaliers sont surpris de la valeur de cet inconnu, et un d'entre eux dit entr'autres, ce beau vers. </s>
 </p>
-	<l id='35'>Nous sommes assez grands pour être sans envie.</l>
+	<l id='35'>Nous sommes assez grands pour Ãªtre sans envie.</l>
 <p id='69'>
-	<s id='1'>Un autre Chevalier demande quel parti il faut prendre dans la situation critique où ils se trouvent, puisqu'on ne peut savoir le nom de ce héros invincible : un chevalier répond.</s>
+	<s id='1'>Un autre Chevalier demande quel parti il faut prendre dans la situation critique oÃ¹ ils se trouvent, puisqu'on ne peut savoir le nom de ce hÃ©ros invincible : un chevalier rÃ©pond.</s>
 </p>
 	<l id='36'>Il n'en est qu'un pour nous, celui du repentir.</l>
 <p id='70'>
-	<s id='1'>Amenaïde arrive avec Argire. </s>
-	<s id='2'>On lui annonce que l'Inconnu a vaincu Solamir. Moment heureux pour elle ; mais lorsqu'elle réfléchit que son amant la soupçonne d'infidélité, elle se désole. </s>
-	<s id='3'>Son père pour la rassurer lui dit qu'il ne faudra qu'un mot pour détromper Tancréde. </s>
-	<s id='4'>Amenaïde répond :</s>
+	<s id='1'>AmenaÃ¯de arrive avec Argire. </s>
+	<s id='2'>On lui annonce que l'Inconnu a vaincu Solamir. Moment heureux pour elle ; mais lorsqu'elle rÃ©flÃ©chit que son amant la soupÃ§onne d'infidÃ©litÃ©, elle se dÃ©sole. </s>
+	<s id='3'>Son pÃ¨re pour la rassurer lui dit qu'il ne faudra qu'un mot pour dÃ©tromper TancrÃ©de. </s>
+	<s id='4'>AmenaÃ¯de rÃ©pond :</s>
 </p>
 	<l id='37'>Et ce mot n'est pas dit.</l>
 <p id='71'>
-	<s id='1'>Ensuite, faisant réflexion que son amant est vainqueur, elle dit aux citoyens dans l'enthousiasme de sa joie, croyant revoir Tancréde :</s>
+	<s id='1'>Ensuite, faisant rÃ©flexion que son amant est vainqueur, elle dit aux citoyens dans l'enthousiasme de sa joie, croyant revoir TancrÃ©de :</s>
 </p>
-	<l id='38'>Tombez tous à ses pieds, il va tomber aux miens.</l>
+	<l id='38'>Tombez tous Ã  ses pieds, il va tomber aux miens.</l>
 <p id='72'>
-	<s id='1'>Mais un confident vient lui apprendre que Tancréde est blessé mortellement. </s>
-	<s id='2'>Il lui apporte une lettre écrite du sang de ce Héros. </s>
-	<s id='3'>Amenaïde fait un dernier effort pour la lire, sa douleur s'empare de ses sens, et elle dit après avoir lu ce fatal écrit.</s>
+	<s id='1'>Mais un confident vient lui apprendre que TancrÃ©de est blessÃ© mortellement. </s>
+	<s id='2'>Il lui apporte une lettre Ã©crite du sang de ce HÃ©ros. </s>
+	<s id='3'>AmenaÃ¯de fait un dernier effort pour la lire, sa douleur s'empare de ses sens, et elle dit aprÃ¨s avoir lu ce fatal Ã©crit.</s>
 </p>
-	<l id='39'>Eh bien , mon Père!</l>
+	<l id='39'>Eh bien , mon PÃ¨re!</l>
 <p id='73'>
-	<s id='1'>Tancrède, porté par des Soldats et assis sur un trophée dressé à ses belles actions, arrive ; Amenaide court se jetter dans ses bras : Tancrède est mourant, il ne répond rien aux tendres discours, de son Amante. </s>
+	<s id='1'>TancrÃ¨de, portÃ© par des Soldats et assis sur un trophÃ©e dressÃ© Ã  ses belles actions, arrive ; Amenaide court se jetter dans ses bras : TancrÃ¨de est mourant, il ne rÃ©pond rien aux tendres discours, de son Amante. </s>
 	<s id='2'>Elle lui dit cependant :</s>
 </p>
-	<l id='39'>Honore d'un regard ton amante fidèle.</l>
+	<l id='39'>Honore d'un regard ton amante fidÃ¨le.</l>
 <p id='74'>
-	<s id='1'>À ces mots, Tancréde tourne la tête, ouvre les yeux sur Amenaïde, qui s'écrie avec transport, son amant ne cessant de fixer, ses regards sur elle : </s>
+	<s id='1'>Ã€ ces mots, TancrÃ©de tourne la tÃªte, ouvre les yeux sur AmenaÃ¯de, qui s'Ã©crie avec transport, son amant ne cessant de fixer, ses regards sur elle : </s>
 </p>
-	<l id='40'>C'est donc là le dernier que tu jettes sur elle.</l>
+	<l id='40'>C'est donc lÃ  le dernier que tu jettes sur elle.</l>
 <p id='75'>
-	<s id='1'>On désabuse Tancréde. </s>
-	<s id='2'>Il demande à Argire de les unir ensemble voulant mourir l'époux d'Amenaïde : ils se donnent la main. </s>
-	<s id='3'>Tancrède recommande à sa Maîtresse de vivre, et il expire dans les bras de son épouse. </s>
-	<s id='4'>Les chevaliers pleurent la destinée de ce héros : Amenaïde s'écrie avec emportement :</s>
+	<s id='1'>On dÃ©sabuse TancrÃ©de. </s>
+	<s id='2'>Il demande Ã  Argire de les unir ensemble voulant mourir l'Ã©poux d'AmenaÃ¯de : ils se donnent la main. </s>
+	<s id='3'>TancrÃ¨de recommande Ã  sa MaÃ®tresse de vivre, et il expire dans les bras de son Ã©pouse. </s>
+	<s id='4'>Les chevaliers pleurent la destinÃ©e de ce hÃ©ros : AmenaÃ¯de s'Ã©crie avec emportement :</s>
 </p>
 	<l id='41'>Eh ! Que m'importe a moi vos pleurs ?</l>
 <p id='76'>
-	<s id='1'>Elle entre dans un si grand transport, qu'elle croit voir son amant qui l'appelle ; et sa douleur est si grande en ce moment, qu'elle expire aux pieds de son époux. </s>
-	<s id='2'>Son père témoin d'un spectacle si tragique, s'empresse de la secourir et prie les Dieux de la rendre à la vie.</s>
+	<s id='1'>Elle entre dans un si grand transport, qu'elle croit voir son amant qui l'appelle ; et sa douleur est si grande en ce moment, qu'elle expire aux pieds de son Ã©poux. </s>
+	<s id='2'>Son pÃ¨re tÃ©moin d'un spectacle si tragique, s'empresse de la secourir et prie les Dieux de la rendre Ã  la vie.</s>
 </p>
 </sp>
-<sp who='HÉRODE ET MARIAMNE'><speaker>HÉRODE ET MARIAMNE.</speaker>
+<sp who='HÃ‰RODE ET MARIAMNE'><speaker>HÃ‰RODE ET MARIAMNE.</speaker>
 <p id='77'>
-	<s id='1'>Je m'attendais à un dénouement plus merveilleux.</s>
+	<s id='1'>Je m'attendais Ã  un dÃ©nouement plus merveilleux.</s>
 </p>
 </sp>
 <sp who='BRUTUS'><speaker>BRUTUS.</speaker>
 <p id='78'>
-	<s id='1'>Il est trop triste ; et la mort d'Amenaïde, pour être naturelle, n'est pas vraisemblable.</s>
+	<s id='1'>Il est trop triste ; et la mort d'AmenaÃ¯de, pour Ãªtre naturelle, n'est pas vraisemblable.</s>
 </p>
 </sp>
-<sp who='ROME SAUVÉE'><speaker>ROME SAUVÉE.</speaker>
+<sp who='ROME SAUVÃ‰E'><speaker>ROME SAUVÃ‰E.</speaker>
 <p id='79'>
-	<s id='1'>Votre héros, ma Soeur, ne devait pas mourir.</s>
+	<s id='1'>Votre hÃ©ros, ma Soeur, ne devait pas mourir.</s>
 </p>
 </sp>
 <sp who='LE DUC DE FOIX'><speaker>LE DUC DE FOIX.</speaker>
 <p id='80'>
-	<s id='1'>Vous auriez frappé bien davantage le Spectateur, si après avoir annoncé la mort de Tancréde, on l'eut vu reparaître vainqueur de Solamir.</s>
+	<s id='1'>Vous auriez frappÃ© bien davantage le Spectateur, si aprÃ¨s avoir annoncÃ© la mort de TancrÃ©de, on l'eut vu reparaÃ®tre vainqueur de Solamir.</s>
 </p>
 </sp>
-<sp who='MÉROPE'><speaker>MÉROPE.</speaker>
+<sp who='MÃ‰ROPE'><speaker>MÃ‰ROPE.</speaker>
 <p id='81'>
-	<s id='1'>Je crois que ce dénouement aurait fait plus de plaisir.</s>
+	<s id='1'>Je crois que ce dÃ©nouement aurait fait plus de plaisir.</s>
 </p>
 </sp>
-<sp who='TANCRÈDE'><speaker>TANCRÈDE.</speaker>
+<sp who='TANCRÃˆDE'><speaker>TANCRÃˆDE.</speaker>
 <p id='82'>
-	<s id='1'>Mais je n'aurais pas été une Tragédie.</s>
+	<s id='1'>Mais je n'aurais pas Ã©tÃ© une TragÃ©die.</s>
 </p>
 </sp>
 <sp who="L'ORPHELIN DE LA CHINE"><speaker>L'ORPHELIN DE LA CHINE DELA CHINE.</speaker>
 <p id='83'>
 	<s id='1'>Pourquoi ? </s>
-	<s id='2'>Mon dénouement est de même, et je ne suis pas moins très tragique.</s>
+	<s id='2'>Mon dÃ©nouement est de mÃªme, et je ne suis pas moins trÃ¨s tragique.</s>
 </p>
 </sp>
 <sp who='MAHOMET'><speaker>MAHOMET.</speaker>
 <p id='84'>
-	<s id='1'>Quoi qu'il en soit, vous m'avez enchantée.</s>
+	<s id='1'>Quoi qu'il en soit, vous m'avez enchantÃ©e.</s>
 </p>
 </sp>
 <sp who='SEMIRAMIS'><speaker>SEMIRAMIS.</speaker>
 <p id='85'>
-	<s id='1'>Que j'ai versé de larmes ! </s>
-	<s id='2'>Moi qui n'en fais, guère répandre.</s>
+	<s id='1'>Que j'ai versÃ© de larmes ! </s>
+	<s id='2'>Moi qui n'en fais, guÃ¨re rÃ©pandre.</s>
 </p>
 </sp>
 <sp who='ALZIRE'><speaker>ALZIRE.</speaker>
 <p id='86'>
-	<s id='1'>Si votre conduite était aussi sage que vous êtes belle, vous nous surpasseriez.</s>
+	<s id='1'>Si votre conduite Ã©tait aussi sage que vous Ãªtes belle, vous nous surpasseriez.</s>
 </p>
 </sp>
-<sp who='ZAÏRE'><speaker>ZAÏRE.</speaker>
+<sp who='ZAÃRE'><speaker>ZAÃRE.</speaker>
 <p id='87'>
-	<s id='1'>Mon père ne regarde pas de si près à notre conduite ; et malgré cela nous lui faisons honneur.</s>
+	<s id='1'>Mon pÃ¨re ne regarde pas de si prÃ¨s Ã  notre conduite ; et malgrÃ© cela nous lui faisons honneur.</s>
 </p>
 </sp>
-<sp who='LA MORT DE CÉSAR'><speaker>LA MORT DE CÉSAR.</speaker>
+<sp who='LA MORT DE CÃ‰SAR'><speaker>LA MORT DE CÃ‰SAR.</speaker>
 <p id='88'>
-	<s id='1'>On dira toujours de lui, en nous voyant, qu'il est le Coriphée et l'Apollon du Théâtre Français.</s>
+	<s id='1'>On dira toujours de lui, en nous voyant, qu'il est le CoriphÃ©e et l'Apollon du ThÃ©Ã¢tre FranÃ§ais.</s>
 </p>
 </sp>
 <sp who='OEDIPE'><speaker>OEDIPE.</speaker>
 <p id='89'>
-	<s id='1'>Moi seule j'ai ouvert sa carrière avec honneur.</s>
+	<s id='1'>Moi seule j'ai ouvert sa carriÃ¨re avec honneur.</s>
 </p>
 </sp>
-<sp who='TANCRÈDE'><speaker>TANCRÈDE.</speaker>
+<sp who='TANCRÃˆDE'><speaker>TANCRÃˆDE.</speaker>
 <p id='90'>
-	<s id='1'>J'attends votre décision... mon sort m'inquiète.</s>
+	<s id='1'>J'attends votre dÃ©cision... mon sort m'inquiÃ¨te.</s>
 </p>
 </sp>
 <sp who="L'ORPHELIN DE LA CHINE"><speaker>L'ORPHELIN DE LA CHINE.</speaker>
 <p id='91'>
-	<s id='1'>Prenez votre rang après moi ; la place est bonne.</s>
+	<s id='1'>Prenez votre rang aprÃ¨s moi ; la place est bonne.</s>
 </p>
 </sp>
-<sp who='ROME SAUVÉE'><speaker>ROME SAUVÉE.</speaker>
+<sp who='ROME SAUVÃ‰E'><speaker>ROME SAUVÃ‰E.</speaker>
 <p id='92'>
-	<s id='1'>Je ne puis marcher qu'après vous, et comme vous valez mieux que moi, je me retire.</s>
+	<s id='1'>Je ne puis marcher qu'aprÃ¨s vous, et comme vous valez mieux que moi, je me retire.</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='8'><head>SCÈNE VIII. Oedipe, Hérode et Mariamne, Brutus, Zaïre, Alzire, La Mort de César, Mahomet, Mérope, Semiramis, Le Duc de Foix,
-L'Orphelin de la Chine, Tancrède.</head>
+<div2 type="scene" n='8'><head>SCÃˆNE VIII. Oedipe, HÃ©rode et Mariamne, Brutus, ZaÃ¯re, Alzire, La Mort de CÃ©sar, Mahomet, MÃ©rope, Semiramis, Le Duc de Foix,
+L'Orphelin de la Chine, TancrÃ¨de.</head>
 <sp who='OEDIPE'><speaker>OEDIPE.</speaker>
 <p id='1'>
-	<s id='1'>Sa retraite lui fait honneur en vous cédant sa place, elle ne vous fait point de grâce.</s>
+	<s id='1'>Sa retraite lui fait honneur en vous cÃ©dant sa place, elle ne vous fait point de grÃ¢ce.</s>
 </p>
 </sp>
 <sp who='SEMIRAMIS'><speaker>SEMIRAMIS.</speaker>
 <p id='2'>
-	<s id='1'>Vous avez quelque défaut, mais on vous corrigera.</s>
+	<s id='1'>Vous avez quelque dÃ©faut, mais on vous corrigera.</s>
 </p>
 </sp>
-<sp who='LA MORT DE CÉSAR'><speaker>LA MORT DE CÉSAR.</speaker>
+<sp who='LA MORT DE CÃ‰SAR'><speaker>LA MORT DE CÃ‰SAR.</speaker>
 <p id='3'>
 	<s id='1'>Quoique plus petite, j'ose faire comparaison avec vous.</s>
 </p>
 </sp>
-<sp who='MÉROPE'><speaker>MÉROPE.</speaker>
+<sp who='MÃ‰ROPE'><speaker>MÃ‰ROPE.</speaker>
 <p id='4'>
 	<s id='1'>Vous ne serez jamais aussi bien faite que moi, et vous ne ferez jamais tant de plaisir.</s>
 </p>
 </sp>
 <sp who='ALZIRE'><speaker>ALZIRE.</speaker>
 <p id='5'>
-	<s id='1'>Si vous n'aviez pas été une de nos soeurs, j'aurais eu peur pour vous. </s>
-	<s id='2'>Vous débutez si mal, qu'on n'aurait peut-être point eu la patience de vous entendre jusqu'au troisième acte si un autre auteur vous eût fait naître.</s>
+	<s id='1'>Si vous n'aviez pas Ã©tÃ© une de nos soeurs, j'aurais eu peur pour vous. </s>
+	<s id='2'>Vous dÃ©butez si mal, qu'on n'aurait peut-Ãªtre point eu la patience de vous entendre jusqu'au troisiÃ¨me acte si un autre auteur vous eÃ»t fait naÃ®tre.</s>
 </p>
 </sp>
-<sp who='ZAÏRE'><speaker>ZAÏRE.</speaker>
+<sp who='ZAÃRE'><speaker>ZAÃRE.</speaker>
 <p id='6'>
-	<s id='1'>Je suis si tendre et si bonne, que je ne puis m'empêcher d'avouer que vous m'avez attendrie jusqu'aux larmes.</s>
+	<s id='1'>Je suis si tendre et si bonne, que je ne puis m'empÃªcher d'avouer que vous m'avez attendrie jusqu'aux larmes.</s>
 </p>
 </sp>
 <sp who='MAHOMET'><speaker>MAHOMET.</speaker>
 <p id='7'>
-	<s id='1'>Notre Père vous a ménagé des situations qui vous soutiendront toujours ; mais vous avez des longueurs insupportables.</s>
+	<s id='1'>Notre PÃ¨re vous a mÃ©nagÃ© des situations qui vous soutiendront toujours ; mais vous avez des longueurs insupportables.</s>
 </p>
 </sp>
-<sp who='HÉRODE ET MARIAMNE'><speaker>HÉRODE ET MARIAMNE.</speaker>
+<sp who='HÃ‰RODE ET MARIAMNE'><speaker>HÃ‰RODE ET MARIAMNE.</speaker>
 <p id='8'>
-	<s id='1'>Je me sens si faible auprès de vous, que je suis obligée de sortir. </s>
-	<s id='2'>Je voudrais vous égaler malgré vos imperfections.</s>
+	<s id='1'>Je me sens si faible auprÃ¨s de vous, que je suis obligÃ©e de sortir. </s>
+	<s id='2'>Je voudrais vous Ã©galer malgrÃ© vos imperfections.</s>
 </p>
 </sp>
 <sp who='LE DUC DE FOIX'><speaker>LE DUC DE FOIX.</speaker>
 <p id='9'>
 	<s id='1'>J'ai eu des admirateurs, j'en ai encore quelques uns, mais vous en aurez plus que moi. </s>
-	<s id='2'>Je m'en vais engager les miens à ne me pas abandonner lorsque je paraîtrai. </s>
+	<s id='2'>Je m'en vais engager les miens Ã  ne me pas abandonner lorsque je paraÃ®trai. </s>
 	<s id='3'>Adieu, mes soeurs.</s>
 </p>
 </sp>
-<sp who='TANCRÈDE'><speaker>TANCRÈDE au Duc de Foix.</speaker>
+<sp who='TANCRÃˆDE'><speaker>TANCRÃˆDE au Duc de Foix.</speaker>
 <p id='10'>
 	<s id='1'>Vous me donnez votre approbation ?</s>
 </p>
 </sp>
 <sp who='LE DUC DE FOIX'><speaker>LE DUC DE FOIX.</speaker>
 <p id='11'>
-	<s id='1'>Vous la méritez.</s>
+	<s id='1'>Vous la mÃ©ritez.</s>
 </p>
 </sp>
-<sp who='HÉRODE ET MARIAMNE'><speaker>HÉRODE ET MARIAMNE, en s'en allant.</speaker>
+<sp who='HÃ‰RODE ET MARIAMNE'><speaker>HÃ‰RODE ET MARIAMNE, en s'en allant.</speaker>
 <p id='12'>
 	<s id='1'>Plus je la vois, et plus je me trouve mauvaise.</s>
 </p>
@@ -1559,58 +1559,58 @@ L'Orphelin de la Chine, Tancrède.</head>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='9'><head>SCÈNE IX. OEdipe, Brutus, Zaïre, Alzire, La Mort de César, Mahomet, Mérope, L'Orphelin de la Chine, Tancrède.</head>
-<sp who='TANCRÈDE'><speaker>TANCRÈDE.</speaker>
+<div2 type="scene" n='9'><head>SCÃˆNE IX. OEdipe, Brutus, ZaÃ¯re, Alzire, La Mort de CÃ©sar, Mahomet, MÃ©rope, L'Orphelin de la Chine, TancrÃ¨de.</head>
+<sp who='TANCRÃˆDE'><speaker>TANCRÃˆDE.</speaker>
 <p id='1'>
-	<s id='1'>Je suis cependant fâchée que mes soeurs m'abandonnent.</s>
+	<s id='1'>Je suis cependant fÃ¢chÃ©e que mes soeurs m'abandonnent.</s>
 </p>
 </sp>
 <sp who='OEDIPE'><speaker>OEDIPE.</speaker>
 <p id='2'>
-	<s id='1'>Votre bonté les chagrine. </s>
-	<s id='2'>Entre nous, autant le Duc de Foix, Hérode et Mariamne, et Rome Sauvée sont passablement bonnes, autant Artémire et Eriphile sont mauvaises.</s>
+	<s id='1'>Votre bontÃ© les chagrine. </s>
+	<s id='2'>Entre nous, autant le Duc de Foix, HÃ©rode et Mariamne, et Rome SauvÃ©e sont passablement bonnes, autant ArtÃ©mire et Eriphile sont mauvaises.</s>
 </p>
 </sp>
-<sp who='TANCRÈDE'><speaker>TANCRÈDE.</speaker>
+<sp who='TANCRÃˆDE'><speaker>TANCRÃˆDE.</speaker>
 <p id='3'>
 	<s id='1'>Mais cela ne m'assure point un sort heureux ; vos sentiments sur moi, OEdipe, me seraient bien favorables.</s>
 </p>
 </sp>
 <sp who='OEDIPE'><speaker>OEDIPE.</speaker>
 <p id='4'>
-	<s id='1'>Vous avez de trop grande beautés pour ne pas mériter les applaudissements du Public éclairé : Si nous allons vous juger, c'est d'après lui. </s>
-	<s id='2'>Mais il est à propos que vous nous laissiez libres. </s>
+	<s id='1'>Vous avez de trop grande beautÃ©s pour ne pas mÃ©riter les applaudissements du Public Ã©clairÃ© : Si nous allons vous juger, c'est d'aprÃ¨s lui. </s>
+	<s id='2'>Mais il est Ã  propos que vous nous laissiez libres. </s>
 	<s id='3'>Retirez-vous un moment, nous ne serons pas longtemps.</s>
 </p>
 </sp>
-<sp who='TANCRÈDE'><speaker>TANCRÈDE.</speaker>
+<sp who='TANCRÃˆDE'><speaker>TANCRÃˆDE.</speaker>
 <p id='5'>
-	<s id='1'>Je me soumets à votre décision ; et je souhaite reparaître à vos yeux plus belle et moins prolixe.</s>
+	<s id='1'>Je me soumets Ã  votre dÃ©cision ; et je souhaite reparaÃ®tre Ã  vos yeux plus belle et moins prolixe.</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='10'><head>SCÈNE X. Oedipe, Brutus, Zaïre, Alzire, La Mort de César, Mahomet, Mérope, Semiramis, L'Orphelin de la Chine.</head>
+<div2 type="scene" n='10'><head>SCÃˆNE X. Oedipe, Brutus, ZaÃ¯re, Alzire, La Mort de CÃ©sar, Mahomet, MÃ©rope, Semiramis, L'Orphelin de la Chine.</head>
 <sp who='OEDIPE'><speaker>OEDIPE.</speaker>
 <p id='1'>
-	<s id='1'>Nous avons un peu trop parlé devant Tancréde, l'encens que nous lui avons donné va la rendre orgueilleuse. </s>
-	<s id='2'>N'aura-t-elle pas assez de gloire d'être avec nous ? </s>
-	<s id='3'>Elle mérite, il est vrai, des éloges ; mais elle n'approche pas encore de moi.</s>
+	<s id='1'>Nous avons un peu trop parlÃ© devant TancrÃ©de, l'encens que nous lui avons donnÃ© va la rendre orgueilleuse. </s>
+	<s id='2'>N'aura-t-elle pas assez de gloire d'Ãªtre avec nous ? </s>
+	<s id='3'>Elle mÃ©rite, il est vrai, des Ã©loges ; mais elle n'approche pas encore de moi.</s>
 </p>
 </sp>
 <sp who='BRUTUS'><speaker>BRUTUS.</speaker>
 <p id='2'>
 	<s id='1'>Ni de moi. </s>
-	<s id='2'>Qu'elle en est éloignée !</s>
+	<s id='2'>Qu'elle en est Ã©loignÃ©e !</s>
 </p>
 </sp>
 <sp who='SEMIRAMIS'><speaker>SEMIRAMIS.</speaker>
 <p id='3'>
-	<s id='1'>Les coups de Théâtre qu'elle produit ne font pas si frappants que les miens.</s>
+	<s id='1'>Les coups de ThÃ©Ã¢tre qu'elle produit ne font pas si frappants que les miens.</s>
 </p>
 </sp>
-<sp who='ZAÏRE'><speaker>ZAÏRE.</speaker>
+<sp who='ZAÃRE'><speaker>ZAÃRE.</speaker>
 <p id='4'>
-	<s id='1'>Vos coups de Théâtre sont merveilleux, mais ils ne sont pas si naturels que les siens.</s>
+	<s id='1'>Vos coups de ThÃ©Ã¢tre sont merveilleux, mais ils ne sont pas si naturels que les siens.</s>
 </p>
 </sp>
 <sp who='ALZIRE'><speaker>ALZIRE.</speaker>
@@ -1620,190 +1620,190 @@ L'Orphelin de la Chine, Tancrède.</head>
 </sp>
 <sp who="L'ORPHELIN DE LA CHINE"><speaker>L'ORPHELIN DE LA CHINE.</speaker>
 <p id='6'>
-	<s id='1'>C'est beaucoup de ne pas s'en écarter, je n'ai réussi que par-là.</s>
+	<s id='1'>C'est beaucoup de ne pas s'en Ã©carter, je n'ai rÃ©ussi que par-lÃ .</s>
 </p>
 </sp>
-<sp who='MÉROPE'><speaker>MÉROPE.</speaker>
+<sp who='MÃ‰ROPE'><speaker>MÃ‰ROPE.</speaker>
 <p id='7'>
 	<s id='1'>Comme vous parlez d'elle ? </s>
 	<s id='2'>On la prendrait pour un chef-d'oeuvre. </s>
-	<s id='3'>Je dis moi qu'elle marche fort mal et qu'elle est d'une inconstance outrée. </s> 
+	<s id='3'>Je dis moi qu'elle marche fort mal et qu'elle est d'une inconstance outrÃ©e. </s> 
 	<s id='4'>Comment ! </s>
-	<s id='5'>Ne pas rester à la même place : changer de lieu 1 ce sont là des défauts inpardonnables.</s>
+	<s id='5'>Ne pas rester Ã  la mÃªme place : changer de lieu 1 ce sont lÃ  des dÃ©fauts inpardonnables.</s>
 </p>
 </sp>
 <sp who='MAHOMET'><speaker>MAHOMET.</speaker>
 <p id='8'>
-	<s id='1'>Et dont on ne pourra la corriger : mais nous autres, sommes-nous exemptes de défauts.</s>
+	<s id='1'>Et dont on ne pourra la corriger : mais nous autres, sommes-nous exemptes de dÃ©fauts.</s>
 </p>
 </sp>
-<sp who='LA MORT DE CÉSAR'><speaker>LA MORT DE CÉSAR.</speaker>
+<sp who='LA MORT DE CÃ‰SAR'><speaker>LA MORT DE CÃ‰SAR.</speaker>
 <p id='9'>
-	<s id='1'>Sans doute : elle ne peut pas nous déshonorer. </s>
-	<s id='2'>C'est notre soeur ; soyons unies ensembles, ne décourageons pas notre Père par notre mésintelligence.</s>
+	<s id='1'>Sans doute : elle ne peut pas nous dÃ©shonorer. </s>
+	<s id='2'>C'est notre soeur ; soyons unies ensembles, ne dÃ©courageons pas notre PÃ¨re par notre mÃ©sintelligence.</s>
 </p>
 </sp>
 <sp who='OEDIPE'><speaker>OEDIPE.</speaker>
 <p id='10'>
 	<s id='1'>Vous pensez juste... </s>
-	<s id='2'>Il faut l'admettre parmi nous ; c'est pourquoi j'espère que vous allez me donner vos avis chacune, sans partialités.</s>
+	<s id='2'>Il faut l'admettre parmi nous ; c'est pourquoi j'espÃ¨re que vous allez me donner vos avis chacune, sans partialitÃ©s.</s>
 </p>
 </sp>
 <sp who='BRUTUS'><speaker>BRUTUS.</speaker>
 <p id='11'>
-	<s id='1'>Comme la plus ancienne après vous, OEdipe, je vais donner l'exemple. </s>
-	<s id='2'>Malgré ma vieillesse, je conserve toute ma chaleur, et je décide que Tancrède est bonne, et qu'elle restera au Théâtre malgré ses ennemis.</s>
+	<s id='1'>Comme la plus ancienne aprÃ¨s vous, OEdipe, je vais donner l'exemple. </s>
+	<s id='2'>MalgrÃ© ma vieillesse, je conserve toute ma chaleur, et je dÃ©cide que TancrÃ¨de est bonne, et qu'elle restera au ThÃ©Ã¢tre malgrÃ© ses ennemis.</s>
 </p>
 </sp>
-<sp who='ZAÏRE'><speaker>ZAÏRE.</speaker>
+<sp who='ZAÃRE'><speaker>ZAÃRE.</speaker>
 <p id='12'>
-	<s id='1'>Elle ne peut m'égaler ; mais je ne puis la renier pour ma soeur, elle a un mérite particulier qui m'intéresse pour elle.</s>
+	<s id='1'>Elle ne peut m'Ã©galer ; mais je ne puis la renier pour ma soeur, elle a un mÃ©rite particulier qui m'intÃ©resse pour elle.</s>
 </p>
 </sp>
 <sp who='ALZIRE'><speaker>ALZIRE.</speaker>
 <p id='13'>
-	<s id='1'>Si elle avait ma conduite j'en ferais mon égale : sans cela point de quartier : je suis trop grande, et elle est trop petite.</s>
+	<s id='1'>Si elle avait ma conduite j'en ferais mon Ã©gale : sans cela point de quartier : je suis trop grande, et elle est trop petite.</s>
 </p>
 </sp>
 <sp who='MAHOMET'><speaker>MAHOMET.</speaker>
 <p id='14'>
-	<s id='1'>Dispensez-moi de parler, mon silence confirme tout ce „que l'on peut avoir dit, et tout ce que l'on peut dire d'elle en bien.</s>
+	<s id='1'>Dispensez-moi de parler, mon silence confirme tout ce Â„que l'on peut avoir dit, et tout ce que l'on peut dire d'elle en bien.</s>
 </p>
 </sp>
-<sp who='MÉROPE'><speaker>MÉROPE.</speaker>
+<sp who='MÃ‰ROPE'><speaker>MÃ‰ROPE.</speaker>
 <p id='15'>
-	<s id='1'>Elle brillera pendant quelque temps ; mais à la chute des feuilles je ne lui ferai point de grâce ; c'est un avorton auprès de ma beauté.</s>
+	<s id='1'>Elle brillera pendant quelque temps ; mais Ã  la chute des feuilles je ne lui ferai point de grÃ¢ce ; c'est un avorton auprÃ¨s de ma beautÃ©.</s>
 </p>
 </sp>
 <sp who='SEMIRAMIS'><speaker>SEMIRAMIS.</speaker>
 <p id='16'>
-	<s id='1'>J'intéresse plus au spectacle que dans le cabinet, comme je pense qu'elle aura mon sort, je la trouve digne de nous.</s>
+	<s id='1'>J'intÃ©resse plus au spectacle que dans le cabinet, comme je pense qu'elle aura mon sort, je la trouve digne de nous.</s>
 </p>
 </sp>
 <sp who="L'ORPHELIN DE LA CHINE"><speaker>L'ORPHELIN DE LA CHINE.</speaker>
 <p id='17'>
-	<s id='1'>C'est bien dit : que Tancrède soit notre soeur, ses appas plaisent au Public, en ne parlant que d'après lui, nous ne pouvons pas manquer de faire un jugement équitable.</s>
+	<s id='1'>C'est bien dit : que TancrÃ¨de soit notre soeur, ses appas plaisent au Public, en ne parlant que d'aprÃ¨s lui, nous ne pouvons pas manquer de faire un jugement Ã©quitable.</s>
 </p>
 </sp>
 <sp who='OEDIPE'><speaker>OEDIPE.</speaker>
 <p id='18'>
-	<s id='1'>C'est toujours lui qui juge de nous : d'un coup d'oeil, il voit nos beautés comme il s'aperçoit de nos défauts. </s>
-	<s id='2'>Plusieurs d'entre nous ont été corrigées par notre père sur ses avis, nous devons donc les suivre. </s>
-	<s id='3'>Les applaudissements qu'il donne à notre soeur, sont un sûr garant qu'elle lui fait plaisir. </s>
+	<s id='1'>C'est toujours lui qui juge de nous : d'un coup d'oeil, il voit nos beautÃ©s comme il s'aperÃ§oit de nos dÃ©fauts. </s>
+	<s id='2'>Plusieurs d'entre nous ont Ã©tÃ© corrigÃ©es par notre pÃ¨re sur ses avis, nous devons donc les suivre. </s>
+	<s id='3'>Les applaudissements qu'il donne Ã  notre soeur, sont un sÃ»r garant qu'elle lui fait plaisir. </s>
 	<s id='4'>Recevons-la d'une voix unanime. </s>
-	<s id='5'>Le génie qui protège notre Père ne le quittera qu'au tombeau : l'universalité de ses talents lui ont déjà acquis l'immortalité au Temple de mémoire. </s>
-	<s id='6'>Trop heureuses d'être nées d'un tel père !</s>
+	<s id='5'>Le gÃ©nie qui protÃ¨ge notre PÃ¨re ne le quittera qu'au tombeau : l'universalitÃ© de ses talents lui ont dÃ©jÃ  acquis l'immortalitÃ© au Temple de mÃ©moire. </s>
+	<s id='6'>Trop heureuses d'Ãªtre nÃ©es d'un tel pÃ¨re !</s>
 </p>
 </sp>
-<sp who='LA MORT DE CÉSAR'><speaker>LA MORT DE CÉSAR.</speaker>
+<sp who='LA MORT DE CÃ‰SAR'><speaker>LA MORT DE CÃ‰SAR.</speaker>
 <p id='19'>
 	<s id='1'>C'est mon avis... </s>
 	<s id='2'>Vous vous y tenez toutes... </s>
-	<s id='3'>Adieu : je vais dans une maison bourgeoise où ma présence est nécessaire.</s>
+	<s id='3'>Adieu : je vais dans une maison bourgeoise oÃ¹ ma prÃ©sence est nÃ©cessaire.</s>
 </p>
 <stage>Elle sort.</stage>
 </sp>
 <sp who='OEDIPE'><speaker>OEDIPE.</speaker>
 <p id='20'>
-	<s id='1'>Tancréde peut revenir et se montrer hardiment. </s>
-	<s id='2'>Elle ne sera pas cependant à l'abri de la critique.</s>
+	<s id='1'>TancrÃ©de peut revenir et se montrer hardiment. </s>
+	<s id='2'>Elle ne sera pas cependant Ã  l'abri de la critique.</s>
 </p>
 </sp>
 <sp who='SEMIRAMIS'><speaker>SEMIRAMIS.</speaker>
 <p id='21'>
-	<s id='1'>Nous en avons toutes essuyées un assez grand nombre.</s>
+	<s id='1'>Nous en avons toutes essuyÃ©es un assez grand nombre.</s>
 </p>
 </sp>
-<sp who='MÉROPE'><speaker>MÉROPE.</speaker>
+<sp who='MÃ‰ROPE'><speaker>MÃ‰ROPE.</speaker>
 <p id='22'>
-	<s id='1'>Elles ont fait honneur à notre père et à nous.</s>
+	<s id='1'>Elles ont fait honneur Ã  notre pÃ¨re et Ã  nous.</s>
 </p>
 </sp>
 <sp who='BRUTUS'><speaker>BRUTUS.</speaker>
 <p id='23'>
-	<s id='1'>La critique souvent fait notre renommée.</s>
+	<s id='1'>La critique souvent fait notre renommÃ©e.</s>
 </p>
 </sp>
-<sp who='ZAÏRE'><speaker>ZAÏRE.</speaker>
+<sp who='ZAÃRE'><speaker>ZAÃRE.</speaker>
 <p id='24'>
-	<s id='1'>Souvent elle nous a rendu meilleures que nous n'étions.</s>
+	<s id='1'>Souvent elle nous a rendu meilleures que nous n'Ã©tions.</s>
 </p>
 </sp>
 <sp who='MAHOMET'><speaker>MAHOMET.</speaker>
 <p id='25'>
-	<s id='1'>Appelons Tancrède, rien ne peut la retenir .. </s>
+	<s id='1'>Appelons TancrÃ¨de, rien ne peut la retenir .. </s>
 	<s id='2'>Elle vient ! </s>
 	<s id='3'>Applaudissons-la.</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='11'><head>SCÈNE XI. OEdipe, Brutus, Zaïre, Alzire, Mahomet, Mérope, Sémiramis, L'Orphelin de la Chine, Tancrède.</head>
+<div2 type="scene" n='11'><head>SCÃˆNE XI. OEdipe, Brutus, ZaÃ¯re, Alzire, Mahomet, MÃ©rope, SÃ©miramis, L'Orphelin de la Chine, TancrÃ¨de.</head>
 <sp who="L'ORPHELIN DE LA CHINE"><speaker>L'ORPHELIN DE LA CHINE.</speaker>
 <p id='1'>
-	<s id='1'>Ah qu'elle est changée !</s>
+	<s id='1'>Ah qu'elle est changÃ©e !</s>
 </p>
 </sp>
-<sp who='TANCRÈDE'><speaker>TANCRÈDE, reparaissant au bruit des applaudissements.</speaker>
+<sp who='TANCRÃˆDE'><speaker>TANCRÃˆDE, reparaissant au bruit des applaudissements.</speaker>
 <p id='2'>
-	<s id='1'>Vous m'applaudissez ; j'ai lieu de croire que mon arrêt est favorable.</s>
+	<s id='1'>Vous m'applaudissez ; j'ai lieu de croire que mon arrÃªt est favorable.</s>
 </p>
 </sp>
-<sp who='MÉROPE'><speaker>MÉROPE.</speaker>
+<sp who='MÃ‰ROPE'><speaker>MÃ‰ROPE.</speaker>
 <p id='3'>
-	<s id='1'>Vous me faites plus de plaisir à présent, que la première fois.</s>
+	<s id='1'>Vous me faites plus de plaisir Ã  prÃ©sent, que la premiÃ¨re fois.</s>
 </p>
 </sp>
 <sp who='SEMIRAMIS'><speaker>SEMIRAMIS.</speaker>
 <p id='4'>
-	<s id='1'>Je vous envisage de même, et je vous comprends plus aisément.</s>
+	<s id='1'>Je vous envisage de mÃªme, et je vous comprends plus aisÃ©ment.</s>
 </p>
 </sp>
-<sp who='ZAÏRE'><speaker>ZAÏRE.</speaker>
+<sp who='ZAÃRE'><speaker>ZAÃRE.</speaker>
 <p id='5'>
-	<s id='1'>Plus je vous observe, et plus j'aperçois en vous des beautés.</s>
+	<s id='1'>Plus je vous observe, et plus j'aperÃ§ois en vous des beautÃ©s.</s>
 </p>
 </sp>
-<sp who='TANCRÈDE'><speaker>TANCRÈDE.</speaker>
+<sp who='TANCRÃˆDE'><speaker>TANCRÃˆDE.</speaker>
 <p id='6'>
-	<s id='1'>J'ai été corrigée, et je ne parle plus tant.</s>
+	<s id='1'>J'ai Ã©tÃ© corrigÃ©e, et je ne parle plus tant.</s>
 </p>
 </sp>
 <sp who='OEDIPE'><speaker>OEDIPE.</speaker>
-<note type="C">Hypermnestre, Tragédie de M. Le Mierre, n'a réussi que parles coups de Théâtre des 3 et 4 actes qui font tableaux, cette pièce n'étant pas supportable à la lecture.</note>
+<note type="C">Hypermnestre, TragÃ©die de M. Le Mierre, n'a rÃ©ussi que parles coups de ThÃ©Ã¢tre des 3 et 4 actes qui font tableaux, cette piÃ¨ce n'Ã©tant pas supportable Ã  la lecture.</note>
 <p id='7'>
-	<s id='1'>Vous faites bien : les actions sont plus recherchées aujourd'hui que les paroles, on aime tout ce qui fait tableau. </s>
-	<s id='2'>C'est le goût du du siècle.</s>
+	<s id='1'>Vous faites bien : les actions sont plus recherchÃ©es aujourd'hui que les paroles, on aime tout ce qui fait tableau. </s>
+	<s id='2'>C'est le goÃ»t du du siÃ¨cle.</s>
 </p>
 </sp>
 <sp who='BRUTUS'><speaker>BRUTUS.</speaker>
 <p id='8'>
 	<s id='1'>Je crains cependant que le grand jour de l'impression ne vous fasse du tort. </s>
-	<s id='2'>Vous parlez bien, j'en conviens ; mais la lecture, ne présente pas aux yeux Faction comme la représentation. </s>
+	<s id='2'>Vous parlez bien, j'en conviens ; mais la lecture, ne prÃ©sente pas aux yeux Faction comme la reprÃ©sentation. </s>
 	<s id='3'>Au cabinet souvent on ne nous reconnait plus.</s>
 </p>
 </sp>
-<sp who='TANCRÈDE'><speaker>TANCRÈDE.</speaker>
-<note type="C">La Tragédie de Tancréde que l'on imprime actuellement précédée d'une préface, sera enrichie du portrait de M. de Voltaire, et de deux estampes, qui représenteront les plus belles situations de cette pièce.</note>
+<sp who='TANCRÃˆDE'><speaker>TANCRÃˆDE.</speaker>
+<note type="C">La TragÃ©die de TancrÃ©de que l'on imprime actuellement prÃ©cÃ©dÃ©e d'une prÃ©face, sera enrichie du portrait de M. de Voltaire, et de deux estampes, qui reprÃ©senteront les plus belles situations de cette piÃ¨ce.</note>
 <p id='9'>
-	<s id='1'>Je n'y paraîtrai que bien parée ; et par inclination pour notre père je porterai toujours son portrait avec moi, ainsi que mes plus belles situations, j'en serai peut-être plus recherchée... </s>
-	<s id='2'>Mais quel est mon sort ì Aurai-je une place parmi vous.</s>
+	<s id='1'>Je n'y paraÃ®trai que bien parÃ©e ; et par inclination pour notre pÃ¨re je porterai toujours son portrait avec moi, ainsi que mes plus belles situations, j'en serai peut-Ãªtre plus recherchÃ©e... </s>
+	<s id='2'>Mais quel est mon sort Ã¬ Aurai-je une place parmi vous.</s>
 </p>
 </sp>
 <sp who='OEDIPE'><speaker>OEDIPE.</speaker>
 <p id='10'>
-	<s id='1'>Vos beautés, votre genre singulier et vos situations neuves et naturelles vous l'ont fait acquérir Brutus, Zaïre, Alzire, Mérope et moi, nous aurons toujours un avantage sur vous, que vous ne pouvez point nous refuser. </s>
-	<s id='2'>Comme vous valez en grandeur, en beauté et en attraits Sémiramis, Mahomet, et l'Orphelin de la Chine , nous vous plaçons après elles ; protestant que vous êtes au-dessus du Duc de Foix, de Rome Sauvée, d'Hérode et Mariamne. </s>
-	<s id='3'>Voilà, mon sentiment, à moins que mes soeurs n'en rappellent.</s>
+	<s id='1'>Vos beautÃ©s, votre genre singulier et vos situations neuves et naturelles vous l'ont fait acquÃ©rir Brutus, ZaÃ¯re, Alzire, MÃ©rope et moi, nous aurons toujours un avantage sur vous, que vous ne pouvez point nous refuser. </s>
+	<s id='2'>Comme vous valez en grandeur, en beautÃ© et en attraits SÃ©miramis, Mahomet, et l'Orphelin de la Chine , nous vous plaÃ§ons aprÃ¨s elles ; protestant que vous Ãªtes au-dessus du Duc de Foix, de Rome SauvÃ©e, d'HÃ©rode et Mariamne. </s>
+	<s id='3'>VoilÃ , mon sentiment, Ã  moins que mes soeurs n'en rappellent.</s>
 </p>
 </sp>
-<sp who='TOUTES LES TRAGÉDIES'><speaker>TOUTES LES TRAGÉDIES ensemble.</speaker>
+<sp who='TOUTES LES TRAGÃ‰DIES'><speaker>TOUTES LES TRAGÃ‰DIES ensemble.</speaker>
 <p id='11'>
-	<s id='11'>C'est aussi le nôtre, et nous approuvons tout ce que vous venez de prononcer.</s>
+	<s id='11'>C'est aussi le nÃ´tre, et nous approuvons tout ce que vous venez de prononcer.</s>
 </p>
 </sp>
-<sp who='TANCRÈDE'><speaker>TANCRÈDE.</speaker>
+<sp who='TANCRÃˆDE'><speaker>TANCRÃˆDE.</speaker>
 <p id='12'>
-	<s id='1'>Je suis bien reçue du Public, vous m'admettez à votre rang dans ce spectacle, vous me pardonnez mes défauts, car je conviens que j'en aurai toujours ; mon bonheur ne peut-être plus grand !</s>
+	<s id='1'>Je suis bien reÃ§ue du Public, vous m'admettez Ã  votre rang dans ce spectacle, vous me pardonnez mes dÃ©fauts, car je conviens que j'en aurai toujours ; mon bonheur ne peut-Ãªtre plus grand !</s>
 </p>
 </sp>
 <sp who='BRUTUS'><speaker>BRUTUS.</speaker>
@@ -1811,55 +1811,55 @@ L'Orphelin de la Chine, Tancrède.</head>
 	<s id='1'>Nous vous rendons justice en vous applaudissant.</s>
 </p>
 </sp>
-<sp who='MÉROPE'><speaker>MÉROPE.</speaker>
+<sp who='MÃ‰ROPE'><speaker>MÃ‰ROPE.</speaker>
 <p id='14'>
-	<s id='1'>J'ai cependant un conseil à vous donner, ma soeur : c'est de vous ménager, et de ne pas vous user ; le Public s'en trouvera mieux, ainsi que nous et vous...</s>
+	<s id='1'>J'ai cependant un conseil Ã  vous donner, ma soeur : c'est de vous mÃ©nager, et de ne pas vous user ; le Public s'en trouvera mieux, ainsi que nous et vous...</s>
 </p>
 </sp>
-<sp who='TANCRÈDE'><speaker>TANCRÈDE.</speaker>
+<sp who='TANCRÃˆDE'><speaker>TANCRÃˆDE.</speaker>
 <p id='15'>
-	<s id='1'>Cela ne dépendra pas de moi : je suis trop flattée de votre accueil et de votre jugement pour ne pas me soumettre à vos lois. </s>
-	<s id='2'>Je ne saurais trop être reconnaissante.</s>
+	<s id='1'>Cela ne dÃ©pendra pas de moi : je suis trop flattÃ©e de votre accueil et de votre jugement pour ne pas me soumettre Ã  vos lois. </s>
+	<s id='2'>Je ne saurais trop Ãªtre reconnaissante.</s>
 </p>
 </sp>
 <sp who='OEDIPE'><speaker>OEDIPE.</speaker>
-<note type="C">En ses appartement, à cause du changement de décoration, l'unité de lieu n'étant pas observée dans Tancrède.</note>
-<note type="C">Zulime, Tragédie nouvelle de M. de Voltaire : on prétend que cette piéce n'est pas neuve, qu'elle est seulement corrigée, n'ayant pas eu de succès lorsqu'elle fut représentée il y a dix-huit à vingt ans.</note>
+<note type="C">En ses appartement, Ã  cause du changement de dÃ©coration, l'unitÃ© de lieu n'Ã©tant pas observÃ©e dans TancrÃ¨de.</note>
+<note type="C">Zulime, TragÃ©die nouvelle de M. de Voltaire : on prÃ©tend que cette piÃ©ce n'est pas neuve, qu'elle est seulement corrigÃ©e, n'ayant pas eu de succÃ¨s lorsqu'elle fut reprÃ©sentÃ©e il y a dix-huit Ã  vingt ans.</note>
 <p id='16'>
 	<s id='1'>J'entends qu'on vous appelle. </s>
-	<s id='2'>Allons, mes soeurs : accompagnons Tancrède jusqu'en ses appartements ; qu'elle y reste en attendant Zulime.</s>
+	<s id='2'>Allons, mes soeurs : accompagnons TancrÃ¨de jusqu'en ses appartements ; qu'elle y reste en attendant Zulime.</s>
 </p>
 </sp>
-<sp who='TANCRÈDE'><speaker>TANCRÈDE.</speaker>
+<sp who='TANCRÃˆDE'><speaker>TANCRÃˆDE.</speaker>
 <p id='17'>
 	<s id='1'>Zulime ! </s>
 	<s id='2'>Serait-ce encore une soeur ?</s>
 </p>
 </sp>
 <sp who='OEDIPE'><speaker>OEDIPE.</speaker>
-<note type="C">Une Tragédie à l'Etude, c'est-à-dire que les comédiens apprennent leur Rôle pour la représenter.</note>
+<note type="C">Une TragÃ©die Ã  l'Etude, c'est-Ã -dire que les comÃ©diens apprennent leur RÃ´le pour la reprÃ©senter.</note>
 <p id='18'>
-	<s id='1'>Oui, mais elle n'est pas encore en état de paraître dans le monde, on doit dans peu la mettre à l'étude.</s>
+	<s id='1'>Oui, mais elle n'est pas encore en Ã©tat de paraÃ®tre dans le monde, on doit dans peu la mettre Ã  l'Ã©tude.</s>
 </p>
 </sp>
-<sp who='TANCRÈDE'><speaker>TANCRÈDE.</speaker>
+<sp who='TANCRÃˆDE'><speaker>TANCRÃˆDE.</speaker>
 <p id='19'>
-	<s id='1'>Je suis contente d'avoir passé avant elle; cela me donnera comme vous le droit de la juger.</s>
+	<s id='1'>Je suis contente d'avoir passÃ© avant elle; cela me donnera comme vous le droit de la juger.</s>
 </p>
 </sp>
-<sp who='MÉROPE'><speaker>MÉROPE.</speaker>
+<sp who='MÃ‰ROPE'><speaker>MÃ‰ROPE.</speaker>
 <p id='20'>
-	<s id='1'>Vous n'aurez peut-être pas cette peine : elle peut mourir en naissant.</s>
+	<s id='1'>Vous n'aurez peut-Ãªtre pas cette peine : elle peut mourir en naissant.</s>
 </p>
 </sp>
-<sp who='TANCRÈDE'><speaker>TANCRÈDE.</speaker>
+<sp who='TANCRÃˆDE'><speaker>TANCRÃˆDE.</speaker>
 <p id='21'>
-	<s id='1'>Ce n'est point ce que je souhaite : je ne fuis pas méchante, et je désire qu'elle vive : au moins je ne serai pas la dernière... </s>
-	<s id='2'>Mais le bruit redouble ; le Public s'impatiente : allons me montrer, et mériter par ma soumission la continuation de ses applaudissements.</s>
+	<s id='1'>Ce n'est point ce que je souhaite : je ne fuis pas mÃ©chante, et je dÃ©sire qu'elle vive : au moins je ne serai pas la derniÃ¨re... </s>
+	<s id='2'>Mais le bruit redouble ; le Public s'impatiente : allons me montrer, et mÃ©riter par ma soumission la continuation de ses applaudissements.</s>
 </p>
 </sp>
 </div2>
 </div1>
 </body>
 </text>
-</TEI.2>
+</TEI>

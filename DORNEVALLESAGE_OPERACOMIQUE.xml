@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-<TEI.2>
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
 <teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>L'OPÉRA COMIQUE ASSIÉGÉ, COMÉDIE.</title>
+				<title>L'OPÃ‰RA COMIQUE ASSIÃ‰GÃ‰, COMÃ‰DIE.</title>
 			<author born='' born_location='' death='' death_location='' academie=''>DORNEVAL, LESAGE</author>
 			</titleStmt>
 			<publicationStmp>	
-				<p>publié par Paul FIEVRE, février 2015.</p>
+				<p>publiÃ© par Paul FIEVRE, fÃ©vrier 2015.</p>
 			</publicationStmp>
 			<SourceDesc>
-				<genre>Opéra comique</genre>
-				<inspiration>moeurs françaises</inspiration>
+				<genre>OpÃ©ra comique</genre>
+				<inspiration>moeurs franÃ§aises</inspiration>
 				<type>mixte</type>
 				<structure>Un acte</structure>
 				<periode>1721-1730</periode>
@@ -23,8 +23,8 @@
 <text>
 	<front>
 		<docTitle>
-			<titlePart type="main">L'OPÉRA COMIQUE ASSIÉGÉ</titlePart>
-			<titlePart type="sub">PIÈCE D'UN ACTE</titlePart>
+			<titlePart type="main">L'OPÃ‰RA COMIQUE ASSIÃ‰GÃ‰</titlePart>
+			<titlePart type="sub">PIÃˆCE D'UN ACTE</titlePart>
 		</docTitle> 
 		<docDate value='1730'>1730.</docDate>
 		<docAuthor id='DORNEVAL, LESAGE' bio='dorneval'>Par Mrs. le. S** et D'OR**</docAuthor>
@@ -34,210 +34,210 @@
 			<editor id=''></editor>
 		</docImprint>
 		<performance>
-			<premiere date='1730' location='Foire Saint-Laurent'>Représenté à la Foire de Saint-Germain en 1730.</premiere>
+			<premiere date='1730' location='Foire Saint-Laurent'>ReprÃ©sentÃ© Ã  la Foire de Saint-Germain en 1730.</premiere>
 		</performance>
-		<preface><head>AVERTISSEMENT.</head>
-			<p>Cette Pièce fut faite à l'occasion d'un nouveau procès que les Comédiens Français s'avisèrent d'intenter à l'Opéra Comique, dans lequel ils eurent le démenti.</p>
-		</preface>
+		<div type="preface"><head>AVERTISSEMENT.</head>
+			<p>Cette PiÃ¨ce fut faite Ã  l'occasion d'un nouveau procÃ¨s que les ComÃ©diens FranÃ§ais s'avisÃ¨rent d'intenter Ã  l'OpÃ©ra Comique, dans lequel ils eurent le dÃ©menti.</p>
+		</div>
 	
 	<castList><head>ACTEURS.</head>
-		<castItem><role id="LA COMÉDIE FRANÇAISE" civil='F' type="P" statut='allégorie' age='A' stat_amour='néant'>LA COMÉDIE FRANÇAISE</role>.</castItem>
-		<castItem><role id="LA COMÉDIE ITALIENNE" civil='F' type="P" statut='allégorie' age='A' stat_amour='néant'>LA COMÉDIE ITALIENNE</role>.</castItem>
-		<castItem><role id="L'OPÉRA" civil='M' type="P" statut='allégorie' age='A' stat_amour='néant'>L'OPÉRA</role>.</castItem>
-		<castItem><role id="SUIVANT DE L'OPÉRA" civil='M' type="H" statut='suivant' age='A' stat_amour='néant'>SUIVANT DE L'OPÉRA</role>.</castItem>
-		<castItem><role id="SCARAMOUCHE" civil='M' type="H" statut='comédien' age='A' stat_amour='néant'>SCARAMOUCHE</role>, Espion des Comédies.</castItem>
-		<castItem><role id="PIERRETTE" civil='F' type="H" statut='suivant' age='A' stat_amour='néant'>PIERRETTE</role>, Suivant de l'Opéra-Comique.</castItem>
-		<castItem><role id="MEZZETIN" civil='M' type="H" statut='suivant' age='A' stat_amour='néant'>MEZZETIN</role>, Suivante de l'Opéra-Comique.</castItem>
-		<castItem><role id="LA CHICANE" civil='F' type="P" statut='allégorie' age='A' stat_amour='néant'>LA CHICANE</role>.</castItem>
-		<castItem><role id="LA FRAUDE" civil='F' type="P" statut='suivant' age='A' stat_amour='néant'>LA FRAUDE</role>, suivante de le Chicane.</castItem>
-		<castItem><role id="L'ENVIE" civil='F' type="P" statut='suivant' age='A' stat_amour='néant'>L'ENVIE</role>, suivante de le Chicane.</castItem>
-		<castItem><role id="LE MALADE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>LE MALADE</role>, par complaisance.</castItem>
-		<castItem><role id="LE BAL DE PARNASSE" civil='M' type="P" statut='allégorie' age='A' stat_amour='néant'>LE BAL DE PARNASSE</role>.</castItem>
-		<castItem><role id="CALLISTHÈNE" civil='F' type="H" statut='allégorie' age='A' stat_amour='néant'>CALLISTHÈNE</role>.</castItem>
-		<castItem><role id="LA REINE DE BAROSTAN" civil='F' type="H" statut='personnage' age='A' stat_amour='néant'>LA REINE DE BAROSTAN</role>.</castItem>
-		<castItem><role id="LES COUPLETS EN PROCÈS" civil='G' type="P" statut='allégorie' age='A' stat_amour='néant'>LES COUPLETS EN PROCÈS</role>.</castItem>
-		<castItem><role id="UN TAMBOUR" civil='M' type="H" statut='musicien' age='A' stat_amour='néant'>UN TAMBOUR</role>.</castItem>
-		<castItem><role id="LE JEU DE L'AMOUR ET DU HASARD" civil='M' type="P" statut='spectacle' age='A' stat_amour='néant'>LE JEU DE L'AMOUR ET DU HASARD</role>.</castItem>
-		<castItem><role id="SAMSON" civil='M' type="H" statut='personnage' age='A' stat_amour='néant'>SAMSON</role>, Pierrot.</castItem>
-		<castItem><role id="TÉLÉMAQUE" civil='M' type="H" statut='personnage' age='A' stat_amour='néant'>TÉLÉMAQUE</role>.</castItem>
+		<castItem><role id="LA COMÃ‰DIE FRANÃ‡AISE" civil='F' type="P" statut='allÃ©gorie' age='A' stat_amour='nÃ©ant'>LA COMÃ‰DIE FRANÃ‡AISE</role>.</castItem>
+		<castItem><role id="LA COMÃ‰DIE ITALIENNE" civil='F' type="P" statut='allÃ©gorie' age='A' stat_amour='nÃ©ant'>LA COMÃ‰DIE ITALIENNE</role>.</castItem>
+		<castItem><role id="L'OPÃ‰RA" civil='M' type="P" statut='allÃ©gorie' age='A' stat_amour='nÃ©ant'>L'OPÃ‰RA</role>.</castItem>
+		<castItem><role id="SUIVANT DE L'OPÃ‰RA" civil='M' type="H" statut='suivant' age='A' stat_amour='nÃ©ant'>SUIVANT DE L'OPÃ‰RA</role>.</castItem>
+		<castItem><role id="SCARAMOUCHE" civil='M' type="H" statut='comÃ©dien' age='A' stat_amour='nÃ©ant'>SCARAMOUCHE</role>, Espion des ComÃ©dies.</castItem>
+		<castItem><role id="PIERRETTE" civil='F' type="H" statut='suivant' age='A' stat_amour='nÃ©ant'>PIERRETTE</role>, Suivant de l'OpÃ©ra-Comique.</castItem>
+		<castItem><role id="MEZZETIN" civil='M' type="H" statut='suivant' age='A' stat_amour='nÃ©ant'>MEZZETIN</role>, Suivante de l'OpÃ©ra-Comique.</castItem>
+		<castItem><role id="LA CHICANE" civil='F' type="P" statut='allÃ©gorie' age='A' stat_amour='nÃ©ant'>LA CHICANE</role>.</castItem>
+		<castItem><role id="LA FRAUDE" civil='F' type="P" statut='suivant' age='A' stat_amour='nÃ©ant'>LA FRAUDE</role>, suivante de le Chicane.</castItem>
+		<castItem><role id="L'ENVIE" civil='F' type="P" statut='suivant' age='A' stat_amour='nÃ©ant'>L'ENVIE</role>, suivante de le Chicane.</castItem>
+		<castItem><role id="LE MALADE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='nÃ©ant'>LE MALADE</role>, par complaisance.</castItem>
+		<castItem><role id="LE BAL DE PARNASSE" civil='M' type="P" statut='allÃ©gorie' age='A' stat_amour='nÃ©ant'>LE BAL DE PARNASSE</role>.</castItem>
+		<castItem><role id="CALLISTHÃˆNE" civil='F' type="H" statut='allÃ©gorie' age='A' stat_amour='nÃ©ant'>CALLISTHÃˆNE</role>.</castItem>
+		<castItem><role id="LA REINE DE BAROSTAN" civil='F' type="H" statut='personnage' age='A' stat_amour='nÃ©ant'>LA REINE DE BAROSTAN</role>.</castItem>
+		<castItem><role id="LES COUPLETS EN PROCÃˆS" civil='G' type="P" statut='allÃ©gorie' age='A' stat_amour='nÃ©ant'>LES COUPLETS EN PROCÃˆS</role>.</castItem>
+		<castItem><role id="UN TAMBOUR" civil='M' type="H" statut='musicien' age='A' stat_amour='nÃ©ant'>UN TAMBOUR</role>.</castItem>
+		<castItem><role id="LE JEU DE L'AMOUR ET DU HASARD" civil='M' type="P" statut='spectacle' age='A' stat_amour='nÃ©ant'>LE JEU DE L'AMOUR ET DU HASARD</role>.</castItem>
+		<castItem><role id="SAMSON" civil='M' type="H" statut='personnage' age='A' stat_amour='nÃ©ant'>SAMSON</role>, Pierrot.</castItem>
+		<castItem><role id="TÃ‰LÃ‰MAQUE" civil='M' type="H" statut='personnage' age='A' stat_amour='nÃ©ant'>TÃ‰LÃ‰MAQUE</role>.</castItem>
 	</castList>
-<set location='Paris' country='France' periode='XVIIIème' link=''>La Scène est devant le Fort de l'Opéra.</set>
+<set location='Paris' country='France' periode='XVIIIÃ¨me' link=''>La ScÃ¨ne est devant le Fort de l'OpÃ©ra.</set>
 </front>
 <body>
-<div1 type='acte' n='1'><head></head>
-<stage>Le Théâtre représente dans l'enfoncement un fort. Il y a au dessus écrit en gros caractères : Fort de l'Opéra-Comique. Dans les ailes, sont deux tentes ; celle du coté droit est une tente à la Romaine avec les Aigles, sur laquelle se lisent ces mots : Camp de la Comédie Françoise. Et du côté gauche une autre tente de toile bariolée, sur laquelle il y a écrit Camp de la Comédie Italienne. La Scène ouvre  par le bruit du Canon, et par une décharge de Mousqueterie qu'on tire du fort fur les Assiégeants.</stage>
-<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. La Comédie Française, La Comédie Italienne en Amazones armées.</head> 
-<sp who='LA COMÉDIE FRANÇAISE'><speaker>LA COMÉDIE FRANÇAISE.</speaker>
+<div1 type="act" n='1'><head></head>
+<stage>Le ThÃ©Ã¢tre reprÃ©sente dans l'enfoncement un fort. Il y a au dessus Ã©crit en gros caractÃ¨res : Fort de l'OpÃ©ra-Comique. Dans les ailes, sont deux tentes ; celle du cotÃ© droit est une tente Ã  la Romaine avec les Aigles, sur laquelle se lisent ces mots : Camp de la ComÃ©die FranÃ§oise. Et du cÃ´tÃ© gauche une autre tente de toile bariolÃ©e, sur laquelle il y a Ã©crit Camp de la ComÃ©die Italienne. La ScÃ¨ne ouvre  par le bruit du Canon, et par une dÃ©charge de Mousqueterie qu'on tire du fort fur les AssiÃ©geants.</stage>
+<div2 type="scene" n='1'><head>SCÃˆNE PREMIÃˆRE. La ComÃ©die FranÃ§aise, La ComÃ©die Italienne en Amazones armÃ©es.</head> 
+<sp who='LA COMÃ‰DIE FRANÃ‡AISE'><speaker>LA COMÃ‰DIE FRANÃ‡AISE.</speaker>
 <stage>AIR La Troupe Italienne, faridondaine partira.</stage>
 	<l id='1'>Eh quoi ? La Troupe Romaine</l>
-	<l id='2'>Ne détruira jamais le Comique-Qpéra !</l>
+	<l id='2'>Ne dÃ©truira jamais le Comique-QpÃ©ra !</l>
 </sp>
-<sp who='LA COMÉDIE ITALIENNE'><speaker>LA COMÉDIE ITALIENNE.</speaker>
+<sp who='LA COMÃ‰DIE ITALIENNE'><speaker>LA COMÃ‰DIE ITALIENNE.</speaker>
 	<l id='3'>Quoi donc ? L'Italienne,</l>
 	<l id='4'>Faridondaine,</l>
 	<l id='5'>Et lonlanla.</l>
-	<l id='6'>Jamais à la Foraine,</l>
+	<l id='6'>Jamais Ã  la Foraine,</l>
 	<l id='7'>Faridondaine</l>
 	<l id='8'>Ne nuira.</l>
 </sp>
-<sp who='LA COMÉDIE FRANÇAISE'><speaker>LA COMÉDIE FRANÇAISE.</speaker>
-<stage>AIR Le Démon malicieux et fin.</stage>
-	<l id='9'>Nous n'avons encor pu qu'à demi</l>
+<sp who='LA COMÃ‰DIE FRANÃ‡AISE'><speaker>LA COMÃ‰DIE FRANÃ‡AISE.</speaker>
+<stage>AIR Le DÃ©mon malicieux et fin.</stage>
+	<l id='9'>Nous n'avons encor pu qu'Ã  demi</l>
 	<l id='10'>Nous venger de ce fier Ennemi.</l>
 </sp>
-<sp who='LA COMÉDIE ITALIENNE'><speaker>LA COMÉDIE ITALIENNE.</speaker>
+<sp who='LA COMÃ‰DIE ITALIENNE'><speaker>LA COMÃ‰DIE ITALIENNE.</speaker>
 	<l id='11'>Contre lui notre juste furie</l>
 	<l id='12'>Ne sera donc qu'un inutile effort ?</l>
-	<l id='13'>À nos yeux il a l'effronterie</l>
+	<l id='13'>Ã€ nos yeux il a l'effronterie</l>
 	<l id='14'>De se venir retrancher dans ce fort.</l>
 </sp>
-<sp who='LA COMÉDIE FRANÇAISE'><speaker>LA COMÉDIE FRANÇAISE.</speaker>
+<sp who='LA COMÃ‰DIE FRANÃ‡AISE'><speaker>LA COMÃ‰DIE FRANÃ‡AISE.</speaker>
 <stage>AIR 193. Choquons le verre.</stage>
 	<l id='15'>La belle gloire !</l>
 	<l id='16'>La belle gloire,</l>
 	<l id='17'>De l'avoir mis hors de la Foire !</l>
 	<l id='18'>Tin, terlintin, terlintin, terlintin ;</l>
-	<l id='19'>Et pour en garder la mémoire,</l>
+	<l id='19'>Et pour en garder la mÃ©moire,</l>
 	<l id='20'>D'avoir perdu tant de latin.</l>
 </sp>
-<sp who='LA COMÉDIE ITALIENNE'><speaker>LA COMÉDIE ITALIENNE.</speaker>
-<stage>AIR Que Dieu bénisse la besogne.</stage>
+<sp who='LA COMÃ‰DIE ITALIENNE'><speaker>LA COMÃ‰DIE ITALIENNE.</speaker>
+<stage>AIR Que Dieu bÃ©nisse la besogne.</stage>
 	<l id='21'>Il tire sans cesse sur nous,</l>
 	<l id='22'>Nous donne souvent du dessous.</l>
 </sp>
-<sp who='LA COMÉDIE FRANÇAISE'><speaker>LA COMÉDIE FRANÇAISE.</speaker>
+<sp who='LA COMÃ‰DIE FRANÃ‡AISE'><speaker>LA COMÃ‰DIE FRANÃ‡AISE.</speaker>
 	<l id='23'>Il a, ma foi, fait des sorties,</l>
 	<l id='24'>Que nous avons bien ressenties.</l>
 <stage>AIR 125. Comment faite ?</stage>
 	<l id='25'>Mais contre fortune bon coeur ;</l>
 	<l id='26'>Il nous faut reprendre vigueur.</l>
-	<l id='27'>Ne consultons que la colère.</l>
+	<l id='27'>Ne consultons que la colÃ¨re.</l>
 </sp>
-<sp who='LA COMÉDIE ITALIENNE'><speaker>LA COMÉDIE ITALIENNE.</speaker>
-	<l id='28'>Oui, mais, après mille travaux,</l>
+<sp who='LA COMÃ‰DIE ITALIENNE'><speaker>LA COMÃ‰DIE ITALIENNE.</speaker>
+	<l id='28'>Oui, mais, aprÃ¨s mille travaux,</l>
 	<l id='29'>Nos vieux Soldats sont tous manchots :</l>
 	<l id='30'>Comment faire ?</l>
 </sp>
-<sp who='LA COMÉDIE FRANÇAISE'><speaker>LA COMÉDIE FRANÇAISE.</speaker>
+<sp who='LA COMÃ‰DIE FRANÃ‡AISE'><speaker>LA COMÃ‰DIE FRANÃ‡AISE.</speaker>
 <p id="1">
 	<s id="1">Oh ! </s>
 	<s id='2'>Vraiment, je ne serais point en peine si "Brutus et Catilina" me venaient secourir, comme ils me l'ont promis : mais je ne puis compter sur ces grands guerriers...</s>
 </p>
 <stage>AIR 28. Le vin a des charmes puissants.</stage>
-<note type="C">C'est cette même pièce dont il est parlé dans les Spectacles malades. [NdA]</note>
+<note type="C">C'est cette mÃªme piÃ¨ce dont il est parlÃ© dans les Spectacles malades. [NdA]</note>
 	<l id='31'>Catilina, par sa lenteur,</l>
-	<l id='32'>Me laisserait réduire en poudre :</l>
-<note type="C">Tragédie nouvelle, que son auteur retira après en avoir distribué les rôles.</note>
-	<l id='33'>Brutus devient un déserteur,</l>
-	<l id='34'>Quand il voit qu'il faut en découdre.</l>
+	<l id='32'>Me laisserait rÃ©duire en poudre :</l>
+<note type="C">TragÃ©die nouvelle, que son auteur retira aprÃ¨s en avoir distribuÃ© les rÃ´les.</note>
+	<l id='33'>Brutus devient un dÃ©serteur,</l>
+	<l id='34'>Quand il voit qu'il faut en dÃ©coudre.</l>
 </sp>
-<sp who='LA COMÉDIE ITALIENNE'><speaker>LA COMÉDIE ITALIENNE.</speaker>
+<sp who='LA COMÃ‰DIE ITALIENNE'><speaker>LA COMÃ‰DIE ITALIENNE.</speaker>
 <p id='2'>
-	<s id='1'>Cela est fâcheux pour nous. </s>
+	<s id='1'>Cela est fÃ¢cheux pour nous. </s>
 	<s id='2'>Il nous faudrait pourtant quelque puissant secours,</s>
 </p>
 </sp>
-<sp who='LA COMÉDIE FRANÇAISE'><speaker>LA COMÉDIE FRANÇAISE.</speaker>
+<sp who='LA COMÃ‰DIE FRANÃ‡AISE'><speaker>LA COMÃ‰DIE FRANÃ‡AISE.</speaker>
 <p id='3'>
-	<s id='1'>J'espère que bientôt nous en aurons un qui nous délivrera de nos Ennemis. </s>
-	<s id='2'>C'est un monstre de ma connaissance à qui j'ai envoyé ordre de se rendre ici.</s>
+	<s id='1'>J'espÃ¨re que bientÃ´t nous en aurons un qui nous dÃ©livrera de nos Ennemis. </s>
+	<s id='2'>C'est un monstre de ma connaissance Ã  qui j'ai envoyÃ© ordre de se rendre ici.</s>
 </p>
 </sp>
-<sp who='LA COMÉDIE ITALIENNE'><speaker>LA COMÉDIE ITALIENNE.</speaker>
+<sp who='LA COMÃ‰DIE ITALIENNE'><speaker>LA COMÃ‰DIE ITALIENNE.</speaker>
 <p id='4'>
 	<s id='1'>Ho-ho !</s>
 </p>
 </sp>
-<sp who='LA COMÉDIE FRANÇAISE'><speaker>LA COMÉDIE FRANÇAISE.</speaker>
+<sp who='LA COMÃ‰DIE FRANÃ‡AISE'><speaker>LA COMÃ‰DIE FRANÃ‡AISE.</speaker>
 <stage>AIR Joconde.</stage>
 	<l id='35'>Ce Monstre en malice n'a pas</l>
 	<l id='36'>Son pareil fur la Terre :</l>
-	<l id='37'>Il fait cent fois plus de dégâts</l>
+	<l id='37'>Il fait cent fois plus de dÃ©gÃ¢ts</l>
 	<l id='38'>Que la Peste et la Guerre ;</l>
 <note type="L">Escalin : Petite monnaie d'argent valant environ sept sous monnaie de France, qui a cours aux Pays-Bas et ailleurs.</note>
-	<l id='39'>Il fait d'écus, et d'escalins</l>
+	<l id='39'>Il fait d'Ã©cus, et d'escalins</l>
 	<l id='40'>Tous ses repas funestes ;</l>
 	<l id='41'>Les Veuves et les Orphelins</l>
 	<l id='42'>Ne mangent que ses restes.</l>
 </sp>
-<sp who="LA COMÉDIE ITALIENNE"><speaker>LA COMÉDIE ITALIENNE.</speaker>
+<sp who="LA COMÃ‰DIE ITALIENNE"><speaker>LA COMÃ‰DIE ITALIENNE.</speaker>
 <p id='5'>
 	<s id='1'>Que me dites-vous !</s>
 </p>
 </sp>
-<sp who='LA COMÉDIE FRANÇAISE'><speaker>LA COMÉDIE FRANÇAISE.</speaker>
+<sp who='LA COMÃ‰DIE FRANÃ‡AISE'><speaker>LA COMÃ‰DIE FRANÃ‡AISE.</speaker>
 <stage>AIR  Amis, sans regretter Paris.</stage>
 	<l id='43'>Du Manceau, comme du Normand,</l>
-	<l id='44'>Cette Bête est l'organe.</l>
+	<l id='44'>Cette BÃªte est l'organe.</l>
 	<l id='45'>Elle est des environs de Caen.</l>
 </sp>
-<sp who='LA COMÉDIE ITALIENNE'><speaker>LA COMÉDIE ITALIENNE.</speaker>
+<sp who='LA COMÃ‰DIE ITALIENNE'><speaker>LA COMÃ‰DIE ITALIENNE.</speaker>
 	<l id='46'>Ha ! C'est donc la Chicane !</l>
 </sp>
-<sp who='LA COMÉDIE FRANÇAISE'><speaker>LA COMÉDIE FRANÇAISE.</speaker>
+<sp who='LA COMÃ‰DIE FRANÃ‡AISE'><speaker>LA COMÃ‰DIE FRANÃ‡AISE.</speaker>
 <p id='6'>
-	<s id='1'>Vous l'avez deviné. </s>
+	<s id='1'>Vous l'avez devinÃ©. </s>
 	<s id='2'>Je l'attends... </s>
 	<s id='3'>Mais, tenez, la voici.</s>
 </p>
 </sp>
-<sp who='LA COMÉDIE ITALIENNE'><speaker>LA COMÉDIE ITALIENNE.</speaker>
+<sp who='LA COMÃ‰DIE ITALIENNE'><speaker>LA COMÃ‰DIE ITALIENNE.</speaker>
 <p id='7'>
 	<s id='1'>O che bruta figura !</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='2'><head>SCÈNE II. Les deux Comédies, La Chicane suivi de l'Envie et de la Fraude.</head>
-<sp who='LA CHICANE'><speaker>LA CHICANE, à la Comédie Française,</speaker>
-<stage>AIR 194. En bâche Normandie.</stage>
-	<l id='47'>En bâche Normandie</l>
-	<l id='48'>Ton ordre a pénétré,</l>
+<div2 type="scene" n='2'><head>SCÃˆNE II. Les deux ComÃ©dies, La Chicane suivi de l'Envie et de la Fraude.</head>
+<sp who='LA CHICANE'><speaker>LA CHICANE, Ã  la ComÃ©die FranÃ§aise,</speaker>
+<stage>AIR 194. En bÃ¢che Normandie.</stage>
+	<l id='47'>En bÃ¢che Normandie</l>
+	<l id='48'>Ton ordre a pÃ©nÃ©trÃ©,</l>
 	<l id='49'>O chuch' ma fey !</l>
 	<l id='50'>Je viens t'offrir, ma Mie,,</l>
 	<l id='51'>Tout le pouvoir que j'ay.;</l>
 	<l id='52'>O chuch' ma fey.</l>
-	<l id='53'>Vér' guieu m'damne !</l>
-	<l id='54'>Donn' z'au guiéble !</l>
-	<l id='55'>Qui se prend à tey,</l>
-	<l id='56'>Se prend à mey,</l>
+	<l id='53'>VÃ©r' guieu m'damne !</l>
+	<l id='54'>Donn' z'au guiÃ©ble !</l>
+	<l id='55'>Qui se prend Ã  tey,</l>
+	<l id='56'>Se prend Ã  mey,</l>
 	<l id='57'>O chuch' ma fey !</l>
 </sp>
-<sp who='LA COMÉDIE FRANÇAISE'><speaker>LA COMÉDIE FRANÇAISE.</speaker>
-<stage>AIR Le fameux Diogène.</stage>
-	<l id='58'>Sur l'Opéra-Comique,</l>
+<sp who='LA COMÃ‰DIE FRANÃ‡AISE'><speaker>LA COMÃ‰DIE FRANÃ‡AISE.</speaker>
+<stage>AIR Le fameux DiogÃ¨ne.</stage>
+	<l id='58'>Sur l'OpÃ©ra-Comique,</l>
 	<l id='59'>Et sur toute sa clique</l>
 	<l id='60'>Exerce ta fureur ;</l>
 	<l id='61'>Massacre cette race ;</l>
 	<l id='62'>Va remplir cette place</l>
 	<l id='63'>De carnage et d'horreur.</l>
 </sp>
-<sp who='LA CHICANE'><speaker>LA CHICANE, à sa Suite.</speaker>
-<stage>AIR C'est à toi, mon Camarade, à qui je livre l'assaut.</stage>
+<sp who='LA CHICANE'><speaker>LA CHICANE, Ã  sa Suite.</speaker>
+<stage>AIR C'est Ã  toi, mon Camarade, Ã  qui je livre l'assaut.</stage>
 	<l id='64'>Venez, l'Envie et la Fraude,</l>
 	<l id='65'>Allons leur donner l'assaut :</l>
-	<l id='66'>Cà, çà , çà, qu'on les galvaude</l>
+	<l id='66'>CÃ , Ã§Ã  , Ã§Ã , qu'on les galvaude</l>
 	<l id='67'>Vaude, vaude,</l>
-	<l id='68'>Çà, çà , çà, qu'on les galvaude</l>
+	<l id='68'>Ã‡Ã , Ã§Ã  , Ã§Ã , qu'on les galvaude</l>
 	<l id='69'>Comme il faut.</l>
 <stage>L'Envie et la Fraude, l'une tenant un poignard et, l'autre un flambeau, vont escalader le Fort sous les ordres de la Chicane.</stage>
 </sp>
 </div2>
-<div2 type='scene' n='3'><head>SCÈNE III. Les Acteurs de la Scène précédente ; troupe d'acteurs forains, paraissant aux crénaux du fort.</head>
+<div2 type="scene" n='3'><head>SCÃˆNE III. Les Acteurs de la ScÃ¨ne prÃ©cÃ©dente ; troupe d'acteurs forains, paraissant aux crÃ©naux du fort.</head>
 <sp who='CHOEUR DE FORAINS'><speaker>CHOEUR DE FORAINS.</speaker>
 <stage>AIR 195. Parodie d'Armide.</stage>
 	<l id='70'>Ah ! Quels objets horribles !</l>
 	<l id='71'>Ah ! Quels Monstres terribles !</l>
 </sp>
-<sp who='LA COMÉDIE ITALIENNE'><speaker>LA COMÉDIE ITALIENNE, à la Comédie Française.</speaker>
+<sp who='LA COMÃ‰DIE ITALIENNE'><speaker>LA COMÃ‰DIE ITALIENNE, Ã  la ComÃ©die FranÃ§aise.</speaker>
 <p id='1'>
 	<s id='1'>L'alarme est au quartier.</s>
 </p>
 </sp>
 <sp who='MEZZETIN'><speaker>MEZZETIN.</speaker>
 <stage>AIR Y-avance, y-avance.</stage>
-	<l id='72'>Vole à nous, Cousin l'Opéra ?</l>
-	<l id='73'>Contre ces vilains : monstres-là</l>
-	<l id='74'>Tu dois prendre notre défense.</l>
+	<l id='72'>Vole Ã  nous, Cousin l'OpÃ©ra ?</l>
+	<l id='73'>Contre ces vilains : monstres-lÃ </l>
+	<l id='74'>Tu dois prendre notre dÃ©fense.</l>
 </sp>
 <sp who='CHOEUR DE FORAINS'><speaker>CHOEUR DE FORAINS.</speaker>
 	<l id='75'>Y-avance, y-avance, y-avance !</l>
@@ -246,34 +246,34 @@
 	<l id='76'>Nous payons bien ton assistance.</l>
 </sp>
 </div2>
-<div2 type='scene' n='4'><head>SCÈNE IV. Les Acteurs de la scène précédente, L'Opéra l'épée à la main, Suivant de l'Opéra portant des chaînes.</head>
-<sp who="L'OPÉRA"><speaker>L'OPÉRA.</speaker>
+<div2 type="scene" n='4'><head>SCÃˆNE IV. Les Acteurs de la scÃ¨ne prÃ©cÃ©dente, L'OpÃ©ra l'Ã©pÃ©e Ã  la main, Suivant de l'OpÃ©ra portant des chaÃ®nes.</head>
+<sp who="L'OPÃ‰RA"><speaker>L'OPÃ‰RA.</speaker>
 <stage>AIR 196 Combattants de Cadmus.</stage>
 	<l id='77'>Qu'est-ce donc que cela ?</l>
 </sp>
 <sp who='CHOEUR DE FORAINS'><speaker>CHOEUR DE FORAINS.</speaker>
-	<l id='78'>Bon, le voilà !</l>
+	<l id='78'>Bon, le voilÃ  !</l>
 </sp>
-<sp who="L'OPÉRA"><speaker>L'OPÉRA, aux Forains.</speaker>
-	<l id='79'>Oui, mes Enfants, l'Opéra</l>
-	<l id='80'>Toujours vous protégera.</l>
-<stage>Aux deux Comédies.</stage>
+<sp who="L'OPÃ‰RA"><speaker>L'OPÃ‰RA, aux Forains.</speaker>
+	<l id='79'>Oui, mes Enfants, l'OpÃ©ra</l>
+	<l id='80'>Toujours vous protÃ©gera.</l>
+<stage>Aux deux ComÃ©dies.</stage>
 	<l id='81'>Quoi ? Vous ne voudrez donc jamais</l>
 	<l id='82'>Laisser mes Amis en paix !</l>
-	<l id='83'>Je vous écraserai tous.</l>
+	<l id='83'>Je vous Ã©craserai tous.</l>
 	<l id='84'>Redoutez mes coups,</l>
-	<l id='85'>Ô Coeurs jaloux !</l>
-	<l id='86'>Fuyez, fuyez, éloignez- vous,</l>
-	<l id='87'>Pour éviter mon courroux.</l>
-<stage>Les deux Comédies prennent la fuite, [comme] en fait l'Envíe et la Fraude, L'Opéra courtise la Chicane.</stage>>
+	<l id='85'>Ã” Coeurs jaloux !</l>
+	<l id='86'>Fuyez, fuyez, Ã©loignez- vous,</l>
+	<l id='87'>Pour Ã©viter mon courroux.</l>
+<stage>Les deux ComÃ©dies prennent la fuite, [comme] en fait l'EnvÃ­e et la Fraude, L'OpÃ©ra courtise la Chicane.</stage>>
 	<l id='88'>Et toi, Monstre fatal,</l>
 	<l id='89'>Affreux Animal,</l>
-	<l id='90'>Échappé du séjour infernal !</l>
-	<l id='91'>À nous tu t'adresses bien mal.</l>
+	<l id='90'>Ã‰chappÃ© du sÃ©jour infernal !</l>
+	<l id='91'>Ã€ nous tu t'adresses bien mal.</l>
 <stage>Frappant la Chicanne.</stage>
-	<l id='92'>Reçois, Méchant,</l>
+	<l id='92'>ReÃ§ois, MÃ©chant,</l>
 	<l id='93'>Dans ce moment,</l>
-	<l id='94'>Ton châtiment.</l>
+	<l id='94'>Ton chÃ¢timent.</l>
 	<l id='95'>Pour ton tourment,</l>
 	<l id='96'>Je vais promptement</l>
 	<l id='97'>Te lier fortement,</l>
@@ -282,20 +282,20 @@
 <p id='1'>
 	<s id='1'>Tous les maux que par toi les Forains ont soufferts.</s>
 </p>
-<stage>II pousse la Chicane dans la Coulisse , en la frappant toujours, pendant que son Suivant la charge de chaînes. Dans le temps que cela se fait, les Forains chantent ce qui fuit.</stage>
+<stage>II pousse la Chicane dans la Coulisse , en la frappant toujours, pendant que son Suivant la charge de chaÃ®nes. Dans le temps que cela se fait, les Forains chantent ce qui fuit.</stage>
 </sp>
 <sp who='PIERRETTE'><speaker>PIERRETTE, du haut des Murs.</speaker>
-<stage>AIR 36. Perrette étant dessus l'herbette.</stage>
+<stage>AIR 36. Perrette Ã©tant dessus l'herbette.</stage>
 	<l id='100'>Quelle horreur ! Quel triste ravage !</l>
 	<l id='101'>Le Monstre redouble sa rage !</l>
-	<l id='102'>L'Opéra s'expose pour nous !</l>
+	<l id='102'>L'OpÃ©ra s'expose pour nous !</l>
 	<l id='103'>Grands Dieux, donnez-lui l'avantage,</l>
 	<l id='104'>Conduisez son bras et ses coups !</l>
 </sp>
 <sp who='MEZZETIN'><speaker>MEZZETIN.</speaker>
 <stage>AIR Des Fraises.</stage>
-	<l id='105'>Amis, réjouissons-nous :</l>
-	<l id='106'>L'Opéra , plein de gloire,</l>
+	<l id='105'>Amis, rÃ©jouissons-nous :</l>
+	<l id='106'>L'OpÃ©ra , plein de gloire,</l>
 	<l id='107'>Vient d'abattre sous ses coups</l>
 	<l id='108'>la Chicane. Chantons tous :</l>
 	<l id='109'>Victoire ! Victoire ! Victoire !</l>
@@ -303,43 +303,43 @@
 <sp who='CHOEUR DE FORAINS'><speaker>CHOEUR DE FORAINS.</speaker>
 	<l id='110'>Victoire ! Victoire ! Victoire !</l>
 <stage>Le Choeur continue.</stage>
-<stage>AIR 197. Parodie du Prologue de Phaéton.</stage>
-	<l id='111'>Que du nom d'Opéra retentissent les airs !</l>
+<stage>AIR 197. Parodie du Prologue de PhaÃ©ton.</stage>
+	<l id='111'>Que du nom d'OpÃ©ra retentissent les airs !</l>
 	<l id='112'>Rien ne peut nous troubler, la Chicane est aux fers.</l>
 </sp>
-<sp who="L'OPÉRA"><speaker>L'OPÉRA, aux Forains.</speaker>
-<stage>AIR Quand le péril est agréable.</stage>
+<sp who="L'OPÃ‰RA"><speaker>L'OPÃ‰RA, aux Forains.</speaker>
+<stage>AIR Quand le pÃ©ril est agrÃ©able.</stage>
 	<l id='113'>Enfants, j'ai fini mon ouvrage.</l>
 	<l id='114'>Je ne puis plus rien pour vos jours :</l>
 	<l id='115'>N'attendez plus d'autre secours</l>
 	<l id='116'>Que de votre courage.</l>
-<stage>II s'en va emmenant avec lui la Chicane enchaînée.</stage>
+<stage>II s'en va emmenant avec lui la Chicane enchaÃ®nÃ©e.</stage>
 </sp>
 </div2>
-<div2 type='scene' n='5'><head>SCÈNE V. Les deux comédies.</head>
-<sp who='LA COMÉDIE FRANÇAISE'><speaker>LA COMÉDIE FRANÇAISE.</speaker>
+<div2 type="scene" n='5'><head>SCÃˆNE V. Les deux comÃ©dies.</head>
+<sp who='LA COMÃ‰DIE FRANÃ‡AISE'><speaker>LA COMÃ‰DIE FRANÃ‡AISE.</speaker>
 AIR Dans un Couvent bien-heureux.
-	<l id='117'>Ciel ! Qui l'aurait pu prévoir !</l>
+	<l id='117'>Ciel ! Qui l'aurait pu prÃ©voir !</l>
 </sp>
-<sp who='LA COMÉDIE ITALIENNE'><speaker>LA COMÉDIE ITALIENNE.</speaker>
-	<l id='118'>Ha ! Que la peste le crève,</l>
-	<l id='119'>L'Opéra qui nous enlève</l>
+<sp who='LA COMÃ‰DIE ITALIENNE'><speaker>LA COMÃ‰DIE ITALIENNE.</speaker>
+	<l id='118'>Ha ! Que la peste le crÃ¨ve,</l>
+	<l id='119'>L'OpÃ©ra qui nous enlÃ¨ve</l>
 	<l id='120'>Notre plus charmant espoir !</l>
 </sp>
-<sp who='LA COMÉDIE FRANÇAISE'><speaker>LA COMÉDIE FRANÇAISE.</speaker>
-	<l id='121'>Ne perdons point l'espérance</l>
-	<l id='122'>De voir les Forains périr.</l>
-	<l id='123'>Il faut à notre vengeance</l>
+<sp who='LA COMÃ‰DIE FRANÃ‡AISE'><speaker>LA COMÃ‰DIE FRANÃ‡AISE.</speaker>
+	<l id='121'>Ne perdons point l'espÃ©rance</l>
+	<l id='122'>De voir les Forains pÃ©rir.</l>
+	<l id='123'>Il faut Ã  notre vengeance</l>
 	<l id='124'>Les immoler, ou mourir.</l>
 </sp>
-<sp who='LA COMÉDIE ITALIENNE'><speaker>LA COMÉDIE ITALIENNE.</speaker>
+<sp who='LA COMÃ‰DIE ITALIENNE'><speaker>LA COMÃ‰DIE ITALIENNE.</speaker>
 <p id='1'>
 	<s id='1'>C'est bien dit. </s>
 	<s id='2'>Mais conduisons-nous prudemment.</s>
 </p>
-<stage>AIR Le Cabaret est mon réduit.</stage>
-	<l id='125'>Ils se rendront sans coup férir,</l>
-	<l id='126'>Ou je veux y brûler mes livres.</l>
+<stage>AIR Le Cabaret est mon rÃ©duit.</stage>
+	<l id='125'>Ils se rendront sans coup fÃ©rir,</l>
+	<l id='126'>Ou je veux y brÃ»ler mes livres.</l>
 	<l id='127'>Pour les prendre fans ,courir ,</l>
 	<l id='128'>Il faut leur couper les vivres.</l>
 	<l id='129' part='i'>Il faut leur couper </l>
@@ -347,154 +347,154 @@ AIR Dans un Couvent bien-heureux.
 	<l id='129' part='f'>les vivres,</l>
 </sp>
 </div2>
-<div2 type='scene' n='6'><head>SCÈNE VI. Les deux Comédies, Scaramouche.</head>
+<div2 type="scene" n='6'><head>SCÃˆNE VI. Les deux ComÃ©dies, Scaramouche.</head>
 <sp who='SCARAMOUCHE'><speaker>SCARAMOUCHE.</speaker>
 <p id='1'>
 	<s id='1'>Grande nouvelle, Mesdames, grande nouvelle !</s>
 </p>
 </sp>
-<sp who='LA COMÉDIE ITALIENNE'><speaker>LA COMÉDIE ITALIENNE.</speaker>
+<sp who='LA COMÃ‰DIE ITALIENNE'><speaker>LA COMÃ‰DIE ITALIENNE.</speaker>
 <p id='2'>
 	<s id='1'>Qu'y a-t-il donc, Scaramouche ?</s>
 </p>
 </sp>
 <sp who="SCARAMOUCHE"><speaker>SCARAMOUCHE.</speaker>
-<stage>AIR Je ne suis né, ni Roi, ni Prince.</stage>
-<note type="C">Le Malade par complaisance est un opéra comique de Boisard de Ponteau, Fuzelier et Pannard, représenté le 3 février 1730 au Jeu de Paume de la rue de Buci et qui ne réussit pas. (Ms VP MS NA 228, Fo 28-91) </note>
+<stage>AIR Je ne suis nÃ©, ni Roi, ni Prince.</stage>
+<note type="C">Le Malade par complaisance est un opÃ©ra comique de Boisard de Ponteau, Fuzelier et Pannard, reprÃ©sentÃ© le 3 fÃ©vrier 1730 au Jeu de Paume de la rue de Buci et qui ne rÃ©ussit pas. (Ms VP MS NA 228, Fo 28-91) </note>
 	<l id='130'>Le Malade par complaisance</l>
-	<l id='131'>À petit pas ici s'avance,</l>
-	<l id='132'>Escorté d'un joli garçon,</l>
-<note type="C">La Bal du Parnasse est un opéra comique de Fuzelier et Pannard, représenté le 15 août 1731 à la Foire Saint-Laurent et qui ne réussit pas. (Ms BnF FR-9337)</note>
-	<l id='133'>Appelé Le Bal du Parnasse.</l>
+	<l id='131'>Ã€ petit pas ici s'avance,</l>
+	<l id='132'>EscortÃ© d'un joli garÃ§on,</l>
+<note type="C">La Bal du Parnasse est un opÃ©ra comique de Fuzelier et Pannard, reprÃ©sentÃ© le 15 aoÃ»t 1731 Ã  la Foire Saint-Laurent et qui ne rÃ©ussit pas. (Ms BnF FR-9337)</note>
+	<l id='133'>AppelÃ© Le Bal du Parnasse.</l>
 	<l id='134'>Tous deux conduisent un Caisson,</l>
 	<l id='135'>Ils vont ravitailler la Place.</l>
 <stage>Il se retire.</stage>
 </sp>
 </div2>
-<div2 type='scene' n='7'><head>SCÈNE VII. Les deux Comédies.</head>
-<sp who='LA COMÉDIE FRANÇAISE'><speaker>LA COMÉDIE FRANÇAISE.</speaker>
+<div2 type="scene" n='7'><head>SCÃˆNE VII. Les deux ComÃ©dies.</head>
+<sp who='LA COMÃ‰DIE FRANÃ‡AISE'><speaker>LA COMÃ‰DIE FRANÃ‡AISE.</speaker>
 <p id='1'>
 	<s id='1'>C'est ce qu'il ne faut pas souffrir.</s>
 </p>
 </sp>
-<sp who='LA COMÉDIE ITALIENNE'><speaker>LA COMÉDIE ITALIENNE.</speaker>
+<sp who='LA COMÃ‰DIE ITALIENNE'><speaker>LA COMÃ‰DIE ITALIENNE.</speaker>
 <p id='2'>
 	<s id='1'>Quelles troupes leur opposerons-nous ?</s>
 </p>
 </sp>
-<sp who="LA COMÉDIE FRANÇAISE"><speaker>LA COMÉDIE FRANÇAISE.</speaker>
-<stage>AIR 22. Changement pique l'appétit.</stage>
-<note type="C">Abdili, roi de Grenade ou les maris embarrassés de Mme Flaminia et de Delsile e la Drevetière est une comédie en trois actes et en prose, représentée une fois à l'Hôtel de Bourgogne le 20 décembre 1729. (non imprimée)</note>
-	<l id='136'>Hé, mais, votre Roi de Grenade ,</l>
-<note type="C">Les Jeux Olympiques ou le Prince malade de La Grange-Chancel, est une comédie héroïque en trois actes et en vers, représentée à l'Hôtel de Bourgogne le 12 novembre 1729. (imprimée dans les oeuvres de l'Auteur)</note>
+<sp who="LA COMÃ‰DIE FRANÃ‡AISE"><speaker>LA COMÃ‰DIE FRANÃ‡AISE.</speaker>
+<stage>AIR 22. Changement pique l'appÃ©tit.</stage>
+<note type="C">Abdili, roi de Grenade ou les maris embarrassÃ©s de Mme Flaminia et de Delsile e la DrevetiÃ¨re est une comÃ©die en trois actes et en prose, reprÃ©sentÃ©e une fois Ã  l'HÃ´tel de Bourgogne le 20 dÃ©cembre 1729. (non imprimÃ©e)</note>
+	<l id='136'>HÃ©, mais, votre Roi de Grenade ,</l>
+<note type="C">Les Jeux Olympiques ou le Prince malade de La Grange-Chancel, est une comÃ©die hÃ©roÃ¯que en trois actes et en vers, reprÃ©sentÃ©e Ã  l'HÃ´tel de Bourgogne le 12 novembre 1729. (imprimÃ©e dans les oeuvres de l'Auteur)</note>
 	<l id='137'>Ou bien votre Prince Malade.</l>
 </sp>
-<sp who='LA COMÉDIE ITALIENNE'><speaker>LA COMÉDIE ITALIENNE.</speaker>
-	<l id='138'>Hélas ! Ignorez-vous leur sort ?</l>
+<sp who='LA COMÃ‰DIE ITALIENNE'><speaker>LA COMÃ‰DIE ITALIENNE.</speaker>
+	<l id='138'>HÃ©las ! Ignorez-vous leur sort ?</l>
 	<l id='139'>L'un ne vit plus, et l'autre est mort.</l>
 </sp>
-<sp who="LA COMÉDIE FRANÇAISE"><speaker>LA COMÉDIE FRANÇAISE.</speaker>
+<sp who="LA COMÃ‰DIE FRANÃ‡AISE"><speaker>LA COMÃ‰DIE FRANÃ‡AISE.</speaker>
 <p id='2'>
 	<s id='1'>Cela est bien triste.</s>
 </p>
 </sp>
-<sp who="LA COMÉDIE FRANÇAISE"><speaker>LA COMÉDIE FRANÇAISE.</speaker>
+<sp who="LA COMÃ‰DIE FRANÃ‡AISE"><speaker>LA COMÃ‰DIE FRANÃ‡AISE.</speaker>
 <p id='3'>
 	<s id='1'>N'avez-vous pas vos Philosophes amoureux ?</s>
 </p>
 </sp>
-<sp who="LA COMÉDIE FRANÇAISE"><speaker>LA COMÉDIE FRANÇAISE.</speaker>
+<sp who="LA COMÃ‰DIE FRANÃ‡AISE"><speaker>LA COMÃ‰DIE FRANÃ‡AISE.</speaker>
 <p id='4'>
 	<s id='1'>Non.</s>
 </p>
-<stage>AIR On n'aime point dans nos Forêts.</stage>
-<note type="C">Les Philosophes amoureux de Destouches, est une comédie en cinq actes et en vers, représentée au Théâtre de la rue des Fossés Saint-Germain le 26 novembre 1729. (imprimée Chez Lebreton en 1730)</note>
+<stage>AIR On n'aime point dans nos ForÃªts.</stage>
+<note type="C">Les Philosophes amoureux de Destouches, est une comÃ©die en cinq actes et en vers, reprÃ©sentÃ©e au ThÃ©Ã¢tre de la rue des FossÃ©s Saint-Germain le 26 novembre 1729. (imprimÃ©e Chez Lebreton en 1730)</note>
 	<l id='140'>Mes Philosophes amoureux</l>
 	<l id='141'>Viennent de partir pour leur Terre ;</l>
-	<l id='142'>Pour jamais dégoûtés tous deux</l>
-	<l id='143'>Du rude métier de la Guerre,</l>
+	<l id='142'>Pour jamais dÃ©goÃ»tÃ©s tous deux</l>
+	<l id='143'>Du rude mÃ©tier de la Guerre,</l>
 	<l id='144'>Voulant jouir d'un sort plus doux,</l>
-	<l id='145'>Ils sont allés planter des choux.</l>
+	<l id='145'>Ils sont allÃ©s planter des choux.</l>
 </sp>
-<sp who="LA COMÉDIE ITALIENNE"><speaker>LA COMÉDIE ITALIENNE.</speaker>
+<sp who="LA COMÃ‰DIE ITALIENNE"><speaker>LA COMÃ‰DIE ITALIENNE.</speaker>
 <p id='5'>
-	<s id='1'>Nous voilà bien embarrassées. </s>
-	<s id='2'>Attaquons nous-mêmes le convoi.</s>
+	<s id='1'>Nous voilÃ  bien embarrassÃ©es. </s>
+	<s id='2'>Attaquons nous-mÃªmes le convoi.</s>
 </p>
-<stage>AIR Ô reguingué ! Ô lonlanla !</stage>
+<stage>AIR Ã” reguinguÃ© ! Ã” lonlanla !</stage>
 	<l id='146'>Venez, secondez mon ardeur :</l>
 	<l id='147'>Montrons que nous avons du coeur ;</l>
 	<l id='148'>Deux hommes nous feront-ils peur ?</l>
 	<l id='149'>Ma Bonne, allez je vous proteste</l>
 	<l id='150'>Que nous leur donnerons leur reste.</l>
 </sp>
-<sp who="LA COMÉDIE FRANÇAISE"><speaker>LA COMÉDIE FRANÇAISE.</speaker>
+<sp who="LA COMÃ‰DIE FRANÃ‡AISE"><speaker>LA COMÃ‰DIE FRANÃ‡AISE.</speaker>
 <p id='6'>
-	<s id='1'>J'en fuis persuadée. </s>
+	<s id='1'>J'en fuis persuadÃ©e. </s>
 	<s id='2'>Courons au devant de l'ennemi.</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='8'><head>SCÈNE VIII. Les deux Comédies, Le Malade par complaisance, Le Bal du Parnasse conduisant un caisson.</head>
-<sp who="LA COMÉDIE FRANÇAISE"><speaker>LA COMÉDIE FRANÇAISE.</speaker>
-<stage>AIR À boire, à boire, à boire ! Nous quitterons nous etc.</stage>
-	<l id='151'>Mais à nous il arrive.</l>
+<div2 type="scene" n='8'><head>SCÃˆNE VIII. Les deux ComÃ©dies, Le Malade par complaisance, Le Bal du Parnasse conduisant un caisson.</head>
+<sp who="LA COMÃ‰DIE FRANÃ‡AISE"><speaker>LA COMÃ‰DIE FRANÃ‡AISE.</speaker>
+<stage>AIR Ã€ boire, Ã  boire, Ã  boire ! Nous quitterons nous etc.</stage>
+	<l id='151'>Mais Ã  nous il arrive.</l>
 </sp>
-<sp who="LA COMÉDIE ITALIENNE"><speaker>LA COMÉDIE ITALIENNE, au Malade etc.</speaker>
+<sp who="LA COMÃ‰DIE ITALIENNE"><speaker>LA COMÃ‰DIE ITALIENNE, au Malade etc.</speaker>
 	<l id='152'>Qui vive ? Qui vive ? Qui vive ?</l>
 </sp>
 <sp who='LE MALADE'><speaker>LE MALADE.</speaker>
-	<l id='153'>Vive le Comique-Opéra.</l>
+	<l id='153'>Vive le Comique-OpÃ©ra.</l>
 </sp>
-<sp who="LA COMÉDIE FRANÇAISE"><speaker>LA COMÉDIE FRANÇAISE, le pistolet à la main.</speaker>
-	<l id='154'>Messieurs les Guerriers, halte-là !</l>
-<stage>AIR 198. Des Fêtes Vénitiennes.</stage>
-	<l id='155'>Songez à vous défendre.</l>
+<sp who="LA COMÃ‰DIE FRANÃ‡AISE"><speaker>LA COMÃ‰DIE FRANÃ‡AISE, le pistolet Ã  la main.</speaker>
+	<l id='154'>Messieurs les Guerriers, halte-lÃ  !</l>
+<stage>AIR 198. Des FÃªtes VÃ©nitiennes.</stage>
+	<l id='155'>Songez Ã  vous dÃ©fendre.</l>
 	<l id='156'>Tout Forain est notre ennemi.</l>
 </sp>
-<sp who="LA COMÉDIE ITALIENNE"><speaker>LA COMÉDIE ITALIENNE, l'épée à la main, au Malade, lui poussant une botte.</speaker>
+<sp who="LA COMÃ‰DIE ITALIENNE"><speaker>LA COMÃ‰DIE ITALIENNE, l'Ã©pÃ©e Ã  la main, au Malade, lui poussant une botte.</speaker>
 <stage>AIR 86 Je fuis un bon Soldat : Ti , ta, ta !</stage>
-	<l id='157'>Pare moi celle-là :</l>
+	<l id='157'>Pare moi celle-lÃ  :</l>
 	<l id='158'>Ti, ta, ta !</l>
-	<l id='159'>Hé ! Tire donc ta lame !</l>
+	<l id='159'>HÃ© ! Tire donc ta lame !</l>
 </sp>
-<sp who="LA COMÉDIE FRANÇAISE"><speaker>LA COMÉDIE FRANÇAISE, au Bal,lui mettant le Pistolet sur l'estomac.</speaker>
-	<l id='160'>Et toi, résistes-tu ?</l>
+<sp who="LA COMÃ‰DIE FRANÃ‡AISE"><speaker>LA COMÃ‰DIE FRANÃ‡AISE, au Bal,lui mettant le Pistolet sur l'estomac.</speaker>
+	<l id='160'>Et toi, rÃ©sistes-tu ?</l>
 	<l id='161'>Tu, tu, tu ?</l>
-	<l id='162'>Je vais te brûler l'âme.</l>
+	<l id='162'>Je vais te brÃ»ler l'Ã¢me.</l>
 </sp>
-<sp who="LA COMÉDIE ITALIENNE"><speaker>LA COMÉDIE ITALIENNE, au Malade.</speaker>
+<sp who="LA COMÃ‰DIE ITALIENNE"><speaker>LA COMÃ‰DIE ITALIENNE, au Malade.</speaker>
 <stage>AIR, Les Trembleurs.</stage>
 	<l id='163'>Ah ! Que vous avez de peine !</l>
 	<l id='164'>Allons donc mon Capitaine !</l>
-	<l id='165'>Voyez la belle dégaine !</l>
-<stage>Le Malade tire son épée lentement et la laisse tomber.</stage>
+	<l id='165'>Voyez la belle dÃ©gaine !</l>
+<stage>Le Malade tire son Ã©pÃ©e lentement et la laisse tomber.</stage>
 </sp>
-<sp who='LE BAL'><speaker>LE BAL, à la Comédie Française.</speaker>
+<sp who='LE BAL'><speaker>LE BAL, Ã  la ComÃ©die FranÃ§aise.</speaker>
 	<l id='166'>Je vous demande quartier.</l>
 </sp>
-<sp who='LE MALADE'><speaker>LE MALADE, à genoux devant la Comédie Italienne, et lui rendant les armes.</speaker>
+<sp who='LE MALADE'><speaker>LE MALADE, Ã  genoux devant la ComÃ©die Italienne, et lui rendant les armes.</speaker>
 	<l id='167'>Madame de l'Italie,</l>
-	<l id='168'>Épargnez-moi, je vous prie !</l>
+	<l id='168'>Ã‰pargnez-moi, je vous prie !</l>
 	<l id='169'>Je n'ai qu'un souffle de vie...</l>
 	<l id='170'>Je suis votre prisonnier.</l>
 </sp>
-<sp who="LA COMÉDIE ITALIENNE"><speaker>LA COMÉDIE ITALIENNE.</speaker>
+<sp who="LA COMÃ‰DIE ITALIENNE"><speaker>LA COMÃ‰DIE ITALIENNE.</speaker>
 <p id='1'>
-	<s id='1'>Hé bien, soit. </s>
+	<s id='1'>HÃ© bien, soit. </s>
 	<s id='2'>Entrez dans ma tente avec vos vivres.</s>
 </p>
 </sp>
-<sp who="LA COMÉDIE FRANÇAISE"><speaker>LA COMÉDIE FRANÇAISE.</speaker>
+<sp who="LA COMÃ‰DIE FRANÃ‡AISE"><speaker>LA COMÃ‰DIE FRANÃ‡AISE.</speaker>
 <p id='2'>
 	<s id='1'>Oh ! </s>
 	<s id='2'>Pour les vivres, non. </s>
-	<s id='3'>Qu'on les conduise à notre Camp. </s>
+	<s id='3'>Qu'on les conduise Ã  notre Camp. </s>
 	<s id='4'>Nous en avons plus besoin que vous.</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='9'><head>SCÈNE IX. Les deux Comédies, Scaramouche.</head>
+<div2 type="scene" n='9'><head>SCÃˆNE IX. Les deux ComÃ©dies, Scaramouche.</head>
 <sp who="SCARAMOUCHE"><speaker>SCARAMOUCHE.</speaker>
 <stage>AIR Par bonheur, ou par malheur.</stage>
 	<l id='171'>La Reine du Barostan,</l>
@@ -505,50 +505,50 @@ AIR Dans un Couvent bien-heureux.
 	<l id='176'>Renforcer la Garnison.</l>
 <stage>Il se retire.</stage>
 </sp>
-<sp who="LA COMÉDIE ITALIENNE"><speaker>LA COMÉDIE ITALIENNE.</speaker>
+<sp who="LA COMÃ‰DIE ITALIENNE"><speaker>LA COMÃ‰DIE ITALIENNE.</speaker>
 <p id='1'>
-	<s id='1'>Elle n'a qu'à venir, pendant que nous sommes en train de ferrailler.</s>
+	<s id='1'>Elle n'a qu'Ã  venir, pendant que nous sommes en train de ferrailler.</s>
 </p>
 </sp>
-<sp who="LA COMÉDIE FRANÇAISE"><speaker>LA COMÉDIE FRANÇAISE, branlant la tête.</speaker>
+<sp who="LA COMÃ‰DIE FRANÃ‡AISE"><speaker>LA COMÃ‰DIE FRANÃ‡AISE, branlant la tÃªte.</speaker>
 <p id='2'>
 	<s id='1'>Hom ! </s>
-	<s id='2'>Nous allons peut-être trouver à qui parler. </s>
-	<s id='3'>Les Troupes Orientales m'inquiètent. </s>
-	<s id='4'>Elles nous ont souvent taillés des croupières... </s>
-	<s id='5'>Mais quel Personnage vient à nous ?</s>
+	<s id='2'>Nous allons peut-Ãªtre trouver Ã  qui parler. </s>
+	<s id='3'>Les Troupes Orientales m'inquiÃ¨tent. </s>
+	<s id='4'>Elles nous ont souvent taillÃ©s des croupiÃ¨res... </s>
+	<s id='5'>Mais quel Personnage vient Ã  nous ?</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='10'><head>SCÈNE X. Les deux Comédie, Callisthène.</head>
-<sp who='CALLISTHÈNE'><speaker>CALLISTHÈNE, déclamant, à la Comédie Française,</speaker>
-<note type="C">Callisthène est une tragédie en cinq actes et en vers d'Alexis Piron, représentée pour la première fois le 18 février 1830 au Théâtre de la rue des Fossés Saint-Germain.</note>
-	<l id='177'>Madame, vous voyez le bouillant Callisthéne.</l>
-	<l id='178'>En Chevalier Errant ,touché de votre peine,</l>
-	<l id='179'>Je viens vous présenter le secours de mon bras,</l>
+<div2 type="scene" n='10'><head>SCÃˆNE X. Les deux ComÃ©die, CallisthÃ¨ne.</head>
+<sp who='CALLISTHÃˆNE'><speaker>CALLISTHÃˆNE, dÃ©clamant, Ã  la ComÃ©die FranÃ§aise,</speaker>
+<note type="C">CallisthÃ¨ne est une tragÃ©die en cinq actes et en vers d'Alexis Piron, reprÃ©sentÃ©e pour la premiÃ¨re fois le 18 fÃ©vrier 1830 au ThÃ©Ã¢tre de la rue des FossÃ©s Saint-Germain.</note>
+	<l id='177'>Madame, vous voyez le bouillant CallisthÃ©ne.</l>
+	<l id='178'>En Chevalier Errant ,touchÃ© de votre peine,</l>
+	<l id='179'>Je viens vous prÃ©senter le secours de mon bras,</l>
 	<l id='180'>Qui vous vaudra lui seul des milliers de Soldats.</l>
 	<l id='181'>Pour louer ma valeur, il faut des hyperboles.</l>
 </sp>
-<sp who="LA COMÉDIE FRANÇAISE"><speaker>LA COMÉDIE FRANÇAISE.</speaker>
+<sp who="LA COMÃ‰DIE FRANÃ‡AISE"><speaker>LA COMÃ‰DIE FRANÃ‡AISE.</speaker>
 	<l id='182'>Il faut des actions, et non pas des paroles.</l>
 </sp>
-<sp who="LA COMÉDIE ITALIENNE"><speaker>LA COMÉDIE ITALIENNE.</speaker>
+<sp who="LA COMÃ‰DIE ITALIENNE"><speaker>LA COMÃ‰DIE ITALIENNE.</speaker>
 	<l id='183'>C'est le prendre en effet sur un assez haut ton.</l>
 </sp>
-<sp who='CALLISTHÈNE'><speaker>CALLISTHÈNE.</speaker>
-	<l id='184'>Vous verrez dès ce jour si je suis un Gascon.</l>
+<sp who='CALLISTHÃˆNE'><speaker>CALLISTHÃˆNE.</speaker>
+	<l id='184'>Vous verrez dÃ¨s ce jour si je suis un Gascon.</l>
 </sp>
-<sp who="LA COMÉDIE FRANÇAISE"><speaker>LA COMÉDIE FRANÇAISE.</speaker>
+<sp who="LA COMÃ‰DIE FRANÃ‡AISE"><speaker>LA COMÃ‰DIE FRANÃ‡AISE.</speaker>
 <stage>AIR 199. Lasson bredondaine.</stage>
-	<l id='185'>Mon brave Callisthène,</l>
+	<l id='185'>Mon brave CallisthÃ¨ne,</l>
 	<l id='186'>Lassi,</l>
 	<l id='187'>Lasson,</l>
 	<l id='188'>Lasson bredondaine :</l>
-	<l id='189'>Mon bonheur vous amène</l>
-	<l id='190'>Fort à propos ici :</l>
+	<l id='189'>Mon bonheur vous amÃ¨ne</l>
+	<l id='190'>Fort Ã  propos ici :</l>
 	<l id='191'>Patari,</l>
 	<l id='192'>Pataton :</l>
-	<l id='193'>Fort à propos ici, </l>
+	<l id='193'>Fort Ã  propos ici, </l>
 <stage>Bis.</stage>
 	<l id='194'>Pour combattre une Reine,</l>
 	<l id='195'>Lassi,</l>
@@ -558,123 +558,123 @@ AIR Dans un Couvent bien-heureux.
 	<l id='199'>Qui sert notre Ennemi.</l>
 <stage>En cet endroit, on entend le tambour qui bat la Marche des Dragons.</stage>
 </sp>
-<sp who="LA COMÉDIE ITALIENNE"><speaker>LA COMÉDIE ITALIENNE.</speaker>
+<sp who="LA COMÃ‰DIE ITALIENNE"><speaker>LA COMÃ‰DIE ITALIENNE.</speaker>
 <stage>AIR 200. Du Feu d'Artifice.</stage>
 	<l id='200'>Elle vient, ma foi ! Je l'entends.</l>
 	<l id='201'>Je la vois avec tous ses gens.</l>
 </sp>
-<sp who="LA COMÉDIE FRANÇAISE"><speaker>LA COMÉDIE FRANÇAISE, à Callisthène.</speaker>
-	<l id='202'>Opposez-vous à son passage,</l>
+<sp who="LA COMÃ‰DIE FRANÃ‡AISE"><speaker>LA COMÃ‰DIE FRANÃ‡AISE, Ã  CallisthÃ¨ne.</speaker>
+	<l id='202'>Opposez-vous Ã  son passage,</l>
 	<l id='203'>Et nous montrez votre courage :</l>
 	<l id='204'>Pan, pan, pan !</l>
 	<l id='205'>Allez-vous-en</l>
-<note type="C">L'Heureux dénouement ou la Reine de Barostan de Gilliers, d'Orneval, Lesage, le 08 février 1729 à la Foire Saint-Germain.</note>
-	<l id='206'>À la Reine du Barostan.</l>
+<note type="C">L'Heureux dÃ©nouement ou la Reine de Barostan de Gilliers, d'Orneval, Lesage, le 08 fÃ©vrier 1729 Ã  la Foire Saint-Germain.</note>
+	<l id='206'>Ã€ la Reine du Barostan.</l>
 <stage>Elle se retire.</stage>
 </sp>
-<sp who="LA COMÉDIE ITALIENNE"><speaker>LA COMÉDIE ITALIENNE, s'en allant.</speaker>
+<sp who="LA COMÃ‰DIE ITALIENNE"><speaker>LA COMÃ‰DIE ITALIENNE, s'en allant.</speaker>
 <stage>AIR  Voici les Dragons, etc. </stage>
 	<l id='207'>Voici les Dragons qui viennent,</l>
 	<l id='208'>Vite sauvons-nous !</l>
 </sp>
 </div2>
-<div2 type='scene' n='11'><head>SCÈNE XI. Callisthène, La Reine du Barostan, Les Couplets en Procès, un Tambour jouant la marche des Dragons, avec l'Orchestre.
+<div2 type="scene" n='11'><head>SCÃˆNE XI. CallisthÃ¨ne, La Reine du Barostan, Les Couplets en ProcÃ¨s, un Tambour jouant la marche des Dragons, avec l'Orchestre.
 </head> 
-<stage>Callisthéne fait un mouvement pour aller à l'Ennemi.</stage>
+<stage>CallisthÃ©ne fait un mouvement pour aller Ã  l'Ennemi.</stage>
 <sp who='LA REINE'><speaker>LA REINE, aux Couplets.</speaker>
 <stage>AIR 2O1.  Marche des Dragons.</stage>
 	<l id='209'>Allons, mes enfants, alerte !</l>
-	<l id='210'>On arrête ici nos pas,</l>
-	<l id='211'>L'Ennemi vient. Il court à sa perte.</l>
-	<l id='212'>Donnons dessus, ne l'épargnons pas.</l>
+	<l id='210'>On arrÃªte ici nos pas,</l>
+	<l id='211'>L'Ennemi vient. Il court Ã  sa perte.</l>
+	<l id='212'>Donnons dessus, ne l'Ã©pargnons pas.</l>
 </sp>
-<sp who='CALLISTHÈNE'><speaker>CALLISTHÈNE, l'épée à la main.</speaker>
-<stage>AIR 6  Ô turlutaine !</stage>
+<sp who='CALLISTHÃˆNE'><speaker>CALLISTHÃˆNE, l'Ã©pÃ©e Ã  la main.</speaker>
+<stage>AIR 6  Ã” turlutaine !</stage>
 	<l id='213'>Ne vous battez point, ma Reine ,</l>
 	<l id='214'>Contre un trop fort ennemi :</l>
-	<l id='215'>Rendez-vous à Callisthène.</l>
+	<l id='215'>Rendez-vous Ã  CallisthÃ¨ne.</l>
 </sp>
 <sp who='LA REINE'><speaker>LA REINE, d'un ton moqueur.</speaker>
-	<l id='216'>Ô turlutaine !</l>
+	<l id='216'>Ã” turlutaine !</l>
 </sp>
-<sp who='CALLISTHÈNE'><speaker>CALLISTHÈNE.</speaker>
+<sp who='CALLISTHÃˆNE'><speaker>CALLISTHÃˆNE.</speaker>
 	<l id='217'>Il vous fera bon parti.</l>
 </sp>
 <sp who='LA REINE'><speaker>LA REINE.</speaker>
 	<l id='218'>Turlutu, tantaleri !</l>
 </sp>
-<sp who='CALLISTHÈNE'><speaker>CALLISTHÈNE.</speaker>
+<sp who='CALLISTHÃˆNE'><speaker>CALLISTHÃˆNE.</speaker>
 <p id='1'>
 	<s id='1'>Prenez- y garde.</s>
 </p>
 <stage>AIR 88. Ha ! Voyez donc !</stage>
 	<l id='219'>Je suis un rude compagnon,</l>
-	<l id='220'>Et j'ai bien de l'école :</l>
+	<l id='220'>Et j'ai bien de l'Ã©cole :</l>
 <stage>Il fait de la pointe et de l'espadon.</stage>
-<note type="L">Espadon : grande et large épée qui a deux poignées, et qu'on tient à deux mains. [F]</note>
+<note type="L">Espadon : grande et large Ã©pÃ©e qui a deux poignÃ©es, et qu'on tient Ã  deux mains. [F]</note>
 	<l id='221'>J'y vais de pointe et d'espadon.</l>
 </sp>
 <sp who='LA REINE'><speaker>LA REINE.</speaker>
 	<l id='222'>Ha ! Voyez donc.</l>
 	<l id='223'>Ha ! Voyez donc.</l>
-	<l id='224'>Comment s'y prend le Drôle !</l>
+	<l id='224'>Comment s'y prend le DrÃ´le !</l>
 <stage>Aux Couplets.</stage>
 <p id='2'>
 	<s id='1'>Filez, Grivois, filez. Gagnez promptement le Fort.</s>
 </p>
 </sp>
-<sp who='CALLISTHÈNE'><speaker>CALLISTHÈNE, se préparant à leur barrer le passage.</speaker>
+<sp who='CALLISTHÃˆNE'><speaker>CALLISTHÃˆNE, se prÃ©parant Ã  leur barrer le passage.</speaker>
 <p id='3'>
-	<s id='1'>Je vais écharper votre escorte.</s>
+	<s id='1'>Je vais Ã©charper votre escorte.</s>
 </p>
 </sp>
-<sp who='LA REINE'><speaker>LA REINE, lui présentant sa demi-pique.</speaker>
+<sp who='LA REINE'><speaker>LA REINE, lui prÃ©sentant sa demi-pique.</speaker>
 <p id='4'>
-	<s id='1'>Plaît-il ?</s>
+	<s id='1'>PlaÃ®t-il ?</s>
 </p>
-<stage>Pendant ce temps-là les Couplets gagnent le Fort, dont on leur ouvre les portes.</stage>
+<stage>Pendant ce temps-lÃ  les Couplets gagnent le Fort, dont on leur ouvre les portes.</stage>
 </sp>
-<sp who='CALLISTHÈNE'><speaker>CALLISTHÈNE.</speaker>
-<stage>AIR 141. Badinez ; mais restez-en là.</stage>
+<sp who='CALLISTHÃˆNE'><speaker>CALLISTHÃˆNE.</speaker>
+<stage>AIR 141. Badinez ; mais restez-en lÃ .</stage>
 	<l id='225'>Je ne souffrirai pas qu'elle entre.</l>
 </sp>
-<sp who='LA REINE'><speaker>LA REINE, l'arrêtant toujours.</speaker>
+<sp who='LA REINE'><speaker>LA REINE, l'arrÃªtant toujours.</speaker>
 	<l id='226' part='i'>Tout beau, tout beau.</l>
 </sp>
-<sp who='CALLISTHÈNE'><speaker>CALLISTHÈNE.</speaker>
-	<l id='226' part='f'>Mort ! Tête ! Ventre !</l>
+<sp who='CALLISTHÃˆNE'><speaker>CALLISTHÃˆNE.</speaker>
+	<l id='226' part='f'>Mort ! TÃªte ! Ventre !</l>
 	<l id='227'>Je ne souffrirai pas cela.</l>
 </sp>
 <sp who='LA REINE'><speaker>LA REINE.</speaker>
 	<l id='228'>Menacez, grondez, pestez, criez, jurez,</l>
-	<l id='229'>Fulminez ; mais restez-en là.</l>
+	<l id='229'>Fulminez ; mais restez-en lÃ .</l>
 </sp>
-<sp who='CALLISTHÈNE'><speaker>CALLISTHÈNE.</speaker>
+<sp who='CALLISTHÃˆNE'><speaker>CALLISTHÃˆNE.</speaker>
 <p id='5'>
 	<s id='1'>Quoi ? </s>
-	<s id='2'>Il sera dit qu'une femme à ma Barbe...</s>
+	<s id='2'>Il sera dit qu'une femme Ã  ma Barbe...</s>
 </p>
 </sp>
 <sp who='LA REINE'><speaker>LA REINE.</speaker>
 <p id='6'>
 	<s id='1'>Croyez-moi, faites retraite. </s>
-	<s id='2'>Il n'y a rien à gagner ici pour vous.</s>
+	<s id='2'>Il n'y a rien Ã  gagner ici pour vous.</s>
 </p>
 </sp>
-<sp who='CALLISTHÈNE'><speaker>CALLISTHÈNE, se retirant.</speaker>
+<sp who='CALLISTHÃˆNE'><speaker>CALLISTHÃˆNE, se retirant.</speaker>
 <p id='7'>
 	<s id='1'>J'enrage !</s>
 </p>
 </sp>
-<sp who='LA REINE'><speaker>LA REINE, à part.</speaker>
+<sp who='LA REINE'><speaker>LA REINE, Ã  part.</speaker>
 <p id='8'>
 	<s id='1'>Rejoignons nos gens.</s>
 </p>
-<stage>Elle fait quelques pas pour se rendre au Fort, Le jeu de l'Amour et du Hasard l'arrête.</stage>
+<stage>Elle fait quelques pas pour se rendre au Fort, Le jeu de l'Amour et du Hasard l'arrÃªte.</stage>
 </sp>
 </div2>
-<div2 type='scene' n='12'><head>SCÈNE XII. La Reine du Barostan, Le Jeu de l'Amour et du Hasard.</head> 
-<sp who='LE JEU'><speaker>LE JEU, Arrêtant la Reine.</speaker>
+<div2 type="scene" n='12'><head>SCÃˆNE XII. La Reine du Barostan, Le Jeu de l'Amour et du Hasard.</head> 
+<sp who='LE JEU'><speaker>LE JEU, ArrÃªtant la Reine.</speaker>
 <stage>AIR Tique, tique, toque , et lonlanla.</stage>
 	<l id='230'>Attendez, Reine, attendez !</l>
 </sp>
@@ -682,26 +682,26 @@ AIR Dans un Couvent bien-heureux.
 	<l id='231'>Qu'est-ce que vous demandez ?</l>
 </sp>
 <sp who='LE JEU'><speaker>LE JEU.</speaker>
-<note type="C">Le Jeu de l'Amour et du hasard est une comédie en prose et en trois acte de Marivaux représentée pour la première fois le 23 janvier 1730 à l'Hôtel de Bourgogne.</note>
+<note type="C">Le Jeu de l'Amour et du hasard est une comÃ©die en prose et en trois acte de Marivaux reprÃ©sentÃ©e pour la premiÃ¨re fois le 23 janvier 1730 Ã  l'HÃ´tel de Bourgogne.</note>
 	<l id='232'>Contre vous, non sans alarmes :</l>
 	<l id='233'>Tique, tique, taque, et lonlanla !</l>
-	<l id='234'>je viens éprouver mes amies,</l>
+	<l id='234'>je viens Ã©prouver mes amies,</l>
 	<l id='235'>Je vous demande cela.</l>
 </sp>
 <sp who='LA REINE'><speaker>LA REINE.</speaker>
 <p id='1'>
-	<s id='1'>Qui êtes-vous ?</s>
+	<s id='1'>Qui Ãªtes-vous ?</s>
 </p>
 </sp>
 <sp who='LE JEU'><speaker>LE JEU.</speaker>
 <p id='2'>
 	<s id='1'>Je suis le Jeu de l'Amour et du Hasard.</s>
 </p>
-<stage>Il fait deux pas en arrière.</stage>
+<stage>Il fait deux pas en arriÃ¨re.</stage>
 <p id='3'>
 	<s id='1'>Mais que vois-je !</s>
 </p>
-<stage>AIR L'autre nuit j'aperçus en songe.</stage>
+<stage>AIR L'autre nuit j'aperÃ§us en songe.</stage>
 <note type="C">On trouvait quelque ressemblance entre le Jeu du Hazard et la Reine  du Barostan. [NdA]</note>
 	<l id='236'>Je trouve de la ressemblance,</l>
 	<l id='237'>Ma Princesse, entre vous et moi.</l>
@@ -717,86 +717,86 @@ AIR Dans un Couvent bien-heureux.
 	<l id='242'>Quel honneur pour moi, ma Reine !</l>
 </sp>
 <sp who='LA REINE'><speaker>LA REINE.</speaker>
-	<l id='243'>N'écoutons que notre haine.</l>
+	<l id='243'>N'Ã©coutons que notre haine.</l>
 </sp>
 <sp who='LE JEU'><speaker>LE JEU.</speaker>
 	<l id='244' part='i'>Je n'en ai plus.</l>
 </sp>
-<sp who='LA REINE'><speaker>LA REINE, lui présentant sa demi-pique.</speaker>
+<sp who='LA REINE'><speaker>LA REINE, lui prÃ©sentant sa demi-pique.</speaker>
 	<l id='244' part='f'>Battons-nous,</l>
-	<l id='245'>Mettez-vous vite en défense.</l>
+	<l id='245'>Mettez-vous vite en dÃ©fense.</l>
 </sp>
 <sp who='LE JEU'><speaker>LE JEU.</speaker>
-	<l id='246'>Non, j'ai trop de répugnance</l>
-	<l id='247'>À me battre contre vous.</l>
+	<l id='246'>Non, j'ai trop de rÃ©pugnance</l>
+	<l id='247'>Ã€ me battre contre vous.</l>
 <stage>II se retire et s'en va.</stage>
 </sp>
 </div2>
-<div2 type='scene' n='13'><head>SCÈNE XIII. La Reine du Barostan, La Comédie Italienne.</head>
-<sp who="LA COMÉDIE ITALIENNE"><speaker>LA COMÉDIE ITALIENNE.</speaker>
-<stage>AIR, C'est le Dieu des Eaux qui va paraître.</stage>
-<note type="L">Samson : Tragi-comédie en cinq actes et en vers de Romagnesi, représentée pour la première fois le 28 février 1730 à l'Hôtel de Bourgogne.</note>
-	<l id='248'>C'est le fort Samson qui va paraître :</l>
-	<l id='249'>Vous allez trouver votre Maître.</l>
+<div2 type="scene" n='13'><head>SCÃˆNE XIII. La Reine du Barostan, La ComÃ©die Italienne.</head>
+<sp who="LA COMÃ‰DIE ITALIENNE"><speaker>LA COMÃ‰DIE ITALIENNE.</speaker>
+<stage>AIR, C'est le Dieu des Eaux qui va paraÃ®tre.</stage>
+<note type="L">Samson : Tragi-comÃ©die en cinq actes et en vers de Romagnesi, reprÃ©sentÃ©e pour la premiÃ¨re fois le 28 fÃ©vrier 1730 Ã  l'HÃ´tel de Bourgogne.</note>
+	<l id='248'>C'est le fort Samson qui va paraÃ®tre :</l>
+	<l id='249'>Vous allez trouver votre MaÃ®tre.</l>
 </sp>
-<sp who='LA REINE'><speaker>LA REINE, à part, se sauvant.</speaker>
+<sp who='LA REINE'><speaker>LA REINE, Ã  part, se sauvant.</speaker>
 <p id='1'>
 	<s id='1'>Sauvons-nous dans la Forteresse.</s>
 </p>
-<stage>Elle va se réfugier dans le Fort, Les Trompettes annoncent Samson.</stage>
+<stage>Elle va se rÃ©fugier dans le Fort, Les Trompettes annoncent Samson.</stage>
 </sp>
 </div2>
-<div2 type='scene' n='14'><head>SCÈNE XIV. La Comédie Italienne, Samson, tenant une mâchoire d'âne.</head>
+<div2 type="scene" n='14'><head>SCÃˆNE XIV. La ComÃ©die Italienne, Samson, tenant une mÃ¢choire d'Ã¢ne.</head>
 <sp who='SAMSON'><speaker>SAMSON.</speaker>
 <stage>AIR 202. Matelots d'Hypermnestre.</stage>
-<note type="C">Samson : tragi-comédie en vers de Romagnesi, première le 28 février 1730 à l'Hôtel de Bourgogne. Alexis Piron a tenté de traiter le même sujet mais il ne l'acheva pas.</note>
-	<l id='250'>Où sont-ils,</l>
+<note type="C">Samson : tragi-comÃ©die en vers de Romagnesi, premiÃ¨re le 28 fÃ©vrier 1730 Ã  l'HÃ´tel de Bourgogne. Alexis Piron a tentÃ© de traiter le mÃªme sujet mais il ne l'acheva pas.</note>
+	<l id='250'>OÃ¹ sont-ils,</l>
 	<l id='251'>Ces Forains maudits ? </l>
-<note type="C">* Pièce italienne traduite en vers français qui faisait alors grand bruit aux Italiens. [NdA]</note>
+<note type="C">* PiÃ¨ce italienne traduite en vers franÃ§ais qui faisait alors grand bruit aux Italiens. [NdA]</note>
 	<l id='252'>Cette engeance,</l>
 	<l id='253'>Qui balance</l>
 	<l id='254'>Les forces de mes Amis ?</l>
 	<l id='255'>La fureur</l>
-	<l id='256'>Règne dans mon coeur.</l>
+	<l id='256'>RÃ¨gne dans mon coeur.</l>
 	<l id='257'>C'est en vain qu'une Citadelle</l>
-	<l id='258'>Entre ces murs recèle</l>
+	<l id='258'>Entre ces murs recÃ¨le</l>
 	<l id='259'>Des gens que glace la peur.</l>
 	<l id='260'>Par la mort !</l>
 	<l id='261'>Dans mon fier transport,</l>
-	<l id='262'>Ma. mâchoire d'âne ,</l>
-	<l id='263'>Tombant sur leur crâne,</l>
+	<l id='262'>Ma. mÃ¢choire d'Ã¢ne ,</l>
+	<l id='263'>Tombant sur leur crÃ¢ne,</l>
 	<l id='264'>Enverra</l>
-	<l id='265'>Chez Pluton ces Faquins-là.</l>
+	<l id='265'>Chez Pluton ces Faquins-lÃ .</l>
 </sp>
-<sp who="LA COMÉDIE ITALIENNE"><speaker>LA COMÉDIE ITALIENNE.</speaker>
-<stage>AIR 203 Par derrière et par devant.</stage>
+<sp who="LA COMÃ‰DIE ITALIENNE"><speaker>LA COMÃ‰DIE ITALIENNE.</speaker>
+<stage>AIR 203 Par derriÃ¨re et par devant.</stage>
 	<l id='266'>Suivez votre noble audace,</l>
 	<l id='267'>La victoire vous attend.</l>
 </sp>
 <sp who='SAMSON'><speaker>SAMSON.</speaker>
 	<l id='268'>De mon asinine masse,</l>
 	<l id='269'>Je m'en vais tout culbutant,</l>
-	<l id='270'>Le long de ça ,</l>
-	<l id='271'>Le long de là ,</l>
+	<l id='270'>Le long de Ã§a ,</l>
+	<l id='271'>Le long de lÃ  ,</l>
 	<l id='272'>Le long de la Place,</l>
-	<l id='273'>Par derrière et par devant.</l>
-<stage>II s'approche du fort, y donne plusieurs coups de sa mâchoire d'âne, pendant qu'on tire sur lui des pétards. Il revient chargé des portes du Fort.</stage>
+	<l id='273'>Par derriÃ¨re et par devant.</l>
+<stage>II s'approche du fort, y donne plusieurs coups de sa mÃ¢choire d'Ã¢ne, pendant qu'on tire sur lui des pÃ©tards. Il revient chargÃ© des portes du Fort.</stage>
 </sp>
-<sp who="LA COMÉDIE ITALIENNE"><speaker>LA COMÉDIE ITALIENNE.</speaker>
+<sp who="LA COMÃ‰DIE ITALIENNE"><speaker>LA COMÃ‰DIE ITALIENNE.</speaker>
 <p id='1'>
 	<s id='1'>Quel abatteur de quilles !</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='15'><head>SCÈNE XV. Samson, La Comédie Italienne, La Reine de Barostan, Les Couplets ne procès, Télémaque, Messzetin et plusieurs autres acteurs forains tous sortant du fort en ordre de bataille.</head>
-<sp who='LA RElNE'><speaker>LA RElNE, aux assiégés.</speaker>
+<div2 type="scene" n='15'><head>SCÃˆNE XV. Samson, La ComÃ©die Italienne, La Reine de Barostan, Les Couplets ne procÃ¨s, TÃ©lÃ©maque, Messzetin et plusieurs autres acteurs forains tous sortant du fort en ordre de bataille.</head>
+<sp who='LA RElNE'><speaker>LA RElNE, aux assiÃ©gÃ©s.</speaker>
 <stage>AIR Je ferai mon devoir.</stage>
 	<l id='274'>Ne souffrons pas un tel affront :</l>
 	<l id='275'>Jetons nous sur Samson. </l>
 <stage>Bis.</stage>
 </sp>
-<sp who="LA COMÉDIE ITALIENNE"><speaker>LA COMÉDIE ITALIENNE, à Samson.</speaker>
-	<l id='276'>Songez à les bien recevoir.</l>
+<sp who="LA COMÃ‰DIE ITALIENNE"><speaker>LA COMÃ‰DIE ITALIENNE, Ã  Samson.</speaker>
+	<l id='276'>Songez Ã  les bien recevoir.</l>
 </sp>
 <sp who='SAMSON'><speaker>SAMSON.</speaker>
 	<l id='277'>Je ferai mon devoir. </l>
@@ -804,148 +804,148 @@ AIR Dans un Couvent bien-heureux.
 </sp>
 <sp who='CHOEUR DE FORAINS'><speaker>CHOEUR DE FORAINS.</speaker>
 <stage>AIR Belle Brune, belle Brune.</stage>
-	<l id='278'>Qu'il périsse !</l>
-	<l id='279'>Qu'il périsse!</l>
+	<l id='278'>Qu'il pÃ©risse !</l>
+	<l id='279'>Qu'il pÃ©risse!</l>
 </sp>
 <sp who='MEZZETIN'><speaker>MEZZETIN.</speaker>
 	<l id='280'>Nous avons pour notre Chef</l>
-<note type="C">La parodie de Télémaque est une parodie de d'Orneval et Lesage créée en Février 1715 au Jeu de Paume de Bel Air et repris le le 4 mars 1730 à la Foire Saint-Germain. </note>
+<note type="C">La parodie de TÃ©lÃ©maque est une parodie de d'Orneval et Lesage crÃ©Ã©e en FÃ©vrier 1715 au Jeu de Paume de Bel Air et repris le le 4 mars 1730 Ã  la Foire Saint-Germain. </note>
 	<l id='281'>Le courageux Fils d'Ulysse.</l>
 </sp>
 <sp who='CHOEUR'><speaker>CHOEUR.</speaker>
-	<l id='282'>Qu'il périsse !</l>
-	<l id='283'>Qu'il périsse !</l>
+	<l id='282'>Qu'il pÃ©risse !</l>
+	<l id='283'>Qu'il pÃ©risse !</l>
 </sp>
-<sp who='TÉLÉMAQUE'><speaker>TÉLÉMAQUE, d'un ton niais, s'avançant l'épée à la main contre Samson.</speaker>
+<sp who='TÃ‰LÃ‰MAQUE'><speaker>TÃ‰LÃ‰MAQUE, d'un ton niais, s'avanÃ§ant l'Ã©pÃ©e Ã  la main contre Samson.</speaker>
 <p id='1'>
 	<s id='1'>Je suis plus fort que Samson, moi.</s>
 </p>
 </sp>
 <sp who='SAMSON'><speaker>SAMSON.</speaker>
 <p id='2'>
-	<s id='1'>Oui ; car je n'ai qu'une mâchoire d'âne et tu en as deux.</s>
+	<s id='1'>Oui ; car je n'ai qu'une mÃ¢choire d'Ã¢ne et tu en as deux.</s>
 </p>
-<stage>Il le frappe de sa mâchoire et le renverse. </stage>
+<stage>Il le frappe de sa mÃ¢choire et le renverse. </stage>
 <p id='3'>
-	<s id='1'>Tiens voilà ton estasse. </s>
+	<s id='1'>Tiens voilÃ  ton estasse. </s>
 	<s id='2'>Va te faire panser.</s>
 </p>
-<stage>Télémaquese relève, et tout éclopé il rentre en pleurant dans le fort.  Samson adresse ensuite la parole à tous les autres, et leur dit :</stage>
+<stage>TÃ©lÃ©maquese relÃ¨ve, et tout Ã©clopÃ© il rentre en pleurant dans le fort.  Samson adresse ensuite la parole Ã  tous les autres, et leur dit :</stage>
 <stage>AIR 204. L'Amour veut devenir vainqueur.</stage>
-	<l id='284'>Unissez-vous contre un héros</l>
+	<l id='284'>Unissez-vous contre un hÃ©ros</l>
 	<l id='285'>Suivi de la Victoire : </l>
 	<l id='286'>Venez, je vous attends , Marauds ; </l>
 <stage>Bis.</stage>
-	<l id='287'>Sentez le poids de ma mâchoire.</l>
+	<l id='287'>Sentez le poids de ma mÃ¢choire.</l>
 	<l id='288'>Je vais sur vos malheureux corps,</l>
-	<l id='289'>Je vais frapper et déstoc et de taille.</l>
+	<l id='289'>Je vais frapper et dÃ©stoc et de taille.</l>
 	<l id='290'>Sous mes invincibles efforts</l>
 	<l id='291'>Tombez, tombez, vile canaille :</l>
 	<l id='292'>Pata , pata , pan !</l>
 	<l id='293'>Pan, pan, pan  !</l>
 	<l id='294'>Pata , pata, pata, pan !</l>
 	<l id='295'>Tombez, tombez, vile Canaille.</l>
-<stage>Il renverse tous les Forains, qui se relèvent et se sauvent dans le Fort.</stage>
+<stage>Il renverse tous les Forains, qui se relÃ¨vent et se sauvent dans le Fort.</stage>
 </sp>
 </div2>
-<div2 type='scene' n='16'><head>SCÈNE XVI. Samson, La Comédie Italienne.</head>
+<div2 type="scene" n='16'><head>SCÃˆNE XVI. Samson, La ComÃ©die Italienne.</head>
 <sp who='SAMSON'><speaker>SAMSON.</speaker>
-<stage>AIR Marche Française.</stage>
+<stage>AIR Marche FranÃ§aise.</stage>
 	<l id='296'>Des Troupes Foraines</l>
 	<l id='297'>Je suis le vainqueur.</l>
 </sp>
-<sp who="LA COMÉDIE ITALIENNE"><speaker>LA COMÉDIE ITALIENNE.</speaker>
+<sp who="LA COMÃ‰DIE ITALIENNE"><speaker>LA COMÃ‰DIE ITALIENNE.</speaker>
 	<l id='298'>De mes Capitaines</l>
-	<l id='299'>Vous êtes la fleur.</l>
+	<l id='299'>Vous Ãªtes la fleur.</l>
 </sp>
 <sp who='SAMSON'><speaker>SAMSON.</speaker>
 	<l id='300'>Oui ; mais, ma petite;</l>
 	<l id='301'>Il faudra, vraiment,</l>
-	<l id='302'>Payer mon mérite</l>
+	<l id='302'>Payer mon mÃ©rite</l>
 	<l id='303'>Toujours doublement.</l>
 </sp>
-<sp who="LA COMÉDIE ITALIENNE"><speaker>LA COMÉDIE ITALIENNE.</speaker>
-<note type="C">On prenait le double à Samson. [NdA]</note>
+<sp who="LA COMÃ‰DIE ITALIENNE"><speaker>LA COMÃ‰DIE ITALIENNE.</speaker>
+<note type="C">On prenait le double Ã  Samson. [NdA]</note>
 <p id="1">
 	<s id="1">Sans doute. </s>
 	<s id='2'>Vous aurez double solde. </s>
-	<s id='3'>Il ne m'en coûtera rien, le public est le trésorier de mes troupes.</s>
+	<s id='3'>Il ne m'en coÃ»tera rien, le public est le trÃ©sorier de mes troupes.</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='17'><head>SCÈNE XVII ET DERNIÈRE. Samson, La Comédie Italienne, La Comédie Française, Callisthène.</head>
-<sp who="LA COMÉDIE FRANÇAISE"><speaker>LA COMÉDIE FRANÇAISE.</speaker>
-<stage>AIR Quand on a prononcé ce malheureux oui.</stage>
-	<l id='304'>Nous venons de Samson célébrer la victoire.</l>
-	<l id='305'>Nous ne devons donc plus appréhender la Foire ?</l>
+<div2 type="scene" n='17'><head>SCÃˆNE XVII ET DERNIÃˆRE. Samson, La ComÃ©die Italienne, La ComÃ©die FranÃ§aise, CallisthÃ¨ne.</head>
+<sp who="LA COMÃ‰DIE FRANÃ‡AISE"><speaker>LA COMÃ‰DIE FRANÃ‡AISE.</speaker>
+<stage>AIR Quand on a prononcÃ© ce malheureux oui.</stage>
+	<l id='304'>Nous venons de Samson cÃ©lÃ©brer la victoire.</l>
+	<l id='305'>Nous ne devons donc plus apprÃ©hender la Foire ?</l>
 </sp>
-<sp who="LA COMÉDIE ITALIENNE"><speaker>LA COMÉDIE ITALIENNE.</speaker>
-	<l id='306'>De lui j'attends encor un coup plus généreux.</l>
+<sp who="LA COMÃ‰DIE ITALIENNE"><speaker>LA COMÃ‰DIE ITALIENNE.</speaker>
+	<l id='306'>De lui j'attends encor un coup plus gÃ©nÃ©reux.</l>
 </sp>
-<sp who="LA COMÉDIE FRANÇAISE"><speaker>LA COMÉDIE FRANÇAISE.</speaker>
+<sp who="LA COMÃ‰DIE FRANÃ‡AISE"><speaker>LA COMÃ‰DIE FRANÃ‡AISE.</speaker>
 	<l id='307' part='i'>Quel coup ?</l>
 </sp>
-<sp who="LA COMÉDIE ITALIENNE"><speaker>LA COMÉDIE ITALIENNE.</speaker>
+<sp who="LA COMÃ‰DIE ITALIENNE"><speaker>LA COMÃ‰DIE ITALIENNE.</speaker>
 	<l id='307' part='f'>Qu'il vous assomme en ce moment tous dcus,</l>
 </sp>
-<sp who='CALLISTHÈNE'><speaker>CALLISTHÈNE.</speaker>
+<sp who='CALLISTHÃˆNE'><speaker>CALLISTHÃˆNE.</speaker>
 <p id='1'>
-	<s id='1'>Ô Ciel !</s>
+	<s id='1'>Ã” Ciel !</s>
 </p>
 </sp>
-<sp who="LA COMÉDIE FRANÇAISE"><speaker>LA COMÉDIE FRANÇAISE.</speaker>
+<sp who="LA COMÃ‰DIE FRANÃ‡AISE"><speaker>LA COMÃ‰DIE FRANÃ‡AISE.</speaker>
 <p id='2'>
 	<s id='1'>Qu'entends-je ! </s>
-	<s id='2'>Pourriez-vous tourner vos armes contre vos Alliés !</s>
+	<s id='2'>Pourriez-vous tourner vos armes contre vos AlliÃ©s !</s>
 </p>
 </sp>
-<sp who="LA COMÉDIE ITALIENNE"><speaker>LA COMÉDIE ITALIENNE.</speaker>
+<sp who="LA COMÃ‰DIE ITALIENNE"><speaker>LA COMÃ‰DIE ITALIENNE.</speaker>
 <p id='3'>
-	<s id='1'>Apprenez à me connaître. </s>
+	<s id='1'>Apprenez Ã  me connaÃ®tre. </s>
 	<s id='2'>Quelque bonne mine que je vous fasse, je vous regarde comme ma plus grande ennemie.</s>
 </p>
 </sp>
-<sp who="LA COMÉDIE FRANÇAISE"><speaker>LA COMÉDIE FRANÇAISE.</speaker>
+<sp who="LA COMÃ‰DIE FRANÃ‡AISE"><speaker>LA COMÃ‰DIE FRANÃ‡AISE.</speaker>
 <p id='4'>
 	<s id='1'>Il y a de 1a franchise dans cet aveu.</s>
 </p>
 </sp>
-<sp who="LA COMÉDIE ITALIENNE"><speaker>LA COMÉDIE ITALIENNE.</speaker>
+<sp who="LA COMÃ‰DIE ITALIENNE"><speaker>LA COMÃ‰DIE ITALIENNE.</speaker>
 <p id='5'>
-	<s id='1'>Et de la vérité. </s>
-	<s id='2'>Je voudrais qu'il n'y eût à Paris que notre troupe.</s>
+	<s id='1'>Et de la vÃ©ritÃ©. </s>
+	<s id='2'>Je voudrais qu'il n'y eÃ»t Ã  Paris que notre troupe.</s>
 </p>
 </sp>
 <sp who='SAMSON'><speaker>SAMSON.</speaker>
 <p id='6'>
 	<s id='1'>C'est bien dit.</s>
 </p>
-<stage>Déclamant.</stage>
-<note type="C">Vers imités de la Tragédie de Calisthène d'Alexis Piron.</note>
-	<l id='308'>Comme un soleil suffît au Céleste lambris,</l>
-	<l id='309'>Un Théâtre suffit pour divertir Paris.</l>
+<stage>DÃ©clamant.</stage>
+<note type="C">Vers imitÃ©s de la TragÃ©die de CalisthÃ¨ne d'Alexis Piron.</note>
+	<l id='308'>Comme un soleil suffÃ®t au CÃ©leste lambris,</l>
+	<l id='309'>Un ThÃ©Ã¢tre suffit pour divertir Paris.</l>
 <p id='7'>
-	<s id='1'>N'est-ce pas, Seigneur Callisthène ?</s>
+	<s id='1'>N'est-ce pas, Seigneur CallisthÃ¨ne ?</s>
 </p>
 </sp>
-<sp who="LA COMÉDIE ITALIENNE"><speaker>LA COMÉDIE ITALIENNE, à Samson.</speaker>
+<sp who="LA COMÃ‰DIE ITALIENNE"><speaker>LA COMÃ‰DIE ITALIENNE, Ã  Samson.</speaker>
 <p id='8'>
-	<s id='1'>Ne perdons point de temps, expédiez les l'un et l'autre.</s>
+	<s id='1'>Ne perdons point de temps, expÃ©diez les l'un et l'autre.</s>
 </p>
 <stage>Samson les frappe tous deux.</stage>
 </sp>
-<sp who='LA COMÉDIE FRANÇAISE'><speaker>LA COMÉDIE FRANÇAISE, fuyant.</speaker>
+<sp who='LA COMÃ‰DIE FRANÃ‡AISE'><speaker>LA COMÃ‰DIE FRANÃ‡AISE, fuyant.</speaker>
 <p id='9'>
-	<s id='1'>La Traîtresse !</s>
+	<s id='1'>La TraÃ®tresse !</s>
 </p>
 </sp>
-<sp who='CALLISTHÈNE'><speaker>CALLISTHÈNE, chancelant, et déclamant.</speaker>
-	<l id='310'>C'en est fait, je me meurs. Âme double et sans foi !</l>
-	<l id='311'>Bientôt ton imprimeur me vengera de toi.</l>
-<stage>La prédiction n'a pas été vaine.</stage>
+<sp who='CALLISTHÃˆNE'><speaker>CALLISTHÃˆNE, chancelant, et dÃ©clamant.</speaker>
+	<l id='310'>C'en est fait, je me meurs. Ã‚me double et sans foi !</l>
+	<l id='311'>BientÃ´t ton imprimeur me vengera de toi.</l>
+<stage>La prÃ©diction n'a pas Ã©tÃ© vaine.</stage>
 </sp>
 </div2>
 </div1>
 </body>
 </text>
-</TEI.2>
+</TEI>

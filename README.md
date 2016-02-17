@@ -1,4 +1,3 @@
 # Theatre-classique
-Dépôt des fichiers XML du site Théâtre Classique http://theatre-classique.fr/
-
-À retrouver sur http://dramacode.github.io/Theatre-classique (bientôt)
+Sources XML du site Théâtre classqie de Paul Fièvre
+Version UTF-8

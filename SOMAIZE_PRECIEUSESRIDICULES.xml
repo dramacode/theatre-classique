@@ -1,343 +1,342 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-<TEI.2>
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
 <teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>LES PRÉCIEUSES RIDICULES, COMÉDIE</title>
-				<author born='1630' born_location='' death='16??' death_location='' academie=''>SOMAIZE, Antoine BAUDEAU DE</author>
-				<date>1651</date>
-			</titleStmt>
-			<publicationStmp>	
-				<editor>Texte établi par David Chataignier pour le site Molière 21 - Université de la Sorbonne Paris IV sous la direction de Georges Forestier.</editor>
-				<p>publié par Paul FIEVRE, juin 2013</p>
-			</publicationStmp>
-			<SourceDesc>
-				<genre>Comédie</genre>
-				<inspiration>moeurs françaises</inspiration>
-				<structure>Un acte</structure>
-				<type>vers</type>
-				<periode>1651-1660</periode>
-				<taille>1000-1250</taille>
-				<permalien>http://gallica.bnf.fr/ark:/12148/bpt6k72661r</permalien>
-				<sources>
-					<source id='1'><author></author><text></text></source>
-				</sources>	
-			</SourceDesc>
-		</fileDesc>
+	<fileDesc>
+		<titleStmt>
+			<title>LES PRÃ‰CIEUSES RIDICULES, COMÃ‰DIE</title>
+			<author born='1630' born_location='' death='16??' death_location='' academie=''>SOMAIZE, Antoine BAUDEAU DE</author>
+		</titleStmt>
+		<publicationStmp>	
+			<editor>Texte Ã©tabli par David Chataignier pour le site MoliÃ¨re 21 - UniversitÃ© de la Sorbonne Paris IV sous la direction de Georges Forestier.</editor>
+			<p>publiÃ© par Paul FIEVRE, juin 2013</p>
+		</publicationStmp>
+		<SourceDesc>
+			<genre>ComÃ©die</genre>
+			<inspiration>moeurs franÃ§aises</inspiration>
+			<structure>Un acte</structure>
+			<type>vers</type>
+			<periode>1651-1660</periode>
+			<taille>1000-1250</taille>
+			<permalien>http://gallica.bnf.fr/ark:/12148/bpt6k72661r</permalien>
+			<sources>
+				<source id='1'><author></author><text></text></source>
+			</sources>	
+		</SourceDesc>
+	</fileDesc>
 </teiHeader>
 <text>
 	<front>
 		<docTitle>
-			<titlePart type="main">LES PRÉCIEUSES RIDICULES</titlePart>
-			<titlePart type="sub">COMÉDIE.</titlePart>
-			<titlePart type="sub">REPRÉSENTÉE au petit Bourbon. MISE EN VERS.</titlePart>
+			<titlePart type="main">LES PRÃ‰CIEUSES RIDICULES</titlePart>
+			<titlePart type="sub">COMÃ‰DIE.</titlePart>
+			<titlePart type="sub">REPRÃ‰SENTÃ‰E au petit Bourbon. MISE EN VERS.</titlePart>
 		</docTitle> 
 		<docDate value='1662'>M. DC LXII.</docDate>
 		<docAuthor id="SOMAIZE, Antoine Baudeau de" bio='somaize'>PAR Mr SOMAIZE.</docAuthor>
 		<docImprint>
-			<privilege id='1660-04-08'><head>Extrait du Privilège du Roi.</head>
-			<p>Par grâce et Privilège du Roi, il est permis au sieur de Somaize de faire imprimer par tel Imprimeur et Libraire qu'il voudra, Les Précieuses Ridicules mises en vers, représentées au Petit Bourbon, pendant l'espace de cinq ans et défenses à tous autres de le contrefaire, comme il est porté par ledit Privilège. Donné à Paris, le troisième jour de Mars mille six cent soixante. Par le Roi en son Conseil COUPEAU.</p>
-			<p>Et ledit Somaize a cédé et transporté son Privilège à Jean Ribou Marchand Libraire à Paris, selon l'accord fait entre eux.</p>
-			<p>Registré sur le Livre de la Communauté le 8 Avril 1660 suivant l'Arrêt du Parlement en date du 9 Avril 1653.</p>
-			<p>Signé JOSSE.</p>
-			<p>Les Exemplaires ont été fournis.</p>
+			<privilege id='1660-04-08'><head>Extrait du PrivilÃ¨ge du Roi.</head>
+			<p>Par grÃ¢ce et PrivilÃ¨ge du Roi, il est permis au sieur de Somaize de faire imprimer par tel Imprimeur et Libraire qu'il voudra, Les PrÃ©cieuses Ridicules mises en vers, reprÃ©sentÃ©es au Petit Bourbon, pendant l'espace de cinq ans et dÃ©fenses Ã  tous autres de le contrefaire, comme il est portÃ© par ledit PrivilÃ¨ge. DonnÃ© Ã  Paris, le troisiÃ¨me jour de Mars mille six cent soixante. Par le Roi en son Conseil COUPEAU.</p>
+			<p>Et ledit Somaize a cÃ©dÃ© et transportÃ© son PrivilÃ¨ge Ã  Jean Ribou Marchand Libraire Ã  Paris, selon l'accord fait entre eux.</p>
+			<p>RegistrÃ© sur le Livre de la CommunautÃ© le 8 Avril 1660 suivant l'ArrÃªt du Parlement en date du 9 Avril 1653.</p>
+			<p>SignÃ© JOSSE.</p>
+			<p>Les Exemplaires ont Ã©tÃ© fournis.</p>
 			</privilege>
-			<acheveImprime id='1660-04-12'>Achevé d'imprimer le 12 Avril 1660.</acheveImprime>
+			<acheveImprime id='1660-04-12'>AchevÃ© d'imprimer le 12 Avril 1660.</acheveImprime>
 			<printer id=''></printer>
 		</docImprint>
 		<performance>
-			<premiere date='1662' location='Théâtre du Petit-Bourbon'>Représenté pour la première fois en 1662 au Théâtre du Petit Bourbon.</premiere>
+			<premiere date='1662' location='ThÃ©Ã¢tre du Petit-Bourbon'>ReprÃ©sentÃ© pour la premiÃ¨re fois en 1662 au ThÃ©Ã¢tre du Petit Bourbon.</premiere>
 		</performance>
-		<dedicace><adresse>À MADEMOISELLE MARIE DE MANCINI.</adresse>
+		<div type="dedicace"><adresse>Ã€ MADEMOISELLE MARIE DE MANCINI.</adresse>
 		<head>Mademoiselle,</head>
-		<p>Encore que je sache avec toute la France, que vous n'êtes née que pour les grandes choses, et qu'il n'appartient qu'à ceux du Sang dont vous sortez de mettre la dernière main à tout ce qui paraît impossible ; Et qu'ainsi, soit pour vous divertir, soit pour vous louer, on est toujours téméraire quoi qu'on ose entreprendre. Je ne laisse pas MADEMOISELLE, de vous faire un présent vulgaire en vous offrant cette Comédie, qui quelque réputation qu'elle ait eue en prose, m'a semblé n'avoir pas tous les agréments qu'on lui pouvait donner, et c'est ce qui m'a fait résoudre à la tourner en vers pour la mettre en état de mériter avec un peu plus de justice les applaudissements qu'elle a reçus de tout le monde, plutôt par bonheur que par mérite. Je sais bien qu'il doit sembler étrange de me voir abaisser une chose que j'ose vous offrir, mais je ne prétends pas qu'elle me doive ni sa gloire, ni son abaissement, et je ne réglerai l'estime que j'en dois faire qu'au jugement que vous en ferez : que si je lui laisse maintenant quelques avantages des acclamations publiques qu'elle a reçues, et en Italien et en Français, ce n'est que parce qu'ils me fournissent l'occasion de vous donner une preuve de mon respect en mettant cette version que j'en ai fait sous votre protection. Je ne suis pas assez vain pour m'imaginer que ce faible hommage m'acquitte de ce que je vous dois, ou qu'il ait rien de proportionné à ce mérite qui vous met autant au-dessus du commun par son éclat que vous l'êtes déjà par celui du rang que vous donne votre naissance. Je sais trop comme vous savez juger de tout ce que peuvent produire les plus beaux génies, pour vous offrir comme un ouvrage considérable une Satire qui doit sa plus grande réussite à ce certain courant des choses qui les fait recevoir de quelque nature qu'elles soient et que nous appelons la mode ; et lorsque je vous l'offre, je ne fais qu'imiter les Romains, qui présentaient autrefois des lauriers aux vainqueurs, non pas pour payer leurs victoires ; mais seulement pour témoigner qu'ils connaissaient ce qui leur était dû et pour servir comme de préludes à la pompe des Triomphes qui leur étaient destinés. Je ne me permets MADEMOISELLE, que ce que ces Maîtres du monde accordaient à leurs moindres Citoyens, et je vous présente une bagatelle comme le dernier Romain avait la liberté d'offrir des branches de Laurier : Je laisse dis-je à des plumes plus savantes et plus hardies à disposer des ornements dont on peut composer votre Panégyrique, de même que le peuple laissait au Sénat le pouvoir et le soin de décerner des triomphes à ceux dont les grandes actions le méritaient. Je ne me sens pas assez fort pour une si haute entreprise, et je borne mes plus vastes projets à celui d'obtenir de vous la permission de me dire,</p>
-		<p>Mademoiselle, Votre très humble et très obéissant serviteur.</p>
+		<p>Encore que je sache avec toute la France, que vous n'Ãªtes nÃ©e que pour les grandes choses, et qu'il n'appartient qu'Ã  ceux du Sang dont vous sortez de mettre la derniÃ¨re main Ã  tout ce qui paraÃ®t impossible ; Et qu'ainsi, soit pour vous divertir, soit pour vous louer, on est toujours tÃ©mÃ©raire quoi qu'on ose entreprendre. Je ne laisse pas MADEMOISELLE, de vous faire un prÃ©sent vulgaire en vous offrant cette ComÃ©die, qui quelque rÃ©putation qu'elle ait eue en prose, m'a semblÃ© n'avoir pas tous les agrÃ©ments qu'on lui pouvait donner, et c'est ce qui m'a fait rÃ©soudre Ã  la tourner en vers pour la mettre en Ã©tat de mÃ©riter avec un peu plus de justice les applaudissements qu'elle a reÃ§us de tout le monde, plutÃ´t par bonheur que par mÃ©rite. Je sais bien qu'il doit sembler Ã©trange de me voir abaisser une chose que j'ose vous offrir, mais je ne prÃ©tends pas qu'elle me doive ni sa gloire, ni son abaissement, et je ne rÃ©glerai l'estime que j'en dois faire qu'au jugement que vous en ferez : que si je lui laisse maintenant quelques avantages des acclamations publiques qu'elle a reÃ§ues, et en Italien et en FranÃ§ais, ce n'est que parce qu'ils me fournissent l'occasion de vous donner une preuve de mon respect en mettant cette version que j'en ai fait sous votre protection. Je ne suis pas assez vain pour m'imaginer que ce faible hommage m'acquitte de ce que je vous dois, ou qu'il ait rien de proportionnÃ© Ã  ce mÃ©rite qui vous met autant au-dessus du commun par son Ã©clat que vous l'Ãªtes dÃ©jÃ  par celui du rang que vous donne votre naissance. Je sais trop comme vous savez juger de tout ce que peuvent produire les plus beaux gÃ©nies, pour vous offrir comme un ouvrage considÃ©rable une Satire qui doit sa plus grande rÃ©ussite Ã  ce certain courant des choses qui les fait recevoir de quelque nature qu'elles soient et que nous appelons la mode ; et lorsque je vous l'offre, je ne fais qu'imiter les Romains, qui prÃ©sentaient autrefois des lauriers aux vainqueurs, non pas pour payer leurs victoires ; mais seulement pour tÃ©moigner qu'ils connaissaient ce qui leur Ã©tait dÃ» et pour servir comme de prÃ©ludes Ã  la pompe des Triomphes qui leur Ã©taient destinÃ©s. Je ne me permets MADEMOISELLE, que ce que ces MaÃ®tres du monde accordaient Ã  leurs moindres Citoyens, et je vous prÃ©sente une bagatelle comme le dernier Romain avait la libertÃ© d'offrir des branches de Laurier : Je laisse dis-je Ã  des plumes plus savantes et plus hardies Ã  disposer des ornements dont on peut composer votre PanÃ©gyrique, de mÃªme que le peuple laissait au SÃ©nat le pouvoir et le soin de dÃ©cerner des triomphes Ã  ceux dont les grandes actions le mÃ©ritaient. Je ne me sens pas assez fort pour une si haute entreprise, et je borne mes plus vastes projets Ã  celui d'obtenir de vous la permission de me dire,</p>
+		<p>Mademoiselle, Votre trÃ¨s humble et trÃ¨s obÃ©issant serviteur.</p>
 		<p>SOMAIZE.</p>
-		</dedicace>
-		<preface><head>PRÉFACE.</head>
-			<p>L'usage des Préfaces m'a semblé si utile à ceux qui mettent quelque chose en public qu'encore que je sache qu'il n'est pas généralement approuvé, je n'ai pourtant pu m'empêcher de le suivre, résolu quoi qu'il arrive de prendre pour garant de ce que je fais la coutume qui les a jusques ici autorisées.</p>
-			<p>Ce n'est pas que je veuille suivre celle de ces Auteurs avides de Louanges qui craignant qu'on ne leur rende pas tout l'honneur qu'ils croient mériter ; y insèrent eux-mêmes leurs Panégyriques, et font souvent leurs Apologies avant qu'on les accuse. Mon but est de divertir le Lecteur, et de me divertir moi-même : Toutefois comme il s'en peut trouver d'assez scrupuleux pour croire que c'est trop hasarder d'exposer aux yeux de tout le monde un ouvrage aussi rempli de défauts que celui-ci, sans leur donner du moins quelques apparentes excuses ; Je veux bien à cet endroit dire quelque chose pour le contenter.</p>
-			<p>Je dirai d'abord qu'il semblera extraordinaire qu'après avoir loué Mascarille, comme j'ai fait dans les Véritables Précieuses, je me sois donné la peine de mettre en Vers un ouvrage dont il se dit Auteur et qui sans doute lui doit quelque chose, si ce n'est parce qu'il y a ajouté de son étoffe au vol qu'il en a fait aux Italiens, à qui Monsieur l'Abbé de Pure les avait données ; du moins pour y avoir ajouté beaucoup par son jeu, qui plut à assez de gens pour lui donner la vanité d'être le premier Farceur de France. C'est toujours quelque chose d'exceller en quelque métier que ce soit, et pour parler selon le vulgaire, il vaut mieux être le premier d'un village, que le dernier d'une ville, bon Farceur, que méchant Comédien ; mais quittons la parenthèse et retournons aux Précieuses. Elles ont été trop généralement reçues et approuvées pour ne pas avouer que j'y ai pris plaisir, et qu'elles n'ont rien perdu en Français de ce qui les fit suivre en Italien ; et ce serait faire le modeste à contretemps, de ne pas dire que je crois ne leur avoir rien dérobé de leurs agréments en les mettant en Vers : même si j'en voulais croire ceux qui les ont vues, je me vanterais d'y avoir beaucoup ajouté ; mais quand je le dirais l'on ne serait pas obligé de s'en rapporter à moi, et quand mon Lecteur me donnerait un démenti, il serait de ceux qui se souffrent sans peine et qui ne coûtent jamais de sang. Aussi ne veux-je pas les louer, et bien loin de le faire, je dis ingénieusement que ce n'est en bien des endroits, que de la prose rimée, qu'on y trouvera plusieurs vers sans repos et dont la cadence est fort rude ; mais le Lecteur verra aisément que ce n'est qu'aux endroits où j'ai voulu conserver mot à mot le sens de la prose, et lorsque je les ai trouvés tous faits. L'on y verra encore des vers dont le sens est lié et qui sont enchaînés les uns avec les autres comme de pauvres forçats, et d'autres enfin dont les rimes n'ont pas toujours la richesse qu'on leur pourrait donner, je n'en donnerai pourtant point d'excuse ; ne voyant pas être obligé de suivre dans une Comédie comme celle-ci, une règle que les meilleures plumes n'observent pas dans leurs ouvrages les plus sérieux : enfin je ne dirai rien des Précieuses en Vers qui puisse exiger de ceux qui les verront une bonté forcée ; je ne veux rien que le plaisir du Lecteur, et serais bien fâché d'ôter le moyen de Critiquer ceux qui se plaisent à le faire. Ainsi quoi qu'il me fût aisé de dire bien des choses pour justifier mes défauts et que je n'eusse qu'à m'étendre sur la difficulté qu'il y a de mettre en Vers mot à mot une prose aussi bizarre que celle que j'ai eu à tourner, que je pense facilement faire voir que tout le plaisant des Précieuses consistait presque, en des mots aussi contraires à la douceur des Vers que nécessaires aux agréments de cette Comédie : je laisse pourtant toutes ces choses pour laisser le Lecteur en liberté, et je proteste ici que la Critique ne m'épouvante point et que je serais fort marri de dire le moindre mot pour l'éviter, et non seulement je la souffre pour cette version ; mais je consens que l'on s'en serve encore à l'égard du Procès des Précieuses qui est de mon invention pure, et qui si tout le monde est de mon sentiment divertira fort, au moins ne l'ai-je fait que dans cette pensée.</p>
-			<p>Cette Préface aurait à peu près la longueur qu'elle devrait avoir, et je la finirais volontiers en cet endroit s'il ne me restait encore un peu de papier qu'il faut remplir de quoi que ce puisse être quand ce ne serait que pour grossir le Livre ; Toutefois pour ne me pas éloigner de mon sujet ; je dirai quoi que sans dessein de me défendre ; que j'aurais eu bien plus de facilité de traduire une pièce de toute autre langue en vers Français, que d'y mettre une prose faite en ma propre langue ; dans toute autre j'aurais assez fait de rendre les pensées de mon Auteur. Les termes auraient été à ma discrétion et tout aurait presque descendu de mon choix ; mais ici pour rendre la chose fidèlement, je n'ai pas seulement été contraint de mettre les pensées, m'a fallu mettre aussi les mêmes termes ; que si j'ai ajouté ou diminué selon que les rimes m'y ont obligé, je n'ai rien à répondre à cela, sinon que pour les rendre comme elles seraient, il fallait les laisser en prose ; peut-être qu'au sentiment de plusieurs j'aurais mieux fait que de les mettre en rimes, peut-être aussi qu'au jugement de ceux qui aiment les vers j'aurais fort bien réussi. Tout cela est douteux ; mais il est certain que ce n'est pas là mon plus grand chagrin, que si ceux pour qui je les ai faites les trouvent à leur gré, il m'est bien indifférent que les autres les condamnent ou les approuvent, en tout cas que ceux qui ne s'y divertiraient pas aient recours au Dictionnaire des Précieuses ou à la Satire. Comme tout dépend de ce caprice, peut-être qu'ils y trouveront mieux leur compte. Pour moi je serai content, pourvu qu'ils se divertissent de quelque manière que ce soit.</p>
-		</preface>
+		</div>
+		<div type="preface"><head>PRÃ‰FACE.</head>
+			<p>L'usage des PrÃ©faces m'a semblÃ© si utile Ã  ceux qui mettent quelque chose en public qu'encore que je sache qu'il n'est pas gÃ©nÃ©ralement approuvÃ©, je n'ai pourtant pu m'empÃªcher de le suivre, rÃ©solu quoi qu'il arrive de prendre pour garant de ce que je fais la coutume qui les a jusques ici autorisÃ©es.</p>
+			<p>Ce n'est pas que je veuille suivre celle de ces Auteurs avides de Louanges qui craignant qu'on ne leur rende pas tout l'honneur qu'ils croient mÃ©riter ; y insÃ¨rent eux-mÃªmes leurs PanÃ©gyriques, et font souvent leurs Apologies avant qu'on les accuse. Mon but est de divertir le Lecteur, et de me divertir moi-mÃªme : Toutefois comme il s'en peut trouver d'assez scrupuleux pour croire que c'est trop hasarder d'exposer aux yeux de tout le monde un ouvrage aussi rempli de dÃ©fauts que celui-ci, sans leur donner du moins quelques apparentes excuses ; Je veux bien Ã  cet endroit dire quelque chose pour le contenter.</p>
+			<p>Je dirai d'abord qu'il semblera extraordinaire qu'aprÃ¨s avoir louÃ© Mascarille, comme j'ai fait dans les VÃ©ritables PrÃ©cieuses, je me sois donnÃ© la peine de mettre en Vers un ouvrage dont il se dit Auteur et qui sans doute lui doit quelque chose, si ce n'est parce qu'il y a ajoutÃ© de son Ã©toffe au vol qu'il en a fait aux Italiens, Ã  qui Monsieur l'AbbÃ© de Pure les avait donnÃ©es ; du moins pour y avoir ajoutÃ© beaucoup par son jeu, qui plut Ã  assez de gens pour lui donner la vanitÃ© d'Ãªtre le premier Farceur de France. C'est toujours quelque chose d'exceller en quelque mÃ©tier que ce soit, et pour parler selon le vulgaire, il vaut mieux Ãªtre le premier d'un village, que le dernier d'une ville, bon Farceur, que mÃ©chant ComÃ©dien ; mais quittons la parenthÃ¨se et retournons aux PrÃ©cieuses. Elles ont Ã©tÃ© trop gÃ©nÃ©ralement reÃ§ues et approuvÃ©es pour ne pas avouer que j'y ai pris plaisir, et qu'elles n'ont rien perdu en FranÃ§ais de ce qui les fit suivre en Italien ; et ce serait faire le modeste Ã  contretemps, de ne pas dire que je crois ne leur avoir rien dÃ©robÃ© de leurs agrÃ©ments en les mettant en Vers : mÃªme si j'en voulais croire ceux qui les ont vues, je me vanterais d'y avoir beaucoup ajoutÃ© ; mais quand je le dirais l'on ne serait pas obligÃ© de s'en rapporter Ã  moi, et quand mon Lecteur me donnerait un dÃ©menti, il serait de ceux qui se souffrent sans peine et qui ne coÃ»tent jamais de sang. Aussi ne veux-je pas les louer, et bien loin de le faire, je dis ingÃ©nieusement que ce n'est en bien des endroits, que de la prose rimÃ©e, qu'on y trouvera plusieurs vers sans repos et dont la cadence est fort rude ; mais le Lecteur verra aisÃ©ment que ce n'est qu'aux endroits oÃ¹ j'ai voulu conserver mot Ã  mot le sens de la prose, et lorsque je les ai trouvÃ©s tous faits. L'on y verra encore des vers dont le sens est liÃ© et qui sont enchaÃ®nÃ©s les uns avec les autres comme de pauvres forÃ§ats, et d'autres enfin dont les rimes n'ont pas toujours la richesse qu'on leur pourrait donner, je n'en donnerai pourtant point d'excuse ; ne voyant pas Ãªtre obligÃ© de suivre dans une ComÃ©die comme celle-ci, une rÃ¨gle que les meilleures plumes n'observent pas dans leurs ouvrages les plus sÃ©rieux : enfin je ne dirai rien des PrÃ©cieuses en Vers qui puisse exiger de ceux qui les verront une bontÃ© forcÃ©e ; je ne veux rien que le plaisir du Lecteur, et serais bien fÃ¢chÃ© d'Ã´ter le moyen de Critiquer ceux qui se plaisent Ã  le faire. Ainsi quoi qu'il me fÃ»t aisÃ© de dire bien des choses pour justifier mes dÃ©fauts et que je n'eusse qu'Ã  m'Ã©tendre sur la difficultÃ© qu'il y a de mettre en Vers mot Ã  mot une prose aussi bizarre que celle que j'ai eu Ã  tourner, que je pense facilement faire voir que tout le plaisant des PrÃ©cieuses consistait presque, en des mots aussi contraires Ã  la douceur des Vers que nÃ©cessaires aux agrÃ©ments de cette ComÃ©die : je laisse pourtant toutes ces choses pour laisser le Lecteur en libertÃ©, et je proteste ici que la Critique ne m'Ã©pouvante point et que je serais fort marri de dire le moindre mot pour l'Ã©viter, et non seulement je la souffre pour cette version ; mais je consens que l'on s'en serve encore Ã  l'Ã©gard du ProcÃ¨s des PrÃ©cieuses qui est de mon invention pure, et qui si tout le monde est de mon sentiment divertira fort, au moins ne l'ai-je fait que dans cette pensÃ©e.</p>
+			<p>Cette PrÃ©face aurait Ã  peu prÃ¨s la longueur qu'elle devrait avoir, et je la finirais volontiers en cet endroit s'il ne me restait encore un peu de papier qu'il faut remplir de quoi que ce puisse Ãªtre quand ce ne serait que pour grossir le Livre ; Toutefois pour ne me pas Ã©loigner de mon sujet ; je dirai quoi que sans dessein de me dÃ©fendre ; que j'aurais eu bien plus de facilitÃ© de traduire une piÃ¨ce de toute autre langue en vers FranÃ§ais, que d'y mettre une prose faite en ma propre langue ; dans toute autre j'aurais assez fait de rendre les pensÃ©es de mon Auteur. Les termes auraient Ã©tÃ© Ã  ma discrÃ©tion et tout aurait presque descendu de mon choix ; mais ici pour rendre la chose fidÃ¨lement, je n'ai pas seulement Ã©tÃ© contraint de mettre les pensÃ©es, m'a fallu mettre aussi les mÃªmes termes ; que si j'ai ajoutÃ© ou diminuÃ© selon que les rimes m'y ont obligÃ©, je n'ai rien Ã  rÃ©pondre Ã  cela, sinon que pour les rendre comme elles seraient, il fallait les laisser en prose ; peut-Ãªtre qu'au sentiment de plusieurs j'aurais mieux fait que de les mettre en rimes, peut-Ãªtre aussi qu'au jugement de ceux qui aiment les vers j'aurais fort bien rÃ©ussi. Tout cela est douteux ; mais il est certain que ce n'est pas lÃ  mon plus grand chagrin, que si ceux pour qui je les ai faites les trouvent Ã  leur grÃ©, il m'est bien indiffÃ©rent que les autres les condamnent ou les approuvent, en tout cas que ceux qui ne s'y divertiraient pas aient recours au Dictionnaire des PrÃ©cieuses ou Ã  la Satire. Comme tout dÃ©pend de ce caprice, peut-Ãªtre qu'ils y trouveront mieux leur compte. Pour moi je serai content, pourvu qu'ils se divertissent de quelque maniÃ¨re que ce soit.</p>
+		</div>
 
-	<preface><head>À MADEMOISELLE MARIE DE MANCINI.</head>
-	<head>ÉLÉGIE.</head>
-		<p class='vers'>Esprit, charmé, rempli de la plus belle idée</p>
-		<p class='vers'>Dont une âme jamais puisse être possédée</p>
-		<p class='vers'>Je me laisse emporter à ces nobles ardeurs</p>
-		<p class='vers'>Qui détruisent la crainte, et rassurent les cœurs.</p>
-		<p class='vers'>Je conçois un dessein qui m'étonne moi-même,</p>
-		<p class='vers'>Mais comme le danger la gloire en est extrême,</p>
+	<div type="preface"><head>Ã€ MADEMOISELLE MARIE DE MANCINI.</head>
+	<head>Ã‰LÃ‰GIE.</head>
+		<p class='vers'>Esprit, charmÃ©, rempli de la plus belle idÃ©e</p>
+		<p class='vers'>Dont une Ã¢me jamais puisse Ãªtre possÃ©dÃ©e</p>
+		<p class='vers'>Je me laisse emporter Ã  ces nobles ardeurs</p>
+		<p class='vers'>Qui dÃ©truisent la crainte, et rassurent les cÂœurs.</p>
+		<p class='vers'>Je conÃ§ois un dessein qui m'Ã©tonne moi-mÃªme,</p>
+		<p class='vers'>Mais comme le danger la gloire en est extrÃªme,</p>
 		<p class='vers'>Quand j'y succomberais je serais glorieux,</p>
-		<p class='vers'>C'est périr noblement que périr à vos yeux ;</p>
+		<p class='vers'>C'est pÃ©rir noblement que pÃ©rir Ã  vos yeux ;</p>
 		<p class='vers'>On ne se repent point d'une belle entreprise</p>
-		<p class='vers'>Et de quelque terreur qu'une âme soit surprise</p>
-		<p class='vers'>Pour en venir à bout on la voit tout oser</p>
-		<p class='vers'>Aux plus fâcheux revers on la voit s'exposer,</p>
+		<p class='vers'>Et de quelque terreur qu'une Ã¢me soit surprise</p>
+		<p class='vers'>Pour en venir Ã  bout on la voit tout oser</p>
+		<p class='vers'>Aux plus fÃ¢cheux revers on la voit s'exposer,</p>
 		<p class='vers'>Pour moi dans le projet que je viens de me faire</p>
-		<p class='vers'>On ne peut m'accuser que d'être téméraire ;</p>
-		<p class='vers'>Mais qui peut ignorer que la témérité</p>
-		<p class='vers'>Surpasse bien souvent la générosité</p>
+		<p class='vers'>On ne peut m'accuser que d'Ãªtre tÃ©mÃ©raire ;</p>
+		<p class='vers'>Mais qui peut ignorer que la tÃ©mÃ©ritÃ©</p>
+		<p class='vers'>Surpasse bien souvent la gÃ©nÃ©rositÃ©</p>
 		<p class='vers'>Parlons mieux et disons qu'il n'est pas ordinaire</p>
-		<p class='vers'>De voir un généreux n'être point téméraire,</p>
+		<p class='vers'>De voir un gÃ©nÃ©reux n'Ãªtre point tÃ©mÃ©raire,</p>
 		<p class='vers'>Qu'on ne peut que par elle affronter les hasards,</p>
-		<p class='vers'>Qu'elle a seule formé les premiers des Césars</p>
-		<p class='vers'>Et que les conquérants que nous vante l'Histoire</p>
-		<p class='vers'>Sans leurs témérités n'auraient pas tant de gloire.</p>
+		<p class='vers'>Qu'elle a seule formÃ© les premiers des CÃ©sars</p>
+		<p class='vers'>Et que les conquÃ©rants que nous vante l'Histoire</p>
+		<p class='vers'>Sans leurs tÃ©mÃ©ritÃ©s n'auraient pas tant de gloire.</p>
 		<p class='vers'>Cette vertu propice aux belles passions</p>
 		<p class='vers'>Peut seule nous conduire aux grandes actions,</p>
-		<p class='vers'>Rien que l'événement ne la rend criminel ;</p>
-		<p class='vers'>Mais lorsqu'on réussit elle n'est jamais telle :</p>
-		<p class='vers'>Osons donc dans l'ardeur qui nous brûle le sein</p>
-		<p class='vers'>Incertain du succès suivre notre dessein</p>
-		<p class='vers'>Vous illustre MARIE, à qui mes vers s'adressent</p>
-		<p class='vers'>Souffrez qu'en votre nom tous mes vœux s'intéressent.</p>
-		<p class='vers'>Que je chante sa gloire et fasse voir à tous</p>
-		<p class='vers'>Les belles qualités qui se trouvent en vous ;</p>
-		<p class='vers'>Que peuvent toutefois mes faibles témoignages</p>
+		<p class='vers'>Rien que l'Ã©vÃ©nement ne la rend criminel ;</p>
+		<p class='vers'>Mais lorsqu'on rÃ©ussit elle n'est jamais telle :</p>
+		<p class='vers'>Osons donc dans l'ardeur qui nous brÃ»le le sein</p>
+		<p class='vers'>Incertain du succÃ¨s suivre notre dessein</p>
+		<p class='vers'>Vous illustre MARIE, Ã  qui mes vers s'adressent</p>
+		<p class='vers'>Souffrez qu'en votre nom tous mes vÂœux s'intÃ©ressent.</p>
+		<p class='vers'>Que je chante sa gloire et fasse voir Ã  tous</p>
+		<p class='vers'>Les belles qualitÃ©s qui se trouvent en vous ;</p>
+		<p class='vers'>Que peuvent toutefois mes faibles tÃ©moignages</p>
 		<p class='vers'>Vos yeux parlent assez de tous vos avantages</p>
 		<p class='vers'>Il n'importe achevons en un dessein si beau</p>
 		<p class='vers'>Les yeux nous serviront d'objet et de flambeau.</p>
-		<p class='vers'>En effet si les yeux sont les miroirs de l'âme</p>
+		<p class='vers'>En effet si les yeux sont les miroirs de l'Ã¢me</p>
 		<p class='vers'>Que ne verrai-je pas au travers de leur flamme.</p>
-		<p class='vers'>Je trouverai d'abord d'une suite d'aïeux</p>
-		<p class='vers'>La grandeur exprimée en ces aimables yeux</p>
-		<p class='vers'>Et de leur majesté la vénérable image</p>
+		<p class='vers'>Je trouverai d'abord d'une suite d'aÃ¯eux</p>
+		<p class='vers'>La grandeur exprimÃ©e en ces aimables yeux</p>
+		<p class='vers'>Et de leur majestÃ© la vÃ©nÃ©rable image</p>
 		<p class='vers'>Avec des traits plus doux peinte sur ce visage</p>
-		<p class='vers'>J'y connaîtrai ce droit naturel aux Romains</p>
-		<p class='vers'>D'étendre leur pouvoir dessus tous les humains</p>
+		<p class='vers'>J'y connaÃ®trai ce droit naturel aux Romains</p>
+		<p class='vers'>D'Ã©tendre leur pouvoir dessus tous les humains</p>
 		<p class='vers'>Et que ce qu'ils faisaient par l'effort de leurs armes</p>
 		<p class='vers'>Vous savez l'achever par celui de vos charmes ;</p>
 		<p class='vers'>Mais vous faites bien plus que ces premiers vainqueurs</p>
-		<p class='vers'>Ils triomphaient des corps, vous triomphez des cœurs</p>
-		<p class='vers'>On évitait leurs fers, on adore vos chaînes</p>
-		<p class='vers'>Si l'on en sent le poids l'on en chérit les peines</p>
-		<p class='vers'>Et votre Empire est tel dessus les libertés</p>
-		<p class='vers'>Que même vous forcez jusques aux volontés :</p>
+		<p class='vers'>Ils triomphaient des corps, vous triomphez des cÂœurs</p>
+		<p class='vers'>On Ã©vitait leurs fers, on adore vos chaÃ®nes</p>
+		<p class='vers'>Si l'on en sent le poids l'on en chÃ©rit les peines</p>
+		<p class='vers'>Et votre Empire est tel dessus les libertÃ©s</p>
+		<p class='vers'>Que mÃªme vous forcez jusques aux volontÃ©s :</p>
 		<p class='vers'>Oui tel est de vos yeux, la douceur et l'Empire</p>
 		<p class='vers'>Qu'ils peuvent beaucoup plus que je ne saurais dire ;</p>
 		<p class='vers'>Mais si voyant vos yeux j'y trouve tant d'appas</p>
 		<p class='vers'>Consultant votre Esprit que ne verrai-je pas ?</p>
-		<p class='vers'>Et si poussant plus loin, ce dessein qui m'étonne</p>
+		<p class='vers'>Et si poussant plus loin, ce dessein qui m'Ã©tonne</p>
 		<p class='vers'>Je voulais regarder toute votre personne</p>
-		<p class='vers'>En voir séparément les aimables trésors</p>
-		<p class='vers'>De votre âme à loisir consulter les accords</p>
-		<p class='vers'>En tracer une idée et vous y peindre entière</p>
-		<p class='vers'>Combien de vous louer verrai-je de matière</p>
-		<p class='vers'>Je le laisse à juger, et borne tous mes vœux</p>
-		<p class='vers'>À montrer dans mes vers, ce qu'on voit dans vos yeux.</p>
-		<p class='vers'>Mais après que ces yeux m'ont su faire connaître</p>
-		<p class='vers'>La noblesse du sang dont on vous a vu naître</p>
-		<p class='vers'>Et que par leur éclat instruit de leur pouvoir</p>
-		<p class='vers'>J'ai tâché d'exprimer ce qu'ils m'en ont fait voir</p>
-		<p class='vers'>Souffrez sans vous lasser que mes faibles paupières</p>
-		<p class='vers'>En empruntent encor de nouvelles lumières</p>
+		<p class='vers'>En voir sÃ©parÃ©ment les aimables trÃ©sors</p>
+		<p class='vers'>De votre Ã¢me Ã  loisir consulter les accords</p>
+		<p class='vers'>En tracer une idÃ©e et vous y peindre entiÃ¨re</p>
+		<p class='vers'>Combien de vous louer verrai-je de matiÃ¨re</p>
+		<p class='vers'>Je le laisse Ã  juger, et borne tous mes vÂœux</p>
+		<p class='vers'>Ã€ montrer dans mes vers, ce qu'on voit dans vos yeux.</p>
+		<p class='vers'>Mais aprÃ¨s que ces yeux m'ont su faire connaÃ®tre</p>
+		<p class='vers'>La noblesse du sang dont on vous a vu naÃ®tre</p>
+		<p class='vers'>Et que par leur Ã©clat instruit de leur pouvoir</p>
+		<p class='vers'>J'ai tÃ¢chÃ© d'exprimer ce qu'ils m'en ont fait voir</p>
+		<p class='vers'>Souffrez sans vous lasser que mes faibles paupiÃ¨res</p>
+		<p class='vers'>En empruntent encor de nouvelles lumiÃ¨res</p>
 		<p class='vers'>Et que par vos regards instruit de mieux en mieux</p>
 		<p class='vers'>Je puisse peindre au vif ce qu'on lit dans vos yeux ;</p>
-		<p class='vers'>Mais je m'y perds moi-même et vois mon impuissance</p>
-		<p class='vers'>Il faudrait pour le faire avoir leur éloquence</p>
-		<p class='vers'>Ou du moins que mes vers eussent les agréments</p>
+		<p class='vers'>Mais je m'y perds moi-mÃªme et vois mon impuissance</p>
+		<p class='vers'>Il faudrait pour le faire avoir leur Ã©loquence</p>
+		<p class='vers'>Ou du moins que mes vers eussent les agrÃ©ments</p>
 		<p class='vers'>Que l'on peut remarquer dedans leurs mouvements</p>
-		<p class='vers'>Qu'on y vît cette ardeur qui brille en vos prunelles</p>
-		<p class='vers'>Qu'à leur force on connût que je veux parler d'elles</p>
+		<p class='vers'>Qu'on y vÃ®t cette ardeur qui brille en vos prunelles</p>
+		<p class='vers'>Qu'Ã  leur force on connÃ»t que je veux parler d'elles</p>
 		<p class='vers'>Et qu'enfin mes accents plus coulants et plus doux</p>
-		<p class='vers'>Méritassent l'honneur d'être estimés de vous.</p>
-		<p class='vers'>Alors par ce penser ma veine ranimée</p>
-		<p class='vers'>Tracerait ces vertus dont mon âme est charmée</p>
-		<p class='vers'>Et suivant de vos yeux l'éclat et les rayons</p>
-		<p class='vers'>J'en ferais à plaisir les illustres crayons ;</p>
+		<p class='vers'>MÃ©ritassent l'honneur d'Ãªtre estimÃ©s de vous.</p>
+		<p class='vers'>Alors par ce penser ma veine ranimÃ©e</p>
+		<p class='vers'>Tracerait ces vertus dont mon Ã¢me est charmÃ©e</p>
+		<p class='vers'>Et suivant de vos yeux l'Ã©clat et les rayons</p>
+		<p class='vers'>J'en ferais Ã  plaisir les illustres crayons ;</p>
 		<p class='vers'>Dans ce vaste tableau chacune aurait sa place</p>
 		<p class='vers'>On y verrait d'abord une divine audace</p>
-		<p class='vers'>Et sous divers habits on verrait tour à tour</p>
-		<p class='vers'>Les grâces et l'honneur, qui vous feraient la cour,</p>
-		<p class='vers'>Plus loin l'on y verrait la discrète prudence</p>
-		<p class='vers'>Régler vos actions d'une juste balance</p>
+		<p class='vers'>Et sous divers habits on verrait tour Ã  tour</p>
+		<p class='vers'>Les grÃ¢ces et l'honneur, qui vous feraient la cour,</p>
+		<p class='vers'>Plus loin l'on y verrait la discrÃ¨te prudence</p>
+		<p class='vers'>RÃ©gler vos actions d'une juste balance</p>
 		<p class='vers'>En soutenir partout le poids et la grandeur</p>
-		<p class='vers'>Pour compagne elle aurait une fière pudeur,</p>
+		<p class='vers'>Pour compagne elle aurait une fiÃ¨re pudeur,</p>
 		<p class='vers'>Outre cette pudeur, on y verrait encore</p>
-		<p class='vers'>Toutes ces qualités qui font qu'on vous adore</p>
-		<p class='vers'>Et surtout on verrait la libéralité</p>
-		<p class='vers'>Parler de vos excès de générosité,</p>
-		<p class='vers'>Je ferais mes efforts pour y pouvoir dépeindre</p>
+		<p class='vers'>Toutes ces qualitÃ©s qui font qu'on vous adore</p>
+		<p class='vers'>Et surtout on verrait la libÃ©ralitÃ©</p>
+		<p class='vers'>Parler de vos excÃ¨s de gÃ©nÃ©rositÃ©,</p>
+		<p class='vers'>Je ferais mes efforts pour y pouvoir dÃ©peindre</p>
 		<p class='vers'>Cette grande vertu qu'autre part il faut feindre</p>
 		<p class='vers'>Et pour n'y perdre pas et ma peine et mes soins</p>
-		<p class='vers'>J'en peindrais à vos pieds cent illustres témoins</p>
+		<p class='vers'>J'en peindrais Ã  vos pieds cent illustres tÃ©moins</p>
 		<p class='vers'>Et saurais faire voir par tant d'illustres marques</p>
-		<p class='vers'>Que vous devez régner sur les cœurs des monarques</p>
+		<p class='vers'>Que vous devez rÃ©gner sur les cÂœurs des monarques</p>
 		<p class='vers'>Que tout le monde entier reconnaissant vos droits</p>
-		<p class='vers'>Tiendrait à grand bonheur de recevoir vos lois.</p>
+		<p class='vers'>Tiendrait Ã  grand bonheur de recevoir vos lois.</p>
 		<p class='vers'>Mais attendant l'aveu d'une telle entreprise</p>
-		<p class='vers'>De grâce laissez-moi jouir de ma surprise</p>
-		<p class='vers'>Par mon étonnement montrez votre pouvoir</p>
+		<p class='vers'>De grÃ¢ce laissez-moi jouir de ma surprise</p>
+		<p class='vers'>Par mon Ã©tonnement montrez votre pouvoir</p>
 		<p class='vers'>Il en marquera plus que je n'en ai fait voir.</p>
-		<p class='vers'>Quand pour louer quelqu'un l'on manque d'éloquence</p>
+		<p class='vers'>Quand pour louer quelqu'un l'on manque d'Ã©loquence</p>
 		<p class='vers'>C'est en dire beaucoup que garder le silence</p>
 		<p class='vers'>Ainsi je ne crains pas que le mien soit suspect</p>
 		<p class='vers'>Puisqu'en ne disant rien je prouve mon Respect.</p>
 		<p>SOMAIZE.</p>
-	</preface>
-	<preface><head>AU LECTEUR.</head>
-		<p>Quoi que dans un si petit Ouvrage, l'on n'ait pas coutume de marquer les fautes d'impression, quelques-unes de celles qui se sont passées dans celui-ci, m'ont semblé assez considérables pour les mettre en ce lieu ; c'est pourquoi page 4 vers 12 au lieu de : à ne plus s'élever, lisez : à ne se plus louer, page 10 au lieu des vers 5 et 6 lisez :</p>
+	</div>
+	<div type="preface"><head>AU LECTEUR.</head>
+		<p>Quoi que dans un si petit Ouvrage, l'on n'ait pas coutume de marquer les fautes d'impression, quelques-unes de celles qui se sont passÃ©es dans celui-ci, m'ont semblÃ© assez considÃ©rables pour les mettre en ce lieu ; c'est pourquoi page 4 vers 12 au lieu de : Ã  ne plus s'Ã©lever, lisez : Ã  ne se plus louer, page 10 au lieu des vers 5 et 6 lisez :</p>
 		<p class='vers'>Ces pendardes enfin, faut que je le confesse</p>
 		<p class='vers'>Me veulent ruiner en pommadant sans cesse.</p>
-		<p>Page 14 au 3e vers, ajoutez au commencement : Et. Page 15 vers 2 au lieu de : vous devriez, lisez : il vous faudrait un peu. Page 47 vers 9 après bien, ajoutez tôt. Page 55 au lieu du vers quatre, lisez :</p>
-		<p class='vers'>Qui seront reliés mieux que ceux du commun.</p>
-		<p>Je ne marquerai point plusieurs autres vers qui ont plus ou moins de syllabes qu'il ne leur en faut parce que se trouvant peu de copies dans lesquelles il s'en soit coulé, et les ayant corrigées de bonne heure, je te pourrais montrer des fautes que tu ne trouverais pas s'il tombait entre tes mains de celles qui sont corrigées.</p>
-		<p>Par exemple, il y en a dans la page 59 devant le 5e vers, où le nom de Mascarille, est oublié. Il faut que les procès plaisent merveilleusement aux Libraires du Palais, puisqu'à peine le Dictionnaire des Précieuses est en vente, et cette Comédie achevée d'imprimer, que de Luynes, Sercy et Barbin, malgré le Privilège que Monseigneur le Chancelier m'en a donné, avec toute la connaissance possible, ne laissent pas de faire signifier une opposition à mon Libraire : comme si jusqu'ici les Versions avaient été défendues, et qu'il ne fût pas permis de mettre le Pater noster Français, en vers.</p>
-	</preface>
+		<p>Page 14 au 3e vers, ajoutez au commencement : Et. Page 15 vers 2 au lieu de : vous devriez, lisez : il vous faudrait un peu. Page 47 vers 9 aprÃ¨s bien, ajoutez tÃ´t. Page 55 au lieu du vers quatre, lisez :</p>
+		<p class='vers'>Qui seront reliÃ©s mieux que ceux du commun.</p>
+		<p>Je ne marquerai point plusieurs autres vers qui ont plus ou moins de syllabes qu'il ne leur en faut parce que se trouvant peu de copies dans lesquelles il s'en soit coulÃ©, et les ayant corrigÃ©es de bonne heure, je te pourrais montrer des fautes que tu ne trouverais pas s'il tombait entre tes mains de celles qui sont corrigÃ©es.</p>
+		<p>Par exemple, il y en a dans la page 59 devant le 5e vers, oÃ¹ le nom de Mascarille, est oubliÃ©. Il faut que les procÃ¨s plaisent merveilleusement aux Libraires du Palais, puisqu'Ã  peine le Dictionnaire des PrÃ©cieuses est en vente, et cette ComÃ©die achevÃ©e d'imprimer, que de Luynes, Sercy et Barbin, malgrÃ© le PrivilÃ¨ge que Monseigneur le Chancelier m'en a donnÃ©, avec toute la connaissance possible, ne laissent pas de faire signifier une opposition Ã  mon Libraire : comme si jusqu'ici les Versions avaient Ã©tÃ© dÃ©fendues, et qu'il ne fÃ»t pas permis de mettre le Pater noster FranÃ§ais, en vers.</p>
+	</div>
 
 		<castList><head>LES PERSONNAGES.</head>
-	      <castItem><role id="LA GRANGE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>LA GRANGE</role>, Amant rebuté.</castItem>
-	      <castItem><role id="DU CROISY" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>DU CROISY</role>, Amant rebuté.</castItem>
-	      <castItem><role id="GORGIBUS" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>GORGIBUS</role>, Bon Bourgeois.</castItem>
-	      <castItem><role id="MADELON" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>MADELON</role>, Fille de Gorgibus, Précieuse Ridicule.</castItem>
-	      <castItem><role id="CATHOS" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>CATHOS</role>, Nièce de Gorgibus, Précieuse Ridicule.</castItem>
-	      <castItem><role id="MAROTTE" civil='F' type="H" statut='servante' age='A' stat_amour='néant'>MAROTTE</role>, Servante des Précieuses Ridicules.</castItem>
-	      <castItem><role id="ALMANZOR" civil='M' type="H" statut='laquais' age='A' stat_amour='néant'>ALMANZOR</role>, Laquais des Précieuses Ridicules.</castItem>
-	      <castItem><role id="MASCARILLE" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>LE MARQUIS DE MASCARILLE</role>, Valet de la Grange.</castItem>
-	      <castItem><role id="JODELET" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>LE VICOMTE DE JODELET</role>, Valet de du Croisy.</castItem>
-	      <castItem><role id="DEUX PORTEURS" civil='G' type="H" statut='porteur' age='A' stat_amour='néant'>DEUX PORTEURS de chaise</role>.</castItem>
-	      <castItem><role id="VOISINES" civil='G' type="H" statut='peuple' age='A' stat_amour='néant'>VOISINES</role>.</castItem>
-	      <castItem><role id="VIOLONS" civil='G' type="H" statut='musicien' age='A' stat_amour='néant'>VIOLONS</role>.</castItem>
+	      <castItem><role id="LA GRANGE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='nÃ©ant'>LA GRANGE</role>, Amant rebutÃ©.</castItem>
+	      <castItem><role id="DU CROISY" civil='M' type="H" statut='aristocrate' age='A' stat_amour='nÃ©ant'>DU CROISY</role>, Amant rebutÃ©.</castItem>
+	      <castItem><role id="GORGIBUS" civil='M' type="H" statut='bourgeois' age='A' stat_amour='nÃ©ant'>GORGIBUS</role>, Bon Bourgeois.</castItem>
+	      <castItem><role id="MADELON" civil='F' type="H" statut='bourgeois' age='A' stat_amour='nÃ©ant'>MADELON</role>, Fille de Gorgibus, PrÃ©cieuse Ridicule.</castItem>
+	      <castItem><role id="CATHOS" civil='F' type="H" statut='bourgeois' age='A' stat_amour='nÃ©ant'>CATHOS</role>, NiÃ¨ce de Gorgibus, PrÃ©cieuse Ridicule.</castItem>
+	      <castItem><role id="MAROTTE" civil='F' type="H" statut='servante' age='A' stat_amour='nÃ©ant'>MAROTTE</role>, Servante des PrÃ©cieuses Ridicules.</castItem>
+	      <castItem><role id="ALMANZOR" civil='M' type="H" statut='laquais' age='A' stat_amour='nÃ©ant'>ALMANZOR</role>, Laquais des PrÃ©cieuses Ridicules.</castItem>
+	      <castItem><role id="MASCARILLE" civil='M' type="H" statut='valet' age='A' stat_amour='nÃ©ant'>LE MARQUIS DE MASCARILLE</role>, Valet de la Grange.</castItem>
+	      <castItem><role id="JODELET" civil='M' type="H" statut='valet' age='A' stat_amour='nÃ©ant'>LE VICOMTE DE JODELET</role>, Valet de du Croisy.</castItem>
+	      <castItem><role id="DEUX PORTEURS" civil='G' type="H" statut='porteur' age='A' stat_amour='nÃ©ant'>DEUX PORTEURS de chaise</role>.</castItem>
+	      <castItem><role id="VOISINES" civil='G' type="H" statut='peuple' age='A' stat_amour='nÃ©ant'>VOISINES</role>.</castItem>
+	      <castItem><role id="VIOLONS" civil='G' type="H" statut='musicien' age='A' stat_amour='nÃ©ant'>VIOLONS</role>.</castItem>
 	</castList>
-	<set location='Paris' country='France' periode='XVIIème' link=''>La scène est à Paris.</set>
+	<set location='Paris' country='France' periode='XVIIÃ¨me' link=''>La scÃ¨ne est Ã  Paris.</set>
 	</front>
 <body>
-<div1 type='acte' n='1'><head></head>
-<div2 type='scene' n='1'><head>SCÈNE I. La Grange, Du Croisy.</head>
+<div1 type="act" n='1'><head></head>
+<div2 type="scene" n='1'><head>SCÃˆNE I. La Grange, Du Croisy.</head>
 <sp who="DU CROISY"><speaker>DU CROISY.</speaker>
 	<l id="1" part='i'>Seigneur, la Grange.</l>
 </sp>
 <sp who="LA GRANGE"><speaker>LA GRANGE.</speaker>
-	<l id="1" part='m'>Hé bien ?</l>
+	<l id="1" part='m'>HÃ© bien ?</l>
 </sp>
 <sp who="DU CROISY"><speaker>DU CROISY.</speaker>
 	<l id="1" part='f'>Regardez-moi sans rire.</l>
 </sp>
 <sp who="LA GRANGE"><speaker>LA GRANGE.</speaker>
-	<l id="2">Parlez, je vous entends. Qu'avez-vous à me dire ?</l>
+	<l id="2">Parlez, je vous entends. Qu'avez-vous Ã  me dire ?</l>
 	<l id="3" part='i'>Quoi.</l>
 </sp>
 <sp who="DU CROISY"><speaker>DU CROISY.</speaker>
-	<l id="3" part='f'>De notre visite êtes vous satisfait ?</l>
+	<l id="3" part='f'>De notre visite Ãªtes vous satisfait ?</l>
 </sp>
 <sp who="LA GRANGE"><speaker>LA GRANGE.</speaker>
-	<l id="4" part='i'>Pas trop à dire vrai, mais vous ?</l>
+	<l id="4" part='i'>Pas trop Ã  dire vrai, mais vous ?</l>
 </sp>
 <sp who="DU CROISY"><speaker>DU CROISY.</speaker>
-	<l id="4" part='f'>Pas tout à fait.</l>
+	<l id="4" part='f'>Pas tout Ã  fait.</l>
 </sp>
 <sp who="LA GRANGE"><speaker>LA GRANGE.</speaker>
-	<l id="5">J'en suis scandalisé, pour moi je le confesse</l>
-	<l id="6">Un procédé semblable, et me choque et me blesse,</l>
+	<l id="5">J'en suis scandalisÃ©, pour moi je le confesse</l>
+	<l id="6">Un procÃ©dÃ© semblable, et me choque et me blesse,</l>
 <note type="L">Pecque : Terme d'injure. Femme sotte et impertinente qui fait l'entendue. [L] id. MOL. PREC. RIDIC.</note>
 	<l id="7">Deux pecques de Province, ont-elles dites-moi ?</l>
-	<l id="8">Jamais plus fièrement, tenu leur quant à moi</l>
+	<l id="8">Jamais plus fiÃ¨rement, tenu leur quant Ã  moi</l>
 	<l id="9">Et deux hommes jamais, en pareille occurrence</l>
-	<l id="10">Ont-ils été reçus avec plus d'arrogance :</l>
-	<l id="11">Pendant que nous avons demeuré pour les voir</l>
-	<l id="12">À peine elles nous ont prié de nous asseoir,</l>
+	<l id="10">Ont-ils Ã©tÃ© reÃ§us avec plus d'arrogance :</l>
+	<l id="11">Pendant que nous avons demeurÃ© pour les voir</l>
+	<l id="12">Ã€ peine elles nous ont priÃ© de nous asseoir,</l>
 	<l id="13">Je suis encor surpris, d'une chose pareille</l>
-	<l id="14">On n'a jamais tant vu, se parler à l'oreille,</l>
+	<l id="14">On n'a jamais tant vu, se parler Ã  l'oreille,</l>
 	<l id="15">Tant se frotter les yeux, tant bailler, tant moucher,</l>
-	<l id="16">Tant s'enquérir de l'heure, et si souvent cracher.</l>
+	<l id="16">Tant s'enquÃ©rir de l'heure, et si souvent cracher.</l>
 	<l id="17">Nous ont-elles jamais dit, quatre mots de suite,</l>
-	<l id="18">Oui, ou non, ont-ils pas payé notre visite,</l>
-<note type="L">Gredins : Gueux, misérable, qui est de la lie du peuple. [F]</note>
-	<l id="19">Et quand nous aurions même été de vrais gredins</l>
-	<l id="20">Nous auraient-elles pu montrer plus de dédains.</l>
+	<l id="18">Oui, ou non, ont-ils pas payÃ© notre visite,</l>
+<note type="L">Gredins : Gueux, misÃ©rable, qui est de la lie du peuple. [F]</note>
+	<l id="19">Et quand nous aurions mÃªme Ã©tÃ© de vrais gredins</l>
+	<l id="20">Nous auraient-elles pu montrer plus de dÃ©dains.</l>
 </sp>
 <sp who="DU CROISY"><speaker>DU CROISY.</speaker>
-	<l id="21">À vous ouïr parler, de cet accueil farouche</l>
+	<l id="21">Ã€ vous ouÃ¯r parler, de cet accueil farouche</l>
 	<l id="22">Il semble tout de bon, que la chose vous touche.</l>
 </sp>
 <sp who="LA GRANGE"><speaker>LA GRANGE.</speaker>
-	<l id="23">Sans doute elle me touche, et de telle façon</l>
+	<l id="23">Sans doute elle me touche, et de telle faÃ§on</l>
 	<l id="24">Que devant qu'il soit peu, j'en veux tirer raison ;</l>
-	<l id="25">Je connais ce que c'est, l'air précieux dans doute</l>
+	<l id="25">Je connais ce que c'est, l'air prÃ©cieux dans doute</l>
 	<l id="26">Dans la campagne aussi, vient de prendre sa route,</l>
 	<l id="27">Et de Paris enfin courant, de part en part</l>
 <note type="L">Donzelle : Terme burlesque qui se dit pour demoiselle ; mais il est odieux et offensant ; et se prend ordinairement en mauvaise part. [F]</note>
-	<l id="28">Nos donzelles en ont, humé leur bonne part ;</l>
-	<l id="29">On connaît aisément, en voyant leur personne</l>
-	<l id="30">Que c'est la vérité que ce que j'en soupçonne,</l>
-	<l id="31">On y voit certain air coquet et précieux</l>
+	<l id="28">Nos donzelles en ont, humÃ© leur bonne part ;</l>
+	<l id="29">On connaÃ®t aisÃ©ment, en voyant leur personne</l>
+	<l id="30">Que c'est la vÃ©ritÃ© que ce que j'en soupÃ§onne,</l>
+	<l id="31">On y voit certain air coquet et prÃ©cieux</l>
 	<l id="32">Et qui n'est en un mot, qu'un ambigu des deux :</l>
-	<l id="33">Pour en être reçu, je vois ce qu'il faut être,</l>
-	<l id="34">Je vois ce qu'à leurs yeux, il faut enfin paraître,</l>
+	<l id="33">Pour en Ãªtre reÃ§u, je vois ce qu'il faut Ãªtre,</l>
+	<l id="34">Je vois ce qu'Ã  leurs yeux, il faut enfin paraÃ®tre,</l>
 	<l id="35">Et si vous me croyez, nous leur devons jouer</l>
-	<l id="36">Un tour, pour leur apprendre à ne pas s'élever,</l>
-<note type="L">Faconde : Faclité à parler d'abondance. Peu usité en ce sens qui est le sens propre et qui a veilli. [F]</note>
-	<l id="37">La pièce assurément paraîtra sans faconde</l>
-	<l id="38">Et leur montrera bien à connaître le monde.</l>
+	<l id="36">Un tour, pour leur apprendre Ã  ne pas s'Ã©lever,</l>
+<note type="L">Faconde : FaclitÃ© Ã  parler d'abondance. Peu usitÃ© en ce sens qui est le sens propre et qui a veilli. [F]</note>
+	<l id="37">La piÃ¨ce assurÃ©ment paraÃ®tra sans faconde</l>
+	<l id="38">Et leur montrera bien Ã  connaÃ®tre le monde.</l>
 </sp>
 <sp who="DU CROISY"><speaker>DU CROISY.</speaker>
 	<l id="39" part='i'>Comment ?</l>
 </sp>
 <sp who="LA GRANGE"><speaker>LA GRANGE.</speaker>
-<note type="L">Laquais : Valet roturier qui suit à pied son maître, et qui porte ses livrées. [F]</note>
+<note type="L">Laquais : Valet roturier qui suit Ã  pied son maÃ®tre, et qui porte ses livrÃ©es. [F]</note>
 	<l id="39" part='f'>J'ai Mascarille, un certain grand laquais</l>
 	<l id="40">Qui passe au sentiment d'esprits assez mal faits,</l>
-	<l id="41">Pour être un bel esprit, car au siècle où nous sommes</l>
-	<l id="42">Il est à bon marché, chez la plupart des hommes.</l>
+	<l id="41">Pour Ãªtre un bel esprit, car au siÃ¨cle oÃ¹ nous sommes</l>
+	<l id="42">Il est Ã  bon marchÃ©, chez la plupart des hommes.</l>
 	<l id="43">C'est un extravagant, qui par ambition</l>
-	<l id="44">Tâche d'être partout cru de condition,</l>
+	<l id="44">TÃ¢che d'Ãªtre partout cru de condition,</l>
 	<l id="45">Il se pique d'esprit, de vers, de raillerie,</l>
-	<l id="46">Croit fort bien réussir, dans la galanterie</l>
-	<l id="47">Fait le maître partout dédaigne ses égaux</l>
-	<l id="48">Jusques à les traiter, d'ignorants de brutaux.</l>
+	<l id="46">Croit fort bien rÃ©ussir, dans la galanterie</l>
+	<l id="47">Fait le maÃ®tre partout dÃ©daigne ses Ã©gaux</l>
+	<l id="48">Jusques Ã  les traiter, d'ignorants de brutaux.</l>
 </sp>
 <sp who="DU CROISY"><speaker>DU CROISY.</speaker>
-	<l id="49">Hé bien ! De ce valet que prétendez-vous faire :</l>
+	<l id="49">HÃ© bien ! De ce valet que prÃ©tendez-vous faire :</l>
 </sp>
 <sp who="LA GRANGE"><speaker>LA GRANGE.</speaker>
-	<l id="50">Mon dessein n'a jamais été de vous le taire</l>
+	<l id="50">Mon dessein n'a jamais Ã©tÃ© de vous le taire</l>
 	<l id="51">Il nous faut... Mais sortons, car tout n'irait pas bien</l>
 	<l id="52">Si Gorgibus, qui vient savait notre entretien.</l>
 </sp>
 </div2>
-<div2 type='scene' n='2'><head>SCÈNE II. Gorgibus, Du Croisy, La Grange.</head>
+<div2 type="scene" n='2'><head>SCÃˆNE II. Gorgibus, Du Croisy, La Grange.</head>
 <sp who="GORGIBUS"><speaker>GORGIBUS.</speaker>
-	<l id="53">Hé bien ? Vous avez vu ma nièce avec ma fille</l>
-	<l id="54">Avez-vous résolu d'entrer ; dans ma famille,</l>
+	<l id="53">HÃ© bien ? Vous avez vu ma niÃ¨ce avec ma fille</l>
+	<l id="54">Avez-vous rÃ©solu d'entrer ; dans ma famille,</l>
 	<l id="55">D'une pareille affaire, encor que dites-vous ?</l>
 </sp>
 <sp who="LA GRANGE"><speaker>LA GRANGE.</speaker>
 	<l id="56">Vous le saurez Monsieur, mieux d'elles, que de nous,</l>
-	<l id="57">Tout ce que nous pouvons à présent vous apprendre</l>
-	<l id="58">C'est, que nous avons trop de grâces à vous rendre,</l>
-	<l id="59">De toutes vos bontés, de toutes vos faveurs</l>
+	<l id="57">Tout ce que nous pouvons Ã  prÃ©sent vous apprendre</l>
+	<l id="58">C'est, que nous avons trop de grÃ¢ces Ã  vous rendre,</l>
+	<l id="59">De toutes vos bontÃ©s, de toutes vos faveurs</l>
 	<l id="60">Et que nous demeurons vos humbles serviteurs.</l>
 </sp>
 <sp who="GORGIBUS"><speaker>GORGIBUS.</speaker>
 	<l id="61">Ouais ? Ils sont mal contents, que cela veut-il dire.</l>
 	<l id="62">Faisons venir quelqu'un qui nous puisse instruire.</l>
-	<l id="63">Je veux m'en enquérir, et savoir promptement</l>
-	<l id="64">D'où leur pourrait venir, ce mécontentement :</l>
+	<l id="63">Je veux m'en enquÃ©rir, et savoir promptement</l>
+	<l id="64">D'oÃ¹ leur pourrait venir, ce mÃ©contentement :</l>
 	<l id="65">Ces coquines, toujours me causent mille angoisses</l>
-	<l id="66" part='i'>Holà ?</l>
+	<l id="66" part='i'>HolÃ  ?</l>
 </sp>
 </div2>
-<div2 type='scene' n='3'><head>SCÈNE III. Marotte, Gorgibus.</head>
+<div2 type="scene" n='3'><head>SCÃˆNE III. Marotte, Gorgibus.</head>
 <sp who="MAROTTE"><speaker>MAROTTE.</speaker>
-	<l id="66" part='m'>Plaît-il Monsieur ?</l>
+	<l id="66" part='m'>PlaÃ®t-il Monsieur ?</l>
 </sp>
 <sp who="GORGIBUS"><speaker>GORGIBUS.</speaker>
 <note type="C">Le vers 66 ne rime pas avec le vers 65.</note>
-	<l id="66" part='f'>Où sont donc vos maîtresses ?</l>
+	<l id="66" part='f'>OÃ¹ sont donc vos maÃ®tresses ?</l>
 	<l id="67" part='i'>Qu'on les fasse venir.</l>
 </sp>
 <sp who="MAROTTE"><speaker>MAROTTE.</speaker>
 	<l id="67" part='f'>Je pense qu'elles sont</l>
-<note type="L">Cabinet : Le lieu le plus retiré dans le plus bel appartement des Palais, des grandes maisons. Signifie aussi une pièce d'appartement, où l'on étudie, où l'on se séquestre du reste du monde, et où l'on serre ce qu'on a de plus précieux. [F]</note>
+<note type="L">Cabinet : Le lieu le plus retirÃ© dans le plus bel appartement des Palais, des grandes maisons. Signifie aussi une piÃ¨ce d'appartement, oÃ¹ l'on Ã©tudie, oÃ¹ l'on se sÃ©questre du reste du monde, et oÃ¹ l'on serre ce qu'on a de plus prÃ©cieux. [F]</note>
 	<l id="68" part='i'>Dedans leur cabinet.</l>
 </sp>
 <sp who="GORGIBUS"><speaker>GORGIBUS.</speaker>
 	<l id="68" part='f'>Qu'est-ce qu'elles y font ?</l>
 </sp>
 <sp who="MAROTTE"><speaker>MAROTTE.</speaker>
-	<l id="69" part='i'>Pour les lèvres Monsieur.</l>
+	<l id="69" part='i'>Pour les lÃ¨vres Monsieur.</l>
 </sp>
 <sp who="GORGIBUS"><speaker>GORGIBUS.</speaker>
 	<l id="69" part='m'>Et quoi ?</l>
@@ -346,38 +345,38 @@
 	<l id="69" part='f'>De la pommade</l>
 </sp>
 <sp who="GORGIBUS"><speaker>GORGIBUS.</speaker>
-<note type="L">Aubade : Concert qu'on donne dès le matin à la porte ou sous les fenêtres de quelqu'un pour l'honorer, ou pour se réjouir. [F]</note>
+<note type="L">Aubade : Concert qu'on donne dÃ¨s le matin Ã  la porte ou sous les fenÃªtres de quelqu'un pour l'honorer, ou pour se rÃ©jouir. [F]</note>
 	<l id="70">Nous avons tous les jours une semblable aubade.</l>
-	<l id="71">Tout cela me déplaît, et c'est trop pommader</l>
+	<l id="71">Tout cela me dÃ©plaÃ®t, et c'est trop pommader</l>
 	<l id="72">Qu'on les fasse descendre, allez et sans tarder.</l>
 	<l id="73">Il le faut avouer, je crois que ces pendardes</l>
 	<l id="74">Me veulent ruiner, avecque leurs pommades ;</l>
-	<l id="75">Mais je me fâcherai si l'on me pousse à bout ;</l>
+	<l id="75">Mais je me fÃ¢cherai si l'on me pousse Ã  bout ;</l>
 	<l id="76">Je ne vois que blancs d'oeufs, lait virginal partout,</l>
-	<l id="77">Partout, dans le logis, je ne vois que paraître</l>
-<note>Brimborions : Terme de mépris qui sert à exprimer des curiosités légères et de peu de valeur. [F]</note>
-	<l id="78">Mille brimborions, que je ne puis connaître :</l>
-	<l id="79">Elles ont employé, le lard de dix cochons</l>
+	<l id="77">Partout, dans le logis, je ne vois que paraÃ®tre</l>
+<note>Brimborions : Terme de mÃ©pris qui sert Ã  exprimer des curiositÃ©s lÃ©gÃ¨res et de peu de valeur. [F]</note>
+	<l id="78">Mille brimborions, que je ne puis connaÃ®tre :</l>
+	<l id="79">Elles ont employÃ©, le lard de dix cochons</l>
 	<l id="80">Et je puis assurer que des pieds de moutons</l>
-	<l id="81">Dont ici chaque jour, elles font la dépense</l>
+	<l id="81">Dont ici chaque jour, elles font la dÃ©pense</l>
 	<l id="82">Six valets en auraient plus que leur suffisance.</l>
 </sp>
 </div2>
-<div2 type='scene' n='4'><head>SCÈNE IV. Madelon, Cathos, Gorgibus.</head>
+<div2 type="scene" n='4'><head>SCÃˆNE IV. Madelon, Cathos, Gorgibus.</head>
 <sp who="GORGIBUS"><speaker>GORGIBUS.</speaker>
 	<l id="83">Cela n'est par ma foi du tout, ni bien, ni beau</l>
-	<l id="84">Et c'est trop dépenser ; pour graisser son museau,</l>
+	<l id="84">Et c'est trop dÃ©penser ; pour graisser son museau,</l>
 	<l id="85">Dites ? Qu'ont ces Messieurs, qu'avez-vous pu leur faire ?</l>
-	<l id="86">Ils sortent froidement, et se semble en colère</l>
+	<l id="86">Ils sortent froidement, et se semble en colÃ¨re</l>
 	<l id="87">Puisque je l'avais dit, que ne les traitiez vous,</l>
-	<l id="88">Comme gens destinés, pour être vos époux.</l>
+	<l id="88">Comme gens destinÃ©s, pour Ãªtre vos Ã©poux.</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
-	<l id="89">Ah ! Que dites-vous là, quelle estime mon père</l>
+	<l id="89">Ah ! Que dites-vous lÃ , quelle estime mon pÃ¨re</l>
 	<l id="90">Pourrions-nous toutes deux, et devrions nous faire,</l>
-	<l id="91">(Quand bien vous nous l'auriez vous même commandé)</l>
-	<l id="92">De ces sortes de gens de qui le procédé </l>
-	<l id="93" part='i'>Est irrégulier.</l>
+	<l id="91">(Quand bien vous nous l'auriez vous mÃªme commandÃ©)</l>
+	<l id="92">De ces sortes de gens de qui le procÃ©dÃ© </l>
+	<l id="93" part='i'>Est irrÃ©gulier.</l>
 </sp>
 <sp who="CATHOS"><speaker>CATHOS.</speaker>
 	<l id="93" part='f'>Des filles raisonnables</l>
@@ -389,237 +388,237 @@
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
 	<l id="96" part='f'>Qu'osez-vous demander</l>
-	<l id="97">Ils n'ont fait leur début que par le mariage.</l>
+	<l id="97">Ils n'ont fait leur dÃ©but que par le mariage.</l>
 </sp>
 <sp who="GORGIBUS"><speaker>GORGIBUS.</speaker>
-<note typ="L">Concubinage : Habitation d'une garçon et d'une fille, qui vivent ensemble comme s'il étaient mariés. Le concubinage e été autrefois toléré ; mais chez les chrétiens il est défendu et scandaleux. [F]</note>
-	<l id="98">Devaient-ils débuter par le concubinage ?</l>
-	<l id="99">Était-ce le moyen de gagner votre coeur ?</l>
+<note typ="L">Concubinage : Habitation d'une garÃ§on et d'une fille, qui vivent ensemble comme s'il Ã©taient mariÃ©s. Le concubinage e Ã©tÃ© autrefois tolÃ©rÃ© ; mais chez les chrÃ©tiens il est dÃ©fendu et scandaleux. [F]</note>
+	<l id="98">Devaient-ils dÃ©buter par le concubinage ?</l>
+	<l id="99">Ã‰tait-ce le moyen de gagner votre coeur ?</l>
 	<l id="100">Ne devriez-vous pas estimer leur ardeur,</l>
-	<l id="101">Quoi ? Pouvaient-il tous deux, parler d'une manière</l>
-	<l id="102">Qui fût plus obligeante, et dût plus satisfaire,</l>
-	<l id="103">Et ce lien sacré qu'ils prétendent tous deux</l>
+	<l id="101">Quoi ? Pouvaient-il tous deux, parler d'une maniÃ¨re</l>
+	<l id="102">Qui fÃ»t plus obligeante, et dÃ»t plus satisfaire,</l>
+	<l id="103">Et ce lien sacrÃ© qu'ils prÃ©tendent tous deux</l>
 	<l id="104">Ne marque-t-il pas bien, la vertu de leurs voeux.</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
-	<l id="105">Mon père, songez mieux, à tout ce que vous dites,</l>
+	<l id="105">Mon pÃ¨re, songez mieux, Ã  tout ce que vous dites,</l>
 	<l id="106">Ces fautes tout de bon, ne sont pas trop petites ;</l>
-	<l id="107">Mais faites-vous de grâce, instruire une autre fois,</l>
+	<l id="107">Mais faites-vous de grÃ¢ce, instruire une autre fois,</l>
 	<l id="108">Ce que vous avez dit, est du dernier bourgeois,</l>
-	<l id="109">Je ne vous puis ouïr, et la honte m'accable.</l>
+	<l id="109">Je ne vous puis ouÃ¯r, et la honte m'accable.</l>
 	<l id="110">Lorsque je vous entends faire un discours semblable.</l>
 	<l id="111">J'en suis encore surprise et confuse. Bon Dieu !</l>
-	<l id="112">Pour vous désabrutir, vous devriez un peu</l>
+	<l id="112">Pour vous dÃ©sabrutir, vous devriez un peu</l>
 	<l id="113">Apprendre ce que c'est, que le bel air des choses.</l>
 </sp>
 <sp who="GORGIBUS"><speaker>GORGIBUS.</speaker>
-	<l id="114">Quel discours est-ce là ? quelles métamorphoses.</l>
+	<l id="114">Quel discours est-ce lÃ  ? quelles mÃ©tamorphoses.</l>
 	<l id="115">Je n'ai que faire ici, ni d'air, ni de chanson</l>
-	<l id="116">Ce discours me déplaît, et paraît sans raison,</l>
-	<l id="117">Et je te dis encor, que c'est être très sage</l>
+	<l id="116">Ce discours me dÃ©plaÃ®t, et paraÃ®t sans raison,</l>
+	<l id="117">Et je te dis encor, que c'est Ãªtre trÃ¨s sage</l>
 	<l id="118">Que de parler ainsi , puisque le mariage,</l>
-	<l id="119">De chacun aujourd'hui doit être révéré</l>
-	<l id="120">Et qu'il n'a rien du tout, que de saint et sacré.</l>
+	<l id="119">De chacun aujourd'hui doit Ãªtre rÃ©vÃ©rÃ©</l>
+	<l id="120">Et qu'il n'a rien du tout, que de saint et sacrÃ©.</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
-	<l id="121">Dieux ! Si chacun était de votre humeur mon père,</l>
-	<l id="122">Que la fin d'un roman, serait facile à faire,</l>
-<note type="C">Cyrus, Mandane, et Aronce sont des personnages des romans précieux de Madeleine de Scudery [1607-1701] : "Artamène ou le Grand Cyrus" (1650) et "Clélie, histoire romaine" (1656).</note>
+	<l id="121">Dieux ! Si chacun Ã©tait de votre humeur mon pÃ¨re,</l>
+	<l id="122">Que la fin d'un roman, serait facile Ã  faire,</l>
+<note type="C">Cyrus, Mandane, et Aronce sont des personnages des romans prÃ©cieux de Madeleine de Scudery [1607-1701] : "ArtamÃ¨ne ou le Grand Cyrus" (1650) et "ClÃ©lie, histoire romaine" (1656).</note>
 	<l id="123">Que cela serait beau, si Cyrus dans l'abord</l>
-	<l id="124">Sans éprouver du tout, les caprices du sort</l>
+	<l id="124">Sans Ã©prouver du tout, les caprices du sort</l>
 	<l id="125">Avait Mandane, et si sans hasarder sa vie</l>
-	<l id="126">Aronce, de plein pied, épousait sa Clélie.</l>
+	<l id="126">Aronce, de plein pied, Ã©pousait sa ClÃ©lie.</l>
 </sp>
 <sp who="GORGIBUS"><speaker>GORGIBUS.</speaker>
-	<l id="127">Qu'est-ce que celle-là me vient ici conter,</l>
-	<l id="128">À la fin je serai bientôt las d'écouter.</l>
+	<l id="127">Qu'est-ce que celle-lÃ  me vient ici conter,</l>
+	<l id="128">Ã€ la fin je serai bientÃ´t las d'Ã©couter.</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
-	<l id="129">Si vous vouliez mon père, un moment nous entendre ?</l>
+	<l id="129">Si vous vouliez mon pÃ¨re, un moment nous entendre ?</l>
 	<l id="130">Et ma cousine et moi, nous pourrions vous apprendre</l>
 	<l id="131">Que jamais un hymen ne se doit accorder</l>
-	<l id="132">Qu'après les accidents qui doivent précéder.</l>
-	<l id="133">Il faut que dans l'abord, un amant véritable</l>
-	<l id="134">Afin qu'à sa maîtresse il se rende agréable,</l>
+	<l id="132">Qu'aprÃ¨s les accidents qui doivent prÃ©cÃ©der.</l>
+	<l id="133">Il faut que dans l'abord, un amant vÃ©ritable</l>
+	<l id="134">Afin qu'Ã  sa maÃ®tresse il se rende agrÃ©able,</l>
 	<l id="135">Exprime adroitement ses plus cruels tourments,</l>
-	<l id="136">Il sache débiter tous les beaux sentiments,</l>
+	<l id="136">Il sache dÃ©biter tous les beaux sentiments,</l>
 	<l id="137">Et que sans se lasser, pour pouvoir la surprendre</l>
 	<l id="138">Il sache bien pousser, et le doux et le tendre,</l>
-	<l id="139">Que pour montrer combien son coeur est enchaîné</l>
-	<l id="140">Il fasse tout cela d'un air passionné,</l>
-	<l id="141">Et s'il prétend enfin, avancer ses affaires</l>
-	<l id="142">Que sa procédure ait les formes ordinaires.	</l>
+	<l id="139">Que pour montrer combien son coeur est enchaÃ®nÃ©</l>
+	<l id="140">Il fasse tout cela d'un air passionnÃ©,</l>
+	<l id="141">Et s'il prÃ©tend enfin, avancer ses affaires</l>
+	<l id="142">Que sa procÃ©dure ait les formes ordinaires.	</l>
 	<l id="143">Il doit dedans le temple, ou dedans d'autres lieux.</l>
-	<l id="144">Voir l'aimable beauté, qui cause tous ses voeux,</l>
-	<l id="145">Ou bien être conduit, fatalement chez elle</l>
+	<l id="144">Voir l'aimable beautÃ©, qui cause tous ses voeux,</l>
+	<l id="145">Ou bien Ãªtre conduit, fatalement chez elle</l>
 	<l id="146">Par un des bons amis, ou parent de la belle.</l>
-	<l id="147">Il sort après cela, tout chagrin tout rêveur,</l>
-	<l id="148">À l'objet de ses voeux, cache un temps son ardeur,</l>
-	<l id="149">Cependant il lui rend de fréquentes visites</l>
-	<l id="150">Et puis le plus souvent, après bien des redites,</l>
+	<l id="147">Il sort aprÃ¨s cela, tout chagrin tout rÃªveur,</l>
+	<l id="148">Ã€ l'objet de ses voeux, cache un temps son ardeur,</l>
+	<l id="149">Cependant il lui rend de frÃ©quentes visites</l>
+	<l id="150">Et puis le plus souvent, aprÃ¨s bien des redites,</l>
 	<l id="151">On voit sur le tapis, mettre une question</l>
 	<l id="152">Qui fait adroitement savoir sa passion,</l>
-	<l id="153">Et qui quoi que la belle, en paraisse troublée</l>
-	<l id="154">Exerce les esprits de toute l'assemblée</l>
-	<l id="155">De déclarer son feu, le jour arrive enfin,</l>
+	<l id="153">Et qui quoi que la belle, en paraisse troublÃ©e</l>
+	<l id="154">Exerce les esprits de toute l'assemblÃ©e</l>
+	<l id="155">De dÃ©clarer son feu, le jour arrive enfin,</l>
 	<l id="156">Ce qui se fait souvent dedans quelque jardin</l>
-	<l id="157">Lorsque par un bonheur, que le hasard amène</l>
-	<l id="158">La compagnie [se] quitte, ou plus loin se promène,</l>
-	<l id="159">D'abord à cet aveu, succède un prompt courroux</l>
-	<l id="160">Qui bannit quelque temps l'amant d'auprès de nous.</l>
-	<l id="161">Il trouve après moyen, de rassurer notre âme</l>
+	<l id="157">Lorsque par un bonheur, que le hasard amÃ¨ne</l>
+	<l id="158">La compagnie [se] quitte, ou plus loin se promÃ¨ne,</l>
+	<l id="159">D'abord Ã  cet aveu, succÃ¨de un prompt courroux</l>
+	<l id="160">Qui bannit quelque temps l'amant d'auprÃ¨s de nous.</l>
+	<l id="161">Il trouve aprÃ¨s moyen, de rassurer notre Ã¢me</l>
 	<l id="162">De nous accoutumer, aux discours de sa flamme,</l>
 	<l id="163">Et de tirer de nous, cet important aveu</l>
-	<l id="164">Qui nous fait tant de peine, et lui coûte si peu.</l>
-	<l id="165">Viennent après cela toutes les aventures</l>
-	<l id="166">Les jaloux désespoirs, les craintes les murmures,</l>
+	<l id="164">Qui nous fait tant de peine, et lui coÃ»te si peu.</l>
+	<l id="165">Viennent aprÃ¨s cela toutes les aventures</l>
+	<l id="166">Les jaloux dÃ©sespoirs, les craintes les murmures,</l>
 	<l id="167">Les plaintes sans sujet, les cris et les rivaux</l>
 	<l id="168">Qui d'un parfait amour, sont les plus cruels maux</l>
-	<l id="169">Quand par une soudaine, et fâcheuse saillie</l>
-	<l id="170">Ils viennent traverser, une flamme établie.</l>
-	<l id="171">On voit venir encor, les persécutions</l>
-	<l id="172">D'un père, qui combat de fortes passions,</l>
-	<l id="173">Qui s'obstine à les vaincre. On voit la jalousie ;</l>
-	<l id="174">Qui sur de faux soupçons trouble la fantaisie,</l>
+	<l id="169">Quand par une soudaine, et fÃ¢cheuse saillie</l>
+	<l id="170">Ils viennent traverser, une flamme Ã©tablie.</l>
+	<l id="171">On voit venir encor, les persÃ©cutions</l>
+	<l id="172">D'un pÃ¨re, qui combat de fortes passions,</l>
+	<l id="173">Qui s'obstine Ã  les vaincre. On voit la jalousie ;</l>
+	<l id="174">Qui sur de faux soupÃ§ons trouble la fantaisie,</l>
 	<l id="175">On voit enfin les pleurs et les emportements,</l>
-	<l id="176">Les fureurs d'un amant, et les enlèvements,</l>
-	<l id="177">Et tout ce qui s'ensuit. Dans les belles manières,</l>
+	<l id="176">Les fureurs d'un amant, et les enlÃ¨vements,</l>
+	<l id="177">Et tout ce qui s'ensuit. Dans les belles maniÃ¨res,</l>
 	<l id="178">C'est ainsi que chacun doit traiter ses affaires,</l>
-	<l id="179">Ce sont règles enfin, dont il faut confesser</l>
+	<l id="179">Ce sont rÃ¨gles enfin, dont il faut confesser</l>
 	<l id="180">Que quiconque est galant ne peut se dispenser ;</l>
 	<l id="181">Mais peut-on jamais voir recherche plus brutale,</l>
 	<l id="182">Parler de but en blanc, d'union conjugale,</l>
-	<l id="183">Venir rendre visite, et dès le même jour</l>
+	<l id="183">Venir rendre visite, et dÃ¨s le mÃªme jour</l>
 	<l id="184">Vouloir passer contrat, pour montrer leur amour</l>
 	<l id="185">Et prendre justement (sans voir ce qu'il faut faire)</l>
-	<l id="186">Le Roman par la queue. Encore un coup mon père,</l>
-	<l id="187">Vous pourriez bientôt voir, si vous preniez conseil,</l>
-	<l id="188">Qu'il n'est rien plus marchand, qu'un procédé pareil.</l>
-	<l id="189">Pour moi, j'ai mal au coeur, et me sens inquiète</l>
-	<l id="190">De la vision seule, où leur discours me jette.</l>
+	<l id="186">Le Roman par la queue. Encore un coup mon pÃ¨re,</l>
+	<l id="187">Vous pourriez bientÃ´t voir, si vous preniez conseil,</l>
+	<l id="188">Qu'il n'est rien plus marchand, qu'un procÃ©dÃ© pareil.</l>
+	<l id="189">Pour moi, j'ai mal au coeur, et me sens inquiÃ¨te</l>
+	<l id="190">De la vision seule, oÃ¹ leur discours me jette.</l>
 </sp>
 <sp who="GORGIBUS"><speaker>GORGIBUS.</speaker>
-	<l id="191">Voici bien du haut style : Hé ! Que vient celle-ci</l>
+	<l id="191">Voici bien du haut style : HÃ© ! Que vient celle-ci</l>
 	<l id="192">Avecque son jargon, de me conter ici.</l>
 </sp>
 <sp who="CATHOS"><speaker>CATHOS.</speaker>
 	<l id="193">Ah ! Mon oncle en effet, je vous dirai si j'ose</l>
 	<l id="194">Qu'elle vient de donner dans le vrai de la chose ;</l>
 	<l id="195">Et quel moyen aussi de recevoir des gens,</l>
-	<l id="196">Qu'à faire leur devoir, on voit si négligents,</l>
-	<l id="197">Qui n'ont de dire un mot, pas même l'industrie,</l>
-<note type="L">Galanterie : Manière polie, enjouée, et agrable de faire, ou de dire les choses ; fleurettes, douceurs amoureuses. [F]</note>
+	<l id="196">Qu'Ã  faire leur devoir, on voit si nÃ©gligents,</l>
+	<l id="197">Qui n'ont de dire un mot, pas mÃªme l'industrie,</l>
+<note type="L">Galanterie : ManiÃ¨re polie, enjouÃ©e, et agrable de faire, ou de dire les choses ; fleurettes, douceurs amoureuses. [F]</note>
 	<l id="198">Et qui sont incongrus dans la galanterie,</l>
 	<l id="199">Pour moi sans croire ici, follement m'engager</l>
 	<l id="200">Contre qui le voudra, j'oserai bien gager</l>
-	<l id="201">Que leur esprit jamais ne fut né pour apprendre</l>
-<note type="L">Carte du Tendre : Carte illustrant le parcours galant. Il y a le lac d'infifférence et les villes comme probité et générosité.</note>
+	<l id="201">Que leur esprit jamais ne fut nÃ© pour apprendre</l>
+<note type="L">Carte du Tendre : Carte illustrant le parcours galant. Il y a le lac d'infiffÃ©rence et les villes comme probitÃ© et gÃ©nÃ©rositÃ©.</note>
 	<l id="202">Ce que c'est que l'amour, et la carte du tendre,</l>
-	<l id="203">Qu'ils ont le jugement tout à fait de travers,</l>
+	<l id="203">Qu'ils ont le jugement tout Ã  fait de travers,</l>
 <note type="C">v. 204-205, liste de villages de la Carte du Tendre.</note>
 	<l id="204">Et que billets galants, petits soins, jolis vers,</l>
 	<l id="205">Billet doux, sont pour eux des terres inconnues,</l>
 	<l id="206">Comme si maintenant ils descendaient des nues.</l>
-	<l id="207">Je puis vous dire encor, sans en demeurer là,</l>
-	<l id="208">Que tout leur procédé marque assez bien cela,</l>
+	<l id="207">Je puis vous dire encor, sans en demeurer lÃ ,</l>
+	<l id="208">Que tout leur procÃ©dÃ© marque assez bien cela,</l>
 	<l id="209">Et qu'on ne trouve point dans toute leur personne</l>
-	<l id="210">Ce je ne sais quel charme, et qui dès l'abord donne</l>
+	<l id="210">Ce je ne sais quel charme, et qui dÃ¨s l'abord donne</l>
 	<l id="211">Par un air attirant, et de condition</l>
-	<l id="212">De quantité de gens, fort bonne opinion.</l>
+	<l id="212">De quantitÃ© de gens, fort bonne opinion.</l>
 	<l id="213">Vit-on jamais encor, chose plus merveilleuse</l>
 	<l id="214">Oser venir tous deux en visite amoureuse</l>
-	<l id="215">Avecque des chapeaux de plumes désarmés,</l>
-	<l id="216">Ne paraître tous deux nullement enflammés,</l>
+	<l id="215">Avecque des chapeaux de plumes dÃ©sarmÃ©s,</l>
+	<l id="216">Ne paraÃ®tre tous deux nullement enflammÃ©s,</l>
 	<l id="217">Avoir avec cela, la jambe toute unie,</l>
-	<l id="218">La tête de cheveux, tout à fait dégarnie,</l>
-	<l id="219">Toute irrégulière, et des habits enfin,</l>
-	<l id="220">Qui ressemblent à ceux de quelque vrai gredin,</l>
-	<l id="221">Et souffrent de rubans une extrême indigence.</l>
+	<l id="218">La tÃªte de cheveux, tout Ã  fait dÃ©garnie,</l>
+	<l id="219">Toute irrÃ©guliÃ¨re, et des habits enfin,</l>
+	<l id="220">Qui ressemblent Ã  ceux de quelque vrai gredin,</l>
+	<l id="221">Et souffrent de rubans une extrÃªme indigence.</l>
 	<l id="222">Ah ! Mon Dieu, quels amants, j'en rougis quand j'y pense,</l>
-	<l id="223">Quelle frugalité d'ajustement, bon Dieu</l>
+	<l id="223">Quelle frugalitÃ© d'ajustement, bon Dieu</l>
 	<l id="224">Est-ce ainsi que l'on doit venir offrir ses voeux,</l>
-	<l id="225">Que d'indigence en tout, et quelle sècheresse</l>
+	<l id="225">Que d'indigence en tout, et quelle sÃ¨cheresse</l>
 	<l id="226">De conversation, ah ! Tout cela me blesse,</l>
-	<l id="227">Toujours on y languit, on n'y tient point, hélas !</l>
-<note type="L">Rabat : Pièce de toile que les hommes mettent autour du collet de leur pourpoint, tant pour l'ornement que pour la propreté. [L]</note>
-	<l id="228">J'ai remarqué de plus encor, que leurs rabats</l>
-	<l id="229">Par l'excès surprenant d'une avarice honteuse,</l>
-	<l id="230">N'ont jamais été faits, par la bonne faiseuse ;</l>
+	<l id="227">Toujours on y languit, on n'y tient point, hÃ©las !</l>
+<note type="L">Rabat : PiÃ¨ce de toile que les hommes mettent autour du collet de leur pourpoint, tant pour l'ornement que pour la propretÃ©. [L]</note>
+	<l id="228">J'ai remarquÃ© de plus encor, que leurs rabats</l>
+	<l id="229">Par l'excÃ¨s surprenant d'une avarice honteuse,</l>
+	<l id="230">N'ont jamais Ã©tÃ© faits, par la bonne faiseuse ;</l>
 	<l id="231">Qu'il s'en faut demi-pied (je le dis sans erreur)</l>
-<note type="L">Chausses : Signifie la partie inférieure de l'habit d'un homme, qui lui couvre les fesses, le ventre et le cuisses. [F]</note>
+<note type="L">Chausses : Signifie la partie infÃ©rieure de l'habit d'un homme, qui lui couvre les fesses, le ventre et le cuisses. [F]</note>
 	<l id="232">Que leurs chausses enfin, n'aient assez de largeur.</l>
 </sp>
 <sp who="GORGIBUS"><speaker>GORGIBUS.</speaker>
-	<l id="233">Voilà de grands discours que je ne puis entendre</l>
-<note type="L">Baragouin : Langage corrompu ; ou inconnu, qu'on n'entend pas; jargon composé de mots barbares, ou si mal pronocés qu'on ne les entend pas. [F]</note>
-	<l id="234">À tout ce baragouin, qui pourrait rien comprendre,</l>
+	<l id="233">VoilÃ  de grands discours que je ne puis entendre</l>
+<note type="L">Baragouin : Langage corrompu ; ou inconnu, qu'on n'entend pas; jargon composÃ© de mots barbares, ou si mal pronocÃ©s qu'on ne les entend pas. [F]</note>
+	<l id="234">Ã€ tout ce baragouin, qui pourrait rien comprendre,</l>
 	<l id="235">Elles sont folles. Vous Cathos et Madelon,</l>
 	<l id="236">Apprenez aujourd'hui que je veux tout de bon,</l>
-	<l id="237" part='i'>Que vous vous prépariez...</l>
+	<l id="237" part='i'>Que vous vous prÃ©pariez...</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
-	<l id="237" part='f'>Hé ! de grâce, mon père,</l>
-	<l id="238">De ces étranges noms, tâchez de vous défaire,</l>
+	<l id="237" part='f'>HÃ© ! de grÃ¢ce, mon pÃ¨re,</l>
+	<l id="238">De ces Ã©tranges noms, tÃ¢chez de vous dÃ©faire,</l>
 	<l id="239">Et si vous le pouvez, nommez-nous autrement.</l>
 </sp>
 <sp who="GORGIBUS"><speaker>GORGIBUS.</speaker>
-	<l id="240">Ô Dieux ! Qu'entends-je dire ? Étranges noms, comment ?</l>
-	<l id="241">Et ne sont-ce pas là vos vrais noms de baptême ?</l>
+	<l id="240">Ã” Dieux ! Qu'entends-je dire ? Ã‰tranges noms, comment ?</l>
+	<l id="241">Et ne sont-ce pas lÃ  vos vrais noms de baptÃªme ?</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
-	<l id="242">Votre stupidité va jusques à l'extrême</l>
-	<l id="243">Que vous êtes vulgaire, avec ces sentiments,</l>
-	<l id="244">Ah ! Pour moi, le plus grand de mes étonnements</l>
+	<l id="242">Votre stupiditÃ© va jusques Ã  l'extrÃªme</l>
+	<l id="243">Que vous Ãªtes vulgaire, avec ces sentiments,</l>
+	<l id="244">Ah ! Pour moi, le plus grand de mes Ã©tonnements</l>
 	<l id="245">Est que vous ayez fait une fille si sage,</l>
 	<l id="246">Et si pleine d'esprit. Dedans le beau langage,</l>
-	<l id="247">Ouït-on jamais nommer ? Madelon et Cathos,</l>
+	<l id="247">OuÃ¯t-on jamais nommer ? Madelon et Cathos,</l>
 	<l id="248">Et n'avouerez-vous pas, qu'enfin des noms si sots</l>
 	<l id="249">Pourraient par leur rudesse affreuse et sans seconde</l>
-	<l id="250">Décrier le Roman, le plus charmant du monde.</l>
+	<l id="250">DÃ©crier le Roman, le plus charmant du monde.</l>
 </sp>
 <sp who="CATHOS"><speaker>CATHOS.</speaker>
-	<l id="251">Mon oncle, il est très vrai, que ces sortes de noms</l>
+	<l id="251">Mon oncle, il est trÃ¨s vrai, que ces sortes de noms</l>
 	<l id="252">Ont un je ne sais quoi de bas dedans leurs sons,</l>
 	<l id="253">Qui n'a rien d'attirant, qui n'a rien qui ne blesse,</l>
-	<l id="254">Et pour peu qu'une oreille, ait de délicatesse,</l>
-	<l id="255">On voit qu'elle pâtit, très furieusement</l>
-	<l id="256">Entendant prononcer ces mots-là seulement.</l>
-<note type="L">Aminte : drame pastoral en vers du Tasse, créé en 1573.</note>
-<note type="L">Polyxène : héroïne de l'Iliade, aimant et aimée d'Achille.</note>
-	<l id="257">D'Aminte le beau nom, celui de Polixène,</l>
+	<l id="254">Et pour peu qu'une oreille, ait de dÃ©licatesse,</l>
+	<l id="255">On voit qu'elle pÃ¢tit, trÃ¨s furieusement</l>
+	<l id="256">Entendant prononcer ces mots-lÃ  seulement.</l>
+<note type="L">Aminte : drame pastoral en vers du Tasse, crÃ©Ã© en 1573.</note>
+<note type="L">PolyxÃ¨ne : hÃ©roÃ¯ne de l'Iliade, aimant et aimÃ©e d'Achille.</note>
+	<l id="257">D'Aminte le beau nom, celui de PolixÃ¨ne,</l>
 	<l id="258">Que ma cousine et moi nous avons pris sans peine,</l>
 	<l id="259">Ont des attraits en eux, dont vous devez d'abord</l>
-	<l id="260">Sans aucun contredit être avec moi d'accord.</l>
+	<l id="260">Sans aucun contredit Ãªtre avec moi d'accord.</l>
 </sp>
 <sp who="GORGIBUS"><speaker>GORGIBUS.</speaker>
-	<l id="261">Écoutez toutes deux, il n'est qu'un mot qui serve,</l>
+	<l id="261">Ã‰coutez toutes deux, il n'est qu'un mot qui serve,</l>
 	<l id="262">Quand je dis une chose, il faut que l'on l'observe,</l>
-	<l id="263">Et je ne prétends pas tomber jamais d'accord,</l>
+	<l id="263">Et je ne prÃ©tends pas tomber jamais d'accord,</l>
 	<l id="264">De ces noms, que je vois qui vous plaisent si fort ;</l>
-	<l id="265">Quittez-les, car je veux que vous gardiez les vôtres :</l>
+	<l id="265">Quittez-les, car je veux que vous gardiez les vÃ´tres :</l>
 	<l id="266">Je ne saurais souffrir, que vous en ayez d'autres,</l>
-	<l id="267">Que ceux que vos parrains vous ont jadis donnés.</l>
-	<l id="268">Pour ces Messieurs aussi, lesquels vous dédaignez :</l>
+	<l id="267">Que ceux que vos parrains vous ont jadis donnÃ©s.</l>
+	<l id="268">Pour ces Messieurs aussi, lesquels vous dÃ©daignez :</l>
 	<l id="269">Je sais quels sont leurs biens, je connais leurs familles,</l>
 	<l id="270">Et comme je suis las de tant garder deux filles,</l>
 	<l id="271">Je veux qu'absolument vous songiez toutes deux</l>
-	<l id="272">À recevoir bientôt leur main avec leurs voeux.</l>
+	<l id="272">Ã€ recevoir bientÃ´t leur main avec leurs voeux.</l>
 	<l id="273">De deux filles la garde est une rude charge,</l>
-	<l id="274">Et ne peine que trop un homme de mon âge.</l>
+	<l id="274">Et ne peine que trop un homme de mon Ã¢ge.</l>
 </sp>
 <sp who="CATHOS"><speaker>CATHOS.</speaker>
-	<l id="275">Ce que je vous puis dire ici, mon oncle hélas !</l>
+	<l id="275">Ce que je vous puis dire ici, mon oncle hÃ©las !</l>
 	<l id="276">C'est que le mariage est pour moi sans appas,</l>
 	<l id="277">Que je trouve que c'est une chose choquante,</l>
-	<l id="278">Et qu'enfin le penser, seulement m'épouvante</l>
-	<l id="279">D'être couchée auprès d'un homme vraiment nu.</l>
+	<l id="278">Et qu'enfin le penser, seulement m'Ã©pouvante</l>
+	<l id="279">D'Ãªtre couchÃ©e auprÃ¨s d'un homme vraiment nu.</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
-	<l id="280">Mon père, notre nom, sera bientôt connu,</l>
+	<l id="280">Mon pÃ¨re, notre nom, sera bientÃ´t connu,</l>
 	<l id="281">C'est pourquoi vous devez, nous permettre sans peine,</l>
 	<l id="282">Qu'avec les beaux esprits, nous reprenions haleine.</l>
 	<l id="283">Et comme dans Paris, nous venons d'arriver,</l>
-	<l id="284">Vous devez s'il vous plaît nous laisser achever</l>
+	<l id="284">Vous devez s'il vous plaÃ®t nous laisser achever</l>
 	<l id="285">De notre beau Roman, le tissu sans exemple,</l>
 	<l id="286">Et n'en pas tant presser, par un pouvoir trop ample</l>
 	<l id="287" part='i'>La conclusion.</l>
@@ -628,307 +627,307 @@
 	<l id="287" part='f'>Dieux ! Qu'entends-je ici conter ?</l>
 	<l id="288">Leur folie est visible, il n'en faut plus douter.</l>
 	<l id="289">Encor un coup, sachez, que je ne puis comprendre</l>
-<note type="L">Balivernes : Discours inutiles qui n'ont ni raisons ni solidité ; sornettes, contes faits à plaisir. [F]</note>
+<note type="L">Balivernes : Discours inutiles qui n'ont ni raisons ni soliditÃ© ; sornettes, contes faits Ã  plaisir. [F]</note>
 	<l id="290">Ces balivernes-ci, que je veux sans attendre,</l>
-	<l id="291">Et sans qu'on me réponde, être maître absolu,</l>
-	<l id="292">Et que l'on fasse enfin, ce que j'ai résolu</l>
+	<l id="291">Et sans qu'on me rÃ©ponde, Ãªtre maÃ®tre absolu,</l>
+	<l id="292">Et que l'on fasse enfin, ce que j'ai rÃ©solu</l>
 	<l id="293">C'est pourquoi ces Messieurs, seront dans ma famille,</l>
-	<l id="294">Où chacune de vous restera toujours fille,</l>
-	<l id="295">Ou sera par ma foi, mise dorénavant</l>
-	<l id="296">Puisque je l'ai juré, dedans un bon Couvent.</l>
+	<l id="294">OÃ¹ chacune de vous restera toujours fille,</l>
+	<l id="295">Ou sera par ma foi, mise dorÃ©navant</l>
+	<l id="296">Puisque je l'ai jurÃ©, dedans un bon Couvent.</l>
 </sp>
 </div2>
-<div2 type='scene' n='5'><head>SCÈNE V. Cathos, Madelon.</head>
+<div2 type="scene" n='5'><head>SCÃˆNE V. Cathos, Madelon.</head>
 <sp who="CATHOS"><speaker>CATHOS.</speaker>
-	<l id="297">Quelle stupidité, que vois-je ah ! Dieu ma chère !</l>
-	<l id="298">Que ton père a la forme avant dans la matière.</l>
-	<l id="299">Qu'il a l'intelligence épaisse, qu'il est dur,</l>
-	<l id="300">Et qu'il fait dans son âme, étrangement obscur.</l>
+	<l id="297">Quelle stupiditÃ©, que vois-je ah ! Dieu ma chÃ¨re !</l>
+	<l id="298">Que ton pÃ¨re a la forme avant dans la matiÃ¨re.</l>
+	<l id="299">Qu'il a l'intelligence Ã©paisse, qu'il est dur,</l>
+	<l id="300">Et qu'il fait dans son Ã¢me, Ã©trangement obscur.</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
-	<l id="301">Ma chère que veux-tu ? Pour lui j'en suis confuse,</l>
-	<l id="302">Rien ne m'étonne tant, que de le voir si buse ;</l>
-	<l id="303">Mais je me persuade, et fort malaisément</l>
-	<l id="304">Que je puisse être aussi sa fille assurément,</l>
-	<l id="305">Et je crois qu'il viendra quelque journée heureuse,</l>
+	<l id="301">Ma chÃ¨re que veux-tu ? Pour lui j'en suis confuse,</l>
+	<l id="302">Rien ne m'Ã©tonne tant, que de le voir si buse ;</l>
+	<l id="303">Mais je me persuade, et fort malaisÃ©ment</l>
+	<l id="304">Que je puisse Ãªtre aussi sa fille assurÃ©ment,</l>
+	<l id="305">Et je crois qu'il viendra quelque journÃ©e heureuse,</l>
 	<l id="306">Qui par quelque aventure, et nouvelle, et fameuse</l>
-	<l id="307">Me développera, sans doute avec raison</l>
-	<l id="308">Un père plus illustre, et d'une autre maison.</l>
+	<l id="307">Me dÃ©veloppera, sans doute avec raison</l>
+	<l id="308">Un pÃ¨re plus illustre, et d'une autre maison.</l>
 </sp>
 <sp who="CATHOS"><speaker>CATHOS.</speaker>
-	<l id="309">Je le croirais bien oui ; car enfin sans médire</l>
+	<l id="309">Je le croirais bien oui ; car enfin sans mÃ©dire</l>
 	<l id="310">J'y vois grande apparence, et je ne sais qu'en dire</l>
 	<l id="311" part='i'>Pour moi quand je me vois aussi...</l>
 </sp>
 </div2>
-<div2 type='scene' n='6'><head>SCÈNE VI. Madelon, Cathos, Marotte.</head>
+<div2 type="scene" n='6'><head>SCÃˆNE VI. Madelon, Cathos, Marotte.</head>
 <sp who="MAROTTE"><speaker>MAROTTE.</speaker>
 	<l id="311" part='m'>Madame...</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
 	<l id="311" part='f'>Quoi ?</l>
-	<l id="312">Qu'est-ce, que voulez-vous ? Veut-on parler à moi ?</l>
+	<l id="312">Qu'est-ce, que voulez-vous ? Veut-on parler Ã  moi ?</l>
 </sp>
 <sp who="MAROTTE"><speaker>MAROTTE.</speaker>
-	<l id="313">Un laquais, que voilà, souhaite qu'on lui dise</l>
-	<l id="314">Si vous êtes céans, afin qu'il en instruise</l>
-	<l id="315">Son maître, qui l'envoie ici, pour le savoir,</l>
-	<l id="316">Parce, dit-il, qu'il veut bientôt vous venir voir.</l>
+	<l id="313">Un laquais, que voilÃ , souhaite qu'on lui dise</l>
+	<l id="314">Si vous Ãªtes cÃ©ans, afin qu'il en instruise</l>
+	<l id="315">Son maÃ®tre, qui l'envoie ici, pour le savoir,</l>
+	<l id="316">Parce, dit-il, qu'il veut bientÃ´t vous venir voir.</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
-	<l id="317">Et vous apprenez sotte, à moins parler vulgaire,</l>
-	<l id="318">Et dites pour vous mieux énoncer d'ordinaire.</l>
-	<l id="319">Un nécessaire est là, qui demande instamment</l>
-	<l id="320">Si vous ne pourriez pas être présentement</l>
-	<l id="321" part='i'>En commodité d'être visibles.</l>
+	<l id="317">Et vous apprenez sotte, Ã  moins parler vulgaire,</l>
+	<l id="318">Et dites pour vous mieux Ã©noncer d'ordinaire.</l>
+	<l id="319">Un nÃ©cessaire est lÃ , qui demande instamment</l>
+	<l id="320">Si vous ne pourriez pas Ãªtre prÃ©sentement</l>
+	<l id="321" part='i'>En commoditÃ© d'Ãªtre visibles.</l>
 </sp>
 <sp who="MAROTTE"><speaker>MAROTTE.</speaker>
 	<l id="321" part='f'>Ah ! Dame !</l>
 	<l id="322">Je n'entends point ma foi, tout ce Latin, Madame,</l>
-	<l id="323">Et l'on ne m'a jamais, enseigné comme à vous</l>
+	<l id="323">Et l'on ne m'a jamais, enseignÃ© comme Ã  vous</l>
 	<l id="324" part='i'>La filofie, dedans le grand Cyre.</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
-	<l id="324" part='f'>À nous </l>
+	<l id="324" part='f'>Ã€ nous </l>
 	<l id="325">Tenir de tels propos, voyez l'impertinente</l>
 	<l id="326">Le moyen de souffrir, toujours cette insolente ;</l>
-	<l id="327">Mais encor quel est-il ? Le Maître à ce laquais.</l>
+	<l id="327">Mais encor quel est-il ? Le MaÃ®tre Ã  ce laquais.</l>
 </sp>
 <sp who="MAROTTE"><speaker>MAROTTE.</speaker>
-	<l id="328">Il me l'a nommé, le... le Marquis de de... Ouais,</l>
+	<l id="328">Il me l'a nommÃ©, le... le Marquis de de... Ouais,</l>
 	<l id="329" part='i'>Le Marquis de Mascarille.</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
-	<l id="329" part='f'>Un Marquis, ah ! Ma chère,</l>
-	<l id="330">Oui, retournez lui dire, et ne demeurez guère</l>
-	<l id="331">Qu'on nous voit à présent, c'est quelque bel esprit,</l>
-	<l id="332">Que notre renommée a jusqu'ici conduit.</l>
+	<l id="329" part='f'>Un Marquis, ah ! Ma chÃ¨re,</l>
+	<l id="330">Oui, retournez lui dire, et ne demeurez guÃ¨re</l>
+	<l id="331">Qu'on nous voit Ã  prÃ©sent, c'est quelque bel esprit,</l>
+	<l id="332">Que notre renommÃ©e a jusqu'ici conduit.</l>
 </sp>
 <sp who="CATHOS"><speaker>CATHOS.</speaker>
-	<l id="333" part='i'>Assurément ma chère.</l>
+	<l id="333" part='i'>AssurÃ©ment ma chÃ¨re.</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
 	<l id="333" part='f'>En cette salle basse</l>
-	<l id="334">Il faut le recevoir, nous aurons plus de grâce</l>
+	<l id="334">Il faut le recevoir, nous aurons plus de grÃ¢ce</l>
 	<l id="335">Que dedans notre chambre ; ajustons nos cheveux</l>
 	<l id="336">Au moins, et soutenons en ce jour bienheureux</l>
-	<l id="337">La réputation que nous avons acquise.</l>
+	<l id="337">La rÃ©putation que nous avons acquise.</l>
 </sp>
 <sp who="CATHOS"><speaker>CATHOS.</speaker>
-	<l id="338">La visite me plaît, bien que j'en sois surprise.</l>
+	<l id="338">La visite me plaÃ®t, bien que j'en sois surprise.</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
 	<l id="339">Vite, venez nous tendre ici, le conseiller</l>
-	<l id="340" part='i'>Des grâces.</l>
+	<l id="340" part='i'>Des grÃ¢ces.</l>
 </sp>
 <sp who="MAROTTE"><speaker>MAROTTE.</speaker>
 	<l id="340" part='f'>Que ce mot vient mal pour m'embrouiller ;</l>
-	<l id="341">Ma foi, je ne sais point si c'est là quelque bête,</l>
-	<l id="342">Il faut parler chrétien pour mettre dans ma tête</l>
+	<l id="341">Ma foi, je ne sais point si c'est lÃ  quelque bÃªte,</l>
+	<l id="342">Il faut parler chrÃ©tien pour mettre dans ma tÃªte</l>
 	<l id="343" part='i'>Ce que vous voulez dire.</l>
 </sp>
 <sp who="CATHOS"><speaker>CATHOS.</speaker>
 	<l id="343" part='f'>Apportez le miroir</l>
-<note type="L">Pécore : Ce mot au propre signifie un animal, une bête ; mais il est bas et burlesque. Se dit aussi figurémment et burlesquement pour signifier une personne sotte, stupide, et qui a de la peine à concevoir quelque chose. [F]</note>
-	<l id="344">Pécore, et gardez bien en vous y faisant voir</l>
+<note type="L">PÃ©core : Ce mot au propre signifie un animal, une bÃªte ; mais il est bas et burlesque. Se dit aussi figurÃ©mment et burlesquement pour signifier une personne sotte, stupide, et qui a de la peine Ã  concevoir quelque chose. [F]</note>
+	<l id="344">PÃ©core, et gardez bien en vous y faisant voir</l>
 	<l id="345">D'en obscurcir la glace, et de lui faire outrage</l>
-	<l id="346">En lui communiquant de trop près votre image.</l>
+	<l id="346">En lui communiquant de trop prÃ¨s votre image.</l>
 </sp>
 </div2>
-<div2 type='scene' n='6'><head>SCÈNE VI.. Mascarille, Deux Porteurs.</head>
-<sp who='MASCARILLE'><speaker>MASCARILLE, dans sa chaise, faisant arrêter ses Porteurs.</speaker>
-	<l id="347">Là, là porteurs, holà, là, là, là, là, holà,</l>
-<note type="L">Maraud : Terme injurieux qui se dit des gueux, des coquins qui n'ont ni bien ni honneur, qui sont capables de faire toutes sortes de lâchetés. [F]</note>
-	<l id="348">Je crois que ces marauds, me veulent briser là</l>
-	<l id="349">À force de heurter, les pavés, la muraille.</l>
+<div2 type="scene" n='6'><head>SCÃˆNE VI.. Mascarille, Deux Porteurs.</head>
+<sp who='MASCARILLE'><speaker>MASCARILLE, dans sa chaise, faisant arrÃªter ses Porteurs.</speaker>
+	<l id="347">LÃ , lÃ  porteurs, holÃ , lÃ , lÃ , lÃ , lÃ , holÃ ,</l>
+<note type="L">Maraud : Terme injurieux qui se dit des gueux, des coquins qui n'ont ni bien ni honneur, qui sont capables de faire toutes sortes de lÃ¢chetÃ©s. [F]</note>
+	<l id="348">Je crois que ces marauds, me veulent briser lÃ </l>
+	<l id="349">Ã€ force de heurter, les pavÃ©s, la muraille.</l>
 </sp>
 <sp who='PREMIER PORTEUR'><speaker>PREMIER PORTEUR.</speaker>
-	<l id="350">Dame, c'est que la porte est étroite ; d'entrailles.</l>
-	<l id="351">Vous avez commandé, que l'on entrât ici,</l>
-	<l id="352" part='i'>Nous avons obéi.</l>
+	<l id="350">Dame, c'est que la porte est Ã©troite ; d'entrailles.</l>
+	<l id="351">Vous avez commandÃ©, que l'on entrÃ¢t ici,</l>
+	<l id="352" part='i'>Nous avons obÃ©i.</l>
 </sp>
 <sp who='MASCARILLE'><speaker>MASCARILLE, sortant de sa chaise.</speaker>
 	<l id="352" part='f'>Je le crois bien aussi,</l>
-<note type="L">Faquin : se dit aussi en quelque sorte figuré, pour un homme sans mérite, sans honneur, sans coeur, digne de toute sorte de mépris. [F]</note>
+<note type="L">Faquin : se dit aussi en quelque sorte figurÃ©, pour un homme sans mÃ©rite, sans honneur, sans coeur, digne de toute sorte de mÃ©pris. [F]</note>
 	<l id="353">Voudriez-vous faquins ? que pour vous j'exposasse</l>
-	<l id="354">Ou mes plumes à l'air, ou bien que je laissasse</l>
+	<l id="354">Ou mes plumes Ã  l'air, ou bien que je laissasse</l>
 	<l id="355">Perdre leur embonpoint ; et n'ai-je pas raison ?</l>
 	<l id="356">De les en garantir, durant cette saison</l>
 	<l id="357">Pluvieuse, incommode, ou bien que j'imprimasse</l>
 	<l id="358">Mes souliers en la boue. Ah ! De vous je me lasse,</l>
-	<l id="359" part='i'>Ôtez-moi votre chaise.</l>
+	<l id="359" part='i'>Ã”tez-moi votre chaise.</l>
 </sp>
-<sp who="DEUXIÈME PORTEUR"><speaker>DEUXIÈME PORTEUR.</speaker>
+<sp who="DEUXIÃˆME PORTEUR"><speaker>DEUXIÃˆME PORTEUR.</speaker>
 	<l id="359" part='f'>Et bien donc, payez-nous ?</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
 	<l id="360" part='i'>Hem ?</l>
 </sp>
-<sp who="DEUXIÈME PORTEUR"><speaker>DEUXIÈME PORTEUR.</speaker>
+<sp who="DEUXIÃˆME PORTEUR"><speaker>DEUXIÃˆME PORTEUR.</speaker>
 	<l id="360" part='m'>Je vous dis, Monsieur ?</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
 	<l id="360" part='m'>Que me dis-tu ?</l>
 </sp>
-<sp who="DEUXIÈME PORTEUR"><speaker>DEUXIÈME PORTEUR.</speaker>
+<sp who="DEUXIÃˆME PORTEUR"><speaker>DEUXIÃˆME PORTEUR.</speaker>
 	<l id="360" part='f'>Que vous</l>
 	<l id="361" part='i'>Nous donniez de l'argent.</l>
 </sp>
 <sp who='MASCARILLE'><speaker>MASCARILLE, lui donnant un soufflet.</speaker>
 	<l id="361" part='f'>Quelle insolence ?</l>
-	<l id="362">Demander de l'argent, à ceux de ma naissance.</l>
+	<l id="362">Demander de l'argent, Ã  ceux de ma naissance.</l>
 </sp>
-<sp who="DEUXIÈME PORTEUR"><speaker>DEUXIÈME PORTEUR.</speaker>
-	<l id="363">N'avez-vous que cela, Monsieur, à nous donner ?</l>
-	<l id="364">Et votre qualité, nous fait-elle dîner ?</l>
+<sp who="DEUXIÃˆME PORTEUR"><speaker>DEUXIÃˆME PORTEUR.</speaker>
+	<l id="363">N'avez-vous que cela, Monsieur, Ã  nous donner ?</l>
+	<l id="364">Et votre qualitÃ©, nous fait-elle dÃ®ner ?</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
-	<l id="365">Ah ! Je vous apprendrai coquins, à vous connaître,</l>
-	<l id="366">Vous ôtez-vous marauds ? Jouer à votre maître.</l>
+	<l id="365">Ah ! Je vous apprendrai coquins, Ã  vous connaÃ®tre,</l>
+	<l id="366">Vous Ã´tez-vous marauds ? Jouer Ã  votre maÃ®tre.</l>
 </sp>
-<sp who='PREMIER PORTEUR'><speaker>PREMIER PORTEUR, prenant un des bâtons de sa chaise.</speaker>
-	<l id="367" part='i'>Ça vite, payez-nous ?</l>
+<sp who='PREMIER PORTEUR'><speaker>PREMIER PORTEUR, prenant un des bÃ¢tons de sa chaise.</speaker>
+	<l id="367" part='i'>Ã‡a vite, payez-nous ?</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
 	<l id="367" part='m'>Quoi ?</l>
 </sp>
 <sp who="PREMIER PORTEUR"><speaker>PREMIER PORTEUR.</speaker>
 	<l id="367" part='f'>Je dis que je veux</l>
-	<l id="368" part='i'>De l'argent tout à l'heure.</l>
+	<l id="368" part='i'>De l'argent tout Ã  l'heure.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
 	<l id="368" part='f'>On ne peut dire mieux,</l>
-	<l id="369" part='i'>Il est très raisonnable.</l>
+	<l id="369" part='i'>Il est trÃ¨s raisonnable.</l>
 </sp>
 <sp who="PREMIER PORTEUR"><speaker>PREMIER PORTEUR.</speaker>
 	<l id="369" part='f'>Eh ! Bien vite, vous dis-je !</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
-	<l id="370">Tu parles comme il faut, vois là comme on m'oblige</l>
+	<l id="370">Tu parles comme il faut, vois lÃ  comme on m'oblige</l>
 	<l id="371">Mais l'autre est un coquin qui ne sait ce qu'il dit.</l>
-	<l id="372" part='i'>Là tiens, es-tu content ?</l>
+	<l id="372" part='i'>LÃ  tiens, es-tu content ?</l>
 </sp>
 <sp who="PREMIER PORTEUR"><speaker>PREMIER PORTEUR.</speaker>
-	<l id="372" part='f'>Nany, j'ai du dépit</l>
+	<l id="372" part='f'>Nany, j'ai du dÃ©pit</l>
 <note type="L">Rodomontade : Venterie, ou menace vaine et san fondement. [F]</note>
 	<l id="373">Et ne saurais souffrir votre rodomontade,</l>
 	<l id="374">Vous avez devant moi battu mon camarade,</l>
 	<l id="375" part='i'>Et si...</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
-	<l id="375" part='f'>Doucement, tiens, voilà pour le soufflet ;</l>
+	<l id="375" part='f'>Doucement, tiens, voilÃ  pour le soufflet ;</l>
 	<l id="376">On obtient tout de moi, je suis comme un poulet.</l>
-	<l id="377">Dès lors que l'on s'y prend, de la bonne manière</l>
-	<l id="378">Je me laisse fléchir, à la moindre prière.</l>
+	<l id="377">DÃ¨s lors que l'on s'y prend, de la bonne maniÃ¨re</l>
+	<l id="378">Je me laisse flÃ©chir, Ã  la moindre priÃ¨re.</l>
 	<l id="379">Allez vite sortez, et venez me chercher</l>
-	<l id="380">Tantôt, pour aller au Louvre au petit coucher.</l>
+	<l id="380">TantÃ´t, pour aller au Louvre au petit coucher.</l>
 </sp>
 </div2>
-<div2 type='scene' n='8'><head>SCÈNE VIII. Marotte, Mascarille.</head>
+<div2 type="scene" n='8'><head>SCÃˆNE VIII. Marotte, Mascarille.</head>
 <sp who="MAROTTE"><speaker>MAROTTE.</speaker>
-	<l id="381">Mes Maîtresses Monsieur, vont venir tout à l'heure.</l>
+	<l id="381">Mes MaÃ®tresses Monsieur, vont venir tout Ã  l'heure.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
-	<l id="382">Je ne suis pas pressé, je vous jure ou je meure :</l>
-	<l id="383">Je suis dedans ce lieu, posté commodément</l>
-	<l id="384">Et je puis à loisir, les attendre aisément.</l>
+	<l id="382">Je ne suis pas pressÃ©, je vous jure ou je meure :</l>
+	<l id="383">Je suis dedans ce lieu, postÃ© commodÃ©ment</l>
+	<l id="384">Et je puis Ã  loisir, les attendre aisÃ©ment.</l>
 </sp>
 <sp who="MAROTTE"><speaker>MAROTTE.</speaker>
 	<l id="385" part='i'>Elles viennent Monsieur.</l>
 </sp>
 </div2>
-<div2 type='scene' n='9'><head>SCÈNE IX. Madelon, Cathos, Mascarille, Almanzor.</head>
-<sp who='MASCARILLE'><speaker>MASCARILLE, après avoir salué.</speaker>
+<div2 type="scene" n='9'><head>SCÃˆNE IX. Madelon, Cathos, Mascarille, Almanzor.</head>
+<sp who='MASCARILLE'><speaker>MASCARILLE, aprÃ¨s avoir saluÃ©.</speaker>
 	<l id="385" part='f'>Mesdames mon audace</l>
-	<l id="386">Pourra vous étonner ; mais cette aimable grâce</l>
+	<l id="386">Pourra vous Ã©tonner ; mais cette aimable grÃ¢ce</l>
 	<l id="387">Que l'on admire en vous, vous cause ce malheur :</l>
-	<l id="388">La réputation qui parle, à votre honneur</l>
-	<l id="389">M'a forcé ce jourd'hui, de vous rendre visite</l>
-	<l id="390">Et pour moi je poursuis en tous lieux le mérite.</l>
+	<l id="388">La rÃ©putation qui parle, Ã  votre honneur</l>
+	<l id="389">M'a forcÃ© ce jourd'hui, de vous rendre visite</l>
+	<l id="390">Et pour moi je poursuis en tous lieux le mÃ©rite.</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
 	<l id="391">Si vous le poursuivez ce n'est pas dans ces lieux</l>
 	<l id="392" part='i'>Que vous devez chasser.</l>
 </sp>
 <sp who="CATHOS"><speaker>CATHOS.</speaker>
-	<l id="392" part='f'>Pour le voir à nos yeux</l>
-	<l id="393">Il a fallu Monsieur, qu'il vînt sous votre auspice.</l>
+	<l id="392" part='f'>Pour le voir Ã  nos yeux</l>
+	<l id="393">Il a fallu Monsieur, qu'il vÃ®nt sous votre auspice.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
 	<l id="394">Ah ! Je m'inscris en faux contre cette injustice.</l>
 	<l id="395">Le renom parle juste, en contant vos vertus</l>
-	<l id="396">Par là, les plus galants, seront bientôt battus,</l>
-	<l id="397">Vous allez faire pic, repic, et capot même,</l>
-	<l id="398">Tout ce que dans Paris, l'on chérit et l'on aime.</l>
+	<l id="396">Par lÃ , les plus galants, seront bientÃ´t battus,</l>
+	<l id="397">Vous allez faire pic, repic, et capot mÃªme,</l>
+	<l id="398">Tout ce que dans Paris, l'on chÃ©rit et l'on aime.</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
 	<l id="399">Nous n'attendions pas moins, d'un homme tel que vous ;</l>
 	<l id="400">Mais votre complaisance est trop grande envers nous.</l>
 	<l id="401">Et vous poussez si loin votre injuste louange</l>
-	<l id="402">Que ma cousine, et moi, pour éviter le change,</l>
-	<l id="403">Nous ne donnerons pas, de notre sérieux</l>
+	<l id="402">Que ma cousine, et moi, pour Ã©viter le change,</l>
+	<l id="403">Nous ne donnerons pas, de notre sÃ©rieux</l>
 	<l id="404">Dedans un compliment, qu'on ne peut faire mieux ;</l>
-	<l id="405">Car enfin nous craignons de tomber dans le piège.</l>
+	<l id="405">Car enfin nous craignons de tomber dans le piÃ¨ge.</l>
 </sp>
 <sp who="CATHOS"><speaker>CATHOS.</speaker>
-	<l id="406">Mais ma chère, il faudrait faire apporter un siège.</l>
+	<l id="406">Mais ma chÃ¨re, il faudrait faire apporter un siÃ¨ge.</l>
 </sp>
 <sp who='MADELON'><speaker>MADELON, A Almanzor.</speaker>
-<note type="L">Voiturer : Transporter par des voitures une chose d'un lieu à une autre. [F]</note>
-	<l id="407">Voiturez-nous ici, vite, petit garçon,</l>
-	<l id="408">Les commodités de la conversation.</l>
+<note type="L">Voiturer : Transporter par des voitures une chose d'un lieu Ã  une autre. [F]</note>
+	<l id="407">Voiturez-nous ici, vite, petit garÃ§on,</l>
+	<l id="408">Les commoditÃ©s de la conversation.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
-	<l id="409">Mais aurai-je du moins, sûreté de personne ?</l>
+	<l id="409">Mais aurai-je du moins, sÃ»retÃ© de personne ?</l>
 </sp>
 <sp who="CATHOS"><speaker>CATHOS.</speaker>
-	<l id="410">Que craignez-vous de nous ? Que rien ne vous étonne.</l>
+	<l id="410">Que craignez-vous de nous ? Que rien ne vous Ã©tonne.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
-	<l id="411">J'ai tout à redouter, tout me doit faire peur ;</l>
-	<l id="412">Je crains premièrement, quelque vol de mon coeur,</l>
+	<l id="411">J'ai tout Ã  redouter, tout me doit faire peur ;</l>
+	<l id="412">Je crains premiÃ¨rement, quelque vol de mon coeur,</l>
 	<l id="413">Ou quelque assassinat, de ma pauvre franchise</l>
-	<l id="414">Je vois ici des yeux, dont mon âme est surprise</l>
-	<l id="415">Ils ont mine surtout, d'être mauvais garçons</l>
-	<l id="416">De faire insulte aux gens, et les ôter d'arçons.</l>
-	<l id="417">Ravir les libertés, faire qu'on les adore</l>
-	<l id="418">Et même de traiter, un coeur de Turc à More.</l>
+	<l id="414">Je vois ici des yeux, dont mon Ã¢me est surprise</l>
+	<l id="415">Ils ont mine surtout, d'Ãªtre mauvais garÃ§ons</l>
+	<l id="416">De faire insulte aux gens, et les Ã´ter d'arÃ§ons.</l>
+	<l id="417">Ravir les libertÃ©s, faire qu'on les adore</l>
+	<l id="418">Et mÃªme de traiter, un coeur de Turc Ã  More.</l>
 	<l id="419">Comment diable ! D'abord que l'on s'approche d'eux</l>
 	<l id="420">Ils se mettent en garde, ah ! Qu'ils sont dangereux ;</l>
-	<l id="421">Ma foi je m'en défie, et vais prendre la fuite</l>
+	<l id="421">Ma foi je m'en dÃ©fie, et vais prendre la fuite</l>
 	<l id="422">Ou je veux caution de leur bonne conduite.</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
-	<l id="423">Ma chère, ce qu'il dit est tout plein d'enjouement.</l>
+	<l id="423">Ma chÃ¨re, ce qu'il dit est tout plein d'enjouement.</l>
 </sp>
 <sp who="CATHOS"><speaker>CATHOS.</speaker>
-<note type="L">Amilcar : ou Hamilcar, nom de plusieurs généraux Catharginois, synonyme d'homme courageux. Hamilcar Barca était le père d'Hannibal.</note>
-	<l id="424">Il efface Amilcar, tant il a d'agrément.</l>
+<note type="L">Amilcar : ou Hamilcar, nom de plusieurs gÃ©nÃ©raux Catharginois, synonyme d'homme courageux. Hamilcar Barca Ã©tait le pÃ¨re d'Hannibal.</note>
+	<l id="424">Il efface Amilcar, tant il a d'agrÃ©ment.</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
 	<l id="425">Ne craignez rien, nos yeux sont exempts de malice,</l>
 	<l id="426">Leurs desseins innocents, et sans nul artifice ;</l>
-	<l id="427">Votre coeur peut dormir en toute sûreté</l>
-	<l id="428">Dessus leur prudhommie, et dessus leur bonté.</l>
+	<l id="427">Votre coeur peut dormir en toute sÃ»retÃ©</l>
+	<l id="428">Dessus leur prudhommie, et dessus leur bontÃ©.</l>
 </sp>
 <sp who="CATHOS"><speaker>CATHOS.</speaker>
-	<l id="429">Mais de grâce Monsieur rendez-vous exorable.</l>
-	<l id="430">Aux voeux de ce fauteuil, dont le soin équitable</l>
+	<l id="429">Mais de grÃ¢ce Monsieur rendez-vous exorable.</l>
+	<l id="430">Aux voeux de ce fauteuil, dont le soin Ã©quitable</l>
 	<l id="431">Lui fait ouvrir les bras, contentez son dessein</l>
-	<l id="432">Depuis près d'un quart d'heure, il vous ouvre son sein,</l>
+	<l id="432">Depuis prÃ¨s d'un quart d'heure, il vous ouvre son sein,</l>
 	<l id="433" part='i'>Souffrez qu'il vous embrasse.</l>
 </sp>
-<sp who='MASCARILLE'><speaker>MASCARILLE, après s'être peigné, et avoir ajusté ses canons.</speaker>
+<sp who='MASCARILLE'><speaker>MASCARILLE, aprÃ¨s s'Ãªtre peignÃ©, et avoir ajustÃ© ses canons.</speaker>
 	<l id="433" part='f'>Et bien dites Mesdames,</l>
-	<l id="434">Que vous semble Paris ? Car c'est aux belles âmes</l>
+	<l id="434">Que vous semble Paris ? Car c'est aux belles Ã¢mes</l>
 	<l id="435" part='i'>D'en porter jugement.</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
-	<l id="435" part='f'>Qu'en dirions-nous hélas</l>
+	<l id="435" part='f'>Qu'en dirions-nous hÃ©las</l>
 	<l id="436">Tout le monde est d'accord, qu'il est rempli d'appas,</l>
 	<l id="437">Que c'est le grand Bureau, de toutes les merveilles,</l>
-	<l id="438">Le centre du bon goût, le charme des oreilles,</l>
-	<l id="439">Le plaisir des esprits, le lieu des agréments,</l>
+	<l id="438">Le centre du bon goÃ»t, le charme des oreilles,</l>
+	<l id="439">Le plaisir des esprits, le lieu des agrÃ©ments,</l>
 	<l id="440">Et le refuge enfin, des plus nobles amants.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
@@ -936,86 +935,86 @@
 	<l id="442">Il n'est point de salut, les campagnes sont rustres.</l>
 </sp>
 <sp who="CATHOS"><speaker>CATHOS.</speaker>
-	<l id="443">On ne dispute point de cette vérité.</l>
+	<l id="443">On ne dispute point de cette vÃ©ritÃ©.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
-	<l id="444">Ce qu'il a de fâcheux, c'est qu'il y fait crotté ;</l>
+	<l id="444">Ce qu'il a de fÃ¢cheux, c'est qu'il y fait crottÃ© ;</l>
 	<l id="445" part='i'>Mais nous avons la chaise.</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
 	<l id="445" part='f'>Il est vrai que la chaise</l>
-	<l id="446">Est un retranchement, où l'on est à son aise,</l>
-	<l id="447">Un propice instrument, pour les honnêtes gens,</l>
+	<l id="446">Est un retranchement, oÃ¹ l'on est Ã  son aise,</l>
+	<l id="447">Un propice instrument, pour les honnÃªtes gens,</l>
 	<l id="448">Un merveilleux abri, contre le mauvais temps.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
 	<l id="449">Vous recevez beaucoup, et de belles visites ?</l>
-	<l id="450">Car tous les beaux esprits, cherchent les grands mérites ;</l>
+	<l id="450">Car tous les beaux esprits, cherchent les grands mÃ©rites ;</l>
 	<l id="451">Mais encor qui sont ceux qu'attirent vos appas,</l>
 	<l id="452" part='i'>Dites ?</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
-	<l id="452" part='f'>Hélas ! Monsieur, l'on ne nous connaît pas ;</l>
-	<l id="453">Mais peut-être bien, qu'on nous pourra connaître,</l>
-	<l id="454">Nous sommes en état, de nous faire paraître,</l>
+	<l id="452" part='f'>HÃ©las ! Monsieur, l'on ne nous connaÃ®t pas ;</l>
+	<l id="453">Mais peut-Ãªtre bien, qu'on nous pourra connaÃ®tre,</l>
+	<l id="454">Nous sommes en Ã©tat, de nous faire paraÃ®tre,</l>
 	<l id="455">Nous avons une amie, et qui nous a promis</l>
 	<l id="456">Qu'elle nous ferait voir, des gens de ses amis,</l>
-	<l id="457">Qui sont dans les recueils des belles poésies,</l>
-	<l id="458">Ces Messieurs, des romans, et des pièces choisies.</l>
+	<l id="457">Qui sont dans les recueils des belles poÃ©sies,</l>
+	<l id="458">Ces Messieurs, des romans, et des piÃ¨ces choisies.</l>
 </sp>
 <sp who="CATHOS"><speaker>CATHOS.</speaker>
-	<l id="459">Et de certains encor, connus et renommés,</l>
-	<l id="460">(Que comme gens savants elle nous a nommés,)</l>
-	<l id="461">Qui décident aussi, de ces sortes de choses,</l>
-<note type="L">Métamorphoses : Oeuvre du poète latin Ovide.</note>
-	<l id="462">Et qui savent l'Histoire, et les Métamorphoses.</l>
+	<l id="459">Et de certains encor, connus et renommÃ©s,</l>
+	<l id="460">(Que comme gens savants elle nous a nommÃ©s,)</l>
+	<l id="461">Qui dÃ©cident aussi, de ces sortes de choses,</l>
+<note type="L">MÃ©tamorphoses : Oeuvre du poÃ¨te latin Ovide.</note>
+	<l id="462">Et qui savent l'Histoire, et les MÃ©tamorphoses.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
 	<l id="463">Je ferai votre affaire, ils me visitent tous</l>
-	<l id="464">Et je puis aisément, les amener chez vous</l>
+	<l id="464">Et je puis aisÃ©ment, les amener chez vous</l>
 	<l id="465">J'en ai tous les matins, une demi-douzaine.</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
 	<l id="466">Eh ! Mon Dieu, voudriez-vous, vous donner cette peine ;</l>
-	<l id="467">Nous vous aurons, la dernière obligation,</l>
+	<l id="467">Nous vous aurons, la derniÃ¨re obligation,</l>
 	<l id="468">Si vous nous procurez leur conversation ;</l>
 	<l id="469">Car enfin vous savez, que sans leur connaissance,</l>
-	<l id="470">On n'est point du beau monde, et voilà l'importance :</l>
-	<l id="471">D'eux dépend dans Paris, la réputation,</l>
-	<l id="472">Ainsi l'on doit chercher leur fréquentation ;</l>
-	<l id="473">Une femme par là, peut devenir heureuse,</l>
-	<l id="474">Et même s'acquérir, le bruit de connaisseuse </l>
-	<l id="475">Et j'en connais beaucoup, qui l'ont acquis par là,</l>
-	<l id="476">Quoi que l'on n'y trouvât rien du tout que cela.</l>
-	<l id="477">Et principalement, ce que je considère,</l>
-	<l id="478">Ce qu'à tout autre bien, aisément je préfère,</l>
+	<l id="470">On n'est point du beau monde, et voilÃ  l'importance :</l>
+	<l id="471">D'eux dÃ©pend dans Paris, la rÃ©putation,</l>
+	<l id="472">Ainsi l'on doit chercher leur frÃ©quentation ;</l>
+	<l id="473">Une femme par lÃ , peut devenir heureuse,</l>
+	<l id="474">Et mÃªme s'acquÃ©rir, le bruit de connaisseuse </l>
+	<l id="475">Et j'en connais beaucoup, qui l'ont acquis par lÃ ,</l>
+	<l id="476">Quoi que l'on n'y trouvÃ¢t rien du tout que cela.</l>
+	<l id="477">Et principalement, ce que je considÃ¨re,</l>
+	<l id="478">Ce qu'Ã  tout autre bien, aisÃ©ment je prÃ©fÃ¨re,</l>
 	<l id="479">C'est que par ce moyen des choses l'on s'instruit,</l>
-	<l id="480">Qu'il faut qu'on sache enfin pour être bel esprit.</l>
+	<l id="480">Qu'il faut qu'on sache enfin pour Ãªtre bel esprit.</l>
 	<l id="481">Puis l'on sait chaque jour, les petites nouvelles,</l>
-	<l id="482">Tout ce que les galants, écrivent à leurs belles.</l>
+	<l id="482">Tout ce que les galants, Ã©crivent Ã  leurs belles.</l>
 	<l id="483">Les commerces de Prose, aussi bien que de Vers,</l>
-	<l id="484">Tout ce que l'on écrit, sur cent sujets divers.</l>
-	<l id="485">On sait à point nommer, tel a fait une pièce</l>
-	<l id="486">Jolie autant qu'on peut, unique en son espèce,</l>
-	<l id="487">Tout le monde l'estime à cause du sujet</l>
+	<l id="484">Tout ce que l'on Ã©crit, sur cent sujets divers.</l>
+	<l id="485">On sait Ã  point nommer, tel a fait une piÃ¨ce</l>
+	<l id="486">Jolie autant qu'on peut, unique en son espÃ¨ce,</l>
+	<l id="487">Tout le monde l'estime Ã  cause du sujet</l>
 	<l id="488">Une telle personne a fait un beau portrait.</l>
 	<l id="489">Sur un tel air nouveau, telle a fait des paroles</l>
 	<l id="490">L'Anagramme d'un tel est pleine d'hyperboles.</l>
-<note type="L">Madrigal : petite poésie amoureuse composée d'un petit nombre de vers libres inégaux, qui n'a ni la gêne d'un sonnet, ni la subtilité d'une épigramme, mais qui se contente d'une pensée tendre et agréable. [F]</note>
+<note type="L">Madrigal : petite poÃ©sie amoureuse composÃ©e d'un petit nombre de vers libres inÃ©gaux, qui n'a ni la gÃªne d'un sonnet, ni la subtilitÃ© d'une Ã©pigramme, mais qui se contente d'une pensÃ©e tendre et agrÃ©able. [F]</note>
 	<l id="491">Un tel Auteur Gascon, a fait un madrigal</l>
 	<l id="492">Sur une jouissance. Un tel donne le Bal</l>
-	<l id="493">Cet autre a composé, des Sonnets et des Stances</l>
+	<l id="493">Cet autre a composÃ©, des Sonnets et des Stances</l>
 	<l id="494">Sur des yeux, sur un teint et sur des inconstances.</l>
-	<l id="495">Un tel hier au soir, écrivit un sizain</l>
+	<l id="495">Un tel hier au soir, Ã©crivit un sizain</l>
 	<l id="496">Pour une Damoiselle ; elle par un dixain</l>
-	<l id="497">Le lendemain matin, en envoya réponse.</l>
-	<l id="498">On poursuit le Roman, de Clélie et d'Aronce.</l>
-	<l id="499">Tel Poète fort illustre, a fait un tel dessein.</l>
+	<l id="497">Le lendemain matin, en envoya rÃ©ponse.</l>
+	<l id="498">On poursuit le Roman, de ClÃ©lie et d'Aronce.</l>
+	<l id="499">Tel PoÃ¨te fort illustre, a fait un tel dessein.</l>
 	<l id="500">........</l>
 	<l id="501">Un tel fait un Roman, parce que l'on l'en presse.</l>
 	<l id="502">Les ouvrages d'un tel, se mettent sous la presse.</l>
-	<l id="503">C'est là sans contredit, ce que l'on doit savoir</l>
-	<l id="504">Pour se faire connaître, et se faire valoir</l>
+	<l id="503">C'est lÃ  sans contredit, ce que l'on doit savoir</l>
+	<l id="504">Pour se faire connaÃ®tre, et se faire valoir</l>
 	<l id="505">Dedans les lieux connus ; et j'ose dire encore</l>
 	<l id="506">Que quelque esprit qu'on ait, alors qu'on les ignore</l>
 	<l id="507" part='i'>Il ne vaut pas un clou.</l>
@@ -1023,8 +1022,8 @@
 <sp who="CATHOS"><speaker>CATHOS.</speaker>
 	<l id="507" part='f'>Je trouve qu'en effet,</l>
 	<l id="508">Sans cela l'on ne peut avoir l'esprit bien fait :</l>
-	<l id="509">Je l'avouerai pour moi, c'est là tout mon scrupule</l>
-	<l id="510">Je crois qu'on enchérit dessus le ridicule</l>
+	<l id="509">Je l'avouerai pour moi, c'est lÃ  tout mon scrupule</l>
+	<l id="510">Je crois qu'on enchÃ©rit dessus le ridicule</l>
 	<l id="511">De se piquer d'esprit, et de ne savoir pas</l>
 	<l id="512">Jusqu'au moindre quatrain ; pour moi j'en fais amas,</l>
 	<l id="513">Et si l'on me venait, demander quelque chose</l>
@@ -1034,22 +1033,22 @@
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
 	<l id="515" part='f'>On n'estime point ceux</l>
 	<l id="516">Qui n'ont pas des premiers, tous leurs vers amoureux</l>
-	<l id="517">Et même ce qu'on fait, d'une plus longue haleine ;</l>
+	<l id="517">Et mÃªme ce qu'on fait, d'une plus longue haleine ;</l>
 	<l id="518">Mais fiez-vous sur moi, n'en soyez point en peine.</l>
 	<l id="519">J'assemblerai chez vous, nombre de beaux esprits.</l>
 	<l id="520">Vos mains de leurs travaux, leurs donneront le prix,</l>
-	<l id="521">Et je veux qu'à Paris, pas un vers ne se fasse</l>
-	<l id="522">Que dans votre mémoire, il n'occupe une place</l>
+	<l id="521">Et je veux qu'Ã  Paris, pas un vers ne se fasse</l>
+	<l id="522">Que dans votre mÃ©moire, il n'occupe une place</l>
 	<l id="523">Avant qu'aucun l'ait vu. Tel que vous me voyez</l>
 	<l id="524">Je m'en escrime un peu, je veux que vous sachiez</l>
 	<l id="525">Que vous verrez courir, dans les belles ruelles</l>
 	<l id="526">Plus de deux cents chansons, presque toujours nouvelles,</l>
 	<l id="527">Des Sonnets tout autant, sur de divers sujets,</l>
-	<l id="528">Bien mille Madrigaux, pour différents objets,</l>
-<note type="L">Elégie : Espèce de Poésie qui s'employe dans les sujets tristes, et plaintifs.</note>
-	<l id="529">Et même sans compter plus de cent Élégies</l>
-	<l id="530">Faites, sur des dédains ; sans les Apologies,</l>
-	<l id="531" part='i'>Énigmes, et Portraits</l>
+	<l id="528">Bien mille Madrigaux, pour diffÃ©rents objets,</l>
+<note type="L">ElÃ©gie : EspÃ¨ce de PoÃ©sie qui s'employe dans les sujets tristes, et plaintifs.</note>
+	<l id="529">Et mÃªme sans compter plus de cent Ã‰lÃ©gies</l>
+	<l id="530">Faites, sur des dÃ©dains ; sans les Apologies,</l>
+	<l id="531" part='i'>Ã‰nigmes, et Portraits</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
 	<l id="531" part='f'>Ah ! Furieusement</l>
@@ -1059,23 +1058,23 @@
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
 	<l id="533" part='f'>Ils sont bien difficiles,</l>
 	<l id="534">Ils veulent des esprits profonds, savants, habiles.</l>
-	<l id="535">Vous en verrez de moi, qui ne déplaisent pas.</l>
+	<l id="535">Vous en verrez de moi, qui ne dÃ©plaisent pas.</l>
 </sp>
 <sp who="CATHOS"><speaker>CATHOS.</speaker>
-	<l id="536">Une Énigme a pour moi, terriblement d'appas.</l>
+	<l id="536">Une Ã‰nigme a pour moi, terriblement d'appas.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
-	<l id="537">Par là l'esprit s'exerce, et j'en ai tracé quatre</l>
-	<l id="538">Encore ce matin, qu'afin de vous ébattre</l>
+	<l id="537">Par lÃ  l'esprit s'exerce, et j'en ai tracÃ© quatre</l>
+	<l id="538">Encore ce matin, qu'afin de vous Ã©battre</l>
 	<l id="539" part='i'>Vous pourrez deviner.</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
 	<l id="539" part='f'>J'aime les Madrigaux,</l>
-	<l id="540">Quand il sont bien tournés, ils sont tout à fait beaux.</l>
+	<l id="540">Quand il sont bien tournÃ©s, ils sont tout Ã  fait beaux.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
-	<l id="541">Ah ! C'est là mon talent, et je donne mes peines</l>
-	<l id="542">À mettre en Madrigaux les annales Romaines.</l>
+	<l id="541">Ah ! C'est lÃ  mon talent, et je donne mes peines</l>
+	<l id="542">Ã€ mettre en Madrigaux les annales Romaines.</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
 	<l id="543">Ce dessein est illustre, autant qu'il est nouveau,</l>
@@ -1084,21 +1083,21 @@
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
 	<l id="546">Je sais trop mon devoir, pour n'y pas satisfaire,</l>
-	<l id="547">Et je vous en promets au moins à chacune un,</l>
-	<l id="548">Qui seront mieux reliés que tous ceux du commun ;</l>
+	<l id="547">Et je vous en promets au moins Ã  chacune un,</l>
+	<l id="548">Qui seront mieux reliÃ©s que tous ceux du commun ;</l>
 	<l id="549">Pour ma condition, c'est un bas exercice</l>
 	<l id="550">Je le fais seulement pour rendre un bon office</l>
 	<l id="551">Au Libraire, importun qui m'en vient accabler</l>
 	<l id="552">Et ce matin encor, m'en est venu parler.</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
-	<l id="553">Le plaisir est bien grand d'être mis sous la presse.</l>
+	<l id="553">Le plaisir est bien grand d'Ãªtre mis sous la presse.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
 	<l id="554">Sans doute il est bien doux, que notre nom paraisse</l>
-	<l id="555">Et les noms imprimés, ont une autre vertu ;</l>
-<note type="L">Impromptu : Il se dit particulièrement de quelque petite pièce de poésie faite sur le champ, madrigal, chanson et même pièce de théâtre. [L] Voir "L'Impromptu de Versailles" de Molière.</note>
-	<l id="556">Mais à propos, il faut vous dire un impromptu</l>
+	<l id="555">Et les noms imprimÃ©s, ont une autre vertu ;</l>
+<note type="L">Impromptu : Il se dit particuliÃ¨rement de quelque petite piÃ¨ce de poÃ©sie faite sur le champ, madrigal, chanson et mÃªme piÃ¨ce de thÃ©Ã¢tre. [L] Voir "L'Impromptu de Versailles" de MoliÃ¨re.</note>
+	<l id="556">Mais Ã  propos, il faut vous dire un impromptu</l>
 	<l id="557">Que je fis avant-hier, cher certaine Duchesse</l>
 	<l id="558">Que je fus visiter, il est plein de tendresse</l>
 	<l id="559">Tous les plus fiers esprits, s'en verraient combattus</l>
@@ -1106,82 +1105,82 @@
 </sp>
 <sp who="CATHOS"><speaker>CATHOS.</speaker>
 	<l id="561">L'impromptu justement, est la pierre de touche</l>
-	<l id="562">De l'esprit, il nous plaît, il nous charme, il nous touche.</l>
+	<l id="562">De l'esprit, il nous plaÃ®t, il nous charme, il nous touche.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
-	<l id="563" part='i'>Écoutez.</l>
+	<l id="563" part='i'>Ã‰coutez.</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
 	<l id="563" part='f'>Ce sera, Monsieur, avec plaisir,</l>
 	<l id="564">Et vous pouvez parler avecque tout loisir,</l>
-	<l id="565">Dans le juste désir d'ouïr tant de merveilles,</l>
-	<l id="566">Nous y sommes déjà de toutes nos oreilles.</l>
+	<l id="565">Dans le juste dÃ©sir d'ouÃ¯r tant de merveilles,</l>
+	<l id="566">Nous y sommes dÃ©jÃ  de toutes nos oreilles.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
 	<l id="567">Oh, oh, je n'y prenais pas garde,</l>
-	<l id="568">Tandis que sans songer à mal, je vous regarde.</l>
-<note type="L">Tapinois : Qui ne dit que dans le burlesque. Il est venu en tapinois ; c'est à dire, secrètement, sourdement, et san faire bruit. [F]</note>
-	<l id="569">Votre oeil en tapinois, me dérobe mon coeur,</l>
+	<l id="568">Tandis que sans songer Ã  mal, je vous regarde.</l>
+<note type="L">Tapinois : Qui ne dit que dans le burlesque. Il est venu en tapinois ; c'est Ã  dire, secrÃ¨tement, sourdement, et san faire bruit. [F]</note>
+	<l id="569">Votre oeil en tapinois, me dÃ©robe mon coeur,</l>
 	<l id="570">Au voleur, au voleur, au voleur, au voleur.</l>
 </sp>
 <sp who="CATHOS"><speaker>CATHOS.</speaker>
 	<l id="571">Ah ! Mon Dieu, que ces vers ont des attraits puissants,</l>
-	<l id="572">Par leur délicatesse, ils enchantent les sens,</l>
-	<l id="573">Ces vers-là sont poussés sans nulle flatterie</l>
+	<l id="572">Par leur dÃ©licatesse, ils enchantent les sens,</l>
+	<l id="573">Ces vers-lÃ  sont poussÃ©s sans nulle flatterie</l>
 	<l id="574">Jusques au dernier point de la galanterie.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
 	<l id="575">Je ne fais rien du tout, qui n'ait l'air cavalier.</l>
-<note type="C">le vers 576 peut etre compris aussi comme une références à "Le Pédant Joué" comédie de Cyrano de Bergerac (1654), "L'Ecolier de Salamanque" comédie de Scarron (1655).</note>
-	<l id="576">Je n'ai rien de Pédant encor moins d'Écolier.</l>
+<note type="C">le vers 576 peut etre compris aussi comme une rÃ©fÃ©rences Ã  "Le PÃ©dant JouÃ©" comÃ©die de Cyrano de Bergerac (1654), "L'Ecolier de Salamanque" comÃ©die de Scarron (1655).</note>
+	<l id="576">Je n'ai rien de PÃ©dant encor moins d'Ã‰colier.</l>
 </sp>
 <sp who="CATHOS"><speaker>CATHOS.</speaker>
-	<l id="577">Il en est éloigné, tout autant qu'on peut l'être</l>
-	<l id="578">Et vous avez bien l'art, de vous faire paraître.</l>
+	<l id="577">Il en est Ã©loignÃ©, tout autant qu'on peut l'Ãªtre</l>
+	<l id="578">Et vous avez bien l'art, de vous faire paraÃ®tre.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
-	<l id="579">Avez-vous remarqué ? Dans ce commencement</l>
-	<l id="580">Oh, oh, ce n'est pas là parler vulgairement ,</l>
-	<l id="581">Oh, oh, en s'étonnant, un homme qui s'avise,</l>
+	<l id="579">Avez-vous remarquÃ© ? Dans ce commencement</l>
+	<l id="580">Oh, oh, ce n'est pas lÃ  parler vulgairement ,</l>
+	<l id="581">Oh, oh, en s'Ã©tonnant, un homme qui s'avise,</l>
 	<l id="582">Tout d'un coup, oh, oh, oh, voyez-vous la surprise ?</l>
 	<l id="583" part='i'>Oh, oh !</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
-	<l id="583" part='f'>Oui ce oh, oh ne peut pas être mieux.</l>
+	<l id="583" part='f'>Oui ce oh, oh ne peut pas Ãªtre mieux.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
 	<l id="584" part='i'>Cela ne semble rien.</l>
 </sp>
 <sp who="CATHOS"><speaker>CATHOS.</speaker>
 	<l id="584" part='f'>Il est miraculeux</l>
-	<l id="585">Et ce sont là Monsieur, de ces choses si belles</l>
+	<l id="585">Et ce sont lÃ  Monsieur, de ces choses si belles</l>
 	<l id="586" part='i'>Qu'on ne les peut payer.</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
 	<l id="586" part='f'>Sans doute elles sont telles</l>
 	<l id="587">Et j'aimerais bien mieux, avoir fait ce oh, oh,</l>
-	<l id="588" part='i'>Que tout un poème épique.</l>
+	<l id="588" part='i'>Que tout un poÃ¨me Ã©pique.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
 <note type="L">Tudieu : Sorte de jurement burlesque. [F]</note>
 	<l id="588" part='f'>En effet il est beau,</l>
-	<l id="589">Vous avez le goût bon, tudieu, vous êtes fine.</l>
+	<l id="589">Vous avez le goÃ»t bon, tudieu, vous Ãªtes fine.</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
 	<l id="590">Je ne l'ai pas mauvais, et souvent je rafine.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
-	<l id="591">Je m'en aperçois bien. Mais admirez vous pas !</l>
+	<l id="591">Je m'en aperÃ§ois bien. Mais admirez vous pas !</l>
 	<l id="592">Je n'y prenais pas garde. On en voit rien de bas</l>
-	<l id="593">Dedans cette façon, je n'y prenais pas garde</l>
-<note type="L">Mignard : qui a une beauté fine et délicate ; qui a les traits doux et agréables. Est aussi une épithète qu'on donne aux enfants pour les flatter et les caresser. [F]</note>
+	<l id="593">Dedans cette faÃ§on, je n'y prenais pas garde</l>
+<note type="L">Mignard : qui a une beautÃ© fine et dÃ©licate ; qui a les traits doux et agrÃ©ables. Est aussi une Ã©pithÃ¨te qu'on donne aux enfants pour les flatter et les caresser. [F]</note>
 	<l id="594">Elle est fort naturelle, et de plus fort mignarde</l>
-	<l id="595">Tandis que sans songer à mal qu'innocemment</l>
+	<l id="595">Tandis que sans songer Ã  mal qu'innocemment</l>
 	<l id="596">Comme un pauvre mouton, tandis que bonnement</l>
-	<l id="597">Je vous regarde, moi c'est justement à dire</l>
-	<l id="598">Que je vous considère, et que je vous admire</l>
-	<l id="599">Ou bien que je m'amuse, à contempler vos yeux.</l>
-	<l id="600">Votre oeil en tapinois ; peut-on s'énoncer mieux</l>
+	<l id="597">Je vous regarde, moi c'est justement Ã  dire</l>
+	<l id="598">Que je vous considÃ¨re, et que je vous admire</l>
+	<l id="599">Ou bien que je m'amuse, Ã  contempler vos yeux.</l>
+	<l id="600">Votre oeil en tapinois ; peut-on s'Ã©noncer mieux</l>
 	<l id="601">Tapinois ? De ce mot encor que vous en semble ?</l>
 	<l id="602" part='i'>N'est-il pas bien choisi ?</l>
 </sp>
@@ -1194,20 +1193,20 @@
 	<l id="605" part='i'>Tapinois.</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
-	<l id="605" part='f'>Il est vrai cette pensée est forte.</l>
+	<l id="605" part='f'>Il est vrai cette pensÃ©e est forte.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
-	<l id="606">Me dérobe mon coeur, me l'ôte me l'emporte,</l>
+	<l id="606">Me dÃ©robe mon coeur, me l'Ã´te me l'emporte,</l>
 	<l id="607">Au voleur, au voleur, au voleur, au voleur,</l>
 	<l id="608">N'est-ce pas peindre au vif, la perte de son coeur,</l>
-	<l id="609">Et ne diriez-vous pas ? Qu'on crie à pleine tête</l>
-	<l id="610">Après quelque voleur, arrête, arrête, arrête,</l>
+	<l id="609">Et ne diriez-vous pas ? Qu'on crie Ã  pleine tÃªte</l>
+	<l id="610">AprÃ¨s quelque voleur, arrÃªte, arrÃªte, arrÃªte,</l>
 	<l id="611">Comme en le poursuivant, tout saisi de frayeur,</l>
 	<l id="612">Au voleur, au voleur, au voleur, au voleur.</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
 	<l id="613">J'avouerai que cela, sans qu'ici je vous flatte,</l>
-	<l id="614">Délecte, et plaît, au goût de la plus délicate.</l>
+	<l id="614">DÃ©lecte, et plaÃ®t, au goÃ»t de la plus dÃ©licate.</l>
 	<l id="615">Tant le tour est galant, spirituel et beau.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
@@ -1215,7 +1214,7 @@
 	<l id="617" part='i'>Faut que je vous le die.</l>
 </sp>
 <sp who="CATHOS"><speaker>CATHOS.</speaker>
-	<l id="617" part='f'>À quoi bon ne pas dire,</l>
+	<l id="617" part='f'>Ã€ quoi bon ne pas dire,</l>
 	<l id="618">Que vous avez appris la musique, Ah ! sans rire</l>
 	<l id="619" part='i'>Vous ne faites pas bien.</l>
 </sp>
@@ -1228,183 +1227,183 @@
 	<l id="621">Car comment donc Monsieur, cela se peut-il faire ?</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
-	<l id="622">Les gens de qualité, n'ont rien qui soit vulgaire,</l>
+	<l id="622">Les gens de qualitÃ©, n'ont rien qui soit vulgaire,</l>
 	<l id="623">Sans avoir rien appris, ils savent toujours tout.</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
-	<l id="624" part='i'>Ma chère, assurément.</l>
+	<l id="624" part='i'>Ma chÃ¨re, assurÃ©ment.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
-	<l id="624" part='f'>Voyons si votre goût</l>
-	<l id="625">En trouvera l'air bon, écoutez, je commence.</l>
-	<l id="626">Hem, hem, la, la, la, la. J'ai fort peu d'éloquence,</l>
-	<l id="627">Ouais, la brutalité, de la saison qu'il fait</l>
-	<l id="628">Est furieusement contraire, à mon projet,</l>
-	<l id="629">Elle a gâté ma voix ; mais certes il n'importe,</l>
-<note type="L">À la cavalière : En cavalier. C'est à dire, en parlant de l'air, de smanières, aisé, dégagé ; et aussi brusque, inconvenant, trop leste. [L]</note>
-	<l id="630" part='i'>C'est à la cavalière.</l>
+	<l id="624" part='f'>Voyons si votre goÃ»t</l>
+	<l id="625">En trouvera l'air bon, Ã©coutez, je commence.</l>
+	<l id="626">Hem, hem, la, la, la, la. J'ai fort peu d'Ã©loquence,</l>
+	<l id="627">Ouais, la brutalitÃ©, de la saison qu'il fait</l>
+	<l id="628">Est furieusement contraire, Ã  mon projet,</l>
+	<l id="629">Elle a gÃ¢tÃ© ma voix ; mais certes il n'importe,</l>
+<note type="L">Ã€ la cavaliÃ¨re : En cavalier. C'est Ã  dire, en parlant de l'air, de smaniÃ¨res, aisÃ©, dÃ©gagÃ© ; et aussi brusque, inconvenant, trop leste. [L]</note>
+	<l id="630" part='i'>C'est Ã  la cavaliÃ¨re.</l>
 <stage>Il chante.</stage>
 	<l id="630" part='m'>Oh, oh, je n'y prenais pas...</l>
 </sp>
 <sp who="CATHOS"><speaker>CATHOS.</speaker>
 	<l id="630" part='f'>Ah ! Dieux, cela m'emporte ;</l>
-	<l id="631">Que je trouve cet air pressant, passionné,</l>
+	<l id="631">Que je trouve cet air pressant, passionnÃ©,</l>
 	<l id="632" part='i'>Est-ce qu'on n'en meurt point ?</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
-	<l id="632" part='f'>Il est assaisonné</l>
-	<l id="633">De la bonne façon ; mais dans cette musique</l>
-<note type="L">Chromatique : terme de musique, qui est le second de ses trois gens qui abondent en demi-tons. Il a été appelé de ce nom parce que les grecs le marquaient avec des caractères de couleurs, qu'ils appellent chroma. [F]</note>
+	<l id="632" part='f'>Il est assaisonnÃ©</l>
+	<l id="633">De la bonne faÃ§on ; mais dans cette musique</l>
+<note type="L">Chromatique : terme de musique, qui est le second de ses trois gens qui abondent en demi-tons. Il a Ã©tÃ© appelÃ© de ce nom parce que les grecs le marquaient avec des caractÃ¨res de couleurs, qu'ils appellent chroma. [F]</note>
 	<l id="634">L'on voit bien qu'on a mis, beaucoup de Chromatique.</l>
 </sp>
 <sp who="CATHOS"><speaker>CATHOS.</speaker>
-	<l id="635">Cet air assurément est tout rempli d'appas.</l>
+	<l id="635">Cet air assurÃ©ment est tout rempli d'appas.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
 	<l id="636">Dites-moi donc un peu si vous ne trouvez pas</l>
-	<l id="637">La pensée assez bien dans le chant exprimée ?</l>
-	<l id="638">Au voleur. Et comme une personne animée,</l>
+	<l id="637">La pensÃ©e assez bien dans le chant exprimÃ©e ?</l>
+	<l id="638">Au voleur. Et comme une personne animÃ©e,</l>
 	<l id="639">Qui pleine de transport, se mettant en chaleur,</l>
 	<l id="640">Bien fort crie, au, au, au, au, au, au, au voleur,</l>
-	<l id="641">Et tout d'un coup après tout comme une personne</l>
-	<l id="642">Essoufflée, au voleur. Quoi cela vous étonne ?</l>
+	<l id="641">Et tout d'un coup aprÃ¨s tout comme une personne</l>
+	<l id="642">EssoufflÃ©e, au voleur. Quoi cela vous Ã©tonne ?</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
-	<l id="643">C'est là savoir le fin des choses, le grand fin,</l>
+	<l id="643">C'est lÃ  savoir le fin des choses, le grand fin,</l>
 	<l id="644">Le fin du fin, tout brille, et tout y charme enfin,</l>
 	<l id="645">Je vous promets, car j'ai de l'air et des paroles</l>
-	<l id="646" part='i'>L'âme enthousiasmée.</l>
+	<l id="646" part='i'>L'Ã¢me enthousiasmÃ©e.</l>
 </sp>
 <sp who="CATHOS"><speaker>CATHOS.</speaker>
-<note type="L">Hyperbole : Figure de Rhétorique qui augmente, ou qui diminue excessivement la vérité des choses dont elle parle. [L]</note>
+<note type="L">Hyperbole : Figure de RhÃ©torique qui augmente, ou qui diminue excessivement la vÃ©ritÃ© des choses dont elle parle. [L]</note>
 	<l id="646" part='f'>Et moi sans hyperbole</l>
-	<l id="647">Je n'ai jamais rien vu, de cette force-là</l>
+	<l id="647">Je n'ai jamais rien vu, de cette force-lÃ </l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
 	<l id="648">Ah ! Tout ce que je fais me vient comme cela</l>
-	<l id="649">Fort naturellement, et sans aucune étude.</l>
+	<l id="649">Fort naturellement, et sans aucune Ã©tude.</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
-	<l id="650">C'est pour ne pas avoir beaucoup d'inquiétude,</l>
+	<l id="650">C'est pour ne pas avoir beaucoup d'inquiÃ©tude,</l>
 	<l id="651">Et nous persuader, que la nature aussi</l>
-	<l id="652">Vous a vraiment traité, Monsieur, jusques ici,</l>
-	<l id="653">Comme une vraie mère, un peu passionnée,</l>
-	<l id="654">Et ce génie ardent, dont je suis étonnée,</l>
-	<l id="655">Vous fait bien remarquer, pour son enfant gâté.</l>
+	<l id="652">Vous a vraiment traitÃ©, Monsieur, jusques ici,</l>
+	<l id="653">Comme une vraie mÃ¨re, un peu passionnÃ©e,</l>
+	<l id="654">Et ce gÃ©nie ardent, dont je suis Ã©tonnÃ©e,</l>
+	<l id="655">Vous fait bien remarquer, pour son enfant gÃ¢tÃ©.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
-	<l id="656" part='i'>À quoi donc passez-vous le temps ?</l>
+	<l id="656" part='i'>Ã€ quoi donc passez-vous le temps ?</l>
 </sp>
 <sp who="CATHOS"><speaker>CATHOS.</speaker>
-	<l id="656" part='f'>En vérité,</l>
-	<l id="657" part='i'>Monsieur, à rien du tout.</l>
+	<l id="656" part='f'>En vÃ©ritÃ©,</l>
+	<l id="657" part='i'>Monsieur, Ã  rien du tout.</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
 	<l id="657" part='f'>Par un sort incroyable</l>
-	<l id="658">Nous avons demeuré dans un jeûne effroyable</l>
+	<l id="658">Nous avons demeurÃ© dans un jeÃ»ne effroyable</l>
 	<l id="659" part='i'>De divertissement...</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
-	<l id="659" part='f'>Je m'offre à vous mener</l>
+	<l id="659" part='f'>Je m'offre Ã  vous mener</l>
 	<l id="660">Le jour qu'il vous plaira, Mesdames, destiner</l>
-	<l id="661">Voir quelque comédie, on en doit jouer une,</l>
+	<l id="661">Voir quelque comÃ©die, on en doit jouer une,</l>
 	<l id="662">Dont je connais l'auteur, et qui n'est pas commune,</l>
 	<l id="663">Que je serai bien aise, au moins que nous puissions</l>
 	<l id="664" part='i'>S'il se peut voir ensemble.</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
-<note type="L">Pactions : Ce mot se dit aujourd'hui [XVIIème] qu'en parlant d'affaires, et signifie accord ; convention ; clause qu'on met dans quelque contrat, ou traité. [F]</note>
+<note type="L">Pactions : Ce mot se dit aujourd'hui [XVIIÃ¨me] qu'en parlant d'affaires, et signifie accord ; convention ; clause qu'on met dans quelque contrat, ou traitÃ©. [F]</note>
 	<l id="664" part='f'>Ah ! Telles pactions</l>
 	<l id="665" part='i'>Ne sont pas de refus.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
 	<l id="665" part='f'>Aussi je vous demande</l>
-	<l id="666">Lorsque nous serons là, que toute notre bande</l>
+	<l id="666">Lorsque nous serons lÃ , que toute notre bande</l>
 	<l id="667">Admire, approuve tout, applaudisse bien fort,</l>
 	<l id="668">Pour qu'on trouve tout beau, fasse tout son effort,</l>
 	<l id="669">Je veux vous engager, comme on m'y sollicite,</l>
-	<l id="670">De faire que la pièce ait grande réussite</l>
+	<l id="670">De faire que la piÃ¨ce ait grande rÃ©ussite</l>
 	<l id="671">Car pour m'en conjurer, je vous jure ma foi,</l>
 	<l id="672">Que l'Auteur ce matin, m'est venu voir chez moi,</l>
-	<l id="673">Qu'à toute heure, en tous lieux il m'en prie et m'en presse,</l>
+	<l id="673">Qu'Ã  toute heure, en tous lieux il m'en prie et m'en presse,</l>
 	<l id="674">Et fait que mes amis me le disent sans cesse.</l>
-	<l id="675">C'est la coutume ici, qu'à des gens comme nous,</l>
-	<l id="676">Pour tous les vers qu'ils font, les poètes viennent tous</l>
-	<l id="677">Implorer nos bontés, et des pièces nouvelles</l>
+	<l id="675">C'est la coutume ici, qu'Ã  des gens comme nous,</l>
+	<l id="676">Pour tous les vers qu'ils font, les poÃ¨tes viennent tous</l>
+	<l id="677">Implorer nos bontÃ©s, et des piÃ¨ces nouvelles</l>
 	<l id="678">Faire lecture, afin que nous les trouvions belles,</l>
-	<l id="679">Et qu'ils puissent aussi, par là nous engager</l>
-	<l id="680">À leur donner grand bruit. Je vous laisse à juger</l>
-	<l id="681">Si d'une pièce enfin, quoi que nous puissions dire,</l>
+	<l id="679">Et qu'ils puissent aussi, par lÃ  nous engager</l>
+	<l id="680">Ã€ leur donner grand bruit. Je vous laisse Ã  juger</l>
+	<l id="681">Si d'une piÃ¨ce enfin, quoi que nous puissions dire,</l>
 	<l id="682">Le parterre jamais, ose nous contredire.</l>
-	<l id="683">Pour moi j'y suis exact, et dès que quelque auteur</l>
-	<l id="684">M'est venu conjurer d'être son protecteur,</l>
-	<l id="685">Je crie avant qu'on ait allumé les chandelles,</l>
-	<l id="686">Que ses vers sont pompeux, sa pièce des plus belles.</l>
+	<l id="683">Pour moi j'y suis exact, et dÃ¨s que quelque auteur</l>
+	<l id="684">M'est venu conjurer d'Ãªtre son protecteur,</l>
+	<l id="685">Je crie avant qu'on ait allumÃ© les chandelles,</l>
+	<l id="686">Que ses vers sont pompeux, sa piÃ¨ce des plus belles.</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
 	<l id="687">Non, ne m'en parlez point, Paris, est bien charmant,</l>
-	<l id="688">Tous les jours il s'y passe, et fort évidemment</l>
+	<l id="688">Tous les jours il s'y passe, et fort Ã©videmment</l>
 	<l id="689">Cent choses que toujours en province on ignore,</l>
 	<l id="690">Quelque spirituelle, et quelque soin encore</l>
 	<l id="691" part='i'>Que l'on puisse apporter...</l>
 </sp>
 <sp who="CATHOS"><speaker>CATHOS.</speaker>
 	<l id="691" part='f'>C'est assez il suffit,</l>
-	<l id="692">Personne à tout cela, n'a jamais contredit ;</l>
+	<l id="692">Personne Ã  tout cela, n'a jamais contredit ;</l>
 	<l id="693">Mais, Monsieur, puisque enfin nous en sommes instruites</l>
-	<l id="694">Nous ferons sûrement, tout ce que vous nous dites,</l>
-	<l id="695">Et nous nous récrirons, aussi comme il faudra</l>
+	<l id="694">Nous ferons sÃ»rement, tout ce que vous nous dites,</l>
+	<l id="695">Et nous nous rÃ©crirons, aussi comme il faudra</l>
 	<l id="696">Sur tout ce que d'esprit, et de beau l'on dira.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
 	<l id="697">Je ne vous dirai pas du tout, si je devine</l>
 	<l id="698">Mais je me trompe fort, ou vous avez la mine,</l>
-	<l id="699">De quelque comédie, avoir fait le tissu.</l>
+	<l id="699">De quelque comÃ©die, avoir fait le tissu.</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
-	<l id="700">Eh ! Il pourrait bien être, et sans que l'on l'ait su</l>
+	<l id="700">Eh ! Il pourrait bien Ãªtre, et sans que l'on l'ait su</l>
 	<l id="701" part='i'>De cela quelque chose.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
 	<l id="701" part='f'>Eh ! Bien si bon vous semble</l>
 	<l id="702">Ma foi, nous la verrons, quand vous voudrez ensemble ;</l>
-	<l id="703">Mais puisqu'il est ainsi, je veux sans différer, </l>
-	<l id="704">Un secret important ici vous déclarer.</l>
+	<l id="703">Mais puisqu'il est ainsi, je veux sans diffÃ©rer, </l>
+	<l id="704">Un secret important ici vous dÃ©clarer.</l>
 	<l id="705">Entre nous, j'en ai faite une, je vous l'avoue,</l>
 	<l id="706">Que je veux dedans peu, faire en sorte qu'on joue.</l>
 </sp>
 <sp who="CATHOS"><speaker>CATHOS.</speaker>
-	<l id="707">Et quels comédiens la représenteront ?</l>
+	<l id="707">Et quels comÃ©diens la reprÃ©senteront ?</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
 	<l id="708">Ah ! La belle demande, et ma foi ce seront</l>
-	<l id="709">Les grands comédiens, ils en sont seuls capables,</l>
-	<l id="710">Leur récit a toujours, des grâces admirables</l>
+	<l id="709">Les grands comÃ©diens, ils en sont seuls capables,</l>
+	<l id="710">Leur rÃ©cit a toujours, des grÃ¢ces admirables</l>
 	<l id="711">Dans leurs bouches les vers, sont beaucoup apparents ;</l>
 	<l id="712">Pour les autres on sait, qu'ils sont des ignorants ;</l>
 	<l id="713">Tous leurs gestes n'ont rien qui ne soit du vulgaire,</l>
-	<l id="714">Et comme on parle enfin, récitent d'ordinaire ;</l>
+	<l id="714">Et comme on parle enfin, rÃ©citent d'ordinaire ;</l>
 	<l id="715">Les vers ne ronflent point, qu'articule leur voix,</l>
-	<l id="716">Ils ne s'arrêtent point, du tout, aux beaux endroits,</l>
-	<l id="717">Et quel moyen a-t-on ? De les pouvoir connaître,</l>
-	<l id="718">Si le comédien, ne les fait pas paraître</l>
-	<l id="719">S'il n'y fait une pose, et n'avertit par là</l>
-<note type="L">Brouhaha : Acclamation, bruit sourd et confus, qu'on entend dans les assemblées où on fait des dscours publics, et où on donne des spectacles, lequel témoigne l'admiration, et l'applaudissement des assistants, quand il s'y trouve quelque chose d'éclatant, et qui touche l'esprit. Ce treme est surtout en usage parmis les comédiens, lorqu'on se récrie sur les beaux enroits de la pièce. [F]</note>
-	<l id="720">À quels endroits, il faut faire le brouhaha.</l>
+	<l id="716">Ils ne s'arrÃªtent point, du tout, aux beaux endroits,</l>
+	<l id="717">Et quel moyen a-t-on ? De les pouvoir connaÃ®tre,</l>
+	<l id="718">Si le comÃ©dien, ne les fait pas paraÃ®tre</l>
+	<l id="719">S'il n'y fait une pose, et n'avertit par lÃ </l>
+<note type="L">Brouhaha : Acclamation, bruit sourd et confus, qu'on entend dans les assemblÃ©es oÃ¹ on fait des dscours publics, et oÃ¹ on donne des spectacles, lequel tÃ©moigne l'admiration, et l'applaudissement des assistants, quand il s'y trouve quelque chose d'Ã©clatant, et qui touche l'esprit. Ce treme est surtout en usage parmis les comÃ©diens, lorqu'on se rÃ©crie sur les beaux enroits de la piÃ¨ce. [F]</note>
+	<l id="720">Ã€ quels endroits, il faut faire le brouhaha.</l>
 </sp>
 <sp who="CATHOS"><speaker>CATHOS.</speaker>
-	<l id="721">Il est une manière en effet, qui fait même</l>
-	<l id="722">Sentir à ses auteurs, tous les attraits d'un poème,</l>
+	<l id="721">Il est une maniÃ¨re en effet, qui fait mÃªme</l>
+	<l id="722">Sentir Ã  ses auteurs, tous les attraits d'un poÃ¨me,</l>
 	<l id="723">Et les choses souvent, ne valent du tout rien,</l>
 	<l id="724">S'ils ne sont dans leur jour, et ne se disent bien.</l>
 </sp>
 <sp who='MASCARILLE'><speaker>MASCARILLE, montrant le ruban de ses chausses.</speaker>
-<note type="L">Petite-oie : On appelle figurément Petite-oie, Les bas, le chapeau, les rubans, les gants, et les autres ajustements nécessaires pour rendre un habillement complet. [Ac. 1762]</note>
-<note type="L">Congruant : Qui convient à. [L]</note>
+<note type="L">Petite-oie : On appelle figurÃ©ment Petite-oie, Les bas, le chapeau, les rubans, les gants, et les autres ajustements nÃ©cessaires pour rendre un habillement complet. [Ac. 1762]</note>
+<note type="L">Congruant : Qui convient Ã . [L]</note>
 	<l id="725">Ma petite-oie est-elle a l'habit congruante ?</l>
 </sp>
 <sp who="CATHOS"><speaker>CATHOS.</speaker>
-	<l id="726" part='i'>Tout à fait.</l>
+	<l id="726" part='i'>Tout Ã  fait.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
 	<l id="726" part='f'>Le ruban est d'une main savante,</l>
@@ -1412,35 +1411,35 @@
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
 	<l id="727" part='f'>Furieusement bien</l>
-<note type="L">Perdrigeon : nom propre d'un commerçant d'accessoires vestimentaires ou mercier du XVIIème.</note>
+<note type="L">Perdrigeon : nom propre d'un commerÃ§ant d'accessoires vestimentaires ou mercier du XVIIÃ¨me.</note>
 	<l id="728" part='i'>C'est Perdrigeon tout pur.</l>
 </sp>
-<sp who='MASCARILLE'><speaker>MASCARILLE, étalant ses canons.</speaker>
+<sp who='MASCARILLE'><speaker>MASCARILLE, Ã©talant ses canons.</speaker>
 	<l id="728" part='f'>Ne me direz-vous rien</l>
-<note type="L">Canon : Signifie encore un demis-bas qui s'étend depuis la moitié des cuisses jusqu'à la moitié des jambes. Est aussi un ornement de rond fort large et souvent orné de dentelle qu'on attache au dessous du genou, qui pend jusqu'à la moitié de la jambe pour le couvrir : ce qui était il y aquelque temps fort à la mode ; c'est dont Molière se raille. [F]</note>
+<note type="L">Canon : Signifie encore un demis-bas qui s'Ã©tend depuis la moitiÃ© des cuisses jusqu'Ã  la moitiÃ© des jambes. Est aussi un ornement de rond fort large et souvent ornÃ© de dentelle qu'on attache au dessous du genou, qui pend jusqu'Ã  la moitiÃ© de la jambe pour le couvrir : ce qui Ã©tait il y aquelque temps fort Ã  la mode ; c'est dont MoliÃ¨re se raille. [F]</note>
 	<l id="729">Aussi de mes canons ? Ont-ils l'heur de vous plaire</l>
 	<l id="730" part='i'>Dites, que vous en semble ?</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
 	<l id="730" part='f'>Ah ! je ne m'en puis taire,</l>
-	<l id="731">Je confesse qu'ils ont un tout à fait bon air.</l>
+	<l id="731">Je confesse qu'ils ont un tout Ã  fait bon air.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
-	<l id="732">Par ma foi je me plais, à vous ouïr parler.</l>
+	<l id="732">Par ma foi je me plais, Ã  vous ouÃ¯r parler.</l>
 	<l id="733">Je trouve que leur air, n'a rien que d'admirable,</l>
 	<l id="734">Et je puis me vanter, qu'il n'est rien de semblable,</l>
-	<l id="735">Qu'avec raison, j'en suis tout à fait satisfait,</l>
+	<l id="735">Qu'avec raison, j'en suis tout Ã  fait satisfait,</l>
 	<l id="736">Puisqu'ils ont un quartier, plus que tout ceux qu'on fait.</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
 	<l id="737">Je dois bien l'avouer ; car je n'ai que je pense</l>
-	<l id="738">Jamais d'ajustement vu porter l'élégance,</l>
-	<l id="739">Dedans un si haut point. Que vous donnez d'éclat</l>
-	<l id="740" part='i'>À ce que vous avez.</l>
+	<l id="738">Jamais d'ajustement vu porter l'Ã©lÃ©gance,</l>
+	<l id="739">Dedans un si haut point. Que vous donnez d'Ã©clat</l>
+	<l id="740" part='i'>Ã€ ce que vous avez.</l>
 </sp>
-<sp who='MASCARILLE'><speaker>MASCARILLE, lui donnant ses gants à sentir.</speaker>
+<sp who='MASCARILLE'><speaker>MASCARILLE, lui donnant ses gants Ã  sentir.</speaker>
 	<l id="740" part='f'>Mais de votre odorat</l>
-	<l id="741">Que la réflexion dessus ces gants s'attache.</l>
+	<l id="741">Que la rÃ©flexion dessus ces gants s'attache.</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
 	<l id="742">Je n'eus jamais d'odeur plus douce que je sache,</l>
@@ -1448,18 +1447,18 @@
 	<l id="744">Qu'ils sentent en effet, et terriblement bon.</l>
 </sp>
 <sp who="CATHOS"><speaker>CATHOS.</speaker>
-	<l id="745">Je n'ai point respiré, depuis que je suis née,</l>
-	<l id="746">Une odeur, qui me parût mieux conditionnée.</l>
+	<l id="745">Je n'ai point respirÃ©, depuis que je suis nÃ©e,</l>
+	<l id="746">Une odeur, qui me parÃ»t mieux conditionnÃ©e.</l>
 </sp>
 <sp who='MASCARILLE'><speaker>MASCARILLE, lui faisant sentir ses cheveux.</speaker>
-	<l id="747" part='i'>Et celle-là ?</l>
+	<l id="747" part='i'>Et celle-lÃ  ?</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
-	<l id="747" part='f'>Je dis avecque vérité</l>
-	<l id="748">Que je la trouve aussi de bonne qualité,</l>
-	<l id="749">Je sens qu'elle me plaît, et sens que je l'estime,</l>
-	<l id="750">À cause qu'elle est bonne, et qu'enfin le sublime</l>
-	<l id="751">En est certes, touché délicieusement.</l>
+	<l id="747" part='f'>Je dis avecque vÃ©ritÃ©</l>
+	<l id="748">Que je la trouve aussi de bonne qualitÃ©,</l>
+	<l id="749">Je sens qu'elle me plaÃ®t, et sens que je l'estime,</l>
+	<l id="750">Ã€ cause qu'elle est bonne, et qu'enfin le sublime</l>
+	<l id="751">En est certes, touchÃ© dÃ©licieusement.</l>
 </sp>
 <sp who='MASCARILLE'><speaker>MASCARILLE, montrant ses plumes.</speaker>
 	<l id="752">Vous ne me dites rien de mes plumes, comment</l>
@@ -1471,57 +1470,57 @@
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
 	<l id="755">Vous vous y connaissez, je le vois ; mais encor</l>
-<note type="C">v. 756, il y aun point d'interrogation après "brin" dans l'édition originale et non en fin de vers.</note>
-	<l id="756">Savez-vous que le brin me coûte un Louis d'or ?</l>
+<note type="C">v. 756, il y aun point d'interrogation aprÃ¨s "brin" dans l'Ã©dition originale et non en fin de vers.</note>
+	<l id="756">Savez-vous que le brin me coÃ»te un Louis d'or ?</l>
 	<l id="757">Pour moi sans me vanter, il faut que je vous die,</l>
 	<l id="758">Que depuis bien longtemps, j'ai pris cette manie</l>
-	<l id="759">De donner par ma foi, trop généralement</l>
+	<l id="759">De donner par ma foi, trop gÃ©nÃ©ralement</l>
 	<l id="760">Sur tout ce que l'on voit, de rare et de charmant.</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
 	<l id="761">Nous sympathisons fort ensemble, je vous jure,</l>
 	<l id="762">Et c'est sans vous mentir, qu'ici je vous assure</l>
-	<l id="763">Que je suis délicate, et furieusement</l>
+	<l id="763">Que je suis dÃ©licate, et furieusement</l>
 	<l id="764">Pour tout ce qui me sert, en mon habillement,</l>
-	<l id="765">Et jusqu'à des chaussons, je n'en puis d'ordinaire</l>
-	<l id="766">Souffrir, s'ils ne sont faits, de la bonne ouvrière.</l>
+	<l id="765">Et jusqu'Ã  des chaussons, je n'en puis d'ordinaire</l>
+	<l id="766">Souffrir, s'ils ne sont faits, de la bonne ouvriÃ¨re.</l>
 </sp>
-<sp who='MASCARILLE'><speaker>MASCARILLE, s'écriant brusquement.</speaker>
-	<l id="767">Mesdames, ahy, ahy, ahy, de grâce doucement,</l>
+<sp who='MASCARILLE'><speaker>MASCARILLE, s'Ã©criant brusquement.</speaker>
+	<l id="767">Mesdames, ahy, ahy, ahy, de grÃ¢ce doucement,</l>
 	<l id="768">Ce n'est pas Dieu me damne, en user prudemment,</l>
-	<l id="769">De votre procédé, j'aurais lieu de me plaindre,</l>
-	<l id="770">Cela n'est pas honnête, et vous me faites craindre...</l>
+	<l id="769">De votre procÃ©dÃ©, j'aurais lieu de me plaindre,</l>
+	<l id="770">Cela n'est pas honnÃªte, et vous me faites craindre...</l>
 </sp>
 <sp who="CATHOS"><speaker>CATHOS.</speaker>
 	<l id="771">Qu'est-ce que donc ? Qu'avez-vous ? Qui vous trouble, Monsieur.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
-	<l id="772">Toutes deux à la fois, s'attaquer à mon coeur,</l>
-	<l id="773">Me prendre à droit, à gauche, ah certes la partie,</l>
-	<l id="774">N'est pas du tout égale, et je veux garantie,</l>
+	<l id="772">Toutes deux Ã  la fois, s'attaquer Ã  mon coeur,</l>
+	<l id="773">Me prendre Ã  droit, Ã  gauche, ah certes la partie,</l>
+	<l id="774">N'est pas du tout Ã©gale, et je veux garantie,</l>
 	<l id="775">Ou puisque vous allez, contre le droit des gens,</l>
-	<l id="776">Je vais crier au meurtre ; et sortir de céans.</l>
+	<l id="776">Je vais crier au meurtre ; et sortir de cÃ©ans.</l>
 </sp>
 <sp who="CATHOS"><speaker>CATHOS.</speaker>
-	<l id="777">Il ne dit rien du tout qu'avec une manière</l>
-	<l id="778">Tout à fait agréable, et qui n'est pas vulgaire.</l>
+	<l id="777">Il ne dit rien du tout qu'avec une maniÃ¨re</l>
+	<l id="778">Tout Ã  fait agrÃ©able, et qui n'est pas vulgaire.</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
-	<l id="779">Il a dedans l'esprit un tour ; mais sans égal.</l>
+	<l id="779">Il a dedans l'esprit un tour ; mais sans Ã©gal.</l>
 </sp>
 <sp who="CATHOS"><speaker>CATHOS.</speaker>
 	<l id="780">Vous avez bien, Monsieur, plus de peur que de mal,</l>
-	<l id="781">Et votre coeur craintif, crie avant qu'on l'écorche.</l>
+	<l id="781">Et votre coeur craintif, crie avant qu'on l'Ã©corche.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
 	<l id="782">J'ai sujet toutefois, de faire ce reproche :</l>
 	<l id="783">Comment diable, je sens que quoi que vous disiez</l>
-	<l id="784">Il est depuis la tête écorché jusqu'aux pieds.</l>
+	<l id="784">Il est depuis la tÃªte Ã©corchÃ© jusqu'aux pieds.</l>
 </sp>
 </div2>
-<div2 type='scene' n='10'><head>SCÈNE X. Marotte, Mascarille, Cathos, Madelon.</head>
+<div2 type="scene" n='10'><head>SCÃˆNE X. Marotte, Mascarille, Cathos, Madelon.</head>
 <sp who="MAROTTE"><speaker>MAROTTE.</speaker>
-	<l id="785" part='i'>On demande à vous voir.</l>
+	<l id="785" part='i'>On demande Ã  vous voir.</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
 	<l id="785" part='m'>Et qui ?</l>
@@ -1554,7 +1553,7 @@
 	<l id="791">Que depuis fort longtemps, nous ne nous sommes vus.</l>
 </sp>
 </div2>
-<div2 type='scene' n='11'><head>SCÈNE XI. Jodelet, Mascarille, Cathos, Madelon, Marotte.</head>
+<div2 type="scene" n='11'><head>SCÃˆNE XI. Jodelet, Mascarille, Cathos, Madelon, Marotte.</head>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
 	<l id="792" part='i'>Ah ! Vicomte.</l>
 </sp>
@@ -1562,7 +1561,7 @@
 	<l id="792" part='m'>Ah ! Marquis,</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
-	<l id="792" part='f'>Que tous mes sens émus</l>
+	<l id="792" part='f'>Que tous mes sens Ã©mus</l>
 	<l id="793">Marquent bien le plaisir, que j'ai de te rencontre.</l>
 </sp>
 <sp who="JODELET"><speaker>JODELET.</speaker>
@@ -1572,19 +1571,19 @@
 	<l id="795">Baise-moi donc encor, Vicomte, baise-moi,</l>
 	<l id="796" part='i'>Je t'en conjure.</l>
 </sp>
-<sp who='JODELET'><speaker>JODELET, l'ayant baisé.</speaker>
+<sp who='JODELET'><speaker>JODELET, l'ayant baisÃ©.</speaker>
 	<l id="796" part='f'>Il t'en faut de plus doux ma foi.</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
-	<l id="797">Nous commençons ma bonne, enfin d'être connues,</l>
-	<l id="798">Du beau monde chez nous, nous allons être vues,</l>
+	<l id="797">Nous commenÃ§ons ma bonne, enfin d'Ãªtre connues,</l>
+	<l id="798">Du beau monde chez nous, nous allons Ãªtre vues,</l>
 	<l id="799">Puisqu'il prend le chemin de nous y visiter.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
-	<l id="800">Mesdames, s'il vous plaît, de ma part d'accepter</l>
+	<l id="800">Mesdames, s'il vous plaÃ®t, de ma part d'accepter</l>
 	<l id="801">Ce Gentilhomme-ci ; sans que je le cajole,</l>
-	<l id="802">Il est assurément, digne (sur ma parole)</l>
-	<l id="803" part='i'>D'être connu de vous.</l>
+	<l id="802">Il est assurÃ©ment, digne (sur ma parole)</l>
+	<l id="803" part='i'>D'Ãªtre connu de vous.</l>
 </sp>
 <sp who="JODELET"><speaker>JODELET.</speaker>
 	<l id="803" part='f'>Il est juste, et de droit</l>
@@ -1595,89 +1594,89 @@
 <sp who="MADELON"><speaker>MADELON.</speaker>
 	<l id="806" part='f'>Nous savons qui nous sommes,</l>
 	<l id="807">Monsieur, et c'est pousser pour nos esprits peu fins</l>
-	<l id="808">Votre civilité, jusqu'aux derniers confins</l>
+	<l id="808">Votre civilitÃ©, jusqu'aux derniers confins</l>
 	<l id="809" part='i'>De la galanterie.</l>
 </sp>
 <sp who="CATHOS"><speaker>CATHOS.</speaker>
-	<l id="809" part='f'>Ah ! Dieux, cette journée</l>
-	<l id="810">Doit être comme grande, ensemble et fortunée,</l>
-	<l id="811" part='i'>Marquée dans notre almanach.</l>
+	<l id="809" part='f'>Ah ! Dieux, cette journÃ©e</l>
+	<l id="810">Doit Ãªtre comme grande, ensemble et fortunÃ©e,</l>
+	<l id="811" part='i'>MarquÃ©e dans notre almanach.</l>
 </sp>
-<sp who='MADELON'><speaker>MADELON, à Almanzor.</speaker>
-	<l id="811" part='f'>Petit garçon,</l>
-	<l id="812">Quoi vous faut-il toujours, faire votre leçon,</l>
-	<l id="813">Ne voyez-vous pas bien ? Surcroît de compagnie,</l>
+<sp who='MADELON'><speaker>MADELON, Ã  Almanzor.</speaker>
+	<l id="811" part='f'>Petit garÃ§on,</l>
+	<l id="812">Quoi vous faut-il toujours, faire votre leÃ§on,</l>
+	<l id="813">Ne voyez-vous pas bien ? SurcroÃ®t de compagnie,</l>
 	<l id="814" part='i'>Et qu'il faut un fauteuil.</l>
 </sp>
 <sp who='JODELET'><speaker>JODELET, s'assoit.</speaker>
-	<l id="814" part='f'>C'est sans cérémonie.</l>
+	<l id="814" part='f'>C'est sans cÃ©rÃ©monie.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
-	<l id="815">Ne vous étonnez pas, s'il est si déconfit,</l>
+	<l id="815">Ne vous Ã©tonnez pas, s'il est si dÃ©confit,</l>
 	<l id="816">Il ne fait que sortir, d'un mal qui l'a bouffi,</l>
 	<l id="817">Comme vous le voyez, c'est pourquoi son visage</l>
-	<l id="818" part='i'>Est si maigre, et si pâle.</l>
+	<l id="818" part='i'>Est si maigre, et si pÃ¢le.</l>
 </sp>
 <sp who="JODELET"><speaker>JODELET.</speaker>
 	<l id="818" part='f'>Et c'est tout l'avantage,</l>
-	<l id="819">Et les fruits qu'on reçoit des veilles de la Cour,</l>
+	<l id="819">Et les fruits qu'on reÃ§oit des veilles de la Cour,</l>
 	<l id="820">Des travaux de la guerre, et des soins de l'amour.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
 	<l id="821">Mais dites cependant, savez-vous bien Mesdames ?</l>
-	<l id="822">Qu'on place le Vicomte, au rang des belles âmes,</l>
-	<l id="823">Qu'il est de ces vaillants, à qui le fer sied bien,</l>
-<note type="L">À trois poils : Figuré et familièrement, et par une plaisanterie tirée du velours à trois poils, à quatre poils, qui est le meilleur. Un brave à trois, à quatre poils, un homme qui se pique d'une très grande bravoure. [L]</note>
-	<l id="824" part='i'>C'est un brave à trois poils.</l>
+	<l id="822">Qu'on place le Vicomte, au rang des belles Ã¢mes,</l>
+	<l id="823">Qu'il est de ces vaillants, Ã  qui le fer sied bien,</l>
+<note type="L">Ã€ trois poils : FigurÃ© et familiÃ¨rement, et par une plaisanterie tirÃ©e du velours Ã  trois poils, Ã  quatre poils, qui est le meilleur. Un brave Ã  trois, Ã  quatre poils, un homme qui se pique d'une trÃ¨s grande bravoure. [L]</note>
+	<l id="824" part='i'>C'est un brave Ã  trois poils.</l>
 </sp>
 <sp who="JODELET"><speaker>JODELET.</speaker>
 	<l id="824" part='f'>Vous ne m'en devez rien,</l>
 	<l id="825">Marquis, et nous savons ce que vous savez faire.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
-	<l id="826">Ah ! Ma foi, ma science, auprès vous doit se taire,</l>
+	<l id="826">Ah ! Ma foi, ma science, auprÃ¨s vous doit se taire,</l>
 	<l id="827">Il est vrai que tous deux, nous nous sommes souvent</l>
 	<l id="828" part='i'>Vus dans l'occasion.</l>
 </sp>
 <sp who="JODELET"><speaker>JODELET.</speaker>
 	<l id="828" part='f'>Quelque fois trop avant</l>
-	<l id="829">Et même en des endroits, où l'on aura sans doute</l>
-	<l id="830" part='i'>Bien du chaud à souffrir.</l>
+	<l id="829">Et mÃªme en des endroits, oÃ¹ l'on aura sans doute</l>
+	<l id="830" part='i'>Bien du chaud Ã  souffrir.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
-	<l id="830" part='f'>Oui ; mais Vicomte, écoute,</l>
+	<l id="830" part='f'>Oui ; mais Vicomte, Ã©coute,</l>
 	<l id="831" part='i'>Pas tant de chaud qu'ici, hay, hay, hay.</l>
 </sp>
 <sp who="JODELET"><speaker>JODELET.</speaker>
 	<l id="831" part='f'>Nous avons</l>
-	<l id="832">Fait notre connaissance à l'armée, et vivons</l>
-	<l id="833">Depuis en amitié. Le jour que nous nous vîmes</l>
-	<l id="834">Pour la première fois, ma foi tous deux nous fîmes</l>
-	<l id="835">Ce pacte d'être amis. Il commandait alors</l>
-	<l id="836">Un fort beau régiment de cavaliers très forts,</l>
-	<l id="837">Sur, si je m'en souviens, les galères de Malte.</l>
+	<l id="832">Fait notre connaissance Ã  l'armÃ©e, et vivons</l>
+	<l id="833">Depuis en amitiÃ©. Le jour que nous nous vÃ®mes</l>
+	<l id="834">Pour la premiÃ¨re fois, ma foi tous deux nous fÃ®mes</l>
+	<l id="835">Ce pacte d'Ãªtre amis. Il commandait alors</l>
+	<l id="836">Un fort beau rÃ©giment de cavaliers trÃ¨s forts,</l>
+	<l id="837">Sur, si je m'en souviens, les galÃ¨res de Malte.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
 	<l id="838">Il est vrai ; mais Vicomte, ici trop l'on m'exalte.</l>
-	<l id="839">Vous étiez toutefois, dans l'emploi devant moi,</l>
-	<l id="840">Et je me souviens bien à présent sur ma foi,</l>
+	<l id="839">Vous Ã©tiez toutefois, dans l'emploi devant moi,</l>
+	<l id="840">Et je me souviens bien Ã  prÃ©sent sur ma foi,</l>
 	<l id="841">Que je n'avais encor qu'une charge assez basse,</l>
-	<l id="842">Que vous étiez déjà dans une belle passe,</l>
+	<l id="842">Que vous Ã©tiez dÃ©jÃ  dans une belle passe,</l>
 	<l id="843">Et que vous commandiez les deux mille chevaux.</l>
 </sp>
 <sp who="JODELET"><speaker>JODELET.</speaker>
 	<l id="844">La guerre est belle ; mais on a trop de travaux,</l>
 	<l id="845">Et la Cour aujourd'hui pour des gens de services</l>
-	<l id="846" part='i'>Vous récompense mal.</l>
+	<l id="846" part='i'>Vous rÃ©compense mal.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
 	<l id="846" part='f'>Ce ne sont qu'injustices :</l>
-<note type="L">Pendre l'épée au croc : raccrocher ses armes, y renoncer.</note>
-	<l id="847">C'est pourquoi, je veux prendre aussi l'épée au croc,</l>
-	<l id="848">Et ne plus m'exposer du tout à pas un choc.</l>
+<note type="L">Pendre l'Ã©pÃ©e au croc : raccrocher ses armes, y renoncer.</note>
+	<l id="847">C'est pourquoi, je veux prendre aussi l'Ã©pÃ©e au croc,</l>
+	<l id="848">Et ne plus m'exposer du tout Ã  pas un choc.</l>
 </sp>
 <sp who="CATHOS"><speaker>CATHOS.</speaker>
-	<l id="849">J'ai pour les gens d'épée, un très sérieux tendre.</l>
+	<l id="849">J'ai pour les gens d'Ã©pÃ©e, un trÃ¨s sÃ©rieux tendre.</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
 	<l id="850">Ils me plaisent aussi ; mais il faut pour me prendre,</l>
@@ -1685,61 +1684,61 @@
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
 	<l id="852">Te souvient-il Vicomte, avec quelle vigueur</l>
-	<l id="853">Nous prîmes, toutefois suivis de la fortune</l>
+	<l id="853">Nous prÃ®mes, toutefois suivis de la fortune</l>
 	<l id="854">Dessus nos ennemis, dis, cette demi-lune,</l>
-<note tye="C">Le siège d'Arrras est une bataille gagnée par les Français le 9 août 1640.</note>
-	<l id="855" part='i'>Étant devant Arras ?</l>
+<note tye="C">Le siÃ¨ge d'Arrras est une bataille gagnÃ©e par les FranÃ§ais le 9 aoÃ»t 1640.</note>
+	<l id="855" part='i'>Ã‰tant devant Arras ?</l>
 </sp>
 <sp who="JODELET"><speaker>JODELET.</speaker>
 	<l id="855" part='f'>Que veux-tu dire toi ?</l>
-<note type="L">Demi-lune : en termes de guerre, se dit d'un dehors qui n'a que deux faces, qui forment ensemble un angle saillant. (...) On la mettait autrefois à la pointe du bastion, où le fossé étant arrondi a été cause qu'on lui a donné ce nom. [F]</note>
-	<l id="856">Avec ta demi-lune, et tu rêves, je crois</l>
-	<l id="857">Penses-y, c'était bien, toute une lune entière.</l>
+<note type="L">Demi-lune : en termes de guerre, se dit d'un dehors qui n'a que deux faces, qui forment ensemble un angle saillant. (...) On la mettait autrefois Ã  la pointe du bastion, oÃ¹ le fossÃ© Ã©tant arrondi a Ã©tÃ© cause qu'on lui a donnÃ© ce nom. [F]</note>
+	<l id="856">Avec ta demi-lune, et tu rÃªves, je crois</l>
+	<l id="857">Penses-y, c'Ã©tait bien, toute une lune entiÃ¨re.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
 	<l id="858" part='i'>Il a parbleu raison.</l>
 </sp>
 <sp who="JODELET"><speaker>JODELET.</speaker>
-	<l id="858" part='f'>J'y crus mon Cimetière,</l>
-	<l id="859">Je m'en souviens ma fois, car j'y fus fort blessé</l>
-	<l id="860">D'un grand coup de grenade, à la jambe, et je sais</l>
-	<l id="861">Que j'en porte la marque encore ; mais de grâce</l>
-<stage>Faisant tâter à sa jambe.</stage>
-	<l id="862">Tâtez vous sentirez le coup, voilà la place.</l>
+	<l id="858" part='f'>J'y crus mon CimetiÃ¨re,</l>
+	<l id="859">Je m'en souviens ma fois, car j'y fus fort blessÃ©</l>
+	<l id="860">D'un grand coup de grenade, Ã  la jambe, et je sais</l>
+	<l id="861">Que j'en porte la marque encore ; mais de grÃ¢ce</l>
+<stage>Faisant tÃ¢ter Ã  sa jambe.</stage>
+	<l id="862">TÃ¢tez vous sentirez le coup, voilÃ  la place.</l>
 </sp>
-<sp who='CATHOS'><speaker>CATHOS, ayant porté la main.</speaker>
+<sp who='CATHOS'><speaker>CATHOS, ayant portÃ© la main.</speaker>
 	<l id="863" part='i'>La cicatrice est grande.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
 	<l id="863" part='f'>Apportez donc aussi</l>
-	<l id="864">Votre main, et tâtez justement celui-ci</l>
-	<l id="865">Là, là le trouvez-vous ? Là derrière la tête.</l>
+	<l id="864">Votre main, et tÃ¢tez justement celui-ci</l>
+	<l id="865">LÃ , lÃ  le trouvez-vous ? LÃ  derriÃ¨re la tÃªte.</l>
 </sp>
-<sp who='MADELON'><speaker>MADELON, Ayant la main derrière la tête de Mascarille.</speaker>
-	<l id="866">Oui je sens quelque chose. Un tel coup vous apprête</l>
+<sp who='MADELON'><speaker>MADELON, Ayant la main derriÃ¨re la tÃªte de Mascarille.</speaker>
+	<l id="866">Oui je sens quelque chose. Un tel coup vous apprÃªte</l>
 	<l id="867" part='i'>Aussi force lauriers.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
-	<l id="867" part='f'>Je reçus ce coup-là</l>
-	<l id="868" part='i'>Ma dernière campagne.</l>
+	<l id="867" part='f'>Je reÃ§us ce coup-lÃ </l>
+	<l id="868" part='i'>Ma derniÃ¨re campagne.</l>
 </sp>
-<sp who='JODELET'><speaker>JODELET, à Cathos.</speaker>
-	<l id="868" part='f'>Ah ! Tâtez donc voilà</l>
-<note type="L">Gravelines : assiégée en 1644 par Louis XIII, reprise en 1652 par l'archiduc Léopold. Enfin, reprise par Vauban en 1658, quatre ans après une explosion de la poudrière qui détruisit la presque le totalité de la ville.</note>
-	<l id="869">Encore un autre coup, je l'eus à Gravelines</l>
-	<l id="870">Et depuis j'ai souffert d'une fièvre maligne</l>
-	<l id="871" part='i'>De fort âpres douleurs.</l>
+<sp who='JODELET'><speaker>JODELET, Ã  Cathos.</speaker>
+	<l id="868" part='f'>Ah ! TÃ¢tez donc voilÃ </l>
+<note type="L">Gravelines : assiÃ©gÃ©e en 1644 par Louis XIII, reprise en 1652 par l'archiduc LÃ©opold. Enfin, reprise par Vauban en 1658, quatre ans aprÃ¨s une explosion de la poudriÃ¨re qui dÃ©truisit la presque le totalitÃ© de la ville.</note>
+	<l id="869">Encore un autre coup, je l'eus Ã  Gravelines</l>
+	<l id="870">Et depuis j'ai souffert d'une fiÃ¨vre maligne</l>
+	<l id="871" part='i'>De fort Ã¢pres douleurs.</l>
 </sp>
 <sp who='MASCARILLE'><speaker>MASCARILLE, mettant la main sur le bouton de son haut de chausse.</speaker>
 	<l id="871" part='f'>Moi je vais vous montrer</l>
 	<l id="872" part='i'>Une effroyable plaie.</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
-	<l id="872" part='f'>Ah ! C'est trop folâtrer,</l>
+	<l id="872" part='f'>Ah ! C'est trop folÃ¢trer,</l>
 	<l id="873">Sans y voir on vous croit, et vos faits admirables.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
-	<l id="874">Ce sont à dire vrai, des marques honorables</l>
+	<l id="874">Ce sont Ã  dire vrai, des marques honorables</l>
 	<l id="875" part='i'>Qui font voir ce qu'on est.</l>
 </sp>
 <sp who="CATHOS"><speaker>CATHOS.</speaker>
@@ -1747,132 +1746,132 @@
 	<l id="876" part='i'>Nous vous connaissons bien.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
-	<l id="876" part='f'>Dis Vicomte, as-tu là</l>
+	<l id="876" part='f'>Dis Vicomte, as-tu lÃ </l>
 	<l id="877" part='i'>Ton carrosse ?</l>
 </sp>
 <sp who="JODELET"><speaker>JODELET.</speaker>
 	<l id="877" part='m'>Pourquoi ?</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
-	<l id="877" part='f'>Nous mènerions ces Dames,</l>
-	<l id="878">Prendre hors des portes l'air, pour délecter leurs âmes,</l>
-	<l id="879">Et puis leur donnerions, par après un cadeau,</l>
-	<l id="880">Le temps nous y convie, il est tout à fait beau.</l>
+	<l id="877" part='f'>Nous mÃ¨nerions ces Dames,</l>
+	<l id="878">Prendre hors des portes l'air, pour dÃ©lecter leurs Ã¢mes,</l>
+	<l id="879">Et puis leur donnerions, par aprÃ¨s un cadeau,</l>
+	<l id="880">Le temps nous y convie, il est tout Ã  fait beau.</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
 	<l id="881" part='i'>Nous ne saurions sortir d'aujourd'hui.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
 	<l id="881" part='f'>Faut remettre</l>
-	<l id="882">À quelques jours d'ici la partie, et promettre</l>
+	<l id="882">Ã€ quelques jours d'ici la partie, et promettre</l>
 	<l id="883" part='i'>Aussi que vous viendrez.</l>
 </sp>
 <sp who="CATHOS"><speaker>CATHOS.</speaker>
-	<l id="883" part='f'>Hé ! Bien nous le voulons.</l>
+	<l id="883" part='f'>HÃ© ! Bien nous le voulons.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
 	<l id="884">Ayons donc pour danser ici les violons.</l>
 </sp>
 <sp who="JODELET"><speaker>JODELET.</speaker>
-	<l id="885" part='i'>C'est fort bien avisé.</l>
+	<l id="885" part='i'>C'est fort bien avisÃ©.</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
 	<l id="885" part='f'>Pour cela, c'est sans peine</l>
-	<l id="886">Que nous y consentons ; mais faut qu'on nous amène</l>
-	<l id="887" part='i'>Surcroît de Compagnie.</l>
+	<l id="886">Que nous y consentons ; mais faut qu'on nous amÃ¨ne</l>
+	<l id="887" part='i'>SurcroÃ®t de Compagnie.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
-	<l id="887" part='f'>Holà, ho Poitevin,</l>
-	<l id="888">Bourguignon, Provençal, Champagne, Langevin,</l>
+	<l id="887" part='f'>HolÃ , ho Poitevin,</l>
+	<l id="888">Bourguignon, ProvenÃ§al, Champagne, Langevin,</l>
 	<l id="889">La Verdure, Lorrain, Basque, la Violette,</l>
-	<l id="890">La Ramée, Picart, Cascaret, la Valette,</l>
+	<l id="890">La RamÃ©e, Picart, Cascaret, la Valette,</l>
 	<l id="891">Au Diable les laquais, pour moi je ne crois pas,</l>
-	<l id="892">Que je ne rompe à tous les jambes, et les bras,</l>
+	<l id="892">Que je ne rompe Ã  tous les jambes, et les bras,</l>
 	<l id="893">Non je ne trouve point, de Gentilhomme en France</l>
 	<l id="894">Plus mal servi que moi, de ces races je pense ;</l>
-	<l id="895">Car ces canailles-là, ne m'entendent jamais.</l>
+	<l id="895">Car ces canailles-lÃ , ne m'entendent jamais.</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
-	<l id="896">Allez vite, Almanzor, là-bas dire aux laquais</l>
-	<l id="897">De Monsieur, qu'à présent ici l'on nous amène</l>
-	<l id="898">Des violons ; à Marotte et vous prenez aussi la peine ;</l>
+	<l id="896">Allez vite, Almanzor, lÃ -bas dire aux laquais</l>
+	<l id="897">De Monsieur, qu'Ã  prÃ©sent ici l'on nous amÃ¨ne</l>
+	<l id="898">Des violons ; Ã  Marotte et vous prenez aussi la peine ;</l>
 	<l id="899">De nous faire venir ces Dames, et Messieurs</l>
-	<l id="900">D'ici près, pour peupler aveque tous les leurs</l>
+	<l id="900">D'ici prÃ¨s, pour peupler aveque tous les leurs</l>
 	<l id="901">De notre bal si prompt la triste solitude.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
-	<l id="902">Ces yeux n'auraient-ils point détruit ta quiétude.</l>
+	<l id="902">Ces yeux n'auraient-ils point dÃ©truit ta quiÃ©tude.</l>
 	<l id="903" part='i'>Vicomte, qu'en dis-tu ?</l>
 </sp>
 <sp who="JODELET"><speaker>JODELET.</speaker>
-	<l id="903" part='f'>Mais toi-même Marquis,</l>
+	<l id="903" part='f'>Mais toi-mÃªme Marquis,</l>
 	<l id="904" part='i'>Qu'en pourrais-tu penser ?</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
 	<l id="904" part='f'>Moi, par ma fois je dis</l>
-	<l id="905">Qu'ici nos libertés, sont à demi sujettes,</l>
-<note type="L">Braie : Linge qui couvre le sparties honteuses, comme caleçons, haut de chausses. [F]</note>
-	<l id="906">Qu'à peine elles pourront sortir les braies nettes,</l>
-	<l id="907">Au moins pour moi, je sens qu'en mon coeur je reçois</l>
-	<l id="908">Une étrange secousse, et même aussi je crois</l>
+	<l id="905">Qu'ici nos libertÃ©s, sont Ã  demi sujettes,</l>
+<note type="L">Braie : Linge qui couvre le sparties honteuses, comme caleÃ§ons, haut de chausses. [F]</note>
+	<l id="906">Qu'Ã  peine elles pourront sortir les braies nettes,</l>
+	<l id="907">Au moins pour moi, je sens qu'en mon coeur je reÃ§ois</l>
+	<l id="908">Une Ã©trange secousse, et mÃªme aussi je crois</l>
 	<l id="909">Qu'il n'est plus retenu, que par fort peu de chose ;</l>
-	<l id="910">Mais quand je le perdrais j'en chérirais la cause.</l>
+	<l id="910">Mais quand je le perdrais j'en chÃ©rirais la cause.</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
 	<l id="911">Dieux que tout ce qu'il dit, est fort et naturel</l>
-	<l id="912">Qu'on voit bien qu'il n'a rien, qui soit matériel</l>
-	<l id="913">Et qu'il tourne à miracle une douceur ma chère.</l>
+	<l id="912">Qu'on voit bien qu'il n'a rien, qui soit matÃ©riel</l>
+	<l id="913">Et qu'il tourne Ã  miracle une douceur ma chÃ¨re.</l>
 </sp>
 <sp who="CATHOS"><speaker>CATHOS.</speaker>
 	<l id="914">Il est vrai qu'il est seul, je crois qui puisse faire</l>
-	<l id="915">Une telle dépense, en esprit et savoir.</l>
+	<l id="915">Une telle dÃ©pense, en esprit et savoir.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
 	<l id="916">Mesdames, toutefois pour vous mieux faire voir</l>
-	<l id="917">Que je ne vous ments point, je prétends ou je meure</l>
-	<l id="918">Vous faire un impromptu, là-dessus tout à l'heure.</l>
+	<l id="917">Que je ne vous ments point, je prÃ©tends ou je meure</l>
+	<l id="918">Vous faire un impromptu, lÃ -dessus tout Ã  l'heure.</l>
 </sp>
 <sp who="CATHOS"><speaker>CATHOS.</speaker>
 	<l id="919">Eh ! Je vous en conjure, avec toute l'ardeur</l>
-	<l id="920">Et la dévotion, ensemble de mon coeur</l>
+	<l id="920">Et la dÃ©votion, ensemble de mon coeur</l>
 	<l id="921">Que nous ayons au moins quelque chose, qu'on sache</l>
 	<l id="922" part='i'>Que l'on ait fait pour nous.</l>
 </sp>
 <sp who="JODELET"><speaker>JODELET.</speaker>
-	<l id="922" part='f'>Peste cela me fâche</l>
+	<l id="922" part='f'>Peste cela me fÃ¢che</l>
 	<l id="923">J'aurais envie aussi d'en faire tout autant ;</l>
 	<l id="924">Mais faut que vous sachiez et teniez pour constant</l>
 	<l id="925">Que je suis aujourd'hui, s'il faut que je m'explique,</l>
-	<l id="926">Beaucoup incommodé de la veine poétique</l>
-	<l id="927">Pour lui trop avoir fait de saignées ma foi,</l>
-	<l id="928" part='i'>Ces jours passés.</l>
+	<l id="926">Beaucoup incommodÃ© de la veine poÃ©tique</l>
+	<l id="927">Pour lui trop avoir fait de saignÃ©es ma foi,</l>
+	<l id="928" part='i'>Ces jours passÃ©s.</l>
 </sp>
 <sp who="CATHOS"><speaker>CATHOS.</speaker>
 	<l id="928" part='f'>Monsieur, sans cela je vous crois.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
 	<l id="929">Que diable est donc cela ? Je fais toujours sans peine,</l>
-<note type="L">Géhenne : Proprement, vallée près de Jérusalem où les juifs brûlaient leurs fils et leurs filles en l'honneur des idoles. Fig. L'Enfer en style de l'Ecriture.</note>
-	<l id="930">Fort bien le premier vers ; mais je suis à la géhenne</l>
+<note type="L">GÃ©henne : Proprement, vallÃ©e prÃ¨s de JÃ©rusalem oÃ¹ les juifs brÃ»laient leurs fils et leurs filles en l'honneur des idoles. Fig. L'Enfer en style de l'Ecriture.</note>
+	<l id="930">Fort bien le premier vers ; mais je suis Ã  la gÃ©henne</l>
 	<l id="931">Pour poursuivre. Ma foi ceci presse trop fort :</l>
-	<l id="932">À loisir, je ferai pour vous sans nul effort</l>
+	<l id="932">Ã€ loisir, je ferai pour vous sans nul effort</l>
 	<l id="933">En vers un impromptu, qui sans doute je gage</l>
-	<l id="934" part='i'>Ne vous déplaira pas.</l>
+	<l id="934" part='i'>Ne vous dÃ©plaira pas.</l>
 </sp>
 <sp who="JODELET"><speaker>JODELET.</speaker>
 	<l id="934" part='f'>Il a pour son partage</l>
-	<l id="935" part='i'>À mon sens, de l'esprit en démon.</l>
+	<l id="935" part='i'>Ã€ mon sens, de l'esprit en dÃ©mon.</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
 	<l id="935" part='f'>Mais du grand,</l>
-	<l id="936">Du bien tourné, du fin, même du plus galant.</l>
+	<l id="936">Du bien tournÃ©, du fin, mÃªme du plus galant.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
 	<l id="937">Vicomte, depuis quand as-tu vu la Comtesse ?</l>
 </sp>
 <sp who="JODELET"><speaker>JODELET.</speaker>
 	<l id="938">Elle aurait bien raison d'accuser ma paresse ;</l>
-	<l id="939">Car il s'est écoulé trois semaines et plus</l>
+	<l id="939">Car il s'est Ã©coulÃ© trois semaines et plus</l>
 	<l id="940" part='i'>Depuis que je l'ai vue.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
@@ -1880,10 +1879,10 @@
 	<l id="941">Quoi l'aller voir si peu ? Mais faut que je te conte</l>
 	<l id="942">Que le Duc ce matin m'est venu voir Vicomte,</l>
 	<l id="943">Et m'a voulu mener courir avecque lui</l>
-	<l id="944" part='i'>Le Cerf à la campagne.</l>
+	<l id="944" part='i'>Le Cerf Ã  la campagne.</l>
 </sp>
 <sp who="JODELET"><speaker>JODELET.</speaker>
-	<l id="944" part='f'>Et tu l'as éconduit ?</l>
+	<l id="944" part='f'>Et tu l'as Ã©conduit ?</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
 	<l id="945" part='i'>Quoi donc ?</l>
@@ -1892,44 +1891,44 @@
 	<l id="945" part='f'>Messieurs, voici nos amies qui viennent.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
-	<l id="946">Nous sommes obligés aux peines qu'elles prennent.</l>
+	<l id="946">Nous sommes obligÃ©s aux peines qu'elles prennent.</l>
 </sp>
 </div2>
-<div2 type='scene' n='12'><head>SCÈNE XII. Jodelet, Mascarille, Cathos, Madelon, Marotte, Lucile.</head>
+<div2 type="scene" n='12'><head>SCÃˆNE XII. Jodelet, Mascarille, Cathos, Madelon, Marotte, Lucile.</head>
 <sp who="MADELON"><speaker>MADELON.</speaker>
-	<l id="947">Mon Dieu, vous nous devez mes chères pardonner.</l>
+	<l id="947">Mon Dieu, vous nous devez mes chÃ¨res pardonner.</l>
 	<l id="948">Ces Messieurs ayant eu dessein de nous donner</l>
-	<l id="949">Chez nous l'âme des pieds, nous vous avons choisies</l>
-	<l id="950">Pour pouvoir mieux répondre à telles fantaisies,</l>
+	<l id="949">Chez nous l'Ã¢me des pieds, nous vous avons choisies</l>
+	<l id="950">Pour pouvoir mieux rÃ©pondre Ã  telles fantaisies,</l>
 	<l id="951">Et pour remplir aussi les vides incongrus,</l>
 	<l id="952" part='i'>Qui sont dans notre bal.</l>
 </sp>
 <sp who="LUCILE"><speaker>LUCILE.</speaker>
 	<l id="952" part='f'>Ah ! Ne nous tenez plus</l>
-	<l id="953">De semblables discours. Nous sommes obligées</l>
-	<l id="954">À votre souvenir, et serions affligées</l>
+	<l id="953">De semblables discours. Nous sommes obligÃ©es</l>
+	<l id="954">Ã€ votre souvenir, et serions affligÃ©es</l>
 	<l id="955">Si vous ne vouliez pas toujours agir ainsi.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
-	<l id="956">Ce n'est qu'un bal pressé que nous faisons ici ;</l>
+	<l id="956">Ce n'est qu'un bal pressÃ© que nous faisons ici ;</l>
 	<l id="957">Mais quelqu'un de ces jours nous avons bien envie</l>
-	<l id="958">De vous en donner un, au péril de la vie, </l>
+	<l id="958">De vous en donner un, au pÃ©ril de la vie, </l>
 	<l id="959">Dans les formes : Mais quoi les violons enfin,</l>
-	<l id="960" part='i'>Sont-ils là ?</l>
+	<l id="960" part='i'>Sont-ils lÃ  ?</l>
 </sp>
 <sp who="ALMANZOR"><speaker>ALMANZOR.</speaker>
 	<l id="960" part='m'>Oui, Monsieur.</l>
 </sp>
 <sp who="CATHOS"><speaker>CATHOS.</speaker>
-	<l id="960" part='f'>C'est trop d'être à la fin</l>
-	<l id="961">Sur ses pieds. Allons donc, mes chères, prenez place.</l>
+	<l id="960" part='f'>C'est trop d'Ãªtre Ã  la fin</l>
+	<l id="961">Sur ses pieds. Allons donc, mes chÃ¨res, prenez place.</l>
 </sp>
-<sp who='MASCARILLE'><speaker>MASCARILLE, dansant lui seul comme par prélude.</speaker>
+<sp who='MASCARILLE'><speaker>MASCARILLE, dansant lui seul comme par prÃ©lude.</speaker>
 	<l id="962" part='i'>La la la la la la.</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
-	<l id="962" part='f'>Dieux ! Qu'il a bonne grâce,</l>
-	<l id="963" part='i'>Et la taille élégante.</l>
+	<l id="962" part='f'>Dieux ! Qu'il a bonne grÃ¢ce,</l>
+	<l id="963" part='i'>Et la taille Ã©lÃ©gante.</l>
 </sp>
 <sp who="CATHOS"><speaker>CATHOS.</speaker>
 	<l id="963" part='f'>Et la mine je crois</l>
@@ -1940,11 +1939,11 @@
 	<l id="965">Aussi bien que mes pieds va danser la courante.</l>
 	<l id="966">Violons en cadence, ah ! Cadence pesante.</l>
 	<l id="967">Oh ! Qu'ils sont ignorants ? Ma foi l'on ne peut pas</l>
-	<l id="968">Rien danser avec eux, quel étrange fracas,</l>
+	<l id="968">Rien danser avec eux, quel Ã©trange fracas,</l>
 	<l id="969">L'on ne sait ce qu'on fait. Le Diable vous emporte,</l>
 	<l id="970">Quoi donc, ne sauriez-vous jouer d'une autre sorte,</l>
 	<l id="971">Et de mesure la, la, la, la, la, la, la.</l>
-	<l id="972" part='i'>La ferme, ô violons de village.</l>
+	<l id="972" part='i'>La ferme, Ã´ violons de village.</l>
 </sp>
 <sp who='JODELET'><speaker>JODELET, dansant ensuite.</speaker>
 	<l id="972" part='f'>Oh ! hola ?</l>
@@ -1956,29 +1955,29 @@
 	<l id="975" part='i'>Vicomte.</l>
 </sp>
 </div2>
-<div2 type='scene' n='13'><head>SCÈNE XIII. DU CROISY, LA GRANGE, MASCARILLE.</head>
+<div2 type="scene" n='13'><head>SCÃˆNE XIII. DU CROISY, LA GRANGE, MASCARILLE.</head>
 <sp who="LA GRANGE"><speaker>LA GRANGE.</speaker>
-	<l id="975" part='f'>Ah, ah ! coquins, que faites-vous céans ?</l>
+	<l id="975" part='f'>Ah, ah ! coquins, que faites-vous cÃ©ans ?</l>
 </sp>
 <sp who='MASCARILLE'><speaker>MASCARILLE, se sentant battre.</speaker>
-	<l id="976">Ahy, ahy, ahy, je n'ai point ouï Monsieur, que je sache</l>
+	<l id="976">Ahy, ahy, ahy, je n'ai point ouÃ¯ Monsieur, que je sache</l>
 	<l id="977" part='i'>Que les coups en seraient.</l>
 </sp>
 <sp who="JODELET"><speaker>JODELET.</speaker>
 	<l id="977" part='m'>Ahy, ahy.</l>
 </sp>
 <sp who="LA GRANGE"><speaker>LA GRANGE.</speaker>
-	<l id="977" part='f'>C'est bien à vous,</l>
-	<l id="978">Infâme, à vouloir faire en ce lieu les yeux doux,</l>
+	<l id="977" part='f'>C'est bien Ã  vous,</l>
+	<l id="978">InfÃ¢me, Ã  vouloir faire en ce lieu les yeux doux,</l>
 	<l id="979" part='i'>Et l'homme d'importance.</l>
 </sp>
 <sp who="DU CROISY"><speaker>DU CROISY.</speaker>
-	<l id="979" part='f'>Ah ! vous voulez paraître,</l>
-	<l id="980">Cela vous apprendra certes, à vous connaître.</l>
+	<l id="979" part='f'>Ah ! vous voulez paraÃ®tre,</l>
+	<l id="980">Cela vous apprendra certes, Ã  vous connaÃ®tre.</l>
 <stage>Ils sortent.</stage>
 </sp>
 </div2>
-<div2 type='scene' n='14'><head>SCÈNE XIV. Mascarille, Jodelet, Cathos, Madelon.</head>
+<div2 type="scene" n='14'><head>SCÃˆNE XIV. Mascarille, Jodelet, Cathos, Madelon.</head>
 <sp who="MADELON"><speaker>MADELON.</speaker>
 	<l id="981" part='i'>Que viens-je donc de voir ?</l>
 </sp>
@@ -1987,7 +1986,7 @@
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
 	<l id="981" part='f'>Non,</l>
-	<l id="982">Ou vous vous plaisez fort à sentir le bâton.</l>
+	<l id="982">Ou vous vous plaisez fort Ã  sentir le bÃ¢ton.</l>
 </sp>
 <sp who="CATHOS"><speaker>CATHOS.</speaker>
 	<l id="983">Vous laisser devant nous battre de cette sorte.</l>
@@ -1998,17 +1997,17 @@
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
 	<l id="986">Pour votre honneur pourtant cela ne va pas bien.</l>
-	<l id="987">Quoi ? Tous deux ? Qui l'eût cru ? Même en votre présence</l>
+	<l id="987">Quoi ? Tous deux ? Qui l'eÃ»t cru ? MÃªme en votre prÃ©sence</l>
 	<l id="988">Endurer un affront, et de cette importance.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
 	<l id="989">N'importe, toutefois achevons, ce n'est rien.</l>
-	<l id="990">Depuis longtemps déjà nous nous connaissons bien :</l>
+	<l id="990">Depuis longtemps dÃ©jÃ  nous nous connaissons bien :</l>
 	<l id="991">Vous savez qu'entre amis, quoi qu'on fasse et qu'on ose,</l>
 	<l id="992">On ne se pique pas pour si petite chose.</l>
 </sp>
 </div2>
-<div2 type='scene' n='15'><head>SCÈNE XV. Du Croisy, La Grange, Mascarille, Jodelet, Madelon, Cathos.</head>
+<div2 type="scene" n='15'><head>SCÃˆNE XV. Du Croisy, La Grange, Mascarille, Jodelet, Madelon, Cathos.</head>
 <sp who="LA GRANGE"><speaker>LA GRANGE.</speaker>
 	<l id="993">Ma foi, c'est trop marauds, vous divertir de nous,</l>
 	<l id="994">Et vous n'en rirez plus, je vous jure entre vous.</l>
@@ -2018,72 +2017,72 @@
 	<l id="996">Et qui vous y fait donc venir mettre le trouble ?</l>
 </sp>
 <sp who="DU CROISY"><speaker>DU CROISY.</speaker>
-	<l id="997">Hé ! Mesdames, comment devons nous endurer</l>
-	<l id="998">Que nos laquais, ici se fassent révérer.</l>
-	<l id="999">Que par des lâchetés que l'on peut dire extrêmes,</l>
-	<l id="1000">Ils soient ici de vous, mieux reçus que nous-mêmes,</l>
-	<l id="1001">Qu'à nos propres dépends, par un trait sans égal</l>
+	<l id="997">HÃ© ! Mesdames, comment devons nous endurer</l>
+	<l id="998">Que nos laquais, ici se fassent rÃ©vÃ©rer.</l>
+	<l id="999">Que par des lÃ¢chetÃ©s que l'on peut dire extrÃªmes,</l>
+	<l id="1000">Ils soient ici de vous, mieux reÃ§us que nous-mÃªmes,</l>
+	<l id="1001">Qu'Ã  nos propres dÃ©pends, par un trait sans Ã©gal</l>
 	<l id="1002">Ils vous montrent leur flamme ; et vous donnent le bal.</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
 	<l id="1003" part='i'>Vos laquais ?</l>
 </sp>
 <sp who="LA GRANGE"><speaker>LA GRANGE.</speaker>
-	<l id="1003" part='f'>Nos laquais, ces tours sont malhonnêtes,</l>
-	<l id="1004">De nous les débaucher de même que vous faites.</l>
+	<l id="1003" part='f'>Nos laquais, ces tours sont malhonnÃªtes,</l>
+	<l id="1004">De nous les dÃ©baucher de mÃªme que vous faites.</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
-	<l id="1005" part='i'>Quelle haute insolence ? ô Ciel !</l>
+	<l id="1005" part='i'>Quelle haute insolence ? Ã´ Ciel !</l>
 </sp>
 <sp who="LA GRANGE"><speaker>LA GRANGE.</speaker>
 	<l id="1005" part='f'>Ils n'auront pas</l>
 	<l id="1006">Le bien que nos habits leurs donnent des appas ?</l>
 	<l id="1007">Pour vous pouvoir par eux donner dedans la vue,</l>
 	<l id="1008">Si vous aimez leur peau, ce sera toute nue,</l>
-	<l id="1009">Et quand vous les verrez sans vêtements, et gueux,</l>
+	<l id="1009">Et quand vous les verrez sans vÃªtements, et gueux,</l>
 	<l id="1010">Vous les estimerez ma foi, pour leurs beaux yeux.</l>
-	<l id="1011">Vite ! Qu'on se dépouille, ou bien dans ma furie...</l>
+	<l id="1011">Vite ! Qu'on se dÃ©pouille, ou bien dans ma furie...</l>
 </sp>
 <sp who="JODELET"><speaker>JODELET.</speaker>
-<note type="L">Braverie : Dépense en habits. [F]</note>
+<note type="L">Braverie : DÃ©pense en habits. [F]</note>
 	<l id="1012">Je ne suis plus rien, adieu la braverie.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
-	<l id="1013">Adieu, le Marquisat, adieu la Vicomté.</l>
+	<l id="1013">Adieu, le Marquisat, adieu la VicomtÃ©.</l>
 </sp>
 <sp who="DU CROISY"><speaker>DU CROISY.</speaker>
-	<l id="1014">Qu'est-ce ? Qui vit jamais rien de plus effronté ?</l>
-	<l id="1015">Vos victoires coquins, seront plus mal aisées.</l>
-<note type="L">Brisées : On dit figurément, Marcher sur les brisées de quelqu'un pour dire, Suivre ses traces, imiter son exemple. On le dit aussi de ceux qui entreprennent le même dessein, qui écrivent sur le même sujet, quoi qu'ils le traitent diversement. [F]</note>
-	<l id="1016">Et vous ne pourrez plus aller sur nos brisées,</l>
+	<l id="1014">Qu'est-ce ? Qui vit jamais rien de plus effrontÃ© ?</l>
+	<l id="1015">Vos victoires coquins, seront plus mal aisÃ©es.</l>
+<note type="L">BrisÃ©es : On dit figurÃ©ment, Marcher sur les brisÃ©es de quelqu'un pour dire, Suivre ses traces, imiter son exemple. On le dit aussi de ceux qui entreprennent le mÃªme dessein, qui Ã©crivent sur le mÃªme sujet, quoi qu'ils le traitent diversement. [F]</note>
+	<l id="1016">Et vous ne pourrez plus aller sur nos brisÃ©es,</l>
 	<l id="1017">Ou vous irez ma foi chercher en d'autres lieux</l>
-	<l id="1018">De quoi paraître beaux, et contenter les yeux</l>
-	<l id="1019">De ces rares beautés, et je vous en assure.</l>
+	<l id="1018">De quoi paraÃ®tre beaux, et contenter les yeux</l>
+	<l id="1019">De ces rares beautÃ©s, et je vous en assure.</l>
 </sp>
 <sp who="LA GRANGE"><speaker>LA GRANGE.</speaker>
-	<l id="1020">Aurait-on pu prévoir une telle aventure,</l>
-	<l id="1021">Et qui plus justement dût jamais s'emporter.</l>
-	<l id="1022">Ah ! C'était trop faquins, que de nous supplanter</l>
+	<l id="1020">Aurait-on pu prÃ©voir une telle aventure,</l>
+	<l id="1021">Et qui plus justement dÃ»t jamais s'emporter.</l>
+	<l id="1022">Ah ! C'Ã©tait trop faquins, que de nous supplanter</l>
 	<l id="1023" part='i'>Avecque nos habits ?</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
-	<l id="1023" part='f'>Ta fureur est extrême,</l>
-	<l id="1024" part='i'>Ô sort !</l>
+	<l id="1023" part='f'>Ta fureur est extrÃªme,</l>
+	<l id="1024" part='i'>Ã” sort !</l>
 </sp>
 <sp who="DU CROISY"><speaker>DU CROISY.</speaker>
-	<l id="1024" part='f'>Que l'on leur ôte, et jusque aux choses même</l>
+	<l id="1024" part='f'>Que l'on leur Ã´te, et jusque aux choses mÃªme</l>
 	<l id="1025" part='i'>Qui sont peu d'importance.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
-	<l id="1025" part='m'>Hé...</l>
+	<l id="1025" part='m'>HÃ©...</l>
 </sp>
 <sp who="LA GRANGE"><speaker>LA GRANGE.</speaker>
 	<l id="1025" part='f'>Sans raisonnement,</l>
-	<l id="1026">Que tous ces habits-là, soient ôtés promptement.</l>
-	<l id="1027">Dedans l'état qu'ils sont, dès à présent, Mesdames,</l>
+	<l id="1026">Que tous ces habits-lÃ , soient Ã´tÃ©s promptement.</l>
+	<l id="1027">Dedans l'Ã©tat qu'ils sont, dÃ¨s Ã  prÃ©sent, Mesdames,</l>
 	<l id="1028">Vous pouvez avec eux continuer vos flammes :</l>
-	<l id="1029">Ici nous vous laissons en pleine liberté,</l>
-	<l id="1030">Et nous vous protestons tous deux en vérité,</l>
+	<l id="1029">Ici nous vous laissons en pleine libertÃ©,</l>
+	<l id="1030">Et nous vous protestons tous deux en vÃ©ritÃ©,</l>
 	<l id="1031">Que nous n'aurons jamais aucune jalousie.</l>
 </sp>
 <sp who="CATHOS"><speaker>CATHOS.</speaker>
@@ -2096,86 +2095,86 @@
 	<l id="1033">Donnez-nous de l'argent, je n'entends point ceci,</l>
 	<l id="1034">Lequel donc de vous deux nous doit payer ici ?</l>
 </sp>
-<sp who='MASCARILLE'><speaker>MASCARILLE, le premier vers à part.</speaker>
+<sp who='MASCARILLE'><speaker>MASCARILLE, le premier vers Ã  part.</speaker>
 	<l id="1035">Quand je vois ce revers, pour moi, je meurs de honte,</l>
-	<l id="1036">Demandez s'il vous plaît à Monsieur le Vicomte.</l>
+	<l id="1036">Demandez s'il vous plaÃ®t Ã  Monsieur le Vicomte.</l>
 </sp>
 <stage>Les violons se tournent vers Jodelet.</stage>
-<sp who='JODELET'><speaker>JODELET, le premier vers à part.</speaker>
-	<l id="1037">D'un semblable revers mes sens sont ébahis.</l>
-	<l id="1038">Demandez si vous plaît à Monsieur le Marquis.</l>
+<sp who='JODELET'><speaker>JODELET, le premier vers Ã  part.</speaker>
+	<l id="1037">D'un semblable revers mes sens sont Ã©bahis.</l>
+	<l id="1038">Demandez si vous plaÃ®t Ã  Monsieur le Marquis.</l>
 </sp>
 </div2>
-<div2 type='scene' n='16'><head>SCÈNE XVI. Gorgibus, Jodelet, Mascarille, Madelon.</head>
+<div2 type="scene" n='16'><head>SCÃˆNE XVI. Gorgibus, Jodelet, Mascarille, Madelon.</head>
 <sp who="GORGIBUS"><speaker>GORGIBUS.</speaker>
-	<l id="1039">Coquines, qu'ai-je ouï ? Vous nous venez de mettre</l>
+	<l id="1039">Coquines, qu'ai-je ouÃ¯ ? Vous nous venez de mettre</l>
 	<l id="1040">Dedans de beaux draps blancs. On m'a sans rien omettre</l>
 	<l id="1041">Dit toute votre affaire, et ces Messieurs aussi</l>
 	<l id="1042">Me l'ont trop fait savoir, en s'en allant d'ici.</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
-	<l id="1043">Mon père on nous a fait cette sanglante pièce.</l>
+	<l id="1043">Mon pÃ¨re on nous a fait cette sanglante piÃ¨ce.</l>
 </sp>
 <sp who="GORGIBUS"><speaker>GORGIBUS.</speaker>
 	<l id="1044">Je sais qu'elle est sanglante et marque leur adresse ;</l>
 	<l id="1045">Mais votre impertinence en est le fondement,</l>
 	<l id="1046">Ils se sont ressentis du mauvais traitement</l>
-	<l id="1047">Que vous leur avez fait, infâmes, que vous êtes,</l>
-	<l id="1048">Et leurs flammes ont droit d'être mal satisfaites :</l>
+	<l id="1047">Que vous leur avez fait, infÃ¢mes, que vous Ãªtes,</l>
+	<l id="1048">Et leurs flammes ont droit d'Ãªtre mal satisfaites :</l>
 	<l id="1049">Il faut que cependant malheureux que je suis</l>
-	<l id="1050">Je boive cet affront pour croître mes ennuis.</l>
+	<l id="1050">Je boive cet affront pour croÃ®tre mes ennuis.</l>
 </sp>
 <sp who="MADELON"><speaker>MADELON.</speaker>
 	<l id="1051">Ne nous dites plus rien, je vous donne assurance</l>
-	<l id="1052">Que de ce procédé nous tirerons vengeance,</l>
+	<l id="1052">Que de ce procÃ©dÃ© nous tirerons vengeance,</l>
 	<l id="1053">Que contre nous aucun ne les peut secourir,</l>
-	<l id="1054">Ou qu'en la peine enfin, l'on nous verra périr.</l>
+	<l id="1054">Ou qu'en la peine enfin, l'on nous verra pÃ©rir.</l>
 	<l id="1055">Et vous marauds, encor vous avez l'assurance</l>
-	<l id="1056">De rester dans ces lieux, après votre insolence.</l>
+	<l id="1056">De rester dans ces lieux, aprÃ¨s votre insolence.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
-	<l id="1057">[Un] Marquis comme moi, se voir ainsi traité,</l>
-	<l id="1058">Certes, un tel affront ne peut être goûté.</l>
+	<l id="1057">[Un] Marquis comme moi, se voir ainsi traitÃ©,</l>
+	<l id="1058">Certes, un tel affront ne peut Ãªtre goÃ»tÃ©.</l>
 	<l id="1059">Ah ! Par cette froideur injuste et sans seconde</l>
 	<l id="1060">Je ne connais que trop ce que c'est que le monde,</l>
-	<l id="1061">À la moindre disgrâce, on vous méprise tous,</l>
+	<l id="1061">Ã€ la moindre disgrÃ¢ce, on vous mÃ©prise tous,</l>
 	<l id="1062">Qui vous aimait le plus, s'ose railler de vous.</l>
 	<l id="1063">Puis donc qu'il est ainsi, souffrons cette injustice,</l>
-	<l id="1064">D'un sort commun à tous, endurons le caprice,</l>
+	<l id="1064">D'un sort commun Ã  tous, endurons le caprice,</l>
 	<l id="1065">Allons cher camarade, allons nous-en ailleurs,</l>
 	<l id="1066">La fortune pour nous aura plus de douceurs,</l>
 	<l id="1067">La vertu sans grandeurs n'est point ici connue</l>
 	<l id="1068">Et l'on l'en fait sortir, quand elle est toute nue.</l>
 </sp>
 </div2>
-<div2 type='scene' n='17'><head>SCÈNE XVII. Gorgibus, Madelon, Cathos, Violons.</head>
+<div2 type="scene" n='17'><head>SCÃˆNE XVII. Gorgibus, Madelon, Cathos, Violons.</head>
 <sp who='LES VIOLONS'><speaker>LES VIOLONS.</speaker>
-	<l id="1069">Nous attendons ici, Monsieur, à leur défaut</l>
+	<l id="1069">Nous attendons ici, Monsieur, Ã  leur dÃ©faut</l>
 	<l id="1070">De recevoir enfin de vous, ce qu'il nous faut :</l>
-	<l id="1071">Car puisque tout travail mérite son salaire</l>
+	<l id="1071">Car puisque tout travail mÃ©rite son salaire</l>
 	<l id="1072">Il faut payer celui que nous venons de faire.</l>
 </sp>
 <sp who='GORGIBUS'><speaker>GORGIBUS, en les battant.</speaker>
 	<l id="1073">Je m'en vais maintenant tous deux vous contenter</l>
 	<l id="1074">Et c'est ici l'argent que je vous veux compter.</l>
-<note type="L">Incartade : Insulte, ou affront qu'on fait à quelqu'un en public, et par bravade. Il est du style simple et familier. [F]</note>
+<note type="L">Incartade : Insulte, ou affront qu'on fait Ã  quelqu'un en public, et par bravade. Il est du style simple et familier. [F]</note>
 	<l id="1075">Et vous qui tous les jours faites tant d'incartades.</l>
-	<l id="1076">Qui consommez le temps à faire des pommades.</l>
-	<l id="1077">Je ne sais qui m'empêche et me retient ici</l>
+	<l id="1076">Qui consommez le temps Ã  faire des pommades.</l>
+	<l id="1077">Je ne sais qui m'empÃªche et me retient ici</l>
 	<l id="1078">Que dedans ma fureur je ne vous frotte aussi :</l>
-	<l id="1079">Par tout notre maison se verra méprisée,</l>
-	<l id="1080">Nous servirons par tout de fable et de risée</l>
-	<l id="1081">Chacun dira son mot pour nous déshonorer,</l>
-	<l id="1082">Voilà ce que sur nous vient enfin d'attirer</l>
+	<l id="1079">Par tout notre maison se verra mÃ©prisÃ©e,</l>
+	<l id="1080">Nous servirons par tout de fable et de risÃ©e</l>
+	<l id="1081">Chacun dira son mot pour nous dÃ©shonorer,</l>
+	<l id="1082">VoilÃ  ce que sur nous vient enfin d'attirer</l>
 	<l id="1083">Et votre impertinence, et vos humeurs hautaines.</l>
 	<l id="1084">Allez donc vous cacher, allez grandes vilaines,</l>
-	<l id="1085">Et vous des gens oisifs, lâches amusements,</l>
+	<l id="1085">Et vous des gens oisifs, lÃ¢ches amusements,</l>
 	<l id="1086">Vers, sonnets et chansons, sonnettes et romans,</l>
 	<l id="1087">Livres pernicieux, folles et vaines fables</l>
-	<l id="1088">Puissiez-vous pour jamais aller à tous les diables.</l>
+	<l id="1088">Puissiez-vous pour jamais aller Ã  tous les diables.</l>
 </sp>
 </div2>
 </div1>
 </body>
 </text>
-</TEI.2>
+</TEI>

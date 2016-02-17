@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-<TEI.2>
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
 <teiHeader>
 	<fileDesc>
 		<titleStmt>
-			<title>L'ÉCOLE DES MÈRES, COMÉDIE.</title>
+			<title>L'Ã‰COLE DES MÃˆRES, COMÃ‰DIE.</title>
 			<author born='1688' born_location='Auvergne' death='1763' death_location='Paris' academie='1743'>MARIVAUX</author>
 		</titleStmt>
 		<publicationStmp>	
-			<p>publié par Paul FIEVRE, février 2011</p>
+			<p>publiÃ© par Paul FIEVRE, fÃ©vrier 2011</p>
 		</publicationStmp>
 		<SourceDesc>
-			<genre>Comédie</genre>
-			<inspiration>moeurs françaises</inspiration>
+			<genre>ComÃ©die</genre>
+			<inspiration>moeurs franÃ§aises</inspiration>
 			<structure>Un acte</structure>
 			<type>mixte</type>
 			<periode>1721-1730</periode>
@@ -23,10 +23,10 @@
 <text>
 	<front>
 		<docTitle>
-			<titlePart type='main'>L'ÉCOLE DES MÈRES</titlePart>
-			<titlePart type='sub'>COMÉDIE EN UN ACTE</titlePart>
+			<titlePart type='main'>L'Ã‰COLE DES MÃˆRES</titlePart>
+			<titlePart type='sub'>COMÃ‰DIE EN UN ACTE</titlePart>
 		</docTitle> 
-		<docDate value='1732'>M. DCC. XXXII. avec PRIVILÈGE et APPROBATION</docDate>
+		<docDate value='1732'>M. DCC. XXXII. avec PRIVILÃˆGE et APPROBATION</docDate>
 		<docAuthor id='MARIVAUX' bio='marivaux'>MARIVAUX</docAuthor>
 		<docImprint>
 				<privilege id=''></privilege>
@@ -35,64 +35,64 @@
 				<printer id=''></printer>
 		</docImprint>
 		<performance>
-			<premiere date='1732-07-25' location='Hôtel de Bourgogne'>Représentée pour la première fois par les comédiens Italiens le 25 juillet 1732.</premiere>
+			<premiere date='1732-07-25' location='HÃ´tel de Bourgogne'>ReprÃ©sentÃ©e pour la premiÃ¨re fois par les comÃ©diens Italiens le 25 juillet 1732.</premiere>
 		</performance>
 
 		<castList><head>ACTEURS.</head>
-			<castItem><role id="LA-PRINCESSE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>MADAME ARGANTE</role>.</castItem>
-			<castItem><role id="ANGÉLIQUE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='amoureux'>ANGÉLIQUE</role>, fille de Madame Argante.</castItem>
-			<castItem><role id="LISETTE" civil='F' type="H" statut='suivante' age='A' stat_amour='néant'>LISETTE</role>, suivante d'Angélique.</castItem>
-			<castItem><role id="ÉRASTE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='Angélique'>ÉRASTE</role>, amant d'Angélique, sous le nom de La Ramée.</castItem>
-			<castItem><role id="DAMIS" civil='M' type="H" statut='bourgeois' age='V' stat_amour='Angélique'>DAMIS</role>, père d'Eraste, autre amant d'Angélique.</castItem>
-			<castItem><role id="FRONTIN" civil='F' type="H" statut='valet' age='A' stat_amour='néant'>FRONTIN</role>, valet de Madame Argante.</castItem>
-			<castItem><role id="CHAMPAGNE" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>CHAMPAGNE</role>, valet de Madame Argante.</castItem>
+			<castItem><role id="LA-PRINCESSE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='nÃ©ant'>MADAME ARGANTE</role>.</castItem>
+			<castItem><role id="ANGÃ‰LIQUE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='amoureux'>ANGÃ‰LIQUE</role>, fille de Madame Argante.</castItem>
+			<castItem><role id="LISETTE" civil='F' type="H" statut='suivante' age='A' stat_amour='nÃ©ant'>LISETTE</role>, suivante d'AngÃ©lique.</castItem>
+			<castItem><role id="Ã‰RASTE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='AngÃ©lique'>Ã‰RASTE</role>, amant d'AngÃ©lique, sous le nom de La RamÃ©e.</castItem>
+			<castItem><role id="DAMIS" civil='M' type="H" statut='bourgeois' age='V' stat_amour='AngÃ©lique'>DAMIS</role>, pÃ¨re d'Eraste, autre amant d'AngÃ©lique.</castItem>
+			<castItem><role id="FRONTIN" civil='F' type="H" statut='valet' age='A' stat_amour='nÃ©ant'>FRONTIN</role>, valet de Madame Argante.</castItem>
+			<castItem><role id="CHAMPAGNE" civil='M' type="H" statut='valet' age='A' stat_amour='nÃ©ant'>CHAMPAGNE</role>, valet de Madame Argante.</castItem>
 		</castList>
-		<set location='France' country='France' periode='XVIIIème ' link=''>La scène est dans l'appartement de Madame Argante. </set>
+		<set location='France' country='France' periode='XVIIIÃ¨me ' link=''>La scÃ¨ne est dans l'appartement de Madame Argante. </set>
 	</front>
 <body>
-<div1 type='acte' n='1'><head></head>
-<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Eraste, sous le nom de La Ramée et avec une livrée, Lisette.</head>
+<div1 type="act" n='1'><head></head>
+<div2 type="scene" n='1'><head>SCÃˆNE PREMIÃˆRE. Eraste, sous le nom de La RamÃ©e et avec une livrÃ©e, Lisette.</head>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 <p id='1'>
-	<s id='1'>Oui, vous voilà fort bien déguisé, et avec cet habit-là, vous disant mon cousin, je crois que vous pouvez paraître ici en toute sûreté ; il n'y a que votre air qui n'est pas trop d'accord avec la livrée. </s>
+	<s id='1'>Oui, vous voilÃ  fort bien dÃ©guisÃ©, et avec cet habit-lÃ , vous disant mon cousin, je crois que vous pouvez paraÃ®tre ici en toute sÃ»retÃ© ; il n'y a que votre air qui n'est pas trop d'accord avec la livrÃ©e. </s>
 </p>
 </sp>
-<sp who='ÉRASTE'><speaker>ÉRASTE.</speaker>
+<sp who='Ã‰RASTE'><speaker>Ã‰RASTE.</speaker>
 <p id='2'>
-	<s id='1'>Il n'y a rien à craindre ; je n'ai pas même, en entrant, fait mention de notre parenté. </s>
-	<s id='2'>J'ai dit que je voulais te parler, et l'on m'a répondu que je te trouverais ici, sans m'en demander davantage. </s>
+	<s id='1'>Il n'y a rien Ã  craindre ; je n'ai pas mÃªme, en entrant, fait mention de notre parentÃ©. </s>
+	<s id='2'>J'ai dit que je voulais te parler, et l'on m'a rÃ©pondu que je te trouverais ici, sans m'en demander davantage. </s>
 </p>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 <p id='3'>
-	<s id='1'>Je crois que vous devez être content du zèle avec lequel je vous sers : je m'expose à tout, et ce que je fais pour vous n'est pas trop dans l'ordre ; mais vous êtes un honnête homme ; vous aimez ma jeune maîtresse, elle vous aime ; je crois qu'elle sera plus heureuse avec vous qu'avec celui que sa mère lui destine, et cela calme un peu mes scrupules. </s>
+	<s id='1'>Je crois que vous devez Ãªtre content du zÃ¨le avec lequel je vous sers : je m'expose Ã  tout, et ce que je fais pour vous n'est pas trop dans l'ordre ; mais vous Ãªtes un honnÃªte homme ; vous aimez ma jeune maÃ®tresse, elle vous aime ; je crois qu'elle sera plus heureuse avec vous qu'avec celui que sa mÃ¨re lui destine, et cela calme un peu mes scrupules. </s>
 </p>
 </sp>
-<sp who='ÉRASTE'><speaker>ÉRASTE.</speaker>
+<sp who='Ã‰RASTE'><speaker>Ã‰RASTE.</speaker>
 <p id='4'>
 	<s id='1'>Elle m'aime, dis-tu ? </s>
 	<s id='2'>Lisette, puis-je me flatter d'un si grand bonheur ? </s>
-	<s id='3'>Moi qui ne l'ai vue qu'en passant dans nos promenades, qui ne lui ai prouvé mon amour que par mes regards, et qui n'ai pu lui parler que deux fois pendant que sa mère s'écartait avec d'autres dames ! </s>
+	<s id='3'>Moi qui ne l'ai vue qu'en passant dans nos promenades, qui ne lui ai prouvÃ© mon amour que par mes regards, et qui n'ai pu lui parler que deux fois pendant que sa mÃ¨re s'Ã©cartait avec d'autres dames ! </s>
 	<s id='4'>Elle m'aime ? </s>
 </p>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 <p id='5'>
-	<s id='1'>Très tendrement, mais voici un domestique de la maison qui vient ; c'est Frontin, qui ne me hait pas, faites bonne contenance.</s>
+	<s id='1'>TrÃ¨s tendrement, mais voici un domestique de la maison qui vient ; c'est Frontin, qui ne me hait pas, faites bonne contenance.</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='2'><head>SCÈNE II. Frontin, Lisette, Eraste.</head>
+<div2 type="scene" n='2'><head>SCÃˆNE II. Frontin, Lisette, Eraste.</head>
 <sp who='FRONTIN'><speaker>FRONTIN.</speaker>
 <p id='1'>
 	<s id='1'>Ah ! </s>
-	<s id='2'>Te voilà, Lisette. </s>
-	<s id='3'>Avec qui es-tu donc là ? </s>
+	<s id='2'>Te voilÃ , Lisette. </s>
+	<s id='3'>Avec qui es-tu donc lÃ  ? </s>
 </p>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 <p id='2'>
-	<s id='1'>Avec un de mes parents qui s'appelle La Ramée, et dont le maître, qui est ordinairement en province, est venu ici pour affaire ; et il profite du séjour qu'il y fait pour me voir. </s>
+	<s id='1'>Avec un de mes parents qui s'appelle La RamÃ©e, et dont le maÃ®tre, qui est ordinairement en province, est venu ici pour affaire ; et il profite du sÃ©jour qu'il y fait pour me voir. </s>
 </p>
 </sp>
 <sp who='FRONTIN'><speaker>FRONTIN.</speaker>
@@ -107,7 +107,7 @@
 </sp>
 <sp who='FRONTIN'><speaker>FRONTIN.</speaker>
 <p id='5'>
-	<s id='1'>C'est-à-dire un cousin ? </s>
+	<s id='1'>C'est-Ã -dire un cousin ? </s>
 </p>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
@@ -118,7 +118,7 @@
 <sp who='FRONTIN'><speaker>FRONTIN.</speaker>
 <p id='7'>
 	<s id='1'>Hum ! </s>
-	<s id='2'>Il a l'air d'un cousin de bien loin : il n'a point la tournure d'un parent, ce garçon-là. </s>
+	<s id='2'>Il a l'air d'un cousin de bien loin : il n'a point la tournure d'un parent, ce garÃ§on-lÃ . </s>
 </p>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
@@ -131,7 +131,7 @@
 	<s id='1'>Je veux dire que ce n'est, par ma foi, que de la fausse monnaie que tu me donnes, et que si le diable emportait ton cousin il ne t'en resterait pas un parent de moins. </s>
 </p>
 </sp>
-<sp who='ÉRASTE'><speaker>ÉRASTE.</speaker>
+<sp who='Ã‰RASTE'><speaker>Ã‰RASTE.</speaker>
 <p id='10'>
 	<s id='1'>Et pourquoi pensez-vous qu'elle vous trompe ? </s>
 </p>
@@ -140,12 +140,12 @@
 <p id='11'>
 	<s id='1'>Hum ! </s>
 	<s id='2'>Quelle physionomie de fripon ! </s>
-	<s id='2'>MonsIEUR de La Ramée, je vous avertis que j'aime Lisette, et que je veux l'épouser tout seul. </s>
+	<s id='2'>MonsIEUR de La RamÃ©e, je vous avertis que j'aime Lisette, et que je veux l'Ã©pouser tout seul. </s>
 </p>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 <p id='12'>
-	<s id='1'>Il est pourtant nécessaire que je lui parle pour une affaire de famille qui ne te regarde pas. </s>
+	<s id='1'>Il est pourtant nÃ©cessaire que je lui parle pour une affaire de famille qui ne te regarde pas. </s>
 </p>
 </sp>
 <sp who='FRONTIN'><speaker>FRONTIN.</speaker>
@@ -163,55 +163,55 @@
 </sp>
 <sp who='FRONTIN'><speaker>FRONTIN.</speaker>
 <p id='15'>
-	<s id='1'>Après ? </s>
+	<s id='1'>AprÃ¨s ? </s>
 </p>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 <p id='16'>
-	<s id='1'>Serais-tu capable de rendre service à un honnête homme, qui t'en récompenserait bien ? </s>
+	<s id='1'>Serais-tu capable de rendre service Ã  un honnÃªte homme, qui t'en rÃ©compenserait bien ? </s>
 </p>
 </sp>
 <sp who='FRONTIN'><speaker>FRONTIN.</speaker>
 <p id='17'>
-	<s id='1'>Honnête homme ou non, son honneur est de trop, dès qu'il récompense. </s>
+	<s id='1'>HonnÃªte homme ou non, son honneur est de trop, dÃ¨s qu'il rÃ©compense. </s>
 </p>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 <p id='18'>
-	<s id='1'>Tu sais à qui Madame marie Angélique, ma maîtresse ? </s>
+	<s id='1'>Tu sais Ã  qui Madame marie AngÃ©lique, ma maÃ®tresse ? </s>
 </p>
 </sp>
 <sp who='FRONTIN'><speaker>FRONTIN.</speaker>
 <p id='19'>
-	<s id='1'>Oui, je pense que c'est à peu près soixante ans qui en épousent dix-sept. </s>
+	<s id='1'>Oui, je pense que c'est Ã  peu prÃ¨s soixante ans qui en Ã©pousent dix-sept. </s>
 </p>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 <p id='20'>
-	<s id='1'>Tu vois bien que ce mariage-là ne convient point. </s>
+	<s id='1'>Tu vois bien que ce mariage-lÃ  ne convient point. </s>
 </p>
 </sp>
 <sp who='FRONTIN'><speaker>FRONTIN.</speaker>
 <p id='21'>
-	<s id='1'>Oui : il menace la stérilité, les héritiers en seront nuls, ou auxiliaires. </s>
+	<s id='1'>Oui : il menace la stÃ©rilitÃ©, les hÃ©ritiers en seront nuls, ou auxiliaires. </s>
 </p>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 <p id='22'>
-	<s id='1'>Ce n'est qu'à regret qu'Angélique obéit, d'autant plus que le hasard lui a fait connaître un aimable homme qui a touché son coeur. </s>
+	<s id='1'>Ce n'est qu'Ã  regret qu'AngÃ©lique obÃ©it, d'autant plus que le hasard lui a fait connaÃ®tre un aimable homme qui a touchÃ© son coeur. </s>
 </p>
 </sp>
 <sp who='FRONTIN'><speaker>FRONTIN.</speaker>
 <p id='23'>
-	<s id='1'>Le cousin La Ramée pourrait bien nous venir de là. </s>
+	<s id='1'>Le cousin La RamÃ©e pourrait bien nous venir de lÃ . </s>
 </p>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 <p id='24'>
-	<s id='1'>Tu l'as dit ; c'est cela même. </s>
+	<s id='1'>Tu l'as dit ; c'est cela mÃªme. </s>
 </p>
 </sp>
-<sp who='ÉRASTE'><speaker>ÉRASTE.</speaker>
+<sp who='Ã‰RASTE'><speaker>Ã‰RASTE.</speaker>
 <p id='25'>
 	<s id='1'>Oui, mon enfant, c'est moi. </s>
 </p>
@@ -220,62 +220,62 @@
 <p id='26'>
 	<s id='1'>Eh ! </s>
 	<s id='2'>Que ne le disiez-vous ? </s>
-	<s id='3'>En ce cas-là, je vous pardonne votre figure, et je suis tout à vous. </s>
+	<s id='3'>En ce cas-lÃ , je vous pardonne votre figure, et je suis tout Ã  vous. </s>
 	<s id='4'>Voyons, que faut-il faire ? </s>
 </p>
 </sp>
-<sp who='ÉRASTE'><speaker>ÉRASTE.</speaker>
+<sp who='Ã‰RASTE'><speaker>Ã‰RASTE.</speaker>
 <p id='27'>
 	<s id='1'>Rien que favoriser une entrevue que Lisette va me procurer ce soir, et tu seras content de moi. </s>
 </p>
 </sp>
 <sp who='FRONTIN'><speaker>FRONTIN.</speaker>
 <p id='28'>
-	<s id='1'>Je le crois, mais qu'espérez-vous de cette entrevue ? </s>
+	<s id='1'>Je le crois, mais qu'espÃ©rez-vous de cette entrevue ? </s>
 	<s id='2'>Car on signe le contrat ce soir. </s>
 </p>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 <p id='29'>
-	<s id='1'>Eh bien, pendant que la compagnie, avant le souper, sera dans l'appartement de Madame, Monsieur nous attendra dans cette salle-ci, sans lumière pour n'être point vu, et nous y viendrons, Angélique et moi, pour examiner le parti qu'il y aura à prendre. </s>
+	<s id='1'>Eh bien, pendant que la compagnie, avant le souper, sera dans l'appartement de Madame, Monsieur nous attendra dans cette salle-ci, sans lumiÃ¨re pour n'Ãªtre point vu, et nous y viendrons, AngÃ©lique et moi, pour examiner le parti qu'il y aura Ã  prendre. </s>
 </p>
 </sp>
 <sp who='FRONTIN'><speaker>FRONTIN.</speaker>
 <p id='30'>
-	<s id='1'>Ce n'est pas de l'entretien dont je doute : mais à quoi aboutira-t-il ? </s>
-	<s id='2'>Angélique est une Agnès élevée dans la plus sévère contrainte, et qui, malgré son penchant pour vous, n'aura que des regrets, des larmes et de la frayeur à vous donner : est-ce que vous avez dessein de l'enlever ? </s>
+	<s id='1'>Ce n'est pas de l'entretien dont je doute : mais Ã  quoi aboutira-t-il ? </s>
+	<s id='2'>AngÃ©lique est une AgnÃ¨s Ã©levÃ©e dans la plus sÃ©vÃ¨re contrainte, et qui, malgrÃ© son penchant pour vous, n'aura que des regrets, des larmes et de la frayeur Ã  vous donner : est-ce que vous avez dessein de l'enlever ? </s>
 </p>
 </sp>
-<sp who='ÉRASTE'><speaker>ÉRASTE.</speaker>
+<sp who='Ã‰RASTE'><speaker>Ã‰RASTE.</speaker>
 <p id='31'>
-	<s id='1'>Ce serait un parti bien extrême. </s>
+	<s id='1'>Ce serait un parti bien extrÃªme. </s>
 </p>
 </sp>
 <sp who='FRONTIN'><speaker>FRONTIN.</speaker>
 <p id='32'>
-	<s id='1'>Et dont l'extrémité ne vous ferait pas grand-peur, n'est-il pas vrai ? </s>
+	<s id='1'>Et dont l'extrÃ©mitÃ© ne vous ferait pas grand-peur, n'est-il pas vrai ? </s>
 </p>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 <p id='33'>
-	<s id='1'>Pour nous, Frontin, nous ne nous chargeons que de faciliter l'entretien, auquel je serai présente ; mais de ce qu'on y résoudra, nous n'y trempons point, cela ne nous regarde pas. </s>
+	<s id='1'>Pour nous, Frontin, nous ne nous chargeons que de faciliter l'entretien, auquel je serai prÃ©sente ; mais de ce qu'on y rÃ©soudra, nous n'y trempons point, cela ne nous regarde pas. </s>
 </p>
 </sp>
 <sp who='FRONTIN'><speaker>FRONTIN.</speaker>
 <p id='34'>
 	<s id='1'>Oh ! </s>
-	<s id='2'>Si fait, cela nous regarderait un peu, si cette petite conversation nocturne que nous leur ménageons dans la salle était découverte ; d'autant plus qu'une des portes de la salle aboutit au jardin, que du jardin on va à une petite porte qui rend dans la rue, et qu'à cause de la salle où nous les mettrons, nous répondrons de toutes ces petites portes-là, qui sont de notre connaissance. </s>
-	<s id='3'>Mais tout coup vaille ; pour se mettre à son aise, il faut quelquefois risquer son honneur, il s'agit d'ailleurs d'une jeune victime qu'on veut sacrifier, et je crois qu'il est généreux d'avoir part à sa délivrance, sans s'embarrasser de quelle façon elle s'opérera : Monsieur payera bien, cela grossira ta dot, et nous ferons une action qui joindra l'utile au louable. </s>
+	<s id='2'>Si fait, cela nous regarderait un peu, si cette petite conversation nocturne que nous leur mÃ©nageons dans la salle Ã©tait dÃ©couverte ; d'autant plus qu'une des portes de la salle aboutit au jardin, que du jardin on va Ã  une petite porte qui rend dans la rue, et qu'Ã  cause de la salle oÃ¹ nous les mettrons, nous rÃ©pondrons de toutes ces petites portes-lÃ , qui sont de notre connaissance. </s>
+	<s id='3'>Mais tout coup vaille ; pour se mettre Ã  son aise, il faut quelquefois risquer son honneur, il s'agit d'ailleurs d'une jeune victime qu'on veut sacrifier, et je crois qu'il est gÃ©nÃ©reux d'avoir part Ã  sa dÃ©livrance, sans s'embarrasser de quelle faÃ§on elle s'opÃ©rera : Monsieur payera bien, cela grossira ta dot, et nous ferons une action qui joindra l'utile au louable. </s>
 </p>
 </sp>
-<sp who='ÉRASTE'><speaker>ÉRASTE.</speaker>
+<sp who='Ã‰RASTE'><speaker>Ã‰RASTE.</speaker>
 <p id='35'>
-	<s id='1'>Ne vous inquiétez de rien, je n'ai point envie d'enlever Angélique, et je ne veux que l'exciter à refuser l'époux qu'on lui destine : mais la nuit s'approche, où me retirerai-je en attendant le moment où je verrai Angélique ? </s>
+	<s id='1'>Ne vous inquiÃ©tez de rien, je n'ai point envie d'enlever AngÃ©lique, et je ne veux que l'exciter Ã  refuser l'Ã©poux qu'on lui destine : mais la nuit s'approche, oÃ¹ me retirerai-je en attendant le moment oÃ¹ je verrai AngÃ©lique ? </s>
 </p>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 <p id='36'>
-	<s id='1'>Comme on ne sait encore qui vous êtes, en cas qu'on vous fît quelques questions, au lieu d'être mon parent, soyez celui de Frontin, et retirez-vous dans sa chambre, qui est à côté de cette salle, et d'où Frontin pourra vous amener, quand il faudra. </s>
+	<s id='1'>Comme on ne sait encore qui vous Ãªtes, en cas qu'on vous fÃ®t quelques questions, au lieu d'Ãªtre mon parent, soyez celui de Frontin, et retirez-vous dans sa chambre, qui est Ã  cÃ´tÃ© de cette salle, et d'oÃ¹ Frontin pourra vous amener, quand il faudra. </s>
 </p>
 </sp>
 <sp who='FRONTIN'><speaker>FRONTIN.</speaker>
@@ -285,7 +285,7 @@
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 <p id='38'>
-	<s id='1'>Allez tout à l'heure ; car il faut que je prévienne Angélique, qui assurément sera charmée de vous voir, mais qui ne sait pas que vous êtes ici, et à qui je dirai d'abord qu'il y a un domestique dans la chambre de Frontin qui demande à lui parler de votre part : mais sortez, j'entends quelqu'un qui vient. </s>
+	<s id='1'>Allez tout Ã  l'heure ; car il faut que je prÃ©vienne AngÃ©lique, qui assurÃ©ment sera charmÃ©e de vous voir, mais qui ne sait pas que vous Ãªtes ici, et Ã  qui je dirai d'abord qu'il y a un domestique dans la chambre de Frontin qui demande Ã  lui parler de votre part : mais sortez, j'entends quelqu'un qui vient. </s>
 </p>
 </sp>
 <sp who='FRONTIN'><speaker>FRONTIN.</speaker>
@@ -295,14 +295,14 @@
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 <p id='40'>
-	<s id='1'>Non, restez : c'est la mère d'Angélique, elle vous verrait fuir, il vaut mieux que vous demeuriez.</s>
+	<s id='1'>Non, restez : c'est la mÃ¨re d'AngÃ©lique, elle vous verrait fuir, il vaut mieux que vous demeuriez.</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='3'><head>SCÈNE III. Lisette, Frontin, Eraste, Madame Argante.</head>
+<div2 type="scene" n='3'><head>SCÃˆNE III. Lisette, Frontin, Eraste, Madame Argante.</head>
 <sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE.</speaker>
 <p id='1'>
-	<s id='1'>Où est ma fille, Lisette ? </s>
+	<s id='1'>OÃ¹ est ma fille, Lisette ? </s>
 </p>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
@@ -312,12 +312,12 @@
 </sp>
 <sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE.</speaker>
 <p id='3'>
-	<s id='1'>Qui est ce garçon-là ? </s>
+	<s id='1'>Qui est ce garÃ§on-lÃ  ? </s>
 </p>
 </sp>
 <sp who='FRONTIN'><speaker>FRONTIN.</speaker>
 <p id='4'>
-	<s id='1'>Madame, c'est un garçon de condition, comme vous voyez, qui m'est venu voir, et à qui je m'intéresse parce que nous sommes fils des deux frères ; il n'est pas content de son maître, ils se sont brouillés ensemble, et il vient me demander si je ne sais pas quelque maison dont il pût s'accommoder... </s>
+	<s id='1'>Madame, c'est un garÃ§on de condition, comme vous voyez, qui m'est venu voir, et Ã  qui je m'intÃ©resse parce que nous sommes fils des deux frÃ¨res ; il n'est pas content de son maÃ®tre, ils se sont brouillÃ©s ensemble, et il vient me demander si je ne sais pas quelque maison dont il pÃ»t s'accommoder... </s>
 </p>
 </sp>
 <sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE.</speaker>
@@ -325,34 +325,34 @@
 	<s id='1'>Sa physionomie est assez bonne ; chez qui avez-vous servi, mon enfant ? </s>
 </p>
 </sp>
-<sp who='ÉRASTE'><speaker>ÉRASTE.</speaker>
+<sp who='Ã‰RASTE'><speaker>Ã‰RASTE.</speaker>
 <p id='6'>
-	<s id='1'>Chez un officier du régiment du Roi, Madame. </s>
+	<s id='1'>Chez un officier du rÃ©giment du Roi, Madame. </s>
 </p>
 </sp>
 <sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE.</speaker>
 <p id='7'>
-	<s id='1'>Eh bien, je parlerai de vous à Monsieur Damis, qui pourra vous donner à ma fille ; demeurez ici jusqu'à ce soir, et laissez-nous. </s>
+	<s id='1'>Eh bien, je parlerai de vous Ã  Monsieur Damis, qui pourra vous donner Ã  ma fille ; demeurez ici jusqu'Ã  ce soir, et laissez-nous. </s>
 	<s id='2'>Restez, Lisette.</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='4'><head>SCÈNE IV. Madame Argante, Lisette.</head>
+<div2 type="scene" n='4'><head>SCÃˆNE IV. Madame Argante, Lisette.</head>
 <sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE.</speaker>
 <p id='1'>
 	<s id='1'>Ma fille vous dit assez volontiers ses sentiments, Lisette ; dans quelle disposition d'esprit est-elle pour le mariage que nous allons conclure ? </s>
-	<s id='2'>Elle ne m'a marqué, du moins, aucune répugnance. </s>
+	<s id='2'>Elle ne m'a marquÃ©, du moins, aucune rÃ©pugnance. </s>
 </p>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 <p id='2'>
 	<s id='1'>Ah ! </s>
-	<s id='2'>Madame, elle n'oserait vous en marquer, quand elle en aurait ; c'est une jeune et timide personne, à qui jusqu'ici son éducation n'a rien appris qu'à obéir. </s>
+	<s id='2'>Madame, elle n'oserait vous en marquer, quand elle en aurait ; c'est une jeune et timide personne, Ã  qui jusqu'ici son Ã©ducation n'a rien appris qu'Ã  obÃ©ir. </s>
 </p>
 </sp>
 <sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE.</speaker>
 <p id='3'>
-	<s id='1'>C'est, je pense, ce qu'elle pouvait apprendre de mieux à son âge. </s>
+	<s id='1'>C'est, je pense, ce qu'elle pouvait apprendre de mieux Ã  son Ã¢ge. </s>
 </p>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
@@ -362,19 +362,19 @@
 </sp>
 <sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE.</speaker>
 <p id='5'>
-	<s id='1'>Mais enfin, vous paraît-elle contente ? </s>
+	<s id='1'>Mais enfin, vous paraÃ®t-elle contente ? </s>
 </p>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 <p id='6'>
-	<s id='1'>Y peut-on rien connaître ? </s>
-	<s id='2'>Vous savez qu'à peine ose-t-elle lever les yeux, tant elle a peur de sortir de cette modestie sévère que vous voulez qu'elle ait ; tout ce que j'en sais, c'est qu'elle est triste. </s>
+	<s id='1'>Y peut-on rien connaÃ®tre ? </s>
+	<s id='2'>Vous savez qu'Ã  peine ose-t-elle lever les yeux, tant elle a peur de sortir de cette modestie sÃ©vÃ¨re que vous voulez qu'elle ait ; tout ce que j'en sais, c'est qu'elle est triste. </s>
 </p>
 </sp>
 <sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE.</speaker>
 <p id='7'>
 	<s id='1'>Oh ! </s>
-	<s id='2'>Je le crois, c'est une marque qu'elle a le coeur bon : elle va se marier, elle me quitte, elle m'aime, et notre séparation est douloureuse. </s>
+	<s id='2'>Je le crois, c'est une marque qu'elle a le coeur bon : elle va se marier, elle me quitte, elle m'aime, et notre sÃ©paration est douloureuse. </s>
 </p>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
@@ -386,8 +386,8 @@
 </sp>
 <sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE.</speaker>
 <p id='9'>
-	<s id='1'>Oui, une fille dissipée, élevée dans un monde coquet, qui a plus entendu parler d'amour que de vertu, et que mille jeunes étourdis ont eu l'impertinente liberté d'entretenir de cajoleries ; mais une fille retirée, qui vit sous les yeux de sa mère, et dont rien n'a gâté ni le coeur ni l'esprit, ne laisse pas que d'être alarmée quand elle change d'état. </s>
-	<s id='2'>Je connais Angélique et la simplicité de ses moeurs ; elle n'aime pas le monde, et je suis sûre qu'elle ne me quitterait jamais, si je l'en laissais la maîtresse. </s>
+	<s id='1'>Oui, une fille dissipÃ©e, Ã©levÃ©e dans un monde coquet, qui a plus entendu parler d'amour que de vertu, et que mille jeunes Ã©tourdis ont eu l'impertinente libertÃ© d'entretenir de cajoleries ; mais une fille retirÃ©e, qui vit sous les yeux de sa mÃ¨re, et dont rien n'a gÃ¢tÃ© ni le coeur ni l'esprit, ne laisse pas que d'Ãªtre alarmÃ©e quand elle change d'Ã©tat. </s>
+	<s id='2'>Je connais AngÃ©lique et la simplicitÃ© de ses moeurs ; elle n'aime pas le monde, et je suis sÃ»re qu'elle ne me quitterait jamais, si je l'en laissais la maÃ®tresse. </s>
 </p>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
@@ -398,8 +398,8 @@
 <sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE.</speaker>
 <p id='11'>
 	<s id='1'>Oh ! </s>
-	<s id='2'>J'en suis sûre. </s>
-	<s id='3'>À l'égard du mari que je lui donne, je ne doute pas qu'elle n'approuve mon choix ; c'est un homme très riche, très raisonnable. </s>
+	<s id='2'>J'en suis sÃ»re. </s>
+	<s id='3'>Ã€ l'Ã©gard du mari que je lui donne, je ne doute pas qu'elle n'approuve mon choix ; c'est un homme trÃ¨s riche, trÃ¨s raisonnable. </s>
 </p>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
@@ -409,7 +409,7 @@
 </sp>
 <sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE.</speaker>
 <p id='13'>
-	<s id='1'>Oui, un peu vieux, à la vérité, mais doux, mais complaisant, attentif, aimable. </s>
+	<s id='1'>Oui, un peu vieux, Ã  la vÃ©ritÃ©, mais doux, mais complaisant, attentif, aimable. </s>
 </p>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
@@ -420,13 +420,13 @@
 </sp>
 <sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE.</speaker>
 <p id='15'>
-	<s id='1'>Il est bien question de l'âge d'un mari avec une fille élevée comme la mienne ! </s>
+	<s id='1'>Il est bien question de l'Ã¢ge d'un mari avec une fille Ã©levÃ©e comme la mienne ! </s>
 </p>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 <p id='16'>
 	<s id='1'>Oh ! </s>
-	<s id='2'>S'il n'en est pas question avec Mademoiselle votre fille, il n'y aura guère eu de prodige de cette force-là ! </s>
+	<s id='2'>S'il n'en est pas question avec Mademoiselle votre fille, il n'y aura guÃ¨re eu de prodige de cette force-lÃ  ! </s>
 </p>
 </sp>
 <sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE.</speaker>
@@ -436,18 +436,18 @@
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 <p id='18'>
-	<s id='1'>J'entends qu'il faut, le plus qu'on peut, mettre la vertu des gens à son aise, et que celle d'Angélique ne sera pas sans fatigue. </s>
+	<s id='1'>J'entends qu'il faut, le plus qu'on peut, mettre la vertu des gens Ã  son aise, et que celle d'AngÃ©lique ne sera pas sans fatigue. </s>
 </p>
 </sp>
 <sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE.</speaker>
 <p id='19'>
-	<s id='1'>Vous avez de sottes idées, Lisette ; les inspirez-vous à ma fille ? </s>
+	<s id='1'>Vous avez de sottes idÃ©es, Lisette ; les inspirez-vous Ã  ma fille ? </s>
 </p>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 <p id='20'>
 	<s id='1'>Oh ! </s>
-	<s id='2'>Que non, Madame, elle les trouvera bien sans que je m'en mêle. </s>
+	<s id='2'>Que non, Madame, elle les trouvera bien sans que je m'en mÃªle. </s>
 </p>
 </sp>
 <sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE.</speaker>
@@ -457,22 +457,22 @@
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 <p id='22'>
-	<s id='1'>C'est qu'elle ne sera point de l'humeur dont vous dites, cette humeur-là n'existe nulle part. </s>
+	<s id='1'>C'est qu'elle ne sera point de l'humeur dont vous dites, cette humeur-lÃ  n'existe nulle part. </s>
 </p>
 </sp>
 <sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE.</speaker>
 <p id='23'>
-	<s id='1'>Il faudrait qu'elle l'eût bien difficile, si elle ne s'accommodait pas d'un homme qui l'adorera. </s>
+	<s id='1'>Il faudrait qu'elle l'eÃ»t bien difficile, si elle ne s'accommodait pas d'un homme qui l'adorera. </s>
 </p>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 <p id='24'>
-	<s id='1'>On adore mal à son âge. </s>
+	<s id='1'>On adore mal Ã  son Ã¢ge. </s>
 </p>
 </sp>
 <sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE.</speaker>
 <p id='25'>
-	<s id='1'>Qui ira au-devant de tous ses désirs. </s>
+	<s id='1'>Qui ira au-devant de tous ses dÃ©sirs. </s>
 </p>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
@@ -482,54 +482,54 @@
 </sp>
 <sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE.</speaker>
 <p id='27'>
-	<s id='1'>Taisez-vous ; je ne sais de quoi je m'avise de vous écouter. </s>
+	<s id='1'>Taisez-vous ; je ne sais de quoi je m'avise de vous Ã©couter. </s>
 </p>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 <p id='28'>
-	<s id='1'>Vous m'interrogez, et je vous réponds sincèrement. </s>
+	<s id='1'>Vous m'interrogez, et je vous rÃ©ponds sincÃ¨rement. </s>
 </p>
 </sp>
 <sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE.</speaker>
 <p id='29'>
-	<s id='1'>Allez dire à ma fille qu'elle vienne. </s>
+	<s id='1'>Allez dire Ã  ma fille qu'elle vienne. </s>
 </p>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 <p id='30'>
-	<s id='1'>Il n'est pas besoin de l'aller chercher, Madame, la voilà qui passe, et je vous laisse. </s>
+	<s id='1'>Il n'est pas besoin de l'aller chercher, Madame, la voilÃ  qui passe, et je vous laisse. </s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='5'><head>SCÈNE V. Angélique, Madame Argante.</head>
+<div2 type="scene" n='5'><head>SCÃˆNE V. AngÃ©lique, Madame Argante.</head>
 <sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE.</speaker>
 <p id='1'>
-	<s id='1'>Venez, Angélique, j'ai à vous parler. </s>
+	<s id='1'>Venez, AngÃ©lique, j'ai Ã  vous parler. </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE, modestement. </speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE, modestement. </speaker>
 <p id='2'>
-	<s id='1'>Que souhaitez-vous, ma mère ? </s>
+	<s id='1'>Que souhaitez-vous, ma mÃ¨re ? </s>
 </p>
 </sp>
 <sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE.</speaker>
 <p id='3'>
-	<s id='1'>Vous voyez, ma fille, ce que je fais aujourd'hui pour vous ; ne tenez-vous pas compte à ma tendresse du mariage avantageux que je vous procure ? </s>
+	<s id='1'>Vous voyez, ma fille, ce que je fais aujourd'hui pour vous ; ne tenez-vous pas compte Ã  ma tendresse du mariage avantageux que je vous procure ? </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE, faisant la révérence. </speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE, faisant la rÃ©vÃ©rence. </speaker>
 <p id='4'>
-	<s id='1'>Je ferai tout ce qu'il vous plaira, ma mère. </s>
+	<s id='1'>Je ferai tout ce qu'il vous plaira, ma mÃ¨re. </s>
 </p>
 </sp>
 <sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE.</speaker>
 <p id='5'>
-	<s id='1'>Je vous demande si vous me savez gré du parti que je vous donne ? </s>
-	<s id=''>Ne trouvez-vous pas qu'il est heureux pour vous d'épouser un homme comme Monsieur Damis, dont la fortune, dont le caractère sûr et plein de raison, vous assurent une vie douce et paisible, telle qu'il convient à vos moeurs et aux sentiments que je vous ai toujours inspirés ? </s>
-	<s id='2'>Allons, répondez, ma fille ! </s>
+	<s id='1'>Je vous demande si vous me savez grÃ© du parti que je vous donne ? </s>
+	<s id=''>Ne trouvez-vous pas qu'il est heureux pour vous d'Ã©pouser un homme comme Monsieur Damis, dont la fortune, dont le caractÃ¨re sÃ»r et plein de raison, vous assurent une vie douce et paisible, telle qu'il convient Ã  vos moeurs et aux sentiments que je vous ai toujours inspirÃ©s ? </s>
+	<s id='2'>Allons, rÃ©pondez, ma fille ! </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='6'>
 	<s id='1'>Vous me l'ordonnez donc ? </s>
 </p>
@@ -537,10 +537,10 @@
 <sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE.</speaker>
 <p id='7'>
 	<s id='1'>Oui, sans doute. </s>
-	<s id='2'>Voyez, n'êtes-vous pas satisfaite de votre sort ? </s>
+	<s id='2'>Voyez, n'Ãªtes-vous pas satisfaite de votre sort ? </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='8'>
 	<s id='1'>Mais... </s>
 </p>
@@ -549,20 +549,20 @@
 <p id='9'>
 	<s id='1'>Quoi ! </s>
 	<s id='2'>Mais ! </s>
-	<s id='3'>Je veux qu'on me réponde raisonnablement ; je m'attends à votre reconnaissance, et non pas à des mais. </s>
+	<s id='3'>Je veux qu'on me rÃ©ponde raisonnablement ; je m'attends Ã  votre reconnaissance, et non pas Ã  des mais. </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE, saluant.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE, saluant.</speaker>
 <p id='10'>
-	<s id='1'>Je n'en dirai plus, ma mère. </s>
+	<s id='1'>Je n'en dirai plus, ma mÃ¨re. </s>
 </p>
 </sp>
 <sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE.</speaker>
 <p id='11'>
-	<s id='1'>Je vous dispense des révérences ; dites-moi ce que vous pensez. </s>
+	<s id='1'>Je vous dispense des rÃ©vÃ©rences ; dites-moi ce que vous pensez. </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='12'>
 	<s id='1'>Ce que je pense ? </s>
 </p>
@@ -572,7 +572,7 @@
 	<s id='1'>Oui : comment regardez-vous le mariage en question ? </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='14'>
 	<s id='1'>Mais... </s>
 </p>
@@ -582,42 +582,42 @@
 	<s id='1'>Toujours des mais ! </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='16'>
-	<s id='1'>Je vous demande pardon ; je n'y songeais pas, ma mère. </s>
+	<s id='1'>Je vous demande pardon ; je n'y songeais pas, ma mÃ¨re. </s>
 </p>
 </sp>
 <sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE.</speaker>
 <p id='17'>
-	<s id='1'>Eh bien, songez-y donc, et souvenez-vous qu'ils me déplaisent. </s>
+	<s id='1'>Eh bien, songez-y donc, et souvenez-vous qu'ils me dÃ©plaisent. </s>
 	<s id='2'>Je vous demande quelles sont les dispositions de votre coeur dans cette conjoncture-ci. </s>
-	<s id='3'>Ce n'est pas que je doute que vous soyez contente, mais je voudrais vous l'entendre dire vous-même. </s>
+	<s id='3'>Ce n'est pas que je doute que vous soyez contente, mais je voudrais vous l'entendre dire vous-mÃªme. </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='18'>
 	<s id='1'>Les dispositions de mon coeur ! </s>
-	<s id='2'>Je tremble de ne pas répondre à votre fantaisie. </s>
+	<s id='2'>Je tremble de ne pas rÃ©pondre Ã  votre fantaisie. </s>
 </p>
 </sp>
 <sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE.</speaker>
 <p id='19'>
-	<s id='1'>Et pourquoi ne répondriez-vous pas à ma fantaisie ? </s>
+	<s id='1'>Et pourquoi ne rÃ©pondriez-vous pas Ã  ma fantaisie ? </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='20'>
-	<s id='1'>C'est que ce que je dirais vous fâcherait peut-être. </s>
+	<s id='1'>C'est que ce que je dirais vous fÃ¢cherait peut-Ãªtre. </s>
 </p>
 </sp>
 <sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE.</speaker>
 <p id='21'>
-	<s id='1'>Parlez bien, et je ne me fâcherai point. </s>
-	<s id='2'>Est-ce que vous n'êtes point de mon sentiment ? </s>
+	<s id='1'>Parlez bien, et je ne me fÃ¢cherai point. </s>
+	<s id='2'>Est-ce que vous n'Ãªtes point de mon sentiment ? </s>
 	<s id='3'>Etes-vous plus sage que moi ? </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='22'>
 	<s id='1'>C'est que je n'ai point de dispositions dans le coeur. </s>
 </p>
@@ -627,7 +627,7 @@
 	<s id='1'>Et qu'y avez-vous donc, Mademoiselle ? </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='24'>
 	<s id='1'>Rien du tout. </s>
 </p>
@@ -636,91 +636,91 @@
 <p id='25'>
 	<s id='1'>Rien ! </s>
 	<s id='2'>Qu'est-ce que rien ? </s>
-	<s id='3'>Ce mariage ne vous plaît donc pas ? </s>
+	<s id='3'>Ce mariage ne vous plaÃ®t donc pas ? </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='26'>
 	<s id='1'>Non. </s>
 </p>
 </sp>
-<sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE, en colère. </speaker>
+<sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE, en colÃ¨re. </speaker>
 <p id='27'>
 	<s id='1'>Comment ! </s>
-	<s id='2'>Il vous déplaît ? </s>
+	<s id='2'>Il vous dÃ©plaÃ®t ? </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='28'>
-	<s id='1'>Non, ma mère. </s>
+	<s id='1'>Non, ma mÃ¨re. </s>
 </p>
 </sp>
 <sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE.</speaker>
 <p id='29'>
 	<s id='1'>Eh ! </s>
 	<s id='2'>Parlez donc ! </s>
-	<s id='3'>Car je commence à vous entendre : c'est-à-dire, ma fille, que vous n'avez point de volonté ? </s>
+	<s id='3'>Car je commence Ã  vous entendre : c'est-Ã -dire, ma fille, que vous n'avez point de volontÃ© ? </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='30'>
 	<s id='1'>J'en aurai pourtant une, si vous le voulez. </s>
 </p>
 </sp>
 <sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE.</speaker>
 <p id='31'>
-	<s id='1'>Il n'est pas nécessaire ; vous faites encore mieux d'être comme vous êtes ; de vous laisser conduire, et de vous en fier entièrement à moi. </s>
-	<s id='2'>Oui, vous avez raison, ma fille ; et ces dispositions d'indifférence sont les meilleures. </s>
-	<s id='3'>Aussi voyez-vous que vous en êtes récompensée ; je ne vous donne pas un jeune extravagant qui vous négligerait peut-être au bout de quinze jours, qui dissiperait son bien et le vôtre, pour courir après mille passions libertines ; je vous marie à un homme sage, à un homme dont le coeur est sûr, et qui saura tout le prix de la vertueuse innocence du vôtre. </s>
+	<s id='1'>Il n'est pas nÃ©cessaire ; vous faites encore mieux d'Ãªtre comme vous Ãªtes ; de vous laisser conduire, et de vous en fier entiÃ¨rement Ã  moi. </s>
+	<s id='2'>Oui, vous avez raison, ma fille ; et ces dispositions d'indiffÃ©rence sont les meilleures. </s>
+	<s id='3'>Aussi voyez-vous que vous en Ãªtes rÃ©compensÃ©e ; je ne vous donne pas un jeune extravagant qui vous nÃ©gligerait peut-Ãªtre au bout de quinze jours, qui dissiperait son bien et le vÃ´tre, pour courir aprÃ¨s mille passions libertines ; je vous marie Ã  un homme sage, Ã  un homme dont le coeur est sÃ»r, et qui saura tout le prix de la vertueuse innocence du vÃ´tre. </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='32'>
 	<s id='1'>Pour innocente, je le suis. </s>
 </p>
 </sp>
 <sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE.</speaker>
 <p id='33'>
-	<s id='1'>Oui, grâces à mes soins, je vous vois telle que j'ai toujours souhaité que vous fussiez ; comme il vous est familier de remplir vos devoirs, les vertus dont vous allez avoir besoin ne vous coûteront rien ; et voici les plus essentielles ; c'est, d'abord, de n'aimer que votre mari. </s>
+	<s id='1'>Oui, grÃ¢ces Ã  mes soins, je vous vois telle que j'ai toujours souhaitÃ© que vous fussiez ; comme il vous est familier de remplir vos devoirs, les vertus dont vous allez avoir besoin ne vous coÃ»teront rien ; et voici les plus essentielles ; c'est, d'abord, de n'aimer que votre mari. </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='34'>
 	<s id='1'>Et si j'ai des amis, qu'en ferai-je ? </s>
 </p>
 </sp>
 <sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE.</speaker>
 <p id='35'>
-	<s id='1'>Vous n'en devez point avoir d'autres que ceux de Monsieur Damis, aux volontés de qui vous vous conformerez toujours, ma fille ; nous sommes sur ce pied-là dans le mariage. </s>
+	<s id='1'>Vous n'en devez point avoir d'autres que ceux de Monsieur Damis, aux volontÃ©s de qui vous vous conformerez toujours, ma fille ; nous sommes sur ce pied-lÃ  dans le mariage. </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='36'>
-	<s id='1'>Ses volontés ? </s>
+	<s id='1'>Ses volontÃ©s ? </s>
 	<s id='2'>Et que deviendront les miennes ? </s>
 </p>
 </sp>
 <sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE.</speaker>
 <p id='37'>
 	<s id='1'>Je sais que cet article a quelque chose d'un peu mortifiant ; mais il faut s'y rendre, ma fille. </s>
-	<s id='2'>C'est une espèce de loi qu'on nous a imposée ; et qui dans le fond nous fait honneur, car entre deux personnes qui vivent ensemble, c'est toujours la plus raisonnable qu'on charge d'être la plus docile, et cette docilité-là vous sera facile ; car vous n'avez jamais eu de volonté avec moi, vous ne connaissez que l'obéissance. </s>
+	<s id='2'>C'est une espÃ¨ce de loi qu'on nous a imposÃ©e ; et qui dans le fond nous fait honneur, car entre deux personnes qui vivent ensemble, c'est toujours la plus raisonnable qu'on charge d'Ãªtre la plus docile, et cette docilitÃ©-lÃ  vous sera facile ; car vous n'avez jamais eu de volontÃ© avec moi, vous ne connaissez que l'obÃ©issance. </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='38'>
-	<s id='1'>Oui, mais mon mari ne sera pas ma mère. </s>
+	<s id='1'>Oui, mais mon mari ne sera pas ma mÃ¨re. </s>
 </p>
 </sp>
 <sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE.</speaker>
 <p id='39'>
-	<s id='1'>Vous lui devez encore plus qu'à moi, Angélique, et je suis sûre qu'on n'aura rien à vous reprocher là-dessus. </s>
-	<s id='2'>Je vous laisse, songez à tout ce que je vous ai dit ; et surtout gardez ce goût de retraite, de solitude, de modestie, de pudeur qui me charme en vous ; ne plaisez qu'à votre mari, et restez dans cette simplicité qui ne vous laisse ignorer que le mal. </s>
+	<s id='1'>Vous lui devez encore plus qu'Ã  moi, AngÃ©lique, et je suis sÃ»re qu'on n'aura rien Ã  vous reprocher lÃ -dessus. </s>
+	<s id='2'>Je vous laisse, songez Ã  tout ce que je vous ai dit ; et surtout gardez ce goÃ»t de retraite, de solitude, de modestie, de pudeur qui me charme en vous ; ne plaisez qu'Ã  votre mari, et restez dans cette simplicitÃ© qui ne vous laisse ignorer que le mal. </s>
 	<s id='3'>Adieu, ma fille. </s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='6'><head>SCÈNE VI. Angélique, Lisette.</head>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE, un moment seule.</speaker>
+<div2 type="scene" n='6'><head>SCÃˆNE VI. AngÃ©lique, Lisette.</head>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE, un moment seule.</speaker>
 <p id='1'>
 	<s id='1'>Qui ne me laisse ignorer que le mal ! </s>
 	<s id='2'>Et qu'en sait-elle ? </s>
@@ -730,20 +730,20 @@
 </sp>
 <sp who='LISETTE'><speaker>LISETTE, survient.</speaker>
 <p id='2'>
-	<s id='1'>Eh bien, Mademoiselle, à quoi en êtes-vous ? </s>
+	<s id='1'>Eh bien, Mademoiselle, Ã  quoi en Ãªtes-vous ? </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='3'>
-	<s id='1'>J'en suis à m'affliger, comme tu vois. </s>
+	<s id='1'>J'en suis Ã  m'affliger, comme tu vois. </s>
 </p>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 <p id='4'>
-	<s id='1'>Qu'avez-vous dit à votre mère ? </s>
+	<s id='1'>Qu'avez-vous dit Ã  votre mÃ¨re ? </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='5'>
 	<s id='1'>Eh ! </s>
 	<s id='2'>Tout ce qu'elle a voulu. </s>
@@ -751,13 +751,13 @@
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 <p id='6'>
-	<s id='1'>Vous épouserez donc Monsieur Damis ? </s>
+	<s id='1'>Vous Ã©pouserez donc Monsieur Damis ? </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='7'>
-	<s id='1'>Moi, l'épouser ! </s>
-	<s id='2'>Je t'assure que non ; c'est bien assez qu'il m'épouse. </s>
+	<s id='1'>Moi, l'Ã©pouser ! </s>
+	<s id='2'>Je t'assure que non ; c'est bien assez qu'il m'Ã©pouse. </s>
 </p>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
@@ -765,160 +765,160 @@
 	<s id='1'>Oui, mais vous n'en serez pas moins sa femme. </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='9'>
-	<s id='1'>Eh bien, ma mère n'a qu'à l'aimer pour nous deux ; car pour moi je n'aimerai jamais qu'Eraste. </s>
+	<s id='1'>Eh bien, ma mÃ¨re n'a qu'Ã  l'aimer pour nous deux ; car pour moi je n'aimerai jamais qu'Eraste. </s>
 </p>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 <p id='10'>
-	<s id='1'>Il le mérite bien. </s>
+	<s id='1'>Il le mÃ©rite bien. </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='11'>
 	<s id='1'>Oh ! </s>
 	<s id='2'>Pour cela, oui. </s>
-	<s id='3'>C'est lui qui est aimable, qui est complaisant, et non pas ce Monsieur Damis que ma mère a été prendre je ne sais où, qui ferait bien mieux d'être mon grand-père que mon mari, qui me glace quand il me parle, et qui m'appelle toujours ma belle personne ; comme si on s'embarrassait beaucoup d'être belle ou laide avec lui : au lieu que tout ce que me dit Eraste est si touchant ! </s>
-	<s id='4'>On voit que c'est du fond du coeur qu'il parle ; et j'aimerais mieux être sa femme seulement huit jours, que de l'être toute ma vie de l'autre. </s>
+	<s id='3'>C'est lui qui est aimable, qui est complaisant, et non pas ce Monsieur Damis que ma mÃ¨re a Ã©tÃ© prendre je ne sais oÃ¹, qui ferait bien mieux d'Ãªtre mon grand-pÃ¨re que mon mari, qui me glace quand il me parle, et qui m'appelle toujours ma belle personne ; comme si on s'embarrassait beaucoup d'Ãªtre belle ou laide avec lui : au lieu que tout ce que me dit Eraste est si touchant ! </s>
+	<s id='4'>On voit que c'est du fond du coeur qu'il parle ; et j'aimerais mieux Ãªtre sa femme seulement huit jours, que de l'Ãªtre toute ma vie de l'autre. </s>
 </p>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 <p id='12'>
-	<s id='1'>On dit qu'il est au désespoir, Eraste. </s>
+	<s id='1'>On dit qu'il est au dÃ©sespoir, Eraste. </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='13'>
 	<s id='1'>Eh ! </s>
 	<s id='2'>Comment veut-il que je fasse ? </s>
-	<s id='3'>Hélas ! </s>
-	<s id='4'>Je sais bien qu'il sera inconsolable : N'est-on pas bien à plaindre, quand on s'aime tant, de n'être pas ensemble ? </s>
-	<s id='5'>Ma mère dit qu'on est obligé d'aimer son mari ; eh bien ! </s>
-	<s id='6'>Qu'on me donne Eraste ; je l'aimerai tant qu'on voudra, puisque je l'aime avant que d'y être obligée, je n'aurai garde d'y manquer quand il le faudra, cela me sera bien commode. </s>
+	<s id='3'>HÃ©las ! </s>
+	<s id='4'>Je sais bien qu'il sera inconsolable : N'est-on pas bien Ã  plaindre, quand on s'aime tant, de n'Ãªtre pas ensemble ? </s>
+	<s id='5'>Ma mÃ¨re dit qu'on est obligÃ© d'aimer son mari ; eh bien ! </s>
+	<s id='6'>Qu'on me donne Eraste ; je l'aimerai tant qu'on voudra, puisque je l'aime avant que d'y Ãªtre obligÃ©e, je n'aurai garde d'y manquer quand il le faudra, cela me sera bien commode. </s>
 </p>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 <p id='14'>
-	<s id='1'>Mais avec ces sentiments-là, que ne refusez-vous courageusement Damis ? </s>
-	<s id='2'>Il est encore temps ; vous êtes d'une vivacité étonnante avec moi, et vous tremblez devant votre mère. </s>
-	<s id='3'>Il faudrait lui dire ce soir : Cet homme-là est trop vieux pour moi ; je ne l'aime point, je le hais, je le haïrai, et je ne saurais l'épouser. </s>
+	<s id='1'>Mais avec ces sentiments-lÃ , que ne refusez-vous courageusement Damis ? </s>
+	<s id='2'>Il est encore temps ; vous Ãªtes d'une vivacitÃ© Ã©tonnante avec moi, et vous tremblez devant votre mÃ¨re. </s>
+	<s id='3'>Il faudrait lui dire ce soir : Cet homme-lÃ  est trop vieux pour moi ; je ne l'aime point, je le hais, je le haÃ¯rai, et je ne saurais l'Ã©pouser. </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='15'>
-	<s id='1'>Tu as raison : mais quand ma mère me parle, je n'ai plus d'esprit ; cependant je sens que j'en ai assurément ; et j'en aurais bien davantage, si elle avait voulu ; mais n'être jamais qu'avec elle, n'entendre que des préceptes qui me lassent, ne faire que des lectures qui m'ennuient, est-ce là le moyen d'avoir de l'esprit ? </s>
+	<s id='1'>Tu as raison : mais quand ma mÃ¨re me parle, je n'ai plus d'esprit ; cependant je sens que j'en ai assurÃ©ment ; et j'en aurais bien davantage, si elle avait voulu ; mais n'Ãªtre jamais qu'avec elle, n'entendre que des prÃ©ceptes qui me lassent, ne faire que des lectures qui m'ennuient, est-ce lÃ  le moyen d'avoir de l'esprit ? </s>
 	<s id='2'>Qu'est-ce que cela apprend ? </s>
-	<s id='3'>Il y a des petites filles de sept ans qui sont plus avancées que moi. </s>
+	<s id='3'>Il y a des petites filles de sept ans qui sont plus avancÃ©es que moi. </s>
 	<s id='4'>Cela n'est-il pas ridicule ? </s>
-	<s id='5'>Je n'ose pas seulement ouvrir ma fenêtre. </s>
+	<s id='5'>Je n'ose pas seulement ouvrir ma fenÃªtre. </s>
 	<s id='6'>Voyez, je vous prie, de quel air on m'habille ? </s>
-	<s id='7'>Suis-je vêtue comme une autre ? </s>
-	<s id='8'>Regardez comme me voilà faite : Ma mère appelle cela un habit modeste : il n'y a donc de la modestie nulle part qu'ici ? </s>
-	<s id='9'>Car je ne vois que moi d'enveloppée comme cela ; aussi suis-je d'une enfance, d'une curiosité ! </s>
-	<s id='10'>Je ne porte point de ruban, mais qu'est-ce que ma mère y gagne ? </s>
-	<s id='11'>Que j'ai des émotions quand j'en aperçois. </s>
-	<s id='12'>Elle ne m'a laissé voir personne, et avant que je connusse Eraste, le coeur me battait quand j'étais regardée par un jeune homme. </s>
-	<s id='13'>Voilà pourtant ce qui m'est arrivé. </s>
+	<s id='7'>Suis-je vÃªtue comme une autre ? </s>
+	<s id='8'>Regardez comme me voilÃ  faite : Ma mÃ¨re appelle cela un habit modeste : il n'y a donc de la modestie nulle part qu'ici ? </s>
+	<s id='9'>Car je ne vois que moi d'enveloppÃ©e comme cela ; aussi suis-je d'une enfance, d'une curiositÃ© ! </s>
+	<s id='10'>Je ne porte point de ruban, mais qu'est-ce que ma mÃ¨re y gagne ? </s>
+	<s id='11'>Que j'ai des Ã©motions quand j'en aperÃ§ois. </s>
+	<s id='12'>Elle ne m'a laissÃ© voir personne, et avant que je connusse Eraste, le coeur me battait quand j'Ã©tais regardÃ©e par un jeune homme. </s>
+	<s id='13'>VoilÃ  pourtant ce qui m'est arrivÃ©. </s>
 </p>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 <p id='16'>
-	<s id='1'>Votre naïveté me fait rire. </s>
+	<s id='1'>Votre naÃ¯vetÃ© me fait rire. </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='17'>
 	<s id='1'>Mais est-ce que je n'ai pas raison ? </s>
-	<s id='2'>Serais-je de même si j'avais joui d'une liberté honnête ? </s>
-	<s id='3'>En vérité, si je n'avais pas le coeur bon, tiens, je crois que je haïrais ma mère, d'être cause que j'ai des émotions pour des choses dont je suis sûre que je ne me soucierais pas si je les avais. </s>
-	<s id='4'>Aussi, quand je serai ma maîtresse ! </s>
+	<s id='2'>Serais-je de mÃªme si j'avais joui d'une libertÃ© honnÃªte ? </s>
+	<s id='3'>En vÃ©ritÃ©, si je n'avais pas le coeur bon, tiens, je crois que je haÃ¯rais ma mÃ¨re, d'Ãªtre cause que j'ai des Ã©motions pour des choses dont je suis sÃ»re que je ne me soucierais pas si je les avais. </s>
+	<s id='4'>Aussi, quand je serai ma maÃ®tresse ! </s>
 	<s id='5'>Laisse-moi faire, va... </s>
 	<s id='6'>Je veux savoir tout ce que les autres savent. </s>
 </p>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 <p id='18'>
-	<s id='1'>Je m'en fie bien à vous. </s>
+	<s id='1'>Je m'en fie bien Ã  vous. </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='19'>
 	<s id='1'>Moi qui suis naturellement vertueuse, sais-tu bien que je m'endors quand j'entends parler de sagesse ? </s>
-	<s id='2'>Sais-tu bien que je serai fort heureuse de n'être pas coquette ? </s>
-	<s id='3'>Je ne la serai pourtant pas ; mais ma mère mériterait bien que je la devinsse. </s>
+	<s id='2'>Sais-tu bien que je serai fort heureuse de n'Ãªtre pas coquette ? </s>
+	<s id='3'>Je ne la serai pourtant pas ; mais ma mÃ¨re mÃ©riterait bien que je la devinsse. </s>
 </p>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 <p id='20'>
 	<s id='1'>Ah ! </s>
-	<s id='2'>Si elle pouvait vous entendre et jouir du fruit de sa sévérité ! </s>
+	<s id='2'>Si elle pouvait vous entendre et jouir du fruit de sa sÃ©vÃ©ritÃ© ! </s>
 	<s id='3'>Mais parlons d'autre chose. </s>
 	<s id='4'>Vous aimez Eraste ? </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='21'>
-	<s id='1'>Vraiment oui, je l'aime, pourvu qu'il n'y ait point de mal à avouer cela ; car je suis si ignorante ! </s>
+	<s id='1'>Vraiment oui, je l'aime, pourvu qu'il n'y ait point de mal Ã  avouer cela ; car je suis si ignorante ! </s>
 	<s id='2'>Je ne sais point ce qui est permis ou non, au moins. </s>
 </p>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 <p id='22'>
-	<s id='1'>C'est un aveu sans conséquence avec moi. </s>
+	<s id='1'>C'est un aveu sans consÃ©quence avec moi. </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='23'>
 	<s id='1'>Oh ! </s>
-	<s id='2'>Sur ce pied-là je l'aime beaucoup, et je ne puis me résoudre à le perdre. </s>
+	<s id='2'>Sur ce pied-lÃ  je l'aime beaucoup, et je ne puis me rÃ©soudre Ã  le perdre. </s>
 </p>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 <p id='24'>
-	<s id='1'>Prenez donc une bonne résolution de n'être pas à un autre. </s>
-	<s id='2'>Il y a ici un domestique à lui qui a une lettre à vous rendre de sa part. </s>
+	<s id='1'>Prenez donc une bonne rÃ©solution de n'Ãªtre pas Ã  un autre. </s>
+	<s id='2'>Il y a ici un domestique Ã  lui qui a une lettre Ã  vous rendre de sa part. </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE, charmée.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE, charmÃ©e.</speaker>
 <p id='25'>
 	<s id='1'>Une lettre de sa part, et tu ne m'en disais rien ! </s>
-	<s id='2'>Où est-elle ? </s>
+	<s id='2'>OÃ¹ est-elle ? </s>
 	<s id='3'>Oh ! </s>
-	<s id='4'>Que j'aurai de plaisir à la lire ! </s>
+	<s id='4'>Que j'aurai de plaisir Ã  la lire ! </s>
 	<s id='5'>Donne-moi-la donc ! </s>
-	<s id='6'>Où est ce domestique ? </s>
+	<s id='6'>OÃ¹ est ce domestique ? </s>
 </p>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 <p id='26'>
 	<s id='1'>Doucement ! </s>
-	<s id='2'>Modérez cet empressement-là ; cachez-en du moins une partie à Eraste : si par hasard vous lui parliez, il y aurait du trop. </s>
+	<s id='2'>ModÃ©rez cet empressement-lÃ  ; cachez-en du moins une partie Ã  Eraste : si par hasard vous lui parliez, il y aurait du trop. </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='27'>
 	<s id='1'>Oh ! </s>
-	<s id='2'>Dame, c'est encore ma mère qui en est cause. </s>
+	<s id='2'>Dame, c'est encore ma mÃ¨re qui en est cause. </s>
 	<s id='3'>Mais est-ce que je pourrai le voir ? </s>
 	<s id='4'>Tu me parles de lui et de sa lettre, et je ne vois ni l'un ni l'autre.</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='7'><head>SCÈNE VII. Lisette, Angélique, Frontin, Eraste.</head>
-<sp who='LISETTE'><speaker>LISETTE, à Angélique.</speaker>
+<div2 type="scene" n='7'><head>SCÃˆNE VII. Lisette, AngÃ©lique, Frontin, Eraste.</head>
+<sp who='LISETTE'><speaker>LISETTE, Ã  AngÃ©lique.</speaker>
 <p id='1'>
-	<s id='1'>Tenez, voici ce domestique que Frontin nous amène. </s>
+	<s id='1'>Tenez, voici ce domestique que Frontin nous amÃ¨ne. </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='2'>
-	<s id='1'>Frontin ne dira-t-il rien à ma mère ? </s>
+	<s id='1'>Frontin ne dira-t-il rien Ã  ma mÃ¨re ? </s>
 </p>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 <p id='3'>
-	<s id='1'>Ne craignez rien, il est dans vos intérêts, et ce domestique passe pour son parent. </s>
+	<s id='1'>Ne craignez rien, il est dans vos intÃ©rÃªts, et ce domestique passe pour son parent. </s>
 </p>
 </sp>
 <sp who='FRONTIN'><speaker>FRONTIN, tenant une lettre.</speaker>
@@ -926,13 +926,13 @@
 	<s id='1'>Le valet de Monsieur Eraste vous apporte une lettre que voici, Madame. </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE, gravement. </speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE, gravement. </speaker>
 <p id='5'>
 	<s id='1'>Donnez. </s>
 </p>
-<stage>À Lisette.</stage>
+<stage>Ã€ Lisette.</stage>
 <p id='6'>
-	<s id='1'>Suis-je assez sérieuse ? </s>
+	<s id='1'>Suis-je assez sÃ©rieuse ? </s>
 </p>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
@@ -940,7 +940,7 @@
 	<s id='1'>Fort bien.</s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE, lit.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE, lit.</speaker>
 <p id='8'>
 	<s id='1'>Que viens-je d'apprendre ! </s>
 	<s id='2'>On dit que vous vous mariez ce soir. </s>
@@ -950,66 +950,66 @@
 <p id='9'>
 	<s id='1'>Il ne se soucie plus de la vie, Lisette ! </s>
 </p>
-<stage>Elle achève de lire.</stage>
+<stage>Elle achÃ¨ve de lire.</stage>
 <p id='10'>
-	<s id='1'>Adieu ; j'attends votre réponse, et je me meurs.</s>
+	<s id='1'>Adieu ; j'attends votre rÃ©ponse, et je me meurs.</s>
 </p>
-<stage>Après qu'elle a lu.</stage>
+<stage>AprÃ¨s qu'elle a lu.</stage>
 <p id='11'>
-	<s id='1'>Cette lettre-là me pénètre ; il n'y a point de modération qui tienne, Lisette ; il faut que je lui parle, et je ne veux pas qu'il meure. </s>
+	<s id='1'>Cette lettre-lÃ  me pÃ©nÃ¨tre ; il n'y a point de modÃ©ration qui tienne, Lisette ; il faut que je lui parle, et je ne veux pas qu'il meure. </s>
 	<s id='2'>Allez lui dire qu'il vienne ; on le fera entrer comme on pourra.</s>
 </p>
 </sp>
-<sp who='ÉRASTE'><speaker>ÉRASTE, se jetant à ses genoux.</speaker>
+<sp who='Ã‰RASTE'><speaker>Ã‰RASTE, se jetant Ã  ses genoux.</speaker>
 <p id='12'>
-	<s id='1'>Vous ne voulez point que je meure, et vous vous mariez, Angélique ! </s>
+	<s id='1'>Vous ne voulez point que je meure, et vous vous mariez, AngÃ©lique ! </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='13'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>C'est vous, Eraste ? </s>
 </p>
 </sp>
-<sp who='ÉRASTE'><speaker>ÉRASTE.</speaker>
+<sp who='Ã‰RASTE'><speaker>Ã‰RASTE.</speaker>
 <p id='14'>
-	<s id='1'>À quoi vous déterminez-vous donc ? </s>
+	<s id='1'>Ã€ quoi vous dÃ©terminez-vous donc ? </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='15'>
-	<s id='1'>Je ne sais ; je suis trop émue pour vous répondre. </s>
+	<s id='1'>Je ne sais ; je suis trop Ã©mue pour vous rÃ©pondre. </s>
 	<s id='2'>Levez-vous.</s>
 </p>
 </sp>
-<sp who='ÉRASTE'><speaker>ÉRASTE, se levant.</speaker>
+<sp who='Ã‰RASTE'><speaker>Ã‰RASTE, se levant.</speaker>
 <p id='16'>
-	<s id='1'>Mon désespoir vous touchera-t-il ? </s>
+	<s id='1'>Mon dÃ©sespoir vous touchera-t-il ? </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='17'>
 	<s id='1'>Est-ce que vous n'avez pas entendu ce que j'ai dit ? </s>
 </p>
 </sp>
-<sp who='ÉRASTE'><speaker>ÉRASTE.</speaker>
+<sp who='Ã‰RASTE'><speaker>Ã‰RASTE.</speaker>
 <p id='18'>
 	<s id='1'>Il m'a paru que vous m'aimiez un peu. </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='19'>
-	<s id='1'>Non, non, il vous a paru mieux que cela ; car j'ai dit bien franchement que je vous aime : mais il faut m'excuser, Eraste, car je ne savais pas que vous étiez là. </s>
+	<s id='1'>Non, non, il vous a paru mieux que cela ; car j'ai dit bien franchement que je vous aime : mais il faut m'excuser, Eraste, car je ne savais pas que vous Ã©tiez lÃ . </s>
 </p>
 </sp>
-<sp who='ÉRASTE'><speaker>ÉRASTE.</speaker>
+<sp who='Ã‰RASTE'><speaker>Ã‰RASTE.</speaker>
 <p id='20'>
-	<s id='1'>Est-ce que vous seriez fâchée de ce qui vous est échappé ? </s>
+	<s id='1'>Est-ce que vous seriez fÃ¢chÃ©e de ce qui vous est Ã©chappÃ© ? </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='21'>
-	<s id='1'>Moi, fâchée ? </s>
+	<s id='1'>Moi, fÃ¢chÃ©e ? </s>
 	<s id='2'>Au contraire, je suis bien aise que vous l'ayez appris sans qu'il y ait de ma faute ; je n'aurai plus la peine de vous le cacher. </s>
 </p>
 </sp>
@@ -1023,124 +1023,124 @@
 	<s id='1'>Il a raison ; je crois que quelqu'un vient ; retirez-vous, Madame. </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='24'>
 	<s id='1'>Mais je crois que vous n'avez pas eu le temps de me dire tout. </s>
 </p>
 </sp>
-<sp who='ÉRASTE'><speaker>ÉRASTE.</speaker>
+<sp who='Ã‰RASTE'><speaker>Ã‰RASTE.</speaker>
 <p id='25'>
-	<s id='1'>Hélas ! </s>
-	<s id='2'>Madame, je n'ai encore fait que vous voir et j'ai besoin d'un entretien pour vous résoudre à me sauver la vie.</s>
+	<s id='1'>HÃ©las ! </s>
+	<s id='2'>Madame, je n'ai encore fait que vous voir et j'ai besoin d'un entretien pour vous rÃ©soudre Ã  me sauver la vie.</s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE, en s'en allant.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE, en s'en allant.</speaker>
 <p id='26'>
-	<s id='1'>Ne lui donneras-tu pas le temps de me résoudre, Lisette ? </s>
+	<s id='1'>Ne lui donneras-tu pas le temps de me rÃ©soudre, Lisette ? </s>
 </p>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 <p id='27'>
-	<s id='1'>Oui, Frontin et moi nous aurons soin de tout : vous allez vous revoir bientôt ; mais retirez-vous.</s>
+	<s id='1'>Oui, Frontin et moi nous aurons soin de tout : vous allez vous revoir bientÃ´t ; mais retirez-vous.</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='8'><head>SCÈNE VIII. Lisette, Frontin, Eraste, Champagne.</head>
+<div2 type="scene" n='8'><head>SCÃˆNE VIII. Lisette, Frontin, Eraste, Champagne.</head>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 <p id='28'>
-	<s id='1'>Qui est-ce qui entre là ? </s>
+	<s id='1'>Qui est-ce qui entre lÃ  ? </s>
 	<s id='2'>C'est le valet de Monsieur Damis.</s>
 </p>
 </sp>
-<sp who='ÉRASTE'><speaker>ÉRASTE, vite.</speaker>
+<sp who='Ã‰RASTE'><speaker>Ã‰RASTE, vite.</speaker>
 <p id='29'>
 	<s id='1'>Eh ! </s>
-	<s id='2'>d'où le connaissez-vous ? </s>
-	<s id='3'>C'est le valet de mon père, et non pas de Monsieur Damis qui m'est inconnu. </s>
+	<s id='2'>d'oÃ¹ le connaissez-vous ? </s>
+	<s id='3'>C'est le valet de mon pÃ¨re, et non pas de Monsieur Damis qui m'est inconnu. </s>
 </p>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 <p id='30'>
-	<s id='1'>Vous vous trompez ; ne vous déconcertez pas. </s>
+	<s id='1'>Vous vous trompez ; ne vous dÃ©concertez pas. </s>
 </p>
 </sp>
 <sp who='CHAMPAGNE'><speaker>CHAMPAGNE.</speaker>
 <p id='31'>
-	<s id='1'>Bonsoir, la jolie fille, bonsoir, Messieurs ; je viens attendre ici mon maître qui m'envoie dire qu'il va venir ; et je suis charmé d'une rencontre...</s>
+	<s id='1'>Bonsoir, la jolie fille, bonsoir, Messieurs ; je viens attendre ici mon maÃ®tre qui m'envoie dire qu'il va venir ; et je suis charmÃ© d'une rencontre...</s>
 </p>
 <stage>En regardant Eraste.</stage>
 <p id='32'>
 	<s id='1'>Mais comment appelez-vous Monsieur ? </s>
 </p>
 </sp>
-<sp who='ÉRASTE'><speaker>ÉRASTE.</speaker>
+<sp who='Ã‰RASTE'><speaker>Ã‰RASTE.</speaker>
 <p id='33'>
-	<s id='1'>Vous importe-t-il de savoir que je m'appelle La Ramée ? </s>
+	<s id='1'>Vous importe-t-il de savoir que je m'appelle La RamÃ©e ? </s>
 </p>
 </sp>
 <sp who='CHAMPAGNE'><speaker>CHAMPAGNE.</speaker>
 <p id='34'>
-	<s id='1'>La Ramée ? </s>
-	<s id='2'>Et pourquoi est-ce que vous portez ce visage-là ? </s>
+	<s id='1'>La RamÃ©e ? </s>
+	<s id='2'>Et pourquoi est-ce que vous portez ce visage-lÃ  ? </s>
 </p>
 </sp>
-<sp who='ÉRASTE'><speaker>ÉRASTE.</speaker>
+<sp who='Ã‰RASTE'><speaker>Ã‰RASTE.</speaker>
 <p id='35'>
 	<s id='1'>Pourquoi ? </s>
 	<s id='2'>La belle question ! </s>
-	<s id='3'>Parce que je n'en ai pas reçu d'autre. </s>
-	<s id='4'>Adieu, Lisette ; le début de ce butor-là m'ennuie.</s>
+	<s id='3'>Parce que je n'en ai pas reÃ§u d'autre. </s>
+	<s id='4'>Adieu, Lisette ; le dÃ©but de ce butor-lÃ  m'ennuie.</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='9'><head>SCÈNE IX. Champagne, Frontin, Lisette.</head>
+<div2 type="scene" n='9'><head>SCÃˆNE IX. Champagne, Frontin, Lisette.</head>
 <sp who='FRONTIN'><speaker>FRONTIN.</speaker>
 <p id='1'>
-	<s id='1'>Je voudrais bien savoir à qui tu en as ! </s>
-	<s id='2'>Est-ce qu'il n'est pas permis à mon cousin La Ramée d'avoir son visage ? </s>
+	<s id='1'>Je voudrais bien savoir Ã  qui tu en as ! </s>
+	<s id='2'>Est-ce qu'il n'est pas permis Ã  mon cousin La RamÃ©e d'avoir son visage ? </s>
 </p>
 </sp>
 <sp who='CHAMPAGNE'><speaker>CHAMPAGNE.</speaker>
 <p id='2'>
-	<s id='1'>Je veux bien que Monsieur La Ramée en ait un ; mais il ne lui est pas permis de se servir de celui d'un autre. </s>
+	<s id='1'>Je veux bien que Monsieur La RamÃ©e en ait un ; mais il ne lui est pas permis de se servir de celui d'un autre. </s>
 </p>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 <p id='3'>
 	<s id='1'>Comment, celui d'un autre ! </s>
-	<s id='2'>Qu'est-ce que cette folie-là ? </s>
+	<s id='2'>Qu'est-ce que cette folie-lÃ  ? </s>
 </p>
 </sp>
 <sp who='CHAMPAGNE'><speaker>CHAMPAGNE.</speaker>
 <p id='4'>
-	<s id='1'>Oui, celui d'un autre : en un mot, cette mine-là ne lui appartient point ; elle n'est point à sa place ordinaire, ou bien j'ai vu la pareille à quelqu'un que je connais.</s>
+	<s id='1'>Oui, celui d'un autre : en un mot, cette mine-lÃ  ne lui appartient point ; elle n'est point Ã  sa place ordinaire, ou bien j'ai vu la pareille Ã  quelqu'un que je connais.</s>
 </p>
 </sp>
 <sp who='FRONTIN'><speaker>PRONTIN, riant.</speaker>
 <p id='5'>
-	<s id='1'>C'est peut-être une physionomie à la mode, et La Ramée en aura pris une.</s>
+	<s id='1'>C'est peut-Ãªtre une physionomie Ã  la mode, et La RamÃ©e en aura pris une.</s>
 </p>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE, riant.</speaker>
 <p id='6'>
-	<s id='1'>Voilà bien, en effet, des discours d'un butor comme toi, Champagne : est-ce qu'il n'y a pas mille gens qui se ressemblent ? </s>
+	<s id='1'>VoilÃ  bien, en effet, des discours d'un butor comme toi, Champagne : est-ce qu'il n'y a pas mille gens qui se ressemblent ? </s>
 </p>
 </sp>
 <sp who='CHAMPAGNE'><speaker>CHAMPAGNE.</speaker>
 <p id='7'>
-	<s id='1'>Cela est vrai ; mais qu'il appartienne à ce qu'il voudra, je ne m'en soucie guère ; chacun a le sien ; il n'y a que vous, Mademoiselle Lisette, qui n'avez celui de personne, car vous êtes plus jolie que tout le monde : il n'y a rien de si aimable que vous. </s>
+	<s id='1'>Cela est vrai ; mais qu'il appartienne Ã  ce qu'il voudra, je ne m'en soucie guÃ¨re ; chacun a le sien ; il n'y a que vous, Mademoiselle Lisette, qui n'avez celui de personne, car vous Ãªtes plus jolie que tout le monde : il n'y a rien de si aimable que vous. </s>
 </p>
 </sp>
 <sp who='FRONTIN'><speaker>FRONTIN.</speaker>
 <p id='8'>
-	<s id='1'>Halte-là ! </s>
-	<s id='2'>Laisse ce minois-là en repos ; ton éloge le déshonore. </s>
+	<s id='1'>Halte-lÃ  ! </s>
+	<s id='2'>Laisse ce minois-lÃ  en repos ; ton Ã©loge le dÃ©shonore. </s>
 </p>
 </sp>
 <sp who='CHAMPAGNE'><speaker>CHAMPAGNE.</speaker>
 <p id='9'>
 	<s id='1'>Ah ! </s>
-	<s id='2'>Monsieur Frontin, ce que j'en dis, c'est en cas que vous n'aimiez pas Lisette, comme cela peut arriver ; car chacun n'est pas du même goût. </s>
+	<s id='2'>Monsieur Frontin, ce que j'en dis, c'est en cas que vous n'aimiez pas Lisette, comme cela peut arriver ; car chacun n'est pas du mÃªme goÃ»t. </s>
 </p>
 </sp>
 <sp who='FRONTIN'><speaker>FRONTIN.</speaker>
@@ -1167,7 +1167,7 @@
 </sp>
 <sp who='LISETTE'><speaker>LISETTE, en s'en allant.</speaker>
 <p id='14'>
-	<s id='1'>Une révérence de ma part.</s>
+	<s id='1'>Une rÃ©vÃ©rence de ma part.</s>
 </p>
 </sp>
 <sp who='FRONTIN'><speaker>FRONTIN, en s'en allant.</speaker>
@@ -1178,25 +1178,25 @@
 <sp who='CHAMPAGNE'><speaker>CHAMPAGNE.</speaker>
 <p id='16'>
 	<s id='1'>Ah ! </s>
-	<s id='2'>N'ai-je pas fait là une belle fortune ?</s>
+	<s id='2'>N'ai-je pas fait lÃ  une belle fortune ?</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='10'><head>SCÈNE X. Monsieur Damis, Champagne.</head>
+<div2 type="scene" n='10'><head>SCÃˆNE X. Monsieur Damis, Champagne.</head>
 <sp who='MONSIEUR-DAMIS'><speaker>MONSIEUR DAMIS.</speaker>
 <p id='1'>
 	<s id='1'>Ah ! </s>
-	<s id='2'>Te voilà ! </s>
+	<s id='2'>Te voilÃ  ! </s>
 </p>
 </sp>
 <sp who='CHAMPAGNE'><speaker>CHAMPAGNE.</speaker>
 <p id='2'>
-	<s id='1'>Oui, Monsieur ; on vient de m'apprendre qu'il n'y a rien pour moi, et ma part ne me donne pas une bonne opinion de la vôtre. </s>
+	<s id='1'>Oui, Monsieur ; on vient de m'apprendre qu'il n'y a rien pour moi, et ma part ne me donne pas une bonne opinion de la vÃ´tre. </s>
 </p>
 </sp>
 <sp who='MONSIEUR-DAMIS'><speaker>MONSIEUR DAMIS.</speaker>
 <p id='3'>
-	<s id='1'>Qu'entends-tu par là ? </s>
+	<s id='1'>Qu'entends-tu par lÃ  ? </s>
 </p>
 </sp>
 <sp who='CHAMPAGNE'><speaker>CHAMPAGNE.</speaker>
@@ -1207,11 +1207,11 @@
 <sp who='MONSIEUR-DAMIS'><speaker>MONSIEUR DAMIS.</speaker>
 <p id='5'>
 	<s id='1'>Je n'y comprends rien. </s>
-	<s id='2'>Laisse-nous ; voici Madame Argante et Angélique.</s>
+	<s id='2'>Laisse-nous ; voici Madame Argante et AngÃ©lique.</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='11'><head>SCÈNE XI. Madame Argante, Angélique, Monsieur Damis.</head>
+<div2 type="scene" n='11'><head>SCÃˆNE XI. Madame Argante, AngÃ©lique, Monsieur Damis.</head>
 <sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE.</speaker>
 <p id='1'>
 	<s id='1'>Vous venez sans doute d'arriver, Monsieur ? </s>
@@ -1224,41 +1224,41 @@
 </sp>
 <sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE.</speaker>
 <p id='3'>
-	<s id='1'>Il y a déjà bonne compagnie assemblée chez moi, c'est-à-dire, une partie de ma famille, avec quelques-uns de nos amis, car pour les vôtres, vous n'avez pas voulu leur confier votre mariage. </s>
+	<s id='1'>Il y a dÃ©jÃ  bonne compagnie assemblÃ©e chez moi, c'est-Ã -dire, une partie de ma famille, avec quelques-uns de nos amis, car pour les vÃ´tres, vous n'avez pas voulu leur confier votre mariage. </s>
 </p>
 </sp>
 <sp who='MONSIEUR-DAMIS'><speaker>MONSIEUR DAMIS.</speaker>
 <p id='4'>
-	<s id='1'>Non, Madame, j'ai craint qu'on n'enviât mon bonheur et j'ai voulu me l'assurer en secret. </s>
-	<s id='2'>Mon fils même ne sait rien de mon dessein : et c'est à cause de cela que je vous ai prié de vouloir bien me donner le nom de Damis, au lieu de celui d'Orgon, qu'on mettra dans le contrat. </s>
+	<s id='1'>Non, Madame, j'ai craint qu'on n'enviÃ¢t mon bonheur et j'ai voulu me l'assurer en secret. </s>
+	<s id='2'>Mon fils mÃªme ne sait rien de mon dessein : et c'est Ã  cause de cela que je vous ai priÃ© de vouloir bien me donner le nom de Damis, au lieu de celui d'Orgon, qu'on mettra dans le contrat. </s>
 </p>
 </sp>
 <sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE.</speaker>
 <p id='5'>
-	<s id='1'>Vous êtes le maître, Monsieur ; au reste, il n'appartient point à une mère de vanter sa fille ; mais je crois vous faire un présent digne d'un honnête homme comme vous. </s>
+	<s id='1'>Vous Ãªtes le maÃ®tre, Monsieur ; au reste, il n'appartient point Ã  une mÃ¨re de vanter sa fille ; mais je crois vous faire un prÃ©sent digne d'un honnÃªte homme comme vous. </s>
 	<s id='2'>Il est vrai que les avantages que vous lui faites... </s>
 </p>
 </sp>
 <sp who='MONSIEUR-DAMIS'><speaker>MONSIEUR DAMIS.</speaker>
 <p id='6'>
 	<s id='1'>Oh ! </s>
-	<s id='2'>Madame, n'en parlons point, je vous prie ; c'est à moi à vous remercier toutes deux, et je n'ai pas dû espérer que cette belle personne fît grâce au peu que je vaux.</s>
+	<s id='2'>Madame, n'en parlons point, je vous prie ; c'est Ã  moi Ã  vous remercier toutes deux, et je n'ai pas dÃ» espÃ©rer que cette belle personne fÃ®t grÃ¢ce au peu que je vaux.</s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE, à part.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE, Ã  part.</speaker>
 <p id='7'>
 	<s id='1'>Belle personne ! </s>
 </p>
 </sp>
 <sp who='MONSIEUR-DAMIS'><speaker>MONSIEUR DAMIS.</speaker>
 <p id='8'>
-	<s id='1'>Tous les trésors du monde ne sont rien au prix de la beauté et de la vertu qu'elle m'apporte en mariage. </s>
+	<s id='1'>Tous les trÃ©sors du monde ne sont rien au prix de la beautÃ© et de la vertu qu'elle m'apporte en mariage. </s>
 </p>
 </sp>
 <sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE.</speaker>
 <p id='9'>
 	<s id='1'>Pour de la vertu, vous lui rendez justice. </s>
-	<s id='2'>Mais, Monsieur, on vous attend ; vous savez que j'ai permis que nos amis se déguisassent, et fissent une espèce de petit bal tantôt ; le voulez-vous bien ? </s>
+	<s id='2'>Mais, Monsieur, on vous attend ; vous savez que j'ai permis que nos amis se dÃ©guisassent, et fissent une espÃ¨ce de petit bal tantÃ´t ; le voulez-vous bien ? </s>
 	<s id='3'>C'est le premier que ma fille aura vu. </s>
 </p>
 </sp>
@@ -1275,80 +1275,80 @@
 <sp who='MONSIEUR-DAMIS'><speaker>MONSIEUR DAMIS.</speaker>
 <p id='12'>
 	<s id='1'>Oserais-je auparavant vous prier d'une chose, Madame ? </s>
-	<s id='2'>Daignez, à la faveur de notre union prochaine, m'accorder un petit moment d'entretien avec Angélique ; c'est une satisfaction que je n'ai pas eu jusqu'ici. </s>
+	<s id='2'>Daignez, Ã  la faveur de notre union prochaine, m'accorder un petit moment d'entretien avec AngÃ©lique ; c'est une satisfaction que je n'ai pas eu jusqu'ici. </s>
 </p>
 </sp>
 <sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE.</speaker>
 <p id='13'>
-	<s id='1'>J'y consens, Monsieur, on ne peut vous le refuser dans la conjoncture présente ; et ce n'est pas apparemment pour éprouver le coeur de ma fille ? </s>
-	<s id='2'>Il n'est pas encore temps qu'il se déclare tout à fait ; il doit vous suffire qu'elle obéit sans répugnance ; et c'est ce que vous pouvez dire à Monsieur, Angélique ; je vous le permets, entendez-vous ? </s>
+	<s id='1'>J'y consens, Monsieur, on ne peut vous le refuser dans la conjoncture prÃ©sente ; et ce n'est pas apparemment pour Ã©prouver le coeur de ma fille ? </s>
+	<s id='2'>Il n'est pas encore temps qu'il se dÃ©clare tout Ã  fait ; il doit vous suffire qu'elle obÃ©it sans rÃ©pugnance ; et c'est ce que vous pouvez dire Ã  Monsieur, AngÃ©lique ; je vous le permets, entendez-vous ? </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='14'>
-	<s id='1'>J'entends, ma mère. </s>
+	<s id='1'>J'entends, ma mÃ¨re. </s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='12'><head>SCÈNE XII. Angélique, Monsieur Damis.</head>
+<div2 type="scene" n='12'><head>SCÃˆNE XII. AngÃ©lique, Monsieur Damis.</head>
 <sp who='MONSIEUR-DAMIS'><speaker>MONSIEUR DAMIS.</speaker>
 <p id='1'>
-	<s id='1'>Enfin, charmante Angélique, je puis donc sans témoins vous jurer une tendresse éternelle : il est vrai que mon âge ne répond pas au vôtre. </s>
+	<s id='1'>Enfin, charmante AngÃ©lique, je puis donc sans tÃ©moins vous jurer une tendresse Ã©ternelle : il est vrai que mon Ã¢ge ne rÃ©pond pas au vÃ´tre. </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='2'>
-	<s id='1'>Oui, il y a bien de la différence. </s>
+	<s id='1'>Oui, il y a bien de la diffÃ©rence. </s>
 </p>
 </sp>
 <sp who='MONSIEUR-DAMIS'><speaker>MONSIEUR DAMIS.</speaker>
 <p id='3'>
-	<s id='1'>Cependant on me flatte que vous acceptez ma main sans répugnance. </s>
+	<s id='1'>Cependant on me flatte que vous acceptez ma main sans rÃ©pugnance. </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='4'>
-	<s id='1'>Ma mère le dit. </s>
+	<s id='1'>Ma mÃ¨re le dit. </s>
 </p>
 </sp>
 <sp who='MONSIEUR-DAMIS'><speaker>MONSIEUR DAMIS.</speaker>
 <p id='5'>
-	<s id='1'>Et elle vous a permis de me le confirmer vous-même. </s>
+	<s id='1'>Et elle vous a permis de me le confirmer vous-mÃªme. </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='6'>
-	<s id='1'>Oui, mais on n'est pas obligé d'user des permissions qu'on a. </s>
+	<s id='1'>Oui, mais on n'est pas obligÃ© d'user des permissions qu'on a. </s>
 </p>
 </sp>
 <sp who='MONSIEUR-DAMIS'><speaker>MONSIEUR DAMIS.</speaker>
 <p id='7'>
-	<s id='1'>Est-ce par modestie, est-ce par dégoût que vous me refusez l'aveu que je demande ? </s>
+	<s id='1'>Est-ce par modestie, est-ce par dÃ©goÃ»t que vous me refusez l'aveu que je demande ? </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='8'>
 	<s id='1'>Non, ce n'est pas par modestie. </s>
 </p>
 </sp>
 <sp who='MONSIEUR-DAMIS'><speaker>MONSIEUR DAMIS.</speaker>
 <p id='9'>
-	<s id='1'>Que me dites-vous là ! </s>
-	<s id='2'>C'est donc par dégoût ?... </s>
-	<s id='3'>Vous ne me répondez rien ? </s>
+	<s id='1'>Que me dites-vous lÃ  ! </s>
+	<s id='2'>C'est donc par dÃ©goÃ»t ?... </s>
+	<s id='3'>Vous ne me rÃ©pondez rien ? </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='10'>
 	<s id='1'>C'est que je suis polie. </s>
 </p>
 </sp>
 <sp who='MONSIEUR-DAMIS'><speaker>MONSIEUR DAMIS.</speaker>
 <p id='11'>
-	<s id='1'>Vous n'auriez donc rien de favorable à me répondre ? </s>
+	<s id='1'>Vous n'auriez donc rien de favorable Ã  me rÃ©pondre ? </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='12'>
 	<s id='1'>Il faut que je me taise encore. </s>
 </p>
@@ -1358,7 +1358,7 @@
 	<s id='1'>Toujours par politesse ? </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='14'>
 	<s id='1'>Oh ! </s>
 	<s id='2'>Toujours. </s>
@@ -1366,10 +1366,10 @@
 </sp>
 <sp who='MONSIEUR-DAMIS'><speaker>MONSIEUR DAMIS.</speaker>
 <p id='15'>
-	<s id='1'>Parlez-moi franchement : est-ce que vous me haïssez ? </s>
+	<s id='1'>Parlez-moi franchement : est-ce que vous me haÃ¯ssez ? </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='16'>
 	<s id='1'>Vous embarrassez encore mon savoir-vivre. </s>
 	<s id='2'>Seriez-vous bien aise, si je vous disais oui ? </s>
@@ -1380,7 +1380,7 @@
 	<s id='1'>Vous pourriez dire non. </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='18'>
 	<s id='1'>Encore moins, car je mentirais. </s>
 </p>
@@ -1388,13 +1388,13 @@
 <sp who='MONSIEUR-DAMIS'><speaker>MONSIEUR DAMIS.</speaker>
 <p id='19'>
 	<s id='1'>Quoi ! </s>
-	<s id='2'>vos sentiments vont jusqu'à la haine, Angélique ! </s>
+	<s id='2'>vos sentiments vont jusqu'Ã  la haine, AngÃ©lique ! </s>
 	<s id='3'>J'aurais cru que vous vous contentiez de ne pas m'aimer. </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='20'>
-	<s id='1'>Si vous vous en contentez, et moi aussi, et s'il n'est pas malhonnête d'avouer aux gens qu'on ne les aime point, je ne serai plus embarrassée. </s>
+	<s id='1'>Si vous vous en contentez, et moi aussi, et s'il n'est pas malhonnÃªte d'avouer aux gens qu'on ne les aime point, je ne serai plus embarrassÃ©e. </s>
 </p>
 </sp>
 <sp who='MONSIEUR-DAMIS'><speaker>MONSIEUR DAMIS.</speaker>
@@ -1402,20 +1402,20 @@
 	<s id='1'>Et vous me l'avoueriez ! </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='22'>
 	<s id='1'>Tant qu'il vous plaira. </s>
 </p>
 </sp>
 <sp who='MONSIEUR-DAMIS'><speaker>MONSIEUR DAMIS.</speaker>
 <p id='23'>
-	<s id='1'>C'est une répétition dont je ne suis point curieux ; et ce n'était pas là ce que votre mère m'avait fait entendre. </s>
+	<s id='1'>C'est une rÃ©pÃ©tition dont je ne suis point curieux ; et ce n'Ã©tait pas lÃ  ce que votre mÃ¨re m'avait fait entendre. </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='24'>
 	<s id='1'>Oh ! </s>
-	<s id='2'>Vous pouvez vous en fier à moi ; je sais mieux cela que ma mère, elle a pu se tromper ; mais, pour moi, je vous dis la vérité. </s>
+	<s id='2'>Vous pouvez vous en fier Ã  moi ; je sais mieux cela que ma mÃ¨re, elle a pu se tromper ; mais, pour moi, je vous dis la vÃ©ritÃ©. </s>
 </p>
 </sp>
 <sp who='MONSIEUR-DAMIS'><speaker>MONSIEUR DAMIS.</speaker>
@@ -1423,32 +1423,32 @@
 	<s id='1'>Qui est que vous ne m'aimez point ? </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='26'>
 	<s id='1'>Oh ! </s>
-	<s id='2'>Du tout ; je ne saurais ; et ce n'est pas par malice, c'est naturellement : et vous, qui êtes, à ce qu'on dit, un si honnête homme, si, en faveur de ma sincérité, vous vouliez ne me plus aimer et me laisser là, car aussi bien je ne suis pas si belle que vous le croyez, tenez, vous en trouverez cent qui vaudront mieux que moi. </s>
+	<s id='2'>Du tout ; je ne saurais ; et ce n'est pas par malice, c'est naturellement : et vous, qui Ãªtes, Ã  ce qu'on dit, un si honnÃªte homme, si, en faveur de ma sincÃ©ritÃ©, vous vouliez ne me plus aimer et me laisser lÃ , car aussi bien je ne suis pas si belle que vous le croyez, tenez, vous en trouverez cent qui vaudront mieux que moi. </s>
 </p>
 </sp>
-<sp who='MONSIEUR-DAMIS'><speaker>MONSIEUR DAMIS, les premiers mots à part.</speaker>
+<sp who='MONSIEUR-DAMIS'><speaker>MONSIEUR DAMIS, les premiers mots Ã  part.</speaker>
 <p id='27'>
 	<s id='1'>Voyons si elle aime ailleurs. </s>
-	<s id='2'>Mon intention, assurément, n'est pas qu'on vous contraigne.</s>
+	<s id='2'>Mon intention, assurÃ©ment, n'est pas qu'on vous contraigne.</s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='28'>
-	<s id='1'>Ce que vous dites là est bien raisonnable, et je ferai grand cas de vous si vous continuez. </s>
+	<s id='1'>Ce que vous dites lÃ  est bien raisonnable, et je ferai grand cas de vous si vous continuez. </s>
 </p>
 </sp>
 <sp who='MONSIEUR-DAMIS'><speaker>MONSIEUR DAMIS.</speaker>
 <p id='29'>
-	<s id='1'>Je suis même fâché de ne l'avoir pas su plus tôt. </s>
+	<s id='1'>Je suis mÃªme fÃ¢chÃ© de ne l'avoir pas su plus tÃ´t. </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='30'>
-	<s id='1'>Hélas ! </s>
-	<s id='2'>Si vous me l'aviez demandé, je vous l'aurais dit. </s>
+	<s id='1'>HÃ©las ! </s>
+	<s id='2'>Si vous me l'aviez demandÃ©, je vous l'aurais dit. </s>
 </p>
 </sp>
 <sp who='MONSIEUR-DAMIS'><speaker>MONSIEUR DAMIS.</speaker>
@@ -1456,18 +1456,18 @@
 	<s id='1'>Et il faut y mettre ordre. </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='32'>
-	<s id='1'>Que vous êtes bon et obligeant ! </s>
-	<s id='2'>N'allez pourtant pas dire à ma mère que je vous ai confié que je ne vous aime point, parce qu'elle se mettrait en colère contre moi ; mais faites mieux ; dites-lui seulement que vous ne me trouvez pas assez d'esprit pour vous, que je n'ai pas tant de mérite que vous l'aviez cru, comme c'est la vérité ; enfin, que vous avez encore besoin de vous consulter : ma mère, qui est fort fière, ne manquera pas de se choquer, elle rompra tout, notre mariage ne se fera point, et je vous aurai, je vous jure, une obligation infinie. </s>
+	<s id='1'>Que vous Ãªtes bon et obligeant ! </s>
+	<s id='2'>N'allez pourtant pas dire Ã  ma mÃ¨re que je vous ai confiÃ© que je ne vous aime point, parce qu'elle se mettrait en colÃ¨re contre moi ; mais faites mieux ; dites-lui seulement que vous ne me trouvez pas assez d'esprit pour vous, que je n'ai pas tant de mÃ©rite que vous l'aviez cru, comme c'est la vÃ©ritÃ© ; enfin, que vous avez encore besoin de vous consulter : ma mÃ¨re, qui est fort fiÃ¨re, ne manquera pas de se choquer, elle rompra tout, notre mariage ne se fera point, et je vous aurai, je vous jure, une obligation infinie. </s>
 </p>
 </sp>
 <sp who='MONSIEUR-DAMIS'><speaker>MONSIEUR DAMIS.</speaker>
 <p id='33'>
-	<s id='1'>Non, Angélique, non, vous êtes trop aimable ; elle se douterait que c'est vous qui ne voulez pas, et tous ces prétextes-là ne valent rien ; il n'y en a qu'un bon ; aimez-vous ailleurs ? </s>
+	<s id='1'>Non, AngÃ©lique, non, vous Ãªtes trop aimable ; elle se douterait que c'est vous qui ne voulez pas, et tous ces prÃ©textes-lÃ  ne valent rien ; il n'y en a qu'un bon ; aimez-vous ailleurs ? </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='34'>
 	<s id='1'>Moi ! </s>
 	<s id='2'>Non ; n'allez pas le croire. </s>
@@ -1475,10 +1475,10 @@
 </sp>
 <sp who='MONSIEUR-DAMIS'><speaker>MONSIEUR DAMIS.</speaker>
 <p id='35'>
-	<s id='1'>Sur ce pied-là, je n'ai point d'excuse ; j'ai promis de vous épouser, et il faut que je tienne parole ; au lieu que, si vous aimiez quelqu'un, je ne lui dirais pas que vous me l'avez avoué ; mais seulement que je m'en doute. </s>
+	<s id='1'>Sur ce pied-lÃ , je n'ai point d'excuse ; j'ai promis de vous Ã©pouser, et il faut que je tienne parole ; au lieu que, si vous aimiez quelqu'un, je ne lui dirais pas que vous me l'avez avouÃ© ; mais seulement que je m'en doute. </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='36'>
 	<s id='1'>Eh bien ! </s>
 	<s id='2'>Doutez-vous-en donc. </s>
@@ -1486,10 +1486,10 @@
 </sp>
 <sp who='MONSIEUR-DAMIS'><speaker>MONSIEUR DAMIS.</speaker>
 <p id='37'>
-	<s id='1'>Mais il n'est pas possible que je m'en doute si cela n'est pas vrai ; autrement ce serait être de mauvaise foi ; et, malgré toute l'envie que j'ai de vous obliger, je ne saurais dire une imposture. </s>
+	<s id='1'>Mais il n'est pas possible que je m'en doute si cela n'est pas vrai ; autrement ce serait Ãªtre de mauvaise foi ; et, malgrÃ© toute l'envie que j'ai de vous obliger, je ne saurais dire une imposture. </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='38'>
 	<s id='1'>Allez, allez, n'ayez point de scrupule, vous parlerez en homme d'honneur. </s>
 </p>
@@ -1499,19 +1499,19 @@
 	<s id='1'>Vous aimez donc ? </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='40'>
 	<s id='1'>Mais ne me trahissez-vous point, Monsieur Damis ? </s>
 </p>
 </sp>
 <sp who='MONSIEUR-DAMIS'><speaker>MONSIEUR DAMIS.</speaker>
 <p id='41'>
-	<s id='1'>Je n'ai que vos véritables intérêts en vue. </s>
+	<s id='1'>Je n'ai que vos vÃ©ritables intÃ©rÃªts en vue. </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='42'>
-	<s id='1'>Quel bon caractère ! </s>
+	<s id='1'>Quel bon caractÃ¨re ! </s>
 	<s id='2'>Oh ! </s>
 	<s id='3'>Que je vous aimerais, si vous n'aviez que vingt ans ! </s>
 </p>
@@ -1521,9 +1521,9 @@
 	<s id='1'>Eh bien ? </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='44'>
-	<s id='1'>Vraiment, oui, il y a quelqu'un qui me plaît... </s>
+	<s id='1'>Vraiment, oui, il y a quelqu'un qui me plaÃ®t... </s>
 </p>
 <stage>Frontin arrive. </stage>
 <p id='45'>
@@ -1534,22 +1534,22 @@
 <p id='46'>
 	<s id='1'>Nous y allons. </s>
 </p>
-<stage>À Angélique</stage>
+<stage>Ã€ AngÃ©lique</stage>
 <p id='47'>
-	<s id='1'>Et où avez-vous connu celui qui vous plaît ? </s>
+	<s id='1'>Et oÃ¹ avez-vous connu celui qui vous plaÃ®t ? </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='48'>
 	<s id='1'>Ah ! </s>
-	<s id='2'>Ne m'en demandez pas davantage ; puisque vous ne voulez que vous douter que j'aime, en voilà plus qu'il n'en faut pour votre probité, et je vais vous annoncer là-haut. </s>
+	<s id='2'>Ne m'en demandez pas davantage ; puisque vous ne voulez que vous douter que j'aime, en voilÃ  plus qu'il n'en faut pour votre probitÃ©, et je vais vous annoncer lÃ -haut. </s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='13'><head>SCÈNE XIII. Monsieur Damis, Frontin.</head>
-<sp who='MONSIEUR-DAMIS'><speaker>MONSIEUR DAMIS, les premiers mots à part. </speaker>
+<div2 type="scene" n='13'><head>SCÃˆNE XIII. Monsieur Damis, Frontin.</head>
+<sp who='MONSIEUR-DAMIS'><speaker>MONSIEUR DAMIS, les premiers mots Ã  part. </speaker>
 <p id='1'>
-	<s id='1'>Ceci me chagrine, mais je l'aime trop pour la céder à personne. </s>
+	<s id='1'>Ceci me chagrine, mais je l'aime trop pour la cÃ©der Ã  personne. </s>
 	<s id='2'>Frontin ! </s>
 	<s id='3'>Frontin ! </s>
 	<s id='4'>Approche, je voudrais te dire un mot. </s>
@@ -1562,13 +1562,13 @@
 </sp>
 <sp who='MONSIEUR-DAMIS'><speaker>MONSIEUR DAMIS.</speaker>
 <p id='3'>
-	<s id='1'>Je ne tarderai qu'un moment viens, j'ai remarqué que tu es un garçon d'esprit. </s>
+	<s id='1'>Je ne tarderai qu'un moment viens, j'ai remarquÃ© que tu es un garÃ§on d'esprit. </s>
 </p>
 </sp>
 <sp who='FRONTIN'><speaker>FRONTIN.</speaker>
 <p id='4'>
 	<s id='1'>Eh ! </s>
-	<s id='2'>J'ai des jours où je n'en manque pas, </s>
+	<s id='2'>J'ai des jours oÃ¹ je n'en manque pas, </s>
 </p>
 </sp>
 <sp who='MONSIEUR-DAMIS'><speaker>MONSIEUR DAMIS.</speaker>
@@ -1578,7 +1578,7 @@
 </sp>
 <sp who='FRONTIN'><speaker>FRONTIN.</speaker>
 <p id='6'>
-	<s id='1'>Vous marchandez ma fidélité ; mais je suis dans mon jour d'esprit, il n'y a rien à faire, je sens combien il faut être discret. </s>
+	<s id='1'>Vous marchandez ma fidÃ©litÃ© ; mais je suis dans mon jour d'esprit, il n'y a rien Ã  faire, je sens combien il faut Ãªtre discret. </s>
 </p>
 </sp>
 <sp who='MONSIEUR-DAMIS'><speaker>MONSIEUR DAMIS.</speaker>
@@ -1588,31 +1588,31 @@
 </sp>
 <sp who='FRONTIN'><speaker>FRONTIN.</speaker>
 <p id='8'>
-	<s id='1'>Arrêtez donc, Monsieur, ces débuts-là m'attendrissent toujours. </s>
+	<s id='1'>ArrÃªtez donc, Monsieur, ces dÃ©buts-lÃ  m'attendrissent toujours. </s>
 </p>
 </sp>
 <sp who='MONSIEUR-DAMIS'><speaker>MONSIEUR DAMIS.</speaker>
 <p id='9'>
-	<s id='1'>Voilà ma bourse. </s>
+	<s id='1'>VoilÃ  ma bourse. </s>
 </p>
 </sp>
 <sp who='FRONTIN'><speaker>FRONTIN.</speaker>
 <p id='10'>
-	<s id='1'>Quel embonpoint séduisant ! </s>
+	<s id='1'>Quel embonpoint sÃ©duisant ! </s>
 	<s id='2'>Qu'il a l'air vainqueur ! </s>
 </p>
 </sp>
 <sp who='MONSIEUR-DAMIS'><speaker>MONSIEUR DAMIS.</speaker>
 <p id='11'>
-	<s id='1'>Elle est à toi, si tu veux me confier ce que tu sais sur le chapitre d'Angélique. </s>
-	<s id='2'>Je viens adroitement de lui faire avouer qu'elle a un amant ; et observée comme elle est par sa mère, elle ne peut ni l'avoir vu ni avoir de ses nouvelles que par le moyen des domestiques : tu t'en es peut-être mêlé toi-même, ou tu sais qui s'en mêle, et je voudrais écarter cet homme-là ; quel est-il ? </s>
-	<s id='3'>Où se sont-ils vus ? </s>
+	<s id='1'>Elle est Ã  toi, si tu veux me confier ce que tu sais sur le chapitre d'AngÃ©lique. </s>
+	<s id='2'>Je viens adroitement de lui faire avouer qu'elle a un amant ; et observÃ©e comme elle est par sa mÃ¨re, elle ne peut ni l'avoir vu ni avoir de ses nouvelles que par le moyen des domestiques : tu t'en es peut-Ãªtre mÃªlÃ© toi-mÃªme, ou tu sais qui s'en mÃªle, et je voudrais Ã©carter cet homme-lÃ  ; quel est-il ? </s>
+	<s id='3'>OÃ¹ se sont-ils vus ? </s>
 	<s id='4'>Je te garderai le secret. </s>
 </p>
 </sp>
 <sp who='FRONTIN'><speaker>FRONTIN, prenant la bourse.</speaker>
 <p id='12'>
-	<s id='1'>Je résisterais à ce que vous dites, mais ce que vous tenez m'entraîne, et je me rends. </s>
+	<s id='1'>Je rÃ©sisterais Ã  ce que vous dites, mais ce que vous tenez m'entraÃ®ne, et je me rends. </s>
 </p>
 </sp>
 <sp who='MONSIEUR-DAMIS'><speaker>MONSIEUR DAMIS.</speaker>
@@ -1622,7 +1622,7 @@
 </sp>
 <sp who='FRONTIN'><speaker>FRONTIN.</speaker>
 <p id='14'>
-	<s id='1'>Vous me demandez un détail que j'ignore ; il n'y a que Lisette qui soit parfaitement instruite dans cette intrigue-là. </s>
+	<s id='1'>Vous me demandez un dÃ©tail que j'ignore ; il n'y a que Lisette qui soit parfaitement instruite dans cette intrigue-lÃ . </s>
 </p>
 </sp>
 <sp who='MONSIEUR-DAMIS'><speaker>MONSIEUR DAMIS.</speaker>
@@ -1632,13 +1632,13 @@
 </sp>
 <sp who='FRONTIN'><speaker>FRONTIN.</speaker>
 <p id='16'>
-	<s id='1'>Prenez garde, vous ne sauriez la condamner sans me faire mon procès. </s>
-	<s id='2'>Je viens de céder à un trait d'éloquence qu'on aura peut-être employé contre elle ; au reste je ne connais le jeune homme en question que depuis une heure ; il est actuellement dans ma chambre ; Lisette en a fait mon parent, et dans quelques moments, elle doit l'introduire ici même où je suis chargé d'éteindre les bougies, et où elle doit arriver avec Angélique pour y traiter ensemble des moyens de rompre votre mariage. </s>
+	<s id='1'>Prenez garde, vous ne sauriez la condamner sans me faire mon procÃ¨s. </s>
+	<s id='2'>Je viens de cÃ©der Ã  un trait d'Ã©loquence qu'on aura peut-Ãªtre employÃ© contre elle ; au reste je ne connais le jeune homme en question que depuis une heure ; il est actuellement dans ma chambre ; Lisette en a fait mon parent, et dans quelques moments, elle doit l'introduire ici mÃªme oÃ¹ je suis chargÃ© d'Ã©teindre les bougies, et oÃ¹ elle doit arriver avec AngÃ©lique pour y traiter ensemble des moyens de rompre votre mariage. </s>
 </p>
 </sp>
 <sp who='MONSIEUR-DAMIS'><speaker>MONSIEUR DAMIS.</speaker>
 <p id='17'>
-	<s id='1'>Il ne tiendra donc qu'à toi que je sois pleinement instruit de tout. </s>
+	<s id='1'>Il ne tiendra donc qu'Ã  toi que je sois pleinement instruit de tout. </s>
 </p>
 </sp>
 <sp who='FRONTIN'><speaker>FRONTIN.</speaker>
@@ -1648,13 +1648,13 @@
 </sp>
 <sp who='MONSIEUR-DAMIS'><speaker>MONSIEUR DAMIS.</speaker>
 <p id='19'>
-	<s id='1'>Tu n'as qu'à souffrir que je me cache ici ; on ne m'y verra pas, puisque tu vas en ôter les lumières, et j'écouterai tout ce qu'ils diront. </s>
+	<s id='1'>Tu n'as qu'Ã  souffrir que je me cache ici ; on ne m'y verra pas, puisque tu vas en Ã´ter les lumiÃ¨res, et j'Ã©couterai tout ce qu'ils diront. </s>
 </p>
 </sp>
 <sp who='FRONTIN'><speaker>FRONTIN.</speaker>
-<note type="L">Domino : coiffure des prêtres pendant l'hiver. C'est une pièce de draps qui leur couvre la tête, qui leur serre le visage, et descend jusqu'au dessous des épaules. [F]</note>
+<note type="L">Domino : coiffure des prÃªtres pendant l'hiver. C'est une piÃ¨ce de draps qui leur couvre la tÃªte, qui leur serre le visage, et descend jusqu'au dessous des Ã©paules. [F]</note>
 <p id='20'>
-	<s id='1'>Vous avez raison ; attendez, quelques amis de la maison qui sont là-haut, et qui veulent se déguiser après souper pour se divertir, ont fait apporter des dominos qu'on a mis dans le petit cabinet à côté de la salle, voulez-vous que je vous en donne un ? </s>
+	<s id='1'>Vous avez raison ; attendez, quelques amis de la maison qui sont lÃ -haut, et qui veulent se dÃ©guiser aprÃ¨s souper pour se divertir, ont fait apporter des dominos qu'on a mis dans le petit cabinet Ã  cÃ´tÃ© de la salle, voulez-vous que je vous en donne un ? </s>
 </p>
 </sp>
 <sp who='MONSIEUR-DAMIS'><speaker>MONSIEUR DAMIS.</speaker>
@@ -1673,28 +1673,28 @@
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='14'><head>SCÈNE XIV. Monsieur Damis, Frontin.</head>
+<div2 type="scene" n='14'><head>SCÃˆNE XIV. Monsieur Damis, Frontin.</head>
 <sp who='MONSIEUR-DAMIS'><speaker>MONSIEUR DAMIS, un moment seul. </speaker>
 <p id='1'>
 	<s id='1'>Je ne saurais mieux m'y prendre pour savoir de quoi il est question. </s>
-	<s id='2'>Si je vois que l'amour d'Angélique aille à un certain point, il ne s'agit plus de mariage ; cependant je tremble. </s>
-	<s id='3'>Qu'on est malheureux d'aimer à mon âge ! </s>
+	<s id='2'>Si je vois que l'amour d'AngÃ©lique aille Ã  un certain point, il ne s'agit plus de mariage ; cependant je tremble. </s>
+	<s id='3'>Qu'on est malheureux d'aimer Ã  mon Ã¢ge ! </s>
 </p>
 </sp>
 <sp who='FRONTIN'><speaker>FRONTIN revient.</speaker>
 <p id='2'>
-	<s id='1'>Tenez, Monsieur, voilà tout votre attirail, jusqu'à un masque : c'est un visage qui ne vous donnera que dix-huit ans, vous ne perdrez rien au change ; ajustez-vous vite ; bon ! </s>
-	<s id='2'>Mettez-vous là et ne remuez pas ; voilà les lumières éteintes, bonsoir. </s>
+	<s id='1'>Tenez, Monsieur, voilÃ  tout votre attirail, jusqu'Ã  un masque : c'est un visage qui ne vous donnera que dix-huit ans, vous ne perdrez rien au change ; ajustez-vous vite ; bon ! </s>
+	<s id='2'>Mettez-vous lÃ  et ne remuez pas ; voilÃ  les lumiÃ¨res Ã©teintes, bonsoir. </s>
 </p>
 </sp>
 <sp who='MONSIEUR-DAMIS'><speaker>MONSIEUR DAMIS.</speaker>
 <p id='3'>
-	<s id='1'>Écoute ; le jeune homme va venir, et je rêve à une chose ; quand Lisette et Angélique seront entrées, dis à la mère, de ma part, que je la prie de se rendre ici sans bruit, cela ne te compromet point, et tu y gagneras. </s>
+	<s id='1'>Ã‰coute ; le jeune homme va venir, et je rÃªve Ã  une chose ; quand Lisette et AngÃ©lique seront entrÃ©es, dis Ã  la mÃ¨re, de ma part, que je la prie de se rendre ici sans bruit, cela ne te compromet point, et tu y gagneras. </s>
 </p>
 </sp>
 <sp who='FRONTIN'><speaker>FRONTIN.</speaker>
 <p id='4'>
-	<s id='1'>Mais vous prenez donc cette commission-là à crédit ? </s>
+	<s id='1'>Mais vous prenez donc cette commission-lÃ  Ã  crÃ©dit ? </s>
 </p>
 </sp>
 <sp who='MONSIEUR-DAMIS'><speaker>MONSIEUR DAMIS.</speaker>
@@ -1703,16 +1703,16 @@
 </p>
 </sp>
 <sp who='FRONTIN'><speaker>FRONTIN.</speaker>
-<stage>Il tâtonne.</stage>
+<stage>Il tÃ¢tonne.</stage>
 <p id='6'>
 	<s id='1'>Soit. </s>
 	<s id='2'>Je sors... </s>
-	<s id='3'>J'ai de la peine à trouver mon chemin ; mais j'entends quelqu'un... </s>
+	<s id='3'>J'ai de la peine Ã  trouver mon chemin ; mais j'entends quelqu'un... </s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='15'><head>SCÈNE XV. Lisette, Eraste, Frontin, Monsieur Damis.</head> 
-<stage>Lisette est à la porte avec Eraste pour entrer. </stage>
+<div2 type="scene" n='15'><head>SCÃˆNE XV. Lisette, Eraste, Frontin, Monsieur Damis.</head> 
+<stage>Lisette est Ã  la porte avec Eraste pour entrer. </stage>
 <sp who='FRONTIN'><speaker>FRONTIN.</speaker>
 <p id='1'>
 	<s id='1'>Est-ce toi, Lisette ? </s>
@@ -1720,12 +1720,12 @@
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 <p id='2'>
-	<s id='1'>Oui, à qui parles-tu donc là ? </s>
+	<s id='1'>Oui, Ã  qui parles-tu donc lÃ  ? </s>
 </p>
 </sp>
 <sp who='FRONTIN'><speaker>FRONTIN.</speaker>
 <p id='3'>
-	<s id='1'>À la nuit, qui m'empêchait de retrouver la porte. </s>
+	<s id='1'>Ã€ la nuit, qui m'empÃªchait de retrouver la porte. </s>
 	<s id='2'>Avec qui es-tu, toi ? </s>
 </p>
 </sp>
@@ -1734,7 +1734,7 @@
 	<s id='1'>Parle bas ; avec Eraste que je fais entrer dans la salle. </s>
 </p>
 </sp>
-<sp who='MONSIEUR-DAMIS'><speaker>MONSIEUR DAMIS, à part.</speaker>
+<sp who='MONSIEUR-DAMIS'><speaker>MONSIEUR DAMIS, Ã  part.</speaker>
 <p id='5'>
 	<s id='1'>Eraste ! </s>
 </p>
@@ -1742,16 +1742,16 @@
 <sp who='FRONTIN'><speaker>FRONTIN.</speaker>
 <p id='6'>
 	<s id='1'>Bon ! </s>
-	<s id='2'>Où est-il ? </s>
+	<s id='2'>OÃ¹ est-il ? </s>
 </p>
 <stage>Il appelle.</stage>
 <p id='7'>
-	<s id='1'>La Ramée ! </s>
+	<s id='1'>La RamÃ©e ! </s>
 </p>
 </sp>
-<sp who='ÉRASTE'><speaker>ÉRASTE.</speaker>
+<sp who='Ã‰RASTE'><speaker>Ã‰RASTE.</speaker>
 <p id='8'>
-	<s id='1'>Me voilà. </s>
+	<s id='1'>Me voilÃ . </s>
 </p>
 </sp>
 <sp who='FRONTIN'><speaker>FRONTIN, le prenant par le bras.</speaker>
@@ -1761,36 +1761,36 @@
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 <p id='10'>
-	<s id='1'>Adieu ; dans un moment je reviens avec ma maîtresse. </s>
+	<s id='1'>Adieu ; dans un moment je reviens avec ma maÃ®tresse. </s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='16'><head>SCÈNE XVI. Eraste, Monsieur Damis, caché.</head>
-<sp who='ÉRASTE'><speaker>ÉRASTE.</speaker>
+<div2 type="scene" n='16'><head>SCÃˆNE XVI. Eraste, Monsieur Damis, cachÃ©.</head>
+<sp who='Ã‰RASTE'><speaker>Ã‰RASTE.</speaker>
 <p id='1'>
-	<s id='1'>Je ne saurais douter qu'Angélique ne m'aime ; mais sa timidité m'inquiète, et je crains de ne pouvoir l'enhardir à dédire sa mère. </s>
+	<s id='1'>Je ne saurais douter qu'AngÃ©lique ne m'aime ; mais sa timiditÃ© m'inquiÃ¨te, et je crains de ne pouvoir l'enhardir Ã  dÃ©dire sa mÃ¨re. </s>
 </p>
 </sp>
-<sp who='MONSIEUR-DAMIS'><speaker>MONSIEUR DAMIS, à part.</speaker>
+<sp who='MONSIEUR-DAMIS'><speaker>MONSIEUR DAMIS, Ã  part.</speaker>
 <p id='2'>
 	<s id='1'>Est-ce que je me trompe ? </s>
-	<s id='2'>C'est la voix de mon fils, écoutons. </s>
+	<s id='2'>C'est la voix de mon fils, Ã©coutons. </s>
 </p>
 </sp>
-<sp who='ÉRASTE'><speaker>ÉRASTE.</speaker>
+<sp who='Ã‰RASTE'><speaker>Ã‰RASTE.</speaker>
 <p id='3'>
-	<s id='1'>Tâchons de ne pas faire de bruit. </s>
+	<s id='1'>TÃ¢chons de ne pas faire de bruit. </s>
 </p>
-<stage>Il marche en tâtonnant. </stage>
+<stage>Il marche en tÃ¢tonnant. </stage>
 </sp>
 <sp who='MONSIEUR-DAMIS'><speaker>MONSIEUR DAMIS.</speaker>
 <p id='4'>
-	<s id='1'>Je crois qu'il vient à moi ; changeons de place. </s>
+	<s id='1'>Je crois qu'il vient Ã  moi ; changeons de place. </s>
 </p>
 </sp>
-<sp who='ÉRASTE'><speaker>ÉRASTE.</speaker>
+<sp who='Ã‰RASTE'><speaker>Ã‰RASTE.</speaker>
 <p id='5'>
-	<s id='1'>J'entends remuer du taffetas ; est-ce vous, Angélique, est-ce vous ? </s>
+	<s id='1'>J'entends remuer du taffetas ; est-ce vous, AngÃ©lique, est-ce vous ? </s>
 </p>
 <stage>En disant cela, il attrape Monsieur Damis par le domino. </stage>
 </sp>
@@ -1799,176 +1799,176 @@
 	<s id='1'>Doucement !... </s>
 </p>
 </sp>
-<sp who='ÉRASTE'><speaker>ÉRASTE.</speaker>
+<sp who='Ã‰RASTE'><speaker>Ã‰RASTE.</speaker>
 <p id='7'>
 	<s id='1'>Ah ! </s>
-	<s id='2'>C'est vous-même. </s>
+	<s id='2'>C'est vous-mÃªme. </s>
 </p>
 </sp>
-<sp who='MONSIEUR-DAMIS'><speaker>MONSIEUR DAMIS, à part. </speaker>
+<sp who='MONSIEUR-DAMIS'><speaker>MONSIEUR DAMIS, Ã  part. </speaker>
 <p id='8'>
 	<s id='1'>C'est mon fils. </s>
 </p>
 </sp>
-<sp who='ÉRASTE'><speaker>ÉRASTE.</speaker>
+<sp who='Ã‰RASTE'><speaker>Ã‰RASTE.</speaker>
 <p id='9'>
 	<s id='1'>Eh bien ! </s>
-	<s id='2'>Angélique, me condamnerez-vous à mourir de douleur ? </s>
-	<s id='3'>Vous m'avez dit tantôt que vous m'aimiez ; vos beaux yeux me l'ont confirmé par les regards les plus aimables et les plus tendres ; mais de quoi me servira d'être aimé, si je vous perds ? </s>
-	<s id='4'>Au nom de notre amour, Angélique, puisque vous m'avez permis de me flatter du vôtre, gardez-vous à ma tendresse, je vous en conjure par ces charmes que le ciel semble n'avoir destinés que pour moi ; par cette main adorable sur qui je vous jure un amour éternel. </s>
+	<s id='2'>AngÃ©lique, me condamnerez-vous Ã  mourir de douleur ? </s>
+	<s id='3'>Vous m'avez dit tantÃ´t que vous m'aimiez ; vos beaux yeux me l'ont confirmÃ© par les regards les plus aimables et les plus tendres ; mais de quoi me servira d'Ãªtre aimÃ©, si je vous perds ? </s>
+	<s id='4'>Au nom de notre amour, AngÃ©lique, puisque vous m'avez permis de me flatter du vÃ´tre, gardez-vous Ã  ma tendresse, je vous en conjure par ces charmes que le ciel semble n'avoir destinÃ©s que pour moi ; par cette main adorable sur qui je vous jure un amour Ã©ternel. </s>
 </p>
 <stage>Monsieur Damis veut retirer sa main.</stage>
 <p id='10'>
-	<s id='1'>Ne la retirez pas, Angélique, et dédommagez Eraste du plaisir qu'il n'a point de voir vos beaux yeux, par l'assurance de n'être jamais qu'à lui ; parlez, Angélique. </s>
+	<s id='1'>Ne la retirez pas, AngÃ©lique, et dÃ©dommagez Eraste du plaisir qu'il n'a point de voir vos beaux yeux, par l'assurance de n'Ãªtre jamais qu'Ã  lui ; parlez, AngÃ©lique. </s>
 </p>
 </sp>
-<sp who='MONSIEUR-DAMIS'><speaker>MONSIEUR DAMIS, à part, les premiers mots. </speaker>
+<sp who='MONSIEUR-DAMIS'><speaker>MONSIEUR DAMIS, Ã  part, les premiers mots. </speaker>
 <p id='11'>
 	<s id='1'>J'entends du bruit. </s>
 	<s id='2'>Taisez-vous, petit sot. </s>
 </p>
 <stage>Et il se retire d'Eraste. </stage>
 </sp>
-<sp who='ÉRASTE'><speaker>ÉRASTE.</speaker>
+<sp who='Ã‰RASTE'><speaker>Ã‰RASTE.</speaker>
 <p id='12'>
 	<s id='1'>Juste ciel ! </s>
 	<s id='2'>Qu'entends-je ? </s>
 	<s id='3'>Vous me fuyez ! </s>
 	<s id='4'>Ah ! </s>
-	<s id='5'>Lisette, n'es-tu pas là ?</s>
+	<s id='5'>Lisette, n'es-tu pas lÃ  ?</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='17'><head>SCÈNE XVII. Angélique et Lisette qui entrent, Monsieur Damis, Eraste.</head>
+<div2 type="scene" n='17'><head>SCÃˆNE XVII. AngÃ©lique et Lisette qui entrent, Monsieur Damis, Eraste.</head>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 <p id='1'>
 	<s id='1'>Nous voici, Monsieur. </s>
 </p>
 </sp>
-<sp who='ÉRASTE'><speaker>ÉRASTE.</speaker>
+<sp who='Ã‰RASTE'><speaker>Ã‰RASTE.</speaker>
 <p id='2'>
-	<s id='1'>Je suis au désespoir, ta maîtresse me fuit. </s>
+	<s id='1'>Je suis au dÃ©sespoir, ta maÃ®tresse me fuit. </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='3'>
 	<s id='1'>Moi, Eraste ? </s>
-	<s id='2'>Je ne vous fuis point, me voilà. </s>
+	<s id='2'>Je ne vous fuis point, me voilÃ . </s>
 </p>
 </sp>
-<sp who='ÉRASTE'><speaker>ÉRASTE.</speaker>
+<sp who='Ã‰RASTE'><speaker>Ã‰RASTE.</speaker>
 <p id='4'>
 	<s id='1'>Eh quoi ! </s>
 	<s id='2'>Ne venez-vous pas de me dire tout ce qu'il y a de plus cruel ? </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='5'>
 	<s id='1'>Eh ! </s>
 	<s id='2'>Je n'ai encore dit qu'un mot. </s>
 </p>
 </sp>
-<sp who='ÉRASTE'><speaker>ÉRASTE.</speaker>
+<sp who='Ã‰RASTE'><speaker>Ã‰RASTE.</speaker>
 <p id='6'>
-	<s id='1'>Il est vrai, mais il m'a marqué le dernier mépris. </s>
+	<s id='1'>Il est vrai, mais il m'a marquÃ© le dernier mÃ©pris. </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='7'>
-	<s id='1'>Il faut que vous ayez mal entendu, Eraste : est-ce qu'on méprise les gens qu'on aime ? </s>
+	<s id='1'>Il faut que vous ayez mal entendu, Eraste : est-ce qu'on mÃ©prise les gens qu'on aime ? </s>
 </p>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 <p id='8'>
-	<s id='1'>En effet, rêvez-vous, Monsieur ? </s>
+	<s id='1'>En effet, rÃªvez-vous, Monsieur ? </s>
 </p>
 </sp>
-<sp who='ÉRASTE'><speaker>ÉRASTE.</speaker>
+<sp who='Ã‰RASTE'><speaker>Ã‰RASTE.</speaker>
 <p id='9'>
-	<s id='1'>Je n'y comprends donc rien ; mais vous me rassurez, puisque vous me dites que vous m'aimez ; daignez me le répéter encore. </s>
-</p>  
+	<s id='1'>Je n'y comprends donc rien ; mais vous me rassurez, puisque vous me dites que vous m'aimez ; daignez me le rÃ©pÃ©ter encore. </s>
+</p>Â  
 </sp>
 </div2>
-<div2 type='scene' n='18'><head>SCÈNE XVIII. Madame Argante, introduite par Frontin, Lisette, Eraste, Angélique, Monsieur Damis </head>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<div2 type="scene" n='18'><head>SCÃˆNE XVIII. Madame Argante, introduite par Frontin, Lisette, Eraste, AngÃ©lique, Monsieur Damis </head>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='1'>
-	<s id='1'>Vraiment, ce n'est pas là l'embarras, et je vous le répéterais avec plaisir, mais vous le savez bien assez. </s>
+	<s id='1'>Vraiment, ce n'est pas lÃ  l'embarras, et je vous le rÃ©pÃ©terais avec plaisir, mais vous le savez bien assez. </s>
 </p>
 </sp>
-<sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE, à part.</speaker>
+<sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE, Ã  part.</speaker>
 <p id='2'>
 	<s id='1'>Qu'entends-je ? </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='3'>
-	<s id='1'>Et d'ailleurs on m'a dit qu'il fallait être plus retenue dans les discours qu'on tient à son amant. </s>
+	<s id='1'>Et d'ailleurs on m'a dit qu'il fallait Ãªtre plus retenue dans les discours qu'on tient Ã  son amant. </s>
 </p>
 </sp>
-<sp who='ÉRASTE'><speaker>ÉRASTE.</speaker>
+<sp who='Ã‰RASTE'><speaker>Ã‰RASTE.</speaker>
 <p id='4'>
 	<s id='1'>Quelle aimable franchise ! </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='5'>
-	<s id='1'>Mais je vais comme le coeur me mène, sans y entendre plus de finesse ; j'ai du plaisir à vous voir, et je vous vois, et s'il y a de ma faute à vous avouer si souvent que je vous aime, je la mets sur votre compte, et je ne veux point y avoir part. </s>
+	<s id='1'>Mais je vais comme le coeur me mÃ¨ne, sans y entendre plus de finesse ; j'ai du plaisir Ã  vous voir, et je vous vois, et s'il y a de ma faute Ã  vous avouer si souvent que je vous aime, je la mets sur votre compte, et je ne veux point y avoir part. </s>
 </p>
 </sp>
-<sp who='ÉRASTE'><speaker>ÉRASTE.</speaker>
+<sp who='Ã‰RASTE'><speaker>Ã‰RASTE.</speaker>
 <p id='6'>
 	<s id='1'>Que vous me charmez ! </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='7'>
-	<s id='1'>Si ma mère m'avait donné plus d'expérience ; si j'avais été un peu dans le monde, je vous aimerais peut-être sans vous le dire ; je vous ferais languir pour le savoir ; je retiendrais mon coeur, cela n'irait pas si vite, et vous m'auriez déjà dit que je suis une ingrate ; mais je ne saurais la contrefaire. </s>
-	<s id='2'>Mettez-vous à ma place ; j'ai tant souffert de contrainte, ma mère m'a rendu la vie si triste ! </s>
-	<s id='3'>j'ai eu si peu de satisfaction, elle a tant mortifié mes sentiments ! </s>
-	<s id='4'>Je suis si lasse de les cacher, que, lorsque je suis contente, et que je le puis dire, je l'ai déjà dit avant que de savoir que j'ai parlé ; c'est comme quelqu'un qui respire, et imaginez-vous à présent ce que c'est qu'une fille qui a toujours été gênée, qui est avec vous, que vous aimez, qui ne vous hait pas, qui vous aime, qui est franche, qui n'a jamais eu le plaisir de dire ce qu'elle pense, qui ne pensera jamais rien de si touchant, et voyez si je puis résister à tout cela. </s>
+	<s id='1'>Si ma mÃ¨re m'avait donnÃ© plus d'expÃ©rience ; si j'avais Ã©tÃ© un peu dans le monde, je vous aimerais peut-Ãªtre sans vous le dire ; je vous ferais languir pour le savoir ; je retiendrais mon coeur, cela n'irait pas si vite, et vous m'auriez dÃ©jÃ  dit que je suis une ingrate ; mais je ne saurais la contrefaire. </s>
+	<s id='2'>Mettez-vous Ã  ma place ; j'ai tant souffert de contrainte, ma mÃ¨re m'a rendu la vie si triste ! </s>
+	<s id='3'>j'ai eu si peu de satisfaction, elle a tant mortifiÃ© mes sentiments ! </s>
+	<s id='4'>Je suis si lasse de les cacher, que, lorsque je suis contente, et que je le puis dire, je l'ai dÃ©jÃ  dit avant que de savoir que j'ai parlÃ© ; c'est comme quelqu'un qui respire, et imaginez-vous Ã  prÃ©sent ce que c'est qu'une fille qui a toujours Ã©tÃ© gÃªnÃ©e, qui est avec vous, que vous aimez, qui ne vous hait pas, qui vous aime, qui est franche, qui n'a jamais eu le plaisir de dire ce qu'elle pense, qui ne pensera jamais rien de si touchant, et voyez si je puis rÃ©sister Ã  tout cela. </s>
 </p>
 </sp>
-<sp who='ÉRASTE'><speaker>ÉRASTE.</speaker>
+<sp who='Ã‰RASTE'><speaker>Ã‰RASTE.</speaker>
 <p id='8'>
-	<s id='1'>Oui, ma joie, à ce que j'entends là, va jusqu'au transport ! </s>
-	<s id='2'>Mais il s'agit de nos affaires : j'ai le bonheur d'avoir un père raisonnable, à qui je suis aussi cher qu'il me l'est à moi-même, et qui, j'espère, entrera volontiers dans nos vues. </s>
+	<s id='1'>Oui, ma joie, Ã  ce que j'entends lÃ , va jusqu'au transport ! </s>
+	<s id='2'>Mais il s'agit de nos affaires : j'ai le bonheur d'avoir un pÃ¨re raisonnable, Ã  qui je suis aussi cher qu'il me l'est Ã  moi-mÃªme, et qui, j'espÃ¨re, entrera volontiers dans nos vues. </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='9'>
-	<s id='1'>Pour moi, je n'ai pas le bonheur d'avoir une mère qui lui ressemble ; je ne l'en aime pourtant pas moins... </s>
+	<s id='1'>Pour moi, je n'ai pas le bonheur d'avoir une mÃ¨re qui lui ressemble ; je ne l'en aime pourtant pas moins... </s>
 </p>
 </sp>
-<sp who='MADAME-ARGANTE'><speaker>MADAME AARGANTE, éclatant.</speaker>
+<sp who='MADAME-ARGANTE'><speaker>MADAME AARGANTE, Ã©clatant.</speaker>
 <p id='10'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>C'en est trop, fille indigne de ma tendresse ! </s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE.</speaker>
 <p id='11'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Je suis perdue ! </s>
 </p>
-<stage>Ils s'écartent tous trois.</stage>
+<stage>Ils s'Ã©cartent tous trois.</stage>
 </sp>
 <sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE.</speaker>
 <p id='12'>
-	<s id='1'>Vite, Frontin, qu'on éclaire, qu'on vienne ! </s>
+	<s id='1'>Vite, Frontin, qu'on Ã©claire, qu'on vienne ! </s>
 </p>
 <stage>En disant cela, elle avance et rencontre Monsieur Damis, qu'elle saisit par le domino, et continue.</stage>
 <p id='13'>
 	<s id='1'>Ingrate ! </s>
-	<s id='2'>Est-ce là le fruit des soins que je me suis donné pour vous former à la vertu ? </s>
-	<s id='3'>Ménager des intrigues à mon insu ! </s>
-	<s id='4'>Vous plaindre d'une éducation qui m'occupait tout entière ! </s>
-	<s id='5'>Eh bien, jeune extravagante, un couvent, plus austère que moi, me répondra des égarements de votre coeur.</s>
+	<s id='2'>Est-ce lÃ  le fruit des soins que je me suis donnÃ© pour vous former Ã  la vertu ? </s>
+	<s id='3'>MÃ©nager des intrigues Ã  mon insu ! </s>
+	<s id='4'>Vous plaindre d'une Ã©ducation qui m'occupait tout entiÃ¨re ! </s>
+	<s id='5'>Eh bien, jeune extravagante, un couvent, plus austÃ¨re que moi, me rÃ©pondra des Ã©garements de votre coeur.</s>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='19'><head>SCÈNE XIX et dernière.</head>
-<stage>La lumière arrive avec Frontin et autres domestiques avec des bougies.</stage>
-<sp who='MONSIEUR-DAMIS'><speaker>MONSIEUR DAMIS, démasqué, à Madame Argante, et en riant.</speaker>
+<div2 type="scene" n='19'><head>SCÃˆNE XIX et derniÃ¨re.</head>
+<stage>La lumiÃ¨re arrive avec Frontin et autres domestiques avec des bougies.</stage>
+<sp who='MONSIEUR-DAMIS'><speaker>MONSIEUR DAMIS, dÃ©masquÃ©, Ã  Madame Argante, et en riant.</speaker>
 <p id='1'>
 	<s id='1'>Vous voyez bien qu'on ne me recevrait pas au couvent. </s>
 </p>
@@ -1978,14 +1978,14 @@
 	<s id='1'>Quoi ! </s>
 	<s id='2'>c'est vous, Monsieur ? </s>
 </p>
-<stage>Et puis voyant Eraste avec sa livrée.</stage>
+<stage>Et puis voyant Eraste avec sa livrÃ©e.</stage>
 <p id='3'>
-	<s id='1'>Et ce fripon-là, que fait-il ici ? </s>
+	<s id='1'>Et ce fripon-lÃ , que fait-il ici ? </s>
 </p>
 </sp>
 <sp who='MONSIEUR-DAMIS'><speaker>MONSIEUR DAMIS.</speaker>
 <p id='4'>
-	<s id='1'>Ce fripon-là, c'est mon fils, à qui, tout bien examiné, je vous conseille de donner votre fille. </s>
+	<s id='1'>Ce fripon-lÃ , c'est mon fils, Ã  qui, tout bien examinÃ©, je vous conseille de donner votre fille. </s>
 </p>
 </sp>
 <sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE.</speaker>
@@ -1995,24 +1995,24 @@
 </sp>
 <sp who='MONSIEUR-DAMIS'><speaker>MONSIEUR DAMIS.</speaker>
 <p id='6'>
-	<s id='1'>Lui-même. </s>
-	<s id='2'>Approchez, Eraste ; tout ce que j'ai entendu vient de m'ouvrir les yeux sur l'imprudence de mes desseins ; conjurez Madame de vous être favorable, il ne tiendra pas à moi qu'Angélique ne soit votre épouse.</s>
+	<s id='1'>Lui-mÃªme. </s>
+	<s id='2'>Approchez, Eraste ; tout ce que j'ai entendu vient de m'ouvrir les yeux sur l'imprudence de mes desseins ; conjurez Madame de vous Ãªtre favorable, il ne tiendra pas Ã  moi qu'AngÃ©lique ne soit votre Ã©pouse.</s>
 </p>
 </sp>
-<sp who='ÉRASTE'><speaker>ÉRASTE, se jetant aux genoux de son père.</speaker>
+<sp who='Ã‰RASTE'><speaker>Ã‰RASTE, se jetant aux genoux de son pÃ¨re.</speaker>
 <p id='7'>
-	<s id='1'>Que je vous ai d'obligation, mon père ! </s>
+	<s id='1'>Que je vous ai d'obligation, mon pÃ¨re ! </s>
 	<s id='2'>Nous pardonnerez-vous, Madame, tout ce qui vient de se passer ?</s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE, embrassant les genoux de Madame Argante.</speaker>
+<sp who='ANGÃ‰LIQUE'><speaker>ANGÃ‰LIQUE, embrassant les genoux de Madame Argante.</speaker>
 <p id='8'>
-	<s id='1'>Puis-je espérer d'obtenir grâce ? </s>
+	<s id='1'>Puis-je espÃ©rer d'obtenir grÃ¢ce ? </s>
 </p>
 </sp>
 <sp who='MONSIEUR-DAMIS'><speaker>MONSIEUR DAMIS.</speaker>
 <p id='9'>
-	<s id='1'>Votre fille a tort, mais elle est vertueuse, et à votre place je croirais devoir oublier tout, et me rendre. </s>
+	<s id='1'>Votre fille a tort, mais elle est vertueuse, et Ã  votre place je croirais devoir oublier tout, et me rendre. </s>
 </p>
 </sp>
 <sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE.</speaker>
@@ -2022,91 +2022,91 @@
 </sp>
 <sp who='MONSIEUR-DAMIS'><speaker>MONSIEUR DAMIS.</speaker>
 <p id='11'>
-	<s id='1'>Sur ce pied-là, le divertissement dont je prétendais vous amuser, servira pour mon fils. </s>
+	<s id='1'>Sur ce pied-lÃ , le divertissement dont je prÃ©tendais vous amuser, servira pour mon fils. </s>
 </p>
-<stage>Angélique embrasse Madame Argante de joie.</stage>
+<stage>AngÃ©lique embrasse Madame Argante de joie.</stage>
 </sp>
 </div2>
-<div2 type='scene' n='20'><head>DIVERTISSEMENT.</head>
+<div2 type="scene" n='20'><head>DIVERTISSEMENT.</head>
 <sp who='CHANTEURS DU VAUDEVILLE'><speaker>CHANTEURS DU VAUDEVILLE.</speaker>
 <stage>Air</stage>
-	<l id='1'>Vous qui sans cesse à vos fillettes </l>
-	<l id='2'>Tenez de sévères discours, </l>
+	<l id='1'>Vous qui sans cesse Ã  vos fillettes </l>
+	<l id='2'>Tenez de sÃ©vÃ¨res discours, </l>
 <stage>bis.</stage>
-	<l id='3'>Mamans, de l'erreur où vous êtes </l>
+	<l id='3'>Mamans, de l'erreur oÃ¹ vous Ãªtes </l>
 	<l id='4'>Le dieu d'amour se rit et se rira toujours. </l>
 <stage>bis.</stage>
 	<l id='5'>Vos avis sont prudents, vos maximes sont sages ; </l>
-	<l id='6'>Mais malgré tant de soins, malgré tant de rigueur, </l>
+	<l id='6'>Mais malgrÃ© tant de soins, malgrÃ© tant de rigueur, </l>
 	<l id='7'>Vous ne pouvez d'un jeune coeur </l>
 	<l id='8'>Si bien fermer tous les passages, </l>
 	<l id='9'>Qu'il n'en reste toujours quelqu'un pour le vainqueur. </l>
 	<l id='10'>Vous qui sans cesse, etc. </l>
 <stage>VAUDEVILLE</stage>
-	<l id='11'>Mère qui tient un jeune objet </l>
+	<l id='11'>MÃ¨re qui tient un jeune objet </l>
 	<l id='12'>Dans une ignorance profonde, </l>
 	<l id='13'>Loin du monde, </l>
 	<l id='14'>Souvent se trompe en son projet. </l>
 	<l id='15'>Elle croit que l'amour s'envole </l>
-<note type="L">Argus : personnage de la myhtologie grecque qui avait 100 yeux et qui n'en fermeit que 50 quand il dormait. Junon lui confia la garde d'Io, qu'elle venait de changer en vache ; mais Mercure endormit la gardien au son de sa flûte, et lui coupa la tête. Junon transporta les yeux d'Argus sur la queue du paon et le transforma en cet oiseau. [B]</note>
-	<l id='16'>Dès qu'il aperçoit un argus. </l>
+<note type="L">Argus : personnage de la myhtologie grecque qui avait 100 yeux et qui n'en fermeit que 50 quand il dormait. Junon lui confia la garde d'Io, qu'elle venait de changer en vache ; mais Mercure endormit la gardien au son de sa flÃ»te, et lui coupa la tÃªte. Junon transporta les yeux d'Argus sur la queue du paon et le transforma en cet oiseau. [B]</note>
+	<l id='16'>DÃ¨s qu'il aperÃ§oit un argus. </l>
 	<l id='17'>Quel abus ! </l>
-	<l id='18'>Il faut l'envoyer à l'école. </l>
+	<l id='18'>Il faut l'envoyer Ã  l'Ã©cole. </l>
 <stage>COUPLET</stage>
-	<l id='19'>La beauté qui charme Damon </l>
+	<l id='19'>La beautÃ© qui charme Damon </l>
 	<l id='20'>Se rit des tourments qu'il endure, </l>
 	<l id='21'>Il murmure ; </l>
 	<l id='22'>Moi, je trouve qu'elle a raison, </l>
-<note type="L">Fariboles : plusieurs choses vaines qui ne méritent aucune considération. [F]</note>
+<note type="L">Fariboles : plusieurs choses vaines qui ne mÃ©ritent aucune considÃ©ration. [F]</note>
 	<l id='23'>C'est un conteur de fariboles, </l>
 	<l id='24'>Qui n'ouvre point son coffre-fort. </l>
-<note type="L">Butor : gros oiseau, espèce de héron. on dit figurémment d'un homme stupide et maladroit que c'est un gros butor ; parce que c'et oiseai est sot et paresseux. [F]</note>
+<note type="L">Butor : gros oiseau, espÃ¨ce de hÃ©ron. on dit figurÃ©mment d'un homme stupide et maladroit que c'est un gros butor ; parce que c'et oiseai est sot et paresseux. [F]</note>
 	<l id='25'>Le butor ! </l>
-	<l id='26'>Il faut l'envoyer à l'école. </l>
+	<l id='26'>Il faut l'envoyer Ã  l'Ã©cole. </l>
 	<l id='27'>Si mes soins pouvaient t'engager, </l>
 	<l id='28'>Me dit un jour le beau Sylvandre, </l>
 	<l id='29'>D'un air tendre. </l>
 	<l id='30'>Que ferais-tu ? </l>
 	<l id='31'>dis-je au berger. </l>
 	<l id='32'>Il demeura comme une idole, </l>
-	<l id='33'>Et ne répondit pas un mot. </l>
+	<l id='33'>Et ne rÃ©pondit pas un mot. </l>
 	<l id='34'>Le grand sot ! </l>
-	<l id='35'>Il faut l'envoyer à l'école. </l>
-	<l id='36'>Claudine un jour dit à Lucas : </l>
-	<l id='37'>J'irai ce soir à la prairie, </l>
+	<l id='35'>Il faut l'envoyer Ã  l'Ã©cole. </l>
+	<l id='36'>Claudine un jour dit Ã  Lucas : </l>
+	<l id='37'>J'irai ce soir Ã  la prairie, </l>
 	<l id='38'>Je vous prie </l>
 	<l id='39'>De ne point y suivre mes pas. </l>
 	<l id='40'>Il le promit, et tint parole. </l>
 	<l id='41'>Ah ! Qu'il entend peu ce que c'est ! </l>
-	<l id='42'>Le benêt ! </l>
-	<l id='43'>Il faut l'envoyer à l'école. </l>
-	<l id='44'>L'autre jour à Nicole il prit </l>
-	<l id='45'>Une vapeur auprès de Blaise ; </l>
+	<l id='42'>Le benÃªt ! </l>
+	<l id='43'>Il faut l'envoyer Ã  l'Ã©cole. </l>
+	<l id='44'>L'autre jour Ã  Nicole il prit </l>
+	<l id='45'>Une vapeur auprÃ¨s de Blaise ; </l>
 	<l id='46'>Sur sa chaise </l>
-	<l id='47'>La pauvre enfant s'évanouit. </l>
+	<l id='47'>La pauvre enfant s'Ã©vanouit. </l>
 	<l id='48'>Blaise, pour secourir Nicole, </l>
-	<l id='49'>Fut chercher du monde aussitôt, </l>
+	<l id='49'>Fut chercher du monde aussitÃ´t, </l>
 	<l id='50'>Le nigaud ! </l>
-	<l id='51'>Il faut l'envoyer à l'école. </l>
+	<l id='51'>Il faut l'envoyer Ã  l'Ã©cole. </l>
 	<l id='52'>L'amant de la jeune Philis </l>
-	<l id='53'>Etant près de s'éloigner d'elle, </l>
+	<l id='53'>Etant prÃ¨s de s'Ã©loigner d'elle, </l>
 	<l id='54'>Chez la belle </l>
 	<l id='55'>Il envoie un de ses amis. </l>
 	<l id='56'>Vas-y, dit-il, et la console. </l>
-	<l id='57'>Il se fie à son confident. </l>
+	<l id='57'>Il se fie Ã  son confident. </l>
 	<l id='58'>L'imprudent ! </l>
-	<l id='59'>Il faut l'envoyer à l'école. </l>
+	<l id='59'>Il faut l'envoyer Ã  l'Ã©cole. </l>
 	<l id='60'>Aminte, aux yeux de son barbon, </l>
 	<l id='61'>A son grand neveu cherche noise ; </l>
 	<l id='62'>La matoise </l>
 	<l id='63'>Veut le chasser de la maison.</l>
-	<l id='64'>L'époux la flatte et la cajole, </l>
+	<l id='64'>L'Ã©poux la flatte et la cajole, </l>
 	<l id='65'>Pour faire rester son parent </l>
 	<l id='66'>L'ignorant ! </l>
-	<l id='67'>Il faut l'envoyer à l'école. </l>
+	<l id='67'>Il faut l'envoyer Ã  l'Ã©cole. </l>
 </sp>
 </div2>
 </div1>
 </body>
 </text>
-</TEI.2>
+</TEI>
