@@ -7,7 +7,7 @@
     <fileDesc>
       <titleStmt>
         <title>ESTHER, TRAGÉDIE tirée de l'écriture sainte.</title>
-        <author academie="1673" born="1639" born_location="La Ferté Millon" death="1699" death_location="Paris">RACINE, Jean</author>
+        <author academie="1673" born="1639" born_location="La Ferté Millon" death="1699" death_location="Paris" key="Racine, Jean (1639-1699)">RACINE, Jean</author>
       </titleStmt>
       <publicationStmt>
         <p>publié par Paul FIEVRE</p>
@@ -25,8 +25,8 @@
     </fileDesc>
     <profileDesc>
       <creation>
-        <date type="published" when="1689"/>
-        <date type="performed" when="1689-01-26"/>
+        <date type="created" when="1689-01-26"/>
+        <date type="issued" when="1689"/>
       </creation>
       <langUsage>
         <language ident="fr"/>
@@ -86,7 +86,7 @@
         <castItem><role civil="G" id="GARDES" rend="group" xml:id="GARDES">GARDES</role>du roi Assuérus</castItem>
         <castItem><role civil="G" id="CHOEUR" rend="group" xml:id="CHOEUR">CHOEUR</role>de jeunes filles israélites</castItem>
         <castItem>
-          <role civil="M" id="LA PITIÉ" rend="male" xml:id="LAPITIE">LA PITIÉ</role>
+          <role civil="M" id="LA PITIÉ" rend="male" xml:id="PIETE">LA PITIÉ</role>
         </castItem>
       </castList>
       <set country="Iran" link="" location="Suze" periode="Temps bibliques">La scène est à Suse dans le palais d'Assuérus.</set>
@@ -373,7 +373,13 @@
             <l n="214" xml:id="l214">Du doux pays de nos aïeux</l>
             <l n="215" xml:id="l215">Serons-nous toujours exilées ?</l>
           </sp>
-          <sp who="CHOEUR" xml:id="II02-9"><speaker>UNE ISRAÉLITE</speaker>, seule. <l n="216" xml:id="l216">Quand verrai-je, ô Sion ! relever tes remparts,</l><l n="217" xml:id="l217">Et de tes tours les magnifiques faîtes ?</l><l n="218" xml:id="l218">Quand verrai-je de toutes parts</l><l n="219" xml:id="l219">Tes peuples en chantant accourir à tes fêtes ?</l></sp>
+          <sp who="CHOEUR" xml:id="II02-9">
+            <speaker>UNE ISRAÉLITE, seule.</speaker>
+            <l n="216" xml:id="l216">Quand verrai-je, ô Sion ! relever tes remparts,</l>
+            <l n="217" xml:id="l217">Et de tes tours les magnifiques faîtes ?</l>
+            <l n="218" xml:id="l218">Quand verrai-je de toutes parts</l>
+            <l n="219" xml:id="l219">Tes peuples en chantant accourir à tes fêtes ?</l>
+          </sp>
           <sp who="CHOEUR" xml:id="II02-10">
             <speaker>TOUT LE CHOEUR</speaker>
             <l n="220" xml:id="l220">Ô rives du Jourdain ! Ô champs aimés des cieux !</l>
