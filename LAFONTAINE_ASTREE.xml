@@ -7,9 +7,10 @@
 				<author born='1621' born_location='Château-Thierry' death='1695' death_location='Paris' academie=''>LA FONTAINE, Jean de</author>
 				<date>1691</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<authority>publié par Paul FIEVRE, décembre 2006, relu février 2012.</authority>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie lyrique</genre>
 				<inspiration>pastorale</inspiration>
@@ -39,25 +40,25 @@
 				<premiere date='1691-11-28' location='Théâtre du Palais-Royal'>Représenté pour la première fois le 28 novembre 1691 par l'Académie Royale de musique au Théâtre du Palais-Royal.</premiere>
 			</performance>
 <castList><head>Personnages</head>
-	<castItem><role id="ASTREE" civil="F" type="H" statut='berger' age='A' stat_amour='néant'>ASTRÉE</role>, bergère.</castItem>
-	<castItem><role id="CELADON" civil="M" type="H" statut='berger' age='A' stat_amour='Astrée'>CÉLADON</role>, amant d'Astrée.</castItem>
-	<castItem><role id="SEMIRE" civil="F" type="H" statut='berger' age='A' stat_amour='Astrée'>SÉMIRE</role>, amant d'Astrée.</castItem>
-	<castItem><role id="PHILIS" civil="F" type="H" statut='confident' age='A' stat_amour='néant'>PHILIS</role>, confidente d'Astrée.</castItem>
-	<castItem><role id="HYLAS" civil="M" type="H" statut='berger' age='A' stat_amour='néant'>HYLAS</role>, berger.</castItem>
-	<castItem><role id="TIRCIS" civil="M" type="H" statut='berger' age='A' stat_amour='néant'>TIRCIS</role>, berger.</castItem>
-	<castItem><role id="GALATÉE" civil="F" type="H" statut='prince' age='A' stat_amour='néant'>GALATÉE</role>, princesse du Forez.</castItem>
-	<castItem><role id="LÉONIDE" civil="F" type="H" statut='confident' age='A' stat_amour='néant'>LÉONIDE</role>, confidente de Galatée.</castItem>
-	<castItem><role id="ISMÈNE" civil="F" type="H" statut='fée' age='A' stat_amour='néant'>ISMÈNE</role>, fée.</castItem>
-	<castItem><role id="TROUPE DE DRUIDES" civil="G" type="H" statut='druide' age='A' stat_amour='néant'>TROUPE DE DRUIDES</role>.</castItem>
-	<castItem><role id="TROUPE DE BERGERS ET DE BERGÈRES" civil="G" type="H" statut='berger' age='A' stat_amour='néant'>TROUPE DE BERGERS ET DE BERGÈRES</role>.</castItem>
-	<castItem><role id="ESPRITS AÉRIENS" civil="G" type="F" statut='esprit' age='A' stat_amour='néant'>ESPRITS AÉRIENS</role>.</castItem>
-	<castItem><role id="NYMPHES" civil="G" type="D" statut='nymphe' age='A' stat_amour='néant'>NYMPHES</role>.</castItem>
-	<castItem><role id="GÉNIES" civil="G" type="D" statut='génie' age='A' stat_amour='néant'>GÉNIES</role>.</castItem>
-	<castItem><role id="PEUPLE DU FOREZ" civil="G" type="H" statut='peuple' age='A' stat_amour='néant'>PEUPLES DU FOREZ</role>.</castItem>
-	<castItem><role id="SUITE D'ISMÈNE" civil="G" type="H" statut='peuple' age='A' stat_amour='néant'>TROUPE DE LA SUITE D'ISMÈNE</role>.</castItem>
-	<castItem><role id="LIZETTE" civil="F" type="H" statut='bourgeois' age='A' stat_amour='néant'>LIZETTE</role>.</castItem>
-	<castItem><role id="GALIOFFO" civil="M" type="H" statut='bourgeois' age='A' stat_amour='néant'>GALIOFFO</role>.</castItem>
-	<castItem><role id="GAMBARINI" civil="M" type="H" statut='bourgeois' age='A' stat_amour='néant'>GAMBARINI</role>.</castItem>
+	<castItem><role id="ASTREE" sex="2" type="H" statut='berger' age='A' stat_amour='néant'>ASTRÉE</role>, bergère.</castItem>
+	<castItem><role id="CELADON" sex="1" type="H" statut='berger' age='A' stat_amour='Astrée'>CÉLADON</role>, amant d'Astrée.</castItem>
+	<castItem><role id="SEMIRE" sex="2" type="H" statut='berger' age='A' stat_amour='Astrée'>SÉMIRE</role>, amant d'Astrée.</castItem>
+	<castItem><role id="PHILIS" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>PHILIS</role>, confidente d'Astrée.</castItem>
+	<castItem><role id="HYLAS" sex="1" type="H" statut='berger' age='A' stat_amour='néant'>HYLAS</role>, berger.</castItem>
+	<castItem><role id="TIRCIS" sex="1" type="H" statut='berger' age='A' stat_amour='néant'>TIRCIS</role>, berger.</castItem>
+	<castItem><role id="GALATÉE" sex="2" type="H" statut='prince' age='A' stat_amour='néant'>GALATÉE</role>, princesse du Forez.</castItem>
+	<castItem><role id="LÉONIDE" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>LÉONIDE</role>, confidente de Galatée.</castItem>
+	<castItem><role id="ISMÈNE" sex="2" type="H" statut='fée' age='A' stat_amour='néant'>ISMÈNE</role>, fée.</castItem>
+	<castItem><role id="TROUPE DE DRUIDES" sex="9" type="H" statut='druide' age='A' stat_amour='néant'>TROUPE DE DRUIDES</role>.</castItem>
+	<castItem><role id="TROUPE DE BERGERS ET DE BERGÈRES" sex="9" type="H" statut='berger' age='A' stat_amour='néant'>TROUPE DE BERGERS ET DE BERGÈRES</role>.</castItem>
+	<castItem><role id="ESPRITS AÉRIENS" sex="9" type="F" statut='esprit' age='A' stat_amour='néant'>ESPRITS AÉRIENS</role>.</castItem>
+	<castItem><role id="NYMPHES" sex="9" type="D" statut='nymphe' age='A' stat_amour='néant'>NYMPHES</role>.</castItem>
+	<castItem><role id="GÉNIES" sex="9" type="D" statut='génie' age='A' stat_amour='néant'>GÉNIES</role>.</castItem>
+	<castItem><role id="PEUPLE DU FOREZ" sex="9" type="H" statut='peuple' age='A' stat_amour='néant'>PEUPLES DU FOREZ</role>.</castItem>
+	<castItem><role id="SUITE D'ISMÈNE" sex="9" type="H" statut='peuple' age='A' stat_amour='néant'>TROUPE DE LA SUITE D'ISMÈNE</role>.</castItem>
+	<castItem><role id="LIZETTE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>LIZETTE</role>.</castItem>
+	<castItem><role id="GALIOFFO" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>GALIOFFO</role>.</castItem>
+	<castItem><role id="GAMBARINI" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>GAMBARINI</role>.</castItem>
 </castList>
 	<set location='Forez' country='France' periode='Temps féériques' link=''>La scène est dans le Forez.</set>
 </front>

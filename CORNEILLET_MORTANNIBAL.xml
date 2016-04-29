@@ -7,9 +7,10 @@
 				<author born='1625' born_location='Rouen' death='1709' death_location='Les Andelys' academie='1685'>CORNEILLE, Thomas</author>
 				<date>1669</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE</p><p>Mai 2006</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire romaine</inspiration>
@@ -42,15 +43,15 @@
 			<premiere date='1669-11-25' location='Hôtel de Bourgogne'>Représenté pour la première fois le 25 novembre 1669 au Théâtre de l'Hôtel de Bourgogne.</premiere>
 		</performance>
 	<castList><head>ACTEURS</head>
-		<castItem><role id="PRUSIAS" civil='M'>PRUSIAS</role>, roi de Bithynie.</castItem>
-		<castItem><role id="ATTALE" civil='M'>ATTALE</role>, successeur d'Eumène crû mort, au Royaume de Pergame.</castItem>
-		<castItem><role id="ANNIBAL" civil='M'>ANNIBAL</role>.</castItem>
-		<castItem><role id="FLAMINIUS" civil='M'>FLAMINIUS</role>, ambassadeur Romain.</castItem>
-		<castItem><role id="NICOMEDE" civil='M'>NICOMÈDE</role>, fils de Prusias.</castItem>
-		<castItem><role id="ELISE" civil='F'>ÉLISE</role>, fille d'Annibal.</castItem>
-		<castItem><role id="ALCINE" civil='F'>ALCINE</role>, confidente d'Élise.</castItem>
-		<castItem><role id="PROCULE" civil='M'>PROCULE</role>, tribun romain.</castItem>
-	<castItem><role id="ARAXE" civil='M'>ARAXE</role>, capitaine des gardes de Prusias.</castItem>
+		<castItem><role id="PRUSIAS" sex="1">PRUSIAS</role>, roi de Bithynie.</castItem>
+		<castItem><role id="ATTALE" sex="1">ATTALE</role>, successeur d'Eumène crû mort, au Royaume de Pergame.</castItem>
+		<castItem><role id="ANNIBAL" sex="1">ANNIBAL</role>.</castItem>
+		<castItem><role id="FLAMINIUS" sex="1">FLAMINIUS</role>, ambassadeur Romain.</castItem>
+		<castItem><role id="NICOMEDE" sex="1">NICOMÈDE</role>, fils de Prusias.</castItem>
+		<castItem><role id="ELISE" sex="2">ÉLISE</role>, fille d'Annibal.</castItem>
+		<castItem><role id="ALCINE" sex="2">ALCINE</role>, confidente d'Élise.</castItem>
+		<castItem><role id="PROCULE" sex="1">PROCULE</role>, tribun romain.</castItem>
+	<castItem><role id="ARAXE" sex="1">ARAXE</role>, capitaine des gardes de Prusias.</castItem>
 </castList>
 <set location='Nicomédie' country='Turquie' periode='IVème avant JC' link=''>Le scène est à Nicomédie.</set>
 </front>

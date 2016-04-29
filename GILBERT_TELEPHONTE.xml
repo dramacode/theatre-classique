@@ -7,10 +7,11 @@
 				<author born="1620" born_location="Paris" death="1675" death_location="" academie="">GILBERT, Gabriel</author>
 				<date>1732</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<editor>Texte établi par **** ***** (Maîtrise de Lettres modernes - Université de la Sorbonne Paris IV, 2011-2012) sous la direction de Georges Forestier.</editor>
 				<publisher>publié par Paul FIEVRE mars 2012</publisher>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragi-comédie</genre>
 				<inspiration>histoire antique</inspiration>
@@ -47,14 +48,14 @@
 		</performance>
 		<castList>
 			<head>PERSONNAGES</head>
-			<castItem><role id="HERMOCRATE" civil='M' type="H" statut='roi' age='A' stat_amour='néant'>HERMOCRATE</role>, Tyran de Mycenes.</castItem>
-			<castItem><role id="DEMOCHARE" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>DEMOCHARE</role>, son fils.</castItem>
-			<castItem><role id="MÉROPE" civil='F' type="H" statut='roi' age='A' stat_amour='néant'>MÉROPE</role>, Femme du Tyran et veuve de Cresphonte.</castItem>
-			<castItem><role id="TÉLÉPHONTE" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>TÉLÉPHONTE</role>, fils de Mérope et de Cresphonte.</castItem>
-			<castItem><role id="PHILOCLÉE" civil='F' type="H" statut='prince' age='A' stat_amour='néant'>PHILOCLÉE</role>, fille d'Amynthas Roi d'Étolie et maîtresse de Téléphonte.</castItem>
-			<castItem><role id="TYRÈNE" civil='M' type="H" statut='confident' age='A' stat_amour='néant'>TYRÈNE</role>, confident de Téléphonte.</castItem>
-			<castItem><role id="CÉPHALIE" civil='F' type="H" statut='confident' age='A' stat_amour='néant'>CÉPHALIE</role>, confidente de Mérope.</castItem>
-			<castItem><role id="ORPHISE" civil='F' type="H" statut='confident' age='A' stat_amour='néant'>ORPHISE</role>, confidente de Philoclée.</castItem>
+			<castItem><role id="HERMOCRATE" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>HERMOCRATE</role>, Tyran de Mycenes.</castItem>
+			<castItem><role id="DEMOCHARE" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>DEMOCHARE</role>, son fils.</castItem>
+			<castItem><role id="MÉROPE" sex="2" type="H" statut='roi' age='A' stat_amour='néant'>MÉROPE</role>, Femme du Tyran et veuve de Cresphonte.</castItem>
+			<castItem><role id="TÉLÉPHONTE" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>TÉLÉPHONTE</role>, fils de Mérope et de Cresphonte.</castItem>
+			<castItem><role id="PHILOCLÉE" sex="2" type="H" statut='prince' age='A' stat_amour='néant'>PHILOCLÉE</role>, fille d'Amynthas Roi d'Étolie et maîtresse de Téléphonte.</castItem>
+			<castItem><role id="TYRÈNE" sex="1" type="H" statut='confident' age='A' stat_amour='néant'>TYRÈNE</role>, confident de Téléphonte.</castItem>
+			<castItem><role id="CÉPHALIE" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>CÉPHALIE</role>, confidente de Mérope.</castItem>
+			<castItem><role id="ORPHISE" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>ORPHISE</role>, confidente de Philoclée.</castItem>
 		</castList>
 	
 <set location='Mycenes' country='Grèce' periode='IVème avant JC' link=''>La scène est à Mycènes dans le Péloponese.</set>

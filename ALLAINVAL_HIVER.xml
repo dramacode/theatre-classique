@@ -6,9 +6,10 @@
 				<title>L'HIVER, COMÉDIE.</title>
 			<author born='1700' born_location='Chartres' death='1753' death_location='Paris' academie=''>SOULAS d'ALLAINVAL, Abbé Léonor Jean Christine</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, septembre 2011.</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>mythe grec</inspiration>
@@ -38,17 +39,17 @@
 			<premiere date='1733-02-19' location='Hôtel de Bourgogne'>Représentée la première fois le 19 février 1733, au Théâtre de l'Hôtel de Bourgogne.</premiere>
 		</performance>
 	<castList><head>PERSONNAGES</head>
-	<castItem><role id="HIVER" civil='M' type="A" statut='saison' age='A' stat_amour='néant'>L'HIVER</role>.</castItem> 
-	<castItem><role id="COMUS" civil='M' type="D" statut='dieu' age='A' stat_amour='néant'>COMUS</role>.</castItem> 
-	<castItem><role id="HYMEN" civil='F' type="D" statut='dieu' age='A' stat_amour='néant'>L'HYMEN</role>.</castItem> 
-	<castItem><role id="LE PHARAON" civil='M' type="H" statut='pharaon' age='A' stat_amour='néant'>LE PHARAON</role>.</castItem> 
-	<castItem><role id="LE BAL" civil='M' type="A" statut='allegorie' age='A' stat_amour='néant'>LE BAL</role>.</castItem> 
-	<castItem><role id="LA MODE" civil='F' type="A" statut='allegorie' age='A' stat_amour='néant'>LA MODE</role>.</castItem> 
-	<castItem><role id="LA MÉDISANCE" civil='F' type="A" statut='allegorie' age='A' stat_amour='néant'>LA MÉDISANCE</role>.</castItem> 
-	<castItem><role id="LA VOLUPTÉ" civil='F' type="A" statut='allegorie' age='A' stat_amour='néant'>LA VOLUPTÉ</role>.</castItem> 
-	<castItem><role id="HECTOR CRIQUET" civil='H' type="H" statut='allegorie' age='A' stat_amour='néant'>HECTOR CRIQUET</role>.</castItem> 
-	<castItem><role id="BACCHUS" civil='M' type="D" statut='dieu' age='A' stat_amour='néant'>BACCHUS</role>.</castItem> 
-	<castItem><role id="JEUX" civil='G' type="A" statut='allegorie' age='A' stat_amour='néant'>Les Jeux et les Ris de la Suite de l'Hiver</role>.</castItem> 
+	<castItem><role id="HIVER" sex="1" type="P" statut='saison' age='A' stat_amour='néant'>L'HIVER</role>.</castItem> 
+	<castItem><role id="COMUS" sex="1" type="D" statut='dieu' age='A' stat_amour='néant'>COMUS</role>.</castItem> 
+	<castItem><role id="HYMEN" sex="2" type="D" statut='dieu' age='A' stat_amour='néant'>L'HYMEN</role>.</castItem> 
+	<castItem><role id="LE PHARAON" sex="1" type="H" statut='pharaon' age='A' stat_amour='néant'>LE PHARAON</role>.</castItem> 
+	<castItem><role id="LE BAL" sex="1" type="P" statut='événement' age='A' stat_amour='néant'>LE BAL</role>.</castItem> 
+	<castItem><role id="LA MODE" sex="2" type="P" statut='allegorie' age='A' stat_amour='néant'>LA MODE</role>.</castItem> 
+	<castItem><role id="LA MÉDISANCE" sex="2" type="P" statut='allegorie' age='A' stat_amour='néant'>LA MÉDISANCE</role>.</castItem> 
+	<castItem><role id="LA VOLUPTÉ" sex="2" type="P" statut='allegorie' age='A' stat_amour='néant'>LA VOLUPTÉ</role>.</castItem> 
+	<castItem><role id="HECTOR CRIQUET" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>HECTOR CRIQUET</role>.</castItem> 
+	<castItem><role id="BACCHUS" sex="1" type="D" statut='dieu' age='A' stat_amour='néant'>BACCHUS</role>.</castItem> 
+	<castItem><role id="JEUX" sex="9" type="P" statut='allegorie' age='A' stat_amour='néant'>Les Jeux et les Ris de la Suite de l'Hiver</role>.</castItem> 
 	</castList>
 <set location='Paris' country='France' periode='(indéterminé)' link=''>La scène est à Paris.</set>
 </front>

@@ -6,9 +6,10 @@
 				<title>L'AMOUR MÉDECIN, COMÉDIE </title>
 			<author born='1622' born_location='Paris' death='1673' death_location='Paris' academie=''>Molière</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE juillet 2009.</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -39,43 +40,43 @@
 			<editor id=''></editor>
 		</docImprint>
 	<castList><head>PERSONNAGES DU PROLOGUE</head>
-		<castItem><role id="LA COMÉDIE" civil='F' type="A" statut='art' age='A' stat_amour='néant'>LA COMÉDIE</role>.</castItem> 
-		<castItem><role id="LA MUSIQUE" civil='F' type="A" statut='art' age='A' stat_amour='néant'>LA MUSIQUE</role>.</castItem> 
-		<castItem><role id="LE BALLET" civil='M' type="A" statut='art' age='A' stat_amour='néant'>LE BALLET</role>.</castItem> 
+		<castItem><role id="LA COMÉDIE" sex="2" type="P" statut='art' age='A' stat_amour='néant'>LA COMÉDIE</role>.</castItem> 
+		<castItem><role id="LA MUSIQUE" sex="2" type="P" statut='art' age='A' stat_amour='néant'>LA MUSIQUE</role>.</castItem> 
+		<castItem><role id="LE BALLET" sex="1" type="P" statut='art' age='A' stat_amour='néant'>LE BALLET</role>.</castItem> 
 	</castList>
 		<castList><head>PERSONNAGES de la COMÉDIE</head>
-			<castItem><role id="SGANARELLE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>SGANARELLE</role>, père de Lucinde.</castItem> 
-			<castItem><role id="LUCINDE" civil='F' type="H" statut='bourgeois' age='J' stat_amour='amoureux'>LUCINDE</role>, fille de Sganarelle.</castItem> 
-			<castItem><role id="CLITANDRE" civil='M' type="H" statut='bourgeois' age='J' stat_amour='amoureux'>CLITANDRE</role>, amant de Lucinde.</castItem> 
-			<castItem><role id="AMINTE" civil='F' type="H" statut='bourgeois' age='J' stat_amour='néant'>AMINTE</role>, voisine de Sganarelle.</castItem> 
-			<castItem><role id="LUCRECE" civil='F' type="H" statut='bourgeois' age='J' stat_amour='néant'>LUCRÈCE</role>, nièce de Sganarelle.</castItem> 
-			<castItem><role id="LISETTE" civil='F' type="H" statut='suivante' age='J' stat_amour='néant'>LISETTE</role>, suivante de Lucinde.</castItem> 
-			<castItem><role id="MONSIEUR GUILLAUME" civil='M' type="H" statut='ccommerçant' age='J' stat_amour='néant'>MONSIEUR GUILLAUME</role>, vendeur de tapisseries.</castItem> 
-			<castItem><role id="MONSIEUR JOSSE" civil='M' type="H" statut='orfèvre' age='J' stat_amour='néant'>MONSIEUR JOSSE</role>, orfèvre.</castItem> 
-			<castItem><role id="MONSIEUR TOMÈS" civil='M' type="H" statut='médecin' age='J' stat_amour='néant'>MONSIEUR TOMÈS</role>, médecin.</castItem> 
-			<castItem><role id="MONSIEUR DE FONANDRÈS" civil='M' type="H" statut='médecin' age='J' stat_amour='néant'>MONSIEUR DE FONANDRÈS</role>, médecin.</castItem> 
-			<castItem><role id="MONSIEUR MACROTON" civil='M' type="H" statut='médecin' age='J' stat_amour='néant'>MONSIEUR MACROTON</role>, médecin.</castItem> 
-			<castItem><role id="MONSIEUR BAHYS" civil='M' type="H" statut='médecin' age='J' stat_amour='néant'>MONSIEUR BAHYS</role>, médecin.</castItem> 
-			<castItem><role id="MONSIEUR FILERIN" civil='M' type="H" statut='médecin' age='J' stat_amour='néant'>MONSIEUR FILERIN</role>, médecin.</castItem> 
-			<castItem><role id="UN NOTAIRE" civil='M' type="H" statut='notaire' age='J' stat_amour='néant'>UN NOTAIRE</role>.</castItem> 
-			<castItem><role id="CHAMPAGNE" civil='M' type="H" statut='valet' age='J' stat_amour='néant'>CHAMPAGNE</role>, valet de Sganarelle.</castItem> 
+			<castItem><role id="SGANARELLE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>SGANARELLE</role>, père de Lucinde.</castItem> 
+			<castItem><role id="LUCINDE" sex="2" type="H" statut='bourgeois' age="J" stat_amour='Clitandre'>LUCINDE</role>, fille de Sganarelle.</castItem> 
+			<castItem><role id="CLITANDRE" sex="1" type="H" statut='bourgeois' age="J" stat_amour='Lucinde'>CLITANDRE</role>, amant de Lucinde.</castItem> 
+			<castItem><role id="AMINTE" sex="2" type="H" statut='bourgeois' age="A" stat_amour='néant'>AMINTE</role>, voisine de Sganarelle.</castItem> 
+			<castItem><role id="LUCRECE" sex="2" type="H" statut='bourgeois' age="J" stat_amour='néant'>LUCRÈCE</role>, nièce de Sganarelle.</castItem> 
+			<castItem><role id="LISETTE" sex="2" type="H" statut='suivante' age="A" stat_amour='néant'>LISETTE</role>, suivante de Lucinde.</castItem> 
+			<castItem><role id="MONSIEUR GUILLAUME" sex="1" type="H" statut='ccommerçant' age="A" stat_amour='néant'>MONSIEUR GUILLAUME</role>, vendeur de tapisseries.</castItem> 
+			<castItem><role id="MONSIEUR JOSSE" sex="1" type="H" statut='orfèvre' age="A" stat_amour='néant'>MONSIEUR JOSSE</role>, orfèvre.</castItem> 
+			<castItem><role id="MONSIEUR TOMÈS" sex="1" type="H" statut='médecin' age="A" stat_amour='néant'>MONSIEUR TOMÈS</role>, médecin.</castItem> 
+			<castItem><role id="MONSIEUR DE FONANDRÈS" sex="1" type="H" statut='médecin' age="A" stat_amour='néant'>MONSIEUR DE FONANDRÈS</role>, médecin.</castItem> 
+			<castItem><role id="MONSIEUR MACROTON" sex="1" type="H" statut='médecin' age="A" stat_amour='néant'>MONSIEUR MACROTON</role>, médecin.</castItem> 
+			<castItem><role id="MONSIEUR BAHYS" sex="1" type="H" statut='médecin' age="A" stat_amour='néant'>MONSIEUR BAHYS</role>, médecin.</castItem> 
+			<castItem><role id="MONSIEUR FILERIN" sex="1" type="H" statut='médecin' age="A" stat_amour='néant'>MONSIEUR FILERIN</role>, médecin.</castItem> 
+			<castItem><role id="UN NOTAIRE" sex="1" type="H" statut='notaire' age="A" stat_amour='néant'>UN NOTAIRE</role>.</castItem> 
+			<castItem><role id="CHAMPAGNE" sex="1" type="H" statut='valet' age="A" stat_amour='néant'>CHAMPAGNE</role>, valet de Sganarelle.</castItem> 
 	</castList>
 		<castList><head>PERSONNAGES du BALLET, Première entrée.</head>
-			<castItem><role id="CHAMPAGNE" civil='M' type="H" statut='valet' age='J' stat_amour='néant'>CHAMPAGNE</role>.</castItem> 
-			<castItem><role id="QUATRE-MEDECINS" civil='G' type="H" statut='médecin' age='J' stat_amour='néant'>QUATRE MÉDECINS</role>.</castItem> 
+			<castItem><role id="CHAMPAGNE" sex="1" type="H" statut='valet' age="J" stat_amour='néant'>CHAMPAGNE</role>.</castItem> 
+			<castItem><role id="QUATRE-MEDECINS" sex="9" type="H" statut='médecin' age="A" stat_amour='néant'>QUATRE MÉDECINS</role>.</castItem> 
 	</castList>
 		<castList><head>PERSONNAGES du BALLET, Deuxième entrée.</head>
-			<castItem><role id="UN-OPERATEUR" civil='M' type="H" statut='opérateur' age='J' stat_amour='néant'>UN OPÉRATEUR</role>.</castItem> 
-			<castItem><role id="TRIVELINS" civil='M' type="H" statut='bourgeois' age='J' stat_amour='néant'>TRIVELINS</role>.</castItem> 
-			<castItem><role id="SCARAMOUCHES" civil='M' type="H" statut='bourgeois' age='J' stat_amour='néant'>SCARAMOUCHES</role>.</castItem> 
+			<castItem><role id="UN-OPERATEUR" sex="1" type="H" statut='opérateur' age="A" stat_amour='néant'>UN OPÉRATEUR</role>.</castItem> 
+			<castItem><role id="TRIVELINS" sex="1" type="H" statut='bourgeois' age="A" stat_amour='néant'>TRIVELINS</role>.</castItem> 
+			<castItem><role id="SCARAMOUCHES" sex="1" type="H" statut='bourgeois' age="A" stat_amour='néant'>SCARAMOUCHES</role>.</castItem> 
 	</castList>
 		<castList><head>PERSONNAGES du BALLET, Troisième entrée.</head>
-		<castItem><role id="LA-COMEDIE" civil='F' type="A" statut='art' age='J' stat_amour='néant'>LA COMÉDIE</role>.</castItem> 
-		<castItem><role id="LA-MUSIQUE" civil='F' type="A" statut='art' age='J' stat_amour='néant'>LA MUSIQUE</role>.</castItem> 
-		<castItem><role id="LE-BALLET" civil='M' type="A" statut='art' age='J' stat_amour='néant'>LE BALLET</role>.</castItem> 
-		<castItem><role id="JEUX" civil='G' type="A" statut='jeux-ris-plaisir' age='J' stat_amour='néant'>JEUX</role>.</castItem> 
-		<castItem><role id="RIS" civil='G' type="A" statut='jeux-ris-plaisir' age='J' stat_amour='néant'>RIS</role>.</castItem> 
-		<castItem><role id="PLAISIRS" civil='G' type="A" statut='jeux-ris-plaisir' age='J' stat_amour='néant'>PLAISIRS</role>.</castItem> 
+		<castItem><role id="LA-COMEDIE" sex="2" type="P" statut='art' age="A" stat_amour='néant'>LA COMÉDIE</role>.</castItem> 
+		<castItem><role id="LA-MUSIQUE" sex="2" type="P" statut='art' age="A" stat_amour='néant'>LA MUSIQUE</role>.</castItem> 
+		<castItem><role id="LE-BALLET" sex="1" type="P" statut='art' age="A" stat_amour='néant'>LE BALLET</role>.</castItem> 
+		<castItem><role id="JEUX" sex="9" type="P" statut='jeux-ris-plaisir' age="A" stat_amour='néant'>JEUX</role>.</castItem> 
+		<castItem><role id="RIS" sex="9" type="P" statut='jeux-ris-plaisir' age="A" stat_amour='néant'>RIS</role>.</castItem> 
+		<castItem><role id="PLAISIRS" sex="9" type="P" statut='jeux-ris-plaisir' age="A" stat_amour='néant'>PLAISIRS</role>.</castItem> 
 	</castList>
 <set location='Paris' country='France' periode='XVIIème' link=''>La scène est à Paris dans une salle de la maison de Sganarelle.</set>
 </front>

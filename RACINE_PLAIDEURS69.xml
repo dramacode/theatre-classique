@@ -6,9 +6,10 @@
 			<title>LES PLAIDEURS, COMÉDIE.</title>
 			<author born='1639' born_location='La Ferté Millon' death='1699' death_location='Paris' academie='1673'>RACINE, Jean</author>
 		</titleStmt>
-		<publicationStmp>	
+		<publicationStmt>	
 			<p>publié par Paul FIEVRE, Mai 2002, revu avril 2014, revu septembre 2015</p>
-		</publicationStmp>
+			<idno>RACINE_PLAIDEURS69</idno>
+		</publicationStmt>
 		<SourceDesc>
 			<genre>Comédie</genre>
 			<inspiration>moeurs françaises</inspiration>
@@ -55,14 +56,14 @@
 		<p type='p'>Quoi qu'il en soit, je puis dire que notre siècle n'a pas été de plus mauvaise humeur que le sien, et que si le but de ma comédie était de faire rire, jamais comédie n'a mieux attrapé son but. Ce n'est pas que j'attende un grand honneur d'avoir assez longtemps réjoui le monde ; mais je me sais quelque gré de l'avoir fait sans qu'il m'en ait coûté une seule de ces sales équivoques et de ces malhonnêtes plaisanteries qui coûtent maintenant si peu à la plupart de nos écrivains, et qui font retomber le théâtre dans la turpitude d'où quelques auteurs plus modestes l'avaient tiré.</p>
 	</div>
 		<castList><head>ACTEURS</head>
-			<castItem><role id="DANDIN" civil='M' type="H" statut='juge' age='A' stat_amour='néant'>DANDIN</role>, juge.</castItem>
-			<castItem><role id="LÉANDRE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='amoureux'>LÉANDRE</role>, fils de Dandin.</castItem>
-			<castItem><role id="CHICANNEAU" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>CHICANNEAU</role>, bourgeois.</castItem>
-			<castItem><role id="ISABELLE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='amoureux'>ISABELLE</role>, fille de Chicanneau.</castItem>
-			<castItem><role id="LA COMTESSE" civil='F' type="H" statut='comte' age='A' stat_amour='néant'>LA COMTESSE</role>.</castItem>
-			<castItem><role id="PETIT-JEAN" civil='M' type="H" statut='portier' age='A' stat_amour='néant'>PETIT-JEAN</role>, portier.</castItem>
-			<castItem><role id="LINTIME" civil='M' type="H" statut='secrétaire' age='A' stat_amour='néant'>L'INTIMÉ</role>, secrétaire.</castItem>
-			<castItem><role id="LE SOUFFLEUR" civil='M' type="H" statut='souffleur' age='A' stat_amour='néant'>LE SOUFFLEUR</role>.</castItem>
+			<castItem><role id="DANDIN" sex="1" type="H" statut='juge' age='A' stat_amour='néant'>DANDIN</role>, juge.</castItem>
+			<castItem><role id="LÉANDRE" sex="1" type="H" statut='bourgeois' age="J" stat_amour='amoureux'>LÉANDRE</role>, fils de Dandin.</castItem>
+			<castItem><role id="CHICANNEAU" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>CHICANNEAU</role>, bourgeois.</castItem>
+			<castItem><role id="ISABELLE" sex="2" type="H" statut='bourgeois' age="J" stat_amour='amoureux'>ISABELLE</role>, fille de Chicanneau.</castItem>
+			<castItem><role id="LA COMTESSE" sex="2" type="H" statut='comte' age='A' stat_amour='néant'>LA COMTESSE</role>.</castItem>
+			<castItem><role id="PETIT-JEAN" sex="1" type="H" statut='portier' age='A' stat_amour='néant'>PETIT-JEAN</role>, portier.</castItem>
+			<castItem><role id="LINTIME" sex="1" type="H" statut='secrétaire' age='A' stat_amour='néant'>L'INTIMÉ</role>, secrétaire.</castItem>
+			<castItem><role id="LE SOUFFLEUR" sex="1" type="H" statut='souffleur' age='A' stat_amour='néant'>LE SOUFFLEUR</role>.</castItem>
 		</castList>
 		<set location='Basse-Normandie' country='France' periode='XVIIème' link=''>La scène est dans une ville de Basse-Normandie.</set>
 </front>
@@ -129,7 +130,7 @@
 	<l id='49' part="i">Dormons.</l>
 </sp>
 </div2>
-<div2 type ='scene' n='2'><head>SCÈNE II. L'Intimé, Petit-Jean.</head>
+<div2 type='scene' n='2'><head>SCÈNE II. L'Intimé, Petit-Jean.</head>
 <sp who="L'INTIMÉ"><speaker>L'INTIMÉ.</speaker>
 <note type="L">Intimé : personne qui, ayant gagné son procès en première instance, est appelée devant un tribunal supérieur par sa partie. [L]</note>
 	<l id='49' part="m">Ay, Petit-Jean, Petit-Jean.</l>
@@ -162,7 +163,7 @@
 	<l id='60'>Si... Mais j'entends du bruit au dessus de la porte.</l>
 </sp>
 </div2>
-<div2 type ='scene' n='3'><head>SCÈNE III. Dandin, L'intimé, Petit-Jean.</head>
+<div2 type='scene' n='3'><head>SCÈNE III. Dandin, L'intimé, Petit-Jean.</head>
 <sp who="DANDIN"><speaker>DANDIN, à la fenêtre.</speaker>
 	<l id='61' part="i">Petit-Jean. L'Intimé.</l>
 </sp>
@@ -196,7 +197,7 @@
 	<l id='67' part="f">Main-forte. L'on me tue.</l>
 </sp>
 </div2>
-<div2 type ='scene' n='4'><head>SCÈNE IV. Léandre, Dandin, L'Intimé, Petit-Jean.</head>
+<div2 type='scene' n='4'><head>SCÈNE IV. Léandre, Dandin, L'Intimé, Petit-Jean.</head>
 <sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id='68'>Vite, un flambeau. J'entends mon père dans la rue.</l>
 	<l id='69'>Mon père, si matin qui vous fait déloger ?</l>
@@ -303,7 +304,7 @@
 	<l id='120'>Qu'on ne le quitte pas. Toi, l'Intimé, demeure. </l>
 </sp>
 </div2>
-<div2 type ='scene' n='5'><head>SCÈNE V. Léandre, L'Intimé.</head>
+<div2 type='scene' n='5'><head>SCÈNE V. Léandre, L'Intimé.</head>
 <sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id='121'>Je veux t'entretenir un moment sans témoin.</l>
 </sp>
@@ -399,7 +400,7 @@
 	<l id='164' part="i">Allons à ce dessein rêver ailleurs.</l>
 </sp>
 </div2>
-<div2 type ='scene' n='6'><head>SCÈNE VI. Chicanneau, Petit-Jean.</head>
+<div2 type='scene' n='6'><head>SCÈNE VI. Chicanneau, Petit-Jean.</head>
 <sp who="CHICANNEAU"><speaker>CHICANNEAU, allant et revenant.</speaker>
 	<l id='164' part="f">La Brie !</l>
 	<l id='165'>Qu'on garde la maison, je reviendrai bientôt. </l>
@@ -456,7 +457,7 @@
 	<l id='188'>De Pimbesche. Elle vient pour affaire qui presse.</l>
 </sp>
 </div2>
-<div2 type ='scene' n='7'><head>SCÈNE VII. Chicanneau, La Comtesse.</head>
+<div2 type='scene' n='7'><head>SCÈNE VII. Chicanneau, La Comtesse.</head>
 <sp who="CHICANNEAU"><speaker>CHICANNEAU.</speaker>
 	<l id='189' part="i">Madame, on n'entre plus.</l>
 </sp>
@@ -741,7 +742,7 @@
 	<l id='282' part="f">Que n'ai-je des témoins !</l>
 </sp>
 </div2>
-<div2 type ='scene' n='8'><head>SCÈNE VIII. Petit-Jean, La Comtesse, Chicanneau.</head>
+<div2 type='scene' n='8'><head>SCÈNE VIII. Petit-Jean, La Comtesse, Chicanneau.</head>
 <sp who="PETIT-JEAN"><speaker>PETIT-JEAN.</speaker>
 <note type="L">Sabbat : Familièrement. Grand bruit avec désordre. [F] </note>
 	<l id='283'>Voyez le beau sabbat qu'ils font à notre porte.</l>
@@ -818,8 +819,8 @@
 </sp>
 </div2>
 </div1>
-<div1 type ='acte' n='2'><head>ACTE II</head>
-<div2 type ='scene' n='1'><head>SCÈNE PREMIÈRE. Léandre, L'Intimé.</head>
+<div1 type ='act' n='2'><head>ACTE II</head>
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Léandre, L'Intimé.</head>
 <sp who="L'INTIMÉ"><speaker>L'INTIMÉ.</speaker>
 	<l id='299'>Monsieur encore un coup, je ne puis pas tout faire,</l>
 	<l id='300'>Puisque je fais l'huissier, faites le commissaire,</l>
@@ -862,7 +863,7 @@
 	<l id='327' part="i">Rentrez.</l>
 </sp>
 </div2>
-<div2 type ='scene' n='2'><head>SCÈNE II. L'Intimé, Isabelle.</head>
+<div2 type='scene' n='2'><head>SCÈNE II. L'Intimé, Isabelle.</head>
 <sp who="ISABELLE"><speaker>ISABELLE.</speaker>
 	<l id='327' part="m">Qui frappe ?</l>
 </sp>
@@ -966,7 +967,7 @@
 	<l id='351'>Tenez. Une autre fois ne soyez pas si prompte. </l>
 </sp>
 </div2>
-<div2 type ='scene' n='3'><head>SCÈNE III. Chicanneau, Isabelle, L'Intimé.</head>
+<div2 type='scene' n='3'><head>SCÈNE III. Chicanneau, Isabelle, L'Intimé.</head>
 <sp who="CHICANNEAU"><speaker>CHICANNEAU.</speaker>
 	<l id='352'>Oui ? Je suis donc un sot, un voleur, à son compte ?</l>
 	<l id='353'>Un sergent s'est chargé de la remercier,</l>
@@ -1015,7 +1016,7 @@
 	<l id='373' part="m">Adieu, Monsieur.</l>
 </sp>
 </div2>
-<div2 type ='scene' n='4'><head>SCÈNE IV. Chicanneau, L'Intimé.</head>
+<div2 type='scene' n='4'><head>SCÈNE IV. Chicanneau, L'Intimé.</head>
 <sp who="L'INTIMÉ"><speaker>L'INTIMÉ.</speaker>
 	<l id='373' part="f">Or ça,</l>
 	<l id='374' part="i">Verbalisons.</l>
@@ -1196,7 +1197,7 @@
 	<l id='442'>Je ne les voudrais pas donner pour mille écus.</l>
 </sp>
 </div2>
-<div2 type ='scene' n='5'><head>SCÈNE V. Léandre, Chicanneau, L'Intimé.</head>
+<div2 type='scene' n='5'><head>SCÈNE V. Léandre, Chicanneau, L'Intimé.</head>
 <sp who="L'INTIMÉ"><speaker>L'INTIMÉ.</speaker>
 	<l id='443'>Voici fort à propos Monsieur le Commissaire.</l>
 	<l id='444'>Monsieur, votre présence est ici nécessaire.</l>
@@ -1241,7 +1242,7 @@
 	<l id='459'>Comment, battre un huissier ? Mais voici la rebelle.</l>
 </sp>
 </div2>
-<div2 type ='scene' n='6'><head>SCÈNE VI. Léandre, Isabelle, Chicanneau, L'Intimé.</head>
+<div2 type='scene' n='6'><head>SCÈNE VI. Léandre, Isabelle, Chicanneau, L'Intimé.</head>
 <sp who="L'INTIMÉ"><speaker>L'INTIMÉ, à Isabelle.</speaker>
 	<l id='460' part="i">Vous le reconnaissez.</l>
 </sp>
@@ -1396,7 +1397,7 @@
 	<l id='507' part="i">Comment ?</l>
 </sp>
 </div2>
-<div2 type ='scene' n='7'><head>SCÈNE VII. Petit-Jean, Léandre, Chicanneau.</head>
+<div2 type='scene' n='7'><head>SCÈNE VII. Petit-Jean, Léandre, Chicanneau.</head>
 <sp who="PETIT-JEAN"><speaker>PETIT-JEAN.</speaker>
 	<l id='507' part="f">Holà, quelqu'un n'a-t-il point vu mon maître ?</l>
 	<l id='508'>Quel chemin a-t-il pris, la porte ou la fenêtre ?</l>
@@ -1413,7 +1414,7 @@
 	<l id='514' part="i">Est disparu.</l>
 </sp>
 </div2>
-<div2 type ='scene' n='8'><head>SCÈNE VIII. Dandin, Léandre, Chicanneau, L'Intimé, Petit-Jean.</head>
+<div2 type='scene' n='8'><head>SCÈNE VIII. Dandin, Léandre, Chicanneau, L'Intimé, Petit-Jean.</head>
 <sp who="DANDIN"><speaker>DANDIN.</speaker>
 	<l id='514' part="f">Paix, paix, que l'on se taise là.</l>
 </sp>
@@ -1447,7 +1448,7 @@
 	<l id='524' part="i">Et suis-moi.</l>
 </sp>
 </div2>
-<div2 type ='scene' n='9'><head>SCÈNE IX. Dandin, Chicanneau, La Comtesse, L'Intimé.</head>
+<div2 type='scene' n='9'><head>SCÈNE IX. Dandin, Chicanneau, La Comtesse, L'Intimé.</head>
 <sp who="DANDIN"><speaker>DANDIN.</speaker>
 	<l id='524' part="f">Dépêchez. Donnez votre requête.</l>
 </sp>
@@ -1533,7 +1534,7 @@
 	<l id='545'>Je n'ai pas eu le temps de lui dire deux mots.</l>
 </sp>
 </div2>
-<div2 type ='scene' n='10'><head>SCÈNE X. Chicanneau, Léandre sans robe, etc.</head>
+<div2 type='scene' n='10'><head>SCÈNE X. Chicanneau, Léandre sans robe, etc.</head>
 <sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id='546'>Messieurs voulez-vous bien nous laisser en repos ?</l>
 </sp>
@@ -1579,7 +1580,7 @@
 	<l id='554'>Quand je devrais ici demeurer jusqu'au soir. </l>
 </sp>
 </div2>
-<div2 type ='scene' n='11'><head>SCÈNE XI. Petit-Jean, Léandre, Chicanneau, etc.</head>
+<div2 type='scene' n='11'><head>SCÈNE XI. Petit-Jean, Léandre, Chicanneau, etc.</head>
 <sp who="PETIT-JEAN"><speaker>PETIT-JEAN, à Léandre.</speaker>
 	<l id='555'>On ne l'entendra pas, quelque chose qu'il fasse.</l>
 	<l id='556'>Parbleu, je l'ai fourré dans notre salle basse,</l>
@@ -1694,7 +1695,7 @@
 	<l id='580' part="f">Va vite, je le garde.</l>
 </sp>
 </div2>
-<div2 type ='scene' n='12'><head>SCÈNE XII. La Comtesse, Léandre.</head>
+<div2 type='scene' n='12'><head>SCÈNE XII. La Comtesse, Léandre.</head>
 <sp who="LA-COMTESSE"><speaker>LA COMTESSE.</speaker>
 	<l id='581'>Misérable ! Il s'en va lui prévenir l'esprit.</l>
 <stage>Par le soupirail.</stage>
@@ -1723,7 +1724,7 @@
 	<l id='592'>Que de fous ! Je ne fus jamais à telle fête.</l>
 </sp>
 </div2>
-<div2 type ='scene' n='13'><head>SCÈNE XIII. Dandin, L'Intimé, Léandre.</head>
+<div2 type='scene' n='13'><head>SCÈNE XIII. Dandin, L'Intimé, Léandre.</head>
 <sp who="L'INTIMÉ"><speaker>L'INTIMÉ.</speaker>
 	<l id='593'>Monsieur, où courez-vous ? C'est vous mettre en danger,</l>
 	<l id='594' part="i">Et vous boitez tout bas.</l>
@@ -1784,7 +1785,7 @@ ne prêtent rien que sous bons gages et nantissements. [F]</note>
 	<l id='619' part="i">Contre un de vos voisins...</l>
 </sp>
 </div2>
-<div2 type ='scene' n='14'><head>SCÈNE XIV. Dandin, Léandre, L'Intimé, Petit-Jean.</head>
+<div2 type='scene' n='14'><head>SCÈNE XIV. Dandin, Léandre, L'Intimé, Petit-Jean.</head>
 <sp who="PETIT-JEAN"><speaker>PETIT-JEAN.</speaker>
 	<l id='619' part="f">Arrête, arrête, attrape.</l>
 </sp>
@@ -1860,8 +1861,8 @@ ne prêtent rien que sous bons gages et nantissements. [F]</note>
 </sp>
 </div2>
 </div1>
-<div1 type ='acte' n='3'><head>ACTE III</head>
-<div2 type ='scene' n='1'><head>SCÈNE PREMIÈRE. Chicanneau, Léandre, Le Souffleur.</head>
+<div1 type ='act' n='3'><head>ACTE III</head>
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Chicanneau, Léandre, Le Souffleur.</head>
 <sp who="CHICANNEAU"><speaker>CHICANNEAU.</speaker>
 	<l id='651'>Oui, Monsieur, c'est ainsi qu'il ont conduit l'affaire.</l>
 	<l id='652'>L'huissier m'est inconnu, comme le commissaire.</l>
@@ -1909,7 +1910,7 @@ ne prêtent rien que sous bons gages et nantissements. [F]</note>
 	<l id='684' part="i">Quel homme !</l>
 </sp>
 </div2>
-<div2 type ='scene' n='2'><head>SCÈNE II. Léandre, Le Souffleur.</head>
+<div2 type='scene' n='2'><head>SCÈNE II. Léandre, Le Souffleur.</head>
 <sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id='684' part="f">Je me sers d'un étrange artifice.</l>
 	<l id='685'>Mais mon père est un homme à se désespérer,</l>
@@ -1919,7 +1920,7 @@ ne prêtent rien que sous bons gages et nantissements. [F]</note>
 	<l id='689'>Mais voici tous nos gens qui marchent sur nos pas. </l>
 </sp>
 </div2>
-<div2 type ='scene' n='3'><head>SCÈNE III. Dandin, Léandre, L'Intimé, Petit-Jean, Le Souffleur</head>
+<div2 type='scene' n='3'><head>SCÈNE III. Dandin, Léandre, L'Intimé, Petit-Jean, Le Souffleur</head>
 <sp who="DANDIN"><speaker>DANDIN.</speaker>
 	<l id='690' part="i">Çà, qu'êtes-vous ici ?</l>
 </sp>
@@ -2408,7 +2409,7 @@ que l'on nomma Chaos. C'était une masse grossière et confuse(...).</note>
 	<l id='833'>Mais je suis occupé, je ne veux voir personne.</l>
 </sp>
 </div2>
-<div2 type ='scene' n='4'><head>SCÈNE DERNIÈRE. Chicanneau, Isabelle, etc.</head>
+<div2 type='scene' n='4'><head>SCÈNE DERNIÈRE. Chicanneau, Isabelle, etc.</head>
 <sp who="CHICANNEAU"><speaker>CHICANNEAU.</speaker>
 	<l id='834' part="i">Monsieur...</l>
 </sp>

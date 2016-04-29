@@ -7,9 +7,10 @@
 				<author born='1609' born_location='Dreux' death='1650' death_location='Dreux' academie=''>ROTROU, Jean</author>
 				<date>1637</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<authority>publié par Ernest FIEVRE, mars 2007</authority>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Pastorale</genre>
 				<inspiration>pastorale</inspiration>
@@ -41,17 +42,17 @@
 			</performance>
 		<avertissement><head>AVERTISSEMENT de l'Imprimeur au Lecteur. </head>
 		<p>Il y a dix-huit ou vingt ans que feu Monsieur de Rotrou ébaucha cette Pastorale, qu'il se proposait dès lors de donner au Théâtre. Mais comme ce genre Dramatique n'était guère du temps, il s'avisa de l'habiller en Comédie, et la fit depuis mettre au jour sous le nom de Célimène. Depuis la mort de ce célèbre Auteur, quelques-uns de ses Amis ayant rencontré le premier crayon de la Pastorale imparfaite, ont cru que c'était un Ouvrage qui pourrait plaire au public pourvu qu'il fut achevé par quelque agréable plume. Un bel esprit à leur prière, fit les stances les scènes des satyres, et quelques autres endroits que vous verrez. Si bien que c'est ici un Tableau où deux différents Pinceaux ont contribué, et fait une union assez belle, puisque généralement le Peuple et la Cour, y trouvent beaucoup de divertissement, et confessent que c'eût été dommage que cette Pastorale n'eût point été mise en lumière. Ce bruit m'a persuadé qu'elle méritait bien d'être imprimée, et je vous l'offre, afin que votre curiosité soit entièrement satisfaite. Adieu.</p>
-		</avertissement>
+		</avertissement>p
 	<castList><head>PERSONNAGES</head>
-		<castItem><role id="LISIMÈNE" civil='F' type="H" statut='berger' age='A' stat_amour='néant'>LISIMÈNE</role>.</castItem>
-		<castItem><role id="BÉLISE" civil='F' type="H" statut='berger' age='A' stat_amour='néant'>BÉLISE</role>, nièce le Lisimène.</castItem>
-		<castItem><role id="TYRENE" civil='M' type="H" statut='berger' age='A' stat_amour='amoureux'>TYRENE</role>, amoureux d'Amarillis.</castItem>
-		<castItem><role id="AMARILLIS" civil='F' type="H" statut='berger' age='A' stat_amour='néant'>AMARILLIS</role>, bergère.</castItem>
-		<castItem><role id="PHILIDAS" civil='M' type="H" statut='berger' age='A' stat_amour='amoureux'>PHILIDAS</role>, amoureux d'Amarillis.</castItem>
-		<castItem><role id="DAPHNÉ" civil='F' type="H" statut='berger' age='A' stat_amour='néant'>DAPHNÉ</role>, soeur d'Amarillis.</castItem>
-		<castItem><role id="CELIDAN" civil='M' type="H" statut='berger' age='A' stat_amour='amoureux'>CELIDAN</role>, amoureux de Daphné.</castItem>
-		<castItem><role id="SATYRES" civil='M' type="G" statut='satyre' age='A' stat_amour='néant'>Trois SATYRES</role>, fille de Florisel et de Sydonie.</castItem>
-		<castItem><role id="CLIMANTE" civil='M' type="H" statut='domestique' age='A' stat_amour='néant'>CLIMANTE</role>, domestique de Daphné.</castItem>
+		<castItem><role id="LISIMÈNE" sex="2" type="H" statut='berger' age='A' stat_amour='néant'>LISIMÈNE</role>.</castItem>
+		<castItem><role id="BÉLISE" sex="2" type="H" statut='berger' age='A' stat_amour='néant'>BÉLISE</role>, nièce le Lisimène.</castItem>
+		<castItem><role id="TYRENE" sex="1" type="H" statut='berger' age='A' stat_amour='amoureux'>TYRENE</role>, amoureux d'Amarillis.</castItem>
+		<castItem><role id="AMARILLIS" sex="2" type="H" statut='berger' age='A' stat_amour='néant'>AMARILLIS</role>, bergère.</castItem>
+		<castItem><role id="PHILIDAS" sex="1" type="H" statut='berger' age='A' stat_amour='amoureux'>PHILIDAS</role>, amoureux d'Amarillis.</castItem>
+		<castItem><role id="DAPHNÉ" sex="2" type="H" statut='berger' age='A' stat_amour='néant'>DAPHNÉ</role>, soeur d'Amarillis.</castItem>
+		<castItem><role id="CELIDAN" sex="1" type="H" statut='berger' age='A' stat_amour='amoureux'>CELIDAN</role>, amoureux de Daphné.</castItem>
+		<castItem><role id="SATYRES" sex="1" type="D" statut='satyre' age='A' stat_amour='néant'>Trois SATYRES</role>, fille de Florisel et de Sydonie.</castItem>
+		<castItem><role id="CLIMANTE" sex="1" type="H" statut='domestique' age='A' stat_amour='néant'>CLIMANTE</role>, domestique de Daphné.</castItem>
 	</castList>
 	<set location='Forez' country='France' periode='(inconnue)' link=''>La scène est au bord du Lignon.</set>
 </front>

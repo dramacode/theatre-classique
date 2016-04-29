@@ -7,9 +7,10 @@
 				<author born='1661' born_location='Paris' death='1725' death_location='Paris' academie=''>DANCOURT, Florent Carton dit</author>
 				<date>1699</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, janvier 2013</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -44,19 +45,19 @@
 			<premiere date="1693-08-18" location='Théâtre de la rue des Fossés Saint-Germain'>Représentée pour la première fois le 18 Août 1693 au Théâtre de la rue des Fossés Saint-Germain.</premiere>
 		</performance>
 	<castList><head>ACTEURS.</head>
-		<castItem><role id="THIBAUT" civil='M' type="H" statut='fermier' age='A' stat_amour='néant'>THIBAUT</role>, Fermier.</castItem>
-		<castItem><role id="LOUISON" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>LOUISON</role>, fille de Thibaut.</castItem>
-		<castItem><role id="COLIN" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>COLIN</role>, neveu de Thibaut.</castItem> 
-		<castItem><role id="MARTINE" civil='F' type="H" statut='valet' age='A' stat_amour='néant'>MARTINE</role>, sour de Colin.</castItem>
-		<castItem><role id="LA FLÈCHE" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>LA FLÈCHE</role>, Valet de Chambre d'un Colonel.</castItem>
-		<castItem><role id="GALOCHE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>GALOCHE</role>.</castItem>
-		<castItem><role id="LE MAGISTER" civil='M' type="H" statut='magister' age='A' stat_amour='néant'>LE MAGISTER</role>.</castItem>
-		<castItem><role id="LE CARILLONNEUR" civil='M' type="H" statut='carillonneur' age='A' stat_amour='néant'>LE CARILLONNEUR</role>.</castItem>
-		<castItem><role id="LE MENESTRIER" civil='M' type="H" statut='' age='A' stat_amour='néant'>LE MENESTRIER</role>.</castItem>
-		<castItem><role id="NAYMPHE DU CHÂTEAU" civil='D' type="N" statut='nymphe' age='A' stat_amour='néant'>LA NYMPHE DU CHÂTEAU</role>.</castItem>
-		<castItem><role id="CLAUDINE" civil='F' type="H" statut='paysan' age='A' stat_amour='néant'>CLAUDINE</role>.</castItem>
-		<castItem><role id="PIERROT" civil='M' type="H" statut='paysan' age='A' stat_amour='néant'>PIERROT</role>.</castItem>
-		<castItem><role id="PAYSANS ET PAYSANNES" civil='G' type="H" statut='paysan' age='A' stat_amour='néant'>Troupes de Paysans et de Paysannes</role>.</castItem>
+		<castItem><role id="THIBAUT" sex="1" type="H" statut='fermier' age='A' stat_amour='néant'>THIBAUT</role>, Fermier.</castItem>
+		<castItem><role id="LOUISON" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>LOUISON</role>, fille de Thibaut.</castItem>
+		<castItem><role id="COLIN" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>COLIN</role>, neveu de Thibaut.</castItem> 
+		<castItem><role id="MARTINE" sex="2" type="H" statut='valet' age='A' stat_amour='néant'>MARTINE</role>, soeur de Colin.</castItem>
+		<castItem><role id="LA FLÈCHE" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>LA FLÈCHE</role>, Valet de Chambre d'un Colonel.</castItem>
+		<castItem><role id="GALOCHE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>GALOCHE</role>.</castItem>
+		<castItem><role id="LE MAGISTER" sex="1" type="H" statut='magister' age='A' stat_amour='néant'>LE MAGISTER</role>.</castItem>
+		<castItem><role id="LE CARILLONNEUR" sex="1" type="H" statut='carillonneur' age='A' stat_amour='néant'>LE CARILLONNEUR</role>.</castItem>
+		<castItem><role id="LE MENESTRIER" sex="1" type="H" statut='' age='A' stat_amour='néant'>LE MENESTRIER</role>.</castItem>
+		<castItem><role id="NYMPHE DU CHÂTEAU" sex='2' type="D" statut='nymphe' age='A' stat_amour='néant'>LA NYMPHE DU CHÂTEAU</role>.</castItem>
+		<castItem><role id="CLAUDINE" sex="2" type="H" statut='paysan' age='A' stat_amour='néant'>CLAUDINE</role>.</castItem>
+		<castItem><role id="PIERROT" sex="1" type="H" statut='paysan' age='A' stat_amour='néant'>PIERROT</role>.</castItem>
+		<castItem><role id="PAYSANS ET PAYSANNES" sex="9" type="H" statut='paysan' age='A' stat_amour='néant'>Troupes de Paysans et de Paysannes</role>.</castItem>
 	</castList>
 	<set location="Lyon" country='France' periode='XVIIème' link=''>La Scène est dans un Village, proche de Lyon..</set>
 </front>
@@ -100,7 +101,7 @@
 </p>
 </sp>
 <sp who="COLIN"><speaker>COLIN.</speaker>
-<note type="">Enfiler des perles : Fig. et familièrement. Je ne suis pas ici pour enfiler des perles, c'est-à-dire pour perdre mon temps, ou l'employer à des choses de peu d'importance. [L]</note>
+<note type="L">Enfiler des perles : Fig. et familièrement. Je ne suis pas ici pour enfiler des perles, c'est-à-dire pour perdre mon temps, ou l'employer à des choses de peu d'importance. [L]</note>
 <note>Lorgner : Regarder quelqu'un de travers et du coin de l'oeil ; ce qui se fait quelquefois par mépris, par haine, par orgueuil. [F]</note>
 <p id="5">
 	<s id="1">Hé non, d'accord, il n'y a point d'appréhension à avoir : mais il est toujours bon de prendre garde. </s>
@@ -1383,7 +1384,7 @@
 <sp who="COLIN"><speaker>COLIN.</speaker>
 <p id="6">
 	<s id="1">N'étais-je pas assez bon pour aller tout seul au-devant de notte Monsieur le Marquis ? </s>
-	<s id="2">Pourquoi y envoyer ma sour Martine et la cousine Louison.</s>
+	<s id="2">Pourquoi y envoyer ma soeur Martine et la cousine Louison.</s>
 </p>
 </sp>
 <sp who='LA FLÈCHE'><speaker>LA FLÈCHE, à part.</speaker>
@@ -1428,7 +1429,7 @@
 </p>
 </sp>
 <sp who="COLIN"><speaker>COLIN.</speaker>
-<note type="C">Dépité pour député : effet comique de l'a-peu-près. Le réprésentant "député" du village est confondu avec un "dépité", un déçu qui nourrit du dépit.</note>
+<note type="C">Dépité pour député : effet comique de l'a-peu-près. Le représentant "député" du village est confondu avec un "dépité", un déçu qui nourrit du dépit.</note>
 <note type="L">Tantia : Est une déformation pour tant il y a : Quoi qu'il en soit. </note>
 <p id="15">
 	<s id="1">Je leur ai demandé où alles allions : au-devant de Monsieur le Marquis, m'ont-elles fait. </s>
@@ -1453,7 +1454,7 @@
 <sp who="COLIN"><speaker>COLIN.</speaker>
 <p id="18">
 	<s id="1">Attendez. </s>
-	<s id="2">Vela ma sour Martine.</s>
+	<s id="2">Vela ma soeur Martine.</s>
 </p>
 </sp>
 </div2>

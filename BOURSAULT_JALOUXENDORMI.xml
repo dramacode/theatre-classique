@@ -6,12 +6,13 @@
 				<title>LE JALOUX ENDORMI, COMÉDIE.</title>
 				<author born='1638' born_location="Mussy-l Evêque" death='1701' death_location='Paris' academie=''>BOURSAULT, Edme</author>
 							</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<editor>Texte établi par Charlotte Dias, dans le cadre d'un travail d'édition critique sous la direction de Georges Forestier. (Université Paris-Sorbonne)
 				</editor>
 				
 				<publisher>publié par Paul FIEVRE, décembre 2014.</publisher>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -57,11 +58,11 @@
 		<p>BOURSAULT.</p>
 	</div>
 	<castList><head>PERSONNAGES</head>
-			<castItem><role id="SPADARILLE" civil="M" type="H" statut="gouverneur" age="A" stat_amour='néant'>SPADARILLE</role>, Gouverneur de Toulon, mari d'Olimpie, qui en est si jaloux qu'il l'enferme à six cadenas.</castItem>
-			<castItem><role id="CLÉANDRE" civil="M" type="H" statut="aristocrate" age="A" stat_amour='néant'>CLÉANDRE</role>, Amoureux d'Olimpie, à qui Alcidor l'ôta pour la donner en mariage à SPADARILLE.</castItem>
-			<castItem><role id="OLIMPIE" civil="F" type="H" statut="aristocrate" age="A" stat_amour='néant'>OLIMPIE</role>, femme de SPADARILLE, et fille d'Alcidor, autrefois promise à Cléandre.</castItem>
-			<castItem><role id="ALCIDOR" civil="M" type="H" statut="aristocrate" age="A" stat_amour='néant'>ALCIDOR</role>, Père d'Olimpie.</castItem>
-			<castItem><role id="CASCADET" civil="M" type="H" statut="valet" age="A" stat_amour='néant'>CASCADET</role>, Valet de Cléandre.</castItem>
+			<castItem><role id="SPADARILLE" sex="1" type="H" statut="gouverneur" age="A" stat_amour='néant'>SPADARILLE</role>, Gouverneur de Toulon, mari d'Olimpie, qui en est si jaloux qu'il l'enferme à six cadenas.</castItem>
+			<castItem><role id="CLÉANDRE" sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>CLÉANDRE</role>, Amoureux d'Olimpie, à qui Alcidor l'ôta pour la donner en mariage à SPADARILLE.</castItem>
+			<castItem><role id="OLIMPIE" sex="2" type="H" statut="aristocrate" age="A" stat_amour='néant'>OLIMPIE</role>, femme de SPADARILLE, et fille d'Alcidor, autrefois promise à Cléandre.</castItem>
+			<castItem><role id="ALCIDOR" sex="1" type="H" statut="aristocrate" age="V" stat_amour='néant'>ALCIDOR</role>, Père d'Olimpie.</castItem>
+			<castItem><role id="CASCADET" sex="1" type="H" statut="valet" age="A" stat_amour='néant'>CASCADET</role>, Valet de Cléandre.</castItem>
 		</castList>
 		<set location='Toulon' country='France' periode='XVIIème' link=''>La scène est à Toulon.</set>
 </front>

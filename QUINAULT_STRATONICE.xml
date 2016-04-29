@@ -7,9 +7,10 @@
 				<author born='1635' born_location='Paris' death='1688' death_location='Paris' academie='1670'>QUINAULT, Philippe</author>
 				<date>1660</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, Mai 2006, revu Décembre 2014</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragi-comédie</genre>
 				<inspiration>histoire romaine</inspiration>
@@ -41,17 +42,17 @@
 			<premiere date='1660-01-02' location='Hôtel de Bourgogne'>Réprésenté pour la première fois le 2 janvier 1660 au théâtre de l'Hôtel de Bourgogne.</premiere>
 		</performance>
 	<castList><head>ACTEURS</head>
-		<castItem><role id="BARSINE" civil='F' type="H" statut='prince' age='A' stat_amour='néant'>BARSINE</role>, fille d'Eumenes et nièce d'Attale, rois de Pergame.</castItem>
-		<castItem><role id="CÉPHISE" civil='F' type="H" statut='confident' age='A' stat_amour='néant'>CÉPHISE</role>, confidente de Barsine.</castItem>
-		<castItem><role id="SÉLEUCUS" civil='M' type="H" statut='roi' age='A' stat_amour='néant'>SÉLEUCUS</role>, roi de Syrie.</castItem>
-		<castItem><role id="POLICRATE" civil='M' type="H" statut='confident' age='A' stat_amour='néant'>POLICRATE</role>, confident de Séleucus.</castItem>
-		<castItem><role id="ANTIOCHUS" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>ANTIOCHUS</role>, fils de Séleucus.</castItem>
-		<castItem><role id="TIMANTE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>TIMANTE</role>, favori d'Antiochus.</castItem>
-		<castItem><role id="PHILIPPE" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>PHILIPPE</role>, oncle de Stratonice.</castItem>
-		<castItem><role id="STRATONICE" civil='F' type="H" statut='prince' age='A' stat_amour='néant'>STRATONICE</role>, fille de Demetrius, roi de Macédoine.</castItem>
-		<castItem><role id="ZÉNONE" civil='F' type="H" statut='suivante' age='A' stat_amour='néant'>ZÉNONE</role>, suivante de Stratonice.</castItem>
-		<castItem><role id="ZABAS" civil='M' type="H" statut='courtisan' age='A' stat_amour='néant'>ZABAS</role>, courtisan de Seleucus.</castItem>
-		<castItem><role id="SUITE" civil='G' type="H" statut='suite' age='A' stat_amour='néant'>SUITE</role>.</castItem>
+		<castItem><role id="BARSINE" sex="2" type="H" statut='prince' age='A' stat_amour='néant'>BARSINE</role>, fille d'Eumenes et nièce d'Attale, rois de Pergame.</castItem>
+		<castItem><role id="CÉPHISE" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>CÉPHISE</role>, confidente de Barsine.</castItem>
+		<castItem><role id="SÉLEUCUS" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>SÉLEUCUS</role>, roi de Syrie.</castItem>
+		<castItem><role id="POLICRATE" sex="1" type="H" statut='confident' age='A' stat_amour='néant'>POLICRATE</role>, confident de Séleucus.</castItem>
+		<castItem><role id="ANTIOCHUS" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>ANTIOCHUS</role>, fils de Séleucus.</castItem>
+		<castItem><role id="TIMANTE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>TIMANTE</role>, favori d'Antiochus.</castItem>
+		<castItem><role id="PHILIPPE" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>PHILIPPE</role>, oncle de Stratonice.</castItem>
+		<castItem><role id="STRATONICE" sex="2" type="H" statut='prince' age='A' stat_amour='néant'>STRATONICE</role>, fille de Demetrius, roi de Macédoine.</castItem>
+		<castItem><role id="ZÉNONE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>ZÉNONE</role>, suivante de Stratonice.</castItem>
+		<castItem><role id="ZABAS" sex="1" type="H" statut='courtisan' age='A' stat_amour='néant'>ZABAS</role>, courtisan de Seleucus.</castItem>
+		<castItem><role id="SUITE" sex="9" type="H" statut='suite' age='A' stat_amour='néant'>SUITE</role>.</castItem>
 	</castList>
 	<set location='Antioche' country='Turquie' periode='IIIème avant JC' link=''>La scène est dans Antioche.</set>
 	</front>

@@ -7,9 +7,10 @@
 			<author born='1622' born_location='Paris' death='1673' death_location='Paris' academie=''>MOLIERE</author>
 				
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, Mai 2006, revu Octobre 2013, revu mai 2015</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie héroïque</genre>
 				<inspiration>pastorale</inspiration>
@@ -45,16 +46,16 @@
 			<premiere date='1666-12-02' location='Château de Saint-Germain-en-Laye'>Représenté pour la première fois le 2 décembre 1666 au Château de Saint-Germain-en-Laye.</premiere>
 		</performance>
 	<castList><head>ACTEURS</head>
-		<castItem><role id="ACANTE" civil='M' type="H" statut='berger' age='A' stat_amour='Daphné'>ACANTE</role>, amant de Daphné.</castItem>
-		<castItem><role id="TYRÈNE" civil='M' type="H" statut='berger' age='A' stat_amour='Eroxène'>TYRÈNE</role>, amant d'Éroxène.</castItem>
-		<castItem><role id="DAPHNÉ" civil='F' type="H" statut='berger' age='A' stat_amour='néant'>DAPHNÉ</role>, bergère.</castItem>
-		<castItem><role id="ÉROXÈNE" civil='F' type="H" statut='berger' age='A' stat_amour='néant'>ÉROXÈNE</role>, bergère.</castItem>
-		<castItem><role id="LYCARSYS" civil='M' type="H" statut='pâtre' age='A' stat_amour='néant'>LYCARSYS</role>, pâtre, cru père de Myrtil.</castItem>
-		<castItem><role id="MYRTIL" civil='M' type="H" statut='berger' age='A' stat_amour='Mélicerte'>MYRTIL</role>, amant de Mélicerte.</castItem>
-		<castItem><role id="MÉLICERTE" civil='F' type="D" statut='nymphe' age='A' stat_amour='Myrtil'>MÉLICERTE</role>, nymphe ou bergère, amante de Myrtil.</castItem>
-		<castItem><role id="CORINNE" civil='F' type="H" statut='confident' age='A' stat_amour='néant'>CORINNE</role>, confidente de Mélicerte.</castItem>
-		<castItem><role id="NICANDRE" civil='M' type="H" statut='berger' age='A' stat_amour='néant'>NICANDRE</role>, berger.</castItem>
-		<castItem><role id="MOPSE" civil='M' type="H" statut='berger' age='A' stat_amour='néant'>MOPSE</role>, berger, cru oncle de Mélicerte.</castItem>
+		<castItem><role id="ACANTE" sex="1" type="H" statut='berger' age='A' stat_amour='Daphné'>ACANTE</role>, amant de Daphné.</castItem>
+		<castItem><role id="TYRÈNE" sex="1" type="H" statut='berger' age='A' stat_amour='Eroxène'>TYRÈNE</role>, amant d'Éroxène.</castItem>
+		<castItem><role id="DAPHNÉ" sex="2" type="H" statut='berger' age='A' stat_amour='néant'>DAPHNÉ</role>, bergère.</castItem>
+		<castItem><role id="ÉROXÈNE" sex="2" type="H" statut='berger' age='A' stat_amour='néant'>ÉROXÈNE</role>, bergère.</castItem>
+		<castItem><role id="LYCARSYS" sex="1" type="H" statut='pâtre' age='A' stat_amour='néant'>LYCARSYS</role>, pâtre, cru père de Myrtil.</castItem>
+		<castItem><role id="MYRTIL" sex="1" type="H" statut='berger' age='A' stat_amour='Mélicerte'>MYRTIL</role>, amant de Mélicerte.</castItem>
+		<castItem><role id="MÉLICERTE" sex="2" type="D" statut='nymphe' age='A' stat_amour='Myrtil'>MÉLICERTE</role>, nymphe ou bergère, amante de Myrtil.</castItem>
+		<castItem><role id="CORINNE" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>CORINNE</role>, confidente de Mélicerte.</castItem>
+		<castItem><role id="NICANDRE" sex="1" type="H" statut='berger' age='A' stat_amour='néant'>NICANDRE</role>, berger.</castItem>
+		<castItem><role id="MOPSE" sex="1" type="H" statut='berger' age='A' stat_amour='néant'>MOPSE</role>, berger, cru oncle de Mélicerte.</castItem>
 	</castList>
 	<set location='Thessalie' country='Grèce' periode='Temps mythologiques' link=''>La scène est en Thessalie, dans la vallée de Tempé.</set>
 	<note>Extrait de "LES OEUVRES POSTHUMES DE MONSIEUR MOLIÈRE. TOME VII. Imprimées pour la première fois en l'année 1682. Enrichies de figures en taille-douce." pp 226-261.</note>

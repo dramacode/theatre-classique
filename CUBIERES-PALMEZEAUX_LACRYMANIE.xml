@@ -7,9 +7,10 @@
 				<author born='1752' born_location='Gard' death='1820' death_location='Paris' academie=''>CUBIÈRES-PALMÉZEAUX, Michel de</author>
 				
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, Décembre 2013</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -43,13 +44,13 @@
 		</performance>
 		<castList>
 			<head>ACTEURS.</head>
-				<castItem><role id="LISIMON" civil="M" type="H" statut='bourgeois' age='V' stat_amour='néant'>LISIMON</role>, Lacrymane, beau-frère d'Alcipe.</castItem>
-				<castItem><role id="ÉMILIE" civil="F" type="H" statut='bourgeois' age='A' stat_amour='néant'>ÉMILIE</role>, fille de Lisimon.</castItem>
-				<castItem><role id="CLITANDRE" civil="M" type="H" statut='bourgeois' age='A' stat_amour='Émilie'>CLITANDRE</role>, amant d'Émilie.</castItem>
-				<castItem><role id="ALCIPE" civil="M" type="H" statut='bourgeois' age='A' stat_amour='néant'>ALCIPE</role>, beau-frere de Lisimon, oncle de l'Ethérée.</castItem>
-				<castItem><role id="L'ETHÉREE" civil="M" type="H" statut='bourgeois' age='A' stat_amour='néant'>L'ETHÉREE</role>, neveu d'Alcipe, ou le Damis de la Métromanie.</castItem>
-				<castItem><role id="PASQUIN" civil="M" type="H" statut='valet' age='A' stat_amour='néant'>PASQUIN</role>, valet de l'Ethérée.</castItem>
-				<castItem><role id="LISETTE" civil="F" type="H" statut='suivante' age='A' stat_amour='néant'>LISETTE</role>, suivante d'Émilie.</castItem>
+				<castItem><role id="LISIMON" sex="1" type="H" statut='bourgeois' age='V' stat_amour='néant'>LISIMON</role>, Lacrymane, beau-frère d'Alcipe.</castItem>
+				<castItem><role id="ÉMILIE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>ÉMILIE</role>, fille de Lisimon.</castItem>
+				<castItem><role id="CLITANDRE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='Émilie'>CLITANDRE</role>, amant d'Émilie.</castItem>
+				<castItem><role id="ALCIPE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>ALCIPE</role>, beau-frere de Lisimon, oncle de l'Ethérée.</castItem>
+				<castItem><role id="L'ETHÉREE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>L'ETHÉREE</role>, neveu d'Alcipe, ou le Damis de la Métromanie.</castItem>
+				<castItem><role id="PASQUIN" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>PASQUIN</role>, valet de l'Ethérée.</castItem>
+				<castItem><role id="LISETTE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>LISETTE</role>, suivante d'Émilie.</castItem>
 		</castList>
 		<set location='Paris' country='France' periode='XVIIIème' link=''>La Scène est chez Monsieur Lisimon, ou, si l'on veut, chez M. de Francaleu de la Métromanie.</set>
 </front>

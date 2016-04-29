@@ -6,10 +6,11 @@
 				<title>LE DÉNIAISÉ, COMÉDIE</title>
 				<author born='1620' born_location='' death='166?' death_location='' academie=''>GILLET DE LA TESSONERIE</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<editor>Texte établi par Emilie DURUISSEAU Mémoire de Maîtrise en Littérature Française sous la direction de Georges FORESTIER. (Année 2003 - 2004)</editor>
 				<publisher>publié par Paul FIEVRE juin 2012</publisher>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -47,20 +48,20 @@
 		</performance>
 		<castList>
 			<head>PERSONNAGES</head>
-			<castItem><role id="ARISTE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='amoureux'>ARISTE</role>, est le Déniaisé, Amant d'Olympe.</castItem>
-			<castItem><role id="CLIMANTE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>CLIMANTE</role>, celui qui veut jouer Ariste, Olympe.</castItem>
-			<castItem><role id="ORONTE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>ORONTE</role>, mari prétendu d'Olympe.</castItem>
-			<castItem><role id="JODELET" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>JODELET</role>, valet d'Ariste.</castItem>
-			<castItem><role id="PANCRACE" civil='M' type="H" statut='intendant' age='A' stat_amour='Lisette'>PANCRACE</role>, Intendant d'Oronte amoureux de Lisette.</castItem>
-			<castItem><role id="OLYMPE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>OLYMPE</role>, fille de Provence enlevée par Oronte.</castItem>
-			<castItem><role id="LISETTE" civil='M' type="H" statut='servante' age='A' stat_amour='Jodelet'>LISETTE</role>, servante d'Olympe amoureuse de Jodelet.</castItem>
-			<castItem><role id="UN EXEMPT" civil='M' type="H" statut='exempt' age='A' stat_amour='néant'>UN EXEMPT</role>.</castItem>
-			<castItem><role id="UN VIEIL CAPORAL" civil='M' type="H" statut='caporal' age='A' stat_amour='néant'>UN VIEIL CAPORAL</role>.</castItem>
-			<castItem><role id="PREMIERVIOLON" civil='M' type="H" statut='musicien' age='A' stat_amour='néant'>PREMIER VIOLON</role>.</castItem>
-			<castItem><role id="SECOND VIOLON" civil='M' type="H" statut='musicien' age='A' stat_amour='néant'>SECOND VIOLON</role>.</castItem>
-			<castItem><role id="TROISIÈME VIOLON" civil='M' type="H" statut='musicien' age='A' stat_amour='néant'>TROISIÈME VIOLON</role>.</castItem>
-			<castItem><role id="VIOLONS" civil='G' type="H" statut='musicien' age='A' stat_amour='néant'>TROUPE DE Violons</role>.</castItem>
-			<castItem><role id="ARCHERS" civil='G' type="H" statut='archer' age='A' stat_amour='néant'>TROUPE d'ARCHERS</role>.</castItem>
+			<castItem><role id="ARISTE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>ARISTE</role>, est le Déniaisé, Amant d'Olympe.</castItem>
+			<castItem><role id="CLIMANTE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>CLIMANTE</role>, celui qui veut jouer Ariste, Olympe.</castItem>
+			<castItem><role id="ORONTE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>ORONTE</role>, mari prétendu d'Olympe.</castItem>
+			<castItem><role id="JODELET" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>JODELET</role>, valet d'Ariste.</castItem>
+			<castItem><role id="PANCRACE" sex="1" type="H" statut='intendant' age='A' stat_amour='Lisette'>PANCRACE</role>, Intendant d'Oronte amoureux de Lisette.</castItem>
+			<castItem><role id="OLYMPE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>OLYMPE</role>, fille de Provence enlevée par Oronte.</castItem>
+			<castItem><role id="LISETTE" sex="1" type="H" statut='servante' age='A' stat_amour='Jodelet'>LISETTE</role>, servante d'Olympe amoureuse de Jodelet.</castItem>
+			<castItem><role id="UN EXEMPT" sex="1" type="H" statut='exempt' age='A' stat_amour='néant'>UN EXEMPT</role>.</castItem>
+			<castItem><role id="UN VIEIL CAPORAL" sex="1" type="H" statut='caporal' age='A' stat_amour='néant'>UN VIEIL CAPORAL</role>.</castItem>
+			<castItem><role id="PREMIERVIOLON" sex="1" type="H" statut='musicien' age='A' stat_amour='néant'>PREMIER VIOLON</role>.</castItem>
+			<castItem><role id="SECOND VIOLON" sex="1" type="H" statut='musicien' age='A' stat_amour='néant'>SECOND VIOLON</role>.</castItem>
+			<castItem><role id="TROISIÈME VIOLON" sex="1" type="H" statut='musicien' age='A' stat_amour='néant'>TROISIÈME VIOLON</role>.</castItem>
+			<castItem><role id="VIOLONS" sex="9" type="H" statut='musicien' age='A' stat_amour='néant'>TROUPE DE Violons</role>.</castItem>
+			<castItem><role id="ARCHERS" sex="9" type="H" statut='archer' age='A' stat_amour='néant'>TROUPE d'ARCHERS</role>.</castItem>
 		</castList>
 <set location='Paris' country='France' periode='XVIIème' link=''>La Scène est à Paris devant la maison d'Oronte.</set>
 </front>

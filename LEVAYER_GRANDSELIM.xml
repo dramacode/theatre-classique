@@ -6,9 +6,10 @@
 				<title>LE GRAND SÉLIM OU LE COURONNEMENT TRAGIQUE, TRAGÉDIE</title>
 				<author born='1627' born_location='Paris' death='1685' death_location='Paris' academie=''>LE VAYER DE BOUTIGNY, Roland</author>
 			</titleStmt>
-			<publicationStmp>
+			<publicationStmt>
 				<p>publié par Paul FIEVRE, Mai 2006, revu septembre 1015.</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire ottomane</inspiration>
@@ -86,17 +87,17 @@
 		</div>
 		<castList>
 			<head>LES PERSONNAGES.</head>
-			<castItem><role id="BAJAZET" civil='M' type="H" statut='empereur' age='A' stat_amour='néant'>BAJAZET</role>, Empereur Turc, père de Sélim, de Corchut, et d'Achmet.</castItem>
-			<castItem><role id="LA-SULTANE" civil='F' type="H" statut='empereur' age='A' stat_amour='néant'>LA SULTANE</role>, Fille d'Achomat, femme de Bajazet.</castItem>
-			<castItem><role id="SÉLIM" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>SÉLIM</role>, fils de Bajazet.</castItem>
-			<castItem><role id="CORCHUT" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>CORCHUT</role>, fils de Bajazet.</castItem>
-			<castItem><role id="ACHMET" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>ACHMET</role>, fils de Bajazet.</castItem>
-			<castItem><role id="IZAÏDE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>IZAÏDE</role>, maîtresse de Sélim.</castItem>
-			<castItem><role id="L'AGA" civil='M' type="H" statut='officier' age='A' stat_amour='néant'>L'AGA DES JANISSAIRES</role>, ami d'Achomat.</castItem>
-			<castItem><role id="HALY" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>HALY</role>, Bassa, grand ami de l'Aga des Janissaires. </castItem>
-			<castItem><role id="HEZEGOGLIS" civil='M' type="H" statut='confident' age='A' stat_amour='néant'>HEZEGOGLIS</role>, Bassa, confident de Bajazet.</castItem>
-			<castItem><role id="ESCLAVE DE SELIM" civil='M' type="H" statut='esclave' age='A' stat_amour='néant'>ESCLAVE DE SELIM</role>.</castItem>
-			<castItem><role id="ESCLAVE DE BASSA" civil='M' type="H" statut='esclave' age='A' stat_amour='néant'>ESCLAVE DE HALY BASSA</role>.</castItem>
+			<castItem><role id="BAJAZET" sex="1" type="H" statut='empereur' age='A' stat_amour='néant'>BAJAZET</role>, Empereur Turc, père de Sélim, de Corchut, et d'Achmet.</castItem>
+			<castItem><role id="LA-SULTANE" sex="2" type="H" statut='empereur' age='A' stat_amour='néant'>LA SULTANE</role>, Fille d'Achomat, femme de Bajazet.</castItem>
+			<castItem><role id="SÉLIM" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>SÉLIM</role>, fils de Bajazet.</castItem>
+			<castItem><role id="CORCHUT" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>CORCHUT</role>, fils de Bajazet.</castItem>
+			<castItem><role id="ACHMET" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>ACHMET</role>, fils de Bajazet.</castItem>
+			<castItem><role id="IZAÏDE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>IZAÏDE</role>, maîtresse de Sélim.</castItem>
+			<castItem><role id="L'AGA" sex="1" type="H" statut='officier' age='A' stat_amour='néant'>L'AGA DES JANISSAIRES</role>, ami d'Achomat.</castItem>
+			<castItem><role id="HALY" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>HALY</role>, Bassa, grand ami de l'Aga des Janissaires. </castItem>
+			<castItem><role id="HEZEGOGLIS" sex="1" type="H" statut='confident' age='A' stat_amour='néant'>HEZEGOGLIS</role>, Bassa, confident de Bajazet.</castItem>
+			<castItem><role id="ESCLAVE DE SELIM" sex="1" type="H" statut='esclave' age='A' stat_amour='néant'>ESCLAVE DE SELIM</role>.</castItem>
+			<castItem><role id="ESCLAVE DE BASSA" sex="1" type="H" statut='esclave' age='A' stat_amour='néant'>ESCLAVE DE HALY BASSA</role>.</castItem>
 		</castList>
 		<set location='Constantinople' country='Turquie' periode='Ier avant JC'>La Scène est au Sérail,dans Constantinople. </set>
 </front>

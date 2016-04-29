@@ -7,9 +7,10 @@
 				<author born='1657' born_location='Paris' death='1724' death_location='Paris' academie=''>DU FRESNY, Charles Rivière</author>
 				<date>1699</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE juin 2012</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -44,13 +45,13 @@
 			<premiere date="1699-02-04" location='Château de Versailles'>Représentée pour la première fois, le 2 avril 1699 au Château de Versailles.</premiere>
 		</performance>
 	<castList><head>ACTEURS.</head>
-		<castItem><role id="LA MALADE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>LA MALADE</role>, tante d'Angélique.</castItem>
-		<castItem><role id="LUCINDE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>LUCINDE</role>, son amie.</castItem>
-		<castItem><role id="ANGÉLIQUE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='Valère'>ANGÉLIQUE</role>, amante de Valère.</castItem>
-		<castItem><role id="VALÈRE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='Angélique'>VALÈRE</role>, amant d'Angélique.</castItem>
-		<castItem><role id="FAUSSINVILLE" civil='M' type="H" statut='marquis' age='A' stat_amour='néant'>FAUSSINVILLE</role>.</castItem>
-		<castItem><role id="LISETTE" civil='F' type="H" statut='suivante' age='A' stat_amour='néant'>LISETTE</role>, suivante de la Malade.</castItem>
-		<castItem><role id="LAVALÉE" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>LAVALÉE</role>, Valet de Faussinville.</castItem>
+		<castItem><role id="LA MALADE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>LA MALADE</role>, tante d'Angélique.</castItem>
+		<castItem><role id="LUCINDE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>LUCINDE</role>, son amie.</castItem>
+		<castItem><role id="ANGÉLIQUE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='Valère'>ANGÉLIQUE</role>, amante de Valère.</castItem>
+		<castItem><role id="VALÈRE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='Angélique'>VALÈRE</role>, amant d'Angélique.</castItem>
+		<castItem><role id="FAUSSINVILLE" sex="1" type="H" statut='marquis' age='A' stat_amour='néant'>FAUSSINVILLE</role>.</castItem>
+		<castItem><role id="LISETTE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>LISETTE</role>, suivante de la Malade.</castItem>
+		<castItem><role id="LAVALÉE" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>LAVALÉE</role>, Valet de Faussinville.</castItem>
 		</castList>
 	<set location="Paris" country='France' periode='XVIIème' link=''>La Scène est à Paris, dans la Maison de la Malade.</set>
 	</front>

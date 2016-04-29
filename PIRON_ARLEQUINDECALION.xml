@@ -6,9 +6,10 @@
 				<title>ARLEQUIN DEUCALION, COMÉDIE</title>
 				<author born='1689' born_location='Dijon' death='1773' death_location='Paris' academie=''>PIRON, Alexis</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<authority>publié par Paul FIEVRE, juin 2009</authority>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>mythe grec</inspiration>
@@ -38,20 +39,20 @@
 			<premiere date="1722-02-25" location='Foire Saint-Germain'>Représenté pour le première fois le 25 février 1722 à la Foire Saint-Germain.</premiere>
 		</performance>
 <castList><head>Personnages</head>
-	<castItem><role id="ARLEQUIN" civil="M" type="H" statut='bourgeois' age='A' stat_amour='néant'>ARLEQUIN-DEUCALION</role> le seul acteur qui parle.</castItem>
-	<castItem><role id="PYRRHA" civil="F" type="H" statut='bourgeois' age='A' stat_amour='néant'>PYRRHA</role>, femme d'Arlequin-Deucalion.</castItem>
-	<castItem><role id="UNE VOIX" civil="N" type="F" statut='voix' age='A' stat_amour='néant'>UNE VOIX</role>.</castItem>
-	<castItem><role id="APOLLON" civil="M" type="D" statut='dieu' age='A' stat_amour='néant'>APOLLON</role>, celuid e nos jours.</castItem>
-	<castItem><role id="MELPOMENE" civil="F" type="H" statut='muse' age='A' stat_amour='néant'>MELPOMÈNE</role>, celle de nos jours, [muse de la tragédie].</castItem>
-	<castItem><role id="THALIE" civil="F" type="H" statut='muse' age='A' stat_amour='néant'>THALIE</role>, [muse de la comédie].</castItem>
-	<castItem><role id="MOMUS" civil="M" type="H" statut='dieu' age='A' stat_amour='néant'>MOMUS</role>, sous la figure de Polichinelle et parlant de même.</castItem>
-	<castItem><role id="PEGASE" civil="A" type="H" statut='monstre' age='A' stat_amour='néant'>PÉGASE</role>, le moderne.</castItem>
-	<castItem><role id="LES ENFANTS" civil="G" type="H" statut='enfant' age='A' stat_amour='néant'>LES ENFANTS</role>.</castItem>
+	<castItem><role id="ARLEQUIN" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>ARLEQUIN-DEUCALION</role> le seul acteur qui parle.</castItem>
+	<castItem><role id="PYRRHA" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>PYRRHA</role>, femme d'Arlequin-Deucalion.</castItem>
+	<castItem><role id="UNE VOIX" sex="9" type="F" statut='voix' age='A' stat_amour='néant'>UNE VOIX</role>.</castItem>
+	<castItem><role id="APOLLON" sex="1" type="D" statut='dieu' age='A' stat_amour='néant'>APOLLON</role>, celuid e nos jours.</castItem>
+	<castItem><role id="MELPOMENE" sex="2" type="D" statut='muse' age='A' stat_amour='néant'>MELPOMÈNE</role>, celle de nos jours, [muse de la tragédie].</castItem>
+	<castItem><role id="THALIE" sex="2" type="D" statut='muse' age='A' stat_amour='néant'>THALIE</role>, [muse de la comédie].</castItem>
+	<castItem><role id="MOMUS" sex="1" type="D" statut='dieu' age='A' stat_amour='néant'>MOMUS</role>, sous la figure de Polichinelle et parlant de même.</castItem>
+	<castItem><role id="PEGASE" sex="9" type="Z" statut='cheval ailé' age='A' stat_amour='néant'>PÉGASE</role>, le moderne.</castItem>
+	<castItem><role id="LES ENFANTS" sex="9" type="H" statut='enfant' age='E' stat_amour='néant'>LES ENFANTS</role>.</castItem>
 </castList>	
 <castList><head>Divertissement</head>
-	<castItem><role id="SYLPHES" civil="G" type="H" statut='sylphe' age='A' stat_amour='néant'>SYLPHES</role>.</castItem>
-	<castItem><role id="L'AMOUR" civil="M" type="H" statut='dieu' age='A' stat_amour='néant'>L'AMOUR</role>.</castItem>
-	<castItem><role id="GRACE" civil="F" type="D" statut='grâce' age='A' stat_amour='néant'>UNE GRÂCE</role>, etc.</castItem>
+	<castItem><role id="SYLPHES" sex="2" type="D" statut='sylphe' age='A' stat_amour='néant'>SYLPHES</role>.</castItem>
+	<castItem><role id="L'AMOUR" sex="1" type="D" statut='dieu' age='J' stat_amour='néant'>L'AMOUR</role>.</castItem>
+	<castItem><role id="GRÂCE" sex="2" type="D" statut='grâce' age='A' stat_amour='néant'>UNE GRÂCE</role>, etc.</castItem>
 </castList>
 <set location='Mont Parnasse' country='Grèce' periode='Temps mythologiques' link=''>La scène est sur le parnasse où la fable nous dit qu'aborda Deucalion après le déluge.</set>
 </front>

@@ -7,9 +7,10 @@
 				<author born='1694' born_location='Paris' death='1778' death_location='Paris' academie='1746'>VOLTAIRE</author>
 				<date>1738</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<authority>publié par Paul FIEVRE, Septembre 2006</authority>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -58,14 +59,14 @@ On pourrait aisément remonter aux sources de nos autres sentiments, à ce qui e
 <p>Ainsi il ne faut jamais dire si cette musique n'a pas réussi, si ce tableau ne plaît pas, si cette pièce est tombée, c'est que cela était d'une espèce nouvelle ; il faut dire : C'est que cela ne vaut rien dans son espèce.</p> 
 </div>
 <castList><head>PERSONNAGES</head>
-	<castItem><role id='EUPHEMON' civil='M'>EUPHÉMON Père</role>.</castItem>
-	<castItem><role id='EUPHEMON-FILS' civil='M'>EUPHÉMON Fils</role>.</castItem>
-	<castItem><role id='FIERENFAT' civil='M'>FIERENFAT</role>, président de Cognac, second fils d'Euphémon.</castItem>
-	<castItem><role id='RONDON' civil='M'>RONDON</role>, Bourgeois de Cognac.</castItem>
-	<castItem><role id='LISE' civil='F'>LISE</role>, fille de Rondon.</castItem>
-	<castItem><role id='MADAME-DE-CROUPIGNAC' civil='F'>LA BARONNE DE CROUPILLAC.</role>.</castItem>
-	<castItem><role id='MARTHE' civil='F'>MARTHE</role>, suivante de Lise.</castItem>
-	<castItem><role id='JASMIN' civil='M'>JASMIN</role>, Valet d'Euphémon fils.</castItem>
+	<castItem><role id='EUPHEMON' sex="1">EUPHÉMON Père</role>.</castItem>
+	<castItem><role id='EUPHEMON-FILS' sex="1">EUPHÉMON Fils</role>.</castItem>
+	<castItem><role id='FIERENFAT' sex="1">FIERENFAT</role>, président de Cognac, second fils d'Euphémon.</castItem>
+	<castItem><role id='RONDON' sex="1">RONDON</role>, Bourgeois de Cognac.</castItem>
+	<castItem><role id='LISE' sex="2">LISE</role>, fille de Rondon.</castItem>
+	<castItem><role id='MADAME-DE-CROUPIGNAC' sex="2">LA BARONNE DE CROUPILLAC.</role>.</castItem>
+	<castItem><role id='MARTHE' sex="2">MARTHE</role>, suivante de Lise.</castItem>
+	<castItem><role id='JASMIN' sex="1">JASMIN</role>, Valet d'Euphémon fils.</castItem>
 </castList>
 <set location='Cognac' country='France' periode='XVIIIème' link=''>La scène est à Cognac.</set>
 </front>

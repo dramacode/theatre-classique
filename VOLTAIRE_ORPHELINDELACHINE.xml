@@ -9,9 +9,10 @@
 
 			<date>1755</date>
 		</titleStmt>
-		<publicationStmp>
+		<publicationStmt>
 			<authority>publié par Paul FIEVRE, novembre 2007</authority>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Tragédie</genre>
 			<inspiration>histoire chinoise</inspiration>
@@ -40,13 +41,13 @@
 		<premiere date='1755-08-20' location='Théâtre de la rue des Fossés Saint-Germain'>Représentée, pour la première fois, le 20 août 1755 au Théâtre de la rue des Fossés Saint-Germain par la Comédie française.</premiere>
 	</performance>
        <castList><head>PERSONNAGES</head>
-		<castItem><role id='GENGIS' civil="M" type="H" statut="roi" age="A" stat_amour='néant'>GENGIS KAN</role>, roi du Tartare.</castItem>
-		<castItem><role id='OCTAR' civil="M" type="H" statut="lieutenant" age="A" stat_amour='néant'>OCTAR</role>.</castItem>
-		<castItem><role id='OSMAN' civil="M" type="H" statut="aristocrate" age="A" stat_amour='néant'>OSMAN</role>.</castItem>
-		<castItem><role id='ZAMTI' civil="M" type="H" statut="aristocrate" age="A" stat_amour='néant'>ZAMTI</role>, mandarin lettré.</castItem>
-		<castItem><role id='IDAME' civil="F" type="H" statut="aristocrate" age="A" stat_amour='néant'>IDAMÉ</role>, femme de Zamti.</castItem>
-		<castItem><role id='ASSELI' civil="M" type="H" statut="confident" age="A" stat_amour='néant'>ASSÉLI</role>, attaché à Idamé.</castItem>
-		<castItem><role id='ETAN' civil="M" type="H" statut="confident" age="A" stat_amour='néant'>ÉTAN</role>, attaché à Zamti.</castItem>
+		<castItem><role id='GENGIS' sex="1" type="H" statut="roi" age="A" stat_amour='néant'>GENGIS KAN</role>, roi du Tartare.</castItem>
+		<castItem><role id='OCTAR' sex="1" type="H" statut="lieutenant" age="A" stat_amour='néant'>OCTAR</role>.</castItem>
+		<castItem><role id='OSMAN' sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>OSMAN</role>.</castItem>
+		<castItem><role id='ZAMTI' sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>ZAMTI</role>, mandarin lettré.</castItem>
+		<castItem><role id='IDAME' sex="2" type="H" statut="aristocrate" age="A" stat_amour='néant'>IDAMÉ</role>, femme de Zamti.</castItem>
+		<castItem><role id='ASSELI' sex="1" type="H" statut="confident" age="A" stat_amour='néant'>ASSÉLI</role>, attaché à Idamé.</castItem>
+		<castItem><role id='ETAN' sex="1" type="H" statut="confident" age="A" stat_amour='néant'>ÉTAN</role>, attaché à Zamti.</castItem>
        </castList>
 <set location='Pekin' country='Chine' periode='XIIIème' link=''>La scène est dans un palais des mandarins, qui tient au palais impérial, dans la ville de Cambalu, aujourd'hui Pékin.</set>
 </front>

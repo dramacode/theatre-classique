@@ -6,13 +6,15 @@
 			<title>LE FANTOME AMOUREUX, TRAGI-COMÉDIE</title>
 			<author born='1635' born_location='Paris' death='1688' death_location='Paris' academie='1670'>QUINAULT, Philippe</author>
 		</titleStmt>
-		<publicationStmp>	
-			<publicationStmp>	
+		<publicationStmt>	
+			<publicationStmt>	
 				<editor>Texte établi par Gabrielle Jeanselme (Mémoire de master  sous la direction de M. Georges Forestier U.F.R de Littérature française et comparée, 2008-2009.)</editor>
 				<publisher>publié par Paul FIEVRE mars 2012</publisher>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Tragi-comédie</genre>
 			<inspiration>moeurs italiennes</inspiration>
@@ -51,18 +53,18 @@
 		<p>Votre très humble et très obéissant serviteur, QUINAULT.</p>
 		</div>
 		<castList><head>PERSONNAGES</head>
-			<castItem><role id="CARLOS" civil="M" type="H" statut='aristocrate' age='A' stat_amour='néant'>CARLOS</role>, amant d'Isabelle, et ami de Fabrice.</castItem>
-			<castItem><role id="CLARINE" civil="F" type="H" statut='suivante' age='A' stat_amour='néant'>CLARINE</role>, suivante d'Isabelle.</castItem>
-			<castItem><role id="FABRICE" civil="M" type="H" statut='aristocrate' age='A' stat_amour='Climène'>FABRICE</role>, amant de Climène.</castItem>
-			<castItem><role id="CLIMÈNE" civil="F" type="H" statut='aristocrate' age='A' stat_amour='Fabrice, Le Duc'>CLIMÈNE</role>, maîtresse de Fabrice et du Duc.</castItem>
-			<castItem><role id="JACINTE" civil="F" type="H" statut='suivante' age='A' stat_amour='néant'>JACINTE</role>, suivante de Climène.</castItem>
-			<castItem><role id="FERDINAND" civil="M" type="H" statut='duc' age='A' stat_amour='néant'>FERDINAND</role>, Duc de Ferrare.</castItem>
-			<castItem><role id="VALÈRE" civil="M" type="H" statut='capitaine' age='A' stat_amour='néant'>VALÈRE</role>, Capitaine des Gardes du Duc.</castItem>
-			<castItem><role id="ISABELLE" civil="F" type="H" statut='aristocrate' age='A' stat_amour='néant'>ISABELLE</role>, sour de Fabrice.</castItem>
-			<castItem><role id="ALPHONSE" civil="M" type="H" statut='aristocrate' age='A' stat_amour='néant'>ALPHONSE</role>, père de Fabrice et d'Isabelle.</castItem>
-			<castItem><role id="LICASTE" civil="M" type="H" statut='domestique' age='A' stat_amour='néant'>LICASTE</role>, domestique d'Alphonse.</castItem>
-			<castItem><role id="CELIN" civil="M" type="H" statut='domestique' age='A' stat_amour='néant'>CELIN</role>, domestique de Carlos.</castItem>
-			<castItem><role id="GARDES" civil="G" type="H" statut='garde' age='A' stat_amour='néant'>GARDES</role>.</castItem>
+			<castItem><role id="CARLOS" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>CARLOS</role>, amant d'Isabelle, et ami de Fabrice.</castItem>
+			<castItem><role id="CLARINE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>CLARINE</role>, suivante d'Isabelle.</castItem>
+			<castItem><role id="FABRICE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='Climène'>FABRICE</role>, amant de Climène.</castItem>
+			<castItem><role id="CLIMÈNE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='Fabrice, Le Duc'>CLIMÈNE</role>, maîtresse de Fabrice et du Duc.</castItem>
+			<castItem><role id="JACINTE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>JACINTE</role>, suivante de Climène.</castItem>
+			<castItem><role id="FERDINAND" sex="1" type="H" statut='duc' age='A' stat_amour='néant'>FERDINAND</role>, Duc de Ferrare.</castItem>
+			<castItem><role id="VALÈRE" sex="1" type="H" statut='capitaine' age='A' stat_amour='néant'>VALÈRE</role>, Capitaine des Gardes du Duc.</castItem>
+			<castItem><role id="ISABELLE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>ISABELLE</role>, sour de Fabrice.</castItem>
+			<castItem><role id="ALPHONSE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>ALPHONSE</role>, père de Fabrice et d'Isabelle.</castItem>
+			<castItem><role id="LICASTE" sex="1" type="H" statut='domestique' age='A' stat_amour='néant'>LICASTE</role>, domestique d'Alphonse.</castItem>
+			<castItem><role id="CELIN" sex="1" type="H" statut='domestique' age='A' stat_amour='néant'>CELIN</role>, domestique de Carlos.</castItem>
+			<castItem><role id="GARDES" sex="9" type="H" statut='garde' age='A' stat_amour='néant'>GARDES</role>.</castItem>
 		</castList>
 	<set location='Ferrare' country='Italie' periode='XIIIème' link=''>Le scène de Ferrare.</set>
 </front>

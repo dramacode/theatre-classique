@@ -5,11 +5,11 @@
 			<titleStmt>
 				<title>LISANDRE et CALISTE, TRAGI-COMÉDIE</title>
 				<author born='1605' born_location='Paris' death='1658' death_location='Paris' academie=''>DU RYER, Pierre</author>
-				<date>1632</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE</p><p>Mai 2006</p>
-			</publicationStmp>
+				<idno>DURYER_LISANDRELICASTE</idno>
+			</publicationStmt>
 			<SourceDesc>
 				<genre>Tragi-comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -27,40 +27,40 @@
 				<titlePart type="main">LISANDRE et CALISTE</titlePart>
 				<titlePart type="sub">TRAGI-COMÉDIE</titlePart>
 			</docTitle> 
-			<docDate value="1632">M. DC. XXXII.</docDate>
+			<docDate value="1632">M. DC. XXXII. AVEC PRIVILÈGE DU ROI.</docDate>
 			<docAuthor id="DU RYER, Pierre" bio='duryer'>par le sieur DU RYER</docAuthor>
 			<docImprint>
 				<privilege id="1632-**-**"/>
 				<acheveImprime id="1632-**-**"/>
-				<printer id="P. David">P. David</printer>
+				<printer id="P. David"> À PARIS, Chez PIRERRE DAVID, au Palais, sur le Petit Perron de la Grand Salle sur le côté des Consultations.</printer>
 			</docImprint>
 			<performance>
 				<premiere date="1632" location='(inconnue)'>Représenté pour la première fois en 1632.</premiere>
 			</performance>
 <castList>
-	<castItem><role id="LE ROI" civil='M' type="H" statut='roi' age='A' stat_amour='néant'>LE ROI</role>.</castItem>
-	<castItem><role id="LISANDRE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>LISANDRE</role>.</castItem>
-	<castItem><role id="CALISTE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>CALISTE</role>.</castItem>
-	<castItem><role id="VALET" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>Le VALET</role>, de Lisandre.</castItem>
-	<castItem><role id="LEON" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>LÉON</role>.</castItem>
-	<castItem><role id="BERONTE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>BÉRONTE</role>.</castItem>
-	<castItem><role id="CLEANDRE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>CLÉANDRE</role>.</castItem>
-	<castItem><role id="PAGE" civil='M' type="H" statut='page' age='A' stat_amour='néant'>PAGE</role>.</castItem>
-	<castItem><role id="CLARINDE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>CLARINDE</role>.</castItem>
-	<castItem><role id="CRISANTE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>CRISANTE</role>.</castItem>
-	<castItem><role id="LE BOUCHER" civil='M' type="H" statut='boucher' age='A' stat_amour='néant'>Le BOUCHER</role>.</castItem>
-	<castItem><role id="LA BOUCHERE" civil='F' type="H" statut='boucher' age='A' stat_amour='néant'>La BOUCHÈRE</role>, sa femme.</castItem>
-	<castItem><role id="LE GEÔLIER" civil='M' type="H" statut='geôlier' age='A' stat_amour='néant'>Le GEÔLIER</role>.</castItem>
-	<castItem><role id="LIDIAS" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>LIDIAS</role>.</castItem>
-	<castItem><role id="DORILAS" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>DORILAS</role>.</castItem>
-	<castItem><role id="ORANTE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>ORANTE</role>.</castItem>
-	<castItem><role id="ADRASTE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>ADRASTE</role>.</castItem>
-	<castItem><role id="HIPPOLYTE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>HIPPOLYTE</role>.</castItem>
-	<castItem><role id="LIDIAN" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>LIDIAN</role>.</castItem>
-	<castItem><role id="LUCIDAN" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>LUCIDAN</role>.</castItem>
-	<castItem><role id="VARASQUE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>VARASQUE</role>.</castItem>
-	<castItem><role id="JUGE" civil='M' type="H" statut='juge' age='A' stat_amour='néant'>Le JUGE</role> de camp.</castItem>
-	<castItem><role id="LE-COURRIER" civil='M' type="H" statut='courrier' age='A' stat_amour='néant'>Le Courrier</role>.</castItem>
+	<castItem><role id="LE ROI" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>LE ROI</role>.</castItem>
+	<castItem><role id="LISANDRE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>LISANDRE</role>.</castItem>
+	<castItem><role id="CALISTE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>CALISTE</role>.</castItem>
+	<castItem><role id="VALET" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>Le VALET</role>, de Lisandre.</castItem>
+	<castItem><role id="LEON" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>LÉON</role>.</castItem>
+	<castItem><role id="BERONTE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>BÉRONTE</role>.</castItem>
+	<castItem><role id="CLEANDRE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>CLÉANDRE</role>.</castItem>
+	<castItem><role id="PAGE" sex="1" type="H" statut='page' age='A' stat_amour='néant'>PAGE</role>.</castItem>
+	<castItem><role id="CLARINDE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>CLARINDE</role>.</castItem>
+	<castItem><role id="CRISANTE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>CRISANTE</role>.</castItem>
+	<castItem><role id="LE BOUCHER" sex="1" type="H" statut='boucher' age='A' stat_amour='néant'>Le BOUCHER</role>.</castItem>
+	<castItem><role id="LA BOUCHERE" sex="2" type="H" statut='boucher' age='A' stat_amour='néant'>La BOUCHÈRE</role>, sa femme.</castItem>
+	<castItem><role id="LE GEÔLIER" sex="1" type="H" statut='geôlier' age='A' stat_amour='néant'>Le GEÔLIER</role>.</castItem>
+	<castItem><role id="LIDIAS" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>LIDIAS</role>.</castItem>
+	<castItem><role id="DORILAS" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>DORILAS</role>.</castItem>
+	<castItem><role id="ORANTE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>ORANTE</role>.</castItem>
+	<castItem><role id="ADRASTE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>ADRASTE</role>.</castItem>
+	<castItem><role id="HIPPOLYTE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>HIPPOLYTE</role>.</castItem>
+	<castItem><role id="LIDIAN" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>LIDIAN</role>.</castItem>
+	<castItem><role id="LUCIDAN" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>LUCIDAN</role>.</castItem>
+	<castItem><role id="VARASQUE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>VARASQUE</role>.</castItem>
+	<castItem><role id="JUGE" sex="1" type="H" statut='juge' age='A' stat_amour='néant'>Le JUGE</role> de camp.</castItem>
+	<castItem><role id="LE-COURRIER" sex="1" type="H" statut='courrier' age='A' stat_amour='néant'>Le Courrier</role>.</castItem>
 </castList>
 <set location='(non indiqué)' country='(non indiqué)' periode='(non indiqué)' link=''>[Le Lieu de l'action n'est pas indiqué]</set>
 </front>
@@ -543,13 +543,13 @@
 	<l id="309">Lorsqu'il faut démêler une affaire pareille</l>
 	<l id="310">Je ne saurais penser qu'une fille sommeille,</l>
 	<l id="311">Elle ne peut dormir avec beaucoup d'amour</l>
-	<l id="312">Et la plus sombre nuit lui plait mieux que le jour.</l>
+	<l id="312">Et la plus sombre nuit lui plaît mieux que le jour.</l>
 </sp>
 <sp who="CLARINDE"><speaker>CLARINDE.</speaker>
        <l id="313" part="i">Léon.</l>
 </sp>
 <sp who="LEON"><speaker>LÉON.</speaker>
-	<l id="313" part="f">Hà je te tiens, tu ne t'en peux dédire</l>
+	<l id="313" part="f">Ha je te tiens, tu ne t'en peux dédire</l>
 	<l id="314">Ici ma volonté finira mon martyre.</l>
 </sp>
 <sp who="CLARINDE"><speaker>CLARINDE.</speaker>
@@ -714,6 +714,7 @@
 	<l id="419">Puisque c'est un dessein où je vous vois porté</l>
 	<l id="420">Je ne résiste point à votre volonté.</l>
 	<l id="421">Mais avez-vous parfois Caliste entretenue</l>
+<note type="L">Châtelet : On nommait ainsi deux forts, situes, l'un sur la rive droite de la Seine, à l'entrée de la rue Saint-Denis du côté du Pont au Change, l'autre sur la rive gauche, à l'extrémité du Petit-Pont aprèS de l'Hôtel-Dieu. Les deux ont servi de prison; Le premier fut détruit en 1802  pour donné le nom à la Place du Châtelet, et l'autre en 1782. [B]</note>
 	<l id="422">Depuis qu'au Châtelet on la voit retenue ?</l>
 </sp>
 <sp who="LISANDRE"><speaker>LISANDRE.</speaker>
@@ -798,7 +799,7 @@
 	<l id="465">Vous rendant de la sorte à ses désirs contraire</l>
 	<l id="466">Voulez-vous d'un ami vous faire un adversaire ?</l>
 	<l id="467">Quoi que vous me puissiez là-dessus répartir</l>
-	<l id="468">Evitons les moyens de nous en repentir.</l>
+	<l id="468">Évitons les moyens de nous en repentir.</l>
 </sp>
 <sp who="BOUCHER"><speaker>LE BOUCHER.</speaker>
 	<l id="469">Alison, il vaut mieux à ce point se réduire</l>
@@ -854,7 +855,7 @@
 	<l id="493">Nous souffririons pour vous toute sorte de gêne.</l>
 </sp>
 <sp who="LISANDRE"><speaker>LISANDRE.</speaker>
-	<l id="494">Pour votre châtiment recevez cette chaine.</l>
+	<l id="494">Pour votre châtiment recevez cette chaîne.</l>
 	<l id="495">Je vais voir si Caliste est toujours en souci.</l>
 </sp>
 <sp who="BOUCHER"><speaker>LE BOUCHER.</speaker>
@@ -1050,7 +1051,7 @@
 	<l id="598">L'empêche de venir se purger de son crime ?</l>
 </sp>
 <sp who="LISANDRE"><speaker>LISANDRE.</speaker>
-	<l id="599">Son düel, et la mort de ces deux cavaliers</l>
+	<l id="599">Son duel, et la mort de ces deux cavaliers</l>
 	<l id="600">Que le roi mit au rang de ses plus familiers.</l>
 	<l id="601">Mais j'ai su le sujet, dont l'injuste apparence</l>
 	<l id="602">Fait naître tant de bruits contre son assurance,</l>
@@ -1058,7 +1059,7 @@
 	<l id="604">Et comment il trompa les meilleurs jugements.</l>
 </sp>
 <sp who="ORANTE"><speaker>ORANTE.</speaker>
-	<l id="605">Vostre discours m'étonne, et mon âme confuse</l>
+	<l id="605">Votre discours m'étonne, et mon âme confuse</l>
 	<l id="606">Par les yeux du penser découvre quelque ruse.</l>
 </sp>
 <sp who="DORILAS"><speaker>DORILAS.</speaker>
@@ -1420,7 +1421,7 @@
 	<l id="852">Quelques vives raisons, qui nous donnent des armes,</l>
 	<l id="853">On ne peut éviter sa force ni ses charmes :</l>
 	<l id="854">Si tu voyais Caliste, ou ses moindres attraits,</l>
-	<l id="855">Tes beaux enseignements cèderaient à ses traits ;</l>
+	<l id="855">Tes beaux enseignements céderaient à ses traits ;</l>
 	<l id="856">L'amour te ferait dire en te venant contraindre</l>
 	<l id="857">Qu'il n'est pas dans ses yeux comme tu le veux peindre,</l>
 	<l id="858">Et sans prendre le soin de connaître mon mal</l>
@@ -1447,7 +1448,7 @@
 	<l id="879">Ce respect n'est pas fait pour les parfaits amants,</l>
 	<l id="880">Quiconque sait amer, sait mépriser les craintes,</l>
 	<l id="881">Et d'un fâcheux devoir les sévères contraintes.</l>
-	<l id="882">Qu'ai-je enfin resolu ? La nature à son tour</l>
+	<l id="882">Qu'ai-je enfin résolu ? La nature à son tour</l>
 	<l id="883">Me parle de respect, et Caliste d'amour :</l>
 	<l id="884">Dieux ! Quelle sûreté finira mes alarmes ?</l>
 	<l id="885">Un père a des conseils, et Caliste a des charmes.</l>
@@ -1785,7 +1786,7 @@
 	<l id="1109">Défendit constamment le traître qui me tue,</l>
 	<l id="1110">Non pas pour l'obliger à me rendre son coeur</l>
 	<l id="1111">Mais pour y mettre ver, qui s'en rendra vainqueur,</l>
-	<l id="1112">Pour y mettre un remords, dont les forceneries</l>
+	<l id="1112">Pour y mettre un remords, dont les forcèneries</l>
 	<l id="1113">Augmenteront chez lui le nombre des furies,</l>
 	<l id="1114">Et qui convertiront en faveur de mes maux</l>
 	<l id="1115">Les feux de son amour en des feux infernaux.</l>
@@ -1901,7 +1902,7 @@
 </div1>
 <div1 type="act" n="4"><head>ACTE IV</head>
 <div2 type="scene" n="1"><head>SCÈNE I. Le Roi, Lucidan, Adraste, Hippolite, Caliste, Béronte, Lidian, le juge de camp, Dorilas, le valet de Lisandre.</head>
-<sp who="LE_ROY"><speaker>LE ROY.</speaker>
+<sp who="LE ROI"><speaker>LE ROI.</speaker>
 	<l id="1176">Enfin voici le jour ou le ciel équitable</l>
 	<l id="1177">Nous fera voir Lisandre innocent ou coupable,</l>
 	<l id="1178">Les combats sont douteux sous l'enseigne de Mars,</l>
@@ -1929,7 +1930,7 @@
 	<l id="1198">Où je suis résolu de suivre au monument</l>
 	<l id="1199">Crisante et Cloridan outragés lâchement ?</l>
 </sp>
-<sp who="LE_ROY"><speaker>LE ROY.</speaker>
+<sp who="LE ROI"><speaker>LE ROI.</speaker>
 	<l id="1200">Mais je suis étonné de savoir que Lisandre</l>
 	<l id="1201">Paresseux à son bien ne vient pas se défendre.</l>
 	<l id="1202">L'on dirait aujourd'hui qu'il craigne le malheur</l>
@@ -1951,7 +1952,7 @@
 	<l id="1214">Sans chercher autre part de plus braves guerriers</l>
 	<l id="1215">Ce bras est mon second, et ce fer est mon tiers.</l>
 </sp>
-<sp who="LE_ROY"><speaker>LE ROY.</speaker>
+<sp who="LE ROI"><speaker>LE ROI.</speaker>
 	<l id="1216">C'est ainsi que souvent au martial orage</l>
 	<l id="1217">L'on perd le jugement pour garder son courage.</l>
 	<l id="1218">Le sort toujours aveugle en ses élections</l>
@@ -1963,7 +1964,7 @@
 	<l id="1222">Bien qu'un même dessein anime nos désirs,</l>
 	<l id="1223">Sire, nos volontés cèdent à vos plaisirs.</l>
 </sp>
-<sp who="LE_ROY"><speaker>LE ROY.</speaker>
+<sp who="LE ROI"><speaker>LE ROI.</speaker>
 	<l id="1224">Et celui dont la marque en sera retirée</l>
 	<l id="1225">Rendra de sa valeur la preuve désirée.</l>
 	<l id="1226">Si Lucidan lui cède, et s'il fléchit dessous,</l>
@@ -1994,7 +1995,7 @@
 	<l id="1242">Et le ciel qui sait bien ce que j'ai mérité</l>
 	<l id="1243">Accorde le hasard avec l'équité.</l>
 </sp>
-<sp who="LE_ROY"><speaker>LE ROY parlant à Hyppolite.</speaker>
+<sp who="LE ROI"><speaker>LE ROI parlant à Hyppolite.</speaker>
 	<l id="1244">Suivez donc le destin dont la force immortelle</l>
 	<l id="1245">Voulut que votre bras finit cette querelle.</l>
 </sp>
@@ -2008,7 +2009,7 @@
 	<l id="1250">Puisque tu chéris tant des ombres sans pouvoir</l>
 	<l id="1251">Pour faire un trait d'ami tu les dois aller voir.</l>
 </sp>
-<sp who="LE_ROY"><speaker>LE ROY.</speaker>
+<sp who="LE ROI"><speaker>LE ROI.</speaker>
 	<l id="1252">Quelle fureur les porte, et quelle violence</l>
 	<l id="1253">Accompagne les coups que chacun d'eux élance.</l>
 	<l id="1254">Le tonnerre fondant d'un nuage écarté</l>
@@ -2024,7 +2025,7 @@
 	<l id="1258">Ne te repose point ; la force de ce bras</l>
 	<l id="1259">Te fera reposer plus que tu ne voudras.</l>
 </sp>
-<sp who="LE_ROY"><speaker>LE ROY.</speaker>
+<sp who="LE ROI"><speaker>LE ROI.</speaker>
 	<l id="1260">Mais qui sont ces guerriers pleins d'ardeur et d'audace,</l>
 	<l id="1261">Qui d'un pas orgueilleux mesurent cette place.</l>
 </sp>
@@ -2074,7 +2075,7 @@
 	<l id="1292">On ne peut conserver le titre d'équitable</l>
 	<l id="1293">Et croire en même temps que Lisandre est coupable.</l>
 </sp>
-<sp who="LE_ROY"><speaker>LE ROY.</speaker>
+<sp who="LE ROI"><speaker>LE ROI.</speaker>
 	<l id="1294">Aussi comme son roi propice à son bonheur</l>
 	<l id="1295">Je lui donne sa grâce, et lui rend son honneur.</l>
 	<l id="1296">Après avoir ici découvert vos courages</l>
@@ -2090,7 +2091,7 @@
 	<l id="1301">Et j'ai plus de fureurs que l'enfer n'en possède.</l>
 	<l id="1302" part="i">Il me faut retirer.</l>
 </sp>
-<sp who="LE_ROY"><speaker>LE ROY.</speaker>
+<sp who="LE ROI"><speaker>LE ROI.</speaker>
 	<l id="1302" part="f">Un tel évènement</l>
 	<l id="1303">Ne met en mon esprit que de l'étonnement</l>
 </sp>
@@ -2102,7 +2103,7 @@
 	<l id="1308">Ou je croirai plutôt que la nature assemble</l>
 	<l id="1309">Dedans un même corps Mars et l'amour ensemble.</l>
 </sp>
-<sp who="LE_ROY"><speaker>LE ROY.</speaker>
+<sp who="LE ROI"><speaker>LE ROI.</speaker>
 	<l id="1310">Invincible Amazone, adorable en tous lieux,</l>
 	<l id="1311">Et dont la main sait vaincre aussi bien que les yeux,</l>
 	<l id="1312">Qui vous a pû contraindre à montrer que la gloire</l>
@@ -2118,7 +2119,7 @@
 	<l id="1320">Et sa seule innocence est si forte et si belle</l>
 	<l id="1321">Qu'ils n'ont mis qu'une fille à combattre pour elle.</l>
 </sp>
-<sp who="LE_ROY"><speaker>LE ROY.</speaker>
+<sp who="LE ROI"><speaker>LE ROI.</speaker>
 	<l id="1322">Ainsi sans y songer le monde glorieux</l>
 	<l id="1323">Possède une Minerve aussi bien que les cieux,</l>
 	<l id="1324">Ô merveille sans pair, dont l'effet incroyable</l>
@@ -2132,7 +2133,7 @@
 	<l id="1330">Mais malgré les périls aux armes familiers</l>
 	<l id="1331">Les dames aujourd'hui vengent les cavaliers.</l>
 </sp>
-<sp who="LE_ROY"><speaker>LE ROY.</speaker>
+<sp who="LE ROI"><speaker>LE ROI.</speaker>
 	<l id="1332">Mais qui peut empêcher qu'on ne voie Lisandre ?</l>
 </sp>
 <sp who="LIDIAN"><speaker>LIDIAN.</speaker>
@@ -2170,7 +2171,7 @@
 	<l id="1364">Réduits à la merci de si vives alarmes</l>
 	<l id="1365">Nous lui donnions encor nos soupirs et nos larmes.</l>
 </sp>
-<sp who="LE_ROY"><speaker>LE ROY.</speaker>
+<sp who="LE ROI"><speaker>LE ROI.</speaker>
 	<l id="1366" part="i">Où fûtes vous portez ?</l>
 </sp>
 <sp who="BERONTE"><speaker>BÉRONTE.</speaker>
@@ -2180,7 +2181,7 @@
 <sp who="ADRASTE"><speaker>ADRASTE.</speaker>
 	<l id="1368" part="i">Hélas ! Mon fils n'est plus !</l>
 </sp>
-<sp who="LE_ROY"><speaker>LE ROY.</speaker>
+<sp who="LE ROI"><speaker>LE ROI.</speaker>
 	<l id="1368" part="f">Le ciel notre vrai père</l>
 	<l id="1369">Conserve ses enfants lorsqu'on en désespère.</l>
 	<l id="1370">Mais un des combattants s'est retiré de nous,</l>
@@ -2195,7 +2196,7 @@
 	<l id="1374">Je ne saurais penser qu'il soit si près d'ici</l>
 	<l id="1375">Sans nous venir ôter de peine et de souci.</l>
 </sp>
-<sp who="LE_ROY"><speaker>LE ROY.</speaker>
+<sp who="LE ROI"><speaker>LE ROI.</speaker>
 	<l id="1376">En est-il donc coupable ? A-t-on quelques indices</l>
 	<l id="1377">Qu'il ait pu mettre au jour de si noires malices ?</l>
 </sp>
@@ -2209,7 +2210,7 @@
 	<l id="1384">Lisandre avec Tirsis était hors de la ville</l>
 	<l id="1385">Et contre vos fureurs il cherchait un asile,</l>
 </sp>
-<sp who="LE_ROY"><speaker>LE ROY.</speaker>
+<sp who="LE ROI"><speaker>LE ROI.</speaker>
 	<l id="1386">Nous saurons à loisir tant d'accidents divers</l>
 	<l id="1387">Que le temps a cachés, et qu'il a découverts,</l>
 	<l id="1388">Mais puisqu'on voit Lisandre en un état si triste</l>
@@ -2910,7 +2911,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="2"><head>SCÈNE DERNIÈRE. Le Roi, Varasque, Adraste, Hyppolite, Léon, Caliste, Lisandre, Dorilas, Lucidan.</head>
-<sp who="LE_ROY"><speaker>LE ROY.</speaker>
+<sp who="LE ROI"><speaker>LE ROI.</speaker>
 	<l id="1874">Aussitôt que le ciel eut fait naître les princes</l>
 	<l id="1875">Qui tiennent dans leurs mains le destin des provinces,</l>
 	<l id="1876">Il fit naître ici bas la justice et les lois</l>
@@ -2948,7 +2949,7 @@
 	<l id="1902">Cessez de prodiguer vos jours et vos courages</l>
 	<l id="1903">Au point que le repos triomphe des orages.</l>
 </sp>
-<sp who="LE_ROY"><speaker>LE ROY.</speaker>
+<sp who="LE ROI"><speaker>LE ROI.</speaker>
 	<l id="1904">L'on dirait que Pallas en ces habits connus</l>
 	<l id="1905">Vient disputer encor la pomme de Vénus.</l>
 </sp>
@@ -2974,7 +2975,7 @@
 <sp who="DORILAS"><speaker>DORILAS.</speaker>
 	<l id="1919">Que je tire de bien d'une seule parole !</l>
 </sp>
-<sp who="LE_ROY"><speaker>LE ROY.</speaker>
+<sp who="LE ROI"><speaker>LE ROI.</speaker>
 	<l id="1920">Saisissez vous de lui, cette confession</l>
 	<l id="1921">Mérite que l'on songe à sa punition.</l>
 	<l id="1922">Mais n'apprendrons nous rien du destin de Lisandre.</l>
@@ -2999,7 +3000,7 @@
 	<l id="1937">Permettez une fois à mon coeur allegé</l>
 	<l id="1938">De venger notre honneur mille fois outragé.</l>
 </sp>
-<sp who="LE_ROY"><speaker>LE ROY.</speaker>
+<sp who="LE ROI"><speaker>LE ROI.</speaker>
 	<l id="1939">Le honteux repentir d'une telle injustice</l>
 	<l id="1940">Vous venge en même temps qu'il leur sert de supplice.</l>
 	<l id="1941">Mais pour finir des maux si cuisants et si forts</l>
@@ -3025,7 +3026,7 @@
 	<l id="1951">Ma fuite m'a rendu digne de mille gênes</l>
 	<l id="1952">Alors qu'elle a causé vos soupirs et vos peines.</l>
 </sp>
-<sp who="LE_ROY"><speaker>LE ROY.</speaker>
+<sp who="LE ROI"><speaker>LE ROI.</speaker>
 	<l id="1953">Lisandre vois Caliste assuré de ton roi,</l>
 	<l id="1954">Et vous et Dorilas approchez vous de moi.</l>
 </sp>
@@ -3043,7 +3044,7 @@
 	<l id="1963">Lisandre assurez-vous, qu'une jalouse flamme</l>
 	<l id="1964">Laisse aujourd'hui l'amour paisible dans mon âme.</l>
 </sp>
-<sp who="LE_ROY"><speaker>LE ROY.</speaker>
+<sp who="LE ROI"><speaker>LE ROI.</speaker>
 	<l id="1965">Donc après tant de maux Hymen doit à son tour</l>
 	<l id="1966">Allumer son flambeau de celui de l'amour,</l>
 	<l id="1967">Et je veux que ses lois donnent sans plus attendre</l>
@@ -3059,7 +3060,7 @@
 	<l id="1971">Grand roi juste partout, que sans peine et sans guerre</l>
 	<l id="1972">Le ciel charge vos mains du sceptre de la terre.</l>
 </sp>
-<sp who="LE_ROY"><speaker>LE ROY.</speaker>
+<sp who="LE ROI"><speaker>LE ROI.</speaker>
 	<l id="1973">Et pour rendre ce jour plus luisant et plus beau</l>
 	<l id="1974">Il faut qu'un autre hymen y montre son flambeau,</l>
 	<l id="1975">Lucidan dont la race est égale au mérite</l>
@@ -3081,7 +3082,7 @@
 	<l id="1985">Si nous avons du bien, Madame, nous devons</l>
 	<l id="1986">À vos rares vertus celui que nous avons.</l>
 </sp>
-<sp who="LE_ROY"><speaker>LE ROY.</speaker>
+<sp who="LE ROI"><speaker>LE ROI.</speaker>
 	<l id="1987">Rendez aux immortels les premières louanges</l>
 	<l id="1988">Du bienheureux succès de tant d'effets étranges,</l>
 	<l id="1989">Après avoir fait voir qu'au mépris des douleurs</l>

@@ -7,9 +7,10 @@
 				<author born='1586' born_location='Clairac' death='1626' death_location='Paris' academie=''>VIAU, Théophile de</author>
 				<date>1617</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE avril 2013</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>mythe grec</inspiration>
@@ -44,18 +45,18 @@
 			<premiere date="1617" location='Hôtel de Bourgogne'>Représenté pour la première fois en 1617 au Théâtre de l'Hôtel de Bourgogne.</premiere>
 		</performance>
 	<castList><head>PERSONNAGES.</head>
-		<castItem><role id="THISBÉ" civil='F' type="H" statut='aristocrate' age='A' stat_amour='amoureux'>THISBÉ</role>.</castItem>
-		<castItem><role id="PYRAME" civil='M' type="H" statut='aristocrate' age='A' stat_amour='amoureux'>PYRAME</role>.</castItem>
-		<castItem><role id="BERSIANE" civil='F' type="H" statut='confident' age='A' stat_amour='néant'>BERSIANE</role>.</castItem>
-		<castItem><role id="NARBAL" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>NARBAL</role>.</castItem>
-		<castItem><role id="LIDIAS" civil='M' type="H" statut='confident' age='A' stat_amour='néant'>LIDIAS</role>.</castItem>
-		<castItem><role id="LE ROI" civil='M' type="H" statut='roi' age='A' stat_amour='amoureux'>LE ROI</role>.</castItem>
-		<castItem><role id="SYLLAR" civil='M' type="H" statut='soldat' age='A' stat_amour='néant'>SYLLAR</role>.</castItem>
-		<castItem><role id="DISARQUE" civil='M' type="H" statut='' age='A' stat_amour='néant'>DISARQUE</role>.</castItem>
-		<castItem><role id="DEUXIS" civil='M' type="H" statut='' age='A' stat_amour='néant'>DEUXIS</role>.</castItem>
-		<castItem><role id="LA MÈRE" civil='F' type="H" statut='aristocrate' age='V' stat_amour='néant'>LA MÈRE DE THISBÉ</role>.</castItem>
-		<castItem><role id="LA CONFIDENTE" civil='F' type="H" statut='confident' age='A' stat_amour='néant'>LA CONFIDENTE</role>.</castItem>
-		<castItem><role id="LE MESSAGER" civil='M' type="H" statut='messager' age='A' stat_amour='néant'>LE MESSAGER</role>.</castItem>
+		<castItem><role id="THISBÉ" sex="2" type="H" statut='aristocrate' age='A' stat_amour='amoureux'>THISBÉ</role>.</castItem>
+		<castItem><role id="PYRAME" sex="1" type="H" statut='aristocrate' age='A' stat_amour='amoureux'>PYRAME</role>.</castItem>
+		<castItem><role id="BERSIANE" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>BERSIANE</role>.</castItem>
+		<castItem><role id="NARBAL" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>NARBAL</role>.</castItem>
+		<castItem><role id="LIDIAS" sex="1" type="H" statut='confident' age='A' stat_amour='néant'>LIDIAS</role>.</castItem>
+		<castItem><role id="LE ROI" sex="1" type="H" statut='roi' age='A' stat_amour='amoureux'>LE ROI</role>.</castItem>
+		<castItem><role id="SYLLAR" sex="1" type="H" statut='soldat' age='A' stat_amour='néant'>SYLLAR</role>.</castItem>
+		<castItem><role id="DISARQUE" sex="1" type="H" statut='' age='A' stat_amour='néant'>DISARQUE</role>.</castItem>
+		<castItem><role id="DEUXIS" sex="1" type="H" statut='' age='A' stat_amour='néant'>DEUXIS</role>.</castItem>
+		<castItem><role id="LA MÈRE" sex="2" type="H" statut='aristocrate' age='V' stat_amour='néant'>LA MÈRE DE THISBÉ</role>.</castItem>
+		<castItem><role id="LA CONFIDENTE" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>LA CONFIDENTE</role>.</castItem>
+		<castItem><role id="LE MESSAGER" sex="1" type="H" statut='messager' age='A' stat_amour='néant'>LE MESSAGER</role>.</castItem>
 	</castList>
 	<set location="Lieu mythologique" country='Pays mythologique' periode='Temps mythologiques' link=''>.</set>
 	</front>

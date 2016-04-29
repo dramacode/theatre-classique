@@ -7,9 +7,10 @@
 				<author born='1712' born_location='Génève' death='1778' death_location='Ermenonville' academie=''>ROUSSEAU, Jean-Jacques</author>
 				<date>1752</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, janvier 2010</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -87,13 +88,13 @@
 	</div>
 		<castList>
 			<head>ACTEURS</head>
-			<castItem><role id="LISIMON" civil='M' type="H" statut="aristocrate" age="A" stat_amour='néant'>LISIMON</role>.</castItem>
-			<castItem><role id="VALÈRE" civil='M' type="H" statut="aristocrate" age="A" stat_amour='néant'>VALÈRE</role>, enfant de Lisimon.</castItem>
-			<castItem><role id="LUCINDE" civil='M' type="H" statut="aristocrate" age="A" stat_amour='néant'>LUCINDE</role>, enfant de Lisimon.</castItem>
-			<castItem><role id="LÉANDRE" civil='M' type="H" statut="aristocrate" age="A" stat_amour='néant'>LÉANDRE</role>, frère d'Angélique, pupille de Lisimon.</castItem>
-			<castItem><role id="ANGÉLIQUE" civil='F' type="H" statut="aristocrate" age="A" stat_amour='néant'>ANGÉLIQUE</role>, soeur de Léandre, pupille de Lisimon.</castItem>
-			<castItem><role id="MARTON" civil='F' type="H" statut="suivante" age="A" stat_amour='néant'>MARTON</role>, suivante.</castItem>
-			<castItem><role id="FRONTIN" civil='M' type="H" statut="valet" age="A" stat_amour='néant'>FRONTIN</role>, valet de Valère.</castItem>
+			<castItem><role id="LISIMON" sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>LISIMON</role>.</castItem>
+			<castItem><role id="VALÈRE" sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>VALÈRE</role>, enfant de Lisimon.</castItem>
+			<castItem><role id="LUCINDE" sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>LUCINDE</role>, enfant de Lisimon.</castItem>
+			<castItem><role id="LÉANDRE" sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>LÉANDRE</role>, frère d'Angélique, pupille de Lisimon.</castItem>
+			<castItem><role id="ANGÉLIQUE" sex="2" type="H" statut="aristocrate" age="A" stat_amour='néant'>ANGÉLIQUE</role>, soeur de Léandre, pupille de Lisimon.</castItem>
+			<castItem><role id="MARTON" sex="2" type="H" statut="suivante" age="A" stat_amour='néant'>MARTON</role>, suivante.</castItem>
+			<castItem><role id="FRONTIN" sex="1" type="H" statut="valet" age="A" stat_amour='néant'>FRONTIN</role>, valet de Valère.</castItem>
 		</castList>
 		<set location='France' country='France' periode='(inconnue)' link=''>La Scène est dans l'appartement de Valère.</set>
 	</front>

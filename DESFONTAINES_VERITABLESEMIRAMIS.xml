@@ -6,12 +6,13 @@
 				<title>LA VÉRITABLE SÉMIRAMIS, TRAGÉDIE.</title>
 			<author born='1610' born_location='' death='1652' death_location='' academie=''>DESFONTAINES, Nicolas Marie dit</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<editor>Texte établi par Camille Frejaville, dans le cadre d'un travail d'édition critique sous la direction de Georges Forestier. (Université Paris-Sorbonne)
 				</editor>
 				
 				<publisher>publié par Paul FIEVRE, décembre 2014.</publisher>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire balylonienne</inspiration>
@@ -54,16 +55,16 @@
 	<signature>DESFONTAINES.</signature>
 	</div>
 	<castList><head>LES PERSONNAGES</head>
-	<castItem><role id="NINUS" civil='M' type="H" statut='roi' age='A' stat_amour='néant'>NINUS</role>, Roi des Assyriens.</castItem> 
-	<castItem><role id="SÉMIRAMIS" civil='F' type="H" statut='roi' age='A' stat_amour='néant'>SÉMIRAMIS</role>, Reine et femme de Ninus.</castItem> 
-	<castItem><role id="PRAZIMÈNE" civil='F' type="H" statut='prince' age='A' stat_amour='néant'>PRAZIMÈNE</role>, Princesse alliée de Sémiramis.</castItem> 
-	<castItem><role id="MELISTRATE" civil='M' type="H" statut='général' age='A' stat_amour='néant'>MELISTRATE</role>, général d'armée reconnu en fin pour fils de Sémiramis.</castItem> 
-	<castItem><role id="ORONCLIDE" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>ORONCLIDE</role>, fils putatif de Merzabane reconnu fils de Ninus.</castItem> 
-	<castItem><role id="MERZABANE" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>MERZABANE</role>, Prince confident de Sémiramis</castItem> 
-	<castItem><role id="ZENOPIRE" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>ZENOPIRE</role>, Prince assistant au couronnement de Sémiramis.</castItem> 
-	<castItem><role id="CAMBISES" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>CAMBISES</role>, Prince assistant au couronnement de Sémiramis.</castItem> 
-	<castItem><role id="PALMÉDON" civil='M' type="H" statut='écuyer' age='A' stat_amour='néant'>PALMÉDON</role>, écuyer de Melistrate.</castItem> 
-	<castItem><role id="LES GARDES" civil='G' type="H" statut='garde' age='A' stat_amour='néant'>LES GARDES</role>, de Ninus et de Sémiramis.</castItem> 
+	<castItem><role id="NINUS" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>NINUS</role>, Roi des Assyriens.</castItem> 
+	<castItem><role id="SÉMIRAMIS" sex="2" type="H" statut='roi' age='A' stat_amour='néant'>SÉMIRAMIS</role>, Reine et femme de Ninus.</castItem> 
+	<castItem><role id="PRAZIMÈNE" sex="2" type="H" statut='prince' age='A' stat_amour='néant'>PRAZIMÈNE</role>, Princesse alliée de Sémiramis.</castItem> 
+	<castItem><role id="MELISTRATE" sex="1" type="H" statut='général' age='A' stat_amour='néant'>MELISTRATE</role>, général d'armée reconnu en fin pour fils de Sémiramis.</castItem> 
+	<castItem><role id="ORONCLIDE" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>ORONCLIDE</role>, fils putatif de Merzabane reconnu fils de Ninus.</castItem> 
+	<castItem><role id="MERZABANE" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>MERZABANE</role>, Prince confident de Sémiramis</castItem> 
+	<castItem><role id="ZENOPIRE" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>ZENOPIRE</role>, Prince assistant au couronnement de Sémiramis.</castItem> 
+	<castItem><role id="CAMBISES" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>CAMBISES</role>, Prince assistant au couronnement de Sémiramis.</castItem> 
+	<castItem><role id="PALMÉDON" sex="1" type="H" statut='écuyer' age='A' stat_amour='néant'>PALMÉDON</role>, écuyer de Melistrate.</castItem> 
+	<castItem><role id="LES GARDES" sex="9" type="H" statut='garde' age='A' stat_amour='néant'>LES GARDES</role>, de Ninus et de Sémiramis.</castItem> 
 	</castList>
 <set location='Babylone' country='Irak' periode='XXIIème avant JC' link=''>La scène est dans une Salle du Palais Royal à Babylone.</set>
 </front>

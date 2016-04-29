@@ -6,9 +6,10 @@
 				<title>LE SÉDUCTEUR, COMÉDIE.</title>
 				<author born='1747' born_location='Paris' death='1789' death_location='Bavière' academie=''>BIÈVRE, François George Maréchal, marquis de</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE Janvier 2015.</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -65,17 +66,17 @@
 	</div>
 
 <castList><head>PERSONNAGES. </head>
-		<castItem><role id="LE MARQUIS" civil='M' type="H" statut="marquis" age="A" stat_amour='néant'>LE MARQUIS</role>. M. MOLÉ.</castItem>
-		<castItem><role id="ORGON" civil='M' type="H" statut="aristocrate" age="A" stat_amour='néant'>ORGON</role>. Mr. DESESSART.</castItem>
-		<castItem><role id="ROSALIE" civil='F' type="H" statut="aristocrate" age="A" stat_amour='néant'>ROSALIE</role>, fille d'Orgon. Melle OLIVIER.</castItem>
-		<castItem><role id="ORPHISE" civil='F' type="H" statut="aristocrate" age="A" stat_amour='néant'>ORPHISE</role>, jeune veuve, amie de Rosalie. Melle CONTA.</castItem>
-		<castItem><role id="DAMIS" civil='M' type="H" statut="aristocrate" age="A" stat_amour='néant'>DAMIS</role>, ami d'Orgon. Mr. FLORENCE.</castItem>
-		<castItem><role id="MÉLISE" civil='F' type="H" statut="aristocrate" age="A" stat_amour='néant'>MÉLISE</role>, de la société d'Orgon, engagée avec Damis. Mme SUIN.</castItem>
-		<castItem><role id="DARMANCE" civil='M' type="H" statut="aristocrate" age="A" stat_amour='Rosalie'>DARMANCE</role>, amant de Rosalie. Mr. FLEURY.</castItem>
-		<castItem><role id="ZÉRONÈS" civil='M' type="H" statut="philosophe" age="A" stat_amour='néant'>ZÉRONÈS</role>, prétendu Philosophe. Mr. DUGAZON.</castItem>
-		<castItem><role id="UN MAÎTRE D'HÔTEL" civil='M' type="H" statut="maître d'hôtel" age="A" stat_amour='néant'>UN MAÎTRE D'HÔTEL</role>.</castItem>
-		<castItem><role id="UN DOMESTIQUE" civil='M' type="H" statut="domestique" age="A" stat_amour='néant'>UN DOMESTIQUE</role>.</castItem>
-		<castItem><role id="PLUSIEURS VALETS" civil='G' type="H" statut="valet" age="A" stat_amour='néant'>PLUSIEURS VALETS</role>, personnages muets.</castItem>
+		<castItem><role id="LE MARQUIS" sex="1" type="H" statut="marquis" age="A" stat_amour='néant'>LE MARQUIS</role>. M. MOLÉ.</castItem>
+		<castItem><role id="ORGON" sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>ORGON</role>. Mr. DESESSART.</castItem>
+		<castItem><role id="ROSALIE" sex="2" type="H" statut="aristocrate" age="J" stat_amour='néant'>ROSALIE</role>, fille d'Orgon. Melle OLIVIER.</castItem>
+		<castItem><role id="ORPHISE" sex="2" type="H" statut="veuve" age="J" stat_amour='néant'>ORPHISE</role>, jeune veuve, amie de Rosalie. Melle CONTA.</castItem>
+		<castItem><role id="DAMIS" sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>DAMIS</role>, ami d'Orgon. Mr. FLORENCE.</castItem>
+		<castItem><role id="MÉLISE" sex="2" type="H" statut="aristocrate" age="A" stat_amour='néant'>MÉLISE</role>, de la société d'Orgon, engagée avec Damis. Mme SUIN.</castItem>
+		<castItem><role id="DARMANCE" sex="1" type="H" statut="aristocrate" age="J" stat_amour='Rosalie'>DARMANCE</role>, amant de Rosalie. Mr. FLEURY.</castItem>
+		<castItem><role id="ZÉRONÈS" sex="1" type="H" statut="philosophe" age="A" stat_amour='néant'>ZÉRONÈS</role>, prétendu Philosophe. Mr. DUGAZON.</castItem>
+		<castItem><role id="UN MAÎTRE D'HÔTEL" sex="1" type="H" statut="maître d'hôtel" age="A" stat_amour='néant'>UN MAÎTRE D'HÔTEL</role>.</castItem>
+		<castItem><role id="UN DOMESTIQUE" sex="1" type="H" statut="domestique" age="A" stat_amour='néant'>UN DOMESTIQUE</role>.</castItem>
+		<castItem><role id="PLUSIEURS VALETS" sex="9" type="H" statut="valet" age="A" stat_amour='néant'>PLUSIEURS VALETS</role>, personnages muets.</castItem>
 </castList>
 <set location="Paris" country='France' periode='XVIIIème' link=''>La scène est à la Campagne, dans un Château d'Orgon, aux environs de Paris.</set>
 </front>

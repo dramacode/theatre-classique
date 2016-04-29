@@ -6,9 +6,10 @@
 				<title>LE JUGEMENT DE PÂRIS, COMÉDIE.</title>
 			<author born='1686' born_location='Paris' death='1724' death_location='Passy' academie=''>DORNEVAL, Jacques-Philippe d'ORNEVAL dit</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, février 2015.</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Prologue</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -38,19 +39,19 @@
 		</performance>
 
 	<castList><head>ACTEURS.</head>
-		<castItem><role id="JUPITER" civil='M' type="D" statut='dieu' age='A' stat_amour='néant'>JUPITER</role>.</castItem>
-		<castItem><role id="JUNON" civil='F' type="D" statut='dieu' age='A' stat_amour='néant'>JUNON</role>.</castItem>
-		<castItem><role id="PALLAS" civil='F' type="D" statut='dieu' age='A' stat_amour='néant'>PALLAS</role>.</castItem>
-		<castItem><role id="VÉNUS" civil='F' type="D" statut='dieu' age='A' stat_amour='néant'>VÉNUS</role>.</castItem>
-		<castItem><role id="MERCURE" civil='M' type="D" statut='dieu' age='A' stat_amour='néant'>MERCURE</role>.</castItem>
-		<castItem><role id="THÉTIS" civil='F' type="D" statut='néréide' age='A' stat_amour='néant'>THÉTIS</role>.</castItem>
-		<castItem><role id="PÉLÉE" civil='F' type="H" statut='roi' age='A' stat_amour='néant'>PÉLÉE</role>.</castItem>
-		<castItem><role id="L'AMOUR" civil='F' type="D" statut='dieu' age='E' stat_amour='néant'>L'AMOUR</role>.</castItem>
-		<castItem><role id="L'HYMEN" civil='F' type="D" statut='dieu' age='A' stat_amour='néant'>L'HYMEN</role>.</castItem>
-		<castItem><role id="TROUPE DE DIVINITÉS CÉLESTES" civil='G' type="D" statut='dieu' age='A' stat_amour='néant'>TROUPE DE DIVINITÉS CÉLESTES</role>.</castItem>
-		<castItem><role id="MONSIEUR GARGOT" civil='M' type="H" statut='commerçant' age='A' stat_amour='néant'>MONSIEUR GARGOT</role>, Cabaretier.</castItem>
-		<castItem><role id="GARÇONS" civil='G' type="H" statut='employé' age='A' stat_amour='néant'>GARÇONS</role>, Cabaretiers.</castItem>
-		<castItem><role id="PÂRIS" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>PÂRIS</role>, Arlequin.</castItem>
+		<castItem><role id="JUPITER" sex="1" type="D" statut='dieu' age='A' stat_amour='néant'>JUPITER</role>.</castItem>
+		<castItem><role id="JUNON" sex="2" type="D" statut='dieu' age='A' stat_amour='néant'>JUNON</role>.</castItem>
+		<castItem><role id="PALLAS" sex="2" type="D" statut='dieu' age='A' stat_amour='néant'>PALLAS</role>.</castItem>
+		<castItem><role id="VÉNUS" sex="2" type="D" statut='dieu' age='A' stat_amour='néant'>VÉNUS</role>.</castItem>
+		<castItem><role id="MERCURE" sex="1" type="D" statut='dieu' age='A' stat_amour='néant'>MERCURE</role>.</castItem>
+		<castItem><role id="THÉTIS" sex="2" type="D" statut='néréide' age='A' stat_amour='néant'>THÉTIS</role>.</castItem>
+		<castItem><role id="PÉLÉE" sex="2" type="H" statut='roi' age='A' stat_amour='néant'>PÉLÉE</role>.</castItem>
+		<castItem><role id="L'AMOUR" sex="2" type="D" statut='dieu' age='E' stat_amour='néant'>L'AMOUR</role>.</castItem>
+		<castItem><role id="L'HYMEN" sex="2" type="D" statut='dieu' age='A' stat_amour='néant'>L'HYMEN</role>.</castItem>
+		<castItem><role id="TROUPE DE DIVINITÉS CÉLESTES" sex="9" type="D" statut='dieu' age='A' stat_amour='néant'>TROUPE DE DIVINITÉS CÉLESTES</role>.</castItem>
+		<castItem><role id="MONSIEUR GARGOT" sex="1" type="H" statut='commerçant' age='A' stat_amour='néant'>MONSIEUR GARGOT</role>, Cabaretier.</castItem>
+		<castItem><role id="GARÇONS" sex="9" type="H" statut='employé' age='A' stat_amour='néant'>GARÇONS</role>, Cabaretiers.</castItem>
+		<castItem><role id="PÂRIS" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>PÂRIS</role>, Arlequin.</castItem>
 	</castList>
 <set location='Paris' country='France' periode='XVIIIème' link=''>La Scène est d'abord à la Chase Royale, Cabaret du Pont au Choux ; et ensuite dans un hameau voisin de la Seine.</set>
 </front>

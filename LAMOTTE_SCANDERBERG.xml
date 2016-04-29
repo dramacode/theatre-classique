@@ -6,9 +6,10 @@
 				<title>SCANDERBERG, TRAGÉDIE</title>
 				<author born='1672' born_location='Paris' death='1731' death_location='Paris' academie='1710'>LA MOTTE, Antoine-Houdard de</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, décembre 2014</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie lyrique</genre>
 				<inspiration>histoire ottomane</inspiration>
@@ -49,34 +50,34 @@
 			<premiere date='1735-10-27' location='Théâtre de la rue des Fossés Saint-Germain'>Représentée pour la première fois par l'Académie Royale de Musique, le jeudi vingt-sept octobre 1735.</premiere>
 		</performance>
 		<castList><head>ACTEURS DU PROLOGUE</head>
-			<castItem><role id="MELPOMÈNE" civil="F" type="D" statut="muse" age="A" stat_amour=''>MELPOMÈNE</role>.</castItem>
-			<castItem><role id="POLIMNIE" civil="F" type="D" statut="muse" age="A" stat_amour=''>POLIMNIE</role>.</castItem>
-			<castItem><role id="LA MAGIE" civil="F" type="D" statut="allégorie" age="A" stat_amour=''>LA MAGIE</role>.</castItem>
-			<castItem><role id="L'AMOUR" civil="M" type="D" statut="allegorie" age="A" stat_amour=''>L'AMOUR</role>.</castItem>
+			<castItem><role id="MELPOMÈNE" sex="2" type="D" statut="muse" age="A" stat_amour=''>MELPOMÈNE</role>.</castItem>
+			<castItem><role id="POLIMNIE" sex="2" type="D" statut="muse" age="A" stat_amour=''>POLIMNIE</role>.</castItem>
+			<castItem><role id="LA MAGIE" sex="2" type="D" statut="allégorie" age="A" stat_amour=''>LA MAGIE</role>.</castItem>
+			<castItem><role id="L'AMOUR" sex="1" type="D" statut="allegorie" age="A" stat_amour=''>L'AMOUR</role>.</castItem>
 		</castList>
 		<castList><head>ACTEURS DE LA TRAGÉDIE</head>
-			<castItem><role id="AMURAT" civil="M" type="H" statut="empereur" age="A" stat_amour='servilie'>AMURAT</role>, Empereur des Turcs.</castItem>
-			<castItem><role id="ROXANE" civil="M" type="H" statut="sultan" age="A" stat_amour=''>ROXANE</role>, Sultane favorite.</castItem>
-			<castItem><role id="SCANDERBERG" civil="F" type="H" statut="roi" age="A" stat_amour='servilie'>SCANDERBERG</role>, Roi d'Albanie.</castItem>
-			<castItem><role id="SERVILIE" civil="F" type="H" statut="prince" age="A" stat_amour='scanderberg'>SERVILIE</role>, Princesse, fille du Despote de Servie.</castItem>
-			<castItem><role id="OSMAN" civil="M" type="H" statut="jardinier" age="A" stat_amour=''>OSMAN</role>, Bostangi Bachi.</castItem>
-			<castItem><role id="LE MUPHTI" civil="M" type="H" statut="mufti" age="A" stat_amour=''>LE MUPHTI</role>.</castItem>
-			<castItem><role id="L'AGA" civil="M" type="H" statut="janissaire" age="A" stat_amour=''>L'AGA des Janissaires</role>.</castItem>
-			<castItem><role id="RUSTAN" civil="M" type="H" statut="officier" age="A" stat_amour=''>RUSTAN</role>, Officier de l'Empereur.</castItem>
-			<castItem><role id="UNE GRECQUE" civil="F" type="H" statut="peuple" age="A" stat_amour=''>UNE GRECQUE</role>.</castItem>
-			<castItem><role id="UNE ASIATIQUE" civil="F" type="H" statut="peuple" age="A" stat_amour=''>UNE ASIATIQUE</role>.</castItem>
-			<castItem><role id="SULTANES" civil="G" type="H" statut="sultan" age="A" stat_amour=''>SULTANES</role>.</castItem>
-			<castItem><role id="BOSTANGIS" civil="M" type="H" statut="jardinier" age="A" stat_amour=''>BOSTANGIS</role>.</castItem>
-			<castItem><role id="GRECS et GRECQUES" civil="G" type="H" statut="peuple" age="A" stat_amour=''>GRECS et GRECQUES</role>, de la Suite de Servilie.</castItem>
-			<castItem><role id="LE VIZIR" civil="M" type="H" statut="vizir" age="A" stat_amour=''>LE VIZIR</role>.</castItem>
-			<castItem><role id="JANISSAIRES" civil="G" type="H" statut="janissaire" age="A" stat_amour=''>JANISSAIRES</role>.</castItem>
-			<castItem><role id="OFFICIERS" civil="G" type="H" statut="officier" age="A" stat_amour=''>OFFICIERS DU SÉRAIL</role>.</castItem>
-			<castItem><role id="ESCLAVES" civil="G" type="H" statut="esclave" age="A" stat_amour=''>ESCLAVES de différentes nations de l'un et de l'autre sexe</role>.</castItem>
-			<castItem><role id="PEUPLES DE TURQUIE" civil="G" type="H" statut="peuple" age="A" stat_amour=''>LES DIFFÉRENTS PEUPLES DE LA TURQUIE</role>.</castItem>
-			<castItem><role id="IMANS" civil="G" type="H" statut="iman" age="A" stat_amour=''>LES IMANS</role>.</castItem>
-			<castItem><role id="GRANDS OFFICIERS DE LA POSTE" civil="G" type="H" statut="officier" age="A" stat_amour=''>LES GRANDS OFFICIERS DE LA PORTE</role>.</castItem>
-			<castItem><role id="SERVIENS ET SERVIENNES" civil="G" type="H" statut="peuple" age="A" stat_amour=''>SERVIENS et SERVIENNES</role>, de la suite de Servilie.</castItem>
-			<castItem><role id="ALBANAIS ET ALBANAISES" civil="G" type="H" statut="PEUPLE" age="A" stat_amour=''>ALBANAIS et ALBANAISES</role>, de la suite de Scanderberg.</castItem>
+			<castItem><role id="AMURAT" sex="1" type="H" statut="empereur" age="A" stat_amour='servilie'>AMURAT</role>, Empereur des Turcs.</castItem>
+			<castItem><role id="ROXANE" sex="1" type="H" statut="sultan" age="A" stat_amour=''>ROXANE</role>, Sultane favorite.</castItem>
+			<castItem><role id="SCANDERBERG" sex="2" type="H" statut="roi" age="A" stat_amour='servilie'>SCANDERBERG</role>, Roi d'Albanie.</castItem>
+			<castItem><role id="SERVILIE" sex="2" type="H" statut="prince" age="A" stat_amour='scanderberg'>SERVILIE</role>, Princesse, fille du Despote de Servie.</castItem>
+			<castItem><role id="OSMAN" sex="1" type="H" statut="jardinier" age="A" stat_amour=''>OSMAN</role>, Bostangi Bachi.</castItem>
+			<castItem><role id="LE MUPHTI" sex="1" type="H" statut="mufti" age="A" stat_amour=''>LE MUPHTI</role>.</castItem>
+			<castItem><role id="L'AGA" sex="1" type="H" statut="janissaire" age="A" stat_amour=''>L'AGA des Janissaires</role>.</castItem>
+			<castItem><role id="RUSTAN" sex="1" type="H" statut="officier" age="A" stat_amour=''>RUSTAN</role>, Officier de l'Empereur.</castItem>
+			<castItem><role id="UNE GRECQUE" sex="2" type="H" statut="peuple" age="A" stat_amour=''>UNE GRECQUE</role>.</castItem>
+			<castItem><role id="UNE ASIATIQUE" sex="2" type="H" statut="peuple" age="A" stat_amour=''>UNE ASIATIQUE</role>.</castItem>
+			<castItem><role id="SULTANES" sex="9" type="H" statut="sultan" age="A" stat_amour=''>SULTANES</role>.</castItem>
+			<castItem><role id="BOSTANGIS" sex="1" type="H" statut="jardinier" age="A" stat_amour=''>BOSTANGIS</role>.</castItem>
+			<castItem><role id="GRECS et GRECQUES" sex="9" type="H" statut="peuple" age="A" stat_amour=''>GRECS et GRECQUES</role>, de la Suite de Servilie.</castItem>
+			<castItem><role id="LE VIZIR" sex="1" type="H" statut="vizir" age="A" stat_amour=''>LE VIZIR</role>.</castItem>
+			<castItem><role id="JANISSAIRES" sex="9" type="H" statut="janissaire" age="A" stat_amour=''>JANISSAIRES</role>.</castItem>
+			<castItem><role id="OFFICIERS" sex="9" type="H" statut="officier" age="A" stat_amour=''>OFFICIERS DU SÉRAIL</role>.</castItem>
+			<castItem><role id="ESCLAVES" sex="9" type="H" statut="esclave" age="A" stat_amour=''>ESCLAVES de différentes nations de l'un et de l'autre sexe</role>.</castItem>
+			<castItem><role id="PEUPLES DE TURQUIE" sex="9" type="H" statut="peuple" age="A" stat_amour=''>LES DIFFÉRENTS PEUPLES DE LA TURQUIE</role>.</castItem>
+			<castItem><role id="IMANS" sex="9" type="H" statut="iman" age="A" stat_amour=''>LES IMANS</role>.</castItem>
+			<castItem><role id="GRANDS OFFICIERS DE LA POSTE" sex="9" type="H" statut="officier" age="A" stat_amour=''>LES GRANDS OFFICIERS DE LA PORTE</role>.</castItem>
+			<castItem><role id="SERVIENS ET SERVIENNES" sex="9" type="H" statut="peuple" age="A" stat_amour=''>SERVIENS et SERVIENNES</role>, de la suite de Servilie.</castItem>
+			<castItem><role id="ALBANAIS ET ALBANAISES" sex="9" type="H" statut="PEUPLE" age="A" stat_amour=''>ALBANAIS et ALBANAISES</role>, de la suite de Scanderberg.</castItem>
 		</castList>
 <set location='Andrinople' country='Turquie' periode='XVème' link=''></set>
 <note>Les noms des comédiens, chanteurs, et danseurs figurent sur l'édition originale ne sont pas reproduits ici.</note>

@@ -7,9 +7,10 @@
 				<author born='1668' born_location='Paris' death='1709' death_location='Paris' academie=''>DUCHE de VANCY, Jospeh-François</author>
 				<date>1702</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE janvier 2010</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>bible</inspiration>
@@ -64,17 +65,17 @@
 	<premiere date='1712-04-07' location='Théâtre de la rue des Fossés Saint-Germain'>Représenté pour la première fois en 1701 au Collège de Saint-Cyr, reprise chez Madame de Maintenon le 19 janvier 1702 et en février à l'Hôtel de Conti reprise à Paris le 7 avril 1712 au Théâtre de la rue des Fossés Saint-Germain.</premiere>
 		</performance>
 	<castList><head>PERSONNAGES.</head>
-		<castItem><role id="DAVID" civil='M' type="H" statut='roi' age='A' stat_amour='néant'>DAVID</role>, roi d'Israël.</castItem>
-		<castItem><role id="MAACHA" civil='F' type="H" statut='roi' age='A' stat_amour='néant'>MAACHA</role>, femme de David.</castItem>
-		<castItem><role id="ABSALON" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>ABSALON</role>, fils de David. </castItem>
-		<castItem><role id="THARÈS" civil='F' type="H" statut='prince' age='A' stat_amour='néant'>THARÈS</role>, femme d'Absalon.</castItem>
-		<castItem><role id="THAMAR" civil='F' type="H" statut='prince' age='A' stat_amour='néant'>THAMAR</role>, fille d'Absalon.</castItem>
-		<castItem><role id="JOAB" civil='M' type="H" statut='général' age='A' stat_amour='néant'>JOAB</role>, général des armées de David.</castItem>
-		<castItem><role id="ACHITOPHEL" civil='M' type="H" statut='ministre' age='A' stat_amour='néant'>ACHITOPHEL</role>, ministre de David.</castItem>
-		<castItem><role id="CISAÏ" civil='M' type="H" statut='ministre' age='A' stat_amour='néant'>CISAÏ</role> ou CHUSAÏ, ministre de David.</castItem>
-		<castItem><role id="ZAMRI" civil='M' type="H" statut='confident' age='A' stat_amour='néant'>ZAMRI</role>, confident d'Achitophel.</castItem>
-		<castItem><role id="UN-ISRAELITE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>Un Israélite</role>.</castItem>
-		<castItem><role id="GARDES" civil='G' type="G" statut='gardes' age='A' stat_amour='néant'>Gardes</role>.</castItem>
+		<castItem><role id="DAVID" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>DAVID</role>, roi d'Israël.</castItem>
+		<castItem><role id="MAACHA" sex="2" type="H" statut='roi' age='A' stat_amour='néant'>MAACHA</role>, femme de David.</castItem>
+		<castItem><role id="ABSALON" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>ABSALON</role>, fils de David. </castItem>
+		<castItem><role id="THARÈS" sex="2" type="H" statut='prince' age='A' stat_amour='néant'>THARÈS</role>, femme d'Absalon.</castItem>
+		<castItem><role id="THAMAR" sex="2" type="H" statut='prince' age='A' stat_amour='néant'>THAMAR</role>, fille d'Absalon.</castItem>
+		<castItem><role id="JOAB" sex="1" type="H" statut='général' age='A' stat_amour='néant'>JOAB</role>, général des armées de David.</castItem>
+		<castItem><role id="ACHITOPHEL" sex="1" type="H" statut='ministre' age='A' stat_amour='néant'>ACHITOPHEL</role>, ministre de David.</castItem>
+		<castItem><role id="CISAÏ" sex="1" type="H" statut='ministre' age='A' stat_amour='néant'>CISAÏ</role> ou CHUSAÏ, ministre de David.</castItem>
+		<castItem><role id="ZAMRI" sex="1" type="H" statut='confident' age='A' stat_amour='néant'>ZAMRI</role>, confident d'Achitophel.</castItem>
+		<castItem><role id="UN ISRAÉLITE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>UN ISRAÉLITE</role>.</castItem>
+		<castItem><role id="GARDES" sex="1" type="H" statut='gardes' age='A' stat_amour='néant'>GARDES</role>.</castItem>
 		</castList>
 	<set location='Manhaïm' country='Israël' periode='Temps mythologiques' link=''>La scène est près des murs de la ville de Manhaïm, dans la tente de David. </set>
 </front>

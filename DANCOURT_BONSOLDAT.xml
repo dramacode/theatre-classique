@@ -7,9 +7,10 @@
 				<author born='1661' born_location='Paris' death='1725' death_location='Paris' academie=''>DANCOURT, Florent Carton dit</author>
 				<date>1699</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE janvier 2013</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -51,15 +52,15 @@
 			<premiere date="1693-04-24" location='Théâtre de la rue des Fossés Saint-Germain'>Représentée pour la première fois le 24 Avril 1693 au Théâtre de la rue des Fossés Saint-Germain.</premiere>
 		</performance>
 	<castList><head>ACTEURS.</head>
-		<castItem><role id="MONSIEUR GROGNARD" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>MONSIEUR GROGNARD</role>, prétendu Mari d'Angélique.</castItem>
-		<castItem><role id="ANGÉLIQUE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='Léandre'>ANGÉLIQUE</role>, Amoureuse de Léandre. </castItem>
-		<castItem><role id="JACINTE" civil='F' type="H" statut='servente' age='A' stat_amour='néant'>JACINTE</role>, Servante d'Angélique. </castItem>
-		<castItem><role id="LÉANDRE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='Angélique'>LÉANDRE</role>, Amant d'Angélique. </castItem>
-		<castItem><role id="JOCRISSE" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>JOCRISSE</role>, Valet de M. Grognard. </castItem>
-		<castItem><role id="BARBE" civil='M' type="H" statut='cuisinier' age='A' stat_amour='néant'>BARBE</role>, Cuisinière de M. Grognard. </castItem>
-		<castItem><role id="UN CLERC" civil='M' type="H" statut='clerc' age='A' stat_amour='néant'>UN CLERC</role>. </castItem>
-		<castItem><role id="UN SOLDAT" civil='M' type="H" statut='soldat' age='A' stat_amour='néant'>UN SOLDAT</role>. </castItem>
-		<castItem><role id="UN ROTISSEUR" civil='M' type="H" statut='rotisseur' age='A' stat_amour='néant'>UN ROTISSEUR</role>. </castItem>
+		<castItem><role id="MONSIEUR GROGNARD" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>MONSIEUR GROGNARD</role>, prétendu Mari d'Angélique.</castItem>
+		<castItem><role id="ANGÉLIQUE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='Léandre'>ANGÉLIQUE</role>, Amoureuse de Léandre. </castItem>
+		<castItem><role id="JACINTE" sex="2" type="H" statut='servente' age='A' stat_amour='néant'>JACINTE</role>, Servante d'Angélique. </castItem>
+		<castItem><role id="LÉANDRE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='Angélique'>LÉANDRE</role>, Amant d'Angélique. </castItem>
+		<castItem><role id="JOCRISSE" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>JOCRISSE</role>, Valet de M. Grognard. </castItem>
+		<castItem><role id="BARBE" sex="1" type="H" statut='cuisinier' age='A' stat_amour='néant'>BARBE</role>, Cuisinière de M. Grognard. </castItem>
+		<castItem><role id="UN CLERC" sex="1" type="H" statut='clerc' age='A' stat_amour='néant'>UN CLERC</role>. </castItem>
+		<castItem><role id="UN SOLDAT" sex="1" type="H" statut='soldat' age='A' stat_amour='néant'>UN SOLDAT</role>. </castItem>
+		<castItem><role id="UN ROTISSEUR" sex="1" type="H" statut='rotisseur' age='A' stat_amour='néant'>UN ROTISSEUR</role>. </castItem>
 	</castList>
 	<set location="Paris" country='France' periode='XVIIème' link=''>La Scène est chez Monsieur Grognard. </set>
 </front>

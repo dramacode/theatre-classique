@@ -7,9 +7,10 @@
 				<author born='1625' born_location='Rouen' death='1709' death_location='Les Andelys' academie='1685'>CORNEILLE, Thomas</author>
 				<date>1662</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Ernest FIEVRE, Mai 2009</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire romaine</inspiration>
@@ -41,17 +42,17 @@
 			<premiere date='1662-02' location='Hôtel de Bourgogne'>Représenté pour la première fois en février 1662 au Théâtre de l'Hôtel de Bourgogne.</premiere>
 		</performance>
 	<castList><head>ACTEURS</head>
-		<castItem><role id="CONSTANTIN" civil='M' type="H" statut='empereur' age='A' stat_amour='néant'>CONSTANTIN</role>, Empereur.</castItem>
-		<castItem><role id="MAXIMIAN" civil='M' type="H" statut='aritocrate' age='A' stat_amour='néant'>MAXIMIAN</role>, père de Fauste.</castItem>
-		<castItem><role id="FAUSTE" civil='F' type="H" statut='empereur' age='A' stat_amour='néant'>FAUSTE</role>, femme de Constantin.</castItem>
-		<castItem><role id="CONSTANCE" civil='F' type="H" statut='empereur' age='A' stat_amour='néant'>CONSTANCE</role>, soeur de Constantin.</castItem>
-		<castItem><role id="SEVERE" civil='M' type="H" statut='général' age='A' stat_amour='néant'>SÉVÈRE</role>, lieutenant Général des Armées de l'Empereur.</castItem>
-		<castItem><role id="LICINE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>LICINE</role>, amant de Constance.</castItem>
-		<castItem><role id="MAXIME" civil='M' type="H" statut='capitaine' age='A' stat_amour='néant'>MAXIME</role>, capitaine des Gardes de l'Empereur.</castItem>
-		<castItem><role id="MARTIAN" civil='M' type="H" statut='confident' age='A' stat_amour='néant'>MARTIAN</role>, confident de Maximin.</castItem>
-		<castItem><role id="FLAVIE" civil='F' type="H" statut='confident' age='A' stat_amour='néant'>FLAVIE</role>, confidente de Fauste.</castItem>
-		<castItem><role id="LUCIE" civil='F' type="H" statut='confident' age='A' stat_amour='néant'>LUCIE</role>, confidente de Constance.</castItem>
-		<castItem><role id="SUITE_EMPEREUR" civil='G'>Suite de l'Empereur</role>.</castItem>
+		<castItem><role id="CONSTANTIN" sex="1" type="H" statut='empereur' age='A' stat_amour='néant'>CONSTANTIN</role>, Empereur.</castItem>
+		<castItem><role id="MAXIMIAN" sex="1" type="H" statut='aritocrate' age='A' stat_amour='néant'>MAXIMIAN</role>, père de Fauste.</castItem>
+		<castItem><role id="FAUSTE" sex="2" type="H" statut='empereur' age='A' stat_amour='néant'>FAUSTE</role>, femme de Constantin.</castItem>
+		<castItem><role id="CONSTANCE" sex="2" type="H" statut='empereur' age='A' stat_amour='néant'>CONSTANCE</role>, soeur de Constantin.</castItem>
+		<castItem><role id="SEVERE" sex="1" type="H" statut='général' age='A' stat_amour='néant'>SÉVÈRE</role>, lieutenant Général des Armées de l'Empereur.</castItem>
+		<castItem><role id="LICINE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>LICINE</role>, amant de Constance.</castItem>
+		<castItem><role id="MAXIME" sex="1" type="H" statut='capitaine' age='A' stat_amour='néant'>MAXIME</role>, capitaine des Gardes de l'Empereur.</castItem>
+		<castItem><role id="MARTIAN" sex="1" type="H" statut='confident' age='A' stat_amour='néant'>MARTIAN</role>, confident de Maximin.</castItem>
+		<castItem><role id="FLAVIE" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>FLAVIE</role>, confidente de Fauste.</castItem>
+		<castItem><role id="LUCIE" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>LUCIE</role>, confidente de Constance.</castItem>
+		<castItem><role id="SUITE_EMPEREUR" sex="9">Suite de l'Empereur</role>.</castItem>
 </castList>
 <set location='Marseille' country='France' periode='IVème avant JC' link=''>Le scène est à Marseille.</set>
 </front>

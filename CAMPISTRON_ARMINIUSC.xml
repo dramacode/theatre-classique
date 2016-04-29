@@ -6,9 +6,10 @@
 			<title>ARMINUS, TRAGÉDIE</title>
 			<author born='1656' born_location='Toulouse' death='1713' death_location='Toulouse' academie='1701'>CAMPISTRON, Jean G. de</author>
 		</titleStmt>
-		<publicationStmp>	
+		<publicationStmt>	
 			<p>publié par Paul FIEVRE, février 2009, revu Déc. 2009</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Tragédie</genre>
 			<inspiration>histoire romaine</inspiration>
@@ -39,17 +40,17 @@
 			<premiere date='1684-02-19' location='Hôtel Guénégaud'>Représenté pour la première fois le 19 février 1684 au Théâtre de l'Hôtel Guénégaud.</premiere>
 		</performance>
 		<castList><head>ACTEURS</head>
-			<castItem><role id="VARUS" civil='M' type="H" statut="gouverneur" age="A" stat_amour='néant'>VARUS</role>, gouverneur de la Germanie, pour Auguste.</castItem>
-			<castItem><role id="SEGESTE" civil='M' type="H" statut="prince" age="A" stat_amour='néant'>SÉGESTE</role>, prince des Cattes.</castItem>
-			<castItem><role id="ARMINIUS" civil='M' type="H" statut="prince" age="A" stat_amour='promis'>ARMINIUS</role>, prince des Cherusques, accordé à Isménie.</castItem>
-			<castItem><role id="SIGISMOND" civil='M' type="H" statut="prince" age="A" stat_amour='néant'>SIGISMOND</role>, fils de Ségeste, accordé à Polixène.</castItem>
-			<castItem><role id="ISMENIE" civil='F' type="H" statut="prince" age="A" stat_amour='promis'>ISMÉNIE</role>, fille de Ségeste.</castItem>
-			<castItem><role id="POLIXENE" civil='F' type="H" statut="aristocrate" age="A" stat_amour='néant'>POLIXÈNE</role>, soeur d'Arminus.</castItem>
-			<castItem><role id="BARSINE" civil='F' type="H" statut="confident" age="A" stat_amour='néant'>BARSINE</role>, confidente d'Isménie.</castItem>
-			<castItem><role id="TULLUS" civil='M' type="H" statut="confident" age="A" stat_amour='néant'>TULLUS</role>,confident de Varus.</castItem>
-			<castItem><role id="SUNNON" civil='M' type="H" statut="capitaine" age="A" stat_amour='néant'>SUNNON</role>, capitaine des gardes de Ségeste.</castItem>
-			<castItem><role id="SINORIX" civil='M' type="H" statut="capitaine" age="A" stat_amour='néant'>SINORIX</role>, capitaine des gardes de Ségeste.</castItem>
-			<castItem><role id="SUITE" civil='G' type="H" statut="suite" age="A" stat_amour='néant'>Suite</role>.</castItem>
+			<castItem><role id="VARUS" sex="1" type="H" statut="gouverneur" age="A" stat_amour='néant'>VARUS</role>, gouverneur de la Germanie, pour Auguste.</castItem>
+			<castItem><role id="SEGESTE" sex="1" type="H" statut="prince" age="A" stat_amour='néant'>SÉGESTE</role>, prince des Cattes.</castItem>
+			<castItem><role id="ARMINIUS" sex="1" type="H" statut="prince" age="A" stat_amour='promis'>ARMINIUS</role>, prince des Cherusques, accordé à Isménie.</castItem>
+			<castItem><role id="SIGISMOND" sex="1" type="H" statut="prince" age="J" stat_amour='néant'>SIGISMOND</role>, fils de Ségeste, accordé à Polixène.</castItem>
+			<castItem><role id="ISMENIE" sex="2" type="H" statut="prince" age="J" stat_amour='promis'>ISMÉNIE</role>, fille de Ségeste.</castItem>
+			<castItem><role id="POLIXENE" sex="2" type="H" statut="aristocrate" age="A" stat_amour='néant'>POLIXÈNE</role>, soeur d'Arminus.</castItem>
+			<castItem><role id="BARSINE" sex="2" type="H" statut="confident" age="A" stat_amour='néant'>BARSINE</role>, confidente d'Isménie.</castItem>
+			<castItem><role id="TULLUS" sex="1" type="H" statut="confident" age="A" stat_amour='néant'>TULLUS</role>,confident de Varus.</castItem>
+			<castItem><role id="SUNNON" sex="1" type="H" statut="capitaine" age="A" stat_amour='néant'>SUNNON</role>, capitaine des gardes de Ségeste.</castItem>
+			<castItem><role id="SINORIX" sex="1" type="H" statut="capitaine" age="A" stat_amour='néant'>SINORIX</role>, capitaine des gardes de Ségeste.</castItem>
+			<castItem><role id="SUITE" sex="9" type="H" statut="suite" age="A" stat_amour='néant'>Suite</role>.</castItem>
 		</castList>
 		<set location='Veutberg' country='Allemagne' periode='Ier' link=''>La scène est dans le camp de Varus, après les forêts de Veutberg, dans les tentes de Ségeste.</set>
 	</front>

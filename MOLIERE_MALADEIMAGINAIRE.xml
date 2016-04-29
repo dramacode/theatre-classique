@@ -7,9 +7,10 @@
 			<author born='1622' born_location='Paris' death='1673' death_location='Paris' academie=''>MOLIÈRE</author>
 				<date>1673</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, juin 2009, revu mai 2015</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -43,30 +44,30 @@
 			<premiere date="1673" location='Théâtre du Palais-Royal'>Représentée pour la première fois sur le Théâtre de la salle du Palais-Royal le 10 février 1673 par la Troupe du Roi.</premiere>
 		</performance>
 	<castList><head>PERSONNAGES du PROLOGUE</head>
-		<castItem><role id="FLORE" civil='D' type="H" statut="dieu" age="A" stat_amour='néant'>FLORE</role>.</castItem>
-		<castItem><role id="PAN" civil='D' type="H" statut="deu" age="A" stat_amour='néant'>PAN</role>.</castItem>
-		<castItem><role id="FAUNES" civil='G' type="H" statut="faune" age="A" stat_amour='néant'>FAUNES</role>.</castItem>		
-		<castItem><role id="CLIMENE" civil='F' type="H" statut="berger" age="A" stat_amour='néant'>CLIMÈNE</role>.</castItem>
-		<castItem><role id="DAPHNÉ" civil='N' type="H" statut="nymphe" age="A" stat_amour='néant'>DAPHNÉ</role>.</castItem>
-		<castItem><role id="TIRCIS" civil='M' type="H" statut="berger" age="A" stat_amour='néant'>TIRCIS</role>.</castItem>
-		<castItem><role id="DORILAS" civil='M' type="H" statut="berger" age="A" stat_amour='néant'>DORILAS</role>.</castItem>
-		<castItem><role id="ZEPHYRS" civil='G' type="H" statut="vent" age="A" stat_amour='néant'>DEUX ZÉPHYRS</role>.</castItem>
-		<castItem><role id="BERGERS" civil='G' type="H" statut="berger" age="A" stat_amour='néant'>TROUPE DE BERGERS</role>.</castItem>
-		<castItem><role id="BERGERES" civil='G' type="H" statut="berger" age="A" stat_amour='néant'>TROUPE DE BERGÈRES</role>.</castItem>
+		<castItem><role id="FLORE" sex="2" type="H" statut="dieu" age="A" stat_amour='néant'>FLORE</role>.</castItem>
+		<castItem><role id="PAN" sex="1" type="H" statut="deu" age="A" stat_amour='néant'>PAN</role>.</castItem>
+		<castItem><role id="FAUNES" sex="9" type="H" statut="faune" age="A" stat_amour='néant'>FAUNES</role>.</castItem>		
+		<castItem><role id="CLIMENE" sex="2" type="H" statut="berger" age="A" stat_amour='néant'>CLIMÈNE</role>.</castItem>
+		<castItem><role id="DAPHNÉ" sex="2" type="H" statut="nymphe" age="A" stat_amour='néant'>DAPHNÉ</role>.</castItem>
+		<castItem><role id="TIRCIS" sex="1" type="H" statut="berger" age="A" stat_amour='néant'>TIRCIS</role>.</castItem>
+		<castItem><role id="DORILAS" sex="1" type="H" statut="berger" age="A" stat_amour='néant'>DORILAS</role>.</castItem>
+		<castItem><role id="ZEPHYRS" sex="9" type="H" statut="vent" age="A" stat_amour='néant'>DEUX ZÉPHYRS</role>.</castItem>
+		<castItem><role id="BERGERS" sex="9" type="H" statut="berger" age="A" stat_amour='néant'>TROUPE DE BERGERS</role>.</castItem>
+		<castItem><role id="BERGERES" sex="9" type="H" statut="berger" age="A" stat_amour='néant'>TROUPE DE BERGÈRES</role>.</castItem>
 	</castList>
 	<castList><head>PERSONNAGES de la COMÉDIE</head>
-		<castItem><role id="ARGAN" civil='M' type="H" statut="bourgeois" age="V" stat_amour='néant'>ARGAN</role>, malade imaginaire.</castItem>
-		<castItem><role id="BÉLINE" civil='F' type="H" statut="bourgeois" age="A" stat_amour='néant'>BÉLINE</role>, seconde femme d'Argan.</castItem>
-		<castItem><role id="ANGÉLIQUE" civil='F' type="H" statut="bourgeois" age="J" stat_amour='Cléante'>ANGÉLIQUE</role>, fille d'Argan, et amante de Cléante.</castItem>
-		<castItem><role id="LOUISON" civil='F' type="H" statut="bourgeois" age="E" stat_amour='néant'>LOUISON</role>, petite fille d'Argan, et soeur d'Angélique..</castItem>
-		<castItem><role id="BÉRALDE" civil='M' type="H" statut="bourgeois" age="A" stat_amour='néant'>BÉRALDE</role>, frère d'Argan.</castItem>
-		<castItem><role id="CLÉANTE" civil='M' type="H" statut="bourgeois" age="A" stat_amour='amoureux'>CLÉANTE</role>, amant d'Angélique.</castItem>
-		<castItem><role id="MONSIEUR DIAFOIRUS" civil='M' type="H" statut="médecin" age="A" stat_amour='néant'>MONSIEUR DIAFOIRUS</role>, médecin.</castItem>
-		<castItem><role id="THOMAS DIAFOIRUS" civil='M' type="H" statut="médecin" age="A" stat_amour='Angélique'>THOMAS DIAFOIRUS</role>, son fils, et amant d'Angélique.</castItem>
-		<castItem><role id="MONSIEUR PURGON" civil='M' type="H" statut="médecin" age="A" stat_amour='néant'>MONSIEUR PURGON</role>, médecin d'Argan. </castItem>
-		<castItem><role id="MONSIEUR FLEURANT" civil='M' type="H" statut="apothicaire" age="A" stat_amour='néant'>MONSIEUR FLEURANT</role>, apothicaire.</castItem>
-		<castItem><role id="MONSIEUR BONNEFOY" civil='M' type="H" statut="notaire" age="A" stat_amour='néant'>MONSIEUR BONNEFOY</role>, notaire.</castItem>
-		<castItem><role id="TOINETTE" civil='F' type="H" statut="servante" age="A" stat_amour='néant'>TOINETTE</role>, servante.</castItem>
+		<castItem><role id="ARGAN" sex="1" type="H" statut="bourgeois" age="V" stat_amour='néant'>ARGAN</role>, malade imaginaire.</castItem>
+		<castItem><role id="BÉLINE" sex="2" type="H" statut="bourgeois" age="A" stat_amour='néant'>BÉLINE</role>, seconde femme d'Argan.</castItem>
+		<castItem><role id="ANGÉLIQUE" sex="2" type="H" statut="bourgeois" age="J" stat_amour='Cléante'>ANGÉLIQUE</role>, fille d'Argan, et amante de Cléante.</castItem>
+		<castItem><role id="LOUISON" sex="2" type="H" statut="bourgeois" age="E" stat_amour='néant'>LOUISON</role>, petite fille d'Argan, et soeur d'Angélique..</castItem>
+		<castItem><role id="BÉRALDE" sex="1" type="H" statut="bourgeois" age="A" stat_amour='néant'>BÉRALDE</role>, frère d'Argan.</castItem>
+		<castItem><role id="CLÉANTE" sex="1" type="H" statut="bourgeois" age="J" stat_amour='amoureux'>CLÉANTE</role>, amant d'Angélique.</castItem>
+		<castItem><role id="MONSIEUR DIAFOIRUS" sex="1" type="H" statut="médecin" age="A" stat_amour='néant'>MONSIEUR DIAFOIRUS</role>, médecin.</castItem>
+		<castItem><role id="THOMAS DIAFOIRUS" sex="1" type="H" statut="médecin" age="J" stat_amour='Angélique'>THOMAS DIAFOIRUS</role>, son fils, et amant d'Angélique.</castItem>
+		<castItem><role id="MONSIEUR PURGON" sex="1" type="H" statut="médecin" age="A" stat_amour='néant'>MONSIEUR PURGON</role>, médecin d'Argan. </castItem>
+		<castItem><role id="MONSIEUR FLEURANT" sex="1" type="H" statut="apothicaire" age="A" stat_amour='néant'>MONSIEUR FLEURANT</role>, apothicaire.</castItem>
+		<castItem><role id="MONSIEUR BONNEFOY" sex="1" type="H" statut="notaire" age="A" stat_amour='néant'>MONSIEUR BONNEFOY</role>, notaire.</castItem>
+		<castItem><role id="TOINETTE" sex="2" type="H" statut="servante" age="A" stat_amour='néant'>TOINETTE</role>, servante.</castItem>
 	</castList>
 	<set location='Paris' country='France' periode='XVIIème' link=''>La scène est à Paris. </set>
 	</front>
@@ -348,7 +349,7 @@
 </sp>
 </div2>
 </div1>
-<div1 type="act" n='3'><head>ACTE I</head>
+<div1 type="act" n='1'><head>ACTE I</head>
 <div2 type="scene" n='1'><head>SCÈNE I.</head>
 <sp who='ARGAN'><speaker>ARGAN, seul dans sa chambre assis, une table devant lui, compte des parties d'apothicaire avec des jetons ; il fait parlant à lui-même les dialogues suivants. </speaker>
 <note type="L">Julep : Terme de pharmacie. Potion adoucissante ou calmante dans laquelle il n'entre ni huile, ni substances purgatives, ni poudres ou substances extractives, mais qui est composée simplement d'eau distillée et de sirops. [L]</note>
@@ -1968,7 +1969,7 @@
 </sp>
 </div2>
 </div1>
-<div1 type='intermède' n='4'><head>PREMIER INTERMÈDE</head>
+<div1 type='intermède' n='1'><head>PREMIER INTERMÈDE</head>
 <div2 type="scene" n='1'><head>***</head>
 <stage>Polichinelle, dans la nuit, vient pour donner une sérénade à sa maîtresse. Il est interrompu d'abord par des violons, contre lesquels il se met en colère, et ensuite par le Guet, composé de musiciens et de danseurs. </stage>
 <sp who='POLICHINELLE'><speaker>POLICHINELLE.</speaker>
@@ -2524,7 +2525,7 @@
 <stage>Ils dansent tous, en réjouissance de l'argent qu'ils ont reçu. Le théâtre change et représente la même chambre. </stage>
 </div2> 
 </div1>
-<div1 type="act" n='5'><head>ACTE II</head>
+<div1 type="act" n='2'><head>ACTE II</head>
 <div2 type="scene" n='1'><head>SCÈNE I. Toinette, Cléante.</head>
 <sp who='TOINETTE'><speaker>TOINETTE.</speaker>
 <p id='1'>
@@ -4199,7 +4200,7 @@
 </sp>
 </div2>
 </div1>
-<div1 type='intermède' n='6'><head>SECOND INTERMÈDE</head>
+<div1 type='intermède' n='2'><head>SECOND INTERMÈDE</head>
 <div2 type="scene" n='1'><head>***</head>
 <stage>Le frère du Malade imaginaire lui amène, pour le divertir, plusieurs Égyptiens et Égyptiennes, vêtus en Mores, qui font des danses entremêlées de chansons. </stage>
 <sp who='PREMIÈRE FEMME MORE'><speaker>PREMIÈRE FEMME MORE.</speaker>
@@ -4323,7 +4324,7 @@
 <stage>Tous les Mores dansent ensemble et font sauter des singes qu'ils ont amenés avec eux. </stage>
 </div2>
 </div1> 
-<div1 type="act" n='7'><head>ACTE III</head>
+<div1 type="act" n='3'><head>ACTE III</head>
 <div2 type="scene" n='1'><head>SCÈNE I. Béralde, Argan, Toinette.</head>
 <sp who='BÉRALDE'><speaker>BÉRALDE.</speaker>
 <p id='1'>
@@ -6211,7 +6212,7 @@ V<p id='24'>
 </sp>
 </div2>
 </div1>
-<div1 type='intermède' n='8'><head>TROISIÈME INTERMÈDE</head>
+<div1 type='intermède' n='3'><head>TROISIÈME INTERMÈDE</head>
 <div2 type='entrée' n='1'><head>ENTRÉE DE BALLET.</head>
 <stage>C'est une cérémonie burlesque d'un homme qu'on fait médecin en récit, chant, et danse. Plusieurs tapissiers viennent préparer la salle et placer les bancs en cadence. Ensuite de quoi toute l'assemblée, composée de huit porte-seringues, six apothicaires, vingt-deux docteurs, celui qui se fait recevoir médecin, huit chirurgiens dansants, et deux chantants, chacun entre et prend ses places selon les rangs. </stage>
 <sp who='PRAESES'><speaker>PRAESES.</speaker>

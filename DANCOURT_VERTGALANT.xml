@@ -6,9 +6,10 @@
 				<title>LE VERT-GALANT, COMÉDIE</title>
 				<author born='1661' born_location='Fontainebleau' death='1725' death_location='Courcelles-le-Roi' academie=''>DANCOURT, Florent CARTON dit</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, septembre 2013</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -40,18 +41,18 @@
 			<premiere date='1699-12-18' location='Théâtre de la rue des Fossés Saint-Germain'>Représentée pour la première fois le 18 Décembre 1699 au Théâtre de la rue des Fossés Saint-Germain.</premiere>
 		</performance>
 		<castList><head>ACTEURS</head>
-			<castItem><role id="MONSIEUR JÉRÔME" civil='M' type="H" statut="teinturier" age="A" stat_amour='néant'>MONSIEUR JÉRÔME</role>, teinturier.</castItem>
-			<castItem><role id="MADAME JÉRÔME" civil='M' type="H" statut="bourgeois" age="A" stat_amour='néant'>MADAME JÉRÔME</role>.</castItem> 
-			<castItem><role id="MONSIEUR TARIF" civil='M' type="H" statut="agioteur" age="A" stat_amour='néant'>MONSIEUR TARIF</role>, agioteur.</castItem> 
-			<castItem><role id="MADAME TARIF" civil='M' type="H" statut="bourgeois" age="A" stat_amour='néant'>MADAME TARIF</role>.</castItem> 
-			<castItem><role id="JAVOTTE" civil='M' type="H" statut="bourgeois" age="A" stat_amour='néant'>JAVOTTE</role>, nièce de Monsieur Jérôme.</castItem> 
-			<castItem><role id="ANGÉLIQUE" civil='M' type="H" statut="bourgeois" age="A" stat_amour='néant'>ANGÉLIQUE</role>, nièce de Monsieur Tarif.</castItem> 
-			<castItem><role id="ÉRASTE" civil='M' type="H" statut="officier" age="A" stat_amour='néant'>ÉRASTE</role>, Officier de Dragons, neveu de Monsieur Tarif.</castItem>
-			<castItem><role id="LÉPINE" civil='M' type="H" statut="valet" age="A" stat_amour='néant'>LÉPINE</role>, valet d’Éraste.</castItem> 
-			<castItem><role id="MONSIEUR GASPARD" civil='M' type="H" statut="avocat" age="A" stat_amour='néant'>MONSIEUR GASPARD</role>, Avocat, cousin de Monsieur Jérôme.</castItem>
-			<castItem><role id="MADAME CLOPINET" civil='M' type="H" statut="bourgeois" age="A" stat_amour='néant'>MADAME CLOPINET</role>, voisine de Monsieur Jérôme.</castItem> 
-			<castItem><role id="CAEMIN" civil='M' type="H" statut="employé" age="A" stat_amour='néant'>CARMIN</role>, garçon Teinturier.</castItem> 
-			<castItem><role id="UN LAQUAIS" civil='M' type="H" statut="laquais" age="A" stat_amour='néant'>UN LAQAUIS</role>.</castItem>
+			<castItem><role id="MONSIEUR JÉRÔME" sex="1" type="H" statut="teinturier" age="A" stat_amour='néant'>MONSIEUR JÉRÔME</role>, teinturier.</castItem>
+			<castItem><role id="MADAME JÉRÔME" sex="1" type="H" statut="bourgeois" age="A" stat_amour='néant'>MADAME JÉRÔME</role>.</castItem> 
+			<castItem><role id="MONSIEUR TARIF" sex="1" type="H" statut="agioteur" age="A" stat_amour='néant'>MONSIEUR TARIF</role>, agioteur.</castItem> 
+			<castItem><role id="MADAME TARIF" sex="1" type="H" statut="bourgeois" age="A" stat_amour='néant'>MADAME TARIF</role>.</castItem> 
+			<castItem><role id="JAVOTTE" sex="1" type="H" statut="bourgeois" age="A" stat_amour='néant'>JAVOTTE</role>, nièce de Monsieur Jérôme.</castItem> 
+			<castItem><role id="ANGÉLIQUE" sex="1" type="H" statut="bourgeois" age="A" stat_amour='néant'>ANGÉLIQUE</role>, nièce de Monsieur Tarif.</castItem> 
+			<castItem><role id="ÉRASTE" sex="1" type="H" statut="officier" age="A" stat_amour='néant'>ÉRASTE</role>, Officier de Dragons, neveu de Monsieur Tarif.</castItem>
+			<castItem><role id="LÉPINE" sex="1" type="H" statut="valet" age="A" stat_amour='néant'>LÉPINE</role>, valet d’Éraste.</castItem> 
+			<castItem><role id="MONSIEUR GASPARD" sex="1" type="H" statut="avocat" age="A" stat_amour='néant'>MONSIEUR GASPARD</role>, Avocat, cousin de Monsieur Jérôme.</castItem>
+			<castItem><role id="MADAME CLOPINET" sex="1" type="H" statut="bourgeois" age="A" stat_amour='néant'>MADAME CLOPINET</role>, voisine de Monsieur Jérôme.</castItem> 
+			<castItem><role id="CAEMIN" sex="1" type="H" statut="employé" age="A" stat_amour='néant'>CARMIN</role>, garçon Teinturier.</castItem> 
+			<castItem><role id="UN LAQUAIS" sex="1" type="H" statut="laquais" age="A" stat_amour='néant'>UN LAQAUIS</role>.</castItem>
 		</castList>
 		<set location='Paris' country='France' periode='XVIIème' link=''>La Scène est à Paris, chez Monsieur Jérôme.</set>
 	</front>

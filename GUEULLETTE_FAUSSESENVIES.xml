@@ -6,9 +6,10 @@
 				<title>LES FAUSSES ENVIES, PARADE.</title>
 			<author born='1683' born_location='Paris' death='1766' death_location='Charenton' academie=''>GUEULLETTE, Thomas-Simon</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE Novembre 2013</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Farce</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -42,10 +43,10 @@
 		<premiere date="1740" location='En société'>Représenté our le première fois en 1740 en société.</premiere>
 	</performance>
 	<castList><head>ACTEURS</head>
-       	<castItem><role id="LÉANDRE" civil='M' type="H" statut="bourgeois" age="A" stat_amour='néant'>LE MAÎTRE</role>, ou MONSIEUR DE PARLAVENTREBLEU.</castItem>
-      	<castItem><role id="ISABELLE" civil='F' type="H" statut="bourgeois" age="A" stat_amour='néant'>ISABELLE</role>, sa femme.</castItem>
-       	<castItem><role id="LÉANDRE" civil='M' type="H" statut="bourgeois" age="A" stat_amour='Isabelle'>LÉANDRE</role>, amant d'Isabelle.</castItem>
-      	<castItem><role id="GILLES" civil='M' type="H" statut="valet" age="A" stat_amour='néant'>GILLES</role>.</castItem>
+       	<castItem><role id="LÉANDRE" sex="1" type="H" statut="bourgeois" age="A" stat_amour='néant'>LE MAÎTRE</role>, ou MONSIEUR DE PARLAVENTREBLEU.</castItem>
+      	<castItem><role id="ISABELLE" sex="2" type="H" statut="bourgeois" age="A" stat_amour='néant'>ISABELLE</role>, sa femme.</castItem>
+       	<castItem><role id="LÉANDRE" sex="1" type="H" statut="bourgeois" age="A" stat_amour='Isabelle'>LÉANDRE</role>, amant d'Isabelle.</castItem>
+      	<castItem><role id="GILLES" sex="1" type="H" statut="valet" age="A" stat_amour='néant'>GILLES</role>.</castItem>
 	</castList>
 	<set location='Paris' country='France' periode='XVIIIème' link=''>.</set>
 </front>

@@ -6,9 +6,10 @@
 				<title>L'AMOUR À LA MODE, COMÉDIE. </title>
 				<author born='1625' born_location='Rouen' death='1709' death_location='Les Andelys' academie='1685'>CORNEILLE, Thomas</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Ernest FIEVRE, mars 2010</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs espagnoles</inspiration>
@@ -39,16 +40,16 @@
 			<premiere date='1651' location='Hôtel de Bourgogne'>Représenté pour la première fois en 1651 au Théâtre de l'Hôtel de Bourgogne.</premiere>
 		</performance>
 	<castList><head>ACTEURS</head>
-		<castItem><role id="ARGANTE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>ARGANTE</role>, père de Dorotée.</castItem>
-		<castItem><role id="ORONTE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>ORONTE</role>, Gentilhomme Parisien.</castItem>
-		<castItem><role id="FLORAME" civil='M' type="H" statut='aristocrate' age='A' stat_amour='Lucie'>FLORAME</role>, amant de Lucie.</castItem>
-		<castItem><role id="ERASTE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='Dorothée'>ÉRASTE</role>, amant de Dorotée.</castItem>
-		<castItem><role id="DOROTEE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>DOROTÉE</role>, fille d'Argante.</castItem>
-		<castItem><role id="LUCIE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>LUCIE</role>, soeur d'Éraste.</castItem>
-		<castItem><role id="LISETTE" civil='F' type="H" statut='suivante' age='A' stat_amour='néant'>LISETTE</role>, suivante de Dorotée.</castItem>
-		<castItem><role id="CLITON" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>CLITON</role>, valet d'Oronte.</castItem>
-		<castItem><role id="LICAS" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>LICAS</role>, valet de Florame.</castItem>
-		<castItem><role id="LISTOR" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>LISTOR</role>, valet d'Éraste.</castItem>
+		<castItem><role id="ARGANTE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>ARGANTE</role>, père de Dorotée.</castItem>
+		<castItem><role id="ORONTE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>ORONTE</role>, Gentilhomme Parisien.</castItem>
+		<castItem><role id="FLORAME" sex="1" type="H" statut='aristocrate' age='A' stat_amour='Lucie'>FLORAME</role>, amant de Lucie.</castItem>
+		<castItem><role id="ERASTE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='Dorothée'>ÉRASTE</role>, amant de Dorotée.</castItem>
+		<castItem><role id="DOROTEE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>DOROTÉE</role>, fille d'Argante.</castItem>
+		<castItem><role id="LUCIE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>LUCIE</role>, soeur d'Éraste.</castItem>
+		<castItem><role id="LISETTE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>LISETTE</role>, suivante de Dorotée.</castItem>
+		<castItem><role id="CLITON" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>CLITON</role>, valet d'Oronte.</castItem>
+		<castItem><role id="LICAS" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>LICAS</role>, valet de Florame.</castItem>
+		<castItem><role id="LISTOR" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>LISTOR</role>, valet d'Éraste.</castItem>
 	</castList>
 	<set location='Paris' country='France' periode='XVIIème' link=''></set>
 </front>

@@ -7,9 +7,10 @@
 				<author born='1730' born_location='Nancy' death='1814' death_location='Paris' academie=''>PALISSOT de MONTENOY, Charles</author>
 				<date>1760</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, novembre 2011</p>
-			</publicationStmp>
+				<idno>PALISSOT_BARBIERDEBAGDAD</idno>
+			</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>Contes milles et une nuits</inspiration>
@@ -48,14 +49,14 @@
 	</div>
 <castList>
 	<head>ACTEURS.</head>
-	<castItem><role id="LE CADI" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>LE CADI</role>.</castItem>
-	<castItem><role id="ZULIME" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>ZULIME</role>.</castItem>
-	<castItem><role id="ALMANZOR" civil='M' type="H" statut='aristocrate' age='A' stat_amour='amoureux'>ALMANZOR</role>.</castItem>
-	<castItem><role id="FATMÉ" civil='F' type="H" statut='aristocrate' age='A' stat_amour='amoureux'>FATMÉ</role>.</castItem>
-	<castItem><role id="ARLEQUIN" civil='F' type="H" statut='valet' age='A' stat_amour='néant'>ARLEQUIN</role>.</castItem>
-	<castItem><role id="LE-BARBIER" civil='F' type="H" statut='barbier' age='A' stat_amour='néant'>LE BARBIER</role>.</castItem>
-	<castItem><role id="ESCLAVES-D-ALMANZOR" civil='G' type="H" statut='esclabe' age='A' stat_amour='néant'>ESCLAVES D'ALMANZOR</role>.</castItem>
-	<castItem><role id="SUITE-DU-CADI" civil='G' type="H" statut='suite' age='A' stat_amour='néant'>SUITE DU CADI</role>.</castItem>
+	<castItem><role id="LE CADI" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>LE CADI</role>.</castItem>
+	<castItem><role id="ZULIME" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>ZULIME</role>.</castItem>
+	<castItem><role id="ALMANZOR" sex="1" type="H" statut='aristocrate' age='A' stat_amour='amoureux'>ALMANZOR</role>.</castItem>
+	<castItem><role id="FATMÉ" sex="2" type="H" statut='aristocrate' age='A' stat_amour='amoureux'>FATMÉ</role>.</castItem>
+	<castItem><role id="ARLEQUIN" sex="2" type="H" statut='valet' age='A' stat_amour='néant'>ARLEQUIN</role>.</castItem>
+	<castItem><role id="LE-BARBIER" sex="2" type="H" statut='barbier' age='A' stat_amour='néant'>LE BARBIER</role>.</castItem>
+	<castItem><role id="ESCLAVES-D-ALMANZOR" sex="9" type="H" statut='esclabe' age='A' stat_amour='néant'>ESCLAVES D'ALMANZOR</role>.</castItem>
+	<castItem><role id="SUITE DU CADI" sex="9" type="H" statut='suite' age='A' stat_amour='néant'>SUITE DU CADI</role>.</castItem>
 </castList>
 <set location='Bagdad' country='Irak' periode='XVIIIème' link=''>La scène est à Bagdad.</set>
 </front>

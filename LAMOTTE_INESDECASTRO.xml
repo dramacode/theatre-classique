@@ -6,9 +6,10 @@
 				<title>INÈS DE CASTRO, TRAGÉDIE</title>
 				<author born='1672' born_location='Paris' death='1731' death_location='Paris' academie='1710'>LA MOTTE, Antoine-Houdard de</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE</p><p>Octobre 2007</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire portugaise</inspiration>
@@ -43,19 +44,19 @@
 		</performance>
 
 		<castList><head>ACTEURS</head>
-		<castItem><role id="ALPHONSE" civil="M" type="H" statut="roi" age="A" stat_amour='marié'>ALPHONSE</role>, roi du Protugal, surnommé le Justicier.</castItem>
-		<castItem><role id="LA REINE" civil='F' type="H" statut="roi" age="A" stat_amour='marié'>LA REINE</role>.</castItem>
-		<castItem><role id="CONSTANCE" civil='F' type="H" statut="princesse" age="J" stat_amour='promis'>CONSTANCE</role>, fille de la Reine, promise à Don Pedre.</castItem>
-		<castItem><role id="DON PEDRE" civil='M' type="H" statut="prince" age="A" stat_amour='promis'>DON PEDRE</role>, fils d'Alphonse.</castItem>
-		<castItem><role id="INÈS" civil='F' type="H" statut="fille d'honneur" age="A" stat_amour='marié'>INÈS</role>, fille d'honneur de la Reine, mariée secrètement à Don Pedre.</castItem>
-		<castItem><role id="DON RODRIGUE" civil='M' type="H" statut="prince" age="A" stat_amour='néant'>DON RODRIGUE</role>, prince du Sang du Portugal.</castItem>
-		<castItem><role id="DON ENRIQUE" civil='M' type="H" statut="aristocrate" age="A" stat_amour='néant'>DON ENRIQUE</role>, grand du Portugal.</castItem>
-		<castItem><role id="GRANDS DU PORTUGAL" civil='G' type="H" statut="aristocrate" age="A" stat_amour='néant'>DEUX GRANDS de PORTUGAL</role>.</castItem>
-		<castItem><role id="L'AMBASSADEUR" civil='M' type="H" statut="ambassadeur" age="A" stat_amour='néant'>L'AMBASSADEUR</role> du Roi de Castille.</castItem>
-		<castItem><role id="DON FERNAND" civil='M' type="H" statut="domestique" age="A" stat_amour='néant'>DON FERNAND</role>, domestique de Don Pedre.</castItem>
-		<castItem><role id="GOUVERNANTE" civil='F' type="H" statut="gouvernate" age="A" stat_amour='néant'>La GOUVERNANTE</role>.</castItem>
-		<castItem><role id="ENFANTS" civil='G' type="H" statut="enfant" age="E" stat_amour='néant'>Deux ENFANTS</role>.</castItem>
-		<castItem><role id="GARDE" civil='M' type="H" statut="garde" age="A" stat_amour='néant'>Un garde</role>.</castItem>
+		<castItem><role id="ALPHONSE" sex="1" type="H" statut="roi" age="A" stat_amour='marié'>ALPHONSE</role>, roi du Protugal, surnommé le Justicier.</castItem>
+		<castItem><role id="LA REINE" sex="2" type="H" statut="roi" age="A" stat_amour='marié'>LA REINE</role>.</castItem>
+		<castItem><role id="CONSTANCE" sex="2" type="H" statut="princesse" age="J" stat_amour='promis'>CONSTANCE</role>, fille de la Reine, promise à Don Pedre.</castItem>
+		<castItem><role id="DON PEDRE" sex="1" type="H" statut="prince" age="A" stat_amour='promis'>DON PEDRE</role>, fils d'Alphonse.</castItem>
+		<castItem><role id="INÈS" sex="2" type="H" statut="fille d'honneur" age="A" stat_amour='marié'>INÈS</role>, fille d'honneur de la Reine, mariée secrètement à Don Pedre.</castItem>
+		<castItem><role id="DON RODRIGUE" sex="1" type="H" statut="prince" age="A" stat_amour='néant'>DON RODRIGUE</role>, prince du Sang du Portugal.</castItem>
+		<castItem><role id="DON ENRIQUE" sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>DON ENRIQUE</role>, grand du Portugal.</castItem>
+		<castItem><role id="GRANDS DU PORTUGAL" sex="9" type="H" statut="aristocrate" age="A" stat_amour='néant'>DEUX GRANDS de PORTUGAL</role>.</castItem>
+		<castItem><role id="L'AMBASSADEUR" sex="1" type="H" statut="ambassadeur" age="A" stat_amour='néant'>L'AMBASSADEUR</role> du Roi de Castille.</castItem>
+		<castItem><role id="DON FERNAND" sex="1" type="H" statut="domestique" age="A" stat_amour='néant'>DON FERNAND</role>, domestique de Don Pedre.</castItem>
+		<castItem><role id="GOUVERNANTE" sex="2" type="H" statut="gouvernate" age="A" stat_amour='néant'>La GOUVERNANTE</role>.</castItem>
+		<castItem><role id="ENFANTS" sex="9" type="H" statut="enfant" age="E" stat_amour='néant'>Deux ENFANTS</role>.</castItem>
+		<castItem><role id="GARDE" sex="1" type="H" statut="garde" age="A" stat_amour='néant'>Un garde</role>.</castItem>
    </castList>
 
 <set location='Lisbonne' country='Portugal' periode='XIVème' link=''>La scène est à Lisbonne, dans le palais d'Alphonse.</set>

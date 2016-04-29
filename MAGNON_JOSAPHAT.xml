@@ -6,9 +6,10 @@
 				<title>JOSAPHAT, TRAGI-COMÉDIE</title>
 				<author born='1601' born_location='Bresse' death='1655' death_location='Paris' academie=''>MAGNON, Jean</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<authority>publié par Paul FIEVRE, Juin 2015</authority>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragi-comédie</genre>
 				<inspiration>bible</inspiration>
@@ -52,13 +53,13 @@
 	<signature>MAGNON.</signature>
 </div>
 <castList><head>PERSONNAGES.</head>
-	<castItem><role id="ABENNER" civil='M' type="H" statut='roi' age='A' stat_amour='néant'>ABENNER</role>, Roi des Indes.</castItem>
-	<castItem><role id="JOSAPHAT" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>JOSAPHAT</role>, son fils.</castItem>
-	<castItem><role id="ARACHE" civil='M' type="H" statut='général' age='A' stat_amour='néant'>ARACHE</role>, Lieutenant général des Armées d'Abenner.</castItem>
-	<castItem><role id="AMALAZIE" civil='F' type="H" statut='prince' age='A' stat_amour='néant'>AMALAZIE</role>, prisonnière de guerre d'Abenner.</castItem>
-	<castItem><role id="BARLAAM" civil='M' type="H" statut='courtisan' age='A' stat_amour='néant'>BARLAAM</role>, Courtisan d'Abenner, disgracié.</castItem>
-	<castItem><role id="NACOR" civil='M' type="H" statut='courtisan' age='A' stat_amour='néant'>NACOR</role>, Courtisan d'Abenner.</castItem>
-	<castItem><role id="GARDES" civil='M' type="H" statut='garde' age='A' stat_amour='néant'>GARDES</role>.</castItem>
+	<castItem><role id="ABENNER" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>ABENNER</role>, Roi des Indes.</castItem>
+	<castItem><role id="JOSAPHAT" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>JOSAPHAT</role>, son fils.</castItem>
+	<castItem><role id="ARACHE" sex="1" type="H" statut='général' age='A' stat_amour='néant'>ARACHE</role>, Lieutenant général des Armées d'Abenner.</castItem>
+	<castItem><role id="AMALAZIE" sex="2" type="H" statut='prince' age='A' stat_amour='néant'>AMALAZIE</role>, prisonnière de guerre d'Abenner.</castItem>
+	<castItem><role id="BARLAAM" sex="1" type="H" statut='courtisan' age='A' stat_amour='néant'>BARLAAM</role>, Courtisan d'Abenner, disgracié.</castItem>
+	<castItem><role id="NACOR" sex="1" type="H" statut='courtisan' age='A' stat_amour='néant'>NACOR</role>, Courtisan d'Abenner.</castItem>
+	<castItem><role id="GARDES" sex="1" type="H" statut='garde' age='A' stat_amour='néant'>GARDES</role>.</castItem>
 </castList>
 <set location='Narsingue' country='Inde' periode='VIIème' link=''>La scène est dans Narsingue, dans le Palais d'Abenner.</set>
 </front>

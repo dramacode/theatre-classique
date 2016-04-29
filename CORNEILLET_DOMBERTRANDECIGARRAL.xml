@@ -7,9 +7,10 @@
 				<author born='1625' born_location='Rouen' death='1709' death_location='Les Andelys' academie='1685'>CORNEILLE, Thomas</author>
 				<date>1651</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Ernest FIEVRE février 2010</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs espagnoles</inspiration>
@@ -42,15 +43,15 @@
 			<premiere date='1651-05' location='Théâtre du Marais'>Représenté pour la première fois au mois de mai 1651 au Théâtre du Marais.</premiere>
 		</performance>
 	<castList><head>ACTEURS.</head>
-		<castItem><role id="DON-GARCIE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>DON GARCIE</role> de Contreras, Père d'Isabelle.</castItem>
-		<castItem><role id="DON-BERTRAN" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>DON BERTRAN</role> de Cigarral.</castItem>
-		<castItem><role id="DON-ALVAR" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>DON ALVAR</role>, cousin de Don Bertran.</castItem>
-		<castItem><role id="DON-FELIX" civil='M' type="H" statut='aristocrate' age='A' stat_amour='amoureux'>DON FÉLIX</role>, amoureux d'Isabelle.</castItem>
-		<castItem><role id="LEONOR" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>LÉONOR</role>, soeur de Don Bertran.</castItem>
-		<castItem><role id="ISABELLE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='amoureux'>ISABELLE</role>, fille de Don Garcie.</castItem>
-		<castItem><role id="JACINTE" civil='F' type="H" statut='suivante' age='A' stat_amour='néant'>JACINTE</role>, suivante d'Isabelle.</castItem>
-		<castItem><role id="GUZMAN" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>GUZMAN</role>, valet de Don Bertran.</castItem>
-		<castItem><role id="MENDOCE" civil='F' type="H" statut='valet' age='A' stat_amour='néant'>MENDOCE</role>, valet de Don Félix.</castItem>
+		<castItem><role id="DON-GARCIE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>DON GARCIE</role> de Contreras, Père d'Isabelle.</castItem>
+		<castItem><role id="DON-BERTRAN" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>DON BERTRAN</role> de Cigarral.</castItem>
+		<castItem><role id="DON-ALVAR" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>DON ALVAR</role>, cousin de Don Bertran.</castItem>
+		<castItem><role id="DON-FELIX" sex="1" type="H" statut='aristocrate' age='A' stat_amour='amoureux'>DON FÉLIX</role>, amoureux d'Isabelle.</castItem>
+		<castItem><role id="LEONOR" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>LÉONOR</role>, soeur de Don Bertran.</castItem>
+		<castItem><role id="ISABELLE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='amoureux'>ISABELLE</role>, fille de Don Garcie.</castItem>
+		<castItem><role id="JACINTE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>JACINTE</role>, suivante d'Isabelle.</castItem>
+		<castItem><role id="GUZMAN" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>GUZMAN</role>, valet de Don Bertran.</castItem>
+		<castItem><role id="MENDOCE" sex="2" type="H" statut='valet' age='A' stat_amour='néant'>MENDOCE</role>, valet de Don Félix.</castItem>
 	</castList>
 	<set location='Madrid' country='Espagne' periode='XVIIème' link=''>[La Scène est Madrid.]</set>
 	</front>

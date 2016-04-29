@@ -6,9 +6,10 @@
 				<title>LA COMÉDIE À L'IMPROMPTU OU LES DUPES, COMÉDIE.</title>
 			<author born='1742' born_location='Paris' death='1812' death_location='Paris' academie=''>DORVIGNY, Louis François Archambault dit</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, mars 2015.</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -42,15 +43,15 @@
 			<premiere date='1780-09-05' location='Hôtel de Bourgogne'>Représentée à l'Hôtel de Bourgogne le 5 septembre 1780.</premiere>
 		</performance>
 	<castList><head>PERSONNAGES.</head>
-		<castItem><role id="MONSIEUR LOURDIS" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>MONSIEUR LOURDIS</role>.</castItem>
-		<castItem><role id="MADAME LOURDIS" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>MADAME LOURDIS</role>.</castItem>
-		<castItem><role id="ANGÉLIQUE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>ANGÉLIQUE</role>, fille de M. et Mme Lourdis.</castItem>
-		<castItem><role id="LISETTE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>LISETTE</role>, servante d'Angélique.</castItem>
-		<castItem><role id="MADAME FINOT" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>MADAME FINOT</role>.</castItem>
-		<castItem><role id="FINOT FILS" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>FINOT FILS</role>, prétendu d'Angélique.</castItem>
-		<castItem><role id="VALÈRE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>VALÈRE</role>, soupirant d'Angélique.</castItem>
-		<castItem><role id="FRONTIN" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>FRONTIN</role>, valet de Valère.</castItem>
-		<castItem><role id="BONNE-FOI" civil='M' type="H" statut='notaire' age='A' stat_amour='néant'>BONNE-FOI</role>, notaire.</castItem>
+		<castItem><role id="MONSIEUR LOURDIS" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>MONSIEUR LOURDIS</role>.</castItem>
+		<castItem><role id="MADAME LOURDIS" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>MADAME LOURDIS</role>.</castItem>
+		<castItem><role id="ANGÉLIQUE" sex="2" type="H" statut='bourgeois' age='J' stat_amour='néant'>ANGÉLIQUE</role>, fille de M. et Mme Lourdis.</castItem>
+		<castItem><role id="LISETTE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>LISETTE</role>, servante d'Angélique.</castItem>
+		<castItem><role id="MADAME FINOT" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>MADAME FINOT</role>.</castItem>
+		<castItem><role id="FINOT FILS" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>FINOT FILS</role>, prétendu d'Angélique.</castItem>
+		<castItem><role id="VALÈRE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>VALÈRE</role>, soupirant d'Angélique.</castItem>
+		<castItem><role id="FRONTIN" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>FRONTIN</role>, valet de Valère.</castItem>
+		<castItem><role id="BONNE-FOI" sex="1" type="H" statut='notaire' age='A' stat_amour='néant'>BONNE-FOI</role>, notaire.</castItem>
 	</castList>
 	<set location='Paris' country='France' periode='XVIIIème' link=''>La scène est dans un salon donne sur le jardin.</set>
 	

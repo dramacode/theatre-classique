@@ -6,9 +6,10 @@
 				<title>LES FÉES, COMÉDIE</title>
 				<author born='1661' born_location='Fontainebleau' death='1725' death_location='Courcelles-le-Roi' academie=''>DANCOURT, Florent CARTON dit</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, août 2013.</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>féérie</inspiration>
@@ -97,28 +98,28 @@
 		</div>
 
 		<castList><head>ACTEURS DU PROLOGUE</head>
-			<castItem><role id='LA FÉE DES SPECTACLES' civil='F' type="H" statut="fée" age="A" stat_amour='néant'>LA FÉE qui préside aux Spectacles</role>. </castItem>
-			<castItem><role id='UNE FÉE DES PLAISIRS' civil='F' type="H" statut="fée" age="A" stat_amour='néant'>UNE FÉE des Plaisirs</role>. </castItem>
-			<castItem><role id='UN SUIVANT DE LA FÉE' civil='M' type="H" statut="suivant" age="A" stat_amour='néant'>UN SUIVANT de la FÉE des Plaisirs</role>.</castItem> 
-			<castItem><role id='LA SAGESSE' civil='F' type="A" statut="personnification" age="A" stat_amour='néant'>LA SAGESSE</role>. </castItem>
-			<castItem><role id='LÉPINE' civil='M' type="H" statut="valet" age="A" stat_amour='néant'>LÉPINE, son valet</role>. </castItem>
-			<castItem><role id='PLUSIEURS SUIVANTS' civil='G' type="H" statut="suivant" age="A" stat_amour='néant'>Plusieurs Suivants et Suivantes de la Fée des Plaisirs</role>.</castItem>
+			<castItem><role id='LA FÉE DES SPECTACLES' sex="2" type="H" statut="fée" age="A" stat_amour='néant'>LA FÉE qui préside aux Spectacles</role>.</castItem>
+			<castItem><role id='UNE FÉE DES PLAISIRS' sex="2" type="H" statut="fée" age="A" stat_amour='néant'>UNE FÉE des Plaisirs</role>. </castItem>
+			<castItem><role id='UN SUIVANT DE LA FÉE' sex="1" type="H" statut="suivant" age="A" stat_amour='néant'>UN SUIVANT de la FÉE des Plaisirs</role>.</castItem> 
+			<castItem><role id='LA SAGESSE' sex="2" type="P" statut="qualité" age="A" stat_amour='néant'>LA SAGESSE</role>.</castItem>
+			<castItem><role id='LÉPINE' sex="1" type="H" statut="valet" age="A" stat_amour='néant'>LÉPINE, son valet</role>. </castItem>
+			<castItem><role id='PLUSIEURS SUIVANTS' sex="9" type="H" statut="suivant" age="A" stat_amour='néant'>Plusieurs Suivants et Suivantes de la Fée des Plaisirs</role>.</castItem>
 		</castList>
 
 		<castList><head>ACTEURS DE LA COMEDIE</head>
-			<castItem><role id='ASTUR' civil='M' type="H" statut="prince" age="A" stat_amour='néant'>ASTUR</role>, devenu Prince des Asturies par son mariage avec la Fée de la Raison.</castItem>
-			<castItem><role id='MELISENDE' civil='F' type="H" statut="fée" age="A" stat_amour='néant'>MELISENDE</role>, Fée de la Sagesse.</castItem>
-			<castItem><role id='BLANDONIE' civil='F' type="H" statut="fée" age="A" stat_amour='néant'>BLANDONIE</role>, Fée des Plaisirs. </castItem>
-			<castItem><role id='ZIRPHILIN' civil='M' type="H" statut="prince" age="A" stat_amour='néant'>ZIRPHILIN</role>, Prince de l’Isle Fortunée.</castItem>
-			<castItem><role id='ASTIBEL' civil='M' type="H" statut="prince" age="A" stat_amour='néant'>ASTIBEL</role>, Prince de l’Isle Inconnue.</castItem>
-			<castItem><role id='INEGILDE' civil='F' type="H" statut="fée" age="A" stat_amour='néant'>INEGILDE</role>,  fille d’Astur et de la Fée de la Raison.</castItem>
-			<castItem><role id='CLEONIDE' civil='F' type="H" statut="fée" age="A" stat_amour='néant'>CLEONIDE</role>,  fille d’Astur et de la Fée de la Raison.</castItem>
-			<castItem><role id='DARINEL' civil='M' type="H" statut="aristocrate" age="A" stat_amour='néant'>DARINEL</role>, Plaisant de la Cour d’Astur.</castItem>
-			<castItem><role id='FINETTE' civil='F' type="H" statut="suivante" age="A" stat_amour='néant'>FINETTE</role>, Suivante d’Inégilde.</castItem>
-			<castItem><role id='ZIZIME' civil='M' type="H" statut="officier" age="A" stat_amour='néant'>ZIZIME</role>, Officier de la Cour d’Astur.</castItem>
-			<castItem><role id='ASTIBEL' civil='M' type="H" statut="prince" age="A" stat_amour='néant'>ASTIBEL</role>, Prince de l’Isle Inconnue.</castItem>
-			<castItem><role id='LAMBETHIE' civil='F' type="H" statut="gouvernante" age="A" stat_amour='néant'>LAMBETHIE</role>, Gouvernante d’Inégilde.</castItem>
-			<castItem><role id='LOGISTILLE' civil='F' type="H" statut="fée" age="A" stat_amour='néant'>LOGISTILLE</role>, Fée de la Raison.</castItem>
+			<castItem><role id='ASTUR' sex="1" type="H" statut="prince" age="A" stat_amour='néant'>ASTUR</role>, devenu Prince des Asturies par son mariage avec la Fée de la Raison.</castItem>
+			<castItem><role id='MELISENDE' sex="2" type="H" statut="fée" age="A" stat_amour='néant'>MELISENDE</role>, Fée de la Sagesse.</castItem>
+			<castItem><role id='BLANDONIE' sex="2" type="H" statut="fée" age="A" stat_amour='néant'>BLANDONIE</role>, Fée des Plaisirs. </castItem>
+			<castItem><role id='ZIRPHILIN' sex="1" type="H" statut="prince" age="A" stat_amour='néant'>ZIRPHILIN</role>, Prince de l’Isle Fortunée.</castItem>
+			<castItem><role id='ASTIBEL' sex="1" type="H" statut="prince" age="A" stat_amour='néant'>ASTIBEL</role>, Prince de l’Isle Inconnue.</castItem>
+			<castItem><role id='INEGILDE' sex="2" type="H" statut="fée" age="A" stat_amour='néant'>INEGILDE</role>,  fille d’Astur et de la Fée de la Raison.</castItem>
+			<castItem><role id='CLEONIDE' sex="2" type="H" statut="fée" age="A" stat_amour='néant'>CLEONIDE</role>,  fille d’Astur et de la Fée de la Raison.</castItem>
+			<castItem><role id='DARINEL' sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>DARINEL</role>, Plaisant de la Cour d’Astur.</castItem>
+			<castItem><role id='FINETTE' sex="2" type="H" statut="suivante" age="A" stat_amour='néant'>FINETTE</role>, Suivante d’Inégilde.</castItem>
+			<castItem><role id='ZIZIME' sex="1" type="H" statut="officier" age="A" stat_amour='néant'>ZIZIME</role>, Officier de la Cour d’Astur.</castItem>
+			<castItem><role id='ASTIBEL' sex="1" type="H" statut="prince" age="A" stat_amour='néant'>ASTIBEL</role>, Prince de l’Isle Inconnue.</castItem>
+			<castItem><role id='LAMBETHIE' sex="2" type="H" statut="gouvernante" age="A" stat_amour='néant'>LAMBETHIE</role>, Gouvernante d’Inégilde.</castItem>
+			<castItem><role id='LOGISTILLE' sex="2" type="H" statut="fée" age="A" stat_amour='néant'>LOGISTILLE</role>, Fée de la Raison.</castItem>
 		</castList>
 		<set location='Royaume des Asturies' country='Espagne' periode='Temps féériques' link=''>La Scène est au Royaume des Asturies, dans la Vallée de Vatüegas..</set>
 	</front>

@@ -6,9 +6,10 @@
 			<title>ALMÉNORADE, TRAGÉDIE</title>
 			<author born='1717' born_location='Paris' death='1806' death_location='Paris' academie='Poitiers'>CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle</author>
 		</titleStmt>
-		<publicationStmp>
+		<publicationStmt>
 			<p>publié par Paul FIEVRE septembre 2010</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Proverbe</genre>
 			<inspiration>moeurs orientales</inspiration>
@@ -42,14 +43,14 @@
 			<premiere date='1768' location='chez Madame la Marquise de Mauconseil'>Représenté pour la première fois en 1768 à Bagatelle chez Madame la Marquise de Mauconseil.</premiere>
 		</performance>
 	<castList><head>PERSONNAGES</head>
-		<castItem><role id="LE SULTAN" civil='M' type="H" statut="sultan" age="A" stat_amour='néant'>LE SULTAN</role>.</castItem>
-		<castItem><role id="ALMÉNORADE" civil='F' type="H" statut="prince" age="A" stat_amour='néant'>ALMÉNORADE</role>, Princesse.</castItem>
-		<castItem><role id="ORCANOR" civil='M' type="H" statut="général" age="A" stat_amour='néant'>ORCANOR</role>, Général d'Armée.</castItem>
-		<castItem><role id="ELMIRE" civil='F' type="H" statut="confident" age="A" stat_amour='néant'>ELMIRE</role>, Confidente d'Alménorade.</castItem>
-		<castItem><role id="HASSAN" civil='M' type="H" statut="confident" age="A" stat_amour='néant'>HASSAN</role>, Confident du Sultan.</castItem>
-		<castItem><role id="ORMIN" civil='M' type="H" statut="confident" age="A" stat_amour='néant'>ORMIN</role>, Confident d'Orcanor.</castItem>
-		<castItem><role id="GARDES" civil='G' type="H" statut="garde" age="A" stat_amour='néant'>DEUX GARDES DU SULTAN.</role></castItem>
-		<castItem><role id="LE SOUFFLEUR" civil='M' type="H" statut="souffleur" age="A" stat_amour='néant'>LE SOUFFLEUR</role>.</castItem>
+		<castItem><role id="LE SULTAN" sex="1" type="H" statut="sultan" age="A" stat_amour='néant'>LE SULTAN</role>.</castItem>
+		<castItem><role id="ALMÉNORADE" sex="2" type="H" statut="prince" age="A" stat_amour='néant'>ALMÉNORADE</role>, Princesse.</castItem>
+		<castItem><role id="ORCANOR" sex="1" type="H" statut="général" age="A" stat_amour='néant'>ORCANOR</role>, Général d'Armée.</castItem>
+		<castItem><role id="ELMIRE" sex="2" type="H" statut="confident" age="A" stat_amour='néant'>ELMIRE</role>, Confidente d'Alménorade.</castItem>
+		<castItem><role id="HASSAN" sex="1" type="H" statut="confident" age="A" stat_amour='néant'>HASSAN</role>, Confident du Sultan.</castItem>
+		<castItem><role id="ORMIN" sex="1" type="H" statut="confident" age="A" stat_amour='néant'>ORMIN</role>, Confident d'Orcanor.</castItem>
+		<castItem><role id="GARDES" sex="9" type="H" statut="garde" age="A" stat_amour='néant'>DEUX GARDES DU SULTAN.</role></castItem>
+		<castItem><role id="LE SOUFFLEUR" sex="1" type="H" statut="souffleur" age="A" stat_amour='néant'>LE SOUFFLEUR</role>.</castItem>
      </castList>
 <set location='Orient' country='Orient' periode='(indéterminé)' link=''>La Scène est dans le Palais du Sultan.</set>
 </front>

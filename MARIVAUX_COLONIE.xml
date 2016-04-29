@@ -6,9 +6,10 @@
 			<title>LA COLONIE, COMÉDIE</title>
 			<author born='1688' born_location='Auvergne' death='1763' death_location='Paris' academie='1743'>MARIVAUX</author>
 		</titleStmt>
-		<publicationStmp>
+		<publicationStmt>
 			<p>publié par Paul FIEVRE, Août 2009</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Comédie</genre>
 			<inspiration>moeurs françaises</inspiration>
@@ -39,14 +40,14 @@
 		</performance>
 
 	<castList><head>ACTEURS</head>
-		<castItem><role id="ARTHENICE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>ARTHÉNICE</role>, femme noble.</castItem>
-		<castItem><role id="MADAME-SORBIN" civil='F' type="H" statut='artisan' age='A' stat_amour='néant'>Madame SORBIN</role>, femme d'artisan.</castItem>
-		<castItem><role id="MONISUER-SORBIN" civil='M' type="H" statut='artisan' age='A' stat_amour='néant'>Monsieur SORBIN</role>, mari de Madame Sorbin.</castItem>
-		<castItem><role id="TIMAGENE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>TIMAGÈNE</role>, homme noble.</castItem>
-		<castItem><role id="LINA" civil='F' type="H" statut='bougeois' age='A' stat_amour='amoureux'>LINA</role>, fille de Madame Sorbin.</castItem>
-		<castItem><role id="PERSINET" civil='M' type="H" statut='bourgeois' age='A' stat_amour='amoureux'>PERSINET</role>, jeune homme du peuple, amant de Lina.</castItem>
-		<castItem><role id="HERMOCRATE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>HERMOCRATE</role>.</castItem>
-		<castItem><role id="TROUPE-FEMMES" civil='G' type="H" statut='foule' age='A' stat_amour='néant'>Troupe de femmes, tant nobles que du peuple</role>.</castItem>
+		<castItem><role id="ARTHENICE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>ARTHÉNICE</role>, femme noble.</castItem>
+		<castItem><role id="MADAME-SORBIN" sex="2" type="H" statut='artisan' age='A' stat_amour='néant'>Madame SORBIN</role>, femme d'artisan.</castItem>
+		<castItem><role id="MONISUER-SORBIN" sex="1" type="H" statut='artisan' age='A' stat_amour='néant'>Monsieur SORBIN</role>, mari de Madame Sorbin.</castItem>
+		<castItem><role id="TIMAGENE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>TIMAGÈNE</role>, homme noble.</castItem>
+		<castItem><role id="LINA" sex="2" type="H" statut='bougeois' age='A' stat_amour='amoureux'>LINA</role>, fille de Madame Sorbin.</castItem>
+		<castItem><role id="PERSINET" sex="1" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>PERSINET</role>, jeune homme du peuple, amant de Lina.</castItem>
+		<castItem><role id="HERMOCRATE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>HERMOCRATE</role>.</castItem>
+		<castItem><role id="TROUPE-FEMMES" sex="9" type="H" statut='foule' age='A' stat_amour='néant'>Troupe de femmes, tant nobles que du peuple</role>.</castItem>
        </castList>
 <set location='Sur une île' country='Sur une île' periode='Temps mythologiques' link=''>La scène est dans une île où sont abordés tous les acteurs.</set>
 </front>

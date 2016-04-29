@@ -6,9 +6,10 @@
 				<title>LE DOUBLE VEUVAGE, COMÉDIE EN TROIS ACTES.</title>
 				<author born='1657' born_location='Paris' death='1724' death_location='Paris' academie=''>DUFRESNY, Charles</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE février 2012</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -43,21 +44,21 @@
 		</performance>
 		
 	<castList><head>ACTEURS DU PROLOGUE</head>
-		<castItem><role id="LE MARQUIS" civil="M" type="H" statut='marquis' age='A' stat_amour='néant'>LE MARQUIS</role>.</castItem>
-		<castItem><role id="LE CHEVALIER" civil="M" type="H" statut='chevalier' age='A' stat_amour='néant'>LE CHEVALIER</role>.</castItem>
+		<castItem><role id="LE MARQUIS" sex="1" type="H" statut='marquis' age='A' stat_amour='néant'>LE MARQUIS</role>.</castItem>
+		<castItem><role id="LE CHEVALIER" sex="1" type="H" statut='chevalier' age='A' stat_amour='néant'>LE CHEVALIER</role>.</castItem>
 	</castList>
 	<castList><head>ACTEURS</head>
-		<castItem><role id="LA COMTESSE" civil="F" type="H" statut='comte' age='A' stat_amour='néant'>LA COMTESSE</role>.</castItem>
-		<castItem><role id="L INTENDANT" civil="M" type="H" statut='intendant' age='A' stat_amour='néant'>L'INTENDANT</role> de la Comtesse.</castItem>
-		<castItem><role id="LA VEUVE" civil="F" type="H" statut='bourgeois' age='A' stat_amour='néant'>LA VEUVE</role>, qui croit l'être de l'Intendant.</castItem>
-		<castItem><role id="GUSMAND" civil="M" type="H" statut="maître d'hôtel" age='A' stat_amour='néant'>GUSMAND</role>, maître d'Hôtel de la Comtesse.</castItem>
-		<castItem><role id="DORANTE" civil="M" type="H" statut='bourgeois' age='A' stat_amour='néant'>DORANTE</role>, neveu de l'Intendant.</castItem>
-		<castItem><role id="THÉRÈSE" civil="F" type="H" statut='bourgeois' age='A' stat_amour='néant'>THÉRÈSE</role>, nièce de l'Intendant.</castItem>
-		<castItem><role id="SUIVANTE" civil="F" type="H" statut='suivante' age='A' stat_amour='néant'>UNE SUIVANTE</role> de la Comtesse.</castItem>
-		<castItem><role id="FROSINE" civil="F" type="H" statut='servante' age='A' stat_amour='néant'>FROSINE</role>, Servante de la Veuve.</castItem>
-		<castItem><role id="LE SUISSE" civil="M" type="H" statut='suisse' age='A' stat_amour='néant'>LE SUISSE</role> de la Comtesse.</castItem>
-		<castItem><role id="LA SUISSESSE" civil="F" type="H" statut='bourgeois' age='A' stat_amour='néant'>LA SUISSESSE</role>, femme du Suisse.</castItem>
-		<castItem><role id="DEUX LAQUAIS" civil="G" type="H" statut='laquais' age='A' stat_amour='néant'>DEUX LAQUAIS</role>.</castItem>
+		<castItem><role id="LA COMTESSE" sex="2" type="H" statut='comte' age='A' stat_amour='néant'>LA COMTESSE</role>.</castItem>
+		<castItem><role id="L INTENDANT" sex="1" type="H" statut='intendant' age='A' stat_amour='néant'>L'INTENDANT</role> de la Comtesse.</castItem>
+		<castItem><role id="LA VEUVE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>LA VEUVE</role>, qui croit l'être de l'Intendant.</castItem>
+		<castItem><role id="GUSMAND" sex="1" type="H" statut="maître d'hôtel" age='A' stat_amour='néant'>GUSMAND</role>, maître d'Hôtel de la Comtesse.</castItem>
+		<castItem><role id="DORANTE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>DORANTE</role>, neveu de l'Intendant.</castItem>
+		<castItem><role id="THÉRÈSE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>THÉRÈSE</role>, nièce de l'Intendant.</castItem>
+		<castItem><role id="SUIVANTE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>UNE SUIVANTE</role> de la Comtesse.</castItem>
+		<castItem><role id="FROSINE" sex="2" type="H" statut='servante' age='A' stat_amour='néant'>FROSINE</role>, Servante de la Veuve.</castItem>
+		<castItem><role id="LE SUISSE" sex="1" type="H" statut='suisse' age='A' stat_amour='néant'>LE SUISSE</role> de la Comtesse.</castItem>
+		<castItem><role id="LA SUISSESSE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>LA SUISSESSE</role>, femme du Suisse.</castItem>
+		<castItem><role id="DEUX LAQUAIS" sex="9" type="H" statut='laquais' age='A' stat_amour='néant'>DEUX LAQUAIS</role>.</castItem>
 	</castList>
 	<set location='France' country='France' periode='XVIIème' link=''>La Scène est dans un Château de Campagne, qui est à la Comtesse. </set>
 </front>

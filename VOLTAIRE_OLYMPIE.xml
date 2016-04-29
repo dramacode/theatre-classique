@@ -7,9 +7,10 @@
 				<author born='1694' born_location='Paris' death='1778' death_location='Paris' academie='1746'>VOLTAIRE</author>
 				<date>1751</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<authority>publié par Paul FIEVRE, octobre 2010, revu décembre 2015.</authority>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire grecque</inspiration>
@@ -54,18 +55,18 @@ Cette tragédie est celle peut-être que Voltaire, dans sa vieillesse, prit le p
 <p>Olympie a été traduite en italien et jouée à Venise, sur le théâtre de San-Salvatore, avec un grand succès.</p>
 </div>
 <castList><head>PERSONNAGES</head>
-	<castItem><role id='CASSANDRE' civil='M' type="H" statut='prince' age='A' stat_amour='néant'>CASSANDRE</role>, fils d'Antipatre, roi de Macédoine.</castItem>
-	<castItem><role id='ANTIGONE' civil='M' type="H" statut='roi' age='A' stat_amour='néant'>ANTIGONE</role>, roi d'une partie de l'Asie. </castItem>
-	<castItem><role id='STATIRA' civil='F' type="H" statut='roi' age='A' stat_amour='néant'>STATIRA</role>, veuve d'Alexandre.</castItem>
-	<castItem><role id='OLYMPIE' civil='F' type="H" statut='prince' age='A' stat_amour='néant'>OLYMPIE</role>, fille d'Alexandre et de Statira.</castItem>
-	<castItem><role id='L-HIÉROPHANTE' civil='M' type="H" statut='prêre' age='A' stat_amour='néant'>L'HIÉROPHANTE </role> ou grand-prêtre, qui préside à la célébration des grands mystères.</castItem>
-	<castItem><role id='SOSTÈNE' civil='M' type="H" statut='officier' age='A' stat_amour='néant'>SOSTÈNE</role>, officier de Cassandre.</castItem>
-	<castItem><role id='HERMAS' civil='M' type="H" statut='officier' age='A' stat_amour='néant'>HERMAS</role>, officier d'Antigone.</castItem>
-	<castItem><role id='PRÊTRES' civil='G' type="H" statut='prêtre' age='A' stat_amour='néant'>PRÊTRES</role>.</castItem>
-	<castItem><role id='INITIÉS' civil='G' type="H" statut='religieux' age='A' stat_amour='néant'>INITIÉS.</role></castItem>
-	<castItem><role id='PRÊTRESSES' civil='G' type="H" statut='prêtre' age='A' stat_amour='néant'>PRÊTRESSES</role>.</castItem>
-	<castItem><role id='SOLDATS' civil='G' type="H" statut='soldat' age='A' stat_amour='néant'>SOLDATS</role>.</castItem>
-	<castItem><role id='PEUPLE' civil='G' type="H" statut='peuple' age='A' stat_amour='néant'>PEUPLE</role>.</castItem>
+	<castItem><role id='CASSANDRE' sex="1" type="H" statut='prince' age='A' stat_amour='néant'>CASSANDRE</role>, fils d'Antipatre, roi de Macédoine.</castItem>
+	<castItem><role id='ANTIGONE' sex="1" type="H" statut='roi' age='A' stat_amour='néant'>ANTIGONE</role>, roi d'une partie de l'Asie. </castItem>
+	<castItem><role id='STATIRA' sex="2" type="H" statut='roi' age='A' stat_amour='néant'>STATIRA</role>, veuve d'Alexandre.</castItem>
+	<castItem><role id='OLYMPIE' sex="2" type="H" statut='prince' age='A' stat_amour='néant'>OLYMPIE</role>, fille d'Alexandre et de Statira.</castItem>
+	<castItem><role id='L-HIÉROPHANTE' sex="1" type="H" statut='prêre' age='A' stat_amour='néant'>L'HIÉROPHANTE </role> ou grand-prêtre, qui préside à la célébration des grands mystères.</castItem>
+	<castItem><role id='SOSTÈNE' sex="1" type="H" statut='officier' age='A' stat_amour='néant'>SOSTÈNE</role>, officier de Cassandre.</castItem>
+	<castItem><role id='HERMAS' sex="1" type="H" statut='officier' age='A' stat_amour='néant'>HERMAS</role>, officier d'Antigone.</castItem>
+	<castItem><role id='PRÊTRES' sex="9" type="H" statut='prêtre' age='A' stat_amour='néant'>PRÊTRES</role>.</castItem>
+	<castItem><role id='INITIÉS' sex="9" type="H" statut='religieux' age='A' stat_amour='néant'>INITIÉS.</role></castItem>
+	<castItem><role id='PRÊTRESSES' sex="9" type="H" statut='prêtre' age='A' stat_amour='néant'>PRÊTRESSES</role>.</castItem>
+	<castItem><role id='SOLDATS' sex="9" type="H" statut='soldat' age='A' stat_amour='néant'>SOLDATS</role>.</castItem>
+	<castItem><role id='PEUPLE' sex="9" type="H" statut='peuple' age='A' stat_amour='néant'>PEUPLE</role>.</castItem>
 </castList>
 <set location='Éphèse' country='Turquie' periode='IVème avant JC' link=''>La scène est dans le temple d'Éphèse, où l'on célèbre les grands mystères. Le théâtre représente le temple, le péristyle, et la place qui conduit au temple.</set>
 </front>

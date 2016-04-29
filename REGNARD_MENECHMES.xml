@@ -7,9 +7,10 @@
 				<author born='1655' born_location='Paris' death='1709' death_location='Château de Grillon, Dourdan' academie=''>REGNARD, Jean-François</author>
 				<date>1692</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, Mai 2011</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -136,22 +137,22 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 <p type='v'>C'est par cet endroit seul qu'on pourra me louer. </p>
 </div>
 <castList><head>PERSONNAGES DU PROLOGUE</head>
-	<castItem><role id="APOLLON" civil="M" type="D" statut='dieu' age='A' stat_amour='néant'>APOLLON</role>.</castItem>
-	<castItem><role id="MERCURE" civil="M" type="D" statut='dieu' age='A' stat_amour='néant'>MERCURE</role>.</castItem>
-	<castItem><role id="PLAUTE" civil="M" type="H" statut='auteur' age='A' stat_amour='néant'>PLAUTE</role>.</castItem>
+	<castItem><role id="APOLLON" sex="1" type="D" statut='dieu' age='A' stat_amour='néant'>APOLLON</role>.</castItem>
+	<castItem><role id="MERCURE" sex="1" type="D" statut='dieu' age='A' stat_amour='néant'>MERCURE</role>.</castItem>
+	<castItem><role id="PLAUTE" sex="1" type="H" statut='auteur' age='A' stat_amour='néant'>PLAUTE</role>.</castItem>
 </castList>
 
 <castList><head>PERSONNAGES DE LA COMÉDIE</head>
-	<castItem><role id="MÉNECHME" civil="M" type="H" statut='aristocrate' age='A' stat_amour='néant'>MÉNECHME, frère jumeau</role>.</castItem>
-	<castItem><role id="LE CHEVALIER MÉNECHME" civil="M" type="H" statut='chevalier' age='A' stat_amour='néant'>LE CHEVALIER MÉNECHME, frère jumeau</role>.</castItem>
-	<castItem><role id="DÉMOPHON" civil="M" type="H" statut='bourgeois' age='A' stat_amour='néant'>DÉMOPHON</role>, père d'Isabelle.</castItem>
-	<castItem><role id="ISABELLE" civil="F" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>ISABELLE</role>, amante du Chevalier.</castItem>
-	<castItem><role id="ARAMINTE" civil="F" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>ARAMINTE</role>, vieille tante d'Isabelle, amoureuse du Chevalier.</castItem>
-	<castItem><role id="FINETTE" civil="F" type="H" statut='suivante' age='A' stat_amour='néant'>FINETTE</role>, suivante d'Araminte.</castItem>
-	<castItem><role id="VALENTIN" civil="H" type="H" statut='valet' age='A' stat_amour='néant'>VALENTIN</role>, valet du Chevalier.</castItem>
-	<castItem><role id="ROBERTIN" civil="M" type="H" statut='notaire' age='A' stat_amour='néant'>ROBERTIN</role>, notaire.</castItem>
-	<castItem><role id="UN-MARQUIS" civil="M" type="H" statut='marquis' age='A' stat_amour='néant'>UN MARQUIS GASCON</role>. </castItem>
-	<castItem><role id="MONSIEUR COQUELET" civil="M" type="H" statut='commerçant' age='A' stat_amour='néant'>MONSIEUR COQUELET</role>, marchand.</castItem>
+	<castItem><role id="MÉNECHME" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>MÉNECHME, frère jumeau</role>.</castItem>
+	<castItem><role id="LE CHEVALIER MÉNECHME" sex="1" type="H" statut='chevalier' age='A' stat_amour='néant'>LE CHEVALIER MÉNECHME, frère jumeau</role>.</castItem>
+	<castItem><role id="DÉMOPHON" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>DÉMOPHON</role>, père d'Isabelle.</castItem>
+	<castItem><role id="ISABELLE" sex="2" type="H" statut='bourgeois' age='J' stat_amour='Isabelle'>ISABELLE</role>, amante du Chevalier.</castItem>
+	<castItem><role id="ARAMINTE" sex="2" type="H" statut='bourgeois' age='V' stat_amour='Le Chevalier'>ARAMINTE</role>, vieille tante d'Isabelle, amoureuse du Chevalier.</castItem>
+	<castItem><role id="FINETTE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>FINETTE</role>, suivante d'Araminte.</castItem>
+	<castItem><role id="VALENTIN" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>VALENTIN</role>, valet du Chevalier.</castItem>
+	<castItem><role id="ROBERTIN" sex="1" type="H" statut='notaire' age='A' stat_amour='néant'>ROBERTIN</role>, notaire.</castItem>
+	<castItem><role id="UN-MARQUIS" sex="1" type="H" statut='marquis' age='A' stat_amour='néant'>UN MARQUIS GASCON</role>. </castItem>
+	<castItem><role id="MONSIEUR COQUELET" sex="1" type="H" statut='commerçant' age='A' stat_amour='néant'>MONSIEUR COQUELET</role>, marchand.</castItem>
 </castList>
 <set location='Paris' country='France' periode='XVIIIème' link=''>La scène est à Paris, dans une place publique.</set>
 </front>

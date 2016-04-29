@@ -7,9 +7,10 @@
 				<author born='1625' born_location='Rouen' death='1709' death_location='Les Andelys' academie='1685'>CORNEILLE, Thomas</author>
 				<date>1652</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Ernest FIEVRE, mars 2010</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Pastorale</genre>
 				<inspiration>pastorale</inspiration>
@@ -41,17 +42,17 @@
 		</performance>
 
 	<castList><head>ACTEURS</head>
-		<castItem><role id="LISIS" civil='M' type="H" statut='berger' age='A' stat_amour='néant'>LISIS</role>, berger extravagant.</castItem>
-		<castItem><role id="ANGELIQUE" civil='F' type="D" statut='nymphe' age='A' stat_amour='néant'>ANGÉLIQUE</role>, nymphe, soeur de Montenor.</castItem>
-		<castItem><role id="HIRCAN" civil='M' type="H" statut='berger' age='A' stat_amour='néant'>HIRCAN</role>, frère de Lucide.</castItem>
-		<castItem><role id="MONTENOR" civil='M' type="H" statut='berger' age='A' stat_amour='amoureux'>MONTENOR</role>, berger, amant de Lucide.</castItem>
-		<castItem><role id="ANSELME" civil='M' type="H" statut='berger' age='A' stat_amour='amoureux'>ANSELME</role>, berger, amant d'Angélique.</castItem>
-		<castItem><role id="CLARIMOND" civil='M' type="H" statut='berger' age='A' stat_amour='amoureux'>CLARIMOND</role>, amant de Charite.</castItem>
-		<castItem><role id="LUCIDE" civil='F' type="H" statut='berger' age='A' stat_amour='néant'>LUCIDE</role>, bergère, soeur d'Hircan.</castItem>
-		<castItem><role id="CHARITE" civil='F' type="H" statut='berger' age='A' stat_amour='néant'>CHARITE</role>, bergère, parente d'Angélique.</castItem>
-		<castItem><role id="SINOPE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>SINOPE</role>, demoiselle voisine d'Angélique.</castItem>
-		<castItem><role id="CLORISE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>CLORISE</role>, demoiselle voisine d'Angélique.</castItem>
-		<castItem><role id="ADRIAN" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>ADRIAN</role>, parent de Lisis.</castItem>
+		<castItem><role id="LISIS" sex="1" type="H" statut='berger' age='A' stat_amour='néant'>LISIS</role>, berger extravagant.</castItem>
+		<castItem><role id="ANGELIQUE" sex="2" type="D" statut='nymphe' age='A' stat_amour='néant'>ANGÉLIQUE</role>, nymphe, soeur de Montenor.</castItem>
+		<castItem><role id="HIRCAN" sex="1" type="H" statut='berger' age='A' stat_amour='néant'>HIRCAN</role>, frère de Lucide.</castItem>
+		<castItem><role id="MONTENOR" sex="1" type="H" statut='berger' age='A' stat_amour='amoureux'>MONTENOR</role>, berger, amant de Lucide.</castItem>
+		<castItem><role id="ANSELME" sex="1" type="H" statut='berger' age='A' stat_amour='amoureux'>ANSELME</role>, berger, amant d'Angélique.</castItem>
+		<castItem><role id="CLARIMOND" sex="1" type="H" statut='berger' age='A' stat_amour='amoureux'>CLARIMOND</role>, amant de Charite.</castItem>
+		<castItem><role id="LUCIDE" sex="2" type="H" statut='berger' age='A' stat_amour='néant'>LUCIDE</role>, bergère, soeur d'Hircan.</castItem>
+		<castItem><role id="CHARITE" sex="2" type="H" statut='berger' age='A' stat_amour='néant'>CHARITE</role>, bergère, parente d'Angélique.</castItem>
+		<castItem><role id="SINOPE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>SINOPE</role>, demoiselle voisine d'Angélique.</castItem>
+		<castItem><role id="CLORISE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>CLORISE</role>, demoiselle voisine d'Angélique.</castItem>
+		<castItem><role id="ADRIAN" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>ADRIAN</role>, parent de Lisis.</castItem>
 	</castList>
 	<set location='Brie' country='France' periode='(inconnue)' link=''>La Scène est en Brie.</set>
 </front>

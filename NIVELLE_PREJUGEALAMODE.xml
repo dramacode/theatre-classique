@@ -7,9 +7,10 @@
 				<author born='1692' born_location='Paris' death='1754' death_location='Paris' academie='1736'>NIVELLE de la CHAUSSÉE, Pierre</author>
 				<date>1735</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE</p><p>Novembre 2008</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -52,15 +53,15 @@
 		</performance>
 		<castList>
 			<head>ACTEURS</head>
-			<castItem><role id="CONSTANCE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>CONSTANCE</role>.</castItem>
-			<castItem><role id="DURVAL" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>D'URVAL</role>, époux de Constance.</castItem>
-			<castItem><role id="SOPHIE" civil='F' type="H" statut='aristocrate' age='J' stat_amour='amoureux'>SOPHIE</role>, nièce d'Argant.</castItem>
-			<castItem><role id="DAMON" civil='M' type="H" statut='aristocrate' age='A' stat_amour='amoureux'>DAMON</role>, ami d'Urval, amant de Sophie.</castItem>
-			<castItem><role id="ARGANT" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>ARGANT</role>, père de Constance.</castItem>
-			<castItem><role id="CLITANDRE" civil='M' type="H" statut='marquis' age='A' stat_amour='néant'>CLITANDRE</role>, marquis.</castItem>
-			<castItem><role id="DAMIS" civil='M' type="H" statut='marquis' age='A' stat_amour='néant'>DAMIS</role>, marquis.</castItem>
-			<castItem><role id="FLORINE" civil='F' type="H" statut='suivante' age='A' stat_amour='néant'>FLORINE</role>, suivante de Constance.</castItem>
-			<castItem><role id="HENRI" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>HENRI</role>, valet de chambre d'Urval. </castItem>
+			<castItem><role id="CONSTANCE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>CONSTANCE</role>.</castItem>
+			<castItem><role id="DURVAL" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>D'URVAL</role>, époux de Constance.</castItem>
+			<castItem><role id="SOPHIE" sex="2" type="H" statut='aristocrate' age="J" stat_amour='amoureux'>SOPHIE</role>, nièce d'Argant.</castItem>
+			<castItem><role id="DAMON" sex="1" type="H" statut='aristocrate' age='A' stat_amour='amoureux'>DAMON</role>, ami d'Urval, amant de Sophie.</castItem>
+			<castItem><role id="ARGANT" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>ARGANT</role>, père de Constance.</castItem>
+			<castItem><role id="CLITANDRE" sex="1" type="H" statut='marquis' age='A' stat_amour='néant'>CLITANDRE</role>, marquis.</castItem>
+			<castItem><role id="DAMIS" sex="1" type="H" statut='marquis' age='A' stat_amour='néant'>DAMIS</role>, marquis.</castItem>
+			<castItem><role id="FLORINE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>FLORINE</role>, suivante de Constance.</castItem>
+			<castItem><role id="HENRI" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>HENRI</role>, valet de chambre d'Urval. </castItem>
 			</castList>
 <set location='Urval' country='France' periode='XVIIIème' link=''>La scène est au château de d'Urval. </set>
 </front>

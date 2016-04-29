@@ -7,9 +7,10 @@
 				<author born='1606' born_location='Rouen' death='1684' death_location='Paris' academie='1647'>CORNEILLE, Pierre</author>
 				<date>1663</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE</p><p>Mai 2006, revu Août 2013</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire romaine</inspiration>
@@ -53,19 +54,19 @@
 		<p>Quand je ferai joindre cette tragédie à mes recueils, je pourrai l'examiner plus au long, comme j'ai fait les autres : cependant je vous demande pour sa lecture un peu de cette faveur qui doit toujours pencher du côté de ceux qui travaillent pour le public, avec une attention sincère, qui vous empêche d'y voir ce qui n'est pas, et vous y laisse voir tout ce que j'y fais dire.</p>
 		</div>
 	<castList>
-		<castItem><role id="SYPHAX" civil='M' type="H" statut='roi' age='A' stat_amour='néant'>SYPHAX</role>, roi de Numidie.</castItem>
-		<castItem><role id="MASSINISSE" civil='M' type="H" statut='roi' age='A' stat_amour='néant'>MASSINISSE</role>, autre roi de Numidie.</castItem>
-		<castItem><role id="LÉLIUS" civil='M' type="H" statut='lieutenant' age='A' stat_amour='néant'>LÉLIUS</role>, lieutenant de Scipion, consul de Rome.</castItem>
-		<castItem><role id="LÉPIDE" civil='M' type="H" statut='tribun' age='A' stat_amour='néant'>LÉPIDE</role>, tribun romain.</castItem>
-		<castItem><role id="BOCCHAR" civil='M' type="H" statut='lieutenant' age='A' stat_amour='néant'>BOCCHAR</role>, lieutenant de Syphax.</castItem>
-		<castItem><role id="MÉZÉTULLE" civil='M' type="H" statut='lieutenant' age='A' stat_amour='néant'>MÉZÉTULLE</role>, lieutenant de Massinisse.</castItem>
-		<castItem><role id="ALBIN" civil='M' type="H" statut='centenier' age='A' stat_amour='néant'>ALBIN</role>, centenier romain.</castItem>
-		<castItem><role id="SOPHONISBE" civil='F' type="H" statut='roi' age='A' stat_amour='néant'>SOPHONISBE</role>, fille d'Asdrabal, général des Carthaginois, et reine de Numidie.</castItem>
-		<castItem><role id="ÉRYXE" civil='F' type="H" statut='roi' age='A' stat_amour='néant'>ÉRYXE</role>, reine de Gétulie.</castItem>
-		<castItem><role id="HERMINIE" civil='F' type="H" statut="dame d'honneur" age='A' stat_amour='néant'>HERMINIE</role>, dame d'honneur de Sophonisbe.</castItem>
-		<castItem><role id="BARCÉE" civil='F' type="H" statut="dame d'honneur" age='A' stat_amour='néant'>BARCÉE</role>, dame d'honneur d'Eryxe.</castItem>
-		<castItem><role id="PAGE" civil='M' type="H" statut="page" age='A' stat_amour='néant'>Page de Sophonisbe</role>.</castItem>
-		<castItem><role id="GARDES" civil='G' type="H" statut="garde" age='A' stat_amour='néant'>Gardes</role>.</castItem>
+		<castItem><role id="SYPHAX" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>SYPHAX</role>, roi de Numidie.</castItem>
+		<castItem><role id="MASSINISSE" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>MASSINISSE</role>, autre roi de Numidie.</castItem>
+		<castItem><role id="LÉLIUS" sex="1" type="H" statut='lieutenant' age='A' stat_amour='néant'>LÉLIUS</role>, lieutenant de Scipion, consul de Rome.</castItem>
+		<castItem><role id="LÉPIDE" sex="1" type="H" statut='tribun' age='A' stat_amour='néant'>LÉPIDE</role>, tribun romain.</castItem>
+		<castItem><role id="BOCCHAR" sex="1" type="H" statut='lieutenant' age='A' stat_amour='néant'>BOCCHAR</role>, lieutenant de Syphax.</castItem>
+		<castItem><role id="MÉZÉTULLE" sex="1" type="H" statut='lieutenant' age='A' stat_amour='néant'>MÉZÉTULLE</role>, lieutenant de Massinisse.</castItem>
+		<castItem><role id="ALBIN" sex="1" type="H" statut='centenier' age='A' stat_amour='néant'>ALBIN</role>, centenier romain.</castItem>
+		<castItem><role id="SOPHONISBE" sex="2" type="H" statut='roi' age='A' stat_amour='néant'>SOPHONISBE</role>, fille d'Asdrabal, général des Carthaginois, et reine de Numidie.</castItem>
+		<castItem><role id="ÉRYXE" sex="2" type="H" statut='roi' age='A' stat_amour='néant'>ÉRYXE</role>, reine de Gétulie.</castItem>
+		<castItem><role id="HERMINIE" sex="2" type="H" statut="dame d'honneur" age='A' stat_amour='néant'>HERMINIE</role>, dame d'honneur de Sophonisbe.</castItem>
+		<castItem><role id="BARCÉE" sex="2" type="H" statut="dame d'honneur" age='A' stat_amour='néant'>BARCÉE</role>, dame d'honneur d'Eryxe.</castItem>
+		<castItem><role id="PAGE" sex="1" type="H" statut="page" age='A' stat_amour='néant'>PAGE DE SOPHONISBE</role>.</castItem>
+		<castItem><role id="GARDES" sex="9" type="H" statut="garde" age='A' stat_amour='néant'>GARDES</role>.</castItem>
 	</castList>
 	<set location='Cirta' country='Algérie' periode='IIIème avant JC' link=''>La scène est à Scythe, capitale du royaume de Syphax, dans le palais du Roi.</set>
 	</front>

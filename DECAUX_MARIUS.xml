@@ -4,9 +4,10 @@
 				<title>MARIUS, TRAGÉDIE.</title>
 				<author born='1682' born_location='Ligneries' death='1733' death_location='Bayeux' academie=''>CAUX de MONTLEBERT, Gilles de</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE novembre 2011</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire romaine</inspiration>
@@ -43,15 +44,15 @@
 			<premiere date='1715-11-15' location='Théâtre de la rue des Fossés Saint-Germain'>Représenté pour la première fois le 15 novembre 1715 au Théâtre de la rue des Fossés Saint-Germain.</premiere>
 		</performance>
 	<castList><head>PERSONNAGES.</head>
-		<castItem><role id="HIEMPSAL" civil='M'>HIEMPSAL</role>, roi de Numidie.</castItem>
-		<castItem><role id="CAÏUS-MARIUS" civil='M'>CAÏUS MARIUS</role>, consul romain.</castItem>
-		<castItem><role id="MARIUS-FILS" civil='M'>MARIUS</role>, fils du consul.</castItem>
-		<castItem><role id="ARISBE" civil='F'>ARISBE</role>, princesse promise en mariage au rot</castItem>
-		<castItem><role id="CETHEGUS" civil='M'>CÉTHÉGUS</role>, ami du jeune Marins.</castItem>
-		<castItem><role id="NUMERIUS" civil='M'>NUMÉRIUS</role>, ancien ami du consul.</castItem>
-		<castItem><role id="NERBAL" civil='M'>NERBAL</role>, capitaine des gardes du roi.</castItem>
-		<castItem><role id="PHENICE" civil='F'>PHÉNICE</role>, confidente d'Ariabe. </castItem>
-		<castItem><role id="GARDES" civil='G'>Gardes</role> .</castItem>
+		<castItem><role id="HIEMPSAL" sex="1">HIEMPSAL</role>, roi de Numidie.</castItem>
+		<castItem><role id="CAÏUS-MARIUS" sex="1">CAÏUS MARIUS</role>, consul romain.</castItem>
+		<castItem><role id="MARIUS-FILS" sex="1">MARIUS</role>, fils du consul.</castItem>
+		<castItem><role id="ARISBE" sex="2">ARISBE</role>, princesse promise en mariage au rot</castItem>
+		<castItem><role id="CETHEGUS" sex="1">CÉTHÉGUS</role>, ami du jeune Marins.</castItem>
+		<castItem><role id="NUMERIUS" sex="1">NUMÉRIUS</role>, ancien ami du consul.</castItem>
+		<castItem><role id="NERBAL" sex="1">NERBAL</role>, capitaine des gardes du roi.</castItem>
+		<castItem><role id="PHENICE" sex="2">PHÉNICE</role>, confidente d'Ariabe. </castItem>
+		<castItem><role id="GARDES" sex="9">Gardes</role> .</castItem>
 	</castList>
 	<set location='Cirthe' country='Numidie' periode='' link=''>La scène est a Cirthe, capitale de Numidie, dans le palais du roi.</set>
 </front>

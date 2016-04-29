@@ -7,9 +7,10 @@
 			<author born='1622' born_location='Paris' death='1673' death_location='Paris' academie=''>Molière</author>
 				<date>1664</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, octobre 2011</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie galante</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -51,25 +52,25 @@
 
 </div>
 <castList><head>ACTEURS</head>
-	<castItem><role id="LA PRINCESSE D'ÉLIDE" civil='F' type="H" statut='prince' age='A' stat_amour='néant'>LA PRINCESSE d'ÉLIDE</role>.</castItem> 
-	<castItem><role id="AGLANTE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>AGLANTE</role>, cousine de la Princesse.</castItem> 
-	<castItem><role id="CYNTHIE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>CYNTHIE</role>, cousine de la Princesse.</castItem> 
-	<castItem><role id="PHILIS" civil='F' type="H" statut='suivante' age='A' stat_amour='néant'>PHILIS</role>, suivante de la Princesse.</castItem> 
-	<castItem><role id="IPHITAS" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>IPHITAS</role>, père de la Princesse.</castItem> 
-	<castItem><role id="EURYALE" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>EURYALE</role>, prince d'Ithaque.</castItem> 
-	<castItem><role id="ARISTOMÈNE" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>ARISTOMÈNE</role>, prince de Messène.</castItem> 
-	<castItem><role id="THÉOCLE" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>THÉOCLE</role>, prince de Pyle.</castItem> 
-	<castItem><role id="ARBATE" civil='M' type="H" statut='gouverneur' age='A' stat_amour='néant'>ARBATE</role>, gouverneur du prince d'Ithaque.</castItem> 
-	<castItem><role id="MORON" civil='M' type="H" statut='bouffon' age='A' stat_amour='néant'>MORON</role>, plaisant de la Princesse.</castItem> 
-	<castItem><role id="LYCAS" civil='M' type="H" statut='suivant' age='A' stat_amour='néant'>LYCAS</role>, suivant d'Iphitas.</castItem> 
+	<castItem><role id="LA PRINCESSE D'ÉLIDE" sex="2" type="H" statut='prince' age='A' stat_amour='néant'>LA PRINCESSE d'ÉLIDE</role>.</castItem> 
+	<castItem><role id="AGLANTE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>AGLANTE</role>, cousine de la Princesse.</castItem> 
+	<castItem><role id="CYNTHIE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>CYNTHIE</role>, cousine de la Princesse.</castItem> 
+	<castItem><role id="PHILIS" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>PHILIS</role>, suivante de la Princesse.</castItem> 
+	<castItem><role id="IPHITAS" sex="1" type="H" statut='prince' age='V' stat_amour='néant'>IPHITAS</role>, père de la Princesse.</castItem> 
+	<castItem><role id="EURYALE" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>EURYALE</role>, prince d'Ithaque.</castItem> 
+	<castItem><role id="ARISTOMÈNE" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>ARISTOMÈNE</role>, prince de Messène.</castItem> 
+	<castItem><role id="THÉOCLE" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>THÉOCLE</role>, prince de Pyle.</castItem> 
+	<castItem><role id="ARBATE" sex="1" type="H" statut='gouverneur' age='A' stat_amour='néant'>ARBATE</role>, gouverneur du prince d'Ithaque.</castItem> 
+	<castItem><role id="MORON" sex="1" type="H" statut='bouffon' age='A' stat_amour='néant'>MORON</role>, plaisant de la Princesse.</castItem> 
+	<castItem><role id="LYCAS" sex="1" type="H" statut='suivant' age='A' stat_amour='néant'>LYCAS</role>, suivant d'Iphitas.</castItem> 
 </castList>
 <castList><head>Personnages des intermèdes.</head>
-	<castItem><role id="AURORE" civil='D'>L'AURORE</role>.</castItem>
-	<castItem><role id="AURORE" civil='H'>LYCISCAS</role>, valet des chiens.</castItem>
-	<castItem><role id="AURORE" civil='G'>TROIS VALETS de CHIENS</role>.</castItem>
-	<castItem><role id="UN-SATYRE" civil='D'>Un SATYRE</role>.</castItem> 
-	<castItem><role id="LIRCIS" civil='M'>TIRCIS</role>.</castItem>
-	<castItem><role id="CLYMENE" civil='F'>CLYMÈNE</role>.</castItem>
+	<castItem><role id="AURORE" sex="2" type="D" statut='dieu' age='A' stat_amour='néant'>L'AURORE</role>.</castItem>
+	<castItem><role id="LYCISCAS" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>LYCISCAS</role>, valet des chiens.</castItem>
+	<castItem><role id="TROIS VALETS" sex="9" type="H" statut='valet' age='A' stat_amour='néant'>TROIS VALETS de CHIENS</role>.</castItem>
+	<castItem><role id="UN-SATYRE" sex="1" type="D" statut='satyre' age='A' stat_amour='néant'>Un SATYRE</role>.</castItem> 
+	<castItem><role id="LIRCIS" sex="1" type="H" statut='berger' age='A' stat_amour='néant'>TIRCIS</role>.</castItem>
+	<castItem><role id="CLYMENE" sex="2" type="H" statut='berger' age='A' stat_amour='néant'>CLYMÈNE</role>.</castItem>
 </castList>
 	<set location='Elide' periode='Temps mythologiques' country='Grèce' link=''>La scène est en Élide</set>
 </front>

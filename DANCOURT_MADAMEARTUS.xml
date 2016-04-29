@@ -6,9 +6,10 @@
 				<title>MADAME ARTUS, COMÉDIE</title>
 				<author born='1661' born_location='Fontainebleau' death='1725' death_location='Courcelles-le-Roi' academie=''>DANCOURT, Florent CARTON dit</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, avril 2014.</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -44,16 +45,16 @@
 			<premiere date='1708-05-08' location='Théâtre de la rue des Fossés Saint-Germain'>Représentée pour la première fois, le 8 Mai 1708 au Théâtre de la rue des Fossés Saint-Germain.</premiere>
 		</performance>
 		<castList><head>ACTEURS</head>
-			<castItem><role id='MADAME ARTUS' civil="F" type ="H" statut="bourgeois" age="A" stat_amour='néant'>MADAME ARTUS</role>, Femme intrigante.</castItem>
-			<castItem><role id='MADAME ARGANTE' civil="F" type ="H" statut="bourgeois" age="A" stat_amour='néant'>MADAME ARGANTE</role>. </castItem>
-			<castItem><role id='DAMIS' civil="M" type ="H" statut="bourgeois" age="A" stat_amour='néant'>DAMIS</role>, Frère de Madame Argante.</castItem>
-			<castItem><role id='CÉLIDE' civil="F" type ="H" statut="bourgeois" age="A" stat_amour='néant'>CÉLIDE</role>, Fille de Madame Argante.</castItem>
-			<castItem><role id='DORANTE' civil="M" type ="H" statut="bourgeois" age="A" stat_amour='Rosette'>DORANTE</role>, Fils de Madame Argante.</castItem>
-			<castItem><role id='ROSETTE' civil="F" type ="H" statut="bourgeois" age="A" stat_amour='Dorante'>ROSETTE</role>, sous le nom de Massine, aimée de Dorante.</castItem>
-			<castItem><role id='ÉRASTE' civil="M" type ="H" statut="bourgeois" age="A" stat_amour='néant'>ÉRASTE</role>, Amant de Célide.</castItem>
-			<castItem><role id='MONSIEUR LUDET' civil="M" type ="H" statut="notaire" age="A" stat_amour='néant'>MONSIEUR LUDET</role>, Notaire, Oncle de Rosette.</castItem>
-			<castItem><role id='FINETTE' civil="F" type ="H" statut="femme de chambre" age="A" stat_amour='néant'>FINETTE</role>, Femme de Chambre.</castItem>
-			<castItem><role id='MERLIN' civil="M" type ="H" statut="valet" age="A" stat_amour='néant'>MERLIN</role>, Valet de Dorante.</castItem>
+			<castItem><role id='MADAME ARTUS' sex="2" type ="H" statut="bourgeois" age="A" stat_amour='néant'>MADAME ARTUS</role>, Femme intrigante.</castItem>
+			<castItem><role id='MADAME ARGANTE' sex="2" type ="H" statut="bourgeois" age="A" stat_amour='néant'>MADAME ARGANTE</role>. </castItem>
+			<castItem><role id='DAMIS' sex="1" type ="H" statut="bourgeois" age="A" stat_amour='néant'>DAMIS</role>, Frère de Madame Argante.</castItem>
+			<castItem><role id='CÉLIDE' sex="2" type ="H" statut="bourgeois" age="A" stat_amour='néant'>CÉLIDE</role>, Fille de Madame Argante.</castItem>
+			<castItem><role id='DORANTE' sex="1" type ="H" statut="bourgeois" age="A" stat_amour='Rosette'>DORANTE</role>, Fils de Madame Argante.</castItem>
+			<castItem><role id='ROSETTE' sex="2" type ="H" statut="bourgeois" age="A" stat_amour='Dorante'>ROSETTE</role>, sous le nom de Massine, aimée de Dorante.</castItem>
+			<castItem><role id='ÉRASTE' sex="1" type ="H" statut="bourgeois" age="A" stat_amour='néant'>ÉRASTE</role>, Amant de Célide.</castItem>
+			<castItem><role id='MONSIEUR LUDET' sex="1" type ="H" statut="notaire" age="A" stat_amour='néant'>MONSIEUR LUDET</role>, Notaire, Oncle de Rosette.</castItem>
+			<castItem><role id='FINETTE' sex="2" type ="H" statut="femme de chambre" age="A" stat_amour='néant'>FINETTE</role>, Femme de Chambre.</castItem>
+			<castItem><role id='MERLIN' sex="1" type ="H" statut="valet" age="A" stat_amour='néant'>MERLIN</role>, Valet de Dorante.</castItem>
 		</castList>
 		<set location='Paris' country='France' periode='XVIIIème' link=''>La Scène est à Paris, chez Madame Argante.</set>
 	</front>

@@ -7,9 +7,10 @@
 			<author born='1639' born_location='La Ferté Millon' death='1699' death_location='Paris' academie='1673'>RACINE, Jean</author>
 			<date>1665</date>
 		</titleStmt>
-		<publicationStmp>	
+		<publicationStmt>	
 			<p>publié par Paul FIEVRE, mai 2006, revu mai 2011, revu octobre 2015</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Tragédie</genre>
 			<inspiration>histoire grecque</inspiration>
@@ -65,13 +66,13 @@
 			<premiere  date='1665-12-04' location='Théâtre du Palais-Royal'>Représenté pour la première fois au Théâtre du Palais-Royal, le 4 décembre 1665.</premiere>
 		</performance>
 		<castList><head>ACTEURS</head>
-			<castItem><role id="ALEXANDRE" civil='M' type="H" statut="roi" age="A" stat_amour='amoureux'>ALEXANDRE</role>.</castItem>
-			<castItem><role id="PORUS" civil='M' type="H" statut="roi" age="A" stat_amour='amoureux'>PORUS</role>, Roi dans les Indes.</castItem>
-			<castItem><role id="TAXILE" civil='M' type="H" statut="roi" age="A" stat_amour='amoureux'>TAXILE</role>, Roi dans les Indes.</castItem>
-				<castItem><role id="AXIANE" civil='F' type="H" statut="roi" age="A" stat_amour='néant'>AXIANE</role>, Reine d'une autre partie des Indes.</castItem>
-				<castItem><role id="CLÉOFILE" civil='F' type="H" statut="aristocrate" age="A" stat_amour='amoureux'>CLÉOFILE</role>, soeur de Taxile.</castItem>
-				<castItem><role id="ÉPHESTION" civil='M' type="H" statut="aristocrate" age="A" stat_amour='néant'>ÉPHESTION</role>.</castItem>
-				<castItem><role id="SUITE-D-ALEXANDRE" civil='G' type="H" statut="suite" age="A" stat_amour='néant'>SUITE D'ALEXANDRE</role></castItem>
+			<castItem><role id="ALEXANDRE" sex="1" type="H" statut="roi" age="A" stat_amour='amoureux'>ALEXANDRE</role>.</castItem>
+			<castItem><role id="PORUS" sex="1" type="H" statut="roi" age="A" stat_amour='amoureux'>PORUS</role>, Roi dans les Indes.</castItem>
+			<castItem><role id="TAXILE" sex="1" type="H" statut="roi" age="A" stat_amour='amoureux'>TAXILE</role>, Roi dans les Indes.</castItem>
+				<castItem><role id="AXIANE" sex="2" type="H" statut="roi" age="A" stat_amour='néant'>AXIANE</role>, Reine d'une autre partie des Indes.</castItem>
+				<castItem><role id="CLÉOFILE" sex="2" type="H" statut="aristocrate" age="A" stat_amour='amoureux'>CLÉOFILE</role>, soeur de Taxile.</castItem>
+				<castItem><role id="ÉPHESTION" sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>ÉPHESTION</role>.</castItem>
+				<castItem><role id="SUITE-D-ALEXANDRE" sex="9" type="H" statut="suite" age="A" stat_amour='néant'>SUITE D'ALEXANDRE</role></castItem>
 			</castList>
 			<set location="Bord de l'Hydaspe" country="Inde" periode='IVème avant JC' link=''>La scène est sur le bord de l'Hydaspe, dans le camp de Taxile.</set>
 		</front>
@@ -720,7 +721,7 @@
      <l id="494">Soutient mal un pouvoir qui ne fait que de naître,</l>
      <l id="495">Pour secouer le joug, les yeux toujours ouverts,</l>
      <l id="496">Votre empire n'est plein que d'ennemis couverts.</l>
-<note type="">Bactrien : Habitant de la Bactiane, pays dépendant de la monarchie persane et conquis par Alexandre  en -328. Il se situait au nord de l'Afghanistan à l'ouest de l'Hymalaya entre les montagnes du Pamir et de l'Indu Kush.</note>
+<note type="L">Bactrien : Habitant de la Bactiane, pays dépendant de la monarchie persane et conquis par Alexandre  en -328. Il se situait au nord de l'Afghanistan à l'ouest de l'Hymalaya entre les montagnes du Pamir et de l'Indu Kush.</note>
      <l id="497">Le Bactrien conquis, reprend son diadème,</l>
      <l id="498">Vos fers trop étendus se relâchent d'eux-mêmes,</l>
      <l id="499">Et déjà dans leur coeur les Scythes mutinés,</l>

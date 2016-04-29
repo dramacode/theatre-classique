@@ -6,9 +6,10 @@
 				<title>MÉROPE, TRAGÉDIE</title>
 				<author born='1694' born_location='Paris' death='1778' death_location='Paris' academie='1746'>VOLTAIRE</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<authority>publié par Paul FIEVRE, Septembre 2006, revu avril 2015</authority>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire romaine</inspiration>
@@ -37,13 +38,13 @@
 				<premiere date='1743-02-20' location='Théâtre de la rue des Fossés Saint-Germain'>Représentée pour la première fois le 20 février 1743 au Théâtre de la rue des Fossés Saint-Germain par la Comédie française.</premiere>
 			</performance>
 			<castList><head>ACTEURS</head>
-				<castItem><role id='MÉROPE' civil='F' type="H" statut='roi' age='A' stat_amour='néant'>MÉROPE</role>, veuve de Cresphonte, roi de Messène.</castItem>
-				<castItem><role id='EGISTHE' civil='M' type="H" statut='prince' age='A' stat_amour='néant'>ÉGISTHE</role>, fils de Mérope.</castItem>
-				<castItem><role id='POLYPHONTE' civil='M' type="H" statut='roi' age='A' stat_amour='néant'>POLYPHONTE</role>, tyran de Messène.</castItem>
-				<castItem><role id='NARBAS' civil='M' type="H" statut='confident' age='V' stat_amour='néant'>NARBAS</role>, vieillard.</castItem>
-				<castItem><role id='EURYCLES' civil='M' type="H" statut='confident' age='A' stat_amour='néant'>EURYCLES</role>, favori de Mérope.</castItem>
-				<castItem><role id='EROX' civil='M' type="H" statut='confident' age='A' stat_amour='néant'>ÉROX</role>, favori de Polyphonte.</castItem>
-				<castItem><role id='ISMENIE' civil='F' type="H" statut='confident' age='A' stat_amour='néant'>ISMÉNIE</role>, confidente de Mérope.</castItem>
+				<castItem><role id='MÉROPE' sex="2" type="H" statut='roi' age='A' stat_amour='néant'>MÉROPE</role>, veuve de Cresphonte, roi de Messène.</castItem>
+				<castItem><role id='EGISTHE' sex="1" type="H" statut='prince' age='A' stat_amour='néant'>ÉGISTHE</role>, fils de Mérope.</castItem>
+				<castItem><role id='POLYPHONTE' sex="1" type="H" statut='roi' age='A' stat_amour='néant'>POLYPHONTE</role>, tyran de Messène.</castItem>
+				<castItem><role id='NARBAS' sex="1" type="H" statut='confident' age='V' stat_amour='néant'>NARBAS</role>, vieillard.</castItem>
+				<castItem><role id='EURYCLES' sex="1" type="H" statut='confident' age='A' stat_amour='néant'>EURYCLES</role>, favori de Mérope.</castItem>
+				<castItem><role id='EROX' sex="1" type="H" statut='confident' age='A' stat_amour='néant'>ÉROX</role>, favori de Polyphonte.</castItem>
+				<castItem><role id='ISMENIE' sex="2" type="H" statut='confident' age='A' stat_amour='néant'>ISMÉNIE</role>, confidente de Mérope.</castItem>
 			</castList>
 <set location='Messène' country='Grèce' periode='Temps mythologiques' link=''>La scène est à Messène, dans le palais de Mérope.</set>
 </front>

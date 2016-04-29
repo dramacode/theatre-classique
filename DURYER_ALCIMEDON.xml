@@ -7,9 +7,10 @@
 				<author born='1605' born_location='Paris' death='1658' death_location='Paris' academie=''>DU RYER, Pierre</author>
 				<date>1636</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<authority>publié par Ernest FIEVRE, Juin 2008, revu mars 2014.</authority>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragi-comédie</genre>
 				<inspiration>mythe grec</inspiration>
@@ -121,14 +122,14 @@
 	<l id='9'>Med. Posuit.</l>
 </div>
 <castList><head>LES ACTEURS.</head>
-	<castItem><role id="DAPHNE" civil='F' type="H" statut='nymphe' age='A' stat_amour='Alcimédon'>DAPHNÉ</role>, amoureuse d'Alcimédon.</castItem>
-	<castItem><role id="NERINE" civil='F' type="H" statut='confidente' age='A' stat_amour='néant'>NÉRINE</role>, confidente de Scamandre.</castItem>
-	<castItem><role id="SCAMANDRE" civil='M' type="D" statut='dieu' age='A' stat_amour='Daphné'>SCAMANDRE</role>, amoureux de Daphné.</castItem>
-	<castItem><role id="PHILANTE" civil='M' type="H" statut='' age='A' stat_amour='néant'>PHILANTE</role>, ami d'Alcimédon.</castItem>
-	<castItem><role id="RODOPE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>RODOPE</role>, grande dame, veuve amoureuse de Scamandre.</castItem>
-	<castItem><role id="TIRENE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>TIRÈNE</role>, gentilhomme de Rodope.</castItem>
-	<castItem><role id="TRACINE" civil='M' type="H" statut='domestique' age='A' stat_amour='néant'>TRACINE</role>, domestique de Rodope.</castItem>
-	<castItem><role id="GERON" civil='M' type="H" statut='soldat' age='A' stat_amour='néant'>GÉRON</role>, assassin.</castItem>
+	<castItem><role id="DAPHNE" sex="2" type="H" statut='nymphe' age='A' stat_amour='Alcimédon'>DAPHNÉ</role>, amoureuse d'Alcimédon.</castItem>
+	<castItem><role id="NERINE" sex="2" type="H" statut='confidente' age='A' stat_amour='néant'>NÉRINE</role>, confidente de Scamandre.</castItem>
+	<castItem><role id="SCAMANDRE" sex="1" type="D" statut='dieu' age='A' stat_amour='Daphné'>SCAMANDRE</role>, amoureux de Daphné.</castItem>
+	<castItem><role id="PHILANTE" sex="1" type="H" statut='' age='A' stat_amour='néant'>PHILANTE</role>, ami d'Alcimédon.</castItem>
+	<castItem><role id="RODOPE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>RODOPE</role>, grande dame, veuve amoureuse de Scamandre.</castItem>
+	<castItem><role id="TIRENE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>TIRÈNE</role>, gentilhomme de Rodope.</castItem>
+	<castItem><role id="TRACINE" sex="1" type="H" statut='domestique' age='A' stat_amour='néant'>TRACINE</role>, domestique de Rodope.</castItem>
+	<castItem><role id="GERON" sex="1" type="H" statut='soldat' age='A' stat_amour='néant'>GÉRON</role>, assassin.</castItem>
 </castList>
 <set location='Lieu mythologique' country='Pays mythologique' periode='Temps mythologiques' link=''></set>
 </front>

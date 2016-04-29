@@ -6,9 +6,10 @@
 				<title>LES FRAGMENTS DE MOLIÈRE.</title>
 				<author born='1642' born_location='Paris' death='1701' death_location='Paris' academie=''>CHAMPMESLÉ, Charles Chevillet dit</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE juillet 2012</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -42,15 +43,15 @@
 			<premiere date="1674" location='Hôtel de Bourgogne'>Représenté pour la première fois en 1674 à l'Hôtel de Bougogne.</premiere>
 		</performance>
 	<castList><head>ACTEURS.</head>
-			<castItem><role id="LIGNON" civil='M' type="A" statut='fleuve' age='A' stat_amour='néant'>LIGNON</role>.</castItem>
-			<castItem><role id="JOURDAIN" civil='M' type="A" statut='fleuve' age='A' stat_amour='néant'>JOURDAIN</role>.</castItem>
-			<castItem><role id="PIERROT" civil='M' type="H" statut='paysan' age='A' stat_amour='néant'>PIERROT</role>.</castItem>
-			<castItem><role id="CHARLOTTE" civil='F' type="H" statut='paysan' age='A' stat_amour='néant'>CHARLOTTE</role>.</castItem>
-			<castItem><role id="GUSMAN" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>GUSMAN</role>, valet de Don Juan.</castItem>
-			<castItem><role id="LE JUGE" civil='M' type="H" statut='paysan' age='A' stat_amour='néant'>LE JUGE</role>, père de Charlotte.</castItem>
-			<castItem><role id="DON JUAN" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>DON JUAN</role>.</castItem>
-			<castItem><role id="MONSIEUR DIMANCHE" civil='M' type="H" statut='financier' age='A' stat_amour='néant'>MONSIEUR DIMANCHE</role>.</castItem>
-			<castItem><role id="SILVESTRE" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>SILVESTRE</role>.</castItem>
+			<castItem><role id="LIGNON" sex="1" type="P" statut='fleuve' age='A' stat_amour='néant'>LIGNON</role>.</castItem>
+			<castItem><role id="JOURDAIN" sex="1" type="P" statut='fleuve' age='A' stat_amour='néant'>JOURDAIN</role>.</castItem>
+			<castItem><role id="PIERROT" sex="1" type="H" statut='paysan' age='A' stat_amour='néant'>PIERROT</role>.</castItem>
+			<castItem><role id="CHARLOTTE" sex="2" type="H" statut='paysan' age='A' stat_amour='néant'>CHARLOTTE</role>.</castItem>
+			<castItem><role id="GUSMAN" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>GUSMAN</role>, valet de Don Juan.</castItem>
+			<castItem><role id="LE JUGE" sex="1" type="H" statut='paysan' age='A' stat_amour='néant'>LE JUGE</role>, père de Charlotte.</castItem>
+			<castItem><role id="DON JUAN" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>DON JUAN</role>.</castItem>
+			<castItem><role id="MONSIEUR DIMANCHE" sex="1" type="H" statut='financier' age='A' stat_amour='néant'>MONSIEUR DIMANCHE</role>.</castItem>
+			<castItem><role id="SILVESTRE" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>SILVESTRE</role>.</castItem>
 		</castList>
 	<set location="En province" country='France' periode='XVIIème' link=''></set>
 	</front>

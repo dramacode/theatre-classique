@@ -7,9 +7,10 @@
 				<author born='1606' born_location='Rouen' death='1684' death_location='Paris' academie='1647'>CORNEILLE, Pierre</author>
 				<date>1653</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE</p><p>Mai 2006</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire médiévale</inspiration>
@@ -45,13 +46,13 @@
 			<premiere date="1651" location='Hôtel de Bourgogne'>Représenté pour la première fois en 1651 au Théâtre de l'Hôtel de Bourgogne.</premiere>
 		</performance>
 	<castList><head>ACTEURS</head>
-		<castItem><role id="PERTHARITE" civil="M" type="H" statut="roi" age="A" stat_amour='néant'>PERTHARITE</role>, roi des Lombards.</castItem>
-		<castItem><role id="GRIMOALD" civil="M" type="H" statut="comte" age="A" stat_amour='néant'>GRIMOALD</role>, Comte de Bénévent, ayant conquis le royaume des Lombards.</castItem>
-		<castItem><role id="GARIBALDE" civil="M" type="H" statut="duc" age="A" stat_amour='néant'>GARIBALDE</role>, duc de Turin.</castItem>
-		<castItem><role id="UNULPHE" civil="M" type="H" statut="aristocrate" age="A" stat_amour='néant'>UNULPHE</role>, seigneur Lombard.</castItem>
-		<castItem><role id="RODELINDE" civil="F" type="H" statut="roi" age="A" stat_amour='néant'>RODELINDE</role>, femme de Pertharite.</castItem>
-		<castItem><role id="EDVIGE" civil="F" type="H" statut="prince" age="A" stat_amour='néant'>ÉDVIGE</role>, soeur de Pertharite.</castItem>
-		<castItem><role id="SOLDATS" civil="G" type="H" statut="soldat" age="A" stat_amour='néant'>Soldats</role>.</castItem>
+		<castItem><role id="PERTHARITE" sex="1" type="H" statut="roi" age="A" stat_amour='néant'>PERTHARITE</role>, roi des Lombards.</castItem>
+		<castItem><role id="GRIMOALD" sex="1" type="H" statut="comte" age="A" stat_amour='néant'>GRIMOALD</role>, Comte de Bénévent, ayant conquis le royaume des Lombards.</castItem>
+		<castItem><role id="GARIBALDE" sex="1" type="H" statut="duc" age="A" stat_amour='néant'>GARIBALDE</role>, duc de Turin.</castItem>
+		<castItem><role id="UNULPHE" sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>UNULPHE</role>, seigneur Lombard.</castItem>
+		<castItem><role id="RODELINDE" sex="2" type="H" statut="roi" age="A" stat_amour='néant'>RODELINDE</role>, femme de Pertharite.</castItem>
+		<castItem><role id="EDVIGE" sex="2" type="H" statut="prince" age="A" stat_amour='néant'>ÉDVIGE</role>, soeur de Pertharite.</castItem>
+		<castItem><role id="SOLDATS" sex="9" type="H" statut="soldat" age="A" stat_amour='néant'>SOLDATS</role>.</castItem>
 	</castList>
 	<set location='Milan' country='Italie' periode='VIIème' link=''>La scène est à Milan.</set>
 	</front>

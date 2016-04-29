@@ -7,9 +7,10 @@
 				<author born='1694' born_location='Paris' death='1778' death_location='Paris' academie='1746'>VOLTAIRE</author>
 				<date>1759</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<authority>publié par Paul FIEVRE, Juin 2011</authority>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -39,13 +40,13 @@
 			</performance>
 
 <castList><head>ACTEURS</head>
-	<castItem><role id='MONSIEUR DURU' civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>MONSIEUR DURU</role>.</castItem>
-	<castItem><role id='MADAME DURU' civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>MADAME DURU</role>.</castItem>
-	<castItem><role id="LE MARQUIS D'OUTREMONT" civil='M' type="H" statut='marquis' age='A' stat_amour='néant'>LE MARQUIS d'OUTREMONT</role></castItem>
-	<castItem><role id='DAMIS' civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>DAMIS</role>, fils de Monsieur Duru.</castItem>
-	<castItem><role id='ÉRISE' civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>ÉRISE</role>, fille de Monsieur Duru.</castItem>
-	<castItem><role id='MONSIEUR GRIPON' civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>MONSIEUR GRIPON</role>, Correspondant de Monsieur Duru.</castItem>
-	<castItem><role id='MARTHE' civil='F' type="H" statut='suivante' age='A' stat_amour='néant'>MARTHE</role>, suivante de Madame Duru.</castItem>
+	<castItem><role id='MONSIEUR DURU' sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>MONSIEUR DURU</role>.</castItem>
+	<castItem><role id='MADAME DURU' sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>MADAME DURU</role>.</castItem>
+	<castItem><role id="LE MARQUIS D'OUTREMONT" sex="1" type="H" statut='marquis' age='A' stat_amour='néant'>LE MARQUIS d'OUTREMONT</role></castItem>
+	<castItem><role id='DAMIS' sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>DAMIS</role>, fils de Monsieur Duru.</castItem>
+	<castItem><role id='ÉRISE' sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>ÉRISE</role>, fille de Monsieur Duru.</castItem>
+	<castItem><role id='MONSIEUR GRIPON' sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>MONSIEUR GRIPON</role>, Correspondant de Monsieur Duru.</castItem>
+	<castItem><role id='MARTHE' sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>MARTHE</role>, suivante de Madame Duru.</castItem>
 </castList>
 <set location='France' country='France' periode='XVIIIème' link=''>La Scène est chez Madame Duru.</set>
 </front>

@@ -6,9 +6,10 @@
 				<title>SÉMIRAMIS, TRAGÉDIE</title>
 				<author born='1694' born_location='Paris' death='1778' death_location='Paris' academie='1746'>VOLTAIRE</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<authority>publié par Paul FIEVRE, juillet 2013</authority>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire romaine</inspiration>
@@ -174,18 +175,18 @@
 		<p>Enfin, MONSEIGNEUR, c'est uniquement parce que cet ouvrage respire la morale la plus pure, et même la plus sévère, que je le présente à votre éminence. La véritable tragédie est l'école de la vertu ; et la seule différence qui soit entre le théâtre épuré et les livres de morale, c'est que l'instruction se trouve dans la tragédie toute en action, c'est qu'elle y est intéressante, et qu'elle se montre relevée des charmes d'un art qui ne fut inventé autrefois que pour instruire la terre et pour bénir le ciel, et qui, par cette raison, fut appelé le langage des dieux. Vous qui joignez ce grand art à tant d'autres, vous me pardonnez, sans doute, le long détail où je suis entré sur des choses qui n'avaient pas peut-être été encore tout-à-fait éclaircies, et qui le seraient si votre éminence daignait me communiquer ses lumières sur l'antiquité, dont elle a une si profonde connaissance.</p>
 		</div>
 		<castList><head>PERSONNAGES</head>
-			<castItem><role id="SÉMIRAMIS" civil='F' type="H" statut="roi" age="A" stat_amour='néant'>SÉMIRAMIS</role>, reine de Babylone.</castItem>
-			<castItem><role id="ARSACE" civil='M' type="H" statut="prince" age="A" stat_amour='néant'>ARSACE</role>, ou NINIAS, fils de Sémiramis.</castItem>
-			<castItem><role id="AZÉMA" civil='F' type="H" statut="prince" age="A" stat_amour='néant'>AZÉMA</role>, princesse du sang de Bélus.</castItem>
-			<castItem><role id="ASSUR" civil='M' type="H" statut="prince" age="A" stat_amour='néant'>ASSUR</role>, prince du sang de Bélus.</castItem>
-			<castItem><role id="OROÈS" civil='M' type="H" statut="prêtre" age="A" stat_amour='néant'>OROÈS</role>, grand-prêtre.</castItem>
-			<castItem><role id="OTANE" civil='M' type="H" statut="ministre" age="A" stat_amour='néant'>OTANE</role>, ministre attaché à Sémiramis.</castItem>
-			<castItem><role id="MITRANE" civil='M' type="H" statut="confident" age="A" stat_amour='néant'>MITRANE</role>, ami d'Arsace.</castItem>
-			<castItem><role id="CÉDAR" civil='M' type="H" statut="confident" age="A" stat_amour='néant'>CÉDAR</role>, attaché à Assur.</castItem>
-			<castItem><role id="GARDES" civil='G' type="H" statut="garde" age="A" stat_amour='néant'>GARDES</role>.</castItem>
-			<castItem><role id="MAGES" civil='G' type="H" statut="mage" age="A" stat_amour='néant'>MAGES</role>.</castItem>
-			<castItem><role id="ESCLAVES" civil='G' type="H" statut="esclave" age="A" stat_amour='néant'>ESCLAVES</role>.</castItem>
-			<castItem><role id="SUITE" civil='G' type="H" statut="suite" age="A" stat_amour='néant'>SUITE</role>.</castItem>
+			<castItem><role id="SÉMIRAMIS" sex="2" type="H" statut="roi" age="A" stat_amour='néant'>SÉMIRAMIS</role>, reine de Babylone.</castItem>
+			<castItem><role id="ARSACE" sex="1" type="H" statut="prince" age="A" stat_amour='néant'>ARSACE</role>, ou NINIAS, fils de Sémiramis.</castItem>
+			<castItem><role id="AZÉMA" sex="2" type="H" statut="prince" age="A" stat_amour='néant'>AZÉMA</role>, princesse du sang de Bélus.</castItem>
+			<castItem><role id="ASSUR" sex="1" type="H" statut="prince" age="A" stat_amour='néant'>ASSUR</role>, prince du sang de Bélus.</castItem>
+			<castItem><role id="OROÈS" sex="1" type="H" statut="prêtre" age="A" stat_amour='néant'>OROÈS</role>, grand-prêtre.</castItem>
+			<castItem><role id="OTANE" sex="1" type="H" statut="ministre" age="A" stat_amour='néant'>OTANE</role>, ministre attaché à Sémiramis.</castItem>
+			<castItem><role id="MITRANE" sex="1" type="H" statut="confident" age="A" stat_amour='néant'>MITRANE</role>, ami d'Arsace.</castItem>
+			<castItem><role id="CÉDAR" sex="1" type="H" statut="confident" age="A" stat_amour='néant'>CÉDAR</role>, attaché à Assur.</castItem>
+			<castItem><role id="GARDES" sex="9" type="H" statut="garde" age="A" stat_amour='néant'>GARDES</role>.</castItem>
+			<castItem><role id="MAGES" sex="9" type="H" statut="mage" age="A" stat_amour='néant'>MAGES</role>.</castItem>
+			<castItem><role id="ESCLAVES" sex="9" type="H" statut="esclave" age="A" stat_amour='néant'>ESCLAVES</role>.</castItem>
+			<castItem><role id="SUITE" sex="9" type="H" statut="suite" age="A" stat_amour='néant'>SUITE</role>.</castItem>
 </castList>
 <set location='Babylone' country='Irak' periode='IIIème avant JC' link=''>La scène est à Babylone.</set>
 <note>Aucune édition ne met au nombre des personnages L'OMBRE DE NINUS, qui parait dans la scène VI de l'acte III.</note>

@@ -6,9 +6,10 @@
 				<title>LA TOISON D'OR, TRAGÉDIE LYRIQUE, EN QUATRE ACTES ET EN VERS.</title>
 				<author born='1730' born_location='Saint-Domingue' death='1792' death_location='Paris' academie=''>CHABANON, Michel-Paul-Guy de</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, août 2013.</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie lyrique</genre>
 				<inspiration>mythe grec</inspiration>
@@ -73,16 +74,16 @@
 		</div>
 
 		<castList><head>PERSONNAGES</head>
-			<castItem><role id='AETÈS' civil='M' type="H" statut="roi" age="A" stat_amour='néant'>AETÈS</role>, Roi de la Colchide.</castItem>
-			<castItem><role id='MÉDÉE' civil='F' type="H" statut="prince" age="A" stat_amour='néant'>MÉDÉE</role>, sa fille.</castItem>
-			<castItem><role id='JASON' civil='M' type="H" statut="roi" age="A" stat_amour='néant'>JASON</role>.</castItem>
-			<castItem><role id='POLLUX' civil='M' type="H" statut="aristocrate" age="A" stat_amour='néant'>POLLUX</role>, l'un des Argonautes.</castItem>
-			<castItem><role id='IDAMAS' civil='M' type="H" statut="aristocrate" age="A" stat_amour='néant'>IDAMAS</role>, l'un des Argonautes, et ami de Jason.</castItem>
-			<castItem><role id='NÉRINE' civil='F' type="H" statut="confidente" age="A" stat_amour='néant'>NÉRINE</role>, confidente de Médée.</castItem>
-			<castItem><role id='VÉNUS' civil='F' type="D" statut="dieu" age="A" stat_amour='néant'>VÉNUS</role>.</castItem>
-			<castItem><role id="L'AMOUR" civil='M' type="D" statut="dieu" age="A" stat_amour='néant'>L'AMOUR</role>.</castItem>
-			<castItem><role id='LE CHOEUR' civil='G' type="H" statut="choeur" age="A" stat_amour='néant'>Choeur de Grecs</role>.</castItem>
-			<castItem><role id='HABITANTS DE LA COLCHIDE' civil='G' type="H" statut="bourgeois" age="A" stat_amour='néant'>Habïtants de la Colchide</role>.</castItem>
+			<castItem><role id='AETÈS' sex="1" type="H" statut="roi" age="A" stat_amour='néant'>AETÈS</role>, Roi de la Colchide.</castItem>
+			<castItem><role id='MÉDÉE' sex="2" type="H" statut="prince" age="A" stat_amour='néant'>MÉDÉE</role>, sa fille.</castItem>
+			<castItem><role id='JASON' sex="1" type="H" statut="roi" age="A" stat_amour='néant'>JASON</role>.</castItem>
+			<castItem><role id='POLLUX' sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>POLLUX</role>, l'un des Argonautes.</castItem>
+			<castItem><role id='IDAMAS' sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>IDAMAS</role>, l'un des Argonautes, et ami de Jason.</castItem>
+			<castItem><role id='NÉRINE' sex="2" type="H" statut="confidente" age="A" stat_amour='néant'>NÉRINE</role>, confidente de Médée.</castItem>
+			<castItem><role id='VÉNUS' sex="2" type="D" statut="dieu" age="A" stat_amour='néant'>VÉNUS</role>.</castItem>
+			<castItem><role id="L'AMOUR" sex="1" type="D" statut="dieu" age="A" stat_amour='néant'>L'AMOUR</role>.</castItem>
+			<castItem><role id='LE CHOEUR' sex="9" type="H" statut="choeur" age="A" stat_amour='néant'>Choeur de Grecs</role>.</castItem>
+			<castItem><role id='HABITANTS DE LA COLCHIDE' sex="9" type="H" statut="bourgeois" age="A" stat_amour='néant'>Habïtants de la Colchide</role>.</castItem>
 		</castList>
 		<set location='Colchide' country='Grèce' periode='Temps mythologiques' link=''>La Scène est en Colchilde.</set>
 	</front>

@@ -6,9 +6,10 @@
 				<title>TEL MAÎTRE, TEL VALET, PROVERBE.</title>
 				<author born='16??' born_location='' death='1736' death_location='' academie=''>DURANT, Catherine</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE janvier 2014</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Proverbe</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -52,12 +53,12 @@
 		</div>
 		<castList>
 			<head>ACTEURS.</head>
-			<castItem><role id="ÉRASTE" civil='M' type="H" statut='aristocrate' age='V' stat_amour='Isabelle'>ÉRASTE</role>, amoureux d'Isabelle.</castItem>
-			<castItem><role id="ISABELLE" civil='F' type="H" statut='aristocrate' age='V' stat_amour='Eraste'>ISABELLE</role>, maîtresse d'Eraste.</castItem>
-			<castItem><role id="PASQUIN" civil='M' type="H" statut='valet' age='V' stat_amour='Marton'>PASQUIN</role>, valet d'Eraste.</castItem>
-			<castItem><role id="MARTON" civil='F' type="H" statut='suivante' age='V' stat_amour='Pasquin'>MARTON</role>, suivante d'Isabelle.</castItem>
-			<castItem><role id="MONSIEUR DU CONTOIR" civil='M' type="H" statut='marchand' age='V' stat_amour='néant'>MONSIEUR DU CONTOIR</role>, Marchand.</castItem>
-			<castItem><role id="GROS-JEAN" civil='M' type="H" statut='cabaretier' age='V' stat_amour='néant'>GROS-JEAN</role>, Cabaretier.</castItem>
+			<castItem><role id="ÉRASTE" sex="1" type="H" statut='aristocrate' age='V' stat_amour='Isabelle'>ÉRASTE</role>, amoureux d'Isabelle.</castItem>
+			<castItem><role id="ISABELLE" sex="2" type="H" statut='aristocrate' age='V' stat_amour='Eraste'>ISABELLE</role>, maîtresse d'Eraste.</castItem>
+			<castItem><role id="PASQUIN" sex="1" type="H" statut='valet' age='V' stat_amour='Marton'>PASQUIN</role>, valet d'Eraste.</castItem>
+			<castItem><role id="MARTON" sex="2" type="H" statut='suivante' age='V' stat_amour='Pasquin'>MARTON</role>, suivante d'Isabelle.</castItem>
+			<castItem><role id="MONSIEUR DU CONTOIR" sex="1" type="H" statut='marchand' age='V' stat_amour='néant'>MONSIEUR DU CONTOIR</role>, Marchand.</castItem>
+			<castItem><role id="GROS-JEAN" sex="1" type="H" statut='cabaretier' age='V' stat_amour='néant'>GROS-JEAN</role>, Cabaretier.</castItem>
 
 		</castList>
 <set location='Paris' country='France' periode='XVIIIème' link=''></set>

@@ -7,9 +7,10 @@
 				<author born='1621' born_location='Château-Thierry' death='1695' death_location='Paris' academie=''>LA FONTAINE, Jean de</author>
 				<date>1682</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul Fièvre janvier 2009.</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Opéra</genre>
 				<inspiration>mythe grec</inspiration>
@@ -47,13 +48,13 @@
 		</performance>
 <castList>
 	<head>LES ACTEURS.</head>
-	<castItem><role id="GALATÉE" civil='M' type="D" statut='nymphe' age='A' stat_amour='néant'>GALATÉE</role>, nymphe, fille de Nérée.</castItem>
-	<castItem><role id="ACIS" civil='M' type="H" statut='berger' age='A' stat_amour='néant'>ACIS</role>, berger aimé de Galatée.</castItem>
-	<castItem><role id="NEREE" civil='M' type="D" statut='dieu' age='A' stat_amour='néant'>NÉRÉE</role>, père de Galatée.</castItem>
-	<castItem><role id="POLYPHEME" civil='G' type="H" statut='cyclope' age='A' stat_amour='Galtée'>POLYPHÈME</role>, cyclope amoureux de Galatée.</castItem>
-	<castItem><role id="CLYMÈNE" civil='M' type="H" statut='berger' age='A' stat_amour='néant'>CLYMÈNE</role>, bergère et confidente de Galatée.</castItem>
-	<castItem><role id="TIMANDRE" civil='M' type="H" statut='berger' age='A' stat_amour='néant'>TIMANDRE</role>, berger amant de Clymène et confident d'Acis.</castItem>
-	<castItem><role id="CHOEURS" civil='G' type="H" statut='choeur' age='A' stat_amour='néant'>CHOEURS</role>.</castItem>
+	<castItem><role id="GALATÉE" sex="1" type="D" statut='nymphe' age='A' stat_amour='néant'>GALATÉE</role>, nymphe, fille de Nérée.</castItem>
+	<castItem><role id="ACIS" sex="1" type="H" statut='berger' age='A' stat_amour='néant'>ACIS</role>, berger aimé de Galatée.</castItem>
+	<castItem><role id="NEREE" sex="1" type="D" statut='dieu' age='A' stat_amour='néant'>NÉRÉE</role>, père de Galatée.</castItem>
+	<castItem><role id="POLYPHEME" sex="9" type="H" statut='cyclope' age='A' stat_amour='Galtée'>POLYPHÈME</role>, cyclope amoureux de Galatée.</castItem>
+	<castItem><role id="CLYMÈNE" sex="1" type="H" statut='berger' age='A' stat_amour='néant'>CLYMÈNE</role>, bergère et confidente de Galatée.</castItem>
+	<castItem><role id="TIMANDRE" sex="1" type="H" statut='berger' age='A' stat_amour='néant'>TIMANDRE</role>, berger amant de Clymène et confident d'Acis.</castItem>
+	<castItem><role id="CHOEURS" sex="9" type="H" statut='choeur' age='A' stat_amour='néant'>CHOEURS</role>.</castItem>
 </castList>
 <set location='Lieu mythologique' country='Pays mythologique' periode='Temps mythologiques' link=''></set>
 </front>

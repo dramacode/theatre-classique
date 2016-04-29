@@ -6,10 +6,11 @@
 			<title>VIRGINIE, TRAGÉDIE</title>
 			<author born='1656' born_location='Toulouse' death='1713' death_location='Toulouse' academie='1701'>CAMPISTRON, Jean G. de</author>
 		</titleStmt>
-		<publicationStmp>	
+		<publicationStmt>	
 			<editor>Texte établi par Sylvain Garnier pour le Mémoire de master I sous la direction de M. Georges Forestier, U.F.R de Littérature française et comparée, 2007.</editor>
 			<p>publié par Paul FIEVRE</p><p>Août 2007</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Tragédie</genre>
 			<inspiration>histoire romaine</inspiration>
@@ -51,17 +52,17 @@
 </div>
 
 <castList><head>ACTEURS</head>
-	<castItem><role id="APPIUS" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>APPIUS</role>, l'un des Decemvirs de la ville de Rome.</castItem>
-	<castItem><role id="ICILE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='amoureux'>ICILE</role>, chevalier Romain accordé avec Virginie.</castItem>
-	<castItem><role id="CLODIUS" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>CLODIUS</role>, chevalier Romain.</castItem>
-	<castItem><role id="PLAUTIE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>PLAUTIE</role>, mère de Virginie, et femme de Virginius.</castItem>
-	<castItem><role id="VIRGINIE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>VIRGINIE</role>, fille de Virginius, et de Plautie.</castItem>
-	<castItem><role id="CAMILLE" civil='F' type="H" statut='confident' age='A' stat_amour='néant'>CAMILLE</role>, confidente de Virginie.</castItem>
-	<castItem><role id="FULVIE" civil='F' type="H" statut='confident' age='A' stat_amour='néant'>FULVIE</role>, confidente de Plautie.</castItem>
-	<castItem><role id="SEVERE" civil='M' type="H" statut='affranchi' age='A' stat_amour='néant'>SÉVÈRE</role>, affranchi d'Icile.</castItem>
-	<castItem><role id="FABIAN" civil='M' type="H" statut='affranchi' age='A' stat_amour='néant'>FABIAN</role>, affranchi d'Appius.</castItem>
-	<castItem><role id="PISON" civil='M' type="H" statut='capitane' age='A' stat_amour='néant'>PISON</role>, capitaine des Gardes d'Appius.</castItem>
-	<castItem><role id="GARDES" civil='G' type="H" statut='garde' age='A' stat_amour='néant'>Gardes</role>.</castItem>
+	<castItem><role id="APPIUS" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>APPIUS</role>, l'un des Decemvirs de la ville de Rome.</castItem>
+	<castItem><role id="ICILE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='amoureux'>ICILE</role>, chevalier Romain accordé avec Virginie.</castItem>
+	<castItem><role id="CLODIUS" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>CLODIUS</role>, chevalier Romain.</castItem>
+	<castItem><role id="PLAUTIE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>PLAUTIE</role>, mère de Virginie, et femme de Virginius.</castItem>
+	<castItem><role id="VIRGINIE" sex="2" type="H" statut='aristocrate' age='J' stat_amour='néant'>VIRGINIE</role>, fille de Virginius, et de Plautie.</castItem>
+	<castItem><role id="CAMILLE" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>CAMILLE</role>, confidente de Virginie.</castItem>
+	<castItem><role id="FULVIE" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>FULVIE</role>, confidente de Plautie.</castItem>
+	<castItem><role id="SEVERE" sex="1" type="H" statut='affranchi' age='A' stat_amour='néant'>SÉVÈRE</role>, affranchi d'Icile.</castItem>
+	<castItem><role id="FABIAN" sex="1" type="H" statut='affranchi' age='A' stat_amour='néant'>FABIAN</role>, affranchi d'Appius.</castItem>
+	<castItem><role id="PISON" sex="1" type="H" statut='capitane' age='A' stat_amour='néant'>PISON</role>, capitaine des Gardes d'Appius.</castItem>
+	<castItem><role id="GARDES" sex="9" type="H" statut='garde' age='A' stat_amour='néant'>Gardes</role>.</castItem>
 </castList>
 <set location='Rome' country='Italie' periode='Vème avant JC' link=''>La Scène est à Rome dans le Palais d'Appius.</set>
 </front>

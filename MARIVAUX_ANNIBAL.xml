@@ -6,9 +6,10 @@
 			<title>ANNIBAL, TRAGÉDIE.</title>
 			<author born='1688' born_location='Auvergne' death='1763' death_location='Paris' academie='1743'>MARIVAUX</author>
 		</titleStmt>
-		<publicationStmp>	
+		<publicationStmt>	
 			<p>publié par Paul FIEVRE</p><p>Mai 2002</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Tragédie</genre>
 			<inspiration>histoire romaine</inspiration>
@@ -38,14 +39,14 @@
 		</performance>
 
 		<castList><head>ACTEURS.</head>
-			<castItem><role id="ANNIBAL" civil='M'>ANNIBAL</role>.</castItem>
-			<castItem><role id="PRUSIAS" civil='M'>PRUSIAS</role>.</castItem>
-			<castItem><role id="LAODICE" civil='F'>LAODICE</role>, fille de Prusias.</castItem>
-			<castItem><role id="FLAMINIUS" civil='M'>FLAMINIUS</role>, ambassadeur romain.</castItem>
-			<castItem><role id="HIERON" civil='M'>HIÉRON</role>, confident de Prusias.</castItem>
-			<castItem><role id="AMILCAR" civil='M'>AMILCAR</role>, confident d'Annibal.</castItem>
-			<castItem><role id="FLAVIUS" civil='M'>FLAVIUS</role>, confident de Flaminius.</castItem>
-			<castItem><role id="EGINE" civil='F'>EGINE</role>, confidente de Laodice.</castItem>
+			<castItem><role id="ANNIBAL" sex="1">ANNIBAL</role>.</castItem>
+			<castItem><role id="PRUSIAS" sex="1">PRUSIAS</role>.</castItem>
+			<castItem><role id="LAODICE" sex="2">LAODICE</role>, fille de Prusias.</castItem>
+			<castItem><role id="FLAMINIUS" sex="1">FLAMINIUS</role>, ambassadeur romain.</castItem>
+			<castItem><role id="HIERON" sex="1">HIÉRON</role>, confident de Prusias.</castItem>
+			<castItem><role id="AMILCAR" sex="1">AMILCAR</role>, confident d'Annibal.</castItem>
+			<castItem><role id="FLAVIUS" sex="1">FLAVIUS</role>, confident de Flaminius.</castItem>
+			<castItem><role id="EGINE" sex="2">EGINE</role>, confidente de Laodice.</castItem>
 		</castList>
 		<set location='Carthagène' country='Algérie' periode='IIème avant JC' link=''>La scène est dans le palais de Prusias.</set>
 	</front>

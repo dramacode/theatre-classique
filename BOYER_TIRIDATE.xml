@@ -6,9 +6,10 @@
 				<title>TYRIDATE, TRAGÉDIE</title>
 				<author born='1618' born_location='Albi' death='1698' death_location='Paris' academie='1666'>BOYER, Claude</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, Mai 2006, révu déc. 2009</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire romaine</inspiration>
@@ -55,15 +56,15 @@
 	</div>
 <castList>
 <head>ACTEURS</head>
-	<castItem><role id="ARIARATHE" civil='M' type="H" statut='roi' age='A' stat_amour='néant'>ARIARATHE</role>, roi de Cappadoce.</castItem>
-	<castItem><role id="ARIARATHE" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>ARIARATHE</role>, fils supposé du roi, et véritable fils d'Oronte.</castItem>
-	<castItem><role id="ANTHIOCHIDE" civil='F' type="H" statut='roi' age='A' stat_amour='néant'>ANTHIOCHIDE</role>, reine de Cappadoce.</castItem>
-	<castItem><role id="TYRIDATE" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>TYRIDATE</role>, fils unique du roi.</castItem>
-	<castItem><role id="BERENICE" civil='F' type="H" statut='prince' age='A' stat_amour='néant'>BÉRÉNICE</role>, princesse de Bythinie promise à Ariarathe.</castItem>
-	<castItem><role id="EURIDICE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>EURIDICE</role>, fille d'Oronte.</castItem>
-	<castItem><role id="ORONTE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>ORONTE</role>, seigneur de Cappadoce.</castItem>
-	<castItem><role id="ARSINOE" civil='F' type="H" statut='confident' age='A' stat_amour='néant'>ARSINOÉ</role>, confidente de la Reine.</castItem>
-	<castItem><role id="SOLDATS" civil='G' type="H" statut='soldat' age='A' stat_amour='néant'>TROUPE DE SOLDATS</role>.</castItem>
+	<castItem><role id="ARIARATHE" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>ARIARATHE</role>, roi de Cappadoce.</castItem>
+	<castItem><role id="ARIARATHE" sex="1" type="H" statut='prince' age='J' stat_amour='néant'>ARIARATHE</role>, fils supposé du roi, et véritable fils d'Oronte.</castItem>
+	<castItem><role id="ANTHIOCHIDE" sex="2" type="H" statut='roi' age='A' stat_amour='néant'>ANTHIOCHIDE</role>, reine de Cappadoce.</castItem>
+	<castItem><role id="TYRIDATE" sex="1" type="H" statut='prince' age='J' stat_amour='néant'>TYRIDATE</role>, fils unique du roi.</castItem>
+	<castItem><role id="BERENICE" sex="2" type="H" statut='prince' age='A' stat_amour='néant'>BÉRÉNICE</role>, princesse de Bythinie promise à Ariarathe.</castItem>
+	<castItem><role id="EURIDICE" sex="2" type="H" statut='aristocrate' age='J' stat_amour='néant'>EURIDICE</role>, fille d'Oronte.</castItem>
+	<castItem><role id="ORONTE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>ORONTE</role>, seigneur de Cappadoce.</castItem>
+	<castItem><role id="ARSINOE" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>ARSINOÉ</role>, confidente de la Reine.</castItem>
+	<castItem><role id="SOLDATS" sex="9" type="H" statut='soldat' age='A' stat_amour='néant'>TROUPE DE SOLDATS</role>.</castItem>
 </castList>
 <set location='Césarée' country='Israël' periode='IIIème avant JC' link=''>La Scène est à Césarée dans le Palais Royal.</set> 
 </front>

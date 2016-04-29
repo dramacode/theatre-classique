@@ -7,9 +7,10 @@
 				<author born='1664' born_location='Castres' death='1729' death_location='Angleterre' academie='1'>BOYER, Abel</author>
 				<date>1646</date>
 			</titleStmt>
-			<publicationStmp>
+			<publicationStmt>
 				<authority>publié par Paul FIEVRE, octobre 2009</authority>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire romaine</inspiration>
@@ -105,17 +106,17 @@
 </div>
 <castList>
 <head>PERSONNAGES et ACTEURS</head>
-	<castItem><role id='CATON' civil='M' type="H" statut="aristocrate" age="A" stat_amour='néant'>CATON</role>, Chef des Romains échappés de la Bataille de Pharsale.			Mr. Boothe. </castItem>
-	<castItem><role id='LUCIUS' civil='M' type="H" statut="sénateur" age="A" stat_amour='néant'>LUCIUS</role>, sénateur romain 		Mr. Keen. </castItem>
-	<castItem><role id='SEMPRONIUS' civil='M' type="H" statut="sénateur" age="A" stat_amour='néant'>SEMPRONIUS</role>, sénateur romain 		Mr. Mills. </castItem>
-	<castItem><role id='JUBA' civil='M' type="H" statut="prince" age="A" stat_amour='néant'>JUBA</role>, prince de Numidie.			Mr. Wilks. </castItem>
-	<castItem><role id='SYPHAX' civil='M' type="H" statut="général" age="A" stat_amour='néant'>SYPHAX</role>, général des Numides.		Mr. Cibber.</castItem>
-	<castItem><role id='PORTIUS' civil='M' type="H" statut="aristocrate" age="A" stat_amour='néant'>PORTIUS</role>, fils de Caton.				Mr. Powel.</castItem>
-	<castItem><role id='MARCIUS' civil='M' type="H" statut="aristocrate" age="A" stat_amour='néant'>MARCIUS</role>, fils de Caton.				Mr. Rian. </castItem>
-	<castItem><role id='DECIUS' civil='M' type="H" statut="ambassadeur" age="A" stat_amour='néant'>DECIUS</role>, ambassadeur de César. 		Mr. Bowman. </castItem>
-	<castItem><role id='MARCIE' civil='F' type="H" statut="aristocrate" age="A" stat_amour='néant'>MARCIE</role>, fille de Caton.			Me. Oldfield.</castItem>
-	<castItem><role id='LUCIE' civil='F' type="H" statut="aristocrate" age="A" stat_amour='néant'>LUCIE</role>, fille de Lucius. 			Me. Porter. </castItem>
-	<castItem><role id='SOLDATS' civil='G' type="H" statut="soldat" age="A" stat_amour='néant'>Soldats</role> révoltés, Gardes, etc. </castItem>
+	<castItem><role id='CATON' sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>CATON</role>, Chef des Romains échappés de la Bataille de Pharsale.			Mr. Boothe. </castItem>
+	<castItem><role id='LUCIUS' sex="1" type="H" statut="sénateur" age="A" stat_amour='néant'>LUCIUS</role>, sénateur romain 		Mr. Keen. </castItem>
+	<castItem><role id='SEMPRONIUS' sex="1" type="H" statut="sénateur" age="A" stat_amour='néant'>SEMPRONIUS</role>, sénateur romain 		Mr. Mills. </castItem>
+	<castItem><role id='JUBA' sex="1" type="H" statut="prince" age="A" stat_amour='néant'>JUBA</role>, prince de Numidie.			Mr. Wilks. </castItem>
+	<castItem><role id='SYPHAX' sex="1" type="H" statut="général" age="A" stat_amour='néant'>SYPHAX</role>, général des Numides.		Mr. Cibber.</castItem>
+	<castItem><role id='PORTIUS' sex="1" type="H" statut="aristocrate" age="J" stat_amour='néant'>PORTIUS</role>, fils de Caton.				Mr. Powel.</castItem>
+	<castItem><role id='MARCIUS' sex="1" type="H" statut="aristocrate" age="J" stat_amour='néant'>MARCIUS</role>, fils de Caton.				Mr. Rian. </castItem>
+	<castItem><role id='DECIUS' sex="1" type="H" statut="ambassadeur" age="A" stat_amour='néant'>DECIUS</role>, ambassadeur de César. 		Mr. Bowman. </castItem>
+	<castItem><role id='MARCIE' sex="2" type="H" statut="aristocrate" age="J" stat_amour='néant'>MARCIE</role>, fille de Caton.			Me. Oldfield.</castItem>
+	<castItem><role id='LUCIE' sex="2" type="H" statut="aristocrate" age="J" stat_amour='néant'>LUCIE</role>, fille de Lucius. 			Me. Porter. </castItem>
+	<castItem><role id='SOLDATS' sex="9" type="H" statut="soldat" age="A" stat_amour='néant'>Soldats</role> révoltés, Gardes, etc. </castItem>
 </castList>
 <set location='Utique' country='Italie' periode='Ier avant JC' link=''>La Scène est à Utique, dans la grande Salle du Palais du Gouverneur. </set>
 </front>

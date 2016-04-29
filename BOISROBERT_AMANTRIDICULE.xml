@@ -6,10 +6,10 @@
 				<title>L'AMANT RIDICULE, COMÉDIE REPRÉSENTÉE DANS LE BALLET DU ROI</title>
 			<author born="1589" born_location="Caen" death="1662" death_location="Paris" academie="">BOISROBERT, François Le Métel de </author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<publisher>publié par Paul FIEVRE, Mars 2014</publisher>
-				
-			</publicationStmp>
+				<idno>BOIROBERT_AMANTRIDICULE</idno>
+			</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -37,10 +37,10 @@
 			<premiere date="1655-02-04" location="Château du Louvre">Représentée pour la première fois en 4 février 1653 au Château du Louvre.</premiere>
 		</performance>
 		<castList><head>ACTEURS</head>
-			<castItem><role id="LÉANDRE" civil="M" type="H" statut="bourgeois" age="A" stat_amour="">LÉANDRE</role>, amoureux d'Isabelle.</castItem>
-			<castItem><role id="ALONCE" civil="M" type="H" statut="bourgeois" age="A" stat_amour="">ALONCE</role>, cousin de  Léandre.</castItem>
-			<castItem><role id="ISABELLE" civil="M" type="H" statut="bourgeois" age="A" stat_amour="">ISABELLE</role>, amoureuse de Léandre.</castItem>
-			<castItem><role id="LAURE" civil="M" type="H" statut="suivante" age="A" stat_amour="">LAURE</role>, suivante d'Isabelle.</castItem>
+			<castItem><role id="LÉANDRE" sex="1" type="H" statut="bourgeois" age="A" stat_amour="">LÉANDRE</role>, amoureux d'Isabelle.</castItem>
+			<castItem><role id="ALONCE" sex="1" type="H" statut="bourgeois" age="A" stat_amour="">ALONCE</role>, cousin de  Léandre.</castItem>
+			<castItem><role id="ISABELLE" sex="1" type="H" statut="bourgeois" age="A" stat_amour="">ISABELLE</role>, amoureuse de Léandre.</castItem>
+			<castItem><role id="LAURE" sex="1" type="H" statut="suivante" age="A" stat_amour="">LAURE</role>, suivante d'Isabelle.</castItem>
 		</castList>
 <set location="Paris" country="France" periode="XVIIème" link=""></set>
 <note>Ce texte est conforme à la transcription de H. Carrington Lancaster in "Five french Farces 1655-1696?, a critical edition" 1937, pp. 23-33, et elle-même élaborée à partir d'un micro-film de l'exemplaire de la Bibliothèque de l'Arsenal [8-BL. 12644.</note>
@@ -76,7 +76,7 @@
 	<l id="16">Par ma foi vous prenez de trop grandes licences.</l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
-	<l id="17">Hélas ! Ce n'était rien que opur prendre le frais</l>
+	<l id="17">Hélas ! Ce n'était rien que pour prendre le frais</l>
 	<l id="18" part='i'>Que je suis descendue.</l>
 </sp>
 <sp who='LAURE'><speaker>LAURE.</speaker>
@@ -174,7 +174,7 @@
 	<l id="68">J'ai les yeux tout battis après deux longues veilles,</l>
 	<l id="69">ERt crains de na pouvoir avec ces yeux hagards,</l>
 	<l id="70">Devant mon Isabelle adoucir mes regards.</l>
-	<l id="71">D'où sors-tu chère laure, et que fait ta maîtresse ?</l>
+	<l id="71">D'où sors-tu chère Laure, et que fait ta maîtresse ?</l>
 	<l id="72">Ne la verrons nous point cette aimable tigresse ?</l>
 	<l id="73" part='i'>Son tuteur est-il là ?</l>
 </sp>

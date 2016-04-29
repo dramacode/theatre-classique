@@ -7,9 +7,10 @@
 			<author born='1622' born_location='Paris' death='1673' death_location='Paris' academie=''>MOLIERE</author>
 			
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, Avril 2009</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Farce</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -42,13 +43,13 @@
 			<premiere date="1660-10-01" location='Théâtre du Petit-Bourbon'>Représentée pour le première fois à Paris le 1 octobre 1660 au Théâtre du Petit-Bourbon.</premiere>
 		</performance>
 	<castList><head>ACTEURS</head>
-	<castItem><role id="VALERE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='amoureux'>VALÈRE</role>, amant de Lucile.</castItem>
-	<castItem><role id="SABINE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>SABINE</role>, cousine de Lucile.</castItem>
-	<castItem><role id="SGANARELLE" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>SGANARELLE</role>, valet de Valère.</castItem>
-	<castItem><role id="GORGIBUS" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>GORGIBUS</role>, père de Lucile.</castItem>
-	<castItem><role id="GROS-RENE" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>GROS-RENÉ</role>, valet de Gorgibus.</castItem>
-	<castItem><role id="LUCILE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='amoureux'>LUCILE</role>, fille de Gorgibus.</castItem>
-	<castItem><role id="AVOCAT" civil='M' type="H" statut='avocat' age='A' stat_amour='néant'>UN AVOCAT</role>.</castItem>
+	<castItem><role id="VALERE" sex="1" type="H" statut='bourgeois' age='J' stat_amour='Lucile'>VALÈRE</role>, amant de Lucile.</castItem>
+	<castItem><role id="SABINE" sex="2" type="H" statut='bourgeois' age='J' stat_amour='néant'>SABINE</role>, cousine de Lucile.</castItem>
+	<castItem><role id="SGANARELLE" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>SGANARELLE</role>, valet de Valère.</castItem>
+	<castItem><role id="GORGIBUS" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>GORGIBUS</role>, père de Lucile.</castItem>
+	<castItem><role id="GROS-RENE" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>GROS-RENÉ</role>, valet de Gorgibus.</castItem>
+	<castItem><role id="LUCILE" sex="2" type="H" statut='bourgeois' age='J' stat_amour='amoureux'>LUCILE</role>, fille de Gorgibus.</castItem>
+	<castItem><role id="AVOCAT" sex="1" type="H" statut='avocat' age='A' stat_amour='néant'>UN AVOCAT</role>.</castItem>
 	</castList>
 		<set location='(non indiqué)' country='France' periode='XVIIème' link=''></set>
 		<note>Ce texte n'a pas été imprimé au XVIIème siècle. Il est disponible à la Bibliothèque Mazarine sous forme manuscrite sous la cote Ms 3937, joint avec La Jalousie du Barbouillé du même auteur. Le communication du document est soumis à autorisation. </note>

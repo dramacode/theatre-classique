@@ -6,9 +6,10 @@
 				<title>PRADON, SIFFLE, BATTU ET CONTENT, COMÉDIE ANECDOTE, EN UN ACTE ET EN VAUDEVILLES.</title>
 				<author born='' born_location='' death='' death_location='' academie=''>JAQUELIN et PHILIDOR</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, novembre 2013</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>histoire française</inspiration>
@@ -53,11 +54,11 @@
 			<p type="vers">Pour être sifflé de nouveau.</p>
 		</div>			
 		<castList><head>PERSONNAGES</head>
-			<castItem><role id='PRADON' civil='M' type="H" statut='auteur' age='A' stat_amour='néant'>PRADON</role>, Auteur du siècle de Louis XIV.</castItem>
-			<castItem><role id='ANGELINE' civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>ANGELINE</role>, sa fille.</castItem>
-			<castItem><role id='VALCOUR' civil='M' type="H" statut='officier' age='A' stat_amour='néant'>VALCOUR</role>, jeune Officier, amant d'Angéline.</castItem>
-			<castItem><role id='DUTREMBLET' civil='M' type="H" statut='militaire' age='V' stat_amour='néant'>DUTREMBLET</role>, vieux Militaire, ami de la maison.</castItem>
-			<castItem><role id='CHAPELAIN' civil='M' type="H" statut='auteur' age='A' stat_amour='néant'>CHAPELAIN</role>, vieux Auteur, avare. Caricature.</castItem>
+			<castItem><role id='PRADON' sex="1" type="H" statut='auteur' age='A' stat_amour='néant'>PRADON</role>, Auteur du siècle de Louis XIV.</castItem>
+			<castItem><role id='ANGELINE' sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>ANGELINE</role>, sa fille.</castItem>
+			<castItem><role id='VALCOUR' sex="1" type="H" statut='officier' age='A' stat_amour='néant'>VALCOUR</role>, jeune Officier, amant d'Angéline.</castItem>
+			<castItem><role id='DUTREMBLET' sex="1" type="H" statut='militaire' age='V' stat_amour='néant'>DUTREMBLET</role>, vieux Militaire, ami de la maison.</castItem>
+			<castItem><role id='CHAPELAIN' sex="1" type="H" statut='auteur' age='A' stat_amour='néant'>CHAPELAIN</role>, vieux Auteur, avare. Caricature.</castItem>
 		</castList>
 		<set location='Paris' country='France' periode='XVIIème' link=''>Le Théâtre représente la chambre dite de Molière.</set>
 	</front>

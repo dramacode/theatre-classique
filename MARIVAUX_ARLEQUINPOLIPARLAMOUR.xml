@@ -6,9 +6,10 @@
 			<title>ARLEQUIN POLI PAR L'AMOUR, COMÉDIE</title>
 			<author born='1688' born_location='Auvergne' death='1763' death_location='Paris' academie='1743'>MARIVAUX</author>
 		</titleStmt>
-		<publicationStmp>
+		<publicationStmt>
 			<p>publié par Paul FIEVRE, mai 2009</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Comédie</genre>
 			<inspiration>moeurs françaises</inspiration>
@@ -49,14 +50,14 @@
 			<premiere date='1720-10-17' location='Hôtel de Bourgogne'>Représentée pour la première fois par les Comédiens-Italiens, le 17 octobre 1720, à l'Hôtel de Bourgogne.</premiere>
 		</performance>
 	<castList><head>ACTEURS DE LA COMÉDIE</head>
-		<castItem><role id="LA FÉE" civil="F" type="H" statut='fée' age='A' stat_amour='néant'>LA FÉE.</role>.</castItem>
-		<castItem><role id="TRIVELIN" civil="M" type="H" statut='domestique' age='A' stat_amour='néant'>TRIVELIN</role>, domestique de la Fée.</castItem>
-		<castItem><role id="ARLEQUIN" civil="M" type="H" statut='bourgeois' age='A' stat_amour='néant'>ARLEQUIN</role>, jeune homme enlevé par la Fée.</castItem>
-		<castItem><role id="SILVIA" civil="F" type="H" statut='berger' age='A' stat_amour='néant'>SILVIA</role>, bergère, amante d'Arlequin.</castItem>
-		<castItem><role id="BERGER" civil="M" type="H" statut='berger' age='A' stat_amour='Silvia'>UN BERGER</role>, amoureux de Silvia.</castItem>
-		<castItem><role id="BERGERE" civil="F" type="H" statut='berger' age='A' stat_amour='néant'>AUTRE BERGÈRE</role>, cousine de Silvia.</castItem>
-		<castItem><role id="DANSEURS ET CHANTEURS" civil="G" type="H" statut='danseur' age='A' stat_amour='néant'>TROUPE DE DANSEURS ET CHANTEURS</role>.</castItem>
-		<castItem><role id="TROUPE DE LUTINS" civil="G" type="H" statut='lutin' age='A' stat_amour='néant'>TROUPE DE LUTINS</role>.</castItem>
+		<castItem><role id="LA FÉE" sex="2" type="H" statut='fée' age='A' stat_amour='néant'>LA FÉE.</role>.</castItem>
+		<castItem><role id="TRIVELIN" sex="1" type="H" statut='domestique' age='A' stat_amour='néant'>TRIVELIN</role>, domestique de la Fée.</castItem>
+		<castItem><role id="ARLEQUIN" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>ARLEQUIN</role>, jeune homme enlevé par la Fée.</castItem>
+		<castItem><role id="SILVIA" sex="2" type="H" statut='berger' age='A' stat_amour='néant'>SILVIA</role>, bergère, amante d'Arlequin.</castItem>
+		<castItem><role id="BERGER" sex="1" type="H" statut='berger' age='A' stat_amour='Silvia'>UN BERGER</role>, amoureux de Silvia.</castItem>
+		<castItem><role id="BERGERE" sex="2" type="H" statut='berger' age='A' stat_amour='néant'>AUTRE BERGÈRE</role>, cousine de Silvia.</castItem>
+		<castItem><role id="DANSEURS ET CHANTEURS" sex="9" type="H" statut='danseur' age='A' stat_amour='néant'>TROUPE DE DANSEURS ET CHANTEURS</role>.</castItem>
+		<castItem><role id="TROUPE DE LUTINS" sex="9" type="H" statut='lutin' age='A' stat_amour='néant'>TROUPE DE LUTINS</role>.</castItem>
        </castList>
 <set location='Lieu féerique' country='(non indiqué)' periode='Temps féeriques' link=''>Le jardin de la Fée est représenté.</set>
 </front> 

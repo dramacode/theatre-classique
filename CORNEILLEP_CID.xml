@@ -6,9 +6,10 @@
 				<title>LE CID, TRAGÉDIE</title>
 				<author born='1606' born_location='Rouen' death='1684' death_location='Paris' academie='1647'>CORNEILLE, Pierre</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE</p><p>Mai 2006</p>
-			</publicationStmp>
+				<idno>CORNEILLEP_CID</idno>
+			</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire espagnole</inspiration>
@@ -17,10 +18,9 @@
 				<periode>1681-1690</periode>
 				<taille>1750-2000</taille>
 				<permalien>http://gallica.bnf.fr/ark:/12148/bpt6k70143z</permalien>
-				<sources>
-					<source id='1'><author></author><text></text></source>
-				</sources>	
-
+				<liens>
+					<lien type='auteur cité'>Aristote</lien>
+				</liens>	
 			</SourceDesc>
 		</fileDesc>
 	</teiHeader>
@@ -66,18 +66,18 @@
 <p>C'est sur quoi je me suis fondé pour faire voir le soufflet que reçoit Don Diègue, et cacher aux yeux la mort du comte, afin d'acquérir et conserver à mon premier acteur l'amitié des auditeurs, si nécessaire pour réussir au théâtre. L'indignité d'un affront fait à un vieillard, chargé d'années et de victoires, les jette aisément dans le parti de l'offensé; et cette mort, qu'on vient dire au roi tout simplement sans aucune narration touchante, n'excite point en eux la commisération qu'y eût fait naître le spectacle de son sang, et ne leur donne aucune aversion pour ce malheureux amant, qu'ils ont vu forcé par ce qu'il devait à son honneur d'en venir à cette extrémité, malgré l'intérêt et la tendresse de son amour.</p>
 </div>
 		<castList><head>ACTEURS</head>
-			<castItem><role id="DON FERNAND" civil='M' type="H" statut='roi' age='A' stat_amour='néant'>DON FERNAND</role>, premier roi de Castille. </castItem>
-			<castItem><role id="L'INFANTE" civil='F' type="H" statut='infante' age='A' stat_amour='rodrigue'>DONNE URRAQUE </role>, infante de Castille. </castItem>
-			<castItem><role id="DON DIEGUE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>DON DIÈGUE</role>, père de Don Rodrigue. </castItem>
-			<castItem><role id="LE COMTE" civil='M' type="H" statut='comte' age='A' stat_amour='néant'>DON GOMES</role>, comte de Gormas, père de Chimène. </castItem>
-			<castItem><role id="DON RODRIGUE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='chimène'>DON RODRIGUE</role>amant de Chimène. </castItem>
-			<castItem><role id="DON SANCHE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='chimène'>DON SANCHE</role>, amoureux de Chimène. </castItem>
-			<castItem><role id="DON ARIAS" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>DON ARIAS</role>, gentilhomme castillan. </castItem>
-			<castItem><role id="DON ALONSE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>DON ALONSE</role>, gentilhomme castillan. </castItem>
-			<castItem><role id="CHIMÈNE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>CHIMÈNE</role>, fille de Don Gomès. </castItem>
-			<castItem><role id="LÉONOR" civil='F' type="H" statut='gouvernante' age='A' stat_amour='néant'>LÉONOR</role>, gouvernante de l'Infante. </castItem>
-			<castItem><role id="ELVIRE" civil='F' type="H" statut='gouvernante' age='A' stat_amour='néant'>ELVIRE</role>, gouvernante de Chimène. </castItem>
-			<castItem><role id="UN PAGE" civil='M' type="H" statut='page' age='A' stat_amour='néant'>Un Page</role>de l'Infante.</castItem>
+			<castItem><role id="DON FERNAND" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>DON FERNAND</role>, premier roi de Castille. </castItem>
+			<castItem><role id="L'INFANTE" sex="2" type="H" statut='infante' age='J' stat_amour='rodrigue'>DONNE URRAQUE </role>, infante de Castille. </castItem>
+			<castItem><role id="DON DIEGUE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>DON DIÈGUE</role>, père de Don Rodrigue. </castItem>
+			<castItem><role id="LE COMTE" sex="1" type="H" statut='comte' age='A' stat_amour='néant'>DON GOMES</role>, comte de Gormas, père de Chimène. </castItem>
+			<castItem><role id="DON RODRIGUE" sex="1" type="H" statut='aristocrate' age='J' stat_amour='chimène'>DON RODRIGUE</role>amant de Chimène. </castItem>
+			<castItem><role id="DON SANCHE" sex="1" type="H" statut='aristocrate' age='J' stat_amour='chimène'>DON SANCHE</role>, amoureux de Chimène. </castItem>
+			<castItem><role id="DON ARIAS" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>DON ARIAS</role>, gentilhomme castillan. </castItem>
+			<castItem><role id="DON ALONSE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>DON ALONSE</role>, gentilhomme castillan. </castItem>
+			<castItem><role id="CHIMÈNE" sex="2" type="H" statut='aristocrate' age='J' stat_amour='néant'>CHIMÈNE</role>, fille de Don Gomès. </castItem>
+			<castItem><role id="LÉONOR" sex="2" type="H" statut='gouvernante' age='A' stat_amour='néant'>LÉONOR</role>, gouvernante de l'Infante. </castItem>
+			<castItem><role id="ELVIRE" sex="2" type="H" statut='gouvernante' age='A' stat_amour='néant'>ELVIRE</role>, gouvernante de Chimène. </castItem>
+			<castItem><role id="UN PAGE" sex="1" type="H" statut='page' age='A' stat_amour='néant'>Un Page</role>de l'Infante.</castItem>
 		</castList>
 	<set location='Séville' country='Espagne' periode='XIème' link=''>La scène est à Séville.</set>
 	<note>Le texte est conforme  à l'édition se situant dans les "Oeuvres complètes de P. Corneille" revue et annotée par J. Taschereau, Paris : P. Jannet, 1857. Tome 2, pp 145-222.</note>
@@ -2773,7 +2773,7 @@
 	<l id="1783">Faut-il combattre encor mille et mille rivaux,</l>
 	<l id="1784">Aux deux bouts de la terre étendre mes travaux,</l>
 	<l id="1785">Forcer moi seul un camp, mettre en fuite une armée,</l>
-	<l id="1786">Des héros fabuleux passer la renommée ?</l>
+	<l id="1786">Des héros fabuleux passer la Renommée ?</l>
 	<l id="1787">Si mon crime par là se peut enfin laver,</l>
 	<l id="1788">J'ose tout entreprendre, et puis tout achever ;</l>
 	<l id="1789">Mais si ce fier honneur, toujours inexorable,</l>
@@ -2829,7 +2829,7 @@
 <sp who="DON RODRIGUE"><speaker>DON RODRIGUE.</speaker>
 	<l id="1833">Pour posséder Chimène, et pour votre service,</l>
 	<l id="1834">Que peut-on m'ordonner que mon bras n'accomplisse ?</l>
-	<l id="1835">Quoi qu'absent de ses yeux il me faille endurer,</l>
+	<l id="1835">Quoiqu'absent de ses yeux il me faille endurer,</l>
 	<l id="1836">Sire, ce m'est trop d'heur de pouvoir espérer.</l>
 </sp>
 <sp who="DON FERNAND"><speaker>DON FERNAND.</speaker>

@@ -6,10 +6,11 @@
 			<title>LA CONFIANCE DES COCUS, FARCE EN UN ACTE.</title>
 			<author born='1683' born_location='Paris' death='1766' death_location='Charenton' academie=''>GUEULLETTE, Thomas-Simon</author>
 		</titleStmt>
-		<publicationStmp>
+		<publicationStmt>
 			<editor>Saisie du texte : S. Pestel pour la collection électronique de la Bibliothèque Municipale de Lisieux (30.VII.1998), Texte relu par : A. Guézou.</editor>
 			<publisher>publié par Paul FIEVRE novembre 2013</publisher>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Parade</genre>
 			<inspiration>moeurs françaises</inspiration>
@@ -41,11 +42,11 @@
 		<premiere date='1720' location='En société'>Représentée pour la première fois en société en 1720.</premiere>
 	</performance>
 	<castList><head>PERSONNAGES</head>
-		<castItem><role id="CASSANDRE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>CASSANDRE</role>.</castItem>
-		<castItem><role id="ISABELLE" civil='F' type="H" statut='valet' age='A' stat_amour='néant'>ISABELLE</role>, son valet.</castItem>
-		<castItem><role id="CASSECROUTE" civil='M' type="H" statut='filou' age='A' stat_amour='néant'>CASSECROUTE</role>.</castItem>
-		<castItem><role id="PICOTIN" civil='M' type="H" statut='filou' age='A' stat_amour='néant'>PICOTIN</role>.</castItem>
-		<castItem><role id="GILLES" civil='M' type="H" statut='filou' age='A' stat_amour='néant'>GILLES</role>.</castItem>
+		<castItem><role id="CASSANDRE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>CASSANDRE</role>.</castItem>
+		<castItem><role id="ISABELLE" sex="2" type="H" statut='valet' age='A' stat_amour='néant'>ISABELLE</role>, son valet.</castItem>
+		<castItem><role id="CASSECROUTE" sex="1" type="H" statut='filou' age='A' stat_amour='néant'>CASSECROUTE</role>.</castItem>
+		<castItem><role id="PICOTIN" sex="1" type="H" statut='filou' age='A' stat_amour='néant'>PICOTIN</role>.</castItem>
+		<castItem><role id="GILLES" sex="1" type="H" statut='filou' age='A' stat_amour='néant'>GILLES</role>.</castItem>
 		</castList>
 	<set location='Paris' country='France' periode='XVIIIème' link=''>.</set>
 </front>

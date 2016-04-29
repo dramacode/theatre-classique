@@ -6,9 +6,10 @@
 				<title>CENDRILLON, OPÉRA-COMIQUE.</title>
 				<author born='1721' born_location='Paris' death='1784' death_location='Paris' academie=''>ANSEAUME, Louis</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<publisher>publié par Paul FIEVRE, janvier 2015</publisher>
-			</publicationStmp>	
+			<idno></idno>
+</publicationStmt>	
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -40,15 +41,15 @@
 				<premiere date='1759-02-20' location='Foire Saint-Germain'>Représentée pour la première fois à la Foire Saint-Germain, le 20 Février 1759.</premiere>
 			</performance>
 	<castList><head>ACTEURS</head>
-		<castItem><role id='CENDRILLON' civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>CENDRILLON</role>, Mlle Villemont.</castItem>
-		<castItem><role id='LA MARAINE' civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>LA MARAINE</role>, Mlle Constantin.</castItem>
-		<castItem><role id='LA SOEUR AINÉE' civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>LA SOEUR AINÉE</role>, Mlle Vincent.</castItem>
-		<castItem><role id='LA SOEUR CADETTE' civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>LA SOEUR CADETTE</role>, Mlle Deschamps.</castItem>
-		<castItem><role id='AZOR' civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>AZOR</role>, M. La Ruette.</castItem>
-		<castItem><role id='PIERROT' civil='M' type="H" statut='serviteur' age='A' stat_amour='néant'>PIERROT</role>, M. Paran.</castItem>
-		<castItem><role id='UN OFFICIER' civil='M' type="H" statut='officier' age='A' stat_amour='néant'>UN OFFICIER</role>, M. Delisle.</castItem>
-		<castItem><role id='UN SUISSE' civil='M' type="H" statut='suisse' age='A' stat_amour='néant'>UN SUISSE</role>, M. Moreau.</castItem>
-		<castItem><role id='CHOEUR DES FEMMMES' civil='F' type="H" statut='choeur' age='A' stat_amour='néant'>CHOEUR DES FEMMMES</role>.</castItem>
+		<castItem><role id='CENDRILLON' sex="2" type="H" statut='bourgeois' age='J' stat_amour='néant'>CENDRILLON</role>, Mlle Villemont.</castItem>
+		<castItem><role id='LA MARAINE' sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>LA MARAINE</role>, Mlle Constantin.</castItem>
+		<castItem><role id='LA SOEUR AINÉE' sex="2" type="H" statut='bourgeois' age='J' stat_amour='néant'>LA SOEUR AINÉE</role>, Mlle Vincent.</castItem>
+		<castItem><role id='LA SOEUR CADETTE' sex="2" type="H" statut='bourgeois' age='J' stat_amour='néant'>LA SOEUR CADETTE</role>, Mlle Deschamps.</castItem>
+		<castItem><role id='AZOR' sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>AZOR</role>, M. La Ruette.</castItem>
+		<castItem><role id='PIERROT' sex="1" type="H" statut='serviteur' age='A' stat_amour='néant'>PIERROT</role>, M. Paran.</castItem>
+		<castItem><role id='UN OFFICIER' sex="1" type="H" statut='officier' age='A' stat_amour='néant'>UN OFFICIER</role>, M. Delisle.</castItem>
+		<castItem><role id='UN SUISSE' sex="1" type="H" statut='suisse' age='A' stat_amour='néant'>UN SUISSE</role>, M. Moreau.</castItem>
+		<castItem><role id='CHOEUR DES FEMMMES' sex="2" type="H" statut='choeur' age='A' stat_amour='néant'>CHOEUR DES FEMMMES</role>.</castItem>
 	</castList>
 	<set location='Lieu féérique' country='Pays féérique' periode='Temps féériques' link=''>La Scène est dans la maison de Cendrillon et ensuite dans le Palais d'Azor.</set>
 </front>

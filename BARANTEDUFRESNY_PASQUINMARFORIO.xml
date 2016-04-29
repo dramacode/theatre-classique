@@ -6,9 +6,10 @@
 			<title>PASQUIN ET MARFORIO. MÉDECINS DES MOEURS. COMÉDIE EN TROIS ACTES.</title>
 			<author>BARANTE et DUFESNY</author>
 		</titleStmt>
-		<publicationStmp>
+		<publicationStmt>
 			<p>publié par Paul FIEVRE, décembre 2011</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Comédie</genre>
 			<inspiration>moeurs françaises</inspiration>
@@ -40,21 +41,21 @@
 		</performance>
 
 	<castList><head>ACTEURS</head>
-		<castItem><role id="LE-DOCTEUR" civil="M" type="H" statut='docteur' age='A' stat_amour='néant'>LE DOCTEUR</role>.</castItem>
-		<castItem><role id="ANGÉLIQUE" civil="F" type="H" statut='bourgeois' age='J' stat_amour='néant'>ANGÉLIQUE</role>, fille du Docteur.</castItem>
-		<castItem><role id="JULIE" civil="F" type="H" statut='bourgeois' age='J' stat_amour='néant'>JULIE</role>, fille du Docteur.</castItem>
-		<castItem><role id="LÉONOR" civil="F" type="H" statut='bourgeois' age='A' stat_amour='néant'>LÉONOR</role>, nièce du Docteur.</castItem>
-		<castItem><role id="LÉANDRE" civil="M" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>LÉANDRE</role>, amant de Julie.</castItem>
-		<castItem><role id="OCTAVE" civil="M" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>OCTAVE</role>, amant d'Angélique.</castItem>
-		<castItem><role id="SCARAMOUCHE" civil="M" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>SCARAMOUCHE</role>, valet d'Octave.</castItem>
-		<castItem><role id="PIERROT" civil="M" type="H" statut='valet' age='A' stat_amour='néant'>PIERROT</role>, valet du Docteur.</castItem>
-		<castItem><role id="PASQUIN" civil="M" type="H" statut='(sans)' age='A' stat_amour='néant'>PASQUIN</role>, Arlequin.</castItem>
-		<castItem><role id="MARFORIO" civil="M" type="H" statut='(sans)' age='A' stat_amour='néant'>MARFORIO</role>, Mezzetin. </castItem>
-		<castItem><role id="LA-VÉRITÉ" civil="F" type="A" statut='(sans)' age='A' stat_amour='néant'>LA VÉRITÉ</role>.</castItem>
-		<castItem><role id="LA-MÉDISANCE" civil="F" type="A" statut='(sans)' age='A' stat_amour='néant'>LA MÉDISANCE</role>.</castItem>
-		<castItem><role id="UN-CUISINIER" civil="M" type="H" statut='cuisinier' age='A' stat_amour='néant'>UN CUISINIER</role>.</castItem>
-		<castItem><role id="UN-JALOUX" civil="M" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>UN JALOUX</role>.</castItem>
-		<castItem><role id="UNE-IMPATIENTE" civil="F" type="H" statut='bourgeois' age='A' stat_amour='néant'>UNE IMPATIENTE</role>.</castItem>
+		<castItem><role id="LE-DOCTEUR" sex="1" type="H" statut='docteur' age='A' stat_amour='néant'>LE DOCTEUR</role>.</castItem>
+		<castItem><role id="ANGÉLIQUE" sex="2" type="H" statut='bourgeois' age="J" stat_amour='néant'>ANGÉLIQUE</role>, fille du Docteur.</castItem>
+		<castItem><role id="JULIE" sex="2" type="H" statut='bourgeois' age="J" stat_amour='néant'>JULIE</role>, fille du Docteur.</castItem>
+		<castItem><role id="LÉONOR" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>LÉONOR</role>, nièce du Docteur.</castItem>
+		<castItem><role id="LÉANDRE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>LÉANDRE</role>, amant de Julie.</castItem>
+		<castItem><role id="OCTAVE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>OCTAVE</role>, amant d'Angélique.</castItem>
+		<castItem><role id="SCARAMOUCHE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>SCARAMOUCHE</role>, valet d'Octave.</castItem>
+		<castItem><role id="PIERROT" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>PIERROT</role>, valet du Docteur.</castItem>
+		<castItem><role id="PASQUIN" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>PASQUIN</role>, Arlequin.</castItem>
+		<castItem><role id="MARFORIO" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>MARFORIO</role>, Mezzetin. </castItem>
+		<castItem><role id="LA-VÉRITÉ" sex="2" type="P" statut='qualité' age='A' stat_amour='néant'>LA VÉRITÉ</role>.</castItem>
+		<castItem><role id="LA-MÉDISANCE" sex="2" type="P" statut='qualité' age='A' stat_amour='néant'>LA MÉDISANCE</role>.</castItem>
+		<castItem><role id="UN-CUISINIER" sex="1" type="H" statut='cuisinier' age='A' stat_amour='néant'>UN CUISINIER</role>.</castItem>
+		<castItem><role id="UN-JALOUX" sex="1" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>UN JALOUX</role>.</castItem>
+		<castItem><role id="UNE-IMPATIENTE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>UNE IMPATIENTE</role>.</castItem>
     </castList>
 	<set location='Paris' country='France' periode='XVIIème' link=''>La scène est à Paris. </set>
 </front>

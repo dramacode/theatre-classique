@@ -6,9 +6,10 @@
 				<title>MÉDÉE, TRAGÉDIE</title>
 				<author born='1606' born_location='Rouen' death='1684' death_location='Paris' academie='1647'>CORNEILLE, Pierre</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, juillet 2015</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>mythe grec</inspiration>
@@ -51,16 +52,16 @@
 			<premiere date="1635" location='Théâtre du Marais'>Représenté pour la première fois en 1635 au Théâtre du Marais.</premiere>
 		</performance>
 		<castList><head>ACTEURS</head>
-			<castItem><role id="CRÉON" civil='M' type="H" statut='roi' age='A' stat_amour='néant'>CRÉON</role>, roi de Corinthe.</castItem>
-			<castItem><role id="AEGÉE" civil='M' type="H" statut='roi' age='A' stat_amour='néant'>AEGÉE</role>, roi d'Athènes.</castItem>
-			<castItem><role id="JASON" civil='M' type="H" statut='roi' age='A' stat_amour='néant'>JASON</role>, mari de Médée.</castItem>
-			<castItem><role id="POLLUX" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>POLLUX</role>, Argonaute, ami de Jason.</castItem>
-			<castItem><role id="CRÉUSE" civil='F' type="H" statut='prince' age='A' stat_amour='néant'>CRÉUSE</role>, fille de Créon.</castItem>
-			<castItem><role id="MÉDÉE" civil='F' type="H" statut='roi' age='A' stat_amour='néant'>MÉDÉE</role>, femme de Jason.</castItem>
-			<castItem><role id="CLÉONE" civil='F' type="H" statut='gouvernante' age='A' stat_amour='néant'>CLÉONE</role>, gouvernante de Créuse.</castItem>
-			<castItem><role id="NÉRINE" civil='F' type="H" statut='suivante' age='A' stat_amour='néant'>NÉRINE</role>, suivante de Médée.</castItem>
-			<castItem><role id="THEUDAS" civil='M' type="H" statut='domestique' age='A' stat_amour='néant'>THEUDAS</role>, domestique de Créon.</castItem>
-			<castItem><role id="GARDES" civil='G' type="H" statut='garde' age='A' stat_amour='néant'>TROUPES, des Gardes de Créon</role>.</castItem>
+			<castItem><role id="CRÉON" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>CRÉON</role>, roi de Corinthe.</castItem>
+			<castItem><role id="AEGÉE" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>AEGÉE</role>, roi d'Athènes.</castItem>
+			<castItem><role id="JASON" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>JASON</role>, mari de Médée.</castItem>
+			<castItem><role id="POLLUX" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>POLLUX</role>, Argonaute, ami de Jason.</castItem>
+			<castItem><role id="CRÉUSE" sex="2" type="H" statut='prince' age='J' stat_amour='néant'>CRÉUSE</role>, fille de Créon.</castItem>
+			<castItem><role id="MÉDÉE" sex="2" type="H" statut='roi' age='A' stat_amour='néant'>MÉDÉE</role>, femme de Jason.</castItem>
+			<castItem><role id="CLÉONE" sex="2" type="H" statut='gouvernante' age='A' stat_amour='néant'>CLÉONE</role>, gouvernante de Créuse.</castItem>
+			<castItem><role id="NÉRINE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>NÉRINE</role>, suivante de Médée.</castItem>
+			<castItem><role id="THEUDAS" sex="1" type="H" statut='domestique' age='A' stat_amour='néant'>THEUDAS</role>, domestique de Créon.</castItem>
+			<castItem><role id="GARDES" sex="9" type="H" statut='garde' age='A' stat_amour='néant'>TROUPES, des Gardes de Créon</role>.</castItem>
 		</castList>
 		<set location='Corinthe' country='Grèce' periode='Temps mythologiques' link=''>La scène est à Corinthe.</set>
 	</front>

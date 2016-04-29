@@ -7,9 +7,10 @@
 				<author born='1655' born_location='Paris' death='1709' death_location='château de grillon, Dourdan' academie=''>REGNARD, Jean-François</author>
 				<date>1692</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, Mai 2011</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -78,18 +79,18 @@
 			<p>Cette pièce est la seule des comédies de Regnard que l'on ne joue plus ; cependant elle a eu douze représentations dans sa nouveauté, et nous croyons que, malgré ses défauts, on la verrait encore avec plaisir sur notre scène.</p>
 			</div>
 <castList>
-	<castItem><role id="GÉRONTE" civil="M" type="H" statut='bourgeois' age='A' stat_amour='néant'>GÉRONTE</role>, père de Léonore.</castItem>
-	<castItem><role id="LÉONORE" civil="F" type="H" statut='bourgeois' age='A' stat_amour='néant'>LÉONORE</role>.</castItem>
-	<castItem><role id="VALÈRE" civil="M" type="H" statut='bourgeois' age='A' stat_amour='Léonore'>VALÈRE</role>, amant de Léonore.</castItem>
-	<castItem><role id="MONSIEUR DE SOTENCOUR" civil="M" type="H" statut='bourgeois' age='A' stat_amour='néant'>MONSIEUR DE SOTENCOUR</role>, bourgeois de Falaise.</castItem>
-	<castItem><role id="LISETTE" civil="F" type="H" statut='servante' age='A' stat_amour='néant'>LISETTE</role>, servante de Léonore.</castItem>
-	<castItem><role id="MERLIN" civil="M" type="H" statut='valet' age='A' stat_amour='néant'>MERLIN</role>, valet de Valère.</castItem>
-	<castItem><role id="FIJAC" civil="M" type="H" statut='baron' age='A' stat_amour='néant'>FIJAC</role>, Gascon, sous le nom du baron d'Aubignac.</castItem>
-	<castItem><role id="MATHIEU CROCHET" civil="M" type="H" statut='bourgeois' age='A' stat_amour='néant'>MATHIEU CROCHET</role>, cousin de Sotencour.</castItem>
-	<castItem><role id="MONSIEUR GRASSET" civil="M" type="H" statut='commerçant' age='A' stat_amour='néant'>MONSIEUR GRASSET</role>, rôtisseur.</castItem>
-	<castItem><role id="MONSIEUR LA MONTAGNE" civil="M" type="H" statut='commerçant' age='A' stat_amour='néant'>MONSIEUR LA MONTAGNE</role>, marchand de vin.</castItem>
-	<castItem><role id="GILLETTE" civil="M" type="H" statut='' age='A' stat_amour='néant'>GILLETTE</role>.</castItem>
-	<castItem><role id="TROUPE DE MASQUES" civil="G" type="H" statut='masque' age='A' stat_amour='néant'>Troupe de Masques</role>.</castItem>
+	<castItem><role id="GÉRONTE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>GÉRONTE</role>, père de Léonore.</castItem>
+	<castItem><role id="LÉONORE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>LÉONORE</role>.</castItem>
+	<castItem><role id="VALÈRE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='Léonore'>VALÈRE</role>, amant de Léonore.</castItem>
+	<castItem><role id="MONSIEUR DE SOTENCOUR" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>MONSIEUR DE SOTENCOUR</role>, bourgeois de Falaise.</castItem>
+	<castItem><role id="LISETTE" sex="2" type="H" statut='servante' age='A' stat_amour='néant'>LISETTE</role>, servante de Léonore.</castItem>
+	<castItem><role id="MERLIN" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>MERLIN</role>, valet de Valère.</castItem>
+	<castItem><role id="FIJAC" sex="1" type="H" statut='baron' age='A' stat_amour='néant'>FIJAC</role>, Gascon, sous le nom du baron d'Aubignac.</castItem>
+	<castItem><role id="MATHIEU CROCHET" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>MATHIEU CROCHET</role>, cousin de Sotencour.</castItem>
+	<castItem><role id="MONSIEUR GRASSET" sex="1" type="H" statut='commerçant' age='A' stat_amour='néant'>MONSIEUR GRASSET</role>, rôtisseur.</castItem>
+	<castItem><role id="MONSIEUR LA MONTAGNE" sex="1" type="H" statut='commerçant' age='A' stat_amour='néant'>MONSIEUR LA MONTAGNE</role>, marchand de vin.</castItem>
+	<castItem><role id="GILLETTE" sex="1" type="H" statut='' age='A' stat_amour='néant'>GILLETTE</role>.</castItem>
+	<castItem><role id="TROUPE DE MASQUES" sex="9" type="H" statut='masque' age='A' stat_amour='néant'>Troupe de Masques</role>.</castItem>
 </castList>
 <set location='Charonne' country='France' periode='XVIIème' link=''>La scène est à Charonne.</set>
 </front>

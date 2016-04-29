@@ -6,10 +6,11 @@
 			<title>LES PRÉCIEUSES RIDICULES, COMÉDIE</title>
 			<author born='1630' born_location='' death='16??' death_location='' academie=''>SOMAIZE, Antoine BAUDEAU DE</author>
 		</titleStmt>
-		<publicationStmp>	
+		<publicationStmt>	
 			<editor>Texte établi par David Chataignier pour le site Molière 21 - Université de la Sorbonne Paris IV sous la direction de Georges Forestier.</editor>
 			<p>publié par Paul FIEVRE, juin 2013</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Comédie</genre>
 			<inspiration>moeurs françaises</inspiration>
@@ -187,18 +188,18 @@
 	</div>
 
 		<castList><head>LES PERSONNAGES.</head>
-	      <castItem><role id="LA GRANGE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>LA GRANGE</role>, Amant rebuté.</castItem>
-	      <castItem><role id="DU CROISY" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>DU CROISY</role>, Amant rebuté.</castItem>
-	      <castItem><role id="GORGIBUS" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>GORGIBUS</role>, Bon Bourgeois.</castItem>
-	      <castItem><role id="MADELON" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>MADELON</role>, Fille de Gorgibus, Précieuse Ridicule.</castItem>
-	      <castItem><role id="CATHOS" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>CATHOS</role>, Nièce de Gorgibus, Précieuse Ridicule.</castItem>
-	      <castItem><role id="MAROTTE" civil='F' type="H" statut='servante' age='A' stat_amour='néant'>MAROTTE</role>, Servante des Précieuses Ridicules.</castItem>
-	      <castItem><role id="ALMANZOR" civil='M' type="H" statut='laquais' age='A' stat_amour='néant'>ALMANZOR</role>, Laquais des Précieuses Ridicules.</castItem>
-	      <castItem><role id="MASCARILLE" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>LE MARQUIS DE MASCARILLE</role>, Valet de la Grange.</castItem>
-	      <castItem><role id="JODELET" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>LE VICOMTE DE JODELET</role>, Valet de du Croisy.</castItem>
-	      <castItem><role id="DEUX PORTEURS" civil='G' type="H" statut='porteur' age='A' stat_amour='néant'>DEUX PORTEURS de chaise</role>.</castItem>
-	      <castItem><role id="VOISINES" civil='G' type="H" statut='peuple' age='A' stat_amour='néant'>VOISINES</role>.</castItem>
-	      <castItem><role id="VIOLONS" civil='G' type="H" statut='musicien' age='A' stat_amour='néant'>VIOLONS</role>.</castItem>
+	      <castItem><role id="LA GRANGE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>LA GRANGE</role>, Amant rebuté.</castItem>
+	      <castItem><role id="DU CROISY" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>DU CROISY</role>, Amant rebuté.</castItem>
+	      <castItem><role id="GORGIBUS" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>GORGIBUS</role>, Bon Bourgeois.</castItem>
+	      <castItem><role id="MADELON" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>MADELON</role>, Fille de Gorgibus, Précieuse Ridicule.</castItem>
+	      <castItem><role id="CATHOS" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>CATHOS</role>, Nièce de Gorgibus, Précieuse Ridicule.</castItem>
+	      <castItem><role id="MAROTTE" sex="2" type="H" statut='servante' age='A' stat_amour='néant'>MAROTTE</role>, Servante des Précieuses Ridicules.</castItem>
+	      <castItem><role id="ALMANZOR" sex="1" type="H" statut='laquais' age='A' stat_amour='néant'>ALMANZOR</role>, Laquais des Précieuses Ridicules.</castItem>
+	      <castItem><role id="MASCARILLE" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>LE MARQUIS DE MASCARILLE</role>, Valet de la Grange.</castItem>
+	      <castItem><role id="JODELET" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>LE VICOMTE DE JODELET</role>, Valet de du Croisy.</castItem>
+	      <castItem><role id="DEUX PORTEURS" sex="9" type="H" statut='porteur' age='A' stat_amour='néant'>DEUX PORTEURS de chaise</role>.</castItem>
+	      <castItem><role id="VOISINES" sex="9" type="H" statut='peuple' age='A' stat_amour='néant'>VOISINES</role>.</castItem>
+	      <castItem><role id="VIOLONS" sex="9" type="H" statut='musicien' age='A' stat_amour='néant'>VIOLONS</role>.</castItem>
 	</castList>
 	<set location='Paris' country='France' periode='XVIIème' link=''>La scène est à Paris.</set>
 	</front>

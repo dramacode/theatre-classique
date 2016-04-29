@@ -6,9 +6,10 @@
 				<title>LE CRI DE LA NATURE, COMÉDIE EN UN ACTE ET EN VERS.</title>
 				<author born='1699' born_location='Richelieu' death='1765' death_location='Paris' academie=''>ARMAND, Huguet Armand dit</author>
 			</titleStmt>
-			<publicationStmp>
+			<publicationStmt>
 				<p>publié par Paul FIEVRE, septembre 2015</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -50,13 +51,13 @@
 		</div>
 		<castList>
 			<head>PERSONNAGES.</head>
-			<castItem><role id="MONGEI" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>MONGEI</role>.</castItem>
-			<castItem><role id="MADAME MONGEI" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>MADAME MONGEI</role>, son épouse.</castItem>
-			<castItem><role id="MONSIEUR BONCOUR" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>MONSIEUR BONCOUR</role>, Père de Madame Mongei.</castItem>
-			<castItem><role id="MADAME GERVAIS" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>MADAME GERVAIS</role>, Maîtresse d'Hôtellerie.</castItem>
-			<castItem><role id="SUZON" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>SUZON</role>, Fille de Madame Gervais.</castItem>
-			<castItem><role id="VINCENT" civil='M' type="H" statut='paysan' age='A' stat_amour='néant'>VINCENT</role>, Paysan, Amant de Suzon.</castItem>
-			<castItem><role id="MARLOT" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>MARLOT</role>, Valet de Monsieur Boncourt.</castItem>
+			<castItem><role id="MONGEI" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>MONGEI</role>.</castItem>
+			<castItem><role id="MADAME MONGEI" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>MADAME MONGEI</role>, son épouse.</castItem>
+			<castItem><role id="MONSIEUR BONCOUR" sex="1" type="H" statut='bourgeois' age='V' stat_amour='néant'>MONSIEUR BONCOUR</role>, Père de Madame Mongei.</castItem>
+			<castItem><role id="MADAME GERVAIS" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>MADAME GERVAIS</role>, Maîtresse d'Hôtellerie.</castItem>
+			<castItem><role id="SUZON" sex="1" type="H" statut='bourgeois' age='J' stat_amour='néant'>SUZON</role>, Fille de Madame Gervais.</castItem>
+			<castItem><role id="VINCENT" sex="1" type="H" statut='paysan' age='J' stat_amour='néant'>VINCENT</role>, Paysan, Amant de Suzon.</castItem>
+			<castItem><role id="MARLOT" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>MARLOT</role>, Valet de Monsieur Boncourt.</castItem>
 		</castList>
 		<set location='Paris' country='France' periode='XVIIIème'>La Scène est dans un Village à quelques lieues de Paris.</set>
 </front>

@@ -6,9 +6,10 @@
 			<title>LES DEUX BILLETS, COMÉDIE</title>
 			<author born='1755' born_location='' death='1794' death_location='Paris' academie=''>FLORIAN, Jean Pierre Claris de</author>
 		</titleStmt>
-		<publicationStmp>	
+		<publicationStmt>	
 			<p>publié par Paul FIEVRE, mars 2013</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 				<genre>Comédie</genre>	
 				<inspiration>moeurs françaises</inspiration>
@@ -34,9 +35,9 @@
 			<premiere date="1779-02-09" location="Hôtel de Bourgogne">Représentée pour la première fois sur le théâtre italien, le mardi 9 février 1779.</premiere>
 		</performance>
 		<castList><head>ACTEURS</head>
-			<castItem><role id="ARLEQUIN" civil='M' type="H" statut='bourgeois' age='A' stat_amour='amoureux'>ARLEQUIN</role>, amant d'Argentine.</castItem>
-			<castItem><role id="ARGENTINE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='amoureux'>ARGENTINE</role>.</castItem>
-			<castItem><role id="SCAPIN" civil='F' type="H" statut='bourgeois' age='A' stat_amour='amoureux'>SCAPIN</role>, rival d'Arlequin.</castItem>
+			<castItem><role id="ARLEQUIN" sex="1" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>ARLEQUIN</role>, amant d'Argentine.</castItem>
+			<castItem><role id="ARGENTINE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>ARGENTINE</role>.</castItem>
+			<castItem><role id="SCAPIN" sex="2" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>SCAPIN</role>, rival d'Arlequin.</castItem>
 		</castList>
 		<set location='Paris' country='France' periode='XVIIIème' link=''>La scène est à Paris, dans une place publique, ou l'on voit la maison ou demeure Argentine.</set>
 	</front>

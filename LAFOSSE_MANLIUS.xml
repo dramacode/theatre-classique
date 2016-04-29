@@ -7,9 +7,10 @@
 				<author born='1653' born_location='Paris' death='1708' death_location='Paris' academie=''>LA FOSSE, Antoine d'Aubigny</author>
 				<date>1698</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<authority></authority>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire romaine</inspiration>
@@ -51,14 +52,14 @@
 <p>Quelque facilité qu'il y ait à détruire plusieurs critiques que j'ai entendu faire contre cette pièce, je ne perdrai point de temps à les réfuter par une dissertation ; et je leur donne pour réponse l'approbation dont le public a honoré mon ouvrage.</p>
 </div>
 <castList><head>PERSONNAGES</head>
-	<castItem><role id="MANLIUS" civil="M" type="H" statut='aristocrate' age='A' stat_amour='néant'>MANLIUS CAPITOLINUS</role>.</castItem>
-	<castItem><role id="SERVILIUS" civil="M" type="H" statut='aristocrate' age='A' stat_amour='néant'>SERVILIUS</role>, son ami.</castItem>
-	<castItem><role id="VALERIE" civil="F" type="H" statut='aristocrate' age='A' stat_amour='néant'>VALÉRIE</role>.</castItem>
-	<castItem><role id="VALERIUS" civil="M" type="H" statut='consul' age='A' stat_amour='néant'>VALERIUS</role>, consul, père de Valérie.</castItem>
-	<castItem><role id="RUTILE" civil="M" type="H" statut='aristocrate' age='A' stat_amour='néant'>RUTILE</role>, un des chefs de la conjuration de Manlius.</castItem>
-	<castItem><role id="ALBIN" civil="M" type="H" statut='confident' age='A' stat_amour='néant'>ALBIN</role>, confident de Manlius.</castItem>
-	<castItem><role id="TULLIE" civil="F" type="H" statut='confident' age='A' stat_amour='néant'>TULLIE</role>, confidente de Valérie.</castItem>
-	<castItem><role id="PROCULUS" civil="M" type="H" statut='domestique' age='A' stat_amour='néant'>PROCULUS</role>, un des domestiques de Manlius.</castItem>
+	<castItem><role id="MANLIUS" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>MANLIUS CAPITOLINUS</role>.</castItem>
+	<castItem><role id="SERVILIUS" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>SERVILIUS</role>, son ami.</castItem>
+	<castItem><role id="VALERIE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>VALÉRIE</role>.</castItem>
+	<castItem><role id="VALERIUS" sex="1" type="H" statut='consul' age='A' stat_amour='néant'>VALERIUS</role>, consul, père de Valérie.</castItem>
+	<castItem><role id="RUTILE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>RUTILE</role>, un des chefs de la conjuration de Manlius.</castItem>
+	<castItem><role id="ALBIN" sex="1" type="H" statut='confident' age='A' stat_amour='néant'>ALBIN</role>, confident de Manlius.</castItem>
+	<castItem><role id="TULLIE" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>TULLIE</role>, confidente de Valérie.</castItem>
+	<castItem><role id="PROCULUS" sex="1" type="H" statut='domestique' age='A' stat_amour='néant'>PROCULUS</role>, un des domestiques de Manlius.</castItem>
 </castList>
 <set location='Rome'  country='Italie' periode='IVème' link=''>La scène est a Rome, dans la maison de Manlius, située sur le Capitole. </set>
 </front>

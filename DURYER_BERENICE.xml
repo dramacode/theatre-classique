@@ -7,9 +7,10 @@
 				<author born='1605' born_location='Paris' death='1658' death_location='Paris' academie=''>DU RYER, Pierre</author>
 				<date>1642</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<authority>publié par Paul FIEVRE, mars 2010</authority>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragi-comédie</genre>
 				<inspiration>moeurs antiques</inspiration>
@@ -45,13 +46,13 @@
 			<premiere date="1644" location='Hôtel de Bourgogne'>Première représentation en 1644 à l'Hotel de Bourgogne [selon l'hypothèse convaincante de M. Georges dans son édition critique].</premiere>
 		</performance>
 <castList><head>LES ACTEURS.</head>
-	<castItem><role id="BERENICE" civil='F'>BÉRÉNICE</role>.</castItem>
-	<castItem><role id="AMASIE" civil='F'>AMASIE</role>.</castItem>
-	<castItem><role id="TIRINTE" civil='M'>TIRINTE</role>, amant d'Amasie.</castItem>
-	<castItem><role id="CRITON" civil='M'>CRITON</role>, père d'Amasie.</castItem>
-	<castItem><role id="TARSIS" civil='M'>TARSIS</role>, amant de Bérénice.</castItem>
-	<castItem><role id="LE-ROI" civil='M'>LE ROI</role>.</castItem>
-	<castItem><role id="LEONIDE" civil='M'>LÉONIDE</role>.</castItem>
+	<castItem><role id="BERENICE" sex="2">BÉRÉNICE</role>.</castItem>
+	<castItem><role id="AMASIE" sex="2">AMASIE</role>.</castItem>
+	<castItem><role id="TIRINTE" sex="1">TIRINTE</role>, amant d'Amasie.</castItem>
+	<castItem><role id="CRITON" sex="1">CRITON</role>, père d'Amasie.</castItem>
+	<castItem><role id="TARSIS" sex="1">TARSIS</role>, amant de Bérénice.</castItem>
+	<castItem><role id="LE-ROI" sex="1">LE ROI</role>.</castItem>
+	<castItem><role id="LEONIDE" sex="1">LÉONIDE</role>.</castItem>
 </castList>
 <set location='Crète' country='Crète' periode='(inconnue)' link=''>La scène est en Crète.</set>
 </front>

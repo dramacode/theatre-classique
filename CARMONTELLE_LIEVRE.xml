@@ -6,9 +6,10 @@
 			<title>LE LIÈVRE, COMÉDIE</title>
 			<author born='1717' born_location='Paris' death='1806' death_location='Paris' academie='Poitiers'>CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle</author>
 		</titleStmt>
-		<publicationStmp>
+		<publicationStmt>
 			<p>publié par Paul FIEVRE août 2010</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Proverbe</genre>
 			<inspiration>moeurs françaises</inspiration>
@@ -42,10 +43,10 @@
 			<premiere date='(inconnue)' location='(inconnue)'></premiere>
 		</performance>
 	<castList><head>PERSONNAGES</head>
-		<castItem><role id="Monsieur DUBUT" civil='M' type="H" statut="avocat" age="A" stat_amour='néant'>MONSIEUR DUBUT</role>, Avocat.</castItem>
-		<castItem><role id="Dame JAQUELINE" civil='F' type="H" statut="servente" age="A" stat_amour='néant'>DAME JAQUELINE</role>, Servante de Monsieur Dubut.</castItem>
-		<castItem><role id="GROS-PIERRE" civil='M' type="H" statut="paysan" age="A" stat_amour='néant'>GROS-PIERRE</role>, paysan.</castItem>
-		<castItem><role id="VINCENT" civil='M' type="H" statut="paysan" age="A" stat_amour='néant'>VINCENT</role>, paysan.</castItem>
+		<castItem><role id="Monsieur DUBUT" sex="1" type="H" statut="avocat" age="A" stat_amour='néant'>MONSIEUR DUBUT</role>, Avocat.</castItem>
+		<castItem><role id="Dame JAQUELINE" sex="2" type="H" statut="servente" age="A" stat_amour='néant'>DAME JAQUELINE</role>, Servante de Monsieur Dubut.</castItem>
+		<castItem><role id="GROS-PIERRE" sex="1" type="H" statut="paysan" age="A" stat_amour='néant'>GROS-PIERRE</role>, paysan.</castItem>
+		<castItem><role id="VINCENT" sex="1" type="H" statut="paysan" age="A" stat_amour='néant'>VINCENT</role>, paysan.</castItem>
      </castList>
 <set location='Province' country='France' periode='(indéterminé)' link=''>La scène est chez Monsieur Dubut, dans une petite Ville de Province.</set>
 </front>

@@ -7,9 +7,10 @@
 				<author born='1625' born_location='Rouen' death='1709' death_location='Les Andelys' academie='1685'>CORNEILLE, Thomas</author>
 				<date>1678</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Ernest FIEVRE décembre 2009</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire anglaise</inspiration>
@@ -46,14 +47,14 @@
 <p>Il y a trente ou quarante ans que feu Monsieur de la Calprenède traita le Sujet du Comte d'Essex, et le traita avec beaucoup de succès. Ce que je me suis hasardé à faire après lui, semble n'avoir point déplu, et la matière est si heureuse par la pitié qui en est inséparable, qu'elle n'a pas laissé examiner mes fautes avec toute la sévérité que j'avais à craindre. Il est certain que le Comte d'Essex eut une grande part aux bonnes grâces d'Élisabeth. Il était naturellement ambitieux. Les services qu'il avait rendus à l'Angleterre, lui enflèrent le courage. Ses Ennemis l'accusèrent d'intelligence avec le comte de Tyron, que les Rebelles d'Irlande avaient pris pour Chef. Les soupçons qu'on en eut, lui firent ôter le Commandement de l'Armée. Ce changement le piqua. Il vint à Londres, révolta le peuple, fut pris, condamné, et ayant toujours refusé de demander grâce, il eut la tête coupée le 25 février 1601. Voilà ce que l'histoire m'a fourni. J'ai été surpris qu'on m'ait imputé de l'avoir falsifiée, parce que je ne me suis pas servi de l'incident d'une Bague qu'on prétend que la Reine avait donnée au Comte d'Essex pour gage d'un pardon certain, quelque crime qu'il pût jamais commettre contre l'État, mais je suis persuadé que cette Bague est de l'invention de Monsieur de la Calprenède, du moins je n'en ai rien lu dans aucun Historien. Camdenus qui a fait un gros Volume de la seule Vie d'Élisabeth, n'en parle point, et c'est une particularité que je me serais cru en pouvoir de supprimer, quand même je l'aurais trouvée dans son Histoire. </p>
 </adresse>
 	<castList><head>ACTEURS.</head>
-		<castItem><role id="ÉLISABETH" civil='F' type="H" statut='roi' age='A' stat_amour='néant'>ÉLISABETH</role>, Reine d'Angleterre.</castItem>
-		<castItem><role id="LA'DUCHESSE D'IRTON" civil='F' type="H" statut='duc' age='A' stat_amour='néant'>LA DUCHESSE D'IRTON</role>, aimée du Comte d'Essex.</castItem>
-		<castItem><role id="LE COMTE D'ESSEX" civil='M' type="H" statut='comte' age='A' stat_amour='néant'>LE COMTE D'ESSEX</role>.</castItem>
-		<castItem><role id="CÉCILE" civil="M" type="H" statut="aristocrate" age="A" stat_amour='néant'>CÉCILE</role>, ennemi du Comte d'Essex.</castItem>
-		<castItem><role id="SALSBURY" civil='M' type="H" statut='comte' age='A' stat_amour='néant'>LE COMTE DE SALSBURY</role>, ami du Comte d'Essex.</castItem>
-		<castItem><role id="TILNEY" civil='M' type="H" statut='confident' age='A' stat_amour='néant'>TILNEY</role>, confidente d'Élisabeth.</castItem>
-		<castItem><role id="CROMMER" civil='M' type="H" statut='capitaine' age='A' stat_amour='néant'>CROMMER</role>, capitaine des Gardes de la Reine.</castItem>
-		<castItem><role id="SUITE" civil='G' type="H" statut='suivant' age='A' stat_amour='néant'>SUITE</role>.</castItem>
+		<castItem><role id="ÉLISABETH" sex="2" type="H" statut='roi' age='A' stat_amour='néant'>ÉLISABETH</role>, Reine d'Angleterre.</castItem>
+		<castItem><role id="LA'DUCHESSE D'IRTON" sex="2" type="H" statut='duc' age='A' stat_amour='néant'>LA DUCHESSE D'IRTON</role>, aimée du Comte d'Essex.</castItem>
+		<castItem><role id="LE COMTE D'ESSEX" sex="1" type="H" statut='comte' age='A' stat_amour='néant'>LE COMTE D'ESSEX</role>.</castItem>
+		<castItem><role id="CÉCILE" sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>CÉCILE</role>, ennemi du Comte d'Essex.</castItem>
+		<castItem><role id="SALSBURY" sex="1" type="H" statut='comte' age='A' stat_amour='néant'>LE COMTE DE SALSBURY</role>, ami du Comte d'Essex.</castItem>
+		<castItem><role id="TILNEY" sex="1" type="H" statut='confident' age='A' stat_amour='néant'>TILNEY</role>, confidente d'Élisabeth.</castItem>
+		<castItem><role id="CROMMER" sex="1" type="H" statut='capitaine' age='A' stat_amour='néant'>CROMMER</role>, capitaine des Gardes de la Reine.</castItem>
+		<castItem><role id="SUITE" sex="9" type="H" statut='suivant' age='A' stat_amour='néant'>SUITE</role>.</castItem>
 	</castList>
 	<set location='Londres' country='Angleterre' periode='XVIème' link=''>La Scène est à Londres.</set>
 	</front>

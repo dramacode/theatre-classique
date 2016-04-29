@@ -6,9 +6,10 @@
 				<title>LE PORTRAIT DU PEINTRE, OU LA CONTRE-CRITIQUE DE L'ÉCOLE DES FEMMES, COMÉDIE.</title>
 				<author born='1638' born_location="Mussy-l Evêque" death='1701' death_location='Paris' academie=''>BOURSAULT, Edme</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE mars 2012</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -59,15 +60,15 @@
 
 		<castList>
 			<head>PERSONNAGES</head>
-			<castItem><role id="DAMIS" civil='M' type="H" statut="baron" age="A" stat_amour='amoureux'>DAMIS</role>, Baron, amant d'Amarante.</castItem>
-			<castItem><role id="AMARANTE" civil='M' type="H" statut="aristocrate" age="A" stat_amour='amoureux'>AMARANTE</role>, maîtresse de Damis. </castItem>
-			<castItem><role id="CLITIE" civil='F' type="H" statut="aristocrate" age="A" stat_amour='néant'>CLITIE</role>, cousine d'Amarante.</castItem>
-			<castItem><role id="LE-COMTE" civil='M' type="H" statut="comte" age="A" stat_amour='néant'>LE COMTE</role>, courtisan ridicule.</castItem>
-			<castItem><role id="DORANTE" civil='M' type="H" statut="chevelier" age="A" stat_amour='néant'>LE CHEVALIER DORANTE</role>, courtisan ridicule.</castItem>
-			<castItem><role id="ORIANE" civil='M' type="H" statut="marquis" age="A" stat_amour='néant'>LA MARQUISE ORIANE</role>, qui fait la Précieuse.</castItem>
-			<castItem><role id="LISIDOR" civil='M' type="H" statut="poète" age="A" stat_amour='néant'>LISIDOR</role>, poète.</castItem>
-			<castItem><role id="PETIT-JEAN" civil='M' type="H" statut="page" age="A" stat_amour='néant'>PETIT-JEAN</role>, page d'Amarante.</castItem>
-			<castItem><role id="LA-RAMÉE" civil='M' type="H" statut="laquais" age="A" stat_amour='néant'>LA RAMÉE</role>, laquais du Comte.</castItem>
+			<castItem><role id="DAMIS" sex="1" type="H" statut="baron" age="A" stat_amour='amoureux'>DAMIS</role>, Baron, amant d'Amarante.</castItem>
+			<castItem><role id="AMARANTE" sex="1" type="H" statut="aristocrate" age="A" stat_amour='amoureux'>AMARANTE</role>, maîtresse de Damis. </castItem>
+			<castItem><role id="CLITIE" sex="2" type="H" statut="aristocrate" age="A" stat_amour='néant'>CLITIE</role>, cousine d'Amarante.</castItem>
+			<castItem><role id="LE-COMTE" sex="1" type="H" statut="comte" age="A" stat_amour='néant'>LE COMTE</role>, courtisan ridicule.</castItem>
+			<castItem><role id="DORANTE" sex="1" type="H" statut="chevalier" age="A" stat_amour='néant'>LE CHEVALIER DORANTE</role>, courtisan ridicule.</castItem>
+			<castItem><role id="ORIANE" sex="1" type="H" statut="marquis" age="A" stat_amour='néant'>LA MARQUISE ORIANE</role>, qui fait la Précieuse.</castItem>
+			<castItem><role id="LISIDOR" sex="1" type="H" statut="poète" age="A" stat_amour='néant'>LISIDOR</role>, poète.</castItem>
+			<castItem><role id="PETIT-JEAN" sex="1" type="H" statut="page" age="A" stat_amour='néant'>PETIT-JEAN</role>, page d'Amarante.</castItem>
+			<castItem><role id="LA-RAMÉE" sex="1" type="H" statut="laquais" age="A" stat_amour='néant'>LA RAMÉE</role>, laquais du Comte.</castItem>
 		</castList>
 <set location='Paris' country='France' periode='XVIIème' link=''>La Scène est dans une Salle du Logis d'Amarante. </set>
 </front>

@@ -7,9 +7,10 @@
 				<author born='1709' born_location='Paris' death='1783' death_location='Paris' academie=''>COLLE, Charles</author>
 				<date>1697</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE Novembre 2009</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs orientales</inspiration>
@@ -62,12 +63,12 @@
 	<p>L'on n'imagine point à Paris, où heureusement l'on n'est chatouillé qu'imparfaitement, quelle légèreté et quelle souplesse ces femmes ont dans les doigts ; la finesse de leur toucher la prestesse de leurs mains ; et jusqu'à quel degré de perfection elles portent l'air du chatouillement ; puisqu'un criminel, quelque robuste qu'il puisse être, est par elles expédié en un petit quart d'heure. Le Ciel veuille vous garder, Messieurs, de tomber dans leurs mains.</p>
 </div>
 	<castList><head>PERSONNAGES</head>
-      	<castItem><role id="COLORAX" civil='M' type="H" statut="roi" age="A" stat_amour='amoureux'>COLORAX</role>, roi de l'Arabie Pétrée.</castItem>
-      	<castItem><role id="COCATRIX" civil='F' type="H" statut="roi" age="A" stat_amour='amoureux'>COCATRIX</role>, mère de Colorax.</castItem>
-      	<castItem><role id="AMATROX" civil='M' type="H" statut="prince" age="A" stat_amour='amoureux'>AMATROX</role>, héros inconnu, qui se trouve petit-fils de Cocatrix.</castItem>
-      	<castItem><role id="VORTEX"  civil='M' type="H" statut="confident" age="A" stat_amour='amoureux'>VORTEX</role>, confident d'Amatrox.</castItem>
-      	<castItem><role id="GARDES"  civil='G' type="H" statut="garde" age="A" stat_amour='amoureux'>GARDES</role>.</castItem>
-      	<castItem><role id="DEUX-ANES"  civil='M' type="Z" statut="roi" age="A" stat_amour='amoureux'>Deux ÂNES</role>, sur lesquels Amatrox et Vortex sont montés pendant la première scène.</castItem>
+      	<castItem><role id="COLORAX" sex="1" type="H" statut="roi" age="A" stat_amour='amoureux'>COLORAX</role>, roi de l'Arabie Pétrée.</castItem>
+      	<castItem><role id="COCATRIX" sex="2" type="H" statut="roi" age="A" stat_amour='amoureux'>COCATRIX</role>, mère de Colorax.</castItem>
+      	<castItem><role id="AMATROX" sex="1" type="H" statut="prince" age="A" stat_amour='amoureux'>AMATROX</role>, héros inconnu, qui se trouve petit-fils de Cocatrix.</castItem>
+      	<castItem><role id="VORTEX"  sex="1" type="H" statut="confident" age="A" stat_amour='amoureux'>VORTEX</role>, confident d'Amatrox.</castItem>
+      	<castItem><role id="GARDES"  sex="9" type="H" statut="garde" age="A" stat_amour='amoureux'>GARDES</role>.</castItem>
+      	<castItem><role id="DEUX-ANES"  sex="1" type="Z" statut="roi" age="A" stat_amour='amoureux'>Deux ÂNES</role>, sur lesquels Amatrox et Vortex sont montés pendant la première scène.</castItem>
 		</castList>
 	<set location='Paris' country='Arabie' periode='(non indiqué)' link=''>La Scène est-là quelque part, dans cette Arabie Pétrée, dans le Palais de Colorax.</set>
 </front>

@@ -6,9 +6,10 @@
 			<title>SAÜL, TRAGÉDIE</title>
 			<author born='1659' born_location='Poitiers' death='1741' death_location='' academie='Poitiers'>NADAL, Augustin</author>
 		</titleStmt>
-		<publicationStmp>
+		<publicationStmt>
 			<p>publié par Paul FIEVRE mai 2010</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Tragédie</genre>
 			<inspiration>bible</inspiration>
@@ -62,15 +63,15 @@
 	<signature>l'Abbé Nadal.</signature>
 	</div>
 	<castList><head>ACTEURS</head>
-		<castItem><role id="SAÜL" civil='M' type="H" statut='roi' age='A' stat_amour='néant'>SAÜL</role>, roi d'Israël.</castItem>
-		<castItem><role id="JONATHAS" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>JONATHAS</role>, fils de Saül. </castItem>
-		<castItem><role id="MICHOL" civil='F' type="H" statut='prince' age='A' stat_amour='néant'>MICHOL</role>, fille de Saül et Femme de David.</castItem>
-		<castItem><role id="DAVID" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>DAVID</role>, mari de Michol.</castItem>
-		<castItem><role id="ASSER" civil='M' type="H" statut='confident' age='A' stat_amour='néant'>ASSER</role>, confident de Saül.</castItem>
-		<castItem><role id="ÉLISE" civil='F' type="H" statut='confident' age='A' stat_amour='néant'>ÉLISE</role>, confidente de Michol.</castItem>
-		<castItem><role id="ACHAS" civil='M' type="H" statut='confident' age='A' stat_amour='néant'>ACHAS</role>, confident de Jonathas.</castItem>
-		<castItem><role id="LA PHYTONISSE" civil='F' type="H" statut='magicien' age='A' stat_amour='néant'>La PHYTONISSE</role>, ou magicienne. </castItem>
-		<castItem><role id="ISRAÉLITES" civil='G' type="H" statut='suite' age='A' stat_amour='néant'>ISRAÉLITES</role>, de la suite du Roi.</castItem>
+		<castItem><role id="SAÜL" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>SAÜL</role>, roi d'Israël.</castItem>
+		<castItem><role id="JONATHAS" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>JONATHAS</role>, fils de Saül. </castItem>
+		<castItem><role id="MICHOL" sex="2" type="H" statut='prince' age='A' stat_amour='néant'>MICHOL</role>, fille de Saül et Femme de David.</castItem>
+		<castItem><role id="DAVID" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>DAVID</role>, mari de Michol.</castItem>
+		<castItem><role id="ASSER" sex="1" type="H" statut='confident' age='A' stat_amour='néant'>ASSER</role>, confident de Saül.</castItem>
+		<castItem><role id="ÉLISE" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>ÉLISE</role>, confidente de Michol.</castItem>
+		<castItem><role id="ACHAS" sex="1" type="H" statut='confident' age='A' stat_amour='néant'>ACHAS</role>, confident de Jonathas.</castItem>
+		<castItem><role id="LA PHYTONISSE" sex="2" type="H" statut='magicien' age='A' stat_amour='néant'>La PHYTONISSE</role>, ou magicienne. </castItem>
+		<castItem><role id="ISRAÉLITES" sex="9" type="H" statut='suite' age='A' stat_amour='néant'>ISRAÉLITES</role>, de la suite du Roi.</castItem>
     </castList>
 <set location='Gelboé' country='Israël' periode='Temps bibliques' link=''>La Scène est dans le Camp, aux environs de Gelboé, dans la Tente de Saül.</set>
 </front>

@@ -6,10 +6,11 @@
 				<title>LES VÉRITABLES PRÉCIEUSES, COMÉDIE</title>
 				<author born='1630' born_location='' death='16??' death_location='' academie=''>SOMAIZE, Antoine BAUDEAU DE</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<editor>Texte établi par David Chataignier pour le site Molière 21 - Université de la Sorbonne Paris IV sous la direction de Georges Forestier.</editor>
 				<publisher>publié par Paul FIEVRE, avril 2013</publisher>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -55,14 +56,14 @@
 	<p>De votre très humble, très obéissant, et très fidèle serviteur JEAN RIBOU. </p>
 	</div>
 		<castList><head>PERSONNAGES</head>
-			<castItem><role id="ARTÉMISE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>ARTÉMISE</role>, Précieuse.</castItem>
-			<castItem><role id="ISCARIE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>ISCARIE</role>, Précieuse..</castItem>
-			<castItem><role id="LE BARON" civil='M' type="H" statut='baron' age='A' stat_amour='néant'>LE BARON</role>, de la Taupinière.</castItem>
-			<castItem><role id="BÉATRIX" civil='F' type="H" statut='suivante' age='A' stat_amour='néant'>BÉATRIX</role>, suivante d'Artémise.</castItem>
-			<castItem><role id="ISABELLE" civil='F' type="H" statut='suivante' age='A' stat_amour='néant'>ISABELLE</role>, suivante d'Iscarie.</castItem>
-			<castItem><role id="FLANQUIN" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>FLANQUIN</role>, valet de la Taupinière.</castItem>
-			<castItem><role id="PICOTIN" civil='M' type="H" statut='poète' age='A' stat_amour='néant'>PICOTIN</role>, Poète.</castItem>
-			<castItem><role id="MONSIEUR GREVAL" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>MONSIEUR GREVAL</role>, Bourgeois, voisin d'Iscarie.</castItem>
+			<castItem><role id="ARTÉMISE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>ARTÉMISE</role>, Précieuse.</castItem>
+			<castItem><role id="ISCARIE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>ISCARIE</role>, Précieuse..</castItem>
+			<castItem><role id="LE BARON" sex="1" type="H" statut='baron' age='A' stat_amour='néant'>LE BARON</role>, de la Taupinière.</castItem>
+			<castItem><role id="BÉATRIX" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>BÉATRIX</role>, suivante d'Artémise.</castItem>
+			<castItem><role id="ISABELLE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>ISABELLE</role>, suivante d'Iscarie.</castItem>
+			<castItem><role id="FLANQUIN" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>FLANQUIN</role>, valet de la Taupinière.</castItem>
+			<castItem><role id="PICOTIN" sex="1" type="H" statut='poète' age='A' stat_amour='néant'>PICOTIN</role>, Poète.</castItem>
+			<castItem><role id="MONSIEUR GREVAL" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>MONSIEUR GREVAL</role>, Bourgeois, voisin d'Iscarie.</castItem>
 		</castList>
 		<set location='Paris' country='France' periode='XVIIème' link=''>La Scène est à Paris</set>
 </front>

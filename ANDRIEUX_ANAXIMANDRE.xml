@@ -7,9 +7,10 @@
 				<author born='1759' born_location='Paris' death='1833' death_location='Paris' academie='1802'>ANDRIEUX, François Guilaume Jean Stanislas</author>
 				<date>1782</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE Novembre 2009, revu décembre 2015.</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs orientales</inspiration>
@@ -35,7 +36,7 @@
       <docDate value="1784">M. DCC. LXXXIV.</docDate>
       <docAuthor id='ANDRIEUX, François' bio='andrieux'>par Mr. ANDRIEUX</docAuthor>
 	<docImprint>
-		<privilege id="VEUVE DUSCHENE">A PARIS, Chez la Veuve DUCHESNE, Libraire, rue Saint-Jacques, au Temple du Goût. </privilege>
+		<privilege id="VEUVE DUSCHENE">À PARIS, Chez la Veuve DUCHESNE, Libraire, rue Saint-Jacques, au Temple du Goût. </privilege>
 		<acheveImprime id=""></acheveImprime>
 		<printer id=""/>
 	</docImprint>
@@ -44,7 +45,7 @@
 		
 	</performance>
 
-<adresse>
+<div type="dedicace">
 	<head>À MA SOEUR. </head>
 	<l id='1'>Ô ma soeur, ma plus tendre amie, </l>
 	<l id='2'>Toi qui joins, malgré la douleur </l>
@@ -56,7 +57,7 @@
 	<l id='8'>Le ton flatteur des Dédicaces ; </l>
 	<l id='9'>Mais si mes Vers ont ton aveu, </l>
 	<l id='10'>Je compte sur celui des Grâces.</l>
-	</adresse>
+</div>
 <div type="preface">
 <head>ANAXIMANDRE, ROMANCE. (*) </head>
 <p>Une Romance très agréable de M. FRANÇOIS DE NEUFCHATEAU, insérée dans l'Almanach des Muses de 1775, m'a fourni l'idée première de ma petite Comédie. Je fais imprimer ici cette Romance pour le plaisir des Lecteurs, et pour rendre à son Auteur l'hommage que je lui dois.</p>
@@ -124,12 +125,12 @@
 	<l id='62'>Mais sans les Grâces, ce n'est rien. </l>
 </div>
 	<castList><head>ACTEURS.</head>
-      	<castItem><role id="PHROSINE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>PHROSINE</role>.</castItem>
-      	<castItem><role id="ASPASIE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>ASPASIE</role>, soeur de Phrosine</castItem>
-      	<castItem><role id="MÉLIDORE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>MÉLIDORE</role>.</castItem>
-      	<castItem><role id="ANAXIMANDRE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='amoureux'>ANAXIMANDRE</role>.</castItem>
-      	<castItem><role id="PRÊTRESSE" civil='F' type="H" statut='prêtresse' age='A' stat_amour='néant'>UNE PRÊTRESSE DES GRACES</role>.</castItem>
-      	<castItem><role id="PRÊTRESSES" civil='G' type="H" statut='prêtresse' age='A' stat_amour='néant'>DEUX AUTRES PRÊTRESSES</role></castItem>
+      	<castItem><role id="PHROSINE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>PHROSINE</role>.</castItem>
+      	<castItem><role id="ASPASIE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>ASPASIE</role>, soeur de Phrosine</castItem>
+      	<castItem><role id="MÉLIDORE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>MÉLIDORE</role>.</castItem>
+      	<castItem><role id="ANAXIMANDRE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>ANAXIMANDRE</role>.</castItem>
+      	<castItem><role id="PRÊTRESSE" sex="2" type="H" statut='prêtresse' age='A' stat_amour='néant'>UNE PRÊTRESSE DES GRACES</role>.</castItem>
+      	<castItem><role id="PRÊTRESSES" sex="9" type="H" statut='prêtresse' age='A' stat_amour='néant'>DEUX AUTRES PRÊTRESSES</role></castItem>
 	</castList>
 <set location='Athènes' country='Grèce' periode='(non indiqué)' link=''>La Scène est à Athènes. </set>
 </front>

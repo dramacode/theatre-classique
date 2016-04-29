@@ -6,9 +6,10 @@
 			<title>LE CAFÉ, COMÉDIE EN UN ACTE</title>
 			<author born='1670' born_location='Paris' death='1741' death_location='Bruxelles' academie='1743'>ROUSSEAU, Jean Baptiste</author>
 		</titleStmt>
-		<publicationStmp>
+		<publicationStmt>
 			<p>publié par Paul FIEVRE, décembre 2011</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Comédie</genre>
 			<inspiration>moeurs françaises</inspiration>
@@ -48,18 +49,18 @@ chose qui fût digne de leur être appris.</p>
 </div>
 
 	<castList><head>PERSONNAGES</head>
-		<castItem><role id="MADAME-JÉROME" civil="F" type="H" statut='commerçant' age='A' stat_amour='néant'>MADAME JÉROME</role>, marchande de café.</castItem>
-		<castItem><role id="LOUISON" civil="F" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>LOUISON</role>, sa fille.</castItem>
-		<castItem><role id="DORANTE" civil="M" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>DORANTE</role>, amant de Louison.</castItem>
-		<castItem><role id="MONSIEUR JOBELIN" civil="M" type="H" statut='notaire' age='A' stat_amour='néant'>MONSIEUR JOBELIN</role>, notaire.</castItem>
-		<castItem><role id="LA SOURDIÈRE" civil="M" type="H" statut='bourgeois' age='A' stat_amour='néant'>LA SOURDIÈRE</role>, ami de Monsieur Jobelin.</castItem>
-		<castItem><role id="LE CHEVALIER" civil="M" type="H" statut='chevalier' age='A' stat_amour='néant'>LE CHEVALIER</role>, ami de Dorante.</castItem>
-		<castItem><role id="CORONIS" civil="M" type="H" statut='bourgeois' age='A' stat_amour='néant'>CORONIS</role>, gascon, ami de Dorante.</castItem>
-		<castItem><role id="L'ABBÉ" civil="M" type="H" statut='abbé' age='A' stat_amour='néant'>L'ABBÉ</role>, ami de Dorante.</castItem>
-		<castItem><role id="CARONDAS" civil="M" type="H" statut='poète' age='A' stat_amour='néant'>CARONDAS</role>, poète.</castItem>
-		<castItem><role id="LA FLÈCHE" civil="M" type="H" statut='valet' age='A' stat_amour='néant'>LA FLÈCHE</role>, valet de Dorante..</castItem>
-		<castItem><role id="PREMIER JOUEUR" civil="M" type="H" statut='joueur' age='A' stat_amour='néant'>PREMIER JOUEUR de dames</role>.</castItem>
-		<castItem><role id="SECOND JOUEUR" civil="M" type="H" statut='joueur' age='A' stat_amour='néant'>SECOND JOUEUR de dames</role>.</castItem>
+		<castItem><role id="MADAME-JÉROME" sex="2" type="H" statut='commerçant' age='A' stat_amour='néant'>MADAME JÉROME</role>, marchande de café.</castItem>
+		<castItem><role id="LOUISON" sex="2" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>LOUISON</role>, sa fille.</castItem>
+		<castItem><role id="DORANTE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>DORANTE</role>, amant de Louison.</castItem>
+		<castItem><role id="MONSIEUR JOBELIN" sex="1" type="H" statut='notaire' age='A' stat_amour='néant'>MONSIEUR JOBELIN</role>, notaire.</castItem>
+		<castItem><role id="LA SOURDIÈRE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>LA SOURDIÈRE</role>, ami de Monsieur Jobelin.</castItem>
+		<castItem><role id="LE CHEVALIER" sex="1" type="H" statut='chevalier' age='A' stat_amour='néant'>LE CHEVALIER</role>, ami de Dorante.</castItem>
+		<castItem><role id="CORONIS" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>CORONIS</role>, gascon, ami de Dorante.</castItem>
+		<castItem><role id="L'ABBÉ" sex="1" type="H" statut='abbé' age='A' stat_amour='néant'>L'ABBÉ</role>, ami de Dorante.</castItem>
+		<castItem><role id="CARONDAS" sex="1" type="H" statut='poète' age='A' stat_amour='néant'>CARONDAS</role>, poète.</castItem>
+		<castItem><role id="LA FLÈCHE" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>LA FLÈCHE</role>, valet de Dorante..</castItem>
+		<castItem><role id="PREMIER JOUEUR" sex="1" type="H" statut='joueur' age='A' stat_amour='néant'>PREMIER JOUEUR de dames</role>.</castItem>
+		<castItem><role id="SECOND JOUEUR" sex="1" type="H" statut='joueur' age='A' stat_amour='néant'>SECOND JOUEUR de dames</role>.</castItem>
     </castList>
 	<set location='Paris' country='France' periode='XVIIème' link=''></set>
 </front>

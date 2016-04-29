@@ -6,9 +6,10 @@
 				<title>COLIN-MAILLARD, COMÉDIE</title>
 				<author born='1661' born_location='Fontainebleau' death='1725' death_location='Courcelles-le-Roi' academie=''>DANCOURT, Florent CARTON dit</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, octobre 2013.</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -40,16 +41,16 @@
 			<premiere date='1701-10-18' location='Théâtre de la rue des Fossés Saint-Germain'>Représentée pour la première fois le 18 Octobre 1701 au Théâtre de la rue des Fossés Saint-Germain.</premiere>
 		</performance>
 		<castList><head>ACTEURS</head>
-			<castItem><role id='MONSIEUR ROBINOT' civil='M' type="H" statut="bourgeois" age="A" stat_amour='néant'>MONSIEUR ROBINOT</role>, tuteur d’Angélique.</castItem>
-			<castItem><role id='MADAME BRILLARD' civil='F' type="H" statut="bourgeois" age="V" stat_amour='néant'>MADAME BRILLARD</role>, tante de Monsieur Robinot.</castItem>
-			<castItem><role id='ANGÉLIQUE' civil='F' type="H" statut="bourgeois" age="A" stat_amour='néant'>ANGÉLIQUE</role>.</castItem>
-			<castItem><role id='CLAUDINE' civil='F' type="H" statut="bourgeois" age="A" stat_amour='mathurin'>CLAUDINE</role>, fiancée à Mathurin.</castItem>
-			<castItem><role id='MONSIEUR MATHURIN' civil='M' type="H" statut="jardinier" age="A" stat_amour='néant'>MONSIEUR MATHURIN</role>, Jardinier de Monsieur Robinot.</castItem>
-			<castItem><role id='ÉRASTE' civil='M' type="H" statut="bourgeois" age="A" stat_amour='néant'>ÉRASTE</role>, amant d’Angélique.</castItem>
-			<castItem><role id='LÉPINE' civil='M' type="H" statut="valet" age="A" stat_amour='néant'>LÉPINE</role>, valet d’Éraste.</castItem>
-			<castItem><role id='LE BAILLI' civil='M' type="H" statut="bailli" age="A" stat_amour='néant'>LE BAILLI</role>, cousin de Monsieur Robinot.</castItem>
-			<castItem><role id='VIOLONS' civil='G' type="H" statut="musicien" age="A" stat_amour='néant'>VIOLONS</role>.</castItem>
-			<castItem><role id='PAYSANS et PAYSANNES' civil='G' type="H" statut="paysan" age="A" stat_amour='néant'>PAYSANS et PAYSANNES</role>.</castItem>
+			<castItem><role id='MONSIEUR ROBINOT' sex="1" type="H" statut="bourgeois" age="A" stat_amour='néant'>MONSIEUR ROBINOT</role>, tuteur d’Angélique.</castItem>
+			<castItem><role id='MADAME BRILLARD' sex="2" type="H" statut="bourgeois" age="V" stat_amour='néant'>MADAME BRILLARD</role>, tante de Monsieur Robinot.</castItem>
+			<castItem><role id='ANGÉLIQUE' sex="2" type="H" statut="bourgeois" age="A" stat_amour='néant'>ANGÉLIQUE</role>.</castItem>
+			<castItem><role id='CLAUDINE' sex="2" type="H" statut="bourgeois" age="A" stat_amour='mathurin'>CLAUDINE</role>, fiancée à Mathurin.</castItem>
+			<castItem><role id='MONSIEUR MATHURIN' sex="1" type="H" statut="jardinier" age="A" stat_amour='néant'>MONSIEUR MATHURIN</role>, Jardinier de Monsieur Robinot.</castItem>
+			<castItem><role id='ÉRASTE' sex="1" type="H" statut="bourgeois" age="A" stat_amour='néant'>ÉRASTE</role>, amant d’Angélique.</castItem>
+			<castItem><role id='LÉPINE' sex="1" type="H" statut="valet" age="A" stat_amour='néant'>LÉPINE</role>, valet d’Éraste.</castItem>
+			<castItem><role id='LE BAILLI' sex="1" type="H" statut="bailli" age="A" stat_amour='néant'>LE BAILLI</role>, cousin de Monsieur Robinot.</castItem>
+			<castItem><role id='VIOLONS' sex="9" type="H" statut="musicien" age="A" stat_amour='néant'>VIOLONS</role>.</castItem>
+			<castItem><role id='PAYSANS et PAYSANNES' sex="9" type="H" statut="paysan" age="A" stat_amour='néant'>PAYSANS et PAYSANNES</role>.</castItem>
 		</castList>
 		<set location='Andrésy' country='France' periode='XVIIème' link=''>La Scène est à Andrésy.</set>
 </front>

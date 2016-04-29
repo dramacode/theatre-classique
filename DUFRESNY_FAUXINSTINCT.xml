@@ -7,9 +7,10 @@
 <author born='1657' born_location='Paris' death='1724' death_location='Paris' academie=''>DU FRESNY, Charles Rivière</author>
 				<date>1707</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, avril 2011</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -54,16 +55,16 @@
 			<premiere date="1707-08-02" location='Théâtre de la rue des Fossés Saint-Germain'>Représentée pour la première fois le 2 août 1707 au Théâtre de la rue des Fossés Saint-Germain.</premiere>
 		</performance>
 	<castList><head>PERSONNAGES</head>
-		<castItem><role id="LE VIEILLARD" civil='M' type="H" statut='bourgeois' age='V' stat_amour='néant'>LE VIEILLARD</role>.</castItem>
-		<castItem><role id="LA VEUVE DU VIEILLARD" civil='F' type="H" statut='bourgeois' age='V' stat_amour='néant'>LA VEUVE DU VIEILLARD</role>.</castItem>
-		<castItem><role id="LA VEUVE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>LA VEUVE</role>.</castItem>
-		<castItem><role id="LA PETITE FILLE" civil='F' type="H" statut='bourgeois' age='E' stat_amour='néant'>LA PETITE FILLE</role>.</castItem>
-		<castItem><role id="ANGÉLIQUE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>ANGÉLIQUE</role>.</castItem>
-		<castItem><role id="VALÈRE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='Angélique'>VALÈRE</role>, amant d'Angélique.</castItem>
-		<castItem><role id="TOINETTE" civil='F' type="H" statut='servente' age='A' stat_amour='néant'>TOINETTE</role>.</castItem>
-		<castItem><role id="L'AMIE DE PARIS" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>L'AMIE DE PARIS</role>.</castItem>
-		<castItem><role id="LE NOURRICIER" civil='M' type="H" statut='nourricier' age='A' stat_amour='néant'>LE NOURRICIER</role>.</castItem>
-		<castItem><role id="LA NOURRICE" civil='F' type="H" statut='nourrice' age='A' stat_amour='néant'>LA NOURRICE</role>.</castItem>
+		<castItem><role id="LE VIEILLARD" sex="1" type="H" statut='bourgeois' age='V' stat_amour='néant'>LE VIEILLARD</role>.</castItem>
+		<castItem><role id="LA VEUVE DU VIEILLARD" sex="2" type="H" statut='bourgeois' age='V' stat_amour='néant'>LA VEUVE DU VIEILLARD</role>.</castItem>
+		<castItem><role id="LA VEUVE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>LA VEUVE</role>.</castItem>
+		<castItem><role id="LA PETITE FILLE" sex="2" type="H" statut='bourgeois' age='E' stat_amour='néant'>LA PETITE FILLE</role>.</castItem>
+		<castItem><role id="ANGÉLIQUE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>ANGÉLIQUE</role>.</castItem>
+		<castItem><role id="VALÈRE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='Angélique'>VALÈRE</role>, amant d'Angélique.</castItem>
+		<castItem><role id="TOINETTE" sex="2" type="H" statut='servente' age='A' stat_amour='néant'>TOINETTE</role>.</castItem>
+		<castItem><role id="L'AMIE DE PARIS" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>L'AMIE DE PARIS</role>.</castItem>
+		<castItem><role id="LE NOURRICIER" sex="1" type="H" statut='nourricier' age='A' stat_amour='néant'>LE NOURRICIER</role>.</castItem>
+		<castItem><role id="LA NOURRICE" sex="2" type="H" statut='nourrice' age='A' stat_amour='néant'>LA NOURRICE</role>.</castItem>
 	</castList>
 	<set location="(non indiqué)" country='France' periode='XVIIIème' link=''></set>
 	</front>

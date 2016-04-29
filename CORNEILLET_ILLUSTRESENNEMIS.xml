@@ -7,9 +7,10 @@
 				<author born='1625' born_location='Rouen' death='1709' death_location='Les Andelys' academie='1685'>CORNEILLE, Thomas</author>
 				<date>1657</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, Août 2008</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs espagnoles</inspiration>
@@ -57,17 +58,17 @@
 			<premiere date="1655" location='Hôtel de Bourgogne'>Représenté pour la première fois en 1655 au Théâtre de l'Hôtel de Bourgogne.</premiere>
 		</performance>
 		<castList><head>ACTEURS</head>
-			<castItem><role id="DON LOPE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='Jacinte'>DON LOPE de Guzman</role>, amant de Jacinte.</castItem>
-			<castItem><role id="ENRIQUE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>ENRIQUE</role>, frère de Don Lope.</castItem>
-			<castItem><role id="ALONSE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>ALONSE DE ROXAS</role>, ami de Don Lope et d'Enrique.</castItem>
-			<castItem><role id="DON SANCHE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>DON SANCHE</role>, père de Don Alvar et de Jacinte.</castItem>
-			<castItem><role id="DON ALVAR" civil='M' type="H" statut='aristocrate' age='A' stat_amour='Cassandre'>DON ALVAR</role>, amant de Cassandre.</castItem>
-			<castItem><role id="DON RAMIRE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>DON RAMIRE</role>, ami de Don Sanche.</castItem>
-			<castItem><role id="DON LOUIS" civil='M' type="H" statut='prévôt' age='A' stat_amour='néant'>DON LOUIS</role>, Prévôt.</castItem>
-			<castItem><role id="CASSANDRE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='amoureux'>CASSANDRE</role>, soeur de Don Lope.</castItem>
-			<castItem><role id="JACINTE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='amoureux'>JACINTE</role>, fille de Don Sanche.</castItem>
-			<castItem><role id="BLANCHE" civil='F' type="H" statut='suivante' age='A' stat_amour='néant'>BLANCHE</role>, suivante de Jacinte.</castItem>
-			<castItem><role id="FLORE" civil='F' type="H" statut='suivante' age='A' stat_amour='néant'>FLORE</role>, suivante de Cassandre.</castItem>
+			<castItem><role id="DON LOPE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='Jacinte'>DON LOPE de Guzman</role>, amant de Jacinte.</castItem>
+			<castItem><role id="ENRIQUE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>ENRIQUE</role>, frère de Don Lope.</castItem>
+			<castItem><role id="ALONSE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>ALONSE DE ROXAS</role>, ami de Don Lope et d'Enrique.</castItem>
+			<castItem><role id="DON SANCHE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>DON SANCHE</role>, père de Don Alvar et de Jacinte.</castItem>
+			<castItem><role id="DON ALVAR" sex="1" type="H" statut='aristocrate' age='A' stat_amour='Cassandre'>DON ALVAR</role>, amant de Cassandre.</castItem>
+			<castItem><role id="DON RAMIRE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>DON RAMIRE</role>, ami de Don Sanche.</castItem>
+			<castItem><role id="DON LOUIS" sex="1" type="H" statut='prévôt' age='A' stat_amour='néant'>DON LOUIS</role>, Prévôt.</castItem>
+			<castItem><role id="CASSANDRE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='amoureux'>CASSANDRE</role>, soeur de Don Lope.</castItem>
+			<castItem><role id="JACINTE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='amoureux'>JACINTE</role>, fille de Don Sanche.</castItem>
+			<castItem><role id="BLANCHE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>BLANCHE</role>, suivante de Jacinte.</castItem>
+			<castItem><role id="FLORE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>FLORE</role>, suivante de Cassandre.</castItem>
 	</castList>
 	<set location='Madrid' country='Espagne' periode='XVIIème' link=''>La scène est à Madrid.</set>
 </front>

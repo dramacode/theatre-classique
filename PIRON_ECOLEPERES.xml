@@ -7,9 +7,10 @@
 				<author born='1689' born_location='Dijon' death='1773' death_location='Paris' academie=''>PIRON, Alexis</author>
 				<date>1728</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, Mai 2008; revu Décembre 2009</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -44,16 +45,16 @@
 		</performance>
 		<castList>
 			<head>ACTEURS</head>
-			<castItem><role id="CHRISALDE" civil='M' type="H" statut='bourgeois' age='V' stat_amour='néant'>CHRISALDE</role>, frère de Géronte.</castItem>
-			<castItem><role id="GERONTE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>GÉRONTE</role>, frère de Chrisalde et près d'Éraste, Damis et Valère.</castItem>
-			<castItem><role id="PASQUIN" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>PASQUIN</role>, valet de Géronte et fils de Grégoire.</castItem>
-			<castItem><role id="ANGELIQUE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>ANGÉLIQUE</role>, fille d'Argante.</castItem>
-			<castItem><role id="NERINE" civil='F' type="H" statut='suiavnte' age='A' stat_amour='néant'>NÉRINE</role>, suivante d'Angélique.</castItem>
-			<castItem><role id="ERASTE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>ÉRASTE</role>, frère de Damis et Valère.</castItem>
-			<castItem><role id="DAMIS" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>DAMIS</role>, frère d'Éraste et Valère.</castItem>
-			<castItem><role id="VALERE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>VALÈRE</role>, frère d'Éraste et Damis.</castItem>
-			<castItem><role id="GREGOIRE" civil='M' type="H" statut='bourgeois' age='V' stat_amour='néant'>GRÉGOIRE</role>, père de Pasquin.</castItem>
-			<castItem><role id="LAQUAIS" civil='M' type="H" statut='laquais' age='A' stat_amour='néant'>LAQUAIS</role>.</castItem>
+			<castItem><role id="CHRISALDE" sex="1" type="H" statut='bourgeois' age='V' stat_amour='néant'>CHRISALDE</role>, frère de Géronte.</castItem>
+			<castItem><role id="GERONTE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>GÉRONTE</role>, frère de Chrisalde et près d'Éraste, Damis et Valère.</castItem>
+			<castItem><role id="PASQUIN" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>PASQUIN</role>, valet de Géronte et fils de Grégoire.</castItem>
+			<castItem><role id="ANGELIQUE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>ANGÉLIQUE</role>, fille d'Argante.</castItem>
+			<castItem><role id="NERINE" sex="2" type="H" statut='suiavnte' age='A' stat_amour='néant'>NÉRINE</role>, suivante d'Angélique.</castItem>
+			<castItem><role id="ERASTE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>ÉRASTE</role>, frère de Damis et Valère.</castItem>
+			<castItem><role id="DAMIS" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>DAMIS</role>, frère d'Éraste et Valère.</castItem>
+			<castItem><role id="VALERE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>VALÈRE</role>, frère d'Éraste et Damis.</castItem>
+			<castItem><role id="GREGOIRE" sex="1" type="H" statut='bourgeois' age='V' stat_amour='néant'>GRÉGOIRE</role>, père de Pasquin.</castItem>
+			<castItem><role id="LAQUAIS" sex="1" type="H" statut='laquais' age='A' stat_amour='néant'>LAQUAIS</role>.</castItem>
 		</castList>
 		<set location='France' country='France' periode='XVIIIème' link=''>La scène est dans l'antichambre de Géronte.</set>
 	</front>

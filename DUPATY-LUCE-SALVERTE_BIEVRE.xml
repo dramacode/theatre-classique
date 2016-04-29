@@ -6,9 +6,10 @@
 				<title>MONSIEUR DE BIEVRE, OU L'ABUS DE L'ESPRIT, CALEMBOURG, EN UN ACTE ET EN VAUDEVILLE</title>
 				<author born='1606' born_location='Rouen' death='1684' death_location='Paris' academie='1647'>CORNEILLE, Pierre</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE</p><p>Mai 2006</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -68,12 +69,12 @@
 		</div>
 			
 		<castList><head>PERSONNAGES, ACTEURS.</head>
-			<castItem><role id='DE CHAMBRE' civil='M' type="H" statut='aristocrate' age='A' stat_amour='Julie'>DE CHAMBRE</role>, amant de Julie,	Citoyen FRÉDÉRIC.</castItem>
-			<castItem><role id='DE BIÈVRE' civil='M' type="H" statut='aristocrate' age='A' stat_amour='Julie'>DE BIEVRE</role>,	Citoyen BELFORD.</castItem>
-			<castItem><role id='JULIE DE LATOUR' civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>JULIE DE LATOUR</role>,	Citoyenne AUGER. </castItem>
-			<castItem><role id='LAROCHE' civil='F' type="H" statut='femme de chambre' age='A' stat_amour='néant'>LAROCHE</role>, femme de chambre de Julie. Citoyenne DELISLE</castItem>	
-			<castItem><role id='DUBOIS' civil='M' type="H" statut='valet' age='A' stat_amour='néant'>DUBOIS</role>, valet de M. de Bievre, Citoyen LÉGER.</castItem>
-			<castItem><role id='UN VALET' civil='M' type="H" statut='valet' age='A' stat_amour='néant'>UN VALET</role>.</castItem>
+			<castItem><role id='DE CHAMBRE' sex="1" type="H" statut='aristocrate' age='A' stat_amour='Julie'>DE CHAMBRE</role>, amant de Julie,	Citoyen FRÉDÉRIC.</castItem>
+			<castItem><role id='DE BIÈVRE' sex="1" type="H" statut='aristocrate' age='A' stat_amour='Julie'>DE BIEVRE</role>,	Citoyen BELFORD.</castItem>
+			<castItem><role id='JULIE DE LATOUR' sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>JULIE DE LATOUR</role>,	Citoyenne AUGER. </castItem>
+			<castItem><role id='LAROCHE' sex="2" type="H" statut='femme de chambre' age='A' stat_amour='néant'>LAROCHE</role>, femme de chambre de Julie. Citoyenne DELISLE</castItem>	
+			<castItem><role id='DUBOIS' sex="1" type="H" statut='valet' age='A' stat_amour='néant'>DUBOIS</role>, valet de M. de Bievre, Citoyen LÉGER.</castItem>
+			<castItem><role id='UN VALET' sex="1" type="H" statut='valet' age='A' stat_amour='néant'>UN VALET</role>.</castItem>
 		</castList>
 		<set location='Paris' country='France' periode='XVIIIème' link=''>Le Théâtre représente un appartement.  </set>
 	</front>

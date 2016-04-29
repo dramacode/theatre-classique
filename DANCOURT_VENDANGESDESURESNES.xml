@@ -6,9 +6,10 @@
 				<title>LES VENDANGES DE SURESNES, COMÉDIE</title>
 				<author born='1661' born_location='Fontainebleau' death='1725' death_location='Courcelles-le-Roi' academie=''>DANCOURT, Florent CARTON dit</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, mars 2013</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -42,17 +43,17 @@
 			<premiere date='1695-10-15' location='Théâtre de la rue des Fossés Saint-Germain'>Représentée pour la première fois le 15 octobre 1695 au Théâtre de la rue des Fossés Saint-Germain.</premiere>
 		</performance>
 		<castList><head>ACTEURS</head>
-			<castItem><role id='MONSIEUR THOMASSEAU' civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>MONSIEUR THOMASSEAU</role>.</castItem> 
-			<castItem><role id='MARIANE' civil='F' type="H" statut='bourgeois' age='J' stat_amour='amoureux'>MARIANE</role>, sa fille.</castItem> 
-			<castItem><role id='THIBAUT' civil='M' type="H" statut='jardinier' age='A' stat_amour='néant'>THIBAUT</role>, jardinier de Monsieur Thomasseau.</castItem> 
-			<castItem><role id='CLITANDRE' civil='M' type="H" statut='bourgeois' age='A' stat_amour='amoureux'>CLITANDRE</role>, amant de Mariane.</castItem> 
-			<castItem><role id='MADAME DESMARTINS' civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>MADAME DESMARTINS</role>, tante de Clitandre et d’Angélique.</castItem> 
-			<castItem><role id='ANGÉLIQUE' civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>ANGÉLIQUE</role>, sœur de Clitandre.</castItem> 
-			<castItem><role id='MADAME DUBUISSON' civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>MADAME DUBUISSON</role>, cousine de Thibaut.</castItem> 
-			<castItem><role id='MONSIEUR VIVIEN' civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>MONSIEUR VIVIEN</role>, Provincial.</castItem> 
-			<castItem><role id='BATIEN' civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>BASTIEN</role>, son cousin.</castItem> 
-			<castItem><role id='LORANGE' civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>LORANGE</role>, ami de Madame Dubuisson.</castItem>  
-			<castItem><role id='VENDANGEURS et VENDANGEUSES' civil='G' type="H" statut='paysan' age='A' stat_amour='néant'>VENDANGEURS et VENDANGEUSES</role>.</castItem> 
+			<castItem><role id='MONSIEUR THOMASSEAU' sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>MONSIEUR THOMASSEAU</role>.</castItem> 
+			<castItem><role id='MARIANE' sex="2" type="H" statut='bourgeois' age="J" stat_amour='amoureux'>MARIANE</role>, sa fille.</castItem> 
+			<castItem><role id='THIBAUT' sex="1" type="H" statut='jardinier' age='A' stat_amour='néant'>THIBAUT</role>, jardinier de Monsieur Thomasseau.</castItem> 
+			<castItem><role id='CLITANDRE' sex="1" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>CLITANDRE</role>, amant de Mariane.</castItem> 
+			<castItem><role id='MADAME DESMARTINS' sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>MADAME DESMARTINS</role>, tante de Clitandre et d’Angélique.</castItem> 
+			<castItem><role id='ANGÉLIQUE' sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>ANGÉLIQUE</role>, sœur de Clitandre.</castItem> 
+			<castItem><role id='MADAME DUBUISSON' sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>MADAME DUBUISSON</role>, cousine de Thibaut.</castItem> 
+			<castItem><role id='MONSIEUR VIVIEN' sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>MONSIEUR VIVIEN</role>, Provincial.</castItem> 
+			<castItem><role id='BATIEN' sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>BASTIEN</role>, son cousin.</castItem> 
+			<castItem><role id='LORANGE' sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>LORANGE</role>, ami de Madame Dubuisson.</castItem>  
+			<castItem><role id='VENDANGEURS et VENDANGEUSES' sex="9" type="H" statut='paysan' age='A' stat_amour='néant'>VENDANGEURS et VENDANGEUSES</role>.</castItem> 
 		</castList>
 		<set location='Suresnes' country='France' periode='XVIIème' link=''>La scène est à Suresnes.</set>
 	</front>

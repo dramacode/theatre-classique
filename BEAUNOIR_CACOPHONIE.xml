@@ -7,9 +7,10 @@
 			<author born='17460' born_location='Paris' death='1823' death_location='Paris' academie=''>BEAUNOIR, Alexandre-Louis-Bertrand Robineau dit de</author>
 			
 		</titleStmt>
-		<publicationStmp>	
+		<publicationStmt>	
 			<p>publié par Paul FIEVRE, septembre 2014</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -45,16 +46,16 @@
 			<premiere date='1779-07-31' location="Théâtre des Grands Danseurs du Roi">Représentée, pour la première fois le 31 juillet 1779, à Paris, sur le Théâtre des Grands Danseurs du Roi.</premiere>
 		</performance>
 		<castList><head>PERSONNAGES</head>
-			<castItem><role id="SILVESTRE" civil="M" type="H" statut='meunier' age='A' stat_amour='néant'>SILVESTRE</role>, Meunier. </castItem>
-			<castItem><role id="CLAUDINE" civil="M" type="H" statut='meunier' age='A' stat_amour='néant'>CLAUDINE</role>, sa Femme. </castItem>
-			<castItem><role id="LUCETTE" civil="M" type="H" statut='bourgeois' age='A' stat_amour='néant'>LUCETTE</role>, sa Fille.</castItem>
-			<castItem><role id="VUIDE-GOUSSET" civil="M" type="H" statut='procureur' age='A' stat_amour='néant'>VUIDE-GOUSSET</role>, Procureur, rival de Vincent. </castItem>
-			<castItem><role id="VINCENT" civil="M" type="H" statut='couvreur' age='A' stat_amour='néant'>VINCENT</role>, Couvreur, Amant de Lucette.</castItem>
-			<castItem><role id="BROUTILLARD" civil="M" type="H" statut='clers' age='A' stat_amour='néant'>BROUTILLARD</role>,  Clerc de M. Vuide-Gousset.</castItem>
-			<castItem><role id="GILLES" civil="M" type="H" statut='bourgeois' age='A' stat_amour='néant'>GILLES</role>.</castItem>
-			<castItem><role id="MONSIEUR PREND-TOUT" civil="M" type="H" statut='procureur' age='A' stat_amour='néant'>MONSIEUR PREND-TOUT</role>, autre Procureur. Dans le Parquet.</castItem>
-			<castItem><role id="UN MEUNIER" civil="M" type="H" statut='meunier' age='A' stat_amour='néant'>UN MEUNIER</role>.    Aux secondes  Loges à droite.</castItem>
-			<castItem><role id="MADAME CARPILLON" civil="F" type="H" statut='commerçant' age='A' stat_amour='néant'>MADAME CARPILLON</role>, Poissarde. Aux secondes Loges à gauche.  </castItem>
+			<castItem><role id="SILVESTRE" sex="1" type="H" statut='meunier' age='A' stat_amour='néant'>SILVESTRE</role>, Meunier. </castItem>
+			<castItem><role id="CLAUDINE" sex="1" type="H" statut='meunier' age='A' stat_amour='néant'>CLAUDINE</role>, sa Femme. </castItem>
+			<castItem><role id="LUCETTE" sex="1" type="H" statut='bourgeois' age='J' stat_amour='néant'>LUCETTE</role>, sa Fille.</castItem>
+			<castItem><role id="VUIDE-GOUSSET" sex="1" type="H" statut='procureur' age='A' stat_amour='néant'>VUIDE-GOUSSET</role>, Procureur, rival de Vincent. </castItem>
+			<castItem><role id="VINCENT" sex="1" type="H" statut='couvreur' age='J' stat_amour='néant'>VINCENT</role>, Couvreur, Amant de Lucette.</castItem>
+			<castItem><role id="BROUTILLARD" sex="1" type="H" statut='clers' age='A' stat_amour='néant'>BROUTILLARD</role>,  Clerc de M. Vuide-Gousset.</castItem>
+			<castItem><role id="GILLES" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>GILLES</role>.</castItem>
+			<castItem><role id="MONSIEUR PREND-TOUT" sex="1" type="H" statut='procureur' age='A' stat_amour='néant'>MONSIEUR PREND-TOUT</role>, autre Procureur. Dans le Parquet.</castItem>
+			<castItem><role id="UN MEUNIER" sex="1" type="H" statut='meunier' age='A' stat_amour='néant'>UN MEUNIER</role>. Aux secondes  Loges à droite.</castItem>
+			<castItem><role id="MADAME CARPILLON" sex="2" type="H" statut='commerçant' age='A' stat_amour='néant'>MADAME CARPILLON</role>, Poissarde. Aux secondes Loges à gauche.</castItem>
 		</castList>
 		<set location='Paris' country='France' periode='XVIIIème' link=''></set>
 		

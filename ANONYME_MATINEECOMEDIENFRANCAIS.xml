@@ -6,9 +6,10 @@
 				<title>LA MATINÉE DU COMÉDIEN FRANÇAIS, COMÉDIE</title>
 			<author born='' born_location='' death='' death_location='' academie=''>Anonyme</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE juillet 2011.</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Proverbe</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -44,11 +45,11 @@
 		</performance>
 	<castList>
 		<head>PERSONNAGES.</head>
-			<castItem><role id="BELVAL" civil='M' type="H" statut='comédien' age='A' stat_amour='néant'>BELVAL</role>, Comédien. </castItem> 
-			<castItem><role id="SOPHIE" civil='F' type="H" statut='comédien' age='A' stat_amour='néant'>SOPHIE</role>, Comédienne.</castItem> 
-			<castItem><role id="LE-COMTE-DE-MOEURSEVILLE" civil='M' type="H" statut='comte' age='A' stat_amour='néant'>LE COMTE DE MOEURSEVILLE</role>.</castItem> 
-			<castItem><role id="VERVILLE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>VERVILLE</role>.</castItem> 
-			<castItem><role id="LA-FLEUR" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>LA FLEUR</role>, Valet de Belval.</castItem> 
+			<castItem><role id="BELVAL" sex="1" type="H" statut='comédien' age='A' stat_amour='néant'>BELVAL</role>, Comédien. </castItem> 
+			<castItem><role id="SOPHIE" sex="2" type="H" statut='comédien' age='A' stat_amour='néant'>SOPHIE</role>, Comédienne.</castItem> 
+			<castItem><role id="LE COMTE DE MOEURSEVILLE" sex="1" type="H" statut='comte' age='A' stat_amour='néant'>LE COMTE DE MOEURSEVILLE</role>.</castItem> 
+			<castItem><role id="VERVILLE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>VERVILLE</role>.</castItem> 
+			<castItem><role id="LA-FLEUR" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>LA FLEUR</role>, Valet de Belval.</castItem> 
 	</castList>
 <set location='France' country='France' periode='XVIIIème' link=''>La Scène se passe dans le bel appartement de Belval.</set>
 </front>

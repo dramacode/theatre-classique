@@ -7,9 +7,10 @@
 				<author born='1609' born_location='Dreux' death='1650' death_location='Dreux' academie=''>ROTROU, Jean</author>
 				<date>1637</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<authority>publié par Ernest FIEVRE, mars 2007</authority>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Pastorale</genre>
 				<inspiration>pastorale</inspiration>
@@ -39,18 +40,18 @@
 		</performance>
 
 	<castList><head>PERSONNAGES</head>
-		<castItem><role id='CLEAGENOR' civil="M" type="H" statut='serviteur' age='A' stat_amour='néant'>CLÉAGÉNOR</role>, serviteur de Doristée.</castItem>
-		<castItem><role id='THEANDRE' civil="M" type="H" statut='bourgeois' age='A' stat_amour='néant'>THÉANDRE</role>, ami de Cléagénor.</castItem>
-		<castItem><role id='OZANOR' civil="M" type="H" statut='bourgeois' age='A' stat_amour='néant'>OZANOR</role>, ami de Ménandre.</castItem>
-		<castItem><role id='DORISTEE' civil="F" type="H" statut='bourgeois' age='A' stat_amour='néant'>DORISTÉE</role>, maîtresse de Cléagénor.</castItem>
-		<castItem><role id='PREMIER_VOLEUR' civil="M" type="H" statut='voleur' age='A' stat_amour='néant'>PREMIER VOLEUR</role>.</castItem>
-		<castItem><role id='DEUXIEME_VOLEUR' civil="M" type="H" statut='voleur' age='A' stat_amour='néant'>DEUXIÈME VOLEUR</role>.</castItem>
-		<castItem><role id='ARCHERS' civil="G" type="H" statut='archer' age='A' stat_amour='néant'>ARCHERS</role>.</castItem>
-		<castItem><role id='PHILEMOND' civil="F" type="H" statut='page' age='A' stat_amour='néant'>PHILEMOND</role>, Doristée en habit de Page.</castItem>
-		<castItem><role id='CONSEILLER' civil="M" type="H" statut='conseiller' age='A' stat_amour='néant'>LE CONSEILLER</role>.</castItem>
-		<castItem><role id='DORANTE' civil="F" type="H" statut='bourgeois' age='A' stat_amour='néant'>DORANTE</role>, femme de Théandre.</castItem>
-		<castItem><role id='DIANE' civil="D" type="H" statut='suivante' age='A' stat_amour='néant'>DIANE</role>, damoiselle de Dorante.</castItem>
-		<castItem><role id='PHILACTE' civil="M" type="H" statut='serviteur' age='A' stat_amour='néant'>PHILACTE</role>, serviteur de Théandre.</castItem>
+		<castItem><role id='CLEAGENOR' sex="1" type="H" statut='serviteur' age='A' stat_amour='néant'>CLÉAGÉNOR</role>, serviteur de Doristée.</castItem>
+		<castItem><role id='THEANDRE' sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>THÉANDRE</role>, ami de Cléagénor.</castItem>
+		<castItem><role id='OZANOR' sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>OZANOR</role>, ami de Ménandre.</castItem>
+		<castItem><role id='DORISTEE' sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>DORISTÉE</role>, maîtresse de Cléagénor.</castItem>
+		<castItem><role id='PREMIER_VOLEUR' sex="1" type="H" statut='voleur' age='A' stat_amour='néant'>PREMIER VOLEUR</role>.</castItem>
+		<castItem><role id='DEUXIEME_VOLEUR' sex="1" type="H" statut='voleur' age='A' stat_amour='néant'>DEUXIÈME VOLEUR</role>.</castItem>
+		<castItem><role id='ARCHERS' sex="9" type="H" statut='archer' age='A' stat_amour='néant'>ARCHERS</role>.</castItem>
+		<castItem><role id='PHILEMOND' sex="2" type="H" statut='page' age='A' stat_amour='néant'>PHILEMOND</role>, Doristée en habit de Page.</castItem>
+		<castItem><role id='CONSEILLER' sex="1" type="H" statut='conseiller' age='A' stat_amour='néant'>LE CONSEILLER</role>.</castItem>
+		<castItem><role id='DORANTE' sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>DORANTE</role>, femme de Théandre.</castItem>
+		<castItem><role id='DIANE' sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>DIANE</role>, damoiselle de Dorante.</castItem>
+		<castItem><role id='PHILACTE' sex="1" type="H" statut='serviteur' age='A' stat_amour='néant'>PHILACTE</role>, serviteur de Théandre.</castItem>
 	</castList>
 <set location='(non indiqué)' country='(inconnu)' periode='(inconnue)' link=''></set>
 </front>

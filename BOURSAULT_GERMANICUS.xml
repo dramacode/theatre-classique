@@ -7,9 +7,10 @@
 				<author born='1638' born_location="Mussy-l Evêque" death='1701' death_location='Paris' academie=''>BOURSAULT, Edme</author>
 				<date>1673</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<authority>publié par Paul FIEVRE, Juin 2010</authority>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire romaine</inspiration>
@@ -57,14 +58,14 @@
 		<premiere date="1673-05-25" location='Théâtre du Marais'>Représentée, pour la première fois, à Paris, par les Comédiens du Roi, le 25 mai 1673 au Théâtre du Marais. </premiere>
 	</performance>
 			<castList><head>ACTEURS</head>
-				<castItem><role id="GERMANICUS" civil="M" type="H" statut="aristocrate" age="A" stat_amour='néant'>GERMANICUS</role>, neveu de Tibère.</castItem>
-				<castItem><role id="DRUSUS" civil="M" type="H" statut="aristocrate" age="A" stat_amour='néant'>DRUSUS</role>, frère de Tibère.</castItem>
-				<castItem><role id="AGRIPPINE" civil="F" type="H" statut="aristocrate" age="A" stat_amour='néant'>AGRIPPINE</role>, fille de M. Agrippa et petite-fille d'Auguste.</castItem>
-				<castItem><role id="LIVIE" civil="F" type="H" statut="aristocrate" age="A" stat_amour='néant'>LIVIE</role>, soeur de Germanicus.</castItem>
-				<castItem><role id="PISON" civil="M" type="H" statut="romain" age="A" stat_amour='néant'>PISON</role>, chevalier romain.</castItem>
-				<castItem><role id="FLAVIE" civil="F" type="H" statut="confident" age="A" stat_amour='néant'>FLAVIE</role>, confidente d'Agripine.</castItem>
-				<castItem><role id="ALBIN" civil="M" type="H" statut="confident" age="A" stat_amour='néant'>ALBIN</role>, confident de Germanicus.</castItem>
-				<castItem><role id="FLAVIAN" civil="M" type="H" statut="confident" age="A" stat_amour='néant'>FLAVIAN</role>, confident de Pison.</castItem>
+				<castItem><role id="GERMANICUS" sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>GERMANICUS</role>, neveu de Tibère.</castItem>
+				<castItem><role id="DRUSUS" sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>DRUSUS</role>, frère de Tibère.</castItem>
+				<castItem><role id="AGRIPPINE" sex="2" type="H" statut="aristocrate" age="J" stat_amour='néant'>AGRIPPINE</role>, fille de M. Agrippa et petite-fille d'Auguste.</castItem>
+				<castItem><role id="LIVIE" sex="2" type="H" statut="aristocrate" age="A" stat_amour='néant'>LIVIE</role>, soeur de Germanicus.</castItem>
+				<castItem><role id="PISON" sex="1" type="H" statut="chevalier" age="A" stat_amour='néant'>PISON</role>, chevalier romain.</castItem>
+				<castItem><role id="FLAVIE" sex="2" type="H" statut="confident" age="A" stat_amour='néant'>FLAVIE</role>, confidente d'Agripine.</castItem>
+				<castItem><role id="ALBIN" sex="1" type="H" statut="confident" age="A" stat_amour='néant'>ALBIN</role>, confident de Germanicus.</castItem>
+				<castItem><role id="FLAVIAN" sex="1" type="H" statut="confident" age="A" stat_amour='néant'>FLAVIAN</role>, confident de Pison.</castItem>
 			</castList>
 		<set location='Rome' country='Italie' periode='Ier' link=''>La scène et à Rome, aux jardins de Lucule.</set>
 </front>

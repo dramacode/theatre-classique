@@ -7,9 +7,10 @@
 				<author born='1730' born_location='Nancy' death='1814' death_location='Paris' academie=''>PALISSOT de MONTENOY, Charles</author>
 				<date>1760</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, janvier 2014</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -45,13 +46,13 @@
 	</performance>
 <castList>
 	<head>ACTEURS</head>
-	<castItem><role id="ORGON" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>ORGON</role>, tuteur de Julie.</castItem>
-	<castItem><role id="BAVARDIN" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>BAVARDIN</role>, tuteur de Julie.</castItem>
-	<castItem><role id="GÉRONTE" civil='M' type="H" statut='bourgeois' age='V' stat_amour='néant'>GÉRONTE</role>, tuteur de Julie.</castItem>
-	<castItem><role id="JULIE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>JULIE</role>.</castItem>
-	<castItem><role id="DAMIS" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>DAMIS</role>.</castItem>
-	<castItem><role id="MARTON" civil='F' type="H" statut='servante' age='A' stat_amour='néant'>MARTON</role>.</castItem>
-	<castItem><role id="CRISPIN" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>CRISPIN</role>.</castItem>
+	<castItem><role id="ORGON" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>ORGON</role>, tuteur de Julie.</castItem>
+	<castItem><role id="BAVARDIN" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>BAVARDIN</role>, tuteur de Julie.</castItem>
+	<castItem><role id="GÉRONTE" sex="1" type="H" statut='bourgeois' age='V' stat_amour='néant'>GÉRONTE</role>, tuteur de Julie.</castItem>
+	<castItem><role id="JULIE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>JULIE</role>.</castItem>
+	<castItem><role id="DAMIS" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>DAMIS</role>.</castItem>
+	<castItem><role id="MARTON" sex="2" type="H" statut='servante' age='A' stat_amour='néant'>MARTON</role>.</castItem>
+	<castItem><role id="CRISPIN" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>CRISPIN</role>.</castItem>
 </castList>
 <set location='Paris' country='France' periode='XVIIIème' link=''>La scène est à Paris.</set>
 </front>

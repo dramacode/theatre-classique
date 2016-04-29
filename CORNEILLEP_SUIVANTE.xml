@@ -7,9 +7,10 @@
 				<author born='1606' born_location='Rouen' death='1684' death_location='Paris' academie='1647'>CORNEILLE, Pierre</author>
 				<date>1634</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE</p><p>Mai 2006</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -41,16 +42,16 @@
 			<premiere date='1634' location='Hôtel de Bourgogne'>Représenté pour la première fois zn 1634 au Théâtre de l'Hôtel de Bourgogne.</premiere>
 		</performance>
 		<castList><head>ACTEURS</head>
-			<castItem><role id="GERASTE" civil='M' type="H" statut="aristocrate" age="A" stat_amour='néant'>GÉRASTE</role>, père de Daphnis.</castItem>
-			<castItem><role id="POLEMON" civil='M' type="H" statut="aristocrate" age="A" stat_amour='n"ant'>POLÉMON</role>, oncle de Clarimond.</castItem>
-			<castItem><role id="CLARIMOND" civil='M' type="H" statut="aristocrate" age="A" stat_amour='amoureux'>CLARIMOND</role>, amoureux de Daphnis.</castItem>
-			<castItem><role id="FLORAME" civil='M' type="H" statut="aristocrate" age="A" stat_amour='amoureux'>FLORAME</role>, amant de Daphnis.</castItem>
-			<castItem><role id="THEANTE" civil='M' type="H" statut="aristocrate" age="A" stat_amour='amoureux'>THÉANTE</role>, aussi amoureux de Daphnis.</castItem>
-			<castItem><role id="DAMON" civil='M' type="H" statut="aristocrate" age="A" stat_amour='néant'>DAMON</role>, ami de Florame et de Théanthe.</castItem>
-			<castItem><role id="DAPHNIS" civil='F' type="H" statut="aristocrate" age="A" stat_amour='amoureux'>DAPHNIS</role>, maîtresse de Florame, aînée de Clarimond et de Théanthe.</castItem>
-			<castItem><role id="AMARANTE" civil='F' type="H" statut="suivante" age="A" stat_amour='néant'>AMARANTE</role>, suivante de Daphnis.</castItem>
-			<castItem><role id="CELIE" civil='F' type="H" statut="confident" age="A" stat_amour='néant'>CÉLIE</role>, voisine de Géraste et sa confidente.</castItem>
-			<castItem><role id="CLEON" civil='M' type="H" statut="domestique" age="A" stat_amour='néant'>CLÉON</role>, domestique de Damon.</castItem>
+			<castItem><role id="GERASTE" sex="1" type="H" statut="aristocrate" age="V" stat_amour='néant'>GÉRASTE</role>, père de Daphnis.</castItem>
+			<castItem><role id="POLEMON" sex="1" type="H" statut="aristocrate" age="V" stat_amour='n"ant'>POLÉMON</role>, oncle de Clarimond.</castItem>
+			<castItem><role id="CLARIMOND" sex="1" type="H" statut="aristocrate" age="A" stat_amour='amoureux'>CLARIMOND</role>, amoureux de Daphnis.</castItem>
+			<castItem><role id="FLORAME" sex="1" type="H" statut="aristocrate" age="A" stat_amour='Daphnis'>FLORAME</role>, amant de Daphnis.</castItem>
+			<castItem><role id="THEANTE" sex="1" type="H" statut="aristocrate" age="A" stat_amour='Daphnis'>THÉANTE</role>, aussi amoureux de Daphnis.</castItem>
+			<castItem><role id="DAMON" sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>DAMON</role>, ami de Florame et de Théanthe.</castItem>
+			<castItem><role id="DAPHNIS" sex="2" type="H" statut="aristocrate" age="A" stat_amour='Florame'>DAPHNIS</role>, maîtresse de Florame, aînée de Clarimond et de Théanthe.</castItem>
+			<castItem><role id="AMARANTE" sex="2" type="H" statut="suivante" age="A" stat_amour='néant'>AMARANTE</role>, suivante de Daphnis.</castItem>
+			<castItem><role id="CELIE" sex="2" type="H" statut="confident" age="A" stat_amour='néant'>CÉLIE</role>, voisine de Géraste et sa confidente.</castItem>
+			<castItem><role id="CLEON" sex="1" type="H" statut="domestique" age="A" stat_amour='néant'>CLÉON</role>, domestique de Damon.</castItem>
 		</castList>
 		<set location='Paris' country='France' periode='XVIIème' link=''>La scène est à Paris.</set>
 	</front>

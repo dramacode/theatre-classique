@@ -6,9 +6,10 @@
 			<title>LE MANTEAU ÉCARLATE OU LE REVE SUPPOSÉ, COMÉDIE-PROVERBE EN UN ACTE ET EN PROSE.</title>
 			<author born='1719' born_location='Paris' death='1797' death_location='Paris' academie=''>SEDAINE, Michel-Jean</author>
 		</titleStmt>
-		<publicationStmp>
+		<publicationStmt>
 			<p>publié par Paul FIEVRE janvier 2012</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Proverbe</genre>
 			<inspiration>moeurs françaises</inspiration>
@@ -43,12 +44,12 @@
 	</performance>
 
 	<castList><head>PERSONNAGES ACTEURS.</head>
-		<castItem><role id="MONSIEUR DE FLORVILLE" civil="M" type="H" statut='aristocrate' age='A' stat_amour='néant'>M. DE FLORVILLE</role>, mari jaloux.M. Maillé.</castItem>
-		<castItem><role id="MADAME DE FLORVILLE" civil="F" type="aristocrate" statut='' age='A' stat_amour='néant'>Madame DE FLORVILLE</role>. Mlle. Aménaïde.</castItem>
-		<castItem><role id="MARTON" civil="F" type="H" statut='suivante' age='A' stat_amour='néant'>MARTON</role>, Suivante. Mlle. Ambroisine.</castItem>
-		<castItem><role id="DORIMÈNE" civil="F" type="H" statut='aristocrate' age='A' stat_amour='néant'>DORIMÈNE</role>, Amie de Madame de Florville. Mlle. Julie.</castItem>
-		<castItem><role id="BLAISE" civil="M" type="H" statut='jardinier' age='A' stat_amour='néant'>BLAISE</role>, Jardinier. M. Penancier..</castItem>
-		<castItem><role id="GÉRAULT" civil="M" type="H" statut='garde-chasse' age='A' stat_amour='néant'>GÉRAULT</role>, Garde-Chasse. M. Gemont.</castItem>
+		<castItem><role id="MONSIEUR DE FLORVILLE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>M. DE FLORVILLE</role>, mari jaloux. M. Maillé.</castItem>
+		<castItem><role id="MADAME DE FLORVILLE" sex="2" type="H" statut="aristocrate" age='A' stat_amour='néant'>Madame DE FLORVILLE</role>. Mlle. Aménaïde.</castItem>
+		<castItem><role id="MARTON" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>MARTON</role>, Suivante. Mlle. Ambroisine.</castItem>
+		<castItem><role id="DORIMÈNE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>DORIMÈNE</role>, Amie de Madame de Florville. Mlle. Julie.</castItem>
+		<castItem><role id="BLAISE" sex="1" type="H" statut='jardinier' age='A' stat_amour='néant'>BLAISE</role>, Jardinier. M. Penancier.</castItem>
+		<castItem><role id="GÉRAULT" sex="1" type="H" statut='garde-chasse' age='A' stat_amour='néant'>GÉRAULT</role>, Garde-Chasse. M. Gemont.</castItem>
 		</castList>
 <set location='Château' country='France' periode='XVIIIème' link=''>La Scène se passe dans le Château de M. de Florville.</set>
 </front>

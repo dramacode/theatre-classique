@@ -7,9 +7,10 @@
 				<author born='1625' born_location='Rouen' death='1709' death_location='Les Andelys' academie='1685'>CORNEILLE, Thomas</author>
 				<date>1695</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE décembre 2009</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire française</inspiration>
@@ -48,13 +49,13 @@
 <signature>T. CORNEILLE.</signature>
 </epitre>
 	<castList><head>ACTEURS.</head>
-		<castItem><role id="LÉON" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>LÉON</role>, prince de Grèce.</castItem>
-		<castItem><role id="ROGER" civil='M' type="H" statut='aristocrate' age='A' stat_amour='amoueux'>ROGER</role>, amant de Bradamante.</castItem>
-		<castItem><role id="BRADAMANTE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='amoureux'>BRADAMANTE</role>, fille du Duc Aymon.</castItem>
-		<castItem><role id="MARPHISE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>MARPHISE</role>, soeur de Roger.</castItem>
-		<castItem><role id="DORALISE" civil='F' type="H" statut='confident' age='A' stat_amour='néant'>DORALISE</role>, confidente de Bradamante.</castItem>
-		<castItem><role id="ISMÈNE" civil='F' type="H" statut='confident' age='A' stat_amour='néant'>ISMÈNE</role>, confidente de Marphise.</castItem>
-		<castItem><role id="TIMANTE" civil='M' type="H" statut='confident' age='A' stat_amour='néant'>TIMANTE</role>, confident de Roger.</castItem>
+		<castItem><role id="LÉON" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>LÉON</role>, prince de Grèce.</castItem>
+		<castItem><role id="ROGER" sex="1" type="H" statut='aristocrate' age='A' stat_amour='amoueux'>ROGER</role>, amant de Bradamante.</castItem>
+		<castItem><role id="BRADAMANTE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='amoureux'>BRADAMANTE</role>, fille du Duc Aymon.</castItem>
+		<castItem><role id="MARPHISE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>MARPHISE</role>, soeur de Roger.</castItem>
+		<castItem><role id="DORALISE" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>DORALISE</role>, confidente de Bradamante.</castItem>
+		<castItem><role id="ISMÈNE" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>ISMÈNE</role>, confidente de Marphise.</castItem>
+		<castItem><role id="TIMANTE" sex="1" type="H" statut='confident' age='A' stat_amour='néant'>TIMANTE</role>, confident de Roger.</castItem>
 	</castList>
 	<set location='Aix-la-Chapelle' country='Allemagne' periode='IXème' link=''>La Scène est à la Cour de Charlemagne.</set>
 	</front>

@@ -7,9 +7,10 @@
 				<author born='1689' born_location='Dijon' death='1773' death_location='Paris' academie=''>PIRON, Alexis</author>
 				<date>1738</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<authority>publié par Ernest FIEVRE, décembre 2007</authority>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -39,13 +40,13 @@
 			<premiere date="1733-02-03" location='Théâtre de la rue des Fossés Saint-Germain'>Représenté pour la première fois le 3 février 1733 au Théâtre de la rue des Fossés Saint-Germain par la troupe de la Comédie française.</premiere>
 		</performance>
 <castList><head>Personnages</head>
-	<castItem><role id="FRANCALEU" civil='M' type="H" statut="bourgeois" age="A" stat_amour='néant'>FRANCALEU</role>, père de Lucile.</castItem>
-	<castItem><role id="BALEVEAU" civil='M' type="H" statut="capitoni" age="A" stat_amour='néant'>BALIVEAU</role>, capitoni, oncle de Damis.</castItem>
-	<castItem><role id="DAMIS" civil='M' type="H" statut="poète" age="A" stat_amour='néant'>DAMIS</role>, poète.</castItem>
-	<castItem><role id="DORANTE" civil='M' type="H" statut="bourgeois" age="A" stat_amour='amoureux'>DORANTE</role>, amant de Lucile.</castItem>
-	<castItem><role id="LUCILE" civil='F' type="H" statut="bourgeois" age="A" stat_amour='amoureux'>LUCILE</role>, fille de Francaleu.</castItem>
-	<castItem><role id="LISETTE" civil='F' type="H" statut="suivante" age="A" stat_amour='néant'>LISETTE</role>, suivante de Lucile.</castItem>
-	<castItem><role id="MONDOR" civil='M' type="H" statut="valet" age="A" stat_amour='néant'>MONDOR</role>, valet de Damis.</castItem>
+	<castItem><role id="FRANCALEU" sex="1" type="H" statut="bourgeois" age="A" stat_amour='néant'>FRANCALEU</role>, père de Lucile.</castItem>
+	<castItem><role id="BALEVEAU" sex="1" type="H" statut="capitoni" age="A" stat_amour='néant'>BALIVEAU</role>, capitoni, oncle de Damis.</castItem>
+	<castItem><role id="DAMIS" sex="1" type="H" statut="poète" age="A" stat_amour='néant'>DAMIS</role>, poète.</castItem>
+	<castItem><role id="DORANTE" sex="1" type="H" statut="bourgeois" age="A" stat_amour='amoureux'>DORANTE</role>, amant de Lucile.</castItem>
+	<castItem><role id="LUCILE" sex="2" type="H" statut="bourgeois" age="A" stat_amour='amoureux'>LUCILE</role>, fille de Francaleu.</castItem>
+	<castItem><role id="LISETTE" sex="2" type="H" statut="suivante" age="A" stat_amour='néant'>LISETTE</role>, suivante de Lucile.</castItem>
+	<castItem><role id="MONDOR" sex="1" type="H" statut="valet" age="A" stat_amour='néant'>MONDOR</role>, valet de Damis.</castItem>
 </castList>
 <set location='Paris' country='France' periode='XVIIIème' link=''>La scène est chez Monsieur Francaleu, dans les jardins d'une maison de plaisance aux portes de Paris.</set>
 </front>

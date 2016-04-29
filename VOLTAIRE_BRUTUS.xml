@@ -9,9 +9,10 @@
 
 				<date>1730</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<authority>publié par Paul FIEVRE, Septembre 2006, revu avril 2014</authority>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire romaine</inspiration>
@@ -168,17 +169,17 @@
 
 
 <castList><head>PERSONNAGES</head>
-	<castItem><role id='BRUTUS' civil='M' type="H" statut='consul' age='A' stat_amour='néant'>JUNIUS BRUTUS</role>, consul.</castItem>
-	<castItem><role id='VALERIUS' civil='M' type="H" statut='consul' age='A' stat_amour='néant'> VALÉRIUS PUBLICOLA </role>, consul.</castItem>
-	<castItem><role id='TITUS' civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>TITUS</role>, fils de Brutus.</castItem>
-	<castItem><role id='TULLIE' civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>TULLIE</role>, fille de Tarquin. </castItem>
-	<castItem><role id='ALGINE' civil='F' type="H" statut='confident' age='A' stat_amour='néant'>ALGINE</role>, confidente de Tullie. </castItem>
-	<castItem><role id='ARONS' civil='M' type="H" statut='ambassadeur' age='A' stat_amour='néant'>ARONS</role>, ambassadeur de Porsenna. </castItem>
-	<castItem><role id='MESSALA' civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>MESSALA</role>, ami de Titus. </castItem>
-	<castItem><role id='PROCULUS' civil='M' type="H" statut='tribun' age='A' stat_amour='néant'>PROCULUS</role>, tribun militaire. </castItem>
-	<castItem><role id='ALBIN' civil='M' type="H" statut='confident' age='A' stat_amour='néant'>ALBIN</role>, confident d'Arons. </castItem>
-	<castItem><role id='SENATEURS' civil='G' type="H" statut='senateur' age='A' stat_amour='néant'>SÉNATEURS</role>.</castItem>
-	<castItem><role id='LICTEURS' civil='G' type="H" statut='licteur' age='A' stat_amour='néant'>LICTEURS</role>.</castItem>
+	<castItem><role id='BRUTUS' sex="1" type="H" statut='consul' age='A' stat_amour='néant'>JUNIUS BRUTUS</role>, consul.</castItem>
+	<castItem><role id='VALERIUS' sex="1" type="H" statut='consul' age='A' stat_amour='néant'> VALÉRIUS PUBLICOLA </role>, consul.</castItem>
+	<castItem><role id='TITUS' sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>TITUS</role>, fils de Brutus.</castItem>
+	<castItem><role id='TULLIE' sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>TULLIE</role>, fille de Tarquin. </castItem>
+	<castItem><role id='ALGINE' sex="2" type="H" statut='confident' age='A' stat_amour='néant'>ALGINE</role>, confidente de Tullie. </castItem>
+	<castItem><role id='ARONS' sex="1" type="H" statut='ambassadeur' age='A' stat_amour='néant'>ARONS</role>, ambassadeur de Porsenna. </castItem>
+	<castItem><role id='MESSALA' sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>MESSALA</role>, ami de Titus. </castItem>
+	<castItem><role id='PROCULUS' sex="1" type="H" statut='tribun' age='A' stat_amour='néant'>PROCULUS</role>, tribun militaire. </castItem>
+	<castItem><role id='ALBIN' sex="1" type="H" statut='confident' age='A' stat_amour='néant'>ALBIN</role>, confident d'Arons. </castItem>
+	<castItem><role id='SENATEURS' sex="9" type="H" statut='senateur' age='A' stat_amour='néant'>SÉNATEURS</role>.</castItem>
+	<castItem><role id='LICTEURS' sex="9" type="H" statut='licteur' age='A' stat_amour='néant'>LICTEURS</role>.</castItem>
 </castList>
 <set location='Rome' country='Italie' periode='VIème avant JC' link=''>La scène est à Rome.</set>
 </front>

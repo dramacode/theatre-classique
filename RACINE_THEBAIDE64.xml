@@ -7,9 +7,10 @@
 			<author born='1639' born_location='La Ferté Millon' death='1699' death_location='Paris' academie='1673'>RACINE, Jean</author>
 			<date>1664</date>
 		</titleStmt>
-		<publicationStmp>	
-			<p>publié par Paul FIEVRE</p><p>Mai 2006</p>
-		</publicationStmp>
+		<publicationStmt>	
+			<p>publié par Paul FIEVRE, Mai 2006, revu Avril 2016</p>
+			<idno>RACINE_THEBAIDE64</idno>
+		</publicationStmt>
 		<SourceDesc>
 			<genre>Tragédie</genre>
 			<inspiration>mythe grec</inspiration>
@@ -18,14 +19,13 @@
 			<periode>1661-1670</periode>
 			<taille>1500-1750</taille>
 			<permalien></permalien>
-			<sources>
-				<source id="1"><author>Sophocle</author><text>Antigone</text></source>
-				<source id="2"><author>Euripide</author><text>Phéniciennes</text></source>
-				<source id="3"><author>Garnier</author><text>Antigonef***
-				</text><date>1580</date></source>
-				<source id="4"><author>Garnier</author><text>Antigone</text><date>1584</date></source>
-				<source id="5"><author>Rotrou</author><text>Antigone</text><date>1637</date></source>
-			</sources>	
+			<liens>
+				<lien>Sophocle, Antigone</lien>
+				<lien>Euripide, Phéniciennes</lien>
+				<lien>Garnier, Antigone</lien>
+				<lien>Garnier, Antigone, 1584</lien>
+				<lien>Rotrou, Antigone, 1637</lien>
+			</liens>	
 		</SourceDesc>
 	</fileDesc>
 </teiHeader>
@@ -56,17 +56,17 @@
  </div>
 	
 		<castList><head>ACTEURS</head>
-			<castItem><role id="ETEOCLE" civil="M" type="H" statut="prince" age="A" stat_amour='néant'>ÉTÉOCLE</role>, roi de Thèbes.</castItem>
-			<castItem><role id="POLYNICE" civil="M" type="H" statut="prince" age="A" stat_amour='néant'>POLYNICE</role>, frère d'Étéocle.</castItem>
-			<castItem><role id="JOCASTE" civil="F" type="H" statut="roi" age="A" stat_amour='néant'>JOCASTE</role>, mère de ces deux princes et d'Antigone.</castItem>
-			<castItem><role id="ANTIGONE" civil="F" type="H" statut="prince" age="A" stat_amour='amoureux'>ANTIGONE</role>, soeur d'Étéocle et de Polynice.</castItem>
-			<castItem><role id="CREON" civil="M" type="H" statut="prince" age="A" stat_amour='néant'>CRÉON</role>, oncle des princes et de la princesse.</castItem>
-			<castItem><role id="HEMON" civil="M" type="H" statut="prince" age="A" stat_amour='amoureux'>HÉMON</role>, fils de Créon, amant d'Antigone.</castItem>
-			<castItem><role id="OLYMPE" civil="F" type="H" statut="confident" age="A" stat_amour='néant'>OLYMPE</role>, confidente de Jocaste.</castItem>
-			<castItem><role id="ATTALE" civil="M" type="H" statut="confident" age="A" stat_amour='néant'>ATTALE</role>, confident de Créon.</castItem>
-			<castItem><role id="SOLDAT GREC" civil="M" type="H" statut="soldat" age="A" stat_amour='néant'>UN SOLDAT GREC</role>.</castItem>
-			<castItem><role id="UN PAGE" civil="M" type="H" statut="page" age="A" stat_amour='néant'>UN PAGE</role>.</castItem>
-			<castItem><role id="GARDES" civil="G" type="H" statut="garde" age="A" stat_amour='néant'>DES GARDES</role>.	</castItem>
+			<castItem><role id="ETEOCLE" sex="1" type="H" statut="prince" age="A" stat_amour='néant'>ÉTÉOCLE</role>, roi de Thèbes.</castItem>
+			<castItem><role id="POLYNICE" sex="1" type="H" statut="prince" age="A" stat_amour='néant'>POLYNICE</role>, frère d'Étéocle.</castItem>
+			<castItem><role id="JOCASTE" sex="2" type="H" statut="roi" age="A" stat_amour='néant'>JOCASTE</role>, mère de ces deux princes et d'Antigone.</castItem>
+			<castItem><role id="ANTIGONE" sex="2" type="H" statut="prince" age="A" stat_amour='amoureux'>ANTIGONE</role>, soeur d'Étéocle et de Polynice.</castItem>
+			<castItem><role id="CREON" sex="1" type="H" statut="prince" age="A" stat_amour='néant'>CRÉON</role>, oncle des princes et de la princesse.</castItem>
+			<castItem><role id="HEMON" sex="1" type="H" statut="prince" age="A" stat_amour='amoureux'>HÉMON</role>, fils de Créon, amant d'Antigone.</castItem>
+			<castItem><role id="OLYMPE" sex="2" type="H" statut="confident" age="A" stat_amour='néant'>OLYMPE</role>, confidente de Jocaste.</castItem>
+			<castItem><role id="ATTALE" sex="1" type="H" statut="confident" age="A" stat_amour='néant'>ATTALE</role>, confident de Créon.</castItem>
+			<castItem><role id="SOLDAT GREC" sex="1" type="H" statut="soldat" age="A" stat_amour='néant'>UN SOLDAT GREC</role>.</castItem>
+			<castItem><role id="UN PAGE" sex="1" type="H" statut="page" age="A" stat_amour='néant'>UN PAGE</role>.</castItem>
+			<castItem><role id="GARDES" sex="9" type="H" statut="garde" age="A" stat_amour='néant'>DES GARDES</role>.	</castItem>
 		</castList>
 		<set location='Thèbes' country='Grèce' periode='Temps mythologiques' link=''>La scène est à Thèbes, dans une salle du palais royal.</set>
 	</front>
@@ -1739,7 +1739,7 @@
 	<l id="1223">Si la vertu jamais eut régné dans votre âme,</l>
 	<l id="1224">En feriez-vous au trône un sacrifice infâme ?</l>
 	<l id="1225">Quand on l'ose immoler on le connaît bien peu,</l>
-	<l id="1226">Et la victime hélas ! vaut bien plus que le Dieu.</l>
+	<l id="1226">Et la victime hélas ! Vaut bien plus que le Dieu.</l>
 </sp>
 <sp who='HÉMON'><speaker>HÉMON.</speaker>
 	<l id="1227">Seigneur sans vous livrer à ce malheur extrême,</l>
@@ -1755,7 +1755,7 @@
 	<l id="1235">D'un trône qui m'est dû faut-il que l'on me chasse,</l>
 	<l id="1236">Et d'un prince étranger que je brigue la place ?</l>
 	<l id="1237">Non non, sans m'abaisser à lui faire la cour,</l>
-<note type="C">Vers 1238, la réplique se ttermine par un point d'interrogation, nous modifions.</note>
+<note type="C">Vers 1238, la réplique se termine par un point d'interrogation, nous modifions.</note>
 	<l id="1238">Je veux devoir le sceptre à qui je dois le jour.</l>
 </sp>
 <sp who="HÉMON"><speaker>HÉMON.</speaker>

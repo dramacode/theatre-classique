@@ -6,9 +6,10 @@
 				<title>AGÉSILAS, TRAGÉDIE</title>
 				<author born='1606' born_location='Rouen' death='1684' death_location='Paris' academie='1647'>CORNEILLE, Pierre</author>
 			</titleStmt>
-			<publicationStmp>	
-				<authority>publié par Paul FIEVRE, Mai 2006</authority>
-			</publicationStmp>
+			<publicationStmt>	
+				<authority>publié par Paul FIEVRE, Mai 2006, revu mars 2016.</authority>
+				<idno>CORNEILLEP_AGESILAS</idno>
+			</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire grecque</inspiration>
@@ -53,23 +54,23 @@
 			<p>Les règles sont bonnes, mais leur méthode n'est pas de notre siècle, et qui s'attacherait à ne marcher que sur leurs pas, ferait sans doute peu de progrès, et divertirait mal son auditoire. On court à la vérité quelque risque de s'égarer, et même on s'égare assez souvent, quand on s'écarte du sentier battu ; mais on ne s'égare pas toutes les fois qu'on s'en écarte. Quelques un en arrivent plutôt où ils prétendent ; et chacun peut hasarder à ses périls.</p>
 		</div>
 			<castList><head>ACTEURS</head>
-				<castItem><role id="AGESILAS" civil='M' type="H" statut="roi" age="A" stat_amour='néant'>AGÉSILAS</role>, roi de Sparte.</castItem>
-				<castItem><role id="LYSANDER" civil='M' type="H" statut="capitaine" age="A" stat_amour='néant'>LYSANDER</role>, fameux capitaine de Sparte.</castItem>
-				<castItem><role id="COTYS" civil='M' type="H" statut="roi" age="A" stat_amour='néant'>COTYS</role>, roi de Paphlagonie.</castItem>
-				<castItem><role id="SPITRIDATE" civil='M' type="H" statut="aristocrate" age="A" stat_amour='néant'>SPITRIDATE</role>, grand Seigneur persan.</castItem>
-				<castItem><role id="MANDANE" civil='F' type="H" statut="aristocrate" age="A" stat_amour='néant'>MANDANE</role>, soeur de Spitridate.</castItem>
-				<castItem><role id="ELPINICE" civil='F' type="H" statut="aristocrate" age="A" stat_amour='néant'>ELPINICE</role>, fille de Lysander.</castItem>
-				<castItem><role id="AGLATIDE" civil='F' type="H" statut="aristocrate" age="A" stat_amour='néant'>AGLATIDE</role>, fille de Lysander.</castItem>
-				<castItem><role id="XENOCLES" civil='M' type="H" statut="lieutenant" age="A" stat_amour='néant'>XENOCLES</role>, lieutenant d'Agésilas.</castItem>
-				<castItem><role id="CLEON" civil='M' type="H" statut="orateur" age="A" stat_amour='néant'>CLÉON</role>, orateur grec, natif d'Halicarnasse.</castItem>
+				<castItem><role id="AGESILAS" sex="1" type="H" statut="roi" age="A" stat_amour='néant'>AGÉSILAS</role>, roi de Sparte.</castItem>
+				<castItem><role id="LYSANDER" sex="1" type="H" statut="capitaine" age="A" stat_amour='néant'>LYSANDER</role>, fameux capitaine de Sparte.</castItem>
+				<castItem><role id="COTYS" sex="1" type="H" statut="roi" age="A" stat_amour='néant'>COTYS</role>, roi de Paphlagonie.</castItem>
+				<castItem><role id="SPITRIDATE" sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>SPITRIDATE</role>, grand Seigneur persan.</castItem>
+				<castItem><role id="MANDANE" sex="2" type="H" statut="aristocrate" age="A" stat_amour='néant'>MANDANE</role>, soeur de Spitridate.</castItem>
+				<castItem><role id="ELPINICE" sex="2" type="H" statut="aristocrate" age="J" stat_amour='néant'>ELPINICE</role>, fille de Lysander.</castItem>
+				<castItem><role id="AGLATIDE" sex="2" type="H" statut="aristocrate" age="J" stat_amour='néant'>AGLATIDE</role>, fille de Lysander.</castItem>
+				<castItem><role id="XENOCLES" sex="1" type="H" statut="lieutenant" age="A" stat_amour='néant'>XENOCLES</role>, lieutenant d'Agésilas.</castItem>
+				<castItem><role id="CLEON" sex="1" type="H" statut="orateur" age="A" stat_amour='néant'>CLÉON</role>, orateur grec, natif d'Halicarnasse.</castItem>
 			</castList>
 		<set location='Ephèse' country='Grèce' periode='Vème avant JC' link=''>La sène est à Éphèse.</set>
 		</front>
 <body>
 <div1 type="act" n="1"><head>ACTE I</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Elpinice, Aglatide</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Elpinice, Aglatide.</head>
 <sp who="AGLATIDE"><speaker>AGLATIDE</speaker>
-<note type="L">Éphèse : ville d'Asie mineure, la principale sur le côte de la Méditarranée, au bord du Caystre et à 60 km du sud-sud-est de SMyrne. [B]</note>
+<note type="L">Éphèse : ville d'Asie mineure, la principale sur le côte de la Méditarranée, au bord du Caystre et à 60 km du sud-sud-est de Smyrne. [B]</note>
 	<l id="1">Ma soeur, depuis un mois nous voilà dans Éphèse,</l>
 	<l id="2">Prêtes à recevoir ces illustres époux</l>
 	<l id="3">Que Lysander mon père a su choisir pour nous ;</l>
@@ -2404,6 +2405,7 @@
 <stage>Il lui donne deux lettres dont il lit l'inscription.</stage>
 </sp>
 <sp who="AGESILAS"><speaker>AGÉSILAS</speaker>
+<note type="L">Éphore : Magistrats lacédémoniens au nombre de cinq établis pour contre-balancer l'autorité des rois et du sénat et qu'on renouvelait tous les ans. [L]</note>
 	<l id="1689">AU SÉNATEUR CRATÈS, À L'ÉPHORE ARSIDAS.</l>
 	<l id="1690">Spitridate et Cotys sont de l'intelligence ?</l>
 </sp>
@@ -2705,7 +2707,6 @@
 	<l id="1861">C'est pour elle une étrange et dure nouveauté,</l>
 	<l id="1862">Et tout votre pouvoir ne peut m'y donner place,</l>
 	<l id="1863">Que vous n'y renonciez pour toute votre race.</l>
-<note type="L">Éphore : Terme d'antiquité grecque. Magistrats lacédémoniens au nombre de cinq établis pour contre-balancer l'autorité des rois et du sénat et qu'on renouvelait tous les ans. Ils étaient élus par le peuple ; le premier d'entre eux donnait son nom à l'année. [L]</note>
 	<l id="1864">Vos éphores peut-être oseront encor plus ;</l>
 	<l id="1865">Et si votre Sénat avec eux se soulève,</l>
 	<l id="1866">Si de me voir leur Reine indignés et confus</l>

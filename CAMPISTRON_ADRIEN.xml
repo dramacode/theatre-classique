@@ -6,10 +6,11 @@
 			<title>ADRIEN, TRAGÉDIE</title>
 			<author born='1656' born_location='Toulouse' death='1713' death_location='Toulouse' academie='1701'>CAMPISTRON, Jean Galbert de</author>
 		</titleStmt>
-		<publicationStmp>	
+		<publicationStmt>	
 			<editor></editor>
 			<p>publié par Paul FIEVRE</p><p>OCTOBRE 2014</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Tragédie</genre>
 			<inspiration>histoire chrétienne</inspiration>
@@ -50,14 +51,14 @@
 	</div>
 
 <castList><head>PERSONNAGES</head>
-	<castItem><role id="DIOCLÉTIEN" civil='M' type="H" statut='empereur' age='A' stat_amour='néant'>DIOCLÉTIEN</role>, Empereur.</castItem>
-	<castItem><role id="VALÉRIE" civil='F' type="H" statut='prince' age='A' stat_amour='néant'>VALÉRIE</role>, Fille de Dioclétien.</castItem>
-	<castItem><role id="ADRIEN" civil='M' type="H" statut='preticien' age='A' stat_amour='néant'>ADRIEN</role>, Patricien, Favori de l'Empereur, et Général de ses Armées.</castItem>
-	<castItem><role id="JULIE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>JULIE</role>, Dame Romaine, Confidente de Valérie.</castItem>
-	<castItem><role id="SERASTE" civil='M' type="H" statut='capitaine' age='A' stat_amour='néant'>SERASTE</role>, Capitaine des Gardes de l'Empereur.</castItem>
-	<castItem><role id="MARCELLIN" civil='M' type="H" statut='lieutenant' age='A' stat_amour='néant'>MARCELLIN</role>, Lieutenant des Gardes de l'Empereur.</castItem>
-	<castItem><role id="SERGESTE" civil='M' type="H" statut='lieutenant' age='A' stat_amour='néant'>SERGESTE</role>, autre Lieutenant des Gardes de l'Empereur.</castItem>
-	<castItem><role id="GARDES" civil='G' type="H" statut='' age='A' stat_amour='néant'>GARDES</role>.</castItem>
+	<castItem><role id="DIOCLÉTIEN" sex="1" type="H" statut='empereur' age='A' stat_amour='néant'>DIOCLÉTIEN</role>, Empereur.</castItem>
+	<castItem><role id="VALÉRIE" sex="2" type="H" statut='prince' age='J' stat_amour='néant'>VALÉRIE</role>, Fille de Dioclétien.</castItem>
+	<castItem><role id="ADRIEN" sex="1" type="H" statut='preticien' age='A' stat_amour='néant'>ADRIEN</role>, Patricien, Favori de l'Empereur, et Général de ses Armées.</castItem>
+	<castItem><role id="JULIE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>JULIE</role>, Dame Romaine, Confidente de Valérie.</castItem>
+	<castItem><role id="SERASTE" sex="1" type="H" statut='capitaine' age='A' stat_amour='néant'>SERASTE</role>, Capitaine des Gardes de l'Empereur.</castItem>
+	<castItem><role id="MARCELLIN" sex="1" type="H" statut='lieutenant' age='A' stat_amour='néant'>MARCELLIN</role>, Lieutenant des Gardes de l'Empereur.</castItem>
+	<castItem><role id="SERGESTE" sex="1" type="H" statut='lieutenant' age='A' stat_amour='néant'>SERGESTE</role>, autre Lieutenant des Gardes de l'Empereur.</castItem>
+	<castItem><role id="GARDES" sex="9" type="H" statut='' age='A' stat_amour='néant'>GARDES</role>.</castItem>
 </castList>
 <set location='Rome' country='Italie' periode='Vème avant JC' link=''>La scène est à Rome, dans le Palais de l'Empereur.</set>
 </front>

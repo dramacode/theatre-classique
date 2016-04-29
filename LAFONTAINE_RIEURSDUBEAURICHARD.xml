@@ -7,9 +7,10 @@
 				<author born='1621' born_location='Château-Thierry' death='1695' death_location='Paris' academie=''>LA FONTAINE, Jean de</author>
 				<date>1659</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Ernest FIEVRE</p><p>Août 2008</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Ballet</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -44,12 +45,12 @@
 		</performance>
 <castList>
 	<head>LES ACTEURS.</head>
-	<castItem><role id="LE SAVETIER" civil='M' type="H" statut='savetier' age='A' stat_amour='néant'>LE SAVETIER</role>.</castItem>
-	<castItem><role id="LA FEMME DU SAVETIER" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>LA FEMME DU SAVETIER</role>.</castItem>
-	<castItem><role id="UN MARCHAND DE BLÉ" civil='M' type="H" statut='commerçant' age='A' stat_amour='néant'>UN MARCHAND DE BLÉ</role>.</castItem>
-	<castItem><role id="UN NOTAIRE" civil='M' type="H" statut='notaire' age='A' stat_amour='néant'>UN NOTAIRE</role>.</castItem>
-	<castItem><role id="UN MEUNIER" civil='M' type="H" statut='meunier' age='A' stat_amour='néant'>UN MEUNIER</role>, et son âne.</castItem>
-	<castItem><role id="DEUX CRIBLEURS" civil='G' type="H" statut='cribleur' age='A' stat_amour='néant'>DEUX CRIBLEURS</role>.</castItem>
+	<castItem><role id="LE SAVETIER" sex="1" type="H" statut='savetier' age='A' stat_amour='néant'>LE SAVETIER</role>.</castItem>
+	<castItem><role id="LA FEMME DU SAVETIER" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>LA FEMME DU SAVETIER</role>.</castItem>
+	<castItem><role id="UN MARCHAND DE BLÉ" sex="1" type="H" statut='commerçant' age='A' stat_amour='néant'>UN MARCHAND DE BLÉ</role>.</castItem>
+	<castItem><role id="UN NOTAIRE" sex="1" type="H" statut='notaire' age='A' stat_amour='néant'>UN NOTAIRE</role>.</castItem>
+	<castItem><role id="UN MEUNIER" sex="1" type="H" statut='meunier' age='A' stat_amour='néant'>UN MEUNIER</role>, et son âne.</castItem>
+	<castItem><role id="DEUX CRIBLEURS" sex="9" type="H" statut='cribleur' age='A' stat_amour='néant'>DEUX CRIBLEURS</role>.</castItem>
 </castList>
 <set location='Château-Thierry' country='France' periode='XVIIème' link=''>La scène est à Château-Thierry sur la place du marché.</set>
 </front>

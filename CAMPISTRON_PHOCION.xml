@@ -6,9 +6,10 @@
 			<title>PHOCION, TRAGÉDIE</title>
 			<author born='1656' born_location='Toulouse' death='1713' death_location='Toulouse' academie='1701'>CAMPISTRON, Jean G. de</author>
 		</titleStmt>
-		<publicationStmp>
+		<publicationStmt>
 			<p>publié par Paul FIEVRE, Août 2007</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Tragédie</genre>
 			<inspiration>histoire grecque</inspiration>
@@ -38,16 +39,16 @@
 			<premiere date='1688-12-16' location='Hôtel Guénégaud'>Représenté pour le première fois 16 décembre 1688 au Théâtre de l'Hôtel Guénégaud par la Comédie française.</premiere>
 		</performance>
 		<castList><head>ACTEURS</head>
-		<castItem><role id="PHOCION" civil='M' type="H" statut='général' age='A' stat_amour='néant'>PHOCION</role>, général des Athéniens.</castItem>
-		<castItem><role id="AGNONIDE" civil='M' type="H" statut='général' age='A' stat_amour='néant'>AGNONIDE</role>, autre général d'Athènes.</castItem>
-		<castItem><role id="CHRISIS" civil='F' type="H" statut='aristocrate' age='A' stat_amour='amoureux'>CHRISIS</role>, fille de Phocion.</castItem>
-		<castItem><role id="ALCINOUS" civil='F' type="H" statut='aristocrate' age='A' stat_amour='amoureux'>ALCINOUS</role>, fille d'Agnonide, amant de Chrisis.</castItem>
-		<castItem><role id="CLÉON" civil='M' type="H" statut='confident' age='A' stat_amour='néant'>CLÉON</role>, confident de Phocion.</castItem>
-		<castItem><role id="DIONE" civil='F' type="H" statut='confident' age='A' stat_amour='néant'>DIONE</role>, confidente de Chrisis.</castItem>
-		<castItem><role id="LICAS" civil='M' type="H" statut='gouverneur' age='A' stat_amour='néant'>LICAS</role>, gouverneur d'Alcinous.</castItem>
-		<castItem><role id="CLITUS" civil='M' type="H" statut='capitaine' age='A' stat_amour='néant'>CLITUS</role>, capitaine d'Alcinous.</castItem>
-		<castItem><role id="ARCAS" civil='M' type="H" statut='capitaine' age='A' stat_amour='néant'>ARCAS</role>, autre capitaine athénien.</castItem>
-		<castItem><role id="GARDES" civil='G' type="H" statut='garde' age='A' stat_amour='néant'>Gardes</role>.</castItem>
+		<castItem><role id="PHOCION" sex="1" type="H" statut='général' age='A' stat_amour='néant'>PHOCION</role>, général des Athéniens.</castItem>
+		<castItem><role id="AGNONIDE" sex="1" type="H" statut='général' age='A' stat_amour='néant'>AGNONIDE</role>, autre général d'Athènes.</castItem>
+		<castItem><role id="CHRISIS" sex="2" type="H" statut='aristocrate' age='J' stat_amour='amoureux'>CHRISIS</role>, fille de Phocion.</castItem>
+		<castItem><role id="ALCINOUS" sex="2" type="H" statut='aristocrate' age='J' stat_amour='amoureux'>ALCINOUS</role>, fille d'Agnonide, amant de Chrisis.</castItem>
+		<castItem><role id="CLÉON" sex="1" type="H" statut='confident' age='A' stat_amour='néant'>CLÉON</role>, confident de Phocion.</castItem>
+		<castItem><role id="DIONE" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>DIONE</role>, confidente de Chrisis.</castItem>
+		<castItem><role id="LICAS" sex="1" type="H" statut='gouverneur' age='A' stat_amour='néant'>LICAS</role>, gouverneur d'Alcinous.</castItem>
+		<castItem><role id="CLITUS" sex="1" type="H" statut='capitaine' age='A' stat_amour='néant'>CLITUS</role>, capitaine d'Alcinous.</castItem>
+		<castItem><role id="ARCAS" sex="1" type="H" statut='capitaine' age='A' stat_amour='néant'>ARCAS</role>, autre capitaine athénien.</castItem>
+		<castItem><role id="GARDES" sex="9" type="H" statut='garde' age='A' stat_amour='néant'>Gardes</role>.</castItem>
       </castList>
 		<set location='Athènes' country='Grèce' periode='Vème avant JC' link=''>La scène est à Athènes, dans le Palais à la République.</set>
 	</front>

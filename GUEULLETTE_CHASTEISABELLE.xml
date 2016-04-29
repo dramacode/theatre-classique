@@ -6,9 +6,10 @@
 				<title>LA CHASTE ISABELLE</title>
 				<author born='1683' born_location='Paris' death='1766' death_location='Charenton' academie=''>GUEULLETTE, Thomas-Simon</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE novembre 2013</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Farce</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -42,11 +43,11 @@
 			<premiere date='1720' location='En société'>Représentée pour la première fois en 1720 en société.</premiere>
 	</performance>
 	<castList><head>PERSONNAGES.</head>
-		<castItem><role id="LÉANDRE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>MONSIEUR LÉANDRE</role>, amant d'Isabelle.</castItem>
-		<castItem><role id="GILLES" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>GILLES</role>, son valet .</castItem>
-		<castItem><role id="ISABELLE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='Léandre'>ISABELLE</role>, amante de Léandre.</castItem>
-		<castItem><role id="MONSIEUR VILLEBREQUIN" civil='M' type="H" statut='bourgeois' age='V' stat_amour='néant'>MONSIEUR VILLEBREQUIN</role>, vieillard.</castItem>
-		<castItem><role id="MONSIEUR CASSANDRE" civil='M' type="H" statut='bourgeois' age='V' stat_amour='néant'>MONSIEUR CASSANDRE</role>, vieillard.</castItem>
+		<castItem><role id="LÉANDRE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>MONSIEUR LÉANDRE</role>, amant d'Isabelle.</castItem>
+		<castItem><role id="GILLES" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>GILLES</role>, son valet .</castItem>
+		<castItem><role id="ISABELLE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='Léandre'>ISABELLE</role>, amante de Léandre.</castItem>
+		<castItem><role id="MONSIEUR VILLEBREQUIN" sex="1" type="H" statut='bourgeois' age='V' stat_amour='néant'>MONSIEUR VILLEBREQUIN</role>, vieillard.</castItem>
+		<castItem><role id="MONSIEUR CASSANDRE" sex="1" type="H" statut='bourgeois' age='V' stat_amour='néant'>MONSIEUR CASSANDRE</role>, vieillard.</castItem>
 	</castList>
 	<set location="France" country='France' periode='XVIIIème' link=''></set>
 </front>

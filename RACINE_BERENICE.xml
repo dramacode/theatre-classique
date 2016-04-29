@@ -6,9 +6,10 @@
 			<title>BÉRÉNICE, TRAGÉDIE</title>
 			<author born='1639' born_location='La Ferté Millon' death='1699' death_location='Paris' academie='1673'>RACINE, Jean</author>
 		</titleStmt>
-		<publicationStmp>	
+		<publicationStmt>	
 			<p>publié par Paul FIEVRE, Mai 2002, révision mars 2014.</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Tragédie</genre>
 			<inspiration>histoire romaine</inspiration>
@@ -59,14 +60,14 @@
 			<p type='p'>Toutes ces critiques sont le partage de quatre ou cinq petits auteurs infortunés, qui n'ont jamais pu par eux-mêmes exciter la curiosité du public. Ils attendent toujours l'occasion de quelque ouvrage qui réussisse pour l'attaquer, non point par jalousie, car sur quel fondement seraient-ils jaloux ? Mais dans l'espérance qu'on se donnera la peine de leur répondre, et qu'on les tirera de l'obscurité où leurs propres ouvrages les auraient laissés toute leur vie.</p>
 		</div>
 		<castList><head>ACTEURS</head>
-			<castItem><role id="TITUS" civil='M' type="H" statut='empereur' age='A' stat_amour='néant'>TITUS</role>, empereur de Rome.</castItem>
-			<castItem><role id="BERENICE" civil='F' type="H" statut='roi' age='A' stat_amour='néant'>BÉRÉNICE</role>, reine de Palestine.</castItem>
-			<castItem><role id="ANTIOCHUS" civil='M' type="H" statut='roi' age='A' stat_amour='néant'>ANTIOCHUS</role>, roi de Comagène.</castItem>
-			<castItem><role id="PAULIN" civil='M' type="H" statut='confident' age='A' stat_amour='néant'>PAULIN</role>, confident de Titus.</castItem>
-			<castItem><role id="ARSACE" civil='M' type="H" statut='confident' age='A' stat_amour='néant'>ARSACE</role>, confident d'Antiochus.</castItem>
-			<castItem><role id="PHENICE" civil='F' type="H" statut='confident' age='A' stat_amour='néant'>PHÉNICE</role>, confidente de Bérénice.</castItem>
-			<castItem><role id="RUTILE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>RUTILE</role>, Romain.</castItem>
-			<castItem><role id="SUITE" civil='G' type="H" statut='suite' age='A' stat_amour='néant'>SUITE DE TITUS</role></castItem>
+			<castItem><role id="TITUS" sex="1" type="H" statut='empereur' age='A' stat_amour='néant'>TITUS</role>, empereur de Rome.</castItem>
+			<castItem><role id="BERENICE" sex="2" type="H" statut='roi' age='A' stat_amour='néant'>BÉRÉNICE</role>, reine de Palestine.</castItem>
+			<castItem><role id="ANTIOCHUS" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>ANTIOCHUS</role>, roi de Comagène.</castItem>
+			<castItem><role id="PAULIN" sex="1" type="H" statut='confident' age='A' stat_amour='néant'>PAULIN</role>, confident de Titus.</castItem>
+			<castItem><role id="ARSACE" sex="1" type="H" statut='confident' age='A' stat_amour='néant'>ARSACE</role>, confident d'Antiochus.</castItem>
+			<castItem><role id="PHENICE" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>PHÉNICE</role>, confidente de Bérénice.</castItem>
+			<castItem><role id="RUTILE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>RUTILE</role>, Romain.</castItem>
+			<castItem><role id="SUITE" sex="9" type="H" statut='suite' age='A' stat_amour='néant'>SUITE DE TITUS</role></castItem>
 		</castList>
 		<set location='Rome' country='Italie' periode='Ier' link=''>La scène est à Rome, dans un cabinet qui est entre l'appartement de Titus, et celui de Bérénice.</set>
 		<note>NOTA : Le texte est celui de l'édition 1697.</note>

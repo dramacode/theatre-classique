@@ -7,9 +7,10 @@
 			<author born='1601' born_location='Le Havre' death='1667' death_location='Paris' academie='1649'>SCUDERY, Georges de</author>
 			<date>1639</date>
 		</titleStmt>
-		<publicationStmp>	
+		<publicationStmt>	
 			<p>publié par Paul FIEVRE</p><p>Mai 2002</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 				<genre>Tragi-comédie</genre>
 				<inspiration>mythe grec</inspiration>
@@ -48,19 +49,19 @@
 		<p>DE SCUDERY</p>
 		</div>
 		<castList><head>ACTEURS</head>
-			<castItem><role id="OROSMANE" civil='M' type="H" statut='roi' age='A' stat_amour='néant'>OROSMANE</role>, roi de Capadoce.</castItem>
-			<castItem><role id="TIGRANE" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>TIGRANE</role>, fils d'Orosmane.</castItem>
-			<castItem><role id="TIRIDATE" civil='M' type="H" statut='roi' age='A' stat_amour='Ormène'>TIRIDATE</role>, roi de Pont.</castItem>
-			<castItem><role id="ORMENE" civil='F' type="H" statut='roi' age='A' stat_amour='Tiridate'>ORMÈNE</role>, femme de Tiridate et fille d'Orosmane.</castItem>
-			<castItem><role id="POLIXENE" civil='F' type="H" statut='prince' age='A' stat_amour='Troile'>POLIXÈNE</role>, femme de Tigrane et fille du roi de Phrygie.</castItem>
-			<castItem><role id="TROILE" civil='M' type="H" statut='prince' age='A' stat_amour='Polixène'>TROILE</role>, fils du roi de Phrygie et frère de Polixène.</castItem>
-			<castItem><role id="PHARNABASE" civil='M' type="H" statut='gouverneur' age='A' stat_amour='néant'>PHARNABASE</role>, jadis gouverneur de Tyridate.</castItem>
-			<castItem><role id="PHRAARTE" civil='M' type="H" statut='lieutenant général' age='A' stat_amour='néant'>PHRAARTE</role>, lieutenant général de Tiridate.</castItem>
-			<castItem><role id="CASSANDRE" civil='F' type="H" statut="fille d'honneur" age='A' stat_amour='néant'>CASSANDRE</role>, fille d'honneur d'Ormène.</castItem>
-			<castItem><role id="HECUBE" civil='F' type="H" statut="fille d'honneur" age='A' stat_amour='néant'>HÉCUBE</role>, fille d'honneur d'Ormène.</castItem>
-			<castItem><role id="EUPHORBE" civil='M' type="H" statut='capitaine' age='A' stat_amour='néant'>EUPHORBE</role>, capitaine phrygien déguisé en paysan.</castItem>
-			<castItem><role id="GARDES" civil='G' type="H" statut='garde' age='A' stat_amour='néant'>TROUPE de Gardes</role> de Tyridate</castItem>
-			<castItem><role id="HABITANTS" civil='G' type="H" statut='peuple' age='A' stat_amour='néant'>TROUPE d'habitants</role>.</castItem>
+			<castItem><role id="OROSMANE" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>OROSMANE</role>, roi de Capadoce.</castItem>
+			<castItem><role id="TIGRANE" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>TIGRANE</role>, fils d'Orosmane.</castItem>
+			<castItem><role id="TIRIDATE" sex="1" type="H" statut='roi' age='A' stat_amour='Ormène'>TIRIDATE</role>, roi de Pont.</castItem>
+			<castItem><role id="ORMENE" sex="2" type="H" statut='roi' age='A' stat_amour='Tiridate'>ORMÈNE</role>, femme de Tiridate et fille d'Orosmane.</castItem>
+			<castItem><role id="POLIXENE" sex="2" type="H" statut='prince' age='A' stat_amour='Troile'>POLIXÈNE</role>, femme de Tigrane et fille du roi de Phrygie.</castItem>
+			<castItem><role id="TROILE" sex="1" type="H" statut='prince' age='A' stat_amour='Polixène'>TROILE</role>, fils du roi de Phrygie et frère de Polixène.</castItem>
+			<castItem><role id="PHARNABASE" sex="1" type="H" statut='gouverneur' age='A' stat_amour='néant'>PHARNABASE</role>, jadis gouverneur de Tyridate.</castItem>
+			<castItem><role id="PHRAARTE" sex="1" type="H" statut='lieutenant général' age='A' stat_amour='néant'>PHRAARTE</role>, lieutenant général de Tiridate.</castItem>
+			<castItem><role id="CASSANDRE" sex="2" type="H" statut="fille d'honneur" age='A' stat_amour='néant'>CASSANDRE</role>, fille d'honneur d'Ormène.</castItem>
+			<castItem><role id="HECUBE" sex="2" type="H" statut="fille d'honneur" age='A' stat_amour='néant'>HÉCUBE</role>, fille d'honneur d'Ormène.</castItem>
+			<castItem><role id="EUPHORBE" sex="1" type="H" statut='capitaine' age='A' stat_amour='néant'>EUPHORBE</role>, capitaine phrygien déguisé en paysan.</castItem>
+			<castItem><role id="GARDES" sex="9" type="H" statut='garde' age='A' stat_amour='néant'>TROUPE de Gardes</role> de Tyridate</castItem>
+			<castItem><role id="HABITANTS" sex="9" type="H" statut='peuple' age='A' stat_amour='néant'>TROUPE d'habitants</role>.</castItem>
 		</castList>
 		<set location='Thèbes' country='Grèce' periode='Temps mythologiques' link=''>La scène est à Thèbes, dans une salle du palais royal.</set>
 	</front>

@@ -6,9 +6,10 @@
 			<title>ACHILLE ET POLIXÈNE, TRAGÉDIE EN MUSIQUE</title>
 			<author born='1656' born_location='Toulouse' death='1713' death_location='Toulouse' academie='1701'>CAMPISTRON, Jean Galbert de</author>
 		</titleStmt>
-		<publicationStmp>	
+		<publicationStmt>	
 			<p>publié par Paul FIEVRE, février 2013</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Tragédie en musique</genre>
 			<inspiration>mythe grec</inspiration>
@@ -44,38 +45,38 @@
 		<premiere date='1687-11-07' location='Théâtre du Palais-Royal'>Représenté pour la première fois le 7 novembre 1687 au Théâtre du Palais-Royal.</premiere>
 	</performance>
 	<castList><head>ACTEURS DU PROLOGUE.</head>
-		<castItem><role id="MERCURE" civil='M'  type="D" statut='dieu' age='A' stat_amour='néant'>MERCURE</role>.</castItem>
-		<castItem><role id="MELPOMÈNE" civil='M'  type="A" statut='muse' age='A' stat_amour='néant'>MELPOMÈNE</role>, Muse de la Tragédie.</castItem>
-		<castItem><role id="TERPSICORE" civil='M'  type="A" statut='muse' age='A' stat_amour='néant'>TERPSICORE</role>, Muse de la Musique.</castItem>
-		<castItem><role id="THALIE" civil='M'  type="A" statut='muse' age='A' stat_amour='néant'>THALIE</role>, Muse de la Comédie.</castItem>
-		<castItem><role id="GENIES" civil='G'  type="A" statut='génie' age='A' stat_amour='néant'>Troupe de Génies qui suivent Melpomène</role>.</castItem>
-		<castItem><role id="GENIES" civil='G'  type="A" statut='génie' age='A' stat_amour='néant'>Troupe de Génies qui suivent Terpsicore</role>.</castItem>
-		<castItem><role id="GENIES" civil='G'  type="A" statut='génie' age='A' stat_amour='néant'>Troupe de Genies qui fuivent Thalie</role>.</castItem>
-		<castItem><role id="JUPITER" civil='M'  type="D" statut='dieu' age='A' stat_amour='néant'>JUPITER</role>.</castItem>
+		<castItem><role id="MERCURE" sex="1"  type="D" statut='dieu' age='A' stat_amour='néant'>MERCURE</role>.</castItem>
+		<castItem><role id="MELPOMÈNE" sex="1"  type="D" statut='muse' age='A' stat_amour='néant'>MELPOMÈNE</role>, Muse de la Tragédie.</castItem>
+		<castItem><role id="TERPSICORE" sex="1"  type="D" statut='muse' age='A' stat_amour='néant'>TERPSICORE</role>, Muse de la Musique.</castItem>
+		<castItem><role id="THALIE" sex="1"  type="D" statut='muse' age='A' stat_amour='néant'>THALIE</role>, Muse de la Comédie.</castItem>
+		<castItem><role id="GENIES" sex="9"  type="D" statut='génie' age='A' stat_amour='néant'>Troupe de Génies qui suivent Melpomène</role>.</castItem>
+		<castItem><role id="GENIES" sex="9"  type="D" statut='génie' age='A' stat_amour='néant'>Troupe de Génies qui suivent Terpsicore</role>.</castItem>
+		<castItem><role id="GENIES" sex="9"  type="D" statut='génie' age='A' stat_amour='néant'>Troupe de Genies qui fuivent Thalie</role>.</castItem>
+		<castItem><role id="JUPITER" sex="1"  type="D" statut='dieu' age='A' stat_amour='néant'>JUPITER</role>.</castItem>
 </castList>
 
 	<castList><head>ACTEURS DE LA TRAGEDIE.</head>
-		<castItem><role id="ACHILLE" civil='M'  type="H" statut='roi' age='A' stat_amour='néant'>ACHILLE</role>. Roi de Thessalie.</castItem>
-		<castItem><role id="PATROCLE" civil='M'  type="H" statut='roi' age='A' stat_amour='néant'>PATROCLE</role>, Ami d'Achille.</castItem>
-		<castItem><role id="DIOMÈDE" civil='M'  type="H" statut='général' age='A' stat_amour='néant'>DIOMÈDE</role>, L'un des Chefs de l'Armée des Grecs.</castItem>
-		<castItem><role id="VÉNUS" civil='F'  type="D" statut='dieu' age='A' stat_amour='néant'>VÉNUS</role>.</castItem>
-		<castItem><role id="Les GRÂCES, les AMOURS, et les PLAISIRS" civil='G'  type="A" statut='grâce' age='A' stat_amour='néant'>Les GRÂCES, les AMOURS, et les PLAISIRS</role> qui suivent Vénus.</castItem>
-		<castItem><role id="ARCAS" civil='M'  type="H" statut='confident' age='A' stat_amour='néant'>ARCAS</role>, confident d'Achille.</castItem>
-		<castItem><role id="TROUPE DE CHEFS, et de SOLDATS GRECS" civil='G'  type="H" statut='soldat' age='A' stat_amour='néant'>TROUPE DE CHEFS, et de SOLDATS GRECS</role>.</castItem>
-		<castItem><role id="AGAMEMNON" civil='M'  type="H" statut='roi' age='A' stat_amour='néant'>AGAMEMNON</role>, roi de Mycene, et d'Argo, Chef de tous les Grecs.</castItem>
-		<castItem><role id="PRIAM" civil='M'  type="H" statut='roi' age='A' stat_amour='néant'>PRIAM</role>, roi de Troie.</castItem>
-		<castItem><role id="ANDROMAQUE" civil='F'  type="H" statut='prince' age='A' stat_amour='néant'>ANDROMAQUE</role>, veuve d'Hector fils de Priam.</castItem>
-		<castItem><role id="POLIXÈNE" civil='F'  type="H" statut='prince' age='A' stat_amour='néant'>POLIXÈNE</role>, fille de Priam.</castItem>
-		<castItem><role id="BRISÉIS" civil='F'  type="H" statut='prince' age='A' stat_amour='néant'>BRISÉIS</role>, princesse prisonnière d'Achille.</castItem>
-		<castItem><role id="JUNON" civil='F'  type="D" statut='dieu' age='A' stat_amour='néant'>JUNON</role>.</castItem>
-		<castItem><role id="LA HAINE" civil='F'  type="A" statut='allégorie' age='A' stat_amour='néant'>LA HAINE</role>. </castItem>
-		<castItem><role id="LA DISCORDE" civil='F'  type="A" statut='allégorie' age='A' stat_amour='néant'>LA DISCORDE</role>.</castItem>
-		<castItem><role id="LA FUREUR" civil='F'  type="A" statut='allégorie' age='A' stat_amour='néant'>LA FUREUR</role>.</castItem>
-		<castItem><role id="L'ENVIE" civil='F'  type="A" statut='allégorie' age='A' stat_amour='néant'>L'ENVIE</role>.</castItem>
-		<castItem><role id="SUITE DE LA DISCORDE" civil='G'  type="A" statut='suite' age='A' stat_amour='néant'>SUITE DE LA DISCORDE</role>.</castItem>
-		<castItem><role id="Troupe de TROYENS" civil='G'  type="H" statut='soldat' age='A' stat_amour='néant'>Troupe de TROYENS</role>.</castItem>
-		<castItem><role id="Troupe de TROYENNES" civil='G'  type="H" statut='peuple' age='A' stat_amour='néant'>Troupe de TROYENNES</role>.</castItem>
-		<castItem><role id="Troupe de THESSALIENS" civil='G'  type="H" statut='soldat' age='A' stat_amour='néant'>Troupe de THESSALIENS</role>.</castItem>
+		<castItem><role id="ACHILLE" sex="1"  type="H" statut='roi' age='A' stat_amour='néant'>ACHILLE</role>. Roi de Thessalie.</castItem>
+		<castItem><role id="PATROCLE" sex="1"  type="H" statut='roi' age='A' stat_amour='néant'>PATROCLE</role>, Ami d'Achille.</castItem>
+		<castItem><role id="DIOMÈDE" sex="1"  type="H" statut='général' age='A' stat_amour='néant'>DIOMÈDE</role>, L'un des Chefs de l'Armée des Grecs.</castItem>
+		<castItem><role id="VÉNUS" sex="2"  type="D" statut='dieu' age='A' stat_amour='néant'>VÉNUS</role>.</castItem>
+		<castItem><role id="Les GRÂCES, les AMOURS, et les PLAISIRS" sex="9"  type="P" statut='grâce' age='A' stat_amour='néant'>Les GRÂCES, les AMOURS, et les PLAISIRS</role> qui suivent Vénus.</castItem>
+		<castItem><role id="ARCAS" sex="1"  type="H" statut='confident' age='A' stat_amour='néant'>ARCAS</role>, confident d'Achille.</castItem>
+		<castItem><role id="TROUPE DE CHEFS, et de SOLDATS GRECS" sex="9"  type="H" statut='soldat' age='A' stat_amour='néant'>TROUPE DE CHEFS, et de SOLDATS GRECS</role>.</castItem>
+		<castItem><role id="AGAMEMNON" sex="1"  type="H" statut='roi' age='A' stat_amour='néant'>AGAMEMNON</role>, roi de Mycene, et d'Argo, Chef de tous les Grecs.</castItem>
+		<castItem><role id="PRIAM" sex="1"  type="H" statut='roi' age='A' stat_amour='néant'>PRIAM</role>, roi de Troie.</castItem>
+		<castItem><role id="ANDROMAQUE" sex="2"  type="H" statut='prince' age='A' stat_amour='néant'>ANDROMAQUE</role>, veuve d'Hector fils de Priam.</castItem>
+		<castItem><role id="POLIXÈNE" sex="2"  type="H" statut='prince' age='J' stat_amour='néant'>POLIXÈNE</role>, fille de Priam.</castItem>
+		<castItem><role id="BRISÉIS" sex="2"  type="H" statut='prince' age='A' stat_amour='néant'>BRISÉIS</role>, princesse prisonnière d'Achille.</castItem>
+		<castItem><role id="JUNON" sex="2"  type="D" statut='dieu' age='A' stat_amour='néant'>JUNON</role>.</castItem>
+		<castItem><role id="LA HAINE" sex="2"  type="P" statut='allégorie' age='A' stat_amour='néant'>LA HAINE</role>. </castItem>
+		<castItem><role id="LA DISCORDE" sex="2"  type="P" statut='allégorie' age='A' stat_amour='néant'>LA DISCORDE</role>.</castItem>
+		<castItem><role id="LA FUREUR" sex="2"  type="P" statut='allégorie' age='A' stat_amour='néant'>LA FUREUR</role>.</castItem>
+		<castItem><role id="L'ENVIE" sex="2"  type="P" statut='allégorie' age='A' stat_amour='néant'>L'ENVIE</role>.</castItem>
+		<castItem><role id="SUITE DE LA DISCORDE" sex="9"  type="P" statut='suite' age='A' stat_amour='néant'>SUITE DE LA DISCORDE</role>.</castItem>
+		<castItem><role id="Troupe de TROYENS" sex="9"  type="H" statut='soldat' age='A' stat_amour='néant'>Troupe de TROYENS</role>.</castItem>
+		<castItem><role id="Troupe de TROYENNES" sex="9"  type="H" statut='peuple' age='A' stat_amour='néant'>Troupe de TROYENNES</role>.</castItem>
+		<castItem><role id="Troupe de THESSALIENS" sex="9"  type="H" statut='soldat' age='A' stat_amour='néant'>Troupe de THESSALIENS</role>.</castItem>
 </castList>
 <set location='Troie' country='Turquie' periode='Temps mythologiques' link=''></set>
 </front>

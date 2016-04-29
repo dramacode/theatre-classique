@@ -6,9 +6,10 @@
 			<title>L'ÉPREUVE, COMÉDIE.</title>
 			<author born='1688' born_location='Auvergne' death='1763' death_location='Paris' academie='1743'>MARIVAUX</author>
 		</titleStmt>
-		<publicationStmp>	
+		<publicationStmt>	
 			<p>publié par Paul FIEVRE, février 2011</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Comédie</genre>
 			<inspiration>moeurs françaises</inspiration>
@@ -39,12 +40,12 @@
 			<premiere date='1740-11-19' location='Hôtel de Bourgogne'>représentée pour la première fois par les comédiens Italiens le 19 novembre 1740.</premiere>
 		</performance>
 		<castList><head>ACTEURS.</head>
-			<castItem><role id="MADAME-ARGANTE" civil='F'>MADAME ARGANTE</role>.</castItem>
-			<castItem><role id="ANGÉLIQUE" civil='F'>ANGÉLIQUE</role>, sa fille.</castItem>
-			<castItem><role id="LISETTE" civil='F'>LISETTE</role>, suivante.</castItem>
-			<castItem><role id="LUCIDOR" civil='M'>LUCIDOR</role>, amant d'Angélique.</castItem>
-			<castItem><role id="FRONTIN" civil='M'>FRONTIN</role>, valet de Lucidor.</castItem>
-			<castItem><role id="MAÎTRE-BLAISE" civil='M'>MAÎTRE BLAISE</role>, jeune fermier du village.</castItem>
+			<castItem><role id="MADAME-ARGANTE" sex="2">MADAME ARGANTE</role>.</castItem>
+			<castItem><role id="ANGÉLIQUE" sex="2">ANGÉLIQUE</role>, sa fille.</castItem>
+			<castItem><role id="LISETTE" sex="2">LISETTE</role>, suivante.</castItem>
+			<castItem><role id="LUCIDOR" sex="1">LUCIDOR</role>, amant d'Angélique.</castItem>
+			<castItem><role id="FRONTIN" sex="1">FRONTIN</role>, valet de Lucidor.</castItem>
+			<castItem><role id="MAÎTRE-BLAISE" sex="1">MAÎTRE BLAISE</role>, jeune fermier du village.</castItem>
 		</castList>
 	<set location='France' country='France' periode='XVIIIème ' link=''>La scène se passe à la campagne, dans une terre appartenant depuis peu à Lucidor.</set>
 	</front>

@@ -6,9 +6,10 @@
 			<title>L'ÉCRIVAIN DES CHARNIERS, COMÉDIE</title>
 			<author born='1717' born_location='Paris' death='1806' death_location='Paris' academie='Poitiers'>CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle</author>
 		</titleStmt>
-		<publicationStmp>
+		<publicationStmt>
 			<p>publié par Paul FIEVRE août 2010</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Proverbe</genre>
 			<inspiration>moeurs françaises</inspiration>
@@ -43,14 +44,14 @@
 			<premiere date='1768' location='chez Madame la Marquise de Mauconseil'>Représenté pour la première fois en 1768 à Bagatelle chez Madame la Marquise de Mauconseil.</premiere>
 		</performance>
 	<castList><head>PERSONNAGES</head>
-		<castItem><role id="MADAME DE L'AIGUILLE" civil='F' type="H" statut='lingère' age='A' stat_amour='néant'>MADAME DE L'AIGUILLE</role>, Marchande Lingère.</castItem>
-		<castItem><role id="MADEMOISELLE JANNETON" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>MADEMOISELLE JANNETON</role>, sa fille.</castItem>
-		<castItem><role id="MONSIEUR DUBOIS PÈRE" civil='M' type="H" statut='commerçant' age='A' stat_amour='néant'>Monsieur DUBOIS, père</role>, débitant de Tabac.</castItem>
-		<castItem><role id="MONSIEUR DUBOIS FILS" civil='M' type="H" statut='commis' age='A' stat_amour='néant'>Monsieur DUBOIS fils</role>, commis des Barrières.
+		<castItem><role id="MADAME DE L'AIGUILLE" sex="2" type="H" statut='lingère' age='A' stat_amour='néant'>MADAME DE L'AIGUILLE</role>, Marchande Lingère.</castItem>
+		<castItem><role id="MADEMOISELLE JANNETON" sex="2" type="H" statut='bourgeois' age='J' stat_amour='néant'>MADEMOISELLE JANNETON</role>, sa fille.</castItem>
+		<castItem><role id="MONSIEUR DUBOIS PÈRE" sex="1" type="H" statut='commerçant' age='A' stat_amour='néant'>Monsieur DUBOIS, père</role>, débitant de Tabac.</castItem>
+		<castItem><role id="MONSIEUR DUBOIS FILS" sex="1" type="H" statut='commis' age='A' stat_amour='néant'>Monsieur DUBOIS fils</role>, commis des Barrières.
 </castItem>
-		<castItem><role id="MONSIEUR DISCRET" civil='M' type="H" statut='écrivain' age='A' stat_amour='néant'>MONSIEUR DISCRET</role>, écrivain des Charniers.
+		<castItem><role id="MONSIEUR DISCRET" sex="1" type="H" statut='écrivain' age='A' stat_amour='néant'>MONSIEUR DISCRET</role>, écrivain des Charniers.
 </castItem>
-		<castItem><role id="NICOLAS" civil='M' type="H" statut='commissaire' age='A' stat_amour='néant'>NICOLAS</role>, Commissionnaire.</castItem>
+		<castItem><role id="NICOLAS" sex="1" type="H" statut='commissaire' age='A' stat_amour='néant'>NICOLAS</role>, Commissionnaire.</castItem>
      </castList>
 <set location='Paris' country='France' periode='XVIIIème' link=''>La Scène est sous les Charniers des Innocents.</set>
 </front>

@@ -7,9 +7,10 @@
 				<author born='1659' born_location='Poitiers' death='1741' death_location='Poitiers' academie=''>NADAL, Augustin</author>
 				<date>1735</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul Fièvre janvier 2009.</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Divertissement</genre>
 				<inspiration>bible</inspiration>
@@ -52,11 +53,11 @@
 		</performance>
 		<castList>
 			<head>ACTEURS.</head>
-			<castItem><role id="ADAM" civil='M' type="H" statut='premier homme' age='A' stat_amour='néant'>ADAM</role>.</castItem>
-			<castItem><role id="EVE" civil='F' type="H" statut='première femme' age='A' stat_amour='néant'>ÈVE</role>.</castItem>
-			<castItem><role id="ANGE" civil='N' type="A" statut='ange' age='A' stat_amour='néant'>UN ANGE</role>.</castItem>
-			<castItem><role id="LE NARRATEUR" civil='M' type="H" statut='narrateur' age='A' stat_amour='néant'>LE NARRATEUR</role>.</castItem>
-			<castItem><role id="CHOEUR" civil='G' type="A" statut='choeur' age='A' stat_amour='néant'>CHOEUR DES ANGES</role>.</castItem>
+			<castItem><role id="ADAM" sex="1" type="H" statut='premier homme' age='A' stat_amour='néant'>ADAM</role>.</castItem>
+			<castItem><role id="EVE" sex="2" type="H" statut='première femme' age='A' stat_amour='néant'>ÈVE</role>.</castItem>
+			<castItem><role id="ANGE" sex="9" type="P" statut='ange' age='A' stat_amour='néant'>UN ANGE</role>.</castItem>
+			<castItem><role id="LE NARRATEUR" sex="1" type="H" statut='narrateur' age='A' stat_amour='néant'>LE NARRATEUR</role>.</castItem>
+			<castItem><role id="CHOEUR" sex="9" type="P" statut='choeur' age='A' stat_amour='néant'>CHOEUR DES ANGES</role>.</castItem>
 		</castList>
 		<set location='(non indiqué)' country='Paradis terrestre' periode='Temps mythologiques' link=''></set>
 </front>

@@ -7,9 +7,10 @@
 				<author born='1655' born_location='Paris' death='1709' death_location='château de grillon, Dourdan' academie=''>REGNARD, Jean-François</author>
 				<date>1692</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE</p><p>Mai 2006</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -38,19 +39,19 @@
 				<premiere date="1696-12-19" location='Théâtre de la rue des Fossés Saint-Germain'>Représentée pour la première fois le mercredi 19 décembre 1996 au Théâtre de la rue des Fossés Saint-Germain par le troupe de la Comédie française, et avait été joué précédemment au Château de Berny.</premiere>
 			</performance>
 <castList>
-	<castItem><role id="GERONTE" civil="M" type="H" statut="bourgeois" age="V" stat_amour='néant'>GÉRONTE</role>, Père de Valère.</castItem>
-	<castItem><role id="VALERE" civil="M" type="H" statut="bourgeois" age="A" stat_amour='amoureux'>VALÈRE</role>, amant d'Angélique.</castItem>
-	<castItem><role id="ANGELIQUE" civil="F" type="H" statut="bourgeois" age="A" stat_amour='amoureux'>ANGÉLIQUE</role>, amante de Valère.</castItem>
-	<castItem><role id="DORANTE" civil="M" type="H" statut="bourgeois" age="V" stat_amour='amoureux'>DORANTE</role>, oncle de valère, et amant d'Angélique.</castItem>
-	<castItem><role id="LE_MARQUIS" civil="M" type="H" statut="marquis" age="A" stat_amour='néant'>LE MARQUIS</role>.</castItem>
-	<castItem><role id="NERINE" civil="F" type="H" statut="suivante" age="A" stat_amour='néant'>NÉRINE</role>, suivante d'Angélique.</castItem>
-	<castItem><role id="LA_RESSOURCE" civil="F" type="H" statut="commerçant" age="A" stat_amour='néant'>Madame LA RESSOURCE</role>, revendeuse à la toilette.</castItem>
-	<castItem><role id="HECTOR" civil="M" type="H" statut="valet" age="A" stat_amour='néant'>HECTOR</role>, valet de Valère.</castItem>
-	<castItem><role id="TOUTABAS" civil="M" type="H" statut="joueur" age="A" stat_amour='néant'>Monsieur TOUTABAS</role>, maître de trictrac.</castItem>
-	<castItem><role id="GALONNIER" civil="M" type="H" statut="tailleur" age="A" stat_amour='néant'>Monsieur GALONNIER</role>, tailleur.</castItem>
-	<castItem><role id="MME_ADAM" civil="F" type="H" statut="sellier" age="A" stat_amour='néant'>Madame ADAM</role>, sellière.</castItem>
-	<castItem><role id="LAQUAIS" civil="M" type="H" statut="laquais" age="A" stat_amour='néant'>Un LAQUAIS d'Angélique</role>.</castItem>
-	<castItem><role id="TROIS_LAQUAIS" civil="G" type="H" statut="laquais" age="A" stat_amour='néant'>Trois LAQUAIS du Marquis</role>.</castItem>
+	<castItem><role id="GERONTE" sex="1" type="H" statut="bourgeois" age="V" stat_amour='néant'>GÉRONTE</role>, Père de Valère.</castItem>
+	<castItem><role id="VALERE" sex="1" type="H" statut="bourgeois" age="A" stat_amour='amoureux'>VALÈRE</role>, amant d'Angélique.</castItem>
+	<castItem><role id="ANGELIQUE" sex="2" type="H" statut="bourgeois" age="A" stat_amour='amoureux'>ANGÉLIQUE</role>, amante de Valère.</castItem>
+	<castItem><role id="DORANTE" sex="1" type="H" statut="bourgeois" age="V" stat_amour='amoureux'>DORANTE</role>, oncle de valère, et amant d'Angélique.</castItem>
+	<castItem><role id="LE_MARQUIS" sex="1" type="H" statut="marquis" age="A" stat_amour='néant'>LE MARQUIS</role>.</castItem>
+	<castItem><role id="NERINE" sex="2" type="H" statut="suivante" age="A" stat_amour='néant'>NÉRINE</role>, suivante d'Angélique.</castItem>
+	<castItem><role id="LA_RESSOURCE" sex="2" type="H" statut="commerçant" age="A" stat_amour='néant'>Madame LA RESSOURCE</role>, revendeuse à la toilette.</castItem>
+	<castItem><role id="HECTOR" sex="1" type="H" statut="valet" age="A" stat_amour='néant'>HECTOR</role>, valet de Valère.</castItem>
+	<castItem><role id="TOUTABAS" sex="1" type="H" statut="joueur" age="A" stat_amour='néant'>Monsieur TOUTABAS</role>, maître de trictrac.</castItem>
+	<castItem><role id="GALONNIER" sex="1" type="H" statut="tailleur" age="A" stat_amour='néant'>Monsieur GALONNIER</role>, tailleur.</castItem>
+	<castItem><role id="MME_ADAM" sex="2" type="H" statut="sellier" age="A" stat_amour='néant'>Madame ADAM</role>, sellière.</castItem>
+	<castItem><role id="LAQUAIS" sex="1" type="H" statut="laquais" age="A" stat_amour='néant'>Un LAQUAIS d'Angélique</role>.</castItem>
+	<castItem><role id="TROIS_LAQUAIS" sex="9" type="H" statut="laquais" age="A" stat_amour='néant'>Trois LAQUAIS du Marquis</role>.</castItem>
 </castList>
 <set location='Paris' country='France' periode='XVIIème' link=''>La scène est à Paris, dans un hôtel garni.</set>
 </front>

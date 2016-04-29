@@ -6,9 +6,10 @@
 				<title>ASTARBÉ, TRAGÉDIE</title>
 				<author born='1732' born_location='Janville' death='1776' death_location='Paris' academie='1776'>COLARDEAU, Charles-Pierre</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<authority>publié par Paul FIEVRE, août 2013</authority>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire romaine</inspiration>
@@ -66,18 +67,18 @@
 		<p type="v">PHILIPPES fut le père et l'ami des Beaux Arts.</p>
 	</div>
 	<castList><head>ACTEURS.</head>
-		<castItem><role id="PIGMALION" civil='M' type="H" statut="roi" age="A" stat_amour='néant'>PIGMALION</role>, Roi de Tyr, M. Paulin.</castItem>
-		<castItem><role id="ASTARBÉ" civil='F' type="H" statut="roi" age="amoureux" stat_amour='néant'>ASTARBÉ</role>, épouse de Pigmalion, Mlle Clairon.</castItem>
-		<castItem><role id="BACAZAR" civil='M' type="H" statut="prince" age="A" stat_amour='néant'>BACAZAR</role>, fils de Pigmalion, M. Le Kain.</castItem>
-		<castItem><role id="LEUXIS" civil='F' type="H" statut="prince" age="A" stat_amour='néant'>LEUXIS</role>, Princesse, amante de Bacazar, Mlle Gauffin.</castItem>
-		<castItem><role id="NARBAL" civil='M' type="H" statut="gouverneur" age="V" stat_amour='néant'>NARBAL</role>, ancien Gouverneur de Bacazar, M. Brizard.</castItem>
-		<castItem><role id="ZOPIRE" civil='M' type="H" statut="aristocrate" age="A" stat_amour='néant'>ZOPIRE</role>, conjuré, M. Bellecourt.</castItem>
-		<castItem><role id="NADOR" civil='M' type="H" statut="aristocrate" age="A" stat_amour='néant'>NADOR</role>, conjuré, M. Le Grand.</castItem>
-		<castItem><role id="ORCAN" civil='M' type="H" statut="confident" age="A" stat_amour='néant'>ORCAN</role>, Confident d'Astarbé, M. Bonneval.</castItem>
-		<castItem><role id="ARSACE" civil='M' type="H" statut="officier" age="A" stat_amour='néant'>ARSACE</role>, Chef des Gardes de Pigmalion, M. Dubois.</castItem>
-		<castItem><role id="GARDES" civil='G' type="H" statut="garde" age="A" stat_amour='néant'>GARDES de Pigmalion</role>.</castItem>
-		<castItem><role id="GARDES d'Astarbé" civil='G' type="H" statut="garde" age="A" stat_amour='néant'>GARDES d'Astarbé</role>.</castItem>
-		<castItem><role id="TYRIENS" civil='G' type="H" statut="peuple" age="A" stat_amour='néant'>TROUPE DE TYRIENS</role>.</castItem>
+		<castItem><role id="PIGMALION" sex="1" type="H" statut="roi" age="A" stat_amour='néant'>PIGMALION</role>, Roi de Tyr, M. Paulin.</castItem>
+		<castItem><role id="ASTARBÉ" sex="2" type="H" statut="roi" age="A" stat_amour='Pygmalion'>ASTARBÉ</role>, épouse de Pigmalion, Mlle Clairon.</castItem>
+		<castItem><role id="BACAZAR" sex="1" type="H" statut="prince" age="A" stat_amour='néant'>BACAZAR</role>, fils de Pigmalion, M. Le Kain.</castItem>
+		<castItem><role id="LEUXIS" sex="2" type="H" statut="prince" age="A" stat_amour='néant'>LEUXIS</role>, Princesse, amante de Bacazar, Mlle Gauffin.</castItem>
+		<castItem><role id="NARBAL" sex="1" type="H" statut="gouverneur" age="V" stat_amour='néant'>NARBAL</role>, ancien Gouverneur de Bacazar, M. Brizard.</castItem>
+		<castItem><role id="ZOPIRE" sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>ZOPIRE</role>, conjuré, M. Bellecourt.</castItem>
+		<castItem><role id="NADOR" sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>NADOR</role>, conjuré, M. Le Grand.</castItem>
+		<castItem><role id="ORCAN" sex="1" type="H" statut="confident" age="A" stat_amour='néant'>ORCAN</role>, Confident d'Astarbé, M. Bonneval.</castItem>
+		<castItem><role id="ARSACE" sex="1" type="H" statut="officier" age="A" stat_amour='néant'>ARSACE</role>, Chef des Gardes de Pigmalion, M. Dubois.</castItem>
+		<castItem><role id="GARDES" sex="9" type="H" statut="garde" age="A" stat_amour='néant'>GARDES de Pigmalion</role>.</castItem>
+		<castItem><role id="GARDES d'Astarbé" sex="9" type="H" statut="garde" age="A" stat_amour='néant'>GARDES d'Astarbé</role>.</castItem>
+		<castItem><role id="TYRIENS" sex="9" type="H" statut="peuple" age="A" stat_amour='néant'>TROUPE DE TYRIENS</role>.</castItem>
 	</castList>
 	<set location='Tyr' country='Syrie' periode='IXème avant JC' link=''>La Scène est à Tyr dans le Palais des Rois.</set>
 </front>

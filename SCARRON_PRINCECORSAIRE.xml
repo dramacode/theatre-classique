@@ -6,9 +6,10 @@
 			<title>LE PRINCE CORSAIRE, TRAGI-COMÉDIE.</title>
 			<author born='1610' born_location='Paris' death='1660' death_location='Paris' academie=''>SCARRON, Paul</author>
 		</titleStmt>
-		<publicationStmp>
+		<publicationStmt>
 			<p>publié par Paul FIEVRE mars 2011</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Comédie</genre>
 			<inspiration>moeurs chypriotes</inspiration>
@@ -40,18 +41,18 @@
 		<premiere date='1658' location='(inconnue)'>Représenté pour la première fois le 1 août 1659 au théâtre du Petit Bourbon.</premiere>
 	</performance>
 	<castList><head>ACTEURS.</head>
-		<castItem><role id="OROSMANE" civil="M" type="H" statut="prince" age="A" stat_amour='Élise'>OROSMANE</role>, Prince Corsaire, amant de la Princesse Élise, et enfin reconnu, sous le nom d'Alcandre, pour fils de Nicanor.</castItem>
-		<castItem><role id="ÉLISE" civil="F" type="H" statut="prince" age="A" stat_amour='Orosmane'>ÉLISE</role>, Princesse de Chypre, Maîtresse d'Orosmane.</castItem>
-		<castItem><role id="ALCIONNE" civil="F" type="H" statut="prince" age="A" stat_amour='Amintas'>ALCIONNE</role>, autre Princesse de Chypre, Soeur d'Élise, maîtresse d'Amintas.</castItem>
-		<castItem><role id="AMINTAS" civil="M" type="H" statut="prince" age="A" stat_amour='Alcionne'>AMINTAS</role>, fils de Nicanor, frère d'Orosmane, amant de la Princesse Alcionne. </castItem>
-		<castItem><role id="NICANOR" civil="M" type="H" statut="prince" age="A" stat_amour='néant'>NICANOR</role>, père d'Orosmane, et d'Amintas, et Oncle des Princesses.</castItem>
-		<castItem><role id="SÉBASTE" civil="M" type="H" statut="confident" age="A" stat_amour='néant'>SÉBASTE</role>, Confident d'Orosmane.</castItem>
-		<castItem><role id="ARGANTE" civil="M" type="H" statut="lieutenant" age="A" stat_amour='néant'>ARGANTE</role>, lieutenant du même Orosmane.</castItem>
-		<castItem><role id="CLARICE" civil="F" type="H" statut="confident" age="A" stat_amour='néant'>CLARICE</role>, confidente des Princesses.</castItem>
-		<castItem><role id="CRITON" civil="M" type="H" statut="confident" age="A" stat_amour='néant'>CRITON</role>, confident d'Amintas.</castItem>
-		<castItem><role id="LICAS" civil="M" type="H" statut="capitaine" age="A" stat_amour='néant'>LICAS</role>, capitaine des Gardes de Nicanor.</castItem>
-		<castItem><role id="GARDES" civil="G" type="H" statut="garde" age="A" stat_amour='néant'>GARDES de Nicanor</role>.</castItem>
-		<castItem><role id="CORSAIRES" civil="G" type="H" statut="corsaire" age="A" stat_amour='néant'>CORSAIRES de la flotte d'Orosmane</role>.</castItem>
+		<castItem><role id="OROSMANE" sex="1" type="H" statut="prince" age="A" stat_amour='Élise'>OROSMANE</role>, Prince Corsaire, amant de la Princesse Élise, et enfin reconnu, sous le nom d'Alcandre, pour fils de Nicanor.</castItem>
+		<castItem><role id="ÉLISE" sex="2" type="H" statut="prince" age="A" stat_amour='Orosmane'>ÉLISE</role>, Princesse de Chypre, Maîtresse d'Orosmane.</castItem>
+		<castItem><role id="ALCIONNE" sex="2" type="H" statut="prince" age="A" stat_amour='Amintas'>ALCIONNE</role>, autre Princesse de Chypre, Soeur d'Élise, maîtresse d'Amintas.</castItem>
+		<castItem><role id="AMINTAS" sex="1" type="H" statut="prince" age="A" stat_amour='Alcionne'>AMINTAS</role>, fils de Nicanor, frère d'Orosmane, amant de la Princesse Alcionne. </castItem>
+		<castItem><role id="NICANOR" sex="1" type="H" statut="prince" age="A" stat_amour='néant'>NICANOR</role>, père d'Orosmane, et d'Amintas, et Oncle des Princesses.</castItem>
+		<castItem><role id="SÉBASTE" sex="1" type="H" statut="confident" age="A" stat_amour='néant'>SÉBASTE</role>, Confident d'Orosmane.</castItem>
+		<castItem><role id="ARGANTE" sex="1" type="H" statut="lieutenant" age="A" stat_amour='néant'>ARGANTE</role>, lieutenant du même Orosmane.</castItem>
+		<castItem><role id="CLARICE" sex="2" type="H" statut="confident" age="A" stat_amour='néant'>CLARICE</role>, confidente des Princesses.</castItem>
+		<castItem><role id="CRITON" sex="1" type="H" statut="confident" age="A" stat_amour='néant'>CRITON</role>, confident d'Amintas.</castItem>
+		<castItem><role id="LICAS" sex="1" type="H" statut="capitaine" age="A" stat_amour='néant'>LICAS</role>, capitaine des Gardes de Nicanor.</castItem>
+		<castItem><role id="GARDES" sex="9" type="H" statut="garde" age="A" stat_amour='néant'>GARDES de Nicanor</role>.</castItem>
+		<castItem><role id="CORSAIRES" sex="9" type="H" statut="corsaire" age="A" stat_amour='néant'>CORSAIRES de la flotte d'Orosmane</role>.</castItem>
 	</castList>
 <set location='Paphos' country='Chypre' periode='XVIIème' link=''>La Scène est à Paphos, Ville de l'Île de Chypre, dans le Palais.</set>
 </front>

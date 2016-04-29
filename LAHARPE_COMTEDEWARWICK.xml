@@ -7,9 +7,10 @@
 				<author born='1739' born_location='Paris' death='1803' death_location='Paris' academie=''>LA HARPE, Jean-François de</author>
 				<date>1733</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<authority>publié par Paul FIEVRE, juin 2008, revu ocotbre 2014</authority>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire anglaise</inspiration>
@@ -82,16 +83,16 @@
 		<p>P.S. Je reçois en ce moment des « Réflexions à un Ami sur le Comte de Warwik ». À la bassesse du style, à l'ignorance profonde qu'on aperçoit dans ces réflexions critiques, on n'imaginerait pas qu'elles fussent d'un versificateur de profession. Cependant on me l'assure. Sa mémoire ne le sert pas mieux que son esprit. II cite comme il juge. Du reste il ne paraît pas médiocrement affligé du sort de la Pièce. Je souhaite que sa critique le console.</p>
 	</div>
 	<castList><head>Personnages</head>
-		<castItem><role id="ÉDOUARD" civil='M' type="H" statut='roi' age='A' stat_amour='néant'>ÉDOUARD d'YORCK</role>, Roi d'Angleterre.</castItem>
-		<castItem><role id="MARGUERITE" civil='F' type="H" statut='roi' age='A' stat_amour='néant'>MARGUERITE D'ANJOU</role>, femme d'Henri IV détrôné.</castItem>
-		<castItem><role id="WARWIK" civil='M' type="H" statut='comte' age='A' stat_amour='néant'>LE COMTE DE WARWIK</role>.</castItem>
-		<castItem><role id="ÉLISABETH" civil='F' type="H" statut='prince' age='A' stat_amour='néant'>ÉLISABETH</role>.</castItem>
-		<castItem><role id="SUFFOLK" civil='M' type="H" statut='confident' age='A' stat_amour='néant'>SUFFOLK</role>, Confident du Roi.</castItem>
-		<castItem><role id="SUMMER" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>SUMMER</role>, ami de Warwick.</castItem>
-		<castItem><role id="NEVIL" civil='F' type="H" statut='suivante' age='A' stat_amour='néant'>NEVIL</role>, suivante de la Reine.</castItem>
-		<castItem><role id="UN OFFICIER" civil='M' type="H" statut='officier' age='A' stat_amour='néant'>UN OFFICIER</role>.</castItem>
-		<castItem><role id="GARDES" civil='G' type="H" statut='garde' age='A' stat_amour='néant'>GARDES</role>.</castItem>
-		<castItem><role id="SOLDATS" civil='G' type="H" statut='soldat' age='A' stat_amour='néant'>Soldats</role>.</castItem>
+		<castItem><role id="ÉDOUARD" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>ÉDOUARD d'YORCK</role>, Roi d'Angleterre.</castItem>
+		<castItem><role id="MARGUERITE" sex="2" type="H" statut='roi' age='A' stat_amour='néant'>MARGUERITE D'ANJOU</role>, femme d'Henri IV détrôné.</castItem>
+		<castItem><role id="WARWIK" sex="1" type="H" statut='comte' age='A' stat_amour='néant'>LE COMTE DE WARWIK</role>.</castItem>
+		<castItem><role id="ÉLISABETH" sex="2" type="H" statut='prince' age='A' stat_amour='néant'>ÉLISABETH</role>.</castItem>
+		<castItem><role id="SUFFOLK" sex="1" type="H" statut='confident' age='A' stat_amour='néant'>SUFFOLK</role>, Confident du Roi.</castItem>
+		<castItem><role id="SUMMER" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>SUMMER</role>, ami de Warwick.</castItem>
+		<castItem><role id="NEVIL" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>NEVIL</role>, suivante de la Reine.</castItem>
+		<castItem><role id="UN OFFICIER" sex="1" type="H" statut='officier' age='A' stat_amour='néant'>UN OFFICIER</role>.</castItem>
+		<castItem><role id="GARDES" sex="9" type="H" statut='garde' age='A' stat_amour='néant'>GARDES</role>.</castItem>
+		<castItem><role id="SOLDATS" sex="9" type="H" statut='soldat' age='A' stat_amour='néant'>Soldats</role>.</castItem>
 	</castList>
 	<set location='Londres' country='Angleterre' periode='XVème' link=''></set> 
 </front> 

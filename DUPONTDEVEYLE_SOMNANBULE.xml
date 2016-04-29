@@ -7,9 +7,10 @@
 				<author born="1697" born_location="Pont-de-Veyle" death="1774" death_location="Paris" academie="1673">FERIOL DE PONT-DE-VEYLE, Antoine de</author>
 				
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE mai 2012</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -44,14 +45,14 @@
 		</performance>
 		<castList>
 			<head>PERSONNAGES</head>
-			<castItem><role id="LE-BARON" civil='M' type="H" statut='baron' age='A' stat_amour='néant'>LE BARON</role>.</castItem>
-			<castItem><role id="LA-COMTESSE" civil='F' type="H" statut='conte' age='A' stat_amour='néant'>LA COMTESSE</role>.</castItem>
-			<castItem><role id="ROSALIE" civil='F' type="H" statut='aristorate' age='A' stat_amour='amoureux'>ROSALIE</role>, fille de la Comtesse.</castItem>
-			<castItem><role id="VALÈRE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='amoureux'>VALÈRE</role>, neveu du Baron, Amant de Rosalie.</castItem>
-			<castItem><role id="DORANTE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>DORANTE</role>.</castItem>
-			<castItem><role id="THIBAUT" civil='M' type="H" statut='jardinier' age='A' stat_amour='néant'>THIBAUT</role>, jardinier du Baron.</castItem>
-			<castItem><role id="FROTIN" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>FRONTIN</role>, valet de Dorante, et neveu de Thibaut.</castItem>
-			<castItem><role id="UN MAÎTRE D'HÔTEL" civil='M' type="H" statut="maître d'hôtel" age='A' stat_amour='néant'>UN MAÎTRE D'HÔTEL</role>.</castItem>
+			<castItem><role id="LE-BARON" sex="1" type="H" statut='baron' age='A' stat_amour='néant'>LE BARON</role>.</castItem>
+			<castItem><role id="LA-COMTESSE" sex="2" type="H" statut='conte' age='A' stat_amour='néant'>LA COMTESSE</role>.</castItem>
+			<castItem><role id="ROSALIE" sex="2" type="H" statut='aristorate' age='A' stat_amour='amoureux'>ROSALIE</role>, fille de la Comtesse.</castItem>
+			<castItem><role id="VALÈRE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='amoureux'>VALÈRE</role>, neveu du Baron, Amant de Rosalie.</castItem>
+			<castItem><role id="DORANTE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>DORANTE</role>.</castItem>
+			<castItem><role id="THIBAUT" sex="1" type="H" statut='jardinier' age='A' stat_amour='néant'>THIBAUT</role>, jardinier du Baron.</castItem>
+			<castItem><role id="FROTIN" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>FRONTIN</role>, valet de Dorante, et neveu de Thibaut.</castItem>
+			<castItem><role id="UN MAÎTRE D'HÔTEL" sex="1" type="H" statut="maître d'hôtel" age='A' stat_amour='néant'>UN MAÎTRE D'HÔTEL</role>.</castItem>
 		</castList>
 <set location='Province' country='France' periode='XVIIIème' link=''>La Scène est dans une Maison de Compagne du Baron.</set>
 </front>

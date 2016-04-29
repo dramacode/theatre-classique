@@ -6,9 +6,10 @@
 			<title>OSARPHIS ou MOÏSE, TRAGÉDIE</title>
 			<author born='1659' born_location='Poitiers' death='1741' death_location='Poitiers' academie=''>NADAL, Augustin</author>
 		</titleStmt>
-		<publicationStmp>
+		<publicationStmt>
 			<p>publié par Paul FIEVRE avril 2010</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Tragédie</genre>
 			<inspiration>bible</inspiration>
@@ -112,16 +113,16 @@ Osarphis est un personnage de nouvelle espèce pour le Théâtre Français ; un
 <p class='prose'>MADAME, de V. A. Sérénissime,  Le très humble, et très obéissant Serviteur, l'Abbé Nadal.</p>
 </div>
 	<castList><head>ACTEURS</head>
-		<castItem><role id="MOÏSE" civil='M'>MOÏSE</role>, sous le nom d'Osarphis, fils de Jocabel et cru fils de Thermutis Reine d'Égypte. </castItem>
-		<castItem><role id="AMÉNOPHIS" civil='M'>AMÉNOPHIS</role>, Roi d'Égypte, frère de Thermutis qui avait usurpé la Couronne sur lui.</castItem>
-		<castItem><role id="JOCABEL" civil='F'>JOCABEL</role>, Mère de Moïse, autrement, d'Osarphis.</castItem>
-		<castItem><role id="THARBIS" civil='F'>THARBIS</role>, Reine de Sepa et Amante d'Aménophis.</castItem>
-		<castItem><role id="AARON" civil='M'>AARON</role>, autre fils de Jocabel et frère d'Osarphis.</castItem>
-		<castItem><role id="PHANÉS" civil='M'>PHANÉS</role>, grand Prêtre d'Osiris.</castItem>
-		<castItem><role id="ISÉRIDE" civil='F'>ISÉRIDE</role>, Confidente de Jocabel.</castItem>
-		<castItem><role id="ISMÈNE" civil='F'>ISMÈNE</role>, Confidente de Tharbis.</castItem>
-		<castItem><role id="ASAPH" civil='M'>ASAPH</role>, Confident d'Osarphis.</castItem>
-		<castItem><role id="GARDES" civil='G'>GARDES</role>.</castItem>
+		<castItem><role id="MOÏSE" sex="1">MOÏSE</role>, sous le nom d'Osarphis, fils de Jocabel et cru fils de Thermutis Reine d'Égypte. </castItem>
+		<castItem><role id="AMÉNOPHIS" sex="1">AMÉNOPHIS</role>, Roi d'Égypte, frère de Thermutis qui avait usurpé la Couronne sur lui.</castItem>
+		<castItem><role id="JOCABEL" sex="2">JOCABEL</role>, Mère de Moïse, autrement, d'Osarphis.</castItem>
+		<castItem><role id="THARBIS" sex="2">THARBIS</role>, Reine de Sepa et Amante d'Aménophis.</castItem>
+		<castItem><role id="AARON" sex="1">AARON</role>, autre fils de Jocabel et frère d'Osarphis.</castItem>
+		<castItem><role id="PHANÉS" sex="1">PHANÉS</role>, grand Prêtre d'Osiris.</castItem>
+		<castItem><role id="ISÉRIDE" sex="2">ISÉRIDE</role>, Confidente de Jocabel.</castItem>
+		<castItem><role id="ISMÈNE" sex="2">ISMÈNE</role>, Confidente de Tharbis.</castItem>
+		<castItem><role id="ASAPH" sex="1">ASAPH</role>, Confident d'Osarphis.</castItem>
+		<castItem><role id="GARDES" sex="9">GARDES</role>.</castItem>
     </castList>
 <set location='Memphis' country='Egypte' periode='Temps bibliques' link=''>La Scène est à Memphis, dans le Palais des anciens Rois d'Égypte. </set>
 </front>

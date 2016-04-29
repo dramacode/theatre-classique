@@ -6,9 +6,10 @@
 				<title>L'APPARTEMENT A LOUER, COMÉDIE</title>
 				<author born='1773' born_location='' death='1830' death_location='' academie=''>PAIN, Joseph-Marie</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, juin 2012</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -64,13 +65,13 @@
 					<p type="vers">L'auteur seroit fort mal logé.  </p>
 		</div> 
 		<castList><head>PERSONNAGES.	ARTISTES.</head>
-				<castItem><role id='THÉODORE' civil='M' type="H" statut="bourgeois" age="A" stat_amour='néant'>THÉODORE</role>.	CÉSAR.</castItem>
-				<castItem><role id='ROSETTE' civil='F' type="H" statut="bourgeois" age="A" stat_amour='néant'>ROSETTE</role>.	DUMAS.</castItem>
-				<castItem><role id='VINCENT' civil='M' type="H" statut="bourgeois" age="A" stat_amour='néant'>VINCENT</role>, père de Rosette.	DUBOIS.</castItem>
-				<castItem><role id='DUBOIS' civil='M' type="H" statut="bourgeois" age="A" stat_amour='néant'>DUBOIS</role>, valet de Théodore.	AMIEL.</castItem>
-				<castItem><role id='SONORE' civil='M' type="H" statut="musicien" age="A" stat_amour='néant'>SONORE</role>, musicien.	CORSE.</castItem>
-				<castItem><role id='UNE ACTRICE' civil='F' type="H" statut="acteur" age="A" stat_amour='néant'>UNE ACTRICE</role>.	CAROLINE.</castItem>
-				<castItem><role id='UN GASCON' civil='M' type="H" statut="coiffeur" age="A" stat_amour='néant'>UN GASCON</role>.	CORSE.</castItem>
+				<castItem><role id='THÉODORE' sex="1" type="H" statut="bourgeois" age="A" stat_amour='néant'>THÉODORE</role>.	CÉSAR.</castItem>
+				<castItem><role id='ROSETTE' sex="2" type="H" statut="bourgeois" age="A" stat_amour='néant'>ROSETTE</role>.	DUMAS.</castItem>
+				<castItem><role id='VINCENT' sex="1" type="H" statut="bourgeois" age="A" stat_amour='néant'>VINCENT</role>, père de Rosette.	DUBOIS.</castItem>
+				<castItem><role id='DUBOIS' sex="1" type="H" statut="bourgeois" age="A" stat_amour='néant'>DUBOIS</role>, valet de Théodore.	AMIEL.</castItem>
+				<castItem><role id='SONORE' sex="1" type="H" statut="musicien" age="A" stat_amour='néant'>SONORE</role>, musicien.	CORSE.</castItem>
+				<castItem><role id='UNE ACTRICE' sex="2" type="H" statut="acteur" age="A" stat_amour='néant'>UNE ACTRICE</role>.	CAROLINE.</castItem>
+				<castItem><role id='UN GASCON' sex="1" type="H" statut="coiffeur" age="A" stat_amour='néant'>UN GASCON</role>.	CORSE.</castItem>
 		</castList>
 		<set location='Paris' country='France' periode='XVIIIème' link=''>La Scène est chez Théodore.</set>
 		</front>

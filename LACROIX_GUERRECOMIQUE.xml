@@ -7,10 +7,11 @@
 				<author born='1606' born_location='Rouen' death='1684' death_location='Paris' academie='1647'>LA CROIX, Jean de</author>
 				<date>1651</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, juin 2013</p>
 				<editor>Texte saisi par David Chataignier à partir de l'exemplaire 8-BL-12845 conservé à la Bibliothèque de l'Arsenal.</editor>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -55,15 +56,15 @@
 	<p> Les Comédiens s'entretuaient à coups de vers, les Impromptus et les Portraits étaient en campagne, et une grêle fort épaisse de satire et de médisance volait de part et d'autre, lorsque Mome, ce railleur éternel qui se donne la Comédie aux dépens des Dieux, et qui satirise impunément le Ciel et la Terre, aperçut ce désordre épouvantable. Il fit ce que tout le monde a fait aux représentations de ces Pièces ; Il s'y divertit des uns et des autres, et pour profiter d'une occasion si rare et si plaisante, il résolut de railler aussi le Dieu qui préside à la Poésie. Il commença donc avec un geste forcené et un ton de voix capable d'épouvanter Mars ce Dialogue Burlesque. </p>
 	</div>
 		<castList><head>PERSONNAGES.</head>
-	      <castItem><role id="MOME" civil='M' type="D" statut='dieu' age='A' stat_amour='néant'>MOME</role>.</castItem>
-	      <castItem><role id="APOLLON" civil='M' type="D" statut='dieu' age='A' stat_amour='néant'>APOLLON</role>.</castItem>
-	      <castItem><role id="MÉLASIE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>MÉLASIE</role>.</castItem>
-	      <castItem><role id="CLÉONE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>CLÉONE</role>.</castItem>
-	      <castItem><role id="PHILNTE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>PHILINTE</role>.</castItem>
-	      <castItem><role id="ALCIPE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>ALCIPE</role>.</castItem>
-	      <castItem><role id="ROSIMON" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>ROSIMON</role>.</castItem>
-	      <castItem><role id="ALCIDOR" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>ALCIDOR</role>.</castItem>
-	      <castItem><role id="DE LA RANCUNE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>DE LA RANCUNE</role>.</castItem>
+	      <castItem><role id="MOME" sex="1" type="D" statut='dieu' age='A' stat_amour='néant'>MOME</role>.</castItem>
+	      <castItem><role id="APOLLON" sex="1" type="D" statut='dieu' age='A' stat_amour='néant'>APOLLON</role>.</castItem>
+	      <castItem><role id="MÉLASIE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>MÉLASIE</role>.</castItem>
+	      <castItem><role id="CLÉONE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>CLÉONE</role>.</castItem>
+	      <castItem><role id="PHILNTE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>PHILINTE</role>.</castItem>
+	      <castItem><role id="ALCIPE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>ALCIPE</role>.</castItem>
+	      <castItem><role id="ROSIMON" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>ROSIMON</role>.</castItem>
+	      <castItem><role id="ALCIDOR" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>ALCIDOR</role>.</castItem>
+	      <castItem><role id="DE LA RANCUNE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>DE LA RANCUNE</role>.</castItem>
 
 	</castList>
 	<set location='Paris' country='France' periode='XVIIème' link=''>La scène est à Paris.</set>

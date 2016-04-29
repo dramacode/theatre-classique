@@ -6,9 +6,10 @@
 			<title>LA JOIE IMPRÉVUE, COMÉDIE.</title>
 			<author born='1688' born_location='Auvergne' death='1763' death_location='Paris' academie='1743'>MARIVAUX</author>
 		</titleStmt>
-		<publicationStmp>
+		<publicationStmt>
 			<p>publié par Paul FIEVRE décembre 2010</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Comédie</genre>
 			<inspiration>moeurs françaises</inspiration>
@@ -38,13 +39,13 @@
 			<premiere date='1738-07-07' location='Hôtel de Bourgogne'>Représentée pour la première fois par les comédiens Italiens le 7 juillet 1738.</premiere>
 		</performance>
 	<castList><head>ACTEURS</head>
-		<castItem><role id="MONSIEUR-ORGON" civil="M" type="H" statut="bourgeois" age="A" stat_amour='néant'>MONSIEUR ORGON</role>.</castItem>
-		<castItem><role id="MADAME-DORVILLE" civil="F" type="H" statut="aristocrate" age="A" stat_amour='néant'>MADAME DORVILLE</role>, fille de Madame Dorville, maîtresse de Damon.</castItem>
-		<castItem><role id="CONSTANCE" civil="F" type="H" statut="aristocrate" age="A" stat_amour='amoureux'>CONSTANCE</role>.</castItem>
-		<castItem><role id="DAMON" civil="M" type="H" statut="aristocrate" age="A" stat_amour='amoureux'>DAMON</role>, fils de Monsieur Orgon, amant de Constance.</castItem>
-		<castItem><role id="LE-CHEVALIER" civil="M" type="H" statut="chevalier" age="A" stat_amour='néant'>LE CHEVALIER</role>.</castItem>
-		<castItem><role id="LISETTE" civil="F" type="H" statut="suivante" age="A" stat_amour='néant'>LISETTE</role>, suivante de Constance.</castItem>
-		<castItem><role id="PASQUIN" civil="M" type="H" statut="valet" age="A" stat_amour='néant'>PASQUIN</role>, valet de Damon.</castItem>
+		<castItem><role id="MONSIEUR-ORGON" sex="1" type="H" statut="bourgeois" age="A" stat_amour='néant'>MONSIEUR ORGON</role>.</castItem>
+		<castItem><role id="MADAME-DORVILLE" sex="2" type="H" statut="aristocrate" age="A" stat_amour='néant'>MADAME DORVILLE</role>, fille de Madame Dorville, maîtresse de Damon.</castItem>
+		<castItem><role id="CONSTANCE" sex="2" type="H" statut="aristocrate" age="A" stat_amour='amoureux'>CONSTANCE</role>.</castItem>
+		<castItem><role id="DAMON" sex="1" type="H" statut="aristocrate" age="A" stat_amour='amoureux'>DAMON</role>, fils de Monsieur Orgon, amant de Constance.</castItem>
+		<castItem><role id="LE-CHEVALIER" sex="1" type="H" statut="chevalier" age="A" stat_amour='néant'>LE CHEVALIER</role>.</castItem>
+		<castItem><role id="LISETTE" sex="2" type="H" statut="suivante" age="A" stat_amour='néant'>LISETTE</role>, suivante de Constance.</castItem>
+		<castItem><role id="PASQUIN" sex="1" type="H" statut="valet" age="A" stat_amour='néant'>PASQUIN</role>, valet de Damon.</castItem>
 	</castList>
 <set location='Paris' country='France' periode='XVIIIème' link=''>La scène est à Paris dans un jardin qui communique à un hôtel garni. </set>
 </front>

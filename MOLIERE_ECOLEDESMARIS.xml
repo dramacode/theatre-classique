@@ -6,9 +6,10 @@
 		<title>L'ÉCOLE DES MARIS, COMÉDIE</title>
 		<author born='1622' born_location='Paris' death='1673' death_location='Paris' academie=''>MOLIÈRE</author>
 	</titleStmt>
-		<publicationStmp>	
+		<publicationStmt>	
 			<p>publié par Paul FIEVRE, Mai 2006, revu septembre 2015</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Comédie</genre>
 			<inspiration>moeurs françaises</inspiration>
@@ -56,15 +57,15 @@
 			<p>J.B.P. MOLIERE.</p>
 		</div>
 		<castList><head>LES PERSONNAGES.</head>
-			<castItem><role id="SGANARELLE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>SGNARELLE</role>, frère d'Ariste.</castItem>
-			<castItem><role id="ARISTE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>ARISTE</role>, frère de Sganarelle.</castItem>
-			<castItem><role id="ISABELLE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='amoureux'>ISABELLE</role>, soeur de Léonor.</castItem>
-			<castItem><role id="LÉONOR" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>LÉONOR</role>, soeur d'Isabelle.</castItem>
-			<castItem><role id="LISETTE" civil='F' type="H" statut='suivante' age='A' stat_amour='néant'>LISETTE</role>, suivante de Léonor.</castItem>
-			<castItem><role id="VALÈRE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='amoureux'>VALÈRE</role>, amant d'Isabelle.</castItem>
-			<castItem><role id="ERGASTE" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>ERGASTE</role>, valet de Valère.</castItem>
-			<castItem><role id="LE COMMISSAIRE" civil='M' type="H" statut='commissaire' age='A' stat_amour='néant'>LE COMMISSAIRE</role>.</castItem>
-			<castItem><role id="LE NOTAIRE" civil='M' type="H" statut='notaire' age='A' stat_amour='néant'>LE NOTAIRE</role>.</castItem>
+			<castItem><role id="SGANARELLE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>SGNARELLE</role>, frère d'Ariste.</castItem>
+			<castItem><role id="ARISTE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>ARISTE</role>, frère de Sganarelle.</castItem>
+			<castItem><role id="ISABELLE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>ISABELLE</role>, soeur de Léonor.</castItem>
+			<castItem><role id="LÉONOR" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>LÉONOR</role>, soeur d'Isabelle.</castItem>
+			<castItem><role id="LISETTE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>LISETTE</role>, suivante de Léonor.</castItem>
+			<castItem><role id="VALÈRE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='amoureux'>VALÈRE</role>, amant d'Isabelle.</castItem>
+			<castItem><role id="ERGASTE" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>ERGASTE</role>, valet de Valère.</castItem>
+			<castItem><role id="LE COMMISSAIRE" sex="1" type="H" statut='commissaire' age='A' stat_amour='néant'>LE COMMISSAIRE</role>.</castItem>
+			<castItem><role id="LE NOTAIRE" sex="1" type="H" statut='notaire' age='A' stat_amour='néant'>LE NOTAIRE</role>.</castItem>
 		</castList>
 	<set location='Paris' country='France' periode='XVIIème' link=''>La scène est à Paris.</set>
 </front>
@@ -176,7 +177,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="2"><head>SCENE II. Léonor, Isabelle, Lisette, Ariste, Sganarelle.</head>
-<sp who="LEONOR"><speaker>LÉONOR, à Isabelle.</speaker>
+<sp who="LÉONOR"><speaker>LÉONOR, à Isabelle.</speaker>
 	<l id="75">Je me charge de tout, en cas que l'on vous gronde.</l>
 </sp>
 <sp who="LISETTE"><speaker>LISETTE, à Isabelle.</speaker>
@@ -185,7 +186,7 @@
 <sp who="ISABELLE"><speaker>ISABELLE.</speaker>
 	<l id="77" part="i">Il est ainsi bâti.</l>
 </sp>
-<sp who="LEONOR"><speaker>LÉONOR.</speaker>
+<sp who="LÉONOR"><speaker>LÉONOR.</speaker>
 	<l id="77" part="f">Je vous en plains, ma soeur.</l>
 </sp>
 <sp who="LISETTE"><speaker>LISETTE, à Léonor.</speaker>
@@ -205,7 +206,7 @@
 <sp who="SGANARELLE"><speaker>SGANARELLE, heurté par Lisette.</speaker>
 	<l id="84" part="f">Où donc allez-vous, qu'il ne vous en déplaise ?</l>
 </sp>
-<sp who="LEONOR"><speaker>LÉONOR.</speaker>
+<sp who="LÉONOR"><speaker>LÉONOR.</speaker>
 	<l id="85">Nous ne savons encore, et je pressais ma soeur</l>
 	<l id="86">De venir du beau temps respirer la douceur :</l>
 	<l id="87" part="i">Mais...</l>
@@ -290,14 +291,14 @@
 	<l id="129" part="f">Taisez-vous.</l>
 	<l id="130">Je vous apprendrai bien, s'il faut sortir sans nous.</l>
 </sp>
-<sp who="LEONOR"><speaker>LÉONOR.</speaker>
+<sp who="LÉONOR"><speaker>LÉONOR.</speaker>
 	<l id="131" part="i">Quoi donc, Monsieur...</l>
 </sp>
 <sp who="SGANARELLE"><speaker>SGANARELLE.</speaker>
 	<l id="131" part="f">Mon Dieu, Madame, sans langage,</l>
 	<l id="132">Je ne vous parle pas, car vous êtes trop sage.</l>
 </sp>
-<sp who="LEONOR"><speaker>LÉONOR.</speaker>
+<sp who="LÉONOR"><speaker>LÉONOR.</speaker>
 	<l id="133">Voyez-vous Isabelle avec nous à regret ?</l>
 </sp>
 <sp who="SGANARELLE"><speaker>SGANARELLE.</speaker>
@@ -305,7 +306,7 @@
 	<l id="135">Vos visites ici ne font que me déplaire,</l>
 	<l id="136">Et vous m'obligerez de ne nous en plus faire.</l>
 </sp>
-<sp who="LEONOR"><speaker>LÉONOR.</speaker>
+<sp who="LÉONOR"><speaker>LÉONOR.</speaker>
 	<l id="137">Voulez-vous que mon coeur vous parle net aussi ?</l>
 	<l id="138">J'ignore de quel oeil elle voit tout ceci,</l>
 	<l id="139">Mais je sais ce qu'en moi ferait la défiance,</l>
@@ -489,7 +490,7 @@
 <note type="L">Goguenard : Adj. Qui est plaisant, railleur  qui a coutume de dire des mots pour rire. Il est aussi substantif. [F]</note>
 	<l id="240">De voir un goguenard presque sexagénaire !</l>
 </sp>
-<sp who="LEONOR"><speaker>LÉONOR.</speaker>
+<sp who="LÉONOR"><speaker>LÉONOR.</speaker>
 	<l id="241">Du sort dont vous parlez, je le garantis moi,</l>
 	<l id="242">S'il faut que par l'hymen il reçoive ma foi,</l>
 	<l id="243">Il s'y peut assurer, mais sachez que mon âme</l>
@@ -2111,7 +2112,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="8"><head>SCÈNE VIII. Léonor, Lisette, Sganarelle, Ariste.</head>
-<sp who="LEONOR"><speaker>LÉONOR.</speaker>
+<sp who="LÉONOR"><speaker>LÉONOR.</speaker>
 	<l id="1040" part="f">Ô l'étrange martyre,</l>
 	<l id="1041">Que tous ces jeunes fous me paraissent fâcheux,</l>
 	<l id="1042">Je me suis dérobée au bal pour l'amour d'eux.</l>
@@ -2119,7 +2120,7 @@
 <sp who="LISETTE"><speaker>LISETTE.</speaker>
 	<l id="1043">Chacun d'eux près de vous veut se rendre agréable.</l>
 </sp>
-<sp who="LEONOR"><speaker>LÉONOR.</speaker>
+<sp who="LÉONOR"><speaker>LÉONOR.</speaker>
 	<l id="1044">Et moi, je n'ai rien vu de plus insupportable,</l>
 	<l id="1045">Et je préférerais le plus simple entretien,</l>
 	<l id="1046">À tous les contes bleus de ces discours de rien ;</l>
@@ -2147,7 +2148,7 @@
 	<l id="1063">Et c'est une action que n'a pas méritée</l>
 	<l id="1064">Cette tendre amitié que je vous ai portée.</l>
 </sp>
-<sp who="LEONOR"><speaker>LÉONOR.</speaker>
+<sp who="LÉONOR"><speaker>LÉONOR.</speaker>
 	<l id="1065">Je ne sais pas sur quoi vous tenez ce discours ;</l>
 	<l id="1066">Mais croyez que je suis de même que toujours ;</l>
 	<l id="1067">Que rien ne peut pour vous altérer mon estime,</l>
@@ -2163,7 +2164,7 @@
 	<l id="1073">Vous n'avez point conté vos amours aujourd'hui,</l>
 	<l id="1074">Et vous ne brûlez pas depuis un an pour lui.</l>
 </sp>
-<sp who="LEONOR"><speaker>LÉONOR.</speaker>
+<sp who="LÉONOR"><speaker>LÉONOR.</speaker>
 	<l id="1075">Qui vous a fait de moi de si belles peintures,</l>
 	<l id="1076">Et prend soin de forger de telles impostures.</l>
 </sp>
@@ -2197,7 +2198,7 @@
 	<l id="1095">Par ma foi, je lui sais bon gré de cette affaire,</l>
 	<l id="1096">Et ce prix de ses soins est un trait exemplaire.</l>
 </sp>
-<sp who="LEONOR"><speaker>LÉONOR.</speaker>
+<sp who="LÉONOR"><speaker>LÉONOR.</speaker>
 	<l id="1097">Je ne sais si ce trait se doit faire estimer,</l>
 	<l id="1098">Mais je sais bien qu'au moins je ne le puis blâmer.</l>
 </sp>

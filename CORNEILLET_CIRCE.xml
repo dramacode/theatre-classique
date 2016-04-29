@@ -7,9 +7,10 @@
 				<author born='1625' born_location='Rouen' death='1709' death_location='Les Andelys' academie='1685'>CORNEILLE, Thomas</author>
 				<date>1677</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Ernest FIEVRE décembre 2009</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>mythe grec</inspiration>
@@ -48,27 +49,27 @@
 			<premiere date='1677-02-12' location='Hôtel Guénégaud'>Représenté pour la première fois le 1er février 1677 au Théâtre Guénégaud.</premiere>
 		</performance>
 		<castList><head>ACTEURS DU PROLOGUE.</head>
-		<castItem><role id="MARS" civil='D'>MARS</role>.</castItem>
-		<castItem><role id="LA-FORTUNE" civil='P'>LA FORTUNE</role>.</castItem>
-		<castItem><role id="LE RENOMMEE" civil='P'>LA RENOMMÉE</role>.</castItem>
-		<castItem><role id="L-AMOUR" civil='P'>L'AMOUR</role>.</castItem>
-		<castItem><role id="LA-GLOIRE" civil='P'>LA GLOIRE</role>.</castItem>
+		<castItem><role id="MARS" sex="1" type="D" statut="dieu" age="A" stat_amour='néant'>MARS</role>.</castItem>
+		<castItem><role id="LA FORTUNE" sex="2" type="D" statut="allégorie" age="A" stat_amour='néant'>LA FORTUNE</role>.</castItem>
+		<castItem><role id="LE RENOMMEE" sex="2" type="D" statut="allégorie" age="A" stat_amour='néant'>LA RENOMMÉE</role>.</castItem>
+		<castItem><role id="L'AMOUR" sex="1" type="D" statut="dieu" age="A" stat_amour='néant'>L'AMOUR</role>.</castItem>
+		<castItem><role id="LA GLOIRE" sex="2" type="D" statut="allégorie" age="A" stat_amour='néant'>LA GLOIRE</role>.</castItem>
 		</castList>
 				<castList><head>ACTEURS DE LA TRAGÉDIE.</head>
-		<castItem><role id="JUPITER" civil='D'>JUPITER</role>.</castItem>
-		<castItem><role id="NEPTUNE" civil='D'>NEPTUNE</role>.</castItem>
-		<castItem><role id="LE-SOLEIL" civil='P'>LE SOLIEL</role>.</castItem>
-		<castItem><role id="VENUS" civil='D'>VÉNUS</role>.</castItem>
-		<castItem><role id="GLAUCUS" civil='D'>GLAUCUS</role>, amant de Silla, Dieu Marin.</castItem>
-		<castItem><role id="PALEMON" civil='D'>PALÉMON</role>, confident de Glaucus, Dieu Marin.</castItem>
-		<castItem><role id="CIRCE" civil='F'>CIRCÉ</role>, fille du Soleil.</castItem>
-		<castItem><role id="SILLA" civil='F'>SILLA</role>.</castItem>
-		<castItem><role id="DORINE" civil='N'>DORINE</role>, Nymphe de Circé. .</castItem>
-		<castItem><role id="FLORISE" civil='N'>FLORISE</role>, Nymphe de Circé..</castItem>
-		<castItem><role id="ASTERIE" civil='N'>ASTÉRIE</role>, Nymphe de Circé.</castItem>
-		<castItem><role id="CELIE" civil='N'>CÉLIE</role>, Nymphe de Silla.</castItem>
-		<castItem><role id="MELISSE" civil='N'>MÉLISSE</role>, Nymphe de Silla.</castItem>
-		<castItem><role id="CINQ SATYRES" civil='G'>CINQ SATYRES</role>.</castItem>
+		<castItem><role id="JUPITER" sex="1" type="D" statut="dieu" age="A" stat_amour='néant'>JUPITER</role>.</castItem>
+		<castItem><role id="NEPTUNE" sex="1" type="D" statut="dieu" age="A" stat_amour='néant'>NEPTUNE</role>.</castItem>
+		<castItem><role id="LE SOLEIL" sex="1" type="D" statut="dieu" age="A" stat_amour='néant'>LE SOLEIL</role>.</castItem>
+		<castItem><role id="VÉNUS" sex="2" type="D" statut="dieu" age="A" stat_amour='néant'>VÉNUS</role>.</castItem>
+		<castItem><role id="GLAUCUS" sex="1" type="D" statut="dieu" age="A" stat_amour='néant'>GLAUCUS</role>, amant de Silla, Dieu Marin.</castItem>
+		<castItem><role id="PALEMON" sex="1" type="D" statut="dieu" age="A" stat_amour='néant'>PALÉMON</role>, confident de Glaucus, Dieu Marin.</castItem>
+		<castItem><role id="CIRCE" sex="2" type="D" statut="magicien" age="A" stat_amour='néant'>CIRCÉ</role>, fille du Soleil.</castItem>
+		<castItem><role id="SILLA" sex="2" type="D" statut="néréide" age="A" stat_amour='néant'>SILLA</role>.</castItem>
+		<castItem><role id="DORINE" sex="2" type="D" statut="nymphe" age="A" stat_amour='néant'>DORINE</role>, Nymphe de Circé.</castItem>
+		<castItem><role id="FLORISE" sex="2" type="D" statut="nymphe" age="A" stat_amour='néant'>FLORISE</role>, Nymphe de Circé.</castItem>
+		<castItem><role id="ASTERIE" sex="2" type="D" statut="nymphe" age="A" stat_amour='néant'>ASTÉRIE</role>, Nymphe de Circé.</castItem>
+		<castItem><role id="CELIE" sex="2" type="D" statut="nymphe" age="A" stat_amour='néant'>CÉLIE</role>, Nymphe de Silla.</castItem>
+		<castItem><role id="MELISSE" sex="2" type="D" statut="nymphe" age="A" stat_amour='néant'>MÉLISSE</role>, Nymphe de Silla.</castItem>
+		<castItem><role id="CINQ SATYRES" sex="9" type="D" statut="satyre" age="A" stat_amour='néant'>CINQ SATYRES</role>.</castItem>
 		</castList>
 	<set location='Lieu mythologique' country='Pays mythologique' periode='Temps mythologiques' link=''></set>
 </front>

@@ -6,10 +6,11 @@
 				<title>LA BELLE ÉGYPTIENNE, COMÉDIE</title>
 				<author born='16??' born_location='' death='16??' death_location='' academie=''>SALLEBRAY, Monsieur de</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<editor>Texte établi par Mélanie Slaviero (Mémoire de maîtrise sous la direction de M. Georges Forestier U.F.R de Littérature française et comparée, 2013-2014.)</editor>
 				<authority>publié par Paul Fièvre, juillet 2014</authority>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragi-comédie</genre>
 				<inspiration>moeurs espagnoles</inspiration>
@@ -42,18 +43,18 @@
 			<premiere date="1641" location='Hôtel de Bourgogne'>Représenté pour la première fois en 1641 à lHôtel de Bourgogne.</premiere>
 		</performance>
 		<castList><head>PERSONNAGES.</head>
-			<castItem><role id="DON JEAN DE CARCAME" civil='M' type="H" statut='' age='A' stat_amour='Précieuse'>DON JEAN DE CARCAME</role>, dit ANDRES, amoureux de Précieuse.</castItem>
-			<castItem><role id="PRÉCIEUSE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>PRÉCIEUSE</role>, belle Égyptienne.</castItem>
-			<castItem><role id="LA VIEILLE" civil='F' type="H" statut='bourgeois' age='V' stat_amour='néant'>LA VIEILLE</role>, tante prétendue de Précieuse.</castItem>
-			<castItem><role id="LE POÈTE" civil='M' type="H" statut='poète' age='A' stat_amour='précieuse'>LE POÈTE</role>, amoureus de Précieuse.</castItem>
-			<castItem><role id="LE CAPITAINE" civil='M' type="H" statut='capitaine' age='A' stat_amour='néant'>LE CAPITAINE DES ÉGYPTIENS</role>.</castItem>
-			<castItem><role id="LA TROUPE" civil='G' type="H" statut='' age='A' stat_amour='néant'>LA TROUPE DES ÉGYPTIENS</role>.</castItem>
-			<castItem><role id="FERDINAND" civil='M' type="H" statut='sénéchal' age='A' stat_amour='néant'>FERDINAND</role>, sénéchal de Tolède.</castItem>
-			<castItem><role id="ISABELLE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>ISABELLE</role>, femme du Sénéchal.</castItem>
-			<castItem><role id="HIPOLITE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='Andres'>HIPOLITE</role>, amoureux d'Andrès.</castItem>
-			<castItem><role id="LE PRÉVÔT" civil='M' type="H" statut='prévôt' age='A' stat_amour='néant'>LE PRÉVÔT</role>.</castItem>
-			<castItem><role id="LES ARCHERS" civil='G' type="H" statut='archer' age='A' stat_amour='néant'>LES ARCHERS</role>.</castItem>
-			<castItem><role id="UN VALET" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>UN VALET</role>.</castItem>
+			<castItem><role id="DON JEAN DE CARCAME" sex="1" type="H" statut='' age='A' stat_amour='Précieuse'>DON JEAN DE CARCAME</role>, dit ANDRES, amoureux de Précieuse.</castItem>
+			<castItem><role id="PRÉCIEUSE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>PRÉCIEUSE</role>, belle Égyptienne.</castItem>
+			<castItem><role id="LA VIEILLE" sex="2" type="H" statut='bourgeois' age='V' stat_amour='néant'>LA VIEILLE</role>, tante prétendue de Précieuse.</castItem>
+			<castItem><role id="LE POÈTE" sex="1" type="H" statut='poète' age='A' stat_amour='précieuse'>LE POÈTE</role>, amoureus de Précieuse.</castItem>
+			<castItem><role id="LE CAPITAINE" sex="1" type="H" statut='capitaine' age='A' stat_amour='néant'>LE CAPITAINE DES ÉGYPTIENS</role>.</castItem>
+			<castItem><role id="LA TROUPE" sex="9" type="H" statut='' age='A' stat_amour='néant'>LA TROUPE DES ÉGYPTIENS</role>.</castItem>
+			<castItem><role id="FERDINAND" sex="1" type="H" statut='sénéchal' age='A' stat_amour='néant'>FERDINAND</role>, sénéchal de Tolède.</castItem>
+			<castItem><role id="ISABELLE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>ISABELLE</role>, femme du Sénéchal.</castItem>
+			<castItem><role id="HIPOLITE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='Andres'>HIPOLITE</role>, amoureux d'Andrès.</castItem>
+			<castItem><role id="LE PRÉVÔT" sex="1" type="H" statut='prévôt' age='A' stat_amour='néant'>LE PRÉVÔT</role>.</castItem>
+			<castItem><role id="LES ARCHERS" sex="9" type="H" statut='archer' age='A' stat_amour='néant'>LES ARCHERS</role>.</castItem>
+			<castItem><role id="UN VALET" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>UN VALET</role>.</castItem>
 		</castList>
 <set location='Tolède' country='Espagne' periode='XVIIème' link=''>La Scène est à Tolède, ville d'Espagne.</set>
 </front>

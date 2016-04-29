@@ -7,9 +7,10 @@
 				<author born='1694' born_location='Paris' death='1778' death_location='Paris' academie='1746'>VOLTAIRE</author>
 				<date>1733</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<authority>publié par Paul FIEVRE, Septembre 2008</authority>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie en musique</genre>
 				<inspiration>mythe égyptien</inspiration>
@@ -39,19 +40,19 @@
 				<premiere date='(non représentée)' location='(non représentée)'></premiere>
 			</performance>
 <castList><head>PERSONNAGES</head>
-	<castItem><role id='ZÉLIDE' civil='F' type="H" statut='prince' age='A' stat_amour='néant'>ZÉLIDE</role>, fille d'un roi de Memphis.</castItem>
-	<castItem><role id='TANIS' civil='M' type="H" statut='berger' age='A' stat_amour='néant'>TANIS</role>, berger.</castItem>
-	<castItem><role id='CLÉOFIS' civil='M' type="H" statut='berger' age='A' stat_amour='néant'>CLÉOFIS</role>, berger.</castItem>
-	<castItem><role id='PANOPE' civil='F' type="H" statut='confident' age='A' stat_amour='néant'>PANOPE</role>, confidente de Zélide.</castItem>
-	<castItem><role id='OTOES' civil='M' type="H" statut='soldat' age='A' stat_amour='néant'>OTOÈS</role>, guerrier de Memphis.</castItem>
-	<castItem><role id='PHANOR' civil='M' type="H" statut='soldat' age='A' stat_amour='néant'>PHANOR</role>, guerrier de Memphis.</castItem>
-	<castItem><role id='MAGES' civil='G' type="H" statut='mage' age='A' stat_amour='néant'>MAGES</role>.</castItem>
-	<castItem><role id='ISIS' civil='F' type="D" statut='dieu' age='A' stat_amour='néant'>ISIS</role>.</castItem>
-	<castItem><role id='OSIRIS' civil='M' type="D" statut='dieu' age='A' stat_amour='néant'>OSIRIS</role>.</castItem>
-	<castItem><role id='BERGERS' civil='G' type="H" statut='berger' age='A' stat_amour='néant'>BERGERS</role>.</castItem>
-	<castItem><role id='BERGÈRES' civil='G' type="H" statut='berger' age='A' stat_amour='néant'>BERGÈRES</role>.</castItem>
-	<castItem><role id='PEUPLE' civil='G' type="H" statut='peuple' age='A' stat_amour='néant'>PEUPLE</role>.</castItem>
-	<castItem><role id='CHOEUR' civil='G' type="H" statut='choeur' age='A' stat_amour='néant'>CHOEURS</role>.</castItem>
+	<castItem><role id='ZÉLIDE' sex="2" type="H" statut='prince' age='A' stat_amour='néant'>ZÉLIDE</role>, fille d'un roi de Memphis.</castItem>
+	<castItem><role id='TANIS' sex="1" type="H" statut='berger' age='A' stat_amour='néant'>TANIS</role>, berger.</castItem>
+	<castItem><role id='CLÉOFIS' sex="1" type="H" statut='berger' age='A' stat_amour='néant'>CLÉOFIS</role>, berger.</castItem>
+	<castItem><role id='PANOPE' sex="2" type="H" statut='confident' age='A' stat_amour='néant'>PANOPE</role>, confidente de Zélide.</castItem>
+	<castItem><role id='OTOES' sex="1" type="H" statut='soldat' age='A' stat_amour='néant'>OTOÈS</role>, guerrier de Memphis.</castItem>
+	<castItem><role id='PHANOR' sex="1" type="H" statut='soldat' age='A' stat_amour='néant'>PHANOR</role>, guerrier de Memphis.</castItem>
+	<castItem><role id='MAGES' sex="9" type="H" statut='mage' age='A' stat_amour='néant'>MAGES</role>.</castItem>
+	<castItem><role id='ISIS' sex="2" type="D" statut='dieu' age='A' stat_amour='néant'>ISIS</role>.</castItem>
+	<castItem><role id='OSIRIS' sex="1" type="D" statut='dieu' age='A' stat_amour='néant'>OSIRIS</role>.</castItem>
+	<castItem><role id='BERGERS' sex="9" type="H" statut='berger' age='A' stat_amour='néant'>BERGERS</role>.</castItem>
+	<castItem><role id='BERGÈRES' sex="9" type="H" statut='berger' age='A' stat_amour='néant'>BERGÈRES</role>.</castItem>
+	<castItem><role id='PEUPLE' sex="9" type="H" statut='peuple' age='A' stat_amour='néant'>PEUPLE</role>.</castItem>
+	<castItem><role id='CHOEUR' sex="9" type="H" statut='choeur' age='A' stat_amour='néant'>CHOEURS</role>.</castItem>
 </castList>
 <set location='Memphis' country='Egypte' periode='Temps mythologiques' link=''>[La scène se situe à Memphis en Epypte.]</set>
 </front>

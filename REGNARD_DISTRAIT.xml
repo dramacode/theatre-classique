@@ -7,9 +7,10 @@
 				<author born='1655' born_location='Paris' death='1709' death_location='château de grillon, Dourdan' academie=''>REGNARD, Jean-François</author>
 				<date>1697</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE</p><p>Mai 2006</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -43,15 +44,15 @@
 		
 	</performance>
 	<castList><head>ACTEURS</head>
-      	<castItem><role id="LEANDRE" civil="M" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>LÉANDRE</role>, distrait.</castItem>
-	      <castItem><role id="CLARICE" civil="F" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>CLARICE</role>, amante de Léandre.</castItem>
-      	<castItem><role id="MME_GROGNAC" civil="F" type="H" statut='bourgeois' age='A' stat_amour='néant'>Mme GROGNAC</role>.</castItem>
-      	<castItem><role id="ISABELLE" civil="F" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>ISABELLE</role>, fille de Mme Grognac.</castItem>
-      	<castItem><role id="LE_CHEVALIER" civil="M" type="H" statut='chevalier' age='A' stat_amour='amoureux'>LE CHEVALIER</role>, frère de Clarice et amant d'Isabelle.</castItem>
-      	<castItem><role id="VALERE" civil="M" type="H" statut='aristocrate' age='A' stat_amour='néant'>VALÈRE</role>, oncle de Clarice et du Chevalier.</castItem>
-      	<castItem><role id="LISETTE" civil="F" type="H" statut='servente' age='A' stat_amour='néant'>LISETTE</role>, servante d'Isabelle.</castItem>
-	<castItem><role id="CARLIN" civil="M" type="H" statut='valet' age='A' stat_amour='néant'>CARLIN</role>, valet de Léandre.</castItem>
-	      <castItem><role id="LAQUAIS" civil="M" type="H" statut='laquais' age='A' stat_amour='néant'>Un Laquais</role>, valet de Léandre.</castItem>
+      	<castItem><role id="LEANDRE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>LÉANDRE</role>, distrait.</castItem>
+	      <castItem><role id="CLARICE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>CLARICE</role>, amante de Léandre.</castItem>
+      	<castItem><role id="MME_GROGNAC" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>Mme GROGNAC</role>.</castItem>
+      	<castItem><role id="ISABELLE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>ISABELLE</role>, fille de Mme Grognac.</castItem>
+      	<castItem><role id="LE_CHEVALIER" sex="1" type="H" statut='chevalier' age='A' stat_amour='amoureux'>LE CHEVALIER</role>, frère de Clarice et amant d'Isabelle.</castItem>
+      	<castItem><role id="VALERE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>VALÈRE</role>, oncle de Clarice et du Chevalier.</castItem>
+      	<castItem><role id="LISETTE" sex="2" type="H" statut='servente' age='A' stat_amour='néant'>LISETTE</role>, servante d'Isabelle.</castItem>
+	<castItem><role id="CARLIN" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>CARLIN</role>, valet de Léandre.</castItem>
+	      <castItem><role id="LAQUAIS" sex="1" type="H" statut='laquais' age='A' stat_amour='néant'>Un Laquais</role>, valet de Léandre.</castItem>
 	</castList>
 	<set location='Paris' country='France' periode='XVIIème' link=''>La scène est à Paris, dans une maison commune.</set>
 </front>
@@ -2916,7 +2917,7 @@
 <sp who="CARLIN"><speaker>CARLIN</speaker>
 	<l id="1397">Soit. Quand d'une cruelle on veut toucher le coeur,</l>
 	<l id="1398">C'est un style éloquent qu'un billet au porteur,</l>
-<note type="">Fariboles : contes, choses vaines qui ne méritent aucune considération. Ce mot est bas. [F]</note>
+<note type="L">Fariboles : contes, choses vaines qui ne méritent aucune considération. Ce mot est bas. [F]</note>
 	<l id="1399">Qui vaut mieux qu'un discours rempli de fariboles.</l>
 	<l id="1400" part='i'>Si vous vous en serviez...</l>
 </sp>

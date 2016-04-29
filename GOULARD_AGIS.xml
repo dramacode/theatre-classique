@@ -6,9 +6,10 @@
 				<title>AGIS, PARODIE d'AGIS.</title>
 				<author born='1755' born_location='Montpellier' death='1817' death_location='(inconnu)' academie=''>GOULARD, Jean-François-Thomas</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE septembre 2015.</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Parodie</genre>
 				<inspiration>histoire grecque</inspiration>
@@ -45,20 +46,20 @@
 		</performance>
 
 <castList><head>ACTEURS.</head>
-		<castItem><role id="AGIS" civil='M' type="H" statut="roi" age="A" stat_amour='néant'>AGIS</role>, Roi de Sparte. M. Méniter.</castItem>
-		<castItem><role id="LÉONIDAS" civil='M' type="H" statut="aristocrate" age="A" stat_amour='néant'>LÉONIDAS</role>, beau-père d'Agis, son collègue au trône. M. Rosière.</castItem>
-		<castItem><role id="AGÉSISTRATE" civil='F' type="H" statut="aristocrate" age="A" stat_amour='néant'>AGÉSISTRATE</role>, mère d'Agis. Mme. Gontien</castItem>
-		<castItem><role id="CHÉLONIS" civil='F' type="H" statut="aristocrate" age="A" stat_amour='néant'>CHÉLONIS</role>, fille de Léonidas, femme d'Agis. Me. Julien.</castItem>
-		<castItem><role id="LYSANDER" civil='M' type="H" statut="aristocrate" age="A" stat_amour='néant'>LYSANDER</role>, ancien Ephore, ami d'Agis. M. Trial.</castItem>
-		<castItem><role id="EMPHASÉS" civil='M' type="H" statut="confident" age="A" stat_amour='néant'>EMPHASÉS</role>, Ephore ami du tyran. M. Chevalier.</castItem>
-		<castItem><role id="EPHORÉS" civil='M' type="H" statut="sénateur" age="A" stat_amour='néant'>EPHORÉS</role>.</castItem>
-		<castItem><role id="SÉNATEURS" civil='G' type="H" statut="sénateur" age="A" stat_amour='néant'>SÉNATEURS</role>.</castItem>
-		<castItem><role id="UN SPARTIATE" civil='M' type="H" statut="bourgeois" age="A" stat_amour='néant'>UN SPARTIATE</role>. M. Philippe.</castItem>
-		<castItem><role id="UNE JEUNE FILLE" civil='F' type="H" statut="bourgeois" age="A" stat_amour='néant'>UNE JEUNE FILLE</role>. Mlle. Desbrosses.</castItem>
-		<castItem><role id="UN GARDE" civil='M' type="H" statut="garde" age="A" stat_amour='néant'>UN GARDE</role>. M. Dufresnoi.</castItem>
-		<castItem><role id="UN DOMESTIQUE" civil='M' type="H" statut="domestique" age="A" stat_amour='néant'>UN DOMESTIQUE</role>.</castItem>
-		<castItem><role id="TROUPES DU PEUPLE" civil='G' type="H" statut="peuple" age="A" stat_amour='néant'>TROUPES DU PEUPLE</role>. </castItem>
-		<castItem><role id="SOLDATS" civil='G' type="H" statut="soldat" age="A" stat_amour='néant'>SOLDATS</role>.</castItem>
+		<castItem><role id="AGIS" sex="1" type="H" statut="roi" age="A" stat_amour='néant'>AGIS</role>, Roi de Sparte. M. Méniter.</castItem>
+		<castItem><role id="LÉONIDAS" sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>LÉONIDAS</role>, beau-père d'Agis, son collègue au trône. M. Rosière.</castItem>
+		<castItem><role id="AGÉSISTRATE" sex="2" type="H" statut="aristocrate" age="A" stat_amour='néant'>AGÉSISTRATE</role>, mère d'Agis. Mme. Gontien</castItem>
+		<castItem><role id="CHÉLONIS" sex="2" type="H" statut="aristocrate" age="A" stat_amour='néant'>CHÉLONIS</role>, fille de Léonidas, femme d'Agis. Me. Julien.</castItem>
+		<castItem><role id="LYSANDER" sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>LYSANDER</role>, ancien Ephore, ami d'Agis. M. Trial.</castItem>
+		<castItem><role id="EMPHASÉS" sex="1" type="H" statut="confident" age="A" stat_amour='néant'>EMPHASÉS</role>, Ephore ami du tyran. M. Chevalier.</castItem>
+		<castItem><role id="EPHORÉS" sex="1" type="H" statut="sénateur" age="A" stat_amour='néant'>EPHORÉS</role>.</castItem>
+		<castItem><role id="SÉNATEURS" sex="9" type="H" statut="sénateur" age="A" stat_amour='néant'>SÉNATEURS</role>.</castItem>
+		<castItem><role id="UN SPARTIATE" sex="1" type="H" statut="bourgeois" age="A" stat_amour='néant'>UN SPARTIATE</role>. M. Philippe.</castItem>
+		<castItem><role id="UNE JEUNE FILLE" sex="2" type="H" statut="bourgeois" age="A" stat_amour='néant'>UNE JEUNE FILLE</role>. Mlle. Desbrosses.</castItem>
+		<castItem><role id="UN GARDE" sex="1" type="H" statut="garde" age="A" stat_amour='néant'>UN GARDE</role>. M. Dufresnoi.</castItem>
+		<castItem><role id="UN DOMESTIQUE" sex="1" type="H" statut="domestique" age="A" stat_amour='néant'>UN DOMESTIQUE</role>.</castItem>
+		<castItem><role id="TROUPES DU PEUPLE" sex="9" type="H" statut="peuple" age="A" stat_amour='néant'>TROUPES DU PEUPLE</role>. </castItem>
+		<castItem><role id="SOLDATS" sex="9" type="H" statut="soldat" age="A" stat_amour='néant'>SOLDATS</role>.</castItem>
 </castList>
 <set location="Sparte" country='Grèce' periode='XVIIIème' link=''>La Scène est à Sparte, dans le Palais des Rois. À droite, on voit la statue de Lycurgue.</set>
 </front>

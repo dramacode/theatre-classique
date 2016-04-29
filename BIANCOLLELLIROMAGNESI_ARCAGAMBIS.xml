@@ -7,9 +7,10 @@
 			<author born='1680' born_location='Paris' death='1734' death_location='Paris' academie=''>BIANCOLELLI Pierre-François (1680-1734), RICCOBONI Antoine-François (1707-1772), RICCOBONI Luigi (1676-1753), ROMAGNESI Jean-Antoine (1690-1742)</author>
 			<date>1672</date>
 		</titleStmt>
-		<publicationStmp>	
+		<publicationStmt>	
 			<p>publié par Paul FIEVRE, octobre 2014</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -52,13 +53,13 @@
 			<premiere date='1726-08-10' location="Hôtel de Bourgogne">Représentée pour la première fois sur le théâtre de l'Hôtel de Bourgogne, par les Comédiens italiens ordinaires du Roi, le 10 août 1726.</premiere>
 		</performance>
 		<castList><head>ACTEURS DE LA TRAGEDIE</head>
-			<castItem><role id="ARCAGAMBIS" civil="M" type="H" statut='roi' age='A' stat_amour='néant'>ARCAGAMBIS</role>, Roi.</castItem>
-			<castItem><role id="THAMIRE" civil="F" type="H" statut='prince' age='A' stat_amour='néant'>THAMIRE</role>, Princesse destinée à Arcagambis.</castItem>
-			<castItem><role id="TETONICE" civil="F" type="H" statut='nourrice' age='A' stat_amour='néant'>TETONICE</role>, Nourrice de Thamire.</castItem>
-			<castItem><role id="GARGAME" civil="M" type="H" statut='prince' age='A' stat_amour='néant'>GARGAME</role>, Prince étranger reconnu fils d'Arcagambis.</castItem>
-			<castItem><role id="HIERBAS" civil="M" type="H" statut='confident' age='A' stat_amour='néant'>HIERBAS</role>, Confident de Gargame.</castItem>
-			<castItem><role id="NABOTAS" civil="M" type="H" statut='capitaine' age='A' stat_amour='néant'>NABOTAS</role>, Capitaine des Gardes d'Arcagambis.</castItem>
-			<castItem><role id="GARDES" civil="G" type="H" statut='garde' age='A' stat_amour='néant'>GARDES</role>.</castItem>
+			<castItem><role id="ARCAGAMBIS" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>ARCAGAMBIS</role>, Roi.</castItem>
+			<castItem><role id="THAMIRE" sex="2" type="H" statut='prince' age='J' stat_amour='néant'>THAMIRE</role>, Princesse destinée à Arcagambis.</castItem>
+			<castItem><role id="TETONICE" sex="2" type="H" statut='nourrice' age='A' stat_amour='néant'>TETONICE</role>, Nourrice de Thamire.</castItem>
+			<castItem><role id="GARGAME" sex="1" type="H" statut='prince' age='J' stat_amour='néant'>GARGAME</role>, Prince étranger reconnu fils d'Arcagambis.</castItem>
+			<castItem><role id="HIERBAS" sex="1" type="H" statut='confident' age='A' stat_amour='néant'>HIERBAS</role>, Confident de Gargame.</castItem>
+			<castItem><role id="NABOTAS" sex="1" type="H" statut='capitaine' age='A' stat_amour='néant'>NABOTAS</role>, Capitaine des Gardes d'Arcagambis.</castItem>
+			<castItem><role id="GARDES" sex="9" type="H" statut='garde' age='A' stat_amour='néant'>GARDES</role>.</castItem>
 		</castList>
 		<set location='(inconnue)' country='France' periode='XVIIème' link=''>La scène est dans le Palais du Roi.</set>
 		

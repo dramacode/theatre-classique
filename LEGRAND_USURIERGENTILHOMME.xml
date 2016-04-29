@@ -6,9 +6,10 @@
 				<title>L'USURIER GENTILHOMME, COMÉDIE.</title>
 				<author born='1673' born_location="Paris" death='1728' death_location='Paris' academie=''>LEGRAND, Marc-Antoine</author>
 							</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<authority>publié par Paul et Gwénola FIEVRE, avril 2014</authority>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -50,20 +51,20 @@
 			
 		</div>
 		<castList><head>LES PERSONNAGES</head>
-			<castItem><role id="FONTAUBIN" civil="M" type="H" statut="aristocrate" age="A" stat_amour='néant'>FONTAUBIN</role>, Gentilhomme, Père d'Henriette.</castItem>
-			<castItem><role id="HENRIETTE" civil="F" type="H" statut="aristocrate" age="A" stat_amour='néant'>HENRIETTE</role>, fille de Fontaubin.</castItem>
-			<castItem><role id="LICASTE" civil="M" type="H" statut="" age="A" stat_amour='Henriette'>LICASTE</role>, amant d'Henriette.</castItem>
-			<castItem><role id="MONSIEUR MANANVILLE" civil="M" type="H" statut="usurier" age="A" stat_amour='néant'>MONSIEUR MANANVILLE</role>, usurier.</castItem>
-			<castItem><role id="MADAME MANANVILLE" civil="F" type="H" statut="aristocrate" age="A" stat_amour='néant'>MADAME MANANVILLE</role>, sa femme.</castItem>
-			<castItem><role id="LE BARON de la GRUAUDIÈRE" civil="M" type="H" statut="baron" age="A" stat_amour='néant'>LE BARON de la GRUAUDIÈRE</role>, leur fils.</castItem>
-			<castItem><role id="COLAS" civil="M" type="H" statut="paysan" age="A" stat_amour='néant'>COLAS</role>, frère de Monsieur Mananville.</castItem>
-			<castItem><role id="FRONTIN" civil="M" type="H" statut="valet" age="A" stat_amour='néant'>FRONTIN</role>, valet de Licaste.</castItem>
-			<castItem><role id="LISETTE" civil="M" type="F" statut="suivante" age="A" stat_amour='néant'>LISETTE</role>, suivante d'Henriette.</castItem>
-			<castItem><role id="RAGOTIN" civil="M" type="H" statut="domestique" age="A" stat_amour='néant'>RAGOTIN</role>, domestique de Monsieur de Mananville.</castItem>
-			<castItem><role id="LA VERDURE" civil="M" type="H" statut="domestique" age="A" stat_amour='néant'>LA VERDURE</role>, domestique de Monsieur de Mananville.</castItem>
-			<castItem><role id="JASMIN" civil="M" type="H" statut="domestique" age="A" stat_amour='néant'>JASMIN</role>, domestique de Monsieur de Mananville.</castItem>
-			<castItem><role id="DOMMESTIQUES de MONSIEUR MANANVILLE" civil="G" type="H" statut="domestique" age="A" stat_amour='néant'>DOMMESTIQUES de MONSIEUR MANANVILLE</role>.</castItem>
-			<castItem><role id="MUSICIENS et DANSEURS" civil="G" type="H" statut="musicien" age="A" stat_amour='néant'>MUSICIENS et DANSEURS</role>.</castItem>
+			<castItem><role id="FONTAUBIN" sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>FONTAUBIN</role>, Gentilhomme, Père d'Henriette.</castItem>
+			<castItem><role id="HENRIETTE" sex="2" type="H" statut="aristocrate" age="J" stat_amour='néant'>HENRIETTE</role>, fille de Fontaubin.</castItem>
+			<castItem><role id="LICASTE" sex="1" type="H" statut="aristocrate" age="J" stat_amour='Henriette'>LICASTE</role>, amant d'Henriette.</castItem>
+			<castItem><role id="MONSIEUR MANANVILLE" sex="1" type="H" statut="usurier" age="A" stat_amour='néant'>MONSIEUR MANANVILLE</role>, usurier.</castItem>
+			<castItem><role id="MADAME MANANVILLE" sex="2" type="H" statut="bourgeois" age="A" stat_amour='néant'>MADAME MANANVILLE</role>, sa femme.</castItem>
+			<castItem><role id="LE BARON de la GRUAUDIÈRE" sex="1" type="H" statut="baron" age="A" stat_amour='néant'>LE BARON de la GRUAUDIÈRE</role>, leur fils.</castItem>
+			<castItem><role id="COLAS" sex="1" type="H" statut="paysan" age="A" stat_amour='néant'>COLAS</role>, frère de Monsieur Mananville.</castItem>
+			<castItem><role id="FRONTIN" sex="1" type="H" statut="valet" age="A" stat_amour='néant'>FRONTIN</role>, valet de Licaste.</castItem>
+			<castItem><role id="LISETTE" sex="1" type="F" statut="suivante" age="A" stat_amour='néant'>LISETTE</role>, suivante d'Henriette.</castItem>
+			<castItem><role id="RAGOTIN" sex="1" type="H" statut="domestique" age="A" stat_amour='néant'>RAGOTIN</role>, domestique de Monsieur de Mananville.</castItem>
+			<castItem><role id="LA VERDURE" sex="1" type="H" statut="domestique" age="A" stat_amour='néant'>LA VERDURE</role>, domestique de Monsieur de Mananville.</castItem>
+			<castItem><role id="JASMIN" sex="1" type="H" statut="domestique" age="A" stat_amour='néant'>JASMIN</role>, domestique de Monsieur de Mananville.</castItem>
+			<castItem><role id="DOMMESTIQUES de MONSIEUR MANANVILLE" sex="9" type="H" statut="domestique" age="A" stat_amour='néant'>DOMMESTIQUES de MONSIEUR MANANVILLE</role>.</castItem>
+			<castItem><role id="MUSICIENS et DANSEURS" sex="9" type="H" statut="musicien" age="A" stat_amour='néant'>MUSICIENS et DANSEURS</role>.</castItem>
 		</castList>
 		<set location='Paris' country='France' periode='XVIIème' link=''>La Scène est dans la maison de Monsieur Mananville, à Paris. </set>
 </front>

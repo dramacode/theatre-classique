@@ -7,9 +7,10 @@
 				<author born='1605' born_location='Paris' death='1658' death_location='Paris' academie=''>DU RYER, Pierre</author>
 				<date>1655</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Ernest FIEVRE</p><p>Août 2008</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragi-comédie</genre>
 				<inspiration>mythe grec</inspiration>
@@ -43,14 +44,14 @@
 		</performance>
 <castList>
 	<head>LES ACTEURS.</head>
-	<castItem><role id="LE-ROI" civil='M'>LE ROI</role>.</castItem>
-	<castItem><role id="CEPHISE" civil='F'>CÉPHISE</role>, fille du Roi.</castItem>
-	<castItem><role id="ALCIONE" civil='F'>ALCIONE</role>, soeur de Céphise.</castItem>
-	<castItem><role id="ASTERIE" civil='F'>ASTÉRIE</role>,  confidente de Céphise.</castItem>
-	<castItem><role id="ANAXANDRE" civil='M'>ANAXANDRE</role>, fils de Roi, prisonnier.</castItem>
-	<castItem><role id="PHEDIME" civil='M'>PHÉDIME</role>, confident d'Anaxandre.</castItem>
-	<castItem><role id="APHENOR" civil='M'>APHÉNOR</role>, prince.</castItem>
-	<castItem><role id="PRODOTE" civil='M'>PRODOTE</role>, confident d'Alphénor. </castItem>
+	<castItem><role id="LE-ROI" sex="1">LE ROI</role>.</castItem>
+	<castItem><role id="CEPHISE" sex="2">CÉPHISE</role>, fille du Roi.</castItem>
+	<castItem><role id="ALCIONE" sex="2">ALCIONE</role>, soeur de Céphise.</castItem>
+	<castItem><role id="ASTERIE" sex="2">ASTÉRIE</role>,  confidente de Céphise.</castItem>
+	<castItem><role id="ANAXANDRE" sex="1">ANAXANDRE</role>, fils de Roi, prisonnier.</castItem>
+	<castItem><role id="PHEDIME" sex="1">PHÉDIME</role>, confident d'Anaxandre.</castItem>
+	<castItem><role id="APHENOR" sex="1">APHÉNOR</role>, prince.</castItem>
+	<castItem><role id="PRODOTE" sex="1">PRODOTE</role>, confident d'Alphénor. </castItem>
 </castList>
 <set location='(non indiqué)' country='Grèce' periode='VIIème avant JC' link=''>[Le lieu de l'action n'est pas mentionné.]</set>
 </front>

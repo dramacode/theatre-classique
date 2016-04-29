@@ -7,9 +7,10 @@
 				<author born='1601' born_location='Bresse' death='1655' death_location='Paris' academie=''>MAGNON, Jean</author>
 				<date>1645</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<authority>publié par Paul FIEVRE, JUIN 2015</authority>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire romaine</inspiration>
@@ -52,17 +53,17 @@
 	<signature>MAGNON.</signature>
 </div>
 <castList><head></head>
-	<castItem><role id="TIBERE" civil='M' type="H" statut='empereur' age='A' stat_amour='néant'>TIBERE</role>, Empereur de Rome.</castItem>
-	<castItem><role id="DRUZE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>DRUZE</role>, fils de Germanicus, et neveu de Tibère.</castItem>
-	<castItem><role id="LIVIE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>LIVIE</role>, veuve de Druse, fils de Tibère.</castItem>
-	<castItem><role id="FULVIE" civil='F' type="H" statut='confident' age='A' stat_amour='néant'>FULVIE</role>, Confidente de Livie.</castItem>
-	<castItem><role id="SEJANUS" civil='M' type="H" statut='favori' age='A' stat_amour='néant'>SEJANUS</role>, Favori de Tibère.</castItem>
-	<castItem><role id="APICATA" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>APICATA</role>, Femme de Séjanus.</castItem>
-	<castItem><role id="VOLUZIE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>VOLUZIE</role>, Fille de Séjanus.</castItem>
-	<castItem><role id="TERENCE" civil='M' type="H" statut='chevalier' age='A' stat_amour='néant'>TERENCE</role>, Chevalier Romain, ami de Séjanus.</castItem>
-	<castItem><role id="MACRON" civil='M' type="H" statut='colonel' age='A' stat_amour='néant'>MACRON</role>, Colonel des Gardes de Tibère.</castItem>
-	<castItem><role id="REGULUS" civil='M' type="H" statut='lieutenant' age='A' stat_amour='néant'>REGULUS</role>, son Lieutenant.</castItem>
-	<castItem><role id="GARDES" civil='G' type="H" statut='garde' age='A' stat_amour='néant'>Troupe de Gardes</role>.</castItem>
+	<castItem><role id="TIBERE" sex="1" type="H" statut='empereur' age='A' stat_amour='néant'>TIBERE</role>, Empereur de Rome.</castItem>
+	<castItem><role id="DRUZE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>DRUZE</role>, fils de Germanicus, et neveu de Tibère.</castItem>
+	<castItem><role id="LIVIE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>LIVIE</role>, veuve de Druse, fils de Tibère.</castItem>
+	<castItem><role id="FULVIE" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>FULVIE</role>, Confidente de Livie.</castItem>
+	<castItem><role id="SEJANUS" sex="1" type="H" statut='favori' age='A' stat_amour='néant'>SEJANUS</role>, Favori de Tibère.</castItem>
+	<castItem><role id="APICATA" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>APICATA</role>, Femme de Séjanus.</castItem>
+	<castItem><role id="VOLUZIE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>VOLUZIE</role>, Fille de Séjanus.</castItem>
+	<castItem><role id="TERENCE" sex="1" type="H" statut='chevalier' age='A' stat_amour='néant'>TERENCE</role>, Chevalier Romain, ami de Séjanus.</castItem>
+	<castItem><role id="MACRON" sex="1" type="H" statut='colonel' age='A' stat_amour='néant'>MACRON</role>, Colonel des Gardes de Tibère.</castItem>
+	<castItem><role id="REGULUS" sex="1" type="H" statut='lieutenant' age='A' stat_amour='néant'>REGULUS</role>, son Lieutenant.</castItem>
+	<castItem><role id="GARDES" sex="9" type="H" statut='garde' age='A' stat_amour='néant'>Troupe de Gardes</role>.</castItem>
 	</castList>
 <set location='Rome' country='Italie' periode='Ième' link=''>La scène est dans Rome, dans le Palais de Tibère.</set>
 </front>

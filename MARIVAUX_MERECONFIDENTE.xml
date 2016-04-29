@@ -6,9 +6,10 @@
 			<title>LA MÈRE CONFIDENTE, COMÉDIE</title>
 			<author born='1688' born_location='Auvergne' death='1763' death_location='Paris' academie='1743'>MARIVAUX</author>
 		</titleStmt>
-		<publicationStmp>
+		<publicationStmt>
 			<p>publié par Paul FIEVRE, juillet 2011</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Comédie</genre>
 			<inspiration>moeurs françaises</inspiration>
@@ -38,12 +39,12 @@
 			<premiere date='1735-05-09' location='Théâtre de la rue des Fossés Saint-Germain'>représentée pour la première fois par les comédiens Italiens le 9 mai 1735.</premiere>
 		</performance>
 	<castList><head>ACTEURS</head>
-		<castItem><role id="MADAME-ARGANTE" civil='F'>MADAME ARGANTE</role>.</castItem>
-		<castItem><role id="ANGÉLIQUE" civil='F'>ANGÉLIQUE</role>, sa fille.</castItem>
-		<castItem><role id="LISETTE" civil='F'>LISETTE</role>, sa suivante.</castItem>
-		<castItem><role id="DORANTE" civil='M'>DORANTE</role>, amant d'Angélique.</castItem>
-		<castItem><role id="ERGASTE" civil='M'>ERGASTE</role>, son oncle.</castItem>
-		<castItem><role id="LUBIN" civil='M'>LUBIN</role>, paysan valet de Madame Argante.</castItem>
+		<castItem><role id="MADAME-ARGANTE" sex="2">MADAME ARGANTE</role>.</castItem>
+		<castItem><role id="ANGÉLIQUE" sex="2">ANGÉLIQUE</role>, sa fille.</castItem>
+		<castItem><role id="LISETTE" sex="2">LISETTE</role>, sa suivante.</castItem>
+		<castItem><role id="DORANTE" sex="1">DORANTE</role>, amant d'Angélique.</castItem>
+		<castItem><role id="ERGASTE" sex="1">ERGASTE</role>, son oncle.</castItem>
+		<castItem><role id="LUBIN" sex="1">LUBIN</role>, paysan valet de Madame Argante.</castItem>
     </castList>
 	<set location='France' country='France' periode='XVIIIème' link=''>La scène se passe à la campagne, chez Madame Argante.</set>
 </front>

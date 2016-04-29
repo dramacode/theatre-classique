@@ -6,9 +6,10 @@
 			<title>BÉLISAIRE, DRAME</title>
 			<author born='1???' born_location='' death='17??' death_location='' academie=''>OUZICOURT, M. d'</author>
 		</titleStmt>
-		<publicationStmp>
+		<publicationStmt>
 			<p>publié par Paul FIEVRE, juillet 2014</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Drame</genre>
 			<inspiration>histoire romaine</inspiration>
@@ -58,18 +59,18 @@
 			<p>(*) Stanislas I, Roi de Pologne, Duc de Lorraine.  </p>
 		</div>
 		<castList><head>PERSONNAGES</head>
-		<castItem><role id="JUSTINIEN" civil="M" type="H" statut='empereur' age='A' stat_amour='néant'>JUSTINIEN</role>, Empereur. </castItem>
-		<castItem><role id="BÉLISAIRE" civil="M" type="H" statut='aristocrate' age='A' stat_amour='néant'>BÉLISAIRE</role>.</castItem>
-		<castItem><role id="ANTONINE" civil="F" type="H" statut='aristocrate' age='A' stat_amour='néant'>ANTONINE</role>, Femme de Bélisaire. </castItem>
-		<castItem><role id="EUDOXE" civil="F" type="H" statut='aristocrate' age='A' stat_amour='néant'>EUDOXE</role>, Fille de Bélisaire.</castItem> 
-		<castItem><role id="TIBÈRE" civil="M" type="H" statut='aristocrate' age='A' stat_amour='néant'>TIBÈRE</role>, Amant d'Eudoxe.</castItem> 
-		<castItem><role id="BESSAS" civil="M" type="H" statut='officier' age='A' stat_amour='néant'>BESSAS</role>, Ancien Officier de l'Empire, exilé.</castItem>
-		<castItem><role id="LE ROI DES BULGARES" civil="M" type="H" statut='roi' age='A' stat_amour='néant'>LE ROI DES BULGARES</role>. </castItem>
-		<castItem><role id="UN SOLDAT" civil="M" type="H" statut='soldat' age='A' stat_amour='néant'>UN SOLDAT</role>.</castItem>
-		<castItem><role id="UN ENFANT" civil="M" type="H" statut='enfant' age='E' stat_amour='néant'>UN ENFANT</role>, qui conduit Bélisaire.</castItem>
-		<castItem><role id="PLUSIEURS ESCLAVES" civil="G" type="H" statut='esclave' age='A' stat_amour='néant'>PLUSIEURS ESCLAVES</role>. </castItem>
-		<castItem><role id="SUITE de L'EMPEREUR" civil="G" type="H" statut='suite' age='A' stat_amour='néant'>SUITE DE L'EMPEREUR</role>.</castItem> 
-		<castItem><role id="TROUPE de BULGARES" civil="G" type="H" statut='soldat' age='A' stat_amour='néant'>TROUPE de BULGARES</role>.  </castItem>
+		<castItem><role id="JUSTINIEN" sex="1" type="H" statut='empereur' age='A' stat_amour='néant'>JUSTINIEN</role>, Empereur. </castItem>
+		<castItem><role id="BÉLISAIRE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>BÉLISAIRE</role>.</castItem>
+		<castItem><role id="ANTONINE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>ANTONINE</role>, Femme de Bélisaire. </castItem>
+		<castItem><role id="EUDOXE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>EUDOXE</role>, Fille de Bélisaire.</castItem> 
+		<castItem><role id="TIBÈRE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>TIBÈRE</role>, Amant d'Eudoxe.</castItem> 
+		<castItem><role id="BESSAS" sex="1" type="H" statut='officier' age='A' stat_amour='néant'>BESSAS</role>, Ancien Officier de l'Empire, exilé.</castItem>
+		<castItem><role id="LE ROI DES BULGARES" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>LE ROI DES BULGARES</role>. </castItem>
+		<castItem><role id="UN SOLDAT" sex="1" type="H" statut='soldat' age='A' stat_amour='néant'>UN SOLDAT</role>.</castItem>
+		<castItem><role id="UN ENFANT" sex="1" type="H" statut='enfant' age='E' stat_amour='néant'>UN ENFANT</role>, qui conduit Bélisaire.</castItem>
+		<castItem><role id="PLUSIEURS ESCLAVES" sex="9" type="H" statut='esclave' age='A' stat_amour='néant'>PLUSIEURS ESCLAVES</role>. </castItem>
+		<castItem><role id="SUITE de L'EMPEREUR" sex="9" type="H" statut='suite' age='A' stat_amour='néant'>SUITE DE L'EMPEREUR</role>.</castItem> 
+		<castItem><role id="TROUPE de BULGARES" sex="9" type="H" statut='soldat' age='A' stat_amour='néant'>TROUPE de BULGARES</role>.  </castItem>
 	</castList>
 	<set location='Constantinople' country='Turquie' periode='VIème' link=''>La Scène est dans la cour d'un vieux Château en ruines, qu'on a donné pour asile à la famille de Bélisaire.</set>
 </front>

@@ -6,9 +6,10 @@
 				<title>GEORGE DANDIN ou LE MARI CONFONDU, COMÉDIE </title>
 			<author born='1622' born_location='Paris' death='1673' death_location='Paris' academie=''>Molière</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<publisher>publié par Paul FIEVRE juillet 2009, revu janvier 2016.</publisher>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -47,14 +48,14 @@
 			<premiere date='1668-07-18' location='Château de Versailles'>Représentée la première fois pour le roi le 18e de juillet 1668, à Versailles, et depuis donnée au public à Paris, sur le Théâtre du Palais-Royal, le 9e novembre de la même année 1668, par la Troupe du Roi.</premiere>
 		</performance>
 		<castList><head>PERSONNAGES.</head>
-			<castItem><role id="GEORGE-DANDIN" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>GEORGE DANDIN</role>, riche paysan, mari d'Angélique.</castItem> 
-			<castItem><role id="ANGELIQUE" civil='F' type="H" statut='aristocrate' age='J' stat_amour='néant'>ANGÉLIQUE</role>, femme de George Dandin et fille de Monsieur de Sotenville.</castItem> 
-			<castItem><role id="MONSIEUR DE SOTENVILLE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>MONSIEUR DE SOTENVILLE</role>, gentilhomme campagnard, père d'Angélique.</castItem> 
-			<castItem><role id="MADAME DE SOTENVILLE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>MADAME DE SOTENVILLE</role>, sa femme.</castItem> 
-			<castItem><role id="CLITANDRE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='amoureux'>CLITANDRE</role>, amoureux d'Angélique.</castItem> 
-			<castItem><role id="CLAUDINE" civil='F' type="H" statut='suivante' age='A' stat_amour='néant'>CLAUDINE</role>, suivante d'Angélique.</castItem> 
-			<castItem><role id="LUBIN" civil='M' type="H" statut='paysan' age='A' stat_amour='néant'>LUBIN</role>, paysan, servant de Clitandre.</castItem> 
-			<castItem><role id="COLIN" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>COLIN</role>, valet de George Dandin.</castItem> 
+			<castItem><role id="GEORGE-DANDIN" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>GEORGE DANDIN</role>, riche paysan, mari d'Angélique.</castItem> 
+			<castItem><role id="ANGELIQUE" sex="2" type="H" statut='aristocrate' age="J" stat_amour='néant'>ANGÉLIQUE</role>, femme de George Dandin et fille de Monsieur de Sotenville.</castItem> 
+			<castItem><role id="MONSIEUR DE SOTENVILLE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>MONSIEUR DE SOTENVILLE</role>, gentilhomme campagnard, père d'Angélique.</castItem> 
+			<castItem><role id="MADAME DE SOTENVILLE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>MADAME DE SOTENVILLE</role>, sa femme.</castItem> 
+			<castItem><role id="CLITANDRE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='amoureux'>CLITANDRE</role>, amoureux d'Angélique.</castItem> 
+			<castItem><role id="CLAUDINE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>CLAUDINE</role>, suivante d'Angélique.</castItem> 
+			<castItem><role id="LUBIN" sex="1" type="H" statut='paysan' age='A' stat_amour='néant'>LUBIN</role>, paysan, servant de Clitandre.</castItem> 
+			<castItem><role id="COLIN" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>COLIN</role>, valet de George Dandin.</castItem> 
 	</castList>
 <set location='Paris' country='France' periode='XVIIème' link=''>La scène est devant la maison de George Dandin.</set>
 </front>

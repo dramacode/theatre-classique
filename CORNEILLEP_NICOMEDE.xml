@@ -7,9 +7,10 @@
 				<author born='1606' born_location='Rouen' death='1684' death_location='Paris' academie='1647'>CORNEILLE, Pierre</author>
 				<date>1651</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE</p><p>Mai 2006, revu juillet 2014</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire romaine</inspiration>
@@ -55,14 +56,14 @@
 		<p>Mais il faut que l'événement justifie cette hardiesse, et dans une liberté de cette nature on demeure coupable à moins que d'être fort heureux.</p>
 		</div>
 	<castList><head>Acteurs </head>
-	      <castItem><role id="PRUSIAS" civil='M' type="H" statut='roi' age='A' stat_amour='néant'>PRUSIAS</role>, roi de Bithynie.</castItem>
-		<castItem><role id="FLAMINIUS" civil='M' type="H" statut='ambassadeur' age='A' stat_amour='néant'>FLAMINIUS</role>, ambassadeur de Rome.</castItem>
-		<castItem><role id="ARSINOÉ" civil='F' type="H" statut='roi' age='A' stat_amour='néant'>ARSINOÉ</role>, seconde femme de Prusias.</castItem>
-		<castItem><role id="LAODICE" civil='F' type="H" statut='roi' age='A' stat_amour='néant'>LAODICE</role>, reine d'Arménie.</castItem>
-		<castItem><role id="NICOMÈDE" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>NICOMÈDE</role>, fils aîné de Prusias, sorti du premier lit.</castItem>
-		<castItem><role id="ATTALE" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>ATTALE</role>, fils de Prusias et d'Arsinoé.</castItem>
-		<castItem><role id="ARASPE" civil='M' type="H" statut='capitaine' age='A' stat_amour='néant'>ARASPE</role>, capitaine des gardes de Prusias.</castItem>
-		<castItem><role id="CLÉONE" civil='F' type="H" statut='confident' age='A' stat_amour='néant'>CLÉONE</role>, confidente d'Arsinoé.</castItem>
+	      <castItem><role id="PRUSIAS" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>PRUSIAS</role>, roi de Bithynie.</castItem>
+		<castItem><role id="FLAMINIUS" sex="1" type="H" statut='ambassadeur' age='A' stat_amour='néant'>FLAMINIUS</role>, ambassadeur de Rome.</castItem>
+		<castItem><role id="ARSINOÉ" sex="2" type="H" statut='roi' age='A' stat_amour='néant'>ARSINOÉ</role>, seconde femme de Prusias.</castItem>
+		<castItem><role id="LAODICE" sex="2" type="H" statut='roi' age='A' stat_amour='néant'>LAODICE</role>, reine d'Arménie.</castItem>
+		<castItem><role id="NICOMÈDE" sex="1" type="H" statut='prince' age='J' stat_amour='néant'>NICOMÈDE</role>, fils aîné de Prusias, sorti du premier lit.</castItem>
+		<castItem><role id="ATTALE" sex="1" type="H" statut='prince' age='J' stat_amour='néant'>ATTALE</role>, fils de Prusias et d'Arsinoé.</castItem>
+		<castItem><role id="ARASPE" sex="1" type="H" statut='capitaine' age='A' stat_amour='néant'>ARASPE</role>, capitaine des gardes de Prusias.</castItem>
+		<castItem><role id="CLÉONE" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>CLÉONE</role>, confidente d'Arsinoé.</castItem>
 	</castList>
 	<set location='Nicomédie' country='Turquie' periode='Ier avant JC' link=''>Le scène est à Nicomédie.</set>
 	</front>

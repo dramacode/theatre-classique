@@ -6,9 +6,10 @@
 				<title>DON JUAN ou LE FESTIN DE PIERRE, COMÉDIE </title>
 			<author born='1622' born_location='Paris' death='1673' death_location='Paris' academie=''>MOLIÈRE</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, mai 2015.</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs italiennes</inspiration>
@@ -39,34 +40,34 @@
 			<p>Registré sur le livre de la communauté des libraire et imprimeurs de Paris, le vingt sixième août 1682. Suivant l'arrêt du Parlement du 8 avril 1653 et celui du Conseil privé du Roi, du vingt-septième février 1665.</p>
 			<p>Ledit THIERRY a associé à son privilège, Claude Barbin, et Pierre Trabouillet.</p></privilege>
 			<acheveImprime id="1682-10-22">Achevé d'imprimer pour la première fois, le dernier jour d'octobre mille six cent quatre-vingt-deux.</acheveImprime>
-			<printer>À PARIS, Chez DENYS THIERRY, rue Saint-Jacques, à l'enseigne de la Ville de Paris. CLAUDE BARBIN, au Palais, sur le second Perron de la Sainte-Chapelle et PIERRE TRABOUILLE, au Palais, dans la Galerie des Prisonniers, à l'image Saint-Hubert et à la Fortune, proche la Greffe des Eaux et Forêts.</printer>
+			<printer>À PARIS, Chez DENIS THIERRY, rue Saint-Jacques, à l'enseigne de la Ville de Paris. CLAUDE BARBIN, au Palais, sur le second Perron de la Sainte-Chapelle et PIERRE TRABOUILLE, au Palais, dans la Galerie des Prisonniers, à l'image Saint-Hubert et à la Fortune, proche la Greffe des Eaux et Forêts.</printer>
 		</docImprint>
 		<performance>
 			<premiere date='1665-02-15' location='Théâtre du Palais-Royal'>Représentée pour la première fois le 15 février 1665 sur le Théâtre de la salle du Palais-Royal par la Troupe de Monsieur, frère unique du Roi.</premiere>
 		</performance>
 	<castList><head>PERSONNAGES</head>
-	<castItem><role id="DOM_JUAN" civil='M' type="H" statut="aristocrate" age="V" stat_amour='néant'>DON JUAN</role>, fils de Don Louis.</castItem> 
-	<castItem><role id="SGANARELLE" civil='M' type="H" statut="valet" age="V" stat_amour='néant'>SGANARELLE</role>, valet de Don Juan.</castItem> 
-	<castItem><role id="ELVIRE" civil='F' statut="bourgeois" age="V" stat_amour='amoureux'>ELVIRE</role>, femme de Don Juan.</castItem> 
-	<castItem><role id="GUSMAN" civil='M' type="H" statut="écuyer" age="V" stat_amour='néant'>GUSMAN</role>, écuyer d'Elvire.</castItem> 
-	<castItem><role id="DOM_CARLOS" civil='M' type="H" statut="aristocrate" age="V" stat_amour='néant'>DON CARLOS</role>, frère d'Elvire.</castItem> 
-	<castItem><role id="DOM_ALFONSE" civil='M' type="H" statut="aristocrate" age="V" stat_amour='néant'>DON ALFONSE</role>, frère d'Elvire</castItem> 
-	<castItem><role id="DOM_LOUIS" civil='M' type="H" statut="aristocrate" age="V" stat_amour='néant'>DON LOUIS</role>, père de Don Juan.</castItem> 
-	<castItem><role id="FRANCISQUE" civil='M' type="H" statut="pauvre" age="V" stat_amour='néant'>FRANCISQUE</role>, pauvre.</castItem> 
-	<castItem><role id="CHARLOTTE" civil='F' type="H" statut="paysan" age="V" stat_amour='néant'>CHARLOTTE</role>, paysanne.</castItem> 
-	<castItem><role id="MATHURINE" civil='F' type="H" statut="paysan" age="V" stat_amour='néant'>MATHURINE</role>, paysanne.</castItem> 
-	<castItem><role id="PIERROT" civil='M' type="H" statut="paysan" age="V" stat_amour='néant'>PIERROT</role>, paysan.</castItem> 
-	<castItem><role id="LA STATUE DU COMMANDEUR" civil='M' type="H" statut="aristocrate" age="V" stat_amour='néant'>La STATUE DU COMMANDEUR</role>.</castItem> 
-	<castItem><role id="LA VIOLETTE" civil='M' type="H" statut="laquais" age="V" stat_amour='néant'>LA VIOLETTE</role>, laquais de Don Juan.</castItem> 
-	<castItem><role id="RAGOTIN" civil='M' type="H" statut="laquais" age="V" stat_amour='néant'>RAGOTIN</role>, laquais de Don Juan.</castItem> 
-	<castItem><role id="MONSIEUR DIMANCHE" civil='M' type="H" statut="commerçant" age="V" stat_amour='néant'>MONSIEUR DIMANCHE</role>, marchand.</castItem> 
-	<castItem><role id="LA RAMÉE" civil='M' type="H" statut="spadassin" age="V" stat_amour='néant'>LA RAMÉE</role>, spadassin.</castItem> 
-	<castItem><role id="SUITE DE DONJUAN" civil='G' type="H" statut="suite" age="V" stat_amour='néant'>SUITE DE DON JUAN</role>.</castItem> 
-	<castItem><role id="SUITE DE DOM CARLOS ET DOM ALONSE" civil='G' type="H" statut="suite" age="V" stat_amour='néant'>SUITE DE DON CARLOS ET DE DON ALONSE</role>, frères.</castItem> 
-	<castItem><role id="SPECTRE" civil='M' type="A" statut="fantôme" age="V" stat_amour='néant'>UN SPECTRE</role>.</castItem> 
+	<castItem><role id="DOM_JUAN" sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>DON JUAN</role>, fils de Don Louis.</castItem> 
+	<castItem><role id="SGANARELLE" sex="1" type="H" statut="valet" age="A" stat_amour='néant'>SGANARELLE</role>, valet de Don Juan.</castItem> 
+	<castItem><role id="ELVIRE" sex="2" statut="bourgeois" age="A" stat_amour='amoureux'>ELVIRE</role>, femme de Don Juan.</castItem> 
+	<castItem><role id="GUSMAN" sex="1" type="H" statut="écuyer" age="A" stat_amour='néant'>GUSMAN</role>, écuyer d'Elvire.</castItem> 
+	<castItem><role id="DOM CARLOS" sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>DON CARLOS</role>, frère d'Elvire.</castItem> 
+	<castItem><role id="DOM ALFONSE" sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>DON ALFONSE</role>, frère d'Elvire</castItem> 
+	<castItem><role id="DOM LOUIS" sex="1" type="H" statut="aristocrate" age="V" stat_amour='néant'>DON LOUIS</role>, père de Don Juan.</castItem> 
+	<castItem><role id="FRANCISQUE" sex="1" type="H" statut="pauvre" age="A" stat_amour='néant'>FRANCISQUE</role>, pauvre.</castItem> 
+	<castItem><role id="CHARLOTTE" sex="2" type="H" statut="paysan" age="A" stat_amour='néant'>CHARLOTTE</role>, paysanne.</castItem> 
+	<castItem><role id="MATHURINE" sex="2" type="H" statut="paysan" age="A" stat_amour='néant'>MATHURINE</role>, paysanne.</castItem> 
+	<castItem><role id="PIERROT" sex="1" type="H" statut="paysan" age="A" stat_amour='néant'>PIERROT</role>, paysan.</castItem> 
+	<castItem><role id="LA STATUE DU COMMANDEUR" sex="1" type="O" statut="aristocrate" age="M" stat_amour='néant'>LA STATUE DU COMMANDEUR</role>.</castItem> 
+	<castItem><role id="LA VIOLETTE" sex="1" type="H" statut="laquais" age="V" stat_amour='néant'>LA VIOLETTE</role>, laquais de Don Juan.</castItem> 
+	<castItem><role id="RAGOTIN" sex="1" type="H" statut="laquais" age="A" stat_amour='néant'>RAGOTIN</role>, laquais de Don Juan.</castItem> 
+	<castItem><role id="MONSIEUR DIMANCHE" sex="1" type="H" statut="commerçant" age="A" stat_amour='néant'>MONSIEUR DIMANCHE</role>, marchand.</castItem> 
+	<castItem><role id="LA RAMÉE" sex="1" type="H" statut="spadassin" age="A" stat_amour='néant'>LA RAMÉE</role>, spadassin.</castItem> 
+	<castItem><role id="SUITE DE DONJUAN" sex="9" type="H" statut="suite" age="A" stat_amour='néant'>SUITE DE DON JUAN</role>.</castItem> 
+	<castItem><role id="SUITE DE DOM CARLOS ET DOM ALONSE" sex="9" type="H" statut="suite" age="A" stat_amour='néant'>SUITE DE DON CARLOS ET DE DON ALONSE</role>, frères.</castItem> 
+	<castItem><role id="SPECTRE" sex="1" type="O" statut="fantôme" age="M" stat_amour='néant'>UN SPECTRE</role>.</castItem> 
 	</castList>
 <set location='Sicile' country='Italie' periode='XVIIème' link=''>La scène est en Sicile.</set>
-<note>Le texte est extrait de l'exemplaire BnF Y5517. "LES OEUVRES POSTHUMES DE MONSIUER DE MOLIÈRE. Tome VII. Imprimées pour le première fois en 1682. Enrichies de Figures en Taille douce." , pp. 128-223.</note>
+<note>Le texte est extrait de l'exemplaire BnF Yf 3161. "LES OEUVRES POSTHUMES DE MONSIEUR DE MOLIÈRE. Tome VII. Imprimées pour le première fois en 1682. Enrichies de Figures en Taille douce.", pp. 128-223.</note>
 </front>
 <body>
 <div1 type="act" n='1'><head>ACTE I</head>
@@ -2734,7 +2735,7 @@
 	<s id='1'>Allons, vite un flambeau pour conduire Monsieur Dimanche et que quatre ou cinq de mes gens prennent des mousquetons pour l'escorter. </s>
 </p>
 </sp>
-<sp who='MONSIEUR-DIMANCHE'><speaker>Monsieur DIMANCHE, se levant de même</speaker>
+<sp who='MONSIEUR DIMANCHE'><speaker>Monsieur DIMANCHE, se levant de même</speaker>
 <p id='50'>
 	<s id='1'>Monsieur, il n'est pas nécessaire, et je m'en irai bien tout seul. </s>
 	<s id='2'>Mais... </s>

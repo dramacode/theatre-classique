@@ -6,10 +6,11 @@
 				<title>JOCRISSE CHANGÉ DE CONDITION, COMÉDIE-FOLIE</title>
 				<author born='1742' born_location='Paris' death='1812' death_location='Paris' academie=''>ARCHAMBAULT, Louis-François</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<editor>Texte établi  partir de la transcription par Dr Roger Peters, septembre 2009.</editor>
 				<publisher>publié par Paul FIEVRE, janvier 2014</publisher>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -41,13 +42,13 @@
 			<premiere date='1794-01-04' location='Théâtre des Variétés amusantes'>Représenté pour la première fois le 4 janvier 1794 au Théâtre des Variétés-Amusantes à Paris.</premiere>
 		</performance>
 		<castList><head>PERSONNAGES.</head>
-			<castItem><role id='MONSIEUR DUPONT' civil='M' type="H" statut="bourgeois" age="A" stat_amour='néant'>MONSIEUR DUPONT</role>.</castItem>
-			<castItem><role id='MADAME DUPONT' civil='F' type="H" statut="bourgeois" age="A" stat_amour='néant'>MADAME DUPONT</role>.</castItem>
-			<castItem><role id='MONSIEUR DORVAL' civil='M' type="H" statut="peintre" age="A" stat_amour='néant'>MONSIEUR DORVAL</role>, peintre, ami de Dupont.</castItem>
-			<castItem><role id='URSULE' civil='M' type="H" statut="servante" age="A" stat_amour='néant'>URSULE</role>, servante.</castItem>
-			<castItem><role id='JOCRISSE' civil='M' type="H" statut="valet" age="A" stat_amour='néant'>JOCRISSE</role>, valet de Dupont.</castItem>
-			<castItem><role id='GLAUDE' civil='M' type="H" statut="paysan" age="A" stat_amour='néant'>GLAUDE</role>, paysan.</castItem>
-			<castItem><role id='UN COLPORTEUR' civil='M' type="H" statut="colporteur" age="A" stat_amour='néant'>UN COLPORTEUR de la Loterie</role>.</castItem>
+			<castItem><role id='MONSIEUR DUPONT' sex="1" type="H" statut="bourgeois" age="A" stat_amour='néant'>MONSIEUR DUPONT</role>.</castItem>
+			<castItem><role id='MADAME DUPONT' sex="2" type="H" statut="bourgeois" age="A" stat_amour='néant'>MADAME DUPONT</role>.</castItem>
+			<castItem><role id='MONSIEUR DORVAL' sex="1" type="H" statut="peintre" age="A" stat_amour='néant'>MONSIEUR DORVAL</role>, peintre, ami de Dupont.</castItem>
+			<castItem><role id='URSULE' sex="1" type="H" statut="servante" age="A" stat_amour='néant'>URSULE</role>, servante.</castItem>
+			<castItem><role id='JOCRISSE' sex="1" type="H" statut="valet" age="A" stat_amour='néant'>JOCRISSE</role>, valet de Dupont.</castItem>
+			<castItem><role id='GLAUDE' sex="1" type="H" statut="paysan" age="A" stat_amour='néant'>GLAUDE</role>, paysan.</castItem>
+			<castItem><role id='UN COLPORTEUR' sex="1" type="H" statut="colporteur" age="A" stat_amour='néant'>UN COLPORTEUR de la Loterie</role>.</castItem>
 		</castList>
 		<set location='Paris' country='France' periode='XVIIIème' link=''>La scène est à Paris, dans la maison de Dupont.</set>
 	</front>

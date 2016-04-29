@@ -7,9 +7,10 @@
 				<author born='1706' born_location='Paris' death='1781' death_location='Paris' academie='1761'>SAURIN, Jean de</author>
 				<date>1760</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, décembre 2010</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire romaine</inspiration>
@@ -49,17 +50,17 @@
 		</div>
 <castList>
 <head>PERSONNAGES.</head>
-	<castItem><role id="SPARTACUS" civil="M" type="H" statut='esclave' age='A' stat_amour='néant'>SPARTACUS</role></castItem>
-	<castItem><role id="CHASSUS" civil="M" type="H" statut='consul' age='A' stat_amour='néant'>CRASSUS</role>,consul.</castItem>
-	<castItem><role id="ÉMILIE" civil="F" type="H" statut='consul' age='A' stat_amour='néant'>ÉMILIE</role>, fille du consul.</castItem>
-	<castItem><role id="MESSALA" civil="M" type="H" statut='aristocrate' age='A' stat_amour='néant'>MESSALA</role>, envoyé du consul.</castItem>
-	<castItem><role id="NORICUS" civil="M" type="H" statut='général' age='A' stat_amour='néant'>NORICUS</role>, chef d'un corps de Gaulois.</castItem>
-	<castItem><role id="ALBIN" civil="M" type="H" statut='officier' age='A' stat_amour='néant'>ALBIN</role>, officier de Spartacus.</castItem>
-	<castItem><role id="SUNNON" civil="M" type="H" statut='confident' age='A' stat_amour='néant'>SUNNON</role>, confident de Noricus.</castItem>
-	<castItem><role id="SABINE" civil="M" type="H" statut='confident' age='A' stat_amour='néant'>SABINE</role>, confidente d'Émilie.</castItem>
-	<castItem><role id="UN TRIBUN de SPARTACUS" civil="M" type="H" statut='tribu' age='A' stat_amour='néant'>UN TRIBUN de SPARTACUS</role>.</castItem>
-	<castItem><role id="UN TRIBUN de CRASSUS" civil="M" type="H" statut='tribun' age='A' stat_amour='néant'>UN TRIBUN de CRASSUS</role>.</castItem>
-	<castItem><role id="GARDES" civil="G" type="H" statut='garde' age='A' stat_amour='néant'>GARDES</role>.</castItem>
+	<castItem><role id="SPARTACUS" sex="1" type="H" statut='esclave' age='A' stat_amour='néant'>SPARTACUS</role></castItem>
+	<castItem><role id="CHASSUS" sex="1" type="H" statut='consul' age='A' stat_amour='néant'>CRASSUS</role>,consul.</castItem>
+	<castItem><role id="ÉMILIE" sex="2" type="H" statut='consul' age='A' stat_amour='néant'>ÉMILIE</role>, fille du consul.</castItem>
+	<castItem><role id="MESSALA" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>MESSALA</role>, envoyé du consul.</castItem>
+	<castItem><role id="NORICUS" sex="1" type="H" statut='général' age='A' stat_amour='néant'>NORICUS</role>, chef d'un corps de Gaulois.</castItem>
+	<castItem><role id="ALBIN" sex="1" type="H" statut='officier' age='A' stat_amour='néant'>ALBIN</role>, officier de Spartacus.</castItem>
+	<castItem><role id="SUNNON" sex="1" type="H" statut='confident' age='A' stat_amour='néant'>SUNNON</role>, confident de Noricus.</castItem>
+	<castItem><role id="SABINE" sex="1" type="H" statut='confident' age='A' stat_amour='néant'>SABINE</role>, confidente d'Émilie.</castItem>
+	<castItem><role id="UN TRIBUN de SPARTACUS" sex="1" type="H" statut='tribu' age='A' stat_amour='néant'>UN TRIBUN de SPARTACUS</role>.</castItem>
+	<castItem><role id="UN TRIBUN de CRASSUS" sex="1" type="H" statut='tribun' age='A' stat_amour='néant'>UN TRIBUN de CRASSUS</role>.</castItem>
+	<castItem><role id="GARDES" sex="9" type="H" statut='garde' age='A' stat_amour='néant'>GARDES</role>.</castItem>
 </castList>
 <set location='Tarente' country='Italie' periode='Ier avant JC' link=''>La Scène est dans le camp de Spartacus.</set>
 </front>

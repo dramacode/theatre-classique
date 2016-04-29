@@ -7,9 +7,10 @@
 				<author born='1606' born_location='Rouen' death='1684' death_location='Paris' academie='1647'>CORNEILLE, Pierre</author>
 				<date>1645</date>
 			</titleStmt>
-			<publicationStmp>	
-				<p>publié par Paul FIEVRE</p><p>Mai 2006</p>
-			</publicationStmp>
+			<publicationStmt>	
+				<p>publié par Paul FIEVRE</p><p>Mai 2006, mai 2016</p>
+				<idno>CORNEILLEP_THEODORE</idno>
+			</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire chrétienne</inspiration>
@@ -18,9 +19,9 @@
 				<periode>1641-1650</periode>
 				<taille>1750-2000</taille>
 				<permalien>http://gallica.bnf.fr/ark:/12148/bpt6k70395r</permalien>
-				<sources>
-					<source id="1"><author/><text/></source>
-				</sources>	
+				<liens>
+					<lien type=""></lien>
+				</liens>	
 
 			</SourceDesc>
 		</fileDesc>
@@ -33,33 +34,37 @@
 			<titlePart type="sub">TRAGÉDIE CHRÉTIENNE</titlePart>
 		</docTitle> 
 		<docDate value="1646">1646</docDate>
-		<docAuthor id="CORNEILLE, Pierre" bio='corneillep'>Pierre Corneille</docAuthor>
+		<docAuthor id="CORNEILLE, Pierre" bio='corneillep'></docAuthor>
 		<docImprint>
-			<privilege id="164*-**-**"></privilege>
-			<acheveImprime id="164*-**-**"></acheveImprime>
-			<printer id=""/>
+			<privilege id="1646-04-17"><head>Extrait du privilège du roi</head>
+				<p>Par grâce et privilège du Roi, donnné à Paris le 17 avril 1646. Signé par le Roi en son conseil, DENIS. Il est permis à Toussaint Quinet Marchand libraire à Paris, d'imprimer et faire imprimer, vendre et distribuer une pièce de théâtre intitulée Théodore, vierge et Martyre, tragédie chrétienne, de Mr. Corneille, et ce durant le temps et espace de cinq ans, à compter du jour qu'elle sera achevée d'imprimer : Et défenses sont faites à tous imprimeurs, libraires et autres, de contrefaire ladite pièce, ni même en vendre ou exposer en vente, sans le consentement dudit Quinet, ou de ceux qui auront droit de lui, à peine de trois mille livres d'amende, et de tous dépens, dommages et intérêts, ainsi qu'il est plus amplement porté pour lesdites lettres, qui sont en vertu du présent extrait tenues pour dument signifiées, à ce qu'aucun n'en prétende cause d'ignorance.</p>
+				<p>Et le dit Quinet a associé avec lui Antoine de Sommaville et Augustin courbé, aussi Marchands libraires à Paris, pour jouir par eux dudit privilège, suivant l'accord fait entre eux.</p>
+				<p>Les exemplaires ont été fournis.</p>
+			</privilege>
+			<acheveImprime id="1646-10-30">Achevé d'imprimer pour la première fois le dernier d'octobre 1646.</acheveImprime>
+			<printer id="QUINET">Imprimé à Rouen et se vend À PARIS, Chez TOUSSAINT QUINET, au Palais, sous la montée de la Cour des Aides.</printer>
 		</docImprint>
 		<performance>
 			<premiere date="1645" location='Théâtre du Marais'>Représenté pour la première fois en 1645 au Théâtre du Marais.</premiere>
 		</performance>
 		<castList>
 			<head>ACTEURS</head>
-			<castItem><role id="VALENS">VALENS</role>, gouverneur d'Antioche.</castItem>
-			<castItem><role id="PLACIDE">PLACIDE</role>, fils de Valens et amoureux de Théodore.</castItem>
-			<castItem><role id="CLEOBULE">CLÉOBULE</role>, ami de Placide.</castItem>
-			<castItem><role id="DIDYME">DIDYME</role>, amoureux de Théodore.</castItem>
-			<castItem><role id="PAULIN">PAULIN</role>, confident de Valens.</castItem>
-			<castItem><role id="LYCANTE">LYCANTE</role>, capitaine d'une cohorte romaine.</castItem>
-			<castItem><role id="MARCELLE">MARCELLE</role>, femme de Valens.</castItem>
-			<castItem><role id="THEODORE">THÉODORE</role>, princesse d'Antioche.</castItem>
-			<castItem><role id="STEPHANIE">STÉPHANIE</role>, confidente de Marcelle.</castItem>
+			<castItem><role id="VALENS" sex="1" type="H" statut="gouverneur" age="A" stat_amour="néant">VALENS</role>, gouverneur d'Antioche.</castItem>
+			<castItem><role id="PLACIDE" sex="1" type="H" statut="aristocrate" age="J" stat_amour="néant">PLACIDE</role>, fils de Valens et amoureux de Théodore.</castItem>
+			<castItem><role id="CLÉOBULE" sex="1" type="H" statut="aristocrate" age="A" stat_amour="néant">CLÉOBULE</role>, ami de Placide.</castItem>
+			<castItem><role id="DIDYME" sex="1" type="H" statut="aristocrate" age="J" stat_amour="Théodore">DIDYME</role>, amoureux de Théodore.</castItem>
+			<castItem><role id="PAULIN" sex="1" type="H" statut="confident" age="A" stat_amour="néant">PAULIN</role>, confident de Valens.</castItem>
+			<castItem><role id="LYCANTE" sex="1" type="H" statut="capitaine" age="A" stat_amour="néant">LYCANTE</role>, capitaine d'une cohorte romaine.</castItem>
+			<castItem><role id="MARCELLE" sex="2" type="H" statut="aristocrate" age="A" stat_amour="néant">MARCELLE</role>, femme de Valens.</castItem>
+			<castItem><role id="THÉODORE" sex="2" type="H" statut="prince" age="A" stat_amour="néant">THÉODORE</role>, princesse d'Antioche.</castItem>
+			<castItem><role id="STÉPHANIE" sex="2" type="H" statut="confident" age="A" stat_amour="néant">STÉPHANIE</role>, confidente de Marcelle.</castItem>
 		</castList>
 		<set location='Antioche' country='Turquie' periode='IVème' link=''>La scène est à Antioche, dans le palais du Gouverneur.</set>
 	</front>
 <body>
-<div1 type="acte" n="1"><head>ACTE I</head>
+<div1 type="act" n="1"><head>ACTE I</head>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="1">Il est vrai, Cléobule, et je veux l'avouer,</l>
 	<l id="2">La fortune me flatte assez pour m'en louer :</l>
 	<l id="3">Mon père est gouverneur de toute la Syrie ;</l>
@@ -74,7 +79,7 @@
 	<l id="12">À moins que de leur rang le mien ne saurait croître ;</l>
 	<l id="13">Et pour haut qu'on ait mis des titres si sacrés,</l>
 	<l id="14">On y monte souvent par de moindres degrés.</l>
-	<l id="15">Mais ces honneurs pour moi ne sont qu'une infâmie,</l>
+	<l id="15">Mais ces honneurs pour moi ne sont qu'une infamie,</l>
 	<l id="16">Parce que je les tiens d'une main ennemie,</l>
 	<l id="17">Et leur plus doux appas qu'un excès de rigueur,</l>
 	<l id="18">Parce que pour échange on veut avoir mon coeur.</l>
@@ -91,14 +96,14 @@
 	<l id="29">Et je la trouverais un objet odieux</l>
 	<l id="30">Des mains de l'empereur, et d'un père, et des dieux.</l>
 </sp>
-<sp who="CLEOBULE"><speaker>Cléobule.</speaker>
+<sp who="CLÉOBULE"><speaker>CLÉOBULE.</speaker>
 	<l id="31">Quoique pour vous Marcelle ait le nom de marâtre,</l>
 	<l id="32">Considérez, seigneur, qu'elle vous idolâtre :</l>
 	<l id="33">Voyez d'un oeil plus sain ce que vous lui devez,</l>
 	<l id="34">Les biens et les honneurs qu'elle vous a sauvés.</l>
 	<l id="35">Quand Dioclétian fut maître de l'empire...</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="36">Mon père était perdu, c'est ce que tu veux dire.</l>
 	<l id="37">Sitôt qu'à son parti le bonheur eut manqué,</l>
 	<l id="38">Sa tête fut proscrite, et son bien confisqué ;</l>
@@ -119,7 +124,7 @@
 	<l id="53">Et dans tous ces honneurs je ne vois en effet</l>
 	<l id="54">Qu'un infâme dépôt des présents qu'on lui fait.</l>
 </sp>
-<sp who="CLEOBULE"><speaker>Cléobule.</speaker>
+<sp who="CLÉOBULE"><speaker>CLÉOBULE.</speaker>
 	<l id="55">S'ils ne sont qu'un dépôt du bien qu'on lui veut faire,</l>
 	<l id="56">Vous en êtes, seigneur, mauvais dépositaire,</l>
 	<l id="57">Puisqu'avec tant d'effort on vous voit travailler</l>
@@ -128,7 +133,7 @@
 	<l id="60">Lui veut donner ce trône élevé pour Flavie :</l>
 	<l id="61">C'est là le fondement de votre aversion.</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="62">Ce n'est point un secret que cette passion :</l>
 	<l id="63">Flavie, au lit malade, en meurt de jalousie ;</l>
 	<l id="64">Et dans l'âpre dépit dont sa mère est saisie,</l>
@@ -163,7 +168,7 @@
 	<l id="93">Sans doute elle aime ailleurs, et s'impute à bonheur</l>
 	<l id="94">De préférer Didyme au fils du gouverneur.</l>
 </sp>
-<sp who="CLEOBULE"><speaker>Cléobule.</speaker>
+<sp who="CLÉOBULE"><speaker>CLÉOBULE.</speaker>
 	<l id="95">Comme elle je suis né, seigneur, dans Antioche,</l>
 	<l id="96">Et par les droits du sang je lui suis assez proche ;</l>
 	<l id="97">Je connais son courage, et vous répondrai bien</l>
@@ -179,7 +184,7 @@
 	<l id="107">Ce que dira Valens, ce que fera Marcelle.</l>
 	<l id="108">Souffrez que son parent vous dise enfin pour elle...</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="109">Ah ! Si je puis encore quelque chose sur toi,</l>
 	<l id="110">Ne me dis rien pour elle, et dis-lui tout pour moi ;</l>
 	<l id="111">Dis-lui que je suis sûr des bontés de mon père,</l>
@@ -204,27 +209,27 @@
 </sp>
 </div2>
 <div2 type="scene" n="2"><head>SCÈNE II.</head>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="130">Ce mauvais conseiller toujours vous entretient ?</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="131">Vous dites vrai, madame, il tâche à me surprendre ;</l>
 	<l id="132">Son conseil est mauvais, mais je sais m'en défendre.</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="133" part="i">Il vous parle d'aimer ?</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="133" part="f">Contre mon sentiment.</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="134">Levez, levez le masque et parlez franchement :</l>
 	<l id="135">De votre Théodore il est l'agent fidèle ;</l>
 	<l id="136">Pour vous mieux engager elle fait la cruelle,</l>
 	<l id="137">Vous chasse en apparence, et pour vous retenir,</l>
 	<l id="138">Par ce parent adroit vous fait entretenir.</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="139">Par ce fidèle agent elle est donc mal servie :</l>
 	<l id="140">Loin de parler pour elle, il parle pour Flavie ;</l>
 	<l id="141">Et ce parent adroit en matière d'amour</l>
@@ -232,175 +237,175 @@
 	<l id="143">C'est, madame, en effet, le mal qu'il me conseille ;</l>
 	<l id="144">Mais j'ai le coeur trop bon pour lui prêter l'oreille.</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="145">Dites le coeur trop bas pour aimer en bon lieu.</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="146">L'objet où vont mes voeux serait digne d'un dieu.</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="147">Il est digne de vous, d'une âme vile et basse.</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="148">Je fais donc seulement ce qu'il faut que je fasse.</l>
 	<l id="149">Ne blâmez que Flavie : un coeur si bien placé</l>
 	<l id="150">D'une âme vile et basse est trop embarrassé ;</l>
 	<l id="151">D'un choix qui lui fait honte il faut qu'elle s'irrite,</l>
 	<l id="152">Et me prive d'un bien qui passe mon mérite.</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="153">Avec quelle arrogance osez-vous me parler ?</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="154">Au-dessous de Flavie ainsi me ravaler,</l>
 	<l id="155">C'est de cette arrogance un mauvais témoignage.</l>
 	<l id="156">Je ne me puis, madame, abaisser davantage.</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="157">Votre respect est rare, et fait voir clairement</l>
 	<l id="158">Que votre humeur modeste aime l'abaissement.</l>
 	<l id="159">Eh bien ! Puisqu'à présent j'en suis mieux avertie,</l>
 	<l id="160">Il faudra satisfaire à cette modestie :</l>
 	<l id="161">Avec un peu de temps nous en viendrons à bout.</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="162">Vous ne m'ôterez rien, puisque je vous dois tout.</l>
 	<l id="163">Qui n'a que ce qu'il doit a peu de perte à faire.</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="164">Vous pourrez bientôt prendre un sentiment contraire.</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="165">Je n'en changerai point pour la perte d'un bien</l>
 	<l id="166">Qui me rendra celui de ne vous devoir rien.</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="167">Ainsi l'ingratitude en soi-même se flatte.</l>
 	<l id="168">Mais je saurai punir cette âme trop ingrate ;</l>
 	<l id="169">Et pour mieux abaisser vos esprits soulevés,</l>
 	<l id="170">Je vous ôterai plus que vous ne me devez.</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="171">La menace est obscure ; expliquez-la, de grâce.</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="172">L'effet expliquera le sens de la menace.</l>
 	<l id="173">Tandis, souvenez-vous, malgré tous vos mépris,</l>
 	<l id="174">Que j'ai fait ce que sont et le père et le fils :</l>
 	<l id="175">Vous me devez l'Égypte, et Valens Antioche.</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="176">Nous ne vous devons rien après un tel reproche.</l>
 	<l id="177">Un bienfait perd sa grâce à le trop publier :</l>
 	<l id="178">Qui veut qu'on s'en souvienne, il le doit oublier.</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="179">Je l'oublierais, ingrat, si pour tant de puissance</l>
 	<l id="180">Je recevais de vous quelque reconnaissance.</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="181">Et je m'en souviendrais jusqu'aux derniers abois,</l>
 	<l id="182">Si vous vous contentiez de ce que je vous dois.</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="183">Après tant de bienfaits, osé-je trop prétendre ?</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="184">Ce ne sont plus bienfaits alors qu'on veut les vendre.</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="185">Que doit donc un grand coeur aux faveurs qu'il reçoit ?</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="186">S'avouant redevable il rend tout ce qu'il doit.</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="187">Tous les ingrats en foule iront à votre école,</l>
 	<l id="188">Puisqu'on y devient quitte en payant de parole.</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="189">Je vous dirai donc plus, puisque vous me pressez :</l>
 	<l id="190">Nous ne vous devons pas tout ce que vous pensez.</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="191" part="i">Que seriez-vous sans moi ?</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="191" part="f">Sans vous ? Ce que nous sommes.</l>
 	<l id="192">Notre empereur est juste, et sait choisir les hommes ;</l>
 	<l id="193">Et mon père, après tout, ne se trouve qu'au rang</l>
 	<l id="194">Où l'auraient mis sans vous ses vertus et son sang.</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="195">Ne vous souvient-il plus qu'on proscrivit sa tête ?</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="196">Par là votre artifice en fit votre conquête.</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="197">Ainsi de ma faveur vous nommez les effets ?</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="198">Un autre ami peut-être aurait bien fait sa paix ;</l>
 	<l id="199">Et si votre faveur pour lui s'est employée,</l>
 	<l id="200">Par son hymen, madame, il vous a trop payée.</l>
 	<l id="201">On voit peu d'unions de deux telles moitiés ;</l>
 	<l id="202">Et la faveur à part, on sait qui vous étiez.</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="203">L'ouvrage de mes mains avoir tant d'insolence !</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="204">Elles m'ont mis trop haut pour souffrir une offense.</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="205">Quoi ? Vous tranchez ici du nouveau gouverneur ?</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="206">De mon rang en tous lieux je soutiendrai l'honneur.</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="207">Considérez donc mieux quelle main vous y porte :</l>
 	<l id="208">L'hymen seul de Flavie en est pour vous la porte.</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="209">Si je n'y puis entrer qu'acceptant cette loi,</l>
 	<l id="210">Reprenez votre Égypte, et me laissez à moi.</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="211">Plus il me doit d'honneurs, plus son orgueil me brave !</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="212">Plus je reçois d'honneurs, moins je dois être esclave.</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="213">Conservez ce grand coeur, vous en aurez besoin.</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="214">Je le conserverai, madame, avec grand soin ;</l>
 	<l id="215">Et votre grand pouvoir en chassera la vie</l>
 	<l id="216">Avant que d'y surprendre aucun lieu pour Flavie.</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="217">J'en chasserai du moins l'ennemi qui me nuit.</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="218">Vous ferez peu d'effet avec beaucoup de bruit.</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="219">Je joindrai de si près l'effet à la menace,</l>
 	<l id="220">Que sa perte aujourd'hui me quittera la place.</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="221" part="i">Vous perdrez aujourd'hui...</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="221" part="f">Théodore à vos yeux.</l>
 	<l id="222">M'entendez-vous, Placide ? Oui, j'en jure les dieux</l>
 	<l id="223">Qu'aujourd'hui mon courroux, armé contre son crime,</l>
 	<l id="224">Au pied de leurs autels en fera ma victime.</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="225">Et je jure à vos yeux ces mêmes immortels</l>
 	<l id="226">Que je la vengerai jusque sur leurs autels.</l>
 	<l id="227">Je jure plus encore, que si je pouvais croire</l>
@@ -416,7 +421,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III.</head>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="237">As-tu vu, Stéphanie, un plus farouche orgueil ?</l>
 	<l id="238">As-tu vu des mépris plus dignes du cercueil ?</l>
 	<l id="239">Et pourrais-je épargner cette insolente vie,</l>
@@ -424,18 +429,18 @@
 	<l id="241">Dont le cruel destin prend un si triste cours</l>
 	<l id="242">Qu'aux jours de ce barbare il attache ses jours ?</l>
 </sp>
-<sp who="STEPHANIE"><speaker>Stéphanie.</speaker>
+<sp who="STÉPHANIE"><speaker>STÉPHANIE.</speaker>
 	<l id="243">Je tremble encore de voir où sa rage l'emporte.</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="244">Ma colère en devient et plus juste et plus forte,</l>
 	<l id="245">Et l'aveugle fureur dont ses discours sont pleins</l>
 	<l id="246">Ne m'arrachera pas ma vengeance des mains.</l>
 </sp>
-<sp who="STEPHANIE"><speaker>Stéphanie.</speaker>
+<sp who="STÉPHANIE"><speaker>STÉPHANIE.</speaker>
 	<l id="247">Après votre vengeance appréhendez la sienne.</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="248">Qu'une indigne épouvante à présent me retienne !</l>
 	<l id="249">De ce feu turbulent l'éclat impétueux</l>
 	<l id="250">N'est qu'un faible avorton d'un coeur présomptueux.</l>
@@ -444,13 +449,13 @@
 	<l id="253">Et qui si près du mal s'amuse à menacer</l>
 	<l id="254">Veut amollir le coup qu'il ne peut repousser.</l>
 </sp>
-<sp who="STEPHANIE"><speaker>Stéphanie.</speaker>
+<sp who="STÉPHANIE"><speaker>STÉPHANIE.</speaker>
 	<l id="255">Théodore vivante, il craint votre colère ;</l>
 	<l id="256">Mais voyez qu'il ne craint que parce qu'il espère ;</l>
 	<l id="257">Et c'est à vous, madame, à bien considérer</l>
 	<l id="258">Qu'il cessera de craindre en cessant d'espérer.</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="259">Si l'espoir fait sa peur, nous n'avons qu'à l'éteindre :</l>
 	<l id="260">Il cessera d'aimer aussi bien que de craindre.</l>
 	<l id="261">L'amour va rarement jusque dans un tombeau</l>
@@ -463,10 +468,10 @@
 	<l id="268">C'est un plaisir bien doux que de se voir vengée.</l>
 	<l id="269">Mais dis-moi, ton indice est-il bien assuré ?</l>
 </sp>
-<sp who="STEPHANIE"><speaker>Stéphanie.</speaker>
+<sp who="STÉPHANIE"><speaker>STÉPHANIE.</speaker>
 	<l id="270">J'en réponds sur ma tête, et l'ai trop avéré.</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="271">Ne t'oppose donc plus à ce moment de joie</l>
 	<l id="272">Qu'aujourd'hui par ta main le juste ciel m'envoie.</l>
 	<l id="273">Valens vient à propos, et sur tes bons avis</l>
@@ -474,7 +479,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV.</head>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="275">Jusques à quand, seigneur, voulez-vous qu'abusée</l>
 	<l id="276">Au mépris d'un ingrat je demeure exposée,</l>
 	<l id="277">Et qu'un fils arrogant sous votre autorité</l>
@@ -484,7 +489,7 @@
 	<l id="281">Et faut-il qu'un amour conçu par votre aveu</l>
 	<l id="282">Lui coûte enfin la vie et vous touche si peu ?</l>
 </sp>
-<sp who="VALENS"><speaker>Valens.</speaker>
+<sp who="VALENS"><speaker>VALENS.</speaker>
 	<l id="283">Plût aux dieux que mon sang eût de quoi satisfaire</l>
 	<l id="284">Et l'amour de la fille et l'espoir de la mère,</l>
 	<l id="285">Et qu'en le répandant je lui pusse gagner</l>
@@ -494,7 +499,7 @@
 	<l id="289">Si son ordre n'agit, l'effet ne s'en peut voir,</l>
 	<l id="290">Et je pense être quitte y faisant mon pouvoir.</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="291">Faire votre pouvoir avec tant d'indulgence,</l>
 	<l id="292">C'est avec son orgueil être d'intelligence ;</l>
 	<l id="293">Aussi bien que le fils le père m'est suspect,</l>
@@ -502,7 +507,7 @@
 	<l id="295">Ah ! Si vous déployiez cette haute puissance</l>
 	<l id="296">Que donnent aux parents les droits de la naissance...</l>
 </sp>
-<sp who="VALENS"><speaker>Valens.</speaker>
+<sp who="VALENS"><speaker>VALENS.</speaker>
 	<l id="297">Si la haine et l'amour lui doivent obéir,</l>
 	<l id="298">Déployez-la, madame, à le faire haïr.</l>
 	<l id="299">Quel que soit le pouvoir d'un père en sa famille,</l>
@@ -510,44 +515,44 @@
 	<l id="301">Et si vous n'en pouvez vaincre la passion,</l>
 	<l id="302">Dois-je plus obtenir sur tant d'aversion ?</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="303">Elle tâche à se vaincre, et son coeur y succombe ;</l>
 	<l id="304">Et l'effort qu'elle y fait la jette sous la tombe.</l>
 </sp>
-<sp who="VALENS"><speaker>Valens.</speaker>
+<sp who="VALENS"><speaker>VALENS.</speaker>
 	<l id="305">Elle n'a toutefois que l'amour à dompter ;</l>
 	<l id="306">Et Placide bien moins se pourrait surmonter,</l>
 	<l id="307">Puisque deux passions le font être rebelle :</l>
 	<l id="308">L'amour pour Théodore, et la haine pour elle.</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="309">Ôtez-lui Théodore ; et son amour dompté,</l>
 	<l id="310">Vous dompterez sa haine avec facilité.</l>
 </sp>
-<sp who="VALENS"><speaker>Valens.</speaker>
+<sp who="VALENS"><speaker>VALENS.</speaker>
 	<l id="311">Pour l'ôter à Placide il faut qu'elle se donne.</l>
 	<l id="312" part="i">Aime-t-elle quelque autre ?</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="312" part="f">Elle n'aime personne.</l>
 	<l id="313">Mais qu'importe, seigneur, qu'elle écoute aucun voeux ?</l>
 	<l id="314">Ce n'est pas son hymen, c'est sa mort que je veux.</l>
 </sp>
-<sp who="VALENS"><speaker>Valens.</speaker>
+<sp who="VALENS"><speaker>VALENS.</speaker>
 	<l id="315">Quoi, madame ? Abuser ainsi de ma puissance !</l>
 	<l id="316">À votre passion immoler l'innocence !</l>
 	<l id="317" part="i">Les dieux m'en puniraient.</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="317" part="f">Trouvent-ils innocents</l>
 	<l id="318">Ceux dont l'impiété leur refuse l'encens ?</l>
 	<l id="319">Prenez leur intérêt : Théodore est chrétienne :</l>
 	<l id="320">C'est la cause des dieux, et ce n'est plus la mienne.</l>
 </sp>
-<sp who="VALENS"><speaker>Valens.</speaker>
+<sp who="VALENS"><speaker>VALENS.</speaker>
 	<l id="321" part="i">Souvent la calomnie...</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="321" part="f">Il n'en faut plus parler,</l>
 	<l id="322">Si vous vous préparez à le dissimuler.</l>
 	<l id="323">Devenez protecteur de cette secte impie</l>
@@ -555,7 +560,7 @@
 	<l id="325">Vous pouvez en ces lieux vous en faire l'appui ;</l>
 	<l id="326">Mais songez qu'il me reste un frère auprès de lui.</l>
 </sp>
-<sp who="VALENS"><speaker>Valens.</speaker>
+<sp who="VALENS"><speaker>VALENS.</speaker>
 	<l id="327">Sans en importuner l'autorité suprême,</l>
 	<l id="328">Si je vous suis suspect, n'en croyez que vous-même :</l>
 	<l id="329">Agissez en ma place, et faites-la venir ;</l>
@@ -563,17 +568,17 @@
 	<l id="331">Et vous reconnaîtrez que dans le fond de l'âme</l>
 	<l id="332">Je prends comme je dois l'intérêt d'une femme.</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="333">Puisque vous le voulez, j'oserai la mander :</l>
 	<l id="334">Allez-y, Stéphanie, allez sans plus tarder.</l>
 	<l id="335">Et si l'on m'a flattée avec un faux indice,</l>
 	<l id="336">Je vous irai moi-même en demander justice.</l>
 </sp>
-<sp who="VALENS"><speaker>Valens.</speaker>
+<sp who="VALENS"><speaker>VALENS.</speaker>
 	<l id="337">N'oubliez pas alors que je la dois à tous,</l>
 	<l id="338">Et même à Théodore, aussi bien comme à vous.</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="339">N'oubliez pas non plus quelle est votre promesse.</l>
 	<l id="340">Il est temps que Flavie ait part à l'allégresse :</l>
 	<l id="341">Avec cette espérance allons la soulager.</l>
@@ -585,24 +590,24 @@
 </sp>
 </div2>
 </div1>
-<div1 type="acte" n="2"><head>ACTE II</head>
+<div1 type="act" n="2"><head>ACTE II</head>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
-<sp who="STEPHANIE"><speaker>Stéphanie.</speaker>
+<sp who="STÉPHANIE"><speaker>STÉPHANIE.</speaker>
 	<l id="347">Marcelle n'est pas loin, et je me persuade</l>
 	<l id="348">Que son amour l'attache auprès de sa malade ;</l>
 	<l id="349">Mais je vais l'avertir que vous êtes ici.</l>
 </sp>
-<sp who="THEODORE"><speaker>Théodore.</speaker>
+<sp who="THÉODORE"><speaker>THÉODORE.</speaker>
 	<l id="350">Vous m'obligerez fort d'en prendre le souci,</l>
 	<l id="351">Et de lui témoigner avec quelle franchise</l>
 	<l id="352">À ses commandements vous me voyez soumise.</l>
 </sp>
-<sp who="STEPHANIE"><speaker>Stéphanie.</speaker>
+<sp who="STÉPHANIE"><speaker>STÉPHANIE.</speaker>
 	<l id="353">Dans un moment ou deux vous la verrez venir.</l>
 </sp>
 </div2>
 <div2 type="scene" n="2"><head>SCÈNE II.</head>
-<sp who="CLEOBULE"><speaker>Cléobule.</speaker>
+<sp who="CLÉOBULE"><speaker>CLÉOBULE.</speaker>
 	<l id="354">Tandis, permettez-moi de vous entretenir,</l>
 	<l id="355">Et de blâmer un peu cette vertu farouche,</l>
 	<l id="356">Cette insensible humeur qu'aucun objet ne touche,</l>
@@ -625,7 +630,7 @@
 	<l id="373">Où le père et le fils peuvent un jour régner,</l>
 	<l id="374">Et cessez d'être aveugle et de le dédaigner.</l>
 </sp>
-<sp who="THEODORE"><speaker>Théodore.</speaker>
+<sp who="THÉODORE"><speaker>THÉODORE.</speaker>
 	<l id="375">Je ne suis point aveugle, et vois ce qu'est un homme</l>
 	<l id="376">Qu'élèvent la naissance, et la fortune, et Rome :</l>
 	<l id="377">Je rends ce que je dois à l'éclat de son sang,</l>
@@ -641,10 +646,10 @@
 	<l id="387">Et rendant aux grandeurs un respect légitime,</l>
 	<l id="388">J'honorerais Placide, et j'aimerais Didyme.</l>
 </sp>
-<sp who="CLEOBULE"><speaker>Cléobule.</speaker>
+<sp who="CLÉOBULE"><speaker>CLÉOBULE.</speaker>
 	<l id="389">Didyme, que sur tous vous semblez dédaigner !</l>
 </sp>
-<sp who="THEODORE"><speaker>Théodore.</speaker>
+<sp who="THÉODORE"><speaker>THÉODORE.</speaker>
 	<l id="390">Didyme, que sur tous je tâche d'éloigner,</l>
 	<l id="391">Et qui verrait bientôt sa flamme couronnée</l>
 	<l id="392">Si mon âme à mes sens était abandonnée,</l>
@@ -667,7 +672,7 @@
 	<l id="409">Nommez-la cependant vertu, caprice, orgueil,</l>
 	<l id="410">Ce dessein me suivra jusque dans le cercueil.</l>
 </sp>
-<sp who="CLEOBULE"><speaker>Cléobule.</speaker>
+<sp who="CLÉOBULE"><speaker>CLÉOBULE.</speaker>
 	<l id="411">Il peut vous y pousser, si vous n'y prenez garde :</l>
 	<l id="412">D'un oeil envenimé Marcelle vous regarde ;</l>
 	<l id="413">Et se prenant à vous du mauvais traitement</l>
@@ -680,7 +685,7 @@
 	<l id="420">Pour ce triste sujet sans doute elle vous mande.</l>
 	<l id="421">Dans un péril si grand faites un protecteur.</l>
 </sp>
-<sp who="THEODORE"><speaker>Théodore.</speaker>
+<sp who="THÉODORE"><speaker>THÉODORE.</speaker>
 	<l id="422">Si je suis en péril, Placide en est l'auteur ;</l>
 	<l id="423">L'amour qu'il a pour moi lui seul m'y précipite :</l>
 	<l id="424">C'est par là qu'on me hait, c'est par là qu'on s'irrite.</l>
@@ -703,16 +708,16 @@
 	<l id="441">Et que par un exemple assez rare à nommer,</l>
 	<l id="442">Je périrai pour lui si je ne puis l'aimer.</l>
 </sp>
-<sp who="CLEOBULE"><speaker>Cléobule.</speaker>
+<sp who="CLÉOBULE"><speaker>CLÉOBULE.</speaker>
 	<l id="443">Ne vous pas mieux servir d'un amour si fidèle,</l>
 	<l id="444" part="i">C'est...</l>
 </sp>
-<sp who="THEODORE"><speaker>Théodore.</speaker>
+<sp who="THÉODORE"><speaker>THÉODORE.</speaker>
 	<l id="444" part="f">Quittons ce discours, je vois venir Marcelle.</l>
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III.</head>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="445">Quoi ? Toujours l'un ou l'autre est par vous obsédé ?</l>
 	<l id="446">Qui vous amène ici ? Vous avais-je mandé ?</l>
 	<l id="447">Et ne pourrai-je voir Théodore ou Placide,</l>
@@ -720,19 +725,19 @@
 	<l id="449">Cette assiduité marque un zèle imprudent,</l>
 	<l id="450">Et ce n'est pas agir en adroit confident.</l>
 </sp>
-<sp who="CLEOBULE"><speaker>Cléobule.</speaker>
+<sp who="CLÉOBULE"><speaker>CLÉOBULE.</speaker>
 	<l id="451">Je crois qu'on me doit voir d'une âme indifférente</l>
 	<l id="452">Accompagner ici Placide et ma parente.</l>
 	<l id="453">Je fais ma cour à l'un à cause de son rang,</l>
 	<l id="454">Et rends à l'autre un soin où m'oblige le sang.</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="455" part="i">Vous êtes bon parent.</l>
 </sp>
-<sp who="CLEOBULE"><speaker>Cléobule.</speaker>
+<sp who="CLÉOBULE"><speaker>CLÉOBULE.</speaker>
 	<l id="455" part="f">Elle m'oblige à l'être.</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="456">Votre humeur généreuse aime à le reconnaître ;</l>
 	<l id="457">Et sensible aux faveurs que vous en recevez,</l>
 	<l id="458">Vous rendez à tous deux ce que vous leur devez.</l>
@@ -741,16 +746,16 @@
 	<l id="461">Cependant quittez-nous, que je puisse à mon tour</l>
 	<l id="462">Servir de confidente à cet illustre amour.</l>
 </sp>
-<sp who="CLEOBULE"><speaker>Cléobule.</speaker>
+<sp who="CLÉOBULE"><speaker>CLÉOBULE.</speaker>
 	<l id="463" part="i">Ne croyez pas, madame...</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="463" part="f">Obéissez, de grâce :</l>
 	<l id="464">Je sais ce qu'il faut croire, et vois ce qui se passe.</l>
 </sp>
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV. </head>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="465">Ne vous offensez pas, objet rare et charmant,</l>
 	<l id="466">Si ma haine avec lui traite un peu rudement.</l>
 	<l id="467">Ce n'est point avec vous que je la dissimule :</l>
@@ -780,7 +785,7 @@
 	<l id="491">Croyez que me tromper, c'est vous tromper vous-même ;</l>
 	<l id="492">Et si vous vous aimez, souffrez que je vous aime.</l>
 </sp>
-<sp who="THEODORE"><speaker>Théodore.</speaker>
+<sp who="THÉODORE"><speaker>THÉODORE.</speaker>
 	<l id="493">Je n'ai point vu, madame, encore jusqu'à ce jour</l>
 	<l id="494">Avec tant de menace expliquer tant d'amour,</l>
 	<l id="495">Et peu faite à l'honneur de pareilles visites,</l>
@@ -808,7 +813,7 @@
 	<l id="517">Et que sans m'éblouir de cet éclat nouveau,</l>
 	<l id="518">Plutôt que dans son lit j'entrerais au tombeau.</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="519">Je vous crois ; mais souvent l'amour brûle sans luire :</l>
 	<l id="520">Dans un profond secret il aime à se conduire ;</l>
 	<l id="521">Et voyant Cléobule aller tant et venir,</l>
@@ -829,7 +834,7 @@
 	<l id="536">Peut-être que vos voeux le rendront plus propice ;</l>
 	<l id="537">Venez les joindre aux miens, et le prendre à témoin.</l>
 </sp>
-<sp who="THEODORE"><speaker>Théodore.</speaker>
+<sp who="THÉODORE"><speaker>THÉODORE.</speaker>
 	<l id="538">Je veux vous satisfaire, et sans aller si loin,</l>
 	<l id="539">J'atteste ici le Dieu qui lance le tonnerre,</l>
 	<l id="540">Ce monarque absolu du ciel et de la terre,</l>
@@ -837,48 +842,48 @@
 	<l id="542">Que Placide jamais ne sera mon époux.</l>
 	<l id="543">En est-ce assez, madame ? êtes-vous satisfaite ?</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="544">Ce serment à peu près est ce que je souhaite ;</l>
 	<l id="545">Mais pour vous dire tout, la sainteté des lieux,</l>
 	<l id="546">Le respect des autels, la présence des dieux,</l>
 	<l id="547">Le rendant et plus saint et plus inviolable,</l>
 	<l id="548">Me le pourraient aussi rendre bien plus croyable.</l>
 </sp>
-<sp who="THEODORE"><speaker>Théodore.</speaker>
+<sp who="THÉODORE"><speaker>THÉODORE.</speaker>
 	<l id="549">Le Dieu que j'ai juré connaît tout, entend tout :</l>
 	<l id="550">Il remplit l'univers de l'un à l'autre bout ;</l>
 	<l id="551">Sa grandeur est sans borne ainsi que sans exemple ;</l>
 	<l id="552">Il n'est pas moins ici qu'au milieu de son temple,</l>
 	<l id="553">Et ne m'entend pas mieux dans son temple qu'ici.</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="554">S'il vous entend partout, je vous entends aussi :</l>
 	<l id="555">On ne m'éblouit point d'une mauvaise ruse ;</l>
 	<l id="556">Suivez-moi dans le temple, et tôt, et sans excuse.</l>
 </sp>
-<sp who="THEODORE"><speaker>Théodore.</speaker>
+<sp who="THÉODORE"><speaker>THÉODORE.</speaker>
 	<l id="557">Votre coeur soupçonneux ne m'y croirait non plus,</l>
 	<l id="558">Et je vous y ferais des serments superflus.</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="559" part="i">Vous désobéissez !</l>
 </sp>
-<sp who="THEODORE"><speaker>Théodore.</speaker>
+<sp who="THÉODORE"><speaker>THÉODORE.</speaker>
 	<l id="559" part="f">Je crois vous satisfaire.</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="560" part="i">Suivez, suivez mes pas.</l>
 </sp>
-<sp who="THEODORE"><speaker>Théodore.</speaker>
+<sp who="THÉODORE"><speaker>THÉODORE.</speaker>
 	<l id="560" part="f">Ce serait vous déplaire ;</l>
 	<l id="561">Vos desseins d'autant plus en seraient reculés :</l>
 	<l id="562">Ma désobéissance est ce que vous voulez.</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="563">Il faut de deux raisons que l'une vous retienne :</l>
 	<l id="564">Ou vous aimez Placide, ou vous êtes chrétienne.</l>
 </sp>
-<sp who="THEODORE"><speaker>Théodore.</speaker>
+<sp who="THÉODORE"><speaker>THÉODORE.</speaker>
 	<l id="565">Oui, je la suis, madame, et le tiens à plus d'heur</l>
 	<l id="566">Qu'une autre ne tiendrait toute votre grandeur.</l>
 	<l id="567">Je vois qu'on vous l'a dit, ne cherchez plus de ruse :</l>
@@ -888,17 +893,17 @@
 	<l id="571">Et noyez dans ce sang, dont vous êtes avide,</l>
 	<l id="572">Et le mal qui la tue, et l'amour de Placide.</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="573">Oui, pour vous en punir je n'épargnerai rien,</l>
 	<l id="574">Et l'intérêt des dieux assurera le mien.</l>
 </sp>
-<sp who="THEODORE"><speaker>Théodore.</speaker>
+<sp who="THÉODORE"><speaker>THÉODORE.</speaker>
 	<l id="575">Le vôtre en même temps assurera ma gloire :</l>
 	<l id="576">Triomphant de ma vie, il fera ma victoire,</l>
 	<l id="577">Mais si grande, si haute, et si pleine d'appas,</l>
 	<l id="578">Qu'à ce prix j'aimerai les plus cruels trépas.</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="579">De cette illusion soyez persuadée :</l>
 	<l id="580">Périssant à mes yeux, triomphez en idée ;</l>
 	<l id="581">Goûtez d'un autre monde à loisir les appas,</l>
@@ -908,36 +913,36 @@
 	<l id="585">Mais gardez de pâlir et de vous étonner</l>
 	<l id="586">À l'aspect du chemin qui vous y doit mener.</l>
 </sp>
-<sp who="THEODORE"><speaker>Théodore.</speaker>
+<sp who="THÉODORE"><speaker>THÉODORE.</speaker>
 	<l id="587">La mort n'a que douceur pour une âme chrétienne.</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="588">Votre félicité va donc faire la mienne.</l>
 </sp>
-<sp who="THEODORE"><speaker>Théodore.</speaker>
+<sp who="THÉODORE"><speaker>THÉODORE.</speaker>
 	<l id="589">Votre haine est trop lente à me la procurer.</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="590">Vous n'aurez pas longtemps sujet d'en murmurer.</l>
 	<l id="591">Allez trouver Valens, allez, ma Stéphanie.</l>
 	<l id="592" part="i">Mais demeurez ; il vient.</l>
 </sp>
 </div2>
 <div2 type="scene" n="5"><head>SCÈNE V.</head>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="592" part="f">Ce n'est point calomnie,</l>
 	<l id="593">Seigneur, elle est chrétienne, et s'en ose vanter.</l>
 </sp>
-<sp who="VALENS"><speaker>Valens.</speaker>
+<sp who="VALENS"><speaker>VALENS.</speaker>
 	<l id="594">Théodore, parlez sans vous épouvanter.</l>
 </sp>
-<sp who="THEODORE"><speaker>Théodore.</speaker>
+<sp who="THÉODORE"><speaker>THÉODORE.</speaker>
 	<l id="595">Puisque je suis coupable aux yeux de l'injustice,</l>
 	<l id="596">Je fais gloire du crime, et j'aspire au supplice ;</l>
 	<l id="597">Et d'un crime si beau le supplice est si doux,</l>
 	<l id="598">Que qui peut le connaître en doit être jaloux.</l>
 </sp>
-<sp who="VALENS"><speaker>Valens.</speaker>
+<sp who="VALENS"><speaker>VALENS.</speaker>
 	<l id="599">Je ne recherche plus la damnable origine</l>
 	<l id="600">De cette aveugle amour où Placide s'obstine ;</l>
 	<l id="601">Cette noire magie, ordinaire aux chrétiens,</l>
@@ -948,7 +953,7 @@
 	<l id="606">Jusque sur mes enfants verser votre poison ?</l>
 	<l id="607">Vous osez donc tous deux les prendre pour victimes ?</l>
 </sp>
-<sp who="THEODORE"><speaker>Théodore.</speaker>
+<sp who="THÉODORE"><speaker>THÉODORE.</speaker>
 	<l id="608">Seigneur, il ne faut point me supposer de crimes ;</l>
 	<l id="609">C'est à des faussetés sans besoin recourir :</l>
 	<l id="610">Puisque je suis chrétienne, il suffit pour mourir.</l>
@@ -957,13 +962,13 @@
 	<l id="613">Hâtez, hâtez, seigneur, ces heureux châtiments</l>
 	<l id="614">Qui feront mes plaisirs et vos contentements.</l>
 </sp>
-<sp who="VALENS"><speaker>Valens.</speaker>
+<sp who="VALENS"><speaker>VALENS.</speaker>
 	<l id="615">Ah ! Je rabattrai bien cette fière constance.</l>
 </sp>
-<sp who="THEODORE"><speaker>Théodore.</speaker>
-	<l id="616">Craindrois-je des tourments qui font ma récompense ?</l>
+<sp who="THÉODORE"><speaker>THÉODORE.</speaker>
+	<l id="616">Craindrais-je des tourments qui font ma récompense ?</l>
 </sp>
-<sp who="VALENS"><speaker>Valens.</speaker>
+<sp who="VALENS"><speaker>VALENS.</speaker>
 	<l id="617">Oui, j'en sais que peut-être aisément vous craindrez ;</l>
 	<l id="618">Vous en recevrez l'ordre, et vous en résoudrez.</l>
 	<l id="619">Ce courage toujours ne sera pas si ferme.</l>
@@ -972,28 +977,28 @@
 </sp>
 </div2>
 <div2 type="scene" n="6"><head>SCÈNE VI.</head>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="621" part="f">Eh quoi ! Pour la punir,</l>
 	<l id="622">Quand le crime est constant, qui vous peut retenir ?</l>
 </sp>
-<sp who="VALENS"><speaker>Valens.</speaker>
+<sp who="VALENS"><speaker>VALENS.</speaker>
 	<l id="623">Agréerez-vous le choix que je fais d'un supplice ?</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="624">J'agréerai tout, seigneur, pourvu qu'elle périsse :</l>
 	<l id="625">Choisissez le plus doux, ce sera m'obliger.</l>
 </sp>
-<sp who="VALENS"><speaker>Valens.</speaker>
+<sp who="VALENS"><speaker>VALENS.</speaker>
 	<l id="626">Ah ! Que vous savez mal comme il se faut venger !</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="627">Je ne suis point cruelle, et n'en veux à sa vie</l>
 	<l id="628">Que pour rendre Placide à l'amour de Flavie.</l>
 	<l id="629">Ôtez-nous cet obstacle à nos contentements ;</l>
 	<l id="630">Mais en faveur du sexe épargnez les tourments :</l>
 	<l id="631" part="i">Qu'elle meure, il suffit.</l>
 </sp>
-<sp who="VALENS"><speaker>Valens.</speaker>
+<sp who="VALENS"><speaker>VALENS.</speaker>
 	<l id="631" part="f">Oui, sans plus de demeure,</l>
 	<l id="632">Pour l'intérêt des dieux je consens qu'elle meure :</l>
 	<l id="633">Indigne de la vie, elle doit en sortir ;</l>
@@ -1015,18 +1020,18 @@
 	<l id="649">Verser le sang aimé, ce n'est pas l'en guérir,</l>
 	<l id="650">Et le désespérer, ce n'est pas l'acquérir.</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="651">Ainsi donc vous laissez Théodore impunie ?</l>
 </sp>
-<sp who="VALENS"><speaker>Valens.</speaker>
+<sp who="VALENS"><speaker>VALENS.</speaker>
 	<l id="652">Non, je la veux punir, mais par l'ignominie ;</l>
 	<l id="653">Et pour forcer Placide à vous porter ses voeux,</l>
 	<l id="654">Rendre cette chrétienne indigne de ses feux.</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="655" part="i">Je ne vous entends point.</l>
 </sp>
-<sp who="VALENS"><speaker>Valens.</speaker>
+<sp who="VALENS"><speaker>VALENS.</speaker>
 	<l id="655" part="f">Contentez-vous, madame,</l>
 	<l id="656">Que je vois pleinement les désirs de votre âme,</l>
 	<l id="657">Que de votre intérêt je veux faire le mien.</l>
@@ -1042,7 +1047,7 @@
 	<l id="667">Et que ce digne objet de votre juste haine</l>
 	<l id="668">Voudrait de mille morts racheter cette peine.</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="669">Soit que vous me vouliez éblouir ou venger,</l>
 	<l id="670">Jusqu'à l'événement je n'en veux point juger ;</l>
 	<l id="671">Je vous en laisse faire. Adieu : disposez d'elle ;</l>
@@ -1052,15 +1057,15 @@
 </sp>
 </div2>
 <div2 type="scene" n="7"><head>SCÈNE VII.</head>
-<sp who="VALENS"><speaker>Valens.</speaker>
+<sp who="VALENS"><speaker>VALENS.</speaker>
 	<l id="675">L'impérieuse humeur ! Vois comme elle me brave,</l>
 	<l id="676">Comme son fier orgueil m'ose traiter d'esclave.</l>
 </sp>
-<sp who="PAULIN"><speaker>Paulin.</speaker>
+<sp who="PAULIN"><speaker>PAULIN.</speaker>
 	<l id="677">Seigneur, j'en suis confus, mais vous le méritez :</l>
 	<l id="678">Au lieu d'y résister, vous vous y soumettez.</l>
 </sp>
-<sp who="VALENS"><speaker>Valens.</speaker>
+<sp who="VALENS"><speaker>VALENS.</speaker>
 	<l id="679">Ne t'imagine pas que dans le fond de l'âme</l>
 	<l id="680">Je préfère à mon fils les fureurs d'une femme :</l>
 	<l id="681">L'un m'est plus cher que l'autre, et par ce triste arrêt</l>
@@ -1100,7 +1105,7 @@
 	<l id="715">Et cette ignominie où je l'ai condamnée</l>
 	<l id="716">Se changera soudain en heureux hyménée.</l>
 </sp>
-<sp who="PAULIN"><speaker>Paulin.</speaker>
+<sp who="PAULIN"><speaker>PAULIN.</speaker>
 	<l id="717">Votre prudence est rare, et j'en suivrai les lois.</l>
 	<l id="718">Daigne le juste ciel seconder votre choix,</l>
 	<l id="719">Et par une influence un peu moins rigoureuse,</l>
@@ -1108,36 +1113,36 @@
 </sp>
 </div2>
 </div1>
-<div1 type="acte" n="3"><head>ACTE III</head>
+<div1 type="act" n="3"><head>ACTE III</head>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
-<sp who="THEODORE"><speaker>Théodore.</speaker>
+<sp who="THÉODORE"><speaker>THÉODORE.</speaker>
 	<l id="721" part="i">Où m'allez-vous conduire ?</l>
 </sp>
-<sp who="PAULIN"><speaker>Paulin.</speaker>
+<sp who="PAULIN"><speaker>PAULIN.</speaker>
 	<l id="721" part="f">Il est en votre choix :</l>
 	<l id="722">Suivez-moi dans le temple, ou subissez nos lois.</l>
 </sp>
-<sp who="THEODORE"><speaker>Théodore.</speaker>
+<sp who="THÉODORE"><speaker>THÉODORE.</speaker>
 	<l id="723">De ces indignités vos juges sont capables !</l>
 </sp>
-<sp who="PAULIN"><speaker>Paulin.</speaker>
+<sp who="PAULIN"><speaker>PAULIN.</speaker>
 	<l id="724">Ils égalent la peine aux crimes des coupables.</l>
 </sp>
-<sp who="THEODORE"><speaker>Théodore.</speaker>
+<sp who="THÉODORE"><speaker>THÉODORE.</speaker>
 	<l id="725">Si le mien est trop grand pour le dissimuler,</l>
 	<l id="726">N'est-il point de tourments qui puissent l'égaler ?</l>
 </sp>
-<sp who="PAULIN"><speaker>Paulin.</speaker>
+<sp who="PAULIN"><speaker>PAULIN.</speaker>
 	<l id="727">Comme dans les tourments vous trouvez des délices,</l>
 	<l id="728">Ils ont trouvé pour vous ailleurs de vrais supplices,</l>
 	<l id="729">Et par un châtiment aussi grand que nouveau,</l>
 	<l id="730">De votre vertu même ils font votre bourreau.</l>
 </sp>
-<sp who="THEODORE"><speaker>Théodore.</speaker>
+<sp who="THÉODORE"><speaker>THÉODORE.</speaker>
 	<l id="731">Ah ! Qu'un si détestable et honteux sacrifice</l>
 	<l id="732">Est pour elle en effet un rigoureux supplice !</l>
 </sp>
-<sp who="PAULIN"><speaker>Paulin.</speaker>
+<sp who="PAULIN"><speaker>PAULIN.</speaker>
 	<l id="733">Ce mépris de la mort qui partout à nos yeux</l>
 	<l id="734">Brave si hautement et nos lois et nos dieux,</l>
 	<l id="735">Cette indigne fierté ne serait pas punie</l>
@@ -1149,20 +1154,20 @@
 	<l id="741">Et que votre pudeur rende à nos immortels</l>
 	<l id="742">L'encens que votre orgueil refuse à leurs autels.</l>
 </sp>
-<sp who="THEODORE"><speaker>Théodore.</speaker>
+<sp who="THÉODORE"><speaker>THÉODORE.</speaker>
 	<l id="743">Valens me fait par vous porter cette menace ;</l>
 	<l id="744">Mais s'il hait les chrétiens, il respecte ma race :</l>
 	<l id="745">Le sang d'Antiochus n'est pas encore si bas</l>
 	<l id="746">Qu'on l'abandonne en proie aux fureurs des soldats.</l>
 </sp>
-<sp who="PAULIN"><speaker>Paulin.</speaker>
+<sp who="PAULIN"><speaker>PAULIN.</speaker>
 	<l id="747">Ne vous figurez point qu'en un tel sacrilège</l>
 	<l id="748">Le sang d'Antiochus ait quelque privilège.</l>
 	<l id="749">Les dieux sont au-dessus des rois dont vous sortez,</l>
 	<l id="750">Et l'on vous traite ici comme vous les traitez :</l>
 	<l id="751">Vous les déshonorez, et l'on vous déshonore.</l>
 </sp>
-<sp who="THEODORE"><speaker>Théodore.</speaker>
+<sp who="THÉODORE"><speaker>THÉODORE.</speaker>
 	<l id="752">Vous leur immolez donc l'honneur de Théodore,</l>
 	<l id="753">À ces dieux dont enfin la plus sainte action</l>
 	<l id="754">N'est qu'inceste, adultère et prostitution ?</l>
@@ -1172,7 +1177,7 @@
 	<l id="758">Ou de leur rendre hommage, ou de les imiter ?</l>
 	<l id="759">Dieu de la pureté, que vos lois sont bien autres !</l>
 </sp>
-<sp who="PAULIN"><speaker>Paulin.</speaker>
+<sp who="PAULIN"><speaker>PAULIN.</speaker>
 	<l id="760">Au lieu de blasphémer, obéissez aux nôtres,</l>
 	<l id="761">Et ne redoublez point par vos impiétés</l>
 	<l id="762">La haine et le courroux de nos dieux irrités :</l>
@@ -1181,7 +1186,7 @@
 	<l id="765">Vous savez votre arrêt, vous avez à choisir :</l>
 	<l id="766">Usez utilement de ce peu de loisir.</l>
 </sp>
-<sp who="THEODORE"><speaker>Théodore.</speaker>
+<sp who="THÉODORE"><speaker>THÉODORE.</speaker>
 	<l id="767">Quelles sont vos rigueurs, si vous le nommez grâce,</l>
 	<l id="768">Et quel choix voulez-vous qu'une chrétienne fasse,</l>
 	<l id="769">Réduite à balancer son esprit agité</l>
@@ -1195,11 +1200,12 @@
 	<l id="777">Soit que vous contraigniez pour vos dieux impuissants</l>
 	<l id="778">Mon corps à l'infamie ou ma main à l'encens,</l>
 	<l id="779">Je saurai conserver d'une âme résolue</l>
+<note type="L">Impollue : Terme vieilli. Sans tache, non souillé. [L]</note>
 	<l id="780">À l'époux sans macule une épouse impollue.</l>
 </sp>
 </div2>
 <div2 type="scene" n="2"><head>SCÈNE II.</head>
-<sp who="THEODORE"><speaker>Théodore.</speaker>
+<sp who="THÉODORE"><speaker>THÉODORE.</speaker>
 	<l id="781">Mais que vois-je ? Ah, seigneur ! Est-ce Marcelle ou vous</l>
 	<l id="782">Dont sur mon innocence éclate le courroux ?</l>
 	<l id="783">L'arrêt qu'a contre moi prononcé votre père,</l>
@@ -1211,31 +1217,31 @@
 	<l id="789">étouffent-ils si bien vos respects généreux,</l>
 	<l id="790">Qu'ils fassent mon bourreau d'un héros amoureux ?</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="791" part="i">Retirez-vous, Paulin.</l>
 </sp>
-<sp who="PAULIN"><speaker>Paulin.</speaker>
+<sp who="PAULIN"><speaker>PAULIN.</speaker>
 	<l id="791" part="f">On me l'a mise en garde.</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="792">Je sais jusqu'à quel point ce devoir vous regarde ;</l>
 	<l id="793">Prenez soin de la porte, et sans me répliquer :</l>
 	<l id="794">Ce n'est pas devant vous que je veux m'expliquer.</l>
 </sp>
-<sp who="PAULIN"><speaker>Paulin.</speaker>
+<sp who="PAULIN"><speaker>PAULIN.</speaker>
 	<l id="795" part="i">Seigneur...</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="795" part="f">Laissez-nous, dis-je, et craignez ma colère ;</l>
 	<l id="796">Je vous garantirai de celle de mon père.</l>
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III.</head>
-<sp who="THEODORE"><speaker>Théodore.</speaker>
+<sp who="THÉODORE"><speaker>THÉODORE.</speaker>
 	<l id="797">Quoi ? Vous chassez Paulin, et vous craignez ses yeux,</l>
 	<l id="798">Vous qui ne craignez pas la colère des cieux ?</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="799">Redoublez vos mépris, mais bannissez des craintes</l>
 	<l id="800">Qui portent à mon coeur de plus rudes atteintes ;</l>
 	<l id="801">Ils sont encore plus doux que les indignités</l>
@@ -1257,11 +1263,11 @@
 	<l id="817">Qui plaint du sexe en vous les respects violés,</l>
 	<l id="818">Votre libérateur enfin, si vous voulez.</l>
 </sp>
-<sp who="THEODORE"><speaker>Théodore.</speaker>
+<sp who="THÉODORE"><speaker>THÉODORE.</speaker>
 	<l id="819">Pardonnez donc, seigneur, à la première idée</l>
 	<l id="820">Qu'a jeté dans mon âme une peur mal fondée.</l>
 	<l id="821">De mille objets d'horreur mon esprit combattu</l>
-	<l id="822">Auroit tout soupçonné de la même vertu.</l>
+	<l id="822">Aurait tout soupçonné de la même vertu.</l>
 	<l id="823">Dans un péril si proche et si grand pour ma gloire,</l>
 	<l id="824">Comme je dois tout craindre, aussi je puis tout croire ;</l>
 	<l id="825">Et mon honneur timide, entre tant d'ennemis,</l>
@@ -1274,7 +1280,7 @@
 	<l id="832">Détruit heureusement l'ouvrage de Marcelle.</l>
 	<l id="833">Donc à votre prière il s'est laissé toucher ?</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="834">J'aurais touché plutôt un coeur tout de rocher :</l>
 	<l id="835">Soit crainte, soit amour qui possède son âme,</l>
 	<l id="836">Elle est toute asservie aux fureurs d'une femme.</l>
@@ -1301,7 +1307,7 @@
 	<l id="857">Venez me donner lieu d'aimer ma dignité,</l>
 	<l id="858">Qui fera mon bonheur et votre sûreté.</l>
 </sp>
-<sp who="THEODORE"><speaker>Théodore.</speaker>
+<sp who="THÉODORE"><speaker>THÉODORE.</speaker>
 	<l id="859">N'espérez pas, seigneur, que mon sort déplorable</l>
 	<l id="860">Me puisse à votre amour rendre plus favorable,</l>
 	<l id="861">Et que d'un si grand coup mon esprit abattu</l>
@@ -1361,16 +1367,16 @@
 	<l id="915">Pour le suivre, seigneur, souffrez que votre épée</l>
 	<l id="916" part="i">Me puisse...</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="916" part="f">Oui, vous l'aurez, mais dans mon sang trempée ;</l>
 	<l id="917">Et votre bras du moins en recevra du mien</l>
 	<l id="918">Le glorieux exemple avant que le moyen.</l>
 </sp>
-<sp who="THEODORE"><speaker>Théodore.</speaker>
+<sp who="THÉODORE"><speaker>THÉODORE.</speaker>
 	<l id="919">Ah ! Ce n'est pas pour vous un mouvement à suivre ;</l>
 	<l id="920">C'est à moi de mourir, mais c'est à vous de vivre.</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="921">Ah ! Faites-moi donc vivre, ou me laissez mourir ;</l>
 	<l id="922">Cessez de me tuer ou de me secourir.</l>
 	<l id="923">Puisque vous n'écoutez ni mes voeux ni mes larmes,</l>
@@ -1397,35 +1403,35 @@
 	<l id="944">Et sous les saints liens d'un noeud si vénérable</l>
 	<l id="945">Mettez en sûreté ce qu'on va vous ravir.</l>
 </sp>
-<sp who="THEODORE"><speaker>Théodore.</speaker>
+<sp who="THÉODORE"><speaker>THÉODORE.</speaker>
 	<l id="946">Vous n'êtes pas celui dont Dieu s'y veut servir :</l>
 	<l id="947">Il saura bien sans vous en susciter un autre,</l>
 	<l id="948">Dont le bras moins puissant, mais plus saint que le vôtre,</l>
 	<l id="949">Par un zèle plus pur se fera mon appui,</l>
-	<l id="950">Sans porter ses desirs sur un bien tout à lui.</l>
+	<l id="950">Sans porter ses désirs sur un bien tout à lui.</l>
 	<l id="951" part="i">Mais parlez à Marcelle.</l>
 </sp>
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV.</head>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="951" part="f">Ah, dieux, quelle infortune !</l>
 	<l id="952" part="i">Faut-il qu'à tous moments...</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="952" part="f">Je vous suis importune</l>
 	<l id="953">De mêler ma présence aux secrets des amants,</l>
 	<l id="954">Qui n'ont jamais besoin de pareils truchements.</l>
 </sp>
-<sp who="PAULIN"><speaker>Paulin.</speaker>
+<sp who="PAULIN"><speaker>PAULIN.</speaker>
 	<l id="955">Madame, on m'a forcé de puissance absolue.</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="956">L'ayant soufferte ainsi, vous l'avez bien voulue :</l>
 	<l id="957">Ne me répliquez plus, et me la renfermez.</l>
 </sp>
 </div2>
 <div2 type="scene" n="5"><head>SCÈNE V.</head>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="958">Ainsi donc vos désirs en sont toujours charmés,</l>
 	<l id="959">Et quand un juste arrêt la couvre d'infamie,</l>
 	<l id="960">Comme de tout l'empire et des dieux ennemie,</l>
@@ -1444,7 +1450,7 @@
 	<l id="973">Je vous en ai fait grâce en lui laissant le jour,</l>
 	<l id="974">Et j'épargne du moins un crime à votre amour.</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="975">Triomphez-en dans l'âme, et tâchez de paraître</l>
 	<l id="976">Moins insensible aux maux que vous avez fait naître.</l>
 	<l id="977">En l'état où je suis, c'est une lâcheté</l>
@@ -1494,7 +1500,7 @@
 	<l id="1021">Daignez lui donner lieu de me pouvoir guérir,</l>
 	<l id="1022">Et ne me perdez pas en voulant m'acquérir.</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="1023">Quoi ? Vous voulez enfin me devoir votre gloire !</l>
 	<l id="1024">Certes un tel miracle est difficile à croire,</l>
 	<l id="1025">Que vous, qui n'aspiriez qu'à ne me devoir rien,</l>
@@ -1521,7 +1527,7 @@
 	<l id="1046">Quand vous y pouvez tout même en la méprisant.</l>
 	<l id="1047">Mais pourrai-je à mon tour vous faire une prière ?</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="1048">Madame, au nom des dieux, faites-moi grâce entière :</l>
 	<l id="1049">En l'état où je suis, quoi qu'il puisse avenir,</l>
 	<l id="1050">Je vous dois tout promettre, et ne puis rien tenir ;</l>
@@ -1529,7 +1535,7 @@
 	<l id="1052">Ne me réduisez point à manquer de parole ;</l>
 	<l id="1053">Je crains, mais j'aime encore, et mon coeur amoureux...</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="1054">Le mien est raisonnable autant que généreux.</l>
 	<l id="1055">Je ne demande pas que vous cessiez encore</l>
 	<l id="1056">Ou de haïr Flavie, ou d'aimer Théodore :</l>
@@ -1549,7 +1555,7 @@
 	<l id="1070">Faites un peu pour moi quand je fais tout pour vous ;</l>
 	<l id="1071">Daignez pour Théodore un moment vous contraindre.</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="1072">Un moment est bien long à qui ne sait pas feindre ;</l>
 	<l id="1073">Mais vous m'en conjurez par un nom trop puissant</l>
 	<l id="1074">Pour ne rencontrer pas un coeur obéissant.</l>
@@ -1558,22 +1564,22 @@
 	<l id="1077">Et qui n'a pas pour feindre assez de liberté,</l>
 	<l id="1078">Tant que pour son objet il est inquiété.</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="1079">Allez sans plus rien craindre, ayant pour vous Marcelle.</l>
 </sp>
 </div2>
 <div2 type="scene" n="6"><head>SCÈNE VI.</head>
-<sp who="STEPHANIE"><speaker>Stéphanie.</speaker>
+<sp who="STÉPHANIE"><speaker>STÉPHANIE.</speaker>
 	<l id="1080">Enfin vous triomphez de cet esprit rebelle ?</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="1081" part="i">Quel triomphe !</l>
 </sp>
-<sp who="STEPHANIE"><speaker>Stéphanie.</speaker>
+<sp who="STÉPHANIE"><speaker>STÉPHANIE.</speaker>
 	<l id="1081" part="f">Est-ce peu que de voir à vos pieds</l>
 	<l id="1082">Sa haine et son orgueil enfin humiliés ?</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="1083">Quel triomphe, te dis-je, et qu'il a d'amertumes !</l>
 	<l id="1084">Et que nous sommes loin de ce que tu présumes !</l>
 	<l id="1085">Tu le vois à mes pieds pleurer, gémir, prier ;</l>
@@ -1594,28 +1600,28 @@
 	<l id="1100">J'ai peine en triomphant d'obtenir qu'il me trompe,</l>
 	<l id="1101">Qu'il feigne par pitié, qu'il donne un faux espoir.</l>
 </sp>
-<sp who="STEPHANIE"><speaker>Stéphanie.</speaker>
+<sp who="STÉPHANIE"><speaker>STÉPHANIE.</speaker>
 	<l id="1102">Et vous l'allez servir de tout votre pouvoir ?</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="1103">Oui, je vais le servir, mais comme il le mérite.</l>
 	<l id="1104">Toi, va par quelque adresse amuser sa visite,</l>
 	<l id="1105">Et sous un faux appas prolonger l'entretien.</l>
 </sp>
-<sp who="STEPHANIE"><speaker>Stéphanie.</speaker>
+<sp who="STÉPHANIE"><speaker>STÉPHANIE.</speaker>
 	<l id="1106" part="i">Donc...</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="1106" part="f">Le temps presse : va, sans t'informer de rien</l>
 </sp>
 </div2>
 </div1>
-<div1 type="acte" n="4"><head>ACTE IV</head>
+<div1 type="act" n="4"><head>ACTE IV</head>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
-<sp who="STEPHANIE"><speaker>Stéphanie.</speaker>
+<sp who="STÉPHANIE"><speaker>STÉPHANIE.</speaker>
 	<l id="1107" part="i">Seigneur...</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="1107" part="f">Va, Stéphanie, en vain tu me rappelles,</l>
 	<l id="1108">Ces feintes ont pour moi des gênes trop cruelles :</l>
 	<l id="1109">Marcelle en ma faveur agit trop lentement,</l>
@@ -1625,25 +1631,25 @@
 	<l id="1113">Il faut voir Théodore, il faut savoir mon sort,</l>
 	<l id="1114" part="i">Il faut...</l>
 </sp>
-<sp who="STEPHANIE"><speaker>Stéphanie.</speaker>
+<sp who="STÉPHANIE"><speaker>STÉPHANIE.</speaker>
 	<l id="1114" part="f">Ah ! Faites-vous, seigneur, un peu d'effort.</l>
 	<l id="1115">Marcelle, qui vous sert de toute sa puissance,</l>
 	<l id="1116">Mérite bien du moins cette reconnaissance.</l>
 	<l id="1117">Retournez chez Flavie attendre un bien si doux,</l>
 	<l id="1118">Et ne craignez plus rien, puisqu'elle agit pour vous.</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="1119">L'effet tarde beaucoup pour n'avoir rien à craindre :</l>
 	<l id="1120">Elle feignait peut-être en me priant de feindre.</l>
 	<l id="1121">On retire souvent le bras pour mieux frapper.</l>
 	<l id="1122">Qui veut que je la trompe a droit de me tromper.</l>
 </sp>
-<sp who="STEPHANIE"><speaker>Stéphanie.</speaker>
+<sp who="STÉPHANIE"><speaker>STÉPHANIE.</speaker>
 	<l id="1123">Considérez l'humeur implacable d'un père,</l>
 	<l id="1124">Quelle est pour les chrétiens sa haine et sa colère,</l>
 	<l id="1125">Combien il faut de temps afin de l'émouvoir.</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="1126">Hélas ! Il n'en faut guère à trahir mon espoir.</l>
 	<l id="1127">Peut-être en ce moment qu'ici tu me cajoles,</l>
 	<l id="1128">Que tu remplis mon coeur d'espérances frivoles,</l>
@@ -1656,30 +1662,30 @@
 	<l id="1135">On ne me répond point, et la porte est ouverte !</l>
 	<l id="1136" part="i">Paulin ! Madame !</l>
 </sp>
-<sp who="STEPHANIE"><speaker>Stéphanie.</speaker>
+<sp who="STÉPHANIE"><speaker>STÉPHANIE.</speaker>
 	<l id="1136" part="f">Ô dieux ! La fourbe est découverte.</l>
 	<l id="1137" part="i">Où fuirai-je ?</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="1137" part="f">Demeure, infâme, et ne crains rien :</l>
 	<l id="1138">Je ne veux pas d'un sang abject comme le tien.</l>
 	<l id="1139">Il faut à mon courroux de plus nobles victimes :</l>
 	<l id="1140">Instruis-moi seulement de l'ordre de tes crimes.</l>
 	<l id="1141">Qu'a-t-on fait de mon âme ? Où la dois-je chercher ?</l>
 </sp>
-<sp who="STEPHANIE"><speaker>Stéphanie.</speaker>
+<sp who="STÉPHANIE"><speaker>STÉPHANIE.</speaker>
 	<l id="1142">Vous n'avez pas sujet encore de vous fâcher :</l>
 	<l id="1143" part="i">Elle est...</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="1143" part="f">Dépêche, dis ce qu'en a fait Marcelle.</l>
 </sp>
-<sp who="STEPHANIE"><speaker>Stéphanie.</speaker>
+<sp who="STÉPHANIE"><speaker>STÉPHANIE.</speaker>
 	<l id="1144">Tout ce que votre amour pouvait attendre d'elle.</l>
 	<l id="1145">Peut-on croire autre chose avec quelque raison,</l>
 	<l id="1146">Quand vous voyez déjà qu'elle est hors de prison ?</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="1147">Ah ! J'en aurais déjà reçu les assurances ;</l>
 	<l id="1148">Et tu veux m'amuser de vaines apparences,</l>
 	<l id="1149">Cependant que Marcelle agit comme il lui plaît,</l>
@@ -1694,28 +1700,28 @@
 </sp>
 </div2>
 <div2 type="scene" n="2"><head>SCÈNE II.</head>
-<sp who="LYCANTE"><speaker>Lycante.</speaker>
+<sp who="LYCANTE"><speaker>LYCANTE.</speaker>
 	<l id="1157" part="f">Jugez-en mieux, seigneur :</l>
 	<l id="1158">Marcelle vous renvoie et la joie et l'honneur ;</l>
 	<l id="1159">Elle a de l'infamie arraché Théodore.</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="1160" part="i">Elle a fait ce miracle !</l>
 </sp>
-<sp who="LYCANTE"><speaker>Lycante.</speaker>
+<sp who="LYCANTE"><speaker>LYCANTE.</speaker>
 	<l id="1160" part="f">Elle a plus fait encore.</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="1161" part="i">Ne me fais plus languir, dis promptement.</l>
 </sp>
-<sp who="LYCANTE"><speaker>Lycante.</speaker>
+<sp who="LYCANTE"><speaker>LYCANTE.</speaker>
 	<l id="1161" part="f">D'abord</l>
 	<l id="1162">Valens changeait l'arrêt en un arrêt de mort...</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="1163">Ah ! Si de cet arrêt jusqu'à l'effet on passe...</l>
 </sp>
-<sp who="LYCANTE"><speaker>Lycante.</speaker>
+<sp who="LYCANTE"><speaker>LYCANTE.</speaker>
 	<l id="1164">Marcelle a refusé cette sanglante grâce :</l>
 	<l id="1165">Elle la veut entière, et tâche à l'obtenir ;</l>
 	<l id="1166">Mais Valens irrité s'obstine à la bannir,</l>
@@ -1724,26 +1730,26 @@
 	<l id="1169">Il mande Théodore, et la veut promptement</l>
 	<l id="1170">Faire conduire au lieu de son bannissement.</l>
 </sp>
-<sp who="STEPHANIE"><speaker>Stéphanie.</speaker>
+<sp who="STÉPHANIE"><speaker>STÉPHANIE.</speaker>
 	<l id="1171">Et vous vous alarmiez de voir sa prison vide ?</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="1172">Tout fait peur à l'amour, c'est un enfant timide ;</l>
 	<l id="1173">Et si tu le connais, tu me dois pardonner.</l>
 </sp>
-<sp who="LYCANTE"><speaker>Lycante.</speaker>
+<sp who="LYCANTE"><speaker>LYCANTE.</speaker>
 	<l id="1174">Elle fait ses efforts pour vous la ramener,</l>
 	<l id="1175">Et vous conjure encore un moment de l'attendre.</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="1176">Quelles grâces, bons dieux, ne lui dois-je point rendre !</l>
 	<l id="1177">Va, dis-lui que j'attends ici ce grand succès,</l>
 	<l id="1178">Où sa bonté pour moi paraît avec excès.</l>
 </sp>
-<sp who="STEPHANIE"><speaker>Stéphanie.</speaker>
+<sp who="STÉPHANIE"><speaker>STÉPHANIE.</speaker>
 	<l id="1179">Et moi je vais pour vous consoler sa Flavie.</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="1180">Fais-lui donc quelque excuse à flatter son envie,</l>
 	<l id="1181">Et dis-lui de ma part tout ce que tu voudras :</l>
 	<l id="1182">Mon âme n'eut jamais les sentiments ingrats,</l>
@@ -1759,78 +1765,78 @@
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III.</head>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="1192">Vous ne me direz plus qu'on vous l'a mise en garde,</l>
 	<l id="1193" part="i">Paulin ?</l>
 </sp>
-<sp who="PAULIN"><speaker>Paulin.</speaker>
+<sp who="PAULIN"><speaker>PAULIN.</speaker>
 	<l id="1193" part="f">Elle n'est plus, seigneur, en mon pouvoir.</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="1194" part="i">Quoi ? Vous en soupirez ?</l>
 </sp>
-<sp who="PAULIN"><speaker>Paulin.</speaker>
+<sp who="PAULIN"><speaker>PAULIN.</speaker>
 	<l id="1194" part="f">Je pense le devoir.</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="1195">Soupirer du bonheur que le ciel me renvoie !</l>
 </sp>
-<sp who="PAULIN"><speaker>Paulin.</speaker>
+<sp who="PAULIN"><speaker>PAULIN.</speaker>
 	<l id="1196">Je ne vois pas pour vous de grands sujets de joie.</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="1197">Qu'on la bannisse ou non, je la verrai toujours.</l>
 </sp>
-<sp who="PAULIN"><speaker>Paulin.</speaker>
+<sp who="PAULIN"><speaker>PAULIN.</speaker>
 	<l id="1198">Quel fruit de cette vue espèrent vos amours ?</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="1199">Le temps adoucira cette âme rigoureuse.</l>
 </sp>
-<sp who="PAULIN"><speaker>Paulin.</speaker>
+<sp who="PAULIN"><speaker>PAULIN.</speaker>
 	<l id="1200">Le temps ne rendra pas la vôtre plus heureuse.</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="1201">Sans doute elle aura peine à me laisser périr.</l>
 </sp>
-<sp who="PAULIN"><speaker>Paulin.</speaker>
+<sp who="PAULIN"><speaker>PAULIN.</speaker>
 	<l id="1202">Qui le peut espérer devait la secourir.</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="1203">Marcelle a fait pour moi tout ce que j'ai dû faire.</l>
 </sp>
-<sp who="PAULIN"><speaker>Paulin.</speaker>
+<sp who="PAULIN"><speaker>PAULIN.</speaker>
 	<l id="1204">Je n'ai donc rien à dire et dois ici me taire.</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="1205">Non, non, il faut parler avec sincérité,</l>
 	<l id="1206">Et louer hautement sa générosité.</l>
 </sp>
-<sp who="PAULIN"><speaker>Paulin.</speaker>
+<sp who="PAULIN"><speaker>PAULIN.</speaker>
 	<l id="1207">Si vous me l'ordonnez, je louerai donc sa rage.</l>
 	<l id="1208">Mais depuis quand, seigneur, changez-vous de courage ?</l>
 	<l id="1209">Depuis quand pour vertu prenez-vous la fureur ?</l>
 	<l id="1210">Depuis quand louez-vous ce qui doit faire horreur ?</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="1211">Ah ! Je tremble à ces mots que j'ai peine à comprendre.</l>
 </sp>
-<sp who="PAULIN"><speaker>Paulin.</speaker>
+<sp who="PAULIN"><speaker>PAULIN.</speaker>
 	<l id="1212">Je ne sais pas, seigneur, ce qu'on vous fait entendre,</l>
 	<l id="1213">Ou quel puissant motif retient votre courroux ;</l>
 	<l id="1214">Mais Théodore enfin n'est plus digne de vous.</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="1215">Quoi ? Marcelle en effet ne l'a pas garantie ?</l>
 </sp>
-<sp who="PAULIN"><speaker>Paulin.</speaker>
+<sp who="PAULIN"><speaker>PAULIN.</speaker>
 	<l id="1216">À peine d'avec vous, seigneur, elle est sortie,</l>
 	<l id="1217">Que l'âme toute en feu, les yeux étincelants,</l>
 	<l id="1218">Rapportant elle-même un ordre de Valens,</l>
 	<l id="1219">Avec trente soldats elle a saisi la porte,</l>
 	<l id="1220">Et tirant de ce lieu Théodore à main-forte...</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="1221">Ô dieux ! Jusqu'à ses pieds j'ai donc pu m'abaisser,</l>
 	<l id="1222">Pour voir trahir des voeux qu'elle a feint d'exaucer,</l>
 	<l id="1223">Et pour en recevoir avec tant d'insolence</l>
@@ -1842,7 +1848,7 @@
 	<l id="1229">Et sur quels insolents, après son châtiment,</l>
 	<l id="1230">Doit choir le reste affreux de mon ressentiment.</l>
 </sp>
-<sp who="PAULIN"><speaker>Paulin.</speaker>
+<sp who="PAULIN"><speaker>PAULIN.</speaker>
 	<l id="1231">Armez-vous donc, seigneur, d'un peu de patience,</l>
 	<l id="1232">Et forcez vos transports à me prêter silence,</l>
 	<l id="1233">Tandis que le récit d'une injuste rigueur</l>
@@ -1856,14 +1862,14 @@
 	<l id="1241">Et vous étiez le dieu que dans mes déplaisirs</l>
 	<l id="1242">En secret pour les rompre invoquaient mes soupirs.</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="1243">Ah ! Pour gagner ce temps on charmait mon courage</l>
 	<l id="1244">D'une fausse promesse, et puis d'un faux message ;</l>
 	<l id="1245">Et j'ai cru dans ces coeurs de la sincérité !</l>
 	<l id="1246">Ne fais plus de reproche à ma crédulité,</l>
 	<l id="1247" part="i">Et poursuis.</l>
 </sp>
-<sp who="PAULIN"><speaker>Paulin.</speaker>
+<sp who="PAULIN"><speaker>PAULIN.</speaker>
 	<l id="1247" part="f">Dans ces lieux à peine on l'a traînée,</l>
 	<l id="1248">Qu'on a vu des soldats la troupe mutinée :</l>
 	<l id="1249">Tous courent à la proie avec avidité,</l>
@@ -1872,10 +1878,10 @@
 	<l id="1252">Naître quelque discorde à ces tigres fatale,</l>
 	<l id="1253" part="i">Quand Didyme...</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="1253" part="m">Ah, le lâche ! Ah, le traître !</l>
 </sp>
-<sp who="PAULIN"><speaker>Paulin.</speaker>
+<sp who="PAULIN"><speaker>PAULIN.</speaker>
 	<l id="1253" part="f">écoutez.</l>
 	<l id="1254">Ce traître a réuni toutes leurs volontés ;</l>
 	<l id="1255">Le front plein d'impudence et l'oeil armé d'audace :</l>
@@ -1892,22 +1898,22 @@
 	<l id="1266">Ces coeurs en sa faveur tombent soudain d'accord :</l>
 	<l id="1267" part="i">Il entre sans obstacle.</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="1267" part="f">Il y mourra, l'infâme !</l>
 	<l id="1268">Viens me voir dans ses bras lui faire vomir l'âme,</l>
 	<l id="1269">Viens voir de ma colère un juste et prompt effet</l>
 	<l id="1270">Joindre en ces mêmes lieux la peine à son forfait,</l>
 	<l id="1271">Confondre son triomphe avec son supplice.</l>
 </sp>
-<sp who="PAULIN"><speaker>Paulin.</speaker>
+<sp who="PAULIN"><speaker>PAULIN.</speaker>
 	<l id="1272">Ce n'est pas en ces lieux qu'il vous fera justice :</l>
 	<l id="1273" part="i">Didyme en est sorti.</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="1273" part="f">Quoi, Paulin ? Ce voleur</l>
 	<l id="1274">A déjà par sa fuite évité ma douleur !</l>
 </sp>
-<sp who="PAULIN"><speaker>Paulin.</speaker>
+<sp who="PAULIN"><speaker>PAULIN.</speaker>
 	<l id="1275">Oui ; mais il n'était plus, en sortant, ce Didyme</l>
 	<l id="1276">Dont l'orgueil insolent demandait sa victime ;</l>
 	<l id="1277">Ses cheveux sur son front s'efforçaient de cacher</l>
@@ -1927,19 +1933,19 @@
 	<l id="1291">Met l'épée à la main, tourne en fuite le reste,</l>
 	<l id="1292" part="i">Entre...</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="1292" part="m">Lui seul ?</l>
 </sp>
-<sp who="PAULIN"><speaker>Paulin.</speaker>
+<sp who="PAULIN"><speaker>PAULIN.</speaker>
 	<l id="1292" part="m">Lui seul.</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="1292" part="f">Ah, dieux ! Quel coup funeste !</l>
 </sp>
-<sp who="PAULIN"><speaker>Paulin.</speaker>
+<sp who="PAULIN"><speaker>PAULIN.</speaker>
 	<l id="1293">Sans doute il n'est entré que pour l'en retirer.</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="1294">Dis, dis qu'il est entré pour la déshonorer,</l>
 	<l id="1295">Et que le sort cruel, pour hâter ma ruine,</l>
 	<l id="1296">Veut qu'après un rival un ami m'assassine.</l>
@@ -1947,17 +1953,17 @@
 	<l id="1298">Montrait-il de l'audace ou quelque repentir ?</l>
 	<l id="1299" part="i">Qui des siens l'a suivi ?</l>
 </sp>
-<sp who="PAULIN"><speaker>Paulin.</speaker>
+<sp who="PAULIN"><speaker>PAULIN.</speaker>
 	<l id="1299" part="f">Cette troupe fidèle</l>
 	<l id="1300">M'a chassé comme chef des soldats de Marcelle :</l>
 	<l id="1301">Je n'ai rien vu de plus ; mais loin de le blâmer,</l>
 	<l id="1302" part="i">Je présume...</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="1302" part="f">Ah ! Je sais ce qu'il faut présumer.</l>
 	<l id="1303" part="i">Il est entré lui seul.</l>
 </sp>
-<sp who="PAULIN"><speaker>Paulin.</speaker>
+<sp who="PAULIN"><speaker>PAULIN.</speaker>
 	<l id="1303" part="f">Ayant si peu d'escorte,</l>
 	<l id="1304">C'est ainsi qu'il a dû s'assurer de la porte ;</l>
 	<l id="1305">Et si là tous ensemble il ne les eût laissés,</l>
@@ -1967,85 +1973,85 @@
 </sp>
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV.</head>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="1309">Eh bien ! Votre parente ? Elle est hors de ces lieux</l>
 	<l id="1310">Où l'on sacrifiait sa pudeur à nos dieux ?</l>
 </sp>
-<sp who="CLEOBULE"><speaker>Cléobule.</speaker>
+<sp who="CLÉOBULE"><speaker>CLÉOBULE.</speaker>
 	<l id="1311" part="i">Oui, seigneur.</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="1311" part="f">J'ai regret qu'un coeur si magnanime</l>
 	<l id="1312">Se soit ainsi laissé prévenir par Didyme.</l>
 </sp>
-<sp who="CLEOBULE"><speaker>Cléobule.</speaker>
+<sp who="CLÉOBULE"><speaker>CLÉOBULE.</speaker>
 	<l id="1313">J'en dois être honteux ; mais je m'étonne fort</l>
 	<l id="1314">Qui vous a pu sitôt en faire le rapport :</l>
 	<l id="1315">J'en croyais apporter les premières nouvelles.</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="1316">Grâces aux dieux, sans vous j'ai des amis fidèles.</l>
 	<l id="1317">Mais ne différez plus à me la faire voir.</l>
 </sp>
-<sp who="CLEOBULE"><speaker>Cléobule.</speaker>
+<sp who="CLÉOBULE"><speaker>CLÉOBULE.</speaker>
 	<l id="1318" part="i">Qui, seigneur ?</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="1318" part="m">Théodore.</l>
 </sp>
-<sp who="CLEOBULE"><speaker>Cléobule.</speaker>
+<sp who="CLÉOBULE"><speaker>CLÉOBULE.</speaker>
 	<l id="1318" part="f">Est-elle en mon pouvoir ?</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="1319">Ne me dites-vous pas que vous l'avez sauvée ?</l>
 </sp>
-<sp who="CLEOBULE"><speaker>Cléobule.</speaker>
+<sp who="CLÉOBULE"><speaker>CLÉOBULE.</speaker>
 	<l id="1320">Je vous le dirais ! Moi qui ne l'ai plus trouvée !</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="1321">Quoi ? Soudain par un charme elle avait disparu ?</l>
 </sp>
-<sp who="CLEOBULE"><speaker>Cléobule.</speaker>
+<sp who="CLÉOBULE"><speaker>CLÉOBULE.</speaker>
 	<l id="1322">Puisque déjà ce bruit jusqu'à vous a couru,</l>
 	<l id="1323">Vous savez que sans charme elle a fui sa disgrâce,</l>
 	<l id="1324">Que je n'ai plus trouvé que Didyme en sa place :</l>
 	<l id="1325">Quel plaisir prenez-vous à me le déguiser ?</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="1326">Quel plaisir prenez-vous vous-même à m'abuser,</l>
 	<l id="1327">Quand Paulin de ses yeux a vu sortir Didyme ?</l>
 </sp>
-<sp who="CLEOBULE"><speaker>Cléobule.</speaker>
+<sp who="CLÉOBULE"><speaker>CLÉOBULE.</speaker>
 	<l id="1328">Si ses yeux l'ont trompé, l'erreur est légitime ;</l>
 	<l id="1329">Et si vous n'en savez que ce qu'il vous a dit,</l>
 	<l id="1330">écoutez-en, seigneur, un fidèle récit.</l>
 	<l id="1331">Vous ignorez encore la meilleure partie :</l>
 	<l id="1332">Sous l'habit de Didyme elle-même est sortie.</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="1333" part="i">Qui ?</l>
 </sp>
-<sp who="CLEOBULE"><speaker>Cléobule.</speaker>
+<sp who="CLÉOBULE"><speaker>CLÉOBULE.</speaker>
 	<l id="1333" part="f">Votre Théodore ; et cet audacieux</l>
 	<l id="1334">Sous le sien, au lieu d'elle, est resté dans ces lieux.</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="1335">Que dis-tu, Cléobule ? Ils ont fait cet échange ?</l>
 </sp>
-<sp who="CLEOBULE"><speaker>Cléobule.</speaker>
+<sp who="CLÉOBULE"><speaker>CLÉOBULE.</speaker>
 	<l id="1336">C'est une nouveauté qui doit sembler étrange...</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="1337">Et qui me porte encor de plus étranges coups.</l>
-	<l id="1338">Vois si c'est sans raison que j'en étois jaloux ;</l>
+	<l id="1338">Vois si c'est sans raison que j'en étais jaloux ;</l>
 	<l id="1339">Et malgré les avis de ta fausse prudence,</l>
 	<l id="1340">Juge de leur amour par leur intelligence.</l>
 </sp>
-<sp who="CLEOBULE"><speaker>Cléobule.</speaker>
+<sp who="CLÉOBULE"><speaker>CLÉOBULE.</speaker>
 	<l id="1341">J'ose en douter encore, et je ne vois pas bien</l>
 	<l id="1342">Si c'est zèle d'amant ou fureur de chrétien.</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="1343">Non, non, ce téméraire, au péril de sa tête,</l>
 	<l id="1344">A mis en sûreté son illustre conquête :</l>
 	<l id="1345">Par tant de feints mépris elle qui t'abusait</l>
@@ -2065,7 +2071,7 @@
 	<l id="1359">Après un tel affront et de telles offenses,</l>
 	<l id="1360">M'aurait-on envié la douceur des vengeances ?</l>
 </sp>
-<sp who="CLEOBULE"><speaker>Cléobule.</speaker>
+<sp who="CLÉOBULE"><speaker>CLÉOBULE.</speaker>
 	<l id="1361">Vous le verriez déjà, si j'avais pu souffrir</l>
 	<l id="1362">Qu'en cet habit de fille on vous le vînt offrir.</l>
 	<l id="1363">J'ai cru que sa valeur et l'éclat de sa race</l>
@@ -2074,16 +2080,16 @@
 	<l id="1366">Si jusque-là, seigneur, elle étend sa pitié.</l>
 	<l id="1367">Le voici qu'Amyntas vous amène à main-forte.</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="1368">Pourrai-je retenir la fureur qui m'emporte ?</l>
 </sp>
-<sp who="CLEOBULE"><speaker>Cléobule.</speaker>
+<sp who="CLÉOBULE"><speaker>CLÉOBULE.</speaker>
 	<l id="1369">Seigneur, réglez si bien ce violent courroux,</l>
 	<l id="1370">Qu'il n'en échappe rien trop indigne de vous.</l>
 </sp>
 </div2>
 <div2 type="scene" n="5"><head>SCÈNE V.</head>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="1371">Approche, heureux rival, heureux choix d'une ingrate,</l>
 	<l id="1372">Dont je vois qu'à ma honte enfin l'amour éclate.</l>
 	<l id="1373">C'est donc pour t'enrichir d'un si noble butin</l>
@@ -2093,10 +2099,10 @@
 	<l id="1377">Dans ces lieux dignes d'elle elle a reçu ta foi,</l>
 	<l id="1378">Et pris l'occasion de se donner à toi ?</l>
 </sp>
-<sp who="DIDYME"><speaker>Didyme.</speaker>
+<sp who="DIDYME"><speaker>DIDYME.</speaker>
 	<l id="1379">Ah ! Seigneur, traitez mieux une vertu parfaite.</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="1380">Ah ! Je sais mieux que toi comme il faut qu'on la traite.</l>
 	<l id="1381">J'en connais l'artifice, et de tous ses mépris.</l>
 	<l id="1382">Sur quelle confiance as-tu tant entrepris ?</l>
@@ -2108,7 +2114,7 @@
 	<l id="1388">Son amant tout ensemble et l'agent de Marcelle ?</l>
 	<l id="1389">Qu'en as-tu fait enfin ? Où me la caches-tu ?</l>
 </sp>
-<sp who="DIDYME"><speaker>Didyme.</speaker>
+<sp who="DIDYME"><speaker>DIDYME.</speaker>
 	<l id="1390">Derechef jugez mieux de la même vertu.</l>
 	<l id="1391">Je n'ai rien entrepris, ni comme amant fidèle,</l>
 	<l id="1392">Ni comme impie agent des fureurs de Marcelle,</l>
@@ -2129,23 +2135,23 @@
 	<l id="1407">Comme je n'en prétends ni faveur ni salaire,</l>
 	<l id="1408">J'ai voulu l'ignorer, afin de le mieux taire.</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="1409">Ah ! Tu me fais ici des contes superflus :</l>
 	<l id="1410">J'ai trop été crédule, et je ne le suis plus.</l>
 	<l id="1411">Quoi ? Sans rien obtenir, sans même rien prétendre,</l>
 	<l id="1412">Un zèle de chrétien t'a fait tout entreprendre ?</l>
 	<l id="1413">Quel prodige pareil s'est jamais rencontré ?</l>
 </sp>
-<sp who="DIDYME"><speaker>Didyme.</speaker>
+<sp who="DIDYME"><speaker>DIDYME.</speaker>
 	<l id="1414">Paulin vous aura dit comme je suis entré ;</l>
 	<l id="1415">Prêtez l'oreille au reste, et punissez ensuite</l>
 	<l id="1416">Tout ce que vous verrez de coupable en sa fuite.</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="1417">Dis, mais en peu de mots, et sûr que les tourments</l>
 	<l id="1418">M'auront bientôt vengé de tes déguisements.</l>
 </sp>
-<sp who="DIDYME"><speaker>Didyme.</speaker>
+<sp who="DIDYME"><speaker>DIDYME.</speaker>
 	<l id="1419">La princesse, à ma vue également atteinte</l>
 	<l id="1420">D'étonnement, d'horreur, de colère et de crainte,</l>
 	<l id="1421">À tant de passions exposée à la fois,</l>
@@ -2181,17 +2187,17 @@
 	<l id="1451">Mais Dieu la persuade, et notre combat cesse.</l>
 	<l id="1452">Je vois, suivant mes voeux, échapper la princesse.</l>
 </sp>
-<sp who="PAULIN"><speaker>Paulin.</speaker>
+<sp who="PAULIN"><speaker>PAULIN.</speaker>
 	<l id="1453">C'était donc à dessein qu'elle cachait ses yeux,</l>
 	<l id="1454">Comme rouges de honte, en sortant de ces lieux ?</l>
 </sp>
-<sp who="DIDYME"><speaker>Didyme.</speaker>
+<sp who="DIDYME"><speaker>DIDYME.</speaker>
 	<l id="1455">En lui disant adieu, je l'en avais instruite,</l>
 	<l id="1456">Et le ciel a daigné favoriser sa fuite.</l>
 	<l id="1457">Seigneur, ce peu de mots suffit pour vous guérir :</l>
 	<l id="1458">Vivez sans jalousie, et m'envoyez mourir.</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="1459">Hélas ! Et le moyen d'être sans jalousie,</l>
 	<l id="1460">Lorsque ce cher objet te doit plus que la vie ?</l>
 	<l id="1461">Ta courageuse adresse à ses divins appas</l>
@@ -2221,10 +2227,10 @@
 	<l id="1485">Tu m'as sauvé l'honneur, j'assurerai tes jours,</l>
 	<l id="1486">Et mourrai, s'il le faut, moi-même à ton secours.</l>
 </sp>
-<sp who="DIDYME"><speaker>Didyme.</speaker>
+<sp who="DIDYME"><speaker>DIDYME.</speaker>
 	<l id="1487" part="i">Seigneur...</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="1487" part="f">Ne me dis rien. Après de tels services,</l>
 	<l id="1488">Je n'ai rien à prétendre, à moins que tu périsses.</l>
 	<l id="1489">Je le sais, je l'ai dit ; mais dans ce triste état</l>
@@ -2232,9 +2238,9 @@
 </sp>
 </div2>
 </div1>
-<div1 type="acte" n="5"><head>ACTE V</head>
+<div1 type="act" n="5"><head>ACTE V</head>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
-<sp who="PAULIN"><speaker>Paulin.</speaker>
+<sp who="PAULIN"><speaker>PAULIN.</speaker>
 	<l id="1491">Oui, Valens pour Placide a beaucoup d'indulgence ;</l>
 	<l id="1492">Il est même en secret de son intelligence :</l>
 	<l id="1493">C'était par cet arrêt lui qu'il considérait,</l>
@@ -2256,7 +2262,7 @@
 	<l id="1509">Il craint qu'un indiscret la vienne révéler,</l>
 	<l id="1510">Et n'osera rien plus que de dissimuler.</l>
 </sp>
-<sp who="CLEOBULE"><speaker>Cléobule.</speaker>
+<sp who="CLÉOBULE"><speaker>CLÉOBULE.</speaker>
 	<l id="1511">Cependant vous savez, pour grand que soit ce crime,</l>
 	<l id="1512">Ce qu'a juré Placide en faveur de Didyme.</l>
 	<l id="1513">Piqué contre Marcelle, il cherche à la braver,</l>
@@ -2267,16 +2273,16 @@
 	<l id="1518">Que je crains pour Marcelle et même pour Valens.</l>
 	<l id="1519">Mais a-t-il condamné ce généreux coupable ?</l>
 </sp>
-<sp who="PAULIN"><speaker>Paulin.</speaker>
+<sp who="PAULIN"><speaker>PAULIN.</speaker>
 	<l id="1520">Il l'interroge encore, mais en juge implacable.</l>
 </sp>
-<sp who="CLEOBULE"><speaker>Cléobule.</speaker>
+<sp who="CLÉOBULE"><speaker>CLÉOBULE.</speaker>
 	<l id="1521">Il m'a permis pourtant de l'attendre en ce lieu,</l>
 	<l id="1522">Pour tâcher à le vaincre, ou pour lui dire adieu.</l>
 	<l id="1523">Ah ! Qu'il dissiperait un dangereux orage,</l>
 	<l id="1524">S'il voulait à nos dieux rendre le moindre hommage !</l>
 </sp>
-<sp who="PAULIN"><speaker>Paulin.</speaker>
+<sp who="PAULIN"><speaker>PAULIN.</speaker>
 	<l id="1525">Quand de sa folle erreur vous l'auriez diverti,</l>
 	<l id="1526">En vain de ce péril vous le croiriez sorti.</l>
 	<l id="1527">Flavie est aux abois, Théodore échappée</l>
@@ -2286,7 +2292,7 @@
 	<l id="1531">Et si, comme on ne peut s'en prendre qu'à Didyme,</l>
 	<l id="1532">Son époux lui voudra refuser sa victime.</l>
 </sp>
-<sp who="CLEOBULE"><speaker>Cléobule.</speaker>
+<sp who="CLÉOBULE"><speaker>CLÉOBULE.</speaker>
 	<l id="1533">Ah ! Paulin, un chrétien à nos autels réduit</l>
 	<l id="1534">Fait auprès des Césars un trop précieux bruit :</l>
 	<l id="1535">Il leur devient trop cher pour souffrir qu'il périsse.</l>
@@ -2294,11 +2300,11 @@
 </sp>
 </div2>
 <div2 type="scene" n="2"><head>SCÈNE II.</head>
-<sp who="CLEOBULE"><speaker>Cléobule.</speaker>
+<sp who="CLÉOBULE"><speaker>CLÉOBULE.</speaker>
 	<l id="1537">Lycante, souffre ici l'adieu de deux amis,</l>
 	<l id="1538">Et me donne un moment que Valens m'a promis.</l>
 </sp>
-<sp who="LYCANTE"><speaker>Lycante.</speaker>
+<sp who="LYCANTE"><speaker>LYCANTE.</speaker>
 	<l id="1539">J'en ai l'ordre, et je vais disposer ma cohorte</l>
 	<l id="1540">À garder cependant les dehors de la porte.</l>
 	<l id="1541">Je ne mets point d'obstacle à vos derniers secrets ;</l>
@@ -2306,18 +2312,18 @@
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III.</head>
-<sp who="CLEOBULE"><speaker>Cléobule.</speaker>
+<sp who="CLÉOBULE"><speaker>CLÉOBULE.</speaker>
 	<l id="1543">Ce n'est point, cher ami, le coeur troublé d'alarmes</l>
 	<l id="1544">Que je t'attends ici pour te donner des larmes ;</l>
 	<l id="1545">Un astre plus bénin vient d'éclairer tes jours :</l>
 	<l id="1546" part="i">Il faut vivre, Didyme, il faut vivre.</l>
 </sp>
-<sp who="DIDYME"><speaker>Didyme.</speaker>
+<sp who="DIDYME"><speaker>DIDYME.</speaker>
 	<l id="1546" part="f">Et j'y cours.</l>
 	<l id="1547">Pour la cause de Dieu s'offrir en sacrifice,</l>
 	<l id="1548">C'est courir à la vie, et non pas au supplice.</l>
 </sp>
-<sp who="CLEOBULE"><speaker>Cléobule.</speaker>
+<sp who="CLÉOBULE"><speaker>CLÉOBULE.</speaker>
 	<l id="1549">Peut-être dans ta secte est-ce une vision ;</l>
 	<l id="1550">Mais l'heur que je t'apporte est sans illusion.</l>
 	<l id="1551">Théodore est à toi : ce dernier témoignage</l>
@@ -2325,7 +2331,7 @@
 	<l id="1553">A si bien en amour changé tous ses mépris,</l>
 	<l id="1554">Qu'elle t'attend chez moi pour t'en donner le prix.</l>
 </sp>
-<sp who="DIDYME"><speaker>Didyme.</speaker>
+<sp who="DIDYME"><speaker>DIDYME.</speaker>
 	<l id="1555">Que me sert son amour et sa reconnaissance,</l>
 	<l id="1556">Alors que leur effet n'est plus en sa puissance ?</l>
 	<l id="1557">Et qui t'amène ici par ce frivole attrait</l>
@@ -2337,7 +2343,7 @@
 	<l id="1563">Dans sa haine et sa flamme également à craindre,</l>
 	<l id="1564">Et moi dans l'une et l'autre également à plaindre !</l>
 </sp>
-<sp who="CLEOBULE"><speaker>Cléobule.</speaker>
+<sp who="CLÉOBULE"><speaker>CLÉOBULE.</speaker>
 	<l id="1565">Ne te figure point d'impossibilité</l>
 	<l id="1566">Où tu fais, si tu veux, trop de facilité,</l>
 	<l id="1567">Où tu n'as qu'à te faire un moment de contrainte.</l>
@@ -2345,11 +2351,11 @@
 	<l id="1569">Un peu d'encens offert aux pieds de leurs autels</l>
 	<l id="1570">Peut égaler ton sort au sort des immortels.</l>
 </sp>
-<sp who="DIDYME"><speaker>Didyme.</speaker>
+<sp who="DIDYME"><speaker>DIDYME.</speaker>
 	<l id="1571">Et pour cela vers moi Théodore t'envoie ?</l>
 	<l id="1572">Son esprit adouci me veut par cette voie ?</l>
 </sp>
-<sp who="CLEOBULE"><speaker>Cléobule.</speaker>
+<sp who="CLÉOBULE"><speaker>CLÉOBULE.</speaker>
 	<l id="1573">Non, elle ignore encore que tu sois arrêté ;</l>
 	<l id="1574">Mais ose en sa faveur te mettre en liberté ;</l>
 	<l id="1575">Ose te dérober aux fureurs de Marcelle,</l>
@@ -2357,7 +2363,7 @@
 	<l id="1577">Où son coeur généreux te laisse entre ses bras</l>
 	<l id="1578">être avec sûreté tout ce que tu voudras.</l>
 </sp>
-<sp who="DIDYME"><speaker>Didyme.</speaker>
+<sp who="DIDYME"><speaker>DIDYME.</speaker>
 	<l id="1579">Va, dangereux ami que l'enfer me suscite,</l>
 	<l id="1580">Ton damnable artifice en vain me sollicite :</l>
 	<l id="1581">Mon coeur, inébranlable aux plus cruels tourments,</l>
@@ -2384,16 +2390,16 @@
 </sp>
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV.</head>
-<sp who="DIDYME"><speaker>Didyme.</speaker>
+<sp who="DIDYME"><speaker>DIDYME.</speaker>
 	<l id="1602">Pensez-vous m'arracher la palme de la main,</l>
 	<l id="1603">Madame, et mieux que lui m'expliquant votre envie,</l>
 	<l id="1604">Par un charme plus fort m'attacher à la vie ?</l>
 </sp>
-<sp who="THEODORE"><speaker>Théodore.</speaker>
+<sp who="THÉODORE"><speaker>THÉODORE.</speaker>
 	<l id="1605">Oui, Didyme, il faut vivre et me laisser mourir :</l>
 	<l id="1606">C'est à moi qu'on en veut, c'est à moi de périr.</l>
 </sp>
-<sp who="CLEOBULE"><speaker>Cléobule.</speaker>
+<sp who="CLÉOBULE"><speaker>CLÉOBULE.</speaker>
 	<l id="1607">Ô dieux ! Quelle fureur aujourd'hui vous possède ?</l>
 	<l id="1608">Mais prévenons le mal par le dernier remède :</l>
 	<l id="1609">Je cours trouver Placide ; et toi, tire en longueur</l>
@@ -2401,11 +2407,11 @@
 </sp>
 </div2>
 <div2 type="scene" n="5"><head>SCÈNE V.</head>
-<sp who="DIDYME"><speaker>Didyme.</speaker>
+<sp who="DIDYME"><speaker>DIDYME.</speaker>
 	<l id="1611">Quoi ? Ne craignez-vous point qu'une rage ennemie</l>
 	<l id="1612">Vous fasse de nouveau traîner à l'infamie ?</l>
 </sp>
-<sp who="THEODORE"><speaker>Théodore.</speaker>
+<sp who="THÉODORE"><speaker>THÉODORE.</speaker>
 	<l id="1613">Non, non, Flavie est morte, et Marcelle en fureur</l>
 	<l id="1614">Dédaigne un châtiment qui m'a fait tant d'horreur ;</l>
 	<l id="1615">Je n'en ai rien à craindre, et Dieu me le révèle :</l>
@@ -2420,14 +2426,14 @@
 	<l id="1624">C'est le droit de mourir, c'est l'honneur du martyre.</l>
 	<l id="1625">À quel titre peux-tu me retenir mon bien ?</l>
 </sp>
-<sp who="DIDYME"><speaker>Didyme.</speaker>
+<sp who="DIDYME"><speaker>DIDYME.</speaker>
 	<l id="1626">À quel droit voulez-vous vous emparer du mien ?</l>
 	<l id="1627">C'est à moi qu'appartient, quoi que vous puissiez dire,</l>
 	<l id="1628">Et le droit de mourir, et l'honneur du martyre ;</l>
 	<l id="1629">De sort comme d'habits nous avons su changer,</l>
 	<l id="1630">Et l'arrêt de Valens me le vient d'adjuger.</l>
 </sp>
-<sp who="THEODORE"><speaker>Théodore.</speaker>
+<sp who="THÉODORE"><speaker>THÉODORE.</speaker>
 	<l id="1631">Il ne t'a condamné qu'au lieu de Théodore ;</l>
 	<l id="1632">Mais si l'arrêt t'en plaît, l'effet m'en déshonore.</l>
 	<l id="1633">Te voir au lieu de moi payer Dieu de ton sang,</l>
@@ -2441,7 +2447,7 @@
 	<l id="1641">Mais si dans l'infamie il vient la secourir,</l>
 	<l id="1642">Sitôt qu'on veut son sang il la laisse mourir.</l>
 </sp>
-<sp who="DIDYME"><speaker>Didyme.</speaker>
+<sp who="DIDYME"><speaker>DIDYME.</speaker>
 	<l id="1643">Sur cet exemple donc ne trouvez pas étrange,</l>
 	<l id="1644">Puisqu'il se sert ici d'un homme au lieu d'un ange,</l>
 	<l id="1645">S'il daigne mettre au rang de ces esprits heureux</l>
@@ -2451,17 +2457,17 @@
 	<l id="1649">Quand ce qu'il m'a fait faire a pu m'en acquérir</l>
 	<l id="1650">Et l'honneur du martyre et le droit de mourir.</l>
 </sp>
-<sp who="THEODORE"><speaker>Théodore.</speaker>
+<sp who="THÉODORE"><speaker>THÉODORE.</speaker>
 	<l id="1651">Tu t'obstines en vain, la haine de Marcelle...</l>
 </sp>
 </div2>
 <div2 type="scene" n="6"><head>SCÈNE VI.</head>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="1652">Avec quelque douceur j'en reçois la nouvelle :</l>
 	<l id="1653">Non que mes déplaisirs s'en puissent soulager,</l>
 	<l id="1654">Mais c'est toujours beaucoup que se pouvoir venger.</l>
 </sp>
-<sp who="THEODORE"><speaker>Théodore.</speaker>
+<sp who="THÉODORE"><speaker>THÉODORE.</speaker>
 	<l id="1655">Madame, je vous viens rendre votre victime ;</l>
 	<l id="1656">Ne le retenez plus, ma fuite est tout son crime :</l>
 	<l id="1657">Ce n'est qu'au lieu de moi qu'on le mène à l'autel,</l>
@@ -2469,7 +2475,7 @@
 	<l id="1659">C'est pour moi que Placide a dédaigné Flavie ;</l>
 	<l id="1660">C'est moi par conséquent qui lui coûte la vie.</l>
 </sp>
-<sp who="DIDYME"><speaker>Didyme.</speaker>
+<sp who="DIDYME"><speaker>DIDYME.</speaker>
 	<l id="1661">Non : c'est moi seul, madame, et vous l'avez pu voir,</l>
 	<l id="1662">Qui sauvant sa rivale, ai fait son désespoir.</l>
 	<l id="1663">C'est moi de qui l'audace a terminé sa vie,</l>
@@ -2477,7 +2483,7 @@
 	<l id="1665">Et sur qui doit verser ce courage irrité</l>
 	<l id="1666">Tout ce que la vengeance a de sévérité.</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="1667">Ô couple de ma perte également coupable !</l>
 	<l id="1668">Sacrilèges auteurs du malheur qui m'accable,</l>
 	<l id="1669">Qui dans ce vain débat vous vantez à l'envi,</l>
@@ -2497,15 +2503,15 @@
 	<l id="1683">Dans ce gouffre de maux c'est lui qui m'a plongée,</l>
 	<l id="1684">Et si je l'en punis, je suis assez vengée.</l>
 </sp>
-<sp who="THEODORE"><speaker>Théodore.</speaker>
+<sp who="THÉODORE"><speaker>THÉODORE.</speaker>
 	<l id="1685">J'ai donc enfin gagné, Didyme, et tu le vois :</l>
 	<l id="1686">L'arrêt est prononcé, c'est moi dont on fait choix,</l>
 	<l id="1687">C'est moi qu'aime Placide, et ma mort te délivre.</l>
 </sp>
-<sp who="DIDYME"><speaker>Didyme.</speaker>
+<sp who="DIDYME"><speaker>DIDYME.</speaker>
 	<l id="1688">Non, non : si vous mourez, Didyme vous doit suivre.</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="1689">Tu la suivras, Didyme, et je suivrai tes voeux :</l>
 	<l id="1690">Un déplaisir si grand n'a pas trop de tous deux.</l>
 	<l id="1691">Que ne puis-je aussi bien immoler à Flavie</l>
@@ -2528,29 +2534,29 @@
 	<l id="1708">Se venger à demi, c'est du moins quelque chose.</l>
 	<l id="1709" part="i">Amenez-les tous deux.</l>
 </sp>
-<sp who="PAULIN"><speaker>Paulin.</speaker>
+<sp who="PAULIN"><speaker>PAULIN.</speaker>
 	<l id="1709" part="f">Sans l'ordre de Valens ?</l>
 	<l id="1710">Madame, écoutez moins des transports si bouillants :</l>
 	<l id="1711">Sur son autorité c'est beaucoup entreprendre.</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="1712">S'il en demande compte, est-ce à vous de le rendre ?</l>
 	<l id="1713">Paulin, portez ailleurs vos conseils indiscrets,</l>
 	<l id="1714">Et ne prenez souci que de vos intérêts.</l>
 </sp>
-<sp who="THEODORE"><speaker>Théodore.</speaker>
+<sp who="THÉODORE"><speaker>THÉODORE.</speaker>
 	<l id="1715">Ainsi de ce combat que la vertu nous donne,</l>
 	<l id="1716">Nous sortirons tous deux avec une couronne.</l>
 </sp>
-<sp who="DIDYME"><speaker>Didyme.</speaker>
+<sp who="DIDYME"><speaker>DIDYME.</speaker>
 	<l id="1717">Oui, madame, on exauce et vos voeux et les miens :</l>
 	<l id="1718" part="i">Dieu...</l>
 </sp>
-<sp who="MARCELLE"><speaker>Marcelle.</speaker>
+<sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 	<l id="1718" part="f">Vous suivrez ailleurs de si doux entretiens.</l>
 	<l id="1719" part="i">Amenez-les tous deux.</l>
 </sp>
-<sp who="PAULIN"><speaker>Paulin, seul.</speaker>
+<sp who="PAULIN"><speaker>PAULIN, seul.</speaker>
 	<l id="1719" part="f">Quel orage s'apprête !</l>
 	<l id="1720">Que je vois se former une horrible tempête !</l>
 	<l id="1721">Si Placide survient, que de sang répandu !</l>
@@ -2562,27 +2568,27 @@
 </sp>
 </div2>
 <div2 type="scene" n="7"><head>SCÈNE VII.</head>
-<sp who="VALENS"><speaker>Valens.</speaker>
+<sp who="VALENS"><speaker>VALENS.</speaker>
 	<l id="1726" part="f">Ah ! Paulin, est-ce une vérité,</l>
 	<l id="1727">Est-ce une illusion, est-ce une rêverie ?</l>
 	<l id="1728">Viens-je d'ouïr la voix de Marcelle en furie</l>
 	<l id="1729">Ose-t-elle traîner Théodore à la mort</l>
 </sp>
-<sp who="PAULIN"><speaker>Paulin.</speaker>
+<sp who="PAULIN"><speaker>PAULIN.</speaker>
 	<l id="1730">Oui, si Valens n'y fait un généreux effort.</l>
 </sp>
-<sp who="VALENS"><speaker>Valens.</speaker>
+<sp who="VALENS"><speaker>VALENS.</speaker>
 	<l id="1731">Quel effort généreux veux-tu que Valens fasse,</l>
 	<l id="1732">Lorsque de tous côtés il ne voit que disgrâce ?</l>
 </sp>
-<sp who="PAULIN"><speaker>Paulin.</speaker>
+<sp who="PAULIN"><speaker>PAULIN.</speaker>
 	<l id="1733">Faites voir qu'en ces lieux c'est vous qui gouvernez,</l>
 	<l id="1734">Qu'aucun n'y doit périr si vous ne l'ordonnez.</l>
 	<l id="1735">La Syrie à vos lois est-elle assujettie,</l>
 	<l id="1736">Pour souffrir qu'une femme y soit juge et partie ?</l>
 	<l id="1737" part="i">Jugez de Théodore.</l>
 </sp>
-<sp who="VALENS"><speaker>Valens.</speaker>
+<sp who="VALENS"><speaker>VALENS.</speaker>
 	<l id="1737" part="f">Et qu'en puis-je ordonner</l>
 	<l id="1738">Qui dans mon triste sort ne serve à me gêner ?</l>
 	<l id="1739">Ne la condamner pas, c'est me perdre avec elle,</l>
@@ -2593,7 +2599,7 @@
 	<l id="1744">C'est de ma propre main assassiner Placide,</l>
 	<l id="1745">C'est lui porter au coeur d'inévitables coups.</l>
 </sp>
-<sp who="PAULIN"><speaker>Paulin.</speaker>
+<sp who="PAULIN"><speaker>PAULIN.</speaker>
 	<l id="1746">Placide donc, seigneur, osera plus que vous.</l>
 	<l id="1747">Marcelle a fait armer Lycante et sa cohorte ;</l>
 	<l id="1748">Mais sur elle et sur eux il va fondre à main-forte,</l>
@@ -2604,7 +2610,7 @@
 	<l id="1753">Et combien des deux parts l'amour et la fureur</l>
 	<l id="1754">étaleront ici de spectacles d'horreur.</l>
 </sp>
-<sp who="VALENS"><speaker>Valens.</speaker>
+<sp who="VALENS"><speaker>VALENS.</speaker>
 	<l id="1755">N'importe : laissons faire et Marcelle et Placide :</l>
 	<l id="1756">Que l'amour en furie ou la haine en décide ;</l>
 	<l id="1757">Que Théodore en meure ou ne périsse pas,</l>
@@ -2618,11 +2624,11 @@
 	<l id="1765">Et cette illusion de ma sévérité</l>
 	<l id="1766">Augmentera ma gloire et mon autorité.</l>
 </sp>
-<sp who="PAULIN"><speaker>Paulin.</speaker>
+<sp who="PAULIN"><speaker>PAULIN.</speaker>
 	<l id="1767">Et s'il ne peut sauver cet objet qu'il adore ?</l>
 	<l id="1768">Si Marcelle à ses yeux fait périr Théodore ?</l>
 </sp>
-<sp who="VALENS"><speaker>Valens.</speaker>
+<sp who="VALENS"><speaker>VALENS.</speaker>
 	<l id="1769">Marcelle aura sans moi commis cet attentat :</l>
 	<l id="1770">J'en saurai près de lui faire un crime d'état,</l>
 	<l id="1771">À ses ressentiments égaler ma colère,</l>
@@ -2631,7 +2637,7 @@
 	<l id="1774">L'en consoler en père un peu plus aisément.</l>
 	<l id="1775">Mes soins avec le temps pourront tarir ses larmes.</l>
 </sp>
-<sp who="PAULIN"><speaker>Paulin.</speaker>
+<sp who="PAULIN"><speaker>PAULIN.</speaker>
 	<l id="1776">Seigneur, d'un mal si grand c'est prendre peu d'alarmes.</l>
 	<l id="1777">Placide est violent, et pour la secourir</l>
 	<l id="1778">Il périra lui-même, ou fera tout périr.</l>
@@ -2641,39 +2647,39 @@
 	<l id="1782">Mais que vois-je ? Peut-être il est déjà trop tard.</l>
 	<l id="1783">Stéphanie entre ici, de pleurs toute trempée.</l>
 </sp>
-<sp who="VALENS"><speaker>Valens.</speaker>
+<sp who="VALENS"><speaker>VALENS.</speaker>
 	<l id="1784">Théodore à Marcelle est sans doute échappée,</l>
 	<l id="1785">Et l'amour de Placide a bravé son effort.</l>
 </sp>
 </div2>
 <div2 type="scene" n="8"><head>SCÈNE VIII.</head>
-<sp who="VALENS"><speaker>Valens.</speaker>
+<sp who="VALENS"><speaker>VALENS.</speaker>
 	<l id="1786">Marcelle a donc osé les traîner à la mort</l>
 	<l id="1787">Sans mon su, sans mon ordre ? Et son audace extrême...</l>
 </sp>
-<sp who="STEPHANIE"><speaker>Stéphanie.</speaker>
+<sp who="STÉPHANIE"><speaker>STÉPHANIE.</speaker>
 	<l id="1788">Seigneur, pleurez sa perte, elle est morte elle-même.</l>
 </sp>
-<sp who="VALENS"><speaker>Valens.</speaker>
+<sp who="VALENS"><speaker>VALENS.</speaker>
 	<l id="1789" part="i">Elle est morte !</l>
 </sp>
-<sp who="STEPHANIE"><speaker>Stéphanie.</speaker>
+<sp who="STÉPHANIE"><speaker>STÉPHANIE.</speaker>
 	<l id="1789" part="m">Elle l'est.</l>
 </sp>
-<sp who="VALENS"><speaker>Valens.</speaker>
+<sp who="VALENS"><speaker>VALENS.</speaker>
 	<l id="1789" part="f">Et Placide a commis...</l>
 </sp>
-<sp who="STEPHANIE"><speaker>Stéphanie.</speaker>
+<sp who="STÉPHANIE"><speaker>STÉPHANIE.</speaker>
 	<l id="1790">Non, ce n'est en effet ni lui ni ses amis ;</l>
 	<l id="1791">Mais s'il n'en est l'auteur, du moins il en est cause.</l>
 </sp>
-<sp who="VALENS"><speaker>Valens.</speaker>
+<sp who="VALENS"><speaker>VALENS.</speaker>
 	<l id="1792">Ah ! Pour moi l'un et l'autre est une même chose ;</l>
 	<l id="1793">Et puisque c'est l'effet de leur inimitié,</l>
 	<l id="1794">Je dois venger sur lui cette chère moitié.</l>
 	<l id="1795">Mais apprends-moi sa mort, du moins si tu l'as vue.</l>
 </sp>
-<sp who="STEPHANIE"><speaker>Stéphanie.</speaker>
+<sp who="STÉPHANIE"><speaker>STÉPHANIE.</speaker>
 	<l id="1796">De l'escalier à peine elle était descendue,</l>
 	<l id="1797">Qu'elle aperçoit Placide aux portes du palais,</l>
 	<l id="1798">Suivi d'un gros armé d'amis et de valets ;</l>
@@ -2686,18 +2692,18 @@
 	<l id="1805">Elle lève le bras, et de la même main</l>
 	<l id="1806">Leur enfonce à tous deux un poignard dans le sein.</l>
 </sp>
-<sp who="VALENS"><speaker>Valens.</speaker>
+<sp who="VALENS"><speaker>VALENS.</speaker>
 	<l id="1807" part="i">Quoi ? Théodore est morte !</l>
 </sp>
-<sp who="STEPHANIE"><speaker>Stéphanie.</speaker>
+<sp who="STÉPHANIE"><speaker>STÉPHANIE.</speaker>
 	<l id="1807" part="f">Et Didyme avec elle.</l>
 </sp>
-<sp who="VALENS"><speaker>Valens.</speaker>
+<sp who="VALENS"><speaker>VALENS.</speaker>
 	<l id="1808">Et l'un et l'autre enfin de la main de Marcelle ?</l>
 	<l id="1809">Ah ! Tout est pardonnable aux douleurs d'un amant,</l>
 	<l id="1810">Et quoi qu'ait fait Placide en son ressentiment...</l>
 </sp>
-<sp who="STEPHANIE"><speaker>Stéphanie.</speaker>
+<sp who="STÉPHANIE"><speaker>STÉPHANIE.</speaker>
 	<l id="1811">Il n'a rien fait, seigneur ; mais écoutez le reste :</l>
 	<l id="1812">Il demeure immobile à cet objet funeste ;</l>
 	<l id="1813">Quelque ardeur qui le pousse à venger ce malheur,</l>
@@ -2731,55 +2737,55 @@
 	<l id="1841">D'où son oeil semble encore à longs traits se soûler</l>
 	<l id="1842">Du sang des malheureux qu'elle vient d'immoler.</l>
 </sp>
-<sp who="VALENS"><speaker>Valens.</speaker>
+<sp who="VALENS"><speaker>VALENS.</speaker>
 	<l id="1843" part="i">Et Placide ?</l>
 </sp>
-<sp who="STEPHANIE"><speaker>Stéphanie.</speaker>
+<sp who="STÉPHANIE"><speaker>STÉPHANIE.</speaker>
 	<l id="1843" part="f">J'ai fui, voyant Marcelle morte,</l>
 	<l id="1844">De peur qu'une douleur et si juste et si forte</l>
 	<l id="1845">Ne vengeât... Mais, seigneur, je l'aperçois qui vient.</l>
 </sp>
-<sp who="VALENS"><speaker>Valens.</speaker>
+<sp who="VALENS"><speaker>VALENS.</speaker>
 	<l id="1846">Arrête : de faiblesse à peine il se soutient ;</l>
 	<l id="1847">Et d'ailleurs à ma vue il saura se contraindre.</l>
 	<l id="1848">Ne crains rien. Mais, ô dieux ! Que j'ai moi-même à craindre !</l>
 </sp>
 </div2>
 <div2 type="scene" n="9"><head>SCÈNE IX.</head>
-<sp who="VALENS"><speaker>Valens.</speaker>
+<sp who="VALENS"><speaker>VALENS.</speaker>
 	<l id="1849">Cléobule, quel sang coule sur ses habits ?</l>
 </sp>
-<sp who="CLEOBULE"><speaker>Cléobule.</speaker>
+<sp who="CLÉOBULE"><speaker>CLÉOBULE.</speaker>
 	<l id="1850" part="i">Le sien propre, seigneur.</l>
 </sp>
-<sp who="VALENS"><speaker>Valens.</speaker>
+<sp who="VALENS"><speaker>VALENS.</speaker>
 	<l id="1850" part="f">Ah, Placide ! Ah, mon fils !</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="1851" part="i">Retire-toi, cruel.</l>
 </sp>
-<sp who="VALENS"><speaker>Valens.</speaker>
+<sp who="VALENS"><speaker>VALENS.</speaker>
 	<l id="1851" part="f">Cet ami si fidèle</l>
 	<l id="1852">N'a pu rompre le coup qui t'immole à Marcelle !</l>
 	<l id="1853" part="i">Qui sont les assassins ?</l>
 </sp>
-<sp who="CLEOBULE"><speaker>Cléobule.</speaker>
+<sp who="CLÉOBULE"><speaker>CLÉOBULE.</speaker>
 	<l id="1853" part="f">Son propre désespoir.</l>
 </sp>
-<sp who="VALENS"><speaker>Valens.</speaker>
+<sp who="VALENS"><speaker>VALENS.</speaker>
 	<l id="1854">Et vous ne deviez pas le craindre et le prévoir ?</l>
 </sp>
-<sp who="CLEOBULE"><speaker>Cléobule.</speaker>
+<sp who="CLÉOBULE"><speaker>CLÉOBULE.</speaker>
 	<l id="1855">Je l'ai craint et prévu jusqu'à saisir ses armes ;</l>
 	<l id="1856">Mais comme après ce soin j'en avais moins d'alarmes,</l>
 	<l id="1857">Embrassant Théodore, un funeste hasard</l>
 	<l id="1858">A fait dessous sa main rencontrer ce poignard,</l>
 	<l id="1859">Par où ses déplaisirs trompant ma prévoyance...</l>
 </sp>
-<sp who="VALENS"><speaker>Valens.</speaker>
+<sp who="VALENS"><speaker>VALENS.</speaker>
 	<l id="1860">Ah ! Fallait-il avoir si peu de défiance ?</l>
 </sp>
-<sp who="PLACIDE"><speaker>Placide.</speaker>
+<sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 	<l id="1861">Rends-en grâces au ciel, heureux père et mari :</l>
 	<l id="1862">Par là t'est conservé ce pouvoir si chéri,</l>
 	<l id="1863">Ta dignité, dans l'âme à ton fils préférée ;</l>
@@ -2796,14 +2802,14 @@
 	<l id="1874">Pour le moins en mourant te blesser par les yeux.</l>
 	<l id="1875" part="i">Daigne ce juste ciel...</l>
 </sp>
-<sp who="VALENS"><speaker>Valens.</speaker>
+<sp who="VALENS"><speaker>VALENS.</speaker>
 	<l id="1875" part="f">Cléobule, il expire.</l>
 </sp>
-<sp who="CLEOBULE"><speaker>Cléobule.</speaker>
+<sp who="CLÉOBULE"><speaker>CLÉOBULE.</speaker>
 	<l id="1876">Non, seigneur, je l'entends encore qui soupire ;</l>
 	<l id="1877">Ce n'est que la douleur qui lui coupe la voix.</l>
 </sp>
-<sp who="VALENS"><speaker>Valens.</speaker>
+<sp who="VALENS"><speaker>VALENS.</speaker>
 	<l id="1878">Non, non : j'ai tout perdu, Placide est aux abois ;</l>
 	<l id="1879">Mais ne rejetons pas une espérance vaine,</l>
 	<l id="1880">Portons-le reposer dans la chambre prochaine ;</l>

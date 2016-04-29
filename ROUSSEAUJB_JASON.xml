@@ -6,9 +6,10 @@
 			<title>JASON, ou LA TOISON-D'OR</title>
 			<author born='1670' born_location='Paris' death='1741' death_location='Bruxelles' academie='1743'>ROUSSEAU, Jean Baptiste</author>
 		</titleStmt>
-		<publicationStmp>
+		<publicationStmt>
 			<p>publié par Paul FIEVRE, janvier 2012</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Opéra</genre>
 			<inspiration>mythe grec</inspiration>
@@ -38,31 +39,31 @@
 			<premiere date='1696-01-06' location='Théâtre de la rue des Fossés Saint-Germain'>Représentée pour la première fois par les comédiens français le 6 janvier 1696. Musique de Colasse.</premiere>
 		</performance>
 	<castList><head>PERSONNAGES DU PROLOGUE</head>
-		<castItem><role id="PAN" civil="M" type="D" statut='dieu' age='A' stat_amour='néant'>PAN</role>.</castItem>
-		<castItem><role id="SUITE DE PAN" civil="G" type="D" statut='suite' age='A' stat_amour='néant'>SUITE DE PAN</role>.</castItem>
-		<castItem><role id="CHOEURS DE BERGERS" civil="G" type="H" statut='berger' age='A' stat_amour='néant'>CHOEURS DE BERGERS</role>.</castItem>
-		<castItem><role id="LA PAIX" civil="F" type="A" statut='allegorie' age='A' stat_amour='néant'>LA PAIX</role>.</castItem>
-		<castItem><role id="SUITE DE LA PAIX" civil="G" type="H" statut='suite' age='A' stat_amour='néant'>SUITE DE LA PAIX</role>.</castItem>
+		<castItem><role id="PAN" sex="1" type="D" statut='dieu' age='A' stat_amour='néant'>PAN</role>.</castItem>
+		<castItem><role id="SUITE DE PAN" sex="9" type="D" statut='suite' age='A' stat_amour='néant'>SUITE DE PAN</role>.</castItem>
+		<castItem><role id="CHOEURS DE BERGERS" sex="9" type="H" statut='berger' age='A' stat_amour='néant'>CHOEURS DE BERGERS</role>.</castItem>
+		<castItem><role id="LA PAIX" sex="2" type="P" statut='allegorie' age='A' stat_amour='néant'>LA PAIX</role>.</castItem>
+		<castItem><role id="SUITE DE LA PAIX" sex="9" type="H" statut='suite' age='A' stat_amour='néant'>SUITE DE LA PAIX</role>.</castItem>
 	</castList>
 	<castList><head>PERSONNAGES DE LA TRAGÉDIE</head>
-		<castItem><role id="AËTE" civil="M" type="H" statut='roi' age='A' stat_amour='néant'>AËTE</role>, roi de Colchos.</castItem>
-		<castItem><role id="MÉDÉE" civil="F" type="H" statut='sorcier' age='A' stat_amour='néant'>MÉDÉE</role>, célèbre enchanteresse, fille d'Aëte.</castItem>
-		<castItem><role id="JASON" civil="M" type="H" statut='roi' age='A' stat_amour='néant'>JASON</role>, chef des Argonautes.</castItem>
-		<castItem><role id="ORPHÉE" civil="M" type="H" statut='musicien' age='A' stat_amour='néant'>ORPHÉE</role>, l'un des Argonautes, confident de Jason.</castItem>
-		<castItem><role id="HYPSIPILE" civil="F" type="H" statut='roi' age='A' stat_amour='néant'>HYPSIPILE</role>, reine de Lemnos.</castItem>
-		<castItem><role id="CHOEUR DE COMBATTANTS" civil="G" type="H" statut='combattant' age='A' stat_amour='néant'>CHOEUR DE COMBATTANTS</role> qu'on ne voit point.</castItem>
-		<castItem><role id="SUITE DU ROI" civil="G" type="H" statut='suite' age='A' stat_amour='néant'>SUITE DU ROI</role>.</castItem>
-		<castItem><role id="SUITE DE MÉDÉE" civil="G" type="H" statut='suite' age='A' stat_amour='néant'>SUITE DE MÉDÉE</role>.</castItem>
-		<castItem><role id="VÉNUS" civil="F" type="D" statut='dieu' age='A' stat_amour='néant'>VÉNUS</role>.</castItem>
-		<castItem><role id="NEPTUNE" civil="D" type="D" statut='dieu' age='A' stat_amour='néant'>NEPTUNE</role>.</castItem>
-		<castItem><role id="SUITE DE NEPTUNE" civil="G" type="D" statut='suite' age='A' stat_amour='néant'>SUITE DE NEPTUNE</role>.</castItem>
-		<castItem><role id="TROUPE DE DÉMONS" civil="G" type="D" statut='démon' age='A' stat_amour='néant'>TROUPE DE DÉMONS</role>.</castItem>
-		<castItem><role id="L'AMOUR" civil="M" type="D" statut='dieu' age='A' stat_amour='néant'>L'AMOUR</role>.</castItem>
-		<castItem><role id="SUITE DE L'AMOUR" civil="G" type="H" statut='suite' age='A' stat_amour='néant'>SUITE DE L'AMOUR</role>.</castItem>
-		<castItem><role id="LA SIBYLLE" civil="F" type="H" statut='prophète' age='A' stat_amour='néant'>LA SIBYLLE</role>.</castItem>
-		<castItem><role id="SUITE DE LA SIBYLLE" civil="G" type="H" statut='suite' age='A' stat_amour='néant'>SUITE DE LA SIBYLLE</role>.</castItem>
-		<castItem><role id="CHOEUR ET TROUPE D'ARGONAUTES" civil="G" type="H" statut='soldat' age='A' stat_amour='néant'>CHOEUR et TROUPE D'ARGONAUTES</role>.</castItem>
-		<castItem><role id="TROUPE-DE-COMBATTANTS" civil="G" type="H" statut='fantôme' age='A' stat_amour='néant'>TROUPE DE COMBATTANTS</role>, sortis de la terre.</castItem>
+		<castItem><role id="AËTE" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>AËTE</role>, roi de Colchos.</castItem>
+		<castItem><role id="MÉDÉE" sex="2" type="H" statut='sorcier' age='A' stat_amour='néant'>MÉDÉE</role>, célèbre enchanteresse, fille d'Aëte.</castItem>
+		<castItem><role id="JASON" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>JASON</role>, chef des Argonautes.</castItem>
+		<castItem><role id="ORPHÉE" sex="1" type="H" statut='musicien' age='A' stat_amour='néant'>ORPHÉE</role>, l'un des Argonautes, confident de Jason.</castItem>
+		<castItem><role id="HYPSIPILE" sex="2" type="H" statut='roi' age='A' stat_amour='néant'>HYPSIPILE</role>, reine de Lemnos.</castItem>
+		<castItem><role id="CHOEUR DE COMBATTANTS" sex="9" type="H" statut='combattant' age='A' stat_amour='néant'>CHOEUR DE COMBATTANTS</role> qu'on ne voit point.</castItem>
+		<castItem><role id="SUITE DU ROI" sex="9" type="H" statut='suite' age='A' stat_amour='néant'>SUITE DU ROI</role>.</castItem>
+		<castItem><role id="SUITE DE MÉDÉE" sex="9" type="H" statut='suite' age='A' stat_amour='néant'>SUITE DE MÉDÉE</role>.</castItem>
+		<castItem><role id="VÉNUS" sex="2" type="D" statut='dieu' age='A' stat_amour='néant'>VÉNUS</role>.</castItem>
+		<castItem><role id="NEPTUNE" sex="1" type="D" statut='dieu' age='A' stat_amour='néant'>NEPTUNE</role>.</castItem>
+		<castItem><role id="SUITE DE NEPTUNE" sex="9" type="D" statut='suite' age='A' stat_amour='néant'>SUITE DE NEPTUNE</role>.</castItem>
+		<castItem><role id="TROUPE DE DÉMONS" sex="9" type="D" statut='démon' age='A' stat_amour='néant'>TROUPE DE DÉMONS</role>.</castItem>
+		<castItem><role id="L'AMOUR" sex="1" type="D" statut='dieu' age='A' stat_amour='néant'>L'AMOUR</role>.</castItem>
+		<castItem><role id="SUITE DE L'AMOUR" sex="9" type="H" statut='suite' age='A' stat_amour='néant'>SUITE DE L'AMOUR</role>.</castItem>
+		<castItem><role id="LA SIBYLLE" sex="2" type="H" statut='prophète' age='A' stat_amour='néant'>LA SIBYLLE</role>.</castItem>
+		<castItem><role id="SUITE DE LA SIBYLLE" sex="9" type="H" statut='suite' age='A' stat_amour='néant'>SUITE DE LA SIBYLLE</role>.</castItem>
+		<castItem><role id="CHOEUR ET TROUPE D'ARGONAUTES" sex="1" type="H" statut='soldat' age='A' stat_amour='néant'>CHOEUR et TROUPE D'ARGONAUTES</role>.</castItem>
+		<castItem><role id="TROUPE DE COMBATTANTS" sex="1" type="H" statut='soldat' age='A' stat_amour='néant'>TROUPE DE COMBATTANTS</role>, sortis de la terre.</castItem>
     </castList>
 	<set location='Lieu mythologique' country='Pays mythologique' periode='Temps mythologiques' link=''></set>
 </front>

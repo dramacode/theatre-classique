@@ -7,9 +7,10 @@
 				<author born='1655' born_location='Paris' death='1709' death_location='château de grillon, Dourdan' academie=''>REGNARD, Jean-François</author>
 				<date>1697</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, juillet 2011, revu avril 2014</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire romaine</inspiration>
@@ -41,15 +42,15 @@
 		<premiere date="(non représentée)" location='(non représentée)'></premiere>
 	</performance>
 	<castList><head>PERSONNAGES</head>
-      	<castItem><role id="AURÉLIEN" civil='M' type="H" statut='roi' age='A' stat_amour='néant'>AURÉLIEN</role>, empereur romain.</castItem>
-      	<castItem><role id="ZÉNOBIE" civil='F' type="H" statut='roi' age='A' stat_amour='néant'>ZÉNOBIE</role>, reine d'Orient.</castItem>
-      	<castItem><role id="ISMÈNE" civil='F' type="H" statut='prince' age='A' stat_amour='Sapor'>ISMÈNE</role>, fille de Zénobie.</castItem>
-      	<castItem><role id="SAPOR" civil='M' type="H" statut='prince' age='A' stat_amour='Ismène'>SAPOR</role>, Fils du roi de Perse, promis à Ismène.</castItem>
-      	<castItem><role id="SABINUS" civil='M' type="H" statut='tribun' age='A' stat_amour='néant'>SABINUS</role>, tribun de l'armée d'Aurélien.</castItem>
-      	<castItem><role id="FINETTE" civil='F' type="H" statut='suivante' age='A' stat_amour='néant'>FINETTE</role>, suivante d'Araminte.</castItem>
-      	<castItem><role id="FIRMIN" civil='M' type="H" statut='confident' age='A' stat_amour='néant'>FIRMIN</role>, confident de l'empereur.</castItem>
-      	<castItem><role id="THÉONE" civil='M' type="H" statut='confident' age='A' stat_amour='néant'>THÉONE</role>, confident de Zénobie.</castItem>
-      	<castItem><role id="GARDES" civil='G' type="H" statut='garde' age='A' stat_amour='néant'>GARDES</role>.</castItem>
+      	<castItem><role id="AURÉLIEN" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>AURÉLIEN</role>, empereur romain.</castItem>
+      	<castItem><role id="ZÉNOBIE" sex="2" type="H" statut='roi' age='A' stat_amour='néant'>ZÉNOBIE</role>, reine d'Orient.</castItem>
+      	<castItem><role id="ISMÈNE" sex="2" type="H" statut='prince' age='A' stat_amour='Sapor'>ISMÈNE</role>, fille de Zénobie.</castItem>
+      	<castItem><role id="SAPOR" sex="1" type="H" statut='prince' age='A' stat_amour='Ismène'>SAPOR</role>, Fils du roi de Perse, promis à Ismène.</castItem>
+      	<castItem><role id="SABINUS" sex="1" type="H" statut='tribun' age='A' stat_amour='néant'>SABINUS</role>, tribun de l'armée d'Aurélien.</castItem>
+      	<castItem><role id="FINETTE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>FINETTE</role>, suivante d'Araminte.</castItem>
+      	<castItem><role id="FIRMIN" sex="1" type="H" statut='confident' age='A' stat_amour='néant'>FIRMIN</role>, confident de l'empereur.</castItem>
+      	<castItem><role id="THÉONE" sex="1" type="H" statut='confident' age='A' stat_amour='néant'>THÉONE</role>, confident de Zénobie.</castItem>
+      	<castItem><role id="GARDES" sex="9" type="H" statut='garde' age='A' stat_amour='néant'>GARDES</role>.</castItem>
     </castList>
 	<set location='Palmyre' country='Syrie' periode='IIIème' link=''>La scène est à Palmyre, ville de Syrie, conquise par Aurélien. </set>
 </front>

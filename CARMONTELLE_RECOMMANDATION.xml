@@ -6,9 +6,10 @@
 			<title>LA RECOMMANDATION, COMÉDIE</title>
 			<author born='1717' born_location='Paris' death='1806' death_location='Paris' academie='Poitiers'>CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle</author>
 		</titleStmt>
-		<publicationStmp>
+		<publicationStmt>
 			<p>publié par Paul FIEVRE, octobre 2011, revu décembre 2015</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Proverbe</genre>
 			<inspiration>moeurs françaises</inspiration>
@@ -48,11 +49,11 @@
 			<premiere date='1768' location='chez Madame la Marquise de Mauconseil'>Représenté pour la première fois en 1768 à Bagatelle chez Madame la Marquise de Mauconseil.</premiere>
 		</performance>
 	<castList><head>PERSONNAGES</head>
-		<castItem><role id="MONSIEUR DE LA BRUYERE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>MONSIEUR DE LA BRUYERE</role>, Conseiller d'État.</castItem>
-		<castItem><role id="MADAME DE LA BRUYERE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>MADAME DE LA BRUYERE</role>.</castItem>
-		<castItem><role id="LA-COMTESSE-DE-SAINT-LÉGER" civil='F' type="H" statut='comte' age='A' stat_amour='néant'>LA COMTESSE DE SAINT-LÉGER</role>.</castItem>
-		<castItem><role id="MONSIEUR-DUMONT" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>MONSIEUR DUMONT</role>.</castItem>
-		<castItem><role id="LE-GRAND" civil='M' type="H" statut='valet de chambre' age='A' stat_amour='néant'>LE GRAND</role>, valet de chambre de Madame La Bruyère.</castItem>
+		<castItem><role id="MONSIEUR DE LA BRUYERE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>MONSIEUR DE LA BRUYERE</role>, Conseiller d'État.</castItem>
+		<castItem><role id="MADAME DE LA BRUYERE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>MADAME DE LA BRUYERE</role>.</castItem>
+		<castItem><role id="LA-COMTESSE-DE-SAINT-LÉGER" sex="2" type="H" statut='comte' age='A' stat_amour='néant'>LA COMTESSE DE SAINT-LÉGER</role>.</castItem>
+		<castItem><role id="MONSIEUR-DUMONT" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>MONSIEUR DUMONT</role>.</castItem>
+		<castItem><role id="LE-GRAND" sex="1" type="H" statut='valet de chambre' age='A' stat_amour='néant'>LE GRAND</role>, valet de chambre de Madame La Bruyère.</castItem>
      </castList>
 <set location='Paris' country='France' periode='XVIIIème' link=''>La Scène est chez Madame la Bruyère.</set>
 </front>

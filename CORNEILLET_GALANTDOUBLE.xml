@@ -7,9 +7,10 @@
 				<author born='1625' born_location='Rouen' death='1709' death_location='Les Andelys' academie='1685'>CORNEILLE, Thomas</author>
 				<date>1659</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, septembre 2009</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs espagnoles</inspiration>
@@ -40,15 +41,15 @@
 			<premiere date='1659' location='Hôtel de Bourgogne'>Représenté pour la première fois en 1659 au Théâtre de l'Hôtel de Bourgogne.</premiere>
 		</performance>
 	<castList><head>ACTEURS</head>
-		<castItem><role id="DON DIEGUE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>DON DIÈGUE</role>, père de Léonor.</castItem>
-		<castItem><role id="DON FERNAND" civil='M' type="H" statut='aristocrate' age='A' stat_amour='amoureux'>DON FERNAND de Solis</role>, amant de Léonor.</castItem>
-		<castItem><role id="DON JUAN" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>DON JUAN de Torrès</role>, ami de Don Fernand. </castItem>
-		<castItem><role id="LEONOR" civil='F' type="H" statut='aristocrate' age='J' stat_amour='amoureux'>LÉONOR</role>, fille de Don Diègue. </castItem>
-		<castItem><role id="ISABELLE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>ISABELLE</role>, amie de Léonor. </castItem>
-		<castItem><role id="BEATRIX" civil='F' type="H" statut='suivante' age='A' stat_amour='néant'>BÉATRIX</role>, suivante d'Isabelle. </castItem>
-		<castItem><role id="JACINTE" civil='F' type="H" statut='suivante' age='A' stat_amour='néant'>JACINTE</role>, suivante de Léonor.</castItem>
-		<castItem><role id="EXEMPT" civil='M' type="H" statut='exempt' age='A' stat_amour='néant'>Un exempt.</role>.</castItem>
-		<castItem><role id="GUZMAN" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>GUZMAN</role>, valet de Don Fernand. </castItem>
+		<castItem><role id="DON DIEGUE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>DON DIÈGUE</role>, père de Léonor.</castItem>
+		<castItem><role id="DON FERNAND" sex="1" type="H" statut='aristocrate' age='A' stat_amour='amoureux'>DON FERNAND de Solis</role>, amant de Léonor.</castItem>
+		<castItem><role id="DON JUAN" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>DON JUAN de Torrès</role>, ami de Don Fernand. </castItem>
+		<castItem><role id="LEONOR" sex="2" type="H" statut='aristocrate' age="J" stat_amour='amoureux'>LÉONOR</role>, fille de Don Diègue. </castItem>
+		<castItem><role id="ISABELLE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>ISABELLE</role>, amie de Léonor. </castItem>
+		<castItem><role id="BEATRIX" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>BÉATRIX</role>, suivante d'Isabelle. </castItem>
+		<castItem><role id="JACINTE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>JACINTE</role>, suivante de Léonor.</castItem>
+		<castItem><role id="EXEMPT" sex="1" type="H" statut='exempt' age='A' stat_amour='néant'>Un exempt.</role>.</castItem>
+		<castItem><role id="GUZMAN" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>GUZMAN</role>, valet de Don Fernand. </castItem>
 	</castList>
 	<set location='Madrid' country='Espagne' periode='XVIIème' link=''>La scène est à Madrid.</set>
 </front>

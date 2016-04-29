@@ -7,9 +7,10 @@
 				<author born='1622' born_location='Paris' death='1673' death_location='Paris' academie=''>MOLIÈRE</author>
 				<date>1669</date>
 			</titleStmt>
-			<publicationStmp>	
-				<p>publié par Paul FIEVRE mai 2010</p>
-			</publicationStmp>
+			<publicationStmt>	
+				<p>publié par Paul FIEVRE mai 2010, revu 2016</p>
+				<idno>MOLIERE_BOURGEOISGENTILHOMME</idno>
+			</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie-ballet</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -18,10 +19,6 @@
 				<periode>1661-1670</periode>
 				<taille>250-500</taille>
 				<permalien>http://gallica.bnf.fr/ark:/12148/bpt6k83269v</permalien>
-				<sources>
-					<source id="1"><author/><text/></source>
-				</sources>	
-
 			</SourceDesc>
 		</fileDesc>
 </teiHeader>
@@ -31,33 +28,37 @@
 			<titlePart type="main">LE BOURGEOIS GENTILHOMME</titlePart>
 			<titlePart type="sub">COMÉDIE BALLET</titlePart>
 		</docTitle> 
-		<docDate value="1670">1670</docDate>
-		<docAuthor id="MOLIERE" bio='moliere'>Molière</docAuthor>
+		<docDate value="1671">M. DC LXXI. AVEC PRIVILÈGE DU ROI</docDate>
+		<docAuthor id="MOLIERE" bio='moliere'>par J.P.B. DE MOLIÈRE</docAuthor>
 		<docImprint>
-			<privilege date=""><head></head>
-		</privilege>
-			<acheveImprime id=""></acheveImprime>
+			<privilege date=""><head>Extrait du privilège du Roi</head>
+				<p>Par grâce et privilège du Roi, donné à Paris le 31 jour de Décembre l'an de grâce 1670. Signé par le Roi en son conseil GUITONNEAU. Il est permis à Jean-Baptiste Pocquelin de Molière, l'un de nos comédiens, de faire imprimer, vendre et débiter une pièce de théâtre , intitulée LE BOURGEOIS GENTILHOMME, par tel imprimeur ou libraire qu'il voudra choisir, pendant le temps et espace de dix années entières et accomplies, à compter du jour que ladite pièce sera achevée d'imprimer pour la première fois : et défenses sont faites à toutes personnes, de quelque qualité et condition qu'elle soient, d'imprimer, faire imprimer, vendre, ni débiter ladite pièce, sans le consentement de l'exposant, ou de ceux qui auront droit de lui, à peine de six mille livres d'amende, confiscation des exemplaires contrefaits, et de tous dépens, dommages et intérêts, ainsi que plus au long il est porté audit privilège.</p>
+				<p>Registré sur le livre de la Communauté des imprimeurs et marchands libraires de Paris, suivant l'arrêt de la Cour de Parlement de 8 avril 1653 aux charges, clauses, et conditions portées ès présentes lettres. Fait ce 13 mars mille six cent soixante et onze.</p>
+				<p>Signé, L. SEVESTRE, Syndic.</p>
+			</privilege>
+			<acheveImprime id="">Achevé d'imprimer pour le première fois le 18 mars 1671.</acheveImprime>
+			<printer>À PARIS, chez P. LE MONNIER.</printer>
 		</docImprint>
 	<castList><head>PERSONNAGES</head>
-		<castItem><role id="MONSIEUR-JOURDAIN" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>MONSIEUR JOURDAIN</role>, bourgeois. </castItem>
-		<castItem><role id="MADAME-JOURDAIN" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>MADAME JOURDAIN</role>, sa femme.</castItem>
-		<castItem><role id="LUCILE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='amoureux'>LUCILE</role>, fille de M. Jourdain. </castItem>
-		<castItem><role id="NICOLE" civil='F' type="H" statut='servante' age='A' stat_amour='néant'>NICOLE</role>, servante. </castItem>
-		<castItem><role id="CLEONTE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='amoureux'>CLÉONTE</role>, amoureux de Lucile.</castItem>
-		<castItem><role id="COVIELLE" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>COVIELLE</role>, valet de Cléonte. </castItem>
-		<castItem><role id="DORANTE" civil='M' type="H" statut='comte' age='A' stat_amour='amoureux'>DORANTE</role>, comte, amant de Dorimène. </castItem>
-		<castItem><role id="DORIMENE" civil='F' type="H" statut='marquis' age='A' stat_amour='néant'>DORIMÈNE</role>, marquise.</castItem>
-		<castItem><role id="MAÎTRE DE MUSIQUE" civil='M' type="H" statut='maître de mmusique' age='A' stat_amour='néant'>MAÎTRE DE MUSIQUE</role>.</castItem>
-		<castItem><role id="ELEVE-DU-MAITRE-DE-MUSIQUE" civil='M' type="H" statut='élève' age='A' stat_amour='néant'>ÉLÈVE du MAÎTRE de MUSIQUE</role>Elève du Maître de musique.</castItem>
-		<castItem><role id="MAÎTRE À DANSER" civil='M' type="H" statut="maître à danser" age='A' stat_amour='néant'>MAÎTRE À DANSER</role>. </castItem>
-		<castItem><role id="MAÎTRE D'ARMES" civil='M' type="H" statut="'maître d'armes" age='A' stat_amour='néant'>MAÎTRE D'ARMES</role>. </castItem>
-		<castItem><role id="MAÎTRE DE PHOLOSOPHIE" civil='M' type="H" statut='philosophe' age='A' stat_amour='néant'>MAÎTRE DE PHOLOSOPHIE</role>. </castItem>
-		<castItem><role id="MAÎTRE TAILLEUR" civil='M' type="H" statut='tailleur' age='A' stat_amour='néant'>MAÎTRE TAILLEUR</role>. </castItem>
-		<castItem><role id="GARCON- TAILLEUR" civil='M' type="H" statut='tailleur' age='A' stat_amour='néant'>Garçon TAILLEUR</role>. </castItem>
-		<castItem><role id="DEUX-LAQUAIS" civil='G' type="H" statut='laquais' age='A' stat_amour='néant'>DEUX LAQUAIS</role>. </castItem>
-		<castItem><role id="PLUSIEURS-MUSICIENS" civil='G' type="H" statut='musicien' age='A' stat_amour='néant'>PLUSIEURS MUSICIENS</role>, musiciennes, joueurs d'instruments, danseurs.
+		<castItem><role id="MONSIEUR JOURDAIN" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>MONSIEUR JOURDAIN</role>, bourgeois. </castItem>
+		<castItem><role id="MADAME JOURDAIN" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>MADAME JOURDAIN</role>, sa femme.</castItem>
+		<castItem><role id="LUCILE" sex="2" type="H" statut='bourgeois' age='J' stat_amour='amoureux'>LUCILE</role>, fille de M. Jourdain. </castItem>
+		<castItem><role id="NICOLE" sex="2" type="H" statut='servante' age='A' stat_amour='néant'>NICOLE</role>, servante. </castItem>
+		<castItem><role id="CLEONTE" sex="1" type="H" statut='bourgeois' age='J' stat_amour='Lucile'>CLÉONTE</role>, amoureux de Lucile.</castItem>
+		<castItem><role id="COVIELLE" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>COVIELLE</role>, valet de Cléonte. </castItem>
+		<castItem><role id="DORANTE" sex="1" type="H" statut='comte' age='A' stat_amour='Dorimène'></role>, Comte, amant de Dorimène. </castItem>
+		<castItem><role id="DORIMÈNE" sex="2" type="H" statut='marquis' age='A' stat_amour='Cléonte'>DORIMÈNE</role>, Marquise.</castItem>
+		<castItem><role id="MAÎTRE DE MUSIQUE" sex="1" type="H" statut='maître de mmusique' age='A' stat_amour='néant'>MAÎTRE DE MUSIQUE</role>.</castItem>
+		<castItem><role id="ELEVE DU MAÎTRE DE MUSIQUE" sex="1" type="H" statut='élève' age='A' stat_amour='néant'>ÉLÈVE du MAÎTRE de MUSIQUE</role>, Elève du Maître de musique.</castItem>
+		<castItem><role id="MAÎTRE À DANSER" sex="1" type="H" statut="maître à danser" age='A' stat_amour='néant'>MAÎTRE À DANSER</role>. </castItem>
+		<castItem><role id="MAÎTRE D'ARMES" sex="1" type="H" statut="maître d'armes" age='A' stat_amour='néant'>MAÎTRE D'ARMES</role>. </castItem>
+		<castItem><role id="MAÎTRE DE PHOLOSOPHIE" sex="1" type="H" statut='philosophe' age='A' stat_amour='néant'>MAÎTRE DE PHOLOSOPHIE</role>. </castItem>
+		<castItem><role id="MAÎTRE TAILLEUR" sex="1" type="H" statut='tailleur' age='A' stat_amour='néant'>MAÎTRE TAILLEUR</role>. </castItem>
+		<castItem><role id="GARCON TAILLEUR" sex="1" type="H" statut='tailleur' age='J' stat_amour='néant'>GARÇON TAILLEUR</role>. </castItem>
+		<castItem><role id="DEUX LAQUAIS" sex="1" type="H" statut='laquais' age='A' stat_amour='néant'>DEUX LAQUAIS</role>. </castItem>
+		<castItem><role id="PLUSIEURS MUSICIENS" sex="9" type="H" statut='musicien' age='A' stat_amour='néant'>PLUSIEURS MUSICIENS</role>, musiciennes, joueurs d'instruments, danseurs.
 </castItem>
-		<castItem><role id="CUISINIER-TAILLEURS" civil='G' type="H" statut='tailleur' age='A' stat_amour='néant'>CUISINIERS</role>, garçons tailleurs, et autres personnages des intermèdes et du ballet. 
+		<castItem><role id="CUISINIER-TAILLEURS" sex="9" type="H" statut='tailleur' age='A' stat_amour='néant'>CUISINIERS</role>, garçons tailleurs, et autres personnages des intermèdes et du ballet. 
 </castItem>
 	</castList>
 	<set location="Paris" country='France' periode='XVIIème' link=''>La scène est à Paris.</set>

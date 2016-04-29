@@ -6,9 +6,10 @@
 			<title>LE JEU DE L'AMOUR et DU HASARD, COMÉDIE</title>
 			<author born='1688' born_location='Auvergne' death='1763' death_location='Paris' academie='1743'>MARIVAUX</author>
 		</titleStmt>
-		<publicationStmp>
+		<publicationStmt>
 			<p>publié par Paul FIEVRE mai 2009</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Comédie</genre>
 			<inspiration>moeurs françaises</inspiration>
@@ -43,13 +44,13 @@
 		<p></p>
 	</div>
 	<castList><head>ACTEURS</head>
-		<castItem><role id="MONSIEUR-ORGON" civil='M'>MONSIEUR ORGON</role>.</castItem>
-		<castItem><role id="MARIO" civil='M'>MARIO</role>.</castItem>
-		<castItem><role id="SILVIA" civil='F'>SILVIA</role>.</castItem>
-		<castItem><role id="DORANTE" civil='M'>DORANTE</role>.</castItem>
-		<castItem><role id="LISETTE" civil='F'>LISETTE</role>, femme de chambre de Silvia.</castItem>
-		<castItem><role id="ARLEQUIN" civil='M'>ARLEQUIN</role>, valet de Dorante.</castItem>
-		<castItem><role id="UN-LAQUAIS" civil='M'>UN LAQUAIS</role>.</castItem>
+		<castItem><role id="MONSIEUR-ORGON" sex="1">MONSIEUR ORGON</role>.</castItem>
+		<castItem><role id="MARIO" sex="1">MARIO</role>.</castItem>
+		<castItem><role id="SILVIA" sex="2">SILVIA</role>.</castItem>
+		<castItem><role id="DORANTE" sex="1">DORANTE</role>.</castItem>
+		<castItem><role id="LISETTE" sex="2">LISETTE</role>, femme de chambre de Silvia.</castItem>
+		<castItem><role id="ARLEQUIN" sex="1">ARLEQUIN</role>, valet de Dorante.</castItem>
+		<castItem><role id="UN-LAQUAIS" sex="1">UN LAQUAIS</role>.</castItem>
     </castList>
 	<set location='Paris' country='France' periode='XVIIIème' link=''>La scène est à Paris.</set>
 </front>

@@ -7,9 +7,10 @@
 				<author born='1674' born_location='Dijon' death='1762' death_location='Paris' academie='1731'>CRÉBILLON, Prosper J. de</author>
 				<date>1717</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<authority>publié par Paul FIEVRE, Septembre 2006, revu mars 2015.</authority>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire orientale</inspiration>
@@ -42,17 +43,17 @@
 				<premiere date='1717-04-10' location='Théâtre français'>Représenté pour la première fois le 10 avril 1717 au Théâtre français par la troupe de la Comédie française.</premiere>
 			</performance>
 <castList><head>Acteurs</head>
-	<castItem><role id="SEMIRAMIS" civil="F" type="H" statut='roi' age='A' stat_amour='néant'>SÉMIRAMIS</role>.</castItem>
-	<castItem><role id="BELUS" civil="M" type="H" statut='prince' age='A' stat_amour='néant'>BÉLUS</role>, frère de Sémiramis.</castItem>
-	<castItem><role id="MADATE" civil="M" type="H" statut='aristocrate' age='A' stat_amour='néant'>MADATE</role>.</castItem>
-	<castItem><role id="MERMECIDE" civil="M" type="H" statut='aristocrate' age='A' stat_amour='néant'>MERMÉCIDE</role>.</castItem>
-	<castItem><role id="TENESIS" civil="F" type="H" statut='aristocrate' age='A' stat_amour='néant'>TÉNÉSIS</role>, fille de Bélus.</castItem>
-	<castItem><role id="AGENOR" civil="F" type="H" statut='aristocrate' age='A' stat_amour='néant'>AGÉNOR</role>.</castItem>
-	<castItem><role id="MIRAME" civil="F" type="H" statut='confident' age='A' stat_amour='néant'>MIRAME</role>, confident de Ninias.</castItem>
-	<castItem><role id="PHENICE" civil="F" type="H" statut='confident' age='A' stat_amour='néant'>PHÉNICE</role>, confidente de Sémiramis.</castItem>
-	<castItem><role id="ARBAS" civil="M" type="H" statut='capitaine' age='A' stat_amour='néant'>ARBAS</role>, capitaine des Gardes.</castItem>
-	<castItem><role id="NINIAS" civil="M" type="H" statut='prince' age='A' stat_amour='néant'>NINIAS</role>, fils de Sémiramis, élevé sous le nom d'Agénor.</castItem>
-	<castItem><role id="GARDES" civil="G" type="H" statut='garde' age='A' stat_amour='néant'>GARDES</role>.</castItem>
+	<castItem><role id="SEMIRAMIS" sex="2" type="H" statut='roi' age='A' stat_amour='néant'>SÉMIRAMIS</role>.</castItem>
+	<castItem><role id="BELUS" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>BÉLUS</role>, frère de Sémiramis.</castItem>
+	<castItem><role id="MADATE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>MADATE</role>.</castItem>
+	<castItem><role id="MERMECIDE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>MERMÉCIDE</role>.</castItem>
+	<castItem><role id="TENESIS" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>TÉNÉSIS</role>, fille de Bélus.</castItem>
+	<castItem><role id="AGENOR" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>AGÉNOR</role>.</castItem>
+	<castItem><role id="MIRAME" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>MIRAME</role>, confident de Ninias.</castItem>
+	<castItem><role id="PHENICE" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>PHÉNICE</role>, confidente de Sémiramis.</castItem>
+	<castItem><role id="ARBAS" sex="1" type="H" statut='capitaine' age='A' stat_amour='néant'>ARBAS</role>, capitaine des Gardes.</castItem>
+	<castItem><role id="NINIAS" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>NINIAS</role>, fils de Sémiramis, élevé sous le nom d'Agénor.</castItem>
+	<castItem><role id="GARDES" sex="9" type="H" statut='garde' age='A' stat_amour='néant'>GARDES</role>.</castItem>
 </castList>
 
 <set location='Babylone' country='Irak' periode='Temps mythologiques' link=''>La scène est à Babylone, dans le palais de Sémiramis.</set>

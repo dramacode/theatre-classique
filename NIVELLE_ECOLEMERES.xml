@@ -7,9 +7,10 @@
 				<author born='1692' born_location='Paris' death='1754' death_location='Paris' academie='1736'>NIVELLE de la CHAUSSÉE, Pierre</author>
 				<date>1745</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE</p><p>Mai 2006</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -44,17 +45,17 @@
 		</performance>
 		<castList>
 			<head>ACTEURS</head>
-			<castItem><role id="Monsieur ARGANT" civil="M" type="H" statut='bourgeois' age='A' stat_amour='néant'>Monsieur ARGANT</role>.</castItem>
-			<castItem><role id="Madame ARGANT" civil="F" type="H" statut='bourgeois' age='A' stat_amour='néant'>Madame ARGANT</role>.</castItem>
-			<castItem><role id="LE MARQUIS" civil="M" type="H" statut='marquis' age='A' stat_amour='néant'>Le MARQUIS</role>, fils de Monsieur et Madame Argant.</castItem>
-			<castItem><role id="MARIANNE" civil="F" type="H" statut='bourgeois' age='A' stat_amour='néant'>MARIANNE</role>, fille de Monsieur et Madame Argant.</castItem>
-			<castItem><role id="DOLIGNI père" civil="M" type="H" statut='bourgeois' age='A' stat_amour='néant'>Monsieur DOLIGNI père</role>.</castItem>
-			<castItem><role id="DOLIGNI fils" civil="M" type="H" statut='bourgeois' age='A' stat_amour='néant'>Monsieur DOLIGNI fils</role>.</castItem>
-			<castItem><role id="ROSETTE" civil="F" type="H" statut='suivante' age='A' stat_amour='néant'>ROSETTE</role>, suivante de Madame Argant.</castItem>
-			<castItem><role id="LA FLEUR" civil="M" type="H" statut='valet' age='A' stat_amour='néant'>LA FLEUR</role>, valet de chambre du Marquis.</castItem>
-			<castItem><role id="MAITRE D'HOTEL" civil="M" type="H" statut="mai$itre d'hôtel" age='A' stat_amour='néant'>Un MAÎTRE d'HÔTEL</role>.</castItem>
-			<castItem><role id="UN-COUREUR" civil="M" type="H" statut='coureur' age='A' stat_amour='néant'>Un COUREUR</role>.</castItem>
-			<castItem><role id="LAQUAIS" civil="G" type="H" statut='laquais' age='A' stat_amour='néant'>Plusieurs LAQUAIS</role>.</castItem>
+			<castItem><role id="Monsieur ARGANT" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>Monsieur ARGANT</role>.</castItem>
+			<castItem><role id="Madame ARGANT" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>Madame ARGANT</role>.</castItem>
+			<castItem><role id="LE MARQUIS" sex="1" type="H" statut='marquis' age='A' stat_amour='néant'>Le MARQUIS</role>, fils de Monsieur et Madame Argant.</castItem>
+			<castItem><role id="MARIANNE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>MARIANNE</role>, fille de Monsieur et Madame Argant.</castItem>
+			<castItem><role id="DOLIGNI père" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>Monsieur DOLIGNI père</role>.</castItem>
+			<castItem><role id="DOLIGNI fils" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>Monsieur DOLIGNI fils</role>.</castItem>
+			<castItem><role id="ROSETTE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>ROSETTE</role>, suivante de Madame Argant.</castItem>
+			<castItem><role id="LA FLEUR" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>LA FLEUR</role>, valet de chambre du Marquis.</castItem>
+			<castItem><role id="MAITRE D'HOTEL" sex="1" type="H" statut="mai$itre d'hôtel" age='A' stat_amour='néant'>Un MAÎTRE d'HÔTEL</role>.</castItem>
+			<castItem><role id="UN-COUREUR" sex="1" type="H" statut='coureur' age='A' stat_amour='néant'>Un COUREUR</role>.</castItem>
+			<castItem><role id="LAQUAIS" sex="9" type="H" statut='laquais' age='A' stat_amour='néant'>Plusieurs LAQUAIS</role>.</castItem>
 		</castList>
 		<set location='Paris' country='France' periode='XVIIIème' link=''>La scène est à Paris, dans la maison de Monsieur et Madame Argant.</set>
 	</front>

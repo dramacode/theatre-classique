@@ -6,9 +6,10 @@
 				<title>IRÈNE, TRAGÉDIE</title>
 				<author born='1694' born_location='Paris' death='1778' death_location='Paris' academie='1746'>VOLTAIRE</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<authority>publié par Paul FIEVRE, Septembre 2006</authority>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire romaine</inspiration>
@@ -69,14 +70,14 @@
 </epitre>
 
 <castList><head>ACTEURS</head>
-	<castItem><role id="NICÉPHORE" civil='M' type="H" statut='empereur' age='A' stat_amour='néant'>NICÉPHORE</role>, empereur de Constantinople.</castItem>
-	<castItem><role id="IRÈNE" civil='F' type="H" statut='empereur' age='A' stat_amour='néant'>IRÈNE</role>, femme de Nicéphore.</castItem>
-	<castItem><role id="ALEXIS" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>ALEXIS COMMÈNE</role>, prince de Grèce.</castItem>
-	<castItem><role id="LÉONCE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>LÉONCE</role>, père d'Irène.</castItem>
-	<castItem><role id="MEMNON" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>MEMNON</role>, attaché au prince Alexis.</castItem>
-	<castItem><role id="ZOÉ" civil='F' type="H" statut='suivante' age='A' stat_amour='néant'>ZOÉ</role>, favorite, suivante d'Irène.</castItem>
-	<castItem><role id="OFFICIER" civil='M' type="H" statut='officier' age='A' stat_amour='néant'>UN OFFICIER de l'empereur</role>.</castItem>
-	<castItem><role id="GARDES" civil='G' type="H" statut='garde' age='A' stat_amour='néant'>GARDES</role>.</castItem>
+	<castItem><role id="NICÉPHORE" sex="1" type="H" statut='empereur' age='A' stat_amour='néant'>NICÉPHORE</role>, empereur de Constantinople.</castItem>
+	<castItem><role id="IRÈNE" sex="2" type="H" statut='empereur' age='A' stat_amour='néant'>IRÈNE</role>, femme de Nicéphore.</castItem>
+	<castItem><role id="ALEXIS" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>ALEXIS COMMÈNE</role>, prince de Grèce.</castItem>
+	<castItem><role id="LÉONCE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>LÉONCE</role>, père d'Irène.</castItem>
+	<castItem><role id="MEMNON" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>MEMNON</role>, attaché au prince Alexis.</castItem>
+	<castItem><role id="ZOÉ" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>ZOÉ</role>, favorite, suivante d'Irène.</castItem>
+	<castItem><role id="OFFICIER" sex="1" type="H" statut='officier' age='A' stat_amour='néant'>UN OFFICIER de l'empereur</role>.</castItem>
+	<castItem><role id="GARDES" sex="9" type="H" statut='garde' age='A' stat_amour='néant'>GARDES</role>.</castItem>
 </castList>
 <set location='Constantinople' country='Turquie' periode='IXème' link=''>La scène est dans un salon de l'ancien palais de Constantin.</set>
 </front>

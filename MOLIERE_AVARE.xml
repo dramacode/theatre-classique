@@ -6,9 +6,10 @@
 				<title>L´AVARE, COMÉDIE</title>
 			<author born='1622' born_location='Paris' death='1673' death_location='Paris' academie=''>MOLIÈRE</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<publisher>publié par Paul FIEVRE, Septembre 2008, révision par Paul FIEVRE, 2008-11-30</publisher>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -45,21 +46,21 @@
 			<printer id="RIBOU">À Paris, Chez JEAN RIBOU, au Palais, vis à vis la Porte de l´Église de la Sainte-Chapelle, à l´image Saint Louis.</printer>
 		</docImprint>
 		<castList><head>Personnages </head>
-			<castItem><role id="HARPAGON" civil="M" type="H" statut="bourgeois" age="A" stat_amour="Mariane">HARPAGON</role>, père de Cléante et d´Élise, et amoureux de Mariane.</castItem>
-			<castItem><role id="CLÉANTE" civil="M" type="H" statut="bourgeois" age="A" stat_amour="Mariane">CLÉANTE</role>, fils d´Harpagon, amant de Mariane.</castItem>
-			<castItem><role id="ÉLISE" civil="F" type="H" statut="bourgeois" age="A" stat_amour="Valère">ÉLISE</role>, fille d´Harpagon, amante de Valère. </castItem>
-			<castItem><role id="VALÈRE" civil="M" type="H" statut="bourgeois" age="A" stat_amour="Élise">VALÈRE</role>, fils d´Anselme, et amant d´Élise. </castItem>
-			<castItem><role id="MARIANE" civil="F" type="H" statut="bourgeois" age="A" stat_amour="Cléante">MARIANE</role>, amante de Cléante, et aimée d´Harpagon. </castItem>
-			<castItem><role id="ANSELME" civil="M" type="H" statut="bourgeois" age="V" stat_amour="néant">ANSELME</role>, père de Valère et de Mariane. </castItem>
-			<castItem><role id="FROSINE" civil="F" type="H" statut="bourgeois" age="A" stat_amour="néant">FROSINE</role>, femme d´intrigue. </castItem>
-			<castItem><role id="MAITRE-SIMON" civil="M" type="H" statut="courtier" age="A" stat_amour="néant">MAÎTRE SIMON</role>, courtier. </castItem>
-			<castItem><role id="MAITRE-JACQUES" civil="M" type="H" statut="cuisinier-cocher" age="A" stat_amour="néant">MAÎTRE JACQUES</role>, cuisinier et cocher d´Harpagon. </castItem>
-			<castItem><role id="LA FLECHE" civil="M" type="H" statut="valet" age="A" stat_amour="néant">LA FLÈCHE</role>, valet de Cléante. </castItem>
-			<castItem><role id="DAME-CLAUDE" civil="F" type="H" statut="servante" age="A" stat_amour="néant">DAME CLAUDE</role>, servante d´Harpagon. </castItem>
-			<castItem><role id="BRINDAVOINE" civil="M" type="H" statut="laquais" age="A" stat_amour="néant">BRINDAVOINE</role>, laquais d´Harpagon. </castItem>
-			<castItem><role id="LA-MERLUCHE" civil="M" type="H" statut="laquais" age="A" stat_amour="néant">LA MERLUCHE</role>, laquais d´Harpagon. </castItem>
-			<castItem><role id="LE COMMISSAIRE" civil="M" type="H" statut="commissaire" age="A" stat_amour="néant">LE COMMISSAIRE</role>. </castItem>
-			<castItem><role id="LE CLERC" civil="M" type="H" statut="clerc" age="A" stat_amour="néant">LE CLERC</role>. </castItem>
+			<castItem><role id="HARPAGON" sex="1" type="H" statut="bourgeois" age="A" stat_amour="Mariane">HARPAGON</role>, père de Cléante et d´Élise, et amoureux de Mariane.</castItem>
+			<castItem><role id="CLÉANTE" sex="1" type="H" statut="bourgeois" age="J" stat_amour="Mariane">CLÉANTE</role>, fils d´Harpagon, amant de Mariane.</castItem>
+			<castItem><role id="ÉLISE" sex="2" type="H" statut="bourgeois" age="J" stat_amour="Valère">ÉLISE</role>, fille d´Harpagon, amante de Valère. </castItem>
+			<castItem><role id="VALÈRE" sex="1" type="H" statut="bourgeois" age="J" stat_amour="Élise">VALÈRE</role>, fils d´Anselme, et amant d´Élise. </castItem>
+			<castItem><role id="MARIANE" sex="2" type="H" statut="bourgeois" age="J" stat_amour="Cléante">MARIANE</role>, amante de Cléante, et aimée d´Harpagon. </castItem>
+			<castItem><role id="ANSELME" sex="1" type="H" statut="bourgeois" age="V" stat_amour="néant">ANSELME</role>, père de Valère et de Mariane. </castItem>
+			<castItem><role id="FROSINE" sex="2" type="H" statut="bourgeois" age="A" stat_amour="néant">FROSINE</role>, femme d´intrigue. </castItem>
+			<castItem><role id="MAITRE-SIMON" sex="1" type="H" statut="courtier" age="A" stat_amour="néant">MAÎTRE SIMON</role>, courtier. </castItem>
+			<castItem><role id="MAITRE-JACQUES" sex="1" type="H" statut="cuisinier-cocher" age="A" stat_amour="néant">MAÎTRE JACQUES</role>, cuisinier et cocher d´Harpagon. </castItem>
+			<castItem><role id="LA FLECHE" sex="1" type="H" statut="valet" age="A" stat_amour="néant">LA FLÈCHE</role>, valet de Cléante. </castItem>
+			<castItem><role id="DAME-CLAUDE" sex="2" type="H" statut="servante" age="A" stat_amour="néant">DAME CLAUDE</role>, servante d´Harpagon. </castItem>
+			<castItem><role id="BRINDAVOINE" sex="1" type="H" statut="laquais" age="A" stat_amour="néant">BRINDAVOINE</role>, laquais d´Harpagon. </castItem>
+			<castItem><role id="LA-MERLUCHE" sex="1" type="H" statut="laquais" age="A" stat_amour="néant">LA MERLUCHE</role>, laquais d´Harpagon. </castItem>
+			<castItem><role id="LE COMMISSAIRE" sex="1" type="H" statut="commissaire" age="A" stat_amour="néant">LE COMMISSAIRE</role>. </castItem>
+			<castItem><role id="LE CLERC" sex="1" type="H" statut="clerc" age="A" stat_amour="néant">LE CLERC</role>. </castItem>
 		</castList>
 <set location="Paris" country="France" periode="XVIIème" link="">La scène est à Paris. </set>
 </front>

@@ -7,9 +7,10 @@
 			<author born='1723' born_location='Bort-les-Orgues' death='1799' death_location='Maint-Aubin-sur-Gaillon' academie='1763'>MARMONTEL, Jean-François</author>
 				<date>1661</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, novembre 2011.</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Opéra</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -43,24 +44,24 @@
 			<premiere location="Théâtre du Palais-Royal" date="1761-03-04">representée pour la premiere fois par l'Academie Royale de Musique le 4 mars 1761.</premiere>
 		</performance>
 <castList><head>PERSONNAGES</head>
-	<castItem><role id="HERCULE" civil='M'>HERCULE</role>.</castItem> 
-	<castItem><role id="DÉJANIRE" civil='F'>DÉJANIRE</role>, épouse d'Hercule.</castItem> 
-	<castItem><role id="HILUS" civil='M'>HILUS</role>, fils d'Hercule et de Déjanire.</castItem> 
-	<castItem><role id="PHILOCTÈTE" civil='M'>PHILOCTÈTE</role>, compagnon d'Hercule.</castItem> 
-	<castItem><role id="IOLE" civil='F'>IOLE</role>, Princesse captive.</castItem> 
-	<castItem><role id="LYCHAS" civil='M'>LYCHAS</role>, esclave d'Hercule.</castItem> 
-	<castItem><role id="DIRCÉ" civil='F'>DIRCÉ</role>, confidante de Déjanire.</castItem> 
-	<castItem><role id="JUPITER" civil='D'>JUPITER</role>.</castItem> 
-	<castItem><role id="JUNON" civil='D'>JUNON</role>.</castItem> 
-	<castItem><role id="LA-JALOUSIE" civil='A'>LA JALOUSIE</role>.</castItem> 
-	<castItem><role id="UNE-THESALIENNE" civil='F'>UNE THESALIENNE</role>.</castItem> 
-	<castItem><role id="CHOEURS-de-Thessaliens" civil='G'>CHOEURS de Thessaliens</role>.</castItem> 
-	<castItem><role id="CHOEURS-de-Captifs" civil='G'>CHOEURS de Captifs</role>.</castItem> 
-	<castItem><role id="CHOEURS-de-Combattants-dans-les-Jeux-Olympiques" civil='G'>CHOEURS de Combattants dans les Jeux Olympiques</role>.</castItem> 
-	<castItem><role id="CHOEURS-de-Prêtres-de-Jupiter" civil='G'>CHOEURS de Prêtres de Jupiter</role>.</castItem> 
-	<castItem><role id="CHOEURS-de-Femmes-Suivantes-de-Déjanire" civil='G'>CHOEURS de Femmes Suivantes de Déjanire</role>.</castItem> 
-	<castItem><role id="CHOEURS-de-Guerriers-Compagnons" civil='G'>CHOEURS de Guerriers Compagnons d'Hercule</role>.</castItem> 
-	<castItem><role id="CHOEURS-de-Divinités-célestes" civil='G'>CHOEURS de Divinités célestes</role>.</castItem> 
+	<castItem><role id="HERCULE" sex="1" type="H" statut='roi' age='A' stat_amour=''>HERCULE</role>.</castItem> 
+	<castItem><role id="DÉJANIRE" sex="2" type="H" statut='aristocrate' age='A' stat_amour=''>DÉJANIRE</role>, épouse d'Hercule.</castItem> 
+	<castItem><role id="HILUS" sex="1" type="H" statut='prince' age='J' stat_amour=''>HILUS</role>, fils d'Hercule et de Déjanire.</castItem> 
+	<castItem><role id="PHILOCTÈTE" sex="1" type="H" statut='soldat' age='A' stat_amour=''>PHILOCTÈTE</role>, compagnon d'Hercule.</castItem> 
+	<castItem><role id="IOLE" sex="2" type="H" statut='prince' age='A' stat_amour=''>IOLE</role>, Princesse captive.</castItem> 
+	<castItem><role id="LYCHAS" sex="1" type="H" statut='esclave' age='A' stat_amour=''>LYCHAS</role>, esclave d'Hercule.</castItem> 
+	<castItem><role id="DIRCÉ" sex="2" type="H" statut='confident' age='A' stat_amour=''>DIRCÉ</role>, confidente de Déjanire.</castItem> 
+	<castItem><role id="JUPITER" sex='1' type="D" statut='dieu' age='A' stat_amour=''>JUPITER</role>.</castItem> 
+	<castItem><role id="JUNON" sex='2' type="D" statut='dieu' age='A' stat_amour=''>JUNON</role>.</castItem> 
+	<castItem><role id="LA JALOUSIE" sex="2" type="D" statut='allégorie' age='A' stat_amour=''>LA JALOUSIE</role>.</castItem> 
+	<castItem><role id="UNE THESALIENNE" sex="2" type="H" statut='bourgeois' age='A' stat_amour=''>UNE THESALIENNE</role>.</castItem> 
+	<castItem><role id="CHOEURS de Thessaliens" sex="9" type="H" statut='choeur' age='A' stat_amour=''>CHOEURS de Thessaliens</role>.</castItem> 
+	<castItem><role id="CHOEURS de Captifs" sex="1" type="H" statut='prisonnier' age='A' stat_amour=''>CHOEURS de Captifs</role>.</castItem> 
+	<castItem><role id="CHOEURS de Combattants dans les Jeux Olympiques" sex="1" type="H" statut='sportif' age='A' stat_amour=''>CHOEURS de Combattants dans les Jeux Olympiques</role>.</castItem> 
+	<castItem><role id="CHOEURS de Prêtres de Jupiter" sex="1" type="H" statut='prêtre' age='A' stat_amour=''>CHOEURS de Prêtres de Jupiter</role>.</castItem> 
+	<castItem><role id="CHOEURS de Femmes Suivantes de Déjanire" sex="2" type="H" statut='choeur' age='A' stat_amour=''>CHOEURS de Femmes Suivantes de Déjanire</role>.</castItem> 
+	<castItem><role id="CHOEURS de Guerriers Compagnons" sex="1" type="H" statut='soldat' age='A' stat_amour=''>CHOEURS de Guerriers Compagnons d'Hercule</role>.</castItem> 
+	<castItem><role id="CHOEURS de Divinités célestes" sex="9" type="D" statut='dieu' age='A' stat_amour=''>CHOEURS de Divinités célestes</role>.</castItem> 
 </castList>
 	<set location='Lieu mythologique' periode='Temps mythologiques' country='Pays mythologique' link=''></set>
 </front>

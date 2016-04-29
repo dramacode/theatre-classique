@@ -7,9 +7,10 @@
 				<author born='1609' born_location='Dreux' death='1650' death_location='Dreux' academie=''>ROTROU, Jean</author>
 				<date>1637</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<authority>publié par Ernest FIEVRE, avril 2007</authority>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragi-comédie</genre>
 				<inspiration>histoire espagnole</inspiration>
@@ -173,18 +174,18 @@
 
 
 <castList><head>LES ACTEURS</head>
-	<castItem><role id='DON-BERNARD' civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>DON BERNARD DE CABRERE</role>, favori du roi.</castItem>
-	<castItem><role id='DON-LOPE' civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>DON LOPE DE LUNE</role>, ami de Don Bernard.</castItem>
-	<castItem><role id='DON-PEDRE' civil='M' type="H" statut='roi' age='A' stat_amour='néant'>DON PEDRE</role>, roi d'Aragon.</castItem>
-	<castItem><role id='INFANTE' civil='F' type="H" statut='prince' age='A' stat_amour='amoureux'>L'INFANTE</role>, sa soeur, maîtresse de Don Bernard.</castItem>
-	<castItem><role id='LEONOR' civil='F' type="H" statut='aristocrate' age='A' stat_amour='amoureux'>LÉONOR</role>, maîtresse du Roi.</castItem>
-	<castItem><role id='IGNES' civil='F' type="H" statut='suivant' age='A' stat_amour='néant'>IGNES</role>, suivante.</castItem>
-	<castItem><role id='LE_COMTE' civil='M' type="H" statut='capitaine' age='A' stat_amour='néant'>LE COMTE</role>, capitaine des gardes.</castItem>
-	<castItem><role id='PEREZ' civil='M' type="H" statut='secrétaire du roi' age='A' stat_amour='néant'>PEREZ</role>, secrétaire du Roi.</castItem>
-	<castItem><role id='LAZARILLE' civil='M' type="H" statut='suivant' age='A' stat_amour='néant'>LAZARILLE</role>, suivant de Don Lope.</castItem>
-	<castItem><role id='GOUVERNEUR' civil='M' type="H" statut='gouverneur' age='A' stat_amour='néant'>LE GOUVERNEUR DE SARAGOSSE</role>.</castItem>
-	<castItem><role id='SOLDATS' civil='G' type="H" statut='soorlat' age='A' stat_amour='néant'>SOLDATS</role>.</castItem>
-	<castItem><role id='GARDES' civil='G' type="H" statut='garde' age='A' stat_amour='néant'>GARDES</role>.</castItem>
+	<castItem><role id='DON-BERNARD' sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>DON BERNARD DE CABRERE</role>, favori du roi.</castItem>
+	<castItem><role id='DON-LOPE' sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>DON LOPE DE LUNE</role>, ami de Don Bernard.</castItem>
+	<castItem><role id='DON-PEDRE' sex="1" type="H" statut='roi' age='A' stat_amour='néant'>DON PEDRE</role>, roi d'Aragon.</castItem>
+	<castItem><role id='INFANTE' sex="2" type="H" statut='prince' age='A' stat_amour='amoureux'>L'INFANTE</role>, sa soeur, maîtresse de Don Bernard.</castItem>
+	<castItem><role id='LEONOR' sex="2" type="H" statut='aristocrate' age='A' stat_amour='amoureux'>LÉONOR</role>, maîtresse du Roi.</castItem>
+	<castItem><role id='IGNES' sex="2" type="H" statut='suivant' age='A' stat_amour='néant'>IGNES</role>, suivante.</castItem>
+	<castItem><role id='LE_COMTE' sex="1" type="H" statut='capitaine' age='A' stat_amour='néant'>LE COMTE</role>, capitaine des gardes.</castItem>
+	<castItem><role id='PEREZ' sex="1" type="H" statut='secrétaire du roi' age='A' stat_amour='néant'>PEREZ</role>, secrétaire du Roi.</castItem>
+	<castItem><role id='LAZARILLE' sex="1" type="H" statut='suivant' age='A' stat_amour='néant'>LAZARILLE</role>, suivant de Don Lope.</castItem>
+	<castItem><role id='GOUVERNEUR' sex="1" type="H" statut='gouverneur' age='A' stat_amour='néant'>LE GOUVERNEUR DE SARAGOSSE</role>.</castItem>
+	<castItem><role id='SOLDATS' sex="9" type="H" statut='soorlat' age='A' stat_amour='néant'>SOLDATS</role>.</castItem>
+	<castItem><role id='GARDES' sex="9" type="H" statut='garde' age='A' stat_amour='néant'>GARDES</role>.</castItem>
 </castList>
 <set location='Saragosse' country='Italie' periode="XIVème" link=''>La scène est à Saragosse, dans le Palais du Roi.</set>
 </front>

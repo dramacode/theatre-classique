@@ -7,9 +7,10 @@
 				<author born='1689' born_location='Dijon' death='1773' death_location='Paris' academie=''>PIRON, Alexis</author>
 				<date>1776</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<authority></authority>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Pastorale</genre>
 				<inspiration>pastorale</inspiration>
@@ -50,11 +51,11 @@
 <P></P>
 </div>
 <castList><head>PERSONNAGES</head>
-	<castItem><role id="LYSIS" civil='M' type="H" statut='berger' age='A' stat_amour='amoureux'>LYSIS</role>, berger fidèle.</castItem>
-	<castItem><role id="HYLAS" civil='M' type="H" statut='berger' age='A' stat_amour='amoureux'>HYLAS</role>, berger inconstant.</castItem>
-	<castItem><role id="SYLVIE" civil='S' type="H" statut='berger' age='A' stat_amour='amoureux'>SYLVIE</role>, amante de Lysis.</castItem>
-	<castItem><role id="CHOEUR" civil='G' type="H" statut='berger' age='A' stat_amour='néant'>CHOEUR DE BERGERS et de BERGÈRES</role>.</castItem>
-	<castItem><role id="TIMERETTE" civil='F' type="H" statut='confident' age='A' stat_amour='néant'>TIMARETTE</role>, confidente, amies de Sylvie.</castItem>
+	<castItem><role id="LYSIS" sex="1" type="H" statut='berger' age='A' stat_amour='amoureux'>LYSIS</role>, berger fidèle.</castItem>
+	<castItem><role id="HYLAS" sex="1" type="H" statut='berger' age='A' stat_amour='amoureux'>HYLAS</role>, berger inconstant.</castItem>
+	<castItem><role id="SYLVIE" sex="2" type="H" statut='berger' age='A' stat_amour='Lysis'>SYLVIE</role>, amante de Lysis.</castItem>
+	<castItem><role id="CHOEUR" sex="9" type="H" statut='berger' age='A' stat_amour='néant'>CHOEUR DE BERGERS et de BERGÈRES</role>.</castItem>
+	<castItem><role id="TIMERETTE" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>TIMARETTE</role>, confidente, amie de Sylvie.</castItem>
 </castList>
 <set location='Lignon' country='France' periode='Temps féériques' link=''>La scène est sur le bord du Lignon.</set>
 </front>

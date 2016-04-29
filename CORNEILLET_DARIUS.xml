@@ -7,9 +7,10 @@
 				<author born='1625' born_location='Rouen' death='1709' death_location='Les Andelys' academie='1685'>CORNEILLE, Thomas</author>
 				<date>1659</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Ernest FIEVRE, Septembre 2009</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire perse</inspiration>
@@ -43,14 +44,14 @@
 			<premiere date="1659" location='Hôtel de Bourgogne'>Réprésenté pour la première fois en 1659 à l'Hôtel de Bourgogne.</premiere>
 		</performance>
 	<castList><head>ACTEURS.</head>
-		<castItem><role id="OCHUS" civil='M' type="H" statut='roi' age='A' stat_amour='néant'>OCHUS</role>, roi de Perse.</castItem>
-		<castItem><role id="DARIUS" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>DARIUS</role>, déguisé sous le nom de Codoman, fils d'un Darius aîné d'Ochus.</castItem>
-		<castItem><role id="STATIRA" civil='F' type="H" statut='prince' age='A' stat_amour='néant'>STATIRA</role>, fille d'Ochus.</castItem>
-		<castItem><role id="AMESTRIS" civil='F' type="H" statut='prince' age='A' stat_amour='néant'>AMESTRIS</role>, soeur d'Ochus </castItem>
-		<castItem><role id="MÉGABISE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>MÉGABISE</role>, favori d'Ochus.</castItem>
-		<castItem><role id="OROPASTE" civil='M' type="H" statut='capitaine' age='A' stat_amour='néant'>OROPASTE</role>, capitaine des Gardes d'Ochus.</castItem>
-		<castItem><role id="BAGOAS" civil='M' type="H" statut='confident' age='A' stat_amour='néant'>BAGOAS</role>, confident de Mégabise.</castItem>
-		<castItem><role id="BARSINE" civil='F' type="H" statut='confident' age='A' stat_amour='néant'>BARSINE</role>, confidente de Statira.</castItem>
+		<castItem><role id="OCHUS" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>OCHUS</role>, roi de Perse.</castItem>
+		<castItem><role id="DARIUS" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>DARIUS</role>, déguisé sous le nom de Codoman, fils d'un Darius aîné d'Ochus.</castItem>
+		<castItem><role id="STATIRA" sex="2" type="H" statut='prince' age='A' stat_amour='néant'>STATIRA</role>, fille d'Ochus.</castItem>
+		<castItem><role id="AMESTRIS" sex="2" type="H" statut='prince' age='A' stat_amour='néant'>AMESTRIS</role>, soeur d'Ochus </castItem>
+		<castItem><role id="MÉGABISE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>MÉGABISE</role>, favori d'Ochus.</castItem>
+		<castItem><role id="OROPASTE" sex="1" type="H" statut='capitaine' age='A' stat_amour='néant'>OROPASTE</role>, capitaine des Gardes d'Ochus.</castItem>
+		<castItem><role id="BAGOAS" sex="1" type="H" statut='confident' age='A' stat_amour='néant'>BAGOAS</role>, confident de Mégabise.</castItem>
+		<castItem><role id="BARSINE" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>BARSINE</role>, confidente de Statira.</castItem>
 	</castList>
 	<set location='Persépolis' country='Iran' periode='Vème avant JC' link=''>La Scène est à Persépolis. </set>
 	</front>

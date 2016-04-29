@@ -6,9 +6,10 @@
 				<title>ARMIDE, TRAGÉDIE.</title>
 				<author born='1635' born_location='Paris' death='1688' death_location='Paris' academie='1670'>QUINAULT, Philippe</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, février 2013.</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Opéra</genre>
 				<inspiration>histoire française</inspiration>
@@ -43,37 +44,37 @@
 			<premiere date='1686-02-15' location='Théâtre du Palais-Royal'>Représenté par l'Académie royale de musique, le 15 février 1686 au Palais Royal.</premiere>
 		</performance>
 		<castList><head>ACTEURS DU PROLOGUE</head>
-			<castItem><role id="LA GLOIRE" civil='F' type="H" statut='allégorie' age='A' stat_amour='néant'>LA GLOIRE</role>.</castItem>
-			<castItem><role id="TROUPE DE HÉROS" civil='G' type="H" statut='suite' age='A' stat_amour='néant'>TROUPE de HEROS</role>,  qui suivent le Gloire.</castItem>
-			<castItem><role id="LA SAGESSE" civil='F' type="A" statut='allégorie' age='A' stat_amour='néant'>LA SAGESSE</role></castItem>
-			<castItem><role id="TROUPE de NYMPHES" civil='G' type="H" statut='suite' age='A' stat_amour='néant'>TROUPE de NYMPHES</role>, qui fuient la Sagesse.</castItem>
+			<castItem><role id="LA GLOIRE" sex="2" type="H" statut='allégorie' age='A' stat_amour='néant'>LA GLOIRE</role>.</castItem>
+			<castItem><role id="TROUPE DE HÉROS" sex="9" type="H" statut='suite' age='A' stat_amour='néant'>TROUPE de HEROS</role>,  qui suivent le Gloire.</castItem>
+			<castItem><role id="LA SAGESSE" sex="2" type="P" statut='allégorie' age='A' stat_amour='néant'>LA SAGESSE</role></castItem>
+			<castItem><role id="TROUPE de NYMPHES" sex="9" type="H" statut='suite' age='A' stat_amour='néant'>TROUPE de NYMPHES</role>, qui fuient la Sagesse.</castItem>
 		</castList>
 		<castList><head>ACTEURS DE LA TRAGÉDIE</head>
-			<castItem><role id="ARMIDE" civil='F' type="H" statut='magicien' age='A' stat_amour='néant'>ARMIDE</role>, Magicienne, nièce d'Hidraot.</castItem>
-			<castItem><role id="PHÉNICE" civil='F' type="H" statut='confident' age='A' stat_amour='néant'>PHÉNICE</role>, confidente d'Armide.</castItem>
-			<castItem><role id="SIDONIE" civil='F' type="H" statut='confident' age='A' stat_amour='néant'>SIDONIE</role>, autre confidente d'Armide.</castItem>
-			<castItem><role id="HIDRAOT" civil='M' type="H" statut='magicien' age='A' stat_amour='néant'>HIDRAOT</role>, Magicien , Roi de Damas.</castItem>
-			<castItem><role id="TROUPE DE PEUPLES" civil='G' type="H" statut='peuple' age='A' stat_amour='néant'>TROUPE de PEUPLES du Royaume de Damas</role>.</castItem>
-			<castItem><role id="ARONTE" civil='M' type="H" statut='chevalier' age='A' stat_amour='néant'>ARONTE</role>, Conducteur des Chevaliers qu'Armide a fait mettre aux fers.</castItem>
-			<castItem><role id="RENAUD" civil='M' type="H" statut='chevalier' age='A' stat_amour='néant'>RENAUD</role>, le plus renommé des Chevaliers du Camp de Godefroy.</castItem>
-			<castItem><role id="ARTEMIDORE" civil='M' type="H" statut='chevalier' age='A' stat_amour='néant'>ARTEMIDORE</role>, un des chevaliers captifs d'Armide et que Renaud a délivré.</castItem>
-			<castItem><role id="UN DÉMON" civil='F' type="D" statut='naïade' age='A' stat_amour='néant'>UN DÉMON</role>, transformé en Naïade.</castItem>
-			<castItem><role id="TROUPE de DÉMONS" civil='G' type="H" statut='suite' age='A' stat_amour='néant'>TROUPE de DÉMONS</role>, transformés en Nymphes, en Bergers et en Bergères.</castItem>
-			<castItem><role id="TROUPE DE DÉMONS VOLANTS" civil='G' type="H" statut='démon' age='A' stat_amour='néant'>TROUPE de DÉMONS volants</role>, et transformés en Zéphirs.</castItem>
-			<castItem><role id="LA HAINE" civil='G' type="H" statut='allégorie' age='A' stat_amour='néant'>LA HAINE</role>.</castItem>
-			<castItem><role id="SUITE DE LA HAINE" civil='G' type="H" statut='suite' age='A' stat_amour='néant'>SUITE DE LA HAINE</role>.</castItem>
-			<castItem><role id="LES FURIES" civil='G' type="H" statut='furie' age='A' stat_amour='néant'>LES FURIES</role>.</castItem>
-			<castItem><role id="LA CRUAUTÉ" civil='G' type="H" statut='allégorie' age='A' stat_amour='néant'>LA CRUAUTÉ</role>.</castItem>
-			<castItem><role id="LA VENGEANCE" civil='G' type="H" statut='allégorie' age='A' stat_amour='néant'>LA VENGEANCE</role>.</castItem>
-			<castItem><role id="LA RAGE" civil='G' type="H" statut='allégorie' age='A' stat_amour='néant'>LA RAGE</role>.</castItem>
-			<castItem><role id="UBALDE" civil='G' type="H" statut='chevalier' age='A' stat_amour='néant'>UBALDE</role>, Chevalier qui va chercher Renaud.</castItem>
-			<castItem><role id="LE CHEVALIER DANOIS" civil='G' type="H" statut='chevalier' age='A' stat_amour='néant'>LE CHEVALIER DANOIS</role>, qui va avec Ubalde chercher Renaud.</castItem>
-			<castItem><role id="LUCINDE" civil='G' type="H" statut='suite' age='A' stat_amour='néant'>UN DÉMON, sous la figure de Lucinde</role>, fille Danoise, aimée du Chevalier Danois.</castItem>
-			<castItem><role id="TROUPE de DÉMONS" civil='G' type="H" statut='suite' age='A' stat_amour='néant'>TROUPE DE DÉMONS</role>, transformés en habitants champêtres de l'île où Armide retient Renaud enchanté.</castItem>
-			<castItem><role id="MÉLISSE" civil='G' type="H" statut='suite' age='A' stat_amour='néant'>UN DÉMON, SOUS LA FIGURE DE MÉLISSE</role>, fille Italienne, aimée d'Ubalde.</castItem>
-			<castItem><role id="LES PLAISIRS" civil='G' type="H" statut='allégorie' age='A' stat_amour='néant'>LES PLAISIRS</role>.</castItem>
-			<castItem><role id="TROUPE de DÉMONS" civil='G' type="H" statut='suite' age='A' stat_amour='néant'>TROUPE de DÉMONS</role> qui paraissent sous la figure d'amants fortunés et d'amantes heureuses qui accompagnent Renaud dans le palais enchanté.</castItem>
-			<castItem><role id="TROUPE de DÉMONS" civil='G' type="H" statut='suite' age='A' stat_amour='néant'>TROUPE de DÉMONS volants</role>, qui détruisent le Palais enchanté.</castItem>
+			<castItem><role id="ARMIDE" sex="2" type="H" statut='magicien' age='A' stat_amour='néant'>ARMIDE</role>, Magicienne, nièce d'Hidraot.</castItem>
+			<castItem><role id="PHÉNICE" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>PHÉNICE</role>, confidente d'Armide.</castItem>
+			<castItem><role id="SIDONIE" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>SIDONIE</role>, autre confidente d'Armide.</castItem>
+			<castItem><role id="HIDRAOT" sex="1" type="H" statut='magicien' age='A' stat_amour='néant'>HIDRAOT</role>, Magicien , Roi de Damas.</castItem>
+			<castItem><role id="TROUPE DE PEUPLES" sex="9" type="H" statut='peuple' age='A' stat_amour='néant'>TROUPE de PEUPLES du Royaume de Damas</role>.</castItem>
+			<castItem><role id="ARONTE" sex="1" type="H" statut='chevalier' age='A' stat_amour='néant'>ARONTE</role>, Conducteur des Chevaliers qu'Armide a fait mettre aux fers.</castItem>
+			<castItem><role id="RENAUD" sex="1" type="H" statut='chevalier' age='A' stat_amour='néant'>RENAUD</role>, le plus renommé des Chevaliers du Camp de Godefroy.</castItem>
+			<castItem><role id="ARTEMIDORE" sex="1" type="H" statut='chevalier' age='A' stat_amour='néant'>ARTEMIDORE</role>, un des chevaliers captifs d'Armide et que Renaud a délivré.</castItem>
+			<castItem><role id="UN DÉMON" sex="2" type="D" statut='naïade' age='A' stat_amour='néant'>UN DÉMON</role>, transformé en Naïade.</castItem>
+			<castItem><role id="TROUPE de DÉMONS" sex="9" type="H" statut='suite' age='A' stat_amour='néant'>TROUPE de DÉMONS</role>, transformés en Nymphes, en Bergers et en Bergères.</castItem>
+			<castItem><role id="TROUPE DE DÉMONS VOLANTS" sex="9" type="H" statut='démon' age='A' stat_amour='néant'>TROUPE de DÉMONS volants</role>, et transformés en Zéphirs.</castItem>
+			<castItem><role id="LA HAINE" sex="9" type="H" statut='allégorie' age='A' stat_amour='néant'>LA HAINE</role>.</castItem>
+			<castItem><role id="SUITE DE LA HAINE" sex="9" type="H" statut='suite' age='A' stat_amour='néant'>SUITE DE LA HAINE</role>.</castItem>
+			<castItem><role id="LES FURIES" sex="9" type="H" statut='furie' age='A' stat_amour='néant'>LES FURIES</role>.</castItem>
+			<castItem><role id="LA CRUAUTÉ" sex="9" type="H" statut='allégorie' age='A' stat_amour='néant'>LA CRUAUTÉ</role>.</castItem>
+			<castItem><role id="LA VENGEANCE" sex="9" type="H" statut='allégorie' age='A' stat_amour='néant'>LA VENGEANCE</role>.</castItem>
+			<castItem><role id="LA RAGE" sex="9" type="H" statut='allégorie' age='A' stat_amour='néant'>LA RAGE</role>.</castItem>
+			<castItem><role id="UBALDE" sex="9" type="H" statut='chevalier' age='A' stat_amour='néant'>UBALDE</role>, Chevalier qui va chercher Renaud.</castItem>
+			<castItem><role id="LE CHEVALIER DANOIS" sex="9" type="H" statut='chevalier' age='A' stat_amour='néant'>LE CHEVALIER DANOIS</role>, qui va avec Ubalde chercher Renaud.</castItem>
+			<castItem><role id="LUCINDE" sex="9" type="H" statut='suite' age='A' stat_amour='néant'>UN DÉMON, sous la figure de Lucinde</role>, fille Danoise, aimée du Chevalier Danois.</castItem>
+			<castItem><role id="TROUPE de DÉMONS" sex="9" type="H" statut='suite' age='A' stat_amour='néant'>TROUPE DE DÉMONS</role>, transformés en habitants champêtres de l'île où Armide retient Renaud enchanté.</castItem>
+			<castItem><role id="MÉLISSE" sex="9" type="H" statut='suite' age='A' stat_amour='néant'>UN DÉMON, SOUS LA FIGURE DE MÉLISSE</role>, fille Italienne, aimée d'Ubalde.</castItem>
+			<castItem><role id="LES PLAISIRS" sex="9" type="H" statut='allégorie' age='A' stat_amour='néant'>LES PLAISIRS</role>.</castItem>
+			<castItem><role id="TROUPE de DÉMONS" sex="9" type="H" statut='suite' age='A' stat_amour='néant'>TROUPE de DÉMONS</role> qui paraissent sous la figure d'amants fortunés et d'amantes heureuses qui accompagnent Renaud dans le palais enchanté.</castItem>
+			<castItem><role id="TROUPE de DÉMONS" sex="9" type="H" statut='suite' age='A' stat_amour='néant'>TROUPE de DÉMONS volants</role>, qui détruisent le Palais enchanté.</castItem>
 		</castList>
 	<set location='Lieu mythologique' country='Pays mythologique' periode='Temps mythologiques' link=''></set>
 </front>

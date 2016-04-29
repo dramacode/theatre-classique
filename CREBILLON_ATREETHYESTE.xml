@@ -8,9 +8,10 @@
 				
 				<date>1707</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE</p><p>Septembre 2006, revu mars 2014</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>mythe grec</inspiration>
@@ -43,16 +44,16 @@
 		<premiere date='1707-03-17' location='Château de Versailles'>Représenté pour la première fois le 17 mars 1707 au Château de Versailles.</premiere>
 	</performance>
        <castList>
-		<castItem><role id="ATREE" civil='M' type="H" statut='roi' age='A' stat_amour='néant'>ATRÉE</role>, roi d'Argos</castItem>
-		<castItem><role id="THYESTE" civil='M' type="H" statut='roi' age='A' stat_amour='néant'>THYESTE</role>, roi de Mycene, frère d'Atrée.</castItem>
-		<castItem><role id="PLISTHENE" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>PLISTHÈNE</role>, fils d'Aérope et de Thyeste, cru fils d'Atrée.</castItem>
-		<castItem><role id="THEODAMIE" civil='F' type="H" statut='prince' age='A' stat_amour='néant'>THÉODAMIE</role>, fille de Thyeste</castItem>
-		<castItem><role id="EURYSTHENE" civil='M' type="H" statut='confident' age='A' stat_amour='néant'>EURYSTHENE</role>, confident d'Astrée</castItem>
-		<castItem><role id="ALCIMEDON" civil='M' type="H" statut='officier' age='A' stat_amour='néant'>ALCIMÉDON</role>, officier de la flotte.</castItem>
-		<castItem><role id="THESSANDRE" civil='M' type="H" statut='confident' age='A' stat_amour='néant'>THESSANDRE</role>, confident de Plisthène</castItem>
-		<castItem><role id="LEONIDE" civil='F' type="H" statut='confident' age='A' stat_amour='néant'>LÉONIDE</role>, confidente de Théodamie.</castItem>
-		<castItem><role id="SUITE" civil='G' type="H" statut='suite' age='A' stat_amour='néant'>Suite d'Atrée</role>.</castItem>
-		<castItem><role id="GARDES" civil='G' type="H" statut='garde' age='A' stat_amour='néant'>Gardes</role>.</castItem>
+		<castItem><role id="ATREE" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>ATRÉE</role>, roi d'Argos</castItem>
+		<castItem><role id="THYESTE" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>THYESTE</role>, roi de Mycene, frère d'Atrée.</castItem>
+		<castItem><role id="PLISTHENE" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>PLISTHÈNE</role>, fils d'Aérope et de Thyeste, cru fils d'Atrée.</castItem>
+		<castItem><role id="THEODAMIE" sex="2" type="H" statut='prince' age='A' stat_amour='néant'>THÉODAMIE</role>, fille de Thyeste</castItem>
+		<castItem><role id="EURYSTHENE" sex="1" type="H" statut='confident' age='A' stat_amour='néant'>EURYSTHENE</role>, confident d'Astrée</castItem>
+		<castItem><role id="ALCIMEDON" sex="1" type="H" statut='officier' age='A' stat_amour='néant'>ALCIMÉDON</role>, officier de la flotte.</castItem>
+		<castItem><role id="THESSANDRE" sex="1" type="H" statut='confident' age='A' stat_amour='néant'>THESSANDRE</role>, confident de Plisthène</castItem>
+		<castItem><role id="LEONIDE" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>LÉONIDE</role>, confidente de Théodamie.</castItem>
+		<castItem><role id="SUITE" sex="9" type="H" statut='suite' age='A' stat_amour='néant'>Suite d'Atrée</role>.</castItem>
+		<castItem><role id="GARDES" sex="9" type="H" statut='garde' age='A' stat_amour='néant'>Gardes</role>.</castItem>
        </castList>
        <set location='Chalcys' country='Grèce' periode='Temps mythologiques' link=''>La scène est à Chalcys, capitale de l'île d'Eubée, dans le palais d'Atrée.</set>
 </front>

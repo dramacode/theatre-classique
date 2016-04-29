@@ -7,9 +7,10 @@
 				<author born='1601' born_location='Bresse' death='1655' death_location='Paris' academie=''>MAGNON, Jean</author>
 				<date>1645</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<authority>publié par Ernest FIEVRE, Mai 2008</authority>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire perse</inspiration>
@@ -49,14 +50,14 @@
 </div>
 
 <castList><head>Les Acteurs</head>
-	<castItem><role id="ARTAXERXE" civil='M' type="H" statut='roi' age='A' stat_amour='néant'>ARTAXERXE</role>, Roi des Perses.</castItem>
-	<castItem><role id="DARIE" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>DARIE</role>, son fils ainé.</castItem>
-	<castItem><role id="OCHUS" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>OCHUS</role>, son second fils.</castItem>
-	<castItem><role id="AMESTRIS" civil='F' type="H" statut='prince' age='A' stat_amour='néant'>AMESTRIS</role>, sa fille.</castItem>
-	<castItem><role id="ASPASIE" civil='F' type="H" statut='prince' age='A' stat_amour='néant'>ASPASIE</role>, Princesse de Lydie.</castItem>
-	<castItem><role id="TIRIBAZE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>TIRIBAZE</role>, Favori d'Artaxerxe.</castItem>
-	<castItem><role id="TISSAPHERNE" civil='M' type="H" statut='capitaine' age='A' stat_amour='néant'>TISSAPHERNE</role>, Capitaine des Gardes.</castItem>
-	<castItem><role id="GARDES" civil='G' type="H" statut='garde' age='A' stat_amour='néant'>TROUPES DES GARDES</role>.</castItem>
+	<castItem><role id="ARTAXERXE" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>ARTAXERXE</role>, Roi des Perses.</castItem>
+	<castItem><role id="DARIE" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>DARIE</role>, son fils ainé.</castItem>
+	<castItem><role id="OCHUS" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>OCHUS</role>, son second fils.</castItem>
+	<castItem><role id="AMESTRIS" sex="2" type="H" statut='prince' age='A' stat_amour='néant'>AMESTRIS</role>, sa fille.</castItem>
+	<castItem><role id="ASPASIE" sex="2" type="H" statut='prince' age='A' stat_amour='néant'>ASPASIE</role>, Princesse de Lydie.</castItem>
+	<castItem><role id="TIRIBAZE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>TIRIBAZE</role>, Favori d'Artaxerxe.</castItem>
+	<castItem><role id="TISSAPHERNE" sex="1" type="H" statut='capitaine' age='A' stat_amour='néant'>TISSAPHERNE</role>, Capitaine des Gardes.</castItem>
+	<castItem><role id="GARDES" sex="9" type="H" statut='garde' age='A' stat_amour='néant'>TROUPES DES GARDES</role>.</castItem>
 </castList>
 <set location='Pazagardes' country='Iran' periode='Vème avant JC' link=''>La scène est dans Pazagardes dans l'appartement du roi.</set>
 </front>

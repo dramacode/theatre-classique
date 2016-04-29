@@ -6,9 +6,10 @@
 				<title>LES MOTS A LA MODE, COMÉDIE.</title>
 				<author born='1638' born_location="Mussy-l Evêque" death='1701' death_location='Paris' academie=''>BOURSAULT, Edme</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<authority>publié par Paul FIEVRE, mars 2014.</authority>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -55,21 +56,21 @@
 	</div>
 
 		<castList><head>LES PERSONNAGES</head>
-			<castItem><role id="MONSIEUR JOSSE" civil="M" type="H" statut="aristocrate" age="A" stat_amour='néant'>MONSIEUR JOSSE</role>, Noble, auparavant orfèvre.</castItem>
-			<castItem><role id="MADAME JOSSE" civil="F" type="H" statut="aristocrate" age="A" stat_amour='néant'>MADAME JOSSE</role>, sa femme.</castItem>
-			<castItem><role id="NANNETTE" civil="F" type="H" statut="aristocrate" age="A" stat_amour='néant'>NANNETTE</role>, fille de Monsieur et de Madame Josse.</castItem>
-			<castItem><role id="BABET" civil="F" type="H" statut="aristocrate" age="A" stat_amour='néant'>BABET</role>, fille de Monsieur et de Madame Josse. </castItem>
-			<castItem><role id="MONSIEUR BRICE" civil="M" type="H" statut="avocat" age="A" stat_amour='néant'>MONSIEUR BRICE</role>, Avocat, frère de Madame Josse.</castItem>
-			<castItem><role id="MONSIEUR DU RUS" civil="M" type="H" statut="aristocrate" age="A" stat_amour='néant'>MONSIEUR DU RUS</role>, frère Noble, auparavant parfumeur.</castItem>
-			<castItem><role id="MONSIEUR DE L'ORME" civil="M" type="H" statut="aristocrate" age="A" stat_amour='néant'>MONSIEUR DE L'ORME</role>, frère Noble, auparavant parfumeur.</castItem>
-			<castItem><role id="MAROTE POUSSINEAU" civil="F" type="H" statut="bourgeois" age="A" stat_amour='néant'>MAROTE POUSSINEAU</role>, fille d'un marchand. </castItem>
-			<castItem><role id="MADAME BRICE" civil="F" type="H" statut="boucher" age="V" stat_amour='néant'>MADAME BRICE</role>, bouchère, mère de Madame Josse.</castItem>
-			<castItem><role id="MONSIEUR GRIFFET" civil="M" type="H" statut="commissaire" age="A" stat_amour='néant'>MONSIEUR GRIFFET</role>, commissaire.</castItem>
-			<castItem><role id="NICODEME" civil="M" type="H" statut="jardinier" age="A" stat_amour='néant'>NICODEME</role>, jardinier.</castItem>
-			<castItem><role id="ADRIENNE" civil="F" type="H" statut="jardinier" age="A" stat_amour='néant'>ADRIENNE</role>, femme de Nicodème.</castItem>
-			<castItem><role id="NICOLE" civil="F" type="H" statut="servante" age="A" stat_amour='néant'>NICOLE</role>, servante.</castItem>
-			<castItem><role id="CHAMPAGNE" civil="M" type="H" statut="laquais" age="A" stat_amour='néant'>CHAMPAGNE</role>, laquais.</castItem>
-			<castItem><role id="DES ARCHERS" civil="G" type="H" statut="archers" age="A" stat_amour='néant'>DES ARCHERS</role>.</castItem>
+			<castItem><role id="MONSIEUR JOSSE" sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>MONSIEUR JOSSE</role>, Noble, auparavant orfèvre.</castItem>
+			<castItem><role id="MADAME JOSSE" sex="2" type="H" statut="aristocrate" age="A" stat_amour='néant'>MADAME JOSSE</role>, sa femme.</castItem>
+			<castItem><role id="NANNETTE" sex="2" type="H" statut="aristocrate" age="J" stat_amour='néant'>NANNETTE</role>, fille de Monsieur et de Madame Josse.</castItem>
+			<castItem><role id="BABET" sex="2" type="H" statut="aristocrate" age="J" stat_amour='néant'>BABET</role>, fille de Monsieur et de Madame Josse. </castItem>
+			<castItem><role id="MONSIEUR BRICE" sex="1" type="H" statut="avocat" age="A" stat_amour='néant'>MONSIEUR BRICE</role>, Avocat, frère de Madame Josse.</castItem>
+			<castItem><role id="MONSIEUR DU RUS" sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>MONSIEUR DU RUS</role>, frère Noble, auparavant parfumeur.</castItem>
+			<castItem><role id="MONSIEUR DE L'ORME" sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>MONSIEUR DE L'ORME</role>, frère Noble, auparavant parfumeur.</castItem>
+			<castItem><role id="MAROTE POUSSINEAU" sex="2" type="H" statut="bourgeois" age="J" stat_amour='néant'>MAROTE POUSSINEAU</role>, fille d'un marchand. </castItem>
+			<castItem><role id="MADAME BRICE" sex="2" type="H" statut="boucher" age="V" stat_amour='néant'>MADAME BRICE</role>, bouchère, mère de Madame Josse.</castItem>
+			<castItem><role id="MONSIEUR GRIFFET" sex="1" type="H" statut="commissaire" age="A" stat_amour='néant'>MONSIEUR GRIFFET</role>, commissaire.</castItem>
+			<castItem><role id="NICODEME" sex="1" type="H" statut="jardinier" age="A" stat_amour='néant'>NICODEME</role>, jardinier.</castItem>
+			<castItem><role id="ADRIENNE" sex="2" type="H" statut="jardinier" age="A" stat_amour='néant'>ADRIENNE</role>, femme de Nicodème.</castItem>
+			<castItem><role id="NICOLE" sex="2" type="H" statut="servante" age="A" stat_amour='néant'>NICOLE</role>, servante.</castItem>
+			<castItem><role id="CHAMPAGNE" sex="1" type="H" statut="laquais" age="A" stat_amour='néant'>CHAMPAGNE</role>, laquais.</castItem>
+			<castItem><role id="DES ARCHERS" sex="9" type="H" statut="archers" age="A" stat_amour='néant'>DES ARCHERS</role>.</castItem>
 		</castList>
 		<set location='France' country='France' periode='XVIIème' link=''>La scène est à Paris.</set>
 </front>

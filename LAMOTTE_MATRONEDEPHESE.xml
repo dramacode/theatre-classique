@@ -6,9 +6,10 @@
 				<title>LA MATRONE D'ÉPHÈSE, COMÉDIE</title>
 				<author born='1672' born_location='Paris' death='1731' death_location='Paris' academie='1710'>LA MOTTE, Antoine-Houdard de</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, juin 2010.</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs antiques</inspiration>
@@ -44,13 +45,13 @@
 			<premiere date='1723-04-06' location='Théâtre de la rue des Fossés Saint-Germain'>Représentée pour la première fois le 06 avril 1723 au Théâtre de la rue des Fossés Saint-Germain par la troupe de la Comédie française.</premiere>
 		</performance>
 		<castList><head>ACTEURS</head>
-		<castItem><role id="EUPHÉMIE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>EUPHÉMIE</role>.</castItem>
-		<castItem><role id="FROSINE" civil='F' type="H" statut='suivante' age='A' stat_amour='néant'>FROSINE</role>, suivante d'Euphemie.</castItem>
-		<castItem><role id="SOSTRATE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>SOSTRATE</role>.</castItem>
-		<castItem><role id="STRATON" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>STRATON</role>, valet da Sostrate.</castItem>
-		<castItem><role id="CHRISANTE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>CHRISANTE</role>, père de Sostrate.</castItem>
-		<castItem><role id="LICAS" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>LICAS</role>, valet de Chrisante.</castItem>
-		<castItem><role id="UN-CUISINIER" civil='M' type="H" statut='cuisinier' age='A' stat_amour='néant'>UN CUISINIER</role>.</castItem>
+		<castItem><role id="EUPHÉMIE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>EUPHÉMIE</role>.</castItem>
+		<castItem><role id="FROSINE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>FROSINE</role>, suivante d'Euphemie.</castItem>
+		<castItem><role id="SOSTRATE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>SOSTRATE</role>.</castItem>
+		<castItem><role id="STRATON" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>STRATON</role>, valet da Sostrate.</castItem>
+		<castItem><role id="CHRISANTE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>CHRISANTE</role>, père de Sostrate.</castItem>
+		<castItem><role id="LICAS" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>LICAS</role>, valet de Chrisante.</castItem>
+		<castItem><role id="UN-CUISINIER" sex="1" type="H" statut='cuisinier' age='A' stat_amour='néant'>UN CUISINIER</role>.</castItem>
    </castList>
 
 <set location='Ephèse' country='Grèce' periode='(non indiqué)' link=''>La Scène est près d'Ephèse.</set>

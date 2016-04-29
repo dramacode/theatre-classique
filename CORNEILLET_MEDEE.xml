@@ -7,10 +7,11 @@
 				<author born='1625' born_location='Rouen' death='1709' death_location='Les Andelys' academie='1685'>CORNEILLE, Thomas</author>
 				
 			</titleStmt>
-			<publicationStmp>
+			<publicationStmt>
 				<editor>Texte établi par Nathalie Tramieux (Maîtrise de Lettres modernes - Université de la Sorbonne Paris IV, 2004-2005) sous la direction de Georges Forestier.</editor>
 				<publisher>publié par Paul FIEVRE, Mai 2006 revu décembre 2015</publisher>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Opéra</genre>
 				<inspiration>mythe grec</inspiration>
@@ -44,26 +45,26 @@
 			<premiere date='1693-12-04' location='Théâtre du Palais-Royal'>Représenté pour la première fois le 4 décembre 1693 au Théâtre du Palais-Royal.</premiere>
 		</performance>
 	<castList><head>ACTEURS DU PROLOGUE.</head>
-		<castItem><role id="LA VICTOIRE" civil='D' type="H" statut='allégorie' age='A' stat_amour='néant'>LA VICTOIRE</role>.</castItem>
-		<castItem><role id="BELLONE" civil='D' type="H" statut='dieu' age='A' stat_amour='néant'>BELLONE</role>.</castItem>
-		<castItem><role id="LA GLOIRE" civil='D' type="H" statut='allégorie' age='A' stat_amour='néant'>LA GLOIRE</role>.</castItem>
-		<castItem><role id="CHOEUR PARISIENS" civil='G' type="H" statut='peuple' age='A' stat_amour='néant'>CHOEUR D'HABITANTS DES ENVIRONS DE LA SEINE</role>.</castItem>
-		<castItem><role id="CHOEUR BERGERS" civil='G' type="H" statut='berger' age='A' stat_amour='néant'>CHOEUR DE BERGERS HÉROÏQUES</role>.</castItem>
+		<castItem><role id="LA VICTOIRE" sex='2' type="H" statut='allégorie' age='A' stat_amour='néant'>LA VICTOIRE</role>.</castItem>
+		<castItem><role id="BELLONE" sex='2' type="H" statut='dieu' age='A' stat_amour='néant'>BELLONE</role>.</castItem>
+		<castItem><role id="LA GLOIRE" sex='2' type="H" statut='allégorie' age='A' stat_amour='néant'>LA GLOIRE</role>.</castItem>
+		<castItem><role id="CHOEUR PARISIENS" sex="9" type="H" statut='peuple' age='A' stat_amour='néant'>CHOEUR D'HABITANTS DES ENVIRONS DE LA SEINE</role>.</castItem>
+		<castItem><role id="CHOEUR BERGERS" sex="9" type="H" statut='berger' age='A' stat_amour='néant'>CHOEUR DE BERGERS HÉROÏQUES</role>.</castItem>
 	</castList>
 	<castList><head>ACTEURS DE LA TRAGÉDIE.</head>
-		<castItem><role id="CRÉON" civil='M' type="H" statut='roi' age='A' stat_amour='néant'>CRÉON</role>, roi de Corinthe.</castItem>
-		<castItem><role id="CRÉÜSE" civil='F' type="H" statut='prince' age='A' stat_amour='néant'>CRÉÜSE</role>, fille de Créon.</castItem>
-		<castItem><role id="MEDEE" civil='F' type="H" statut='prince' age='A' stat_amour='néant'>MÉDÉE</role>, princesse de Colchos.</castItem>
-		<castItem><role id="JASON" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>JASON</role>, prince de Thessalie.</castItem>
-		<castItem><role id="ORONTE" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>ORONTE</role>, prince d'Argos.</castItem>
-		<castItem><role id="ARCAS" civil='M' type="H" statut='confident' age='A' stat_amour='néant'>ARCAS</role>, confident de Jason.</castItem>
-		<castItem><role id="NERINE" civil='F' type="H" statut='confident' age='A' stat_amour='néant'>NÉRINE</role>, confidente de Médée.</castItem>
-		<castItem><role id="CLEONE" civil='F' type="H" statut='confident' age='A' stat_amour='néant'>CLÉONE</role>, confidente de Créüse.</castItem>
-		<castItem><role id="CONTINTHIENS" civil='G' type="H" statut='soldat' age='A' stat_amour='néant'>TROUPE DE CORINTHIENS</role>.</castItem>
-		<castItem><role id="TROUPE D'ARGIENS" civil='G' type="H" statut='soldat' age='A' stat_amour='néant'>TROUPE D'ARGIENS</role>.</castItem>
-		<castItem><role id="UN PETIT ARGIEN" civil='M' type="H" statut='peuple' age='E' stat_amour='néant'>UN PETIT ARGIEN</role>, déguisé en Amour.</castItem>
-		<castItem><role id="TROUPE DE CAPTIFS" civil='G' type="H" statut='prisonnier' age='A' stat_amour='néant'>TROUPE DE CAPTIFS DE L'AMOUR</role>.</castItem>
-		<castItem><role id="DEMONS" civil='G' type="D" statut='démon' age='A' stat_amour='néant'>TROUPE DE DÉMONS</role>.</castItem>
+		<castItem><role id="CRÉON" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>CRÉON</role>, roi de Corinthe.</castItem>
+		<castItem><role id="CRÉÜSE" sex="2" type="H" statut='prince' age='A' stat_amour='néant'>CRÉÜSE</role>, fille de Créon.</castItem>
+		<castItem><role id="MEDEE" sex="2" type="H" statut='prince' age='A' stat_amour='néant'>MÉDÉE</role>, princesse de Colchos.</castItem>
+		<castItem><role id="JASON" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>JASON</role>, prince de Thessalie.</castItem>
+		<castItem><role id="ORONTE" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>ORONTE</role>, prince d'Argos.</castItem>
+		<castItem><role id="ARCAS" sex="1" type="H" statut='confident' age='A' stat_amour='néant'>ARCAS</role>, confident de Jason.</castItem>
+		<castItem><role id="NERINE" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>NÉRINE</role>, confidente de Médée.</castItem>
+		<castItem><role id="CLEONE" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>CLÉONE</role>, confidente de Créüse.</castItem>
+		<castItem><role id="CONTINTHIENS" sex="9" type="H" statut='soldat' age='A' stat_amour='néant'>TROUPE DE CORINTHIENS</role>.</castItem>
+		<castItem><role id="TROUPE D'ARGIENS" sex="9" type="H" statut='soldat' age='A' stat_amour='néant'>TROUPE D'ARGIENS</role>.</castItem>
+		<castItem><role id="UN PETIT ARGIEN" sex="1" type="H" statut='peuple' age='E' stat_amour='néant'>UN PETIT ARGIEN</role>, déguisé en Amour.</castItem>
+		<castItem><role id="TROUPE DE CAPTIFS" sex="9" type="H" statut='prisonnier' age='A' stat_amour='néant'>TROUPE DE CAPTIFS DE L'AMOUR</role>.</castItem>
+		<castItem><role id="DEMONS" sex="9" type="D" statut='démon' age='A' stat_amour='néant'>TROUPE DE DÉMONS</role>.</castItem>
 	</castList>
 	<set location='Corinthe' country='Grèce' periode='Temps mythologiques' link=''></set>
 	</front>

@@ -6,9 +6,10 @@
 				<title>LE PÉDANT JOUÉ, COMÉDIE.</title>
 				<author born='1619' born_location='Paris' death='1655' death_location='Sannois' academie=''>CYRANO, Hercule Savinien, dit CYRANO de BERGERAC</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, février 2013.</p>
-			</publicationStmp>
+				<idno>CYRANO_PEDANTJOUE</idno>
+			</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -34,7 +35,7 @@
 		<docAuthor id='CYRANO de BERGERAC, Savinien' bio='cyrano'>PAR Mr DE CYRANO DE BERGERAC</docAuthor>
 		<docImprint>
  			<privilege date='1653-12-16'><head>PRIVILÈGE DU ROI</head>
-<p>Ce Privilège daté du 16 décembre 1653, d'une durée de neuf années, signé Galongé dans l'édition originale de 1654 est accordé au sieur de Bergerac pour La Mort d'Agrippine, et un volume de Lettres. L'Enregistrement sur le livre de la Communauté des Libraires n'est pas mentionné ; le sieur de Bergerac le rétrocède au libraire Charles de Sercy.</p>
+				<p>Ce Privilège daté du 16 décembre 1653, d'une durée de neuf années, signé Galongé dans l'édition originale de 1654 est accordé au sieur de Bergerac pour La Mort d'Agrippine, et un volume de Lettres. L'Enregistrement sur le livre de la Communauté des Libraires n'est pas mentionné ; le sieur de Bergerac le rétrocède au libraire Charles de Sercy.</p>
 			</privilege>
 			<acheveImprime id='1655-03-26'>Achevé d'imprimer pour la première fois, le vingt-sixième Mars mil six cent cinquante cinq.</acheveImprime>
 			<printer id='SERCY'>À PARIS Chez Charles de SERCY, au Palais, dans la Salle Dauphine, à la Bonne Foi couronnée.</printer>
@@ -63,22 +64,22 @@
 		</p>
 		</div>
 		<div type="preface"><head>Le Manuscrit de la Bibliothèque nationale.</head>
-		<p>		Le manuscrit du Pédant joué de la Bibliothèque nationale est important, moins pour les changements apportés dans l'imprimé à quelques scènes et les remaniements de style dont le but a été d'affaiblir quelques expressions trop libres ou trop osées, que pour le couplet athéiste qui termine cette comédie, couplet ne rimant à rien mais qui éclaire singulièrement la	connaissance de la mentalité de Cyrano.</p>
+		<p>Le manuscrit du Pédant joué de la Bibliothèque nationale est important, moins pour les changements apportés dans l'imprimé à quelques scènes et les remaniements de style dont le but a été d'affaiblir quelques expressions trop libres ou trop osées, que pour le couplet athéiste qui termine cette comédie, couplet ne rimant à rien mais qui éclaire singulièrement la	connaissance de la mentalité de Cyrano.</p>
 		<p>[LACHEVRE]</p>
 		</div>
 <castList>
 	<head>LES ACTEURS.</head>
-	<castItem><role id="GRANGER" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>GRANGER</role>, pédant.</castItem>
-	<castItem><role id="CHASTEAUFORT" civil='M' type="H" statut='capitaine' age='A' stat_amour='néant'>CHASTEAUFORT</role>, capitan.</castItem>
-	<castItem><role id="MATHIEU-GAREAU" civil='M' type="H" statut='paysan' age='A' stat_amour='néant'>MATHIEU GAREAU</role>, paysan.</castItem>
-	<castItem><role id="DE-LA-TREMBLAYE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>DE LA TREMBLAYE</role>, gentilhomme amoureux de la fille du Pédant. </castItem>
-	<castItem><role id="GRANGER-LE-JEUNE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>GRANGER LE JEUNE</role> (Charlot), fils du Pédant.</castItem>
-	<castItem><role id="CORBINELI" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>CORBINELI</role>, valet du jeune Granger, fourbe.</castItem>
-	<castItem><role id="PIERRE-PAQUIER" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>PIERRE PAQUIER</role>, cuistre du Pédant (faisant le plaisant).</castItem>
-	<castItem><role id="FLEURY" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>FLEURY</role>, cousin du Pédant.</castItem>
-	<castItem><role id="MANON" civil='F' type="H" statut='bourgeois' age='J' stat_amour='néant'>MANON</role>, fille du Pédant.</castItem>
-	<castItem><role id="GENEVOTTE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>GENEVOTTE</role>, soeur de Monsieur de La Tremblaye.</castItem>
-	<castItem><role id="CUISTRES" civil='G' type="H" statut='valet' age='A' stat_amour='néant'>CUISTRES</role>.</castItem>
+	<castItem><role id="GRANGER" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>GRANGER</role>, pédant.</castItem>
+	<castItem><role id="CHASTEAUFORT" sex="1" type="H" statut='capitaine' age='A' stat_amour='néant'>CHASTEAUFORT</role>, capitan.</castItem>
+	<castItem><role id="MATHIEU-GAREAU" sex="1" type="H" statut='paysan' age='A' stat_amour='néant'>MATHIEU GAREAU</role>, paysan.</castItem>
+	<castItem><role id="DE-LA-TREMBLAYE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>DE LA TREMBLAYE</role>, gentilhomme amoureux de la fille du Pédant. </castItem>
+	<castItem><role id="GRANGER-LE-JEUNE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>GRANGER LE JEUNE</role> (Charlot), fils du Pédant.</castItem>
+	<castItem><role id="CORBINELI" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>CORBINELI</role>, valet du jeune Granger, fourbe.</castItem>
+	<castItem><role id="PIERRE-PAQUIER" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>PIERRE PAQUIER</role>, cuistre du Pédant (faisant le plaisant).</castItem>
+	<castItem><role id="FLEURY" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>FLEURY</role>, cousin du Pédant.</castItem>
+	<castItem><role id="MANON" sex="2" type="H" statut='bourgeois' age="J" stat_amour='néant'>MANON</role>, fille du Pédant.</castItem>
+	<castItem><role id="GENEVOTTE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>GENEVOTTE</role>, soeur de Monsieur de La Tremblaye.</castItem>
+	<castItem><role id="CUISTRES" sex="9" type="H" statut='valet' age='A' stat_amour='néant'>CUISTRES</role>.</castItem>
 </castList>
 <set location='Beauvais' country='France' periode='XVIIème' link=''>La scène est à Paris, au Collège de Beauvais.</set>
 </front>
@@ -86,7 +87,7 @@
 <div1 type="act" n='1'><head>ACTE I</head>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Granger, Chasteaufort.</head>
 <sp who='GRANGER'><speaker>GRANGER.</speaker>
-<note type="C">Cette pièce n'ayant pas été représentée, nous donnons le texte de l'imprimé de 1654 avec  en italique  les additions et corrections intéressantes du manuscrit de la Bibliothèque nationale. Nous n'avons tenu aucun compte des simples corrections de style. [Lachèvre]</note>
+<note type="C">Cette pièce n'ayant pas été représentée, nous donnons le texte de l'imprimé de 1654 avec en italique les additions et corrections intéressantes du manuscrit de la Bibliothèque nationale. Nous n'avons tenu aucun compte des simples corrections de style. [Lachèvre]</note>
 <p id='1'>
 	<s id='1'>Oh ! </s>
 	<s id='2'>Par les Dieux jumeaux ! </s>
@@ -99,12 +100,12 @@
 </sp>
 <sp who='CHASTEAUFORT'><speaker>CHASTEAUFORT.</speaker>
 <note>Clabauder : Aboyer fortement, comme font les chiens clabauds. [F]</note>
-<note>Bisque : Potge exquis fait de plusieurs pigeons, poulets, beatilles, jus de mouton, et autres ingrédients. On dit aussi, qu'un homme prend la bisquen quand il quitte son travail ordinaire, pour se divertir, et sans rien risquer pour les affaires. [F]</note>
+<note>Bisque : Potage exquis fait de plusieurs pigeons, poulets, beatilles, jus de mouton, et autres ingrédients. On dit aussi, qu'un homme prend la bisque quand il quitte son travail ordinaire, pour se divertir, et sans rien risquer pour les affaires. [F]</note>
 <p id='2'>
 	<s id='1'>Puisque je te vois curieux de connaître les grandes choses, je veux t'apprendre les miracles de mon berceau. </s>
 	<s id='2'>Sache que la Nature voyant germer au monde un essaim de petits Dieux affamés, et craignant que cette vermine venant à pulluler n infectai à la fin la Terre après le Ciel, voulut opposer un Hercule à ces Monstres. </s>
 	<s id='3'>Cela lui donna bien jusques à la hardiesse de s'imaginer qu'elle me pouvait produire. Pour cet effet elle empoigna les âmes de Samson, d'Hector, d'Achille, d'Ajax, de Cyrus, d'Epaminondas, d'Alexandre, de Romule, de Scipion, d'Annibal, de Sylla, de Pompée, de Pyrrhus, de Caton, de Caesar, et d'Antoine ;  puis les ayant pulvérisées, calcinées, rectifiées, elle réduisit toute cette confection en un spirituel sublimé qui n'attendait plus qu'un fourreau pour s'y fourrer. Nature, glorieuse de son réussit, ne pût goûter modérément sa joie, elle clabauda son chef-d'oeuvre partout; l'Art en devint jaloux, et fâché, disait-il, qu'une teigneuse emportât toute seule la gloire de m'avoir engendré, la traita d'ingrate, de superbe, lui déchira sa coiffe ; Nature, de son côté, prit son ennemi aux cheveux ; enfin l'un et l'autre battit, et fut battu. Le tintamarre des démentis, des soufflets, des bastonnades, m'éveilla ; je les vis, et jugeant que leurs démêlés ne portaient pas la mine de prendre sitôt fin, pour les mettre d'accord, je me créé moi-même. Depuis ce temps-là leur querelle dure encore ; partout vous voyez ces irréconciliables ennemis se prêter le collet, et les descriptions de nos Écrivains d'aujourd'hui ne sont lardées d'autre chose que des faits d'armes de ces deux gladiateurs, à cause que, prenant à bon augure d'être né dans la guerre, je leur commandai, en mémoire de ma naissance, de se battre sans se reposer jusques à la fin du Monde. </s>
-	<s id='4'>Nature pour gagner mes bonnes grâces me présenta cette bisque de héros, je n'en fis par Dieu que deux gorgées ; donc afin de ne pas demeurer ingrat, je la voulus dépêtrer de ces Dieutelets, dont l'insolence la mettait en cervelle. Je les mandai, ils obéirent ; enfin je prononçai cet immuable Arrêt : « Gaillarde troupe, quand je vous ai convoqués, la plus miséricordieuse intention que j'eusse pour vous était de vous annihiler ; mais craignant que votre impuissance ne reprochât à mes mains l'indignité de cette victoire, voici ce que j'ordonne de votre sort : Vous autres Dieux qui savez si bien courir comme Saturne, père du temps, qui mangeant et dévorant tout, court à l'hôpital ; Jupiter qui, comme ayant la tête fêlée depuis le coup de hache qu'il reçut de Vulcain, doit courir les rues ; Mars qui comme soldat court aux armes ; Phoebus qui comme Dieu des Vers court la bouche des Poètes ; Vénus qui comme putain court l'aiguillette ; Mercure qui comme Messager court la Poste ; et Diane qui comme Chasseresse court les bêtes ; vous prendrez la peine, s'il vous plaît, de monter tous sept à califourchon sur une étoile. </s>
+	<s id='4'>Nature pour gagner mes bonnes grâces me présenta cette bisque de héros, je n'en fis par Dieu que deux gorgées ; donc afin de ne pas demeurer ingrat, je la voulus dépêtrer de ces Dieutelets, dont l'insolence la mettait en cervelle. Je les mandai, ils obéirent ; enfin je prononçai cet immuable Arrêt : « Gaillarde troupe, quand je vous ai convoqués, la plus miséricordieuse intention que j'eusse pour vous était de vous annihiler ; mais craignant que votre impuissance ne reprochât à mes mains l'indignité de cette victoire, voici ce que j'ordonne de votre sort : Vous autres Dieux qui savez si bien courir comme Saturne, père du temps, qui mangeant et dévorant tout, court à l'hôpital ; Jupiter qui, comme ayant la tête fêlée depuis le coup de hache qu'il reçut de Vulcain, doit courir les rues ; Mars qui comme soldat court aux armes ; Phoebus qui comme Dieu des Vers court la bouche des Poètes ; Vénus qui comme putain court l'aiguillette ; Mercure qui comme Messager court la Poste ; et Diane qui comme Chasseresse court les bêtes ; vous prendrez la peine, s'il vous plaît, de monter tous sept à califourchon sur une étoile. </s>
 	<s id='5'>Là vous courrez de si bonne sorte, que vous n'aurez pas le loisir d'ouvrir les yeux. »</s>
 </p>
 </sp>
@@ -119,7 +120,7 @@
 </p>
 </sp>
 <sp who='CHASTEAUFORT'><speaker>CHASTEAUFORT.</speaker>
-<note type="L">Saupiquet : mets assaisonné avec du sel et des épice spour irriter l'appetit. Il se dit de toutes sortes de sauces qui sont de heut goût. [F]</note>
+<note type="L">Saupiquet : mets assaisonné avec du sel et des épices pour irriter l'appétit. Il se dit de toutes sortes de sauces qui sont de haut goût. [F]</note>
 <p id='5'>
 	<s id='1'>Midi sonna, la faim me prit, j'en fis un saupiquet pour mon dîner.</s>
 </p>
@@ -130,7 +131,7 @@
 </p>
 </sp>
 <sp who='CHASTEAUFORT'><speaker>CHASTEAUFORT.</speaker>
-<note type="L">Pacolet : nom de l'écuyer dans le squtre fils d'Aymon. Il désignait un homme vif, actif et bon coureur. [Lachèvre]</note>
+<note type="L">Pacolet : nom de l'écuyer dans les quatre fils d'Aymon. Il désignait un homme vif, actif et bon coureur. [Lachèvre]</note>
 <p id='7'>
 	<s id='1'>Il est vrai ; et dès lors ma complexion prenant part à ce salmigondis de Rois et de Dieux, mes actions ont été toutes héroïques ou divines, car si je regarde, c'est en Basilic ; si j'engendre, c'est en Deucalion ; si je pleure, c'est en Héraclite ; si je ris, c'est en Démocrite ; si je vomis, c'est en Mont-Etna ; si j'écume, c'est en Cerbère ; si je dors, c'est en Morphée ; si je veille, c'est en Argus ; si je marche, c'est en Juif-Errant ; si je cours, c'est en Pacolet ; si je vole, c'est en financier ; si je m'arrête, c'est en Dieu Terme ; si je mange, c est en gangrène ; si je bois, c'est en éponge ; si j'ordonne, c'est en Destin ; si je baise, c'est en Judas. </s>
 	<s id='2'>Enfin vous voyez celui qui fait que l'Histoire du Phoenix n'est pas un conte.</s>
@@ -307,7 +308,7 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n='1'><head>SCÈNE I.. Granger, Paquier.</head>
+<div2 type="scene" n='2'><head>SCÈNE II. Granger, Paquier.</head>
 <sp who='GRANGER'><speaker>GRANGER.</speaker>
 <note type="L">Petre : pierre. [Lachèvre]</note>
 <p id='1'>
@@ -367,7 +368,7 @@
 <note type="C">La manuscrit est incomplet de la fin de la scène 2 et du début de la scène III. [Lachèvre]</note>
 </sp>
 </div2>
-<div2 type="scene" n='1'><head>SCÈNE I.I.</head>
+<div2 type="scene" n='3'><head>SCÈNE III.</head>
 <sp who='GRANGER'><speaker>GRANGER, Seul.</speaker>
 <note type="C">Sejongant : séparant, en latin sejungens [Lachèvre]</note>
 <note type="C">Granger tire la plupart de ses citations pédantes de la grammaire latine de Despautières. [Lachèvre]</note>
@@ -690,7 +691,7 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n='6'><head>SCÈNE VI.I. </head>
+<div2 type="scene" n='8'><head>SCÈNE VIII. </head>
 <sp who='CHARLOT'><speaker>CHARLOT, seul.</speaker>
 <note type="C">Abbayes où on enfermait les fils rebelles ou coupables. [Lachèvre]</note>
 <p id='1'>
@@ -758,7 +759,7 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n='1'><head>SCÈNE I.. Gareau, Chasteaufort.</head>
+<div2 type="scene" n='2'><head>SCÈNE II. Gareau, Chasteaufort.</head>
 <sp who='GAREAU'><speaker>GAREAU.</speaker>
 <note type="C">Cyrano, a fabriqué de toutes pièces le patois de Gareau. Le manuscrit de la BN donne un langage tout différent que celui imprimé en 1654, la pronociation des mots n'est pas tout à fait la même. Nous avonrs naturellement maintenu pour Gareau le texte de 1654 publié par Cyrano lui-même. [Lachèvre]</note>
 <note type="C">La vigne de Courtille était sur l'emplacement de la ru Rochechouard, elle produisait du raisin qui ne mûrissait pas. [Lachèvre]</note>
@@ -2162,8 +2163,8 @@ t. VIII, p. 9) qu'un habile avocat s'était, à ses heures de loisir, donné-la 
 </sp>
 </div2>
 </div1>
-<div1 type="act" n='1'><head>ACTE IV</head>
-<div2 type="scene" n='2'><head>SCÈNE PREMIÈRE. Granger, Paquier, Corbineli.</head>
+<div1 type="act" n='4'><head>ACTE IV</head>
+<div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Granger, Paquier, Corbineli.</head>
 <sp who='GRANGER'><speaker>GRANGER.</speaker>
 <note type="C">Jacob, dans la Bible, attends les cieux avec une échelle qui le mena près au Paradis.</note>
 <p id='1'>

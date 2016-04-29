@@ -6,9 +6,10 @@
 				<title>LE DOCTEUR DE VERRE, COMÉDIE</title>
 				<author born='1635' born_location='Paris' death='1688' death_location='Paris' academie='1670'>QUINAULT, Philippe</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, juillet 2013.</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -41,12 +42,12 @@
 			<premiere date='1689' location='Foire Saint-Germain'>Représenté pour la première fois en 1689 au Théâtre de la Foire Saint-Germain.</premiere>
 		</performance>
 		<castList><head>PERSONNAGES</head>
-			<castItem><role id="ISABELLE" civil='F' type="F" statut='bougeois' age='A' stat_amour='amoureux'>ISABELLE</role>, fille de Panfile.</castItem>
-			<castItem><role id="MARINE" civil='F' type="F" statut='servante' age='A' stat_amour='néant'>MARINE</role>, servante d'Isabelle.</castItem>
-			<castItem><role id="PANFILE" civil='M' type="F" statut='bourgeois' age='V' stat_amour='néant'>PANFILE</role>, père d'Isabelle.</castItem>
-			<castItem><role id="TERSANDRE" civil='M' type="F" statut='bourgeois' age='A' stat_amour='amoureux'>TERSANDRE</role>, amant d'Isabelle, déguisé en Cuistre.</castItem>
-			<castItem><role id="RAGOTIN" civil='M' type="F" statut='domestique' age='A' stat_amour='néant'>RAGOTIN</role>, domestique de Tersandre, aussi déguisé en Cuistre.</castItem>
-			<castItem><role id="LE DOCTEUR" civil='M' type="F" statut='docteur' age='A' stat_amour='amoureux'>LE DOCTEUR</role>, amoureux d'Isabelle.</castItem>
+			<castItem><role id="ISABELLE" sex="2" type="F" statut='bougeois' age='A' stat_amour='amoureux'>ISABELLE</role>, fille de Panfile.</castItem>
+			<castItem><role id="MARINE" sex="2" type="F" statut='servante' age='A' stat_amour='néant'>MARINE</role>, servante d'Isabelle.</castItem>
+			<castItem><role id="PANFILE" sex="1" type="F" statut='bourgeois' age='V' stat_amour='néant'>PANFILE</role>, père d'Isabelle.</castItem>
+			<castItem><role id="TERSANDRE" sex="1" type="F" statut='bourgeois' age='A' stat_amour='amoureux'>TERSANDRE</role>, amant d'Isabelle, déguisé en Cuistre.</castItem>
+			<castItem><role id="RAGOTIN" sex="1" type="F" statut='domestique' age='A' stat_amour='néant'>RAGOTIN</role>, domestique de Tersandre, aussi déguisé en Cuistre.</castItem>
+			<castItem><role id="LE DOCTEUR" sex="1" type="F" statut='docteur' age='A' stat_amour='amoureux'>LE DOCTEUR</role>, amoureux d'Isabelle.</castItem>
 		</castList>
 
 	<set location='Tolède' country='Espagne' periode='XVIIème' link=''>La scène est à Tolède.</set>

@@ -7,9 +7,10 @@
 				<author born='1694' born_location='Vic-sur-Cère' death='1758' death_location='Paris' academie='1754'>BOISSY, Louis de</author>
 				<date>1727</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE Décembre 2008</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -54,13 +55,13 @@
 		</performance>
 		<castList>
 			<head>ACTEURS</head>
-			<castItem><role id="LE-MARQUIS-DE-POLINVILLE" civil='M' type="H" statut="marquis" age="A" stat_amour='néant'>LE MARQUIS DE POLINVILLE</role>, français.</castItem>
-			<castItem><role id="LE-BARON-DE-POLINVILLE" civil='M' type="H" statut="baron" age="A" stat_amour='néant'>LE BARON DE POLINVILLE</role>, français</castItem>
-			<castItem><role id="ÉLIANTE" civil='F' type="H" statut="aristocrate" age="A" stat_amour='néant'>ÉLIANTE.</role>, veuve anglaise</castItem>
-			<castItem><role id="MILORD-CRAFF" civil='M' type="H" statut="aristocrate" age="V" stat_amour='néant'>MILORD CRAFF</role>, père d'Éliante.</castItem>
-			<castItem><role id="MILORD-HOUZEY" civil='M' type="H" statut="aristocrate" age="A" stat_amour='néant'>MILORD HOUZEY</role>, fils de Milord Craff.</castItem>
-			<castItem><role id="JACQUES-ROSBIF" civil='M' type="H" statut="négociant" age="A" stat_amour='néant'>JACQUES ROSBIF</role>, négociant anglais.</castItem>
-			<castItem><role id="FINETTE" civil='F' type="H" statut="servante" age="A" stat_amour='néant'>FINETTE</role>, servante française.</castItem>
+			<castItem><role id="LE-MARQUIS-DE-POLINVILLE" sex="1" type="H" statut="marquis" age="A" stat_amour='néant'>LE MARQUIS DE POLINVILLE</role>, français.</castItem>
+			<castItem><role id="LE-BARON-DE-POLINVILLE" sex="1" type="H" statut="baron" age="A" stat_amour='néant'>LE BARON DE POLINVILLE</role>, français</castItem>
+			<castItem><role id="ÉLIANTE" sex="2" type="H" statut="veuve" age="J" stat_amour='néant'>ÉLIANTE.</role>, veuve anglaise</castItem>
+			<castItem><role id="MILORD-CRAFF" sex="1" type="H" statut="aristocrate" age="V" stat_amour='néant'>MILORD CRAFF</role>, père d'Éliante.</castItem>
+			<castItem><role id="MILORD-HOUZEY" sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>MILORD HOUZEY</role>, fils de Milord Craff.</castItem>
+			<castItem><role id="JACQUES-ROSBIF" sex="1" type="H" statut="négociant" age="A" stat_amour='néant'>JACQUES ROSBIF</role>, négociant anglais.</castItem>
+			<castItem><role id="FINETTE" sex="2" type="H" statut="servante" age="A" stat_amour='néant'>FINETTE</role>, servante française.</castItem>
 		</castList>
 <set location='Londres' country='Angleterre' periode='XVIIIème' link=''>La scène est à Londres, dans un hôtel garni.</set>
 </front>

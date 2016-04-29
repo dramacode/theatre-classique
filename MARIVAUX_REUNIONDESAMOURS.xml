@@ -6,9 +6,10 @@
 			<title>LA RÉUNION DES AMOURS</title>
 			<author born='1688' born_location='Auvergne' death='1763' death_location='Paris' academie='1743'>MARIVAUX</author>
 		</titleStmt>
-		<publicationStmp>	
+		<publicationStmt>	
 			<p>publié par Paul FIEVRE Octobre 2010</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Comédie héroïque</genre>
 			<inspiration>mythe grec</inspiration>
@@ -40,14 +41,14 @@
 		</performance>
 
 		<castList><head>ACTEURS.</head>
-			<castItem><role id="L-AMOUR" civil="M" type="D" statut='dieu' age='A' stat_amour='néant'>L'AMOUR</role>.</castItem>
-			<castItem><role id="CUPIDON" civil="M" type="D" statut='dieu' age='A' stat_amour='néant'>CUPIDON</role>.</castItem>
-			<castItem><role id="MERCURE" civil="M" type="D" statut='dieu' age='A' stat_amour='néant'>MERCURE</role>.</castItem>
-			<castItem><role id="PLUTUS" civil="M" type="D" statut='dieu' age='A' stat_amour='néant'>PLUTUS</role>.</castItem>
-			<castItem><role id="APOLLON" civil="M" type="D" statut='dieu' age='A' stat_amour='néant'>APOLLON</role>.</castItem>
-			<castItem><role id="LA-VÉRITÉ" civil="F" type="A" statut='allégorie' age='A' stat_amour='néant'>LA VÉRITÉ</role>.</castItem>
-			<castItem><role id="MINERVE" civil="M" type="D" statut='dieu' age='A' stat_amour='néant'>MINERVE</role>.</castItem>
-			<castItem><role id="LA-VERTU" civil="F" type="A" statut='allégorie' age='A' stat_amour='néant'>LA VERTU</role>.</castItem>
+			<castItem><role id="L-AMOUR" sex="1" type="D" statut='dieu' age='A' stat_amour='néant'>L'AMOUR</role>.</castItem>
+			<castItem><role id="CUPIDON" sex="1" type="D" statut='dieu' age='A' stat_amour='néant'>CUPIDON</role>.</castItem>
+			<castItem><role id="MERCURE" sex="1" type="D" statut='dieu' age='A' stat_amour='néant'>MERCURE</role>.</castItem>
+			<castItem><role id="PLUTUS" sex="1" type="D" statut='dieu' age='A' stat_amour='néant'>PLUTUS</role>.</castItem>
+			<castItem><role id="APOLLON" sex="1" type="D" statut='dieu' age='A' stat_amour='néant'>APOLLON</role>.</castItem>
+			<castItem><role id="LA-VÉRITÉ" sex="2" type="P" statut='allégorie' age='A' stat_amour='néant'>LA VÉRITÉ</role>.</castItem>
+			<castItem><role id="MINERVE" sex="1" type="D" statut='dieu' age='A' stat_amour='néant'>MINERVE</role>.</castItem>
+			<castItem><role id="LA-VERTU" sex="2" type="P" statut='allégorie' age='A' stat_amour='néant'>LA VERTU</role>.</castItem>
 		</castList>
 		<set location='Olympe' country='Pays mythologique' periode='XVIIIème' link=''>La scène est dans l'Olympe.</set>
 	</front>

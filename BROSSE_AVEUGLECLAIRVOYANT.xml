@@ -6,10 +6,11 @@
 				<title>L'AVEUGLE CLAIRVOYANT. COMÉDIE</title>
 				<author born='1694' born_location='Vic-sur-Cère' death='1758' death_location='Paris' academie='1754'>BROSSE, Abraham</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<editor>Édition critique établie par Sonia Naudin dans le cadre d'un mémoire de Master 1 sous la direction de Georges Forestier (2003-2004)</editor>
 				<publisher>publié par Paul FIEVRE, février 2016.</publisher>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -55,14 +56,14 @@
       </div>
 
     <castList><head>LES ACTEURS.</head>
-          <castItem><role id="CLÉANTHE" civil="M" type="H" statut='aristocrate' age='A' stat_amour='Olimpe'>CLÉANTHE</role>, père de Lidamas et de Mélice, Amoureux d'Olimpe.</castItem>
-          <castItem><role id="OLIMPE" civil="F" type="H" statut='aristocrate' age='A' stat_amour='Lidamas'>OLIMPE</role>, jeune veuve, amoureuse de Lidamas.</castItem>
-          <castItem><role id="LIDAMAS" civil="M" type="H" statut='aristocrate' age='A' stat_amour='Olimpe'>LIDAMAS</role>, amoureux d'Olimpe.</castItem>
-          <castItem><role id="MÉLICE" civil="F" type="H" statut='aristocrate' age='A' stat_amour='Thélame'>MÉLICE</role>, amoureuse de Thélame.</castItem>
-          <castItem><role id="THÉLAME" civil="M" type="H" statut='chevalier' age='A' stat_amour='Mélice'>THÉLAME</role>, Cavalier, amoureux de Mélice.</castItem>
-          <castItem><role id="NERINE" civil="M" type="H" statut='suivante' age='A' stat_amour='néant'>NERINE</role>, suivante d'Olimpe.</castItem>
-          <castItem><role id="LUCILLE" civil="M" type="H" statut='ssuivante' age='A' stat_amour='néant'>LUCILLE</role>, suivante de Mélice.</castItem>
-          <castItem><role id="SYLVESTRE" civil="M" type="H" statut='valet' age='A' stat_amour='néant'>SYLVESTRE</role>, valet de Cléanthe.</castItem>
+          <castItem><role id="CLÉANTHE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='Olimpe'>CLÉANTHE</role>, père de Lidamas et de Mélice, Amoureux d'Olimpe.</castItem>
+          <castItem><role id="OLIMPE" sex="2" type="H" statut='aristocrate' age='J' stat_amour='Lidamas'>OLIMPE</role>, jeune veuve, amoureuse de Lidamas.</castItem>
+          <castItem><role id="LIDAMAS" sex="1" type="H" statut='aristocrate' age='J' stat_amour='Olimpe'>LIDAMAS</role>, amoureux d'Olimpe.</castItem>
+          <castItem><role id="MÉLICE" sex="2" type="H" statut='aristocrate' age='J' stat_amour='Thélame'>MÉLICE</role>, amoureuse de Thélame.</castItem>
+          <castItem><role id="THÉLAME" sex="1" type="H" statut='chevalier' age='A' stat_amour='Mélice'>THÉLAME</role>, Cavalier, amoureux de Mélice.</castItem>
+          <castItem><role id="NERINE" sex="1" type="H" statut='suivante' age='A' stat_amour='néant'>NERINE</role>, suivante d'Olimpe.</castItem>
+          <castItem><role id="LUCILLE" sex="1" type="H" statut='ssuivante' age='A' stat_amour='néant'>LUCILLE</role>, suivante de Mélice.</castItem>
+          <castItem><role id="SYLVESTRE" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>SYLVESTRE</role>, valet de Cléanthe.</castItem>
         </castList>
         <set location="Paris" country="France" periode="XIXème" link="">La Scène est à Blois dans la maison de Cléanthe.</set>
 </front>

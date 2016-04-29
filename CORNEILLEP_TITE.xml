@@ -6,9 +6,10 @@
 				<title>TITE ET BÉRÉNICE, COMÉDIE HEROÏQUE</title>
 				<author born='1606' born_location='Rouen' death='1684' death_location='Paris' academie='1647'>CORNEILLE, Pierre</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE</p><p>Mai 2006</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie héroïque</genre>
 				<inspiration>histoire romaine</inspiration>
@@ -61,14 +62,14 @@
 		
 		<castList>
 		<head>ACTEURS</head>
-			<castItem><role id="TITE" civil='M' type="H" statut="empereur" age="A" stat_amour='amoureux'>TITE</role>, Empereur de Rome et amant de Bérénice.</castItem>
-			<castItem><role id="DOMITIAN" civil='M' type="H" statut="aristocrate" age="A" stat_amour='amoureux'>DOMITIAN</role>, frère de Tite et anamant de Domitie.</castItem>
-			<castItem><role id="BÉRÉNICE" civil='F' type="H" statut="roi" age="A" stat_amour='amoureux'>BÉRÉNICE</role>, reine d'une partie de la Judée.</castItem>
-			<castItem><role id="DOMITIE" civil='F' type="H" statut="aristocrate" age="A" stat_amour='néant'>DOMITIE</role>, fille de Corbulon.</castItem>
-			<castItem><role id="PLAUTINE" civil='F' type="H" statut="confident" age="A" stat_amour='néant'>PLAUTINE</role>, confidente de Domitie.</castItem>
-			<castItem><role id="FLAVIAN" civil='M' type="H" statut="confident" age="A" stat_amour='néant'>FLAVIAN</role>, confident de Tite.</castItem>
-			<castItem><role id="ALBIN" civil='M' type="H" statut="confident" age="A" stat_amour='néant'>ALBIN</role>, confident de Domitian.</castItem>
-			<castItem><role id="PHILON" civil='M' type="H" statut="ministre" age="A" stat_amour='néant'>PHILON</role>, Ministre d'État, confident de Bérénice.</castItem>
+			<castItem><role id="TITE" sex="1" type="H" statut="empereur" age="A" stat_amour='Bérénice'>TITE</role>, Empereur de Rome et amant de Bérénice.</castItem>
+			<castItem><role id="DOMITIAN" sex="1" type="H" statut="aristocrate" age="A" stat_amour='Domitie'>DOMITIAN</role>, frère de Tite et anamant de Domitie.</castItem>
+			<castItem><role id="BÉRÉNICE" sex="2" type="H" statut="roi" age="A" stat_amour='amoureux'>BÉRÉNICE</role>, reine d'une partie de la Judée.</castItem>
+			<castItem><role id="DOMITIE" sex="2" type="H" statut="aristocrate" age="J" stat_amour='néant'>DOMITIE</role>, fille de Corbulon.</castItem>
+			<castItem><role id="PLAUTINE" sex="2" type="H" statut="confident" age="A" stat_amour='néant'>PLAUTINE</role>, confidente de Domitie.</castItem>
+			<castItem><role id="FLAVIAN" sex="1" type="H" statut="confident" age="A" stat_amour='néant'>FLAVIAN</role>, confident de Tite.</castItem>
+			<castItem><role id="ALBIN" sex="1" type="H" statut="confident" age="A" stat_amour='néant'>ALBIN</role>, confident de Domitian.</castItem>
+			<castItem><role id="PHILON" sex="1" type="H" statut="ministre" age="A" stat_amour='néant'>PHILON</role>, Ministre d'État, confident de Bérénice.</castItem>
 		</castList>
 		<set location='Rome' country='Italie' periode='Ier' link=''>La scène est à Rome dans le palais impérial.</set>
 	</front>

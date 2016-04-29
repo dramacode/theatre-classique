@@ -6,9 +6,10 @@
 			<title>LE CHANTEUR ITALIEN, COMÉDIE</title>
 			<author born='1717' born_location='Paris' death='1806' death_location='Paris' academie='Poitiers'>CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle</author>
 		</titleStmt>
-		<publicationStmp>
+		<publicationStmt>
 			<p>publié par Paul FIEVRE août 2010</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Proverbe</genre>
 			<inspiration>moeurs françaises</inspiration>
@@ -19,7 +20,7 @@
 			<permalien></permalien>
 		</SourceDesc>
 		<edStmt></edStmt>
-</fileDesc>
+	</fileDesc>
 </teiHeader>
 <text>
 	<front>
@@ -42,11 +43,11 @@
 			<premiere date='1768' location='chez Madame la Marquise de Mauconseil'>Représenté pour la première fois en 1768 à Bagatelle chez Madame la Marquise de Mauconseil.</premiere>
 		</performance>
 	<castList><head>PERSONNAGES</head>
-		<castItem><role id="MONSIEUR-DE-SAINT-HYGIN" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>MONSIEUR DE SAINT HYGIN</role>.</castItem>
-		<castItem><role id="MADEMOISELLE-DE-SAINT-HYGIN" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>MADEMOISELLE DE SAINT HYGIN</role>, fille de Monsieur de Saint Hygin.</castItem>
-		<castItem><role id="MONSIEUR-DELAMARRE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>MONSIEUR DELAMARRE</role>.</castItem>
-		<castItem><role id="MONSIEUR-OCTAVINI" civil='M' type="H" statut='musicien' age='A' stat_amour='néant'>MONSIEUR OCTAVINI</role>, musicien italien.</castItem>
-		<castItem><role id="UN-LAQUAIS" civil='M' type="H" statut='laquais' age='A' stat_amour='néant'>UN LAQUAIS</role>.</castItem>
+		<castItem><role id="MONSIEUR DE SAINT HYGIN" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>MONSIEUR DE SAINT HYGIN</role>.</castItem>
+		<castItem><role id="MADEMOISELLE DE SAINT HYGIN" sex="2" type="H" statut='aristocrate' age='J' stat_amour='néant'>MADEMOISELLE DE SAINT HYGIN</role>, fille de Monsieur de Saint Hygin.</castItem>
+		<castItem><role id="MONSIEUR DELAMARRE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>MONSIEUR DELAMARRE</role>.</castItem>
+		<castItem><role id="MONSIEUR OCTAVINI" sex="1" type="H" statut='musicien' age='A' stat_amour='néant'>MONSIEUR OCTAVINI</role>, musicien italien.</castItem>
+		<castItem><role id="UN LAQUAIS" sex="1" type="H" statut='laquais' age='A' stat_amour='néant'>UN LAQUAIS</role>.</castItem>
      </castList>
 <set location='France' country='France' periode='XVIIIème' link=''>La scène est chez Monsieur de Saint-Hygin.</set>
 	</front>

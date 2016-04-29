@@ -6,9 +6,10 @@
 			<title>L'ÉCOLE DES MÈRES, COMÉDIE.</title>
 			<author born='1688' born_location='Auvergne' death='1763' death_location='Paris' academie='1743'>MARIVAUX</author>
 		</titleStmt>
-		<publicationStmp>	
+		<publicationStmt>	
 			<p>publié par Paul FIEVRE, février 2011</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Comédie</genre>
 			<inspiration>moeurs françaises</inspiration>
@@ -39,13 +40,13 @@
 		</performance>
 
 		<castList><head>ACTEURS.</head>
-			<castItem><role id="LA-PRINCESSE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>MADAME ARGANTE</role>.</castItem>
-			<castItem><role id="ANGÉLIQUE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='amoureux'>ANGÉLIQUE</role>, fille de Madame Argante.</castItem>
-			<castItem><role id="LISETTE" civil='F' type="H" statut='suivante' age='A' stat_amour='néant'>LISETTE</role>, suivante d'Angélique.</castItem>
-			<castItem><role id="ÉRASTE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='Angélique'>ÉRASTE</role>, amant d'Angélique, sous le nom de La Ramée.</castItem>
-			<castItem><role id="DAMIS" civil='M' type="H" statut='bourgeois' age='V' stat_amour='Angélique'>DAMIS</role>, père d'Eraste, autre amant d'Angélique.</castItem>
-			<castItem><role id="FRONTIN" civil='F' type="H" statut='valet' age='A' stat_amour='néant'>FRONTIN</role>, valet de Madame Argante.</castItem>
-			<castItem><role id="CHAMPAGNE" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>CHAMPAGNE</role>, valet de Madame Argante.</castItem>
+			<castItem><role id="LA-PRINCESSE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>MADAME ARGANTE</role>.</castItem>
+			<castItem><role id="ANGÉLIQUE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>ANGÉLIQUE</role>, fille de Madame Argante.</castItem>
+			<castItem><role id="LISETTE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>LISETTE</role>, suivante d'Angélique.</castItem>
+			<castItem><role id="ÉRASTE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='Angélique'>ÉRASTE</role>, amant d'Angélique, sous le nom de La Ramée.</castItem>
+			<castItem><role id="DAMIS" sex="1" type="H" statut='bourgeois' age='V' stat_amour='Angélique'>DAMIS</role>, père d'Eraste, autre amant d'Angélique.</castItem>
+			<castItem><role id="FRONTIN" sex="2" type="H" statut='valet' age='A' stat_amour='néant'>FRONTIN</role>, valet de Madame Argante.</castItem>
+			<castItem><role id="CHAMPAGNE" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>CHAMPAGNE</role>, valet de Madame Argante.</castItem>
 		</castList>
 		<set location='France' country='France' periode='XVIIIème ' link=''>La scène est dans l'appartement de Madame Argante. </set>
 	</front>

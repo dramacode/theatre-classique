@@ -7,9 +7,10 @@
 				<author born='1625' born_location='Rouen' death='1709' death_location='Les Andelys' academie='1685'>CORNEILLE, Thomas</author>
 				<date>1653</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Ernest FIEVRE</p><p>Mars 2009</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -41,15 +42,15 @@
 			<premiere date='1653-01-28' location='Hôtel de Bourgogne'>Représenté pour la première fois le 28 janvier 1653 au Théâtre de la Monnaie à Bruxelles.</premiere>
 		</performance>
 . <castList><head>ACTEURS</head>
-		<castItem><role id="LE-MARQUIS" civil='M' type="H" statut='marquis' age='A' stat_amour='néant'>LE MARQUIS de Lorgnac</role>.</castItem>
-		<castItem><role id="LE-CHEVALIER" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>LE CHEVALIER</role>, frère du Marquis, amant d'Olimpe.</castItem>
-		<castItem><role id="ORONTE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>ORONTE</role>, amant de Lucrèce.</castItem>
-		<castItem><role id="ANSELME" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>ANSELME</role>, père d'Olimpe, et tuteur de Lucrèce.</castItem>
-		<castItem><role id="OLIMPE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>OLIMPE</role>, fille d'Anselme.</castItem>
-		<castItem><role id="LUCRECE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>LUCRÈCE</role>, nièce d'Anselme.</castItem>
-		<castItem><role id="VIRGINE" civil='F' type="H" statut='suivante' age='A' stat_amour='néant'>VIRGINE</role>, suivante d'Olimpe.</castItem>
-		<castItem><role id="LISE" civil='F' type="H" statut='suivante' age='A' stat_amour='néant'>LISE</role>, suivante de la Comtesse d'Orgueil.</castItem>
-		<castItem><role id="CARLIN" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>CARLIN</role>, valet du Marquis.</castItem>
+		<castItem><role id="LE-MARQUIS" sex="1" type="H" statut='marquis' age='A' stat_amour='néant'>LE MARQUIS de Lorgnac</role>.</castItem>
+		<castItem><role id="LE-CHEVALIER" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>LE CHEVALIER</role>, frère du Marquis, amant d'Olimpe.</castItem>
+		<castItem><role id="ORONTE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>ORONTE</role>, amant de Lucrèce.</castItem>
+		<castItem><role id="ANSELME" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>ANSELME</role>, père d'Olimpe, et tuteur de Lucrèce.</castItem>
+		<castItem><role id="OLIMPE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>OLIMPE</role>, fille d'Anselme.</castItem>
+		<castItem><role id="LUCRECE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>LUCRÈCE</role>, nièce d'Anselme.</castItem>
+		<castItem><role id="VIRGINE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>VIRGINE</role>, suivante d'Olimpe.</castItem>
+		<castItem><role id="LISE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>LISE</role>, suivante de la Comtesse d'Orgueil.</castItem>
+		<castItem><role id="CARLIN" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>CARLIN</role>, valet du Marquis.</castItem>
 </castList>
 <set location='Paris' country='France' periode='XVIIème' link=''>La Scène est à Paris. </set>
 </front>

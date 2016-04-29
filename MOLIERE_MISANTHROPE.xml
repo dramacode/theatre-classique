@@ -7,9 +7,10 @@
 			<author born='1622' born_location='Paris' death='1673' death_location='Paris' academie=''>MOLIÈRE</author>
 				<date>1666</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, Mai 2006, révision mai 2015</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -29,19 +30,18 @@
 	<front>
 		<docTitle>
 			<titlePart type="main">LE MISANTHROPE</titlePart>
-			<titlePart type="sub">ou L'ATRABILAIRE AMOUREUX</titlePart>
 			<titlePart type="sub">COMÉDIE</titlePart>
 		</docTitle> 
-		<docDate value="1666">M. DC. LXVI.</docDate>
-		<docAuthor id="MOLIERE" bio='moliere'>PAR J. B. P. DE MOLIÈRE</docAuthor>
+		<docDate value="1667">M. DC. LXVII. AVEC PRIVILÈGE DU ROI.</docDate>
+		<docAuthor id="MOLIERE" bio='moliere'>Par J. B. P. DE MOLIÈRE</docAuthor>
 		<docImprint>
 			<privilege id="1666-06-21"><head>Extrait du privilège</head>
-				<p>Par grâce et privilège du Roi, donné à Fontainnebleau le 21 juin 1666. signé, Par le Roi en son conseil, BERAUD : il est permis à J.B.P. de MOLIÈRE, Comédien de la Troupe de Monsieur le Duc d'Orléans, de faire imprimer, vendre et débiter une comédie par lui composée, intitulée, Le Misanthrope, pendant cinq années : Et défenses sont faites à tous autres, de l'imprimer, ni vendre, d'autre édition que de celle de l'exposant, ou de ceux qui auront droit de lui, à peine de quinze cent livres d'amende, confiscation des exemplaires contrefaits; et de tous dépens, dommages et intérêts, comme il est porté plus amplement par lesdites Lettres.</p>
+				<p>Par grâce et privilège du Roi, donné à Fontainebleau le 21 juin 1666. signé, Par le Roi en son conseil, BERAUD : il est permis à J.B.P. de MOLIÈRE, Comédien de la Troupe de Monsieur le Duc d'Orléans, de faire imprimer, vendre et débiter une comédie par lui composée, intitulée, Le Misanthrope, pendant cinq années : Et défenses sont faites à tous autres, de l'imprimer, ni vendre, d'autre édition que de celle de l'exposant, ou de ceux qui auront droit de lui, à peine de quinze cent livres d'amende, confiscation des exemplaires contrefaits; et de tous dépens, dommages et intérêts, comme il est porté plus amplement par lesdites Lettres.</p>
 				<p>Et le dit Sieur DE MOLIÈRE a cédé son droit de privilège à JEAN RIBOU, Marchand libraire à Paris, pour en jouir suivant l'accord fait entre-eux.</p>
 				<p>Registré sur le livre de la Communauté, signé, PIGET, Syndic.</p>
 			</privilege>
-			<acheveImprime id="1666-12-24">Achevé d'imrpimer pour le première fois, le 24 décembre 1666.</acheveImprime>
-			<printer id='JACQUES'>À PARIS, chez Jean Ribou, au Palais, vis à vis de la Porte de l'Église de la Saint Chapelle, à l'Image Saint-Louis.</printer>
+			<acheveImprime id="1666-12-24">Achevé d'imprimer pour le première fois, le 24 décembre 1666.</acheveImprime>
+			<printer id='JACQUES'>À PARIS, chez JEAN RIBOU, au Palais, vis à vis de la Porte de l'Église de la Saint Chapelle, à l'Image Saint-Louis.</printer>
 		</docImprint>
 		<performance>
 			<premiere date="1666-06-04" location='Théâtre du Palais-Royal'>Représenté pour la première fois le 4 juin 1666 au Théâtre du Palais Royal.</premiere>
@@ -60,17 +60,17 @@
 		<p>Dans cette première scène, il blâme ceux qui sont tellement accoutumés à faire des prestations d'amitié, qui embrassent également leurs amis, et ceux qui leur doivent être indifférents, le faquin, et l'honnête homme ; et dans le même temps, par la colère où il témoigne être contre son ami, il faut voir que ceux qui reçoivent ces embrassades avec trop de complaisance, ne sont pas moins, ne sont pas moins dignes de blâme, que ceux qui le font ; et par ce que lui répond son ami, il fait voir que son dessein est de rompre en visière à tout le genre humain ; et l'on connaît par ce peu de paroles (...)</p>
 		</div>
 	<castList><head>ACTEURS</head>
-	<castItem><role id="ALCESTE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='Célimène'>ALCESTE</role>, amant de Célimène.</castItem>
-	<castItem><role id="PHILINTE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>PHILINTE</role>, un ami d'Alceste.</castItem>
-	<castItem><role id="ORONTE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='Célimène'>ORONTE</role>, amant de Célimène.</castItem>
-	<castItem><role id="CÉLIMÈNE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='Alceste'>CÉLIMÈNE</role>, amante d'Alceste.</castItem>
-	<castItem><role id="ÉLIANTE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>ÉLIANTE</role>, cousine de Célimène.</castItem>
-	<castItem><role id="ARSINOÉ" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>ARSINOÉ</role>, amie de Célimène.</castItem>
-	<castItem><role id="ACASTE" civil='M' type="H" statut='marquis' age='A' stat_amour='néant'>ACASTE</role>, marquis.</castItem>
-	<castItem><role id="CLITANDRE" civil='M' type="H" statut='marquis' age='A' stat_amour='néant'>CLITANDRE</role>, marquis.</castItem>
-	<castItem><role id="BASQUE" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>BASQUE</role>, valet de Célimène.</castItem>
-	<castItem><role id="DUBOIS" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>DU BOIS</role>, valet d'Alceste.</castItem>
-	<castItem><role id="UN GARDE" civil='M' type="H" statut='garde' age='A' stat_amour='néant'>UN GARDE</role> de la maréchaussée de France.</castItem>
+	<castItem><role id="ALCESTE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='Célimène'>ALCESTE</role>, amant de Célimène.</castItem>
+	<castItem><role id="PHILINTE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>PHILINTE</role>, un ami d'Alceste.</castItem>
+	<castItem><role id="ORONTE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='Célimène'>ORONTE</role>, amant de Célimène.</castItem>
+	<castItem><role id="CÉLIMÈNE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='Alceste'>CÉLIMÈNE</role>, amante d'Alceste.</castItem>
+	<castItem><role id="ÉLIANTE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>ÉLIANTE</role>, cousine de Célimène.</castItem>
+	<castItem><role id="ARSINOÉ" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>ARSINOÉ</role>, amie de Célimène.</castItem>
+	<castItem><role id="ACASTE" sex="1" type="H" statut='marquis' age='A' stat_amour='néant'>ACASTE</role>, marquis.</castItem>
+	<castItem><role id="CLITANDRE" sex="1" type="H" statut='marquis' age='A' stat_amour='néant'>CLITANDRE</role>, marquis.</castItem>
+	<castItem><role id="BASQUE" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>BASQUE</role>, valet de Célimène.</castItem>
+	<castItem><role id="DUBOIS" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>DU BOIS</role>, valet d'Alceste.</castItem>
+	<castItem><role id="UN GARDE" sex="1" type="H" statut='garde' age='A' stat_amour='néant'>UN GARDE</role> de la maréchaussée de France.</castItem>
 	</castList>
 	<set location="Paris" country='France' periode='XVIIème' link=''>La scène est à Paris.</set>
 	</front>

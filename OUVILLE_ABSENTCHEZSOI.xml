@@ -7,10 +7,11 @@
 				<author born='1589' born_location='Caen' death='1655' death_location='' academie=''>OUVILLE, Antoine le Métel</author>
 				<date>1643</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<editor>Texte établi par Céline Fournial (Mémoire de maîtrise sous la direction de M. Georges Forestier U.F.R de Littérature française et comparée, 2003-2004.)</editor>
 				<authority>publié par Paul Fièvre, novembre 2008</authority>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -43,16 +44,16 @@ Et défenses sont faites à tous imprimeurs et libraires d'en imprimer, vendre e
 			<premiere date="1642" location='(inconnue)'>Représenté pour la première fois en 1642.</premiere>
 		</performance>
 <castList><head>LES NOMS DES ACTEURS.</head>
-	<castItem><role id="DIANE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='amoureux'>DIANE</role>, damoiselle parisienne, maîtresse de Clitandre.</castItem>
-	<castItem><role id="ÉLISE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='amoureux'>ÉLISE</role>, damoiselle parisienne, maîtresse de Clorimant.</castItem>
-	<castItem><role id="PAULINE" civil='F' type="H" statut='suivante' age='A' stat_amour='néant'>PAULINE</role>, suivante d'Élise, maîtresse de Géraste.</castItem>
-	<castItem><role id="JULIE" civil='F' type="H" statut='suivante' age='A' stat_amour='néant'>JULIE</role>, suivante de Diane, maîtresse d'Ormin.</castItem>
-	<castItem><role id="CLORIMANT" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>CLORIMANT</role>, gentilhomme parisien, amoureux d'Élise.</castItem>
-	<castItem><role id="CLITANDRE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>CLITANDRE</role>, gentilhomme parisien, amoureux de Diane.</castItem>
-	<castItem><role id="GERASTE" civil='M' type="H" statut='serviteur' age='A' stat_amour='amoureux'>GÉRASTE</role>, serviteur de Clorimant, amoureux de Pauline.</castItem>
-	<castItem><role id="ORMIN" civil='M' type="H" statut='serviteur' age='A' stat_amour='amoureux'>ORMIN</role>, serviteur de Clitandre, amoureux de Julie.</castItem>
-	<castItem><role id="POLEMAS" civil='M' type="H" statut='aristocrate' age='V' stat_amour='néant'>POLEMAS</role>, vieillard, Père d'Élise, et d'Octave.</castItem>
-	<castItem><role id="OCTAVE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='amoureux'>OCTAVE</role>, frère d'Élise, et amoureux de Diane.</castItem>
+	<castItem><role id="DIANE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='amoureux'>DIANE</role>, damoiselle parisienne, maîtresse de Clitandre.</castItem>
+	<castItem><role id="ÉLISE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='amoureux'>ÉLISE</role>, damoiselle parisienne, maîtresse de Clorimant.</castItem>
+	<castItem><role id="PAULINE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>PAULINE</role>, suivante d'Élise, maîtresse de Géraste.</castItem>
+	<castItem><role id="JULIE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>JULIE</role>, suivante de Diane, maîtresse d'Ormin.</castItem>
+	<castItem><role id="CLORIMANT" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>CLORIMANT</role>, gentilhomme parisien, amoureux d'Élise.</castItem>
+	<castItem><role id="CLITANDRE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>CLITANDRE</role>, gentilhomme parisien, amoureux de Diane.</castItem>
+	<castItem><role id="GERASTE" sex="1" type="H" statut='serviteur' age='A' stat_amour='amoureux'>GÉRASTE</role>, serviteur de Clorimant, amoureux de Pauline.</castItem>
+	<castItem><role id="ORMIN" sex="1" type="H" statut='serviteur' age='A' stat_amour='amoureux'>ORMIN</role>, serviteur de Clitandre, amoureux de Julie.</castItem>
+	<castItem><role id="POLEMAS" sex="1" type="H" statut='aristocrate' age='V' stat_amour='néant'>POLEMAS</role>, vieillard, Père d'Élise, et d'Octave.</castItem>
+	<castItem><role id="OCTAVE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='amoureux'>OCTAVE</role>, frère d'Élise, et amoureux de Diane.</castItem>
 </castList>
 <set location='Paris' country='France' periode='XVIIème' link=''>La Scène est à Paris.</set>
 </front>

@@ -6,9 +6,10 @@
 			<title>FÉLICIE, COMÉDIE</title>
 			<author born='1688' born_location='Auvergne' death='1763' death_location='Paris' academie='1743'>MARIVAUX</author>
 		</titleStmt>
-		<publicationStmp>
+		<publicationStmt>
 			<p>publié par Paul FIEVRE</p><p>Mai 2009</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Comédie</genre>
 			<inspiration>moeurs françaises</inspiration>
@@ -38,12 +39,12 @@
 			<premiere date='1750' location='Théâtre de la rue des Fossés Saint-Germain'>Représenté pour le première fois en 1750 au Théâtre de la rue des Fossés Saint-Germain.</premiere>
 		</performance>
 		<castList><head>ACTEURS</head>
-			<castItem><role id="FELICIE" civil="F" type="H" statut='berger' age='J' stat_amour='néant'>FÉLICIE</role>.</castItem>
-			<castItem><role id="LUCIDOR" civil="M" type="H" statut='berger' age='A' stat_amour='néant'>LUCIDOR</role>.</castItem>
-			<castItem><role id="LA-FEE" civil="F" type="F" statut='fée' age='A' stat_amour='néant'>LA FÉE</role>, sous le nom d'Hortense.</castItem>
-			<castItem><role id="LA-MODESTIE" civil="F" type="A" statut='modestie' age='A' stat_amour='néant'>LA MODESTIE</role>.</castItem>
-			<castItem><role id="DIANE" civil="F" type="D" statut='diane' age='A' stat_amour='néant'>DIANE</role>.</castItem>
-			<castItem><role id="CHASSEURS" civil="G" type="H" statut='chasseur' age='A' stat_amour='néant'>Troupe de chasseurs</role>.</castItem>
+			<castItem><role id="FELICIE" sex="2" type="H" statut='berger' age="J" stat_amour='néant'>FÉLICIE</role>.</castItem>
+			<castItem><role id="LUCIDOR" sex="1" type="H" statut='berger' age='A' stat_amour='néant'>LUCIDOR</role>.</castItem>
+			<castItem><role id="LA-FEE" sex="2" type="F" statut='fée' age='A' stat_amour='néant'>LA FÉE</role>, sous le nom d'Hortense.</castItem>
+			<castItem><role id="LA-MODESTIE" sex="2" type="P" statut='modestie' age='A' stat_amour='néant'>LA MODESTIE</role>.</castItem>
+			<castItem><role id="DIANE" sex="2" type="D" statut='diane' age='A' stat_amour='néant'>DIANE</role>.</castItem>
+			<castItem><role id="CHASSEURS" sex="9" type="H" statut='chasseur' age='A' stat_amour='néant'>Troupe de chasseurs</role>.</castItem>
     </castList>
 <set location='Lieu féérique' country='(non indiqué)' periode='Temps mythologiques' link=''>[Le lieu de la scène n'est pas mentionné.]</set>
 	</front> 

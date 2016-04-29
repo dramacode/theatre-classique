@@ -6,10 +6,11 @@
 			<title>SOLIMAN, TRAGI-COMÉDIE</title>
 			<author born='1600' born_location='1653' death='' death_location='' academie=''>DALIBRAY, Charles Vion de</author>
 		</titleStmt>
-		<publicationStmp>	
+		<publicationStmt>	
 			<editor>Édition critique établie par Sonia Naudin dans le cadre d'un mémoire de master 1 sous la direction de Georges Forestier (2003-2004)</editor>
 			<publisher>publié par Paul FIEVRE, octobre 2014</publisher>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 				<genre>Tragi-comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -109,22 +110,22 @@
 			<p>Page 105. Et seul à sa malice ai fourni de matière. Lisez, l’ai seul, etc…</p>
 		</div>
 		<castList><head>ACTEURS.</head>
-			<castItem><role id="SOLIMAN" civil="M" type="H" statut='roi' age='A' stat_amour='néant'>SOLIMAN</role>, Roi de Thrace.</castItem>
-			<castItem><role id="RUSTAN" civil="M" type="H" statut='prince' age='A' stat_amour='néant'>RUSTAN</role>, Gendre de Soliman.</castItem>
-			<castItem><role id="ACMAT" civil="M" type="H" statut='conseiller' age='A' stat_amour='néant'>ACMAT</role>, Conseiller.</castItem>
-			<castItem><role id="OSMAN" civil="M" type="H" statut='aristocrate' age='A' stat_amour='néant'>OSMAN</role>, Gentilhomme de Rustan.</castItem>
-			<castItem><role id="PERSINE" civil="F" type="H" statut='prince' age='A' stat_amour='néant'>PERSINE</role>, Fille du Roi de Perse déguisée en garçon, amoureuse de Mustapha.</castItem>
-			<castItem><role id="ALVANTE" civil="M" type="H" statut='aristocrate' age='A' stat_amour='néant'>ALVANTE</role>, Père Nourricier de Persine.</castItem>
-			<castItem><role id="LA REINE" civil="F" type="H" statut='roi' age='A' stat_amour='néant'>LA REINE</role>, Femme de Soliman.</castItem>
-			<castItem><role id="SELINE" civil="F" type="H" statut='confident' age='A' stat_amour='néant'>SELINE</role>, Confidente de la Reine.</castItem>
-			<castItem><role id="MUSTAPHA" civil="M" type="H" statut='prince' age='A' stat_amour='néant'>MUSTAPHA</role>, Fils de Soliman.</castItem>
-			<castItem><role id="SOLDATS" civil="G" type="H" statut='soldat' age='A' stat_amour='néant'>SOLDATS De la garde de Soliman</role>.</castItem>
-			<castItem><role id="ORMÈNE" civil="M" type="H" statut='aristocrate' age='A' stat_amour='néant'>ORMÈNE</role>, père Nourricier de Mustapha.</castItem>
-			<castItem><role id="ADRASTE" civil="M" type="H" statut='lieutenant' age='A' stat_amour='néant'>ADRASTE</role>, Lieutenant de Mustapha.</castItem>
-			<castItem><role id="MESSAGER" civil="M" type="H" statut='messager' age='A' stat_amour='néant'>MESSAGER</role>.</castItem>
-			<castItem><role id="DEVIN" civil="M" type="H" statut='devin' age='A' stat_amour='néant'>LE DEVIN</role>.</castItem>
-			<castItem><role id="GENTILHOMME DE SOLIMAN" civil="M" type="H" statut='aristocrate' age='A' stat_amour='néant'>GENTILHOMME DE SOLIMAN</role>.</castItem>
-			<castItem><role id="L’AMBASSADEUR DE PERSE" civil="M" type="H" statut='abassadeur' age='A' stat_amour='néant'>L’AMBASSADEUR DE PERSE</role>.</castItem>
+			<castItem><role id="SOLIMAN" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>SOLIMAN</role>, Roi de Thrace.</castItem>
+			<castItem><role id="RUSTAN" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>RUSTAN</role>, Gendre de Soliman.</castItem>
+			<castItem><role id="ACMAT" sex="1" type="H" statut='conseiller' age='A' stat_amour='néant'>ACMAT</role>, Conseiller.</castItem>
+			<castItem><role id="OSMAN" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>OSMAN</role>, Gentilhomme de Rustan.</castItem>
+			<castItem><role id="PERSINE" sex="2" type="H" statut='prince' age='A' stat_amour='néant'>PERSINE</role>, Fille du Roi de Perse déguisée en garçon, amoureuse de Mustapha.</castItem>
+			<castItem><role id="ALVANTE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>ALVANTE</role>, Père Nourricier de Persine.</castItem>
+			<castItem><role id="LA REINE" sex="2" type="H" statut='roi' age='A' stat_amour='néant'>LA REINE</role>, Femme de Soliman.</castItem>
+			<castItem><role id="SELINE" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>SELINE</role>, Confidente de la Reine.</castItem>
+			<castItem><role id="MUSTAPHA" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>MUSTAPHA</role>, Fils de Soliman.</castItem>
+			<castItem><role id="SOLDATS" sex="9" type="H" statut='soldat' age='A' stat_amour='néant'>SOLDATS De la garde de Soliman</role>.</castItem>
+			<castItem><role id="ORMÈNE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>ORMÈNE</role>, père Nourricier de Mustapha.</castItem>
+			<castItem><role id="ADRASTE" sex="1" type="H" statut='lieutenant' age='A' stat_amour='néant'>ADRASTE</role>, Lieutenant de Mustapha.</castItem>
+			<castItem><role id="MESSAGER" sex="1" type="H" statut='messager' age='A' stat_amour='néant'>MESSAGER</role>.</castItem>
+			<castItem><role id="DEVIN" sex="1" type="H" statut='devin' age='A' stat_amour='néant'>LE DEVIN</role>.</castItem>
+			<castItem><role id="GENTILHOMME DE SOLIMAN" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>GENTILHOMME DE SOLIMAN</role>.</castItem>
+			<castItem><role id="L’AMBASSADEUR DE PERSE" sex="1" type="H" statut='abassadeur' age='A' stat_amour='néant'>L’AMBASSADEUR DE PERSE</role>.</castItem>
 		</castList>
 		<set location='Alep' country='Syrie' periode='XVIème' link=''>La scène est en Alep, ville de Syrie.</set>
 	</front>

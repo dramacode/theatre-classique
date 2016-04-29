@@ -6,9 +6,10 @@
 				<title>ARSACE, ROI DES PARTHES, TRAGÉDIE.</title>
 			<author born='1624' born_location='' death='1685' death_location='' academie=''>PRADE, Jean Le Royer de</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, mai 2010.</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire antique</inspiration>
@@ -58,13 +59,13 @@
 <p>Signé PIGET Syndic.</p>
 </privilege>
 	<castList><head>ACTEURS</head>
-	<castItem><role id="ARTABAN" civil='M' type="H" statut='roi' age='A' stat_amour='néant'>ARTABAN</role>, Roi des Parthes.</castItem> 
-	<castItem><role id="PHARASMANE" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>PHARASMANE</role>, fils ainé d'Artaban.</castItem> 
-	<castItem><role id="ARSACE" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>ARSACE</role>, son frère.</castItem> 
-	<castItem><role id="VOLOGESE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>VOLOGESE</role>, Seigneur Parthe.</castItem> 
-	<castItem><role id="ARAXIE" civil='F' type="H" statut='prince' age='A' stat_amour='néant'>ARAXIE</role>, fille aînée de Phradate, prédécesseur d'Artaban.</castItem> 
-	<castItem><role id="MÉDONIE" civil='F' type="H" statut='prince' age='A' stat_amour='néant'>MÉDONIE</role>, sa soeur.</castItem> 
-	<castItem><role id="LE CAPITAINE" civil='M' type="H" statut='capitaine' age='A' stat_amour='néant'>LE CAPITAINE DES GARDES</role>.</castItem> 
+	<castItem><role id="ARTABAN" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>ARTABAN</role>, Roi des Parthes.</castItem> 
+	<castItem><role id="PHARASMANE" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>PHARASMANE</role>, fils ainé d'Artaban.</castItem> 
+	<castItem><role id="ARSACE" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>ARSACE</role>, son frère.</castItem> 
+	<castItem><role id="VOLOGESE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>VOLOGESE</role>, Seigneur Parthe.</castItem> 
+	<castItem><role id="ARAXIE" sex="2" type="H" statut='prince' age='A' stat_amour='néant'>ARAXIE</role>, fille aînée de Phradate, prédécesseur d'Artaban.</castItem> 
+	<castItem><role id="MÉDONIE" sex="2" type="H" statut='prince' age='A' stat_amour='néant'>MÉDONIE</role>, sa soeur.</castItem> 
+	<castItem><role id="LE CAPITAINE" sex="1" type="H" statut='capitaine' age='A' stat_amour='néant'>LE CAPITAINE DES GARDES</role>.</castItem> 
 	</castList>
 <set location='Séleucie' country='Turquie' periode='Vème avant JC' link=''>La Scène est à Seleucìe dans le Palais d'Artaban.</set>
 </front>
@@ -939,8 +940,7 @@
 	<l id='636'>Prince, me dites-vous, vengez-moi de ce traître.</l>
 </sp>
 <sp who='ARAXIE'><speaker>ARAXIE.</speaker>
-<note type="C">Dans l'édition originale, on lit "teins" au lieu de "tiens".</note>
-	<l id='637'>Quand pour vous y porter je vous tiens ce discours,</l>
+	<l id='637'>Quand pour vous y porter je vous tins ce discours,</l>
 	<l id='638'>Croyez-vous qu'en effet j'en voulusse à ses jours ?</l>
 	<l id='639'>Du mouvement confus de mon âme irritée,</l>
 	<l id='640'>Ma langue malgré moi se trouvant agitée,</l>
@@ -1262,7 +1262,7 @@
 	<l id='872'>Sire, que faites-vous ? Vous couronnez le pire,</l>
 	<l id='873'>Qui devant sa grandeur à l'effort de ses coups,</l>
 	<l id='874'>En sera revêtu sans la tenir de vous.</l>
-	<l id='875'>Vous deux également se plaindront de leur père ;</l>
+	<l id='875'>Tous deux également se plaindront de leur père ;</l>
 	<l id='876'>L'un y perdra le jour, l'autre y perdra son frère.</l>
 </sp>
 <sp who='LE-ROI'><speaker>LE ROI.</speaker>

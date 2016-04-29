@@ -6,9 +6,10 @@
 				<title>ARLEQUIN JOURNALISTE, COMÉDIE</title>
 				<author born='1775' born_location='Blanquefort' death='1851' death_location='Paris' academie='1647'>CHAZET, DUPATY</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, Janvier 2015</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -43,14 +44,14 @@
 	</performance>
 			
 		<castList><head>PERSONNAGES, ACTEURS Citoyen, citoyenne.</head>
-			<castItem><role id='LARONDE' civil='M' type="H" statut='écrivain' age='A' stat_amour='néant'>LARONDE</role>, Écrivain public.	Chapelle.</castItem> 
-			<castItem><role id='DELPHINE' civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>DELPHINE</role>, sa fille.	Sara Lescot.</castItem>
-			<castItem><role id='ARLEQUIN' civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>ARLEQUIN</role>.	Laporte.</castItem>
-			<castItem><role id='GILLES' civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>GILLES</role>.	Carpentier. </castItem>
-			<castItem><role id='BALOURD' civil='M' type="H" statut='auteur' age='A' stat_amour='néant'>BALOURD</role>, Auteur.	Rosières. </castItem>
-			<castItem><role id="L'IMPRIMEUR" civil='M' type="H" statut='imprimeur' age='A' stat_amour='néant'>L'IMPRIMEUR</role>.	Fichet. </castItem>
-			<castItem><role id='LE PROTE' civil='M' type="H" statut='prote' age='A' stat_amour='néant'>LE PROTE</role>.	Tiphaine. </castItem>
-			<castItem><role id='DEUX COLPORTEURS' civil='M' type="H" statut='colporteur' age='A' stat_amour='néant'>DEUX COLPORTEURS</role>.	Le Noble. Clairville</castItem>
+			<castItem><role id='LARONDE' sex="1" type="H" statut='écrivain' age='A' stat_amour='néant'>LARONDE</role>, Écrivain public.	Chapelle.</castItem> 
+			<castItem><role id='DELPHINE' sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>DELPHINE</role>, sa fille.	Sara Lescot.</castItem>
+			<castItem><role id='ARLEQUIN' sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>ARLEQUIN</role>.	Laporte.</castItem>
+			<castItem><role id='GILLES' sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>GILLES</role>.	Carpentier. </castItem>
+			<castItem><role id='BALOURD' sex="1" type="H" statut='auteur' age='A' stat_amour='néant'>BALOURD</role>, Auteur.	Rosières. </castItem>
+			<castItem><role id="L'IMPRIMEUR" sex="1" type="H" statut='imprimeur' age='A' stat_amour='néant'>L'IMPRIMEUR</role>.	Fichet. </castItem>
+			<castItem><role id='LE PROTE' sex="1" type="H" statut='prote' age='A' stat_amour='néant'>LE PROTE</role>.	Tiphaine. </castItem>
+			<castItem><role id='DEUX COLPORTEURS' sex="1" type="H" statut='colporteur' age='A' stat_amour='néant'>DEUX COLPORTEURS</role>.	Le Noble. Clairville</castItem>
 		</castList>
 		<set location='Paris' country='France' periode='XVIIIème' link=''>La Scène est à Paris. Le Théâtre représente, à droite, l'échoppe et la maison de La Ronde; à gauche, l'imprimerie du Journal l'Original. 
 </set>

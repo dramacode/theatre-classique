@@ -6,9 +6,10 @@
 				<title>LE TARTUFFE ou L'HYPOCRITE, COMÉDIE</title>
 				<author born='1622' born_location='Paris' death='1673' death_location='Paris' academie=''>MOLIÈRE</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, février 2016.</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -34,14 +35,14 @@
 		</docImprint>
 
 		<castList><head>ACTEURS</head>
-			<castItem><role id="MADAME PERNELLE" civil="F" type="H" statut="bourgeois" age="V" stat_amour='néant'>MADAME PERNELLE</role>, mère d'Orgon.</castItem>
-			<castItem><role id="ELMIRE" civil="F" type="H" statut="bourgeois" age="A" stat_amour='néant'>ELMIRE</role>, femme d'Orgon.</castItem>
-			<castItem><role id="ORGON" civil="M" type="H" statut="bourgeois" age="A" stat_amour='néant'>ORGON </role>, mari d'Elmire.</castItem>
-			<castItem><role id="DAMIS" civil="F" type="H" statut="bourgeois" age="J" stat_amour='néant'>DAMIS</role>, fils d'Orgon.</castItem>
-			<castItem><role id="CLÉANTE" civil="M" type="H" statut="bourgeois" age="A" stat_amour='néant'>CLÉANTE</role>, beau-frère d'Orgon.</castItem>
-			<castItem><role id="TARTUFFE" civil="M" type="H" statut="dévot" age="A" stat_amour='néant'>TARTUFFE</role>, faux dévot.</castItem>
-			<castItem><role id="DORINE" civil="F" type="H" statut="suivante" age="A" stat_amour='néant'>DORINE</role>, suivante.</castItem>
-			<castItem><role id="FLIPOTE" civil="F" type="H" statut="servante" age="A" stat_amour='néant'>FLIPOTE</role>, servante de Mme Pernelle.</castItem>
+			<castItem><role id="MADAME PERNELLE" sex="2" type="H" statut="bourgeois" age="V" stat_amour='néant'>MADAME PERNELLE</role>, mère d'Orgon.</castItem>
+			<castItem><role id="ELMIRE" sex="2" type="H" statut="bourgeois" age="A" stat_amour='néant'>ELMIRE</role>, femme d'Orgon.</castItem>
+			<castItem><role id="ORGON" sex="1" type="H" statut="bourgeois" age="A" stat_amour='néant'>ORGON </role>, mari d'Elmire.</castItem>
+			<castItem><role id="DAMIS" sex="2" type="H" statut="bourgeois" age="J" stat_amour='néant'>DAMIS</role>, fils d'Orgon.</castItem>
+			<castItem><role id="CLÉANTE" sex="1" type="H" statut="bourgeois" age="A" stat_amour='néant'>CLÉANTE</role>, beau-frère d'Orgon.</castItem>
+			<castItem><role id="TARTUFFE" sex="1" type="H" statut="dévot" age="A" stat_amour='néant'>TARTUFFE</role>, faux dévot.</castItem>
+			<castItem><role id="DORINE" sex="2" type="H" statut="suivante" age="A" stat_amour='néant'>DORINE</role>, suivante.</castItem>
+			<castItem><role id="FLIPOTE" sex="2" type="H" statut="servante" age="A" stat_amour='néant'>FLIPOTE</role>, servante de Mme Pernelle.</castItem>
 		</castList>
 	<set location="Paris" country='France' periode='XVIIème' link=''>Le Scène est à Paris</set>
 	</front>
@@ -149,7 +150,7 @@
 </sp>
 <sp who="DORINE"><speaker>DORINE.</speaker>
 	<l id="57">Certes, c'est une chose aussi qui scandalise,</l>
-<note type="">Impatroniser : S'établir comme chez soi. S'introduire dans une maison et y dominer (avec un sens défavorable). [L]</note>
+<note type="L">Impatroniser : S'établir comme chez soi. S'introduire dans une maison et y dominer (avec un sens défavorable). [L]</note>
 	<l id="58">De voir qu'un Inconnu céans s'impatronise ;</l>
 	<l id="59">Qu'un Gueux qui, quand il vint, n'avait pas de souliers,</l>
 	<l id="60">Et dont l'habit entier valait bien six deniers,</l>

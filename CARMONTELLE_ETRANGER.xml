@@ -6,9 +6,10 @@
 			<title>L'ÉTRANGER, COMÉDIE</title>
 			<author born='1717' born_location='Paris' death='1806' death_location='Paris' academie='Poitiers'>CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle</author>
 		</titleStmt>
-		<publicationStmp>
+		<publicationStmt>
 			<p>publié par Paul FIEVRE octobre 2010</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Proverbe</genre>
 			<inspiration>moeurs françaises</inspiration>
@@ -42,10 +43,10 @@
 			<premiere date='1780-09-29' location='Valenciennes'>Représenté pour la première fois en public le 29 septembre 1780 à Valenciennes.</premiere>
 		</performance>
 	<castList><head>PERSONNAGES</head>
-		<castItem><role id="MONSIEUR TROTBERG" civil='M' type="H" statut="banquier" age="A" stat_amour='néant'>MONSIEUR TROTBERG</role>, Banquier Allemand..</castItem>
-		<castItem><role id="MONSIEUR DUBREUIL" civil='M' type="H" statut="banquier" age="A" stat_amour='néant'>MONSIEUR DUBREUIL</role>, Banquier Français.</castItem>
-		<castItem><role id="MONSIEUR DUBREUIL" civil='M'  type="H" statut="bourgeois" age="A" stat_amour='néant'>MONSIEUR DUBREUIL Fils</role>.</castItem>
-		<castItem><role id="LAPIERRE" civil='M' type="H" statut="laquais" age="A" stat_amour='néant'>LAPIERRE</role>, Laquais de M. Dubreuil.</castItem>
+		<castItem><role id="MONSIEUR TROTBERG" sex="1" type="H" statut="banquier" age="A" stat_amour='néant'>MONSIEUR TROTBERG</role>, Banquier Allemand..</castItem>
+		<castItem><role id="MONSIEUR DUBREUIL" sex="1" type="H" statut="banquier" age="A" stat_amour='néant'>MONSIEUR DUBREUIL</role>, Banquier Français.</castItem>
+		<castItem><role id="MONSIEUR DUBREUIL" sex="1"  type="H" statut="bourgeois" age="J" stat_amour='néant'>MONSIEUR DUBREUIL Fils</role>.</castItem>
+		<castItem><role id="LAPIERRE" sex="1" type="H" statut="laquais" age="A" stat_amour='néant'>LAPIERRE</role>, Laquais de M. Dubreuil.</castItem>
      </castList>
 <set location='Paris' country='France' periode='XVIIIème' link=''>La Scène est chez Monsieur Dubreuil.</set>
 </front>

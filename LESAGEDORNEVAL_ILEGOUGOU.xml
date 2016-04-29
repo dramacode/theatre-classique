@@ -6,9 +6,10 @@
 				<title>L'ÎLE DU GOUGOU, COMÉDIE</title>
 				<author born='' born_location='' death='' death_location='' academie=''>LESAGE et DORNEVAL</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, octobre 2013;</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -42,20 +43,20 @@
 			<premiere date='1720' location='Foire Saint-Germain'>Représentée sur le théâtre de la troupe du sieur Francisque à la Foire Saint-Germain.</premiere>
 		</performance>
 		<castList><head>ACTEURS.</head>
-			<castItem><role id='LE SAGAMO' civil='M' type="H" statut='roi' age='A' stat_amour='néant'>LE SAGAMO</role>, chef des sauvages.</castItem>
-			<castItem><role id='TOURMENTINE' civil='F' type="H" statut='princesse' age='A' stat_amour='néant'>TOURMENTINE</role>, sa fille.</castItem>
-			<castItem><role id='CARABOSSE' civil='F' type="H" statut='suivante' age='A' stat_amour='néant'>CARABOSSE</role>, suivante de Tourmentine.</castItem>
-			<castItem><role id='LÉANDRE' civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>LÉANDRE</role>, amant d’Argentine.</castItem>
-			<castItem><role id='ARLEQUIN' civil='M' type="H" statut='valet' age='A' stat_amour='néant'>ARLEQUIN</role>, son valet.</castItem>
-			<castItem><role id='ARGENTINE' civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>ARGENTINE</role>.</castItem>
-			<castItem><role id='MARNIETTE' civil='F' type="H" statut='suivante' age='A' stat_amour='néant'>MARNIETTE</role>, sa suivante.</castItem>
-			<castItem><role id='LE GOUGOU' civil='M' type="A" statut='monstre' age='A' stat_amour='néant'>LE GOUGOU</role>, monstre qu’adorent les sauvages.</castItem>
-			<castItem><role id='PIERROT' civil='M' type="H" statut='sacrificateur' age='A' stat_amour='néant'>PIERROT</role>, sacrificateur du Gougou.</castItem>
-			<castItem><role id='LE GÉNIE BENINGUET' civil='M' type="H" statut='génie' age='A' stat_amour='néant'>LE GÉNIE BENINGUET</role>.</castItem>
-			<castItem><role id='OFFICIERS DU SAGAMO' civil='G' type="H" statut='officier' age='A' stat_amour='néant'>OFFICIERS DU SAGAMO</role>.</castItem>
-			<castItem><role id='LE FAVORI du SAGAMO' civil='M' type="H" statut='favori' age='A' stat_amour='néant'>LE FAVORI du SAGAMO</role>.</castItem>
-			<castItem><role id='TROUPE DE SAUVAGES' civil='G' type="H" statut='peuple' age='A' stat_amour='néant'>TROUPE DE SAUVAGES</role>.</castItem>
-			<castItem><role id='TROUPES DE LUTINS' civil='G' type="H" statut='lutin' age='A' stat_amour='néant'>TROUPES DE LUTINS</role>.</castItem>
+			<castItem><role id='LE SAGAMO' sex="1" type="H" statut='roi' age='A' stat_amour='néant'>LE SAGAMO</role>, chef des sauvages.</castItem>
+			<castItem><role id='TOURMENTINE' sex="2" type="H" statut='princesse' age='A' stat_amour='néant'>TOURMENTINE</role>, sa fille.</castItem>
+			<castItem><role id='CARABOSSE' sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>CARABOSSE</role>, suivante de Tourmentine.</castItem>
+			<castItem><role id='LÉANDRE' sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>LÉANDRE</role>, amant d’Argentine.</castItem>
+			<castItem><role id='ARLEQUIN' sex="1" type="H" statut='valet' age='A' stat_amour='néant'>ARLEQUIN</role>, son valet.</castItem>
+			<castItem><role id='ARGENTINE' sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>ARGENTINE</role>.</castItem>
+			<castItem><role id='MARNIETTE' sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>MARNIETTE</role>, sa suivante.</castItem>
+			<castItem><role id='LE GOUGOU' sex="1" type="P" statut='monstre' age='A' stat_amour='néant'>LE GOUGOU</role>, monstre qu’adorent les sauvages.</castItem>
+			<castItem><role id='PIERROT' sex="1" type="H" statut='sacrificateur' age='A' stat_amour='néant'>PIERROT</role>, sacrificateur du Gougou.</castItem>
+			<castItem><role id='LE GÉNIE BENINGUET' sex="1" type="H" statut='génie' age='A' stat_amour='néant'>LE GÉNIE BENINGUET</role>.</castItem>
+			<castItem><role id='OFFICIERS DU SAGAMO' sex="9" type="H" statut='officier' age='A' stat_amour='néant'>OFFICIERS DU SAGAMO</role>.</castItem>
+			<castItem><role id='LE FAVORI du SAGAMO' sex="1" type="H" statut='favori' age='A' stat_amour='néant'>LE FAVORI du SAGAMO</role>.</castItem>
+			<castItem><role id='TROUPE DE SAUVAGES' sex="9" type="H" statut='peuple' age='A' stat_amour='néant'>TROUPE DE SAUVAGES</role>.</castItem>
+			<castItem><role id='TROUPES DE LUTINS' sex="9" type="H" statut='lutin' age='A' stat_amour='néant'>TROUPES DE LUTINS</role>.</castItem>
 		</castList>
 		<set location='Sur une île' country='(inconnu)' periode='XVIIIème' link=''>Le théâtre représente une île dans les ailes et une mer dans le fonds. </set>
 	</front>

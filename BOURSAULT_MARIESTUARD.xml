@@ -7,9 +7,10 @@
 				<author born='1638' born_location="Mussy-l Evêque" death='1701' death_location='Paris' academie=''>BOURSAULT, Edme</author>
 				<date>1691</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE</p><p>Septembre 2006</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire écossaise</inspiration>
@@ -42,18 +43,18 @@
 			<premiere date="1683-12-17" location='Hôtel Guénégaud'>Représenté pour la première fois le 17 décembre 1683 au Théâtre de l'Hôtel Guénégaud.</premiere>
 		</performance>
 	<castList><head>Acteurs</head>
-		<castItem><role id="MARIE-STUARD" civil='F' type="H" statut="roi" age="A" stat_amour='néant'>MARIE STUARD</role>, reine d'Écosse.</castItem>
-		<castItem><role id="ELISABETH" civil='F' type="H" statut="roi" age="A" stat_amour='néant'>ELISABETH</role>, reine d'Angleterre, fille d'Henri VIII et d'Anne de Boleyn</castItem>
-		<castItem><role id="NORFOLK" civil='M' type="H" statut="duc" age="A" stat_amour='néant'>Le Duc de NORFOLK</role>, autrefois favori d'Élisabeth</castItem>
-		<castItem><role id="MORRAY" civil='M' type="H" statut="comte" age="A" stat_amour='néant'>Le Comte de MORRAY</role>, frère naturel de Marie Stuart</castItem>
-		<castItem><role id="NEWCASTLE" civil='M' type="H" statut="comte" age="A" stat_amour='néant'>Le Comte de NEWCASTLE</role>.</castItem>
-		<castItem><role id="LANCASTRE" civil='M' type="H" statut="confident" age="A" stat_amour='néant'>LANCASTRE</role>, confident d'Elisabeth</castItem>
-		<castItem><role id="MELVIN" civil='M' type="H" statut="écuyer" age="A" stat_amour='néant'>MELVIN</role>, écuyer de Marie Stuard.</castItem>
-		<castItem><role id="KENEDE" civil='F' type="H" statut="suivante" age="A" stat_amour='néant'>KENEDE</role>, suivante de Marie Stuard.</castItem>
-		<castItem><role id="ALBIONE" civil='F' type="H" statut="suivante" age="A" stat_amour='néant'>ALBIONE</role>, suivante de Marie Stuard.</castItem>
-		<castItem><role id="KILLEGRE" civil='M' type="H" statut="capitaine" age="A" stat_amour='néant'>KILLEGRE</role>, capitaine des gardes d'Elisabeth.</castItem>
-		<castItem><role id="EURIC" civil='M' type="H" statut="lieutenant" age="A" stat_amour='néant'>EURIC</role>, lieutenant des gardes d'Elisabeth</castItem>
-		<castItem><role id="GARDES" civil='G' type="H" statut="garde" age="A" stat_amour='néant'>Gardes</role>.</castItem>
+		<castItem><role id="MARIE-STUARD" sex="2" type="H" statut="roi" age="A" stat_amour='néant'>MARIE STUARD</role>, reine d'Écosse.</castItem>
+		<castItem><role id="ELISABETH" sex="2" type="H" statut="roi" age="A" stat_amour='néant'>ELISABETH</role>, reine d'Angleterre, fille d'Henri VIII et d'Anne de Boleyn</castItem>
+		<castItem><role id="NORFOLK" sex="1" type="H" statut="duc" age="A" stat_amour='néant'>Le Duc de NORFOLK</role>, autrefois favori d'Élisabeth</castItem>
+		<castItem><role id="MORRAY" sex="1" type="H" statut="comte" age="A" stat_amour='néant'>Le Comte de MORRAY</role>, frère naturel de Marie Stuart</castItem>
+		<castItem><role id="NEWCASTLE" sex="1" type="H" statut="comte" age="A" stat_amour='néant'>Le Comte de NEWCASTLE</role>.</castItem>
+		<castItem><role id="LANCASTRE" sex="1" type="H" statut="confident" age="A" stat_amour='néant'>LANCASTRE</role>, confident d'Elisabeth</castItem>
+		<castItem><role id="MELVIN" sex="1" type="H" statut="écuyer" age="A" stat_amour='néant'>MELVIN</role>, écuyer de Marie Stuard.</castItem>
+		<castItem><role id="KENEDE" sex="2" type="H" statut="suivante" age="A" stat_amour='néant'>KENEDE</role>, suivante de Marie Stuard.</castItem>
+		<castItem><role id="ALBIONE" sex="2" type="H" statut="suivante" age="A" stat_amour='néant'>ALBIONE</role>, suivante de Marie Stuard.</castItem>
+		<castItem><role id="KILLEGRE" sex="1" type="H" statut="capitaine" age="A" stat_amour='néant'>KILLEGRE</role>, capitaine des gardes d'Elisabeth.</castItem>
+		<castItem><role id="EURIC" sex="1" type="H" statut="lieutenant" age="A" stat_amour='néant'>EURIC</role>, lieutenant des gardes d'Elisabeth</castItem>
+		<castItem><role id="GARDES" sex="9" type="H" statut="garde" age="A" stat_amour='néant'>Gardes</role>.</castItem>
 	</castList>
 	<set location='Londres' country='Angleterre' periode='XVIIème' link=''>La scène est à Londres.</set>
 </front>

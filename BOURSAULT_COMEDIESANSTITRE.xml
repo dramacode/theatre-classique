@@ -6,9 +6,10 @@
 				<title>LA COMÉDIE SANS TITRE, COMÉDIE.</title>
 				<author born='1638' born_location="Mussy-l Evêque" death='1701' death_location='Paris' academie=''>BOURSAULT, Edme</author>
 							</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<authority>publié par Paul FIEVRE, Septembre 2014.</authority>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -58,27 +59,27 @@
 		<premiere date="1683-03" location="Théâtre Guénégaud">Représentée pour la première fois, le 5 mars 1683 au Théâtre de l'Hôtel Guénégaud. </premiere>
 	</performance>
 		<castList><head>PERSONNAGES</head>
-			<castItem><role id="ORONTE" civil="M" type="H" statut="" age="A" stat_amour='Cécile'>ORONTE</role>, Gentilhomme, Cousin de l'Auteur du Mercure Galant, et Amant de Cécile.</castItem>
-			<castItem><role id="MONSIEUR DE BOISLUISANT" civil="M" type="H" statut="bourgeois" age="A" stat_amour=''>MONSIEUR DE BOISLUISANT</role>, Père de Cécile.</castItem>
-			<castItem><role id="CÉCILE" civil="F" type="H" statut="bourgeois" age="A" stat_amour='Oronte'>CÉCILE</role>, Maîtresse d'Oronte.</castItem>
-			<castItem><role id="MERLIN" civil="M" type="H" statut="valet" age="A" stat_amour=''>MERLIN</role>, Valet d'Oronte.</castItem>
-			<castItem><role id="LISETTE" civil="F" type="H" statut="suivante" age="A" stat_amour=''>LISETTE</role>, Suivante de Cécile.</castItem>
-			<castItem><role id="MONSIEUR MICHAUT" civil="M" type="H" statut="bourgeois" age="A" stat_amour=''>MONSIEUR MICHAUT</role>.</castItem>
-			<castItem><role id="MADAME GUILLEMOT" civil="F" type="H" statut="bourgeois" age="A" stat_amour=''>MADAME GUILLEMOT</role>.</castItem>
-			<castItem><role id="LONGUEMAIN" civil="M" type="H" statut="receveur" age="A" stat_amour=''>LONGUEMAIN</role>, Receveur des Gabelles.</castItem>
-			<castItem><role id="BONIFACE" civil="M" type="H" statut="imprimeur" age="A" stat_amour=''>BONIFACE</role>, Imprimeur.</castItem>
-			<castItem><role id="MONSIEUR DE LA MOTTE" civil="M" type="H" statut="bourgeois" age="A" stat_amour='Claire'>MONSIEUR DE LA MOTTE</role>, Amant de Claire.</castItem>
-			<castItem><role id="CLAIRE" civil="F" type="H" statut="bourgeois" age="A" stat_amour='La Motte'>CLAIRE</role>, Maîtresse de M. de la Motte.</castItem>
-			<castItem><role id="DUMESNIL" civil="M" type="H" statut="professeur" age="A" stat_amour=''>DUMESNIL</role>, Professeur de Langues.</castItem>
-			<castItem><role id="MONSIEUR BRIGANDEAU" civil="M" type="H" statut="procureur" age="A" stat_amour=''>MONSIEUR BRIGANDEAU</role>, Procureur du Châtelet.</castItem>
-			<castItem><role id="MONSIEUR SANGSUE" civil="M" type="H" statut="procureur" age="A" stat_amour=''>MONSIEUR SANGSUE</role>, Procureur de la Cour.</castItem>
-			<castItem><role id="MADAME DECALVILLE" civil="F" type="H" statut="bourgeois" age="A" stat_amour=''>MADAME DECALVILLE</role>, Veuve.</castItem>
-			<castItem><role id="LE MARQUIS" civil="M" type="H" statut="marquis" age="A" stat_amour=''>LE MARQUIS</role>.</castItem>
-			<castItem><role id="ORIANE" civil="F" type="H" statut="bourgeois" age="A" stat_amour=''>ORIANE</role>, Soeur d'Élise, qui a appris l'art de se taire.</castItem>
-			<castItem><role id="ÉLISE" civil="F" type="H" statut="bourgeois" age="A" stat_amour=''>ÉLISE</role>, Soeur d'Oriane, qui a appris l'art de se taire.</castItem>
-			<castItem><role id="BEAUGÉNIE" civil="M" type="H" statut="poète" age="A" stat_amour=''>BEAUGÉNIE</role>, Poète.</castItem>
-			<castItem><role id="LA RISSOLE" civil="M" type="H" statut="soldat" age="A" stat_amour=''>LA RISSOLE</role>, Soldat.</castItem>
-			<castItem><role id="DEUX LAQUAIS" civil="G" type="H" statut="laquais" age="A" stat_amour=''>DEUX LAQUAIS</role>.</castItem>
+			<castItem><role id="ORONTE" sex="1" type="H" statut="aristocrate" age="A" stat_amour='Cécile'>ORONTE</role>, Gentilhomme, Cousin de l'Auteur du Mercure Galant, et Amant de Cécile.</castItem>
+			<castItem><role id="MONSIEUR DE BOISLUISANT" sex="1" type="H" statut="bourgeois" age="A" stat_amour=''>MONSIEUR DE BOISLUISANT</role>, Père de Cécile.</castItem>
+			<castItem><role id="CÉCILE" sex="2" type="H" statut="bourgeois" age="J" stat_amour='Oronte'>CÉCILE</role>, Maîtresse d'Oronte.</castItem>
+			<castItem><role id="MERLIN" sex="1" type="H" statut="valet" age="A" stat_amour=''>MERLIN</role>, Valet d'Oronte.</castItem>
+			<castItem><role id="LISETTE" sex="2" type="H" statut="suivante" age="A" stat_amour=''>LISETTE</role>, Suivante de Cécile.</castItem>
+			<castItem><role id="MONSIEUR MICHAUT" sex="1" type="H" statut="bourgeois" age="A" stat_amour=''>MONSIEUR MICHAUT</role>.</castItem>
+			<castItem><role id="MADAME GUILLEMOT" sex="2" type="H" statut="bourgeois" age="A" stat_amour=''>MADAME GUILLEMOT</role>.</castItem>
+			<castItem><role id="LONGUEMAIN" sex="1" type="H" statut="receveur" age="A" stat_amour=''>LONGUEMAIN</role>, Receveur des Gabelles.</castItem>
+			<castItem><role id="BONIFACE" sex="1" type="H" statut="imprimeur" age="A" stat_amour=''>BONIFACE</role>, Imprimeur.</castItem>
+			<castItem><role id="MONSIEUR DE LA MOTTE" sex="1" type="H" statut="bourgeois" age="A" stat_amour='Claire'>MONSIEUR DE LA MOTTE</role>, Amant de Claire.</castItem>
+			<castItem><role id="CLAIRE" sex="2" type="H" statut="bourgeois" age="A" stat_amour='La Motte'>CLAIRE</role>, Maîtresse de M. de la Motte.</castItem>
+			<castItem><role id="DUMESNIL" sex="1" type="H" statut="professeur" age="A" stat_amour=''>DUMESNIL</role>, Professeur de Langues.</castItem>
+			<castItem><role id="MONSIEUR BRIGANDEAU" sex="1" type="H" statut="procureur" age="A" stat_amour=''>MONSIEUR BRIGANDEAU</role>, Procureur du Châtelet.</castItem>
+			<castItem><role id="MONSIEUR SANGSUE" sex="1" type="H" statut="procureur" age="A" stat_amour=''>MONSIEUR SANGSUE</role>, Procureur de la Cour.</castItem>
+			<castItem><role id="MADAME DECALVILLE" sex="2" type="H" statut="veuve" age="A" stat_amour=''>MADAME DECALVILLE</role>, Veuve.</castItem>
+			<castItem><role id="LE MARQUIS" sex="1" type="H" statut="marquis" age="A" stat_amour=''>LE MARQUIS</role>.</castItem>
+			<castItem><role id="ORIANE" sex="2" type="H" statut="bourgeois" age="A" stat_amour=''>ORIANE</role>, Soeur d'Élise, qui a appris l'art de se taire.</castItem>
+			<castItem><role id="ÉLISE" sex="2" type="H" statut="bourgeois" age="A" stat_amour=''>ÉLISE</role>, Soeur d'Oriane, qui a appris l'art de se taire.</castItem>
+			<castItem><role id="BEAUGÉNIE" sex="1" type="H" statut="poète" age="A" stat_amour=''>BEAUGÉNIE</role>, Poète.</castItem>
+			<castItem><role id="LA RISSOLE" sex="1" type="H" statut="soldat" age="A" stat_amour=''>LA RISSOLE</role>, Soldat.</castItem>
+			<castItem><role id="DEUX LAQUAIS" sex="9" type="H" statut="laquais" age="A" stat_amour=''>DEUX LAQUAIS</role>.</castItem>
 		</castList>
 		<set location='Paris' country='France' periode='XVIIème' link=''>La scène est dans la Maison de l'Auteur du Mercure Galant.</set>
 		<note>Cette pièce se nommait auparavant "Le Mercure galant", Donneau de Visé, auteur du Mercure, obtint que le nom de la pièce soit changé.</note>

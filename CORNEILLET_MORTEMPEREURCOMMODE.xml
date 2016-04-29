@@ -7,9 +7,10 @@
 				<author born='1625' born_location='Rouen' death='1709' death_location='Les Andelys' academie='1685'>CORNEILLE, Thomas</author>
 				<date>1657</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, Septembre 2009</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire romaine</inspiration>
@@ -41,14 +42,14 @@
 			<premiere date='1657' location='Théâtre du Marais'>Représentée pour la première fois en 1657 au Théâtre du Marais.</premiere>
 		</performance>
 		<castList><head>ACTEURS</head>
-			<castItem><role id="COMMODE" civil='M' type="H" statut='empereur' age='A' stat_amour='néant'>COMMODE</role>, empereur de Rome.</castItem>
-			<castItem><role id="ELECTUS" civil='M' type="H" statut='aristocrate' age='A' stat_amour='amoureux'>ELECTUS</role>, amant de Marcia.</castItem>
-			<castItem><role id="LAETUS" civil='M' type="H" statut='aristocrate' age='A' stat_amour='amoureux'>LAETUS</role>, amant d'Helvie.</castItem>
-			<castItem><role id="MARCIA" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>MARCIA</role>, fille de Pertinax qui succéda à Commode.</castItem>
-			<castItem><role id="HELVIE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>HELVIE</role>, fille de Pertinax qui succéda à Commode.</castItem>
-			<castItem><role id="FLAVIAN" civil='M' type="H" statut='capitaine' age='A' stat_amour='néant'>FLAVIAN</role>, capitaine des gardes de l'Empereur.</castItem>
-			<castItem><role id="LUCIE" civil='F' type="H" statut='confident' age='A' stat_amour='néant'>LUCIE</role>, confidente de Marcia.</castItem>
-			<castItem><role id="JULIE" civil='F' type="H" statut='confident' age='A' stat_amour='néant'>JULIE</role>, confidente d'Helvie.</castItem>
+			<castItem><role id="COMMODE" sex="1" type="H" statut='empereur' age='A' stat_amour='néant'>COMMODE</role>, empereur de Rome.</castItem>
+			<castItem><role id="ELECTUS" sex="1" type="H" statut='aristocrate' age='A' stat_amour='amoureux'>ELECTUS</role>, amant de Marcia.</castItem>
+			<castItem><role id="LAETUS" sex="1" type="H" statut='aristocrate' age='A' stat_amour='amoureux'>LAETUS</role>, amant d'Helvie.</castItem>
+			<castItem><role id="MARCIA" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>MARCIA</role>, fille de Pertinax qui succéda à Commode.</castItem>
+			<castItem><role id="HELVIE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>HELVIE</role>, fille de Pertinax qui succéda à Commode.</castItem>
+			<castItem><role id="FLAVIAN" sex="1" type="H" statut='capitaine' age='A' stat_amour='néant'>FLAVIAN</role>, capitaine des gardes de l'Empereur.</castItem>
+			<castItem><role id="LUCIE" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>LUCIE</role>, confidente de Marcia.</castItem>
+			<castItem><role id="JULIE" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>JULIE</role>, confidente d'Helvie.</castItem>
 		</castList>
 	<set location='Rome' country='Italie' periode='IIème' link=''>La scène est à Rome.</set>
 	</front>

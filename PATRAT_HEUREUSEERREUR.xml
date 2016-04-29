@@ -6,9 +6,10 @@
 				<title>L'HEUREUSE ERREUR, COMÉDIE</title>
 				<author born='1733' born_location='Arles' death='1801' death_location='Paris' academie=''>PATRAT, Joseph</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, septembre 2013</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -55,19 +56,19 @@
 		<p>Toutes les situations sont indiquées au commencement de chaque scène : le personnage dont le nom se trouve placé le premier, doit être du côté de la Loge actuelle de la Reine, c'est-à-dire, à la droite des acteurs, et les autres vont de suite. Cette méthode, inventée par La Noue, est la plus simple pour indiquer, et la plus facile à suivre. </p>
 		</div>
 		<castList><head>PERSONNAGES</head>
-			<castItem><role id='LA COMTESSE DELFORT' civil='M' type="H" statut="" age="A" stat_amour='néant'>LA COMTESSE DELFORT</role>, riche veuve de dix-huit ans, retirée du monde et vivant dans son château. Elle est en négligé galand. Mme. Verteuil.</castItem>
-			<castItem><role id='SOPHIE DELVAL' civil='F' type="H" statut="" age="A" stat_amour='néant'>SOPHIE DELVAL</role>, riche héritiere, demeurant dans un château voisin de celui de la Comtesse, habillee en paysanne. Mme. Jalien.</castItem>
-			<castItem><role id='LISETTE' civil='F' type="H" statut="" age="A" stat_amour='néant'>LISETTE</role>, Femme-de-chambre de Sophie Delval, placée par son ordre chez la Comtesse, en déshabillé. Mme. Raymond.</castItem>
-			<castItem><role id='MONSIEUR LUVILLE' civil='M' type="H" statut="" age="A" stat_amour='néant'>MONSIEUR LUVILLE</role>, frere de la Comtesse Delfort, jeune homme aimable, en frac très uni. M. Grangé.</castItem>
-			<castItem><role id='MONSIEUR DELVAL' civil='M' type="H" statut="" age="A" stat_amour='néant'>MONSIEUR DELVAL</role>, frere cadet de Sophie, très jeune ; il paroît d'abord en sartout uniforme, ensuite richement paré. M. Raymond.</castItem>
-			<castItem><role id='DUBOIS' civil='M' type="H" statut="" age="A" stat_amour='néant'>DUBOIS</role>, vieux Domestique de la maison, mis comme Dubois, de la Gageure imprévue. M. Favard.</castItem>
-			<castItem><role id='ANDRÉ' civil='M' type="H" statut="" age="A" stat_amour='néant'>ANDRÉ</role>, Valet ingénu, en veste de Courier. M. Valleroi. </castItem>
-			<castItem><role id='MONSIEUR MINUTE' civil='M' type="H" statut="" age="A" stat_amour='néant'>MONSIEUR MINUTE</role>, mis en Notaire de Village. M. Coralli. </castItem>
+			<castItem><role id='LA COMTESSE DELFORT' sex="1" type="H" statut="constesse" age="J" stat_amour='néant'>LA COMTESSE DELFORT</role>, riche veuve de dix-huit ans, retirée du monde et vivant dans son château. Elle est en négligé galant. Mme. Verteuil.</castItem>
+			<castItem><role id='SOPHIE DELVAL' sex="2" type="H" statut="aristocrete" age="A" stat_amour='néant'>SOPHIE DELVAL</role>, riche héritiere, demeurant dans un château voisin de celui de la Comtesse, habillee en paysanne. Mme. Jalien.</castItem>
+			<castItem><role id='LISETTE' sex="2" type="H" statut="femme de chambre" age="A" stat_amour='néant'>LISETTE</role>, Femme-de-chambre de Sophie Delval, placée par son ordre chez la Comtesse, en déshabillé. Mme. Raymond.</castItem>
+			<castItem><role id='MONSIEUR LUVILLE' sex="1" type="H" statut="comte" age="A" stat_amour='néant'>MONSIEUR LUVILLE</role>, frère de la Comtesse Delfort, jeune homme aimable, en frac très uni. M. Grangé.</castItem>
+			<castItem><role id='MONSIEUR DELVAL' sex="1" type="H" statut="comte" age="J" stat_amour='néant'>MONSIEUR DELVAL</role>, frère cadet de Sophie, très jeune ; il paraît d'abord en sartout uniforme, ensuite richement paré. M. Raymond.</castItem>
+			<castItem><role id='DUBOIS' sex="1" type="H" statut="domestique" age="V" stat_amour='néant'>DUBOIS</role>, vieux Domestique de la maison, mis comme Dubois, de la Gageure imprévue. M. Favard.</castItem>
+			<castItem><role id='ANDRÉ' sex="1" type="H" statut="valet" age="A" stat_amour='néant'>ANDRÉ</role>, Valet ingénu, en veste de Courier. M. Valleroi. </castItem>
+			<castItem><role id='MONSIEUR MINUTE' sex="1" type="H" statut="notaire" age="A" stat_amour='néant'>MONSIEUR MINUTE</role>, mis en Notaire de Village. M. Coralli. </castItem>
 		</castList>
 		<set location='Paris' country='France' periode='XVIIIème' link=''>La scène se passe dans le salon de la Comtesse Delfort. </set> 
 </front>
 <body>
-<div1 type="act" n='1'><head>ACTE UNIQUE</head>
+<div1 type="act" n='1'><head>L'HEUREUSE ERREUR</head>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE.</head>
 <stage>Le Théâtre représente un salon trèsorné.</stage>
 <sp who="LISETTE"><speaker>LISETTE seule, sortant du cabinet de sa Maîtresse actuelle, de la Comtesse, avec l'air le plus satisfait.</speaker>

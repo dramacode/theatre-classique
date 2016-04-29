@@ -6,9 +6,10 @@
 				<title>TIBÈRE, TRAGÉDIE</title>
 				<author born='1663' born_location='Marseille' death='1745' death_location='Paris' academie=''>PELLEGRIN, Simon-Joseph, Abbé</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, août 2014</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire romaine</inspiration>
@@ -69,16 +70,16 @@
 		
 		<castList>
 		<head>ACTEURS</head>
-			<castItem><role id="AGRIPPA" civil='M' type="H" statut="empereur" age="A" stat_amour='néant'>AGRIPPA</role>, fils de Julie, et petit-fils d'Auguste.</castItem>
-			<castItem><role id="LIVIE" civil='F' type="H" statut="empereur" age="A" stat_amour='néant'>LIVIE</role>, Impératrice.</castItem>
-			<castItem><role id="TIBÈRE" civil='M' type="H" statut="aristocrate" age="A" stat_amour='néant'>TIBÈRE</role>, fils de Livie.</castItem>
-			<castItem><role id="POMPÉE" civil='M' type="H" statut="consul" age="A" stat_amour='néant'>POMPÉE</role>, Consul.</castItem>
-			<castItem><role id="ÉMILIE" civil='F' type="H" statut="aristocrate" age="A" stat_amour='néant'>ÉMILIE</role>, fille de Pompée.</castItem>
-			<castItem><role id="MAXIME" civil='M' type="H" statut="confident" age="A" stat_amour='néant'>MAXIME</role>, Confident d'Agrippa.</castItem>
-			<castItem><role id="FAUSTINE" civil='F' type="H" statut="confident" age="A" stat_amour='néant'>FAUSTINE</role>, Confidente de Livie.</castItem>
-			<castItem><role id="MARTIAN" civil='M' type="H" statut="confident" age="A" stat_amour='néant'>MARTIAN</role>, Centenier, Confident de Tibère.</castItem>
-			<castItem><role id="ALBINE" civil='F' type="H" statut="confident" age="A" stat_amour='néant'>ALBINE</role>, Confidente d'Emilie.</castItem>
-			<castItem><role id="GARDES" civil='G' type="H" statut="garde" age="A" stat_amour='néant'>GARDES, ou LICTEURS</role>.</castItem>
+			<castItem><role id="AGRIPPA" sex="1" type="H" statut="empereur" age="A" stat_amour='néant'>AGRIPPA</role>, fils de Julie, et petit-fils d'Auguste.</castItem>
+			<castItem><role id="LIVIE" sex="2" type="H" statut="empereur" age="A" stat_amour='néant'>LIVIE</role>, Impératrice.</castItem>
+			<castItem><role id="TIBÈRE" sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>TIBÈRE</role>, fils de Livie.</castItem>
+			<castItem><role id="POMPÉE" sex="1" type="H" statut="consul" age="A" stat_amour='néant'>POMPÉE</role>, Consul.</castItem>
+			<castItem><role id="ÉMILIE" sex="2" type="H" statut="aristocrate" age="A" stat_amour='néant'>ÉMILIE</role>, fille de Pompée.</castItem>
+			<castItem><role id="MAXIME" sex="1" type="H" statut="confident" age="A" stat_amour='néant'>MAXIME</role>, Confident d'Agrippa.</castItem>
+			<castItem><role id="FAUSTINE" sex="2" type="H" statut="confident" age="A" stat_amour='néant'>FAUSTINE</role>, Confidente de Livie.</castItem>
+			<castItem><role id="MARTIAN" sex="1" type="H" statut="confident" age="A" stat_amour='néant'>MARTIAN</role>, Centenier, Confident de Tibère.</castItem>
+			<castItem><role id="ALBINE" sex="2" type="H" statut="confident" age="A" stat_amour='néant'>ALBINE</role>, Confidente d'Emilie.</castItem>
+			<castItem><role id="GARDES" sex="9" type="H" statut="garde" age="A" stat_amour='néant'>GARDES, ou LICTEURS</role>.</castItem>
 		</castList>
 		<set location='Rome' country='Italie' periode='Ier' link=''>La scène est à Nole, dans le Palais d'Auguste.</set>
 	</front>

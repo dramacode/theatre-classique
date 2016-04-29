@@ -5,12 +5,12 @@
 			<titleStmt>
 				<title>ESTHER, TRAGÉDIE.</title>
 				<author born='1605' born_location='Paris' death='1658' death_location='Paris' academie=''>DU RYER, Pierre</author>
-				<date>1644</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<editor></editor>
 				<publisher>publié par Ernest FIEVRE, janvier 2009</publisher>
-			</publicationStmp>
+				<idno>DURYER_ESTHER</idno>
+			</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>bible</inspiration>
@@ -46,14 +46,14 @@
 			<premiere date="1640" location='(inconnue)'>Représenté par la première fois en 1640.</premiere>
 		</performance>
 <castList><head>LES PERSONNAGES.</head>
-	<castItem><role id="ESTHER" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>ESTHER</role>.</castItem>
-	<castItem><role id="THAMAR" civil='F' type="H" statut='suivante' age='A' stat_amour='néant'>THAMAR</role>, suivante d'Esther.</castItem>
-	<castItem><role id="MARDOCHEE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>MARDOCHÉE</role>, Oncle d'Esther.</castItem>
-	<castItem><role id="HAMAN" civil='M' type="H" statut='ministre' age='A' stat_amour='néant'>HAMAN</role>, ministre du Roi de Perse.</castItem>
-	<castItem><role id="THARÈS" civil='M' type="H" statut='confident' age='A' stat_amour='néant'>THARÈS</role>, confident d'Haman.</castItem>
-	<castItem><role id="VASTHI" civil='F' type="H" statut='roi' age='A' stat_amour='néant'>VASTHI</role>, reine de Perse.</castItem>
-	<castItem><role id="ASSURÉUS" civil='M' type="H" statut='roi' age='A' stat_amour='néant'>ASSURÉUS</role> le roi de Perse, ou Artaxercès.</castItem>
-	<castItem><role id="ZETHAR" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>ZÉTHAR</role>, grand Seigneur Persan.</castItem>
+	<castItem><role id="ESTHER" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>ESTHER</role>.</castItem>
+	<castItem><role id="THAMAR" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>THAMAR</role>, suivante d'Esther.</castItem>
+	<castItem><role id="MARDOCHEE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>MARDOCHÉE</role>, Oncle d'Esther.</castItem>
+	<castItem><role id="HAMAN" sex="1" type="H" statut='ministre' age='A' stat_amour='néant'>HAMAN</role>, ministre du Roi de Perse.</castItem>
+	<castItem><role id="THARÈS" sex="1" type="H" statut='confident' age='A' stat_amour='néant'>THARÈS</role>, confident d'Haman.</castItem>
+	<castItem><role id="VASTHI" sex="2" type="H" statut='roi' age='A' stat_amour='néant'>VASTHI</role>, reine de Perse.</castItem>
+	<castItem><role id="ASSURÉUS" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>ASSURÉUS</role> le roi de Perse, ou Artaxercès.</castItem>
+	<castItem><role id="ZETHAR" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>ZÉTHAR</role>, grand Seigneur Persan.</castItem>
 </castList>
 <set location='Babylone' country='Iran' periode='Temps bibliques' link=''>La Scène est dans la ville de Suse, entre la Perse et Babylone.</set>
 </front>
@@ -455,7 +455,7 @@
 	<l id='298'>Que de prendre toujours la plus proche assistance. </l>
 </sp>
 <sp who='HAMAN'><speaker>HAMAN.</speaker>
-<note type="C">L'original utilise employerais avec un y, nous laissons pour avoir 4 pieds. </note>
+<note type="C">L'original utilise employerais avec un y, nous laissons pour avoir 4 pieds. </note>
 	<l id='299'>Je suivrais ton conseil, j'employerais ton bras, </l>
 	<l id='300'>Mais la perte d'un seul ne me contente pas, </l>
 	<l id='301'>Il faut qu'avecques lui sa nation périsse, </l>

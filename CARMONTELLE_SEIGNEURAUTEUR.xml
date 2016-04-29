@@ -6,9 +6,10 @@
 				<title>LE SEIGNEUR AUTEUR, COMÉDIE</title>
 			<author born='1717' born_location='Paris' death='1806' death_location='Paris' academie='Poitiers'>CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE octobre 2010</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Proverbe</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -45,10 +46,10 @@
 			<premiere date="(inconnue)" location='(inconnue)'></premiere>
 		</performance>
 	<castList><head>PERSONNAGES</head>
-		<castItem><role id="LE DUC" civil='M' type="H" statut='duc' age='A' stat_amour='néant'>LE DUC</role>.</castItem>
-		<castItem><role id="MONSIEUR RONFLANT" civil='M' type="H" statut='poète' age='A' stat_amour='néant'>MONSIEUR RONFLANT</role>, Poète tragique.</castItem>
-		<castItem><role id="MONSIEUR DÉCOUSU" civil='M' type="H" statut='poète' age='A' stat_amour='néant'>MONSIEUR DÉCOUSU</role>, Poète d'Opéra comique.</castItem>
-		<castItem><role id="DUPRÉ" civil='M' type="H" statut='valet de chambre' age='A' stat_amour='néant'>DUPRÉ</role>, Valet de Chambre du Duc.</castItem>
+		<castItem><role id="LE DUC" sex="1" type="H" statut='duc' age='A' stat_amour='néant'>LE DUC</role>.</castItem>
+		<castItem><role id="MONSIEUR RONFLANT" sex="1" type="H" statut='poète' age='A' stat_amour='néant'>MONSIEUR RONFLANT</role>, Poète tragique.</castItem>
+		<castItem><role id="MONSIEUR DÉCOUSU" sex="1" type="H" statut='poète' age='A' stat_amour='néant'>MONSIEUR DÉCOUSU</role>, Poète d'Opéra comique.</castItem>
+		<castItem><role id="DUPRÉ" sex="1" type="H" statut='valet de chambre' age='A' stat_amour='néant'>DUPRÉ</role>, Valet de Chambre du Duc.</castItem>
 	</castList>
 	<set location="France" country='France' periode='XVIIIème' link=''>La scène est dans le cabinet du Duc.</set>
 	</front>

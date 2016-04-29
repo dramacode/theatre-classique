@@ -7,9 +7,10 @@
 				<author born="1740" born_location="Paris" death="1814" death_location="Paris" academie="">MERCIER, Louis-Sébatsien</author>
 				<date>1782</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, décembre 2013</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Drame</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -44,16 +45,16 @@
 		</performance>
 		<castList>
 			<head>PERSONNAGES</head>
-			<castItem><role id="MONSIEUR DORTIGNI" civil='M' type="H" statut='financier' age='A' stat_amour='néant'>MONSIEUR DORTIGNI</role>, financier.</castItem>
-			<castItem><role id="MADAME DORTIGNI" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>MADAME DORTIGNI</role>, sa femme.</castItem>
-			<castItem><role id="MADAME MILVILLE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>MADAME MILVILLE</role>, veuve, sur de Monsieur Dortigni.</castItem>
-			<castItem><role id="VANGLENNE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>VANGLENNE</role>, cousin-germain de Monsieur Dortigni.</castItem>
-			<castItem><role id="MULSON" civil='M' type="H" statut='agent de change' age='A' stat_amour='néant'>MULSON</role>, agent de change.</castItem>
-			<castItem><role id="BRIGITTE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>BRIGITTE</role>, attachée à madame Milville.</castItem>
-			<castItem><role id="DEUX ENFANS" civil='G' type="H" statut='enfants' age='E' stat_amour='néant'>DEUX ENFANS en bas âge</role>.</castItem>
-			<castItem><role id="UN NOTAIRE" civil='M' type="H" statut='notaire' age='A' stat_amour='néant'>UN NOTAIRE</role>.</castItem>
-			<castItem><role id="UN DOMESTIQUE" civil='M' type="H" statut='domestique' age='A' stat_amour='néant'>UN DOMESTIQUE</role>.</castItem>
-			<castItem><role id="PLUSIEURS LAQUAIS" civil='G' type="H" statut='laquais' age='A' stat_amour='néant'>PLUSIEURS LAQUAIS</role>.</castItem>
+			<castItem><role id="MONSIEUR DORTIGNI" sex="1" type="H" statut='financier' age='A' stat_amour='néant'>MONSIEUR DORTIGNI</role>, financier.</castItem>
+			<castItem><role id="MADAME DORTIGNI" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>MADAME DORTIGNI</role>, sa femme.</castItem>
+			<castItem><role id="MADAME MILVILLE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>MADAME MILVILLE</role>, veuve, sur de Monsieur Dortigni.</castItem>
+			<castItem><role id="VANGLENNE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>VANGLENNE</role>, cousin-germain de Monsieur Dortigni.</castItem>
+			<castItem><role id="MULSON" sex="1" type="H" statut='agent de change' age='A' stat_amour='néant'>MULSON</role>, agent de change.</castItem>
+			<castItem><role id="BRIGITTE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>BRIGITTE</role>, attachée à madame Milville.</castItem>
+			<castItem><role id="DEUX ENFANS" sex="9" type="H" statut='enfants' age='E' stat_amour='néant'>DEUX ENFANS en bas âge</role>.</castItem>
+			<castItem><role id="UN NOTAIRE" sex="1" type="H" statut='notaire' age='A' stat_amour='néant'>UN NOTAIRE</role>.</castItem>
+			<castItem><role id="UN DOMESTIQUE" sex="1" type="H" statut='domestique' age='A' stat_amour='néant'>UN DOMESTIQUE</role>.</castItem>
+			<castItem><role id="PLUSIEURS LAQUAIS" sex="9" type="H" statut='laquais' age='A' stat_amour='néant'>PLUSIEURS LAQUAIS</role>.</castItem>
 		</castList>
 <set location='Paris' country='France' periode='XVIIIème' link=''>La scène est à Paris</set>
 </front>

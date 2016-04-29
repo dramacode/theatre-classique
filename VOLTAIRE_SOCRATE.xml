@@ -6,9 +6,10 @@
 				<title>SOCRATE, TRAGÉDIE</title>
 				<author born='1694' born_location='Paris' death='1778' death_location='Paris' academie='1746'>VOLTAIRE</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<authority>publié par Paul FIEVRE, août 2013</authority>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire grecque</inspiration>
@@ -53,20 +54,20 @@
 		</div>
 
 		<castList><head>PERSONNAGES</head>
-			<castItem><role id="SOCRATE" civil='M' type="H" statut="philosophe" age="A" stat_amour='néant'>SOCRATE</role>.</castItem>
-			<castItem><role id="ANITUS" civil='M' type="H" statut="prêtre" age="A" stat_amour='amoureux'>ANITUS</role>, grand-prêtre de Cérès.</castItem>
-			<castItem><role id="MÉLITUS" civil='M' type="H" statut="juge" age="A" stat_amour='néant'>MÉLITUS</role>, un des juges d’Athènes.</castItem>
-			<castItem><role id="XANTIPPE" civil='F' type="H" statut="bourgeois" age="A" stat_amour='néant'>XANTIPPE</role>, femme de Socrate.</castItem>
-			<castItem><role id="AGLAÉ" civil='F' type="H" statut="bourgeois" age="A" stat_amour='amoureux'>AGLAÉ</role>, jeune Athénienne élevée par Socrate.</castItem>
-			<castItem><role id="SOPHRONIME" civil='M' type="H" statut="bourgeois" age="A" stat_amour='amoureux'>SOPHRONIME</role>, jeune Athénien élevé par Socrate.</castItem>
-			<castItem><role id="DRIXA" civil='F' type="H" statut="marchand" age="A" stat_amour='néant'>DRIXA</role>, marchande, attachée à Anitus.</castItem>
-			<castItem><role id="TERPANDRE" civil='M' type="H" statut="suivant" age="A" stat_amour='néant'>TERPANDRE</role>, attaché à Anitus.</castItem>
-			<castItem><role id="ACROS" civil='M' type="H" statut="suivant" age="A" stat_amour='néant'>ACROS</role>, attaché à Anitus.</castItem>
-			<castItem><role id="JUGES" civil='G' type="H" statut="juge" age="A" stat_amour='néant'>JUGES</role>.</castItem>
-			<castItem><role id="DISCIPLES DE SOCRATE" civil='G' type="H" statut="disciple" age="A" stat_amour='néant'>DISCIPLES DE SOCRATE</role>.</castItem>
-			<castItem><role id="NONOTI" civil='M' type="H" statut="bourgeois" age="A" stat_amour='néant'>NONOTI</role>, pédant protégé par Anitus.</castItem>
-			<castItem><role id="CHOMOS" civil='M' type="H" statut="bourgeois" age="A" stat_amour='néant'>CHOMOS</role>, pédant protégé par Anitus.</castItem>
-			<castItem><role id="BERTIOS" civil='M' type="H" statut="bourgeois" age="A" stat_amour='néant'>BERTIOS</role>, pédant protégé par Anitus.</castItem>
+			<castItem><role id="SOCRATE" sex="1" type="H" statut="philosophe" age="A" stat_amour='néant'>SOCRATE</role>.</castItem>
+			<castItem><role id="ANITUS" sex="1" type="H" statut="prêtre" age="A" stat_amour='amoureux'>ANITUS</role>, grand-prêtre de Cérès.</castItem>
+			<castItem><role id="MÉLITUS" sex="1" type="H" statut="juge" age="A" stat_amour='néant'>MÉLITUS</role>, un des juges d’Athènes.</castItem>
+			<castItem><role id="XANTIPPE" sex="2" type="H" statut="bourgeois" age="A" stat_amour='néant'>XANTIPPE</role>, femme de Socrate.</castItem>
+			<castItem><role id="AGLAÉ" sex="2" type="H" statut="bourgeois" age="A" stat_amour='amoureux'>AGLAÉ</role>, jeune Athénienne élevée par Socrate.</castItem>
+			<castItem><role id="SOPHRONIME" sex="1" type="H" statut="bourgeois" age="A" stat_amour='amoureux'>SOPHRONIME</role>, jeune Athénien élevé par Socrate.</castItem>
+			<castItem><role id="DRIXA" sex="2" type="H" statut="marchand" age="A" stat_amour='néant'>DRIXA</role>, marchande, attachée à Anitus.</castItem>
+			<castItem><role id="TERPANDRE" sex="1" type="H" statut="suivant" age="A" stat_amour='néant'>TERPANDRE</role>, attaché à Anitus.</castItem>
+			<castItem><role id="ACROS" sex="1" type="H" statut="suivant" age="A" stat_amour='néant'>ACROS</role>, attaché à Anitus.</castItem>
+			<castItem><role id="JUGES" sex="9" type="H" statut="juge" age="A" stat_amour='néant'>JUGES</role>.</castItem>
+			<castItem><role id="DISCIPLES DE SOCRATE" sex="9" type="H" statut="disciple" age="A" stat_amour='néant'>DISCIPLES DE SOCRATE</role>.</castItem>
+			<castItem><role id="NONOTI" sex="1" type="H" statut="bourgeois" age="A" stat_amour='néant'>NONOTI</role>, pédant protégé par Anitus.</castItem>
+			<castItem><role id="CHOMOS" sex="1" type="H" statut="bourgeois" age="A" stat_amour='néant'>CHOMOS</role>, pédant protégé par Anitus.</castItem>
+			<castItem><role id="BERTIOS" sex="1" type="H" statut="bourgeois" age="A" stat_amour='néant'>BERTIOS</role>, pédant protégé par Anitus.</castItem>
 </castList>
 <set location='Athènes' country='Grèce' periode='Vème avant JC' link=''></set>
 </front>

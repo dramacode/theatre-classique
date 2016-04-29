@@ -6,9 +6,10 @@
 			<title>L'AMOUR QUÊTEUR, COMÉDIE</title>
 			<author born='17460' born_location='Paris' death='1823' death_location='Paris' academie=''>BEAUNOIR, Alexandre-Louis-Bertrand Robineau dit de</author>
 		</titleStmt>
-		<publicationStmp>	
+		<publicationStmt>	
 			<p>publié par Paul FIEVRE, octobre 2014</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -121,14 +122,14 @@
 	<p>Il ne faut pas confondre cette Comédie avec une autre mêlée de Vaudevilles, sur le même sujet et sous le même titre, qui parut imprimée à peu près dans le même temps, et que son auteur, après l'avoir fait jouer à Rouen, donna aux petits Comédiens du Bois de Boulogne. Le fonds de toutes les deux est absolument le même, et les scènes de celle du Bois de Boulogne sont toutes calquées sur les scènes de celle des Grands Danseurs du Roi ; mais on ne peut refuser à celle-ci le droit d'aînesse et le mérite de l'originalité et de la supériorité, à tous égards.</p>
 	</div>
 		<castList><head>PERSONNAGES</head>
-			<castItem><role id="L'AMOUR" civil="M" type="D" statut='dieu' age='A' stat_amour='néant'>L'AMOUR</role>.</castItem>
-			<castItem><role id="MERCURE" civil="M" type="D" statut='dieu' age='A' stat_amour='néant'>MERCURE</role>.</castItem>
-			<castItem><role id="MADAME BARBARA" civil="F" type="H" statut='religieuse' age='A' stat_amour='néant'>MADAME BARBARA</role>, Maîtresse de Pension. </castItem>
-			<castItem><role id="URSULE" civil="F" type="H" statut='pensionnaire' age='A' stat_amour='néant'>URSULE</role>, pensionnaire de Madame Barbara.</castItem>
-			<castItem><role id="AGNÈS" civil="F" type="H" statut='pensionnaire' age='A' stat_amour='néant'>AGNÈS</role>, pensionnaire de Madame Barbara.</castItem>
-			<castItem><role id="BRIGITTE" civil="F" type="H" statut='pensionnaire' age='A' stat_amour='néant'>BRIGITTE</role>, pensionnaire de Madame Barbara.</castItem>
-			<castItem><role id="ROSETTE" civil="F" type="H" statut='pensionnaire' age='A' stat_amour='néant'>ROSETTE</role>, pensionnaire de Madame Barbara.</castItem>
-			<castItem><role id="TROUPE DE PENSIONNAIRES" civil="G" type="H" statut='pensionnaire' age='A' stat_amour='néant'>Troupe de jeunes pensionnaires</role>. </castItem>
+			<castItem><role id="L'AMOUR" sex="1" type="D" statut='dieu' age='A' stat_amour='néant'>L'AMOUR</role>.</castItem>
+			<castItem><role id="MERCURE" sex="1" type="D" statut='dieu' age='A' stat_amour='néant'>MERCURE</role>.</castItem>
+			<castItem><role id="MADAME BARBARA" sex="2" type="H" statut='religieuse' age='A' stat_amour='néant'>MADAME BARBARA</role>, Maîtresse de Pension. </castItem>
+			<castItem><role id="URSULE" sex="2" type="H" statut='pensionnaire' age='J' stat_amour='néant'>URSULE</role>, pensionnaire de Madame Barbara.</castItem>
+			<castItem><role id="AGNÈS" sex="2" type="H" statut='pensionnaire' age='J' stat_amour='néant'>AGNÈS</role>, pensionnaire de Madame Barbara.</castItem>
+			<castItem><role id="BRIGITTE" sex="2" type="H" statut='pensionnaire' age='J' stat_amour='néant'>BRIGITTE</role>, pensionnaire de Madame Barbara.</castItem>
+			<castItem><role id="ROSETTE" sex="2" type="H" statut='pensionnaire' age='J' stat_amour='néant'>ROSETTE</role>, pensionnaire de Madame Barbara.</castItem>
+			<castItem><role id="TROUPE DE PENSIONNAIRES" sex="9" type="H" statut='pensionnaire' age='J' stat_amour='néant'>Troupe de jeunes pensionnaires</role>. </castItem>
 		</castList>
 		<set location='Paris' country='France' periode='XVIIIème' link=''>La scène se passe dans un Faubourg de Paris.</set>
 	</front>

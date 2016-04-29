@@ -7,9 +7,10 @@
 			<author born='1639' born_location='La Ferté Millon' death='1699' death_location='Paris' academie='1673'>RACINE, Jean</author>
 			<date>1674</date>
 		</titleStmt>
-		<publicationStmp>	
+		<publicationStmt>	
 			<p>publié par Paul FIEVRE</p><p>Mai 2002</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>mythe grec</inspiration>
@@ -72,17 +73,17 @@
 		<p type='p'>Tout le reste de leurs critiques est à peu près de la force de celles-ci. Mais je crois qu'en voilà assez pour la défense de mon auteur. Je conseille à ces messieurs de ne plus décider si légèrement sur les ouvrages des Anciens. Un homme tel qu'Euripide méritait au moins qu'ils l'examinassent puisqu'ils avaient envie de le condamner. Ils devaient se souvenir de ces sages paroles de Quitilien ; "Il faut être extrêmement circonspect et très retenu à prononcer sur les ouvrages de ces grands hommes, de peur qu'il ne nous arrive, comme à plusieurs, de condamner ce que nous n'entendons pas. Et s'il faut tomber dans quelque excès, encore vaut-il mieux pécher en admirant tout dans leurs écrits, qu'en y blâmant beaucoup de choses." Modestè tamen et circumspectio judicio de tantis viris pornuntiandum est, ne ( quod plerisque accedit ) damnent quae non intelligunt. Ac si necesse est in alteram errare partem, omnia eorum legentibus placere, quàm multa displicere paluerim.</p>
 		</div>
 		<castList><head>ACTEURS</head>
-			<castItem><role id="AGAMEMNON" civil='M' type="H" statut='roi' age='A' stat_amour='néant'>AGAMEMNON</role>.</castItem>
-			<castItem><role id="ACHILLE" civil='M' type="H" statut='roi' age='A' stat_amour='néant'>ACHILLE</role>.</castItem>
-			<castItem><role id="ULYSSE" civil='M' type="H" statut='roi' age='A' stat_amour='néant'>ULYSSE</role>.</castItem>
-			<castItem><role id="CLYTEMNESTRE" civil='F' type="H" statut='roi' age='A' stat_amour='néant'>CLYTEMNESTRE</role>, femme d'Agamemnon.</castItem>
-			<castItem><role id="IPHIGÉNIE" civil='F' type="H" statut='prince' age='A' stat_amour='néant'>IPHIGÉNIE</role>, fille d'Agamemnon.</castItem>
-			<castItem><role id="ERIPHILE" civil='F' type="H" statut='prince' age='A' stat_amour='néant'>ERIPHILE</role>, fille d'Hélène et de Thésée.</castItem>
-			<castItem><role id="ARCAS" civil='M' type="H" statut='domestique' age='A' stat_amour='néant'>ARCAS</role>, domestique d'Agamemnon.</castItem>
-			<castItem><role id="EURYBATE" civil='M' type="H" statut='domestique' age='A' stat_amour='néant'>EURYBATE</role>, domestique d'Agamemnon.</castItem>
-			<castItem><role id="AEGINE" civil='F' type="H" statut='suite' age='A' stat_amour='néant'>AEGINE</role>, femme de la suite de Clystemnestre.</castItem>
-			<castItem><role id="DORIS" civil='F' type="H" statut='confident' age='A' stat_amour='néant'>DORIS</role>, confidente d'Ériphile.</castItem>
-			<castItem><role id="TROUPE DE GARDES" civil='M' type="H" statut='garde' age='A' stat_amour='néant'>TROUPE DE GARDES</role>.</castItem>
+			<castItem><role id="AGAMEMNON" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>AGAMEMNON</role>.</castItem>
+			<castItem><role id="ACHILLE" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>ACHILLE</role>.</castItem>
+			<castItem><role id="ULYSSE" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>ULYSSE</role>.</castItem>
+			<castItem><role id="CLYTEMNESTRE" sex="2" type="H" statut='roi' age='A' stat_amour='néant'>CLYTEMNESTRE</role>, femme d'Agamemnon.</castItem>
+			<castItem><role id="IPHIGÉNIE" sex="2" type="H" statut='prince' age="J" stat_amour='néant'>IPHIGÉNIE</role>, fille d'Agamemnon.</castItem>
+			<castItem><role id="ERIPHILE" sex="2" type="H" statut='prince' age="J" stat_amour='néant'>ERIPHILE</role>, fille d'Hélène et de Thésée.</castItem>
+			<castItem><role id="ARCAS" sex="1" type="H" statut='domestique' age='A' stat_amour='néant'>ARCAS</role>, domestique d'Agamemnon.</castItem>
+			<castItem><role id="EURYBATE" sex="1" type="H" statut='domestique' age='A' stat_amour='néant'>EURYBATE</role>, domestique d'Agamemnon.</castItem>
+			<castItem><role id="AEGINE" sex="2" type="H" statut='suite' age='A' stat_amour='néant'>AEGINE</role>, femme de la suite de Clystemnestre.</castItem>
+			<castItem><role id="DORIS" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>DORIS</role>, confidente d'Ériphile.</castItem>
+			<castItem><role id="TROUPE DE GARDES" sex="1" type="H" statut='garde' age='A' stat_amour='néant'>TROUPE DE GARDES</role>.</castItem>
 		</castList>
 		<set location='Aulide' country='Grèce' periode='Temps mythologiques' link=''>La scène est en Aulide, dans la tente d'Agamemnon.</set>
 		<note>Le texte est celui de l'édition 1697. Les variantes sont indiquées.</note>

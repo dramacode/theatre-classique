@@ -6,9 +6,10 @@
 			<title>LE CAFÉ BORGNE, COMÉDIE</title>
 			<author born='1717' born_location='Paris' death='1806' death_location='Paris' academie='Poitiers'>CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle</author>
 		</titleStmt>
-		<publicationStmp>
+		<publicationStmt>
 			<p>publié par Paul FIEVRE novembre 2015</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Proverbe</genre>
 			<inspiration>moeurs françaises</inspiration>
@@ -42,11 +43,11 @@
 			<premiere date='(inconnue)' location='(inconnue)'></premiere>
 		</performance>
 	<castList><head>PERSONNAGES</head>
-		<castItem><role id="MADAME LAVADE" civil='F' type="H" statut='commerçant' age='A' stat_amour='néant'>MADAME LAVADE</role>, maîtresse du café de l'Abondance.</castItem>
-		<castItem><role id="TROTIN" civil='M' type="H" statut='garçon de boutique' age='A' stat_amour='néant'>TROTIN</role>, son garçon de boutique.</castItem>
-		<castItem><role id="MONSIEUR TRÉPANILLAC" civil='M' type="H" statut='médecin' age='A' stat_amour='néant'>MONSIEUR TRÉPANILLAC</role>, Gascon et chirurgien-chambellan.</castItem>
-		<castItem><role id="MONSIEUR FRAC" civil='M' type="H" statut='tailleur' age='A' stat_amour='néant'>MONSIEUR FRAC</role>, maître tailleur.</castItem>
-		<castItem><role id="MONSIEUR TRESSANT" civil='M' type="H" statut='perruquier' age='A' stat_amour='néant'>MONSIEUR TRESSANT</role>, maître perruquier.</castItem>
+		<castItem><role id="MADAME LAVADE" sex="2" type="H" statut='commerçant' age='A' stat_amour='néant'>MADAME LAVADE</role>, maîtresse du café de l'Abondance.</castItem>
+		<castItem><role id="TROTIN" sex="1" type="H" statut='garçon de boutique' age='J' stat_amour='néant'>TROTIN</role>, son garçon de boutique.</castItem>
+		<castItem><role id="MONSIEUR TRÉPANILLAC" sex="1" type="H" statut='médecin' age='A' stat_amour='néant'>MONSIEUR TRÉPANILLAC</role>, Gascon et chirurgien-chambellan.</castItem>
+		<castItem><role id="MONSIEUR FRAC" sex="1" type="H" statut='tailleur' age='A' stat_amour='néant'>MONSIEUR FRAC</role>, maître tailleur.</castItem>
+		<castItem><role id="MONSIEUR TRESSANT" sex="1" type="H" statut='perruquier' age='A' stat_amour='néant'>MONSIEUR TRESSANT</role>, maître perruquier.</castItem>
      </castList>
 <set location='Paris' country='France' periode='XVIIIème' link=''>La scène se passe dans un de ces petits cafés qui ne sont guère fréquentés que par des artisans qui vont le soir y boire de la bière et jouer aux dames.</set>
 </front>

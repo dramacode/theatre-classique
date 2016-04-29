@@ -9,9 +9,10 @@
 
 				<date>1718</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<authority>publié par Paul FIEVRE, Septembre 2006</authority>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>mythe grec</inspiration>
@@ -44,16 +45,16 @@
 					<nombre value='45'>Dans sa nouveauté, Oedipe eut quarante-cinq représentations </nombre>
 			</performance>
 <castList><head>PERSONNAGES</head>
-	<castItem><role id='OEDIPE' civil='M' type="H" statut='roi' age='A' stat_amour='néant'>OEDIPE</role>, roi de Thèbes. </castItem>
-	<castItem><role id='JOCASTE' civil='F' type="H" statut='reine' age='A' stat_amour='néant'>JOCASTE</role>, reine de Thèbes. </castItem>
-	<castItem><role id='PHILOCTETE' civil='M' type="H" statut='prince' age='A' stat_amour='néant'>PHILOCTÈTE</role>, prince d'Eubée. </castItem>
-	<castItem><role id='GRAN_PRETRE' civil='M' type="H" statut='prêtre' age='A' stat_amour='néant'>LE GRAND-PRÊTRE</role>. </castItem>
-	<castItem><role id='ARASPE' civil='M' type="H" statut='confident' age='A' stat_amour='néant'>ARASPE</role>, confident d'Oedipe. </castItem>
-	<castItem><role id='EGINE' civil='F' type="H" statut='confident' age='A' stat_amour='néant'>ÉGINE</role>, confidente de Jocaste. </castItem>
-	<castItem><role id='DIMAS' civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>DIMAS</role>, ami de Philoctète. </castItem>
-	<castItem><role id='PHORBAS' civil='M' type="H" statut='aristocrate' age='V' stat_amour='néant'>PHORBAS</role>, vieillard thébain. </castItem>
-	<castItem><role id='ICARE' civil='M' type="H" statut='aristocrate' age='V' stat_amour='néant'>ICARE</role>, vieillard de Corinthe. </castItem>
-	<castItem><role id='CHOEUR' civil='G' type="H" statut='choeur' age='A' stat_amour='néant'>CHOEUR DE THÉBAINS</role>. </castItem>
+	<castItem><role id='OEDIPE' sex="1" type="H" statut='roi' age='A' stat_amour='néant'>OEDIPE</role>, roi de Thèbes. </castItem>
+	<castItem><role id='JOCASTE' sex="2" type="H" statut='reine' age='A' stat_amour='néant'>JOCASTE</role>, reine de Thèbes. </castItem>
+	<castItem><role id='PHILOCTETE' sex="1" type="H" statut='prince' age='A' stat_amour='néant'>PHILOCTÈTE</role>, prince d'Eubée. </castItem>
+	<castItem><role id='GRAN_PRETRE' sex="1" type="H" statut='prêtre' age='A' stat_amour='néant'>LE GRAND-PRÊTRE</role>. </castItem>
+	<castItem><role id='ARASPE' sex="1" type="H" statut='confident' age='A' stat_amour='néant'>ARASPE</role>, confident d'Oedipe. </castItem>
+	<castItem><role id='EGINE' sex="2" type="H" statut='confident' age='A' stat_amour='néant'>ÉGINE</role>, confidente de Jocaste. </castItem>
+	<castItem><role id='DIMAS' sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>DIMAS</role>, ami de Philoctète. </castItem>
+	<castItem><role id='PHORBAS' sex="1" type="H" statut='aristocrate' age='V' stat_amour='néant'>PHORBAS</role>, vieillard thébain. </castItem>
+	<castItem><role id='ICARE' sex="1" type="H" statut='aristocrate' age='V' stat_amour='néant'>ICARE</role>, vieillard de Corinthe. </castItem>
+	<castItem><role id='CHOEUR' sex="9" type="H" statut='choeur' age='A' stat_amour='néant'>CHOEUR DE THÉBAINS</role>. </castItem>
 </castList>
 <set location='Thèbes' country='Grèce' periode='Temps mythologiques' link=''>La scène est à Thèbes.</set>
 </front>

@@ -7,9 +7,10 @@
 				<author born='1621' born_location='Château-Thierry' death='1695' death_location='Paris' academie=''>LA FONTAINE, Jean de</author>
 				<date>1654</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, Août 2009, revu juin 2015.</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -52,22 +53,22 @@
 </div>
 <castList>
 	<head>PERSONNAGES.</head>
-	<castItem><role id="CHERÉE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='Pamphile'>CHERÉE</role>, amant de Pamphile.</castItem>
-	<castItem><role id="PARMENON" civil='M' type="H" statut='esclave' age='A' stat_amour='néant'>PARMENON</role>, esclave et confident de Phédrie.</castItem>
-	<castItem><role id="PAMPHILE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='Cherée'>PAMPHILE</role>, maîtresse de Cherée.</castItem>
-	<castItem><role id="PHÉDRIE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='Théïs'>PHÉDRIE</role>, amant de Thaïs.</castItem>
-	<castItem><role id="THAÏS" civil='M' type="H" statut='aristocrate' age='A' stat_amour='Phédrie'>THAÏS</role>, maîtresse de Phédrie.</castItem>
-	<castItem><role id="THRASON" civil='M' type="H" statut='capitan' age='A' stat_amour='Thaïs'>THRASON</role>, capitan, et rival de Phédrie.</castItem>
-	<castItem><role id="GNATON" civil='M' type="H" statut='confident' age='A' stat_amour='néant'>GNATON</role>, parasite, et confident de Thrason.</castItem>
-	<castItem><role id="DAMIS" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>DAMIS</role>, père de Phédrie et de Cherée.</castItem>
-	<castItem><role id="CHREMÈS" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>CHREMÈS</role>, frère de Pamphile.</castItem>
-	<castItem><role id="PYTHIE" civil='F' type="H" statut='femme de chambre' age='A' stat_amour='néant'>PYTHIE</role>, femme de chambre de Thaïs.</castItem>
-	<castItem><role id="DORIE" civil='F' type="H" statut='servante' age='A' stat_amour='néant'>DORIE</role>, servante de Thaïs.</castItem>
-	<castItem><role id="DORUS" civil='M' type="H" statut='eunuque' age='A' stat_amour='néant'>DORUS</role>, eunuque.</castItem>
-	<castItem><role id="SIMALION" civil='M' type="H" statut='soldat' age='A' stat_amour='néant'>SIMALION</role>, soldat de Thrason.</castItem>
-	<castItem><role id="DONAX" civil='M' type="H" statut='soldat' age='A' stat_amour='néant'>DONAX</role>, soldat de Thrason.</castItem>
-	<castItem><role id="SYRISCE" civil='M' type="H" statut='soldat' age='A' stat_amour='néant'>SYRISCE</role>, soldat de Thrason.</castItem>
-	<castItem><role id="SANGA" civil='M' type="H" statut='soldat' age='A' stat_amour='néant'>SANGA</role>, soldat de Thrason.</castItem>
+	<castItem><role id="CHERÉE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='Pamphile'>CHERÉE</role>, amant de Pamphile.</castItem>
+	<castItem><role id="PARMENON" sex="1" type="H" statut='esclave' age='A' stat_amour='néant'>PARMENON</role>, esclave et confident de Phédrie.</castItem>
+	<castItem><role id="PAMPHILE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='Cherée'>PAMPHILE</role>, maîtresse de Cherée.</castItem>
+	<castItem><role id="PHÉDRIE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='Théïs'>PHÉDRIE</role>, amant de Thaïs.</castItem>
+	<castItem><role id="THAÏS" sex="1" type="H" statut='aristocrate' age='A' stat_amour='Phédrie'>THAÏS</role>, maîtresse de Phédrie.</castItem>
+	<castItem><role id="THRASON" sex="1" type="H" statut='capitan' age='A' stat_amour='Thaïs'>THRASON</role>, capitan, et rival de Phédrie.</castItem>
+	<castItem><role id="GNATON" sex="1" type="H" statut='confident' age='A' stat_amour='néant'>GNATON</role>, parasite, et confident de Thrason.</castItem>
+	<castItem><role id="DAMIS" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>DAMIS</role>, père de Phédrie et de Cherée.</castItem>
+	<castItem><role id="CHREMÈS" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>CHREMÈS</role>, frère de Pamphile.</castItem>
+	<castItem><role id="PYTHIE" sex="2" type="H" statut='femme de chambre' age='A' stat_amour='néant'>PYTHIE</role>, femme de chambre de Thaïs.</castItem>
+	<castItem><role id="DORIE" sex="2" type="H" statut='servante' age='A' stat_amour='néant'>DORIE</role>, servante de Thaïs.</castItem>
+	<castItem><role id="DORUS" sex="1" type="H" statut='eunuque' age='A' stat_amour='néant'>DORUS</role>, eunuque.</castItem>
+	<castItem><role id="SIMALION" sex="1" type="H" statut='soldat' age='A' stat_amour='néant'>SIMALION</role>, soldat de Thrason.</castItem>
+	<castItem><role id="DONAX" sex="1" type="H" statut='soldat' age='A' stat_amour='néant'>DONAX</role>, soldat de Thrason.</castItem>
+	<castItem><role id="SYRISCE" sex="1" type="H" statut='soldat' age='A' stat_amour='néant'>SYRISCE</role>, soldat de Thrason.</castItem>
+	<castItem><role id="SANGA" sex="1" type="H" statut='soldat' age='A' stat_amour='néant'>SANGA</role>, soldat de Thrason.</castItem>
 </castList>
 <set location='Château-Thierry' country='France' periode='XVIIème' link=''>La scène est à Château-Thierry sur la place du marché.</set>
 </front>

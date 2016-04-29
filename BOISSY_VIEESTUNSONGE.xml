@@ -7,9 +7,10 @@
 				<author born='1694' born_location='Vic-sur-Cère' death='1758' death_location='Paris' academie='1754'>BOISSY, Louis de</author>
 				<date>1732</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE septembre 2011, revu octobre 2014</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie héroïque</genre>
 				<inspiration>moeurs polonaises</inspiration>
@@ -43,17 +44,17 @@
 		</performance>
 		<castList>
 			<head>ACTEURS</head>
-			<castItem><role id="BASILE" civil='M' type="H" statut="roi" age="A" stat_amour='néant'>BASILE</role>, Roi de Pologne.</castItem>
-			<castItem><role id="SIGISMOND" civil='M' type="H" statut="prince" age="A" stat_amour='néant'>SIGISMOND</role>, fils de Basile.</castItem>
-			<castItem><role id="FEDERIC" civil='M' type="H" statut="duc" age="A" stat_amour='néant'>FEDERIC</role>, Grand Duc de Moscovie , et neveu du Roi.</castItem>
-			<castItem><role id="SOPHRONIE" civil='F' type="H" statut="prince" age="A" stat_amour='néant'>SOPHRONIE</role>, Princesse, et nièce du Roi.</castItem>
-			<castItem><role id="CLOTALDE" civil='M' type="H" statut="gouverneur" age="A" stat_amour='néant'>CLOTALDE</role>, Gouverneur de Sigismond.</castItem>
-			<castItem><role id="ULRIC" civil='M' type="H" statut="aristocrate" age="A" stat_amour='néant'>ULRIC</role>, Grand de la Cour.</castItem>
-			<castItem><role id="RODERIC" civil='M' type="H" statut="aristocrate" age="A" stat_amour='néant'>RODERIC</role>, Chef des Conjurés.</castItem>
-			<castItem><role id="ARLEQUIN" civil='M' type="H" statut="bouffon" age="A" stat_amour='néant'>ARLEQUIN</role>, bouffon de la Cour.</castItem>
-			<castItem><role id="OFFCIERS" civil='G' type="H" statut="officier" age="A" stat_amour='néant'>PLUSIEURS OFFICIERS</role>.</castItem>
-			<castItem><role id="GARDES"  civil='G' type="H" statut="garde" age="A" stat_amour='néant'>GARDES</role>.</castItem>
-			<castItem><role id="SOLDATS" civil='G' type="H" statut="soldat" age="A" stat_amour='néant'>SOLDATS</role>.</castItem>
+			<castItem><role id="BASILE" sex="1" type="H" statut="roi" age="A" stat_amour='néant'>BASILE</role>, Roi de Pologne.</castItem>
+			<castItem><role id="SIGISMOND" sex="1" type="H" statut="prince" age="J" stat_amour='néant'>SIGISMOND</role>, fils de Basile.</castItem>
+			<castItem><role id="FEDERIC" sex="1" type="H" statut="duc" age="A" stat_amour='néant'>FEDERIC</role>, Grand Duc de Moscovie , et neveu du Roi.</castItem>
+			<castItem><role id="SOPHRONIE" sex="2" type="H" statut="prince" age="J" stat_amour='néant'>SOPHRONIE</role>, Princesse, et nièce du Roi.</castItem>
+			<castItem><role id="CLOTALDE" sex="1" type="H" statut="gouverneur" age="A" stat_amour='néant'>CLOTALDE</role>, Gouverneur de Sigismond.</castItem>
+			<castItem><role id="ULRIC" sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>ULRIC</role>, Grand de la Cour.</castItem>
+			<castItem><role id="RODERIC" sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>RODERIC</role>, Chef des Conjurés.</castItem>
+			<castItem><role id="ARLEQUIN" sex="1" type="H" statut="bouffon" age="A" stat_amour='néant'>ARLEQUIN</role>, bouffon de la Cour.</castItem>
+			<castItem><role id="OFFCIERS" sex="9" type="H" statut="officier" age="A" stat_amour='néant'>PLUSIEURS OFFICIERS</role>.</castItem>
+			<castItem><role id="GARDES"  sex="9" type="H" statut="garde" age="A" stat_amour='néant'>GARDES</role>.</castItem>
+			<castItem><role id="SOLDATS" sex="9" type="H" statut="soldat" age="A" stat_amour='néant'>SOLDATS</role>.</castItem>
 		</castList>
 <set location='Pologne' country='Pologne' periode='XVIIIème' link=''>La scène est en Pologne.</set>
 </front>

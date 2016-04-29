@@ -6,10 +6,11 @@
 			<title>L'AMANT POUSSIF, FARCE EN UN ACTE.</title>
 			<author born='1683' born_location='Paris' death='1766' death_location='Charenton' academie=''>GUEULLETTE, Thomas-Simon</author>
 		</titleStmt>
-		<publicationStmp>
+		<publicationStmt>
 			<editor>Transcription par Dr Roger Peters, 2009.</editor>
 			<publisher>publié par Paul FIEVRE novembre 2013</publisher>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Farce</genre>
 			<inspiration>moeurs françaises</inspiration>
@@ -43,11 +44,11 @@
 		<premiere date='1720' location='En société'>Représentée pour la première fois en société en 1720.</premiere>
 	</performance>
 	<castList><head>PERSONNAGES</head>
-		<castItem><role id="MONSIEUR CASSANDRE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>MONSIEUR CASSANDRE</role>.</castItem>
-		<castItem><role id="ISABELLE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>ISABELLE</role>, fille de Cassandre.</castItem>
-		<castItem><role id="LÉANDRE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='Isabelle'>LÉANDRE</role>, amant d'Isabelle.</castItem>
-		<castItem><role id="GILLES" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>GILLES</role>, valet de Cassandre et parrain d'Isabelle.</castItem>
-		<castItem><role id="MONSIEUR GRIFFARD" civil='M' type="H" statut='notaire' age='A' stat_amour='néant'>MONSIEUR GRIFFARD</role>, notaire.</castItem>
+		<castItem><role id="MONSIEUR CASSANDRE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>MONSIEUR CASSANDRE</role>.</castItem>
+		<castItem><role id="ISABELLE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>ISABELLE</role>, fille de Cassandre.</castItem>
+		<castItem><role id="LÉANDRE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='Isabelle'>LÉANDRE</role>, amant d'Isabelle.</castItem>
+		<castItem><role id="GILLES" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>GILLES</role>, valet de Cassandre et parrain d'Isabelle.</castItem>
+		<castItem><role id="MONSIEUR GRIFFARD" sex="1" type="H" statut='notaire' age='A' stat_amour='néant'>MONSIEUR GRIFFARD</role>, notaire.</castItem>
 	</castList>
 	<set location='Paris' country='France' periode='XVIIIème' link=''>.</set>
 </front>

@@ -6,9 +6,10 @@
 			<title>CARACATACA ET CARACATAQUÉ, FARCE.</title>
 			<author born='1683' born_location='Paris' death='1766' death_location='Charenton' academie=''>GUEULLETTE, Thomas-Simon</author>
 		</titleStmt>
-		<publicationStmp>
+		<publicationStmt>
 			<publisher>publié par Paul FIEVRE novembre 2013</publisher>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Farce</genre>
 			<inspiration>moeurs françaises</inspiration>
@@ -40,14 +41,14 @@
 		<premiere date='1720' location='En société'>Représentée pour la première fois en société en 1720.</premiere>
 	</performance>
 	<castList><head>PERSONNAGES</head>
-		<castItem><role id="LE MAÎTRE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>LE MAÎTRE</role>, ou M. DE PARLAVENTREBLEU.</castItem>
-		<castItem><role id="SANS-QUARTIER" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>SANS-QUARTIER</role>, valet de chambre.</castItem>
-		<castItem><role id="DIVERTISSANT" civil='M' type="H" statut='laquais' age='A' stat_amour='néant'>DIVERTISSANT</role>, grand laquais.</castItem>
-		<castItem><role id="GILLES" civil='M' type="H" statut='laquais' age='A' stat_amour='néant'>GILLES</role>, petit laquais.</castItem>
-		<castItem><role id="GILLETTE" civil='F' type="H" statut='servante' age='A' stat_amour='néant'>GILLETTE</role>, femme de Gilles.</castItem>
-		<castItem><role id="UN MAGICIEN" civil='M' type="H" statut='magicien' age='A' stat_amour='néant'>UN MAGICIEN</role>.</castItem>
-		<castItem><role id="MONSIEUR SUC" civil='M' type="H" statut='juif' age='A' stat_amour='néant'>MONSIEUR SUC</role>, Juif.</castItem>
-		<castItem><role id="MONSIEUR CORNIBUS" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>MONSIEUR CORNIBUS</role>, bègue.</castItem>
+		<castItem><role id="LE MAÎTRE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>LE MAÎTRE</role>, ou M. DE PARLAVENTREBLEU.</castItem>
+		<castItem><role id="SANS-QUARTIER" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>SANS-QUARTIER</role>, valet de chambre.</castItem>
+		<castItem><role id="DIVERTISSANT" sex="1" type="H" statut='laquais' age='A' stat_amour='néant'>DIVERTISSANT</role>, grand laquais.</castItem>
+		<castItem><role id="GILLES" sex="1" type="H" statut='laquais' age='A' stat_amour='néant'>GILLES</role>, petit laquais.</castItem>
+		<castItem><role id="GILLETTE" sex="2" type="H" statut='servante' age='A' stat_amour='néant'>GILLETTE</role>, femme de Gilles.</castItem>
+		<castItem><role id="UN MAGICIEN" sex="1" type="H" statut='magicien' age='A' stat_amour='néant'>UN MAGICIEN</role>.</castItem>
+		<castItem><role id="MONSIEUR SUC" sex="1" type="H" statut='juif' age='A' stat_amour='néant'>MONSIEUR SUC</role>, Juif.</castItem>
+		<castItem><role id="MONSIEUR CORNIBUS" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>MONSIEUR CORNIBUS</role>, bègue.</castItem>
 	</castList>
 	<set location='Paris' country='France' periode='XVIIIème' link=''>.</set>
 </front>

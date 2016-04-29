@@ -7,9 +7,10 @@
 				<author born='1680' born_location='Paris' death='1720' death_location='Paris' academie=''>ALAIN, Robert</author>
 				<date>1732</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE juillet 2012</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -54,12 +55,12 @@
 			</div>
 		<castList>
 			<head>PERSONNAGES</head>
-			<castItem><role id="MADAME-DE-FALIGNAC" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>MADAME DE FALIGNAC</role>.</castItem>
-			<castItem><role id="VALÈRE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='amant'>VALÈRE</role>, amant de Philaminte.</castItem>
-			<castItem><role id="PHILAMINTE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='amant'>PHILAMINTE</role>, jeune veuve, amante de Valère.</castItem>
-			<castItem><role id="FRONTIN" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>FRONTIN</role>, valet de Valère.</castItem>
-			<castItem><role id="LISETTE" civil='M' type="H" statut='intrigante' age='A' stat_amour='néant'>LISETTE</role>, intrigante.</castItem>
-			<castItem><role id="CRIQUET" civil='M' type="H" statut='page' age='A' stat_amour='néant'>CRIQUET</role>.</castItem>
+			<castItem><role id="MADAME DE FALIGNAC" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>MADAME DE FALIGNAC</role>.</castItem>
+			<castItem><role id="VALÈRE" sex="1" type="H" statut='bourgeois' age='J' stat_amour='Philaminte'>VALÈRE</role>, amant de Philaminte.</castItem>
+			<castItem><role id="PHILAMINTE" sex="2" type="H" statut='bourgeois' age='J' stat_amour='Valère'>PHILAMINTE</role>, jeune veuve, amante de Valère.</castItem>
+			<castItem><role id="FRONTIN" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>FRONTIN</role>, valet de Valère.</castItem>
+			<castItem><role id="LISETTE" sex="1" type="H" statut='intrigante' age='A' stat_amour='néant'>LISETTE</role>, intrigante.</castItem>
+			<castItem><role id="CRIQUET" sex="1" type="H" statut='page' age='A' stat_amour='néant'>CRIQUET</role>.</castItem>
 		</castList>
 <set location='Paris' country='France' periode='XVIIIème' link=''>La scène est à Paris, dans la maison de madame de Falignac.</set>
 <note>La Critique donne Legrand comme auteur principal de cette pièce.</note>

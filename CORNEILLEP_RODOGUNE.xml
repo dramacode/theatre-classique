@@ -6,9 +6,10 @@
 				<title>RODOGUNE, TRAGÉDIE</title>
 				<author born='1606' born_location='Rouen' death='1684' death_location='Paris' academie='1647'>CORNEILLE, Pierre</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<publisher>publié par Paul FIEVRE, Mai 2006, revu décembre 2015</publisher>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire romaine</inspiration>
@@ -65,13 +66,13 @@
 			<premiere date='1644' location='Théâtre du Marais'>Représenté pour la première fois en 1644 au Théâtre du Marais.</premiere>
 		</performance>
 		<castList><head>ACTEURS</head>
-			<castItem><role id="CLÉOPÂTRE" civil='F' type="H" statut='roi' age='A' stat_amour='néant'>CLÉOPÂTRE</role>, reine de Syrie, veuve de Démétrius Nicanor.</castItem>
-			<castItem><role id="SELEUCUS" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>SÉLEUCUS</role>, fils de Démétrius et de Cléopâtre.</castItem>
-			<castItem><role id="ANTIOCHUS" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>ANTIOCHUS</role>, fils de Démétrius et de Cléopâtre.</castItem>
-			<castItem><role id="RODOGUNE" civil='F' type="H" statut='prince' age='A' stat_amour='néant'>RODOGUNE</role>, soeur de Phaartes, roi des Parthes.</castItem>
-			<castItem><role id="TIMAGÈNE" civil='M' type="H" statut='gouverneur' age='A' stat_amour='néant'>TIMAGÈNE</role>, gouverneur des deux princes.</castItem>
-			<castItem><role id="ORONTE" civil='M' type="H" statut='ambassadeur' age='A' stat_amour='néant'>ORONTE</role>, ambassadeur de Phaartes.</castItem>
-			<castItem><role id="LAONICE" civil='F' type="H" statut='confidente' age='A' stat_amour='néant'>LAONICE</role>, soeur de Timagène, confidente de Cléopâtre.</castItem>
+			<castItem><role id="CLÉOPÂTRE" sex="2" type="H" statut='roi' age='A' stat_amour='néant'>CLÉOPÂTRE</role>, reine de Syrie, veuve de Démétrius Nicanor.</castItem>
+			<castItem><role id="SÉLEUCUS" sex="1" type="H" statut='prince' age='J' stat_amour='néant'>SÉLEUCUS</role>, fils de Démétrius et de Cléopâtre.</castItem>
+			<castItem><role id="ANTIOCHUS" sex="1" type="H" statut='prince' age='J' stat_amour='néant'>ANTIOCHUS</role>, fils de Démétrius et de Cléopâtre.</castItem>
+			<castItem><role id="RODOGUNE" sex="2" type="H" statut='prince' age='A' stat_amour='néant'>RODOGUNE</role>, soeur de Phaartes, roi des Parthes.</castItem>
+			<castItem><role id="TIMAGÈNE" sex="1" type="H" statut='gouverneur' age='A' stat_amour='néant'>TIMAGÈNE</role>, gouverneur des deux princes.</castItem>
+			<castItem><role id="ORONTE" sex="1" type="H" statut='ambassadeur' age='A' stat_amour='néant'>ORONTE</role>, ambassadeur de Phaartes.</castItem>
+			<castItem><role id="LAONICE" sex="2" type="H" statut='confidente' age='A' stat_amour='néant'>LAONICE</role>, soeur de Timagène, confidente de Cléopâtre.</castItem>
 	</castList>
 	<set location='Séleucie de Piérie' country='Syrie' periode='IIème avant JC'>La scène est à Séleucie, dans le Palais-Royal.</set>
 	</front>
@@ -203,13 +204,13 @@
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III. Séleucus, Antiochus, Timagène, Laonice.</head>
-<sp who="SELEUCUS"><speaker>SÉLEUCUS.</speaker>
+<sp who="SÉLEUCUS"><speaker>SÉLEUCUS.</speaker>
 	<l id="107">Vous puis-je en confiance expliquer ma pensée ?</l>
 </sp>
 <sp who="ANTIOCHUS"><speaker>ANTIOCHUS.</speaker>
 	<l id="108">Parlez : notre amitié par ce doute est blessée.</l>
 </sp>
-<sp who="SELEUCUS"><speaker>SÉLEUCUS.</speaker>
+<sp who="SÉLEUCUS"><speaker>SÉLEUCUS.</speaker>
 	<l id="109">Hélas ! C'est le malheur que je crains aujourd'hui.</l>
 	<l id="110">L'égalité, mon frère, en est le ferme appui ;</l>
 	<l id="111">C'en est le fondement, la liaison, le gage ;</l>
@@ -224,7 +225,7 @@
 	<l id="118">Cette peur me touchait, mon frère, également ;</l>
 	<l id="119">Mais si vous le voulez, j'en sais bien le remède.</l>
 </sp>
-<sp who="SELEUCUS"><speaker>SÉLEUCUS.</speaker>
+<sp who="SÉLEUCUS"><speaker>SÉLEUCUS.</speaker>
 	<l id="120">Si je le veux ! Bien plus, je l'apporte, et vous cède</l>
 	<l id="121">Tout ce que la couronne a de charmant en soi.</l>
 	<l id="122">Oui, seigneur, car je parle à présent à mon roi,</l>
@@ -238,7 +239,7 @@
 <sp who="ANTIOCHUS"><speaker>ANTIOCHUS.</speaker>
 	<l id="129" part="i">Hélas !</l>
 </sp>
-<sp who="SELEUCUS"><speaker>SÉLEUCUS.</speaker>
+<sp who="SÉLEUCUS"><speaker>SÉLEUCUS.</speaker>
 	<l id="129" part="f">Recevez-vous l'offre avec déplaisir ?</l>
 </sp>
 <sp who="ANTIOCHUS"><speaker>ANTIOCHUS.</speaker>
@@ -246,25 +247,25 @@
 	<l id="131">Qui de la même main qui me cède un empire,</l>
 	<l id="132">M'arrache un bien plus grand, et le seul où j'aspire ?</l>
 </sp>
-<sp who="SELEUCUS"><speaker>SÉLEUCUS.</speaker>
+<sp who="SÉLEUCUS"><speaker>SÉLEUCUS.</speaker>
 	<l id="133" part="i">Rodogune ?</l>
 </sp>
 <sp who="ANTIOCHUS"><speaker>ANTIOCHUS.</speaker>
 	<l id="133" part="f">Elle-même ; ils en sont les témoins.</l>
 </sp>
-<sp who="SELEUCUS"><speaker>SÉLEUCUS.</speaker>
+<sp who="SÉLEUCUS"><speaker>SÉLEUCUS.</speaker>
 	<l id="134" part="i">Quoi ? L'estimez-vous tant ?</l>
 </sp>
 <sp who="ANTIOCHUS"><speaker>ANTIOCHUS.</speaker>
 	<l id="134" part="f">Quoi ? L'estimez-vous moins ?</l>
 </sp>
-<sp who="SELEUCUS"><speaker>SÉLEUCUS.</speaker>
+<sp who="SÉLEUCUS"><speaker>SÉLEUCUS.</speaker>
 	<l id="135">Elle vaut bien un trône, il faut que je le die.</l>
 </sp>
 <sp who="ANTIOCHUS"><speaker>ANTIOCHUS.</speaker>
 	<l id="136">Elle vaut à mes yeux tout ce qu'en a l'Asie.</l>
 </sp>
-<sp who="SELEUCUS"><speaker>SÉLEUCUS.</speaker>
+<sp who="SÉLEUCUS"><speaker>SÉLEUCUS.</speaker>
 	<l id="137" part="i">Vous l'aimez donc, mon frère ?</l>
 </sp>
 <sp who="ANTIOCHUS"><speaker>ANTIOCHUS.</speaker>
@@ -276,20 +277,20 @@
 	<l id="142">Et dans ce juste choix vous m'avez prévenu.</l>
 	<l id="143" part="i">Ah, déplorable prince !</l>
 </sp>
-<sp who="SELEUCUS"><speaker>SÉLEUCUS.</speaker>
+<sp who="SÉLEUCUS"><speaker>SÉLEUCUS.</speaker>
 	<l id="143" part="f">Ah, destin trop contraire !</l>
 </sp>
 <sp who="ANTIOCHUS"><speaker>ANTIOCHUS.</speaker>
 	<l id="144">Que ne ferais-je point contre un autre qu'un frère ?</l>
 </sp>
-<sp who="SELEUCUS"><speaker>SÉLEUCUS.</speaker>
+<sp who="SÉLEUCUS"><speaker>SÉLEUCUS.</speaker>
 	<l id="145">Ô mon cher frère ! Ô nom pour un rival trop doux !</l>
 	<l id="146">Que ne ferais-je point contre un autre que vous ?</l>
 </sp>
 <sp who="ANTIOCHUS"><speaker>ANTIOCHUS.</speaker>
 	<l id="147">Où nous vas-tu réduire, amitié fraternelle ?</l>
 </sp>
-<sp who="SELEUCUS"><speaker>SÉLEUCUS.</speaker>
+<sp who="SÉLEUCUS"><speaker>SÉLEUCUS.</speaker>
 	<l id="148">Amour, qui doit ici vaincre de vous ou d'elle ?</l>
 </sp>
 <sp who="ANTIOCHUS"><speaker>ANTIOCHUS.</speaker>
@@ -314,7 +315,7 @@
 	<l id="167">C'est dans notre destin le seul conseil à prendre ;</l>
 	<l id="168">Nous pouvons nous en plaindre, et nous devons l'attendre.</l>
 </sp>
-<sp who="SELEUCUS"><speaker>SÉLEUCUS.</speaker>
+<sp who="SÉLEUCUS"><speaker>SÉLEUCUS.</speaker>
 	<l id="169">Il faut encore plus faire : il faut qu'en ce grand jour</l>
 	<l id="170">Notre amitié triomphe aussi bien que l'amour.</l>
 	<l id="171">Ces deux sièges fameux de Thèbes et de Troie,</l>
@@ -351,7 +352,7 @@
 <sp who="ANTIOCHUS"><speaker>ANTIOCHUS.</speaker>
 	<l id="201" part="i">Le pourrez-vous, mon frère ?</l>
 </sp>
-<sp who="SELEUCUS"><speaker>SÉLEUCUS.</speaker>
+<sp who="SÉLEUCUS"><speaker>SÉLEUCUS.</speaker>
 	<l id="201" part="f">Ah ! Que vous me pressez !</l>
 	<l id="202">Je le voudrai du moins, mon frère, et c'est assez ;</l>
 	<l id="203">Et ma raison sur moi gardera tant d'empire,</l>
@@ -363,7 +364,7 @@
 	<l id="207">Afin qu'étant témoins de l'amitié jurée,</l>
 	<l id="208">Les dieux contre un tel coup assurent sa durée.</l>
 </sp>0
-<sp who="SELEUCUS"><speaker>SÉLEUCUS.</speaker>
+<sp who="SÉLEUCUS"><speaker>SÉLEUCUS.</speaker>
 	<l id="209">Allons, allons l'étreindre au pied de leurs autels</l>
 	<l id="210">Par des liens sacrés et des noeuds immortels.</l>
 </sp>
@@ -854,7 +855,7 @@
 	<l id="605">Et l'accepter sitôt semble nous reprocher</l>
 	<l id="606">De n'être revenus que pour vous l'arracher.</l>
 </sp>
-<sp who="SELEUCUS"><speaker>SÉLEUCUS.</speaker>
+<sp who="SÉLEUCUS"><speaker>SÉLEUCUS.</speaker>
 	<l id="607">J'ajouterai, madame, à ce qu'a dit mon frère,</l>
 	<l id="608">Que bien qu'avec plaisir et l'un et l'autre espère,</l>
 	<l id="609">L'ambition n'est pas notre plus grand désir.</l>
@@ -912,7 +913,7 @@
 	<l id="659">J'ai fait votre oncle roi, j'en ferai bien un autre ;</l>
 	<l id="660">Et mon nom peut encore ici plus que le vôtre.</l>
 </sp>
-<sp who="SELEUCUS"><speaker>SÉLEUCUS.</speaker>
+<sp who="SÉLEUCUS"><speaker>SÉLEUCUS.</speaker>
 	<l id="661">Mais, madame, voyez que pour premier exploit...</l>
 </sp>
 <sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE.</speaker>
@@ -932,7 +933,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV. Séleucus, Antiochus.</head>
-<sp who="SELEUCUS"><speaker>SÉLEUCUS.</speaker>
+<sp who="SÉLEUCUS"><speaker>SÉLEUCUS.</speaker>
 	<l id="675">Est-il une constance à l'épreuve du foudre</l>
 	<l id="676">Dont ce cruel arrêt met notre espoir en poudre ?</l>
 </sp>
@@ -940,7 +941,7 @@
 	<l id="677">Est-il un coup de foudre à comparer aux coups</l>
 	<l id="678">Que ce cruel arrêt vient de lancer sur nous ?</l>
 </sp>
-<sp who="SELEUCUS"><speaker>SÉLEUCUS.</speaker>
+<sp who="SÉLEUCUS"><speaker>SÉLEUCUS.</speaker>
 	<l id="679">Ô haines, ô fureurs dignes d'une mégère !</l>
 	<l id="680">Ô femme, que je n'ose appeler encore mère !</l>
 	<l id="681">Après que tes forfaits ont régné pleinement,</l>
@@ -960,7 +961,7 @@
 	<l id="693">Cependant à nous voir l'un de l'autre rivaux,</l>
 	<l id="694">Nous ne concevions pas la moitié de nos maux.</l>
 </sp>
-<sp who="SELEUCUS"><speaker>SÉLEUCUS.</speaker>
+<sp who="SÉLEUCUS"><speaker>SÉLEUCUS.</speaker>
 	<l id="695">Une douleur si sage et si respectueuse,</l>
 	<l id="696">Ou n'est guère sensible ou guère impétueuse ;</l>
 	<l id="697">Et c'est en de tels maux avoir l'esprit bien fort</l>
@@ -998,7 +999,7 @@
 	<l id="727">Et le sort l'eût-il faite encore plus inhumaine,</l>
 	<l id="728">Une larme d'un fils peut amollir sa haine.</l>
 </sp>
-<sp who="SELEUCUS"><speaker>SÉLEUCUS.</speaker>
+<sp who="SÉLEUCUS"><speaker>SÉLEUCUS.</speaker>
 	<l id="729">Ah ! Mon frère, l'amour n'est guère véhément</l>
 	<l id="730">Pour des fils élevés dans un bannissement,</l>
 	<l id="731">Et qu'ayant fait nourrir presque dans l'esclavage</l>
@@ -1263,7 +1264,7 @@
 	<l id="953">Et je mériterais qu'il me pût consumer,</l>
 	<l id="954">Si je lui fournissais de quoi se rallumer.</l>
 </sp>
-<sp who="SELEUCUS"><speaker>SÉLEUCUS.</speaker>
+<sp who="SÉLEUCUS"><speaker>SÉLEUCUS.</speaker>
 	<l id="955">Pouvez-vous redouter sa haine renaissante,</l>
 	<l id="956">S'il est en votre main de la rendre impuissante ?</l>
 	<l id="957">Faites un roi, madame, et régnez avec lui :</l>
@@ -1311,7 +1312,7 @@
 	<l id="997">Vous y renoncerez peut-être pour jamais,</l>
 	<l id="998">Quand je vous aurai dit à quel prix je le mets.</l>
 </sp>
-<sp who="SELEUCUS"><speaker>SÉLEUCUS.</speaker>
+<sp who="SÉLEUCUS"><speaker>SÉLEUCUS.</speaker>
 	<l id="999">Quels seront les devoirs, quels travaux, quels services</l>
 	<l id="1000">Dont nous ne vous fassions d'amoureux sacrifices ?</l>
 	<l id="1001">Et quels affreux périls pourrons-nous redouter,</l>
@@ -1332,13 +1333,13 @@
 <sp who="RODOGUNE"><speaker>RODOGUNE.</speaker>
 	<l id="1008">Je verrai cette ardeur d'un repentir suivie.</l>
 </sp>
-<sp who="SELEUCUS"><speaker>SÉLEUCUS.</speaker>
+<sp who="SÉLEUCUS"><speaker>SÉLEUCUS.</speaker>
 	<l id="1009">Avant ce repentir tous deux nous périrons.</l>
 </sp>
 <sp who="RODOGUNE"><speaker>RODOGUNE.</speaker>
 	<l id="1010" part="i">Enfin vous le voulez ?</l>
 </sp>
-<sp who="SELEUCUS"><speaker>SÉLEUCUS.</speaker>
+<sp who="SÉLEUCUS"><speaker>SÉLEUCUS.</speaker>
 	<l id="1010" part="f">Nous vous en conjurons.</l>
 </sp>
 <sp who="RODOGUNE"><speaker>RODOGUNE.</speaker>
@@ -1391,20 +1392,20 @@
 	<l id="1047" part="f">Hélas ! C'est donc ainsi qu'on traite</l>
 	<l id="1048">Les plus profonds respects d'une amour si parfaite !</l>
 </sp>
-<sp who="SELEUCUS"><speaker>SÉLEUCUS.</speaker>
+<sp who="SÉLEUCUS"><speaker>SÉLEUCUS.</speaker>
 	<l id="1049">Elle nous fuit, mon frère, après cette rigueur.</l>
 </sp>
 <sp who="ANTIOCHUS"><speaker>ANTIOCHUS.</speaker>
 	<l id="1050">Elle fuit, mais en Parthe, en nous perçant le coeur.</l>
 </sp>
-<sp who="SELEUCUS"><speaker>SÉLEUCUS.</speaker>
+<sp who="SÉLEUCUS"><speaker>SÉLEUCUS.</speaker>
 	<l id="1051">Que le ciel est injuste ! Une âme si cruelle</l>
 	<l id="1052">Méritait notre mère, et devait naître d'elle.</l>
 </sp>
 <sp who="ANTIOCHUS"><speaker>ANTIOCHUS.</speaker>
 	<l id="1053" part="i">Plaignons-nous sans blasphème.</l>
 </sp>
-<sp who="SELEUCUS"><speaker>SÉLEUCUS.</speaker>
+<sp who="SÉLEUCUS"><speaker>SÉLEUCUS.</speaker>
 	<l id="1053" part="f">Ah ! Que vous me gênez</l>
 	<l id="1054">Par cette retenue où vous vous obstinez !</l>
 	<l id="1055">Faut-il encore régner ? Faut-il l'aimer encore ?</l>
@@ -1412,7 +1413,7 @@
 <sp who="ANTIOCHUS"><speaker>ANTIOCHUS.</speaker>
 	<l id="1056">Il faut plus de respect pour celle qu'on adore.</l>
 </sp>
-<sp who="SELEUCUS"><speaker>SÉLEUCUS.</speaker>
+<sp who="SÉLEUCUS"><speaker>SÉLEUCUS.</speaker>
 	<l id="1057">C'est ou d'elle ou du trône être ardemment épris,</l>
 	<l id="1058">Que vouloir ou l'aimer ou régner à ce prix.</l>
 </sp>
@@ -1420,7 +1421,7 @@
 	<l id="1059">C'est et d'elle et de lui tenir bien peu de compte,</l>
 	<l id="1060">Que faire une révolte et si pleine et si prompte.</l>
 </sp>
-<sp who="SELEUCUS"><speaker>SÉLEUCUS.</speaker>
+<sp who="SÉLEUCUS"><speaker>SÉLEUCUS.</speaker>
 	<l id="1061">Lorsque l'obéissance a tant d'impiété,</l>
 	<l id="1062">La révolte devient une nécessité.</l>
 </sp>
@@ -1444,7 +1445,7 @@
 	<l id="1079">Mon frère, pardonnez à des discours sans suite,</l>
 	<l id="1080">Qui font trop voir le trouble où mon âme est réduite.</l>
 </sp>
-<sp who="SELEUCUS"><speaker>SÉLEUCUS.</speaker>
+<sp who="SÉLEUCUS"><speaker>SÉLEUCUS.</speaker>
 	<l id="1081">J'en ferais comme vous, si mon esprit troublé</l>
 	<l id="1082">Ne secouait le joug dont il est accablé.</l>
 	<l id="1083">Dans mon ambition, dans l'ardeur de ma flamme,</l>
@@ -1468,7 +1469,7 @@
 	<l id="1099">Et si tantôt leur haine eût attendu nos larmes,</l>
 	<l id="1100">Leur haine à nos douleurs aurait rendu les armes.</l>
 </sp>
-<sp who="SELEUCUS"><speaker>SÉLEUCUS.</speaker>
+<sp who="SÉLEUCUS"><speaker>SÉLEUCUS.</speaker>
 	<l id="1101">Pleurez donc à leurs yeux, gémissez, soupirez,</l>
 	<l id="1102">Et je craindrai pour vous ce que vous espérez.</l>
 	<l id="1103">Quoi qu'en votre faveur vos pleurs obtiennent d'elles,</l>
@@ -1896,21 +1897,21 @@
 <sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE.</speaker>
 	<l id="1404">Savez-vous, Séleucus, que je me suis vengée ?</l>
 </sp>
-<sp who="SELEUCUS"><speaker>SÉLEUCUS.</speaker>
+<sp who="SÉLEUCUS"><speaker>SÉLEUCUS.</speaker>
 	<l id="1405" part="i">Pauvre princesse, hélas !</l>
 </sp>
 <sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE.</speaker>
 	<l id="1405" part="f">Vous déplorez son sort !</l>
 	<l id="1406" part="i">Quoi ? L'aimiez-vous ?</l>
 </sp>
-<sp who="SELEUCUS"><speaker>SÉLEUCUS.</speaker>
+<sp who="SÉLEUCUS"><speaker>SÉLEUCUS.</speaker>
 	<l id="1406" part="f">Assez pour regretter sa mort.</l>
 </sp>
 <sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE.</speaker>
 	<l id="1407">Vous lui pouvez servir encore d'amant fidèle ;</l>
 	<l id="1408">Si j'ai su me venger, ce n'a pas été d'elle.</l>
 </sp>
-<sp who="SELEUCUS"><speaker>SÉLEUCUS.</speaker>
+<sp who="SÉLEUCUS"><speaker>SÉLEUCUS.</speaker>
 	<l id="1409" part="i">Oh ciel ! Et de qui donc, madame ?</l>
 </sp>
 <sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE.</speaker>
@@ -1921,7 +1922,7 @@
 	<l id="1413">De vous, de qui l'amour, rebelle à mes désirs,</l>
 	<l id="1414">S'oppose à ma vengeance, et détruit mes plaisirs.</l>
 </sp>
-<sp who="SELEUCUS"><speaker>SÉLEUCUS.</speaker>
+<sp who="SÉLEUCUS"><speaker>SÉLEUCUS.</speaker>
 	<l id="1415" part="i">De moi !</l>
 </sp>
 <sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE.</speaker>
@@ -1936,13 +1937,13 @@
 	<l id="1423">Je puis, comme je veux, tourner le droit d'aînesse,</l>
 	<l id="1424">Et donne à ton rival ton sceptre et ta maîtresse.</l>
 </sp>
-<sp who="SELEUCUS"><speaker>SÉLEUCUS.</speaker>
+<sp who="SÉLEUCUS"><speaker>SÉLEUCUS.</speaker>
 	<l id="1425" part="i">À mon frère ?</l>
 </sp>
 <sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE.</speaker>
 	<l id="1425" part="f">C'est lui que j'ai nommé l'aîné.</l>
 </sp>
-<sp who="SELEUCUS"><speaker>SÉLEUCUS.</speaker>
+<sp who="SÉLEUCUS"><speaker>SÉLEUCUS.</speaker>
 	<l id="1426">Vous ne m'affligez point de l'avoir couronné ;</l>
 	<l id="1427">Et par une raison qui vous est inconnue,</l>
 	<l id="1428">Mes propres sentiments vous avaient prévenue :</l>
@@ -1957,7 +1958,7 @@
 	<l id="1435">Et qu'on croit amuser de fausses patiences</l>
 	<l id="1436">Ceux dont en l'âme on craint les justes défiances.</l>
 </sp>
-<sp who="SELEUCUS"><speaker>SÉLEUCUS.</speaker>
+<sp who="SÉLEUCUS"><speaker>SÉLEUCUS.</speaker>
 	<l id="1437">Quoi ? Je conserverais quelque courroux secret !</l>
 </sp>
 <sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE.</speaker>
@@ -1965,7 +1966,7 @@
 	<l id="1439">Elle de qui les dieux te donnaient l'hyménée ?</l>
 	<l id="1440">Elle dont tu plaignais la perte imaginée ?</l>
 </sp>
-<sp who="SELEUCUS"><speaker>SÉLEUCUS.</speaker>
+<sp who="SÉLEUCUS"><speaker>SÉLEUCUS.</speaker>
 	<l id="1441">Considérer sa perte avec compassion,</l>
 	<l id="1442">Ce n'est pas aspirer à sa possession.</l>
 </sp>
@@ -1979,7 +1980,7 @@
 	<l id="1449">D'autant plus animé, que ce qu'il a perdu</l>
 	<l id="1450">Par rang ou par mérite à sa flamme était dû.</l>
 </sp>
-<sp who="SELEUCUS"><speaker>SÉLEUCUS.</speaker>
+<sp who="SÉLEUCUS"><speaker>SÉLEUCUS.</speaker>
 	<l id="1451">Peut-être ; mais enfin par quel amour de mère</l>
 	<l id="1452">Pressez-vous tellement ma douleur contre un frère ?</l>
 	<l id="1453">Prenez-vous intérêt à la faire éclater ?</l>
@@ -1989,7 +1990,7 @@
 	<l id="1455">J'en prends à conserver malgré toi mon ouvrage</l>
 	<l id="1456">Des jaloux attentats de ta secrète rage.</l>
 </sp>
-<sp who="SELEUCUS"><speaker>SÉLEUCUS.</speaker>
+<sp who="SÉLEUCUS"><speaker>SÉLEUCUS.</speaker>
 	<l id="1457">Je le veux croire ainsi ; mais quel autre intérêt</l>
 	<l id="1458">Nous fait tous deux aînés quand et comme il vous plaît ?</l>
 	<l id="1459">Qui des deux vous doit croire, et par quelle justice</l>
@@ -2003,7 +2004,7 @@
 	<l id="1465">D'où vient qu'un fils, vers moi noirci de trahison,</l>
 	<l id="1466">Ose de mes faveurs me demander raison.</l>
 </sp>
-<sp who="SELEUCUS"><speaker>SÉLEUCUS.</speaker>
+<sp who="SÉLEUCUS"><speaker>SÉLEUCUS.</speaker>
 	<l id="1467">Vous pardonnerez donc ces chaleurs indiscrètes :</l>
 	<l id="1468">Je ne suis point jaloux du bien que vous lui faites ;</l>
 	<l id="1469">Et je vois quel amour vous avez pour tous deux,</l>

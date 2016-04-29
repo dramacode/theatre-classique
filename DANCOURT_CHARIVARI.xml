@@ -7,9 +7,10 @@
 				<author born='1661' born_location='Paris' death='1725' death_location='Paris' academie=''>DANCOURT, Florent Carton dit</author>
 				<date>1699</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE juin 2013</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -44,19 +45,19 @@
 			<premiere date="1697-09-19" location='Théâtre de la rue des Fossés Saint-Germain'>Représentée pour la première fois le 19 Septembre 1797 au Théâtre de la rue des Fossés Saint-Germain.</premiere>
 		</performance>
 	<castList><head>ACTEURS.</head>
-		<castItem><role id="MADAME LORICART" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>MADAME LORICART</role>, mère dAngélique, et tante de Mariane.</castItem>
-		<castItem><role id="MONSIEUR CLÉONTE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>MONSIEUR CLÉONTE</role>, beau-frère de Madame Loricart. </castItem>
-		<castItem><role id="MARIANE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>MARIANE</role>, nièce de Madame Loricart. </castItem>
-		<castItem><role id="ANGÉLIQUE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>ANGÉLIQUE</role>, fille de Madame Loricart. </castItem>
-		<castItem><role id="ÉRASTE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='amuoreux'>ÉRASTE</role>, Amant dAngélique. </castItem>
-		<castItem><role id="CLITANDRE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='amoureux'>CLITANDRE</role>, Amant de Mariane. </castItem>
-		<castItem><role id="MATHURINE" civil='F' type="H" statut='servante' age='A' stat_amour='néant'>MATHURINE</role>, servante de Madame Loricart. </castItem>
-		<castItem><role id="THIBAUT" civil='M' type="H" statut='jardinier' age='A' stat_amour='néant'>THIBAUT</role>, Jardinier de Madame Loricart. </castItem>
-		<castItem><role id="LOLIVE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='amoureux'>LOLIVE</role>, Amoureux de Mathurine. </castItem>
-		<castItem><role id="LA FONTAINE" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>LA FONTAINE</role>, valet de Clitandre. </castItem>
-		<castItem><role id="LA FLEUR" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>LA FLEUR</role>, valet dÉraste. </castItem>
-		<castItem><role id="LE TABELLION" civil='M' type="H" statut='tabellion' age='A' stat_amour='néant'>LE TABELLION</role>. </castItem>
-		<castItem><role id="PAYSANS et PAYSANNNES" civil='G' type="H" statut='paysan' age='A' stat_amour='néant'>Plusieurs Paysans et Paysannes</role>.</castItem>
+		<castItem><role id="MADAME LORICART" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>MADAME LORICART</role>, mère dAngélique, et tante de Mariane.</castItem>
+		<castItem><role id="MONSIEUR CLÉONTE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>MONSIEUR CLÉONTE</role>, beau-frère de Madame Loricart. </castItem>
+		<castItem><role id="MARIANE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>MARIANE</role>, nièce de Madame Loricart. </castItem>
+		<castItem><role id="ANGÉLIQUE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>ANGÉLIQUE</role>, fille de Madame Loricart. </castItem>
+		<castItem><role id="ÉRASTE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='amuoreux'>ÉRASTE</role>, Amant dAngélique. </castItem>
+		<castItem><role id="CLITANDRE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>CLITANDRE</role>, Amant de Mariane. </castItem>
+		<castItem><role id="MATHURINE" sex="2" type="H" statut='servante' age='A' stat_amour='néant'>MATHURINE</role>, servante de Madame Loricart. </castItem>
+		<castItem><role id="THIBAUT" sex="1" type="H" statut='jardinier' age='A' stat_amour='néant'>THIBAUT</role>, Jardinier de Madame Loricart. </castItem>
+		<castItem><role id="LOLIVE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>LOLIVE</role>, Amoureux de Mathurine. </castItem>
+		<castItem><role id="LA FONTAINE" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>LA FONTAINE</role>, valet de Clitandre. </castItem>
+		<castItem><role id="LA FLEUR" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>LA FLEUR</role>, valet dÉraste. </castItem>
+		<castItem><role id="LE TABELLION" sex="1" type="H" statut='tabellion' age='A' stat_amour='néant'>LE TABELLION</role>. </castItem>
+		<castItem><role id="PAYSANS et PAYSANNNES" sex="9" type="H" statut='paysan' age='A' stat_amour='néant'>Plusieurs Paysans et Paysannes</role>.</castItem>
 	</castList>
 	<set location="Auteuil" country='France' periode='XVIIème' link=''>La Scène est à Auteuil.</set>
 	</front>

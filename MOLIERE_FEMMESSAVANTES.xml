@@ -7,9 +7,10 @@
 				<author born='1622' born_location='Paris' death='1673' death_location='Paris' academie=''>MOLIERE</author>
 				<date>1672</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, Juillet 2008, revu mai 2015</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -47,19 +48,19 @@
 			<premiere date="1672-03-11" location='Théâtre du Palais-Royal'>Représentée la première fois le 11 mars 1672 par la Troupe du Roi, à Paris sur le Théâtre de la salle du Palais-Royal.</premiere>
 		</performance>
 		<castList><head>ACTEURS</head>
-			<castItem><role id="CHRYSALE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>CHRYSALE</role>, bon bourgeois.</castItem>
-			<castItem><role id="PHILAMINTE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>PHILAMINTE</role>, femme de Chrysale.</castItem>
-			<castItem><role id="ARMANDE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>ARMANDE</role>, fille de Chrysale et de Philaminte.</castItem>
-			<castItem><role id="HENRIETTE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>HENRIETTE</role>, fille de Chrysale et de Philaminte.</castItem>
-			<castItem><role id="ARISTE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>ARISTE</role>, frère de Chrysale.</castItem>
-			<castItem><role id="BÉLISE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>BÉLISE</role>, soeur de Chrysale.</castItem>
-			<castItem><role id="CLITANDRE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='Henriette'>CLITANDRE</role>, amant d'Henriette.</castItem>
-			<castItem><role id="TRISSOTIN" civil='M' type="H" statut='bel esprit' age='A' stat_amour='néant'>TRISSOTIN</role>, bel esprit.</castItem>
-			<castItem><role id="VADIUS" civil='M' type="H" statut='savant' age='A' stat_amour='néant'>VADIUS</role>, savant.</castItem>
-			<castItem><role id="MARTINE" civil='F' type="H" statut='servante' age='A' stat_amour='néant'>MARTINE</role>, servante de cuisine.</castItem>
-			<castItem><role id="L'ÉPINE" civil='M' type="H" statut='laquais' age='A' stat_amour='néant'>L'ÉPINE</role>, laquais de Trissotin.</castItem>
-			<castItem><role id="JULIEN" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>JULIEN</role>, valet de Vadius.</castItem>
-			<castItem><role id="LE NOTAIRE" civil='M' type="H" statut='notaire' age='A' stat_amour='néant'>LE NOTAIRE</role>.</castItem>
+			<castItem><role id="CHRYSALE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>CHRYSALE</role>, bon bourgeois.</castItem>
+			<castItem><role id="PHILAMINTE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>PHILAMINTE</role>, femme de Chrysale.</castItem>
+			<castItem><role id="ARMANDE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>ARMANDE</role>, fille de Chrysale et de Philaminte.</castItem>
+			<castItem><role id="HENRIETTE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>HENRIETTE</role>, fille de Chrysale et de Philaminte.</castItem>
+			<castItem><role id="ARISTE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>ARISTE</role>, frère de Chrysale.</castItem>
+			<castItem><role id="BÉLISE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>BÉLISE</role>, soeur de Chrysale.</castItem>
+			<castItem><role id="CLITANDRE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='Henriette'>CLITANDRE</role>, amant d'Henriette.</castItem>
+			<castItem><role id="TRISSOTIN" sex="1" type="H" statut='bel esprit' age='A' stat_amour='néant'>TRISSOTIN</role>, bel esprit.</castItem>
+			<castItem><role id="VADIUS" sex="1" type="H" statut='savant' age='A' stat_amour='néant'>VADIUS</role>, savant.</castItem>
+			<castItem><role id="MARTINE" sex="2" type="H" statut='servante' age='A' stat_amour='néant'>MARTINE</role>, servante de cuisine.</castItem>
+			<castItem><role id="L'ÉPINE" sex="1" type="H" statut='laquais' age='A' stat_amour='néant'>L'ÉPINE</role>, laquais de Trissotin.</castItem>
+			<castItem><role id="JULIEN" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>JULIEN</role>, valet de Vadius.</castItem>
+			<castItem><role id="LE NOTAIRE" sex="1" type="H" statut='notaire' age='A' stat_amour='néant'>LE NOTAIRE</role>.</castItem>
 		</castList>
 	<set location="Paris" country='France' periode='XVIIème' link=''>La scène est à Paris. </set>
 </front>

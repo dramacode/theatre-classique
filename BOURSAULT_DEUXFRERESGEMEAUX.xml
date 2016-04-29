@@ -6,10 +6,11 @@
 				<title>LES DEUX FRÈRES GÉMEAUX OU LES MENTEURS QUI NE MENTENT POINT, COMÉDIE.</title>
 				<author born='1638' born_location="Mussy-l Evêque" death='1701' death_location='Paris' academie=''>BOURSAULT, Edme</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<editor>Édition critique établie par Vanessa Viola sous la direction de Georges Forestier (2003-2004)</editor>
 				<publisher>publié par Paul FIEVRE octobre 2014.</publisher>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -48,18 +49,18 @@
 	</performance>
 
 		<castList><head>PERSONNAGES</head>
-			<castItem><role id="ISIDORE" civil="M" type="H" statut="savant" age="A" stat_amour=''>ISIDORE</role>, homme savant, Père d'Hipolite.</castItem>
-			<castItem><role id="EUTROPE" civil="M" type="H" statut="bourgeois" age="A" stat_amour=''>EUTROPE</role>, Père d'Ismène.</castItem>
-			<castItem><role id="HIPOLITE" civil="F" type="H" statut="" age="A" stat_amour='Premier Nicandre'>HIPOLITE</role>, Parisienne, Amoureuse du premier Nicandre.</castItem>
-			<castItem><role id="JACINTE" civil="F" type="H" statut="suivanyte" age="A" stat_amour=''>JACINTE</role>, Suivante d'Hipolite.</castItem>
-			<castItem><role id="ISMENE" civil="F" type="H" statut="bourgeois" age="A" stat_amour='Second Nicandre'>ISMENE</role>, Lyonnoise, vêtue en homme, Amante du second Nicandre.</castItem>
-			<castItem><role id="LE PREMIER NICANDRE" civil="M" type="H" statut="bourgeois" age="A" stat_amour='Hipolite'>LE PREMIER NICANDRE</role>, Amant d'Hipolite.</castItem>
-			<castItem><role id="LE SECOND NICANDRE" civil="M" type="H" statut="bourgeois" age="A" stat_amour='Ismène'>LE SECOND NICANDRE</role>, Amant d'Ismène.</castItem>
-			<castItem><role id="ROBIN" civil="M" type="H" statut="valet" age="A" stat_amour=''>ROBIN</role>, Valet du second Nicandre.</castItem>
-			<castItem><role id="RAGOTIN" civil="M" type="H" statut="valet" age="A" stat_amour=''>RAGOTIN</role>, valet du premier Nicandre durant le premier Acte, puis Valet d'Ismene.</castItem>
-			<castItem><role id="UN COMMISSSAIRE" civil="M" type="H" statut="commissaire" age="A" stat_amour=''>UN COMMISSSAIRE</role>.</castItem>
-			<castItem><role id="UN SERGENT" civil="M" type="H" statut="sergent" age="A" stat_amour=''>UN SERGENT du Châtelet</role>.</castItem>
-			<castItem><role id="DES ARCHERS" civil="G" type="H" statut="archer" age="A" stat_amour=''>DES ARCHERS MUETS</role>.</castItem>
+			<castItem><role id="ISIDORE" sex="1" type="H" statut="savant" age="A" stat_amour=''>ISIDORE</role>, homme savant, Père d'Hipolite.</castItem>
+			<castItem><role id="EUTROPE" sex="1" type="H" statut="bourgeois" age="A" stat_amour=''>EUTROPE</role>, Père d'Ismène.</castItem>
+			<castItem><role id="HIPOLITE" sex="2" type="H" statut="bourgeois" age="J" stat_amour='Premier Nicandre'>HIPOLITE</role>, Parisienne, Amoureuse du premier Nicandre.</castItem>
+			<castItem><role id="JACINTE" sex="2" type="H" statut="suivante" age="A" stat_amour=''>JACINTE</role>, Suivante d'Hipolite.</castItem>
+			<castItem><role id="ISMENE" sex="2" type="H" statut="bourgeois" age="J" stat_amour='Second Nicandre'>ISMENE</role>, Lyonnoise, vêtue en homme, Amante du second Nicandre.</castItem>
+			<castItem><role id="LE PREMIER NICANDRE" sex="1" type="H" statut="bourgeois" age="J" stat_amour='Hipolite'>LE PREMIER NICANDRE</role>, Amant d'Hipolite.</castItem>
+			<castItem><role id="LE SECOND NICANDRE" sex="1" type="H" statut="bourgeois" age="J" stat_amour='Ismène'>LE SECOND NICANDRE</role>, Amant d'Ismène.</castItem>
+			<castItem><role id="ROBIN" sex="1" type="H" statut="valet" age="A" stat_amour=''>ROBIN</role>, Valet du second Nicandre.</castItem>
+			<castItem><role id="RAGOTIN" sex="1" type="H" statut="valet" age="A" stat_amour=''>RAGOTIN</role>, valet du premier Nicandre durant le premier Acte, puis Valet d'Ismene.</castItem>
+			<castItem><role id="UN COMMISSSAIRE" sex="1" type="H" statut="commissaire" age="A" stat_amour=''>UN COMMISSSAIRE</role>.</castItem>
+			<castItem><role id="UN SERGENT" sex="1" type="H" statut="sergent" age="A" stat_amour=''>UN SERGENT du Châtelet</role>.</castItem>
+			<castItem><role id="DES ARCHERS" sex="9" type="H" statut="archer" age="A" stat_amour=''>DES ARCHERS MUETS</role>.</castItem>
 		</castList>
 		<note>Frères Gémeaux, qui se ressemblent si fort, qu'on les prend à tous moments l'un pour l'autre, et qui se rencontrent fortuitement à Paris, sans que l'un ni l'autre le sache ; où ils s'habillent par hasard tous deux d'une même façon.</note>
 		<set location='France' country='France' periode='XVIIème' link=''>La Scène est en Prison.</set>

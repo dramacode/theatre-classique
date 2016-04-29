@@ -6,9 +6,10 @@
 			<title>AMPHYTRION, COMÉDIE</title>
 			<author born='1622' born_location='Paris' death='1673' death_location='Paris' academie=''>MOLIÈRE</author>
 		</titleStmt>
-		<publicationStmp>	
+		<publicationStmt>	
 			<p>publié par Paul FIEVRE</p><p>Mai 2006</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Comédie</genre>
 			<inspiration>mythe grec</inspiration>
@@ -43,17 +44,17 @@
 			<p>Le très humble, très obéissant, et très obligé serviteur, MOLIÈRE.</p>
 		</div>
 		<castList><head>ACTEURS</head>
-			<castItem><role id="MERCURE" civil='M' type="D" statut='dieu' age='A' stat_amour='néant'>MERCURE</role>.</castItem>
-			<castItem><role id="LA-NUIT" civil='F' type="D" statut='personnification' age='A' stat_amour='néant'>LA NUIT</role>.</castItem>
-			<castItem><role id="JUPITER" civil='M' type="D" statut='dieu' age='A' stat_amour='néant'>JUPITER</role>, sous le forme d'Amphitryon.</castItem>
-			<castItem><role id="AMPHITRYON" civil='M' type="H" statut='général' age='A' stat_amour='néant'>AMPHITRYON</role>, général des Thébains.</castItem>
-			<castItem><role id="ALCMÈNE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>ALCMÈNE</role>, femme d'Amphitryon.</castItem>
-			<castItem><role id="CLEANTHIS" civil='F' type="H" statut='suivante' age='A' stat_amour='néant'>CLEANTHIS</role>, suivante d'Alcmène et femme de Sosie.</castItem>
-			<castItem><role id="SOSIE" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>SOSIE</role>, valet d'Amphitryon.</castItem>
-			<castItem><role id="ARGATIPHONDITAS" civil='M' type="H" statut='capitaine' age='A' stat_amour='néant'>ARGATIPHONDITAS</role>, capitaine thébain.</castItem>
-			<castItem><role id="NAUCRATES" civil='M' type="H" statut='capitaine' age='A' stat_amour='néant'>NAUCRATES</role>, capitaine thébain.</castItem>
-			<castItem><role id="POLIDAS" civil='M' type="H" statut='capitaine' age='A' stat_amour='néant'>POLIDAS</role>, capitaine thébain.</castItem>
-			<castItem><role id="POSICLES" civil='M' type="H" statut='capitaine' age='A' stat_amour='néant'>POSICLES</role>, capitaine thébain.</castItem>
+			<castItem><role id="MERCURE" sex="1" type="D" statut='dieu' age='A' stat_amour='néant'>MERCURE</role>.</castItem>
+			<castItem><role id="LA-NUIT" sex="2" type="D" statut='personnification' age='A' stat_amour='néant'>LA NUIT</role>.</castItem>
+			<castItem><role id="JUPITER" sex="1" type="D" statut='dieu' age='A' stat_amour='néant'>JUPITER</role>, sous le forme d'Amphitryon.</castItem>
+			<castItem><role id="AMPHITRYON" sex="1" type="H" statut='général' age='A' stat_amour='néant'>AMPHITRYON</role>, général des Thébains.</castItem>
+			<castItem><role id="ALCMÈNE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>ALCMÈNE</role>, femme d'Amphitryon.</castItem>
+			<castItem><role id="CLEANTHIS" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>CLEANTHIS</role>, suivante d'Alcmène et femme de Sosie.</castItem>
+			<castItem><role id="SOSIE" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>SOSIE</role>, valet d'Amphitryon.</castItem>
+			<castItem><role id="ARGATIPHONDITAS" sex="1" type="H" statut='capitaine' age='A' stat_amour='néant'>ARGATIPHONDITAS</role>, capitaine thébain.</castItem>
+			<castItem><role id="NAUCRATES" sex="1" type="H" statut='capitaine' age='A' stat_amour='néant'>NAUCRATES</role>, capitaine thébain.</castItem>
+			<castItem><role id="POLIDAS" sex="1" type="H" statut='capitaine' age='A' stat_amour='néant'>POLIDAS</role>, capitaine thébain.</castItem>
+			<castItem><role id="POSICLES" sex="1" type="H" statut='capitaine' age='A' stat_amour='néant'>POSICLES</role>, capitaine thébain.</castItem>
 		</castList>
 		<set location='Thèbes' country='Grèce' periode='Temps mythologiques' link=''>La scène est à Thèbes, devant la maison d'Amphitryon.</set>
 	</front>

@@ -6,9 +6,10 @@
 			<title>L'AVOCAT PATELIN, COMÉDIE EN TROIS ACTES ET EN PROSE.</title>
 			<author>BRUEYS et PALAPRAT</author>
 		</titleStmt>
-		<publicationStmp>
+		<publicationStmt>
 			<p>publié par Paul FIEVRE, décembre 2011</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Comédie</genre>
 			<inspiration>moeurs françaises</inspiration>
@@ -39,16 +40,16 @@
 		</performance>
 
 	<castList><head>PERSONNAGES.</head>
-		<castItem><role id="PATELIN" civil="M" type="H" statut='avocat' age='A' stat_amour='néant'>PATELIN</role>, avocat.</castItem>
-		<castItem><role id="MADAME-PATELIN" civil="F" type="H" statut='bourgeois' age='A' stat_amour='néant'>MADAME PATELIN</role>, sa femme.</castItem>
-		<castItem><role id="HENRIETTE" civil="F" type="H" statut='bourgeois' age='A' stat_amour='néant'>HENRIETTE</role>, leur fille.</castItem>
-		<castItem><role id="MONSIEUR-GUILLAUME" civil="M" type="H" statut='drapier' age='A' stat_amour='néant'>MONSIEUR GUILLAUME</role>, Marchand Drapier.</castItem>
-		<castItem><role id="VALÈRE" civil="M" type="H" statut='bourgeois' age='A' stat_amour='Henriette'>VALÈRE</role>, son fils, et Amant d'Henriette.</castItem>
-		<castItem><role id="COLETTE" civil="F" type="H" statut='servante' age='A' stat_amour='Agnelet'>COLETTE</role>, servante de Patelin, et fiancée à Agnelet.</castItem>
-		<castItem><role id="AGNELET" civil="M" type="H" statut='berger' age='A' stat_amour='Colette'>AGNELET</role>, berger de Guillaume, Amant de Colette.</castItem>
-		<castItem><role id="BARTOLIN" civil="M" type="H" statut='juge' age='A' stat_amour='néant'>BARTOLIN</role>, juge du lieu.</castItem>
-		<castItem><role id="UN-PAYSAN" civil="M" type="H" statut='paysan' age='A' stat_amour='néant'>UN PAYSAN</role>.</castItem>
-		<castItem><role id="DEUX-RECORDS" civil="G" type="H" statut='record' age='A' stat_amour='néant'>DEUX RECORDS</role>.</castItem>
+		<castItem><role id="PATELIN" sex="1" type="H" statut='avocat' age='A' stat_amour='néant'>PATELIN</role>, avocat.</castItem>
+		<castItem><role id="MADAME-PATELIN" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>MADAME PATELIN</role>, sa femme.</castItem>
+		<castItem><role id="HENRIETTE" sex="2" type="H" statut='bourgeois' age='J' stat_amour='néant'>HENRIETTE</role>, leur fille.</castItem>
+		<castItem><role id="MONSIEUR-GUILLAUME" sex="1" type="H" statut='drapier' age='A' stat_amour='néant'>MONSIEUR GUILLAUME</role>, Marchand Drapier.</castItem>
+		<castItem><role id="VALÈRE" sex="1" type="H" statut='bourgeois' age='J' stat_amour='Henriette'>VALÈRE</role>, son fils, et Amant d'Henriette.</castItem>
+		<castItem><role id="COLETTE" sex="2" type="H" statut='servante' age='A' stat_amour='Agnelet'>COLETTE</role>, servante de Patelin, et fiancée à Agnelet.</castItem>
+		<castItem><role id="AGNELET" sex="1" type="H" statut='berger' age='A' stat_amour='Colette'>AGNELET</role>, berger de Guillaume, Amant de Colette.</castItem>
+		<castItem><role id="BARTOLIN" sex="1" type="H" statut='juge' age='A' stat_amour='néant'>BARTOLIN</role>, juge du lieu.</castItem>
+		<castItem><role id="UN-PAYSAN" sex="1" type="H" statut='paysan' age='A' stat_amour='néant'>UN PAYSAN</role>.</castItem>
+		<castItem><role id="DEUX-RECORDS" sex="9" type="H" statut='record' age='A' stat_amour='néant'>DEUX RECORDS</role>.</castItem>
     </castList>
 	<set location='Village' country='France' periode='XVIIIème' link=''>La scène est dans un village. </set>
 </front>

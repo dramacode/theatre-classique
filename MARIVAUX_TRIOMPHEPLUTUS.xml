@@ -6,9 +6,10 @@
 			<title>LE TRIOMPHE DE PLUTUS, COMÉDIE</title>
 			<author born='1688' born_location='Auvergne' death='1763' death_location='Paris' academie='1743'>MARIVAUX</author>
 		</titleStmt>
-		<publicationStmp>
+		<publicationStmt>
 			<p>publié par Paul FIEVRE</p><p>Août 2007</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Comédie</genre>
 			<inspiration>mythe grec</inspiration>
@@ -39,13 +40,13 @@
 		</performance>
 
 	<castList><head>ACTEURS</head>
-		<castItem><role id="APOLLON" civil='M' type="D" statut='dieu' age='A' stat_amour='néant'>APOLLON</role>, sous le nom d'Ergaste.</castItem>
-		<castItem><role id="PLUTUS" civil='M' type="D" statut='dieu' age='A' stat_amour='néant'>PLUTUS</role>, sous le nom de Richard.</castItem>
-		<castItem><role id="ARMIDAS" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>ARMIDAS</role>, oncle d'Aminte.</castItem>
-		<castItem><role id="AMINTE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>AMINTE</role>, maîtresse d'Apollon et de Plutus.</castItem>
-		<castItem><role id="ARLEQUIN" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>ARLEQUIN</role>, valet d'Ergaste.</castItem>
-		<castItem><role id="SPINETTE" civil='F' type="H" statut='suivante' age='A' stat_amour='néant'>SPINETTE</role>, suivante d'Aminte.</castItem>
-		<castItem><role id="MUSICIEN" civil='M' type="H" statut='musicien' age='A' stat_amour='néant'>Un musicien</role> et sa suite.</castItem>
+		<castItem><role id="APOLLON" sex="1" type="D" statut='dieu' age='A' stat_amour='néant'>APOLLON</role>, sous le nom d'Ergaste.</castItem>
+		<castItem><role id="PLUTUS" sex="1" type="D" statut='dieu' age='A' stat_amour='néant'>PLUTUS</role>, sous le nom de Richard.</castItem>
+		<castItem><role id="ARMIDAS" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>ARMIDAS</role>, oncle d'Aminte.</castItem>
+		<castItem><role id="AMINTE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>AMINTE</role>, maîtresse d'Apollon et de Plutus.</castItem>
+		<castItem><role id="ARLEQUIN" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>ARLEQUIN</role>, valet d'Ergaste.</castItem>
+		<castItem><role id="SPINETTE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>SPINETTE</role>, suivante d'Aminte.</castItem>
+		<castItem><role id="MUSICIEN" sex="1" type="H" statut='musicien' age='A' stat_amour='néant'>Un musicien</role> et sa suite.</castItem>
        </castList>
 <set location='(non indiqué)' country='(non indiqué)' periode='Temps mythologiques' link=''>La scène est dans la maison d'Armidas.</set>
 </front> 

@@ -7,9 +7,10 @@
 			<author born='1639' born_location='La Ferté Millon' death='1699' death_location='Paris' academie='1673'>RACINE, Jean</author>
 			<date>1670</date>
 		</titleStmt>
-		<publicationStmp>	
+		<publicationStmt>	
 			<p>publié par Paul FIEVRE, Mai 2002, revu octobre 2011, revu mars 2014.</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire romaine</inspiration>
@@ -84,14 +85,14 @@
 	<p type='p'>Je la fais entrer dans les vestales, quoique, selon Aulu-Gelle, on n'y reçût jamais personne au-dessous de six ans ni au-dessus de dix. Mais le peuple prend ici Junie sous sa protection. Et j'ai cru qu'en considération de sa naissance, de sa vertu et de son malheur, il pouvait la dispenser de l'âge prescrit par les lois, comme il a dispensé de l'âge pour le consulat tant de grands hommes qui avaient mérité ce privilège.</p>
 	</div>		
 		<castList><head>ACTEURS</head>
-			<castItem><role id="NÉRON" civil='M' type="H" statut='empereur' age='A' stat_amour='Junie'>NÉRON</role>, empereur, fils d'Agrippine.</castItem>
-			<castItem><role id="BRITANNICUS" civil='M' type="H" statut='aristocrate' age='A' stat_amour='Junie'>BRITANNICUS</role>, fils de l'empereur Claudius.</castItem>
-			<castItem><role id="AGRIPPINE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>AGRIPPINE</role>, veuve de Domitius Enobarbus, père de Néron, et, en secondes noces, veuve de l'empereur Claudius.</castItem>
-			<castItem><role id="JUNIE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='Britannicus'>JUNIE</role>, amante de Britannicus.</castItem>
-			<castItem><role id="BURRHUS" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>BURRHUS</role>, gouverneur de Néron.</castItem>
-			<castItem><role id="NARCISSE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>NARCISSE</role>, gouverneur de Britannicus.</castItem>
-			<castItem><role id="ALBINE" civil='F' type="H" statut='confident' age='A' stat_amour='néant'>ALBINE</role>, confidente d'Agrippine.</castItem>
-			<castItem><role id="GARDES" civil='G' type="H" statut='garde' age='A' stat_amour='néant'>GARDES</role>.</castItem>
+			<castItem><role id="NÉRON" sex="1" type="H" statut='empereur' age='A' stat_amour='Junie'>NÉRON</role>, empereur, fils d'Agrippine.</castItem>
+			<castItem><role id="BRITANNICUS" sex="1" type="H" statut='aristocrate' age="J" stat_amour='Junie'>BRITANNICUS</role>, fils de l'empereur Claudius.</castItem>
+			<castItem><role id="AGRIPPINE" sex="2" type="H" statut='aristocrate' age='V' stat_amour='néant'>AGRIPPINE</role>, veuve de Domitius Enobarbus, père de Néron, et, en secondes noces, veuve de l'empereur Claudius.</castItem>
+			<castItem><role id="JUNIE" sex="2" type="H" statut='aristocrate' age="J" stat_amour='Britannicus'>JUNIE</role>, amante de Britannicus.</castItem>
+			<castItem><role id="BURRHUS" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>BURRHUS</role>, gouverneur de Néron.</castItem>
+			<castItem><role id="NARCISSE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>NARCISSE</role>, gouverneur de Britannicus.</castItem>
+			<castItem><role id="ALBINE" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>ALBINE</role>, confidente d'Agrippine.</castItem>
+			<castItem><role id="GARDES" sex="9" type="H" statut='garde' age='A' stat_amour='néant'>GARDES</role>.</castItem>
 		</castList>
 		<set location='Rome' country='Italie' periode='Ier' link=''>La scène est à Rome, dans une chambre du palais de Néron.</set>
 		<note>Le texte est celui de l'édition 1697.</note>

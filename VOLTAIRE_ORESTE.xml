@@ -7,9 +7,10 @@
 				<author born='1694' born_location='Paris' death='1778' death_location='Paris' academie=''>VOLTAIRE, François-Marie AROUET de</author>
 				<date>1743</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<authority>publié par Paul FIEVRE, juin 2011, revu mars 2014</authority>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>mythe grec</inspiration>
@@ -90,15 +91,15 @@
 
 	<castList>
 		<head>PERSONNAGES </head>
-		<castItem><role id='ORESTE' civil='M' type="H" statut='roi' age='A' stat_amour='néant'>ORESTE</role>, fils de Clytemnestre et d'Agamemnon.</castItem>
-		<castItem><role id='ÉLECTRE' civil='F' type="H" statut='prince' age='A' stat_amour='néant'>ÉLECTRE</role>, soeur d'Oreste.</castItem>
-		<castItem><role id='IPHISE' civil='F' type="H" statut='prince' age='A' stat_amour='néant'>IPHISE</role>, soeur d'Oreste.</castItem>
-		<castItem><role id='CLYTEMNESTRE' civil='F' type="H" statut='roi' age='A' stat_amour='néant'>CLYTEMNESTRE</role>, épouse d'Égisthe.</castItem>
-		<castItem><role id='ÉGISTHE' civil='M' type="H" statut='roi' age='A' stat_amour='néant'>ÉGISTHE</role>, tyran d'Argos.</castItem>
-		<castItem><role id='PYLADE' civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>PYLADE</role>, ami d'Oreste.</castItem>
-		<castItem><role id='PAMMÈNE' civil='M' type="H" statut='suivant' age='V' stat_amour='néant'>PAMMÈNE</role>, vieillard attaché à la famille d'Agamemnon.</castItem>
-		<castItem><role id='DIMAS' civil='M' type="H" statut='officier' age='A' stat_amour='néant'>DIMAS</role>, officier des gardes.</castItem>
-		<castItem><role id='SUITE' civil='M' type="H" statut='suite' age='A' stat_amour='néant'>SUITE</role>.</castItem>
+		<castItem><role id='ORESTE' sex="1" type="H" statut='roi' age='A' stat_amour='néant'>ORESTE</role>, fils de Clytemnestre et d'Agamemnon.</castItem>
+		<castItem><role id='ÉLECTRE' sex="2" type="H" statut='prince' age='A' stat_amour='néant'>ÉLECTRE</role>, soeur d'Oreste.</castItem>
+		<castItem><role id='IPHISE' sex="2" type="H" statut='prince' age='A' stat_amour='néant'>IPHISE</role>, soeur d'Oreste.</castItem>
+		<castItem><role id='CLYTEMNESTRE' sex="2" type="H" statut='roi' age='A' stat_amour='néant'>CLYTEMNESTRE</role>, épouse d'Égisthe.</castItem>
+		<castItem><role id='ÉGISTHE' sex="1" type="H" statut='roi' age='A' stat_amour='néant'>ÉGISTHE</role>, tyran d'Argos.</castItem>
+		<castItem><role id='PYLADE' sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>PYLADE</role>, ami d'Oreste.</castItem>
+		<castItem><role id='PAMMÈNE' sex="1" type="H" statut='suivant' age='V' stat_amour='néant'>PAMMÈNE</role>, vieillard attaché à la famille d'Agamemnon.</castItem>
+		<castItem><role id='DIMAS' sex="1" type="H" statut='officier' age='A' stat_amour='néant'>DIMAS</role>, officier des gardes.</castItem>
+		<castItem><role id='SUITE' sex="1" type="H" statut='suite' age='A' stat_amour='néant'>SUITE</role>.</castItem>
 	</castList>
 	<set location='Argos' country='Grèce' periode='Temps mythologiques' link=''>Le théâtre doit représenter le rivage de la mer ; un bois, un temple, un palais, et un tombeau, d'un côté ; et, de l'autre, Argos dans le lointain.</set>
 	<note>Le texte est celui de l'édition de 1750.</note>

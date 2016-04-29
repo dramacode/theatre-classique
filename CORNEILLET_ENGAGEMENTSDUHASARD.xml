@@ -7,9 +7,10 @@
 				<author born='1625' born_location='Rouen' death='1709' death_location='Les Andelys' academie='1685'>CORNEILLE, Thomas</author>
 				<date>1649</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Ernest FIEVRE février 2010, revu février 2014.f</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire anglaise</inspiration>
@@ -42,16 +43,16 @@
 			<premiere date='1649' location='(inconnue)'>Représenté pour la première fois en 1649.</premiere>
 		</performance>
 	<castList><head>ACTEURS.</head>
-		<castItem><role id="LEONEL" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>LEONEL</role>, père d'Isabelle.</castItem>
-		<castItem><role id="DON FELIX" civil='M' type="H" statut='aristocrate' age='A' stat_amour='Isabelle'>DON FÉLIX</role>, amant d'Isabelle.</castItem>
-		<castItem><role id="DON FADRIQUE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='Elvire'>DON FADRIQUE</role>, amant d'Elvire.</castItem>
-		<castItem><role id="DON CÉSAR" civil='M' type="H" statut='aristocrate' age='A' stat_amour='Isabelle'>DON CÉSAR</role>, amoureux d'Isabelle.</castItem>
-		<castItem><role id="ELVIRE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>ELVIRE</role>, sour de Don César.</castItem>
-		<castItem><role id="ISABELLE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>ISABELLE</role>, fille de Léonel.</castItem>
-		<castItem><role id="BÉATRIX" civil='F' type="H" statut='suivante' age='A' stat_amour='néant'>BÉATRIX</role>, suivante d'Isabelle.</castItem>
-		<castItem><role id="CÉLIE" civil='F' type="H" statut='suivante' age='A' stat_amour='néant'>CÉLIE</role>, suivante d'Elvire.</castItem>
-		<castItem><role id="ALONSE" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>ALONSE</role>, valet de Don Félix.</castItem>
-		<castItem><role id="CLARIN" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>CLARIN</role>, valet de Don Fadrique.</castItem>
+		<castItem><role id="LEONEL" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>LEONEL</role>, père d'Isabelle.</castItem>
+		<castItem><role id="DON FELIX" sex="1" type="H" statut='aristocrate' age='A' stat_amour='Isabelle'>DON FÉLIX</role>, amant d'Isabelle.</castItem>
+		<castItem><role id="DON FADRIQUE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='Elvire'>DON FADRIQUE</role>, amant d'Elvire.</castItem>
+		<castItem><role id="DON CÉSAR" sex="1" type="H" statut='aristocrate' age='A' stat_amour='Isabelle'>DON CÉSAR</role>, amoureux d'Isabelle.</castItem>
+		<castItem><role id="ELVIRE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>ELVIRE</role>, sour de Don César.</castItem>
+		<castItem><role id="ISABELLE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>ISABELLE</role>, fille de Léonel.</castItem>
+		<castItem><role id="BÉATRIX" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>BÉATRIX</role>, suivante d'Isabelle.</castItem>
+		<castItem><role id="CÉLIE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>CÉLIE</role>, suivante d'Elvire.</castItem>
+		<castItem><role id="ALONSE" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>ALONSE</role>, valet de Don Félix.</castItem>
+		<castItem><role id="CLARIN" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>CLARIN</role>, valet de Don Fadrique.</castItem>
 	</castList>
 	<set location='Madrid' country='Espagne' periode='(inconnue)' link=''>La Scène est à Madrid.</set>
 	</front>

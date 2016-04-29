@@ -6,9 +6,10 @@
 			<title>ARLEQUIN-PLUTON, COMÉDIE INÉDITE EN TROIS ACTES</title>
 			<author born='1683' born_location='Paris' death='1766' death_location='Charenton' academie=''>GUEULLETTE, Thomas-Simon</author>
 		</titleStmt>
-		<publicationStmp>
+		<publicationStmt>
 			<p>publié par Paul FIEVRE décembre 2013</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Comédie</genre>
 			<inspiration>mythe grec</inspiration>
@@ -90,31 +91,31 @@
 		</div>
 		
 		<castList><head>ACTEURS</head>
-		<castItem><role id="PLUTON" civil="M" type="D" statut='dieu' age='A' stat_amour='proserpine'>PLUTON</role>. - Dominique.</castItem>
-		<castItem><role id="PROSERPINE" civil="F" type="D" statut='dieu' age='A' stat_amour='(néant)'>PROSERPINE</role>. - Lalande.</castItem> 
-		<castItem><role id="PANTALON" civil="M" type="H" statut='bourgeois' age='A' stat_amour='(néant)'>PANTALON</role>. </castItem>
-		<castItem><role id="VIOLETTE" civil="M" type="H" statut='bourgeois' age='A' stat_amour='(néant)'>VIOLETTE</role>, file de Pantalon - Catherine. </castItem>
-		<castItem><role id="ROSETTE" civil="F" type="H" statut='bourgeois' age='A' stat_amour='(néant)'>ROSETTE</role>, file de Pantalon - Babiche. </castItem>
-		<castItem><role id="ARELQUIN" civil="M" type="H" statut='bourgeois' age='A' stat_amour='(néant)'>ARLEQUIN</role>. </castItem>
-		<castItem><role id="SILVIA" civil="F" type="H" statut='bourgeois' age='A' stat_amour='(néant)'>SILVIA</role>, nièce de Pantalon.</castItem>
-		<castItem><role id="CINTHIO" civil="M" type="H" statut='bourgeois' age='A' stat_amour='(néant)'>CINTHIO</role>, amant de Silvia - Romagnesi.</castItem> 
-		<castItem><role id="PASQUIN" civil="M" type="H" statut='valet' age='A' stat_amour='(néant)'>PASQUIN</role>, valet de Pantalon - Pagheti. </castItem>
-		<castItem><role id="SCARAMOUCHE" civil="M" type="H" statut='bourgeois' age='A' stat_amour='(néant)'>SCARAMOUCHE</role>. </castItem>
-		<castItem><role id="MERCURE" civil="M" type="D" statut='dieu' age='A' stat_amour='(néant)'>MERCURE</role>. - Mario. </castItem>
-		<castItem><role id="CARON" civil="M" type="D" statut='dieu' age='A' stat_amour='(néant)'>CARON</role>. - Scaramouche. </castItem>
-		<castItem><role id="PETIT ARLEQUIN" civil="M" type="H" statut='bourgeois' age='E' stat_amour='(néant)'>UN PETIT ARLEQUIN</role>. </castItem>
-		<castItem><role id="PETITE ARLEQUINE" civil="F" type="H" statut='bourgeois' age='E' stat_amour='(néant)'>UNE PETITE ARLEQUINE</role>. </castItem>		
+		<castItem><role id="PLUTON" sex="1" type="D" statut='dieu' age='A' stat_amour='proserpine'>PLUTON</role>. - Dominique.</castItem>
+		<castItem><role id="PROSERPINE" sex="2" type="D" statut='dieu' age='A' stat_amour='(néant)'>PROSERPINE</role>. - Lalande.</castItem> 
+		<castItem><role id="PANTALON" sex="1" type="H" statut='bourgeois' age='A' stat_amour='(néant)'>PANTALON</role>. </castItem>
+		<castItem><role id="VIOLETTE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='(néant)'>VIOLETTE</role>, file de Pantalon - Catherine. </castItem>
+		<castItem><role id="ROSETTE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='(néant)'>ROSETTE</role>, file de Pantalon - Babiche. </castItem>
+		<castItem><role id="ARELQUIN" sex="1" type="H" statut='bourgeois' age='A' stat_amour='(néant)'>ARLEQUIN</role>. </castItem>
+		<castItem><role id="SILVIA" sex="2" type="H" statut='bourgeois' age='A' stat_amour='(néant)'>SILVIA</role>, nièce de Pantalon.</castItem>
+		<castItem><role id="CINTHIO" sex="1" type="H" statut='bourgeois' age='A' stat_amour='(néant)'>CINTHIO</role>, amant de Silvia - Romagnesi.</castItem> 
+		<castItem><role id="PASQUIN" sex="1" type="H" statut='valet' age='A' stat_amour='(néant)'>PASQUIN</role>, valet de Pantalon - Pagheti. </castItem>
+		<castItem><role id="SCARAMOUCHE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='(néant)'>SCARAMOUCHE</role>. </castItem>
+		<castItem><role id="MERCURE" sex="1" type="D" statut='dieu' age='A' stat_amour='(néant)'>MERCURE</role>. - Mario. </castItem>
+		<castItem><role id="CARON" sex="1" type="D" statut='dieu' age='A' stat_amour='(néant)'>CARON</role>. - Scaramouche. </castItem>
+		<castItem><role id="PETIT ARLEQUIN" sex="1" type="H" statut='bourgeois' age='E' stat_amour='(néant)'>UN PETIT ARLEQUIN</role>. </castItem>
+		<castItem><role id="PETITE ARLEQUINE" sex="2" type="H" statut='bourgeois' age='E' stat_amour='(néant)'>UNE PETITE ARLEQUINE</role>. </castItem>		
 		</castList>
 		
 		<castList><head>OMBRES</head>
-		<castItem><role id="MATHANASIUS" civil="M" type="H" statut='bourgeois' age='A' stat_amour='(néant)'>MATHANASIUS</role>. - Pagheti. </castItem>
-		<castItem><role id="FEMME DE BEL-ESPRIT" civil="F" type="H" statut='bourgeois' age='A' stat_amour='(néant)'>UNE FEMME BEL-ESPRIT</role>. - Belmont. </castItem>
-		<castItem><role id="COMMEDIENNE" civil="F" type="H" statut='comédien' age='A' stat_amour='(néant)'>UNE COMEDIENNE</role>. - Silvia. </castItem>
-		<castItem><role id="AUBERGISTE" civil="M" type="H" statut='comédien' age='A' stat_amour='(néant)'>UN AUBERGISTE</role>. - Pagheti. </castItem>
-		<castItem><role id="UN SUISSE" civil="M" type="H" statut='suisse' age='A' stat_amour='(néant)'>UN SUISSE</role>. - Romagnesi. </castItem>
-		<castItem><role id="DIABLES" civil="M" type="H" statut='diable' age='A' stat_amour='(néant)'>DIABLES</role>. </castItem>
-		<castItem><role id="PAYSANS" civil="G" type="H" statut='paysan' age='A' stat_amour='(néant)'>PAYSANS</role>.</castItem>
-		<castItem><role id="PAYSANNES" civil="G" type="H" statut='paysan' age='A' stat_amour='(néant)'>PAYSANNES</role>. </castItem>
+		<castItem><role id="MATHANASIUS" sex="1" type="H" statut='bourgeois' age='A' stat_amour='(néant)'>MATHANASIUS</role>. - Pagheti. </castItem>
+		<castItem><role id="FEMME DE BEL-ESPRIT" sex="2" type="H" statut='bourgeois' age='A' stat_amour='(néant)'>UNE FEMME BEL-ESPRIT</role>. - Belmont. </castItem>
+		<castItem><role id="COMMEDIENNE" sex="2" type="H" statut='comédien' age='A' stat_amour='(néant)'>UNE COMEDIENNE</role>. - Silvia. </castItem>
+		<castItem><role id="AUBERGISTE" sex="1" type="H" statut='comédien' age='A' stat_amour='(néant)'>UN AUBERGISTE</role>. - Pagheti. </castItem>
+		<castItem><role id="UN SUISSE" sex="1" type="H" statut='suisse' age='A' stat_amour='(néant)'>UN SUISSE</role>. - Romagnesi. </castItem>
+		<castItem><role id="DIABLES" sex="1" type="H" statut='diable' age='A' stat_amour='(néant)'>DIABLES</role>. </castItem>
+		<castItem><role id="PAYSANS" sex="9" type="H" statut='paysan' age='A' stat_amour='(néant)'>PAYSANS</role>.</castItem>
+		<castItem><role id="PAYSANNES" sex="9" type="H" statut='paysan' age='A' stat_amour='(néant)'>PAYSANNES</role>. </castItem>
 		</castList>
 		
 		<set location='Sicile' country='Italie' periode='XVIIIème' link=''>La scène est en Sicile, partie sur terre et partie aux enfers.</set>

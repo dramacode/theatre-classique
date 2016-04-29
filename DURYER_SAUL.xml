@@ -7,9 +7,10 @@
 				<author born='1605' born_location='Paris' death='1658' death_location='Paris' academie=''>DU RYER, Pierre</author>
 				<date>1642</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<authority>publié par Ernest FIEVRE, janvier 2009</authority>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>bible</inspiration>
@@ -46,15 +47,15 @@
 			<premiere date="1640" location='(inconnue)'>Représenté par la première fois en 1640.</premiere>
 		</performance>
 <castList><head>ACTEURS.</head>
-	<castItem><role id="SAÜL" civil='M' type="H" statut='roi' age='A' stat_amour='néant'>SAÜL</role>, roi de Judée.</castItem>
-	<castItem><role id="JONATHAS" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>JONATHAS</role>, fils de Saül.</castItem>
-	<castItem><role id="MICHOL" civil='F' type="H" statut='prince' age='A' stat_amour='néant'>MICHOL</role>, fille de Saül.</castItem>
-	<castItem><role id="ABNER" civil='M' type="H" statut='aristocarte' age='A' stat_amour='néant'>ABNER</role>.</castItem>
-	<castItem><role id="PHALTI" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>PHALTI</role>.</castItem>
-	<castItem><role id="LA-PYTHONISSE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>LA PYTHONISSE</role>.</castItem>
-	<castItem><role id="L-OMBRE" civil='P' type="H" statut='fantôme' age='A' stat_amour='néant'>L'OMBRE</role>de Samuel.</castItem>
-	<castItem><role id="ACHAS" civil='M' type="H" statut='écuyer' age='A' stat_amour='néant'>ACHAS</role>, écuyer de Jonathas.</castItem>
-	<castItem><role id="ÉCUYER-SAUL" civil='M' type="H" statut='écuyer' age='A' stat_amour='néant'>L'ÉCUYER de Saül</role>.</castItem>
+	<castItem><role id="SAÜL" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>SAÜL</role>, roi de Judée.</castItem>
+	<castItem><role id="JONATHAS" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>JONATHAS</role>, fils de Saül.</castItem>
+	<castItem><role id="MICHOL" sex="2" type="H" statut='prince' age='A' stat_amour='néant'>MICHOL</role>, fille de Saül.</castItem>
+	<castItem><role id="ABNER" sex="1" type="H" statut='aristocarte' age='A' stat_amour='néant'>ABNER</role>.</castItem>
+	<castItem><role id="PHALTI" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>PHALTI</role>.</castItem>
+	<castItem><role id="LA-PYTHONISSE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>LA PYTHONISSE</role>.</castItem>
+	<castItem><role id="L-OMBRE" sex='9' type="H" statut='onbre' age='A' stat_amour='néant'>L'OMBRE de Samuel</role>.</castItem>
+	<castItem><role id="ACHAS" sex="1" type="H" statut='écuyer' age='A' stat_amour='néant'>ACHAS</role>, écuyer de Jonathas.</castItem>
+	<castItem><role id="ÉCUYER DE SAUL" sex="1" type="H" statut='écuyer' age='A' stat_amour='néant'>L'ÉCUYER de Saül</role>.</castItem>
 </castList>
 <set location='Environ du Mont de Gelboé' country='Israël' periode='Temps bibliques' link=''>La Scène est aux environs du Mont de Gelboé, en Judée.</set>
 </front>

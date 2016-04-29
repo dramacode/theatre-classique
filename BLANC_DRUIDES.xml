@@ -6,9 +6,10 @@
 				<title>LES DRUIDES, TRAGÉDIE.</title>
 				<author born='1730' born_location='' death='1799' death_location='' academie=''>BLANC, Marc Antoine</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, novembre 2014</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire française</inspiration>
@@ -43,22 +44,22 @@
 			<premiere date='1772-03-03' location='Théatre Français'>Représentée pour la première fois sur le Théâtre Français le 7 Mars 1772.</premiere>
 		</performance>
 	<castList><head>ACTEURS.</head>
-		<castItem><role id="CYNDONAX" civil='M' type="H" statut='druide' age='A' stat_amour='néant'>CYNDONAX</role>, grand Druide des Gaules.</castItem>
-		<castItem><role id="EMNON" civil='M' type="H" statut='druide' age='A' stat_amour='néant'>EMNON</role>, premier Druide des Carnutes.</castItem>
-		<castItem><role id="INDUMAR" civil='M' type="H" statut='roi' age='A' stat_amour='néant'>INDUMAR</role>, Roi des Carnutes.</castItem>
-		<castItem><role id="ÉMIRÈNE" civil='F' type="H" statut='prince' age='A' stat_amour='néant'>ÉMIRÈNE</role>, fille d'Indumar.</castItem>
-		<castItem><role id="CLODOMIR" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>CLODOMIR</role>, Prince du Sang Royal.</castItem>
-		<castItem><role id="AXÉNOÉ" civil='F' type="H" statut='duc' age='A' stat_amour='néant'>AXÉNOÉ</role>, première Druidesse du Temple.</castItem>
-		<castItem><role id="LUTHAR" civil='M' type="H" statut='druide' age='A' stat_amour='néant'>LUTHAR</role>, Druide attaché à Emnon.</castItem>
-		<castItem><role id="VARSORIX" civil='M' type="H" statut='druide' age='A' stat_amour='néant'>VARSORIX</role>, Druide attaché à Cyndonax, (Personnage muet.)</castItem>
-		<castItem><role id="DRUIDES" civil='G' type="H" statut='druide' age='A' stat_amour='néant'>DRUIDES</role>.</castItem>
-		<castItem><role id="DRUIDESSES" civil='G' type="H" statut='druide' age='A' stat_amour='néant'>DRUIDESSES</role>.</castItem>
-		<castItem><role id="BARDES" civil='G' type="H" statut='musicien' age='A' stat_amour='néant'>BARDES</role>.</castItem>
-		<castItem><role id="EUBAGES" civil='G' type="H" statut='' age='A' stat_amour='néant'>EUBAGES</role>.</castItem>
-		<castItem><role id="SATELLITES DU TEMPLE" civil='G' type="H" statut='religieux' age='A' stat_amour='néant'>SATELLITES DU TEMPLE</role>.</castItem>
-		<castItem><role id="CHEF DES GAULOIS" civil='G' type="H" statut='chef de tribu' age='A' stat_amour='néant'>CHEFS DES GAULOIS</role>.</castItem>
-		<castItem><role id="GARDES" civil='G' type="H" statut='garde' age='A' stat_amour='néant'>GARDES</role>.</castItem>
-		<castItem><role id="PEUPLE" civil='G' type="H" statut='peuple' age='A' stat_amour='néant'>PEUPLE</role>, etc.</castItem>
+		<castItem><role id="CYNDONAX" sex="1" type="H" statut='druide' age='A' stat_amour='néant'>CYNDONAX</role>, grand Druide des Gaules.</castItem>
+		<castItem><role id="EMNON" sex="1" type="H" statut='druide' age='A' stat_amour='néant'>EMNON</role>, premier Druide des Carnutes.</castItem>
+		<castItem><role id="INDUMAR" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>INDUMAR</role>, Roi des Carnutes.</castItem>
+		<castItem><role id="ÉMIRÈNE" sex="2" type="H" statut='prince' age='J' stat_amour='néant'>ÉMIRÈNE</role>, fille d'Indumar.</castItem>
+		<castItem><role id="CLODOMIR" sex="1" type="H" statut='prince' age='J' stat_amour='néant'>CLODOMIR</role>, Prince du Sang Royal.</castItem>
+		<castItem><role id="AXÉNOÉ" sex="2" type="H" statut='duc' age='A' stat_amour='néant'>AXÉNOÉ</role>, première Druidesse du Temple.</castItem>
+		<castItem><role id="LUTHAR" sex="1" type="H" statut='druide' age='A' stat_amour='néant'>LUTHAR</role>, Druide attaché à Emnon.</castItem>
+		<castItem><role id="VARSORIX" sex="1" type="H" statut='druide' age='A' stat_amour='néant'>VARSORIX</role>, Druide attaché à Cyndonax, (Personnage muet.)</castItem>
+		<castItem><role id="DRUIDES" sex="9" type="H" statut='druide' age='A' stat_amour='néant'>DRUIDES</role>.</castItem>
+		<castItem><role id="DRUIDESSES" sex="9" type="H" statut='druide' age='A' stat_amour='néant'>DRUIDESSES</role>.</castItem>
+		<castItem><role id="BARDES" sex="9" type="H" statut='musicien' age='A' stat_amour='néant'>BARDES</role>.</castItem>
+		<castItem><role id="EUBAGES" sex="9" type="H" statut='' age='A' stat_amour='néant'>EUBAGES</role>.</castItem>
+		<castItem><role id="SATELLITES DU TEMPLE" sex="9" type="H" statut='religieux' age='A' stat_amour='néant'>SATELLITES DU TEMPLE</role>.</castItem>
+		<castItem><role id="CHEF DES GAULOIS" sex="9" type="H" statut='chef de tribu' age='A' stat_amour='néant'>CHEFS DES GAULOIS</role>.</castItem>
+		<castItem><role id="GARDES" sex="9" type="H" statut='garde' age='A' stat_amour='néant'>GARDES</role>.</castItem>
+		<castItem><role id="PEUPLE" sex="9" type="H" statut='peuple' age='A' stat_amour='néant'>PEUPLE</role>, etc.</castItem>
 	</castList>
 <set location="Ile d'Ithaque" country='Grèce' periode='Temps mythologiques' link=''>La Scène est chez les Carnutes dans un bois sacré bordé par la Seine, lequel était le plus célèbre Temple de la Gaule.</set>
 </front>

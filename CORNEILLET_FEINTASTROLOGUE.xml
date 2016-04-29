@@ -7,10 +7,11 @@
 				<author born='1625' born_location='Rouen' death='1709' death_location='Les Andelys' academie='1685'>CORNEILLE, Thomas</author>
 				<date>1636</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<editor>Texte établi par Émilie DURUISSEAU Mémoire de Maîtrise en Littérature Française sous la direction de Georges FORESTIER. (Année 2003 - 2004)</editor>
 				<publisher>publié par Paul FIEVRE, Mars 2008, revu octobre 2014</publisher>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -52,17 +53,17 @@
 			<premiere date='1648' location='Hôtel de Bourgogne'>Représenté pour la première fois en 1648 au Théâtre de l'Hôtel de Bourgogne.</premiere>
 		</performance>
 		<castList><head>ACTEURS</head>
-		<castItem><role id="LÉONARD" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>LÉONARD</role>, père de Lucrèce.</castItem>
-		<castItem><role id="DON JUAN" civil='M' type="H" statut='aristocrate' age='A' stat_amour='amoureux'>DON JUAN</role>, amant de Lucrèce, et aimé de Léonor.</castItem>
-		<castItem><role id="DON FERNAND" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>DON FERNAND</role>.</castItem>		
-		<castItem><role id="DON LOPE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='amoureux'>DON LOPE</role>, amoureux de Léonor.</castItem>
-		<castItem><role id="DON-LOUIS" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>DON LOUIS</role>, ami de Don Fernand et de Don Lope.</castItem>
-		<castItem><role id="LUCRECE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='amoureux'>LUCRÈCE</role>, maîtresse de Don Juan.</castItem>
-		<castItem><role id="LÉONOR" civil='F' type="H" statut='aristocrate' age='A' stat_amour='amoureux'>LÉONOR</role>, amoureuse de Don Juan et aimée de Don Lope. </castItem>
-		<castItem><role id="BÉATRIX" civil='F' type="H" statut='servante' age='A' stat_amour='néant'>BÉATRIX</role>, servante de Lucrèce.</castItem>
-		<castItem><role id="JACINTE" civil='F' type="H" statut='suivante' age='A' stat_amour='néant'>JACINTE</role>, suivante de Léonor.</castItem>
-		<castItem><role id="MENDOCE" civil='M' type="H" statut='domestique' age='V' stat_amour='néant'>MENDOCE</role>, vieux domestique de Léonard.</castItem>
-		<castItem><role id="PHILIPIN" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>PHILIPIN</role>, valet de Don Fernand.</castItem>		
+		<castItem><role id="LÉONARD" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>LÉONARD</role>, père de Lucrèce.</castItem>
+		<castItem><role id="DON JUAN" sex="1" type="H" statut='aristocrate' age='A' stat_amour='amoureux'>DON JUAN</role>, amant de Lucrèce, et aimé de Léonor.</castItem>
+		<castItem><role id="DON FERNAND" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>DON FERNAND</role>.</castItem>		
+		<castItem><role id="DON LOPE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='amoureux'>DON LOPE</role>, amoureux de Léonor.</castItem>
+		<castItem><role id="DON-LOUIS" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>DON LOUIS</role>, ami de Don Fernand et de Don Lope.</castItem>
+		<castItem><role id="LUCRECE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='amoureux'>LUCRÈCE</role>, maîtresse de Don Juan.</castItem>
+		<castItem><role id="LÉONOR" sex="2" type="H" statut='aristocrate' age='A' stat_amour='amoureux'>LÉONOR</role>, amoureuse de Don Juan et aimée de Don Lope. </castItem>
+		<castItem><role id="BÉATRIX" sex="2" type="H" statut='servante' age='A' stat_amour='néant'>BÉATRIX</role>, servante de Lucrèce.</castItem>
+		<castItem><role id="JACINTE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>JACINTE</role>, suivante de Léonor.</castItem>
+		<castItem><role id="MENDOCE" sex="1" type="H" statut='domestique' age='V' stat_amour='néant'>MENDOCE</role>, vieux domestique de Léonard.</castItem>
+		<castItem><role id="PHILIPIN" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>PHILIPIN</role>, valet de Don Fernand.</castItem>		
 	</castList>
 	<set location='Madrid' country='Espagne' periode='XVIIème' link=''>La scène est à Madrid. </set>
 </front>

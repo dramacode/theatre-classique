@@ -7,9 +7,10 @@
 				<author born='1606' born_location='Rouen' death='1684' death_location='Paris' academie='1647'>CORNEILLE, Pierre</author>
 				<date>1645</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE</p><p>Mai 2006</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -43,13 +44,13 @@
 		</performance>
 		<castList>
 			<head>ACTEURS</head>
-			<castItem><role id="DORANTE" civil="M" type="H" statut='aristocrate' age='A' stat_amour='néant'>DORANTE</role>.</castItem>
-			<castItem><role id="CLITON" civil="M" type="H" statut='valet' age='A' stat_amour='néant'>CLITON</role>, valet de Dorante.</castItem>
-			<castItem><role id="CLÉANDRE" civil="M" type="H" statut='aristocrate' age='A' stat_amour='néant'>CLÉANDRE</role>, gentilhomme de Lyon.</castItem>
-			<castItem><role id="MÉLISSE" civil="F" type="H" statut='aristocrate' age='A' stat_amour='néant'>MÉLISSE</role>, soeur de Cléandre.</castItem>
-			<castItem><role id="PHILISTE" civil="M" type="H" statut='aristocrate' age='A' stat_amour='néant'>PHILISTE</role>, ami de Dorante et amoureux de Mélisse.</castItem>
-			<castItem><role id="LYSE" civil="F" type="H" statut='femme de chambre' age='A' stat_amour='néant'>LYSE</role>, femme de chambre de Mélisse.</castItem>
-			<castItem><role id="PREVOT" civil="M" type="H" statut='prévôt' age='A' stat_amour='néant'>UN PRÉVÔT</role>.</castItem>
+			<castItem><role id="DORANTE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>DORANTE</role>.</castItem>
+			<castItem><role id="CLITON" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>CLITON</role>, valet de Dorante.</castItem>
+			<castItem><role id="CLÉANDRE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>CLÉANDRE</role>, gentilhomme de Lyon.</castItem>
+			<castItem><role id="MÉLISSE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>MÉLISSE</role>, soeur de Cléandre.</castItem>
+			<castItem><role id="PHILISTE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>PHILISTE</role>, ami de Dorante et amoureux de Mélisse.</castItem>
+			<castItem><role id="LYSE" sex="2" type="H" statut='femme de chambre' age='A' stat_amour='néant'>LYSE</role>, femme de chambre de Mélisse.</castItem>
+			<castItem><role id="PREVOT" sex="1" type="H" statut='prévôt' age='A' stat_amour='néant'>UN PRÉVÔT</role>.</castItem>
 		</castList>
 		<set location='Lyon' country='France' periode='XVIIème' link=''>La scène est à Lyon.</set>
 	</front>

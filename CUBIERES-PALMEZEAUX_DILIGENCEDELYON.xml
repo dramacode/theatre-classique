@@ -6,9 +6,10 @@
 				<title>LA DILIGENCE DE LYON, COMÉDIE</title>
 				<author born='1752' born_location='Gard' death='1820' death_location='Paris' academie=''>CUBIÈRES-PALMÉZEAUX, Michel de</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, janvier 2016</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -46,19 +47,19 @@
 			<premiere location="Théâtre du Palais-Royal" date='1777-01-19'>Représentée au Palais-Royal le 19 Janvier, par les Comédiens de S.A.S Monseigneur le Comte de Beaujolais, pour l'ouverture de leur Théâtre.</premiere>
 		</performance>
 	<castList><head>PERSONNAGES.</head>
-		<castItem><role id="LE PRINCE SALVATOR" civil="M" type="H" statut='prince' age='A' stat_amour=''>LE PRINCE SALVATOR</role>.</castItem>
-		<castItem><role id="MILADY SEMOURS" civil="F" type="H" statut='aristocrate' age='A' stat_amour=''>MILADY SEMOURS</role>.</castItem>
-		<castItem><role id="MILORD BRUMTON" civil="M" type="H" statut='aristocrate' age='A' stat_amour=''>MILORD BRUMTON</role>.</castItem>
-		<castItem><role id="MORON" civil="M" type="H" statut='écuyer' age='A' stat_amour=''>MORON</role>, écuyer du Prince.</castItem>
-		<castItem><role id="UN MAÎTRE D'HOTEL" civil="M" type="H" statut='commerçant' age='A' stat_amour=''>UN MAÎTRE D'HOTEL</role>.</castItem>
-		<castItem><role id="UN COIFFEUR" civil="M" type="H" statut='coiffeur' age='A' stat_amour=''>UN COIFFEUR</role>.</castItem>
-		<castItem><role id="UN TAILLEUR" civil="M" type="H" statut='tailleur' age='A' stat_amour=''>UN TAILLEUR</role>.</castItem>
-		<castItem><role id="LA PRÉSIDENTE DE TONANVILLE" civil="F" type="H" statut='président' age='A' stat_amour=''>LA PRÉSIDENTE DE TONANVILLE</role>.</castItem>
-		<castItem><role id="MADEMOISELLE POUF" civil="F" type="H" statut='commerçante' age='A' stat_amour=''>MADEMOISELLE POUF</role>, Marchande de Modes.</castItem>
-		<castItem><role id="L'HOTESSE" civil="F" type="H" statut='commmerçante' age='A' stat_amour=''>L'HOTESSE</role>.</castItem>
-		<castItem><role id="UNE SERVANTE" civil="F" type="H" statut='servante' age='A' stat_amour=''>UNE SERVANTE</role>.</castItem>
-		<castItem><role id="PLUSIEURS OFFICIERS DE JUSTICE" civil="G" type="H" statut='officier' age='A' stat_amour=''>PLUSIEURS OFFICIERS DE JUSTICE</role>.</castItem>
-		<castItem><role id="UN NOTAIRE" civil="M" type="H" statut='notaire' age='A' stat_amour=''>UN NOTAIRE</role>.</castItem>
+		<castItem><role id="LE PRINCE SALVATOR" sex="1" type="H" statut='prince' age='A' stat_amour=''>LE PRINCE SALVATOR</role>.</castItem>
+		<castItem><role id="MILADY SEMOURS" sex="2" type="H" statut='aristocrate' age='A' stat_amour=''>MILADY SEMOURS</role>.</castItem>
+		<castItem><role id="MILORD BRUMTON" sex="1" type="H" statut='aristocrate' age='A' stat_amour=''>MILORD BRUMTON</role>.</castItem>
+		<castItem><role id="MORON" sex="1" type="H" statut='écuyer' age='A' stat_amour=''>MORON</role>, écuyer du Prince.</castItem>
+		<castItem><role id="UN MAÎTRE D'HOTEL" sex="1" type="H" statut='commerçant' age='A' stat_amour=''>UN MAÎTRE D'HOTEL</role>.</castItem>
+		<castItem><role id="UN COIFFEUR" sex="1" type="H" statut='coiffeur' age='A' stat_amour=''>UN COIFFEUR</role>.</castItem>
+		<castItem><role id="UN TAILLEUR" sex="1" type="H" statut='tailleur' age='A' stat_amour=''>UN TAILLEUR</role>.</castItem>
+		<castItem><role id="LA PRÉSIDENTE DE TONANVILLE" sex="2" type="H" statut='président' age='A' stat_amour=''>LA PRÉSIDENTE DE TONANVILLE</role>.</castItem>
+		<castItem><role id="MADEMOISELLE POUF" sex="2" type="H" statut='commerçante' age='A' stat_amour=''>MADEMOISELLE POUF</role>, Marchande de Modes.</castItem>
+		<castItem><role id="L'HOTESSE" sex="2" type="H" statut='commmerçante' age='A' stat_amour=''>L'HOTESSE</role>.</castItem>
+		<castItem><role id="UNE SERVANTE" sex="2" type="H" statut='servante' age='A' stat_amour=''>UNE SERVANTE</role>.</castItem>
+		<castItem><role id="PLUSIEURS OFFICIERS DE JUSTICE" sex="9" type="H" statut='officier' age='A' stat_amour=''>PLUSIEURS OFFICIERS DE JUSTICE</role>.</castItem>
+		<castItem><role id="UN NOTAIRE" sex="1" type="H" statut='notaire' age='A' stat_amour=''>UN NOTAIRE</role>.</castItem>
 	</castList>
 		<set location='France' country='France' periode='XVIIIème' link=''>La Scène est dans une Auberge de Village.</set>
 </front>
@@ -2407,7 +2408,7 @@ avec une serviette sur le bras et debout.</head>
 </p>
 </sp>
 <sp who="LA PRÉSIDENTE"><speaker>LA PRÉSIDENTE.</speaker>
-<note type="">Acquêts : Terme de jurisprudence. Chose acquise par donation ou testament. Biens acquis pendant le mariage par l'un ou l'autre des époux et qui tombent dans la communauté ; par opposition à propres, ceux qui ne tombent pas dans la communauté. [L]</note>
+<note type="L">Acquêts : Terme de jurisprudence. Chose acquise par donation ou testament. Biens acquis pendant le mariage par l'un ou l'autre des époux et qui tombent dans la communauté ; par opposition à propres, ceux qui ne tombent pas dans la communauté. [L]</note>
 <p id="10">
 	<s id="1">Vous n'avez-pas encore te droit de posséder, mon cher Capitaine ; attendez que le Notaire vous ait donné cette puissance ; et alors, meubles et immeubles, acquêts et conquêtes, tout vous appartiendra, mon cher Capitaine.</s>
 </p>
@@ -3779,7 +3780,7 @@ LE </sp>
 </p>
 </sp>
 <sp who='UN OFFICIER DE JUSTICE'><speaker>UN OFFICIER DE JUSTICE.</speaker>
-<note type="">Testis unus, testis nullus : locution latine, en droit ancien : un seul témoignage n'a pas de valeur.</note>
+<note type="L">Testis unus, testis nullus : locution latine, en droit ancien : un seul témoignage n'a pas de valeur.</note>
 <p id='38'>
 	<s id='1'>Modérez-vous, Madame la Présidente, modérez-vous. </s>
 	<s id='2'>La Justice, vous ne l'ignorez-pas, doit peser mûrement les choses, avant que d'en venir à des voies de fait. Pour prouver que ces Messieurs sont des malfaiteurs, il n'y a que votre délation, et elle n'est pas suffisante ; vous savez la Loi, Madame ; testis unus, testis nullus.</s>

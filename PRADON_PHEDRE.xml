@@ -7,9 +7,10 @@
 				<author born='1632' born_location='Rouen' death='1698' death_location='Paris' academie=''>PRADON, Nicolas</author>
 				<date>1677</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, Mai 2006, revu Février 2015.</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>mythe grec</inspiration>
@@ -62,15 +63,15 @@
 			<p>Au reste je ne doute point que l'on ne trouve quelques fautes dans cette pièce, dont les vers ne m'ont coûté que trois mois, puisqu'on en trouve bien dans celles qu'on a été deux ans à travailler et à polir.</p>
 		</div>
                   <castList><head>ACTEURS</head>
-			<castItem><role id="THÉSÉE" civil='M' type="H" statut="roi" age="A" stat_amour='néant'>THÉSÉE</role>, Roi d'Athènes.</castItem>
-			<castItem><role id="PHÈDRE" civil='F' type="H" statut="roi" age="A" stat_amour='néant'>PHÈDRE</role>, fille de Minos et de Pasiphaé, enlevée par Thésée.</castItem>
-			<castItem><role id="HIPPOLYTE" civil='M' type="H" statut="prince" age="A" stat_amour='néant'>HIPPOLYTE</role>, fils de Thésée et d'Antiope, reine des Amazones.</castItem>
-			<castItem><role id="ARICIE" civil='F' type="H" statut="prince" age="A" stat_amour='néant'>ARICIE</role>, princesse de la contrée d'Attique.</castItem>
-			<castItem><role id="IDAS" civil='M' type="H" statut="gouverneur" age="A" stat_amour='néant'>IDAS</role>, gouverneur d'Hippolyte.</castItem>
-			<castItem><role id="ARCAS" civil='M' type="H" statut="confident" age="A" stat_amour='néant'>ARCAS</role>, confident de Thésée.</castItem>
-			<castItem><role id="CLÉONE" civil='F' type="H" statut="confident" age="A" stat_amour='néant'>CLÉONE</role>, confidente d'Aricie.</castItem>
-			<castItem><role id="MÉGISTE" civil='F' type="H" statut="suite" age="A" stat_amour='néant'>MÉGISTE</role>, femme de la suite de Phèdre.</castItem>
-			<castItem><role id="GARDES" civil='G' type="H" statut="garde" age="A" stat_amour='néant'>GARDES</role>.</castItem>
+			<castItem><role id="THÉSÉE" sex="1" type="H" statut="roi" age="A" stat_amour='néant'>THÉSÉE</role>, Roi d'Athènes.</castItem>
+			<castItem><role id="PHÈDRE" sex="2" type="H" statut="roi" age="A" stat_amour='néant'>PHÈDRE</role>, fille de Minos et de Pasiphaé, enlevée par Thésée.</castItem>
+			<castItem><role id="HIPPOLYTE" sex="1" type="H" statut="prince" age="A" stat_amour='néant'>HIPPOLYTE</role>, fils de Thésée et d'Antiope, reine des Amazones.</castItem>
+			<castItem><role id="ARICIE" sex="2" type="H" statut="prince" age="A" stat_amour='néant'>ARICIE</role>, princesse de la contrée d'Attique.</castItem>
+			<castItem><role id="IDAS" sex="1" type="H" statut="gouverneur" age="A" stat_amour='néant'>IDAS</role>, gouverneur d'Hippolyte.</castItem>
+			<castItem><role id="ARCAS" sex="1" type="H" statut="confident" age="A" stat_amour='néant'>ARCAS</role>, confident de Thésée.</castItem>
+			<castItem><role id="CLÉONE" sex="2" type="H" statut="confident" age="A" stat_amour='néant'>CLÉONE</role>, confidente d'Aricie.</castItem>
+			<castItem><role id="MÉGISTE" sex="2" type="H" statut="suite" age="A" stat_amour='néant'>MÉGISTE</role>, femme de la suite de Phèdre.</castItem>
+			<castItem><role id="GARDES" sex="9" type="H" statut="garde" age="A" stat_amour='néant'>GARDES</role>.</castItem>
 		</castList>
 		<set location='Trézène' country='Grèce' periode='Temps mythologiques' link=''>La scène est à Trézène.</set>
 </front>

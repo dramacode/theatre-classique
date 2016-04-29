@@ -7,10 +7,11 @@
 				<author born="1620" born_location="Paris" death="1675" death_location="" academie="">GILBERT, Gabriel</author>
 				<date>1732</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<editor>Texte établi par Aleth Mandula (Maîtrise de Lettres modernes - Université de la Sorbonne Paris IV, 2011-2012) sous la direction de Georges Forestier.</editor>
 				<publisher>publié par Paul FIEVRE mars 2012</publisher>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragi-comédie</genre>
 				<inspiration>histoire antique</inspiration>
@@ -55,12 +56,12 @@
 		</div>
 		<castList>
 			<head>ACTEURS</head>
-			<castItem><role id="RODOGUNE" civil='F' type="H" statut='roi' age='A' stat_amour='néant'>RODOGUNE</role>, veuve d'Hydaspe, Roi de Perse.</castItem>
-			<castItem><role id="DARIE" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>DARIE</role>, fils d'Hydaspe et de Rodogune.</castItem>
-			<castItem><role id="ARTAXERCE" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>ARTAXERCE</role>, son frère.</castItem>
-			<castItem><role id="LIDIE" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>LIDIE</role>, fille de Tygranne, Roi d'Arménie.</castItem>
-			<castItem><role id="ORONTE" civil='M' type="H" statut='satrape' age='A' stat_amour='néant'>ORONTE</role>, Satrape.</castItem>
-			<castItem><role id="ARGANTE" civil='M' type="H" statut='capitaine' age='A' stat_amour='néant'>ARGANTE</role>, Capitaine des Gardes.</castItem>
+			<castItem><role id="RODOGUNE" sex="2" type="H" statut='roi' age='A' stat_amour='néant'>RODOGUNE</role>, veuve d'Hydaspe, Roi de Perse.</castItem>
+			<castItem><role id="DARIE" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>DARIE</role>, fils d'Hydaspe et de Rodogune.</castItem>
+			<castItem><role id="ARTAXERCE" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>ARTAXERCE</role>, son frère.</castItem>
+			<castItem><role id="LIDIE" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>LIDIE</role>, fille de Tygranne, Roi d'Arménie.</castItem>
+			<castItem><role id="ORONTE" sex="1" type="H" statut='satrape' age='A' stat_amour='néant'>ORONTE</role>, Satrape.</castItem>
+			<castItem><role id="ARGANTE" sex="1" type="H" statut='capitaine' age='A' stat_amour='néant'>ARGANTE</role>, Capitaine des Gardes.</castItem>
 		</castList>
 <set location='Suze' country='Perse' periode='IVème avant JC' link=''>La Scène est à Suse, dans le Palais de Rodogune.</set>
 

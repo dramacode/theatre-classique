@@ -7,9 +7,10 @@
 				<author born='1657' born_location='Paris' death='1724' death_location='Paris' academie=''>DU FRESNY, Charles Rivière</author>
 				<date>1700</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, mai 2011</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -44,14 +45,14 @@
 			<premiere date="1700-08-27" location='Théâtre de la rue des Fossés Saint-Germain'>Représenté pour la première fois le 27 août 1700 au Théâtre de la rue des Fossés Saint-Germain.</premiere>
 		</performance>
 	<castList><head>ACTEURS.</head>
-		<castItem><role id="ORONTE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>Monsieur ORONTE</role>.</castItem>
-		<castItem><role id="MADAME ORONTE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>Madame ORONTE</role>. </castItem>
-		<castItem><role id="LUCAS" civil='M' type="H" statut='jardinier' age='A' stat_amour='néant'>LUCAS</role>, jardinier. </castItem>
-		<castItem><role id="ANGÉLIQUE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='amoureux'>ANGÉLIQUE</role>, fille de Monsieur Oronte. </castItem>
-		<castItem><role id="VALÈRE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='amoureux'>VALÈRE</role>, amant d'Angélique.</castItem>
-		<castItem><role id="MONSIEUR THIBAUDOIS" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>Monsieur THIBAUDOIS</role>.</castItem>
-		<castItem><role id="LE NOTAIRE" civil='M' type="H" statut='notaire' age='A' stat_amour='néant'>LE NOTAIRE</role>.</castItem>
-		<castItem><role id="UN LAQUAIS" civil='M' type="H" statut='laquais' age='A' stat_amour='néant'>UN LAQUAIS</role>.</castItem>
+		<castItem><role id="ORONTE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>Monsieur ORONTE</role>.</castItem>
+		<castItem><role id="MADAME ORONTE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>Madame ORONTE</role>. </castItem>
+		<castItem><role id="LUCAS" sex="1" type="H" statut='jardinier' age='A' stat_amour='néant'>LUCAS</role>, jardinier. </castItem>
+		<castItem><role id="ANGÉLIQUE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>ANGÉLIQUE</role>, fille de Monsieur Oronte. </castItem>
+		<castItem><role id="VALÈRE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>VALÈRE</role>, amant d'Angélique.</castItem>
+		<castItem><role id="MONSIEUR THIBAUDOIS" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>Monsieur THIBAUDOIS</role>.</castItem>
+		<castItem><role id="LE NOTAIRE" sex="1" type="H" statut='notaire' age='A' stat_amour='néant'>LE NOTAIRE</role>.</castItem>
+		<castItem><role id="UN LAQUAIS" sex="1" type="H" statut='laquais' age='A' stat_amour='néant'>UN LAQUAIS</role>.</castItem>
 	</castList>
 	<set location="Campagne" country='France' periode='XVIIème' link=''>La scène est à une maison de campagne.</set>
 	</front>

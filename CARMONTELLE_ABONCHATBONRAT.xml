@@ -6,9 +6,10 @@
 			<title>À BON CHAT BON RAT, COMÉDIE</title>
 			<author born='1717' born_location='Paris' death='1806' death_location='Paris' academie='Poitiers'>CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle</author>
 		</titleStmt>
-		<publicationStmp>
+		<publicationStmt>
 			<p>publié par Paul FIEVRE février 2012</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Proverbe</genre>
 			<inspiration>moeurs françaises</inspiration>
@@ -42,19 +43,19 @@
 			<premiere date='1768' location='chez Madame la Marquise de Mauconseil'>Représenté pour la première fois en 1768 à Bagatelle chez Madame la Marquise de Mauconseil.</premiere>
 		</performance>
 	<castList><head>PERSONNAGES</head>
-		<castItem><role id="MADAME SAVON" civil='F' type="H" statut='blanchisseuse' age='A' stat_amour='néant'>MADAME SAVON</role>, blanchisseuse.</castItem>
-		<castItem><role id="SUZETTE" civil='F' type="H" statut='coiffeuse' age='A' stat_amour='néant'>SUZETTE</role>, sa fille, coiffeuse.</castItem>
-		<castItem><role id="MADAME LAIGUILLE" civil='F' type="H" statut='couturière' age='A' stat_amour='néant'>MADAME LAIGUILLE</role>, tante de Suzette, couturière.</castItem>
-		<castItem><role id="MONSIEUR THÉRIAQUE" civil='M' type="H" statut='apothicaire' age='A' stat_amour='néant'>MONSIEUR THÉRIAQUE</role>, apothicaire.</castItem>
-		<castItem><role id="MONSIEUR FOULON" civil='M' type="H" statut='chapelier' age='A' stat_amour='néant'>MONSIEUR FOULON</role>, chapelier.</castItem>
-		<castItem><role id="MADAME FOULON" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>MADAME FOULON</role>.</castItem>
-		<castItem><role id="FOULONET" civil='M' type="H" statut='bourgeois' age='A' stat_amour='amoureux'>FOULONET</role>, leur fils, amant de Suzette.</castItem>
-		<castItem><role id="MONSIEUR LA PLUME" civil='M' type="H" statut='écrivain public' age='A' stat_amour='néant'>MONSIEUR LA PLUME</role>, écrivain public.</castItem>
-		<castItem><role id="MADAME ROGNON" civil='M' type="H" statut='commerçant' age='A' stat_amour='néant'>MADAME ROGNON</role>, gargotière.</castItem>
-		<castItem><role id="GILLES" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>GILLES</role>, valet de Mme Savon.</castItem>
-		<castItem><role id="UN NOTAIRE" civil='M' type="H" statut='notaire' age='A' stat_amour='néant'>UN NOTAIRE</role>.</castItem>
-		<castItem><role id="UN GARÇON ROTISSEUR" civil='M' type="H" statut='employé' age='A' stat_amour='néant'>UN GARÇON ROTISSEUR</role>.</castItem>
-		<castItem><role id="UN SAVOYARD" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>UN SAVOYARD</role>.</castItem>
+		<castItem><role id="MADAME SAVON" sex="2" type="H" statut='blanchisseuse' age='A' stat_amour='néant'>MADAME SAVON</role>, blanchisseuse.</castItem>
+		<castItem><role id="SUZETTE" sex="2" type="H" statut='coiffeuse' age='J' stat_amour='Foulonet'>SUZETTE</role>, sa fille, coiffeuse.</castItem>
+		<castItem><role id="MADAME LAIGUILLE" sex="2" type="H" statut='couturière' age='A' stat_amour='néant'>MADAME LAIGUILLE</role>, tante de Suzette, couturière.</castItem>
+		<castItem><role id="MONSIEUR THÉRIAQUE" sex="1" type="H" statut='apothicaire' age='A' stat_amour='néant'>MONSIEUR THÉRIAQUE</role>, apothicaire.</castItem>
+		<castItem><role id="MONSIEUR FOULON" sex="1" type="H" statut='chapelier' age='A' stat_amour='néant'>MONSIEUR FOULON</role>, chapelier.</castItem>
+		<castItem><role id="MADAME FOULON" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>MADAME FOULON</role>.</castItem>
+		<castItem><role id="FOULONET" sex="1" type="H" statut='bourgeois' age='J' stat_amour='Suzette'>FOULONET</role>, leur fils, amant de Suzette.</castItem>
+		<castItem><role id="MONSIEUR LA PLUME" sex="1" type="H" statut='écrivain public' age='A' stat_amour='néant'>MONSIEUR LA PLUME</role>, écrivain public.</castItem>
+		<castItem><role id="MADAME ROGNON" sex="1" type="H" statut='commerçant' age='A' stat_amour='néant'>MADAME ROGNON</role>, gargotière.</castItem>
+		<castItem><role id="GILLES" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>GILLES</role>, valet de Mme Savon.</castItem>
+		<castItem><role id="UN NOTAIRE" sex="1" type="H" statut='notaire' age='A' stat_amour='néant'>UN NOTAIRE</role>.</castItem>
+		<castItem><role id="UN GARÇON ROTISSEUR" sex="1" type="H" statut='employé' age='J' stat_amour='néant'>UN GARÇON ROTISSEUR</role>.</castItem>
+		<castItem><role id="UN SAVOYARD" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>UN SAVOYARD</role>.</castItem>
      </castList>
 <set location='Paris' country='France' periode='XVIIIème' link=''>La scène est à Paris chez Mme Savon. Le théâtre représente une grande chambre, avec une table dans le fond.</set>
 </front>

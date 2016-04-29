@@ -6,9 +6,10 @@
 			<title>LAURENCE ET ORZANO, TRAGÉDIE.</title>
 			<author born='1730' born_location='Paris' death='1782' death_location='Paris' academie='1803'>LEGOUVÉ, Gabriel</author>
 		</titleStmt>
-		<publicationStmp>
+		<publicationStmt>
 			<p>publié par Paul FIEVRE août 2013</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Tragédie</genre>
 			<inspiration>mythe grec</inspiration>
@@ -40,18 +41,18 @@
 		<premiere date='(inconnue)' location='(inconnue)'></premiere>
 	</performance>
 	<castList><head>PERSONNAGES.</head>
-		<castItem><role id='ZIANI' civil='M' type="H" statut="doge" age="A" stat_amour='néant'>ZIANI</role>, doge.</castItem>
-		<castItem><role id='GRADONIGUE' civil='M' type="H" statut="sénateur" age="A" stat_amour='néant'>GRADONIGUE</role>, sénateur.</castItem>
-		<castItem><role id='LAURENCE' civil='F' type="H" statut="aristocrate" age="A" stat_amour='néant'>LAURENCE</role>, fille de Gradonigue.</castItem>
-		<castItem><role id='ORZANO' civil='M' type="H" statut="aristocrate" age="A" stat_amour='néant'>ORZANO</role>, jeune héros.</castItem>
-		<castItem><role id='QUIRINI' civil='M' type="H" statut="aristocrate" age="A" stat_amour='néant'>QUIRINI</role>, amant de Laurence.</castItem>
-		<castItem><role id='MONTANO' civil='M' type="H" statut="aristocrate" age="A" stat_amour='néant'>MONTANO</role>, membre du Conseil des Dix.</castItem>
-		<castItem><role id='LUCILE' civil='F' type="H" statut="confident" age="A" stat_amour='néant'>LUCILE</role>, confidente de Laurence.</castItem>
-		<castItem><role id='UN VIEILLARD' civil='M' type="H" statut="bourgeois" age="V" stat_amour='néant'>UN VIEILLARD</role>.</castItem>
-		<castItem><role id='UN MESSAGER' civil='M' type="H" statut="messager" age="A" stat_amour='néant'>UN MESSAGER</role>.</castItem>
-		<castItem><role id='UN AGENT DU CONSIEL DES DIX' civil='M' type="H" statut="agent du consel des dix" age="A" stat_amour='néant'>UN AGENT DU CONSEIL DES DIX</role>.</castItem>
-		<castItem><role id='SOLDATS' civil='G' type="H" statut="soldats" age="A" stat_amour='néant'>SOLDATS</role>.</castItem>
-		<castItem><role id='GARDES DU SÉNAT' civil='G' type="H" statut="gardes" age="A" stat_amour='néant'>GARDES DU SÉNAT</role>.</castItem>
+		<castItem><role id='ZIANI' sex="1" type="H" statut="doge" age="A" stat_amour='néant'>ZIANI</role>, doge.</castItem>
+		<castItem><role id='GRADONIGUE' sex="1" type="H" statut="sénateur" age="A" stat_amour='néant'>GRADONIGUE</role>, sénateur.</castItem>
+		<castItem><role id='LAURENCE' sex="2" type="H" statut="aristocrate" age="A" stat_amour='néant'>LAURENCE</role>, fille de Gradonigue.</castItem>
+		<castItem><role id='ORZANO' sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>ORZANO</role>, jeune héros.</castItem>
+		<castItem><role id='QUIRINI' sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>QUIRINI</role>, amant de Laurence.</castItem>
+		<castItem><role id='MONTANO' sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>MONTANO</role>, membre du Conseil des Dix.</castItem>
+		<castItem><role id='LUCILE' sex="2" type="H" statut="confident" age="A" stat_amour='néant'>LUCILE</role>, confidente de Laurence.</castItem>
+		<castItem><role id='UN VIEILLARD' sex="1" type="H" statut="bourgeois" age="V" stat_amour='néant'>UN VIEILLARD</role>.</castItem>
+		<castItem><role id='UN MESSAGER' sex="1" type="H" statut="messager" age="A" stat_amour='néant'>UN MESSAGER</role>.</castItem>
+		<castItem><role id='UN AGENT DU CONSIEL DES DIX' sex="1" type="H" statut="agent du consel des dix" age="A" stat_amour='néant'>UN AGENT DU CONSEIL DES DIX</role>.</castItem>
+		<castItem><role id='SOLDATS' sex="9" type="H" statut="soldats" age="A" stat_amour='néant'>SOLDATS</role>.</castItem>
+		<castItem><role id='GARDES DU SÉNAT' sex="9" type="H" statut="gardes" age="A" stat_amour='néant'>GARDES DU SÉNAT</role>.</castItem>
 	</castList>
 <set location='Venise' country='Italie' periode='XVIIIème' link=''>La scène est à Venise.</set> 
 <stage>Les trois premiers actes se passent sous un vaste péristyle qui touche aux palais de Ziani et de Gradonigue; le quatrième acte, dans un endroit écarté de Venise ; et le cinquième, dans le palais de Ziani.</stage>

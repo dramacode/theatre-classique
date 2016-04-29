@@ -6,9 +6,10 @@
 			<title>LE BON PÈRE, COMÉDIE</title>
 			<author born='1755' born_location='' death='1794' death_location='Paris' academie=''>FLORIAN, Jean Pierre Claris de</author>
 		</titleStmt>
-		<publicationStmp>	
+		<publicationStmt>	
 			<p>publié par Paul FIEVRE, mars 2013</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 				<genre>Comédie</genre>	
 				<inspiration>moeurs françaises</inspiration>
@@ -43,10 +44,10 @@
 			<signature>FLORIAN</signature>
 		</div>
 		<castList><head>ACTEURS</head>
-			<castItem><role id="ARLEQUIN" civil='M'>ARLEQUIN</role>, bourgeois de Bergame.</castItem>
-			<castItem><role id="NISIDA" civil='F'>NISIDA</role>.</castItem>
-			<castItem><role id="CLÉANTE" civil='M'>CLÉANTE</role>, amant de Nisida.</castItem>
-			<castItem><role id="NÉRINE" civil='F'>NÉRINE</role>, suivante de Nisida.</castItem>
+			<castItem><role id="ARLEQUIN" sex="1">ARLEQUIN</role>, bourgeois de Bergame.</castItem>
+			<castItem><role id="NISIDA" sex="2">NISIDA</role>.</castItem>
+			<castItem><role id="CLÉANTE" sex="1">CLÉANTE</role>, amant de Nisida.</castItem>
+			<castItem><role id="NÉRINE" sex="2">NÉRINE</role>, suivante de Nisida.</castItem>
 		</castList>
 		<set location='Paris' country='France' periode='XVIIIème' link=''>La scène est à Paris, dans la maison d'Arlequin.</set>
 	</front>

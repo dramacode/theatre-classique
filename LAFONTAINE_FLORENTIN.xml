@@ -7,9 +7,10 @@
 				<author born='1621' born_location='Château-Thierry' death='1695' death_location='Paris' academie=''>LA FONTAINE, Jean de</author>
 				<date>1685</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Ernest FIEVRE</p><p>Août 2008</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs italiennes</inspiration>
@@ -44,14 +45,14 @@
 		</performance>
 <castList>
 	<head>LES ACTEURS.</head>
-	<castItem><role id="HARPAGEME" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>HARPAGÊME</role>.</castItem>
-	<castItem><role id="HORTENSE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='amoureux'>HORTENSE</role>, sa pupille.</castItem>
-	<castItem><role id="TIMANTE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='amoureux'>TIMANTE</role>, amant d'Hortense.</castItem>
-	<castItem><role id="AGATHE" civil='F' type="H" statut='bourgeois' age='V' stat_amour='néant'>AGATHE</role>, mère d'Harpagême.</castItem>
-	<castItem><role id="MARINETTE" civil='F' type="H" statut='servante' age='A' stat_amour='néant'>MARINETTE</role>, sa servante.</castItem>
-	<castItem><role id="LE SERRURIER" civil='M' type="H" statut='serrurier' age='A' stat_amour='néant'>UN SERRURIER</role>, et ses garçons.</castItem>
-	<castItem><role id="L'EXEMPT" civil='M' type="H" statut='exempt' age='A' stat_amour='néant'>UN EXEMPT</role>.</castItem>
-	<castItem><role id="ARCHERS" civil='G' type="H" statut='archer' age='A' stat_amour='néant'>DES ARCHERS</role>.</castItem>
+	<castItem><role id="HARPAGEME" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>HARPAGÊME</role>.</castItem>
+	<castItem><role id="HORTENSE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>HORTENSE</role>, sa pupille.</castItem>
+	<castItem><role id="TIMANTE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>TIMANTE</role>, amant d'Hortense.</castItem>
+	<castItem><role id="AGATHE" sex="2" type="H" statut='bourgeois' age='V' stat_amour='néant'>AGATHE</role>, mère d'Harpagême.</castItem>
+	<castItem><role id="MARINETTE" sex="2" type="H" statut='servante' age='A' stat_amour='néant'>MARINETTE</role>, sa servante.</castItem>
+	<castItem><role id="LE SERRURIER" sex="1" type="H" statut='serrurier' age='A' stat_amour='néant'>UN SERRURIER</role>, et ses garçons.</castItem>
+	<castItem><role id="L'EXEMPT" sex="1" type="H" statut='exempt' age='A' stat_amour='néant'>UN EXEMPT</role>.</castItem>
+	<castItem><role id="ARCHERS" sex="9" type="H" statut='archer' age='A' stat_amour='néant'>DES ARCHERS</role>.</castItem>
 </castList>
 <set location='Florence' country='Italie' periode='XVIIème' link=''>La scène est à Florence, dans la maison d'Harpagême.</set>
 </front>

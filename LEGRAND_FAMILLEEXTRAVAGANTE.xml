@@ -6,9 +6,10 @@
 				<title>LA FAMILLE EXTRAVAGANTE, COMÉDIE.</title>
 				<author born='1673' born_location='Paris' death='1728' death_location='Paris' academie=''>LEGRAND, Marc-Antoine</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE juillet 2012</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -47,15 +48,15 @@
 		</div>
 
 	<castList><head>PERSONNAGES.</head>
-		<castItem><role id="PIÉTREMISE" civil="M" type="H" statut='procureur' age='A' stat_amour='néant'>PIÉTREMISE</role>, procureur, tuteur et amoureux d'Élise.</castItem>
-		<castItem><role id="CLÉON" civil="M" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>CLÉON</role>, amant d'Élise.</castItem>
-		<castItem><role id="BAZOCHE" civil="M" type="H" statut='clerc' age='A' stat_amour='néant'>BAZOCHE</role>, clerc de Piétremine.</castItem>
-		<castItem><role id="SAINT-GERMAIN" civil="M" type="H" statut='valet' age='A' stat_amour='néant'>SAINT-GERMAIN</role>, valet de Cléon.</castItem>
-		<castItem><role id="MADAME-RISSOLÉ" civil="F" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>MADAME RISSOLÉ</role>, mère de Piétremine, amoureuse de Cléon.</castItem>
-		<castItem><role id="LUCRÈCE" civil="F" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>LUCRÈCE</role>, soeur de Piétremine, amoureuse de Cléon.</castItem>
-		<castItem><role id="SUZON" civil="F" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>SUZON</role>, fille de Piétremine, amoureuse de Cléon.</castItem>
-		<castItem><role id="ÉLISE" civil="F" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>ÉLISE</role>, amante de Cléon.</castItem>
-		<castItem><role id="LISETTE" civil="F" type="H" statut='servante' age='A' stat_amour='néant'>LISETTE</role>, servante de Piétremine.</castItem>
+		<castItem><role id="PIÉTREMISE" sex="1" type="H" statut='procureur' age='A' stat_amour='néant'>PIÉTREMISE</role>, procureur, tuteur et amoureux d'Élise.</castItem>
+		<castItem><role id="CLÉON" sex="1" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>CLÉON</role>, amant d'Élise.</castItem>
+		<castItem><role id="BAZOCHE" sex="1" type="H" statut='clerc' age='A' stat_amour='néant'>BAZOCHE</role>, clerc de Piétremine.</castItem>
+		<castItem><role id="SAINT-GERMAIN" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>SAINT-GERMAIN</role>, valet de Cléon.</castItem>
+		<castItem><role id="MADAME-RISSOLÉ" sex="2" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>MADAME RISSOLÉ</role>, mère de Piétremine, amoureuse de Cléon.</castItem>
+		<castItem><role id="LUCRÈCE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>LUCRÈCE</role>, soeur de Piétremine, amoureuse de Cléon.</castItem>
+		<castItem><role id="SUZON" sex="2" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>SUZON</role>, fille de Piétremine, amoureuse de Cléon.</castItem>
+		<castItem><role id="ÉLISE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>ÉLISE</role>, amante de Cléon.</castItem>
+		<castItem><role id="LISETTE" sex="2" type="H" statut='servante' age='A' stat_amour='néant'>LISETTE</role>, servante de Piétremine.</castItem>
 	</castList>
 	<set location='Paris' country='France' periode='XVIIIème' link=''>La scène est a Paris, dans la maison de Piétremine.</set>
 </front>

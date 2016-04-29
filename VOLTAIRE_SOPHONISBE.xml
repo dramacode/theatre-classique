@@ -8,9 +8,10 @@
 
 				<date>1774</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<authority>publié par Paul FIEVRE, Septembre 2008</authority>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire romaine</inspiration>
@@ -75,17 +76,17 @@ Massinisse, en un jour, voit, aime, et se marie.</p>
  
 
 <castList><head>PERSONNAGES</head>
-	<castItem><role id='SCIPION' civil='M' type="H" statut='consul' age='A' stat_amour='néant'>SCIPION</role>, consul.</castItem>
-	<castItem><role id='LELIE' civil='M' type="H" statut='lieutenant' age='A' stat_amour='néant'>LÉLIE</role>, lieutenant de Scipion.</castItem>
-	<castItem><role id='SYPHAX' civil='M' type="H" statut='roi' age='A' stat_amour='néant'>SYPHAX</role>, roi de Numidie.</castItem>
-	<castItem><role id='SOPHONISBE' civil='F' type="H" statut='prince' age='A' stat_amour='néant'>SOPHONISBE</role>, fille d'Asdrubal, femme de Syphax.</castItem>
-	<castItem><role id='MASSINISSE' civil='M' type="H" statut='roi' age='A' stat_amour='néant'>MASSINISSE</role>, roi d'une partie de la Numidie.</castItem>
-	<castItem><role id='ACTOR' civil='M' type="H" statut='suivant' age='A' stat_amour='néant'>ACTOR</role>, attaché à Syphax et à Sophonisbe.</castItem>
-	<castItem><role id='ALAMAR' civil='M' type="H" statut='officier' age='A' stat_amour='néant'>ALAMAR</role>, officier de Massinisse.</castItem>
-	<castItem><role id='PHAEDIME' civil='F' type="H" statut='suivante' age='A' stat_amour='néant'>PHAEDIME</role>, dame numide, attachée à Sophonisbe.</castItem>
-	<castItem><role id='ROMAINS' civil='G' type="H" statut='soldat' age='A' stat_amour='néant'>Soldats romains</role>.</castItem>
-	<castItem><role id='NUMIDES' civil='G' type="H" statut='soldat' age='A' stat_amour='néant'>Soldats numides</role>.</castItem>
-	<castItem><role id='LICTEURS' civil='G' type="H" statut='soldat' age='A' stat_amour='néant'>Licteurs</role>.</castItem>
+	<castItem><role id='SCIPION' sex="1" type="H" statut='consul' age='A' stat_amour='néant'>SCIPION</role>, consul.</castItem>
+	<castItem><role id='LELIE' sex="1" type="H" statut='lieutenant' age='A' stat_amour='néant'>LÉLIE</role>, lieutenant de Scipion.</castItem>
+	<castItem><role id='SYPHAX' sex="1" type="H" statut='roi' age='A' stat_amour='néant'>SYPHAX</role>, roi de Numidie.</castItem>
+	<castItem><role id='SOPHONISBE' sex="2" type="H" statut='prince' age='A' stat_amour='néant'>SOPHONISBE</role>, fille d'Asdrubal, femme de Syphax.</castItem>
+	<castItem><role id='MASSINISSE' sex="1" type="H" statut='roi' age='A' stat_amour='néant'>MASSINISSE</role>, roi d'une partie de la Numidie.</castItem>
+	<castItem><role id='ACTOR' sex="1" type="H" statut='suivant' age='A' stat_amour='néant'>ACTOR</role>, attaché à Syphax et à Sophonisbe.</castItem>
+	<castItem><role id='ALAMAR' sex="1" type="H" statut='officier' age='A' stat_amour='néant'>ALAMAR</role>, officier de Massinisse.</castItem>
+	<castItem><role id='PHAEDIME' sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>PHAEDIME</role>, dame numide, attachée à Sophonisbe.</castItem>
+	<castItem><role id='ROMAINS' sex="9" type="H" statut='soldat' age='A' stat_amour='néant'>Soldats romains</role>.</castItem>
+	<castItem><role id='NUMIDES' sex="9" type="H" statut='soldat' age='A' stat_amour='néant'>Soldats numides</role>.</castItem>
+	<castItem><role id='LICTEURS' sex="9" type="H" statut='soldat' age='A' stat_amour='néant'>Licteurs</role>.</castItem>
 </castList>
 <set location='Cirta' country='Algérie' periode='IIIème avant JC' link=''>La scène est à Cirthe, dans une salle du château, depuis le commencement jusqu'à la fin.</set>
 </front>

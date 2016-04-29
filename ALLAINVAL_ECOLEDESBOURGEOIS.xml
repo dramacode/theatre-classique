@@ -6,9 +6,10 @@
 				<title>L'ÉCOLE DES BOURGEOIS, COMÉDIE.</title>
 			<author born='1700' born_location='Chartres' death='1753' death_location='Paris' academie=''>SOULAS d'ALLAINVAL, Abbé Léonor Jean Christine</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, mai 2010.</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -38,19 +39,19 @@
 		</performance>
 	<castList>
 	<head>PERSONNAGES</head>
-	<castItem><role id="MONSIEUR-MATHIEU" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>Monsieur MATHIEU</role>, frère de Madame Abraham.</castItem> 
-	<castItem><role id="DAMIS" civil='M' type="H" statut='bourgeois' age='A' stat_amour='amant'>DAMIS</role>, amant de Benjamine.</castItem> 
-	<castItem><role id="LE-COMMISSAIRE" civil='M' type="H" statut='commissaire' age='A' stat_amour='néant'>UN COMMISSAIRE</role>, parent de Madame Abraham.</castItem> 
-	<castItem><role id="UN-NOTAIRE" civil='M' type="H" statut='notaire' age='A' stat_amour='néant'>UN NOTAIRE</role>, parent de Madame Abraham.</castItem> 
-	<castItem><role id="PICARD" civil='M' type="H" statut='laquais' age='A' stat_amour='néant'>PICARD</role>, laquais de Madame Abraham.</castItem> 
-	<castItem><role id="LE-MARQUIS-de-MONCADE" civil='M' type="H" statut='marquis' age='A' stat_amour='amoureux rival'>LE MARQUIS de MONCADE</role>.</castItem> 
-	<castItem><role id="UN-COMMANDEUR" civil='M' type="H" statut='commandeur' age='A' stat_amour='néant'>UN COMMANDEUR</role>, ami du Marquis.</castItem> 
-	<castItem><role id="LE COMTE" civil='M' type="H" statut='comte' age='A' stat_amour='néant'>UN COMTE</role>, ami du Marquis.</castItem> 
-	<castItem><role id="MONSIEUR-POT-DE-VIN" civil='M' type="H" statut='intendant' age='A' stat_amour='néant'>Monsieur POT-DE-VIN</role>, intendant du Marquis.</castItem> 
-	<castItem><role id="UN COUREUR" civil='M' type="H" statut='coureur' age='A' stat_amour='néant'>UN COUREUR</role> du marquis.</castItem> 
-	<castItem><role id="MADAME-ABRAHAM" civil='F' type="H" statut='' age='A' stat_amour='néant'>Madame ABRAHAM</role>.</castItem> 
-	<castItem><role id="BENJAMINE" civil='F' type="H" statut='' age='J' stat_amour='néant'>BENJAMINE</role>, sa fille.</castItem> 
-	<castItem><role id="MARTON" civil='F' type="H" statut='suivante' age='A' stat_amour='amant'>MARTON</role>, suivante de Benjamine.</castItem> 
+	<castItem><role id="MONSIEUR MATHIEU" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>MONSIEUR MATHIEU</role>, frère de Madame Abraham.</castItem> 
+	<castItem><role id="DAMIS" sex="1" type="H" statut='bourgeois' age='J' stat_amour='amant'>DAMIS</role>, amant de Benjamine.</castItem> 
+	<castItem><role id="LE COMMISSAIRE" sex="1" type="H" statut='commissaire' age='A' stat_amour='néant'>UN COMMISSAIRE</role>, parent de Madame Abraham.</castItem> 
+	<castItem><role id="UN NOTAIRE" sex="1" type="H" statut='notaire' age='A' stat_amour='néant'>UN NOTAIRE</role>, parent de Madame Abraham.</castItem> 
+	<castItem><role id="PICARD" sex="1" type="H" statut='laquais' age='A' stat_amour='néant'>PICARD</role>, laquais de Madame Abraham.</castItem> 
+	<castItem><role id="LE MARQUIS de MONCADE" sex="1" type="H" statut='marquis' age='A' stat_amour='amoureux rival'>LE MARQUIS de MONCADE</role>.</castItem> 
+	<castItem><role id="UN-COMMANDEUR" sex="1" type="H" statut='commandeur' age='A' stat_amour='néant'>UN COMMANDEUR</role>, ami du Marquis.</castItem> 
+	<castItem><role id="LE COMTE" sex="1" type="H" statut='comte' age='A' stat_amour='néant'>UN COMTE</role>, ami du Marquis.</castItem> 
+	<castItem><role id="MONSIEUR POT-DE-VIN" sex="1" type="H" statut='intendant' age='A' stat_amour='néant'>MONSIEUR POT-DE-VIN</role>, intendant du Marquis.</castItem> 
+	<castItem><role id="UN COUREUR" sex="1" type="H" statut='coureur' age='A' stat_amour='néant'>UN COUREUR</role> du marquis.</castItem> 
+	<castItem><role id="MADAME ABRAHAM" sex="2" type="H" statut='' age='A' stat_amour='néant'>Madame ABRAHAM</role>.</castItem> 
+	<castItem><role id="BENJAMINE" sex="2" type="H" statut='' age="J" stat_amour='néant'>BENJAMINE</role>, sa fille.</castItem> 
+	<castItem><role id="MARTON" sex="2" type="H" statut='suivante' age='A' stat_amour='amant'>MARTON</role>, suivante de Benjamine.</castItem> 
 	</castList>
 <set location='Paris' country='France' periode='XVIIIème' link=''>La scène est à Paris, chez Madame Abraham.</set>
 </front>

@@ -6,9 +6,10 @@
 			<title>LE FANATISME, TRAGÉDIE.</title> 
 				<author born='1694' born_location='Paris' death='1778' death_location='Paris' academie='1746'>VOLTAIRE</author>
 		</titleStmt>
-		<publicationStmp>
+		<publicationStmt>
 			<authority>publié par Paul FIEVRE, Septembre 2006</authority> 
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire arabe</inspiration>
@@ -111,14 +112,14 @@
 		
 <castList>
   <head>PERSONNAGES</head> 
-		<castItem> <role id="MAHOMET" civil='M' type="H" statut='prophète' age='A' stat_amour='néant'>MAHOMET</role>.</castItem>
-		<castItem> <role id="ZOPIRE" civil='M' type="H" statut='chérif' age='A' stat_amour='néant'>ZOPIRE</role>, Scheich ou Scherif de la Mecque.</castItem>
-		<castItem> <role id="OMAR" civil='M' type="H" statut='lieutenant' age='A' stat_amour='néant'>OMAR</role>, Lieutenant de Mahomet.</castItem>
-		<castItem> <role id="SÉIDE" civil='M' type="H" statut='esclave' age='A' stat_amour='néant'>SÉIDE</role>, esclave de Mahomet.</castItem>
-		<castItem> <role id="PALMIRE" civil='M' type="H" statut='esclave' age='A' stat_amour='néant'>PALMIRE</role>, esclave de Mahomet.</castItem>
-		<castItem> <role id="PHANOR" civil='M' type="H" statut='sénateur' age='A' stat_amour='néant'>PHANOR</role>, Sénateur de La Mecque.</castItem>
-		<castItem> <role id="MECQUOIS" civil='G' type="H" statut='peuple' age='A' stat_amour='néant'>TROUPE DE MÉCQUOIS</role>.</castItem>
-		<castItem> <role id="MULSULMANS" civil='G' type="H" statut='peuple' age='A' stat_amour='néant'>TROUPE DE MUSULMANS</role>.</castItem>
+		<castItem> <role id="MAHOMET" sex="1" type="H" statut='prophète' age='A' stat_amour='néant'>MAHOMET</role>.</castItem>
+		<castItem> <role id="ZOPIRE" sex="1" type="H" statut='chérif' age='A' stat_amour='néant'>ZOPIRE</role>, Scheich ou Scherif de la Mecque.</castItem>
+		<castItem> <role id="OMAR" sex="1" type="H" statut='lieutenant' age='A' stat_amour='néant'>OMAR</role>, Lieutenant de Mahomet.</castItem>
+		<castItem> <role id="SÉIDE" sex="1" type="H" statut='esclave' age='A' stat_amour='néant'>SÉIDE</role>, esclave de Mahomet.</castItem>
+		<castItem> <role id="PALMIRE" sex="1" type="H" statut='esclave' age='A' stat_amour='néant'>PALMIRE</role>, esclave de Mahomet.</castItem>
+		<castItem> <role id="PHANOR" sex="1" type="H" statut='sénateur' age='A' stat_amour='néant'>PHANOR</role>, Sénateur de La Mecque.</castItem>
+		<castItem> <role id="MECQUOIS" sex="9" type="H" statut='peuple' age='A' stat_amour='néant'>TROUPE DE MÉCQUOIS</role>.</castItem>
+		<castItem> <role id="MULSULMANS" sex="9" type="H" statut='peuple' age='A' stat_amour='néant'>TROUPE DE MUSULMANS</role>.</castItem>
   </castList>
   <set location='La Mecque' country='Arabie Saoudite' periode='VIIème' link=''>La scène est à la Mecque.</set> 
 </front>

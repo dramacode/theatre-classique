@@ -7,9 +7,10 @@
 				<author born='1733' born_location='Versailles' death='1804' death_location='Guadalquivir' academie=''>POINSINET de SIVRY, Louis</author>
 				<date>1755</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, novembre 2013</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>mythe grec</inspiration>
@@ -57,17 +58,17 @@
 		</div>
 <castList>
 	<head>PERSONNAGES.</head>
-	<castItem><role id="AJAX" civil='M' type="H" statut='roi' age='A' stat_amour='néant'>AJAX</role>, Roi de Salamine.	M. de Saint-Prix.</castItem>
-	<castItem><role id="ULYSSE" civil='M' type="H" statut='roi' age='A' stat_amour='néant'>ULYSSE</role>, Roi d'Ithaque.	M. Dorival.</castItem>
-	<castItem><role id="AGAMEMNON" civil='M' type="H" statut='roi' age='A' stat_amour='néant'>AGAMEMNON</role>, Chef des Rois de la Grèce.	M. Vanhove.</castItem>
-	<castItem><role id="PENTHESILEE" civil='F' type="H" statut='roi' age='A' stat_amour='néant'>PENTHÉSILÉE</role>, Reine des Amazones.	Mlle. de Raucourt.</castItem>
-	<castItem><role id="MEMNON" civil='M' type="H" statut='roi' age='A' stat_amour='néant'>MEMNON</role>, époux de Penthésilée, et Chef des Alliés de Troie.	M. de Saint-Fal.</castItem>
-	<castItem><role id="ANTÉNOR" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>ANTÉNOR</role>, Prince Troyen.	M. Naudet.</castItem>
-	<castItem><role id="HIPPODAMAS" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>HIPPODAMAS</role>, fils de Priam ; ami et parent de Memnon.	M. Grammont.</castItem>
-	<castItem><role id="HERSILE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>HERSILE</role>, Amazone.	Mmme. Suin.</castItem>
-	<castItem><role id="ARCAS" civil='M' type="H" statut='confident' age='A' stat_amour='néant'>ARCAS</role>, Confident d'Ajax.	M. Dunant.</castItem>
-	<castItem><role id="EURYBATE" civil='M' type="H" statut='soldat' age='A' stat_amour='néant'>EURYBATE</role>, l'un des Guerriers d'Agamemnon.	M. Marsy.</castItem>
-	<castItem><role id="SUITE" civil='G' type="H" statut='roi' age='A' stat_amour='néant'>SUITE</role>.</castItem>
+	<castItem><role id="AJAX" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>AJAX</role>, Roi de Salamine.	M. de Saint-Prix.</castItem>
+	<castItem><role id="ULYSSE" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>ULYSSE</role>, Roi d'Ithaque.	M. Dorival.</castItem>
+	<castItem><role id="AGAMEMNON" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>AGAMEMNON</role>, Chef des Rois de la Grèce.	M. Vanhove.</castItem>
+	<castItem><role id="PENTHESILEE" sex="2" type="H" statut='roi' age='A' stat_amour='néant'>PENTHÉSILÉE</role>, Reine des Amazones.	Mlle. de Raucourt.</castItem>
+	<castItem><role id="MEMNON" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>MEMNON</role>, époux de Penthésilée, et Chef des Alliés de Troie.	M. de Saint-Fal.</castItem>
+	<castItem><role id="ANTÉNOR" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>ANTÉNOR</role>, Prince Troyen.	M. Naudet.</castItem>
+	<castItem><role id="HIPPODAMAS" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>HIPPODAMAS</role>, fils de Priam ; ami et parent de Memnon.	M. Grammont.</castItem>
+	<castItem><role id="HERSILE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>HERSILE</role>, Amazone.	Mmme. Suin.</castItem>
+	<castItem><role id="ARCAS" sex="1" type="H" statut='confident' age='A' stat_amour='néant'>ARCAS</role>, Confident d'Ajax.	M. Dunant.</castItem>
+	<castItem><role id="EURYBATE" sex="1" type="H" statut='soldat' age='A' stat_amour='néant'>EURYBATE</role>, l'un des Guerriers d'Agamemnon.	M. Marsy.</castItem>
+	<castItem><role id="SUITE" sex="9" type="H" statut='roi' age='A' stat_amour='néant'>SUITE</role>.</castItem>
 </castList>
 <set location='Troie' country='Turquie' periode='Temps mythologiques' link=''>La Scène est devant Troie.</set>
 </front>

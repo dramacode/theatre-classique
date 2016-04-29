@@ -6,9 +6,10 @@
 				<title>DON GARCIE DE NAVARRE, COMÉDIE</title>
 			<author born='1622' born_location='Paris' death='1673' death_location='Paris' academie=''>MOLIÈRE</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE</p><p>Mai 2006</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs espagnoles</inspiration>
@@ -17,10 +18,6 @@
 				<periode>1661-1670</periode>
 				<taille>1750-2000</taille>
 				<permalien></permalien>
-				<sources>
-					<source id='1'><author></author><text></text></source>
-				</sources>	
-
 			</SourceDesc>
 		</fileDesc>
 	</teiHeader>
@@ -28,10 +25,12 @@
 	<front>
 		<docTitle>
 			<titlePart type="main">DON GARCIE DE NAVARRE</titlePart>
+			<titlePart type="sub">OU LE PRINCE JALOUX</titlePart>
 			<titlePart type="sub">COMÉDIE</titlePart>
+			<titlePart type="sub">Représentée pour le première fois, le quatrième février 1661, sur le théâtre de la Salle du Palais-Royal par le Troupe de MONSIEUR frère unique du Roi.</titlePart>
 		</docTitle> 
-		<docDate value='1661'>M. DC. LXI.</docDate>
-		<docAuthor id='MOLIERE' bio='moliere'>Molière</docAuthor>
+		<docDate value='1682'>M. DC. LXXXII.</docDate>
+		<docAuthor id='MOLIERE' bio='moliere'>PAR J.B.P. Molière</docAuthor>
 		<docImprint>
 			<privilege id='**/**/****'></privilege>
 			<acheveImprime id='**/**/****'></acheveImprime>
@@ -41,22 +40,24 @@
 			<premiere date='1661-02-04' location='Théâtre du Palais-Royal'>Représenté pour la première fois le 4 février 1661 au Théâtre du Palais-Royal.</premiere>
 		</performance>
 		<castList><head>ACTEURS</head>
-			<castItem><role id="DON-GARCIE" civil='M' type="H" statut='prince' age='A' stat_amour='Elvire'>DON GARCIE</role>, prince de Navarre, amant d'Elvire.</castItem>
-			<castItem><role id="ELVIRE" civil='F' type="H" statut='prince' age='A' stat_amour='néant'>ELVIRE</role>, princesse de Léon.</castItem>
-			<castItem><role id="ÉLISE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>ÉLISE</role>.</castItem>
-			<castItem><role id="DON-ALPHONSE" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>DON ALPHONSE</role>, prince de Léon, cru prince de Castille, sous le nom de Don Sylve.</castItem>
-			<castItem><role id="IGNES" civil='F' type="H" statut='comte' age='A' stat_amour='Don Sylve'>IGNÈS</role>, comtesse, amante de Don Sylve, aimée de Mauregat, usurpateur de l'Etat de Léon.</castItem>
-			<castItem><role id="DON-ALVAR" civil='M' type="H" statut='confident' age='A' stat_amour='Elise'>DON ALVAR</role>, confident de Don Garcie, amante d'Elise.</castItem>
-			<castItem><role id="DON-LOPE" civil='M' type="H" statut='confident' age='A' stat_amour='Elise'>DON LOPE</role>, autre confident de Don Garcie, amant rebuté d'Elise.</castItem>
-			<castItem><role id="DON-PEDRE" civil='F' type="H" statut='écuyer' age='A' stat_amour='néant'>DON PEDRE</role>, écuyer d'Ignès.</castItem>
+			<castItem><role id="DON-GARCIE" sex="1" type="H" statut='prince' age='A' stat_amour='Elvire'>DON GARCIE</role>, prince de Navarre, amant d'Elvire.</castItem>
+			<castItem><role id="ELVIRE" sex="2" type="H" statut='prince' age='A' stat_amour='néant'>ELVIRE</role>, princesse de Léon.</castItem>
+			<castItem><role id="ÉLISE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>ÉLISE</role>.</castItem>
+			<castItem><role id="DON-ALPHONSE" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>DON ALPHONSE</role>, prince de Léon, cru prince de Castille, sous le nom de Don Sylve.</castItem>
+			<castItem><role id="IGNES" sex="2" type="H" statut='comte' age='A' stat_amour='Don Sylve'>IGNÈS</role>, comtesse, amante de Don Sylve, aimée de Mauregat, usurpateur de l'Etat de Léon.</castItem>
+			<castItem><role id="DON ALVAR" sex="1" type="H" statut='confident' age='A' stat_amour='Elise'>DON ALVAR</role>, confident de Don Garcie, amante d'Elise.</castItem>
+			<castItem><role id="DON LOPE" sex="1" type="H" statut='confident' age='A' stat_amour='Elise'>DON LOPE</role>, autre confident de Don Garcie, amant rebuté d'Elise.</castItem>
+			<castItem><role id="DON PEDRE" sex="2" type="H" statut='écuyer' age='A' stat_amour='néant'>DON PEDRE</role>, écuyer d'Ignès.</castItem>
 		</castList>
 	<set location='Astorgue' country='Espagne' periode='XVIIème' link=''>La scène est dans Astorgue, ville d'Espagne, dans le royaume de Léon.</set>
 	</front>
+	<note>Le texte est extrait de l'exemplaire BnF YF 3161. "LES OEUVRES POSTHUMES DE MONSIEUR DE MOLIÈRE. Tome VII. Imprimées pour le première fois en 1682. Enrichies de Figures en Taille douce." , pp. 7-85.</note>
+
 <body>
 <div1 type="act" n="1"><head>ACTE I</head>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Dona Elvire, Élise.</head>
 <sp who="DONA-ELVIRE"><speaker>DONA ELVIRE.</speaker>
-	<l id="1">Non, ce n'est point un choix qui pour ces deux amants</l>
+	<l id="1">Non, ce n'est point un choix qui pour ces deux amants,</l>
 	<l id="2">Sut régler de mon coeur les secrets sentiments ;</l>
 	<l id="3">Et le prince n'a point dans tout ce qu'il peut être</l>
 	<l id="4">Ce qui fit préférer l'amour qu'il fait paraître.</l>
@@ -74,7 +75,7 @@
 <sp who="ELISE"><speaker>ÉLISE.</speaker>
 	<l id="15">Cet amour que pour lui votre astre vous inspire</l>
 	<l id="16">N'a sur vos actions pris que bien peu d'empire,</l>
-	<l id="17">Puisque nos yeux, madame, ont pu longtemps douter</l>
+	<l id="17">Puisque nos yeux, Madame, ont pu longtemps douter</l>
 	<l id="18">Qui de ces deux amants vous vouliez mieux traiter.</l>
 </sp>
 <sp who="DONA-ELVIRE"><speaker>DONA ELVIRE.</speaker>
@@ -217,7 +218,7 @@
 </sp>
 <sp who="ELISE"><speaker>ÉLISE.</speaker>
 	<l id="143">Bien que l'on pût avoir des sentiments tout autres,</l>
-	<l id="144">C'est au prince, madame, à se régler aux vôtres ;</l>
+	<l id="144">C'est au prince, Madame, à se régler aux vôtres ;</l>
 	<l id="145">Et dans votre billet ils sont si bien marqués,</l>
 	<l id="146">Que quand il les verra de la sorte expliqués...</l>
 </sp>
@@ -250,7 +251,7 @@
 	<l id="164">Don Alphonse vient-il ? A-t-on lieu de l'attendre ?</l>
 </sp>
 <sp who="ALVAR"><speaker>Don ALVAR.</speaker>
-	<l id="165">Oui, madame ; et ce frère en Castille élevé</l>
+	<l id="165">Oui, Madame ; et ce frère en Castille élevé</l>
 	<l id="166">De rentrer dans ses droits voit le temps arrivé.</l>
 	<l id="167">Jusqu'ici dom Louis, qui vit à sa prudence</l>
 	<l id="168">Par le feu roi mourant commettre son enfance,</l>
@@ -280,7 +281,7 @@
 	<l id="190">Mais je crains que mon frère y puisse trop devoir.</l>
 </sp>
 <sp who="ALVAR"><speaker>Don ALVAR.</speaker>
-	<l id="191">Mais, madame, admirez que, malgré la tempête</l>
+	<l id="191">Mais, Madame, admirez que, malgré la tempête</l>
 	<l id="192">Que votre usurpateur oit gronder sur sa tête,</l>
 	<l id="193">Tous les bruits de Léon annoncent pour certain</l>
 	<l id="194">Qu'à la comtesse Ignès il va donner la main.</l>
@@ -344,7 +345,7 @@
 	<l id="238">Et je vous vois à vaincre un obstacle plus fort.</l>
 </sp>
 <sp who="DON-GARCIE"><speaker>DON GARCIE.</speaker>
-	<l id="239">Oui, madame, j'entends ce que vous voulez dire :</l>
+	<l id="239">Oui, Madame, j'entends ce que vous voulez dire :</l>
 	<l id="240">Je sais bien que pour vous mon coeur en vain soupire ;</l>
 	<l id="241">Et l'obstacle puissant qui s'oppose à mes feux,</l>
 	<l id="242">Sans que vous le nommiez, n'est pas secret pour eux.</l>
@@ -356,7 +357,7 @@
 	<l id="246">Quand vous pourrez me plaire, et prendre quelque espoir ?</l>
 </sp>
 <sp who="DON-GARCIE"><speaker>DON GARCIE.</speaker>
-	<l id="247">Ce me sera, madame, une faveur extrême.</l>
+	<l id="247">Ce me sera, Madame, une faveur extrême.</l>
 </sp>
 <sp who="DONA-ELVIRE"><speaker>DONA ELVIRE.</speaker>
 	<l id="248">Quand vous saurez m'aimer comme il faut que l'on aime.</l>
@@ -498,7 +499,7 @@
 	<l id="342">Guérissez-le, ce mal : il n'est que dans l'esprit.</l>
 </sp>
 <sp who="DON-GARCIE"><speaker>DON GARCIE.</speaker>
-	<l id="343">Par cet écrit, madame ? Ah ! Ma main le refuse :</l>
+	<l id="343">Par cet écrit, Madame ? Ah ! Ma main le refuse :</l>
 	<l id="344">Je vois votre pensée, et de quoi l'on m'accuse.</l>
 	<l id="345" part="i">Si...</l>
 </sp>
@@ -752,7 +753,7 @@
 	<l id="520">Et mon âme en a pris une allégresse extrême.</l>
 </sp>
 <sp who="DON-GARCIE"><speaker>DON GARCIE.</speaker>
-	<l id="521">Oui, madame, et mon coeur s'en réjouit de même ;</l>
+	<l id="521">Oui, Madame, et mon coeur s'en réjouit de même ;</l>
 	<l id="522" part="i">Mais...</l>
 </sp>
 <sp who="DONA-ELVIRE"><speaker>DONA ELVIRE.</speaker>
@@ -769,7 +770,7 @@
 	<l id="530">Le succès en pourra parler dans quelques jours.</l>
 	<l id="531">Mais, de grâce, passons à quelque autre discours.</l>
 	<l id="532">Puis-je, sans trop oser, vous prier de me dire</l>
-	<l id="533">À qui vous avez pris, madame, soin d'écrire,</l>
+	<l id="533">À qui vous avez pris, Madame, soin d'écrire,</l>
 	<l id="534">Depuis que le destin nous a conduits ici ?</l>
 </sp>
 <sp who="DONA-ELVIRE"><speaker>DONA ELVIRE.</speaker>
@@ -917,7 +918,7 @@
 	<l id="608" part="i">Avez-vous ici l'autre ?</l>
 </sp>
 <sp who="ELISE"><speaker>ÉLISE.</speaker>
-	<l id="608" part="f">Oui, la voilà, madame.</l>
+	<l id="608" part="f">Oui, la voilà, Madame.</l>
 </sp>
 <sp who="DONA-ELVIRE"><speaker>DONA ELVIRE.</speaker>
 	<l id="609">Donnez. Nous allons voir qui mérite le blâme.</l>
@@ -1051,7 +1052,7 @@
 	<l id="705" part="i">Ha ! Prince trop cruel !</l>
 </sp>
 <sp who="DON-GARCIE"><speaker>DON GARCIE.</speaker>
-	<l id="705" part="f">Dites, parlez, madame.</l>
+	<l id="705" part="f">Dites, parlez, Madame.</l>
 </sp>
 <sp who="DONA-ELVIRE"><speaker>DONA ELVIRE.</speaker>
 	<l id="706">Faut-il encore pour vous conserver des bontés,</l>
@@ -1182,7 +1183,7 @@
 	<l id="773">Il n'en est point aussi qu'on pardonne si vite,</l>
 	<l id="774">Et qu'un coupable aimé triomphe à nos genoux</l>
 	<l id="775">De tous les prompts transports du plus bouillant courroux,</l>
-	<l id="776">D'autant plus aisément, madame, quand l'offense</l>
+	<l id="776">D'autant plus aisément, Madame, quand l'offense</l>
 	<l id="777">Dans un excès d'amour peut trouver sa naissance.</l>
 	<l id="778">Ainsi, quelque dépit que l'on vous ait causé,</l>
 	<l id="779">Je ne m'étonne point de le voir apaisé ;</l>
@@ -1229,7 +1230,7 @@
 	<l id="812">Moi, je tiens que toujours un peu de défiance</l>
 	<l id="813">En ces occasions n'a rien qui nous offense,</l>
 	<l id="814">Et qu'il est dangereux qu'un coeur qu'on a charmé</l>
-	<l id="815">Soit trop persuadé, madame, d'être aimé,</l>
+	<l id="815">Soit trop persuadé, Madame, d'être aimé,</l>
 	<l id="816" part="i">Si...</l>
 </sp>
 <sp who="DONA-ELVIRE"><speaker>DONA ELVIRE.</speaker>
@@ -1244,7 +1245,7 @@
 </div2>
 <div2 type="scene" n="2"><head>SCÈNE II. Don Sylve, Dona Elvire</head>
 <sp who="DON-SYLVE"><speaker>DON SYLVE.</speaker>
-	<l id="823">Je sais que mon abord, madame, est surprenant,</l>
+	<l id="823">Je sais que mon abord, Madame, est surprenant,</l>
 	<l id="824">Et qu'être sans éclat entré dans cette ville,</l>
 	<l id="825">Dont l'ordre d'un rival rend l'accès difficile,</l>
 	<l id="826">Qu'avoir pu me soustraire aux yeux de ses soldats,</l>
@@ -1263,7 +1264,7 @@
 	<l id="839">Ont envié l'honneur de cet illustre effort,</l>
 	<l id="840">Et fait à mon rival, avec trop d'injustice,</l>
 	<l id="841">Offrir les doux périls d'un si fameux service.</l>
-	<l id="842">Oui, madame, j'avais, pour rompre vos liens,</l>
+	<l id="842">Oui, Madame, j'avais, pour rompre vos liens,</l>
 	<l id="843">Des sentiments sans doute aussi beaux que les siens ;</l>
 	<l id="844">Et je pouvais pour vous gagner cette victoire,</l>
 	<l id="845">Si le ciel n'eût voulu m'en dérober la gloire.</l>
@@ -1297,7 +1298,7 @@
 	<l id="871">Acquérir de la gloire où le vôtre n'est pas.</l>
 </sp>
 <sp who="DON-SYLVE"><speaker>DON SYLVE.</speaker>
-	<l id="872">Oui, madame, mon coeur doit cesser de s'en plaindre :</l>
+	<l id="872">Oui, Madame, mon coeur doit cesser de s'en plaindre :</l>
 	<l id="873">Avec trop de raison vous voulez m'y contraindre ;</l>
 	<l id="874">Et c'est injustement qu'on se plaint d'un malheur,</l>
 	<l id="875">Quand un autre plus grand s'offre à notre douleur.</l>
@@ -1382,7 +1383,7 @@
 	<l id="950">Et le flambeau du jour, qui m'offre vos appas,</l>
 	<l id="951">Doit avant cet hymen éclairer mon trépas.</l>
 	<l id="952">Je sais que je trahis une princesse aimable ;</l>
-	<l id="953">Mais, madame, après tout, mon coeur est-il coupable ?</l>
+	<l id="953">Mais, Madame, après tout, mon coeur est-il coupable ?</l>
 	<l id="954">Et le fort ascendant que prend votre beauté</l>
 	<l id="955">Laisse-t-il aux esprits aucune liberté ?</l>
 	<l id="956">Hélas ! Je suis ici bien plus à plaindre qu'elle :</l>
@@ -1411,7 +1412,7 @@
 	<l id="971">Et de même que vous, je ne l'attendais point.</l>
 </sp>
 <sp who="DON-GARCIE"><speaker>DON GARCIE.</speaker>
-	<l id="972">Oui, madame, je crois que de cette visite,</l>
+	<l id="972">Oui, Madame, je crois que de cette visite,</l>
 	<l id="973">Comme vous l'assurez, vous n'étiez point instruite.</l>
 	<l id="974">Mais, seigneur, vous deviez nous faire au moins l'honneur</l>
 	<l id="975">De nous donner avis de ce rare bonheur,</l>
@@ -1621,7 +1622,7 @@
 </div2>
 <div2 type="scene" n="2"><head>SCÈNE II. Élise, Dona Elvire.</head>
 <sp who="ELISE"><speaker>ÉLISE.</speaker>
-	<l id="1132">J'attendois qu'il sortît, madame, pour vous dire</l>
+	<l id="1132">J'attendois qu'il sortît, Madame, pour vous dire</l>
 	<l id="1133">Ce qui veut maintenant que votre âme respire,</l>
 	<l id="1134">Puisque votre chagrin, dans un moment d'ici,</l>
 	<l id="1135">Du sort de done Ignès peut se voir éclairci.</l>
@@ -1633,7 +1634,7 @@
 </sp>
 <sp who="ELISE"><speaker>ÉLISE.</speaker>
 	<l id="1139">Mais il veut n'être vu que de vous seulement ;</l>
-	<l id="1140">Et par cet envoyé, madame, il sollicite</l>
+	<l id="1140">Et par cet envoyé, Madame, il sollicite</l>
 	<l id="1141">Qu'il puisse sans témoins vous rendre sa visite.</l>
 </sp>
 <sp who="DONA-ELVIRE"><speaker>DONA ELVIRE.</speaker>
@@ -1648,7 +1649,7 @@
 	<l id="1146" part="i">Où... ?</l>
 </sp>
 <sp who="PEDRE"><speaker>Don PÈDRE.</speaker>
-	<l id="1146" part="f">Si vous me cherchez, madame, me voici.</l>
+	<l id="1146" part="f">Si vous me cherchez, Madame, me voici.</l>
 </sp>
 <sp who="ELISE"><speaker>ÉLISE.</speaker>
 	<l id="1147" part="i">En quel lieu votre maître... ?</l>
@@ -2109,7 +2110,7 @@
 	<l id="1467">Tombent sur moi du ciel les plus grands châtiments !</l>
 	<l id="1468">Qu'un tonnerre éclatant mette ma tête en poudre,</l>
 	<l id="1469">Lorsqu'à souffrir vos feux je pourrai me résoudre !</l>
-	<l id="1470">Allons, madame, allons, ôtons-nous de ces lieux,</l>
+	<l id="1470">Allons, Madame, allons, ôtons-nous de ces lieux,</l>
 	<l id="1471">Qu'infectent les regards d'un monstre furieux ;</l>
 	<l id="1472">Fuyons-en promptement l'atteinte envenimée,</l>
 	<l id="1473">évitons les effets de sa rage animée,</l>
@@ -2223,7 +2224,7 @@
 <div2 type="scene" n="2"><head>SCÈNE II. Dona Elvire, Dona Ignès.</head>
 <sp who="DONA-ELVIRE"><speaker>DONA ELVIRE.</speaker>
 	<l id="1551" part="f">Faites, dom Alvar, venir le prince ici.</l>
-	<l id="1552">Souffrez que devant vous je lui parle, madame,</l>
+	<l id="1552">Souffrez que devant vous je lui parle, Madame,</l>
 	<l id="1553">Sur cet événement dont on surprend mon âme ;</l>
 	<l id="1554">Et ne m'accusez point d'un trop prompt changement,</l>
 	<l id="1555">Si je perds contre lui tout mon ressentiment.</l>
@@ -2293,7 +2294,7 @@
 	<l id="1611">Peut-être n'ira pas si loin que vous pensez.</l>
 </sp>
 <sp who="DON-GARCIE"><speaker>DON GARCIE.</speaker>
-	<l id="1612">C'est faire voir, madame, une bonté trop rare,</l>
+	<l id="1612">C'est faire voir, Madame, une bonté trop rare,</l>
 	<l id="1613">Que vouloir adoucir le coup qu'on me prépare :</l>
 	<l id="1614">Sur moi sans de tels soins vous pouvez laisser choir</l>
 	<l id="1615">Le foudre rigoureux de tout votre devoir.</l>
@@ -2329,7 +2330,7 @@
 	<l id="1645">À pouvoir espérer cet aveu plein de gloire ;</l>
 	<l id="1646">Et je ne voudrais pas, par des efforts trop vains,</l>
 	<l id="1647">Jeter le moindre obstacle à vos justes desseins.</l>
-	<l id="1648">Non, je ne contrains point vos sentiments, madame :</l>
+	<l id="1648">Non, je ne contrains point vos sentiments, Madame :</l>
 	<l id="1649">Je vais en liberté laisser toute votre âme,</l>
 	<l id="1650">Ouvrir les murs d'Astorgue à cet heureux vainqueur,</l>
 	<l id="1651">Et subir de mon sort la dernière rigueur.</l>
@@ -2350,7 +2351,7 @@
 </sp>
 <sp who="IGNES"><speaker>Dona IGNÈS.</speaker>
 	<l id="1662">C'est un événement dont sans doute vos yeux</l>
-	<l id="1663">N'ont point pour moi, madame, à quereller les cieux.</l>
+	<l id="1663">N'ont point pour moi, Madame, à quereller les cieux.</l>
 	<l id="1664">Si les faibles attraits qu'étale mon visage</l>
 	<l id="1665">M'exposaient au destin de souffrir un volage,</l>
 	<l id="1666">Le ciel ne pouvait mieux m'adoucir de tels coups,</l>
@@ -2378,7 +2379,7 @@
 </sp>
 <sp who="DONA-ELVIRE"><speaker>DONA ELVIRE.</speaker>
 	<l id="1683">Sans rencontrer ses yeux vous pouvez être ici :</l>
-	<l id="1684">Ne sortez point, madame, et dans un tel martyre</l>
+	<l id="1684">Ne sortez point, Madame, et dans un tel martyre</l>
 	<l id="1685">Veuillez être témoin de ce que je vais dire.</l>
 </sp>
 <sp who="IGNES"><speaker>Dona IGNÈS.</speaker>
@@ -2547,7 +2548,7 @@
 	<l id="1827">N'en rendez pas mes yeux les malheureux témoins :</l>
 	<l id="1828">C'est la moindre faveur qu'on peut, je crois, prétendre,</l>
 	<l id="1829">Lorsque dans ma disgrâce un amant peut descendre.</l>
-	<l id="1830">Je ne l'exige pas, madame, pour longtemps,</l>
+	<l id="1830">Je ne l'exige pas, Madame, pour longtemps,</l>
 	<l id="1831">Et bientôt mon départ rendra vos voeux contents.</l>
 	<l id="1832">Je vais où de ses feux mon âme consumée</l>
 	<l id="1833">N'apprendra votre hymen que par la renommée :</l>

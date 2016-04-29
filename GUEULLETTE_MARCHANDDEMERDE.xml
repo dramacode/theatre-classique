@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
 <teiHeader>
 	<fileDesc>
@@ -6,9 +6,10 @@
 			<title>LE MARCHAND DE MERDE, PARADE.</title>
 			<author born='1683' born_location='Paris' death='1766' death_location='Charenton' academie=''>GUEULLETTE, Thomas-Simon</author>
 		</titleStmt>
-		<publicationStmp>
+		<publicationStmt>
 			<publisher>publié par Paul FIEVRE novembre 2013</publisher>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Parade</genre>
 			<inspiration>moeurs françaises</inspiration>
@@ -41,11 +42,11 @@
 		<premiere date='1720' location='En société'>Représentée pour la première fois en société en 1720.</premiere>
 	</performance>
 	<castList><head>PERSONNAGES</head>
-		<castItem><role id="LÉANDRE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>LÉANDRE</role>.</castItem>
-		<castItem><role id="ARLEQUIN" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>ARLEQUIN</role>.</castItem>
-		<castItem><role id="GILLES" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>GILLES</role>.</castItem>
-		<castItem><role id="CATIN" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>CATIN</role>.</castItem>
-		<castItem><role id="L'APOTHICAIRE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>L'APOTHICAIRE</role>.</castItem>
+		<castItem><role id="LÉANDRE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>LÉANDRE</role>.</castItem>
+		<castItem><role id="ARLEQUIN" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>ARLEQUIN</role>.</castItem>
+		<castItem><role id="GILLES" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>GILLES</role>.</castItem>
+		<castItem><role id="CATIN" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>CATIN</role>.</castItem>
+		<castItem><role id="L'APOTHICAIRE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>L'APOTHICAIRE</role>.</castItem>
 	</castList>
 	<set location='Paris' country='France' periode='XVIIIème' link=''>.</set>
 </front>
@@ -131,7 +132,7 @@
 <sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
 <note type="L">Dévisager : Déchirer le visage avec les ongles ou les griffes. [L]</note>
 <p id='16'>
-	<s id='1'>Si je le connais, je l'ai dévisagé cent fois»</s>
+	<s id='1'>Si je le connais, je l'ai dévisagé cent foisÂ»</s>
 </p>
 </sp>
 <sp who='LÉANDRE'><speaker>LÉANDRE.</speaker>
@@ -403,7 +404,7 @@
 </sp>
 <sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
 <p id='11'>
-	<s id='1'>À bien des gens, mais surtout aux Apothicaires. </s>
+	<s id='1'>Ô bien des gens, mais surtout aux Apothicaires. </s>
 	<s id='2'>Tenez vous-là, vous allez voir.</s>
 </p>
 </sp>
@@ -592,7 +593,7 @@
 </sp>
 <sp who='GILLES'><speaker>GILLES.</speaker>
 <p id='6'>
-	<s id='1'>Non vraiment» je vous assure, la marchandise était bonne, sentez plutôt, vous devez vous y connaître. </s>
+	<s id='1'>Non vraimentÂ» je vous assure, la marchandise était bonne, sentez plutôt, vous devez vous y connaître. </s>
 	<s id='2'>Ce vilain apothicaire de mon cul, n'a seulement pas voulu la goûter.</s>
 </p>
 </sp>

@@ -7,9 +7,10 @@
 				<author born='1609' born_location='Dreux' death='1650' death_location='Dreux' academie=''>ROTROU, Jean</author>
 				<date>1649</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<authority>publié par Ernest FIEVRE, mars 2007</authority>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire orientale</inspiration>
@@ -39,16 +40,16 @@
 		</performance>
 
 	<castList><head>ACTEURS</head>
-		<castItem><role id='COSROES' civil='M'>COSROËS</role>, roi de Perse.</castItem>
-		<castItem><role id='SYRA' civil='F'>SYRA</role>, reine de Perse.</castItem>
-		<castItem><role id='SYROES' civil='M'>SYROËS</role>, fils du Roi de Perse.</castItem>
-		<castItem><role id='NARSEE' civil='F'>NARSÉE</role>, femme de Syroës.</castItem>
-		<castItem><role id='MARDESANE' civil='M'>MARDESANE</role>, fils de Cosroës et de Syra.</castItem>
-		<castItem><role id='SARDARIGUE' civil='M'>SARDARIGUE</role>, père de Narsée.</castItem>
-		<castItem><role id='PALMYRAS' civil='M'>PALMYRAS</role>.</castItem>
-		<castItem><role id='PHARNACE' civil='M'>PHARNACE</role>.</castItem>
-		<castItem><role id='SATRAPES' civil='G'>SATRAPES</role>.</castItem>
-		<castItem><role id='GARDES' civil='G'>GARDES</role>.</castItem>
+		<castItem><role id='COSROES' sex="1">COSROËS</role>, roi de Perse.</castItem>
+		<castItem><role id='SYRA' sex="2">SYRA</role>, reine de Perse.</castItem>
+		<castItem><role id='SYROES' sex="1">SYROËS</role>, fils du Roi de Perse.</castItem>
+		<castItem><role id='NARSEE' sex="2">NARSÉE</role>, femme de Syroës.</castItem>
+		<castItem><role id='MARDESANE' sex="1">MARDESANE</role>, fils de Cosroës et de Syra.</castItem>
+		<castItem><role id='SARDARIGUE' sex="1">SARDARIGUE</role>, père de Narsée.</castItem>
+		<castItem><role id='PALMYRAS' sex="1">PALMYRAS</role>.</castItem>
+		<castItem><role id='PHARNACE' sex="1">PHARNACE</role>.</castItem>
+		<castItem><role id='SATRAPES' sex="9">SATRAPES</role>.</castItem>
+		<castItem><role id='GARDES' sex="9">GARDES</role>.</castItem>
 	</castList>
 <set location='Ctésiphon' country='Irak' periode='VIème' link=''>La scène est au Palais du Roi de Perse.</set>
 </front>

@@ -6,9 +6,10 @@
 				<title>LES BONNES GENS, PETITE PIÈCE EN UN ACTE, ET EN VERS.</title>
 			<author born='' born_location='' death='' death_location='' academie=''>(anonyme)</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE SEPTEMBRE 2012.</p>
-			</publicationStmp>
+				<idno>ANONYME_BONNESGENS</idno>
+			</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs polonaises</inspiration>
@@ -42,21 +43,21 @@
 			<premiere date='(non représentée)' location='(non représentée)'></premiere>
 		</performance>
 <div type="preface"><head>ÉPITRE A MADAME LA COMTESSE DE B***** D*****.</head>
-	<p>Vous m'avez permis, MADAME, d'offrir, à une des plus aimables personnes, l'hommage aui méritait le moins cette grace. Une Préface est très - souvent consacrée par l'Auteur à s'entretenir de lui-même avec complaisance. Dans ces Vers, qui en tiennent lieu, je n'ai rien annoncé de mon très petit Ouvrage sur ce ton-là, parce qu'il n'y avait rien de bon à en dire. Dans l'Épître dédicatoire, où naturellement votre éloge doit se opposée à celle qui m'a mpêché de parler de mes talents.</p>
+	<p>Vous m'avez permis, MADAME, d'offrir, à une des plus aimables personnes, l'hommage qui méritait le moins cette grâce. Une Préface est très souvent consacrée par l'Auteur à s'entretenir de lui-même avec complaisance. Dans ces Vers, qui en tiennent lieu, je n'ai rien annoncé de mon très petit Ouvrage sur ce ton-là, parce qu'il n'y avait rien de bon à en dire. Dans l'Épître dédicatoire, où naturellement votre éloge doit se opposée à celle qui m'a mpêché de parler de mes talents.</p>
 	<p type="v">J'use de la faveur à mes voeux accordée ; </p>
-	<p type="v">Cent bijoux furent rejettés ;</p>
+	<p type="v">Cent bijoux furent rejetés ;</p>
 	<p type="v">Mais vous louer ! Je ne suis pas si sot : </p>
 	<p type="v">Tout le monde dirait, choqué de cette idée, </p>
 	<p type="v">Ce sont les Dieux peints par Calot.</p>
-	<p>J'ai l'honneur d'être, avec le plus sincere et le plus respectueux attachement, MADAME,</p>
-	<p>Votre très-humble, et très-obéissant serviteur, LE MARQUIS DE F***  </p>
+	<p>J'ai l'honneur d'être, avec le plus sincère et le plus respectueux attachement, MADAME,</p>
+	<p>Votre très humble, et très obéissant serviteur, LE MARQUIS DE F***  </p>
 </div>
 
 <div type="preface"><head>AU PUBLIC.</head>
 	<p>Mes moeurs d'un vrai sauvage unissent tous les traits.</p>
 	<p>Un séjour solitaire, au fond de la Champagne,</p>
 	<p>Est à mes yeux rempli d'attraits ;</p>
-	<p>Pour mon Théatre seul, Théatre de campagne,</p>
+	<p>Pour mon Théâtre seul, Théâtre de campagne,</p>
 	<p>J'ai produit ces faibles essais.</p>
 	<p>Soigneusement ailleurs je les cachais.</p>
 	<p>Sans vouloir jamais en démordre,</p>
@@ -91,11 +92,11 @@
 </div>
 	
 		<castList><head>PERSONNAGES.</head>
-			<castItem><role id="GUILLAUME" civil='M' type="H" statut='paysan' age='A' stat_amour='marié'>GUILLAUME</role>, pauvre Polonais, pas tout-à-fait un Paysan.</castItem> 
-			<castItem><role id="MADAME-GULLAUME" civil='F' type="H" statut='paysan' age='A' stat_amour='marié'>SA FEMME</role>.</castItem> 
-			<castItem><role id="LE ROI" civil='M' type="H" statut='roi' age='A' stat_amour='néant'>UN ROI DE POLOGNE</role>, que l'on reconnaître aisément.</castItem> 
-			<castItem><role id="ARLEQUIN" civil='M' type="H" statut='' age='capitaine' stat_amour='néant'>ARLEQUIN</role>, Capitaine de Hussards.</castItem> 
-			<castItem><role id="DEUX-HUSSARDS" civil='G' type="H" statut='hussard' age='A' stat_amour='néant'>DEUX HUSSARDS</role>.</castItem> 
+			<castItem><role id="GUILLAUME" sex="1" type="H" statut='paysan' age='A' stat_amour='marié'>GUILLAUME</role>, pauvre Polonais, pas tout-à-fait un Paysan.</castItem> 
+			<castItem><role id="MADAME GULLAUME" sex="2" type="H" statut='paysan' age='A' stat_amour='marié'>SA FEMME</role>.</castItem> 
+			<castItem><role id="LE ROI" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>UN ROI DE POLOGNE</role>, que l'on reconnaître aisément.</castItem> 
+			<castItem><role id="ARLEQUIN" sex="1" type="H" statut='capitaine' age='A' stat_amour='néant'>ARLEQUIN</role>, Capitaine de Hussards.</castItem> 
+			<castItem><role id="DEUX HUSSARDS" sex="1" type="H" statut='hussard' age='A' stat_amour='néant'>DEUX HUSSARDS</role>.</castItem> 
 	</castList>
 <set location='Dans un bois' country='Pologne' periode='XVIIIème' link=''>La scène est dans un bois. On doit y placer une Cabane, ou une très petite Maison, dont la porte, s'ouvre sur le théatre.</set>
 <note>Cette pièce est issue du recueil : TRÈS-PETITES PIÉCES, qui ne peuvent être jouées que sur un très petit théâtre, que j'aurai certainement faites pour mon plaisir, si elles contribuent à celui de mes Lecteurs.</note>
@@ -165,7 +166,7 @@
 	<l id='51'>Je lui voudrais le même bien.</l>
 	<l id='52'>Hélas ! Sans se mettre en dépense,</l>
 	<l id='53'>Les grands sont aimés des petits ;</l>
-	<l id='54'>Un geste, un mot, la plus légere avance</l>
+	<l id='54'>Un geste, un mot, la plus légère avance</l>
 	<l id='55'>En venant d'eux a tant de prix !</l>
 </sp>
 <sp who='MADAME-GUILLAUME'><speaker>MADAME GUILLAUME.</speaker>
@@ -201,7 +202,7 @@
 	<l id='81'>Rend-il ses jours pareils à ceux qu'il nous prépare ?</l>
 </sp>
 <sp who='GUILLAUME'><speaker>GUILLAUME.</speaker>
-	<l id='82'>Helas ! Non ; il n'est pas heureux ;</l>
+	<l id='82'>Hélas ! Non ; il n'est pas heureux ;</l>
 	<l id='83'>De tous côtés, on s'avance, on s'empare</l>
 	<l id='84'>Des postes, où jadis il résista le mieux ;</l>
 	<l id='85'>Et malgré les efforts de son bras généreux,</l>
@@ -556,7 +557,7 @@
 <sp who='UN-HUSSARD'><speaker>UN HUSSARD.</speaker>
 	<l id='341'>Adieu donc, la charmante hôtesse.</l>
 	<l id='342'>Si j'étais moins pressé, je vous dirais deux mots.</l>
-	<l id='343'>Heureux l'epoux dont la vive tendresse</l>
+	<l id='343'>Heureux l'époux dont la vive tendresse</l>
 	<l id='344'>Vous fera quinze ou vingt marmots !</l>
 </sp>
 <sp who='SECOND-HUSSARD'><speaker>UN HUSSARD.</speaker>
@@ -597,7 +598,7 @@
 	<l id='367'>Il est temps que je vous délivre. </l>
 </sp>
 </div2>
-<div2 type="scene" n='5'><head>SCÈNE DERNIÈRE. Le Roi, en habit de Paysan, Guillaume, Sa Femme.</head>
+<div2 type="scene" n='6'><head>SCÈNE DERNIÈRE. Le Roi, en habit de Paysan, Guillaume, Sa Femme.</head>
 <sp who='LE-ROI'><speaker>LE ROI.</speaker>
 	<l id='368'>Vous avez eu plus peur que moi.</l>
 </sp>

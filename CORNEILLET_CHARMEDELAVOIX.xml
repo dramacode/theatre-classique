@@ -6,10 +6,11 @@
 				<title>LE CHARME DE LA VOIX, COMÉDIE</title>
 				<author born='1625' born_location='Rouen' death='1709' death_location='Les Andelys' academie='1685'>CORNEILLE, Thomas</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<editor>Texte établi par Coline Piot (Mémoire de master I sous la direction de M. Georges Forestier U.F.R de Littérature française et comparée, 2009-2010.)</editor>
 				<publisher>modernisé et publié par Paul FIEVRE, septembre 2013</publisher>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs italiennes</inspiration>
@@ -46,14 +47,14 @@
 		<signature>T. CORNEILLE</signature>
 		</div>
 	<castList><head>ACTEURS.</head>
-		<castItem><role id="LE DUC" civil='M' type="H" statut='duc' age='A' stat_amour='néant'>LE DUC</role>, de Milan.</castItem>
-		<castItem><role id="LA DUCHESSE" civil='F' type="H" statut='duc' age='A' stat_amour='néant'>LA DUCHESSE</role>, de Parme.</castItem>
-		<castItem><role id="FEDERIC" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>FEDERIC</role>, Gouverneur du Duc.</castItem>
-		<castItem><role id="CARLOS" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>CARLOS</role>, Fils de Federic.</castItem>
-		<castItem><role id="FENISE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>FENISE</role>, Fille de Federic.</castItem>
-		<castItem><role id="LAURE" civil='F' type="H" statut='confident' age='A' stat_amour='néant'>LAURE</role>, Confidente de Fenise.</castItem>
-		<castItem><role id="FABRICE" civil='M' type="H" statut='bouffon' age='A' stat_amour='néant'>FABRICE</role>, Bouffon du Duc.</castItem>
-		<castItem><role id="CAMILLE" civil='M' type="H" statut='suivant' age='A' stat_amour='néant'>CAMILLE</role>, Suivant de Carlos.</castItem>
+		<castItem><role id="LE DUC" sex="1" type="H" statut='duc' age='A' stat_amour='néant'>LE DUC</role>, de Milan.</castItem>
+		<castItem><role id="LA DUCHESSE" sex="2" type="H" statut='duc' age='A' stat_amour='néant'>LA DUCHESSE</role>, de Parme.</castItem>
+		<castItem><role id="FEDERIC" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>FEDERIC</role>, Gouverneur du Duc.</castItem>
+		<castItem><role id="CARLOS" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>CARLOS</role>, Fils de Federic.</castItem>
+		<castItem><role id="FENISE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>FENISE</role>, Fille de Federic.</castItem>
+		<castItem><role id="LAURE" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>LAURE</role>, Confidente de Fenise.</castItem>
+		<castItem><role id="FABRICE" sex="1" type="H" statut='bouffon' age='A' stat_amour='néant'>FABRICE</role>, Bouffon du Duc.</castItem>
+		<castItem><role id="CAMILLE" sex="1" type="H" statut='suivant' age='A' stat_amour='néant'>CAMILLE</role>, Suivant de Carlos.</castItem>
 	</castList>
 	<set location='Milan' country='Italie' periode='XVIIème' link=''>La Scène est à Milan.</set>
 	</front>

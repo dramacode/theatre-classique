@@ -7,9 +7,10 @@
 				<author born='1605' born_location='Paris' death='1658' death_location='Paris' academie=''>DU RYER, Pierre</author>
 				<date>1650</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<authority>publié par Ernest FIEVRE, novembre 2008</authority>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragi-comédie</genre>
 				<inspiration>histoire romaine</inspiration>
@@ -42,13 +43,13 @@
 			<premiere date="1639" location='(inconnue)'>Représenté pour la première fois en 1639.</premiere>
 		</performance>
 <castList><head>LES ACTEURS.</head>
-	<castItem><role id="NITOCRIS" civil='F' type="H" statut='reine' age='A' stat_amour='néant'>NITOCRIS</role>, reine de Babylone.</castItem>
-	<castItem><role id="CLÉODATE" civil='M' type="H" statut='favori' age='A' stat_amour='amoureux'>CLÉODATE</role>, favori de Nitocris, Amoureux d'Axiane.</castItem>
-	<castItem><role id="ARAXE" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>ARAXE</role>, prince d'Assyrie.</castItem>
-	<castItem><role id="ATIS" civil='M' type="H" statut='confident' age='A' stat_amour='néant'>ATIS</role>, confident d'Araxe.</castItem>
-	<castItem><role id="AXIANE" civil='F' type="H" statut='prince' age='A' stat_amour='amoureux'>AXIANE</role>, princesse de Médie.</castItem>
-	<castItem><role id="ALCINE" civil='F' type="H" statut='prince' age='A' stat_amour='néant'>ALCINE</role>, princesse d'Assyrie.</castItem>
-	<castItem><role id="ACHATE" civil='M' type="H" statut='conseiller' age='A' stat_amour='néant'>ACHATE</role>, conseiller de Nitocris.</castItem>
+	<castItem><role id="NITOCRIS" sex="2" type="H" statut='reine' age='A' stat_amour='néant'>NITOCRIS</role>, reine de Babylone.</castItem>
+	<castItem><role id="CLÉODATE" sex="1" type="H" statut='favori' age='A' stat_amour='amoureux'>CLÉODATE</role>, favori de Nitocris, Amoureux d'Axiane.</castItem>
+	<castItem><role id="ARAXE" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>ARAXE</role>, prince d'Assyrie.</castItem>
+	<castItem><role id="ATIS" sex="1" type="H" statut='confident' age='A' stat_amour='néant'>ATIS</role>, confident d'Araxe.</castItem>
+	<castItem><role id="AXIANE" sex="2" type="H" statut='prince' age='A' stat_amour='amoureux'>AXIANE</role>, princesse de Médie.</castItem>
+	<castItem><role id="ALCINE" sex="2" type="H" statut='prince' age='A' stat_amour='néant'>ALCINE</role>, princesse d'Assyrie.</castItem>
+	<castItem><role id="ACHATE" sex="1" type="H" statut='conseiller' age='A' stat_amour='néant'>ACHATE</role>, conseiller de Nitocris.</castItem>
 </castList>
 <set location='Babylone' country='Irak' periode='VIIème avant JC' link=''>La Scène est à Babylone.</set>
 </front>

@@ -6,10 +6,11 @@
 			<title>LA FEMME INDUSTRIEUSE, COMÉDIE</title>
 			<author born='1628' born_location='' death='1673' death_location='' academie=''>DORIMOND, Nicolas Drouin dit</author>
 		</titleStmt>
-		<publicationStmp>
+		<publicationStmt>
 			<editor></editor>
 			<publisher>Publié par Paul FIEVRE, octobre 2015.</publisher>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Comédie</genre>
 			<inspiration>moeurs françaises</inspiration>
@@ -53,12 +54,12 @@
 </div>
 
 		<castList><head>ACTEURS</head>
-		<castItem><role id="ISABELLE" civil="F" type="H" statut='bourgeois' age='A' stat_amour='Léandre'>ISABELLE</role>, femme du Capitan.</castItem>
-		<castItem><role id="LE CAPITAN" civil="M" type="H" statut='soldat' age='A' stat_amour='Isabelle'>LE CAPITAN</role>.</castItem>
-		<castItem><role id="TRAPOLIN" civil="M" type="H" statut='valet' age='A' stat_amour='néant'>TRAPOLIN</role>, valet du Capitan.</castItem>
-		<castItem><role id="LÉANDRE" civil="M" type="H" statut='bourgeois' age='A' stat_amour='Isabelle'>LÉANDRE</role>, Amante d'Isabelle.</castItem>
-		<castItem><role id="LE DOCTEUR" civil="M" type="H" statut='précepteur' age='A' stat_amour='néant'>LE DOCTEUR</role>, précepteur de Léandre.</castItem>
-		<castItem><role id="COLINETTE" civil="F" type="H" statut='bourgeois' age='A' stat_amour='néant'>COLINETTE</role>.</castItem>
+		<castItem><role id="ISABELLE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='Léandre'>ISABELLE</role>, femme du Capitan.</castItem>
+		<castItem><role id="LE CAPITAN" sex="1" type="H" statut='soldat' age='A' stat_amour='Isabelle'>LE CAPITAN</role>.</castItem>
+		<castItem><role id="TRAPOLIN" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>TRAPOLIN</role>, valet du Capitan.</castItem>
+		<castItem><role id="LÉANDRE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='Isabelle'>LÉANDRE</role>, Amante d'Isabelle.</castItem>
+		<castItem><role id="LE DOCTEUR" sex="1" type="H" statut='précepteur' age='A' stat_amour='néant'>LE DOCTEUR</role>, précepteur de Léandre.</castItem>
+		<castItem><role id="COLINETTE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>COLINETTE</role>.</castItem>
 		
 	</castList>
 	<set location='Paris' country='France' periode='XVIIème' link=''>La scène est à Paris.</set>

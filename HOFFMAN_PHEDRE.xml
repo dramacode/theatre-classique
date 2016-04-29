@@ -6,9 +6,10 @@
 			<title>PHÈDRE, TRAGÉDIE</title>
 				<author born='1760' born_location='Nancy' death='1828' death_location='Paris' academie=''>HOFFMANN, François-Benoît</author>
 		</titleStmt>
-		<publicationStmp>	
+		<publicationStmt>	
 			<p>publié par Paul FIEVRE, janvier 2012</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 				<genre>Opéra</genre>	
 				<inspiration>mythe grec</inspiration>
@@ -40,14 +41,14 @@
 			<premiere date="1786-01-01" location='Château de Fontainebleau'>Représentée à Fontainebleau le 26 Octobre 1786, REMISE SUR LE THEATRE DE L'ACADEMIE DE MUSIQUE Le Mardi 21 Novembre 1786.</premiere>
 		</performance>
 		<castList><head>ACTEURS</head>
-			<castItem><role id='PHÈDRE' civil='F' type="H" statut="roi" age="A" stat_amour='néant'>PHÈDRE</role>, La Dlle. St. Huberty.</castItem>
-			<castItem><role id="THÉSÉE" civil='M'>THÉSÉE</role>, Le Sr. Chéron.</castItem>		
-			<castItem><role id='HIPPOLYTE' civil='M' type="H" statut="prince" age="A" stat_amour='néant'>HIPPOLYTE</role>, Le Sr. Rousseau.</castItem>
-			<castItem><role id='OENONE' civil='F' type="H" statut="suivante" age="A" stat_amour='néant'>OENONE</role>, La Dlle. Gavaudan, c.</castItem>
-			<castItem><role id="LA-GRANDE-PRETRESSE-DE-VÉNUS" civil='F'>LA GRANDE PRETRESSE DE VÉNUS</role>, La Dlle. Gavaudan l.</castItem>
-			<castItem><role id="UN-GRAND-DE-L-ÉTAT" civil='F'>UN GRAND DE L'ÉTAT</role>, Le Sr. Chardiny.</castItem>
-			<castItem><role id="UN-CHASSEUR" civil='F'>UN CHASSEUR</role>, le Sr. Moreau.</castItem>
-			<castItem><role id="GARDES" civil='G'>GARDES</role>.</castItem>
+			<castItem><role id='PHÈDRE' sex="2" type="H" statut="roi" age="A" stat_amour='néant'>PHÈDRE</role>, La Dlle. St. Huberty.</castItem>
+			<castItem><role id="THÉSÉE" sex="1">THÉSÉE</role>, Le Sr. Chéron.</castItem>		
+			<castItem><role id='HIPPOLYTE' sex="1" type="H" statut="prince" age="A" stat_amour='néant'>HIPPOLYTE</role>, Le Sr. Rousseau.</castItem>
+			<castItem><role id='OENONE' sex="2" type="H" statut="suivante" age="A" stat_amour='néant'>OENONE</role>, La Dlle. Gavaudan, c.</castItem>
+			<castItem><role id="LA-GRANDE-PRETRESSE-DE-VÉNUS" sex="2">LA GRANDE PRETRESSE DE VÉNUS</role>, La Dlle. Gavaudan l.</castItem>
+			<castItem><role id="UN-GRAND-DE-L-ÉTAT" sex="2">UN GRAND DE L'ÉTAT</role>, Le Sr. Chardiny.</castItem>
+			<castItem><role id="UN-CHASSEUR" sex="2">UN CHASSEUR</role>, le Sr. Moreau.</castItem>
+			<castItem><role id="GARDES" sex="9">GARDES</role>.</castItem>
 		</castList>
 		<set location='Trézène' country='Grèce' periode='Temps mythologiques' link=''>La scène est à Trézène, ville du Péloponnèse.</set>
 	</front>

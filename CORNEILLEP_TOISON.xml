@@ -6,9 +6,10 @@
 				<title>LA CONQUÊTE DE LA TOISON D'OR, TRAGÉDIE</title>
 				<author born='1606' born_location='Rouen' death='1684' death_location='Paris' academie='1647'>CORNEILLE, Pierre</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE</p><p>Mai 2006</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>mythe grec</inspiration>
@@ -41,34 +42,34 @@
 			<premiere date='1661-02-19' location='Théâtre du Marais'>Représenté pour la première fois le 19 février 1661 au Théâtre du Marais.</premiere>
 		</performance>
 	<castList><head>Acteurs </head>
-	<castItem><role id="FRANCE" civil="F" type="A" statut='personnification' age='A' stat_amour='néant'>LA FRANCE</role>.</castItem>
-	<castItem><role id="VICTOIRE" civil="F" type="A" statut='allégorie' age='allégorie' stat_amour='néant'>LA VICTOIRE</role>.</castItem>
-	<castItem><role id="MARS" civil="M" type="D" statut='dieu' age='A' stat_amour='néant'>MARS</role>.</castItem>
-	<castItem><role id="PAIX" civil="F" type="A" statut='allégorie' age='A' stat_amour='néant'>LA PAIX</role>.</castItem>
-	<castItem><role id="HYMENEE" civil="F" type="D" statut='dieu' age='A' stat_amour='néant'>L'HYMÉNÉE</role>.</castItem>
-		<castItem><role id="ENVIE" civil="F" type="A" statut='allégorie' age='A' stat_amour='néant'>L'ENVIE</role></castItem>
-	<castItem><role id="DISCORDE" civil="F" type="H" statut='allégorie' age='A' stat_amour='néant'>LA DISCORDE</role></castItem>
-	<castItem><role id="CHOEUR_MUSIQUE" civil="G" type="H" statut='choeur' age='A' stat_amour='néant'>LE CHOEUR de musique</role></castItem>
+	<castItem><role id="FRANCE" sex="2" type="P" statut='pays' age='A' stat_amour='néant'>LA FRANCE</role>.</castItem>
+	<castItem><role id="VICTOIRE" sex="2" type="P" statut='événement' age='A' stat_amour='néant'>LA VICTOIRE</role>.</castItem>
+	<castItem><role id="MARS" sex="1" type="D" statut='dieu' age='A' stat_amour='néant'>MARS</role>.</castItem>
+	<castItem><role id="PAIX" sex="2" type="P" statut='événement' age='A' stat_amour='néant'>LA PAIX</role>.</castItem>
+	<castItem><role id="HYMENEE" sex="2" type="D" statut='dieu' age='A' stat_amour='néant'>L'HYMÉNÉE</role>.</castItem>
+		<castItem><role id="ENVIE" sex="2" type="P" statut='allégorie' age='A' stat_amour='néant'>L'ENVIE</role></castItem>
+	<castItem><role id="DISCORDE" sex="2" type="H" statut='allégorie' age='A' stat_amour='néant'>LA DISCORDE</role></castItem>
+	<castItem><role id="CHOEUR_MUSIQUE" sex="9" type="H" statut='choeur' age='A' stat_amour='néant'>LE CHOEUR de musique</role></castItem>
 
-	<castItem><role id="AAETE" civil="M" type="H" statut='roi' age='A' stat_amour='néant'>AAETE</role>, roi de Colchos, fils du Soleil.</castItem>
-	<castItem><role id="ABSYRTE" civil="M" type="H" statut='prince' age='A' stat_amour='néant'>ABSYRTE</role>, fils d'Aaete.</castItem>
-	<castItem><role id="CHALCIOPE" civil="F" type="H" statut='prince' age='A' stat_amour='néant'>CHALCIOPE</role>, fille d'Aaete, veuve de Phryxus.</castItem>
-	<castItem><role id="MÉDÉE" civil="F" type="H" statut='prince' age='A' stat_amour='néant'>MÉDÉE</role>, fille d'Aaete, amante de Jason.</castItem>
-	<castItem><role id="HYPSIPYLE" civil="F" type="H" statut='roi' age='A' stat_amour='néant'>HYPSIPYLE</role>, reine de Lemnos.</castItem>
-	<castItem><role id="JASON" civil="M" type="H" statut='prince' age='A' stat_amour='néant'>JASON</role>, prince de Thessalie, chef des Argonautes.</castItem>
-	<castItem><role id="PÉLÉE" civil="M" type="H" statut='aristocrate' age='A' stat_amour='néant'>PÉLÉE</role>, argonaute.</castItem>
-	<castItem><role id="IPHITE" civil="M" type="H" statut='aristocrate' age='A' stat_amour='néant'>IPHITE</role>, argonaute.</castItem>
-	<castItem><role id="ORPHÉE" civil="M" type="H" statut='aristocrate' age='A' stat_amour='néant'>ORPHÉE</role>, argonaute.</castItem>
-	<castItem><role id="ZÉTHÈS" civil="M" type="H" statut='aristocrate' age='A' stat_amour='néant'>ZÉTHÈS</role>, argonaute allié, fils de Borée et d'Orithye.</castItem>
-	<castItem><role id="CALAIS" civil="M" type="H" statut='aristocrate' age='A' stat_amour='néant'>CALAIS</role>, argonaute allié, fils de Borée et d'Orithye.</castItem>
-	<castItem><role id="GLAUQUE" civil="M" type="H" statut='aristocrate' age='A' stat_amour='néant'>GLAUQUE</role>, argonaute allié, fils de Borée et d'Orithye.</castItem>
-	<castItem><role id="SOLEIL" civil="M" type="D" statut='dieu' age='A' stat_amour='néant'>SOLEIL</role>.</castItem>
-	<castItem><role id="IRIS" civil="F" type="D" statut='dieu' age='A' stat_amour='néant'>IRIS</role>.</castItem>
-	<castItem><role id="JUNON" civil="F" type="D" statut='dieu' age='A' stat_amour='néant'>JUNON</role>.</castItem>
-	<castItem><role id="JUPITER" civil="M" type="D" statut='dieu' age='A' stat_amour='néant'>JUPITER</role>.</castItem>
-	<castItem><role id="TRITONS" civil="G" type="D" statut='dieu' age='A' stat_amour='néant'>Deux TRITONS</role>.</castItem>
-	<castItem><role id="SIRENES" civil="G" type="D" statut='dieu' age='A' stat_amour='néant'>Deux SIRÈNES</role>.</castItem>
-	<castItem><role id="VENTS" civil="M" type="D" statut='personnification' age='A' stat_amour='néant'>Quatre VENTS</role>.</castItem>
+	<castItem><role id="AAETE" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>AAETE</role>, roi de Colchos, fils du Soleil.</castItem>
+	<castItem><role id="ABSYRTE" sex="1" type="H" statut='prince' age='J' stat_amour='néant'>ABSYRTE</role>, fils d'Aaete.</castItem>
+	<castItem><role id="CHALCIOPE" sex="2" type="H" statut='prince' age='J' stat_amour='néant'>CHALCIOPE</role>, fille d'Aaete, veuve de Phryxus.</castItem>
+	<castItem><role id="MÉDÉE" sex="2" type="H" statut='prince' age='J' stat_amour='néant'>MÉDÉE</role>, fille d'Aaete, amante de Jason.</castItem>
+	<castItem><role id="HYPSIPYLE" sex="2" type="H" statut='roi' age='A' stat_amour='néant'>HYPSIPYLE</role>, reine de Lemnos.</castItem>
+	<castItem><role id="JASON" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>JASON</role>, prince de Thessalie, chef des Argonautes.</castItem>
+	<castItem><role id="PÉLÉE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>PÉLÉE</role>, argonaute.</castItem>
+	<castItem><role id="IPHITE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>IPHITE</role>, argonaute.</castItem>
+	<castItem><role id="ORPHÉE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>ORPHÉE</role>, argonaute.</castItem>
+	<castItem><role id="ZÉTHÈS" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>ZÉTHÈS</role>, argonaute allié, fils de Borée et d'Orithye.</castItem>
+	<castItem><role id="CALAIS" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>CALAIS</role>, argonaute allié, fils de Borée et d'Orithye.</castItem>
+	<castItem><role id="GLAUQUE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>GLAUQUE</role>, argonaute allié, fils de Borée et d'Orithye.</castItem>
+	<castItem><role id="SOLEIL" sex="1" type="D" statut='dieu' age='A' stat_amour='néant'>SOLEIL</role>.</castItem>
+	<castItem><role id="IRIS" sex="2" type="D" statut='dieu' age='A' stat_amour='néant'>IRIS</role>.</castItem>
+	<castItem><role id="JUNON" sex="2" type="D" statut='dieu' age='A' stat_amour='néant'>JUNON</role>.</castItem>
+	<castItem><role id="JUPITER" sex="1" type="D" statut='dieu' age='A' stat_amour='néant'>JUPITER</role>.</castItem>
+	<castItem><role id="TRITONS" sex="9" type="D" statut='dieu' age='A' stat_amour='néant'>Deux TRITONS</role>.</castItem>
+	<castItem><role id="SIRENES" sex="9" type="D" statut='dieu' age='A' stat_amour='néant'>Deux SIRÈNES</role>.</castItem>
+	<castItem><role id="VENTS" sex="1" type="D" statut='personnification' age='A' stat_amour='néant'>QUATRE VENTS</role>.</castItem>
 
 	</castList>
 	<set location='Colchos' country='Georgie' periode='Temps mythologiques' link=''>La scène est à Colchos.</set>

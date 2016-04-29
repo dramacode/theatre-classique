@@ -7,9 +7,10 @@
 				<author born="1740" born_location="Paris" death="1814" death_location="Paris" academie="1673">MERCIER, Louis-Sébatsien</author>
 				<date>1782</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE janvier 2013</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Drame</genre>
 				<inspiration>moeurs italiennes</inspiration>
@@ -48,15 +49,15 @@
 		</div>
 		<castList>
 			<head>PERSONNAGES</head>
-			<castItem><role id="CAPULET" civil='M' type="H" statut="bourgeois" age="A" stat_amour='néant'>CAPULET</role>, chef.</castItem>
-			<castItem><role id="MONTAIGU" civil='M' type="H" statut="bourgeois" age="A" stat_amour='néant'>MONTAIGU</role>, chef.</castItem>
-			<castItem><role id="JULIETTE" civil='F' type="H" statut="bourgeois" age="J" stat_amour='amoureux'>JULIETTE</role>, fille de Capulet.</castItem>
-			<castItem><role id="ROMÉO" civil='M' type="H" statut="bourgeois" age="A" stat_amour='amoureux'>ROMÉO</role>, fils de Montaigu.</castItem>
-			<castItem><role id="BENVOGLIO" civil='M' type="H" statut="médecin" age="A" stat_amour='néant'>BENVOGLIO</role>, médecin naturalise, attaché aux deux maisons.</castItem>
-			<castItem><role id="MADAME-CAPULET" civil='F' type="H" statut="bourgeois" age="A" stat_amour='néant'>Madame CAPULET</role>, mère de Juliette.</castItem>
-			<castItem><role id="LAURE" civil='F' type="H" statut="suivante" age="A" stat_amour='néant'>LAURE</role>, suivante de Juliette.</castItem>
-			<castItem><role id="PARENTS" civil='G' type="H" statut="parent" age="A" stat_amour='néant'>PLUSIEURS PARENTS des deux maisons.</role>.</castItem>
-			<castItem><role id="DOMESTIQUES" civil='G' type="H" statut="domestique" age="A" stat_amour='néant'>DOMESTIQUES</role>.</castItem>
+			<castItem><role id="CAPULET" sex="1" type="H" statut="bourgeois" age="A" stat_amour='néant'>CAPULET</role>, chef.</castItem>
+			<castItem><role id="MONTAIGU" sex="1" type="H" statut="bourgeois" age="A" stat_amour='néant'>MONTAIGU</role>, chef.</castItem>
+			<castItem><role id="JULIETTE" sex="2" type="H" statut="bourgeois" age="J" stat_amour='amoureux'>JULIETTE</role>, fille de Capulet.</castItem>
+			<castItem><role id="ROMÉO" sex="1" type="H" statut="bourgeois" age="A" stat_amour='amoureux'>ROMÉO</role>, fils de Montaigu.</castItem>
+			<castItem><role id="BENVOGLIO" sex="1" type="H" statut="médecin" age="A" stat_amour='néant'>BENVOGLIO</role>, médecin naturalise, attaché aux deux maisons.</castItem>
+			<castItem><role id="MADAME-CAPULET" sex="2" type="H" statut="bourgeois" age="A" stat_amour='néant'>Madame CAPULET</role>, mère de Juliette.</castItem>
+			<castItem><role id="LAURE" sex="2" type="H" statut="suivante" age="A" stat_amour='néant'>LAURE</role>, suivante de Juliette.</castItem>
+			<castItem><role id="PARENTS" sex="9" type="H" statut="parent" age="A" stat_amour='néant'>PLUSIEURS PARENTS des deux maisons.</role>.</castItem>
+			<castItem><role id="DOMESTIQUES" sex="9" type="H" statut="domestique" age="A" stat_amour='néant'>DOMESTIQUES</role>.</castItem>
 		</castList>
 <set location='Vérone' country='Italie' periode='XVIème' link=''>La scène est à Vérone.</set>
 </front>

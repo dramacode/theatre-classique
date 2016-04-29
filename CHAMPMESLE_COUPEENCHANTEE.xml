@@ -6,9 +6,10 @@
 				<title>LA COUPE ENCHANTÉE, COMÉDIE</title>
 				<author born='1642' born_location='Paris' death='1701' death_location='Paris' academie=''>CHAMPMÉSLÉ, Charles Chevillet dit</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE avril 2015</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -52,15 +53,15 @@
 			<premiere date="1693-04-24" location='Théâtre de la rue des Fossés Saint-Germain'>Représentée pour la première fois le 24 Avril 1693 au Théâtre de la rue des Fossés Saint-Germain.</premiere>
 		</performance>
 	<castList><head>ACTEURS.</head>
-		<castItem><role id="ANSELME" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>ANSELME</role>.</castItem>
-		<castItem><role id="LELIE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>LELIE</role>, Fils d'Anselme.</castItem>
-		<castItem><role id="JOSSELIN" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>JOSSELIN</role>, Gouverneur de Lélie.</castItem>
-		<castItem><role id="BERTRAND" civil='M' type="H" statut='paysan' age='A' stat_amour='néant'>BERTRAND</role>, Fermier d'Anselme.</castItem>
-		<castItem><role id="MONSIEUR GRIFFON" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>MONSIEUR GRIFFON</role>, Beau-frère.</castItem>
-		<castItem><role id="MONSIEUR TOBIE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>MONSIEUR TOBIE</role>, Beau-frère.</castItem>
-		<castItem><role id="LUCINDE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>LUCINDE</role>, Fille de M. Tobie.</castItem>
-		<castItem><role id="THIBAUT" civil='M' type="H" statut='paysan' age='A' stat_amour='néant'>THIBAUT</role>, Fermier de M. Tobie.</castItem>
-		<castItem><role id="PERRETTE" civil='F' type="H" statut='paysan' age='A' stat_amour='néant'>PERRETTE</role>, Femme de Thibaut.</castItem>
+		<castItem><role id="ANSELME" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>ANSELME</role>.</castItem>
+		<castItem><role id="LELIE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>LELIE</role>, Fils d'Anselme.</castItem>
+		<castItem><role id="JOSSELIN" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>JOSSELIN</role>, Gouverneur de Lélie.</castItem>
+		<castItem><role id="BERTRAND" sex="1" type="H" statut='paysan' age='A' stat_amour='néant'>BERTRAND</role>, Fermier d'Anselme.</castItem>
+		<castItem><role id="MONSIEUR GRIFFON" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>MONSIEUR GRIFFON</role>, Beau-frère.</castItem>
+		<castItem><role id="MONSIEUR TOBIE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>MONSIEUR TOBIE</role>, Beau-frère.</castItem>
+		<castItem><role id="LUCINDE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>LUCINDE</role>, Fille de M. Tobie.</castItem>
+		<castItem><role id="THIBAUT" sex="1" type="H" statut='paysan' age='A' stat_amour='néant'>THIBAUT</role>, Fermier de M. Tobie.</castItem>
+		<castItem><role id="PERRETTE" sex="2" type="H" statut='paysan' age='A' stat_amour='néant'>PERRETTE</role>, Femme de Thibaut.</castItem>
 	</castList>
 	<set location="Paris" country='France' periode='XVIIème' link=''>La Scène est dans la cour du Château d'Anselme.</set>
 </front>

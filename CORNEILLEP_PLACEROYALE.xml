@@ -7,9 +7,10 @@
 				<author born='1606' born_location='Rouen' death='1684' death_location='Paris' academie='1647'>CORNEILLE, Pierre</author>
 				<date>1634</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, Mai 2006, revu 2015.</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -55,14 +56,14 @@
 			<p>CORNEILLE.</p>
 		</div>
 		<castList><head>ACTEURS</head>
-			<castItem><role id="ALIDOR" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>ALIDOR</role>, amant d'Angélique.</castItem>
-			<castItem><role id="CLEANDRE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>CLÉANDRE</role>, ami d'Alidor.</castItem>
-			<castItem><role id="DORASTE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='Angélique'>DORASTE</role>, amoureux d'Angélique.</castItem>
-			<castItem><role id="LYSIS" civil='M' type="H" statut='aristocrate' age='A' stat_amour='Philis'>LYSIS</role>, amoureux de Philis.</castItem>
-			<castItem><role id="ANGELIQUE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>ANGÉLIQUE</role>, maîtresse d'Alidor et de Doraste.</castItem>
-			<castItem><role id="PHILIS" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>PHILIS</role>, soeur de Doraste.</castItem>
-			<castItem><role id="POLYMAS" civil='M' type="H" statut='domestique' age='A' stat_amour='néant'>POLYMAS</role>, domestique d'Alidor.</castItem>
-			<castItem><role id="LYCANTE" civil='M' type="H" statut='domestique' age='A' stat_amour='néant'>LYCANTE</role>, domestique de Doraste.</castItem>
+			<castItem><role id="ALIDOR" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>ALIDOR</role>, amant d'Angélique.</castItem>
+			<castItem><role id="CLÉANDRE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>CLÉANDRE</role>, ami d'Alidor.</castItem>
+			<castItem><role id="DORASTE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='Angélique'>DORASTE</role>, amoureux d'Angélique.</castItem>
+			<castItem><role id="LYSIS" sex="1" type="H" statut='aristocrate' age='A' stat_amour='Philis'>LYSIS</role>, amoureux de Philis.</castItem>
+			<castItem><role id="ANGÉLIQUE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>ANGÉLIQUE</role>, maîtresse d'Alidor et de Doraste.</castItem>
+			<castItem><role id="PHILIS" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>PHILIS</role>, soeur de Doraste.</castItem>
+			<castItem><role id="POLYMAS" sex="1" type="H" statut='domestique' age='A' stat_amour='néant'>POLYMAS</role>, domestique d'Alidor.</castItem>
+			<castItem><role id="LYCANTE" sex="1" type="H" statut='domestique' age='A' stat_amour='néant'>LYCANTE</role>, domestique de Doraste.</castItem>
 		</castList>
 		<set location='Paris' country='France' periode='XVIIème' link=''>La scène est à la Place Royale.</set>
 	</front>

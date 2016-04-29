@@ -6,21 +6,18 @@
 				<title>L'ILLUSTRE CORSAIRE, TRAGI-COMÉDIE</title>
 				<author born='1604' born_location='Besançon' death='1686' death_location='Besançon' academie=''>MAIRET, Jean</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, Mai 2015</p>
-			</publicationStmp>
+				<idno>MAIRET_ILLUSTRECORSAIRE</idno>
+			</publicationStmt>
 			<SourceDesc>
 				<genre>Tragi-comédie</genre>
-				<inspiration>meours françaises</inspiration>
+				<inspiration>moeurs françaises</inspiration>
 				<structure>Cinq actes</structure>
 				<type>vers</type>
 				<periode>1631-1640</periode>
 				<taille>1750-2000</taille>
 				<permalien>http://gallica.bnf.fr/ark:/12148/bpt6k54069428</permalien>
-				<sources>
-					<source id='1'><author></author><text></text></source>
-				</sources>	
-
 			</SourceDesc>
 		</fileDesc>
 </teiHeader>
@@ -73,17 +70,17 @@
 </div>
 
 	<castList><head>LES ACTEURS</head>
-		<castItem><role id="LEPANTE" civil='M' type="H" statut="prince" age="A" stat_amour='néant'>LEPANTE</role>, Prince de Sicile, et Amant d'Isménie.</castItem>
-		<castItem><role id="ÉVANDRE" civil='M' type="H" statut="médecin" age="A" stat_amour='néant'>ÉVANDRE</role>, Médecin.</castItem>
-		<castItem><role id="DORANTE" civil='M' type="H" statut="prince" age="A" stat_amour='néant'>DORANTE</role>, Prince de Provence, et frère d'Isménie.</castItem>
-		<castItem><role id="LYPAS" civil='M' type="H" statut="roi" age="A" stat_amour='néant'>LYPAS</role>, Roi de Ligurie.</castItem>
-		<castItem><role id="ARGANT" civil='M' type="H" statut="corsaire" age="A" stat_amour='néant'>ARGANT</role>, Corsaire.</castItem>
-		<castItem><role id="TÉNARE" civil='M' type="H" statut="corsaire" age="A" stat_amour='néant'>TÉNARE</role>, Corsaire</castItem>
-		<castItem><role id="ERPHORE" civil='M' type="H" statut="confident" age="A" stat_amour='néant'>ERPHORE</role>, Confident de Lypas.</castItem>
-		<castItem><role id="ISMÉNIE" civil='F' type="H" statut="aristocrate" age="A" stat_amour='néant'>ISMÉNIE</role>.</castItem>
-		<castItem><role id="ARMILLE" civil='F' type="H" statut="aristocrate" age="A" stat_amour='néant'>ARMILLE</role>, Dame d'honneur d'Isménie.</castItem>
-		<castItem><role id="FÉLICE" civil='F' type="H" statut="fille d'honneur" age="A" stat_amour='néant'>FÉLICE</role>, Fille d'honneur d'Isménie.</castItem>
-		<castItem><role id="CÉLIE" civil='F' type="H" statut="fille d'honneuri" age="A" stat_amour='néant'>CÉLIE</role>, Fille d'honneur d'Isménie.</castItem>
+		<castItem><role id="LEPANTE" sex="1" type="H" statut="prince" age="A" stat_amour='néant'>LEPANTE</role>, Prince de Sicile, et Amant d'Isménie.</castItem>
+		<castItem><role id="ÉVANDRE" sex="1" type="H" statut="médecin" age="A" stat_amour='néant'>ÉVANDRE</role>, Médecin.</castItem>
+		<castItem><role id="DORANTE" sex="1" type="H" statut="prince" age="A" stat_amour='néant'>DORANTE</role>, Prince de Provence, et frère d'Isménie.</castItem>
+		<castItem><role id="LYPAS" sex="1" type="H" statut="roi" age="A" stat_amour='néant'>LYPAS</role>, Roi de Ligurie.</castItem>
+		<castItem><role id="ARGANT" sex="1" type="H" statut="corsaire" age="A" stat_amour='néant'>ARGANT</role>, Corsaire.</castItem>
+		<castItem><role id="TÉNARE" sex="1" type="H" statut="corsaire" age="A" stat_amour='néant'>TÉNARE</role>, Corsaire</castItem>
+		<castItem><role id="ERPHORE" sex="1" type="H" statut="confident" age="A" stat_amour='néant'>ERPHORE</role>, Confident de Lypas.</castItem>
+		<castItem><role id="ISMÉNIE" sex="2" type="H" statut="aristocrate" age="A" stat_amour='néant'>ISMÉNIE</role>.</castItem>
+		<castItem><role id="ARMILLE" sex="2" type="H" statut="aristocrate" age="A" stat_amour='néant'>ARMILLE</role>, Dame d'honneur d'Isménie.</castItem>
+		<castItem><role id="FÉLICE" sex="2" type="H" statut="fille d'honneur" age="A" stat_amour='néant'>FÉLICE</role>, Fille d'honneur d'Isménie.</castItem>
+		<castItem><role id="CÉLIE" sex="2" type="H" statut="fille d'honneuri" age="A" stat_amour='néant'>CÉLIE</role>, Fille d'honneur d'Isménie.</castItem>
 	</castList>
 	<set location='Marseille' country='France' periode='XVIIème' link=''>a Scène est à Marseille.</set>
 	</front>

@@ -7,9 +7,10 @@
 				<author born='1712' born_location='Génève' death='1778' death_location='Ermenonville' academie=''>ROUSSEAU, Jean-Jacques</author>
 				<date>1752</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIÈVRE, Décembre 2012.</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs hongroises</inspiration>
@@ -44,12 +45,12 @@
 
 		<castList>
 			<head>PERSONNAGES</head>
-			<castItem><role id="GOTERNITZ" civil="M" type="H" statut="aristocrate" age="A" stat_amour='néant'>GOTERNITZ</role>, gentilhomme hongrois.</castItem>
-			<castItem><role id="MACKER" civil="M" type="H" statut="(sans)" age="A" stat_amour='amant éconduit'>MACKER</role>, Hongrois.</castItem>
-			<castItem><role id="DORANTE" civil="M" type="H" statut="prisonnier" age="A" stat_amour='amoureux'>DORANTE</role>, officier français, prisonnier de guerre.</castItem>
-			<castItem><role id="SOPHIE" civil="F" type="H" statut="aristocrate" age="A" stat_amour='amoureux'>SOPHIE</role>, fille de Goternitz.</castItem>
-			<castItem><role id="FRÉDÉRICH" civil="M" type="H" statut="officier" age="A" stat_amour='néant'>FRÉDÉRICH</role>, officier hongrois, fils de Goternitz.</castItem>
-			<castItem><role id="JACQUARD" civil="M" type="H" statut="valet" age="A" stat_amour='néant'>JACQUARD</role>, suisse, valet de Dorante.</castItem>
+			<castItem><role id="GOTERNITZ" sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>GOTERNITZ</role>, gentilhomme hongrois.</castItem>
+			<castItem><role id="MACKER" sex="1" type="H" statut="(sans)" age="A" stat_amour='amant éconduit'>MACKER</role>, Hongrois.</castItem>
+			<castItem><role id="DORANTE" sex="1" type="H" statut="prisonnier" age="A" stat_amour='amoureux'>DORANTE</role>, officier français, prisonnier de guerre.</castItem>
+			<castItem><role id="SOPHIE" sex="2" type="H" statut="aristocrate" age="A" stat_amour='amoureux'>SOPHIE</role>, fille de Goternitz.</castItem>
+			<castItem><role id="FRÉDÉRICH" sex="1" type="H" statut="officier" age="A" stat_amour='néant'>FRÉDÉRICH</role>, officier hongrois, fils de Goternitz.</castItem>
+			<castItem><role id="JACQUARD" sex="1" type="H" statut="valet" age="A" stat_amour='néant'>JACQUARD</role>, suisse, valet de Dorante.</castItem>
 		</castList>
 		<set location='Hongrie' country='Hongrie' periode='XVIIIème' link=''>La scène est en Hongrie.</set>
 	</front>

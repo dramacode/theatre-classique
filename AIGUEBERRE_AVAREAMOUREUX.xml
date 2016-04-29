@@ -6,9 +6,10 @@
 			<title>L'AVARE AMOUREUX, COMÉDIE</title>
 			<author born='1692' born_location='' death='1655' death_location='' academie=''>AIGUEBERRE, Jean Dumas d'</author>
 		</titleStmt>
-		<publicationStmp>
+		<publicationStmt>
 			<p>publié par Paul FIEVRE juillet 2014, revu février 2015</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Comédie</genre>
 			<inspiration>moeurs françaises</inspiration>
@@ -41,14 +42,14 @@
 			<premiere date='(non représentée)' location='(non représentée)'></premiere>
 		</performance>
 	<castList><head>ACTEURS.</head>
-		<castItem><role id="ARGANTE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>ARGANTE</role>, amant de Julie.</castItem>
-		<castItem><role id="GÉRONTE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>GÉRONTE</role>, père de Julie.</castItem>
-		<castItem><role id="JULIE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>JULIE</role>, fille de Géronte.</castItem>
-		<castItem><role id="DORIMÈNE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>DORIMÈNE</role>, soeur de Géronte.</castItem>
-		<castItem><role id="VALÈRE" civil='M' type="H" statut='marquis' age='A' stat_amour='néant'>VALÈRE</role>, amant de Julie.</castItem>
-		<castItem><role id="NÉRINE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>NÉRINE</role>, suivante de Julie.</castItem>
-		<castItem><role id="MONSIEUR SUBTIL" civil='M' type="H" statut='notaire' age='A' stat_amour='néant'>MONSIEUR SUBTIL</role>, notaire.</castItem>
-		<castItem><role id="MONSIEUR COURTELIGNE" civil='M' type="H" statut='notaire' age='A' stat_amour='néant'>MONSIEUR COURTELIGNE</role>, notaire.</castItem>
+		<castItem><role id="ARGANTE" sex="1" type="H" statut='bourgeois' age='J' stat_amour='Julie'>ARGANTE</role>, amant de Julie.</castItem>
+		<castItem><role id="GÉRONTE" sex="1" type="H" statut='bourgeois' age='V' stat_amour='néant'>GÉRONTE</role>, père de Julie.</castItem>
+		<castItem><role id="JULIE" sex="2" type="H" statut='bourgeois' age='J' stat_amour='néant'>JULIE</role>, fille de Géronte.</castItem>
+		<castItem><role id="DORIMÈNE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>DORIMÈNE</role>, soeur de Géronte.</castItem>
+		<castItem><role id="VALÈRE" sex="1" type="H" statut='marquis' age='J' stat_amour='Julie'>VALÈRE</role>, amant de Julie.</castItem>
+		<castItem><role id="NÉRINE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>NÉRINE</role>, suivante de Julie.</castItem>
+		<castItem><role id="MONSIEUR SUBTIL" sex="1" type="H" statut='notaire' age='A' stat_amour='néant'>MONSIEUR SUBTIL</role>, notaire.</castItem>
+		<castItem><role id="MONSIEUR COURTELIGNE" sex="1" type="H" statut='notaire' age='A' stat_amour='néant'>MONSIEUR COURTELIGNE</role>, notaire.</castItem>
     </castList>
 <set location='Campagne' country='France' periode='XVIIIème' link=''>La Scène est à la Maison de Campagne de...</set>
 </front>

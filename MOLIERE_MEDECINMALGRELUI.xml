@@ -7,9 +7,10 @@
 			<author born='1622' born_location='Paris' death='1673' death_location='Paris' academie=''>MOLIÈRE</author>
 				<date>1660</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, Octobre 2010</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -17,7 +18,7 @@
 				<type>prose</type>
 				<periode>1651-1660</periode>
 				<taille>(mesure non pertinente)</taille>
-				<permalien>http://gallica.bnf.fr/ark:/12148/bpt6k5690145v.image.r=Moli%C3%A8re+M%C3%A9decin+malgr%C3%A9+lui.f198.pagination.langFR</permalien>
+				<permalien>http://gallica.bnf.fr/ark:/12148/bpt6k5690145</permalien>
 				<sources>
 					<source id="1"><author/><text/></source>
 				</sources>	
@@ -46,17 +47,17 @@
 			<premiere date="1666-08-06" location='Théâtre du Palais-Royal'>Représentée pour la première fois à Paris sur le théâtre du Palais-Royal le vendredi 6e du mois d'août 1666 par la Troupe du Roi.</premiere>
 		</performance>
 	<castList><head>PERSONNAGES</head>
-	<castItem><role id="SGANARELLE" civil="M" type="H" statut='bourgeois' age='A' stat_amour='néant'>SGANARELLE</role>, mari de Martine.</castItem>
-	<castItem><role id="MARTINE" civil="F" type="H" statut='bourgeois' age='A' stat_amour='néant'>MARTINE</role>, femme de Sganarelle.</castItem>
-	<castItem><role id="MONSIEUR-ROBERT" civil="M" type="H" statut='bourgeois' age='A' stat_amour='néant'>MONSIEUR ROBERT</role>, voisin de Sganarelle.</castItem>
-	<castItem><role id="VALÈRE" civil="M" type="H" statut='domestique' age='A' stat_amour='néant'>VALÈRE</role>, domestique de Géronte.</castItem>
-	<castItem><role id="LUCAS" civil="M" type="H" statut='bourgeois' age='A' stat_amour='néant'>LUCAS</role>, mari de Jacqueline.</castItem>
-	<castItem><role id="GÉRONTE" civil="M" type="H" statut='bourgeois' age='V' stat_amour='néant'>GÉRONTE</role>, père de Lucinde.</castItem>
-	<castItem><role id="JACQUELINE" civil="F" type="H" statut='nourrice' age='A' stat_amour='néant'>JACQUELINE</role>, nourrice chez Géronte, et femme de Lucas.</castItem>
-	<castItem><role id="LUCINDE" civil="F" type="H" statut='bourgeois' age='A' stat_amour='néant'>LUCINDE</role>, fille de Géronte.</castItem>
-	<castItem><role id="LÉANDRE" civil="M" type="H" statut='aristocrate' age='A' stat_amour='amoureux'>LÉANDRE</role>, amant de Lucinde.</castItem>
-	<castItem><role id="THIBAUT" civil="M" type="H" statut='paysan' age='A' stat_amour='néant'>THIBAUT</role>, père de Perrin.</castItem>
-	<castItem><role id="PERRIN" civil="M" type="H" statut='paysan' age='A' stat_amour='néant'>PERRIN</role>, fils de Thibaut, paysan.</castItem>
+	<castItem><role id="SGANARELLE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>SGANARELLE</role>, mari de Martine.</castItem>
+	<castItem><role id="MARTINE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>MARTINE</role>, femme de Sganarelle.</castItem>
+	<castItem><role id="MONSIEUR-ROBERT" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>MONSIEUR ROBERT</role>, voisin de Sganarelle.</castItem>
+	<castItem><role id="VALÈRE" sex="1" type="H" statut='domestique' age='A' stat_amour='néant'>VALÈRE</role>, domestique de Géronte.</castItem>
+	<castItem><role id="LUCAS" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>LUCAS</role>, mari de Jacqueline.</castItem>
+	<castItem><role id="GÉRONTE" sex="1" type="H" statut='bourgeois' age='V' stat_amour='néant'>GÉRONTE</role>, père de Lucinde.</castItem>
+	<castItem><role id="JACQUELINE" sex="2" type="H" statut='nourrice' age='A' stat_amour='néant'>JACQUELINE</role>, nourrice chez Géronte, et femme de Lucas.</castItem>
+	<castItem><role id="LUCINDE" sex="2" type="H" statut='bourgeois' age='J' stat_amour='néant'>LUCINDE</role>, fille de Géronte.</castItem>
+	<castItem><role id="LÉANDRE" sex="1" type="H" statut='aristocrate' age='J' stat_amour='amoureux'>LÉANDRE</role>, amant de Lucinde.</castItem>
+	<castItem><role id="THIBAUT" sex="1" type="H" statut='paysan' age='A' stat_amour='néant'>THIBAUT</role>, père de Perrin.</castItem>
+	<castItem><role id="PERRIN" sex="1" type="H" statut='paysan' age='J' stat_amour='néant'>PERRIN</role>, fils de Thibaut, paysan.</castItem>
 	</castList>
 		<set location='(non indiqué)' country='France' periode='XVIIème' link=''>[Le Lieu de l'action n'est pas indiqué.]</set>
 	</front>
@@ -1159,7 +1160,7 @@
 </p>
 </sp>
 <sp who='LUCAS'><speaker>LUCAS.</speaker>
-<note type="">Fraime : frime, terme populaire; Semblant, feinte. [L]</note>
+<note type="L">Fraime : frime, terme populaire; Semblant, feinte. [L]</note>
 <p id='61'>
 	<s id='1'>Pourquoi toutes ces fraimes-là ? </s>
 	<s id='2'>Et à quoi est-ce que ça vous sart ?</s>

@@ -6,9 +6,10 @@
 			<title>LES SINCÈRES, COMÉDIE</title>
 			<author born='1688' born_location='Auvergne' death='1763' death_location='Paris' academie='1743'>MARIVAUX</author>
 		</titleStmt>
-		<publicationStmp>
+		<publicationStmt>
 			<p>publié par Paul FIEVRE novembre 2010</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Comédie</genre>
 			<inspiration>moeurs françaises</inspiration>
@@ -40,12 +41,12 @@
 				<premiere date='1739-01-13' location='Hôtel de Bourgogne'>Comédie en un acte, en prose, représentée pour la première fois le 13 janvier 1739 par les comédiens Italiens.</premiere>
 		</performance>
 	<castList><head>ACTEURS</head>
-		<castItem><role id="LA-MARQUISE" civil="F" type="H" statut="marqui" age="A" stat_amour='néant'>LA MARQUISE</role>.</castItem>
-		<castItem><role id="DORANTE" civil="M" type="H" statut="aristocrate" age="A" stat_amour='néant'>DORANTE</role>.</castItem>
-		<castItem><role id="ARAMINTE" civil="F" type="H" statut="aristocrate" age="A" stat_amour='néant'>ARAMINTE</role>.</castItem>
-		<castItem><role id="ERGASTE" civil="M" type="H" statut="aristocrate" age="A" stat_amour='néant'>ERGASTE</role>.</castItem>
-		<castItem><role id="LISETTE" civil="F" type="H" statut="suivante" age="A" stat_amour='néant'>LISETTE</role>, suivante de la Marquise.</castItem>
-		<castItem><role id="FRONTIN" civil="M" type="H" statut="valet" age="A" stat_amour='néant'>FRONTIN</role>, valet d'Ergaste.</castItem>
+		<castItem><role id="LA-MARQUISE" sex="2" type="H" statut="marqui" age="A" stat_amour='néant'>LA MARQUISE</role>.</castItem>
+		<castItem><role id="DORANTE" sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>DORANTE</role>.</castItem>
+		<castItem><role id="ARAMINTE" sex="2" type="H" statut="aristocrate" age="A" stat_amour='néant'>ARAMINTE</role>.</castItem>
+		<castItem><role id="ERGASTE" sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>ERGASTE</role>.</castItem>
+		<castItem><role id="LISETTE" sex="2" type="H" statut="suivante" age="A" stat_amour='néant'>LISETTE</role>, suivante de la Marquise.</castItem>
+		<castItem><role id="FRONTIN" sex="1" type="H" statut="valet" age="A" stat_amour='néant'>FRONTIN</role>, valet d'Ergaste.</castItem>
     </castList>
 <set location='(non indiqué)' country='France' periode='XVIIIème' link=''>La scène se passe en campagne chez la Marquise. </set>
 </front>

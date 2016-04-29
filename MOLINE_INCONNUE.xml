@@ -6,9 +6,10 @@
 			<title>L'INCONNUE PERSÉCUTÉE, COMÉDIE EN DEUX ACTES ET EN PROSE.</title>
 			<author born='1740' born_location='Paris' death='1820' death_location='Paris' academie=''>MOLINE, Pierre-Louis</author>
 		</titleStmt>
-		<publicationStmp>
+		<publicationStmt>
 			<p>publié par Paul FIEVRE novembre 2014</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Comédie</genre>
 			<inspiration>moeurs françaises</inspiration>
@@ -43,14 +44,14 @@
 		<premiere date='1776-10-25' location="Château de Fontainebleau">Représentée devant SA MAJESTÉ, à Fontainebleau, le 25 Octobre 1776.</premiere>
 	</performance>
 	<castList><head>PERSONNAGES.</head>
-		<castItem><role id="LE BARON" civil="M" type="H" statut='baron' age='A' stat_amour='néant'>LE BARON</role>,	le Sr. Laruette.</castItem>
-		<castItem><role id="LE MARQUIS" civil="M" type="H" statut='marquis' age='A' stat_amour='néant'>LE MARQUIS DE FLORIVAL</role>, jeune Officier, fils du Baron.	le Sr. Julien.</castItem>
-		<castItem><role id="CLARISSE" civil="F" type="H" statut='aristocrate' age='A' stat_amour='néant'>CLARISSE</role>, sur de Florival.	La Dlle. Dugazon.</castItem>
-		<castItem><role id="LE VICOMTE" civil="M" type="H" statut='vicomte' age='A' stat_amour='néant'>LE VICOMTE</role>, ami du Baron.	le Sr. Michu.</castItem>
-		<castItem><role id="JEANNETTE" civil="F" type="H" statut='bourgeois' age='A' stat_amour='néant'>JEANNETTE</role>, fille inconnue protégée du Baron.	La Dlle. Laruette.</castItem>
-		<castItem><role id="ZERBINE" civil="F" type="H" statut='suivante' age='A' stat_amour='néant'>ZERBINE</role>, suivante de Clarisse.	La Dlle. Trial.</castItem>
-		<castItem><role id="FABRICE" civil="M" type="H" statut='domestique' age='A' stat_amour='néant'>FABRICE</role>, Domestique du Baron.	le Sr. Narbonne.</castItem>
-		<castItem><role id="DOMESTIQUES" civil="G" type="H" statut='domestique' age='A' stat_amour='néant'>PLUSIEURS DOMESTIQUES</role>.</castItem>
+		<castItem><role id="LE BARON" sex="1" type="H" statut='baron' age='A' stat_amour='néant'>LE BARON</role>,	le Sr. Laruette.</castItem>
+		<castItem><role id="LE MARQUIS" sex="1" type="H" statut='marquis' age='A' stat_amour='néant'>LE MARQUIS DE FLORIVAL</role>, jeune Officier, fils du Baron.	le Sr. Julien.</castItem>
+		<castItem><role id="CLARISSE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>CLARISSE</role>, sur de Florival.	La Dlle. Dugazon.</castItem>
+		<castItem><role id="LE VICOMTE" sex="1" type="H" statut='vicomte' age='A' stat_amour='néant'>LE VICOMTE</role>, ami du Baron.	le Sr. Michu.</castItem>
+		<castItem><role id="JEANNETTE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>JEANNETTE</role>, fille inconnue protégée du Baron.	La Dlle. Laruette.</castItem>
+		<castItem><role id="ZERBINE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>ZERBINE</role>, suivante de Clarisse.	La Dlle. Trial.</castItem>
+		<castItem><role id="FABRICE" sex="1" type="H" statut='domestique' age='A' stat_amour='néant'>FABRICE</role>, Domestique du Baron.	le Sr. Narbonne.</castItem>
+		<castItem><role id="DOMESTIQUES" sex="9" type="H" statut='domestique' age='A' stat_amour='néant'>PLUSIEURS DOMESTIQUES</role>.</castItem>
 	</castList>
 <set location='Florence' country='Italie' periode='XVIIIème' link=''>La Scène est dans une maison de campagne du Baron, aux environs de Florence.</set>
 </front>

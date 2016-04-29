@@ -7,9 +7,10 @@
 				<author born='1723' born_location='Paris' death='1793' death_location='Saint-Germain-en-Laye' academie='1781'>LE MIERRE, Antoine-Marin</author>
 				<date>1766</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE</p><p>Septembre 2008</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire suisse</inspiration>
@@ -46,17 +47,17 @@
 		</performance>
 <castList>
 	<head>ACTEURS.</head>
-	<castItem><role id="GESLER" civil="M" type="H" statut='gouverneur' age='A' stat_amour='néant'>GESLER</role>, gouverneur du canton d'Uri.</castItem>
-	<castItem><role id="GUILLAUME-TELL" civil="M" type="H" statut='conjuré' age='A' stat_amour='néant'>GUILLAUME TELL</role>, suisse, conjuré.</castItem>
-	<castItem><role id="MELCHTAL" civil="M" type="H" statut='conjuré' age='A' stat_amour='néant'>MELCHTAL</role>, suisse, conjuré.</castItem>
-	<castItem><role id="FURST" civil="M" type="H" statut='conjuré' age='A' stat_amour='néant'>FURST</role>, suisse, conjuré.</castItem>
-	<castItem><role id="WERNER" civil="M" type="H" statut='conjuré' age='A' stat_amour='néant'>WERNER</role>, suisse, conjuré.</castItem>
-	<castItem><role id="CLEONE" civil="F" type="H" statut='bourgeois' age='A' stat_amour='néant'>CLEONE</role>, femme de Tell.</castItem>
-	<castItem><role id="LE FILS TELL" civil="M" type="H" statut='bourgeois' age='E' stat_amour='néant'>SON FILS</role>, personnage muet.</castItem>
-	<castItem><role id="ULRIC" civil="M" type="H" statut='confident' age='A' stat_amour='néant'>ULRIC</role>, confident de Gesler.</castItem>
-	<castItem><role id="UN OFFICIER" civil="M" type="H" statut='officier' age='A' stat_amour='néant'>UN OFFICIER</role>.</castItem>
-	<castItem><role id="GARDES" civil="G" type="H" statut='garde' age='A' stat_amour='néant'>GARDES</role>.</castItem>
-	<castItem><role id="PEUPLES" civil="G" type="H" statut='peuple' age='A' stat_amour='néant'>PEUPLES</role>.</castItem>
+	<castItem><role id="GESLER" sex="1" type="H" statut='gouverneur' age='A' stat_amour='néant'>GESLER</role>, gouverneur du canton d'Uri.</castItem>
+	<castItem><role id="GUILLAUME-TELL" sex="1" type="H" statut='conjuré' age='A' stat_amour='néant'>GUILLAUME TELL</role>, suisse, conjuré.</castItem>
+	<castItem><role id="MELCHTAL" sex="1" type="H" statut='conjuré' age='A' stat_amour='néant'>MELCHTAL</role>, suisse, conjuré.</castItem>
+	<castItem><role id="FURST" sex="1" type="H" statut='conjuré' age='A' stat_amour='néant'>FURST</role>, suisse, conjuré.</castItem>
+	<castItem><role id="WERNER" sex="1" type="H" statut='conjuré' age='A' stat_amour='néant'>WERNER</role>, suisse, conjuré.</castItem>
+	<castItem><role id="CLEONE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>CLEONE</role>, femme de Tell.</castItem>
+	<castItem><role id="LE FILS TELL" sex="1" type="H" statut='bourgeois' age='E' stat_amour='néant'>SON FILS</role>, personnage muet.</castItem>
+	<castItem><role id="ULRIC" sex="1" type="H" statut='confident' age='A' stat_amour='néant'>ULRIC</role>, confident de Gesler.</castItem>
+	<castItem><role id="UN OFFICIER" sex="1" type="H" statut='officier' age='A' stat_amour='néant'>UN OFFICIER</role>.</castItem>
+	<castItem><role id="GARDES" sex="9" type="H" statut='garde' age='A' stat_amour='néant'>GARDES</role>.</castItem>
+	<castItem><role id="PEUPLES" sex="9" type="H" statut='peuple' age='A' stat_amour='néant'>PEUPLES</role>.</castItem>
 </castList>
 <set location='Altdorff' country='Suisse' periode='XIVème' link=''>La scène est dans les montagnes, près du bourg d'Altdorff et du lac de Lucerne.</set>
 </front>

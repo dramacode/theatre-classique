@@ -7,9 +7,10 @@
 				<author born='1625' born_location='Rouen' death='1709' death_location='Les Andelys' academie='1685'>CORNEILLE, Thomas</author>
 				<date>1673</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<authority>publié par Ernest FIEVRE, décembre 2007</authority>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>mythe grec</inspiration>
@@ -39,14 +40,14 @@
 			<premiere date="1673-12-29" location='Hôtel Guénégaud'>Représenté pour la première fois le 29 décembre 1673 au T^éâtre de l'Hôtel Guénégaud.</premiere>
 		</performance>
 <castList><head>ACTEURS </head>
-	<castItem><role id="ACHILLE" civil='M' type="H" statut='roi' age='A' stat_amour='néant'>ACHILLE</role>.</castItem>
-	<castItem><role id="PYRRHUS" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>PYRRHUS</role>, fils d'Achille.</castItem>
-	<castItem><role id="POLIXENE" civil='F' type="H" statut='prince' age='A' stat_amour='néant'>POLIXÈNE</role>, fille de Priam, roi de Troie.</castItem>
-	<castItem><role id="BRISEIS" civil='F' type="H" statut='prince' age='A' stat_amour='néant'>BRISEIS</role>, princesse, captive d'Achille.</castItem>
-	<castItem><role id="PHÉNICE" civil='F' type="H" statut='confident' age='A' stat_amour='néant'>PHÉNICE</role>, confidente de Briseis.</castItem>
-	<castItem><role id="ILIONE" civil='F' type="H" statut='confident' age='A' stat_amour='néant'>ILIONE</role>, confidente de Polixène.</castItem>
-	<castItem><role id="ALCIME" civil='M' type="H" statut='confident' age='A' stat_amour='néant'>ALCIME</role>, confident d'Achille.</castItem>
-	<castItem><role id="ANTILOCHUS" civil='M' type="H" statut='confident' age='A' stat_amour='néant'>ANTILOCHUS</role>, confident de Pyrrhus.</castItem>
+	<castItem><role id="ACHILLE" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>ACHILLE</role>.</castItem>
+	<castItem><role id="PYRRHUS" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>PYRRHUS</role>, fils d'Achille.</castItem>
+	<castItem><role id="POLIXENE" sex="2" type="H" statut='prince' age='A' stat_amour='néant'>POLIXÈNE</role>, fille de Priam, roi de Troie.</castItem>
+	<castItem><role id="BRISEIS" sex="2" type="H" statut='prince' age='A' stat_amour='néant'>BRISEIS</role>, princesse, captive d'Achille.</castItem>
+	<castItem><role id="PHÉNICE" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>PHÉNICE</role>, confidente de Briseis.</castItem>
+	<castItem><role id="ILIONE" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>ILIONE</role>, confidente de Polixène.</castItem>
+	<castItem><role id="ALCIME" sex="1" type="H" statut='confident' age='A' stat_amour='néant'>ALCIME</role>, confident d'Achille.</castItem>
+	<castItem><role id="ANTILOCHUS" sex="1" type="H" statut='confident' age='A' stat_amour='néant'>ANTILOCHUS</role>, confident de Pyrrhus.</castItem>
 </castList>
 <set location='Troie' country='Turquie' periode='Temps mythologiques' link=''>[La scène se situe à Troie.]</set>
 </front>

@@ -6,9 +6,10 @@
 				<title>MONSIEUR DE POURCEAUGNAC, COMÉDIE-BALLET.</title>
 			<author born='1622' born_location='Paris' death='1673' death_location='Paris' academie=''>Molière</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, août 2009, revu mai 2013.</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie-ballet</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -39,28 +40,28 @@
 			<premiere date='1669-11-15' location='Théâtre du Palais-Royal'>Faite à Chambord, pour le divertissement du roi, au mois de septembre 1669, et représentée en public à Paris, pour la première fois, sur le Théâtre du Palais-Royal, le 15e novembre de la même année 1669, par la Troupe du Roi.</premiere>
 		</performance>
 	<castList><head>PERSONNAGES</head>
-	<castItem><role id="MONSIEUR-DE-POURCEAUGNAC" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>MONSIEUR DE POURCEAUGNAC</role>.</castItem> 
-	<castItem><role id="ORONTE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>ORONTE</role>.</castItem> 
-	<castItem><role id="JULIE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='amoureux'>JULIE</role>, fille d'Oronte.</castItem> 
-	<castItem><role id="NÉRINE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>NÉRINE</role>, femme d'intrigue.</castItem> 
-	<castItem><role id="LUCETTE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>LUCETTE</role>, feinte gasconne.</castItem> 
-	<castItem><role id="ÉRASTE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='amoureux'>ÉRASTE</role>, amant de Julie.</castItem> 
-	<castItem><role id="SBRIGANI" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>SBRIGANI</role>, napolitain, homme d'intrigue.</castItem> 
-	<castItem><role id="PREMIER-MEDECIN" civil='M' type="H" statut='médecin' age='A' stat_amour='néant'>PREMIER MÉDECIN</role>.</castItem> 
-	<castItem><role id="SECOND-MEDECIN" civil='M' type="H" statut='médecin' age='A' stat_amour='néant'>SECOND MÉDECIN</role>.</castItem> 
-	<castItem><role id="L-APOTHICAIRE" civil='M' type="H" statut='apothcaire' age='A' stat_amour='néant'>L'APOTHICAIRE</role>.</castItem> 
-	<castItem><role id="UN-PAYSAN" civil='M' type="H" statut='paysan' age='A' stat_amour='néant'>UN PAYSAN</role>.</castItem> 
-	<castItem><role id="UNE-PAYSANNE" civil='F' type="H" statut='paysan' age='A' stat_amour='néant'>UNE PAYSANNE</role>.</castItem> 
-	<castItem><role id="PREMIER-MUSICIEN" civil='M' type="H" statut='musicien' age='A' stat_amour='néant'>PREMIER MUSICIEN</role>.</castItem> 
-	<castItem><role id="SECOND-MUSICIEN" civil='M' type="H" statut='musicien' age='A' stat_amour='néant'>SECOND MUSICIEN</role>.</castItem> 
-	<castItem><role id="PREMIER-AVOCAT" civil='M' type="H" statut='avocat' age='A' stat_amour='néant'>PREMIER AVOCAT</role>.</castItem> 
-	<castItem><role id="SECOND-AVOCAT" civil='M' type="H" statut='avocat' age='A' stat_amour='néant'>SECOND AVOCAT</role>.</castItem> 
-	<castItem><role id="PREMIER-SUISSE" civil='M' type="H" statut='suisse' age='A' stat_amour='néant'>PREMIER SUISSE</role>.</castItem> 
-	<castItem><role id="SECOND-SUISSE" civil='M' type="H" statut='suisse' age='A' stat_amour='néant'>SECOND SUISSE</role>.</castItem> 
-	<castItem><role id="UN-EXEMPT" civil='M' type="H" statut='exempt' age='A' stat_amour='néant'>UN EXEMPT</role>.</castItem> 
-	<castItem><role id="DEUX-ARCHERS" civil='G' type="H" statut='achers' age='A' stat_amour='néant'>DEUX ARCHERS</role>.</castItem> 
-	<castItem><role id="PLUSIEURS-MUSICIENS" civil='G' type="H" statut='musicien' age='A' stat_amour='néant'>PLUSIEURS MUSICIENS</role>.</castItem> 
-	<castItem><role id="JOUEURS-INSTRUMENTS_DANSEURS" civil='G' type="H" statut='danseur' age='A' stat_amour='néant'>JOUEURS d'INSTRUMENTS et DANSEURS</role>.</castItem> 
+	<castItem><role id="MONSIEUR-DE-POURCEAUGNAC" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>MONSIEUR DE POURCEAUGNAC</role>.</castItem> 
+	<castItem><role id="ORONTE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>ORONTE</role>.</castItem> 
+	<castItem><role id="JULIE" sex="2" type="H" statut='bourgeois' age='J' stat_amour='Éraste'>JULIE</role>, fille d'Oronte.</castItem> 
+	<castItem><role id="NÉRINE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>NÉRINE</role>, femme d'intrigue.</castItem> 
+	<castItem><role id="LUCETTE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>LUCETTE</role>, feinte gasconne.</castItem> 
+	<castItem><role id="ÉRASTE" sex="1" type="H" statut='bourgeois' age='J' stat_amour='Julie'>ÉRASTE</role>, amant de Julie.</castItem> 
+	<castItem><role id="SBRIGANI" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>SBRIGANI</role>, napolitain, homme d'intrigue.</castItem> 
+	<castItem><role id="PREMIER-MEDECIN" sex="1" type="H" statut='médecin' age='A' stat_amour='néant'>PREMIER MÉDECIN</role>.</castItem> 
+	<castItem><role id="SECOND-MEDECIN" sex="1" type="H" statut='médecin' age='A' stat_amour='néant'>SECOND MÉDECIN</role>.</castItem> 
+	<castItem><role id="L-APOTHICAIRE" sex="1" type="H" statut='apothcaire' age='A' stat_amour='néant'>L'APOTHICAIRE</role>.</castItem> 
+	<castItem><role id="UN-PAYSAN" sex="1" type="H" statut='paysan' age='A' stat_amour='néant'>UN PAYSAN</role>.</castItem> 
+	<castItem><role id="UNE-PAYSANNE" sex="2" type="H" statut='paysan' age='A' stat_amour='néant'>UNE PAYSANNE</role>.</castItem> 
+	<castItem><role id="PREMIER-MUSICIEN" sex="1" type="H" statut='musicien' age='A' stat_amour='néant'>PREMIER MUSICIEN</role>.</castItem> 
+	<castItem><role id="SECOND-MUSICIEN" sex="1" type="H" statut='musicien' age='A' stat_amour='néant'>SECOND MUSICIEN</role>.</castItem> 
+	<castItem><role id="PREMIER-AVOCAT" sex="1" type="H" statut='avocat' age='A' stat_amour='néant'>PREMIER AVOCAT</role>.</castItem> 
+	<castItem><role id="SECOND-AVOCAT" sex="1" type="H" statut='avocat' age='A' stat_amour='néant'>SECOND AVOCAT</role>.</castItem> 
+	<castItem><role id="PREMIER-SUISSE" sex="1" type="H" statut='suisse' age='A' stat_amour='néant'>PREMIER SUISSE</role>.</castItem> 
+	<castItem><role id="SECOND-SUISSE" sex="1" type="H" statut='suisse' age='A' stat_amour='néant'>SECOND SUISSE</role>.</castItem> 
+	<castItem><role id="UN-EXEMPT" sex="1" type="H" statut='exempt' age='A' stat_amour='néant'>UN EXEMPT</role>.</castItem> 
+	<castItem><role id="DEUX-ARCHERS" sex="9" type="H" statut='achers' age='A' stat_amour='néant'>DEUX ARCHERS</role>.</castItem> 
+	<castItem><role id="PLUSIEURS-MUSICIENS" sex="9" type="H" statut='musicien' age='A' stat_amour='néant'>PLUSIEURS MUSICIENS</role>.</castItem> 
+	<castItem><role id="JOUEURS-INSTRUMENTS_DANSEURS" sex="9" type="H" statut='danseur' age='A' stat_amour='néant'>JOUEURS d'INSTRUMENTS et DANSEURS</role>.</castItem> 
 	</castList>
 <set location='Paris' country='France' periode='XVIIème' link=''>La scène est à Paris.</set>
 </front>
@@ -3011,12 +3012,12 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n='10'><head>SCÈNE X.. Sbrigani, Monsieur de Pourceaugnac, Deux Avocats musiciens, dont l'un parle fort lentement, et l'autre fort vite accompagnés de deux Procureurs et de deux Sergents.</head>
-<sp who='AVOCAT-trainant'><speaker>L'Avocat traînant ces paroles.</speaker>
+<div2 type="scene" n='10'><head>SCÈNE X. Sbrigani, Monsieur de Pourceaugnac, Deux Avocats musiciens, dont l'un parle fort lentement, et l'autre fort vite accompagnés de deux Procureurs et de deux Sergents.</head>
+<sp who='AVOCAT-trainant'><speaker>L'AVOCAT traînant ses paroles.</speaker>
 	<l id='56'>La polygamie est un cas,</l>
 	<l id='57'>Est un cas pendable.</l>
 </sp>
-<sp who='AVOCAT-bredouilleur'><speaker>L'AVOCAT traînant ces paroles.</speaker>
+<sp who='AVOCAT-bredouilleur'><speaker>L'AVOCAT BREDOUILEUR.</speaker>
 	<l id='58'>Votre fait</l>
 	<l id='59'>Est clair et net ; </l>
 	<l id='60'>Et tout le droit</l>

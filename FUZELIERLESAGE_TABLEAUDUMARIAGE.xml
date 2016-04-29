@@ -7,9 +7,10 @@
 				<author born='1668' born_location='Sarzeau' death='1747' death_location='Boulogne-sur-mer' academie='1746'>FUZELIER, Louis et 	LESAGE, Alain-René</author>
 				<author born='1672' born_location='Paris' death='1752' death_location='Paris' academie=''>FUZELIER, Louis</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<authority>publié par Paul FIEVRE, octobre 2011</authority>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Opéra comique</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -40,17 +41,17 @@
 				<nombre value=""></nombre>		
 			</performance>
 <castList><head>ACTEURS</head>
-	<castItem><role id="MONSIEUR PÉPIN" civil="M" type="H" statut='bourgeois' age='A' stat_amour='néant'>Monsieur PÉPIN</role>, bourgeois de Paris.</castItem>
-	<castItem><role id="MADAME PEPIN" civil="F"  type="H" statut='bourgeois' age='A' stat_amour='néant'>Madame PEPIN</role>, sa femme.</castItem>
-	<castItem><role id="DIAMANTINE" civil="F" type="H" statut='bourgeois' age='A' stat_amour='néant'>DIAMANTINE</role>, leur nièce.</castItem>
-	<castItem><role id="OCTAVE" civil="M" type="H" statut='bourgeois' age='A' stat_amour='Diamantine'>OCTAVE</role>, l'amant de Diamantine.</castItem>
-	<castItem><role id="OLIVETTE" civil="F" type="H" statut='suivante' age='A' stat_amour='néant'>OLIVETTE</role>, suivante de Diamantine.</castItem>
-	<castItem><role id="ARLEQUIN" civil="M" type="H" statut='valet' age='A' stat_amour='néant'>ARLEQUIN</role>, valet d'Octave.</castItem>
-	<castItem><role id="SCARAMOUCHE" civil="M" type="H" statut='confiseur' age='A' stat_amour='néant'>SCARAMOUCHE</role>, confiseur.</castItem>
-	<castItem><role id="MONSIEUR MINUTIN" civil="M" type="H" statut='notaire' age='A' stat_amour='néant'>Monsieur MINUTIN</role>, notaire.</castItem>
-	<castItem><role id="MONSIEUR FRANCOEUR" civil="M" type="H" statut='commerçant' age='A' stat_amour='néant'>Monsieur FRANCOEUR</role>, marchand de rubans.</castItem>
-	<castItem><role id="TROUPE" civil="G" type="H" statut='peuple' age='A' stat_amour='néant'>TROUPE DE MASQUES ET D'AMIS</role>, invités aux noces.</castItem>
-	<castItem><role id="SYMPHONISTES" civil="G" type="H" statut='musicien' age='A' stat_amour='néant'>SYMPHONISTES</role>.</castItem>
+	<castItem><role id="MONSIEUR PÉPIN" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>Monsieur PÉPIN</role>, bourgeois de Paris.</castItem>
+	<castItem><role id="MADAME PEPIN" sex="2"  type="H" statut='bourgeois' age='A' stat_amour='néant'>Madame PEPIN</role>, sa femme.</castItem>
+	<castItem><role id="DIAMANTINE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>DIAMANTINE</role>, leur nièce.</castItem>
+	<castItem><role id="OCTAVE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='Diamantine'>OCTAVE</role>, l'amant de Diamantine.</castItem>
+	<castItem><role id="OLIVETTE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>OLIVETTE</role>, suivante de Diamantine.</castItem>
+	<castItem><role id="ARLEQUIN" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>ARLEQUIN</role>, valet d'Octave.</castItem>
+	<castItem><role id="SCARAMOUCHE" sex="1" type="H" statut='confiseur' age='A' stat_amour='néant'>SCARAMOUCHE</role>, confiseur.</castItem>
+	<castItem><role id="MONSIEUR MINUTIN" sex="1" type="H" statut='notaire' age='A' stat_amour='néant'>Monsieur MINUTIN</role>, notaire.</castItem>
+	<castItem><role id="MONSIEUR FRANCOEUR" sex="1" type="H" statut='commerçant' age='A' stat_amour='néant'>Monsieur FRANCOEUR</role>, marchand de rubans.</castItem>
+	<castItem><role id="TROUPE" sex="9" type="H" statut='peuple' age='A' stat_amour='néant'>TROUPE DE MASQUES ET D'AMIS</role>, invités aux noces.</castItem>
+	<castItem><role id="SYMPHONISTES" sex="9" type="H" statut='musicien' age='A' stat_amour='néant'>SYMPHONISTES</role>.</castItem>
 </castList>
 <set location='Paris' country='France' periode='XVIIIème' link=''>La Scène est à Paris.</set>
 </front>

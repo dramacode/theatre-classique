@@ -7,9 +7,10 @@
 				<author born="1740" born_location="Paris" death="1814" death_location="Paris" academie="">MERCIER, Louis-Sébatsien</author>
 				<date>1782</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, avril 2012</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Drame</genre>
 				<inspiration>histoire de france</inspiration>
@@ -82,29 +83,29 @@
 
 		<castList>
 			<head>PERSONNAGES</head>
-			<castItem><role id="HILAIRE-PÈRE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>HILAIRE père</role>.</castItem>
-			<castItem><role id="HILAIRE-FILS" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>HILAIRE fils</role>.</castItem>
-			<castItem><role id="MADAME-HILAIRE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>MADAME HILAIRE</role>.</castItem>
-			<castItem><role id="MADAME-HILAIRE-GRAND-MÈRE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>MADAME HILAIRE grand'mère</role>.</castItem>
-			<castItem><role id="LANCY" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>LANCY</role>.</castItem>
-			<castItem><role id="MADEMOISELLE-LANCY" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>MADEMOISELLE LANCY</role>.</castItem>
-			<castItem><role id="GUINCESTRE" civil='M' type="H" statut='' age='A' stat_amour='néant'>GUINCESTRE</role>.</castItem>
-			<castItem><role id="VARADE" civil='M' type="H" statut='' age='A' stat_amour='néant'>VARADE</role>.</castItem>
-			<castItem><role id="AUBRY" civil='M' type="H" statut='' age='A' stat_amour='néant'>AUBRY</role>.</castItem>
-			<castItem><role id="HENRI-DE-NAVARRE" civil='M' type="H" statut='roi' age='A' stat_amour='néant'>HENRI DE NAVARRE</role>, futur HENRI IV.</castItem>
-			<castItem><role id="MONTMORENCY" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>MONTMORENCY</role>.</castItem>
-			<castItem><role id="SULLY" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>SULLY</role>.</castItem>
-			<castItem><role id="BIRON" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>BIRON</role>.</castItem>
-			<castItem><role id="LANGLOIS" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>LANGLOIS</role>.</castItem>
-			<castItem><role id="LOUCHARD" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>LOUCHARD</role>.</castItem>
-			<castItem><role id="ANROUX" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>ANROUX</role>.</castItem>
-			<castItem><role id="BUSSY-LE-CLERC" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>BUSSY-LE-CLERC</role>.</castItem>
-			<castItem><role id="MONTALIO" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>MONTALIO</role>.</castItem>
-			<castItem><role id="TURIAF" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>TURIAF</role>.</castItem>
-			<castItem><role id="SOLDATS" civil='G' type="H" statut='soldat' age='A' stat_amour='néant'>SOLDATS</role>.</castItem>
-			<castItem><role id="SUISSES" civil='G' type="H" statut='soldat' age='A' stat_amour='néant'>SOLDATS SUISSES</role>.</castItem>
-			<castItem><role id="LIGUEURS" civil='G' type="H" statut='ligueur' age='A' stat_amour='néant'>DES LIGUEURS</role>.</castItem>
-			<castItem><role id="PEUPLE" civil='G' type="H" statut='peuple' age='A' stat_amour='néant'>LE PEUPLE</role>.</castItem>
+			<castItem><role id="HILAIRE-PÈRE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>HILAIRE père</role>.</castItem>
+			<castItem><role id="HILAIRE-FILS" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>HILAIRE fils</role>.</castItem>
+			<castItem><role id="MADAME-HILAIRE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>MADAME HILAIRE</role>.</castItem>
+			<castItem><role id="MADAME-HILAIRE-GRAND-MÈRE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>MADAME HILAIRE grand'mère</role>.</castItem>
+			<castItem><role id="LANCY" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>LANCY</role>.</castItem>
+			<castItem><role id="MADEMOISELLE-LANCY" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>MADEMOISELLE LANCY</role>.</castItem>
+			<castItem><role id="GUINCESTRE" sex="1" type="H" statut='' age='A' stat_amour='néant'>GUINCESTRE</role>.</castItem>
+			<castItem><role id="VARADE" sex="1" type="H" statut='' age='A' stat_amour='néant'>VARADE</role>.</castItem>
+			<castItem><role id="AUBRY" sex="1" type="H" statut='' age='A' stat_amour='néant'>AUBRY</role>.</castItem>
+			<castItem><role id="HENRI-DE-NAVARRE" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>HENRI DE NAVARRE</role>, futur HENRI IV.</castItem>
+			<castItem><role id="MONTMORENCY" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>MONTMORENCY</role>.</castItem>
+			<castItem><role id="SULLY" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>SULLY</role>.</castItem>
+			<castItem><role id="BIRON" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>BIRON</role>.</castItem>
+			<castItem><role id="LANGLOIS" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>LANGLOIS</role>.</castItem>
+			<castItem><role id="LOUCHARD" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>LOUCHARD</role>.</castItem>
+			<castItem><role id="ANROUX" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>ANROUX</role>.</castItem>
+			<castItem><role id="BUSSY-LE-CLERC" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>BUSSY-LE-CLERC</role>.</castItem>
+			<castItem><role id="MONTALIO" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>MONTALIO</role>.</castItem>
+			<castItem><role id="TURIAF" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>TURIAF</role>.</castItem>
+			<castItem><role id="SOLDATS" sex="9" type="H" statut='soldat' age='A' stat_amour='néant'>SOLDATS</role>.</castItem>
+			<castItem><role id="SUISSES" sex="9" type="H" statut='soldat' age='A' stat_amour='néant'>SOLDATS SUISSES</role>.</castItem>
+			<castItem><role id="LIGUEURS" sex="9" type="H" statut='ligueur' age='A' stat_amour='néant'>DES LIGUEURS</role>.</castItem>
+			<castItem><role id="PEUPLE" sex="9" type="H" statut='peuple' age='A' stat_amour='néant'>LE PEUPLE</role>.</castItem>
 		</castList>
 <set location='Paris' country='France' periode='XVIème' link=''></set>
 </front>

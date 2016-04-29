@@ -6,9 +6,10 @@
 				<title>L'ANGLAIS À BORDEAUX, COMÉDIE.</title>
 				<author born='1710' born_location='Paris' death='1792' death_location='Paris' academie='1736'>FAVART, Charles-Simon</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, janvier 2013</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -55,14 +56,14 @@
 		</div>
 		<castList>
 			<head>PERSONNAGES</head>
-			<castItem><role id="DARMANT" civil="M" type="H" statut='aristocrate' age='A' stat_amour='néant'>DARMANT</role>.</castItem>
-			<castItem><role id="LA MARQUISE DE FLORICOURT" civil="F" type="H" statut='marquis' age='A' stat_amour='néant'>LA MARQUISE DE FLORICOURT</role>, Sur de Darmant.</castItem>
-			<castItem><role id="BRUMTON" civil="M" type="H" statut='aristocrate' age='A' stat_amour='néant'>BRUMTON</role>.</castItem>
-			<castItem><role id="CLARICE" civil="F" type="H" statut='aristocrate' age='J' stat_amour='néant'>CLARICE</role>, Fille de Brumton.</castItem>
-			<castItem><role id="SUDMER" civil="M" type="H" statut='aristocrate' age='A' stat_amour='néant'>SUDMER</role>, Ami de Brumton.</castItem>
-			<castItem><role id="ROBINSON" civil="M" type="H" statut='valet' age='A' stat_amour='néant'>ROBINSON</role>.</castItem>
-			<castItem><role id="UN AUTRE VALET" civil="M" type="H" statut='valet' age='A' stat_amour='néant'>UN AUTRE VALET</role>.</castItem> 
-			<castItem><role id="BORDELAIS" civil="M" type="H" statut='bourgeois' age='A' stat_amour='néant'>UN BORDELAIS</role>.</castItem>
+			<castItem><role id="DARMANT" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>DARMANT</role>.</castItem>
+			<castItem><role id="LA MARQUISE DE FLORICOURT" sex="2" type="H" statut='marquis' age='A' stat_amour='néant'>LA MARQUISE DE FLORICOURT</role>, Sur de Darmant.</castItem>
+			<castItem><role id="BRUMTON" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>BRUMTON</role>.</castItem>
+			<castItem><role id="CLARICE" sex="2" type="H" statut='aristocrate' age="J" stat_amour='néant'>CLARICE</role>, Fille de Brumton.</castItem>
+			<castItem><role id="SUDMER" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>SUDMER</role>, Ami de Brumton.</castItem>
+			<castItem><role id="ROBINSON" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>ROBINSON</role>.</castItem>
+			<castItem><role id="UN AUTRE VALET" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>UN AUTRE VALET</role>.</castItem> 
+			<castItem><role id="BORDELAIS" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>UN BORDELAIS</role>.</castItem>
 		</castList>
 		<set location='Bordeaux' country='France' periode='XVIIIème' link=''>La Scène est à Bordeaux, dans la maison de Darmant.</set>
 	</front>

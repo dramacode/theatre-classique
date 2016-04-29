@@ -7,9 +7,10 @@
 				<author born='1625' born_location='Rouen' death='1709' death_location='Les Andelys' academie='1685'>CORNEILLE, Thomas</author>
 				<date>1661</date>
 			</titleStmt>
-			<publicationStmp>
+			<publicationStmt>
 				<p>publié par Ernest et Paul FIEVRE janvier 2010</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs espagnoles</inspiration>
@@ -44,15 +45,15 @@
 			<premiere date='1674-12-21' location='Hôtel Guénégaud'>Représenté pour la première fois le 21 décembre 1674 au Théâtre de l'Hôtel Guénégaud</premiere>
 		</performance>
 	<castList><head>ACTEURS.</head>
-		<castItem><role id="DON FERNAND" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>DON FERNAND DE VARGAS</role>, père d'Isabelle.</castItem>
-		<castItem><role id="DON CÉSAR" civil='M' type="H" statut='aristocrate' age='A' stat_amour='Isabelle'>DON CÉSAR D'AVALOS</role>, amant d'Isabelle.</castItem>
-		<castItem><role id="DON PASCAL" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>DON PASCAL GIRON</role>.</castItem>
-		<castItem><role id="ENRIQUE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>ENRIQUE</role>, ami de Don Fernand.</castItem>
-		<castItem><role id="ISABELLE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>ISABELLE</role>, fille de Don Fernand.</castItem>
-		<castItem><role id="BÉATRIX" civil='F' type="H" statut='suivante' age='A' stat_amour='néant'>BÉATRIX</role>, suivante d'Isabelle.</castItem>
-		<castItem><role id="SGANARELLE" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>SGANARELLE</role>, valet de Don Lope, fils de Don Fernand.</castItem>
-		<castItem><role id="CARLIN" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>CARLIN</role>, valet de Don César.</castItem>
-		<castItem><role id="GUZMAN" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>GUZMAN</role>, valet de Don Pascal.</castItem>
+		<castItem><role id="DON FERNAND" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>DON FERNAND DE VARGAS</role>, père d'Isabelle.</castItem>
+		<castItem><role id="DON CÉSAR" sex="1" type="H" statut='aristocrate' age='A' stat_amour='Isabelle'>DON CÉSAR D'AVALOS</role>, amant d'Isabelle.</castItem>
+		<castItem><role id="DON PASCAL" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>DON PASCAL GIRON</role>.</castItem>
+		<castItem><role id="ENRIQUE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>ENRIQUE</role>, ami de Don Fernand.</castItem>
+		<castItem><role id="ISABELLE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>ISABELLE</role>, fille de Don Fernand.</castItem>
+		<castItem><role id="BÉATRIX" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>BÉATRIX</role>, suivante d'Isabelle.</castItem>
+		<castItem><role id="SGANARELLE" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>SGANARELLE</role>, valet de Don Lope, fils de Don Fernand.</castItem>
+		<castItem><role id="CARLIN" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>CARLIN</role>, valet de Don César.</castItem>
+		<castItem><role id="GUZMAN" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>GUZMAN</role>, valet de Don Pascal.</castItem>
 	</castList>
 	<set location='Madrid' country='Espagne' periode='XVIème' link=''>La Scène est à Madrid.</set>
 	</front>

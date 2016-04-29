@@ -6,9 +6,10 @@
 				<title>LA FÊTE DE LA SEINE, Divertissement en Musique.</title>
 				<author born='1638' born_location="Mussy-l Evêque" death='1701' death_location='Paris' academie=''>BOURSAULT, Edme</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<authority>publié par Paul et Gwénola FIEVRE, mars 2014.</authority>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 				<genre>Ballet</genre>
 				<inspiration>mythe grec</inspiration>
@@ -41,18 +42,18 @@
 		<premiere date="1690" location="Théâtre du Château d'Asnières">Représentée, pour la première fois au Théâtre du Château d'Asnières en 1690. </premiere>
 	</performance>
 			<castList><head>LES PERSONNAGES DU BALLET</head>
-				<castItem><role id="L'OCÉAN" civil="M" type="D" statut="aristocrate" age="A" stat_amour='néant'>L'OCÉAN</role>.</castItem>
-				<castItem><role id="THÉTIS" civil="F" type="D" statut="aristocrate" age="A" stat_amour='néant'>THÉTIS</role>.</castItem>
-				<castItem><role id="LA SEINE" civil="A" type="N" statut="aristocrate" age="A" stat_amour='néant'>LA SEINE</role>.</castItem>
-				<castItem><role id="LE GANGE" civil="M" type="N" statut="aristocrate" age="A" stat_amour='néant'>LE GANGE</role>.</castItem>
-				<castItem><role id="LE NIL" civil="M" type="N" statut="aristocrate" age="A" stat_amour='néant'>LE NIL</role>.</castItem>
-				<castItem><role id="LE DANUBE" civil="M" type="N" statut="aristocrate" age="A" stat_amour='néant'>LE DANUBE</role>.</castItem>
-				<castItem><role id="LE PACTOLE" civil="M" type="N" statut="aristocrate" age="A" stat_amour='néant'>LE PACTOLE</role>.</castItem>
-				<castItem><role id="NÉRÉIDES et TRITONS" civil="G" type="N" statut="aristocrate" age="A" stat_amour='néant'>NÉRÉIDES et TRITONS</role> de la Suite de l'Océan et de Thétis.</castItem>
-				<castItem><role id="AMOURS, JEUX et PLAISIRS" civil="G" type="A" statut="aristocrate" age="A" stat_amour='néant'>AMOURS, JEUX et PLAISIRS</role> de la Suite de la Seine.</castItem>
-				<castItem><role id="CHOEUR des RIVIÈRES, des FONTAINES, et des RUISSEAUX" civil="G" type="A" statut="aristocrate" age="A" stat_amour='néant'>CHOEUR des RIVIÈRES, des FONTAINES, et des RUISSEAUX</role>.</castItem>
+				<castItem><role id="L'OCÉAN" sex="1" type="D" statut="dieu" age="A" stat_amour='néant'>L'OCÉAN</role>.</castItem>
+				<castItem><role id="THÉTIS" sex="2" type="D" statut="dieu" age="A" stat_amour='néant'>THÉTIS</role>.</castItem>
+				<castItem><role id="LA SEINE" sex="2" type="N" statut="personnification" age="A" stat_amour='néant'>LA SEINE</role>.</castItem>
+				<castItem><role id="LE GANGE" sex="1" type="N" statut="personnification" age="A" stat_amour='néant'>LE GANGE</role>.</castItem>
+				<castItem><role id="LE NIL" sex="1" type="N" statut="personnification" age="A" stat_amour='néant'>LE NIL</role>.</castItem>
+				<castItem><role id="LE DANUBE" sex="1" type="N" statut="personnification" age="A" stat_amour='néant'>LE DANUBE</role>.</castItem>
+				<castItem><role id="LE PACTOLE" sex="1" type="N" statut="personnification" age="A" stat_amour='néant'>LE PACTOLE</role>.</castItem>
+				<castItem><role id="NÉRÉIDES et TRITONS" sex="9" type="D" statut="dieu" age="A" stat_amour='néant'>NÉRÉIDES et TRITONS</role> de la Suite de l'Océan et de Thétis.</castItem>
+				<castItem><role id="AMOURS, JEUX et PLAISIRS" sex="9" type="D" statut="personnification" age="A" stat_amour='néant'>AMOURS, JEUX et PLAISIRS</role> de la Suite de la Seine.</castItem>
+				<castItem><role id="CHOEUR des RIVIÈRES, des FONTAINES, et des RUISSEAUX" sex="9" type="N" statut="cours d'eau" age="A" stat_amour='néant'>CHOEUR des RIVIÈRES, des FONTAINES, et des RUISSEAUX</role>.</castItem>
 			</castList>
-		<set location='Lieu mythologique' country='Pays mythologique' periode='Temps mythologiques' link=''>La Scene est au Palais de l'Ocean, et de Thetis.</set>
+		<set location='Lieu mythologique' country='Pays mythologique' periode='Temps mythologiques' link=''>La Scène est au Palais de l'Ocean, et de Thetis.</set>
 </front>
 <body>
 <div1 type="act" n="1"><head></head>
@@ -64,7 +65,7 @@
 	<l id="3">Dont les fertiles eaux</l>
 	<l id="4">Arrosent tant de Plaines;</l>
 	<l id="5">Nymphes, et demi-Dieux, soumis à mon pouvoir,</l>
-	<l id="6">De la Seine aujourdhui nous célébrons la fête :</l>
+	<l id="6">De la Seine aujourd'hui nous célébrons la fête :</l>
 	<l id="7">Chantez les plus beaux Airs que vous puissiez savoir,</l>
 	<l id="8">Des joncs, et des roseaux couronnez votre tête;</l>
 	<l id="9">Et qu'à l'envi chacun s'apprête</l>
@@ -150,7 +151,7 @@
 	<l id="72">Mais il ne dure pas assez :</l>
 	<l id="73">Les attraits les plus doux sont bientôt effacez ;</l>
 	<l id="74">Et l'on n'est plus aimé quand on n'est plus aimable,</l>
-	<l id="75">Puisque ce temps sévanouit</l>
+	<l id="75">Puisque ce temps s'évanouit</l>
 	<l id="76">Lorsque la jeunesse nous quitte,</l>
 	<l id="77">Pendant que l'on en jouit</l>
 	<l id="78">Il est bon qu'on en profite.</l>
@@ -165,13 +166,13 @@
 	<l id="85">Ne perdons pas un instant</l>
 	<l id="86">Des plaisirs qu'offre la vie.</l>
 	<l id="87">Tout languirait sans l'Amour</l>
-	<l id="88">C'est lâme de toute chose ;</l>
+	<l id="88">C'est l'âme de toute chose ;</l>
 	<l id="89">Tôt ou tard chacun aime à son tour,</l>
 	<l id="90">C'est une loi que le destin impose :</l>
 	<l id="91">Dans nos Jardins le Jasmin, et la Rose,</l>
 	<l id="92">N'aiment-ils pas les charmes d'un beau jour ?</l>
 	<l id="93">Tout languirait sans l'Amour</l>
-	<l id="94">C'est lâme de toute chose.</l>
+	<l id="94">C'est l'âme de toute chose.</l>
 </sp>
 <sp who="LE GANGE"><speaker>LE GANGE, à la Seine.</speaker>
 	<l id="95">On ne voit sur nos bords que carnage, et qu'horreur :</l>
@@ -181,7 +182,7 @@
 	<l id="99">Aimable Nymphe, apprenez-nous</l>
 	<l id="100">Par quel bonheur, ou par quels charmes,</l>
 	<l id="101">Vous jouissez d'un sort si doux</l>
-	<l id="102">Pendant que l'Univers éprouve tant dalarmes.</l>
+	<l id="102">Pendant que l'Univers éprouve tant d'alarmes.</l>
 </sp>
 <sp who="LE NIL"><speaker>LE NIL.</speaker>
 	<l id="103">Le Soleil brûle nos champs :</l>
@@ -194,7 +195,7 @@
 <sp who="LE PACTOLE"><speaker>LE PACTOLE.</speaker>
 	<l id="109">Nous ne sentons plus l'haleine</l>
 	<l id="110">Des doux, et des charmants Zéphyrs :</l>
-	<l id="111">Ce n'est quauprès de la Seine</l>
+	<l id="111">Ce n'est qu'auprès de la Seine</l>
 	<l id="112">Où règnent tous les Plaisirs.</l>
 </sp>
 <sp who="LE DANUBE"><speaker>LE DANUBE.</speaker>
@@ -212,7 +213,7 @@
 	<l id="122">Aimable Nymphe, apprenez-nous</l>
 	<l id="123">Par quel bonheur, ou par quels charmes</l>
 	<l id="124">Vous jouissez d'un sort si doux</l>
-	<l id="125">Pendant que l'Univers éprouve tant dalarmes.</l>
+	<l id="125">Pendant que l'Univers éprouve tant d'alarmes.</l>
 </sp>
 <sp who="LA SEINE"><speaker>LA SEINE.</speaker>
 	<l id="126">Un Roi, mais le plus grand dont le Ciel a fait choix</l>
@@ -225,7 +226,7 @@
 	<l id="133">À l'ombre des Lauriers que son Bras a cueillis.</l>
 </sp>
 <sp who="L'OCÉAN"><speaker>L'OCÉAN.</speaker>
-	<l id="134">Au bonheur des Humains toujours lâme occupée,</l>
+	<l id="134">Au bonheur des Humains toujours l'âme occupée,</l>
 	<l id="135">On dirait que du Monde il gouverne le sort:</l>
 	<l id="136">Ce qu'en vingt ans ne put faire Pompée</l>
 	<l id="137">Ne lui coûte qu'un faible effort.</l>

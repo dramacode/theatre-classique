@@ -7,9 +7,10 @@
 				<author born='1694' born_location='Paris' death='1778' death_location='Paris' academie=''>VOLTAIRE, François-Marie AROUET de</author>
 				<date>1743</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<authority>publié par Paul FIEVRE, juin 2011, revu mars 2014</authority>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Opéra</genre>
 				<inspiration>bible</inspiration>
@@ -39,20 +40,20 @@
 	</performance>
 	<castList>
 		<head>PERSONNAGES DU PROLOGUE</head>
-	<castItem><role id='LA VOLUPTÉ' civil='F' type="A" statut='allégorie' age='A' stat_amour='néant'>LA VOLUPTÉ</role>.</castItem>
-	<castItem><role id='PLAISIRS ET AMOURS' civil='G' type="A" statut='allégorie' age='A' stat_amour='néant'>PLAISIRS ET AMOURS</role>.</castItem>
-	<castItem><role id='BACCHUS' civil='M' type="H" statut='dieu' age='A' stat_amour='néant'>BACCHUS</role>.</castItem>
-	<castItem><role id='HERCULE' civil='M' type="H" statut='demi-dieu' age='A' stat_amour='néant'>HERCULE</role>.</castItem>
-	<castItem><role id='LA VERTU' civil='F' type="H" statut='allégorie' age='A' stat_amour='néant'>LA VERTU</role>.</castItem>
-	<castItem><role id='SUIVANTS DE LA VERTU' civil='G' type="H" statut='suivants' age='A' stat_amour='néant'>SUIVANTS DE LA VERTU</role>.</castItem>
+	<castItem><role id='LA VOLUPTÉ' sex="2" type="P" statut='allégorie' age='A' stat_amour='néant'>LA VOLUPTÉ</role>.</castItem>
+	<castItem><role id='PLAISIRS ET AMOURS' sex="9" type="P" statut='allégorie' age='A' stat_amour='néant'>PLAISIRS ET AMOURS</role>.</castItem>
+	<castItem><role id='BACCHUS' sex="1" type="H" statut='dieu' age='A' stat_amour='néant'>BACCHUS</role>.</castItem>
+	<castItem><role id='HERCULE' sex="1" type="H" statut='demi-dieu' age='A' stat_amour='néant'>HERCULE</role>.</castItem>
+	<castItem><role id='LA VERTU' sex="2" type="H" statut='allégorie' age='A' stat_amour='néant'>LA VERTU</role>.</castItem>
+	<castItem><role id='SUIVANTS DE LA VERTU' sex="9" type="H" statut='suivants' age='A' stat_amour='néant'>SUIVANTS DE LA VERTU</role>.</castItem>
 	</castList>
 	<castList>
 		<head>PERSONNAGES DE LA TRAGEDIE</head>
-	<castItem><role id='SAMSON' civil='M' type="H" statut='roi' age='A' stat_amour='néant'>SAMSON</role>.</castItem>
-	<castItem><role id='DALILA' civil='F' type="H" statut='prince' age='A' stat_amour='néant'>DALILA</role>.</castItem>
-	<castItem><role id='LE ROI DES PHILISTINS' civil='M' type="H" statut='roi' age='A' stat_amour='néant'>LE ROI DES PHILISTINS</role>.</castItem>
-	<castItem><role id='LE GRAND PRÊTRE' civil='M' type="H" statut='prêtre' age='A' stat_amour='néant'>LE GRAND-PRÊTRE</role>.</castItem>
-	<castItem><role id='LES CHOEURS' civil='G' type="H" statut='choeur' age='A' stat_amour='néant'>LES CHOEURS</role>.</castItem>
+	<castItem><role id='SAMSON' sex="1" type="H" statut='roi' age='A' stat_amour='néant'>SAMSON</role>.</castItem>
+	<castItem><role id='DALILA' sex="2" type="H" statut='prince' age='A' stat_amour='néant'>DALILA</role>.</castItem>
+	<castItem><role id='LE ROI DES PHILISTINS' sex="1" type="H" statut='roi' age='A' stat_amour='néant'>LE ROI DES PHILISTINS</role>.</castItem>
+	<castItem><role id='LE GRAND PRÊTRE' sex="1" type="H" statut='prêtre' age='A' stat_amour='néant'>LE GRAND-PRÊTRE</role>.</castItem>
+	<castItem><role id='LES CHOEURS' sex="9" type="H" statut='choeur' age='A' stat_amour='néant'>LES CHOEURS</role>.</castItem>
 	</castList>
 	<set location='Gaza' country='Israël' periode='Temps bibliques' link=''></set>
 </front>

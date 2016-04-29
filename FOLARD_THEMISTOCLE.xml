@@ -6,9 +6,10 @@
 				<title>THÉMISTOCLE, TRAGÉDIE </title>
 				<author born='1683' born_location='Avignon' death='1739' death_location='Lyon' academie='1688'>FOLARD, Melchior de</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE janvier 2012</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire grecque</inspiration>
@@ -127,15 +128,15 @@
 	</div>
 
 		<castList><head>ACTEURS.</head>
-		<castItem><role id="THÉMISTOCLE" civil="M" type="H" statut='général' age='A' stat_amour='néant'>THÉMISTOCLE</role>, Géneral des Athéniens.</castItem>
-		<castItem><role id="XERXÈS" civil="M" type="H" statut='roi' age='A' stat_amour='néant'>XERXÈS</role>, roi de Perse.</castItem>
-		<castItem><role id="MILTIADE" civil="M" type="H" statut='prince' age='A' stat_amour='néant'>MILTIADE</role>, dit le jeune, fils du grandt Miltiade et Favori de Xerxès.</castItem>
-		<castItem><role id="ARISTIDE" civil="M" type="H" statut='ambassadeur' age='A' stat_amour='néant'>ARISTIDE</role>, dit le juste, Ambassadeur d'Athènes.</castItem>
-		<castItem><role id="PARMENIS" civil="M" type="H" statut='ambassadeur' age='A' stat_amour='néant'>PARMENIS</role>, Ambassadeur de Sparte.</castItem>
-		<castItem><role id="ARTABAN" civil="M" type="H" statut='ministre' age='A' stat_amour='néant'>ARTABAN</role>, Ministre du Roi de Perse.</castItem>
-		<castItem><role id="ROXANE" civil="F" type="H" statut='prince' age='A' stat_amour='néant'>ROXANE</role>, fille de Xerxès.</castItem>
-		<castItem><role id="THÉMIRE" civil="F" type="H" statut='suivante' age='A' stat_amour='néant'>THÉMIRE</role>, suivante de Roxane.</castItem>
-		<castItem><role id="HYDASPE" civil="M" type="H" statut='officier' age='A' stat_amour='néant'>HYDASPE</role>, officier d'Artaban.</castItem>
+		<castItem><role id="THÉMISTOCLE" sex="1" type="H" statut='général' age='A' stat_amour='néant'>THÉMISTOCLE</role>, Géneral des Athéniens.</castItem>
+		<castItem><role id="XERXÈS" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>XERXÈS</role>, roi de Perse.</castItem>
+		<castItem><role id="MILTIADE" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>MILTIADE</role>, dit le jeune, fils du grandt Miltiade et Favori de Xerxès.</castItem>
+		<castItem><role id="ARISTIDE" sex="1" type="H" statut='ambassadeur' age='A' stat_amour='néant'>ARISTIDE</role>, dit le juste, Ambassadeur d'Athènes.</castItem>
+		<castItem><role id="PARMENIS" sex="1" type="H" statut='ambassadeur' age='A' stat_amour='néant'>PARMENIS</role>, Ambassadeur de Sparte.</castItem>
+		<castItem><role id="ARTABAN" sex="1" type="H" statut='ministre' age='A' stat_amour='néant'>ARTABAN</role>, Ministre du Roi de Perse.</castItem>
+		<castItem><role id="ROXANE" sex="2" type="H" statut='prince' age='A' stat_amour='néant'>ROXANE</role>, fille de Xerxès.</castItem>
+		<castItem><role id="THÉMIRE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>THÉMIRE</role>, suivante de Roxane.</castItem>
+		<castItem><role id="HYDASPE" sex="1" type="H" statut='officier' age='A' stat_amour='néant'>HYDASPE</role>, officier d'Artaban.</castItem>
 	</castList>
 	<set location='Suze' country='Perse' periode='Vème avant JC' link=''>La Scène est a Suze, capitale de la Perse, dans le Palais de Xerxès.</set>
 </front>

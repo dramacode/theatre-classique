@@ -6,9 +6,10 @@
 				<title>LES FOURBERIES DE SCAPIN, COMÉDIE</title>
 			<author born='1622' born_location='Paris' death='1673' death_location='Paris' academie=''>MOLIÈRE</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, mai 2009, revu août 2015.</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -44,17 +45,17 @@
 			<premiere date='1671-05-24' location='Théâtre du Palais-Royal'>Représentée la première fois à Paris sur le Théâtre de la salle du Palais-Royal le 24e mai 1671 par la troupe du Roi.</premiere>
 		</performance>
 	<castList><head>ACTEURS.</head>
-		<castItem><role id="ARGANTE" civil="M" type="H" statut='' age='A' stat_amour='néant'>ARGANTE</role>Argante, père d'Octave et de Zerbinette. </castItem>
-		<castItem><role id="GÉRONTE" civil="M" type="H" statut='' age='A' stat_amour='néant'>GÉRONTE</role>, père de Léandre et de Hyacinte.</castItem>
-		<castItem><role id="OCTAVE" civil="M" type="H" statut='' age='A' stat_amour='néant'>OCTAVE</role>, fils d'Argante, et amant de Hyacinte.</castItem>
-		<castItem><role id="LÉANDRE" civil="M" type="H" statut='' age='A' stat_amour='néant'>LÉANDRE</role>, fils de Géronte, et amant de Zerbinette. </castItem>
-		<castItem><role id="ZERBINETTE" civil="F" type="H" statut='' age='A' stat_amour='néant'>ZERBINETTE</role>, crue Egyptienne, et reconnue fille d'Argante, et amante de Léandre.</castItem>
-		<castItem><role id="HYANCINTE" civil="F" type="H" statut='' age='A' stat_amour='néant'>HYANCINTE</role>, fille de Géronte, et amante d'Octave </castItem>
-		<castItem><role id="SCAPIN" civil="M" type="H" statut='valet' age='A' stat_amour='néant'>SCAPIN</role>, valet de Léandre, et fourbe.</castItem>
-		<castItem><role id="SILVESTRE" civil="M" type="H" statut='valet' age='A' stat_amour='néant'>SILVESTRE</role>, valet d'Octave.</castItem>
-		<castItem><role id="NÉRINE" civil="F" type="H" statut='nourrice' age='A' stat_amour='néant'>NÉRINE</role>, nourrice de Hyacinte.</castItem>
-		<castItem><role id="CARLE" civil="M" type="H" statut='fourbe' age='A' stat_amour='néant'>CARLE</role>, fourbe. </castItem>
-		<castItem><role id="DEUX PORTEURS" civil="G" type="H" statut='porteur' age='A' stat_amour='néant'>DEUX PORTEURS</role>.</castItem>
+		<castItem><role id="ARGANTE" sex="1" type="H" statut='' age='A' stat_amour='néant'>ARGANTE</role>Argante, père d'Octave et de Zerbinette. </castItem>
+		<castItem><role id="GÉRONTE" sex="1" type="H" statut='' age='A' stat_amour='néant'>GÉRONTE</role>, père de Léandre et de Hyacinte.</castItem>
+		<castItem><role id="OCTAVE" sex="1" type="H" statut='' age='A' stat_amour='néant'>OCTAVE</role>, fils d'Argante, et amant de Hyacinte.</castItem>
+		<castItem><role id="LÉANDRE" sex="1" type="H" statut='' age='A' stat_amour='néant'>LÉANDRE</role>, fils de Géronte, et amant de Zerbinette. </castItem>
+		<castItem><role id="ZERBINETTE" sex="2" type="H" statut='' age='A' stat_amour='néant'>ZERBINETTE</role>, crue Egyptienne, et reconnue fille d'Argante, et amante de Léandre.</castItem>
+		<castItem><role id="HYANCINTE" sex="2" type="H" statut='' age='A' stat_amour='néant'>HYANCINTE</role>, fille de Géronte, et amante d'Octave </castItem>
+		<castItem><role id="SCAPIN" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>SCAPIN</role>, valet de Léandre, et fourbe.</castItem>
+		<castItem><role id="SILVESTRE" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>SILVESTRE</role>, valet d'Octave.</castItem>
+		<castItem><role id="NÉRINE" sex="2" type="H" statut='nourrice' age='A' stat_amour='néant'>NÉRINE</role>, nourrice de Hyacinte.</castItem>
+		<castItem><role id="CARLE" sex="1" type="H" statut='fourbe' age='A' stat_amour='néant'>CARLE</role>, fourbe. </castItem>
+		<castItem><role id="DEUX PORTEURS" sex="9" type="H" statut='porteur' age='A' stat_amour='néant'>DEUX PORTEURS</role>.</castItem>
 	</castList>
 <set location='Naples' country='Italie' periode='XVIIème' link=''>La scène est à Naples.</set>
 </front>
@@ -3655,7 +3656,7 @@
 </p>
 </sp>
 <sp who='SCAPIN'><speaker>SCAPIN.</speaker>
-<note type="">Quérir : vieux mot qui signifiait autrefois chercher, qui ne se dit plus que proverbialement. Signifier aussi, envoyer chercher, amener, apporter, et se dit de personnes et des choses. [F]</note>
+<note type="L">Quérir : vieux mot qui signifiait autrefois chercher, qui ne se dit plus que proverbialement. Signifier aussi, envoyer chercher, amener, apporter, et se dit de personnes et des choses. [F]</note>
 <p id='20'>
 	<s id='1'>Non, non, non, non, ce n'est personne. </s>
 	<s id='2'>Il faut, dis-je, que vous vous mettiez là dedans, et que vous gardiez de remuer en aucune façon. </s>

@@ -7,10 +7,11 @@
 				<author born='1589' born_location='Caen' death='1655' death_location='' academie=''>OUVILLE, Antoine le Métel</author>
 				
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<editor>Édition critique établie, annotée et introduite par Clotilde Avel sous la direction de Monsieur le Professeur Georges Forestier. Mémoire de Master 1 de Littératures françaises. Université Paris IV-Sorbonne UFR de Littérature française et comparée 2005-2006</editor>
 				<publisher>publié par Paul Fièvre, septembre 2014.</publisher>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -42,17 +43,17 @@
 			<premiere date="1641" location='Hôtel de Bourgogne'>Représenté pour la première fois en 1641 à l'Hôtel de Bourgogne.</premiere>
 		</performance>
 		<castList><head>ACTEURS.</head>
-			<castItem><role id="LÉANDRE" civil='M' type="H" statut='bourgeois' age='A' stat_amour=''>LÉANDRE</role>, mari dAstrée.</castItem>
-			<castItem><role id="FILEMON" civil='M' type="H" statut='bourgeois' age='A' stat_amour=''>FILEMON</role>, ami de Léandre.</castItem>
-			<castItem><role id="ALCIPE" civil='M' type="H" statut='bourgeois' age='A' stat_amour=''>ALCIPE</role>, Amoureux dAstrée.</castItem>
-			<castItem><role id="ASTRÉE" civil='F' type="H" statut='bourgeois' age='A' stat_amour=''>ASTRÉE</role>, femme de Léandre.</castItem>
-			<castItem><role id="ORPHISE" civil='F' type="H" statut='bourgeois' age='A' stat_amour=''>ORPHISE</role>, parente de Léandre.</castItem>
-			<castItem><role id="HIPOLITE" civil='F' type="H" statut='servante' age='A' stat_amour=''>HIPOLITE</role>, servante dAstrée.</castItem>
-			<castItem><role id="SYLVAIN" civil='M' type="H" statut='valet' age='A' stat_amour=''>SYLVAIN</role>, valet dAlcipe.</castItem>
-			<castItem><role id="VALENTIN" civil='M' type="H" statut='valet' age='A' stat_amour=''>VALENTIN</role>, valet de Filemon.</castItem>
-			<castItem><role id="PICART" civil='M' type="H" statut='laquais' age='A' stat_amour=''>PICART</role>, laquais.</castItem>
-			<castItem><role id="UN VOISIN" civil='M' type="H" statut='bourgeois' age='A' stat_amour=''>UN VOISIN</role>.</castItem>
-			<castItem><role id="VIOLONS" civil='G' type="H" statut='musicien' age='A' stat_amour=''>VIOLONS</role>.</castItem>
+			<castItem><role id="LÉANDRE" sex="1" type="H" statut='bourgeois' age='A' stat_amour=''>LÉANDRE</role>, mari dAstrée.</castItem>
+			<castItem><role id="FILEMON" sex="1" type="H" statut='bourgeois' age='A' stat_amour=''>FILEMON</role>, ami de Léandre.</castItem>
+			<castItem><role id="ALCIPE" sex="1" type="H" statut='bourgeois' age='A' stat_amour=''>ALCIPE</role>, Amoureux dAstrée.</castItem>
+			<castItem><role id="ASTRÉE" sex="2" type="H" statut='bourgeois' age='A' stat_amour=''>ASTRÉE</role>, femme de Léandre.</castItem>
+			<castItem><role id="ORPHISE" sex="2" type="H" statut='bourgeois' age='A' stat_amour=''>ORPHISE</role>, parente de Léandre.</castItem>
+			<castItem><role id="HIPOLITE" sex="2" type="H" statut='servante' age='A' stat_amour=''>HIPOLITE</role>, servante dAstrée.</castItem>
+			<castItem><role id="SYLVAIN" sex="1" type="H" statut='valet' age='A' stat_amour=''>SYLVAIN</role>, valet dAlcipe.</castItem>
+			<castItem><role id="VALENTIN" sex="1" type="H" statut='valet' age='A' stat_amour=''>VALENTIN</role>, valet de Filemon.</castItem>
+			<castItem><role id="PICART" sex="1" type="H" statut='laquais' age='A' stat_amour=''>PICART</role>, laquais.</castItem>
+			<castItem><role id="UN VOISIN" sex="1" type="H" statut='bourgeois' age='A' stat_amour=''>UN VOISIN</role>.</castItem>
+			<castItem><role id="VIOLONS" sex="9" type="H" statut='musicien' age='A' stat_amour=''>VIOLONS</role>.</castItem>
 		</castList>
 <set location='Paris' country='France' periode='XVIIème' link=''>La Scène est à Paris.</set>
 </front>

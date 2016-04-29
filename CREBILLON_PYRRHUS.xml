@@ -7,9 +7,10 @@
 				<author born='1674' born_location='Dijon' death='1762' death_location='Paris' academie='1731'>CRÉBILLON, Prosper J. de</author>
 				<date>1708</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<authority>publié par Paul FIEVRE, Septembre 2010</authority>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>mythe grec</inspiration>
@@ -45,16 +46,16 @@
 </epitre>
 
 <castList><head>PERSONNAGES.</head>
-	<castItem><role id="PYRRHUS" civil='M'>PYRRHUS</role>, roi d'Épire, élevé sous le nom d'Hélénus fils de Glaucias.</castItem>
-	<castItem><role id="GLAUCIAS" civil='M'>GLAUCIAS</role>, roi d'Illyrie.</castItem>
-	<castItem><role id="NÉOPTOLÈME" civil='M'>NÉOPTOLÈME</role>, usurpateur de l'Épire, prince du sang de Pyrrhus.</castItem>
-	<castItem><role id="ILLYRUS" civil='M'>ILLYRUS</role>, fils de Glaucias.</castItem>
-	<castItem><role id="ÉRICIE" civil='F'>ÉRICIE</role>, fille de Néoptolème.</castItem>
-	<castItem><role id="ANDROCLIDE" civil='M'>ANDROCLIDE</role>, officier des armées de Glaucias ; et sujet de Pyrrhus.</castItem>
-	<castItem><role id="CYNÉAS" civil='M'>CYNÉAS</role>, confident de Pyrrhus.</castItem>
-	<castItem><role id="ISMÈNE" civil='F'>ISMÈNE</role>, confidente d'Éricie.</castItem>
-	<castItem><role id="GARDES" civil='G'>GARDES</role>.</castItem>
-	<castItem><role id="SUITE" civil='G'>SUITE</role>.</castItem>
+	<castItem><role id="PYRRHUS" sex="1">PYRRHUS</role>, roi d'Épire, élevé sous le nom d'Hélénus fils de Glaucias.</castItem>
+	<castItem><role id="GLAUCIAS" sex="1">GLAUCIAS</role>, roi d'Illyrie.</castItem>
+	<castItem><role id="NÉOPTOLÈME" sex="1">NÉOPTOLÈME</role>, usurpateur de l'Épire, prince du sang de Pyrrhus.</castItem>
+	<castItem><role id="ILLYRUS" sex="1">ILLYRUS</role>, fils de Glaucias.</castItem>
+	<castItem><role id="ÉRICIE" sex="2">ÉRICIE</role>, fille de Néoptolème.</castItem>
+	<castItem><role id="ANDROCLIDE" sex="1">ANDROCLIDE</role>, officier des armées de Glaucias ; et sujet de Pyrrhus.</castItem>
+	<castItem><role id="CYNÉAS" sex="1">CYNÉAS</role>, confident de Pyrrhus.</castItem>
+	<castItem><role id="ISMÈNE" sex="2">ISMÈNE</role>, confidente d'Éricie.</castItem>
+	<castItem><role id="GARDES" sex="9">GARDES</role>.</castItem>
+	<castItem><role id="SUITE" sex="9">SUITE</role>.</castItem>
 </castList>
 <set location='Byzance' country='Turquie'  periode='Temps mythologiques' link=''>La scène est à Byzance, dans le palais de Lysimachus.</set>
 </front>

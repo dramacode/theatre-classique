@@ -6,9 +6,10 @@
 			<title>LA FAUSSE APPARENCE COMÉDIE.</title>
 			<author born='1610' born_location='Paris' death='1660' death_location='Paris' academie=''>SCARRON, Paul</author>
 		</titleStmt>
-		<publicationStmp>
+		<publicationStmt>
 			<p>publié par Paul FIEVRE août 2010</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Tragi-comédie</genre>
 			<inspiration>moeurs espagnoles</inspiration>
@@ -45,15 +46,15 @@
 		<premiere date='1662' location='(inconnue)'></premiere>
 	</performance>
 	<castList><head>ACTEURS.</head>
-		<castItem><role id="DON CARLOS" civil="M" type="H" statut='chevalier' age='A' stat_amour='amoureux'>DON CARLOS DE ROXAS</role>, Cavalier Castillan, amant de Léonore. </castItem>
-		<castItem><role id="LÉONORE" civil="F" type="H" statut='aristocrate' age='A' stat_amour='amoureux'>LÉONORE</role>, fille de Don Pedre, Maîtresse de Don Carlos.</castItem>
-		<castItem><role id="DON PEDRE" civil="M" type="H" statut='aristocrate' age='A' stat_amour='néant'>DON PEDRE DE LARA</role>, Gentilhomme Castillan, père de Léonore.</castItem>
-		<castItem><role id="DON SANCHE" civil="M" type="H" statut='aristocrate' age='A' stat_amour='néant'>DON SANCHE DE LYSSAN</role>, amant de Flore.</castItem>
-		<castItem><role id="FLORE" civil="F" type="H" statut='aristocrate' age='A' stat_amour='néant'>FLORE</role>, Maîtresse de Don Sanche, Soeur de Don Louis.</castItem>
-		<castItem><role id="DON LOUIS" civil="M" type="H" statut='chevalier' age='A' stat_amour='néant'>DON LOUIS DE ROXAS</role>, Cavalier de Valence, frère de Flore, et Cousin de Don Carlos. </castItem>
-		<castItem><role id="FABRICE" civil="M" type="H" statut='valet' age='A' stat_amour='néant'>FABRICE</role>, Valet de Don Carlos.</castItem>
-		<castItem><role id="CARDILLE" civil="M" type="H" statut='valet' age='A' stat_amour='néant'>CARDILLE</role>, Valet de Don Sanche.</castItem>
-		<castItem><role id="MARINE" civil="F" type="H" statut='servante' age='A' stat_amour='néant'>MARINE</role>, Servante de Flore.</castItem>
+		<castItem><role id="DON CARLOS" sex="1" type="H" statut='chevalier' age='A' stat_amour='amoureux'>DON CARLOS DE ROXAS</role>, Cavalier Castillan, amant de Léonore. </castItem>
+		<castItem><role id="LÉONORE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='amoureux'>LÉONORE</role>, fille de Don Pedre, Maîtresse de Don Carlos.</castItem>
+		<castItem><role id="DON PEDRE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>DON PEDRE DE LARA</role>, Gentilhomme Castillan, père de Léonore.</castItem>
+		<castItem><role id="DON SANCHE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>DON SANCHE DE LYSSAN</role>, amant de Flore.</castItem>
+		<castItem><role id="FLORE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>FLORE</role>, Maîtresse de Don Sanche, Soeur de Don Louis.</castItem>
+		<castItem><role id="DON LOUIS" sex="1" type="H" statut='chevalier' age='A' stat_amour='néant'>DON LOUIS DE ROXAS</role>, Cavalier de Valence, frère de Flore, et Cousin de Don Carlos. </castItem>
+		<castItem><role id="FABRICE" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>FABRICE</role>, Valet de Don Carlos.</castItem>
+		<castItem><role id="CARDILLE" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>CARDILLE</role>, Valet de Don Sanche.</castItem>
+		<castItem><role id="MARINE" sex="2" type="H" statut='servante' age='A' stat_amour='néant'>MARINE</role>, Servante de Flore.</castItem>
 	</castList>
 <set location='Valence' country='Espagne' periode='XVIIème' link=''>La Scène est à Valence, dans la maison de Don Carlos.</set>
 </front>

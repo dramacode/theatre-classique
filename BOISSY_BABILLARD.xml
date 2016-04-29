@@ -7,9 +7,10 @@
 			<author born='1694' born_locaion='Vic-sur-Cère' death='1758' death_location='Paris' academie='1754'>BOISSY, Louis de</author>
 			<date>1735</date>
 		</titleStmt>
-		<publicationStmp>
+		<publicationStmt>
 			<p>publié par Paul FIEVRE Juin 2010</p>
-				</publicationStmp>
+				<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Comédie</genre>
 			<inspiration>moeurs françaises</inspiration>
@@ -54,17 +55,17 @@
 		</div>
 		<castList>
 			<head>PERSONNAGES</head>
-				<castItem><role id="LÉANDRE" civil='M' type="H" statut="bourgeois" age="A" stat_amour='amoureux'>LÉANDRE</role>, amant de Clarice.</castItem>
-				<castItem><role id="VALÉRE" civil='M' type="H" statut="bourgeois" age="A" stat_amour='amoueux'>VALÉRE</role>, son rival.</castItem>
-				<castItem><role id="CLARICE" civil='F' type="H" statut="bourgeois" age="A" stat_amour='néant'>CLARICE</role>, veuve.</castItem>
-				<castItem><role id="CÉPHISE" civil='F' type="H" statut="bourgeois" age="V" stat_amour='néant'>CÉPHISE</role>, sa tante.</castItem>
-				<castItem><role id="DAPHNÉ" civil='F' type="H" statut="bourgeois" age="A" stat_amour='néant'>DAPHNÉ</role>, sa voisine.</castItem>
-				<castItem><role id="HORTENSE" civil='F' type="H" statut="bourgeois" age="A" stat_amour='néant'>HORTENSE</role>, soeur de Daphné.</castItem>
-				<castItem><role id="ISMÈNE" civil='F' type="H" statut="bourgeois" age="A" stat_amour='néant'>ISMÈNE</role>, amie de Céphise.</castItem>
-				<castItem><role id="MÉLITE" civil='F' type="H" statut="bourgeois" age="A" stat_amour='néant'>MÉLITE</role>, babillarde.</castItem>
-				<castItem><role id="DORIS" civil='F' type="H" statut="bourgeois" age="A" stat_amour='néant'>DORIS</role>, babillarde.</castItem>
-				<castItem><role id="NÉRINE" civil='F' type="H" statut="suivante" age="A" stat_amour='néant'>NÉRINE</role>, suivante de Clarice.</castItem>
-				<castItem><role id="LA-FLEUR" civil='M' type="H" statut="laquais" age="A" stat_amour='néant'>LA FLEUR</role>, laquais.</castItem>
+				<castItem><role id="LÉANDRE" sex="1" type="H" statut="bourgeois" age="A" stat_amour='amoureux'>LÉANDRE</role>, amant de Clarice.</castItem>
+				<castItem><role id="VALÉRE" sex="1" type="H" statut="bourgeois" age="A" stat_amour='amoueux'>VALÉRE</role>, son rival.</castItem>
+				<castItem><role id="CLARICE" sex="2" type="H" statut="bourgeois" age="A" stat_amour='néant'>CLARICE</role>, veuve.</castItem>
+				<castItem><role id="CÉPHISE" sex="2" type="H" statut="bourgeois" age="V" stat_amour='néant'>CÉPHISE</role>, sa tante.</castItem>
+				<castItem><role id="DAPHNÉ" sex="2" type="H" statut="bourgeois" age="A" stat_amour='néant'>DAPHNÉ</role>, sa voisine.</castItem>
+				<castItem><role id="HORTENSE" sex="2" type="H" statut="bourgeois" age="A" stat_amour='néant'>HORTENSE</role>, soeur de Daphné.</castItem>
+				<castItem><role id="ISMÈNE" sex="2" type="H" statut="bourgeois" age="A" stat_amour='néant'>ISMÈNE</role>, amie de Céphise.</castItem>
+				<castItem><role id="MÉLITE" sex="2" type="H" statut="bourgeois" age="A" stat_amour='néant'>MÉLITE</role>, babillarde.</castItem>
+				<castItem><role id="DORIS" sex="2" type="H" statut="bourgeois" age="A" stat_amour='néant'>DORIS</role>, babillarde.</castItem>
+				<castItem><role id="NÉRINE" sex="2" type="H" statut="suivante" age="A" stat_amour='néant'>NÉRINE</role>, suivante de Clarice.</castItem>
+				<castItem><role id="LA-FLEUR" sex="1" type="H" statut="laquais" age="A" stat_amour='néant'>LA FLEUR</role>, laquais.</castItem>
 		</castList>
 	<set location='Paris' country='France' periode='XVIIIème' link=''>La scène est à Paris, chez Clarice.</set>
 	</front>

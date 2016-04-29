@@ -7,9 +7,10 @@
 				<author born='1723' born_location='Paris' death='1793' death_location='Saint-Germain-en-Laye' academie='1781'>LE MIERRE, Antoine-Marin</author>
 				<date>1768</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE</p><p>Septembre 2008</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire perse</inspiration>
@@ -49,14 +50,14 @@
 		</div>
 <castList>
 	<head>PERSONNAGES.</head>
-	<castItem><role id="ARTAXERCE" civil="M" type="H" statut='roi' age='A' stat_amour='néant'>ARTAXERCE</role>, nouveau Roi de Perse.</castItem>
-	<castItem><role id="EMIRENE" civil="F" type="H" statut='prince' age='A' stat_amour='néant'>EMIRENE</role>, soeur d'Artaxerce.</castItem>
-	<castItem><role id="ARTABAN" civil="M" type="H" statut='ministre' age='A' stat_amour='néant'>ARTABAN</role>, Gouverneur d'Artaxerce et ministre.</castItem>
-	<castItem><role id="ARBACE" civil="M" type="H" statut='aristocrate' age='A' stat_amour='néant'>ARBACE</role>, fils d'Artaban.</castItem>
-	<castItem><role id="ÉLISE" civil="F" type="H" statut='confident' age='A' stat_amour='néant'>ÉLISE</role>, Confidente d'Emirene.</castItem>
-	<castItem><role id="MÉGABISE" civil="M" type="H" statut='confident' age='A' stat_amour='néant'>MÉGABISE</role>, Confident d'Artaban.</castItem>
-	<castItem><role id="SATRAPES" civil="G" type="H" statut='soldat' age='A' stat_amour='néant'>SATRAPES</role>.</castItem>
-	<castItem><role id="GARDES" civil="G" type="H" statut='garde' age='A' stat_amour='néant'>GARDES</role>.</castItem>
+	<castItem><role id="ARTAXERCE" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>ARTAXERCE</role>, nouveau Roi de Perse.</castItem>
+	<castItem><role id="EMIRENE" sex="2" type="H" statut='prince' age='A' stat_amour='néant'>EMIRENE</role>, soeur d'Artaxerce.</castItem>
+	<castItem><role id="ARTABAN" sex="1" type="H" statut='ministre' age='A' stat_amour='néant'>ARTABAN</role>, Gouverneur d'Artaxerce et ministre.</castItem>
+	<castItem><role id="ARBACE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>ARBACE</role>, fils d'Artaban.</castItem>
+	<castItem><role id="ÉLISE" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>ÉLISE</role>, Confidente d'Emirene.</castItem>
+	<castItem><role id="MÉGABISE" sex="1" type="H" statut='confident' age='A' stat_amour='néant'>MÉGABISE</role>, Confident d'Artaban.</castItem>
+	<castItem><role id="SATRAPES" sex="9" type="H" statut='soldat' age='A' stat_amour='néant'>SATRAPES</role>.</castItem>
+	<castItem><role id="GARDES" sex="9" type="H" statut='garde' age='A' stat_amour='néant'>GARDES</role>.</castItem>
 </castList>
 <set location='Suze' country='Iran' periode='Vème avant JC' link=''>La Scène est à Suze.</set>
 </front>

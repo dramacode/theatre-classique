@@ -7,9 +7,10 @@
 			<author born='1635' born_location='Paris' death='1688' death_location='Paris' academie='1670'>QUINAULT, Philippe</author>
 			<date>1688</date>
 		</titleStmt>
-		<publicationStmp>	
+		<publicationStmt>	
 			<p>publié par Paul FIEVRE</p><p>Juin 2006</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 				<genre>Tragédie en musique</genre>	
 				<inspiration>mythe grec</inspiration>
@@ -42,38 +43,38 @@
 			<premiere date="1675-01-11" location='Château de Saint-Germain-en-Laye'>Représenté pour la première fois le 11 janvier 1675 au Château de Saint-Germain-en-Laye.</premiere>
 		</performance>
 		<castList><head>ACTEURS du PROLOGUE.</head>
-			<castItem><role id="CHOEUR_GRACES" civil='G' type="G" statut='grâce' age='A' stat_amour='néant'>CHOEUR DE GRÂCES, de plaisirs et de jeux</role>.</castItem>
-			<castItem><role id="GRACES" civil='G' type="G" statut='grêce' age='A' stat_amour='néant'>DEUX GRÂCES</role>.</castItem>
-			<castItem><role id="PLAISIRS_JEUX" civil='G' type="H" statut='' age='A' stat_amour='néant'>LES PLAISIRS ET LES JEUX chantants</role>.</castItem>
-			<castItem><role id="BACCHUS" civil='M' type="D" statut='dieu' age='A' stat_amour='néant'>BACCHUS</role>.</castItem>
-			<castItem><role id="VÉNUS" civil='F' type="D" statut='dieu' age='A' stat_amour='néant'>VÉNUS</role>.</castItem>
-			<castItem><role id="CÉRÈS" civil='M' type="D" statut='dieu' age='A' stat_amour='néant'>CÉRÈS</role>.</castItem>
-			<castItem><role id="MARS" civil='M' type="D" statut='dieu' age='A' stat_amour='néant'>MARS</role>.</castItem>
-			<castItem><role id="BELLONE" civil='M' type="D" statut='dieu' age='A' stat_amour='néant'>BELLONE</role>.</castItem>
-			<castItem><role id="MOISONNEURS" civil='G' type="H" statut='paysan' age='A' stat_amour='néant'>TROUPE DE MOISONNEURS</role>  qui suivent Cérès.</castItem>
-			<castItem><role id="SYLVAINS" civil='G' type="D" statut='sylvain' age='A' stat_amour='néant'>TROUPE DE SYLVAINS et des BACCHANTES</role> qui suivent Bacchus.</castItem>
-			<castItem><role id="FAUNES" civil='G' type="D" statut='faune' age='A' stat_amour='néant'>FAUNES</role> de la suite de Bacchus dansants.</castItem>
-			<castItem><role id="BACCHANTES" civil='G' type="D" statut='bacchante' age='A' stat_amour='néant'>BACCHANTES</role> suivantes de Bacchus dansantes.</castItem>
-			<castItem><role id="SUIVANTS-DE-CÉRÈS" civil='G' type="D" statut='suivant' age='A' stat_amour='néant'>SUIVANTES de CÉRÈS</role> dansantes.</castItem>
+			<castItem><role id="CHOEUR DE GRACES" sex="9" type="D" statut='grace' age='A' stat_amour='néant'>CHOEUR DE GRÂCES, de plaisirs et de jeux</role>.</castItem>
+			<castItem><role id="GRACES" sex="9" type="D" statut='grace' age='A' stat_amour='néant'>DEUX GRÂCES</role>.</castItem>
+			<castItem><role id="PLAISIRS et JEUX" sex="9" type="H" statut='' age='A' stat_amour='néant'>LES PLAISIRS ET LES JEUX chantants</role>.</castItem>
+			<castItem><role id="BACCHUS" sex="1" type="D" statut='dieu' age='A' stat_amour='néant'>BACCHUS</role>.</castItem>
+			<castItem><role id="VÉNUS" sex="2" type="D" statut='dieu' age='A' stat_amour='néant'>VÉNUS</role>.</castItem>
+			<castItem><role id="CÉRÈS" sex="1" type="D" statut='dieu' age='A' stat_amour='néant'>CÉRÈS</role>.</castItem>
+			<castItem><role id="MARS" sex="1" type="D" statut='dieu' age='A' stat_amour='néant'>MARS</role>.</castItem>
+			<castItem><role id="BELLONE" sex="1" type="D" statut='dieu' age='A' stat_amour='néant'>BELLONE</role>.</castItem>
+			<castItem><role id="MOISONNEURS" sex="1" type="H" statut='paysan' age='A' stat_amour='néant'>TROUPE DE MOISONNEURS</role>  qui suivent Cérès.</castItem>
+			<castItem><role id="SYLVAINS" sex="9" type="D" statut='sylvain' age='A' stat_amour='néant'>TROUPE DE SYLVAINS et des BACCHANTES</role> qui suivent Bacchus.</castItem>
+			<castItem><role id="FAUNES" sex="1" type="D" statut='faune' age='A' stat_amour='néant'>FAUNES</role> de la suite de Bacchus dansants.</castItem>
+			<castItem><role id="BACCHANTES" sex="2" type="D" statut='bacchante' age='A' stat_amour='néant'>BACCHANTES</role> suivantes de Bacchus dansantes.</castItem>
+			<castItem><role id="SUIVANTES DE CÉRÈS" sex="2" type="D" statut='suivant' age='A' stat_amour='néant'>SUIVANTES de CÉRÈS</role> dansantes.</castItem>
 		</castList>
 		
 		<castList><head>ACTEURS de la TRAGÉDIE</head>
-			<castItem><role id="CHOEUR DE COMBATTANTS" civil='G' type="H" statut='soldat' age='A' stat_amour='néant'>CHOEUR DE COMBATTANTS</role>.</castItem>
-			<castItem><role id="AEGLÉ" civil='F' type="H" statut='roi' age='A' stat_amour='néant'>AEGLÉ</role>.</castItem>
-			<castItem><role id="CLÉONE"  civil='F' type="H" statut='confident' age='A' stat_amour='néant'>CLÉONE</role>, confidente d'AEglé.</castItem>
-			<castItem><role id="ARCAS"  civil='M' type="H" statut='confident' age='A' stat_amour='néant'>ARCAS</role>.</castItem>
-			<castItem><role id="GRANDE PRÊTRESSE"  civil='F' type="H" statut='prêtre' age='A' stat_amour='néant'>LA GRANDE PRÊTRESSE de MINERVE</role>.</castItem>
-			<castItem><role id="AEGÉE"  civil='M' type="H" statut='roi' age='A' stat_amour='néant'>AEGÉE</role>, roi d'Athenes.</castItem>
-			<castItem><role id="SUIVANTS D'AEGÉE"  civil='G' type="H" statut='suivant' age='A' stat_amour='néant'>SUIVANTS d'AEGÉE</role>.</castItem>
-			<castItem><role id="LE CHOEUR DE PRÊTRESSES"  civil='G' type="H" statut='prêtre' age='A' stat_amour='néant'>CHOEUR DE PRÊTRESSES DE MINERVE</role>.</castItem>
-			<castItem><role id="SACRIFICATEURS"  civil='G' type="H" statut='prêtre' age='A' stat_amour='néant'>TROUPE DE SACRIFICATEURS DE MINERVE</role>.</castItem>
-			<castItem><role id="MÉDÉE"  civil='F' type="H" statut='prince' age='A' stat_amour='néant'>MÉDÉE</role>, princesse magicienne.</castItem>
-			<castItem><role id="DORINE"  civil='F' type="H" statut='confident' age='A' stat_amour='néant'>DORINE</role>, confidente de Médée.</castItem>
-			<castItem><role id="CHOEUR ATHENES"  civil='G' type="H" statut='peuple' age='A' stat_amour='néant'>Choeur de troupes de la populace d'Athènes</role>.</castItem>
-			<castItem><role id="THÉSÉE"  civil='M' type="H" statut='prince' age='A' stat_amour='néant'>THÉSÉE</role>, fils inconnu d'AEgée roi d'Athènes.</castItem>
-			<castItem><role id="UN FANTÔME"  civil='M'  type="F" statut='fantôme' age='A' stat_amour='néant'>UN FANTÔME</role>.</castItem>
-			<castItem><role id="TROUPE DE LUTIN"  civil='G' type="H" statut='lutin' age='A' stat_amour='néant'>TROUPE DE LUTINS</role>.</castItem>
-			<castItem><role id="LE CHOEUR DE L'ENFER"  civil='G' type="H" statut='' age='A' stat_amour='néant'>CHOEUR des habitants des Enfers</role>.</castItem>
+			<castItem><role id="CHOEUR DE COMBATTANTS" sex="9" type="H" statut='soldat' age='A' stat_amour='néant'>CHOEUR DE COMBATTANTS</role>.</castItem>
+			<castItem><role id="AEGLÉ" sex="2" type="H" statut='roi' age='A' stat_amour='néant'>AEGLÉ</role>.</castItem>
+			<castItem><role id="CLÉONE"  sex="2" type="H" statut='confident' age='A' stat_amour='néant'>CLÉONE</role>, confidente d'AEglé.</castItem>
+			<castItem><role id="ARCAS"  sex="1" type="H" statut='confident' age='A' stat_amour='néant'>ARCAS</role>.</castItem>
+			<castItem><role id="GRANDE PRÊTRESSE"  sex="2" type="H" statut='prêtre' age='A' stat_amour='néant'>LA GRANDE PRÊTRESSE de MINERVE</role>.</castItem>
+			<castItem><role id="AEGÉE"  sex="1" type="H" statut='roi' age='A' stat_amour='néant'>AEGÉE</role>, roi d'Athenes.</castItem>
+			<castItem><role id="SUIVANTS D'AEGÉE"  sex="9" type="H" statut='suivant' age='A' stat_amour='néant'>SUIVANTS d'AEGÉE</role>.</castItem>
+			<castItem><role id="LE CHOEUR DE PRÊTRESSES"  sex="9" type="H" statut='prêtre' age='A' stat_amour='néant'>CHOEUR DE PRÊTRESSES DE MINERVE</role>.</castItem>
+			<castItem><role id="SACRIFICATEURS"  sex="9" type="H" statut='prêtre' age='A' stat_amour='néant'>TROUPE DE SACRIFICATEURS DE MINERVE</role>.</castItem>
+			<castItem><role id="MÉDÉE"  sex="2" type="H" statut='prince' age='A' stat_amour='néant'>MÉDÉE</role>, princesse magicienne.</castItem>
+			<castItem><role id="DORINE"  sex="2" type="H" statut='confident' age='A' stat_amour='néant'>DORINE</role>, confidente de Médée.</castItem>
+			<castItem><role id="CHOEUR ATHENES"  sex="9" type="H" statut='peuple' age='A' stat_amour='néant'>Choeur de troupes de la populace d'Athènes</role>.</castItem>
+			<castItem><role id="THÉSÉE"  sex="1" type="H" statut='prince' age='A' stat_amour='néant'>THÉSÉE</role>, fils inconnu d'AEgée roi d'Athènes.</castItem>
+			<castItem><role id="UN FANTÔME"  sex="1"  type="F" statut='fantôme' age='A' stat_amour='néant'>UN FANTÔME</role>.</castItem>
+			<castItem><role id="TROUPE DE LUTIN"  sex="9" type="H" statut='lutin' age='A' stat_amour='néant'>TROUPE DE LUTINS</role>.</castItem>
+			<castItem><role id="LE CHOEUR DE L'ENFER"  sex="9" type="H" statut='' age='A' stat_amour='néant'>CHOEUR des habitants des Enfers</role>.</castItem>
 		</castList>
 		<set location='Athènes' country='Grèce' periode='Temps mythologiques' link=''>La scène est à Athènes.</set>
 	</front>

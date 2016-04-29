@@ -6,9 +6,10 @@
 				<title>ARTAXERCE, TRAGÉDIE</title>
 				<author born='1618' born_location='Albi' death='1698' death_location='Paris' academie='1666'>BOYER, Claude</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, mai 2008, revu mai 2011, revu avril 2014</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire perse</inspiration>
@@ -79,16 +80,16 @@
 	</div>
 <castList>
 <head>ACTEURS</head>
-	<castItem><role id="ARTAXERCE" civil='M' type="H" statut='roi' age='A' stat_amour='néant'>ARTAXERCE</role>, roi de Perse.</castItem>
-	<castItem><role id="DARIUS" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>DARIUS</role>, fils d'Artaxerce.</castItem>
-	<castItem><role id="ASPASIE" civil='F' type="H" statut='roi' age='A' stat_amour='néant'>ASPASIE</role>.</castItem>
-	<castItem><role id="TIRIBAZE" civil='M' type="H" statut='satrape' age='A' stat_amour='néant'>TIRIBAZE</role>, favori d'Artaxerce.</castItem>
-	<castItem><role id="NITOCRIS" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>NITOCRIS</role>, fille de Tiribaze.</castItem>
-	<castItem><role id="ORONTE" civil='M' type="H" statut='confident' age='A' stat_amour='néant'>ORONTE</role>, confident de Darius.</castItem>
-	<castItem><role id="BARSINE" civil='F' type="H" statut='confident' age='A' stat_amour='néant'>BARSINE</role>, confidente d'Aspasie.</castItem>
-	<castItem><role id="CLÉONE" civil='F' type="H" statut='confident' age='A' stat_amour='néant'>CLÉONE</role>, confidente de Nitocris.</castItem>
-	<castItem><role id="MINDATE" civil='M' type="H" statut='capitaine' age='A' stat_amour='néant'>MINDATE</role>, capitaine des Gardes d' Artaxerce.</castItem>
-	<castItem><role id="SUITE" civil='G' type="H" statut='suite' age='A' stat_amour='néant'>SUITE</role>.</castItem>
+	<castItem><role id="ARTAXERCE" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>ARTAXERCE</role>, roi de Perse.</castItem>
+	<castItem><role id="DARIUS" sex="1" type="H" statut='prince' age='J' stat_amour='néant'>DARIUS</role>, fils d'Artaxerce.</castItem>
+	<castItem><role id="ASPASIE" sex="2" type="H" statut='roi' age='A' stat_amour='néant'>ASPASIE</role>.</castItem>
+	<castItem><role id="TIRIBAZE" sex="1" type="H" statut='satrape' age='A' stat_amour='néant'>TIRIBAZE</role>, favori d'Artaxerce.</castItem>
+	<castItem><role id="NITOCRIS" sex="2" type="H" statut='aristocrate' age='J' stat_amour='néant'>NITOCRIS</role>, fille de Tiribaze.</castItem>
+	<castItem><role id="ORONTE" sex="1" type="H" statut='confident' age='A' stat_amour='néant'>ORONTE</role>, confident de Darius.</castItem>
+	<castItem><role id="BARSINE" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>BARSINE</role>, confidente d'Aspasie.</castItem>
+	<castItem><role id="CLÉONE" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>CLÉONE</role>, confidente de Nitocris.</castItem>
+	<castItem><role id="MINDATE" sex="1" type="H" statut='capitaine' age='A' stat_amour='néant'>MINDATE</role>, capitaine des Gardes d' Artaxerce.</castItem>
+	<castItem><role id="SUITE" sex="9" type="H" statut='suite' age='A' stat_amour='néant'>SUITE</role>.</castItem>
 </castList>
 <set location='Babylone' country='Perse' periode='VIIème avant JC' link=''>La Scène est à Babylone, dans le Palais d'Artaxerce.</set> 
 </front>

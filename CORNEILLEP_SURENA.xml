@@ -7,9 +7,10 @@
 				<author born='1606' born_location='Rouen' death='1684' death_location='Paris' academie='1647'>CORNEILLE, Pierre</author>
 				<date>1674</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, mai 2006, revu avril 2013.</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire orientale</inspiration>
@@ -50,13 +51,13 @@
 		<p>Le Sujet de cette tragédie est tiré de Plutarque, et d'Appian Alexandrin. Ils disent tous deux que Suréna était le plus noble, le plus riche, le mieux fait, et le plus vaillant des Parthes. Avec ces qualités, il ne pouvait manquer d'être un des premiers hommes de son siècle, et si je ne m'abuse, la peinture que j'en ai faite ne l'a point rendu méconnaissable. Vous en jugerez.</p>
 		</div>
 	<castList><head>ACTEURS</head>
-		<castItem><role id='ORODE' civil='M' type="H" statut='roi' age='A' stat_amour='néant'>ORODE</role>, roi des Parthes. </castItem>
-		<castItem><role id='PACORUS' civil='M' type="H" statut='prince' age='A' stat_amour='néant'>PACORUS</role>, fils d'Orode.</castItem>
-		<castItem><role id='SURENA' civil='M' type="H" statut='général' age='A' stat_amour='néant'>SURÉNA</role>, lieutenant d'Orode, et général de son armée contre Crassus.</castItem>
-		<castItem><role id='SILLACE' civil='M' type="H" statut='lieutenant' age='A' stat_amour='néant'>SILLACE</role>, autre lieutenant d'Orode.</castItem>
-		<castItem><role id='EURYDICE' civil='F' type="H" statut='prince' age='A' stat_amour='néant'>EURYDICE</role>, fille d'Artabase, roi d'Arménie.</castItem>
-		<castItem><role id='PALMIS' civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>PALMIS</role>, soeur de Suréna.</castItem>
-		<castItem><role id='ORMENE' civil='F' type="H" statut="dame d'honneur" age='A' stat_amour='néant'>ORMÈNE</role>, dame d'honneur d'Eurydice.</castItem>
+		<castItem><role id='ORODE' sex="1" type="H" statut='roi' age='A' stat_amour='néant'>ORODE</role>, roi des Parthes. </castItem>
+		<castItem><role id='PACORUS' sex="1" type="H" statut='prince' age='J' stat_amour='néant'>PACORUS</role>, fils d'Orode.</castItem>
+		<castItem><role id='SURENA' sex="1" type="H" statut='général' age='A' stat_amour='néant'>SURÉNA</role>, lieutenant d'Orode, et général de son armée contre Crassus.</castItem>
+		<castItem><role id='SILLACE' sex="1" type="H" statut='lieutenant' age='A' stat_amour='néant'>SILLACE</role>, autre lieutenant d'Orode.</castItem>
+		<castItem><role id='EURYDICE' sex="2" type="H" statut='prince' age='J' stat_amour='néant'>EURYDICE</role>, fille d'Artabase, roi d'Arménie.</castItem>
+		<castItem><role id='PALMIS' sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>PALMIS</role>, soeur de Suréna.</castItem>
+		<castItem><role id='ORMENE' sex="2" type="H" statut="dame d'honneur" age='A' stat_amour='néant'>ORMÈNE</role>, dame d'honneur d'Eurydice.</castItem>
 	</castList>
 	<set location='Séleucie' country='Irak' periode='Ier avant JC' link=''>La scène se passe à Séleucie, sur l'Euphrate.</set>
 	</front>

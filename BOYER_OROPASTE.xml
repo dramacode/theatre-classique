@@ -7,9 +7,10 @@
 				<author born='1618' born_location='Albi' death='1698' death_location='Paris' academie='1666'>BOYER, Claude</author>
 				<date>1663</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<authority>publié par Paul FIEVRE, Septembre 2006, revu décembre 2014</authority>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire orientale</inspiration>
@@ -65,16 +66,16 @@ Votre très humble, et très obéissant Serviteur,
 <acheveImprime></acheveImprime>
 <castList>
 <head>ACTEURS</head>
-	<castItem><role id='OROPASTE' civil='M' type="H" statut='' age='A' stat_amour='néant'>OROPASTE</role> ou le faux Tonaxare, Roi de Perse.</castItem>
-	<castItem><role id='PATISITE' civil='M' type="H" statut='' age='A' stat_amour='néant'>PATISITE</role>, frère d'Oropaste.</castItem>
-	<castItem><role id='MÉGABISE' civil='M' type="H" statut='' age='A' stat_amour='néant'>MÉGABISE</role>, père d'Oropaste.</castItem>
-	<castItem><role id='DARIE' civil='M' type="H" statut='' age='A' stat_amour='néant'>DARIE</role>, prince de Perse, Amant d'Hésione.</castItem>
-	<castItem><role id='ZOPIRE' civil='M' type="H" statut='' age='A' stat_amour='néant'>ZOPIRE</role>, prince de Perse, Amant d'Araminte.</castItem>
-	<castItem><role id='HÉSIONE' civil='F' type="H" statut='' age='A' stat_amour='néant'>HÉSIONE</role>, sur du vrai Tonaxare.</castItem>
-	<castItem><role id='ARAMINTE' civil='F' type="H" statut='' age='A' stat_amour='néant'>ARAMINTE</role>, sur de Darie.</castItem>
-	<castItem><role id='CLÉONE' civil='F' type="H" statut='' age='A' stat_amour='néant'>CLÉONE</role>, confidente d'Hésione.</castItem>
-	<castItem><role id='MITROBATE' civil='M' type="H" statut='' age='A' stat_amour='néant'>MITROBATE</role>, capitaine des Gardes du Roi.</castItem>
-	<castItem><role id='GARDES' civil='G' type="H" statut='' age='A' stat_amour='néant'>GARDES</role>.</castItem>
+	<castItem><role id='OROPASTE' sex="1" type="H" statut='' age='A' stat_amour='néant'>OROPASTE</role> ou le faux Tonaxare, Roi de Perse.</castItem>
+	<castItem><role id='PATISITE' sex="1" type="H" statut='' age='A' stat_amour='néant'>PATISITE</role>, frère d'Oropaste.</castItem>
+	<castItem><role id='MÉGABISE' sex="1" type="H" statut='' age='V' stat_amour='néant'>MÉGABISE</role>, père d'Oropaste.</castItem>
+	<castItem><role id='DARIE' sex="1" type="H" statut='' age='A' stat_amour='néant'>DARIE</role>, prince de Perse, Amant d'Hésione.</castItem>
+	<castItem><role id='ZOPIRE' sex="1" type="H" statut='' age='A' stat_amour='néant'>ZOPIRE</role>, prince de Perse, Amant d'Araminte.</castItem>
+	<castItem><role id='HÉSIONE' sex="2" type="H" statut='' age='A' stat_amour='néant'>HÉSIONE</role>, soeur du vrai Tonaxare.</castItem>
+	<castItem><role id='ARAMINTE' sex="2" type="H" statut='' age='A' stat_amour='néant'>ARAMINTE</role>, soeur de Darie.</castItem>
+	<castItem><role id='CLÉONE' sex="2" type="H" statut='' age='A' stat_amour='néant'>CLÉONE</role>, confidente d'Hésione.</castItem>
+	<castItem><role id='MITROBATE' sex="1" type="H" statut='' age='A' stat_amour='néant'>MITROBATE</role>, capitaine des Gardes du Roi.</castItem>
+	<castItem><role id='GARDES' sex="9" type="H" statut='' age='A' stat_amour='néant'>GARDES</role>.</castItem>
 </castList>
 <set location='Suze' country='Iran' periode='VIème avant JC' link=''>La scène est à Suse dans le palais royal.</set>
 </front>
@@ -104,7 +105,7 @@ Votre très humble, et très obéissant Serviteur,
 <sp who='DARIE'><speaker>DARIE.</speaker>
 	<l id='13'>Non, non, depuis six mois maître de la couronne,</l>
 	<l id='14'>Soit orgueil, soit coutume, il cache sa personne :</l>
-	<l id='15'>Zopire, tu sais bien comme il aimait ma sur,</l>
+	<l id='15'>Zopire, tu sais bien comme il aimait ma soeur,</l>
 	<l id='16'>Comme il m'offrit la sienne, et toute sa faveur ;</l>
 	<l id='17'>Maintenant sur le trône, il fuit ma confidence,</l>
 	<l id='18'>Et tout son procédé marque son inconstance.</l>
@@ -162,7 +163,7 @@ Votre très humble, et très obéissant Serviteur,
 	<l id='53'>Parlez, et je suis prêt à vous prêter silence.</l>
 </sp>
 <sp who='DARIE'><speaker>DARIE à Mégabise.</speaker>
-	<l id='54'>Si vous craignez ici ma sur et ma présence...</l>
+	<l id='54'>Si vous craignez ici ma soeur et ma présence...</l>
 </sp>
 <sp who='MEGABISE'><speaker>MÉGABISE.</speaker>
 	<l id='55'>Non, non, Prince, arrêtez, et vous princesse aussi.</l>
@@ -490,7 +491,7 @@ Votre très humble, et très obéissant Serviteur,
 	<l id='292'>Madame, il vous dira que c'est un imposteur,</l>
 	<l id='293'>Que du vrai Tonaxare ayant la ressemblance,</l>
 	<l id='294'>Sa conduite en fait voir toute la différence.</l>
-	<l id='295'>Vous voyez qu'il trahit ma sur, moi-même, et vous,</l>
+	<l id='295'>Vous voyez qu'il trahit ma soeur, moi-même, et vous,</l>
 	<l id='296'>Qu'il trahit les beaux feux qu'il fit naître entre nous,</l>
 	<l id='297'>Et que d'un roi si cher dont il porte l'image,</l>
 	<l id='298'>Il n'en a retenu que l'ombre, et le visage.</l>
@@ -500,7 +501,7 @@ Votre très humble, et très obéissant Serviteur,
 	<l id='300'>Tous les traits apparents, l'air, la taille, et la voix.</l>
 </sp>
 <sp who='DARIE'><speaker>DARIE.</speaker>
-	<l id='301'>De si contraires murs font voir son imposture.</l>
+	<l id='301'>De si contraires moeurs font voir son imposture.</l>
 </sp>
 <sp who='HESIONE'><speaker>HÉSIONE.</speaker>
 	<l id='302'>Mais des traits si pareils étonnent la nature.</l>
@@ -515,7 +516,7 @@ Votre très humble, et très obéissant Serviteur,
 </sp>
 <sp who='DARIE'><speaker>DARIE.</speaker>
 	<l id='307'>Faudra-t-il déférer à votre aveuglement ?</l>
-	<l id='308'>Ma sur, songez plutôt à venger votre Amant.</l>
+	<l id='308'>Ma soeur, songez plutôt à venger votre Amant.</l>
 </sp>
 <sp who='ARAMINTE'><speaker>ARAMINTE.</speaker>
 	<l id='309'>Je prendrais le hasard dans un sort si bizarre,</l>
@@ -589,20 +590,20 @@ Votre très humble, et très obéissant Serviteur,
 	<l id='337' part='i'>Il entre.</l>
 </sp>
 <sp who='OROPASTE'><speaker>LE ROI.</speaker>
-	<l id='337' part='f'>Ah ! Chère sur,sur ce triste visage</l>
+	<l id='337' part='f'>Ah ! Chère soeur,sur ce triste visage</l>
 	<l id='338'>Je vois d'un mal secret le funeste présage :</l>
 	<l id='339'>Mais si vous vous plaignez d'un sort trop vigoureux,</l>
-	<l id='340'>J'en connais, chère sur, qui sont plus malheureux.</l>
+	<l id='340'>J'en connais, chère soeur, qui sont plus malheureux.</l>
 	<l id='341'>Forcé par la rigueur des Lois du Diadème,</l>
-	<l id='342'>De manquer à Darie, à ma sur, à moi-même,</l>
+	<l id='342'>De manquer à Darie, à ma soeur, à moi-même,</l>
 	<l id='343'>Perfide, ingrat, je suis au point où je me vois,</l>
 	<l id='344'>Plus à plaindre que ceux qui se plaignent de moi :</l>
 	<l id='345'>Malgré moi ma parole autre part vous engage :</l>
 	<l id='346'>Si Darie emporta ce superbe avantage,</l>
 	<l id='347'>Ne vous étonnez pas d'un si grand changement ;</l>
-	<l id='348'>Ma sur, j'étais alors ami, sujet, amant ;</l>
+	<l id='348'>Ma soeur, j'étais alors ami, sujet, amant ;</l>
 	<l id='349'>Alors aimant tous deux, notre amitié fidèle</l>
-	<l id='350'>Se fit de nos deux surs une offre mutuelle :</l>
+	<l id='350'>Se fit de nos deux soeurs une offre mutuelle :</l>
 	<l id='351'>Mais le rang où je suis rompt cette égalité,</l>
 	<l id='352'>Et me doit dispenser de ma fidélité ;</l>
 	<l id='353'>Je m'imposai ce joug en prenant la Couronne,</l>
@@ -615,7 +616,7 @@ Votre très humble, et très obéissant Serviteur,
 </sp>
 <sp who='OROPASTE'><speaker>LE ROI.</speaker>
 	<l id='358'>Un bras à qui je dois et le sceptre, et la vie ;</l>
-	<l id='359'>Patisite, ma sur, il fut mon seul appui.</l>
+	<l id='359'>Patisite, ma soeur, il fut mon seul appui.</l>
 </sp>
 <sp who='HESIONE'><speaker>HÉSIONE.</speaker>
 	<l id='360' part='i'>Patisite, Seigneur ?</l>
@@ -648,22 +649,22 @@ Votre très humble, et très obéissant Serviteur,
 	<l id='378'>Et faut-il le payer en trahissant Darie ?</l>
 </sp>
 <sp who='OROPASTE'><speaker>LE ROI.</speaker>
-	<l id='379'>Ah ! Que ne voyez-vous, chère et divine sur,</l>
+	<l id='379'>Ah ! Que ne voyez-vous, chère et divine soeur,</l>
 	<l id='380'>Les efforts que mon zèle a faits en sa faveur ;</l>
 	<l id='381'>Ce choix dont votre amour fait un malheur extrême,</l>
 	<l id='382'>Vous ferait plus souffrir pour moi, que pour vous-même.</l>
 </sp>
 <sp who='HESIONE'><speaker>HÉSIONE.</speaker>
 	<l id='383'>Je puis donc espérer, et vous m'aimez assez,</l>
-	<l id='384'>Pour ne me dire pas, ma sur obéissez :</l>
+	<l id='384'>Pour ne me dire pas, ma soeur obéissez :</l>
 	<l id='385'>De ce seul mot dépend le salut de Darie ;</l>
 	<l id='386'>Ou prenez plus de soin d'une si chère vie,</l>
 	<l id='387'>Ou bien souvenez-vous de cet illustre jour</l>
-	<l id='388'>Où le nud d'amitié fit celui de l'amour,</l>
-	<l id='389'>Quand vous donnant sa sur pour obtenir la vôtre,</l>
+	<l id='388'>Où le noeud d'amitié fit celui de l'amour,</l>
+	<l id='389'>Quand vous donnant sa soeur pour obtenir la vôtre,</l>
 	<l id='390'>Par ce don mutuel l'un s'acquitta vers l'autre :</l>
 	<l id='391'>Il se fera justice, et malgré tant d'ardeur,</l>
-	<l id='392'>Il saura se venger, et reprendre sa sur.</l>
+	<l id='392'>Il saura se venger, et reprendre sa soeur.</l>
 </sp>
 <sp who='OROPASTE'><speaker>LE ROI.</speaker>
 	<l id='393'>Ce n'est pas ce malheur qui doit faire ma peine ;</l>
@@ -675,7 +676,7 @@ Votre très humble, et très obéissant Serviteur,
 	<l id='397'>Puis-je au moins espérer du secours de mes larmes...</l>
 </sp>
 <sp who='OROPASTE'><speaker>LE ROI.</speaker>
-	<l id='398'>Ah ! Trop aimable sur, que vos pleurs ont de charmes !</l>
+	<l id='398'>Ah ! Trop aimable soeur, que vos pleurs ont de charmes !</l>
 	<l id='399'>Que je cède sans peine à ce juste désir,</l>
 	<l id='400'>Vers qui déjà mon cour penchait avec plaisir !</l>
 </sp>
@@ -685,7 +686,7 @@ Votre très humble, et très obéissant Serviteur,
 <sp who='OROPASTE'><speaker>LE ROI.</speaker>
 	<l id='402'>Je vous rends encor plus que votre amour n'espère :</l>
 	<l id='403'>Je vous aime, Hésione, avecque tant d'ardeur,</l>
-	<l id='404'>Que vous m'êtes bien plus que ne m'est une sur</l>
+	<l id='404'>Que vous m'êtes bien plus que ne m'est une soeur</l>
 </sp>
 <sp who='HESIONE'><speaker>HÉSIONE.</speaker>
 	<l id='405'>Vous m'en donnez, Seigneur, une puissante preuve.</l>
@@ -718,7 +719,7 @@ Votre très humble, et très obéissant Serviteur,
 	<l id='419' part='f'>Que dites-vous, Seigneur ?</l>
 </sp>
 <sp who='OROPASTE'><speaker>LE ROI.</speaker>
-	<l id='420'>J'avais presque oublié que vous étiez ma sur,</l>
+	<l id='420'>J'avais presque oublié que vous étiez ma soeur,</l>
 	<l id='421'>Et dans l'emportement d'un si tendre langage...</l>
 	<l id='422'>Adieu, peut-être un jour j'en dirai davantage.</l>
 </sp>
@@ -909,7 +910,7 @@ Votre très humble, et très obéissant Serviteur,
 	<l id='536' part='i'>Rien de nouveau.</l>
 </sp>
 <sp who='ARAMINTE'><speaker>ARAMINTE.</speaker>
-	<l id='536' part='f'>Quoi donc, vous promettant sa sur,</l>
+	<l id='536' part='f'>Quoi donc, vous promettant sa soeur,</l>
 	<l id='537'>Darie a fait passer son erreur dans votre âme ?</l>
 	<l id='538'>Il faut perdre un rival qui nuit à votre flamme :</l>
 	<l id='539'>Votre cour, qui semblait ne prendre aucun parti,</l>
@@ -1393,7 +1394,7 @@ Votre très humble, et très obéissant Serviteur,
 	<l id='791'>Et je verrai les Dieux forcés de m'épargner,</l>
 	<l id='792'>Si je mêle mon sang au sang qui fait régner.</l>
 	<l id='793'>L'exemple de Cambise autorise ma flamme,</l>
-	<l id='794'>Et rien n'est contre moi, si sa sur est ma femme,</l>
+	<l id='794'>Et rien n'est contre moi, si sa soeur est ma femme,</l>
 	<l id='795'>Je te la destinais, n'osant parler pour moi ;</l>
 	<l id='796'>Mais n'ayant pu forcer l'horreur qu'elle a pour toi,</l>
 	<l id='797'>J'ai parlé pour moi-même, et pour combler ma peine,</l>
@@ -1795,7 +1796,7 @@ Votre très humble, et très obéissant Serviteur,
 	<l id='1090'>Le ciel m'a-t-il en vain donné cet avantage ?</l>
 	<l id='1091'>Notre rapport confond son sort avec le mien,</l>
 	<l id='1092'>Et comme de son sort, j'hérite de son bien.</l>
-	<l id='1093'>Si sa sur après lui peut encor y prétendre,</l>
+	<l id='1093'>Si sa soeur après lui peut encor y prétendre,</l>
 	<l id='1094'>En lui donnant la main, je m'offre à le lui rendre,</l>
 	<l id='1095'>Et prétends devenir par ce choix glorieux,</l>
 	<l id='1096'>Juste envers tout le monde, et quitte envers les Dieux.</l>
@@ -1918,7 +1919,7 @@ Votre très humble, et très obéissant Serviteur,
 	<l id='1191'>Ne sera désormais qu'un remords impuissant,</l>
 	<l id='1192'>Puisque votre vertu rend mon crime innocent.</l>
 	<l id='1193'>Mon père étant pour nous, je n'ai plus rien à dire,</l>
-	<l id='1194'>Réglez à votre gré vos vux, et votre Empire ;</l>
+	<l id='1194'>Réglez à votre gré vos voeux, et votre Empire ;</l>
 	<l id='1195'>Vous pouvez tout oser avec tant de vertu.</l>
 </sp>
 <sp who='OROPASTE'><speaker>LE ROI.</speaker>
@@ -1950,7 +1951,7 @@ Votre très humble, et très obéissant Serviteur,
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Le Roi, Hésione.</head>
 <sp who='OROPASTE'><speaker>LE ROI.</speaker>
-	<l id='1215' part='f'>Venez, venez, ma sur,</l>
+	<l id='1215' part='f'>Venez, venez, ma soeur,</l>
 	<l id='1216'>Par votre injuste haine achevez mon malheur..</l>
 	<l id='1217'>Un bruit qu'ont répandu la fureur, et l'envie,</l>
 	<l id='1218'>Attaque insolemment et mon trône, et ma vie ;</l>
@@ -1967,7 +1968,7 @@ Votre très humble, et très obéissant Serviteur,
 	<l id='1227'>Souffrez à mon amant ses innocents désirs.</l>
 </sp>
 <sp who='OROPASTE'><speaker>LE ROI.</speaker>
-	<l id='1228'>Quoi ma sur, quoi Darie, aura tous vos soupirs ?</l>
+	<l id='1228'>Quoi ma soeur, quoi Darie, aura tous vos soupirs ?</l>
 </sp>
 <sp who='HESIONE'><speaker>HÉSIONE.</speaker>
 	<l id='1229'>Je songe à le sauver, aussi bien que mon frère.</l>
@@ -2000,7 +2001,7 @@ Votre très humble, et très obéissant Serviteur,
 	<l id='1248'>Pour en faire à ce crime un exemple pour vous.</l>
 </sp>
 <sp who='OROPASTE'><speaker>LE ROI.</speaker>
-	<l id='1249'>Il est vrai, chère sur, je le blâmai moi-même :</l>
+	<l id='1249'>Il est vrai, chère soeur, je le blâmai moi-même :</l>
 	<l id='1250'>Mais las ! Si vous m'aimiez autant que je vous aime,</l>
 	<l id='1251'>Vous vous troubleriez moins d'un si doux sentiment !</l>
 	<l id='1252'>J'en fus un peu surpris dans son commencement ;</l>
@@ -2010,20 +2011,20 @@ Votre très humble, et très obéissant Serviteur,
 	<l id='1256'>Mais la raison bientôt dissipa cette erreur ;</l>
 	<l id='1257'>L'opinion l'enfante, et non pas la nature,</l>
 	<l id='1258'>Laissez dessus le peuple agir son imposture ;</l>
-	<l id='1259'>Vous, ma sur, dissipez ce faible sentiment :</l>
+	<l id='1259'>Vous, ma soeur, dissipez ce faible sentiment :</l>
 	<l id='1260'>Qu'ai-je d'incompatible avec le nom d'amant ?</l>
-	<l id='1261'>Si le nud de l'amour est dans la ressemblance,</l>
-	<l id='1262'>Si c'est l'égalité des murs de la naissance,</l>
+	<l id='1261'>Si le noeud de l'amour est dans la ressemblance,</l>
+	<l id='1262'>Si c'est l'égalité des moeurs de la naissance,</l>
 	<l id='1263'>Qui des parfaits amants fait toute la douceur,</l>
-	<l id='1264'>Où la trouve-t-on mieux qu'entre un frère et sa sur ?</l>
-	<l id='1265'>Si le ciel par le nud de l'amour fraternelle</l>
+	<l id='1264'>Où la trouve-t-on mieux qu'entre un frère et sa soeur ?</l>
+	<l id='1265'>Si le ciel par le noeud de l'amour fraternelle</l>
 	<l id='1266'>A mis entre nous deux une union si belle,</l>
 	<l id='1267'>Nos sentiments sont-ils différents à ce point,</l>
 	<l id='1268'>Que vous trouviez un crime où je n'en trouve point ?</l>
 	<l id='1269'>Ah ! Qu'il est doux d'aimer, quand une flamme pure</l>
 	<l id='1270'>Seconde les transports qu'inspire la nature !</l>
 	<l id='1271'>Que l'étreinte en amour est forte, alors qu'un cour</l>
-	<l id='1272'>Trouve en un même objet, et sa femme, et sa sur !</l>
+	<l id='1272'>Trouve en un même objet, et sa femme, et sa soeur !</l>
 	<l id='1273'>Tournez-y votre esprit, de l'ardeur pour un frère</l>
 	<l id='1274'>À celle que je veux, on n'a qu'un pas à faire ;</l>
 	<l id='1275'>Ce pas vous mène au trône, et vous fera goûter...</l>
@@ -2103,7 +2104,7 @@ Votre très humble, et très obéissant Serviteur,
 	<l id='1317'>Plus un Prince entreprend, et moins on le soupçonne ;</l>
 	<l id='1318'>Il serait moins hardi, s'il volait la couronne :</l>
 	<l id='1319'>Mais changer ses Amis, sa maîtresse, et les lois,</l>
-	<l id='1320'>Oser aimer sa sur, il n'appartient qu'aux rois.</l>
+	<l id='1320'>Oser aimer sa soeur, il n'appartient qu'aux rois.</l>
 </sp>
 <sp who='PATISITE'><speaker>PATISITE.</speaker>
 	<l id='1321'>Mais aigri de ce choix, l'impétueux Darie,</l>
@@ -2122,7 +2123,7 @@ Votre très humble, et très obéissant Serviteur,
 	<l id='1332'>Avertis-en ton frère, il le faut arrêter.</l>
 </sp>
 <sp who='PATISITE'><speaker>PATISITE.</speaker>
-	<l id='1333'>Il paraît, mais il parle à la sur de Darie.</l>
+	<l id='1333'>Il paraît, mais il parle à la soeur de Darie.</l>
 </sp>
 <sp who='MEGABISE'><speaker>MÉGABISE.</speaker>
 	<l id='1334'>Fais-lui voir un péril qui menace sa vie ;</l>
@@ -2137,7 +2138,7 @@ Votre très humble, et très obéissant Serviteur,
 	<l id='1339'>Et d'un Roi malheureux qu'on traite d'imposteur.</l>
 </sp>
 <sp who='ARAMINTE'><speaker>ARAMINTE.</speaker>
-	<l id='1340'>Dites plutôt d'un Prince amoureux de sa sur ;</l>
+	<l id='1340'>Dites plutôt d'un Prince amoureux de sa soeur ;</l>
 	<l id='1341'>Le ciel ne me saurait offrir une vengeance</l>
 	<l id='1342'>Pareille au châtiment qui suit votre inconstance.</l>
 	<l id='1343'>Quoique suspect à tous, un soupçon si honteux</l>
@@ -2147,7 +2148,7 @@ Votre très humble, et très obéissant Serviteur,
 </sp>
 <sp who='OROPASTE'><speaker>LE ROI.</speaker>
 	<l id='1347'>Cet amour supposé vous venge faiblement :</l>
-	<l id='1348'>J'ose épouser ma sur, sans être son amant ;</l>
+	<l id='1348'>J'ose épouser ma soeur, sans être son amant ;</l>
 	<l id='1349'>Et si votre belle âme à la vengeance aspire,</l>
 	<l id='1350'>C'est ici qu'elle doit jouir de mon martyre :</l>
 	<l id='1351'>Pour le bien de l'État, devenant son époux,</l>
@@ -2178,20 +2179,20 @@ Votre très humble, et très obéissant Serviteur,
 	<l id='1371'>Et si par des faux bruits un démon trop jaloux,</l>
 	<l id='1372'>Me veut ôter un rang que je garde pour vous,</l>
 	<l id='1373'>Voulant vous faire part de ce pouvoir suprême,</l>
-	<l id='1374'>J'épouserai ma sur en dépit de moi-même ;</l>
+	<l id='1374'>J'épouserai ma soeur en dépit de moi-même ;</l>
 	<l id='1375'>Son suffrage, et sa main, assurent mon pouvoir.</l>
 	<l id='1376'>Voyez à quels efforts m'oblige ce devoir,</l>
 	<l id='1377'>Voyez jusques où va la contrainte mortelle</l>
 	<l id='1378'>Que l'amour, et la gloire, exigent de mon zèle.</l>
 	<l id='1379'>Pour l'État, et pour vous, je surmonte l'horreur</l>
-	<l id='1380'>Que je sens en secret pour l'hymen d'une sur :</l>
+	<l id='1380'>Que je sens en secret pour l'hymen d'une soeur :</l>
 	<l id='1381'>Mais si l'État m'oblige à l'hymen d'Hésione,</l>
 	<l id='1382'>Mon cour vous est acquis plutôt qu'à la couronne ;</l>
 	<l id='1383'>Si vous m'aimez, je veux donner en même jour</l>
 	<l id='1384'>Hésione à l'État, et vous à mon amour :</l>
 	<l id='1385'>Souffrez un double hymen que la Perse autorise,</l>
 	<l id='1386'>Que mon amour vous place au trône de Cambise,</l>
-	<l id='1387'>Et que je puisse assis entre vous et ma sur</l>
+	<l id='1387'>Et que je puisse assis entre vous et ma soeur</l>
 	<l id='1388'>Lui donner une main, à vous l'autre, et le cour.</l>
 </sp>
 <sp who='ARAMINTE'><speaker>ARAMINTE.</speaker>
@@ -2262,7 +2263,7 @@ Votre très humble, et très obéissant Serviteur,
 	<l id='1430'>Cache-toi dans toi-même, et dessous son image,</l>
 	<l id='1431'>Et sans redouter, ne songe qu'à régner.</l>
 	<l id='1432'>Sans doute que le ciel résout de t'épargner ;</l>
-	<l id='1433'>La sur vient t'avertir, lorsque le frère attente ;</l>
+	<l id='1433'>La soeur vient t'avertir, lorsque le frère attente ;</l>
 	<l id='1434'>Pousse donc vite au port ta fortune flottante.</l>
 	<l id='1435'>Cessez enfin, grands Dieux, de douter de mes droits ;</l>
 	<l id='1436'>Le sort, et la vertu, peuvent faire des rois ;</l>
@@ -2286,7 +2287,7 @@ Votre très humble, et très obéissant Serviteur,
 	<l id='1444'>De donner plus de jour à mon ressentiment.</l>
 </sp>
 <sp who='OROPASTE'><speaker>LE ROI.</speaker>
-	<l id='1445'>Ma sur, de toutes parts le bruit se fortifie,</l>
+	<l id='1445'>Ma soeur, de toutes parts le bruit se fortifie,</l>
 	<l id='1446'>Que dans Bactre le Roi me fit ôter la vie ;</l>
 	<l id='1447'>Et que par Patisite, en mon lieu supposé,</l>
 	<l id='1448'>Son frère règne ici sur un peuple abusé.</l>
@@ -2299,7 +2300,7 @@ Votre très humble, et très obéissant Serviteur,
 	<l id='1455'>Dans un si grand péril qui menace mes jours,</l>
 	<l id='1456'>Votre zèle vient-il m'apporter du secours ?</l>
 	<l id='1457'>J'ai besoin de conseil, et soupçonnant tout autre,</l>
-	<l id='1458'>Sur ce sujet, ma sur, je ne veux que le vôtre.</l>
+	<l id='1458'>Sur ce sujet, ma soeur, je ne veux que le vôtre.</l>
 </sp>
 <sp who='HESIONE'><speaker>HÉSIONE.</speaker>
 	<l id='1459'>Il vous faut un conseil dans cette extrémité</l>
@@ -2322,14 +2323,14 @@ Votre très humble, et très obéissant Serviteur,
 	<l id='1471' part='f'>Moi, Seigneur ?</l>
 </sp>
 <sp who='OROPASTE'><speaker>LE ROI.</speaker>
-	<l id='1472'>Oui, vous-même, Princesse, oui vous-même, ma sur.</l>
+	<l id='1472'>Oui, vous-même, Princesse, oui vous-même, ma soeur.</l>
 	<l id='1473'>C'est là votre dessein, et je veux bien le suivre ;</l>
 	<l id='1474'>Qui ne sait pas mourir, est indigne de vivre ;</l>
 	<l id='1475'>Et ce n'est pas savoir mourir quand il le faut,</l>
 	<l id='1476'>Lorsque les dieux ont mis notre destin si haut,</l>
 	<l id='1477'>Qu'il faut pour s'assurer, par un trait de furie,</l>
 	<l id='1478'>D'un déluge de sang inonder sa patrie.</l>
-	<l id='1479'>Ma sur, quand tout le monde à nous nuire est d'accord,</l>
+	<l id='1479'>Ma soeur, quand tout le monde à nous nuire est d'accord,</l>
 	<l id='1480'>Qui veut vivre à ce prix, a mérité la mort.</l>
 	<l id='1481'>Périsse un sang fatal au salut de l'Empire.</l>
 	<l id='1482'>Gardes, faites venir Itapherne, Zopire,</l>
@@ -2350,13 +2351,13 @@ Votre très humble, et très obéissant Serviteur,
 	<l id='1493'>Vous êtes ma Princesse, et toute ma puissance</l>
 	<l id='1494'>Serait contre vos traits sans force, et sans défense.</l>
 	<l id='1495'>Quittez, quittez enfin le soin de m'épargner ;</l>
-	<l id='1496'>Que m'importe, ma sur, de vivre et de régner,</l>
+	<l id='1496'>Que m'importe, ma soeur, de vivre et de régner,</l>
 	<l id='1497'>Si je perds tout l'espoir de mon amour extrême,</l>
 	<l id='1498'>Et si je suis haï parce que je vous aime ?</l>
 </sp>
 <sp who='HESIONE'><speaker>HÉSIONE.</speaker>
 	<l id='1499'>Je ne hais rien en vous que cette injuste ardeur,</l>
-	<l id='1500'>Et que ce nom d'amant de votre sur :</l>
+	<l id='1500'>Et que ce nom d'amant de votre soeur :</l>
 	<l id='1501'>J'aimerais ce beau feu de tout autre qu'un frère ;</l>
 	<l id='1502'>Changez, changez de nom, si vous me voulez plaire.</l>
 	<l id='1503'>Fussiez-vous, Oropaste, à la place du Roi,</l>
@@ -2424,7 +2425,7 @@ Votre très humble, et très obéissant Serviteur,
 </sp>
 <sp who='HESIONE'><speaker>HÉSIONE.</speaker>
 	<l id='1540'>Je connaîtrai bientôt que mon frère n'est plus.</l>
-	<l id='1541'>Darie est maltraitée, sa sur abandonnée,</l>
+	<l id='1541'>Darie est maltraitée, sa soeur abandonnée,</l>
 	<l id='1542'>On me parle aujourd'hui d'amour, et d'hyménée ;</l>
 	<l id='1543'>Ces traits avec mon frère ont-ils quelque rapport</l>
 	<l id='1544'>Qui m'aient pu jusqu'ici faire ignorer sa mort,</l>
@@ -2514,7 +2515,7 @@ Votre très humble, et très obéissant Serviteur,
 	<l id='1591' part='f'>Vos Gardes ? Ah ! Seigneur.</l>
 </sp>
 <sp who='OROPASTE'><speaker>LE ROI.</speaker>
-	<l id='1592'>Ma sur, c'est sans mon ordre, empêchons ce malheur :</l>
+	<l id='1592'>Ma soeur, c'est sans mon ordre, empêchons ce malheur :</l>
 	<l id='1593' part='i'>Dis-moi qui les conduit.</l>
 </sp>
 <sp who='CLEONE'><speaker>CLÉONE.</speaker>
@@ -2575,15 +2576,15 @@ Votre très humble, et très obéissant Serviteur,
 </sp>
 <sp who='HESIONE'><speaker>HÉSIONE.</speaker>
 	<l id='1617' part='f'>Ah ! C'en est trop, vous connaissez l'offense ;</l>
-	<l id='1618'>Seigneur, c'est votre sur qui demande vengeance.</l>
+	<l id='1618'>Seigneur, c'est votre soeur qui demande vengeance.</l>
 </sp>
 <sp who='OROPASTE'><speaker>LE ROI.</speaker>
 	<l id='1619'>Son zèle a fait son crime, excusez-en l'ardeur.</l>
 </sp>
 <sp who='HESIONE'><speaker>HÉSIONE.</speaker>
-	<l id='1620'>Est-ce zèle envers vous d'outrager votre sur ?</l>
+	<l id='1620'>Est-ce zèle envers vous d'outrager votre soeur ?</l>
 	<l id='1621'>Cléone a dit l'affront, vous en voyez la suite ;</l>
-	<l id='1622'>L'outrage à votre sur venant de Patisite,</l>
+	<l id='1622'>L'outrage à votre soeur venant de Patisite,</l>
 	<l id='1623'>Est tel, que pour laver un affront de ce rang,</l>
 	<l id='1624'>L'infâme qui l'a fait, n'a pas assez de sang.</l>
 </sp>
@@ -2595,7 +2596,7 @@ Votre très humble, et très obéissant Serviteur,
 	<l id='1627'>En foule mes soupçons reviennent dans mon cour.</l>
 </sp>
 <sp who='OROPASTE'><speaker>LE ROI.</speaker>
-	<l id='1628'>Encore des soupçons ? Ah ! C'en est trop, ma sur.</l>
+	<l id='1628'>Encore des soupçons ? Ah ! C'en est trop, ma soeur.</l>
 </sp>
 <sp who='HESIONE'><speaker>HÉSIONE.</speaker>
 	<l id='1629'>Montrez si je la suis en vengeant mon injure :</l>
@@ -2640,7 +2641,7 @@ Votre très humble, et très obéissant Serviteur,
 	<l id='1657'>Ah ! Ce n'est pas de vous que je le veux apprendre :</l>
 	<l id='1658'>Rentrez dans le respect que vous devez lui rendre.</l>
 	<l id='1659'>Non pour trop déférer à son in juste erreur,</l>
-	<l id='1660'>Mais pour me contenter, je vous livre à ma sur ;</l>
+	<l id='1660'>Mais pour me contenter, je vous livre à ma soeur ;</l>
 <stage>À Hésione.</stage>
 	<l id='1661'>Vous-même faites-vous raison de son injure.</l>
 </sp>
@@ -2676,7 +2677,7 @@ Votre très humble, et très obéissant Serviteur,
 	<l id='1675'>Si vous m'abandonnez, où sera mon espoir ?</l>
 </sp>
 <sp who='OROPASTE'><speaker>LE ROI.</speaker>
-	<l id='1676' part='i'>Adieu, ma sur.</l>
+	<l id='1676' part='i'>Adieu, ma soeur.</l>
 </sp>
 <sp who='PATISITE'><speaker>PATISITE.</speaker>
 	<l id='1676' part='m'>Seigneur...</l>
@@ -2751,7 +2752,7 @@ Votre très humble, et très obéissant Serviteur,
 	<l id='1703' part='f'>Qu'on l'ôte de mes yeux.</l>
 </sp>
 <sp who='OROPASTE'><speaker>LE ROI.</speaker>
-	<l id='1704'>Ma sur, faites cesser ces bruits injurieux.</l>
+	<l id='1704'>Ma soeur, faites cesser ces bruits injurieux.</l>
 </sp>
 <sp who='HESIONE'><speaker>HÉSIONE.</speaker>
 	<l id='1705'>Seigneur, ce digne éclat que vous venez de faire</l>
@@ -3120,7 +3121,7 @@ Votre très humble, et très obéissant Serviteur,
 	<l id='1941'>Enfin je le vois bien, on a su vous séduire ;</l>
 	<l id='1942'>Darie, et votre amour, ont sur vous tant d'empire,</l>
 	<l id='1943'>Qu'au lieu de condamner son aveugle fureur,</l>
-	<l id='1944'>Vous suivez son parti, pour obtenir sa sur.</l>
+	<l id='1944'>Vous suivez son parti, pour obtenir sa soeur.</l>
 	<l id='1945'>Mais que prétend Darie ? Ose-t-il entreprendre</l>
 	<l id='1946'>Sur un Roi qui m'est cher, et que je veux défendre ?</l>
 	<l id='1947'>Qu'il sache, et vous aussi, malgré lui, malgré vous,</l>
@@ -3218,7 +3219,7 @@ Votre très humble, et très obéissant Serviteur,
 	<l id='2000'>Paye-toi par ma main, plutôt que par mes yeux.</l>
 	<l id='2001'>De ces derniers moments que l'imposteur respire,</l>
 	<l id='2002'>J'en dois compte à Cyrus, à la gloire, à l'Empire,</l>
-	<l id='2003'>À tant de vux trahis, à tant de maux soufferts,</l>
+	<l id='2003'>À tant de voeux trahis, à tant de maux soufferts,</l>
 	<l id='2004'>À Zopire, à Darie, aux Dieux, à l'Univers.</l>
 </sp>
 </div2>

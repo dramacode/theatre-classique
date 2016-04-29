@@ -6,9 +6,10 @@
 				<title>LE MÉDECIN VOLANT, COMÉDIE.</title>
 				<author born='1638' born_location="Mussy-l Evêque" death='1701' death_location='Paris' academie=''>BOURSAULT, Edme</author>
 							</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<authority>publié par Paul FIEVRE, octobre 2014.</authority>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -53,13 +54,13 @@
 </div>
 
 		<castList><head>PERSONNAGES</head>
-			<castItem><role id="CLÉON" civil="M" type="H" statut="amant" age="A" stat_amour=''>CLÉON</role>, amant de Lucresse.</castItem>
-			<castItem><role id="LISE" civil="F" type="H" statut="servente" age="A" stat_amour=''>LISE</role>, servante de Lucresse.</castItem>
-			<castItem><role id="LUCRESSE" civil="F" type="H" statut="bourgeois" age="A" stat_amour=''>LUCRESSE</role>, maîtresse de Cléon.</castItem>
-			<castItem><role id="CRISPIN" civil="M" type="H" statut="valet" age="A" stat_amour=''>CRISPIN</role>, valet de Cléon, médecin volant.</castItem>
-			<castItem><role id="FERNAND" civil="M" type="H" statut="bourgeois" age="A" stat_amour=''>FERNAND</role>, père de Lucresse.</castItem>
-			<castItem><role id="PHILIPIN" civil="M" type="H" statut="valet" age="A" stat_amour=''>PHILIPIN</role>, valet de Fernand.</castItem>
-			<castItem><role id="CANTÉAS" civil="M" type="H" statut="médecin" age="A" stat_amour=''>CANTÉAS</role>, habile médecin.</castItem>
+			<castItem><role id="CLÉON" sex="1" type="H" statut="amant" age="J" stat_amour='Lucresse'>CLÉON</role>, amant de Lucresse.</castItem>
+			<castItem><role id="LISE" sex="2" type="H" statut="servente" age="A" stat_amour=''>LISE</role>, servante de Lucresse.</castItem>
+			<castItem><role id="LUCRESSE" sex="2" type="H" statut="bourgeois" age="J" stat_amour='Cléon'>LUCRESSE</role>, maîtresse de Cléon.</castItem>
+			<castItem><role id="CRISPIN" sex="1" type="H" statut="valet" age="A" stat_amour=''>CRISPIN</role>, valet de Cléon, médecin volant.</castItem>
+			<castItem><role id="FERNAND" sex="1" type="H" statut="bourgeois" age="A" stat_amour=''>FERNAND</role>, père de Lucresse.</castItem>
+			<castItem><role id="PHILIPIN" sex="1" type="H" statut="valet" age="A" stat_amour=''>PHILIPIN</role>, valet de Fernand.</castItem>
+			<castItem><role id="CANTÉAS" sex="1" type="H" statut="médecin" age="A" stat_amour=''>CANTÉAS</role>, habile médecin.</castItem>
 		</castList>
 		<set location='Paris' country='France' periode='XVIIème' link=''>La scène est devant la maison de Fernand.</set>
 </front>

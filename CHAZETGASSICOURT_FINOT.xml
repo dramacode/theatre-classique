@@ -6,9 +6,10 @@
 				<title>FINOT, OU L'ANCIEN PORTIER DE M. DE BIÈVRE, PROVERBE ARCHI-BÊTE, EN UN ACTE.</title>
 				<author born='' born_location='' death='v' death_location='' academie=''>CHAZET et GASSICOURT</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, octobre 2013.</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Proverbe</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -40,13 +41,13 @@
 			<premiere date='1701-10-18' location='Théâtre de la rue des Fossés Saint-Germain'>Représenté à Paris, sur le théâtre Montansier-Variétés, le 28 ventôse an 8.</premiere>
 		</performance>
 		<castList><head>PERSONNAGES.	ACTEURS.</head>
-			<castItem><role id='FINOT' civil='M' type="H" statut="valet" age="A" stat_amour='néant'>FINOT</role>, valet niais,	le citoyen Brunet.</castItem>
-			<castItem><role id='MADAME COCASSE' civil='F' type="H" statut="bourgeois" age="A" stat_amour='néant'>MADAME COCASSE</role>,	madame Barroyer.</castItem>
-			<castItem><role id='BARBE' civil='M' type="H" statut="bourgeois" age="A" stat_amour='néant'>BARBE</role>, sa fille,	madame Mengozzi.</castItem>
-			<castItem><role id='PLAISANTIN' civil='M' type="H" statut="bourgeois" age="A" stat_amour='néant'>PLAISANTIN</role>, tuteur de Barbe,	le citoyen Dubois.</castItem>
-			<castItem><role id='DOUBLE-SENS' civil='M' type="H" statut="maçon" age="A" stat_amour='néant'>DOUBLE-SENS</role>, maître maçon,	le citoyen Alexandre.</castItem>
-			<castItem><role id='TAXE' civil='M' type="H" statut="vérificateur dss contributions" age="A" stat_amour='néant'>TAXE</role>, vérificateur des contributions,	le citoyen Guibert.</castItem>
-			<castItem><role id='' civil='M' type="H" statut="notaire" age="A" stat_amour='néant'>GRAPIN</role>, notaire,	le citoyen Volanges.</castItem>
+			<castItem><role id='FINOT' sex="1" type="H" statut="valet" age="A" stat_amour='néant'>FINOT</role>, valet niais,	le citoyen Brunet.</castItem>
+			<castItem><role id='MADAME COCASSE' sex="2" type="H" statut="bourgeois" age="A" stat_amour='néant'>MADAME COCASSE</role>,	madame Barroyer.</castItem>
+			<castItem><role id='BARBE' sex="1" type="H" statut="bourgeois" age="A" stat_amour='néant'>BARBE</role>, sa fille,	madame Mengozzi.</castItem>
+			<castItem><role id='PLAISANTIN' sex="1" type="H" statut="bourgeois" age="A" stat_amour='néant'>PLAISANTIN</role>, tuteur de Barbe,	le citoyen Dubois.</castItem>
+			<castItem><role id='DOUBLE-SENS' sex="1" type="H" statut="maçon" age="A" stat_amour='néant'>DOUBLE-SENS</role>, maître maçon,	le citoyen Alexandre.</castItem>
+			<castItem><role id='TAXE' sex="1" type="H" statut="vérificateur dss contributions" age="A" stat_amour='néant'>TAXE</role>, vérificateur des contributions,	le citoyen Guibert.</castItem>
+			<castItem><role id='' sex="1" type="H" statut="notaire" age="A" stat_amour='néant'>GRAPIN</role>, notaire,	le citoyen Volanges.</castItem>
 		</castList>
 		<set location='Paris' country='France' periode='XVIIème' link=''>La scène se passe à Paris, dans la maison de Madame Cocasse.</set>
 </front>

@@ -6,11 +6,12 @@
 				<title>LA MORT DE MOLIÈRE, PIÈCE EN TROIS ACTES, EN VERS.</title>
 				<author born='1752' born_location='Gard' death='1820' death_location='Paris' academie=''>CUBIÈRES-PALMÉZEAUX, Michel de</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<editor>Texte établi par Emmanuelle Taton (Mémoire de Master I « De la Renaissance aux Lumières » sous la direction de M. Georges Forestier U.F.R de Littérature française et comparée, 2013-2014.)</editor>
 				<publisher>publié par Paul FIEVRE, avril 2014</publisher>
 				
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -64,19 +65,19 @@
 		</div>
 		<castList>
 			<head>PERSONNAGES.</head>
-				<castItem><role id="MOLIÈRE" civil="M" type="H" statut='comédien' age='A' stat_amour='néant'>MOLIÈRE</role>.</castItem>
-				<castItem><role id="LA MOLIÈRE" civil="F" type="H" statut='comédien' age='A' stat_amour='néant'>LA MOLIÈRE</role>, sa femme.</castItem>
-				<castItem><role id="ISABELLE" civil="F" type="H" statut='comédien' age='A' stat_amour='néant'>ISABELLE</role>, sa fille.</castItem>
-				<castItem><role id="CHAPELLE" civil="M" type="H" statut='écrivain' age='A' stat_amour='néant'>CHAPELLE</role>, ami de Molière.</castItem>
-				<castItem><role id="BARON" civil="M" type="H" statut='comédien' age='A' stat_amour='néant'>BARON</role>.</castItem>
-				<castItem><role id="MONTAUSIER" civil="M" type="H" statut='' age='A' stat_amour='néant'>MONTAUSIER</role>.</castItem>
-				<castItem><role id="LE DOCTEUR MAUVILAIN" civil="M" type="H" statut='médecin' age='A' stat_amour='néant'>Le Docteur MAUVILAIN</role> ou MAUGUILLAIN.</castItem>
-				<castItem><role id="PIRLON" civil="M" type="H" statut='comédien' age='A' stat_amour='néant'>PIRLON</role>.</castItem>
-				<castItem><role id="LA FORÊT" civil="F" type="H" statut='servante' age='A' stat_amour='néant'>LA FORÊT</role>, Servante de Molière.</castItem>
-				<castItem><role id="LESBIN" civil="M" type="H" statut='valet' age='A' stat_amour='néant'>LESBIN</role>, Valet de Molière.</castItem>
-				<castItem><role id="UN SEMAINIER" civil="M" type="H" statut='comédien' age='A' stat_amour='néant'>UN SEMAINIER</role>.</castItem>
-				<castItem><role id="UN GARÇON DE THÉÂTRE" civil="M" type="H" statut='garçon' age='A' stat_amour='néant'>UN GARÇON DE THÉÂTRE</role>.</castItem>
-				<castItem><role id="PLUSIEURS ACTEURS" civil="G" type="H" statut='comédien' age='A' stat_amour='néant'>Plusieurs Acteurs de la Troupe de Molière</role>.</castItem>
+				<castItem><role id="MOLIÈRE" sex="1" type="H" statut='comédien' age='A' stat_amour='néant'>MOLIÈRE</role>.</castItem>
+				<castItem><role id="LA MOLIÈRE" sex="2" type="H" statut='comédien' age='A' stat_amour='néant'>LA MOLIÈRE</role>, sa femme.</castItem>
+				<castItem><role id="ISABELLE" sex="2" type="H" statut='comédien' age='A' stat_amour='néant'>ISABELLE</role>, sa fille.</castItem>
+				<castItem><role id="CHAPELLE" sex="1" type="H" statut='écrivain' age='A' stat_amour='néant'>CHAPELLE</role>, ami de Molière.</castItem>
+				<castItem><role id="BARON" sex="1" type="H" statut='comédien' age='A' stat_amour='néant'>BARON</role>.</castItem>
+				<castItem><role id="MONTAUSIER" sex="1" type="H" statut='' age='A' stat_amour='néant'>MONTAUSIER</role>.</castItem>
+				<castItem><role id="LE DOCTEUR MAUVILAIN" sex="1" type="H" statut='médecin' age='A' stat_amour='néant'>Le Docteur MAUVILAIN</role> ou MAUGUILLAIN.</castItem>
+				<castItem><role id="PIRLON" sex="1" type="H" statut='comédien' age='A' stat_amour='néant'>PIRLON</role>.</castItem>
+				<castItem><role id="LA FORÊT" sex="2" type="H" statut='servante' age='A' stat_amour='néant'>LA FORÊT</role>, Servante de Molière.</castItem>
+				<castItem><role id="LESBIN" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>LESBIN</role>, Valet de Molière.</castItem>
+				<castItem><role id="UN SEMAINIER" sex="1" type="H" statut='comédien' age='A' stat_amour='néant'>UN SEMAINIER</role>.</castItem>
+				<castItem><role id="UN GARÇON DE THÉÂTRE" sex="1" type="H" statut='garçon' age='A' stat_amour='néant'>UN GARÇON DE THÉÂTRE</role>.</castItem>
+				<castItem><role id="PLUSIEURS ACTEURS" sex="9" type="H" statut='comédien' age='A' stat_amour='néant'>Plusieurs Acteurs de la Troupe de Molière</role>.</castItem>
 		</castList>
 		<set location='Paris' country='France' periode='XVIIème' link=''>La Scène est dans la Maison de Molière.</set>
 </front>

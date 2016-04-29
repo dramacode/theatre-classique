@@ -6,9 +6,10 @@
 				<title>ORESTE ET LES FURIES, MÉLODRAME</title>
 				<author born='1752' born_location='Gard' death='1820' death_location='Paris' academie=''>CUBIÈRES-PALMÉZEAUX, Michel de</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, avril 2014</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Mélodrame</genre>
 				<inspiration>mythe grec</inspiration>
@@ -82,9 +83,9 @@
 	</div>
 	<castList>
 			<head>PERSONNAGES.</head>
-				<castItem><role id="ORESTE" civil="M" type="H" statut='roi' age='A' stat_amour='(néant)'>ORESTE</role>.</castItem>
-				<castItem><role id="LES FURIES" civil="F" type="F" statut='furie' age='A' stat_amour='(néant)'>LES FURIES</role>, personnages muets.</castItem>
-				<castItem><role id="L'OMBRE DE CLITEMNESTRE" civil="M" type="H" statut='fantôme' age='A' stat_amour='(néant)'>L'OMBRE DE CLITEMNESTRE</role>, personnage muet.</castItem>
+				<castItem><role id="ORESTE" sex="1" type="H" statut='roi' age='A' stat_amour='(néant)'>ORESTE</role>.</castItem>
+				<castItem><role id="LES FURIES" sex="2" type="F" statut='furie' age='A' stat_amour='(néant)'>LES FURIES</role>, personnages muets.</castItem>
+				<castItem><role id="L'OMBRE DE CLITEMNESTRE" sex="1" type="H" statut='fantôme' age='A' stat_amour='(néant)'>L'OMBRE DE CLITEMNESTRE</role>, personnage muet.</castItem>
 		</castList>
 		<set location='Paris' country='France' periode='XVIIIème' link=''></set>
 </front>

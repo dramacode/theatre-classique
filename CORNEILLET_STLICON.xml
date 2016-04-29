@@ -7,9 +7,10 @@
 				<author born='1625' born_location='Rouen' death='1709' death_location='Les Andelys' academie='1685'>CORNEILLE, Thomas</author>
 				<date>1660</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, Mai 2006 revu juillet 2015.</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire romaine</inspiration>
@@ -54,15 +55,15 @@
 		<p>Le très humble et très obéissant serviteur, T. CORNEILLE.</p>
 	</div>
 	<castList><head>ACTEURS</head>
-		<castItem><role id="HONORIUS" civil='M' type="H" statut='empereur' age='A' stat_amour='néant'>HONORIUS</role>, Empereur d'Occident.</castItem>
-		<castItem><role id="THERMANTIE" civil='F' type="H" statut='empereur' age='A' stat_amour='néant'>THERMANTIE</role>, Impératrice et fille de Stilicon.</castItem>
-		<castItem><role id="PLACIDIE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>PLACIDIE</role>, soeur d'Honorius.</castItem>
-		<castItem><role id="STILICON" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>STILICON</role>, laissé par Théodose pour tuteur à Honorius, et devenu depuis son beau-père.</castItem>
-		<castItem><role id="EUCHERIUS" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>EUCHERIUS</role>, fille de Stilion.</castItem>
-		<castItem><role id="MARCELLIN" civil='M' type="H" statut='capitaine' age='A' stat_amour='néant'>MARCELLIN</role>, capitaine des gardes.</castItem>
-		<castItem><role id="LUCILE" civil='F' type="H" statut='confident' age='A' stat_amour='néant'>LUCILE</role>, confidente de Placidie.</castItem>
-		<castItem><role id="MUTIAN" civil='M' type="H" statut='confident' age='A' stat_amour='néant'>MUTIAN</role>, confident de Stilicon.</castItem>
-		<castItem><role id="SUITE" civil='G' type="H" statut='suite' age='A' stat_amour='néant'>Suite</role> de l'Empereur.</castItem>
+		<castItem><role id="HONORIUS" sex="1" type="H" statut='empereur' age='A' stat_amour='néant'>HONORIUS</role>, Empereur d'Occident.</castItem>
+		<castItem><role id="THERMANTIE" sex="2" type="H" statut='empereur' age='A' stat_amour='néant'>THERMANTIE</role>, Impératrice et fille de Stilicon.</castItem>
+		<castItem><role id="PLACIDIE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>PLACIDIE</role>, soeur d'Honorius.</castItem>
+		<castItem><role id="STILICON" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>STILICON</role>, laissé par Théodose pour tuteur à Honorius, et devenu depuis son beau-père.</castItem>
+		<castItem><role id="EUCHERIUS" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>EUCHERIUS</role>, fille de Stilion.</castItem>
+		<castItem><role id="MARCELLIN" sex="1" type="H" statut='capitaine' age='A' stat_amour='néant'>MARCELLIN</role>, capitaine des gardes.</castItem>
+		<castItem><role id="LUCILE" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>LUCILE</role>, confidente de Placidie.</castItem>
+		<castItem><role id="MUTIAN" sex="1" type="H" statut='confident' age='A' stat_amour='néant'>MUTIAN</role>, confident de Stilicon.</castItem>
+		<castItem><role id="SUITE" sex="9" type="H" statut='suite' age='A' stat_amour='néant'>Suite</role> de l'Empereur.</castItem>
 	</castList>
 	<set location='Rome' country='Italie' periode='IVème' link=''>La scène est à Rome.</set>
 	</front>

@@ -6,9 +6,10 @@
 			<title>LE JODELET OU LE MAÎTRE VALET, COMÉDIE.</title>
 			<author born='1610' born_location='Paris' death='1660' death_location='Paris' academie=''>SCARRON, Paul</author>
 		</titleStmt>
-		<publicationStmp>
+		<publicationStmt>
 			<p>publié par Paul FIEVRE août 2010</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Comédie</genre>
 			<inspiration>moeurs françaises</inspiration>
@@ -51,14 +52,14 @@
 <signature>Scarron. </signature>
 </epitre>
 	<castList><head>PERSONNAGES</head>
-		<castItem><role id="DON JUAN" civil="M" type="H" statut='aristocrate' age='A' stat_amour='amoureux'>DON JUAN</role>, d'Alvarade.</castItem>
-		<castItem><role id="DON LOUIS" civil="M" type="H" statut='aristocrate' age='A' stat_amour='néant'>DON LOUIS</role>, de Rochas.</castItem>
-		<castItem><role id="DON FERNAND" civil="M" type="H" statut='aristocrate' age='A' stat_amour='néant'>DON FERNAND</role>, de Rochas.</castItem>
-		<castItem><role id="ISABELLE" civil="F" type="H" statut='aristocrate' age='A' stat_amour='amoureux'>ISABELLE</role>, de Rochas.</castItem>
-		<castItem><role id="LUCRÈCE" civil="F" type="H" statut='aristocrate' age='A' stat_amour='néant'>LUCRÈCE</role>, d'Alvarade.</castItem>
-		<castItem><role id="JODELET" civil="M" type="H" statut='valet' age='A' stat_amour='néant'>JODELET</role>, valet de DON JUAN d'Alvarade.</castItem>
-		<castItem><role id="ÉTIENNE" civil="M" type="H" statut='valet' age='A' stat_amour='néant'>ÉTIENNE</role>, valet de DON LOUIS de Rochas.</castItem>
-		<castItem><role id="BÉATRIX" civil="F" type="H" statut='suivante' age='A' stat_amour='néant'>BÉATRIX</role>, suivante d'Isabelle.</castItem>
+		<castItem><role id="DON JUAN" sex="1" type="H" statut='aristocrate' age='A' stat_amour='amoureux'>DON JUAN</role>, d'Alvarade.</castItem>
+		<castItem><role id="DON LOUIS" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>DON LOUIS</role>, de Rochas.</castItem>
+		<castItem><role id="DON FERNAND" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>DON FERNAND</role>, de Rochas.</castItem>
+		<castItem><role id="ISABELLE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='amoureux'>ISABELLE</role>, de Rochas.</castItem>
+		<castItem><role id="LUCRÈCE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>LUCRÈCE</role>, d'Alvarade.</castItem>
+		<castItem><role id="JODELET" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>JODELET</role>, valet de DON JUAN d'Alvarade.</castItem>
+		<castItem><role id="ÉTIENNE" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>ÉTIENNE</role>, valet de DON LOUIS de Rochas.</castItem>
+		<castItem><role id="BÉATRIX" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>BÉATRIX</role>, suivante d'Isabelle.</castItem>
 	</castList>
 <set location='Madrid' country='Espagne' periode='XVème' link=''>La scène est à Madrid.</set>
 </front>

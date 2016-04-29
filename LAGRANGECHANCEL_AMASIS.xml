@@ -7,9 +7,10 @@
 				<author born='1677' born_location='Razac-sur-l-Isle' death='1758' death_location='Razac-sur-l-Isle' academie='1685'>LA GRANGE CHANCEL, François-Joseph</author>
 				<date>1677</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE janvier 2009, revu juillet 2014.</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire égyptienne</inspiration>
@@ -48,16 +49,16 @@
 			<premiere date='1701-12-13' location='Hôtel Guénégaud'>Représentée pour la première lois, le 13 décembre 1701. </premiere>
 		</performance>
 		<castList><head>PERSONNAGES.</head>
-		<castItem><role id="AMASIS" civil='M' type="H" statut='roi' age='A' stat_amour='néant'>AMASIS</role>, usurpateur de la couronne d'Egypte.</castItem>
-		<castItem><role id="NITOCRIS" civil='F' type="H" statut='roi' age='A' stat_amour='néant'>NITOCRIS</role>, reine d'Egypte, veuve d'Apriès.</castItem>
-		<castItem><role id="SESOSTRIS" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>SÉSOSTRIS</role>, fils d'Apriès et de Nitocris.</castItem>
-		<castItem><role id="PHANES" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>PHANÈS</role>, favori d' Amasis.</castItem>
-		<castItem><role id="ARTHENICE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>ARTHÉNICE</role>, fille de Phanès. </castItem>
-		<castItem><role id="CASSIOPE" civil='F' type="H" statut='confident' age='A' stat_amour='néant'>CASSIOPE</role>, confidente de la reine. </castItem>
-		<castItem><role id="MICERIBE" civil='F' type="H" statut='confident' age='A' stat_amour='néant'>MICÉRIBE</role>, confidente d'Arthénice. </castItem>
-		<castItem><role id="MENES" civil='M' type="H" statut='gouverneur' age='A' stat_amour='néant'>MÉNÈS</role>, gouverneur de Psamménite , fils d'Amasis.</castItem>
-		<castItem><role id="AMMON" civil='M' type="H" statut='officier' age='A' stat_amour='néant'>AMMON</role>, officier, de la garde..</castItem>
-		<castItem><role id="GARDES" civil='G' type="H" statut='garde' age='A' stat_amour='néant'>GARDES</role>.</castItem>
+		<castItem><role id="AMASIS" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>AMASIS</role>, usurpateur de la couronne d'Egypte.</castItem>
+		<castItem><role id="NITOCRIS" sex="2" type="H" statut='roi' age='A' stat_amour='néant'>NITOCRIS</role>, reine d'Egypte, veuve d'Apriès.</castItem>
+		<castItem><role id="SESOSTRIS" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>SÉSOSTRIS</role>, fils d'Apriès et de Nitocris.</castItem>
+		<castItem><role id="PHANES" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>PHANÈS</role>, favori d' Amasis.</castItem>
+		<castItem><role id="ARTHENICE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>ARTHÉNICE</role>, fille de Phanès. </castItem>
+		<castItem><role id="CASSIOPE" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>CASSIOPE</role>, confidente de la reine. </castItem>
+		<castItem><role id="MICERIBE" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>MICÉRIBE</role>, confidente d'Arthénice. </castItem>
+		<castItem><role id="MENES" sex="1" type="H" statut='gouverneur' age='A' stat_amour='néant'>MÉNÈS</role>, gouverneur de Psamménite , fils d'Amasis.</castItem>
+		<castItem><role id="AMMON" sex="1" type="H" statut='officier' age='A' stat_amour='néant'>AMMON</role>, officier, de la garde..</castItem>
+		<castItem><role id="GARDES" sex="9" type="H" statut='garde' age='A' stat_amour='néant'>GARDES</role>.</castItem>
 		</castList>
 	<set location='Memphis' country='Egypte' periode='VIème avant JC' link=''>La scène est à Memphis,dans le palais des rois d'Égypte, </set>
 </front>

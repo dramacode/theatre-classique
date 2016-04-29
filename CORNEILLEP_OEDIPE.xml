@@ -6,9 +6,10 @@
 				<title>OEDIPE, TRAGÉDIE</title>
 				<author born='1606' born_location='Rouen' death='1684' death_location='Paris' academie='1647'>CORNEILLE, Pierre</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE</p><p>Mai 2006</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>mythe grec</inspiration>
@@ -138,24 +139,24 @@
 		</div>
 		<castList>
 			<head>ACTEURS</head>
-			<castItem><role id="OEDIPE" civil="M" type="H" statut='roi' age='A' stat_amour='néant'>OEDIPE</role>, roi de Thèbes, fils et mari de Jocaste.</castItem>
-			<castItem><role id="THESEE" civil="M" type="H" statut='prince' age='A' stat_amour='néant'>THÉSÉE</role>, prince d'Athènes et amoureux de Dircé.</castItem>
-			<castItem><role id="JOCASTE" civil="F" type="H" statut='roi' age='A' stat_amour='néant'>JOCASTE</role>, reine de Thèbes, femme et mère d'Oedipe.</castItem>
-			<castItem><role id="DIRCE" civil="F" type="H" statut='prince' age='A' stat_amour='néant'>DIRCÉ</role>, princesse de Thèbes, fille de Laius et de Jocaste, sour d'Oedipe et amante de Thésée.</castItem>
-			<castItem><role id="CLEANTE" civil="F" type="H" statut='confident' age='A' stat_amour='néant'>CLÉANTE</role>, confident d'Oedipe.</castItem>
-			<castItem><role id="DYMAS" civil="M" type="H" statut='confident' age='A' stat_amour='néant'>DYMAS</role>, confident d'Oedipe.</castItem>
-			<castItem><role id="PHORBAS" civil="M" type="H" statut='bourgeois' age='V' stat_amour='néant'>PHORBAS</role>, vieillard Thébain.</castItem>
-			<castItem><role id="IPHICRATE" civil="M" type="H" statut='bourgeois' age='V' stat_amour='néant'>IPHICRATE</role>, vieillard de Corinthe.</castItem>
-			<castItem><role id="NERINE" civil="F" type="H" statut="dame d'honneur" age='A' stat_amour='néant'>NÉRINE</role>, dame d'honneur de la reine.</castItem>
-			<castItem><role id="MEGARE" civil="F" type="H" statut="dame d'honneur" age='A' stat_amour='néant'>MÉGARE</role>, fille d'honneur de Dircé.</castItem>
-			<castItem><role id="UN-PAGE" civil="M" type="H" statut='page' age='A' stat_amour='néant'>UN PAGE</role>.</castItem>
+			<castItem><role id="OEDIPE" sex="1" type="H" statut='roi' age='J' stat_amour='néant'>OEDIPE</role>, roi de Thèbes, fils et mari de Jocaste.</castItem>
+			<castItem><role id="THÉSÉE" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>THÉSÉE</role>, prince d'Athènes et amoureux de Dircé.</castItem>
+			<castItem><role id="JOCASTE" sex="2" type="H" statut='roi' age='A' stat_amour='néant'>JOCASTE</role>, reine de Thèbes, femme et mère d'Oedipe.</castItem>
+			<castItem><role id="DIRCE" sex="2" type="H" statut='prince' age='A' stat_amour='néant'>DIRCÉ</role>, princesse de Thèbes, fille de Laius et de Jocaste, sour d'Oedipe et amante de Thésée.</castItem>
+			<castItem><role id="CLEANTE" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>CLÉANTE</role>, confident d'Oedipe.</castItem>
+			<castItem><role id="DYMAS" sex="1" type="H" statut='confident' age='A' stat_amour='néant'>DYMAS</role>, confident d'Oedipe.</castItem>
+			<castItem><role id="PHORBAS" sex="1" type="H" statut='bourgeois' age='V' stat_amour='néant'>PHORBAS</role>, vieillard Thébain.</castItem>
+			<castItem><role id="IPHICRATE" sex="1" type="H" statut='bourgeois' age='V' stat_amour='néant'>IPHICRATE</role>, vieillard de Corinthe.</castItem>
+			<castItem><role id="NERINE" sex="2" type="H" statut="dame d'honneur" age='A' stat_amour='néant'>NÉRINE</role>, dame d'honneur de la reine.</castItem>
+			<castItem><role id="MEGARE" sex="2" type="H" statut="dame d'honneur" age='A' stat_amour='néant'>MÉGARE</role>, fille d'honneur de Dircé.</castItem>
+			<castItem><role id="UN-PAGE" sex="1" type="H" statut='page' age='A' stat_amour='néant'>UN PAGE</role>.</castItem>
 		</castList>
 		<set location='Thèbes' country='Grèce' periode='Temps mythologiques' link=''>La scène est à Thèbes.</set>
 	</front>
 <body>
 <div1 type="act" n="1"><head>ACTE I</head>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Thésée, Dircé, Mégare.</head>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="1">N'écoutez plus, madame, une pitié cruelle,</l>
 	<l id="2">Qui d'un fidèle amant vous ferait un rebelle :</l>
 	<l id="3">La gloire d'obéir n'a rien qui me soit doux,</l>
@@ -175,7 +176,7 @@
 	<l id="15">Et tant lever le bras avant que de frapper,</l>
 	<l id="16">C'est vous dire assez haut qu'il est temps d'échapper.</l>
 </sp>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="17">Je le vois comme vous ; mais alors qu'il m'assiège,</l>
 	<l id="18">Vous laisse-t-il, madame, un plus grand privilège ?</l>
 	<l id="19">Ce palais par la peste est-il plus respecté ?</l>
@@ -193,7 +194,7 @@
 	<l id="29">Tant de cette frayeur les profondes atteintes</l>
 	<l id="30">Repoussent fortement toutes les autres craintes !</l>
 </sp>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="31">Souffrez donc que l'amour me fasse même loi,</l>
 	<l id="32">Que je tremble pour vous quand vous tremblez pour moi,</l>
 	<l id="33">Et ne m'imposez pas cette indigne faiblesse</l>
@@ -255,7 +256,7 @@
 	<l id="87">Cet espoir est le seul dont j'aime à me flatter,</l>
 	<l id="88">Et l'unique douceur que je veux emporter.</l>
 </sp>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="89">Ah ! Madame, vos yeux combattent vos maximes :</l>
 	<l id="90">Si j'en crois leur pouvoir, vos conseils sont des crimes.</l>
 	<l id="91">Je ne vous ferai point ce reproche odieux,</l>
@@ -296,7 +297,7 @@
 	<l id="118">M'oblige à vous quitter pour me rendre auprès d'elle ;</l>
 	<l id="119" part="i">et d'ailleurs le roi vient.</l>
 </sp>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="119" part="m">Que ferai-je ?</l>
 </sp>
 <sp who="DIRCE"><speaker>DIRCÉ.</speaker>
@@ -315,7 +316,7 @@
 	<l id="127">Que Delphes, dont j'attends réponse en ce moment,</l>
 	<l id="128">M'enverra de nos maux le plein soulagement.</l>
 </sp>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="129">Seigneur, si j'avais cru que parmi tant de larmes</l>
 	<l id="130">La douceur d'un hymen pût avoir quelques charmes,</l>
 	<l id="131">Que vous en eussiez pu supporter le dessein,</l>
@@ -341,7 +342,7 @@
 	<l id="149">Et qu'il veuille en ma cour, au mépris de mes filles,</l>
 	<l id="150">Honorer de sa main de communes familles.</l>
 </sp>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="151">Seigneur, il est tout vrai : j'aime en votre palais ;</l>
 	<l id="152">Chez vous est la beauté qui fait tous mes souhaits.</l>
 	<l id="153">Vous l'aimez à l'égal d'Antigone et d'Ismène ;</l>
@@ -356,7 +357,7 @@
 	<l id="159">Ma parole est donnée, et je n'y puis plus rien ;</l>
 	<l id="160">Mais je crois qu'après tout ses sours la valent bien.</l>
 </sp>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="161">Antigone est parfaite, Ismène est admirable ;</l>
 	<l id="162">Dircé, si vous voulez, n'a rien de comparable :</l>
 	<l id="163">Elles sont l'une et l'autre un chef-d'ouvre des cieux ;</l>
@@ -385,7 +386,7 @@
 	<l id="184">Et je vous offre assez de quoi vous consoler.</l>
 	<l id="185">La parole des rois doit être inviolable.</l>
 </sp>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="186">Elle est toujours sacrée et toujours adorable ;</l>
 	<l id="187">Mais ils ne sont jamais esclaves de leur voix,</l>
 	<l id="188">Et le plus puissant roi doit quelque chose aux rois.</l>
@@ -400,7 +401,7 @@
 	<l id="195">J'oserai violer un serment solennel,</l>
 	<l id="196">Dont j'ai pris à témoin leur pouvoir éternel ?</l>
 </sp>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="197">C'est pour un grand monarque un peu bien du scrupule.</l>
 </sp>
 <sp who="OEDIPE"><speaker>OEDIPE.</speaker>
@@ -408,21 +409,21 @@
 	<l id="199">De présumer qu'un roi, pour contenter vos yeux,</l>
 	<l id="200">Veuille pour ennemis les hommes et les dieux.</l>
 </sp>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="201">Je n'ai qu'un mot à dire après un si grand zèle :</l>
 	<l id="202">Quand vous donnez Dircé, Dircé se donne-t-elle ?</l>
 </sp>
 <sp who="OEDIPE"><speaker>OEDIPE.</speaker>
 	<l id="203" part="i">Elle sait son devoir.</l>
 </sp>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="203" part="f">Savez-vous quel il est ?</l>
 </sp>
 <sp who="OEDIPE"><speaker>OEDIPE.</speaker>
 	<l id="204">L'aurait-elle réglé suivant votre intérêt ?</l>
 	<l id="205">À me désobéir l'auriez-vous résolue ?</l>
 </sp>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="206">Non, je respecte trop la puissance absolue ;</l>
 	<l id="207">Mais lorsque vous voudrez sans elle en disposer,</l>
 	<l id="208">N'aura-t-elle aucun droit, seigneur, de s'excuser ?</l>
@@ -430,7 +431,7 @@
 <sp who="OEDIPE"><speaker>OEDIPE.</speaker>
 	<l id="209">Le temps vous fera voir ce que c'est qu'une excuse.</l>
 </sp>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="210">Le temps me fera voir jusques où je m'abuse ;</l>
 	<l id="211">Et ce sera lui seul qui saura m'éclaircir</l>
 	<l id="212">De ce que pour Aemon vous ferez réussir.</l>
@@ -1075,7 +1076,7 @@
 	<l id="669">Mais que vois-je ? Ah ! Seigneur, quels que soient vos ennuis,</l>
 	<l id="670">Que venez-vous me dire en l'état où je suis ?</l>
 </sp>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="671">Je viens prendre de vous l'ordre qu'il me faut suivre ;</l>
 	<l id="672">Mourir, s'il faut mourir, et vivre, s'il faut vivre.</l>
 </sp>
@@ -1083,13 +1084,13 @@
 	<l id="673">Ne perdez point d'efforts à m'arrêter au jour :</l>
 	<l id="674" part="i">laissez faire l'honneur.</l>
 </sp>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="674" part="f">Laissez agir l'amour.</l>
 </sp>
 <sp who="DIRCE"><speaker>DIRCÉ.</speaker>
 	<l id="675" part="i">Vivez, prince ; vivez.</l>
 </sp>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="675" part="f">Vivez donc, ma princesse.</l>
 </sp>
 <sp who="DIRCE"><speaker>DIRCÉ.</speaker>
@@ -1097,20 +1098,20 @@
 	<l id="677">Retarder mon trépas, c'est faire tout périr :</l>
 	<l id="678" part="i">tout meurt, si je ne meurs.</l>
 </sp>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="678" part="f">Laissez-moi donc mourir.</l>
 </sp>
 <sp who="DIRCE"><speaker>DIRCÉ.</speaker>
 	<l id="679" part="i">Hélas ! Qu'osez-vous dire ?</l>
 </sp>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="679" part="f">Hélas ! Qu'allez-vous faire ?</l>
 </sp>
 <sp who="DIRCE"><speaker>DIRCÉ.</speaker>
 	<l id="680">Finir les maux publics, obéir à mon père,</l>
 	<l id="681" part="i">sauver tous mes sujets.</l>
 </sp>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="681" part="f">Par quelle injuste loi</l>
 	<l id="682">Faut-il les sauver tous pour ne perdre que moi ?</l>
 	<l id="683">Eux dont le cour ingrat porte les justes peines</l>
@@ -1142,7 +1143,7 @@
 	<l id="707">Et qu'au salut du vôtre un bras si nécessaire</l>
 	<l id="708">À chaque jour pour lui d'autres combats à faire.</l>
 </sp>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="709">J'en ai fait et beaucoup, et d'assez généreux ;</l>
 	<l id="710">Mais celui-ci, madame, est le plus dangereux.</l>
 	<l id="711">J'ai fait trembler partout, et devant vous je tremble.</l>
@@ -1163,7 +1164,7 @@
 	<l id="724">Gardez-vous d'achever une indigne victoire ;</l>
 	<l id="725">Et si jamais l'honneur a su vous animer...</l>
 </sp>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="726">Hélas ! à votre aspect je ne sais plus qu'aimer.</l>
 </sp>
 <sp who="DIRCE"><speaker>DIRCÉ.</speaker>
@@ -1172,7 +1173,7 @@
 	<l id="729">Votre bras de la Grèce est le plus ferme appui :</l>
 	<l id="730">Vivez pour le public, comme je meurs pour lui.</l>
 </sp>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="731">Périsse l'univers, pourvu que Dircé vive !</l>
 	<l id="732">Périsse le jour même avant qu'elle s'en prive !</l>
 	<l id="733">Que m'importe la perte ou le salut de tous ?</l>
@@ -1196,7 +1197,7 @@
 	<l id="749">Et j'aurais cette honte, en ce funeste sort,</l>
 	<l id="750">D'avoir prêté mon crime à faire votre mort.</l>
 </sp>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="751">Et ce cour généreux me condamne à la honte</l>
 	<l id="752">De voir que ma princesse en amour me surmonte,</l>
 	<l id="753">Et de n'obéir pas à cette aimable loi</l>
@@ -1212,7 +1213,7 @@
 	<l id="761">Mais, seigneur, je vous sauve en courant au trépas ;</l>
 	<l id="762">Et mourant avec moi vous ne me sauvez pas.</l>
 </sp>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="763">La gloire de ma mort n'en deviendra pas moindre ;</l>
 	<l id="764">Si ce n'est vous sauver, ce sera vous rejoindre :</l>
 	<l id="765">Séparer deux amants, c'est tous deux les punir ;</l>
@@ -1226,14 +1227,14 @@
 	<l id="771">Et je hasarde trop une si noble envie</l>
 	<l id="772">À voir l'unique objet pour qui j'aime la vie.</l>
 </sp>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="773">Vous fuyez, ma princesse, et votre adieu fatal...</l>
 </sp>
 <sp who="DIRCE"><speaker>DIRCÉ.</speaker>
 	<l id="774">Prince, il est temps de fuir quand on se défend mal.</l>
 	<l id="775">Vivez, encore un coup : c'est moi qui vous l'ordonne.</l>
 </sp>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="776">Le véritable amour ne prend loi de personne ;</l>
 	<l id="777">Et si ce fier honneur s'obstine à nous trahir,</l>
 	<l id="778">Je renonce, madame, à vous plus obéir.</l>
@@ -1663,7 +1664,7 @@
 	<l id="1066">Quel faux respect des dieux tient votre flamme oisive ?</l>
 	<l id="1067">Avez-vous oublié comme il faut secourir ?</l>
 </sp>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="1068">Dircé n'est plus, madame, en état de périr :</l>
 	<l id="1069">Le ciel vous rend un fils, et ce n'est qu'à ce prince</l>
 	<l id="1070">Qu'est dû le triste honneur de sauver sa province.</l>
@@ -1671,32 +1672,32 @@
 <sp who="JOCASTE"><speaker>JOCASTE.</speaker>
 	<l id="1071">C'est trop vous assurer sur l'éclat d'un faux bruit.</l>
 </sp>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="1072">C'est une vérité dont je suis mieux instruit.</l>
 </sp>
 <sp who="JOCASTE"><speaker>JOCASTE.</speaker>
 	<l id="1073" part="i">Vous le connaissez donc ?</l>
 </sp>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="1073" part="f">À l'égal de moi-même.</l>
 </sp>
 <sp who="JOCASTE"><speaker>JOCASTE.</speaker>
 	<l id="1074" part="i">De quand ?</l>
 </sp>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="1074" part="m">De ce moment.</l>
 </sp>
 <sp who="JOCASTE"><speaker>JOCASTE.</speaker>
 	<l id="1074" part="m">Et vous l'aimez ?</l>
 </sp>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="1074" part="f">Je l'aime</l>
 	<l id="1075">Jusqu'à mourir du coup dont il sera percé.</l>
 </sp>
 <sp who="JOCASTE"><speaker>JOCASTE.</speaker>
 	<l id="1076">Mais cette amitié cède à l'amour de Dircé ?</l>
 </sp>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="1077">Hélas ! Cette princesse à mes désirs si chère</l>
 	<l id="1078">En un fidèle amant trouve un malheureux frère,</l>
 	<l id="1079">Qui mourrait de douleur d'avoir changé de sort,</l>
@@ -1707,13 +1708,13 @@
 <sp who="JOCASTE"><speaker>JOCASTE.</speaker>
 	<l id="1083" part="i">Quoi ? Vous seriez mon fils ?</l>
 </sp>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="1083" part="f">Et celui de Laïus.</l>
 </sp>
 <sp who="JOCASTE"><speaker>JOCASTE.</speaker>
 	<l id="1084" part="i">Qui vous a pu le dire ?</l>
 </sp>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="1084" part="f">Un témoin qui n'est plus,</l>
 	<l id="1085">Phaedime, qu'à mes yeux vient de ravir la peste :</l>
 	<l id="1086">Non qu'il m'en ait donné la preuve manifeste ;</l>
@@ -1746,7 +1747,7 @@
 	<l id="1111">Et qu'il cherche en mourant la gloire et la douceur</l>
 	<l id="1112">D'arracher à la mort ce qu'il nomme sa sour.</l>
 </sp>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="1113">Que vous connaissez mal ce que peut la nature !</l>
 	<l id="1114">Quand d'un parfait amour elle a pris la teinture,</l>
 	<l id="1115">Et que le désespoir d'un illustre projet</l>
@@ -1769,7 +1770,7 @@
 	<l id="1130">Mais pour ne plus douter, vous chargez-vous du reste ?</l>
 	<l id="1131">êtes-vous l'assassin et d'un père et d'un roi ?</l>
 </sp>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="1132">Ah ! Madame, ce mot me fait pâlir d'effroi.</l>
 </sp>
 <sp who="JOCASTE"><speaker>JOCASTE.</speaker>
@@ -1790,7 +1791,7 @@
 	<l id="1147">J'en croirai ces témoins que le ciel m'a prescrits,</l>
 	<l id="1148">Et ne vous puis donner mon aveu qu'à ce prix.</l>
 </sp>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="1149">Quoi ? La nécessité des vertus et des vices</l>
 	<l id="1150">D'un astre impérieux doit suivre les caprices,</l>
 	<l id="1151">Et Delphes, malgré nous, conduit nos actions</l>
@@ -1842,7 +1843,7 @@
 	<l id="1195">Si vous êtes coupable, évitez-en les yeux ;</l>
 	<l id="1196">Et de peur d'en rougir, prenez d'autres aïeux.</l>
 </sp>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="1197">Je le verrai, madame, et sans inquiétude.</l>
 	<l id="1198">Ma naissance confuse a quelque incertitude ;</l>
 	<l id="1199">Mais pour ce parricide, il est plus que certain</l>
@@ -1870,7 +1871,7 @@
 	<l id="1215">Pourra-t-il détacher de mon sort le plus doux</l>
 	<l id="1216">L'amertume de vivre, et n'être point à vous ?</l>
 </sp>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="1217">Le ciel choisit souvent de secrètes conduites</l>
 	<l id="1218">Qu'on ne peut démêler qu'après de longues suites ;</l>
 	<l id="1219">Et de mon sort douteux l'obscur événement</l>
@@ -1890,7 +1891,7 @@
 	<l id="1231">Et sitôt que sans crime il ne peut plus durer,</l>
 	<l id="1232">Pour ses feux les plus vifs il est temps d'expirer.</l>
 </sp>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="1233">Laissez-lui conserver ces ardeurs empressées</l>
 	<l id="1234">Qui vous faisaient l'objet de toutes mes pensées.</l>
 	<l id="1235">J'ai mêmes yeux encore, et vous mêmes appas :</l>
@@ -1926,7 +1927,7 @@
 	<l id="1263">Et laissez-moi mourir avec les sentiments</l>
 	<l id="1264">Que la gloire permet aux illustres amants.</l>
 </sp>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="1265">Je vous ai déjà dit, princesse, que peut-être,</l>
 	<l id="1266">Sitôt que vous vivrez, je cesserai de l'être :</l>
 	<l id="1267">Faut-il que je m'explique ? Et toute votre ardeur</l>
@@ -1951,7 +1952,7 @@
 	<l id="1284">Et rien ne peut déplaire alors qu'on est aimé.</l>
 	<l id="1285">Mais hasardiez-vous tant sans aucune lumière ?</l>
 </sp>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="1286">Mégare m'avait dit le secret de son père ;</l>
 	<l id="1287">Il m'a valu l'honneur de m'exposer pour tous ;</l>
 	<l id="1288">Mais je n'en abusais que pour mourir pour vous.</l>
@@ -2007,7 +2008,7 @@
 	<l id="1332">S'il n'a pas vu mon fils, il vit la mort du roi,</l>
 	<l id="1333">Il connaît l'assassin : voulez-vous qu'il vous voie ?</l>
 </sp>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="1334">Je le verrai, madame, et l'attends avec joie,</l>
 	<l id="1335">Sûr, comme je l'ai dit, qu'il n'est point de malheurs</l>
 	<l id="1336">Qui m'eussent pu réduire à suivre des voleurs.</l>
@@ -2024,7 +2025,7 @@
 	<l id="1345">Un bras seul à tous trois nous ferma le passage,</l>
 	<l id="1346">Et d'une seule main ce grand crime est l'ouvrage. "</l>
 </sp>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="1347">Le crime n'est pas grand s'il fut seul contre trois ;</l>
 	<l id="1348">Mais jamais sans forfait on ne se prend aux rois ;</l>
 	<l id="1349">Et fussent-ils cachés sous un habit champêtre,</l>
@@ -2041,13 +2042,13 @@
 <sp who="JOCASTE"><speaker>JOCASTE.</speaker>
 	<l id="1359">Faites entrer Phorbas. Prince, pensez-y bien.</l>
 </sp>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="1360">S'il est homme d'honneur, je n'en dois craindre rien.</l>
 </sp>
 <sp who="JOCASTE"><speaker>JOCASTE.</speaker>
 	<l id="1361">Vous voudrez, mais trop tard, en éviter la vue.</l>
 </sp>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="1362">Qu'il vienne ; il tarde trop, cette lenteur me tue ;</l>
 	<l id="1363">Et si je le pouvais sans perdre le respect,</l>
 	<l id="1364">Je me plaindrais un peu de me voir trop suspect.</l>
@@ -2105,7 +2106,7 @@
 	<l id="1391">Peut-être y prendrez-vous un peu trop d'intérêt,</l>
 	<l id="1392">Pour m'en croire aisément quand j'aurai dit qui c'est.</l>
 </sp>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="1393">Ne nous déguisez rien, parlez en assurance,</l>
 	<l id="1394">Que le fils de Laïus en hâte la vengeance.</l>
 </sp>
@@ -2115,7 +2116,7 @@
 	<l id="1397">Et d'ailleurs si le ciel vous choisit pour victime,</l>
 	<l id="1398">Vous me devez laisser à punir ce grand crime.</l>
 </sp>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="1399">Avant que de mourir, un fils peut le venger.</l>
 </sp>
 <sp who="PHORBAS"><speaker>PHORBAS.</speaker>
@@ -2265,7 +2266,7 @@
 	<l id="1485">S'imposa cet exil dans un séjour champêtre,</l>
 	<l id="1486">Attendant que le ciel me fît un autre maître.</l>
 </sp>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="1487">Seigneur, je suis le frère ou l'amant de Dircé ;</l>
 	<l id="1488">Et son père ou le mien, de votre main percé...</l>
 </sp>
@@ -2281,7 +2282,7 @@
 	<l id="1497">Et ce coup surprenant permet à votre haine</l>
 	<l id="1498">De faire cette grâce aux larmes de la reine.</l>
 </sp>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="1499">Nous nous verrons demain, seigneur, et résoudrons...</l>
 </sp>
 <sp who="OEDIPE"><speaker>OEDIPE.</speaker>
@@ -2291,7 +2292,7 @@
 	<l id="1503">Peut-être aurez-vous peine à reprendre son rang,</l>
 	<l id="1504">Qu'il ne vous ait coûté quelque peu de ce sang.</l>
 </sp>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="1505">Demain chacun de nous fera sa destinée.</l>
 </sp>
 </div2>
@@ -2828,7 +2829,7 @@
 	<l id="1866">Son amant en a-t-il plus de droit que son frère,</l>
 	<l id="1867" part="i">Prince ?</l>
 </sp>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="1867" part="f">Je vous en plains, et ne puis concevoir,</l>
 	<l id="1868" part="i">Seigneur...</l>
 </sp>
@@ -2858,7 +2859,7 @@
 	<l id="1885">Et sa haute vertu, toujours inébranlable,</l>
 	<l id="1886">Le soutient au-dessus de tout ce qui l'accable.</l>
 </sp>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="1887">Souvent, avant le coup qui doit nous accabler,</l>
 	<l id="1888">La nuit qui l'enveloppe a de quoi nous troubler :</l>
 	<l id="1889">L'obscur pressentiment d'une injuste disgrâce</l>
@@ -2892,7 +2893,7 @@
 	<l id="1899" part="f">Jusques où portez-vous,</l>
 	<l id="1900">Impitoyables dieux, votre injuste courroux !</l>
 </sp>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="1901">Quoi ? Même aux yeux du roi son désespoir la tue ?</l>
 	<l id="1902" part="i">Ce monarque n'a pu...</l>
 </sp>
@@ -2946,7 +2947,7 @@
 	<l id="1943">Si toutefois Thésée est assez généreux</l>
 	<l id="1944">Pour n'avoir point d'horreur d'un sang si malheureux."</l>
 </sp>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="1945">Ah ! Ce doute m'outrage ; et si jamais vos charmes...</l>
 </sp>
 <sp who="DIRCE"><speaker>DIRCÉ.</speaker>
@@ -2990,7 +2991,7 @@
 	<l id="1969">Et sa vertu souillée à peine s'est punie,</l>
 	<l id="1970">Qu'aussitôt de ces lieux la peste s'est bannie.</l>
 </sp>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="1971">L'effort de son courage a su nous éblouir :</l>
 	<l id="1972">D'un si grand désespoir il cherchait à jouir,</l>
 	<l id="1973">Et de sa fermeté n'empruntait les miracles</l>
@@ -3032,7 +3033,7 @@
 	<l id="2000">De sa part tout d'un coup nous annoncent la paix.</l>
 	<l id="2001">Cléante vous a dit que par toute la ville...</l>
 </sp>
-<sp who="THESEE"><speaker>THÉSÉE.</speaker>
+<sp who="THÉSÉE"><speaker>THÉSÉE.</speaker>
 	<l id="2002">Cessons de nous gêner d'une crainte inutile.</l>
 	<l id="2003">À force de malheurs le ciel fait assez voir</l>
 	<l id="2004">Que le sang de Laïus a rempli son devoir :</l>

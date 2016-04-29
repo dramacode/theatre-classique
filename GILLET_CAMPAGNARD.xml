@@ -6,9 +6,10 @@
 				<title>LE CAMPAGNARD, COMÉDIE EN CINQ ACTES</title>
 				<author born='1620' born_location='' death='166?' death_location='' academie=''>GILLET DE LA TESSONERIE</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<publisher>publié par Paul FIEVRE juillet 2013</publisher>
-			</publicationStmp>
+				<idno>GILLET_CAMPMAGNARD</idno>
+			</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -46,16 +47,16 @@
 		</performance>
 		<castList>
 			<head>PERSONNAGES</head>
-			<castItem><role id="BAZILE" civil='M' type="H" statut='bourgeois' age='V' stat_amour='néant'>BAZILE</role>, vieillard, oncle de Phénice et de Philis.</castItem>
-			<castItem><role id="LE CAMPAGNARD" civil='M' type="H" statut='baron' age='A' stat_amour='amoureux'>LE CAMPAGNARD</role>, baron de la campagne, peu fait à la cour, affectant le proverbe et la pointe.</castItem>
-			<castItem><role id="LÉANDRE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='amoureux'>LÉANDRE</role>, gentilhomme adroit, passant pour un marchand de tableaux.</castItem>
-			<castItem><role id="CLITON" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>CLITON</role>, parisien de la connaissance du Campagnard.</castItem>
-			<castItem><role id="SEIGNEUR ANSELME" civil='M' type="H" statut='astrologue' age='A' stat_amour='néant'>SEIGNEUR ANSELME</role>, fourbe et faux astrologue, ayant toujours accompagné Léandre dans ses courses et dans ses débauches.</castItem>
-			<castItem><role id="UN PAGE" civil='M' type="H" statut='page' age='A' stat_amour='néant'>UN PAGE de Bazile</role>.</castItem>
-			<castItem><role id="PHÉNICE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='amoureux'>PHÉNICE</role>, nièce aînée de Bazile, qui avait toujours demeuré à Paris jusques à la mort de sa tante, chez qui elle était.</castItem>
-			<castItem><role id="PHILIS" civil='F' type="H" statut='bourgeois' age='A' stat_amour='amoureux'>PHILIS</role>, nièce de Bazile, la plus jeune.</castItem>
-			<castItem><role id="LISE" civil='F' type="H" statut='domestique' age='A' stat_amour='néant'>LISE</role>, fille de chambre de Phénice.</castItem>
-			<castItem><role id="JODELET" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>JODELET</role>, valet du Campagnard.</castItem>
+			<castItem><role id="BAZILE" sex="1" type="H" statut='aristocrate' age='V' stat_amour='néant'>BAZILE</role>, vieillard, oncle de Phénice et de Philis.</castItem>
+			<castItem><role id="LE CAMPAGNARD" sex="1" type="H" statut='baron' age='A' stat_amour='amoureux'>LE CAMPAGNARD</role>, baron de la campagne, peu fait à la cour, affectant le proverbe et la pointe.</castItem>
+			<castItem><role id="LÉANDRE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='amoureux'>LÉANDRE</role>, gentilhomme adroit, passant pour un marchand de tableaux.</castItem>
+			<castItem><role id="CLITON" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>CLITON</role>, parisien de la connaissance du Campagnard.</castItem>
+			<castItem><role id="SEIGNEUR ANSELME" sex="1" type="H" statut='astrologue' age='A' stat_amour='néant'>SEIGNEUR ANSELME</role>, fourbe et faux astrologue, ayant toujours accompagné Léandre dans ses courses et dans ses débauches.</castItem>
+			<castItem><role id="UN PAGE" sex="1" type="H" statut='page' age='A' stat_amour='néant'>UN PAGE de Bazile</role>.</castItem>
+			<castItem><role id="PHÉNICE" sex="2" type="H" statut='aristocrate' age='J' stat_amour='amoureux'>PHÉNICE</role>, nièce aînée de Bazile, qui avait toujours demeuré à Paris jusques à la mort de sa tante, chez qui elle était.</castItem>
+			<castItem><role id="PHILIS" sex="2" type="H" statut='aristocrate' age='J' stat_amour='amoureux'>PHILIS</role>, nièce de Bazile, la plus jeune.</castItem>
+			<castItem><role id="LISE" sex="2" type="H" statut='femme de chambre' age='A' stat_amour='néant'>LISE</role>, fille de chambre de Phénice.</castItem>
+			<castItem><role id="JODELET" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>JODELET</role>, valet du Campagnard.</castItem>
 
 		</castList>
 <set location='Paris' country='France' periode='XVIIème' link=''>[La Scène est à Paris.]</set>
@@ -3253,7 +3254,7 @@ Pierre de Larivé, ou de Larivey, comme on l'écrit plus souvent, né à Troyes 
 	<l id='1453' part='i'>Mais lisez ce papier.</l>
 </sp>
 <sp who='BAZILE'><speaker>BAZILE, lisant.</speaker>
-<poem type="">
+<lg type="lettre">
 <lg n='1'>
 	<l id='1454'>« N'ayant plus de raison,</l>
 	<l id='1455'>Après avoir connu qu'un ingrat m'abandonne,</l>
@@ -3265,7 +3266,7 @@ Pierre de Larivé, ou de Larivey, comme on l'écrit plus souvent, né à Troyes 
 	<l id='1461'>Permettez que j'apprenne à devenir plus sage. »</l>
 	<l id='1462'>PHÉNICE.</l>
 </lg>
-</poem>
+</lg>
 </sp>
 <sp who='BAZILE'><speaker>BAZILE.</speaker>
 	<l id='1463' part='i'>Ah ! Ce mot m'attendrit.</l>

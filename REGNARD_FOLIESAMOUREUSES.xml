@@ -7,9 +7,10 @@
 				<author born='1655' born_location='Paris' death='1709' death_location='Château de grillon, Dourdan' academie=''>REGNARD, Jean-François</author>
 				<date>1692</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE décembre 2009</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -58,18 +59,18 @@
 </div>
 
 <castList><head>PRESONNAGES du PROLOGUE</head>
-	<castItem><role id="DANCOUR" civil="M" type="H" statut='bourgeois' age='A' stat_amour='néant'>MONSIEUR DANCOUR</role>.</castItem>
-	<castItem><role id="Melle-BEAUVAL" civil="F" type="H" statut='bourgeois' age='A' stat_amour='néant'>MADEMOISELLE BEAUVAL</role>. </castItem>
-	<castItem><role id="Melle-DESBROSSES" civil="F" type="H" statut='bourgeois' age='A' stat_amour='néant'>MADEMOISELLE DESBROSSES</role>.</castItem>
-	<castItem><role id="MOMUS" civil="M" type="D" statut='dieu' age='A' stat_amour='néant'>MOMUS</role>.</castItem>
-	<castItem><role id="DUBOCAGE" civil="F" type="H" statut='bourgeois' age='A' stat_amour='néant'>MONSIEUR DUBOCAGE</role>.</castItem>
+	<castItem><role id="DANCOUR" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>MONSIEUR DANCOUR</role>.</castItem>
+	<castItem><role id="Melle-BEAUVAL" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>MADEMOISELLE BEAUVAL</role>. </castItem>
+	<castItem><role id="Melle-DESBROSSES" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>MADEMOISELLE DESBROSSES</role>.</castItem>
+	<castItem><role id="MOMUS" sex="1" type="D" statut='dieu' age='A' stat_amour='néant'>MOMUS</role>.</castItem>
+	<castItem><role id="DUBOCAGE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>MONSIEUR DUBOCAGE</role>.</castItem>
 </castList>
 <castList><head>PRESONNAGES de la COMÉDIE</head>
-	<castItem><role id="ALBERT" civil="M" type="H" statut='bourgeois' age='A' stat_amour='néant'>ALBERT</role>, jaloux, et tuteur d'Agathe. </castItem>
-	<castItem><role id="ÉRASTE" civil="M" type="H" statut='bourgeois' age='A' stat_amour='Agathe'>ÉRASTE</role>, amant d'Agathe. </castItem>
-	<castItem><role id="AGATHE" civil="F" type="H" statut='bourgeois' age='A' stat_amour='Éraste'>AGATHE</role>, amante d'Éraste. </castItem>
-	<castItem><role id="LISETTE" civil="F" type="H" statut='servante' age='A' stat_amour='néant'>LISETTE</role>, servante de M. Albert. </castItem>
-	<castItem><role id="CRISPIN" civil="M" type="H" statut='valet' age='A' stat_amour='néant'>CRISPIN</role>, valet d'Éraste. </castItem>
+	<castItem><role id="ALBERT" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>ALBERT</role>, jaloux, et tuteur d'Agathe. </castItem>
+	<castItem><role id="ÉRASTE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='Agathe'>ÉRASTE</role>, amant d'Agathe. </castItem>
+	<castItem><role id="AGATHE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='Éraste'>AGATHE</role>, amante d'Éraste. </castItem>
+	<castItem><role id="LISETTE" sex="2" type="H" statut='servante' age='A' stat_amour='néant'>LISETTE</role>, servante de M. Albert. </castItem>
+	<castItem><role id="CRISPIN" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>CRISPIN</role>, valet d'Éraste. </castItem>
 </castList>
 <set location='Paris' country='France' periode='XVIIème' link=''>La scène est dans une avenue, devant le château d'Albert.</set>
 </front>

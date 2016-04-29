@@ -6,12 +6,13 @@
 			<title>POLIXÈNE, TRAGÉDIE</title>
 			<author born='1692' born_location='' death='1655' death_location='' academie=''>AIGUEBERRE, Jean Dumas d'</author>
 		</titleStmt>
-		<publicationStmp>
+		<publicationStmt>
 			<p>publié par Paul FIEVRE juillet 2014</p>
-		</publicationStmp>
+			<idno>AIGUEBERRE_POLIXENE</idno>
+		</publicationStmt>
 		<SourceDesc>
 			<genre>Comédie</genre>
-			<inspiration>divers</inspiration>
+			<inspiration>mythe grec</inspiration>
 			<structure>Un acte</structure>
 			<type>vers</type>
 			<periode>1721-1730</periode>
@@ -49,10 +50,10 @@
 			<premiere date='(non représentée)' location='(non représentée)'></premiere>
 		</performance>
     <castList><head>ACTEURS DE POLYXENE.</head>
-		<castItem><role id="POLIXÈNE" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>POLIXÈNE</role>, fille de Priam Roi de Troie.</castItem>
-		<castItem><role id="PYRRHUS" civil='M' type="H" statut='roi' age='A' stat_amour='néant'>PYRRHUS</role>, fils d'Achilie Roi d'Epire.</castItem>
-		<castItem><role id="AEGINE" civil='M' type="H" statut='confident' age='A' stat_amour='néant'>AEGINE</role> Confidente de Polixetie</castItem>
-		<castItem><role id="THESSANDRE" civil='M' type="H" statut='capitaine' age='A' stat_amour='néant'>THESSANDRE</role>, Capitaine des Gardes de Pyrrhus.</castItem>
+		<castItem><role id="POLIXÈNE" sex="1" type="H" statut='prince' age='J' stat_amour='néant'>POLIXÈNE</role>, fille de Priam Roi de Troie.</castItem>
+		<castItem><role id="PYRRHUS" sex="1" type="H" statut='roi' age='J' stat_amour='néant'>PYRRHUS</role>, fils d'Achille Roi d'Epire.</castItem>
+		<castItem><role id="AEGINE" sex="1" type="H" statut='confident' age='A' stat_amour='néant'>AEGINE</role> Confidente de Polixetie</castItem>
+		<castItem><role id="THESSANDRE" sex="1" type="H" statut='capitaine' age='A' stat_amour='néant'>THESSANDRE</role>, Capitaine des Gardes de Pyrrhus.</castItem>
 	</castList>
 	<set location='Troie' country='Turquie' periode='Vème avant JC' link=''>La scène est sur les débris de Troie.</set>
 </front>

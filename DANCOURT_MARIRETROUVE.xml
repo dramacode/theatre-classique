@@ -7,9 +7,10 @@
 				<author born='1661' born_location='Paris' death='1725' death_location='Paris' academie=''>DANCOURT, Florent Carton dit</author>
 				<date>1698</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, juillet 2013</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -43,15 +44,15 @@
 			<premiere date="1698-10-25" location='Théâtre de la rue des Fossés Saint-Germain'>Représentée pour la première fois le 25 Octobre 1698 au Théâtre de la rue des Fossés Saint-Germain.</premiere>
 		</performance>
 	<castList><head>ACTEURS.</head>
-		<castItem><role id="JULIEN" civil='M' type='H' statut='meunier' age='A' stat_amour='néant'>JULIEN</role>, meunier.</castItem>
-		<castItem><role id="JULIENNE" civil='F' type='H' statut='meunière' age='A' stat_amour='néant'>JULIENNE</role>, sa femme.</castItem>
-		<castItem><role id="COLETTE" civil='F' type='H' statut='bourgeois' age='A' stat_amour='néant'>COLETTE</role>, leur nièce.</castItem>
-		<castItem><role id="CLITANDRE" civil='M' type='H' statut='bourgeois' age='A' stat_amour='amoureux'>CLITANDRE</role>, amant de Colette.</castItem>
-		<castItem><role id="LÉPINE" civil='M' type='H' statut='valet' age='A' stat_amour='néant'>LÉPINE</role>, son valet.</castItem>
-		<castItem><role id="MADAME AGATHE" civil='F' type='H' statut='bourgeois' age='A' stat_amour='amoureux'>MADAME AGATHE</role>, amoureuse de Charlot.</castItem>
-		<castItem><role id="CHARLOT" civil='M' type='H' statut='bourgeois' age='A' stat_amour='amoureux'>CHARLOT</role>, amoureux de Colette.</castItem>
-		<castItem><role id="LE BAILLI" civil='M' type='H' statut='bailli' age='A' stat_amour='néant'>LE BAILLI</role>.</castItem>
-		<castItem><role id="MATURIN" civil='M' type='H' statut='employé' age='A' stat_amour='néant'>MATURIN</role>, garçon du moulin.</castItem>
+		<castItem><role id="JULIEN" sex="1" type='H' statut='meunier' age='A' stat_amour='néant'>JULIEN</role>, meunier.</castItem>
+		<castItem><role id="JULIENNE" sex="2" type='H' statut='meunière' age='A' stat_amour='néant'>JULIENNE</role>, sa femme.</castItem>
+		<castItem><role id="COLETTE" sex="2" type='H' statut='bourgeois' age='A' stat_amour='néant'>COLETTE</role>, leur nièce.</castItem>
+		<castItem><role id="CLITANDRE" sex="1" type='H' statut='bourgeois' age='A' stat_amour='amoureux'>CLITANDRE</role>, amant de Colette.</castItem>
+		<castItem><role id="LÉPINE" sex="1" type='H' statut='valet' age='A' stat_amour='néant'>LÉPINE</role>, son valet.</castItem>
+		<castItem><role id="MADAME AGATHE" sex="2" type='H' statut='bourgeois' age='A' stat_amour='amoureux'>MADAME AGATHE</role>, amoureuse de Charlot.</castItem>
+		<castItem><role id="CHARLOT" sex="1" type='H' statut='bourgeois' age='A' stat_amour='amoureux'>CHARLOT</role>, amoureux de Colette.</castItem>
+		<castItem><role id="LE BAILLI" sex="1" type='H' statut='bailli' age='A' stat_amour='néant'>LE BAILLI</role>.</castItem>
+		<castItem><role id="MATURIN" sex="1" type='H' statut='employé' age='A' stat_amour='néant'>MATURIN</role>, garçon du moulin.</castItem>
 		</castList>
 	<set location="À la campagne" country='France' periode='XVIIème' link=''>La scène est au moulin.</set>
 	</front>

@@ -7,9 +7,10 @@
 				<author born='1741' born_location='Clermont' death='1794' death_location='Paris' academie='1781'>CHAMFORT, Sébatien-Roch-Nicolas de </author>
 				<date>1777</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, avril 2008</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>moeurs ottomanes</inspiration>
@@ -44,17 +45,17 @@
 		</performance>
 <castList>
 <head>ACTEURS</head>
-<castItem><role id="SOLIMAN" civil='M' type="H" statut='roi' age='A' stat_amour='néant'>SOLIMAN</role>, empereur des Turcs (M. Brizard)</castItem>
-<castItem><role id="ROXELANE" civil='F' type="H" statut='roi' age='A' stat_amour='néant'>ROXELANE</role>, épouse de Soliman (Mme Vestris)</castItem>
-<castItem><role id="MUSTAPHA" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>MUSTAPHA</role>, fils aîné de Soliman, mais d'une autre femme. (M. Larive)</castItem>
-<castItem><role id="ZÉANGIR" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>ZÉANGIR</role>, fils de Solmiman et de Roxelane. (M.Molé)</castItem>
-<castItem><role id="AZÉMIRE" civil='F' type="H" statut='prince' age='A' stat_amour='néant'>AZÉMIRE</role>, princesse de Perse. (Melle Sainval, cad.)</castItem>
-<castItem><role id="OSMAN" civil='M' type="H" statut='vizir' age='A' stat_amour='néant'>OSMAN</role>, Grand-vizir. (M. dussaut)</castItem>
-<castItem><role id="ALI" civil='M' type="H" statut='janissaire' age='A' stat_amour='néant'>ALI</role>, chef des Janissaires. (M. Vanhove)</castItem>
-<castItem><role id="ACHMET" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>ACHMET</role>, ancien gouverneur du Mustapha. (M. Dauberval)</castItem>
-<castItem><role id="FÉLIME" civil='F' type="H" statut='confident' age='A' stat_amour='néant'>FÉLIME</role>, confidente d'Azémire. (Melle La Chassaigne)</castItem>
-<castItem><role id="NESSIR" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>NESSIR</role>.</castItem>
-<castItem><role id="GARDES" civil='G' type="H" statut='garde' age='A' stat_amour='néant'>Gardes</role>.</castItem>
+<castItem><role id="SOLIMAN" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>SOLIMAN</role>, empereur des Turcs (M. Brizard)</castItem>
+<castItem><role id="ROXELANE" sex="2" type="H" statut='roi' age='A' stat_amour='néant'>ROXELANE</role>, épouse de Soliman (Mme Vestris)</castItem>
+<castItem><role id="MUSTAPHA" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>MUSTAPHA</role>, fils aîné de Soliman, mais d'une autre femme. (M. Larive)</castItem>
+<castItem><role id="ZÉANGIR" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>ZÉANGIR</role>, fils de Solmiman et de Roxelane. (M.Molé)</castItem>
+<castItem><role id="AZÉMIRE" sex="2" type="H" statut='prince' age='A' stat_amour='néant'>AZÉMIRE</role>, princesse de Perse. (Melle Sainval, cad.)</castItem>
+<castItem><role id="OSMAN" sex="1" type="H" statut='vizir' age='A' stat_amour='néant'>OSMAN</role>, Grand-vizir. (M. dussaut)</castItem>
+<castItem><role id="ALI" sex="1" type="H" statut='janissaire' age='A' stat_amour='néant'>ALI</role>, chef des Janissaires. (M. Vanhove)</castItem>
+<castItem><role id="ACHMET" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>ACHMET</role>, ancien gouverneur du Mustapha. (M. Dauberval)</castItem>
+<castItem><role id="FÉLIME" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>FÉLIME</role>, confidente d'Azémire. (Melle La Chassaigne)</castItem>
+<castItem><role id="NESSIR" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>NESSIR</role>.</castItem>
+<castItem><role id="GARDES" sex="9" type="H" statut='garde' age='A' stat_amour='néant'>Gardes</role>.</castItem>
 </castList>
 <set location='Constantinople' country='Turquie' periode='XVIème' link=''>La scène est dans le sérail de Constantinople, autrement dit Byzance.</set>
 </front>

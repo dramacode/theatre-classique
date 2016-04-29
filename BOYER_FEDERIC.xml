@@ -6,9 +6,10 @@
 				<title>FÉDÉRIC, TRAGI-COMÉDIE</title>
 				<author born='1618' born_location='Albi' death='1698' death_location='Paris' academie='1666'>BOYER, Claude</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE</p><p>Mai 2008</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragi-comédie</genre>
 				<inspiration>moeurs italiennes</inspiration>
@@ -54,15 +55,15 @@ Le très humble, et très obéissant serviteur, </p>
 
 <castList>
 <head>ACTEURS</head>
-	<castItem><role id="YOLAND" civil='F' type="H" statut='prince' age='A' stat_amour='néant'>YOLAND</role>, princesse de Sicile, déguisée en roi, sous le nom de Manfrede.</castItem>
-	<castItem><role id="FEDERIC" civil='M' type="H" statut='amiral' age='A' stat_amour='amoureux'>FÉDÉRIC</role>, amiral de Sicile, amoureux d'Yoland.</castItem>
-	<castItem><role id="CAMILLE" civil='F' type="H" statut='roi' age='A' stat_amour='néant'>CAMILLE</role>, reine de Naples, réfugiée en Sicile.</castItem>
-	<castItem><role id="VALERE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>VALÈRE</role>, fils de Fédéric, Favori du roi.</castItem>
-	<castItem><role id="FABRICE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='amoureux'>FABRICE</role>, fils de Fédéric, amoureux de Camille.</castItem>
-	<castItem><role id="MARCELLIN" civil='M' type="H" statut='confident' age='A' stat_amour='néant'>MARCELLIN</role>, confident d'Yoland.</castItem>
-	<castItem><role id="OCTAVE" civil='M' type="H" statut='écruyer' age='A' stat_amour='néant'>OCTAVE</role>, écuyer de Fédéric.</castItem>
-	<castItem><role id="FLORISE" civil='F' type="H" statut='confident' age='A' stat_amour='néant'>FLORISE</role>, confidente de Camille.</castItem>
-	<castItem><role id="SUITE" civil='G' type="H" statut='suite' age='A' stat_amour='néant'>SUITE</role>.</castItem>
+	<castItem><role id="YOLAND" sex="2" type="H" statut='prince' age='A' stat_amour='néant'>YOLAND</role>, princesse de Sicile, déguisée en roi, sous le nom de Manfrede.</castItem>
+	<castItem><role id="FEDERIC" sex="1" type="H" statut='amiral' age='A' stat_amour='amoureux'>FÉDÉRIC</role>, amiral de Sicile, amoureux d'Yoland.</castItem>
+	<castItem><role id="CAMILLE" sex="2" type="H" statut='roi' age='A' stat_amour='néant'>CAMILLE</role>, reine de Naples, réfugiée en Sicile.</castItem>
+	<castItem><role id="VALERE" sex="1" type="H" statut='aristocrate' age='J' stat_amour='néant'>VALÈRE</role>, fils de Fédéric, Favori du roi.</castItem>
+	<castItem><role id="FABRICE" sex="1" type="H" statut='aristocrate' age='J' stat_amour='amoureux'>FABRICE</role>, fils de Fédéric, amoureux de Camille.</castItem>
+	<castItem><role id="MARCELLIN" sex="1" type="H" statut='confident' age='A' stat_amour='néant'>MARCELLIN</role>, confident d'Yoland.</castItem>
+	<castItem><role id="OCTAVE" sex="1" type="H" statut='écruyer' age='A' stat_amour='néant'>OCTAVE</role>, écuyer de Fédéric.</castItem>
+	<castItem><role id="FLORISE" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>FLORISE</role>, confidente de Camille.</castItem>
+	<castItem><role id="SUITE" sex="9" type="H" statut='suite' age='A' stat_amour='néant'>SUITE</role>.</castItem>
 </castList>
 
 <errata><head>Errata</head>

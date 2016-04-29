@@ -7,9 +7,10 @@
 				<author born='1687' born_location='Paris' death='1770' death_location='Paris' academie=''>François-Augustin Paradis de MONCRIF</author>
 				<date>1732</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE avril 2010</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -51,16 +52,16 @@
 </div>
 		</performance>
 	<castList><head>ACTEURS</head>
-		<castItem><role id="NICANDRE" civil='M' type="H" statut='sénateur' age='A' stat_amour='néant'>NICANDRE</role>, premier Sénateur d'Abdere. </castItem>
-		<castItem><role id="ANAXIMENE" civil='M' type="H" statut='sénateur' age='A' stat_amour='néant'>ANAXIMÈNE</role>, collègue de Nicandre.</castItem>
-		<castItem><role id="PHORBAS" civil='M' type="H" statut='sénateur' age='A' stat_amour='néant'>PHORBAS</role>, collègue de Nicandre.</castItem>	
-		<castItem><role id="MIRTO" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>MIRTO</role>, femme de Nicandre.</castItem>
-		<castItem><role id="CARITE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>CARITE</role>, fille de Nicandre et de Mirto, promise à Lisis.</castItem>
-		<castItem><role id="LISIS" civil='M' type="H" statut='aristocrate' age='A' stat_amour='Carite'>LISIS</role>, jeune citoyen d'Abdere, amant de Carite.</castItem>	
-		<castItem><role id="ARISTEME" civil='M' type="H" statut='aristocrate' age='A' stat_amour='Carite'>ARISTÈME</role>, abdérite, amoureux de Carite.</castItem>
-		<castItem><role id="TERGALION" civil='M' type="H" statut='messager' age='A' stat_amour='néant'>TERGALION</role>, envoyé de Sardis.</castItem>
-		<castItem><role id="DROMON" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>DROMON</role>, Valet de Lisis.</castItem>	
-		<castItem><role id="UN-ESCLAVE" civil='M' type="H" statut='esclave' age='A' stat_amour='néant'>UN ESCLAVE</role> de Nicandre.</castItem>	
+		<castItem><role id="NICANDRE" sex="1" type="H" statut='sénateur' age='A' stat_amour='néant'>NICANDRE</role>, premier Sénateur d'Abdere. </castItem>
+		<castItem><role id="ANAXIMENE" sex="1" type="H" statut='sénateur' age='A' stat_amour='néant'>ANAXIMÈNE</role>, collègue de Nicandre.</castItem>
+		<castItem><role id="PHORBAS" sex="1" type="H" statut='sénateur' age='A' stat_amour='néant'>PHORBAS</role>, collègue de Nicandre.</castItem>	
+		<castItem><role id="MIRTO" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>MIRTO</role>, femme de Nicandre.</castItem>
+		<castItem><role id="CARITE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>CARITE</role>, fille de Nicandre et de Mirto, promise à Lisis.</castItem>
+		<castItem><role id="LISIS" sex="1" type="H" statut='aristocrate' age='A' stat_amour='Carite'>LISIS</role>, jeune citoyen d'Abdere, amant de Carite.</castItem>	
+		<castItem><role id="ARISTEME" sex="1" type="H" statut='aristocrate' age='A' stat_amour='Carite'>ARISTÈME</role>, abdérite, amoureux de Carite.</castItem>
+		<castItem><role id="TERGALION" sex="1" type="H" statut='messager' age='A' stat_amour='néant'>TERGALION</role>, envoyé de Sardis.</castItem>
+		<castItem><role id="DROMON" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>DROMON</role>, Valet de Lisis.</castItem>	
+		<castItem><role id="UN-ESCLAVE" sex="1" type="H" statut='esclave' age='A' stat_amour='néant'>UN ESCLAVE</role> de Nicandre.</castItem>	
 	</castList>
 	<set location="Abdere" country='Grèce' periode='Temps mythologiques' link=''>La Scène est à Abdere dans un Vestibule de la maison de Nicandre, où le Sénat s'assemble.</set>
 	</front>

@@ -7,9 +7,10 @@
 				<author born='1692' born_location='Paris' death='1754' death_location='Paris' academie='1736'>NIVELLE de la CHAUSSÉE, Pierre</author>
 				<date>1747</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, juillet 2011.</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -43,14 +44,14 @@
 		</performance>
 		<castList>
 			<head>ACTEURS</head>
-			<castItem><role id="HORTENSE" civil='F'>HORTENSE</role>.</castItem>
-			<castItem><role id="CLORINE" civil='F'>CLORINE</role>, suivante d'Hortense.</castItem>
-			<castItem><role id="MONROSE" civil='M'>MONROSE</role>.</castItem>
-			<castItem><role id="DORNANE" civil='M'>DORNANE</role>, ami de Monrose.</castItem>
-			<castItem><role id="ARAMONT" civil='M'>ARAMONT</role>, ami de Monrose.</castItem>
-			<castItem><role id="ARISTE" civil='M'>ARISTE</role>.</castItem>
-			<castItem><role id="GARDE" civil='M'>UN GARDE</role>.</castItem>
-			<castItem><role id="LAQUAIS" civil='M'>LAQUAIS</role>.</castItem>
+			<castItem><role id="HORTENSE" sex="2">HORTENSE</role>.</castItem>
+			<castItem><role id="CLORINE" sex="2">CLORINE</role>, suivante d'Hortense.</castItem>
+			<castItem><role id="MONROSE" sex="1">MONROSE</role>.</castItem>
+			<castItem><role id="DORNANE" sex="1">DORNANE</role>, ami de Monrose.</castItem>
+			<castItem><role id="ARAMONT" sex="1">ARAMONT</role>, ami de Monrose.</castItem>
+			<castItem><role id="ARISTE" sex="1">ARISTE</role>.</castItem>
+			<castItem><role id="GARDE" sex="1">UN GARDE</role>.</castItem>
+			<castItem><role id="LAQUAIS" sex="1">LAQUAIS</role>.</castItem>
 		</castList>
 		<set location='Paris' country='France' periode='XVIIIème' link=''>La Scène est à Paris dans la maison de Monrose.</set>
 </front>

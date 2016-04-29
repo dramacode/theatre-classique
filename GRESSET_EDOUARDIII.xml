@@ -7,9 +7,10 @@
 			<author born='1709' born_location='Amiens' death='1777' death_location='Amiens' academie='1748'>GRESSET, Jean-Baptiste-Louis</author>
 				<date>1673</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, juillet 2011</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire anglaise</inspiration>
@@ -54,16 +55,16 @@
 <p type='v'>Aux vertus des autres climats.</p>
 </div>
 		<castList><head>PERSONNAGES</head>
-		<castItem><role id="ÉDOUARD-III" civil='M' type="H" statut='roi' age='A' stat_amour='néant'>ÉDOUARD III</role>, roi d'Angleterre.</castItem>
-		<castItem><role id="ALZONDE" civil='F' type="H" statut='prince' age='A' stat_amour='néant'>ALZONDE</role>, héritière du royaume d'Ecosse, sous le nom d'AGLAÉ.</castItem>
-		<castItem><role id="VORCESTRE" civil='M' type="H" statut='ministre' age='A' stat_amour='néant'>LE DUC DE VORCESTRE</role>, ministre d'Angleterre.</castItem>
-		<castItem><role id="EUGÉNIE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>EUGÉNIE</role>, fille de Vorcestre, veuve du comte de Salisbury.</castItem>
-		<castItem><role id="ARONDEL" civil='M' type="H" statut='comte' age='A' stat_amour='néant'>LE COMTE d'ARONDEL</role>.</castItem>
-		<castItem><role id="VOLFAX" civil='M' type="H" statut='capitaine' age='A' stat_amour='néant'>VOLFAX</role>, capitaine des gardes.</castItem>
-		<castItem><role id="GLASTON" civil='M' type="H" statut='officier' age='A' stat_amour='néant'>GLASTON</role>, officier de la garde.</castItem>
-		<castItem><role id="ISMÈNE" civil='F' type="H" statut='confidente' age='A' stat_amour='néant'>ISMÈNE</role>, confidente d'Eugénie.</castItem>
-		<castItem><role id="AMÉLIE" civil='F' type="H" statut='suivante' age='A' stat_amour='néant'>AMÉLIE</role>, suivante d'Alzonde.</castItem>
-		<castItem><role id="GARDES" civil='G' type="H" statut='garde' age='A' stat_amour='néant'>GARDES</role>.</castItem>
+		<castItem><role id="ÉDOUARD-III" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>ÉDOUARD III</role>, roi d'Angleterre.</castItem>
+		<castItem><role id="ALZONDE" sex="2" type="H" statut='prince' age='A' stat_amour='néant'>ALZONDE</role>, héritière du royaume d'Ecosse, sous le nom d'AGLAÉ.</castItem>
+		<castItem><role id="VORCESTRE" sex="1" type="H" statut='ministre' age='A' stat_amour='néant'>LE DUC DE VORCESTRE</role>, ministre d'Angleterre.</castItem>
+		<castItem><role id="EUGÉNIE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>EUGÉNIE</role>, fille de Vorcestre, veuve du comte de Salisbury.</castItem>
+		<castItem><role id="ARONDEL" sex="1" type="H" statut='comte' age='A' stat_amour='néant'>LE COMTE d'ARONDEL</role>.</castItem>
+		<castItem><role id="VOLFAX" sex="1" type="H" statut='capitaine' age='A' stat_amour='néant'>VOLFAX</role>, capitaine des gardes.</castItem>
+		<castItem><role id="GLASTON" sex="1" type="H" statut='officier' age='A' stat_amour='néant'>GLASTON</role>, officier de la garde.</castItem>
+		<castItem><role id="ISMÈNE" sex="2" type="H" statut='confidente' age='A' stat_amour='néant'>ISMÈNE</role>, confidente d'Eugénie.</castItem>
+		<castItem><role id="AMÉLIE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>AMÉLIE</role>, suivante d'Alzonde.</castItem>
+		<castItem><role id="GARDES" sex="9" type="H" statut='garde' age='A' stat_amour='néant'>GARDES</role>.</castItem>
 	</castList>
 	<set location='Londres' country='Angleterre' periode='XIVème' link=''>La scène est à Londres. </set>
 	</front>

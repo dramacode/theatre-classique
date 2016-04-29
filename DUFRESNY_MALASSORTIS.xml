@@ -6,9 +6,10 @@
 				<title>LES MAL-ASSORTIS, COMÉDIE EN DEUX ACTES.</title>
 				<author born='1657' born_location='Paris' death='1724' death_location='Paris' academie=''>DUFRESNY, Charles</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE octobre 2012</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -42,24 +43,24 @@
 			<premiere date='1693-05-30' location='Hôtel de Bourgogne'>Représentée pour la première fois par les comédiens Italiens du Roi, dans leur hôtel de Bourgogne, le trentième de Mai 1693.</premiere>
 		</performance>
 	<castList><head>ACTEURS</head>
-		<castItem><role id="ARLEQUIN" civil="M" type="H" statut='gouverneur' age='A' stat_amour='néant'>ARLEQUIN</role>, gouverneur d'une île en Espagne.</castItem>
-		<castItem><role id="COLOMBINE" civil="F" type="H" statut='duègne' age='A' stat_amour='néant'>COLOMBINE</role> Duègne, gouvernante de plusieurs filles.</castItem>
-		<castItem><role id="ISABELLE" civil="F" type="H" statut='bourgeois' age='A' stat_amour='néant'>ISABELLE</role>, Fille sous le gouvernement de Colombine. </castItem>
-		<castItem><role id="MARINETTE" civil="F" type="H" statut='bourgeois' age='A' stat_amour='néant'>MARINETTE</role>, Fille sous le gouvernement de Colombine. </castItem>
-		<castItem><role id="PASQUARIEL" civil="F" type="H" statut='bourgeois' age='A' stat_amour='néant'>PASQUARIEL</role>, Fille sous le gouvernement de Colombine. </castItem>
-		<castItem><role id="MEZZETIN" civil="F" type="H" statut='bourgeois' age='A' stat_amour='néant'>MEZZETIN</role>, Fille sous le gouvernement de Colombine. </castItem>
-		<castItem><role id="PIERROT" civil="M" type="H" statut='eunuque' age='A' stat_amour='néant'>PIERROT</role>Pierrot eunuque, gardien des filles.</castItem>
-		<castItem><role id="OCTAVE" civil="M" type="H" statut='bourgeois' age='A' stat_amour='néant'>OCTAVE</role>, amant d'Isabelle.</castItem>
-		<castItem><role id="HYMEN" civil="D" type="H" statut='chanteur' age='A' stat_amour='néant'>LE DIEU HYMEN</role> : Un chanteur.</castItem>
-		<castItem><role id="UN-CABARETIER" civil="M" type="H" statut='cabaretier' age='A' stat_amour='néant'>UN CABARETIER</role>.</castItem>
-		<castItem><role id="FEMME-DU-CABARETIER" civil="F" type="H" statut='cabaretier' age='A' stat_amour='néant'>FEMME DU CABARETIER</role>. </castItem>
-		<castItem><role id="UN-PROCUREUR" civil="M" type="H" statut='procureur' age='A' stat_amour='néant'>UN PROCUREUR</role>.</castItem>
-		<castItem><role id="FEMME-DU-PROCUREUR" civil="F" type="H" statut='procureur' age='A' stat_amour='néant'>FEMME DU PROCUREUR</role>.</castItem>
-		<castItem><role id="UN-JARDINIER" civil="M" type="H" statut='jardinier' age='A' stat_amour='néant'>UN JARDINIER</role>.</castItem>
-		<castItem><role id="FEMME-DU-JARDINIER" civil="F" type="H" statut='jardinier' age='A' stat_amour='néant'>FEMME DU JARDINIER</role>.</castItem>
-		<castItem><role id="UN-JEUNE-HOMME" civil="M" type="H" statut='bourgeois' age='J' stat_amour='néant'>UN JEUNE HOMME</role>.</castItem>
-		<castItem><role id="FEMME-DU-JEUNE-HOMME" civil="F" type="H" statut='bourgeois' age='V' stat_amour='néant'>FEMME DU JEUNE HOMME</role>, fort vieille.</castItem>
-		<castItem><role id="AUTRES-ACTEURS" civil="G" type="H" statut='bourgeois' age='A' stat_amour='néant'>Plusieurs autres acteurs</role>.</castItem>
+		<castItem><role id="ARLEQUIN" sex="1" type="H" statut='gouverneur' age='A' stat_amour='néant'>ARLEQUIN</role>, gouverneur d'une île en Espagne.</castItem>
+		<castItem><role id="COLOMBINE" sex="2" type="H" statut='duègne' age='A' stat_amour='néant'>COLOMBINE</role> Duègne, gouvernante de plusieurs filles.</castItem>
+		<castItem><role id="ISABELLE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>ISABELLE</role>, Fille sous le gouvernement de Colombine. </castItem>
+		<castItem><role id="MARINETTE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>MARINETTE</role>, Fille sous le gouvernement de Colombine. </castItem>
+		<castItem><role id="PASQUARIEL" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>PASQUARIEL</role>, Fille sous le gouvernement de Colombine. </castItem>
+		<castItem><role id="MEZZETIN" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>MEZZETIN</role>, Fille sous le gouvernement de Colombine. </castItem>
+		<castItem><role id="PIERROT" sex="1" type="H" statut='eunuque' age='A' stat_amour='néant'>PIERROT</role>, Pierrot eunuque, gardien des filles.</castItem>
+		<castItem><role id="OCTAVE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='Isabelle'>OCTAVE</role>, amant d'Isabelle.</castItem>
+		<castItem><role id="HYMEN" sex="1" type="D" statut='dieu' age='A' stat_amour='néant'>LE DIEU HYMEN</role> : Un chanteur.</castItem>
+		<castItem><role id="UN CABARETIER" sex="1" type="H" statut='cabaretier' age='A' stat_amour='néant'>UN CABARETIER</role>.</castItem>
+		<castItem><role id="FEMME DU CABARETIER" sex="2" type="H" statut='cabaretier' age='A' stat_amour='néant'>FEMME DU CABARETIER</role>. </castItem>
+		<castItem><role id="UN PROCUREUR" sex="1" type="H" statut='procureur' age='A' stat_amour='néant'>UN PROCUREUR</role>.</castItem>
+		<castItem><role id="FEMME DU PROCUREUR" sex="2" type="H" statut='procureur' age='A' stat_amour='néant'>FEMME DU PROCUREUR</role>.</castItem>
+		<castItem><role id="UN JARDINIER" sex="1" type="H" statut='jardinier' age='A' stat_amour='néant'>UN JARDINIER</role>.</castItem>
+		<castItem><role id="FEMME DU JARDINIER" sex="2" type="H" statut='jardinier' age='A' stat_amour='néant'>FEMME DU JARDINIER</role>.</castItem>
+		<castItem><role id="UN JEUNE HOMME" sex="1" type="H" statut='bourgeois' age="J" stat_amour='néant'>UN JEUNE HOMME</role>.</castItem>
+		<castItem><role id="FEMME DU JEUNE HOMME" sex="2" type="H" statut='bourgeois' age='V' stat_amour='néant'>FEMME DU JEUNE HOMME</role>, fort vieille.</castItem>
+		<castItem><role id="AUTRES ACTEURS" sex="9" type="H" statut='bourgeois' age='A' stat_amour='néant'>Plusieurs autres acteurs</role>.</castItem>
 	</castList>
 	<set location='Sur une île' country='Espagne' periode='XVIIème' link=''>La scène est dans une île en Espagne.</set>
 </front>

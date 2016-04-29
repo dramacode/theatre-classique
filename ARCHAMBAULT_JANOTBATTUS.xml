@@ -6,10 +6,11 @@
 				<title>JANOT OU LES BATTUS PAIENT L'AMENDE, COMÉDIE-PROVERBE</title>
 				<author born='1742' born_location='Paris' death='1812' death_location='Paris' academie=''>ARCHAMBAULT, Louis-François</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<editor>Texte établi à partir de la transcription par Dr Roger Peters.</editor>
 				<publisher>publié par Paul FIEVRE, janvier 2014</publisher>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Proverbe</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -42,16 +43,16 @@
 			<premiere date='1779-06-06' location='Théâtre des Variétés amusantes'>Représenté pour la première fois le 6 juin 1779 au Théâtre des Variétés-Amusantes à Paris.</premiere>
 		</performance>
 		<castList><head>PERSONNAGES.</head>
-			<castItem><role id='RAGOT' civil='M' type="H" statut="fripier" age="A" stat_amour='néant'>RAGOT</role>, fripier.</castItem>
-			<castItem><role id='MADAME RAGOT' civil='F' type="H" statut="bourgeois" age="A" stat_amour='néant'>MADAME RAGOT</role>.</castItem>
-			<castItem><role id='JANOT' civil='M' type="H" statut="employé" age="A" stat_amour='néant'>JANOT</role>, leur garçon de boutique.</castItem>
-			<castItem><role id='SIMON' civil='M' type="H" statut="savetier" age="A" stat_amour='néant'>SIMON</role>, savetier.</castItem>
-			<castItem><role id='SUZON' civil='F' type="H" statut="bourgeois" age="A" stat_amour='néant'>SUZON</role>, sa fille.</castItem>
-			<castItem><role id='DODINET' civil='M' type="H" statut="rat-de-cave" age="A" stat_amour='néant'>DODINET</role>, rat-de-cave.</castItem>
-			<castItem><role id='UN CLERC DE COMMISSAIRE' civil='M' type="H" statut="clerc" age="A" stat_amour='néant'>UN CLERC DE COMMISSAIRE</role>.</castItem>
-			<castItem><role id='UN GARÇON PATISSIER' civil='M' type="H" statut="patissier" age="A" stat_amour='néant'>UN GARÇON PATISSIER</role>.</castItem>
-			<castItem><role id='LE CAPORAL DU GUET' civil='M' type="H" statut="caporal" age="A" stat_amour='néant'>LE CAPORAL DU GUET</role>.</castItem>
-			<castItem><role id='DES SOLDATS' civil='G' type="H" statut="soldats" age="A" stat_amour='néant'>DES SOLDATS</role>.</castItem>
+			<castItem><role id='RAGOT' sex="1" type="H" statut="fripier" age="A" stat_amour='néant'>RAGOT</role>, fripier.</castItem>
+			<castItem><role id='MADAME RAGOT' sex="2" type="H" statut="bourgeois" age="A" stat_amour='néant'>MADAME RAGOT</role>.</castItem>
+			<castItem><role id='JANOT' sex="1" type="H" statut="employé" age="A" stat_amour='néant'>JANOT</role>, leur garçon de boutique.</castItem>
+			<castItem><role id='SIMON' sex="1" type="H" statut="savetier" age="A" stat_amour='néant'>SIMON</role>, savetier.</castItem>
+			<castItem><role id='SUZON' sex="2" type="H" statut="bourgeois" age="J" stat_amour='néant'>SUZON</role>, sa fille.</castItem>
+			<castItem><role id='DODINET' sex="1" type="H" statut="rat-de-cave" age="A" stat_amour='néant'>DODINET</role>, rat-de-cave.</castItem>
+			<castItem><role id='UN CLERC DE COMMISSAIRE' sex="1" type="H" statut="clerc" age="A" stat_amour='néant'>UN CLERC DE COMMISSAIRE</role>.</castItem>
+			<castItem><role id='UN GARÇON PATISSIER' sex="1" type="H" statut="patissier" age="A" stat_amour='néant'>UN GARÇON PATISSIER</role>.</castItem>
+			<castItem><role id='LE CAPORAL DU GUET' sex="1" type="H" statut="caporal" age="A" stat_amour='néant'>LE CAPORAL DU GUET</role>.</castItem>
+			<castItem><role id='DES SOLDATS' sex="9" type="H" statut="soldats" age="A" stat_amour='néant'>DES SOLDATS</role>.</castItem>
 		</castList>
 		<set location='Paris' country='France' periode='XVIIIème' link=''>La scène se passe dans la rue, et commence à huit heures du soir.</set>
 		</front>

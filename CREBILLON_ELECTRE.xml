@@ -7,9 +7,10 @@
 				<author born='1674' born_location='Dijon' death='1762' death_location='Paris' academie='1731'>CRÉBILLON, Prosper J. de</author>
 				<date>1708</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<authority>publié par Paul FIEVRE, Septembre 2010</authority>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>mythe grec</inspiration>
@@ -43,17 +44,17 @@
 </div>
 
 <castList><head>PERSONNAGES</head>
-	<castItem><role id="CLYTEMNESTRE" civil='F' type="H" statut='roi' age='A' stat_amour='néant'>CLYTEMNESTRE</role>, veuve d'Agamemnon, et femme d'Égisthe.</castItem>
-	<castItem><role id="ORESTE" civil='M' type="H" statut='roi' age='A' stat_amour='néant'>ORESTE</role>, fils d'Agamemnon et de Clytemnestre, roi de Mycènes, élevé sous le nom de Tydée.</castItem>
-	<castItem><role id="ÉLECTRE" civil='F' type="H" statut='prince' age='A' stat_amour='néant'>ÉLECTRE</role>, soeur d'Oreste.</castItem>
-	<castItem><role id="ÉGISTHE" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>ÉGISTHE</role>, fils de Thyeste, et meurtrier d'Agamemnon.</castItem>
-	<castItem><role id="ITYS" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>ITYS</role>, fils d'Égisthe, mais d'une autre mère que Clytemnestre.</castItem>
-	<castItem><role id="IPHIANASSE" civil='F' type="H" statut='prince' age='A' stat_amour='néant'>IPHIANASSE</role>, soeur d'Itys.</castItem>
-	<castItem><role id="PALAMÈDE" civil='M' type="H" statut='confident' age='A' stat_amour='néant'>PALAMÈDE</role>, gouverneur d'Oreste.</castItem>
-	<castItem><role id="ARCAS" civil='M' type="H" statut='officier' age='A' stat_amour='néant'>ARCAS</role>, ancien officier d'Agamemnon.</castItem>
-	<castItem><role id="ANTÉNOR" civil='M' type="H" statut='confident' age='A' stat_amour='néant'>ANTÉNOR</role>, confident d'Oreste.</castItem>
-	<castItem><role id="MÉLITE" civil='F' type="H" statut='confident' age='A' stat_amour='néant'>MÉLITE</role>, confidente d'Iphianasse.</castItem>
-	<castItem><role id="GARDES" civil='G' type="H" statut='garde' age='A' stat_amour='néant'>GARDES</role>.</castItem>
+	<castItem><role id="CLYTEMNESTRE" sex="2" type="H" statut='roi' age='A' stat_amour='néant'>CLYTEMNESTRE</role>, veuve d'Agamemnon, et femme d'Égisthe.</castItem>
+	<castItem><role id="ORESTE" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>ORESTE</role>, fils d'Agamemnon et de Clytemnestre, roi de Mycènes, élevé sous le nom de Tydée.</castItem>
+	<castItem><role id="ÉLECTRE" sex="2" type="H" statut='prince' age='A' stat_amour='néant'>ÉLECTRE</role>, soeur d'Oreste.</castItem>
+	<castItem><role id="ÉGISTHE" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>ÉGISTHE</role>, fils de Thyeste, et meurtrier d'Agamemnon.</castItem>
+	<castItem><role id="ITYS" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>ITYS</role>, fils d'Égisthe, mais d'une autre mère que Clytemnestre.</castItem>
+	<castItem><role id="IPHIANASSE" sex="2" type="H" statut='prince' age='A' stat_amour='néant'>IPHIANASSE</role>, soeur d'Itys.</castItem>
+	<castItem><role id="PALAMÈDE" sex="1" type="H" statut='confident' age='A' stat_amour='néant'>PALAMÈDE</role>, gouverneur d'Oreste.</castItem>
+	<castItem><role id="ARCAS" sex="1" type="H" statut='officier' age='A' stat_amour='néant'>ARCAS</role>, ancien officier d'Agamemnon.</castItem>
+	<castItem><role id="ANTÉNOR" sex="1" type="H" statut='confident' age='A' stat_amour='néant'>ANTÉNOR</role>, confident d'Oreste.</castItem>
+	<castItem><role id="MÉLITE" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>MÉLITE</role>, confidente d'Iphianasse.</castItem>
+	<castItem><role id="GARDES" sex="9" type="H" statut='garde' age='A' stat_amour='néant'>GARDES</role>.</castItem>
 </castList>
 <set location='Mycènes' country='Grèce' periode='Temps mythologiques' link=''>La scène est à Mycènes, dans le palais de ses rois.</set>
 </front>

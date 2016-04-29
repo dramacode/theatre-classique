@@ -7,9 +7,10 @@
 				<author born='1606' born_location='Rouen' death='1684' death_location='Paris' academie='1647'>BOUCHER, Pierre</author>
 				<date>1651</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, juin 2013</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -102,12 +103,12 @@ Coiffait-il mieux par serpenteaux ?</p>
 <p>6. V. "La Fille capitaine" de Montfleury. II, sc. 10; III sc. 3.</p>
 		</div>
 	<castList><head>PERSONNAGES.</head>
-	      <castItem><role id="BONIFACE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>BONIFACE</role>.</castItem>
-	      <castItem><role id="ÉLISE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='amoureux'>ÉLISE</role>, fille de Boniface.</castItem>
-	      <castItem><role id="LISETTE" civil='M' type="H" statut='servante' age='A' stat_amour='amoureux'>LISETTE</role>, servante d'Élise.</castItem>
-	      <castItem><role id="MONSIEUR THOMAS" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>MONSIEUR THOMAS</role>, voisin et ami de Boniface.</castItem>
-	      <castItem><role id="CLÉANDRE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='amoureux'>CLÉANDRE</role>, Champagne, amant d'Élise.</castItem>
-	      <castItem><role id="GUILLOT" civil='M' type="H" statut='valet' age='A' stat_amour='amoureux'>GUILLOT</role>, valet de Champagne.</castItem>
+	      <castItem><role id="BONIFACE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>BONIFACE</role>.</castItem>
+	      <castItem><role id="ÉLISE" sex="1" type="H" statut='bourgeois' age='J' stat_amour='Cléandre'>ÉLISE</role>, fille de Boniface.</castItem>
+	      <castItem><role id="LISETTE" sex="1" type="H" statut='servante' age='A' stat_amour='amoureux'>LISETTE</role>, servante d'Élise.</castItem>
+	      <castItem><role id="MONSIEUR THOMAS" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>MONSIEUR THOMAS</role>, voisin et ami de Boniface.</castItem>
+	      <castItem><role id="CLÉANDRE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='Élise'>CLÉANDRE</role>, Champagne, amant d'Élise.</castItem>
+	      <castItem><role id="GUILLOT" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>GUILLOT</role>, valet de Champagne.</castItem>
 	</castList>
 	<set location='Paris' country='France' periode='XVIIème' link=''>La scène est à Paris.</set>
 	</front>

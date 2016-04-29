@@ -6,9 +6,10 @@
 				<title>PANDORE, OPÉRA en cinq actes</title>
 				<author born='1694' born_location='Paris' death='1778' death_location='Paris' academie='1746'>VOLTAIRE</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<authority>publié par Paul FIEVRE, Septembre 2006</authority>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Opéra</genre>
 				<inspiration>mythe grec</inspiration>
@@ -38,15 +39,15 @@
 				<premiere date='1767-02-17' location='Théâtre de la rue des Fossés Saint-Germain'>Représentée pour la première fois le 14 février 1767.</premiere>
 				</performance>
 <castList><head>PERSONNAGES</head>
-	<castItem><role id='PROMETHE' civil='M' type="H" statut='demi-dieu' age='A' stat_amour='néant'>PROMETHÉE</role>, fils du Ciel et de la Terre, demi-dieu..</castItem>
-	<castItem><role id='PANDORE' civil='F' type="H" statut='dieu' age='A' stat_amour='néant'>PANDORE</role>.</castItem>
-	<castItem><role id='JUPITER' civil='M' type="D" statut='dieu' age='A' stat_amour='néant'>JUPITER</role>.</castItem>
-	<castItem><role id='MERCURE' civil='M' type="D" statut='dieu' age='A' stat_amour='néant'>MERCURE</role>.</castItem>
-	<castItem><role id='NEMESIS' civil='F' type="D" statut='dieu' age='A' stat_amour='néant'>NEMESIS</role>.</castItem>
-	<castItem><role id='NYMPHES' civil='G' type="N" statut='nymphe' age='A' stat_amour='néant'>NYMPHES</role>.</castItem>
-	<castItem><role id='TITANS' civil='G' type="T" statut='titan' age='A' stat_amour='néant'>TITANS</role>.</castItem>
-	<castItem><role id='DIVINITÉS CELESTES' civil='G' type="D" statut='dieu' age='A' stat_amour='néant'>DIVINITÉS CELESTES</role>.</castItem>
-	<castItem><role id='DIVINITÉS INFERNALES' civil='G' type="D" statut='dieu' age='A' stat_amour='néant'>DIVINITÉS INFERNALES</role>.</castItem>
+	<castItem><role id='PROMETHE' sex="1" type="H" statut='demi-dieu' age='A' stat_amour='néant'>PROMETHÉE</role>, fils du Ciel et de la Terre, demi-dieu..</castItem>
+	<castItem><role id='PANDORE' sex="2" type="D" statut='dieu' age='A' stat_amour='néant'>PANDORE</role>.</castItem>
+	<castItem><role id='JUPITER' sex="1" type="D" statut='dieu' age='A' stat_amour='néant'>JUPITER</role>.</castItem>
+	<castItem><role id='MERCURE' sex="1" type="D" statut='dieu' age='A' stat_amour='néant'>MERCURE</role>.</castItem>
+	<castItem><role id='NEMESIS' sex="2" type="D" statut='dieu' age='A' stat_amour='néant'>NEMESIS</role>.</castItem>
+	<castItem><role id='NYMPHES' sex="2" type="N" statut='nymphe' age='A' stat_amour='néant'>NYMPHES</role>.</castItem>
+	<castItem><role id='TITANS' sex="1" type="D" statut='titan' age='A' stat_amour='néant'>TITANS</role>.</castItem>
+	<castItem><role id='DIVINITÉS CELESTES' sex="9" type="D" statut='dieu' age='A' stat_amour='néant'>DIVINITÉS CELESTES</role>.</castItem>
+	<castItem><role id='DIVINITÉS INFERNALES' sex="9" type="D" statut='dieu' age='A' stat_amour='néant'>DIVINITÉS INFERNALES</role>.</castItem>
 </castList>
 <set location='(non indiqué)' country='Grèce' periode='Temps mythologiques' link=''>Le théâtre représente une campagne, et des montagnes dans le fond.</set>
 </front>

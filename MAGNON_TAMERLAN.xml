@@ -7,9 +7,10 @@
 				<author born='1601' born_location='Bresse' death='1655' death_location='Paris' academie=''>MAGNON, Jean</author>
 				<date>1645</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<authority>publié par Paul FIEVRE, ocotbre 2010</authority>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire perse</inspiration>
@@ -51,16 +52,16 @@ Commandements de sa Majesté.</adresse>
 </div>
 
 <castList><head>Les Acteurs</head>
-	<castItem><role id="TAMERLAN" civil='M' type="H" statut='roi' age='A' stat_amour='néant'>TAMERLAN</role>, grand Khan des Tartares.</castItem>
-	<castItem><role id="THÉMIR" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>THÉMIR</role>, fils de Tamerlan.</castItem>
-	<castItem><role id="INDARTHIZE" civil='F' type="H" statut='roi' age='A' stat_amour='néant'>INDARTHIZE</role>, femme de Tamerlan.</castItem>
-	<castItem><role id="ZILIM" civil='M' type="H" statut='lieutenant' age='A' stat_amour='néant'>ZILIM</role>, lieutenant des Gardes de Tamerlan.</castItem>
-	<castItem><role id="MANSOR" civil='M' type="H" statut='capitaine' age='A' stat_amour='néant'>MANSOR</role>, capitaine des Gardes du même.</castItem>
-	<castItem><role id="BAJAZET" civil='M' type="H" statut='empereur' age='A' stat_amour='néant'>BAJAZET</role>, grand Empereur des Turcs.</castItem>
-	<castItem><role id="ORCAZIE" civil='F' type="H" statut='empereur' age='A' stat_amour='néant'>ORCAZIE</role>, femme de Bajazet</castItem>
-	<castItem><role id="DORIZE" civil='F' type="H" statut='confident' age='A' stat_amour='néant'>DORIZE</role>, confidente de Roxalie.</castItem>
-	<castItem><role id="SELIM" civil='M' type="H" statut='vizir' age='A' stat_amour='néant'>SELIM</role>, grand vizir de Bajazet.</castItem>
-	<castItem><role id="TROUPE-de-SOLDATS" civil='G' type="H" statut='sooldat' age='A' stat_amour='néant'>Toupes de soldats</role>.</castItem>
+	<castItem><role id="TAMERLAN" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>TAMERLAN</role>, grand Khan des Tartares.</castItem>
+	<castItem><role id="THÉMIR" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>THÉMIR</role>, fils de Tamerlan.</castItem>
+	<castItem><role id="INDARTHIZE" sex="2" type="H" statut='roi' age='A' stat_amour='néant'>INDARTHIZE</role>, femme de Tamerlan.</castItem>
+	<castItem><role id="ZILIM" sex="1" type="H" statut='lieutenant' age='A' stat_amour='néant'>ZILIM</role>, lieutenant des Gardes de Tamerlan.</castItem>
+	<castItem><role id="MANSOR" sex="1" type="H" statut='capitaine' age='A' stat_amour='néant'>MANSOR</role>, capitaine des Gardes du même.</castItem>
+	<castItem><role id="BAJAZET" sex="1" type="H" statut='empereur' age='A' stat_amour='néant'>BAJAZET</role>, grand Empereur des Turcs.</castItem>
+	<castItem><role id="ORCAZIE" sex="2" type="H" statut='empereur' age='A' stat_amour='néant'>ORCAZIE</role>, femme de Bajazet</castItem>
+	<castItem><role id="DORIZE" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>DORIZE</role>, confidente de Roxalie.</castItem>
+	<castItem><role id="SELIM" sex="1" type="H" statut='vizir' age='A' stat_amour='néant'>SELIM</role>, grand vizir de Bajazet.</castItem>
+	<castItem><role id="TROUPE-de-SOLDATS" sex="9" type="H" statut='sooldat' age='A' stat_amour='néant'>Toupes de soldats</role>.</castItem>
 	</castList>
 <set location='Galatie' country='Turquie' periode='Vème avant JC' link=''>La scène est dans la Galatie en la tente de Tamerlan. </set>
 </front>

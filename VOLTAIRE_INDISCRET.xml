@@ -7,9 +7,10 @@
 				<author born='1694' born_location='Paris' death='1778' death_location='Paris' academie='1746'>VOLTAIRE</author>
 				<date>1738</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<authority>publié par Paul FIEVRE, juillet 2011/</authority>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -68,14 +69,14 @@
 <p type='v'>Ou par un excès de tendresse ?</p>
 </epitre>
 <castList><head>PERSONNAGES</head>
-	<castItem><role id='EUPHÉMIE' civil='F'>EUPHÉMIE</role>.</castItem>
-	<castItem><role id='DAMIS' civil='M'>DAMIS</role>.</castItem>
-	<castItem><role id='HORTENSE' civil='F'>HORTENSE</role>.</castItem>
-	<castItem><role id='TRASIMON' civil='M'>TRASIMON</role>.</castItem>
-	<castItem><role id='CLITANDRE' civil='M'>CLITANDRE</role>.</castItem>
-	<castItem><role id='NÉRINE' civil='F'>NÉRINE</role>.</castItem>
-	<castItem><role id='PASQUIN' civil='M'>PASQUIN</role>.</castItem>
-	<castItem><role id='LAQUAIS' civil='G'>Plusieurs laquais de Damis</role>.</castItem>
+	<castItem><role id='EUPHÉMIE' sex="2">EUPHÉMIE</role>.</castItem>
+	<castItem><role id='DAMIS' sex="1">DAMIS</role>.</castItem>
+	<castItem><role id='HORTENSE' sex="2">HORTENSE</role>.</castItem>
+	<castItem><role id='TRASIMON' sex="1">TRASIMON</role>.</castItem>
+	<castItem><role id='CLITANDRE' sex="1">CLITANDRE</role>.</castItem>
+	<castItem><role id='NÉRINE' sex="2">NÉRINE</role>.</castItem>
+	<castItem><role id='PASQUIN' sex="1">PASQUIN</role>.</castItem>
+	<castItem><role id='LAQUAIS' sex="9">Plusieurs laquais de Damis</role>.</castItem>
 </castList>
 <set location='Cognac' country='France' periode='XVIIIème' link=''>.</set>
 </front>

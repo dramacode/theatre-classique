@@ -6,9 +6,10 @@
 				<title>LES ACTEURS DÉPLACÉS, OU L'AMANT COMEDIEN</title>
 				<author born='1698' born_location='' death='1753' death_location='' academie=''>L'AFFICHARD, Thomas</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE Février 2012</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -52,29 +53,30 @@
 			<premiere date='1735-10-14' location='Hôtel Guénégaud'>Représentée pour la première sois par les Comédiens ordinaires du Roi, le 14 Octobre 1735.</premiere>
 		</performance>
 	<castList><head>ACTEURS DU PROLOGUE.</head>
-		<castItem><role id="LA VILLE" civil="A" type="H" statut='' age='A' stat_amour='néant'>LA VILLE DE PARIS</role> personnifiée par Melle DUBOCAGE.</castItem>
-		<castItem><role id="LA FOLIE" civil="A" type="H" statut='' age='A' stat_amour='néant'>LA FOLIE</role>, déguisée en auteur, Melle DANGEVILLE, jeune.</castItem>
-		<castItem><role id="MADAME DANGEVILLE" civil="F" type="H" statut='' age='A' stat_amour='néant'>MADAME DANGEVILLE</role>.</castItem>
-		<castItem><role id="MONSIEUR POISSON" civil="M" type="H" statut='' age='A' stat_amour='néant'>MONSIEUR POISSON</role>.</castItem>
-		<castItem><role id="MONSIEUR DE MONT-MENY" civil="M" type="H" statut='' age='A' stat_amour='néant'>MONSIEUR DE MONT-MENY</role>.</castItem>
-		<castItem><role id="MONSIEUR DE LA THORILLIÈRE" civil="M" type="H" statut='' age='A' stat_amour='néant'>MONSIEUR DE LA THORILLIÈRE</role>.</castItem>
-		<castItem><role id="MONSIEUR FLEURY" civil="M" type="H" statut='' age='A' stat_amour='néant'>MONSIEUR FLEURY</role>.</castItem>
-		<castItem><role id="MADEMOISELLE GRANDVAL" civil="F" type="H" statut='' age='A' stat_amour='néant'>MADEMOISELLE GRANDVAL</role>.</castItem>
-		<castItem><role id="LE PETIT ARMAND" civil="M" type="H" statut='' age='A' stat_amour='néant'>LE PETIT ARMAND</role>.</castItem>
-		<castItem><role id="LA PETITE DEHAND" civil="F" type="H" statut='' age='A' stat_amour='néant'>LA PETITE DEHAND</role>.</castItem>
+		<castItem><role id="LA VILLE" sex="2" type="P" statut='personnification' age='A' stat_amour='néant'>LA VILLE DE PARIS</role> personnifiée par Melle DUBOCAGE.</castItem>
+		<castItem><role id="LA FOLIE" sex="2" type="P" statut='allégorie' age='A' stat_amour='néant'>LA FOLIE</role>, déguisée en auteur, Melle DANGEVILLE, jeune.</castItem>
+		<castItem><role id="MADAME DANGEVILLE" sex="2" type="H" statut='comédien' age='A' stat_amour='néant'>MADAME DANGEVILLE</role>.</castItem>
+		<castItem><role id="MONSIEUR POISSON" sex="1" type="H" statut='comédien' age='A' stat_amour='néant'>MONSIEUR POISSON</role>.</castItem>
+		<castItem><role id="MONSIEUR DE MONT-MENY" sex="1" type="H" statut='comédien' age='A' stat_amour='néant'>MONSIEUR DE MONT-MENY</role>.</castItem>
+		<castItem><role id="MONSIEUR DE LA THORILLIÈRE" sex="1" type="H" statut='comédien' age='A' stat_amour='néant'>MONSIEUR DE LA THORILLIÈRE</role>.</castItem>
+		<castItem><role id="MONSIEUR FLEURY" sex="1" type="H" statut='comédien' age='A' stat_amour='néant'>MONSIEUR FLEURY</role>.</castItem>
+		<castItem><role id="MADEMOISELLE GRANDVAL" sex="2" type="H" statut='comédien' age='A' stat_amour='néant'>MADEMOISELLE GRANDVAL</role>.</castItem>
+		<castItem><role id="LE PETIT ARMAND" sex="1" type="H" statut='comédien' age='A' stat_amour='néant'>LE PETIT ARMAND</role>.</castItem>
+		<castItem><role id="LA PETITE DEHAND" sex="2" type="H" statut='comédien' age='A' stat_amour='néant'>LA PETITE DEHAND</role>.</castItem>
 	</castList>
 	<note>La Scène du prologue est sur le théâtre de la Comédie française.</note>
 	<castList><head>ACTEURS.</head>
-		<castItem><role id="MONSIEUR-MONDOR" civil="M" type="H" statut='' age='A' stat_amour='néant'>MONSIEUR MONDOR</role>, père de Lucile, le petit Armand.</castItem>
-		<castItem><role id="MADAME-MONDOR" civil="F" type="H" statut='' age='A' stat_amour='néant'>MADAME MONDOR</role>, la petite Dehand.</castItem>
-		<castItem><role id="DORANTE" civil="M" type="H" statut='' age='A' stat_amour='néant'>DORANTE</role>, fils de l'Élu, Amant de Lucile, M. Poisson.</castItem>
-		<castItem><role id="LUCILE" civil="F" type="H" statut='' age='A' stat_amour='néant'>LUCILE</role>, Amante de Dorante, Madame Dangeville..</castItem>
-		<castItem><role id="LE-MARQUIS" civil="M" type="H" statut='' age='A' stat_amour='néant'>Le Marquis DE BOIS-SEC</role>, frère de l'Élu, M. de La Thorillière.</castItem>
-		<castItem><role id="L-ÉLU-DE-BEAUJEU" civil="M" type="H" statut='' age='A' stat_amour='néant'>L'ÉLU DE BEAUJEU</role>, père de Dorante , M. de Fierville.</castItem>
-		<castItem><role id="LEDA" civil="F" type="H" statut='' age='A' stat_amour='néant'>LEDA</role>, mère d'Hélène, Reine de Sparte, Monsieur de Mont-Meny.</castItem>
-		<castItem><role id="DORIS" civil="F" type="H" statut='' age='A' stat_amour='néant'>DORIS</role>, Confidente de Leda et d'Helene, M. Fleury.</castItem>
-		<castItem><role id="LISETTE" civil="F" type="H" statut='' age='A' stat_amour='néant'>LISETTE</role>, suivante de Lucile, Mademoiselle Grandval.</castItem>
-		<castItem><role id="LUCAS" civil="M" type="H" statut='' age='A' stat_amour='néant'>LUCAS</role>, Jardinier de Monsieur et Madame Mondor, Mademoiselle Dangeville jeune.</castItem>
+		<castItem><role id="MONSIEUR MONDOR" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>MONSIEUR MONDOR</role>, père de Lucile, le petit Armand.</castItem>
+		<castItem><role id="MADAME MONDOR" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>MADAME MONDOR</role>, la petite Dehand.</castItem>
+		<castItem><role id="DORANTE" sex="1" type="H" statut='' age='J' stat_amour='Lucile'>DORANTE</role>, fils de l'Élu, Amant de Lucile, M. Poisson.</castItem>
+		<castItem><role id="LUCILE" sex="2" type="H" statut='' age='J' stat_amour='Dorante'>LUCILE</role>, Amante de Dorante, Madame Dangeville..</castItem>
+		<castItem><role id="LE MARQUIS" sex="1" type="H" statut='marquis' age='A' stat_amour='néant'>LE MARQUIS DE BOIS-SEC</role>, frère de l'Élu, M. de La Thorillière.</castItem>
+		<castItem><role id="L'ÉLU DE BEAUJEU" sex="1" type="H" statut='élu' age='A' stat_amour='néant'>L'ÉLU DE BEAUJEU</role>, père de Dorante , M. de Fierville.</castItem>
+		<castItem><role id="MÉNÉLAS" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>MÉNÉLAS</role>, Roi Sparte, Monsieur de Mont-Meny.</castItem>
+		<castItem><role id="LÉDA" sex="2" type="H" statut='roi' age='A' stat_amour='néant'>LÉDA</role>, mère d'Hélène, Reine de Sparte.</castItem>
+		<castItem><role id="DORIS" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>DORIS</role>, Confidente de Léda et d'Hélène, M. Fleury.</castItem>
+		<castItem><role id="LISETTE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>LISETTE</role>, suivante de Lucile, Mademoiselle Grandval.</castItem>
+		<castItem><role id="LUCAS" sex="1" type="H" statut='jardinier' age='A' stat_amour='néant'>LUCAS</role>, Jardinier de Monsieur et Madame Mondor, Mademoiselle Dangeville jeune.</castItem>
 	</castList>
 	<set location='Lyon' country='France' periode='XVIIIème' link=''>La Scène est a la maison de campagne de Monsieur et Madame Monder, proche Lyon.</set>
 </front>

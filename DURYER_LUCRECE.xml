@@ -7,9 +7,10 @@
 				<author born='1605' born_location='Paris' death='1658' death_location='Paris' academie=''>DU RYER, Pierre</author>
 				<date>1638</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<authority>publié par Ernest FIEVRE, août 2008, revu septembre 2014.</authority>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire romaine</inspiration>
@@ -47,15 +48,15 @@
 <signature>DU RYER.</signature>
 </div>
 <castList><head>LES ACTEURS.</head>
-	<castItem><role id="TARQUIN" civil="M" type="H" statut='empereur' age='A' stat_amour='néant'>TARQUIN</role>, fils de Tarquin le Superbe.</castItem>
-	<castItem><role id="COLLATIN" civil="M" type="H" statut='aristocrate' age='A' stat_amour='néant'>COLLATIN</role>, mari de Lucrèce.</castItem>
-	<castItem><role id="LUCRÈCE" civil="F" type="H" statut='aristocrate' age='A' stat_amour='néant'>LUCRÈCE</role>.</castItem>
-	<castItem><role id="BRUTE" civil="M" type="H" statut='aristocrate' age='A' stat_amour='néant'>BRUTE</role>, ami de Collatin.</castItem>
-	<castItem><role id="LIVIE" civil="F" type="H" statut='suivante' age='A' stat_amour='néant'>LIVIE</role>, demoiselle de Lucrèce.</castItem>
-	<castItem><role id="CORNELIE" civil="F" type="H" statut='suivante' age='A' stat_amour='néant'>CORNÉLIE</role>, demoiselle de Lucrèce.</castItem>
-	<castItem><role id="LIBANE" civil="M" type="H" statut='esclave' age='A' stat_amour='néant'>LIBANE</role>, esclave de Tarquin.</castItem>
-	<castItem><role id="PROCULE" civil="M" type="H" statut='domestique' age='A' stat_amour='néant'>PROCULE</role>, domestique de Lucrèce.</castItem>
-	<castItem><role id="LE_PERE" civil="M" type="H" statut='aristocrate' age='A' stat_amour='néant'>LE PÈRE</role> de Lucrèce.</castItem>
+	<castItem><role id="TARQUIN" sex="1" type="H" statut='empereur' age='A' stat_amour='néant'>TARQUIN</role>, fils de Tarquin le Superbe.</castItem>
+	<castItem><role id="COLLATIN" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>COLLATIN</role>, mari de Lucrèce.</castItem>
+	<castItem><role id="LUCRÈCE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>LUCRÈCE</role>.</castItem>
+	<castItem><role id="BRUTE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>BRUTE</role>, ami de Collatin.</castItem>
+	<castItem><role id="LIVIE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>LIVIE</role>, demoiselle de Lucrèce.</castItem>
+	<castItem><role id="CORNELIE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>CORNÉLIE</role>, demoiselle de Lucrèce.</castItem>
+	<castItem><role id="LIBANE" sex="1" type="H" statut='esclave' age='A' stat_amour='néant'>LIBANE</role>, esclave de Tarquin.</castItem>
+	<castItem><role id="PROCULE" sex="1" type="H" statut='domestique' age='A' stat_amour='néant'>PROCULE</role>, domestique de Lucrèce.</castItem>
+	<castItem><role id="LE_PERE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>LE PÈRE</role> de Lucrèce.</castItem>
 </castList>
 <set location='Rome' country='Italie' periode='VIème avant JC' link=''>La Scène est le Château de Collatie.</set>
 </front>

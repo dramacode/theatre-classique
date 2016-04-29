@@ -7,10 +7,11 @@
 				<author born='1632' born_location='Rouen' death='1698' death_location='Paris' academie=''>PRADON, Nicolas</author>
 				<date>1677</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<editor>Texte établi par Gladys COTTREZ (Master I de Lettres modernes - Université de la Sorbonne Paris IV, 2011-2012) sour la direction de Georges Forestier.</editor>
 				<publisher>publié par Paul FIEVRE, mars 2012</publisher>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire antique</inspiration>
@@ -49,15 +50,15 @@
 	</div>
 
 		<castList><head>ACTEURS</head>
-			<castItem><role id="STATIRA" civil='F' type="H" statut='roi' age='A' stat_amour='néant'>STATIRA</role>, fille de Darius, veuve d'Alexandre.</castItem>
-			<castItem><role id="ROXANE" civil='F' type="H" statut='roi' age='A' stat_amour='néant'>ROXANE</role>, fille de Cohortan, Satrape de Perse, veuve d'Alexandre.</castItem>
-			<castItem><role id="LÉONATUS" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>LÉONATUS</role>, Prince du Sang d'Alexandre, et un de ses Successeurs.</castItem>
-			<castItem><role id="PERDICCAS" civil='M' type="H" statut='général' age='A' stat_amour='néant'>PERDICCAS</role>, un des premiers Chefs de l'armée d'Alexandre.</castItem>
-			<castItem><role id="CASSANDER" civil='M' type="H" statut='gouverneur' age='A' stat_amour='néant'>CASSANDER</role>, fils d'Antipater, Gouverneur de la Macédoine.</castItem>
-			<castItem><role id="HÉSIONE" civil='F' type="H" statut='confident' age='A' stat_amour='néant'>HÉSIONE</role>, confidente de Roxane.</castItem>
-			<castItem><role id="CLÉONE" civil='F' type="H" statut='confident' age='A' stat_amour='néant'>CLÉONE</role>, confidente de Statira.</castItem>
-			<castItem><role id="PEUCESTAS" civil='M' type="H" statut='confident' age='A' stat_amour='néant'>PEUCESTAS</role>, Confident de Cassander.</castItem>
-			<castItem><role id="GARDES" civil='G' type="H" statut='garde' age='A' stat_amour='néant'>GARDES</role>, et Suite de Gardes.</castItem>
+			<castItem><role id="STATIRA" sex="2" type="H" statut='roi' age='A' stat_amour='néant'>STATIRA</role>, fille de Darius, veuve d'Alexandre.</castItem>
+			<castItem><role id="ROXANE" sex="2" type="H" statut='roi' age='A' stat_amour='néant'>ROXANE</role>, fille de Cohortan, Satrape de Perse, veuve d'Alexandre.</castItem>
+			<castItem><role id="LÉONATUS" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>LÉONATUS</role>, Prince du Sang d'Alexandre, et un de ses Successeurs.</castItem>
+			<castItem><role id="PERDICCAS" sex="1" type="H" statut='général' age='A' stat_amour='néant'>PERDICCAS</role>, un des premiers Chefs de l'armée d'Alexandre.</castItem>
+			<castItem><role id="CASSANDER" sex="1" type="H" statut='gouverneur' age='A' stat_amour='néant'>CASSANDER</role>, fils d'Antipater, Gouverneur de la Macédoine.</castItem>
+			<castItem><role id="HÉSIONE" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>HÉSIONE</role>, confidente de Roxane.</castItem>
+			<castItem><role id="CLÉONE" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>CLÉONE</role>, confidente de Statira.</castItem>
+			<castItem><role id="PEUCESTAS" sex="1" type="H" statut='confident' age='A' stat_amour='néant'>PEUCESTAS</role>, Confident de Cassander.</castItem>
+			<castItem><role id="GARDES" sex="9" type="H" statut='garde' age='A' stat_amour='néant'>GARDES</role>, et Suite de Gardes.</castItem>
 		</castList>
 		<set location='Babylone' country='Perse' periode='IVème avant JC' link=''>La Scène est dans Babylone, dans le Palais de Cyrus.</set>
 		

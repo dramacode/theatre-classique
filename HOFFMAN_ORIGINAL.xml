@@ -6,9 +6,10 @@
 				<title>L'ORIGINAL, COMÉDIE</title>
 				<author born='1760' born_location='Nancy' death='1828' death_location='Paris' academie=''>HOFFMANN, François-Benoît</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, octobre 2013</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -41,9 +42,9 @@
 			<premiere date='1796-07-30' location='Théâtre des Variétés-Montansier'>Représentée sur le Théâtre Feydeau, par les Comédiens Français le 30 juillet 1796. </premiere>
 		</performance>
 		<castList><head>PERSONNAGES.	ARTISTES.</head>
-				<castItem><role id='CÉLIMÈNE' civil='F' type="H" statut="bourgeois" age="A" stat_amour='néant'>CÉLIMÈNE</role>. Melle Contat.</castItem>
-				<castItem><role id='DAMIS' civil='M' type="H" statut="bourgeois" age="A" stat_amour='néant'>DAMIS</role>. M. Fleury.</castItem>
-				<castItem><role id='LINVAL' civil='M' type="H" statut="bourgeois" age="A" stat_amour='néant'>LINVAL</role>. M. Dupont</castItem>
+				<castItem><role id='CÉLIMÈNE' sex="2" type="H" statut="bourgeois" age="A" stat_amour='néant'>CÉLIMÈNE</role>. Melle Contat.</castItem>
+				<castItem><role id='DAMIS' sex="1" type="H" statut="bourgeois" age="A" stat_amour='néant'>DAMIS</role>. M. Fleury.</castItem>
+				<castItem><role id='LINVAL' sex="1" type="H" statut="bourgeois" age="A" stat_amour='néant'>LINVAL</role>. M. Dupont</castItem>
 		</castList>
 		<set location='À la campagne' country='France' periode='XVIIIème' link=''>La scène se passe à la campagne chez Célimène.</set>
 		</front>

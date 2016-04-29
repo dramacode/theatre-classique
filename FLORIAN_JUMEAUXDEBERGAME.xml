@@ -6,9 +6,10 @@
 			<title>LES JUMEAUX DE BERGAME, COMÉDIE</title>
 			<author born='1755' born_location='' death='1794' death_location='Paris' academie=''>FLORIAN, Jean Pierre Claris de</author>
 		</titleStmt>
-		<publicationStmp>	
+		<publicationStmt>	
 			<p>publié par Paul FIEVRE, mars 2013</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 				<genre>Comédie</genre>	
 				<inspiration>moeurs françaises</inspiration>
@@ -34,10 +35,10 @@
 			<premiere date="1782-08-06" location="Hôtel de Bourgogne">Représentée pour La première fois sur le théâtre italien, le mardi 6 août 1782.</premiere>
 		</performance>
 		<castList><head>ACTEURS</head>
-			<castItem><role id="ARLEQUIN" civil='M' type="H" statut='bourgeois' age='A' stat_amour='amoureux'>ARLEQUIN</role>.</castItem>
-			<castItem><role id="ARLEQUIN CADET" civil='F' type="H" statut='bourgeois' age='A' stat_amour='amoureux'>ARLEQUIN CADET</role>, son jumeau.</castItem>
-			<castItem><role id="ROSETTE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='amoureux'>ROSETTE</role>.</castItem>
-			<castItem><role id="NÉRINE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='amoureux'>NÉRINE</role>.</castItem>
+			<castItem><role id="ARLEQUIN" sex="1" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>ARLEQUIN</role>.</castItem>
+			<castItem><role id="ARLEQUIN CADET" sex="2" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>ARLEQUIN CADET</role>, son jumeau.</castItem>
+			<castItem><role id="ROSETTE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>ROSETTE</role>.</castItem>
+			<castItem><role id="NÉRINE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>NÉRINE</role>.</castItem>
 		</castList>
 		<set location='Paris' country='France' periode='XVIIIème' link=''>La scène est à Paris, dans une place publique où est la maison de Rosette. À la porte de cette maison doit être un banc de pierre.</set>
 	</front>

@@ -6,9 +6,10 @@
 				<title>LE FAUX HONNÊTE HOMME, COMÉDIE EN TROIS ACTES.</title>
 				<author born='1657' born_location='Paris' death='1724' death_location='Paris' academie=''>DUFRESNY, Charles</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE février 2012</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -42,15 +43,15 @@
 			<premiere date='1703-02-24' location='Théâtre de la rue des Fossés Saint-Germain'>Représentée pour la première fois, le 24 février  1703 au Théâtre de la rue des Fossés Saint-Germain. </premiere>
 		</performance>
 	<castList><head>ACTEURS</head>
-		<castItem><role id="ARISTE" civil="M" type="H" statut='bourgeois' age='A' stat_amour='néant'>ARISTE</role>.</castItem>
-		<castItem><role id="LA-VEUVE" civil="F" type="H" statut='bourgeois' age='A' stat_amour='néant'>LA VEUVE</role>.</castItem>
-		<castItem><role id="FROSINE" civil="F" type="H" statut='suivante' age='A' stat_amour='néant'>FROSINE</role>, suivante de la Veuve.</castItem>
-		<castItem><role id="ANGÉLIQUE" civil="F" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>ANGÉLIQUE</role>, fille de la Veuve.</castItem>
-		<castItem><role id="LE-CAPITAINE" civil="M" type="H" statut='capitaine' age='A' stat_amour='néant'>LE CAPITAINE</role>.</castItem>
-		<castItem><role id="LA-MARQUISE" civil="F" type="H" statut='marquis' age='A' stat_amour='néant'>LA MARQUISE</role>, mère de Valère.</castItem>
-		<castItem><role id="JASMIN" civil="M" type="H" statut='bourgeois' age='A' stat_amour='néant'>JASMIN</role>.</castItem>
-		<castItem><role id="VALÈRE" civil="M" type="H" statut='aristocrate' age='A' stat_amour='amoureux'>VALÈRE</role>, amant d'Angélique.</castItem>
-		<castItem><role id="FLAMAND" civil="F" type="H" statut='valet' age='A' stat_amour='néant'>FLAMAND</role>, valet d'Ariste.</castItem>
+		<castItem><role id="ARISTE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>ARISTE</role>.</castItem>
+		<castItem><role id="LA-VEUVE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>LA VEUVE</role>.</castItem>
+		<castItem><role id="FROSINE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>FROSINE</role>, suivante de la Veuve.</castItem>
+		<castItem><role id="ANGÉLIQUE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>ANGÉLIQUE</role>, fille de la Veuve.</castItem>
+		<castItem><role id="LE-CAPITAINE" sex="1" type="H" statut='capitaine' age='A' stat_amour='néant'>LE CAPITAINE</role>.</castItem>
+		<castItem><role id="LA-MARQUISE" sex="2" type="H" statut='marquis' age='A' stat_amour='néant'>LA MARQUISE</role>, mère de Valère.</castItem>
+		<castItem><role id="JASMIN" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>JASMIN</role>.</castItem>
+		<castItem><role id="VALÈRE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='amoureux'>VALÈRE</role>, amant d'Angélique.</castItem>
+		<castItem><role id="FLAMAND" sex="2" type="H" statut='valet' age='A' stat_amour='néant'>FLAMAND</role>, valet d'Ariste.</castItem>
 	</castList>
 	<set location='Paris' country='France' periode='XVIIIème' link=''></set>
 </front>

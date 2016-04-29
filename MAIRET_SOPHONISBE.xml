@@ -6,9 +6,10 @@
 				<title>SOPHONISBE, TRAGÉDIE</title>
 				<author born='1604' born_location='Besançon' death='1686' death_location='Besançon' academie=''>MAIRET, Jean</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE</p><p>Mai 2006</p>
-			</publicationStmp>
+				<idno>MAIRET_SOPHONISBE</idno>
+			</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire romaine</inspiration>
@@ -17,10 +18,6 @@
 				<periode>1631-1640</periode>
 				<taille>1750-2000</taille>
 				<permalien>http://gallica.bnf.fr/ark:/12148/bpt6k1097788</permalien>
-				<sources>
-					<source id='1'><author></author><text></text></source>
-				</sources>	
-
 			</SourceDesc>
 		</fileDesc>
 </teiHeader>
@@ -41,18 +38,18 @@
 			<premiere date='1629' location='(inconnue)'>Représenté pour la première fois en en 1629.</premiere>
 		</performance>
 	<castList><head>ACTEURS</head>
-		<castItem><role id="SYPHAX" civil='M' type="H" statut="roi" age="A" stat_amour='néant'>SYPHAX</role>, roi de Numidie.</castItem>
-		<castItem><role id="PHILON" civil='M' type="H" statut="général" age="A" stat_amour='néant'>PHILON</role>, général de Syphax.</castItem>
-		<castItem><role id="MASSINISSE" civil='M' type="H" statut="aristocrate" age="A" stat_amour='amoureux'>MASSINISSE</role>, ennemi de Syphax.</castItem>
-		<castItem><role id="SCIPION" civil='M' type="H" statut="consul" age="A" stat_amour='néant'>SCIPION</role>, consul romain.</castItem>
-		<castItem><role id="LÉLIE" civil='M' type="H" statut="lieutenant" age="A" stat_amour='néant'>LÉLIE</role>, lieutenant de Scipion.</castItem>
-		<castItem><role id="CALIODORE" civil='M' type="H" statut="domestique" age="A" stat_amour='néant'>CALIODORE</role>, domestique de Sophonisbe.</castItem>
-		<castItem><role id="ARISTON" civil='M' type="H" statut="soldat" age="A" stat_amour='néant'>ARISTON</role>, soldat romain.</castItem>
-		<castItem><role id="SOPHONISBE" civil='M' type="H" statut="roi" age="A" stat_amour='amoureux'>SOPHONISBE</role>, femme de Syphax, et amoureuse de Massinisse.</castItem>
-		<castItem><role id="CORISBÉ" civil='M' type="H" statut="confident" age="A" stat_amour='néant'>CORISBÉ</role>, confidente de Sophonisbe.</castItem>
-		<castItem><role id="PHÉNICE" civil='M' type="H" statut="confident" age="A" stat_amour='néant'>PHÉNICE</role>, confidente de Sophonisbe.</castItem>
-		<castItem><role id="PHILIPPE" civil='M' type="H" statut="aristocrate" age="A" stat_amour='néant'>PHILIPPE</role>.</castItem>
-		<castItem><role id="SOLDATS" civil='M' type="H" statut="soldat" age="A" stat_amour='néant'>SOLDATS</role>.</castItem>
+		<castItem><role id="SYPHAX" sex="1" type="H" statut="roi" age="A" stat_amour='néant'>SYPHAX</role>, roi de Numidie.</castItem>
+		<castItem><role id="PHILON" sex="1" type="H" statut="général" age="A" stat_amour='néant'>PHILON</role>, général de Syphax.</castItem>
+		<castItem><role id="MASSINISSE" sex="1" type="H" statut="aristocrate" age="A" stat_amour='amoureux'>MASSINISSE</role>, ennemi de Syphax.</castItem>
+		<castItem><role id="SCIPION" sex="1" type="H" statut="consul" age="A" stat_amour='néant'>SCIPION</role>, consul romain.</castItem>
+		<castItem><role id="LÉLIE" sex="1" type="H" statut="lieutenant" age="A" stat_amour='néant'>LÉLIE</role>, lieutenant de Scipion.</castItem>
+		<castItem><role id="CALIODORE" sex="1" type="H" statut="domestique" age="A" stat_amour='néant'>CALIODORE</role>, domestique de Sophonisbe.</castItem>
+		<castItem><role id="ARISTON" sex="1" type="H" statut="soldat" age="A" stat_amour='néant'>ARISTON</role>, soldat romain.</castItem>
+		<castItem><role id="SOPHONISBE" sex="1" type="H" statut="roi" age="A" stat_amour='amoureux'>SOPHONISBE</role>, femme de Syphax, et amoureuse de Massinisse.</castItem>
+		<castItem><role id="CORISBÉ" sex="1" type="H" statut="confident" age="A" stat_amour='néant'>CORISBÉ</role>, confidente de Sophonisbe.</castItem>
+		<castItem><role id="PHÉNICE" sex="1" type="H" statut="confident" age="A" stat_amour='néant'>PHÉNICE</role>, confidente de Sophonisbe.</castItem>
+		<castItem><role id="PHILIPPE" sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>PHILIPPE</role>.</castItem>
+		<castItem><role id="SOLDATS" sex="1" type="H" statut="soldat" age="A" stat_amour='néant'>SOLDATS</role>.</castItem>
 	</castList>
 	<set location='Cirta' country='Algérie' periode='IIIème avant JC' link=''>Le Scène est dans Cyrte, ville de Numidie.</set>
 	</front>

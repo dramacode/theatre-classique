@@ -6,9 +6,10 @@
 			<title>ISABELLE GROSSE PAR VERTU, FARCE.</title>
 			<author born='1683' born_location='Paris' death='1766' death_location='Charenton' academie=''>GUEULLETTE, Thomas-Simon</author>
 		</titleStmt>
-		<publicationStmp>
+		<publicationStmt>
 			<publisher>publié par Paul FIEVRE novembre 2013</publisher>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Farce</genre>
 			<inspiration>moeurs françaises</inspiration>
@@ -40,11 +41,11 @@
 		<premiere date='1738' location='En société'>Représentée pour la première fois en société en 1720.</premiere>
 	</performance>
 	<castList><head>PERSONNAGES</head>
-		<castItem><role id="" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>MONSIEUR CASSANDRE</role>.</castItem>
-		<castItem><role id="ISABELLE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>ISABELLE</role>, sa fille.</castItem>
-		<castItem><role id="GILLES" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>GILLES</role>, valet de Cassandre.</castItem>
-		<castItem><role id="LÉANDRE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='Isabelle'>LÉANDRE</role>, amant d'Isabelle.</castItem>
-		<castItem><role id="LE DOCTEUR" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>LE DOCTEUR</role>.</castItem>
+		<castItem><role id="" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>MONSIEUR CASSANDRE</role>.</castItem>
+		<castItem><role id="ISABELLE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>ISABELLE</role>, sa fille.</castItem>
+		<castItem><role id="GILLES" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>GILLES</role>, valet de Cassandre.</castItem>
+		<castItem><role id="LÉANDRE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='Isabelle'>LÉANDRE</role>, amant d'Isabelle.</castItem>
+		<castItem><role id="LE DOCTEUR" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>LE DOCTEUR</role>.</castItem>
 
 	</castList>
 	<set location='Paris' country='France' periode='XVIIIème' link=''>.</set>

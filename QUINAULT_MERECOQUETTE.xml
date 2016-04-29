@@ -6,9 +6,10 @@
 				<title>LA MERE COQUETTE ou LES AMANTS BROUILLES, COMÉDIE</title>
 				<author born='1635' born_location='Paris' death='1688' death_location='Paris' academie='1670'>QUINAULT, Philippe</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, Mai 2006</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -66,14 +67,14 @@
 <p>Vers la fin de sa vie, Quinault entreprit un poème sur l'extinction en France de la religion prétendue réformée. Il mourut à Paris le 19 novembre 1688. </p>
 </div>
 	<castList><head>PERSONNAGES.</head>
-			<castItem><role id="LAURETTE" civil='F' type="H" statut="servante" age="A" stat_amour='néant'>LAURETTE</role>, servante d'Ismène.</castItem>
-			<castItem><role id="CHAMPAGNE" civil='M' type="H" statut="valet" age="A" stat_amour='néant'>CHAMPAGNE</role>, valet de chambre d'Acante.</castItem>
-			<castItem><role id="ACANTE" civil='M' type="H" statut="aristocrate" age="A" stat_amour='amoureux'>ACANTE</role>, amant d'Isabelle.</castItem>
-			<castItem><role id="LE_MARQUIS" civil='M' type="H" statut="marquis" age="A" stat_amour='néant'>LE MARQUIS</role>, cousin d'Acante.</castItem>
-			<castItem><role id="CRÉMANTE" civil='M' type="H" statut="aristocrate" age="A" stat_amour='néant'>CRÉMANTE</role>, père d'Acante.</castItem>
-			<castItem><role id="ISABELLE" civil='F' type="H" statut="bourgeois" age="A" stat_amour='amoureux'>ISABELLE</role>, fille d'Ismène.</castItem>
-			<castItem><role id="ISMÈNE" civil='F' type="H" statut="bourgeois" age="A" stat_amour='néant'>ISMÈNE</role>, mère d'Isabelle.</castItem>
-			<castItem><role id="PAGE" civil='M' type="H" statut="page" age="A" stat_amour='néant'>Le page du marquis</role>.</castItem>
+			<castItem><role id="LAURETTE" sex="2" type="H" statut="servante" age="A" stat_amour='néant'>LAURETTE</role>, servante d'Ismène.</castItem>
+			<castItem><role id="CHAMPAGNE" sex="1" type="H" statut="valet" age="A" stat_amour='néant'>CHAMPAGNE</role>, valet de chambre d'Acante.</castItem>
+			<castItem><role id="ACANTE" sex="1" type="H" statut="aristocrate" age="A" stat_amour='amoureux'>ACANTE</role>, amant d'Isabelle.</castItem>
+			<castItem><role id="LE_MARQUIS" sex="1" type="H" statut="marquis" age="A" stat_amour='néant'>LE MARQUIS</role>, cousin d'Acante.</castItem>
+			<castItem><role id="CRÉMANTE" sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>CRÉMANTE</role>, père d'Acante.</castItem>
+			<castItem><role id="ISABELLE" sex="2" type="H" statut="bourgeois" age="A" stat_amour='amoureux'>ISABELLE</role>, fille d'Ismène.</castItem>
+			<castItem><role id="ISMÈNE" sex="2" type="H" statut="bourgeois" age="A" stat_amour='néant'>ISMÈNE</role>, mère d'Isabelle.</castItem>
+			<castItem><role id="PAGE" sex="1" type="H" statut="page" age="A" stat_amour='néant'>Le page du marquis</role>.</castItem>
 	</castList>
 <set location='Paris' country='France' periode='XVIIème' link=''>La scène est à Paris, dans une salle du logis d'Ismène. </set>
 </front>

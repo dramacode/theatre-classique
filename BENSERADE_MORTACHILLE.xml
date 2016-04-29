@@ -6,9 +6,10 @@
 				<title>LA MORT D'ACHILLE et la DISPUTE DES ARMES, TRAGEDIE</title>
 				<author born='1613' born_location='Lyons-la-Forêt' death='1691' death_location='Gentilly' academie='1674'>BENSÉRADE, Isaac de</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE janvier 2009, revu octobre 2014</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>mythe grec</inspiration>
@@ -53,20 +54,20 @@
 	<p>Le sujet de cette Tragédie est assez fameux pour n'être pas ignoré de ceux qui la liront, puisque les plus beaux gestes de celui qui en est le héros sont écrits d'un style si merveilleux par le divin Homère ; quelques auteurs comme Dares Phrygius, et Dictys Cretensis, en parlent historiquement, et avec plus de vraisemblance, j'ai pris des uns et des autres ce que j'en ai jugé nécessaire pour l'embellissement de la chose sans en altérer la vérité. Je m'assure que l'on m'accusera d'avoir ici choqué les lois fondamentales du poème dramatique en ce que j'ajoute à la mort d'Achille, qui est mon objet, la dispute de ses armes, et la mort d'Ajax, qui semble être une pièce détachée, mais je m'imagine que mon action n'en est pas moins une, et que cette dispute et cette mort qui pourrait ailleurs tenir lieu d'une principale action ne doit être ici considérée qu'en qualité d'épisode et d'incident, vu qu'elle regarde principalement Achille, et qu'elle n'est pas le véritable but de ma tragédie, bien que ce soit par où elle finit, s'il fallait toujours finir par la mort du premier acteur, le théâtre se verrait souvent dépouillé de ses plus beaux ornements, la mort de César ne serait pas suivie du pitoyable spectacle de sa chemise sanglante qui fait un si merveilleux effet ; et qui pousse si avant dans les coeurs la compassion, le regret, et le désir de vengeance, quand Ajax se tue du désespoir d'être frustré des armes d'Achille, il ne donne pas tant une marque de sa générosité qu'il laisse un témoignage du mérite de ce qu'il recherchait, et par conséquent cet acte ne tend qu'à l'honneur de mon héros. En tout cas si j'ai failli pardonne moi, et puisqu'il ne m'est pas permis d'espérer une juste louange de la meilleure de mes productions, souffre que je tire un peu de gloire de la plus belle de mes fautes.</p>
 	</div>
 	<castList><head>PERSONNAGES</head>
-		<castItem><role id="ACHILLE" civil="M" type="H" statut='roi' age='A' stat_amour='Briséide'>ACHILLE</role>.</castItem>
-		<castItem><role id="BRISEIDE" civil="F" type="H" statut='eclave' age='A' stat_amour='néant'>BRISÉIDE</role>, sa captive.</castItem>
-		<castItem><role id="ALCIMEDE" civil="M" type="H" statut='écuyer' age='A' stat_amour='néant'>ALCIMÈDE</role>, écuyer d'Achille.</castItem>
-		<castItem><role id="PRIAM"  civil="M" type="H" statut='roi' age='A' stat_amour='marié'>PRIAM</role>, roi de Troie.</castItem>
-		<castItem><role id="HECUBE" civil="F" type="H" statut='roi' age='A' stat_amour='marié'>HÉCUBE</role>, sa femme.</castItem>
-		<castItem><role id="POLIXENE" civil="F" type="H" statut='prince' age='A' stat_amour='néant'>POLIXÈNE</role>, leur fille.</castItem>
-		<castItem><role id="PERIS" civil="M" type="H" statut='prince' age='prince' stat_amour='néant'>PÂRIS</role>, leur fils.</castItem>
-		<castItem><role id="DEIPHOBE" civil="M" type="H" statut='prince' age='A' stat_amour='néant'>DEIPHOBE</role>, leur fils.</castItem>
-		<castItem><role id="AJAX" civil="M" type="H" statut='capitaine' age='A' stat_amour='néant'>AJAX</role>, capitaine grec.</castItem>
-		<castItem><role id="ULYSSE" civil="M" type="H" statut='capitaine' age='A' stat_amour='néant'>ULYSSE</role>, capitaine grec.</castItem>
-		<castItem><role id="AGAMEMNON" civil="M" type="H" statut='général' age='A' stat_amour='néant'>AGAMEMNON</role>, général d'armée.</castItem>
-		<castItem><role id="CONSEIL-DES-GRECS" civil="G" type="H" statut='aristocrate' age='A' stat_amour='néant'>CONSEIL DES GRECS</role>.</castItem>
-		<castItem><role id="TROYENS" civil="G" type="H" statut='soldat' age='A' stat_amour='néant'>TROUPE DE TROYENS</role>.</castItem>
-		<castItem><role id="SOLDAT-GREC" civil="M" type="H" statut='soldat' age='A' stat_amour='néant'>UN SOLDAT GREC</role>.</castItem>
+		<castItem><role id="ACHILLE" sex="1" type="H" statut='roi' age='A' stat_amour='Briséide'>ACHILLE</role>.</castItem>
+		<castItem><role id="BRISEIDE" sex="2" type="H" statut='eclave' age='A' stat_amour='néant'>BRISÉIDE</role>, sa captive.</castItem>
+		<castItem><role id="ALCIMEDE" sex="1" type="H" statut='écuyer' age='A' stat_amour='néant'>ALCIMÈDE</role>, écuyer d'Achille.</castItem>
+		<castItem><role id="PRIAM"  sex="1" type="H" statut='roi' age='A' stat_amour='marié'>PRIAM</role>, roi de Troie.</castItem>
+		<castItem><role id="HECUBE" sex="2" type="H" statut='roi' age='A' stat_amour='marié'>HÉCUBE</role>, sa femme.</castItem>
+		<castItem><role id="POLIXENE" sex="2" type="H" statut='prince' age='J' stat_amour='néant'>POLIXÈNE</role>, leur fille.</castItem>
+		<castItem><role id="PERIS" sex="1" type="H" statut='prince' age='J' stat_amour='néant'>PÂRIS</role>, leur fils.</castItem>
+		<castItem><role id="DEIPHOBE" sex="1" type="H" statut='prince' age='J' stat_amour='néant'>DEIPHOBE</role>, leur fils.</castItem>
+		<castItem><role id="AJAX" sex="1" type="H" statut='capitaine' age='A' stat_amour='néant'>AJAX</role>, capitaine grec.</castItem>
+		<castItem><role id="ULYSSE" sex="1" type="H" statut='capitaine' age='A' stat_amour='néant'>ULYSSE</role>, capitaine grec.</castItem>
+		<castItem><role id="AGAMEMNON" sex="1" type="H" statut='général' age='A' stat_amour='néant'>AGAMEMNON</role>, général d'armée.</castItem>
+		<castItem><role id="CONSEIL-DES-GRECS" sex="9" type="H" statut='aristocrate' age='A' stat_amour='néant'>CONSEIL DES GRECS</role>.</castItem>
+		<castItem><role id="TROYENS" sex="9" type="H" statut='soldat' age='A' stat_amour='néant'>TROUPE DE TROYENS</role>.</castItem>
+		<castItem><role id="SOLDAT-GREC" sex="1" type="H" statut='soldat' age='A' stat_amour='néant'>UN SOLDAT GREC</role>.</castItem>
 </castList>
 <set location='Troie' country='Turquie' periode='Temps mythologiques' link=''></set>
 </front>

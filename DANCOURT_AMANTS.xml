@@ -7,9 +7,10 @@
 				<author born='1661' born_location='Paris' death='1725' death_location='Paris' academie=''>DANCOURT, Florent Carton dit</author>
 				<date>1699</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE novembre 2013, revu décembre 2015</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>mythe grec</inspiration>
@@ -42,12 +43,12 @@
 			<premiere date="1704-06-23" location='Théâtre de la rue des Fossés Saint-Germain'>Représentée pour la première fois le 23 Juin 1704.</premiere>
 		</performance>
 	<castList><head>ACTEURS.</head>
-		<castItem><role id="LA FORTUNE" civil='M' type="A" statut='' age='A' stat_amour='néant'>LA FORTUNE</role>.</castItem>
-		<castItem><role id="NEPTUNE" civil='M' type="D" statut='' age='A' stat_amour='néant'>NEPTUNE</role>.</castItem>
-		<castItem><role id="L'AMOUR" civil='M' type="D" statut='' age='A' stat_amour='néant'>L'AMOUR</role>.</castItem>
-		<castItem><role id="PEUPLE" civil='G' type="H" statut='' age='A' stat_amour='néant'>PLUSIEURS HABITANTS</role> et Habitantes de la Vallée de Tempé.</castItem>
-		<castItem><role id="TRITONS" civil='M' type="H" statut='' age='A' stat_amour='néant'>TRITONS</role>.</castItem>
-		<castItem><role id="NÉRÉIDES" civil='M' type="H" statut='' age='A' stat_amour='néant'>NÉRÉIDES</role>, etc.</castItem>
+		<castItem><role id="LA FORTUNE" sex="1" type="P" statut='allégorie' age='A' stat_amour='néant'>LA FORTUNE</role>.</castItem>
+		<castItem><role id="NEPTUNE" sex="1" type="D" statut='dieu' age='A' stat_amour='néant'>NEPTUNE</role>.</castItem>
+		<castItem><role id="L'AMOUR" sex="1" type="D" statut='dieu' age='A' stat_amour='néant'>L'AMOUR</role>.</castItem>
+		<castItem><role id="PEUPLE" sex="9" type="H" statut='peuple' age='A' stat_amour='néant'>PLUSIEURS HABITANTS</role> et Habitantes de la Vallée de Tempé.</castItem>
+		<castItem><role id="TRITONS" sex="1" type="D" statut='triton' age='A' stat_amour='néant'>TRITONS</role>.</castItem>
+		<castItem><role id="NÉRÉIDES" sex="2" type="D" statut='néreide' age='A' stat_amour='néant'>NÉRÉIDES</role>, etc.</castItem>
 	</castList>
 	<set location="Lieu mythologique" country='Pays mythologique' periode='Temps mythologiques' link=''>La Scène est dans la Vallée de Tempé.</set>
 </front>

@@ -6,9 +6,10 @@
 			<title>LE SUISSE DE PORTE ET LE PORTRAIT, COMÉDIE</title>
 			<author born='1717' born_location='Paris' death='1806' death_location='Paris' academie='Poitiers'>CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle</author>
 		</titleStmt>
-		<publicationStmp>
+		<publicationStmt>
 			<p>publié par Paul FIEVRE août 2010</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Proverbe</genre>
 			<inspiration>moeurs françaises</inspiration>
@@ -42,11 +43,11 @@
 			<premiere date='(inconnue)' location='(inconnue)'></premiere>
 		</performance>
 	<castList><head>PERSONNAGES</head>
-		<castItem><role id="LA-MARQUISE" civil='F' type="H" statut='marquis' age='A' stat_amour='néant'>LA MARQUISE</role>, veuve.</castItem>
-		<castItem><role id="LE-COMTE" civil='M' type="H" statut='comte' age='A' stat_amour='néant'>LE COMTE</role>.</castItem>
-		<castItem><role id="LE-BARON" civil='M' type="H" statut='baron' age='A' stat_amour='néant'>LE BARON</role>.</castItem>
-		<castItem><role id="LE-SUISSE" civil='M' type="H" statut='suisse' age='A' stat_amour='néant'>LE SUISSE</role> de la Marquise.</castItem>
-		<castItem><role id="DUBOIS" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>DUBOIS</role>, Valet de Chambre de la Marquise.</castItem>
+		<castItem><role id="LA-MARQUISE" sex="2" type="H" statut='marquis' age='A' stat_amour='néant'>LA MARQUISE</role>, veuve.</castItem>
+		<castItem><role id="LE-COMTE" sex="1" type="H" statut='comte' age='A' stat_amour='néant'>LE COMTE</role>.</castItem>
+		<castItem><role id="LE-BARON" sex="1" type="H" statut='baron' age='A' stat_amour='néant'>LE BARON</role>.</castItem>
+		<castItem><role id="LE-SUISSE" sex="1" type="H" statut='suisse' age='A' stat_amour='néant'>LE SUISSE</role> de la Marquise.</castItem>
+		<castItem><role id="DUBOIS" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>DUBOIS</role>, Valet de Chambre de la Marquise.</castItem>
      </castList>
 <set location='France' country='France' periode='XVIIIème' link=''>La scène est chez La Marquise.</set>
 </front>

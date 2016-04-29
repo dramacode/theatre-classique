@@ -7,9 +7,10 @@
 			<author born='1670' born_location='Riom' death='1745' death_location='Riom' academie=''>BARANTE, Claude Ignace Brugière de</author>
 			
 		</titleStmt>
-		<publicationStmp>	
+		<publicationStmt>	
 			<p>publié par Paul FIEVRE, décembre 2011</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 				<genre>Comédie</genre>	
 				<inspiration>moeurs françaises</inspiration>
@@ -41,27 +42,27 @@
 			<premiere date="1696-12-22" location='Hôtel de Bourgogne'>Représentée pour la première fois par les Comédiens Italiens du Roi dans leur Hôtel de Bourgogne Le 22 de Décembre 1696.</premiere>
 		</performance>
 		<castList><head>ACTEURS.</head>
-			<castItem><role id="ARLEQUIN" civil='M' type="H" statut='bourgeois' age='A' stat_amour='amoureux'>ARLEQUIN</role>.</castItem>
-			<castItem><role id="OCTAVE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='amoureux'>OCTAVE</role>, amant de Colombine.</castItem>
-			<castItem><role id="COLOMBINE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>COLOMBINE</role>.</castItem>
-			<castItem><role id="LE-DOCTEUR" civil='M' type="H" statut='docteur' age='A' stat_amour='néant'>LE DOCTEUR</role>, père d'Octave. </castItem>
-			<castItem><role id="SCARAMOUCHE" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>SCARAMOUCHE</role>, valet d'Octave.</castItem>
-			<castItem><role id="PIERROT" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>PIERROT</role>, valet d'Arlequin.</castItem>
-			<castItem><role id="MONSIEUR-DISANVRAY" civil='M' type="H" statut='philosophe' age='A' stat_amour='néant'>MONSIEUR DISANVRAY</role>, Philosophe.</castItem>
-			<castItem><role id="MADAME-DE-L-ARCHITRAVE" civil='F' type="H" statut='architecte' age='A' stat_amour='néant'>MADAME DE L'ARCHITRAVE</role>, architecte.</castItem>
-			<castItem><role id="MEZZETIN" civil='M' type="H" statut='intrigant' age='A' stat_amour='néant'>MEZZETIN</role>, intrigant.</castItem>
-			<castItem><role id="LA-COMTESSE" civil='F' type="H" statut='comte' age='A' stat_amour='néant'>LA COMTESSE</role>.</castItem>
-			<castItem><role id="LE-CHEVALIER" civil='M' type="H" statut='chevalier' age='A' stat_amour='néant'>LE CHEVALIER</role>.</castItem>
-			<castItem><role id="UN-VIEILLARD" civil='M' type="H" statut='(sans)' age='V' stat_amour='marié'>UN VIEILLARD</role>. </castItem>
-			<castItem><role id="UN-VIEILLARD" civil='F' type="H" statut='(sans)' age='V' stat_amour='marié'>FEMME DU VIEILLARD</role>. </castItem>
-			<castItem><role id="DEUX-GASCONNES" civil='G' type="H" statut='(sans)' age='V' stat_amour='néant'>DEUX GASCONNES</role>.</castItem>
-			<castItem><role id="MONSIEUR-DE-COLAFON" civil='M' type="H" statut='maître à danser' age='A' stat_amour='néant'>MONSIEUR DE COLAFON</role>, maître à Danser.</castItem>
-			<castItem><role id="LE-FILS_LA-FILLE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>LE FILS du Docteur</role>.</castItem>
-			<castItem><role id="LA-FILLE_LA-FILLE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>LA FILLE du Docteur</role>.</castItem>
-			<castItem><role id="JAQUET" civil='M' type="H" statut='paysan' age='A' stat_amour='marié'>JAQUET</role>, paysan.</castItem>
-			<castItem><role id="MACINE" civil='F' type="H" statut='paysan' age='A' stat_amour='marié'>MACINE</role>, paysanne.</castItem>
-			<castItem><role id="MONSIEUR-DE-GERESOL" civil='M' type="H" statut='maître à chanter' age='A' stat_amour='néant'>MONSIEUR DE GERESOL</role>, maître à Chanter.</castItem>
-			<castItem><role id="MONSIEUR-DE-LA-CABRIOLE" civil='M' type="H" statut='maître à danser' age='A' stat_amour='néant'>MONSIEUR DE LA CABRIOLE</role>, maître à Danser.</castItem>
+			<castItem><role id="ARLEQUIN" sex="1" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>ARLEQUIN</role>.</castItem>
+			<castItem><role id="OCTAVE" sex="1" type="H" statut='bourgeois' age='J' stat_amour='Colombine'>OCTAVE</role>, amant de Colombine.</castItem>
+			<castItem><role id="COLOMBINE" sex="2" type="H" statut='bourgeois' age='J' stat_amour='Octave'>COLOMBINE</role>.</castItem>
+			<castItem><role id="LE-DOCTEUR" sex="1" type="H" statut='docteur' age='A' stat_amour='néant'>LE DOCTEUR</role>, père d'Octave. </castItem>
+			<castItem><role id="SCARAMOUCHE" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>SCARAMOUCHE</role>, valet d'Octave.</castItem>
+			<castItem><role id="PIERROT" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>PIERROT</role>, valet d'Arlequin.</castItem>
+			<castItem><role id="MONSIEUR-DISANVRAY" sex="1" type="H" statut='philosophe' age='A' stat_amour='néant'>MONSIEUR DISANVRAY</role>, Philosophe.</castItem>
+			<castItem><role id="MADAME-DE-L-ARCHITRAVE" sex="2" type="H" statut='architecte' age='A' stat_amour='néant'>MADAME DE L'ARCHITRAVE</role>, architecte.</castItem>
+			<castItem><role id="MEZZETIN" sex="1" type="H" statut='intrigant' age='A' stat_amour='néant'>MEZZETIN</role>, intrigant.</castItem>
+			<castItem><role id="LA-COMTESSE" sex="2" type="H" statut='comte' age='A' stat_amour='néant'>LA COMTESSE</role>.</castItem>
+			<castItem><role id="LE-CHEVALIER" sex="1" type="H" statut='chevalier' age='A' stat_amour='néant'>LE CHEVALIER</role>.</castItem>
+			<castItem><role id="UN VIEILLARD" sex="1" type="H" statut='(sans)' age='V' stat_amour='marié'>UN VIEILLARD</role>. </castItem>
+			<castItem><role id="FEMME DU VIEILLARD" sex="2" type="H" statut='(sans)' age='V' stat_amour='marié'>FEMME DU VIEILLARD</role>. </castItem>
+			<castItem><role id="DEUX GASCONNES" sex="9" type="H" statut='(sans)' age='A' stat_amour='néant'>DEUX GASCONNES</role>.</castItem>
+			<castItem><role id="MONSIEUR DE COLAFON" sex="1" type="H" statut='maître à danser' age='A' stat_amour='néant'>MONSIEUR DE COLAFON</role>, maître à Danser.</castItem>
+			<castItem><role id="LE FILS DU DOCTEUR" sex="1" type="H" statut='bourgeois' age='J' stat_amour='néant'>LE FILS du Docteur</role>.</castItem>
+			<castItem><role id="LA FILLE DU DOCTEUR" sex="2" type="H" statut='bourgeois' age='J' stat_amour='néant'>LA FILLE du Docteur</role>.</castItem>
+			<castItem><role id="JAQUET" sex="1" type="H" statut='paysan' age='A' stat_amour='marié'>JAQUET</role>, paysan.</castItem>
+			<castItem><role id="MACINE" sex="2" type="H" statut='paysan' age='A' stat_amour='marié'>MACINE</role>, paysanne.</castItem>
+			<castItem><role id="MONSIEUR-DE-GERESOL" sex="1" type="H" statut='maître à chanter' age='A' stat_amour='néant'>MONSIEUR DE GERESOL</role>, maître à Chanter.</castItem>
+			<castItem><role id="MONSIEUR-DE-LA-CABRIOLE" sex="1" type="H" statut='maître à danser' age='A' stat_amour='néant'>MONSIEUR DE LA CABRIOLE</role>, maître à Danser.</castItem>
 		</castList>
 		<set location='Un bois' country='France' periode='XVIIème' link=''>La scène est dans un bois.</set>
 </front>

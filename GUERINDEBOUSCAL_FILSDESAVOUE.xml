@@ -6,10 +6,11 @@
 				<title>LE FILS DÉSAVOUÉ, TRAGI-COMÉDIE.</title>
 				<author born="161?" born_location="" death="1675" death_location="" academie="">GUERIN de BOUSCAL, Daniel</author>
 			</titleStmt>
-			<publicationStmp>
+			<publicationStmt>
 				<editor>Texte établi par Valérie Sinson (Mémoire de master I sous la direction de M. Georges Forestier U.F.R de Littérature française et comparée, 2011-2012.)</editor>
 				<publisher>publié par Paul FIEVRE mars 2012</publisher>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragi-comédie</genre>
 				<inspiration>histoire romaine</inspiration>
@@ -45,16 +46,16 @@
 		</performance>
 		<castList>
 			<head>ACTEURS</head>
-			<castItem><role id="THÉODORIC" civil='M' type="H" statut='roi' age='A' stat_amour='néant'>THÉODORIC</role>, roi d'Italie.</castItem>
-			<castItem><role id="SINDÉRIC" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>SINDÉRIC</role>, fils désavoué de Julie.</castItem>
-			<castItem><role id="MAXIME" civil='M' type="H" statut='chevalier' age='A' stat_amour='néant'>MAXIME</role>, chevalier Romain, amant de Julie.</castItem>
-			<castItem><role id="JULIE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>JULIE</role>, mère de Sindéric, veuve de Lépide.</castItem>
-			<castItem><role id="HORACE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>HORACE</role>, ami de Maxime.</castItem>
-			<castItem><role id="ÉMILE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>ÉMILE</role>, ami de Sindéric.</castItem>
-			<castItem><role id="LIVIE" civil='F' type="H" statut='suivante' age='A' stat_amour='néant'>LIVIE</role>, suivante de Julie.</castItem>
-			<castItem><role id="CORNÉLIE" civil='F' type="H" statut='suivante' age='A' stat_amour='néant'>CORNÉLIE</role>, suivante de Julie.</castItem>
-			<castItem><role id="BOÈCE" civil='M' type="H" statut='sénateur' age='A' stat_amour='néant'>BOÈCE</role>, sénateur Romain et Ministre d'État de Théodoric.</castItem>
-			<castItem><role id="SUITE" civil='G' type="H" statut='suite' age='A' stat_amour='néant'>Suite de Théodoric</role>.</castItem>
+			<castItem><role id="THÉODORIC" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>THÉODORIC</role>, roi d'Italie.</castItem>
+			<castItem><role id="SINDÉRIC" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>SINDÉRIC</role>, fils désavoué de Julie.</castItem>
+			<castItem><role id="MAXIME" sex="1" type="H" statut='chevalier' age='A' stat_amour='néant'>MAXIME</role>, chevalier Romain, amant de Julie.</castItem>
+			<castItem><role id="JULIE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>JULIE</role>, mère de Sindéric, veuve de Lépide.</castItem>
+			<castItem><role id="HORACE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>HORACE</role>, ami de Maxime.</castItem>
+			<castItem><role id="ÉMILE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>ÉMILE</role>, ami de Sindéric.</castItem>
+			<castItem><role id="LIVIE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>LIVIE</role>, suivante de Julie.</castItem>
+			<castItem><role id="CORNÉLIE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>CORNÉLIE</role>, suivante de Julie.</castItem>
+			<castItem><role id="BOÈCE" sex="1" type="H" statut='sénateur' age='A' stat_amour='néant'>BOÈCE</role>, sénateur Romain et Ministre d'État de Théodoric.</castItem>
+			<castItem><role id="SUITE" sex="9" type="H" statut='suite' age='A' stat_amour='néant'>Suite de Théodoric</role>.</castItem>
 			</castList>
 <set location='Rome' country='Italie' periode='XVIIème' link=''>La Scène est dans Rome.</set>
 

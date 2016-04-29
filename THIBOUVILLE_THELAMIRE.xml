@@ -7,9 +7,10 @@
 			<author born='' born_location='' death='' death_location='' academie=''>(Anonyme)</author>
 			<date>1677</date>
 		</titleStmt>
-		<publicationStmp>	
+		<publicationStmt>	
 			<p>publié par Paul FIEVRE, octobre 2015.</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 				<genre>Tragédie</genre>	
 				<inspiration>mythe grec</inspiration>
@@ -65,14 +66,14 @@
 		</div>
 
 		<castList><head>ACTEURS</head>
-			<castItem><role id="THÉLAMIRE" civil='M' type="H" statut="roi" age="A" stat_amour=''>THÉLAMIRE</role>, Fils de Cydnus, cru légitime Roi de Sicile. M. DUFRESNE.</castItem>
-			<castItem><role id="ELISMENE" civil='F' type="H" statut="prince" age="A" stat_amour=''>ELISMÈNE</role>, Princesse de Sicile, crue fille de Cydnus. Mlle. GAUSSIN.</castItem>
-			<castItem><role id="AMINTAS" civil='M' type="H" statut="gouverneur" age="A" stat_amour=''>AMINTAS</role>, Gouverneur de Thélamire, devenu Ministre. M. SARASSIN.</castItem>
-			<castItem><role id="LICAS" civil='M' type="H" statut="confident" age="A" stat_amour=''>LICAS</role>, Confident d'Amintas. M. DE LA TORILLIERE.</castItem>
-			<castItem><role id="BARSINE" civil='F' type="H" statut="suivante" age="A" stat_amour=''>BARSINE</role>, Suivante d'Elisméne. Mlle JOUVENEAU.</castItem>
-			<castItem><role id="LICTIMEN" civil='M' type="H" statut="capitaine" age="A" stat_amour=''>LICTIMEN</role>, Capitaine des Gardes. M. DUBREUIL.</castItem>
-			<castItem><role id="PHILAX" civil='M' type="H" statut="officier" age="A" stat_amour=''>PHILAX</role>, Officier du Palais. M. FIERVILLE.</castItem>
-			<castItem><role id="GARDES" civil='G' type="H" statut="garde" age="A" stat_amour=''>GARDES</role>.</castItem>
+			<castItem><role id="THÉLAMIRE" sex="1" type="H" statut="roi" age="A" stat_amour=''>THÉLAMIRE</role>, Fils de Cydnus, cru légitime Roi de Sicile. M. DUFRESNE.</castItem>
+			<castItem><role id="ELISMENE" sex="2" type="H" statut="prince" age="A" stat_amour=''>ELISMÈNE</role>, Princesse de Sicile, crue fille de Cydnus. Mlle. GAUSSIN.</castItem>
+			<castItem><role id="AMINTAS" sex="1" type="H" statut="gouverneur" age="A" stat_amour=''>AMINTAS</role>, Gouverneur de Thélamire, devenu Ministre. M. SARASSIN.</castItem>
+			<castItem><role id="LICAS" sex="1" type="H" statut="confident" age="A" stat_amour=''>LICAS</role>, Confident d'Amintas. M. DE LA TORILLIERE.</castItem>
+			<castItem><role id="BARSINE" sex="2" type="H" statut="suivante" age="A" stat_amour=''>BARSINE</role>, Suivante d'Elisméne. Mlle JOUVENEAU.</castItem>
+			<castItem><role id="LICTIMEN" sex="1" type="H" statut="capitaine" age="A" stat_amour=''>LICTIMEN</role>, Capitaine des Gardes. M. DUBREUIL.</castItem>
+			<castItem><role id="PHILAX" sex="1" type="H" statut="officier" age="A" stat_amour=''>PHILAX</role>, Officier du Palais. M. FIERVILLE.</castItem>
+			<castItem><role id="GARDES" sex="9" type="H" statut="garde" age="A" stat_amour=''>GARDES</role>.</castItem>
 		</castList>
 		<set location='Syracuse' country='Sicile' periode='Temps mythologiques' link=''>La Scène est à Syracuse dans le Palais des Rois de Sicile.  .</set>
 	</front>

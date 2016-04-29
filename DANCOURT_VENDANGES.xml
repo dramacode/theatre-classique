@@ -6,9 +6,10 @@
 				<title>LES VENDANGES, COMÉDIE</title>
 				<author born='1661' born_location='Fontainebleau' death='1725' death_location='Courcelles-le-Roi' academie=''>DANCOURT, Florent CARTON dit</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, février 2013</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -40,13 +41,13 @@
 			<premiere date='1694-09-30' location='Théâtre de la rue des Fossés Saint-Germain'>Représentée pour la première fois le 30 septembre 1694 au Théâtre de la rue des Fossés Saint-Germain.</premiere>
 		</performance>
 		<castList><head>ACTEURS</head>
-			<castItem><role id="LUCAS" civil='M' type="H" statut="bourgeois" age="A" stat_amour='néant'>LUCAS</role>, riche Vigneron.</castItem>
-			<castItem><role id="MARGOT" civil='F' type="H" statut="bourgeois" age="A" stat_amour='néant'>MARGOT</role>, femme de Lucas.</castItem>
-			<castItem><role id="CLAUDINE" civil='F' type="H" statut="bourgeois" age="A" stat_amour='amoureux'>CLAUDINE</role>, nièce de Lucas.</castItem>
-			<castItem><role id="ÉRASTE" civil='M' type="H" statut="bourgeois" age="A" stat_amour='amoureux'>ÉRASTE</role>, amoureux de Claudine.</castItem>
-			<castItem><role id="L'OLIVE" civil='M' type="H" statut="valet" age="A" stat_amour='néant'>L'OLIVE</role>, Valet d'Éraste.</castItem>
-			<castItem><role id="LE COLLECTEUR" civil='M' type="H" statut="paysan" age="A" stat_amour='néant'>LE COLLECTEUR</role>.</castItem>
-			<castItem><role id="TROUPE DE PAYSANS" civil='G' type="H" statut="paysan" age="A" stat_amour='néant'>TROUPE de VENDANGEURS et de VENDANGEUSES</role>.</castItem>
+			<castItem><role id="LUCAS" sex="1" type="H" statut="bourgeois" age="A" stat_amour='néant'>LUCAS</role>, riche Vigneron.</castItem>
+			<castItem><role id="MARGOT" sex="2" type="H" statut="bourgeois" age="A" stat_amour='néant'>MARGOT</role>, femme de Lucas.</castItem>
+			<castItem><role id="CLAUDINE" sex="2" type="H" statut="bourgeois" age="A" stat_amour='amoureux'>CLAUDINE</role>, nièce de Lucas.</castItem>
+			<castItem><role id="ÉRASTE" sex="1" type="H" statut="bourgeois" age="A" stat_amour='amoureux'>ÉRASTE</role>, amoureux de Claudine.</castItem>
+			<castItem><role id="L'OLIVE" sex="1" type="H" statut="valet" age="A" stat_amour='néant'>L'OLIVE</role>, Valet d'Éraste.</castItem>
+			<castItem><role id="LE COLLECTEUR" sex="1" type="H" statut="paysan" age="A" stat_amour='néant'>LE COLLECTEUR</role>.</castItem>
+			<castItem><role id="TROUPE DE PAYSANS" sex="9" type="H" statut="paysan" age="A" stat_amour='néant'>TROUPE de VENDANGEURS et de VENDANGEUSES</role>.</castItem>
 		</castList>
 		<set location='Bourgenville' country='France' periode='XVIIème' link=''>La Scène est à Bourgenville, auprès de Mantes.</set>
 	</front>

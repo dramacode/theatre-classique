@@ -7,9 +7,10 @@
 				<author born='1605' born_location='Paris' death='1658' death_location='Paris' academie=''>DU RYER, Pierre</author>
 				<date>1636</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<authority>publié par Ernest FIEVRE, ocotbre 2008</authority>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -48,17 +49,17 @@
 <signature>DU RYER.</signature>
 </div>
 <castList><head>LES ACTEURS.</head>
-	<castItem><role id="TIRSIS" civil='M' type="H" statut='bourgeois' age='A' stat_amour='amoureux'>TIRSIS</role>, amoureux de Dorimène.</castItem>
-	<castItem><role id="PHILEMON" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>PHILÉMON</role>, ami de Tirsis.</castItem>
-	<castItem><role id="POLIDOR" civil='M' type="H" statut='bourgeois' age='A' stat_amour='amoureux'>POLIDOR</role>, amoureux de Dorimène.</castItem>
-	<castItem><role id="DORIMENE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='amoureux'>DORIMÈNE</role>, amoureuse de Polidor.</castItem>
-	<castItem><role id="FLORICE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>FLORICE</role>, bourgeoise de Paris.</castItem>
-	<castItem><role id="LISETTE" civil='F' type="H" statut='villageois' age='A' stat_amour='néant'>LISETTE</role>, villageoise de Suresnes, confidente de Florice.</castItem>
-	<castItem><role id="GUILLAUME" civil='M' type="H" statut='vigneron' age='A' stat_amour='néant'>GUILLAUME</role>, vigneron de Polidor.</castItem>
-	<castItem><role id="OLENIE" civil='F' type="H" statut='bourgeoise' age='A' stat_amour='néant'>OLÉNIE</role>, bourgeoise de Paris, amie de Dorimène.</castItem>
-	<castItem><role id="CRISÈRE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>CRISÈRE</role>, bourgeois de Paris, Père de Dorimène.</castItem>
-	<castItem><role id="DORIPE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>DORIPE</role>, mère de Dorimène.</castItem>
-	<castItem><role id="ORMIN" civil='M' type="H" statut='villageois' age='A' stat_amour='néant'>ORMIN</role>, villageois.</castItem>
+	<castItem><role id="TIRSIS" sex="1" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>TIRSIS</role>, amoureux de Dorimène.</castItem>
+	<castItem><role id="PHILEMON" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>PHILÉMON</role>, ami de Tirsis.</castItem>
+	<castItem><role id="POLIDOR" sex="1" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>POLIDOR</role>, amoureux de Dorimène.</castItem>
+	<castItem><role id="DORIMENE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>DORIMÈNE</role>, amoureuse de Polidor.</castItem>
+	<castItem><role id="FLORICE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>FLORICE</role>, bourgeoise de Paris.</castItem>
+	<castItem><role id="LISETTE" sex="2" type="H" statut='villageois' age='A' stat_amour='néant'>LISETTE</role>, villageoise de Suresnes, confidente de Florice.</castItem>
+	<castItem><role id="GUILLAUME" sex="1" type="H" statut='vigneron' age='A' stat_amour='néant'>GUILLAUME</role>, vigneron de Polidor.</castItem>
+	<castItem><role id="OLENIE" sex="2" type="H" statut='bourgeoise' age='A' stat_amour='néant'>OLÉNIE</role>, bourgeoise de Paris, amie de Dorimène.</castItem>
+	<castItem><role id="CRISÈRE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>CRISÈRE</role>, bourgeois de Paris, Père de Dorimène.</castItem>
+	<castItem><role id="DORIPE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>DORIPE</role>, mère de Dorimène.</castItem>
+	<castItem><role id="ORMIN" sex="1" type="H" statut='villageois' age='A' stat_amour='néant'>ORMIN</role>, villageois.</castItem>
 </castList>
 <set location='Suresnes' country='France' periode='XVIIème' link=''>Le Théâtre représente Suresnes.</set>
 </front>

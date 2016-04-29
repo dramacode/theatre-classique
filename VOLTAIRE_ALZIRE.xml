@@ -7,9 +7,10 @@
 				<author born='1694' born_location='Paris' death='1778' death_location='Paris' academie='1746'>VOLTAIRE</author>
 			<date>1732</date>
 		</titleStmt>
-		<publicationStmp>
+		<publicationStmt>
 			<authority>publié par Paul FIEVRE, novembre 2007, revu décembre 2014</authority>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Tragédie</genre>
 			<inspiration>histoire espagnole</inspiration>
@@ -74,15 +75,15 @@
 		
 	</div>
        <castList><head>PERSONNAGES</head>
-		<castItem><role id='DON GUSMAN' civil='M' type="H" statut='gouverneur' age='A' stat_amour='néant'>DON GUSMAN</role>, gouverneur du Pérou.</castItem>
-		<castItem><role id='DON ALVARES' civil='M' type="H" statut='gouverneur' age='A' stat_amour='néant'>DON ALVARES</role>, père de Gusman, ancien gouverneur.</castItem>
-		<castItem><role id='ZAMORE' civil='M' type="H" statut='roi' age='A' stat_amour='néant'>ZAMORE</role>, souverain d'une partie de Potoze.</castItem>
-		<castItem><role id='MONTEZE' civil='M' type="H" statut='roi' age='A' stat_amour='néant'>MONTEZE</role>, souverain d'une autre partie.</castItem>
-		<castItem><role id='ALZIRE' civil='F' type="H" statut='prince' age='A' stat_amour='néant'>ALZIRE</role>, fille de Monteze.</castItem>
-		<castItem><role id='EMIRE' civil='F' type="H" statut='suivante' age='A' stat_amour='néant'>EMIRE</role>, suivante d'Alzire.</castItem>
-		<castItem><role id='CÉPHALE' civil='F' type="H" statut='suivante' age='A' stat_amour='néant'>CÉPHALE</role>, suivante d'Alzire.</castItem>
-		<castItem><role id='OFFICIERS ESPAGNOLS' civil='G' type="H" statut='officier' age='A' stat_amour='néant'>OFFICIERS ESPAGNOLS</role>.</castItem>
-		<castItem><role id='AMÉRICAINS' civil='G' type="H" statut='peuple' age='A' stat_amour='néant'>AMÉRICAINS</role>.</castItem>
+		<castItem><role id='DON GUSMAN' sex="1" type="H" statut='gouverneur' age='A' stat_amour='néant'>DON GUSMAN</role>, gouverneur du Pérou.</castItem>
+		<castItem><role id='DON ALVARES' sex="1" type="H" statut='gouverneur' age='A' stat_amour='néant'>DON ALVARES</role>, père de Gusman, ancien gouverneur.</castItem>
+		<castItem><role id='ZAMORE' sex="1" type="H" statut='roi' age='A' stat_amour='néant'>ZAMORE</role>, souverain d'une partie de Potoze.</castItem>
+		<castItem><role id='MONTEZE' sex="1" type="H" statut='roi' age='A' stat_amour='néant'>MONTEZE</role>, souverain d'une autre partie.</castItem>
+		<castItem><role id='ALZIRE' sex="2" type="H" statut='prince' age='A' stat_amour='néant'>ALZIRE</role>, fille de Monteze.</castItem>
+		<castItem><role id='EMIRE' sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>EMIRE</role>, suivante d'Alzire.</castItem>
+		<castItem><role id='CÉPHALE' sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>CÉPHALE</role>, suivante d'Alzire.</castItem>
+		<castItem><role id='OFFICIERS ESPAGNOLS' sex="9" type="H" statut='officier' age='A' stat_amour='néant'>OFFICIERS ESPAGNOLS</role>.</castItem>
+		<castItem><role id='AMÉRICAINS' sex="9" type="H" statut='peuple' age='A' stat_amour='néant'>AMÉRICAINS</role>.</castItem>
        </castList>
 <set location='Lima' country='Pérou' periode='XIIème' link=''>La scène est dans la ville de Los-Reyes autrement Lima.</set>
 </front>
@@ -802,7 +803,7 @@
 	<l id='551'>Je ne suis point coupable, et tous ces conquérants,</l>
 	<l id='552'>Ainsi que tu le crois, ne sont point des tyrans.</l>
 	<l id='553'>Il en est que le ciel guida dans cet empire,</l>
-<note type="M">On voit que Monteze, persuadé comme il l'est, ne fait point une lâcheté en refusant sa fille à Zamore : il doit aimer sa Religion et sa fille, pour la céder à un idolâtre qui ne pourrait la défendre. [NdA]</note>
+<note type="C">On voit que Monteze, persuadé comme il l'est, ne fait point une lâcheté en refusant sa fille à Zamore : il doit aimer sa Religion et sa fille, pour la céder à un idolâtre qui ne pourrait la défendre. [NdA]</note>
 	<l id='554'>Moins pour nous conquérir qu'afin de nous instruire ;</l>
 	<l id='555'>Qui nous ont apporté de nouvelles vertus,</l>
 	<l id='556'>Des secrets immortels, et des arts inconnus,</l>

@@ -6,9 +6,10 @@
 			<title>ATTILIE, TRAGÉDIE.</title>
 			<author born='1730' born_location='' death='1782' death_location='' academie=''>LEGOUVÉ, Jean-Baptiste</author>
 		</titleStmt>
-		<publicationStmp>
+		<publicationStmt>
 			<p>publié par Paul FIEVRE juin 2011</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Tragédie</genre>
 			<inspiration>histoire romaine</inspiration>
@@ -53,14 +54,14 @@
 			<p>Le Public sait si Monsieur Le Gouvé a été fidèle à sa promesse. Pour moi, je remplis aujourd'hui à son égard, un devoir de l'amitié ; quel est l'homme de bien qui m'en fera un reproche ?</p>
 		</div>
 	<castList><head>ACTEURS</head>
-		<castItem><role id='ADRIEN' civil='M' type="H" statut="empereur" age="A" stat_amour='néant'>ADRIEN</role>, empereur Romain.</castItem>
-		<castItem><role id='PLACIDE' civil='M' type="H" statut="général" age="A" stat_amour='néant'>PLACIDE</role>, général des Armées Romaines.</castItem>
-		<castItem><role id='ATTILIE' civil='F' type="H" statut="aristocrate" age="A" stat_amour='néant'>ATTILIE</role>, fille de Placide.</castItem>
-		<castItem><role id='MAXIME' civil='M' type="H" statut="aristocrate" age="A" stat_amour='néant'>MAXIME</role>, fils de Placide.</castItem>
-		<castItem><role id='JUSTIN' civil='M' type="H" statut="aristocrate" age="A" stat_amour='néant'>JUSTIN</role>, chef des Gardes Prétoriennes, ancien Ami de Placide. </castItem>
-		<castItem><role id='PAULINE' civil='F' type="H" statut="confident" age="A" stat_amour='néant'>PAULINE</role>, confidente d'Attilie.</castItem>
-		<castItem><role id='ALBIN' civil='M' type="H" statut="officier" age="A" stat_amour='néant'>ALBIN</role>, officier des Gardes.</castItem>
-		<castItem><role id='GARDES' civil='G' type="H" statut="garde" age="A" stat_amour='néant'>GARDES</role>.</castItem>
+		<castItem><role id='ADRIEN' sex="1" type="H" statut="empereur" age="A" stat_amour='néant'>ADRIEN</role>, empereur Romain.</castItem>
+		<castItem><role id='PLACIDE' sex="1" type="H" statut="général" age="A" stat_amour='néant'>PLACIDE</role>, général des Armées Romaines.</castItem>
+		<castItem><role id='ATTILIE' sex="2" type="H" statut="aristocrate" age="A" stat_amour='néant'>ATTILIE</role>, fille de Placide.</castItem>
+		<castItem><role id='MAXIME' sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>MAXIME</role>, fils de Placide.</castItem>
+		<castItem><role id='JUSTIN' sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>JUSTIN</role>, chef des Gardes Prétoriennes, ancien Ami de Placide. </castItem>
+		<castItem><role id='PAULINE' sex="2" type="H" statut="confident" age="A" stat_amour='néant'>PAULINE</role>, confidente d'Attilie.</castItem>
+		<castItem><role id='ALBIN' sex="1" type="H" statut="officier" age="A" stat_amour='néant'>ALBIN</role>, officier des Gardes.</castItem>
+		<castItem><role id='GARDES' sex="9" type="H" statut="garde" age="A" stat_amour='néant'>GARDES</role>.</castItem>
 	</castList>
 <set location='Rome' country='Italie' periode='Ier' link=''>La Scène est à Rome dans une Salle du Palais Impérial.</set> 
 </front>

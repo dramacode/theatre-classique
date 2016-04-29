@@ -7,10 +7,11 @@
 				<author born='17..' born_location='' death='17..' death_location='' academie=''>LEBEAU DE SCHOSME, Abbé Auguste-Théodore-Vincent  </author>
 				<date>1773</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<editor>Texte établi par Julie Morvan (Mémoire de Master I « De la Renaissance aux Lumières » sous la direction de M. Georges Forestier U.F.R de Littérature française et comparée, 2013-2014.)</editor>
 				<publisher>publié par Paul FIEVRE, juin 2014</publisher>
-			</publicationStmp>	
+			<idno></idno>
+</publicationStmt>	
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -52,11 +53,11 @@
 	</div>
 
 	<castList><head>PERSONNAGES</head>
-		<castItem><role id='UN POÈTE' civil='M' type="H" statut='poète' age='A' stat_amour='néant'>UN POÈTE</role>, M. Du Gazon.</castItem>
-		<castItem><role id='LE SEMAINIER' civil='M' type="H" statut='semainier' age='A' stat_amour='néant'>LE SEMAINIER</role>, M. Dalainval.</castItem>
-		<castItem><role id='ROBERT' civil='M' type="H" statut='gagiste' age='A' stat_amour='néant'>ROBERT</role>, Gagiste M. Augusute.</castItem>
-		<castItem><role id='MADAME ARMAND' civil='M' type="H" statut='concierge' age='A' stat_amour='néant'>MADAME ARMAND</role>, Concierge Madame Bonioll.</castItem>
-		<castItem><role id='TOUS LES ACTEURS' civil='G' type="H" statut='comédien' age='A' stat_amour='néant'>Tous les Acteurs et Actrices de la Comédie Française</role>.</castItem>
+		<castItem><role id='UN POÈTE' sex="1" type="H" statut='poète' age='A' stat_amour='néant'>UN POÈTE</role>, M. Du Gazon.</castItem>
+		<castItem><role id='LE SEMAINIER' sex="1" type="H" statut='semainier' age='A' stat_amour='néant'>LE SEMAINIER</role>, M. Dalainval.</castItem>
+		<castItem><role id='ROBERT' sex="1" type="H" statut='gagiste' age='A' stat_amour='néant'>ROBERT</role>, Gagiste M. Augusute.</castItem>
+		<castItem><role id='MADAME ARMAND' sex="1" type="H" statut='concierge' age='A' stat_amour='néant'>MADAME ARMAND</role>, Concierge Madame Bonioll.</castItem>
+		<castItem><role id='TOUS LES ACTEURS' sex="9" type="H" statut='comédien' age='A' stat_amour='néant'>Tous les Acteurs et Actrices de la Comédie Française</role>.</castItem>
 	</castList>
 	<set location='Paris' country='France' periode='XVIIème' link=''>La scène est sur le théâtre.</set>
 </front>

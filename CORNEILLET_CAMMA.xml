@@ -7,9 +7,10 @@
 				<author born='1625' born_location='Rouen' death='1709' death_location='Les Andelys' academie='1685'>CORNEILLE, Thomas</author>
 				<date>1661</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE décembre 2009</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>mythe grec</inspiration>
@@ -52,14 +53,14 @@
 <signature>T. CORNEILLE.</signature>
 </epitre>
 	<castList><head>ACTEURS.</head>
-		<castItem><role id="CAMMA" civil='F' type="H" statut="roi" age="A" stat_amour='néant'>CAMMA</role>, veuve de Sinatus, Roi de Galatie.</castItem>
-		<castItem><role id="SINORIX" civil='M' type="H" statut="roi" age="A" stat_amour='néant'>SINORIX</role>, roi de Galatie, ayant usurpé la Couronne sur Sinatus.</castItem>
-		<castItem><role id="HESIONE" civil='F' type="H" statut="prince" age="A" stat_amour='néant'>HÉSIONE</role>, fille de Sinatus.</castItem>
-		<castItem><role id="SOSTRASE" civil='M' type="H" statut="prince" age="A" stat_amour='néant'>SOSTRATE</role>, prince de Galatie, favori de Sinatus.</castItem>
-		<castItem><role id="PHAEDIME" civil='M' type="H" statut="confident" age="A" stat_amour='néant'>PHAEDIME</role>, confident de Sinorix.</castItem>
-		<castItem><role id="SOSIME" civil='M' type="H" statut="confident" age="A" stat_amour='néant'>SOSIME</role>, capitaine des Gardes de Sinorix</castItem>
-		<castItem><role id="PHÉNICE" civil='F' type="H" statut="confident" age="A" stat_amour='néant'>PHÉNICE</role>, confidente de Camma.</castItem>
-		<castItem><role id="GARDES" civil='G' type="H" statut="gardes" age="A" stat_amour='néant'>Gardes</role>.</castItem>
+		<castItem><role id="CAMMA" sex="2" type="H" statut="roi" age="A" stat_amour='néant'>CAMMA</role>, veuve de Sinatus, Roi de Galatie.</castItem>
+		<castItem><role id="SINORIX" sex="1" type="H" statut="roi" age="A" stat_amour='néant'>SINORIX</role>, roi de Galatie, ayant usurpé la Couronne sur Sinatus.</castItem>
+		<castItem><role id="HESIONE" sex="2" type="H" statut="prince" age="A" stat_amour='néant'>HÉSIONE</role>, fille de Sinatus.</castItem>
+		<castItem><role id="SOSTRASE" sex="1" type="H" statut="prince" age="A" stat_amour='néant'>SOSTRATE</role>, prince de Galatie, favori de Sinatus.</castItem>
+		<castItem><role id="PHAEDIME" sex="1" type="H" statut="confident" age="A" stat_amour='néant'>PHAEDIME</role>, confident de Sinorix.</castItem>
+		<castItem><role id="SOSIME" sex="1" type="H" statut="confident" age="A" stat_amour='néant'>SOSIME</role>, capitaine des Gardes de Sinorix</castItem>
+		<castItem><role id="PHÉNICE" sex="2" type="H" statut="confident" age="A" stat_amour='néant'>PHÉNICE</role>, confidente de Camma.</castItem>
+		<castItem><role id="GARDES" sex="9" type="H" statut="gardes" age="A" stat_amour='néant'>Gardes</role>.</castItem>
 	</castList>
 	<set location='Galatie' country='Turquie' periode='Temps mythologiques' link=''>La Scène est dans la Capitale de Galatie.</set>
 	</front>

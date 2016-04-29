@@ -7,9 +7,10 @@
 			<author born='1601' born_location='Le Havre' death='1667' death_location='Paris' academie='1649'>SCUDERY, Georges de</author>
 			<date>1636</date>
 		</titleStmt>
-		<publicationStmp>	
+		<publicationStmt>	
 			<p>publié par Paul FIEVRE</p><p>Juin 2008</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 				<genre>Tragi-comédie</genre>	
 				<inspiration>histoire médiévale</inspiration>
@@ -58,23 +59,23 @@
 			<premiere date="1635" location='(inconnue)'>Représenté pour la première fois en 1635.</premiere>
 	</performance>
 	<castList><head>ACTEURS</head>
-	<castItem><role id="CLEARQUE" civil='M' type="H" statut="roi" age="A" stat_amour='néant'>CLÉARQUE</role>, fils d'Altomire, Roi de Naples.</castItem>
-		<castItem><role id="LISANDRE" civil='M' type="H" statut="aristocrate" age="A" stat_amour='néant'>LISANDRE</role>, Gentilhomme napolitain, demeurant en Sicile.</castItem>
-		<castItem><role id="FLORESTOR" civil='M' type="H" statut="écuyer" age="A" stat_amour='néant'>FLORESTOR</role>, écuyer de Cléarque.</castItem>
-		<castItem><role id="ROSEMONDE" civil='F' type="H" statut="roi" age="A" stat_amour='néant'>ROSEMONDE</role>, reine de Sicile et veuve du roi Poliante.</castItem>
-		<castItem><role id="ARGENIE" civil='F' type="H" statut="prince" age="A" stat_amour='néant'>ARGÉNIE</role>, unique héritière du royaume de Sicile.</castItem>
-		<castItem><role id="THEOTIME" civil='M' type="H" statut="sacrificateur" age="A" stat_amour='néant'>THÉOTIME</role>, grand sacrificateur de Sicile.</castItem>
-		<castItem><role id="ARCHANE" civil='M' type="H" statut="ministre" age="A" stat_amour='néant'>ARCHANE</role>, ministre du temple de Palerme.</castItem>
-		<castItem><role id="PHILIS" civil='F' type="H" statut="fille d'honneur" age="A" stat_amour='néant'>PHILIS</role>, fille d'honneur de l'Infante et sa favorite.</castItem>
-		<castItem><role id="RUTILE" civil='M' type="H" statut="jardinier" age="A" stat_amour='néant'>RUTILE</role>, jardinier de la Reine</castItem>
-		<castItem><role id="MELANIRE" civil='F' type="H" statut="jardinier" age="A" stat_amour='néant'>MÉLANIRE</role>, femme de Rutile.</castItem>
-		<castItem><role id="ANTHENOR" civil='M' type="H" statut="chancellier" age="A" stat_amour='néant'>ANTHÉNOR</role>, chancellier de Sicile.</castItem>
-		<castItem><role id="ARISTE" civil='M' type="H" statut="lieutenant" age="A" stat_amour='néant'>ARISTE</role>, lieutenant des gardes de la Reine.</castItem>
-		<castItem><role id="ARMILE" civil='M' type="H" statut="page" age="A" stat_amour='néant'>ARMILE</role>, page d'Argénie.</castItem>
-		<castItem><role id="TROUPE" civil='G' type="H" statut="courtisan" age="A" stat_amour='néant'>TROUPE</role> des courtisants de la reine.</castItem>
-		<castItem><role id="JUGES" civil='G' type="H" statut="juge" age="A" stat_amour='néant'>JUGES</role> de camp.</castItem>
-			<castItem><role id="CHOEUR_SICILIEN" civil='G' type="H" statut="choeur" age="A" stat_amour='néant'>CHOEUR</role> du peuple Sicilien.</castItem>
-			<castItem><role id="CHOEUR_TROMPETTES" civil='G' type="H" statut="choeur" age="A" stat_amour='néant'>CHOEUR</role> de trompettes.</castItem>
+	<castItem><role id="CLEARQUE" sex="1" type="H" statut="roi" age="A" stat_amour='néant'>CLÉARQUE</role>, fils d'Altomire, Roi de Naples.</castItem>
+		<castItem><role id="LISANDRE" sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>LISANDRE</role>, Gentilhomme napolitain, demeurant en Sicile.</castItem>
+		<castItem><role id="FLORESTOR" sex="1" type="H" statut="écuyer" age="A" stat_amour='néant'>FLORESTOR</role>, écuyer de Cléarque.</castItem>
+		<castItem><role id="ROSEMONDE" sex="2" type="H" statut="roi" age="A" stat_amour='néant'>ROSEMONDE</role>, reine de Sicile et veuve du roi Poliante.</castItem>
+		<castItem><role id="ARGENIE" sex="2" type="H" statut="prince" age="A" stat_amour='néant'>ARGÉNIE</role>, unique héritière du royaume de Sicile.</castItem>
+		<castItem><role id="THEOTIME" sex="1" type="H" statut="sacrificateur" age="A" stat_amour='néant'>THÉOTIME</role>, grand sacrificateur de Sicile.</castItem>
+		<castItem><role id="ARCHANE" sex="1" type="H" statut="ministre" age="A" stat_amour='néant'>ARCHANE</role>, ministre du temple de Palerme.</castItem>
+		<castItem><role id="PHILIS" sex="2" type="H" statut="fille d'honneur" age="A" stat_amour='néant'>PHILIS</role>, fille d'honneur de l'Infante et sa favorite.</castItem>
+		<castItem><role id="RUTILE" sex="1" type="H" statut="jardinier" age="A" stat_amour='néant'>RUTILE</role>, jardinier de la Reine</castItem>
+		<castItem><role id="MELANIRE" sex="2" type="H" statut="jardinier" age="A" stat_amour='néant'>MÉLANIRE</role>, femme de Rutile.</castItem>
+		<castItem><role id="ANTHENOR" sex="1" type="H" statut="chancellier" age="A" stat_amour='néant'>ANTHÉNOR</role>, chancellier de Sicile.</castItem>
+		<castItem><role id="ARISTE" sex="1" type="H" statut="lieutenant" age="A" stat_amour='néant'>ARISTE</role>, lieutenant des gardes de la Reine.</castItem>
+		<castItem><role id="ARMILE" sex="1" type="H" statut="page" age="A" stat_amour='néant'>ARMILE</role>, page d'Argénie.</castItem>
+		<castItem><role id="TROUPE" sex="9" type="H" statut="courtisan" age="A" stat_amour='néant'>TROUPE</role> des courtisants de la reine.</castItem>
+		<castItem><role id="JUGES" sex="9" type="H" statut="juge" age="A" stat_amour='néant'>JUGES</role> de camp.</castItem>
+			<castItem><role id="CHOEUR_SICILIEN" sex="9" type="H" statut="choeur" age="A" stat_amour='néant'>CHOEUR</role> du peuple Sicilien.</castItem>
+			<castItem><role id="CHOEUR_TROMPETTES" sex="9" type="H" statut="choeur" age="A" stat_amour='néant'>CHOEUR</role> de trompettes.</castItem>
 		</castList>
 	<set location='Palerme' country='Italie' periode='VIème' link=''>La scène est à Palerme.</set>
 	</front>

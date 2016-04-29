@@ -6,9 +6,10 @@
 				<title>LES CURIEUX DE COMPIÈGNE, COMÉDIE</title>
 				<author born='1661' born_location='Fontainebleau' death='1725' death_location='Courcelles-le-Roi' academie=''>DANCOURT, Florent CARTON dit</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, juillet 2013</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -43,18 +44,18 @@
 			<premiere date='1698-10-04' location='Théâtre de la rue des Fossés Saint-Germain'>Représentée pour la première fois le 4 Octobre 1698  au Théâtre de la rue des Fossés Saint-Germain.</premiere>
 		</performance>
 		<castList><head>ACTEURS</head>
-			<castItem><role id='LE CHAVALIER' civil='M' type="H" statut='officier' age='A' stat_amour='néant'>LE CHEVALIER de Fourbignac</role>, Officier. </castItem>
-			<castItem><role id='CLITANDRE' civil='M' type="H" statut='officier' age='A' stat_amour='néant'>CLITANDRE</role>, Officier.</castItem>
-			<castItem><role id='FRONTIN' civil='M' type="H" statut='valet' age='A' stat_amour='néant'>FRONTIN</role>, valet de Clitandre.</castItem>
-			<castItem><role id='MADAME PINIUN' civil='F' type="H" statut='hotesse' age='A' stat_amour='néant'>MADAME PINIUN</role>, hôtesse des trois Rois.</castItem>
-			<castItem><role id='GUILLAUME' civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>GUILLAUME</role>, cousin de Madame Pinuin.</castItem>
-			<castItem><role id='MADAME ROBIN' civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>MADAME ROBIN</role>, bourgeoise de Paris.</castItem>
-			<castItem><role id='MADAME VALENTIN' civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>MADAME VALETIN</role>.</castItem>
-			<castItem><role id='ANGÉLIQUE' civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>ANGÉLIQUE</role>, fille de Madame Valentin.</castItem>
-			<castItem><role id='MONSIEUR MOUFLART' civil='M' type="H" statut='marchand' age='A' stat_amour='néant'>MONSIEUR MOUFLART</role>, marchand de galons d’or.</castItem>
-			<castItem><role id='MONSIEUR VALENTIN' civil='M' type="H" statut='marchand' age='A' stat_amour='néant'>MONSIEUR VALENTIN</role>, marchand de drap.</castItem>
-			<castItem><role id='UN PETIT GREFFIER' civil='M' type="H" statut='greffier' age='A' stat_amour='néant'>UN PETIT GREFFIER</role>.</castItem>
-			<castItem><role id='SOLDATS' civil='G' type="H" statut='soldat' age='A' stat_amour='néant'>Plusieurs Soldats, Officiers, Vivandiers, etc</role>.</castItem>
+			<castItem><role id='LE CHAVALIER' sex="1" type="H" statut='officier' age='A' stat_amour='néant'>LE CHEVALIER de Fourbignac</role>, Officier. </castItem>
+			<castItem><role id='CLITANDRE' sex="1" type="H" statut='officier' age='A' stat_amour='néant'>CLITANDRE</role>, Officier.</castItem>
+			<castItem><role id='FRONTIN' sex="1" type="H" statut='valet' age='A' stat_amour='néant'>FRONTIN</role>, valet de Clitandre.</castItem>
+			<castItem><role id='MADAME PINIUN' sex="2" type="H" statut='hotesse' age='A' stat_amour='néant'>MADAME PINIUN</role>, hôtesse des trois Rois.</castItem>
+			<castItem><role id='GUILLAUME' sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>GUILLAUME</role>, cousin de Madame Pinuin.</castItem>
+			<castItem><role id='MADAME ROBIN' sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>MADAME ROBIN</role>, bourgeoise de Paris.</castItem>
+			<castItem><role id='MADAME VALENTIN' sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>MADAME VALETIN</role>.</castItem>
+			<castItem><role id='ANGÉLIQUE' sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>ANGÉLIQUE</role>, fille de Madame Valentin.</castItem>
+			<castItem><role id='MONSIEUR MOUFLART' sex="1" type="H" statut='marchand' age='A' stat_amour='néant'>MONSIEUR MOUFLART</role>, marchand de galons d’or.</castItem>
+			<castItem><role id='MONSIEUR VALENTIN' sex="1" type="H" statut='marchand' age='A' stat_amour='néant'>MONSIEUR VALENTIN</role>, marchand de drap.</castItem>
+			<castItem><role id='UN PETIT GREFFIER' sex="1" type="H" statut='greffier' age='A' stat_amour='néant'>UN PETIT GREFFIER</role>.</castItem>
+			<castItem><role id='SOLDATS' sex="9" type="H" statut='soldat' age='A' stat_amour='néant'>Plusieurs Soldats, Officiers, Vivandiers, etc</role>.</castItem>
 		</castList>
 		<set location='Compiègne' country='France' periode='XVIIème' link=''>La Scène est au Camp de Compiègne.</set>
 	</front>

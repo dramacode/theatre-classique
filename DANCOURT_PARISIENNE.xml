@@ -6,9 +6,10 @@
 				<title>LA PARISIENNE, COMÉDIE</title>
 				<author born='1661' born_location='Fontainebleau' death='1725' death_location='Courcelles-le-Roi' academie=''>DANCOURT, Florent CARTON dit</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, décembre 2012</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -43,15 +44,15 @@
 			<premiere date='1691-06-13' location='Théâtre de la rue des Fossés Saint-Germain'>Représentée pour la première fois le 13 Juin 1691 au Théâtre de la rue des Fossés Saint-Germain.</premiere>
 		</performance>
 		<castList><head>ACTEURS</head>
-			<castItem><role id='OLIMPE' civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>OLIMPE</role>, mère d’Angélique.</castItem>
-			<castItem><role id='ANGÉLIQUE' civil='F'  type="H" statut='bourgeois' age='J' stat_amour='amant'>ANGÉLIQUE</role>, amante d’Éraste.</castItem>
-			<castItem><role id='LISETTE' civil='F' type="H" statut='suivante' age='A' stat_amour='néant'>LISETTE</role>, suivante d’Olimpe.</castItem>
-			<castItem><role id='DAMIS' civil='M'  type="H" statut='bourgeois' age='V' stat_amour='néant'>DAMIS</role>, père d’Éraste.</castItem>
-			<castItem><role id='ÉRASTE' civil='M' type="H" statut='bourgeoise' age='J' stat_amour='amant'>ÉRASTE</role>, amant d’Angélique.</castItem>
-			<castItem><role id='L’OLIVE' civil='M' type="H" statut='domestique' age='A' stat_amour='néant'>L’OLIVE</role>, valet d’Éraste.</castItem>
-			<castItem><role id='LA-VIGNE' civil='M' type="H" statut='domestique' age='A' stat_amour='néant'>LA VIGNE</role>, valet de Damis.</castItem>
-			<castItem><role id='LISIMON' civil='M' type="H" statut='bourgeois' age='A' stat_amour='rival'>LISIMON</role>, amant d’Angélique.</castItem>
-			<castItem><role id='DORANTE' civil='M' type="H" statut='bourgeois' age='A' stat_amour='rival'>DORANTE</role>, amant d’Angélique.</castItem>
+			<castItem><role id='OLIMPE' sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>OLIMPE</role>, mère d’Angélique.</castItem>
+			<castItem><role id='ANGÉLIQUE' sex="2"  type="H" statut='bourgeois' age="J" stat_amour='amant'>ANGÉLIQUE</role>, amante d’Éraste.</castItem>
+			<castItem><role id='LISETTE' sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>LISETTE</role>, suivante d’Olimpe.</castItem>
+			<castItem><role id='DAMIS' sex="1"  type="H" statut='bourgeois' age='V' stat_amour='néant'>DAMIS</role>, père d’Éraste.</castItem>
+			<castItem><role id='ÉRASTE' sex="1" type="H" statut='bourgeoise' age="J" stat_amour='amant'>ÉRASTE</role>, amant d’Angélique.</castItem>
+			<castItem><role id='L’OLIVE' sex="1" type="H" statut='domestique' age='A' stat_amour='néant'>L’OLIVE</role>, valet d’Éraste.</castItem>
+			<castItem><role id='LA-VIGNE' sex="1" type="H" statut='domestique' age='A' stat_amour='néant'>LA VIGNE</role>, valet de Damis.</castItem>
+			<castItem><role id='LISIMON' sex="1" type="H" statut='bourgeois' age='A' stat_amour='rival'>LISIMON</role>, amant d’Angélique.</castItem>
+			<castItem><role id='DORANTE' sex="1" type="H" statut='bourgeois' age='A' stat_amour='rival'>DORANTE</role>, amant d’Angélique.</castItem>
 		</castList>
 		<set location='Paris' country='France' periode='XVIIème' link=''>La scène est à Paris.</set>
 	</front>

@@ -7,9 +7,10 @@
 				<author born='1621' born_location='Château-Thierry' death='1695' death_location='Paris' academie=''>LA FONTAINE, Jean de</author>
 				<date>1682</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, juin 2015</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>mythe grec</inspiration>
@@ -45,9 +46,9 @@
 </div>
 	<castList>
 	<head>PERSONNAGES.</head>
-	<castItem><role id="APOLLON" civil='M' type="D" statut='dieu' age='A' stat_amour='néant'>APOLLON</role>.</castItem>
-	<castItem><role id="LES NEUF MUSES" civil='M' type="D" statut='muse' age='A' stat_amour='néant'>LES NEUF MUSES</role>.</castItem>
-	<castItem><role id="ACANTHE" civil='M' type="D" statut='dieu' age='A' stat_amour='néant'>ACANTE</role>.</castItem>
+	<castItem><role id="APOLLON" sex="1" type="D" statut='dieu' age='A' stat_amour='néant'>APOLLON</role>.</castItem>
+	<castItem><role id="LES NEUF MUSES" sex="1" type="D" statut='muse' age='A' stat_amour='néant'>LES NEUF MUSES</role>.</castItem>
+	<castItem><role id="ACANTHE" sex="1" type="D" statut='dieu' age='A' stat_amour='néant'>ACANTE</role>.</castItem>
 	</castList>
 	
 <set location='Parnasse' country='Pays mythologique' periode='Temps mythologiques' link=''>La scène est au Parnasse.</set>
@@ -739,7 +740,7 @@
 <sp who="CALLIOPE"><speaker>CALLIOPE.</speaker>
 	<l id="360" part='f'>Pourquoi non ? Très souvent.</l>
 	<l id="361">L'ode est chose pénible, et surtout dans le grand.</l>
-<poem type="">
+<lg type="ode">
 <lg n="1">
 	<l id="362">Toi, qui soumets les dieux aux passions des hommes,</l>
 	<l id="363">Amour, souffriras-tu qu'en ce siècle où nous sommes,</l>
@@ -748,7 +749,7 @@
 	<l id="366">Tu devrais l'obliger, pour l'honneur de tes temples,</l>
 	<l id="367">D'aimer ainsi que nous.</l>
 </lg>
-</poem>
+</lg>
 </sp>
 <sp who="URANIE"><speaker>URANIE.</speaker>
 	<l id="368" part='i'>Les Muses n'aiment pas.</l>

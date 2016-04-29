@@ -7,9 +7,10 @@
 				<author born='1657' born_location='Paris' death='1724' death_location='Paris' academie=''>DUFRESNY, Charles Rivière</author>
 				<date>1699</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE juillet 2012</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -44,15 +45,15 @@
 			<premiere date="1708-03-06" location='Théâtre de la rue des Fossés Saint-Germain'>Représentée pour la première fois, le 06 Mars 1708 au Théâtre de la rue des Fossés Saint-Germain.</premiere>
 		</performance>
 	<castList><head>ACTEURS.</head>
-		<castItem><role id="LE-PRÉSIDENT" civil='M' type="H" statut='président' age='A' stat_amour='néant'>LE PRÉSIDENT</role>.</castItem>
-		<castItem><role id="LA-PRÉSIDENTE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>LA PRÉSIDENTE</role>.</castItem>
-		<castItem><role id="LUCIE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>LUCIE</role>, nièce et pupille du Président.</castItem>
-		<castItem><role id="DAMIS" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>DAMIS</role>, amant de Lucie.</castItem>
-		<castItem><role id="MONSIEUR-ARGAN" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>MONSIEUR ARGAN</role>, autre amant de Lucie.</castItem>
-		<castItem><role id="LISETTE" civil='F' type="H" statut='suivante' age='A' stat_amour='néant'>LISETTE</role>, suivante de Lucie.</castItem>
-		<castItem><role id="THIBAUT" civil='M' type="H" statut='domestique' age='A' stat_amour='néant'>THIBAUT</role>, domestique du Président.</castItem>
-		<castItem><role id="HORTENCE" civil='F' type="H" statut='jardinier' age='A' stat_amour='néant'>HORTENCE</role>, jardinière.</castItem>
-		<castItem><role id="FRONTIN" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>FRONTIN</role>, valet de Monsieur Argan, et amant d'Hortense.</castItem>
+		<castItem><role id="LE-PRÉSIDENT" sex="1" type="H" statut='président' age='A' stat_amour='néant'>LE PRÉSIDENT</role>.</castItem>
+		<castItem><role id="LA-PRÉSIDENTE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>LA PRÉSIDENTE</role>.</castItem>
+		<castItem><role id="LUCIE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>LUCIE</role>, nièce et pupille du Président.</castItem>
+		<castItem><role id="DAMIS" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>DAMIS</role>, amant de Lucie.</castItem>
+		<castItem><role id="MONSIEUR-ARGAN" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>MONSIEUR ARGAN</role>, autre amant de Lucie.</castItem>
+		<castItem><role id="LISETTE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>LISETTE</role>, suivante de Lucie.</castItem>
+		<castItem><role id="THIBAUT" sex="1" type="H" statut='domestique' age='A' stat_amour='néant'>THIBAUT</role>, domestique du Président.</castItem>
+		<castItem><role id="HORTENCE" sex="2" type="H" statut='jardinier' age='A' stat_amour='néant'>HORTENCE</role>, jardinière.</castItem>
+		<castItem><role id="FRONTIN" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>FRONTIN</role>, valet de Monsieur Argan, et amant d'Hortense.</castItem>
 		</castList>
 	<set location="Rennes" country='France' periode='XVIIIème' link=''>La Scène est dans le Château du Président, à un quart de lieue de la Ville de Rennes.</set>
 	</front>

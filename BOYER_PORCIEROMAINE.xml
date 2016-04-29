@@ -7,9 +7,10 @@
 				<author born='1618' born_location='Albi' death='1698' death_location='Paris' academie='1666'>BOYER, Claude</author>
 				<date>1646</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<authority>publié par Paul FIEVRE, Septembre 2008, revu déc. 2009</authority>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire romaine</inspiration>
@@ -80,17 +81,17 @@
 </errata>
 <castList>
 <head>ACTEURS</head> 
-	<castItem><role id='BRUTE' civil='M' type="H" statut='général' age='A' stat_amour='néant'>BRUTE</role>, chef de l'Armée.</castItem>
-	<castItem><role id='CASSIE' civil='M' type="H" statut='général' age='A' stat_amour='néant'>CASSIE</role>, chef de l'Armée.</castItem>
-	<castItem><role id='PORCIE' civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>PORCIE</role> femme de Brute. </castItem>
-	<castItem><role id='JULIE' civil='F' type="H" statut='confident' age='A' stat_amour='néant'>JULIE</role> confidente de Porcie.</castItem>
-	<castItem><role id='MAXIME' civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>MAXIME</role> gentilhomme de Brute. </castItem>
-	<castItem><role id='OCTAVE' civil='M' type="H" statut='triumvir' age='A' stat_amour='néant'>OCTAVE</role> triumvir un des chefs de l'Armée ennemie. </castItem>
-	<castItem><role id='VALERE' civil='M' type="H" statut='cpitaine' age='A' stat_amour='néant'>VALÈRE</role> capitaine des Gardes d'Octave.</castItem> 
-	<castItem><role id='PHILIPE' civil='M' type="H" statut='affranchi' age='A' stat_amour='néant'>PHILIPE</role> affranchi de Cassie. </castItem>
-	<castItem><role id='TITE' civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>TITE</role>.</castItem>
-	<castItem><role id='SOLDATS DE BRUTE' civil='G' type="H" statut='soldat' age='A' stat_amour='néant'>Troupe des soldats de Brute</role>.</castItem>
-	<castItem><role id="SOLDATS D'OCTAVE" civil='G' type="H" statut='soldat' age='A' stat_amour='néant'>Troupe des soldats d'Octave</role>.</castItem>
+	<castItem><role id='BRUTE' sex="1" type="H" statut='général' age='A' stat_amour='néant'>BRUTE</role>, chef de l'Armée.</castItem>
+	<castItem><role id='CASSIE' sex="1" type="H" statut='général' age='A' stat_amour='néant'>CASSIE</role>, chef de l'Armée.</castItem>
+	<castItem><role id='PORCIE' sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>PORCIE</role> femme de Brute. </castItem>
+	<castItem><role id='JULIE' sex="2" type="H" statut='confident' age='A' stat_amour='néant'>JULIE</role> confidente de Porcie.</castItem>
+	<castItem><role id='MAXIME' sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>MAXIME</role> gentilhomme de Brute. </castItem>
+	<castItem><role id='OCTAVE' sex="1" type="H" statut='triumvir' age='A' stat_amour='néant'>OCTAVE</role> triumvir un des chefs de l'Armée ennemie. </castItem>
+	<castItem><role id='VALERE' sex="1" type="H" statut='cpitaine' age='A' stat_amour='néant'>VALÈRE</role> capitaine des Gardes d'Octave.</castItem> 
+	<castItem><role id='PHILIPE' sex="1" type="H" statut='affranchi' age='A' stat_amour='néant'>PHILIPE</role> affranchi de Cassie. </castItem>
+	<castItem><role id='TITE' sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>TITE</role>.</castItem>
+	<castItem><role id='SOLDATS DE BRUTE' sex="9" type="H" statut='soldat' age='A' stat_amour='néant'>Troupe des soldats de Brute</role>.</castItem>
+	<castItem><role id="SOLDATS D'OCTAVE" sex="9" type="H" statut='soldat' age='A' stat_amour='néant'>Troupe des soldats d'Octave</role>.</castItem>
 </castList>
 <set location='Pharsale' country='Grèce' periode='Ier avant JC' link=''>La scène est au Camp de Pharsale, dans la tente de Porcie.</set>
 </front>

@@ -6,9 +6,10 @@
 			<title>LES FÉES OU LES CONTES DE MA MÈRE L'OYE.</title>
 			<author>BARANTE et DUFESNY</author>
 		</titleStmt>
-		<publicationStmp>
+		<publicationStmt>
 			<p>publié par Paul FIEVRE, décembre 2011</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Comédie</genre>
 			<inspiration>moeurs françaises</inspiration>
@@ -39,20 +40,20 @@
 		</performance>
 
 	<castList><head>ACTEURS</head>
-		<castItem><role id="CROQUIGNOLET" civil="M" type="H" statut="roi" age="A" stat_amour='néant'>CROQUIGNOLET</role>, Roi.</castItem>
-		<castItem><role id="ISMÉNIE" civil="F" type="H" statut="prince" age="J" stat_amour='amoureux'>ISMÉNIE</role>, Fille du Roi. Marinette.</castItem>
-		<castItem><role id="OCTAVE" civil="M" type="H" statut="prince" age="J" stat_amour='amoureux'>OCTAVE</role>, Prince, amant d'Isménie.</castItem>
-		<castItem><role id="ARLEQUIN" civil="M" type="H" statut="valet" age="A" stat_amour='néant'>ARLEQUIN</role>, Valet d'Octave.</castItem>
-		<castItem><role id="LA-NOURRICE" civil="F" type="H" statut="nourrice" age="A" stat_amour='néant'>LA NOURRICE</role> d'Isménie. Mezzetin.</castItem>
-		<castItem><role id="LA-FÉE" civil="F" type="H" statut="roi" age="A" stat_amour='marié'>LA FÉE</role>, Conservatrice de l'honneur des Filles. Colombine.</castItem>
-		<castItem><role id="PIERROT" civil="M" type="H" statut="valet" age="A" stat_amour='néant'>PIERROT</role>, Valet de la Fée.</castItem>
-		<castItem><role id="SCARAMOUCHE" civil="M" type="F" statut="ogre" age="A" stat_amour='néant'>SCARAMOUCHE</role>, Prince des Ogres.</castItem>
-		<castItem><role id="UNE-FÉE" civil="F" type="F" statut="fée" age="A" stat_amour='néant'>UNE FÉE</role>, chantante.</castItem>
-		<castItem><role id="TROUPE-D-OGRES" civil="G" type="H" statut="ogre" age="A" stat_amour='néant'>TROUPE D'OGRES</role>.</castItem>
-		<castItem><role id="UNE-NYMPHE" civil="A" type="D" statut="nymphe" age="A" stat_amour='néant'>UNE NYMPHE</role>, changée en Papillon. La Chanteuse.</castItem>
-		<castItem><role id="UN-BERGER" civil="M" type="H" statut="berger" age="A" stat_amour='néant'>UN BERGER</role>, changé en Lanterne. Léandre.</castItem>
-		<castItem><role id="UN-VIEUX" civil="M" type="H" statut="bourgeois" age="V" stat_amour='néant'>UN VIEUX</role>, changé en Limaçon. Mezzetin.</castItem>
-		<castItem><role id="UNE-DAME" civil="F" type="H" statut="bourgeois" age="A" stat_amour='néant'>UNE DAME</role>, changée en Pendule. Colombine.</castItem>
+		<castItem><role id="CROQUIGNOLET" sex="1" type="H" statut="roi" age="A" stat_amour='néant'>CROQUIGNOLET</role>, Roi.</castItem>
+		<castItem><role id="ISMÉNIE" sex="2" type="H" statut="prince" age="J" stat_amour='amoureux'>ISMÉNIE</role>, Fille du Roi. Marinette.</castItem>
+		<castItem><role id="OCTAVE" sex="1" type="H" statut="prince" age="J" stat_amour='amoureux'>OCTAVE</role>, Prince, amant d'Isménie.</castItem>
+		<castItem><role id="ARLEQUIN" sex="1" type="H" statut="valet" age="A" stat_amour='néant'>ARLEQUIN</role>, Valet d'Octave.</castItem>
+		<castItem><role id="LA-NOURRICE" sex="2" type="H" statut="nourrice" age="A" stat_amour='néant'>LA NOURRICE</role> d'Isménie. Mezzetin.</castItem>
+		<castItem><role id="LA-FÉE" sex="2" type="H" statut="féé" age="A" stat_amour='marié'>LA FÉE</role>, Conservatrice de l'honneur des Filles. Colombine.</castItem>
+		<castItem><role id="PIERROT" sex="1" type="H" statut="valet" age="A" stat_amour='néant'>PIERROT</role>, Valet de la Fée.</castItem>
+		<castItem><role id="SCARAMOUCHE" sex="1" type="F" statut="ogre" age="A" stat_amour='néant'>SCARAMOUCHE</role>, Prince des Ogres.</castItem>
+		<castItem><role id="UNE FÉE" sex="2" type="F" statut="fée" age="A" stat_amour='néant'>UNE FÉE</role>, chantante.</castItem>
+		<castItem><role id="TROUPE D'OGRES" sex="9" type="H" statut="ogre" age="A" stat_amour='néant'>TROUPE D'OGRES</role>.</castItem>
+		<castItem><role id="UNE NYMPHE" sex="2" type="D" statut="nymphe" age="A" stat_amour='néant'>UNE NYMPHE</role>, changée en Papillon. La Chanteuse.</castItem>
+		<castItem><role id="UN BERGER" sex="1" type="H" statut="berger" age="A" stat_amour='néant'>UN BERGER</role>, changé en Lanterne. Léandre.</castItem>
+		<castItem><role id="UN VIEUX" sex="1" type="H" statut="bourgeois" age="V" stat_amour='néant'>UN VIEUX</role>, changé en Limaçon. Mezzetin.</castItem>
+		<castItem><role id="UNE DAME" sex="2" type="H" statut="bourgeois" age="A" stat_amour='néant'>UNE DAME</role>, changée en Pendule. Colombine.</castItem>
     </castList>
 	<set location='Lieu féérique' country='Pays féérique' periode='Temps féériques' link=''>La scène est dans une Caverne d'Ogres.</set>
 </front>

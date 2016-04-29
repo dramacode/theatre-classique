@@ -6,9 +6,10 @@
 			<title>AMADIS, TRAGÉDIE</title>
 			<author born='1635' born_location='Paris' death='1688' death_location='Paris' academie='1670'>QUINAULT, Philippe</author>
 		</titleStmt>
-		<publicationStmp>	
+		<publicationStmt>	
 		<p>publié par Paul FIEVRE, mars 2014.</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Tragédie en musique</genre>
 			<inspiration>mythe grec</inspiration>
@@ -40,31 +41,31 @@
 			<premiere date="1684-01-15" location='Théâtre du Palais-Royal'>Représenté pour la première fois 15 janvier 1684 devant S. M., au Théâtre du Palais-Royal.</premiere>
 		</performance>
 		<castList><head>ACTEURS DU PROLOGUE</head>
-			<castItem><role id="" civil="D" type="H" statut='' age='A' stat_amour='néant'>URGANDE</role>, célèbre enchanteresse, épouse d'Alquif.</castItem>
-			<castItem><role id="" civil="D" type="H" statut='' age='A' stat_amour='néant'>ALQUIF</role>, célèbre enchanteur, époux d'Urgande.</castItem>
-			<castItem><role id="" civil="G" type="H" statut='suivant' age='A' stat_amour='néant'>Suivantes d'Urgande</role>.</castItem>
-			<castItem><role id="" civil="G" type="H" statut='suivant' age='A' stat_amour='néant'>Suivants d'Alquif</role>.</castItem>
+			<castItem><role id="" sex="2" type="H" statut='magicien' age='A' stat_amour='néant'>URGANDE</role>, célèbre enchanteresse, épouse d'Alquif.</castItem>
+			<castItem><role id="" sex="1" type="H" statut='magicien' age='A' stat_amour='néant'>ALQUIF</role>, célèbre enchanteur, époux d'Urgande.</castItem>
+			<castItem><role id="" sex="2" type="H" statut='suivant' age='A' stat_amour='néant'>Suivantes d'Urgande</role>.</castItem>
+			<castItem><role id="" sex="1" type="H" statut='suivant' age='A' stat_amour='néant'>Suivants d'Alquif</role>.</castItem>
 		</castList>
 		<castList><head>ACTEURS DE LA TRAGÉDIE</head>
-			<castItem><role id="AMADIS" civil="F" type="H" statut='prince' age='A' stat_amour='néant'>AMADIS</role>, fils du roi Périon de Gaule.</castItem>
-			<castItem><role id="ORIANE" civil="F" type="H" statut='prince' age='A' stat_amour='néant'>ORIANE</role>, fille de Lisvart, roi de la Grande Bretagne.</castItem>
-			<castItem><role id="FLORESTAN" civil="D" type="H" statut='prince' age='A' stat_amour='néant'>FLORESTAN</role>, fils naturel du roi Périon de Gaule.</castItem>
-			<castItem><role id="CORISANDE" civil="F" type="H" statut='roi' age='A' stat_amour='néant'>CORISANDE</role>, souveraine de Gravesande.</castItem>
-			<castItem><role id="TROUPES DE CHEVALIERS" civil="G" type="H" statut='chevalier' age='A' stat_amour='néant'>TROUPES DE CHEVALIERS</role> combattants dans des jeux à l'honneur d'Oriane.</castItem>
-			<castItem><role id="ARCALAÜS" civil="M" type="H" statut='chevalier' age='A' stat_amour='néant'>ARCALAÜS</role>, chevalier enchanteur, frère d'Arcabonne et d'Ardan Canile.</castItem>
-			<castItem><role id="ARCABONNE" civil="F" type="H" statut='enchanteur' age='A' stat_amour='néant'>ARCABONNE</role>, enchanteresse, soeur d'Arcalaüs et d'Ardan Canile.</castItem>
-			<castItem><role id="TROUPE DE SUIVANTS D'ARCALAÜS" civil="G" type="H" statut='soldat' age='A' stat_amour='néant'>Troupes de suivants et de soldats d'Arcalaüs</role>.</castItem>
-			<castItem><role id="TROUPE DE DEMONS" civil="G" type="H" statut='démon' age='A' stat_amour='néant'>Troupes de démons sous la figure de monstres terribles, de nymphes agréables, de bergers et bergères</role>.</castItem>
-			<castItem><role id="TROUPE DE CAPTIFS" civil="G" type="H" statut='captif' age='A' stat_amour='néant'>Troupe de captifs</role>.</castItem>
-			<castItem><role id="TROUPE DE CAPTIVES" civil="G" type="H" statut='captifs' age='A' stat_amour='néant'>Troupe de captives</role>.</castItem>
-			<castItem><role id="TROPE DE GEÔLIERS" civil="G" type="H" statut='geôlier' age='A' stat_amour='néant'>Troupe de geôliers</role>.</castItem>
-			<castItem><role id="DEMONS VOLANTS" civil="G" type="H" statut='démon' age='A' stat_amour='néant'>Démons volants qui conduisent Arcabonne</role>.</castItem>
-			<castItem><role id="L'OMBRE D'ARDAN CANILE" civil="M" type="F" statut='ombre' age='A' stat_amour='néant'>L'OMBRE D'ARDAN CANILE</role>.</castItem>
-			<castItem><role id="URGANDE" civil="F" type="H" statut='enchanteur' age='A' stat_amour='néant'>URGANDE</role>, célèbre enchanteresse, amie d'Amadis.</castItem>
-			<castItem><role id="TROUPE DE SUIVANTS D'URGANDE" civil="G" type="H" statut='suivant' age='A' stat_amour='néant'>Troupe de suivantes d'Urgande</role>.</castItem>
-			<castItem><role id="TROUPE DE DEMONS INFERNAUX" civil="G" type="H" statut='démon' age='A' stat_amour='néant'>Troupe de démons infernaux</role>.</castItem>
-			<castItem><role id="TROUPE DE DEMONS DE L'AIR" civil="G" type="H" statut='' age='A' stat_amour='néant'>Troupe de démons de l'air</role>.</castItem>
-			<castItem><role id="TROUPE DE HEROS ET D'HEROÏNES" civil="G" type="H" statut='' age='A' stat_amour='néant'>Troupe de héros et d'héroïnes, enchantés dans la chambre défendue du palais d'Appolidon</role>.</castItem>
+			<castItem><role id="AMADIS" sex="2" type="H" statut='prince' age='J' stat_amour='néant'>AMADIS</role>, fils du roi Périon de Gaule.</castItem>
+			<castItem><role id="ORIANE" sex="2" type="H" statut='prince' age='J' stat_amour='néant'>ORIANE</role>, fille de Lisvart, roi de la Grande Bretagne.</castItem>
+			<castItem><role id="FLORESTAN" sex="1" type="H" statut='prince' age='J' stat_amour='néant'>FLORESTAN</role>, fils naturel du roi Périon de Gaule.</castItem>
+			<castItem><role id="CORISANDE" sex="2" type="H" statut='roi' age='A' stat_amour='néant'>CORISANDE</role>, souveraine de Gravesande.</castItem>
+			<castItem><role id="TROUPES DE CHEVALIERS" sex="9" type="H" statut='chevalier' age='A' stat_amour='néant'>TROUPES DE CHEVALIERS</role> combattants dans des jeux à l'honneur d'Oriane.</castItem>
+			<castItem><role id="ARCALAÜS" sex="1" type="H" statut='chevalier' age='A' stat_amour='néant'>ARCALAÜS</role>, chevalier enchanteur, frère d'Arcabonne et d'Ardan Canile.</castItem>
+			<castItem><role id="ARCABONNE" sex="2" type="H" statut='magicien' age='A' stat_amour='néant'>ARCABONNE</role>, enchanteresse, soeur d'Arcalaüs et d'Ardan Canile.</castItem>
+			<castItem><role id="TROUPE DE SUIVANTS D'ARCALAÜS" sex="9" type="H" statut='soldat' age='A' stat_amour='néant'>Troupes de suivants et de soldats d'Arcalaüs</role>.</castItem>
+			<castItem><role id="TROUPE DE DEMONS" sex="9" type="H" statut='démon' age='A' stat_amour='néant'>Troupes de démons sous la figure de monstres terribles, de nymphes agréables, de bergers et bergères</role>.</castItem>
+			<castItem><role id="TROUPE DE CAPTIFS" sex="9" type="H" statut='captif' age='A' stat_amour='néant'>Troupe de captifs</role>.</castItem>
+			<castItem><role id="TROUPE DE CAPTIVES" sex="9" type="H" statut='captifs' age='A' stat_amour='néant'>Troupe de captives</role>.</castItem>
+			<castItem><role id="TROPE DE GEÔLIERS" sex="9" type="H" statut='geôlier' age='A' stat_amour='néant'>Troupe de geôliers</role>.</castItem>
+			<castItem><role id="DEMONS VOLANTS" sex="9" type="H" statut='démon' age='A' stat_amour='néant'>Démons volants qui conduisent Arcabonne</role>.</castItem>
+			<castItem><role id="L'OMBRE D'ARDAN CANILE" sex="1" type="F" statut='ombre' age='A' stat_amour='néant'>L'OMBRE D'ARDAN CANILE</role>.</castItem>
+			<castItem><role id="URGANDE" sex="2" type="H" statut='enchanteur' age='A' stat_amour='néant'>URGANDE</role>, célèbre enchanteresse, amie d'Amadis.</castItem>
+			<castItem><role id="TROUPE DE SUIVANTS D'URGANDE" sex="9" type="H" statut='suivant' age='A' stat_amour='néant'>Troupe de suivantes d'Urgande</role>.</castItem>
+			<castItem><role id="TROUPE DE DEMONS INFERNAUX" sex="9" type="H" statut='démon' age='A' stat_amour='néant'>Troupe de démons infernaux</role>.</castItem>
+			<castItem><role id="TROUPE DE DEMONS DE L'AIR" sex="9" type="H" statut='démon' age='A' stat_amour='néant'>Troupe de démons de l'air</role>.</castItem>
+			<castItem><role id="TROUPE DE HEROS ET D'HEROÏNES" sex="9" type="H" statut='héros' age='A' stat_amour='néant'>Troupe de héros et d'héroïnes, enchantés dans la chambre défendue du palais d'Appolidon</role>.</castItem>
 		</castList>
 	<set location='Palais de Cérès' country='Pays mythologique' periode='Temps mythologiques' link=''>Le théâtre représente la Palais de Cérès.</set>
 	<note>Musique de Jean-Baptiste Lully.</note>

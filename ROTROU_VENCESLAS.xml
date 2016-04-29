@@ -7,9 +7,10 @@
 				<author born='1609' born_location='Dreux' death='1650' death_location='Dreux' academie=''>ROTROU, Jean</author>
 				<date>1648</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<authority>publié par Ernest FIEVRE, décembre 2007</authority>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragi-comédie</genre>
 				<inspiration>histoire polonaise</inspiration>
@@ -51,15 +52,15 @@
 </epitre>
 
 <castList><head>ACTEURS </head>
-	<castItem><role id="VENCESLAS" civil='M' type="H" statut='roi' age='A' stat_amour='néant'>VENCESLAS</role>, roi de Pologne.</castItem>
-	<castItem><role id="LADISLAS" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>LADISLAS</role>, son fils, prince.</castItem>
-	<castItem><role id="ALEXANDRE" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>ALEXANDRE</role>, infant.</castItem>
-	<castItem><role id="FEDERIC" civil='M' type="H" statut='duc' age='A' stat_amour='néant'>FEDERIC</role>, duc de Curlande et favori.</castItem>
-	<castItem><role id="OCTAVE" civil='M' type="H" statut='gouverneur' age='A' stat_amour='néant'>OCTAVE</role>, gouverneur de Varsovie.</castItem>
-	<castItem><role id="GARDES" civil='G' type="H" statut='garde' age='A' stat_amour='néant'>Gardes</role>.</castItem>
-	<castItem><role id="CASSANDRE" civil='M' type="H" statut='duc' age='A' stat_amour='néant'>CASSANDRE</role>, duchesse de Cunisberg.</castItem>
-	<castItem><role id="THÉODORE" civil='M' type="H" statut='duc' age='A' stat_amour='néant'>THÉODORE</role>, infante.</castItem>
-	<castItem><role id="LÉONOR" civil='F' type="H" statut='suivante' age='A' stat_amour='néant'>LÉONOR</role>, suivante.</castItem>
+	<castItem><role id="VENCESLAS" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>VENCESLAS</role>, roi de Pologne.</castItem>
+	<castItem><role id="LADISLAS" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>LADISLAS</role>, son fils, prince.</castItem>
+	<castItem><role id="ALEXANDRE" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>ALEXANDRE</role>, infant.</castItem>
+	<castItem><role id="FEDERIC" sex="1" type="H" statut='duc' age='A' stat_amour='néant'>FEDERIC</role>, duc de Curlande et favori.</castItem>
+	<castItem><role id="OCTAVE" sex="1" type="H" statut='gouverneur' age='A' stat_amour='néant'>OCTAVE</role>, gouverneur de Varsovie.</castItem>
+	<castItem><role id="GARDES" sex="9" type="H" statut='garde' age='A' stat_amour='néant'>Gardes</role>.</castItem>
+	<castItem><role id="CASSANDRE" sex="1" type="H" statut='duc' age='A' stat_amour='néant'>CASSANDRE</role>, duchesse de Cunisberg.</castItem>
+	<castItem><role id="THÉODORE" sex="1" type="H" statut='duc' age='A' stat_amour='néant'>THÉODORE</role>, infante.</castItem>
+	<castItem><role id="LÉONOR" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>LÉONOR</role>, suivante.</castItem>
 </castList>
 <set location='Pologne' country='Pologne' periode='XIVème' link=''></set>
 </front>

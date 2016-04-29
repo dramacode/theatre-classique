@@ -7,9 +7,10 @@
 				<author born='1622' born_location='Paris' death='1673' death_location='Paris' academie=''>MOLIÈRE</author>
 				<date>1659</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE mars 2010</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -20,6 +21,7 @@
 				<permalien>http://gallica.bnf.fr/ark:/12148/bpt6k70179z</permalien>
 				<liens>
 					<lien type="theme">Préciosité</lien>
+					<lien type="oeuvre citée">La CLélie de Madeleine de Scudery</lien>
 				</liens>	
 
 			</SourceDesc>
@@ -53,18 +55,18 @@
 <p>J'aurais parlé aussi à mes amis, qui, pour la recommandation de ma pièce, ne m'auraient pas refusé, ou des vers français, ou des vers latins. J'en ai même qui m'auraient loué en grec, et l'on n'ignore pas qu'une louange en grec est d'une merveilleuse efficace à la tête d'un livre. Mais on me met au jour sans me donner le loisir de me reconnaître ; et je ne puis même obtenir la liberté de dire deux mots pour justifier mes intentions sur le sujet de cette comédie. J'aurais voulu faire voir qu'elle se tient partout dans les bornes de la satire honnête et permise ; que les plus excellentes choses sont sujettes à être copiées par de mauvais singes qui méritent d'être bernés ; que ces vicieuses imitations de ce qu'il y a de plus parfait ont été de tout temps la matière de la comédie ; et que, par la même raison les véritables savants et les vrais braves ne se sont point encore avisés de s'offenser du Docteur de la comédie, et du Capitan ; non plus que les juges, les princes et les rois, de voir Trivelin, ou quelque autre, sur le théâtre, faire ridiculement le juge, le prince ou le roi : aussi les véritables précieuses auraient tort de se piquer, lorsqu'on joue les ridicules qui les imitent mal. Mais enfin, comme j'ai dit, on ne me laisse pas le temps de respirer, et M. de Luyne veut m'aller relier de ce pas : à la bonne heure, puisque Dieu l'a voulu. </p>
 </div>
 		<castList><head>PERSONNAGES</head>
-			<castItem><role id="LA-GRANGE" civil='M' type="H" statut="bourgeois" age="A" stat_amour='amoureux'>LA GRANGE</role>, amant rebuté.</castItem>
-			<castItem><role id="DU-CROISY" civil='M' type="H" statut="bourgeois" age="A" stat_amour='amoureux'>DU CROISY</role>, amant rebuté.</castItem>
-			<castItem><role id="GORGIBUS" civil='M' type="H" statut="bourgeois" age="A" stat_amour='néant'>GORGIBUS</role>, bon bourgeois. </castItem>
-			<castItem><role id="MAGDELON" civil='F' type="H" statut="bourgeois" age="A" stat_amour='néant'>MAGDELON</role>, fille de Gorgibus, précieuse ridicule.</castItem>
-			<castItem><role id="CATHOS" civil='F' type="H" statut="bourgeois" age="A" stat_amour='néant'>CATHOS</role>, nièce de Gorgibus, précieuse ridicule.</castItem>
-			<castItem><role id="MAROTTE" civil='F' type="H" statut="servante" age="A" stat_amour='néant'>MAROTTE</role>, servante des Précieuses ridicules. </castItem>
-			<castItem><role id="ALMANZOR" civil='M' type="H" statut="laquais" age="A" stat_amour='néant'>ALMANZOR</role>, laquais des Précieuses ridicules.</castItem>
-			<castItem><role id="MASCARILLE" civil='M' type="H" statut="valet" age="A" stat_amour='néant'>LE MARQUIS DE MASCARILLE</role>, valet de La Grange.</castItem>
-			<castItem><role id="JODELET" civil='M' type="H" statut="valet" age="A" stat_amour='néant'>LE VICOMTE DE JODELET</role>, valet de Du Croisy.</castItem>
-			<castItem><role id="DEUX-PORTEURS" civil='G' type="H" statut="porteur de chaise" age="A" stat_amour='néant'>DEUX PORTEURS DE CHAISE</role>.</castItem>
-			<castItem><role id="VOSINES" civil='G' type="H" statut="bourgeois" age="A" stat_amour='néant'>VOISINES</role>.</castItem>
-			<castItem><role id="VIOLONS" civil='G' type="H" statut="musicien" age="A" stat_amour='néant'>VIOLONS</role>.</castItem>
+			<castItem><role id="LA-GRANGE" sex="1" type="H" statut="bourgeois" age="A" stat_amour='amoureux'>LA GRANGE</role>, amant rebuté.</castItem>
+			<castItem><role id="DU-CROISY" sex="1" type="H" statut="bourgeois" age="A" stat_amour='amoureux'>DU CROISY</role>, amant rebuté.</castItem>
+			<castItem><role id="GORGIBUS" sex="1" type="H" statut="bourgeois" age="A" stat_amour='néant'>GORGIBUS</role>, bon bourgeois. </castItem>
+			<castItem><role id="MAGDELON" sex="2" type="H" statut="bourgeois" age="J" stat_amour='néant'>MAGDELON</role>, fille de Gorgibus, précieuse ridicule.</castItem>
+			<castItem><role id="CATHOS" sex="2" type="H" statut="bourgeois" age="J" stat_amour='néant'>CATHOS</role>, nièce de Gorgibus, précieuse ridicule.</castItem>
+			<castItem><role id="MAROTTE" sex="2" type="H" statut="servante" age="A" stat_amour='néant'>MAROTTE</role>, servante des Précieuses ridicules. </castItem>
+			<castItem><role id="ALMANZOR" sex="1" type="H" statut="laquais" age="A" stat_amour='néant'>ALMANZOR</role>, laquais des Précieuses ridicules.</castItem>
+			<castItem><role id="MASCARILLE" sex="1" type="H" statut="valet" age="A" stat_amour='néant'>LE MARQUIS DE MASCARILLE</role>, valet de La Grange.</castItem>
+			<castItem><role id="JODELET" sex="1" type="H" statut="valet" age="A" stat_amour='néant'>LE VICOMTE DE JODELET</role>, valet de Du Croisy.</castItem>
+			<castItem><role id="DEUX-PORTEURS" sex="9" type="H" statut="porteur de chaise" age="A" stat_amour='néant'>DEUX PORTEURS DE CHAISE</role>.</castItem>
+			<castItem><role id="VOSINES" sex="9" type="H" statut="bourgeois" age="A" stat_amour='néant'>VOISINES</role>.</castItem>
+			<castItem><role id="VIOLONS" sex="9" type="H" statut="musicien" age="A" stat_amour='néant'>VIOLONS</role>.</castItem>
 		</castList>
 	<set location="Paris" country='France' periode='XVIIème' link=''>La scène est à Paris. </set>
 </front>
@@ -1516,7 +1518,7 @@
 </sp>
 <sp who='MAGDELON'><speaker>MAGDELON.</speaker>
 <p id='46'>
-	<s id='1'>Almanzor, dites aux gens de Monsieur qu'ils aillent qu2rir des violons, et nous faites venir ces Messieurs et ces Dames d'ici près, pour peupler la solitude de notre bal. </s>
+	<s id='1'>Almanzor, dites aux gens de Monsieur qu'ils aillent quérir des violons, et nous faites venir ces Messieurs et ces Dames d'ici près, pour peupler la solitude de notre bal. </s>
 </p>
 </sp>
 <sp who='MASCARILLE'><speaker>MASCARILLE.</speaker>
@@ -1825,7 +1827,7 @@
 	<s id='1'>Je crève de dépit. </s>
 </p>
 </sp>
-<sp who='VIOLONS'><speaker>VIOLONS, au Marquis. .</speaker>
+<sp who='VIOLONS'><speaker>VIOLONS, au Marquis.</speaker>
 <p id='17'>
 	<s id='1'>Qu'est-ce donc que ceci ? </s>
 	<s id='2'>Qui nous payera, nous autres ? </s>
@@ -1836,7 +1838,7 @@
 	<s id='1'>Demandez à Monsieur le Vicomte. </s>
 </p>
 </sp>
-<sp who='VIOLONS'><speaker>VIOLONS, au Vicomte. .</speaker>
+<sp who='VIOLONS'><speaker>VIOLONS, au Vicomte.</speaker>
 <p id='19'>
 	<s id='1'>Qui est-ce qui nous donnera de l'argent ? </s>
 </p>

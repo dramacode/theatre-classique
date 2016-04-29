@@ -6,9 +6,10 @@
 				<title>LES LOIS DE MINOS, TRAGÉDIE</title>
 				<author born='1694' born_location='Paris' death='1778' death_location='Paris' academie='1746'>VOLTAIRE</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<authority>publié par Paul FIEVRE, Septembre 2006, revu mars 2016</authority>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>mythe grec</inspiration>
@@ -38,16 +39,16 @@
 				<premiere date='1774-17-01' location="Grand Théâtre de la Monnaie de Bruxelles">Représenté pour la première fois le 17 janvier 1774 au Grand Théâtre de la Monnaie de Bruxelles.</premiere>
 			</performance>
 <castList><head>PERSONNAGES</head>
-	<castItem><role id='TEUCER' civil='M' type="A" statut='roi' age='A' stat_amour='néant'>TEUCER</role>, roi de Crète.</castItem>
-	<castItem><role id='MERIONE' civil='M' type="A" statut='aristocrate' age='A' stat_amour='néant'>MÉRIONE</role>, archonte.</castItem>
-	<castItem><role id='DICTIME' civil='M' type="A" statut='aristocrate' age='A' stat_amour='néant'>DICTIME</role>, archonte.</castItem>
-	<castItem><role id='PHARES' civil='M' type="A" statut='sacrificateur' age='A' stat_amour='néant'>PHARÈS</role>, grand sacrificateur.</castItem>
-	<castItem><role id='AZEMON' civil='M' type="A" statut='soldat' age='A' stat_amour='néant'>AZÉMON</role>, guerrier de Cydonie.</castItem>
-	<castItem><role id='DATAME' civil='M' type="A" statut='soldat' age='A' stat_amour='néant'>DATAME</role>, guerrier de Cydonie.</castItem>
-	<castItem><role id='ASTERIE' civil='F' type="A" statut='prisonnier' age='A' stat_amour='néant'>ASTÉRIE</role>, captive.</castItem>
-	<castItem><role id='HERAUT' civil='M' type="A" statut='héraut' age='A' stat_amour='néant'>Un HÉRAUT</role>.</castItem>
-	<castItem><role id='GUERRIERS CYDONIENS' civil='G' type="A" statut='soldat' age='A' stat_amour='néant'>PLUSIEURS GUERRIERS CYDONIENS</role></castItem>
-	<castItem><role id='SUITE' civil='G' type="A" statut='' age='A' stat_amour='néant'>SUITE</role>, etc.</castItem>
+	<castItem><role id='TEUCER' sex="1" type="P" statut='roi' age='A' stat_amour='néant'>TEUCER</role>, roi de Crète.</castItem>
+	<castItem><role id='MERIONE' sex="1" type="P" statut='aristocrate' age='A' stat_amour='néant'>MÉRIONE</role>, archonte.</castItem>
+	<castItem><role id='DICTIME' sex="1" type="P" statut='aristocrate' age='A' stat_amour='néant'>DICTIME</role>, archonte.</castItem>
+	<castItem><role id='PHARES' sex="1" type="P" statut='sacrificateur' age='A' stat_amour='néant'>PHARÈS</role>, grand sacrificateur.</castItem>
+	<castItem><role id='AZEMON' sex="1" type="P" statut='soldat' age='A' stat_amour='néant'>AZÉMON</role>, guerrier de Cydonie.</castItem>
+	<castItem><role id='DATAME' sex="1" type="P" statut='soldat' age='A' stat_amour='néant'>DATAME</role>, guerrier de Cydonie.</castItem>
+	<castItem><role id='ASTERIE' sex="2" type="P" statut='prisonnier' age='A' stat_amour='néant'>ASTÉRIE</role>, captive.</castItem>
+	<castItem><role id='HERAUT' sex="1" type="P" statut='héraut' age='A' stat_amour='néant'>Un HÉRAUT</role>.</castItem>
+	<castItem><role id='GUERRIERS CYDONIENS' sex="9" type="P" statut='soldat' age='A' stat_amour='néant'>PLUSIEURS GUERRIERS CYDONIENS</role></castItem>
+	<castItem><role id='SUITE' sex="9" type="P" statut='' age='A' stat_amour='néant'>SUITE</role>, etc.</castItem>
 </castList>
 <set location='Gortine' country='Crète' periode='Temps mythologiques' link=''>La scène est à Gortine, ville de Crète.</set>
 </front>

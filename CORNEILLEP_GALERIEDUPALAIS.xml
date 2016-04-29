@@ -7,9 +7,10 @@
 				<author born='1606' born_location='Rouen' death='1684' death_location='Paris' academie='1647'>CORNEILLE, Pierre</author>
 				<date>1633</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE</p><p>Mai 2006</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -54,18 +55,18 @@
 <signature>CORNEILLE</signature>
 </div>
 		<castList><head>ACTEURS</head>
-			<castItem><role id="PLEIRANTE" civil="M" type="H" statut='aristocrate' age='A' stat_amour='néant'>PLEIRANTE</role>, père de Célidée.</castItem>
-			<castItem><role id="LYSANDRE" civil="M" type="H" statut='aristocrate' age='A' stat_amour='néant'>LYSANDRE</role>, amant de Célidée.</castItem>
-			<castItem><role id="DORIMANT" civil="M" type="H" statut='aristocrate' age='A' stat_amour='amoureux'>DORIMANT</role>, amoureux d'Hippolyte.</castItem>
-			<castItem><role id="CHRYSANTE" civil="M" type="H" statut='aristocrate' age='A' stat_amour='néant'>CHRYSANTE</role>, mère d'Hippolyte.</castItem>
-			<castItem><role id="CELIDEE" civil="M" type="H" statut='aristocrate' age='A' stat_amour='néant'>CÉLIDÉE</role>, fille de Pleirante.</castItem>
-			<castItem><role id="HIPPOLYTE" civil="F" type="H" statut='aristocrate' age='A' stat_amour='amoureux'>HYPPOLYTE</role>, fille de Chrysante.</castItem>
-			<castItem><role id="ARONTE" civil="M" type="H" statut='écuyer' age='A' stat_amour='néant'>ARONTE</role>, écuyer de Lysandre.</castItem>
-			<castItem><role id="CLEANTE" civil="M" type="H" statut='écuyer' age='A' stat_amour='néant'>CLÉANTE</role>, écuyer de Dorimant.</castItem>
-			<castItem><role id="FLORICE" civil="F" type="H" statut='suivante' age='A' stat_amour='néant'>FLORICE</role>, suivante d'Hippolyte.</castItem>
-			<castItem><role id="LIBRAIRE" civil="M" type="H" statut='libraire' age='A' stat_amour='néant'>Le Libraire du palais </role>.</castItem>
-			<castItem><role id="MERCIER" civil="M" type="H" statut='mercier' age='A' stat_amour='néant'>Le Mercier du palais</role>.</castItem>
-			<castItem><role id="LINGERE" civil="F" type="H" statut='lingère' age='A' stat_amour='néant'>La Lingère du palais</role>.</castItem>
+			<castItem><role id="PLEIRANTE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>PLEIRANTE</role>, père de Célidée.</castItem>
+			<castItem><role id="LYSANDRE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>LYSANDRE</role>, amant de Célidée.</castItem>
+			<castItem><role id="DORIMANT" sex="1" type="H" statut='aristocrate' age='A' stat_amour='amoureux'>DORIMANT</role>, amoureux d'Hippolyte.</castItem>
+			<castItem><role id="CHRYSANTE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>CHRYSANTE</role>, mère d'Hippolyte.</castItem>
+			<castItem><role id="CELIDEE" sex="1" type="H" statut='aristocrate' age='J' stat_amour='néant'>CÉLIDÉE</role>, fille de Pleirante.</castItem>
+			<castItem><role id="HIPPOLYTE" sex="2" type="H" statut='aristocrate' age='J' stat_amour='amoureux'>HYPPOLYTE</role>, fille de Chrysante.</castItem>
+			<castItem><role id="ARONTE" sex="1" type="H" statut='écuyer' age='A' stat_amour='néant'>ARONTE</role>, écuyer de Lysandre.</castItem>
+			<castItem><role id="CLEANTE" sex="1" type="H" statut='écuyer' age='A' stat_amour='néant'>CLÉANTE</role>, écuyer de Dorimant.</castItem>
+			<castItem><role id="FLORICE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>FLORICE</role>, suivante d'Hippolyte.</castItem>
+			<castItem><role id="LIBRAIRE" sex="1" type="H" statut='libraire' age='A' stat_amour='néant'>LE LIBRAIRE DU PALAIS</role>.</castItem>
+			<castItem><role id="MERCIER" sex="1" type="H" statut='mercier' age='A' stat_amour='néant'>LE MERCIER DU PALAIS</role>.</castItem>
+			<castItem><role id="LINGÈRE" sex="2" type="H" statut='lingère' age='A' stat_amour='néant'>LA LINGÈRE DU PALAIS</role>.</castItem>
 		</castList>
 		<set location='Paris' country='France' periode='XVIIème' link=''>La scène est à Paris.</set>
 	</front>

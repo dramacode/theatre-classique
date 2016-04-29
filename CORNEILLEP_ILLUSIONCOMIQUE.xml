@@ -7,9 +7,10 @@
 				<author born='1606' born_location='Rouen' death='1684' death_location='Paris' academie='1647'>CORNEILLE, Pierre</author>
 				<date>1636</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE</p><p>Mai 2006</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -58,23 +59,23 @@
 <p>Je ne m'étendrai pas davantage sur ce poème: tout irrégulier qu'il est, il faut qu'il ait quelque mérite, puisqu'il a surmonté l'injure des temps, et qu'il paraît encore sur nos théâtres, bien qu'il y ait plus de trente années qu'il est au monde, et qu'une si longue révolution en ait enseveli beaucoup sous la poussière, qui semblaient avoir plus de droit que lui de prétendre à une si heureuse durée. </p>
 </div>
 		<castList><head>ACTEURS</head>
-			<castItem><role id="ALCANDRE" civil='M' type="H" statut='magicien' age='A' stat_amour='néant'>ALCANDRE</role>, magicien.</castItem>
-			<castItem><role id="PRIDAMANT" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>PRIDAMANT</role>, père de Clindor.</castItem>
-			<castItem><role id="DORANTE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>DORANTE</role>, ami de Pridamant.</castItem>
-			<castItem><role id="MATAMORE" civil='M' type="H" statut='capitaine' age='A' stat_amour='amoureux'>MATAMORE</role>, capitaine gascon, amoureux d'Isabelle.</castItem>
-			<castItem><role id="CLINDOR" civil='M' type="H" statut='suivant' age='A' stat_amour='amoureux'>CLINDOR</role>, suivant de Capitan, et amant d'Isabelle.</castItem>
-			<castItem><role id="ADRASTE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>ADRASTE</role>, gentilhomme, amoureux d'Isabelle.</castItem>
-			<castItem><role id="GERONTE" civil='M' type="H" statut='bourgeois' age='V' stat_amour='néant'>GÉRONTE</role>, père d'Isabelle.</castItem>
-			<castItem><role id="ISABELLE" civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>ISABELLE</role>, fille de Géronte.</castItem>
-			<castItem><role id="LYSE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>LYSE</role>.</castItem>
-			<castItem><role id="LE-GEÔLIER" civil='M' type="H" statut='geôlier' age='A' stat_amour='néant'>LE GEÔLIER</role>, de Bordeaux.</castItem>
-			<castItem><role id="PAGE" civil='M' type="H" statut='page' age='A' stat_amour='néant'>PAGE du CAPITAN</role>.</castItem>
-			<castItem><role id="THEAGENE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>CLINDOR</role>, représentant Théagène, seigneur anglais.</castItem>
-			<castItem><role id="HIPOLITE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>ISABELLE</role>, représentant Hyppolyte, femme de Théagène.</castItem>
-			<castItem><role id="CLARINE" civil='F' type="H" statut='suivante' age='A' stat_amour='néant'>LYSE</role>, représentant Clarine, suivante d'Hippolyte.</castItem>
-			<castItem><role id="ERASTE" civil='M' type="H" statut='écuyer' age='A' stat_amour='néant'>ERASTE</role>, écuyer de Florilame.</castItem>
-			<castItem><role id="DOMESTIQUES_ADRESTE" civil='G' type="H" statut='domestique' age='A' stat_amour='néant'>Troupe de domestiques d'Adreste</role>.</castItem>
-			<castItem><role id="DOMESTIQUES_FLORILAME" civil='G' type="H" statut='domestique' age='A' stat_amour='néant'>Troupes de domestiques de Florilame</role>.</castItem>
+			<castItem><role id="ALCANDRE" sex="1" type="H" statut='magicien' age='A' stat_amour='néant'>ALCANDRE</role>, magicien.</castItem>
+			<castItem><role id="PRIDAMANT" sex="1" type="H" statut='bourgeois' age='V' stat_amour='néant'>PRIDAMANT</role>, père de Clindor.</castItem>
+			<castItem><role id="DORANTE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>DORANTE</role>, ami de Pridamant.</castItem>
+			<castItem><role id="MATAMORE" sex="1" type="H" statut='capitaine' age='A' stat_amour='amoureux'>MATAMORE</role>, capitaine gascon, amoureux d'Isabelle.</castItem>
+			<castItem><role id="CLINDOR" sex="1" type="H" statut='suivant' age='A' stat_amour='amoureux'>CLINDOR</role>, suivant de Capitan, et amant d'Isabelle.</castItem>
+			<castItem><role id="ADRASTE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>ADRASTE</role>, gentilhomme, amoureux d'Isabelle.</castItem>
+			<castItem><role id="GERONTE" sex="1" type="H" statut='bourgeois' age='V' stat_amour='néant'>GÉRONTE</role>, père d'Isabelle.</castItem>
+			<castItem><role id="ISABELLE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>ISABELLE</role>, fille de Géronte.</castItem>
+			<castItem><role id="LYSE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>LYSE</role>.</castItem>
+			<castItem><role id="LE-GEÔLIER" sex="1" type="H" statut='geôlier' age='A' stat_amour='néant'>LE GEÔLIER</role>, de Bordeaux.</castItem>
+			<castItem><role id="PAGE" sex="1" type="H" statut='page' age='A' stat_amour='néant'>PAGE du CAPITAN</role>.</castItem>
+			<castItem><role id="THEAGENE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>CLINDOR</role>, représentant Théagène, seigneur anglais.</castItem>
+			<castItem><role id="HIPOLITE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>ISABELLE</role>, représentant Hyppolyte, femme de Théagène.</castItem>
+			<castItem><role id="CLARINE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>LYSE</role>, représentant Clarine, suivante d'Hippolyte.</castItem>
+			<castItem><role id="ÉRASTE" sex="1" type="H" statut='écuyer' age='A' stat_amour='néant'>ÉRASTE</role>, écuyer de Florilame.</castItem>
+			<castItem><role id="DOMESTIQUES D'ADRESTE" sex="9" type="H" statut='domestique' age='A' stat_amour='néant'>Troupe de domestiques d'Adreste</role>.</castItem>
+			<castItem><role id="DOMESTIQUES DE FLORILAME" sex="9" type="H" statut='domestique' age='A' stat_amour='néant'>Troupes de domestiques de Florilame</role>.</castItem>
 		</castList>
 		<set location='Touraine' country='France' periode='XVIIème'>La scène est en Touraine, en une compagnie proche de la grotte de magicien.</set>
 	</front>

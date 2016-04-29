@@ -6,9 +6,10 @@
 			<title>ACIS ET GALATÉE, PASTORALE HÉROÏQUE</title>
 			<author born='1656' born_location='Toulouse' death='1713' death_location='Toulouse' academie='1701'>CAMPISTRON, Jean G. de</author>
 		</titleStmt>
-		<publicationStmp>	
+		<publicationStmt>	
 			<p>publié par Paul FIEVRE, février 2013</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Pastorale héroïque</genre>
 			<inspiration>mythe grec</inspiration>
@@ -44,23 +45,23 @@
 		<premiere date='1686-11-07' location='Théâtre du Palais-Royal'>Représenté pour la première fois en 1686 dans le Château d'Anet devant Monseigneur le Dauphin.</premiere>
 	</performance>
 	<castList><head>ACTEURS DU PROLOGUE.</head>
-		<castItem><role id="DIANE" civil='F'  type="D" statut='dieu' age='A' stat_amour='néant'>DIANE</role>.</castItem>
-		<castItem><role id="L'ABONDANCE" civil='M'  type="A" statut='allégorie' age='A' stat_amour='néant'>L'ABONDANCE</role>.</castItem>
-		<castItem><role id="COMUS" civil='M'  type="D" statut='dieu' age='A' stat_amour='néant'>COMUS</role>.</castItem>
-		<castItem><role id="SUITE" civil='G'  type="A" statut='suite' age='A' stat_amour='néant'>SUITE DE L'ABONDANCE ET DE COMUS</role>.</castItem>
-		<castItem><role id="APOLLON" civil='M'  type="D" statut='dieu' age='A' stat_amour='néant'>APOLLON</role>.</castItem>
+		<castItem><role id="DIANE" sex="2"  type="D" statut='dieu' age='A' stat_amour='néant'>DIANE</role>.</castItem>
+		<castItem><role id="L'ABONDANCE" sex="1"  type="P" statut='allégorie' age='A' stat_amour='néant'>L'ABONDANCE</role>.</castItem>
+		<castItem><role id="COMUS" sex="1"  type="D" statut='dieu' age='A' stat_amour='néant'>COMUS</role>.</castItem>
+		<castItem><role id="SUITE" sex="9"  type="P" statut='suite' age='A' stat_amour='néant'>SUITE DE L'ABONDANCE ET DE COMUS</role>.</castItem>
+		<castItem><role id="APOLLON" sex="1"  type="D" statut='dieu' age='A' stat_amour='néant'>APOLLON</role>.</castItem>
 </castList>
 
 	<castList><head>ACTEURS DE LA TRAGÉDIE.</head>
-		<castItem><role id="ACIS" civil='M'  type="H" statut='berger' age='A' stat_amour='néant'>ACIS</role>, berger, Amant de Galatée.</castItem>
-		<castItem><role id="GALATÉE" civil='F'  type="H" statut='nymphe' age='A' stat_amour='Poliphème'>GALATÉE</role>, nymphe de la Mer, fille de Nérée et de Doris. </castItem>
-		<castItem><role id="POLIPHÈME" civil='M'  type="H" statut='géant' age='A' stat_amour='Galatée'>POLIPHÈME</role>, géant fils de Neptune, et amant de Galatée.</castItem>
-		<castItem><role id="TÉLÈME" civil='M'  type="H" statut='berger' age='A' stat_amour='néant'>TÉLÈME</role>, berger, Amant de Scylla.</castItem>
-		<castItem><role id="SCYLLA" civil='F'  type="H" statut='berger' age='A' stat_amour='néant'>SCYLLA</role>, bergère, amie de Galatée.</castItem>
-		<castItem><role id="TIRCIS" civil='M'  type="H" statut='berger' age='A' stat_amour='néant'>TIRCIS</role>, berger, Amant d'Aminte.</castItem>
-		<castItem><role id="AMINTE" civil='F'  type="H" statut='berger' age='A' stat_amour='néant'>AMINTE</role>, bergère.</castItem>
-		<castItem><role id="NEPTUNE" civil='M'  type="H" statut='dieu' age='A' stat_amour='néant'>NEPTUNE</role>.</castItem>
-		<castItem><role id="PRÊTRESSE DE JUNON" civil='F'  type="H" statut='prêtre' age='A' stat_amour='néant'>UNE PRÊTRESSE DE JUNON</role>.</castItem>
+		<castItem><role id="ACIS" sex="1"  type="H" statut='berger' age='A' stat_amour='Galathée'>ACIS</role>, berger, Amant de Galatée.</castItem>
+		<castItem><role id="GALATÉE" sex="2"  type="H" statut='nymphe' age='A' stat_amour='Poliphème'>GALATÉE</role>, nymphe de la Mer, fille de Nérée et de Doris. </castItem>
+		<castItem><role id="POLIPHÈME" sex="1"  type="H" statut='géant' age='A' stat_amour='Galatée'>POLIPHÈME</role>, géant fils de Neptune, et amant de Galatée.</castItem>
+		<castItem><role id="TÉLÈME" sex="1"  type="H" statut='berger' age='A' stat_amour='néant'>TÉLÈME</role>, berger, Amant de Scylla.</castItem>
+		<castItem><role id="SCYLLA" sex="2"  type="H" statut='berger' age='A' stat_amour='néant'>SCYLLA</role>, bergère, amie de Galatée.</castItem>
+		<castItem><role id="TIRCIS" sex="1"  type="H" statut='berger' age='A' stat_amour='néant'>TIRCIS</role>, berger, Amant d'Aminte.</castItem>
+		<castItem><role id="AMINTE" sex="2"  type="H" statut='berger' age='A' stat_amour='néant'>AMINTE</role>, bergère.</castItem>
+		<castItem><role id="NEPTUNE" sex="1"  type="H" statut='dieu' age='A' stat_amour='néant'>NEPTUNE</role>.</castItem>
+		<castItem><role id="PRÊTRESSE DE JUNON" sex="2"  type="H" statut='prêtre' age='A' stat_amour='néant'>UNE PRÊTRESSE DE JUNON</role>.</castItem>
 	</castList>
 <set location='Troie' country='Turquie' periode='Temps mythologiques' link=''></set>
 </front>

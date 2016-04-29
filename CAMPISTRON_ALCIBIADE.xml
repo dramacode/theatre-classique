@@ -6,9 +6,10 @@
 			<title>ALCIBIADE, TRAGÉDIE</title>
 			<author born='1656' born_location='Toulouse' death='1713' death_location='Toulouse' academie='1701'>CAMPISTRON, Jean Galbert de</author>
 		</titleStmt>
-		<publicationStmp>
+		<publicationStmt>
 			<p>publié par Paul FIEVRE, Août 2007</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Tragédie</genre>
 			<inspiration>histoire grecque</inspiration>
@@ -38,16 +39,16 @@
 			<premiere date='1685-12-28' location='Hôtel Guénégaud'>Représenté pour la première fois le 28 décembre 1685 au Théâtre de l'Hôtel Guénégaud.</premiere>
 		</performance>
 		<castList><head>ACTEURS</head>
-		<castItem><role id="ARTAXERCE" civil='M' type="H" statut='roi' age='A' stat_amour='néant'>ARTAXERCE</role>, roi de Perse.</castItem>
-			<castItem><role id="PALMIS" civil='F' type="H" statut='prince' age='A' stat_amour='néant'>PALMIS</role>, fille d'Artaxerce.</castItem>
-			<castItem><role id="ARTEMISE" civil='F' type="H" statut='prince' age='A' stat_amour='néant'>ARTÉMISE</role>, princesse du sang des rois de Perse.</castItem>
-			<castItem><role id="PHARNABAZE" civil='M' type="H" statut='soldat' age='A' stat_amour='néant'>PHARNABAZE</role>, satrape, favori d'Artaxerce.</castItem>
-			<castItem><role id="ALCIBIADE" civil='M' type="H" statut='général' age='A' stat_amour='néant'>ALCIBIADE</role>, athénien, banni de sa patrie.</castItem>
-			<castItem><role id="AMESTRIS" civil='F' type="H" statut='gouvernante' age='A' stat_amour='néant'>AMESTRIS</role>, gouvernante de Palmis.</castItem>
-			<castItem><role id="BARSINE" civil='F' type="H" statut='confident' age='A' stat_amour='néant'>BARSINE</role>, confidente d'Artémise.</castItem>
-			<castItem><role id="AMINTAS" civil='M' type="H" statut='confident' age='A' stat_amour='néant'>AMINTAS</role>, athénien, confident d'Alcibiade.</castItem>
-			<castItem><role id="MEMNON" civil='M' type="H" statut='officier' age='A' stat_amour='néant'>MEMNON</role>, officier de l'armée d'Artaxerce.</castItem>
-			<castItem><role id="GARDES" civil='G' type="H" statut='garde' age='A' stat_amour='néant'>Gardes</role>.</castItem>
+		<castItem><role id="ARTAXERCE" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>ARTAXERCE</role>, roi de Perse.</castItem>
+			<castItem><role id="PALMIS" sex="2" type="H" statut='prince' age='J' stat_amour='néant'>PALMIS</role>, fille d'Artaxerce.</castItem>
+			<castItem><role id="ARTEMISE" sex="2" type="H" statut='prince' age='J' stat_amour='néant'>ARTÉMISE</role>, princesse du sang des rois de Perse.</castItem>
+			<castItem><role id="PHARNABAZE" sex="1" type="H" statut='soldat' age='A' stat_amour='néant'>PHARNABAZE</role>, satrape, favori d'Artaxerce.</castItem>
+			<castItem><role id="ALCIBIADE" sex="1" type="H" statut='général' age='A' stat_amour='néant'>ALCIBIADE</role>, athénien, banni de sa patrie.</castItem>
+			<castItem><role id="AMESTRIS" sex="2" type="H" statut='gouvernante' age='A' stat_amour='néant'>AMESTRIS</role>, gouvernante de Palmis.</castItem>
+			<castItem><role id="BARSINE" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>BARSINE</role>, confidente d'Artémise.</castItem>
+			<castItem><role id="AMINTAS" sex="1" type="H" statut='confident' age='A' stat_amour='néant'>AMINTAS</role>, athénien, confident d'Alcibiade.</castItem>
+			<castItem><role id="MEMNON" sex="1" type="H" statut='officier' age='A' stat_amour='néant'>MEMNON</role>, officier de l'armée d'Artaxerce.</castItem>
+			<castItem><role id="GARDES" sex="9" type="H" statut='garde' age='A' stat_amour='néant'>Gardes</role>.</castItem>
        </castList>
 	<set location='Sardis' country='Turquie' periode='Vème avant JC' link=''>La scène est à Sardis, Capitale de Lydie.</set>
 	</front>

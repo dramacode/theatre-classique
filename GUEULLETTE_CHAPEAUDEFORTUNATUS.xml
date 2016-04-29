@@ -6,9 +6,10 @@
 			<title>LE CHAPEAU DE FORTUNATUS, FARCE EN UN ACTE.</title>
 			<author born='1683' born_location='Paris' death='1766' death_location='Charenton' academie=''>GUEULLETTE, Thomas-Simon</author>
 		</titleStmt>
-		<publicationStmp>
+		<publicationStmt>
 			<p>publié par Paul FIEVRE novembre 2013</p>
-		</publicationStmp>
+		<idno></idno>
+</publicationStmt>
 		<SourceDesc>
 			<genre>Farce</genre>
 			<inspiration>moeurs françaises</inspiration>
@@ -40,10 +41,10 @@
 		<premiere date='1712' location='En société'>Représentée pour la première fois en société en 1712.</premiere>
 	</performance>
 	<castList><head>PERSONNAGES</head>
-		<castItem><role id="LE MAÎTRE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>LE MAÎTRE</role>.</castItem>
-		<castItem><role id="GILLES" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>GILLES</role>, son valet.</castItem>
-		<castItem><role id="SANS-QUARTIER" civil='M' type="H" statut='filou' age='A' stat_amour='néant'>SANS-QUARTIER</role>, filou.</castItem>
-		<castItem><role id="DIVERTISSANT" civil='M' type="H" statut='filou' age='A' stat_amour='néant'>DIVERTISSANT</role>, filou.</castItem>
+		<castItem><role id="LE MAÎTRE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>LE MAÎTRE</role>.</castItem>
+		<castItem><role id="GILLES" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>GILLES</role>, son valet.</castItem>
+		<castItem><role id="SANS-QUARTIER" sex="1" type="H" statut='filou' age='A' stat_amour='néant'>SANS-QUARTIER</role>, filou.</castItem>
+		<castItem><role id="DIVERTISSANT" sex="1" type="H" statut='filou' age='A' stat_amour='néant'>DIVERTISSANT</role>, filou.</castItem>
 		</castList>
 	<set location='Paris' country='France' periode='XVIIIème' link=''>.</set>
 </front>

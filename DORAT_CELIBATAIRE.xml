@@ -5,14 +5,15 @@
 			<titleStmt>
 				<title>LE CÉLIBATAIRE, COMÉDIE EN CINQ ACTES ET EN VERS</title>
 				<author born='1601' born_location='Bresse' death='1655' death_location='Paris' academie=''>DORAT, Claude-Joseph</author>
-				<date>1645</date>
+				<date>1776</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<authority>publié par Paul FIEVRE, juillet 2014</authority>
-			</publicationStmp>
+				<idno>DORAT_CELIBATAIRE</idno>
+			</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
-				<inspiration>moours françaises</inspiration>
+				<inspiration>moeurs françaises</inspiration>
 				<structure>Cinq actes</structure>
 				<type>vers</type>
 				<periode>1771-1780</periode>
@@ -75,16 +76,16 @@
 		</div>
 
 		<castList><head>PERSONNAGES. ACTEURS.</head>
-			<castItem><role id="TERVILLE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>TERVILLE</role>, Célibataire. M. Molé.</castItem>
-			<castItem><role id="MONTBRISSON" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>MONTBRISSON</role>, son Oncle, M. Brizard.</castItem>
-			<castItem><role id="LE COMTE DE VERSEUIL" civil='M' type="H" statut='comte' age='A' stat_amour='néant'>LE COMTE DE VERSEUIL</role>. M. Larive.</castItem>
-			<castItem><role id="MONSIEUR DE SAINGÉRANS" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>MONSIEUR DE SAINGÉRANS</role>. M. Préville.</castItem>
-			<castItem><role id="MADAME DE VERSEUIL" civil='M' type="H" statut='comte' age='A' stat_amour='néant'>MADAME DE VERSEUIL</role>. Mad. Préville.</castItem>
-			<castItem><role id="JULIE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>JULIE</role>, Mlle. Doligni.</castItem>
-			<castItem><role id="NÉRINE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>NÉRINE</role>. Mlle. Fanier.</castItem>
-			<castItem><role id="LAFLEUR" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>LAFLEUR</role>, Valet de TERVILLE. M. Dugason.</castItem>
-			<castItem><role id="UN LAQUAIS de VERSEUIL" civil='M' type="H" statut='laquais' age='A' stat_amour='néant'>UN LAQUAIS de VERSEUIL</role>.</castItem>
-			<castItem><role id="UN AUTRE LAQUAIS" civil='M' type="H" statut='laquais' age='A' stat_amour='néant'>UN AUTRE LAQUAIS de Montbrisson</role>.</castItem>
+			<castItem><role id="TERVILLE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>TERVILLE</role>, Célibataire. M. Molé.</castItem>
+			<castItem><role id="MONTBRISSON" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>MONTBRISSON</role>, son Oncle, M. Brizard.</castItem>
+			<castItem><role id="LE COMTE DE VERSEUIL" sex="1" type="H" statut='comte' age='A' stat_amour='néant'>LE COMTE DE VERSEUIL</role>. M. Larive.</castItem>
+			<castItem><role id="MONSIEUR DE SAINGÉRANS" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>MONSIEUR DE SAINGÉRANS</role>. M. Préville.</castItem>
+			<castItem><role id="MADAME DE VERSEUIL" sex="1" type="H" statut='comte' age='A' stat_amour='néant'>MADAME DE VERSEUIL</role>. Mad. Préville.</castItem>
+			<castItem><role id="JULIE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>JULIE</role>, Mlle. Doligni.</castItem>
+			<castItem><role id="NÉRINE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>NÉRINE</role>. Mlle. Fanier.</castItem>
+			<castItem><role id="LAFLEUR" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>LAFLEUR</role>, Valet de TERVILLE. M. Dugason.</castItem>
+			<castItem><role id="UN LAQUAIS de VERSEUIL" sex="1" type="H" statut='laquais' age='A' stat_amour='néant'>UN LAQUAIS de VERSEUIL</role>.</castItem>
+			<castItem><role id="UN AUTRE LAQUAIS" sex="1" type="H" statut='laquais' age='A' stat_amour='néant'>UN AUTRE LAQUAIS de Montbrisson</role>.</castItem>
 		</castList>
 		<set location='Campagne' country='France' periode='XVIIIème' link=''>La Scène est à la Campagne, dans le Château de Montbrisson.</set>
 </front>

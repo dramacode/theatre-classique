@@ -6,9 +6,10 @@
 				<title>LA MORT DE LOUIS XVI, TRAGÉDIE EN TROIS ACTES.</title>
 				<author born='1773' born_location='' death='1824' death_location='' academie=''>SAINT-AIGNAN, Etienne</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE, janvier 2009.</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire française</inspiration>
@@ -72,29 +73,29 @@
 			<premiere date='(non représentée)' location='(non représentée)'>(non représentée)</premiere>
 		</performance>
 	<castList><head>PERSONNAGES</head>
-		<castItem><role id="LOUIS"  civil='M' type="H" statut='roi' age='A' stat_amour='néant'>LOUIS XVI</role>, roi de France.</castItem>
-		<castItem><role id="MARIE-ANTOINETTE" civil='F' type="H" statut='roi' age='A' stat_amour='néant'>MARIE-ANTOINETTE</role>, reine.</castItem>
-		<castItem><role id="ELISABETH" civil='F' type="H" statut='prince' age='A' stat_amour='néant'>ELISABETH</role>, soeur du roi.</castItem>
-		<castItem><role id="DAUPHIN" civil='M' type="H" statut='prince' age='E' stat_amour='néant'>Le DAUPHIN</role>, âgé de sept ans.</castItem>
-		<castItem><role id="MADAME-ROYALE" civil='F' type="H" statut='prince' age='E' stat_amour='néant'>MADAME ROYALE</role>, âgée de treize ans.</castItem>
-		<castItem><role id="LAMOIGNON" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>LAMOIGNON DE MALESHERBES</role>, défenseur officieux du roi .</castItem>
-		<castItem><role id="DESEZE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>DESEZE</role>défenseur officieux du roi</castItem>
-		<castItem><role id="TRONCHET" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>TRONCHET</role>défenseur officieux du roi.</castItem>
-		<castItem><role id="ORLEANS" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>PHILIPPE D'ORLÉANS</role>.</castItem>
-		<castItem><role id="GARRAN DE COULON" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>GARRAN DE COULON</role>.</castItem>
-		<castItem><role id="KERSAINT" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>KERSAINT</role>.</castItem>
-		<castItem><role id="MANUEL" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>MANUEL</role>.</castItem>
-		<castItem><role id="CHARLES-VILLETTE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>CHARLES VILLETTE</role>.</castItem>
-		<castItem><role id="BARRERE" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>BARRÈRE</role>.</castItem>
-		<castItem><role id="ROBESPIERRE" civil='M' type="H" statut='député' age='A' stat_amour='néant'>ROBESPIERRE</role>.</castItem>
-		<castItem><role id="MARAT" civil='M' type="H" statut='député' age='A' stat_amour='néant'>MARAT</role>.</castItem>
-		<castItem><role id="LEQUINIO" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>LEQUINIO</role>.</castItem>
-		<castItem><role id="THURIOT" civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>THURIOT</role>.</castItem>
-		<castItem><role id="DANTON" civil='M' type="H" statut='député' age='A' stat_amour='néant'>DANTON</role>et plusieurs autres.</castItem>
-		<castItem><role id="DEPUTES" civil='G' type="H" statut='député' age='A' stat_amour='néant'>Députés de la Convention nationale</role>.</castItem>
-		<castItem><role id="SANTERRE" civil='M' type="H" statut='commandant' age='A' stat_amour='néant'>SANTERRE</role>, commandant de la Garde nationale.</castItem>
-		<castItem><role id="CONFESSEUR" civil='M' type="H" statut='confesseur' age='A' stat_amour='néant'>Le Confesseur du roi.</role>.</castItem>
-		<castItem><role id="COMMISSAIRES" civil='G' type="H" statut='commissaire' age='A' stat_amour='néant'>Commissaires du conseil de la Commune.</role>.</castItem>
+		<castItem><role id="LOUIS"  sex="1" type="H" statut='roi' age='A' stat_amour='néant'>LOUIS XVI</role>, roi de France.</castItem>
+		<castItem><role id="MARIE-ANTOINETTE" sex="2" type="H" statut='roi' age='A' stat_amour='néant'>MARIE-ANTOINETTE</role>, reine.</castItem>
+		<castItem><role id="ELISABETH" sex="2" type="H" statut='prince' age='A' stat_amour='néant'>ELISABETH</role>, soeur du roi.</castItem>
+		<castItem><role id="DAUPHIN" sex="1" type="H" statut='prince' age='E' stat_amour='néant'>Le DAUPHIN</role>, âgé de sept ans.</castItem>
+		<castItem><role id="MADAME-ROYALE" sex="2" type="H" statut='prince' age='E' stat_amour='néant'>MADAME ROYALE</role>, âgée de treize ans.</castItem>
+		<castItem><role id="LAMOIGNON" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>LAMOIGNON DE MALESHERBES</role>, défenseur officieux du roi .</castItem>
+		<castItem><role id="DESEZE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>DESEZE</role>défenseur officieux du roi</castItem>
+		<castItem><role id="TRONCHET" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>TRONCHET</role>défenseur officieux du roi.</castItem>
+		<castItem><role id="ORLEANS" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>PHILIPPE D'ORLÉANS</role>.</castItem>
+		<castItem><role id="GARRAN DE COULON" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>GARRAN DE COULON</role>.</castItem>
+		<castItem><role id="KERSAINT" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>KERSAINT</role>.</castItem>
+		<castItem><role id="MANUEL" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>MANUEL</role>.</castItem>
+		<castItem><role id="CHARLES-VILLETTE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>CHARLES VILLETTE</role>.</castItem>
+		<castItem><role id="BARRERE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>BARRÈRE</role>.</castItem>
+		<castItem><role id="ROBESPIERRE" sex="1" type="H" statut='député' age='A' stat_amour='néant'>ROBESPIERRE</role>.</castItem>
+		<castItem><role id="MARAT" sex="1" type="H" statut='député' age='A' stat_amour='néant'>MARAT</role>.</castItem>
+		<castItem><role id="LEQUINIO" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>LEQUINIO</role>.</castItem>
+		<castItem><role id="THURIOT" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>THURIOT</role>.</castItem>
+		<castItem><role id="DANTON" sex="1" type="H" statut='député' age='A' stat_amour='néant'>DANTON</role>et plusieurs autres.</castItem>
+		<castItem><role id="DEPUTES" sex="9" type="H" statut='député' age='A' stat_amour='néant'>Députés de la Convention nationale</role>.</castItem>
+		<castItem><role id="SANTERRE" sex="1" type="H" statut='commandant' age='A' stat_amour='néant'>SANTERRE</role>, commandant de la Garde nationale.</castItem>
+		<castItem><role id="CONFESSEUR" sex="1" type="H" statut='confesseur' age='A' stat_amour='néant'>Le Confesseur du roi.</role>.</castItem>
+		<castItem><role id="COMMISSAIRES" sex="9" type="H" statut='commissaire' age='A' stat_amour='néant'>Commissaires du conseil de la Commune.</role>.</castItem>
 	</castList>
 <set location='Paris' country='France' periode='XVIIIème' link=''>La Scène est à Paris. </set>
 </front>

@@ -7,9 +7,10 @@
 				<author born='1694' born_location='Vic-sur-Cère' death='1758' death_location='Paris' academie='1754'>BOISSY, Louis de</author>
 				<date>1732</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE Novembre 2015</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -55,19 +56,19 @@
 		</performance>
 		<castList>
 			<head>ACTEURS.</head>
-			<castItem><role id="MOMUS" civil='M' type="D" statut="dieu" age="A" stat_amour=''>MOMUS</role>.</castItem>
-			<castItem><role id="VÉNUS" civil='F' type="D" statut="dieu" age="A" stat_amour=''>VÉNUS</role>.</castItem>
-			<castItem><role id="APOLLON" civil='M' type="H" statut="dieu" age="A" stat_amour=''>APOLLON</role>.</castItem>
-			<castItem><role id="JE NE SAIS QUOI" civil='M' type="A" statut="allégorie" age="A" stat_amour=''>LE JE NE SAIS QUOI</role>.</castItem>
-			<castItem><role id="LE GÉOMÈTRE" civil='M' type="H" statut="géomètre" age="A" stat_amour=''>LE GÉOMÈTRE</role>.</castItem>
-			<castItem><role id="LE PETIT MAÎTRE" civil='M' type="H" statut="" age="A" stat_amour=''>LE PETIT MAÎTRE</role>.</castItem>
-			<castItem><role id="LE SUISSE" civil='M' type="H" statut="" age="A" stat_amour=''>LE SUISSE</role>.</castItem>
-			<castItem><role id="LE PUBLIC FÉMININ" civil='M' type="H" statut="allégorie" age="A" stat_amour=''>LE PUBLIC FÉMININ</role>.</castItem>
-			<castItem><role id="L'ACTEUR FRANÇAIS" civil='M' type="H" statut="acteur" age="A" stat_amour=''>L'ACTEUR FRANÇAIS</role>.</castItem>
-			<castItem><role id="LE MUSICIEN" civil='M' type="H" statut="musicien" age="A" stat_amour=''>LE MUSICIEN</role>.</castItem>
-			<castItem><role id="LA DANSEUSE" civil='F' type="H" statut="danseur" age="A" stat_amour=''>LA DANSEUSE</role>.</castItem>
-			<castItem><role id="SILVIA" civil='M' type="H" statut="bourgeois" age="A" stat_amour=''>SILVIA</role>.</castItem>
-			<castItem><role id="TROUPE DE CALOTINS ET CALOTINES" civil='G' type="H" statut="religieux" age="A" stat_amour=''>TROUPE de CALOTINS ET CALOTINES</role>.</castItem>
+			<castItem><role id="MOMUS" sex="1" type="D" statut="dieu" age="A" stat_amour='néant'>MOMUS</role>.</castItem>
+			<castItem><role id="VÉNUS" sex="2" type="D" statut="dieu" age="A" stat_amour='néant'>VÉNUS</role>.</castItem>
+			<castItem><role id="APOLLON" sex="1" type="H" statut="dieu" age="A" stat_amour='néant'>APOLLON</role>.</castItem>
+			<castItem><role id="JE NE SAIS QUOI" sex="1" type="P" statut="sentiment" age="A" stat_amour='néant'>LE JE NE SAIS QUOI</role>.</castItem>
+			<castItem><role id="LE GÉOMÈTRE" sex="1" type="H" statut="géomètre" age="A" stat_amour='néant'>LE GÉOMÈTRE</role>.</castItem>
+			<castItem><role id="LE PETIT MAÎTRE" sex="1" type="H" statut="petit-maître" age="A" stat_amour='néant'>LE PETIT MAÎTRE</role>.</castItem>
+			<castItem><role id="LE SUISSE" sex="1" type="H" statut="suisse" age="A" stat_amour='néant'>LE SUISSE</role>.</castItem>
+			<castItem><role id="LE PUBLIC FÉMININ" sex="1" type="H" statut="allégorie" age="A" stat_amour=''>LE PUBLIC FÉMININ</role>.</castItem>
+			<castItem><role id="L'ACTEUR FRANÇAIS" sex="1" type="H" statut="acteur" age="A" stat_amour=''>L'ACTEUR FRANÇAIS</role>.</castItem>
+			<castItem><role id="LE MUSICIEN" sex="1" type="H" statut="musicien" age="A" stat_amour=''>LE MUSICIEN</role>.</castItem>
+			<castItem><role id="LA DANSEUSE" sex="2" type="H" statut="danseur" age="A" stat_amour=''>LA DANSEUSE</role>.</castItem>
+			<castItem><role id="SILVIA" sex="1" type="H" statut="bourgeois" age="A" stat_amour=''>SILVIA</role>.</castItem>
+			<castItem><role id="TROUPE DE CALOTINS ET CALOTINES" sex="9" type="H" statut="religieux" age="A" stat_amour=''>TROUPE de CALOTINS ET CALOTINES</role>.</castItem>
 		</castList>
 <set location='Un désert' country='France' periode='XVIIIème' link=''>La Scène est dans un désert.</set>
 </front>

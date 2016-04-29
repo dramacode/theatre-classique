@@ -7,10 +7,11 @@
 				<author born='1618' born_location='Albi' death='1698' death_location='Paris' academie='1'>BOYER, CLaude</author>
 				<date>1648</date>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<editor>Texte établi par Amandine Chevreau-Martin, dans le cadre d'un travail d'édition critique sous la direction de Georges Forestier. (Université Paris-Sorbonne)</editor>
 				<publisher>publié par Paul FIEVRE, décembre 2012</publisher>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire romaine</inspiration>
@@ -42,17 +43,17 @@
 			<premiere date="1647" location="Hôtel de Bourgogne">Représentée pour la première fois en 1647 au Théâtre de l'Hôtel de Bourgogne.</premiere>
 		</performance>
 <castList><head>Personnages</head>
-	<castItem><role id="BRUTE" civil="M" type="H" statut="empereur" age="A" stat_amour='néant'>BRUTE</role>, Père de Tite et de Tibère.</castItem>
-	<castItem><role id="TITE" civil="M" type="H" statut="aristocrate" age="A" stat_amour='néant'>TITE</role>, fils de Brute et de Junie.</castItem>
-	<castItem><role id="TIBÈRE" civil="M" type="H" statut="aristocrate" age="A" stat_amour='néant'>TIBÈRE</role>, fils de Brute et de Junie.</castItem>
-	<castItem><role id="VITELLE" civil="M" type="H" statut="aristocrate" age="A" stat_amour='néant'>VITELLE</role>, gendre de Tarquin.</castItem>
-	<castItem><role id="JUNIE" civil="F" type="H" statut="aristocrate" age="A" stat_amour='néant'>JUNIE</role>, femme de Brute et sur de Vitelle.</castItem>
-	<castItem><role id="TULLIE" civil="F" type="H" statut="aristocrate" age="A" stat_amour='néant'>TULLIE</role>, Fille de Tarquin.</castItem>
-	<castItem><role id="MARCELLE" civil="F" type="H" statut="confident" age="A" stat_amour='néant'>MARCELLE</role>, Confidente de Junie.</castItem>
-	<castItem><role id="LIVIE" civil="F" type="H" statut="confident" age="A" stat_amour='néant'>LIVIE</role>, Confidente de Tullie.</castItem>
-	<castItem><role id="MARCELLIN" civil="F" type="H" statut="suivant" age="A" stat_amour='néant'>MARCELLIN</role>, Suivant de Brute.</castItem>
-	<castItem><role id="JULIE" civil="F" type="H" statut="suivant" age="A" stat_amour='néant'>JULIE</role>, Suivante.</castItem>
-	<castItem><role id="GARDES" civil="G" type="H" statut="garde" age="A" stat_amour='néant'>Troupe de gardes.</role>.</castItem>
+	<castItem><role id="BRUTE" sex="1" type="H" statut="empereur" age="A" stat_amour='néant'>BRUTE</role>, Père de Tite et de Tibère.</castItem>
+	<castItem><role id="TITE" sex="1" type="H" statut="aristocrate" age="J" stat_amour='néant'>TITE</role>, fils de Brute et de Junie.</castItem>
+	<castItem><role id="TIBÈRE" sex="1" type="H" statut="aristocrate" age="J" stat_amour='néant'>TIBÈRE</role>, fils de Brute et de Junie.</castItem>
+	<castItem><role id="VITELLE" sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>VITELLE</role>, gendre de Tarquin.</castItem>
+	<castItem><role id="JUNIE" sex="2" type="H" statut="aristocrate" age="A" stat_amour='néant'>JUNIE</role>, femme de Brute et soeur de Vitelle.</castItem>
+	<castItem><role id="TULLIE" sex="2" type="H" statut="aristocrate" age="J" stat_amour='néant'>TULLIE</role>, Fille de Tarquin.</castItem>
+	<castItem><role id="MARCELLE" sex="2" type="H" statut="confident" age="A" stat_amour='néant'>MARCELLE</role>, Confidente de Junie.</castItem>
+	<castItem><role id="LIVIE" sex="2" type="H" statut="confident" age="A" stat_amour='néant'>LIVIE</role>, Confidente de Tullie.</castItem>
+	<castItem><role id="MARCELLIN" sex="2" type="H" statut="suivant" age="A" stat_amour='néant'>MARCELLIN</role>, Suivant de Brute.</castItem>
+	<castItem><role id="JULIE" sex="2" type="H" statut="suivant" age="A" stat_amour='néant'>JULIE</role>, Suivante.</castItem>
+	<castItem><role id="GARDES" sex="9" type="H" statut="garde" age="A" stat_amour='néant'>Troupe de gardes.</role>.</castItem>
 </castList>
 <set location='Rome' country="Italie" periode="Ier">La scène est dans une des Salles de la maison de Vitelle.</set>
 <note>Julie est un personnage ne figurant pas sur cette liste dans l'édition originale.</note>
@@ -114,11 +115,11 @@
 	<l id="49">Romains si vos rigueurs qui vont jusqu'à l'extrême,</l>
 	<l id="50">Refusent à ce Roi jusqu'à la pitié même, </l>
 	<l id="51">Ma mort qui préviendra ses suprêmes malheurs,</l>
-	<l id="52">Armera mes amis, et touchera vos curs.</l>
+	<l id="52">Armera mes amis, et touchera vos coeurs.</l>
 </sp>
 <sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
 	<l id="53">Ceux à qui vous parlez, ne sont pas inflexibles,</l>
-	<l id="54">Nos curs pour les Tarquins ne sont que trop sensibles.</l>
+	<l id="54">Nos coeurs pour les Tarquins ne sont que trop sensibles.</l>
 	<l id="55">Et notre déplaisir s'accroît de la moitié, </l>
 	<l id="56">De n'avoir pour leurs maux qu'une vaine pitié.</l>
 	<l id="57">Car quoi qu'il soit nouveau que les enfants de Brute,</l>
@@ -131,7 +132,7 @@
 	<l id="64">Si le seul nom de Roi lui donne tant d'horreur ?</l>
 	<l id="65">Nous avons reconnu jusqu'où va cette haine. </l>
 	<l id="66">Ce grand adorateur de la vertu romaine,</l>
-	<l id="67">S'arracherait le cur s'il avait consenti</l>
+	<l id="67">S'arracherait le coeur s'il avait consenti</l>
 	<l id="68">A servir un tyran et prendre son parti,</l>
 	<l id="69">Voila de sa vertu l'illustre caractère.</l>
 </sp>
@@ -151,7 +152,7 @@
 	<l id="82">Qui ne saurait servir qu'à son désavantage,</l>
 	<l id="83">Qui ne fait des présents que pour s'empoisonner,</l>
 	<l id="84">Qui presse l'instrument pour nous assassiner,</l>
-	<l id="85">Et qui piquant nos curs d'une fausse clémence,</l>
+	<l id="85">Et qui piquant nos coeurs d'une fausse clémence,</l>
 	<l id="86">Enrichit l'ennemi dont on craint la puissance ? </l>
 	<l id="87">Qu'on ne m'en parle plus et qu'on sache aujourd'hui,</l>
 	<l id="88">Que qui sert un tyran, ne l'est pas moins que lui.</l>
@@ -191,7 +192,7 @@
 	<l id="115">Ah ! Ce ne sont pas là ces efforts généreux, </l>
 	<l id="116">Que ta bouche en mourant demandait à tous deux !</l>
 	<l id="117">Et toi, ma Servilie épouse généreuse,</l>
-	<l id="118">Fille d'un malheureux, sur d'une malheureuse !</l>
+	<l id="118">Fille d'un malheureux, soeur d'une malheureuse !</l>
 	<l id="119">Toi qu'un peuple mutin par un cruel effort </l>
 	<l id="120">T'arrachant de mes bras, mit dans ceux de la mort ! </l>
 	<l id="121">Ne me reproche plus que j'ai pu te survivre,</l>
@@ -217,7 +218,7 @@
 	<l id="137">Frère ingrat à Tullie autant qu'à votre gloire,</l>
 	<l id="138">Que vous a-t-elle fait pou bannir sa mémoire ?</l>
 	<l id="139">Aimons un souvenir qui nous doit affliger, </l>
-	<l id="140">Et qui met dans nos curs l'ardeur de nous venger. </l>
+	<l id="140">Et qui met dans nos coeurs l'ardeur de nous venger. </l>
 </sp>
 <sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
 	<l id="141">Ah ! Que de votre part ce reproche me touche !</l>
@@ -226,7 +227,7 @@
 	<l id="144">M'osez-vous soupçonner de quelque lâcheté ? </l>
 	<l id="145">Je bannis de mon âme un souvenir que j'aime, </l>
 	<l id="146">Et Tullie a voulu s'en bannir elle-même,</l>
-	<l id="147">Sachant que cet objet n'élève dans mon cur,</l>
+	<l id="147">Sachant que cet objet n'élève dans mon coeur,</l>
 	<l id="148">Qu'un effroyable amas de tristesse, et d'horreur,</l>
 	<l id="149">Qu'un désordre impuissant, qu'une inutile rage </l>
 	<l id="150">Indigne de Tullie, et de notre courage. </l>
@@ -235,7 +236,7 @@
 	<l id="153">Où mille factieux, où Rome toute en armes,</l>
 	<l id="154">Remplit tout le Palais et de sang et des larmes ; </l>
 	<l id="155">Et jusques sur Tullie élevant son courroux, </l>
-	<l id="156">Porta dedans nos curs le plus grand de ses coups ?</l>
+	<l id="156">Porta dedans nos coeurs le plus grand de ses coups ?</l>
 	<l id="157">Quand cette belle morte à mes yeux se présente,</l>
 	<l id="158">Pouvons-nous voir couler le sang d'une innocente,</l>
 	<l id="159">Sans qu'un amour outré lui fasse à même temps, </l>
@@ -257,7 +258,7 @@
 	<l id="172">Je voudrais rétablir la grandeur des Tarquins  :</l>
 	<l id="173">Car quand avec mes mains je l'aurais rétablie, </l>
 	<l id="174">Je haïrais un bien qui n'est pas pour Tullie ; </l>
-	<l id="175">Et je ne pourrais voir qu'avec la larme à l'il, </l>
+	<l id="175">Et je ne pourrais voir qu'avec la larme à l'oeil, </l>
 	<l id="176">Le Père sur le trône, et la fille au cercueil.</l>
 	<l id="177" part="i">Mourons.</l>
 </sp>
@@ -292,7 +293,7 @@
 </sp>
 <sp who="TULLIE"><speaker>TULLIE.</speaker>
 	<l id="187">Oui, c'est votre Tullie, elle que son bonheur, </l>
-	<l id="188">Et Vitelle ont sauvé du destin de sa sur.</l>
+	<l id="188">Et Vitelle ont sauvé du destin de sa soeur.</l>
 	<l id="189">Et que son amitié sollicitait de suivre, </l>
 	<l id="190">Si votre souvenir ne l'eût forcée à vivre ; </l>
 	<l id="191">Et si pouvant par vous surmonter son malheur,</l>
@@ -316,17 +317,17 @@
 	<l id="207">Un esprit qu'a surpris un si grand changement ?</l>
 	<l id="208">Ne revient pas si tôt de son étonnement.</l>
 	<l id="209">Est-ce vous ma Princesse ! Et si je l'ose croire, </l>
-	<l id="210">Me considérez-vous sans cur, et sans mémoire ! </l>
+	<l id="210">Me considérez-vous sans coeur, et sans mémoire ! </l>
 	<l id="211">Si votre feinte mort a bien eu le pouvoir</l>
 	<l id="212">D'armer contre nous même un si prompt désespoir,</l>
 	<l id="213">Que fera votre venue au moment que les flammes, </l>
 	<l id="214">Avec plus d'ardeur ressaisissent nos âmes ? </l>
 	<l id="215">Et que l'impression d'un désir glorieux, </l>
 	<l id="216">Redouble son effort par celui de vos yeux.</l>
-	<l id="217">Quel cur, quel bras Madame aurait tant de faiblesse,</l>
+	<l id="217">Quel coeur, quel bras Madame aurait tant de faiblesse,</l>
 	<l id="218">Qui ne la surmontât auprès d'une maîtresse ?</l>
 	<l id="219">Pour moi je sens déjà qu'une pressante ardeur, </l>
-	<l id="220">Vient insensiblement s'emparer de mon cur. </l>
+	<l id="220">Vient insensiblement s'emparer de mon coeur. </l>
 	<l id="221">Je brûle de servir et le Père et la fille. </l>
 	<l id="222">Sus, mon frère, vengeons cette auguste famille !</l>
 	<l id="223">Et servant à Tarquin de victime ou d'appui,</l>
@@ -342,13 +343,13 @@
 	<l id="231">S'il le faut rendre au trône et lui servir d'appui,</l>
 	<l id="232">Considérons un Père entre le trône, et lui.</l>
 	<l id="233">Pardonnez, ma Princesse, un sentiment rebelle,</l>
-	<l id="234">Je ne manque envers vous ni de cur ni de zèle ? </l>
+	<l id="234">Je ne manque envers vous ni de coeur ni de zèle ? </l>
 	<l id="235" part='i'>Mais. </l>
 </sp>
 <sp who="TULLIE"><speaker>TULLIE.</speaker>
 	<l id="235" part='f'>Vous vous abusez, j'aime trop votre honneur, </l>
 	<l id="236">Pour vouloir par sa perte acheter mon bonheur.</l>
-	<l id="237">Et je n'accepterais qu'avec un il timide,</l>
+	<l id="237">Et je n'accepterais qu'avec un oeil timide,</l>
 	<l id="238">Le bien que m'offrirait une main parricide. </l>
 	<l id="239">Épargnez votre Père, et dans tous vos desseins, </l>
 	<l id="240">Princes, n'entreprenez que contre les Romains.</l>
@@ -398,7 +399,7 @@
 	<l id="278">A remettre en vos mains la puissance suprême, </l>
 	<l id="279">Et Rome envers nous-mêmes au moins juste une fois  : </l>
 	<l id="280">Nous preste assez de mains pou secourir nos Rois. </l>
-	<l id="281">Cent illustres Romains pleins de cur, et de zèle,</l>
+	<l id="281">Cent illustres Romains pleins de coeur, et de zèle,</l>
 	<l id="282">Qui s'offrent à venger cette juste querelle,</l>
 	<l id="283">Ayants par mille exploits signalé leur pouvoir, </l>
 	<l id="284">Soutiennent nos desseins d'un légitime espoir. </l>
@@ -552,7 +553,7 @@
 	<l id="382">Où trouvant contre nous l'amour, et la nature,</l>
 	<l id="383">Pressé de deux devoirs si sacrés, et si saints </l>
 	<l id="384">Vous ne ferez des veux que pour ce que je crains  :</l>
-	<l id="385">Et dans ce triste état quels vux pouvez-vous faire ; </l>
+	<l id="385">Et dans ce triste état quels voeux pouvez-vous faire ; </l>
 	<l id="386">Est-ce contre Tullie, ou contre votre Père ? </l>
 	<l id="387">Qui de deux pour victime a choisi votre bras ?</l>
 	<l id="388" part='i'>Est-ce Brute, ou Tullie ? </l>
@@ -598,7 +599,7 @@
 	<l id="413">Cher et sacré respect, belle et divine flamme ; </l>
 	<l id="414">Triomphez l'un ou l'autre, et régnez dans nôtre âme  :</l>
 	<l id="415">Où puisque l'un et l'autre a pour nous tant d'appas,</l>
-	<l id="416">En déchirant nos curs, donnez-nous le trépas.</l>
+	<l id="416">En déchirant nos coeurs, donnez-nous le trépas.</l>
 </sp>
 <sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
 	<l id="417">Que ne connaissez-vous trop aimable Tullie, </l>
@@ -742,7 +743,7 @@
 	<l id="512">Ce qu'un zèle bouillant brûle d'exécuter. </l>
 	<l id="513">Nous entreprendrons tout pour venger votre injure, </l>
 	<l id="514">Sourds à l'amour de Rome, et sourds à la nature,</l>
-	<l id="515">Nous n'avons d'autres vux que ceux que vous ferrez,</l>
+	<l id="515">Nous n'avons d'autres voeux que ceux que vous ferrez,</l>
 	<l id="516">Et porterons nos coups partout où vous voudrez.</l>
 	<l id="517">Mais, Madame, souffrez qu'au milieu de mon zèle, </l>
 	<l id="518">J'ose vous annoncer une triste nouvelle,</l>
@@ -834,7 +835,7 @@
 	<l id="560">Devrais-je pas verser mon sang au lieu de pleurs ?</l>
 </sp>
 <sp who="VITELLE"><speaker>VITELLE.</speaker>
-	<l id="561">D'où vous naissent ; ma sur, des peurs si dangereuses ? </l>
+	<l id="561">D'où vous naissent ; ma soeur, des peurs si dangereuses ? </l>
 </sp>
 <sp who="TITE"><speaker>TITE.</speaker>
 	<l id="562">Ah ! Ne prodiguez pas ces larmes précieuses, </l>
@@ -870,15 +871,15 @@
 	<l id="583">Que tous mes tristes jours soient pires que la nuit, </l>
 	<l id="584">Où pendant les horreurs d'une effroyable bruit, </l>
 	<l id="585">Et d'un Palais en feu l'objet épouvantable,</l>
-	<l id="586">Je vis couler le sang d'une sur trop aimable.</l>
+	<l id="586">Je vis couler le sang d'une soeur trop aimable.</l>
 	<l id="587">Que tous mes jours soient tels, ils me seront plus doux,</l>
 	<l id="588">Que s'il fallait pleurer, et pour eux et pour vous : </l>
 	<l id="589">Ne me réduisez pas à ce malheur extrême. </l>
 </sp>
 <sp who="TITE"><speaker>TITE.</speaker>
 	<l id="590">Donc vous prenez parti pour nous contre vous-mêmes,</l>
-	<l id="591">Et trône, et père, et sur vous sont moins chers que nous :</l>
-	<l id="592">Hélas ! Avec quel il me regarderez-vous ?</l>
+	<l id="591">Et trône, et père, et soeur vous sont moins chers que nous :</l>
+	<l id="592">Hélas ! Avec quel oeil me regarderez-vous ?</l>
 	<l id="593">Ha ! Princesse, oubliés ce que j'ai voulu faire, </l>
 	<l id="594">Ne vous souvenez plus que j'ai chéri mon père ; </l>
 	<l id="595">Ou s'il vous en souvient, songez que c'est pour vous,</l>
@@ -892,7 +893,7 @@
 	<l id="597" part='f'>Princesse, </l>
 	<l id="598">Ces indignes frayeurs marquent trop de faiblesse ; </l>
 	<l id="599">Prenez des sentiments plus hardis et plus forts,</l>
-	<l id="600">Et du moins par vos vux secondez nos efforts :</l>
+	<l id="600">Et du moins par vos voeux secondez nos efforts :</l>
 	<l id="601">Aussi bien à tel point l'entreprise est venue, </l>
 	<l id="602">Qu'il nous faut malgré nous en attendre l'issue. </l>
 	<l id="603">Les chefs des conjurez, sans désordre et sans bruit, </l>
@@ -929,7 +930,7 @@
 	<l id="619">Faut-il faire paraître un visage étonné ?</l>
 </sp>
 <sp who="TITE"><speaker>TITE.</speaker>
-	<l id="620">Ah ! Laisse soupirer ce cur infortuné, </l>
+	<l id="620">Ah ! Laisse soupirer ce coeur infortuné, </l>
 	<l id="621">Et dans un attentat qui n'est pas légitime, </l>
 	<l id="622">Souffre que le remords amoindrisse le crime.</l>
 	<l id="623">J'aime, j'aime Tullie, et le Ciel m'est témoin, </l>
@@ -956,7 +957,7 @@
 <sp who="TITE"><speaker>TITE.</speaker>
 	<l id="641">Cessons de nous flatter, et connaissons mieux Brute, </l>
 	<l id="642">L'ennemi des Tarquins, et l'auteur de leur chute.</l>
-	<l id="643">De quel il verra-t-il que son sang ait osé </l>
+	<l id="643">De quel oeil verra-t-il que son sang ait osé </l>
 	<l id="644">Remettre Rome au joug que sa main a brisé ?</l>
 	<l id="645">Il a crû suggéré par un cruel Génie, </l>
 	<l id="646">En bannissant les Rois bannir la tyrannie : </l>
@@ -969,7 +970,7 @@
 	<l id="651">Que fera donc Tullie en ce pressant besoin ? </l>
 	<l id="652">Voulez vous de sa cause abandonnez le soin ?</l>
 	<l id="653">Et violant la foi que nous avons donnée, </l>
-	<l id="654">Ne prêter que des vux à cette infortunée ?</l>
+	<l id="654">Ne prêter que des voeux à cette infortunée ?</l>
 	<l id="655" part='i'>Enfin que ferons-nous. </l>
 </sp>
 <sp who="TITE"><speaker>TITE.</speaker>
@@ -1064,7 +1065,7 @@
 	<l id="732">Si le fer ne suffit, portons-y le flambeau :</l>
 	<l id="733">Suivez les mouvements d'une si belle audace. </l>
 	<l id="734">Lâches à ce discours vous paraissez de glace ! </l>
-	<l id="735">Honte de ma famille, allés enfants sans cur,</l>
+	<l id="735">Honte de ma famille, allés enfants sans coeur,</l>
 	<l id="736">Je saurai bien sans vous soutenir mon honneur.</l>
 	<l id="737">Le voici, le voici ce dangereux rebelle,</l>
 	<l id="738">Bientôt vous entendrez sa sentence mortelle ; </l>
@@ -1096,7 +1097,7 @@
 	<l id="760">On été par Valère heureusement surpris.</l>
 	<l id="761">Le Tyran que nos maux auraient fait pâmer d'aise,</l>
 	<l id="762">N'en apprendra jamais un succès qui lui plaise,</l>
-	<l id="763">Il aura le dépit de voir d'un il trompé,</l>
+	<l id="763">Il aura le dépit de voir d'un oeil trompé,</l>
 	<l id="764">Ses Partisans frappez du bras qui l'a frappé. </l>
 	<l id="765">Je veux résolument sans que rien m'en dispense,</l>
 	<l id="766">Aux siècles à venir transmettre ma vengeance,</l>
@@ -1242,7 +1243,7 @@
 	<l id="881">Pour te donner encore moyen de me poursuivre,</l>
 	<l id="882">Et pour te mieux saouler, vois qu'il me fais revivre; </l>
 	<l id="883">Si tu veux sur Tarquin redoubler ta fureur, </l>
-	<l id="884">Commence par sa fille à lui percer le cur.</l>
+	<l id="884">Commence par sa fille à lui percer le coeur.</l>
 	<l id="885">Cet illustre ennemi n'est pas en ta puissance,</l>
 	<l id="886">Déjà tous nos voisins s'arment pour sa défense :</l>
 	<l id="887">En me faisant mourir tâche à mieux mériter </l>
@@ -1366,7 +1367,7 @@
 	<l id="965">Puis la voix des Parents, et surtout d'une Mère, </l>
 	<l id="966">Qui par de tendres pleurs combattent sa colère ; </l>
 	<l id="967">Malgré l'amour de Rome, et l'honneur de son rang,</l>
-	<l id="968">Obtiendront sur son cur la victoire du sang. </l>
+	<l id="968">Obtiendront sur son coeur la victoire du sang. </l>
 	<l id="969">Cette dernière grâce exprime sa tendresse,</l>
 	<l id="970">Puisqu'il leur a permis de revoir leur Princesse. </l>
 </sp>
@@ -1390,7 +1391,7 @@
 	<l id="980">Le cruel non content de mes derniers malheurs, </l>
 	<l id="981">Ose encore sans respect s'attaquer à ma flamme,</l>
 	<l id="982">Il vient porter ses traits jusqu'au fond de mon âme  :</l>
-	<l id="983">Et voyant que mon cur s'intéresse pour vous, </l>
+	<l id="983">Et voyant que mon coeur s'intéresse pour vous, </l>
 	<l id="984">Soudain il vous destine au plus grand de ses coups. </l>
 	<l id="985">Il est votre ennemi, parce que je vous aime, </l>
 	<l id="986">Comme mon amitié, sa fureur est extrême ;</l>
@@ -1404,7 +1405,7 @@
 <sp who="TITE"><speaker>TITE.</speaker>
 	<l id="993">Ne faites point coupable une ardeur légitime ; </l>
 	<l id="994">Et sauvez notre amour de reproche et de crime ; </l>
-	<l id="995">Respectez un devoir qui force tous les curs </l>
+	<l id="995">Respectez un devoir qui force tous les coeurs </l>
 	<l id="996">D'avoir pour vos beautés de pareilles ardeurs.</l>
 	<l id="997">Que s'il faut que le sort par une lâche envie,</l>
 	<l id="998">Pour punir nos ardeurs attente à notre vie, </l>
@@ -1455,7 +1456,7 @@
 	<l id="1032">Je les fisse périr une seconde fois.</l>
 	<l id="1033">Tite à quoi songez-vous ? Qu'est-ce qui vous oblige </l>
 	<l id="1034">D'irriter mes douleurs par un choix qui m'afflige ? </l>
-	<l id="1035">Venez-vous pour un choix faire épreuve d'un cur,</l>
+	<l id="1035">Venez-vous pour un choix faire épreuve d'un coeur,</l>
 	<l id="1036">Qui brûle pour tous deux d'une pareille ardeur ?</l>
 	<l id="1037">M'y voulez-vous forcer, et par votre présence,</l>
 	<l id="1038">Faire pencher vers vous cette juste balance ? </l>
@@ -1520,7 +1521,7 @@
 <sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
 	<l id="1082">N'en soyez point en peine, il mourra pour son frère, </l>
 	<l id="1083">Cher Tite consentez à ce juste projet, </l>
-	<l id="1084">Par ce Dieu de nos curs par ce charmant objet,</l>
+	<l id="1084">Par ce Dieu de nos coeurs par ce charmant objet,</l>
 	<l id="1085">Par l'illustre vengeance où l'amour vous engage,</l>
 	<l id="1086">Et que le Ciel réserve à votre grand courage, </l>
 	<l id="1087">Par un Roi malheureux que vos vaillantes mains </l>
@@ -1542,7 +1543,7 @@
 	<l id="1099">Hélas ! Que ce combat a pour moi de rigueur !</l>
 	<l id="1100">Où la mort seulement est le prix du vainqueur.</l>
 	<l id="1101">Grands Dieux ! En quel état me vois-je ici réduite ! </l>
-	<l id="1102">Je ne puis faire un vu sans en craindre la suite, </l>
+	<l id="1102">Je ne puis faire un voeu sans en craindre la suite, </l>
 	<l id="1103">La grâce que je fais ; me procure un malheur, </l>
 	<l id="1104">Si je fais un présent, c'est avec douleur :</l>
 	<l id="1105">Et la même pitié qui pour vous s'intéresse,</l>
@@ -1561,7 +1562,7 @@
 	<l id="1116">Qu'importe, quel de deux le sort fera mourir ? </l>
 	<l id="1117">S'il faut une victime à ce grand sacrifice  : </l>
 	<l id="1118">Ce choix n'est pas à nous, que Rome la choisisse. </l>
-	<l id="1119">Ah ! Si tu connaissais Rome combien ce cur</l>
+	<l id="1119">Ah ! Si tu connaissais Rome combien ce coeur</l>
 	<l id="1120">Au-delà de tout autre, a pour toi de l'horreur !</l>
 	<l id="1121">Ton choix déterminé par cette différence, </l>
 	<l id="1122">Tu te ferais justice au gré de ta vengeance, </l>
@@ -1637,10 +1638,10 @@
 <div2 type="scene" n='5'><head>SCÈNE V. Junie, Tibère, Tite, Marcelle.</head>
 <sp who="JUNIE"><speaker>JUNIE.</speaker>
 	<l id="1145">Mes fils, je ne viens pas arracher des larmes, </l>
-	<l id="1146">Ni jeter dans vos curs d'inutiles alarmes,</l>
+	<l id="1146">Ni jeter dans vos coeurs d'inutiles alarmes,</l>
 	<l id="1147">Votre Père insensible à toutes nos douleurs,</l>
 	<l id="1148">A vu choir à ses pieds le reste de mes pleurs. </l>
-	<l id="1149">Je regarde vos maux d'un il constant et ferme, </l>
+	<l id="1149">Je regarde vos maux d'un oeil constant et ferme, </l>
 	<l id="1150">Et voyant mes enfants si proches de leur terme, </l>
 	<l id="1151">Je force la nature et par un noble effort,</l>
 	<l id="1152">J'apprends à tous les deux à mépriser la mort.</l>
@@ -1692,7 +1693,7 @@
 	<l id="1184">Regardez seulement ce qu'elle doit souffrir.</l>
 </sp>
 <sp who="JUNIE"><speaker>JUNIE.</speaker>
-	<l id="1185">Puisqu'à vos propres maux vos curs inaccessibles,</l>
+	<l id="1185">Puisqu'à vos propres maux vos coeurs inaccessibles,</l>
 	<l id="1186">Pour les malheurs d'autrui paraissent si sensibles,</l>
 	<l id="1187">Il faut dans un malheur qui nous afflige tous, </l>
 	<l id="1188">Qu'une égale pitié s'intéresse pour vous. </l>
@@ -1701,9 +1702,9 @@
 	<l id="1191">J'ai vu le cher Vitelle, et ses derniers malheurs,</l>
 	<l id="1192">Ont à peine à mes yeux arraché quelques pleurs. </l>
 	<l id="1193">Hélas ! Que les enfants sont chers au prix d'un frère  : </l>
-	<l id="1194">Une sur est sans pleurs, où gémit une Mère,</l>
+	<l id="1194">Une soeur est sans pleurs, où gémit une Mère,</l>
 	<l id="1195">Et cette amour de Mère agit si fortement,</l>
-	<l id="1196">Qu'elle étouffe en mon cur tout autre sentiment</l>
+	<l id="1196">Qu'elle étouffe en mon coeur tout autre sentiment</l>
 	<l id="1197">Ciel ! Faut-il que le sang m'inspire des tendresses, </l>
 	<l id="1198">Qui font voir à mes fils ces indignes faiblesses : </l>
 	<l id="1199">Lorsque ces sentiments dans un Père assoupis </l>
@@ -1738,7 +1739,7 @@
 	<l id="1215">Qui tantôt dans ses yeux contemple avec horreur </l>
 	<l id="1216">Les présages affreux d'une noire fureur.</l>
 	<l id="1217">Et tantôt s'aperçoit qu'un reste de tendresse,</l>
-	<l id="1218">Dessus le cur d'un Père imprimant sa faiblesse, </l>
+	<l id="1218">Dessus le coeur d'un Père imprimant sa faiblesse, </l>
 	<l id="1219">Et si prés du péril redoublant ses douleurs, </l>
 	<l id="1220">A son âpre vertu veut arracher des pleurs. </l>
 	<l id="1221">Mais quelque sentiment qui règne sur son âme,</l>
@@ -1755,7 +1756,7 @@
 	<l id="1224">Vivez, Madame, au moins plus heureuse que nous.</l>
 </sp>
 <sp who="JUNIE"><speaker>JUNIE.</speaker>
-	<l id="1225">Faites, faites pour moi des vux plus légitimes :</l>
+	<l id="1225">Faites, faites pour moi des voeux plus légitimes :</l>
 	<l id="1226">Vous allez donc mourir innocentes victimes ?</l>
 	<l id="1227">Adieu, pour vous laisser toute votre vertu, </l>
 	<l id="1228">Je dérobe à vos yeux un courage abattu. </l>
@@ -1797,7 +1798,7 @@
 	<l id="1246">La foule qui fermait ce théâtre tragique, </l>
 	<l id="1247">S'est ouverte soudain : Brute les voit venir  : </l>
 	<l id="1248">Et malgré des soupirs qu'il ne peut retenir, </l>
-	<l id="1249">Il les voit ; mais d'un il tout ardent de colère,</l>
+	<l id="1249">Il les voit ; mais d'un oeil tout ardent de colère,</l>
 	<l id="1250">Qui leur fait voir leur Juge, et leur cache leur Père. </l>
 	<l id="1251">Le Peuple, que Vitelle et d'autres conjurés, </l>
 	<l id="1252">Qui si prés de la mort se montraient assurés, </l>
@@ -1808,7 +1809,7 @@
 	<l id="1257">Une fière douleur sur leur visage peinte </l>
 	<l id="1258">Faisait naître autour d'eux le respect et la crainte. </l>
 	<l id="1259">Et leur maintien superbe imprimait à l'abord,</l>
-	<l id="1260">Aux curs les plus Romains l'image de leur mort. </l>
+	<l id="1260">Aux coeurs les plus Romains l'image de leur mort. </l>
 	<l id="1261">La crainte et la douleur erraient dans cette place, </l>
 	<l id="1262">Où les seuls condamnez exprimaient de l'audace ; </l>
 	<l id="1263">De sorte qu'il semblait à nos sens étonnés, </l>
@@ -1816,7 +1817,7 @@
 	<l id="1265">Cependant à l'aspect d'un objet si terrible : </l>
 	<l id="1266">Parmi tant d'affligés leur Père est insensible, </l>
 	<l id="1267">Son visage est égal, et sa mâle fierté </l>
-	<l id="1268">Dans le cur des Romains porte la fermeté : </l>
+	<l id="1268">Dans le coeur des Romains porte la fermeté : </l>
 	<l id="1269">Il voit son plus beau sang prêt à couler par terre :</l>
 	<l id="1270">Il peut ou retenir, ou lancer le tonnerre; </l>
 	<l id="1271">Mais plus pour ses enfants il souffre des combats, </l>
@@ -1892,7 +1893,7 @@
 	<l id="1327">Mon zèle m'a ravi le loisir de l'ouïr.</l>
 </sp>
 <sp who="JUNIE"><speaker>JUNIE.</speaker>
-	<l id="1328">Doux espoir dont mon cur ose à peine jouir, </l>
+	<l id="1328">Doux espoir dont mon coeur ose à peine jouir, </l>
 	<l id="1329">Dont la triste clarté tient encore des ténèbres, </l>
 	<l id="1330">Succède heureusement à des pensées funèbres : </l>
 	<l id="1331">Marcelle, mon salut était désespéré,</l>
@@ -1952,7 +1953,7 @@
 </sp>
 <sp who="TULLIE"><speaker>TULLIE.</speaker>
 	<l id="1367">Las ! De quelque succès que je m'ose flatter, </l>
-	<l id="1368">Mon cur sent des frayeurs qu'il ne peut surmonter ! </l>
+	<l id="1368">Mon coeur sent des frayeurs qu'il ne peut surmonter ! </l>
 	<l id="1369">De leur injuste amour, le bizarre caprice</l>
 	<l id="1370">À mon timide espoir n'offre rien de propice.</l>
 	<l id="1371">Et deux frères rivaux si fortement unis </l>

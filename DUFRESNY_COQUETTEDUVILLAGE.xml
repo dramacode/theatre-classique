@@ -6,9 +6,10 @@
 				<title>LA COQUETTE DE VILLAGE OU LE LOT SUPPOSÉ, COMÉDIE EN TROIS ACTES.</title>
 				<author born='1657' born_location='Paris' death='1724' death_location='Paris' academie=''>DUFRESNY, Charles</author>
 			</titleStmt>
-			<publicationStmp>	
+			<publicationStmt>	
 				<p>publié par Paul FIEVRE juin 2012</p>
-			</publicationStmp>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -56,12 +57,12 @@
 		</div>
 
 	<castList><head>ACTEURS.</head>
-		<castItem><role id="LE BARON" civil="M" type="H" statut='baron' age='A' stat_amour='néant'>LE BARON</role>, seigneur du château.</castItem>
-		<castItem><role id="LA VEUVE" civil="F" type="H" statut='bourgeois' age='A' stat_amour='néant'>LA VEUVE</role>, voisine du baron.</castItem>
-		<castItem><role id="ARGAN" civil="M" type="H" statut='bourgeois' age='A' stat_amour='néant'>ARGAN</role>, voisin du baron.</castItem>
-		<castItem><role id="GIRARD" civil="M" type="H" statut='receveur' age='A' stat_amour='néant'>GIRARD</role>, receveur du village.</castItem>
-		<castItem><role id="LUCAS" civil="M" type="H" statut='fermier' age='A' stat_amour='néant'>LUCAS</role>, fermier du baron.</castItem>
-		<castItem><role id="LISETTE" civil="F" type="H" statut='fermier' age='A' stat_amour='néant'>LISETTE</role>, fille du fermier.</castItem>
+		<castItem><role id="LE BARON" sex="1" type="H" statut='baron' age='A' stat_amour='néant'>LE BARON</role>, seigneur du château.</castItem>
+		<castItem><role id="LA VEUVE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>LA VEUVE</role>, voisine du baron.</castItem>
+		<castItem><role id="ARGAN" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>ARGAN</role>, voisin du baron.</castItem>
+		<castItem><role id="GIRARD" sex="1" type="H" statut='receveur' age='A' stat_amour='néant'>GIRARD</role>, receveur du village.</castItem>
+		<castItem><role id="LUCAS" sex="1" type="H" statut='fermier' age='A' stat_amour='néant'>LUCAS</role>, fermier du baron.</castItem>
+		<castItem><role id="LISETTE" sex="2" type="H" statut='fermier' age='A' stat_amour='néant'>LISETTE</role>, fille du fermier.</castItem>
 	</castList>
 	<set location='France' country='France' periode='XVIIIème' link=''></set>
 </front>
