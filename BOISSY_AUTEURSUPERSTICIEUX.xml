@@ -8,7 +8,8 @@
 				<date>1732</date>
 			</titleStmt>
 			<publicationStmp>	
-				<p>publié par Paul FIEVRE Décembre 2009</p>
+				<publisher>publié par Paul FIEVRE Décembre 2009</publisher>
+				<idno>BOISSY_AUTEURSUPERSTICIEUX</idno>
 			</publicationStmp>
 			<SourceDesc>
 				<genre>Comédie</genre>
@@ -18,9 +19,6 @@
 				<periode>1731-1740</periode>
 				<taille>250-500</taille>
 				<permalien>http://gallica.bnf.fr/ark :/12148/bpt6k55455863</permalien>
-				<sources>
-					<source id='1'><author></author><text></text></source>
-				</sources>	
 			</SourceDesc>
 		</fileDesc>
 </teiHeader>
@@ -33,17 +31,6 @@
 		<docDate value='1732'>1732</docDate>
 		<docAuthor id="BOISSY, Louis" bio='boissy'>de Louis de BOISSY</docAuthor>
 		<docImprint>
-			<approbation id=''><head></head>
-			<p>.</p>
-			</approbation>
-			<privilege id=''><head></head>
-			<p></p>
-			<signature>.</signature></privilege>
-			<enregistrement id=''>
-			<p>.</p>
-			<signature></signature>
-			</enregistrement>
-			<acheveImprime id='1732-**-**'></acheveImprime>
 			<printer id=''></printer>
 		</docImprint>
 		<performance>	
@@ -51,10 +38,10 @@
 		</performance>
 		<castList>
 			<head>PERSONNAGES</head>
-			<castItem><role id="CLITANDRE" civil='M' type="H" statut="bourgeois" age="A" stat_amour='amoureux'>CLITANDRE</role>, amant d'Hortense. </castItem>
-			<castItem><role id="DAMON" civil='M' type="H" statut="bourgeois" age="A" stat_amour='néant'>DAMON</role>, ami de Clitandre.</castItem>
-			<castItem><role id="ARLEQUIN" civil='M' type="H" statut="valet" age="A" stat_amour='néant'>ARLEQUIN</role>, valet de Clitandre.</castItem>
-			<castItem><role id="LAQUAIS" civil='M' type="H" statut="laquais" age="A" stat_amour='néant'>UN LAQUAIS</role> d'Hortense.</castItem>
+			<castItem><role id="CLITANDRE" sex='1' type="H" statut="bourgeois" age="A" stat_amour='amoureux'>CLITANDRE</role>, amant d'Hortense. </castItem>
+			<castItem><role id="DAMON" sex='1' type="H" statut="bourgeois" age="A" stat_amour='néant'>DAMON</role>, ami de Clitandre.</castItem>
+			<castItem><role id="ARLEQUIN" sex='1' type="H" statut="valet" age="A" stat_amour='néant'>ARLEQUIN</role>, valet de Clitandre.</castItem>
+			<castItem><role id="LAQUAIS" sex='1' type="H" statut="laquais" age="A" stat_amour='néant'>UN LAQUAIS</role> d'Hortense.</castItem>
 			
 		</castList>
 <set location='Paris' country='France' periode='XVIIIème' link=''>La scène est à Paris, chez Clitandre.</set>
