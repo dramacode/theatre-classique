@@ -7,8 +7,8 @@
         <author academie="" born="" born_location="" death="" death_location="Paris">(anonyme)</author>
       </titleStmt>
       <publicationStmt>
-<publisher>Théâtre Classique</publisher>
-<p>publié par Paul FIEVRE, janvier 2014</p>
+			<publisher>publié par Paul FIEVRE, janvier 2014</publisher>
+			<p></p>
       </publicationStmt>
       <SourceDesc>
         <genre>Comédie</genre>
@@ -18,13 +18,7 @@
         <periode>1721-1730</periode>
         <taille>500-750</taille>
         <permalien>http://gallica.bnf.fr/ark:/12148/bpt6k5772123k</permalien>
-        <sources>
-          <source id="1">
-            <author></author>
-            <text></text>
-          </source>
-        </sources>
-      </SourceDesc>
+	   </SourceDesc>
     </fileDesc>
   </teiHeader>
   <text>
@@ -46,7 +40,7 @@
         <premiere date="" location=""></premiere>
       </performance>
 	<div type="preface"><head>AVIS DU LIBRAIRE.</head>
-		<p>Cete petite pièce que je donne aujourd'hui au public fut envoyée il y a quatre à cinq ans aux Comédiens de Paris par un Auteur anonyme, Monsieur Quinault l'Ainé l'un des Semainiers, en fit la Lecture à la Troupe, et comme ce gracieux Comédien a le talent de prendre les inflexions de voix de qui bon lui semble en lisant le rôle de la nouvelle Actrice, il donna quelques tons d'une comédienne dont les talents pour le Théâtre font autant les délices du Public que ses grâces, et son esprit font les charmes de ceux qui la voient dans un moins grand jour. Cette actrice n'était pas présente à la lecture ; mais en ayant appris quelques circonstances et croyant se reconnaître à quelques uns de ses traits, elle obtint par ses cabales un Ordre qui défendit à ses camarades de représenter cette pièce, et les priva par une imagination chimérique de l'avantage réel que leur aurait procuré une nouveauté aussi agréable.</p>
+		<p>Cette petite pièce que je donne aujourd'hui au public fut envoyée il y a quatre à cinq ans aux Comédiens de Paris par un Auteur anonyme, Monsieur Quinault l'Ainé l'un des Semainiers, en fit la Lecture à la Troupe, et comme ce gracieux Comédien a le talent de prendre les inflexions de voix de qui bon lui semble en lisant le rôle de la nouvelle Actrice, il donna quelques tons d'une comédienne dont les talents pour le Théâtre font autant les délices du Public que ses grâces, et son esprit font les charmes de ceux qui la voient dans un moins grand jour. Cette actrice n'était pas présente à la lecture ; mais en ayant appris quelques circonstances et croyant se reconnaître à quelques uns de ses traits, elle obtint par ses cabales un Ordre qui défendit à ses camarades de représenter cette pièce, et les priva par une imagination chimérique de l'avantage réel que leur aurait procuré une nouveauté aussi agréable.</p>
 		<p>Cette Pièce m'étant tombée entre les mains à l'insu même de son auteur, j'ai cru devoir dédommager le Public du tort qu'on lui a fait, en le privant de la représentation. Il y trouvera un comique noble ; une versification aisée des pensées brillantes, des portraits nouveaux et naturels, des caractères particuliers qui n'avaient point encor paru sur la scène. Si l'on en croit les connaisseurs une bonne comédie en un acte en vers doit être regardée comme le chef-d'oeuvre de l'esprit comique ; des bornes aussi étroites exigent une précision que le feu et l'imagination produisent, mais qu'une raison exacte sait diriger.</p>
 		<p>D'ailleurs j'espère que l'impression de cette comédie désabusera l'excellente actrice qui s'en était crû l'objet mal à propos : outre qu'il n'y a aucun trait marqué qui la singularité. Le Public décidera s'il y a quelque comédienne qui puisse pousser assez loin la vanité et l'Amour propre pour se trouver dans ce portrait.</p>
 		<p type="v">Se mêle du Barreau de la Cour de la Guerre , </p>
@@ -63,17 +57,17 @@
 	</div>
       <castList>
         <head>ACTEURS</head>
-			<castItem><role id="LA BARONNE" civil="F" type="H" statut="baronne" age="A" stat_amour="néant">LA BARONNE</role>.</castItem>
-			<castItem><role id="LA COMTESSE" civil="F" type="H" statut="comtesse" age="A" stat_amour="néant">LA COMTESSE</role>.</castItem>
-			<castItem><role id="L'ACTRICE NOUVELLE" civil="F" type="H" statut="comédien" age="A" stat_amour="néant">L'ACTRICE NOUVELLE</role>.</castItem>
-			<castItem><role id="LE CHEVALIER" civil="M" type="H" statut="chevalier" age="A" stat_amour="néant">LE CHEVALIER</role>.</castItem>
-			<castItem><role id="LE CONSEILLER" civil="M" type="H" statut="conseiller" age="A" stat_amour="néant">LE CONSEILLER</role>.</castItem>
-			<castItem><role id="LE FINANCIER" civil="M" type="H" statut="financier" age="A" stat_amour="néant">LE FINANCIER</role>.</castItem>
-			<castItem><role id="ABBE BIDET" civil="M" type="H" statut="abbé" age="A" stat_amour="néant">L'ABBE BIDET</role>.</castItem>
-			<castItem><role id="FRONTIN" civil="M" type="H" statut="valet" age="A" stat_amour="néant">FRONTIN</role>, valet de l'actrice.</castItem>
-			<castItem><role id="LISETTE" civil="F" type="H" statut="suivante" age="A" stat_amour="néant">LISETTE</role>, suivante de la Baronne.</castItem>
-			<castItem><role id="UN LAQUAIS" civil="M" type="H" statut="laquais" age="A" stat_amour="néant">UN LAQUAIS</role>, du Conseiller.</castItem>
-			<castItem><role id="PLUSIEURS LAQUAIS" civil="G" type="H" statut="laquais" age="A" stat_amour="néant">Plusieurs laquais de la Baronne</role>.</castItem>
+			<castItem><role id="LA BARONNE" sex="2" type="H" statut="baronne" age="A" stat_amour="néant">LA BARONNE</role>.</castItem>
+			<castItem><role id="LA COMTESSE" sex="2" type="H" statut="comtesse" age="A" stat_amour="néant">LA COMTESSE</role>.</castItem>
+			<castItem><role id="L'ACTRICE NOUVELLE" sex="2" type="H" statut="comédien" age="A" stat_amour="néant">L'ACTRICE NOUVELLE</role>.</castItem>
+			<castItem><role id="LE CHEVALIER" sex="1" type="H" statut="chevalier" age="A" stat_amour="néant">LE CHEVALIER</role>.</castItem>
+			<castItem><role id="LE CONSEILLER" sex="1" type="H" statut="conseiller" age="A" stat_amour="néant">LE CONSEILLER</role>.</castItem>
+			<castItem><role id="LE FINANCIER" sex="1" type="H" statut="financier" age="A" stat_amour="néant">LE FINANCIER</role>.</castItem>
+			<castItem><role id="ABBE BIDET" sex="1" type="H" statut="abbé" age="A" stat_amour="néant">L'ABBE BIDET</role>.</castItem>
+			<castItem><role id="FRONTIN" sex="1" type="H" statut="valet" age="A" stat_amour="néant">FRONTIN</role>, valet de l'actrice.</castItem>
+			<castItem><role id="LISETTE" sex="2" type="H" statut="suivante" age="A" stat_amour="néant">LISETTE</role>, suivante de la Baronne.</castItem>
+			<castItem><role id="UN LAQUAIS" sex="1" type="H" statut="laquais" age="A" stat_amour="néant">UN LAQUAIS</role>, du Conseiller.</castItem>
+			<castItem><role id="PLUSIEURS LAQUAIS" sex="1" type="H" statut="laquais" age="A" stat_amour="néant">Plusieurs laquais de la Baronne</role>.</castItem>
       </castList>
       <set country="France" link="" location="Paris" periode="XVIIème">La scène est à chez la Baronne. </set>
     </front>
@@ -136,7 +130,7 @@
 	<l id='29'>Ma maîtresse fera bien pis encor, crois moi,</l>
 	<l id='30'>Je connais son esprit, et te donne ma foi, </l>
 	<l id='31'>Que s'il en est qui vont dans les loges pour plaire,</l>
-<note type="L">Parterre : Signifie aussi l'aire de slle de comédie, entre le théâtre, et l'amphithéâtre, où le peuple est debout. [F]</note>
+<note type="L">Parterre : Signifie aussi l'aire de salle de comédie, entre le théâtre, et l'amphithéâtre, où le peuple est debout. [F]</note>
 	<l id='32'>Celle-ci pourrait bien aller jusqu'au parterre : </l>
 	<l id='33'>Tiens, Lisette elle est folle, et d'elle il est cent traits, </l>
 	<l id='34'>Que l'on ne pourrait croire, et qui pourtant sont vrais </l>
@@ -197,7 +191,7 @@
 	<l id='76'>S'il m'y fallait rentrer j'irais plutôt à Rome. </l>
 	<l id='77'>Morbleu que celui-là me menait joli train :</l>
 	<l id='78'>Il m'aurait fait crever, quoiqu'il fut médecin ;</l>
-	<l id='79'>Tiens,dans cette maison je faisais tout fans aides, </l>
+	<l id='79'>Tiens,dans cette maison je faisais tout sans aides, </l>
 	<l id='80'>Je rasais, je frottais, je portais les remèdes ;</l>
 	<l id='81'>Je faisais la cuisine, et battais les habits, </l>
 	<l id='82'>Je balayais la Cour, et je faisais les lits ;</l>
@@ -314,7 +308,7 @@
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 	<l id='151'>La Pièce que l'on joue est plus belle que rare </l>
 <note type="C">Au début XVIIIme, L'Avare de Molière a été repris en 1701, 1702 et en 1711 au Théâtre Français.</note>
-	<l id='152'>Car je pense avoir lu fur l'affiche l'Avare.</l>
+	<l id='152'>Car je pense avoir lu sur l'affiche l'Avare.</l>
 </sp>
 <sp who='LA BARONNE'><speaker>LA BARONNE. </speaker>
 	<l id='153' part='i'>Oh, je n'y irai donc pas.</l>
@@ -353,7 +347,7 @@
 	<l id='171'>Adieu belle et charmante Dame,</l>
 	<l id='172'>Que j'aime de toute mon âme, </l>
 	<l id='173'>Et que j'aimerai même au delà du trépas ; </l>
-<note type="L">Calchas : Sacrificateur et devin grec, fils de Thestor, prit part à l'expédition des grecs contre Troie. , prédit que ce siège durerait dix ans, et que la flotte grecque ne sortirait du port d'Aulide qu'après que le roi Agamemnon aurait sacrifié sa fille Iphigénie sur l'Autelr de Diane. [B] Voir Iphigénie de Jean Racine.</note>
+<note type="L">Calchas : Sacrificateur et devin grec, fils de Thestor, prit part à l'expédition des grecs contre Troie, prédit que ce siège durerait dix ans, et que la flotte grecque ne sortirait du port d'Aulide qu'après que le roi Agamemnon aurait sacrifié sa fille Iphigénie sur l'Autelr de Diane. [B] Voir Iphigénie de Jean Racine.</note>
 	<l id='174'>Cet Oracle est plus sûr que celui de Calchas. »</l>
 	<l id='175'>Pour moi la pauvre enfant est pleine de tendresse ; </l>
 	<l id='176'>Je veux qu'à l'applaudir tout le Public s'empresse : </l>
@@ -509,7 +503,7 @@
 	<l id='264'>En vers au Conseiller je veux écrire aussi.</l>
 </sp>
 </div2>
-<div2 type="scene" n='5'><head>SCÈNE IV.</head>
+<div2 type="scene" n='4'><head>SCÈNE IV.</head>
 <sp who='LISETTE'><speaker>LISETTE, seule.</speaker>
 	<l id='265'>La Lettre fera longue à ce que j'imagine, </l>
 	<l id='266'>Et ne s'écrira pas sans Corneille, ou Racine.</l>
@@ -609,7 +603,7 @@
 <sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='315' part='i'>Encor. </l>
 </sp>
-<sp who='LA COMTESSE'><speaker>LA COMTESSE, en riait; ></speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE, en riant.</speaker>
 	<l id='315' part='f'>Le Conseiller puisqu'il faut vous le dire.</l>
 </sp>
 <sp who='LE CHEVALIER'><speaker>LE CHEVALIER. </speaker>
