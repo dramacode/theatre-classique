@@ -62,11 +62,11 @@
 	<s id='3'>Je traite du bonheur de ma fille ! </s>
 	<s id='4'>Lisons encore une fois la lettre que m'écrit le Chevalier de Valbelle.</s>
 </p>
-<stage>Elle lit.</stage>
+<stage type="read">Elle lit.</stage>
 <p id='2'>
 	<s id='1'>« Madame, je n'attends que vos ordres pour partir. » </s>
 </p>
-<stage>Elle se lève.</stage>
+<stage type="[N/A]">Elle se lève.</stage>
 <p id='3'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Qu'il ne parte point encore ! </s>
@@ -174,7 +174,7 @@
 	<s id='1'>De quoi ? </s>
 	<s id='2'>Et qui vous parle d'amour ?</s>
 </p>
-<stage>À part.</stage>
+<stage type="aparte">À part.</stage>
 <p id='17'>
 	<s id='1'>Quelle mère est assez heureuse, pour que le coeur de sa fille parle au gré de ses voeux ?</s>
 </p>
@@ -224,7 +224,7 @@
 	<s id='1'>Ce Monsieur Derville, s'aviser de vouloir nous quitter ? </s>
 	<s id='2'>Lui, depuis dix ans dans cette maison, lui parent et ami de ma maîtresse, chéri de Sophie comme un père !</s>
 </p>
-<stage>Elle appelle.</stage> 
+<stage type="[N/A]">Elle appelle.</stage> 
 <p id='2'>
 	<s id='1'>Dubois ! </s>
 	<s id='2'>Je le questionnerai tant, qu'il faudra bien qu'il parle. </s>
@@ -292,7 +292,7 @@
 	<s id='1'>Un moment. </s>
 	<s id='2'>Ce voyage précipité...</s>
 </p>	
-<stage>Frappant du pied.</stage>
+<stage type="[N/A]">Frappant du pied.</stage>
 <p id='11'>
 	<s id='1'>Tu n'en diras pas davantage.</s>
 </p>
@@ -314,7 +314,7 @@
 	<s id='2'>Monsieur Derville m'attend. </s>
 	<s id='3'>Sur pied depuis cinq heures du matin, il a mis le nez, je crois, dans tous les volumes de sa bibliothèque, sans avoir jamais pu trouver ce qui lui convenait.</s>
 </p>
-<stage>Montrant son front.</stage>
+<stage type="[N/A]">Montrant son front.</stage>
 <p id='15'>
 	<s id='1'>Voyez-vous, c'est le cerveau qui est malade. </s>
 	<s id='2'>Du mystère, Mademoiselle Lisette, du mystère.</s>
@@ -344,7 +344,7 @@
 <p id='2'>
 	<s id='1'>Devant vos yeux.</s>
 </p>
-<stage>À part.</stage>
+<stage type="aparte">À part.</stage>
 <p id='3'>
 	<s id='1'>Si je pouvais le faire parler.</s>
 </p>
@@ -432,7 +432,7 @@
 <p id='17'>
 	<s id='1'>Le secret échappe.</s>
 </p>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 <p id='18'>
 	<s id='1'>De quel air vous dites cela ! </s>
 	<s id='2'>Quoi ! </s>
@@ -473,7 +473,7 @@
 	<s id='2'>Vous aimez Madame Dorsan, à en perdre l'esprit, vous voudriez obtenir sa main ; j'en suis certaine. </s>
 	<s id='3'>Ne craignez plus mes questions importunes.</s>
 </p>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 <p id='25'>
 	<s id='1'>Adieu, Monsieur, je vais dire à Madame que vous êtes ici.</s>
 </p>
@@ -579,13 +579,13 @@
 	<s id='1'>La raison faiblit à proportion des forces qu'on en exige. </s>
 	<s id='2'>Souvent, le prétendu sage n'est qu'un fou comme un autre.</s>
 </p>
-<stage>À part.</stage>
+<stage type="aparte">À part.</stage>
 <p id='11'>
 	<s id='1'>Et sensible, à mon âge... </s>
 	<s id='2'>Je ne puis soutenir cet entretien. </s>
 	<s id='3'>Un autre instant me verra, peut-être, plus calme.</s>
 </p>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 <p id='12'>
 	<s id='1'>Vous me connaîtrez,... vous connaîtrez mon coeur,... et s'il sait remplir les devoirs de l'amitié, se soumettre aux sacrifices qu'elle impose.</s>
 </p>
@@ -743,7 +743,7 @@
 	<s id='1'>Mais que me voulez-vous donc ?... </s>
 	<s id='2'>Vous allez prendre votre leçon d'Italien, et vous n'étudiez pas ?...</s>
 </p>
-<stage>À part.</stage>
+<stage type="aparte">À part.</stage>
 <p id='23'>
 	<s id='1'>De l'un et de l'autre côté, je vois des rapports qui me frappent. </s>
 	<s id='2'>Derville souffre, et ma fille aussi.</s>
@@ -754,7 +754,7 @@
 	<s id='1'>Je vois... </s>
 	<s id='2'>Je ferai tout ce que vous ordonnerez maman.</s>
 </p>
-<stage>Elle se met à la table à écrire.</stage>
+<stage type="write">Elle se met à la table à écrire.</stage>
 </sp>
 <sp who='MADAME DORSAN'><speaker>MADAME DORSAN, à part.</speaker>
 <p id='25'>
@@ -810,7 +810,7 @@
 <p id='1'>
 	<s id='1'>Faisons remettre cette lettre à Madame Dorsan.</s>
 </p>
-<stage>Il voit Sophie.</stage>
+<stage type="[N/A]">Il voit Sophie.</stage>
 <p id='2'>
 	<s id='1'>Que vois-je ? </s>
 	<s id='2'>Sophie est sans sa mère. </s>
@@ -822,7 +822,7 @@
 <p id='2'>
 	<s id='1'>Lui !</s>
 </p>
-<stage>Elle court au devant.</stage>
+<stage type="[N/A]">Elle court au devant.</stage>
 <p id='3'>
 	<s id='1'>Ô mon bon ami, vous voilà, enfin, vous voilà !... </s>
 	<s id='2'>Je ne sais plus... </s>
@@ -836,7 +836,7 @@
 <p id='4'>
 	<s id='1'>La surprise sans doute, a produit cette émotion passagère.</s>
 </p>
-<stage>À part.</stage>
+<stage type="aparte">À part.</stage>
 <p id='5'>
 	<s id='1'>Qui n'en serait troublé ?</s>
 </p>
@@ -900,7 +900,7 @@
 <p id='16'>
 	<s id='1'>Être séparé de Sophie !</s>
 </p>
-<stage>Riant.</stage>
+<stage type="[N/A]">Riant.</stage>
 <p id='17'>
 	<s id='1'>Vous dites cela pour m'éprouver. </s>
 	<s id='2'>Qu'avez-vous donc ?</s>
@@ -931,7 +931,7 @@
 	<s id='1'>Eh bien, c'est dit : j'ai tort, sans le vouloir, sans m'en douter. </s>
 	<s id='2'>Faisons la paix.</s>
 </p>
-<stage>Elle lui tend la main.</stage>
+<stage type="[N/A]">Elle lui tend la main.</stage>
 </sp>
 <sp who='DERVILLE'><speaker>DERVILLE, s'éloignant d'elle.</speaker>
 <p id='22'>
@@ -949,7 +949,7 @@
 <p id='24'>
 	<s id='1'>Sais-je en cet instant, ce que je suis ?</s>
 </p>
-<stage>À part.</stage>
+<stage type="aparte">À part.</stage>
 <p id='25'>
 	<s id='1'>Je suis trop faible. </s>
 	<s id='2'>Oui, je l'aime trop uniquement.</s>
@@ -1337,7 +1337,7 @@
 	<s id='10'>Et Derville ne peut être injuste ?... </s>
 	<s id='11'>Mais, avec mon coeur, est-on coupable ?</s>
 </p>
-<stage>Elle marche éperdue.</stage>
+<stage type="[N/A]">Elle marche éperdue.</stage>
 <p id='2'>
 	<s id='1'>Ô ma mère ! </s>
 	<s id='2'>Ô ma mère !</s>
@@ -1382,7 +1382,7 @@
 <p id='7'>
 	<s id='1'>Je respire.</s>
 </p>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 <p id='8'>
 	<s id='1'>Confie à mon coeur...</s>
 </p>
@@ -1418,7 +1418,7 @@
 <p id='14'>
 	<s id='1'>La jalousie a surmonté le courage.</s>
 </p>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 <p id='15'>
 	<s id='1'>Tu lui as fait part de ton mariage avec le Chevalier ?</s>
 </p>
@@ -1440,7 +1440,7 @@
 	<s id='1'>Que vois-je ? </s>
 	<s id='2'>C'est de Derville.</s>
 </p>
-<stage>Elle lit.</stage>
+<stage type="read">Elle lit.</stage>
 <p id='3'>
 	<s id='1'>Je trahirais la confiance, si je ne m'imposais un sacrifice ; j'ai cet empire encore sur moi-même, je sais prendre un parti, je vous quitte ce soir. </s>
 	<s id='2'>Daignez m'accorder une dernière grâce, épargnez un déplaisir à Sophie, cachez-lui mon départ. </s>
@@ -1459,7 +1459,7 @@
 	<s id='1'>Oui, et vous direz que je vais... </s>
 	<s id='2'>Qu'on ne décide rien avant de l'avoir reçue.</s>
 </p>
-<stage>Le Laquais sort.</stage>
+<stage type="exit">Le Laquais sort.</stage>
 <p id='6'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Tout me rassure. </s>
@@ -1467,7 +1467,7 @@
 	<s id='4'>Et qu'ai-je à craindre de la disproportion des âges ? </s>
 	<s id='5'>Dissimulons.</s>
 </p>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='16'><head>SCÈNE XVI. Madame Dorsan, Sophie.</head>
@@ -1576,7 +1576,7 @@
 <p id='17'>
 	<s id='1'>Non.</s>
 </p>
-<stage>Elle suffoque.</stage>
+<stage type="[N/A]">Elle suffoque.</stage>
 <p id='18'>
 	<s id='1'>Et de même que ta faiblesse eût entraîné la mienne, ta force m'inspire du courage. </s>
 	<s id='2'>Je sens actuellement que ma peine est adoucie.</s>
@@ -1622,7 +1622,7 @@
 	<s id='3'>Je suis bien à plaindre, n'est-ce pas ? </s>
 	<s id='4'>N'est-ce pas, maman, que je souffre beaucoup ?</s>
 </p>
-<stage>Lisette entre.</stage>
+<stage type="[N/A]">Lisette entre.</stage>
 </sp>
 <sp who='MADAME DORSAN'><speaker>MADAME DORSAN.</speaker>
 <p id='26'>
@@ -1728,7 +1728,7 @@
 	<s id='1'>Laisse-moi. </s>
 	<s id='2'>Qu'il n'ait à rougir qu'à mes yeux.</s>
 </p>
-<stage>Elle sort.</stage>
+<stage type="exit">Elle sort.</stage>
 <p id='18'>
 	<s id='1'>Il approche, et sa vue...</s>
 </p>
@@ -1800,7 +1800,7 @@
 	<s id='2'>Laisse-moi... ton âge, ces aveux répétés, d'une tendresse éternelle, je les dois à une mère, à la tienne, ô Sophie !... </s>
 	<s id='3'>Je vais à Madame Dorsan, je vais à l'instant même...</s>
 </p>
-<stage>Il s'éloigne et revient.</stage>
+<stage type="[N/A]">Il s'éloigne et revient.</stage>
 <p id='10'>
 	<s id='1'>Ne crains point cette expérience de l'âge, cette sévérité de caractère que l'amour adoucira pour toi. </s>
 	<s id='2'>T'aimer, t'adorer ! </s>
@@ -1913,7 +1913,7 @@
 <p id='1'>
 	<s id='1'>Elle ignore que tout s'apprête pour son union.</s>
 </p>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 <p id='2'>
 	<s id='1'>Quoi donc ? </s>
 	<s id='2'>Quelles nouvelles alarmes ?</s>
@@ -1944,11 +1944,11 @@
 <p id='7'>
 	<s id='1'>Retirez-vous.</s>
 </p>
-<stage>Elle sort.</stage>
+<stage type="exit">Elle sort.</stage>
 <p id='8'>
 	<s id='1'>Profitons de l'erreur.</s>
 </p>
-<stage>À Sophie.</stage>
+<stage type="toward">À Sophie.</stage>
 <p id='9'>
 	<s id='1'>Nous désirons toutes deux de fixer Derville auprès de nous ; il fallait l'attacher par des noeuds qu'il pût chérir. </s>
 	<s id='2'>Lui donner ta main ? </s>
@@ -1999,12 +1999,12 @@
 	<s id='10'>Il ne vivra point pour Sophie... </s>
 	<s id='11'>Mais Sophie !...</s>
 </p>
-<stage>Elle se jette dans les bras de sa mère.</stage>
+<stage type="[N/A]">Elle se jette dans les bras de sa mère.</stage>
 <p id='15'>
 	<s id='1'>Ô maman ! </s>
 	<s id='2'>Mon âme est bien changée !</s>
 </p>
-<stage>Derville entre.</stage>
+<stage type="[N/A]">Derville entre.</stage>
 <p id='16'>
 	<s id='1'>Derville !</s>
 </p>

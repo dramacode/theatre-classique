@@ -55,7 +55,7 @@
 		<castItem><role id='GARDES DU SÉNAT' sex="9" type="H" statut="gardes" age="A" stat_amour='néant'>GARDES DU SÉNAT</role>.</castItem>
 	</castList>
 <set location='Venise' country='Italie' periode='XVIIIème' link=''>La scène est à Venise.</set> 
-<stage>Les trois premiers actes se passent sous un vaste péristyle qui touche aux palais de Ziani et de Gradonigue; le quatrième acte, dans un endroit écarté de Venise ; et le cinquième, dans le palais de Ziani.</stage>
+<stage type="[N/A]">Les trois premiers actes se passent sous un vaste péristyle qui touche aux palais de Ziani et de Gradonigue; le quatrième acte, dans un endroit écarté de Venise ; et le cinquième, dans le palais de Ziani.</stage>
 </front>
 <body>
 <div1 type="act" n='1'><head>ACTE I</head>
@@ -263,7 +263,7 @@
 </sp>
 <sp who='GRADONIGUE'><speaker>GRADONIGUE.</speaker>
 	<l id='156' part='f'>J'y cours sans différer.</l>
-<stage>À Laurence.</stage>
+<stage type="toward">À Laurence.</stage>
 	<l id='157'>Sans doute d'Orzano tu connais la victoire.</l>
 </sp>
 <sp who='LAURENCE'><speaker>LAURENCE.</speaker>
@@ -907,7 +907,7 @@
 	<l id='614'>Que lui sert, en effet, une pompe brillante ?</l>
 	<l id='615'>Votre aspect, votre amour, les Génois terrassés,</l>
 	<l id='616'>Pour le coeur qui l'attend l'embelliront assez.</l>
-<stage>Elle rentre dans son palais.</stage>
+<stage type="[N/A]">Elle rentre dans son palais.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III.</head>
@@ -930,7 +930,7 @@
 	<l id='632'>Et surtout la beauté, bien plus chère à mes yeux.</l>
 	<l id='633'>Mais je vois Montano ; courons, plein d'assurance,</l>
 	<l id='634'>Hâter le doux moment qu'attend aussi Laurence.</l>
-<stage>Il sort.</stage>
+<stage type="exit">Il sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Montano, Un Officier du Conseil des Dix.</head>
@@ -1007,7 +1007,7 @@
 	<l id='670'>Quelle sera sa joie en me voyant renaître !</l>
 	<l id='671'>Je n'ose approcher d'elle : où pourrai-je trouver</l>
 	<l id='672'>Ce mortel généreux qui daigna me sauver ?</l>
-<stage>Montano s'approche.</stage>
+<stage type="[N/A]">Montano s'approche.</stage>
 	<l id='673' part='i'>Ciel !</l>
 </sp>
 <sp who='MONTANO'><speaker>MONTANO.</speaker>
@@ -1315,7 +1315,7 @@
 	<l id='871'>De l'Istrie ! Ah ! C'est là qu'à mes bras arraché,</l>
 	<l id='872'>Mon fils, dès qu'il naquit, par Zéno fut caché.</l>
 	<l id='873' part='i'>Qu'il entre.</l>
-<stage>Lucile sort.</stage>
+<stage type="exit">Lucile sort.</stage>
 	<l id='873' part='f'>De son sort peut-être il vient m'instruire.</l>
 </sp>
 </div2>
@@ -1366,13 +1366,13 @@
 </sp>
 <sp who='LAURENCE'><speaker>LAURENCE.</speaker>
 	<l id='889' part='f'>Comptez sur ma reconnaissance. </l>
-<stage>Il se retire.</stage>
+<stage type="[N/A]">Il se retire.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Laurence, Lucile.</head>
 <sp who='LAURENCE'><speaker>LAURENCE, ouvrant le billet.</speaker>
 	<l id='890'>Lisons ; pour moi, sans doute, il n'est plus d'espérance. </l>
-<stage>Elle lit.</stage>
+<stage type="read">Elle lit.</stage>
 	<l id='891'>« Ignorant le sang dont il sort, </l>
 	<l id='892'>Votre fils, pour combattre, a quitté notre asile. </l>
 	<l id='893'>J'ai fait, pour l'arrêter, un effort inutile ; </l>
@@ -1422,7 +1422,7 @@
 	<l id='933'>Tremblante du penchant où j'ai pu condescendre,</l>
 	<l id='934'>Je sens que mon amour n'appartient qu'à ta cendre. </l>
 	<l id='935'>Viens, avec Orzano, partager tous mes voeux.</l>
-<stage>À LuciLe.</stage>
+<stage type="toward">À LuciLe.</stage>
 	<l id='936' part='i'>Toi, vers mon fils...</l>
 </sp>
 <sp who='LUCILE'><speaker>LUCILE.</speaker>
@@ -1485,7 +1485,7 @@
 <sp who='LAURENCE'><speaker>LAURENCE, à part.</speaker>
 	<l id='954' part='f'>Je respire ;</l>
 	<l id='955'>Il ne sait pas du moins qu'un fils est né de moi.</l>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 	<l id='956'>Oui, Quirini mourut digne objet de ma foi ;</l>
 	<l id='957'>Mais daignez m'éclairer. Lorsque, dans sa furie,</l>
 	<l id='958'>Accablé de me perdre, il s'arracha la vie,</l>
@@ -1631,9 +1631,9 @@
 	<l id='1024'>Ne vois qu'en vous le dieu que j'y vais adorer.</l>
 </sp>
 <sp who='LAURENCE'><speaker>LAURENCE.</speaker>
-<stage>À part.</stage>
+<stage type="aparte">À part.</stage>
 	<l id='1025' part='i'>Mon fils !... Que lui répondre ?</l>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 	<l id='1025' part='m'>Orzano...</l>
 </sp>
 <sp who='ORZANO'><speaker>ORZANO.</speaker>
@@ -1665,7 +1665,7 @@
 </sp>
 <sp who='LAURENCE'><speaker>LAURENCE.</speaker>
 	<l id='1032' part='m'>Je ne le puis.</l>
-<stage>À part.</stage>
+<stage type="aparte">À part.</stage>
 	<l id='1032' part='f'>Que n'est-il seul, ô ciel !</l>
 </sp>
 <sp who='GRADONIGUE'><speaker>GRADONIGUE.</speaker>
@@ -1685,7 +1685,7 @@
 	<l id='1035' part='f'>Quand vous saurez... Je me trouble et me crains,</l>
 	<l id='1036'>Etne puis soutenir l'aspect de vos chagrins.</l>
 	<l id='1037' part='i'>Adieu.</l>
-<stage>Elle sort.</stage>
+<stage type="exit">Elle sort.</stage>
 </sp>
 <sp who='GRADONIGUE'><speaker>GRADONIGUE, à Orzano.</speaker>
 	<l id='1037' part='f'>Vous me voyez confus de cette injure ;</l>
@@ -1800,7 +1800,7 @@
 	<l id='1116'>Où tout rappellerait, à mon coeur attristé,</l>
 	<l id='1117'>Ma honte, mes chagrins, les traits de la parjure,</l>
 	<l id='1118'>Et l'honneur qui m'accable, et l'amour que j'abjure.</l>
-<stage>Il s'échappe.</stage>
+<stage type="[N/A]">Il s'échappe.</stage>
 </sp>
 <sp who='ZIANI'><speaker>ZIANI.</speaker>
 	<l id='1119'>Je ne vous quitte pas ; et mon zèle affermi </l>
@@ -1809,7 +1809,7 @@
 </div2>
 </div1>
 <div1 type="act" n='4'><head>ACTE IV</head>
-<stage>Le théâtre représente un des endroits solitaires de Venise, aux extrémités de la ville.</stage>
+<stage type="decor">Le théâtre représente un des endroits solitaires de Venise, aux extrémités de la ville.</stage>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE.</head>
 <sp who='QUIRINI'><speaker>QUIRINI.</speaker>
 	<l id='1121'>Montano ne vient pas : je languis dans l'attente.</l>
@@ -1951,7 +1951,7 @@
 <sp who='QUIRINI'><speaker>QUIRINI, à part.</speaker>
 	<l id='1190'>Mon rival ! Commandons à ma juste furie.</l>
 	<l id='1191' part='i'>Approchons.</l>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 	<l id='1191' part='m'>Orzano....</l>
 </sp>
 <sp who='ORZANO'><speaker>ORZANO.</speaker>
@@ -1959,7 +1959,7 @@
 </sp>
 <sp who='QUIRINI'><speaker>QUIRINI, à part.</speaker>
 	<l id='1192' part='i'>C'est bien lui.</l>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 	<l id='1192' part='f'>Qui produit le trouble où je vous vois ? </l>
 	<l id='1193'>Vainqueur, de votre sort ressentez mieux les charmes.</l>
 </sp>
@@ -1977,7 +1977,7 @@
 </sp>
 <sp who='QUIRINI'><speaker>QUIRINI, à part.</speaker>
 	<l id='1199'>Elle l'a dit ! Ô rage ! Ô transports furieux !</l>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 	<l id='1200'>Sa main vous appartient ; un hymen glorieux... </l>
 </sp>
 <sp who='ORZANO'><speaker>ORZANO.</speaker>
@@ -1988,7 +1988,7 @@
 </sp>
 <sp who='ORZANO'><speaker>ORZANO, à part.</speaker>
 	<l id='1202'>Dans mes sens, près de lui, quel trouble vient de naître ?</l>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 	<l id='1203'>Et qui donc êtes-vous pour me parler ainsi ?</l>
 </sp>
 <sp who='QUIRINI'><speaker>QUIRINI.</speaker>
@@ -2032,9 +2032,9 @@
 </sp>
 <sp who='ORZANO'><speaker>ORZANO.</speaker>
 	<l id='1223'>Toi, cruel ! Il suffit, rompons cet entretien.</l>
-<stage>Il tire son épée.</stage>
+<stage type="[N/A]">Il tire son épée.</stage>
 	<l id='1224'>Viens prendre tout mon sang, ou verser tout le tien. </l>
-<stage>Ils se battent.</stage>
+<stage type="[N/A]">Ils se battent.</stage>
 </sp>
 <sp who='QUIRINI'><speaker>QUIRINI, en tombant.</speaker>
 	<l id='1225' part='i'>Je suis frappé.</l>
@@ -2045,7 +2045,7 @@
 	<l id='1227'>Si vers ce malheureux.... Je n'ose en approcher ! </l>
 	<l id='1228'>Une secrète voix semble me reprocher...</l>
 	<l id='1229'>Fuyons ce lieu ; fuyons l'horreur qui m'environne.</l>
-<stage>Il s'échappe.</stage>
+<stage type="[N/A]">Il s'échappe.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV.</head>
@@ -2063,7 +2063,7 @@
 	<l id='1233' part='m'>Montano.... </l>
 </sp>
 <sp who='MONTANO'><speaker>MONTANO.</speaker>
-<stage>Il s'approche.</stage>
+<stage type="[N/A]">Il s'approche.</stage>
 	<l id='1233' part='f'>Qui m'appelle ? </l>
 	<l id='1234' part='i'>Ciel !... mon ami sanglant !</l>
 </sp>
@@ -2200,7 +2200,7 @@
 	<l id='1290' part='i'>Oui, venez.</l>
 </sp>
 <sp who='QUIRINI'><speaker>QUIRINI.</speaker>
-<stage>À Laurence.</stage>
+<stage type="toward">À Laurence.</stage>
 	<l id='1290' part='f'>Guidez-moi. Je brûle de t'apprendre</l>
 	<l id='1291'>L'espoir qui, sur ces bords, m'a conduit en ce jour,</l>
 	<l id='1292'>Et les tendres projets qu'a formés mon amour.</l>
@@ -2216,7 +2216,7 @@
 	<l id='1295' part='i'>Suivez-nous.</l>
 </sp>
 <sp who='QUIRINI'><speaker>QUIRINI.</speaker>
-<stage>À Laurence.</stage>
+<stage type="toward">À Laurence.</stage>
 	<l id='1295' part='f'>Je suis prêt. Mon bonheur a cessé.</l>
 </sp>
 <sp who='LAURENCE'><speaker>LAURENCE, à Montano.</speaker>
@@ -2272,7 +2272,7 @@
 </div2>
 </div1>
 <div1 type="act" n='5'><head>ACTE V</head>
-<stage>Le théâtre représente l'intérieur du palais de Ziani.</stage>
+<stage type="decor">Le théâtre représente l'intérieur du palais de Ziani.</stage>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Ziani, Laurence.</head>
 <sp who='LAURENCE'><speaker>LAURENCE.</speaker>
 	<l id='1317'>Venise retentit du bruit de mes malheurs ;</l>
@@ -2324,7 +2324,7 @@
 <sp who='ZIANI'><speaker>ZIANI.</speaker>
 	<l id='1344'>J'entends ; vous désirez l'instruire la première.</l>
 	<l id='1345' part='i'>Il suffit.</l>
-<stage>Elle sort.</stage>
+<stage type="exit">Elle sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II.</head>
@@ -2746,7 +2746,7 @@
 <sp who='ORZANO'><speaker>ORZANO.</speaker>
 	<l id='1558'>Éloignez donc ce sang qui coule autour de moi.</l>
 	<l id='1559'>Il demande vengeance, il faut le satisfaire.</l>
-<stage>Il se tue.</stage>
+<stage type="die">Il se tue.</stage>
 </sp>
 <sp who='LAURENCE'><speaker>LAURENCE.</speaker>
 	<l id='1560'>Arrête, malheureux, il te reste une mère.</l>
@@ -2757,7 +2757,7 @@
 	<l id='1562'>L'amour seul à ma main ordonnait mon trépas. </l>
 	<l id='1563'>Après tant de malheurs, où ma force succombe, </l>
 	<l id='1564'>Je n'avais d'autre espoir que la paix de la tombe...</l>
-<stage>À Gradonigue.</stage>
+<stage type="toward">À Gradonigue.</stage>
 	<l id='1565'>Seule, elle peut calmer tout mon coeur abattu,</l>
 	<l id='1566'>Hélas ! Je meurs coupable en aimant la vertu.</l>
 	<l id='1567'>Moins heureux que la fleur, je tombe à mon aurore ;</l>
@@ -2937,11 +2937,11 @@
 	<l id='1593'>Que n'ai-je, avant ce jour !... C'est le dernier pour moi</l>
 	<l id='1594'>Ami trop généreux, approchez sans effroi.</l>
 	<l id='1595'>Et vous, dignes mortels, dont chacun m'offre un père.</l>
-<stage>À Laurence.</stage>
+<stage type="toward">À Laurence.</stage>
 	<l id='1596'>Vous surtout, à mon coeur trop fatale et trop chère, </l>
 	<l id='1597'>Donnez-moi votre main, mon trépas est plus doux, </l>
 	<l id='1598'>Et mon dernier soupir n'est encor que pour vous.</l>
-<stage>Il meurt.</stage>
+<stage type="die">Il meurt.</stage>
 </sp>
 </div2>
 </div1>

@@ -58,12 +58,12 @@
 <body>
 <div1 type="act" n='1'><head>ACTE I</head>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. La Princesse et sa suite, Hortense.</head>
-<stage>La scène représente une salle où la Princesse entre rêveuse, accompagnée de quelques femmes qui s'arrêtent au milieu du théâtre. </stage>
+<stage type="decor">La scène représente une salle où la Princesse entre rêveuse, accompagnée de quelques femmes qui s'arrêtent au milieu du théâtre. </stage>
 <sp who='LA-PRINCESSE'><speaker>LA PRINCESSE, se retournant vers ses femmes.</speaker>
 <p id='1'>
 	<s id='1'>Hortense ne vient point, qu'on aille lui dire encore que je l'attends avec impatience.</s>
 </p>
-<stage>Hortense entre.</stage>
+<stage type="[N/A]">Hortense entre.</stage>
 <p id='2'>
 	<s id='1'>Je vous demandais, Hortense.</s>
 </p>
@@ -348,7 +348,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. La Princesse, Hortense, Arlequin.</head>
-<stage>Arlequin arrive d'un air désoeuvré en regardant de tous côtés. Il voit la Princesse et Hortense, et veut s'en aller.</stage>
+<stage type="[N/A]">Arlequin arrive d'un air désoeuvré en regardant de tous côtés. Il voit la Princesse et Hortense, et veut s'en aller.</stage>
 <sp who='LA-PRINCESSE'><speaker>LA PRINCESSE.</speaker>
 <p id='1'>
 	<s id='1'>Que cherches-tu, Arlequin ? </s>
@@ -381,7 +381,7 @@
 	<s id='11'>Et moi, qu'est-ce que je suis en comparaison de cela ? </s>
 	<s id='12'>Mais n'est-ce pas encore une autre impertinence que je fais, de raisonner avec vous comme avec ma pareille ? </s>
 </p>
-<stage>Hortense rit.</stage>
+<stage type="[N/A]">Hortense rit.</stage>
 <p id='5'>
 	<s id='1'>Voilà votre camarade qui rit ; j'aurai dit quelque sottise. </s>
 	<s id='2'>Adieu, Madame ; je salue Votre Grandeur.</s>
@@ -479,7 +479,7 @@
 	<s id='1'>Ah ! </s>
 	<s id='2'>Madame, sans compliment, je ne suis pas digne d'avoir cet adieu-là... </s>
 </p>
-<stage>Quand elles sont parties.</stage>
+<stage type="[N/A]">Quand elles sont parties.</stage>
 <p id='21'>
 	<s id='1'>Cette Princesse est une bonne femme ; elle n'a pas voulu me tourner le dos sans me faire une civilité. </s>
 	<s id='2'>Bon ! </s>
@@ -849,7 +849,7 @@
 	<s id='1'>Je ne vous dirai plus rien ; vous m'avez demandé la consolation de m'ouvrir votre coeur, et vous me trompez ; au lieu de cela, vous prenez la consolation de voir dans le mien. </s>
 	<s id='2'>Je sais votre secret, en voilà assez ; laissez-moi garder le mien, si je l'ai encore.</s>
 </p>
-<stage>Elle part.</stage>
+<stage type="[N/A]">Elle part.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII.</head>
@@ -878,7 +878,7 @@
 <p id='3'>
 	<s id='1'>Voilà de grands transports ; mais je n'ai pas charge de les rapporter ; j'ai dit ce que j'avais à vous dire, vous m'avez entendue ; je n'ai pas le temps de le répéter, et je n'ai rien à savoir de vous. </s>
 </p>
-<stage>Elle s'en va ; Lélio, piqué, l'arrête.</stage>
+<stage type="exit">Elle s'en va ; Lélio, piqué, l'arrête.</stage>
 </sp>
 <sp who='LÉLIO'><speaker>LÉLIO.</speaker>
 <p id='4'>
@@ -1213,7 +1213,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='13'><head>SCÈNE XIII. Frédéric, Arlequin.</head>
-<stage>Il entre en comptant de l'argent dans son chapeau.</stage>
+<stage type="[N/A]">Il entre en comptant de l'argent dans son chapeau.</stage>
 <sp who='FRÉDÉRIC'><speaker>FRÉDÉRIC.</speaker>
 <p id='1'>
 	<s id='1'>Bonjour, Arlequin. </s>
@@ -1250,7 +1250,7 @@
 <p id='6'>
 	<s id='1'>Le brave conseiller que vous êtes ! </s>
 </p>
-<stage>Il saute.</stage>
+<stage type="[N/A]">Il saute.</stage>
 <p id='7'>
 	<s id='1'>Hi ! </s>
 	<s id='2'>Hi ! </s>
@@ -1591,7 +1591,7 @@
 	<s id='1'>Je ne sais où j'en suis. </s>
 	<s id='2'>Quand je nierais le fait, c'est un homme simple qu'on n'en croira que trop sur une infinité d'autres présomptions, et la quantité d'argent que je lui ai donné prouve encore contre moi.</s>
 </p>
-<stage>À Arlequin.</stage>
+<stage type="toward">À Arlequin.</stage>
 <p id='67'>
 	<s id='1'>Finissons, mon enfant, que te faut-il ?</s>
 </p>
@@ -1702,7 +1702,7 @@
 <p id='87'>
 	<s id='1'>Puisqu'il te la faut absolument, reviens me trouver tantôt ; tu la verras. </s>
 </p>
-<stage>À  part.</stage>
+<stage type="toward">À  part.</stage>
 <p id='88'>
 	<s id='1'>Peut-être me le débauchera-t-elle mieux que je n'ai su faire.</s>
 </p>
@@ -2029,7 +2029,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Lélio, Arlequin.</head>
-<stage>Lélio arrive rêveur, sans voir Arlequin qui se retire à quartier. Lélio s'arrête sur le bord du théâtre en rêvant. </stage>
+<stage type="[N/A]">Lélio arrive rêveur, sans voir Arlequin qui se retire à quartier. Lélio s'arrête sur le bord du théâtre en rêvant. </stage>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN, à part.</speaker>
 <p id='1'>
 	<s id='1'>Il ne me voit pas. </s>
@@ -2088,7 +2088,7 @@
 	<s id='5'>Cependant si j'avais un peu sa permission... </s>
 	<s id='6'>Voyons, je vais lui parler. </s>
 </p>
-<stage>Il retourne dans le fond du théâtre et de là il accourt comme s'il arrivait, et dit :</stage>
+<stage type="[N/A]">Il retourne dans le fond du théâtre et de là il accourt comme s'il arrivait, et dit :</stage>
 <p id='10'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Mon cher maître !</s>
@@ -2186,7 +2186,7 @@
 <p id='4'>
 	<s id='1'>J'y cours, Madame. </s>
 </p>
-<stage>Il va et revient.</stage>
+<stage type="[N/A]">Il va et revient.</stage>
 <p id='5'>
 	<s id='1'>Si je ne le trouve pas, qu'est-ce que je lui dirai ?</s>
 </p>
@@ -2401,7 +2401,7 @@
 	<s id='4'>Je ne vous dirai point quelles seraient mes intentions là-dessus ; je m'en tiens à souhaiter que vous les deviniez. </s>
 	<s id='5'>J'ai quelques ordres à donner ; je vous laisse un moment avec Hortense, à peine vous connaissez-vous encore, elle est mon amie, et je suis bien aise que l'estime que j'ai pour vous ait son aveu.</s> 
 </p>
-<stage>Elle sort. </stage>
+<stage type="exit">Elle sort. </stage>
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII. Lélio, Hortense.</head>
@@ -2542,14 +2542,14 @@
 	<s id='3'>Quand je vous apprendrais qui je suis, cela ne servirait de rien ; vos refus n'en seraient que plus affligeants. </s>
 	<s id='4'>Adieu, Madame ; il n'y a plus de séjour ici pour moi ; je pars dans l'instant, et je ne vous oublierai jamais.</s>
 </p> 
-<stage>Il s'éloigne.</stage>
+<stage type="[N/A]">Il s'éloigne.</stage>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE, pendant qu'il s'en va.</speaker>
 <p id='18'>
 	<s id='1'>Oh ! </s>
 	<s id='2'>Je ne sais plus où j'en suis ; je n'avais pas prévu ce coup-là. </s>
 </p>
-<stage>Elle l'appelle.</stage>
+<stage type="[N/A]">Elle l'appelle.</stage>
 <p id='19'>
 	<s id='1'>Lélio ! </s>
 </p>
@@ -2602,7 +2602,7 @@
 	<s id='7'>Vous dites que vous m'aimez ; non, je n'en crois rien, si vous ne partez. </s>
 	<s id='8'>Partez donc, ou soyez mon ennemi mortel ; partez, ma tendresse vous l'ordonne ; ou restez ici l'homme du monde le plus haï de moi, et le plus haïssable que je connaisse. </s>
 </p>
-<stage>Elle s'en va comme en colère.</stage>
+<stage type="exit">Elle s'en va comme en colère.</stage>
 </sp>
 <sp who='LÉLIO'><speaker>LÉLIO, d'un air de dépit.</speaker>
 <p id='28'>
@@ -2898,7 +2898,7 @@
 	<s id='2'>Je ne vous ai point manqué de respect, supposé que je vous en doive ; mais les sentiments que je vous montre depuis que je vous parle méritaient de votre part plus d'attention que vous ne leur en avez donné. </s>
 	<s id='3'>Cependant je continuerai à vous respecter, puisque vous dites qu'il le faut, sans pourtant en examiner moins si le mariage dont il s'agit est vraiment convenable.</s>
 </p> 
-<stage>Il sort fièrement.</stage>
+<stage type="exit">Il sort fièrement.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='9'><head>SCÈNE IX. Frédéric, L'Ambassadeur.</head>
@@ -3102,7 +3102,7 @@
 	<s id='1'>Ah ! </s>
 	<s id='2'>Te voilà ? </s>
 </p>
-<stage>À  Frédéric.</stage>
+<stage type="toward">À  Frédéric.</stage>
 <p id='8'>
 	<s id='1'>Que faites-vous de son valet ici ?</s>
 </p>
@@ -3198,7 +3198,7 @@
 <p id='22'>
 	<s id='1'>Taisez-vous ; je n'ai que faire de vos réflexions. </s>
 </p>
-<stage>À  Arlequin.</stage>
+<stage type="toward">À  Arlequin.</stage>
 <p id='23'>
 	<s id='1'>Pour toi, je vais t'apprendre à trahir ton maître, à te mêler de choses que tu ne devais pas entendre et à me compromettre dans l'impertinente répétition que tu en fais ; une étroite prison me répondra de ton silence.</s>
 </p>
@@ -3345,7 +3345,7 @@
 	<s id='6'>Pauvre Arlequin ! </s>
 	<s id='7'>Adieu la joie ; je n'userai plus de souliers, on va m'enfermer dans un étui, à cause de ce Sarrasin-là.</s>
 </p>
-<stage>En montrant Frédéric.</stage>
+<stage type="[N/A]">En montrant Frédéric.</stage>
 </sp>
 <sp who='FRÉDÉRIC'><speaker>FRÉDÉRIC.</speaker>
 <p id='2'>
@@ -3443,13 +3443,13 @@
 	<s id='1'>Votre pitié !... </s>
 	<s id='2'>Adieu, Lélio ; peut-être à votre tour aurez-vous besoin de la mienne.</s>
 </p>
-<stage>Il s'en va.</stage>
+<stage type="exit">Il s'en va.</stage>
 </sp>
 <sp who='LÉLIO'><speaker>LÉLIO, à Arlequin.</speaker>
 <p id='14'>
 	<s id='1'>Va m'attendre.</s>
 </p>
-<stage>Arlequin sort en pleurant.</stage>
+<stage type="[N/A]">Arlequin sort en pleurant.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='14'><head>SCÈNE XIV. Lélio, Hortense.</head>
@@ -3681,7 +3681,7 @@
 <p id='8'>
 	<s id='1'>Va la chercher, et me l'apporte sur-le-champ...</s>
 </p>
-<stage>Arlequin s'en va... Elle continue.</stage>
+<stage type="[N/A]">Arlequin s'en va... Elle continue.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV.</head>
@@ -3836,7 +3836,7 @@
 <p id='3'>
 	<s id='1'>Va-t'en.</s>
 </p>
-<stage>Il s'en va.</stage>
+<stage type="exit">Il s'en va.</stage>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
 <p id='4'>
@@ -3999,7 +3999,7 @@
 <p id='21'>
 	<s id='1'>Qui remédiera à tout !... </s>
 </p>
-<stage>À  part.</stage>
+<stage type="toward">À  part.</stage>
 <p id='22'>
 	<s id='1'>Le scélérat ! </s>
 	<s id='2'>Je serais curieuse, seigneur Frédéric, de savoir par quelles voies vous rendriez Lélio suspect ; voyons, de grâce, jusqu'où l'industrie de votre iniquité pourrait tromper la Princesse sur un homme aussi ennemi du mal que vous l'êtes du bien ; car voilà son portrait et le vôtre.</s>

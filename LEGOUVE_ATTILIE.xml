@@ -366,7 +366,7 @@
 	<l id='242'>Justifie à mes yeux ma générosité. </l>
 	<l id='243'>Mais montrez qu'un grand coeur, toujours plein de noblesse, </l>
 	<l id='244'>Triomphe sans orgueil, s'il souffrit sans fAiblesse. </l>
-<stage>À Justin.</stage>
+<stage type="toward">À Justin.</stage>
 	<l id='245' part='i'>Va, cours porter mon ordre.</l>
 </sp>
 <sp who='PLACIDE'><speaker>PLACIDE.</speaker>
@@ -381,17 +381,17 @@
 </sp>
 <sp who='ADRIEN'><speaker>ADRIEN.</speaker>
 	<l id='251' part='i'>Pars. </l>
-<stage>À Placide.</stage>
+<stage type="toward">À Placide.</stage>
 	<l id='251' part='f'>Vous, cédez enfin. Si l'honneur semble extrême, </l>
 	<l id='252'>Je le dois à Placide, à l'Empire, à moi-même. </l>
-<stage>À Maxime.</stage>
+<stage type="toward">À Maxime.</stage>
 	<l id='253'>Je le laisse en tes mains. Fais rendre avec éclat </l>
 	<l id='254'>Tout ce qu'on doit, Maxime, au vengeur de l'État.</l>
 	<l id='255'>Prends soin en même-temps d'avertir Attilie. </l>
 	<l id='256'>Rome m'appelle ailleurs. Parle, presse , supplie, </l>
 	<l id='257'>Commande : fais qu'enfin, reconnaissant, heureux , </l>
 	<l id='258'>Je remplisse en ce jour mon devoir et mes voeux. </l>
-<stage>Adrien sort.</stage>
+<stage type="exit">Adrien sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Maxime, Placide.</head>
@@ -453,7 +453,7 @@
 <sp who='PLACIDE'><speaker>PLACIDE.</speaker>
 	<l id='297'>César prononcera : quelque soit son pouvoir, </l>
 	<l id='298'>Je saurai soutenir ma gloire et mon devoir. </l>
-<stage>Il sort.</stage>
+<stage type="exit">Il sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV.</head>
@@ -642,7 +642,7 @@
 </sp>
 <sp who='MAXIME'><speaker>MAXIME.</speaker>
 	<l id='437' part='i'>Madame....</l>
-<stage>À part.</stage>
+<stage type="aparte">À part.</stage>
 	<l id='437' part='f'>Ce transport m'étonne et m'interdit </l>
 	<l id='438' part='i'>Qu'en dois-je présumer ? </l>
 </sp>
@@ -678,7 +678,7 @@
 	<l id='455'>Moi, Madame ! Pour vous, feindre un mépris coupable </l>
 	<l id='456'>De ce honteux effort m'avez-vous cru capable ? </l>
 	<l id='457'>Ô Ciel ! Était-ce à moi d'abaisser vos attraits ? </l>
-<stage>À part.</stage>
+<stage type="aparte">À part.</stage>
 	<l id='458'>Qu'elle pénètre mal mes sentiments secrets ! </l>
 	<l id='459'>Je l'avourai pourtant : sans blesser votre gloire, </l>
 	<l id='460'>À vos yeux j'ai tenté d'enlever leur victoire : </l>
@@ -1172,7 +1172,7 @@
 	<l id='780'>La voix de ma douleur et l'aspect de mes larmes, </l>
 	<l id='781'>Peut-être fléchiront un coeur encore à moi, </l>
 	<l id='782'>Et le tyran sera plus généreux que toi. </l>
-<stage>Elle sort. </stage>
+<stage type="exit">Elle sort. </stage>
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV.</head>
@@ -1237,7 +1237,7 @@
 </sp>
 <sp who='JUSTIN'><speaker>JUSTIN.</speaker>
 	<l id='834' part='i'>Moderez ce transport... </l>
-<stage>À part.</stage>
+<stage type="aparte">À part.</stage>
 	<l id='834' part='f'>Ah ! Quel événement !... </l>
 	<l id='835'>Ils vous furent, Seigneur, enlevés par des Daces ! </l>
 	<l id='836'>Mais poursuivez. Quel lieu, témoin de ces disgrâces...</l>
@@ -1391,7 +1391,7 @@
 	<l id='924'>Au jaloux Adrien épargnons un grand crime. </l>
 	<l id='925'>Hélas ! Et plût au Ciel qu'il ne pût lui rester </l>
 	<l id='926'>Aucun autre motif de nous persécuter.</l>
-<stage>Ils s'éloignent.</stage>
+<stage type="[N/A]">Ils s'éloignent.</stage>
 </sp>
 <sp who='ATTILIE'><speaker>ATTILIE, reprend.</speaker>
 	<l id='927'>Un moment... et daignez, Seigneur, m'entendre encore. </l>
@@ -1601,7 +1601,7 @@
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Adrien, Placide, Maxime, Albin, Gardes.</head>
 <sp who='PLACIDE'><speaker>PLACIDE apercevant son fils qu'il cherchait. </speaker>
-<stage>À part.</stage>
+<stage type="aparte">À part.</stage>
 	<l id='1094' part='i'>Je puis donc voir mon fils.</l>
 </sp>
 <sp who='ADRIEN'><speaker>ADRIEN.</speaker>
@@ -1639,9 +1639,9 @@
 	<l id='1117'>Maître du choix, son coeur peut enfin s'attendrir. </l>
 	<l id='1118'>Pouvant le conserver, le verra-t-il périr ? </l>
 	<l id='1119'>J'écarterai toujours un rival téméraire.</l>
-<stage>À un Garde.</stage> 
+<stage type="toward">À un Garde.</stage> 
 	<l id='1120' part='i'>Qu'ils rentrent. </l>
-<stage>À un autre. </stage>
+<stage type="toward">À un autre. </stage>
 	<l id='1120' part='f'>Écoutez cet ordre est nécessaire. </l>
 	<l id='1121'>Si lorsqu'ils sortiront, je ne vous retiens pas, </l>
 	<l id='1122'>Suivez-les : qu'à Maxime on donne le trépas ; </l>
@@ -1858,7 +1858,7 @@
 </sp>
 <sp who='ADRIEN'><speaker>ADRIEN.</speaker>
 	<l id='1248' part='f'>Madame, allons, marchons au Capitole. </l>
-<stage>À Albin.</stage>
+<stage type="toward">À Albin.</stage>
 	<l id='1249'>Et toi, s'il en est temps, qu'on suspende le sort... </l>
 </sp>
 </div2>
@@ -1892,7 +1892,7 @@
 	<l id='1263'>Dans ton coupable sein puisse mon bras avide, </l>
 	<l id='1264'>Aller venger mon frère, et Sabine et Placide !... </l>
 	<l id='1265'>Placide !... Qu'ai-je dit, imprudente ! Ô Destin ! </l>
-<stage>À part.</stage>
+<stage type="aparte">À part.</stage>
 	<l id='1266'>Hé quoi, le traître encor tient ses jours dans sa main... </l>
 	<l id='1267'>Seigneur, vous me voyez interdite, confuse. </l>
 	<l id='1268'>Pardonnez des fureurs que mon malheur excuse. </l>
@@ -1943,7 +1943,7 @@
 </sp>
 <sp who='ATTILIE'><speaker>ATTILIE à part.</speaker>
 	<l id='1304'>M'ose-t-il croire ainsi le jouet d'une fable ? </l>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 	<l id='1305'>Sur tous les coeurs mon père a le plus juste droit. </l>
 	<l id='1306'>On sait ce qu'il a fait, qu'importe ce qu'il croit ?</l>
 </sp>
@@ -1982,7 +1982,7 @@
 </sp>
 <sp who='ATTILIE'><speaker>ATTILIE.</speaker>
 	<l id='1331' part='f'>Que mon père... </l>
-<stage>À part.</stage>
+<stage type="aparte">À part.</stage>
 	<l id='1332'>Au piège qu'il me tend ne puis-je me soustraire ? </l>
 	<l id='1333'>Que mon père soit libre et l'Univers surpris </l>
 	<l id='1334'>Verra de son salut sa fille être le prix.</l>
@@ -2094,7 +2094,7 @@
 	<l id='1412'>Témoin cher et sacré des exploits de mon père, </l>
 	<l id='1413'>Du pouvoir d'Adrien fastueux monument, </l>
 	<l id='1414'>Prêtez-moi pour sa mort un heureux instrument ; </l>
-<stage>Elle ar5rache un dard du Trophée et l'emporte.</stage>
+<stage type="[N/A]">Elle ar5rache un dard du Trophée et l'emporte.</stage>
 	<l id='1415' part='i'>Mon père vient ! Fuyons. </l>
 </sp>
 </div2>
@@ -2301,7 +2301,7 @@
 </sp>
 <sp who='ADRIEN'><speaker>ADRIEN.</speaker>
 	<l id='1543'>Vous, inhumaine, vous ! Oserai -je le croire ? </l>
-<stage>À part.</stage>
+<stage type="aparte">À part.</stage>
 	<l id='1544'>Aurait-elle eu jamais une audace si noire ? </l>
 	<l id='1545'>Ah ! De tous vos complots je dois me défier, </l>
 	<l id='1546'>Et vous vous accusez pour le justifier : </l>
@@ -2323,7 +2323,7 @@
 	<l id='1559'>Achève, achève enfin. Bourreau de ma famille, </l>
 	<l id='1560'>Il ne te manquait plus que le sang de la fille. </l>
 	<l id='1561' part='i'>Vois ta rage assouvie. </l>
-<stage>Elle se frappe.</stage>
+<stage type="die">Elle se frappe.</stage>
 </sp>
 <sp who='ADRIEN'><speaker>ADRIEN.</speaker>
 	<l id='1561' part='m'>Arrêtez. </l>
@@ -2332,7 +2332,7 @@
 	<l id='1561' part='f'>C'en est fait, </l>
 	<l id='1562'>Et te voilà chargé d'un troisième forfait. </l>
 	<l id='1563'>Je n'ai pu me venger, mais je suis affranchie. </l>
-<stage>Elle s'éloigne de quelques pas et s'arrête.</stage>
+<stage type="[N/A]">Elle s'éloigne de quelques pas et s'arrête.</stage>
 </sp>
 <sp who='ADRIEN'><speaker>Pendant ce temps, ADRIEN.</speaker>
 	<l id='1564'>Je la perds ! Dieux !... Sa main l'a justement punie...</l>
@@ -2416,7 +2416,7 @@
 </sp>
 <sp who='PAULINE'><speaker>PAULINE.</speaker>
 	<l id='1603' part='m'>Elle expire ! </l>
-<stage>On emmène Attilie, et Placide la suit.</stage> 
+<stage type="[N/A]">On emmène Attilie, et Placide la suit.</stage> 
 </sp>
 </div2>
 <div2 type="scene" n='10'><head>SCÈNE DERNIERE. Adrien, Justin.</head>

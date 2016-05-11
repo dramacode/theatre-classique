@@ -240,7 +240,7 @@
 	<s id='1'>Oui, nous sommes la première scène ; asseyez-vous là, vous autres ; et nous, débutons. </s>
 	<s id='2'>Tu es au fait, Lisette. </s>
 </p>
-<stage>Colette et Blaise s'asseyent comme spectateurs d'une scène dont ils ne sont pas.</stage>
+<stage type="action">Colette et Blaise s'asseyent comme spectateurs d'une scène dont ils ne sont pas.</stage>
 <p id='12'>
 	<s id='1'>Tu arrives sur le théâtre, et tu me trouves rêveur et distrait. </s>
 	<s id='2'>Recule-toi un peu, pour me laisser prendre ma contenance. </s>
@@ -443,12 +443,12 @@
 <p id='38'>
 	<s id='1'>Ton mérite, qui le veut, me fait rire. </s>
 </p>
-<stage>Feignant de pleurer.</stage>
+<stage type="[N/A]">Feignant de pleurer.</stage>
 <p id='39'>
    <s id='1'>Que je suis à plaindre d'avoir été sensible aux cajoleries de ce fourbe-là ! </s>
 	<s id='2'>Adieu : voici la petite impertinente qui entre ; mais laisse-moi faire. </s>
 </p>
-<stage>En s'interrompant.</stage>
+<stage type="[N/A]">En s'interrompant.</stage>
 <p id='40'>
     <s id='1'>Serait-il si mal de la battre un peu ? </s>
 </p>
@@ -729,7 +729,7 @@
 <p id='49'>
 	<s id='1'>Puisqu'on les trouve de trop, laissons-les, et revenons. </s>
 </p>
-<stage>Il recommence la scène.</stage>
+<stage type="action">Il recommence la scène.</stage>
  <p id='50'>
 	<s id='1'>Vous m'aimez donc, Colette, et cependant vous allez épouser Blaise ?</s>
 </p>
@@ -787,11 +787,11 @@
 </p>
 </sp>
 <sp who='MERLIN'><speaker>MERLIN.</speaker>
-<stage>À Blaise.</stage>
+<stage type="toward">À Blaise.</stage>
 <p id='61'>
 	<s id='1'>Paix donc ! </s>
 </p>
-<stage>À Colette.</stage>
+<stage type="toward">À Colette.</stage>
 <p id='62'>
 	<s id='1'>Vous n'avez qu'à dire à vos parents que vous ne l'aimez pas.</s>
 </p>
@@ -836,7 +836,7 @@
 	<s id='3'>Voilà pourquoi elle s'y trompe ; si tu avais étudié, cela ne t'étonnerait pas. </s>
 	<s id='4'>À toi, à présent, Blaise ; c'est toi qui entres ici, et qui viens nous interrompre ; retire-toi à quatre pas, pour feindre que tu arrives ; moi, qui t'aperçois venir, je dis à Colette : « Voici Blaise qui arrive, ma chère Colette ; remettons l'entretien à une autre fois. »</s>
 </p>
-<stage>À Colette.</stage>
+<stage type="toward">À Colette.</stage>
 <p id='70'>
 	<s id='1'>Et retirez-vous. </s>
 </p>
@@ -933,7 +933,7 @@
 <p id='10'>
 	<s id='1'>N'importe ; cette erreur-là n'est ici d'aucune conséquence. </s>
 </p>
-<stage>Reprenant la scène.</stage>
+<stage type="action">Reprenant la scène.</stage>
 <p id='11'>
 	<s id='1'>Qui est-ce qui t'a dit, Blaise, que j'aime Colette ?</s>
 </p>
@@ -1116,7 +1116,7 @@
 	<s id='1'>C'est qu'il s'agissait d'un petit dessein que... </s>
 	<s id='2'>nous avions, d'une petite idée qui nous était venue, et nous avons de la peine à faire un ensemble qui s'accorde. </s>
 </p>
-<stage>Et montrant Éraste.</stage>
+<stage type="[N/A]">Et montrant Éraste.</stage>
 <p id='5'>
 	<s id='1'>Monsieur vous dira ce que c'est.</s>
 </p>
@@ -1269,7 +1269,7 @@
 <p id='12'>
 	<s id='1'>Taisez-vous. </s>
 </p>
-<stage>À Madame Amelin.</stage>
+<stage type="toward">À Madame Amelin.</stage>
 <p id='13'>
 	<s id='1'>Adieu, Madame ; venez donc nous retrouver. </s>
 </p>
@@ -1289,7 +1289,7 @@
 <p id='16'>
 	<s id='1'>J'en serai donc réduit à l'impression, quel dommage ! </s>
 </p>
-<stage>Angélique et Merlin sortent avec Madame Argante. </stage>
+<stage type="exit">Angélique et Merlin sortent avec Madame Argante. </stage>
 </sp>
 </div2>
 <div2 type="scene" n='8'><head>SCÈNE VIII. Madame Amelin, Araminte.</head>
@@ -1796,7 +1796,7 @@
 <p id='8'>
 	<s id='1'>Et au par-dessus, on se raille de ma parsonne dans ce peste de jeu-là, noute maîtresse ; Colette y fait semblant d'avoir le coeur tendre pour Monsieur Merlin, Monsieur Merlin de li céder le sien ; et maugré la comédie, tout ça est vrai, noute maîtresse ; car ils font semblant de faire semblant, rien que pour nous en revendre, et ils ont tous deux la malice de s'aimer tout de bon en dépit de Lisette qui n'en tâtera que d'une dent, et en dépit de moi qui sis pourtant retenu pour gendre de mon biau-père. </s>
 </p>
-<stage>Les dames rient.</stage>
+<stage type="[N/A]">Les dames rient.</stage>
 </sp>
 <sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE.</speaker>
 <p id='9'>
@@ -1915,7 +1915,7 @@
 <p id='2'>
 	<s id='1'>Faites comme si c'était le vôtre. </s>
 </p>	
-<stage>À Madame Argante.</stage>
+<stage type="toward">À Madame Argante.</stage>
 <p id='3'>
 	<s id='1'>Ne voulez-vous pas bien honorer ce contrat-là de votre signature, Madame ?</s>
 </p>
@@ -1937,11 +1937,11 @@
 	<s id='3'>Ah ! </s>
 	<s id='4'>Je n'aurai pas cet honneur-là, et vous aurez, s'il vous plaît, la bonté d'aller vous-même le signer ailleurs. </s>
 </p>
-<stage>Au notaire.</stage>
+<stage type="toward">Au notaire.</stage>
 <p id='7'>
 	<s id='1'> Remportez, remportez cela, Monsieur. </s>
 </p>
-<stage>À Madame Amelin.</stage>
+<stage type="toward">À Madame Amelin.</stage>
 <p id='8'>
  <s id='1'>Vous n'y songez pas, Madame ; on n'a point ces procédés-là ; jamais on n'en vit de pareils.</s>
 </p>
@@ -1961,7 +1961,7 @@
 <p id='11'>
 	<s id='1'>Vous resterez, s'il vous plaît ; le contrat ne saurait se passer de vous. </s>
 </p>
-<stage>À Araminte.</stage>
+<stage type="toward">À Araminte.</stage>
 <p id='12'>
 	<s id='1'>Aidez-moi, Madame ; empêchons Madame Argante de sortir. </s>
 </p>

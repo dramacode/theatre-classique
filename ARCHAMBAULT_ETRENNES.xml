@@ -100,7 +100,7 @@
 <body>
 <div1 type="act" n='1'><head></head>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE.</head>
-<stage>Le Théâtre représente un salon. Une porte au milieu et d'autres sur les côtés. L'action se passe le matin.</stage>
+<stage type="decor">Le théâtre représente un salon. Une porte au milieu et d'autres sur les côtés. L'action se passe le matin.</stage>
 <sp who='SOPHIE'><speaker>SOPHIE, seule, sortant de sa chambre.</speaker>
 	<l id="1">Rends grâces au destin, bénis le Ciel, Sophie ;</l>
 	<l id="2">Ton sort est bien digne d'envie !</l>
@@ -124,7 +124,7 @@
 	<l id="20">Pour moi, de ce beau jour a précédé l'aurore,</l>
 	<l id="21">Avec ravissement mon oeil le voit éclore ;</l>
 	<l id="22">Et tout à mon réveil m'annonce le bonheur.</l>
-<stage>Elle va pour entrer dans l'appartement de Madame de Saint-Franc, mais celle-ci en sort elle-même avec d'Inville.</stage>
+<stage type="[N/A]">Elle va pour entrer dans l'appartement de Madame de Saint-Franc, mais celle-ci en sort elle-même avec d'Inville.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Madame de Saint-Franc, d'Inville, Sophie.</head>
@@ -169,7 +169,7 @@
 	<l id="44">Permettez-vous que ce présent</l>
 	<l id="45">De mon amour soit le premier hommage ?</l>
 	<l id="46" part='i'>Acceptez-le.</l>
-<stage>Il lui offre un petit écrin, Sophie hésite à le recevoir.</stage>
+<stage type="[N/A]">Il lui offre un petit écrin, Sophie hésite à le recevoir.</stage>
 </sp>
 <sp who="MADAME DE SAINT-FRANC"><speaker>MADAME DE SAINT-FRANC.</speaker>
 	<l id="46" part='f'>Prends, mon enfant ;</l>
@@ -212,7 +212,7 @@
 	<l id="68">Notre civilité, lui semble une sottise,</l>
 	<l id="69">Et parmi nous il veut vivre à sa guise.</l>
 	<l id="70">Mais, laissez-moi. Je vais, si je puis, le gagner.</l>
-<stage>Les Jeunes Gens sortent. Madame de Saint-Franc ouvre la porte du fond, Saint-Franc sort vêtu d'une capote à la Hollandaise et en négligé.</stage>
+<stage type="exit/costume">Les Jeunes Gens sortent. Madame de Saint-Franc ouvre la porte du fond, Saint-Franc sort vêtu d'une capote à la Hollandaise et en négligé.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Monsieur et Madame de Saint-Franc.</head>
@@ -492,7 +492,7 @@
 	<l id="279">Eh ! Ventrebleu, voilà, Monsieur,</l>
 	<l id="280">Voilà la plus superbe phrase</l>
 	<l id="281">Qu'un père puisse entendre ! Embrasse moi, mon fils.</l>
-<stage>Au Précepteur.</stage>
+<stage type="toward">Au Précepteur.</stage>
 	<l id="282">Eh ! croyez-moi, Monsieur, tous vos discours bouffis</l>
 	<l id="283">D'une ennuyeuse et sotte emphase,</l>
 	<l id="284">Vos papillons, vos éléphants,</l>
@@ -534,16 +534,16 @@
 	<l id="307">Oui, voilà l'heure où nous devons sortir ;</l>
 	<l id="308">Cessons ce discours qui le pique.</l>
 	<l id="309">Pour moi, je tiens toujours aux fleurs de Rhétorique.</l>
-<stage>À Monsieur de Saint-Franc.</stage>
+<stage type="toward">À Monsieur de Saint-Franc.</stage>
 	<l id="310">Mon ami, je vous laisse, et j'emmène mon fils.</l>
 	<l id="311">Venez, Monsieur Prud'homme.</l>
 </sp>
 <sp who="PRUD'HOMME"><speaker>PRUD'HOMME.</speaker>
 	<l id="312">A vos ordres je suis,</l>
 	<l id="313">Madame ; disposez de mon humble personne.</l>
-<stage>À Monsieur de Saint Franc.</stage>
+<stage type="toward">À Monsieur de Saint Franc.</stage>
 	<l id="314">Monsieur, je suis de même à vos commandements.</l>
-<stage>Il s'en va avec Madame de Saint-Franc.</stage>
+<stage type="exit">Il s'en va avec Madame de Saint-Franc.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V.</head>
@@ -632,7 +632,7 @@
 	<l id="378">Ou la chaîne de l'esclavage.</l>
 	<l id="379">Dois-je signer, ou prévenir</l>
 	<l id="380">Des regrets superflus ?</l>
-<stage>Il fait mine de déchirer le contrat.</stage>
+<stage type="[N/A]">Il fait mine de déchirer le contrat.</stage>
 </sp>
 <sp who="D'INVILLE"><speaker>D'INVILLE, l'arrêtant avec chaleur.</speaker>
 	<l id="381">Ah ! Mon père, Sophie</l>
@@ -648,7 +648,7 @@
 	<l id="389">C'en est assez. Mon fils, vous rendre heureux,</l>
 	<l id="390">Sophie et vous, c'est l'objet de mes voeux.</l>
 	<l id="391">Donnez, Monsieur.</l>
-<stage>Il prend la plume des mains du notaire pour signer. Entre un Valet.</stage>
+<stage type="[N/A]">Il prend la plume des mains du notaire pour signer. Entre un Valet.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='8'><head>SCÈNE VIII. Les  précédents, Un Valet, avec une Lettre.</head>
@@ -661,9 +661,9 @@
 </sp>
 <sp who='MONSIEUR DE SAINT-FRANC'><speaker>MONSIEUR DE SAINT-FRANC, prenant la Lettre.</speaker>
 	<l id="394" part='i'>Quel caractère !</l>
-<stage>Il lit bas, et dit après :</stage>
+<stage type="read">Il lit bas, et dit après :</stage>
 	<l id="394" part='f'>Oh Ciel ! Quel coup du sort !</l>
-<stage>Au Notaire.</stage>
+<stage type="toward">Au Notaire.</stage>
 	<l id="395" part='i'>Remportez ce contrat.</l>
 </sp>
 <sp who="D'INVILLE"><speaker>D'INVILLE.</speaker>
@@ -674,7 +674,7 @@
 </sp>
 <sp who="D'INVILLE"><speaker>D'INVILLE, au Notaire qui s'en va.</speaker>
 	<l id="396" part='f'>Arrêtez, je vous prie.</l>
-<stage>À son père.</stage>
+<stage type="toward">À son père.</stage>
 	<l id="397">Renoncer à Sophie ! Hélas ! plutôt la mort.</l>
 </sp>
 <sp who="MONSIEUR DE SAINT-FRANC"><speaker>MONSIEUR DE SAINT-FRANC.</speaker>
@@ -688,15 +688,15 @@
 </sp>
 <sp who="MONSIEUR DE SAINT-FRANC"><speaker>MONSIEUR DE SAINT-FRANC.</speaker>
 	<l id="402">Mon fils, suspendez vos douleurs ;</l>
-<stage>Au Notaire.</stage>
+<stage type="toward">Au Notaire.</stage>
 	<l id="403" part='i'>Vous saurez tout. Venez, Monsieur. </l>
-<stage>Au Valet.</stage>
+<stage type="toward">Au Valet.</stage>
 	<l id="403" part='f'>Je vais répondre</l>	
 	<l id="404" part='i'>À votre Lettre. Attendez, mon ami.</l>
 </sp>
 <sp who="LE VALET"><speaker>LE VALET.</speaker>
 	<l id="404" part='f'>À votre aise, Monsieur.</l>
-<stage>Monsieur de Saint-Franc sort avec le Notaire.</stage>
+<stage type="[N/A]">Monsieur de Saint-Franc sort avec le Notaire.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='9'><head>SCÈNE IX. D'Inville, Le Valet.</head>
@@ -792,13 +792,13 @@
 </sp>
 <sp who="LE VALET"><speaker>LE VALET.</speaker>
 	<l id="428" part='m'>Non.</l>
-<stage>D'Inville lui fait peur.</stage>
+<stage type="[N/A]">D'Inville lui fait peur.</stage>
 	<l id="428" part='m'>Oui, Monsieur.</l>
 </sp>
 <sp who="D'INVILLE"><speaker>D'INVILLE.</speaker>
 	<l id="428" part='f'>Ah ! traître,</l>
 	<l id="429" part='i'>Tu mourras.</l>
-<stage>Il tire son épée.</stage>
+<stage type="[N/A]">Il tire son épée.</stage>
 </sp>
 <sp who="LE VALET"><speaker>LE VALET.</speaker>
 	<l id="429" part='f'>Ah ! Monsieur, épargnez un chrétien,</l>
@@ -859,7 +859,7 @@
 <sp who="MONSIEUR DE SAINT-FRANC"><speaker>MONSIEUR DE SAINT-FRANC.</speaker>
 	<l id="454">Voyez, cherchez-le bien, tâchez de lui remettre,</l>
 	<l id="455" part='i'>Et dites-lui que je l'attends.</l>
-<stage>Le Valet sort.</stage>
+<stage type="exit">Le Valet sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='11'><head>SCÈNE XI. Monsieur de Saint-Franc, D'Inville, Madame de Saint-Franc, Sophie parée pour sortir.</head> 
@@ -909,7 +909,7 @@
 	<l id="470" part='f'>Bénissez ce jour, Sophie,</l>
 	<l id="471">C'est le plus beau de votre vie.</l>
 	<l id="472" part='i'>Lisez.</l>
-<stage>Il lui donne la lettre.</stage>
+<stage type="[N/A]">Il lui donne la lettre.</stage>
 </sp>
 <sp who='SOPHIE'><speaker>SOPHIE, lit, et change de ton à mesure : avec curiosité d'abord, ensuite avec intérêt.</speaker>
 <p id="1">
@@ -919,19 +919,19 @@
 	<s id='4'>J'ai gagné des biens considérables, et je t'apprendrai des choses bien intéressantes. </s>
 	<s id='5'>Puisses-tu de même porter la consolation dans le coeur d'un père !</s>
 </p>
-<stage>Ici commence le grand intérêt de Sophie.</stage>
+<stage type="[N/A]">Ici commence le grand intérêt de Sophie.</stage>
 <p id="2">
 	<s id="1">« On m'a dit que toi seul pourrais me donner des nouvelles d'une fille que je regrette depuis quinze ans.... </s>
 	<s id='2'>Ah ! </s>
 	<s id='3'>Mon ami, si le Ciel me l'a conservée, je viens lui proposer un époux digne d'elle, </s>
 </p>
-<stage>Ici sa voix s'affaiblit, en regardant d'Inville qui fait un mouvement de douleur.</stage>
+<stage type="[N/A]">Ici sa voix s'affaiblit, en regardant d'Inville qui fait un mouvement de douleur.</stage>
 <p id="3">
 	<s id="1">« Et j'aurai le plaisir de leur partager ma fortune. </s>
 	<s id='2'>Mais, hélas ! </s>
 	<s id='3'>Je ne dois plus peut-être espérer ce bonheur ; et le destin cruel qui m'a ravi mon épouse, m'aura, sans doute, encore enlevé ma fille.»</s>
 </p>
-<stage>Ici les sanglots de Sophie lui doivent couper la voix.</stage>
+<stage type="[N/A]">Ici les sanglots de Sophie lui doivent couper la voix.</stage>
 </sp>
 <sp who='MONSIEUR DE SAINT-FRANC'><speaker>MONSIEUR DE SAINT-FRANC, la prenant avec chaleur dans ses bras.</speaker> 
 	<l id="472" part='f'>Non, mon ami, j'ai veillé sur son sort.</l>
@@ -993,28 +993,28 @@
 	<l id="509">N'est il pas vrai ? Bien amoureux !</l>
 	<l id="510">C'est un beau jour pour vous Sophie !</l>
 	<l id="511">Et pour toi, mon neveu ! Qu'on m'embrasse bien tous.</l>
-<stage>À Monsieur de Saint-Franc.</stage>
+<stage type="toward">À Monsieur de Saint-Franc.</stage>
 	<l id="512">Venez, mon cher beau frère, et commençons par vous.</l>
-<stage>Elle va pour l'embrasser.</stage>
+<stage type="[N/A]">Elle va pour l'embrasser.</stage>
 </sp>
 <sp who='MONSIEUR DE SAINT-FRANC'><speaker>MONSIEUR DE SAINT-FRANC, se reculant d'elle.</speaker>
 	<l id="513">Maugrebleu de la folle !</l>
-<stage>Il s'en va.</stage>
+<stage type="exit">Il s'en va.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='13'><head>SCÈNE XIII. Madame Dormont, Madame de Saint-Franc, Sophie, D'Invillle.</head> 
 <sp who='MADAME DORMONT'><speaker>MADAME DORMONT, à d'Inville.</speaker>
 	<l id="513" part='f'>Hein ! qu'a-t-il donc, ton père ?</l>
 	<l id="514">Dis-moi, d'Inville ? Allons, viens, mon ami.</l>
-<stage>Elle va aussi pour l'embrasser.</stage>
+<stage type="[N/A]">Elle va aussi pour l'embrasser.</stage>
 </sp>
 <sp who="D'INVILLE"><speaker>D'INVILLE, sans la voir, ni l'entendre.</speaker>
-<stage>À Sophie.</stage>
+<stage type="toward">À Sophie.</stage>
 	<l id="515" part='i'>Je vais le suivre.</l>
-<stage>À Madame de Saint-Franc.</stage>
+<stage type="toward">À Madame de Saint-Franc.</stage>
 	<l id="515" part='f'>Et vous, ma mère,</l>
 	<l id="516">À nos désirs, rendez-le moins sévère.</l>
-<stage>Il s'en va.</stage>
+<stage type="exit">Il s'en va.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='14'><head>SCÈNE XIV. Madame Dormont, Madame de Saint-Franc, Sophie.</head> 
@@ -1022,23 +1022,23 @@
 	<l id="517">Comment ! Petit coquin !... Il me refuse aussi !</l>
 	<l id="518">Mais, c'est l'amour qui lui trouble la tête.</l>
 	<l id="519">Je lui par donne. À vous, ma soeur.</l>
-<stage>Elle va, les bras ouverts, pour embrasser Madame de Saint-Franc.</stage>
+<stage type="[N/A]">Elle va, les bras ouverts, pour embrasser Madame de Saint-Franc.</stage>
 </sp>
 <sp who='MADAME DE SAINT-FRANC'><speaker>MADAME DE SAINT-FRANC, sans la regarder.</speaker>
 	<l id="520">Bonjour, ma soeur... Sophie, apaise ta douleur,</l>
 	<l id="521">Et je te réponds, moi, de le rendre traitable.</l>
-<stage>Elle s'en va.</stage>
+<stage type="exit">Elle s'en va.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='15'><head>SCÈNE XV. Sophie, Madame Dormont.</head>
 <sp who="MADAME DORMONT"><speaker>MADAME DORMONT.</speaker>
 	<l id="522">Mais, dis-moi donc, toi, mon enfant....</l>
-<stage>Elle va aussi, les bras ouverts, pour embrasser Sophie, qui la laisse de même pour suivre Madame de Saint-Franc.</stage>
+<stage type="[N/A]">Elle va aussi, les bras ouverts, pour embrasser Sophie, qui la laisse de même pour suivre Madame de Saint-Franc.</stage>
 </sp>
 <sp who="SOPHIE"><speaker>SOPHIE.</speaker>
 	<l id="523">Hélas ! Madame, en ce moment</l>
 	<l id="524">Je ne puis m'arrêter. Excusez, je vous prie.</l>
-<stage>Elle sort.</stage>
+<stage type="exit">Elle sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='16'><head>SCÈNE XVI.</head>
@@ -1145,7 +1145,7 @@
 	<l id="579">Il la payera, Monsieur, j'en donne ma parole ;</l>
 	<l id="580">Et de plus de vingt ans, à compter d'aujourd'hui,</l>
 	<l id="581">Je ne mettrai les pieds chez lui.</l>
-<stage>Elle s'en va.</stage>
+<stage type="exit">Elle s'en va.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='18'><head>SCÈNE XVIII.</head>
@@ -1225,7 +1225,7 @@
 <sp who="MONSIEUR D'HERBAIN"><speaker>MONSIEUR D'HERBAIN.</speaker>
 	<l id="621" part='f'>Ah ! Digne et tendre ami !</l>
 	<l id="622">Bénissons le moment qui nous rejoint ici.  </l>
-<stage>À Madame de Saint-Franc.</stage>
+<stage type="toward">À Madame de Saint-Franc.</stage>
 	<l id="623">Madame, à nos désirs en ce jour tout prospère.</l>
 </sp>
 <sp who="MADAME DE SAINT-FRANC"><speaker>MADAME DE SAINT-FRANC.</speaker>
@@ -1247,7 +1247,7 @@
 	<l id="631">Je les ai fait valoir depuis avec bonheur,</l>
 	<l id="632">Sans éprouver disgrâce aucune.</l>
 	<l id="633">Bref, aujourd'hui ton bien monte à cent mille écus.</l>
-<stage>Il lui donne un porte-feuille.</stage>
+<stage type="[N/A]">Il lui donne un porte-feuille.</stage>
 	<l id="634">Les voici. Reçois-les, sans discours superflus.</l>
 	<l id="635">De l'Amitié ce sont là les Étrennes.</l>
 </sp>
@@ -1263,7 +1263,7 @@
 	<l id="644">Formée à la vertu, son âme est mon présent ;</l>
 	<l id="645">Elle est digne de toi, ton ami te la rend :</l>
 	<l id="646">C'est l'Étrenne de la Nature.</l>
-<stage>Il lui remet Sophie entre les bras.</stage>
+<stage type="[N/A]">Il lui remet Sophie entre les bras.</stage>
 </sp>
 <sp who='SOPHIE'><speaker>SOPHIE, embrassant son père.</speaker>
 	<l id="647" part='i'>Ah ! mon père !</l>
@@ -1278,7 +1278,7 @@
 	<l id="650">Je ne crois rien changer à tes arrangements.</l>
 	<l id="651">Reçois-nous tous les deux, Saint Franc, dans ta famille,</l>
 	<l id="652">Et que tes bons amis deviennent tes parents !</l>
-<stage>À d'Inville.</stage>
+<stage type="toward">À d'Inville.</stage>
 	<l id="653">Vous, Monsieur, de son père acceptez ma Sophie ;</l>
 	<l id="654">Et pour couronner ce beau jour,</l>
 	<l id="655">Que le coeur et la main d'une amante ? Chérie,</l>
@@ -1297,7 +1297,7 @@
 	<l id="658" part='f'>Que voulez-vous, ma soeur ?</l>
 </sp>
 <sp who="MADAME DORMONT"><speaker>MADAME DORMONT.</speaker>
-<stage>Apercevant d'Herbain.</stage>
+<stage type="[N/A]">Apercevant d'Herbain.</stage>
 	<l id="659">C'est un homme qui veut.... Ah ! vous voilà, Monsieur !</l>
 </sp>
 <sp who="MONSIEUR D'HERBAIN"><speaker>MONSIEUR D'HERBAIN.</speaker>
@@ -1335,7 +1335,7 @@
 <sp who='MADAME DORMONT'><speaker>MADAME DORMONT, à Monsieur d'Herbain.</speaker>
 	<l id="674">Oh ! Pour le coup, Monsieur, embrassons-nous.</l>
 	<l id="675" part='i'>Vous me gagnez le coeur.</l>
-<stage>Elle l'embrasse.</stage>
+<stage type="[N/A]">Elle l'embrasse.</stage>
 </sp>
 <sp who="MONSIEUR D'HERBAIN"><speaker>MONSIEUR D'HERBAIN, l'embrassant.</speaker>
 	<l id="675" part='f'>Madame, il m'est bien doux</l>
@@ -1347,12 +1347,12 @@
 <sp who="MONSIEUR DE SAINT-FRANC"><speaker>MONSIEUR DE SAINT-FRANC.</speaker>
 	<l id="678">Votre transport est légitime,</l>
 	<l id="679" part='i'>Et mon coeur le partage.</l>
-<stage>Il l'embrasse.</stage>
+<stage type="[N/A]">Il l'embrasse.</stage>
 </sp>
 <sp who='MADAME DORMONT'><speaker>MADAME DORMONT, aux autres alternativement.</speaker>
 	<l id="679" part='f'>Allons, ma chère soeur,</l>
 	<l id="680">Et vous, mes chers enfants... Quel plaisir ! quel bonheur !</l>
-<stage>Elle a embrassé tout le monde.</stage>
+<stage type="[N/A]">Elle a embrassé tout le monde.</stage>
 	<l id="681">Ah ! je me reconnais.. Voilà de la tendresse !</l>
 	<l id="682">Voilà du bon vieux temps la véritable ivresse.</l>
 	<l id="683">C'est ainsi qu'autrefois les amis, les parents,</l>

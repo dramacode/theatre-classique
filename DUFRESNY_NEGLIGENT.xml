@@ -95,7 +95,7 @@
 <p id='5'>
 	<s id='1'>Monsieur, c'est un bel esprit qui demande à vous parler.</s>
 </p>
-<stage>Riant. </stage>
+<stage type="[N/A]">Riant. </stage>
 <p id='6'>
 	<s id='1'>Ha, ah, ah. </s>
 </p>
@@ -109,7 +109,7 @@
 <p id='8'>
 	<s id='1'>Il dit qu'il est l'auteur d'une comédie qu'on vous a donnée à lire.</s>
 </p>
-<stage>Riant. </stage>
+<stage type="[N/A]">Riant. </stage>
 <p id='9'>
 	<s id='1'>Ha, ah, ah. </s>
 </p>
@@ -123,7 +123,7 @@
 <p id='11'>
 	<s id='1'>Monsieur, il parle en chantant ; il a d'abord commencé par me dire : </s>
 </p>
-<stage>Elle chante.</stage>
+<stage type="sing">Elle chante.</stage>
 <p id='12'>
 	<s id='1'>Monsieur Oronte est-il céans ? </s>
 </p>
@@ -147,11 +147,11 @@
 </p>
 </sp>
 <sp who='FANCHON'><speaker>FANCHON.</speaker>
-<stage>Elle chante.</stage>
+<stage type="sing">Elle chante.</stage>
 <p id='16'>
 	<s id='1'>Monsieur Oronte est-il céans ?</s>
 </p>
-<stage>Riant. </stage>
+<stage type="[N/A]">Riant. </stage>
 <note type="L">Capriole : Forme ancienne de cabriole. Terme de danse. Nom générique de tous les sauts, et surtout de ceux où les jambes battent l'une contre l'autre. Les entrechats sont des cabrioles. [L]</note>
 <p id='17'>
 	<s id='1'>Ha, ha, ha. </s>
@@ -235,7 +235,7 @@
 </p>
 </sp>
 <sp who='LE-POÈTE'><speaker>LE POÈTE. </speaker>
-<stage>Il chante ces deux vers. </stage>
+<stage type="sing">Il chante ces deux vers. </stage>
 	<l id='9'>Je jure, je promets, </l>
 	<l id='10'>De ne chanter jamais. </l>
 <p id='6'>
@@ -921,7 +921,7 @@
 	<s id='2'>Que peut-il donc y avoir de nouveau ? </s>
 	<s id='3'>Je viens de passer chez lui.</s>
 </p>
-<stage>Il lit. </stage>
+<stage type="read">Il lit. </stage>
 <p id='3'>
 	<s id='1'>Il faut absolument que je vous parle aujourd'hui ; il se machine quelque chose contre vos intérêts ; votre rapporteur presse de produire, et le vent du bureau n'est pas bon pour vous. </s>
 </p>
@@ -947,7 +947,7 @@
 <p id='7'>
 	<s id='1'>Allez, Monsieur !</s>
 </p>
-<stage>À part. </stage>
+<stage type="aparte">À part. </stage>
 <p id='8'>
 	<s id='1'>Il me fait bien plaisir de me laisser seule, car Dorante m'a fait signe de venir ici.</s>
 </p>
@@ -1033,15 +1033,15 @@
 <p id='12'>
 	<s id='1'>C'est à quoi je vais songer. Cachez-vous un moment dans ce cabinet ;</s>
 </p>
-<stage>Au Poète. </stage>
+<stage type="toward">Au Poète. </stage>
 <p id='13'>
 	<s id='1'>Et vous, passez dans cette chambre, où j'aurai soin de vous mener Bélise : disposez-vous à faire chacun une belle déclaration d'amour,</s>
 </p>
-<stage>Au Poète. </stage>
+<stage type="toward">Au Poète. </stage>
 <p id='14'>
 	<s id='1'>Vous en vers, </s>
 </p>
-<stage>À Dorante. </stage>
+<stage type="toward">À Dorante. </stage>
 <p id='15'>
 	<s id='1'>Et vous en prose. Pour vous, quand vous verrez Angélique seule, vous n'aurez qu'à l'aborder, au moins elle n'est pas avertie de tout ceci, prenez vos mesures	là-dessus... </s>
 	<s id='2'>Mais j'entends la voix de Bélise, entrons. </s>
@@ -1359,7 +1359,7 @@
 <p id='25'>
 	<s id='1'>Taisez-vous, vous dis-je, encore une fois, et m'attendez-là ; je vais revenir : au moins, ne vous avisez pas d'entrer là-dedans sans moi...</s>
 </p>
-<stage>À Fanchon. </stage>
+<stage type="toward">À Fanchon. </stage>
 <p id='26'>
 	<s id='1'>Et vous suivez-moi. </s>
 </p>
@@ -1532,7 +1532,7 @@
 <p id='2'>
 	<s id='1'>Je n'en suis pas surpris, Madame.</s>
 </p>
-<stage>Il chante. </stage>
+<stage type="sing">Il chante. </stage>
 	<l id='54'>Un coeur qui n'aima jamais rien ; </l>
 	<l id='55'>Sait peu comme l'amour s'exprime.</l>
 </sp>
@@ -1550,19 +1550,19 @@
 <p id='4'>
 	<s id='1'>Oui, je vous quitte, et je vous défends de me suivre ; ou tout au moins, je vous commande de me donner le temps de me remettre.</s>
 </p>
-<stage>À Angélique. </stage>
+<stage type="toward">À Angélique. </stage>
 <p id='5'>
 	<s id='1'>Allons, suivez-moi, vous. </s>
 </p>
-<stage>Au Poète. </stage>
+<stage type="toward">Au Poète. </stage>
 <p id='5'>
 	<s id='1'>Vous, ne me suivez pas. </s>
 </p>
-<stage>À Angélique. </stage>
+<stage type="toward">À Angélique. </stage>
 <p id='6'>
 	<s id='1'>Suivez-moi donc. </s>
 </p>
-<stage>Au Poète. </stage>
+<stage type="toward">Au Poète. </stage>
 <p id='7'>
 	<s id='1'>Ne me suivez pas, ne me suivez pas, ne me suivez pas. </s>
 </p>
@@ -2170,7 +2170,7 @@
 <p id='5'>
 	<s id='1'>Je t'empêcherai bien de la vaincre. </s>
 </p>
-<stage>Haut. </stage>
+<stage type="forte">Haut. </stage>
 <p id='6'>
 	<s id='1'>Hé, Monsieur Oronte, je songe que mon Intendant pourrait prendre ce soin. Je vais lui ordonner d'y aller.</s>
 </p>
@@ -2192,13 +2192,13 @@
 </p>
 </sp>
 <sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
-<stage>Il rappelle Monsieur Oronte. </stage>
+<stage type="[N/A]">Il rappelle Monsieur Oronte. </stage>
 <note type="L">Mobile : On appelle en ce sens figurément, Le premier mobile d'une affaire, celui qui lui donne le branle et le mouvement. [T]</note>
 <note type="L">Robe : Sorte de vêtement long, diférent, suivant les persones qui le portent. Robe se prend pour la profession des gens de Judicature. [FC]</note>
 <p id='10'>
 	<s id='1'>Monsieur, Monsieur Oronte ; au moins je fais solliciter votre procès par des femmes de conséquence : les premiers mobiles de la robe s'en mêlent, mon cher, et...</s>
 </p>
-<stage>À l'oreille. </stage>
+<stage type="toward">À l'oreille. </stage>
 <p id='11'>
 	<s id='1'>Est-ce là servir ses amis ? </s>
 </p>
@@ -2212,7 +2212,7 @@
 <p id='13'>
 	<s id='1'>S'il arrivait par hasard...</s>
 </p>
-<stage>À l'oreille. </stage>
+<stage type="toward">À l'oreille. </stage>
 <p id='14'>
 	<s id='1'>Êtes-vous content de moi ? </s>
 	<s id='2'>Ho ! </s>
@@ -2357,7 +2357,7 @@
 <p id='4'>
 	<s id='1'>Hé, allez, allez, Monsieur, je suis comme il faut être pour la femme d'un valet de chambre.</s>
 </p>
-<stage>Elle s'en va. </stage>
+<stage type="exit">Elle s'en va. </stage>
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Le Marquis, Le Poète.</head>
@@ -2454,7 +2454,7 @@
 <p id='17'>
 	<s id='1'>Monsieur Licandre, vous autres... entre vous autres, lequel estimez-vous le plus de Virgile ou d'Homère ?</s>
 </p>
-<stage>Il chante.</stage>
+<stage type="sing">Il chante.</stage>
 	<l id='65'>Terou lerou. </l>
 </sp>
 <sp who='LE-POÈTE'><speaker>LE POÈTE.</speaker>
@@ -2465,7 +2465,7 @@
 <sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
 	<l id='66'>Homère : oui, le bon Homère </l>
 	<l id='67'>Aliquando bonus dormitas Homerus. </l>
-<stage>Il sourit et chante. </stage>
+<stage type="[N/A]">Il sourit et chante. </stage>
 	<l id='68'>Hom, hom tout tou toute. </l>
 </sp>
 <sp who='LE-POÈTE'><speaker>LE POÈTE.</speaker>
@@ -2482,7 +2482,7 @@
 	<s id='5'>Hé, hé, nous savons les Poètes Monsieur Licandre. </s>
 	<s id='6'>Hom, hom. </s>
 </p>
-<stage>Il chante. </stage>
+<stage type="sing">Il chante. </stage>
 <note type="C">Voir "Armide" de Philippe Quinault, acte V, scène 4, Armide, vers 753.</note>
 	<l id='69'>Vous partez Renaud, vous partez. </l>
 </sp>
@@ -2518,7 +2518,7 @@
 	<s id='1'>La bonne cervelle ! </s>
 	<s id='2'>Ce n'est pas là le moins ridicule personnage de la maison. </s>
 </p>
-<stage>Il s'en va. </stage>
+<stage type="exit">Il s'en va. </stage>
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Le Marquis, Le Sénéchal. </head>
@@ -2984,7 +2984,7 @@
 <p id='15'>
 	<s id='1'>Non : je n'irai nulle part que je n'aie fait ce troc assurément.</s>
 </p>
-<stage>Il rêve.</stage>
+<stage type="[N/A]">Il rêve.</stage>
 <p id='16'>
 	<s id='1'>N'ai-je rien...</s>
 </p>
@@ -3039,12 +3039,12 @@
 <p id='26'>
 	<s id='1'>Quel entêtement !</s>
 </p>
-<stage>À part. </stage>
+<stage type="aparte">À part. </stage>
 <p id='27'>
 	<s id='1'>Quelle négligence ! </s>
 	<s id='2'>Il faut en avertir Bélise si je n'y puis pas mettre ordre moi-même. </s>
 </p>
-<stage>Il s'en va. </stage>
+<stage type="exit">Il s'en va. </stage>
 </sp>
 </div2>
 <div2 type="scene" n='12'><head>SCÈNE XII. Oronte, Fanchon. </head>
@@ -3149,7 +3149,7 @@
 <p id='4'>
 	<s id='1'>La, la, la. </s>
 </p>
-<stage>Chanson.</stage>
+<stage type="[N/A]">Chanson.</stage>
 	<l id='73'>Ah quelle trahison ! Quelle trahison ! </l>
 	<l id='74'>L'amour a caché son tison, </l>
 	<l id='75'>Dans le fond de vos yeux, comme dans un nuage, </l>
@@ -3194,7 +3194,7 @@
 <p id='7'>
 	<s id='1'>Ma foi, Madame, ce n'est pas d'aujourd'hui que j'en suis dégoûtée, fi : la jeunesse c'est une infidèle qui nous abandonne, mais la vieillesse c'est une amie constante qui ne nous quitte qu'avec la vie.</s>
 </p>
-<stage>Bélise chante. </stage>
+<stage type="[N/A]">Bélise chante. </stage>
 	<l id='86'>Ce n'est qu'en Automne, </l>
 	<l id='87'>Qu'il les faut cueillir. </l>
 <p id='8'>
@@ -3666,11 +3666,11 @@
 <p id='44'>
 	<s id='1'>Oui parbleu j'en ai une : voyez ce qu'elle chante.</s>
 </p>
-<stage>À Fanchon. </stage>
+<stage type="toward">À Fanchon. </stage>
 <p id='45'>
 	<s id='1'>Hé bien, que dis-tu de moi, mon adorable. </s>
 </p>
-<stage>Dorante lit la lettre.</stage>
+<stage type="[N/A]">Dorante lit la lettre.</stage>
 </sp>
 <sp who='FANCHON'><speaker>FANCHON.</speaker>
 <p id='1'>
@@ -3882,7 +3882,7 @@
 	<s id='4'>Eh bien, quel est ce beau secret ? </s>
 	<s id='5'>Voyons ?</s>
 </p>
-<stage>Au lieu de sortir, elle se cache.</stage>
+<stage type="action/hide">Au lieu de sortir, elle se cache.</stage>
 </sp>
 <sp who='DORANTE'><speaker>DORANTE.</speaker>
 <p id='31'>
@@ -3984,7 +3984,7 @@
 <p id='49'>
 	<s id='1'>Avant qu'il soit peu, vous saurez que je vous connais à fond.</s>
 </p>
-<stage>Il s'en va.</stage>
+<stage type="exit">Il s'en va.</stage>
 </sp>
 <sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='50'>
@@ -4292,7 +4292,7 @@
 <p id='5'>
 	<s id='1'>Vous de moitié ! </s>
 </p>
-<stage>Dansant. </stage>
+<stage type="[N/A]">Dansant. </stage>
 <p id='6'>
 	<s id='1'>En vérité je suis vivement pénétré de votre douleur. </s>
 </p>
@@ -4321,7 +4321,7 @@
 <p id='11'>
 	<s id='1'>Hé mon pauvre Monsieur le Sénéchal, ne m'abandonnez pas. </s>
 </p>
-<stage>Le Sénéchal s'en va cabriolant. </stage>
+<stage type="[N/A]">Le Sénéchal s'en va cabriolant. </stage>
 </sp>
 </div2>
 <div2 type="scene" n='11'><head>SCÈNE XI. Oronte, Le Marquis. </head>
@@ -4366,7 +4366,7 @@
 <p id='8'>
 	<s id='1'>Il ne faut que de l'argent, c'est de la besogne taillée pour mon Intendant.</s>
 </p>
-<stage>À Oronte. </stage>
+<stage type="toward">À Oronte. </stage>
 <p id='9'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Que vous venez à propos. Je viens de perdre mille pistoles ;	je perds deux cent mille livres si vous ne me prêtez tout à l'heure mille pistoles.  </s>
@@ -4479,7 +4479,7 @@
 <p id='20'>
 	<s id='1'>Oh pour le coup vous avez raison, cela est indigne, et des gens comme moi n'ont jamais d'honneur à se mêler des affaires bourgeoises ; serviteur, Messieurs, serviteur.</s>
 </p>
-<stage>Il s'en va. </stage>
+<stage type="exit">Il s'en va. </stage>
 </sp>
 <sp who='LE-POÈTE'><speaker>LE POÈTE.</speaker>
 <p id='21'>
@@ -4515,7 +4515,7 @@
 </p>
 </sp>
 <sp who='DORANTE'><speaker>DORANTE.</speaker>
-<stage>Il embrasse Oronte.</stage>
+<stage type="[N/A]">Il embrasse Oronte.</stage>
 <p id='6'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Monsieur. </s>

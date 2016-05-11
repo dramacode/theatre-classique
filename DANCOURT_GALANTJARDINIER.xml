@@ -1187,7 +1187,7 @@
 <p id="31">
 	<s id='1'>Oui da, oui da, il y a quelque chose à dire à cela.</s>
 </p>
-<stage>Bas.</stage>
+<stage type="mezzo voce">Bas.</stage>
 <p id="32">
 	<s id='1'>Le dangereux coquin ! </s>
 </p>
@@ -1362,7 +1362,7 @@
 <p id="60">
 	<s id='1'>Oui, oui, je m’en vas vite, allez.</s>
 </p>
-<stage>Bas.</stage>
+<stage type="mezzo voce">Bas.</stage>
 <p id='61'>
 	<s id='1'>Mais j’irai plus loin que l’Épée-Royale, et je gagnerai l’argent de l’affiche.</s>
 </p>
@@ -2008,7 +2008,7 @@
 <p id="5">
 	<s id='1'>Ils aviont ôté les gigots et les longes de viau que j’avais mis à la broche ; ils aviont été chercher du bois et du charbon dans la cave, qui était ouverte, et ils faisiont des feux de reculée ; ils boutiont tout par écuelle, et ils disiont comme ça qu’il ne vous en coûtera rien, qu’on les laisse faire.</s>
 </p>
-<stage>Elle sort.</stage>
+<stage type="exit">Elle sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='13'><head>SCÈNE XIII. Monsieur Dubuisson, Monsieur Caton, </head>
@@ -2057,7 +2057,7 @@
 <p id="5">
 	<s id='1'>Parbleu voyons, ce mémoire nous éclaircira peut-être.</s>
 </p>
-<stage>Il lit.</stage>
+<stage type="read">Il lit.</stage>
 <p id="6">
 	<s id='1'>Mémoire du soupé porté chez monsieur Dubuisson par ordre de monsieur son gendre.</s>
 </p>
@@ -2206,7 +2206,7 @@
 <p id="4">
 	<s id='1'>Monsieur Ca... Caton se moque de moi, je pense, voyons un peu s’il continuera.</s>
 </p>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 <p id="5">
 	<s id='1'>Je suis ravi que vous épousiez Lu lucile. </s>
 	<s id="2">Vous serez cou cou cousin germain de ma mère.</s>
@@ -2217,7 +2217,7 @@
 	<s id='1'>Pa pa parbleu, il me contrefait. </s>
 	<s id="2">Voyons jusqu’où cela ira.</s>
 </p>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 <p id="7">
 	<s id='1'>Ce sera bien de l’ho l’honneur pour moi d’être allié à un homme comme vous, qui est un fou foudre d’éloquence.</s>
 </p>
@@ -2305,7 +2305,7 @@
 	<s id="3">C’est tout autre chose. </s>
 	<s id="4">Je vous demande par pardon, monsieur Bavardin.</s>
 </p>
-<stage>Ils s’embrassent.</stage>
+<stage type="[N/A]">Ils s’embrassent.</stage>
 </sp>
 <sp who="MONSIEUR BAVARDIN"><speaker>MONSIEUR BAVARDIN.</speaker>
 <p id="6">
@@ -2378,7 +2378,7 @@
 <p id="3">
 	<s id='1'>Je vais mettre ordre à cela.</s>
 </p>
-<stage>Il sort.</stage>
+<stage type="exit">Il sort.</stage>
 </sp>
 <sp who="MONSIEUR DUBUISSON"><speaker>MONSIEUR DUBUISSON.</speaker>
 <p id="4">
@@ -2461,7 +2461,7 @@
 <p id="8">
 	<s id='1'>Oui, oui, oui, oui.</s>
 </p>
-<stage>Marche de plusieurs jardiniers et paysannes, de scaramouches, arlequins et autres. Les jardiniers portent sur leurs têtes des corbeilles garnies de fleurs. Après la marche une paysanne chante.</stage>
+<stage type="[N/A]">Marche de plusieurs jardiniers et paysannes, de scaramouches, arlequins et autres. Les jardiniers portent sur leurs têtes des corbeilles garnies de fleurs. Après la marche une paysanne chante.</stage>
 </sp>
 <sp who='LA PAYSANNE'><speaker>LA PAYSANNE.</speaker>
 	<l id='1'>Sous cet agréable feuillage </l>
@@ -2487,7 +2487,7 @@
 	<l id='8'>Petits oiseaux de ce bocage, </l>
 	<l id='9'>Prenez soin de lui révéler </l>
 	<l id='10'>Les plaisirs d’un cœur qui s’engage.</l>
-<stage>Entrée de jardiniers qui portent leurs corbeilles à Lucile.</stage>
+<stage type="[N/A]">Entrée de jardiniers qui portent leurs corbeilles à Lucile.</stage>
 </sp>
 <sp who="MONSIEUR DUBUISSON"><speaker>MONSIEUR DUBUISSON.</speaker>
 <p id="11">
@@ -2504,7 +2504,7 @@
 	<s id='1'>Pour moi, ce que j’en estime le plus, ce n’est pas la musique. </s>
 	<s id="2">Voyez la propreté de ces corbeilles, la beauté de ces fleurs : encore faut-il bien que je me fasse un bouquet.</s>
 </p>
-<stage>En ouvrant une corbeille.</stage>
+<stage type="[N/A]">En ouvrant une corbeille.</stage>
 <p id="14">
 	<s id='1'>Ah, ciel ! </s>
 </p>
@@ -2588,7 +2588,7 @@
 	<s id='1'>Très volontiers. </s>
 	<s id="2">Je ne suis ici que pour cela.</s>
 </p>
-<stage>Elle chante en jouant des gobelets.</stage>
+<stage type="sing">Elle chante en jouant des gobelets.</stage>
 	<l id='23'>Prenez bien garde à mes manches, </l>
 	<l id='24'>À ma baguette, à ma main ; </l>
 	<l id='25'>Disant trois fois prelin pin pin,</l>
@@ -2598,7 +2598,7 @@
 	<l id='29'>Qui savez tout charmer, </l>
 	<l id='30'>Est un livre qu’on vous présente, </l>
 	<l id='31'>Le grand art de se faire aimer.</l>
-<stage>Elle présente à Lucile un livre, qu’elle fait trouver sous un de ses gobelets.</stage>
+<stage type="[N/A]">Elle présente à Lucile un livre, qu’elle fait trouver sous un de ses gobelets.</stage>
 </sp>
 <sp who="LUCILE"><speaker>LUCILE.</speaker>
 <p id="25">
@@ -2610,7 +2610,7 @@
 	<s id='1'>Donnez, donnez, j’aime la lecture. </s>
 	<s id="2">Voyons un peu.</s>
 </p>
-<stage>En l’ouvrant.</stage>
+<stage type="[N/A]">En l’ouvrant.</stage>
 <p id="27">
 	<s id='1'>Ah ! </s>
 	<s id="2">Madame, le beau livre ! </s>
@@ -2649,7 +2649,7 @@
 	<s id='1'>On me dédie aussi des livres à moi ! </s>
 	<s id="2">L’art d’adoucir la Marthon.</s>
 </p>
-<stage>Elle ouvre le livre.</stage>
+<stage type="[N/A]">Elle ouvre le livre.</stage>
 </sp>
 <sp who="LUCILE"><speaker>LUCILE.</speaker>
 <p id="32">
@@ -2675,7 +2675,7 @@
 	<l id='39'>Et si le tour est gaillard : </l>
 	<l id='40'>Q’il ne soit pas inutile, </l>
 	<l id='41'>Chacun y peut prendre part.</l>
-<stage>La table sur laquelle la bohémienne a joué des gobelets, se change en une table garnie de corbeilles de fruits et de soucoupes garnies de liqueurs.</stage>
+<stage type="[N/A]">La table sur laquelle la bohémienne a joué des gobelets, se change en une table garnie de corbeilles de fruits et de soucoupes garnies de liqueurs.</stage>
 </sp>
 <sp who="LUCILE"><speaker>LUCILE.</speaker>
 <p id="34">

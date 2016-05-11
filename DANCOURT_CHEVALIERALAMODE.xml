@@ -69,7 +69,7 @@
 <body>
 <div1 type="act" n='1'><head>ACTE I</head>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Madame Patin, Lisette.</head>
-<stage>Madame Patin entre avec beaucoup de précipitation et de désordre, suivie de Lisette.</stage>
+<stage type="[N/A]">Madame Patin entre avec beaucoup de précipitation et de désordre, suivie de Lisette.</stage>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 <p id='1'>
 	<s id='1'>Qu'est-ce donc, Madame ? </s>
@@ -1801,7 +1801,7 @@
 <p id='7'>
 	<s id='1'>Oui, Madame.</s>
 </p>
-<stage>Bas en s'en allant.</stage>
+<stage type="low/exit">Bas en s'en allant.</stage>
 <p id='8'>
 	<s id=''>S'il n'en vient point, j'en irai chercher moi-même.</s>
 </p>
@@ -1961,7 +1961,7 @@
 <p id='12'>
 	<s id='1'>Elle y prend un grand intérêt.</s>
 </p>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 <p id='13'>
 	<s id='1'>Madame, je ne sais...</s>
 </p>
@@ -1971,7 +1971,7 @@
 	<s id='1'>Ah, Madame ! </s>
 	<s id='2'>Regardez, je vous prie, les affaires de Madame la Baronne, comme les miennes propres, vous ne me sauriez faire plus de plaisir.</s>
 </p>
-<stage>À la Baronne.</stage>
+<stage type="toward">À la Baronne.</stage>
 <p id='15'>
 	<s id='1'>Vous voyez comme je m'intéresse pour vous, Madame.</s>
 </p>
@@ -2000,7 +2000,7 @@
 <p id='20'>
 	<s id='1'>Hé, Madame, de grâce.</s>
 </p>
-<stage>À Madame Patin.</stage>
+<stage type="toward">À Madame Patin.</stage>
 <p id='21'>
 	<s id='1'>Que tout ceci ne vous étonne point, Madame est une personne de qualité, (c'est ma cousine germaine) qui m'estime cent fois plus que je ne mérite, (je suis son héritier) elle a pour moi quelque bonté. </s>
 	<s id='2'>(Ne parlez pas de notre mariage.) </s>
@@ -2059,7 +2059,7 @@
 	<s id='2'>De grâce, Mesdames, n'entrez point dans des éclaircissements qui ne sont bons à rien. </s>
 	<s id='3'>Soyez amies pour l'amour de moi, je vous en conjure ; et que celle de vous deux qui m'estime le plus, embrasse l'autre la première.</s> 
 </p>
-<stage>La Baronne et Mme Patin courent s'embrasser avec empressement.</stage>
+<stage type="[N/A]">La Baronne et Mme Patin courent s'embrasser avec empressement.</stage>
 </sp>
 <sp who='LA-BARONNE'><speaker>LA BARONNE.</speaker>
 <p id='30'>
@@ -2113,7 +2113,7 @@
 <p id='38'>
 	<s id='1'>Vous voyez bien, Madame.</s>
 </p>
-<stage>Elle voit rire Lisette.</stage>
+<stage type="laugh">Elle voit rire Lisette.</stage>
 <p id='39'>
 	<s id='1'>Qu'avez-vous à rire, ma mie ? </s>
 	<s id='2'>Vous avez là une chambrière bien impertinente, Madame. </s>
@@ -2232,11 +2232,11 @@
 <p id='16'>
 	<s id='1'>Prenons cette occasion aux cheveux.</s>
 </p>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 <p id='17'>
 	<s id='1'>Eh, Madame, je vous conjure de mener Madame la Baronne chez Monsieur Migaud.</s>
 </p>
-<stage>Bas.</stage>
+<stage type="mezzo voce">Bas.</stage>
 <p id='18'>
 	<s id='1'>Si vous ne l'emmenez d'ici, nous ne nous en débarrasserons d'aujourd'hui.</s>
 </p>
@@ -2398,7 +2398,7 @@
 	<s id='1'>C'est ma petite brune des Tuileries. </s>
 	<s id='2'>Lisons.</s>
 </p>
-<stage>LETTRE.</stage>
+<stage type="[N/A]">LETTRE.</stage>
 <p id='19'>
 	<s id='1'>Vous avez témoigné tant d'envie de me connaître, que je me suis résolue à satisfaire votre curiosité. </s>
 	<s id='2'>Je vous attends dans les Tuileries, où j'ai mille choses à vous dire. </s>
@@ -2669,7 +2669,7 @@
 <p id='5'>
 	<s id='1'>J'aimerais bien mieux que celui-là se fût impatienté que l'autre.</s>
 </p>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 <p id='6'>
 	<s id='1'>Je viens de chez vous, Monsieur ; et cela est fort mal, de ne vous y être pas trouvé.</s>
 </p>
@@ -4342,7 +4342,7 @@
 <p id='10'>
 	<s id='1'>Écoutons ce qu'il veut dire, il ne m'en fera plus facilement accroire.</s>
 </p>
-<stage>Au Chevalier.</stage>
+<stage type="toward">Au Chevalier.</stage>
 <p id='11'>
 	<s id='1'>Hé bien, Monsieur, vous êtes bien content de voir ainsi courir vos ouvrages ?</s>
 </p>
@@ -4500,15 +4500,15 @@
 <p id='39'>
 	<s id=''>Avez-vous remarqué, Madame, l'agrément de ce petit passage ?</s>
 </p>
-<stage>Il chante :</stage>
+<stage type="sing">Il chante :</stage>
 <p id='40'>
 	<s id='1'>Sentez-vous bien toute la tendresse qu'il y a dans celui-ci ?</s>
 </p>
-<stage>Il chante.</stage>
+<stage type="sing">Il chante.</stage>
 <p id='41'>
 	<s id='1'>Ne m'avouerez-vous pas que celui-là est bien passionné ?</s>
 </p>
-<stage>Il chante encore.</stage>
+<stage type="sing">Il chante encore.</stage>
 <note type="L">Chromatique : Dans la conversation, le chromatique, du chromatique, signifie passage langoureux, mou, plaintif. [L]</note>
 <p id='42'>
 	<s id='1'>Vous ne dites rien. </s>
@@ -4767,7 +4767,7 @@
 <p id='21'>
 	<s id='1'>Il faudra bien que cela soit fait pourtant.</s>
 </p>
-<stage>Il lit.</stage>
+<stage type="read">Il lit.</stage>
 <p id='22'>
 	<s id='1'>Quand la Marquise sera visible.</s>
 </p>
@@ -5122,7 +5122,7 @@
 	<s id='1'>Je crois que je l'entends. </s>
 	<s id='2'>Voilà la clef de ma chambre, allez vous y enfermer au plus vite, et tâchez de ne vous point ennuyer.</s>
 </p>
-<stage>Bas.</stage>
+<stage type="mezzo voce">Bas.</stage>
 <p id='23'>
 	<s id='1'>Monsieur Serrefort verra peut-être ce soir plus d'incidents qu'il ne s'imagine.</s>
 </p>
@@ -5255,7 +5255,7 @@
 <p id='8'>
 	<s id='1'>Oh, vraiment, ma pauvre Madame, ce ne sont pas mes procès qui m'occupent à présent, et j'ai bien autre chose en tête.</s>
 </p>
-<stage>À Lisette.</stage>
+<stage type="toward">À Lisette.</stage>
 <p id='9'>
 	<s id='1'>Oh, çà, çà, détalez, s'il vous plaît, ma mie, et allez voir là-dehors si j'y suis.</s>
 </p>
@@ -5646,7 +5646,7 @@
 <p id='26'>
 	<s id='1'>Oui, Madame.</s>
 </p>
-<stage>Bas.</stage>
+<stage type="mezzo voce">Bas.</stage>
 <p id='27'>
 	<s id='1'>Je vais l'envoyer chez Monsieur Migaud, la fête ne serait pas bonne sans lui.</s>
 </p>

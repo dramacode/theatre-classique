@@ -64,7 +64,7 @@
 <body>
 <div1 type="act" n='1'><head>ACTE I</head>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. La Marquise, Lisette.</head>
-<stage>La Marquise, entre tristement sur la scène ; Lisette la suit sans qu'elle le sache.</stage>
+<stage type="entrance/action">La Marquise, entre tristement sur la scène ; Lisette la suit sans qu'elle le sache.</stage>
 <sp who='LA-MARQUISE'><speaker>LA MARQUISE, s'arrêtant et soupirant. </speaker>
 <p id='1'>
 	<s id='1'>Ah ! </s>
@@ -272,7 +272,7 @@
 	<s id='3'>Savez-vous bien que vous me faites peur ? </s>
 	<s id='4'>Cela serait sérieux, pour le coup, et nous allons voir cela : il ne sera pas dit que vous serez charmante impunément ; il faut que vous le voyiez, et que cela vous console, et qu'il vous plaise de vivre. </s>
 </p>
-<stage>On apporte la toilette. Elle prend un siège.</stage>
+<stage type="[N/A]">On apporte la toilette. Elle prend un siège.</stage>
 <p id='37'>
 	<s id='1'>Allons, Madame, mettez-vous là, que je vous ajuste : tenez, le savant que vous avez pris chez vous ne vous lira point de livre si consolant que ce que vous allez voir.</s>
 </p>
@@ -344,7 +344,7 @@
 	<s id='1'>Ah ! </s>
 	<s id='2'>Je respire, vous voilà sauvée : allons, courage, Madame. </s>
 </p>
-<stage>On rapporte le miroir.</stage>
+<stage type="[N/A]">On rapporte le miroir.</stage>
 </sp>
 <sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
 <p id='50'>
@@ -468,7 +468,7 @@
 <p id='16'>
 	<s id='1'>Dis à ton maître qu'il peut venir, et que je l'attends ; et vous, Lisette, quand Monsieur Hortensius sera revenu, qu'il vienne sur-le-champ me montrer les livres qu'il a dû m'acheter. </s>
 </p>
-<stage>Elle soupire en s'en allant.</stage>
+<stage type="expression/exit">Elle soupire en s'en allant.</stage>
 <p id='17'>
        <s id='1'>Ah ! </s>
 </p>
@@ -527,7 +527,7 @@
 	<s id='1'>Eh, eh, eh ! </s>
 	<s id='2'>Tu en ris, j'en ris quelquefois de même, mais rarement, car cela me dérange ; j'ai pourtant perdu aussi une maîtresse, moi ; mais comme je ne la verrai plus, je l'aime toujours sans en être plus triste. </s>
 </p>
-<stage>Il rit.</stage>
+<stage type="laugh">Il rit.</stage>
 <p id='11'>
        <s id='1'>Eh, eh, eh !</s>
 </p>
@@ -711,7 +711,7 @@
 <p id='19'>
 	<s id='1'>Voilà Madame, laissons-le chercher son papier. </s>
 </p>
-<stage>Elle sort.</stage>
+<stage type="exit">Elle sort.</stage>
 </sp>
 <sp who='HORTENSIUS'><speaker>HORTENSIUS, continue en feuilletant.</speaker>
 <p id='20'>
@@ -746,7 +746,7 @@
 <p id='5'>
 	<s id='1'>Montrez. </s>
 </p>
-<stage>Un laquais vient.</stage>
+<stage type="[N/A]">Un laquais vient.</stage>
 <p id='6'>
 	<s id='1'>Voici Monsieur le Chevalier, Madame.</s>
 </p>
@@ -755,7 +755,7 @@
 <p id='7'>
 	<s id='1'>Faites entrer. </s>
 </p>
-<stage>Et à Hortensius.</stage>
+<stage type="[N/A]">Et à Hortensius.</stage>
 <p id='8'>
 	<s id='1'>Portez-les chez moi, nous les verrons tantôt. </s>
 </p>
@@ -862,24 +862,24 @@
 <p id='18'>
 	<s id='1'>Tenez, sans compliment, depuis six mois je n'ai eu de moment supportable que celui-ci ; et la raison de cela, c'est qu'on aime à soupirer avec ceux qui vous entendent : lisons la lettre. </s>
 </p>
-<stage>Elle lit.</stage>
+<stage type="read">Elle lit.</stage>
 <p id='19'>
 	<s id='1'>"J'avais dessein de vous revoir encore, Angélique ; mais j'ai songé que je vous désobligerais, et je m'en abstiens : après tout, qu'aurais-je été chercher ? </s>
 	<s id='2'>Je ne saurais le dire ; tout ce que je sais, c'est que je vous ai perdue, que je voudrais vous parler pour redoubler la douleur de ma perte, pour m'en pénétrer jusqu'à mourir." </s>
 </p>
-<stage>Répétant les derniers mots, et s'interrompant.</stage>
+<stage type="[N/A]">Répétant les derniers mots, et s'interrompant.</stage>
 <p id='20'>
 	<s id='1'>Pour m'en pénétrer jusqu'à mourir ! </s>
 	<s id='2'>Mais cela est étonnant : ce que vous dites là, Chevalier, je l'ai pensé mot pour mot dans mon affliction ; peut-on se rencontrer jusque-là ! </s>
 	<s id='3'>En vérité, vous me donnez bien de l'estime pour vous ! </s>
 	<s id='4'>Achevons. </s>
 </p>
-<stage>Elle relit. </stage>
+<stage type="[N/A]">Elle relit. </stage>
 <p id='21'>
 	<s id='1'>"Mais c'est fait, et je ne vous écris que pour vous demander pardon de ce qui m'échappa contre vous à notre dernière entrevue ; vous me quittiez pour jamais, Angélique, j'étais au désespoir ; et dans ce moment-là, je vous aimais trop pour vous rendre justice ; mes reproches vous coûtèrent des larmes, je ne voulais pas les voir, je voulais que vous fussiez coupable, et que vous crussiez l'être ; et j'avoue que j'offenserais la vertu même. </s>
 	<s id='2'>Adieu, Angélique, ma tendresse ne finira qu'avec ma vie, et je renonce à tout engagement ; j'ai voulu que vous fussiez contente de mon coeur, afin que l'estime que vous aurez pour lui excuse la tendresse dont vous m'honorâtes." </s>
 </p>
-<stage>Après avoir lu, et rendant la lettre.</stage>
+<stage type="[N/A]">Après avoir lu, et rendant la lettre.</stage>
 <p id='22'>
 	<s id='1'>Allez, Chevalier, avec cette façon de sentir là, vous n'êtes point à plaindre ; quelle lettre ! </s>
 	<s id='2'>Autrefois le Marquis m'en écrivit une à peu près de même, je croyais qu'il n'y avait que lui au monde qui en fût capable ; vous étiez son ami, et je ne m'en étonne pas.</s>
@@ -1000,7 +1000,7 @@
 <p id='44'>
 	<s id='1'>Sérieusement, je m'y crois presque obligée, pour vous dédommager de celle du Marquis : allez, Chevalier, faites vite vos affaires ; je vais, de mon côté, donner quelque ordre aussi ; nous nous reverrons tantôt. </s>
 </p>
-<stage>Et à part.</stage>
+<stage type="[N/A]">Et à part.</stage>
 <p id='45'>
 	<s id='1'>En vérité, ce garçon-là a un fond de probité qui me charme. </s>
 </p>
@@ -1014,7 +1014,7 @@
 	<s id='3'>Quelle bonté de coeur ! </s>
 	<s id='4'>C'est un caractère à peu près comme celui d'Angélique, et ce sont des trésors que ces caractères-là ; oui, je la préfère à tous les amis du monde. </s>
 </p>
-<stage>Il appelle Lubin.</stage>
+<stage type="[N/A]">Il appelle Lubin.</stage>
 <p id='1'>
 	<s id='1'>Lubin ! </s>
 	<s id='2'>Il me semble que je le vois dans le jardin. </s>
@@ -1026,7 +1026,7 @@
 <p id='1'>
 	<s id='1'>Monsieur !... </s>
 </p>
-<stage>Et puis il arrive très triste.</stage>
+<stage type="[N/A]">Et puis il arrive très triste.</stage>
 <p id='2'>
 	<s id='1'>Que vous plaît-il, Monsieur ?</s>
 </p>
@@ -1734,7 +1734,7 @@
 	<s id='2'>Pauvre Lubin ! </s>
 	<s id='3'>J'ai bien du tourment dans le coeur ; je ne sais plus à présent si c'est Marton que j'aime ou si c'est Lisette : je crois pourtant que c'est Lisette, à moins que ce ne soit Marton. </s>
 </p>
-<stage>Lisette arrive avec quelques laquais qui portent des sièges.</stage>
+<stage type="[N/A]">Lisette arrive avec quelques laquais qui portent des sièges.</stage>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 <p id='2'>
@@ -2076,11 +2076,11 @@
 <p id='34'>
 	<s id='1'>Ce que vous dites est sans faute. </s>
 </p>
-<stage>À part.</stage>
+<stage type="aparte">À part.</stage>
 <p id='35'>
 	<s id='1'>Ceci va bon train pour moi. </s>
 </p>
-<stage>À la Marquise.</stage>
+<stage type="toward">À la Marquise.</stage>
 <p id='36'>
 	<s id='1'>Mais, Madame, que deviendrai-je ? </s>
 	<s id='2'>Puis-je rester ici ? </s>
@@ -2092,7 +2092,7 @@
 	<s id='1'>Allez, Monsieur, je vous retiens pour cent ans : vous n'avez ici ni Comte ni Chevalier à craindre ; c'est moi qui vous en assure, et qui vous protège. </s>
 	<s id='2'>Prenez votre livre, et lisons ; je n'attends personne. </s>
 </p>
-<stage>Hortensius tire un livre.</stage>
+<stage type="[N/A]">Hortensius tire un livre.</stage>
  </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Lubin arrive ; Hortensius, La Marquise.</head>
@@ -2211,7 +2211,7 @@
 <p id='2'>
 	<s id='1'>Cela suffit ; il s'agit d'autre chose à présent, approche. </s>
 </p>
-<stage>Et à Lubin.</stage>
+<stage type="[N/A]">Et à Lubin.</stage>
 <p id='3'>
 	<s id='1'>Et toi, reste ici, je te prie.</s>
 </p>
@@ -2245,7 +2245,7 @@
 <p id='9'>
 	<s id='1'>Répondez-moi donc, quand le terminerez-vous ? </s>
 </p>
-<stage>Hortensius rit.</stage>
+<stage type="[N/A]">Hortensius rit.</stage>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE, le contrefaisant. </speaker>
 <p id='10'>
@@ -2522,7 +2522,7 @@
 <p id='14'>
 	<s id='1'>Monsieur le Comte et son mérite m'ennuient. </s>
 </p>
-<stage>À la Marquise</stage>
+<stage type="toward">À la Marquise</stage>
 <p id='15'>
 	<s id='1'>Madame, on a parlé d'une lecture, et si je croyais vous déranger je me retirerais.</s>
 </p>
@@ -2541,15 +2541,15 @@
 <p id='18'>
 	<s id=''>Point du tout, et vous allez être content. </s>
 </p>
-<stage>À Lisette.</stage>
+<stage type="toward">À Lisette.</stage>
 <p id='19'>
 	<s id='1'>Retirez-vous, Lisette, vous me déplaisez là. </s>
 </p>
-<stage>À Hortensius.</stage>
+<stage type="toward">À Hortensius.</stage>
 <p id='20'>
 	<s id='1'>Et vous, Monsieur, ne vous écartez point, on va vous rappeler. </s>
 </p>
-<stage>Au Chevalier</stage>
+<stage type="toward">Au Chevalier</stage>
 <p id='21'>
 	<s id='1'>Pour vous, Chevalier, j'ai encore un mot à vous dire avant notre lecture ; il s'agit d'un petit éclaircissement qui ne vous regarde point, qui ne touche que moi, et je vous demande en grâce de me répondre avec la dernière naïveté sur la question que je vais vous faire.</s>
 </p>
@@ -2719,7 +2719,7 @@
 <p id='51'>
 	<s id='1'>Vous ne l'étiez donc point ? </s>
 </p>
-<stage>Elle le regarde.</stage>
+<stage type="[N/A]">Elle le regarde.</stage>
 <p id='52'>
 	<s id='1'>Je vous entends, je l'avais bien prévu, et mon injure est avérée.</s>
 </p>
@@ -2765,7 +2765,7 @@
 <p id='2'>
 	<s id='1'>Pour moi, Madame, je n'en suis point encore aux lectures amusantes. </s>
 </p>
-<stage>Il s'en va. </stage>
+<stage type="exit">Il s'en va. </stage>
 </sp>
 <sp who='LA-MARQUISE'><speaker>LA MARQUISE, à Hortensius, quand il est parti..</speaker>
 <p id='3'>
@@ -2816,7 +2816,7 @@
 <p id='11'>
 	<s id='1'>Comme il vous plaira ; asseyons-nous donc. </s>
 </p>
-<stage>Ils prennent des sièges.</stage>
+<stage type="[N/A]">Ils prennent des sièges.</stage>
 </sp>
 <sp who='HORTENSIUS'><speaker>HORTENSIUS, après avoir toussé, craché, lit.</speaker>
 <p id='12'>
@@ -2965,7 +2965,7 @@
 <p id='7'>
 	<s id='1'>Je voudrais de tout mon coeur pouvoir vous calmer l'esprit. </s>
 </p>
-<stage>Elle part lentement.</stage>
+<stage type="[N/A]">Elle part lentement.</stage>
 </sp>
 <sp who='LE-CHEVALIER'><speaker>LE CHEVALIER, pendant qu'elle marche.</speaker>
 <p id='8'>
@@ -2977,7 +2977,7 @@
 <p id='9'>
 	<s id='1'>Ce que je lui entends dire là me touche ; il ne serait pas généreux de le quitter dans cet état-là. </s>
 </p>
-<stage>Elle revient.</stage>
+<stage type="[N/A]">Elle revient.</stage>
 <p id='10'>
 	<s id='1'>Non, Chevalier, vous ne me rebutez point ; ne cédez point à votre douleur : tantôt vous partagiez mes chagrins, vous étiez sensible à la part que je prenais aux vôtres, pourquoi n'êtes-vous plus de même ? </s>
 	<s id='2'>C'est cela qui me rebuterait, par exemple, car la véritable amitié veut qu'on fasse quelque chose pour elle, elle veut consoler.</s>
@@ -3099,7 +3099,7 @@
 	<s id='1'>Que vous me charmez ! </s>
 	<s id='2'>Que vous me donnez de joie ! </s>
 </p>
-<stage>Il lui baise la main.</stage>
+<stage type="[N/A]">Il lui baise la main.</stage>
 </sp>
 <sp who='LA-MARQUISE'><speaker>LA MARQUISE, riant.</speaker>
 <p id='30'>
@@ -3168,7 +3168,7 @@
 <p id='1'>
 	<s id='1'>Tiens, Lisette, le voilà bien à propos pour lui faire nos adieux. </s>
 </p>
-<stage>En riant.</stage>
+<stage type="laugh">En riant.</stage>
 <p id='2'>
 	<s id='1'>Ah, ah, ah ! </s>
 </p>
@@ -3219,7 +3219,7 @@
 	<s id='2'>Tenez, Monsieur, voilà de l'or que Madame m'a chargé de vous donner, moyennant quoi, comme elle prend congé de vous, vous pouvez prendre congé d'elle. </s>
 	<s id='3'>A mon égard, je salue votre érudition, et je suis votre très humble servante. </s>
 </p>
-<stage>Elle lui fait la révérence.</stage>
+<stage type="[N/A]">Elle lui fait la révérence.</stage>
 </sp>
 <sp who='LUBIN'><speaker>LUBIN.</speaker>
 <p id='12'>
@@ -3281,7 +3281,7 @@
 <p id='23'>
 	<s id='1'>Finis tes sottises. </s>
 </p>
-<stage>À Hortensius.</stage>
+<stage type="toward">À Hortensius.</stage>
 <p id='24'>
 	<s id='1'>Vous voilà averti, Monsieur ; je crois que cela suffit.</s>
 </p>
@@ -3441,7 +3441,7 @@
 <p id='13'>
 	<s id='1'>J'y vais de ce pas, Monsieur le Comte. </s>
 </p>
-<stage>Lubin sort avec Lisette, en saluant le Comte. </stage>
+<stage type="[N/A]">Lubin sort avec Lisette, en saluant le Comte. </stage>
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V.</head>
@@ -3606,7 +3606,7 @@
 <p id='26'>
 	<s id='1'>Il l'aime... </s>
 </p>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 <p id='27'>
 	<s id='1'>Cependant aujourd'hui elle ne veut pas me voir, j'attribue cela à ce que j'avais été quelques jours sans paraître, avant que vous arrivassiez : la Marquise est la femme de France la plus fière.</s>
 </p>
@@ -3820,7 +3820,7 @@
 <p id='1'>
 	<s id='1'>J'ai suivi les conseils du Chevalier, Madame ; permettez que mes transports vous marquent la joie où je suis. </s>
 </p>
-<stage>Il se jette aux genoux de la Marquise.</stage>
+<stage type="[N/A]">Il se jette aux genoux de la Marquise.</stage>
 </sp>
 <sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
 <p id='2'>
@@ -3839,7 +3839,7 @@
 <p id='4'>
 	<s id='1'>Vous n'en avez pas besoin, Monsieur ; j'avais promis de parler pour vous ; j'ai tenu parole, je vous laisse ensemble, je me retire. </s>
 </p>
-<stage>À part.</stage>
+<stage type="aparte">À part.</stage>
 <p id='5'>
 	<s id='1'>Je me meurs.</s>
 </p>
@@ -4176,7 +4176,7 @@
 <p id='18'>
 	<s id='1'>Je vous le dirai. </s>
 </p>
-<stage>Elle lit.</stage>
+<stage type="read">Elle lit.</stage>
 <p id='19'>
 	<s id='1'>Je devais, Madame, regretter Angélique toute ma vie ; cependant, le croiriez-vous ? </s>
 	<s id='2'>Je pars aussi pénétré d'amour pour vous que je le fus jamais pour elle."</s>

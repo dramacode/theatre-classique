@@ -331,7 +331,7 @@
 	<l id="144" part='f'>Et qu'on en fasse d'autre.</l>
 </sp>
 <sp who="GERMON"><speaker>GERMON.</speaker>
-<stage>Air : Il a voulu, etc.</stage>
+<stage type="music">Air : Il a voulu, etc.</stage>
 <poem type="chanson">
 <lg n='1'>
 	<l id="145">On le voudrait,</l>
@@ -488,7 +488,7 @@
 	<s id='1'>Vous y rendrez service, ainsi qu'à vote fils, à vot'école et à moi ; je ne vous dis que ça. </s>
 	<s id='2'>Adieu, citoyenne.</s>
 </p>
-<stage>Il sort.</stage>
+<stage type="exit">Il sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II.</head>
@@ -696,12 +696,12 @@
 	<s id='1'>Garde-là tant que tu voudras ; ce sont tes affaires : mais qu'es donc que je fais ici ? </s>
 	<s id='2'>Je n'ai pas encore étalé et vela l'heure du marché.</s>
 </p>
-<stage>Blanchet étudie et gesticule.</stage>
+<stage type="action">Blanchet étudie et gesticule.</stage>
 <p id='15'>
 	<s id='1'>Ton père est allé pour du charbon : je n'ai pûs d'aide : pûs personne, il faut que tout roule sur moi. </s>
 	<s id='2'>Adieu, mes enfants.</s>
 </p>
-<stage>Apercevant Blanchet.</stage>
+<stage type="action">Apercevant Blanchet.</stage>
 <p id='16'>
 	<s id='1'>Tiens de quoi z'il a l'air, on dirait qu'il va nous avaler.</s>
 </p>
@@ -715,7 +715,7 @@
 <p id='18'>
 	<s id='1'>J'y dirais adieu ; je reviendrai ce soir. </s>
 </p>
-<stage>Elle sort.</stage>
+<stage type="exit">Elle sort.</stage>
 </sp>
 <sp who="MANON"><speaker>MANON.</speaker>
 <p id='19'>
@@ -778,7 +778,7 @@
 <p id='9'>
 	<s id='1'>Il le ferait comme il le dit.</s>
 </p>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 <p id='10'>
 	<s id='1'>Je vas tous dire d'abord, si c'est comme ça ; je ne serai pas cause d'un massacre ; vous me faites peur comme tout.</s>
 </p>
@@ -806,7 +806,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Les Précédents, Cadet-Roussel, le petit Roussel, la Mère Roussel.</head>
-<stage>Cadet aura un plat à barbe en main, le petit portera le peignoir et la mère aura des hardes sous le bras.</stage>
+<stage type="costume">Cadet aura un plat à barbe en main, le petit portera le peignoir et la mère aura des hardes sous le bras.</stage>
 <sp who='CADET'><speaker>CADET, surprenant Blanchet à genoux.</speaker>
 <p id='1'>
 	<s id='1'>Ah ! </s>
@@ -846,7 +846,7 @@
 </sp>
 <sp who="CADET"><speaker>CADET.</speaker>
 	<l id="171">Fort bien, Garganiga, faites-lui votre cour,</l>
-<stage>Blanchet prend du tabac dans sa tabatière.</stage>
+<stage type="action">Blanchet prend du tabac dans sa tabatière.</stage>
 </sp>
 <sp who='CADET'><speaker>CADET, avec humeur.</speaker>
 <p id='6'>
@@ -878,7 +878,7 @@
 <p id='10'>
 	<s id='1'>À la bonne heure.</s>
 </p>
-<stage>Il reprend son couplet.</stage>
+<stage type="sing">Il reprend son couplet.</stage>
 	<l id="172">Fort bien, Garganiga, faites-lui votre cour,</l>
 	<l id="173">C'est pour trouver l'abîme où votre erreur la plonge,</l>
 	<l id="174">Qu'elle a depuis trois mois déserté la Saintonge ;</l>
@@ -1009,7 +1009,7 @@
 </sp>
 <sp who="BLANCHET FILS"><speaker>BLANCHET FILS.</speaker>
 	<l id="207">Mon père à mon bonheur oserait mettre obstacle !</l>
-<stage>Blanchet père entre et écoute.</stage>
+<stage type="entrance">Blanchet père entre et écoute.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='8'><head>SCÈNE VIII. Les Mêmes, Blanchet père.</head>
@@ -1023,7 +1023,7 @@
 	<s id='1'>Ah ! </s>
 	<s id='2'>Je n'oserais pas, coquin.</s>
 </p>
-<stage>Il lui lance un coup, et fait tomber son chapeau.</stage>
+<stage type="action/hit">Il lui lance un coup, et fait tomber son chapeau.</stage>
 </sp>
 <sp who="BLANCHET FILS"><speaker>BLANCHET FILS.</speaker>
 <p id='6'>
@@ -1108,11 +1108,11 @@
 <p id='5'>
 	<s id='1'>Un démenti à ton père, coquin.</s>
 </p>
-<stage>Il lui lance un soufflet.</stage>
+<stage type="action/hit">Il lui lance un soufflet.</stage>
 <p id='6'>
 	<s id='1'>Marche, marche.</s>
 </p>
-<stage>Les deux Blanchet sortent.</stage>
+<stage type="exit">Les deux Blanchet sortent.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='10'><head>SCÈNE X. Les Mêmes, excepté les Blanchet.</head>
@@ -1207,7 +1207,7 @@
 <p id='9'>
 	<s id='1'>J'y cours.</s>
 </p>
-<stage>Il sort.</stage>
+<stage type="exit">Il sort.</stage>
 </sp>
 <sp who="CADET"><speaker>CADET.</speaker>
 <p id='10'>
@@ -1241,12 +1241,12 @@
 <p id='3'>
 	<s id='1'>Allons, bon, nous velà tous ; assisez-vous, je reviens.</s>
 </p>
-<stage>À Grignardet.</stage>
+<stage type="toward">À Grignardet.</stage>
 <p id='4'>
 	<s id='1'>Toi, viens avec l'auteur, pour t'emparer des costumes. </s>
 	<s id='2'>Ma mère, faites les honneurs.</s>
 </p>
-<stage>Il sort.</stage>
+<stage type="exit">Il sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='13'><head>SCÈNE XIII. Madame Grugeot, la mère Roussel, Grignardet.</head>
@@ -1540,7 +1540,7 @@
 <p id="15">
 	<s id="1">Vous savez ben ; les hommes sont-là ; elle est la confidente, dans le cabinet du petit, à côté de la suspente.</s>
 </p>
-<stage>À sa mère.</stage>
+<stage type="toward">À sa mère.</stage>
 <p id="16">
 	<s id="1">Allez donc leus-y montrer. </s>
 	<s id='2'>Je ne sais quoi qui vous abasourdit aujourd'hui. </s>
@@ -1557,7 +1557,7 @@
 <p id="18">
 	<s id="1">Pas de cirimonies, je vous en prie ; venez, mamzelle Grugeot.</s>
 </p>
-<stage>Elles sortent.</stage>
+<stage type="exit">Elles sortent.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='17'><head>SCÈNE XVII.</head>
@@ -1614,7 +1614,7 @@
 	<s id='3'>On le lairra pas entrer, j'ai prévenu pour ça. </s>
 	<s id='4'>Comment, c'est-y le soupçon de la méchanceté des mauvaises langues qui vous fait z'agir comm'çà.</s>
 </p>
-<stage>La mère Cloutier et Manon entrent et écoutent.</stage>
+<stage type="entrance">La mère Cloutier et Manon entrent et écoutent.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='19'><head>SCÈNE XIX. Les Mêmes. La mère Cloutier, Manon.</head>
@@ -1648,7 +1648,7 @@
 <p id='6'>
 	<s id='1'>Attends, c'est devant tout le monde que j'y veux donner ma leçon.</s>
 </p>
-<stage>Manon veut suivre sa mère, et Blanchet la retient.</stage>
+<stage type="action">Manon veut suivre sa mère, et Blanchet la retient.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='20'><head>SCÈNE XX. Blanchet, Manon.</head>
@@ -1799,7 +1799,7 @@
 <p id='5'>
 	<s id='1'>La musique funèbre ; détachez-moi-ça.</s>
 </p>
-<stage>On exécute une grotesque et discordante ouverture, pendant que le tableau se forme ; dans le cours de cette ouverture, Cadet attache les cordes aux bras de Blanchet, de la princesse et de Jobar. Grignardet, comme premier acteur, est libre, ainsi que Madame Grugeot, la mère Cloutier et la mère Roussel sont assises au nombre des spectateurs. Cadet est sensé, par le moyen de son invention, faire mouvoir chaque personnage à son tour, en tenant un bout de corde. Il faut observer, qu'en lâchant les cordes, ils vont et viennent à volonté.</stage>
+<stage type="action">On exécute une grotesque et discordante ouverture, pendant que le tableau se forme ; dans le cours de cette ouverture, Cadet attache les cordes aux bras de Blanchet, de la princesse et de Jobar. Grignardet, comme premier acteur, est libre, ainsi que Madame Grugeot, la mère Cloutier et la mère Roussel sont assises au nombre des spectateurs. Cadet est sensé, par le moyen de son invention, faire mouvoir chaque personnage à son tour, en tenant un bout de corde. Il faut observer, qu'en lâchant les cordes, ils vont et viennent à volonté.</stage>
 </sp>
 <sp who="CADET"><speaker>CADET.</speaker>
 <p id='6'>
@@ -1855,7 +1855,7 @@
 	<s id='1'>Est-ce que tous les rôles ne sont pas du même calibre ? </s>
 	<s id='2'>Quand on est déjà foncé dans l'état ? voyons, je vas te faire faire les gess'et tâche de les retenir. Voyons : tes bras pendants. </s>
 </p>
-<stage>Il se place derrière lui.</stage>
+<stage type="action">Il se place derrière lui.</stage>
 </sp>
 <sp who="BEUGLAN"><speaker>BEUGLAN.</speaker>
 <p id='15'>
@@ -2083,7 +2083,7 @@
 <p id='42'>
 	<s id='1'>C'est moi qui la fais.</s>
 </p>
-<stage>Elle monte sur le petit théâtre.</stage>
+<stage type="action">Elle monte sur le petit théâtre.</stage>
 	<l id="255">Vous ici, juste ciel, dieux vengeurs ! quel audace ?</l>
 	<l id="256" part='i'>Qui venez-vous chercher ? Qui ?</l>
 </sp>
@@ -2122,7 +2122,7 @@
 	<l id="265">Viens, et fléchis l'amant que dévorent mes yeux. </l>
 </sp>
 <sp who="L'AMOUR"><speaker>L'AMOUR, descendant dans des nuages.</speaker>
-<stage>Ce personnage doit être représenté par l'acteur le plus épais et le plus robuste.</stage>
+<stage type="costume">Ce personnage doit être représenté par l'acteur le plus épais et le plus robuste.</stage>
 	<l id="266">Élève tes regards sur la voûte des cieux.</l>
 </sp>
 <sp who="CADET"><speaker>CADET.</speaker>
@@ -2130,7 +2130,7 @@
 	<s id='1'>Le voilà, le voilà ; lâchez les cordes, en douceur, ô le tableau superbe ! </s>
 	<s id='2'>Du silence.</s>
 </p>
-<stage>L'amour tombe.</stage>
+<stage type="action/fall">L'amour tombe.</stage>
 <p id='46'>
 	<s id='1'>Voilà tout au diable ! </s>
 	<s id='2'>Quels acteurs ! </s>
@@ -2157,8 +2157,8 @@
 	<s id='1'>Oui, où est-ce que je trouverai des plumes de dindon aussi grandes que ça ? </s>
 	<s id='2'>Allons, disparais.</s>
 </p>
-<stage>L'Amour sort.</stage>
-<stage>À Beuglan.</stage>
+<stage type="exit">L'Amour sort.</stage>
+<stage type="toward">À Beuglan.</stage>
 <p id='51'>
 	<s id='1'>Ce qu'il y a de désagréable là-dedans, c'est que ça ne va plus aller que d'une aile. </s>
 	<s id='2'>Allons, Blanchet, va ton train, c'est à toi.</s>
@@ -2345,8 +2345,8 @@
 <p id='81'>
 	<s id='1'>C'est ce bavard.</s>
 </p>
-<stage>Ouvrant l'écrit.</stage>
-<stage>Après avoir lu.</stage>
+<stage type="action">Ouvrant l'écrit.</stage>
+<stage type="action">Après avoir lu.</stage>
 <p id='82'>
 	<s id='1'>C'est y possible ! </s>
 	<s id='2'>C'est y possible ! </s>
@@ -2382,13 +2382,13 @@
 	<s id='2'>Qu'es que c'est ? </s>
 	<s id='3'>Es qu'il est fou ?</s>
 </p>
-<stage>Tout le monde descend du petit théâtre hors Blanchet qui demeure attaché par les bras.</stage>
+<stage type="action">Tout le monde descend du petit théâtre hors Blanchet qui demeure attaché par les bras.</stage>
 </sp>
 <sp who="CADET"><speaker>CADET.</speaker>
 <p id='88'>
 	<s id='1'>Écoutez ; c'est monsieur </s>
 </p>
-<stage>en montrant Blanchet</stage>
+<stage type="action">en montrant Blanchet</stage>
 <p id='89'>
 	<s id='1'>qui écrit.</s>
 </p>
@@ -2565,7 +2565,7 @@
 <p id='4'>
 	<s id='1'>Laissez donc, laissez donc, j'irai à Montreuil.</s>
 </p>
-<stage>Ils sortent tous les deux.</stage>
+<stage type="exit">Ils sortent tous les deux.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='27'><head>SCÈNE XXVII. Les Mêmes, excepté les deux Blanchet.</head>
@@ -2584,7 +2584,7 @@
 <p id='3'>
 	<s id='1'>Elle ira tout de même, soyez tranquille.</s>
 </p>
-<stage>À Manon.</stage>
+<stage type="toward">À Manon.</stage>
 <p id='4'>
 	<s id='1'>Je t'ai soupçonnée comme dans la pièce de Zaïre, mais je ne t'ai pas immolée ; me pardonnes-tu ? </s>
 </p>
@@ -2601,7 +2601,7 @@
 <p id='6'>
 	<s id='1'>Les tambours.</s>
 </p>
-<stage>On entend un roulement.</stage>
+<stage type="noise">On entend un roulement.</stage>
 </sp>
 <sp who="CADET"><speaker>CADET.</speaker>
 <p id='7'>
@@ -2620,7 +2620,7 @@
 </sp>
 </div2>
 <div2 type='vaudeville' n='1'><head>VAUDEVILLE.</head>
-<stage>Air : Du petit Matelot.</stage>
+<stage type="music">Air : Du petit Matelot.</stage>
 <sp who="CADET"><speaker>CADET.</speaker>
 	<l id="277">Ne voyez plus le personnage,</l>
 	<l id="278">Et daignez écouter l'acteur !</l>
@@ -2640,7 +2640,7 @@
 	<l id="290">Voilà le tragique du temps.</l>
 	<l id="291">On fuit Zaïre, on quitte Électre,</l>
 	<l id="292">Pour des pétards et des romans. </l>
-<stage>Bis.</stage>
+<stage type="[N/A]">Bis.</stage>
 </sp>
 <sp who="MADAME GRUGEOT"><speaker>MADAME GRUGEOT.</speaker>
 <note type="L">Thalie : Une des neuf muses, présidait à la comédie et à l'épigramme. Thalie est aussi l'une des trois grâces. [B]</note>

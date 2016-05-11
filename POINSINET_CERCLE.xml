@@ -69,7 +69,7 @@
 <body>
 <div1 type="act" n='1'><head></head>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Lisette, Lisidor, Ils entrent de différents côtés.</head> 
-<stage>Le Théâtre représente un salon de compagnie, où se trouvent des sièges, un canapé, un métier de tapisserie, des tables de jeu, des livres de musique, une guitare, etc.</stage>
+<stage type="decor">Le théâtre représente un salon de compagnie, où se trouvent des sièges, un canapé, un métier de tapisserie, des tables de jeu, des livres de musique, une guitare, etc.</stage>
 <sp who="LISETTE"><speaker>LISETTE.</speaker>
 <p id="1">
 	<s id="1">Ah ! </s>
@@ -81,7 +81,7 @@
 	<s id="1">Mon empressement t'étonnera moins quand le motif t'en sera connu. </s>
 	<s id='2'>Je viens de recevoir quelques nouvelles qui m'affligent, et je voulais avoir à l'issue de son dîner, une conversation avec l'aimable Lucile.</s>
 </p>
-<stage>Il tire sa montre.</stage>
+<stage type="[N/A]">Il tire sa montre.</stage>
 <p id='3'>
 	<s id='1'>Le repas me paraît aujourd'hui plus long qu'a l'ordinaire.</s>
 </p>
@@ -352,7 +352,7 @@
 <p id="1">
 	<s id="1">En vérité, Lisette, vous êtes une fille bien étrange. </s>
 </p>
-<stage>À Lisidor.</stage>
+<stage type="toward">À Lisidor.</stage>
 <p id="2">
 	<s id="1">Bonjour, Monsieur. </s>
 	<s id='2'>Que faites-vous ici, Lucile ? </s>
@@ -379,11 +379,11 @@
 	<s id="1">Et je sais bien que je le suis. </s>
 	<s id='2'>Rentrez, votre Maître à chanter vous attend. </s>
 </p>
-<stage>Lucile sort.</stage>
+<stage type="exit">Lucile sort.</stage>
 <p id='7'>
 	<s id='1'>Ils veulent absolument, Lisette, m'entraîner ce soir au spectacle.</s>
 </p>
-<stage>À Lisidor.</stage>
+<stage type="toward">À Lisidor.</stage>
 <p id='8'>
 	<s id=''>Je crois, Monsieur, vous faire assez joliment ma cour.</s>
 </p>
@@ -425,7 +425,7 @@
 	<s id="1">D'accord, mon enfant. </s>
 	<s id='2'>Mais aujourd'hui je ne puis disposer de moi-même, je te dis que l'on m'entraîne.</s>
 </p>
-<stage>Lisette sort.</stage>
+<stage type="exit">Lisette sort.</stage>
 </sp>
 <sp who="LISIDOR"><speaker>LISIDOR.</speaker>
 <note type="C">J'ai eu l'honneur d'entendre répéter plusieurs fois par M.
@@ -577,8 +577,8 @@ de Voltaire, que Mérope était la Tragédie qu'il préférait. [Note de l'auteu
 	<s id='7'>Je resterai chez moi, j'y verrai du monde. </s>
 	<s id='8'>Faites savoir que je suis visible.</s>
 </p>
-<stage>Lisette sort.</stage>
-<stage>À Lisidor.</stage>
+<stage type="exit">Lisette sort.</stage>
+<stage type="toward">À Lisidor.</stage>
 <p id="11">
 	<s id="1">Aussi bien le Baron m'a-t-il écrit qu'il viendrait ce soir ; s'il ne me trouvait pas, il faudrait bouder des siècles. </s>
 	<s id=''>Mais Qu'entens-je ? </s>
@@ -840,12 +840,12 @@ de Voltaire, que Mérope était la Tragédie qu'il préférait. [Note de l'auteu
 <p id="42">
 	<s id="1">En ce cas, à ce soir.</s>
 </p>
-<stage>À Lisidor.</stage>
+<stage type="toward">À Lisidor.</stage>
 <p id="43">
 	<s id="1">Vous m'intéressez, tenez ferme ; et s'il en est besoin, je vous promets mon secours. </s>
 	<s id='2'>Au revoir, ma charmante Araminte.</s>
 </p>
-<stage>Il sort.</stage>
+<stage type="exit">Il sort.</stage>
 </sp>
 <sp who="ARAMINTE"><speaker>ARAMINTE.</speaker>
 <p id="44">
@@ -875,7 +875,7 @@ de Voltaire, que Mérope était la Tragédie qu'il préférait. [Note de l'auteu
 <p id="3">
 	<s id="1">Oui, j'en serai charmée ; cela vient à miracle ; je reste chez moi ; et, tenez, voilà Monsieur </s>
 </p>
-<stage>En montrant Lisidor.</stage>
+<stage type="[N/A]">En montrant Lisidor.</stage>
 <p id="3">
 	<s id="1">qui pourra vous donner d'excellents avis : c'est un connaisseur.</s>
 </p>
@@ -926,7 +926,7 @@ de Voltaire, que Mérope était la Tragédie qu'il préférait. [Note de l'auteu
 <p id="11">
 	<s id="1">Comment il parle !</s>
 </p>
-<stage>À Damon.</stage>
+<stage type="toward">À Damon.</stage>
 <p id="12">
 	<s id="1">Vous pouvez compter sur moi ; j'y mènerai vingt femmes. </s>
 	<s id='2'>Je vous le répète, j'en augure beaucoup. </s>
@@ -936,7 +936,7 @@ de Voltaire, que Mérope était la Tragédie qu'il préférait. [Note de l'auteu
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII. Lisette, Lisidor, Lucile, Damon, Cidalise, Araminte, Ismène, L'Abbé.</head>
-<stage>Les portes s'ouvrent ; les deux femmes entrent d'abord. Isméne s'appuie sur le bras de l'Abbé. Lisidor va au devant de Lucile qui suit avec Lisette.</stage>
+<stage type="[N/A]">Les portes s'ouvrent ; les deux femmes entrent d'abord. Isméne s'appuie sur le bras de l'Abbé. Lisidor va au devant de Lucile qui suit avec Lisette.</stage>
 <sp who='ARAMINTE'><speaker>ARAMINTE, allant au devant.</speaker>
 <note type="C">J'ai, selon mon usage, noté la pantomime de cette pièce,
 dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </note>
@@ -985,7 +985,7 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 	<s id="1">Ah ! </s>
 	<s id='2'>J'espère être bientôt délivrée  toutes ces tracasseries.</s>
 </p>
-<stage>Les Domestiques préparent des sièges.</stage>
+<stage type="[N/A]">Les Domestiques préparent des sièges.</stage>
 <p id='9'>
 	<s id='1'>Voulons-nous nous asseoir ? </s>
 	<s id='2'>Monsieur Damon nous doit gratifier d'une lecture.</s>
@@ -1008,7 +1008,7 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 <p id="12">
 	<s id="1">Je suis déjà morte.</s>
 </p>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 <p id="13">
 	<s id="1">Monsieur, nous la lirez-vous toute entière ?</s>
 </p>
@@ -1029,7 +1029,7 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 	<s id='2'>Point du tout, Mesdames ; on oublie aisément ses peines quand on réussit à vous amuser. </s>
 	<s id='3'>Je vais commencer...</s>
 </p>
-<stage>On s'assied.</stage>
+<stage type="[N/A]">On s'assied.</stage>
 </sp>
 <sp who='ARAMINTE'><speaker>ARAMINTE, à Ismene.</speaker>
 <p id='17'>
@@ -1048,7 +1048,7 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 	<s id='3'>J'ai la poitrine si cruellement fatiguée !... </s>
 	<s id='4'>À peine puis je parler...</s>
 </p>
-<stage>Il tousse.</stage>
+<stage type="[N/A]">Il tousse.</stage>
 <p id="20">
 	<s id="1">Vous voyez... </s>
 	<s id='2'>J'ai passé la moitié de la nuit chez une Duchesse où l'on m'a fait impitoyablement chanter un acte de l'opéra et six romances... </s>
@@ -1064,7 +1064,7 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 <p id="22">
 	<s id="1">Point du tout ; mais, au défaut de la harpe, au moins, pour chanter, faudrait-il une guitare.</s>
 </p>
-<stage>Lisette sort.</stage>
+<stage type="exit">Lisette sort.</stage>
 </sp>
 <sp who="CIDALISE"><speaker>CIDALISE.</speaker>
 <p id="23">
@@ -1255,7 +1255,7 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 <p id='26'>
 	<s id='1'>Je n'y tiens plus.</s>
 </p>
-<stage>L'Abbé se lève, se promène, ouvre des livres de musique, prend une guitare.</stage>
+<stage type="[N/A]">L'Abbé se lève, se promène, ouvre des livres de musique, prend une guitare.</stage>
 </sp>
 <sp who="LE MÉDECIN"><speaker>LE MÉDECIN.</speaker>
 <p id="27">
@@ -1405,7 +1405,7 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 </p>
 </sp>
 <sp who="L'ABBÉ"><speaker>L'ABBÉ.</speaker>
-<stage>AIR : Noté à la fin.</stage>
+<stage type="music">Air : Noté à la fin.</stage>
 	<l id='2'>Serait-il vrai jeune bergère,</l>
 	<l id='3'>Que mes soins n'ont pu vous charmer ?</l>
 	<l id='4'>Que d'efforts il faut pour vous plaire !</l>
@@ -1538,27 +1538,27 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 	<s id='2'>Je vous conterai quelque jour son aventure. </s>
 	<s id='3'>Adieu, Mesdames.</s>
 </p>
-<stage>À Araminte.</stage>
+<stage type="toward">À Araminte.</stage>
 <p id='73'>
 	<s id='1'>Du régime, je vous en prie.</s>
 </p>
-<stage>À Ismène.</stage>
+<stage type="toward">À Ismène.</stage>
 <p id='74'>
 	<s id='1'>Je serai demain à vos pieds. </s>
 </p>
-<stage>À Cidalise.</stage>
+<stage type="toward">À Cidalise.</stage>
 <p id='75'>
 	<s id='1'>De grâce congédiez moi votre petit chirurgien.</s>
 </p>
-<stage>À Lucile.</stage>
+<stage type="toward">À Lucile.</stage>
 <p id='76'>
 	<s id='1'>Bonjour, ma belle poulette.</s>
 </p>
-<stage>Aux hommes.</stage>
+<stage type="toward">Aux hommes.</stage>
 <p id='77'>
 	<s id='1'>Messieurs, je vous salue.</s>
 </p>
-<stage>Il sort.</stage>
+<stage type="exit">Il sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='1'><head>SCÈNE I.. Lisidor, Lucile, Damon, Cidalise, Araminte, Ismène, L'Abbé.</head>
@@ -1577,7 +1577,7 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 <p id="3">
 	<s id="1">On ne s'occupe plus de nous, sortons.</s>
 </p>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 <p id='4'>
 	<s id='1'>Mesdames, vous m'excuserez.</s>
 </p>
@@ -1600,7 +1600,7 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 	<s id='2'>Je ne la crois pas curieuse des grands poèmes. </s>
 	<s id='3'>Le Baron qui ne peut tarder à revenir, serait charmé de vous entendre, et Lucile apprendrait de vous quelque jolie romance. </s>
 </p>
-<stage>L'Abbé salue Araminte, baise la main d'Ismene, et présente la sienne à Lucile après avoir dit.</stage>
+<stage type="[N/A]">L'Abbé salue Araminte, baise la main d'Ismene, et présente la sienne à Lucile après avoir dit.</stage>
 </sp>
 <sp who="L'ABBÉ"><speaker>L'ABBÉ.</speaker>
 <p id="8">
@@ -1612,7 +1612,7 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 <p id='9'>
 	<s id='1'>Que ne puis-je vous accompagner ? </s>
 </p>
-<stage>Lucile sort avec l'Abbé ; Lisette les suit.</stage>
+<stage type="[N/A]">Lucile sort avec l'Abbé ; Lisette les suit.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='10'><head>SCÈNE X. Lisidor, Damon, Cidalise, Araminte, Ismène, ensuite Lisette.</head>
@@ -1652,7 +1652,7 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 	<s id="1">N'est ce pas à vous à commander chez moi ? </s>
 	<s id='2'>Lisette, allons vite, une table.</s>
 </p>
-<stage>Lisette arrive et fait apporter une table.</stage>
+<stage type="[N/A]">Lisette arrive et fait apporter une table.</stage>
 </sp>
 <sp who="ISMÈNE"><speaker>ISMÈNE.</speaker>
 <p id="7">
@@ -1665,7 +1665,7 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 	<s id="1">Ah ciel ! </s>
 	<s id='2'>Je n'en puis revenir.</s>
 </p>
-<stage>On dispose la table.</stage>
+<stage type="[N/A]">On dispose la table.</stage>
 </sp>
 <sp who="CIDALISE"><speaker>CIDALISE.</speaker>
 <p id="9">
@@ -1694,7 +1694,7 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 	<s id='6'>Araminte, Cidalise, et moi... </s>
 	<s id='7'>Vous allez vous mettre ici...</s>
 </p>
-<stage>Elle dispose une chaise qu'elle place au coin de la table qui doit être au côté gauche du Théâtre.</stage>
+<stage type="[N/A]">Elle dispose une chaise qu'elle place au coin de la table qui doit être au côté gauche du Théâtre.</stage>
 <p id='13'>
 	<s id='1'>Oui, là. </s>
 	<s id='2'>Vous nous tournerez le dos, afin d'être moins distrait.</s>
@@ -1713,14 +1713,14 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 	<s id='4'>Qu'il est cruel d'avoir besoin de certaines gens ! </s>
 	<s id='5'>N'importe...</s>
 </p>
-<stage>Il remet son cahier dans sa poche.</stage>
+<stage type="[N/A]">Il remet son cahier dans sa poche.</stage>
 <p id='16'>
 	<s id='1'>Adieu, Mesdames, c'est moi qui craindrais de vous distraire de vos grandes occupations... </s>
 	<s id='2'>J'en aurais du regret... </s>
 	<s id='3'>Et... </s>
 	<s id='4'>Je suis votre serviteur. </s>
 </p>
-<stage>Il sort.</stage>
+<stage type="exit">Il sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='11'><head>SCÈNE XI. Lisidor, Ismène, Araminte, Cidalise, jouant.</head> 
@@ -1776,7 +1776,7 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 </sp>
 </div2>
 <div2 type="scene" n='12'><head>SCÈNE XII. Ismène, Araminte, Cidalise, jouant ; Lisidor, tantôt derrière le fauteuil d Araminte, tantôt se promenant ; Le Marquis, qui se place à la droite d'Ismene</head>
-<stage>La table est à la gauche du théâtre.</stage>
+<stage type="[N/A]">La table est à la gauche du théâtre.</stage>
 <sp who='LE MARQUIS'><speaker>LE MARQUIS, dans la coulisse.</speaker>
 <p id='1'>
 	<s id='1'>Oui, oui ; j'arrangerai tout cela. </s>
@@ -1797,7 +1797,7 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 <p id="4">
 	<s id="1">Je vais donc voir ce dangereux rival.</s>
 </p>
-<stage>Le Marquis entre.</stage>
+<stage type="[N/A]">Le Marquis entre.</stage>
 </sp>
 <sp who="CIDALISE"><speaker>CIDALISE.</speaker>
 <p id="5">
@@ -1812,7 +1812,7 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 	<s id="1">Ma foi, Mesdames, on arrive quand on peut. </s>
 	<s id='2'>Il est pourtant réel que, pour tarder moins, je n'ai pas dormi quatre heures. Aussi, suis-je anéanti...</s>
 </p>
-<stage>À Lisidor.</stage>
+<stage type="toward">À Lisidor.</stage>
 <p id="7">
 	<s id="1">Monsieur, je vous salue. </s>
 	<s id='2'>Mais vous êtes bien seules, Mesdames. </s>
@@ -1875,7 +1875,7 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 <p id="16">
 	<s id="1">De grâce point de conseils.</s>
 </p>
-<stage>Pendant ce temps le Marquis regarde le jeu d'Ismene, et lui présente du tabac.</stage>
+<stage type="[N/A]">Pendant ce temps le Marquis regarde le jeu d'Ismene, et lui présente du tabac.</stage>
 </sp>
 <sp who="ARAMINTE"><speaker>ARAMINTE.</speaker>
 <note type="L">Guignon : Malheur, accident dont on ne peut savoir la cause, ni à qui s'en prendre. Il est de style bas et familier. [F]</note>
@@ -2006,7 +2006,7 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 	<s id='2'>Votre petite incrédulité mérite d'être confondue. </s>
 	<s id='3'>Tenez, tenez.</s>
 </p>
-<stage>Il tire différentes choses de sa poche, enfin un sac à ouvrage.</stage>
+<stage type="[N/A]">Il tire différentes choses de sa poche, enfin un sac à ouvrage.</stage>
 <note type="L">Jarrretière : Lien avec lequel on attache ses bas vers le jarret [haut du mollet] : maintenant on les met au genou. [F]</note>
 <p id="35">
 	<s id="1">Non ce n'est pas cela ; ce sont les jarretières de Lise, les noeuds de Chloë.... </s>
@@ -2020,7 +2020,7 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 	<s id='2'>Avec le sac ! </s>
 	<s id='3'>Il est charmant. </s>
 </p>
-<stage>Aux femmes.</stage>
+<stage type="toward">Aux femmes.</stage>
 <p id="37">
 	<s id="1">Vous permettrez ! </s>
 	<s id='2'>Comment un étui, des ciseaux, des aiguilles !</s>
@@ -2047,7 +2047,7 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 	<s id='5'>Mais, diable ! </s>
 	<s id='6'>Dussiez-vous m'en vouloir encore, j'oubliais précisément ce que je suis venu tout exprès pour vous dire.</s>
 </p>
-<stage>Il enfile une aiguille.</stage>
+<stage type="[N/A]">Il enfile une aiguille.</stage>
 <p id='41'>
 	<s id='1'>C'est une chose assez particulière.</s>
 </p>
@@ -2180,7 +2180,7 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 	<s id='3'>Eh ! </s>
 	<s id='4'>Vite, suivez-moi, Lisette.</s>
 </p>
-<stage>Elle sort avec Lisette.</stage>
+<stage type="exit">Elle sort avec Lisette.</stage>
 </sp>
 <sp who="ISMÈNE"><speaker>ISMÈNE.</speaker>
 <p id="3">
@@ -2208,12 +2208,12 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 <p id="6">
 	<s id="1">Il est heureux pour vous, Monsieur, d'être de ce nombre.</s>
 </p>
-<stage>À part.</stage>
+<stage type="aparte">À part.</stage>
 <p id="7">
 	<s id="1">J'en ai bien assez vu. </s>
 	<s id='2'>Quittons ce cercle d'étourdis, et ne songeons qu'à ménager la bonne volonté du Baron, et le coeur de Lucile.</s>
 </p>
-<stage>Il fait une révérence qu'on lui rend, et sort.</stage>
+<stage type="action/exit">Il fait une révérence qu'on lui rend, et sort.</stage>
 </sp>
 <sp who="CIDALISE"><speaker>CIDALISE.</speaker>
  <note type="L">Robin : Terme de dénigrement. Homme de robe. [L]</note>

@@ -65,7 +65,7 @@
 	</front>
 <body>
 <div1 type="act" n='1'><head>ACTE I</head>
-<stage>L'ouverture se fait par un grand assemblage d'instruments ; et dans le milieu du théâtre on voit un élève du Maître de musique, qui compose sur une table un air que le Bourgeois a demandé pour une sérénade. </stage>
+<stage type="decor">L'ouverture se fait par un grand assemblage d'instruments ; et dans le milieu du théâtre on voit un élève du Maître de musique, qui compose sur une table un air que le Bourgeois a demandé pour une sérénade. </stage>
 <div2 type="scene" n='1'><head>SCÈNE I. Maître de musique, Maître à danser, trois Musiciens, deux Violons, quatre Danseurs.</head>
 <sp who='LE-MAÎTRE-DE-MUSIQUE'><speaker>MAÎTRE DE MUSIQUE, parlant à ses Musiciens. </speaker>
 <p id='1'>
@@ -274,7 +274,7 @@
 	<s id='1'>Rien. </s>
 	<s id='2'>C'est pour voir si vous m'entendez bien.</s>
 </p>
-<stage>Aux deux Maîtres.</stage> 
+<stage type="toward">Aux deux Maîtres.</stage> 
 <p id='19'>
 	<s id='1'>Que dites-vous de mes livrées ?</s>
 </p>
@@ -285,7 +285,7 @@
 </p>
 </sp>
 <sp who='MONSIEUR-JOURDAIN'><speaker>MONSIEUR JOURDAIN.</speaker>
-<stage>Il entr'ouvre sa robe et fait voir un haut-de-chausses étroit de velours rouge, et une camisole de velours vert, dont il est vêtu.</stage>
+<stage type="costume">Il entr'ouvre sa robe et fait voir un haut-de-chausses étroit de velours rouge, et une camisole de velours vert, dont il est vêtu.</stage>
 <p id='21'>
 	<s id='1'> Voici encore un petit déshabillé pour faire le matin mes exercices.</s>
 </p>
@@ -400,7 +400,7 @@
 	<s id='1'>Oui. </s>
 	<s id='2'>Ah ! </s>
 </p>
-<stage>Monsieur Jourdain chante.</stage> 
+<stage type="sing">Monsieur Jourdain chante.</stage> 
 	<l id='5'>Je croyais Janneton </l>
 	<l id='6'>Aussi douce que belle, </l>
 	<l id='7'>Je croyais Janneton </l>
@@ -592,7 +592,7 @@
 <p id='76'>
 	<s id='1'>Passe, passe, Voyons. </s>
 </p>
-<stage>Dialogue en musique.</stage>
+<stage type="sing">Dialogue en musique.</stage>
 	<l id='12'>Une musicienne et deux musiciens </l>
 	<l id='13'>Un coeur, dans l'amoureux empire, </l>
 	<l id='14'>De mille soins est toujours agité : </l>
@@ -701,7 +701,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>PREMIER INTERMÈDE.</head>
-<stage>Quatre Danseurs exécutent tous les mouvements différents et toutes les sortes de pas que le Maître à danser leur commande, et cette danse fait le premier intermède. </stage>
+<stage type="danse">Quatre Danseurs exécutent tous les mouvements différents et toutes les sortes de pas que le Maître à danser leur commande, et cette danse fait le premier intermède. </stage>
 </div2>
 </div1>
 <div1 type="act" n='2'><head>ACTE II </head>
@@ -905,7 +905,7 @@
 	<s id='29'>Un saut en arrière. </s>
 	<s id='30'>En garde, Monsieur, en garde. </s>
 </p>
-<stage>Le maître d'armes, lui pousse deux ou trois bottes, en lui disant : "En garde."</stage>
+<stage type="action">Le maître d'armes, lui pousse deux ou trois bottes, en lui disant : "En garde."</stage>
 </sp>
 <sp who='MONSIEUR-JOURDAIN'><speaker>MONSIEUR JOURDAIN.</speaker>
 <p id='2'>
@@ -1161,7 +1161,7 @@
 <p id='16'>
 	<s id='1'>Comment ? Marauds que vous êtes... </s>
 </p>
-<stage>Le Philosophe se jette sur eux, et tous trois le chargent de coups, et sortent en se battant.</stage>
+<stage type="action">Le Philosophe se jette sur eux, et tous trois le chargent de coups, et sortent en se battant.</stage>
 </sp>
 <sp who='MONSIEUR-JOURDAIN'><speaker>MONSIEUR JOURDAIN.</speaker>
 <p id='17'>
@@ -1236,7 +1236,7 @@
 	<s id='2'>Gueux ! </s>
 	<s id='3'>Traîtres ! </s>
 	<s id='4'>Imposteurs ! </s>
-<stage>Ils sortent.</stage>
+<stage type="exit">Ils sortent.</stage>
 </p>
 </sp>
 <sp who='MONSIEUR-JOURDAIN'><speaker>MONSIEUR JOURDAIN.</speaker>
@@ -1912,7 +1912,7 @@
 	<s id='5'>Entrez, vous autres. </s>
 	<s id='6'>Mettez cet habit à Monsieur, de la manière que vous faites aux personnes de qualité.</s>
 </p>
-<stage>Quatre Garçons tailleurs entrent, dont deux lui arrachent le haut-de-chausses de ses exercices, et deux autres la camisole ; puis ils lui mettent son habit neuf ; et M. Jourdain se promène entre eux, et leur montre son habit, pour voir s'il est bien. Le tout à la cadence de toute la symphonie.</stage>
+<stage type="action">Quatre Garçons tailleurs entrent, dont deux lui arrachent le haut-de-chausses de ses exercices, et deux autres la camisole ; puis ils lui mettent son habit neuf ; et M. Jourdain se promène entre eux, et leur montre son habit, pour voir s'il est bien. Le tout à la cadence de toute la symphonie.</stage>
 </sp>
 <sp who='GARCON-TAILLEUR'><speaker>GARCON TAILLEUR.</speaker>
 <p id='32'>
@@ -1977,7 +1977,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SECOND INTERMÈDE.</head>
-<stage>Les quatre Garçons tailleurs se réjouissent par une danse qui fait le second intermède.</stage>
+<stage type="danse">Les quatre Garçons tailleurs se réjouissent par une danse qui fait le second intermède.</stage>
 </div2>
 </div1>
 <div1 type="act" n='3'><head>ACTE III </head>
@@ -2517,7 +2517,7 @@
 	<s id='1'>Ouais, ce maître d'armes vous tient fort au coeur. </s>
 	<s id='2'>Je te veux faire voir ton impertinence tout à l'heure. </s>
 </p>
-<stage>Il fait apporter les fleurets et en donne un à Nicole.</stage>
+<stage type="action">Il fait apporter les fleurets et en donne un à Nicole.</stage>
 <p id='55'>
 	<s id='1'>Tiens. </s>
 	<s id='2'>Raison démonstrative, la ligne du corps. </s>
@@ -2530,7 +2530,7 @@
 <p id='55'>
 	<s id='1'>Hé bien, quoi ?</s>
 </p>
-<stage>Nicole lui pousse plusieurs coups.</stage>
+<stage type="action">Nicole lui pousse plusieurs coups.</stage>
 </sp>
 <sp who='MONSIEUR-JOURDAIN'><speaker>MONSIEUR JOURDAIN.</speaker>
 <p id='56'>
@@ -2731,7 +2731,7 @@
 <p id='13'>
 	<s id='1'>Vous me faites beaucoup d'honneur, Monsieur. </s>
 </p>
-<stage>À Madame Jourdain.</stage>
+<stage type="toward">À Madame Jourdain.</stage>
 <p id='14'>
 	<s id='1'>Dans la chambre du Roi !</s>
 </p>
@@ -4484,7 +4484,7 @@
 <p id='8'>
 	<s id='1'>Monsieur Jourdain, en voilà assez : Madame n'aime pas les grands compliments, et elle sait que vous êtes homme d'esprit.</s>
 </p>
-<stage>Bas, à Dorimène.</stage>
+<stage type="aparte">Bas, à Dorimène.</stage>
 <p id='9'>
 	<s id='1'>C'est un bon bourgeois assez ridicule, comme vous voyez, dans toutes ses manières.</s>
 </p>
@@ -4588,7 +4588,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>TROISIÈME INTERMÈDE.</head>
-<stage>Six cuisiniers, qui ont préparé le festin, dansent ensemble, et font le troisième intermède ; après quoi, ils apportent une table couverte de plusieurs mets.</stage>
+<stage type="danse">Six cuisiniers, qui ont préparé le festin, dansent ensemble, et font le troisième intermède ; après quoi, ils apportent une table couverte de plusieurs mets.</stage>
 </div2>
 </div1>
 <div1 type="act" n='4'><head>ACTE IV </head>
@@ -4603,7 +4603,7 @@
 <p id='2'>
 	<s id='1'>Vous vous moquez, Madame, et je voudrais qu'il fût plus digne de vous être offert.</s>
 </p>
-<stage>Tous se mettent à table.</stage>
+<stage type="action">Tous se mettent à table.</stage>
 </sp>
 <sp who='DORANTE'><speaker>DORANTE.</speaker>
 <note type="L">Pain de rive : pain qui est cuit sur les bords du four.</note>
@@ -4667,7 +4667,7 @@
 </p>
 </sp>
 <sp who='MUSICENS'><speaker>Les Musiciens et la Musicienne prennent des verres, chantent deux chansons à boire, et sont soutenus de toute la symphonie.</speaker>
-<stage>Première chanson à boire </stage>
+<stage type="music">Première chanson à boire </stage>
 	<l id='51'>Un petit doigt, Philis, pour commencer le tour. </l>
 	<l id='52'>Ah ! qu'un verre en vos mains a d'agréables charmes ! </l>
 	<l id='53'>Vous et le vin, vous vous prêtez des armes, </l>
@@ -4680,7 +4680,7 @@
 	<l id='60'>Et de vous et de lui je m'enivre à longs traits : </l>
 	<l id='61'>Entre lui, vous et moi, jurons, jurons, ma belle, </l>
 	<l id='62'>Une ardeur éternelle. </l>
-<stage>Seconde chanson à boire </stage>
+<stage type="music">Seconde chanson à boire </stage>
 	<l id='63'>Buvons, chers amis, buvons : </l>
 	<l id='64'>Le temps qui fuit nous y convie ; </l>
 	<l id='65'>Profitons de la vie </l>
@@ -4836,7 +4836,7 @@
 <p id='11'>
 	<s id='1'>Je ne sais qui me tient, maudite, que je ne vous fende la tête avec les pièces du repas que vous êtes venue troubler.</s>
 </p>
-<stage>On ôte la table.</stage>
+<stage type="action">On ôte la table.</stage>
 </sp>
 <sp who='MADAME JOURDAIN'><speaker>MADAME JOURDAIN, sortant.</speaker>
 <p id='12'>
@@ -5313,12 +5313,12 @@
 	<s id='1'>Prenez la peine de vous tirer un peu plus loin, pour faire place à ce que j'aperçois venir. </s>
 	<s id='2'>Vous pourrez voir une partie de l'histoire, tandis que je vous conterai le reste. </s>
 </p>
-<stage>La cérémonie turque pour ennoblir le Bourgeois se fait en danse et en musique, et compose le quatrième intermède. </stage>
+<stage type="danse">La cérémonie turque pour ennoblir le Bourgeois se fait en danse et en musique, et compose le quatrième intermède.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>QUATRIÈME INTERMÈDE.</head>
-<stage>Le Mufti, quatre Dervis, six Turcs dansants, six Turcs musiciens, et autres joueurs d'instruments à la turque, sont les acteurs de cette cérémonie. </stage>
-<stage>Le Mufti invoque Mahomet avec les douze Turcs et les quatre Dervis ; après on lui amène le Bourgeois, vêtu à la turque, sans turban et sans sabre, auquel il chante ces paroles .</stage>
+<stage type="danse">Le Mufti, quatre Dervis, six Turcs dansants, six Turcs musiciens, et autres joueurs d'instruments à la turque, sont les acteurs de cette cérémonie. </stage>
+<stage type="action">Le Mufti invoque Mahomet avec les douze Turcs et les quatre Dervis ; après on lui amène le Bourgeois, vêtu à la turque, sans turban et sans sabre, auquel il chante ces paroles .</stage>
 <sp who='LE-MUFTI'><speaker>LE MUFTI.</speaker>
 	<l id='81'>Se ti sabir, </l>
 	<l id='82'>Ti respondir ; </l>
@@ -5328,7 +5328,7 @@
 	<l id='86'>Ti qui star ti ? </l>
 	<l id='87'>Non intendir : </l>
 	<l id='88'>Tazir, tazir. </l>
-<stage>Le Mufti demande, en même langue, aux Turcs assistants de quelle religion est le Bourgeois, et ils l'assurent qu'il est mahométan. Le Mufti invoque Mahomet en langue franque, et chante les paroles qui suivent : </stage>
+<stage type="sing">Le Mufti demande, en même langue, aux Turcs assistants de quelle religion est le Bourgeois, et ils l'assurent qu'il est mahométan. Le Mufti invoque Mahomet en langue franque, et chante les paroles qui suivent : </stage>
 </sp>
 <sp who='LE-MUFTI'><speaker>LE MUFTI.</speaker>
 	<l id='89'>Mahametta per Giourdina </l>
@@ -5339,7 +5339,7 @@
 	<l id='94'>Con galera é brigantina, </l>
 	<l id='95'>Per deffender Palestina, </l>
 	<l id='96'>Mahametta, etc... </l>
-<stage>Le Mufti demande aux Turcs si le Bourgeois sera ferme dans la religion mahométane, et leur chante ces paroles : </stage>
+<stage type="foreign">Le Mufti demande aux Turcs si le Bourgeois sera ferme dans la religion mahométane, et leur chante ces paroles : </stage>
 	<l id='97'>Star bon Turca Giourdina ? </l>
 </sp>
 <sp who='LES-TURCS'><speaker>LES TURCS.</speaker>
@@ -5347,8 +5347,8 @@
 </sp>
 <sp who='LE-MUFTI'><speaker>LE MUFTI, danse et chante ces mots.</speaker>
 	<l id='99'>Hu la ba ba la chou ba la ba ba la da. </l>
-<stage>Les Turcs répondent les mêmes vers. </stage>
-<stage>Le Mufti propose de donner le turban au Bourgeois, et chante les paroles qui suivent : </stage>
+<stage type="[N/A]">Les Turcs répondent les mêmes vers. </stage>
+<stage type="action">Le Mufti propose de donner le turban au Bourgeois, et chante les paroles qui suivent : </stage>
 	<l id='100'>Ti non star furba ? </l>
 </sp>
 <sp who='LES-TURCS'><speaker>LES TURCS.</speaker>
@@ -5362,19 +5362,19 @@
 </sp>
 <sp who='LE-MUFTI'><speaker>LE MUFTI.</speaker>
 	<l id='104'>Donar turbanta, donar turbanta. </l>
-<stage>Les Turcs répètent tout ce qu'a dit le Mufti pour donner le turban au Bourgeois. Le Mufti et les Dervis se coiffent avec des turbans de cérémonies, et l'on présente au Mufti l'Alcoran, qui fait une seconde invocation avec tout le reste des Turcs assistants ; après son invocation, il donne au Bourgeois l'épée et chante ces paroles : </stage>
+<stage type="action">Les Turcs répètent tout ce qu'a dit le Mufti pour donner le turban au Bourgeois. Le Mufti et les Dervis se coiffent avec des turbans de cérémonies, et l'on présente au Mufti l'Alcoran, qui fait une seconde invocation avec tout le reste des Turcs assistants ; après son invocation, il donne au Bourgeois l'épée et chante ces paroles : </stage>
 	<l id='104'>Ti star nobilé, é non star fabbola. </l>
 	<l id='105'>Pigliar schiabbola. </l>
-<stage>Les Turcs répètent les mêmes vers, mettant tous le sabre à la main, et six d'entre eux dansent autour du Bourgeois, auquel ils feignent de donner plusieurs coups de sabre. </stage>
-<stage>Le Mufti commande aux Turcs de bâtonner le Bourgeois, et chante les paroles qui suivent : </stage>
+<stage type="action">Les Turcs répètent les mêmes vers, mettant tous le sabre à la main, et six d'entre eux dansent autour du Bourgeois, auquel ils feignent de donner plusieurs coups de sabre. </stage>
+<stage type="action">Le Mufti commande aux Turcs de bâtonner le Bourgeois, et chante les paroles qui suivent : </stage>
 	<l id='106'>Dara, dara, </l>
 	<l id='107'>Bastonnara, bastonnara. </l>
-<stage>Les Turcs répètent les mêmes vers, et lui donnent plusieurs coups de bâton en cadence. </stage>
-<stage>Le Mufti, après l'avoir fait bâtonner, lui dit en chantant : </stage>
+<stage type="action">Les Turcs répètent les mêmes vers, et lui donnent plusieurs coups de bâton en cadence. </stage>
+<stage type="action">Le Mufti, après l'avoir fait bâtonner, lui dit en chantant : </stage>
 	<l id='108'>Non tener honta : </l>
 	<l id='109'>Questa star ultima affronta. </l>
-<stage>Les Turcs répètent les mêmes vers. </stage>
-<stage>Le Mufti recommence une invocation et se retire après la cérémonie avec tous les Turcs, en dansant et chantant avec plusieurs instruments à la turquesque. </stage>
+<stage type="action">Les Turcs répètent les mêmes vers. </stage>
+<stage type="action">Le Mufti recommence une invocation et se retire après la cérémonie avec tous les Turcs, en dansant et chantant avec plusieurs instruments à la turquesque. </stage>
 </sp>
 </div2>
 </div1>
@@ -5543,7 +5543,7 @@
 	<s id='3'>Ah, ah, voici justement le reste de notre écu. </s>
 	<s id='4'>Je ne vois que chagrin de tous les côtés. </s>
 </p>
-<stage>Elle sort.</stage>
+<stage type="exit">Elle sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Dorante, Dorimène. </head>
@@ -5660,7 +5660,7 @@
 	<s id='3'>Holà ! </s>
 	<s id='4'>Où diantre est-il allé ?</s>
 </p>
-<stage>À Cléonte.</stage>
+<stage type="toward">À Cléonte.</stage>
 <p id='3'>
 	<s id='1'>Strouf, strif, strof, straf. </s>
 	<s id='2'>Monsieur est un grande Segnore, grande Segnore, grande Segnore ; et Madame une granda Dama, granda Dama. </s>
@@ -5758,7 +5758,7 @@
 <p id='10'>
 	<s id='1'>Non, mon père, je vous l'ai dit, il n'est point de pouvoir qui me puisse obliger de prendre un autre mari que Cléonte ; et je me résoudrai plutôt à toutes les extrémités, que de... </s>
 </p>
-<stage>Reconnaissant Cléonte.</stage>
+<stage type="action">Reconnaissant Cléonte.</stage>
 <p id='11'>
 	<s id='1'>Il est vrai que vous êtes mon père, je vous dois entière obéissance, et c'est à vous à disposer de moi selon vos volontés.</s>
 </p>
@@ -6088,11 +6088,11 @@
 	<s id='1'>Monsieur, je vous remercie. </s>
 	<s id='2'>Si l'on en peut voir un plus fou, je l'irai dire à Rome.</s>
 </p>
-<stage>La comédie finit par un petit ballet qui avait été préparé.</stage>
+<stage type="action">La comédie finit par un petit ballet qui avait été préparé.</stage>
 </sp>
 </div2>
 <div2 type='acte' n='7'><head>BALLET DES NATIONS.</head>
-<stage>PREMIÈRE ENTRÉE. Dialogue des gens, Qui en musique demandent des livres. Un homme vient donner les livres du ballet, qui d'abord est fatigué par une multitude de gens de provinces différentes, qui crient en musique pour en avoir, et par trois Importuns, qu'il trouve toujours sur ses pas. </stage>
+<stage type="action">PREMIÈRE ENTRÉE. Dialogue des gens, Qui en musique demandent des livres. Un homme vient donner les livres du ballet, qui d'abord est fatigué par une multitude de gens de provinces différentes, qui crient en musique pour en avoir, et par trois Importuns, qu'il trouve toujours sur ses pas. </stage>
 <sp who='TOUS'><speaker>TOUS.</speaker>
 	<l id='110'>À moi, Monsieur, à moi de grâce, à moi, Monsieur </l>
 	<l id='111'>Un livre, s'il vous plaît, à votre serviteur. </l>
@@ -6244,9 +6244,9 @@
 <sp who='TOUS'><speaker>TOUS. </speaker>
 	<l id='213'>À moi, Monsieur, à moi de grâce, à moi, Monsieur : </l>
 	<l id='214'>Un livre, s'il vous plaît, à votre serviteur. </l>
-<stage>SECONDE ENTRÉE.</stage>
-<stage>Les trois importuns dansent. </stage>
-<stage>TROISIÈME ENTRÉE.</stage>
+<stage type="action">SECONDE ENTRÉE.</stage>
+<stage type="[N/A]">Les trois importuns dansent. </stage>
+<stage type="action">TROISIÈME ENTRÉE.</stage>
 </sp>
 <sp who='TROIS-ESPAGNOLS'><speaker>TROIS ESPAGNOLS, chantent.</speaker>
 	<l id='215'>Sé que me muero de amor, </l>
@@ -6266,7 +6266,7 @@
 	<l id='229'>Vivir de su golpe fuerte </l>
 	<l id='230'>Es de mi salud primor. </l>
 	<l id='231'>Sé que, etc. </l>
-<stage>Six Espagnols dansent.</stage>
+<stage type="danse">Six Espagnols dansent.</stage>
 </sp>
 <sp who='TROIS-MUSICIENS-ESPAGNOLS'><speaker>TROIS MUCISIENS ESPAGNOLS.</speaker>
 	<l id='232'>Ay ! Que locura, con tanto rigor </l>
@@ -6299,10 +6299,10 @@
 	<l id='251'>Vaya de vayle ! </l>
 	<l id='252'>Alegria, alegria, alegria ! </l>
 	<l id='253'>Que esto de dolor es fantasia. </l>
-<stage>QUATRIÈME ENTRÉE.</stage>
+<stage type="action">QUATRIÈME ENTRÉE.</stage>
 </sp>
 <sp who='ITALIENS'><speaker>ITALIENS. </speaker>
-<stage>Une musicienne italienne fait le premier récit, dont voici les paroles : </stage>
+<stage type="sing">Une musicienne italienne fait le premier récit, dont voici les paroles : </stage>
 	<l id='254'>Di rigori armata il seno, </l>
 	<l id='255'>Contro amor mi ribellai ; </l>
 	<l id='256'>Ma fui vinta in un baleno </l>
@@ -6315,8 +6315,8 @@
 	<l id='263'>E'l sanarmi è tirannia. </l>
 	<l id='264'>Ahi ! che più giova e piace, </l>
 	<l id='265'>Quanto amor è più vivace ! </l>
-<stage>Après l'air que la Musicienne a chanté, deux Scaramouches, deux Trivelins, et un Arlequin représentent une nuit à la manière des comédiens italiens, en cadence.</stage> 
-<stage>Un Musicien italien se joint à la Musicienne italienne, et chante avec elle les paroles qui suivent : </stage>
+<stage type="danse">Après l'air que la Musicienne a chanté, deux Scaramouches, deux Trivelins, et un Arlequin représentent une nuit à la manière des comédiens italiens, en cadence.</stage> 
+<stage type="sing">Un Musicien italien se joint à la Musicienne italienne, et chante avec elle les paroles qui suivent : </stage>
 </sp>
 <sp who='LE-MUSICIEN-ITATIEN'><speaker>LE MUSICIEN ITALIEN.</speaker>
 	<l id='266'>Bel tempo che vola </l>
@@ -6350,9 +6350,9 @@
 </sp>
 <sp who='MUSICIEN-MUSICIENNE-ITALIENS'><speaker>TOUS DEUX.</speaker>
 	<l id='286'>Sù cantiamo, etc. </l>
-<stage>Après le dialogue italien, les Scaramouches et Trivelins dansent une réjouissance.</stage>
-<stage>CINQUIÈME ENTRÉE.</stage>
-<stage>Premier menuet </stage>
+<stage type="danse">Après le dialogue italien, les Scaramouches et Trivelins dansent une réjouissance.</stage>
+<stage type="action">CINQUIÈME ENTRÉE.</stage>
+<stage type="music">Premier menuet </stage>
 </sp>
 <sp who='MUSICENS-POITEVINS'><speaker>DEUX MUSICIENS POITEVINS, dansent et chantent les paroles qui suivent. </speaker>
 	<l id='287'>Ah ! Qu'il fait beau dans ces bocages ! </l>
@@ -6365,7 +6365,7 @@
 	<l id='292'>Ces doux ramages, </l>
 	<l id='293'>Ce beau séjour </l>
 	<l id='294'>Nous invite à l'amour. </l>
-<stage>Second menuet.</stage>
+<stage type="music">Second menuet.</stage>
 </sp>
 <sp who='LES-DEUX-MUSICIENS'><speaker>TOUS DEUX ENSEMBLE.</speaker>
 	<l id='295'>Vois, ma Climène, </l>
@@ -6379,9 +6379,9 @@
 	<l id='303'>Nous pouvons tous deux, </l>
 	<l id='304'>Si tu le veux, </l>
 	<l id='305'>Être comme eux. </l>
-<stage>Six autres Français viennent après, vêtus galamment à la poitevine, trois en hommes et trois en femmes, accompagnés de huit flûtes et de hautbois, et dansent les menuets.</stage>
-<stage>SIXIÈME ENTREÉE.</stage>
-<stage>Tout cela finit par le mélange des trois nations, et les applaudissements en danse et en musique de toute l'assistance, qui chante les deux vers qui suivent :</stage>
+<stage type="danse">Six autres Français viennent après, vêtus galamment à la poitevine, trois en hommes et trois en femmes, accompagnés de huit flûtes et de hautbois, et dansent les menuets.</stage>
+<stage type="action">SIXIÈME ENTREÉE.</stage>
+<stage type="sing">Tout cela finit par le mélange des trois nations, et les applaudissements en danse et en musique de toute l'assistance, qui chante les deux vers qui suivent :</stage>
 </sp>
 <sp who='TOUS'><speaker>TOUS</speaker> 
 	<l id='306'>Quels spectacles charmants, quels plaisirs goûtons-nous  ! </l>

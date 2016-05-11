@@ -78,9 +78,9 @@
 <body>
 <div1 type="act" n='1'><head></head>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. </head>
-<stage>La scène représente un salon, plusieurs tableaux sont suspendus çà et là. Un portrait de femme, placé sur un chevalet, est plus en vue que les autres. Théodore est assis devant une table, sur laquelle il y a du papier, une écritoire, de la musique, etc. Dubois arrange l'appartement.</stage>
+<stage type="decor">La scène représente un salon, plusieurs tableaux sont suspendus çà et là. Un portrait de femme, placé sur un chevalet, est plus en vue que les autres. Théodore est assis devant une table, sur laquelle il y a du papier, une écritoire, de la musique, etc. Dubois arrange l'appartement.</stage>
 <sp who='THÉODORE'><speaker>THÉODORE. </speaker>
-<stage>Air noté. </stage>
+<stage type="music">Air noté. </stage>
 <poem type="chanson">
 <lg id='1'>
 	<l id='1'>Composons notre écriteau, </l>
@@ -152,7 +152,7 @@
 	<s id='1'>Chose rare, aujourd'hui !... </s>
 	<s id='2'>Il serait bien à souhaiter que la mode de parler peu s'établit. </s>
 </p>
-<stage>AIR: Ce fut par la faute du sort. </stage>
+<stage type="music">Air: Ce fut par la faute du sort. </stage>
 	<l id='21'>Beaucoup de choses, peu de mots, </l>
 	<l id='22'>Pour tous les bavards, quel martyre ! </l>
 	<l id='23'>On n'entendrait plus tant de sots, </l>
@@ -171,7 +171,7 @@
 <p id='11'>
 	<s id='1'>Je le veux bien.</s>
 </p>
-<stage>Le lui donnant.</stage>
+<stage type="[N/A]">Le lui donnant.</stage>
 <p id='12'>
 	<s id='1'>Tiens : le voici. </s>
 </p>
@@ -196,7 +196,7 @@
 <p id='16'>
 	<s id='1'>Écoute : </s>
 </p>
-<stage>AIR : Avec les jeux dans le village. </stage>
+<stage type="music">Air : Avec les jeux dans le village. </stage>
 	<l id='29'>Au premier, maison fort jolie, </l>
 	<l id='30'>Est un très bel appartement ; </l>
 	<l id='31'>Papiers frais, glaces, boiserie ; </l>
@@ -275,7 +275,7 @@
 	<s id='2'>Ah ! </s>
 	<s id='3'>La voici. </s>
 </p>
-<stage>Il la lui donne; à part, en s'en allant.</stage>
+<stage type="give/aparte/exit">Il la lui donne; à part, en s'en allant.</stage>
 <p id='30'>
 	<s id='1'>Elle est depuis hier dans ma poche. </s>
 </p>
@@ -293,7 +293,7 @@
 	<s id='2'>Mais Rosette me secondera. </s>
 	<s id='3'>Elle est si bonne! si sensible! </s>
 </p>
-<stage>AIR: Des Visitandines. </stage>
+<stage type="music">Air: Des Visitandines. </stage>
 	<l id='37'>Rosette fuit la médisance; </l>
 	<l id='38'>Ainsi, je ne médis jamais: </l>
 	<l id='39'>Elle aime la reconnoissance, </l>
@@ -322,7 +322,7 @@
 </p>
 </sp>
 <sp who='DUBOIS'><speaker>DUBOIS. </speaker>
-<stage>AIR : Par devant derrière. </stage>
+<stage type="music">Air : Par devant derrière. </stage>
 	<l id='45'>Le vent le tourne à tout moment, </l>
 	<l id='46'>Par devant derrière : </l>
 	<l id='47'>Quoiqu'il soit en vers, cependant </l>
@@ -337,7 +337,7 @@
 	<s id='1'>Rattache-le solidement... </s>
 	<s id='2'>Mais on frappe ; va voir qui c'est. </s>
 </p>
-<stage>Dubois sort.</stage>
+<stage type="exit">Dubois sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV.</head>
@@ -378,7 +378,7 @@
 <p id='5'>
 	<s id='1'>En entrant, j'en ai vu une partie... Il est assez bien. </s>
 </p>
-<stage>Il examine dans le fond, et Dubois lui montre tout avec empressement. </stage>
+<stage type="[N/A]">Il examine dans le fond, et Dubois lui montre tout avec empressement. </stage>
 </sp>
 <sp who='THÉODORE'><speaker>THÉODORE, bas à Rosette, sur l'avant-scène. </speaker>
 <p id='6'>
@@ -444,7 +444,7 @@
 	<s id='2'>Eh ! </s>
 	<s id='3'>Il est fait avec chaleur.  </s>
 </p>
-<stage>AIR : Cœurs sensibles, cœurs fidèles. </stage>
+<stage type="music">Air : Cœurs sensibles, cœurs fidèles. </stage>
 </sp>
 <sp who='VINCENT'><speaker>VINCENT. </speaker>
 	<l id='53'>La jeune fille a l'air tendre... </l>
@@ -468,7 +468,7 @@
 <p id='18'>
 	<s id='1'>Quel est celui-ci ? </s>
 </p>
-<stage>Il regarde.</stage>
+<stage type="[N/A]">Il regarde.</stage>
 <p id='19'>
 	<s id='1'>Que vois-je ? </s>
 	<s id='2'>Le portrait de ma fille ! </s>
@@ -489,7 +489,7 @@
 <p id='22'>
 	<s id='1'>Je l'ai fait de mémoire. </s>
 </p>
-<stage>AIR : Ce mouchoir, belle Rémonde. </stage>
+<stage type="music">Air : Ce mouchoir, belle Rémonde. </stage>
 	<l id='60'>J'ai, sur la toile vivante, </l>
 	<l id='61'>Voulu peindre la candeur, </l>
 	<l id='62'>Et cette grâce décente </l>
@@ -506,7 +506,7 @@
 </p>
 </sp>
 <sp who='ROSETTE'><speaker>ROSETTE. </speaker>
-<stage>Même air. </stage>
+<stage type="[N/A]">Même air. </stage>
 	<l id='68'>Est-ce, mon père, une injure </l>
 	<l id='69'>Que de tracer mon portrait ? </l>
 	<l id='70'>J'ignorais, je vous le jure, </l>
@@ -565,7 +565,7 @@
 	<s id='3'>Si elle me convient moins que la vôtre, vous aurez la préférence... </s>
 	<s id='4'>Je veux bien même vous promettre que, dans une heure, je viendrai...</s>
 </p>	
-<stage>Regardant sa fille.</stage>
+<stage type="[N/A]">Regardant sa fille.</stage>
 <p id='33'>
 	<s id='1'>Nous viendrons vous donner répouse. </s>
 </p>
@@ -580,7 +580,7 @@
 <p id='35'>
 	<s id='1'>Je ne vous défends pas l'espérance.</s>
 </p>
-<stage>Il sort avec sa fille.</stage>
+<stage type="exit">Il sort avec sa fille.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Théodore, Dubois. </head>
@@ -638,7 +638,7 @@
 <p id='11'>
 	<s id='1'>Je vais sortir : si, pendant mon absence, qui ne sera pas longue, l'écriteau t'amène des originaux, amuse-t-en, mais ne termine pas avec eux. </s>
 </p>
-<stage>Il sort.</stage>
+<stage type="exit">Il sort.</stage>
 </sp>
 <sp who='DUBOIS'><speaker>DUBOIS. </speaker>
 <p id='12'>
@@ -657,7 +657,7 @@
 	<s id='6'>Le port noble... </s>
 	<s id='7'>La métamorphose d'un enrichi.</s>
 </p>
-<stage>AIR : De Claudine. </stage>
+<stage type="music">Air : De Claudine. </stage>
 	<l id='76'>Tàchons d'avoir de l'aisance </l>
 	<l id='77'>Et le maintien du bon ton; </l>
 	<l id='78'>Représentons d'importance </l>
@@ -709,7 +709,7 @@
 	<s id='1'>Vous l'avez deviné. </s>
 	<s id='2'>J'ai composé une société d'artistes et d'amateurs, et nous donnons des concerts. </s>
 </p>
-<stage>AIR : Vaudeville de la soirée orageuse. </stage>
+<stage type="music">Air : Vaudeville de la soirée orageuse. </stage>
 	<l id='84'>Nous accompagnons les morceaux </l>
 	<l id='85'>Que maints virtuoses nous chantent : </l>
 	<l id='86'>Nous faisons quatuors fort beaux, </l>
@@ -752,7 +752,7 @@
 	<s id='1'>La nouveauté, mon cher, la nouveauté ! </s>
 	<s id='2'>On a tant travaillé pour plaire au public, que les moyens sont à-peu-près épuisés ; on est forcé de lui offrir toujours les mêmes choses, mais sous des formes nouvelles.</s>
 </p>
-<stage>AIR : Je connais un berger discret. </stage>
+<stage type="music">Air : Je connais un berger discret. </stage>
 	<l id='92'>Le public, chez l'homme du jour, </l>
 	<l id='93'>Sait, un moment, se plaire. </l>
 	<l id='94'>Puis, d'autres auront, à leur tour, </l>
@@ -766,7 +766,7 @@
 <p id='14'>
 	<s id='1'>Il en est de même des modes.  </s>
 </p>
-<stage>Même air. </stage>
+<stage type="[N/A]">Même air. </stage>
 	<l id='100'>On vit employer, tour-à-tour, </l>
 	<l id='101'>Les objets les plus rares ; </l>
 	<l id='102'>On imagina, chaque jour, </l>
@@ -794,7 +794,7 @@
 	<s id='2'>Mon orgue fut détruite, et il ne m'en est resté que le soufflet. </s>
 	<s id='3'>Quand je vis qu'il n'y avait plus rien à faire de ce côté, je choisis un autre instrument.</s>
 </p>
-<stage>AIR : Mon père était pot. </stage>
+<stage type="music">Air : Mon père était pot. </stage>
 <note type="L">Serpent : Est aussi un instrument de musique qui sert de basse au cornet à bouquin pour soutenir un choeur de Chantres dans un grand vaisseau. [F]</note>
 	<l id='108'>Choisir parmi les instruments </l>
 	<l id='109'>N'était pas chose aisée : </l>
@@ -855,7 +855,7 @@
 </p> 
 </sp>
 <sp who='SONORE'><speaker>SONORE. </speaker>
-<stage>AIR : Ton attente sera remplie. </stage>
+<stage type="music">Air : Ton attente sera remplie. </stage>
 	<l id='118'>Le poème fit la culbute, </l>
 	<l id='119'>Je l'avais prédit à l'auteur, </l>
 	<l id='120'>Mais le poète, dans sa chute, </l>
@@ -884,7 +884,7 @@
 <p id='29'>
 	<s id='1'>Et puis, que d'avantages m'offre mon procédé ! </s>
 </p>
-<stage>AIR : Si l'on voulait rompre la chaîne. </stage>
+<stage type="music">Air : Si l'on voulait rompre la chaîne. </stage>
 	<l id='126'>J'évite une froide harangue; </l>
 	<l id='127'>J'évite des mots mal sonnants ; </l>
 	<l id='128'>J'évite les fautes de langue, </l>
@@ -904,11 +904,11 @@
 	<s id='1'>Grand merci de la prophétie. </s>
 	<s id='2'>Allons, puisque je ne trouve pas ici un local favorable, je m'en vas.</s>
 </p>
-<stage>Fausse sortie.</stage>
+<stage type="[N/A]">Fausse sortie.</stage>
 <p id='32'>
 	<s id='1'>Il me vient une idée : je vais faire construire une salle de concert par un entrepreneur de mes amis : je suis sûr que ça réussira, parce que la musique est nécessaire à l'homme ; partout l'on chante, et chanter est une occupation universelle. </s>
 </p>
-<stage>AIR : J'étais gisant à cette place. </stage>
+<stage type="music">Air : J'étais gisant à cette place. </stage>
 	<l id='134'>Un amant chante sa victoire ; </l>
 	<l id='135'>Un auteur chante ses succès : </l>
 	<l id='136'>Nos guerriers, aux champs de la gloire, </l>
@@ -918,7 +918,7 @@
 	<l id='139'>Et nos travers, et nos défauts : </l>
 	<l id='140'>Plus d'un personnage au cœur faux </l>
 	<l id='141'>Sait chanter la palinodie. </l>
-<stage>Il salue et sort.</stage>
+<stage type="exit">Il salue et sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='9'><head>SCÈNE IX. </head>
@@ -1003,7 +1003,7 @@
 	<s id='1'>Oh ! </s>
 	<s id='2'>Bien volontiers.</s>
 </p>
-<stage>AIR : Vaudeville de l'Officier de fortune. </stage>
+<stage type="music">Air : Vaudeville de l'Officier de fortune. </stage>
 	<l id='142'>L'or, que d'une ardeur inquiète, </l>
 	<l id='143'>On voit recherché parmi nous, </l>
 	<l id='144'>Vaut-il un regard de Rosette, </l>
@@ -1019,7 +1019,7 @@
 <p id='14'>
 	<s id='1'>Voici une visite. </s>
 </p>
-<stage>Il sort.</stage>
+<stage type="exit">Il sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='11'><head>SCÈNE XI. Théodore, Une Actrice.</head>
@@ -1054,7 +1054,7 @@
 <p id='5'>
 	<s id='1'>Il est galant. </s>
 </p>
-<stage>Haut. </stage>
+<stage type="forte">Haut. </stage>
 <p id='6'>
 	<s id='1'>Et quel est le prix ?... </s>
 	<s id='2'>Bien cher n'est-ce pas ?... </s>
@@ -1062,7 +1062,7 @@
 	<s id='4'>Oh ! </s>
 	<s id='5'>C'est une chose essentielle.</s>
 </p>
-<stage>AIR : Jeunes Amants. </stage>
+<stage type="music">Air : Jeunes Amants. </stage>
 	<l id='151'>Joli boudoir qu'avec l'amour </l>
 	<l id='152'>A formé la main du mystère, </l>
 	<l id='153'>Où l'on peut, parfois, dans le jour, </l>
@@ -1076,7 +1076,7 @@
 <p id='7'>
 	<s id='1'>Je crois qu'on peut s'en passer très souvent. </s>
 </p>
-<stage>AIR : Il faut des époux assortis. </stage>
+<stage type="music">Air : Il faut des époux assortis. </stage>
 	<l id='159'>Pourquoi désirer un boudoir ? </l>
 	<l id='160'>Bouder est chose si commune ! </l>
 	<l id='161'>On boude devant son miroir ; </l>
@@ -1121,7 +1121,7 @@
 </p>
 </sp>
 <sp who='THÉODORE'><speaker>THÉODORE. </speaker>
-<stage>AIR : Deux enfants s'aimaient d'amour tendre. </stage>
+<stage type="music">Air : Deux enfants s'aimaient d'amour tendre. </stage>
 	<l id='167'>Je me ressouviendrais sans cesse </l>
 	<l id='168'>Du lieu que j'aurais habité; </l>
 	<l id='169'>Qui, de sa nouvelle maîtresse, </l>
@@ -1135,11 +1135,11 @@
 <p id='13'>
 	<s id='1'>Il a de l'esprit.</s>
 </p>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 <p id='14'>
 	<s id='1'>Sérieusement, vous reviendriez ici invisiblement ? </s>
 </p>
-<stage>AIR : On me cherche, on m'aime, on m'adore. </stage>
+<stage type="music">Air : On me cherche, on m'aime, on m'adore. </stage>
 	<l id='175'>Quoi ! Ce ne serait qu'en idée </l>
 	<l id='176'>Que vous retourneriez céans ? </l>
 	<l id='177'>Tant pis ! Car je suis excédée </l>
@@ -1168,7 +1168,7 @@
 <p id='18'>
 	<s id='1'>J'aime assez un calembour, lorsqu'il est sans prétention, et qu'il se borne à accompagner ou à faire naître la gaîté. </s>
 </p>
-<stage>AIR : Vaudeville de décence. </stage>
+<stage type="music">Air : Vaudeville de décence. </stage>
 	<l id='183'>Fils du moment, né parmi les saillies, </l>
 	<l id='184'>Dans son équivoque talent, </l>
 	<l id='185'>On lui permet de dire des folies: </l>
@@ -1210,9 +1210,9 @@
 <p id='25'>
 	<s id='1'>Je ne me fais jamais prier. </s>
 </p>
-<stage>Théodore prend les parties, et en présente une à l'Actrice.</stage>
-<stage>DUO </stage>
-<stage>Sur celui de la COSA RARA : Pace, caro mio spose. </stage>
+<stage type="[N/A]">Théodore prend les parties, et en présente une à l'Actrice.</stage>
+<stage type="[N/A]">DUO </stage>
+<stage type="[N/A]">Sur celui de la COSA RARA : Pace, caro mio spose. </stage>
 </sp>
 <sp who="L'ACTRICE"><speaker>L'ACTRICE. </speaker>
 	<l id='191'>Pour embellir la vie... </l>
@@ -1327,7 +1327,7 @@
 <p id='31'>
 	<s id='1'>Allons, aussi bien, cela me vaudra une répétition. </s>
 </p>
-<stage>Ici l'actrice chante un morceau à son choix.</stage>
+<stage type="[N/A]">Ici l'actrice chante un morceau à son choix.</stage>
 </sp>
 <sp who='THÉODORE'><speaker>THÉODORE. </speaker>
 <p id='32'>
@@ -1349,7 +1349,7 @@
 <p id='35'>
 	<s id='1'>Je vous en suis obligée ; mais n'oubliez pas l'auteur. </s>
 </p>
-<stage>AIR : Vaudeville d'Abuzar. </stage>
+<stage type="music">Air : Vaudeville d'Abuzar. </stage>
 	<l id='215'>Il faut qu'entre l'auteur et moi, </l>
 	<l id='216'>Votre indulgence se partage : </l>
 	<l id='217'>Il a besoin de nous, ma foi ! </l>
@@ -1359,7 +1359,7 @@
 	<l id='221'>Je vous le dis confidemment : </l>
 	<l id='222'>Ce n'est qu'une pièce à tiroir, </l>
 	<l id='223'>Qu'on doit juger sans conséquence. </l>
-<stage>Elle sort, Théodore la reconduit.</stage>
+<stage type="exit">Elle sort, Théodore la reconduit.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='12'><head>SCÈNE XII. </head>
@@ -1405,7 +1405,7 @@
 <p id='4'>
 	<s id='1'>A-t-on jamais vu une pareille conduite ? </s>
 </p>
-<stage>AIR : De la parole. </stage>
+<stage type="music">Air : De la parole. </stage>
 	<l id='224'>Il m'offre son appartement ; </l>
 	<l id='225'>Mais voyez combien il m'abuse : </l>
 	<l id='226'>Je l'ai loué dans le moment, </l>
@@ -1460,7 +1460,7 @@
 <p id='13'>
 	<s id='1'>Dans quelque temps ? </s>
 </p>
-<stage>AIR : Du Vaudeville d'Arlequin tout seul. </stage>
+<stage type="music">Air : Du Vaudeville d'Arlequin tout seul. </stage>
 	<l id='233'>L'amour ne veut pas qu'on diffère </l>
 	<l id='234'>L'instant qui doit nous rendre heureux. </l>
 	<l id='235'>Si notre hymen vous plaît, mon père, </l>
@@ -1577,7 +1577,7 @@
 <p id='16'>
 	<s id='1'>Il n'y a plus rien à faire. </s>
 </p>
-<stage>AIR : Le sommeil fuyait de mes yeux. </stage>
+<stage type="music">Air : Le sommeil fuyait de mes yeux. </stage>
 	<l id='241'>Plus dé houcles, plus dé crochets, </l>
 	<l id='242'>Dé papillotes, dé frisure : </l>
 	<l id='243'>L'art, avondonnant ces apprêts, </l>
@@ -1600,7 +1600,7 @@
 	<s id='4'>Au prémier coup-d'œil, jé débiné un particulier... </s>
 	<s id='5'>J'ai lé tact : on se cacherait en bain de moi.</s>
 </p>
-<stage>AIR : Il faut quitter ce que j'adore. </stage>
+<stage type="music">Air : Il faut quitter ce que j'adore. </stage>
 	<l id='249'>Jé bois sous des airs d'opulencé, </l>
 	<l id='250'>L'intrigué et la méchanceté, </l>
 	<l id='251'>Sous lés haillons dé l'indigencé, </l>
@@ -1730,7 +1730,7 @@
 <p id='40'>
 	<s id='1'>Bous boulez rire ? Est-ce qu'à Vordeaux, quand jé loue un appartement ou une boiture, cé n'est pas lé propriétaire ou lé boiturier, qui mé donne les arrhes ? démandez plutôt.</s>
 </p>
-<stage>À part.</stage>
+<stage type="aparte">À part.</stage>
 <p id='41'>
 	<s id='1'>C'est pour céla qué jé suis monté. </s>
 </p>
@@ -1744,21 +1744,21 @@
 <p id='43'>
 	<s id='1'>Comment faire, jé n'ai pas lé sou. </s>
 </p>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 <p id='44'>
 	<s id='1'>Mais, s'il né tient qu'à céla, jé né disputérai pas... </s>
 	<s id='2'>Jé bais bous payer.... </s>
 	<s id='3'>Qu'ést-cé qu'il bous saut ?.... </s>
 	<s id='4'>Non, dités-lé moi franchément...</s>
 </p>
-<stage>Se fouillant.</stage>
+<stage type="[N/A]">Se fouillant.</stage>
 <p id='45'>
 	<s id='1'>Aih ! </s>
 	<s id='2'>Moun Diou ! </s>
 	<s id='3'>Qu'es à co ? </s>
 	<s id='4'>Lé Diable mé rétape, j'ai ouvlié ma vourse...</s>
 </p>
-<stage>À Vincent.  </stage>
+<stage type="toward">À Vincent.  </stage>
 <p id='46'>
 	<s id='1'>Faités-moi lé plaisir dé mé prêter un écu dé six francs, pour lui donner lé dénier-à-dieu.</s>
 </p>
@@ -1793,7 +1793,7 @@
 	<s id='1'>Si j'en fais !... </s>
 	<s id='2'>J'en sais à chacun sélon son goût, son état, son caractère et ses moyens, et jé bends..... </s>
 </p>
-<stage>AIR : Vaudeville de la soirée orageuse. </stage>
+<stage type="music">Air : Vaudeville de la soirée orageuse. </stage>
 	<l id='257'>Au jugé, perruque à vonet, </l>
 	<l id='258'>Blonde ou brune à la june Hortense; </l>
 	<l id='259'>Au parbénu, qui s'y connaît, </l>
@@ -1805,7 +1805,7 @@
 <p id='53'>
 	<s id='1'>Adioussias.</s>
 </p>
-<stage>Il sort.</stage>
+<stage type="exit">Il sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='16'><head>SCÈNE XVI. Vincent, Rosette, Théodore, Dubois. </head>
@@ -1844,7 +1844,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='17'><head>VAUDEVILLE. </head>
-<stage>AIR : De la pipe de tabac. </stage>
+<stage type="music">Air : De la pipe de tabac. </stage>
 <sp who='VINCENT'><speaker>VINCENT. </speaker>
 	<l id='265'>À ton hymen tu te prépares, </l>
 	<l id='266'>Moi, je loue un appartement ; </l>
@@ -1864,7 +1864,7 @@
 	<l id='276'>J'entends, et vais parler pour toi. </l>
 	<l id='277'>Je ne saurais, en conscience, </l>
 	<l id='278'>De Rosette lui tenir lieu : </l>
-<stage>À Rosette.</stage>
+<stage type="toward">À Rosette.</stage>
 	<l id='279'>Donne-lui, ma fille, en avance, </l>
 	<l id='280'>Un baiser pour denier-à-dieu. </l>
 </sp>

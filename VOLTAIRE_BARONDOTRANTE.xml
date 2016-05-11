@@ -50,14 +50,14 @@
 </front>
 <body>
 <div1 type="act" n='1'><head>ACTE I</head>
-<stage>Le théâtre représente un salon magnifique.</stage>
+<stage type="decor">Le théâtre représente un salon magnifique.</stage>
 <div2 type="scene" n='1'><head>SCÈNE I.</head>
 <sp who='LE BARON'><speaker>LE BARON, seul, en robe de chambre, couché sur un lit de repos.</speaker>
-<stage>Il chante.</stage>
+<stage type="sing">Il chante.</stage>
 <note type="C">Le début de cette pièce commnce de la même manière que "La Nuit des Rois" de Shakespeare.</note>
 	<l id="1">Ah que je m'ennuie</l>
 	<l id="2">Je n'ai point encore eu de plaisir ce matin.</l>
-<stage>Il se lève, et se regarde au miroir.</stage>
+<stage type="action/look">Il se lève, et se regarde au miroir.</stage>
 	<l id="3">On m'assure pourtant que les jours de ma vie</l>
 	<l id="4">Doivent couler, couler sans ombre de chagrin.</l>
 	<l id="5">Je prétends qu'on me réjouisse</l>
@@ -75,7 +75,7 @@
 <sp who="LE BARON"><speaker>LE BARON.</speaker>
 	<l id="12">Ah que je m'ennuie !</l>
 	<l id="13">Je n'ai point encore eu de plaisir ce matin.</l>
-<stage>On habille monseigneur.</stage>
+<stage type="action">On habille monseigneur.</stage>
 </sp>
 <sp who="LE CONSEILLER"><speaker>LE CONSEILLER.</speaker>
 	<l id="14">C'est aujourd'hui le jour où le ciel a fait naître</l>
@@ -216,7 +216,7 @@
 <sp who="IRÈNE"><speaker>IRÈNE.</speaker>
 	<l id="93">Alors, seigneur, alors, à vos vertus rendue,</l>
 	<l id="94">Je reprendrai pour vous la voix que j'ai perdue.</l>
-<stage>Elle chante.</stage>
+<stage type="sing">Elle chante.</stage>
 	<l id="95">Pour jamais je vous chérirai ;</l>
 	<l id="96">De tout mon coeur je chanterai :</l>
 	<l id="97">Amant charmant, aimez toujours Irène :</l>
@@ -232,7 +232,7 @@
 	<l id="105">Dans mon âme ravie.</l>
 	<l id="106">Non, je ne m'ennuierai jamais ;</l>
 	<l id="107">J'aimerai toute ma vie.</l>
-<stage>On entend une grande rumeur et des cris.</stage>
+<stage type="noise">On entend une grande rumeur et des cris.</stage>
 </sp>
 <sp who="IRÈNE"><speaker>IRÈNE.</speaker>
 	<l id="108" part='i'>Ô ciel quels cris affreux !</l>
@@ -309,7 +309,7 @@
 	<l id="132">Non amazzar,</l>
 	<l id="133">No, no, non amazzar.</l>
 	<l id="134">Basta, basta tout saccagear</l>
-<stage>Pendant qu'ils chantent, les Turcs enchantent tous les hommes avec une longue corde qui fait le tour de la troupe, et dont un Levantis tient le bout.</stage>
+<stage type="sing/action">Pendant qu'ils chantent, les Turcs enchantent tous les hommes avec une longue corde qui fait le tour de la troupe, et dont un Levantis tient le bout.</stage>
 	<l id="135">Ma non amazzar,</l>
 	<l id="136">Incatenar,</l>
 	<l id="137">Bever, violar,</l>
@@ -412,7 +412,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='1'><head>SCÈNE I.. Irène, La Gouvernante, Abdalla arrive au son d'une musique turque, un mouchoir à la main ; les demoiselles u château d'Otrante forment un cercle autour de lui.</head>
-<stage>Les Levantis arrivent, donnant chacun la main à une personne.</stage>
+<stage type="entrance">Les Levantis arrivent, donnant chacun la main à une personne.</stage>
 <sp who='ABDALLA'><speaker>ABDALLA, chante.</speaker>
 	<l id="204">Su, su, Zitelle tenere</l>
 	<l id="205">La mia spada fa tremar.</l>
@@ -433,12 +433,12 @@
 	<l id="218">Naquit dans le sein des eaux</l>
 	<l id="219">Pour orner notre corsaire</l>
 	<l id="220">De ses présents les plus beaux.</l>
-<stage>Elle parle.</stage>
+<stage type="speak">Elle parle.</stage>
 	<l id="221">Votre mouchoir fait la plus chère envie</l>
 	<l id="222">De ces beautés de notre baronnie ;</l>
 	<l id="223">Mais nul objet n'a droit de s'en flatter :</l>
 	<l id="224">On peut vous plaire, et non vous mériter.</l>
-<stage>Abdalla fume sur un canapé les dames passent en revue devant lui. Il fait des mines à chacune, et donne enfin le mouchoir à Irène.</stage>
+<stage type="action">Abdalla fume sur un canapé les dames passent en revue devant lui. Il fait des mines à chacune, et donne enfin le mouchoir à Irène.</stage>
 </sp>
 <sp who="ABDALLA"><speaker>ABDALLA.</speaker>
 	<l id="225">Pigliate voi il fazzoletto,</l>
@@ -447,10 +447,10 @@
 	<l id="228">Men leggiadre, e meno belle,</l>
 	<l id="229">Aspettino per un' altra volta</l>
 	<l id="230">La mia sobrana volontà.</l>
-<stage>Il fait asseoir Irène à côté de lui.</stage>
+<stage type="action/sit">Il fait asseoir Irène à côté de lui.</stage>
 	<l id="231">Al mio canto Irena stia</l>
 	<l id="232">E tutte le altre via, via.</l>
-<stage>Elles s'en vont toutes, on lui faisant la révérence.</stage>
+<stage type="exit">Elles s'en vont toutes, on lui faisant la révérence.</stage>
 	<l id="233">Bene, bene, sarà per un' altra volta,</l>
 	<l id="234">Un' altra volta.</l>
 </sp>
@@ -460,7 +460,7 @@
 	<l id="235">Cara Irena, adesso,</l>
 	<l id="236">Sedete appresso di me.</l>
 	<l id="237">Amor mi punge e mi consume.</l>
-<stage>Il la fait asseoir plus près.</stage>
+<stage type="action/sit">Il la fait asseoir plus près.</stage>
 	<l id="238">Più appresso, più appresso.</l>
 </sp>
 <sp who='IRÈNE'><speaker>IRÈNE, à côté d'Abdalla, sur le canapé.</speaker>
@@ -511,12 +511,12 @@
 	<s id='2'>Le stalle sono puzzolente ; bisognerà più d'un fiasco d'acqua nanfa per nettarla. </s>
 	<s id='3'>Or su andate a vostro piacere, lo concedo andate, cara, e ritornate.</s>
 </p>
-<stage>Irène sort.</stage>
+<stage type="exit">Irène sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE IV.</head>
 <sp who='ABDALLA'><speaker>ABDALLA, chante.</speaker>
-<stage>En se frappant le front.</stage>
+<stage type="hit">En se frappant le front.</stage>
 	<l id="263">Ogni fanciulla tien là</l>
 	<l id="264">Qualche fantasia,</l>
 	<l id="265">Somigliante alla pazzia.</l>
@@ -531,7 +531,7 @@
 </div1>
 <div1 type="act" n='3'><head>ACTE III</head>
 <div2 type="scene" n='1'><head>SCÈNE I. Irène, La Baron, en souquenille, une étrille à la main.</head>
-<stage>Le théâtre représente un coin d'écurie.</stage>
+<stage type="decor">Le théâtre représente un coin d'écurie.</stage>
 <sp who='IRÈNE'><speaker>IRÈNE, chante.</speaker>
 	<l id="272">Oui, oui, je dois tout espérer ;</l>
 	<l id="273">Tout est prêt pour vous délivrer.</l>
@@ -556,7 +556,7 @@
 	<l id="288">Rien ne peut nous humilier ;</l>
 	<l id="289">Et quand mon tendre amant devient un muletier,</l>
 	<l id="290">Je l'en aime encor davantage.</l>
-<stage>Elle répète.</stage>
+<stage type="repeat">Elle répète.</stage>
 	<l id="291">Et quand mon tendre amant devient un muletier,</l>
 	<l id="292">Je l'en aime encor davantage.</l>
 </sp>
@@ -564,7 +564,7 @@
 	<l id="293">Il faut donc mériter un si parfait amour :</l>
 	<l id="294">Ainsi que mon destin je change en un seul jour ;</l>
 	<l id="295">Irène et mes malheurs éveillent mon courage.</l>
-<stage>À ses vassaux, qui paraissent en armes.</stage>
+<stage type="toward">À ses vassaux, qui paraissent en armes.</stage>
 	<l id="296">Amis, le fer en main, frayons-nous un passage</l>
 	<l id="297">Dans nos propres foyers ravis par ces brigands.</l>
 	<l id="298">Enchaînons, à leur tour, ces vainqueurs insolents</l>
@@ -579,7 +579,7 @@
 	<l id="307">Tous les bons citoyens au secours de leur maître :</l>
 	<l id="308">Frappez, percez, tuez, jetez par la fenêtre,</l>
 	<l id="309">Quiconque à ma valeur osera résister.</l>
-<stage>À Irène.</stage>
+<stage type="toward">À Irène.</stage>
 	<l id="310">Déesse de mon coeur, c'est trop vous arrêter :</l>
 	<l id="311">Allez à ce festin que le vainqueur prépare.</l>
 	<l id="312">Je lui destine un plat qu'il pourra trouver rare ;</l>
@@ -595,7 +595,7 @@
 	<l id="320">En buvant avec lui, je bois avec vous-même ;</l>
 	<l id="321">En acceptant son coeur je vous donne le mien :</l>
 	<l id="322">Il faut un petit mal souvent pour un grand bien.</l>
-<stage>Elle sort.</stage>
+<stage type="exit">Elle sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II.</head>
@@ -611,7 +611,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Abdalla, Irène, seuls à table, sans domestiques.</head> 
-<stage>Le théâtre représente une jolie salle à manger.</stage>
+<stage type="decor">Le théâtre représente une jolie salle à manger.</stage>
 <sp who='IRÈNE'><speaker>IRÈNE, un verre en main, chante.</speaker>
 	<l id="331">Ah quel plaisir</l>
 	<l id="332">De boire avec son corsaire !</l>
@@ -638,7 +638,7 @@
 	<l id="349">Si, si, brindisi a te,</l>
 	<l id="350">Amate, bevete, ridete.</l>
 	<l id="351">Si, si, brindisi a te, etc.</l>
-<stage>Ils dansent ensemble, le verre à la main, en chantant.</stage>
+<stage type="danse/sing">Ils dansent ensemble, le verre à la main, en chantant.</stage>
 	<l id="352">Si, si, brindisi a te, etc.</l>
 </sp>
 </div2>
@@ -666,7 +666,7 @@
 	<l id="362">Je te rends ton vaisseau ; va, pars en diligence :</l>
 	<l id="363">Laisse-moi la beauté qui nous a tous sauvés,</l>
 	<l id="364">Et rembarque avec toi mes conseillers privés.</l>
-<stage>Il chante.</stage>
+<stage type="sing">Il chante.</stage>
 	<l id="365">Je jure... Je jure d'obéir</l>
 	<l id="366">Pour jamais à ma belle Irène.</l>
 	<l id="367">Peuples heureux, dont elle est souveraine,</l>

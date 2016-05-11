@@ -281,7 +281,7 @@
 <p id='10'>
 	<s id='1'>C'est fort bien fait, Monsieur. </s>
 </p>
-<stage>À Apollon.</stage>
+<stage type="toward">À Apollon.</stage>
 <p id='11'>
 	<s id='1'>Votre ami a l'air bien épais.</s>
 </p>
@@ -326,7 +326,7 @@
 	<s id='1'>Oh ! </s>
 	<s id='2'>Ce n'est pas de même ; je ne m'appelle pas Ergaste, moi ; j'ai nom Richard, et je suis bien nommé ; en voici la preuve.</s>
 </p>
-<stage>Il lui donne une bourse.</stage>
+<stage type="[N/A]">Il lui donne une bourse.</stage>
 </sp>
 <sp who='SPINETTE'><speaker>SPINETTE.</speaker>
 <p id='5'>
@@ -349,7 +349,7 @@
 <p id='8'>
 	<s id='1'>Voilà pour le doute qui te prend.</s>
 </p>
-<stage>Il lui donne une bague.</stage>
+<stage type="[N/A]">Il lui donne une bague.</stage>
 </sp>
 <sp who='SPINETTE'><speaker>SPINETTE.</speaker>
 <p id='9'>
@@ -365,7 +365,7 @@
 <p id='11'>
 	<s id='1'>Quel homme est-ce donc que cela ? </s>
 </p>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 <p id='12'>
 	<s id='1'>Monsieur, vous demandez, à être de mes amis ; comment l'entendez-vous ? </s>
 	<s id='2'>Est-ce amourette que vous voulez dire ? </s>
@@ -417,7 +417,7 @@
 	<s id='1'>Oh ! </s>
 	<s id='2'>Quel homme ! </s>
 </p>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 <p id='21'>
 	<s id='1'>Oh ça, est-ce que vous voudriez épouser ma maîtresse ?</s>
 </p>
@@ -721,7 +721,7 @@
 	<s id='3'>Voyez de quoi il s'agit : Monsieur est ami du seigneur Ergaste ; ils viennent d'arriver ensemble. </s>
 	<s id='4'>Monsieur Ergaste est au logis, je vous laisse. </s>
 </p>
-<stage>Elle s'en va.</stage>
+<stage type="exit">Elle s'en va.</stage>
 </sp>
 <sp who='PLUTUS'><speaker>PLUTUS.</speaker>
 <p id='11'>
@@ -1353,12 +1353,12 @@
 <p id='18'>
 	<s id='1'>Mais vous m'accablez. </s>
 </p>
-<stage>À part.</stage>
+<stage type="aparte">À part.</stage>
 <p id='19'>
 	<s id='1'>Je veux mourir si je suis la maîtresse de dire non. </s>
 	<s id='2'>Il y a dans ses manières je ne sais quoi d'engageant qui vous entraîne. </s>
 </p>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 <p id='20'>
 	<s id='1'>Il est plusieurs sortes de mérites, et vous avez le vôtre, Monsieur ; mais que deviendrait Ergaste ?</s>
 </p>
@@ -1434,8 +1434,8 @@
 </div2>
 <div2 type="scene" n='12'><head>SCÈNE XII. Plutus, Armidas, Spinette, Aminte, Apollon, chanteurs et danseurs.</head>
 <sp who='CHANTEURS'><speaker>CHANTEURS</speaker>
-<stage>On danse.</stage>
-<stage>Air</stage>
+<stage type="danse">On danse.</stage>
+<stage type="music">Air</stage>
       <l id='1'>Dieu des amants, ne crains plus désormais</l>
       <l id='2'>Qu'on puisse échapper à tes armes ;</l>
       <l id='3'>Je vois dans ce séjour un objet plein de charmes,</l>
@@ -1444,7 +1444,7 @@
       <l id='6'>Tu vas devoir à ses beaux yeux !</l>
       <l id='7'>On ne verra plus en ces lieux</l>
       <l id='8'>D'indifférents ni de volages.</l>
-<stage>On danse.</stage>
+<stage type="danse">On danse.</stage>
 </sp>
 <sp who='APOLLON'><speaker>APOLLON.</speaker>
 <p id='1'>
@@ -1681,11 +1681,11 @@
 <p id='2'>
 	<s id='1'>J'y vais.</s>
 </p>
-<stage>À Apollon.</stage>
+<stage type="toward">À Apollon.</stage>
 <p id='3'>
 	<s id='1'>Votre valet très humble. </s>
 </p>
-<stage>Il s'en va.</stage>
+<stage type="exit">Il s'en va.</stage>
 </sp>
 <sp who='APOLLON'><speaker>APOLLON.</speaker>
 <p id='4'>
@@ -1876,7 +1876,7 @@
 <p id='4'>
 	<s id='1'>Il ne manquait plus que ce trait pour achever ma défaite ; et me voilà pleinement convaincu que l'or est l'unique divinité à qui les hommes sacrifient.</s>
 </p>
-<stage>On frappe.</stage>
+<stage type="[N/A]">On frappe.</stage>
 </sp>
 <sp who='SPINETTE'><speaker>SPINETTE.</speaker>
 <p id='5'>
@@ -1929,7 +1929,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='19'><head>Divertissement.</head>
-<stage>Air</stage>
+<stage type="music">Air</stage>
 <sp who='SUIVANT-DE-PLUTUS'><speaker>UN SUIVANT DE PLUTUS.</speaker>
       <l id='9'>Dieu des trésors, quelle est ta gloire !</l>
       <l id='10'>Tout l'Univers encense tes autels.</l>
@@ -1940,9 +1940,9 @@
       <l id='15'>Il s'arrête à ta voix ;</l>
       <l id='16'>Et si l'amour règne encore sur la terre,</l>
       <l id='17'>Il doit à ton secours sa gloire et ses exploits.</l>
-<stage>On danse.</stage>
-<stage>Reprise : "Que le dieu..."</stage>
-<stage>Air</stage>
+<stage type="danse">On danse.</stage>
+<stage type="[N/A]">Reprise : "Que le dieu..."</stage>
+<stage type="music">Air</stage>
 </sp>
 <sp who='SUIVANTE-DE-PLUTUS'><speaker>UNE SUIVANTE DE PLUTUS.</speaker>
       <l id='18'>Pour le dieu de la richesse,</l>
@@ -1961,8 +1961,8 @@
       <l id='31'>Tout fléchit même dans les Cieux ;</l>
       <l id='32'>Il entraîne</l>
       <l id='33'>Les suffrages de tous les dieux.</l>
-<stage>Reprise : Il entraîne...</stage>
-<stage>Vaudeville</stage>
+<stage type="[N/A]">Reprise : Il entraîne...</stage>
+<stage type="[N/A]">Vaudeville</stage>
 </sp>
 <sp who='CHANTEUR'><speaker>LE CHANTEUR.</speaker>
       <l id='34'>N'attendez pas ici qu'on vous révère</l>
@@ -1980,7 +1980,7 @@
       <l id='46'>Tout réussit ;</l>
       <l id='47'>Veut-on charge, honneurs ou crédit,</l>
       <l id='48'>Un jour en fait l'affaire.</l>
-<stage>Reprise : Tout ce qu'on dit...</stage>
+<stage type="[N/A]">Reprise : Tout ce qu'on dit...</stage>
 </sp>
 <sp who='APOLLON'><speaker>APOLLON.</speaker>
       <l id='49'>Dans ce séjour on met tout à l'enchère,</l>

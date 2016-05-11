@@ -205,7 +205,7 @@
 <p id='21'>
 	<s id='1'>Frontin ! Frontin !...</s>
 </p>
-<stage>Frontin paraît.</stage>
+<stage type="[N/A]">Frontin paraît.</stage>
 <p id='22'>
 	<s id='1'>Vous laisserez entrer le monde ordinaire. </s>
 	<s id='2'>Je voudrais cependant éviter la cohue. </s>
@@ -273,7 +273,7 @@
 	<s id='2'>Ah, ah, ah, ah ! </s>
 	<s id='3'>Vous allez en juger, Ariste. </s>
 </p>
-<stage>Au poète.</stage>
+<stage type="toward">Au poète.</stage>
 <p id='33'>
 	<s id='1'>Eh ! </s>
 	<s id='2'>De grâce, monsieur du Volcan, un moment de trêve à vos réflexions.</s>
@@ -556,7 +556,7 @@
 	<s id='2'>Nous sommes perdus ! </s>
 	<s id='3'>Elle est dans son jour d'érudition. </s>
 </p>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 <p id='5'>
 	<s id='1'>Des infiniment petits, Madame !</s>
 </p>
@@ -681,12 +681,12 @@
 <p id='3'>
 	<s id='1'>Mais, peut-être, ai-je commis une indiscrétion ? Vous pouviez être en affaire, et je suis désespéré quand je dérange.</s>
 </p>
-<stage>À Ariste.</stage>
+<stage type="toward">À Ariste.</stage>
 <p id='4'>
 	<s id='1'>N'admirez-vous pas l'émail de cette boîte, Monsieur, les facettes de ce diamant ? </s>
 	<s id='2'>Je crois cependant m'apercevoir qu'il est un peu louche.</s>
 </p>
-<stage>À Orphise.</stage>
+<stage type="toward">À Orphise.</stage>
 <p id='5'>
 	<s id='1'>Qui est cet homme-là ?</s>
 </p>
@@ -739,7 +739,7 @@
 	<s id='5'>C'est un organe dont on ne se fait point d'idée, et l'instrument le plus mélodieux, le plus enchanteur que je connaisse. </s>
 	<s id='6'>Nous ne sommes arrangés que d'hier au soir ; elle sera, du souper, Monsieur ; vous voudrez bien en être aussi, Madame.</s>
 </p>
-<stage>En baillant.</stage>
+<stage type="[N/A]">En baillant.</stage>
 <p id='12'>
 	<s id='1'>Convenez que nous nous amuserons prodigieusement.</s>
 </p>
@@ -758,7 +758,7 @@
 	<s id='3'>De son aveu, Marcel n'a pas fait de meilleur élève que moi. </s>
 	<s id='4'>Un bal !</s>
 </p>
-<stage>Il bat un entrechat.</stage>
+<stage type="[N/A]">Il bat un entrechat.</stage>
 <note type="L">Duchapt : marchande de modes très connue. [note ed. 1809]</note>
 <p id='15'>
 	<s id='1'>Vous m'y verrez, Madame, sous un déguisement d'une espèce neuve, dont l'idée m'appartient, et qui, le carnaval dernier, me réussit à faire envie. </s>
@@ -1015,7 +1015,7 @@
 	<s id='1'>Non, Monsieur, non. </s>
 	<s id='2'>Je ne compromettrai pas ainsi l'honneur de la philosophie ; et puisque vous n'avez rien de mieux à me conseiller, je vais m'égayer dans quelque brochure nouvelle, aux dépens de la Nation, de la Noblesse et de l'Académie royale de musique.</s>
 </p>
-<stage>Il sort en chantant.</stage>
+<stage type="exit">Il sort en chantant.</stage>
 	<l id='1'>Quand on sait aimer et plaire, </l>
 	<l id='2'>A-t-on besoin d'autre bien ?</l>
 </sp>
@@ -1169,7 +1169,7 @@
 	<s id='1'>Oh ! </s>
 	<s id='2'>Je vous réponds qu'il y en a une très grande pour le malade et pour le médecin.</s>
 </p>
-<stage>Montrant Lucinde.</stage>
+<stage type="[N/A]">Montrant Lucinde.</stage>
 <p id='16'>
 	<s id='1'>Mais Mademoiselle pourra vous faire juger de la différence. </s>
 	<s id='2'>Cet air abattu, ce négligé annoncent sûrement quelque indisposition.</s>
@@ -1196,7 +1196,7 @@
 <p id='20'>
 	<s id='1'>C'est son estomac dont elle se plaint.</s>
 </p>
-<stage>Bas à Lucinde.</stage>
+<stage type="[N/A]">Bas à Lucinde.</stage>
 <p id='21'>
 	<s id='1'>Prêtez-vous donc à sa manie.</s>
 </p>
@@ -1302,7 +1302,7 @@
 <p id='38'>
 	<s id='1'>Ceci deviendrait sérieux : voyons donc.</s>
 </p>
-<stage>Il lui tâte le pouls.</stage>
+<stage type="[N/A]">Il lui tâte le pouls.</stage>
 <p id='39'>
 	<s id='1'>Oh ! </s>
 	<s id='2'>Oh ! </s>
@@ -1340,11 +1340,11 @@
 <p id='44'>
 	<s id='1'>Tout bien pesé, je croirais à propos qu'elle se fît éventer la veine.</s>
 </p>
-<stage>À Lucinde.</stage>
+<stage type="toward">À Lucinde.</stage>
  <p id='45'>
 	<s id='1'>N'auriez-vous pas ceci météorise ? </s>
 </p>
-<stage>Il approche sa main, en minaudant, sous l'estomac de Lucinde.</stage>
+<stage type="[N/A]">Il approche sa main, en minaudant, sous l'estomac de Lucinde.</stage>
 </sp>
 <sp who='LUCINDE'><speaker>LUCINDE.</speaker>
 <p id='46'>
@@ -1393,7 +1393,7 @@
 	<s id='1'>J'avoue que je l'ai un peu tirée au juger. </s>
 	<s id='2'>Il y a cependant beaucoup de vraisemblance que ce sont des vapeurs.</s>
 </p>
-<stage>Il regarde sa montre.</stage> 
+<stage type="[N/A]">Il regarde sa montre.</stage> 
 <p id='54'>
 	<s id='1'>Comment ? </s>
 	<s id='2'>Déjà six heures ! </s>
@@ -1465,7 +1465,7 @@
 <p id='8'>
 	<s id='1'>Vous voyez, Madame, qu'elle ne peut supporter ma présence ; c'est un témoin qui l'accuse, et une confusion que je veux bien encore lui épargner.</s>
 </p>
-<stage>Il veut sortir.</stage>
+<stage type="[N/A]">Il veut sortir.</stage>
 </sp>
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
 <p id='9'>
@@ -1575,7 +1575,7 @@
 	<s id='2'>Ah ! </s>
 	<s id='3'>Belle Lucinde, comment pourrai-je expier mon injustice ? </s>
 </p>
-<stage>Il tombe à ses genoux.</stage>
+<stage type="action/fall">Il tombe à ses genoux.</stage>
 </sp>
 <sp who='LUCINDE'><speaker>LUCINDE.</speaker>
 <p id='25'>

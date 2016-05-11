@@ -221,7 +221,7 @@
 	<note>Les habits des acteurs doivent être dans l'ancien costume espagnol.</note>
 <body>
 <div1 type="act" n='1'><head>ACTE I</head>
-<stage>Le théâtre représente une rue de Séville, où toutes les croisées sont grillées.</stage>
+<stage type="decor">Le théâtre représente une rue de Séville, où toutes les croisées sont grillées.</stage>
 <div2 type="scene" n='1'><head>SCÈNE I.</head>
 <sp who='LE-COMTE'><speaker>LE COMTE, seul, en grand manteau brun et chapeau rabattu. Il tire sa montre en se promenant.</speaker>
 <p id='1'>
@@ -268,13 +268,13 @@
 	<s id='3'>Mon Dieu, nos faiseurs d'opéras-comiques n'y regardent pas de si près. </s>
 	<s id='4'>Aujourd'hui, ce qui ne vaut pas la peine d'être dit, on le chante.</s>
 </p>
-<stage>Il chante.</stage>
+<stage type="sing">Il chante.</stage>
 	<l id='13'>Le vin et la paresse </l>
 	<l id='14'>Se partagent mon coeur. </l>
 <p id='4'>
 	<s id='1'>Je voudrais finir par quelque chose de beau, de brillant, de scintillant, qui eût l'air d'une pensée.</s>
 </p>
-<stage>Il met un genou en terre et écrit en chantant.</stage>
+<stage type="action/write">Il met un genou en terre et écrit en chantant.</stage>
 	<l id='15'>Se partagent mon coeur. </l>
 	<l id='16'>Si l'une a ma tendresse... </l>
 	<l id='17'>L'autre fait mon bonheur. </l>
@@ -294,7 +294,7 @@
 <p id='7'>
 	<s id='1'>Fort bien, Figaro !... </s>
 </p>
-<stage>Il écrit en chantant.</stage>
+<stage type="write/sing">Il écrit en chantant.</stage>
 	<l id='20'>Le vin et la paresse </l>
 	<l id='21'>Se partagent mon coeur ; </l>
 	<l id='22'>Si l'une est ma maîtresse, </l>
@@ -304,11 +304,11 @@
 <p id='8'>
 	<s id='1'>Hen, hen, quand il y aura des accompagnements là-dessous, nous verrons encore, messieurs de la cabale, si je ne sais ce que je dis...</s>
 </p>
-<stage>Il aperçoit le Comte.</stage>
+<stage type="[N/A]">Il aperçoit le Comte.</stage>
 <p id='9'>
 	<s id='1'>J'ai vu cet abbé-là quelque part.</s>
 </p>
-<stage>Il se relève.</stage>
+<stage type="[N/A]">Il se relève.</stage>
 </sp>
 <sp who='LE-COMTE'><speaker>LE COMTE, à part.</speaker>
 <p id='11'>
@@ -520,7 +520,7 @@
 </p>
 </sp>
 <sp who='FIGARO'><speaker>FIGARO.</speaker>
-<stage>Pendant sa réplique, le Comte regarde avec attention du côté de la jalousie.</stage>
+<stage type="[N/A]">Pendant sa réplique, le Comte regarde avec attention du côté de la jalousie.</stage>
 <p id='38'>
 	<s id='1'>En vérité, je ne sais comment je n'eus pas le plus grand succès, car j'avais rempli le parterre des plus excellents travailleurs ; des mains... comme des battoirs ; j'avais interdit les gants, les cannes, tout ce qui ne produit que des applaudissements sourds ; et d'honneur, avant la pièce, le café m'avait paru dans les meilleures dispositions pour moi. </s>
 	<s id='2'>Mais les efforts de la cabale...</s>
@@ -598,11 +598,11 @@
 	<s id='1'>Viens donc, malheureux ! </s>
 	<s id='2'>Tu me perds.</s>
 </p>
-<stage>Ils se cachent.</stage>
+<stage type="[N/A]">Ils se cachent.</stage>
  </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Bartholo, Rosine.</head>
-<stage>La jalousie du premier étage s'ouvre, et Bartholo et Rosine se mettent à la fenêtre.</stage>
+<stage type="[N/A]">La jalousie du premier étage s'ouvre, et Bartholo et Rosine se mettent à la fenêtre.</stage>
 <sp who='ROSINE'><speaker>ROSINE.</speaker>
 <p id='1'>
 	<s id='1'>Comme le grand air fait plaisir à respirer !... </s>
@@ -659,7 +659,7 @@
 </p>
 </sp>
 <sp who='ROSINE'><speaker>ROSINE.</speaker>
-<stage>Le papier lui échappe et tombe dans la rue.</stage>
+<stage type="[N/A]">Le papier lui échappe et tombe dans la rue.</stage>
 <p id='11'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Ma chanson ! </s>
@@ -671,17 +671,17 @@
 <p id='12'>
 	<s id='1'>Que diable aussi, l'on tient ce qu'on tient.</s>
 </p>
-<stage>Il quitte le balcon.</stage>
+<stage type="[N/A]">Il quitte le balcon.</stage>
 </sp>
 <sp who='ROSINE'><speaker>ROSINE, regarde en dedans et fait signe dans la rue. </speaker>
 <p id='13'>
 	<s id='1'>St, st ! </s>
 </p>
-<stage>Le Comte paraît.</stage>
+<stage type="[N/A]">Le Comte paraît.</stage>
 <p id='14'>
 	<s id='1'>Ramassez vite et sauvez-vous.</s>
 </p>
-<stage>Le Comte ne fait qu'un saut, ramasse le papier et rentre.</stage>
+<stage type="[N/A]">Le Comte ne fait qu'un saut, ramasse le papier et rentre.</stage>
 </sp>
 <sp who='BARTHOLO'><speaker>BARTHOLO, sort de la maison et cherche. </speaker>
 <p id='15'>
@@ -710,7 +710,7 @@
 	<s id='1'>Et moi qui ai la bonté de chercher !... </s>
 	<s id='2'>Bartholo, vous n'êtes qu'un sot, mon ami : ceci doit vous apprendre à ne jamais ouvrir de jalousies sur la rue.</s>
 </p>
- <stage>Il rentre.</stage>
+ <stage type="[N/A]">Il rentre.</stage>
 </sp>
 <sp who='ROSINE'><speaker>ROSINE, toujours au balcon.</speaker>
 <p id='20'>
@@ -721,11 +721,11 @@
 <p id='21'>
 	<s id='1'>Rentrez, signora ; c'est ma faute si vous avez perdu votre chanson ; mais ce malheur ne vous arrivera plus, je vous jure.</s>
 </p>
-<stage>Il ferme la jalousie à la clef.</stage>
+<stage type="[N/A]">Il ferme la jalousie à la clef.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Le Comte, Figaro.</head>
-<stage>Ils entrent avec précaution.</stage>
+<stage type="entrance">Ils entrent avec précaution.</stage>
 <sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
 <p id='1'>
 	<s id='1'>À présent qu'ils sont retirés, examinons cette chanson, dans laquelle un mystère est sûrement renfermé. </s>
@@ -746,7 +746,7 @@
 <p id='4'>
 	<s id='1'>Ma chanson, ma chanson est tombée ; courez, courez donc ! </s>
 </p>
-<stage>Il rit.</stage>
+<stage type="laugh">Il rit.</stage>
 <p id='5'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Ah ! </s>
@@ -1070,7 +1070,7 @@
 <p id='51'>
 	<s id='1'>Tu te moques de moi.</s>
 </p>
-<stage>Prenant un ton ivre.</stage>
+<stage type="[N/A]">Prenant un ton ivre.</stage>
 <p id='52'>
 	<s id='1'>N'est-ce point ici la maison du docteur Bartholo, mon ami ?</s>
 </p>
@@ -1135,7 +1135,7 @@
 <p id='4'>
 	<s id='1'>Un pauvre hère qui montre la musique à sa pupille, infatué de son art, friponneau, besogneux, à genoux devant un écu, et dont il sera facile de venir à bout, Monseigneur...</s>
 </p>
-<stage>Regardant à la jalousie.</stage>
+<stage type="[N/A]">Regardant à la jalousie.</stage>
 <p id='5'>
 	<s id='1'>La v'là, la v'là.</s>
 </p>
@@ -1168,7 +1168,7 @@
 <p id='10'>
 	<s id='1'>Puisque j'ai commencé à l'intéresser sans être connu d'elle, ne quittons point le nom de Lindor que j'ai pris ; mon triomphe en aura plus de charmes.</s>
 </p>
-<stage>Il déploie le papier que Rosine a jeté.</stage>
+<stage type="[N/A]">Il déploie le papier que Rosine a jeté.</stage>
 <p id='11'>
 	<s id='1'>Mais comment chanter sur cette musique ? </s>
 	<s id='2'>Je ne sais pas faire de vers, moi.</s>
@@ -1193,11 +1193,11 @@
 	<s id='3'>Chanter sans guitare à Séville ! </s>
 	<s id='4'>Vous seriez bientôt reconnu, ma foi, bientôt dépisté.</s>
 </p>
-<stage>Figaro se colle au mur sous le balcon.</stage> 
+<stage type="[N/A]">Figaro se colle au mur sous le balcon.</stage> 
 </sp>
 <sp who='LE-COMTE'><speaker>LE COMTE, chante en se promenant et s'accompagnant sur sa guitare. </speaker>
-<stage>(N° 2.) </stage>
-<stage>Premier Couplet.</stage>
+<stage type="[N/A]">(N° 2.) </stage>
+<stage type="[N/A]">Premier Couplet.</stage>
 	<l id='26'>Vous l'ordonnez, je me ferai connaître ; </l>
 	<l id='27'>Plus inconnu, j'osais vous adorer : </l>
 	<l id='28'>En me nommant, que pourrais-je espérer ? </l>
@@ -1210,7 +1210,7 @@
 </p>
 </sp>
 <sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
-<stage>Deuxième Couplet.</stage>
+<stage type="[N/A]">Deuxième Couplet.</stage>
 	<l id='30'>Je suis Lindor, ma naissance est commune, </l>
 	<l id='31'>Mes voeux sont ceux d'un simple bachelier : </l>
 	<l id='32'>Que n'ai-je, hélas ! d'un brillant chevalier </l>
@@ -1223,7 +1223,7 @@
 </p>
 </sp>
 <sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
-<stage>Troisième Couplet.</stage>
+<stage type="[N/A]">Troisième Couplet.</stage>
 	<l id='34'>Tous les matins, ici, d'une voix tendre, </l>
 	<l id='35'>Je chanterai mon amour sans espoir ; </l>
 	<l id='36'>Je bornerai mes plaisirs à vous voir ; </l>
@@ -1234,7 +1234,7 @@
 	<s id='1'>Oh ! </s>
 	<s id='2'>Ma foi, pour celui-ci !...</s>
 </p>
- <stage>Il s'approche, et baise le bas de l'habit de son maître.</stage>
+ <stage type="[N/A]">Il s'approche, et baise le bas de l'habit de son maître.</stage>
 </sp>
 <sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
 <p id='18'>
@@ -1252,10 +1252,10 @@
 </p>
 </sp>
 <sp who='ROSINE'><speaker>ROSINE, en dedans, chante.</speaker>
-<stage>Air : du Maître en droit.</stage>
+<stage type="music">Air : du Maître en droit.</stage>
 	<l id='38'>Tout me dit que Lindor est charmant, </l>
 	<l id='39'>Que je dois l'aimer constamment... </l>
-<stage>On entend une croisée qui se ferme avec bruit.</stage>
+<stage type="noise">On entend une croisée qui se ferme avec bruit.</stage>
 </sp>
 <sp who='FIGARO'><speaker>FIGARO.</speaker>
 <p id='21'>
@@ -1370,7 +1370,7 @@
 	<s id='1'>J'oublie ma guitare, moi ! </s>
 	<s id='2'>Je suis donc fou !</s>
 </p>
-<stage>Il s'en va.</stage>
+<stage type="exit">Il s'en va.</stage>
 </sp>
 <sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
 <p id='42'>
@@ -1383,12 +1383,12 @@
 	<s id='2'>Réellement je suis frappé ! </s>
 	<s id='3'>Ma boutique à quatre pas d'ici, peinte en bleu, vitrage en plomb, trois palettes en l'air, l'oeil dans la main, Consilio manuque, FIGARO.</s>
 </p>
-<stage>Il s'enfuit. </stage>
+<stage type="[N/A]">Il s'enfuit. </stage>
 </sp>
 </div2>
 </div1>
 <div1 type="act" n='2'><head>ACTE II</head>
-<stage>Le théâtre représente l'appartement de Rosine, La croisée dans le fond du théâtre est fermée par une jalousie grillée. </stage>
+<stage type="decor">Le théâtre représente l'appartement de Rosine, La croisée dans le fond du théâtre est fermée par une jalousie grillée. </stage>
 <div2 type="scene" n='1'><head>SCÈNE I.</head>
 <sp who='ROSINE'><speaker>ROSINE, seule, un bougeoir à la main. Elle prend du papier sur la table et se met à écrire. </speaker>
 <p id='1'>
@@ -1397,7 +1397,7 @@
 	<s id='3'>Ah ! </s>
 	<s id='4'>Lindor ! </s>
 </p>
-<stage>Elle cachette la lettre.</stage>
+<stage type="[N/A]">Elle cachette la lettre.</stage>
 <p id='2'> 
 	<s id='1'>Fermons toujours ma lettre, quoique j'ignore quand et comment je pourrai la lui faire tenir. </s>
 	<s id='2'>Je l'ai vu à travers ma jalousie parler longtemps au barbier Figaro. </s>
@@ -1462,7 +1462,7 @@
 <p id='8'>
 	<s id='1'>Fort bien.</s>
 </p>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 <p id='9'>
 	<s id='1'>Mais il a un grand défaut qui nuira toujours à son avancement.</s>
 </p>
@@ -1641,7 +1641,7 @@
 <p id='37'>
 	<s id='1'>Il nous perdrait ! </s>
 </p>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 <p id='38'>
 	<s id='1'>Si vous le lui défendiez expressément par une petite lettre... </s>
 	<s id='2'>Une lettre a bien du pouvoir. </s>
@@ -1652,7 +1652,7 @@
 	<s id='1'>Je n'ai pas le temps de recommencer celle-ci ; mais en la lui donnant, dites-lui... </s>
 	<s id='2'>Dites-lui bien... </s>
 </p>
-<stage>Elle écoute.</stage>
+<stage type="[N/A]">Elle écoute.</stage>
 </sp>
 <sp who='FIGARO'><speaker>FIGARO.</speaker>
 <p id='40'>
@@ -1696,11 +1696,11 @@
 <p id='46'>
 	<s id='1'>Soyez tranquille.</s>
 </p>
-<stage>À part, montrant la lettre.</stage>
+<stage type="aparte">À part, montrant la lettre.</stage>
 <p id='47'>
 	<s id='1'>Voici, qui vaut mieux que mes observations.</s>
 </p>
-<stage>Il entre dans le cabinet.</stage>
+<stage type="[N/A]">Il entre dans le cabinet.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III.</head> 
@@ -1712,7 +1712,7 @@
 	   <s id='4'>Ah ! </s>
 	   <s id='5'>Voilà mon tyran ; reprenons mon ouvrage.</s>
 </p>
-<stage>Elle souffle la bougie, s'assied, et prend une broderie au tambour.</stage>
+<stage type="[N/A]">Elle souffle la bougie, s'assied, et prend une broderie au tambour.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Bartholo, Rosine.</head>
@@ -1850,7 +1850,7 @@
 	<s id='2'>Oui, cet homme est entré chez moi ; je l'ai vu, je lui ai parlé. </s>
 	<s id='3'>Je ne vous cache pas même que je l'ai trouvé fort aimable ; et puissiez-vous en mourir de dépit !</s>
 </p>
-<stage>Elle sort.</stage>
+<stage type="exit">Elle sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V.</head>
@@ -1919,7 +1919,7 @@
 	<s id='1'>Voilà plus de cinquante... </s>
 	<s id='2'>Cinquante fois... dans un moment ! </s>
 </p>
-<stage>Il éternue.</stage>
+<stage type="[N/A]">Il éternue.</stage>
 <p id='4'>
 	<s id='1'>Je suis brisé.</s>
 </p>
@@ -1986,7 +1986,7 @@
 <p id='15'>
 	<s id='1'>Sors donc, pauvre homme de bien !</s>
 </p>
-<stage>Il les contrefait.</stage>
+<stage type="[N/A]">Il les contrefait.</stage>
 <p id='16'>
 	<s id='1'>Et t'chi et t'cha ; l'un m'éternue au nez, l'autre m'y bâille.</s>
 </p>
@@ -1997,7 +1997,7 @@
 	<s id='2'>Monsieur, je vous jure que, sans mademoiselle, il n'y aurait... </s>
 	<s id='3'>Il n'y aurait pas moyen de rester dans la maison.</s>
 </p>
-<stage>Il sort en éternuant.</stage>
+<stage type="exit">Il sort en éternuant.</stage>
 </sp>
 <sp who='BARTHOLO'><speaker>BARTHOLO.</speaker>
 <p id='18'>
@@ -2220,7 +2220,7 @@
 	<s id='1'>Le voici qui revient ; sortez donc par le petit escalier. </s>
 	<s id='2'>Vous me faites mourir de frayeur.</s>
 </p>
-<stage>Figaro s'enfuit.</stage>
+<stage type="[N/A]">Figaro s'enfuit.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='11'><head>SCÈNE XI. Bartholo, Rosine.</head>
@@ -2275,7 +2275,7 @@
 <p id='9'>
 	<s id='1'>Il n'en a pas manqué une seule.</s>
 </p>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 <p id='10'>	
 	<s id='1'>Vous mériteriez bien que cela fût.</s>
 </p>
@@ -2361,7 +2361,7 @@
 <p id='24'>
 	<s id='1'>Cet homme a un instinct de jalousie !...</s>
 </p>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 <p id='25'>
 	<s id='1'>Elle m'a servi à retracer une fleur effacée sur la veste que je vous brode au tambour.</s>
 </p>
@@ -2390,7 +2390,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='12'><head>SCÈNE XII. Le Comte, Bartholo, Rosine.</head>
-<stage>Le Comte, en uniforme de cavalerie, ayant l'air d'être entre deux vins et chantant : Réveillons-la, etc.</stage>
+<stage type="[N/A]">Le Comte, en uniforme de cavalerie, ayant l'air d'être entre deux vins et chantant : Réveillons-la, etc.</stage>
 <sp who='BARTHOLO'><speaker>BARTHOLO.</speaker>
 <p id='1'>
 	<s id='1'>Mais que nous veut cet homme ? </s>
@@ -2402,7 +2402,7 @@
 <p id='2'>
 	<s id='1'>Qui de vous deux, mesdames, se nomme le docteur Balordo ?</s>
 </p>
-<stage>À Rosine, bas.</stage>
+<stage type="toward">À Rosine, bas.</stage>
 <p id='3'>
 	<s id='1'>Je suis Lindor.</s>
 </p>
@@ -2422,7 +2422,7 @@
 	<s id='1'>Balordo, Barque à l'eau, je m'en moque comme de ça. </s>
 	<s id='2'>Il s'agit seulement de savoir laquelle des deux... </s>
 </p>
-<stage>À Rosine, lui montrant un papier.</stage>
+<stage type="toward">À Rosine, lui montrant un papier.</stage>
 <p id='7'>
 	<s id='1'>Prenez cette lettre.</s>
 </p>
@@ -2523,12 +2523,12 @@
 </p>
 </sp>
 <sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
-<stage>Air : Vive le vin. </stage>
-<stage>Sans chanter.</stage>
+<stage type="music">Air : Vive le vin. </stage>
+<stage type="[N/A]">Sans chanter.</stage>
 	<l id='43'>Non, docteur, je ne prétends pas </l>
 	<l id='44'>Que notre art obtienne le pas </l>
 	<l id='45'>Sur Hippocrate et sa brigade. </l>
-<stage>En chantant.</stage>
+<stage type="[N/A]">En chantant.</stage>
 	<l id='46'>Votre savoir, mon camarade, </l>
 	<l id='47'>Est d'un succès plus général, </l>
 	<l id='48'>Car s'il n'emporte point le mal, </l>
@@ -2608,7 +2608,7 @@
 <p id='1'>
 	<s id='1'>Monsieur le soldat, ne vous emportez point, de grâce ! </s>
 </p>
-<stage>À Bartholo.</stage>
+<stage type="toward">À Bartholo.</stage>
 <p id='2'>
 	<s id='1'>Parlez-lui doucement, monsieur : un homme qui déraisonne...</s>
 </p>
@@ -2657,7 +2657,7 @@
 <p id='10'>
 	<s id='1'>Voyons.</s>
 </p>
-<stage>Le Comte cache la lettre et lui donne un autre papier. Bartholo lit.</stage>
+<stage type="[N/A]">Le Comte cache la lettre et lui donne un autre papier. Bartholo lit.</stage>
 <p id='11'>
 	<s id='1'>"Le docteur Bartholo recevra, nourrira, hébergera, couchera... </s>
 </p>
@@ -2714,7 +2714,7 @@
 <p id='18'>
 	<s id='1'>J'ai pensé me trahir.</s>
 </p>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 <p id='19'>
 	<s id='1'>Décamper ! </s>
 	<s id='2'>Si vous êtes exempt des gens de guerre, vous n'êtes pas exempt de politesse, peut-être ? </s>
@@ -2753,7 +2753,7 @@
 <p id='25'>
 	<s id='1'>Tirez votre mouchoir, je la laisserai tomber.</s>
 </p>
- <stage>Il s'approche.</stage>
+ <stage type="[N/A]">Il s'approche.</stage>
 </sp>
 <sp who='BARTHOLO'><speaker>BARTHOLO.</speaker>
 <p id='26'>
@@ -2798,7 +2798,7 @@
 	<s id='3'>Volontiers, bataille ! </s>
 	<s id='4'>C'est mon métier, à moi, et voici de quoi leur jeter de la poudre aux yeux. </s>
 </p>
-<stage>Montrant son pistolet de ceinture.</stage>
+<stage type="[N/A]">Montrant son pistolet de ceinture.</stage>
 <p id='34'>
 	<s id='1'>Vous n'avez peut-être jamais vu de bataille, madame ?</s>
 </p>
@@ -2812,19 +2812,19 @@
 <p id='36'>
 	<s id='1'>Rien n'est pourtant aussi gai que bataille. </s>
 </p>
-<stage>Poussant le docteur.</stage>
+<stage type="[N/A]">Poussant le docteur.</stage>
 <p id='37'>
 	<s id='1'>Figurez-vous d'abord que l'ennemi est d'un côté du ravin, et les amis de l'autre.</s>
 </p>
-<stage>À Rosine en lui montrant la lettre.</stage>
+<stage type="toward">À Rosine en lui montrant la lettre.</stage>
 <p id='38'>
 	<s id='1'>Sortez le mouchoir. </s>
 </p>
-<stage>Il crache à terre.</stage>
+<stage type="[N/A]">Il crache à terre.</stage>
 <p id='39'>
 	<s id='1'>Voilà le ravin, cela s'entend. </s>
 </p>
-<stage>Rosine tire son mouchoir ; le Comte laisse tomber sa lettre entre elle et lui.</stage>
+<stage type="[N/A]">Rosine tire son mouchoir ; le Comte laisse tomber sa lettre entre elle et lui.</stage>
 </sp>
 <sp who='BARTHOLO'><speaker>BARTHOLO, se baissant. </speaker>
 <p id='40'>
@@ -2857,7 +2857,7 @@
 	<s id='1'>Ah ! </s>
 	<s id='2'>Je sais ce que c'est, monsieur le soldat.</s>
 </p>
-<stage>Elle prend la lettre, qu'elle cache dans la petite poche de son tablier.</stage>
+<stage type="[N/A]">Elle prend la lettre, qu'elle cache dans la petite poche de son tablier.</stage>
 </sp>
 <sp who='BARTHOLO'><speaker>BARTHOLO.</speaker>
 <p id='45'>
@@ -2883,7 +2883,7 @@
 	<s id='2'>Ah, docteur ! </s>
 	<s id='3'>Vous faites tant de choses pour elle, qu'elle n'a rien à vous refuser.</s>
 </p>
-<stage>Il sort.</stage>
+<stage type="exit">Il sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='15'><head>SCÈNE XV. Bartholo, Rosine.</head>
@@ -2891,7 +2891,7 @@
 <p id='1'>
 	<s id='1'>Il est enfin parti, </s>
 </p>
-<stage>À part.</stage>
+<stage type="aparte">À part.</stage>
 <p id='2'>
 	<s id='1'>Dissimulons.</s>
 </p>
@@ -3066,7 +3066,7 @@
 	<s id='2'>Que faire ? </s>
 	<s id='3'>Mettons vite à la place la lettre de mon cousin, et donnons-lui beau jeu à la prendre.</s>
 </p>
-<stage>Elle fait l'échange, et met la lettre du cousin dans sa pochette de façon qu'elle sorte un peu.</stage>
+<stage type="[N/A]">Elle fait l'échange, et met la lettre du cousin dans sa pochette de façon qu'elle sorte un peu.</stage>
 </sp>
 <sp who='BARTHOLO'><speaker>BARTHOLO, revenant.</speaker>
 <p id='34'>
@@ -3147,7 +3147,7 @@
 	<s id='2'>La lettre ! </s>
 	<s id='3'>Lisons-la sans qu'elle en soit instruite.</s>
 </p>
-<stage>Il lui tâte le pouls, et prend la lettre qu'il tâche de lire en se tournant un peu.</stage> 
+<stage type="[N/A]">Il lui tâte le pouls, et prend la lettre qu'il tâche de lire en se tournant un peu.</stage> 
 </sp>
 <sp who='ROSINE'><speaker>ROSINE, toujours renversée. </speaker>
 <p id='47'>
@@ -3170,7 +3170,7 @@
 <p id='50'>
 	<s id='1'>L'usage des odeurs... produit ces affections spasmodiques.  </s>
 </p>
-<stage>Il lit par-derrière le fauteuil en lui tâtant le pouls. Rosine se relève un peu, le regarde finement, fait un geste de tête, et se remet sans parler.</stage>
+<stage type="read">Il lit par-derrière le fauteuil en lui tâtant le pouls. Rosine se relève un peu, le regarde finement, fait un geste de tête, et se remet sans parler.</stage>
 </sp>
 <sp who='BARTHOLO'><speaker>BARTHOLO, à part. </speaker>
 <p id='51'>
@@ -3180,7 +3180,7 @@
 	<s id='4'>Comment l'apaiser maintenant ? </s>
 	<s id='5'>Qu'elle ignore au moins que je l'ai lue.</s>
 </p>
-<stage>Il fait semblant de la soutenir, et remet la lettre dans la pochette.</stage>
+<stage type="[N/A]">Il fait semblant de la soutenir, et remet la lettre dans la pochette.</stage>
 </sp>
 <sp who='ROSINE'><speaker>ROSINE, soupire. </speaker>
 <p id='52'>
@@ -3192,7 +3192,7 @@
 	<s id='1'>Eh bien ! </s>
 	<s id='2'>Ce n'est rien, mon enfant : un petit mouvement de vapeurs, voilà tout ; car ton pouls n'a seulement pas varié.</s>
 </p>
-<stage>Il va prendre un flacon sur la console.</stage>
+<stage type="[N/A]">Il va prendre un flacon sur la console.</stage>
 </sp>
 <sp who='ROSINE'><speaker>ROSINE, à part. </speaker>
 <p id='54'>
@@ -3291,7 +3291,7 @@
 <p id='71'>
 	<s id='1'>Je te plairai, je te plairai ; quand je te dis que je te plaira !</s>
 </p>
-<stage>Il sort.</stage>
+<stage type="exit">Il sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='16'><head>SCÈNE XVI.</head>
@@ -3302,7 +3302,7 @@
 	<s id='3'>Il dit qu'il me plaira !... </s>
 	<s id='4'>Lisons cette lettre qui a manqué de me causer tant de chagrin. </s>
 </p>
-<stage>Elle lit s'écrie : </stage>
+<stage type="read">Elle lit s'écrie : </stage>
 <p id='2'>
 	<s id='1'>Ah !... </s>
 	<s id='2'>J'ai lu trop tard ; il me recommande de tenir une querelle ouverte avec mon tuteur : j'en avais une si bonne, et je l'ai laissée échapper. </s>
@@ -3324,11 +3324,11 @@
 	<s id='4'>Là, qu'on me dise qui diable lui a fourré dans la tête de ne plus vouloir prendre leçon de don Bazile ! </s>
 	<s id='5'>Elle sait qu'il se mêle de mon mariage...</s>
 </p>
-<stage>On heurte à la porte.</stage>
+<stage type="[N/A]">On heurte à la porte.</stage>
 <p id='2'>
 	<s id='1'>Faites tout au monde pour plaire aux femmes ; si vous omettez un seul petit point... je dis un seul... </s>
 </p>
-<stage>On heurte une seconde fois.</stage>
+<stage type="[N/A]">On heurte une seconde fois.</stage>
 <p id='3'>
 	<s id='1'>Voyons qui c'est. </s>
 </p>
@@ -3373,7 +3373,7 @@
 <p id='6'>
 	<s id='1'>Quel homme ! </s>
 </p>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 <p id='7'>
 	<s id='1'>Un mal subit qui le force à garder le lit...</s>
 </p>
@@ -3390,7 +3390,7 @@
 	<s id='1'>Oh ! </s>
 	<s id='2'>Diable !</s>
 </p>
-<stage>Haut</stage>
+<stage type="forte">Haut</stage>
 <p id='10'>
 	<s id='1'>Quand je dis le lit, monsieur, c'est la chambre que j'entends.</s>
 </p>
@@ -3410,7 +3410,7 @@
 <p id='13'>
 	<s id='1'>C'est quelque fripon...</s>
 </p>
-<stage>Haut</stage>
+<stage type="forte">Haut</stage>
 <p id='14'>
 	<s id='1'>Eh non, monsieur le mystérieux ! </s>
 	<s id='2'>Parlez sans vous troubler, si vous pouvez. </s>
@@ -3420,7 +3420,7 @@
 <p id='15'>
 	<s id='1'>Maudit vieillard !</s>
 </p>
-<stage>Haut</stage>
+<stage type="forte">Haut</stage>
 <p id='16'>
 	<s id='1'>Don Bazile m'avait chargé de vous apprendre...</s>
 </p>
@@ -3508,7 +3508,7 @@
 	<s id='4'>Rosine enfermée de fureur ! </s>
 	<s id='5'>Le diable est entré chez moi. Je vais encore m'assurer...</s>
 </p>
-<stage>Il va ouvrir doucement la porte de Rosine.</stage>
+<stage type="[N/A]">Il va ouvrir doucement la porte de Rosine.</stage>
 </sp>
 <sp who='LE-COMTE'><speaker>LE COMTE, à part. </speaker>
 <p id='30'>
@@ -3529,7 +3529,7 @@
 <p id='32'>
 	<s id='1'>La voici.</s>
 </p>
-<stage>À part.</stage>
+<stage type="aparte">À part.</stage>
 <p id='33'>
 	<s id='1'>C'est ma lettre qu'elle relit. </s>
 </p>
@@ -3579,7 +3579,7 @@
 <p id='41'>
 	<s id='1'>Voilà l'instant où je puis vous servir : nous lui montrerons sa lettre, et s'il le faut...</s>
 </p>
-<stage>Plus mystérieusement</stage>
+<stage type="[N/A]">Plus mystérieusement</stage>
 <p id='42'>
 	<s id='1'>J'irai jusqu'à lui dire que je la tiens d'une femme à qui le Comte l'a sacrifiée. </s>
 	<s id='2'>Vous sentez que le trouble, la honte, le dépit, peuvent la porter sur-le-champ... </s>
@@ -3644,7 +3644,7 @@
 	<s id='2'>Elle perdrait tout son effet. </s>
 	<s id='3'>Il ne faut pas me dire deux fois les choses : il ne faut pas me les dire deux fois.</s>
 </p>
-<stage>Il s'en va.</stage>
+<stage type="exit">Il s'en va.</stage>
  </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III.</head>
@@ -3662,11 +3662,11 @@
 	<s id='9'>Écoutons... </s>
 	<s id='10'>Elle refuse de sortir de chez elle, et j'ai perdu le fruit de ma ruse. </s>
 </p>
-<stage>Il retourne écouter.</stage>
+<stage type="[N/A]">Il retourne écouter.</stage>
 <p id='2'>	
 	<s id='1'>La voici ; ne nous montrons pas d'abord.</s>
 </p>
-<stage>Il entre dans le cabinet.</stage>
+<stage type="[N/A]">Il entre dans le cabinet.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Le Comte, Rosine, Bartholo.</head>
@@ -3690,7 +3690,7 @@
 	<s id='4'>Où donc est-il ce maître que vous craignez de renvoyer ? </s>
 	<s id='5'>Je vais, en deux mots, lui donner son compte, et celui de Bazile.</s>
 </p>
-<stage>Elle aperçoit son amant : elle fait un cri.</stage>
+<stage type="[N/A]">Elle aperçoit son amant : elle fait un cri.</stage>
 <p id='4'>
 	<s id='1'>Ah !...</s>
 </p>
@@ -3746,7 +3746,7 @@
 	<s id='1'>Un siège, un siège. </s>
 	<s id=''>Et pas un fauteuil ici ? </s>
 </p>
-<stage>Il va le chercher.</stage>
+<stage type="[N/A]">Il va le chercher.</stage>
 </sp>
 <sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
 <p id='14'>
@@ -3785,7 +3785,7 @@
 <p id='20'>
 	<s id='1'>Non, attendez ; ma douleur est un peu apaisée.</s>
 </p>
-<stage>À Bartholo.</stage>
+<stage type="toward">À Bartholo.</stage>
 <p id='21'>
 	<s id='1'>Je sens que j'ai eu tort avec vous, monsieur : je veux vous imiter, en réparant sur-le-champ...</s>
 </p>
@@ -3802,7 +3802,7 @@
 <p id='23'>
 	<s id='1'>Un moment, de grâce ! </s>
 </p>
-<stage>À Bartholo.</stage>
+<stage type="toward">À Bartholo.</stage>
 <p id='24'>
 	<s id='1'>Je croirai, monsieur, que vous n'aimez pas à m'obliger, si vous m'empêchez de vous prouver mes regrets en prenant ma leçon. </s>
 </p>
@@ -3876,7 +3876,7 @@
 <p id='37'>
 	<s id='1'>Parbleu ! </s>
 </p>
-<stage>Il va s'asseoir dans le fauteuil qu'a occupé Rosine.</stage>
+<stage type="[N/A]">Il va s'asseoir dans le fauteuil qu'a occupé Rosine.</stage>
 </sp>
 <sp who='ROSINE'><speaker>ROSINE, chante. (N° 3.)</speaker>
 	<l id='51'>Quand dans la plaine, </l>
@@ -3903,7 +3903,7 @@
 	<l id='72'>Ne songe guère </l>
 	<l id='73'>Qu'au bonheur d'être aimé </l>
 	<l id='74'>De sa bergère. </l>
-<stage>MÊME AIR.</stage> 
+<stage type="[N/A]">MÊME AIR.</stage> 
 	<l id='75'>Loin de sa mère </l>
 	<l id='76'>Cette bergère </l>
 	<l id='77'>Va chantant </l>
@@ -3928,7 +3928,7 @@
 	<l id='96'>Elle, bien aise, </l>
 	<l id='97'>Feint de se courroucer </l>
 	<l id='98'>Pour qu'on l'apaise </l>
-<stage>PETITE REPRISE </stage>
+<stage type="[N/A]">PETITE REPRISE </stage>
 	<l id='99'>Les soupirs, </l>
 	<l id='100'>Les soins, les promesses, </l>
 	<l id='101'>Les vives tendresses, </l>
@@ -3945,7 +3945,7 @@
 	<l id='112'>Mais quand on s'aime, </l>
 	<l id='113'>La gêne ajoute encor </l>
 	<l id='114'>Au plaisir même. </l>
-<stage>En l'écoutant, Bartholo, s'est assoupi. Le Comte, pendant la petite reprise, se hasarde à prendre une main qu'il couvre de baisers. L'émotion ralentit le chant de Rosine, l'affaiblit, et finit même par lui couper la voix au milieu de la cadence, au mot extrême. L'orchestre sait le mouvement de la chanteuse, affaiblit son jeu, et se tait avec elle. L'absence du bruit qui avait endormi Bartholo, le réveille. Le Comte se relève, Rosine et l'orchestre reprennent subitement la suite de l'air. Si la petite reprise se répète, le même jeu recommence.</stage>
+<stage type="sleep/action/waking">En l'écoutant, Bartholo, s'est assoupi. Le Comte, pendant la petite reprise, se hasarde à prendre une main qu'il couvre de baisers. L'émotion ralentit le chant de Rosine, l'affaiblit, et finit même par lui couper la voix au milieu de la cadence, au mot extrême. L'orchestre sait le mouvement de la chanteuse, affaiblit son jeu, et se tait avec elle. L'absence du bruit qui avait endormi Bartholo, le réveille. Le Comte se relève, Rosine et l'orchestre reprennent subitement la suite de l'air. Si la petite reprise se répète, le même jeu recommence.</stage>
 </sp>
 <sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
 <p id='38'>
@@ -3963,7 +3963,7 @@
 	<s id='2'>J'ai mes malades. </s>
 	<s id='3'>Je vas, je viens, je toupille, et sitôt que je m'assieds, mes pauvres jambes...</s>
 </p>
-<stage>Il se lève et pousse le fauteuil.</stage>
+<stage type="[N/A]">Il se lève et pousse le fauteuil.</stage>
 </sp>
 <sp who='ROSINE'><speaker>ROSINE, bas au Comte </speaker>
 <p id='41'>
@@ -3982,11 +3982,11 @@
 	<s id='3'>J'en savais autrefois... </s>
 	<s id='4'>Par exemple... </s>
 </p>
-<stage>Pendant la ritournelle, il cherche en se grattant la tête et chante en faisant claquer ses pouces et dansant des genoux comme les vieillards.</stage>
+<stage type="[N/A]">Pendant la ritournelle, il cherche en se grattant la tête et chante en faisant claquer ses pouces et dansant des genoux comme les vieillards.</stage>
 	<l id='115'>Veux-tu, ma Rosinette, </l>
 	<l id='116'>Faire emplette </l>
 	<l id='117'>Du roi des maris ?... </l>
-<stage>Au Comte en riant.</stage>
+<stage type="toward">Au Comte en riant.</stage>
 <p id='44'>
 	<s id='1'>Il y a Fanchonnette dans la chanson ; mais j'y ai substitué Rosinette pour la lui rendre plus agréable et la faire cadrer aux circonstances. </s>
 	<s id='2'>Ah ! </s>
@@ -4016,9 +4016,9 @@
 	<l id='123'>Je vaux encor mon prix ; </l>
 	<l id='124'>Et quand il fait sombre </l>
 	<l id='125'>Les plus beaux chats sont gris. </l>
-<stage>Il répète la reprise en dansant, Figaro, derrière lui, imite ses mouvements.</stage>
+<stage type="[N/A]">Il répète la reprise en dansant, Figaro, derrière lui, imite ses mouvements.</stage>
 	<l id='126'>Je ne suis point Tircis, etc. </l>
-<stage>Apercevant Figaro.</stage> 
+<stage type="[N/A]">Apercevant Figaro.</stage> 
 <p id='1'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Entrez, monsieur le barbier ; avancez ; vous êtes charmant ! </s>
@@ -4028,11 +4028,11 @@
 <p id='2'>
 	<s id='1'>Monsieur, il est vrai que ma mère me l'a dit autrefois ; mais je suis un peu déformé depuis ce temps-là. </s>
 </p>
-<stage>À part, au Comte.</stage>
+<stage type="aparte">À part, au Comte.</stage>
 <p id='3'>
 	<s id='1'>Bravo, Monseigneur ! </s>
 </p>
-<stage>Pendant toute cette scène, le Comte fait ce qu'il peut pour parler à Rosine ; mais l'oeil inquiet et vigilant du tuteur l'en empêche toujours, ce qui forme un jeu muet de tous les acteurs, étranger au débat du docteur et de Figaro.</stage>
+<stage type="action">Pendant toute cette scène, le Comte fait ce qu'il peut pour parler à Rosine ; mais l'oeil inquiet et vigilant du tuteur l'en empêche toujours, ce qui forme un jeu muet de tous les acteurs, étranger au débat du docteur et de Figaro.</stage>
 </sp>
 <sp who='BARTHOLO'><speaker>BARTHOLO.</speaker>
 <p id='4'>
@@ -4282,7 +4282,7 @@
 <p id='46'>
 	<s id='1'>On ne le tirera pas d'ici !</s>
 </p>
-<stage>Haut</stage>
+<stage type="forte">Haut</stage>
 <p id='47'>
 	<s id='1'>Allons, L'Eveillé ! </s>
 	<s id='2'>La jeunesse ! </s>
@@ -4301,7 +4301,7 @@
 	<s id='2'>J'irai tout chercher. </s>
 	<s id='3'>N'est-ce pas dans votre chambre ? </s>
 </p>
-<stage>Bas au Comte.</stage>
+<stage type="[N/A]">Bas au Comte.</stage>
 <p id='50'>
 	<s id='1'>Je vais l'attirer dehors. </s>
 </p>
@@ -4310,7 +4310,7 @@
 <p id='51'>
 	<s id='1'>Non, non, j'y vais moi-même. </s>
 </p>
-<stage>Bas au Comte en s'en allant.</stage>
+<stage type="low/exit">Bas au Comte en s'en allant.</stage>
 <p id='52'>
 	<s id='1'>Ayez les yeux sur eux, je vous prie. </s>
 </p>  
@@ -4333,16 +4333,16 @@
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII. Bartholo, Figaro, Le Comte, Rosine.</head>
 <sp who='BARTHOLO'><speaker>BARTHOLO, revenant. </speaker>
-<stage>À part.</stage>
+<stage type="aparte">À part.</stage>
 <p id='1'>
 	<s id='1'>Bon ! </s>
 	<s id='2'>Je ne sais ce que je fais, de laisser ici ce maudit barbier. </s>
 </p>
-<stage>À Figaro.</stage>
+<stage type="toward">À Figaro.</stage>
 <p id='2'>
 	<s id='1'>Tenez. </s>
 </p>
-<stage>Il lui donne le trousseau.</stage>
+<stage type="[N/A]">Il lui donne le trousseau.</stage>
 <p id='3'>
 	<s id='1'>Dans mon cabinet, sous mon bureau ; mais ne touchez à rien.</s>
 </p>
@@ -4352,7 +4352,7 @@
 	<s id='1'>La peste ! </s>
 	<s id='2'>Il y ferait bon, méfiant comme vous êtes ! </s>
 </p>
-<stage>À part, en s'en allant.</stage>
+<stage type="aparte">À part, en s'en allant.</stage>
 <p id='5'>
 	<s id='1'>Voyez comme le ciel protège l'innocence ! </s>
 </p> 
@@ -4394,14 +4394,14 @@
 	<s id='1'>Il est bien poli, messieurs, de parler bas sans cesse ! </s>
 	<s id='2'>Et ma leçon ? </s>
 </p>
-<stage>Ici l'on entend un bruit comme de la vaisselle renversée.</stage>
+<stage type="noise">Ici l'on entend un bruit comme de la vaisselle renversée.</stage>
 </sp>
 <sp who='BARTHOLO'><speaker>BATHOLO, criant. </speaker>
 <p id='8'>
 	<s id='1'>Qu'est-ce que j'entends donc ! </s>
 	<s id='2'>Le cruel barbier aura tout laissé tomber par l'escalier, et les plus belles pièces de mon nécessaire !... </s>
 </p>
-<stage>Il court dehors.</stage>
+<stage type="[N/A]">Il court dehors.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='9'><head>SCÈNE IX. Le Comte, Rosine.</head>
@@ -4434,7 +4434,7 @@
 	<s id='1'>Voyez le grand malheur pour tant de train ! </s>
 	<s id='2'>On ne voit goutte sur l'escalier. </s>
 </p>
-<stage>Il montre la clef au Comte.</stage>
+<stage type="[N/A]">Il montre la clef au Comte.</stage>
 <p id='3'> 
 	<s id='1'>Moi, en montant j'ai accroché une clef...</s>
 </p>
@@ -4454,7 +4454,7 @@
 </div2>
 <div2 type="scene" n='11'><head>SCÈNE XI. Les acteurs précédents, Don Bazile.</head>
 <sp who='ROSINE'><speaker>ROSINE, effrayée.</speaker>
-<stage>À part.</stage>
+<stage type="aparte">À part.</stage>
 <p id='1'>
 	<s id='1'>Don Bazile !...</s>
 </p>
@@ -4554,7 +4554,7 @@
 <p id='18'>
 	<s id='1'>Que mon élève !... </s>
 </p>
-<stage>Bas.</stage>
+<stage type="mezzo voce">Bas.</stage>
 <p id='19'>
 		<s id='1'>Je venais pour vous dire que le Comte est déménagé. </s>
 </p>
@@ -4637,7 +4637,7 @@
 <p id='34'>
 	<s id='1'>Vous avez raison. </s>
 </p>
-<stage>À Bazile.</stage>
+<stage type="toward">À Bazile.</stage>
 <p id='35'>
 	<s id='1'>Mais quel mal vous a donc pris si subitement ? </s>
 </p>
@@ -4734,7 +4734,7 @@
 <p id='53'>
 	<s id='1'>Eh bien, bonsoir donc, bonsoir.</s>
 </p>
-<stage>Ils l'accompagnent tout en riant.</stage>
+<stage type="[N/A]">Ils l'accompagnent tout en riant.</stage>
  </sp>
 </div2>
 <div2 type="scene" n='12'><head>SCÈNE XII. Les acteurs précédents, excepté Bazile.</head>
@@ -4758,17 +4758,17 @@
 	<s id='1'>Avez-vous vu comme il parlait tout seul ? </s>
 	<s id='2'>Ce que c'est que de nous ! </s>
 </p>
-<stage>À Bartholo.</stage>
+<stage type="toward">À Bartholo.</stage>
 <p id='5'>
 	<s id='1'>Ah çà, vous décidez-vous, cette fois ? </s>
 </p>
-<stage>Il lui pousse un fauteuil très loin du Comte et lui présente le linge.</stage>
+<stage type="[N/A]">Il lui pousse un fauteuil très loin du Comte et lui présente le linge.</stage>
 </sp>
 <sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
 <p id='6'>
 	<s id='1'>Avant de finir, madame, je dois vous dire un mot essentiel au progrès de l'art que j'ai l'honneur de vous enseigner.</s>
 </p>
-<stage>Il s'approche, et lui parle bas à l'oreille.</stage>
+<stage type="[N/A]">Il s'approche, et lui parle bas à l'oreille.</stage>
 </sp>
 <sp who='BARTHOLO'><speaker>BARTHOLO, à Figaro.</speaker>
 <p id='7'>
@@ -4780,7 +4780,7 @@
 <p id='8'>
 	<s id='1'>Nous avons la clef de la jalousie, et nous serons ici à minuit. </s>
 </p>
-<stage>Figaro passe le linge au cou de Bartholo. </stage>
+<stage type="[N/A]">Figaro passe le linge au cou de Bartholo. </stage>
 <p id='9'>
 	<s id='1'>Quoi voir ? </s>
 	<s id='2'>Si c'était une leçon de danse, on vous passerait d'y regarder ; mais du chant !... </s>
@@ -4796,7 +4796,7 @@
 <p id='11'>
 	<s id='1'>Je ne sais ce qui m'est entré dans l'oeil. </s>
 </p>
-<stage>Il rapproche sa tête.</stage>
+<stage type="[N/A]">Il rapproche sa tête.</stage>
 </sp>
 <sp who='BARTHOLO'><speaker>BARTHOLO.</speaker>
 <p id='12'>
@@ -4808,7 +4808,7 @@
 	<s id='1'>C'est le gauche. </s>
 	<s id='2'>Voudriez-vous me faire le plaisir d'y souffler un peu fort ? </s>
 </p>
-<stage>Bartholo prend la tête de Figaro, regarde par-dessus, il pousse violemment et va derrière les amants écouter leur conversation.</stage>
+<stage type="[N/A]">Bartholo prend la tête de Figaro, regarde par-dessus, il pousse violemment et va derrière les amants écouter leur conversation.</stage>
 </sp>
 <sp who='LE-COMTE'><speaker>LE COMTE, bas à Rosine.</speaker>
 <p id='14'>
@@ -4875,7 +4875,7 @@
 <p id='25'>
 	<s id='1'>Oui, je le dis tout haut : je donnerai mon coeur et ma main à celui qui pourra m'arracher de cette horrible prison, où ma personne et mon bien sont retenus contre toute justice.</s>
 </p>
-<stage>Rosine sort.</stage>
+<stage type="exit">Rosine sort.</stage>
  </sp>
 </div2>
 <div2 type="scene" n='13'><head>SCÈNE XIII. Bartholo, Figaro, Le Comte.</head>
@@ -4916,7 +4916,7 @@
 <p id='7'>
 	<s id='1'>Il est fou, il est fou.</s>
 </p>	
-<stage>Ils sortent.</stage>
+<stage type="exit">Ils sortent.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='14'><head>SCÈNE XIV.</head>
@@ -4937,12 +4937,12 @@
 	<s id='13'>Un voisin, le premier venu, n'importe. </s>
 	<s id='14'>Il y a de quoi perdre l'esprit ! il y a de quoi perdre l'esprit ! </s>
 </p>
-<stage>Pendant l'entracte le théâtre s'obscurcit ; on entend un bruit d'orage, et l'orchestre joue celui qui est gravé dans le recueil de la musique du Barbier, N° 5.</stage>
+<stage type="decor">Pendant l'entracte le théâtre s'obscurcit ; on entend un bruit d'orage, et l'orchestre joue celui qui est gravé dans le recueil de la musique du Barbier, N° 5.</stage>
 </sp>
 </div2>
 </div1>
 <div1 type="act" n='4'><head>ACTE IV</head>
-<stage>Le théâtre est obscur.</stage> 
+<stage type="decor">Le théâtre est obscur.</stage> 
 <div2 type="scene" n='1'><head>SCÈNE I. Bartholo, Don Bazile, une lanterne de papier à la main.</head>
 <sp who='BARTHOLO'><speaker>BARTHOLO.</speaker>
 <p id='1'>
@@ -5328,7 +5328,7 @@
 <p id='30'>
 	<s id='1'>Oubliez seulement mon erreur. </s>
 </p>
-<stage>À part.</stage>
+<stage type="aparte">À part.</stage>
 <p id='31'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Je m'en punis assez. </s>
@@ -5339,7 +5339,7 @@
 	<s id='1'>Allons nous embusquer. </s>
 	<s id='2'>À la fin je la tiens. </s>
 </p>
-<stage>Il sort.</stage>
+<stage type="exit">Il sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV.</head>
@@ -5348,7 +5348,7 @@
 	<s id='1'>Son amour me dédommagera !... </s>
 	<s id='2'>Malheureuse !... </s>
 </p>
-<stage>Elle tire son mouchoir et s'abandonne aux larmes.</stage>
+<stage type="[N/A]">Elle tire son mouchoir et s'abandonne aux larmes.</stage>
 <p id='2'>
 	<s id='1'>Que faire ?... </s>
 	<s id='2'>Il va venir. </s>
@@ -5364,7 +5364,7 @@
 	<s id='12'>Ciel !... </s>
 	<s id='13'>On ouvre la jalousie ! </s>
 </p>
-<stage>Elle se sauve.</stage>
+<stage type="[N/A]">Elle se sauve.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Le Comte, Figaro enveloppé d'un manteau, paraît à la fenêtre. </head>
@@ -5398,7 +5398,7 @@
 <p id='6'>
 	<s id='1'>Donne-moi la main. </s>
 </p>
-<stage>Il saute à son tour.</stage>
+<stage type="[N/A]">Il saute à son tour.</stage>
 <p id='7'>
 	<s id='1'>À nous la victoire ! </s>
 </p>
@@ -5447,7 +5447,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Le Comte, Rosine, Figaro.</head>
-<stage>Figaro allume toutes les bougies qui sont sur la table.</stage>
+<stage type="[N/A]">Figaro allume toutes les bougies qui sont sur la table.</stage>
 <sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
 <p id='1'>
 	<s id='1'>La voici. </s>
@@ -5499,7 +5499,7 @@
 	<s id='5'>Tu n'es plus dangereux pour moi ; j'attendais ce mot pour te détester. </s>
 	<s id='6'>Mais avant de t'abandonner au remords qui t'attend...</s>
 </p>
-<stage>En pleurant</stage>
+<stage type="cry">En pleurant.</stage>
 <p id='9'>
 	<s id='1'>Apprends que je t'aimais ; apprends que je faisais mon bonheur de partager ton mauvais sort. </s>
 	<s id='2'>Misérable Lindor ! </s>
@@ -5699,7 +5699,7 @@
 	<s id='1'>Signons toujours. </s>
 	<s id='2'>Don Bazile voudra bien nous servir de second témoin.</s>
 </p>
-<stage>Ils signent.</stage>
+<stage type="[N/A]">Ils signent.</stage>
 </sp>
 <sp who='BAZILE'><speaker>BAZILE.</speaker>
 <p id='13'>
@@ -5738,11 +5738,11 @@
 	<s id='1'>Il n'y en a plus. </s>
 	<s id='2'>Mais c'est que moi, quand j'ai donné ma parole une fois, il faut des motifs d'un grand poids... </s>
 </p>	
-<stage>Il signe.</stage>  
+<stage type="[N/A]">Il signe.</stage>  
 </sp>
 </div2>
 <div2 type="scene" n='8'><head>SCÈNE VIII. Bartholo, un Alcade, des Alguazils, des Valets avec des flambeaux, et les Acteurs précédents.</head>
-<stage>Bartholo voit le comte baiser la main de Rosine et Figaro qui embrasse grotesquement don Bazile ; il crie en prenant le notaire à la gorge.</stage>
+<stage type="[N/A]">Bartholo voit le comte baiser la main de Rosine et Figaro qui embrasse grotesquement don Bazile ; il crie en prenant le notaire à la gorge.</stage>
 <sp who='BARTHOLO'><speaker>BARTHOLO.</speaker>
 <p id='1'>
 	<s id='1'>Rosine avec ces fripons ! </s>
@@ -5931,7 +5931,7 @@
 	<s id='4'>Je me soucie bien de l'argent, moi ! </s>
 	<s id='5'>À la bonne heure, je le garde mais croyez-vous que ce soit le motif qui me détermine ? </s>
 </p>
-<stage>Il signe.</stage>
+<stage type="[N/A]">Il signe.</stage>
 </sp>
 <sp who='FIGARO'><speaker>FIGARO, riant. </speaker>
 <p id='33'>

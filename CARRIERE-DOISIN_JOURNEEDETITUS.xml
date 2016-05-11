@@ -70,12 +70,12 @@
 </front>
 <body>
 <div1 type="act" n='1'><head></head>
-<stage>Le Théâtre représente la galerie d'un Palais.</stage>
-<stage>Le Prince est assis avec le Marquis d'Alfons devant une table chargée de plans,
+<stage type="decor">Le théâtre représente la galerie d'un Palais.</stage>
+<stage type="[N/A]">Le Prince est assis avec le Marquis d'Alfons devant une table chargée de plans,
 de livres et de papiers, dont ils paraissent s'occuper, on entend un tumulte qui annonce une fête publique.</stage>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE.</head>
 <sp who='LE PEUPLE'><speaker>LE PEUPLE, chantant derrière le Théâtre.</speaker>
-<stage>AIR : Vive Henri IV, etc.</stage>
+<stage type="music">Air : Vive Henri IV, etc.</stage>
 	<l id='1'>Vive la Reine,</l>
 	<l id='2'>Vive notre bon Roi</l>
 	<l id='3'>Qu'à perdre haleine ,</l>
@@ -94,7 +94,7 @@ de livres et de papiers, dont ils paraissent s'occuper, on entend un tumulte qui
 	<l id='16'>Chantons tous , en dansant :</l>
 	<l id='17'>Vive la Reine,</l>
 	<l id='18'>Et nos Princes du Sang.</l>
-<stage>Les Femmes de la Halle, portant des couronnes de fleurs et des branches de lauriers ornées de rubans se présentent pour entrer ; il y a aussi du peuple.</stage>
+<stage type="[N/A]">Les Femmes de la Halle, portant des couronnes de fleurs et des branches de lauriers ornées de rubans se présentent pour entrer ; il y a aussi du peuple.</stage>
 </sp>
 <sp who='UN OFFICIER DE LA MAISON'><speaker>UN OFFICIER DE LA MAISON.</speaker>
 <p id='1'>
@@ -121,7 +121,7 @@ de livres et de papiers, dont ils paraissent s'occuper, on entend un tumulte qui
 <p id='4'>
 	<s id='1'>Monseigneur, ce sont vos enfants qui viennent vous présenter les bouquets de la Famille en l'honneur de la naissance de Monseigneur le Dauphin.</s>
 </p>
-<stage>Elles présentent des Lys et des Lauriers.</stage>
+<stage type="[N/A]">Elles présentent des Lys et des Lauriers.</stage>
 </sp>
 <sp who='LE PRINCE'><speaker>LE PRINCE.</speaker>
 <p id='5'>
@@ -138,7 +138,7 @@ de livres et de papiers, dont ils paraissent s'occuper, on entend un tumulte qui
 <p id='7'>
 	<s id='1'>Oui, Monseigneur, c'est ce jour-là que vous nous avez baillé des maris, et nous, que nous avons donné des enfants à l'État, comme de juste ; ça été plaisir et profit pour tout le monde, car, (ces enfants-là ont eu aussi des enfants, qui servent notre bon Roi, et boivent tous les jours à sa santé, ainsi qu'à la vôtre, Monseigneur.</s>
 </p>
-<stage>En chorus.</stage>
+<stage type="[N/A]">En chorus.</stage>
 	<l id='19'>Vive la Reine.</l>
 	<l id='29'>Vive notre bon Roi, etc.</l>
 </sp>
@@ -158,11 +158,11 @@ de livres et de papiers, dont ils paraissent s'occuper, on entend un tumulte qui
 <p id='10'>
 	<s id='1'>Je le dois, mes amis ; mais c'est assez, ménagez-vous seulement.</s>
 </p>
-<stage>À ses Officiers.</stage>
+<stage type="toward">À ses Officiers.</stage>
 <p id='11'>
 	<s id='1'>Messieurs, acquittez ma dette, j'ai donné mes ordres en conséquence.</s>
 </p>
-<stage>En chorus , en s'en allant.</stage>
+<stage type="chorus/exit">En chorus, en s'en allant.</stage>
 	<l id='21'>Vive la Reine,</l>
 	<l id='22'>Vive notre bon Roi, etc.</l>
 </sp>
@@ -324,14 +324,14 @@ de livres et de papiers, dont ils paraissent s'occuper, on entend un tumulte qui
 <p id='11'>
 	<s id='1'>Je me meurs de plaisir !</s>
 </p>
-<stage>On la transporte.</stage>
+<stage type="[N/A]">On la transporte.</stage>
 </sp>
 <sp who="LE PRINCE"><speaker>LE PRINCE.</speaker>
 <p id="12">
 	<s id='1'>Ô Ciel !... </s>
 	<s id='2'>Moi-même je vais cacher mes larmes.</s>
 </p>
-<stage>En se retirant, à d'Alfons et de Polincour qui veulent le suivre.</stage>
+<stage type="[N/A]">En se retirant, à d'Alfons et de Polincour qui veulent le suivre.</stage>
 <p id='13'>
 	<s id='1'>Non, j'ai besoin d'être seul un moment.</s>
 </p>
@@ -477,7 +477,7 @@ de livres et de papiers, dont ils paraissent s'occuper, on entend un tumulte qui
 	<s id='1'>Mais, oui, Monsieur, s'il le fallait. </s>
 	<s id='2'>J'ai une une de mes cousines, qui, sous l'habit de soldat, a bravement servi pendant la guerre où Monsieur</s>
 </p>
-<stage>Montrant d'Ettìngen.</stage>
+<stage type="[N/A]">Montrant d'Ettìngen.</stage>
 <p id="15">
 	<s id='1'>a, dit-on, été trouvé dans le camp à l'âge de trois ans et couvert de blessures et remis entre les mains de Monseigneur.</s>
 </p>
@@ -518,7 +518,7 @@ de livres et de papiers, dont ils paraissent s'occuper, on entend un tumulte qui
 <p id='2'>
 	<s id='1'>Mon père, je vous cause bien du chagrin ; mais je vous le ferai oublier, et à toi aussi, ma pauvre Babet.</s>
 </p>
-<stage>Il lui serre la main.</stage>
+<stage type="[N/A]">Il lui serre la main.</stage>
 </sp>
 <sp who="RICHARD PÈRE"><speaker>RICHARD PÈRE.</speaker>
 <p id="3">
@@ -715,7 +715,7 @@ de livres et de papiers, dont ils paraissent s'occuper, on entend un tumulte qui
 <p id="5">
 	<s id='1'>En ce cas tâchez de l'éviter, il doit encore tout ignorer. </s>
 </p>
-<stage>D'Ettingen se retire dans l'appartement voisin, et rentre sur la pointe du pied pour s'en aller lorsque d'Hermans est entré.</stage>
+<stage type="[N/A]">D'Ettingen se retire dans l'appartement voisin, et rentre sur la pointe du pied pour s'en aller lorsque d'Hermans est entré.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='10'><head>SCÈNE X.. D'HERMANS, LE MARQUIS D'ALFONS.</head>
@@ -773,7 +773,7 @@ de livres et de papiers, dont ils paraissent s'occuper, on entend un tumulte qui
 <p id="9">
 	<s id='1'>Comment donc l'éviter ?</s>
 </p>
-<stage>Il se retire dans l'appartement voisin, d'Alfons en ferme la porte. </stage>
+<stage type="[N/A]">Il se retire dans l'appartement voisin, d'Alfons en ferme la porte. </stage>
 </sp>
 </div2>
 <div2 type="scene" n='12'><head>SCÈNE XII. De Valmon, Éléonore, Une Gouvernante, d'Ettingen, Le Marquis d'Alfons.
@@ -836,17 +836,17 @@ de livres et de papiers, dont ils paraissent s'occuper, on entend un tumulte qui
 <p id='9'>
 	<s id='1'>Rien de plus aisé ; Mademoiselle sera très bien dans cet appartement.</s>
 </p>
-<stage>Il va l'ouvrir, et fait un mouvement de surprise en apercevant d'Hermans.</stage>
+<stage type="[N/A]">Il va l'ouvrir, et fait un mouvement de surprise en apercevant d'Hermans.</stage>
 </sp>
 <sp who="D'ALFONS"><speaker>D'ALFONS, à part.</speaker>
 <p id='10'>
 	<s id='1'>L'étourdi ! </s>
 </p>
-<stage>À de Valmon.</stage>
+<stage type="toward">À de Valmon.</stage>
 <p id='11'>
 	<s id='1'>Venez avec moi ; Monsieur ; je vais vous présenter. </s>
 </p>
-<stage>Il l'emmene ; d'Hermans sort de l'appartement ; Eléonore jette un cri de surprise.</stage>
+<stage type="[N/A]">Il l'emmene ; d'Hermans sort de l'appartement ; Eléonore jette un cri de surprise.</stage>
 </sp>
 <sp who='ELÉONORE'><speaker>ELÉONORE.</speaker>
 <p id='12'>
@@ -964,7 +964,7 @@ de livres et de papiers, dont ils paraissent s'occuper, on entend un tumulte qui
 	<s id='1'>Ah ! </s>
 	<s id='2'>Monseigneur, comment vous exprimer ma reconnaissance !</s>
 </p>
-<stage>À de Valmon.</stage>
+<stage type="toward">À de Valmon.</stage>
 <p id='2'>
 	<s id='1'>De grâce Monsieur, croyez que je me rendrai digne du bonheur que j'attends.</s>
 </p>
@@ -973,7 +973,7 @@ de livres et de papiers, dont ils paraissent s'occuper, on entend un tumulte qui
 <p id='3'>
 	<s id='1'>Viens , mon enfant, et remercie ton bienfaiteur.</s>
 </p>
-<stage>Elle fléchit le genou, le Prince la relève.</stage>
+<stage type="[N/A]">Elle fléchit le genou, le Prince la relève.</stage>
 </sp>
 <sp who="LE PRINCE"><speaker>LE PRINCE.</speaker>
 <p id="4">
@@ -987,7 +987,7 @@ de livres et de papiers, dont ils paraissent s'occuper, on entend un tumulte qui
 	<s id='3'>Ah ! </s>
 	<s id='4'>Mon père !</s>
 </p>
-<stage>On entend tout-à-coup un grand bruit au fond de la galerie.</stage>
+<stage type="noise">On entend tout-à-coup un grand bruit au fond de la galerie.</stage>
 </sp>
 <sp who="D'ALFONS"><speaker>D'ALFONS.</speaker>
 <p id="6">
@@ -1023,7 +1023,7 @@ de livres et de papiers, dont ils paraissent s'occuper, on entend un tumulte qui
 <p id="5">
 	<s id='1'>Relevez-vous, mes enfants ; relevez-vous, vous dis-je.</s>
 </p>
-<stage>Ils se relèvent.</stage>
+<stage type="[N/A]">Ils se relèvent.</stage>
 <p id='6'>
 	<s id='1'>Cette preuve d'attachement de votre part m'est bien sensible ; mais les circonstances me forcent à-faire ce sacrifice : il faut être juste avant que d'être généreux.</s>
 </p>
@@ -1033,7 +1033,7 @@ de livres et de papiers, dont ils paraissent s'occuper, on entend un tumulte qui
 	<s id='1'>Ah ! </s>
 	<s id='2'>Monseigneur, ce n'est point un Prince, un bienfaiteur comme vous, qui fait des sujets mercenaires ; nous avons des femmes, des enfants, ils travailleront, ils nous soutiendront, nous nous aiderons entre nous, et notre plus chère récompense sera de vous servir avec plus de zèle.</s>
 </p>
-<stage>Tout ce qui compose la Cour du Prince, en ce moment, se jette à genoux 3 et l'environne.</stage>
+<stage type="[N/A]">Tout ce qui compose la Cour du Prince, en ce moment, se jette à genoux 3 et l'environne.</stage>
 </sp>
 <sp who="LE PRINCE"><speaker>LE PRINCE.</speaker>
 <p id="8">
@@ -1052,7 +1052,7 @@ de livres et de papiers, dont ils paraissent s'occuper, on entend un tumulte qui
 	<s id='1'>Ah ! </s>
 	<s id='2'>D'Alfons, vous troublez mes plaisirs. </s>
 </p>
-<stage>Il se retire avec le trouble de la modestie.</stage>
+<stage type="[N/A]">Il se retire avec le trouble de la modestie.</stage>
 </sp>
 <sp who='QUELQUES OFFICIERS'><speaker>QUELQUES OFFICIERS, le suivant.</speaker>
 <p id='11'>
@@ -1078,7 +1078,7 @@ de livres et de papiers, dont ils paraissent s'occuper, on entend un tumulte qui
 	<s id='2'>Mon père ! </s>
 	<s id='3'>Ce tendre épanchement de votre part le rend plus accompli.</s>
 </p>
-<stage>D'une voix plus élevée.</stage>
+<stage type="[N/A]">D'une voix plus élevée.</stage>
 <p id='3'>
 	<s id='1'>Oui, ce jour digne de Titus en est un sûr garant.</s>
 </p>
@@ -1087,7 +1087,7 @@ de livres et de papiers, dont ils paraissent s'occuper, on entend un tumulte qui
 <p id='4'>
 	<s id='1'>Vous m'arrachez le mot, j'allais le prononcer ; Livrons-nous donc à l'allégresse, et que la naissance du Dauphin ranime ici les jeux.</s>
 </p>
-<stage>Le fond du Théâtre s'ouvre tout-à-coup , et laisse apercevoir un parc illuminé. Tous les états confondus offrent le tableau d'une fête publique ; la danse et des jeux de toutes les espèces achèvent d'en rendre l'illusion plus complète.</stage>
+<stage type="[N/A]">Le fond du Théâtre s'ouvre tout-à-coup , et laisse apercevoir un parc illuminé. Tous les états confondus offrent le tableau d'une fête publique ; la danse et des jeux de toutes les espèces achèvent d'en rendre l'illusion plus complète.</stage>
 </sp>
 </div2>
 </div1>

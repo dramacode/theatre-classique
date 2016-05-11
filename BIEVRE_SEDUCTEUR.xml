@@ -82,7 +82,7 @@
 </front>
 <body>
 <div1 type="act" n='1'><head>ACTE I</head>
-<stage>Le Théâtre représente un salon.</stage>
+<stage type="decor">Le théâtre représente un salon.</stage>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Le Marquis, Zéronès.</head>
 <sp who='ZÉRONÈS'><speaker>ZÉRONÈS.</speaker>
 	<l id='1'>Des dehors affectés un Sage se défie.</l>
@@ -286,10 +286,10 @@
 	<l id='151'>Cette femme m'occupe : un jour même, en secret,</l>
 	<l id='152'>Je n'ai pu m'empêcher de voler son portrait,</l>
 	<l id='153' part='i'>Et j'aime à le revoir.</l>
-<stage>Regardant le Portrait, et le faisant voir à Zeronès.</stage>
+<stage type="[N/A]">Regardant le Portrait, et le faisant voir à Zeronès.</stage>
 	<l id='153' part='f'>Orphise est si jolie !</l>
 	<l id='154'>Ce serait bien le cas d'une double folie...</l>
-<stage>Resserrant le Portrait.</stage>
+<stage type="[N/A]">Resserrant le Portrait.</stage>
 	<l id='155'>Mais elles s'aiment trop : il n'est pas temps encor ;</l>
 	<l id='156'>Et ce serait risquer d'échouer dans le port.</l>
 	<l id='157'>Enfin, je me fuis fait amoureux de Mélise</l>
@@ -354,7 +354,7 @@
 <sp who='ORGON'><speaker>ORGON.</speaker>
 	<l id='201'>Vraiment, je le voudrais : je sens cet avantage ;</l>
 	<l id='202'>Et même tout le monde à cet hymen m'engage,</l>
-<stage>Au Marquis.</stage>
+<stage type="toward">Au Marquis.</stage>
 	<l id='203'>Sans savoir mes desseins, vous n'imaginez pas</l>
 	<l id='204'>Le bien qu'on dit de vous. Moi, j'écoute tout bas ;</l>
 	<l id='205'>Et j'en fais mon profit. Oh ! Je vous tiens parole :</l>
@@ -419,7 +419,7 @@
 	<l id='252'>Le plus sûr est d'aller me renfermer chez moi.</l>
 	<l id='253'>Je me méfie encor de ma philosophie,</l>
 	<l id='254'>Et je ne reviendrai qu'en bonne compagnie.</l>
-<stage>II sort.</stage>
+<stage type="exit">II sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Le Marquis, Zéronès.</head>
@@ -462,7 +462,7 @@
 	<l id='270'>Et même, à la rigueur, il pourrait ne rien dire.</l>
 	<l id='271'>La Nature est mon livre : et, pour vous bien servir,</l>
 	<l id='272'>Jusques aux errata je vais le parcourir.</l>
-<stage>Il sort.</stage>
+<stage type="exit">Il sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Le Marquis, Un domestique apportant une Lettre.</head>
@@ -472,7 +472,7 @@
 </sp>
 <sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 	<l id='274' part='m'>Donne. </l>
-<stage>Il lit.</stage>
+<stage type="read">Il lit.</stage>
 <p id="1">
 	<s id='1'>Je voudrais bien , Monsieur, vous faire part des raisons qui m'ont empêchée de vous recevoir à Paris. </s>
 	<s id='2'>Vous aurez été sûrement étonné de trouver ma porte fermée si souvent : mais vous savez que les femmes ne font pas toujours tout ce qu'elles veulent. </s>
@@ -482,12 +482,12 @@
 <p id='2'>
 	<s id='1'>Et plus tard je pourrais sortir.</s>
 </p>
-<stage>Au Domestique.</stage>
+<stage type="toward">Au Domestique.</stage>
 	<l id='275' part='i'>Demande mes chevaux à quatre heures.</l>
 </sp>
 <sp who='LE DOMESTIQUE'><speaker>LE DOMESTIQUE.</speaker>
 	<l id='275' part='f'>Suffit.</l>
-<stage>Il sort.</stage>
+<stage type="exit">Il sort.</stage>
 </sp>
 <sp who='LE MARQUIS'><speaker>LE MARQUIS, poursuivant.</speaker>
 <p id="3">
@@ -715,7 +715,7 @@
 	<l id='392'>Oui, je crains tout le monde, et Damis et ma soeur ;</l>
 	<l id='393'>Tout ce que j'ai quitté ; mais surtout Rosalie,</l>
 	<l id='394'>Et l'oeil observateur de sa fidèle amie.</l>
-<stage>À part.</stage>
+<stage type="aparte">À part.</stage>
 	<l id='395' part='i'>Les voici : je frissonne.</l>
 </sp>
 </div2>
@@ -723,7 +723,7 @@
 <sp who='ORGON'><speaker>ORGON, arrivant le premier et se détournant vers la coulisse d'où il sort.</speaker>
 	<l id='395' part='f'>Où portez-vous vos pas,</l>
 	<l id='396' part='i'>Mesdames ? Le dîner...</l>
-<stage>À demi voix et à part.</stage>
+<stage type="mezzo voce">À demi voix et à part.</stage>
 	<l id="396" part='f'>Ne me quittez donc pas.</l>
 </sp>
 <sp who='ROSALIE'><speaker>ROSALIE, à part à Orphise.</speaker>
@@ -732,11 +732,11 @@
 </sp>
 <sp who='ORGON'><speaker>ORGON, à Darmance très froidement.</speaker>
 	<l id='399' part='i'>Monsieur, je vous salue... </l>
-<stage>Aux Dames.</stage>
+<stage type="toward">Aux Dames.</stage>
 	<l id="399" part='f'>Eh ! bien, le cher Marquis</l>
 	<l id='400'>Veut nous sacrifier les plaisirs de Paris.</l>
 	<l id='401'>Nous le posséderons tout l'été, tout l'automne,</l>
-<stage>Au Marquis.</stage>
+<stage type="toward">Au Marquis.</stage>
 	<l id='402' part='i'>Ces Dames en doutaient.</l>
 </sp>
 <sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
@@ -744,7 +744,7 @@
 	<l id='403'>Ah ! tout ce que Paris a de plus précieux,</l>
 	<l id='404'>Mesdames, je le vois rassemblé dans ces lieux.</l>
 	<l id='405'>Les grâces de l'esprit, les qualités de l'âme ;</l>
-<stage>En montrant Mélise.</stage>
+<stage type="[N/A]">En montrant Mélise.</stage>
 	<l id='406' part='i'>Les talents enchanteurs.</l>
 </sp>
 <sp who='MÉLISE'><speaker>MÉLISE, à part à Damis.</speaker>
@@ -774,7 +774,7 @@
 	<l id='413' part='f'>Enfin, je vois à son aurore</l>
 	<l id='414'>La beauté, la vertu qui l'embellit encore,</l>
 	<l id='415'>Et le tableau touchant d'une pure amitié....</l>
-<stage>En regardant tout le monde.</stage>
+<stage type="[N/A]">En regardant tout le monde.</stage>
 	<l id='416'>Auprès de vous, Paris est bientôt oublié.</l>
 </sp>
 <sp who='ORGON'><speaker>ORGON, à Zénonès.</speaker>
@@ -1005,7 +1005,7 @@
 	<l id='570'>J'aime mieux vous charger du soin de me défendre.</l>
 	<l id='571' part='i'>Que pourrais-je lui dire ?</l>
 </sp>
-<stage>Elle sort.</stage>
+<stage type="exit">Elle sort.</stage>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Orphise, Le Maquis.</head>
 <sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
@@ -1197,7 +1197,7 @@
 </sp>
 <sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 	<l id='689'>Demeurez : dans l'instant je vous en débarrasse.</l>
-<stage>À part.</stage>
+<stage type="aparte">À part.</stage>
 	<l id='690'>II faut que l'une ou l'autre abandonne la place.</l>
 </sp>
 </div2>
@@ -1227,7 +1227,7 @@
 </sp>
 <sp who='LE MARQUIS'><speaker>LE MARQUIS, de même.</speaker>
 	<l id='702' part='f'>Je veux qu'elle fasse retraite.</l>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 	<l id='703'>Oui, c'est un sort cruel, et rien n'est plus affreux</l>
 	<l id='704'>Que de se voir ravir un seul moment heureux.</l>
 	<l id='705' part='i'>le bonheur est si rare !</l>
@@ -1294,10 +1294,10 @@
 	<l id='739'>Que vous êtes aimable et que mon sort est doux !</l>
 	<l id='740'>Combien notre amitié va faire de jaloux !</l>
 	<l id='741'>Ah ! Je fuis dans l'ivresse... Et mon bonheur extrême...</l>
-<stage>Il lui baise la mains et se jette à ses genoux.</stage>
+<stage type="[N/A]">Il lui baise la mains et se jette à ses genoux.</stage>
 </sp>
 <sp who='MÉLISE'><speaker>MÉLISE.</speaker>
-<stage>Se détournant et cherchant à retirer sa main.</stage>
+<stage type="[N/A]">Se détournant et cherchant à retirer sa main.</stage>
 	<l id='742' part='i'>Ah ! Marquis...</l>
 </sp>
 <sp who='LE MARQUIS'><speaker>LE MARQUIS, profitant de ce moment pour regarder à sa montre en tenant toujours la main de Mélise.</speaker>
@@ -1463,10 +1463,10 @@
 </sp>
 <sp who="ORPHISE"><speaker>ORPHISE, à part.</speaker>
 	<l id='820' part='i'>Ah ! Je sais son nom..</l>
-<stage>Voyant arriver Zéronès.</stage>
+<stage type="[N/A]">Voyant arriver Zéronès.</stage>
 	<l id='820' part='f'>Mais ce maudit homme encor</l>
 	<l id='821'>Vient ici nous poursuivre. Entrons-là, je vous prie.</l>
-<stage>Elles passent dans une chambre voisine.</stage>
+<stage type="[N/A]">Elles passent dans une chambre voisine.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II.</head>
@@ -1788,7 +1788,7 @@
 <sp who='LE MARQUIS'><speaker>LE MARQUIS, embrassant Damis.</speaker>
 	<l id='991'>Je ne m'en souviens plus. Je veux, mon cher Damis,</l>
 	<l id='992'>Être compté toujours au rang de vos amis.</l>
-<stage>Damis sort.</stage>
+<stage type="exit">Damis sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V.</head>
@@ -1800,7 +1800,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Mélise, Le Marquis, Orphise.</head>
-<stage>Elles arrivent par une autre porte que celle par ou elles sont sorties;</stage>
+<stage type="[N/A]">Elles arrivent par une autre porte que celle par ou elles sont sorties;</stage>
 <sp who="ORPHISE"><speaker>ORPHISE, à Melise, à part.</speaker>
 	<l id='997' part='i'>Il est seul : approchons.</l>
 </sp>
@@ -1916,7 +1916,7 @@
 	<l id='1070'>J'ai su mettre à profit le trouble qui l'agite.</l>
 </sp>
 <sp who='ORGON'><speaker>ORGON.</speaker>
-<stage>Il pose sur une table son manuscrit, et le volume de l'Encyclopédie.</stage>
+<stage type="[N/A]">Il pose sur une table son manuscrit, et le volume de l'Encyclopédie.</stage>
 	<l id='1071'>Quoi ! Soupçonneriez-vous aussi nos deux amis ?</l>
 </sp>
 <sp who="ORPHISE"><speaker>ORPHISE.</speaker>
@@ -1985,7 +1985,7 @@
 </sp>
 <sp who='ORGON'><speaker>ORGON, à part.</speaker>
 	<l id='1113' part='f'>Pourtant ils sont fort raisonnables...</l>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 	<l id='1114'>Messieurs, pour un auteur, vous êtes redoutables ;</l>
 	<l id='1115' part='i'>Et, devant vous...</l>
 </sp>
@@ -1999,7 +1999,7 @@
 <sp who='ORGON'><speaker>ORGON, à part.</speaker>
 	<l id='1117' part='f'>Ils s'entendent ensemble :</l>
 	<l id='1118' part='i'>Oh ! j'éclaircirai bien...</l>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 	<l id='1118' part='f'>Mais, Messieurs, il me semble,</l>
 	<l id='1119'>Qu'on ne m'a point trompé : je vous soupçonne fort</l>
 	<l id='1120'>D'avoir quelques motifs pour être ainsi d'accord.</l>
@@ -2018,7 +2018,7 @@
 </sp>
 <sp who='LE MARQUIS'><speaker>LE MARQUIS, de même.</speaker>
 	<l id='1123' part='f'>Parbleu, nos vérités...</l>
-<stage>Haut à Orgon.</stage>
+<stage type="forte">Haut à Orgon.</stage>
 	<l id='1124'>Qui peut vous faire croire à ces absurdités ?</l>
 	<l id='1125' part='i'>Moi, l'ami de Monsieur !</l>
 </sp>
@@ -2047,7 +2047,7 @@
 </sp>
 <sp who='LE MARQUIS'><speaker>LE MARQUIS, bas a Zéronès.</speaker>
 	<l id='1134' part='m'>Bien.</l>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 	<l id='1134' part='f'>Eh ! Quel mal pourriez-vous donc me faire !</l>
 	<l id='1135'>Si je disais un mot, je vous ferais chasser.</l>
 </sp>
@@ -2061,7 +2061,7 @@
 	<l id='1138' part='i'>Un parasite...</l>
 </sp>
 <sp who='ORGON'><speaker>ORGON, enchanté et de même aux répliques suivantes.</speaker>
-<stage>À part.</stage>
+<stage type="aparte">À part.</stage>
 	<l id='1138' part='m'>Bon.</l>
 </sp>
 <sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
@@ -2070,7 +2070,7 @@
 	<l id='1140'>Et pour le rendre heureux vivant à ses dépens.</l>
 </sp>
 <sp who='ORGON'><speaker>ORGON.</speaker>
-<stage>Toujours à part.</stage>
+<stage type="[N/A]">Toujours à part.</stage>
 	<l id='1141' part='i'>À merveille.</l>
 </sp>
 <sp who='ZÉRONÈS'><speaker>ZÉRONÈS, au Marquis.</speaker>
@@ -2145,12 +2145,12 @@
 </sp>
 <sp who='ORGON'><speaker>ORGON.</speaker>
 	<l id='1163' part='f'>Bon ! Embrassons-nous, et laissons tout cela.</l>
-<stage>Ici le Marquis n'en peut plus de rire et se retient.</stage>
+<stage type="laugh">Ici le Marquis n'en peut plus de rire et se retient.</stage>
 	<l id='1164' part='i'>Nous avons tort tous trois d'abord.</l>
 </sp>
 <sp who='ZÉRONÈS'><speaker>ZÉRONÈS.</speaker>
 	<l id='1164' part='f'>En ce cas-là...</l>
-<stage>Ils s'embrassent tous trois. Pendant que le Marquis embrasse Zéronès, Orgon prend son manuscrit sur la table et revient.</stage>
+<stage type="[N/A]">Ils s'embrassent tous trois. Pendant que le Marquis embrasse Zéronès, Orgon prend son manuscrit sur la table et revient.</stage>
 </sp>
 <sp who='ORGON'><speaker>ORGON.</speaker>
 	<l id='1165'>Je vous apportais là l'extrait de notre histoire.</l>
@@ -2165,7 +2165,7 @@
 </sp>
 <sp who='ORGON'><speaker>ORGON, montrant Zéronès.</speaker>
 	<l id='1171' part='i'>Il ne le saura pas.</l>
-<stage>Avec admiration.</stage>
+<stage type="[N/A]">Avec admiration.</stage>
 	<l id='1171' part='m'>C'est un homme...</l>
 </sp>
 <sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
@@ -2241,13 +2241,13 @@
 </sp>
 <sp who="ORGON"><speaker>ORGON.</speaker>
 	<l id='1193' part='f'>Bon : je reprends courage,</l>
-<stage>Au Marquis.</stage>
+<stage type="toward">Au Marquis.</stage>
 	<l id='1194'>Ceci n'est qu'un extrait : venez voir mon ouvrage.</l>
-<stage>Il veut prendre son volume.</stage>
+<stage type="[N/A]">Il veut prendre son volume.</stage>
 </sp>
 <sp who='LE MARQUIS'><speaker>LE MARQUIS, prenant le volume, et se retenant pour ne pas éclater.</speaker>
 	<l id='1195' part='i'>Donnez, de grâce...</l>
-<stage>Orgon sort.</stage>
+<stage type="exit">Orgon sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='10'><head>SCÈNE X. Le Marquis, Zéronès.</head>
@@ -2265,7 +2265,7 @@
 </sp>
 <sp who='ZÉRONÈS'><speaker>ZÉRONÈS.</speaker>
 	<l id='1197' part='f'>Allons : le livre à terre !</l>
-<stage>En le ramassant.</stage>
+<stage type="[N/A]">En le ramassant.</stage>
 	<l id='1198' part='i'>Il ne respecte rien.</l>
 </sp>
 <sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
@@ -2329,7 +2329,7 @@
 	<l id='1226'>Le silence des bois, la fraîcheur d'un bocage</l>
 	<l id='1227'>Modèrent les transports des malheureux amants,</l>
 	<l id='1228'>Et le chant des oiseaux adoucit leurs tourments.</l>
-<stage>Ils sortent ensemble.</stage>
+<stage type="exit">Ils sortent ensemble.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Orphise, Rosalie.</head>
@@ -2458,7 +2458,7 @@
 <sp who='ORGON'><speaker>ORGON.</speaker>
 	<l id='1297' part='f'>Oh ! Je sais que pour elle,</l>
 	<l id='1298' part='i'>Vous me sacrifieriez.</l>
-<stage>À Rosalie.</stage>
+<stage type="toward">À Rosalie.</stage>
 	<l id='1298' part='f'>C'est vous, Mademoiselle,</l>
 	<l id='1299'>Avec vos goûts brillants et vos airs de mépris,</l>
 	<l id='1300'>Qui me rendez pourtant la fable de Paris,</l>
@@ -2584,7 +2584,7 @@
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
 	<l id='1349' part='i'>Oui, mais...</l>
-<stage>Ils vont pour sortir.</stage>
+<stage type="[N/A]">Ils vont pour sortir.</stage>
 </sp>
 <sp who='ORGON'><speaker>ORGON, apercevant le Marquis, et revenant sur ses pas.</speaker>
 	<l id='1349' part='m'>Ciel !...</l>
@@ -2596,7 +2596,7 @@
 	<l id='1350'>De renfermer le feu dont elle est consumée !</l>
 	<l id='1351'>Enfin ie vous revois et je puis m'épancher.</l>
 	<l id='1352'>Je trouve réuni ce que j'ai de plus cher.</l>
-<stage>Orphise et Orgon détournent la tête. Zéronès se détourne aussi avec affectation.</stage>
+<stage type="[N/A]">Orphise et Orgon détournent la tête. Zéronès se détourne aussi avec affectation.</stage>
 </sp>
 <sp who='ORGON'><speaker>ORGON, à part.</speaker>
 	<l id='1353' part='i'>Je n'y puis plus tenir.</l>
@@ -2604,7 +2604,7 @@
 <sp who='ORPHISE'><speaker>ORPHISE, de même.</speaker>
 	<l id='1353' part='f'>Modérez-vous, de grâce :</l>
 	<l id='1354' part='i'>Sortons.</l>
-<stage>Ils sortent pendant que le Marquis débite les vers suivants avec transport sans prendre garde à rien.</stage>
+<stage type="exit/action">Ils sortent pendant que le Marquis débite les vers suivants avec transport sans prendre garde à rien.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Le Marquis, Zéronès</head>
@@ -2735,7 +2735,7 @@
 </sp>
 <sp who='ZÉRONÈS'><speaker>ZÉRONÈS.</speaker>
 	<l id='1390'>Fort bien : je vais, Monsieur, l'engager à descendre.</l>
-<stage>À part en s'en allant.</stage>
+<stage type="aparte">À part en s'en allant.</stage>
 	<l id='1391'>Mais je dirai toujours qu'on mette ses chevaux.</l>
 </sp>
 </div2>
@@ -2754,7 +2754,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='8'><head>SCÈNE VIII. Le Marquis, Rosalie.</head>
-<stage>À l'arrivée de Rosalie, le Marquis s'empare avec adresse du fond du Théâtre pour l'empêcher de s'échapper.</stage>
+<stage type="toward">À l'arrivée de Rosalie, le Marquis s'empare avec adresse du fond du Théâtre pour l'empêcher de s'échapper.</stage>
 <sp who='ROSALIE'><speaker>ROSALIE, l'apercevant dans ce moment.</speaker>
 	<l id='1401' part='f'>Ah ! Ciel !... Le vil manège !</l>
 	<l id='1402'>Quoi ! Vous osez ? Monsieur, me tendre un pareil piège !</l>
@@ -2791,11 +2791,11 @@
 	<l id='1417' part='f'>Ah ! Soyez sans alarmes.</l>
 	<l id='1418'>Je menace en pleurant : voyez couler mes larmes :</l>
 	<l id='1419'>Je les retiens à peine, et tombe à vos genoux</l>
-<stage>Il se cache le visage, en tombant aux genoux de Rosalie.</stage>
-<stage>Relevant la tête, et faisant semblant de s'essuyer les yeux.</stage>
+<stage type="[N/A]">Il se cache le visage, en tombant aux genoux de Rosalie.</stage>
+<stage type="[N/A]">Relevant la tête, et faisant semblant de s'essuyer les yeux.</stage>
 	<l id='1420'>Je vous revois au moins... mon destin est trop doux...</l>
 	<l id='1421' part='i'>Hélas...</l>
-<stage>Il faut passer ici à la réplique de Rosalie "À votre coeur, je ne puis rien comprendre", les vers suivants, marqués avec des guillemets, ayant été supprimés à la représentation.</stage>
+<stage type="[N/A]">Il faut passer ici à la réplique de Rosalie "À votre coeur, je ne puis rien comprendre", les vers suivants, marqués avec des guillemets, ayant été supprimés à la représentation.</stage>
 	<l id='1421' part='m'>"Je ne l'espérais plus."</l>
 </sp>
 <sp who='ROSALIE'><speaker>ROSALIE.</speaker>
@@ -2812,7 +2812,7 @@
 	<l id='1426' part='f'>"En est-il que j'ignore !...</l>
 	<l id='1427'>Je tremble, à chaque instant, s'il allait revenir...</l>
 	<l id='1428'>Sauvons-lui la douleur d'avoir à me punir.	"</l>
-<stage>Elle fait quelques pas pour sortir.</stage>
+<stage type="[N/A]">Elle fait quelques pas pour sortir.</stage>
 </sp>
 <sp who='LE MARQUIS'><speaker>LE MARQUIS, faisant semblant d'avoir mal.</speaker>
 <note type="C">J'avais pensé que Rosalie devait résister à tous les moyens que le Marquis avait employés jusque là, pour la déterminer à rester un moment, et j'avais imaginé celui-ci pour donner à une jeune personne très innocente un motif plus excusable. Le sort qu'il a eu à la Cour m'a fait prendre le parti de le supprimer à Paris ; mais j'avoue que je suis encore dans l'incertitude sur l'effet qu'il y aurait produit. Je soumets ce doute au jugement du Lecteur. [NdA]</note>
@@ -2865,7 +2865,7 @@
 	<l id='1441'>Aimez-là, j'y consens... Je suis loin, Rosalie,</l>
 	<l id='1442'>De vous en détourner... Mais votre modestie</l>
 	<l id='1443'>Vous trompe en ce moment, et vous vous aveuglez...</l>
-<stage>Il se relève et reprend ses forces insensiblement.</stage>
+<stage type="[N/A]">Il se relève et reprend ses forces insensiblement.</stage>
 	<l id='1444'>Connaissez donc enfin tout ce que vous valez...</l>
 	<l id='1445'>Jouissez de vous-même, et régnez sur votre âme...</l>
 	<l id='1446'>De quoi vous ont servi les conseils d'une femme !...</l>
@@ -2889,7 +2889,7 @@
 	<l id='1459'>Je vais vous quitter.... Non ; ce n'est plus vôtre amant,</l>
 	<l id='1460'>Ce n'est qu'un tendre ami qui parle en ce moment,</l>
 	<l id='1461'>Tout est fini pour moi : je n'ai rien à prétendre...</l>
-<stage>Avec beaucoup d'apprêt et de mystère.</stage>
+<stage type="[N/A]">Avec beaucoup d'apprêt et de mystère.</stage>
 	<l id='1462'>Mais il est un secret que je dois vous apprendre...</l>
 	<l id='1463'>Avant de m'éloigner si je n'ouvre vos yeux,</l>
 	<l id='1464'>Je perds jusqu'à l'espoir d'être seul malheureux...</l>
@@ -2981,13 +2981,13 @@
 	<l id='1510'>Il faut vous la donner : il m'en coûte, n'importe.</l>
 	<l id='1511'>Je ne puis, à ce point, me voir humilié.</l>
 	<l id='1512'>Votre sort en dépend : je suis justifié...</l>
-<stage>Lui donnant le portrait d'Orphise qu'il a dérobé.</stage>
+<stage type="[N/A]">Lui donnant le portrait d'Orphise qu'il a dérobé.</stage>
 	<l id='1513'>Connaissez à quel titre et sur quelle assurance</l>
 	<l id='1514'>Elle osait se flatter de ma reconnaissance,</l>
 </sp>
 <sp who="ROSALIE"><speaker>ROSALIE.</speaker>
 	<l id='1515'>Son portrait ! Se peut-il ?... Oui : je le reconnais...</l>
-<stage>Regardant le portrait et fondant en larmes.</stage>
+<stage type="[N/A]">Regardant le portrait et fondant en larmes.</stage>
 	<l id='1516'>Hélas ! Depuis longtemps tu me le destinais...</l>
 	<l id='1517' part='i'>Je n'ai donc plus personne au monde !...</l>
 </sp>
@@ -3008,7 +3008,7 @@
 	<l id='1525'>Que je ne pouvais plus devenir sa conquête,</l>
 	<l id='1526'>Voici les moyens doux et la ressource honnête</l>
 	<l id='1527' part='i'>Dont elle s'est servie...</l>
-<stage>Il lui donne la copie des informations contre lui.</stage>
+<stage type="[N/A]">Il lui donne la copie des informations contre lui.</stage>
 </sp>
 <sp who="ROSALIE"><speaker>ROSALIE.</speaker>
 	<l id='1527' part='m'>Eh ! Quoi ?</l>
@@ -3068,7 +3068,7 @@
 	<l id='1553'>Je lui peindrai si bien votre injuste famille,</l>
 	<l id='1554'>Qu'elle va dès l'instant vous adopter pour fille.</l>
 	<l id='1555'>Je réponds de son zèle à servir notre espoir.</l>
-<stage>Avec préparation et baissant la voix.</stage>
+<stage type="[N/A]">Avec préparation et baissant la voix.</stage>
 	<l id='1556'>Si vous y consentez, le temps presse,... ce soir,...</l>
 	<l id='1557'>Pour vous mettre à 1'abri du coup qui vous menace,</l>
 	<l id='1558'>Elle viendra vous prendre... au bas de la terrasse...</l>
@@ -3099,7 +3099,7 @@
 </sp>
 <sp who='ROSALIE'><speaker>ROSALIE.</speaker>
 	<l id='1574'>Je ne sais : je frémis : un froid mortel me glace.</l>
-<stage>Elle veut sortir : le Marquis s'y oppose.</stage>
+<stage type="[N/A]">Elle veut sortir : le Marquis s'y oppose.</stage>
 	<l id='1575' part='i'>Ne me retenez plus.</l>
 </sp>
 <sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
@@ -3121,15 +3121,15 @@
 <sp who='ROSALIE'><speaker>ROSALIE.</speaker>
 	<l id='1583' part='f'>Non, par pitié, par grâce, laissez-moi</l>
 	<l id='1584'>Voir et ce que je puis, et ce que je me dois.</l>
-<stage>Avec amertume et terreur.</stage>
+<stage type="[N/A]">Avec amertume et terreur.</stage>
 	<l id='1585'>Hélas ! Si vous saviez le mal que vous me faites !</l>
 </sp>
 <sp who='LE MARQUIS'><speaker>LE MARQUIS, lui rendant sa liberté.</speaker>
 	<l id='1586'>Fille divine ! Eh ! Bien, soyez ce que vous êtes,</l>
-<stage>Recourant après elle.</stage>
+<stage type="[N/A]">Recourant après elle.</stage>
 	<l id='1587'>Ce que vous voulez être, allez. Au moins daignez</l>
 	<l id='1588'>Me dire, en me quittant, que vous me pardonnez.</l>
-<stage>Il lui prend la main pour la retenir.</stage>
+<stage type="[N/A]">Il lui prend la main pour la retenir.</stage>
 </sp>
 <sp who='ROSALIE'><speaker>ROSALIE, avec une impatience plus douloureuse que vive.</speaker>
 	<l id='1589' part='i'>Pourquoi !</l>
@@ -3193,7 +3193,7 @@
 </sp>
 <sp who='ZÉRONÈS'><speaker>ZÉRONÈS.</speaker>
 	<l id='1603' part='i'>Ma foi, si je l'entends !</l>
-<stage>Il prépare ce qu'il faut pour écrire.</stage>
+<stage type="action">Il prépare ce qu'il faut pour écrire.</stage>
 </sp>
 <sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 	<l id='1603' part='f'>Quoi ! Rien n'est plus aisé.</l>
@@ -3269,7 +3269,7 @@
 <sp who='ZÉRONÈS'><speaker>ZÉRONÈS.</speaker>
 	<l id='1625' part='m'>Ah !</l>
 </sp>
-<stage>Il signe.</stage>
+<stage type="[N/A]">Il signe.</stage>
 <sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 	<l id='1625' part='f'>Dans une heure et demie,</l>
 	<l id='1626'>Remettez ce billet vous-même à Rosalie ;</l>
@@ -3313,10 +3313,10 @@
 </div2>
 </div1>
 <div1 type="act" n='5'><head>ACTE V</head>
-<stage>Le Théâtre change et représente un jardin.</stage>
+<stage type="decor">Le théâtre change et représente un jardin.</stage>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Zénorès, Le Marquis en surtout gris ; l'épée sous le bras, et le chapeau sur la tête.</head> 
 <sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
-<stage>NOTE pour les représentations de cette Pièce, en Province, ou en société. Il faudra bien convenir ici de ses faits, pour que les sorties et les entrées suivantes se fassent sans confusion. C'est par le premier sentier [A] que Zéronès doit s'enfuir à la fin de cette scène, comme étant le chemin le plus court. Orphise, Mélise, et Damis pour retourner au Château, prennent la même route que Zéronès ; mais doivent arriver sur la scène par le second sentier, [B] étant censés avoir couru déjà dans le parc, pour chercher Rosalie ; comme celle-ci arrive sur les traces d'Orphise, c'est donc par le même sentier qu'elle doit entrer sur la scène, ainsi que Darmance qui a suivi les pas de Rosalie : cet ordre est indispensable.</stage>
+<stage type="explicit">NOTE pour les représentations de cette Pièce, en Province, ou en société. Il faudra bien convenir ici de ses faits, pour que les sorties et les entrées suivantes se fassent sans confusion. C'est par le premier sentier [A] que Zéronès doit s'enfuir à la fin de cette scène, comme étant le chemin le plus court. Orphise, Mélise, et Damis pour retourner au Château, prennent la même route que Zéronès ; mais doivent arriver sur la scène par le second sentier, [B] étant censés avoir couru déjà dans le parc, pour chercher Rosalie ; comme celle-ci arrive sur les traces d'Orphise, c'est donc par le même sentier qu'elle doit entrer sur la scène, ainsi que Darmance qui a suivi les pas de Rosalie : cet ordre est indispensable.</stage>
 	<l id='1645'>Allons : il ne faut pas s'approcher davantage,</l>
 	<l id='1646'>En trois sentiers ici la route se partage...</l>
 	<l id='1647' part='i'>Où mène le premier ! [A]</l>
@@ -3478,7 +3478,7 @@
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE, s'avançant sur le théâtre échevelée et dans le désordre de la douleur, Mélise et Damis l'accompagnent*.</speaker>
 	<l id='1706' part='f'>Ma chère Rosalie.</l>
-<stage>Le Marquis s'enfuit par une allée d'où il est sorti, Zéronès par une allée opposée qui est censée conduire au château.</stage>
+<stage type="[N/A]">Le Marquis s'enfuit par une allée d'où il est sorti, Zéronès par une allée opposée qui est censée conduire au château.</stage>
 <note type='C'>* Cette note ne pourrait convenir que dans le cas où l'on exécuterait la scène suivante, qu'on m'a conseillé de supprimer après la première représentation. Aujourd'hui elle ne me paraît pas inutile, et je soumets  encore cette décision à mon lecteur. Voici la scène telle que je l'avais faite il y a six ans. Autrement Orphise ne doit pas se montrer.</note>
 </sp>
 </div2>
@@ -3510,7 +3510,7 @@
 	<l id='1720'>Précipitons nos pas. Revenez, mes amis....</l>
 	<l id='1721'>Faisons tout pour la voir, et cachons à son père</l>
 	<l id='1722'>Des soupçons qui pourraient réveiller sa colère.</l>
-<stage>Ils sortent par la même coulisse que Zéronès.</stage>
+<stage type="exit">Ils sortent par la même coulisse que Zéronès.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III.</head>
@@ -3529,8 +3529,8 @@
 	<l id='1734'>L'alarme est au château : je suis déjà coupable.</l>
 	<l id='1735'>Elle seule à présent peut me justifier.</l>
 	<l id='1736' part='i'>Allons l'implorer.</l>
-<stage>Elle fait quelques pas vers la coulisse par où le Marquis était entré.</stage>
-<stage>S'arrêtant.</stage>
+<stage type="[N/A]">Elle fait quelques pas vers la coulisse par où le Marquis était entré.</stage>
+<stage type="[N/A]">S'arrêtant.</stage>
 	<l id='1736' part='f'>Ciel ! Quel cri vient m'effrayer !</l>
 	<l id='1737'>Je crois entendre encor la voix de mon amie :</l>
 	<l id='1738'>Je j'entends m'appeler sa chère Rosalie/</l>
@@ -3634,7 +3634,7 @@
 </sp>
 <sp who='DARMANCE'><speaker>DARMANCE.</speaker>
 	<l id='1795' part='f'>Ciel ! Je vous vois fondre en pleurs...</l>
-<stage>À part.</stage>
+<stage type="aparte">À part.</stage>
 	<l id='1796'>Et tout mon cour se brise. Ô mortelles douleurs !</l>
 </sp>
 <sp who='ROSALIE'><speaker>ROSALIE, à part.</speaker>
@@ -3795,7 +3795,7 @@
 </sp>
 <sp who='ORGON'><speaker>ORGON, lisant à côté d'Orphise. </speaker>
 	<l id='1862' part='m'>Quoi !</l>
-<stage>À Zérónès, après avoir lu.</stage>
+<stage type="toward">À Zérónès, après avoir lu.</stage>
 	<l id='1862' part='f'>Quel homme abominable !</l>
 	<l id='1863' part='i'>Mais s'il était ici !...</l>
 </sp>
@@ -3842,7 +3842,7 @@
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE, après avoir observé Darmance et Rosalie qui l'entourent en la suppliant.</speaker>
 	<l id='1879'>De la séduction qui peut se garantir ?...</l>
-<stage>Unissant leurs mains.</stage>
+<stage type="[N/A]">Unissant leurs mains.</stage>
 	<l id='1880'>Ne vous séparez plus pour mieux vous secourir.</l>
 	<l id='1881'>Que ce moment d'erreur vous guide, et vous éclaire.</l>
 </sp>
@@ -3857,19 +3857,19 @@
 </sp>
 <sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 	<l id='1884' part='i'>Ah ! Ah ! Fort bien.</l>
-<stage>Il se tient caché derrière un arbre observant ce qui se passe.</stage>
+<stage type="[N/A]">Il se tient caché derrière un arbre observant ce qui se passe.</stage>
 </sp>
 <sp who='ORGON'><speaker>ORGON.</speaker>
 	<l id='1884' part='f'>Demain je comblerai vos voeux</l>
 	<l id='1885'>Pont moi reconnoissant mes torts et ma faiblesse,</l>
 	<l id='1886'>Je veux les réparer au sein de la sagesse</l>
 	<l id='1887' part='i'>Et de ce digne ami...</l>
-<stage>Montrant Zéronès.</stage>
+<stage type="[N/A]">Montrant Zéronès.</stage>
 </sp>
 <sp who='ROSALIE'><speaker>ROSALIE.</speaker>
 	<l id='1887' part='f'>Lui, mon père ! Ah ! Je dois</l>
 	<l id='1888'>Détromper votre coeur quand il fait tout pour moi.</l>
-<stage>Montrant Zéronès.</stage>
+<stage type="[N/A]">Montrant Zéronès.</stage>
 	<l id='1889' part='i'>C'est lui qui m'a remis la lettre.</l>
 </sp>
 <sp who='ORGON'><speaker>ORGON, furieux.</speaker>
@@ -3902,7 +3902,7 @@
 	<l id='1902'>"Allons attendre ailleurs le progrès des Lumières.</l>
 	<l id='1903'>Je me suis trop pressé. Plaignons, mon cher Docteur,</l>
 	<l id='1904'>Ceux qui jugent si mal votre esprit et mon coeur."</l>
-<stage>Les derniers vers marqués ici avec des guillemets, ont été supprimés à la représentation. </stage>
+<stage type="[N/A]">Les derniers vers marqués ici avec des guillemets, ont été supprimés à la représentation. </stage>
 </sp>
 </div2>
 </div1>

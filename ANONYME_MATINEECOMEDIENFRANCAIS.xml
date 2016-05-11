@@ -313,7 +313,7 @@
 <p id='31'>
 	<s id='1'>Comment vous exprimer tout ce que je vous dois ?</s>
 </p>
-<stage>Il sort.</stage>
+<stage type="exit">Il sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V.</head>
@@ -322,7 +322,7 @@
 	<s id='1'>Me voilà engagé ; allons, il n'y a pas à reculer ; arrive ce qui voudra, je ne peux plus m'en dédire. </s>
 	<s id='2'>Au reste, il est docile,et c'est ce qu'il me faut à moi. </s>
 </p>
-<stage>À La Fleur qui rentre avec la robe de chambre.</stage>
+<stage type="toward">À La Fleur qui rentre avec la robe de chambre.</stage>
 <p id='2'>
 	<s id='1'>Ah, te voilà avec ce que j'attendais ; allons vite, essayons-la.</s>
 </p>
@@ -520,7 +520,7 @@
 	<s id='1'>Heureuse tranquillité ! </s>
 	<s id='2'>Vous faites de l'amour un joujou. </s>
 </p>
-<stage>Voyant que Sophie paraît vouloir se lever.</stage>
+<stage type="[N/A]">Voyant que Sophie paraît vouloir se lever.</stage>
 <p id='26'>	
 	<s id='1'>Parlons donc de choses sérieuses avec vous, Sophie.</s>
 </p>
@@ -899,7 +899,7 @@
 	<s id='1'>Ah ! </s>
 	<s id='2'>Si vous plaidez pour lui, vous obtiendrez tout.</s>
 </p>
-<stage>À la Fleur.</stage>
+<stage type="toward">À la Fleur.</stage>
 <p id='7'>
 	<s id='1'>A-t-il paru s'impatienter dans les différentes fois ?</s>
 </p>
@@ -976,15 +976,15 @@
 	<s id='1'>Ah ! </s>
 	<s id='2'>C'est un auteur.</s>
 </p>
-<stage>Haut à la Fleur.</stage> 
+<stage type="forte">Haut à la Fleur.</stage> 
 <p id='22'>
 	<s id='1'>Qu'importe ; fais ce que je te dis.</s>
 </p>
-<stage>Bas à Sophie.</stage>
+<stage type="toward/mezzo voce">Bas à Sophie.</stage>
 <p id='23'>
 	<s id='1'>C'est à cause de cela qu'il faut le recevoir.</s>
 </p>
-<stage>La Fleur sort.</stage>
+<stage type="exit">La Fleur sort.</stage>
 </sp>
 <sp who='SOPHIE'><speaker>SOPHIE.</speaker>
 <p id='24'>
@@ -1135,7 +1135,7 @@
 	<s id='1'>J'accepte donc, puisque vous le voulez,et sors pénétré de tout ce que vous faites pour moi. </s>
 	<s id='2'>Adieu, Monsieur : Madame, je vous présente mon respect. </s>
 </p>
-<stage>Sophie, fait une révérence à la mode ; c'est-à-dire, fait un encensoir de ses reins.</stage>
+<stage type="[N/A]">Sophie, fait une révérence à la mode ; c'est-à-dire, fait un encensoir de ses reins.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='11'><head>SCÈNE XI. Belval, Sophie.</head>
@@ -1169,7 +1169,7 @@
 <p id='5'>
 	<s id='1'>Comment, vous avez fait cette remarque ?</s>
 </p>
-<stage>D'un air de dédain.</stage>
+<stage type="[N/A]">D'un air de dédain.</stage>
 <p id='6'>
 	<s id='1'>Oui, oui, il est assez bien, pas mal.</s>
 </p>
@@ -1407,7 +1407,7 @@
 	<s id='1'>Que peut-il me dire ? </s>
 	<s id='2'>Voyons. </s>
 </p>
-<stage>En ouvrant la Lettre.</stage>
+<stage type="[N/A]">En ouvrant la Lettre.</stage>
 <p id='19'>
 	<s id='1'>Elle était écrite avant de se rendre chez moi...</s>
 </p>
@@ -1421,7 +1421,7 @@
 <p id='21'>
 	<s id='1'>Vous allez le savoir.</s>
 </p>
-<stage>Il lit.</stage>
+<stage type="read">Il lit.</stage>
 <p id='22'>
 	<s id='1'>"Il semble, Monsieur, que vous devriez vous défaire de l'habitude d'offrir des services que secrètement vous vous promettez bien de ne pas rendre." </s>
 	<s id='2'>Ce n'est que du verbiage que tout cela ; je l'achèverai dans un autre moment.</s>
@@ -1446,7 +1446,7 @@
 <p id='26'>
 	<s id='1'>Vous le voulez, à la bonne heure.</s>
 </p>
-<stage>Il continue.</stage>
+<stage type="[N/A]">Il continue.</stage>
 <p id='27'>
 	<s id='1'>"Ne me croyez pas votre dupe ; vous n'avez pas lu " ma Pièce." Ah j'aime bien qu'il doute.</s>
 </p>
@@ -1461,7 +1461,7 @@
 	<s id='1'>"Car je ne vous en ai point remise. </s>
 	<s id='2'>C'est un cahier blanc sous enveloppe que vous avez reçu de moi."</s>
 </p>
-<stage>Belval étonné.</stage>
+<stage type="[N/A]">Belval étonné.</stage>
 </sp>
 <sp who='SOPHIE'><speaker>SOPHIE.</speaker>
 <p id='30'>
@@ -1474,7 +1474,7 @@
 	<s id='1'>Quoi ! </s>
 	<s id='2'>Je serais...</s>
 </p>
-<stage>À Sophie qui le presse d'achever.</stage>
+<stage type="toward">À Sophie qui le presse d'achever.</stage>
 <p id='32'>
 	<s id='1'>Je continue. </s>
 	<s id='2'>" J'ai voulu vérifier si les plaintes que j'ai entendu faire à un jeune homme de ma connaissance avoient quelques fondements. </s>

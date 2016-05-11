@@ -68,7 +68,7 @@
 		</front>
 <body>
 <div1 type="act" n='1'><head>ACTE I</head>
-<stage>Le théâtre représente une chambre simplement meublée. Sur un des côtés de la scène est un grand bureau de travail, couvert de cartes, de livres, de giobes et d'instruments de mathématiques.</stage>
+<stage type="decor">Le théâtre représente une chambre simplement meublée. Sur un des côtés de la scène est un grand bureau de travail, couvert de cartes, de livres, de giobes et d'instruments de mathématiques.</stage>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE.</head>
 <sp who='DESCARTES'><speaker>DESCARTES, seul, assis devant son bureau.</speaker>
 <p id='1'>
@@ -81,14 +81,14 @@
 </sp>
 </div2>
 <div2 type="scene" n='1'><head>SCÈNE I.. Descartes, Florina.</head>
-<stage>Elle frappe à la porte en dehors.</stage>
+<stage type="[N/A]">Elle frappe à la porte en dehors.</stage>
 <sp who='DESCARTES'><speaker>DESCARTES.</speaker>
 <p id='1'>
 	<s id='1'>Entrez.</s>
 </p>
 </sp>
 <sp who='FLORINA'><speaker>FLORINA.</speaker>
-<stage>Elle tient à la main un plateau, sur lequel sont plusieurs vases de terre.</stage>
+<stage type="[N/A]">Elle tient à la main un plateau, sur lequel sont plusieurs vases de terre.</stage>
 <p id='2'>
 	<s id='1'>C'est moi, Monsieur Descartes... </s>
 	<s id='2'>Je vous apporte votre thé.</s>
@@ -102,18 +102,18 @@
 </p>
 </sp>
 <sp who='FLORINA'><speaker>FLORINA.</speaker>
-<stage>Elle dépose le thé sur une petite table qu'elle place sur le devant de la scène.</stage>
+<stage type="action">Elle dépose le thé sur une petite table qu'elle place sur le devant de la scène.</stage>
 <p id='4'>
 	<s id='1'>Si je n'avais pas craint de vous distraire, je vous l'aurais apporté plutôt. </s>
 	<s id='2'>Il se fait déjà tard.</s>
 </p>
 </sp>
 <sp who='DESCARTES'><speaker>DESCARTES.</speaker>
-<stage>Il se lève.</stage>
+<stage type="[N/A]">Il se lève.</stage>
 <p id='5'>
 	<s id='1'>Effectivement, la matinée est plus avancée que je ne pensais. Le tems passe si vite à l'ouvrage. </s>
 </p>
-<stage>Il prend le thé et reste debout. </stage>
+<stage type="[N/A]">Il prend le thé et reste debout. </stage>
 <p id='6'>
 	<s id='1'>Et votre père, mon cher Marck ? </s>
 	<s id='2'>Je ne l'ai pas vu de la journée. </s>
@@ -200,19 +200,19 @@
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Les Précédents, Marck.</head>
 <sp who='MARCK'><speaker>MARCK.</speaker>
-<stage>En tablier de travail, il porte une lumière, deux pipes et une boîte à tabac qu'il dépose sur la table.</stage>
+<stage type="[N/A]">En tablier de travail, il porte une lumière, deux pipes et une boîte à tabac qu'il dépose sur la table.</stage>
 <p id='1'>
 	<s id='1'>Eh enfin !... </s>
 	<s id='2'>L'on peut prendre haleine... </s>
 	<s id='3'>J'ai cru que nons n'achèverions jamais ce maudit chariot.</s>
 </p>
-<stage>À Descartes.</stage>
+<stage type="toward">À Descartes.</stage>
 <p id='2'>
 	<s id='1'>Comment cela va-t-il ?</s>
 </p>
 </sp>
 <sp who='DESCARTES'><speaker>DESCARTES, lui serrant la main.</speaker>
-<stage>Florina leur apporte à chacun une chaise qu'elle pose de chaque côté de la table ; et elle sort.</stage>
+<stage type="exit">Florina leur apporte à chacun une chaise qu'elle pose de chaque côté de la table ; et elle sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Descartes, Marck.</head>
@@ -222,7 +222,7 @@
 </p>
 </sp>
 <sp who='DESCARTES'><speaker>DESCARTES, avec vivacité.</speaker>
-<stage>Il s'assied et allume sa pipe.</stage>
+<stage type="[N/A]">Il s'assied et allume sa pipe.</stage>
 <p id='2'>
 	<s id='1'>Point du tout ; j'ai dormi on ne peut mieux.</s>
 </p>
@@ -255,7 +255,7 @@
 	<s id='1'>« Tu es bien bon, me dit l'un de retirer chez toi cet étranger,  qu'on dit si savant, et qui n'est autre chose qu'un aventurier qui t'ensorcelera toi et toute ta faniille »... </s>
 	<s id='2'>Savez-vous, me dit un autre, d'un ton sombre et cafard, « savez-vous, mon ami, à quoi vous vous exposez en logeant chez vous cet homme qui fait tant de bruit dans Utrecht ? C'est un hérêtique, un impie qui n'a ni foi, ni dieu, et qui tôt ou tard fera tomber sur votre tête le feu vengeur du ciel ».</s>
 </p>
-<stage>Riant de toutes ses forces.</stage>
+<stage type="[N/A]">Riant de toutes ses forces.</stage>
 <p id='7'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Ah ! </s>
@@ -265,7 +265,7 @@
 	<s id='6'>Je ne finirais pas vous disais tout ce qu'on me dégoise sur votre compte... </s>
 	<s id='7'>Mais ils ont beau faire ; allez, je sais vous connaître, et vous êtes là.</s>
 </p>
-<stage>Il désigne son coeur.</stage>
+<stage type="[N/A]">Il désigne son coeur.</stage>
 <p id='8'>
 	<s id='1'>Oui, là, tout au fond, d'où jamais l'on ne pourra vous arracher.</s>
 </p>
@@ -353,7 +353,7 @@ reste encore quelques bouteilles.</s>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Je vous remercie.</s>
 </p>
-<stage>Elle sort.</stage>
+<stage type="exit">Elle sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Descartes, Marck.</head>
@@ -467,7 +467,7 @@ reste encore quelques bouteilles.</s>
 	<s id='1'>C'est après vous, mon cher Marck, le meilleur ami qui me reste... </s>
 	<s id='2'>Il ne tardera sûrement pas à venir m'apprendre...</s>
 </p>
-<stage>Amintus paraît.</stage>
+<stage type="[N/A]">Amintus paraît.</stage>
 <p id='18'>
 	<s id='1'>Justement. </s>
 	<s id='2'>le voici.</s>
@@ -479,7 +479,7 @@ reste encore quelques bouteilles.</s>
 <p id='1'>
 	<s id='1'>Eh bien, mon ami, quelles nouvelles ? </s>
 </p>
-<stage>Il se lève.</stage>
+<stage type="[N/A]">Il se lève.</stage>
 </sp>
 <sp who='AMINTUS'><speaker>AMINTUS.</speaker>
 <p id='2'>
@@ -548,21 +548,21 @@ me défendre.</s>
 <p id='1'>
 	<s id='1'>Le facteur vient d'apporter trois lettres que voici.</s>
 </p>
- <stage>Elle les remet à Descartes et sort.</stage>
+ <stage type="exit">Elle les remet à Descartes et sort.</stage>
 </sp>
 <sp who='DESCARTES'><speaker>DESCARTES.</speaker>
-<stage>Ouvrant la première lettre.</stage>
+<stage type="[N/A]">Ouvrant la première lettre.</stage>
 <p id='2'>
 	<s id='1'>« Paris... </s>
 	<s id='2'>C'est sûrement du Comte d'Avaux.</s>
 </p>
-<stage>Il lit.</stage>
+<stage type="read">Il lit.</stage>
 <p id='3'>
 	<s id='1'>Justement... </s>
 	<s id='2'>Moi, recevoir une somme aussi forte ! </s>
 	<s id='3'>Non, non ; le titre de bienfaiteur donne trop de droits sur mon âme pour que je l'accorde avec indifférence ; je n'accepterai rien.</s>
 </p>
-<stage>Il ouvre la deuxième lettre. </stage>
+<stage type="[N/A]">Il ouvre la deuxième lettre. </stage>
 <p id='4'>
 	<s id='1'>« De Stockholm...</s>
 </p>
@@ -571,21 +571,21 @@ me défendre.</s>
 <p id='5'>
 	<s id='1'>C'est de la reine de Suède.</s>
 </p>
-<stage>Il prend la lettre.</stage>
+<stage type="[N/A]">Il prend la lettre.</stage>
 </sp>
 <sp who='DESCARTES'><speaker>DESCARTES, examinant l'adresse de la troisième lettre.</speaker>
 <p id='6'>
 	<s id='1'>« La Haye... </s>
 	<s id='2'>C'est de ma nourrice je reconnais l'écriture.</s>
 </p>
-<stage>Il décachette la lettre avec précipitation.</stage>
+<stage type="[N/A]">Il décachette la lettre avec précipitation.</stage>
 </sp>
 <sp who='AMINTUS'><speaker>AMINTUS, avec empressement.</speaker>
 <p id='7'>
 	<s id='1'>Cette reine philosophe instruite de vos malheurs, vous offre sans doute... </s>
 	<s id='2'>Voyons donc sa lettre.</s>
 </p>
-<stage>Il s'apprête à la décacheter.</stage>
+<stage type="[N/A]">Il s'apprête à la décacheter.</stage>
 </sp>
 <sp who='DESCARTES'><speaker>DESCARTES, l'arrétant.</speaker>
 <p id='8'>
@@ -595,7 +595,7 @@ me défendre.</s>
 	<s id='4'>Écoutez !... </s>
 	<s id='5'>Écoutez !</s>
 </p>
-<stage>Il lit cette lettre avec une émotion graduée, et en sait sentir le style simple et rustique.</stage>
+<stage type="read">Il lit cette lettre avec une émotion graduée, et en sait sentir le style simple et rustique.</stage>
 <p id='9'>
 	<s id='1'>« De la Haye en Touraine, le 15 mai 1641.</s>
 </p>
@@ -608,7 +608,7 @@ me défendre.</s>
 	<s id='2'>Excellente femme ! </s>
 	<s id='3'>Va, je te paye bien de retour.</s>
 </p>
-<stage>Il porte la main à ses yeux.</stage>
+<stage type="[N/A]">Il porte la main à ses yeux.</stage>
 </sp>
 <sp who='MARCK'><speaker>MARCK, à part.</speaker>
 <p id='12'>
@@ -616,12 +616,12 @@ me défendre.</s>
 </p>
 </sp>
 <sp who='DESCARTES'><speaker>DESCARTES.</speaker>
-<stage>Il continue de lire la lettre.</stage>
+<stage type="[N/A]">Il continue de lire la lettre.</stage>
 <p id='12'>
 	<s id='1'>« Pour me consoler de n'plus vous voir j'm'en vas tous les matins faire ma prière dans la chambre où qu'vous êtes né. </s>
 	<s id='2'>J'y r'marcie Dieu d'm'avoir accordé l'bonheur de vous nourri'd'mon lait, et j'li d'mande pour na récompense, d'répandre sur vous ses bénédictions.</s>
 </p>
-<stage>Il s'arrête un moment dans la plus vive émotion.</stage>
+<stage type="[N/A]">Il s'arrête un moment dans la plus vive émotion.</stage>
 <p id='13'>
 	<s id='1'>« Ah ça, vous n'oublierez pas, qu'vous nous avez promis de r'veni' dans not village. Vous y trouv'rez encore d'bonnes gens, qui tous s'ront ben ravi d'vous voir ; mais aucun n'en aura plus d'joie qu'vot vieille Marguerite qui voudrait ben n'pas mouri', sans vous presser encor queuqu'p'tit-fois dans ses bras. »</s>
 </p>
@@ -629,13 +629,13 @@ me défendre.</s>
 	<s id='1'>Le voilà bien le langage du coeur, le vrai cri de la nature !... </s>
 	<s id='2'>Je ne donnerais pas cette lettre pour tous les trésors de l'univers...</s>
 </p>
-<stage>Il la met dans son sein.</stage>
+<stage type="[N/A]">Il la met dans son sein.</stage>
 <p id='15'>
 	<s id='1'>Voyons maintenant ce que m'écrit la reine de Suède.</s>
 </p>
 </sp>
 <sp who='AMINTUS'><speaker>AMINTUS. </speaker>
-<stage>Il lit la lettre.</stage>
+<stage type="read">Il lit la lettre.</stage>
 <p id='16'>
 	<s id='1'>« Le bruit de tes persécutions est parvenu jusqu'à moi. </s>
 	<s id='2'>Je suis souveraine ; tu es phllosophe : faisons ensemble un traité. </s>
@@ -670,7 +670,7 @@ me défendre.</s>
 	<s id='1'>Et que deviendrions-nous, nous autres, à qui vous avez donné l'habitude de vous voir et de vous aimer ? </s>
 	<s id='2'>Pour moi, je ne peux plus me passer de vous d'ahord;' arrangez-vcus là-dessus.</s>
 </p>
-<stage>Descartes lui serre la main.</stage>
+<stage type="[N/A]">Descartes lui serre la main.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='9'><head>SCÈNE IX. Les Précédents, Florina.</head>
@@ -702,7 +702,7 @@ me défendre.</s>
 	<s id='1'>Voyez... </s>
 	<s id='2'>Si c'est lui, vous me ferez avertir.</s>
 </p>
-<stage>Marck et Florina sortent.</stage>
+<stage type="exit">Marck et Florina sortent.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='10'><head>SCÈNE X. Descartes, Amintus.</head>
@@ -733,7 +733,7 @@ me défendre.</s>
 <p id='2'>
 	<s id='1'>Vous pouvez l'introduire.</s>
 </p>
-<stage>Marck sort.</stage>
+<stage type="exit">Marck sort.</stage>
 </sp>
 <sp who='AMINTUS'><speaker>AMINTUS.</speaker>
 <p id='3'>
@@ -746,7 +746,7 @@ me défendre.</s>
 <p id='4'>
 	<s id='1'>Écoutez, monsieur, entrez.</s>
 </p>
-<stage>Il introduit Maurice de Nassau couvert d'un large manteau brun ; Amintus l'examine, et en sortant, il fait sentir par son jeu qu'il recommande à Marck de ne pas quitter Descartes.</stage>
+<stage type="[N/A]">Il introduit Maurice de Nassau couvert d'un large manteau brun ; Amintus l'examine, et en sortant, il fait sentir par son jeu qu'il recommande à Marck de ne pas quitter Descartes.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='12'><head>SCÈNE XII. Descartes, Maurice de Nassau, Marck.</head>
@@ -771,7 +771,7 @@ me défendre.</s>
 <p id='4'>
 	<s id='1'>Volontiers.</s>
 </p>
-<stage>Il s'aperçoit que Marck sait de la résistance pour sortir ; il va à lui et aprés un jeu pantomime, il le détermine à s'éloigner.</stage>
+<stage type="[N/A]">Il s'aperçoit que Marck sait de la résistance pour sortir ; il va à lui et aprés un jeu pantomime, il le détermine à s'éloigner.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='13'><head>SCÈNE XIII. Descartes, Maurice.</head>
@@ -784,7 +784,7 @@ me défendre.</s>
 <p id='2'>
 	<s id='1'>Asseyez-vous : je vous prie.</s>
 </p>
-<stage>Il s'assied.</stage>
+<stage type="[N/A]">Il s'assied.</stage>
 </sp>
 <sp who='MAURICE'><speaker>MAURICE. </speaker>
 <p id='3'>
@@ -847,7 +847,7 @@ me défendre.</s>
 </p>
 </sp>
 <sp who='DESCARTES'><speaker>DESCARTES. </speaker>
-<stage>Il se lève, ainsi que Maurice.</stage>
+<stage type="[N/A]">Il se lève, ainsi que Maurice.</stage>
 <p id='12'>
 	<s id='1'>Moi, attaquer votre république naissante ! </s>
 	<s id='2'>Moi, troubler ces Provinces-Unies où tout renaît à l'indépendance, et dont le séjour a pour moi tant do charmes ! </s>
@@ -920,7 +920,7 @@ me défendre.</s>
 	<s id='1'>Vous-même déjà... </s>
 	<s id='2'>Vous êtes tourmenté...</s>
 </p>
-<stage>S'approchant de Descartes, avec la sensibilité la plus respectueuse.</stage>
+<stage type="[N/A]">S'approchant de Descartes, avec la sensibilité la plus respectueuse.</stage>
 <p id='24'>
 	<s id='1'>Ne me le cachez pas ; vous avez des chagrins.</s>
 </p>
@@ -1021,7 +1021,7 @@ me défendre.</s>
 	<s id='1'>Que me proposez-vous !... </s>
 	<s id='2'>C'est sur moi seul que ces fanatiques veulent assouvir leur rage ; ils me trouveront ici, j'y dois attendre leurs coups, et non par ma fuite troubler le foyer, de cet honnête homme.</s>
 </p>
-<stage>Il désigne Marck.</stage>
+<stage type="[N/A]">Il désigne Marck.</stage>
 <p id='12'>
 	<s id='1'>Et peut-être le faire punir de m'avoir prodigué tous les soins de l'hospitalité.</s>
 </p>
@@ -1034,16 +1034,16 @@ me défendre.</s>
 	<s id='4'>Fuyez !... </s>
 	<s id='5'>Vos persécuteurs peuvent bien me faire périr ; mais je les défie de me faire jamais repentir de vous avoir connu.</s>
 </p>
-<stage>On entend du bruit au fond du théâtre.</stage>
+<stage type="noise">On entend du bruit au fond du théâtre.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='15'><head>SCÈNE XV. Les Précédents, Florina.</head>
 <sp who='FLORINA'><speaker>FLORINA. </speaker>
-<stage>Elle accourt effarée.</stage>
+<stage type="[N/A]">Elle accourt effarée.</stage>
 <p id='1'>
 	<s id='1'>Ah mon père !...</s>
 </p>
-<stage>À Descartes.</stage>
+<stage type="toward">À Descartes.</stage>
 <p id='2'>
 	<s id='1'>Ah monsieur ! </s>
 	<s id='2'>C'est fait de nous... </s>
@@ -1052,7 +1052,7 @@ me défendre.</s>
 	<s id='5'>Il y en a plein la boutique... </s>
 	<s id='6'>Ils vous cherchent. ils vous demandent.</s>
 </p>
-<stage>Le tumulte augmente.</stage>
+<stage type="[N/A]">Le tumulte augmente.</stage>
 <p id='3'>
 	<s id='1'>Les voilà sur mes pas,</s>
 </p>
@@ -1085,7 +1085,7 @@ me défendre.</s>
 	<s id='1'>Pardon monsieur ! </s>
 	<s id='2'>Daignez excuser l'élan d'une âme brûlante et sensible.</s>
 </p>
-<stage>Il frappe sur le sein de Marck.</stage>
+<stage type="[N/A]">Il frappe sur le sein de Marck.</stage>
 <p id='6'>
 	<s id='1'>On n'est pas toujours maitre de commander à son coeur.</s>
 </p>
@@ -1097,7 +1097,7 @@ me défendre.</s>
 </p>
 </sp>
 <sp who='MAURICE'><speaker>MAURICE.</speaker>
-<stage>Il s'est tenu à l'écart jusqu'à ce moment, et a tout observé.</stage>
+<stage type="[N/A]">Il s'est tenu à l'écart jusqu'à ce moment, et a tout observé.</stage>
 <p id='8'>
 	<s id='1'>Arrêtez !</s>
 </p>
@@ -1117,11 +1117,11 @@ me défendre.</s>
 <p id='11'>
 	<s id='1'>Les voici !...</s>
 </p>
-<stage>Maurice lit les ordres et les remet à l'officier sans rien dire.</stage>
+<stage type="[N/A]">Maurice lit les ordres et les remet à l'officier sans rien dire.</stage>
 <p id='12'>
 	<s id='1'>Allons, marchez ; dépêchons-nous ! </s>
 </p>
-<stage>Il s'avance et saisit brusquement Descartes.</stage>
+<stage type="[N/A]">Il s'avance et saisit brusquement Descartes.</stage>
 </sp>
 <sp who='MAURICE'><speaker>MAURICE, s'élançant au milieu d'eux.</speaker>
 <p id='13'>
@@ -1149,7 +1149,7 @@ me défendre.</s>
 <p id='17'>
 	<s id='1'>Puisque cela ne vous suffit pas, reconnaissez Maurice de Nassau.</s>
 </p>
-<stage>Il jette son manteau et paraît dans son costume.</stage>
+<stage type="[N/A]">Il jette son manteau et paraît dans son costume.</stage>
 </sp>
 <sp who="L'OFFICIER"><speaker>L'OFFICIER.</speaker>
 <p id='18'>
@@ -1163,11 +1163,11 @@ me défendre.</s>
 </p>
 </sp>
 <sp who='MAURICE'><speaker>MAURICE.</speaker>
-<stage>À Descartes.</stage>
+<stage type="toward">À Descartes.</stage>
 <p id='20'>
 	<s id='1'>Lui-même.</s>
 </p>
-<stage>Aux autres.</stage>
+<stage type="toward">Aux autres.</stage>
 <p id='20'>
 	<s id='1'>Instruit des horreurs que l'on trame contre cet homme célèbre, j'ai voulu, avant d'y mettre obstacle, m'assurer de son innocence. </s>
 	<s id='2'>J'ai fait suivre tous ses pas, examiner ses plus secrettes habitudes... </s>
@@ -1182,16 +1182,16 @@ me défendre.</s>
 	<s id='11'>Viens ; je ne te quitte plus ; et si malgré la force de ton  innocence, il te reste encore des dangers à courir, tout mon corps deviendra, le bouclier du tien... </s>
 	<s id='12'>Marchons.</s>
 </p>
-<stage>Ils sortent tous.</stage>
+<stage type="exit">Ils sortent tous.</stage>
 </sp>
 </div2>
 </div1>
 <div1 type="act" n='2'><head>ACTE II</head>
-<stage>Le théâtre représente l'intérieur de l'atelier de Marck ; il est rempli d'outils, bois et instrumens nécessaires au charronage. Sur le côté du théâtre, à la gauche du spectateur, est un escalier de bois, au haut duquel est l'entrée de la chambre de Descartes. Sur le côté droit et vis-à-vis, est une porte qui conduit dans une seconde pièce. Au fond du théâtre, est une grande porte ouverte, devant laquelle on apperçoit un jardin : c'est la porte d'entrée.</stage>
-<stage>Au lever de la toile, Marck et Félicio, au fond du théâtre ; travaillent, savoir, le premier à tarauder le moyeu d'une roue, et l'autre à assembler des jantes. Florina assise, travaille à un dévidoir, près d'une armoire dans laquelle est renfermée une cassette à deux serrures dont le dessus a la forme d'un tronc.</stage>
+<stage type="decor">Le théâtre représente l'intérieur de l'atelier de Marck ; il est rempli d'outils, bois et instrumens nécessaires au charronage. Sur le côté du théâtre, à la gauche du spectateur, est un escalier de bois, au haut duquel est l'entrée de la chambre de Descartes. Sur le côté droit et vis-à-vis, est une porte qui conduit dans une seconde pièce. Au fond du théâtre, est une grande porte ouverte, devant laquelle on apperçoit un jardin : c'est la porte d'entrée.</stage>
+<stage type="action">Au lever de la toile, Marck et Félicio, au fond du théâtre ; travaillent, savoir, le premier à tarauder le moyeu d'une roue, et l'autre à assembler des jantes. Florina assise, travaille à un dévidoir, près d'une armoire dans laquelle est renfermée une cassette à deux serrures dont le dessus a la forme d'un tronc.</stage>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Marck, Florina, Félicio.</head>
 <sp who='MARCK'><speaker>MARCK. </speaker>
-<stage>Il doit avoir pendant cette scène, la voix souvent interrompue par les efforts qu'il fait pour percer le moyeu.</stage>
+<stage type="action">Il doit avoir pendant cette scène, la voix souvent interrompue par les efforts qu'il fait pour percer le moyeu.</stage>
 <p id='1'>
 	<s id='1'>Eh ben, enfants ?... </s>
 	<s id='2'>Vous ne dites rien... </s>
@@ -1256,13 +1256,13 @@ Il fait un effort.
 	<s id='3'>Mais n'en parlons plus : notre ami nous est rendu... </s>
 	<s id='4'>Ne songeons qu'au bonheur de le posséder.</s>
 </p>
-<stage>À Florina.</stage>
+<stage type="toward">À Florina.</stage>
 <p id='12'>
 	<s id='1'>Vois donc ce qu'il fait dans le jardin.</s>
 </p>
 </sp>
 <sp who='FLORINA'><speaker>FLORINA.</speaker>
-<stage>Elle regarde à la porte du fond.</stage>
+<stage type="[N/A]">Elle regarde à la porte du fond.</stage>
 <p id='13'>
 	<s id='1'>Il bêche toujours auprès du grand berceau.</s>
 </p>
@@ -1282,12 +1282,12 @@ Il fait un effort.
 	<s id='1'>Parbleu ! </s>
 	<s id='2'>Je le crois bien ; il y passe toutes ses soirées, et il travaille comme s'il était payé pour ça.</s>
 </p>
-<stage>Il finit en ce moment de percer le moyeu.</stage>
+<stage type="[N/A]">Il finit en ce moment de percer le moyeu.</stage>
 <p id='17'>
 	<s id='1'>Ouf ! Voilà enfin qui est achevé... </s>
 	<s id='2'>Je suis tout en eau.</s>
 </p>
-<stage>Il s'essuie le visage.</stage>
+<stage type="[N/A]">Il s'essuie le visage.</stage>
 <p id='18'>
 	<s id='1'>Ce maudit bois-la n'est pas facile à manier.</s>
 </p>
@@ -1296,7 +1296,7 @@ Il fait un effort.
 <p id='19'>
 	<s id='1'>J'ai fini d'assembler aussi toutes ces pièces.</s>
 </p>
-<stage>Ils quittent tous l'ouvrage.</stage>
+<stage type="[N/A]">Ils quittent tous l'ouvrage.</stage>
 </sp>
 <sp who='MARCK'><speaker>MARCK.</speaker>
 <p id='20'>
@@ -1343,7 +1343,7 @@ Il fait un effort.
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Les Précédents, Descartes.</head>
-<stage>Il entre par la porte du fond ; il porte d'une main une béche et un rateau, et de l'autre un panier rempli de légumes et de fruits.</stage>
+<stage type="[N/A]">Il entre par la porte du fond ; il porte d'une main une béche et un rateau, et de l'autre un panier rempli de légumes et de fruits.</stage>
 <sp who='MARCK'><speaker>MARCK.</speaker>
 <p id='1'>
 	<s id='1'>Comme vous voilà chargé !</s>
@@ -1358,7 +1358,7 @@ Il fait un effort.
 <p id='3'>
 	<s id='1'>Donnez ; ça me regarde, moi.</s>
 </p>
-<stage>Elle prend le panier, et le dépose sur l'armoire.</stage>
+<stage type="[N/A]">Elle prend le panier, et le dépose sur l'armoire.</stage>
 </sp>
 <sp who='MARCK'><speaker>MARCK, toujours riant.</speaker>
 <p id='4'>
@@ -1402,7 +1402,7 @@ Il fait un effort.
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Les Mêmes, Amintus.</head>
 <sp who='AMINTUS'><speaker>AMINTUS. </speaker>
-<stage>Il entre par le jardin.</stage>
+<stage type="[N/A]">Il entre par le jardin.</stage>
 <p id='1'>
 	<s id='1'>Eh bien, mon cher maître, votre âme est-elle reposée de la secousse de ce matin ?</s>
 </p>
@@ -1413,7 +1413,7 @@ Il fait un effort.
 	<s id='2'>Ce sont-là de ces orages qui, dissipés aussitôt qu'ils se forment, peuvent à peine obscurcir un instant l'horizon... </s>
 	<s id='3'>D'ailleurs et j'en rends grâce au ciel, le mal qu'on me fait ne peut s'arrêter dans ma mémoire. </s>
 </p>
-<stage>Pressant sur son coeur une main d'Amintus et une main de Marck.</stage>
+<stage type="[N/A]">Pressant sur son coeur une main d'Amintus et une main de Marck.</stage>
 <p id='3'>
 	<s id='1'>Il n'y a que le bien qui s'y grave éternellement... </s>
 	<s id='2'>Mais je crains de gêner ici nos amis dans leurs travaux ; Amintus, montons dans ma chambre.</s>
@@ -1423,17 +1423,17 @@ Il fait un effort.
 <p id='4'>
 	<s id='1'>Eh non ; vous pouvez rester : nous avons à travailler au dehors.</s>
 </p>
-<stage>À Félicio.</stage>
+<stage type="toward">À Félicio.</stage>
 <p id='5'>
 	<s id='1'>Il faut rentrer ces nouvelles pièces de bois, qui nous sont nécessaires pour la charrue du père Guillaume ; viens.</s>
 </p>
-<stage>Il sort avec Félicio par la porte du fond.</stage>
+<stage type="exit">Il sort avec Félicio par la porte du fond.</stage>
 </sp>
 <sp who='FLORINA'><speaker>FLORINA.</speaker>
 <p id='6'>
 	<s id='1'>Et moi, pendant ce temps-là, je vais serrer ce qui est dans ce	panier.</s>
 </p>
-<stage>Elle prend le panier qu'elle avait déposé sur l'armoire ; et sort par la porte latérale.</stage>
+<stage type="[N/A]">Elle prend le panier qu'elle avait déposé sur l'armoire ; et sort par la porte latérale.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Descartes, Amintus.</head>
@@ -1544,12 +1544,12 @@ Il fait un effort.
 <p id='16'>
 	<s id='1'>Voilà toujours comme vous me faites faire tout ce que vous voulez.</s>
 </p>
-<stage>Ils sortent par la porte d'entrée.</stage>
+<stage type="exit">Ils sortent par la porte d'entrée.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V.</head>
 <sp who='FLORINA'><speaker>FLORINA, seule.</speaker>
-<stage>Elle rentre par la petile porte latérale.</stage>
+<stage type="entrance">Elle rentre par la petite porte latérale.</stage>
 <p id='1'>
 	<s id='1'>Que le travail est ennuyeux, quand ou est seule !... </s>
 	<s id='2'>On fait tout de travers ; on n'a de coeur à rien. </s>
@@ -1559,7 +1559,7 @@ Il fait un effort.
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Fllorina, Félicio.</head>
-<stage>Il entre chargé d'une pièce de bois qu'il dépose au fond du théâtre.</stage>
+<stage type="[N/A]">Il entre chargé d'une pièce de bois qu'il dépose au fond du théâtre.</stage>
 <sp who='FLORINA'><speaker>FLORINA, allant au-devant de lui.</speaker>
 <p id='1'>
 	<s id='1'>Mon ami, tu dois être bien fatigué !</s>
@@ -1574,24 +1574,24 @@ Il fait un effort.
 <p id='3'>
 	<s id='1'>Comme la sueur coule sur ton visage !</s>
 </p>
-<stage>Elle essuie sa figure avec son tablier.</stage>
+<stage type="[N/A]">Elle essuie sa figure avec son tablier.</stage>
 </sp>
 <sp who='FÉLICIO'><speaker>FÉLICIO.</speaker>
 <p id='4'>
 	<s id='1'>Florina ! </s>
 	<s id='2'>Que tes soins sont doux et caressants !</s>
 </p>
-<stage>Il l'embrasse, Marck paroît aussitôt.</stage>
+<stage type="[N/A]">Il l'embrasse, Marck paroît aussitôt.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII. Les Précédents, Marck. </head>
-<stage>Il est aussi chargé d'une pièce de bois.</stage>
+<stage type="[N/A]">Il est aussi chargé d'une pièce de bois.</stage>
 <sp who='MARCK'><speaker>MARCK.</speaker>
 <p id='1'>
 	<s id='1'>Fort ben !... </s>
 	<s id='2'>Ne vous gênez pas.</s>
 </p>
-<stage>Il rit en tapinois et va déposer sa pièce de bois au fond du théâtre.</stage>
+<stage type="laugh">Il rit en tapinois et va déposer sa pièce de bois au fond du théâtre.</stage>
 </sp>
 <sp who='FLORINA'><speaker>FLORINA.</speaker>
 <p id='2'>
@@ -1630,12 +1630,12 @@ Il fait un effort.
 <p id='8'>
 	<s id='1'>À le rafraîchir par un baiser n'est-ce pas ?... </s>
 </p>
-<stage>Il s'assied en riant. </stage>
+<stage type="[N/A]">Il s'assied en riant. </stage>
 <p id='9'>
 	<s id='1'>Le remède est nouveau par exemple... </s>
 	<s id='2'>J'ai parbleu tout aussi chaud que lui...</s>
 </p>
-<stage>Avec sentiment et gaieté.</stage>
+<stage type="[N/A]">Avec sentiment et gaieté.</stage>
 <p id='9'>
 	<s id='1'>Eh bien puisque tes baisers sont si rafraîchissants, viens donc me baiser aussi, moi.</s>
 </p>
@@ -1644,7 +1644,7 @@ Il fait un effort.
 <p id='10'>
 	<s id='1'>Mon père !</s>
 </p>
-<stage>Elle s'élance dans ses bras.</stage>
+<stage type="[N/A]">Elle s'élance dans ses bras.</stage>
 </sp>
 <sp who='FÉLICIO'><speaker>FÉLICIO.</speaker>
 <p id='11'>
@@ -1676,7 +1676,7 @@ Il s'éloigne et revient.
 <p id='16'>
 	<s id='1'>Soyez tranquille.</s>
 </p>
-<stage>Marck sort.</stage>
+<stage type="exit">Marck sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='8'><head>SCÈNE VIII. Félicio, Florina.</head>
@@ -1689,7 +1689,7 @@ Il s'éloigne et revient.
 <p id='2'>
 	<s id='1'>Tu as raison.</s>
 </p>
-<stage>Ils vont tous les deux à l'armoire, y prennent la cassette, et viennent s'asseoir sur le devant de la scène, où ils la déposent entre eux deux.</stage>
+<stage type="action">Ils vont tous les deux à l'armoire, y prennent la cassette, et viennent s'asseoir sur le devant de la scène, où ils la déposent entre eux deux.</stage>
 </sp>
 <sp who='FLORINA'><speaker>FLORINA.</speaker>
 <p id='3'>
@@ -1726,7 +1726,7 @@ Il s'éloigne et revient.
 	<s id='1'>Elle était si vieille ! </s>
 	<s id='2'>Ma mère l'avait héritée de sa mère qui la tenait de sa grand-tante.</s>
 </p>
-<stage>Elle met les florins dans la cassette.</stage>
+<stage type="[N/A]">Elle met les florins dans la cassette.</stage>
 <p id='10'>
 	<s id='1'>Un, deux. et six.</s>
 </p>
@@ -1752,7 +1752,7 @@ Il s'éloigne et revient.
 <p id='14'>
 	<s id='1'>Dix et six font.</s>
 </p>
-<stage>Elle compte sur ses doigts.</stage>
+<stage type="[N/A]">Elle compte sur ses doigts.</stage>
 <p id='15'>
 	<s id='1'>Seize... </s>
 	<s id='2'>Avec ce que mon père va nous apporter, nous devons approcher aujourd'hui de nos cinq cens florins.</s>
@@ -1770,7 +1770,7 @@ Il s'éloigne et revient.
 </p>
 </sp>
 <sp who='FÉLICIO'><speaker>FÉLICIO.</speaker>
-<stage>Il la tire de sa poche. </stage>
+<stage type="[N/A]">Il la tire de sa poche. </stage>
 <p id='18'>
 	<s id='1'>J'ai bien cette médaille d'argent qui fut donnée à mon père pour avoir sauvé lui seul trois personnes qui se noyaient dans le canal ; mais elle  honore la mémoire de celui qui m'a donné le jour ; elle m'offre sans cesse un bel exemple à suivre... </s>
 	<s id='2'>M'en séparer... </s>
@@ -1784,7 +1784,7 @@ Il s'éloigne et revient.
 	<s id='2'>Garde-la bien... </s>
 	<s id='3'>C'est comme ce coeur d'or...</s>
 </p>
-<stage>Elle le tire de sou sein</stage>
+<stage type="[N/A]">Elle le tire de sou sein</stage>
 <p id='20'>
 	<s id='1'>Dont ce voyageur fit présent à ma mère ; qui avait trouvé sa bourse... </s>
 	<s id='2'>Il ne sortira de là, que quand je ne serai plus... </s>
@@ -1805,14 +1805,14 @@ Il s'éloigne et revient.
 </sp>
 </div2>
 <div2 type="scene" n='9'><head>SCÈNE IX. Les Précédents, Descartes.</head>
-<stage>Il s'arréte dérrière eux et préte l'oreille à ce qu'ils disent.</stage>
+<stage type="[N/A]">Il s'arréte dérrière eux et préte l'oreille à ce qu'ils disent.</stage>
 <sp who='FÉLICIO'><speaker>FÉLICIO.</speaker>
 <p id='1'>
 	<s id='1'>Ce que c'est pourtant que la fortune ! </s>
 	<s id='2'>On voit des gens qui pour satisfaire un désir, un seul caprice,  sèment l'or à pleines mains ; et nous ! </s>
 	<s id='3'>Cinq cents florins de plus, et demain, nous serions l'un à l'autre ; et demain !...</s>
 </p>
-<stage>Il la serre amoureusement dans ses bras.</stage>
+<stage type="[N/A]">Il la serre amoureusement dans ses bras.</stage>
 </sp>
 <sp who='FLORINA'><speaker>FLORINA, avec la plus vive émotion.</speaker>
 <p id='2'>
@@ -1830,17 +1830,17 @@ Il s'éloigne et revient.
 <p id='4'>
 	<s id='1'>Mais nous oublions ce que mon père nous a tant recommandé.</s>
 </p>
-<stage>Ils se lèvent ; Descartes se retire aussitôt derrière l'escalier.</stage>
+<stage type="[N/A]">Ils se lèvent ; Descartes se retire aussitôt derrière l'escalier.</stage>
 <p id='4'>
 	<s id='1'>S'il revenait il nous ferait un train !...</s>
 </p>
 </sp>
 <sp who='FÉLICIO'><speaker>FÉLICIO, remettant la cassette dans l'armoire.</speaker>
 <p id='5'>
-	<s id='1'>Pendant que tu vas tirer le pot de bierre, moi, je vais puiser de l'eau fraîche. </s>
+	<s id='1'>Pendant que tu vas tirer le pot de bière, moi, je vais puiser de l'eau fraîche. </s>
 	<s id='2'>Va, ça sera bientôt prêt.</s>
 </p>
-<stage>Ils sortent par la porte qui donne dans la deuxième pièce.</stage>
+<stage type="exit">Ils sortent par la porte qui donne dans la deuxième pièce.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='10'><head>SCÈNE X.</head>
@@ -1850,23 +1850,23 @@ Il s'éloigne et revient.
 	<s id='2'>Ah ! </s>
 	<s id='3'>Vous n'attendrez pas longtemps.</s>
 </p>
-<stage>Il tire une bourse de velours qu'il porte sous son bras, va à l'armoire, l'ouvre avec précipitation, en prend la cassette, la pose sur une petite  table qui est auprès, et s'arrête un instant.</stage>
+<stage type="[N/A]">Il tire une bourse de velours qu'il porte sous son bras, va à l'armoire, l'ouvre avec précipitation, en prend la cassette, la pose sur une petite  table qui est auprès, et s'arrête un instant.</stage>
 <p id='2'>
 	<s id='1'>Le voilà donc ce dépôt sacré de l'amour, où s'accroît peu-à-peu le sentiment et l'espérance !... </s>
 	<s id='2'>Que de privations, de sueurs et de veilles renferme déjà cette cassette !... </s>
 	<s id='3'>Hâtons-nous d'y déposer encore l'offrande pure de l'amitié.</s>
 </p>
-<stage>Pendant qu'il vide la bourse dans la cassette.</stage>
+<stage type="[N/A]">Pendant qu'il vide la bourse dans la cassette.</stage>
 <p id='3'>
 	<s id='1'>C'est le premier argent que je retire de mes écrits ; je ne puis le placer à de meilleurs intérêts.</s>
 </p>
-<stage>Il remet la cassette dans l'armoire, et revient sur le devant de la scène.</stage>
+<stage type="action">Il remet la cassette dans l'armoire, et revient sur le devant de la scène.</stage>
  <p id='3'>
 	<s id='1'>Employer le produit de ses talents à faire des heureux, oh ! </s>
 	<s id='2'>C'est un plaisir bien doux ; et je sens... oui, je sens que cela doit porter bonheur sur tout le reste de la vie... </s>
 	<s id='3'>On vient, retirons-nous.</s>
 </p>
-<stage>Il monte dans sa chambre.</stage>
+<stage type="[N/A]">Il monte dans sa chambre.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='11'><head>SCÈNE XI. Marck, Félicio, Florina.</head>
@@ -1905,14 +1905,14 @@ Il s'éloigne et revient.
 	<s id='1'>Oui, il n'a pas rabattu la moindre chose sur notre mémoire et cela m'a fait plus de plaisir, à moi, que tout l'argent qu'il m'a donné... </s>
 	<s id='2'>Il se montait comme vous savez, à quatre-vingts florins ; ce qui fait pour vous quarante que voici...</s>
 </p>
-<stage>Il leur présente un petit sac de cuir.</stage>
+<stage type="[N/A]">Il leur présente un petit sac de cuir.</stage>
 </sp>
 <sp who='FLORINA'><speaker>FLORINA.</speaker>
 <p id='8'>
 	<s id='1'>Comme cela va bien faire à notre petit trésor !... </s>
 	<s id='2'>Il faut...</s>
 </p>
-<stage>Elle vide le sac de cuir dans la cassette, et la dépose avec Félicio sur le dessus de l'armoire.</stage>
+<stage type="[N/A]">Elle vide le sac de cuir dans la cassette, et la dépose avec Félicio sur le dessus de l'armoire.</stage>
 </sp>
 <sp who='FÉLICIO'><speaker>FÉLICIO.</speaker>
 <p id='9'>
@@ -1923,7 +1923,7 @@ Il s'éloigne et revient.
 <p id='10'>
 	<s id='1'>Cela est vrai.</s>
 </p>
-<stage>Ils ouvrent chacun une serrure.</stage>
+<stage type="[N/A]">Ils ouvrent chacun une serrure.</stage>
 </sp>
 <sp who='MARCK'><speaker>MARCK.</speaker>
 <p id='11'>
@@ -2043,7 +2043,7 @@ Il s'éloigne et revient.
 <p id='33'>
 	<s id='1'>Vrai. </s>
 </p>
-<stage>Regardant tendrement Félicio.</stage>
+<stage type="[N/A]">Regardant tendrement Félicio.</stage>
 <p id='34'>
 	<s id='1'>Comme nous nous aimons, mon père.</s>
 </p>
@@ -2158,7 +2158,7 @@ Il s'éloigne et revient.
 <p id='19'>
 	<s id='1'>Justement, il en aura profité pour verser dans cette cassette...</s>
 </p>
-<stage>Ici Descartes paraît au haut de l'escalier, à la porte de sa chambre.</stage>
+<stage type="[N/A]">Ici Descartes paraît au haut de l'escalier, à la porte de sa chambre.</stage>
 </sp>
 <sp who='AMINTUS'><speaker>AMINTUS.</speaker>
 <p id='20'>
@@ -2170,7 +2170,7 @@ Il s'éloigne et revient.
 	<s id='1'>C'est lui !... </s>
 	<s id='2'>C'est lui !</s>
 </p>
-<stage>Ils vont au-devant de lui, et le pressent dans leurs hras. On entend en ce moment un grand tumulte à la porte d'entrée.</stage>
+<stage type="[N/A]">Ils vont au-devant de lui, et le pressent dans leurs hras. On entend en ce moment un grand tumulte à la porte d'entrée.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='13'><head>SCÈNE XIII et dernière. Les Précédents, Descartes, Maurice de Nassau, Voëtius, docteurs et savans gardes.</head> 
@@ -2184,7 +2184,7 @@ Il s'éloigne et revient.
 	<s id='1'>Comment ! </s>
 	<s id='2'>Expliquez-vous. </s>
 </p>
-<stage>Il apperçoit Maurice et Voëtius.</stage>
+<stage type="[N/A]">Il apperçoit Maurice et Voëtius.</stage>
 <p id='3'>
 	<s id='1'>Mais que vois-je !</s>
 </p>
@@ -2194,11 +2194,11 @@ Il s'éloigne et revient.
 	<s id='1'>Oui, c'est ici qu'il doit recevoir nos hommages, nos félicitations. </s>
 	<s id='2'>C'est dans cet asile que l'hypocrisie et la méchanceté ont osé menacer, insulter ce grand homme : c'est dans ce même lieu qu'elles doivent réparer leur injure.</s>
 </p>	
-<stage>À Voëtius.</stage>
+<stage type="toward">À Voëtius.</stage>
 <p id='4'>
 	<s id='1'>Recteur c'est à vous que l'usage réserve l'honneur de décerner la couronne ; faites votre devoir.</s>
 </p>
-<stage>Voëtius, avec dépit et confusion, s'avance pour couronner Descartes ; qui saisit aussitôt la couronne, avec modestie.</stage>
+<stage type="[N/A]">Voëtius, avec dépit et confusion, s'avance pour couronner Descartes ; qui saisit aussitôt la couronne, avec modestie.</stage>
 <p id='5'>
 	<s id='1'>Qu'il est beau, qu'il est consolant de voir ainsi le génie être le vengeur de l'innocence !</s>
 </p>
@@ -2208,13 +2208,13 @@ Il s'éloigne et revient.
 	<s id='1'>Cette couronne m'est bien chère... </s>
 	<s id='2'>Mais elle aurait encore plus de prix à mes yeux, si j'y voyais l'abnégation de votre haine et de celle de vos semblables.</s>
 </p>
-<stage>Il s'avance vers le recteur, et lui tend affectueusement la main.</stage>
+<stage type="[N/A]">Il s'avance vers le recteur, et lui tend affectueusement la main.</stage>
 </sp>
 <sp who='MARCK'><speaker>MARCK, le retenant, et bas à l'oreille.</speaker>
 <p id='6'>
 	<s id='1'>Ne vous y fiez pas : ces gens-là ne pardonnent jamais.</s>
 </p>
-<stage>Voëtius lance un regard de fureur sur Descartes, et sort.</stage>
+<stage type="exit">Voëtius lance un regard de fureur sur Descartes, et sort.</stage>
 </sp>
 <sp who='DESCARTES'><speaker>DESCARTES.</speaker>
 <p id='7'>
@@ -2242,12 +2242,12 @@ Il s'éloigne et revient.
 <p id='11'>
 	<s id='1'>Ne parlons donc pas de cela mes bons amis c'est si peu de chose !</s>
 </p>
-<stage>À Maurice.</stage>
+<stage type="toward">À Maurice.</stage>
 <p id='12'>
 	<s id='1'>Embarrassé de cet argent et désirant en faire un emploi profitable, je l'ai déposé dans la cassette de ce couple intéressant, afin d'accélérer leur union. </s>
 	<s id='2'>Mais en cela mes enfants, j'ai fait pour moi-même beaucoup plus que pour vous ; je vous procure à peine quelques mois de bonheur de plus ; mais à moi, je me ménage un souvenir qui embellira le reste de ma vie ; tout le profit vous le voyez, est vraiment de mon côté.</s>
 </p>
-<stage>À Marck.</stage>
+<stage type="toward">À Marck.</stage>
 <p id='13'>
 	<s id='1'>Vous consentez à leur union ?</s>
 </p>
@@ -2273,21 +2273,21 @@ Il s'éloigne et revient.
 	<s id='1'>Soyez heureux vivez long-temps ! </s>
 	<s id='2'>Il ne manque que cela pour compléter cette belle journée.</s>
 </p>
-<stage>À Marck.</stage>
+<stage type="toward">À Marck.</stage>
 <p id='17'>
 	<s id='1'>Et vous... et toi dont l'âme simple ; mais grande comme la nature, a tant de fois réchauffé la mienne, viens, que je te presse sur ce coeur reconnaissant.</s>
 </p>
-<stage>Il lui tend les bras ; Marck s'y précipite.</stage>
+<stage type="[N/A]">Il lui tend les bras ; Marck s'y précipite.</stage>
 </sp>
 <sp who='MAURICE'><speaker>MAURICE, à Marck.</speaker>
 <p id='18'>
 	<s id='1'>Je veux à mon tour te serrer dans mes bras ; viens, brave homme.</s>
 </p>
-<stage>Marck sort des bras de Descartes pour tomber dans ceux de Maurice.</stage>
+<stage type="[N/A]">Marck sort des bras de Descartes pour tomber dans ceux de Maurice.</stage>
 <p id='19'>
 	<s id='1'>Viens, excellent coeur ! </s>
 </p>
-<stage>Il l'embrasse.</stage>
+<stage type="[N/A]">Il l'embrasse.</stage>
 <p id='20'>
 	<s id='1'>Oh ! </s>
 	<s id='2'>Que j'aime les larmes qui s'échappent de tes yeux ! </s>

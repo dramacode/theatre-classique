@@ -74,8 +74,8 @@
 	<note>Extrait de "LES OEUVRES POSTHUMES DE MONSIEUR MOLIÈRE. TOME VIII. Imprimées pour la première fois en l'année 1682. Enrichies de figures en taille-douce." pp 124-263.</note>
 <body>
 <div1 type='prologue' n='1'><head>LE PROLOGUE</head>
-	<stage>Après les glorieuses fatigues et les exploits victorieux de notre auguste monarque, il est bien juste que tous ceux qui se mêlent d'écrire travaillent ou à ses louanges, ou à son divertissement. C'est ce qu'ici l'on a voulu faire, et ce prologue est un essai des louanges de ce grand prince, qui donne entrée à la comédie du Malade imaginaire, dont le projet a été fait pour le délasser de ses nobles travaux. </stage>
-<stage>La décoration représente un lieu champêtre fort agréable.</stage>
+<stage type="explicit">Après les glorieuses fatigues et les exploits victorieux de notre auguste monarque, il est bien juste que tous ceux qui se mêlent d'écrire travaillent ou à ses louanges, ou à son divertissement. C'est ce qu'ici l'on a voulu faire, et ce prologue est un essai des louanges de ce grand prince, qui donne entrée à la comédie du Malade imaginaire, dont le projet a été fait pour le délasser de ses nobles travaux. </stage>
+<stage type="decor">La décoration représente un lieu champêtre fort agréable.</stage>
 <div2 type="scene" n='1'><head>ÉGLOGUE EN MUSIQUE ET EN DANSE. Flore, Pan, Climène, Daphné, Tircis, Dorilas, deux Zéphirs, troupe de Bergères et de Bergers. </head>
 <sp who='FLORE'><speaker>FLORE.</speaker>
 	<l id='1'>Quittez, quittez vos troupeaux, </l>
@@ -118,7 +118,7 @@
 </sp>
 </div2>
 <div2 type='entrée' n='2'><head>ENTRÉE de BALLET.</head>
-<stage>Toute la troupe des Bergers et des Bergères va se placer en cadence autour de Flore.</stage>
+<stage type="danse">Toute la troupe des Bergers et des Bergères va se placer en cadence autour de Flore.</stage>
 <sp who='CLIMÈNE'><speaker>CLIMÈNE.</speaker>
 	<l id='19'>Quelle nouvelle parmi nous, </l>
 	<l id='20'>Déesse, doit jeter tant de réjouissance ? </l>
@@ -153,7 +153,7 @@
 </sp>
 </div2>
 <div2 type='entrée' n='3'><head>AUTRE ENTRÉE DE BALLET.</head>
-<stage>Tous les Bergers et Bergères expriment par des danses les transports de leur joie. </stage>
+<stage type="danse">Tous les Bergers et Bergères expriment par des danses les transports de leur joie. </stage>
 <sp who='FLORE'><speaker>FLORE.</speaker>
 	<l id='39'>De vos flûtes bocagères </l>
 	<l id='40'>Réveillez les plus beaux sons ;</l>
@@ -200,7 +200,7 @@
 <sp who='TOUS-DEUX'><speaker>TOUS DEUX.</speaker>
 	<l id='64'>Plus beau sujet, plus belle récompense</l>
 	<l id='65'>Peuvent-ils animer un coeur ? </l>
-<stage>Les violons jouent un air pour animer les deux Bergers au combat, tandis que Flore comme juge va se placer au pied d'un bel arbre, avec deux Zéphirs, et que le reste comme spectateurs va occuper les deux côtés de la scène. </stage>
+<stage type="music">Les violons jouent un air pour animer les deux Bergers au combat, tandis que Flore comme juge va se placer au pied d'un bel arbre, avec deux Zéphirs, et que le reste comme spectateurs va occuper les deux côtés de la scène. </stage>
 </sp>
 <sp who='TIRCIS'><speaker>TIRCIS.</speaker>
 	<l id='66'>Quand la neige fondue enfle un torrent fameux, </l>
@@ -214,7 +214,7 @@
 </sp>
 </div2>
 <div2 type='ballet' n='4'><head>BALLET.</head>
-<stage>Les Bergers et Bergères du côté de Tircis, dansent autour de lui sur une ritournelle, pour exprimer leurs applaudissements.</stage>
+<stage type="danse">Les Bergers et Bergères du côté de Tircis, dansent autour de lui sur une ritournelle, pour exprimer leurs applaudissements.</stage>
 <note type="C">Ritournelle : ou Ritornelle. Reprise des premiers vers d'une chanson, qu'on répète à la fin du couplet. [F]</note>
 <sp who='DORILAS'><speaker>DORILAS.</speaker>
 	<l id='74'>Le foudre menaçant, qui perce avec fureur </l>
@@ -226,7 +226,7 @@
 </sp>
 </div2>
 <div2 type='ballet' n='5'><head>BALLET.</head>
-<stage>Les Bergers et Bergères su côté de Dorilas, font de même que les autres. </stage>
+<stage type="danse">Les Bergers et Bergères su côté de Dorilas, font de même que les autres. </stage>
 <sp who='TIRCIS'><speaker>TIRCIS.</speaker>
 	<l id='80'>Des fabuleux exploits que la Grèce a chantés, </l>
 	<l id='81'>Par un brillant amas de belles vérités </l>
@@ -238,7 +238,7 @@
 </sp>
 </div2>
 <div2 type='ballet' n='6'><head>BALLET.</head>
-<stage>Les Bergers et Bergères de son côté font encore la même chose. </stage>
+<stage type="danse">Les Bergers et Bergères de son côté font encore la même chose. </stage>
 <sp who='DORILAS'><speaker>DORILAS.</speaker>
 	<l id='87'>LOUIS fait à nos temps, par ses faits inouïs, </l>
 	<l id='88'>Croire tous les beaux faits que nous chante l'histoire </l>
@@ -249,7 +249,7 @@
 </sp>
 </div2>
 <div2 type='ballet' n='7'><head>BALLET.</head>
-<stage>Les Bergères de son côté font encore de même, après quoi les deux partis se mêlent.</stage>
+<stage type="danse">Les Bergères de son côté font encore de même, après quoi les deux partis se mêlent.</stage>
 <sp who='PAN'><speaker>PAN, suivi de six Faunes.</speaker>
 <note type="L">Faune : Sorte de satyre. [F]</note>
 	<l id='93'>Laissez, laissez, Bergers, ce dessein téméraire,</l>
@@ -285,7 +285,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='8'><head>ENTRÉE DE BALLET.</head>
-<stage>Les deux zéphyrs dansent avec deux couronnes de fleurs à la main, qu'ils viennent donner ensuite aux deux bergers. </stage>
+<stage type="danse">Les deux zéphyrs dansent avec deux couronnes de fleurs à la main, qu'ils viennent donner ensuite aux deux bergers. </stage>
 <sp who='CLIMÈNE et DAPHNÉ'><speaker>CLIMÈNE et DAPHNÉ, en leur donnant la main.</speaker>
 	<l id='118'>Dans les choses grandes et belles </l>
 	<l id='119'>Il suffit d'avoir entrepris. </l>
@@ -312,7 +312,7 @@
 </sp>
 </div2>
 <div2 type='entrée' n='9'><head>DERNIÈRE ET GRANDRE ENTRÉE DE BALLET.</head>
-<stage>Faune, Bergers et Bergères tous se mêlent, et il se fait entre eux des jeux de danse, après quoi ils se vont préparer pour la Comédie. </stage>
+<stage type="danse">Faune, Bergers et Bergères tous se mêlent, et il se fait entre eux des jeux de danse, après quoi ils se vont préparer pour la Comédie. </stage>
 </div2>
 </div1>
 <div1 type='prologue' n='2'><head>AUTRE PROLOGUE</head>
@@ -345,7 +345,7 @@
 	<l id='148'>Vains et peu sages, etc. </l>
 </lg>
 </poem>
-<stage>Le théâtre change et représente une chambre où est le malade. </stage>
+<stage type="decor">Le théâtre change et représente une chambre où est le malade. </stage>
 </sp>
 </div2>
 </div1>
@@ -392,7 +392,7 @@
 	<s id='35'>Allons, qu'on m'ôte tout ceci, il n'y a personne ; j'ai beau dire, on me laisse toujours seul ; il n'y a pas moyen de les arrêter ici.</s>
 </p>
 <note tyep="L">Partie : Un mémoire où sont énumérés tous les articles faits, fournis ou vendus (vieilli en ce sens). [L]</note>
-<stage>Il sonne une sonnette pour faire venir ses gens.</stage>
+<stage type="action">Il sonne une sonnette pour faire venir ses gens.</stage>
 <p id='2'>
 	<s id='1'>Ils n'entendent point, et ma sonnette ne fait pas assez de bruit. Drelin, drelin, drelin : point d'affaire. </s>
 	<s id='2'>Drelin, drelin, drelin : ils sont sourds. </s>
@@ -400,7 +400,7 @@
 	<s id='4'>Drelin, drelin, drelin : tout comme si je ne sonnais point. </s>
 	<s id='5'>Chienne, coquine, drelin, drelin, drelin ; j'enrage. </s>
 </p>
-<stage>Il ne sonne plus mais il crie.</stage>
+<stage type="loud">Il ne sonne plus mais il crie.</stage>
 <p id='3'>
 	<s id='1'>Drelin, drelin, drelin. </s>
 	<s id='2'>Carogne, à tous les diables ! </s>
@@ -552,7 +552,7 @@
 	<s id='1'>Allons, il faut en passer par là. </s>
 	<s id='2'>Ôte-moi ceci, coquine, ôte-moi ceci. </s>
 </p>
-<stage>Argan se lève de sa chaise.</stage>
+<stage type="action">Argan se lève de sa chaise.</stage>
 <p id='26'>
 	<s id='1'>Mon lavement d'aujourd'hui a-t-il bien opéré ? </s>
 </p>
@@ -1746,7 +1746,7 @@
 </sp>
 </div2> 
 <div2 type="scene" n='7'><head>SCÈNE VII. Le Notaire, Béline, Argan.</head>
-<stage>Cette scène entière n'est point dans les éditions précédentes de la prose de Monsieur Molière, la voici rétablie sur l'original de l'auteur.</stage>
+<note type="C">Cette scène entière n'est point dans les éditions précédentes de la prose de Monsieur Molière, la voici rétablie sur l'original de l'auteur.</note>
 <sp who='ARGAN'><speaker>ARGAN.</speaker>
 <p id='1'>
 	<s id='1'>Approchez, Monsieur de Bonnefoy, approchez. </s>
@@ -1922,7 +1922,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='8'><head>SCÈNE VIII. Angélique, Toinette.</head>
-<stage>Cette scène n'est point dans les éditions précédentes de la prose de Monsieur Molière, la voici rétablie sur l'original de l'auteur.</stage>
+<note type="C">Cette scène n'est point dans les éditions précédentes de la prose de Monsieur Molière, la voici rétablie sur l'original de l'auteur.</note>
 <sp who='TOINETTE'><speaker>TOINETTE.</speaker>
 <p id='1'>
 	<s id='1'>Les voilà avec un notaire, et j'ai ouï parler de testament. </s>
@@ -1971,7 +1971,7 @@
 </div1>
 <div1 type='intermède' n='1'><head>PREMIER INTERMÈDE</head>
 <div2 type="scene" n='1'><head>***</head>
-<stage>Polichinelle, dans la nuit, vient pour donner une sérénade à sa maîtresse. Il est interrompu d'abord par des violons, contre lesquels il se met en colère, et ensuite par le Guet, composé de musiciens et de danseurs. </stage>
+<stage type="action">Polichinelle, dans la nuit, vient pour donner une sérénade à sa maîtresse. Il est interrompu d'abord par des violons, contre lesquels il se met en colère, et ensuite par le Guet, composé de musiciens et de danseurs. </stage>
 <sp who='POLICHINELLE'><speaker>POLICHINELLE.</speaker>
 <p id='1'>
 	<s id='1'>Ô amour, amour, amour, amour ! </s>
@@ -1992,8 +1992,8 @@
 	<s id='15'>Ô chère nuit ! </s>
 	<s id='16'>Porte mes plaintes amoureuses jusque dans le lit de mon inflexible. </s>
 </p>
-<stage>Il chante ces paroles :</stage>
-<poem type="chanson">
+<stage type="sing">Il chante ces paroles :</stage>
+<lg type="chanson">
 <lg n="1">
 	<l id='149'>Notte e dì v' amo e v' adoro, </l>
 	<l id='150'>Cerco' un sì per mio ristoro ; </l>
@@ -2030,7 +2030,7 @@
 	<l id='177'>Ma se voi dite di nò, </l>
 	<l id='178'>Bell' ingrata, io morirò. </l>
 </lg>
-</poem>
+</lg>
 </sp>
 <sp who='UNE VIEILLE'><speaker>UNE VIEILLE se présente à la fenêtre, et répond au seignor Polichinelle en se moquant de lui.</speaker>
 <poem type="chanson">
@@ -2063,89 +2063,89 @@
 	<l id='202'>Oh ! quanto è pazza colei che vi crede ! </l>
 </lg>
 </poem>
-<stage>Violons.</stage>
+<stage type="music">Violons.</stage>
 </sp>
 <sp who='POLICHINELLE'><speaker>POLICHINELLE.</speaker>
 <p id='2'>
 	<s id='1'>Quelle impertinente harmonie vient interrompre ici ma voix ? </s>
 </p>
-<stage>Violons.</stage>
+<stage type="music">Violons.</stage>
 <p id='3'>
 	<s id='1'>Paix là, taisez-vous, violons. </s>
 	<s id='2'>Laissez-moi me plaindre à mon aise des cruautés de mon inexorable. </s>
 </p>
-<stage>Violons.</stage>
+<stage type="music">Violons.</stage>
 <p id='4'>
 	<s id='1'>Taisez-vous vous dis-je. </s>
 	<s id='2'>C'est moi qui veux chanter. </s>
 </p>
-<stage>Violons.</stage>
+<stage type="music">Violons.</stage>
 <p id='5'>
 	<s id='1'>Paix donc ! </s>
 </p>
-<stage>Violons.</stage>
+<stage type="music">Violons.</stage>
 <p id='6'>
 	<s id='1'>Ouais ! </s>
 </p>
-<stage>Violons.</stage>
+<stage type="music">Violons.</stage>
 <p id='7'>
 	<s id='1'>Ahi ! </s>
 </p>
-<stage>Violons.</stage>
+<stage type="music">Violons.</stage>
 <p id='8'>
 	<s id='1'>Est-ce pour rire ? </s>
 </p>
-<stage>Violons.</stage>
+<stage type="music">Violons.</stage>
 <p id='9'>
 	<s id='1'>Ah que de bruit ! </s>
 </p>
-<stage>Violons.</stage>
+<stage type="music">Violons.</stage>
 <p id='10'>
 	<s id='1'>Le diable vous emporte ! </s>
 </p>
-<stage>Violons.</stage>
+<stage type="music">Violons.</stage>
 <p id='11'>
 	<s id='1'>J'enrage. </s>
 </p>
-<stage>Violons.</stage>
+<stage type="music">Violons.</stage>
 <p id='12'>
 	<s id='1'>Vous ne vous tairez pas ? </s>
 	<s id='2'>Ah, Dieu soit loué ! </s>
 </p>
-<stage>Violons.</stage>
+<stage type="music">Violons.</stage>
 <p id='13'>
 	<s id='1'>Encore ? </s>
 </p>
-<stage>Violons.</stage>
+<stage type="music">Violons.</stage>
 <p id='14'>
 	<s id='1'>Peste des violons ! </s>
 </p>
-<stage>Violons.</stage>
+<stage type="music">Violons.</stage>
 <p id='15'>
 	<s id='1'>La sotte musique que voilà ! </s>
 </p>
-<stage>Violons.</stage>
+<stage type="music">Violons.</stage>
 <p id='16'>
 	<s id='1'>La, la, la, la, la, la. </s>
 </p>
-<stage>Violons.</stage>
+<stage type="music">Violons.</stage>
 <p id='17'>
 	<s id='1'>La, la, la, la, la, la. </s>
 </p>
-<stage>Violons.</stage>
+<stage type="music">Violons.</stage>
 <p id='18'>
 	<s id='1'>La, la, la, la, la, la. </s>
 </p>
-<stage>Violons.</stage>
+<stage type="music">Violons.</stage>
 <p id='19'>
 	<s id='1'>La, la, la, la, la, la. </s>
 </p>
-<stage>Violons.</stage>
+<stage type="music">Violons.</stage>
 <p id='20'>
 	<s id='1'>La, la, la, la, la, la. </s>
 </p>
-<stage>Violons.</stage>
-<stage>Polichinelle, avec un luth, dont il ne joue que des lèvres et de la langue, en disant : plin pan plan, etc. </stage>
+<stage type="music">Violons.</stage>
+<stage type="action">Polichinelle, avec un luth, dont il ne joue que des lèvres et de la langue, en disant : plin pan plan, etc. </stage>
 <p id='20'>
 	<s id='1'>Par ma foi ! </s>
 	<s id='2'>Cela me divertit. </s>
@@ -2227,52 +2227,52 @@
 </sp>
 </div2>
 <div2 type='entrée' n='2'><head>ENTRÉE DE BALLET.</head>
-<stage>Tout le Guet vient, qui cherche Polichinelle dans la nuit. Violons et Danseurs.</stage>
+<stage type="entrance">Tout le Guet vient, qui cherche Polichinelle dans la nuit. Violons et Danseurs.</stage>
 <sp who='POLICHINELLE'><speaker>POLICHINELLE.</speaker>
 <p id='32'>
 	<s id='1'>Qui va là ? </s>
 </p>
-<stage>Violons et Danseurs.</stage>
+<stage type="music/danse">Violons et Danseurs.</stage>
 <p id='33'>
 	<s id='1'>Qui sont les coquins que j'entends ? </s>
 </p>
-<stage>Violons et Danseurs.</stage>
+<stage type="music/danse">Violons et Danseurs.</stage>
 <p id='34'>
 	<s id='1'>Euh ? </s>
 </p>
-<stage>Violons et Danseurs.</stage>
+<stage type="music/danse">Violons et Danseurs.</stage>
 <p id='35'>
 	<s id='1'>Holà, mes laquais, mes gens.</s>
 </p>
-<stage>Violons et Danseurs.</stage>
+<stage type="music/danse">Violons et Danseurs.</stage>
 <p id='36'>
 	<s id='1'>Par la mort.</s>
 </p>
-<stage>Violons et Danseurs.</stage>
+<stage type="music/danse">Violons et Danseurs.</stage>
 <p id='37'>
 	<s id='1'>Par la sang.</s>
 </p>
-<stage>Violons et Danseurs.</stage>
+<stage type="music/danse">Violons et Danseurs.</stage>
 <p id='38'>
 	<s id='1'>J'en jetterai par terre. </s>
 </p>
-<stage>Violons et Danseurs.</stage>
+<stage type="music/danse">Violons et Danseurs.</stage>
 <note type="C">Les valets sont nommés assez souvent par le nom de leur pays d'origine.</note>
 <p id='39'>
 	<s id='1'>Champagne, Poitevin, Picard, Basque, Breton ! </s>
 </p>
-<stage>Violons et Danseurs.</stage>
-<note type="L">Mousqueton : petit mousquet aui est plus court ; mais plus gros de calibre que les mousquets ordinaires. Il se tire avec un fusil composé d'un chien et d'un batterie, au lieu que le mousquet s'exécute avec un mèche. [F]</note>
+<stage type="music/danse">Violons et Danseurs.</stage>
+<note type="L">Mousqueton : petit mousquet qui est plus court ; mais plus gros de calibre que les mousquets ordinaires. Il se tire avec un fusil composé d'un chien et d'un batterie, au lieu que le mousquet s'exécute avec un mèche. [F]</note>
 <p id='40'>
 	<s id='1'>Donnez-moi mon mousqueton. </s>
 </p>
-<stage>Violons et Danseurs.</stage>
-<stage>Polichinelle tire un coup de pistolet.</stage>
+<stage type="music/danse">Violons et Danseurs.</stage>
+<stage type="action">Polichinelle tire un coup de pistolet.</stage>
 <p id='41'>
 	<s id='1'>Poue. </s>
 </p>
-<stage>Ils tombent tous et s'enfuient.</stage>
-<stage>Polichinelle, en se moquant. </stage>
+<stage type="exit">Ils tombent tous et s'enfuient.</stage>
+<stage type="expression">Polichinelle, en se moquant. </stage>
 <p id='42'>
 	<s id='1'>Ah, ah, ah, ah, comme je leur ai donné l'épouvante. </s>
 	<s id='2'>Voilà de sottes gens d'avoir peur de moi qui ai peur des autres. </s>
@@ -2280,7 +2280,7 @@
 	<s id='4'>Si je n'avais tranché du grand seigneur, et n'avais fait le brave, ils n'auraient pas manqué de me happer. </s>
 	<s id='5'>Ah, ah, ah.</s>
 </p>
-<stage>Les archers se rapprochent, et ayant entendu ce qu'il disait, ils le saisissent au collet.</stage>
+<stage type="action">Les archers se rapprochent, et ayant entendu ce qu'il disait, ils le saisissent au collet.</stage>
 </sp>
 <sp who='ARCHERS'><speaker>ARCHERS.</speaker>
 <p id='43'>
@@ -2289,7 +2289,7 @@
 </sp>
 </div2>
 <div2 type='ballet' n='3'><head>BALLET.</head>
-<stage>Tout le Guet vient avec des lanternes. </stage>
+<stage type="entrance">Tout le Guet vient avec des lanternes. </stage>
 	<l id='203'>Ah, traître ! ah, fripon ! c'est donc vous ? </l>
 	<l id='204'>Faquin, maraud, pendard, impudent, téméraire, </l>
 	<l id='205'>Insolent, effronté, coquin, filou, voleur, </l>
@@ -2454,8 +2454,8 @@
 <sp who='ARCHERS'><speaker>ARCHERS.</speaker>
 	<l id='222'>Allons, préparez-vous, </l>
 	<l id='223'>Et comptez bien les coups. </l>
-<stage>Ballet </stage>
-<stage>Archers danseurs lui donnent des croquignoles en cadence. </stage>
+<stage type="danse">Ballet </stage>
+<stage type="danse">Archers danseurs lui donnent des croquignoles en cadence. </stage>
 </sp>
 <sp who='POLICHINELLE'><speaker>POLICHINELLE.</speaker>
 <p id='71'>
@@ -2478,7 +2478,7 @@
 </sp>
 </div2>
 <div2 type='ballet' n='4'><head>BALLET.</head>
-<stage>Les Archers danseurs lui donnent des coups de bâton en cadence. </stage>
+<stage type="danse">Les Archers danseurs lui donnent des coups de bâton en cadence. </stage>
 <sp who='POLICHINELLE'><speaker>POLICHINELLE.</speaker>
 <p id='73'>
 	<s id='1'>Un, deux, trois, quatre, cinq, six, ah, ah, ah, je n'y saurais plus résister. </s>
@@ -2522,7 +2522,7 @@
 </sp>
 </div2>
 <div2 type='ballet' n='6'><head>BALLET.</head>
-<stage>Ils dansent tous, en réjouissance de l'argent qu'ils ont reçu. Le théâtre change et représente la même chambre. </stage>
+<stage type="danse">Ils dansent tous, en réjouissance de l'argent qu'ils ont reçu. Le théâtre change et représente la même chambre. </stage>
 </div2> 
 </div1>
 <div1 type="act" n='2'><head>ACTE II</head>
@@ -2622,7 +2622,7 @@
 <p id='11'>
 	<s id='1'>Qu'il vienne. </s>
 </p>
-<stage>Toinette fait signe à Cléante d'avancer.</stage>
+<stage type="action">Toinette fait signe à Cléante d'avancer.</stage>
 </sp>
 <sp who='CLÉANTE'><speaker>CLÉANTE.</speaker>
 <p id='12'>
@@ -2841,7 +2841,7 @@
 <p id='2'>
 	<s id='1'>Je reçois, Monsieur.</s>
 </p>
-<stage>Ils parlent tous deux en même temps, s'interrompent et confondent.</stage>
+<stage type="action">Ils parlent tous deux en même temps, s'interrompent et confondent.</stage>
 </sp>
 <sp who='MONSIEUR DIAFOIRUS'><speaker>MONSIEUR DIAFOIRUS.</speaker>
 <p id='3'>
@@ -2967,7 +2967,7 @@
 <p id='27'>
 	<s id='1'>À vous témoigner notre zèle. </s>
 </p>
-<stage>Il se retourne vers son fils et lui dit.</stage> 
+<stage type="toward">Il se retourne vers son fils et lui dit.</stage> 
 <p id='28'>
 	<s id='1'>Allons, Thomas, avancez. </s>
 	<s id='2'>Faites vos compliments. </s>
@@ -3227,7 +3227,7 @@
 	<s id='20'>Il jette de douloureux regards sur celle qu'il adore, et son respect, et la présence de son père l'empêchent de lui rien dire que des yeux. </s>
 	<s id='21'>Mais enfin il force toute contrainte, et le transport de son amour l'oblige à lui parler ainsi.</s>
 </p>
-<stage>Il chante.</stage>
+<stage type="sing">Il chante.</stage>
 	<l id='232'>Belle Philis, c'est trop, c'est trop souffrir ; </l>
 	<l id='233'>Rompons ce dur silence, et m'ouvrez vos pensées, </l>
 	<l id='234'>Apprenez-moi ma destinée, </l>
@@ -3869,7 +3869,7 @@
 	<s id='1'>Oh çà ! </s>
 	<s id='2'>Je m'en vais vous faire voir quelque chose, moi. </s>
 </p>
-<stage>Il va prendre une poignée de verges.</stage>
+<stage type="action">Il va prendre une poignée de verges.</stage>
 </sp>
 <sp who='LOUISON'><speaker>LOUISON.</speaker> 
 <p id='25'>
@@ -3943,7 +3943,7 @@
 	<s id='2'>Mon papa, vous m'avez blessée. </s>
 	<s id='3'>Attendez : je suis morte. </s>
 </p>
-<stage>Elle contrefait la morte.</stage>
+<stage type="action">Elle contrefait la morte.</stage>
 </sp>
 <sp who='ARGAN'><speaker>ARGAN.</speaker>
 <p id='38'>
@@ -4106,7 +4106,7 @@
 <p id='66'>
 	<s id='1'>Voilà mon petit doigt pourtant qui gronde quelque chose. </s>
 </p>
-<stage>Il met son doigt à son oreille.</stage>
+<stage type="action">Il met son doigt à son oreille.</stage>
 <p id='67'>
 	<s id='1'>Attendez. </s>
 	<s id='2'>Eh ! </s>
@@ -4140,7 +4140,7 @@
 	<s id='6'>Que d'affaires ; je n'ai pas seulement le loisir de songer à ma maladie. </s>
 	<s id='7'>En vérité, je n'en puis plus. </s>
 </p>
-<stage>Il se remet dans sa chaise.</stage>
+<stage type="action">Il se remet dans sa chaise.</stage>
 </sp>
 </div2> 
 <div2 type="scene" n='9'><head>SCÈNE IX. Béralde, Argan.</head>
@@ -4202,7 +4202,7 @@
 </div1>
 <div1 type='intermède' n='2'><head>SECOND INTERMÈDE</head>
 <div2 type="scene" n='1'><head>***</head>
-<stage>Le frère du Malade imaginaire lui amène, pour le divertir, plusieurs Égyptiens et Égyptiennes, vêtus en Mores, qui font des danses entremêlées de chansons. </stage>
+<stage type="entrance">Le frère du Malade imaginaire lui amène, pour le divertir, plusieurs Égyptiens et Égyptiennes, vêtus en Mores, qui font des danses entremêlées de chansons. </stage>
 <sp who='PREMIÈRE FEMME MORE'><speaker>PREMIÈRE FEMME MORE.</speaker>
 <poem type="chanson">
 <lg n="1">
@@ -4321,7 +4321,7 @@
 </sp>
 </div2>
 <div2 type='entrée' n='2'><head>ENTRÉE DE BALLET.</head>
-<stage>Tous les Mores dansent ensemble et font sauter des singes qu'ils ont amenés avec eux. </stage>
+<stage type="danse">Tous les Mores dansent ensemble et font sauter des singes qu'ils ont amenés avec eux. </stage>
 </div2>
 </div1> 
 <div1 type="act" n='3'><head>ACTE III</head>
@@ -5800,7 +5800,7 @@ V<p id='24'>
 	<s id='1'>Non, non : quel danger y aurait-il ? </s>
 	<s id='2'>Étendez-vous là seulement. </s>
 </p>
-<stage>Bas.</stage>
+<stage type="mezzo voce">Bas.</stage>
 <p id='27'>
 	<s id='1'>Il y aura plaisir à confondre votre frère. </s>
 	<s id='2'>Voici Madame. </s>
@@ -6214,7 +6214,7 @@ V<p id='24'>
 </div1>
 <div1 type='intermède' n='3'><head>TROISIÈME INTERMÈDE</head>
 <div2 type='entrée' n='1'><head>ENTRÉE DE BALLET.</head>
-<stage>C'est une cérémonie burlesque d'un homme qu'on fait médecin en récit, chant, et danse. Plusieurs tapissiers viennent préparer la salle et placer les bancs en cadence. Ensuite de quoi toute l'assemblée, composée de huit porte-seringues, six apothicaires, vingt-deux docteurs, celui qui se fait recevoir médecin, huit chirurgiens dansants, et deux chantants, chacun entre et prend ses places selon les rangs. </stage>
+<stage type="entrance">C'est une cérémonie burlesque d'un homme qu'on fait médecin en récit, chant, et danse. Plusieurs tapissiers viennent préparer la salle et placer les bancs en cadence. Ensuite de quoi toute l'assemblée, composée de huit porte-seringues, six apothicaires, vingt-deux docteurs, celui qui se fait recevoir médecin, huit chirurgiens dansants, et deux chantants, chacun entre et prend ses places selon les rangs. </stage>
 <sp who='PRAESES'><speaker>PRAESES.</speaker>
 <poem type="chanson">
 <lg n="1">
@@ -6425,7 +6425,7 @@ V<p id='24'>
 </sp>
 </div2>
 <div2 type='entrée' n='2'><head>ENTRÉE DE BALLET.</head>
-<stage>Tous les Chirurgiens et Apothicaires viennent lui faire la révérence en cadence. </stage>
+<stage type="action">Tous les Chirurgiens et Apothicaires viennent lui faire la révérence en cadence. </stage>
 	<sp who='BACHELIERUS'><speaker>BACHELIERUS.</speaker>
 	<l id='486'>Grandes doctores doctrinae </l>
 	<l id='487'>De la rhubarbe et du séné : </l>
@@ -6460,7 +6460,7 @@ V<p id='24'>
 </sp>
 </div2>
 <div2 type='entrée' n='3'><head>ENTRÉE DE BALLET.</head>
-<stage>Tous les Chirurgiens et les Apothicaires dansent au son des instruments et des voix, et des battements de mains, et des mortiers d'apothicaires. </stage>
+<stage type="danse">Tous les Chirurgiens et les Apothicaires dansent au son des instruments et des voix, et des battements de mains, et des mortiers d'apothicaires. </stage>
 <sp who='CHIRURGUS'><speaker>CHIRURGUS.</speaker>
 	<l id='514'>Puisse-t-il voir doctas </l>
 	<l id='515'>Suas ordonnancias </l>
@@ -6491,7 +6491,7 @@ V<p id='24'>
 </sp>
 </div2>
 <div2 type='entrée' n='4'><head>DERNIÈRE ENTRÉE DE BALLET.</head>
-<stage>Des médecins, des chirurgiens et des apothicaires, qui sortent tous selon leur rang en cérémonie comme il sont entrés.</stage>
+<stage type="exit">Des médecins, des chirurgiens et des apothicaires, qui sortent tous selon leur rang en cérémonie comme il sont entrés.</stage>
 </div2>
 </div1>
 </body>

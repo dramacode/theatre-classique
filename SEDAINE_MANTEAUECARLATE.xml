@@ -55,9 +55,9 @@
 </front>
 <body>
 <div1 type="act" n='1'><head></head>
-<stage>Le Théâtre représente une salle basse du Château ; sur un des côtés est une porte, au milieu de laquelle est petite grille.</stage>
+<stage type="decor">Le théâtre représente une salle basse du Château ; sur un des côtés est une porte, au milieu de laquelle est petite grille.</stage>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Madame de Florville, Marton.</head>
-<stage>Elles sont assises et paroissent s'occuper: après un moment de silence, on entend frapper.</stage>
+<stage type="[N/A]">Elles sont assises et paroissent s'occuper: après un moment de silence, on entend frapper.</stage>
 <sp who='MARTON'><speaker>MARTON, se levant.</speaker>
 <p id='1'>
 	<s id='1'>Qui frappe ?</s>
@@ -360,12 +360,12 @@
 	<s id='1'>À merveille..... </s>
 	<s id='2'>Tâchez d'éloigner le jaloux pendant une demie-heure, et je vous réponds de sa correction. Ecoute.</s>
 </p>
-<stage>En regardant le Manteau.</stage>
+<stage type="[N/A]">En regardant le Manteau.</stage>
 <p id='43'>
 	<s id='1'>Il me vient une idée.... </s>
 	<s id='2'>Oui, écoute, écoute. </s>
 </p>
-<stage>Elle emmène Madame de Florville dans le Cabinet.</stage>
+<stage type="[N/A]">Elle emmène Madame de Florville dans le Cabinet.</stage>
 </sp>
 <sp who='MARTON'><speaker>MARTON.</speaker>
 <p id='44'>
@@ -407,7 +407,7 @@
 <p id='51'>
 	<s id='1'>Quand je vous dis que c'est moi...</s>
 </p>
-<stage>Madame de Florville rentre et ferme la porte du Cabinet.</stage>
+<stage type="entrance">Madame de Florville rentre et ferme la porte du Cabinet.</stage>
 </sp>
 <sp who='MARTON'><speaker>MARTON, regardant au travers de la grille.</speaker>
 <p id='52'>
@@ -424,13 +424,13 @@
 </sp>
 <sp who='MARTON'><speaker>MARTON.</speaker>
 <p id=''>
-	<s id='1'>Ah ! ? la bonne heure.</s>
+	<s id='1'>Ah ! À la bonne heure.</s>
 </p>
-<stage>Elle ouvre les verroux avec grand bruit.</stage>
+<stage type="action">Elle ouvre les verroux avec grand bruit.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Les précédentes, De Florville.</head>
-<stage>Il va, en entrant, se jetter sur une chaise.</stage>
+<stage type="[N/A]">Il va, en entrant, se jetter sur une chaise.</stage>
 <sp who='MONSIEUR DE FLORVILLE'><speaker>MONSIEUR DE FLORVILLE.</speaker>
 <p id='1'>
 	<s id='1'>Ouf ! </s>
@@ -461,7 +461,7 @@
 	<s id='3'>Une heure de sommeil, un verre de vin, il n'y paraîtra pas. </s>
 	<s id='4'>Marton, fais-en monter une bouteille à mon appartement.</s>
 </p>
-<stage>Marton sort.</stage>
+<stage type="exit">Marton sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Monsieur et Madame de Florville.</head>
@@ -727,7 +727,7 @@
 	<s id='3'>Il est entré dans son appartement. </s>
 	<s id='4'>Délivrons notre prisonnier.</s>
 </p>
-<stage>Elle ouvre le Cabinet.</stage>
+<stage type="[N/A]">Elle ouvre le Cabinet.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Madame de Florville, Dorimène.</head>
@@ -806,7 +806,7 @@
 </p>
 </sp>
 <sp who='DORIMÈNE'><speaker>DORIMÈNE.</speaker>
-<stage>Ce qui est guillemété ne se dit point à la représentation. On peut l'y ajouter si l'on trouve le sommeil de Monsieur de Florville trop court.</stage>
+<stage type="[N/A]">Ce qui est guillemété ne se dit point à la représentation. On peut l'y ajouter si l'on trouve le sommeil de Monsieur de Florville trop court.</stage>
 <p id='12'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Voilà comme vous êtes. </s>
@@ -894,7 +894,7 @@
 	<s id='1'>Et la réussite de cette excuse dépend de votre fuite. </s>
 	<s id='2'>J'entends tousser Monsieur de Florville : prenez votre manteau, et retirez-vous dans le cabinet.</s>
 </p>
-<stage>Dorimène sort.</stage>
+<stage type="exit">Dorimène sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='8'><head>SCÈNE VIII. Madame de Florville, Marton.</head>
@@ -925,7 +925,7 @@
 	<s id='4'>J'étais moitié mort tantôt. </s>
 	<s id='5'>Je n'ai pas pense à eux. </s>
 </p>
-<stage>Marton sort.</stage>
+<stage type="exit">Marton sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='10'><head>SCÈNE X. Monsieur et Madame de Florville.</head>
@@ -1122,7 +1122,7 @@
 <p id='31'>
 	<s id='1'>En vérité, Madame, vous parlez comme un ange ; tombez à mes pieds, versez quelques larmes, et me voilà tout-à-fait persuadé....</s>
 </p>
-<stage>Avec colère.</stage>
+<stage type="[N/A]">Avec colère.</stage>
 <p id='32'>
 	<s id='1'>Non, perfide, non, on ne m'abuse pas de la sorte. </s>
 	<s id='2'>Je ne suis pas de ces maris benêts qui croient plus les discours de leurs femmes que leurs propres yeux.</s>
@@ -1204,7 +1204,7 @@
 	<s id='4'>Interrogez tout le monde, interrogez votre propre coeur, mettez en balance et vos soupçons et la conduite que j'ai toujours tenue avec vous ; peut-être alors me rendrez vous justice. </s>
 	<s id='5'>Je vous en laisse le temps, Monsieur, et c'est la seule et dernière grâce qne vous devez attendre de moi.</s> 
 </p>
-<stage>Elle sort.</stage>
+<stage type="exit">Elle sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='11'><head>SCÈNE XI.</head>
@@ -1565,11 +1565,11 @@
 	<s id='4'>Ce Château te déplaît, il te rappelle mes torts et tes chagrins, nous le quitterons dès demain. </s>
 	<s id='5'>Tu désires revoir ta famille, nous irons passer l'hiver à Paris, obtiendrai-je, à ce prix, un pardon que je demande à genoux ?</s>
 </p>
-<stage>De Florville embrasse les genoux de sa femme.</stage>
+<stage type="[N/A]">De Florville embrasse les genoux de sa femme.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='15'><head>SCÈNE XV. Les mêmes, Dorimène enveloppé d'un Manteau écarlate, un chapeau sur la tête.</head>
-<stage>De Florville en la voyant se relève avec fureur, et, malgré les efforts qu'il fait pour parler, ne le peut.</stage>
+<stage type="[N/A]">De Florville en la voyant se relève avec fureur, et, malgré les efforts qu'il fait pour parler, ne le peut.</stage>
 <sp who='DORIMÈNE'><speaker>DORIMÈNE.</speaker>
 <p id='1'>
 	<s id='1'>Ciel ! </s>
@@ -1643,7 +1643,7 @@
 	<s id='1'>Ah ! </s>
 	<s id='2'>C'est trop m'outrager...</s>
 </p>
-<stage>Il appelle.</stage>
+<stage type="[N/A]">Il appelle.</stage>
 <p id='10'>
 	<s id='1'>Blaise ! </s>
 	<s id='2'>Gérault.</s>
@@ -1680,7 +1680,7 @@
 	<s id='2'>Et je demandais pardon... </s>
 	<s id='3'>À genoux encore...</s>
 </p>
-<stage>Blaise et Gérault entrent.</stage>
+<stage type="[N/A]">Blaise et Gérault entrent.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='16'><head>SCÈNE XVI ET DERNIÈRE. Les précédents, Blaise, Gérault.</head>
@@ -1689,8 +1689,8 @@
 	<s id='1'>Mes amis, mes fidèles... </s>
 	<s id=''>Saisissez-vous de ce coquin, enfermez-le dans la tour.</s>
 </p>
-<stage>Ils prennent Dorimène par son manteau.</stage>
-<stage>À sa femme. </stage>
+<stage type="[N/A]">Ils prennent Dorimène par son manteau.</stage>
+<stage type="toward">À sa femme. </stage>
 <p id='2'>
 	<s id='1'>Pour vous, Madame, j'ordonnerai de votre sort... </s>
 	<s id='2'>Tremblez tous trois.</s>

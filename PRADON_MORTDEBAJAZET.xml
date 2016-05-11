@@ -986,7 +986,7 @@
 <sp who="ANDRONIC"><speaker>ANDRONIC.</speaker>
 	<l id="709">Vous devez écouter cette funeste envie.</l>
 	<l id="710">( Gardes, retirez vous, j'aurai soin de sa vie.)</l>
-<stage>Les gardes se retirent.</stage>
+<stage type="[N/A]">Les gardes se retirent.</stage>
 	<l id="711">Vivez, Seigneur, vivez, on va briser vos fers,</l>
 	<l id="712">Oubliez tous les maux que vous avez soufferts,</l>
 	<l id="713">Apprenez un secret dont l'aveu me déchire,</l>
@@ -1412,7 +1412,7 @@
 	<l id="1021">Mon Père, souffrez-moi contre une injuste envie</l>
 	<l id="1022">De vous désobéir une fois en ma vie ;</l>
 	<l id="1023">Je vous quitte, et je vais vous sauver malgré vous.</l>
-<stage>Elle sort.</stage>
+<stage type="exit">Elle sort.</stage>
 </sp>
 <sp who="BAJAZET"><speaker>BAJAZET.</speaker>
 	<l id="1024">Arrêtez, je l'ordonne, et craignez mon courroux.</l>
@@ -1783,9 +1783,9 @@
 	<l id="1288">Qu'on l'arrête, Tamur, qu'on vienne le saisir ?</l>
 </sp>
 <sp who="ASTÉRIE"><speaker>ASTÉRIE.</speaker>
-<stage>À Tamerlan.</stage>
+<stage type="toward">À Tamerlan.</stage>
 	<l id="1289" part='i'>Ah ! Seigneur arrêtez .... </l>
-<stage>À Andronic.</stage>
+<stage type="toward">À Andronic.</stage>
 	<l id="1289" part='f'>Prince quelles alarmes !</l>
 	<l id="1290">Au nom de notre amour, et par toutes mes larmes ?</l>
 </sp>
@@ -1908,7 +1908,7 @@
 	<l id="1380">Ciel ! Que n'a-t-il quitté ces cruels sentiments ?</l>
 	<l id="1381">Mais il vient, ah fuyons, de crainte que ma vue</l>
 	<l id="1382">Ne rallume en son coeur le poison qui le tue.</l>
-<stage>Elle sort.</stage>
+<stage type="exit">Elle sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Tamerlan, Tamur Capitaine des Gardes de Tamerlan.</head> 
@@ -1968,7 +1968,7 @@
 <sp who="TAMERLAN"><speaker>TAMERLAN.</speaker>
 	<l id="1427" part='f'>C'est de quoi je veux l'entretenir,</l>
 	<l id="1428">Et mon ordre est donné pour le faire venir.</l>
-<stage>À ses gardes.</stage>
+<stage type="toward">À ses gardes.</stage>
 	<l id="1429">Que l'on amène aussi la Princesse Astérie ?</l>
 	<l id="1430">Bajazet veut la voir, contentons son envie ;</l>
 	<l id="1431">Que je m'applaudirais d'un peu de cruauté,</l>
@@ -2078,7 +2078,7 @@
 	<l id="1502">Demander un poignard pour s'arracher la vie ?</l>
 	<l id="1503">Qui cherchait avec soin le secours du poison,</l>
 	<l id="1504">Et qui le cherchait même avec tant de raison ?</l>
-<stage>À Tamerlan.</stage>
+<stage type="toward">À Tamerlan.</stage>
 	<l id="1505">Il tremble, et dans vos mains il remet Astérie,</l>
 	<l id="1506">Mais pour la conserver prenez encor ma vie,</l>
 	<l id="1507">Il vous la faut, Seigneur, perdant ce que je perds</l>
@@ -2217,7 +2217,7 @@
 	<l id="1589">Tu perds tout aujourd'hui, malheureuse Astérie,</l>
 	<l id="1590">Et pour dernier malheur il te reste la vie.</l>
 </sp>
-<stage>Elle sort.</stage>
+<stage type="exit">Elle sort.</stage>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE DERNIÈRE. Andronic, Tamerlan.</head>
 <sp who='ANDRONIC'><speaker>ANDRONIC, veut suivre Astérie.</speaker>

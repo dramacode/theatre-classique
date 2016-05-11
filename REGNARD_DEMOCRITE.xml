@@ -93,7 +93,7 @@
 </front>
 <body>
 <div1 type="act" n='1'><head>ACTE I</head>
-<stage>Le Théâtre représente un désert, et une caverne dans l'enfoncement. </stage>
+<stage type="decor">Le théâtre représente un désert, et une caverne dans l'enfoncement. </stage>
 <div2 type="scene" n='1'><head>SCÈNE I. </head>
 <sp who='STRABON'><speaker>STRABON, seul.</speaker>
 	<l id='1'>Que maudit soit le jour où j'eus la fantaisie </l>
@@ -364,7 +364,7 @@
 </sp>
 <sp who='STRABON'><speaker>STRABON, à part.</speaker>
 	<l id='122'>Le coquin dans le bois a volé quelque coche. </l>
-<stage>À Thaler. </stage>
+<stage type="toward">À Thaler. </stage>
 	<l id='123'>Juste ciel ! D'où te vient ce bijou plein de feu ? </l>
 </sp>
 <sp who='THALER'><speaker>THALER.</speaker>
@@ -433,7 +433,7 @@
 	<l id='153'>Voudriez-vous tâter, dans cette conjoncture, </l>
 	<l id='154'>D'un repas apprêté par la seule nature? </l>
 <note type="L">Dîné ou dîner : est le repas qu'on fait ordinairement à midi. Rem. On dit le dîné, ou le dîner : il est même plus usité de retrancher cette lettre en écrivant : et même quand on l'écrit, on ne la prononce pas.[FC]</note>
-<stage>Il tire son dîné. </stage>
+<stage type="[N/A]">Il tire son dîné. </stage>
 </sp>
 <sp who='DÉMOCRITE'><speaker>DÉMOCRITE.</speaker>
 	<l id='155'>Toujours boire et manger ! Carnassier animal, </l>
@@ -478,7 +478,7 @@
 </sp>
 <sp who='DÉMOCRITE'><speaker>DÉMOCRITE, à part.</speaker>
 	<l id='177' part='f'>Saurait-il ma faiblesse ?</l>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 	<l id='178'>Mais ce n'est pas à moi que ce discours s'adresse ? </l>
 </sp>
 <sp who='STRABON'><speaker>STRABON.</speaker>
@@ -522,7 +522,7 @@
 </sp>
 <sp who='DÉMOCRITE'><speaker>DÉMOCRITE.</speaker>
 	<l id='197' part='f'>Quoi ! Tu crois donc que j'aime ? </l>
-<stage>À part.</stage>
+<stage type="aparte">À part.</stage>
 	<l id='198'>Je voudrais me cacher ce secret à moi-même. </l>
 </sp>
 <sp who='STRABON'><speaker>STRABON.</speaker>
@@ -612,7 +612,7 @@
 </sp>
 <sp who='DÉMOCRITE'><speaker>DÉMOCRITE.</speaker>
 	<l id='237' part='f'>Je veux vous en instruire. </l>
-<stage>À part.</stage>
+<stage type="aparte">À part.</stage>
 	<l id='238'>Je tremble, et je ne sais ce que je vais lui dire. </l>
 </sp>
 <sp who='STRABON'><speaker>STRABON, à part, à Démocrite.</speaker>
@@ -624,7 +624,7 @@
 </sp>
 <sp who='DÉMOCRITE'><speaker>DÉMOCRITE, à part.</speaker>
 	<l id='244'>Tant de trouble jamais ne régna dans mon coeur. </l>
-<stage>À Criséis.</stage>
+<stage type="toward">À Criséis.</stage>
 	<l id='245'>L'amour est, en effet, ce qu'on a peine à dire ; </l>
 	<l id='246'>C'est une passion que la nature inspire, </l>
 	<l id='247'>Un appétit secret dans le coeur répandu, </l>
@@ -633,7 +633,7 @@
 </sp>
 <sp who='STRABON'><speaker>STRABON, à part, à Démocrite.</speaker>
 	<l id='250'>Pour un homme d'esprit vous parlez mal tendresse. </l>
-<stage>À Criséis.</stage>
+<stage type="toward">À Criséis.</stage>
 	<l id='251'>L'amour, ne vous déplaise, est un je ne sais quoi, </l>
 	<l id='252'>Qui vous prend, je ne sais ni par où, ni pourquoi ; </l>
 	<l id='253'>Qui va je ne sais où ; qui fait naître en notre âme </l>
@@ -660,7 +660,7 @@
 <sp who='AGÉLAS'><speaker>AGÉLAS, à Agénor.</speaker>
 	<l id='265'>Demeurons dans ce bois ; laissons aller la chasse ; </l>
 	<l id='266'>Attendons quelque temps que la chaleur se passe. </l>
-<stage>Il aperçoit Criséis. </stage>
+<stage type="[N/A]">Il aperçoit Criséis. </stage>
 	<l id='267' part='i'>Mais que vois-je ? </l>
 </sp>
 <sp who='STRABON'><speaker>STRABON, à part, à Démocrite et à Criséis.</speaker>
@@ -816,7 +816,7 @@
 	<l id='338'>Je vous demande encore une seconde grâce, </l>
 	<l id='339'>Et votre coeur, je crois, n'y résistera pas : </l>
 	<l id='340'>C'est que ce jeune objet accompagne vos pas. </l>
-<stage>À Criséis.</stage>
+<stage type="toward">À Criséis.</stage>
 	<l id='341' part='i'>Y répugneriez-vous ? </l>
 </sp>
 <sp who='CRISÉIS'><speaker>CRISÉIS.</speaker>
@@ -849,7 +849,7 @@
 </sp>
 <sp who='DÉMOCRITE'><speaker>DÉMOCRITE, à part.</speaker>
 	<l id='354' part='f'>Pourquoi faut-il que j'aime ? </l>
-<stage>À Agélas. </stage>
+<stage type="toward">À Agélas. </stage>
 	<l id='355' part='i'>Mais, seigneur... </l>
 </sp>
 <sp who='AGÉLAS'><speaker>AGÉLAS, à Démocrite.</speaker>
@@ -865,7 +865,7 @@
 	<l id='358'>J'ai des gens, des chevaux dans la route prochaine ; </l>
 	<l id='359'>Pour se rendre en ces lieux on va les avertir. </l>
 	<l id='360'>Toi, prends soin, Agénor, de les faire partir. </l>
-<stage>À Démocrite, à Agénor, à part.</stage>
+<stage type="toward">À Démocrite, à Agénor, à part.</stage>
 	<l id='361'>Je vous laisse. Surtout, cette aimable personne... </l>
 </sp>
 <sp who='AGÉLAS'><speaker>AGÉNOR, à Agélas.</speaker>
@@ -910,7 +910,7 @@
 	<l id='373'>Quel voyage, grands dieux ! C'est à votre prière </l>
 	<l id='374'>Que je fais une chose à mon coeur si contraire. </l>
 	<l id='375'>Mais pour vous, Criséis, que ne ferait-on pas ? </l>
-<stage>À part. </stage>
+<stage type="aparte">À part. </stage>
 	<l id='376'>Que je sens là-dedans de trouble et de combats ! </l>
 </sp>
 </div2>
@@ -929,7 +929,7 @@
 </div2>
 </div1>
 <div1 type="act" n='2'><head>ACTE II</head>
-<stage>Le Théâtre représente le palais d'Agélas, roi d'Athènes. </stage>
+<stage type="decor">Le théâtre représente le palais d'Agélas, roi d'Athènes. </stage>
 <div2 type="scene" n='1'><head>SCÈNE I. Ismène, Cléanthis.</head>
 <sp who='CLÉANTHIS'><speaker>CLÉANTHIS.</speaker>
 	<l id='385'>Si j'avais le secret de deviner la cause </l>
@@ -1129,7 +1129,7 @@
 	<l id='517'>Ils sont un régiment de diverses figures ; </l>
 	<l id='518'>Jaune, gris, vert, enfin de toutes les peintures, </l>
 	<l id='519'>Qui sont tous après moi comme des possédés. </l>
-<stage>Allant vers la porte. </stage>
+<stage type="[N/A]">Allant vers la porte. </stage>
 <note type="L">Palsangué : Jurement de paysan, dans l'ancienne comédie. Corruption de par le sang Dieu. [L]</note>
 	<l id='520' part='i'>Palsangué, le premier... </l>
 </sp>
@@ -1182,7 +1182,7 @@
 	<l id='546'>Remue un peu les bras ; balance-toi la tête. </l>
 	<l id='547'>De la vivacité. Danse. Prends du tabac. </l>
 	<l id='548'>Ne tends pas tant le dos. Renfonce l'estomac. </l>
-<stage>Il lui donne un coup dans le dos, et un autre dans l'estomac.</stage>
+<stage type="[N/A]">Il lui donne un coup dans le dos, et un autre dans l'estomac.</stage>
 </sp>
 <sp who='THALER'><speaker>THALER.</speaker>
 	<l id='549'>Oh ! Morgué, bellement ; comme vous êtes rude ! </l>
@@ -1256,7 +1256,7 @@
 	<l id='586'>Pour faire à tout moment, et dire des sottises, </l>
 	<l id='587'>A quoi bon, s'il vous plaît, payer tant de témoins ? </l>
 	<l id='588'>Messieurs, laissez-moi seul, et trêve de vos soins. </l>
-<stage>Au Maître d'hôtel.</stage>
+<stage type="toward">Au Maître d'hôtel.</stage>
 	<l id='589' part='i'>Et vous, que vous plaît-il ? </l>
 </sp>
 <sp who='LE-MAÎTRE-D-HÔTEL'><speaker>LE MAÎTRE D'HÔTEL, à Démocrite.</speaker>
@@ -1282,7 +1282,7 @@
 	<l id='596'>Parce que l'amitié l'un à l'autre nous joint, </l>
 	<l id='597'>Mais je réponds de lui ; c'est un très honnête homme, </l>
 	<l id='598'>Fidèle, incorruptible, équitable, économe. </l>
-<stage>Bas, à Démocrite.</stage>
+<stage type="toward/mezzo voce">Bas, à Démocrite.</stage>
 	<l id='599'>Ne vous y fiez pas, je vous en avertis. </l>
 </sp>
 <sp who='LE-MAÎTRE-D-HÔTEL'><speaker>LE MAÎTRE D'HÔTEL, à L'Intendant.</speaker>
@@ -1290,7 +1290,7 @@
 	<l id='601'>Je publierais partout que l'on ne trouve guères </l>
 	<l id='602'>D'homme plus entendu que vous dans les affaires, </l>
 	<l id='603'>Plus désintéressé, plus actif, plus adroit. </l>
-<stage>Bas, à Démocrite.</stage>
+<stage type="toward/mezzo voce">Bas, à Démocrite.</stage>
 	<l id='604'>Prenez-y garde au moins, car il ne va pas droit. </l>
 </sp>
 <sp who='L-INTENDANT'><speaker>L'INTENDANT, au maître d'hôtel.</speaker>
@@ -1298,7 +1298,7 @@
 	<l id='606'>On sait votre bon goût pour conduire une fête ; </l>
 	<l id='607'>Nul n'entend mieux que vous à donner un repas, </l>
 	<l id='608'>En aussi peu de temps, sans bruit, sans embarras. </l>
-<stage>Bas, à Démocrite. </stage>
+<stage type="toward/mezzo voce">Bas, à Démocrite. </stage>
 	<l id='609'>C'est un homme qui n'a l'âme, ni la main nette, </l>
 	<l id='610'>Et qui gagne moitié sur tout ce qu'il achète. </l>
 </sp>
@@ -1307,7 +1307,7 @@
 	<l id='612'>À gagner le procès le plus désespéré, </l>
 	<l id='613'>À nettoyer un bien, à liquider des dettes </l>
 	<l id='614'>Que dans une maison un long désordre a faites. </l>
-<stage>Bas, à Démocrite. </stage>
+<stage type="toward/mezzo voce">Bas, à Démocrite. </stage>
 	<l id='615'>C'est un homme sans foi, qui prend de toute main, </l>
 	<l id='616'>Et ne fait pas un bail qu'il n'ait un pot-de-vin. </l>
 </sp>
@@ -1489,7 +1489,7 @@
 	<l id='706'>La princesse a, je crois, dessein sur ma personne. </l>
 	<l id='707'>Il ne faut point ici perdre le jugement, </l>
 	<l id='708'>Mais en homme d'esprit tourner un compliment. </l>
-<stage>Haut. </stage>
+<stage type="forte">Haut. </stage>
 	<l id='709'>Madame, s'il est vrai, selon nos axiomes, </l>
 	<l id='710'>Que tous corps ici-bas sont composés d'atomes, </l>
 	<l id='711'>Chacun doit convenir, en voyant vos attraits, </l>
@@ -1616,7 +1616,7 @@
 </sp>
 <sp who='CLÉANTHIS'><speaker>CLÉANTHIS.</speaker>
 	<l id='771'>Je sens que ma vertu combat mal avec vous ; </l>
-<stage>À part.</stage>
+<stage type="aparte">À part.</stage>
 	<l id='772'>Il faut nous séparer. Ah, ciel ! Si mon époux </l>
 	<l id='773'>Avait été formé sur un pareil modèle, </l>
 	<l id='774' part='i'>Qu'il m'eût donné d'amour ! </l>
@@ -1624,7 +1624,7 @@
 <sp who='STRABON'><speaker>STRABON.</speaker>
 	<l id='774' part='f'>Adieu, charmante belle : </l>
 	<l id='775'>Auprès de vos appas je défends mal mon coeur. </l>
-<stage>À part.</stage>
+<stage type="aparte">À part.</stage>
 	<l id='776'>Ah, ciel ! Si j'avais eu femme de cette humeur, </l>
 	<l id='777'>Quelles félicités ! Et qu'en sa compagnie </l>
 	<l id='778'>J'aurais avec plaisir passé toute ma vie ! </l>
@@ -1690,7 +1690,7 @@
 <sp who='AGÉNOR'><speaker>AGÉNOR, à part.</speaker>
 	<l id='811'>Ciel, qui sais mon amour, fais si bien, qu'en son âme </l>
 	<l id='812'>Puisse à jamais régner cette nouvelle flamme ! </l>
-<stage>À Agélas. </stage>
+<stage type="toward">À Agélas. </stage>
 	<l id='813'>Ce n'est pas d'aujourd'hui que les champs et les bois </l>
 	<l id='814'>Ont produit des objets dignes des plus grands rois ; </l>
 	<l id='815'>Et le sort prend plaisir, d'une chaîne secrète, </l>
@@ -1714,7 +1714,7 @@
 	<l id='825'>Je suis trop en chagrin, je vais lui dire, moi ; </l>
 	<l id='826'>Arrive qui pourra, n'importe. Je le vois : </l>
 	<l id='827'>Je m'en vais, palsangué, lui débrider ma chance. </l>
-<stage>À Agélas. </stage>
+<stage type="toward">À Agélas. </stage>
 <note type="L">Importunance : Terme inusité. Action d'importuner. [L]</note>
 	<l id='828'>Sire, excusez l'affront de notre importunance. </l>
 </sp>
@@ -1786,7 +1786,7 @@
 	<l id='857'>Ahi ! Vous êtes, seigneur, par trop considérant. </l>
 	<l id='858'>Mais, parlant par respect, l'honneur que l'on me rend </l>
 	<l id='859'>Me confond ; car, tout franc, sans tant de préambule... </l>
-<stage>À Criséis. </stage>
+<stage type="toward">À Criséis. </stage>
 	<l id='860'>Palsangué, te voilà comme une ridicule ! </l>
 	<l id='861'>Que ne réponds-tu, toi ? Je m'embrouille toujours, </l>
 	<l id='862'>Lorsque d'un compliment j'entreprends le discours. </l>
@@ -1898,7 +1898,7 @@
 </sp>
 <sp who='AGÉLAS'><speaker>AGÉLAS.</speaker>
 	<l id='924'>Si Criséis le veut, je consens à tout faire. </l>
-<stage>À Criséis.</stage>
+<stage type="toward">À Criséis.</stage>
 	<l id='925' part='i'>Parlez, expliquez-vous. </l>
 </sp>
 <sp who='CRISÉIS'><speaker>CRISÉIS.</speaker>
@@ -1962,7 +1962,7 @@
 </sp>
 <sp who='DÉMOCRITE'><speaker>DÉMOCRITE.</speaker>
 	<l id='957'>Démocrite est-il homme à se laisser toucher ? </l>
-<stage>À part. </stage>
+<stage type="aparte">À part. </stage>
 	<l id='958'>Je ne le suis que trop ! J'ai peine à me cacher. </l>
 </sp>
 <sp who='AGÉLAS'><speaker>AGÉLAS.</speaker>
@@ -2010,7 +2010,7 @@
 </sp>
 <sp who='AGÉLAS'><speaker>AGÉLAS.</speaker>
 	<l id='979'>Ce silence douteux à trop de maux m'expose. </l>
-<stage>À Démocrite. </stage>
+<stage type="toward">À Démocrite. </stage>
 	<l id='980'>Vous, qui voyez le rang que l'amour lui propose, </l>
 	<l id='981'>Secondez mes désirs, parlez en ma faveur. </l>
 </sp>
@@ -2067,7 +2067,7 @@
 </sp>
 <sp who='DÉMOCRITE'><speaker>DÉMOCRITE, à part.</speaker>
 	<l id='1007' part='f'>Je ne sais que dire. </l>
-<stage>Haut. </stage>
+<stage type="forte">Haut. </stage>
 	<l id='1008'>Suivez les mouvements que le coeur vous inspire. </l>
 </sp>
 <sp who='CRISÉIS'><speaker>CRISÉIS.</speaker>
@@ -2082,7 +2082,7 @@
 </sp>
 <sp who='DÉMOCRITE'><speaker>DÉMOCRITE.</speaker>
 	<l id='1017'>Pour lui vous sentez donc cet appétit secret.... </l>
-<stage>À part.</stage>
+<stage type="aparte">À part.</stage>
 	<l id='1018'>J'ai bien peur d'être ici curieux indiscret. </l>
 </sp>
 <sp who='CRISÉIS'><speaker>CRISÉIS.</speaker>
@@ -2205,7 +2205,7 @@
 	<l id='1082'>Produits par les enfers, payés des médecins ; </l>
 	<l id='1083'>Et, si l'on agissait en bonne politique, </l>
 	<l id='1084'>On vous bannirait tous de chaque république. </l>
-<stage>Il sort. </stage>
+<stage type="exit">Il sort. </stage>
 </sp>
 </div2>
 <div2 type="scene" n='8'><head>SCÈNE VIII. Le Maître d'Hôtel, Strabon.</head>
@@ -2461,7 +2461,7 @@
 <sp who='CLÉANTHIS'><speaker>CLÉANTHIS, à part.</speaker>
 	<l id='1209'>On voit assez, à l'air dont il est habillé, </l>
 	<l id='1210'>Que c'est l'original dont on nous a parlé. </l>
-<stage>Haut. </stage>
+<stage type="forte">Haut. </stage>
 	<l id='1211'>Vous qui dans les forêts avez passé la vie, </l>
 	<l id='1212'>Uniquement touché de la philosophie, </l>
 	<l id='1213'>Quel noir démon vous pousse à causer notre ennui ? </l>
@@ -2584,7 +2584,7 @@
 	<l id='1277'>C'est mon système à moi : l'esprit croit dans le vin ; </l>
 	<l id='1278'>Je m'en sens déjà plus trois fois que ce matin. </l>
 	<l id='1279'>Je me venge à longs traits de la philosophie. </l>
-<stage>À Cléanthis. </stage>
+<stage type="toward">À Cléanthis. </stage>
 	<l id='1280'>Hé ! Vous voilà, princesse, infante de ma vie ! </l>
 	<l id='1281'>Vous voyez un seigneur fort satisfait de soi, </l>
 	<l id='1282'>Un convive échappé de la table du roi : </l>
@@ -2723,7 +2723,7 @@
 </sp>
 <sp who='STRABON'><speaker>STRABON, à part.</speaker>
 	<l id='1350' part='f'>L'aventure est très neuve. </l>
-<stage>À Cléanthis.</stage>
+<stage type="toward">À Cléanthis.</stage>
 	<l id='1351'>Depuis quand, s'il vous plaît, vivez-vous sans époux ? </l>
 </sp>
 <sp who='CLÉANTHIS'><speaker>CLÉANTHIS.</speaker>
@@ -2773,7 +2773,7 @@
 </sp>
 <sp who='STRABON'><speaker>STRABON, à part.</speaker>
 	<l id='1375' part='m'>Dans Argos ! </l>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 	<l id='1375' part='f'>Et s'il vous plaît, quel nom </l>
 	<l id='1376' part='i'>Portait ce cher époux ? </l>
 </sp>
@@ -2826,13 +2826,13 @@
 </sp>
 <sp who='STRABON'><speaker>STRABON.</speaker>
 	<l id='1393' part='f'>Ali ! Doucement, madame. </l>
-<stage>À part. </stage>
+<stage type="aparte">À part. </stage>
 	<l id='1394'>Ô pouvoir de l'hymen, quel retour en mon âme ! </l>
 </sp>
 <sp who='CLÉANTHIS'><speaker>CLÉANTHIS, à part.</speaker>
 	<l id='1395'>Je ressentais pour lui les transports les plus doux, </l>
 	<l id='1396'>Hélas ! Qu'allais-je faire ? Il était mon époux. </l>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 	<l id='1397'>Va, fuis. Que le démon, qui te prit en ton gîte </l>
 	<l id='1398'>Pour t'amener ici, t'y remporte au plus vite. </l>
 	<l id='1399'>Évite ma fureur ; retourne dans tes bois. </l>
@@ -3027,7 +3027,7 @@
 </sp>
 <sp who='CLÉANTHIS'><speaker>CLÉANTHIS.</speaker>
 	<l id='1479'>Où puis-je aller, pour fuir un si funeste objet ? </l>
-<stage>Thaler regarde Cléanthis avec attention. </stage>
+<stage type="[N/A]">Thaler regarde Cléanthis avec attention. </stage>
 </sp>
 <sp who='STRABON'><speaker>STRABON.</speaker>
 	<l id='1480'>Vous pouvez voyager vingt ans comme j'ai fait ; </l>
@@ -3037,7 +3037,7 @@
 </sp>
 <sp who='CLÉANTHIS'><speaker>CLÉANTHIS.</speaker>
 	<l id='1484'>Sors vite de ces lieux, redoute mon courroux. </l>
-<stage>À Thaler. </stage>
+<stage type="toward">À Thaler. </stage>
 	<l id='1485'>As-tu bientôt assez contemplé ma figure ? </l>
 </sp>
 <sp who='THALER'><speaker>THALER, à part.</speaker>
@@ -3102,7 +3102,7 @@
 </sp>
 <sp who='CLÉANTHIS'><speaker>CLÉANTHIS, à Thaler.</speaker>
 	<l id='1505'>Quoi ! Tu pourrais, maraud, avec pareille audace, </l>
-<stage>À part. </stage>
+<stage type="aparte">À part. </stage>
 	<l id='1506'>Me soutenir... J'ai vu quelque part cette face. </l>
 </sp>
 <sp who='THALER'><speaker>THALER, à Cléanthis.</speaker>
@@ -3209,7 +3209,7 @@
 <sp who='THALER'><speaker>THALER, à part.</speaker>
 <note type="L">Tatigué ou Tetigué : Altération de tête-dieu dans la bouche des paysans des anciennes comédies. On trouve aussi tatigué et tatigoin. [L]</note>
 	<l id='1553' part='i'>Tatigué, queu malin !</l>
-<stage>À Agélas. </stage>
+<stage type="toward">À Agélas. </stage>
 	<l id='1553' part='f'>Rendez-moi mon bijou, </l>	
 	<l id='1554'>Et je prends, pour partir, mes jambes à mon cou. </l>
 </sp>
@@ -3223,7 +3223,7 @@
 </sp>
 <sp who='AGÉLAS'><speaker>AGÉLAS.</speaker>
 	<l id='1557' part='f'>Les yeux sont éblouis </l>
-<stage>À Thaler. </stage>
+<stage type="toward">À Thaler. </stage>
 	<l id='1558'>Des traits de feu qu'on voit... Mais d'où vient ce rubis ? </l>
 </sp>
 <sp who='THALER'><speaker>THALER.</speaker>
@@ -3362,7 +3362,7 @@
 <sp who='DÉMOCRITE'><speaker>DÉMOCRITE.</speaker>
 	<l id='1615'>L'amour m'avait forcé, pour traverser ma vie, </l>
 	<l id='1616'>Dans les retranchements de la philosophie. </l>
-<stage>Montrant Criséis. </stage>
+<stage type="[N/A]">Montrant Criséis. </stage>
 	<l id='1617'>Voilà l'objet fatal, le véritable écueil </l>
 	<l id='1618'>Où la fière sagesse a brisé son orgueil. </l>
 </sp>
@@ -3395,7 +3395,7 @@
 	<l id='1636'>Ne soit plus exposée à cette épilepsie. </l>
 	<l id='1637'>Dans un antre plus creux, achevant mon emploi, </l>
 	<l id='1638'>Je vais rire de vous ; riez aussi de moi. </l>
-<stage>Il sort. </stage>
+<stage type="exit">Il sort. </stage>
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Ismène, Agélas, Agénor, Criséis, Cléanthis, Strabon, Thaler.</head>

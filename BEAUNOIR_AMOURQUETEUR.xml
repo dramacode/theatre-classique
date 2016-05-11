@@ -135,7 +135,7 @@
 	</front>
 <body>
 <div1 type="act" n='1'><head>ACTE I</head>
-<stage>Le Théâtre représente une rue; sur la droite est une maison, dont toutes les fenêtres sont grillées.</stage>
+<stage type="decor">Le théâtre représente une rue; sur la droite est une maison, dont toutes les fenêtres sont grillées.</stage>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. L'Amour, Mercure, entrant chacun d'un côté opposé.</head> 
 <sp who='MERCURE'><speaker>MERCURE.</speaker>
 <p id='1'>
@@ -352,7 +352,7 @@
 	<s id='1'>Eh ! </s>
 	<s id='2'>Bien, suis-moi ; tu n'auras pas sujet de t'en repentir.</s>
 </p>
-<stage>Ils sortent.</stage>
+<stage type="exit">Ils sortent.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Madame Barbara, Ursule, Agnès, Brigitte, Rosette, Troupe de jeunes Pensionnaires. </head>
@@ -360,8 +360,8 @@
 <p id='1'>
 	<s id=''>Allons, Mesdemoiselles, rentrez ; il se fait déjà tard, et la promenade a été plus longue qu'à l'ordinaire.</s>
 </p>
-<stage>Les plus jeunes Pensionnaires rentrent.</stage>
-<stage>À Ursule.</stage>
+<stage type="[N/A]">Les plus jeunes Pensionnaires rentrent.</stage>
+<stage type="toward">À Ursule.</stage>
 <p id='2'>
 	<s id='1'>Qu'avez-vous donc dans la poche de votre tablier Ursule ? </s>
 </p>
@@ -377,7 +377,7 @@
 	<s id='2'>Rien ?... </s>
 	<s id='3'>Voyons, voyons. </s>
 </p>
-<stage>Elle fouille dans la poche d'Ursule, et y trouve un roman.</stage>
+<stage type="[N/A]">Elle fouille dans la poche d'Ursule, et y trouve un roman.</stage>
 <p id='5'>
 	<s id='1'>Oh ! </s>
 	<s id='2'>Ciel ! </s>
@@ -408,8 +408,8 @@
 <p id='9'>
 	<s id='1'>Rentrez.</s>
 </p>
-<stage>Ursule rentre.</stage>
-<stage>À Brigitte.</stage>
+<stage type="[N/A]">Ursule rentre.</stage>
+<stage type="toward">À Brigitte.</stage>
 <note type="L">Bavette : Linge qu'on met aux petits enfants au devant de leur estomac, de peur qu'ils ne salissent leurs robes avec leur bave. [F] Ici pour signifier que Brigitte est fort jeune.</note>
 <p id='10'>
 	<s id='1'>Un instant. </s>
@@ -440,17 +440,17 @@
 	<s id='1'>Ah ! </s>
 	<s id='2'>Vous pouvez la garder, je la sais par cœur.</s>
 </p>
-<stage>Elle rentre.</stage>
+<stage type="[N/A]">Elle rentre.</stage>
 </sp>
 <sp who="MADAME BARBARA"><speaker>MADAME BARBARA.</speaker>
 <p id='14'>
 	<s id='1'>L'impertinente !... </s>
 </p>
-<stage>À Agnès.</stage>
+<stage type="toward">À Agnès.</stage>
 <p id='15'>
 	<s id='1'>Voyons, où en est votre ouvrage, Agnès ?... </s>
 </p>
-<stage>Agnès présente son sac à ouvrage, d'où Madame Barbara tire un bilboquet.</stage>
+<stage type="[N/A]">Agnès présente son sac à ouvrage, d'où Madame Barbara tire un bilboquet.</stage>
 <p id='16'>
 	<s id='1'>Voilà donc à quoi vous vous occupez ?... </s>
 	<s id='2'>Un bilboquet !... </s>
@@ -473,14 +473,14 @@
 <p id='19'>
 	<s id='1'>Vous faites un crime de tout.</s>
 </p>
-<stage>Elle rentre.</stage>
+<stage type="[N/A]">Elle rentre.</stage>
 </sp>
 <sp who="MADAME BARBARA"><speaker>MADAME BARBARA.</speaker>
 <p id='20'>
 	<s id='1'>Vous raisonnez, je crois, grande sotte !... </s>
 	<s id='2'>Rentrez, rentrez...</s>
 </p>
-<stage>À Rosette.</stage>
+<stage type="toward">À Rosette.</stage>
 <p id='21'>
 	<s id='1'>Toi, reste, Rosette.</s>
 </p>
@@ -522,7 +522,7 @@
 	<s id='1'>Oui, oui ; mais rentre, car je ne veux pas m'amuser longtemps, et l'heure me presse... </s>
 	<s id='2'>Ferme bien la porte. </s>
 </p>
-<stage>Rosette rentre dans la maison, et Madame Barbara s'en va à la ville.</stage>
+<stage type="[N/A]">Rosette rentre dans la maison, et Madame Barbara s'en va à la ville.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE IV. </head>
@@ -531,7 +531,7 @@
 	<s id='1'>Bon, voilà Madame Barbara éloignée ; profitons de son absence, pour tâcher de nous introduire chez elle sous ce déguisement... </s>
 	<s id='2'>Frappons à la porte. </s>
 </p>
-<stage>Il frappe.</stage>
+<stage type="[N/A]">Il frappe.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Agnès, à travers une fenêtre grillée ; L'Amour.</head>
@@ -676,7 +676,7 @@
 <p id='26'>
 	<s id='1'>Les Dieux vous en récompenseront... </s>
 </p>
-<stage>À part.</stage>
+<stage type="aparte">À part.</stage>
 <p id='27'>
 	<s id='1'>Je la tiens ! </s>
 </p>
@@ -715,12 +715,12 @@
 <p id='34'>
 	<s id='1'>Venez.</s>
 </p>
-<stage>Agnès, en hésitant, prend l'Amour par son cordon, et l'introduit dans la maison dont elle referme la porte.</stage>
+<stage type="[N/A]">Agnès, en hésitant, prend l'Amour par son cordon, et l'introduit dans la maison dont elle referme la porte.</stage>
 </sp>
 </div2>
 </div1>
 <div1 type="act" n='2'><head>ACTE II</head>
-<stage>Le Théâtre représente la Classe de Madame Barbara. On voit, sur les deux aîles, les portes des chambres d'Ursule, de Brigitte et d'Agnès. </stage>
+<stage type="decor">Le théâtre représente la Classe de Madame Barbara. On voit, sur les deux aîles, les portes des chambres d'Ursule, de Brigitte et d'Agnès. </stage>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Madame Barbara, Ursule, Agnès, Brigitte, Rosette, Troupe de jeunes Pensionnaires, assises ; L'Amour, caché sous la table de Madame Barbara.</head> 
 <sp who='MADAME BARBARA'><speaker>MADAME BARBARA.</speaker>
 <p id="1">
@@ -755,7 +755,7 @@
 	<s id="1">Cela se voit par sa conduite... </s>
 	<s id='2'>Pour vous accoutumer de bonne heure à la conserver précieusement, écoutez-moi.</s>
 </p>
-<stage>Leur montrant à toutes un paquet d'anneaux de verre.</stage>
+<stage type="[N/A]">Leur montrant à toutes un paquet d'anneaux de verre.</stage>
 <p id='6'>
 	<s id='1'>Vous voyez ces anneaux de verre ? </s>
 </p>
@@ -776,7 +776,7 @@
 	<s id='7'>Couchez-vous tranquillement, et, surtout, conservez bien précieusement les anneaux que je viens de vous donner... </s>
 	<s id=''>Bonsoir ; bonsoir. </s>
 </p>
-<stage>Ursule, Agnès et Brigitte entrent chacune dans leur chambre, Madame Barbara se retire, d'un autre côté, avec les plus jeunes pensionnaires.</stage>
+<stage type="[N/A]">Ursule, Agnès et Brigitte entrent chacune dans leur chambre, Madame Barbara se retire, d'un autre côté, avec les plus jeunes pensionnaires.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II.</head>
@@ -792,7 +792,7 @@
 	<s id='8'>Voilà la porte d'Ursule ; c'est la plus raisonnable, et c'est par elle que je veut commencer... </s>
 	<s id='9'>Frappons doucement...</s>
 </p>
-<stage>Avec sentiment.</stage>
+<stage type="[N/A]">Avec sentiment.</stage>
 <p id='2'>
 	<s id='1'>Ursule, ma chère Ursule !</s>
 </p>
@@ -1041,7 +1041,7 @@
 <p id="43">
 	<s id="1">Ne vous éloignez pas, je reviens dans l'instant.</s>
 </p>
-<stage>Elle rentre dans sa chambre.</stage>
+<stage type="[N/A]">Elle rentre dans sa chambre.</stage>
 </sp>
 <sp who="L'AMOUR"><speaker>L'AMOUR.</speaker>
 <p id='44'>
@@ -1056,7 +1056,7 @@
 	<s id='2'>Courage ! </s>
 	<s id='3'>Ne perdons pas de temps ; et pendant que l'innocente est allée chercher son anneau, attaquons-en vite une seconde...</s>
 </p>
-<stage>Gaiement.</stage>
+<stage type="[N/A]">Gaiement.</stage>
 <p id='2'>
 	<s id='1'>Brigitte ! Charmante Brigitte ! </s>
 </p>
@@ -1180,14 +1180,14 @@
 	<s id="1">Non, non. </s>
 	<s id='2'>Sans adieu, mon amoureux. </s>
 </p>
-<stage>Elle rentre dans sa chambre.</stage>
+<stage type="[N/A]">Elle rentre dans sa chambre.</stage>
 </sp>
 <sp who="L'AMOUR"><speaker>L'AMOUR.</speaker>
 <p id="20">
 	<s id="1">Et de deux... </s>
 	<s id='2'>Attaquons vite la troisième.... </s>
 </p>
-<stage>Ingénument.</stage>
+<stage type="[N/A]">Ingénument.</stage>
 <p id='21'>
 	<s id='1'>Agnès ! </s>
 	<s id='2'>Aimable Agnès !... </s>
@@ -1386,7 +1386,7 @@
 	<s id="1">Non... </s>
 	<s id='2'>Mais...</s>
 </p>
-<stage>Le lui montrant.</stage>
+<stage type="[N/A]">Le lui montrant.</stage>
 <p id='36'>
 	<s id='1'>Le voilà. </s>
 </p>
@@ -1510,7 +1510,7 @@
 	<s id='4'>Un homme ici ! </s>
 	<s id='5'>Un homme avec ces Demoiselles !... </s>
 </p>
-<stage>Appelant.</stage>
+<stage type="[N/A]">Appelant.</stage>
 <p id=''>
 	<s id=''>Madame Barbara! Madame Barbara ! </s>
 </p>
@@ -1552,7 +1552,7 @@
 	<s id='3'>Qu'entends-je !... Retirez-vous, malheureuses ! </s>
 	<s id='4'>Retirez-vous, et craignez tout de ma juste colère ! </s>
 </p>
-<stage>Toutes les Pensionnaires se retirent.</stage>
+<stage type="[N/A]">Toutes les Pensionnaires se retirent.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='10'><head>SCÈNE X. L'Amour, Madame Barbara.</head>
@@ -1588,7 +1588,7 @@
 <p id="6">
 	<s id="1">C'est vous seule, oui, vous seule que je cherchais ici ; c'est pour vous seule que je m'y suis introduit, à l'aide de ce cordon magique qui m'en a ouvert la porte, et c'est à vos pieds que je veux vivre ou mourir.</s>
 </p>
-<stage>Il tombe à ses pieds.</stage>
+<stage type="action/fall">Il tombe à ses pieds.</stage>
 </sp>
 <sp who='MADAME BARBARA'><speaker>MADAME BARBARA. </speaker>
 <p id="7">
@@ -1825,7 +1825,7 @@
 <p id='13'>
 	<s id='1'>Le voilà. </s>
 </p>
-<stage>Toutes les Pensionnaires s'empressent pour le prendre ; mais Madame Barbara s'en empare, et le met dans sa poche.</stage>
+<stage type="[N/A]">Toutes les Pensionnaires s'empressent pour le prendre ; mais Madame Barbara s'en empare, et le met dans sa poche.</stage>
 </sp>
 <sp who='MADAME BARBARA'><speaker>MADAME BARBARA.</speaker>
 <p id="14">

@@ -55,10 +55,10 @@
 </front>
 <body>
 <div1 type="act" n='1'><head></head>
-<stage>Le Théâtre représente un Salon.</stage>
+<stage type="decor">Le théâtre représente un Salon.</stage>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. </head>
 <sp who='MAUGIN'><speaker>MAUGIN seul.</speaker>
-<stage>Il jette les yeux sur une pendule. </stage>
+<stage type="action">Il jette les yeux sur une pendule. </stage>
 <note type="C">Scarron était presque entièrement paralysé et ne se déplaçait qu'en fauteuil roulant.</note>
 <p id='1'>
 	<s id='1'>Ah ! </s>
@@ -68,11 +68,11 @@
 	<s id=''>Préparons-lui toutes ses petites affaires... </s>
 	<s id=''>Sa table...</s>
 </p>
-<stage>Il la place sur le devant de la scène.</stage>
+<stage type="action">Il la place sur le devant de la scène.</stage>
 <p id='2'>
 	<s id='1'>Ses livres... </s>
 </p>
-<stage>Il les arrange.</stage>
+<stage type="[N/A]">Il les arrange.</stage>
 <p id='3'>
 	<s id='1'>Ses lettres... </s>
 	<s id='2'>La dernière épreuve de Jodelet... </s>
@@ -82,7 +82,7 @@
 	<s id='6'>Que d'argent elle rapporte aux comédiens ! </s>
 	<s id='7'>Aussi, ces messieurs sont-ils venus en députation prier Monsieur Scarron de leur en faire une autre, toute pareille. </s>
 </p>
-<stage>Air : Non, je ne ferai pas. </stage>
+<stage type="music">Air : Non, je ne ferai pas. </stage>
 	<l id='1'>La députation était bien honorable, </l>
 	<l id='2'>Et jamais écrivain n'en aura de semblable, </l>
 	<l id='3'>D'autant qu'en tous les cas, c'est toujours aux auteurs </l>
@@ -92,14 +92,14 @@
 	<s id='2'>Eh ! </s>
 	<s id='3'>Puis, quand un homme d'église, un chanoine, fils d'un conseiller au parlement, fait tant que d'être auteur, on sent bien que ce n'est pas un auteur comme un autre.</s>
 </p>
-<stage>Voyant que tout est arrangé.</stage>
+<stage type="[N/A]">Voyant que tout est arrangé.</stage>
 <p id='5'>
 	<s id='1'>Voilà ce que c'est... </s>
 	<s id='2'>Quand je l'aurai roulé là, il aura tout sous sa main... </s>
 	<s id='3'>Voyons maintenant si je n'ai rien oublié de ses commissions... </s>
 	<s id='4'>Relisons sa petite note. </s>
 </p>
-<stage>Il met ses lunettes et lit sur un papier.</stage>
+<stage type="[N/A]">Il met ses lunettes et lit sur un papier.</stage>
 <note type="L">Pelisson, Paul (1624-1693) : Fut d'abord avocat à Castres, vint à Paris pour y jouir du commerce des gens de lettres, y acheta une charge de ssecrétire du Roi, devint en 1657 premier commis de Fouquet, et fut nommé conseiller d'État en 1660. Il partagea la disgrâce de Fouque et fut incarcéré en 1661 à la Bastille. (...) Il ne sortit de prison qu'au bout de 5 ans, fut nommé Historiographe du Roi et académicien. [B]</note>
 <p id='6'>
 	<s id='1'>Les vers à Mademoiselle d'Hautefort... </s>
@@ -114,7 +114,7 @@
 	<s id='10'>Tout cela est fait. </s>
 	<s id='11'>Monsieur l'Abbé peut sonner quand il voudra.</s>
 </p>
-<stage>Il va pour sortir.</stage>
+<stage type="[N/A]">Il va pour sortir.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. MAUGIN, M. DE VILLARCEAUX. </head>
@@ -191,7 +191,7 @@
 </p>
 </sp>
 <sp who="MAUGIN"><speaker>MAUGIN.</speaker>
-<stage>Air : Eh! zon, zon, zon. </stage>
+<stage type="music">Air : Eh! zon, zon, zon. </stage>
 	<l id='5'>En attraits, en beauté </l>
 	<l id='6'>Célimène est parfaite; </l>
 	<l id='7'>On en est enchanté, </l>
@@ -350,7 +350,7 @@
 </p>
 </sp>
 <sp who="MAUGIN"><speaker>MAUGIN.</speaker>
-<stage>Air: Pour héritage. </stage>
+<stage type="music">Air: Pour héritage. </stage>
 	<l id='23'>Quand d'une belle </l>
 	<l id='24'>Il desire approcher, </l>
 	<l id='25'>C'est toujours elle </l>
@@ -444,7 +444,7 @@
 <p id="55">
 	<s id="1">Il avait à ménager le décorum d'un chanoine qui ne peut pas se masquer comme un autre.</s>
 </p>
-<stage>Air: Viens, puisqu'il doit en ces lieux. </stage>
+<stage type="music">Air: Viens, puisqu'il doit en ces lieux. </stage>
 	<l id='31'>Enmiélé, puis emplumé, </l>
 	<l id='32'>Il s'élance dans la rue ; </l>
 	<l id='33'>On l'entoure, on est charmé ; </l>
@@ -460,7 +460,7 @@
 </p>
 </sp>
 <sp who="MAUGIN"><speaker>MAUGIN.</speaker>
-<stage>Air: Où s'en vont ces gais bergers? </stage>
+<stage type="music">Air: Où s'en vont ces gais bergers? </stage>
 	<l id='39'>Chacun veut du bel oiseau </l>
 	<l id='40'>Emporter une plume ; </l>
 	<l id='41'>Il paraît d'autant moins beau, </l>
@@ -474,11 +474,11 @@
 <p id="57">
 	<s id="1">D'où il est sorti dans l'état où nous le voyons.</s>
 </p>
-<stage>À part.</stage>
+<stage type="aparte">À part.</stage>
 <p id='58'>
 	<s id='1'>Si je n'ai point d'autre rival, me voilà bien tranquille.</s>
 </p>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
  <note type="L">Adonis : jeune homme d'une beauté remarquable, était, suivant les Grecs,le fruit du commerce incestueux de Cinyras avec sa fille Myrrha. Il fut changé en anémone. [B]</note>
 <p id='59'>
 	<s id='1'>Et que dit Mademoiselle d'Aubigné des soupirs de son Adonis ? </s>
@@ -498,7 +498,7 @@
 </p>
 </sp>
 <sp who="MAUGIN"><speaker>MAUGIN.</speaker>
-<stage>Air: Vaudeville des Veuves. </stage>
+<stage type="music">Air: Vaudeville des Veuves. </stage>
 	<l id='47'>Aimé de la belle Ninon, </l>
 	<l id='48'>Vous n'en pouvez aimer une autre; </l>
 	<l id='49'>Vous avez plaisir et renom, </l>
@@ -535,7 +535,7 @@
 <p id="2">
 	<s id="1">Non, mademoiselle, il n'a pas encore sonné ; mais voilà monsieur de Villarceaux qui vous fera compagnie. </s>
 	</p>
-<stage>Il sort.</stage>
+<stage type="exit">Il sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Ninon, Monsieur de Villarceaux.</head>
@@ -565,7 +565,7 @@
 <p id="5">
 	<s id="1">Chez moi ! </s>
 </p>
-<stage>Air : De Weick. </stage>
+<stage type="music">Air : De Weick. </stage>
 	<l id='55'>Vous n'êtes pas très empressé.</l>
 </sp>
 <sp who="MONSIEUR DE VILLARCEAUX"><speaker>MONSIEUR DE VILLARCEAUX</speaker>
@@ -613,18 +613,18 @@
 </p>
 </sp>
 <sp who="NINON"><speaker>NINON.</speaker>
-<stage>Air: De Weick. </stage>
+<stage type="music">Air: De Weick. </stage>
 	<l id='63'>Pourquoi ces détours superflus? </l>
 	<l id='64'>Votre conduite a su m'instruire: </l>
 	<l id='65'>Eh! mon cher, quand on n'aime plus, </l>
 	<l id='66'>Tout bonnement il faut le dire. </l>
-<stage>Bis.</stage>
+<stage type="[N/A]">Bis.</stage>
 	<l id='67'>Tenez, je parle franchement, </l>
 	<l id='68'>J'abhorre un amant infidèle; </l>
-<stage>Bis.</stage>
+<stage type="[N/A]">Bis.</stage>
 	<l id='69'>Mais je pardonne à l'inconstant: </l>
 	<l id='70'>L'inconstance est si naturelle.</l>
-<stage>Bis.</stage>
+<stage type="[N/A]">Bis.</stage>
 </sp>
 <sp who="MONSIEUR DE VILLARCEAUX"><speaker>MONSIEUR DE VILLARCEAUX</speaker>
 <p id="11">
@@ -687,7 +687,7 @@
 <p id="21">
 	<s id="1">Est-il possible ! </s>
 </p>
-<stage>Duo Du Sourd guéri. </stage>
+<stage type="[N/A]">Duo Du Sourd guéri. </stage>
 	<l id='71'>Ah ! Ninon, quelle âme! </l>
 	<l id='72'>Contre moi point de courroux ! </l>
 	<l id='73'>Eh ! Quelle autre femme </l>
@@ -750,7 +750,7 @@
 </p>
 </sp>
 <sp who="NINON"><speaker>NINON.</speaker>
-<stage>Air : Femmes, voulez-vous éprouver ? </stage>
+<stage type="music">Air : Femmes, voulez-vous éprouver ? </stage>
 	<l id='87'>Il aime en vous cette beauté </l>
 	<l id='88'>Qui de vous seule est inconnue ; </l>
 	<l id='89'>Cette aimable simplicité, </l>
@@ -806,7 +806,7 @@
 <p id='13'>
 	<s id='1'>Saluez Mademoiselle d'Aubigné. </s>
 </p>
-<stage>Il fait une révérence profonde à Mademoiselle d'Aubigné, qui la lui rend froidement et les yeux baissés ; ensuite il sort.</stage>
+<stage type="action/exit">Il fait une révérence profonde à Mademoiselle d'Aubigné, qui la lui rend froidement et les yeux baissés ; ensuite il sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Ninon, Mademoiselle D'Aubigné.</head>
@@ -847,7 +847,7 @@
 <p id="7">
 	<s id="1">Votre sort doit changer : on ne revient pas de si loin pour peu de chose ; mais prenez-y garde. </s>
 </p>
-<stage>Air : L'équipage. </stage>
+<stage type="music">Air : L'équipage. </stage>
 	<l id='95'>À votre âge, </l>
 	<l id='96'>Fille la plus sage </l>
 	<l id='97'>Est, sans y songer, </l>
@@ -885,7 +885,7 @@
 </p>
 </sp>
 <sp who="MADEMOISELLE D'AUBIGNÉ"><speaker>MADEMOISELLE D'AUBIGNÉ.</speaker>
-<stage>Air : Maman vous a dit, dans six ans. </stage>
+<stage type="music">Air : Maman vous a dit, dans six ans. </stage>
 	<l id='109'>À mon mari n'apportant rien </l>
 	<l id='110'>Que ma naissance et ma misère, </l>
 	<l id='111'>Je lui devrai, je le sens bien, </l>
@@ -920,7 +920,7 @@
 <p id='16'>
 	<s id='1'>C'est que personne ne sait ce qui se passe là. </s>
 </p>
-<stage>Air: De Weicht. </stage>
+<stage type="music">Air: De Weicht. </stage>
 	<l id='117'>On me cherche, on m'aime, on m'adore, </l>
 	<l id='118'>Sur moi par-tout on a les yeux; </l>
 	<l id='119'>Et je puis dire plus encore, </l>
@@ -984,7 +984,7 @@
 <p id="26">
 	<s id="1">À ce soir donc, et j'aurai vu Madame de Neuillant.</s>
 </p>
-<stage>Elle sort.</stage>
+<stage type="exit">Elle sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII. </head>
@@ -996,7 +996,7 @@
 	<s id='4'>Quel espoir ! </s>
 </p>
 
-<stage>Air : Vaudeville d'Abuzard. </stage>
+<stage type="music">Air : Vaudeville d'Abuzard. </stage>
 	<l id='125'>D'un époux il faudra tenir </l>
 	<l id='126'>Et mon état et ma fortune! </l>
 	<l id='127'>Ah! combien un tel avenir </l>
@@ -1045,11 +1045,11 @@
 	<s id='1'>Promenez-vous là-bas, sous le berceau... </s>
 	<s id='2'>Entrez, monsieur Ménage... </s>
 </p>
-<stage>À Ménage qui paraît.</stage>
+<stage type="toward">À Ménage qui paraît.</stage>
 <p id='8'>
 	<s id='1'>Mon maître est en voiture, je vais vous l'amener. </s>
 </p>
-<stage>Il sort.</stage>
+<stage type="exit">Il sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='9'><head>SCÈNE IX. </head>
@@ -1063,12 +1063,12 @@
 </div2>
 <div2 type="scene" n='10'><head>SCÈNE X. Ménage, Scarron. </head>
 <sp who='SCARRON'><speaker>SCARRON, dans un fauteuil roulant, conduit par Maugin.</speaker>
-<stage>Air : Roulant ma brouette. </stage>
+<stage type="music">Air : Roulant ma brouette. </stage>
 	<l id='133'>Place à l'équipage </l>
 	<l id='134'>De monsieur Scarron : </l>
 	<l id='135'>Salut à Ménage, </l>
 	<l id='136'>L'ami d'Apollon.  </l>
-<stage>À Maugin.</stage>
+<stage type="toward">À Maugin.</stage>
 	<l id='137'>Toi qui va derrière, </l>
 	<l id='138'>Allons, mon cocher, </l>
 	<l id='139'>Une allure fière, </l>
@@ -1088,7 +1088,7 @@
 	<s id='1'>Cela ne doit pas te surprendre. </s>
 	<s id='2'>La douleur qui pique les autres hommes, ne fait que me chatouiller.</s>
 </p>
-<stage>Bas à Maugin.</stage>
+<stage type="[N/A]">Bas à Maugin.</stage>
 <p id='3'>
 	<s id='1'>Veille à ce que Mademoiselle d'Aubigné ne s'impatiente pas. </s>
 </p>
@@ -1140,7 +1140,7 @@
 </p>
 </sp>
 <sp who="MÉNAGE"><speaker>MÉNAGE.</speaker>
-<stage>Air : Allez-vous-en gens de la noce. </stage>
+<stage type="music">Air : Allez-vous-en gens de la noce. </stage>
 	<l id='145'>Il court certains bruits dans la ville ; </l>
 </sp>
 <sp who="SCARRON"><speaker>SCARRON.</speaker>
@@ -1228,7 +1228,7 @@
 	<s id='2'>En fait de mariage, on en voit de si extraordinaire ! </s>
 	<s id='3'>Je ne parle pas des mariages sous la cheminée.</s>
 </p>
-<stage>Air : Vaudeville de la Soirée orageuse. </stage>
+<stage type="music">Air : Vaudeville de la Soirée orageuse. </stage>
 	<l id='154'>D'abord, mariage d'argent, </l>
 	<l id='155'>Mariage de convenance, </l>
 	<l id='156'>Mariage de sentiment, </l>
@@ -1260,7 +1260,7 @@
 	<s id="1">Il est fait, Monsieur ; mon épitaphe aussi... </s>
 	<s id='2'>Vous êtes connaisseur, je vais vous en régaler, écoutez. </s>
 </p>
-<stage>Il lit.</stage>
+<stage type="read">Il lit.</stage>
 <note type="C">Il s'agit de son épitaphe écrite par lui-même.</note>
 	<l id='162'>« Celui qui ci maintenant dort, </l>
 	<l id='163'>Fit plus de pitié que d'envie, </l>
@@ -1294,7 +1294,7 @@
 </p>
 </sp>
 <sp who="MÉNAGE"><speaker>MÉNAGE.</speaker>
-<stage>Air : Il faut aimer, c'est la loi de Cythère. </stage>
+<stage type="music">Air : Il faut aimer, c'est la loi de Cythère. </stage>
 	<l id='170'>L'amant charmé de l'objet qui l'engage, </l>
 	<l id='171'>Sur son hymen consulte ses amis : </l>
 	<l id='172'>L'auteur content de son petit ouvrage, </l>
@@ -1332,7 +1332,7 @@
 </p>
 </sp>
 <sp who="MÉNAGE"><speaker>MÉNAGE.</speaker>
-<stage>Air de Persico. </stage>
+<stage type="music">Air de Persico. </stage>
 	<l id='178'>Oh ! oui, l'homme le plus parfait </l>
 	<l id='179'>Est souvent trompé par sa belle ; </l>
 	<l id='180'>Et toi, malade et contrefait, </l>
@@ -1389,7 +1389,7 @@
 <p id="42">
 	<s id="1">Il te l'expliquera.</s> 
 </p>
-<stage>Air : Je n'saurais danser. </stage>
+<stage type="music">Air : Je n'saurais danser. </stage>
 	<l id='188'>Pour la noce, allons, </l>
 	<l id='189'>Il faut songer à la danse ; </l>
 	<l id='190'>Pour la noce, allons, </l>
@@ -1401,7 +1401,7 @@
 	<l id='194'>À quoi bon danser ! </l>
 	<l id='195'>Ma femme peut s'en passer.</l>
 </sp>
-<stage>ENSEMBLE.</stage>
+<stage type="[N/A]">ENSEMBLE.</stage>
 <sp who="SCARRON"><speaker>SCARRON.</speaker>
 	<l id='196'>Ma femme, crois-moi, </l>
 	<l id='197'>Soit qu'elle aime ou non la danse, </l>
@@ -1413,7 +1413,7 @@
 	<l id='201'>Si ta femme aime la danse, </l>
 	<l id='202'>Un autre, crois-moi, </l>
 	<l id='203'>La fera danser pour toi. </l>
-<stage>Il sort.</stage>
+<stage type="exit">Il sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='12'><head>SCÈNE XII. </head>
@@ -1426,7 +1426,7 @@
 <p id="2">
 	<s id="1">Elle est au fond du jardin ; je vais la chercher.</s>
 </p>
-<stage>Il sort.</stage>
+<stage type="exit">Il sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='13'><head>SCÈNE XIII. </head>
@@ -1439,14 +1439,14 @@
 	<s id='5'>Ah ! </s>
 	<s id='6'>La dernière épreuve de Jodelet.  </s>
 </p>
-<stage>Il parcourt et la corrige.</stage>
+<stage type="[N/A]">Il parcourt et la corrige.</stage>
 <p id='3'>
 	<s id='1'>Maudit imprimeur ! </s>
 	<s id='2'>Toujours des fautes ! </s>
 	<s id='3'>Toujours des sottises ! </s>
 	<s id='4'>Comme si ce n'était pas assez de celles de l'auteur ! </s>
 </p>
-<stage>Lisant.</stage>
+<stage type="[N/A]">Lisant.</stage>
 <note type="C">Citation des vers 898-891, de Jodelet de Scarron.</note>
 	<l id='204'>« Qu'avec ces trois gosiers Cerberus t'engloutisse ; </l>
 	<l id='205'>Le grand chien Cerberus, Cerberus le grand chien, </l>
@@ -1455,7 +1455,7 @@
 	<s id='1'>Voilà le vrai comique... </s>
 	<s id='2'>Aussi, cinquante représentations de suite.</s>
 </p>
-<stage>Air : Vaudeville de l'lsle des Femmes. </stage>
+<stage type="music">Air : Vaudeville de l'lsle des Femmes. </stage>
 	<l id='207'>C'est un succès bien prononcé ; </l>
 	<l id='208'>Ce que c'est que nos gens du monde ! </l>
 <note type="C">S'il s'agit du Misanthope de Molière, il y a une erreur sur la date, car le Misanthrope a été présenté au public en 1666 et non en 1652 période où se situe l'action.</note>
@@ -1481,7 +1481,7 @@
 <p id="1">
 	<s id="1">Pardon, mademoiselle, si je ne vais pas au-devant de vous.</s>
 </p>
-<stage>À Maugin.</stage>
+<stage type="toward">À Maugin.</stage>
 <p id='2'>
 	<s id='1'>Un siège.</s>
 </p>
@@ -1495,11 +1495,11 @@
 <p id="4">
 	<s id="1">Toujours bien quand je vous vois.</s>
 </p>
-<stage>À Maugin.</stage>
+<stage type="toward">À Maugin.</stage>
 <p id='5'>
 	<s id='1'>Que l'on nous laisse seuls.</s>
 </p>
-<stage>Maugin s'en va.</stage>
+<stage type="[N/A]">Maugin s'en va.</stage>
 <p id='6'>
 	<s id='1'>Le tête-à-tête ne vous épouvante pas, Mademoiselle ? </s>
 </p>
@@ -1577,7 +1577,7 @@
 <p id="20">
 	<s id="1">Tenez... </s>
 </p>
-<stage>Air : Jeunes amants, cueillez des fleurs. </stage>
+<stage type="music">Air : Jeunes amants, cueillez des fleurs. </stage>
 	<l id='215'>Il est deux partis, mon enfant, </l>
 	<l id='216'>Que peut prendre une fille sage : </l>
 	<l id='217'>Le mariage ou le couvent, </l>
@@ -1587,7 +1587,7 @@
 	<l id='221'>Eh bien ! je vous offre, </l>
 	<l id='222'>Ou mon argent pour le couvent, </l>
 	<l id='223'>Ou ma personne en mariage.</l>
-<stage>Bis.</stage>
+<stage type="[N/A]">Bis.</stage>
 </sp>
 <sp who="MADEMOISELLE D'AUBIGNÉ"><speaker>MADEMOISELLE D'AUBIGNÉ.</speaker>
 <p id="21">
@@ -1642,7 +1642,7 @@
 </p>
 </sp>
 <sp who="MADEMOISELLE D'AUBIGNÉ"><speaker>MADEMOISELLE D'AUBIGNÉ.</speaker>
-<stage>Air : J'ignore quelle est ma naissance.</stage>
+<stage type="music">Air : J'ignore quelle est ma naissance.</stage>
 	<l id='224'>En acceptant de préférence </l>
 	<l id='225'>Le couvent au lieu de l'époux, </l>
 	<l id='226'>Quelle que soit ma reconnaissance, </l>
@@ -1671,15 +1671,15 @@
 	<s id='1'>Oh ! </s>
 	<s id='2'>Trop heureux Scarron ! </s>
 </p>
-<stage>Air : Not' demoiselle a dit oui. </stage>
+<stage type="music">Air : Not' demoiselle a dit oui. </stage>
 	<l id='232'>Vous m'acceptez pour époux ! </l>
 	<l id='233'>L'amitié l'emporte.</l>
-<stage>Bis.</stage>
+<stage type="[N/A]">Bis.</stage>
 	<l id='234'>Vous m'acceptez pour époux! </l>
 	<l id='235'>Ah! combien mon sort va me paroître doux! </l>
 	<l id='236'>Oui, de plaisir je vais guérir, </l>
 	<l id='237'>Mais la dose est forte ;</l>
-<stage>Bis.</stage>
+<stage type="[N/A]">Bis.</stage>
 	<l id='238'>Oui, de plaisir je vais guérir, </l>
 	<l id='239'>Si trop de plaisir ne me fait pas mourir.</l>
 </sp>
@@ -1763,17 +1763,17 @@
 </p>
 </sp>
 <sp who="MADEMOISELLE D'AUBIGNÉ"><speaker>MADEMOISELLE D'AUBIGNÉ.</speaker>
-<stage>Air : Guillot un jour trouva Lisette. </stage>
+<stage type="music">Air : Guillot un jour trouva Lisette. </stage>
 	<l id='240'>Par un agréable délire, </l>
 	<l id='241'>Un auteur gai se fait aimer ; </l>
 	<l id='242'>Mais lorsqu'il excite le rire, </l>
 	<l id='243'>Qu'il sache se faire estimer. </l>
 	<l id='244'>Quand le rire arrache un suffrage, </l>
-<stage>Bis.</stage>
+<stage type="[N/A]">Bis.</stage>
 	<l id='245'>Désavoué par la pudeur, </l>
 	<l id='246'>Le public applaudit l'ouvrage ; </l>
 	<l id='247'>Mais que pense-t-il de l'auteur ?</l>
-<stage>Bis.</stage>
+<stage type="[N/A]">Bis.</stage>
 </sp>
 <sp who="SCARRON"><speaker>SCARRON.</speaker>
 <p id="48">
@@ -1799,7 +1799,7 @@
 </p>
 </sp>
 <sp who="SCARRON"><speaker>SCARRON.</speaker>
-<stage>Air : Monsieur redouble mes regrets. </stage>
+<stage type="music">Air : Monsieur redouble mes regrets. </stage>
 	<l id='248'>Librement, à tort, à travers, </l>
 	<l id='249'>Dans mes vers, </l>
 	<l id='250'>Jusqu'ici mon esprit </l>
@@ -1823,7 +1823,7 @@
 	<l id='264'>Mais, pour ma pudeur, </l>
 	<l id='265'>Ma gaîté me fait peur.</l>
 </sp>
-<stage>ENSEMBLE.</stage>
+<stage type="[N/A]">ENSEMBLE.</stage>
 <sp who="SCARRON"><speaker>SCARRON.</speaker>
 	<l id='266'>Librement, à tort, à travers, </l>
 	<l id='267'>Dans mes vers, </l>
@@ -1878,7 +1878,7 @@
 <p id="5">
 	<s id="1">Volontiers.</s>
 </p>
-<stage>Comme elle avance la main pour prendre le livre, Scarron la lui baise.</stage>
+<stage type="[N/A]">Comme elle avance la main pour prendre le livre, Scarron la lui baise.</stage>
 </sp>
 <sp who="SCARRON"><speaker>SCARRON.</speaker>
 <p id="6">
@@ -1889,7 +1889,7 @@
 <p id='7'>
 	<s id='1'>Je vous laisse. </s>
 </p>
-<stage>Elle sort.</stage>
+<stage type="exit">Elle sort.</stage>
 </sp>
 <sp who='SCARRON'><speaker>SCARRON, très ému. </speaker>
 <p id='8'>
@@ -1964,7 +1964,7 @@
 </p>
 </sp>
 <sp who="SCARRON"><speaker>SCARRON.</speaker>
-<stage>Air : Un chanoine de l'Auxerrois.</stage>
+<stage type="music">Air : Un chanoine de l'Auxerrois.</stage>
 	<l id='286'>Oui, je crois bien que ton désir, </l>
 	<l id='287'>À ce métier, est de grossir </l>
 	<l id='288'>Ton petit patrimoine ; </l>
@@ -1986,7 +1986,7 @@ Par confusion, et quelquefois par moquerie, on donne ce nom aux frères des éco
 	<l id='294'>Eh ! bon, bon, bon, </l>
 	<l id='295'>Mon joli garçon, </l>
 	<l id='296'>Tu seras bon chanoine. </l>
-<stage>Même air. </stage>
+<stage type="[N/A]">Même air. </stage>
 	<l id='297'>Es-tu bien vain, bien orgueilleux, </l>
 	<l id='298'>Bien nonchalant, bien paresseux ? </l>
 </sp>
@@ -2049,7 +2049,7 @@ Par confusion, et quelquefois par moquerie, on donne ce nom aux frères des éco
 <p id="18">
 	<s id="1">Fi donc ! </s>
 </p>
-<stage>Air: Mon père était pot. </stage>
+<stage type="music">Air: Mon père était pot. </stage>
 	<l id='310'>Dans ce marché très délicat, </l>
 	<l id='311'>Point de parcimonie ; </l>
 	<l id='312'>Mille écus mon canonicat, </l>
@@ -2105,7 +2105,7 @@ Par confusion, et quelquefois par moquerie, on donne ce nom aux frères des éco
 	<s id="1">Pas mauvaise ! </s>
 	<s id='2'>Chanoine au Mans ! </s>
 </p>
-<stage>Air : Vaudeville de Cruello. </stage>
+<stage type="music">Air : Vaudeville de Cruello. </stage>
 	<l id='320'>Pour les friands, pour les gourmands, </l>
 	<l id='321'>La ville est précieuse: </l>
 	<l id='322'>D'abord, la poularde du Mans, </l>
@@ -2261,7 +2261,7 @@ Par confusion, et quelquefois par moquerie, on donne ce nom aux frères des éco
 	<s id="1">Pas tant, pas tant... </s>
 	<s id='2'>Cela demande un peu d'étude, et quelques précautions.</s>
 </p>
-<stage>Air : Lise demande son portrait. </stage>
+<stage type="music">Air : Lise demande son portrait. </stage>
 	<l id='331'>Linge bien blanc, rabat bien fin ; </l>
 	<l id='332'>Maintien doux et modeste, </l>
 	<l id='333'>Ton doucereux, regard câlin.</l>
@@ -2272,7 +2272,7 @@ Par confusion, et quelquefois par moquerie, on donne ce nom aux frères des éco
 	<l id='336'>A vos avis fidèle, </l>
 	<l id='337'>Je vais, pour qu'on me trouve bien, </l>
 	<l id='338'>Vous prendre pour modèle. </l>
-<stage>Il sort.</stage>
+<stage type="exit">Il sort.</stage>
 </sp>
 <sp who="SCARRON"><speaker>SCARRON.</speaker>
 <p id="53">
@@ -2289,7 +2289,7 @@ Par confusion, et quelquefois par moquerie, on donne ce nom aux frères des éco
 	<s id='1'>Allons, Scarron, mon ami, voilà qui va bien. </s>
 	<s id='2'>Prendre femme et se débarrasser du petit collet... ma foi, voilà une bonne journée. </s>
 </p>
-<stage>Air : Fanfare de Saint-Cloud. </stage>
+<stage type="music">Air : Fanfare de Saint-Cloud. </stage>
 	<l id='339'>Il est moins gai, sur mon âme, </l>
 	<l id='340'>D'être chanoine qu'époux. </l>
 	<l id='341'>Je vais auprès de ma femme </l>
@@ -2368,7 +2368,7 @@ Par confusion, et quelquefois par moquerie, on donne ce nom aux frères des éco
 <p id="13">
 	<s id="1">En ce cas-là.</s>
 </p>
-<stage>Air : L'autre jour j'étais seulette. </stage>
+<stage type="music">Air : L'autre jour j'étais seulette. </stage>
 	<l id='347'>Excusez, j'vous en conjure,</l>
 	<l id='348'>Si j'vous dérange un p'tit brin ;</l>
 <note type="L">Voiture, Vincent (1597-1648) : Poète précieux connu, entre autres, pour ses sonnets et ses lettres. </note>
@@ -2422,7 +2422,7 @@ Par confusion, et quelquefois par moquerie, on donne ce nom aux frères des éco
 </p>
 </sp>
 <sp who="BABET"><speaker>BABET.</speaker>
-<stage>Air de Lisbeth. </stage>
+<stage type="music">Air de Lisbeth. </stage>
 	<l id='356'>Il a cinquante écus comptant </l>
 	<l id='357'>Qu'il a gagnés au jardinage ; </l>
 	<l id='358'>Jusqu'à ce que j'en possède autant, </l>
@@ -2444,19 +2444,19 @@ Par confusion, et quelquefois par moquerie, on donne ce nom aux frères des éco
 	<s id="1">Ah ! </s>
 	<s id='2'>Monsieur. </s>
 </p>
-<stage>On entend des tambours.</stage>
+<stage type="[N/A]">On entend des tambours.</stage>
 </sp>
 <sp who="SCARRON"><speaker>SCARRON.</speaker>
 <p id="23">
 	<s id="1">Quel bruit est-ce là ?... </s>
 	<s id='2'>Ma mie, revenez dans une heure, et vous serez satisfaite.</s>
 </p>
-<stage>Les tambours roulent plus fort.</stage>
+<stage type="noise">Les tambours roulent plus fort.</stage>
 <p id='24'>
 	<s id='1'>Encore ! </s>
 </p>
-<stage>Il sonne et Maugin paraît.</stage>
-<stage>Babet sort.</stage>
+<stage type="entrance">Il sonne et Maugin paraît.</stage>
+<stage type="exit">Babet sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='19'><head>SCÈNE XIX. Scarron, Maugin.</head>
@@ -2475,8 +2475,8 @@ Par confusion, et quelquefois par moquerie, on donne ce nom aux frères des éco
 <p id="3">
 	<s id="1">Fort bien... Allons, messieurs les rieurs, ne vous lassez point.</s>
 </p>
-<stage>Les tambours jouent le pas redoublé.</stage>
-<stage>Air : Les Anglais et les Hollandais. </stage>
+<stage type="[N/A]">Les tambours jouent le pas redoublé.</stage>
+<stage type="music">Air : Les Anglais et les Hollandais. </stage>
 	<l id='364'>On tambourine mes amours : </l>
 	<l id='365'>Ah! pour moi quelle gloire! </l>
 	<l id='366'>Vas trouver messieurs les tambours, </l>
@@ -2490,7 +2490,7 @@ Par confusion, et quelquefois par moquerie, on donne ce nom aux frères des éco
 <p id="4">
 	<s id="1">Oui, monsieur.</s>
 </p>
-<stage>Annonçant.</stage>
+<stage type="[N/A]">Annonçant.</stage>
 <p id='5'>
 	<s id='1'>Monsieur de Villarceaux.  </s>
 </p>
@@ -2502,7 +2502,7 @@ Par confusion, et quelquefois par moquerie, on donne ce nom aux frères des éco
 	<s id='1'>Mon rival !... </s>
 	<s id='2'>Ceci n'est pas aussi gai. </s>
 </p>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 <p id='2'>
 	<s id='1'>Monsieur de Villarceaux vient-il mêler ses félicitations à celles des tambours de la ville ?</s>
 </p>
@@ -2574,7 +2574,7 @@ Par confusion, et quelquefois par moquerie, on donne ce nom aux frères des éco
 </p>
 </sp>
 <sp who="SCARRON"><speaker>SCARRON.</speaker>
-<stage>Air : Vive les fillettes. </stage>
+<stage type="music">Air : Vive les fillettes. </stage>
 	<l id='372'>L'amour est fantasque, </l>
 	<l id='373'>Nous le savons tous, </l>
 	<l id='374'>Et ce petit masque </l>
@@ -2652,15 +2652,15 @@ Par confusion, et quelquefois par moquerie, on donne ce nom aux frères des éco
 </div2>
 <div2 type="scene" n='23'><head>SCÈNE XXIII. Les mêmes, Ninon.</head>
 <sp who="NINON"><speaker>NINON.</speaker>
-<stage>Air : Intégrité, franchise. </stage>
+<stage type="music">Air : Intégrité, franchise. </stage>
 	<l id='388'>Chez Scarron l'allégresse </l>
 	<l id='389'>Nous conduit chaque jour :</l>
 	<l id='390'>Aujourd'hui la tendresse </l>
 	<l id='391'>Y doit avoir son tour. </l>
-<stage>Bas à Monsieur de Villarceaux.</stage>
+<stage type="[N/A]">Bas à Monsieur de Villarceaux.</stage>
 	<l id='392'>Je reviens ici </l>
 	<l id='393'>Seconder l'ardeur qui vous presse. </l>
-<stage>Bas à Mademoiselle d'Aubigné, lui montrant un papier.</stage>
+<stage type="[N/A]">Bas à Mademoiselle d'Aubigné, lui montrant un papier.</stage>
 	<l id='394'>Vous verrez ceci, </l>
 	<l id='395'>Tout a pleinement réussi. </l>
 </sp>
@@ -2676,7 +2676,7 @@ Par confusion, et quelquefois par moquerie, on donne ce nom aux frères des éco
 	<s id='3'>J'arrive de Saint-Maur, où madame de Neuillant m'a donné par écrit son consentement à ce que Mademoiselle dispose de sa main, bien sûre que son choix ne peut qu'être digne du nom qu'elle porte. </s>
 	<s id='4'>D'après cela, celui qui aspire à ce bonheur, doit s'expliquer sans contrainte. </s>
 </p>
-<stage>Bas à M. de Villarceaux.</stage>
+<stage type="[N/A]">Bas à M. de Villarceaux.</stage>
 <p id='3'>
 	<s id='1'>J'espère, monsieur, que vous êtes content de moi ?</s>
 </p>
@@ -2722,23 +2722,23 @@ Par confusion, et quelquefois par moquerie, on donne ce nom aux frères des éco
 </p>
 </sp>
 <sp who="MADEMOISELLE D'AUBIGNÉ"><speaker>MADEMOISELLE D'AUBIGNÉ.</speaker>
-<stage>Air : Vaudeville d'Honorine. </stage>
+<stage type="music">Air : Vaudeville d'Honorine. </stage>
 	<l id='396'>Un jeune amant dans l'opulence, </l>
 	<l id='397'>De m'épouser se flatterait en vain ;</l>
 	<l id='398'>Je n'ai rien que mon indigence, </l>
 	<l id='399'>Et ma fierté refuserait sa main.</l>
-<stage>Bis.</stage>
-<stage>À Scarron. </stage>
+<stage type="[N/A]">Bis.</stage>
+<stage type="toward">À Scarron. </stage>
 	<l id='400'>J'apporte, en acceptant la vôtre, </l>
 	<l id='401'>Amitié, zèle, attention. </l>
 	<l id='402'>Je serais pauvre pour tout autre, </l>
 	<l id='403'>Mais je suis riche pour Scarron.</l>
-<stage>Bis.</stage>
+<stage type="[N/A]">Bis.</stage>
 </sp>
 <sp who='TOUS'><speaker>TOUS. </speaker>
 	<l id='404'>Oui, sans fortune pour tout autre, </l>
 	<l id='405'>Vous êtes riche pour Scarron. </l>
-<stage>Bis.</stage>
+<stage type="[N/A]">Bis.</stage>
 </sp>
 <sp who="NINON"><speaker>NINON.</speaker>
 <p id="12">
@@ -2754,7 +2754,7 @@ Par confusion, et quelquefois par moquerie, on donne ce nom aux frères des éco
 <p id="14">
 	<s id="1">Ménage a raison.</s>
 </p>
-<stage>Air : Pauline, au printemps de son âge. </stage>
+<stage type="music">Air : Pauline, au printemps de son âge. </stage>
 	<l id='406'>Puisqu'aujourd'hui d'un choix si rare </l>
 	<l id='407'>La raison vous fait un devoir, </l>
 	<l id='408'>Sans doute le sort vous prépare </l>
@@ -2763,8 +2763,8 @@ Par confusion, et quelquefois par moquerie, on donne ce nom aux frères des éco
 	<l id='411'>Un jour, un illustre barbon </l>
 	<l id='412'>N'enviera pas la survivance </l>
 	<l id='413'>De vos tendres soins pour Scarron. </l>
-<stage>Bis.</stage>
-<stage>À Villarceaux.</stage>
+<stage type="[N/A]">Bis.</stage>
+<stage type="toward">À Villarceaux.</stage>
 <p id='15'>
 	<s id='1'>Mon ami, vous n'avez rien de mieux à faire que de prendre la chose gaîment. </s>
 	<s id='2'>Ce matin, je vous ai donné, je pense, un assez bel exemple. </s>
@@ -2782,12 +2782,12 @@ Par confusion, et quelquefois par moquerie, on donne ce nom aux frères des éco
 	<s id="1">Ah ! </s>
 	<s id='2'>Ah !</s>
 </p>
-<stage>Il l'examine des pieds à la tête.</stage>
+<stage type="[N/A]">Il l'examine des pieds à la tête.</stage>
 <p id='3'>
 	<s id='1'>Fort bien. </s>
 	<s id='2'>Mesdames, je vous présente monsieur l'Abbé. </s>
 </p>
-<stage>Tout le monde salue.</stage>
+<stage type="[N/A]">Tout le monde salue.</stage>
 </sp>
 <sp who="MÉNAGE"><speaker>MÉNAGE.</speaker>
 <p id="4">
@@ -2855,7 +2855,7 @@ Par confusion, et quelquefois par moquerie, on donne ce nom aux frères des éco
 <p id="16">
 	<s id="1">Ce que je lui reconnais ? </s>
 </p>
-<stage>Air : L'amour galant, c'est son ouvrage. </stage>
+<stage type="music">Air : L'amour galant, c'est son ouvrage. </stage>
 	<l id='414'>Elle m'apporte en mariage, </l>
 	<l id='415'>D'abord, deux grands yeux fort mutins; </l>
 	<l id='416'>Ajoutez un très-beau corsage, </l>
@@ -2937,7 +2937,7 @@ Par confusion, et quelquefois par moquerie, on donne ce nom aux frères des éco
 <p id="11">
 	<s id="1">Signez, vous dis-je.</s>
 </p>
-<stage>Il signe.</stage>
+<stage type="[N/A]">Il signe.</stage>
 </sp>
 <sp who='SCARRON'><speaker>SCARRON, à Girault. </speaker>
 <p id='12'>
@@ -2953,12 +2953,12 @@ Par confusion, et quelquefois par moquerie, on donne ce nom aux frères des éco
 <p id="14">
 	<s id="1">Tant mieux.</s>
 </p>
-<stage>S'adressant à Babet.</stage>
+<stage type="[N/A]">S'adressant à Babet.</stage>
 <p id='15'>
 	<s id='1'>À vous, ma petite. </s>
 	<s id='2'>Madame Scarron, voici mademoiselle Babet que messieurs Voiture et Sarrazin m'ont adressée pour être la gouvernante de nos enfants.</s>
 </p>
-<stage>À Babet.</stage>
+<stage type="toward">À Babet.</stage>
 <p id='16'>
 	<s id='1'>Ma bonne amie, comme je pourrais vous faire attendre un peu trop longtemps, je vous établis la gouvernante des vôtres.</s>
 </p>
@@ -2969,7 +2969,7 @@ Par confusion, et quelquefois par moquerie, on donne ce nom aux frères des éco
 </p>
 </sp>
 <sp who="SCARRON"><speaker>SCARRON.</speaker>
-<stage>Air : On ne rit plus, on ne boit guère. </stage>
+<stage type="music">Air : On ne rit plus, on ne boit guère. </stage>
 	<l id='424'>Pour vous faire entrer en ménage, </l>
 	<l id='425'>Il vous manquait cinquante écus; </l>
 	<l id='426'>Pour le trousseau du mariage, </l>
@@ -3005,7 +3005,7 @@ Par confusion, et quelquefois par moquerie, on donne ce nom aux frères des éco
 </p>
 </sp>
 <sp who="NINON"><speaker>NINON.</speaker>
-<stage>Air : Réveillez-vous, belle endormie. </stage>
+<stage type="music">Air : Réveillez-vous, belle endormie. </stage>
 	<l id='437'>J'aurai toujours même tendresse, </l>
 	<l id='438'>Ma constance vous le promet. </l>
 </sp>
@@ -3036,7 +3036,7 @@ Par confusion, et quelquefois par moquerie, on donne ce nom aux frères des éco
 </div2>
 <div2 type="scene" n='26'><head>VAUDEVILLE.</head>
 <sp who="MÉNAGE"><speaker>MÉNAGE.</speaker>
-<stage>Air : Des tricotets. </stage>
+<stage type="music">Air : Des tricotets. </stage>
 	<l id='441'>Venez chanter et rire </l>
 	<l id='442'>Avec ma femme et Ninon. </l>
 </sp>

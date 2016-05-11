@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
 <teiHeader>
 		<fileDesc>
 			<titleStmt>
 				<title>L'HABITANT DE LA GUADELOUPE, ou LA RÉDUCTION DE PARIS.</title>
-				<author born="1740" born_location="Paris" death="1814" death_location="Paris" academie="">MERCIER, Louis-Sébatsien</author>
+				<author born="1740" born_location="Paris" death="1814" death_location="Paris" academie="">MERCIER, Louis-Sébastien</author>
 				<date>1782</date>
 			</titleStmt>
 			<publicationStmt>	
 				<p>publié par Paul FIEVRE, décembre 2013</p>
-			<idno></idno>
-</publicationStmt>
+				<idno>MERCIER_HABITANTGUADELOUPE</idno>
+			</publicationStmt>
 			<SourceDesc>
 				<genre>Drame</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -41,16 +41,16 @@
 			<printer id=''>A NEUCHATEL. De l'Imprimerie de la Société Typographique.</printer>
 		</docImprint>
 		<performance>	
-			<premiere date='1782' location='Paris'>Représentée pour la premmière fois à Paris en 1782.</premiere>
+			<premiere date='1782' location='Paris'>Représentée pour la première fois à Paris en 1782.</premiere>
 		</performance>
 		<castList>
 			<head>PERSONNAGES</head>
 			<castItem><role id="MONSIEUR DORTIGNI" sex="1" type="H" statut='financier' age='A' stat_amour='néant'>MONSIEUR DORTIGNI</role>, financier.</castItem>
 			<castItem><role id="MADAME DORTIGNI" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>MADAME DORTIGNI</role>, sa femme.</castItem>
-			<castItem><role id="MADAME MILVILLE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>MADAME MILVILLE</role>, veuve, sur de Monsieur Dortigni.</castItem>
+			<castItem><role id="MADAME MILVILLE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>MADAME MILVILLE</role>, veuve, soeur de Monsieur Dortigni.</castItem>
 			<castItem><role id="VANGLENNE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>VANGLENNE</role>, cousin-germain de Monsieur Dortigni.</castItem>
 			<castItem><role id="MULSON" sex="1" type="H" statut='agent de change' age='A' stat_amour='néant'>MULSON</role>, agent de change.</castItem>
-			<castItem><role id="BRIGITTE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>BRIGITTE</role>, attachée à madame Milville.</castItem>
+			<castItem><role id="BRIGITTE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>BRIGITTE</role>, attachée à Madame Milville.</castItem>
 			<castItem><role id="DEUX ENFANS" sex="9" type="H" statut='enfants' age='E' stat_amour='néant'>DEUX ENFANS en bas âge</role>.</castItem>
 			<castItem><role id="UN NOTAIRE" sex="1" type="H" statut='notaire' age='A' stat_amour='néant'>UN NOTAIRE</role>.</castItem>
 			<castItem><role id="UN DOMESTIQUE" sex="1" type="H" statut='domestique' age='A' stat_amour='néant'>UN DOMESTIQUE</role>.</castItem>
@@ -61,7 +61,7 @@
 <body>
 <div1 type="act" n='1'><head>ACTE I </head>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Monsieur Dortigny, Madame Dortigny.</head>
- <stage>Monsieur Dortigny est devant un secrétaire couvert de papiers. Madame Dortigny en déshabillé et dans une chaise longue.</stage>
+ <stage type="[N/A]">Monsieur Dortigny est devant un secrétaire couvert de papiers. Madame Dortigny en déshabillé et dans une chaise longue.</stage>
 <sp who='DORTIGNI'><speaker>DORTIGNI.</speaker>
 <p id='1'>
 	<s id='1'>Vous perdîtes beaucoup au jeu hier, Madame, je ne vous confierai plus mon argent.</s>
@@ -323,7 +323,7 @@
 </sp>
 <sp who='MADAME DORTIGNI'><speaker>MADAME DORTIGNI.</speaker>
 <p id='46'>
-	<s id='1'>Il me semble qu'il avait assez de ressemblance avec votre chère sur, qui se pique de connaître les livres et d'être au fait de la littérature... </s>
+	<s id='1'>Il me semble qu'il avait assez de ressemblance avec votre chère soeur, qui se pique de connaître les livres et d'être au fait de la littérature... </s>
 	<s id='2'>C'est ma ma bête. </s>
 	<s id='3'>À propos, avez-vous de ses nouvelles ?</s>
 </p>
@@ -350,7 +350,7 @@
 	<s id='2'>Elle a l'orgueil de vouloir passer pour une bonne mère, avec ses deux marmots en bas âge, qu'elle mène partout. </s>
 	<s id='3'>J'ai bien besoin de cela, moi ! </s>
 	<s id='4'>Elle semble dire : voyez comme je les élève, comme je ne les perds pas de vue un seul instant !... </s>
-	<s id='5'>Vous ne faites pas de même, ma belle sur... </s>
+	<s id='5'>Vous ne faites pas de même, ma belle soeur... </s>
 	<s id='6'>Oh ! </s>
 	<s id='7'>On ne saurait y tenir... </s>
 	<s id='8'>D'ailleurs elle est d'un triste ! </s>
@@ -361,7 +361,7 @@
 <sp who='DORTIGNI'><speaker>DORTIGNI.</speaker>
 <p id='51'>
 	<s id='1'>Elle a lieu de soupirer : le défunt ne lui a laissé qu'une fortune très modique ; mais elle l'a voulu. </s>
-	<s id='2'>Je le lui avais prédit : j'eus beau lui dire dans le temps, il n'est pas riche, ma sur, prenez-garde ; c'est bien le plus grand défaut qu'un homme puisse avoir. </s>
+	<s id='2'>Je le lui avais prédit : j'eus beau lui dire dans le temps, il n'est pas riche, ma soeur, prenez-garde ; c'est bien le plus grand défaut qu'un homme puisse avoir. </s>
 	<s id='3'>Elle me répondait : il est aimable, il est plein de droiture, il est vertueux. </s>
 	<s id='4'>Et avec cette belle tendresse, et ces rares qualités, la voilà reléguée à un quatrième étage ; et je ne sais pas même si, pour subsister, elle n'est pas obligée d'y travailler de ses doigts.</s>
 </p>
@@ -395,7 +395,7 @@
 	<s id='2'>Voilà du nouveau : est-ce bien ce nom-là ?... </s>
 	<s id='3'>Voyez si vous ne vous seriez pas trompé. </s>
 </p>
-<stage>Le laquais sort.</stage>
+<stage type="exit">Le laquais sort.</stage>
 <p id='3'>
 	<s id='1'>C'est le nom du cousin ; mais il y a seize ans que ce nom n'a frappé mon oreille.</s>
 </p>
@@ -434,7 +434,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Monsieur Dotigni, Madame Dortini, Vanglenne.</head>
-<stage>Vanglenne attend pour parler, que le domestique soit sorti.</stage>
+<stage type="[N/A]">Vanglenne attend pour parler, que le domestique soit sorti.</stage>
 <sp who='DORTIGNI'><speaker>DORTIGNI, à part.</speaker>
 <p id='1'>
 	<s id='1'>Ah, mon Dieu, quel messager ! </s>
@@ -484,7 +484,7 @@
 <sp who='VANGLENNE'><speaker>VANGLENNE.</speaker>
 <p id='9'>
 	<s id='1'>Oh ! </s>
-	<s id='2'>Je vous reconnéis bien, moi ; mais je suis bien plus changé que vous, et cela n'est pas étonnant. </s>
+	<s id='2'>Je vous reconnais bien, moi ; mais je suis bien plus changé que vous, et cela n'est pas étonnant. </s>
 	<s id='3'>Les fatigues, les peines, les chagrins, le long séjour dans un climat étranger.... </s>
 	<s id='4'>Mon ton de voix du moins, au défaut de mes traits...</s>
 </p>
@@ -538,7 +538,7 @@
 <p id='17'>
 	<s id='1'>J'avais amassé quelque chose avec beaucoup de peine.... </s>
 	<s id='2'>Daignez prêter l'oreille à ma triste infortune : ayant eu le malheur de perdre ma femme et mon fils, et n'ayant plus rien qui m'attachât à un pays étranger, je résolus de revenir en France. </s>
-	<s id='3'>L'amour de la patrie parlait vivement à mon cur. </s>
+	<s id='3'>L'amour de la patrie parlait vivement à mon coeur. </s>
 	<s id='4'>C'est le dernier sentiment qui s'éteigne.</s>
 </p>
 </sp>
@@ -721,7 +721,7 @@
 	<s id='2'>Il a daigné m'écrire plusieurs fois... </s>
 	<s id='3'>J'ai de ses lettres sur moi...</s>
 </p>
-<stage>Il tire un porte-feuille.</stage>
+<stage type="[N/A]">Il tire un porte-feuille.</stage>
 <p id='48'>
 	<s id='1'>En voici que je garde bien précieusement. </s>
 	<s id='2'>Vous verrez qu'il m'estimait.</s>
@@ -753,14 +753,14 @@
 <p id='53'>
 	<s id='1'>Vendre son patrimoine ! </s>
 	<s id='2'>Mais on ne pardonne pas cela, monsieur. </s>
-	<s id='3'>Vice du cur ! </s>
+	<s id='3'>Vice du coeur ! </s>
 	<s id='4'>Libertinage ! </s>
 	<s id='5'>Inconduite caractérisée !..... </s>
 	<s id='6'>Oublier ses héritiers légitimes et naturels ! </s>
 	<s id='7'>Apprenez monsieur, qu'on n'a plus de parents, quand on a vendu son patrimoine. </s>
 </p>
 </sp>
-<sp who='MADAME DORTIGNI'><speaker>MADAME DORTIGNI, faisant des nuds, à part.</speaker>
+<sp who='MADAME DORTIGNI'><speaker>MADAME DORTIGNI, faisant des noeuds, à part.</speaker>
 <p id='54'>
 	<s id=''>Et vous avez raison.</s>
 </p>
@@ -922,7 +922,7 @@
 <p id='79'>
 	<s id='1'>Allons, je cesse de vous importuner. </s>
 </p>
-<stage>Il salue comme pour s'en aller.</stage>
+<stage type="[N/A]">Il salue comme pour s'en aller.</stage>
 </sp>
 <sp who='MADAME DORTIGNI'><speaker>MADAME DORTIGNI.</speaker>
 <p id='80'>
@@ -945,7 +945,7 @@
 </sp>
 <sp who='VANGLENNE'><speaker>VANGLENNE.</speaker>
 <p id='83'>
-	<s id='1'>Donnez-moi, je vous en supplie, l'adresse de ma cousine, de votre chère sur, que j'ai vue enfant, et qui semblait dès lors douée d'un cur noble et compatissant.</s>
+	<s id='1'>Donnez-moi, je vous en supplie, l'adresse de ma cousine, de votre chère soeur, que j'ai vue enfant, et qui semblait dès lors douée d'un coeur noble et compatissant.</s>
 </p>
 </sp>
 <sp who='DORTIGNI'><speaker>DORTIGNI.</speaker>
@@ -995,29 +995,29 @@
 	<s id='1'>Pardonnez à mes importunités... </s>
 	<s id='2'>Je suis plongé dans la plus affreuse peine.</s>
 </p>
-<stage>À voix basse.</stage>
+<stage type="toward">À voix basse.</stage>
 <p id='92'>
 	<s id='1'>Si vous pouviez faire en ma faveur le moindre effort...</s>
 </p>
-<stage>Madame Dortigni secoue la tête.</stage>
+<stage type="[N/A]">Madame Dortigni secoue la tête.</stage>
 <p id='93'>
 	<s id='1'>Rien.... </s>
 	<s id='2'>Allons... </s>
 	<s id='3'>Le vrai courage consiste à savoir souffrir avec résignation ; je suis homme, et j'en conserverai la dignité.</s>
 </p>
-<stage>À Madame Dortigni.</stage>
+<stage type="toward">À Madame Dortigni.</stage>
 <p id='94'>
 	<s id='1'>Pardonnez, madame, si j'ai osé me présenter chez vous de cette manière. </s>
-	<s id='2'>On a toujours mauvaise grâce, quand le cur est dans la peine. </s>
+	<s id='2'>On a toujours mauvaise grâce, quand le coeur est dans la peine. </s>
 	<s id='3'>Me convenait-il de venir attrister les douceurs de votre vie !... </s>
-	<s id='4'>Je souhaite, monsieur, que vous ne connaissiez jamais combien il est douloureux de tomber tout-à-coup dans l'indigence : je vous ai décelé ma misère ; mais si vous m'êtes secourable, du moins par vos recommandations ; si vous ne me trompez pas dans la promesse que vous m'avez faite, vous n'aurez pas abusé du respect qu'on doit aux infor tunés.... </s>
+	<s id='4'>Je souhaite, monsieur, que vous ne connaissiez jamais combien il est douloureux de tomber tout-à-coup dans l'indigence : je vous ai décelé ma misère ; mais si vous m'êtes secourable, du moins par vos recommandations ; si vous ne me trompez pas dans la promesse que vous m'avez faite, vous n'aurez pas abusé du respect qu'on doit aux infortunés... </s>
 	<s id='5'>Je me retire....</s>
 </p>
-<stage>Monsieur Dortigni pousse, pour ainsi dire, Vanglenne hors de chez lui, tandis que Mulson entre ; de sorte que les deux personnages se rencontrent face à face.</stage>
+<stage type="[N/A]">Monsieur Dortigni pousse, pour ainsi dire, Vanglenne hors de chez lui, tandis que Mulson entre ; de sorte que les deux personnages se rencontrent face à face.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Dortigni, Madame Dortigni, Mulson.</head>
-<stage>Mulson en habit galonné, canne à pomme d'or, en entrant regarde fixement Vanglenne, recule, regarde, recule encore.</stage>
+<stage type="[N/A]">Mulson en habit galonné, canne à pomme d'or, en entrant regarde fixement Vanglenne, recule, regarde, recule encore.</stage>
 <sp who='MULSON'><speaker>MULSON, à part.</speaker>
 <p id='1'>
 	<s id='1'>En croirai-je mes yeux ? </s>
@@ -1058,7 +1058,7 @@
 <p id='7'>
 	<s id='1'>Attendez.</s>
 </p>
-<stage>Allant à la porte.</stage>
+<stage type="[N/A]">Allant à la porte.</stage>
 <p id='8'>
 	<s id='1'>Mais c'est lui, il n'y a pas à en douter ; c'est lui-même sous cet habit....</s>
 </p>
@@ -1371,7 +1371,7 @@
 	<s id='1'>Je suis dans une agitation extraordinaire. </s>
 	<s id='2'>J'ai des regrets.... </s>
 </p>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 <p id='63'>
 	<s id='1'>Monsieur Mulson, il faut ne vous rien déguiser, nous ne lui avons pas fait l'accueil qu'il méritait sans doute...</s>
 </p>
@@ -1400,7 +1400,7 @@
 </sp>
 <sp who='MADAME DORTIGNI'><speaker>MADAME DORTIGNI.</speaker>
 <p id='68'>
-	<s id='1'>Que mon mari, en le recevant, avait mille choses en tête, qui l'obsédaient ; que vous connaissez son cur et son amitié pour ses parents ; que vous en répondez ; que nous lui rendrons visite dès demain, et qu'il nous verra tout autres.</s>
+	<s id='1'>Que mon mari, en le recevant, avait mille choses en tête, qui l'obsédaient ; que vous connaissez son coeur et son amitié pour ses parents ; que vous en répondez ; que nous lui rendrons visite dès demain, et qu'il nous verra tout autres.</s>
 </p>
 </sp>
 <sp who='MULSON'><speaker>MULSON.</speaker>
@@ -1431,7 +1431,7 @@
 	<s id='3'>Il y a trente pour cent à gagner... </s>
 	<s id='4'>C'est une opération sûre ; et s'il était en colère, je ferai tout pour l'apaiser. </s>
 </p>
-<stage>À Monsieur Dortigni.</stage>
+<stage type="toward">À Monsieur Dortigni.</stage>
 <p id='74'>
 	<s id=''>Et notre revirement de partie, monsieur ?</s>
 </p>
@@ -1473,7 +1473,7 @@
 	<s id=''>Je lui parlais poliment moi... </s>
 	<s id=''>Je gage qu'il ne m'en veut pas autant qu'à vous ; et comme c'est votre dureté qui m'a fait manquer aujourd'hui la plus belle occasion de m'enrichir.</s>
 </p>
-<stage>Avec force.</stage>
+<stage type="[N/A]">Avec force.</stage>
 <p id='4'>
 	<s id='1'>Vous me répondrez, madame, de ce que j'aurai perdu.</s>
 </p>
@@ -1511,7 +1511,7 @@
 <div2 type="scene" n='6'><head>SCÈNE VI. </head>
 <sp who='MADAME DORTIGNI'><speaker>MADAME DORTIGNI, seule.</speaker>
 <p id='1'>
-	<s id='1'>COMMENT réparer ?.... </s>
+	<s id='1'>Comment réparer ?.... </s>
 	<s id='2'>Il faut du front, de la présence d'esprit, de la souplesse... </s>
 	<s id='3'>Trouvons un plan qui puisse raccommoder les choses.... </s>
 	<s id='4'>Cela n'est pas impossible.... </s>
@@ -1530,16 +1530,16 @@
 </div2>
 </div1>
 <div1 type="act" n='2'><head>ACTE II</head>
-<stage>La scène se passe chez Madame Milville.</stage>
+<stage type="decor">La scène se passe chez Madame Milville.</stage>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE.Madame Milvile, Brigitte.</head>
-<stage>Madame Milville est devant un métier de broderie, occupée à travailler.</stage>
+<stage type="[N/A]">Madame Milville est devant un métier de broderie, occupée à travailler.</stage>
 <sp who='BRIGITTE'><speaker>BRIGITTE, entre avec un carton sous le bras, qu'elle pose sur une table.</speaker>
 <p id='1'>
 	<s id='1'>Ma chère maîtresse, voici le produit de nos petits travaux. </s>
 	<s id='2'>J'ai rencontré un marchand qui a trouvé votre ouvrage d'une délicatesse exquise, surprenante, et qui m'a promis de le bien payer chaque fois que je lui en apporterais.... </s>
 	<s id='3'>Tenez, serrez cela.</s>
 </p>
-<stage>Elle remet de l'argent à sa maîtresse.</stage>
+<stage type="[N/A]">Elle remet de l'argent à sa maîtresse.</stage>
 </sp>
 <sp who='MADAME MILVILLE'><speaker>MADAME MILVILLE.</speaker>
 <p id='2'>
@@ -1551,7 +1551,7 @@
 </sp>
 <sp who='BRIGITTE'><speaker>BRIGITTE.</speaker>
 <p id='3'>
-	<s id='1'>Toutes les fois que je rencontre votre frère traîné dans un superbe équipage, et que je songe qu'il vous abandonne ici sans vous offrir le plus léger secours, je suis prête à crier dans la rue à tous les passants : voyez cet homme si brillant ; eh bien, il aime mieux nourrir des chevaux dans son écurie, que de soulager sa sur et ses nièces en bas âge.</s>
+	<s id='1'>Toutes les fois que je rencontre votre frère traîné dans un superbe équipage, et que je songe qu'il vous abandonne ici sans vous offrir le plus léger secours, je suis prête à crier dans la rue à tous les passants : voyez cet homme si brillant ; eh bien, il aime mieux nourrir des chevaux dans son écurie, que de soulager sa soeur et ses nièces en bas âge.</s>
 </p>
 </sp>
 <sp who='MADAME MILVILLE'><speaker>MADAME MILVILLE.</speaker>
@@ -1575,7 +1575,7 @@
 </sp>
 <sp who='BRIGITTE'><speaker>BRIGITTE.</speaker>
 <p id='7'>
-	<s id='1'>Votre belle-sur vous traite avec un mépris qui me met contre elle la haine dans le cur....</s>
+	<s id='1'>Votre belle-soeur vous traite avec un mépris qui me met contre elle la haine dans le coeur....</s>
 </p>
 </sp>
 <sp who='MADAME MILVILLE'><speaker>MADAME MILVILLE.</speaker>
@@ -1593,7 +1593,7 @@
 </sp>
 <sp who='MADAME MILVILLE'><speaker>MADAME MILVILLE.</speaker>
 <p id='10'>
-	<s id='1'>Le riche, malgré les nuds étroits du sang, rompt ordinairement tout lien avec le pauvre.... </s>
+	<s id='1'>Le riche, malgré les noeuds étroits du sang, rompt ordinairement tout lien avec le pauvre.... </s>
 	<s id='2'>Il l'éloigne et par instinct et par réflexion. </s>
 	<s id='3'>Cela se voit partout.</s>
 </p>
@@ -1620,7 +1620,7 @@
 </sp>
 <sp who='MADAME MILVILLE'><speaker>MADAME MILVILLE.</speaker>
 <p id='14'>
-	<s id='1'>Ma chère Brigitte, point de vux contraires au repos d'autrui. </s>
+	<s id='1'>Ma chère Brigitte, point de voeux contraires au repos d'autrui. </s>
 	<s id='2'>Je n'existe que pour élever ma famille dans les principes de la vertu, et mes enfants sont les seuls liens qui désormais m'attachent à la vie.</s>
 </p>
 </sp>
@@ -1635,7 +1635,7 @@
 <p id='16'>
 	<s id='1'>Oui, à ce que je m'imagine ; un second mariage leur aurait donné un maître, sans leur assurer un protecteur. </s>
 	<s id='2'>Le souvenir d'un époux toujours présent à ma tendresse, me les rend chaque jour plus chers. </s>
-	<s id='3'>Non, je n'ai jamais reçu leurs baisers, que les larmes du cur n'aient arrosé leurs joues.</s>
+	<s id='3'>Non, je n'ai jamais reçu leurs baisers, que les larmes du coeur n'aient arrosé leurs joues.</s>
 </p>
 </sp>
 <sp who='BRIGITTE'><speaker>BRIGITTE.</speaker>
@@ -1677,14 +1677,14 @@
 	<s id='1'>Ah ! </s>
 	<s id='2'>vous êtes la meilleure des mères.</s>
 </p>
-<stage>On frappe à la porte.</stage>
+<stage type="[N/A]">On frappe à la porte.</stage>
 </sp>
 <sp who='MADAME MILVILLE'><speaker>MADAME MILVILLE.</speaker>
 <p id='24'>
 	<s id='1'>On frappe, Brigitte... </s>
 	<s id='2'>Allez voir... </s>
 </p>
-<stage>Brigitte sort.</stage>
+<stage type="exit">Brigitte sort.</stage>
 </sp>
 <sp who='BRIGITTE'><speaker>BRIGITTE, rentrant.</speaker>
 <p id='25'>
@@ -1709,7 +1709,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Vanglenne, Madame Milville, Brigitte.</head>
-<stage>Quand Vanglenne se présente, madame Milville se lève et reste debout, ne pensant pas qu'il dût s'asseoir.</stage>
+<stage type="[N/A]">Quand Vanglenne se présente, madame Milville se lève et reste debout, ne pensant pas qu'il dût s'asseoir.</stage>
 <sp who='VANGLENNE'><speaker>VANGLENNE.</speaker>
 <p id='1'>
 	<s id='1'>Mon abord vous étonne, madame ; mais quand je me serai nommé, vous serez moins surprise de la visite que je prends la liberté de vous faire.... </s>
@@ -1726,17 +1726,17 @@
 	<s id='1'>Oui, madame. </s>
 	<s id='2'>Daignez m'accorder cet entre- tien, je vous en supplie.... </s>
 </p>
-<stage>Il cherche de l'il une chaise.</stage>
+<stage type="[N/A]">Il cherche de l'oeil une chaise.</stage>
 </sp>
 <sp who='MADAME MILVILLE'><speaker>MADAME MILVILLE.</speaker>
 <p id='4'>
 	<s id='1'>Asseyez-vous, monsieur. </s>
 </p>
-<stage>Elle fait signe à Brigitte de se retirer. On entend les enfants qui joue dans la chambre prochaine.</stage>
+<stage type="[N/A]">Elle fait signe à Brigitte de se retirer. On entend les enfants qui joue dans la chambre prochaine.</stage>
 <p id='5'>
-	<s id='1'> Brigitte, faite taire les enfants ; qu'ils fassent moins de bruit. </s>
+	<s id='1'>Brigitte, faite taire les enfants ; qu'ils fassent moins de bruit. </s>
 </p>
-<stage>Brigitte sort.</stage>
+<stage type="exit">Brigitte sort.</stage>
 </sp>
 <sp who='VANGLENNE'><speaker>VANGLENNE, assis.</speaker>
 <p id='6'>
@@ -1844,7 +1844,7 @@
 	<s id='1'>Le chagrin que j'en ressentis me rendit la vie insupportable. </s>
 	<s id='2'>Le ciel de l'Amérique n'eut plus d'attraits pour moi. </s>
 	<s id='3'>Je me voyais seul, et tous les objets qui m'entouraient, me rappelaient une perte irréparable.... </s>
-	<s id='4'>L'amour de la patrie parla à mon cur, je résolus de repasser en France.. </s>
+	<s id='4'>L'amour de la patrie parla à mon coeur, je résolus de repasser en France.. </s>
 	<s id='5'>Hélas, madame, les côtes d'Espagne furent témoins de mon naufrage !</s>
 </p>
 </sp>
@@ -1932,7 +1932,7 @@
 <p id='25'>
 	<s id='1'>Versez. </s>
 </p>
-<stage>Brigitte apporte deux tasses, des petits pains et du café. Vanglenne mange et boit avidement.</stage>
+<stage type="[N/A]">Brigitte apporte deux tasses, des petits pains et du café. Vanglenne mange et boit avidement.</stage>
 </sp>
 <sp who='MADAME MILVILLE'><speaker>MADAME MILVILLE.</speaker>
 <p id='26'>
@@ -2023,7 +2023,7 @@
 	<s id='1'>Qu'a-t-il répondu ?... </s>
 	<s id='2'>Qu'a-t-il fait ?... </s>
 </p>
-<stage>Un silence.</stage>
+<stage type="[N/A]">Un silence.</stage>
 <p id='40'>
 	<s id=''>Ciel, mon frère !</s>
 </p>
@@ -2033,7 +2033,7 @@
 	<s id='1'>Votre frère, madame, paraît occupé de grandes et importantes affaires. </s>
 	<s id='2'>Il s'est avancé dans les postes lucratifs de la finance ; c'est une occupation profonde, et qui l'absorbe tout entier. </s>
 	<s id='3'>Il a été un peu distrait... </s>
-	<s id='4'>Votre belle-sur est une dame opulente, qui paraît jouir de son état... </s>
+	<s id='4'>Votre belle-soeur est une dame opulente, qui paraît jouir de son état... </s>
 	<s id='5'>Il sont plus qu'aisés, je pense ?</s>
 </p>
 </sp>
@@ -2108,7 +2108,7 @@
 <p id='52'>
 	<s id='1'>Cher parent, l'or n'abonde pas ici comme chez mon frère ; mais, en attendant mieux, acceptez, je vous prie, ce double louis.... </s>
 	<s id='2'>C'est une dette que je paie avec joie à la parenté, à l'amitié. </s>
-	<s id='3'>Prenez, vous dis-je ; il est offert de bon cur.</s>
+	<s id='3'>Prenez, vous dis-je ; il est offert de bon coeur.</s>
 </p>
 </sp>
 <sp who='VANGLENNE'><speaker>VANGLENNE.</speaker>
@@ -2127,7 +2127,7 @@
 <p id='55'>
 	<s id='1'>Vous vous privez en ma faveur, de ce qui vous serait absolument nécessaire. </s>
 </p>
-<stage>Elle lui met le double louis dans la main.</stage>
+<stage type="[N/A]">Elle lui met le double louis dans la main.</stage>
 <p id='56'>
 	<s id='1'>Je ne sais si je dois accepter...</s>
 </p>
@@ -2136,7 +2136,7 @@
 <p id='57'>
 	<s id='1'>Gardez, gardez, vous dis-je. </s>
 </p>
-<stage>En essuyant une larme.</stage>
+<stage type="[N/A]">En essuyant une larme.</stage>
 <p id='58'>
 	<s id='1'>Je suis trop heureuse de pouvoir en disposer ainsi.</s>
 </p>
@@ -2149,7 +2149,7 @@
 	<s id='4'>Ah ! </s>
 	<s id='5'>Ah ! </s>
 </p>
-<stage>Il soupire, il pleure, il s'écrie, baisant le louis d'or :</stage>
+<stage type="[N/A]">Il soupire, il pleure, il s'écrie, baisant le louis d'or :</stage>
 <p id='60'>
 	<s id='1'>Cette pièce m'est précieuse !... </s>
 	<s id='2'>Je la garderai toute ma vie. </s>
@@ -2166,12 +2166,12 @@
 	<s id='1'>Oui... </s>
 	<s id='2'>Toute ma vie ; mais, mais, mais.. </s>
 </p>
-<stage>Baisant la main de madame Milville.</stage>
+<stage type="[N/A]">Baisant la main de madame Milville.</stage>
 <p id='63'>
 	<s id='1'>Pardonnez.... </s>
 	<s id='2'>Je ne puis plus soutenir l'émotion.... </s>
 </p>	
-<stage>Se levant.</stage>
+<stage type="[N/A]">Se levant.</stage>
 <p id='64'>
 	<s id='1'>Pardonnez-moi... </s>
 </p>
@@ -2185,7 +2185,7 @@
 <p id='66'>
 	<s id='1'>Léger ! </s>
 	<s id='2'>Ah ! </s>
-	<s id='3'>Pardonnez-moi d'avoir mis à l'épreuve un cur tel que le vôtre.</s>
+	<s id='3'>Pardonnez-moi d'avoir mis à l'épreuve un coeur tel que le vôtre.</s>
 </p>
 </sp>
 <sp who='MADAME MILVILLE'><speaker>MADAME MILVILLE.</speaker>
@@ -2198,15 +2198,15 @@
 	<s id='1'>Vous êtes bien la fille de votre père... </s>
 	<s id='2'>Cette bonté noble et compatissante... </s>
 	<s id='3'>Allez... </s>
-	<s id='4'>Vous avez semé dans mon cur un bienfait qui doit y vivre éternellement, y fructifier... </s>
+	<s id='4'>Vous avez semé dans mon coeur un bienfait qui doit y vivre éternellement, y fructifier... </s>
 	<s id='5'>J'ai reçu votre don... </s>
 </p>
-<stage>Il tire un porte-feuille.</stage>
+<stage type="[N/A]">Il tire un porte-feuille.</stage>
 <p id='69'>
 	<s id='1'>Recevez le mien.... </s>
 	<s id='2'>Je l'exige.... </s>
 	<s id='3'>Voici pour vous et pour vos enfants. </s>
-	<s id='4'>Je ne suis point un indigent ; je suis un millionnaire, mais je n'ai point endurci mon cur... </s>
+	<s id='4'>Je ne suis point un indigent ; je suis un millionnaire, mais je n'ai point endurci mon coeur... </s>
 	<s id='5'>Non, il ne l'est pas ; je pleure de joie et de tendresse, en songeant à l'avenir qui s'ouvre pour nous.</s>
 </p>
 </sp>
@@ -2229,13 +2229,13 @@
 <p id='73'>
 	<s id='1'>Eh ! </s>
 	<s id='2'>Quelle autre remplirait mes vues ? </s>
-	<s id='3'>La Providence m'a comblé de biens ; j'ai cru devoir en faire un digne usage : mais je n'ai point voulu être trompé en obligeant des parents insensibles ou ingrats ; mon cur a voulu en trouver un autre... </s>
+	<s id='3'>La Providence m'a comblé de biens ; j'ai cru devoir en faire un digne usage : mais je n'ai point voulu être trompé en obligeant des parents insensibles ou ingrats ; mon coeur a voulu en trouver un autre... </s>
 	<s id='4'>L'espoir de la fortune ne rend que trop souvent le visage de l'homme hypocrite, en lui prêtant les dehors de la bienfaisance. </s>
 	<s id='5'>J'ai voulu lire à nu la pensée, et j'ai conçu en Amérique l'idée que j'exécute aujourd'hui. </s>
 	<s id='6'>Elle consistait à venir aux yeux des miens sous cet habit modeste, et dans la véritable posture d'un indigent ; à sonder en cet état les caractères. </s>
 	<s id='7'>Le naturel percera, me disais-je, dans cette première apparition inattendue, et je ne ferai part de ma fortune qu'à celui qui s'en montrera le plus digne par la noblesse et la sensibilité ; car je n'estime pour vrais parents, que ceux dont l'âme sait compatir aux maux des infortunés. </s>
 	<s id='8'>Il n'y a de réel dans tout ceci, chère cousine, que mon naufrage, et je n'y ai pas perdu la cinquantième partie de mes richesses... </s>
-	<s id='9'>Je l'ai donc trouvé ce cur généreux et sensible que je cherchais ! </s>
+	<s id='9'>Je l'ai donc trouvé ce coeur généreux et sensible que je cherchais ! </s>
 	<s id='10'>Je fais avec lui le partage des biens que le ciel m'a accordés, et je rejette à jamais mon indigne cousin.</s>
 </p>
 </sp>
@@ -2258,11 +2258,11 @@
 	<s id='7'>Qu'ai-je obtenu ? </s>
 	<s id='8'>Des refus inhumains, des défaites, du mépris. </s>
 	<s id='9'>La morgue, l'insolence, la froideur insultante caractérisAient ses moindres expressions ; il avait la parole brutale d'un homme riche qui outrage celui qui ne l'est pas. </s>
-	<s id='10'>Sa femme, plus hautaine encore, me toisait d'un il dédaigneux, plus dure, plus insolente dans sa plate arrogance... </s>
+	<s id='10'>Sa femme, plus hautaine encore, me toisait d'un oeil dédaigneux, plus dure, plus insolente dans sa plate arrogance... </s>
 	<s id='11'>Je leur aurais peut-être pardonné... </s>
 	<s id='12'>Mais ce que je ne leur pardonne pas, ce que je ne leur pardonnerai de ma vie, c'est leur dureté envers vous. </s>
 	<s id='13'>Comment ! </s>
-	<s id='14'>Un frère, au milieu de l'abondance, aura pu voir sa sur vertueuse manquer du nécessaire avec ses enfants ! </s>
+	<s id='14'>Un frère, au milieu de l'abondance, aura pu voir sa soeur vertueuse manquer du nécessaire avec ses enfants ! </s>
 	<s id='15'>Il n'a donc ni sentiments, ni entrailles, ni honneur !</s>
 </p>
 </sp>
@@ -2286,7 +2286,7 @@
 </sp>
 <sp who='VANGLENNE'><speaker>VANGLENNE, avec enthousiasme.</speaker>
 <p id='79'>
-	<s id='1'>Amour aux bons, inimitié aux méchants, à tous ces curs endurcis, qui n'existent que pour eux ! </s>
+	<s id='1'>Amour aux bons, inimitié aux méchants, à tous ces coeurs endurcis, qui n'existent que pour eux ! </s>
 	<s id='2'>Puisque les lois ne savent point punir l'insensibilité, l'orgueil, l'ingratitude, il faut être plus sévère pour ces vices-là, que pour ceux qu'elles frappent et flétrissent. </s>
 	<s id='3'>C'est à l'homme ferme que la société a remis sa vengeance.</s>
 </p>
@@ -2308,24 +2308,24 @@
 <p id='82'>
 	<s id=''>Vous allez les voir ; ils vous connaîtront avec le temps. </s>
 </p>
-<stage>Elle va chercher les enfants et les amène.</stage>
+<stage type="[N/A]">Elle va chercher les enfants et les amène.</stage>
 </sp>
 <sp who='VANGLENNE'><speaker>VANGLENNE.</speaker>
 <p id='83'>
 	<s id='1'>Les voici donc, ces aimables créatures ! </s>
 </p>
-<stage>Il les soulève, les embrasse, les presse contre son sein.</stage>
+<stage type="[N/A]">Il les soulève, les embrasse, les presse contre son sein.</stage>
 <p id='83'>
 	<s id=''>Vous avez un oncle inhumain, mes bonnes amies ; mais vous avez une bonne mère, et moi qui vous adopte... </s>
 </p>
-<stage>Les posant à terre. Pendant la fin de cette tirade, Brigitte, qui a rangé la table du déjeuner contre la coulisse, sur un geste de sa maîtresse, ramène les enfants, à qui elle donne, en passant près de la table, le sucre qui est resté sur la soucoupe.</stage>
+<stage type="[N/A]">Les posant à terre. Pendant la fin de cette tirade, Brigitte, qui a rangé la table du déjeuner contre la coulisse, sur un geste de sa maîtresse, ramène les enfants, à qui elle donne, en passant près de la table, le sucre qui est resté sur la soucoupe.</stage>
 <p id='84'>
 	<s id='1'>Allons, ma chère cousine, vous êtes dès ce moment ma trésorière... </s>
 	<s id='2'>Je vais vous charger d'un emploi qui plaira sûrement à votre âme, du soin de secourir les infortunés. </s>
 	<s id='3'>Allez, cherchez-les, amenez-les ; ne craignez pas d'en trop rassembler autour de moi... </s>
 	<s id='4'>Je crois, ainsi que vous, aux plaisirs intimes de la bienfaisance... </s>
 	<s id='5'>Mon hôtel est prêt ; venez l'embellir, car le palais le plus superbe est un séjour triste sans l'amitié... </s>
-	<s id='6'>Je veux d'ailleurs que vous effaciez le luxe dont s'enorgueillit votre belle-sur. </s>
+	<s id='6'>Je veux d'ailleurs que vous effaciez le luxe dont s'enorgueillit votre belle-soeur. </s>
 	<s id='7'>Vous le dédaignez, je le sais : mais elle, elle aura la bassesse de sécher de dépit ; car les petites âmes sont misérables en tout... </s>
 	<s id='8'>Oui, mon aimable cousine, cessez de vous en défendre... </s>
 	<s id='9'>Ce que j'ai est à vous. </s>
@@ -2343,7 +2343,7 @@
 	<s id='2'>Si vous voulez me le rendre.... </s>
 	<s id='3'>songez, songez bien que je ne l'accepterai qu'à une seule condition... </s>
 </p>
-<stage>Il lui baise la main.</stage>
+<stage type="[N/A]">Il lui baise la main.</stage>
 <p id='87'>
 	<s id='1'>Adieu, aimable cousine.</s>
 </p>
@@ -2369,7 +2369,7 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n='4'><head>SCÈNE IV. Madame Milville, Brigittte.</head>
+<div2 type="scene" n='4'><head>SCÈNE IV. Madame Milville, Brigitte.</head>
 <sp who='BRIGITTE'><speaker>BRIGITTE, entrant tout-à-coup.</speaker>
 <p id='1'>
 	<s id='1'>Ah, ma chère maîtresse !... </s>
@@ -2422,13 +2422,13 @@
 	<s id='8'>Ah, mon Dieu !... </s>
 	<s id='9'>Il faut que je pleure longtemps...</s>
 </p>
-<stage>Elle pleure en sanglotant.</stage>
+<stage type="cry">Elle pleure en sanglotant.</stage>
 </sp>
 <sp who='MADAME MILVILLE'><speaker>MADAME MILVILLE.</speaker>
 <p id='8'>
 	<s id='1'>Mais j'entends un certain bruit : vois ce que ce peut être.</s>
 </p>
-<stage>Brigitte sort.</stage>
+<stage type="exit">Brigitte sort.</stage>
 </sp>
 <sp who='BRIGITTE'><speaker>BRIGITTE, rentrant avec de grandes exclamations.</speaker>
 <p id='9'>
@@ -2444,20 +2444,20 @@
 </sp>
 <sp who='BRIGITTE'><speaker>BRIGITTE.</speaker>
 <p id='11'>
-	<s id='1'>C'est madame votre belle-sur qui monte en personne à votre quatrième étage.</s>
+	<s id='1'>C'est madame votre belle-soeur qui monte en personne à votre quatrième étage.</s>
 </p>
 </sp>
 <sp who='MADAME MILVILLE'><speaker>MADAME MILVILLE.</speaker>
 <p id='12'>
-	<s id='1'>Ma belle-sur !... </s>
+	<s id='1'>Ma belle-soeur !... </s>
 	<s id='2'>Ce jour est fait pour m'étonner.</s>
 </p>
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Madame Dartigni, Madame Milville.</head>
-<sp who='MADAME DORTIGNI'><speaker>MADAME DORTIGNI, sautant au cou de sa sur.</speaker>
+<sp who='MADAME DORTIGNI'><speaker>MADAME DORTIGNI, sautant au cou de sa soeur.</speaker>
 <p id='1'>
-	<s id='1'>Bonjour, ma sur. </s>
+	<s id='1'>Bonjour, ma soeur. </s>
 	<s id='2'>Il y a longtemps que nous ne nous sommes vues.</s>
 </p>
 </sp>
@@ -2513,7 +2513,7 @@
 </sp>
 <sp who='MADAME DORTIGNI'><speaker>MADAME DORTIGNI.</speaker>
 <p id='9'>
-	<s id='1'>Ma chère sur, pourquoi nous négliger à ce point, ne pas venir nous voir ?... </s>
+	<s id='1'>Ma chère soeur, pourquoi nous négliger à ce point, ne pas venir nous voir ?... </s>
 	<s id='2'>Vous avez plus de temps que moi.</s>
 </p>
 </sp>
@@ -2526,7 +2526,7 @@
 <sp who='MADAME DORTIGNI'><speaker>MADAME DORTIGNI.</speaker>
 <note type="L">Butor : Gros oiseau, espèce de héron fainéant et poltron. On dit figurément d'un homme stupide et maladroit que c'est un butor. [F]</note>
 <p id='11'>
-	<s id='1'>Pour vous, ma chère sur, pour vous ?... </s>
+	<s id='1'>Pour vous, ma chère soeur, pour vous ?... </s>
 	<s id='2'>Ah ! </s>
 	<s id='3'>Vous ne me ferez pas l'injure de le penser. </s>
 	<s id='4'>Permettez ; si j'avais donné des ordres, vous n'y étiez sûrement pas comprise. </s>
@@ -2553,12 +2553,12 @@
 </sp>
 <sp who='MADAME DORTIGNI'><speaker>MADAME DORTIGNI.</speaker>
 <p id='15'>
-	<s id='1'>Votre vie est fortunée, ma sur, en comparaison de la mienne. </s>
+	<s id='1'>Votre vie est fortunée, ma soeur, en comparaison de la mienne. </s>
 	<s id='2'>Le tourbillon des affaires n'emporte pas toujours votre esprit loin de vous. </s>
 	<s id='3'>Dans le monde où je vis, l'on ne sait qui l'on voit, qui l'on reçoit. </s>
 	<s id='4'>Fatigué par la présence de tant d'objets qui se succèdent, on a de l'humeur malgré soi. </s>
 	<s id='5'>On accueille mal ou bien, comme au hasard.... </s>
-	<s id='6'>À propos, ma sur, avez-vous vu le cher cousin arrivé récemment de l'Amérique ?</s>
+	<s id='6'>À propos, ma soeur, avez-vous vu le cher cousin arrivé récemment de l'Amérique ?</s>
 </p>
 </sp>
 <sp who='MADAME MILVILLE'><speaker>MADAME MILVILLE.</speaker>
@@ -2588,7 +2588,7 @@
 </sp>
 <sp who='MADAME MILVILLE'><speaker>MADAME MILVILLE.</speaker>
 <p id='20'>
-	<s id='1'>Oui, ma sur... </s>
+	<s id='1'>Oui, ma soeur... </s>
 	<s id='2'>Il s'est offert à moi comme étant dans la peine et cherchant un emploi. </s>
 	<s id='3'>Je lui ai offert ces petits secours qu'on doit à la parenté et à l'humanité.</s>
 </p>
@@ -2616,14 +2616,14 @@
 <sp who='MADAME DORTIGNI'><speaker>MADAME DORTIGNI, grimaçant.</speaker>
 <p id='25'>
 	<s id='1'>Ah ! </s>
-	<s id='2'>Vous avez le coup-d'il plus fin, plus pénétrant que le nôtre. </s>
+	<s id='2'>Vous avez le coup-d'oeil plus fin, plus pénétrant que le nôtre. </s>
 	<s id='3'>Cela fait honneur à votre sagacité.</s>
 </p>
 </sp>
 <sp who='MADAME MILVILLE'><speaker>MADAME MILVILLE.</speaker>
 <p id='26'>
 	<s id='1'>Je n'avais rien prévu de ce qui est arrivé... </s>
-	<s id='2'>Quand je lui eus fait mon présent, qui était bien peu de chose au fond, après avoir pris une tasse de café avec moi, tout-à-coup il s'est levé de cette place, les bras étendus, l'il humide de larmes, et m'a dit d'un ton pénétré, d'un ton qu'on ne peut jamais rendre : j'ai accepté vos dons, ma cousine, recevez les miens... </s>
+	<s id='2'>Quand je lui eus fait mon présent, qui était bien peu de chose au fond, après avoir pris une tasse de café avec moi, tout-à-coup il s'est levé de cette place, les bras étendus, l'oeil humide de larmes, et m'a dit d'un ton pénétré, d'un ton qu'on ne peut jamais rendre : j'ai accepté vos dons, ma cousine, recevez les miens... </s>
 	<s id='3'>Il m'a remis ensuite ce porte-feuille entre les mains, pour moi, dit-il, et pour mes enfants.... </s>
 	<s id='4'>Le voici ; je ne l'ai pas encore ouvert. </s>
 </p>
@@ -2640,20 +2640,20 @@
 </sp>
 <sp who='MADAME DORTIGNI'><speaker>MADAME DORTIGNI, après avoir ouvert le porte-feuille.</speaker>
 <p id='29'>
-	<s id='1'>Mais, ma sur, ma sur, ma sur ! </s>
+	<s id='1'>Mais, ma soeur, ma soeur, ma soeur ! </s>
 	<s id='2'>voilà des effets pour plus de six cents mille livres... </s>
 	<s id='3'>Ah, mon Dieu, voilà une offre unique, incroyable, extraordinaire : on n'a jamais rien vu de tel.</s>
 </p>
 </sp>
 <sp who='MADAME MILVILLE'><speaker>MADAME MILVILLE.</speaker>
 <p id='30'>
-	<s id='1'>Vous pensez bien, ma sur, que je ne me regarde que comme dépositaire, et rien de plus.</s>
+	<s id='1'>Vous pensez bien, ma soeur, que je ne me regarde que comme dépositaire, et rien de plus.</s>
 </p>
 </sp>
 <sp who='MADAME DORTIGNI'><speaker>MADAME DORTIGNI.</speaker>
 <p id='31'>
 	<s id='1'>Oui, autrement le monde jaserait. </s>
-	<s id='2'>Ah çà, ma chère sur, je suis enchantée de ce qui est arrivé. </s>
+	<s id='2'>Ah çà, ma chère soeur, je suis enchantée de ce qui est arrivé. </s>
 	<s id='3'>On ne doit cependant compter que médiocrement sur un esprit aussi bizarre. </s>
 	<s id=''>Ces caractères singuliers, pour ne pas dire extravagants, ont mille caprices qui les font changer d'un quart d'heure à l'autre.</s>
 </p>
@@ -2666,7 +2666,7 @@
 </sp>
 <sp who='MADAME DORTIGNI'><speaker>MADAME DORTIGNI.</speaker>
 <p id='33'>
-	<s id='1'>Gardez-vous en bien, ma sur ; vous n'êtes point d'un âge... </s>
+	<s id='1'>Gardez-vous en bien, ma soeur ; vous n'êtes point d'un âge... </s>
 	<s id='2'>Il faut redouter les langues médisantes...</s>
 </p>
 </sp>
@@ -2683,7 +2683,7 @@
 </sp>
 <sp who='MADAME MILVILLE'><speaker>MADAME MILVILLE.</speaker>
 <p id='36'>
-	<s id='1'>Ma sur, je vous proteste que je n'accepterai des bienfaits qu'à charge de les publier à toute la terre.</s>
+	<s id='1'>Ma soeur, je vous proteste que je n'accepterai des bienfaits qu'à charge de les publier à toute la terre.</s>
 </p>
 </sp>
 <sp who='MADAME DORTIGNI'><speaker>MADAME DORTIGNI.</speaker>
@@ -2724,7 +2724,7 @@
 </sp>
 <sp who='MADAME DORTIGNI'><speaker>MADAME DORTIGNI.</speaker>
 <p id='43'>
-	<s id='1'>Cela ne devrait pas être toléré, ma sur : si cette mode s'introduisait une fois dans le monde, on ne saurait bientôt plus à qui l'on doit certains égards.</s>
+	<s id='1'>Cela ne devrait pas être toléré, ma soeur : si cette mode s'introduisait une fois dans le monde, on ne saurait bientôt plus à qui l'on doit certains égards.</s>
 </p>
 </sp>
 <sp who='MADAME MILVILLE'><speaker>MADAME MILVILLE.</speaker>
@@ -2734,7 +2734,7 @@
 </sp>
 <sp who='MADAME DORTIGNI'><speaker>MADAME DORTIGNI.</speaker>
 <p id='45'>
-	<s id='1'>Ah ça, ma chère sur... </s>
+	<s id='1'>Ah ça, ma chère soeur... </s>
 	<s id='2'>Vous avez tout crédit sur son esprit... </s>
 	<s id='3'>Vous êtes bonne, vous êtes éloquente... </s>
 	<s id='4'>Faites ma paix.</s>
@@ -2742,7 +2742,7 @@
 </sp>
 <sp who='MADAME MILVILLE'><speaker>MADAME MILVILLE.</speaker>
 <p id='46'>
-	<s id='1'>J'y travaillerai assurément de tout mon cur.</s>
+	<s id='1'>J'y travaillerai assurément de tout mon coeur.</s>
 </p>
 </sp>
 <sp who='MADAME DORTIGNI'><speaker>MADAME DORTIGNI.</speaker>
@@ -2760,7 +2760,7 @@
 <sp who='MADAME DORTIGNI'><speaker>MADAME DORTIGNI.</speaker>
 <p id='49'>
 	<s id='1'>Eh bien, dites-lui que mon mari avait la tête fort occupée d'affaires, qu'il l'a saisi dans un de ces mauvais quarts d'heure où l'on brusque tout ce qui nous approche ; que moi, j'avais grondé mes gens à mon lever, et que l'impression m'en était demeurée... </s>
-	<s id=''>Ajoutez, chère sur, que les hommes qui ont des bureaux sont tristes le matin, et qu'on ne rit à Paris que le soir.</s>
+	<s id=''>Ajoutez, chère soeur, que les hommes qui ont des bureaux sont tristes le matin, et qu'on ne rit à Paris que le soir.</s>
 </p>
 </sp>
 <sp who='MADAME MILVILLE'><speaker>MADAME MILVILLE.</speaker>
@@ -2774,7 +2774,7 @@
 	<s id='2'>Il verra bien alors que je n'ai pas voulu lui manquer... </s>
 	<s id='3'>Quand ce ne serait que son extrême générosité envers vous, ce parent me deviendrait cher...</s>
 </p>
-<stage>Se levant.</stage>
+<stage type="[N/A]">Se levant.</stage>
 <p id='52'>
 	<s id='1'>Ménagez-vous bien... </s>
 	<s id='1'>Prenez soin de votre santé... </s>
@@ -2786,7 +2786,7 @@
 	<s id='7'>Ne bougez pas ; l'air est froid. </s>
 	<s id='8'>À tantôt, nous nous reverrons.</s>
 </p>
-<stage>En la baisant.</stage>
+<stage type="[N/A]">En la baisant.</stage>
 <p id='53'>
 	<s id='1'>Adieu... </s>
 	<s id='2'>Nous allons nous voir fréquemment, c'est une chose arrêtée.</s>
@@ -2800,7 +2800,7 @@
 	<s id='2'>Et de l'orgueil encore ! </s>
 	<s id='3'>Je l'observais ; chaque mot de votre bouche était pour elle un coup de poignard. </s>
 	<s id='4'>Elle a frémi du porte-feuille ; elle a éprouvé le plus violent dépit ; elle se déguise habilement, mais son regard la trahit malgré elle. </s>
-	<s id='5'>Comme elle souffrait en affectant un sentiment qui n'est pas dans son cur ! </s>
+	<s id='5'>Comme elle souffrait en affectant un sentiment qui n'est pas dans son coeur ! </s>
 	<s id='6'>Elle n'a que le désespoir de l'avarice.</s>
 </p>
 </sp>
@@ -2808,7 +2808,7 @@
 <p id='2'>
 	<s id='1'>C'est assez, Brigitte... </s>
 	<s id='2'>Tous les vices et les travers naissent d'un seul vice, de la cupidité. </s>
-	<s id='3'>Malheur aux curs livrés à cette passion triste ! </s>
+	<s id='3'>Malheur aux coeurs livrés à cette passion triste ! </s>
 	<s id='4'>Ils se tourmentent eux-mêmes, et l'on n'a rien à ajouter au supplice dans lequel ils vivent... </s>
 	<s id='5'>Il faut les plaindre, vous dis-je, et non les outrager.</s>
 </p>
@@ -2816,7 +2816,7 @@
 </div2>
 </div1>
 <div1 type="act" n='3'><head>ACTE III</head>
-<stage>Le théâtre représente l'hôtel de Vanglenne, hôtel riche et magnifique. Vanglenne doit avoir un habit d'écarlate galonné, une canne à pomme d'or ; il conduira madame Milville par la main.</stage>
+<stage type="decor">Le théâtre représente l'hôtel de Vanglenne, hôtel riche et magnifique. Vanglenne doit avoir un habit d'écarlate galonné, une canne à pomme d'or ; il conduira madame Milville par la main.</stage>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Vanglenne, Madame Milville.</head>
 <sp who='VANGLENNE'><speaker>VANGLENNE.</speaker>
 <p id='1'>
@@ -2852,7 +2852,7 @@
 </sp>
 <sp who='VANGLENNE'><speaker>VANGLENNE.</speaker>
 <p id='5'>
-	<s id='1'>L'hôtel est coupé en deux, et sans aucune com-munication... </s>
+	<s id='1'>L'hôtel est coupé en deux, et sans aucune communication... </s>
 	<s id='2'>Quand vous voudrez me recevoir, je viendrai comme votre parent et votre meilleur ami.</s>
 </p>
 </sp>
@@ -2881,7 +2881,7 @@
 <p id='9'>
 	<s id='1'>Gardez-le jusqu'à ce que je vous le redemande ; c'est encore là une de nos conditions. </s>
 </p>
-<stage>En souriant.</stage>
+<stage type="[N/A]">En souriant.</stage>
 <p id='10'>
 	<s id='1'>N'êtes-vous pas ma trésorière ?</s>
 </p>
@@ -2896,20 +2896,20 @@
 	<s id='1'>Laissez-moi achever, vous dis je, et ne me chagrinez point... </s>
 	<s id='2'>Ce que je fais n'est pas par ostentation, mais pour donner un exemple aux riches, pour leur apprendre à ne jamais dédaigner le pauvre, à se souvenir que dans un tour de roue, la fortune abaisse celui qui était au sommet, et élève celui qu'ils apercevaient au dernier rang...</s>
 </p>
-<stage>Appelant tous les gens de la maison.</stage>
+<stage type="[N/A]">Appelant tous les gens de la maison.</stage>
 <p id='13'>
 	<s id='1'>Voilà vos domestiques, madame ; ils sont instruits de tout ce qui regarde leur office. </s>
 	<s id='2'>Ce qui est ici est à vous sans réserve.</s>
 </p>
-<stage>Aux domestiques.</stage>
+<stage type="toward">Aux domestiques.</stage>
 <p id='14'>
 	<s id='1'>Allez.</s>
 </p>
-<stage>Les domestiques sortent.</stage>
+<stage type="exit">Les domestiques sortent.</stage>
 <p id='15'>
 	<s id='1'>Je ne m'inquiète plus de l'emploi que vous en ferez.</s>
 </p>
-<stage>Tirant le double louis qu'il a reçu d'elle.</stage>
+<stage type="[N/A]">Tirant le double louis qu'il a reçu d'elle.</stage>
 <p id='16'>
 	<s id='1'>Cette pièce que je garderai précieusement tant que je vivrai, cette pièce qui m'aurait en effet racheté la vie, si je me fusse trouvé dans le besoin, voilà le gage irrécusable qui me dit que vous honorerez les richesses, en en faisant un digne usage.</s>
 </p>
@@ -2924,7 +2924,7 @@
 </sp>
 <sp who='VANGLENNE'><speaker>VANGLENNE.</speaker>
 <p id='18'>
-	<s id='1'>Voilà de ces aveux qui n'échappent qu'à un cur comme le vôtre... </s>
+	<s id='1'>Voilà de ces aveux qui n'échappent qu'à un coeur comme le vôtre... </s>
 	<s id='2'>Mais vous me serez utile, chère cousine, vous m'aiderez à placer mon argent d'une manière qui ne soudoie ni l'oisiveté, ni l'intrigue, ni l'effronterie.</s>
 </p>
 </sp>
@@ -2952,7 +2952,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Vanglenne, Madame Milville, Mulson.</head>
-<stage>Madame Milville s'assied dans un coin de la salle.</stage>
+<stage type="[N/A]">Madame Milville s'assied dans un coin de la salle.</stage>
 <sp who='MULSON'><speaker>MULSON, étendant les bras.</speaker>
 <p id='1'>
 	<s id='1'>Qui l'aurait cru ! </s>
@@ -2994,7 +2994,7 @@
 <p id='7'>
 	<s id='1'>Je le crois... </s>
 	<s id='2'>Vous venez jouir ici de votre félicité au milieu de vos parents ?... </s>
-	<s id='3'>J'ai à vous porter les salutations, les excuses, les respects de deux personnes qui vous sont liées par les nuds du sang, et de plus fort attachées.</s>
+	<s id='3'>J'ai à vous porter les salutations, les excuses, les respects de deux personnes qui vous sont liées par les noeuds du sang, et de plus fort attachées.</s>
 </p>
 </sp>
 <sp who='VANGLENNE'><speaker>VANGLENNE.</speaker>
@@ -3017,7 +3017,7 @@
 <sp who='MULSON'><speaker>MULSON.</speaker>
 <p id='11'>
 	<s id='1'>Eh ! </s>
-	<s id='2'>Monsieur, j'ai eu l'honneur de vous reconnaître au premier coup d'il, à l'instant où vous sortiez de chez eux... </s>
+	<s id='2'>Monsieur, j'ai eu l'honneur de vous reconnaître au premier coup d'oeil, à l'instant où vous sortiez de chez eux... </s>
 	<s id='3'>Vous n'êtes pas de ces hommes qui ne laissent dans la mémoire qu'une faible impression... </s>
 	<s id='4'>Malgré l'habit que vous portiez, je vous ai reconnu... </s>
 	<s id='5'>Votre crédit...</s>
@@ -3027,7 +3027,7 @@
 <p id='12'>
 	<s id='1'>Mon crédit ?</s>
 </p>
-<stage>Montrant Madame Milville.</stage>
+<stage type="[N/A]">Montrant Madame Milville.</stage>
 <p id='13'>
 	<s id='1'>Connaissez-vous madame ? </s>
 </p>
@@ -3062,13 +3062,13 @@
 </sp>
 <sp who='VANGLENNE'><speaker>VANGLENNE.</speaker>
 <p id='19'>
-	<s id='1'>C'est sa sur. </s>
+	<s id='1'>C'est sa soeur. </s>
 </p>
 </sp>
 <sp who='MULSON'><speaker>MULSON, étonné.</speaker>
 <p id='20'>
 	<s id='1'>Quoi ! </s>
-	<s id='2'>Monsieur Dortigni a une sur ?... </s>
+	<s id='2'>Monsieur Dortigni a une soeur ?... </s>
 	<s id='3'>Madame permettez que je vous présente mon respect.</s>
 </p>
 </sp>
@@ -3181,7 +3181,7 @@
 <p id='38'>
 	<s id='1'>Mais j'ai réussi à merveille, et le plus heureusement du monde.</s>
 </p>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 <p id='39'>
 	<s id='1'>Je vais donc leur porter l'agréable nouvelle de votre réconciliation.</s>
 </p>
@@ -3206,11 +3206,11 @@
 	<s id='1'>À merveille... </s>
 	<s id=''>Ils en seront enchantés, vous dis-je. </s>
 </p>
-<stage>À part.</stage>
+<stage type="aparte">À part.</stage>
 <p id='44'>
 	<s id=''>Bon, tout va bien. </s>
 </p>
-<stage>En s'en allant.</stage>
+<stage type="exit">En s'en allant.</stage>
 <p id='45'>
 	<s id=''>Quand je me mêle de quelque chose, cela réussit toujours.</s>
 </p>
@@ -3254,7 +3254,7 @@
 </sp>
 <sp who='VANGLENNE'><speaker>VANGLENNE.</speaker>
 <p id='7'>
-	<s id='1'>Quand le premier mouvement du cur humain n'est pas bon, le second devient pire encore ; et la triste humanité n'a peut-être d'autre vertu que ce premier cri de la commisération, et de la pitié... </s>
+	<s id='1'>Quand le premier mouvement du coeur humain n'est pas bon, le second devient pire encore ; et la triste humanité n'a peut-être d'autre vertu que ce premier cri de la commisération, et de la pitié... </s>
 	<s id='2'>Qui l'étouffe, est mort au bien.</s>
 </p>
 </sp>
@@ -3339,13 +3339,13 @@
 <p id='11'>
 	<s id=''>Je ne plaisante point, madame. </s>
 	<s id='2'>Si vous voulez me rendre visite, c'est-là que vous me trouverez, et que j'aurai l'honneur de vous recevoir. </s>
-	<s id='3'>Ici, vous êtes chez votre sur. </s>
+	<s id='3'>Ici, vous êtes chez votre soeur. </s>
 </p>
-<stage>Il s'éloigne, se jette dans un fauteuil, et prend un livre qu'il lit négligemment.</stage>
+<stage type="[N/A]">Il s'éloigne, se jette dans un fauteuil, et prend un livre qu'il lit négligemment.</stage>
 </sp>
 <sp who='MADAME DORTIGNI'><speaker>MADAME DORTIGNI.</speaker>
 <p id='12'>
-	<s id='1'>J'ai déjà vu la chère sur ; elle nous a annoncé votre générosité ; je l'en ai félicitée sincèrement.... </s>
+	<s id='1'>J'ai déjà vu la chère soeur ; elle nous a annoncé votre générosité ; je l'en ai félicitée sincèrement.... </s>
 	<s id='2'>Elle étonnerait de la part de tout autre ; mais vous êtes l'homme inconcevable, unique.</s>
 </p>
 </sp>
@@ -3354,9 +3354,9 @@
 	<s id='1'>Je connais d'autres êtres plus inconcevables encore.</s>
 </p>
 </sp>
-<sp who='MADAME DORTIGNI'><speaker>MADAME DORTIGNI, s'assied à côté de sa sur, et lui fait mille caresses.</speaker>
+<sp who='MADAME DORTIGNI'><speaker>MADAME DORTIGNI, s'assied à côté de sa soeur, et lui fait mille caresses.</speaker>
 <p id='14'>
-	<s id='1'>Je vous trouve le meilleur visage du monde, chère sur, un air content, satisfait.</s>
+	<s id='1'>Je vous trouve le meilleur visage du monde, chère soeur, un air content, satisfait.</s>
 </p>
 </sp>
 <sp who='VANGLENNE'><speaker>VANGLENNE.</speaker>
@@ -3378,7 +3378,7 @@
 </sp>
 <sp who='MADAME MILVILLE'><speaker>MADAME MILVILLE.</speaker>
 <p id='18'>
-	<s id='1'>Et les vôtres, ma sur !</s>
+	<s id='1'>Et les vôtres, ma soeur !</s>
 </p>
 </sp>
 <sp who='MADAME DORTIGNI'><speaker>MADAME DORTIGNI.</speaker>
@@ -3432,14 +3432,14 @@
 	<s id='2'>Ils vous doivent un remerciement....</s>
 </p>
 </sp>
-<sp who='MADAME DORTIGNI'><speaker>MADAME DORTIGNI, à sa sur.</speaker>
+<sp who='MADAME DORTIGNI'><speaker>MADAME DORTIGNI, à sa soeur.</speaker>
 <p id='28'>
-	<s id='1'>Chère sur, faites qu'en ce jour la paix se rétablisse dans toute la famille.</s>
+	<s id='1'>Chère soeur, faites qu'en ce jour la paix se rétablisse dans toute la famille.</s>
 </p>
 </sp>
 <sp who='MADAME MILVILLE'><speaker>MADAME MILVILLE.</speaker>
 <p id='29'>
-	<s id='1'>C'est l'objet de tous mes vux.... </s>
+	<s id='1'>C'est l'objet de tous mes voeux.... </s>
 	<s id='2'>J'ai fait et je ferai tout ce qui fera en mon pouvoir pour que tout soit oublié.</s>
 </p>
 </sp>
@@ -3448,7 +3448,7 @@
 	<s id='1'>On dit que c'est un beau pays que la Guadeloupe, que son sol est fertile, que son climat est sain et agréable.... </s>
 	<s id='2'>Les Anglais ne s'en sont-ils point emparés ?...</s>
 </p>
-<stage>Après un silence.</stage>
+<stage type="[N/A]">Après un silence.</stage>
 <p id='31'>
 	<s id='1'>Le cher cousin aime beaucoup la lecture, à ce qu'il paraît....</s>
 </p>
@@ -3458,7 +3458,7 @@
 	<s id='1'>Je lis peu ; mais j'examine le front de l'homme... </s>
 	<s id='2'>Ce livre-là n'est pas toujours agréable, il s'en faut ; mais il dit beaucoup, pour qui sait y voir.</s>
 </p>
-<stage>Il continue de lire.</stage>
+<stage type="[N/A]">Il continue de lire.</stage>
 </sp>
 <sp who='MADAME DORTIGNI'><speaker>MADAME DORTIGNI.</speaker>
 <p id='33'>
@@ -3524,7 +3524,7 @@
 	<s id='2'>Voyons donc. </s>
 </p>
 	<l id='1'>Ah, mon habit, que je vous remercie ! </l>
-<stage>Prenant le galon de son habit.</stage>
+<stage type="[N/A]">Prenant le galon de son habit.</stage>
 <p id='43'>
 	<s id='1'>Je ne me lasse point d'admirer ce début, cette exclamation pleine de vérité et sel. </s>
 </p>
@@ -3534,7 +3534,7 @@
 	<l id='5'>Plus j'entrevois qu'il faut que mon tailleur, </l>
 	<l id='6'>Par une secrète magie, </l>
 	<l id='7'>Ait caché dans vos plis un talisman vainqueur </l>
-	<l id='8'>Capable de gagner et l'esprit et le cur. </l>
+	<l id='8'>Capable de gagner et l'esprit et le coeur. </l>
 <note type="L">Aristarque : Critique éclairé et sévère. Etym. Aristarque de Samothrace, grammairien grec résidant à Alexandrie, et célèbre surtout par ses travaux sur Homère. [L]</note>
 <p id='44'>
 	<s id='1'>Qu'en dites-vous, monsieur l'Aristarque ?.... </s>
@@ -3559,7 +3559,7 @@
 	<l id='16'>Parler sans rien dire !</l>
 <p id='47'>
 	<s id='1'>Il y avait de quoi parler cependant ; il parlait probablement. </s>
-	<s id=''>Mais tel s'endurcit le cur et les oreilles. </s>
+	<s id=''>Mais tel s'endurcit le coeur et les oreilles. </s>
 	<s id=''>Cela revient au même. </s>
 </p>
 	<l id='17'>Cette femme à grands falbalas... </l>
@@ -3569,7 +3569,7 @@
 </p>
 <note type="L">Falbalas : bande d'étoffe plissée, et froncée, que les femmes ont mis d'abord pour ornement au bas de leurs jupes, et qu'elle mettent présentement presque tout au haut. [F]</note>
 	<l id='18'>Cette femme à grand falbalas </l>
-	<l id='19'>Me confulta sur l'air de son visage.</l>
+	<l id='19'>Me consulta sur l'air de son visage.</l>
 <p id='49'>
 	<s id='1'>Je passe quelques vers. </s>
 </p>
@@ -3579,7 +3579,7 @@
 	<l id='23'>C'est vous qui me valez cela.</l>
 <p id='50'>
 	<s id='1'>Oh ! </s>
-	<s id='2'>Je l'apprendrai par cur, cette pièce. </s>
+	<s id='2'>Je l'apprendrai par coeur, cette pièce. </s>
 	<s id='3'>Elle est semée de traits heureux, de saillantes vérités.</s>
 </p>
 </sp>
@@ -3594,16 +3594,16 @@
 	<s id='2'>Écoutez ceci, monsieur. </s>
 </p>
 	<l id='24'>Ce marquis, autrefois mon ami de collège, </l>
-	<l id='25'>Me reconnut enfin, et du premier coup-d'il </l>
+	<l id='25'>Me reconnut enfin, et du premier coup-d'oeil </l>
 	<l id='26'>Il m'accorda par privilège </l>
 	<l id='27'>Un tendre embrassement qu'approuvait son orgueil.</l>
 	<l id='28'>Ce qu'une liaison dès l'enfance établie, </l>
-	<l id='29'>Ma probité, des murs, que rien ne dérégla...</l>
+	<l id='29'>Ma probité, des moeurs, que rien ne dérégla...</l>
 <p id='53'>
 	<s id='1'>On ne compte point ici de légères fredaines, tribut payé à la fougue de l'âge. </s>
 </p>
 	<l id='30'>Ce qu'une liaison dès l'enfance établie, </l>
-	<l id='31'>Ma probité, des murs que rien ne dérégla, </l>
+	<l id='31'>Ma probité, des moeurs que rien ne dérégla, </l>
 	<l id='32'>N'eussent obtenu de ma vie, </l>
 	<l id='33'>Votre aspect seul me l'attira.</l>
 	<l id='34'>Ah, mon habit, que je vous remercie !</l>
@@ -3628,13 +3628,13 @@
 </sp>
 <sp who='DORTIGNI'><speaker>DORTIGNI, avec humeur.</speaker>
 <p id='57'>
-	<s id='1'>C'est qu'il faut, monsieur, s'accommoder aux murs reçues ; et puisqu'on n'a besoin dans le monde que d'un habit pour passer comme les autres, il ne faut point, par bizarrerie, se refuser à l'endosser.</s>
+	<s id='1'>C'est qu'il faut, monsieur, s'accommoder aux moeurs reçues ; et puisqu'on n'a besoin dans le monde que d'un habit pour passer comme les autres, il ne faut point, par bizarrerie, se refuser à l'endosser.</s>
 </p>
 </sp>
 <sp who='VANGLENNE'><speaker>VANGLENNE.</speaker>
 <p id='58'>
 	<s id='1'>Voilà ce que vous avez dit de mieux. </s>
-	<s id='2'>Et moi, monsieur, et moi je vais plus loin, c'est que, comme on n'a de beaux habits qu'avec de l'or, (et habit signifie ici, dans son acception générale, toutes les décorations extérieures qui annoncent un homme, comme ameublement, table, équipage, etc.) je soutiens qu'il n'y a rien de préférable à l'or ; qu'il n'y a que cela de désirable, d'estimable au monde ; qu'il faut sans pudeur être son esclave, tourner tous ses vux du côté de la fortune, ne rougir d'aucune démarche basse ou honteuse, dans l'espoir même incertain d'en obtenir quelques parcelles : conséquemment je soutiens qu'il ne faut point communiquer avec celui qui n'a point d'or, qu'il faut être dur envers lui par caractère, insolent par principe. </s>
+	<s id='2'>Et moi, monsieur, et moi je vais plus loin, c'est que, comme on n'a de beaux habits qu'avec de l'or, (et habit signifie ici, dans son acception générale, toutes les décorations extérieures qui annoncent un homme, comme ameublement, table, équipage, etc.) je soutiens qu'il n'y a rien de préférable à l'or ; qu'il n'y a que cela de désirable, d'estimable au monde ; qu'il faut sans pudeur être son esclave, tourner tous ses voeux du côté de la fortune, ne rougir d'aucune démarche basse ou honteuse, dans l'espoir même incertain d'en obtenir quelques parcelles : conséquemment je soutiens qu'il ne faut point communiquer avec celui qui n'a point d'or, qu'il faut être dur envers lui par caractère, insolent par principe. </s>
 	<s id='3'>L'intérêt personnel ne calcule que ce qu'un homme peut rendre à un autre, et il doit voir comme s'il n'existait pas celui qui n'ayant point d'or, ne lui est bon à rien.</s>
 </p>
 </sp>
@@ -3681,12 +3681,12 @@
 <p id='65'>
 	<s id='1'>J'ai cru vous entendre, mon cher cousin. </s>
 	<s id='2'>Permettez-moi de vous répondre. </s>
-	<s id='3'>Tout ce que j'aperçois ici est à ma belle sur ; vous la comblez de vos largesses ; le bien que vous lui faites n'excite en moi ni envie ni jalousie, je vous le proteste du fond de l'âme : au contraire, je jouis comme elle de son propre bonheur, et dans ce moment je ne veux, ne désire, ne demande, n'implore que son amitié et la vôtre.</s>
+	<s id='3'>Tout ce que j'aperçois ici est à ma belle soeur ; vous la comblez de vos largesses ; le bien que vous lui faites n'excite en moi ni envie ni jalousie, je vous le proteste du fond de l'âme : au contraire, je jouis comme elle de son propre bonheur, et dans ce moment je ne veux, ne désire, ne demande, n'implore que son amitié et la vôtre.</s>
 </p>
 </sp>
 <sp who='VANGLENNE'><speaker>VANGLENNE.</speaker>
 <p id='66'>
-	<s id='1'>Vous aimez votre belle-sur, madame ? </s>
+	<s id='1'>Vous aimez votre belle-soeur, madame ? </s>
 	<s id='2'>Vous demandez son amitié, vous vous réjouissez intérieurement du bien que je lui ai fait, et que je lui prépare ? </s>
 	<s id='3'>Vous voulez être son amie sincèrement ?</s>
 </p>
@@ -3695,7 +3695,7 @@
 <p id='67'>
 	<s id='1'>Oui, mon cher cousin.</s>
 </p>
-<stage>Embrassant Madame Milville.</stage>
+<stage type="[N/A]">Embrassant Madame Milville.</stage>
 <p id='68'>
 	<s id='1'>Je l'aime, et je lui en donnerai des marques dans toutes occasions... </s>
 	<s id='2'>Ne prenez pas, monsieur, les distractions, trop ordinaires dans le monde, pour de l'insensibilité.</s>
@@ -3705,23 +3705,23 @@
 <p id='69'>
 	<s id='1'>Vous l'aimez, et vous me l'assurez ? </s>
 	<s id='2'>Ah ! </s>
-	<s id='3'>Prenez garde ; je suis habile à lire sur les visages ce qui se passe au fond des curs... </s>
+	<s id='3'>Prenez garde ; je suis habile à lire sur les visages ce qui se passe au fond des coeurs... </s>
 	<s id='4'>Si je me suis trompé, comme cela se pourrait, si en effet la sensibilité réside encore au fond de votre âme, et que vous n'ayez été égarée, comme vous le dites, que par les distractions du monde, les usages journaliers que le luxe commande, que le faste établit, j'oublierai tout ; j'en suis capable ; je reviendrai véritablement à vous et sans aucun ressentiment... </s>
-	<s id='5'>Je ne suis, madame, ni injuste, ni vindicatif ; je sais qu'il y a des sentiments vertueux qui dorment en nous, sans être étouffés, et qui se réveillent, qui renaissent, quand les curs sont émus. </s>
-	<s id='6'>Je sais qu'il ne faut jamais désespérer du cur de l'homme, faible, mais bon, chez le grand nombre. </s>
+	<s id='5'>Je ne suis, madame, ni injuste, ni vindicatif ; je sais qu'il y a des sentiments vertueux qui dorment en nous, sans être étouffés, et qui se réveillent, qui renaissent, quand les coeurs sont émus. </s>
+	<s id='6'>Je sais qu'il ne faut jamais désespérer du coeur de l'homme, faible, mais bon, chez le grand nombre. </s>
 	<s id='7'>Hélas ! </s>
 	<s id='8'>nous avons tous trop besoin d'indulgence, pour ne pas apprendre a distinguer la faiblesse du vice, et l'erreur de la dureté... </s>
 	<s id='9'>Je vais donc jouir de votre retour à la sensibilité, et il me sera bien cher... </s>
 	<s id='10'>S'il est ainsi, tout sera oublié, et vous trouverez en moi un parent.</s>
 </p>
-<stage>Il sonne un domestique.</stage>
+<stage type="[N/A]">Il sonne un domestique.</stage>
 <p id='70'>
 	<s id='1'>Faites entrer.</s>
 </p>
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Acteurs Précédents, Un Notaire.</head>
-<stage>Le Notaire entre et donne un papier à Vanglenne.</stage>
+<stage type="[N/A]">Le Notaire entre et donne un papier à Vanglenne.</stage>
 <sp who='VANGLENNE'><speaker>VANGLENNE, se levant.</speaker>
 <p id='1'>
 	<s id='1'>Voici une donation entière de mes biens, que je fais à ma cousine. </s>
@@ -3757,9 +3757,9 @@
 </sp>
 <sp who='VANGLENNE'><speaker>VANGLENNE.</speaker>
 <p id='5'>
-	<s id='1'>Je comptais vivre ainsi avec vous, chère cousine ; mais la calomnie, cette ennemie irréconciliable des murs les plus chastes, ne tarderait pas à souiller la pureté de notre amitié, et elle y supposerait des liens qui nous déshonoreraient... </s>
+	<s id='1'>Je comptais vivre ainsi avec vous, chère cousine ; mais la calomnie, cette ennemie irréconciliable des moeurs les plus chastes, ne tarderait pas à souiller la pureté de notre amitié, et elle y supposerait des liens qui nous déshonoreraient... </s>
 	<s id='2'>Je veux la faire taire... </s>
-	<s id='3'>J'aspire enfin à m'unir à un cur que je suis bien sûr d'estimer à jamais.</s>
+	<s id='3'>J'aspire enfin à m'unir à un coeur que je suis bien sûr d'estimer à jamais.</s>
 </p>
 </sp>
 <sp who='MADAME MILVILLE'><speaker>MADAME MILVILLE.</speaker>
@@ -3789,7 +3789,7 @@
 </sp>
 <sp who='MADAME MILVILLE'><speaker>MADAME MILVILLE, avec sentiment.</speaker>
 <p id='10'>
-	<s id='1'>Ainsi que nos curs...</s>
+	<s id='1'>Ainsi que nos coeurs...</s>
 </p>
 </sp>
 <sp who='MADAME DORTIGNI'><speaker>MADAME DORTIGNI, à part.</speaker>
@@ -3800,22 +3800,22 @@
 <sp who='VANGLENNE'><speaker>VANGLENNE.</speaker>
 <p id='12'>
 	<s id='1'>Allons, madame, voilà le sceau éternel de la réconciliation, elle sera entière de mon côté : que la joie triomphe aujourd'hui, que tout autre sentiment s'efface... </s>
-	<s id='2'>Signez le bonheur de votre sur et le mien.... </s>
+	<s id='2'>Signez le bonheur de votre soeur et le mien.... </s>
 	<s id='3'>Tenez, prenez, voilà la plume ; et vous, monsieur, après, s'il vous plaît. </s>
 </p>
 </sp>
 <sp who='MADAME DORTIGNI'><speaker>MADAME DORTIGNI, prenant la plume. </speaker>
 <p id='13'>
 	<s id='1'>Ah ! </s>
-	<s id='2'>De tout mon cur.</s>
+	<s id='2'>De tout mon coeur.</s>
 </p>
-<stage>Approchant de la table.</stage>
+<stage type="[N/A]">Approchant de la table.</stage>
 <p id='14'>
 	<s id='1'>Pourrai-je me vaincre ?... </s>
 	<s id='2'>Essayons. </s>
 	<s id='3'>Ah !</s>
 </p>
-<stage>Elle grincera des dents, jettera un cri de rage étouffé, et tombera sans connoissance.</stage>
+<stage type="[N/A]">Elle grincera des dents, jettera un cri de rage étouffé, et tombera sans connaissance.</stage>
 <p id='15'>
 	<s id='1'>Dieu ! </s>
 	<s id='2'>Je n'en puis plus... </s>
@@ -3827,7 +3827,7 @@
 	<s id='1'>Est-il possible !... </s>
 	<s id='2'>Il faut du secours.</s>
 </p>
-<stage>Elle appellera.</stage>
+<stage type="[N/A]">Elle appellera.</stage>
 </sp>
 <sp who='DORTIGNI'><speaker>DORTIGNI.</speaker>
 <p id='17'>
@@ -3843,13 +3843,13 @@
 <p id='19'>
 	<s id=''>Qu'on la transporte.</s>
 </p>
-<stage>On l'emmène évanouie ; son mari et Madame Milville la suivent.</stage>
-<stage>Seul.</stage>
+<stage type="[N/A]">On l'emmène évanouie ; son mari et Madame Milville la suivent.</stage>
+<stage type="[N/A]">Seul.</stage>
 <p id='20'>
 	<s id='1'>Femme cruelle et lâche ! </s>
 	<s id='2'>Tu n'étais pas même digne de ma vengeance... </s>
 	<s id='3'>Je la regrette... </s>
-	<s id='4'>Oublions, dans le sein de l'amitié, qu'il existe des curs à ce point insensibles et envieux.</s>
+	<s id='4'>Oublions, dans le sein de l'amitié, qu'il existe des coeurs à ce point insensibles et envieux.</s>
 </p>
 </sp>
 </div2>

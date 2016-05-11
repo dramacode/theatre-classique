@@ -322,7 +322,7 @@
 	<l id="167">Il s'offre à vos filets, signalez votre effort.</l>
 	<l id="168">Pour convaincre les Dieux du choix qu'ils doivent faire,</l>
 	<l id="169">Et pour songer au mien, moi, je quitte ce bord.</l>
-<stage>Il s'en va.</stage>
+<stage type="exit">Il s'en va.</stage>
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III. Apollon, Vénus, Arlequin.</head>
@@ -452,7 +452,7 @@
 	<l id="232">Et mon juste dépit me chasse.</l>
 	<l id="233">Une mortelle aura peut-être le secret</l>
 	<l id="234">De venger ma disgrâce.</l>
-<stage>Elle sort.</stage>
+<stage type="exit">Elle sort.</stage>
 </sp>
 <sp who="APOLLON"><speaker>APOLLON.</speaker>
 	<l id="235">Honteux d'avoir tenté des efforts superflus,</l>
@@ -559,7 +559,7 @@
 	<l id="294">Arrêtez, point de violence.</l>
 	<l id="295">Là, soit, pour un moment et j'admets votre existence,</l>
 	<l id="296">Mais pour mieux affermir mon esprit chancelant,</l>
-<stage>Il tire de sa poche un demi Cercle, et le braque sur une canne qu'il tient à la main, et qui sert d'appui.</stage>
+<stage type="[N/A]">Il tire de sa poche un demi Cercle, et le braque sur une canne qu'il tient à la main, et qui sert d'appui.</stage>
 	<l id="297">Avec ce demi cercle agréez seulement,</l>
 	<l id="298">Que je mesure ici votre circonférence,</l>
 	<l id="299">Et prenne exactement chaque dimension.</l>
@@ -664,13 +664,13 @@
 	<l id="356">Déployer leur talents aux yeux des spectateurs,</l>
 	<l id="357">Et jouant avec les actrices,</l>
 	<l id="358">Chanter plus haut que les acteurs.</l>
-<stage>Il chante.</stage>
+<stage type="sing">Il chante.</stage>
 	<l id="359">Ah ! Belle Reine, est-il possible</l>
 	<l id="360">Que vous soyez sensible</l>
 	<l id="361">Pour un autre que moi ?</l>
 	<l id="362">Ah ! Belle Reine, est-il possible,</l>
 	<l id="363">Que je ne sois pas votre Roi ?</l>
-<stage>Il déclame.</stage>
+<stage type="[N/A]">Il déclame.</stage>
 	<l id="364">En un mot tous ces dons, qui parent ma figure ;</l>
 	<l id="365">C'est de vous seul que je les tiens.</l>
 </sp>
@@ -907,7 +907,7 @@
 	<l id="509">Il y paraît à vos manières.</l>
 	<l id="510">Vous caressez ainsi vos lèvres minaudières,</l>
 	<l id="511">Et voici comme vous marchez.</l>
-<stage>Il se promène et contrefait le Petit Maître.</stage>
+<stage type="[N/A]">Il se promène et contrefait le Petit Maître.</stage>
 </sp>
 <sp who="LE SUISSE"><speaker>LE SUISSE.</speaker>
 	<l id="512">Li marchir en catence,</l>
@@ -927,7 +927,7 @@
 </sp>
 <sp who='LE PETIT MAÎTRE'><speaker>LE PETIT MAÎTRE, d'un air ironique.</speaker>
 	<l id="520">Cette démarche est noble, et vous avez raison.</l>
-<stage>À Arlequin.</stage>
+<stage type="toward">À Arlequin.</stage>
 	<l id="521">Ah ! C'est trop m'éprouver. Seigneur, je vous supplie,</l>
 	<l id="522">De vous déterminer à partir avec moi,</l>
 	<l id="523">Et de quitter la raillerie,</l>
@@ -954,7 +954,7 @@
 	<l id="530">Moi me passir fort pien, Monsir Che ne scai quoi,  </l>
 	<l id="531">Pendant trente-cinq ans, moil'asre pu sans toi,</l>
 	<l id="532">Et li poire encor pien li reste de mon fie.</l>
-<stage>Il s'en va en pestant.</stage>
+<stage type="exit">Il s'en va en pestant.</stage>
 </sp>
 </div2>
 <div2 type="scene" n="7"><head>SCÈNE VII. Arlequin, Le Petit Maître.</head>
@@ -964,7 +964,7 @@
 	<l id="535">Une humeur brusque, un air sombre et sauvage.</l>
 	<l id="536">À Paris, aujourd'hui, vous seriez peu goûté ;</l>
 	<l id="537">Vous faites sagement de rester au village.</l>
-<stage>Il sort.</stage>
+<stage type="exit">Il sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n="8"><head>SCÈNE VIII. Arlequin, Le Public Féminin.</head>
@@ -1469,7 +1469,7 @@
 <sp who="LA DANSEUSE"><speaker>LA DANSEUSE.</speaker>
 	<l id="898">De Terpsicore, moi, je suis </l>
 	<l id="899">Une élève chérie.</l>
-<stage>Elle déclame.</stage>
+<stage type="[N/A]">Elle déclame.</stage>
 	<l id="900">Vers Vous, Seigneur, par ces divinités</l>
 	<l id="901">L'un et l'autre aujourd'hui nous sommes députés.</l>
 </sp>
@@ -1606,15 +1606,15 @@
 	<l id="990" part='f'>Vous sautez trop bien pour une femme.</l>
 </sp>
 <sp who="LA DANSEUSE"><speaker>LA DANSEUSE.</speaker>
-<stage>Air : que vous jugez mal.</stage>
-<stage>Un Saut.</stage>
+<stage type="music">Air : que vous jugez mal.</stage>
+<stage type="[N/A]">Un Saut.</stage>
 	<l id="991">Mon cher petit bonhomme.  </l>
 	<l id="992">Que vous jugez mal,</l>
 	<l id="993">Mon petit animal :</l>
 	<l id="994">Peut-on trouver un défaut,</l>
 	<l id="995">A Fille qui fait un saut,</l>
 	<l id="996">Deux sauts, etc.</l>
- <stage>Elle s'en va.</stage>
+ <stage type="exit">Elle s'en va.</stage>
 </sp>
 </div2>
 <div2 type="scene" n="11"><head>SCÈNE XI. Arlequin, Le Musicien.</head>
@@ -1636,7 +1636,7 @@
 	<l id="1005">Adieu. Je vous croyais le goût plus épuré :</l>
 	<l id="1006">Sachez, quand il s'agit de Musique et de Danse,</l>
 	<l id="1007">Que l'Art toujours doit être préféré.</l>
-<stage>Il chante en s'en allant.</stage>
+<stage type="sing">Il chante en s'en allant.</stage>
 	<l id="1008">Un Pigeon qui roucoule.</l>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN, le contrefait, et répète :</speaker>
@@ -1646,7 +1646,7 @@
 <div2 type="scene" n="12"><head>SCÈNE XII. Arlequin, Silvia.</head>
 <sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
 	<l id="1010">AH! le joli Tendron qu'ici je vois paroître!</l>
-<stage>À Silvia.</stage>
+<stage type="toward">À Silvia.</stage>
 	<l id="1011">Belle, qui vous envoye en ce Séjour champêtre?</l>
 </sp>
 <sp who="SILVIA"><speaker>SILVIA.</speaker>
@@ -1762,7 +1762,7 @@
 	<l id="1081">On vous applaudira sans cesse.</l>
 	<l id="1082">Moi je serai JE NE SÇAI QUOI,</l>
 	<l id="1083">Et vous serez JE NE SÇAI QU'EST-CE.</l>
-<stage>Il part avec Silvia.</stage>
+<stage type="[N/A]">Il part avec Silvia.</stage>
 </sp>
 </div2>
 <div2 type="scene" n="13"><head>SCÈNE XIII.</head>
@@ -1779,7 +1779,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="14"><head>SCÈNE XIV ET DERNIÈRE.</head>
-<stage>Le Théâtre change et représente une salle ornée de tout ce qui peut caractériser la Folie et l'Agrément, réunis ensemble. On mène en triomphe Arlequin avec Silvia.</stage>
+<stage type="decor">Le théâtre change et représente une salle ornée de tout ce qui peut caractériser la Folie et l'Agrément, réunis ensemble. On mène en triomphe Arlequin avec Silvia.</stage>
 <sp who="UN CALOTIN"><speaker>UN CALOTIN, chante.</speaker>
 	<l id="1093">Que le tambour, que la trompette,</l>
 	<l id="1094">Célèbrent de Momus le Triomphe éclatant,</l>
@@ -1794,14 +1794,14 @@
 	<l id="1101">Devant ce Dieu fléchissez les genoux,</l>
 	<l id="1102">Armés sa main de la marotte.</l>
 	<l id="1103">Qu'il règne ici: Momus n'en sera point jaloux.</l>
-<stage>Ici tous les Officiers de la Calotte vont rendre hommage à Arlequin, et lui présenter la Marotte, qu'il reçoit comiquement en faisant plusieurs lazzis.</stage>
+<stage type="[N/A]">Ici tous les Officiers de la Calotte vont rendre hommage à Arlequin, et lui présenter la Marotte, qu'il reçoit comiquement en faisant plusieurs lazzis.</stage>
 </sp>
 <sp who="UN CALOTIN"><speaker>UN CALOTIN.</speaker>
 	<l id="1104">Calotins ennuyeux, Calotins sans mérite,</l>
 	<l id="1105">Fuyez vite, on vous casse tous.</l>
 	<l id="1106">De notre régiment, on ne veut que l'élite,</l>
 	<l id="1107">Accourez seuls, aimable fous.</l>
-<stage>On danse.</stage>
+<stage type="danse">On danse.</stage>
 </sp>
 <sp who="UN CALOTIN"><speaker>UN CALOTIN.</speaker>
 	<l id="1108">Le partage du régiment</l>
@@ -1816,7 +1816,7 @@
 </div2>
 <div2 type="scene" n="15"><head>VAUDEVILLE.</head>
 <sp who="UN CALOTIN"><speaker>UN CALOTIN.</speaker>
-<stage>I.</stage>
+<stage type="[N/A]">I.</stage>
 	<l id="1116">À l'Univers rendons justice,</l>
 	<l id="1117">Même en dépit qu'il en ait,</l>
 	<l id="1118">De quelque façon qu'on agisse,</l>
@@ -1827,25 +1827,25 @@
 	<l id="1123">Que la calotte</l>
 	<l id="1124">Couvre la tête falote</l>
 	<l id="1125">Du genre humain.</l>
-<stage>II.</stage>
+<stage type="[N/A]">II.</stage>
 	<l id="1126">Un noble mange pour paraître</l>
 	<l id="1127">Principal et revenus.</l>
 	<l id="1128">Un riche heureux, s'il voulait l'être,</l>
 	<l id="1129">Meurt de faim sur ses écus.</l>
 	<l id="1130">Que la Marotte, etc.</l>
-<stage>III.</stage>
+<stage type="[N/A]">III.</stage>
 	<l id="1131">Un Pédant né désagréable</l>
 	<l id="1132">Prétend faire le galant.</l>
 	<l id="1133">Un Marquis ignorant, aimable,</l>
 	<l id="1134">Veut se donner pour savant,</l>
 	<l id="1135">Que la marotte, etc.</l>
-<stage>IV.</stage>
+<stage type="[N/A]">IV.</stage>
 	<l id="1136">Aujourd'hui l'Opéra nous frappe,</l>
 	<l id="1137">Demain les comédiens.</l>
 	<l id="1138">Après demain on nous attrape</l>
 	<l id="1139">Par les moindres petits riens.</l>
 	<l id="1140">Que la Marotte, etc.</l>
-<stage>V.</stage>
+<stage type="[N/A]">V.</stage>
 </sp>
 <sp who="ARLEQUIN"><speaker>ARLEQUIN, au Parterre.</speaker>
 	<l id="1141">Heureux Si le parterre affable  </l>

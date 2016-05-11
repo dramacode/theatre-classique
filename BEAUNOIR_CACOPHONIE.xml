@@ -252,7 +252,7 @@
 	<s id='5'>Laisse-moi; tranquille. </s>
 	<s id='6'>Chacun sait ses affaires ; je vais lui parler tout-à-l'heure.</s>
 </p>
-<stage>Il sort.</stage>
+<stage type="exit">Il sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Claudine, Lucette.</head>
@@ -264,7 +264,7 @@
 	<s id='4'>J'ai affaire ailleurs. </s>
 	<s id='5'>J'y vas bientôt retourner.</s>
 </p>
-<stage>Elle sort.</stage>
+<stage type="exit">Elle sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III.</head>
@@ -391,7 +391,7 @@
 	<s id='2'>Tiens, là-bas,... </s>
 	<s id='3'>Et je te reverrai.</s>
 </p>
-<stage>Il sort.</stage>
+<stage type="exit">Il sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V.</head>
@@ -420,7 +420,7 @@
 	<s id='2'>Lucette, viens ici, Lucette... </s>
 	<s id='3'>Fais donc la révérence à Monsieur Vuide-Gousset. </s>
 </p>
-<stage>Elle fait une très petite révérence.</stage>
+<stage type="[N/A]">Elle fait une très petite révérence.</stage>
 <p id='4'>
 	<s id='1'>Est-ce comme ça ? </s>
 	<s id='2'>Tout bas donc pour Monsieur le Procureux, jarnigoi !</s>
@@ -636,7 +636,7 @@
 <p id='16'>
 	<s id='1'>Et vous, sur la mienne.</s>
 </p>
-<stage>Il sort.</stage>
+<stage type="exit">Il sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='8'><head>SCÈNE VIII. Vuide-Gousset, Broutillard.</head>
@@ -913,7 +913,7 @@
 <p id='7'>
 	<s id='1'>On dit qu'il ne faut pas regarder derrière soi , que ça vous torderait le cou.</s>
 </p>
- <stage>Vuide-gousset détache le grison, et se passe la bride au cou.</stage>
+ <stage type="[N/A]">Vuide-gousset détache le grison, et se passe la bride au cou.</stage>
 <p id='8'>
 	<s id='1'>J'ai encore bien du chemin à faire avant de sortir de-là... </s>
 	<s id='2'>Je n'entends plus rien.... </s>
@@ -921,7 +921,7 @@
 	<s id='4'>Je ne sais pas si j'aurai la force de grimper dessus. </s>
 	<s id='5'>Voilà une grosse pierre qui m'aidera.</s>
 </p>
-<stage>Il se retourne et aperçoit le procureur. Il se jette en bas de frayeur.</stage>
+<stage type="[N/A]">Il se retourne et aperçoit le procureur. Il se jette en bas de frayeur.</stage>
 <p id='9'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Que vois-je ? </s>
@@ -1064,11 +1064,11 @@
 <p id='34'>
 	<s id='1'>Que trop bon ; car depuis que vous me servez de monture, je ne vous ai pas, je crois, donné dix coups de diguet... </s>
 </p>
-<stage>À part lui.</stage>
+<stage type="aparte">À part lui.</stage>
 <p id='35'>
 	<s id='1'>Si j'avais su que c'était un procureur, comme je l'aurais rossé...</s>
 </p>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 <p id='36'>
 	<s id='1'>Mais, là, dites : n'est-il pas vrai que je vous ai mené bien doucement ?</s>
 </p>
@@ -1122,7 +1122,7 @@
 	<s id='1'>À deux lieues d'ici ? </s>
 	<s id='2'>la Haute-Futaye.</s>
 </p>
-<stage>À part lui.</stage>
+<stage type="aparte">À part lui.</stage>
 <p id='45'>
 	<s id='1'>Il veut me rendre l'argent de mon grison.</s>
 </p>
@@ -1195,7 +1195,7 @@
 <p id='57'>
 	<s id='1'>Adieu, Monsieur.</s>
 </p>
-<stage>Vuide-gousset sort.</stage>
+<stage type="exit">Vuide-gousset sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='11'><head>SCÈNE XI. Gilles, se croyant seul ; Vincent, toujours sur la maison.</head>
@@ -1379,7 +1379,7 @@
 	<s id='1'>Allons donc, allons donc. </s>
 	<s id='2'>Je suis bien bon de t'écouter... </s>
 </p>
-<stage>À part lui.</stage>
+<stage type="aparte">À part lui.</stage>
 <p id='15'>
 	<s id=''>Il a la cervelle timbrée, le pauvre garçon.</s>
 </p>
@@ -1476,7 +1476,7 @@
 	<s id='4'>Je serai vengé du Procureur sur le grison..... </s>
 	<s id='5'>Allons-nous-en au Cheval blanc. </s>
 </p>
-<stage>II sort.</stage>
+<stage type="exit">II sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='14'><head>SCÈNE XIV. Silvestre, Claudine, Lucette.</head>
@@ -1484,7 +1484,7 @@
 <p id='1'>
 	<s id='1'>Il y a queuque chose là-dessous que je ne comprenons pas...</s>
 </p>
-<stage>Les apercevant.</stage>
+<stage type="[N/A]">Les apercevant.</stage>
 <p id='2'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Je vois notre femme et  note fille... </s>
@@ -1691,7 +1691,7 @@
 <p id='16'>
 	<s id='1'>Saurait-il quelque chose ?</s>
 </p>
-<stage>À Silvestre.</stage>
+<stage type="toward">À Silvestre.</stage>
 <p id='17'>
 	<s id='1'>Silvestre, renvoyez ce jeune étourdi-là, il en dit trop.</s>
 </p>
@@ -1841,7 +1841,7 @@
 	<s id='5'>Oh! </s>
 	<s id='6'>Je vous jure que je m'en plaindrai, soyez-en sûrs.</s>
 </p>
-<stage>En sortant.</stage>
+<stage type="[N/A]">En sortant.</stage>
 <p id='13'>
 	<s id='1'>Nous verrons, nous verrons. </s>
 	<s id='2'>Cela est affreux, cela est abominable.</s>
@@ -1869,7 +1869,7 @@
 	<s id='1'>Mais, mais, que lui dire ? </s>
 	<s id='2'>Payons d'effronterie. </s>
 </p>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 <p id='4'>
 	<s id='1'>Eh bien ! </s>
 	<s id='2'>Que l'on me fasse assigner, je répondrai. </s>

@@ -180,7 +180,7 @@
 <p id="22">
 	<s id="1">Le voilà.</s>
 </p>
-<stage>Il le lui donne.</stage>
+<stage type="[N/A]">Il le lui donne.</stage>
 <p id="23">
 	<s id="1">Placez-vous un peu pour voir.</s>
 </p>
@@ -357,18 +357,18 @@
 <p id="9">
 	<s id="1">Il faut que j'aille le chercher.</s>
 </p>
-<stage>Il sort.</stage>
+<stage type="exit">Il sort.</stage>
 </sp>
 <sp who="MONSIEUR DE SAINT-IVAL"><speaker>MONSIEUR DE SAINT-IVAL, paraissant.</speaker>
 <p id="10">
 	<s id="1">Ah ! </s>
 	<s id="2">Voilà le livre.</s>
 </p>
-<stage>Il le ramasse à terre.</stage>
+<stage type="[N/A]">Il le ramasse à terre.</stage>
 <p id="11">
 	<s id="1">Je vais me remettre en place.</s>
 </p>
-<stage>Il se met à la place de l'Abbé.</stage>
+<stage type="[N/A]">Il se met à la place de l'Abbé.</stage>
 </sp>
 <sp who="MONSIEUR DE LEURMONT"><speaker>MONSIEUR DE LEURMONT, ramenant Laurent.</speaker>
 <p id="12">
@@ -392,7 +392,7 @@
 	<s id="1">Que voulez-vous que je regarde ? </s>
 	<s id="2">Est-ce que ne le voilà pas votre Abbé ? </s>
 </p>
-<stage>Il travaille à la palissade.</stage>
+<stage type="[N/A]">Il travaille à la palissade.</stage>
 </sp>
 <sp who="MONSIEUR DE LEURMONT"><speaker>MONSIEUR DE LEURMONT.</speaker>
 <p id="16">
@@ -644,7 +644,7 @@
 <p id="1">
 	<s id="1">Ah !</s>
 </p>
-<stage>Elle tombe assise sur un banc, et elle continue de lire.</stage>
+<stage type="action/fall">Elle tombe assise sur un banc, et elle continue de lire.</stage>
 </sp>
 <sp who="MONSIEUR DE SAINT-IVAL"><speaker>MONSIEUR DE SAINT-IVAL, bas.</speaker>
 <p id="2">
@@ -656,7 +656,7 @@
 <p id="3">
 	<s id="1">Quel bonheur si...</s>
 </p>
-<stage>Elle baise la lettre et lit.</stage>
+<stage type="[N/A]">Elle baise la lettre et lit.</stage>
 </sp>
 <sp who="MONSIEUR DE SAINT-IVAL"><speaker>MONSIEUR DE SAINT-IVAL, bas.</speaker>
 <p id="4">
@@ -670,10 +670,10 @@
 	<s id="2">Ah ! </s>
 	<s id="3">Si c'étoit lui !</s>
 </p>
-<stage>Elle continue de lire.</stage>
+<stage type="[N/A]">Elle continue de lire.</stage>
 </sp>
 <sp who="MONSIEUR DE SAINT-IVAL"><speaker>MONSIEUR DE SAINT-IVAL chante à voix basse.</speaker>
-<stage>Air : Je suis Lindor, du Barbier de Séville.</stage>
+<stage type="music">Air : Je suis Lindor, du Barbier de Séville.</stage>
 	<l id="1">Tout reconnaît votre charmant empire, </l>
 	<l id="2">Vous inspirez l'amour le plus constant.</l>
 	<l id="3">Auprès de vous, que mon coeur est content, </l>
@@ -689,7 +689,7 @@
 	<l id="6">Ah ! Répondez, daignez combler mes voux :</l>
 	<l id="7">Vous me rendrez l'Amant le plus heureux !</l>
 	<l id="8">À vos genoux, voyez-moi chère Agathe.</l>
-<stage>Il se jette à genoux.</stage>
+<stage type="[N/A]">Il se jette à genoux.</stage>
 </sp>
 <sp who="MADEMOISELLE AGATHE"><speaker>MADEMOISELLE AGATHE.</speaker>
 <p id="7">
@@ -740,7 +740,7 @@
 <p id="4">
 	<s id="1">Ne craignez rien ; je vais me remettre à ma place.</s>
 </p>
-<stage>Il se remet en attitude.</stage>
+<stage type="[N/A]">Il se remet en attitude.</stage>
 </sp>
 <sp who="MADEMOISELLE AGATHE"><speaker>MADEMOISELLE AGATHE.</speaker>
 <p id="5">
@@ -851,7 +851,7 @@
 	<s id="1">Je te dis que je t'en prie. </s>
 	<s id="2">Adieu.</s>
 </p>
-<stage>Il la baise au front.</stage>
+<stage type="[N/A]">Il la baise au front.</stage>
 </sp>
 </div2>
 <div2 type="scene" n=""><head>SCÈNE VIII. Mademoiselle Agathe, Monsieur de Saint-Ival.</head>
@@ -963,7 +963,7 @@
 	<s id="1">Ah ! </s>
 	<s id="2">voyez mon repentir, il doit me rendre digne de votre pitié. </s>
 </p>
-<stage>À genoux.</stage>
+<stage type="toward">À genoux.</stage>
 <p id="21">
 	<s id="1">Ah ! </s>
 	<s id="2">Mademoiselle, je vous en supplie, daignez me regarder !</s>
@@ -1011,7 +1011,7 @@
 <p id="29">
 	<s id="1">Remettons-nous encore : peut-être trouverai-je un autre moment. </s>
 </p>
-<stage>Il reprend sa place.</stage>
+<stage type="[N/A]">Il reprend sa place.</stage>
 </sp>
 </div2>
 <div2 type="scene" n=""><head>SCÈNE IX. Monsieur de Saint-Ival, L'Échalas.</head>
@@ -1099,7 +1099,7 @@
 	<s id="2">J'ai la lettre de Monsieur de Leurmont dans ma poche. </s>
 	<s id="3">La voilà, et je vais la lire. </s>
 </p>
-<stage>Il veut lire.</stage>
+<stage type="[N/A]">Il veut lire.</stage>
 <p id="16">
 	<s id="1">Cela est singulier ! </s>
 	<s id="2">Je la lisais bien ce matin et ce soir.... </s>
@@ -1121,7 +1121,7 @@
 <p id="18">
 	<s id="1">Oui, Monsieur l'Échalas.</s>
 </p>
-<stage>Il rit.</stage>
+<stage type="laugh">Il rit.</stage>
 <p id="19">
 	<s id="1">Ah, ah, ah. </s>
 	<s id="2">Je m'étonnais d'entendre répéter mon nom c'est qu'il y a un écho sans doute ici. </s>
@@ -1139,7 +1139,7 @@
 	<s id="2">Le drôle de corps que cet écho ! </s>
 	<s id="3">Je vous prie, Monsieur l'Échalas. </s>
 </p>
-<stage>Il écoute.</stage>
+<stage type="[N/A]">Il écoute.</stage>
 <p id="22">
 	<s id="1">Il ne dit plus rien. </s>
 	<s id="2">De venir prendre la mesure de mon Abbé de Plâtre, pour lui faire une niche en treillage. </s>
@@ -1157,20 +1157,20 @@
 	<s id="2">Ah ! </s>
 	<s id="3">voilà un Monsieur il faut que je lui demande s'il ne sait pas où on l'a mis. </s>
 </p>
-<stage>Il note son chapeau et il approche.</stage>
+<stage type="[N/A]">Il note son chapeau et il approche.</stage>
 <p id="25">
 	<s id="1">Bon ! </s>
 	<s id="2">Eh ! </s>
 	<s id="3">Le voilà lui-même.</s>
 </p>
-<stage>Il rit.</stage>
+<stage type="laugh">Il rit.</stage>
 <p id="26">
 	<s id="1">Ah, ah, ah ! </s>
 	<s id="2">cela est plaisant ! </s>
 	<s id="3">Moi qui en ai tant vu, j'y ai été pris comme un autre. </s>
 	<s id="4">Allons, voyons, prenons nos mesures. </s>
 </p>
-<stage>Il met un pied sur la cuisse de l'Abbé, qui le fait tomber à terre, qui le bat avec sa règle, et qui se remet après à sa place. Monsieur l'Échalas à terre, dit :</stage>
+<stage type="[N/A]">Il met un pied sur la cuisse de l'Abbé, qui le fait tomber à terre, qui le bat avec sa règle, et qui se remet après à sa place. Monsieur l'Échalas à terre, dit :</stage>
  <p id="27">
 	<s id="1">Ah ! </s>
 	<s id="2">Mais ne badinons pas.</s>
@@ -1207,7 +1207,7 @@
 	<s id="1">Je ne vois personne. </s>
 	<s id="2">Il faut que je rêve apparemment.</s>
 </p>
-<stage>Il se relève et se rapproche.</stage>
+<stage type="[N/A]">Il se relève et se rapproche.</stage>
 </sp>
 <sp who="MONSIEUR DE SAINT-IVAL"><speaker>MONSIEUR DE SAINT-IVAL, lui donnant un coup de pied au cul.</speaker>
 <p id="34">
@@ -1228,7 +1228,7 @@
 	<s id="1">Ah ! </s>
 	<s id="2">Tu y reviens.</s>
 </p>
-<stage>Il lui donne un soufflet avec son livre.</stage>
+<stage type="[N/A]">Il lui donne un soufflet avec son livre.</stage>
 </sp>
 <sp who="MONSIEUR L'ÉCHALAS"><speaker>MONSIEUR L'ÉCHALAS.</speaker>
 <p id="37">
@@ -1441,7 +1441,7 @@
 	<s id="1">Allons, laisse-moi attendre le moment de la revoir. </s>
 	<s id="2">J'entends quelqu'un ; va-t-en, te dis-je. </s>
 </p>
-<stage>Il reprend sa position.</stage>
+<stage type="[N/A]">Il reprend sa position.</stage>
 </sp>
 <sp who="LABRIE"><speaker>LABRIE.</speaker>
 <p id="20">
@@ -1467,7 +1467,7 @@
 <p id="24">
 	<s id="1">Oui, je vais les écouter.</s>
 </p>
-<stage>Il sort.</stage>
+<stage type="exit">Il sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n="12"><head>SCÈNE XII. Monsieur de Leurmont, Monsieur de Saint-Ival père, Monsieur de Saint-Ival.</head>

@@ -5,14 +5,11 @@
 		<titleStmt>
 			<title>L'ORPHELIN DE LA CHINE, TRAGÉDIE</title>
 				<author born='1694' born_location='Paris' death='1778' death_location='Paris' academie='1746'>VOLTAIRE</author>
-
-
-			<date>1755</date>
 		</titleStmt>
 		<publicationStmt>
 			<authority>publié par Paul FIEVRE, novembre 2007</authority>
-		<idno></idno>
-</publicationStmt>
+			<idno>VOLTAIRE_ORPHELINDELACHINE</idno>
+		</publicationStmt>
 		<SourceDesc>
 			<genre>Tragédie</genre>
 			<inspiration>histoire chinoise</inspiration>
@@ -26,7 +23,7 @@
 </teiHeader>
 <text>
 <front>
-       <docTitle>
+     <docTitle>
 		<titlePart type="main">L'ORPHELIN DE LA CHINE</titlePart>
 				<titlePart type="sub">TRAGÉDIE</titlePart>
 	</docTitle>
@@ -795,7 +792,7 @@
 	<l id='500'>Elle occupe ce peuple, et le rend plus docile.</l>
 	<l id='501'>Octar, je vous destine à porter mes drapeaux</l>
 	<l id='502'>Aux lieux où le soleil renaît du sein des eaux.</l>
-<stage>À un de ses suivants.</stage>
+<stage type="toward">À un de ses suivants.</stage>
 	<l id='503'>Vous, dans l'Inde soumise, humble dans sa défaite,</l>
 	<l id='504'>Soyez de mes décrets le fidèle interprète,</l>
 	<l id='505'>Tandis qu'en occident je fais voler mes fils</l>
@@ -983,7 +980,7 @@
 </sp>
 <sp who='GENGIS'><speaker>GENGIS</speaker>
 	<l id='647'>De ce mystère enfin je dois être éclairci.</l>
-<stage>À sa suite.</stage>
+<stage type="toward">À sa suite.</stage>
 	<l id='648'>Oui, qu'elle vienne : allez, et qu'on l'amène ici.</l>
 	<l id='649'>Qu'elle ne pense pas que, par de vaines plaintes,</l>
 	<l id='650'>Des soupirs affectés, et quelques larmes feintes,</l>
@@ -1097,7 +1094,7 @@
 	<l id='711'>Que si le fils des rois par toi m'est enlevé,</l>
 	<l id='712'>Malgré ton imposture, il sera retrouvé ;</l>
 	<l id='713'>Que son trépas certain va suivre ton supplice.</l>
-<stage>À ses gardes.</stage>
+<stage type="toward">À ses gardes.</stage>
 	<l id='714'>Mais je veux bien le croire. Allez, et qu'on saisisse</l>
 	<l id='715'>L'enfant que cet esclave a remis en vos mains.</l>
 	<l id='716' part='i'>Frappez.</l>
@@ -1397,14 +1394,14 @@
 	<l id='904'>À sentir tout le poids de ma triste puissance :</l>
 	<l id='905'>Je cherchais Idamé ; je ne vois près de moi</l>
 	<l id='906'>Que ces chefs importuns qui fatiguent leur roi.</l>
-<stage>À sa suite.</stage>
+<stage type="toward">À sa suite.</stage>
 	<l id='907'>Allez, au pied des murs hâtez-vous de vous rendre ;</l>
 	<l id='908'>L'insolent coréen ne pourra nous surprendre ;</l>
 	<l id='909'>Ils ont proclamé roi cet enfant malheureux,</l>
 	<l id='910'>Et, sa tête à la main, je marcherai contre eux.</l>
 	<l id='911'>Pour la dernière fois que Zamti m'obéisse :</l>
 	<l id='912'>J'ai trop de cet enfant différé le supplice.</l>
-<stage>Il reste seul.</stage>
+<stage type="exit">Il reste seul.</stage>
 	<l id='913'>Allez. Ces soins cruels, à mon sort attachés,</l>
 	<l id='914'>Gênent trop mes esprits d'un autre soin touchés :</l>
 	<l id='915'>Ce peuple à contenir, ces vainqueurs à conduire,</l>
@@ -1904,10 +1901,10 @@
 <sp who='OCTAR'><speaker>OCTAR</speaker>
 	<l id='1287' part='f'>Idamé, demeurez :</l>
 	<l id='1288'>Attendez l'empereur en ces lieux retirés.</l>
-<stage>À sa suite.</stage>
+<stage type="toward">À sa suite.</stage>
 	<l id='1289'>Veillez sur ces enfants ; et vous à cette porte,</l>
 	<l id='1290'>Tartares, empêchez qu'aucun n'entre et ne sorte.</l>
-<stage>À Asséli.</stage>
+<stage type="toward">À Asséli.</stage>
 	<l id='1291' part='i'>Éloignez-vous.</l>
 </sp>
 <sp who='IDAME'><speaker>IDAMÉ</speaker>
@@ -2075,7 +2072,7 @@
 	<l id='1413'>Oui, j'y consens. Octar, veillez à cette porte.</l>
 	<l id='1414'>Vous, suivez-moi. Quel soin m'abaisse et me transporte !</l>
 	<l id='1415'>Faut-il encore aimer ? Est-ce là mon destin ?</l>
-<stage>Il sort.</stage>
+<stage type="exit">Il sort.</stage>
 </sp>
 <sp who='IDAME'><speaker>IDAMÉ</speaker>
 	<l id='1416'>Je renais, et je sens s'affermir dans mon sein</l>
@@ -2243,7 +2240,7 @@
 	<l id='1507'>Ainsi qu'à votre fils, je tiendrai lieu de père :</l>
 	<l id='1508'>Vous verrez si l'on peut se fier à ma foi.</l>
 	<l id='1509'>Je fus un conquérant, vous m'avez fait un roi.</l>
-<stage>À Zamti.</stage>
+<stage type="toward">À Zamti.</stage>
 	<l id='1510'>Soyez ici des lois l'interprète suprême ;</l>
 	<l id='1511'>Rendez leur ministère aussi saint que vous-même ;</l>
 	<l id='1512'>Enseignez la raison, la justice, et les moeurs.</l>

@@ -44,7 +44,7 @@
 	</front>
 <body>
 <div1 type="act" n='1'><head></head>
-<stage>Le théâtre représente un salon.</stage>
+<stage type="decor">Le théâtre représente un salon.</stage>
 <div2 type="scene" n='1'><head>SCÈNE I. Arlequin, Nérine.</head>
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 <p id="1">
@@ -189,12 +189,12 @@
 	<s id='4'>Je te prouverai que tu ne méritais pas une femme comme moi. </s>
 	<s id='5'>Et ne t'imagine pas que tu pourras rire avec ta nouvelle maîtresse et te moquer de mes chagrins : non, non ; je saurai me venger.</s>
 </p>
-<stage>Elle lui fait faire le tour du théâtre.</stage>
+<stage type="[N/A]">Elle lui fait faire le tour du théâtre.</stage>
 <p id="16">
 	<s id="1">Je découvrirai ma rivale, je vous poursuivrai tous les deux, j'allumerai ta jalousie et la sienne, je vous brouillerai, je vous rendrai malheureux l'un par l'autre, je ferai de votre ménage un enfer ; et ton tourment sera la seule occupation et le seul plaisir de ma vie. </s>
 	<s id='2'>Adieu.</s>
 </p>
-<stage>Elle sort.</stage>
+<stage type="exit">Elle sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II.</head>
@@ -207,7 +207,7 @@
 	<s id='5'>Heureusement je dois l'épouser demain : hé bien, malgré notre mariage, je sens que j'aurai toujours cette frayeur-là. </s>
 	<s id='6'>Mais la voici.</s>
 </p>
-<stage>Rosette sort de sa maison avec une boite à portrait à la main.</stage>
+<stage type="[N/A]">Rosette sort de sa maison avec une boite à portrait à la main.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Rosette, Arlequin.</head>
@@ -246,15 +246,15 @@
 	<s id='2'>Oui, c'est toi. </s>
 	<s id='3'>Tu es là.</s>
 </p>	
-<stage>Il montre le portrait.</stage>
+<stage type="[N/A]">Il montre le portrait.</stage>
 <p id='6'>
 	<s id='1'>Tu es là.</s>
 </p>
-<stage>Il montre Rosette.</stage>
+<stage type="[N/A]">Il montre Rosette.</stage>
 <p id='7'>
 	<s id='1'>Tu es ici.</s>
 </p>
-<stage>Il montre son coeur.</stage>
+<stage type="[N/A]">Il montre son coeur.</stage>
 <p id='8'>
 	<s id='1'>Tu es partout. </s>
 	<s id='2'>Je ne m'étonne plus si je te vois partout.</s>
@@ -272,12 +272,12 @@
 	<s id='3'>Oh ! </s>
 	<s id='4'>C'est bien toi.</s>
 </p>
-<stage>Il le baise.</stage>
+<stage type="[N/A]">Il le baise.</stage>
 <p id="11">
 	<s id="1">Plus je l'embrasse, plus j'ai envie de t'embrasser... </s>
 	<s id='2'>Mais non, je dois t'épouser demain ; je n'ai jamais volé personne, il ne faut pas commencer par moi.</s>
 </p>
-<stage>Il veut mettre le portrait dans sa poche.</stage>
+<stage type="[N/A]">Il veut mettre le portrait dans sa poche.</stage>
 </sp>
 <sp who='ROSETTE'><speaker>ROSETTE.</speaker>
 <p id="12">
@@ -329,7 +329,7 @@
 	<s id='2'>Adieu, ma bonne amie. </s>
 	<s id='3'>Tache de faire dépêcher ce peintre.</s>
 </p>
-<stage>Il s'en va.</stage>
+<stage type="exit">Il s'en va.</stage>
 </sp>
 <sp who='ROSETTE'><speaker>ROSETTE.</speaker>
 <p id="19">
@@ -351,7 +351,7 @@
 	<s id='1'>Oh ! </s>
 	<s id='2'>Je m'en vais adieu. </s>
 </p>
-<stage>Il revient.</stage>
+<stage type="[N/A]">Il revient.</stage>
 <p id='23'>
 	<s id='1'>Ma bonne amie, vous ne savez pas, j'ai une peur terrible de mourir avant d'être à demain. </s>
 	<s id='2'>Si je mourais, cela romprait-il notre mariage?</s>
@@ -378,7 +378,7 @@
 <p id='27'>
 	<s id='1'>Me voilà parti, adieu, ma chère Rosette.</s>
 </p>
-<stage>Il lui baise la main, et ôte son chapeau au portrait en disant.</stage>
+<stage type="[N/A]">Il lui baise la main, et ôte son chapeau au portrait en disant.</stage>
 <p id='28'>
 	<s id='1'>Adieu, monsieur mon ami.</s>
 </p>
@@ -392,12 +392,12 @@
 	<s id='3'>Allons vite faire achever ce portrait et puisqu'il perd à cause de moi tout ce que lui doit son maitre, je mettrai dans la boite tout l'argent dont je peux disposer. </s>
 	<s id='4'>Le plaisir le plus vif de l'amour, c'est de donner à celui qu'on aime.</s>
 </p>
-<stage>Rosette sort ; et l'on entend derrière la scène Arlequin cadet chanter : on le voit paraître avec une guitare sur la dos.</stage>
+<stage type="exit/entrance">Rosette sort ; et l'on entend derrière la scène Arlequin cadet chanter : on le voit paraître avec une guitare sur la dos.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V.</head>
 <sp who='ARLEQUIN CADET'><speaker>ARLEQUIN CADET, seul.</speaker>
-<stage>Il chante.</stage>
+<stage type="sing">Il chante.</stage>
 	<l id='1'>Toujours joyeux, toujours content,</l>
 	<l id='2'>Je sais braver la misère ;</l>
 	<l id='3'>Pour la rendre plus légère,</l>
@@ -427,7 +427,7 @@
 	<s id='10'>Il me vient une idée ; je vais frapper à toutes les portes que je verrai ; je finirai sûrement par trouver mon frère. </s>
 	<s id='11'>Voyons, commençons par celle-ci.</s>
 </p>
-<stage>Il frappe à la porte de Rosette. Rosette vient derrière lui.</stage>
+<stage type="[N/A]">Il frappe à la porte de Rosette. Rosette vient derrière lui.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Rosette, Arlequin Cadet. </head>
@@ -435,13 +435,13 @@
 <p id="1">
 	<s id="1">Ne frappe pas si fort ; tiens, voilà mon portrait, il est achevé.</s>
 </p>
-<stage>Elle lui donne la boîte.</stage>
+<stage type="[N/A]">Elle lui donne la boîte.</stage>
 <p id="2">
 	<s id="1">Je n'ai pas le temps de causer avec toi ; la nuit vient, il faut que je rentre dans ma maison. </s>
 	<s id='2'>Je t'attendrai demain à huit heures ; notre mariage sera pour neuf. </s>
 	<s id='3'>Adieu, mon ami d'ici là, pense toujours à Rosette.</s>
 </p>
-<stage>Elle rentre, et laisse Arlequin Cadet stupéfait, avec la boîte à la main.</stage>
+<stage type="[N/A]">Elle rentre, et laisse Arlequin Cadet stupéfait, avec la boîte à la main.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII.</head>
@@ -449,26 +449,26 @@
 <p id="1">
 	<s id="1">On m'avait bien dit que les demoiselles de Paris étaient fort prévenantes mais, par ma foi, je n'aurais jamais cru que ce fût à ce point-là.</s>
 </p>
-<stage>Il regarde le portrait.</stage>
+<stage type="[N/A]">Il regarde le portrait.</stage>
 <p id="2">
 	<s id="1">Elle est jolie mademoiselle Rosette ! </s>
 	<s id='2'>Mais cette boite me semble bien lourde.</s>
 </p>
-<stage>Il l'ouvre.</stage>
+<stage type="[N/A]">Il l'ouvre.</stage>
 <p id="3">
 	<s id="1">Des louis d'or ! </s>
 	<s id='2'>Elle est charmante, mademoiselle Rosette ! </s>
 	<s id='3'>La fortune ne m'a pas fait attendre longtemps dans ce pays-ci. </s>
 	<s id='4'>À peine débarqué, je trouve une jolie fille et de l'argent.</s>
 </p>
-<stage>Il compte les louis d'or.</stage>
+<stage type="[N/A]">Il compte les louis d'or.</stage>
 <p id="4">
 	<s id="1">Un, deux, trois, cinq. </s>
 	<s id='2'>Plus j'y pense, plus je la trouve aimable ; dix, neuf, sept. </s>
 	<s id='3'>Oh ! </s>
 	<s id='4'>Mon coeur est pour jamais à mademoiselle Rosette.</s>
 </p>
-<stage>Ici Nérine arrive, et vient doucement derrière Arlequin cadet, en l'écoutant parler ; celui-ci, après avoir remis l'argent dans la boîte, s'adresse au portrait.</stage>
+<stage type="[N/A]">Ici Nérine arrive, et vient doucement derrière Arlequin cadet, en l'écoutant parler ; celui-ci, après avoir remis l'argent dans la boîte, s'adresse au portrait.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='8'><head>SCÈNE VIII. Arlequin Cadet, Nérine.</head>
@@ -476,7 +476,7 @@
 <p id="1">
 	<s id="1">Oui, charmante Rosette, de toute mon âme je vous épouserai demain ; je vous aimerai, qui plus est ; vous avez des manières si séduisantes que jamais...</s>
 </p>
-<stage>Nérine lui arrache la boite avec fureur.</stage>
+<stage type="[N/A]">Nérine lui arrache la boite avec fureur.</stage>
 </sp>
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 <p id="2">
@@ -500,7 +500,7 @@
 	<s id="1">Tenez ! </s>
 	<s id='2'>L'on sait déjà mon mariage.</s>
 </p>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 <p id="6">
 	<s id="1">Oui, mademoiselle est-ce une raison pour me prendre mon bien ?</s>
 </p>
@@ -514,12 +514,12 @@
 	<s id='5'>Tu te méprises, tu comptes pour rien mon amour, mes larmes, mon désespoir ! </s>
 	<s id='6'>Rien ne m'arrête plus ; il est temps de venger mes injures.</s>
 </p>
-<stage>Elle le prend à la gorge, et le secoue rudement.</stage>
+<stage type="[N/A]">Elle le prend à la gorge, et le secoue rudement.</stage>
 <p id="8">
 	<s id="1">Il est temps d'étouffer le sentiment qui m'a retenue jusqu'ici. </s>
 	<s id='2'>Tu te repentiras de m'avoir trahie, tu gémiras de m'avoir perdue ; je veux te voi à mes genoux me demander pardon, pleurer, mourir de douleur, et je n'en serai que plus inflexible.</s>
 </p>
-<stage>Elle le jette contre une coulisse et s'en va.</stage>
+<stage type="[N/A]">Elle le jette contre une coulisse et s'en va.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='9'><head>SCÈNE IX.</head>
@@ -530,7 +530,7 @@
 	<s id='3'>C'est un singulier pays que celui-ci ! </s>
 	<s id='4'>On vous donne d'une main, et l'on vous reprend de l'autre.</s>
 </p>
-<stage>Il sort. Arlequin arrive du côté opposé.</stage>
+<stage type="exit">Il sort. Arlequin arrive du côté opposé.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='10'><head>SCÈNE X.</head>
@@ -542,7 +542,7 @@
 	<s id='4'>Cela ne devrait pas s'appeler de même. </s>
 	<s id='5'>Frappons a la porte.</s>
 </p>
-<stage>Il frappe.</stage>
+<stage type="[N/A]">Il frappe.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='11'><head>SCÈNE XI. Arlequin, Rosette à la fenêtre.</head>
@@ -589,7 +589,7 @@
 	<s id='1'>Je l'ai dans ma poche ! </s>
 	<s id='2'>Et qui l'y y aurait mis.</s>
 </p>
-<stage>Il se fouille.</stage>
+<stage type="[N/A]">Il se fouille.</stage>
 </sp>
 <sp who='ROSETTE'><speaker>ROSETTE.</speaker>
 <p id="9">
@@ -626,7 +626,7 @@
 <p id="15">
 	<s id="1">Très volontiers; ce ne sera pas pour longtemps, car voilà la nuit.</s>
 </p>
-<stage>Elle descend.</stage>
+<stage type="[N/A]">Elle descend.</stage>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN, à part.</speaker>
 <p id="15">
@@ -693,7 +693,7 @@
 	<s id='2'>Je ne l'ai pas mérité ; j'ai fait pour toi tout ce que j'ai pu faire / tu désirais mon portrait, je te l'ai donné avec autant de plaisir que tu m'en as marqué en le recevant. </s>
 	<s id=''>Tu l'as, garde le : n'en parlons plus, et je te souhaite le bonsoir.</s>
 </p>
-<stage>Elle veut s'en aller, Arlequin la retient.</stage>
+<stage type="[N/A]">Elle veut s'en aller, Arlequin la retient.</stage>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
 <p id='27'>
@@ -802,7 +802,7 @@
 <p id='45'>
 	<s id='1'>Non sans doute ; et je vous réponds de ne pas me faire attendre.</s>
 </p>
-<stage>Elle rentre chez elle, il fait nuit voilà tout.</stage>
+<stage type="[N/A]">Elle rentre chez elle, il fait nuit voilà tout.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='12'><head>SCÈNE XII.</head>
@@ -812,7 +812,7 @@
 	<s id='2'>Or, comme il pourrait fort bien m'escamoter aussi Rosette, je m'en vais me coucher à sa porte, et attendre le bienheureux jour de demain. </s>
 	<s id='3'>Je ne bouge pas d'ici.</s>
 </p>
-<stage>Il s'assied à la porte de Rosette.</stage>
+<stage type="[N/A]">Il s'assied à la porte de Rosette.</stage>
 <p id='2'>
 	<s id='1'>Je ne ferme pas l'oeil de toute la nuit : je m'en vais garder ma maitresse comme j'aurais dû garder son portrait, et nous verrons qui sera le plus fin du diable ou de l'amour.</s>
 </p>
@@ -838,7 +838,7 @@
 	<s id='2'>En conscience, elle peut bien me donner à souper la veille de notre mariage. </s>
 	<s id='3'>Voyons.</s>
 </p>
-<stage>Il prépare sa guitare.</stage>
+<stage type="[N/A]">Il prépare sa guitare.</stage>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN, se levant.</speaker>
 <p id='4'>
@@ -852,7 +852,7 @@
 	<s id='3'>Rosette vaut mieux, elle donne au lieu de prendre. </s>
 	<s id='4'>Allons, chantons-lui quelque joli couplet quand on veut plaire, et qu'on n'a pas beaucoup d'amour, il faut tâcher d'avoir un peu d'esprit.</s>
 </p>
-<stage>Il accorde sa guitare.</stage>
+<stage type="[N/A]">Il accorde sa guitare.</stage>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN, aiguise sa batte sur la terre.</speaker>
 <p id='5'>
@@ -931,7 +931,7 @@
 <p id='11'>
 	<s id='1'>Tu demandes encore un couplet ?</s>
 </p>
-<stage>Il chante.</stage>
+<stage type="sing">Il chante.</stage>
 	<l id='25'>Pourquoi veux-tu que ma bouche répète</l>
 	<l id='26'>Le doux serment dont mon coeur est lié ?</l>
 	<l id='27'>Regarde-toi, ma charmante Rosette,</l>
@@ -941,7 +941,7 @@
 <p id='11'>
 	<s id='1'>Ce drôle-là me fera mourir de chagrin, mais je ne mourrai pas sans m'être vengé.</s>
 </p>
-<stage>Il donne des coups de batte à son frère.</stage>
+<stage type="[N/A]">Il donne des coups de batte à son frère.</stage>
 <p id='12'>
 	<s id='1'>Voici ma musique à moi.</s>
 </p>
@@ -987,7 +987,7 @@
 	<s id='2'>Ce n'est qu'a ceux que l'on estime encore que l'on fait des reproches, et je n'ai rien à vous reprocher. </s>
 	<s id='3'>Adieu.</s>
 </p>
-<stage>Il s'éloigne ; dans le moment Nérine paraît.</stage>
+<stage type="[N/A]">Il s'éloigne ; dans le moment Nérine paraît.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='16'><head>SCÈNE XVI. Arlequin, Rosette, Nérine.</head>
@@ -1001,7 +1001,7 @@
 	<s id='1'>Mais que parles-tu de perfidie ? </s>
 	<s id='2'>Arlequin, mon cher Arlequin, écoute-moi.</s>
 </p>
-<stage>Ici Arlequin cadet, qui s'était enfui, arrive ; entendant les derniers mots de Rosette, il va du coté de Nérine.</stage>
+<stage type="[N/A]">Ici Arlequin cadet, qui s'était enfui, arrive ; entendant les derniers mots de Rosette, il va du coté de Nérine.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='17'><head>SCÈNE XVII. Arlequin, Arlequin Cadet, Nérine, Rosette.</head>
@@ -1069,7 +1069,7 @@
 <p id='13'>
 	<s id='1'>Oh! je te tiens; tu ne m échapperas pas.</s>
 </p>
-<stage>Arlequin cadet se trouve entre Rosette et Nérine.</stage>
+<stage type="[N/A]">Arlequin cadet se trouve entre Rosette et Nérine.</stage>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN, s'en allant dans la maison de Rosette.</speaker>
 <p id='14'>
@@ -1120,7 +1120,7 @@
 	<s id='1'>Ah ! </s>
 	<s id='2'>Mon cher frère, c'est toi !</s>
 </p>
-<stage>Ils s'embrassent.</stage>
+<stage type="[N/A]">Ils s'embrassent.</stage>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
 <p id='4'>
@@ -1131,7 +1131,7 @@
 <p id='5'>
 	<s id='1'>Quelle ressemblance mais mon coeur n'en est pas la dupe.</s>
 </p>
-<stage>Elle prend la main de l'aîné.</stage>
+<stage type="[N/A]">Elle prend la main de l'aîné.</stage>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
 <p id='6'>
@@ -1149,7 +1149,7 @@
 <p id='7'>
 	<s id='1'>D'après ce qu'il vous dit, mademoiselle, il me semble que vous pourriez troquer ce portrait-là contre l'original du mien.</s>
 </p>
-<stage>Il montre son frère.</stage>
+<stage type="[N/A]">Il montre son frère.</stage>
 </sp>
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 <p id='8'>
@@ -1221,7 +1221,7 @@
 	<l id='54'>L'amitié vaut bien les amours ;</l>
 	<l id='55'>Et si votre soeur vous est chère,</l>
 	<l id='56'>Je vous reconnaîtrai toujours.</l>
-<stage>À Arlequin.</stage>
+<stage type="toward">À Arlequin.</stage>
 	<l id='57'>Je devais me laisser surprendre,</l>
 	<l id='58'>L'amour n'a-t-il pas un bandeau ?</l>
 	<l id='59'>Si mon coeur a pu se méprendre,</l>

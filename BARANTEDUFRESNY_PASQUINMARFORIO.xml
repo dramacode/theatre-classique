@@ -85,7 +85,7 @@
 	<s id='16'>Mais la fortune qui a résolu ma perte, l'a fait noyer dans le naufrage que nous avons fait sur mer. </s>
 	<s id='17'>Si je trouvais encore quelque compagnon dans cette Ville, je me consolerais de ma mauvaise fortune ; car, comme dit le Philosophe : Solatium est miseris socios habere poenarum.</s>
 </p>
-<stage>Scaramouche vient en roulant un quartaut de vin d'Italie, qu'il dit avoir adroitement volé sur le Port. Pasquin qui l'a observé, feint d'être un des Commis aux Aides, qui réclame le quartaut. Scaramouche épouvanté s'enfuit, et en s'en allant laisse tomber un forêt. Pasquin ramasse le foret, et perce le tonneau qui ne rend rien. Pasquin croyant que le tonneau n'a pas assez d'évent, en ôte un cerceau, et aussitôt les douves tombent, et Marforio sort du tonneau. Pasquin le reconnaît, et ils s'embrassent. Scaramouche revient, qui, après les avoir reconnus, les console, et leur dit qu'Octave et Léandre ses Maîtres sachant qu'ils devaient arriver, ont fait préparer un magnifique repas pour les régaler ; et en attendant il appelle le Cuisinier ; et lui demande de leur donner tout ce qu'ils demandent, et s'en va.</stage>
+<stage type="action/exit">Scaramouche vient en roulant un quartaut de vin d'Italie, qu'il dit avoir adroitement volé sur le Port. Pasquin qui l'a observé, feint d'être un des Commis aux Aides, qui réclame le quartaut. Scaramouche épouvanté s'enfuit, et en s'en allant laisse tomber un forêt. Pasquin ramasse le foret, et perce le tonneau qui ne rend rien. Pasquin croyant que le tonneau n'a pas assez d'évent, en ôte un cerceau, et aussitôt les douves tombent, et Marforio sort du tonneau. Pasquin le reconnaît, et ils s'embrassent. Scaramouche revient, qui, après les avoir reconnus, les console, et leur dit qu'Octave et Léandre ses Maîtres sachant qu'ils devaient arriver, ont fait préparer un magnifique repas pour les régaler ; et en attendant il appelle le Cuisinier ; et lui demande de leur donner tout ce qu'ils demandent, et s'en va.</stage>
 <note type="L">Douve : piece de bois merrain qui est propre à faire des tonneaux, des cuves, et autres vaisseaux. [F]</note>
 <note type="L">Merrain : bois préparé pour faire les douves des tonneaux.</note>
 </sp>
@@ -242,7 +242,7 @@
 <p id='24'>
 	<s id='1'>Et sers-nous en terre à potier si tu veux, pourvu que nous mangions.</s>
 </p>
-<stage>Ils le chassent en le battant, et le suivent. </stage>
+<stage type="[N/A]">Ils le chassent en le battant, et le suivent. </stage>
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III.</head>
@@ -382,7 +382,7 @@
 	<s id='5'>Fuyons, fuyons ces vilaines gens-là. </s>
 	<s id='6'>Mon équipage, un fiacre, un fiacre ?</s>
 </p>
-<stage>Elle sort. </stage>
+<stage type="exit">Elle sort. </stage>
 </sp>
 <sp who='LE-DOCTEUR'><speaker>LE DOCTEUR.</speaker>
 <p id='15'>
@@ -409,7 +409,7 @@
 <p id='1'>
 	<s id='1'>Que diantre, Monsieur, faites donc taire votre fille ? Elle veut que je la serve en Musique ; elle me chante toujours aux oreilles : </s>
 </p>
-<stage>Il chante. </stage>
+<stage type="sing">Il chante. </stage>
 	<l id='1'>Pierrot, je veux sortir, Baille-moi mon écharpe. </l>
 	<l id='2'>As-tu décrotté mes souliers ?</l>
 <p id='2'>
@@ -452,7 +452,7 @@
 	<s id='1'>J'y ai fait mes cinq ou six sens de nature ; et je l'ai avertie plusieurs fois, que plus une fille chantait, plus on croyait qu'elle faisait pis. </s>
 	<s id='2'>Savez-vous bien ce qu'elle me répond à tout cela ? </s>
 </p>
-<stage>Il chante.</stage>
+<stage type="sing">Il chante.</stage>
 	<l id='3'>Tais-toi, tu n'es qu'un sot. </l>
 <p id='9'>
 	<s id='1'>Dame, Monsieur, je ne suis pas accoutumé qu'on me dise des injures en Musique. </s>
@@ -493,11 +493,11 @@
 <p id='15'>
 	<s id='1'>Sauvons-nous avec Hippocrate. </s>
 </p>
-<stage>Octave et Léandre viennent avec Scaramouche, et le prient de recommander leurs intérêts à Pasquin et à Marforio. Après qu'ils se sont retirés Pasquin arrive. Scaramouche lui annonce l'arrivée de la Vérité et de la Médisance qui le cherchent.</stage>
+<stage type="[N/A]">Octave et Léandre viennent avec Scaramouche, et le prient de recommander leurs intérêts à Pasquin et à Marforio. Après qu'ils se sont retirés Pasquin arrive. Scaramouche lui annonce l'arrivée de la Vérité et de la Médisance qui le cherchent.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII. Pasquin, La Vérité. </head>
-<stage>Le Théâtre représente une rivière. On voit La Vérité dans une magnifique gondole, qui avance jusqu'au bord du théâtre, au son des instruments. </stage>
+<stage type="decor">Le théâtre représente une rivière. On voit La Vérité dans une magnifique gondole, qui avance jusqu'au bord du théâtre, au son des instruments. </stage>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 	<l id='4'>Quoi ! C'est la Vérité ma fidèle compagne ? </l>
 	<l id='5'>Quel dessein vous oblige à battre la campagne ? </l>
@@ -628,7 +628,7 @@
 	<l id='87'>Partout elle me suit. </l>
 	<l id='88'>Je l'entends, elle vient me faire une querelle. </l>
 	<l id='89'>Je suis, si tu l'en crois, bien plus méchante qu'elle. </l>
-<stage>La Gondole se change en un antre affreux, d'où sort la médisance, qui chante : </stage>
+<stage type="[N/A]">La Gondole se change en un antre affreux, d'où sort la médisance, qui chante : </stage>
 </sp>
 <sp who='LA-MÉDISANCE'><speaker>LA MÉDISANCE.</speaker>
 	<l id='90'>Non, ce n'est point la Médisance ; </l>
@@ -771,7 +771,7 @@
 <p id='2'>
 	<s id='1'>Je le veux.</s>
 </p>
-<stage>Il lit. </stage>
+<stage type="read">Il lit. </stage>
 	<l id='186'>Pourquoi cet homme d'importance, </l>
 	<l id='187'>Superbe et bouffi d'arrogance, </l>
 	<l id='188'>Fait-il si bien claquet son fouet ? </l>
@@ -859,7 +859,7 @@
 <p id='6'>
 	<s id='1'>Marforisons.</s>
 </p>
-<stage>Il chante. </stage>
+<stage type="sing">Il chante. </stage>
 	<l id='217'>Noblesse n'est que vétille, </l>
 	<l id='218'>Jean Gille, Gille joli Jean, </l>
 	<l id='219'>Un Roturier pour la fille, </l>
@@ -896,7 +896,7 @@
 <p id='9'>
 	<s id='1'>À moi.</s>
 </p>
-<stage>Il chante. </stage>
+<stage type="sing">Il chante. </stage>
 	<l id='236'>Fille qui chante est habile, </l>
 	<l id='237'>Jean Gille, Gille joli Jean, </l>
 	<l id='238'>Fille qui chante est docile, </l>
@@ -916,7 +916,7 @@
 	<s id='2'>Nous allons nous déguiser mon camarade et moi, et nous agirons comme il faut pour vos intérêts.</s>
 </p>
 <note type="L">Petit-maître : jeune homme qui a de la recherche dans sa parure, et un ton avantageux avec les femmes. [L]</note>
-<stage>Ils sortent ensemble. Scaramouche arrive qui trouve le secret de présenter une lettre à Julie en présence du Docteur. Après qu'ils sont sortis, Pasquin et Marforio arrivent déguisés, l'un en petit-maître, l'autre en Page.</stage>
+<stage type="exit/action">Ils sortent ensemble. Scaramouche arrive qui trouve le secret de présenter une lettre à Julie en présence du Docteur. Après qu'ils sont sortis, Pasquin et Marforio arrivent déguisés, l'un en petit-maître, l'autre en Page.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Octave, Léandre, Pasquin en Petit Maître, Marforio en Page, Scaramouche, Julie, qui survient. </head>
@@ -949,7 +949,7 @@
 	<s id='2'>Je souffrirais trop des duretés que vous allez dire à Angélique. </s>
 	<s id='3'>Adieu.</s>
 </p>
-<stage>Il sort avec Léandre et Scaramouche.</stage>
+<stage type="exit">Il sort avec Léandre et Scaramouche.</stage>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <p id='6'>
@@ -979,7 +979,7 @@
 <p id='10'>
 	<s id='1'>Oh je sais qu'il faut se précipiter sur l'un des bras du fauteuil, comme si on jouait au cheval fondu.</s>
 </p>
-<stage>Il se jette sur un bras du fauteuil.</stage>
+<stage type="[N/A]">Il se jette sur un bras du fauteuil.</stage>
 </sp>
 <sp who='MARFORIO'><speaker>MARFORIO.</speaker>
 <p id='11'>
@@ -1014,7 +1014,7 @@
 	<s id='2'>Jette un côté de ta perruque, fredonne une courante, bats la mesure d'un rigodon, enfonce-toi dans le fauteuil, fais-en une balançoire. </s>
 	<s id='3'>Mais voilà Angélique, je vais lui faire l'ambassade.</s>
 </p>
-<stage>À Angélique qui arrive. </stage>
+<stage type="toward">À Angélique qui arrive. </stage>
 <note type="L">Ambassade : signifie aussi en termes familiers, un petit message qu'on fait faire par un ami, ou par un domestique pour quelque petite négociation, et particulierement d'amour. [F]</note>
 <p id='16'>
 	<s id='1'>Madame, votre beauté fait plus de bruit que toutes les cloches de Paris. </s>
@@ -1032,18 +1032,18 @@
 	<s id='1'>Comment ? </s>
 	<s id='2'>C'est un des plus fins gourmets de beauté qui soit dans le vignoble de la galanterie.</s>
 </p>
-<stage>À Pasquin. </stage>
+<stage type="toward">À Pasquin. </stage>
 <p id='19'>
 	<s id='1'>Allons, Monsieur, saluez Madame. </s>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN, chantant sans regarder Angélique. </speaker>
 	<l id='250'>Robin ture lure.</l>
-<stage>Regardant Angélique. </stage>
+<stage type="[N/A]">Regardant Angélique. </stage>
 <p id='20'>
 	<s id='1'>Ah : Vous voilà la belle. </s>
 </p>
-<stage>À Angélique. </stage>
+<stage type="toward">À Angélique. </stage>
 <p id='21'>
 	<s id='1'>Page, qu'on lui donne un siège, s'il y en a.</s>
 </p>
@@ -1080,14 +1080,14 @@
 <p id='27'>
 	<s id='1'>Quel monologue faites-vous là ? </s>
 </p>
-<stage>À Marforio. </stage>
+<stage type="toward">À Marforio. </stage>
 <note type="L">Poil de souris : Couleur gris de souris, se dit d'un gris argenté.
 Cheval souris, cheval de cette couleur. [L] </note>
 <p id='28'>
 	<s id='1'>Page ? </s>
 	<s id='2'>Le cheval poil de souris souffle-t-il toujours beaucoup ? </s>
 </p>
-<stage>Vers Angélique. </stage>
+<stage type="[N/A]">Vers Angélique. </stage>
 <p id='29'>
 	<s id='1'>Il a une difficulté de respirer qui l'empêche de parler. </s>
 	<s id='2'>C'est une fort bonne bête, je serais fâché qu'il en vînt faute.</s>
@@ -1118,11 +1118,11 @@ Cheval souris, cheval de cette couleur. [L] </note>
 	<s id='1'>Cela, il n'est pas trop joli. </s>
 	<s id='2'>Page, parcours-moi ce visage-là d'un bout à l'autre, après tu m'en feras le rapport.</s>
 </p>
-<stage>À Angélique. </stage>
+<stage type="toward">À Angélique. </stage>
 <p id='34'>
 	<s id='1'>Laissez le faire, Madame, il s'y connaît. </s>
 </p>
-<stage>Marforio après avoir regardé Angélique sous le nez, chante. </stage>
+<stage type="[N/A]">Marforio après avoir regardé Angélique sous le nez, chante. </stage>
 </sp>
 <sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE, à Pasquin.</speaker>
 <p id='35'>
@@ -1175,7 +1175,7 @@ Cheval souris, cheval de cette couleur. [L] </note>
 	<s id='1'>Il a raison. </s>
 	<s id='2'>Vous ne sauriez pas même assez belle pour un Page.</s>
 </p>
-<stage>Ils s'en vont.</stage>
+<stage type="[N/A]">Ils s'en vont.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Le Docteur, Julie qui chante toujours. </head>
@@ -1244,7 +1244,7 @@ Cheval souris, cheval de cette couleur. [L] </note>
 	<l id='270'>Si je parlais, je vous dirais peut-être </l>
 	<l id='271'>Que lasse d'être fille, je veux être... </l>
 	<l id='272'>Ah ne me faites point parler !</l>
-<stage>Elle s'en va. </stage>
+<stage type="exit">Elle s'en va. </stage>
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Le Docteur, Pierrot, Pasquin. </head>
@@ -1364,7 +1364,7 @@ Cheval souris, cheval de cette couleur. [L] </note>
 	<s id='1'>Entrez dans ma Manufacture. </s>
 	<s id='2'>Je m'en vais vous faire voir tous les Ancêtres de votre Gendre futur.</s>
 </p>
-<stage>On ouvre, et on voit un Arbre généalogique chargé de plusieurs Médailles qui représentent des Héros.</stage>
+<stage type="[N/A]">On ouvre, et on voit un Arbre généalogique chargé de plusieurs Médailles qui représentent des Héros.</stage>
 </sp>
 <sp who='LA-GÉNÉALOGIE'><speaker>LA GÉNÉALOGIE s'avance et chante. </speaker>
 	<l id='273'>Dans cet Arbre chargé d'une noble chimère, </l>
@@ -1380,7 +1380,7 @@ Cheval souris, cheval de cette couleur. [L] </note>
 <p id='3'>
 	<s id='1'>Vous ne voyez là que l'écorce de cette Généalogie, je vais vous en faire pénétrer le fond.</s>
 </p>
-<stage>Les Médailles changent et représentent des artisans.</stage>
+<stage type="[N/A]">Les Médailles changent et représentent des artisans.</stage>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <note type="L">Maille : Ce mot signifie quelquefois une monnoie de peu de valeur. [T]</note>
@@ -1510,7 +1510,7 @@ Cheval souris, cheval de cette couleur. [L] </note>
 <p id='7'>
 	<s id='1'>En effet la coquetterie pour plaire est plus utile que la beauté, et je vous le prouve.</s>
 </p>
-<stage>Il chante. </stage>
+<stage type="sing">Il chante. </stage>
 	<l id='327'>Mère dont la fille est jeunette, </l>
 	<l id='328'>Et qui veut la landerira, </l>
 	<l id='329'>Qui veut voir sa fortune faite, </l>
@@ -1552,7 +1552,7 @@ Cheval souris, cheval de cette couleur. [L] </note>
 <p id='11'>
 	<s id='1'>Nous ne saurions vous rien dire là-dessus, mais nous allons vous montrer des glaces qui ne flattent point. Holà, ho, qu'on apporte un miroir.</s>
 </p>
-<stage>On apporte un grand Miroir, Angélique s'y voit fort laide, et s'en va toute fâchée. </stage>
+<stage type="[N/A]">On apporte un grand Miroir, Angélique s'y voit fort laide, et s'en va toute fâchée. </stage>
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Pierrot, le Docteur. </head>
@@ -1588,7 +1588,7 @@ Cheval souris, cheval de cette couleur. [L] </note>
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Pasquin, Pierrot, le Docteur. </head>
-<stage>Pasquin se promène à grands pas sans regarder personne. </stage>
+<stage type="[N/A]">Pasquin se promène à grands pas sans regarder personne. </stage>
 <sp who='LE-DOCTEUR'><speaker>LE DOCTEUR.</speaker>
 <p id='1'>
 	<s id='1'>Monsieur Pasquin, écoutez-moi. </s>
@@ -1684,7 +1684,7 @@ Fuis dans ma chambre. </note>
 <p id='2'>
 	<s id='1'>Monsieur, voilà le rondeau, guérissez-la.</s>
 </p>
-<stage>Le Docteur et Pierrot s'en vont. </stage>
+<stage type="[N/A]">Le Docteur et Pierrot s'en vont. </stage>
 </sp>
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker>
 <p id='3'>
@@ -1914,7 +1914,7 @@ Fuis dans ma chambre. </note>
 <p id='8'>
 	<s id='1'>Je vais faire ouvrir ma Boutique, peut-être y seront-ils avec les autres.</s>
 </p>
-<stage>On ouvre, et on voit une Boutique d'Apothicaire remplie de muids et de bouteilles de vin. </stage>
+<stage type="[N/A]">On ouvre, et on voit une Boutique d'Apothicaire remplie de muids et de bouteilles de vin. </stage>
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Léandre, Julie, Le Docteur, Pasquin. </head>
@@ -1942,7 +1942,7 @@ Fuis dans ma chambre. </note>
 <p id='3'>
 	<s id='1'>Je vais vous dire par un apologue, ce qu'il faut faire pour l'empêcher de chanter.</s>
 </p>
-<stage>FABLE. </stage>
+<stage type="[N/A]">FABLE. </stage>
 <note type="L">Rossignolette : femelle du rossignol. [T]</note>
 	<l id='354'>Un jeune Rossignol et sa Rossignolette, </l>
 	<l id='355'>Par mainte et mainte Chansonnette, </l>

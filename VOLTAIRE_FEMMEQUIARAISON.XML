@@ -195,7 +195,7 @@
 	<l id='94'>Soyez sensible aux feux d'une si pure flamme ;</l>
 	<l id='95'>Vous l'avez allumée, et vous ne voudrez point</l>
 	<l id='96'>Voir mourir sans s'unir ce que vous avez joint.</l>
-<stage>À Érise.</stage>
+<stage type="toward">À Érise.</stage>
 	<l id='97'>Parlez donc, aidez-moi. Qu'avez-vous à sourire?</l>
 </sp>
 <sp who='ÉRISE'><speaker>ÉRISE.</speaker>
@@ -392,7 +392,7 @@
 	<l id='189'>Ma fille est votre bru, mon fils est votre gendre ;</l>
 	<l id='190'>Ils le seront du moins, et sans beaucoup attendre.</l>
 	<l id='191' part='i'>Lisez.</l>
-<stage>Il lui donne une lettre.</stage>
+<stage type="[N/A]">Il lui donne une lettre.</stage>
 </sp>
 <sp who='MADAME DURU'><speaker>MADAME DURU.</speaker>
 	<l id='191' part='m'>L'ordre est très net, que faire ?</l>
@@ -483,7 +483,7 @@
 <sp who='MONSIEUR GRIPON'><speaker>MONSIEUR GRIPON.</speaker>
 	<l id='225'>On ne t'a rien donné, je ne puis te comprendre ;</l>
 	<l id='226'>Ma fille, ainsi que moi, n'a point l'âme si tendre.  </l>
-<stage>À Erise.</stage>
+<stage type="toward">À Erise.</stage>
 	<l id='227'>Et vous, qui souriez, vous ne me dites rien ?</l>
 </sp>
 <sp who='ÉRISE'><speaker>ÉRISE.</speaker>
@@ -501,8 +501,8 @@
 	<l id='232' part='f'>Oh ! Quel original !</l>
 	<l id='233'>L'ami de la maison, mêlez-vous, je vous prie,</l>
 	<l id='234'>Un peu moins de la fête et des gens qu'on marie.</l>
-<stage>Le Marquis lui fait de grandes révérences.</stage>
-<stage>À Madame Duru.</stage>
+<stage type="[N/A]">Le Marquis lui fait de grandes révérences.</stage>
+<stage type="toward">À Madame Duru.</stage>
 	<l id='235'>Oh, çà, j'ai réussi dans ma commission.</l>
 	<l id='236'>Je vois pour votre époux votre soumission ;</l>
 	<l id='237'>Il ne faut à présent qu'un peu de signature,</l>
@@ -526,10 +526,10 @@
 	<l id='247' part='i'>Je leur crois bien du goût.</l>
 </sp>
 <sp who='MONSIEUR GRIPON'><speaker>MONSIEUR GRIPON.</speaker>
-<stage>À part.</stage>
+<stage type="aparte">À part.</stage>
 	<l id='247' part='f'>Ils n'ont rien de cela.</l>
 	<l id='248'>Que diable ici fait-on de ce beau Monsieur là ?</l>
-<stage>À Madame Duru.</stage>
+<stage type="toward">À Madame Duru.</stage>
 	<l id='249'>À demain donc, Madame ; une noce frugale</l>
 	<l id='250'>Préparera sans bruit l'union conjugale.</l>
 	<l id='251'>Il est tard, et le soir jamais nous ne sortons.</l>
@@ -595,7 +595,7 @@
 <sp who='MONSIEUR GRIPON'><speaker>MONSIEUR GRIPON, à Madame Duru.</speaker>
 	<l id='269'>Madame, il nous faudra chasser cette donzelle ;</l>
 	<l id='270'>Et l'ami du logis ne me plaît pas plus qu'elle.</l>
-<stage>Il s'en va, et tout le monde lui fait la révérence.</stage>
+<stage type="exit">Il s'en va, et tout le monde lui fait la révérence.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Madadame DURU, Erise, Damis, le Marquis, Marthe.</head>
@@ -817,7 +817,7 @@
 	<l id='372'>Que ma passion vive, autant que délicate,</l>
 	<l id='373'>Me sera, peu dormir en ce fortuné jour,</l>
 	<l id='374'>Et je serai longtemps éveillé par l'amour.</l>
-<stage>Il l'embrasse.</stage>
+<stage type="[N/A]">Il l'embrasse.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II.</head>
@@ -896,7 +896,7 @@
 <sp who='MONSIEUR-DURU'><speaker>MONSIEUR DURU.</speaker>
 	<l id='408'>Oh ! J'ai le coeur navré d'une douleur profonde.</l>
 	<l id='409'>J'apporte un million tout au plus ; le voilà.</l>
-<stage>Il montre son portefeuille.</stage>
+<stage type="[N/A]">Il montre son portefeuille.</stage>
 	<l id='410' part='i'>Je suis outré, perdu.</l>
 </sp>
 <sp who='MONSIEUR GRIPON'><speaker>MONSIEUR GRIPON.</speaker>
@@ -1020,7 +1020,7 @@
 	<l id='460'>J'en suis fort satisfait ; mais quant à mon ménage,</l>
 	<l id='461'>C'est un scandale affreux, et qui me pousse à bout.</l>
 	<l id='462'>Il faut tout observer, découvrir tout, voir tout.</l>
-<stage>On sonne.</stage>
+<stage type="[N/A]">On sonne.</stage>
 	<l id='463'>J'entends une sonnette et du bruit ; on appelle.</l>
 </sp>
 </div2>
@@ -1045,7 +1045,7 @@
 <sp who='MONSIEUR-DURU'><speaker>MONSIEUR DURU, à part.</speaker>
 	<l id='472' part='f'>Je veux de la friponne</l>
 	<l id='473'>Tirer quelque parti, m'instruire, si je puis.</l>
-<stage>À Marthe.</stage>
+<stage type="toward">À Marthe.</stage>
 	<l id='474' part='i'>Écoutez.</l>
 </sp>
 <sp who='MARTHE'><speaker>MARTHE.</speaker>
@@ -1165,14 +1165,14 @@
 	<l id='515' part='f'>Elle est trop bonne,</l>
 	<l id='516'>Trop sage, trop honnête, et trop douce personne ;</l>
 	<l id='517'>Et vous êtes un sot avec vos questions.</l>
-<stage>On sonne.</stage>
+<stage type="[N/A]">On sonne.</stage>
 	<l id='518'>J'y vais... Un impudent, un rôdeur de maisons.</l>
-<stage>On sonne.</stage>
+<stage type="[N/A]">On sonne.</stage>
 	<l id='519'>Tout-à-l'heure ... Un benêt qui pense que les filles</l>
 	<l id='520'>Iront lui confier des secrets de famille.</l>
-<stage>On sonne.</stage>
+<stage type="[N/A]">On sonne.</stage>
 	<l id='521'>Eh ! J'y cours ... Un vieux fou que la main que voilà</l>
-<stage>On sonne.</stage>
+<stage type="[N/A]">On sonne.</stage>
 	<l id='522'>Devrait punir cent fois... L'on y va, l'on y va.  </l>
 </sp>
 </div2>
@@ -1276,13 +1276,13 @@
 <sp who='MONSIEUR-DURU'><speaker>MONSIEUR DURU, à part.</speaker>
 	<l id='563' part='f'>J'enfermerai dans peu ma chère femme.</l>
 	<l id='564' part='i'>Que l'enfer...</l>
-<stage>Au Marquis.</stage>
+<stage type="toward">Au Marquis.</stage>
 	<l id='564' part='f'>Mais, Monsieur, qui gouvernez Madame,</l>
 	<l id='565'>La chambre de sa fille est-elle près d'ici ?</l>
 </sp>
 <sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 	<l id='566'>Tout auprès, et j'y vais. Oui, l'ami, la voici.</l>
-<stage>Il entre chez Érise et ferme la porte.</stage>
+<stage type="[N/A]">Il entre chez Érise et ferme la porte.</stage>
 </sp>
 <sp who='MONSIEUR-DURU'><speaker>MONSIEUR DURU.</speaker>
 	<l id='567'>Cet homme est nécessaire à toute ma famille :</l>
@@ -1517,7 +1517,7 @@
 	<l id='649'>Il reste, en vérité, pour compléter ceci,</l>
 	<l id='650'>Que ma femme à quelqu'un soit mariée aussi.</l>
 	<l id='651'>Entrons, sans plus tarder. Ma femme ! Hola, qu'on m'ouvre.</l>
-<stage>Il heurte.</stage>
+<stage type="[N/A]">Il heurte.</stage>
 	<l id='652'>Ouvrez, vous dis-je, il faut qu'enfin tout se découvre.</l>
 </sp>
 <sp who='MARTHE'><speaker>MARTHE, derrière la porte.</speaker>
@@ -2026,7 +2026,7 @@
 </sp>
 <sp who='MONSIEUR-DURU'><speaker>MONSIEUR DURU.</speaker>
 	<l id='866'>En voici donc autant qu'avec moi je rapporte.</l>
-<stage>Il veut lui donner son portefeuille, et le remet dans sa poche.</stage>
+<stage type="[N/A]">Il veut lui donner son portefeuille, et le remet dans sa poche.</stage>
 </sp>
 <sp who='MADAME DURU'><speaker>MADAME DURU.</speaker>
 	<l id='867'>Rapportez-nous un coeur doux, tendre, généreux :</l>

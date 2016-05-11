@@ -56,7 +56,7 @@
 <body>
 <div1 type="act" n='1'><head></head>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Madame Lépine, Le Chevalier, La Ramée.</head>
-<stage>Ils entrent en se parlant.</stage>
+<stage type="entrance">Ils entrent en se parlant.</stage>
 <sp who='MADAME-LÉPINE'><speaker>MADAME LÉPINE.</speaker>
 <p id='1'>
 	<s id='1'>Ah ! </s>
@@ -160,7 +160,7 @@
 	<s id='1'>Je vous cherchais, Madame Lépine, pour vous emmener avec moi. </s>
 	<s id='2'>Mais vous avez compagnie, et je ne veux point vous déranger. </s>
 </p>
-<stage>Tous les acteurs se saluent.</stage>
+<stage type="[N/A]">Tous les acteurs se saluent.</stage>
 </sp>
 <sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='2'>
@@ -173,7 +173,7 @@
 	<s id='1'>Cela est fort galant, Monsieur, mais vous pouvez avoir quelque chose à vous dire ; je suis pressée, et je crois devoir vous laisser en liberté. </s>
 	<s id='2'>Adieu, Madame Lépine : je ne serai pas longtemps absente, et nous nous reverrons bientôt. </s>
 </p>
-<stage>La Ramée salue Cathos avec affectation.</stage>
+<stage type="[N/A]">La Ramée salue Cathos avec affectation.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Le Chevalier, Madame Lépine, La Ramée.</head>
@@ -205,7 +205,7 @@
 <p id='5'>
 	<s id='1'>Soit. </s>
 </p>
-<stage>À La Ramée.</stage>
+<stage type="toward">À La Ramée.</stage>
 <p id='6'>
 	<s id='1'>Je vais donc t'attendre chez moi.</s>
 </p>
@@ -225,7 +225,7 @@
 <p id='9'>
 	<s id='1'>Pouvez-vous vous méfier de moi ?</s>
 </p>
-<stage>Il part. </stage>
+<stage type="[N/A]">Il part. </stage>
 </sp>
 <sp who='LA-RAMÉE'><speaker>LA RAMÉE, le rappelant.</speaker>
 <p id='10'>
@@ -420,7 +420,7 @@
 <p id='24'>
 	<s id='1'>Tu peux t'en fier à moi ; pars. </s>
 </p>
-<stage>Et puis elle le rappelle.</stage>
+<stage type="[N/A]">Et puis elle le rappelle.</stage>
 <p id='25'>
 	<s id='1'>St, st, La Ramée ! </s>
 	<s id='2'>Je rêve que nous aurions besoin d'une femme qui, sur le pied d'amante de ton maître, et d'amante jalouse, se douterait de son intrigue avec la Marquise, et viendrait hardiment ici, ou pour l'y chercher, ou pour examiner sa rivale, et lui dirait en même temps de la suivre chez un notaire, afin d'y achever le paiement d'un régiment qu'il achèterait. </s>
@@ -465,7 +465,7 @@
 <p id='32'>
 	<s id='1'>Adieu. </s>
 </p>
-<stage>Et puis se retournant.</stage>
+<stage type="[N/A]">Et puis se retournant.</stage>
 <p id='33'>
 	<s id='1'>N'avez-vous plus rien à me dire ?</s>
 </p>
@@ -620,7 +620,7 @@
 	<s id='1'>Très capable ! </s>
 	<s id='2'>Extrêmement capable ! </s>
 </p>
-<stage>Il écrit.</stage>
+<stage type="write">Il écrit.</stage>
 <p id='15'>
 	<s id='1'>Madame Lépine, je vous demande pardon de la liberté que je prends devant vous, mais ce petit minois m'étourdit ; il est céleste, il m'égare ; il s'agit d'amour, et cela passe partout... </s>
 	<s id='2'>N'est-ce pas Cathos que vous dites, charme de ma vie ?</s>
@@ -646,7 +646,7 @@
 <p id='19'>
 	<s id='1'>La pie n'a pas cet honneur-là, et tous vos noms sont des enchantements. </s>
 </p>
-<stage>En lui présentant la lettre.</stage>
+<stage type="[N/A]">En lui présentant la lettre.</stage>
 <p id='20'>
 	<s id='1'>Prenez, Charlotte, prenez cette lettre, et souvenez-vous que c'est Charlot de la Ramée qui vous la présente, et qui brûle d'en avoir réponse. </s>
 	<s id='2'>Adieu, bel oeil ; adieu, figure triomphante, et adieu, bijou tout neuf !</s>
@@ -661,7 +661,7 @@
 <p id='22'>
 	<s id='1'>Madame, votre approbation met le comble à son éloge. </s>
 </p>
-<stage>Et puis à Cathos.</stage>
+<stage type="[N/A]">Et puis à Cathos.</stage>
 <p id='23'>
 	<s id='1'>À propos ! </s>
 	<s id='2'>J'oubliais votre main... </s>
@@ -685,7 +685,7 @@
 <p id='2'>
 	<s id='1'>Qu'est-ce que c'est que cet homme-là, Cathos ? </s>
 </p>
-<stage>Et à La Ramée.</stage>
+<stage type="[N/A]">Et à La Ramée.</stage>
 <p id='3'>
 	<s id='1'>À qui donc parlez-vous de faire crédit ici ?</s>
 </p> 
@@ -694,7 +694,7 @@
 <p id='4'>
 	<s id='1'>À la merveilleuse Cathos, suivante de Madame la Marquise, Monsieur.</s>
 </p> 
-<stage>Il part.</stage>
+<stage type="[N/A]">Il part.</stage>
 </sp>
 <sp who='MONSIEUR-LORMEAU'><speaker>MONSIEUR LORMEAU.</speaker>
 <p id='5'>
@@ -820,7 +820,7 @@
 <p id='3'>
 	<s id='1'>Autre pratique galante !... </s>
 </p>
-<stage>Et à Madame La Thibaudière.</stage>
+<stage type="[N/A]">Et à Madame La Thibaudière.</stage>
 <p id='4'>
 	<s id='1'>D'où vient donc ?</s>
 </p>
@@ -876,7 +876,7 @@
 <p id='13'>
 	<s id='1'>Ce bonhomme, avec sa cousine et son Riquet !</s>
 </p>
-<stage>Madame Lépine sourit.</stage>
+<stage type="[N/A]">Madame Lépine sourit.</stage>
 </sp>
 <sp who='CATHOS'><speaker>CATHOS, riant tout haut.</speaker>
 <p id='14'>
@@ -1258,7 +1258,7 @@
 	<s id='6'>À quelle heure viendrai-je ? </s>
 	<s id='7'>Le tendre et respectueux Chevalier de la Trigaudière.</s>
 </p>
-<stage>Madame Lépine, après avoir lu, et froidement.</stage>
+<stage type="[N/A]">Madame Lépine, après avoir lu, et froidement.</stage>
 <p id='55'>
 	<s id='1'>C'est assez d'une pareille lettre, pour illustrer toute la vie d'une femme.</s>
 </p>
@@ -1344,7 +1344,7 @@
 <p id='6'>
 	<s id='1'>Nous ne voulons point vous gêner, Madame. </s>
 </p>
-<stage>À Monsieur Lormeau.</stage>
+<stage type="toward">À Monsieur Lormeau.</stage>
 <p id='7'>
 	<s id='1'>Sortons, Monsieur ; nous reviendrons.</s>
 </p>
@@ -1371,11 +1371,11 @@
 	<s id='2'>Vous voilà donc bien épouvanté, notre cher parent ? </s>
 	<s id='3'>Je ne le dis point pour m'en vanter non plus : je le dis comme une aventure toute simple et dont une femme du monde ne fait point mystère ; demandez à Monsieur.</s>
 </p>
-<stage>Elle rit.</stage>
+<stage type="laugh">Elle rit.</stage>
 <p id='12'>
 	<s id='1'>Hé, hé, hé...</s>
 </p>
-<stage>Madame Lépine rit à part.</stage>
+<stage type="[N/A]">Madame Lépine rit à part.</stage>
 </sp>
 <sp who='CATHOS'><speaker>CATHOS, rit haut.</speaker>
 <p id='13'>
@@ -1433,7 +1433,7 @@
 <p id='22'>
 	<s id='1'>Que veut-elle dire avec son hors-d'oeuvre ? </s>
 </p>
-<stage>Se levant.</stage>
+<stage type="[N/A]">Se levant.</stage>
 <p id='23'>
 	<s id='1'>Ce ne serait pas trop là mon sentiment, mais nous retenons Madame qui veut écrire, Monsieur ; et nous aurons l'honneur de la revoir.</s>
 </p>
@@ -1452,14 +1452,14 @@
 <p id='26'>
 	<s id='1'>On vous a renversé l'esprit, cousine.</s>
 </p>
-<stage>Ils s'en vont.</stage>
+<stage type="[N/A]">Ils s'en vont.</stage>
 </sp>
 <sp who='MADAME-LA-THIBAUDIÈRE'><speaker>MADAME LA THIBAUDIÈRE, riant, et à part à Monsieur Lormeau qui sort.</speaker>
 <p id='27'>
 	<s id='1'>Croyez-vous ? </s>
 	<s id='2'>Hé, hé, hé... </s>
 </p>
-<stage>Et quand ils sont partis.</stage>
+<stage type="[N/A]">Et quand ils sont partis.</stage>
 <p id='28'>
 	<s id='1'>Monsieur Lormeau n'en revient point !</s>
 </p>
@@ -1521,7 +1521,7 @@
 <p id='9'>
 	<s id='1'>Tout ceci n'est fait que pour votre réputation.</s>
 </p>
-<stage>Un valet entre.</stage>
+<stage type="[N/A]">Un valet entre.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='11'><head>SCÈNE XI. Les acteurs précédents, Le Valet.</head>
@@ -1535,7 +1535,7 @@
 	<s id='1'>Attendez... </s>
 	<s id='2'>Ce garçon-ci fait une faute dont il est important de le corriger. </s>
 </p>
-<stage>Au valet.</stage>
+<stage type="toward">Au valet.</stage>
 <p id='3'>
 	<s id='1'>Mon enfant, quand vous parlez à votre maîtresse, ce n'est pas à vous à l'appeler Marquise tout court ; c'est un manque de respect. </s>
 	<s id='2'>Dites-lui Madame, entendez-vous ?</s>
@@ -1602,7 +1602,7 @@
 <p id='14'>
 	<s id='1'>J'y pensais. </s>
 </p>
-<stage>À Colin.</stage>
+<stage type="toward">À Colin.</stage>
 <p id='15'>
 	<s id='1'>Et vous, au lieu de Colin, soyez Jasmin, petit garçon, et achevez ce que vous veniez me dire.</s>
 </p>
@@ -1660,7 +1660,7 @@
 	<s id='1'>Oh ! </s>
 	<s id='2'>Laissez-moi faire ; je m'entends à présent à la civilité.</s>
 </p>
-<stage>Cathos et Colin sortent.</stage>
+<stage type="exit">Cathos et Colin sortent.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='12'><head>SCÈNE XII. Madame La Thibaudière, Madame Lépine</head>
@@ -1780,7 +1780,7 @@
 	<s id='2'>l'amour sait compter. </s>
 	<s id='3'>Qu'est-ce que c'est donc que cette paresse dans les devoirs les plus indispensables de galanterie ? </s>
 </p>
-<stage>Et d'un air ironique.</stage>
+<stage type="[N/A]">Et d'un air ironique.</stage>
 <p id='10'>
 	<s id='1'>Serait-ce que vous me tenez rigueur ? </s>
 	<s id='2'>Et qu'une femme de qualité recule ?</s>
@@ -1857,7 +1857,7 @@
 <p id='22'>
 	<s id='1'>Je n'y serai que trop bonne.</s>
 </p>
-<stage>Elle sort.</stage>
+<stage type="exit">Elle sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='14'><head>SCÈNE XIV. Madame Lépine, le Chevalier, Cathos, La Ramée</head>
@@ -1877,7 +1877,7 @@
 <p id='3'>
 	<s id='1'>Il ne me faut plus que dix mille écus ; et je vais voir si mon notaire me les a trouvés.</s>
 </p>
-<stage>Il sort.</stage>
+<stage type="exit">Il sort.</stage>
 </sp>
 <sp who='LA-RAMÉE'><speaker>LA RAMÉE, à Cathos.</speaker>
 <p id='4'>
@@ -1963,7 +1963,7 @@
 	<s id='1'>Eh oui, c'est de la mitraille ! </s>
 	<s id='2'>J'aime à vous voir mépriser cette somme-là : cela sent la soubrette de cour, qui ne s'effraye de rien. </s>
 </p>
-<stage>Et en s'écriant.</stage>
+<stage type="[N/A]">Et en s'écriant.</stage>
 <p id='13'>
 	<s id='1'>La belle âme que Cathos !</s>
 </p>
@@ -2020,7 +2020,7 @@
 	<s id='1'>C'est bien son intention. </s>
 	<s id='2'>Mais continuons. </s>
 </p>
-<stage>Elle lit.</stage>
+<stage type="read">Elle lit.</stage>
 <p id='7'>
 	<s id='1'>Il lui a suffi de jouer un instant de la prunelle pour escamoter mon coeur. </s>
 	<s id='2'>Ce sont vingt nymphes, de compte fait, qui en mourront de douleur ; qu'elles s'accommodent ! </s>
@@ -2128,7 +2128,7 @@
 	<s id='4'>Votre étoile le veut. </s>
 	<s id='5'>Si la mienne entend que je vous le rende, eh bien, qu'à cela ne tienne, on vous le rendra, Monsieur, on vous le rendra ; et deux étoiles n'en auront pas le démenti. </s>
 </p>
-<stage>À Madame Lépine.</stage>
+<stage type="toward">À Madame Lépine.</stage>
 <p id='13'>
 	<s id='1'>Qu'en dites-vous ?</s>
 </p>
@@ -2247,7 +2247,7 @@
 	<s id='4'>Mais, Marquise, je n'y comprends rien ! </s>
 	<s id='5'>Vous êtes encore plus belle que vous ne l'étiez il y a une heure ; un coeur ne sait que devenir avec vous, vous ne le ménagez pas, vous l'excédez ; il en faudrait une douzaine pour y suffire. </s>
 </p>
-<stage>À Madame la Thibaudière.</stage>
+<stage type="toward">À Madame la Thibaudière.</stage>
 <p id='31'>
 	<s id='1'>Répondez.</s>
 </p>
@@ -2259,7 +2259,7 @@
 	<s id='3'>Êtes-vous de bonne foi ? </s>
 	<s id='4'>M'aimez-vous autant que vous le dites ? </s>
 </p>
-<stage>Et puis se reprenant.</stage>
+<stage type="[N/A]">Et puis se reprenant.</stage>
 <p id='33'>
 	<s id='1'>Fais-je bien ?</s>
 </p>
@@ -2285,7 +2285,7 @@
 	<s id='7'>Que cela serait mince... </s>
 	<s id='8'>Eh non, ma reine, on vous idolâtre.</s>
 </p>
-<stage>Elle lui prend la main : Madame la Thibaudière la retire. Madame Lépine, s'interrompant.</stage>
+<stage type="[N/A]">Elle lui prend la main : Madame la Thibaudière la retire. Madame Lépine, s'interrompant.</stage>
 <p id='37'>
 	<s id='1'>Doucement, vous n'y êtes plus. </s>
 	<s id='2'>Il ne faut pas retirer la main.</s>
@@ -2625,7 +2625,7 @@
 <p id='15'>
 	<s id='1'>Tu me remues, tu m'attendris. </s>
 </p>
-<stage>Et puis à part.</stage>
+<stage type="[N/A]">Et puis à part.</stage>
 <p id='16'>
 	<s id='1'>Quel dommage d'être un fourbe avec elle !</s>
 </p>
@@ -2692,7 +2692,7 @@
 <p id='27'>
 	<s id='1'>Elle est bien osée. </s>
 </p>
-<stage>Elle tire une bague de son doigt.</stage> 
+<stage type="[N/A]">Elle tire une bague de son doigt.</stage> 
 <p id='28'>
 	<s id='1'>Allons, prends cette bague qui m'a coûté trente bons francs.</s>
 </p>
@@ -2784,7 +2784,7 @@
 	<s id='1'>Lisez, lisez, Monsieur le méfiant... </s>
 	<s id='2'>Vous y verrez vos questions résolues.</s>
 </p>
-<stage>Le Chevalier lit.</stage>
+<stage type="[N/A]">Le Chevalier lit.</stage>
 </sp>
 <sp who='MADAME-LÉPINE'><speaker>MADAME LÉPINE, pendant qu'il lit.</speaker>
 <p id='4'>
@@ -2801,7 +2801,7 @@
 	<s id='6'>Que cette main m'est chère ! </s>
 	<s id='7'>Me sera-t-il permis ?... </s>
 </p>
-<stage>Pendant qu'il achève ces mots, la Marquise avance tout doucement la main, comme voulant la lui donner.</stage>
+<stage type="[N/A]">Pendant qu'il achève ces mots, la Marquise avance tout doucement la main, comme voulant la lui donner.</stage>
 </sp>
 <sp who='MADAME-LA-THIBAUDIÈRE'><speaker>MADAME LA THIBAUDIÈRE.</speaker>
 <p id='6'>
@@ -2833,7 +2833,7 @@
 	<s id='2'>Je vous y prends, Monsieur !... </s>
 	<s id='3'>Voilà donc pour qui vous me négligez ? </s>
 </p>
-<stage>Et à la Marquise.</stage> 
+<stage type="[N/A]">Et à la Marquise.</stage> 
 <p id='4'>
 	<s id='1'>Comptez-vous sur son coeur, Madame ?</s>
 </p>
@@ -2854,7 +2854,7 @@
 	<s id='2'>Et c'est vous qui êtes obligée de le venir enlever de chez moi, le petit fuyard ! </s>
 	<s id='3'>Contez-nous la sûreté de vos droits ; je compatis beaucoup à la fatigue qu'ils vous causent. </s>
 </p>
-<stage>Elle appelle.</stage>
+<stage type="[N/A]">Elle appelle.</stage>
 <p id='8'>
 	<s id='1'>Un fauteuil... </s>
 	<s id='2'>Prenez la peine de vous asseoir, Madame ; vous en gronderez plus à votre aise, et nous en écouterons plus poliment la triste histoire de vos droits.</s>
@@ -2880,7 +2880,7 @@
 <p id='11'>
 	<s id='1'>Un instant de patience, Madame ; que je parle à mon tour. </s>
 </p>
-<stage>À La Ramée.</stage>
+<stage type="toward">À La Ramée.</stage>
 <p id='12'>
 	<s id='1'>Et vous, Mons de la Ramée, qui vous amusez ici à tourner la tête de ce petit oison de chambrière, qu'on détale, et qu'on marche devant moi tout à l'heure, pour aller payer ce marchand de vin avec l'argent que je porte et qu'un huissier vous demande !</s>
 </p>
@@ -2891,7 +2891,7 @@
 	<s id='2'>Ha, votre cornette vous pèse ! </s>
 	<s id='3'>et vous voulez qu'on vous détignonne...</s>
 </p>
-<stage>Elle veut aller à Marton.</stage>
+<stage type="[N/A]">Elle veut aller à Marton.</stage>
 </sp>
 <sp who='L-INCONNUE'><speaker>L'INCONNUE.</speaker>
 <p id='14'>
@@ -2997,7 +2997,7 @@
 <p id='29'>
 	<s id='1'>Oui, Chevalier. </s>
 </p>
-<stage>En ouvrant le portefeuille.</stage>
+<stage type="[N/A]">En ouvrant le portefeuille.</stage>
 <p id='30'>
 	<s id='1'>Attendez que je les tire. </s>
 	<s id='2'>Il y en a de différentes sommes, et plus qu'il n'en faut.</s>
@@ -3037,7 +3037,7 @@
 	<s id='1'>Ma cousine, voici les soeurs de Monsieur Derval, qu'il vous amène, et qui ont voulu vous prévenir... </s>
 	<s id='2'>Mais à qui en a cette dame-là qui paraît si emportée ?</s>
 </p>
-<stage>Madame La Thibaudière salue les deux dames. Monsieur Lormeau, continuant.</stage>
+<stage type="[N/A]">Madame La Thibaudière salue les deux dames. Monsieur Lormeau, continuant.</stage>
 <p id='2'>
 	<s id='1'>Et que faites-vous de ce portefeuille ?</s>
 </p>
@@ -3075,7 +3075,7 @@
 	<s id='2'>Ha !... </s>
 	<s id='3'>Je suis jouée.</s>
 </p>
-<stage>Tout s'enfuit, l'Inconnue, Madame Lépine, la suivante Marton, et La Ramée, que Cathos arrête.</stage>
+<stage type="[N/A]">Tout s'enfuit, l'Inconnue, Madame Lépine, la suivante Marton, et La Ramée, que Cathos arrête.</stage>
 </sp>
 <sp who='CATHOS'><speaker>CATHOS.</speaker>
 <p id='8'>
@@ -3136,7 +3136,7 @@
 <p id='18'>
 	<s id='1'>Renvoyons ce maraud-là, et qu'il ne soit plus parlé de cette malheureuse affaire.</s>
 </p>
-<stage>La Ramée s'enfuit.</stage>
+<stage type="[N/A]">La Ramée s'enfuit.</stage>
 </sp>
 <sp who='MADAME-LA-THIBAUDIÈRE'><speaker>MADAME LA THIBAUDIÈRE, à Monsieur Derval.</speaker>
 <p id='19'>

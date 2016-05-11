@@ -1086,7 +1086,7 @@
 	<s id='1'>Cela l'a pris subitement la veille de notre départ. </s>
 	<s id='2'>Voici une lettre qu'il vous écrit. </s>
 </p>
-<stage>Il donne une lettre à Monsieur Oronte.</stage>
+<stage type="[N/A]">Il donne une lettre à Monsieur Oronte.</stage>
 </sp>
 <sp who='MONSIEUR-ORONTE'><speaker>MONSIEUR ORONTE, lit le dessus.</speaker>
 <p id='14'>
@@ -1108,24 +1108,24 @@
 	<s id='1'>J'ai plusieurs lettres que je me fuis chargé de rendre à leurs adresses. </s>
 	<s id='2'>Voyons celle-ci...</s>
 </p>
-<stage>Il lit.</stage>
+<stage type="read">Il lit.</stage>
 <p id='18'>
 	<s id='1'>À Monsieur Bredouillet, avocat au Parlement, rue des Mauvaises-Paroles. </s>
 	<s id='2'>Ce n'est point encore cela : passons à l'autre... </s>
 </p>
-<stage>Il lit.</stage>
+<stage type="read">Il lit.</stage>
 <p id='19'>
 	<s id='1'>À Monsieur Gourmandin, chanoine de... </s>
 	<s id='2'>Ouais! </s>
 	<s id='3'>Je ne trouverai point celle que je cherche...</s>
 </p>
-<stage>Il lit.</stage>
+<stage type="read">Il lit.</stage>
 <p id='20'>
 	<s id='1'>À Monsieur Oronte. </s>
 	<s id='2'>Ah! </s>
 	<s id='3'>Voici la lettre de Monsieur Orgon... </s>
 </p>
-<stage>Il la donne.</stage>
+<stage type="[N/A]">Il la donne.</stage>
 <p id='21'>
 	<s id='1'>Il l'a écrite d'une main si tremblante, que vous n'en reconnaîtrez pas l'écriture.</s>
 </p>
@@ -1288,11 +1288,11 @@
 	<s id='4'>Permettez que je donne une commission à mon valet. </s>
 	<s id='5'>Va chez le Marquis...</s>
 </p>
-<stage>Bas.</stage>
+<stage type="mezzo voce">Bas.</stage>
 <p id='21'>
 	<s id='1'>Va-t'en arrêter des chevaux pour cette nuit, tu m'entends... </s>
 </p>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 <p id='22'>
 	<s id='1'>Et tu lui diras que je lui baise les mains.</s>
 </p>
@@ -1325,11 +1325,11 @@
 <p id='4'>
 	<s id='1'>Maugrebleu de la question!... </s>
 </p>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 <p id='5'>
 	<s id='1'>J'ai oublié de charger la Branche... </s>
 </p>
-<stage>Bas.</stage>
+<stage type="mezzo voce">Bas.</stage>
 <p id='6'>
 	<s id='1'>Il devait me parler de ce procès-là !</s>
 </p>
@@ -2019,7 +2019,7 @@
 <p id='8'>
 	<s id='1'>Vous voyez bien, Monsieur, qu'il ne le connaît pas...</s>
 </p>
-<stage>À Crispin.</stage>
+<stage type="toward">À Crispin.</stage>
 <p id='9'>
 	<s id='1'>Hé ! </s>
 	<s id='2'>Là c'est ce jeune homme que tu sais... </s>
@@ -2213,7 +2213,7 @@
 	<s id='1'>Serait-il possible que Damis ne m'eût pas mandé une chose véritable? </s>
 	<s id='2'>À quel propos m'avoir écrit dans ces termes... </s>
 </p>
-<stage>Il lit la lettre de Damis.</stage>
+<stage type="read">Il lit la lettre de Damis.</stage>
 <p id='8'>
 	<s id='1'>De Chartres.</s>
 </p>
@@ -2476,7 +2476,7 @@
 <p id='2'>
 	<s id='1'>Vous n'êtes pas encore chez eux... </s>
 </p>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 <p id='3'>
 	<s id='1'>Serviteur à Monsieur Orgon.</s>
 </p>
@@ -2884,14 +2884,14 @@
 	<s id='1'>Ahi ! </s>
 	<s id='2'>Nous sommes découverts ; sauvons-nous.</s>
 </p>
-<stage>Ils veulent se retirer, mais Valère court à eux, et les arrête.</stage>
+<stage type="[N/A]">Ils veulent se retirer, mais Valère court à eux, et les arrête.</stage>
 </sp>
 <sp who='VALÈRE'><speaker>VALÈRE.</speaker>
 <p id='3'>
 	<s id='1'>Oh ! </s>
 	<s id='2'>Vous ne nous échapperez pas, messieurs les marauds, et vous ferez traités comme vous le méritez.</s>
 </p>
-<stage>Valère met la main sur l'épaule de Crispin. Monsieur Oronte et Monsieur Orgon se saisissent de La Branche.</stage>
+<stage type="[N/A]">Valère met la main sur l'épaule de Crispin. Monsieur Oronte et Monsieur Orgon se saisissent de La Branche.</stage>
 </sp>
 <sp who='MONSIEUR-ORONTE'><speaker>MONSIEUR ORONTE.</speaker>
 <p id='4'>
@@ -3024,7 +3024,7 @@
 	<s id='2'>Messieurs, puisque vous ne voulez pas nous absoudre comme innocents, faites-nous donc grâce comme à des coupables. </s>
 	<s id='3'>Nous implorons votre bonté. </s>
 </p>
-<stage>Il se met à genoux devant Monsieur Oronte.</stage>
+<stage type="[N/A]">Il se met à genoux devant Monsieur Oronte.</stage>
 </sp>
 <sp who='LA-BRANCHE'><speaker>LA BRANCHE, se mettant aussi à genoux.</speaker>
 <p id='28'>
@@ -3072,7 +3072,7 @@
 <p id='36'>
 	<s id='1'>J'avais grande envie de vous faire punir ; mais puisque ma femme le veut, oublions le passé ; aussi bien je donne aujourd'hui ma fille à Valère, il ne faut songer qu'à se réjouir... </s>
 </p>
-<stage>Aux Valets.</stage>
+<stage type="toward">Aux Valets.</stage>
 <p id='37'>
 	<s id='1'>On vous pardonne donc ; et même si vous voulez me promettre que vous vous corrigerez, je serai encore assez bon pour me charger de votre fortune.</s>
 </p>
@@ -3119,7 +3119,7 @@
 <p id='45'>
 	<s id='1'>J'y veux danser avec Madame Oronte.</s>
 </p>
-<stage>Monsieur Orgon donne la main à madame Oronte, et Valère à Angélique.</stage>
+<stage type="[N/A]">Monsieur Orgon donne la main à madame Oronte, et Valère à Angélique.</stage>
 </sp>
 </div2>
 </div1>

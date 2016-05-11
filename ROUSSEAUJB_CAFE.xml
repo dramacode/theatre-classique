@@ -67,7 +67,7 @@ chose qui fût digne de leur être appris.</p>
 <body>
 <div1 type="act" n='1'><head></head>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. La Sourdière, Coronis, Carondas, L'Abbé, Deux Joueurs.</head>
-<stage>Le théâtre représente une salle de café, meublée de plusieurs tables. Le Poète paraît rêvant d'un côté auprès de deux joueurs de dames. L'Abbé dort dans le fond ; et de l'autre côté, Coronis et La Sourdière disputent ensemble assis, en prenant leur café.</stage>
+<stage type="decor">Le théâtre représente une salle de café, meublée de plusieurs tables. Le Poète paraît rêvant d'un côté auprès de deux joueurs de dames. L'Abbé dort dans le fond ; et de l'autre côté, Coronis et La Sourdière disputent ensemble assis, en prenant leur café.</stage>
 <sp who='LA-SOURDIÈRE'><speaker>LA SOURDIÈRE.</speaker>
 <p id='1'>
 	<s id='1'>Oh parbleu ! </s>
@@ -261,11 +261,11 @@ chose qui fût digne de leur être appris.</p>
 <p id='4'>
 	<s id='1'>Adieu donc, monsieur Carondas.</s>
 </p>
-<stage>À Coronis.</stage>
+<stage type="toward">À Coronis.</stage>
 <p id='5'>
 	<s id='1'>Bonjour, mon ami.</s>
 </p>
-<stage>À la Sourdière.</stage>
+<stage type="toward">À la Sourdière.</stage>
 <p id='6'>
 	<s id='1'>Eh, te voilà, vieux pécheur !</s>
 </p>
@@ -324,7 +324,7 @@ chose qui fût digne de leur être appris.</p>
 	<s id='4'>Ceci ne vaut pas le diable. </s>
 	<s id='5'>Allons l'avertir de ce qui se passe.</s>
 </p>
-<stage>Il s'en va.</stage>
+<stage type="exit">Il s'en va.</stage>
 </sp>
 <sp who='L-ABBÉ'><speaker>L'ABBÉ.</speaker>
 <p id='3'>
@@ -982,7 +982,7 @@ chose qui fût digne de leur être appris.</p>
 	<s id='1'>Voici mes gens. </s>
 	<s id='2'>Jouons bien notre rôle, et faisons les donner dans le panneau.</s>
 </p>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 <p id='2'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Messieurs, serviteur. </s>
@@ -1166,7 +1166,7 @@ chose qui fût digne de leur être appris.</p>
 <p id='27'>
 	<s id='1'>Volontiers.</s>
 </p>
-<stage>À part.</stage>
+<stage type="aparte">À part.</stage>
 <p id='28'>
 	<s id='1'>Je tiens l'âne par la bride, et le diamant est bien aventuré.</s>
 </p>

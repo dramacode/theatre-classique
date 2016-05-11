@@ -65,7 +65,7 @@
 <body> 
 <div1 type="act" n='1'><head>ACTE I</head>
 <div2 type="scene" n='1'><head>SCÈNE I. L'Intendant de la maison est à une table, un Courrier en bottes, à côté ; Madame Aubonne, nourrice, coud, et Babet file à un rouet ; une Servante prend des mesures avec une aune, une autre balaye.</head>
-<stage>Le théâtre représente une grande salle où des domestiques portent et ôtent des meubles.</stage> 
+<stage type="decor">Le théâtre représente une grande salle où des domestiques portent et ôtent des meubles.</stage> 
 <sp who='INTENDANT'><speaker>L'INTENDANT, écrivant.</speaker>
 	<l id='1'>Quatorze mille écus !... Ce compte perce l'âme...</l>
 	<l id='2'>Ma foi, je ne sais plus comment fera madame</l> 
@@ -141,7 +141,7 @@
 	<l id='24'>Trois jeunes paysans, par un chemin secret </l>
 	<l id='25'>En ayant apporté, s'étaient laissé surprendre : </l>
 	<l id='26'>Leur procès était fait, et l'on allait les pendre. </l>
-<stage>Madame Aubonne et Babet s'approchent pour entendre ce conte ; deux domestiques qui portaient des meubles les mettent par terre, et tendent le cou ; une servante qui balayait s'approche, et écoute en s'appuyant le menton sur le manche du balai. </stage>
+<stage type="[N/A]">Madame Aubonne et Babet s'approchent pour entendre ce conte ; deux domestiques qui portaient des meubles les mettent par terre, et tendent le cou ; une servante qui balayait s'approche, et écoute en s'appuyant le menton sur le manche du balai. </stage>
 </sp>
 <sp who='MADAME-AUBONNE'><speaker>MADAME AUBONNE, se levant.</speaker>
 	<l id='27' part='i'>Les pauvres gens ! </l>
@@ -166,7 +166,7 @@
 </sp>
 <sp who='BABET'><speaker>BABET.</speaker>
 	<l id='31'>Leur fit grâce sans doute ? </l>
-<stage>Ici, tout le monde fait un cercle autour de l'intendant.</stage>
+<stage type="[N/A]">Ici, tout le monde fait un cercle autour de l'intendant.</stage>
 </sp>
 <sp who='INTENDANT'><speaker>L'INTENDANT.</speaker>
 	<l id='32'>Hélas ! il fit bien plus ; </l>
@@ -181,7 +181,7 @@
 	<l id='37'>Ce n'est pas tout ; le pain </l>
 	<l id='38'>Manquait dans cette ville, on y mourait de faim ; </l>
 	<l id='39'>Il la nourrit lui-même en l'assiégeant encore.</l>
-<stage>Il tire son mouchoir, et s'essuie les yeux.</stage>
+<stage type="[N/A]">Il tire son mouchoir, et s'essuie les yeux.</stage>
 </sp>
 <sp who='LE-COURRIER'><speaker>LE COURRIER.</speaker>
 	<l id='40' part='i'>Vous me faites pleurer. </l>
@@ -232,7 +232,7 @@
 <sp who='LE-COURRIER'><speaker>LE COURRIER.</speaker>
 	<l id='58' part='f'>Adieu, Babet. </l>
 </sp>
-<stage>Il sort.</stage>
+<stage type="exit">Il sort.</stage>
 <sp who='BABET'><speaker>BABET, reprenant son rouet.</speaker>
 	<l id='59'>La nourrice toujours dans son chagrin persiste, </l>
 	<l id='60' part='i'>Faites-lui quelque conte. </l>
@@ -384,12 +384,12 @@
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Les Précédents, Le Marquis. </head>
-<stage>Tous se lèvent. </stage>
+<stage type="[N/A]">Tous se lèvent. </stage>
 
 <sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
 	<l id='122'>Mon vieux faiseur de conte, il me faut de l'argent. </l>
 	<l id='123'>Bonjour, belle Babet ; bonjour, ma vieille bonne... </l>
-<stage>À Guillot.</stage>
+<stage type="toward">À Guillot.</stage>
 	<l id='124'>Ah ! te voilà, maraud ; si jamais ta personne </l>
 	<l id='125'>S'approche de Babet, et surtout moi présent, </l>
 	<l id='126'>Pour te mieux corriger je t'assomme à l'instant. </l>
@@ -472,7 +472,7 @@
 	<l id='156' part='f'>Et l'argent davantage. </l>
 </sp>
 <sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
-<stage>À Guillot, qui est dans un coin.</stage>
+<stage type="toward">À Guillot, qui est dans un coin.</stage>
 	<l id='157'>Donnez-m'en donc bien vite... Ah ! ah ! je t'aperçois ; </l>
 	<l id='158' part='i'>Attends-moi, malheureux ! </l>
 </sp>
@@ -523,9 +523,9 @@
 	<l id='176' part='f'>Qu'importe ? </l>
 	<l id='177'>Le coeur ne compte point, et rien ne doit coûter </l>
 	<l id='178'>Lorsque le grand Henri daigne nous visiter. </l>
-<stage>À ses gens.</stage>
+<stage type="toward">À ses gens.</stage>
 	<l id='179' part='i'>Laissez-moi, je vous prie. </l>
-<stage>Ils sortent.</stage>
+<stage type="exit">Ils sortent.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. La Comtese, Le Marquis. </head>
@@ -810,7 +810,7 @@ dans le fond elles arrivent plus lentement ; La Comtesse est sur le devant du th
 </sp>
 <sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
 	<l id='328' part='f'>Mon Dieu, que ce Charlot m'ennuie ! </l>
-<stage>Ils sortent : la comtesse reste avec la nourrice.</stage>
+<stage type="exit">Ils sortent : la comtesse reste avec la nourrice.</stage>
 </sp>
 <sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
 	<l id='329'>Viens, ma chère nourrice, et ne soupire plus. </l>
@@ -878,7 +878,7 @@ dans le fond elles arrivent plus lentement ; La Comtesse est sur le devant du th
 </sp>
 <sp who='CHARLOT'><speaker>CHARLOT.</speaker>
 	<l id='359' part='i'>Un bouquet ! allons vite. </l>
-<stage>Il sort.</stage>
+<stage type="exit">Il sort.</stage>
 </sp>
 <sp who='MADAME-AUBONNE'><speaker>MADAME AUBONNE.</speaker>
 	<l id='359' part='f'>Eh bien ! belle Julie, </l>
@@ -943,7 +943,7 @@ dans le fond elles arrivent plus lentement ; La Comtesse est sur le devant du th
 </sp>
 <sp who='MADAME-AUBONNE'><speaker>MADAME AUBONNE.</speaker>
 	<l id='399' part='f'>Hélas !... oui, ma belle Julie... </l>
-<stage>En pleurant.</stage>
+<stage type="[N/A]">En pleurant.</stage>
 	<l id='400'>Votre demande est juste... elle sera remplie. </l>
 </sp>
 </div2>
@@ -1015,7 +1015,7 @@ dans le fond elles arrivent plus lentement ; La Comtesse est sur le devant du th
 <sp who='JULIE'><speaker>JULIE.</speaker>
 	<l id='429' part='f'>Le roi vient aujourd'hui ; </l>
 	<l id='430'>Je dois avoir l'honneur de danser avec lui... </l>
-<stage>À Charlot.</stage>
+<stage type="toward">À Charlot.</stage>
 	<l id='431'>Je voudrais répéter... Vous dansez comme un ange. </l>
 </sp>
 <sp who='CHARLOT'><speaker>CHARLOT.</speaker>
@@ -1044,7 +1044,7 @@ dans le fond elles arrivent plus lentement ; La Comtesse est sur le devant du th
 </sp>
 <sp who='MADAME-AUBONNE'><speaker>MADAME AUBONNE.</speaker>
 	<l id='446'>De tout ce que je vois mon coeur n'est point surpris. </l>
-<stage>Elle s'assied ; ils dansent, et Charlot chante.</stage>
+<stage type="[N/A]">Elle s'assied ; ils dansent, et Charlot chante.</stage>
 	<l id='447'>Elle donne des lois </l>
 	<l id='448'>Aux bergers, aux rois, A son choix ; </l>
 	<l id='449'>Elle donne des lois </l>
@@ -1087,7 +1087,7 @@ dans le fond elles arrivent plus lentement ; La Comtesse est sur le devant du th
 <sp who='JULIE'><speaker>JULIE recommence à danser avec Charlot, qui répète l'air.</speaker>
 	<l id='470'>Elle donne des lois </l>
 	<l id='471'>Aux bergers, aux rois, etc. </l>
-<stage>MAJEUR. </stage>
+<stage type="[N/A]">MAJEUR. </stage>
 	<l id='472'>Vous seule ornez ces lieux. </l>
 	<l id='473'>Des rois et des dieux </l>
 	<l id='474'>Le maître est dans vos yeux. </l>
@@ -1138,7 +1138,7 @@ dans le fond elles arrivent plus lentement ; La Comtesse est sur le devant du th
 	<l id='500'>Vous aviez assuré votre adorable mère </l>
 	<l id='501'>Que d'un peu d'amitié vous vouliez m'honorer ; </l>
 	<l id='502'>Mon coeur le méritait, il l'osait espérer. </l>
-<stage>En montrant Julie.</stage>
+<stage type="[N/A]">En montrant Julie.</stage>
 	<l id='503'>Ce noble et digne objet, respectable à vous-même, </l>
 	<l id='504'>M'a chargé dans ces lieux de son ordre suprême ; </l>
 	<l id='505'>Ses ordres sont sacrés, chacun doit les remplir </l>
@@ -1150,7 +1150,7 @@ dans le fond elles arrivent plus lentement ; La Comtesse est sur le devant du th
 <sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
 	<l id='508'>Quand ce drôle a parlé, je ne sais que répondre. </l>
 	<l id='509'>Écoute, mon garçon, je te défends... à toi, </l>
-<stage>Charlot le regarde fixement.</stage>
+<stage type="[N/A]">Charlot le regarde fixement.</stage>
 	<l id='510'>De montrer, quand j'y suis, de l'esprit plus que moi. </l>
 </sp>
 <sp who='MADAME-AUBONNE'><speaker>MADAME AUBONNE.</speaker>
@@ -1204,7 +1204,7 @@ dans le fond elles arrivent plus lentement ; La Comtesse est sur le devant du th
 </sp>
 <sp who='CHARLOT'><speaker>CHARLOT.</speaker>
 	<l id='529'>À tous les deux, monsieur, je sais ce que je doi ; </l>
-<stage>En regardant Julie.</stage>
+<stage type="[N/A]">En regardant Julie.</stage>
 	<l id='530'>Mais enfin j'ai fait voeu de suivre en tout sa loi. </l>
 </sp>
 <sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
@@ -1233,7 +1233,7 @@ dans le fond elles arrivent plus lentement ; La Comtesse est sur le devant du th
 </sp>
 <sp who='CHARLOT'><speaker>CHARLOT.</speaker>
 	<l id='542'>Ma mère... j'obéis... mais j'ai le coeur percé. </l>
-<stage>Il sort.</stage>
+<stage type="exit">Il sort.</stage>
 </sp>
 <sp who='MADAME-AUBONNE'><speaker>MADAME AUBONNE.</speaker>
 	<l id='543'>Ah ! c'en est fait, mon sang se glace dans mes veines. </l>
@@ -1499,7 +1499,7 @@ dans le fond elles arrivent plus lentement ; La Comtesse est sur le devant du th
 </sp>
 <sp who='MADAME-AUBONNE'><speaker>MADAME AUBONNE.</speaker>
 	<l id='650'>J'en mourrai... mais allons, le dessein en est pris. </l>
-<stage>Elle sort.</stage>
+<stage type="exit">Elle sort.</stage>
 </sp>
 <sp who='BABET'><speaker>BABET.</speaker>
 	<l id='651'>Ah ! j'entends bien du bruit et des cris chez madame. </l>
@@ -1565,7 +1565,7 @@ dans le fond elles arrivent plus lentement ; La Comtesse est sur le devant du th
 	<l id='676'>Privent l'une d'un fils, et l'autre d'un époux. </l>
 	<l id='677'>Non, je ne veux plus voir ce château respectable, </l>
 	<l id='678'>Où l'on daigna m'aimer, où je fus si coupable. </l>
-<stage>À l'intendant.</stage>
+<stage type="toward">À l'intendant.</stage>
 	<l id='679'>Vous, monsieur, si jamais dans leur triste maison, </l>
 	<l id='680'>Après cet attentat, vous prononcez mon nom, </l>
 	<l id='681'>J'ose vous conjurer de bien dire à madame </l>
@@ -1693,7 +1693,7 @@ dans le fond elles arrivent plus lentement ; La Comtesse est sur le devant du th
 </sp>
 <sp who='INTENDANT'><speaker>L'INTENDANT, à Babet.</speaker>
 	<l id='748'>Elle veut être seule, il faut nous écarter. </l>
-<stage>Ils sortent.</stage>
+<stage type="exit">Ils sortent.</stage>
 </sp>
 <sp who='LA-COMTESSE'><speaker>LA COMTESSE, se jetant dans un fauteuil.</speaker>
 	<l id='749'>Ô ma chère Julie ! en ma douleur profonde, </l>
@@ -1772,7 +1772,7 @@ dans le fond elles arrivent plus lentement ; La Comtesse est sur le devant du th
 	<l id='780'>Elle est mère... et je sais ce qu'il en doit coûter. </l>
 	<l id='781'>Hélas ! ne parlons point de vengeance et de peine ; </l>
 	<l id='782' part='i'>Ma douleur me suffit. </l>
-<stage>On entend du bruit.</stage>
+<stage type="noise">On entend du bruit.</stage>
 </sp>
 <sp who='JULIE'><speaker>JULIE.</speaker>
 	<l id='782' part='f'>Quelle rumeur soudaine ! </l>

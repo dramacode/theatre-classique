@@ -61,16 +61,16 @@
 	<s id='1'>Quoi, je ne pourrai pas faire un vers, un vers seulement ! </s>
 	<s id='2'>Ah voyons.</s>
 </p>
-<stage>Il écrit.</stage>
+<stage type="write">Il écrit.</stage>
  <p id='2'>
 	<s id='1'>Non, il est trop long. </s>
 	<s id='2'>Oui, mais de cette façon ?</s>
 </p>
-<stage>Il écrit.</stage>
+<stage type="write">Il écrit.</stage>
 <p id='3'>
 	<s id='1'>Il est trop court.</s>
 </p>
-<stage>Il déchire son papier.</stage>
+<stage type="[N/A]">Il déchire son papier.</stage>
 </sp>
 <sp who='DUPRÉ'><speaker>DUPRÉ.</speaker>
 <p id='4'>
@@ -105,7 +105,7 @@
 	<s id='2'>Attendez, ne faites pas de bruit. </s>
 	<s id='3'>Ah, oui-da, c'est lyrique tout à fait ; écrivons.</s>
 </p>
-<stage>Il écrit.</stage>
+<stage type="write">Il écrit.</stage>
 <p id='10'>
 	<s id='1'>Fort bien. </s>
 	<s id='2'>Mais où est la rime ? </s>
@@ -395,7 +395,7 @@
 <p id='45'>
 	<s id='1'>Oui, prenez.</s>
 </p>
-<stage>Il chante.</stage>
+<stage type="sing">Il chante.</stage>
 <note>C'est un air d'Annette et Lubin. </note>
 	<l id='1'>C'est la fille à Simonette.</l>
 </sp>
@@ -433,7 +433,7 @@
 <p id='53'>
 	<s id='1'>Vous commencez par dire.</s>
 </p>
-<stage>Il chante. Il chante, et l'on chante tous les vers à mesure qu'on les fait.</stage>
+<stage type="sing">Il chante. Il chante, et l'on chante tous les vers à mesure qu'on les fait.</stage>
 	<l id='2'>Que de fleurs on va répandre. </l>
 </sp>
 <sp who='LE-DUC'><speaker>LE DUC.</speaker>
@@ -451,7 +451,7 @@
 <p id='56'>
 	<s id='1'>C'est vrai.</s>
 </p>
-<stage>Il écrit. </stage>
+<stage type="[N/A]">Il écrit. </stage>
 	<l id='3'>Que de fleurs on va répandre. </l>
 </sp>
 <sp who='MONSIEUR-DÉCOUSU'><speaker>MONSIEUR DÉCOUSU.</speaker>
@@ -647,7 +647,7 @@
 <p id='85'>
 	<s id='1'>Revoyons tout le couplet, Messieurs, je vous en prie.</s>
 </p>
-<stage>Il chante.</stage>
+<stage type="sing">Il chante.</stage>
 	<l id='29'>Que de fleurs on va répandre, </l>
 	<l id='30'>Dans un jour aussi charmant ! </l>
 	<l id='31'>Que de chants se font entendre, </l>
@@ -844,7 +844,7 @@
 <p id='9'>
 	<s id='1'>Allons, viens, je te le chanterai en m'habillant.</s>
 </p>
-<stage>Il s'en va et il emporte le couplet.</stage>
+<stage type="exit">Il s'en va et il emporte le couplet.</stage>
 </sp>
 </div2>
 </div1>

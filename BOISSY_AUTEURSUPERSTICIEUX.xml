@@ -18,12 +18,12 @@
 				<type>vers</type>
 				<periode>1731-1740</periode>
 				<taille>250-500</taille>
-				<permalien>http://gallica.bnf.fr/ark :/12148/bpt6k55455863</permalien>
+				<permalien>http://gallica.bnf.fr/ark:/12148/bpt6k55455863</permalien>
 			</SourceDesc>
 		</fileDesc>
 </teiHeader>
 <text>
-<front>
+	<front>
 		<docTitle>
 			<titlePart type="main">L'AUTEUR SUPERSTITIEUX</titlePart>
 			<titlePart type="sub">A-PROPOS EN UN ACTE</titlePart>
@@ -44,8 +44,8 @@
 			<castItem><role id="LAQUAIS" sex='1' type="H" statut="laquais" age="A" stat_amour='néant'>UN LAQUAIS</role> d'Hortense.</castItem>
 			
 		</castList>
-<set location='Paris' country='France' periode='XVIIIème' link=''>La scène est à Paris, chez Clitandre.</set>
-</front>
+		<set location='Paris' country='France' periode='XVIIIème' link=''>La scène est à Paris, chez Clitandre.</set>
+	</front>
 <body>
 <div1 type="act" n='1'><head></head>
 <div2 type="scene" n='1'><head>SCÈNE I. Clitandre, Damon. </head>
@@ -304,7 +304,7 @@
 </sp>
 <sp who='CLITANDRE'><speaker>CLITANDRE, prenant la lettre. </speaker>
 	<l id='171' part='i'>J'ai perdu mon procès, je gage. </l>
-<stage>Il lit.</stage>
+<stage type="read">Il lit.</stage>
 <p id='1'>
 	<s id='1'>« Vous venez, monsieur, de perdre votre procès. » </s>
 </p>
@@ -326,7 +326,7 @@
 </sp>
 <sp who='DAMON'><speaker>DAMON.</speaker>
 	<l id='179' part='i'>Très volontiers, </l>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 <p id='1'>
 	<s id='1'>« Vous venez, monsieur, de perdre votre procès, malgré votre bon droit : tout ce que je puis vous dire, c'est que j'ai plaidé comme un ange. » </s>
 </p>
@@ -411,7 +411,7 @@
 <sp who='DAMON'><speaker>DAMON.</speaker>
 	<l id='219'>Ah ! Vous n'en ferez rien, et vous n'y songez pas ; </l>
 	<l id='220'>Pour vous en empêcher, je marche sur vos pas. </l>
-<stage>Il suit Clitandre.</stage>
+<stage type="[N/A]">Il suit Clitandre.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III.</head>
@@ -569,7 +569,7 @@
 <sp who='CLITANDRE'><speaker>CLITANDRE.</speaker>
 	<l id='317' part='f'>De quelle part vient-elle ? </l>
 	<l id='318'>Tu fus toujours porteur de mauvaise nouvelle. </l>
-<stage>Il lit.</stage>
+<stage type="read">Il lit.</stage>
 	<l id='319'>« Mon père arrive en ce moment ; </l>
 	<l id='320'>Il approuve notre flamme, </l>
 	<l id='321'>Et pour époux j'obtiens l'amant </l>

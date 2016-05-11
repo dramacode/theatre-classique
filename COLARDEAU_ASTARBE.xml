@@ -226,7 +226,7 @@
 </sp>
 <sp who='ASTARBÉ'><speaker>ASTARBÉ.</speaker>
 	<l id='107' part='i'>Sors, et tremble.</l>
-<stage>Les Gardes sortent.</stage>
+<stage type="exit">Les Gardes sortent.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Astarbé, Orcan.</head>
@@ -473,7 +473,7 @@
 	<l id='314'>Dictés par la douleur, et que l'on tient toujours.</l>
 	<l id='315'>Je ne dirai qu'un mot : Oui , Madame, je règne :</l>
 	<l id='316'>Pardonner ou punir, je puis tout... Qu'on me craigne.</l>
-<stage>Elle s'en va.</stage>
+<stage type="exit">Elle s'en va.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Leuxis, Arsace.</head>
@@ -1126,7 +1126,7 @@
 	<l id='772'>Annoncé par vous-même, et promis à mon coeur ?</l>
 	<l id='773'>Et pourquoi ce mortel, indifférent peut-être,</l>
 	<l id='774'>Augmente-t-il l'espoir que vous avez fait naître ?</l>
-<stage>Bacazar se jette aux genoux, de Leuxis.</stage>
+<stage type="[N/A]">Bacazar se jette aux genoux, de Leuxis.</stage>
 	<l id='775'>Tu tombes à mes pieds, et ton oei enflammé !...</l>
 </sp>
 <sp who='BACAZAR'><speaker>BACAZAR.</speaker>
@@ -1281,9 +1281,9 @@
 	<l id='840' part='i'>Je répons de sa foi.</l>
 </sp>
 <sp who='ASTARBÉ'><speaker>ASTARBÉ.</speaker>
-<stage>Aux Gardes.</stage>
+<stage type="toward">Aux Gardes.</stage>
 	<l id='840' part='m'>Suivez leurs pas.... </l>
-<stage>À la Princesse.</stage>
+<stage type="toward">À la Princesse.</stage>
 	<l id='840' part='f'>Sortez.</l>
 </sp>
 </div2>
@@ -1907,7 +1907,7 @@
 <sp who='ZOPIRE'><speaker>ZOPIRE.</speaker>
 	<l id='1263'>« Vivez , ne souffrez pas qu'Astarbé sur le trône</l>
 	<l id='1264'>Avilisse en ses mains le sceptre et la couronne.</l>
-<stage>Aux genoux de Leuxis.</stage>
+<stage type="action/fall">Aux genoux de Leuxis.</stage>
 	<l id='1265'>Au nom de vos aïeux , qu'elle a déshonorés ;</l>
 	<l id='1266'>Au nom de votre amant, par ses mânes sacrés ; » </l>
 	<l id='1267'>Vivez, jetez sur vous un coup d'oeil plus tranquille ;</l>
@@ -1920,7 +1920,7 @@
 <div2 type="scene" n='4'><head>SCÈNE IV. Astarbé, Leuxis, Zopire, Arsace, Gardes.</head>
 <sp who='ASTARBÉ'><speaker>ASTARBÉ, aux Gardes.</speaker>
 	<l id='1271' part='f'>Arrêtez ce perfide,</l>
-<stage>À Leuxis.</stage>
+<stage type="toward">À Leuxis.</stage>
 	<l id='1272'>Entre nous aujourd'hui la fortune décide,</l>
 	<l id='1273'>Orgueilleuse Princesse, et tes lâches mépris</l>
 	<l id='1274'>Dans le sein de la mort vont recevoir leur prix.</l>
@@ -1960,12 +1960,12 @@
 	<l id='1302'>Puisqu'enfin, malgré toi, je mourrai vertueux.</l>
 </sp>
 <sp who='ASTARBÉ'><speaker>ASTARBÉ.</speaker>
-<stage>Aux Gardes.</stage>
+<stage type="toward">Aux Gardes.</stage>
 	<l id='1303'>Obéissez, sortez... Mais le Peuple s'avance.</l>
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Bacazar, Leuxis, Astarbé, Narbal, Zopire, Arsace, Troupe de Tyriens, Gardes.</head>
-<stage>Le fond du Théâtre doit paraître rempli d'un grès de Syriens, qui, en se développant laisse voir Bacazar ; il s'avance vers les Gardes qui emmènent la Princesse et Zopire.</stage>
+<stage type="[N/A]">Le fond du Théâtre doit paraître rempli d'un grès de Syriens, qui, en se développant laisse voir Bacazar ; il s'avance vers les Gardes qui emmènent la Princesse et Zopire.</stage>
 <sp who='BACAZAR'><speaker>BACAZAR, aux Gardes.</speaker>
 	<l id='1304' part='i'>Perfides, arrêtez !</l>
 </sp>
@@ -1980,9 +1980,9 @@
 	<l id='1306' part='i'>L'inconnu !... Sort cruel !</l>
 </sp>
 <sp who='BACAZAR'><speaker>BACAZAR.</speaker>
-<stage>À Astarbé.</stage>
+<stage type="toward">À Astarbé.</stage>
 	<l id='1306' part='m'>Tremble !...</l>
-<stage>À Zopire et à Arsace.</stage>
+<stage type="toward">À Zopire et à Arsace.</stage>
 	<l id='1306' part='f'>Soyez heureux.</l>
 </sp>
 <sp who='ZOPIRE'><speaker>ZOPIRE.</speaker>
@@ -1993,7 +1993,7 @@
 </sp>
 <sp who='ASTARBÉ'><speaker>ASTARBÉ.</speaker>
 	<l id='1307' part='f'>Cet esclave, leur maître !</l>
-<stage>Au peuple.</stage>
+<stage type="toward">Au peuple.</stage>
 	<l id='1308'>Défendez votre Reine, et punissez ce traître.</l>
 </sp>
 <sp who='NARBAL'><speaker>NARBAL.</speaker>
@@ -2057,7 +2057,7 @@
 	<l id='1348'>Va, j'espère qu'un jour, ils t'en feront descendre.</l>
 	<l id='1349'>Mais, c'en est fait... Je meurs !... Qu'on m'ôte de ces lieux.</l>
 	<l id='1350'>« J'ai bravé les mortels ; est-il encor des Dieux ? »</l>
-<stage>On l'emmène.</stage>
+<stage type="[N/A]">On l'emmène.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI et dernière. Bacazar, Leuxis, Narbal, Zopire, Arsace.</head>

@@ -151,7 +151,7 @@
 </front>
 <body>
 <div1 type="act" n='1'><head></head>
-<stage>Le Théâtre représente le palais de Vercingentorixe.</stage>
+<stage type="decor">Le théâtre représente le palais de Vercingentorixe.</stage>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Vercingentorixe, environné de ses officiers, tient un conseil de guerre, Conutodun, Catuat, Convictolitan sont assis à sa droite, Éporédorixe, Cotus et Critognat sont assis à sa gauche.</head>
 <sp who='VERCINGENTORIXE'><speaker>VERCINGENTORIXE.</speaker>
 	<l id='1'>Dans ces lieux à l'anglaise, où ma voix vous amène,</l>
@@ -276,12 +276,12 @@
 </sp>
 <sp who='VERCINGENTORIXE'><speaker>VERCINGENTORIXE, lui parle à l'oreille, ensuite il dit :</speaker>
 	<l id='80' part='f'>Cours de botanique, et fais tout décider.</l>
-<stage>À Sylvie.</stage>
+<stage type="toward">À Sylvie.</stage>
 	<l id='81'>Madame, pardonnez, je souffre d'allumette,</l>
 	<l id='82'>En m'éloignant de vous, mais l'état de mes dettes</l>
 	<l id='83'>Dans sa chute de reins se repose sur moi ;</l>
 	<l id='84'>Il est bien temps d'arrêt de lui montrer son roi.</l>
-<stage>Il sort suivi de ses officiers et Convictolitan reste le dernier.</stage>
+<stage type="exit">Il sort suivi de ses officiers et Convictolitan reste le dernier.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Sylvie, Convictolitan.</head>
@@ -391,12 +391,12 @@
 </sp>
 <sp who='SYLVIE'><speaker>SYLVIE.</speaker>
 	<l id='136' part='f'>Ah ! Quel moment !</l>
-<stage>Convictolitan sort entraîné par Critognat ; Sylvie reste seule.</stage>
+<stage type="[N/A]">Convictolitan sort entraîné par Critognat ; Sylvie reste seule.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI.</head>
 <sp who='SYLVIE'><speaker>SYLVIE.</speaker>
-<stage>Pendant le monologue les gardes disposent la table du festin.</stage>
+<stage type="[N/A]">Pendant le monologue les gardes disposent la table du festin.</stage>
 	<l id='137'>Ah ! Nous attendrissons les cieux de mon carrosse.</l>
 	<l id='138'>Quel serait l'avenir, si le présent de noce</l>
 	<l id='139'>Nous réduit solitaire à tant d'affreux tourments...</l>
@@ -426,28 +426,28 @@
 	<l id='158'>Les jeux de main alors embellissaient mon trône</l>
 	<l id='159'>Il plut à verse aux dieux de m'enlever ces biens...</l>
 	<l id='160'>Hélas ! Sans eux brouillés que peuvent les humains ?</l>
-<stage>Aux soldats.</stage>
+<stage type="toward">Aux soldats.</stage>
 	<l id='161'>Vous, soldats, avancez la table des matières.</l>
-<stage>On avance la table vers le milieu du théâtre.</stage>
+<stage type="[N/A]">On avance la table vers le milieu du théâtre.</stage>
 	<l id='162' part='i'>C'est votre place aux veaux.</l>
-<stage>Tout le monde s'assied.</stage>
+<stage type="[N/A]">Tout le monde s'assied.</stage>
 	<l id='162' part='f'>Oublions nos misères.</l>
 </sp>
 <sp who='SYLVIE'><speaker>SYLVIE.</speaker>
 	<l id='163'>Mais Convictolitan ne paraît point fermé.</l>
-<stage>À part.</stage>
+<stage type="aparte">À part.</stage>
 	<l id='164' part='i'>Je tremble.</l>
 </sp>
 <sp who='CRITOGNAT'><speaker>CRITOGNAT.</speaker>
 	<l id='164' part='m'>Il va venir.</l>
-<stage>On sort.</stage>
-<stage>À part.</stage>
+<stage type="exit">On sort.</stage>
+<stage type="aparte">À part.</stage>
 	<l id='164' part='f'>Je reste inanimé !...</l>
 </sp>
 <sp who='VERCINGENTORIXE'><speaker>VERCINGENTORIXE.</speaker>
 	<l id='165'>Voici ce corps de chasse où logeaient tous les vices.</l>
 	<l id='166'>Consolons-nous, amis, reprenons nos sens suisses.</l>
-<stage>En servant Sylvie.</stage>
+<stage type="[N/A]">En servant Sylvie.</stage>
 	<l id='167' part='i'>Vous, Madame, damée.</l>
 </sp>
 <sp who='SYLVIE'><speaker>SYLVIE.</speaker>
@@ -462,7 +462,7 @@
 </sp>
 <sp who='VERCINGENTORIXE'><speaker>VERCINGENTORIXE, en servant Critognat.</speaker>
 	<l id='168' part='f'>Critognat...</l>
-<stage>Tout le monde mange, excepté Critognat.</stage>
+<stage type="[N/A]">Tout le monde mange, excepté Critognat.</stage>
 	<l id='169'>Dieux ! Je sens fermenter la brûlante amertume...</l>
 	<l id='170'>L'amour dans ces plats pieds est-ce ton sang qui fume</l>
 	<l id='171'>Hélas ! Sous ces couteaux tranchants du grand seigneur</l>
@@ -546,7 +546,7 @@
 </sp>
 <sp who='CRITOGNAT'><speaker>CRITOGNAT.</speaker>
 	<l id='225' part='m'>Oui, Seigneur.</l>
-<stage>Il se tue avec le couteau qui lui servait à table.</stage>
+<stage type="die">Il se tue avec le couteau qui lui servait à table.</stage>
 </sp>
 <sp who='VERCINGENTORIXE'><speaker>VERCINGENTORIXE.</speaker>
 	<l id='225' part='f'>Ah ! mon frère.</l>
@@ -561,7 +561,7 @@
 	<l id='226' part='f'>En faisant de bruyère</l>
 	<l id='227'>Ce qu'a fait Critognat, je m'acquitte envers toi !</l>
 	<l id='228' part='i'>Dans tes bras séculiers reçois ton frère.</l>
-<stage>Il se tue.</stage>
+<stage type="die">Il se tue.</stage>
 </sp>
 <sp who='CONUTODUN'><speaker>CONUTODUN, saisissant un couteau.</speaker>
 	<l id='228' part='f'>Et moi</l>
@@ -582,7 +582,7 @@
 <sp who='CATUAT'><speaker>CATUAT.</speaker>
 	<l id='232'>Ne me refusez point; car de conversion,</l>
 	<l id='233'>Vous me rendrez enfin un service de table.</l>
-<stage>Il reçoit la mort de la main de Conutodun, qui se tue lui-même après, Cotus se tue ensuite.</stage>
+<stage type="[N/A]">Il reçoit la mort de la main de Conutodun, qui se tue lui-même après, Cotus se tue ensuite.</stage>
 </sp>
 <sp who='SYLVIE'><speaker>SYLVIE, se levant et s'avançant sur la scène.</speaker>
 	<l id='234'>Pour moi, quand mes flancs d'oeufs dans ce jour déplorable,</l>
@@ -590,7 +590,7 @@
 	<l id='236'>Le mien ne sera point souillé par le fer blanc.</l>
 	<l id='237'>Je vais me retirer dans ma tente ou ma nièce,</l>
 	<l id='238'>Et j'attendrai la mort de la faim de la pièce.</l>
-<stage>Elle fait la révérence et la toile tombe.</stage>
+<stage type="[N/A]">Elle fait la révérence et la toile tombe.</stage>
 </sp>
 </div2>
 </div1>

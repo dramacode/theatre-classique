@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
 <teiHeader>
 		<fileDesc>
 			<titleStmt>
 				<title>LES TOMBEAUX DE VÉRONE, TRAGI-COMÉDIE.</title>
-				<author born="1740" born_location="Paris" death="1814" death_location="Paris" academie="1673">MERCIER, Louis-Sébatsien</author>
+				<author born="1740" born_location="Paris" death="1814" death_location="Paris" academie="1673">MERCIER, Louis-Sébastien</author>
 				<date>1782</date>
 			</titleStmt>
 			<publicationStmt>	
 				<p>publié par Paul FIEVRE janvier 2013</p>
-			<idno></idno>
-</publicationStmt>
+				<idno>MERCIER_TOMBEAUXDEVERONE</idno>
+			</publicationStmt>
 			<SourceDesc>
 				<genre>Drame</genre>
 				<inspiration>moeurs italiennes</inspiration>
@@ -19,9 +19,9 @@
 				<periode>1781-1790</periode>
 				<taille>(mesure non pertinente)</taille>
 				<permalien>http://gallica.bnf.fr/ark:/12148/bpt6k72748t</permalien>
-				<sources>
-					<source id='1'><author></author><text></text></source>
-				</sources>	
+				<liens>
+					<lien type='oeuvre source'>Roméo et Juliette de William Shakespeare</lien>
+				</liens>	
 			</SourceDesc>
 		</fileDesc>
 </teiHeader>
@@ -32,7 +32,7 @@
 			<titlePart type="sub">DRAME EN CINQ ACTES.</titlePart>
 		</docTitle> 
 		<docDate value='1783'>1783. </docDate>
-		<docAuthor id="MERCIER, Louis Sébastien" bio='lacalprenede'>Par M. MERCIER.</docAuthor>
+		<docAuthor id="MERCIER, Louis Sébastien" bio='mercier'>Par M. MERCIER.</docAuthor>
 		<docImprint>
 			<privilege id=''><head></head>
 			<p> </p>
@@ -44,15 +44,15 @@
 			<premiere date='(inconnue)' location='(inconnue)'></premiere>
 		</performance>
 		<div type="preface"><head>AVERTISSEMENT.</head>
-		<p>Ce sujet touchant a été traité plusieurs fois ; mais il semble appartenir spécialement à l'auteur parce qu'il porte, plus qu'aucun autre, le vrai caractère du drame ; genre auquel il s'est livré de préférence. Il voulait  mettre sur la scène le Roméo et Juiliette, de Shakespeare : mais bientôt il s'est aperçu qu'il fallait laisser à ce grand poète ses dimensions et son originalité ; que vouloir le corriger, c'était l'anéantir.</p>
-		<p>M. Ducis, de l'Académie française, en a fait une tragédie, dans laquelle il a plutôt peint la vengeance de Montaigu que les amours de Roméo et de Juliette. D'ailleurs, sa pièce imprime à ses personnages une physionomie étrangère. L'auteur de ce drame s'est attaché, au contraire, à tout ce que Roméo et Juliette lui offraient d'intéressant. Il a choisi des couleurs plus douces, et a donné à Benvoglio un caractère jusqu'ici inconnu sur la scène. D'après son plan, un nouveau dénouement devenait nécessaire : il croit en avoir imaginé un du plus grand effet, et qui doit offrir au spectateur un tableau neuf, frappant et vraiment théâtral.</p>
+			<p>Ce sujet touchant a été traité plusieurs fois ; mais il semble appartenir spécialement à l'auteur parce qu'il porte, plus qu'aucun autre, le vrai caractère du drame ; genre auquel il s'est livré de préférence. Il voulait  mettre sur la scène le Roméo et Juliette, de Shakespeare : mais bientôt il s'est aperçu qu'il fallait laisser à ce grand poète ses dimensions et son originalité ; que vouloir le corriger, c'était l'anéantir.</p>
+			<p>M. Ducis, de l'Académie française, en a fait une tragédie, dans laquelle il a plutôt peint la vengeance de Montaigu que les amours de Roméo et de Juliette. D'ailleurs, sa pièce imprime à ses personnages une physionomie étrangère. L'auteur de ce drame s'est attaché, au contraire, à tout ce que Roméo et Juliette lui offraient d'intéressant. Il a choisi des couleurs plus douces, et a donné à Benvoglio un caractère jusqu'ici inconnu sur la scène. D'après son plan, un nouveau dénouement devenait nécessaire : il croit en avoir imaginé un du plus grand effet, et qui doit offrir au spectateur un tableau neuf, frappant et vraiment théâtral.</p>
 		</div>
 		<castList>
 			<head>PERSONNAGES</head>
 			<castItem><role id="CAPULET" sex="1" type="H" statut="bourgeois" age="A" stat_amour='néant'>CAPULET</role>, chef.</castItem>
 			<castItem><role id="MONTAIGU" sex="1" type="H" statut="bourgeois" age="A" stat_amour='néant'>MONTAIGU</role>, chef.</castItem>
 			<castItem><role id="JULIETTE" sex="2" type="H" statut="bourgeois" age="J" stat_amour='amoureux'>JULIETTE</role>, fille de Capulet.</castItem>
-			<castItem><role id="ROMÉO" sex="1" type="H" statut="bourgeois" age="A" stat_amour='amoureux'>ROMÉO</role>, fils de Montaigu.</castItem>
+			<castItem><role id="ROMÉO" sex="1" type="H" statut="bourgeois" age="J" stat_amour='amoureux'>ROMÉO</role>, fils de Montaigu.</castItem>
 			<castItem><role id="BENVOGLIO" sex="1" type="H" statut="médecin" age="A" stat_amour='néant'>BENVOGLIO</role>, médecin naturalise, attaché aux deux maisons.</castItem>
 			<castItem><role id="MADAME-CAPULET" sex="2" type="H" statut="bourgeois" age="A" stat_amour='néant'>Madame CAPULET</role>, mère de Juliette.</castItem>
 			<castItem><role id="LAURE" sex="2" type="H" statut="suivante" age="A" stat_amour='néant'>LAURE</role>, suivante de Juliette.</castItem>
@@ -64,28 +64,29 @@
 <body>
 <div1 type="act" n='1'><head>ACTE I</head>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE.</head>
-<stage>Le théâtre représente un salon qui donne sur un jardin.</stage>
+<stage type="decor">Le théâtre représente un salon qui donne sur un jardin.</stage>
 <sp who='JULIETTE'><speaker>JULIETTE, seule.</speaker>
 <p id='1'>
 	<s id='1'>La douzième heure s'est fait entendre...  </s>
 	<s id='2'>C'est le signal. </s>
-	<s id='4'>Ô nuit, épaissis tes ombres, cache dans les ténèbres deux amans malheureux et fidèles ! </s>
+	<s id='4'>Ô nuit, épaissis tes ombres, cache dans les ténèbres deux amants malheureux et fidèles ! </s>
 	<s id='4'>Je vais jouir de sa présence ! </s>
 	<s id='5'>Instants rapides ! </s>
 	<s id='6'>Il va paraître pour me quitter ensuite ! </s>
 	<s id='7'>Ainsi l'amertume se mêle à nos plus doux plaisirs... </s>
-	<s id='8'>Amour, que tes blessures sont profondes, que de souffrances pour des momens qui fuient !... </s>
-	<s id='9'>Mon coeur s'effraie de tout ce qui l'environne... </s>
+	<s id='8'>Amour, que tes blessures sont profondes, que de souffrances pour des moments qui fuient !... </s>
+	<s id='9'>Mon coeur s'effraie de tout ce qui l'environne... </s>
 	<s id='10'>Les auteurs de mes jours, paisiblement endormis, ne soupçonnent point que la fille d'un Capulet, amante, épouse d'un Montaigu... </s>
-	<s id='11'>Sommeil ! </s>
+	<s id='11'>Sommeil ! </s>
 	<s id='12'>Dérobe-leur les chagrins qui me consument... </s>
 	<s id='13'>Cette porte frémit... </s>
 	<s id='14'>Est-ce lui ? </s>
 	<s id='15'>Non ; ce bruit ne vient pas du côté du jardin... </s>
 	<s id='16'>Ciel ! </s>
-	<s id='17'>Si nous étions trahis !... </s>
-	<s id='18'>Ah ! je respire ! </s>
-	<s id='19'>C'est Laure.</s>
+	<s id='17'>Si nous étions trahis !... </s>
+	<s id='18'>Ah ! </s>
+	<s id="19">Je respire ! </s>
+	<s id='20'>C'est Laure.</s>
 </p>
 </sp>
 </div2>
@@ -103,7 +104,7 @@
 </sp>
 <sp who='JULIETTE'><speaker>JULIETTE.</speaker>
 <p id='3'>
-	<s id='1'>La lune éclaire un peu... </s>
+	<s id='1'>La lune éclaire un peu... </s>
 	<s id='2'>Que les nuages les plus épais n'obscurcissent-ils son front !</s>
 </p>
 </sp>
@@ -131,7 +132,7 @@
 </sp>
 <sp who='LAURE'><speaker>LAURE.</speaker>
 <p id='8'>
-	<s id='1'>Pour la première fois, votre âme ne respire plus la douceur...  </s>
+	<s id='1'>Pour la première fois, votre âme ne respire plus la douceur...  </s>
 	<s id='2'>Vous n'êtes plus calme ni heureuse... </s>
 	<s id='3'>Voulez-vous irriter la farouche humeur de votre père ?</s>
 </p>
@@ -175,7 +176,7 @@
 <sp who='JULIETTE'><speaker>JULIETTE.</speaker>
 <p id='15'>
 	<s id='1'>Ah, si c'était un époux !... </s>
-	<s id='2'>Laure, ma douleur ne s'exhalerait pas en stériles plaintes ; je ne pleurerais pas, je mourrois.</s>
+	<s id='2'>Laure, ma douleur ne s'exhalerait pas en stériles plaintes ; je ne pleurerais pas, je mourrais.</s>
 </p>
 </sp>
 <sp who='LAURE'><speaker>LAURE.</speaker>
@@ -312,7 +313,7 @@
 	<s id='1'>Sa mort a servi de prétexte à mes larmes ; je n'osais en répandre sur l'exil de Roméo : tant de témoins m'observent ! </s>
 	<s id='2'>Sans ce voile officieux, le désespoir m'eût étouffée... </s>
 	<s id='3'>Ah ! </s>
-	<s id='4'>Laure, j'ai sujet de pleurer... </s>
+	<s id='4'>Laure, j'ai sujet de pleurer... </s>
 	<s id='5'>Tu vois cet anneau...</s>
 </p>
 </sp>
@@ -382,7 +383,7 @@
 <p id='47'>
 	<s id='1'>La haine, la haine ! </s>
 	<s id='2'>Eh, ce mot que signifiait-il pour moi ? </s>
-	<s id='3'>Qu'est-ce que la haine, Laure?</s>
+	<s id='3'>Qu'est-ce que la haine, Laure ?</s>
 </p>
 </sp>
 <sp who='LAURE'><speaker>LAURE.</speaker>
@@ -394,7 +395,7 @@
 <p id='49'>
 	<s id='1'>D'éteindre à jamais le flambeau de la discorde qui brûlait entre nos maisons. </s>
 	<s id='2'>Les guerres les plus cruelles, les plus sanglantes, ne finissent-elles pas ? </s>
-	<s id='3'>Nous disions-nous quelquefois ; et pourquoi l'imimitié particulière qui fait le malheur de deux familles n'aurait elle pas son terme ?... </s>
+	<s id='3'>Nous disions-nous quelquefois ; et pourquoi l'inimitié particulière qui fait le malheur de deux familles n'aurait elle pas son terme ?... </s>
 	<s id='4'>Nous l'espérions : la mort fatale de Théobald a détruit notre espoir.</s>
 </p>
 </sp>
@@ -409,7 +410,7 @@
 	<s id='1'>Que tu connais peu l'amour, Laure ! </s>
 	<s id='2'>L'amour, comme la pensée, invisible dans son essor, n'est point borné par les limites matérielles. </s>
 	<s id='3'>L'Amour vole et les barrières tombent. </s>
-	<s id='4'>Roméo m'apparaissait en tous lieux, il se trouvait sur mes pas, il se multipliait, je n'avois qu'à le chercher dans la foule pour l'apercevoir. </s>
+	<s id='4'>Roméo m'apparaissait en tous lieux, il se trouvait sur mes pas, il se multipliait, je n'avais qu'à le chercher dans la foule pour l'apercevoir. </s>
 	<s id='5'>Étais-je sur un balcon ? </s>
 	<s id='6'>Il passait sous mes regards ; assistais-je à une fête ? </s>
 	<s id='7'>Il était le premier objet qui frappait ma vue ; au temple je distinguais sa voix parmi les voix profanes dont retentissait la voûte. </s>
@@ -417,7 +418,7 @@
 	<s id='9'>Une nuit j'étais à cette même fenêtre, j'y venais respirer la fraîcheur de l'air et rêver aux sentiments délicieux qui remplissaient toute mon âme ; la lune versait ses paisibles rayons. </s>
 	<s id='10'>Un bruit léger me tira de ma douce rêverie ; je l'aperçus comme un fantôme céleste, appuyé contre cet oranger, dont il agitait la cime odorante. </s>
 	<s id='11'>Je n'eus point de frayeur ; il me surprit sans m'étonner; ce que nous nous dîmes dans ce calme intéressant de la nature, ce que nous nous jurâmes sous la voûte azurée et silencieuse du firmament, n'est point fait pour être répété par la langue écrite ou parlée. </s>
-	<s id='12'>Eh, favons-nous nous-mêmes quel langage nous employâmes ! </s>
+	<s id='12'>Eh, savons-nous nous-mêmes quel langage nous employâmes ! </s>
 	<s id='13'>Un enfant plongé dans les embrassements de sa mère, n'est pas mieux pressé, mieux environné de tendresse que nous l'étions par la confiance intime, par le bonheur, par la volupté pure... </s>
 	<s id='14'>Nos larmes... </s>
 	<s id='15'>Elles étaient de sentiment... </s>
@@ -427,8 +428,8 @@
 </sp>
 <sp who='LAURE'><speaker>LAURE.</speaker>
 <p id='53'>
-	<s id='1'>Pourquoi éternel ?... </s>
-	<s id='2'>Mais avec quel art vous avez trompé votre fidelle compagne !</s>
+	<s id='1'>Pourquoi éternel ?... </s>
+	<s id='2'>Mais avec quel art vous avez trompé votre fidèle compagne !</s>
 </p>
 </sp>
 <sp who='JULIETTE'><speaker>JULIETTE.</speaker>
@@ -438,7 +439,7 @@
 </sp>
 <sp who='LAURE'><speaker>LAURE.</speaker>
 <p id='55'>
-	<s id='1'>Et qui dans l'univers a osé, a pu ?... </s>
+	<s id='1'>Et qui dans l'univers a osé, a pu ?... </s>
 </p>
 </sp>
 <sp who='JULIETTE'><speaker>JULIETTE.</speaker>
@@ -460,8 +461,8 @@
 	<s id='4'>Il faut des lumières pour oser être bon contre l'opinion qui gouverne les hommes. </s>
 	<s id='5'>Sans la science, il n'est point de courage, il n'est point de véritables amis de l'humanité. </s>
 	<s id='6'>Benvoglio, scrutateur assidu de la nature, à qui il a dérobé plusieurs secrets, après avoir lu dans nos coeurs, est devenu notre véritable père. </s>
-	<s id='7'>Nos deux familles divisées s'accordent dans l'estime qu'elles ne peuvent lui refuser ; il avait tout tenté pour les réconcilier, déjà il se flattait du succès ; la funeste épée qui priva Thenlbald de la vie, a détruit jusqu'à l'apparence d'un traité... </s>
-	<s id='8'>Roméo exilé de Vérone.. .</s>
+	<s id='7'>Nos deux familles divisées s'accordent dans l'estime qu'elles ne peuvent lui refuser ; il avait tout tenté pour les réconcilier, déjà il se flattait du succès ; la funeste épée qui priva Théobald de la vie, a détruit jusqu'à l'apparence d'un traité... </s>
+	<s id='8'>Roméo exilé de Vérone...</s>
 </p>
 </sp>
 <sp who='LAURE'><speaker>LAURE.</speaker>
@@ -500,7 +501,7 @@
 <p id='64'>
 	<s id='1'>Je ne tremble plus, Laure : si j'étais surprise ou trahie.</s>
 </p>
-<stage>Elle tire un poignard.</stage>
+<stage type="[N/A]">Elle tire un poignard.</stage>
 <p id='64'>
 	<s id='1'>Mon choix est fait. </s>
 	<s id='2'>Pour me livrer toute entière à l'amour, je me fuis dévouée à la mort : maîtresse absolue de mon coeur et de mes destinées...</s>
@@ -515,8 +516,8 @@
 <sp who='JULIETTE'><speaker>JULIETTE.</speaker>
 <p id='66'>
 	<s id='1'>Chère Laure, écoute... </s>
-	<s id='2'>Les branches du grenadier qui est sous mes fenêtres m'ont paru vacillantes... </s>
-	<s id='3'>C'est lui, laisse-moi..  </s>
+	<s id='2'>Les branches du grenadier qui est sous mes fenêtres m'ont paru vacillantes... </s>
+	<s id='3'>C'est lui, laisse-moi..  </s>
 	<s id='4'>Ces moments-ci me sont précieux, ce sont les derniers peut-être. </s>
 	<s id='5'>Sortez, Laure, et veillez.</s>
 </p>
@@ -525,7 +526,7 @@
 <p id='67'>
 	<s id='1'>Je veillerai.</s>
 </p>
-<stage>À part.</stage>
+<stage type="aparte">À part.</stage>
 <p id='68'>
 	<s id='1'>Funeste découverte, redoutable avenir ! </s>
 	<s id='3'>Que de malheurs j'entrevois !</s>
@@ -552,7 +553,7 @@
 <p id='4'>
 	<s id='1'>Ô ma Juliette !</s>
 </p>
- <stage>Silence.</stage>
+ <stage type="[N/A]">Silence.</stage>
 </sp>
 <sp who='JULIETTE'><speaker>JULIETTE.</speaker>
 <p id='5'>
@@ -563,7 +564,7 @@
 <p id='6'>
 	<s id='1'>C'est l'instant du courage, Juliette... </s>
 	<s id='2'>Le bruit s'est répandu que j'étais à Vérone. </s>
-	<s id='3'>On a donné les ordres les plus précis pour m'arréter. </s>
+	<s id='3'>On a donné les ordres les plus précis pour m'arrêter. </s>
 	<s id='4'>Si l'on y parvient, ce jour est le dernier de ma vie. </s>
 	<s id='5'>Je sors de mon asile pour t'embrasser encore une fois ; j'affronte la mort pour te faire mes adieux à la douce clarté des étoiles.</s>
 </p>
@@ -578,7 +579,7 @@
 </sp>
 <sp who='ROMÉO'><speaker>ROMÉO.</speaker>
 <p id='8'>
-	<s id='1'>Les haches des bourreaux sont prêtes ; les poignards aiguisés par la vengeance m'environnent ; les tribunaux séduits par mes implacables ennemis, ont appellé meurtre la plus légitime défense... </s>
+	<s id='1'>Les haches des bourreaux sont prêtes ; les poignards aiguisés par la vengeance m'environnent ; les tribunaux séduits par mes implacables ennemis, ont appelé meurtre la plus légitime défense... </s>
 	<s id='2'>Je suis contraint de fuir.</s>
 </p>
 </sp>
@@ -611,7 +612,7 @@
 </sp>
 <sp who='ROMÉO'><speaker>ROMÉO.</speaker>
 <p id='14'>
-	<s id='1'>Mais les forêts, les déserts, les dangers, nos ennemis, les fatigues multipliées d'une fuite obscure, précipitée...</s>
+	<s id='1'>Mais les forêts, les déserts, les dangers, nos ennemis, les fatigues multipliées d'une fuite obscure, précipitée...</s>
 </p>
 </sp>
 <sp who='JULIETTE'><speaker>JULIETTE.</speaker>
@@ -639,7 +640,7 @@
 </sp>
 <sp who='ROMÉO'><speaker>ROMÉO.</speaker>
 <p id='18'>
-	<s id='1'>Tout Vérone voleraít sur nos traces ; quelle route choisir, et moi quel nom porterais-je ? </s>
+	<s id='1'>Tout Vérone volerait sur nos traces ; quelle route choisir, et moi quel nom porterais-je ? </s>
 	<s id='2'>On m'a peint comme un assassin, je passerAis pour un vil ravisseur. </s>
 	<s id='3'>Nos noeuds, quoique sacrés, nous justifieraient-ils aux yeux de la prévention et de la haine ? </s>
 	<s id='4'>Tous les coeurs sont-ils semblables à celui du généreux Benvoglio ? </s>
@@ -690,12 +691,12 @@
 	<s id='1'>Chaque jour, jusqu'à la fin de mon cruel exil, mon fidèle domestique vous fera parvenir une lettre. </s>
 	<s id='2'>Je ne veux point faire un pas que ma Juliette n'en soit informée. </s>
 	<s id='3'>Ce fut un amant malheureux, ô ma Juliette ! qui inventa l'art d'écrire... </s>
-	<s id='4'>Je lui ressemble,nous nous rapprocherons du moins par la pensée... Que de fois dans mes adversités votre nom sera dans ma bouche, ô ma chere Juliette !</s>
+	<s id='4'>Je lui ressemble,nous nous rapprocherons du moins par la pensée... Que de fois dans mes adversités votre nom sera dans ma bouche, ô ma chère Juliette !</s>
 </p>
 </sp>
 <sp who='JULIETTE'><speaker>JULIETTE.</speaker>
 <p id='25'>
-	<s id='1'>Arrête, Roméo ! Ne répete pas si souvent mon nom.</s>
+	<s id='1'>Arrête, Roméo ! Ne répète pas si souvent mon nom.</s>
 </p>
 </sp>
 <sp who='ROMÉO'><speaker>ROMÉO.</speaker>
@@ -726,7 +727,7 @@
 <sp who='ROMÉO'><speaker>ROMÉO.</speaker>
 <p id='30'>
 	<s id='1'>On ne saurait s'aimer, ma Juliette, sans envisager le terme inévitable où tout finit. </s>
-	<s id='2'>La crainte de perdre le bonheur rapproche l'image du cercueil, et cette idée rend les larmes que versent les amans plus attendrissantes et plus délicieuses. </s>
+	<s id='2'>La crainte de perdre le bonheur rapproche l'image du cercueil, et cette idée rend les larmes que versent les amants plus attendrissantes et plus délicieuses. </s>
 	<s id='3'>Mais non ; ce charme profond qui pénètre nos âmes ne saurait s'éteindre ; il est immortel comme elles ; cette flamme pure échappe au trépas. </s>
 	<s id='4'>Mais l'instant de notre séparation s'approche ; n'entendez-vous pas la messagère du matin, l'alouette, qui s'élève en chantant à travers les ombres qui fuient devant le crépuscule du jour ?</s>
 </p>
@@ -768,7 +769,7 @@
 </sp>
 <sp who='JULIETTE'><speaker>JULIETTE.</speaker>
 <p id='37'>
-	<s id='1'>Que dis- tu, Roméo! </s>
+	<s id='1'>Que dis- tu, Roméo ! </s>
 	<s id='2'>Il est grand jour : fuis, fuis, sois cruel, arrache-toi... </s>
 	<s id='3'>Ces rayons de lumière, jaloux de notre bonheur... </s>
 	<s id='4'>Fuis... </s>
@@ -789,7 +790,7 @@
 	<s id='1'>Que je suis malheureuse !... </s>
 	<s id='2'>Ô Roméo, Roméo, quittez-moi ! </s>
 </p>
-<stage>Avec un cri étouffé.</stage>
+<stage type="[N/A]">Avec un cri étouffé.</stage>
 <p id='3'>
 	<s id='1'>Regardez-moi, encore... </s>
 	<s id='2'>Oh, comme vous êtes pâle !... </s>
@@ -883,7 +884,7 @@
 <sp who='JULIETTE'><speaker>JULIETTE.</speaker>
 <p id='12'>
 	<s id='1'>Oui, oui, je veux être seule, pour m'occuper entièrement de lui. </s>
-	<s id='2'>Comme tout va me déplaire dans ce superbe et triste palais !... </s>
+	<s id='2'>Comme tout va me déplaire dans ce superbe et triste palais !... </s>
 	<s id='3'>Au milieu de sa pompe quelle affreuse solitude !</s>
 </p>
 </sp>
@@ -898,20 +899,20 @@
 	<s id='2'>Je le sens, Laure ; plus de sommeil qui ne soit troublé, plus de joie qui ne soie empoisonnée. </s>
 	<s id='3'>La terreur. </s>
 	<s id='4'>Ah ! </s>
-	<s id='5'>Si je pouvais pleurer, je souffrirais moins... </s>
+	<s id='5'>Si je pouvais pleurer, je souffrirais moins... </s>
 	<s id='6'>Malheureuse, que ne puis-je pleurer ! </s>
-	<s id='7'>Mais mon coeur est serré. </s>
+	<s id='7'>Mais mon coeur est serré. </s>
 	<s id='8'>Ah, Laure ! </s>
 	<s id='9'>Ne m'abandonne pas ; j'ai besoin de ton secours. </s>
-	<s id='10'>Soutiens-moi ; je marche à peine...</s>
+	<s id='10'>Soutiens-moi ; je marche à peine...</s>
 </p>
 </sp>
-<stage>Elle sort appuyée sur Laure.</stage>
+<stage type="exit">Elle sort appuyée sur Laure.</stage>
 </div2>
 </div1>
 <div1 type="act" n='2'><head>ACTE II</head>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Madame Capulet, Laure.</head>
-<sp who='MADAME-CAPULET'><speaker>Madame CAPULET.</speaker>
+<sp who='MADAME CAPULET'><speaker>MADAME CAPULET.</speaker>
 <p id='1'>
 	<s id='1'>Elle a, dites-vous, passé toute la nuit à pleurer ?</s>
 </p>
@@ -921,7 +922,7 @@
 	<s id='1'>Oui, madame.</s>
 </p>
 </sp>
-<sp who='MADAME-CAPULET'><speaker>Madame CAPULET.</speaker>
+<sp who='MADAME CAPULET'><speaker>MADAME CAPULET.</speaker>
 <p id='3'>
 	<s id='1'>Vous auriez dû m'en avertir.</s>
 </p>
@@ -931,7 +932,7 @@
 	<s id='1'>Elle m'avait recommandé de respecter votre sommeil ; vous savez qu'on ne résiste pas à ses prières.</s>
 </p>
 </sp>
-<sp who='MADAME-CAPULET'><speaker>Madame CAPULET.</speaker>
+<sp who='MADAME CAPULET'><speaker>MADAME CAPULET.</speaker>
 <p id='5'>
 	<s id='1'>Je ne comprends rien à cela. </s>
 	<s id='2'>Cette amitié est plus vive que ne l'est ordinairement celle qui se forme entre des parents.</s>
@@ -943,7 +944,7 @@
 	<s id='2'>Elle croit le voir, couvert d'un pâle linceul, errer autour d'elle.</s>
 </p>
 </sp>
-<sp who='MADAME-CAPULET'><speaker>Madame CAPULET.</speaker>
+<sp who='MADAME CAPULET'><speaker>MADAME CAPULET.</speaker>
 <p id='7'>
 	<s id='1'>Je vous ai déjà dit qu'il n'était pas fait pour inspirer un amour aussi violent... </s>
 	<s id='2'>Fougueux , imprudent, téméraire, je puis dire entre nous qu'il s'est attiré son funeste sort.</s>
@@ -955,7 +956,7 @@
 	<s id='2'>Tous ses soins, dit-on, tendaient à une réconciliation sincère.</s>
 </p>
 </sp>
-<sp who='MADAME-CAPULET'><speaker>Madame CAPULET.</speaker>
+<sp who='MADAME CAPULET'><speaker>MADAME CAPULET.</speaker>
 <p id='9'>
 	<s id='1'>Oui, Laure ; mais ce serait un crime de tenir ici ce langage ; ce serait surtout déplaire mortellement à Juliette, car elle a comme son père, une aversion insurmontable pour tous les Montaigus.</s>
 </p>
@@ -965,7 +966,7 @@
 	<s id='1'>Il est vrai.</s>
 </p>
 </sp>
-<sp who='MADAME-CAPULET'><speaker>Madame CAPULET.</speaker>
+<sp who='MADAME CAPULET'><speaker>MADAME CAPULET.</speaker>
 <p id='11'>
 	<s id='1'>Ma fille se consume visiblement : ses couleurs s'effacent, elle dont le teint naguère aurait défié la rose. </s>
 	<s id='2'>Sa mélancolie augmente chaque jour ; elle m'aime, je le fais, mais elle semble fuir ma présence. </s>
@@ -978,20 +979,20 @@
 	<s id='1'>Ses idées, si j'ose le dire, s'arrêtent plus volontiers sur la tombe que sur l'autel de l'hyménée.</s>
 </p>
 </sp>
-<sp who='MADAME-CAPULET'><speaker>Madame CAPULET.</speaker>
+<sp who='MADAME CAPULET'><speaker>MADAME CAPULET.</speaker>
 <p id='13'>
-	<s id='1'>Quelle est donc cette peine secrète qui lui donne ces tristes idées ?... </s>
-	<s id='2'>Mais son père, peu disposé à écouter les plaintes, à céder aux gémissemens de notre sexe, voudra être obéi ; il est absolu... </s>
+	<s id='1'>Quelle est donc cette peine secrète qui lui donne ces tristes idées ?... </s>
+	<s id='2'>Mais son père, peu disposé à écouter les plaintes, à céder aux gémissements de notre sexe, voudra être obéi ; il est absolu... </s>
 	<s id='3'>Ah ! </s>
 	<s id='4'>Pourquoi ne m'ouvre-t-elle pas son coeur ?</s>
 </p>
 </sp>
 <sp who='LAURE'><speaker>LAURE.</speaker>
 <p id='14'>
-	<s id='1'>C'est ce que je lui recommande souvent, mais elle se plait à demeurer absorbée en elle-même.</s>
+	<s id='1'>C'est ce que je lui recommande souvent, mais elle se plaît à demeurer absorbée en elle-même.</s>
 </p>
 </sp>
-<sp who='MADAME-CAPULET'><speaker>Madame CAPULET.</speaker>
+<sp who='MADAME CAPULET'><speaker>MADAME CAPULET.</speaker>
 <p id='15'>
 	<s id='1'>Penses-tu que le comte Lodrano, à qui elle est promise, et qui est jeune et aimable, puisse l'enlever à ce triste état ?</s>
 </p>
@@ -1001,7 +1002,7 @@
 	<s id='1'>Je ne le crois pas : elle parait même avoir quelque éloignement pour lui.</s>
 </p>
 </sp>
-<sp who='MADAME-CAPULET'><speaker>Madame CAPULET.</speaker>
+<sp who='MADAME CAPULET'><speaker>MADAME CAPULET.</speaker>
 <p id='17'>
 	<s id='1'>Mais point de répugnance ?</s>
 </p>
@@ -1011,17 +1012,17 @@
 	<s id='1'>Pardonnez-moi.</s>
 </p>
 </sp>
-<sp who='MADAME-CAPULET'><speaker>Madame CAPULET.</speaker>
+<sp who='MADAME CAPULET'><speaker>MADAME CAPULET.</speaker>
 <p id='19'>
 	<s id='1'>Vous avez donc le privilège de lire mieux que moi dans le fond de son âme ?</s>
 </p>
 </sp>
 <sp who='LAURE'><speaker>LAURE.</speaker>
 <p id='20'>
-	<s id='1'>Non ; mais j'ai seulement remarqué en elle plus de joie que de tristesse lors de la derniere absence du comte.</s>
+	<s id='1'>Non ; mais j'ai seulement remarqué en elle plus de joie que de tristesse lors de la dernière absence du Comte.</s>
 </p>
 </sp>
-<sp who='MADAME-CAPULET'><speaker>Madame CAPULET.</speaker>
+<sp who='MADAME CAPULET'><speaker>MADAME CAPULET.</speaker>
 <p id='21'>
 	<s id='1'>Laure, vous détruisez ma plus chère espérance. </s>
 	<s id='2'>Cet aveu inattendu manquait à ma douleur. </s>
@@ -1033,7 +1034,7 @@
 	<s id='1'>La mort de Théobald.</s>
 </p>
 </sp>
-<sp who='MADAME-CAPULET'><speaker>Madame CAPULET.</speaker>
+<sp who='MADAME CAPULET'><speaker>MADAME CAPULET.</speaker>
 <p id='23'>
 	<s id='1'>Peut-on donner de si vifs regrets à une ombre, tandis que Théobald vivant ne semblait point altérer ses regards ?</s>
 </p>
@@ -1043,7 +1044,7 @@
 	<s id='1'>L'amour que l'on sent et que l'on dissimule est plus violent que celui qui nous agite en liberté.</s>
 </p>
 </sp>
-<sp who='MADAME-CAPULET'><speaker>Madame CAPULET.</speaker>
+<sp who='MADAME CAPULET'><speaker>MADAME CAPULET.</speaker>
 <p id='25'>
 	<s id='1'>Mais l'amour le plus vif, après les premières plaintes , s'ensevelit ordinairement dans le tombeau avec l'objet aimé. </s>
 	<s id='2'>Ainsi l'a voulu la nature qui, bornant nos douleurs comme nos p1aisirs, sèche nos larmes quand il n'y a plus de remède ni d'espérance.... </s>
@@ -1056,18 +1057,18 @@
 	<s id='1'>Ces brillantes qualités ne font pas toujours victorieuses,et l'amour a des yeux qui lui sont particuliers.</s>
 </p>
 </sp>
-<sp who='MADAME-CAPULET'><speaker>Madame CAPULET.</speaker>
+<sp who='MADAME CAPULET'><speaker>MADAME CAPULET.</speaker>
 <p id='27'>
 	<s id='1'>Vous êtes trop cruelle, Laure. </s>
 	<s id='2'>Je n'ai plus d'espoir qu'en son médecin ; j'ai remarqué que la présence adoucissait l'humeur sombre où elle est plongée ; elle devient plus calme, et le sourire encore à demi-voilé par la tristesse, renaît sur ses lèvres. </s>
 	<s id='3'>J'appellerai auprès d'elle le sage Benvoglio, dons l'esprit réunit toutes les sciences sublimes, et dont l'éloquence persuasive parle aux coeurs ; lui seul pourra m'aider à disposer ma fille à l'obéissance. </s>
 	<s id='4'>Allez ; et si elle repose, n'interrompez pas son sommeil : mais à l'instant qu'elle se réveillera, dites-lui que sa mère l'attend.</s>
 </p>
-<stage>Laure sort.</stage>
+<stage type="exit">Laure sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n='1'><head>SCÈNE I..</head>
-<sp who='MADAME-CAPULET'><speaker>Madame CAPULET, seule.</speaker>
+<div2 type="scene" n='2'><head>SCÈNE II.</head>
+<sp who='MADAME CAPULET'><speaker>MADAME CAPULET, seule.</speaker>
 <p id='1'>
 	<s id='1'>Un triste pressentiment, que je ne puis étouffer, me trouble sans cesse. </s>
 	<s id='2'>Ma fille n'est plus la même ; elle est changée au point que mes yeux n'osent plus s'arrêter sur sa personne. </s>
@@ -1075,18 +1076,18 @@
 	<s id='4'>Chère enfant ! </s>
 	<s id='5'>J'ai à supporter tes ennuis et les miens ; et l'on me croit heureuse ! </s>
 	<s id='6'>Et dans un rang moins élevé et plus tranquille on envie les dehors vains et brillants qui environnent et cachent ma triste vie ! </s>
-	<s id='7'>Ah, que l'oeil d'autrui est trompé par les apparences ! </s>
+	<s id='7'>Ah, que l'oeil d'autrui est trompé par les apparences ! </s>
 	<s id='8'>Mais voici mon sévère époux.</s>
 </p>
 </sp>
 </div2>
-<div2 type="scene" n='1'><head>SCÈNE I.I. Monsieur Capulet, Madame Capulet.</head>
+<div2 type="scene" n='3'><head>SCÈNE III. Monsieur Capulet, Madame Capulet.</head>
 <sp who='CAPULET'><speaker>CAPULET.</speaker>
 <p id='1'>
 	<s id='1'>Votre fille, madame, viendra-t-elle ?</s>
 </p>
 </sp>
-<sp who='MADAME-CAPULET'><speaker>Madame CAPULET.</speaker>
+<sp who='MADAME CAPULET'><speaker>MADAME CAPULET.</speaker>
 <p id='2'>
 	<s id='1'>Elle n'est pas bien, sa santé est plus altérée que l'on ne pense. </s>
 	<s id='2'>Cette nuit encore elle l'a passée à soupirer, à gémir, à s'entretenir de tombeaux. </s>
@@ -1101,7 +1102,7 @@
 	<s id='4'>J'ai répondu et j'ai promis.</s>
 </p>
 </sp>
-<sp who='MADAME-CAPULET'><speaker>Madame CAPULET.</speaker>
+<sp who='MADAME CAPULET'><speaker>MADAME CAPULET.</speaker>
 <p id='4'>
 	<s id='1'>Mais...</s>
 </p>
@@ -1111,7 +1112,7 @@
 	<s id='1'>Qu'avez- vous encore à m'objecter, madame?</s>
 </p>
 </sp>
-<sp who='MADAME-CAPULET'><speaker>Madame CAPULET.</speaker>
+<sp who='MADAME CAPULET'><speaker>MADAME CAPULET.</speaker>
 <p id='6'>
 	<s id='1'>Vous savez que vos volontés sont et seront toujours des lois... </s>
 	<s id='2'>Néanmoins j'aurais pensé que la bienséance demandait qu'on attendit que le deuil de Théobald...</s>
@@ -1119,11 +1120,11 @@
 </sp>
 <sp who='CAPULET'><speaker>CAPULET.</speaker>
 <p id='7'>
-	<s id='1'>Il finit demain, madame ; et pour jouir d'une plus grande tranquillité, la cérémonie du mariage se fera à la campagne en présence de nos parens les plus proches ; nous réserverons les fêtes pour la ville. </s>
+	<s id='1'>Il finit demain, madame ; et pour jouir d'une plus grande tranquillité, la cérémonie du mariage se fera à la campagne en présence de nos parents les plus proches ; nous réserverons les fêtes pour la ville. </s>
 	<s id='2'>Le comte désire vivement cet hymen ; et puisqu'il faut m'expliquer, je le souhaite autant que lui.</s>
 </p>
 </sp>
-<sp who='MADAME-CAPULET'><speaker>Madame CAPULET.</speaker>
+<sp who='MADAME CAPULET'><speaker>MADAME CAPULET.</speaker>
 <p id='8'>
 	<s id='1'>Votre fille est dans un abattement...</s>
 </p>
@@ -1138,7 +1139,7 @@
 	<s id='6'>Je cherche de tout mon pouvoir : à venger sa mort ; et si Roméo n'a pas encore payé ce meurtre de sa tête, c'est qu'il s'est dérobé promptement à mes poursuites : mais elles ne seront pas longtemps vaines ; de tous côtés on l'épie ; et si mon attente n'est pas trompée , nous ne tarderons pas, madame, à voir les échafauds teints de son sang.</s>
 </p>
 </sp>
-<sp who='MADAME-CAPULET'><speaker>Madame CAPULET.</speaker>
+<sp who='MADAME CAPULET'><speaker>MADAME CAPULET.</speaker>
 <p id='10'>
 	<s id='1'>Quoi, toujours du sang ! </s>
 	<s id='2'>Ma fille a raison d'être troublée. </s>
@@ -1153,7 +1154,7 @@
 	<s id='3'>Il est un âge où une fille est toute à la vérité : mais il en vient bientôt un autre, et le passage est rapide ; ou elle dissimule, ou elle y est forcée peut-être parce qu'elle doit paraître le contraire de ce qu'elle est en effet.</s>
 </p>
 </sp>
-<sp who='MADAME-CAPULET'><speaker>Madame CAPULET.</speaker>
+<sp who='MADAME CAPULET'><speaker>MADAME CAPULET.</speaker>
 <p id='12'>
 	<s id='1'>Juliette est au-dessus de toute affectation, vous le savez. </s>
 	<s id='2'>Nous avons plus d'une fois admiré Sa candeur naïve et l'innocence de son âme. Une imagination vive et prompte à s'émouvoir peut lui causer des peines et des plaisirs fantastiques ; mais l'amour, je vous l'assure, n'entre point dans les chagrins de ma fille.</s>
@@ -1166,7 +1167,7 @@
 	<s id='3'>Je vais la voir et lui intimer mes ordres.</s>
 </p>
 </sp>
-<sp who='MADAME-CAPULET'><speaker>Madame CAPULET.</speaker>
+<sp who='MADAME CAPULET'><speaker>MADAME CAPULET.</speaker>
 <p id='14'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>De grâce, laissez à la voix d'une mère le soin de la préparer à ce que vous exigez... </s>
@@ -1178,7 +1179,7 @@
 	<s id='1'>Obéissance, entière obéissance, voilà le devoir des enfants.</s>
 </p>
 </sp>
-<sp who='MADAME-CAPULET'><speaker>Madame CAPULET.</speaker>
+<sp who='MADAME CAPULET'><speaker>MADAME CAPULET.</speaker>
 <p id='16'>
 	<s id='1'>Jugez sa vie entière. </s>
 	<s id='2'>Jamais fille ne fut plus douce plus soumise, à ses parents.</s>
@@ -1190,7 +1191,7 @@
 	<s id='2'>Je vous remets le soin de lui annoncer mes volontés.</s>
 </p>
 </sp>
-<sp who='MADAME-CAPULET'><speaker>Madame CAPULET.</speaker>
+<sp who='MADAME CAPULET'><speaker>MADAME CAPULET.</speaker>
 <p id='18'>
 	<s id='1'>Je l'accepte, et je regarde cette permission comme une faveur ; mais pourrais-je vous prier ?...</s>
 </p>
@@ -1200,7 +1201,7 @@
 	<s id='1'>De quoi encore ?</s>
 </p>
 </sp>
-<sp who='MADAME-CAPULET'><speaker>Madame CAPULET.</speaker>
+<sp who='MADAME CAPULET'><speaker>MADAME CAPULET.</speaker>
 <p id='20'>
 	<s id='1'>Ne me refusez pas ; accordez-lui quelques jours ; elle en a besoin pour que sa beauté, altérée par la maladie, reprenne son premier éclat.</s>
 </p>
@@ -1212,7 +1213,7 @@
 	<s id='3'>Ne poussez pas trop loin une molle complaisance, ou je retire...</s>
 </p>
 </sp>
-<sp who='MADAME-CAPULET'><speaker>Madame CAPULET.</speaker>
+<sp who='MADAME CAPULET'><speaker>MADAME CAPULET.</speaker>
 <p id='22'>
 	<s id='2'>Relâchez de votre inflexible sévérité.</s>
 </p>
@@ -1222,18 +1223,18 @@
 	<s id='1'>Point de délai : j'ai mes raisons, et vous m'applaudirez. </s>
 	<s id='2'>Vous le savez, mes ordres ne reculent jamais. </s>
 	<s id='3'>Il faut qu'elle obéisse aujourd'hui. </s>
-	<s id='4'>Pesez ces dernieres paroles, et faites les sentir à votre fille.</s>
+	<s id='4'>Pesez ces dernières paroles, et faites les sentir à votre fille.</s>
 </p>
 </sp>
 </div2>
-<div2 type="scene" n='5'><head>SCÈNE IV.</head>
-<sp who='MADAME-CAPULET'><speaker>Madame CAPULET, seule.</speaker>
+<div2 type="scene" n='4'><head>SCÈNE IV.</head>
+<sp who='MADAME CAPULET'><speaker>MADAME CAPULET, seule.</speaker>
 <p id='1'>
 	<s id='1'>Ainsi les hommes ne savent que commander d'un ton absolu, et ne veulent pas employer les moyens de se faire obéir. </s>
 	<s id='2'>De la douceur, des égards, et ils subjugueraient toutes nos idées ; mais l'image de la tyrannie révolte une âme qui se connaît la faculté de raisonner et de sentir. </s>
 	<s id='3'>Maîtres cruels, votre autorité embrasse donc tout le cercle de notre existence ! </s>
-	<s id='4'>Filles, épouses, nous dépendons d'eux toute notre vie ; et l'on nous croit faibles et bornées, parce qu'en toute occasion on a pris soin d'assujettir nos pensées et nos sentimens... </s>
-	<s id='5'>Si j'allais la trouver contraire aux choix que son père a fait pour elle !... </s>
+	<s id='4'>Filles, épouses, nous dépendons d'eux toute notre vie ; et l'on nous croit faibles et bornées, parce qu'en toute occasion on a pris soin d'assujettir nos pensées et nos sentiments... </s>
+	<s id='5'>Si j'allais la trouver contraire aux choix que son père a fait pour elle !... </s>
 	<s id='6'>Non, son âme est neuve, elle n'a point appris à disposer de son coeur, aucun objet fait pour la séduire ne l'a frappée... </s>
 	<s id='7'>La voici.</s>
 </p>
@@ -1242,7 +1243,7 @@
 <div2 type="scene" n='5'><head>SCÈNE V. Madame Capulet, Juliette, Laure.</head>
 <sp who='LAURE'><speaker>LAURE, bas à Juliette.</speaker>
 <p id='1'>
-	<s id='1'>Remmettez-vous ; avancez.</s>
+	<s id='1'>Remettez-vous ; avancez.</s>
 </p>
 </sp>
 <sp who='JULIETTE'><speaker>JULIETTE, s'inclinant vers sa mère.</speaker>
@@ -1250,11 +1251,11 @@
 	<s id='1'>Ma mère, qu'aucun jour de ma vie ne se passe sans obtenir votre bénédiction. .</s>
 </p>
 </sp>
-<sp who='MADAME-CAPULET'><speaker>Madame CAPULET.</speaker>
+<sp who='MADAME CAPULET'><speaker>MADAME CAPULET.</speaker>
 <p id='3'>
 	<s id='1'>Ma chère fille, que Dieu te bénisse ; mais pourquoi donc si tremblante, si affligée ?</s>
 </p>
-<stage>À part.</stage>
+<stage type="aparte">À part.</stage>
 <p id='4'>
 	<s id='1'>Comme elle est pâle !</s>
 </p>
@@ -1264,7 +1265,7 @@
 	<s id='1'>Ah, j'ai passé une nuit en même temps si douce et si cruelle !</s>
 </p>
 </sp>
-<sp who='MADAME-CAPULET'><speaker>Madame CAPULET.</speaker>
+<sp who='MADAME CAPULET'><speaker>MADAME CAPULET.</speaker>
 <p id='6'>
 	<s id='1'>Douce et cruelle ! </s>
 	<s id='2'>On croirait plutôt le dernier, aux traces de larmes encore empreintes sur votre visage.</s>
@@ -1277,7 +1278,7 @@
 	<s id='3'>Que ne l'ai-je suivi !...</s>
 </p>
 </sp>
-<sp who='MADAME-CAPULET'><speaker>Madame CAPULET.</speaker>
+<sp who='MADAME CAPULET'><speaker>MADAME CAPULET.</speaker>
 <p id='8'>
 	<s id='1'>Écartez ces lugubres images, oubliez Théobald ; au fond de son cercueil il est plus heureux que son meurtrier.</s>
 </p>
@@ -1287,7 +1288,7 @@
 	<s id='1'>Vous l'avez dit ; il est plus heureux que Roméo qui voit le glaive de la vengeance suspendu sur sa tête ; il est plus heureux que moi qui pleure une perte irréparable ; délivré de toute crainte, exempt de toute souffrance , il ne redoute plus l'incertain avenir.</s>
 </p>
 </sp>
-<sp who='MADAME-CAPULET'><speaker>Madame CAPULET.</speaker>
+<sp who='MADAME CAPULET'><speaker>MADAME CAPULET.</speaker>
 <p id='10'>
 	<s id='1'>Pourquoi donc gémir encore sur une cendre insensible ? </s>
 	<s id='2'>Ma fille, je ne puis vous comprendre.</s>
@@ -1300,7 +1301,7 @@
 	<s id='3'>Tout ce qui m'environne est triste ; le ciel est sombre, orageux, l'air pesant, si pesant qu'à peine je respire.</s>
 </p>
 </sp>
-<sp who='MADAME-CAPULET'><speaker>Madame CAPULET.</speaker>
+<sp who='MADAME CAPULET'><speaker>MADAME CAPULET.</speaker>
 <p id='12'>
 	<s id='1'>Asseyez-vous; si vous chassiez ces tristes idées, Juliette, alors le ciel vous paraîtrait plus serein, l'air plus pur.</s>
 </p>
@@ -1310,7 +1311,7 @@
 	<s id='1'>Je le voudrais ; mais mon destin s'y oppose : puis-je commander à mon coeur ?</s>
 </p>
 </sp>
-<sp who='MADAME-CAPULET'><speaker>Madame CAPULET.</speaker>
+<sp who='MADAME CAPULET'><speaker>MADAME CAPULET.</speaker>
 <p id='14'>
 	<s id='1'>Idées chimériques ! </s>
 	<s id='2'>Oui, ma chère enfant, vous le pouvez. </s>
@@ -1323,7 +1324,7 @@
 	<s id='2'>Ce n'est pas mon dessein, ma tendre mère.</s>
 </p>
 </sp>
-<sp who='MADAME-CAPULET'><speaker>Madame CAPULET.</speaker>
+<sp who='MADAME CAPULET'><speaker>MADAME CAPULET.</speaker>
 <p id='16'>
 	<s id='1'>Eh bien, si vous ne résistez pas aux conseils d'une mère qui vous traite en amie, vous pourrez encore prétendre au bonheur.</s>
 </p>
@@ -1334,7 +1335,7 @@
 	<s id='2'>Ah, qu'il est loin de moi !</s>
 </p>
 </sp>
-<sp who='MADAME-CAPULET'><speaker>Madame CAPULET.</speaker>
+<sp who='MADAME CAPULET'><speaker>MADAME CAPULET.</speaker>
 <p id='18'>
 	<s id='1'>Il est plus près que vous ne pensez, si vous ne vous y refusez pas. </s>
 	<s id='2'>Je vous apporte une nouvelle intéressante, satisfaisante pour votre père, pour moi, pour vous, pour toute notre maison.</s>
@@ -1344,18 +1345,18 @@
 <p id='19'>
 	<s id='1'>Notre maison !...</s>
 </p>
-<stage>À part.</stage>
+<stage type="aparte">À part.</stage>
 <p id='20'>
 	<s id='1'>Roméo !... </s>
 	<s id='2'>Je tremble, ma tête se perd... </s>
 	<s id='3'>Ciel ! </s>
 </p>
-<stage>Se remettant.</stage>
+<stage type="[N/A]">Se remettant.</stage>
 <p id='21'>
 	<s id='1'>Madame, dites avant tout, Roméo est-il puni ?</s>
 </p>
 </sp>
-<sp who='MADAME-CAPULET'><speaker>Madame CAPULET.</speaker>
+<sp who='MADAME CAPULET'><speaker>MADAME CAPULET.</speaker>
 <p id='22'>
 	<s id='1'>Toujours Roméo, Théobald !... </s>
 	<s id='2'>Quoi ! </s>
@@ -1367,7 +1368,7 @@
 	<s id='1'>Dites, ô ma mère, Roméo est-il arrêté ?</s>
 </p>
 </sp>
-<sp who='MADAME-CAPULET'><speaker>Madame CAPULET.</speaker>
+<sp who='MADAME CAPULET'><speaker>MADAME CAPULET.</speaker>
 <p id='24'>
 	<s id='1'>Non, ma fille.</s>
 </p>
@@ -1376,12 +1377,12 @@
 <p id='25'>
 	<s id='1'>Je renais.</s>
 </p>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 <p id='26'>
 	<s id='1'>Il ne l'est pas, vous en êtes sûre ?</s>
 </p>
 </sp>
-<sp who='MADAME-CAPULET'><speaker>Madame CAPULET.</speaker>
+<sp who='MADAME CAPULET'><speaker>MADAME CAPULET.</speaker>
 <p id='27'>
 	<s id='1'>Gardons le silence sur cet événement fatal ; laissons la vengeance aux lois ; et pourquoi ajouter la haine à leur rigueur ? </s>
 	<s id='2'>Je vous le répète, on veut vous rendre heureuse : votre père, qui désire votre bonheur autant que moi, va vous placer dans un rang... </s>
@@ -1393,7 +1394,7 @@
 	<s id='1'>Je ne veux point du bonheur que vous allez m'offrir.</s>
 </p>
 </sp>
-<sp who='MADAME-CAPULET'><speaker>Madame CAPULET.</speaker>
+<sp who='MADAME CAPULET'><speaker>MADAME CAPULET.</speaker>
 <p id='29'>
 	<s id='1'>Et quoi ! </s>
 	<s id='2'>Sans m'entendre ?</s>
@@ -1405,7 +1406,7 @@
 	<s id='2'>Je vous entends, hélas !...</s>
 </p>
 </sp>
-<sp who='MADAME-CAPULET'><speaker>Madame CAPULET.</speaker>
+<sp who='MADAME CAPULET'><speaker>MADAME CAPULET.</speaker>
 <p id='31'>
 	<s id='1'>Votre père, ma fille...</s>
 </p>
@@ -1416,7 +1417,7 @@
 	<s id='2'>Épargnez-moi ce malheur.</s>
 </p>
 </sp>
-<sp who='MADAME-CAPULET'><speaker>Madame CAPULET.</speaker>
+<sp who='MADAME CAPULET'><speaker>MADAME CAPULET.</speaker>
 <p id='33'>
 	<s id='1'>Jamais je n'aurais prévu. . . .</s>
 </p>
@@ -1426,7 +1427,7 @@
 	<s id='1'>Ne me dites rien, ma mère, ô la meilleure et la plus tendre des mères, non, non, de grâce, ne me dites rien.</s>
 </p>
 </sp>
-<sp who='MADAME-CAPULET'><speaker>Madame CAPULET.</speaker>
+<sp who='MADAME CAPULET'><speaker>MADAME CAPULET.</speaker>
 <p id='35'>
 	<s id='1'>C'est trop d'obstination, ma fille ; vous devez m'écouter, recevoir avec respect les ordres d'un père.</s>
 </p>
@@ -1437,7 +1438,7 @@
 	<s id='2'>Que veut-il de moi ?</s>
 </p>
 </sp>
-<sp who='MADAME-CAPULET'><speaker>Madame CAPULET.</speaker>
+<sp who='MADAME CAPULET'><speaker>MADAME CAPULET.</speaker>
 <p id='37'>
 	<s id='1'>Votre père cruel !... </s>
 	<s id='2'>Dieu ! </s>
@@ -1461,7 +1462,7 @@
 	<s id='1'>Ouvrez-moi un tombeau, vous dis-je , afin qu'en m'y précipitant , j'échappe au comte.</s>
 </p>
 </sp>
-<sp who='MADAME-CAPULET'><speaker>Madame CAPULET.</speaker>
+<sp who='MADAME CAPULET'><speaker>MADAME CAPULET.</speaker>
 <p id='41'>
 	<s id='1'>Je vois que la raison n'a plus sur vous aucun empire, ma fille ; n'abusez pas de ma tendresse ; craignez que je ne vous abandonne au courroux d'un père irrité... </s>
 	<s id='2'>Mais j'exige qu'en ce moment vous m'expliquiez la cause de vos superbes refus. </s>
@@ -1473,7 +1474,7 @@
 	<s id='1'>Ma main ne peut se donner à un homme que je n'aimerai jamais.</s>
 </p>
 </sp>
-<sp who='MADAME-CAPULET'><speaker>Madame CAPULET.</speaker>
+<sp who='MADAME CAPULET'><speaker>MADAME CAPULET.</speaker>
 <p id='43'>
 	<s id='1'>Jamais !... </s>
 	<s id='2'>Quel est donc l'homme qui pourra toucher votre coeur, Juliette ?</s>
@@ -1488,7 +1489,7 @@
 	<s id='5'>Il n'est plus.</s>
 </p>
 </sp>
-<sp who='MADAME-CAPULET'><speaker>Madame CAPULET.</speaker>
+<sp who='MADAME CAPULET'><speaker>MADAME CAPULET.</speaker>
 <p id='45'>
 	<s id='1'>J'ai pitié de votre égarement ; consentirez-vous donc à vivre dans des illusions perpétuelles ? </s>
 	<s id='2'>Le comte a la naissance, les richesses, les qualités qui plaisent ; il vous aime.</s>
@@ -1501,11 +1502,11 @@
 	<s id='3'>Si Roméo, le plus cruel ennemi de notre famille, si l'assassin de Théobald m'aimait aussi, répondez, lui devrais-je le don de mon coeur ?</s>
 </p>
 </sp>
-<sp who='MADAME-CAPULET'><speaker>Madame CAPULET.</speaker>
+<sp who='MADAME CAPULET'><speaker>MADAME CAPULET.</speaker>
 <p id='47'>
 	<s id='1'>Vous m'alléguez l'impossible... </s>
 	<s id='2'>Roméo nous hait autant que nous le haïssons. </s>
-	<s id='3'>Mais tout se réunit en faveur du comte : son amour, le choix de vos parents, ce que cet hymen vous promet d'heureuses destinées...</s>
+	<s id='3'>Mais tout se réunit en faveur du comte : son amour, le choix de vos parents, ce que cet hymen vous promet d'heureuses destinées...</s>
 </p>
 </sp>
 <sp who='JULIETTE'><speaker>JULIETTE.</speaker>
@@ -1513,7 +1514,7 @@
 	<s id='1'>Ma mère, si vous ne voulez pas que j'expire à vos pieds, épargnez-moi l'horreur d'en entendre davantage.</s>
 </p>
 </sp>
-<sp who='MADAME-CAPULET'><speaker>Madame CAPULET.</speaker>
+<sp who='MADAME CAPULET'><speaker>MADAME CAPULET.</speaker>
 <p id='49'>
 	<s id='1'>Ah, malheureuse enfant, je pleure et m'attendris sur toi !</s>
 </p>
@@ -1523,7 +1524,7 @@
 	<s id='1'>Punissez une fille rebelle.</s>
 </p>
 </sp>
-<sp who='MADAME-CAPULET'><speaker>Madame CAPULET.</speaker>
+<sp who='MADAME CAPULET'><speaker>MADAME CAPULET.</speaker>
 <p id='51'>
 	<s id='1'>Pour l'amour de vous-même, ma fille, pesez la réponse que je dois faire à votre père.</s>
 </p>
@@ -1533,7 +1534,7 @@
 	<s id='1'>Dites-lui que je préfère la mort, que je baiserai la main paternelle qui me délivrera et la vie.</s>
 </p>
 </sp>
-<sp who='MADAME-CAPULET'><speaker>Madame CAPULET.</speaker>
+<sp who='MADAME CAPULET'><speaker>MADAME CAPULET.</speaker>
 <p id='53'>
 	<s id='1'>Je ne vous reconnais plus... </s>
 	<s id='2'>Ah, que vous servira ma tendresse ! </s>
@@ -1548,7 +1549,7 @@
 	<s id='2'>Mais...</s>
 </p>
 </sp>
-<sp who='MADAME-CAPULET'><speaker>Madame CAPULET.</speaker>
+<sp who='MADAME CAPULET'><speaker>MADAME CAPULET.</speaker>
 <p id='55'>
 	<s id='1'>Achevez.</s>
 </p>
@@ -1582,12 +1583,12 @@
 <sp who='MADAME-CAPULET'><speaker>MADAME CAPULET.</speaker>
 <p id='61'>
 	<s id='1'>Elle pâlit... </s>
-	<s id='2'>Elle est prête à perdre connoissance... </s>
+	<s id='2'>Elle est prête à perdre connaissance... </s>
 	<s id='3'>Laure, Laure !</s>
 </p>
-<stage>Aidant à l'asseoir.</stage>
+<stage type="[N/A]">Aidant à l'asseoir.</stage>
 <p id='62'>
-	<s id='1'>Recourons à Benvoglio...  </s>
+	<s id='1'>Recourons à Benvoglio...  </s>
 	<s id='2'>Je suis la plus malheureuse des mères !</s>
 </p>
 </sp>
@@ -1599,7 +1600,7 @@
 <sp who='MADAME-CAPULET'><speaker>MADAME CAPULET.</speaker>
 <p id='64'>
 	<s id='1'>Restez auprès de Juliette. </s>
-	<s id='2'>Secourez-la, cherchez à la ranimer ; je vais faire appeller son médecin, et tenter un dernier effort sur son père.</s>
+	<s id='2'>Secourez-la, cherchez à la ranimer ; je vais faire appeler son médecin, et tenter un dernier effort sur son père.</s>
 </p>
 </sp>
 </div2>
@@ -1666,7 +1667,7 @@
 <sp who='BENVOGLIO'><speaker>BENVOGLIO.</speaker>
 <p id='2'>
 	<s id='1'>J'accours, ma digne amie... </s>
-	<s id='2'>C'est votre mère qui m'envoje vers vous... </s>
+	<s id='2'>C'est votre mère qui m'envoie vers vous... </s>
 	<s id='3'>Elle m'aurait effrayé, si j'eusse ignoré ce qui s'est passé cette nuit.</s>
 </p>
 </sp>
@@ -1729,7 +1730,7 @@
 	<s id='3'>Je sens ses peines et ses inquiétudes... </s>
 	<s id='4'>Ô volupté pure, quelle bouche est digne de chanter tes mystères ! </s>
 	<s id='5'>C'est en vain que les institutions humaines contrarient ce noble élan des coeurs ; dès que la voix du sentiment s'est fait entendre, les profanes clameurs du préjugé s'évanouissent et cèdent à la plus légitime comme à la plus sacrée de toutes les lois. </s>
-	<s id='6'>Vous fûtes à vos yeux deux êtres que toute la nature devait embrasser et recueillir dans son sein ; j'ai applani les obstacles, j'ai guidé vos pas, j'ai dirigé vos âmes ardentes et inconsidées : vous vous êtes trouvés par mes soins en présence des autels ; je n'ai craint ni les reproches ni l'autorité de votre père ; Roméo et Juliette s'aimaient, il leur appartenait d'être heureux.</s>
+	<s id='6'>Vous fûtes à vos yeux deux êtres que toute la nature devait embrasser et recueillir dans son sein ; j'ai aplani les obstacles, j'ai guidé vos pas, j'ai dirigé vos âmes ardentes et inconsidérées : vous vous êtes trouvés par mes soins en présence des autels ; je n'ai craint ni les reproches ni l'autorité de votre père ; Roméo et Juliette s'aimaient, il leur appartenait d'être heureux.</s>
 </p>
 </sp>
 <sp who='JULIETTE'><speaker>JULIETTE.</speaker>
@@ -1743,7 +1744,7 @@
 	<s id='7'>Non... </s>
 	<s id='8'>Le prêtre, les flambeaux, les ombres, la majesté du temple, tout avait disparu ; je ne voyais que Roméo ; sa noble main pressée, confondue dans la mienne... </s>
 	<s id='9'>Ô ravissement ! </s>
-	<s id='10'>Point de trouble dans mon coeur u ic joie douce et profonde en écartait la terreur et le crainte ; le concert des immortels semblait retentir à notre oreille charmée, et félicité devenait la nôtre... </s>
+	<s id='10'>Point de trouble dans mon coeur, une joie douce et profonde en écartait la terreur et le crainte ; le concert des immortels semblait retentir à notre oreille charmée, et félicité devenait la nôtre... </s>
 	<s id='11'>Vous êtes mon véritable père, Benvoglio. </s>
 	<s id='12'>Capulet m'a donné le jour ; mais à qui dois-je ce calme, cette élévation, cette force de la pensée, qui a déterminé le bonheur de Roméo et le mien ?... </s>
 	<s id='13'>Mais, ô revers ! </s>
@@ -1784,7 +1785,7 @@
 <p id='21'>
 	<s id='1'>Moi seul vous connais, ô ma Juliette ! </s>
 	<s id='2'>Et j'en suis orgueilleux ; moi seul ai descendu dans cette âme sensible, moi seul en connais les trésors ignorés. </s>
-	<s id='3'>Souvent en ma présence votre père a parlé de vos grâces, et il méconnoissait vos vertus. </s>
+	<s id='3'>Souvent en ma présence votre père a parlé de vos grâces, et il méconnaissait vos vertus. </s>
 	<s id='4'>Votre mère disait que vous étiez noble et bonne : faibles expressions pour rendre l'assemblage de vos rares qualités. </s>
 	<s id='5'>Vous avez marché au milieu d'un monde aveugle, qui n'était point fait pour vous apprécier. </s>
 	<s id='6'>Existez pour Roméo et pour moi ; c'est à nous de réparer l'inattention de ce qui vous environne. </s>
@@ -1811,7 +1812,7 @@
 <sp who='BENVOGLIO'><speaker>BENVOGLIO.</speaker>
 <p id='25'>
 	<s id='1'>Je me complais dans mon heureux ouvrage... </s>
-	<s id='2'>Que Capulet tonne, menace... </s>
+	<s id='2'>Que Capulet tonne, menace... </s>
 	<s id='3'>Vous ne seriez pas liée à Roméo par des serments inviolables, vous seriez en ce moment indépendante et libre, que je vous dirais : noble amie, que le vice qui calcule réponde à l'ambition ; mais que l'amour ne réponde qu'à l'amour : réservez votre main pour celui qui aura touché votre coeur. </s>
 	<s id='4'>Qui cède sans amour, le profane et se dégrade. </s>
 	<s id='5'>L'amour marque la perfection sublime de notre être, ou son dernier avilissement. </s>
@@ -1852,7 +1853,7 @@
 </sp>
 <sp who='BENVOGLIO'><speaker>BENVOGLIO.</speaker>
 <p id='31'>
-	<s id='1'>Il eut pour vous de la prudence... </s>
+	<s id='1'>Il eut pour vous de la prudence... </s>
 	<s id='2'>Et comment échapper, lorsque votre père a tout crédit et des alliés puissants. </s>
 	<s id='3'>Où vous réfugieriez-vous ?... </s>
 	<s id='4'>Sans mes soins assidus et vigilants, auriez-vous pu jouir une seule fois de la présence de votre amant ? </s>
@@ -1894,7 +1895,7 @@
 	<s id='7'>Tu éteins dans son coeur le farouche intérêt personnel pour lui révéler les jouissances que donne le plaisir de servir ce qu'on aime. </s>
 	<s id='8'>Il est toujours insensible et froid, l'homme qui se refuse à tes feux : son coeur qui s'isole se durcit, il n'est plus disposé à la compassion ni à la pitié. </s>
 	<s id='9'>Malheureux ! </s>
-	<s id='10'>Il ne connait point l'élan rapide et mutuel des âmes. </s>
+	<s id='10'>Il ne connaît point l'élan rapide et mutuel des âmes. </s>
 	<s id='11'>Ô Juliette, ô Roméo ! </s>
 	<s id='12'>Âmes nées pour sentir le bonheur et le répandre autour de vous, aimez-vous, mes enfants, aimez-vous, parce que l'amour est ce qu'il y a de meilleur ici-bas, en ce qu'il nous dispose aux vertus, parce que le coeur s'améliore par l'exercice précieux du sentiment, parce que l'amour est compagnon de la force, du courage, des nobles et grandes entreprises. </s>
 	<s id='13'>Que le foyer de votre tendresse se rapproche de celui de l'humanité ; que vos plaisirs élèvent, agrandissent vos âmes et les portent vers des idées vastes et généreuses. </s>
@@ -1921,7 +1922,7 @@
 </div2>
 </div1>
 <div1 type="act" n='3'><head>ACTE III</head>
-<div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Capulet, Madame Capulat.</head>
+<div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Capulet, Madame Capulet.</head>
 <sp who='CAPULET'><speaker>CAPULET.</speaker>
 <p id='1'>
 	<s id='1'>Épargnez-moi vos prières, madame. </s>
@@ -1932,7 +1933,7 @@
 <p id='2'>
 	<s id='1'>Ne brisez pas son coeur, lorsque vous pouvez le plier sans effort. </s>
 	<s id='2'>Croyez-moi, Juliette est malade, plus malade que vous ne pensez. </s>
-	<s id='3'>Sa maladie est dans l'âme...</s>
+	<s id='3'>Sa maladie est dans l'âme...</s>
 </p>
 </sp>
 <sp who='CAPULET'><speaker>CAPULET.</speaker>
@@ -1958,7 +1959,7 @@
 <sp who='MADAME-CAPULET'><speaker>MADAME CAPULET.</speaker>
 <p id='6'>
 	<s id='1'>Notre coeur, vous le savez, ne se laisse pas toujours guider par cette raison mâle qui vous caractérise. </s>
-	<s id='2'>N'êtes-vous point trop sévère, en lui réfusant un cout délai ? </s>
+	<s id='2'>N'êtes-vous point trop sévère, en lui refusant un court délai ? </s>
 	<s id='3'>Craignez qu'un ordre violent ne lui devienne fatal.</s>
 </p>
 </sp>
@@ -2003,7 +2004,7 @@
 <p id='2'>
 	<s id='1'>Sortez, Laure.</s>
 </p>
-<stage>Laure fort.</stage>
+<stage type="[N/A]">Laure fort.</stage>
 <p id='3'>
 	<s id='1'>Il faut donc que je sois moi-même le porteur de mes ordres.</s>
 </p>
@@ -2068,7 +2069,7 @@
 	<s id='3'>Épargnez-vous les pleurs : je n'y crois point. </s>
 	<s id='4'>J'ai tout pesé mûrement, et mon expérience, vous m'en croirez peut-être, est faite pour vous guider. </s>
 	<s id='5'>Préparez-vous à me suivre à la campagne dès aujourd'hui ; là, vous donnerez votre main au comte Lodrano. </s>
-	<s id='6'>Il est d'une race illustre, et tout vous ordonne.. .</s>
+	<s id='6'>Il est d'une race illustre, et tout vous ordonne.. .</s>
 </p>
 </sp>
 <sp who='JULIETTE'><speaker>JULIETTE.</speaker>
@@ -2078,7 +2079,7 @@
 </sp>
 <sp who='CAPULET'><speaker>CAPULET.</speaker>
 <p id='15'>
-	<s id='1'>N'achevez pas... </s>
+	<s id='1'>N'achevez pas... </s>
 	<s id='2'>Mais... </s>
 	<s id='3'>Parlez cependant, et me dites ce qui vous déplaît dans le comte Lodrano, et quel est le motif de cette désobéissance formelle.</s>
 </p>
@@ -2152,7 +2153,7 @@
 <div2 type="scene" n='4'><head>SCÈNE IV.</head>
 <sp who='JULIETTE'><speaker>JULIETTE, seule.</speaker>
 <p id='1'>
-	<s id='1'>Il est donc prononcé ce terrible arrêt ! </s>
+	<s id='1'>Il est donc prononcé ce terrible arrêt ! </s>
 	<s id='2'>Mais d'où vient que cet ordre despotique n'a fait aucune impression sur mon âme ?... </s>
 	<s id='3'>Les larmes de ma mère m'ont plus touchée que ses menaces. </s>
 	<s id='4'>Je sens mon coeur qui se raidit, au lieu de se soumettre... </s>
@@ -2174,7 +2175,7 @@
 <div2 type="scene" n='5'><head>SCÈNE V. Juliette, Laure.</head>
 <sp who='LAURE'><speaker>LAURE.</speaker>
 <p id='1'>
-	<s id='1'>Coment vous trouvez-vous ? </s>
+	<s id='1'>Comment vous trouvez-vous ? </s>
 	<s id='2'>Qu'a produit cet entretien ? </s>
 	<s id='3'>Je tremble d'en apprendre l'issue.</s>
 </p>
@@ -2198,7 +2199,7 @@
 <sp who='LAURE'><speaker>LAURE.</speaker>
 <p id='5'>
 	<s id='1'>Ah, Dieu ! </s>
-	<s id='2'>Quelle image vous m'ossrez!</s>
+	<s id='2'>Quelle image vous m'offrez!</s>
 </p>
 </sp>
 <sp who='JULIETTE'><speaker>JULIETTE.</speaker>
@@ -2238,7 +2239,7 @@
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Benvoglio, Juliette.</head>
 <sp who='JULIETTE'><speaker>JULIETTE. </speaker>
-<stage>Elle joint les mains et pleure.</stage>
+<stage type="[N/A]">Elle joint les mains et pleure.</stage>
 <p id='1'>
 	<s id='1'>Ah, Benvoglio ! </s>
 	<s id='2'>Je lis sur votre visage...</s>
@@ -2246,7 +2247,7 @@
 </sp>
 <sp who='BENVOGLIO'><speaker>BENVOGLIO.</speaker>
 <p id='2'>
-	<s id='1'>On n'appaise point un Capulet... </s>
+	<s id='1'>On n'apaise point un Capulet... </s>
 	<s id='2'>Votre père !... </s>
 	<s id='3'>Qu'il est petit dans ses grandeurs !</s>
 </p>
@@ -2271,7 +2272,7 @@
 	<s id='1'>Oubliez-vous ce que peut ma tendresse ?... </s>
 	<s id='2'>J'ai intercédé pour vous, et soudain j'ai vu le courroux enflammer son visage : j'ai été forcé de promettre que je m'emploierais à vous persuader ; car les grands sont tellement familiarisés avec le despotisme, qu'ils s'imaginent que ceux qui se trouvent sous leurs pas font faits pour leur servir de ministres. </s>
 	<s id='3'>Le court espace de temps qui vous reste, ma digne et malheureuse amie, va bientôt s'écouler. </s>
-	<s id='4'>Il ne faut point compter sur l'indulgence d'un père qui ne suit que ses idées ambitieuses ; dans trois heures il vous enleve, il force votre main...</s>
+	<s id='4'>Il ne faut point compter sur l'indulgence d'un père qui ne suit que ses idées ambitieuses ; dans trois heures il vous enlève, il force votre main...</s>
 </p>
 </sp>
 <sp who='JULIETTE'><speaker>JULIETTE, fièrement.</speaker>
@@ -2280,11 +2281,11 @@
 	<s id='2'>Mais, répondez, tous les pères sont-ils ainsi ?... Non, non, je m'arrête... </s>
 	<s id='3'>Je dois respecter mon père. </s>
 	<s id='4'>Dieu ! </s>
-	<s id='5'>Qui m'eût dit qu'un père ne seroit plus à mes yeux le plus cher des mortels !... </s>
+	<s id='5'>Qui m'eût dit qu'un père ne serait plus à mes yeux le plus cher des mortels !... </s>
 	<s id='6'>Il forcera ma main... </s>
 	<s id='7'>Vous m'avez dit cent fois que le courage était la première vertu et la plus nécessaire dans la carrière orageuse de la vie...</s>
 </p>
-<stage>Elle tire un poignard.</stage>
+<stage type="[N/A]">Elle tire un poignard.</stage>
 <p id='8'>
 	<s id='1'>Voyez-vous ce poignard ? </s>
 	<s id='2'>Au moment de la violence...</s>
@@ -2319,7 +2320,7 @@
 </sp>
 <sp who='JULIETTE'><speaker>JULIETTE.</speaker>
 <p id='14'>
-	<s id='1'>Faire plus pour Roméo ?... </s>
+	<s id='1'>Faire plus pour Roméo ?... </s>
 	<s id='2'>Achevez.</s>
 </p>
 </sp>
@@ -2355,7 +2356,7 @@
 <p id='20'>
 	<s id='1'>À Roméo ! </s>
 	<s id='2'>Ah ! </s>
-	<s id='3'>Placez-moi dans un cercueil ; enveloppez-moi dans un cerceuil funéraire, couchez-moi auprès de ces statues froides et silencieuses : l'effroi de la tombe n'ira point jusqu'à mon âme, j'en surmonterai l'horreur : je ne crains plus cette nuit profonde et solitaire... </s>
+	<s id='3'>Placez-moi dans un cercueil ; enveloppez-moi dans un cercueil funéraire, couchez-moi auprès de ces statues froides et silencieuses : l'effroi de la tombe n'ira point jusqu'à mon âme, j'en surmonterai l'horreur : je ne crains plus cette nuit profonde et solitaire... </s>
 	<s id='4'>Garantissez-moi du sort affreux qu'on me prépare, et j'affronte le séjour des tombeaux.</s>
 </p>
 </sp>
@@ -2378,12 +2379,12 @@
 	<s id=''>J'ai déployé pour vous tout l'effort de mon art, de cet art divin que j'ai cultivé dès mon enfance, et qui m'a appris l'usage de ces plantes précieuses où le soleil dardant ses plus purs rayons, emprisonna les germes de la joie, de la vie et de la santé. </s>
 	<s id='2'>Les vertus les plus secrètes et les plus opposées sont enfermées dans ces végétaux que l'homme distrait foule aux pieds, et qui recèlent les trésors de la vie élémentaire. </s>
 	<s id='3'>J'y ai trouvé le remède à toutes les souffrances ; et l'amour de l'humanité, que la noire ingratitude n'a pu tarir dans mon coeur, enflammant sens cesse mes esprits, m'a fait suivre ces phénomènes qui ne frappent d'abord que la curiosité, et qui font connaître de plus en plus combien la nature est riche dans ses rapports et puissante dans ses combinaisons. </s>
-	<s id='4'>Une découverte heureuse, renouvellée sous la main de l'expérience, m'a rendu certain de l'effet le plus étonnant et le plus admirable. </s>
+	<s id='4'>Une découverte heureuse, renouvelée sous la main de l'expérience, m'a rendu certain de l'effet le plus étonnant et le plus admirable. </s>
 	<s id='5'>Je puis vous dire avec assurance, prenez, ma Juliette, prenez sans crainte ce breuvage assoupissant : il va vous endormir d'un sommeil tranquille et insensible, qui ressemblera parfaitement au calme du trépas. </s>
 	<s id='6'>Mais ce sommeil n'est que passager et nullement dangereux ; les principes de la vie ne seront point éteints , mais suspendus ; vous resterez douze heures sous cette image d'une mort parfaite ; nulle chaleur, nul souffle n'attestera que vous vivez. </s>
 	<s id='7'>J'annoncerai moi-même votre mort avec de feintes larmes ; la pitié frappera jusqu'à l'âme inflexible de votre père ; on le verra, abandonnant son triste palais, le laisser désert et inhabité. </s>
 	<s id='8'>Le reste me sera confié. </s>
-	<s id='9'>Suivant nos usages, parée dans votre cercueil et le visage découvert, vous serez portée pour être ensevelie dans le tombeau de votre famille, sous cette même voûte antique où reposent tous les descendants des Capulets... </s>
+	<s id='9'>Suivant nos usages, parée dans votre cercueil et le visage découvert, vous serez portée pour être ensevelie dans le tombeau de votre famille, sous cette même voûte antique où reposent tous les descendants des Capulets... </s>
 	<s id='10'>Vous frémissez, Juliette !</s>
 </p>
 </sp>
@@ -2426,7 +2427,7 @@
 <sp who='JULIETTE'><speaker>JULIETTE, prenant une coupe.</speaker>
 <p id='30'>
 	<s id='1'>Eh bien, je n'ai plus de terreur. </s>
-	<s id='2'>Conduisez-moi dans ces obscures demeures ; que je m'endorme sous ces voûtes effrayantes ; je préfère ce séjour au palais de mon perè. N'estce pas au milieu des sépulcres que finit l'empire des Capulets ?... </s>
+	<s id='2'>Conduisez-moi dans ces obscures demeures ; que je m'endorme sous ces voûtes effrayantes ; je préfère ce séjour au palais de mon père. N'est-ce pas au milieu des sépulcres que finit l'empire des Capulets ?... </s>
 	<s id='3'>Mais, Dieu ! </s>
 	<s id='4'>Je vois les larmes de ma mère, sa douleur , son désespoir... </s>
 	<s id='5'>Mère infortunée ! </s>
@@ -2519,7 +2520,7 @@
 <p id='45'>
 	<s id='1'>C'est de tendresse, et non de crainte.</s>
 </p>
-<stage>Il verse ta liqueur.</stage>
+<stage type="[N/A]">Il verse ta liqueur.</stage>
 </sp>
 <sp who='JULIETTE'><speaker>JULIETTE.</speaker>
 <p id='46'>
@@ -2531,7 +2532,7 @@
 <p id='47'>
 	<s id='1'>Douze heures ; mais le temps n'existera plus pour vous.</s>
 </p>
-<stage>Elle fait quelques pas. </stage>
+<stage type="[N/A]">Elle fait quelques pas. </stage>
 <p id='48'>
 	<s id='1'>Que faites-vous ?</s>
 </p>
@@ -2542,7 +2543,7 @@
 	<s id='2'>Je le vois... </s>
 	<s id='3'>Je suis forte.</s>
 </p>
-<stage>Elle boit. Posant la coupe.</stage>
+<stage type="[N/A]">Elle boit. Posant la coupe.</stage>
 <p id='50'>
 	<s id='1'>Eh bien, ami... </s>
 	<s id='2'>Je n'ai plus qu'à aller au tombeau.</s>
@@ -2580,13 +2581,13 @@
 <sp who='JULIETTE'><speaker>JULIETTE.</speaker>
 <p id='56'>
 	<s id='1'>Puisse le repos descendre au fond de son âme aussi profondément que je le désire ! </s>
-	<s id='2'>Je n'ai que le remords d'avoir troublé quelques instans de sa vie ; mais dites, était-il en mon pouvoir d'obéir ?</s>
+	<s id='2'>Je n'ai que le remords d'avoir troublé quelques instants de sa vie ; mais dites, était-il en mon pouvoir d'obéir ?</s>
 </p>
 </sp>
 <sp who='BENVOGLIO'><speaker>BENVOGLIO.</speaker>
 <p id='57'>
 	<s id='1'>Je répandrai du moins quelque satisfaction dans son coeur, en lui portant la nouvelle de votre soumission. </s>
-	<s id='2'>Je me parerai de ce prétendu triomphe ; mais en même temps je lui peindrai tout l'essort du sacrifice, combien il fut pénible et douloureux. </s>
+	<s id='2'>Je me parerai de ce prétendu triomphe ; mais en même temps je lui peindrai tout l'effort du sacrifice, combien il fut pénible et douloureux. </s>
 	<s id='3'>Ce combat entre le devoir et la volonté donnera plus de vraisemblance à ce qui doit arriver. </s>
 	<s id='4'>Adieu, ma digne amie : je vais agir pour Roméo.</s>
 </p>
@@ -2624,7 +2625,7 @@
 	<s id='13'>Eh bien, qu'ai-je à craindre ? </s>
 	<s id='14'>Notre destin, prospère ou fatal, sera toujours le même. </s>
 	<s id='15'>Oui, je suis fille de Capulet, je le sens au courage qui me guide. </s>
-	<s id='16'>Plus de crainte... </s>
+	<s id='16'>Plus de crainte... </s>
 	<s id='17'>La mort ou l'heureuse liberté. </s>
 	<s id='18'>Ma mère !... </s>
 	<s id='19'>Dieu ! </s>
@@ -2640,7 +2641,7 @@
 </sp>
 <sp who='JULIETTE'><speaker>JULIETTE.</speaker>
 <p id='2'>
-	<s id='1'>Eh bien, ma mère, je céde à un pouvoir absolu : que veut-on de plus ?</s>
+	<s id='1'>Eh bien, ma mère, je cède à un pouvoir absolu : que veut-on de plus ?</s>
 </p>
 </sp>
 <sp who='MADAME-CAPULET'><speaker>MADAME CAPULET.</speaker>
@@ -2652,7 +2653,7 @@
 </sp>
 <sp who='JULIETTE'><speaker>JULIETTE.</speaker>
 <p id='4'>
-	<s id='1'> Beaucoup moins que vous ne le pensez, ma respectable mère.</s>
+	<s id='1'> Beaucoup moins que vous ne le pensez, ma respectable mère.</s>
 </p>
 </sp>
 <sp who='MADAME-CAPULET'><speaker>MADAME CAPULET.</speaker>
@@ -2718,7 +2719,7 @@
 <sp who='JULIETTE'><speaker>JULIETTE.</speaker>
 <p id='16'>
 	<s id='1'>C'est bien le contraire que je crains... </s>
-	<s id='2'>Mon coeur est frappé, ma tête est égarée...</s>
+	<s id='2'>Mon coeur est frappé, ma tête est égarée...</s>
 </p>
 </sp>
 <sp who='MADAME-CAPULET'><speaker>MADAME CAPULET.</speaker>
@@ -2749,7 +2750,7 @@
 </sp>
 <sp who='MADAME-CAPULET'><speaker>MADAME CAPULET.</speaker>
 <p id='21'>
-	<s id=''>Que voulez-vous dire, Juliette?</s>
+	<s id=''>Que voulez-vous dire, Juliette ?</s>
 </p>
 </sp>
 <sp who='JULIETTE'><speaker>JULIETTE, se jetant au col de sa mère.</speaker>
@@ -2778,9 +2779,9 @@
 <sp who='JULIETTE'><speaker>JULIETTE, errant sur la scène.</speaker>
 <p id='26'>
 	<s id='1'>Je verrai donc la tombe !... </s>
-	<s id='2'>Oui,et fans frayeur...  </s>
+	<s id='2'>Oui, et sans frayeur...  </s>
 	<s id='3'>Me reconnaîtra-t-il sous le voile funéraire ?... </s>
-	<s id='4'>Au réveil, dans cette imposante solitude, quelle forme lui offrirai-je ? </s>
+	<s id='4'>Au réveil, dans cette imposante solitude, quelle forme lui offrirai-je ? </s>
 	<s id='5'>Ô ma mère ! </s>
 	<s id='6'>Quelle récompense pour tant de bonté !... </s>
 	<s id='7'>Mère infortunée !...</s>
@@ -2790,7 +2791,7 @@
 <p id='27'>
 	<s id='1'>Ses esprits égarés...</s>
 </p>
-<stage>La soutenant.</stage>
+<stage type="[N/A]">La soutenant.</stage>
 <p id='28'>
 	<s id='1'>Qu'avez-vous, Juliette ?</s>
 </p>
@@ -2825,7 +2826,7 @@
 	<s id='1'>Quelle pâleur !... </s>
 	<s id='2'>Mettez-vous ici.</s>
 </p>
-<stage>La plaçant sur un sopha.</stage>
+<stage type="[N/A]">La plaçant sur un sofa.</stage>
 </sp>
 <sp who='JULIETTE'><speaker>JULIETTE.</speaker>
 <p id='35'>
@@ -2881,7 +2882,7 @@
 	<s id='4'>Au secours, au secours !</s>
 </p>
 </sp>
-<sp who='JULIETTE'><speaker>JULIETTE synt voix éteinte.</speaker>
+<sp who='JULIETTE'><speaker>JULIETTE, d'une voix éteinte.</speaker>
 <p id='43'>
 	<s id='1'>On l'a voulu... </s>
 	<s id='2'>J'obéis... </s>
@@ -2896,12 +2897,12 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n='3'><head>SCÈNE III. Madame Capuet, Laure.</head>
+<div2 type="scene" n='3'><head>SCÈNE III. Madame Capulet, Laure.</head>
 <sp who='LAURE'><speaker>LAURE.</speaker>
 <p id='1'>
 	<s id='2'>D'où partent ces cris perçants ?</s>
 </p>
-<stage>Apercevant Juliette étendue sur le sopha.</stage>
+<stage type="[N/A]">Apercevant Juliette étendue sur le sofa.</stage>
 <p id='2'>
 	<s id='1'>Que vois-je ? </s>
 	<s id='2'>Juliette...</s>
@@ -2941,7 +2942,7 @@
 	<s id='6'>Non, elle ne mourra point... </s>
 	<s id='7'>Non, je neveux pas qu'elle meure.</s>
 </p>
-<stage>Se précipitant sur le corps de sa fille.</stage>
+<stage type="[N/A]">Se précipitant sur le corps de sa fille.</stage>
 <p id='8'>
 	<s id='1'>Je l'embrasserai, je la réchaufferai, je l'arracherai à la mort, ou j'expirerai avec elle.</s>
 </p>
@@ -2953,7 +2954,7 @@
 	<s id='1'>Qu'entend-je ?... </s>
 	<s id='2'>Quelles clameurs ? </s>
 	<s id='3'>Est-ce encore un nouvel artifice imaginé pour rompre mes desseins ?... </s>
-	<s id='4'>J'ai sa parole. </s>
+	<s id='4'>J'ai sa parole. </s>
 	<s id='5'>Ciel, quel spectacle !</s>
 </p>
 </sp>
@@ -2964,7 +2965,7 @@
 </p>
 </sp>
 <sp who='CAPULET'><speaker>CAPULET, auprès de sa fille.</speaker>
-<stage>Il lui prend un bras qui retombe.</stage>
+<stage type="[N/A]">Il lui prend un bras qui retombe.</stage>
 <p id='3'>
 	<s id='1'>Dieu !... </s>
 	<s id='2'>Quel frémissement court dans mes veines !... </s>
@@ -2975,14 +2976,14 @@
 	<s id='7'>Tout serait-il fini ?... </s>
 	<s id='8'>Je n'y survivrais pas.</s>
 </p> 
-<stage>Laure sort.</stage>
+<stage type="exit">Laure sort.</stage>
 </sp>
 <sp who='MADAME-CAPULET'><speaker>MADAME CAPULET.</speaker>
 <p id='4'>
-	<s id='1'>Les hommes te rappelleront-ils à la vie, ô ma chere Juliette ?...</s>
+	<s id='1'>Les hommes te rappelleront-ils à la vie, ô ma chère Juliette ?...</s>
 </p>
 </sp>
-<sp who='CAPULET'><speaker>CAPULET, auprìs de fa fille.</speaker>
+<sp who='CAPULET'><speaker>CAPULET, auprès de fa fille.</speaker>
 <p id='5'>
 	<s id='1'>Qu'ai-je fait, hélas !... </s>
 	<s id='2'>Juliette, réveille-toi. </s>
@@ -2996,7 +2997,7 @@
 <div2 type="scene" n='5'><head>SCÈNE V. Capulet, Madame Capulet, Benvoglio, Laure, Plusieurs domestiques.</head>
 <sp who='CAPULET'><speaker>CAPULET.</speaker>
 <p id='1'>
-	<s id='1'>Venez, venez, Benvoglio, voyez... </s>
+	<s id='1'>Venez, venez, Benvoglio, voyez... </s>
 	<s id='2'>Secourez- moi ; je suis le plus malheureux des pères.</s>
 </p>
 </sp>
@@ -3004,7 +3005,7 @@
 <p id='2'>
 	<s id='1'>Ciel !... </s>
 </p>
-<stage>Il lui tâte le pouls.</stage>
+<stage type="[N/A]">Il lui tâte le pouls.</stage>
 </sp>
 <sp who='CAPULET'><speaker>CAPULET.</speaker>
 <p id='3'>
@@ -3020,7 +3021,7 @@
 <sp who='CAPULET'><speaker>CAPULET.</speaker>
 <p id='5'>
 	<s id='1'>Et pourquoi ne me l'avoir pas dit ? </s>
-	<s id='2'>J'auraís été plus indulgent.</s>
+	<s id='2'>J'aurais été plus indulgent.</s>
 </p>
 </sp>
 <sp who='BENVOGLIO'><speaker>BENVOGLIO.</speaker>
@@ -3036,7 +3037,7 @@
 <sp who='BENVOGLIO'><speaker>BENVOGLIO.</speaker>
 <p id='8'>
 	<s id='1'>Souvenez-vous de ces paroles que je vous ai dites conformément à mon devoir : ménagez, seigneur, la délicatesse de son organisation. </s>
-	<s id='2'>Dans les âmes sensibles, le trait de la douleur descend profondément ; tout s'y imprime, et une secousse inattendue pourrrait éteindre à la fois et le sentiment et la vie.</s>
+	<s id='2'>Dans les âmes sensibles, le trait de la douleur descend profondément ; tout s'y imprime, et une secousse inattendue pourrait éteindre à la fois et le sentiment et la vie.</s>
 </p>
 </sp>
 <sp who='CAPULET'><speaker>CAPULET.</speaker>
@@ -3093,7 +3094,7 @@
 <sp who='CAPULET'><speaker>CAPULET.</speaker>
 <p id='17'>
 	<s id='1'>Rendez-moi ma fille, Benvoglio ; voilà ce que je vous demande. </s>
-	<s id='2'>Encore une fois, qu'est-ce donc que votre art, s'il ne peut rappeller ma fille d'une défaillance ?</s>
+	<s id='2'>Encore une fois, qu'est-ce donc que votre art, s'il ne peut rappeler ma fille d'une défaillance ?</s>
 </p>
 </sp>
 <sp who='BENVOGLIO'><speaker>BENVOGLIO.</speaker>
@@ -3110,16 +3111,16 @@
 </sp>
 <sp who='BENVOGLIO'><speaker>BENVOGLIO.</speaker>
 <p id='20'>
-	<s id='1'>Epouvantée de vos ordres absolus, un saisissement violent et subit aura resserré son coeur, arrêté dans ses veines le cours du sang. </s>
+	<s id='1'>Épouvantée de vos ordres absolus, un saisissement violent et subit aura resserré son coeur, arrêté dans ses veines le cours du sang. </s>
 	<s id='2'>Il n'en faut pas davantage, le fil délié s'est rompu, et la nature alors se joue de nos vaines spéculations.</s>
 </p>
 </sp>
 <sp who='MADAME-CAPULET'><speaker>MADAME CAPULET.</speaker>
 <p id='21'>
-	<s id='1'>Elle a obéi, vous l'aviez exigé... </s>
+	<s id='1'>Elle a obéi, vous l'aviez exigé... </s>
 	<s id='2'>J'ai vu ses combats, il lui en a coûté la vie... </s>
 	<s id='3'>Voyez le courage de votre fille, comparez-le à votre orgueil : elle a su mourir pour ne point enfreindre le devoir... </s>
-	<s id='4'>Infortunée !...  </s>
+	<s id='4'>Infortunée !...  </s>
 	<s id='5'>Et cependant elle s'était bornée à demander un délai...</s>
 </p>
 </sp>
@@ -3138,7 +3139,7 @@
 <sp who='CAPULET'><speaker>CAPULET.</speaker>
 <p id='24'>
 	<s id='1'>Dites-moi, Benvoglio, n'aurait-elle point attenté par désespoir à ses jours ? </s>
-	<s id='2'>Le poison... </s>
+	<s id='2'>Le poison... </s>
 </p>
 </sp>
 <sp who='BENVOGLIO'><speaker>BENVOGLIO.</speaker>
@@ -3215,31 +3216,33 @@
 	<s id='9'>Qu'on la dépose aujourd'hui sous ces voûtes sacrées où reposent ses ancêtres et où je ne tarderai point, hélas ! à la rejoindre... </s>
 	<s id='10'>Les Montaigus seront heureux de ce revers qui m'accable ; mais que m'importent les jouissances de mes ennemis, quand le terrible remords, plus implacable qu'eux, s'élève du fond de mon coeur ?... </s>
 </p>
-<stage>Allant vers sa fille.</stage>
-Ma Juliette, ange de paix, adieu.
-<stage>Il lui baise la main, il dait signe à plusieurs domestiques Remmener madame Capulet.</stage>
+<stage type="[N/A]">Allant vers sa fille.</stage>
+<p id="35">
+	<s id="1">Ma Juliette, ange de paix, adieu.</s>
+</p>
+<stage type="[N/A]">Il lui baise la main, il fait signe à plusieurs domestiques d'emmener Madame Capulet.</stage>
 <p id='35'>
 	<s id='1'>Venez, Madame, éloignons-nous.</s>
 </p>
 </sp>
 <sp who='MADAME-CAPULET'><speaker>MADAME CAPULET.</speaker>
-<p id='36'>
+<p id='37'>
 	<s id='1'>Faut-il donc m'arracher d'auprès d'elle ! </s>
 	<s id='2'>Non, non... </s>
 	<s id='3'>Ah, du séjour de la gloire, ma fille, ma chère fille prie Dieu de m'ôter de ce monde !...</s>
 </p>
-<stage>Aux domestiques.</stage>
-<p id='37'>
+<stage type="toward">Aux domestiques.</stage>
+<p id='38'>
 	<s id='1'>Arrêtez, barbares, arrêtez... </s>
 	<s id='2'>Un moment encore !</s>
 </p>
-<stage>Elle se penche sur le corps de Juliette.</stage>
-<p id='38'>
+<stage type="[N/A]">Elle se penche sur le corps de Juliette.</stage>
+<p id='39'>
 	<s id='1'>Ta mère te donne le dernier baiser... </s>
 	<s id='2'>Adieu, adieu pour toujours.</s>
 </p>
-<stage>On l'emmène.</stage>
-<p id='39'>
+<stage type="[N/A]">On l'emmène.</stage>
+<p id='40'>
 	<s id='1'>Ô douleur ! </s>
 	<s id='2'>Ô désespoir ! </s>
 	<s id='3'>Ô mort, viens à moi !</s>
@@ -3249,10 +3252,10 @@ Ma Juliette, ange de paix, adieu.
 <div2 type="scene" n='6'><head>SCENE VI.</head>
 <sp who='BENVOGLIO'><speaker>BENVOGLIO.</speaker>
 <p id='1'>
-	<s id='1'>Vivante, il persécutait, il sacrifiait sa sille ; morte, il la regrette, il l'adore... </s>
+	<s id='1'>Vivante, il persécutait, il sacrifiait sa Fille ; morte, il la regrette, il l'adore... </s>
 	<s id='2'>Telle est la bizarrerie inexplicable du coeur de l'homme quand il s'abandonne aux passions. </s>
 	<s id='3'>La tyrannie, sous le nom d'autorité paternelle, pèse sur ce sexe aimable ; et la jeunesse, la beauté, l'innocence, la candeur, soumises à cet amas de lois arbitraires, ne s'y dérobent que par le trépas. </s>
-	<s id='4'>Juliette qui dans ce moment fait couler des larmes si amères, qui cause tant de regrets, n'a pu échapper au malheur qu'en passant sous le voile funèbre de la mort. </s>
+	<s id='4'>Juliette qui dans ce moment fait couler des larmes si amères, qui cause tant de regrets, n'a pu échapper au malheur qu'en passant sous le voile funèbre de la mort. </s>
 	<s id='5'>Ah, si je pouvais au moins consoler cette malheureuse mère ! </s>
 	<s id='6'>Si je pouvais lui révéler, sans me trahir !.. </s>
 	<s id='7'>Mais, ici-bas, le coeur innocent souffre pour le coupable.</s>
@@ -3270,7 +3273,7 @@ Ma Juliette, ange de paix, adieu.
 <p id='2'>
 	<s id='1'>Dieu sait combien je l'aimais, et avec quelle sincérité je la pleure. </s>
 	<s id='2'>Hélas ! </s>
-	<s id='3'>Elle me parlait de sa mort ; mais que j'étais loin de penser...</s>
+	<s id='3'>Elle me parlait de sa mort ; mais que j'étais loin de penser...</s>
 </p>
 </sp>
 <sp who='BENVOGLIO'><speaker>BENVOGLIO.</speaker>
@@ -3353,13 +3356,13 @@ Ma Juliette, ange de paix, adieu.
 <sp who='LAURE'><speaker>LAURE.</speaker>
 <p id='16'>
 	<s id='1'>La mort ne dissout-elle pas également et le coeur qui aima et celui qui n'a point aimé ?... </s>
-	<s id='2'>Ô ma chere maîtresse, ma douce compagne ! </s>
+	<s id='2'>Ô ma chère maîtresse, ma douce compagne ! </s>
 	<s id='3'>Elle n'existe plus, ni pour moi, ni pour celui...</s>
 </p>
 </sp>
 <sp who='BENVOGLIO'><speaker>BENVOGLIO.</speaker>
 <p id='17'>
-	<s id='1'>Ne t'aflige pas tant. </s>
+	<s id='1'>Ne t'afflige pas tant. </s>
 	<s id='2'>Quelquefois le ciel fait des miracles.</s>
 </p>
 </sp>
@@ -3383,23 +3386,23 @@ Ma Juliette, ange de paix, adieu.
 	<s id='3'>Oui, j'en aurai le courage. </s>
 	<s id='4'>Ce sera donc moi qui lui donnerai le dernier baiser !</s>
 </p>
-<stage>L'embrassant.</stage>
+<stage type="[N/A]">L'embrassant.</stage>
 <p id='21'>
 	<s id='1'>Chère Juliette, adieu, adieu.</s>
 </p>
-<stage>La toile se baisse.</stage>
+<stage type="[N/A]">La toile se baisse.</stage>
 </sp>
 </div2>
 </div1>
 <div1 type="act" n='5'><head>ACTE V</head>
-<stage>Le théâtre représente des tombeaux des inscriptions, des statues : une lampe est suspendue à sa voûte. On aperçoit une partie du temple dans l'enfoncement est un autel. Le cercueil de Juliette est derrière une espèce de sarcophage ; elle a le visage à demi couvert. On voit un homme qui passe, examine Roméo, et sort après avoir observé ses mouvements.</stage>
+<stage type="decor">Le théâtre représente des tombeaux des inscriptions, des statues : une lampe est suspendue à sa voûte. On aperçoit une partie du temple dans l'enfoncement est un autel. Le cercueil de Juliette est derrière une espèce de sarcophage ; elle a le visage à demi couvert. On voit un homme qui passe, examine Roméo, et sort après avoir observé ses mouvements.</stage>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE.</head>
 <sp who='ROMÉO'><speaker>ROMÉO, seul, une lettre a la main, se promenant à pas lents.</speaker>
 <p id='1'>
 	<s id='1'>Tout est tranquille ici... </s>
 	<s id='2'>Quel morne et long silence !... </s>
 	<s id='3'>C'est l'image de la nuit éternelle... </s>
-	<s id='4'>Quel effroi religieux me saisit ! </s>
+	<s id='4'>Quel effroi religieux me saisit ! </s>
 	<s id='5'>Ces murs, ces tombeaux, ces feux qui pâlissent... </s>
 	<s id='6'>Recueille-toi, mon âme ; apprends à connaître le néant de ce monde... </s>
 	<s id='7'>Tombeaux, que vous êtes éloquents ! </s>
@@ -3413,10 +3416,10 @@ Ma Juliette, ange de paix, adieu.
 	<s id='15'>Quoi, la mort éteint aussi l'amour ? </s>
 	<s id='16'>Non, ce feu sacré nous survit, il fait partie de notre âme.</s>
 </p>
-<stage>Un silence.</stage>
+<stage type="[N/A]">Un silence.</stage>
 <p id='2'>
 	<s id='1'>Je revois les autels où Juliette m'a donné sa main, où mon coeur a tressailli du plus doux sentiment qui puisse appartenir au coeur de l'homme. </s>
-	<s id='2'>Épouse chérie, tu vas t'offrir à mes regards, dans cette nuit demi-sombre, telle que je te vis à la méme heure et dans la même enceinte, lorsqu'à la clarté tremblante des flambeaux, je te pris pour la divinité du temple... </s>
+	<s id='2'>Épouse chérie, tu vas t'offrir à mes regards, dans cette nuit demi-sombre, telle que je te vis à la même heure et dans la même enceinte, lorsqu'à la clarté tremblante des flambeaux, je te pris pour la divinité du temple... </s>
 	<s id='3'>Pardonne, ô Dieu ! </s>
 	<s id='4'>Juliette environnée de ses grâces pudiques, le front chaste et baissé, le regard timide et aimant, me parut ton chef-d'oeuvre et ton image... </s>
 	<s id='5'>La haine qui veille, ne put deviner l'asile qu'avait choisi l'amour... </s>
@@ -3426,7 +3429,7 @@ Ma Juliette, ange de paix, adieu.
 	<s id='9'>Quel zèle pour deux infortunés ! </s>
 	<s id='10'>Ami fidèle et rare, non, tu n'as pu avoir cette constance que pour deux coeurs brûlant du feu sacré de l'amour ! </s>
 </p>
-<stage>Il lit.</stage>
+<stage type="read">Il lit.</stage>
 <p id='3'>
 	<s id='1'>« Revenez sur vos pas ; rendez-vous à minuit dans les tombeaux des Capulets. </s>
 	<s id='2'>Ils seront ouverts, Juliette y sera attendez-moi. Je ne vous en dis pas davantage. </s>
@@ -3435,17 +3438,17 @@ Ma Juliette, ange de paix, adieu.
 <p id='4'>
 	<s id='1'>L'airain frémissant a sonné la douzième heure, et je n'entends rien encore... </s>
 	<s id='2'>Avançons... </s>
-	<s id='3'>Mes pas chancelans heurtent contre ces tombeaux.</s>
+	<s id='3'>Mes pas chancelants heurtent contre ces tombeaux.</s>
 </p>
-<stage>Il s'arrête devant un tombeau.</stage>
+<stage type="[N/A]">Il s'arrête devant un tombeau.</stage>
 <p id="5">
-	<s id="1">Le voici cer Octave Capulet qui domine encore orgueilleusement les marbres de sa sépulture... </s>
+	<s id="1">Le voici cet Octave Capulet qui domine encore orgueilleusement les marbres de sa sépulture... </s>
 	<s id='2'>C'est l'auteur de tous les forfaits qui ont suivi le sien... </s>
 	<s id='3'>Pour un vain point d'honneur il donna le signal de tant de meurtres !... </s>
 	<s id='4'>Combien la vengeance trompe les coeurs qui s'y abandonnent ! </s>
-<note type="L">Manes : terme poétique qui signifie l'ombre ou l'âme d'un mort [F]</note>
-	<s id='5'>Manes des Capulets, qui me voyez errer ici, pardonnez mon audace ; je ne viens point en ces lieux pour vous braver. </s>
-	<s id='6'>Une de vos filles, rare trésor des cieux, semble être descendue sur la terre pour étouffer enfin l'inimitié de nos familles, et réparer deux siécles de discordes. </s>
+<note type="L">Mânes : terme poétique qui signifie l'ombre ou l'âme d'un mort [F]</note>
+	<s id='5'>Mânes des Capulets, qui me voyez errer ici, pardonnez mon audace ; je ne viens point en ces lieux pour vous braver. </s>
+	<s id='6'>Une de vos filles, rare trésor des cieux, semble être descendue sur la terre pour étouffer enfin l'inimitié de nos familles, et réparer deux siècles de discordes. </s>
 	<s id='7'>Ce n'est pas mon coeur qui rejette la paix, vous le savez; vous fûtes ici témoins de nos serments ; et quand ma main a touché la sienne, vous n'avez pas soulevé ces marbres qui vous couvrent...</s>
 </p>
 S'arrêtant devant un tombeau.
@@ -3453,24 +3456,24 @@ S'arrêtant devant un tombeau.
 	<s id="1">Que vois-je ? </s>
 	<s id='2'>De Théobald n'est-ce point ici la tombe ? </s>
 	<s id='3'>Ombre sanglante, pour qui la vengeance avait des charmes, pourquoi l'inimitié a-t-elle empoisonné ton coeur ? </s>
-	<s id='4'>Je voulais t'aimer comme un frère... </s>
+	<s id='4'>Je voulais t'aimer comme un frère... </s>
 	<s id='5'>Ta violence a causé ta perte. </s>
-	<s id='6'>Je t'ai sauvé deux fois de ton aveugle fureur, deux fois je t'ai rendu ton épée... </s>
-	<s id='7'>Eloignons-nous... </s>
+	<s id='6'>Je t'ai sauvé deux fois de ton aveugle fureur, deux fois je t'ai rendu ton épée... </s>
+	<s id='7'>Éloignons-nous... </s>
 	<s id='8'>Ô Juliette ! </s>
 	<s id='9'>Que d'instants ravis à ma félicité ! </s>
 	<s id='10'>Viens ; que j'efface de ton âme, et les vaines terreurs, et les souvenirs amers, et tout ce qui n'est pas amour.</s>
 </p>
-<stage>Tournant autour du sarcophage.</stage>
+<stage type="[N/A]">Tournant autour du sarcophage.</stage>
 <p id="7">
 	<s id="1">Mais quel est ce cercueil nouvellement placé ?... </s>
 	<s id='2'>Mes regards, malgré moi, s'y attachent... </s>
 	<s id='3'>Qui donc depuis peu a payé à la nature le tribut inévitable ? </s>
 	<s id='4'>Serait-ce un enfant ? </s>
-	<s id='5'>Un veillard ? </s>
-	<s id='6'>C'est un amant peut-étre... </s>
+	<s id='5'>Un vIeillard ? </s>
+	<s id='6'>C'est un amant peut-être... </s>
 	<s id='7'>Aimer et mourir !... </s>
-	<s id='8'>Ô mort, suspends ta faux rigoureuse ! </s>
+	<s id='8'>Ô mort, suspends ta faux rigoureuse ! </s>
 	<s id='9'>Laisse quelques instants de plus sur la terre les êtres qui aiment...</s>
 </p>
 Tirant le voile.
@@ -3487,28 +3490,28 @@ Tirant le voile.
 	<s id='10'>Juliette, éveille- toi ; éveille-toi, Juliette...  </s>
 	<s id='11'>C'est Roméo qui t'appelle...</s>
 </p>
-<stage>Il prend sa main.</stage>
+<stage type="[N/A]">Il prend sa main.</stage>
 <p id="9">
 	<s id="1">Sa main est souple... </s>
 	<s id='2'>Elle ne m'entend plus !... </s>
-	<s id='3'>Juliette, objet du plus malheureux amour, tout ce que ton coeur renfermait de vertus et de tendresse, seroit donc anéant ! </s>
+	<s id='3'>Juliette, objet du plus malheureux amour, tout ce que ton coeur renfermait de vertus et de tendresse, serait donc anéanti ! </s>
 	<s id='4'>Déplorable victime des fureurs d'un père à qui notre amour aura été révélé, tu as voulu me conserver la foi promise. </s>
-	<s id='5'>Je te connais tu auras préféré la mort à un hymen odieux ; et Benvoglio, dans l'excés de sa douleur, n'aura osé ni me voir, ni m'apprendre mon épouvantable malheur... </s>
+	<s id='5'>Je te connais tu auras préféré la mort à un hymen odieux ; et Benvoglio, dans l'excès de sa douleur, n'aura osé ni me voir, ni m'apprendre mon épouvantable malheur... </s>
 	<s id='6'>Il sait que, vivante ou morte, le séjour que tu habites doit être le mien : il m'y a appelle... </s>
 	<s id='7'>Eh bien, j'en chéris la nuit horrible et ténébreuse ; je m'enferme dans ces tombeaux avec toi... </s>
 	<s id='8'>Père injuste, implacable ennemi, assassin de ta fille, ce matin encore que ne te l'ai-je ravie !... </s>
 	<s id='9'>Mes pressentiments, ses craintes, mon amour, le titre que je porte, tout m'en faisait sans doute un devoir... </s>
 	<s id='10'>Ah, ce remords est trop affreux, trop profond ! </s>
 </p>
-<stage>Il tire son épée.</stage>
+<stage type="[N/A]">Il tire son épée.</stage>
 <p id="10">
-	<s id="1">Que le trépas m'en délivre... </s>
+	<s id="1">Que le trépas m'en délivre... </s>
 	<s id='2'>Âme adorable et pure, âme aimante, qui peut-être dans ce moment erres invisible autour de moi... </s>
 	<s id='3'>Attends un moment, attends ton Roméo !... </s>
 	<s id='4'>Je te rejoins ; la mort va nous réunir. </s>
 	<s id='5'>Qu'est-ce que la vie sans toi ?</s>
 </p>
-<stage>Il met l'épée en terre pour se précipiter dessus.</stage>
+<stage type="[N/A]">Il met l'épée en terre pour se précipiter dessus.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Roméo, Benvoglio.</head>
@@ -3534,7 +3537,7 @@ Tirant le voile.
 <sp who='ROMÉO'><speaker>ROMÉO.</speaker>
 <p id='4'>
 	<s id='1'>Tu retiens mon bras. </s>
-	<s id='2'>Me crois-tu assea lâche pour vivre ? </s>
+	<s id='2'>Me crois-tu assez lâche pour vivre ? </s>
 	<s id='3'>Regarde... </s>
 	<s id='4'>Rends-moi mon épée, ou ranime Juliette.</s>
 </p>
@@ -3576,7 +3579,7 @@ Tirant le voile.
 <p id='11'>
 	<s id='1'>Un instant, te dis-je...</s>
 </p>
-<stage>On entend un grand bruit.</stage>
+<stage type="noise">On entend un grand bruit.</stage>
 <p id='12'>
 	<s id='1'>Mais quel tumulte, quel événement imprévu ?... </s>
 	<s id='2'>Ciel ! </s>
@@ -3596,13 +3599,13 @@ Tirant le voile.
 	<s id='3'>Nous aurons des défenseurs. </s>
 	<s id='4'>Fuyons, fuyons.</s>
 </p>
-<stage>Il l'emmène dans la profondeur du temple.</stage>
+<stage type="[N/A]">Il l'emmène dans la profondeur du temple.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Acteurs précédents, Capulet, entrant à la tête de ses gens, armés et portant des flambeaux.</head>
 <sp who='CAPULET'><speaker>CAPULET.</speaker>
 <p id='1'>
-	<s id='1'>J'ai été averti à temps ; j'ai su que mon ennemi, violant le droit des tombeaux à la faveur des ténèbres, était descendu sous ces voûtes sépulcrales, pour enlever le corps de ma fille et en faire un trophée à sa lâche vengeance... </s>
+	<s id='1'>J'ai été averti à temps ; j'ai su que mon ennemi, violant le droit des tombeaux à la faveur des ténèbres, était descendu sous ces voûtes sépulcrales, pour enlever le corps de ma fille et en faire un trophée à sa lâche vengeance... </s>
 	<s id='2'>Amis, enveloppez, saisissez ces sacrilèges profanateurs de la cendre des morts ; qu'ils tombent et rougissent ces murs de leur sang.</s>
 </p>
 </sp>
@@ -3623,7 +3626,7 @@ Tirant le voile.
 <p id='4'>
 	<s id='1'>Oui, et son ami; son crime est le mien, ne frappez ici que moi.</s>
 </p>
-<stage>À part.</stage>
+<stage type="aparte">À part.</stage>
 <p id='5'>
 	<s id='1'>Si Montaigu tardait... </s>
 	<s id='2'>Non, le voici.</s>
@@ -3637,7 +3640,7 @@ Tirant le voile.
 	<s id='2'>La trahison l'attendait au milieu de ces tombeaux. </s>
 	<s id='3'>Je l'ai su...</s>
 </p>
-<stage>Délivrant son fils.</stage>
+<stage type="[N/A]">Délivrant son fils.</stage>
 <p id='2'>
 	<s id='1'>Je t'arrache au trépas.</s>
 </p>
@@ -3649,7 +3652,7 @@ Tirant le voile.
 </sp>
 <sp who='CAPULET'><speaker>CAPULET.</speaker>
 <p id='4'>
-	<s id='1'>Que venais-tu daire en ces lieux ? </s>
+	<s id='1'>Que venais-tu faire en ces lieux ? </s>
 	<s id='2'>Insulter à mes désastres.</s>
 </p>
 </sp>
@@ -3657,7 +3660,7 @@ Tirant le voile.
 <p id='5'>
 	<s id='1'>Ta rage invente toujours des crimes que toi seul as conçus et peux commettre.</s>
 </p>
-<stage>Ils se menacent de leurs épées qui se croisent.</stage>
+<stage type="[N/A]">Ils se menacent de leurs épées qui se croisent.</stage>
 </sp>
 <sp who='BENVOGLIO'><speaker>BENVOGLIO, se mettant entre deux. </speaker>
 <p id='5'>
@@ -3668,7 +3671,7 @@ Tirant le voile.
 	<s id='5'>N'attendez pas que la tombe vous rassemble, et vous réconcilie. </s>
 	<s id='6'>Voyez les cendres de vos aïeux. </s>
 	<s id='7'>Elles dorment, elles reposent immobiles. </s>
-	<s id='8'>Après tant d'inutiles debats, elles sont venues ici se mêler et se confondre... </s>
+	<s id='8'>Après tant d'inutiles débats, elles sont venues ici se mêler et se confondre... </s>
 	<s id='9'>Qu'ont produit leurs haines mutuelles ? </s>
 	<s id='10'>Qu'est-il sorti de leurs discordes domestiques ? </s>
 	<s id='11'>Agités toute leur vie par la sombre inimitié, ils ont donné au tourment de la haine ce court espace de temps qui leur était accordé pour vivre. </s>
@@ -3704,7 +3707,7 @@ Tirant le voile.
 	<s id='1'>Je vois maintenant la cause de sa mort... </s>
 	<s id='2'>Je 1ai perdue, hélas ! </s>
 </p>
-<stage>À Montaigu.</stage>
+<stage type="toward">À Montaigu.</stage>
 <p id='10'>
 	<s id='1'>Et toi, ton fils te reste.</s>
 </p>
@@ -3716,7 +3719,7 @@ Tirant le voile.
 </sp>
 <sp who='BENVOGLIO'><speaker>BENVOGLIO.</speaker>
 <p id='12'>
-	<s id='1'>Ennemis implacables, consentez aujourd'hui à oublier la vengeance ; et le ciel s'appaisant peut-être...</s>
+	<s id='1'>Ennemis implacables, consentez aujourd'hui à oublier la vengeance ; et le ciel s'apaisant peut-être...</s>
 </p>
 </sp>
 <sp who='CAPULET'><speaker>CAPULET.</speaker>
@@ -3725,16 +3728,16 @@ Tirant le voile.
 </p>
 </sp>
 <sp who='BENVOGLIO'><speaker>BENVOGLIO.</speaker>
-<note type="L">Concorde : Union des familles où on vit en grande paix et tranquilité. [F]</note>
+<note type="L">Concorde : Union des familles où on vit en grande paix et tranquillité. [F]</note>
 <p id='14'>
 	<s id='1'>Oh, s'il était permis de maudire sa cendre des morts !... </s>
-	<s id='2'>Ce fut lui lêul qui éleva cette querelle fatale, lui seul qui, lorsque j'allais vous réconcilier, renversa , détruisit la paix déjà commencée. </s>
+	<s id='2'>Ce fut lui seul qui éleva cette querelle fatale, lui seul qui, lorsque j'allais vous réconcilier, renversa , détruisit la paix déjà commencée. </s>
 	<s id='3'>Il chercha l'épée de son adversaire ; deux fois désarmé, il paya de sa vie sa rage forcenée... </s>
 	<s id='4'>Ainsi doivent tomber les ennemis de la paix. </s>
 	<s id='5'>Ainsi la vengeance n'évitera jamais la vengeance ; ainsi le meurtre sera toujours suivi du meurtre... </s>
 	<s id='6'>Comptez ici ceux qui sont morts par le glaive. </s>
 	<s id='7'>Tous moissonnés a la fleur de leur âge, ils attestent dans l'immobilité du trépas que les calamités, les désastres sont la suite inévitable des passions furieuses et désordonnées... </s>
-	<s id='8'>Juliette nu milieu de ces débats cruels était l'ange du ciel envoyé sur la terre pour y apporter la concorde. </s>
+	<s id='8'>Juliette au milieu de ces débats cruels était l'ange du ciel envoyé sur la terre pour y apporter la concorde. </s>
 	<s id='9'>Elle ne respirait que pour aimer. </s>
 	<s id='10'>Que de fois elle invoqua l'Arbitre des destinées pour qu'il adoucit vos coeurs féroces ! </s>
 	<s id='11'>Faut-il que sa voix perce en ce moment le cercueil où elle repose, pour vous toucher et vous, attendrir ?</s>
@@ -3750,12 +3753,12 @@ Tirant le voile.
 <p id='16'>
 	<s id='1'>N'entends-je pas ta voix !...</s>
 </p>
-<stage>À Benvoglio.</stage>
+<stage type="toward">À Benvoglio.</stage>
 <p id='17'>
 	<s id='1'>Ô mon père !... </s>
 	<s id='2'>C'est elle !... </s>
 </p>
-<stage>On voit Juliette qui se soulève.</stage>
+<stage type="[N/A]">On voit Juliette qui se soulève.</stage>
 </sp>
 <sp who='JULIETTE'><speaker>JULIETTE.</speaker>
 <p id='18'>
@@ -3811,7 +3814,7 @@ Tirant le voile.
 <p id='27'>
 	<s id='1'>Tu respires... </s>
 	<s id='2'>De quel désespoir je passe à la félicité !... </s>
-	<s id='3'>Je ne puis l'exprimer... </s>
+	<s id='3'>Je ne puis l'exprimer... </s>
 	<s id='4'>Je te serre dans mes bras, ô Juliette, et je me tais !</s>
 </p>
 </sp>
@@ -3825,7 +3828,7 @@ Tirant le voile.
 <sp who='CAPULET'><speaker>CAPULET, s'élançant vers sa fille.</speaker>
 <p id='29'>
 	<s id='1'>Ma fille vivante ! </s>
-	<s id='2'>Que je l'embrasse !...</s>
+	<s id='2'>Que je l'embrasse !...</s>
 </p>
 </sp>
 <sp who='BENVOGLIO'><speaker>BENVOGLIO, l'arrêtant.</speaker>
@@ -3864,7 +3867,7 @@ Tirant le voile.
 	<s id='3'>Farouches ennemis, ne soyez plus irréconciliables. </s>
 	<s id='4'>Que les feux de la vengeance, qui depuis trop longtemps brûlent dans vos coeurs, expirent aujourd'hui.</s>
 </p>
-<stage>À Capulet.</stage>
+<stage type="toward">À Capulet.</stage>
 <p id='34'>
 	<s id='1'>J'ai sauvé ta fille.</s>
 </p>
@@ -3904,18 +3907,18 @@ Tirant le voile.
 	<s id='6'>Nos enfants sont plus justes, plus sensibles et plus heureux que nous... </s>
 	<s id='7'>Juliette, ma fille, sois à Roméo.</s>
 </p>
-<stage>Il embrasse Roméo.</stage>
+<stage type="[N/A]">Il embrasse Roméo.</stage>
 </sp>
 <sp who='MONTAIGU'><speaker>MONTAIGU.</speaker>
 <p id='40'>
 	<s id='1'>Roméo, sois à Juliette.</s>
 </p>
-<stage>À Capulet.</stage>
+<stage type="toward">À Capulet.</stage>
 <p id='41'>
 	<s id='1'>J'abjure la haine ; le passé n'est plus... </s>
 	<s id='2'>Nos familles réunies... </s>
 </p>
-<stage>Il lui tend les bras.</stage>
+<stage type="[N/A]">Il lui tend les bras.</stage>
 </sp>
 <sp who='CAPULET'><speaker>CAPULET.</speaker>
 <p id='42'>
@@ -3950,7 +3953,7 @@ Tirant le voile.
 </sp>
 <sp who='MONTAIGU'><speaker>MONTAIGU.</speaker>
 <p id='47'>
-	<s id='1'>Pardonnnez, grand Dieu, les excès des Montaigus !</s>
+	<s id='1'>Pardonnez, grand Dieu, les excès des Montaigus !</s>
 </p>
 </sp>
 <sp who='CAPULET'><speaker>CAPULET.</speaker>

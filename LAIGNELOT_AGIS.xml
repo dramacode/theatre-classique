@@ -203,14 +203,14 @@
 <div2 type="scene" n='3'><head>SCÈNE III. Agésistrate, Lysander, quatre Éphores, Sénateurs.</head> 
 <sp who='AGÉSISTRATE'><speaker>AGÉSISTRATE.</speaker>
 	<l id="109" part='f'>Inspirez-moi, grands Dieux !</l>
-<stage>Au Sénat.</stage>
+<stage type="toward">Au Sénat.</stage>
 	<l id="110">Approchez, Sénateurs, Ministres courageux,</l>
-<stage>Aux Éphores.</stage>
+<stage type="toward">Aux Éphores.</stage>
 	<l id="111">Après deux ans d'exil, pour venger son outrage,</l>
 	<l id="112">Le fier Léonidas, étincelant de rage,</l>
 	<l id="113">Vient au superbe rang qu'Agis lui fit quitter</l>
 	<l id="114">Remonter eu triomphe, et l'en précipiter.</l>
-<stage>Aux Sénateurs.</stage>
+<stage type="toward">Aux Sénateurs.</stage>
 	<l id="115">Vous savez, quand mon fils entra dans sa famille,</l>
 	<l id="116">À quel prix j'adoptai Chélonis pour ma fille,</l>
 	<l id="117">Vous, devant qui l'impie, attestant ces liens,</l>
@@ -387,11 +387,11 @@
 	<l id="246">Les traîtres devant lui pourront encor pâlir :</l>
 	<l id="247">Et je cours, des méchants humiliant l'audace,</l>
 	<l id="248">Si mon fils a vécu, prendre au combat sa place.</l>
-<stage>Elle sort.</stage>
+<stage type="exit">Elle sort.</stage>
 </sp>
 <sp who='LYSANDER'><speaker>LYSANDER.</speaker>
 	<l id="249">Allons dans tous les coeurs réveiller le devoir.</l>
-<stage>Tous les Sénateurs sortent.</stage>
+<stage type="exit">Tous les Sénateurs sortent.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Lysander, Ampharès.</head>
@@ -489,7 +489,7 @@
 	<l id="286">Jamais les Immortels n'absolvent les ingrats ;</l>
 	<l id="287">Tu sentiras le poids de leur main, vengeresse :</l>
 	<l id="288">Et, pour premier supplice, avec toi je te laisse.</l>
-<stage>Il sort.</stage>
+<stage type="exit">Il sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI.</head>
@@ -526,7 +526,7 @@
 	<l id="312">Ou, par ce fer vengeur son audace punie</l>
 	<l id="313">M'eût fait voir digne ici de Sparte et de mon rang.</l>
 	<l id="314">Vous êtes inondés de sueur et de sang ;</l>
- <stage>Ils font quelques pas.</stage>
+ <stage type="[N/A]">Ils font quelques pas.</stage>
 	<l id="315">Vous marchez, accablés du poids de vos armures !</l>
 	<l id="316">Sublime dévouement ! Glorieuses blessures !</l>
 	<l id="317">Vous vous êtes, amis, tous immortalisés ;</l>
@@ -539,11 +539,11 @@
 	<l id="324">Ce que va décider le sort inexorable.</l>
 	<l id="325">Le Ciel est juste, amis. Trop fier pour se courber,</l>
 	<l id="326">Au vainqueur le vaincu saura se dérober :</l>
-<stage>Ils sortent.</stage>
+<stage type="exit">Ils sortent.</stage>
 	<l id="327">J'en jure par ce fer. Allez ; mais qui s'avance !</l>
 	<l id="328">Arrachée au combat, seule à peu de distance</l>
 	<l id="329" part='i'>Ma mère nous suivait...</l>
-<stage>Reconnaissant sa femme.</stage>
+<stage type="[N/A]">Reconnaissant sa femme.</stage>
 	<l id="329" part='f'>En croirai-je mes yeux !</l>
 </sp>
 </div2>
@@ -586,7 +586,7 @@
 <sp who='LÉONIDAS'><speaker>LÉONIDAS.</speaker>
 	<l id="354" part='f'>Quoi, vous, ma fille, ici !</l>
 	<l id="355">Venez-vous de ce traître encourager l'audace ?</l>
-<stage>À Agis.</stage>
+<stage type="toward">À Agis.</stage>
 	<l id="356">Et toi, t'es-tu flatté d'obtenir quelque grâce,</l>
 	<l id="357">Et de voir mon courroux dissimuler l'affront</l>
 	<l id="358">Que mon sceptre brisé fit jaillir sur mon front ?</l>
@@ -786,9 +786,9 @@
 <sp who='LÉONIDAS'><speaker>LÉONIDAS.</speaker>
 	<l id="485">Des portes à l'instant, vous, Gardes, qu'on s'empare !</l>
 	<l id="486" part='i'>Vous me répondrez d'eux.</l>
-<stage>Aux Soldats.</stage>
+<stage type="toward">Aux Soldats.</stage>
 	<l id="486" part='m'>Vous, suivez-moi.</l>
-<stage>Il sort.</stage>
+<stage type="exit">Il sort.</stage>
 </sp>
 <sp who='AGÉSISTRATE'><speaker>AGÉSISTRATE.</speaker>
 	<l id="486" part='f'>Barbare !</l>
@@ -874,7 +874,7 @@
 	<l id="536">Que, pour l'amour de toi, t'immoler de ta main.</l>
 </sp>
 <sp who='AGIS'><speaker>AGIS.</speaker>
-<stage>On entend des cris.</stage>
+<stage type="[N/A]">On entend des cris.</stage>
 	<l id="537">Entendez-vous ces cris ? Avant qu'on me saisisse,</l>
 	<l id="538">Reçois, ô mon pays, ce dernier sacrifice !</l>
 </sp>
@@ -901,7 +901,7 @@
 	<l id="554">Confondons des projets enfantés par le crime :</l>
 	<l id="555">Ou, si mon ennemi parvient à m'accabler,</l>
 	<l id="556">Que mon dernier soupir le fasse encor trembler.</l>
-<stage>Agis et Lysander sortent.</stage>
+<stage type="exit">Agis et Lysander sortent.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII.</head>
@@ -921,8 +921,8 @@
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Léonidas, Ampharès, Gardes.</head>
 <sp who='LÉONIDAS'><speaker>LÉONIDAS, à ses Gardes.</speaker>
 	<l id="565">Si le Peuple paraît, qu'on fasse ouvrir les portes.</l>
-<stage>Les Gardes sortent.</stage>
-<stage>À Ampharès.</stage>
+<stage type="exit">Les Gardes sortent.</stage>
+<stage type="toward">À Ampharès.</stage>
 	<l id="566">Tandis que le Palais est rempli de cohortes,</l>
 	<l id="567">Que j'y tiens au besoin des combattants tout prêts,</l>
 	<l id="568">Tout offre, tu le vois, l'image de la paix.</l>
@@ -996,7 +996,7 @@
 </sp>
 <sp who='AMPHARÈS'><speaker>AMPHARÈS.</speaker>
 	<l id="627">Je fers votre vengeance et cours vous obéir.</l>
-<stage>Il sort.</stage>
+<stage type="exit">Il sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II.</head>
@@ -1073,7 +1073,7 @@
 	<l id="680">Que dis-je ! Veux-tu voir Sparte t'idolâtrer?</l>
 	<l id="681">Considère un moment la misère publique,</l>
 	<l id="682">Et, Roi, fais sur toi-même un effort héroïque.</l>
-<stage>Montrant le Peuple.</stage>
+<stage type="[N/A]">Montrant le Peuple.</stage>
 	<l id="683">Use envers tes enfants de générosité ;</l>
 	<l id="684">Rétablis parmi nous la douce égalité :</l>
 	<l id="685">Et celui qui tantôt a bravé ta colère,</l>
@@ -1257,7 +1257,7 @@
 	<l id="800">Honte de la Patrie, à son Tyran vendus,</l>
 	<l id="801">Et qui, pour assouvir la soif qui les domine,</l>
 	<l id="802">De moi, de mon pays, ont juré la ruine.</l>
-<stage>Montrant les anciens Sénateurs.</stage>
+<stage type="[N/A]">Montrant les anciens Sénateurs.</stage>
 	<l id="803">Les nobles défenseurs du Peuple et de l'État,</l>
 	<l id="804">Ces augustes Vieillards, vrais membres du Sénat,</l>
 	<l id="805">Osent lever le front contre la tyrannie ;</l>
@@ -1279,7 +1279,7 @@
 </sp>
 <sp who='LÉONIDAS'><speaker>LÉONIDAS.</speaker>
 	<l id="817" part='i'>À moi, Soldats !</l>
-<stage>Une troupe de Soldats parait ; le Peuple frémit et fait quelques pas contre le Tyran. </stage>
+<stage type="[N/A]">Une troupe de Soldats parait ; le Peuple frémit et fait quelques pas contre le Tyran. </stage>
 </sp>
 <sp who='AGÉSISTRATE'><speaker>AGÉSISTRATE.</speaker>
 	<l id="817" part='m'>Ô Ciel ! </l>
@@ -1310,13 +1310,13 @@
 </sp>
 <sp who='LÉONIDAS'><speaker>LÉONIDAS, s'avançant au milieu des deux partis.</speaker>
 	<l id="823" part='f'>Soldats, Peuples, écoutez.</l>
-<stage>À Agis, Agésistrate, et aux anciens Sénateurs.</stage>
+<stage type="toward">À Agis, Agésistrate, et aux anciens Sénateurs.</stage>
 	<l id="824">Et vous, connaissez mieux à qui vous insultez.</l>
 	<l id="825">Quoi ! Loin que les vaincus implorent ma clémence,</l>
 	<l id="826">Leur orgueil ose encor défier ma vengeance !</l>
 	<l id="827">Qui vois-je contre moi ! Des femmes, des vieillards,</l>
 	<l id="828">Un peuple désarmé !... Porte ici tes regards,</l>
-<stage>Montrant ceux de son parti.</stage>
+<stage type="[N/A]">Montrant ceux de son parti.</stage>
 	<l id="829">Agis : bien qu'à l'effroi tu sois inaccessible,</l>
 	<l id="830">Contemple ces Guerriers, cette troupe invincible,</l>
 	<l id="831">Et juge du destin qui tous deux nous attend.</l>
@@ -1363,7 +1363,7 @@
 </sp>
 <sp who='LYSANDER'><speaker>LYSANDER.</speaker>
 	<l id="855">Allons, Peuple, aux autels bénir notre destin.</l>
-<stage>Ils sortent tous.</stage>
+<stage type="exit">Ils sortent tous.</stage>
 </sp>
 <sp who='LÉONIDAS'><speaker>LÉONIDAS, à Ampharès, à part.</speaker>
 	<l id="856">Assemble le Sénat : mon triomphe est certain.</l>
@@ -1386,7 +1386,7 @@
 	<l id="867">Sur elle ose porter de parricides mains !</l>
 	<l id="868">Temple, Autels, vains garants des serments les plus saints,</l>
 	<l id="869">Festin qu'il a souillé, palais, Dieux domestiques,</l>
-<stage>Aux Gardes.</stage>
+<stage type="toward">Aux Gardes.</stage>
 	<l id="870">Vous, cruels, qui servez ses fureurs tyranniques,</l>
 	<l id="871">Contre un parjure ici je vous atteste tous ;</l>
 	<l id="872">Ici je le dévoue à l'infernal courroux,</l>
@@ -1457,9 +1457,9 @@
 </sp>
 <sp who='LÉONIDAS'><speaker>LÉONIDAS.</speaker>
 	<l id="911">Qu'on l'éloigne un instant ; tes cris font superflus.</l>
-<stage>Agis fort.</stage>
+<stage type="[N/A]">Agis fort.</stage>
 	<l id="912">Perfide, avant le jour je ne les craindrai plus.</l>
-<stage>Le Sénat parait.</stage>
+<stage type="[N/A]">Le Sénat parait.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='1'><head>SCÈNE I.. Léonidas, Ampharès, quatre Éphores, Sénateurs.</head> 
@@ -1468,7 +1468,7 @@
 	<l id="914">Ridicule fantôme armé de la puissance ,</l>
 	<l id="915">À toutes mes fureurs soumis aveuglément,</l>
 	<l id="916">Et que j'anéantis, s'il s'oublie un moment.</l>
-<stage>À Ampharès, à part, sur le devant du théâtre.</stage>
+<stage type="toward">À Ampharès, à part, sur le devant du théâtre.</stage>
 	<l id="917">As-tu bien réchauffé leur courroux et leur zèle ?</l>
 </sp>
 <sp who='AMPHARÈS'><speaker>AMPHARÈS.</speaker>
@@ -1497,9 +1497,9 @@
 	<l id="934">Ordonnez son trépas, s'il sert à votre gloire ;</l>
 	<l id="935">Et, dévouant sa tête à votre sûreté,</l>
 	<l id="936">Remplissez le serment que je vous ai dicté.</l>
-<stage>Aux Soldats.</stage>
+<stage type="toward">Aux Soldats.</stage>
 	<l id="937" part='i'>Qu'on fasse entrer Agis.</l>
-<stage>Le Sénat s'assied.</stage>
+<stage type="[N/A]">Le Sénat s'assied.</stage>
 </sp>
 <sp who='AMPHARÈS'><speaker>AMPHARÈS.</speaker>
 	<l id="937" part='f'>Prévenons sa furie :</l>
@@ -1513,7 +1513,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Les mêmes, Agis, au milieu des Soldats.</head>
-<stage>Personne ne se levé lorsqu'il entre.</stage>
+<stage type="[N/A]">Personne ne se levé lorsqu'il entre.</stage>
 <sp who='AGIS'><speaker>AGIS.</speaker>
 	<l id="943">Voilà, donc ce Sénat, ces Ministres des Lois,</l>
 	<l id="944">Ces demi-Dieux mortels qui règnent sur les Rois ;</l>
@@ -1631,7 +1631,7 @@
 <sp who='LÉONIDAS'><speaker>LÉONIDAS.</speaker>
 	<l id="1017" part='f'>Tant d'audace</l>
 	<l id="1018" part='i'>Mérite un châtiment ; qu'il entre.</l>
-<stage>Le Chef sort.</stage>
+<stage type="exit">Le Chef sort.</stage>
 </sp>
 <sp who='AGIS'><speaker>AGIS.</speaker>
 	<l id="1018" part='f'>Fais-lui grâce :</l>
@@ -1650,7 +1650,7 @@
 	<l id="1021" part='f'>Ô crime !</l>
 	<l id="1022">Me trompez-vous, mes yeux ? Est-ce là la victime ?</l>
 	<l id="1023">Ô nuit ! Affreux réveil ! Ah, mon Prince ! Ah, mon fils !</l>
-<stage>Il se jettent dans les bras l'un de l'autre.</stage>
+<stage type="[N/A]">Il se jettent dans les bras l'un de l'autre.</stage>
 </sp>
 <sp who='AGIS'><speaker>AGIS.</speaker>
 	<l id="1024" part='i'>Mon père !</l>
@@ -1738,7 +1738,7 @@
 <sp who='LYSANDER'><speaker>LYSANDER.</speaker>
 	<l id="1065">Vous pourriez l'immoler, ce Héros magnanime !</l>
 	<l id="1066" part='i'>Vous pourriez...</l>
-<stage>Il se jette à ses genoux.</stage>
+<stage type="[N/A]">Il se jette à ses genoux.</stage>
 	<l id="1066" part='f'>Ah ! Tombons aux pieds de la victime !</l>
 	<l id="1067" part='i'>Que mes pleurs....</l>
 </sp>
@@ -1749,7 +1749,7 @@
 	<l id="1068" part='i'>Sénateur.</l>
 </sp>
 <sp who='AGIS'><speaker>AGIS.</speaker>
-<stage>Montrant les Sénateurs.</stage>
+<stage type="[N/A]">Montrant les Sénateurs.</stage>
 	<l id="1068" part='f'>Et trop pur pour siéger avec eux.</l>
 </sp>
 <sp who='LÉONIDAS'><speaker>LÉONIDAS.</speaker>
@@ -1775,7 +1775,7 @@
 </sp>
 <sp who='AGIS'><speaker>AGIS.</speaker>
 	<l id="1074" part='f'>Voilà ma récompense.</l>
-<stage>À Léonidas.</stage>
+<stage type="toward">À Léonidas.</stage>
 	<l id="1075">Si je te ressemblais, toi, qui fus malheureux ;</l>
 	<l id="1076">Trouverais-je, réponds, un ami généreux ? </l>
 </sp>
@@ -1815,7 +1815,7 @@
 	<l id="1092">L'homme de bien jamais ne peut être vaincu ;</l>
 	<l id="1093">Le méchant est esclave au sein de la victoire.</l>
 	<l id="1094">Je ne puis plus mourir ! Déesse de mémoire,</l>
-<stage>Montrant Léonidas et les Sénateurs.</stage>
+<stage type="[N/A]">Montrant Léonidas et les Sénateurs.</stage>
 	<l id="1095">Tu sauras, leur gardant un éternel affront,</l>
 	<l id="1096">Rajeunir les lauriers qui me ceignent le front !</l>
 	<l id="1097">Le nom d'Agis, ce nom qu'illustre mon courage,</l>
@@ -2088,14 +2088,14 @@
 </sp>
 <sp who='AGIS'><speaker>AGIS.</speaker>
 	<l id="1254" part='i'>Ampharès l'a vengé.</l>
-<stage>À l'un des Citoyens.</stage>
+<stage type="toward">À l'un des Citoyens.</stage>
 	<l id="1254" part='f'>Qu'on rappelle ma mère :</l>
 	<l id="1255">Je l'ai vue attachée au pas du meurtrier.</l>
-<stage>Aux autres Citoyens.</stage>
+<stage type="toward">Aux autres Citoyens.</stage>
 	<l id="1256">A-t-on, braves amis, sauvé mon bouclier ?</l>
-<stage>On le lui présente.</stage>
+<stage type="[N/A]">On le lui présente.</stage>
 	<l id="1257">Je meurs au lit d'honneur, et Sparte est triomphant.</l>
-<stage>Montrant le fer qu'il a dans le sein.</stage>
+<stage type="[N/A]">Montrant le fer qu'il a dans le sein.</stage>
 	<l id="1258">Ce fer seul arrêtant mon âme impatiente,</l>
 	<l id="1259">Loin de troubler ma fin jurez-moi, Sénateurs,</l>
 	<l id="1260">De ne me décerner les suprêmes honneurs,</l>

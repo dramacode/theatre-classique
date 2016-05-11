@@ -52,7 +52,7 @@
 <body>
 <div1 type="act" n='1'><head>ACTE I</head>
 <div2 type="scene" n='1'><head>SCÈNE I. GRÉGOIRE, troupe de jeunes garçons et de jeunes filles.  </head>
-<stage>Le théâtre représente un temple de feuillage, orné de thyrses, de trompettes, de pampre, de raisins. On voit entre les colonnades de feuillage les statues de Bacchus, d'Ariane, de Silène et de Pan. Un grand buffet tient lieu d'autel  : deux fontaines de vin coulent dans le fond. Des garçons et des filles sont empressés à préparer tout pour une fête. Grégoire, l'un des suivants de Bacchus, ordonne la fête. Il est en veste blanche et galante, portant un thyrse à la main, et sur sa tête une couronne de lierre. Ouverture gaie et vive ; reprise douloureuse et terrible.</stage>
+<stage type="decor">Le théâtre représente un temple de feuillage, orné de thyrses, de trompettes, de pampre, de raisins. On voit entre les colonnades de feuillage les statues de Bacchus, d'Ariane, de Silène et de Pan. Un grand buffet tient lieu d'autel  : deux fontaines de vin coulent dans le fond. Des garçons et des filles sont empressés à préparer tout pour une fête. Grégoire, l'un des suivants de Bacchus, ordonne la fête. Il est en veste blanche et galante, portant un thyrse à la main, et sur sa tête une couronne de lierre. Ouverture gaie et vive ; reprise douloureuse et terrible.</stage>
 <sp who='GRÉGOIRE'><speaker>GRÉGOIRE, chante.</speaker>
 <poem type="chanson">
 <lg n="1">
@@ -72,14 +72,14 @@
 </poem>
 </sp>
 <sp who='UNE SUIVANTE'><speaker>UNE SUIVANTE.</speaker>
-<stage>Elle parle.</stage>
+<stage type="[N/A]">Elle parle.</stage>
 	<l id="13">Eh ! doucement, monsieur Grégoire,</l>
 	<l id="14">Nous sommes comme vous du temple de Bacchus ;</l>
 	<l id="15">Comme vous nous lui rendons gloire :</l>
 	<l id="16">Nous sommes tous très assidus</l>
 	<l id="17">A servir Bacchus et Vénus.</l>
 	<l id="18">Le grand-prêtre du temple est sans doute allé boire.</l>
-<stage>Elle chante.</stage>
+<stage type="sing">Elle chante.</stage>
 	<l id="19">Il reviendra : faites moins l'important.</l>
 	<l id="20">Alors que le maître est absent,</l>
 	<l id="21">Maître valet s'en fait accroire.</l>
@@ -187,14 +187,14 @@
 	<l id="74">Cesse tes discours familiers,</l>
 	<l id="75">Réprime ta langue maudite,</l>
 	<l id="76">Et respecte les dieux et les cabaretiers.</l>
-<stage>Il chante.</stage>
+<stage type="sing">Il chante.</stage>
 <poem type="chanson">
 <lg n="1">
 	<l id="77">Allons, reprenez votre ouvrage ;</l>
 	<l id="78">Servons bien ces heureux amants...</l>
 </lg>
 </poem>
-<stage>À part.</stage>
+<stage type="aparte">À part.</stage>
 <poem type="chanson">
 <lg n="1">
 	<l id="79">Le dépit et la rage</l>
@@ -274,7 +274,7 @@
 	<l id="126" part='f'>Hélas ! très volontiers.</l>
 </sp>
 <sp who='GRÉGOIRE ET PRESTINE'><speaker>GRÉGOIRE ET PRESTINE.</speaker>
-<stage>DUO.</stage>
+<stage type="[N/A]">DUO.</stage>
 <poem type="chanson">
 <lg n="1">
 	<l id="127">En ces beaux lieux c'est à Grégoire,</l>
@@ -318,7 +318,7 @@
 	<l id="155">C'est que je t'en souhaite autant.</l>
 </sp>
 <sp who='LES DEUX PÈRES'><speaker>LES DEUX PÈRES.</speaker>
-<stage>DUO.</stage>
+<stage type="[N/A]">DUO.</stage>
 <poem type="chanson">
 <lg>
 	<l id="156">Oh ! Qu'il est doux, sur nos vieux ans,</l>
@@ -363,7 +363,7 @@
 	<l id="185">Je ne vois rien que la déesse.</l>
 </sp>
 <sp who='LE PÈRE DE GLYCÈRE, LE PÈRE DE DAPHNIS, DAPHNIS, GLYCÈRE'><speaker>LE PÈRE DE GLYCÈRE, LE PÈRE DE DAPHNIS, DAPHNIS, GLYCÈRE.</speaker>
-<stage>QUATUOR.</stage>
+<stage type="[N/A]">QUATUOR.</stage>
 <poem type="chanson">
 <lg n="1">
 	<l id="186">Ma fille !...  Mon cher fils !...  Glycère !... Tendre époux !</l>
@@ -388,7 +388,7 @@
 	<l id="201">À mon oreille il plaisait fort ;</l>
 	<l id="202">Et, s'ils avaient voulu, j'aurais fait la cinquième.</l>
 	<l id="203">Mais on me laisse là ; chacun pense à soi-même.</l>
-<stage>Elle chante.</stage>
+<stage type="sing">Elle chante.</stage>
 <poem type="chanson">
 <lg n="1">
 	<l id="204">Le premier mari que j'aurai,</l>
@@ -404,12 +404,12 @@
 <div2 type="scene" n='4'><head>SCÈNE IV. Les précédents, Phébé.</head>
 <sp who="PHÉBÉ"><speaker>PHÉBÉ.</speaker>
 	<l id="210">Entrez, mes beaux messieurs, entrez, ma belle dame.</l>
-<stage>À Glycère, à part.</stage>
+<stage type="toward">À Glycère, à part.</stage>
 	<l id="211">Ma belle dame, au moins prenez bien garde à vous.</l>
 </sp>
 <sp who="DAPHNIS"><speaker>DAPHNIS.</speaker>
 	<l id="212">Allez, j'en aurai soin ; ne crains rien, bonne femme.</l>
-<stage>Il lui met une bourse dans la main.</stage>
+<stage type="[N/A]">Il lui met une bourse dans la main.</stage>
 </sp>
 <sp who="PHÉBÉ"><speaker>PHÉBÉ.</speaker>
 	<l id="213">Que voilà deux charmants époux !</l>
@@ -423,7 +423,7 @@
 <sp who="PRESTINE"><speaker>PRESTINE.</speaker>
 	<l id="218">Auprès de votre amant qui peut donc vous troubler ?</l>
 	<l id="219">Nulle crainte en tel cas ne pourrait me surprendre.</l>
-<stage>Elle chante.</stage>
+<stage type="sing">Elle chante.</stage>
 <poem type="chanson">
 <lg n="1">
 	<l id="220">Le premier mari que j'aurai,</l>
@@ -447,7 +447,7 @@
 	<l id="230">Étant plus vieux que nous, auront toujours raison.</l>
 	<l id="231">Je vous dis que c'est là... que sera le garçon ;</l>
 	<l id="232">Ici... la fille ; ici... moi, du garçon le père.</l>
-<stage>À Glycère.</stage>
+<stage type="toward">À Glycère.</stage>
 	<l id="233">Là... vous ; et puis Prestine à côté de sa soeur,</l>
 	<l id="234">Pour apprendre son rôle, et le savoir bien faire.</l>
 	<l id="235">Mais j'aperçois déjà le sacrificateur.</l>
@@ -461,7 +461,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Les Précédents, Grégoire, suivi des Ministres de Bacchus.</head>
-<stage>Les deux amants mettent la main sur le buffet qui sert d'autel.</stage>
+<stage type="[N/A]">Les deux amants mettent la main sur le buffet qui sert d'autel.</stage>
 <sp who='GRÉGOIRE'><speaker>GRÉGOIRE, au milieu, vêtu en grand sacrificateur.</speaker>
 	<l id="240" part='f'>Futur, et vous, future,</l>
 	<l id="241">Qui venez allumer à l'autel de Bacchus</l>
@@ -489,7 +489,7 @@
 	<l id="259">Et buvez l'amour à longs traits.</l>
 	<l id="260">Buvez, tendres époux, vous jurerez après :</l>
 	<l id="261">Vous recevrez des dieux des faveurs infinies.</l>
-<stage>Il va prendre les deux coupes préparées au fond du buffet.</stage>
+<stage type="[N/A]">Il va prendre les deux coupes préparées au fond du buffet.</stage>
 </sp>
 <sp who="LE PÈRE DE DAPHNIS"><speaker>LE PÈRE DE DAPHNIS.</speaker>
 	<l id="262">Oui, nos pères buvaient dans leurs cérémonies,</l>
@@ -509,7 +509,7 @@
 	<l id="274">Dans le bonheur d'autrui l'âme à l'aise respire ;</l>
 	<l id="275">Et quand nous marions nos aimables enfants,</l>
 	<l id="276">Je vois qu'on est heureux sans rire.</l>
-<stage>Grégoire présente une petite coupe à Daphnis, et une autre à Glycère.</stage>
+<stage type="[N/A]">Grégoire présente une petite coupe à Daphnis, et une autre à Glycère.</stage>
 </sp>
 <sp who='GRÉGOIRE'><speaker>GRÉGOIRE, après qu'ils ont bu.</speaker>
 	<l id="277">Rendez-moi cette coupe. Eh quoi ! Vous frémissez !</l>
@@ -529,7 +529,7 @@
 	<l id="287">Je t'invoque après ma Glycère.</l>
 </lg>
 </poem>
-<stage>Symphonie.</stage>
+<stage type="[N/A]">Symphonie.</stage>
 </sp>
 <sp who='DAPHNIS'><speaker>DAPHNIS, continue.</speaker>
 	<l id="288">Descends, Bacchus, en ces beaux lieux ;</l>
@@ -610,8 +610,8 @@
 <sp who="GLYCÈRE"><speaker>GLYCÈRE.</speaker>
 	<l id="326">Tu ne t'en vas point ; je m'enfuis :</l>
 	<l id="327">Pour être loin de toi j'irais au bout du monde.</l>
-<stage>Elle sort.</stage>
-<stage>QUATUOR.</stage>
+<stage type="exit">Elle sort.</stage>
+<stage type="[N/A]">QUATUOR.</stage>
 </sp>
 <sp who='LES DEUX PÈRES, PRESTINE, DAPHNIS'><speaker>LES DEUX PÈRES, PRESTINE, DAPHNIS.</speaker>
 <poem type="chanson">
@@ -619,7 +619,7 @@
 	<l id="328">Je suis tout confondu... Je frémis... Je me meurs !</l>
 </lg>
 </poem>
-<stage>Tous ensemble.</stage>
+<stage type="[N/A]">Tous ensemble.</stage>
 <poem type="chanson">
 <lg n="1">
 	<l id="329">Quel changement ! quelles alarmes !</l>
@@ -643,7 +643,7 @@
 	<l id="337">Il faut en faire autant.</l>
 </lg>
 </poem>
-<stage>Il s'en va.</stage>
+<stage type="exit">Il s'en va.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Le Père de Daphnis, Le Père de Glycère, Daphnis, Prestine.</head>
@@ -846,7 +846,7 @@
 <sp who="DAPHNIS"><speaker>DAPHNIS.</speaker>
 	<l id="462">Je crois que dans l'instant à mon juste dépit,</l>
 	<l id="463">Lâche, ton sang va satisfaire.</l>
-<stage>ARIETTE.</stage>
+<stage type="[N/A]">ARIETTE.</stage>
 </sp>
 <sp who="GRÉGOIRE"><speaker>GRÉGOIRE.</speaker>
 <poem type="chanson">
@@ -876,7 +876,7 @@
 	<l id="477">Ensemble une seconde fois.</l>
 </sp>
 <sp who='GRÉGOIRE, DAPHNIS'><speaker>GRÉGOIRE, DAPHNIS.</speaker>
-<stage>DUO.</stage>
+<stage type="[N/A]">DUO.</stage>
 <poem>
 <lg n="1">
 	<l id="478">Sur cet autel Grégoire jure</l>
@@ -909,7 +909,7 @@
 	<l id="503">Tout passera.</l>
 </lg>
 </poem>
-<stage>Ensemble.</stage>
+<stage type="[N/A]">Ensemble.</stage>
 <poem type="chanson">
 <lg>
 	<l id="504">Le caprice d'une femme</l>
@@ -983,10 +983,10 @@
 	<l id="541">Ton coeur répond-il à mon coeur ?</l>
 	<l id="542">Du feu qui me consume éprouves-tu les charmes ?</l>
 	<l id="543">Sens-tu l'excès de mon bonheur ?</l>
-<stage>À cette musique tendre succède une symphonie impérieuse et d'un caractère terrible.</stage>
+<stage type="toward">À cette musique tendre succède une symphonie impérieuse et d'un caractère terrible.</stage>
 </sp>
 <sp who='DAPHNIS'><speaker>DAPHNIS, au père de Glycère.</speaker>
-<stage>Il chante.</stage>
+<stage type="sing">Il chante.</stage>
 <poem type="chanson">
 <lg>
 	<l id="544">Écoute, malheureux beau-père,</l>
@@ -1004,7 +1004,7 @@
 	<l id="556">Quand le divorce le suit.</l>
 </lg>
 </poem>
-<stage>TRIO.</stage>
+<stage type="[N/A]">TRIO.</stage>
 </sp>
 <sp who='LES DEUX PÈRES, GLYCÈRE'><speaker>LES DEUX PÈRES, GLYCÈRE.</speaker>
 	<l id="557">Ô ciel ! Ô juste ciel, en voilà bien d'un autre.</l>
@@ -1013,7 +1013,7 @@
 <sp who="DAPHNIS"><speaker>DAPHNIS.</speaker>
 	<l id="559">Beau-père, pour jamais je renonce à la voir :</l>
 	<l id="560">Je m'en vais voyager loin d'elle... Adieu... Bonsoir.</l>
-<stage>Il sort.</stage>
+<stage type="exit">Il sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Les Deux Pères, Glycère.</head>
@@ -1022,7 +1022,7 @@
 	<l id="562">Hélas ! ils sont tous fous :</l>
 	<l id="563">Ce matin c'était ma fille,</l>
 	<l id="564">Et le soir c'est son époux.</l>
-<stage>TRIO.</stage>
+<stage type="[N/A]">TRIO.</stage>
 	<l id="565">D'une plainte commune</l>
 	<l id="566">Unissons nos soupirs.</l>
 	<l id="567">Nous trouvons l'infortune</l>
@@ -1158,7 +1158,7 @@
 <div2 type="scene" n='5'><head>SCÈNE V. Les Précédents, Daphnis.</head>
 <sp who='DAPHNIS'><speaker>DAPHNIS.</speaker>
 	<l id="648">Ah ! Je meurs à tes pieds et de honte et d'amour.</l>
-<stage>QUINQUE.</stage>
+<stage type="[N/A]">QUINQUE.</stage>
 <poem type="chanson">
 <lg n="1">
 	<l id="649">Chantons tous cinq, en ce jour d'allégresse,</l>

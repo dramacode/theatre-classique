@@ -487,7 +487,7 @@
 	<l id='340'>Qu'il vienne, je le veux, je veux l'interroger.</l>
 </sp>
 <sp who='EURYCLES'><speaker>EURYCLÈS</speaker>
-<stage>À Isménie.</stage>
+<stage type="toward">À Isménie.</stage>
 	<l id='341'>Vous serez obéie. Allez, et qu'on l'amène ;</l>
 	<l id='342'>Qu'il paraisse à l'instant aux regards de la reine.</l>
 </sp>
@@ -561,7 +561,7 @@
 </sp>
 <sp who='ISMENIE'><speaker>ISMÉNIE</speaker>
 	<l id='384' part='i'>Rassurez-vous, c'est elle.</l>
-<stage>Elle sort.</stage>
+<stage type="exit">Elle sort.</stage>
 </sp>
 <sp who='EGISTHE'><speaker>ÉGISTHE</speaker>
 	<l id='384' part='f'>Ô dieu de l'univers !</l>
@@ -577,7 +577,7 @@
 <sp who='EGISTHE'><speaker>ÉGISTHE</speaker>
 	<l id='391'>Ô reine, pardonnez : le trouble, le respect,</l>
 	<l id='392'>Glacent ma triste voix tremblante à votre aspect.</l>
-<stage>À Euryclès.</stage>
+<stage type="toward">À Euryclès.</stage>
 	<l id='393'>Mon âme, en sa présence, étonnée, attendrie...</l>
 </sp>
 <sp who='MEROPE'><speaker>MÉROPE</speaker>
@@ -732,7 +732,7 @@
 	<l id='493'>Dieux ! Que plus on est grand, plus vos coups sont à craindre !</l>
 	<l id='494'>Errant, abandonné, je suis le moins à plaindre.</l>
 	<l id='495' part='i'>Tout homme a ses malheurs.</l>
-<stage>On emmène Égisthe.</stage>
+<stage type="[N/A]">On emmène Égisthe.</stage>
 </sp>
 <sp who='EURYCLES'><speaker>EURYCLÈS, à Mérope.</speaker>
 	<l id='495' part='f'>Je vous l'avais prédit :</l>
@@ -827,7 +827,7 @@
 	<l id='537'>Celui qui sur Égisthe a mis ses mains hardies</l>
 	<l id='538'>A pris de votre fils les dépouilles chéries,</l>
 	<l id='539'>L'armure que Narbas emporta de ces lieux :</l>
-<stage>On apporte cette armure dans le fond du théâtre.</stage>
+<stage type="[N/A]">On apporte cette armure dans le fond du théâtre.</stage>
 	<l id='540'>Le traître avait jeté ces gages précieux,</l>
 	<l id='541'>Pour n'être point connu par ces marques sanglantes.</l>
 </sp>
@@ -1100,7 +1100,7 @@
 <sp who='MEROPE'><speaker>MÉROPE</speaker>
 	<l id='705'>Le cruel ! à quel point on l'instruisit à feindre !</l>
 	<l id='706'>Il m'arrache la vie, et semble encor me plaindre !</l>
-<stage>Elle se jette dans les bras d'Isménie.</stage>
+<stage type="[N/A]">Elle se jette dans les bras d'Isménie.</stage>
 </sp>
 <sp who='EURYCLES'><speaker>EURYCLÈS</speaker>
 	<l id='707'>Madame, vengez-vous, et vengez à la fois</l>
@@ -1153,7 +1153,7 @@
 	<l id='728'>Quelle indigne pitié suspendait ma fureur !</l>
 	<l id='729'>C'en est trop ; secondez la rage qui me guide.</l>
 	<l id='730'>Qu'on traîne à ce tombeau ce monstre, ce perfide.</l>
-<stage>Levant le poignard.</stage>
+<stage type="[N/A]">Levant le poignard.</stage>
 	<l id='731'>Mânes de mon cher fils ! Mes bras ensanglantés...</l>
 </sp>
 <sp who='NARBAS'><speaker>NARBAS, paraissant avec précipitation.</speaker>
@@ -1187,7 +1187,7 @@
 	<l id='737'>Ah ! Madame, empêchez qu'on achève le crime.</l>
 	<l id='738'>Euryclès, écoutez ; écartez la victime :</l>
 	<l id='739' part='i'>Que je vous parle.</l>
-<stage>Euryclès emmène Égisthe, et ferme le fond du théâtre.</stage>
+<stage type="[N/A]">Euryclès emmène Égisthe, et ferme le fond du théâtre.</stage>
 	<l id='739' part='m'>Ô ciel !</l>
 </sp>
 <sp who='MEROPE'><speaker>MÉROPE, s'avançant.</speaker>
@@ -1230,7 +1230,7 @@
 </sp>
 <sp who='NARBAS'><speaker>NARBAS</speaker>
 	<l id='750'>Redoutez, renfermez cette juste tendresse.</l>
-<stage>À Isménie.</stage>
+<stage type="toward">À Isménie.</stage>
 	<l id='751'>Vous, cachez à jamais ce secret important ;</l>
 	<l id='752'>Le salut de la reine et d'Égisthe en dépend.</l>
 </sp>
@@ -1350,7 +1350,7 @@
 </sp>
 <sp who='MEROPE'><speaker>MÉROPE</speaker>
 	<l id='806' part='f'>Ô dieux ! Est-il possible ?</l>
-<stage>À Narbas.</stage>
+<stage type="toward">À Narbas.</stage>
 	<l id='807'>Va, dérobe surtout ta vue à sa fureur.</l>
 </sp>
 <sp who='NARBAS'><speaker>NARBAS</speaker>
@@ -1422,9 +1422,9 @@
 <sp who='MEROPE'><speaker>MÉROPE</speaker>
 	<l id='839'>Ah ! Barbare ! ... à moi seule il faut qu'il soit remis.</l>
 	<l id='840'>Rendez-moi... vous savez que vous l'avez promis.</l>
-<stage>À part.</stage>
+<stage type="aparte">À part.</stage>
 	<l id='841'>Ô mon sang ! ô mon fils ! Quel sort on vous prépare !</l>
-<stage>À Polyphonte.</stage>
+<stage type="toward">À Polyphonte.</stage>
 	<l id='842' part='i'>Seigneur, ayez pitié...</l>
 </sp>
 <sp who='POLYPHONTE'><speaker>POLYPHONTE</speaker>
@@ -1781,7 +1781,7 @@
 	<l id='1039'>Choisissez ; mais sachez qu'au sortir de ces lieux</l>
 	<l id='1040'>Je ne vous en croirai qu'en présence des dieux.</l>
 	<l id='1041'>Vous, soldats, qu'on le garde ; et vous, que l'on me suive.</l>
-<stage>À Mérope.</stage>
+<stage type="toward">À Mérope.</stage>
 	<l id='1042'>Je vous attends ; voyez si vous voulez qu'il vive ;</l>
 	<l id='1043'>Déterminez d'un mot mon esprit incertain ;</l>
 	<l id='1044'>Confirmez sa naissance en me donnant la main.</l>
@@ -1884,7 +1884,7 @@
 	<l id='1098'>On vient. Ah ! Je frissonne. Ah ! Tout me désespère.</l>
 	<l id='1099'>On m'appelle, et mon fils est au bord du cercueil ;</l>
 	<l id='1100'>Le tyran peut encor l'y plonger d'un coup d'oeil.</l>
-<stage>Aux sacrificateurs.</stage>
+<stage type="toward">Aux sacrificateurs.</stage>
 	<l id='1101'>Ministres rigoureux du monstre qui m'opprime,</l>
 	<l id='1102'>Vous venez à l'autel entraîner la victime.</l>
 	<l id='1103'>Ô vengeance ! ô tendresse ! ô nature ! ô devoir !</l>
@@ -1949,7 +1949,7 @@
 </div2>
 <div2 type='scene' n='2'><head>SCÈNE II. Polyphonte, Égisthe, Narbas, Euryclès, gardes.</head>
 <sp who='POLYPHONTE'><speaker>POLYPHONTE</speaker>
-<stage>Narbas et Euryclès s'éloignent un peu.</stage>
+<stage type="[N/A]">Narbas et Euryclès s'éloignent un peu.</stage>
 	<l id='1145'>Retirez-vous ; et toi, dont l'aveugle jeunesse</l>
 	<l id='1146'>Inspire une pitié qu'on doit à la faiblesse,</l>
 	<l id='1147'>Ton roi veut bien encor, pour la dernière fois,</l>
@@ -2113,7 +2113,7 @@
 	<l id='1246' part='f'>Marchons, quoi qu'il en coûte.</l>
 	<l id='1247'>Adieu, tristes amis ; vous connaîtrez du moins</l>
 	<l id='1248'>Que le fils de Mérope a mérité vos soins.</l>
-<stage>À Narbas, en l'embrassant.</stage>
+<stage type="toward">À Narbas, en l'embrassant.</stage>
 	<l id='1249'>Tu ne rougiras point, crois-moi, de ton ouvrage ;</l>
 	<l id='1250'>Au sang qui m'a formé tu rendras témoignage.</l>
 </sp>
@@ -2176,7 +2176,7 @@
 <sp who='EURYCLES'><speaker>EURYCLÈS</speaker>
 	<l id='1276'>Grâces aux immortels ! Les chemins sont ouverts.</l>
 	<l id='1277'>Allons voir à l'instant s'il faut mourir ou vivre.</l>
-<stage>Il sort.</stage>
+<stage type="exit">Il sort.</stage>
 </sp>
 <sp who='NARBAS'><speaker>NARBAS</speaker>
 	<l id='1278'>Allons. D'un pas égal que ne puis-je vous suivre !</l>
@@ -2280,7 +2280,7 @@
 </sp>
 </div2>
 <div2 type='scene' n='7'><head>SCÈNE VII. Mérope, Isménie, Narbas, peuple, soldats.</head>
-<stage>On voit dans le fond du théâtre le corps de Polyphonte couvert d'une robe sanglante.</stage>
+<stage type="[N/A]">On voit dans le fond du théâtre le corps de Polyphonte couvert d'une robe sanglante.</stage>
 <sp who='MEROPE'><speaker>MÉROPE</speaker>
 	<l id='1354'>Guerriers, prêtres, amis, citoyens de Messène,</l>
 	<l id='1355'>Au nom des dieux vengeurs, peuples, écoutez-moi.</l>
@@ -2293,7 +2293,7 @@
 	<l id='1362'>Mes deux fils sont tombés sous les coups de ce traître.</l>
 	<l id='1363'>Il opprimait Messène, il usurpait mon rang ;</l>
 	<l id='1364'>Il m'offrait une main fumante de mon sang.</l>
-<stage>En courant vers Égisthe, qui arrive la hache à la main.</stage>
+<stage type="[N/A]">En courant vers Égisthe, qui arrive la hache à la main.</stage>
 	<l id='1365'>Celui que vous voyez, vainqueur de Polyphonte,</l>
 	<l id='1366'>C'est le fils de vos rois, c'est le sang de Cresphonte ;</l>
 	<l id='1367'>C'est le mien, c'est le seul qui reste à ma douleur.</l>

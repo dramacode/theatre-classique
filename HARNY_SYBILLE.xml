@@ -47,7 +47,7 @@
 		<castItem><role id="LA SYBILLE" sex="2" type="P" statut='bourgeois' age='A' stat_amour='néant'>LA SYBILLE</role>,	Mme. Favart.</castItem> 
 		<castItem><role id="AZOR" sex="2" type="P" statut='bourgeois' age='A' stat_amour='néant'>AZOR</role>,	M. Rochard.</castItem> 
 		<castItem><role id="EUPHROSINE" sex="2" type="P" statut='bourgeois' age='A' stat_amour='néant'>EUPHROSINE</role>,	Mlle. Desglans.</castItem> 
-		<castItem><role id="FRANCUR" sex="1" type="P" statut='bourgeois' age='A' stat_amour='néant'>FRANCUR</role>,	M. Chanville.</castItem> 
+		<castItem><role id="FRANCOEUR" sex="1" type="P" statut='bourgeois' age='A' stat_amour='néant'>FRANCOEUR</role>,	M. Chanville.</castItem> 
 		<castItem><role id="UNE VENDANGEUSE" sex="2" type="P" statut='paysan' age='A' stat_amour='néant'>UNE VENDANGEUSE</role>,	Personnage muet.</castItem> 
 		<castItem><role id="L'AMOUR" sex="1" type="D" statut='dieu' age='A' stat_amour='néant'>L'AMOUR</role>.	Personnage muet.</castItem> 
 	</castList>
@@ -56,14 +56,14 @@
 <body>
 <div1 type="act" n='1'><head></head>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE.</head>
-<stage>Le Théâtre représente d'un côté un verger, et de l'autre l'antre de la Sybille.</stage>
+<stage type="decor">Le théâtre représente d'un côté un verger, et de l'autre l'antre de la Sybille.</stage>
 <sp who='AZOR'><speaker>AZOR, seul.</speaker>
-<stage>ARIETTE.</stage>
+<stage type="[N/A]">ARIETTE.</stage>
 	<l id="1">Amour lance dans mon âme</l>
 	<l id="2">Tous tes traits.</l>
 	<l id="3">j'aime pour jamais,</l>
 	<l id="4">Pour jamais je m'enflamme.</l>
-	<l id="5">Frappe, à tes coups mon cur connaîtra tes bienfaits.</l>
+	<l id="5">Frappe, à tes coups mon coeur connaîtra tes bienfaits.</l>
 	<l id="6">Amour lance dans mon âme</l>
 	<l id="7">Tous tes traits,</l>
 	<l id="8">Longtemps du Dieu de la Thrace</l>
@@ -75,8 +75,8 @@
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Azor, Francoeur.</head>
-<sp who="FRANCUR"><speaker>FRANCUR.</speaker>
-<stage>AIR. Castagno castagna.</stage>
+<sp who="FRANCOEUR"><speaker>FRANCOEUR.</speaker>
+<stage type="music">Air : Castagno castagna.</stage>
 	<l id="14">L'Amour fait dans ce temps</l>
 	<l id="15">Bonne Vendange ;</l>
 	<l id="16">Tandis que les Mamans</l>
@@ -89,17 +89,17 @@
 	<l id="23">Ta la la, etc.</l>
 </sp>
 <sp who="AZOR"><speaker>AZOR.</speaker>
-<stage>AIR. Ma Fanchon ne pleurez pas.</stage>
-	<l id="24">Francur est toujours joyeux</l>
+<stage type="music">Air : Ma Fanchon ne pleurez pas.</stage>
+	<l id="24">Francoeur est toujours joyeux</l>
 </sp>
-<sp who="FRANCUR"><speaker>FRANCUR.</speaker>
+<sp who="FRANCOEUR"><speaker>FRANCOEUR.</speaker>
 	<l id="25">On doit bannir en Vendange  </l>
 	<l id="26">Tous les soucis ennuyeux,</l>
 	<l id="27">C'est le temps où l'amour s'arrange.</l>
 	<l id="28">Puis d'ailleurs le souci, dit-on,</l>
 	<l id="29">N'est pas fait pour un bon Luron.</l>
 	<l id="30">N'est pas fait pour un bon Luron.</l>
-<stage>AIR. Ah! voila comme l'homme.</stage>
+<stage type="music">Air : Ah! voila comme l'homme.</stage>
 	<l id="31">Quand par hasard j'ai du chagrin,</l>
 	<l id="32">Je prends un doigt de Brandevin,</l>
 	<l id="33">Je cours à l'instant chez ma Belle</l>
@@ -108,7 +108,7 @@
 	<l id="36">Ah ! Voilà comme</l>
 	<l id="37">L'homme</l>
 	<l id="38">Peut-être content.</l>
-<stage>AIR. Nous autres bons villageois.</stage>
+<stage type="music">Air : Nous autres bons villageois.</stage>
 	<l id="39">De Bacchus et de l'Amour.</l>
 	<l id="40">On célèbre aujourd'hui la fête ;</l>
 	<l id="41">A signaler ce grand joui</l>
@@ -120,8 +120,8 @@
 <sp who="AZOR"><speaker>AZOR.</speaker>
 	<l id="46">Ah ! Je sais trop qu'il y sera.</l>
 </sp>
-<sp who="FRANCUR"><speaker>FRANCUR.</speaker>
-<stage>AIR. Je veux chanter sur ma musette.</stage>
+<sp who="FRANCOEUR"><speaker>FRANCOEUR.</speaker>
+<stage type="music">Air : Je veux chanter sur ma musette.</stage>
 	<l id="47">Le craignez vous mon Capitaine  ?</l>
 </sp>
 <sp who="AZOR"><speaker>AZOR.</speaker>
@@ -129,14 +129,14 @@
 	<l id="49">L'aurore paraissant à peine,</l>
 	<l id="50">J'allai rêver, mais sans dessein.</l>
 </sp>
-<sp who="FRANCUR"><speaker>FRANCUR.</speaker>
+<sp who="FRANCOEUR"><speaker>FRANCOEUR.</speaker>
 	<l id="51">Eh ! Quoi ce petit Dieu malin</l>
 	<l id="52">Vous a-t-il causé quelque peine  ?</l>
 	<l id="53">Lorsqu'il se montre en ce séjour</l>
 	<l id="54">C'est pour y faire un méchant tour.</l>
 </sp>
 <sp who="AZOR"><speaker>AZOR.</speaker>
-<stage>AIR. Noté n°1.</stage>
+<stage type="music">Air : Noté n°1.</stage>
 	<l id="55">Sur un buisson de rose en rose,</l>
 	<l id="56">Voltigeait un oiseau charmant.</l>
 	<l id="57">Un enfant le voit, se propose</l>
@@ -156,30 +156,30 @@
 	<l id="71">Ah ! dit-il, tu voulais me prendre,</l>
 	<l id="72">Tu soupireras désormais</l>
 	<l id="73">C'est pour te punir et t'apprendre</l>
-<note type="L">Rets : Filet, lacis de plusieurs cordes jointes ensemble par plusieurs nuds qui laissent de grandes et de petites mailles. [F]</note>
+<note type="L">Rets : Filet, lacis de plusieurs cordes jointes ensemble par plusieurs noeuds qui laissent de grandes et de petites mailles. [F]</note>
 	<l id="74">À qui l'on doit tendre des rets.</l>
 </sp>
-<sp who="FRANCUR"><speaker>FRANCUR.</speaker>
-<stage>AIR. Monsieur de Catinat.</stage>
+<sp who="FRANCOEUR"><speaker>FRANCOEUR.</speaker>
+<stage type="music">Air : Monsieur de Catinat.</stage>
 	<l id="75" part='i'>Vraiment c'est tout de bon.</l>
 </sp>
 <sp who="AZOR"><speaker>AZOR.</speaker>
 	<l id="75" part='f'>Jusqu'ici trop léger</l>
 	<l id="76">Je n'avais recherché qu'un plaisir passager :</l>
-	<l id="77">Mais mon cur aujourd'hui s'engage malgré moi</l>
+	<l id="77">Mais mon coeur aujourd'hui s'engage malgré moi</l>
 	<l id="78">Et je pense qu'enfin j'aime de bonne foi.</l>
-<stage>AIR. Quoi ma voisine es-tu fâchée.</stage>
+<stage type="music">Air : Quoi ma voisine es-tu fâchée.</stage>
 	<l id="79">Euphrosine qui m'a su plaire</l>
 	<l id="80">A mille appas ;</l>
 	<l id="81">Mais elle fait trop la sévère</l>
 	<l id="82">On n'y tient pas.</l>
 </sp>
-<sp who="FRANCUR"><speaker>FRANCUR.</speaker>
+<sp who="FRANCOEUR"><speaker>FRANCOEUR.</speaker>
 	<l id="83">Il faut savoir avec adresse</l>
 	<l id="84">Saisir les temps,</l>
 	<l id="85">En vendange une douce ivresse</l>
 	<l id="86">Sert les amants.</l>
-<stage>ARIETTE.</stage>
+<stage type="[N/A]">ARIETTE.</stage>
 	<l id="87">Chaque bergère</l>
 	<l id="88">En corset blanc,</l>
 	<l id="89">Sur la fougère</l>
@@ -195,10 +195,10 @@
 	<l id="99">On ne peut s'en défendre;</l>
 	<l id="100">Et l'Amour par un choc léger</l>
 	<l id="101">Fait sonner l'heure du Berger.</l>
-<stage>Chaque bergère etc.</stage>
+<stage type="[N/A]">Chaque bergère etc.</stage>
 </sp>
 <sp who="AZOR"><speaker>AZOR.</speaker>
-<stage>AIR. De mon Berger Volage.</stage>
+<stage type="music">Air : De mon Berger Volage.</stage>
 	<l id="102">Pour dompter la plus fière  </l>
 	<l id="103">Il ne faut qu'un moment.</l>
 	<l id="104">L'instant ou la manière,</l>
@@ -206,23 +206,23 @@
 	<l id="106">Euphrosine rebelle,</l>
 	<l id="107">Ne peut que m'exciter ;</l>
 	<l id="108">Pour soumettre une belle,</l>
-	<l id="109">Un cur doit tout tester.</l>
-<stage>ARIETTE.</stage>
+	<l id="109">Un coeur doit tout tester.</l>
+<stage type="[N/A]">ARIETTE.</stage>
 	<l id="110">De la Gloire terrible</l>
 	<l id="111">Suspendons les travaux,</l>
 	<l id="112">Cherchons, vainqueur paisible</l>
 	<l id="113">Des triomphes plus beaux.</l>
-<stage>Il sort.</stage>
+<stage type="exit">Il sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III.</head>
-<sp who='FRANCUR'><speaker>FRANCUR, seul.</speaker>
-<stage>AIR. Quand je suis dans mon corps-de-garde.</stage>
+<sp who='FRANCOEUR'><speaker>FRANCOEUR, seul.</speaker>
+<stage type="music">Air : Quand je suis dans mon corps-de-garde.</stage>
 	<l id="114">Je vais aussi voir ma maîtresse,</l>
 	<l id="115">Et lui parler tout nettement :</l>
 	<l id="116">L'amant qui peint bien sa tendresse</l>
 	<l id="117">Trouve toujours un bon moment.</l>
-<stage>AIR Noté n°2.</stage>
+<stage type="music">Air Noté n°2.</stage>
 	<l id="118">De l'objet qu'Amour me garde </l>
 	<l id="119">Si je dompte la fierté,</l>
 	<l id="120">Les plaisirs, au corps-de-garde,</l>
@@ -241,20 +241,20 @@
 	<l id="133">Finit toujours joliment.</l>
 	<l id="134">Après ma garde finie,</l>
 	<l id="135">L'Amour fera battre au champ;</l>
-	<l id="136">Le coup d'il d'une prairie</l>
+	<l id="136">Le coup d'oeil d'une prairie</l>
 	<l id="137">Souvent inspire un Amant.</l>
 	<l id="138">Près d'un ruisseau qui murmure</l>
 	<l id="139">S'élève un riant gazon ;</l>
 	<l id="140">C'est un soin de la Nature,</l>
 	<l id="141">Il n'est pas là sans raison.  </l>
-<stage>AIR. Sur le Pont d'Avignon.</stage>
+<stage type="music">Air : Sur le Pont d'Avignon.</stage>
 	<l id="142">Mais une Dame vient : Azor est avec elle :</l>
 	<l id="143">Ici laissons-les seuls, et courons chez ma belle.</l>
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Euphrosine, Azor.</head>
 <sp who="EUPHROSINE"><speaker>EUPHROSINE.</speaker>
-<stage>ARIETTE.</stage>
+<stage type="[N/A]">ARIETTE.</stage>
 	<l id="144">Dieu charmant,</l>
 	<l id="145">Dieu de la tendresse,</l>
 	<l id="146">J'ai fait choix d'un amant ;</l>
@@ -267,7 +267,7 @@
 	<l id="153">Sauvez-moi les regrets.</l>
 </sp>
 <sp who="AZOR"><speaker>AZOR.</speaker>
-<stage>AIR. Ingrat berger qu'est devenu.</stage>
+<stage type="music">Air : Ingrat berger qu'est devenu.</stage>
 	<l id="154">Vous rêvez seule en ce verger.</l>
 </sp>
 <sp who="EUPHROSINE"><speaker>EUPHROSINE.</speaker>
@@ -282,7 +282,7 @@
 	<l id="159">De l'Amour je veux fuir les lois.</l>
 </sp>
 <sp who="AZOR"><speaker>AZOR.</speaker>
-<stage>AIR; N'aurai-je jamais un amant.</stage>
+<stage type="music">Air; N'aurai-je jamais un amant.</stage>
 	<l id="160">Et pourquoi tant haïr l'Amour,</l>
 	<l id="161">Vous a-t-il joué quelque tour  ?</l>
 	<l id="162">Cela ne doit point étonner.</l>
@@ -295,7 +295,7 @@
 	<l id="165">Vous êtes si jolie.</l>
 </sp>
 <sp who="EUPHROSINE"><speaker>EUPHROSINE.</speaker>
-<stage>AIR Noté n°3.</stage>
+<stage type="music">Air Noté n°3.</stage>
 <poem type="chanson">
 <lg n="1">
 	<l id="166">Je trouve un jour sur l'herbette fleurie</l>
@@ -330,7 +330,7 @@
 </poem>
 </sp>
 <sp who="AZOR"><speaker>AZOR.</speaker>
-<stage>AIR. Hélas, Maman, pardonnez, je vous prie.</stage>
+<stage type="music">Air : Hélas, Maman, pardonnez, je vous prie.</stage>
 	<l id="186">Souvent l'on paye assez cher en la vie</l>
 	<l id="187">Un seul instant de curiosité;</l>
 	<l id="188">Mais ce n'est rien, aussi charmante envie  </l>
@@ -341,7 +341,7 @@
 	<l id="191">Pour un instant de curiosité.</l>
 </sp>
 <sp who="AZOR"><speaker>AZOR.</speaker>
-<stage>AIR. Si les feux de tous les amants.</stage>
+<stage type="music">Air : Si les feux de tous les amants.</stage>
 	<l id="192">Pour guérir un pareil tourment,</l>
 	<l id="193">Il faut faire choix d'un amant.</l>
 </sp>
@@ -357,7 +357,7 @@
 </sp>
 <sp who="AZOR"><speaker>AZOR.</speaker>
 	<l id="197">Eh mais, vous seriez la première.</l>
-<stage>ARIETTE.</stage>
+<stage type="[N/A]">ARIETTE.</stage>
 	<l id="198">Une belle</l>
 	<l id="199">Sur ce point</l>
 	<l id="200">Fait en vain la cruelle,</l>
@@ -375,10 +375,10 @@
 	<l id="212">D'abord on dit non, non, non,</l>
 	<l id="213">Eh bon, bon, bon, bon,</l>
 	<l id="214">En est-on la dupe aujourd'hui,</l>
-	<l id="215">Tout bas votre cur dit oui.</l>
+	<l id="215">Tout bas votre coeur dit oui.</l>
 </sp>
 <sp who="EUPHROSINE"><speaker>EUPHROSINE.</speaker>
-<stage>AIR. Avec un Turc ordinaire.</stage>
+<stage type="music">Air : Avec un Turc ordinaire.</stage>
 	<l id="216">Ah cachons-lui que je l'aime.</l>
 </sp>
 <sp who="AZOR"><speaker>AZOR.</speaker>
@@ -395,7 +395,7 @@
 	<l id="223">Vous savez si bien charmer.</l>
 </sp>
 <sp who="EUPHROSINE"><speaker>EUPHROSINE.</speaker>
-<stage>AIR. Vaudeville d'Epicure.</stage>
+<stage type="music">Air : Vaudeville d'Epicure.</stage>
 	<l id="224">Azor réprimez cette audace</l>
 	<l id="225">Ah ! Que vous m'êtes odieux !</l>
 	<l id="226">Et je vais vous quitter la place</l>
@@ -410,14 +410,14 @@
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V.</head>
 <sp who="EUPHROSINE"><speaker>EUPHROSINE.</speaker>
-<stage>AIR. De tout temps le jardinage.</stage>
+<stage type="music">Air : De tout temps le jardinage.</stage>
 	<l id="232">Ah ! Quelle ardeur téméraire !</l>
 	<l id="233">Si du moins elle est sincère,</l>
 	<l id="234">Que mon sort sera charmant.</l>
 	<l id="235">Mais, hélas, que je dois craindre</l>
 	<l id="236">De voir quelque jour éteindre</l>
 	<l id="237">Un feu qui paraît si grand.</l>
-<stage>ARIETTE.</stage>
+<stage type="[N/A]">ARIETTE.</stage>
 	<l id="238">Par la Gloire</l>
 	<l id="239">Un Guerrier animé,</l>
 	<l id="240">Souvent de la Victoire</l>
@@ -432,15 +432,15 @@
 	<l id="249">D'attendre</l>
 	<l id="250">Dans mille ennuis divers</l>
 	<l id="251">Le retour des hivers.</l>
-	<l id="252">Pour un cur tendre</l>
+	<l id="252">Pour un coeur tendre</l>
 	<l id="253">Que de sujet de s'affliger !</l>
 	<l id="254">Faut-il encore le voir léger.</l>
-<stage>Par la Gloire, etc.</stage>
+<stage type="[N/A]">Par la Gloire, etc.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Azor, Euphrosine.</head>
 <sp who="AZOR"><speaker>AZOR.</speaker>
-<stage>AIR. Depuis que j'ai quitté l'enfance.</stage>
+<stage type="music">Air : Depuis que j'ai quitté l'enfance.</stage>
 	<l id="255">L'Amour près de vous me rappelle,</l>
 	<l id="256">Mais pourquoi cet air sérieux ;</l>
 	<l id="257">Le courroux dépare une belle,</l>
@@ -450,24 +450,24 @@
 	<l id="259">Votre façon d'aimer m'étonne</l>
 	<l id="260">Azor cessez de m'irriter,</l>
 	<l id="261">Je ne dois plus vous écouter.</l>
-<stage>À part.</stage>
-	<l id="262">Ah ! Tout bas mon cur lui pardonne.</l>
-<stage>Elle sort.</stage>
+<stage type="aparte">À part.</stage>
+	<l id="262">Ah ! Tout bas mon coeur lui pardonne.</l>
+<stage type="exit">Elle sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII. Azor, Francoeur, entre après qu'Azor est sorti.</head>
 <sp who="AZOR"><speaker>AZOR.</speaker>
-<stage>AIR. Que je regrette mon amant.</stage>
+<stage type="music">Air : Que je regrette mon amant.</stage>
 	<l id="263">Elle me fuit, ah! suivons la.</l>
 </sp>
-<sp who='FRANCUR'><speaker>FRANCUR. </speaker>
-<stage>Azor sort.</stage>
+<sp who='FRANCOEUR'><speaker>FRANCOEUR. </speaker>
+<stage type="exit">Azor sort.</stage>
 	<l id="264">Ma Lisette est toujours sévère...</l>
 	<l id="265">Mais mon Capitaine s'en va,</l>
 	<l id="266">À sa belle il aura su plaire,</l>
 	<l id="267">Car il paraît assez content.</l>
 	<l id="268">Seul j'éprouve un cruel tourment.</l>
-<stage>AIR. La bonne aventure.</stage>
+<stage type="music">Air : La bonne aventure.</stage>
 	<l id="269">La Sybille vient ici,</l>
 	<l id="270">Ah ! Je me rassure ;</l>
 	<l id="271">Pour mettre fin au souci</l>
@@ -481,7 +481,7 @@
 </div2>
 <div2 type="scene" n='8'><head>SCÈNE VIII. La Sybille, Francoeur, et suite.</head>
 <sp who="LA SYBILLE"><speaker>LA SYBILLE.</speaker>
-<stage>ARIETTE.</stage>
+<stage type="[N/A]">ARIETTE.</stage>
 <poem type="chanson">
 <lg id="1">
 	<l id="278">Fraîche jeunesse</l>
@@ -512,7 +512,7 @@
 	<l id="299">Faut près de son feu rester coi.</l>
 </lg>
 </poem>
-<stage>AIR. Nous jouissons dans nos hameaux.</stage>
+<stage type="music">Air : Nous jouissons dans nos hameaux.</stage>
 	<l id="300">De tant bonne volonté</l>
 	<l id="301">Profitez je vous prie ;</l>
 	<l id="302">Parfois d'Amour on est tenté ;</l>
@@ -522,8 +522,8 @@
 	<l id="306">À mon âge on peut au savoir</l>
 	<l id="307">Joindre l'expérience.</l>
 </sp>
-<sp who="LE CHUR"><speaker>LE CHUR.</speaker>
-<stage>AIR Noté n°4.</stage>
+<sp who="LE CHOEUR"><speaker>LE CHOEUR.</speaker>
+<stage type="music">Air Noté n°4.</stage>
 	<l id="308">Ah !</l>
 	<l id="309">La bonne</l>
 	<l id="310">Personne,</l>
@@ -538,7 +538,7 @@
 	<l id="316">Décidez avec un souris</l>
 	<l id="317">D'un ruban à la mode.</l>
 </sp>
-<sp who="LE CHUR"><speaker>LE CHUR.</speaker>
+<sp who="LE CHOEUR"><speaker>LE CHOEUR.</speaker>
 	<l id="318">Ah !</l>
 	<l id="319">La bonne</l>
 	<l id="320">Personne,</l>
@@ -552,7 +552,7 @@
 	<l id="326">Qu'à donner la fraîcheur au teint,</l>
 	<l id="327">À rendre la peau fine.</l>
 </sp>
-<sp who="LE CHUR"><speaker>LE CHUR.</speaker>
+<sp who="LE CHOEUR"><speaker>LE CHOEUR.</speaker>
 	<l id="328">Ah !</l>
 	<l id="329">La bonne</l>
 	<l id="330">Personne,</l>
@@ -567,7 +567,7 @@
 	<l id="336">Bijoux, maisons, chevaux fringants.</l>
 	<l id="337">Et galant équipage.</l>
 </sp>
-<sp who="LE CHUR"><speaker>LE CHUR.</speaker>
+<sp who="LE CHOEUR"><speaker>LE CHOEUR.</speaker>
 	<l id="338">Ah !</l>
 	<l id="339">La bonne</l>
 	<l id="340">Personne,</l>
@@ -581,7 +581,7 @@
 	<l id="346">Et tenez vous près de Lison.  </l>
 	<l id="347">Droit comme une poupée.</l>
 </sp>
-<sp who="LE CHUR"><speaker>LE CHUR.</speaker>
+<sp who="LE CHOEUR"><speaker>LE CHOEUR.</speaker>
 	<l id="348">Ah !</l>
 	<l id="349">La bonne</l>
 	<l id="350">Personne,</l>
@@ -589,8 +589,8 @@
 </sp>
 </div2>
 <div2 type="scene" n='01'><head>SCÈNE IX. La Sybille, Francoeur.</head>
-<sp who="FRANCUR"><speaker>FRANCUR.</speaker>
-<stage>AIR. La si, la son, la sombredondaine.</stage>
+<sp who="FRANCOEUR"><speaker>FRANCOEUR.</speaker>
+<stage type="music">Air : La si, la son, la sombredondaine.</stage>
 	<l id="352">Ah ! Soulagez ma peine</l>
 	<l id="353">La si, la son, la sombredondaine,</l>
 	<l id="354">Je la supporte à peine,</l>
@@ -600,7 +600,7 @@
 <sp who="LA SYBILLE"><speaker>LA SYBILLE.</speaker>
 	<l id="357">Conte moi ton tourment.</l>
 </sp>
-<sp who="FRANCUR"><speaker>FRANCUR.</speaker>
+<sp who="FRANCOEUR"><speaker>FRANCOEUR.</speaker>
 <note type="L">Tendron : La partie fort tendre de quelque chose. Se dit figurément et burlesquement, de filles au dessous de vingt ans. [F]</note>
 	<l id="358">J'aime un tendron charmant,</l>
 	<l id="359">Mais ma recherche est vaine;</l>
@@ -610,10 +610,10 @@
 	<l id="363">Patati, patata, etc.</l>
 </sp>
 <sp who="LA SYBILLE"><speaker>LA SYBILLE.</speaker>
-<stage>AIR. Ah ! Nicolas sois moi fidèle.</stage>
+<stage type="music">Air : Ah ! Nicolas sois moi fidèle.</stage>
 	<l id="364">Ta Maîtresse est elle innocente ?</l>
 </sp>
-<sp who="FRANCUR"><speaker>FRANCUR.</speaker>
+<sp who="FRANCOEUR"><speaker>FRANCOEUR.</speaker>
 	<l id="365">Vous qui, dit-on en savez tant,</l>
 	<l id="366">Croyez-vous aussi qu'à présent,</l>
 	<l id="367">Il est encore quelque ignorante ?</l>
@@ -621,12 +621,12 @@
 <sp who="LA SYBILLE"><speaker>LA SYBILLE.</speaker>
 	<l id="368" part='i'>Pas beaucoup,</l>
 </sp>
-<sp who="FRANCUR"><speaker>FRANCUR.</speaker>
+<sp who="FRANCOEUR"><speaker>FRANCOEUR.</speaker>
 	<l id="368" part='f'>Surtout, dites donc,</l>
 	<l id="369">Dans un pays de garnison.</l>
 </sp>
 <sp who="LA SYBILLE"><speaker>LA SYBILLE.</speaker>
-<stage>AIR. À présent je ne dois plus feindre.</stage>
+<stage type="music">Air : À présent je ne dois plus feindre.</stage>
 <note type="L">Agnès : personnage de l'Ecole des Femmes de Molière.</note>
 	<l id="370">Des Agnès de cette contrée</l>
 	<l id="371">L'innocence est fort éclairée;</l>
@@ -636,84 +636,84 @@
 <note type="L">Petit collet : (...) on appelle petit collet un homme qui s'est mis dans la réforme, dans la dévotion, parce que les gens d'église porte une petit collet. [F]</note>
 	<l id="374">Sans compter les petits collets</l>
 	<l id="375">Qui les prennent à la lisière.</l>
-<stage>AIR. Eh bien c'est une affaire faite.</stage>
+<stage type="music">Air : Eh bien c'est une affaire faite.</stage>
 	<l id="376">Mon cher, si je puis t'être utile,  </l>
 	<l id="377">Parle, je m'offre à te servir,</l>
 </sp>
-<sp who="FRANCUR"><speaker>FRANCUR.</speaker>
+<sp who="FRANCOEUR"><speaker>FRANCOEUR.</speaker>
 	<l id="378">Vous aimez à faire plaisir,</l>
 	<l id="379">Vous êtes bonne autant qu'habile.</l>
-	<l id="380">Ah l'excellent cur que voilà!</l>
+	<l id="380">Ah l'excellent coeur que voilà!</l>
 	<l id="381">Je vais vous raconter cela.</l>
-<stage>AIR. Dans les Gardes Françaises.</stage>
+<stage type="music">Air : Dans les Gardes Françaises.</stage>
 	<l id="382">Lorsque dans ce Village</l>
 	<l id="383">Je vins en garnison,</l>
 	<l id="384">J'allai selon l'usage,</l>
 	<l id="385">Reluquer un tendron....</l>
-<stage>AIR. Palsangué M. le Curé.</stage>
-	<l id="386">Dès que je vis son il fripon</l>
-	<l id="387">Mon cur ne fut plus rebelle,</l>
+<stage type="music">Air : Palsangué M. le Curé.</stage>
+	<l id="386">Dès que je vis son oeil fripon</l>
+	<l id="387">Mon coeur ne fut plus rebelle,</l>
 	<l id="388">Surtout morbleu, son joli pied mignon</l>
 	<l id="389">Me fit tourner la cervelle.</l>
-<stage>AIR. Ton humeur est Catherine.</stage>
+<stage type="music">Air : Ton humeur est Catherine.</stage>
 	<l id="390">Je débute en galant homme,</l>
 	<l id="391">J'assomme tous mes rivaux.</l>
 <note type="L">Rogome : Terme populaire. Eau-de-vie ou autre liqueur forte.</note>
 	<l id="392">Je paye et vin et rogomme</l>
 <note type="C">On lit cadaux et non cadeaux, ce dernier est retenu.</note>
 	<l id="393">Et puis les petits cadeaux......</l>
-<stage>AIR. Pour héritage.</stage>
+<stage type="music">Air : Pour héritage.</stage>
 	<l id="394">En fille honnête  </l>
 	<l id="395">Elle prie tout au mieux</l>
 	<l id="396">À chaque fête</l>
 	<l id="397">Montrait un air joyeux......</l>
-<stage>AIR. Là bas dessous ces verts pommiers.</stage>
+<stage type="music">Air : Là bas dessous ces verts pommiers.</stage>
 	<l id="398">Plus d'une fois sur le vert pré,</l>
 	<l id="399">Farlarira dondé,</l>
 	<l id="400">Ensemble nous avons.... sauté, dansé....</l>
-<stage>AIR. Joués violons.</stage>
+<stage type="music">Air : Joués violons.</stage>
 <note type="L">Péronnelle : Terme de dénigrement. Jeune femme sotte et babillarde. [L]</note>
 	<l id="401">Mais aujourd'hui la péronnelle,</l>
 	<l id="402">Fait avec moi la Demoiselle.</l>
-	<l id="403">Quand je lui dis bonjour mon cur....</l>
-<stage>AIR. M. le Prévôt des marchands.</stage>
-	<l id="404">Elle répond, Monsieur Francur,</l>
+	<l id="403">Quand je lui dis bonjour mon coeur....</l>
+<stage type="music">Air : M. le Prévôt des marchands.</stage>
+	<l id="404">Elle répond, Monsieur Francoeur,</l>
 	<l id="405">Finissez donc j'ons de l'honneur.....</l>
-<stage>AIR. Habitants des galères.</stage>
+<stage type="music">Air : Habitants des galères.</stage>
 	<l id="406">Tredame</l>
 	<l id="407">De moi se rit-on,</l>
 	<l id="408">Ma flamme,</l>
 	<l id="409">N'entend pas raison.</l>
-<stage>AIR. Vas toujours Tambour battant.</stage>
+<stage type="music">Air : Vas toujours Tambour battant.</stage>
 <note type="L">Dragon : En terme de guerre est une sorte de cavalier sans bottes, qui marche à cheval, et qui combat à pied. On a beaucoup multiplié en France le corps des Dragons. [F]</note>
 	<l id="410">Un Dragon doit en amourette</l>
 	<l id="411">Faire toujours un feu roulant.</l>
 	<l id="412">Ne battre jamais la retraite</l>
-	<l id="413">Quoiqu'un cur fasse le méchant. </l>
+	<l id="413">Quoiqu'un coeur fasse le méchant. </l>
 	<l id="414">Le menacer de l'escalade,</l>
 	<l id="415">Présenter l'échelle aussitôt,</l>
 	<l id="416">Et s'il ne bat la chamade,</l>
 	<l id="417">Morbleu le prendre d'assaut.</l>
 </sp>
 <sp who="LA SYBILLE"><speaker>LA SYBILLE.</speaker>
-<stage>AIR. Bacchus disait pour m'exciter à boire.</stage>
+<stage type="music">Air : Bacchus disait pour m'exciter à boire.</stage>
 	<l id="418">N'aurais-tu pas parlé de mariage ?</l>
 </sp>
-<sp who="FRANCUR"><speaker>FRANCUR.</speaker>
+<sp who="FRANCOEUR"><speaker>FRANCOEUR.</speaker>
 	<l id="419" part='i'>Cela se peut.</l>
 </sp>
 <sp who="LA SYBILLE"><speaker>LA SYBILLE.</speaker>
 	<l id="419" part='f'>En ce cas je te plains.</l>
 </sp>
-<sp who="FRANCUR"><speaker>FRANCUR.</speaker>
+<sp who="FRANCOEUR"><speaker>FRANCOEUR.</speaker>
 	<l id="420">Quoi vous croyez que sur pareil langage</l>
 	<l id="421" part='i'>Fillette compte ?</l>
 </sp>
 <sp who="LA SYBILLE"><speaker>LA SYBILLE.</speaker>
 	<l id="421" part='f'>Oui vraiment je le crains.</l>
 </sp>
-<sp who="FRANCUR"><speaker>FRANCUR.</speaker>
-<stage>Air. Ma Voisine a fait un faux pas.</stage>
+<sp who="FRANCOEUR"><speaker>FRANCOEUR.</speaker>
+<stage type="music">Air : Ma Voisine a fait un faux pas.</stage>
 	<l id="422">Palsambleu l'amour d'un Dragon</l>
 	<l id="423">Dure autant que la garnison,</l>
 	<l id="424">Adieu quand le printemps commence,</l>
@@ -723,7 +723,7 @@
 	<l id="427">C'est agir contre l'ordonnance.</l>
 </sp>
 <sp who="LA SYBILLE"><speaker>LA SYBILLE.</speaker>
-<stage>AIR. Chacun à son tour.</stage>
+<stage type="music">Air : Chacun à son tour.</stage>
 	<l id="428">Près d'une belle un militaire</l>
 	<l id="429">Donne tous ses soins à charmer ;</l>
 	<l id="430">Si d'abord on est peu sévère</l>
@@ -734,23 +734,23 @@
 	<l id="435">Liron, lirette,</l>
 	<l id="436">Chacun à son tour.</l>
 </sp>
-<sp who="FRANCUR"><speaker>FRANCUR.</speaker>
-<stage>AIR. Sa ne vous va brin.</stage>
+<sp who="FRANCOEUR"><speaker>FRANCOEUR.</speaker>
+<stage type="music">Air : Sa ne vous va brin.</stage>
 	<l id="437">S'il faut brusquer le mariage</l>
 	<l id="438">Palsambleu je ferai le faut.</l>
 	<l id="439">Je ne dois pas craindre un outrage ;</l>
-	<l id="440">J'ai le bras bon et le cur haut.</l>
+	<l id="440">J'ai le bras bon et le coeur haut.</l>
 	<l id="441">Soldat qui fait bien son service</l>
 	<l id="442">N'a jamais peur qu'on le punisse,</l>
 	<l id="443">Ah ! l'Hymen n'a rien d'effrayant,</l>
 	<l id="444">Pour un bon vivant,</l>
 	<l id="445">Un bon vivant.</l>
-<stage>Il sort.</stage>
+<stage type="exit">Il sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='10'><head>SCÈNE X.</head>
 <sp who="LA SYBILLE"><speaker>LA SYBILLE.</speaker>
-<stage>AIR. C'est un enfant.</stage>
+<stage type="music">Air : C'est un enfant.</stage>
 	<l id="446">CEuillons les roses de la vie,</l>
 	<l id="447">Jouons sans cesse avec l'Amour ;</l>
 	<l id="448">À ce volage ôtons l'envie,</l>
@@ -759,7 +759,7 @@
 	<l id="451">Il ne reste guerre</l>
 	<l id="452">Quand il n'a plus d'amusement.</l>
 	<l id="453">C'est un enfant. (bis.)</l>
-<stage>ARIETTE.</stage>
+<stage type="[N/A]">ARIETTE.</stage>
 	<l id="454">Si jamais sur mon passage</l>
 	<l id="455">Je fais rencontre d'amour,</l>
 	<l id="456">Ah ! Sais fort bien par quel tour ;</l>
@@ -776,7 +776,7 @@
 </div2>
 <div2 type="scene" n='11'><head>SCÈNE XI. Azor, La Sybille.</head>
 <sp who='AZOR'><speaker>AZOR.</speaker>
-<stage>AIR. Réveillez-vous belle endormie.</stage>
+<stage type="music">Air : Réveillez-vous belle endormie.</stage>
 <note type="C">Il n'y a pas d'indication de locuteur pour la première réplique de la scène.</note>
 	<l id="466">Madame excusez mon audace,</l>
 	<l id="467">Mais je voudrais vous consulter.</l>
@@ -786,7 +786,7 @@
 	<l id="469">Et m'offenser que d'en douter.</l>
 </sp>
 <sp who="AZOR"><speaker>AZOR.</speaker>
-<stage>AIR. Je ne sais pas écrire.</stage>
+<stage type="music">Air : Je ne sais pas écrire.</stage>
 	<l id="470">En ces lieux j'aime une Beauté;</l>
 	<l id="471">Pour lui plaire j'ai tout tenté,</l>
 	<l id="472">Mais elle en est plus fière.</l>
@@ -799,7 +799,7 @@
 	<l id="475">Que voilà la première.</l>
 </sp>
 <sp who="LA SYBILLE"><speaker>LA SYBILLE.</speaker>
-<stage>ARIETTE.</stage>
+<stage type="[N/A]">ARIETTE.</stage>
 	<l id="476">Aimer sa mie,</l>
 	<l id="477">Fêter sa fantaisie,</l>
 	<l id="478">C'est dans la vie</l>
@@ -811,7 +811,7 @@
 	<l id="484">Aimer sa mie, etc.</l>
 </sp>
 <sp who="AZOR"><speaker>AZOR.</speaker>
-<stage>AIR. Ne v'la - t'il pas que j'aime.</stage>
+<stage type="music">Air : Ne v'la - t'il pas que j'aime.</stage>
 	<l id="485">Euphrosine a su me charmer,</l>
 	<l id="486">Mais que dois-je en attendre ?</l>
 	<l id="487">Elle ignore qu'il faut aimer,</l>
@@ -836,7 +836,7 @@
 <sp who="LA SYBILLE"><speaker>LA SYBILLE.</speaker>
 <note type="L">Nani : Variante de nenni, expression de la négation ou de la désapprobation.</note>
 	<l id="496">Oh, que nani.</l>
-<stage>AIR. Mais, mais, fort singulier.</stage>
+<stage type="music">Air : Mais, mais, fort singulier.</stage>
 	<l id="497">Il faut que je cache ma flamme,</l>
 </sp>
 <sp who="LA SYBILLE"><speaker>LA SYBILLE.</speaker>
@@ -854,7 +854,7 @@
 	<l id="507">Mais, mais fort singulier.</l>
 </sp>
 <sp who="LA SYBILLE"><speaker>LA SYBILLE.</speaker>
-<stage>ARIETTE.</stage>
+<stage type="[N/A]">ARIETTE.</stage>
 <note type="L">Cythère : C'était autrefois le nom d'une île du Péloponèse, vis-à-vis de Crète. On la nomme aujourd'hui Cérigo, Sophiano. Hésiode dit que Vénus ayant été produite de l'écume de la mer fut portée d'abord à cette île sur une conque marine. [T]</note>
 	<l id="508">Dans les beaux Jardins de Cythère</l>
 	<l id="509">Tant et tant de fleurs on peut voir,</l>
@@ -866,7 +866,7 @@
 	<l id="515">Moins par raison que par timidité.</l>
 </sp>
 <sp who="AZOR"><speaker>AZOR.</speaker>
-<stage>AIR Du Confiteor.</stage>
+<stage type="music">Air Du Confiteor.</stage>
 	<l id="516">Trop de réserve nuit souvent,</l>
 	<l id="517">L'expérience le fait croire.</l>
 	<l id="518">Un guerrier et timide et lent;</l>
@@ -875,7 +875,7 @@
 	<l id="521">Dès qu'il paraît il est vainqueur.</l>
 </sp>
 <sp who="LA SYBILLE"><speaker>LA SYBILLE.</speaker>
-<stage>AIR. C'est fait Minon Minette.</stage>
+<stage type="music">Air : C'est fait Minon Minette.</stage>
 <note type="L">Maintes : Adjectif collectif qui signifie plusieurs. [L]</note>
 	<l id="522">Maintes fois avec l'innocence</l>
 	<l id="523">Amour du jeu court le hasard,</l>
@@ -902,7 +902,7 @@
 	<l id="543">Quand tu voudras.</l>
 </sp>
 <sp who="AZOR"><speaker>AZOR.</speaker>
-<stage>ARIETTE.</stage>
+<stage type="[N/A]">ARIETTE.</stage>
 	<l id="544">Je tairai les feux que je sens,</l>
 	<l id="545">Je vais me forcer au silence.</l>
 	<l id="546">Azor vous doit l'obéissance;</l>
@@ -910,12 +910,12 @@
 	<l id="548">Mais mes yeux parleront peut-être,</l>
 	<l id="549">Comment réprimer leur ardeur ?</l>
 	<l id="550">De ses regards est-on le maître,</l>
-	<l id="551">Quand on ne l'est plus de son cur.</l>
+	<l id="551">Quand on ne l'est plus de son coeur.</l>
 </sp>
 </div2>
 <div2 type="scene" n='12'><head>SCÈNE XII. La Sybille, Euphrosine, Azor.</head>
 <sp who="EUPHROSINE"><speaker>EUPHROSINE.</speaker>
-<stage>AIR. Voici les Dragons qui viennent.</stage>
+<stage type="music">Air : Voici les Dragons qui viennent.</stage>
 	<l id="552">Prenons la fuite</l>
 	<l id="553">Bien vite,</l>
 	<l id="554">L'Amour est ici :</l>
@@ -924,7 +924,7 @@
 	<l id="557">Et nous aussi.</l>
 </sp>
 <sp who="LA SYBILLE"><speaker>LA SYBILLE.</speaker>
-<stage>AIR. Ingrat Berger qu'est devenu.</stage>
+<stage type="music">Air : Ingrat Berger qu'est devenu.</stage>
 	<l id="558">Je sais que l'Amour est ici.</l>
 </sp>
 <sp who="EUPHROSINE"><speaker>EUPHROSINE.</speaker>
@@ -935,7 +935,7 @@
 	<l id="561">Je saurai vous défendre :</l>
 	<l id="562">Fuir d'amour le charmant plaisir,</l>
 	<l id="563">Dans sa jeunesse c'est vieillir,</l>
-<stage>ARIETTE.</stage>
+<stage type="[N/A]">ARIETTE.</stage>
 	<l id="564">J'avais pris dans un bocage</l>
 	<l id="565">Oiselet charmant,</l>
 	<l id="566">Je l'avais mis dans la cage ;</l>
@@ -949,11 +949,11 @@
 	<l id="574">Sans amourette</l>
 	<l id="575">Languit comme mon oiselet :</l>
 <note type="L">Guilleret : Qui a une pointe de gaité. [L]</note>
-	<l id="576">Amant rend le cur guilleret.</l>
+	<l id="576">Amant rend le coeur guilleret.</l>
 </sp>
 <sp who="EUPHROSINE"><speaker>EUPHROSINE.</speaker>
-<stage>AIR. Je vis deux oiseaux amoureux.</stage>
-	<l id="577">Mon cur a fait choix d'un amant,</l>
+<stage type="music">Air : Je vis deux oiseaux amoureux.</stage>
+	<l id="577">Mon coeur a fait choix d'un amant,</l>
 	<l id="578">Dont l'ardeur est extrême;</l>
 	<l id="579">Mais il a trop d'empressement</l>
 	<l id="580">Pour savoir si je l'aime.</l>
@@ -967,7 +967,7 @@
 	<l id="584">Et je voudrais le taire.</l>
 </sp>
 <sp who="LA SYBILLE"><speaker>LA SYBILLE.</speaker>
-<stage>AIR. Du haut en bas.</stage>
+<stage type="music">Air : Du haut en bas.</stage>
 	<l id="585">Sans hésiter</l>
 	<l id="586">Laissez-le lire dans votre âme,</l>
 	<l id="587">Sans hésiter</l>
@@ -979,7 +979,7 @@
 	<l id="591">Vous consulter.</l>
 </sp>
 <sp who="LA SYBILLE"><speaker>LA SYBILLE.</speaker>
-<stage>AIR. Tout est dit.</stage>
+<stage type="music">Air : Tout est dit.</stage>
 	<l id="592">Mais si votre amant le devine</l>
 	<l id="593">Serez vous d'accord ?</l>
 </sp>
@@ -1004,7 +1004,7 @@
 	<l id="599" part='f'>La voilà.</l>
 </sp>
 <sp who="AZOR"><speaker>AZOR.</speaker>
-<stage>AIR. L'occasion fait le larron.</stage>
+<stage type="music">Air : L'occasion fait le larron.</stage>
 	<l id="600">Belle Euphrosine hélas votre colère,</l>
 	<l id="601">M'a trop puni de ma témérité.</l>
 	<l id="602">Pardonnez moi si j'ai pu vous déplaire</l>
@@ -1012,8 +1012,8 @@
 </sp>
 </div2>
 <div2 type="scene" n='13'><head>SCÈNE XIII. La Sybille, Azor, Euphrosine.</head>
-<sp who='FRANCUR'><speaker>FRANCUR, tenant une vendangeuse par la main.</speaker>
-<stage>AIR. À la Dragone.</stage>
+<sp who='FRANCOEUR'><speaker>FRANCOEUR, tenant une vendangeuse par la main.</speaker>
+<stage type="music">Air : À la Dragone.</stage>
 	<l id="604">Tiens touche là soyons époux,</l>
 	<l id="605">Qu'avec moi ton sort sera doux,</l>
 	<l id="606">Ma petite friponne.  </l>
@@ -1024,13 +1024,13 @@
 	<l id="610">À la Dragone.</l>
 </sp>
 <sp who="LA SYBILLE"><speaker>LA SYBILLE.</speaker>
-<stage>AIR. Quel plaisir de s'aimer bien.</stage>
+<stage type="music">Air : Quel plaisir de s'aimer bien.</stage>
 	<l id="611">Puisque l'amour est dans ces lieux</l>
 	<l id="612">Voulez-vous toujours être heureux,</l>
 	<l id="613">Avoir bonheur suprême.</l>
 	<l id="614">Engagez le vainqueur des Dieux,</l>
 	<l id="615">À vous unir lui-même.</l>
-<stage>L'Amour paraît poursuivant les vendangeurs.</stage>
+<stage type="[N/A]">L'Amour paraît poursuivant les vendangeurs.</stage>
 </sp>
 <sp who="LA SYBILLE"><speaker>LA SYBILLE.</speaker>
 	<l id="616">Mais quel bruit font nos vendangeurs.</l>
@@ -1045,10 +1045,10 @@
 	<l id="620">Le désir doit nous rendre heureuses,</l>
 	<l id="621">Suivez-moi toutes, approchons.</l>
 	<l id="622">Nous l'attraperons. (bis.)  </l>
-<stage>Azor et Euphrosine vont pour attraper l'Amour, ils passent par dessous un Berceau, et sont pris dans un filet, Francur et sa Vendangeuse dans un autre. L'Amour vient au milieu, se moque d'eux; la Sybille approche tout doucement par derrière, lui jette une Guirlande et l'enchaîne; dès qu'il est pris tous les filets je rompent, et l'Amour unit tous les amants.</stage>
+<stage type="[N/A]">Azor et Euphrosine vont pour attraper l'Amour, ils passent par dessous un Berceau, et sont pris dans un filet, Francoeur et sa Vendangeuse dans un autre. L'Amour vient au milieu, se moque d'eux; la Sybille approche tout doucement par derrière, lui jette une Guirlande et l'enchaîne; dès qu'il est pris tous les filets je rompent, et l'Amour unit tous les amants.</stage>
 </sp>
 <sp who="LA SYBILLE"><speaker>LA SYBILLE.</speaker>
-<stage>AIR. Oh, oh, oh, ah, ah, ah !</stage>
+<stage type="music">Air : Oh, oh, oh, ah, ah, ah !</stage>
 	<l id="623">Aimez-vous bien, mes chers enfants,</l>
 	<l id="624">Vous ne sauriez mieux faire.</l>
 	<l id="625">Lorsque l'on est dans son printemps</l>
@@ -1059,7 +1059,7 @@
 	<l id="630">Rien ne plaît autant que cela</l>
 	<l id="631">La, la.</l>
 </sp>
-<sp who="LE CHUR"><speaker>LE CHUR.</speaker>
+<sp who="LE CHOEUR"><speaker>LE CHOEUR.</speaker>
 	<l id="632">Oh, oh, oh, ah, ah, ah!</l>
 	<l id="633">La bonne Dame que voilà.</l>
 	<l id="634">La, la.</l>

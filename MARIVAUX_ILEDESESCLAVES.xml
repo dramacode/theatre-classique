@@ -52,7 +52,7 @@
 <body>
 <div1 type="act" n='1'><head></head>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Iphicrate s'avance tristement sur le théâtre avec Arlequin.</head>
-<stage>Le théâtre représente une mer et des rochers d'un côté, et de l'autre quelques arbres et des maisons. </stage>
+<stage type="decor">Le théâtre représente une mer et des rochers d'un côté, et de l'autre quelques arbres et des maisons. </stage>
 <sp who='IPHICRATE'><speaker>IPHICRATE, après avoir soupiré.</speaker>
 <p id='1'>
 	<s id='1'>Arlequin !</s>
@@ -177,7 +177,7 @@
 <p id='23'>
 	<s id='1'>Le coquin abuse de ma situation ; j'ai mal fait de lui dire où nous sommes. </s>
 </p>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 <p id='24'>
 	<s id='1'>Arlequin, ta gaieté ne vient pas à propos ; marchons de ce côté.</s>
 </p>
@@ -206,7 +206,7 @@
 <p id='29'>
 	<s id='1'>Badin, comme vous tournez cela ! </s>
 </p>
-<stage>Il chante : </stage>
+<stage type="sing">Il chante : </stage>
 	<l id='1'>L'embarquement est divin </l>
 	<l id='2'>Quand on vogue, vogue, vogue, </l>
 	<l id='3'>L'embarquement est divin, </l>
@@ -273,7 +273,7 @@
 	<s id='6'>Tout en irait mieux dans le monde, si ceux qui te ressemblent recevaient la même leçon que toi. </s>
 	<s id='7'>Adieu, mon ami ; je vais trouver mes camarades et tes maîtres.</s>
 </p>
-<stage>Il s'éloigne.</stage>
+<stage type="[N/A]">Il s'éloigne.</stage>
 </sp>
 <sp who='IPHICRATE'><speaker>IPHICRATE, au désespoir, courant après lui l'épée à la main.</speaker>
 <p id='40'>
@@ -290,7 +290,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II.</head>
-<stage>Trivelin, avec cinq ou six insulaires, arrive conduisant une Dame et la suivante, et ils accourent à Iphicrate qu'ils voient l'épée à la main. </stage>
+<stage type="[N/A]">Trivelin, avec cinq ou six insulaires, arrive conduisant une Dame et la suivante, et ils accourent à Iphicrate qu'ils voient l'épée à la main. </stage>
 <sp who='TRIVELIN'><speaker>TRIVELIN, faisant saisir et désarmer Iphicrate par ses gens.</speaker>
 <p id='1'>
 	<s id='1'>Arrêtez, que voulez-vous faire ? </s>
@@ -306,7 +306,7 @@
 	<s id='1'>Votre esclave ? </s>
 	<s id='2'>Vous vous trompez, et l'on vous apprendra à corriger vos termes.</s>
 </p>
-<stage>Il prend l'épée d'Iphicrate et la donne à Arlequin.</stage>
+<stage type="[N/A]">Il prend l'épée d'Iphicrate et la donne à Arlequin.</stage>
 <p id='4'>
 	<s id='1'>Prenez cette épée, mon camarade, elle est à vous. </s>
 </p>
@@ -396,7 +396,7 @@
 <p id='20'>
 	<s id='1'>Dans ce moment-ci, il peut vous dire tout ce qu'il voudra.</s>
 </p>
-<stage>À Iphicrate.</stage>
+<stage type="toward">À Iphicrate.</stage>
 <p id='21'>
 	<s id='1'>Arlequin, votre aventure vous afflige, et vous êtes outré contre Iphicrate et contre nous. </s>
 	<s id='2'>Ne vous gênez point, soulagez-vous par l'emportement le plus vif ; traitez-le de misérable, et nous aussi ; tout vous est permis à présent ; mais ce moment-ci passé, n'oubliez pas que vous êtes Arlequin, que voici Iphicrate, et que vous êtes auprès de lui ce qu'il était auprès de vous : ce sont là nos lois, et ma charge dans la république est de les faire observer en ce canton-ci. </s>
@@ -502,20 +502,20 @@
 <p id='39'>
 	<s id='1'>Quant à vous, mes enfants, qui devenez libres et citoyens, Iphicrate habitera cette case avec le nouvel Arlequin, et cette belle fille demeurera dans l'autre ; vous aurez soin de changer d'habit ensemble, c'est l'ordre.</s>
 </p>
-<stage>À Arlequin.</stage>
+<stage type="toward">À Arlequin.</stage>
 <p id='40'>
 	<s id='1'>Passez maintenant dans une maison qui est à côté, où l'on vous donnera à manger si vous en avez besoin. Je vous apprends, au reste, que vous avez huit jours à vous réjouir du changement de votre état ; après quoi l'on vous donnera, comme à tout le monde, une occupation convenable. </s>
 	<s id='2'>Allez, je vous attends ici. </s>
 </p>
-<stage>Aux insulaires.</stage>
+<stage type="toward">Aux insulaires.</stage>
 <p id='41'>
 	<s id='1'>Qu'on les conduise. </s>
 </p>
-<stage>Aux femmes.</stage>
+<stage type="toward">Aux femmes.</stage>
 <p id='42'>
 	<s id='1'>Et vous autres, restez.</s>
 </p>
-<stage>Arlequin, en s'en allant, fait de grandes révérences à Cléanthis.</stage>
+<stage type="action/exit">Arlequin, en s'en allant, fait de grandes révérences à Cléanthis.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Trivelin, Cléanthis ; esclave, Euphrosine, sa maîtresse. </head>
@@ -588,7 +588,7 @@
 <p id='12'>
 	<s id='1'>Modérez-vous, Euphrosine.</s>
 </p>
-<stage>À Euphrosine.</stage>
+<stage type="toward">À Euphrosine.</stage>
  <p id='13'>
 	<s id='1'>Et vous, Cléanthis, ne vous abandonnez point à votre douleur. </s>
 	<s id='2'>Je ne puis changer nos lois, ni vous en affranchir : je vous ai montré combien elles étaient louables et salutaires pour vous. </s>
@@ -650,7 +650,7 @@
 <p id='23'>
 	<s id='1'>Il faut que ceci ait son cours ; mais consolez-vous, cela finira plus tôt que vous ne pensez.</s>
 </p>
-<stage>À Cléanthis.</stage>
+<stage type="toward">À Cléanthis.</stage>
 <p id='24'>
 	<s id='1'>J'espère, Euphrosine, que vous perdrez votre ressentiment, et je vous y exhorte en ami. </s>
 	<s id='2'>Venons maintenant à l'examen de son caractère : il est nécessaire que vous m'en donniez un portrait, qui se doit faire devant la personne qu'on peint, afin qu'elle se connaisse, qu'elle rougisse de ses ridicules, si elle en a, et qu'elle se corrige. </s>
@@ -1058,7 +1058,7 @@
 	<s id='1'>Oui, c'est un bon enfant ; j'en ferai quelque chose. </s>
 	<s id='2'>Il soupire parfois, et je lui ai défendu cela, sous peine de désobéissance, et je lui ordonne de la joie. </s>
 </p>
-<stage>Il prend son maître par la main et danse.</stage>
+<stage type="[N/A]">Il prend son maître par la main et danse.</stage>
 <p id='4'>
 	<s id='1'>Tala rara la la... </s>
 </p>
@@ -1128,7 +1128,7 @@
 <p id='15'>
 	<s id='1'>Ne vous épouvantez point de ce que je vais dire.</s>
 </p>
-<stage>À Arlequin.</stage>
+<stage type="toward">À Arlequin.</stage>
 <p id='16'>
 	<s id='1'>Instruisez-moi d'une chose. </s>
 	<s id='2'>Comment se gouvernait-il là-bas, avait-il quelque défaut d'humeur, de caractère ? </s>
@@ -1193,7 +1193,7 @@
 	<s id='3'>Étourdi par singerie, parce que les femmes les aiment comme cela, un dissipe-tout ; vilain quand il faut être libéral, libéral quand il faut être vilain ; bon emprunteur, mauvais payeur ; honteux d'être sage, glorieux d'être fou ; un petit brin moqueur des bonnes gens un petit brin hâbleur ; avec tout plein de maîtresses il ne connaît pas ; voilà mon homme. </s>
 	<s id='4'>Est-ce la peine d'en tirer le portrait ? </s>
 </p>
-<stage>À Iphicrate.</stage>
+<stage type="toward">À Iphicrate.</stage>
 <p id='28'>
 	<s id='1'>Non, je n'en ferai rien, mon ami, ne crains rien. </s>
 </p>
@@ -1202,7 +1202,7 @@
 <p id='29'>
 	<s id='1'>Cette ébauche me suffit.</s>
 </p>
-<stage>À Iphicrate.</stage>
+<stage type="toward">À Iphicrate.</stage>
 <p id='30'>
 	<s id='1'>Vous n'avez plus maintenant qu'à certifier pour véritable ce qu'il vient de dire. </s>
 </p>
@@ -1263,7 +1263,7 @@
 <p id='41'>
 	<s id='1'>Soit.</s>
 </p>
- <stage>Arlequin rit de toute sa force.</stage>
+ <stage type="[N/A]">Arlequin rit de toute sa force.</stage>
 </sp>
 <sp who='TRIVELIN'><speaker>TRIVELIN.</speaker>
 <p id='42'>
@@ -1326,7 +1326,7 @@
 <p id='10'>
 	<s id='1'>Votre volonté vaut une ordonnance.</s>
 </p>
-<stage>À Iphicrate.</stage>
+<stage type="toward">À Iphicrate.</stage>
 <p id='11'>
 	<s id='1'>Arlequin, vite des sièges pour moi, et des fauteuils pour Madame. </s>
 </p>
@@ -1365,7 +1365,7 @@
 <p id='17'>
 	<s id='1'>Qu'on se retire à dix pas. </s>
 </p>
-<stage>Iphicrate et Euphrosine s'éloignent en faisant des gestes d'étonnement et de douleur. Cléanthis regarde aller Iphicrate, et Arlequin, Euphrosine. </stage>
+<stage type="[N/A]">Iphicrate et Euphrosine s'éloignent en faisant des gestes d'étonnement et de douleur. Cléanthis regarde aller Iphicrate, et Arlequin, Euphrosine. </stage>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN, se promenant sur le théâtre avec Cléanthis.</speaker>
 <p id='18'>
@@ -1393,7 +1393,7 @@
 	<s id='1'>Eh palsambleu ! </s>
 	<s id='2'>Le moyen de n'être pas tendre, quand on se trouve tête à tête avec gros grâces ? </s>
 </p>
-<stage>À ce mot il saute de joie.</stage>
+<stage type="toward">À ce mot il saute de joie.</stage>
 <p id='23'>
 	<s id='1'>Oh ! oh ! oh ! oh ! </s>
 </p>
@@ -1413,7 +1413,7 @@
 <p id='26'>
 	<s id='1'>Rayez ces applaudissements, ils nous dérangent. </s>
 </p>
-<stage>Continuant. </stage>
+<stage type="[N/A]">Continuant. </stage>
 <p id='27'>
 	<s id='1'>Je savais bien que mes grâces entreraient pour quelque chose ici. </s>
 	<s id='2'>Monsieur, vous êtes galant, vous vous promenez avec moi, vous me dites des douceurs ; mais finissons, en voilà assez, je vous dispense des compliments. </s>
@@ -1564,7 +1564,7 @@
 <p id='51'>
 	<s id='1'>Laissez-moi faire.</s>
 </p>
-<stage>Elle appelle Euphrosine.</stage>
+<stage type="[N/A]">Elle appelle Euphrosine.</stage>
 <p id='52'>
 	<s id='1'>Cléanthis ! </s>
 </p>
@@ -1621,11 +1621,11 @@
 	<s id='1'>Où suis-je ! </s>
 	<s id='2'>Et quand cela finira-t-il ? </s>
 </p>
-<stage>Elle rêve.</stage>
+<stage type="[N/A]">Elle rêve.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='8'><head>SCÈNE VIII. Arlequin, Euphrosine.</head>
-<stage>Arlequin arrive en saluant Cléanthis qui sort. Il va tirer Euphrosine par la manche. </stage>
+<stage type="[N/A]">Arlequin arrive en saluant Cléanthis qui sort. Il va tirer Euphrosine par la manche. </stage>
 <sp who='EUPHROSINE'><speaker>EUPHROSINE.</speaker>
 <p id='1'>
 	<s id='1'>Que me voulez-vous ?</s>
@@ -1919,7 +1919,7 @@
 <p id='24'>
 	<s id='1'>Mon pauvre patron, qu'il y a de plaisir à bien faire ! </s>
 </p>
-<stage>Après quoi, il déshabille son maître.</stage>
+<stage type="[N/A]">Après quoi, il déshabille son maître.</stage>
 </sp>
 <sp who='IPHICRATE'><speaker>IPHICRATE.</speaker>
 <p id='25'>
@@ -1943,7 +1943,7 @@
 <p id='1'>
 	<s id='1'>Laissez-moi, je n'ai que faire de vous entendre gémir. </s>
 </p>
-<stage>Et plus près d'Arlequin.</stage>
+<stage type="[N/A]">Et plus près d'Arlequin.</stage>
 <p id='2'>
 	<s id='1'>Qu'est-ce que cela signifie, seigneur Iphicrate ? </s>
 	<s id='2'>Pourquoi avez-vous repris votre habit ? </s>
@@ -1953,7 +1953,7 @@
 <p id='3'>
 	<s id='1'>C'est qu'il est trop petit pour mon cher ami, et que le sien est trop grand pour moi. </s>
 </p>
-<stage>Il embrasse les genoux de son maître.</stage>
+<stage type="[N/A]">Il embrasse les genoux de son maître.</stage>
 </sp>
 <sp who='CLÉANTHIS'><speaker>CLÉANTHIS.</speaker>
 <p id='4'>

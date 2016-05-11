@@ -83,10 +83,9 @@
 <body>
 <div1 type="act" n='1'><head>ACTE I</head>
 <div2 type="scene" n='1'><head>SCÈNE I. Théandre, Rosilée.</head>
-<stage>Il est dans le temple la nuit à la veille dans armes dressées en trophée ; Cérémonie des chevaliers anciens.</stage>
+<stage type="decor">Il est dans le temple la nuit à la veille dans armes dressées en trophée ; Cérémonie des chevaliers anciens.</stage>
 <sp who='THÉANDRE'><speaker>THÉANDRE, seul.</speaker>
-<stage>Stances.</stage>
-<poem type="stances">
+<lg type="stances">
 	<lg>
 		<l id='1'>La porte du soleil est close,</l>
 		<l id='2'>Toute la nature repose,</l>
@@ -151,10 +150,10 @@
 	</lg>
 	<lg>
 		<l id='47'>Ce que j'y vois n'est plus l'aurore,</l>
-	<stage>Il entend sa maîtresse.</stage>
+	<stage type="hear">Il entend sa maîtresse.</stage>
 		<l id='48'>Puisque le soleil est levé.</l>
 	</lg>
-</poem>
+</lg>
 </sp>
 <sp who='ROSILEE'><speaker>ROSILÉE</speaker>
 	<l id='49'>De quoi s'entretenait la moitié de mon âme ?</l>
@@ -247,7 +246,7 @@
 </sp>
 <sp who='THÉANDRE'><speaker>THÉANDRE</speaker>
 	<l id='109'>Avant que te placer il faut que je t'adore,</l>
-<stage>Il parle de l'or.</stage>
+<stage type="explicit">Il parle de l'or.</stage>
 	<l id='110'>Bel enfant du soleil, assure mon aurore,</l>
 	<l id='111'>Qu'il faudrait plus de jours à me désenflammer,</l>
 	<l id='112'>Que la chaleur du ciel n'en mit à te former.</l>
@@ -260,7 +259,7 @@
 	<l id='119'>Aussitôt que la main je m'ouvrirais le flanc ;</l>
 	<l id='120'>Ici le trait d'amour en des lettres de sang,</l>
 	<l id='121'>Écrivant en mon nom vous fait cette promesse :</l>
-<stage>Il se pique le doigt.</stage>
+<stage type="action">Il se pique le doigt.</stage>
 	<l id='122'>Que je vous aimerai sans cesse ;</l>
 	<l id='123'>Que rien ne pourra m'arracher,</l>
 	<l id='124'>Le dard dont votre oeil fut l'archer ;</l>
@@ -387,7 +386,7 @@
 </sp>
 <sp who='ROSILEE'><speaker>ROSILÉE</speaker>
 	<l id='231'>Je déteste son crime, et je l'en veux punir ;</l>
-<stage>Elle déchire le portrait.</stage>
+<stage type="action">Elle déchire le portrait.</stage>
 	<l id='232'>Mais traitez-moi de même en votre souvenir.</l>
 </sp>
 <sp who='LUCIDAN'><speaker>LUCIDAN</speaker>
@@ -445,7 +444,7 @@
 	<l id='264'>Au lieu d'une, aujourd'hui vous adore deux fois :</l>
 	<l id='265'>Et méprisant l'orgueil qui me fait résistance,</l>
 	<l id='266'>J'aime en diverses parts, mais c'est sans inconstance.</l>
-<stage>Il tient les pièces du portrait.</stage>
+<stage type="action">Il tient les pièces du portrait.</stage>
 	<l id='267'>Belle bouche, beaux yeux, trouvez bon, endurez,</l>
 	<l id='268'>Que je sépare un coeur, vous voyant séparés ;</l>
 </sp>
@@ -459,7 +458,7 @@
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Théandre, Choeur de trompettes, Androphile, Lucidan, Rosilée, Glacitide, Ménocrite, Orchomène, Lucidame, Rosimar, Palinonde.</head>
 <sp who='THÉANDRE'><speaker>THÉANDRE seul.</speaker>
-<stage>Le temple s'ouvre.</stage>
+<stage type="decor">Le temple s'ouvre.</stage>
 	<l id='271'>Pensers, craintes, soupçons, mes plus fiers ennemis,</l>
 	<l id='272'>Qui me faites douter de ce qu'on m'a promis,</l>
 	<l id='273'>Et troublant le repos, que ma belle me donne,</l>
@@ -483,9 +482,9 @@
 	<l id='291'>Toute la cour paraît, je commence à le voir,</l>
 	<l id='292'>Ce quarreau préparé m'enseigne mon devoir.</l>
 </sp>
-<stage>Il se met à genoux.</stage>
+<stage type="action">Il se met à genoux.</stage>
 <sp who='ANDROPHILE'><speaker>ANDROPHILE</speaker>
-<stage>Serment de l'Ordre de Chevalerie.</stage>
+<stage type="title">Serment de l'Ordre de Chevalerie.</stage>
 	<l id='293'>L'espérance est le bien qui devance les autres ;</l>
 	<l id='294'>N'étant point de vertu qui ne paroisse aux vôtres ;</l>
 	<l id='295'>J'ose tenir certain que vous serez un jour,</l>
@@ -505,7 +504,7 @@
 	<l id='305'>Il suffit, Lucidan, pour faveur signalée,</l>
 	<l id='306'>Chaussez lui l'éperon, donnez-lui l'accolée :</l>
 </sp>
-<stage>Cérémonies antiques et mots essentiels.</stage>
+<stage type="explicit">Cérémonies antiques et mots essentiels.</stage>
 <sp who='THÉANDRE'><speaker>THÉANDRE</speaker>
 	<l id='307'>L'univers m'entendra ce bien fait publier :</l>
 </sp>
@@ -518,7 +517,7 @@
 <sp who='ANDROPHILE'><speaker>ANDROPHILE</speaker>
 	<l id='310'>Pour vous ceindre l'épée, élisez une dame.</l>
 </sp>
-<stage>Autre cérémonie.</stage>
+<stage type="explicit">Autre cérémonie.</stage>
 <sp who='THÉANDRE'><speaker>THÉANDRE</speaker>
 	<l id='311' part='i'>Amour en fait le choix.</l>
 </sp>
@@ -531,7 +530,7 @@
 	<l id='314'>Qu'il n'eut pu mieux échoir, s'il eut eu bonne vue.</l>
 	<l id='315'>Mais à quoi perdre temps à me faire écouter !</l>
 	<l id='316'>C'est à vous que je parle, aucun n'en peut douter :</l>
-<stage>Il se met à genoux devant Rosilée.</stage>
+<stage type="action">Il se met à genoux devant Rosilée.</stage>
 	<l id='317'>Que votre belle main souffre d'être occupée,</l>
 	<l id='318'>À me faire avoir d'elle, et l'honneur, et l'épée.</l>
 </sp>
@@ -539,7 +538,7 @@
 	<l id='319'>De la reine dépend ce que vous demandez :</l>
 </sp>
 <sp who='LUCIDAN'><speaker>LUCIDAN</speaker>
-<stage>Il parle bas.</stage>
+<stage type="mezzo voce">Il parle bas.</stage>
 	<l id='320'>Mais de moi dépendra ce que vous prétendez.</l>
 </sp>
 <sp who='GLACITIDE'><speaker>GLACITIDE</speaker>
@@ -547,13 +546,13 @@
 </sp>
 <sp who='ROSILEE'><speaker>ROSILÉE</speaker>
 	<l id='322'>Puisse pour vos exploits, la terre être petite,</l>
-<stage>Elle lui ceint l'épée.</stage>
+<stage type="action">Elle lui ceint l'épée.</stage>
 	<l id='323'>Puissiez vous succomber sous le faix des lauriers,</l>
 	<l id='324'>Et vous rendre fameux entre tous les guerriers :</l>
 </sp>
 <sp who='LUCIDAN'><speaker>LUCIDAN</speaker>
 	<l id='325'>Que ses voeux ont d'amour, et moi d'inquiétudes !</l>
-<stage>Il dit ce vers tout bas.</stage>
+<stage type="mezzo voce">Il dit ce vers tout bas.</stage>
 	<l id='326'>Tyrannique respect, que tes lois me sont rudes !</l>
 </sp>
 <sp who='THÉANDRE'><speaker>THÉANDRE</speaker>
@@ -565,7 +564,7 @@
 	<l id='330'>Vous offre ce renom sans partir de l'armée.</l>
 </sp>
 <sp who='LUCIDAN'><speaker>LUCIDAN</speaker>
-<stage>Il parle bas.</stage>
+<stage type="mezzo voce">Il parle bas.</stage>
 	<l id='331'>Serai-je retenu, le voyant retenir ?</l>
 </sp>
 <sp who='THÉANDRE'><speaker>THÉANDRE</speaker>
@@ -576,12 +575,12 @@
 	<l id='336'>Sur un char de triomphe, ou dedans un cercueil ;</l>
 </sp>
 <sp who='LUCIDAN'><speaker>LUCIDAN</speaker>
-<stage>Il dit ce vers bas.</stage>
+<stage type="mezzo voce">Il dit ce vers bas.</stage>
 	<l id='337'>Le dernier t'est certain, si ton feu continue.</l>
 </sp>
 <sp who='THÉANDRE'><speaker>THÉANDRE</speaker>
 	<l id='338'>Puis que ma passion vous est assez connue,</l>
-<stage>Il se tourne vers Rosilée.</stage>
+<stage type="action">Il se tourne vers Rosilée.</stage>
 	<l id='339'>Trouvez bon que je porte (en volant jusqu'aux cieux)</l>
 	<l id='340'>De votre chevalier le titre glorieux.</l>
 </sp>
@@ -593,7 +592,7 @@
 </sp>
 <sp who='THÉANDRE'><speaker>THÉANDRE</speaker>
 	<l id='345'>Madame, c'est de vous, que dépend mon envie ;</l>
-<stage>Il parle à la reine.</stage>
+<stage type="toward">Il parle à la Reine.</stage>
 	<l id='346'>C'est de vous que j'attends, ou la mort, ou la vie ;</l>
 	<l id='347'>Prononcez un arrêt, qui rende un amoureux,</l>
 	<l id='348'>Ou du tout misérable, ou tout à fait heureux.</l>
@@ -646,10 +645,10 @@
 </sp>
 <sp who='THÉANDRE'><speaker>THÉANDRE</speaker>
 	<l id='379'>En cet excès d'honneur je ne me puis régler.</l>
-<stage>Il baise la main du Prince.</stage>
+<stage type="action">Il baise la main du Prince.</stage>
 </sp>
 <sp who='LUCIDAN'><speaker>LUCIDAN</speaker>
-<stage>Il dit ceci tout bas.</stage>
+<stage type="mezzo voce">Il dit ceci tout bas.</stage>
 	<l id='380'>Il faut que je l'embrasse, au lieu de l'étrangler.</l>
 </sp>
 </div2>
@@ -1024,7 +1023,7 @@
 	<l id='663'>Ha ciel ! Il la vaincra, sa constance va choir ;</l>
 	<l id='664' part='i'>Il la faut soutenir, la bague.</l>
 </sp>
-<stage>Ils se montrent leurs gages.</stage>
+<stage type="action">Ils se montrent leurs gages.</stage>
 <sp who='ROSILEE'><speaker>ROSILÉE</speaker>
 	<l id='664' part='f'>Le mouchoir.</l>
 </sp>
@@ -1063,7 +1062,7 @@
 </div1>
 <div1 type="act" n='3'><head>ACTE III</head>
 <div2 type="scene" n='1'><head>SCÈNE I. Lucidan, Philidaspe, Lindorante.</head>
-<stage>Toute la cour est en deuil.</stage>
+<stage type="costume">Toute la cour est en deuil.</stage>
 <sp who='LUCIDAN'><speaker>LUCIDAN</speaker>
 	<l id='681'>Je règne Lindorante, et toujours dans la flamme,</l>
 	<l id='682'>Mon deuil n'est qu'en l'habit, j'ai l'allégresse en l'âme :</l>
@@ -1156,7 +1155,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Glaticide, Théandre.</head>
-<stage>La reine est dans un château.</stage>
+<stage type="decor">La reine est dans un château.</stage>
 <sp who='GLACITIDE'><speaker>GLACITIDE</speaker>
 	<l id='757'>Je ne puis m'éloigner, quoi que je le désire ;</l>
 	<l id='758'>Quelque chose en arrière incessamment me tire ;</l>
@@ -1210,7 +1209,7 @@
 <sp who='PHILIDASPE'><speaker>PHILIDASPE</speaker>
 	<l id='797'>L'âme dans le péril se doit montrer discrète ;</l>
 	<l id='798'>Je trouve qu'il est temps de sonner la retraite ;</l>
-<stage>Il se fait un grand bruit derrière le théâtre.</stage>
+<stage type="noise">Il se fait un grand bruit derrière le théâtre.</stage>
 	<l id='799'>Le nombre excusera ce peu de lâcheté.</l>
 </sp>
 <sp who='LUCIDAN'><speaker>LUCIDAN</speaker>
@@ -1323,7 +1322,7 @@
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII.</head>
 <sp who='LUCIDAN'><speaker>LUCIDAN, seul.</speaker>
-<stage>Il est sur le pont de son palais.</stage>
+<stage type="decor">Il est sur le pont de son palais.</stage>
 	<l id='877'>Cesse fâcheux amour, cesse de me poursuivre,</l>
 	<l id='878'>Donne-moi le moyen de mourir ou de vivre ;</l>
 	<l id='879'>Mon astre disparu ne luit plus en ces lieux ;</l>
@@ -1410,7 +1409,7 @@
 <sp who='PHILIDASPE'><speaker>PHILIDASPE</speaker>
 	<l id='951' part='i'>Sire consolez vous.</l>
 </sp>
-<stage>Il se tue.</stage>
+<stage type="action/suicide">Il se tue.</stage>
 <sp who='LUCIDAN'><speaker>LUCIDAN</speaker>
 	<l id='951' part='f'>Traître, tu sentiras,</l>
 	<l id='952'>Qu'en m'arrachant le sceptre, on m'a laissé le bras :</l>
@@ -1510,9 +1509,8 @@
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II.</head>
 <sp who='LUCIDAN'><speaker>LUCIDAN, seul.</speaker>
-<stage>Stances.</stage>
-<stage>Il est déguisé.</stage>
-<poem type="stances">
+<stage type="costume">Il est déguisé.</stage>
+<lg type="stances">
 	<lg>
 		<l id='1031'>Vaines grandeurs ; éclat trompeur,</l>
 		<l id='1032'>Songe, fumée, ombre, vapeur,</l>
@@ -1550,7 +1548,7 @@
 		<l id='1058'>Elle n'en veut qu'à leur orgueil ;</l>
 		<l id='1059'>Et ce sceptre qui porte un oeil</l>
 		<l id='1060'>Brise tous les autres en poudre ;</l>
-	<stage>Hiéroglyphique de Dieu selon les Egyptiens.</stage>
+	<stage type="explicit">Hiéroglyphique de Dieu selon les Egyptiens.</stage>
 		<l id='1061'>Et qui règne, se doit résoudre,</l>
 		<l id='1062'>À faire d'un trône un cercueil.</l>
 	</lg>
@@ -1564,7 +1562,7 @@
 		<l id='1069'>Et que qui bâtit sur du verre,</l>
 		<l id='1070'>Périt avec ce fondement.</l>
 	</lg>
-</poem>
+</lg>
 	<l id='1071'>Borne prince affligé cette plainte importune ;</l>
 	<l id='1072'>Tu n'as point de sujet d'accuser la fortune ;</l>
 	<l id='1073'>Car l'on ne t'a chassé de ta propre maison,</l>
@@ -1608,7 +1606,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Rosilée, Artésie.</head>
-<stage>Elles sont en habit d'homme.</stage>
+<stage type="costume">Elles sont en habit d'homme.</stage>
 <sp who='ROSILEE'><speaker>ROSILÉE</speaker>
 	<l id='1111'>Ta langue veut trahir le secret de mon âme :</l>
 </sp>
@@ -1691,20 +1689,20 @@
 <sp who='ARTESIE'><speaker>ARTÉSIE</speaker>
 	<l id='1163'>Entrez au champ de Mars, la barrière est ouverte.</l>
 </sp>
-<stage>Ils s'avancent tous quatre l'épée à la main.</stage>
+<stage type="action">Ils s'avancent tous quatre l'épée à la main.</stage>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Lucidan, Théandre, Rosilée, Rosilée, Artésie.</head>
 <sp who='LUCIDAN'><speaker>LUCIDAN</speaker>
 	<l id='1164'>Ô ciel ! Quatre guerriers travaillent à leur perte ;</l>
 	<l id='1165'>Mais parmi tant de maux que nous avons commis,</l>
 	<l id='1166'>Faisons au moins un bien en les rendant amis.</l>
-<stage>Il met l'épée à la main pour les séparer.</stage>
+<stage type="action">Il met l'épée à la main pour les séparer.</stage>
 	<l id='1167'>Le sort m'amène ici pour divertir l'orage ;</l>
 	<l id='1168'>La volonté suffit, et fait voir le courage ;</l>
 	<l id='1169'>Lorsqu'on est empêché d'en venir aux effets ;</l>
 	<l id='1170'>Et les plus offensez s'en tiennent satisfaits.</l>
 	<l id='1171'>Mais quelque enchantement trouble ma fantaisie ;</l>
-<stage>Il se reconnaissent et les épées leur tombent des mains à tous cinq.</stage>
+<stage type="action">Il se reconnaissent et les épées leur tombent des mains à tous cinq.</stage>
 	<l id='1172'>Théandre, Perintor, Rosilée, Artésie !</l>
 	<l id='1173'>Ô justice des dieux, vous m'avez fait venir,</l>
 	<l id='1174'>Où ceux que j'ai fâchez ont droit de me punir,</l>
@@ -1784,7 +1782,7 @@
 </div2>
 </div1>
 <div1 type="act" n='5'><head>ACTE V</head>
-<stage>Le temple se tire où paraît un trône, et les ornements royaux sont sur l'autel.</stage>
+<stage type="decor">Le temple se tire où paraît un trône, et les ornements royaux sont sur l'autel.</stage>
 <div2 type="scene" n='1'><head>SCÈNE I. Théandre, Rosimar, Ménocrite, Orchomène, Lucidame, Perintor, Palinonde, Choeur de peuple.</head>
 <sp who='THÉANDRE'><speaker>THÉANDRE</speaker>
 	<l id='1231'>Toi dont la prudence éternelle</l>
@@ -1955,7 +1953,7 @@
 </sp>
 <sp who='THÉANDRE'><speaker>THÉANDRE</speaker>
 	<l id='1366'>Mon désir cède au vôtre, et ne peut se défendre,</l>
-<stage>Cérémonie antique du couronnement des rois de France.</stage>
+<stage type="explicit">Cérémonie antique du couronnement des rois de France.</stage>
 </sp>
 <sp who='ROSIMAR'><speaker>ROSIMAR</speaker>
 	<l id='1367'>Or puisqu'il est élu par la commune voix,</l>
@@ -1970,7 +1968,7 @@
 	<l id='1374'>Recevez de bon coeur la France qui le donne,</l>
 	<l id='1375'>Faisant voir à vos pieds les vices abattus,</l>
 	<l id='1376'>Ternissez son éclat, par celui des vertus.</l>
-<stage>Il lui met le manteau royal.</stage>
+<stage type="costume">Il lui met le manteau royal.</stage>
 </sp>
 
 <sp who='ROSIMAR'><speaker>ROSIMAR</speaker>
@@ -1978,28 +1976,28 @@
 	<l id='1378'>Que jamais le danger n'approche votre tête ;</l>
 	<l id='1379'>Et que cette couronne y soit ferme toujours ;</l>
 	<l id='1380'>Dut l'âge de Nestor le céder à vos jours.</l>
-<stage>Il lui met la couronne sur la tête.</stage>
+<stage type="costume">Il lui met la couronne sur la tête.</stage>
 </sp>
 <sp who='ORCHOMENE'><speaker>ORCHOMÈNE</speaker>
 	<l id='1381'>Que votre majesté pour marque de puissance,</l>
 	<l id='1382'>Prenne le sceptre d'or dont on régit la France ;</l>
 	<l id='1383'>Que par lui puissiez vous écarter le malheur,</l>
 	<l id='1384'>Et le faire adorer comme votre valeur.</l>
-<stage>Il lui met le sceptre à la main.</stage>
+<stage type="costume">Il lui met le sceptre à la main.</stage>
 </sp>
 <sp who='LUCIDAME'><speaker>LUCIDAME</speaker>
 	<l id='1385'>Cette main dans la vôtre en faisant son office,</l>
 	<l id='1386'>Doit tenir la balance égale à la justice ;</l>
 	<l id='1387'>Que le faible, et le fort, le petit et le grand,</l>
 	<l id='1388'>Soient pesez sans faveur dedans leur différend.</l>
-<stage>On lui donne la main de justice.</stage>
+<stage type="costume">On lui donne la main de justice.</stage>
 </sp>
 <sp who='ROSIMAR'><speaker>ROSIMAR</speaker>
 	<l id='1389'>Sire, montez au trône où la vertu vous monte ;</l>
 	<l id='1390'>Si la prière y va, tenez en toujours conte ;</l>
 	<l id='1391'>Oyez la doucement, ne la méprisez pas ;</l>
 	<l id='1392'>Les dieux qui sont plus haut, jettent les yeux en bas.</l>
-<stage>On le conduit au trône.</stage>
+<stage type="action">On le conduit au trône.</stage>
 </sp>
 <sp who='THÉANDRE'><speaker>THÉANDRE</speaker>
 	<l id='1393'>Généreuse noblesse en vertus sans pareille,</l>
@@ -2039,7 +2037,7 @@
 	<l id='1427'>En un mot, je commande (en ayant le pouvoir)</l>
 	<l id='1428'>D'obéir à ce prince, et de le recevoir.</l>
 	<l id='1429'>Que l'étonnement cesse avec la rêverie :</l>
-<stage>Le Roi et la Reine parasissent avec Rosilée et leurs gens.</stage>
+<stage type="entrance">Le Roi et la Reine paraissent avec Rosilée et leurs gens.</stage>
 	<l id='1430'>Gardes haussez un peu cette tapisserie.</l>
 	<l id='1431'>Il me faut obéir, vous me l'avez juré :</l>
 	<l id='1432'>Ainsi notre repos sera bien assuré :</l>
@@ -2051,7 +2049,7 @@
 	<l id='1438'>Venez sire, venez reprendre votre place ;</l>
 	<l id='1439'>Que votre voix l'assure, et d'un langage doux,</l>
 	<l id='1440'>Montrant n'en point avoir, désarmez son courroux.</l>
-<stage>Il descend du trône.</stage>
+<stage type="action">Il descend du trône.</stage>
 </sp>
 <sp who='ROSIMAR'><speaker>ROSIMAR</speaker>
 	<l id='1441'>Quelle confusion me couvre le visage !</l>
@@ -2086,7 +2084,7 @@
 <sp who='THÉANDRE'><speaker>THÉANDRE</speaker>
 	<l id='1461'>Sire prenez le rang où seul vous devez être ;</l>
 	<l id='1462'>Nous sommes nais sujets, et vous êtes né maître.</l>
-<stage>Après l'avoir revêtu des habits royaux, il le remet au trône.</stage>
+<stage type="costume">Après l'avoir revêtu des habits royaux, il le remet au trône.</stage>
 	<l id='1463'>C'est à vous à régner, c'est à nous d'obéir ;</l>
 	<l id='1464'>Veuillez aimer ce peuple, au lieu de le haïr ;</l>
 	<l id='1465'>Il proteste à genoux, que sa faute le fâche ;</l>

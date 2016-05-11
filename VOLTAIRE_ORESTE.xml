@@ -8,9 +8,9 @@
 				<date>1743</date>
 			</titleStmt>
 			<publicationStmt>	
-				<authority>publié par Paul FIEVRE, juin 2011, revu mars 2014</authority>
-			<idno></idno>
-</publicationStmt>
+				<publisher>publié par Paul FIEVRE, juin 2011, revu mars 2014</publisher>
+				<idno>VOLTAIRE_ORESTE</idno>
+			</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>mythe grec</inspiration>
@@ -32,7 +32,7 @@
 	<docAuthor id='VOLTAIRE'>Par M. DE VOLTAIRE</docAuthor>
 	<docImprint>
 		<privilege id='17**-**-**'></privilege>
-		<printer id='***'>À PARIS, rue Saint-Jacques chez P.G. LE MERCIER, imprimeur-libraire, u alivre d'Or, M. LAMBERT, libraire.</printer>
+		<printer id='***'>À PARIS, rue Saint-Jacques chez P.G. LE MERCIER, imprimeur-libraire, au livre d'Or, M. LAMBERT, libraire.</printer>
 		<acheveImprime id='17**-**-**'></acheveImprime>
 	</docImprint>
 	<performance>
@@ -412,9 +412,9 @@ Et va frapper un coup si longtemps attendu.
 	<l id="235">À quoi vous sert, hélas ! ce remords passager ?</l>
 	<l id="236">Ce sentiment si tendre était-il étranger ?</l>
 	<l id="237">Vous menacez Électre, et votre fils lui-même !</l>
-<stage>À Iphise.</stage>
+<stage type="toward">À Iphise.</stage>
 	<l id="238">Ma soeur ! et c'est ainsi qu'une mère nous aime ?</l>
-<stage>À Clytemnestre.</stage>
+<stage type="toward">À Clytemnestre.</stage>
 	<l id="239">Vous menacez Oreste !... Hélas ! loin d'espérer</l>
 	<l id="240">Qu'un frère malheureux nous vienne délivrer,</l>
 	<l id="241">J'ignore si le ciel a conservé sa vie ;</l>
@@ -780,7 +780,7 @@ Et va frapper un coup si longtemps attendu.
 <sp who='PYLADE'><speaker>PYLADE.</speaker>
 	<l id="483" part='f'>Arrête.</l>
 	<l id="484">Tu vas braver les dieux, tu hasardes ta tête.</l>
-<stage>À Pammène.</stage>
+<stage type="toward">À Pammène.</stage>
 	<l id="485">Que je te crains ! Daignez, respectable mortel,</l>
 	<l id="486">Dans le temple voisin nous conduire à l'autel ;</l>
 	<l id="487">C'est le premier devoir : il est temps que j'adore</l>
@@ -1144,7 +1144,7 @@ Qui jure ainsi leur mort, si ce n'est pas son fils ?</note>
 </div1>
 <div1 type="act" n='3'><head>ACTE III</head>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Oreste, Pylade, Pammène.</head>
-<stage>Un esclave dans l'enfoncement qui porte une urne, et une épée.</stage>
+<stage type="explicit">Un esclave dans l'enfoncement qui porte une urne, et une épée.</stage>
 <sp who='PAMMÈNE'><speaker>PAMMÈNE.</speaker>
 	<l id="729">Que béni soit le jour si longtemps attendu,</l>
 	<l id="730">Ou le fils de mon maître, à nos larmes rendu,</l>
@@ -1236,7 +1236,7 @@ Qui jure ainsi leur mort, si ce n'est pas son fils ?</note>
 	<l id="802">Cette urne, cet anneau, ce fer ensanglanté :</l>
 	<l id="803">Il suffit ; offrons-les loin d'Électre affligée.</l>
 	<l id="804">Allons, je la verrai quand je l'aurai vengée</l>
-<stage>À Pammène.</stage>
+<stage type="toward">À Pammène.</stage>
 	<l id="805">Va préparer les coeurs au grand événement</l>
 	<l id="806">Que je dois consommer, et que la Grèce attend.</l>
 	<l id="807">Trompe surtout Égisthe et ma coupable mère :</l>
@@ -1274,7 +1274,7 @@ Qui jure ainsi leur mort, si ce n'est pas son fils ?</note>
 <sp who='ÉLECTRE'><speaker>ÉLECTRE, à Iphise.</speaker>
 	<l id="823" part='f'>Que ses traits m'ont frappée !</l>
 	<l id="824">Hélas ! ainsi que vous j'aurais été trompée.</l>
-<stage>À Oreste.</stage>
+<stage type="toward">À Oreste.</stage>
 	<l id="825">Eh ! qui donc êtes-vous, étrangers malheureux ;</l>
 	<l id="826">Et qu'osez-vous chercher sur ce rivage affreux ?</l>
 </sp>
@@ -1341,7 +1341,7 @@ Qui jure ainsi leur mort, si ce n'est pas son fils ?</note>
 <sp who='ORESTE'><speaker>ORESTE, à Pylade.</speaker>
 	<l id="848">Elle semble toucher à son heure dernière.</l>
 	<l id="849">Ah ! Pourquoi l'ai-je vue, impitoyables dieux !</l>
-<stage>À celui qui porte l'urne.</stage>
+<stage type="toward">À celui qui porte l'urne.</stage>
 	<l id="850">Ôtez ce monument, gardez pour d'autres yeux,</l>
 	<l id="851" part='i'>Cette urne dont l'aspect...</l>
 </sp>
@@ -1351,7 +1351,7 @@ Qui jure ainsi leur mort, si ce n'est pas son fils ?</note>
 	<l id="853">Laissez, laissez toucher à mes tremblantes mains</l>
 	<l id="854">Ces restes échappés à des dieux inhumains.</l>
 	<l id="855" part='i'>Donnez.</l>
-<stage>Elle prend l'urne et l'embrasse.</stage>
+<stage type="action">Elle prend l'urne et l'embrasse.</stage>
 </sp>
 <sp who='ORESTE'><speaker>ORESTE.</speaker>
 	<l id="855" part='m'>Que faites-vous ? cessez.</l>
@@ -1435,7 +1435,7 @@ Qui jure ainsi leur mort, si ce n'est pas son fils ?</note>
 </sp>
 <sp who='ÉGISTHE'><speaker>ÉGISTHE.</speaker>
 	<l id="883">Qu'on ôte de ses mains ces dépouilles d'Oreste.</l>
-<stage>On prend l'urne des mains d'Électre.</stage>
+<stage type="action/keep">On prend l'urne des mains d'Électre.</stage>
 </sp>
 <sp who='ÉLECTRE'><speaker>ÉLECTRE.</speaker>
 	<l id="884">Barbare, arrache-moi le seul bien qui me reste :</l>
@@ -1445,7 +1445,7 @@ Qui jure ainsi leur mort, si ce n'est pas son fils ?</note>
 	<l id="888">Jouis de ton bonheur, jouis de tous tes crimes.</l>
 	<l id="889">Contemplez avec lui des spectacles si doux,</l>
 	<l id="890">Mère trop inhumaine ; ils sont dignes de vous.</l>
-<stage>Iphise l'emmène.</stage>
+<stage type="exit">Iphise l'emmène.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Égisthe, Clytemnestre, Oreste, Pylade, Gardes.</head>
@@ -1598,7 +1598,7 @@ La nature aisément désarme sa colère.
 	<l id="966" part='f'>Eh ! Madame, en ce jour,</l>
 	<l id="967">Défendez-vous encor ce sang qui vous déteste ?</l>
 	<l id="968">N'épargnez point Électre, ayant proscrit Oreste.</l>
-<stage>À Oreste.</stage>
+<stage type="toward">À Oreste.</stage>
 	<l id="969">Vous... laissez cette rendre à mon juste courroux.</l>
 </sp>
 <sp who='ORESTE'><speaker>ORESTE.</speaker>
@@ -1621,7 +1621,7 @@ La nature aisément désarme sa colère.
 	<l id="984">A porté dans mon coeur un poison qui me tue.</l>
 	<l id="985">Je cède, et je voudrais, dans ce mortel effroi,</l>
 	<l id="986">Me cacher à la terre, et, s'il se peut, à moi.</l>
-<stage>Elle sort.</stage>
+<stage type="exit">Elle sort.</stage>
 </sp>
 <sp who='ÉGISTHE'><speaker>ÉGISTHE, à Oreste.</speaker>
 	<l id="987">Demeurez. Attendez que le temps la désarme.</l>
@@ -1630,7 +1630,7 @@ La nature aisément désarme sa colère.
 	<l id="990">L'intérêt parle en maître, et seul est entendu.</l>
 	<l id="991">En ces lieux avec nous célébrez la journée</l>
 	<l id="992">De son couronnement et de mon hyménée.</l>
-<stage>À sa suite.</stage>
+<stage type="toward">À sa suite.</stage>
 	<l id="993">Et vous... dans Épidaure allez chercher mon fils ;</l>
 	<l id="994">Qu'il vienne confirmer tout ce qu'ils m'ont appris.</l>
 </sp>
@@ -1792,7 +1792,7 @@ La nature aisément désarme sa colère.
 	<l id="1095">Le perfide... il échappe à ma vue indignée.</l>
 	<l id="1096">En proie à ma fureur, et de larmes baignée,</l>
 	<l id="1097">Je reste sans vengeance, ainsi que sans espoir.</l>
-<stage>À Pylade.</stage>
+<stage type="toward">À Pylade.</stage>
 	<l id="1098">Toi, qui semblés frémir, et qui n'oses me voir,</l>
 	<l id="1099">Toi, compagnon du crime, apprends-moi donc, barbare,</l>
 	<l id="1100">Où va cet assassin, de mon sang trop avare ;</l>
@@ -1929,7 +1929,7 @@ La nature aisément désarme sa colère.
 	<l id="1203">D'où vient qu'il s'attendrit ? Je l'entends qui soupire ;</l>
 	<l id="1204">Les remords en ces lieux ont-ils donc quelque empire ?</l>
 	<l id="1205">Qu'importent des remords à l'horreur où je suis ?</l>
-<stage>Elle avance vers Oreste.</stage>
+<stage type="action">Elle avance vers Oreste.</stage>
 	<l id="1206">Le voilà seul... frappons. Meurs, traître... je ne puis...</l>
 </sp>
 <sp who='ORESTE'><speaker>ORESTE.</speaker>
@@ -2055,7 +2055,7 @@ La nature aisément désarme sa colère.
 <sp who='ÉLECTRE'><speaker>ÉLECTRE.</speaker>
 	<l id="1263">Mais Égisthe en effet ne m'a-t-il pas livrée</l>
 	<l id="1264">À la main qu'il croyait de mon sang altérée ?</l>
-<stage>À Oreste.</stage>
+<stage type="toward">À Oreste.</stage>
 	<l id="1265">Mon sort à vos destins n'est-il pas asservi ?</l>
 	<l id="1266">Oui, vous êtes mon maître : Égisthe est obéi.</l>
 	<l id="1267">Du barbare une fois la volonté m'est chère.</l>
@@ -2264,7 +2264,7 @@ La nature aisément désarme sa colère.
 	<l id="1394">Il est leur confident, leur ami, leur complice.</l>
 	<l id="1395">Dans quel piège effroyable ils allaient me jeter !</l>
 	<l id="1396">L'un des deux est Oreste, en pouvez-vous douter ?</l>
-<stage>À Clytemnestre.</stage>
+<stage type="toward">À Clytemnestre.</stage>
 	<l id="1397">Cessez de vous tromper, cessez de le défendre.</l>
 	<l id="1398">Je vois tout, et trop bien. Cette urne, cette cendre,</l>
 	<l id="1399">C'est celle de mon fils ; un père gémissant</l>
@@ -2312,7 +2312,7 @@ La nature aisément désarme sa colère.
 <sp who='IPHISE'><speaker>IPHISE.</speaker>
 	<l id="1425" part='f'>Seigneur, quoi ! Sa famille entière</l>
 	<l id="1426">Perdra-t-elle à vos pieds ses cris et sa prière ?</l>
-<stage>Elle se jette à ses pieds.</stage>
+<stage type="action/fall">Elle se jette à ses pieds.</stage>
 	<l id="1427">Avec moi, chère Électre, embrassez ses genoux :</l>
 	<l id="1428" part='i'>Votre audace vous perd.</l>
 </sp>
@@ -2322,7 +2322,7 @@ La nature aisément désarme sa colère.
 	<l id="1430">Elle me fait horreur... Eh bien ! Je la surmonte.</l>
 	<l id="1431">Eh bien ! j'ai donc connu la bassesse et l'effroi !</l>
 	<l id="1432">Je fais ce que jamais je n'aurais fait pour moi.</l>
-<stage>Sans se mettre à genoux.</stage>
+<stage type="action">Sans se mettre à genoux.</stage>
 	<l id="1433">Cruel ! si ton courroux peut épargner mon frère,</l>
 	<l id="1434">(Je ne puis oublier le meurtre de mon père,</l>
 	<l id="1435">Mais je pourrais du moins, muette à ton aspect,</l>
@@ -2433,7 +2433,7 @@ La nature aisément désarme sa colère.
 	<l id="1498">De répondre des jours et d'Oreste et d'Égisthe :</l>
 	<l id="1499">Je suis épouse et mère ; et je veux à-la-fois,</l>
 	<l id="1500">Si j'en puis être digne, en remplir tous les droits.</l>
-<stage>Elle sort.</stage>
+<stage type="exit">Elle sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Électre, Iphise.</head>
@@ -2545,7 +2545,7 @@ La nature aisément désarme sa colère.
 <sp who='PYLADE'><speaker>PYLADE, à sa suite.</speaker>
 	<l id="1573" part='f'>Brisez, amis, ces chaînes si cruelles ;</l>
 	<l id="1574">Fers, tombez de ses mains ; le sceptre est fait pour elles.</l>
-<stage>On lui ôte ses chaînes.</stage>
+<stage type="action">On lui ôte ses chaînes.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='8'><head>SCÈNE VIII. Électre, Iphise, Pylade, Pammène;</head>

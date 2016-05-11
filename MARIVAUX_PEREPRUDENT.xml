@@ -8,8 +8,8 @@
 		</titleStmt>
 		<publicationStmt>
 			<p>publié par Paul FIEVRE</p><p>Août 2007</p>
-		<idno></idno>
-</publicationStmt>
+			<idno>MARIVAUX_PEREPRUDENT</idno>
+		</publicationStmt>
 		<SourceDesc>
 			<genre>Comédie</genre>
 			<inspiration>moeurs françaises</inspiration>
@@ -207,7 +207,7 @@
 	<l id='91'>Ha ! Qu'il m'eût été doux de conserver mes feux !</l>
 	<l id='92'>Plus content mille fois... Que je suis malheureux !</l>
 	<l id='93' part='i'>Adieu, chère Philine...</l>
-<stage>Il s'en va et il revient.</stage>
+<stage type="action">Il s'en va et il revient.</stage>
 	<l id='93' part='f'>Avant que je vous quitte...</l>
 	<l id='94'>De quelques feints regrets du moins plaignez ma fuite.</l>
 </sp>
@@ -427,7 +427,7 @@
 <sp who='CRISPIN'><speaker>CRISPIN.</speaker>
 	<l id='187' part='f'>Je connais certain drôle,</l>
 	<l id='188'>Que je dois employer, et qui jouera son rôle.</l>
-<stage>Se tournant vers Cléandre et Philine, il dit.</stage>
+<stage type="toward">Se tournant vers Cléandre et Philine, il dit.</stage>
 	<l id='189'>Vous, ne paraissez pas ; et vous, ne craignez rien :</l>
 	<l id='190'>Tout doit vous réussir, cet oracle est certain.</l>
 	<l id='191'>Je ne m'éloigne pas. Avertis-moi, Toinette,</l>
@@ -588,7 +588,7 @@
 	<l id='263'>Il est vrai, c'est ma fille ; et je vais l'appeler.</l>
 	<l id='264' part='i'>Ma fille, descendez.</l>
 </sp>
-<stage>Il fait signe à Toinette.</stage>
+<stage type="action">Il fait signe à Toinette.</stage>
 <sp who='MAITRE JACQUES'><speaker>MAÎTRE JACQUES.</speaker>
 	<l id='264' part='f'>Morgué, qu'elle est gentille !</l>
 </sp>
@@ -1135,7 +1135,7 @@
 </div2>
 <div2 type="scene" n='17'><head>SCÈNE XVII. Le Financier, Toinette, Démocrite.</head>
 <sp who='TOINETTE'><speaker>TOINETTE, à la porte.</speaker>
-<stage>Le Financier frappe.</stage>
+<stage type="action">Le Financier frappe.</stage>
 	<l id='503' part='i'>Que voulez-vous, Monsieur ?</l>
 </sp>
 <sp who='LE FINANCIER'><speaker>LE FINANCIER.</speaker>
@@ -1159,7 +1159,7 @@
 </sp>
 <sp who='TOINETTE'><speaker>TOINETTE.</speaker>
 	<l id='508' part='i'>D'accord. </l>
-<stage>Et à part.</stage>
+<stage type="aparte">Et à part.</stage>
 	<l id='508' part='f'>C'est bien en vain que j'ai fait sentinelle.</l>
 	<l id='509'>Tout ceci va fort mal : les desseins de Crispin,</l>
 	<l id='510'>Autant qu'on peut juger, n'auront pas bonne fin.</l>
@@ -1399,7 +1399,7 @@
 	<l id='611'>Vinssiez-vous à présent prier pour votre fille,</l>
 	<l id='612'>J'abandonne à jamais votre ingrate famille.</l>
 </sp>
-<stage>Frontin sort en riant.</stage>
+<stage type="exit">Frontin sort en riant.</stage>
 </div2>
 <div2 type="scene" n='20'><head>SCÈNE XX.</head>
 <sp who='DÉMOCRITE'><speaker>DÉMOCRITE, seul.</speaker>
@@ -1700,7 +1700,7 @@
 	<l id='735'>Ecoutez-moi sans bruit, quatre mots font l'affaire.</l>
 </sp>
 <sp who='DÉMOCRITE'><speaker>DÉMOCRITE, frappe.</speaker>
-<stage>Un laquais paraît qui fait venir Philine.</stage>
+<stage type="entrance">Un laquais paraît qui fait venir Philine.</stage>
 	<l id='736'>Qu'on appelle ma fille. A tout ce beau mystère</l>
 	<l id='737' part='i'>A-t-elle quelque part ?</l>
 </sp>
@@ -1719,7 +1719,7 @@
 </sp>
 <sp who='DÉMOCRITE'><speaker>DÉMOCRITE.</speaker>
 	<l id='747' part='m'>Franc coquin !</l>
-<stage>Et puis à sa fille qui entre.</stage>
+<stage type="entrance">Et puis à sa fille qui entre.</stage>
 	<l id='747' part='f'>Vous voilà donc, ma fille !</l>
 	<l id='748'>En fait de tours d'esprit, vous êtes fort habile,</l>
 	<l id='749'>Mais votre habileté ne servira de rien :</l>
@@ -1735,7 +1735,7 @@
 </sp>
 <sp who='CRISPIN'><speaker>CRISPIN, s'en allant.</speaker>
 	<l id='754'>Je puis dire avoir vu le bâton de bien près.</l>
-<stage>Il dit le vers suivant à Cléandre qui entre.</stage>
+<stage type="toward">Il dit le vers suivant à Cléandre qui entre.</stage>
 	<l id='755'>Vous venez à propos : quoi ! vous osez paraître !</l>
 </sp>
 </div2>

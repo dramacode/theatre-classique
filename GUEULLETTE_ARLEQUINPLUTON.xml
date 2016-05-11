@@ -125,7 +125,7 @@
 <body>
 <div1 type="act" n='1'><head>ACTE I </head>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Pluton, Proserpine.</head>
-<stage>La scène est au devant des enfers. </stage>
+<stage type="decor">La scène est au devant des enfers. </stage>
 <sp who='PROSERPINE'><speaker>PROSERPINE.</speaker>
 <p id='1'>
 	<s id='1'>Vous voilà galamment vêtu, seigneur Pluton, et l'on aurait de la peine à reconnaître sous ce déguisement le Dieu des Enfers. </s>
@@ -247,7 +247,7 @@
 	<s id='1'>Elle devine assez juste... </s>
 	<s id='2'>Mais prenons un ton ferme.</s>
 </p>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 <p id='21'>
 	<s id='1'>Savez-vous que je veux être obéi ?</s>
 </p>
@@ -287,7 +287,7 @@
 	<s id='1'>Holà ! </s>
 	<s id='2'>Qu'on la conduise dans les Enfers, qu'on la garde à vue jusqu'à mon retour ! </s>
 </p>
-<stage>Des diables font rentrer Proserpine.</stage>
+<stage type="[N/A]">Des diables font rentrer Proserpine.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. </head>
@@ -415,7 +415,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Arlequin, Pasquin.</head>
-<stage>Le théâtre représente une campagne et la maison de Pantalon. </stage>
+<stage type="decor">Le théâtre représente une campagne et la maison de Pantalon. </stage>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <note type="L">Berbet : Chien à gros poil et frisé qui va à l'eau, et qu'on dresse pour la chasse aux canards : ce qui fait qu'on les appelle aussi canard ou sa femelle canne. On dit proverbialement d'un homme qui en suit toujours un autre, qu'il le suit comme un barbet. [F]</note>
 <p id='1'>
@@ -858,7 +858,7 @@
 	<s id='2'>Che' consolazione ! </s>
 	<s id='3'>Che' allegrezza !</s>
 </p>
-<stage>Mercure, jouant de la flûte, les endort.</stage>
+<stage type="[N/A]">Mercure, jouant de la flûte, les endort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='10'><head>SCÈNE X. Les Précédents, Pluton, Mercure.</head>
@@ -884,7 +884,7 @@
 <p id='4'>
 	<s id='1'>Peut-être la trouverez-vous trop éveillée.</s>
 </p> 
-<stage>Il la réveille.</stage>
+<stage type="[N/A]">Il la réveille.</stage>
 </sp>
 <sp who='VIOLETTE'><speaker>VIOLETTE.</speaker>
 <p id='5'>
@@ -900,7 +900,7 @@
 	<s id='3'>Venez-y. </s>
 	<s id='4'>Toi, Mercure, exécute mes ordres.</s>
 </p>
-<stage>Il paraît deux monstres. Mercure réveille Pantalon et Arlequin, qui crient à la vue des monstres.</stage>
+<stage type="[N/A]">Il paraît deux monstres. Mercure réveille Pantalon et Arlequin, qui crient à la vue des monstres.</stage>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
 <p id='7'>
@@ -926,7 +926,7 @@
 	<s id='3'>Il n'y a plus de Violette pour toi... </s>
 	<s id='4'>Je vais devenir au moins comtesse.</s>
 </p>
-<stage>Ils veulent la suivre; les monstres les arrêtent. Cinthio et Scaramouche accourent.</stage>
+<stage type="[N/A]">Ils veulent la suivre; les monstres les arrêtent. Cinthio et Scaramouche accourent.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='11'><head>SCÈNE XI. Pantalon, Arlequin, Cinthio, Scaramouche.</head>
@@ -936,7 +936,7 @@
 	<s id='2'>Mes amis, Violette suit son nouvel amant ! </s>
 	<s id='3'>Venez, courons après son ravisseur.</s>
 </p>
-<stage>Ils le suivent.</stage>
+<stage type="[N/A]">Ils le suivent.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='12'><head>SCÈNE XII.</head>
@@ -1020,7 +1020,7 @@
 	<s id='3'>Me voici dans les lieux où j'ai perdu Violette. </s>
 	<s id='4'>Mon rival est avec elle ! Elle fuit, mais il ne m'évitera pas.</s>
 </p> 
-<stage>Il bat Pantalon.</stage>
+<stage type="[N/A]">Il bat Pantalon.</stage>
 </sp>
 <sp who='PANTALON'><speaker>PANTALON.</speaker>
 <p id='8'>
@@ -1043,7 +1043,7 @@
 	<s id='1'>Il me prend pour Violette. </s>
 	<s id='2'>Faisons-le rentrer dans la maison.</s>
 </p> 
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 <p id='11'>
 	<s id='1'>Arlequin, je te demande pardon de ma légèreté. </s>
 </p>
@@ -1068,7 +1068,7 @@
 	<s id='6'>C'est son amant ! </s>
 	<s id='7'>Je croyais l'avoir tué.</s>
 </p>
- <stage>Il le bat.</stage>
+ <stage type="[N/A]">Il le bat.</stage>
 </sp>
 <sp who='PANTALON'><speaker>PANTALON.</speaker>
 <p id='15'>
@@ -1089,7 +1089,7 @@
 	<l id='10'>Mais je vois au galop s'éloigner la friponne. </l>
 	<l id='11'>Oh! sans perdre de temps à faire l'enragé, </l>
 	<l id='12'>Périssons, ou vengeons notre amour outragé.</l>
-<stage>Il s'enfuit.</stage>
+<stage type="[N/A]">Il s'enfuit.</stage>
 </sp>
 <sp who='PANTALON'><speaker>PANTALON.</speaker>
 <p id='16'>
@@ -1243,7 +1243,7 @@
 	<s id='2'>Nos habitants lui ont dressé un tombeau rustique. </s>
 	<s id='3'>On va lui rendre les honneurs funèbres.</s>
 </p>
-<stage>Bruit sourd d'instruments champêtres. Arlequin sur un tombeau composé de fromages.</stage>
+<stage type="[N/A]">Bruit sourd d'instruments champêtres. Arlequin sur un tombeau composé de fromages.</stage>
 </sp>
 <sp who='UN PAYSAN'><speaker>PAYSAN. </speaker>
 	<l id='13'>Arlequin a fini le cours </l>
@@ -1389,7 +1389,7 @@
 <p id='14'>
 	<s id='1'>Fort bien... Il faut user d'adresse.</s>
 </p>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 <p id='14'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Cinthio que vous connaissez mal mon coeur ! </s>
@@ -1417,7 +1417,7 @@
 	<s id='1'>Suivez votre penchant... </s>
 	<s id='2'>Je suis la plus infidèle des femmes. </s>
 </p>
-<stage>Elle pleure.</stage>
+<stage type="cry">Elle pleure.</stage>
 </sp>
 <sp who='CINTHIO'><speaker>CINTHIO.</speaker>
 <p id='19'>
@@ -1430,7 +1430,7 @@
 	<s id='1'>Bon ! </s>
 	<s id='2'>Il commence à s'attendrir.</s>
 </p>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 <p id='21'>
 	<s id='1'>Laissez-moi, vous dis-je ! </s>
 	<s id='2'>Je suis un monstre d'ingratitude. </s>
@@ -1477,14 +1477,14 @@
 <p id='29'>
 	<s id='1'>Je l'accepte avec plaisir.</s>
 </p>
-<stage>Bas.</stage>
+<stage type="mezzo voce">Bas.</stage>
 <p id='30'>
 	<s id='1'>Les hommes ont beau faire, ils seront toujours nos dupes. </s>
 </p>	
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Arlequin, Mercure. </head>
-<stage>Le théâtre représente les enfers. </stage>
+<stage type="decor">Le théâtre représente les enfers. </stage>
 <sp who='MERCURE'><speaker>MERCURE.</speaker>
 <p id='1'>
 	<s id='1'>Je n'ai point trouvé d'autre moyen, pour débarrasser Pluton d'Arlequin, que d'ouvrir la terre sous ses pieds et de le conduire en ces lieux. </s>
@@ -1673,7 +1673,7 @@
 <p id='6'>
 	<s id='1'>C'est quelque ivrogne. </s>
 </p>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 <p id='7'>
 	<s id='1'>Eh bien ? </s>
 	<s id='2'>Sans respect pour ma Majesté...</s>
@@ -1770,7 +1770,7 @@
 	<s id='1'>Mon parti est pris. </s>
 	<s id='2'>Profitons de son erreur et rendons à Pluton outrage pour outrage... </s>
 </p>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 <p id='12'>
 	<s id='1'>Mais, en vérité, Proserpine, croyez-vous que tout le bruit que vous faites serve à quelque chose ? </s>
 	<s id='2'>Si vous preniez un autre ton, je ne dis pas que peut-être je n'écoutasse la raison... </s>
@@ -1820,7 +1820,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='8'><head>SCÈNE VIII. Pluton, Violette, Mercure.</head>
-<stage>Le théâtre représente un lieu enchanté. </stage>
+<stage type="decor">Le théâtre représente un lieu enchanté. </stage>
 <sp who='MERCURE'><speaker>MERCURE.</speaker>
 <p id='1'>
 	<s id='1'>Soyez en repos, Seigneur, Arlequin est en lieu de sûreté. </s>
@@ -1862,7 +1862,7 @@
 	<s id='2'>Messieurs, faites votre devoir. </s>
 	<s id='3'>Et vous, Mademoiselle, chantez-nous quelque air italien qui dissipe cette mélancolie. </s>
 </p>
-<stage>Air : </stage>
+<stage type="music">Air : </stage>
 	<l id='31'>La gioja e il rizo </l>
 	<l id='32'>Ti brillino in vizo </l>
 	<l id='33'>Che la giovinezza </l>
@@ -1923,7 +1923,7 @@
 <p id='15'>
 	<s id='1'>C'est qu'Arlequin est mort.</s>
 </p>
-<stage>Bas.</stage>
+<stage type="mezzo voce">Bas.</stage>
 <p id='16'>
 	<s id='1'>Il faut la tromper.</s>
 </p>
@@ -2018,7 +2018,7 @@
 <p id='31'>
 	<s id='1'>Tiens, voilà comme je traite tes pareils.</s>
 </p>
-<stage>Elle le renverse d'un soufflet.</stage>
+<stage type="[N/A]">Elle le renverse d'un soufflet.</stage>
 </sp>
 <sp who='PLUTON'><speaker>PLUTON.</speaker>
 <p id='32'>
@@ -2241,7 +2241,7 @@
 	<s id='1'>Vous voulez plaisanter ! </s>
 	<s id='2'>Voilà votre manteau royal, votre sceptre et votre couronne qu'on vous apporte.</s>
 </p> 
-<stage>On l'habille et on le porte sur son trône.</stage>
+<stage type="[N/A]">On l'habille et on le porte sur son trône.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Arlequin, Mademoiselle Descoulisses.</head>
@@ -2435,7 +2435,7 @@
 <p id='19'>
 	<s id='1'>Garde-toi bien de lui en donner.</s>
 </p>
-<stage>À l'hôtelier.</stage>
+<stage type="toward">À l'hôtelier.</stage>
 <p id='20'>
 	<s id='1'>Je te pardonne et te retiens pour mon cuisinier. </s>
 </p>
@@ -2675,7 +2675,7 @@
 <p id='26'>
 	<s id='1'>Je jure donc de n'aimer que ma femme.</s>
 </p>
-<stage>Bas.</stage>
+<stage type="mezzo voce">Bas.</stage>
 <p id='27'>
 	<s id='1'>Quelle punition ! </s>
 </p>
@@ -2768,7 +2768,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII ET DERNIÈRE. Pantalon, Silvia, Violette, Rosette, Cinthio ; Mercure, et Arlequin qui surviennent.</head>
-<stage>Le théâtre représente le devant de la maison de Pantalon. </stage>
+<stage type="decor">Le théâtre représente le devant de la maison de Pantalon. </stage>
 <sp who='CINTHIO'><speaker>CINTHIO.</speaker>
 <p id='1'>
 	<s id='1'>Seigneur Pantalon, la belle Silvia, revenue de son erreur, consent à m'épouser. </s>
@@ -2819,7 +2819,7 @@
 <p id='10'>
 	<s id='1'>Qu'elle ne se présente jamais devant moi !</s>
 </p>
-<stage>Violette se jette à ses pieds.</stage>
+<stage type="[N/A]">Violette se jette à ses pieds.</stage>
 <p id='11'>
 	<s id='1'>N'as-tu pas honte de te montrer après une telle action qui a causé la mort d'Arlequin ? </s>
 	<s id='2'>Les dieux enverront son ombre pour te punir de ta perfidie. </s>
@@ -2827,7 +2827,7 @@
 	<s id='4'>Aiuto ! </s>
 	<s id='5'>Misericordia ! </s>
 </p>
-<stage>Mercure et Arlequin sortent des enfers. Arlequin arrête Violette.</stage>
+<stage type="entrance">Mercure et Arlequin sortent des enfers. Arlequin arrête Violette.</stage>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
 <p id='12'>
@@ -2945,7 +2945,7 @@
 <p id='30'>
 	<s id='1'>Nous lui en rendons de très humbles grâces, Seigneur Mercure.</s>
 </p>
-<stage>À Arlequin.</stage>
+<stage type="toward">À Arlequin.</stage>
 <p id='31'>
 	<s id='1'>Que je suis fâché que Violette ne soit plus digne de vous ! </s>
 </p>

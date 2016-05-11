@@ -430,7 +430,7 @@
 <p id='52'>
 	<s id='1'>Prépare-toi donc à venir avec moi, et prends soin toi-même d'apporter toutes mes armes, afin que... </s>
 </p>
-<stage>Il aperçoit Dona Elvire.</stage>
+<stage type="[N/A]">Il aperçoit Dona Elvire.</stage>
 <p id="53">
 	<s id='1'>Ah ! </s>
 	<s id='2'>Rencontre fâcheuse, traître, tu ne m'avais pas dit qu'elle était ici elle-même. </s>
@@ -1209,21 +1209,21 @@
 <p id='11'>
 	<s id='1'>Heu. </s>
 </p>
-<stage>Don Juan lui donne un soufflet.</stage> 
+<stage type="[N/A]">Don Juan lui donne un soufflet.</stage> 
 <p id='12'>
 	<s id='1'>Testigué ! </s>
 	<s id='2'>Ne me frappez pas. </s>
 </p>
-<stage>Autre soufflet.</stage> 
+<stage type="action/hit">Autre soufflet.</stage> 
 <p id='13'>
 	<s id='1'>Oh ! </s>
 	<s id='2'>Jernigué ! </s>
 </p>
-<stage>Autre soufflet.</stage> 
+<stage type="action/hit">Autre soufflet.</stage> 
 <p id='14'>
 	<s id='1'>Ventrequé ! </s>
 </p>
-<stage>Autre soufflet.</stage> 
+<stage type="action/hit">Autre soufflet.</stage> 
 <p id='15'>
 	<s id='1'>Palsanqué ! </s>
 	<s id='2'>Morquenne ! </s>
@@ -1624,27 +1624,27 @@
 	<s id='6'>Tous les discours n'avancent point les choses, il faut faire, et non pas dire, et les effets décident mieux que les paroles. </s>
 	<s id='7'>Aussi n'est-ce rien que par là que je vous veux mettre d'accord, et l'on verra, quand je me marierai, laquelle des deux a mon coeur. </s>
 </p>
-<stage>Bas, à Mathurine.</stage>
+<stage type="toward/mezzo voce">Bas, à Mathurine.</stage>
 <p id='54'>
 	<s id='1'>Laissez-lui croire ce qu'elle voudra. </s>
 </p>
-<stage>Bas, à Charlotte.</stage>
+<stage type="toward/mezzo voce">Bas, à Charlotte.</stage>
 <p id='55'>
 	<s id='1'>Laissez-la se flatter dans son imagination. </s>
 </p>
-<stage>Bas, à Mathurine.</stage>
+<stage type="toward/mezzo voce">Bas, à Mathurine.</stage>
 <p id='56'>
 	<s id='1'>Je vous adore. </s>
 </p>
-<stage>Bas, à Charlotte.</stage> 
+<stage type="toward/mezzo voce">Bas, à Charlotte.</stage> 
 <p id='57'>
 	<s id='1'>Je suis tout à vous. </s>
 </p>
-<stage>Bas, à Mathurine.</stage>
+<stage type="toward/mezzo voce">Bas, à Mathurine.</stage>
 <p id='58'>
 	<s id='1'>Tous les visages sont laids auprès du vôtre. </s>
 </p>
-<stage>Bas, à Charlotte.</stage>
+<stage type="toward/mezzo voce">Bas, à Charlotte.</stage>
 <p id='59'>
 	<s id='1'>On ne peut plus souffrir les autres quand on vous a vue. </s>
 	<s id='2'>J'ai un petit ordre à donner, je viens vous retrouver dans un quart d'heure. </s>
@@ -1676,7 +1676,7 @@
 <p id='64'>
 	<s id='1'>Mon maître est un fourbe, il n'a dessein que de vous abuser, et en a bien abusé d'autres, c'est l'épouseur du genre humain, et... </s>
 </p>
-<stage>Il aperçoit Don Juan.</stage>
+<stage type="[N/A]">Il aperçoit Don Juan.</stage>
 <p id='65'>
 	<s id='1'>Cela est faux ; et quiconque vous dira cela, vous lui devez dire qu'il en a menti. </s>
 	<s id='2'>Mon maître n'est point l'épouseur du genre humain, il n'est point fourbe, il n'a pas dessein de vous tromper, et n'en a point abusé d'autres. </s>
@@ -1949,7 +1949,7 @@
 	<s id='1'>Que vois-je là, un homme attaqué par trois autres ? </s>
 	<s id='2'>La Partie est trop inégale, et je ne dois pas souffrir cette lâcheté.</s>
 </p>
-<stage>Il court au lieu du combat.</stage>
+<stage type="[N/A]">Il court au lieu du combat.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Don Juan, Don Carlos, Sganarelle. </head>
@@ -2256,7 +2256,7 @@
 	<s id='1'>Au contraire, c'est une visite dont je lui veux faire civilité, et qu'il doit recevoir de bonne grâce, s'il est galant homme. </s>
 	<s id='2'>Allons, entrons dedans. </s>
 </p>
-<stage>Le tombeau s'ouvre, où l'on voit un superbe mausolée et la statue du Commandeur.</stage>
+<stage type="[N/A]">Le tombeau s'ouvre, où l'on voit un superbe mausolée et la statue du Commandeur.</stage>
 </sp>
 <sp who='SGANARELLE'><speaker>SGANARELLE.</speaker>
 <p id='20'>
@@ -2326,7 +2326,7 @@
 	<s id='3'>Je ris de ma sottise, mais c'est mon maître qui me la fait faire. </s>
 	<s id='4'>Seigneur Commandeur, mon maître Don Juan vous demande si vous voulez lui faire l'honneur de venir souper avec lui. </s>
 </p>
-<stage>La Statue baisse la tête.</stage> 
+<stage type="[N/A]">La Statue baisse la tête.</stage> 
 <p id='31'>
 	<s id='1'>Ha ! </s>
 </p>
@@ -2381,7 +2381,7 @@
 	<s id='1'>Viens, maraud, viens, je te veux bien faire toucher au doigt ta poltronnerie, prends garde. </s>
 	<s id='3'>Le Seigneur Commandeur voudrait-il venir souper avec moi ? </s>
 </p>
-<stage>La Statue baisse encore la tête.</stage>
+<stage type="[N/A]">La Statue baisse encore la tête.</stage>
 </sp>
 <sp who='SGANARELLE'><speaker>SGANARELLE.</speaker>
 <p id='38'>
@@ -2740,7 +2740,7 @@
 	<s id='1'>Monsieur, il n'est pas nécessaire, et je m'en irai bien tout seul. </s>
 	<s id='2'>Mais... </s>
 </p>
-<stage>Sganarelle ôte les sièges promptement.</stage>
+<stage type="[N/A]">Sganarelle ôte les sièges promptement.</stage>
 </sp>
 <sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 <p id='51'>
@@ -2778,7 +2778,7 @@
 <p id='57'>
 	<s id='1'>Embrassez-moi donc, s'il vous plaît, je vous prie encore une fois d'être persuadé que je suis tout à vous, et qu'il n'y a rien au monde que je ne fisse pour votre service. </s>
 </p>
-<stage>Il sort.</stage>
+<stage type="exit">Il sort.</stage>
 </sp>
 <sp who='SGANARELLE'><speaker>SGANARELLE.</speaker>
 <p id='58'>
@@ -2929,7 +2929,7 @@
 <p id='5'>
 	<s id='1'>Non, insolent, je ne veux point m'asseoir, ni parler davantage, et je vois bien que toutes mes paroles ne font rien sur ton âme ; mais sache, fils indigne, que la tendresse paternelle est poussée à bout par tes actions, que je saurai, plus tôt que tu ne penses, mettre une borne à tes dérèglements, prévenir sur toi le courroux du Ciel, et laver par ta punition la honte de t'avoir fait naître. </s>
 </p>
-<stage>Il sort.</stage>
+<stage type="exit">Il sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Don Juan, Sganarelle.</head>
@@ -2938,7 +2938,7 @@
 	<s id='1'>Eh, mourez le plus tôt que vous pourrez, c'est le mieux que vous puissiez faire. </s>
 	<s id='3'>Il faut que chacun ait son tour, et j'enrage de voir des pères qui vivent autant que leurs fils. </s>
 </p>
-<stage>Il se met dans son fauteuil.</stage>
+<stage type="[N/A]">Il se met dans son fauteuil.</stage>
 </sp>
 <sp who='SGANARELLE'><speaker>SGANARELLE.</speaker>
 <p id='2'>
@@ -2968,7 +2968,7 @@
 	<s id='4'>Cela se peut-il souffrir à un homme comme vous, qui savez comme il faut vivre ? </s>
 	<s id='5'>J'admire votre patience ; et si j'avais été en votre place, je l'aurais envoyé promener. </s>
 </p>
-<stage>[À part.]</stage>
+<stage type="[N/A]">[À part.]</stage>
 <p id='7'>
 	<s id='1'>Ô complaisance maudite ! </s>
 	<s id='2'>À quoi me réduis-tu ? </s>
@@ -3118,7 +3118,7 @@
 	<s id='1'>Rien. </s>
 	<s id='2'>Voilà le souper. </s>
 </p>
-<stage>Il prend un morceau d'un des plats qu'on apporte et le met dans sa bouche.</stage>
+<stage type="[N/A]">Il prend un morceau d'un des plats qu'on apporte et le met dans sa bouche.</stage>
 </sp>
 <sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 <p id='11'>
@@ -3155,13 +3155,13 @@
 	<s id='1'>Je le crois bien, Monsieur, je n'ai point mangé depuis ce matin. </s>
 	<s id='2'>Tâtez de cela, voilà qui est le meilleur du monde. </s>
 </p>
-<stage>Un laquais ôte les assiettes de Sganarelle d'abord qu'il y a dessus à manger.</stage>
+<stage type="[N/A]">Un laquais ôte les assiettes de Sganarelle d'abord qu'il y a dessus à manger.</stage>
 <p id='17'>
 	<s id='1'>Mon assiette, mon assiette. </s>
 	<s id='2'>Tout doux, s'il vous plaît. </s>
 	<s id='3'>Vertubleu, petit compère, que vous êtes habile à donner des assiettes nettes, et vous, petit la Violette, que vous savez présenter à boire à propos ! </s>
 </p>
-<stage>Pendant qu'un laquais donne à boire à Sganarelle, l'autre laquais ôte encore son assiette.</stage>
+<stage type="[N/A]">Pendant qu'un laquais donne à boire à Sganarelle, l'autre laquais ôte encore son assiette.</stage>
 </sp>
 <sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 <p id='18'>
@@ -3210,7 +3210,7 @@
 <p id='1'>
 	<s id='1'>Une chaise et un couvert, vite donc. </s>
 </p>
-<stage>À Sganarelle.</stage> 
+<stage type="toward">À Sganarelle.</stage> 
 <p id='2'>
 	<s id='1'>Allons, mets-toi à table. </s>
 </p>
@@ -3570,7 +3570,7 @@
 <p id='5'>
 	<s id='1'>Spectre, Fantôme, ou Diable, je veux voir ce que c'est. </s>
 </p>
-<stage>Le Spectre change de figure et représente le Temps avec sa faux à la main.</stage>
+<stage type="[N/A]">Le Spectre change de figure et représente le Temps avec sa faux à la main.</stage>
 </sp>
 <sp who='SGANARELLE'><speaker>SGANARELLE.</speaker>
 <p id='6'>
@@ -3582,7 +3582,7 @@
 <p id='7'>
 	<s id='1'>Non, non, rien n'est capable de m'imprimer de la terreur, et je veux éprouver avec mon épée si c'est un corps ou un esprit. </s>
 </p>
-<stage>Le Spectre s'envole dans le temps que Don Juan le veut frapper.</stage>
+<stage type="[N/A]">Le Spectre s'envole dans le temps que Don Juan le veut frapper.</stage>
 </sp>
 <sp who='SGANARELLE'><speaker>SGANARELLE.</speaker>
 <p id='8'>
@@ -3626,7 +3626,7 @@
 	<s id='1'>Ô Ciel, que sens-je ? </s>
 	<s id='2'>Un feu invisible me brûle, je n'en puis plus, et tout mon corps devient un brasier ardent, ah ! </s>
 </p>
-<stage>Le tonnerre tombe avec un grand bruit et de grands éclairs sur Don Juan ; la terre s'ouvre et l'abîme ; et il sort de grands feux de l'endroit où il est tombé.</stage>
+<stage type="noise/fall/die">Le tonnerre tombe avec un grand bruit et de grands éclairs sur Don Juan ; la terre s'ouvre et l'abîme ; et il sort de grands feux de l'endroit où il est tombé.</stage>
 </sp>
 <sp who='SGANARELLE'><speaker>SGANARELLE.</speaker>
 <p id='7'>

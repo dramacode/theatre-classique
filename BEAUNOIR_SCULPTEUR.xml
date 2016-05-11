@@ -61,9 +61,9 @@
 	</front>
 <body>
 <div1 type="act" n='1'><head>ACTE I</head>
-<stage>Le théâtre représente un atelier de sculpteur.</stage>
+<stage type="decor">Le théâtre représente un atelier de sculpteur.</stage>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Madame Caquet, Suzanne.</head>
-<stage>Au lever de la toile, Susanne est occupée à peindre.</stage>
+<stage type="action">Au lever de la toile, Susanne est occupée à peindre.</stage>
 <sp who='MADAME CAQUET'><speaker>MADAME CAQUET.</speaker>
 <p id="1">
 	<s id="1">Tenez, ma voisine, voilà une lettre que vient de me remettre pour vous le facteur de la petite poste.</s>
@@ -273,7 +273,7 @@
 	<s id='3'>Le vin éteint la raison et le talent, abrutit l'homme, et le mène de l'inconduite aux bassesses, des bassesses au vice, du vice au crime. </s>
 	<s id='4'>Adieu, ma chère voisine ; je suis charmée de vous savoir heureuse.</s>
 </p>
-<stage>Elle sort.</stage>
+<stage type="exit">Elle sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II.</head>
@@ -286,7 +286,7 @@
 	<s id='5'>Eh ! </s>
 	<s id='6'>Qui donc prendra soin de sa réputation, si ce n'est son épouse ?</s>
 </p>
-<stage>Elle se remet à peindre.</stage>
+<stage type="[N/A]">Elle se remet à peindre.</stage>
 <p id="2">
 	<s id="1">Que sont devenus ces premiers moments, ces moments si doux de notre union ! </s>
 	<s id='2'>Mon époux n'était alors occupé que de moi, il ne me dérobait que les moments qu'il donnait à son ouvrage ; il le néglige aujourd'hui, pour se livrer tout entier aux plaisirs de la société. </s>
@@ -592,7 +592,7 @@
 	<s id="1">Je voudrois aussi plus de passions dans les yeux ; plus de volupté dans la bouche ; la tête plus penchée. </s>
 	<s id='2'>Tenez, voyez....</s>
 </p>
-<stage>Il chantonne avec une expression outrée.</stage>
+<stage type="[N/A]">Il chantonne avec une expression outrée.</stage>
 	<l id='1'>Je n'ai point trouvé de cruelles.</l>
 	<l id='2'>Et je n'en trouverai jamais,</l>
 	<l id='3'>Et je n'en trouverai jamais.</l>
@@ -673,7 +673,7 @@
 	<s id="1">Très volontiers. </s>
 	<s id='2'>C'est un rien ; mais vous en serez contente.</s>
 </p>
-<stage>Il lit.</stage>
+<stage type="read">Il lit.</stage>
 	<l id='4'>Je n'irai pas au Temple de Mémoire,</l>
 	<l id='5'>Le front ceint du laurier de l'Immortalité;</l>
 	<l id='6'>J'ai connu le bonheur, l'amour, la volupté.</l>
@@ -877,7 +877,7 @@
 	<s id="1">C'est Mademoiselle des Brisées, la nouvelle Danseuse de l'Opéra. </s>
 	<s id='2'>Tout le monde connoît ça.</s>
 </p>
-<stage>Haut à Mademoiselle des Brisées.</stage>
+<stage type="forte">Haut à Mademoiselle des Brisées.</stage>
 <p id='26'>
 	<s id='1'>Vous allez nous faire un cadeau ?</s>
 </p>
@@ -1169,7 +1169,7 @@
 	<s id='1'>Je ferai mon possible... </s>
 	<s id='2'>Serviteur Madame le Doux. </s>
 </p>
-<stage>Il sort avec Mademoiselle des Brisées.</stage>
+<stage type="exit">Il sort avec Mademoiselle des Brisées.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='-'><head>SCÈNE VI. Le Doux, Susanne.</head>
@@ -1568,7 +1568,7 @@
 	<s id="1">Très volontiers. </s>
 	<s id='2'>J'aime à rester où je suis.</s>
 </p>
-<stage>Susanne, en partant, embrasse son mari.</stage>
+<stage type="[N/A]">Susanne, en partant, embrasse son mari.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='8'><head>SCÈNE VIII. Le Doux, Bécarre.</head>
@@ -1591,7 +1591,7 @@
 <p id="4">
 	<s id="1">Bien volontiers.</s>
 </p>
-<stage>Ils boivent.</stage>
+<stage type="[N/A]">Ils boivent.</stage>
 </sp>
 <sp who="BÉCARRE"><speaker>BÉCARRE.</speaker>
 <p id="5">
@@ -1633,7 +1633,7 @@
 <p id="12">
 	<s id="1">Tope.</s>
 </p>
-<stage>Ils boivent.</stage>
+<stage type="[N/A]">Ils boivent.</stage>
 </sp>
 <sp who="BÉCARRE"><speaker>BÉCARRE.</speaker>
 <p id="13">
@@ -1680,7 +1680,7 @@
 	<s id="1">C'est ça. </s>
 	<s id='2'>À ta santé.</s>
 </p>
- <stage>Ils boivent.</stage>
+ <stage type="[N/A]">Ils boivent.</stage>
 </sp>
 <sp who='LE DOUX'><speaker>LE DOUX.</speaker>
 <p id="22">
@@ -2060,7 +2060,7 @@
 <p id='30'>
 	<s id='1'>Ma lettre a eu son effet...</s>
 </p>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 <p id='31'>
 	<s id='1'>On te menace de te l'enlever ? </s>
 	<s id='2'>Le Comte d'Artiphile ?</s>
@@ -2177,14 +2177,14 @@
 <p id='52'>
 	<s id='1'>Je le tiens.</s>
 </p>
-<stage>Il sort avec le Doux et Bécarre. </stage>
+<stage type="exit">Il sort avec le Doux et Bécarre. </stage>
 </sp>
 </div2>
 </div1>
 <div1 type="act" n='2'><head>ACTE II</head>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE.</head>
 <sp who='SUSANNE'><speaker>SUSANNE, seule.</speaker>
-<stage>Une Pendule sonne sept heures.</stage>
+<stage type="[N/A]">Une Pendule sonne sept heures.</stage>
 <p id='1'>
 	<s id='1'>Sept heures!... </s>
 	<s id='2'>Et Le Doux n'est pas encore rentré : la nuit entière est passée, et Le Doux n'est pas revenu. </s>
@@ -2192,7 +2192,7 @@
 	<s id='4'>Si l'incertitude en est cruelle, la certitude en est affreuse ; pourvu du moins qu'il ne lui soit rien arrivé de fâcheux. </s>
 	<s id='5'>Je succombe à la peine, et mes yeux se refusent au sommeil...</s>
 </p>
-<stage>Regardant la Barcelonette.</stage>
+<stage type="[N/A]">Regardant la Barcelonette.</stage>
 <p id='1'>
 	<s id='1'>Dors encore, dors, mon enfant, n'accrois pas mes maux par tes cris ; hélas ! </s>
 	<s id='2'>Ta pauvre mère a bien assez de sa douleur !</s>
@@ -2246,7 +2246,7 @@
 <p id="8">
 	<s id="1">Je vais porter de l'ouvrage au Faubourg Saint-Honoré.</s>
 </p>
-<stage>À part.</stage>
+<stage type="aparte">À part.</stage>
 <p id='9'>
 	<s id='1'>Je ne sais ce que je dis.</s>
 </p>
@@ -2543,7 +2543,7 @@
 <p id="12">
 	<s id="1">Je me fais honte à moi-même...</s>
 </p>
-<stage>Il rentre dans sa chambre, Susanne se prépare à l'accompagner, il la repousse.</stage>
+<stage type="[N/A]">Il rentre dans sa chambre, Susanne se prépare à l'accompagner, il la repousse.</stage>
 <p id='13'>
 	<s id='1'>Ne me suivez pas.</s>
 </p>
@@ -2577,7 +2577,7 @@
 	<s id="1">Cela suffit. </s>
 	<s id='2'>Restez à roucouler douloureusement auprès d'un époux si tendre, si rangé ; vous méritez bien ce qui vous arrive.</s>
 </p>
-<stage>Elle sort.</stage>
+<stage type="exit">Elle sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. SUSANNE, DU CISEAU, BÉCARRE.</head>
@@ -2687,7 +2687,7 @@
 	<s id='3'>Le Doux aime la petite goutte, eh bien ! </s>
 	<s id='4'>Il saut en tirer vengeance, mais une vengeance plus douce, plus usitée : vous êtes charmante, je vous aime de tout mon cœur, et si vous voulez...</s>
 </p>
-<stage>Il s'avance pour l'embrasser, Susanne le repousse fièrement ; et comme il est réellement gris, il trébuche, et tombe à demi aux pieds de la statue de Minerve.</stage>
+<stage type="[N/A]">Il s'avance pour l'embrasser, Susanne le repousse fièrement ; et comme il est réellement gris, il trébuche, et tombe à demi aux pieds de la statue de Minerve.</stage>
 </sp>
 <sp who='SUSANNE'><speaker>SUSANNE.</speaker>
 <p id="20">
@@ -2728,7 +2728,7 @@
 <p id="26">
 	<s id="1">Moi, Madame ?</s>
 </p>
-<stage>On entend du bruit, etc.</stage>
+<stage type="noise">On entend du bruit, etc.</stage>
 </sp>
 <sp who='SUSANNE'><speaker>SUSANNE.</speaker>
 <p id="27">
@@ -2736,7 +2736,7 @@
 	<s id='2'>Ciel ! </s>
 	<s id='3'>Mon mari serait-il blessé ?</s>
 </p>
-<stage>Elle sort.</stage>
+<stage type="exit">Elle sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Bécarre, Du Ciseau.</head>
@@ -2744,7 +2744,7 @@
 <p id="1">
 	<s id="1">Tu m'as démasqué, mais trop tard : tous les coups sont portés ; Le Doux ne s'en relèvera pas, et je vais triompher.</s>
 </p>
-<stage>Regardant la statue aux pieds de laquelle Bécarre est resté, et l'admirant.</stage>
+<stage type="[N/A]">Regardant la statue aux pieds de laquelle Bécarre est resté, et l'admirant.</stage>
 <p id='2'>
 	<s id='1'>Qu'elle est belle ! </s>
 </p>
@@ -2970,7 +2970,7 @@
 <p id="13">
 	<s id="1">Ce qu'on me marque, n'est donc que trop véritable.</s>
 </p>
-<stage>Haut regardant la Statue.</stage>
+<stage type="forte">Haut regardant la Statue.</stage>
 <p id="14">
 	<s id="1">Quel dommage, que tant de talents soient perdus pour jamais !</s>
 </p>
@@ -3006,7 +3006,7 @@
 <p id='20'>
 	<s id='1'>C'est ce qu'on me marque...</s>
 </p>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 <p id='21'>
 	<s id='1'>Vous aimez la sculpture ?</s>
 </p>
@@ -3084,11 +3084,11 @@
 	<s id="1">Eh bien ! </s>
 	<s id='2'>Donne-moi le bras.</s>
 </p>
-<stage>Au Comte.</stage>
+<stage type="toward">Au Comte.</stage>
 <p id='36'>
 	<s id='1'>Votre très humble serviteur, Monsieur.</s>
 </p>
-<stage>Ils sortent.</stage>
+<stage type="exit">Ils sortent.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='8'><head>SCÈNE VIII.</head>
@@ -3110,7 +3110,7 @@
 	<s id='2'>Ciel ! </s>
 	<s id='3'>C'est le Comte d'Artiphile lui-même?</s>
 </p>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 <p id="2">
 	<s id="1">Pardon, Monsieur le Comte, j'ignorais que vous fussiez ici. </s>
 	<s id='2'>Y a-t-il longtemps ?</s>

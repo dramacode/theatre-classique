@@ -223,7 +223,7 @@
 <p id='6'>
 	<s id='1'>Je vais le chercher...</s>
 </p>
-<stage>Elle sort.</stage>
+<stage type="exit">Elle sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. </head>
@@ -241,7 +241,7 @@
 	<s id='1'>Je vais l'interroger. </s>
 	<s id='2'>Laissez-nous, Terpsicore : allez rejoindre vos soeurs sur le Parnasse ; elles pourront avoir besoin de votre secours...</s>
 </p>
-<stage>Elle sort.</stage>
+<stage type="exit">Elle sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Apollon, Tomverd.</head>
@@ -775,11 +775,11 @@
 	<s id='1'>Je sais ce que vous voulez dire : il ne sera pas difficile de vous mettre d'accord. </s>
 	<s id='2'>Vous avez raison de la refuser toutes deux, elle n'est </s>
 </p>
-<stage>À Melpomène.</stage>
+<stage type="toward">À Melpomène.</stage>
 <p id='17'>
 	<s id='1'>ni à vous, </s>
 </p>
-<stage>À Thalie.</stage>
+<stage type="toward">À Thalie.</stage>
 <p id='18'>
 	<s id='1'>ni à vous. </s>
 	<s id='2'>Votre soeur Terpsicore aurait plus de droit d'y prétendre... </s>
@@ -930,7 +930,7 @@
 	<s id='3'>Ces ouvrages sauveront assez sa gloire, fit-il encore quatre Opéra comiques... </s>
 	<s id='4'>Allez, faites entrer. </s>
 </p>
-<stage>Aux Muses.</stage> 
+<stage type="toward">Aux Muses.</stage> 
 <p id='26'>
 	<s id='1'>Vous, retournez au Parnasse ; prenez autant de monde qu'il vous en faudra pour résister à l'attaque de ces écrivains qui se sont révoltés. </s>
 	<s id='2'>Ne perdez point de temps, et m'envoyez les plus mutins ; je saurai les mettre à la raison.</s>
@@ -1011,7 +1011,7 @@
 <p id='11'>
 	<s id='1'>Puisque je ne puis rien gagner pour les autres : parlons pour moi.</s>
 </p>
-<stage>Haut. </stage>
+<stage type="forte">Haut. </stage>
 <p id='12'>
 	<s id='1'>Vous voulez, m'a-t'on dit, faire choix d'un portier pour garder le Parnasse ?</s>
 </p>
@@ -1133,7 +1133,7 @@
 <p id='12'>
 	<s id='1'>Voici les enfants les plus chéris que ma plume ait mis au jour.</s>
 </p>
-<stage>Il lit.</stage>
+<stage type="read">Il lit.</stage>
 <p id='13'>
 	<s id='1'>Abbé coquet, ou le papillon de toilette, comédie mêlée d'ariettes. </s>
 </p>
@@ -1182,7 +1182,7 @@
 	<s id='1'>Toutes les Dames en ont déjà fait emplette, et surtout les belles d'Opéra. </s>
 	<s id='2'>Ce livre leur est d'un grand secours.</s>
 </p>
-<stage>Il lit.</stage>
+<stage type="read">Il lit.</stage>
 <p id='22'>
 	<s id='1'>Les leçons d'une Marchande de Mode au bois de Boulogne, farce pour les boulevards. </s>
 </p>
@@ -1221,12 +1221,12 @@
 	<s id='3'>Vous en serez plus puni que moi ; vous aurez un bel esprit de moins dans votre Empire. </s>
 	<s id='4'>Adieu, Seigneur Apollon..;</s>
 </p>
-<stage>Il chante.</stage>
+<stage type="sing">Il chante.</stage>
 <p id='29'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Que l'amour est chose jolie... </s>
 </p>
-<stage>Il rencontre Des Accents.</stage>
+<stage type="[N/A]">Il rencontre Des Accents.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='15'><head>SCÈNE XV. Apollon, L'Abbé, Des Accents.</head>
@@ -1335,7 +1335,7 @@
 <p id='17'>
 	<s id='1'>Ils commencent à m'ennuyer... </s>
 </p>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 <p id='18'>
 	<s id='1'>Messieurs aurez-vous bientôt fini votre conversation ? </s>
 	<s id='2'>Prenez-vous ce Palais pour des foyers de théâtre ?</s>
@@ -1416,7 +1416,7 @@
 	<s id='2'>Allons, mon ami... </s>
 	<s id='3'>Peut-on affliger ce qu'on aime ?</s>
 </p>
-<stage>Ils sortent en chantant.</stage>
+<stage type="exit">Ils sortent en chantant.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='16'><head>SCÈNE XVI. </head>
@@ -1554,7 +1554,7 @@
 <p id='23'>
 	<s id='1'>Je vais vous chercher mon petit recueil.</s>
 </p>
-<stage>Il sort.</stage>
+<stage type="exit">Il sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='18'><head>SCÈNE XVIII. </head>
@@ -1655,7 +1655,7 @@
 <p id='8'>
 	<s id='1'>Elle est familière... </s>
 </p>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 <p id='9'>
 	<s id='1'>Quel est le sujet qui vous amène ici, ma chère enfant ? </s>
 </p>
@@ -1721,12 +1721,12 @@
 <p id='19'>
 	<s id=''>Ce qu'il a fait...</s>
 </p>
-<stage>Elle pleure.</stage>
+<stage type="cry">Elle pleure.</stage>
 <p id='20'>
 	<s id='1'>Un jour que j'allais vendre mes bouquets au marché, je rencontrai ce misérable... </s>
 	<s id='2'>Il me proposa d'entrer dans un cabaret pour nous rafraîchir ; j'eus la faiblesse d'y consentir, il me priait de « si bonne grace... »</s>
 </p>
-<stage>Elle pleure.</stage>
+<stage type="cry">Elle pleure.</stage>
 <p id='21'>
 	<s id='1'>Ah, ah, ah. </s>
 </p>
@@ -1769,7 +1769,7 @@
 	<s id='3'>Tout mon amour se change en fureur... </s>
 	<s id='4'>Voilà pour t'apprendre à parler. »</s>
 </p>
-<stage>Elle lui donne un souflet.</stage>
+<stage type="[N/A]">Elle lui donne un souflet.</stage>
 </sp>
 <sp who='TRANCHET'><speaker>TRANCHET.</speaker>
 <p id='29'>
@@ -1801,7 +1801,7 @@
 	<s id='1'>Tout m'en veut, tout m'abandonne... </s>
 	<s id='2'>« Puisque c'est ainsi, je renonce au monde, et dès demain, je cours me faire misanthrophe. »</s>
 </p>
-<stage>Il sort.</stage>
+<stage type="exit">Il sort.</stage>
 </sp>
 <sp who='MADEMOISELLE-GIROFLÉE'><speaker>MADEMOISELLE GIROFLÉE</speaker>
 <p id='34'>
@@ -1890,11 +1890,11 @@
 	<s id='1'>Voici la première qui s'est donnée sur mon théâtre : c'est une petite scène entre Marcel et moi. </s>
 	<s id='2'>Il arrive d'un air chagrin ; je lui en demande la raison. </s>
 </p>
-<stage>L'acteur doit parler comme Polichinelle.</stage>
+<stage type="[N/A]">L'acteur doit parler comme Polichinelle.</stage>
 <p id='15'>
 	<s id='1'>Pourquoi parais-tu si triste ?...</s>
 </p>
-<stage>Il change de voix.</stage>
+<stage type="[N/A]">Il change de voix.</stage>
 <note type="L">Bûche : gros bois dont on se chauffe. On appelle figurément un homme stupide, une grosse bûche.</note>
 <p id='16'>
 	<s id='1'>Te le dirai-je, mon ami, je viens d'être réformé... </s>
@@ -1990,7 +1990,7 @@
 	<s id='2'>J'abandonne le soin de mon Empire à qui voudra s'en charger ; puisque tout le monde veut être auteur, je ne me mêle plus de rien. </s>
 	<s id='3'>Je ne mettrai point le pied sur le Parnasse tant que les comédies mêlées d'ariettes seront à la mode.</s> 
 </p>
-<stage>Aux Muses.</stage>
+<stage type="toward">Aux Muses.</stage>
 <p id='29'>
 	<s id='1'>Vous aurez le soin d'en faire autant jusqu'à ce que le bon goût ait fait tomber ces piéces chantantes.</s>
 </p>

@@ -91,7 +91,7 @@
 	<l id='11'>Et vous en prétendez donner effrontément</l>
 	<l id='12'>Une en trois actes seulement !</l>
 	<l id='13'>Fi, fi, c'est une extravagance.</l>
-<stage>Au public.</stage>
+<stage type="toward">Au public.</stage>
 	<l id='14'>M'en croirez-vous, messieurs ? Reprenez votre argent</l>
 	<l id='15'>Avant que la pièce commence.</l>
 </sp>
@@ -894,10 +894,10 @@
 <note>Gourmade : coup de poing donné en se battant. [F]</note>
 	<l id='504'>Vous, la belle, attraper quelque gourmade aussi.</l>
 	<l id='505' part='i'>Taisez-vous, s'il vous plaît.</l>
-<stage>À part.</stage>
+<stage type="aparte">À part.</stage>
 	<l id='505' part='f'>Pour punir son audace,</l>
 	<l id='506'>Il faut que de chez moi sur-le-champ je la chasse.</l>
-<stage>À Lisette.</stage>
+<stage type="toward">À Lisette.</stage>
 	<l id='507' part='i'>Qu'on sorte de ce pas.</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE, feignant de pleurer.</speaker>
@@ -931,16 +931,16 @@
 	<l id='523'>Oui ! Puisqu'il est ainsi, je change de désir,</l>
 	<l id='524'>Et je ne prétends pas te donner ce plaisir :</l>
 	<l id='525'>Tu resteras ici pour faire pénitence.</l>
-<stage>À Agathe.</stage>
+<stage type="toward">À Agathe.</stage>
 	<l id='526'>Et vous, sans raisonner, rentrez en diligence.</l>
-<stage>Agathe rentre en faisant la révérence, Lisette en fait autant ; Albert la retient, et continue.</stage>
+<stage type="action">Agathe rentre en faisant la révérence, Lisette en fait autant ; Albert la retient, et continue.</stage>
 	<l id='527'>Demeure, toi ; je veux te parler sans témoins.</l>
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Albert, Lisette.</head>
 <sp who='ALBERT'><speaker>ALBERT, à part.</speaker>
 	<l id='528'>Il faut l'amadouer ; j'ai besoin de ses soins.</l>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 	<l id='529'>Allons, faisons la paix, vivons d'intelligence ;</l>
 	<l id='530'>Je t'aime dans le fond, et plus que l'on ne pense.</l>
 </sp>
@@ -1153,10 +1153,10 @@
 </sp>
 <sp who='ALBERT'><speaker>ALBERT.</speaker>
 	<l id='643' part='i'>Voilà bien des métiers !</l>
-<stage>À part.</stage>
+<stage type="aparte">À part.</stage>
 	<l id='643' part='f'>Du bas jusques en haut,</l>
 	<l id='644'>Cet homme me paraît avoir l'air d'un maraud.</l>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 	<l id='645' part='i'>Que faites-vous ici ? Parlez.</l>
 </sp>
 <sp who='CRISPIN'><speaker>CRISPIN.</speaker>
@@ -1264,7 +1264,7 @@
 </sp>
 <sp who='CRISPIN'><speaker>CRISPIN, à part.</speaker>
 	<l id='695'>Cet homme n'aime pas les conversations.</l>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 	<l id='696'>Pour finir en un mot toutes mes questions,</l>
 	<l id='697'>Je pars ; et dites-moi quelle heure il pourrait être.</l>
 </sp>
@@ -1472,7 +1472,7 @@
 	<l id='828'>On me vient tous les jours proposer des partis</l>
 	<l id='829'>Qui paraissent pour moi d'un très grand avantage :</l>
 	<l id='830'>Mais je réponds toujours qu'un autre amour m'engage ;</l>
-<stage>à Agathe.</stage>
+<stage type="toward">À Agathe.</stage>
 	<l id='831'>Que mon coeur, prévenu de ta rare beauté,</l>
 	<l id='832'>Pour toi seule soupire, et que, de ton côté,</l>
 	<l id='833' part='i'>Tu n'adores que moi.</l>
@@ -1556,11 +1556,11 @@
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCENE III. Éraste, Albert, Agathe, Lisette, Crispin.</head>
-<stage>Éraste entre comme un homme qui se promène. Il aperçoit Albert, et le salue.</stage>
+<stage type="entrance">Éraste entre comme un homme qui se promène. Il aperçoit Albert, et le salue.</stage>
 <sp who='ALBERT'><speaker>ALBERT, à part.</speaker>
 	<l id='865'>Quel triste contre-temps dans cette conjoncture !</l>
 	<l id='866'>Au diable le fâcheux, et sa sotte figure !</l>
-<stage>Haut, à Éraste.</stage>
+<stage type="forte">Haut, à Éraste.</stage>
 	<l id='867'>Souhaitez-vous, monsieur, quelque chose de moi ?</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE, bas, à Agathe.</speaker>
@@ -1568,7 +1568,7 @@
 </sp>
 <sp who='AGATHE'><speaker>AGATHE, bas.</speaker>
 	<l id='868' part='f'>Paix donc, je le vois mieux que toi.</l>
-<stage>Éraste continue à saluer.</stage>
+<stage type="action">Éraste continue à saluer.</stage>
 </sp>
 <sp who='ALBERT'><speaker>ALBERT.</speaker>
 	<l id='869'>À quoi servent, monsieur, les façons que vous faites ?</l>
@@ -1626,7 +1626,7 @@
 <sp who='ALBERT'><speaker>ALBERT.</speaker>
 	<l id='902'>Puisque de babiller vous avez tant d'envie,</l>
 	<l id='903'>Je vais vous écouter avec attention.</l>
-<stage>à Agathe et à Lisette.</stage>
+<stage type="toward">À Agathe et à Lisette.</stage>
 	<l id='904' part='i'>Rentrez, rentrez.</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
@@ -1647,7 +1647,7 @@
 </sp>
 <sp who='ALBERT'><speaker>ALBERT.</speaker>
 	<l id='910' part='f'>Que de cérémonie !</l>
-<stage>Agathe rentre.</stage>
+<stage type="exit">Agathe rentre.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Albert, Lisette, éraste, Crispin.</head>
@@ -1676,7 +1676,7 @@
 	<l id='923'>Je ne veux point sitôt rentrer dans le logis,</l>
 	<l id='924'>Pour donner tout le temps que les barreaux soient mis.</l>
 	<l id='925'>Leurs plaintes et leurs cris me toucheraient peut-être.</l>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 	<l id='926'>Çà, de quoi s'agit-il ? Parlez, vous voilà maître :</l>
 	<l id='927' part='i'>Mais surtout soyez bref.</l>
 </sp>
@@ -1883,7 +1883,7 @@
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 	<l id='1044'>Qui le sait mieux que moi ? Ne vous l'ai-je pas dit ?</l>
-<stage>Agathe chante un petit prélude.</stage>
+<stage type="sing">Agathe chante un petit prélude.</stage>
 </sp>
 <sp who='CRISPIN'><speaker>CRISPIN.</speaker>
 	<l id='1045'>Ce qui m'en plaît, monsieur, sa folie est gaillarde.</l>
@@ -1893,7 +1893,7 @@
 </sp>
 <sp who='AGATHE'><speaker>AGATHE.</speaker>
 	<l id='1047' part='i'>J'aime les gens de l'art.</l>
-<stage>Elle présente une main à Albert qu'elle secoue rudement, et laisse baiser l'autre à Éraste.</stage>
+<stage type="action">Elle présente une main à Albert qu'elle secoue rudement, et laisse baiser l'autre à Éraste.</stage>
 	<l id='1047' part='f'>Touchez là, touchez là.</l>
 	<l id='1048'>L'air que vous entendez est fait en a mi la ; </l>
 	<l id='1049'>C'est mon ton favori : la musique en est vive,</l>
@@ -1925,14 +1925,14 @@
 	<l id='1067'>Les cheveux à la tête en dresseront d'horreur...</l>
 	<l id='1068'>Ne troublez pas le dieu qui me met en fureur.</l>
 	<l id='1069'>Je sens qu'en tons heureux ma verve se dégorge.</l>
-<stage>Elle tousse beaucoup, et crache au nez d'Albert.</stage>
+<stage type="action">Elle tousse beaucoup, et crache au nez d'Albert.</stage>
 	<l id='1070'>Pouah ! C'est un diésis que j'avais dans la gorge.</l>
 	<l id='1071'>Or donc, dans le duo dont il est question,</l>
 	<l id='1072'>Vous y verrez du vif et de la passion :</l>
 	<l id='1073'>Je réussis des mieux et dans l'un et dans l'autre.</l>
-<stage>Elle donne un papier de musique à Albert, et une lettre à Éraste.</stage>
+<stage type="action">Elle donne un papier de musique à Albert, et une lettre à Éraste.</stage>
 	<l id='1074'>Voilà votre partie ; et vous, voilà la vôtre.</l>
-<stage>Elle tousse pour se préparer à chanter.</stage>
+<stage type="action">Elle tousse pour se préparer à chanter.</stage>
 </sp>
 <sp who='CRISPIN'><speaker>CRISPIN.</speaker>
 	<l id='1075'>Écartons-nous un peu ; je crains les diésis.</l>
@@ -1962,7 +1962,7 @@
 <sp who='AGATHE'><speaker>AGATHE.</speaker>
 	<l id='1083'>Çà, comptez bien vos temps, pour partir ; cette fois</l>
 	<l id='1084'>C'est vous qui commencez. Allons, vite : un, deux, trois.</l>
-<stage>Elle donne un coup du papier dont elle bat la mesure sur la tête d'Albert, et frappe du pied sur le sien avec colère.</stage>
+<stage type="action">Elle donne un coup du papier dont elle bat la mesure sur la tête d'Albert, et frappe du pied sur le sien avec colère.</stage>
 	<l id='1085'>Partez donc, partez donc, musicien barbare,</l>
 	<l id='1086'>Ignorant par nature, ainsi que par bécarre.</l>
 	<l id='1087'>Quelle rauque grenouille, au milieu de ses joncs,</l>
@@ -2008,7 +2008,7 @@
 <sp who='CRISPIN'><speaker>CRISPIN.</speaker>
 	<l id='1108'>Une fugue, en musique, est un morceau bien fort,</l>
 	<l id='1109' part='i'>Et qui coûte beaucoup.</l>
-<stage>Bas à Agathe.</stage>
+<stage type="toward/mezzo voce">Bas, à Agathe.</stage>
 <note>Double : petite monnaie de cuivre valant deux deniers. Il sert à éxagérer la pauvreté. (Dict. Furetière)</note>
 	<l id='1109' part='f'>Nous n'avons pas un double.</l>
 </sp>
@@ -2032,7 +2032,7 @@
 	<l id='1122'>L'uccelletto si salverà :</l>
 	<l id='1123'>Ut re mi ; re mi fa ;</l>
 	<l id='1124'>Mi fa sol, fa sol la.</l>
-<stage>Elle sort en chantant et en dansant autour d'Éraste.</stage>
+<stage type="exit">Elle sort en chantant et en dansant autour d'Éraste.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='8'><head>SCÈNE VIII. Albert, Lisette, éraste, Crispin.</head>
@@ -2045,7 +2045,7 @@
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 	<l id='1127'>Ma pauvre maîtresse ! Ah ! J'ai le coeur si saisi !</l>
 	<l id='1128'>Je crois que je m'en vais devenir folle aussi.</l>
-<stage>Elle sort en chantant et en dansant autour de Crispin.</stage>
+<stage type="exit">Elle sort en chantant et en dansant autour de Crispin.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='10'><head>SCÈNE X. Éraste, Crispin.</head>
@@ -2150,7 +2150,7 @@
 <sp who='ALBERT'><speaker>ALBERT.</speaker>
 	<l id='1163'>Pourrez-vous, sans pitié, voir éteindre les jours</l>
 	<l id='1164'>D'un objet si charmant, sans lui donner secours ?</l>
-<stage>À Éraste.</stage>
+<stage type="toward">À Éraste.</stage>
 	<l id='1165' part='i'>Monsieur, parlez pour moi.</l>
 </sp>
 <sp who='ERASTE'><speaker>ÉRASTE.</speaker>
@@ -2159,7 +2159,7 @@
 </sp>
 <sp who='CRISPIN'><speaker>CRISPIN.</speaker>
 	<l id='1167'>J'immole encor pour vous tout mon ressentiment.</l>
-<stage>À Albert.</stage>
+<stage type="toward">À Albert.</stage>
 	<l id='1168'>Oui, je veux la guérir, et radicalement.</l>
 </sp>
 <sp who='ALBERT'><speaker>ALBERT.</speaker>
@@ -2235,7 +2235,7 @@
 	<l id='1204'>Je vais, je viens, je cours ; tout accroît mon tourment.</l>
 	<l id='1205'>Près d'elle, mon esprit, comme le sien, se trouble ;</l>
 	<l id='1206'>Son accès de folie à chaque instant redouble.</l>
-<stage>À Éraste.</stage>
+<stage type="toward">À Éraste.</stage>
 	<l id='1207'>Ah ! Monsieur, suis-je assez au rang de vos amis,</l>
 	<l id='1208'>Pour m'aider du secours que vous m'avez promis ?</l>
 	<l id='1209'>Cet homme qui tantôt m'a vanté sa science,</l>
@@ -2406,7 +2406,7 @@
 </sp>
 <sp who='ALBERT'><speaker>ALBERT, bas.</speaker>
 	<l id='1302'>Il est vrai qu'à l'instant je pourrai lui reprendre.</l>
-<stage>Haut, à Agathe.</stage>
+<stage type="forte">Haut, à Agathe.</stage>
 	<l id='1303'>Tiens, voilà cet argent : va, puissent au procès</l>
 	<l id='1304'>Ces cent louis prêtés donner un bon succès !</l>
 </sp>
@@ -2427,7 +2427,7 @@
 	<l id='1311'>Je reviens sur mes pas en habit plus décent,</l>
 	<l id='1312'>Pour aller avec vous, dans ce besoin pressant,</l>
 	<l id='1313'>Solliciter mon juge, et demander justice.</l>
-<stage>À Albert.</stage>
+<stage type="toward">À Albert.</stage>
 	<l id='1314'>Adieu. Qu'un jour le ciel vous rende ce service !</l>
 	<l id='1315'>Qu'une veuve est à plaindre, et qu'elle a de tourments,</l>
 	<l id='1316'>Quand elle a mis au jour de méchants garnements !</l>
@@ -2589,7 +2589,7 @@
 	<l id='1401' part='f'>Morbleu, vive la guerre !</l>
 	<l id='1402'>Je ne puis plus rester inutile sur terre.</l>
 	<l id='1403' part='i'>Mon équipage est prêt.</l>
-<stage>À Éraste.</stage>
+<stage type="toward">À Éraste.</stage>
 	<l id='1403' part='f'>Ah ! Marquis, en ce lieu</l>
 	<l id='1404'>Je te trouve à propos, et viens te dire adieu.</l>
 	<l id='1405'>J'ai trouvé de l'argent pour faire ma campagne ;</l>
@@ -2612,7 +2612,7 @@
 </sp>
 <sp who='ERASTE'><speaker>ÉRASTE.</speaker>
 	<l id='1417'>Partout où vous irez, je suis de la partie.</l>
-<stage>Bas, à Albert.</stage>
+<stage type="toward/mezzo voce">Bas, à Albert.</stage>
 	<l id='1418'>Il faut, avec prudence, entrer dans sa manie.</l>
 </sp>
 <sp who='AGATHE'><speaker>AGATHE.</speaker>
@@ -2627,15 +2627,15 @@
 	<l id='1427'>Ce pauvre sexe meurt et d'amour et d'ennui,</l>
 	<l id='1428'>Sans que je sois tenté de rien faire pour lui.</l>
 	<l id='1429'>Plus de délais : je cours où la gloire m'appelle.</l>
-<stage>À Crispin.</stage>
+<stage type="toward">À Crispin.</stage>
 	<l id='1430'>Amène mes chevaux. L'occasion est belle ;</l>
 	<l id='1431' part='i'>Partons, courons, volons.</l>
-<stage>Éraste parle bas à Agathe.</stage>
+<stage type="toward/mezzo voce">Éraste parle bas à Agathe.</stage>
 </sp>
 <sp who='CRISPIN'><speaker>CRISPIN, à Albert.</speaker>
 	<l id='1431' part='f'>Je ne la quitte pas,</l>
 	<l id='1432'>Et suis prêt à la suivre au milieu des combats.</l>
-<stage>Albert surprend Éraste parlant bas à Agathe.</stage>
+<stage type="action">Albert surprend Éraste parlant bas à Agathe.</stage>
 </sp>
 <sp who='ERASTE'><speaker>ÉRASTE, à Albert.</speaker>
 	<l id='1433'>J'examinais ses yeux. à ce qu'on peut comprendre,</l>
@@ -2654,7 +2654,7 @@
 	<l id='1444'>Frappez. Serrez vos rangs ; percez cet escadron.</l>
 	<l id='1445'>Les coquins n'oseraient soutenir notre vue.</l>
 	<l id='1446'>Ah ! Marauds, vous fuyez ! Non, point de quartier ; tue.</l>
-<stage>Elle tombe comme évanouie dans un fauteuil.</stage>
+<stage type="unconscious">Elle tombe comme évanouie dans un fauteuil.</stage>
 </sp>
 <sp who='CRISPIN'><speaker>CRISPIN.</speaker>
 	<l id='1447'>En peu de temps, voilà bien du sang répandu.</l>
@@ -2664,7 +2664,7 @@
 </sp>
 <sp who='CRISPIN'><speaker>CRISPIN.</speaker>
 	<l id='1449'>Tout se prépare bien ; je la vois qui repose.</l>
-<stage>Il parle à l'écart à Albert, tandis qu'Éraste parle bas à Agathe.</stage>
+<stage type="toward/mezzo voce">Il parle à l'écart à Albert, tandis qu'Éraste parle bas à Agathe.</stage>
 	<l id='1450'>Son mal, à mon avis, ne provient d'autre chose</l>
 	<l id='1451'>Que d'une humeur contrainte, un esprit irrité,</l>
 	<l id='1452'>Qui veut avec effort se mettre en liberté.</l>
@@ -2712,7 +2712,7 @@
 	<l id='1476'>Un genou contre terre, et vous tenez bien là,</l>
 	<l id='1477'>Toujours sur ses beaux yeux votre vue assurée,</l>
 	<l id='1478'>Votre main dans la sienne étroitement serrée.</l>
-<stage>À Albert.</stage>
+<stage type="toward">À Albert.</stage>
 	<l id='1479'>Ne consentez-vous pas qu'il lui donne la main,</l>
 	<l id='1480'>Pour que l'attraction se fasse plus soudain ?</l>
 </sp>
@@ -2722,8 +2722,7 @@
 <sp who='CRISPIN'><speaker>CRISPIN.</speaker>
 	<l id='1481' part='f'>Tant mieux. Sans plus attendre,</l>
 	<l id='1482'>Vous verrez un effet qui pourra vous surprendre.</l>
-<stage>Il fait quelques cercles avec sa baguette sur les deux amants, en disant,</stage>
-	<stage>Microc, salam, hypocrata.</stage>
+<stage type="action">Il fait quelques cercles avec sa baguette sur les deux amants, en disant, Microc, salam, hypocrata.</stage>
 </sp>
 <sp who='AGATHE'><speaker>AGATHE, se levant de son fauteuil.</speaker>
 	<l id='1483'>Ciel ! Quel nuage épais se dissipe à mes yeux !</l>
@@ -2739,7 +2738,7 @@
 	<l id='1487'>Quels abîmes profonds s'entr'ouvrent sous mes pas !</l>
 	<l id='1488'>Quel dragon me poursuit ! Ah ! Traître, tu mourras :</l>
 	<l id='1489'>D'un monstre tel que toi je veux purger le monde.</l>
-<stage>Il poursuit Albert l'épée à la main.</stage>
+<stage type="action/run">Il poursuit Albert l'épée à la main.</stage>
 </sp>
 <sp who='CRISPIN'><speaker>CRISPIN, se mettant au-devant d'Éraste, à Albert.</speaker>
 	<l id='1490'>Ah ! Monsieur, évitez sa rage furibonde.</l>

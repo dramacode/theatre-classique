@@ -53,7 +53,7 @@
 <body>
 <div1 type="act" n='1'><head></head>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE.</head>
-<stage>Le théâtre représente le salon assez modeste d'Arlequin. Il y a le grand fauteuil appelé confortable.</stage>
+<stage type="decor">Le théâtre représente le salon assez modeste d'Arlequin. Il y a le grand fauteuil appelé confortable.</stage>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN en robe de chambre, mais habillé dessous.</speaker>
 <p id='1'>
 	<s id='1'>J'avais toujours entendu dire qu'on ne pouvait être parfaitement heureux; j'ai cru pendant quelque temps que Rosette me ferait donner le démenti à tous les philosophes ; mais je commence à croire que ces gens-là pourront bien y voir plus clair que l'Amour. </s>
@@ -88,7 +88,7 @@
 	<s id='1'>Oui, je craignais d'avoir froid. </s>
 	<s id='2'>Mais, tu as raison, c'est inutile.</s>
 </p>
-<stage>Il ôte sa robede chambre, et la jette sur un grand confortable.</stage>
+<stage type="[N/A]">Il ôte sa robede chambre, et la jette sur un grand confortable.</stage>
 <p id='3'>
 	<s id='1'>Ma gentille Colombine, quand je te vois, je n'ai plus de chagrin.</s>
 </p>
@@ -160,7 +160,7 @@
 	<s id='7'>Ah ! </s>
 	<s id='8'>Ah !</s>
 </p>
-<stage>Il rit.</stage>
+<stage type="laugh">Il rit.</stage>
 </sp>
 <sp who='COLOMBINE'><speaker>COLOMBINE.</speaker>
 <p id='14'>
@@ -226,7 +226,7 @@
 	<s id='3'>Adieu. </s>
 	<s id='4'>Je suis partie.</s>
 </p>
-<stage>Elle rentre chez elle.</stage>
+<stage type="[N/A]">Elle rentre chez elle.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III.</head>
@@ -259,7 +259,7 @@
 <p id='2'>
 	<s id='1'>Mon maître ! </s>
 </p>
-<stage>Il serre le billet.</stage>
+<stage type="[N/A]">Il serre le billet.</stage>
 <p id='3'>
 	<s id='1'>Oui, mon maître, c'est moi.</s>
 </p>
@@ -295,7 +295,7 @@
 	<s id='1'>Sans doute. </s>
 	<s id='2'>Adieu, monsieur.</s>
 </p>
-<stage>Il va sortir.</stage>
+<stage type="[N/A]">Il va sortir.</stage>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
 <p id='10'>
@@ -368,7 +368,7 @@
 <p id='21'>
 	<s id='1'>Monsieur,je les lèverai, si vous voulez.</s>
 </p>
-<stage>Il les lève, et Arlequin lui vole un billet.</stage>
+<stage type="[N/A]">Il les lève, et Arlequin lui vole un billet.</stage>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
 <p id='22'>
@@ -380,11 +380,11 @@
 <p id='23'>
 	<s id='1'>Oui, monsieur.</s>
 </p>	
-<stage>À part.</stage>
+<stage type="aparte">À part.</stage>
 <p id='24'>
 	<s id='1'>Mais qu'est-ce qu'il a donc, mon maître ?</s>
 </p>
-<stage>Il sort.</stage>
+<stage type="exit">Il sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. </head>
@@ -394,13 +394,13 @@
 	<s id='2'>Je ne connais pas cet homme-là ; je n'en ai jamais entendu parler... </s>
 	<s id='3'>Heureusement que le cachet est encore humide ; ouvrons.</s>
 </p>
-<stage>Il ouvre le billet.</stage>
+<stage type="[N/A]">Il ouvre le billet.</stage>
 <p id='2'>
 	<s id='1'>« Mon mari va sortir ; « venez, et prenez bien garde qu'il ne vous voie. » </s>
 	<s id='2'>Je suis mort !... </s>
 	<s id='3'>Je veux voir ce monsieur ; je veux le connaître. </s>
 </p>
-<stage>Courant à la fenêtre.</stage>
+<stage type="[N/A]">Courant à la fenêtre.</stage>
 <p id='3'>
 	<s id='1'>Scapin ! </s>
 	<s id='2'>Scapin ! </s>
@@ -449,7 +449,7 @@
 	<s id='2'>Tu es très distrait. </s>
 	<s id='3'>Je parie que, sans le savoir, tu l'auras mise dans tes poches.</s>
 </p>
-<stage>Il y fouille lui-même, et y remet le billet.</stage>
+<stage type="[N/A]">Il y fouille lui-même, et y remet le billet.</stage>
 <p id='7'>
 	<s id='1'>Non, il n'y a pas de clef.</s>
 </p>
@@ -475,7 +475,7 @@
 	<s id='1'>C'est bien. </s>
 	<s id='2'>Va ; je suis fâché de t'avoir rappelé pour rien.</s>
 </p>
-<stage>Scapin sort.</stage>
+<stage type="exit">Scapin sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII.</head>
@@ -565,7 +565,7 @@
 <p id='11'>
 	<s id='1'>Et moi, je n'aime rien tant au monde que mon ami Arlequin.</s>
 </p>
- <stage>Elle le caresse.</stage>
+ <stage type="[N/A]">Elle le caresse.</stage>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
 <p id='12'>
@@ -575,7 +575,7 @@
 	<s id='4'>Tu me fais trop de plaisir. </s>
 	<s id='5'>Je m'en vais.</s>
 </p>
-<stage>Il sort.</stage>
+<stage type="exit">Il sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='9'><head>SCÈNE IX.</head>
@@ -729,7 +729,7 @@
 <p id='27'>
 	<s id='1'>Je compte sur toi.</s>
 </p>
-<stage>Elle sort.</stage>
+<stage type="exit">Elle sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='11'><head>SCÈNE XI.</head>
@@ -759,7 +759,7 @@
 	<s id='3'>J'ai une démangeaison de le frotter ! </s>
 	<s id='4'>Cela me soulagera un peu.</s>
 </p>
-<stage>À Scapin, qui veut sortir.</stage>
+<stage type="toward">À Scapin, qui veut sortir.</stage>
 <p id='2'>
 	<s id='1'>Eh bien ! </s>
 	<s id='2'>Où vas-tu ?</s>
@@ -799,12 +799,12 @@
 	<s id='1'>Ce que tu as fait ! </s>
 	<s id='2'>Ce que tu as fait ! </s>
 </p>
-<stage>À part.</stage>
+<stage type="aparte">À part.</stage>
 <p id='9'>
 	<s id='1'>Que diable ! </s>
 	<s id='2'>Qu'est-ce qu'il a fait ? </s>
 </p>
-<stage>Haut.</stage>
+<stage type="forte">Haut.</stage>
 <p id='10'>
 	<s id='1'>Tu es négligent, paresseux, libertin ; tu es très libertin !... </s>
 	<s id='2'>Et l'on m'a adressé hier de vives plaintes contre toi.</s>
@@ -842,14 +842,14 @@
 <p id='14'>
 	<s id='1'>Oui ; cela te fera du bien.</s>
 </p>
-<stage>Il le rosse avec sa batte.</stage>
+<stage type="[N/A]">Il le rosse avec sa batte.</stage>
 </sp>
 <sp who='SCAPIN'><speaker>SCAPIN.</speaker>
 <p id='15'>
 	<s id='1'>Pas du tout. </s>
 	<s id='2'>Aye ! aye ! aye ! aye !</s>
 </p>
-<stage>Il se sauve.</stage>
+<stage type="[N/A]">Il se sauve.</stage>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
 <p id='16'>
@@ -883,7 +883,7 @@
 	<s id='2'>Mais je m'en vais décidément. </s>
 	<s id='3'>Adieu ; ou plutôt sans adieu, ma chère Colombine, toi, qui es si bonne et qui m'aimes tant ; adieu !</s>
 </p>
-<stage>Il sort.</stage>
+<stage type="exit">Il sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='14'><head>SCÈNE XIV.</head>
@@ -894,7 +894,7 @@
 	<s id='3'>Enfin il est parti ; il était temps, puisque ce monsieur va arriver. </s>
 	<s id='4'>Allons nous préparer nous-même à cette entrevue.</s>
 </p>
-<stage>Elle rentre chez elle.</stage>
+<stage type="[N/A]">Elle rentre chez elle.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='15'><head>SCÈNE XV.</head>
@@ -910,7 +910,7 @@
 	<s id='8'>J'entends du bruit ; on vient. </s>
 	<s id='9'>Ma foi, je ne vois que ce confortable pour me recueillir, et cette robe de chambre pour me voiler.</s>
 </p>
-<stage>Il se jette dans le fauteuil, s'y accroupit, se voile de la robe de chambre, et ne se montre que par intervalle.</stage>
+<stage type="[N/A]">Il se jette dans le fauteuil, s'y accroupit, se voile de la robe de chambre, et ne se montre que par intervalle.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='16'><head>SCÈNE XVI. Scapin, Dumont, Arlequin.</head>
@@ -944,7 +944,7 @@
 <p id='6'>
 	<s id='1'>J'attends.</s>
 </p>
-<stage>Scapin entre chez Colombine.</stage>
+<stage type="[N/A]">Scapin entre chez Colombine.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='10'><head>SCÈNE X.II. Dumont, Arlequin, caché.</head>
@@ -1051,12 +1051,12 @@
 <p id='14'>
 	<s id='1'>Je vous en saurai gré, au contraire.</s>
 </p>	
-<stage>Se regardant dans une glace.</stage>
+<stage type="[N/A]">Se regardant dans une glace.</stage>
 <p id='15'>
 	<s id='1'>Je comprends parfaitement vos remarques ; elles sont justes, et je vais en profiter. </s>
 	<s id='2'>J'entre un moment dans ma chambre, et je suis à vous.</s>
 </p>
-<stage>Elle rentre.</stage>
+<stage type="[N/A]">Elle rentre.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='14'><head>SCÈNE XIV. Dumont, Arlequin.</head>
@@ -1100,7 +1100,7 @@
 <p id='6'>
 	<s id='1'>Elle vient ; regardez et écoutez.</s>
 </p>
-<stage>Il jette sur lui la robe de chambre.</stage>
+<stage type="[N/A]">Il jette sur lui la robe de chambre.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='20'><head>SCÈNE XX. Dumont, Colombine, Arlequin, caché.</head>
@@ -1141,7 +1141,7 @@
 	<s id='1'>Une dame ! </s>
 	<s id='2'>Je ne reçois personne ; je vais le lui dire et m'excuser.</s>
 </p>
-<stage>Elle sort, et Scapin la suit.</stage>
+<stage type="exit">Elle sort, et Scapin la suit.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='22'><head>SCÈNE XXII. Dumont, Arlequin.</head>
@@ -1272,7 +1272,7 @@
 <p id='1'>
 	<s id='1'>Ma chère amie, j'ai trouvé mon oncle Pantalon en route, c'est ce qui fait que je reviens bien plutôt.</s>
 </p>
-<stage>Feignant l'étonnement.</stage>
+<stage type="[N/A]">Feignant l'étonnement.</stage>
 <p id='2'>
 	<s id='1'>Mais, que vois-je : quel est ce monsieur ?</s>
 </p>
@@ -1298,7 +1298,7 @@
 <p id='6'>
 	<s id='1'>Après l'original, c'est ce que j'aimerai le mieux.</s>
 </p>
-<stage>À part.</stage>
+<stage type="aparte">À part.</stage>
 <p id='7'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Que j'ai eu tort !</s>
@@ -1313,7 +1313,7 @@
 <p id='9'>
 	<s id='1'>Scapin, une table, tout ce qu'il faut pour que monsieur le peintre achève le portrait.</s>
 </p>
-<stage>Scapin et Monsieur Dumont préparent tout.</stage>
+<stage type="[N/A]">Scapin et Monsieur Dumont préparent tout.</stage>
 </sp>
 <sp who='DUMONT'><speaker>DUMONT.</speaker>
 <p id='10'>
@@ -1356,7 +1356,7 @@
 	<s id='1'>Eh bien ! </s>
 	<s id='2'>Il faut en faire deux.</s>
 </p>
-<stage>Se plaçant aux genoux de Colombine.</stage>
+<stage type="[N/A]">Se plaçant aux genoux de Colombine.</stage>
 <p id='18'>
 	<s id='1'>Ajoutez-moi ainsi.</s>
 </p>
@@ -1384,7 +1384,7 @@
 	<s id='3'>Ne bougez pas. </s>
 	<s id='4'>La pose est excellente, et le tableau sera à merveille comme cela.</s>
 </p>
-<stage>Colombine et Arlequin restent dans la même pose, jusqu'à ce que la toile, qui se baisse, empêche de les voir. L'attention du peintre et la surprise de Scapin complètent ce tableau.</stage>
+<stage type="[N/A]">Colombine et Arlequin restent dans la même pose, jusqu'à ce que la toile, qui se baisse, empêche de les voir. L'attention du peintre et la surprise de Scapin complètent ce tableau.</stage>
 </sp>
 </div2>
 </div1>
