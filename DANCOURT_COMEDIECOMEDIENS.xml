@@ -54,8 +54,8 @@
 				<castItem><role id='UN LAQUAIS' sex="1" type="H" statut="laquais" age="A" stat_amour='néant'>UN LAQUAIS</role> de Monsieur Grichardin.</castItem> 
 		</castList>
 		<castList><head>DÉGUISEMENT DU SECOND ACTE.</head>
-				<castItem><role id='DE LA THORILIÈRE' sex="1" type="H" statut="comédien" age="A" stat_amour='néant'>DE LA THORILIÈRE</role>, en Financier, et en Mezzetin.</castItem>  
-				<castItem><role id='ANGÉLIQUE' sex="2" type="H" statut="comédien" age="A" stat_amour='néant'>ANGÉLIQUE</role>, en Docteur.</castItem>  
+				<castItem><role id='DE LA THORILIÈRE' sex="1" type="H" statut="comédien" age="A" stat_amour='néant'>DE LA THORILIÈRE</role>, en Financier, et en Mezzetin.</castItem> 
+				<castItem><role id='ANGÉLIQUE' sex="2" type="H" statut="comédien" age="A" stat_amour='néant'>ANGÉLIQUE</role>, en Docteur.</castItem> 
 		</castList>
 		<castList><head>ACTEURS DE L’AMOUR CHARLATAN, COMÉDIE.</head>
 				<castItem><role id='JUPITER' sex="1" type="D" statut="dieu" age="A" stat_amour='néant'>JUPITER</role>.</castItem>
@@ -1468,7 +1468,7 @@
 <div2 type="scene" n='1'><head>SCÈNE I. Éraste, Isabelle en espagnolette.</head>
 <sp who="ÉRASTE"><speaker>ÉRASTE.</speaker>
 <note type="L">Espagnolette : Sorte de ratine fine. [T]</note>
-<note type="L">Ratine :  Espèce d'étoffe de laine qui jette un poil frisé, qui sert à doubler des habits, et à tenir chaudement. [F]</note>
+<note type="L">Ratine : Espèce d'étoffe de laine qui jette un poil frisé, qui sert à doubler des habits, et à tenir chaudement. [F]</note>
 <p id="1">
 	<s id="1">Il n’est point de déguisement pour les yeux d’un amant ; les miens vous ont d’abord reconnue, charmante Isabelle.</s>
 </p>
@@ -1678,7 +1678,7 @@
 </p>
 </sp>
 <sp who="MARTON"><speaker>MARTON.</speaker>
-<note type="L">Crispin :  Valet de comédie avec un costume et un caractère convenus ; le crispin est tout en noir, en pantalon collant, et avec un petit manteau qui descend à peine jusqu'aux reins et dont il s'enveloppe souvent ; il est attaché à son maître, mais lui fait cependant d'assez mauvais tours quand l'occasion s'en présente. [L]</note>
+<note type="L">Crispin : Valet de comédie avec un costume et un caractère convenus ; le crispin est tout en noir, en pantalon collant, et avec un petit manteau qui descend à peine jusqu'aux reins et dont il s'enveloppe souvent ; il est attaché à son maître, mais lui fait cependant d'assez mauvais tours quand l'occasion s'en présente. [L]</note>
 <p id="3">
 	<s id="1">Sans le goût bizarre de l’homme à qui nous avons à faire, je vous aimerais bien autant dans votre naturel ; et de tout temps, n’en déplaise à Monsieur Grichardin, les vrais Crispins ont bien valu les Scaramouches.</s>
 </p>
@@ -1717,7 +1717,7 @@
 </p>
 </sp>
 <sp who="MONSIEUR DE LA THORILIÈRE"><speaker>MONSIEUR DE LA THORILIÈRE.</speaker>
-<note type="L">Malepeste :  Imprecation qu'on fait contre quelque chose, et quelquefois avec admiration. [F]</note>
+<note type="L">Malepeste : Imprecation qu'on fait contre quelque chose, et quelquefois avec admiration. [F]</note>
 <p id="10">
 	<s id="1">Malepeste, je n’ai garde. </s>
 	<s id="2">Le public paraît content de mon visage, je ne veux point prendre de masque.</s>
@@ -3540,7 +3540,7 @@
 <p id='2'>
 	<s id='1'>Voilà un espion, c’est moi qu’on cherche, où me cacher ?</s>
 </p>
-<stage type="[N/A]">Ils ont peur l’un de l’autre, ils courent pour s’éviter, et s’imaginent courir l’un après l’autre ; ils se heurtent, tombent et se trouve tous deux à genoux.</stage>
+<stage type="expression/run/kneel">Ils ont peur l’un de l’autre, ils courent pour s’éviter, et s’imaginent courir l’un après l’autre ; ils se heurtent, tombent et se trouve tous deux à genoux.</stage>
 </sp>
 <sp who="L’AMOUR"><speaker>L’AMOUR.</speaker>
 <p id="3">
@@ -4657,16 +4657,16 @@
 	<l id='135'>Une difficulté par hasard s’y rencontre.</l>
 </sp>
 <sp who="L’AMOUR"><speaker>L’AMOUR.</speaker>
-	<l id='136' part='i'>Quelle ?</l>
+	<l id='136' part="i">Quelle ?</l>
 </sp>
 <sp who="GUILLOT-GORJUS"><speaker>GUILLOT-GORJUS.</speaker>
-	<l id='136' part='f'>Je suis de bonne foi.</l>
+	<l id='136' part="f">Je suis de bonne foi.</l>
 </sp>
 <sp who="MERCURE"><speaker>MERCURE.</speaker>
-	<l id='137' part='i'>Hé bien ?</l>
+	<l id='137' part="i">Hé bien ?</l>
 </sp>
 <sp who="GUILLOT-GORJUS"><speaker>GUILLOT-GORJUS.</speaker>
-	<l id='137' part='f'>Sitôt que je me montre</l>
+	<l id='137' part="f">Sitôt que je me montre</l>
 	<l id='138'>Pour Amant, pour Époux, on ne veut point de moi.</l>
 </sp>
 <sp who="L’AMOUR"><speaker>L’AMOUR.</speaker>
@@ -4681,13 +4681,13 @@
 	<l id='145'>Un secret pour lever cette difficulté.</l>
 </sp>
 <sp who="L’AMOUR"><speaker>L’AMOUR.</speaker>
-	<l id='146' part='i'>Je n’en ai point.</l>
+	<l id='146' part="i">Je n’en ai point.</l>
 </sp>
 <sp who="GUILLOT-GORJUS"><speaker>GUILLOT-GORJUS.</speaker>
-	<l id="146" part='m'>Quoi ! Vous qui pouvez tout ?</l>
+	<l id="146" part="m">Quoi ! Vous qui pouvez tout ?</l>
 </sp>
 <sp who="L’AMOUR"><speaker>L’AMOUR.</speaker>
-	<l id='146' part='f'>Sans doute</l>
+	<l id='146' part="f">Sans doute</l>
 	<l id='147'>Il n’est point, mon ami, de secret pour cela :</l>
 	<l id='148'>Mais pour t’en consoler, écoute</l>
 	<l id='149'>Ce que Mercure te dira.</l>
@@ -4800,17 +4800,17 @@
 <note type="L">Morgué : Sorte de juron de paysan. [L]</note>
 <note type="L">Nenni : Non. Il n'est que du style familier. [FC]</note>
 	<l id='223'>Morgué nenni, j’en sis surpris moi-même,</l>
-	<l id='224' part='i'>Car je sommes femme et mari.</l>
+	<l id='224' part="i">Car je sommes femme et mari.</l>
 </sp>
 <sp who="MATHURINE"><speaker>MATHURINE.</speaker>
-	<l id='224' part='f'>De la manière dont il m’aime,</l>
+	<l id='224' part="f">De la manière dont il m’aime,</l>
 	<l id='225'>Je voudrais bian pourtant que Thibaut fût guari.</l>
 </sp>
 <sp who="L’AMOUR"><speaker>L’AMOUR.</speaker>
-	<l id='226' part='i'>Hé ! Comment donc ?</l>
+	<l id='226' part="i">Hé ! Comment donc ?</l>
 </sp>
 <sp who="MATHURINE"><speaker>MATHURINE.</speaker>
-	<l id='226' part='f'>J’avons toujours querelle,</l>
+	<l id='226' part="f">J’avons toujours querelle,</l>
 <note type="L">Gourmer : Sa battre à coups de poings. [F]</note>
 	<l id='227'>Je ne cessons de nous gourmer.</l>
 </sp>
@@ -4834,22 +4834,22 @@
 	<l id='235'>Et pour la femme, toi, tu fais le diable à quatre.</l>
 </sp>
 <sp who="MATHURINE"><speaker>MATHURINE.</speaker>
-	<l id='236' part='i'>C’est que je t’aime trop.</l>
+	<l id='236' part="i">C’est que je t’aime trop.</l>
 </sp>
 <sp who="THIBAUT"><speaker>THIBAUT.</speaker>
-	<l id='236' part='f'>C’est que je sis jaloux.</l>
+	<l id='236' part="f">C’est que je sis jaloux.</l>
 </sp>
 <sp who="MATHURINE"><speaker>MATHURINE.</speaker>
-	<l id='237' part='i'>J’aime à crier.</l>
+	<l id='237' part="i">J’aime à crier.</l>
 </sp>
 <sp who="THIBAUT"><speaker>THIBAUT.</speaker>
-	<l id='237' part='f'>Moi, j’aime à battre.</l>
+	<l id='237' part="f">Moi, j’aime à battre.</l>
 </sp>
 <sp who="L’AMOUR"><speaker>L’AMOUR.</speaker>
-	<l id='238' part='i'>Mais Mathurine…</l>
+	<l id='238' part="i">Mais Mathurine…</l>
 </sp>
 <sp who="MATHURINE"><speaker>MATHURINE.</speaker>
-	<l id='238' part='f'>Non, rian ne me peut changer.</l>
+	<l id='238' part="f">Non, rian ne me peut changer.</l>
 	<l id='239'>Ce qu’en fais, c’est par malice.</l>
 	<l id='240'>Je n’aime point Lubin : mais je veux me venger.</l>
 </sp>
@@ -4884,25 +4884,25 @@
 	<l id='256'>Mais puisqu’enfin l’Hymen vous unit de sa chaîne…</l>
 </sp>
 <sp who='THIBAUT et MATHURINE'><speaker>THIBAUT et MATHURINE.</speaker>
-	<l id='257' part='i'>Hélas oui !</l>
+	<l id='257' part="i">Hélas oui !</l>
 </sp>
 <sp who="L’AMOUR"><speaker>L’AMOUR.</speaker>
-	<l id='257' part='f'>N’est-ce pas assez ?</l>
+	<l id='257' part="f">N’est-ce pas assez ?</l>
 	<l id='258'>Croyez-moi, tôt ou tard il faut que cela vienne,</l>
 	<l id='259'>Et vous vous haïrez, ou vous vous haïssez.</l>
 </sp>
 <sp who='THIBAUT et MATHURINE'><speaker>THIBAUT et MATHURINE.</speaker>
-	<l id='260' part='i'>Je nous haïssons, nous ?</l>
+	<l id='260' part="i">Je nous haïssons, nous ?</l>
 </sp>
 <sp who="L’AMOUR"><speaker>L’AMOUR.</speaker>
-	<l id='260' part='f'>La chose est bien prochaine ;</l>
+	<l id='260' part="f">La chose est bien prochaine ;</l>
 	<l id='261'>Vous aimez même ailleurs plus que vous ne pensez.</l>
 </sp>
 <sp who="MATHURINE"><speaker>MATHURINE.</speaker>
-	<l id='262' part='i'>Que t’en semble, Thibaut ?</l>
+	<l id='262' part="i">Que t’en semble, Thibaut ?</l>
 </sp>
 <sp who="THIBAUT"><speaker>THIBAUT.</speaker>
-	<l id='262' part='f'>Qu’en dis-tu, Mathureine ?</l>
+	<l id='262' part="f">Qu’en dis-tu, Mathureine ?</l>
 </sp>
 <sp who="MATHURINE"><speaker>MATHURINE.</speaker>
 	<l id='263'>Ce petit Charlatan se connaît à la meine.</l>
@@ -4952,21 +4952,21 @@
 <note type="L">Tenir en chambre : Fig. et familièrement, mettre, tenir quelqu'un en chambre, l'obséder, le circonvenir pour le retenir au jeu et le duper, etc. [L]</note>
 	<l id='286'>Et m’a depuis ce temps toujours tenu en chambre.</l>
 	<l id='287'>Je m’en échappe, et vous joins en juillet.</l>
-	<l id='288' part='i'>Soyez le bien trouvé ; comment vous va ?</l>
+	<l id='288' part="i">Soyez le bien trouvé ; comment vous va ?</l>
 </sp>
 <sp who="L’AMOUR"><speaker>L’AMOUR.</speaker>
-	<l id='288' part='f'>Mercure,</l>
+	<l id='288' part="f">Mercure,</l>
 	<l id='289'>Je ne me trompe point, c’est notre Chevalier.</l>
 </sp>
 <sp who="MERCURE"><speaker>MERCURE.</speaker>
-	<l id='290' part='i'>Quoi ! Le Gascon ?</l>
+	<l id='290' part="i">Quoi ! Le Gascon ?</l>
 </sp>
 <sp who="L’AMOUR"><speaker>L’AMOUR.</speaker>
-	<l id='290' part='f'>L’auteur de l’aventure</l>
-	<l id='291' part='i'>De la femme du Conseiller.</l>
+	<l id='290' part="f">L’auteur de l’aventure</l>
+	<l id='291' part="i">De la femme du Conseiller.</l>
 </sp>
 <sp who="MERCURE"><speaker>MERCURE.</speaker>
-	<l id='291' part='f'>Oui, c’est lui.</l>
+	<l id='291' part="f">Oui, c’est lui.</l>
 </sp>
 <sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='292'>Si c’est moi ? Je suis d’une figure</l>
@@ -4985,7 +4985,7 @@
 	<l id='300'>Joli minois, gentil corsage.</l>
 	<l id='301'>Je devine à peu près ce qui vous tient ici.</l>
 	<l id='302'>Messieurs, dans ce village-ci</l>
-<note type="C">Marquer un fourrage : dans le contexte,  cela semble vouloir dire: vous venez en Province repérer de jeunes grisettes pour ensuite les emmener à Paris et en profiter.</note>
+<note type="C">Marquer un fourrage : dans le contexte, cela semble vouloir dire: vous venez en Province repérer de jeunes grisettes pour ensuite les emmener à Paris et en profiter.</note>
 	<l id='303'>Vous venez marquer un fourrage.</l>
 </sp>
 <sp who="MERCURE"><speaker>MERCURE.</speaker>
@@ -5010,11 +5010,11 @@
 	<l id='314'>Vous tenez en ces lieux école de sornettes ?</l>
 </sp>
 <sp who="MERCURE"><speaker>MERCURE.</speaker>
-	<l id='315' part='i'>À peu près.</l>
+	<l id='315' part="i">À peu près.</l>
 </sp>
 <sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <note type="L">Coquette : Ce mot se prend en mauvaise part. Celle qui s'ajuste pour donner dans la vue des galants. [R]</note>
-	<l id='315' part='f'>M’y voilà, vous dressez des coquettes.</l>
+	<l id='315' part="f">M’y voilà, vous dressez des coquettes.</l>
 	<l id='316'>Que vous êtes de fines gens !</l>
 	<l id='317'>En Été dans nos grandes Villes</l>
 	<l id='318'>Vous devenez souvent fort inutiles ;</l>
@@ -5029,10 +5029,10 @@
 	<l id='326'>Trouvez bon, s’il vous plaît, que je vous accompagne.</l>
 </sp>
 <sp who="L’AMOUR"><speaker>L’AMOUR.</speaker>
-	<l id='327' part='i'>Tu viendrais avec nos ?</l>
+	<l id='327' part="i">Tu viendrais avec nos ?</l>
 </sp>
 <sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
-	<l id='327' part='f'>Je ne m’en dédis point,</l>
+	<l id='327' part="f">Je ne m’en dédis point,</l>
 	<l id='328'>Je vous préfère à Mars, je suis ferme en ce point,</l>
 	<l id='329'>Dussé-je être cassé ; tout ce que je demande,</l>
 	<l id='330'>C’est qu’on me mette de la bande.</l>

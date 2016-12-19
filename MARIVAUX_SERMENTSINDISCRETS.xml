@@ -62,7 +62,7 @@
 		<castItem><role id="LISETTE" sex="2" type="H" statut="suivante" age="A" stat_amour='néant'>LISETTE</role>, suivante de Lucile.</castItem>
 		<castItem><role id="FRONTIN" sex="1" type="H" statut="valet" age="A" stat_amour='néant'>FRONTIN</role>, valet de Damis.</castItem>
 		<castItem><role id="DOMESTIQUE" sex="1" type="H" statut="domestique" age="A" stat_amour='néant'>Un domestique</role>.</castItem>
-    </castList>
+  </castList>
 <set location='(non indiqué)' country='France' periode='XVIIIème' link=''>La scène est à une maison de campagne.</set>
 </front> 
 <body>
@@ -1733,7 +1733,7 @@
 	<s id='1'>Allez, dites à mon père que je vais dans mon cabinet, et que je ne me montrerai qu'après que les parties seront commencées.</s>
 </p>
 </sp>
-<sp who='LISETTE'><speaker>LISETTE,  en s'en allant.</speaker>
+<sp who='LISETTE'><speaker>LISETTE, en s'en allant.</speaker>
 <p id='8'>
 	<s id='1'>Que diantre veulent-ils dire, de ne venir ni l'un ni l'autre ?</s>
 </p>
@@ -2504,7 +2504,7 @@
 	<s id='2'>Retirez-vous tout à l'heure : Lisette vous rendra ce que j'ai à vous dire.</s>
 </p>
 </sp>
-<sp who='DAMIS'><speaker>DAMIS,  se retirant..</speaker>
+<sp who='DAMIS'><speaker>DAMIS, se retirant..</speaker>
 <p id='5'>
 	<s id='1'>Je prends donc ce parti comme celui qui vous convient le mieux, Madame.</s>
 </p>
@@ -2776,7 +2776,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='10'><head>SCÈNE X.</head>>
-<sp who='FRONTIN'><speaker>FRONTIN, seul.</speaker>
+<sp stage="alone" who='FRONTIN'><speaker>FRONTIN, seul.</speaker>
 <p id='1'>
 	<s id='1'>Voilà une aventure qui a tout l'air de nous souffler notre patrimoine.</s>
 </p>
@@ -3705,8 +3705,8 @@
 <p id='4'>
 	<s id='1'>Ce soin-là ne doit point vous occuper aujourd'hui, Monsieur, et je ferais scrupule de vous retenir plus longtemps. </s>
 	<s id='2'>Ah ! </s>
-<stage type="[N/A]">Elle veut se retirer.</stage>
 </p>
+<stage type="exit">Elle veut se retirer.</stage>
 </sp>
 <sp who='DAMIS'><speaker>DAMIS.</speaker>
 <p id='5'>

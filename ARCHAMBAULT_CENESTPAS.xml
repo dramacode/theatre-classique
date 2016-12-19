@@ -9,8 +9,8 @@
 			<publicationStmt>	
 				<editor>Texte établi à partir de la transcription par Dr Roger Peters.</editor>
 				<publisher>publié par Paul FIEVRE, janvier 2014</publisher>
-			<idno></idno>
-</publicationStmt>
+				<idno>ARCHAMBAULT_CENESTPAS</idno>
+			</publicationStmt>
 			<SourceDesc>
 				<genre>Proverbe</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -19,10 +19,6 @@
 				<periode>1771-1780</periode>
 				<taille>(mesure non pertinente)</taille>
 				<permalien></permalien>
-				<sources>
-					<source id='1'><author></author><text></text></source>
-				</sources>	
-
 			</SourceDesc>
 		</fileDesc>
 </teiHeader>
@@ -37,7 +33,7 @@
 		<docImprint>
 			
 		</docImprint>
-		<printer id='SERCY'>À PARIS, chez CHARLES DE SERCY, au Palais, au sixième pilier de la Grand Salle, à  la Bonne Foi Couronnée.</printer>
+		<printer id='SERCY'>À PARIS, chez CHARLES DE SERCY, au Palais, au sixième pilier de la Grand Salle, à la Bonne Foi Couronnée.</printer>
 		<performance>
 			<premiere date='1779-12-23' location='Théâtre des Variétés amusantes'> première le 23 décembre 1779 au Théâtre des Variétés-Amusantes à Paris.</premiere>
 		</performance>
@@ -583,7 +579,7 @@
 	<s id="2">Va toujours commander le repas, v'là qu'est dit. </s>
 	<s id="3">Le rendez-vous est au cabaret : les premiers venus y attendront les autres.</s>
 </p>
-<stage type="[N/A]">Dodinet entre au cabaret.</stage>
+<stage type="exit">Dodinet entre au cabaret.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II.</head>
@@ -631,14 +627,14 @@
 	<s id="2">Monsieur, je ne l'ai pas fait exprès, là.</s>
 </p>
 </sp>
-<sp who='JANOT'><speaker>JANOT, aparté.</speaker>
+<sp stage="aparte" who='JANOT'><speaker>JANOT, aparté.</speaker>
 <p id="5">
 	<s id="1">C'est bon. </s>
 	<s id="2">I' ne me reconnaît pas. </s>
 	<s id="3">Ce que c'est que de nous ! </s>
 	<s id="4">Comme un habit change le monde !</s>
 </p>
-<stage type="forte">Haut.</stage>
+<stage type="loud">Haut.</stage>
 <p id="6">
 	<s id="1">Eh ! </s>
 	<s id="2">Dites donc, bonhomme, est-ce que vous seriez peintre ?</s>
@@ -978,7 +974,7 @@
 	<s id="3">Est-ce que je suis fait pour me connaître à un métier aussi bas, aussi vilain, aussi dégoûtant, aussi malpropre...</s>
 </p>
 </sp>
-<sp who='SIMON'><speaker>SIMON, à chaque sottise.</speaker>
+<sp stage="repeat" who='SIMON'><speaker>SIMON, à chaque sottise.</speaker>
 <p id="10">
 	<s id="1">Monsieur ! </s>
 	<s id="2">Monsieur ! </s>
@@ -1292,7 +1288,7 @@
 	<s id="14">Holà ! </s>
 	<s id="15">Suzon, holà !</s>
 </p>
-<stage type="[N/A]">Il rentre.</stage>
+<stage type="exit">Il rentre.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI.</head>
@@ -1350,7 +1346,7 @@
 <p id="7">
 	<s id="1">Oui, oui.</s>
 </p>
-<stage type="[N/A]">Ils s'en vont, l'un d'un côte, l'autre de l'autre.</stage>
+<stage type="exit/location">Ils s'en vont, l'un d'un côte, l'autre de l'autre.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='8'><head>SCÈNE VIII. Ragot, Madame Ragot, Simon, Suzon.</head>
@@ -1402,7 +1398,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='9'><head>SCÈNE IX. Ragot, Madame Ragot.</head> 
-<stage type="exit">Simon et Suzon sortent de chez eux.</stage>
+<stage type="entrance">Simon et Suzon sortent de chez eux.</stage>
 <sp who="SIMON"><speaker>SIMON.</speaker>
 <p id="1">
 	<s id="1">Allons, ma fille, redresse-toi : te v'là pas mal comme ça. </s>
@@ -1447,9 +1443,9 @@
 <p id="7">
 	<s id="1">Je ne passerons pas avant Mme Ragot.</s>
 </p>
-<stage type="[N/A]">Ils font entrer les femmes.</stage>
+<stage type="exit">Ils font entrer les femmes.</stage>
 </sp>
-<sp who='RAGOT'><speaker>RAGOT, à Simon, en entrant.</speaker>
+<sp stage="toward/exit" who='RAGOT'><speaker>RAGOT, à Simon, en entrant.</speaker>
 <p id='8'>
 	<s id='1'>Mon voisin, vous permettez ?</s>
 </p>
@@ -1555,11 +1551,11 @@
 <p id="16">
 	<s id="1">Allez toujours ; allez, Mademoiselle, le reste s'ensuivra.</s>
 </p>
-<stage type="entrance">Ils entrent.</stage>
+<stage type="exit">Ils entrent.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='11'><head>SCÈNE XI.</head>
-<sp who='JANOT'><speaker>JANOT, revient avec sa veste dessous.</speaker>
+<sp stage="back/costume" who='JANOT'><speaker>JANOT, revient avec sa veste dessous.</speaker>
 <p id="1">
 	<s id="1">Me v'là ben prope, moi ! </s>
 	<s id="2">La comtesse qui s'est mise en colère contre moi. </s>
@@ -1699,7 +1695,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='14'><head>SCÈNE XIV. Ragot, Janot, L'Orfèvre.</head>
-<sp who='RAGOT'><speaker>RAGOT, soûl.</speaker>
+<sp stage="drunk" who='RAGOT'><speaker>RAGOT, saoul.</speaker>
 <p id="1">
 	<s id="1">Eh ben donc ! </s>
 	<s id="2">Mon cher ami Janot, qu'est-ce que c'est donc qu'on dit de c' trésor que t'as trouvé !</s>
@@ -1710,7 +1706,7 @@
 	<s id="1">Qu'est-ce qu'il y a pour votre service, Monsieur ?</s>
 </p>
 </sp>
-<sp who='JANOT'><speaker>JANOT, à Ragot.</speaker>
+<sp stage="toward" who='JANOT'><speaker>JANOT, à Ragot.</speaker>
 <p id="3">
 	<s id="1">Je vas vous conter ça tout à l'heure. </s>
 </p>
@@ -1771,7 +1767,7 @@
 	<s id="3">Restez là, vous, Monsieur Ragot. </s>
 	<s id="4">J'en aurons bentôt le cœur net, allez.</s>
 </p>
-<stage type="[N/A]">Il entre avec l'orfèvre.</stage>
+<stage type="exit">Il entre avec l'orfèvre.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='15'><head>SCÈNE XV.</head>
@@ -1817,7 +1813,7 @@
 	<s id="4">Ventrebleu ! </s>
 	<s id="5">Qu'est-ce qui payera le diner, à présent ? </s>
 </p>
-<stage type="[N/A]">Il montre le cabaret.</stage>
+<stage type="show">Il montre le cabaret.</stage>
 </sp>
 <sp who="RAGOT"><speaker>RAGOT.</speaker>
 <p id="6">
@@ -1829,14 +1825,14 @@
 	<s id="6">Queu remue-ménage !</s>
 </p>
 </sp>
-<sp who='MADAME RAGOT'><speaker>MADAME RAGOT, en dedans.</speaker>
+<sp stage="toward" who='MADAME RAGOT'><speaker>MADAME RAGOT, en dedans.</speaker>
 <p id='7'>
 	<s id='1'>Parle donc, hé ! </s>
 	<s id="2">Monsieur Nicodème ; est-ce que tu te moques de nous donc ?</s>
 </p>
 </sp>
 </div2>
-<div2 type="scene" n='17'><head>SCÈNE XVII. Ragot, Les Trois Femmes arrivent sur le théâtre.</head>
+<div2 type="scene" n='17' stage="entrance"><head>SCÈNE XVII. Ragot, Les Trois Femmes arrivent sur le théâtre.</head>
 <sp who="MADAME RAGOT"><speaker>MADAME RAGOT.</speaker>
 <p id="1">
 	<s id="1">Qu'est-ce que c'est donc que c't' affronterie-là de nous venir retirer les morceaux du bec ?</s>
@@ -1988,7 +1984,7 @@
 	<s id="2">Tu as des effets : tu viendras les chercher.</s>
 </p>
 </sp>
-<sp who='DODINET'><speaker>DODINET, en dedans.</speaker>
+<sp stage="toward" who='DODINET'><speaker>DODINET, en dedans.</speaker>
 <p id="5">
 	<s id="1">À mon secours, Janot. </s>
 	<s id="2">Eh ! </s>
@@ -2031,7 +2027,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='21'><head>SCÈNE XXI.</head>
-<sp who='JANOT'><speaker>JANOT, seul.</speaker>
+<sp stage="alone" who='JANOT'><speaker>JANOT, seul.</speaker>
 <p id="1">
 	<s id="1">Ah ! </s>
 	<s id="2">Me v'là ben: je n'ai pus qu'à porter ça à la monnaie. </s>
@@ -2273,7 +2269,7 @@
 	<s id="4">Ça n'en est pas.</s>
 </p>
 </sp>
-<sp who='JANOT'><speaker>JANOT, le repoussant.</speaker>
+<sp stage="push" who='JANOT'><speaker>JANOT, le repoussant.</speaker>
 <p id="23">
 	<s id="1">Encore ! </s>
 	<s id="2">Chien de rabâcheur.</s>

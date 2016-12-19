@@ -7,9 +7,9 @@
 			<author born='1700' born_location='Chartres' death='1753' death_location='Paris' academie=''>SOULAS d'ALLAINVAL, Abbé Léonor Jean Christine</author>
 			</titleStmt>
 			<publicationStmt>	
-				<p>publié par Paul FIEVRE, septembre 2011.</p>
-			<idno></idno>
-</publicationStmt>
+				<p>publié par Paul FIEVRE, septembre 2011, revu décembre 2016.</p>
+				<idno>ALLAINVAL_HIVER</idno>
+			</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>mythe grec</inspiration>
@@ -56,7 +56,7 @@
 <body>
 <div1 type="act" n="1"><head></head>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
-<sp who="L'HIVER"><speaker>L'HIVER seul, en habit fourré site un manchon.</speaker>
+<sp stage="alone/cosume" who="L'HIVER"><speaker>L'HIVER seul, en habit fourré site un manchon.</speaker>
 	<l id='1'>Des vrais plaisirs, unique asile ;</l>
 	<l id='2'>Paris, c'est l'Hiver que tu vois :</l>
 	<l id='3'>Las de régner au Nord, il vient, heureuse Ville,</l>
@@ -269,10 +269,10 @@
 </sp>
 <sp who='COMUS'><speaker>COMUS.</speaker>
 	<l id='116'>C'est quelqu'un qui cherche de l'emploi</l>
-	<l id='117' part='i'>Dans votre cour.</l>
+	<l id='117' part="i">Dans votre cour.</l>
 </sp>
 <sp who="L'HIVER"><speaker>L'HIVER.</speaker>
-	<l id='117' part='f'>C'est ton affaire ;</l>
+	<l id='117' part="f">C'est ton affaire ;</l>
 	<l id='118'>Je le laisse avec toi :</l>
 	<l id='119'>Je vais me délasser un instant du voyage,</l>
 	<l id='120'>Tu peux le renvoyer ou bien le recevoir,</l>
@@ -281,7 +281,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Comus, L'Hymen.</head>
-<stage type="[N/A]">L'hymen est habillé de jaune de la tête aux pieds ; il a un bonnet qui se termine en croissant.</stage>
+<stage type="costum">L'hymen est habillé de jaune de la tête aux pieds ; il a un bonnet qui se termine en croissant.</stage>
 <sp who='COMUS'><speaker>COMUS.</speaker>
 	<l id='122'>Mais, que vois-je ? L'Hymen, le Dieu du mariage ?</l>
 </sp>
@@ -376,10 +376,10 @@
 	<l id='171'>Diantre !</l>
 </sp>
 <sp who="L'HYMEN"><speaker>L'HYMEN.</speaker>
-	<l id='172' part='i'>Ce n'est pas tout.</l>
+	<l id='172' part="i">Ce n'est pas tout.</l>
 </sp>
 <sp who='COMUS'><speaker>COMUS.</speaker>
-	<l id='172' part='f'>Que fais tu donc de pis ?</l>
+	<l id='172' part="f">Que fais tu donc de pis ?</l>
 </sp>
 <sp who="L'HYMEN"><speaker>L'HYMEN.</speaker>
 	<l id='173'>L'Amour aime les gens de guerre ;</l>
@@ -426,10 +426,10 @@
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Comus, La Mode.</head>
-<sp who='LA MODE'><speaker>LA MODE sautant au col de Comus.</speaker>
+<sp stage="fight" who='LA MODE'><speaker>LA MODE, sautant au col de Comus.</speaker>
 	<l id='205'>Cher Comus, que je vous embrasse.</l>
 </sp>
-<sp who='COMUS'><speaker>COMUS, la repoussant.</speaker>
+<sp stage="push" who='COMUS'><speaker>COMUS, la repoussant.</speaker>
 	<l id='206'>Comment donc, s'il vous plaît ?</l>
 </sp>
 <sp who='LA MODE'><speaker>LA MODE.</speaker>
@@ -458,13 +458,13 @@
 	<l id='215'>Non, je ne vous vis de ma vie.</l>
 </sp>
 <sp who='LA MODE'><speaker>LA MODE vivement et gaiement.</speaker>
-	<l id='216' part='i'>Quoi tout de bon ?</l>
+	<l id='216' part="i">Quoi tout de bon ?</l>
 </sp>
 <sp who='COMUS'><speaker>COMUS.</speaker>
-	<l id='216' part='m'>Tout de bon.</l>
+	<l id='216' part="m">Tout de bon.</l>
 </sp>
 <sp who='LA MODE'><speaker>LA MODE.</speaker>
-	<l id='216' part='f'>Quel plaisir !</l>
+	<l id='216' part="f">Quel plaisir !</l>
 	<l id='217'>Comus me méconnaît, j'en ai l'âme ravie. </l>
 <stage type="laugh">Elle rit comme une folle.</stage>
 </sp>
@@ -499,10 +499,10 @@
 	<l id='237'>Fille de la folie et du premier venu.</l>
 </sp>
 <sp who='COMUS'><speaker>COMUS.</speaker>
-	<l id='238' part='i'>Qui diable vous eût devinée ?</l>
+	<l id='238' part="i">Qui diable vous eût devinée ?</l>
 </sp>
 <sp who='LA MODE'><speaker>LA MODE.</speaker>
-	<l id='238' part='f'>Depuis neuf mois</l>
+	<l id='238' part="f">Depuis neuf mois</l>
 	<l id='239'>Vous me trouvez donc bien changée ?</l>
 </sp>
 <sp who='COMUS'><speaker>COMUS.</speaker>
@@ -539,10 +539,10 @@
 	<l id='260'>Qui doivent distinguer les ministres des Parques.</l>
 </sp>
 <sp who='COMUS'><speaker>COMUS.</speaker>
-	<l id='261' part='i'>Ils tutoient du coup d'oeil.</l>
+	<l id='261' part="i">Ils tutoient du coup d'oeil.</l>
 </sp>
 <sp who='LA MODE'><speaker>LA MODE.</speaker>
-	<l id='261' part='f'>Je les ai déguisés</l>
+	<l id='261' part="f">Je les ai déguisés</l>
 	<l id='262'>En Adonis ; j'ai mis leurs personnes charmantes ;</l>
 	<l id='263'>Sous les couleurs les plus brillantes.</l>
 	<l id='264'>Ils sont brodés , poudrés, frisés,</l>
@@ -576,17 +576,17 @@
 	<l id='281'>Ils vont en égayer l'oreille.</l>
 </sp>
 <sp who='COMUS'><speaker>COMUS.</speaker>
-	<l id='282' part='i'>Et les guérirent-ils ?</l>
+	<l id='282' part="i">Et les guérirent-ils ?</l>
 </sp>
 <sp who='LA MODE'><speaker>LA MODE.</speaker>
-	<l id='282' part='f'>Serait-ce donc merveille ?</l>
+	<l id='282' part="f">Serait-ce donc merveille ?</l>
 	<l id='283'>On les en voit rater tout autant qu'autrefois.</l>
 </sp>
 <sp who='COMUS'><speaker>COMUS.</speaker>
-	<l id='284' part='i'>Qu'appeliez-vous rater ?</l>
+	<l id='284' part="i">Qu'appeliez-vous rater ?</l>
 </sp>
 <sp who='LA MODE'><speaker>LA MODE.</speaker>
-	<l id='284' part='f'>Guérir, c'est même chose. </l>
+	<l id='284' part="f">Guérir, c'est même chose. </l>
 	<l id='285'>Hé bien, que dites-vous de la métamorphose ?</l>
 </sp>
 <sp who='COMUS'><speaker>COMUS.</speaker>
@@ -617,21 +617,21 @@
 <sp who='COMUS'><speaker>COMUS.</speaker>
 	<l id='299'>Vous en jouez comme d'une pagode.</l>
 </sp>
-<sp who='LA MODE'><speaker>LA MODE, follement.</speaker>
+<sp stage="foolish" who='LA MODE'><speaker>LA MODE, follement.</speaker>
 	<l id='300'>À propos je vous quitte, et je cours de ce pas...</l>
 </sp>
 <sp who='COMUS'><speaker>COMUS.</speaker>
 	<l id='301'>Déjà ? Quelle importante affaire...</l>
 	<l id='302'>L'Hiver est arrivé, vous avez des appas,</l>
-	<l id='303' part='i'>Il pourrait pour épouse...</l>
+	<l id='303' part="i">Il pourrait pour épouse...</l>
 </sp>
 <sp who='LA MODE'><speaker>LA MODE.</speaker>
-	<l id='303' part='f'>Oh je n'épouse pas.</l>
+	<l id='303' part="f">Oh je n'épouse pas.</l>
 	<l id='304'>Je reviendrai, je cours dire à ma couturière,</l>
 	<l id='305'>Que l'habit que tantôt j'avais imaginé,</l>
 	<l id='306'>Me paraît déjà vieux pour le goût et l'ouvrage !</l>
 	<l id='307'>À tantôt, cher Comus.</l>
-<stage type="[N/A]">Elle part en courant.</stage>
+<stage type="run/exit">Elle part en courant.</stage>
 </sp>
 <sp who='COMUS'><speaker>COMUS.</speaker>
 	<l id='308'>Soyez toujours bien sage...</l>
@@ -639,9 +639,9 @@
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Comus, Le Pharaon. </head>
-<sp who='LE-PHARAON'><speaker>LE PHARAON, mal habillé et enveloppé dans un manteau courant sur le théâtre.</speaker> 
-	<l id='310'>Où suis-je... où me cacher;... Ah grâce...</l>
-<stage type="[N/A]">Il se jette à genoux tourné vers le côté d'où il vient de sortir.</stage>
+<sp stage="costume/run" who='LE-PHARAON'><speaker>LE PHARAON, mal habillé et enveloppé dans un manteau courant sur le théâtre.</speaker> 
+	<l id='310'>Où suis-je... où me cacher... Ah grâce...</l>
+<stage type="kneel/turn">Il se jette à genoux tourné vers le côté d'où il vient de sortir.</stage>
 	<l id='311'>Messieurs, je vous quitte la place ;</l>
 	<l id='312'>Vous ne me verrez plus ici sur mon honneur ;</l>
 	<l id='313'>Je sors de Paris dans une heure,</l>
@@ -651,7 +651,7 @@
 	<l id='315'>Tout Dieu que je me sens, ce drôle me fait peur,</l>
 	<l id='316'>C'est sans doute un voleur.</l>
 </sp>
-<sp who='LE-PHARAON'><speaker>LE PHARAON, se rassurant.</speaker>
+<sp stage="quiet" who='LE-PHARAON'><speaker>LE PHARAON, se rassurant.</speaker>
 	<l id='317'>Mais du Dieu de l'Hiver c'est ici la demeure ;</l>
 	<l id='318'>Et j'aperçois Comus, Bonjour Seigneur...</l>
 	<l id='319'>Quoi vous, tremblez ! Allons qu'on se rassure, </l>
@@ -689,10 +689,10 @@
 	<l id='343'>Il entrouvre son manteau.</l>
 </sp>
 <sp who='COMUS'><speaker>COMUS.</speaker>
-	<l id='344' part='i'>Cet ennemi quel est-il ?</l>
+	<l id='344' part="i">Cet ennemi quel est-il ?</l>
 </sp>
 <sp who='LE-PHARAON'><speaker>LE PHARAON.</speaker>
-	<l id='344' part='f'>Le bon ordre,</l>
+	<l id='344' part="f">Le bon ordre,</l>
 	<l id='345'>Un Dieu qui voir plus clair qu'Argus.</l>
 	<l id='346'>Four m'échapper de lui, mes soins sont superflus,</l>
 	<l id='347'>Son nez lut dit où je puis être :'</l>
@@ -704,18 +704,18 @@
 	<l id='351'>Je plains l'état où vous voilà.</l>
 </sp>
 <sp who='LE-PHARAON'><speaker>LE PHARAON.</speaker>
-	<l id='352' part='i'>Tous pourriez réparer ce mal...</l>
+	<l id='352' part="i">Tous pourriez réparer ce mal...</l>
 </sp>
 <sp who='COMUS'><speaker>COMUS.</speaker>
-	<l id='352' part='f'>Comment cela ?</l>
+	<l id='352' part="f">Comment cela ?</l>
 </sp>
 <sp who='LE-PHARAON'><speaker>LE PHARAON.</speaker>
 	<l id='353'>À l'Hiver faites moi connaître ;</l>
 	<l id='354'>Qu'il me loge pour grand merci,</l>
-	<l id='355' part='i'>Je vous divertirais...</l>
+	<l id='355' part="i">Je vous divertirais...</l>
 </sp>
 <sp who='COMUS'><speaker>COMUS. </speaker>
-	<l id='355' part='f'>Eh de quelle manière ?</l>
+	<l id='355' part="f">Eh de quelle manière ?</l>
 </sp>
 <sp who='LE-PHARAON'><speaker>LE PHARAON.</speaker>
 	<l id='356'>Et tandis par mon savoir-faire.</l>
@@ -786,16 +786,16 @@
 </sp>
 <sp who='COMUS'><speaker>COMUS.</speaker>
 	<l id='403'>Non sans réplique et sans excuse,</l>
-	<l id='404' part='i'>Sortez vite...</l>
+	<l id='404' part="i">Sortez vite...</l>
 </sp>
 <sp who='LE-PHARAON'><speaker>LE PHARAON.</speaker>
-	<l id='404' part='m'>Ha ha ha.</l>
+	<l id='404' part="m">Ha ha ha.</l>
 </sp>
 <sp who='COMUS'><speaker>COMUS.</speaker>
-	<l id='404' part='m'>Vous riez ?</l>
+	<l id='404' part="m">Vous riez ?</l>
 </sp>
 <sp who='LE-PHARAON'><speaker>LE PHARAON.</speaker>
-	<l id='404' part='f'>Oui, ma foi.</l>
+	<l id='404' part="f">Oui, ma foi.</l>
 	<l id='405'>Vous croyez me fâcher, et vous êtes bien buse,</l>
 	<l id='406'>Car vous y perdez plus que moi.</l>
 	<l id='407'>Avec un Intendant, je sais comme on en use,</l>
@@ -804,11 +804,11 @@
 	<l id='410'>Vous me regretterez, et je pars à l'instant :</l>
 	<l id='411'>Je vais faire briller mon mérite à Venise,</l>
 	<l id='412'>Où Mons du Carnaval m'attend. </l>
-<stage type="exit">Il s'en va. Et après quelques pas il se détourne.</stage>
-	<l id='413' part='i'>Ah !... Vous me rappelez ?...</l>
+<stage type="exit/turn">Il s'en va. Et après quelques pas il se détourne.</stage>
+	<l id='413' part="i">Ah !... Vous me rappelez ?...</l>
 </sp>
 <sp who='COMUS'><speaker>COMUS.</speaker>
-	<l id='413' part='f'>Qui, moi ? Je vous rappelle ?</l>
+	<l id='413' part="f">Qui, moi ? Je vous rappelle ?</l>
 </sp>
 <sp who='LE-PHARAON'><speaker>LE PHARAON.</speaker>
 	<l id='414'>Oui, vous jouez de la prunelle :</l>
@@ -854,18 +854,18 @@
 	<l id='435'>Que les cornes soudain lui vinrent à la tête.</l>
 </sp>
 <sp who='COMUS'><speaker>COMUS.</speaker>
-	<l id='436' part='i'>Mais qui donc êtes-vous ? Peste !</l>
+	<l id='436' part="i">Mais qui donc êtes-vous ? Peste !</l>
 </sp>
 <sp who='LE-BAL'><speaker>LE BAL.</speaker>
-	<l id='436' part='f'>Du Carnaval,</l>
+	<l id='436' part="f">Du Carnaval,</l>
 	<l id='437'>Je suis fils naturel et frère de la Danse,</l>
 	<l id='438'>Mercure éleva mon enfance.</l>
 </sp>
 <sp who='COMUS'><speaker>COMUS.</speaker>
-	<l id='439' part='i'>L'habile Précepteur ! Votre nom est ?</l>
+	<l id='439' part="i">L'habile Précepteur ! Votre nom est ?</l>
 </sp>
 <sp who='LE-BAL'><speaker>LE BAL.</speaker>
-	<l id='439' part='f'>Le Bal.</l>
+	<l id='439' part="f">Le Bal.</l>
 </sp>
 <sp who='COMUS'><speaker>COMUS.</speaker>
 	<l id='440'>Ah, je ne vous connais guère.</l>
@@ -949,10 +949,10 @@
 	<l id='487'>Aux noces de l'Hiver ; car, moi, je le marie.</l>
 </sp>
 <sp who='COMUS'><speaker>COMUS.</speaker>
-	<l id='488' part='i'>Vous mariez l'Hiver ?</l>
+	<l id='488' part="i">Vous mariez l'Hiver ?</l>
 </sp>
 <sp who='LE-BAL'><speaker>LE BAL.</speaker>
-	<l id='488' part='f'>À la Danse ma soeur.</l>
+	<l id='488' part="f">À la Danse ma soeur.</l>
 </sp>
 <sp who='COMUS'><speaker>COMUS.</speaker>
 	<l id='489'>Que voulez-vous qu'il fasse d'elle ?</l>
@@ -979,7 +979,7 @@
 	<l id='499'>C'est un Protée.</l>
 	<l id='500'>Veut-elle plaire à l'homme de Palais,</l>
 	<l id='501'>Ou, bien au Financier ? Elle est simple, innocente, </l>
-<stage type="[N/A]">Le Bal contrefait ces trois caractères.</stage>
+<stage type="imitate">Le Bal contrefait ces trois caractères.</stage>
 	<l id='502'>Naïve, timide, tremblante ; </l>
 	<l id='503'>Elle rougit de tout, c'est une Agnès, </l>
 	<l id='504'>Veut-elle prendre en ses filets </l>
@@ -1020,14 +1020,14 @@
 	<l id='531'>Du moins il l'aimera, pendant quelques moments ;</l>
 	<l id='532'>C'est assez pour ma soeur, elle est peu façonnière.</l>
 	<l id='533'>Adieu je cours faire avancer mes gens. </l>
-<stage type="exit">Il sort en chantant et en dansant.</stage>
+<stage type="sing/danse/exit">Il sort en chantant et en dansant.</stage>
 </sp>
 <sp who='COMUS'><speaker>COMUS.</speaker>
 	<l id='534'>L'honnête soeur ! Et le bon frère !</l>
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII. Comus, La Médisance.</head>
-<stage type="[N/A]">La médisance est habillée en dévote, sans panier, avec une pointe noir et une espèce de guimpe ou de collet.</stage>
+<stage type="costume">La médisance est habillée en dévote, sans panier, avec une pointe noir et une espèce de guimpe ou de collet.</stage>
 <sp who='COMUS'><speaker>COMUS.</speaker>
 <note type="L">Douairière : Veuve qui jouit de son douaire. Il ne se dit que des dames de la première qualité. [F]</note>
 	<l id='535'>Mais que veut cette douairière ?</l>
@@ -1035,23 +1035,23 @@
 	<l id='537'>Il faut écouter la friponne ;</l>
 	<l id='538'>Mais d'avance, elle peut compter sur mes refus.</l>
 </sp>
-<sp who='LA-MÉDISANCE'><speaker>LA MÉDISANCE doucereusement.</speaker>
+<sp stage="sweet" who='LA-MÉDISANCE'><speaker>LA MÉDISANCE, doucereusement.</speaker>
 	<l id='539'>Le Ciel vous tienne en joie, agréable Cornus.</l>
 </sp>
 <sp who='COMUS'><speaker>COMUS.</speaker>
 	<l id='540'>Sans compliment, que voulez-vous, ma bonne ?</l>
 </sp>
 <sp who='LA-MÉDISANCE'><speaker>LA MÉDISANCE aigrement.</speaker>
-	<l id='541' part='i'>Ma bonne ! Moi ?</l>
+	<l id='541' part="i">Ma bonne ! Moi ?</l>
 </sp>
 <sp who='COMUS'><speaker>COMUS.</speaker>
-	<l id='541' part='f'>Quoi ! Ce nom vous étonne ?</l>
+	<l id='541' part="f">Quoi ! Ce nom vous étonne ?</l>
 </sp>
 <sp who='LA-MÉDISANCE'><speaker>LA MÉDISANCE doucereusement.</speaker>
 	<l id='542'>Ô Jupiter ! Souffrez-vous ces abus.</l>
 	<l id='543'>Moi ! M'appeler ma bonne ? une Déesse !</l>
 </sp>
-<sp who='COMUS'><speaker>COMUS, riant.</speaker>
+<sp stage="laugh" who='COMUS'><speaker>COMUS, riant.</speaker>
 	<l id='544'>Qui vous ? une Divinité !</l>
 	<l id='545'>Que Bacchus fit sans doute en son ivresse.</l>
 </sp>
@@ -1061,14 +1061,14 @@
 	<l id='548'>Et ma mère l'Oisiveté.</l>
 </sp>
 <sp who='COMUS'><speaker>COMUS.</speaker>
-	<l id='549' part='i'>Les honnêtes parents ! Votre nom ?</l>
+	<l id='549' part="i">Les honnêtes parents ! Votre nom ?</l>
 </sp>
 <sp who='LA-MÉDISANCE'><speaker>LA MÉDISANCE.</speaker>
-	<l id='549' part='f'>Le vulgaire</l>
-	<l id='550' part='i'>M'appelle Médisance.</l>
+	<l id='549' part="f">Le vulgaire</l>
+	<l id='550' part="i">M'appelle Médisance.</l>
 </sp>
 <sp who='COMUS'><speaker>COMUS.</speaker>
-	<l id='550' part='f'>Ah, je vous reconnais.</l>
+	<l id='550' part="f">Ah, je vous reconnais.</l>
 </sp>
 <sp who='LA-MÉDISANCE'><speaker>LA MÉDISANCE.</speaker>
 	<l id='551'>Je me plais peu chez les petits Bourgeois ;</l>
@@ -1104,10 +1104,10 @@
 	<l id='569'>Tout sentira les traits de ma furie.</l>
 </sp>
 <sp who='COMUS'><speaker>COMUS.</speaker>
-	<l id='570' part='i'>Fort bien : et votre nom sera ?</l>
+	<l id='570' part="i">Fort bien : et votre nom sera ?</l>
 </sp>
 <sp who='LA-MÉDISANCE'><speaker>LA MÉDISANCE.</speaker>
-	<l id='570' part='f'>La vérité.</l>
+	<l id='570' part="f">La vérité.</l>
 </sp>
 <sp who='COMUS'><speaker>COMUS.</speaker>
 	<l id='571'>Qui diantre s'en serait douté ?</l>
@@ -1212,10 +1212,10 @@
 	<l id='649'>Malgré les cris du spectateur,</l>
 	<l id='650'>Il offusque, il arrête et l'actrice et l'acteur ;</l>
 	<l id='651'>En traversant cent fois la scène</l>
-	<l id='652' part='i'>Cet autre...</l>
+	<l id='652' part="i">Cet autre...</l>
 </sp>
 <sp who='COMUS'><speaker>COMUS.</speaker>
-	<l id='652' part='f'>As-tu bientôt noirci tous les mortels ?</l>
+	<l id='652' part="f">As-tu bientôt noirci tous les mortels ?</l>
 <note type="L">Furie : (...) certaines divinités infernales que les poètes païens feignaient entrer dans les hommes pour les posséder ou les tourmenter. [F]</note>
 	<l id='653'>Sors d'ici cruelle furie,</l>
 	<l id='654'>Retourne aux Enfers ta patrie ;</l>
@@ -1230,14 +1230,14 @@
 <note type="L">Quadriller : jouer au quadrille, qui est une troupe de cavaliers qui qui se réussissent pour un tournoi ou un carrousel.</note>
 	<l id='661'>Sa ressource toujours serait de quadriller :</l>
 	<l id='662'>Le jeu n'est que pour ceux qui ne savent rien dire.</l>
-	<l id='663' part='i'>L'Hiver m'épousera.</l>
+	<l id='663' part="i">L'Hiver m'épousera.</l>
 </sp>
 <sp who='COMUS'><speaker>COMUS.</speaker>
-	<l id='663' part='f'>Sors d'ici, Monstre affreux.</l>
+	<l id='663' part="f">Sors d'ici, Monstre affreux.</l>
 </sp>
-<sp who='LA-MÉDISANCE'><speaker>LA MÉDISANCE, d'un ton doucereux.</speaker>
+<sp stage="sweet" who='LA-MÉDISANCE'><speaker>LA MÉDISANCE, d'un ton doucereux.</speaker>
 	<l id='664'>Adieu, pour un instant, Comus, je me retire.</l>
-<stage type="[N/A]">Elle fait deux pas.</stage>
+<stage type="walk/stop">Elle fait deux pas.</stage>
 	<l id='665'>Vous êtes intendant, seigneur et scrupuleux.</l>
 </sp>
 <sp who='COMUS'><speaker>COMUS.</speaker>
@@ -1245,7 +1245,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='8'><head>SCÈNE VIII. Comus, Hector Criquet.</head>
-<stage type="[N/A]">Hector Criquet est habillé de noir avec un manteau, une grande perruque sans poudre et un grand rabat.</stage>
+<stage type="costume">Hector Criquet est habillé de noir avec un manteau, une grande perruque sans poudre et un grand rabat.</stage>
 <sp who='COMUS'><speaker>COMUS.</speaker>
 	<l id='667'>Mais que cherche ici ce visage ?</l>
 	<l id='668'>Serait-ce encore un Dieu ? Je n'en vis jamais tant.</l>
@@ -1301,20 +1301,20 @@
 </p>
 </sp>
 <sp who='COMUS'><speaker>COMUS.</speaker>
-	<l id='678' part='i'>Je le lirai.</l>
+	<l id='678' part="i">Je le lirai.</l>
 </sp>
 <sp who='HECTOR CRIQUET'><speaker>HECTOR CRIQUET.</speaker>
 <p id='7'>
 	<s id='1'>Je reviendrai demain matin, savoir quel cas vous aurez fait de mon placet. </s>
 	<s id='2'>Serviteur, Seigneur, serviteur.</s>
 </p>
-<stage type="[N/A]">Il fait deux pas et revient.</stage>
+<stage type="action/walk">Il fait deux pas et revient.</stage>
 <p id='8'>
 	<s id='1'>Comme vous êtes un Dieu, j'ai mis le placet en votre langage, je l'ai écrit en vers.</s>
 </p>
 </sp>
 <sp who='COMUS'><speaker>COMUS.</speaker>
-	<l id='678' part='f'>Tant mieux.</l>
+	<l id='678' part="f">Tant mieux.</l>
 	<l id='679'>Il m'en sera plus précieux.</l>
 </sp>
 <sp who='HECTOR CRIQUET'><speaker>HECTOR CRIQUET.</speaker>
@@ -1323,10 +1323,10 @@
 </p>
 </sp>
 <sp who='COMUS'><speaker>COMUS.</speaker>
-	<l id='680' part='i'>Très volontiers.</l>
+	<l id='680' part="i">Très volontiers.</l>
 </sp>
-<sp who='HECTOR CRIQUET'><speaker>HECTOR CRIQUET, déclamant ridiculement.</speaker>
-	<l id='680' part='f'>À Monseigneur</l>
+<sp stage="declamation" who='HECTOR CRIQUET'><speaker>HECTOR CRIQUET, déclamant ridiculement.</speaker>
+	<l id='680' part="f">À Monseigneur</l>
 	<l id='681'>Comus, Dieu de la joie et de la bonne chère,</l>
 	<l id='682'>Et du Dieu de l'Hiver Intendant ordinaire,</l>
 	<l id='683'>Mais Intendant tout plein d'honneur.</l>
@@ -1349,17 +1349,17 @@
 	<l id='697'>Le charmant placet ! Les beaux Vers !</l>
 	<l id='698'>Vous savez tous ces arts divers ?</l>
 </sp>
-<sp who='HECTOR CRIQUET'><speaker>HECTOR CRIQUET, déclamant ridiculement.</speaker>
+<sp stage="declamation" who='HECTOR CRIQUET'><speaker>HECTOR CRIQUET, déclamant ridiculement.</speaker>
 <p id='10'>
 	<s id='1'>Non pas, Seigneur, mais je les enseigne. </s>
 	<s id='2'>À demain Seigneur, Serviteur.</s>
 </p>	
-<stage type="[N/A]">Il fait six pas.</stage>
+<stage type="walk">Il fait six pas.</stage>
 </sp>
 <sp who='COMUS'><speaker>COMUS.</speaker>
 	<l id='699'>La peste soit du fanatique.</l>
 </sp>
-<sp who='HECTOR CRIQUET'><speaker>HECTOR CRIQUET, revenant.</speaker>
+<sp stage="back" who='HECTOR CRIQUET'><speaker>HECTOR CRIQUET, revenant.</speaker>
 	<l id='700'>S'il vous plaisait, je vous chanterais mon placet,</l>
 	<l id='701'>Car je l'ai mis en musique.</l>
 </sp>
@@ -1388,7 +1388,7 @@
 </sp>
 <sp who='HECTOR CRIQUET'><speaker>HECTOR CRIQUET.</speaker>
 <p id='13'>
-	<s id='1'>La, là la... </s>
+	<s id='1'>La, la, la... </s>
 	<s id='2'>Quelle voix voulez-vous ? </s>
 	<s id='3'>Car je les ai tontes, haut-dessus, bas-dessus, haute-contre, taille, concordant, discordant ; voix entière ; voix claire ; basse-taille, basse-contre : parlez, choisissez.</s>
 </p>
@@ -1408,7 +1408,7 @@
 <p id='15'>
 	<s id='1'>Monseigneur humblement supplie, etc.</s>
 </p>
-<stage type="[N/A]">Jusqu'à ces mots, le dit Hector Criquet.</stage>
+<stage type="toward">Jusqu'à ces mots, le dit Hector Criquet.</stage>
 </sp>
 <sp who='COMUS'><speaker>COMUS.</speaker>
 	<l id='707'>Je suis enchanté de votre air.</l>
@@ -1420,13 +1420,13 @@
 	<s id='2'>À demain, Seigneur. </s>
 	<s id='3'>Serviteur.</s>
 </p>
-<stage type="[N/A]">Il fait huit pas.</stage>
+<stage type="walk">Il fait huit pas.</stage>
 </sp>
 <sp who='COMUS'><speaker>COMUS.</speaker>
 	<l id='709'>Faut-il jamais pareille extravagance !</l>
 </sp>
-<sp who='HECTOR CRIQUET'><speaker>HECTOR CRIQUET, revenant.</speaker>
-<stage type="[N/A]">Il tire de dessous son manteau un violon qu'il présente à Comus.</stage>
+<sp stage="back" who='HECTOR CRIQUET'><speaker>HECTOR CRIQUET, revenant.</speaker>
+<stage type="show/show">Il tire de dessous son manteau un violon qu'il présente à Comus.</stage>
 <p id='17'>
 	<s id='1'>Un Dieu sait toutes choses. </s>
 	<s id='2'>Sauriez-vous jouer du violon ?</s>
@@ -1445,7 +1445,7 @@
 	<l id='712'>Je n'oublierai jamais ce trait.</l>
 </sp>
 <sp who='HECTOR CRIQUET'><speaker>HECTOR CRIQUET.</speaker>
-<stage type="sing">Il chante, joue du violon, et danse en même-temps.</stage>
+<stage type="sing/music/danse">Il chante, joue du violon, et danse en même-temps.</stage>
 <p id='19'>
 	<s id='1'>Je vais vous en donner le plaisir moi seul.</s>
 </p>
@@ -1469,7 +1469,7 @@
 	<s id='1'>Dites, la Bagatelle. </s>
 	<s id='2'>Qu'un homme du premier mérite entre dans une compagnie du bel air, s'il ne débute pas par une révérence extravagante, dit-il d'ailleurs des choses plus galantes que Démosthène et Ciceron ; si, c'est un maussade, un pédant, un sot, un homme à jeter par les fenêtres : qu'il entre ensuite un étourdi, qui jette sa tête d'un côté, son corps de l'autre ; qui danse sur un pied, qui chante en même temps, qui voltige de fauteuil en fauteuil, il ne dira que des fadaises, et toute la compagnie s'écrira : ah le joli homme ! </s>
 	<s id='3'>Qu'il est aimable ! </s>
-	<s id='4'>Qu'il a d'esprit !  </s>
+	<s id='4'>Qu'il a d'esprit ! </s>
 	<s id='5'>C'est un prodige.</s>
 </p>
 </sp>
@@ -1491,7 +1491,7 @@
 	<l id='730'>Mais vous m'avez donné des passe-temps trop doux ;</l>
 	<l id='731'>Venez revoir demain, et j'aurai soin de vous.</l>
 </sp>
-<sp who='HECTOR CRIQUET'><speaker>HECTOR CRIQUET, joyeux.</speaker>
+<sp stage="happy" who='HECTOR CRIQUET'><speaker>HECTOR CRIQUET, joyeux.</speaker>
 <p id='22'>
 	<s id='1'>À demain, Seigneur, Serviteur, Serviteur.</s>
 </p>
@@ -1686,29 +1686,29 @@
 	<l id='843'>Point de courroux. Je te conjure,</l>
 	<l id='844'>Ami, reste à rire avec nous.</l>
 </sp>
-<sp who="L'HYMEN"><speaker>L'HYMEN, en colère.</speaker>
+<sp stage="anger" who="L'HYMEN"><speaker>L'HYMEN, en colère.</speaker>
 	<l id='845'>Vous m'insultez encor ? Que je reste avec vous ?</l>
 	<l id='846'>Prenez-vous l'Hymen pour Mercure ?</l>
 	<l id='847'>Oh vous épouserez, je le veux, je l'entends...</l>
 </sp>
-<sp who='COMUS'><speaker>COMUS, à l'Hiver.</speaker>
+<sp stage="toward" who='COMUS'><speaker>COMUS, à l'Hiver.</speaker>
 	<l id='848'>Ce n'est que pour trois mois.</l>
 </sp>
 <sp who="L'HIVER"><speaker>L'HIVER.</speaker>
 	<l id='849'>Puisqu'il le faut, je prends...</l>
-	<l id='850' part='i'>Je prends...</l>
+	<l id='850' part="i">Je prends...</l>
 </sp>
-<sp who="L'HYMEN"><speaker>L'HYMEN, brusquement.</speaker>
-	<l id='850' part='m'>Achevez donc.</l>
+<sp stage="abruply" who="L'HYMEN"><speaker>L'HYMEN, brusquement.</speaker>
+	<l id='850' part="m">Achevez donc.</l>
 </sp>
 <sp who="L'HIVER"><speaker>L'HIVER.</speaker>
-	<l id='850' part='f'>Un peu de patience.</l>
+	<l id='850' part="f">Un peu de patience.</l>
 </sp>
 <sp who="L'HYMEN"><speaker>L'HYMEN.</speaker>
-	<l id='851' part='i'>Je prends... Aide-moi donc, Cornus.</l>
+	<l id='851' part="i">Je prends... Aide-moi donc, Cornus.</l>
 </sp>
 <sp who='COMUS'><speaker>COMUS.</speaker>
-	<l id='851' part='f'>Prenez la Danse ;</l>
+	<l id='851' part="f">Prenez la Danse ;</l>
 	<l id='852'>Elle vient à propos vers nous.</l>
 </sp>
 <sp who="L'HIVER"><speaker>L'HIVER.</speaker>
@@ -1725,9 +1725,9 @@
 </sp>
 </div2>
 <div2 type="scene" n='14'><head>DIVERTISSEMENT.</head>
-<stage type="[N/A]">Le Bal amène les Jeux, les Ris et les Grâces.</stage>
-<stage type="[N/A]">MARCHE.</stage>
-<sp who='JEUX_RIS_GRACES'><speaker>[JEUX, RIS et GRACES].</speaker>
+<stage type="entrance">Le Bal amène les Jeux, les Ris et les Grâces.</stage>
+<stage type="musique">MARCHE.</stage>
+<sp stage="together" who='JEUX_RIS_GRACES'><speaker>[JEUX, RIS et GRACES].</speaker>
 <stage type="music">Air.</stage>
 	<l id='857'>Venez plaisirs charmants et doux ;</l>
 	<l id='858'>Assemblez-vous troupe immortelle</l>
@@ -1743,7 +1743,7 @@
 	<l id='868'>Rajeunit sans cesse,</l>
 	<l id='869'>Et trouve encore de beaux jours.</l>
 <stage type="danse">On danse.</stage>
-<stage type="music">Air en duo.</stage>
+<stage type="title">Air en duo.</stage>
 	<l id='870'>L'Hiver pour nous n'a rien d'épouvantable ;</l>
 	<l id='871'>Ce n'est point un vieillard, triste, morne, grondeur,</l>
 	<l id='872'>Cassé, transi, trembleur ;</l>
@@ -1757,7 +1757,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='15'><head>VAUDEVILLE.</head>
-<sp who='JEUX_RIS_GRACES'><speaker>[JEUX, RIS et GRACES].</speaker>
+<sp stage="together" who='JEUX_RIS_GRACES'><speaker>[JEUX, RIS et GRACES].</speaker>
 	<l id='879'>Quand un jeune amant vif et tendre,</l>
 	<l id='880'>A trouvé l'art de nous surprendre,</l>
 	<l id='881'>L'Hiver n'éteint point nos feux ;</l>

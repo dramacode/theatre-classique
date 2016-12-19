@@ -8,7 +8,7 @@
 			<date>1670</date>
 		</titleStmt>
 		<publicationStmt>	
-			<p>publié par Paul FIEVRE, Mai 2002, revu octobre 2011, revu mars 2014.</p>
+			<publisher>publié par Paul FIEVRE, Mai 2002, revu octobre 2011, revu mars 2016.</publisher>
 			<idno>RACINE_BRITANNICUS</idno>
 		</publicationStmt>
 		<SourceDesc>
@@ -24,7 +24,7 @@
 				</liens>	
 		</SourceDesc>
 	</fileDesc>
-	</teiHeader>
+</teiHeader>
 <text>
 	<front>
 		<docTitle>
@@ -34,7 +34,7 @@
 		<docDate value='1670'>M. DC LXX. AVEC PRIVILÈGE DU ROI</docDate>
 		<docAuthor id='RACINE, Jean' bio='racine'>Jean Racine</docAuthor>
 		<docImprint>
-				<privilege id='1670-01-27'><head>Extrait du privilège du Roi</head>
+				<privilege id='1670-01-07'><head>Extrait du privilège du Roi</head>
 				<p>Par grâce et privilège du Roi du 7ème janvier 1670. Signe DALENCE. Il est permis au Sieur Racine de faire imprimer, vendre et débiter par tel libraire ou imprimeur qu'il aura choisi, une pièce de Théâtre par lui composée, intitulée Britannicus. Tragédie : et ce pendant le temps et espace de cinq années, avec défense à toutes personnes de quelque qualité ou condition qu'elle soient, d'en vendre ni débiter aucun exemplaire, que de ceux qui auront été imprimé de son consentement, à peine de confiscation des exemplaires et autres peines portées par le dit privilège. </p>
 				<p>Le sieur Racine a cédé le droit dudit privilège à Denis Thierry et à Claude Barbin, pour en jouir suivant le contenu en icelui.</p>
 				<p>Registré sur le livre des marchands libraires et imprimeurs de Paris, suivant et conformément à l'arrêt du Parlement de Paris du huitième avril 1653 et celui du conseil privé du Roi, du 27 février 1665. Signé A. SOUBRON syndic.</p>
@@ -1104,7 +1104,7 @@
 	<l id='755'>Et tandis qu'à mes yeux on le pleure, on l'adore, </l>
 	<l id='756'>Fais-lui payer bien cher un bonheur qu'il ignore.</l>
 </sp>
-<sp who="NARCISSE"><speaker>NARCISSE, seul.</speaker>
+<sp stage="alone" who="NARCISSE"><speaker>NARCISSE, seul.</speaker>
 	<l id='757'>La fortune t'appelle une seconde fois,</l>
 	<l id='758'>Narcisse, voudrais-tu résister à sa voix ?</l>
 	<l id='759'>Suivons jusques au bout ses ordres favorables ;</l>
@@ -1176,7 +1176,7 @@
 	<l id='799'>Adieu, je souffre trop éloigné de Junie.</l></sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II.</head>
-<sp who="BURRHUS"><speaker>BURRHUS, seul.</speaker>
+<sp stage="alone" who="BURRHUS"><speaker>BURRHUS, seul.</speaker>
 	<l id='800'>Enfin, Burrhus, Néron découvre son génie. </l>
 	<l id='801'>Cette férocité que tu croyais fléchir</l>
 	<l id='802'>De tes faibles liens est prête à s'affranchir.</l>
@@ -1621,7 +1621,7 @@
 <sp who="BURRHUS"><speaker>BURRHUS.</speaker>
 	<l id='1085' part="i">Que vois-je ? Ô ciel !</l>
 </sp>
-<sp who="NÉRON"><speaker>NÉRON, sans voir Burrhus.</speaker>
+<sp stage="watch" who="NÉRON"><speaker>NÉRON, sans voir Burrhus.</speaker>
 	<l id='1085' part="f">Ainsi leurs feux sont redoublés, </l>
 	<l id='1086'>Je reconnais la main qui les a rassemblés.</l>
 	<l id='1087'>Agrippine ne s'est présentée à ma vue,</l>
@@ -1666,7 +1666,7 @@
 	<l id='1114' part="f">Qu'on me laisse avec lui.</l></sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Agrippine, Néron.</head>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE, s'asseyant.</speaker>
+<sp stage="sit" who="AGRIPPINE"><speaker>AGRIPPINE, s'asseyant.</speaker>
 	<l id='1115'>Approchez-vous, Néron, et prenez votre place. </l>
 	<l id='1116'>On veut sur vos soupçons que je vous satisfasse.</l>
 	<l id='1117'>J'ignore de quel crime on a pu me noircir.</l>
@@ -1968,7 +1968,7 @@
 	<l id='1374'>Ma mort m'épargnera la vue et la douleur.</l>
 	<l id='1375'>On ne me verra point survivre à votre gloire. </l>
 	<l id='1376'>Si vous allez commettre une action si noire,</l>
-<stage type="action/fall">Il se jette à genoux.</stage>
+<stage type="kneel">Il se jette à genoux.</stage>
 	<l id='1377'>Me voilà prêt, Seigneur, avant que de partir,</l>
 	<l id='1378'>Faites percer ce coeur qui n'y peut consentir.</l>
 	<l id='1379'>Appelez les cruels qui vous l'ont inspirée,</l>
@@ -2375,7 +2375,7 @@
 	<l id='1647'>Le voici. Vous verrez si c'est moi qui l'inspire.</l></sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Agrippine, Néron, Burrhus, Narcisse.</head>
-<sp who="NÉRON"><speaker>NÉRON, voyant Agrippine.</speaker>
+<sp stage="watch" who="NÉRON"><speaker>NÉRON, voyant Agrippine.</speaker>
 	<l id='1648' part="i">Dieux !</l>
 </sp>
 <sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
@@ -2545,7 +2545,7 @@
 <bottom>
 <div1 type='annexe' n='1'><head>ANNEXES</head>	
 <div2 type='oeuvres' n='1'><head>Liste des oeuvres théâtrales de Jean Racine</head>
-	<p id='p'>Le corpus théâtral de Jean Racine se compose de douze pièces : onze tragédies et une comédie. Cette production se partage dans le temps en deux parties : la première et principale se situe entre les débuts avec "La Thébaïde" (1664) et le la polémique de "Phèdre" (1677), la seconde concerne les deux tragédies religieuses d'Esther (1689) et d'Athalie (1691) commandées par Mme de Maintenon. Les deux premières tragédies ont été représentées par le troupe de Molière au théâtre du Palais-Royal puis Racine confia ses pièces à la troupe de l'Hôtel de Bourgogne et se brouilla avec Molière. Son unique comédie fut représentée à l'Hôtel Guénégaud et ses dernières tragédies au Collège de Saint-Cyr jouées par les pensionnaires devant Louis XIV. Les sujets des tragédies sont tirés de la mythologie  grecque (La Thébaïde, Andromaque, Iphigénie, Phèdre), de l'histoire antique grecque (Alexandre) ou romaine (Britannicus, Bérénice, Mithridate), ou de l'histoire récente proche-orientale (Bajazet). Esther et Athalie sont inspirées des livres éponymes de la Bible. La comédie des Plaideurs ironise sur la justice de son temps.</p>
+	<p id='p'>Le corpus théâtral de Jean Racine se compose de douze pièces : onze tragédies et une comédie. Cette production se partage dans le temps en deux parties : la première et principale se situe entre les débuts avec "La Thébaïde" (1664) et le la polémique de "Phèdre" (1677), la seconde concerne les deux tragédies religieuses d'Esther (1689) et d'Athalie (1691) commandées par Mme de Maintenon. Les deux premières tragédies ont été représentées par le troupe de Molière au théâtre du Palais-Royal puis Racine confia ses pièces à la troupe de l'Hôtel de Bourgogne et se brouilla avec Molière. Son unique comédie fut représentée à l'Hôtel Guénégaud et ses dernières tragédies au Collège de Saint-Cyr jouées par les pensionnaires devant Louis XIV. Les sujets des tragédies sont tirés de la mythologie grecque (La Thébaïde, Andromaque, Iphigénie, Phèdre), de l'histoire antique grecque (Alexandre) ou romaine (Britannicus, Bérénice, Mithridate), ou de l'histoire récente proche-orientale (Bajazet). Esther et Athalie sont inspirées des livres éponymes de la Bible. La comédie des Plaideurs ironise sur la justice de son temps.</p>
 	
 	<p id='p'>La Thébaïde ou les rère ennemis (1664), représentée pour le première fois le 20 juin 1664 au Théâtre du Palais-Royal</p>
 	<p id='p'>Alexandre le Grand (1665), représentée pour le première fois le 4 décembre 1665 au Théâtre du Palais Royal.</p>

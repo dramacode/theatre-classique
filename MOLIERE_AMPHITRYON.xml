@@ -7,7 +7,7 @@
 			<author born='1622' born_location='Paris' death='1673' death_location='Paris' academie=''>MOLIÈRE</author>
 		</titleStmt>
 		<publicationStmt>	
-			<publisher>publié par Paul FIEVRE, Mai 2006, revu mei 2016</publisher>
+			<publisher>publié par Paul FIEVRE, Mai 2006, revu novembre 2016</publisher>
 			<idno>MOLIERE_AMPHYTRION</idno>
 		</publicationStmt>
 		<SourceDesc>
@@ -19,7 +19,8 @@
 			<taille>1750-2000</taille>
 			<permalien></permalien>
 		</SourceDesc>
-		<edStmt>[éd.] par M. Eugène Despois [et Paul Mesnard] </edStmt>		</fileDesc>
+		<edStmt>[éd.] par M. Eugène Despois [et Paul Mesnard] </edStmt>		
+	</fileDesc>
 </teiHeader>
 <text>
 	<front>
@@ -33,7 +34,7 @@
 			<privilege value='1668-02-20'><head>Extrait du privilège</head><p>Par grâce et privilège du Roi, donné à Saint-Germain-en-Laye, le 20 jour de Février 1668. Signé par le Roi en son conseil, MARGERET Il est permis à J.B.O. de MOLIERE, de faire imprimer par tel libraire ou imprimeur qu'il voudra choisir, une pièce de théâtre de sa composition, intitulée, l'AMPHITRYON, pendant la durée et espace de cinq années entières et accomplies, à commencer du jour, qu'elle sera achevée d'imprimer ; Et défenses sont faites à tous autres libraires et imprimeurs, d'imprimer , ou faire imprimer, vendre ou débiter, la dite pièce, sans le consentement de l'exposant, ou de ceux qui auront droit de lui, à peine aux contrevenants, de trois mille livres d'amende, confiscation des exemplaires contrefaits, et de tous dépens, dommages et intérêts, ainsi que plus au long il est porté par lesdites lettres de privilège.</p>
 			<p>Et le dit sieur de MOLIERE a cédé et transporté son droit de privilège, à Jean RIBOU marchand libraire à Paris, pour en jouir, suivant l'accord qui a été fait entre eux.</p>
 			<p>Registré sur le livre de la Communauté, suivant l'arrêt de la cour de Parlement.</p></privilege>
-			<acheveImprime  value='1668-03-05'>Achevé d'imprimer pour la première fois le 5 mars 1668.</acheveImprime>
+			<acheveImprime value='1668-03-05'>Achevé d'imprimer pour la première fois le 5 mars 1668.</acheveImprime>
 			<printer id='RIBOU'>À PARIS, chez JEAN RIBOU, au Palais, vis à vis la porte de l'Eglise de la Sainte-Chapelle, à l'Image Saint-Louis.</printer>
 		</docImprint>		
 		<div type="dedicace"><adresse>À SON ALTESSE SERENISSIME MONSEIGNEUR LE PRINCE.</adresse>
@@ -62,7 +63,7 @@
 <body>
 <div1 type="prologue" n="1"><head>PROLOGUE</head>
 <div2 type="scene" n="1"><head></head>
-<stage type="[N/A]">Mercure, sur un nuage ; la Nuit, dans un char traîné par deux chevaux.</stage>
+<stage type="entrance/fly">Mercure, sur un nuage ; la Nuit, dans un char traîné par deux chevaux.</stage>
 <sp who="MERCURE"><speaker>MERCURE</speaker>
 	<l id="1">Tout beau ! Charmante Nuit ; daignez vous arrêter :</l>
 	<l id="2">Il est certain secours que de vous on désire,</l>
@@ -326,7 +327,7 @@
 	<l id="202">Voici la chambre où j'entre en courrier que l'on mène,</l>
 	<l id="203">Et cette lanterne est Alcmène,</l>
 	<l id="204">À qui je me dois adresser.</l>
-<stage type="action">Il pose sa lanterne à terre, et lui adresse son compliment.</stage>
+<stage type="drop/toward">Il pose sa lanterne à terre, et lui adresse son compliment.</stage>
 	<l id="205">"Madame, Amphitryon, mon maître, et votre époux...</l>
 	<l id="206">(Bon ! Beau début !) L'esprit toujours plein de vos charmes,</l>
 	<l id="207">M'a voulu choisir entre tous,</l>
@@ -362,7 +363,7 @@
 	<l id="237">Je puis parler très savamment.</l>
 	<l id="238">Figurez-vous donc que Télèbe,</l>
 	<l id="239">Madame, est de ce côté :</l>
-<stage type="action">Il marque les lieux sur sa main, ou à terre.</stage>
+<stage type="write">Il marque les lieux sur sa main, ou à terre.</stage>
 	<l id="240">C'est une ville, en vérité,</l>
 	<l id="241">Aussi grande quasi que Thèbes.</l>
 	<l id="242">La rivière est comme là.</l>
@@ -382,13 +383,13 @@
 	<l id="256">Voilà notre avant-garde à bien faire animée ;</l>
 	<l id="257">Là, les archers de Créon, notre roi ;</l>
 	<l id="258">Et voici le corps d'armée,</l>
-<stage type="action">On fait un peu de bruit.</stage>
+<stage type="noise">On fait un peu de bruit.</stage>
 	<l id="259">Qui d'abord... Attendez : "Le corps d'armée a peur.</l>
 	<l id="260">J'entends quelque bruit, ce me semble.</l>
 </sp>
 </div2>
 <div2 type="scene" n="2"><head>SCÈNE II.</head>
-<sp who="MERCURE"><speaker>MERCURE, sous la forme de sosie.</speaker>
+<sp stage="transform" who="MERCURE"><speaker>MERCURE, sous la forme de Sosie.</speaker>
 	<l id="261">Sous ce minois qui lui ressemble,</l>
 	<l id="262">Chassons de ces lieux ce causeur,</l>
 	<l id="263">Dont l'abord importun troublerait la douceur</l>
@@ -427,7 +428,7 @@
 	<l id="286">Ne me présage rien de bon.</l>
 	<l id="287">Pour faire semblant d'assurance,</l>
 	<l id="288">Je veux chanter un peu d'ici.</l>
-<stage type="sing">Il chante ; et lorsque Mercure parle, sa voix s'affaiblit peu à peu.</stage>
+<stage type="sing/low">Il chante ; et lorsque Mercure parle, sa voix s'affaiblit peu à peu.</stage>
 </sp>
 <sp who="MERCURE"><speaker>MERCURE</speaker>
 	<l id="289">Qui donc est ce coquin qui prend tant de licence,</l>
@@ -514,7 +515,7 @@
 </sp>
 <sp who="MERCURE"><speaker>MERCURE</speaker>
 	<l id="323" part="f">À toi-même : et t'en voilà certain.</l>
-<stage type="action">Il lui donne un soufflet.</stage>
+<stage type="slap">Il lui donne un soufflet.</stage>
 </sp>
 <sp who="SOSIE"><speaker>SOSIE</speaker>
 	<l id="324" part="i">Ah ! Ah ! C'est tout de bon !</l>
@@ -543,7 +544,7 @@
 </sp>
 <sp who="SOSIE"><speaker>SOSIE</speaker>
 	<l id="336" part="i">Je quitte la partie.</l>
-<stage type="action">Il veut s'en aller.</stage>
+<stage type="away">Il veut s'en aller.</stage>
 </sp>
 <sp who="MERCURE"><speaker>MERCURE</speaker>
 	<l id="336" part="m">Où vas-tu ?</l>
@@ -638,7 +639,7 @@
 	<l id="359">Qu'ainsi l'a fait des dieux la puissance suprême,</l>
 	<l id="360">Et qu'il n'est pas en moi de pouvoir dire non,</l>
 	<l id="361">Et d'être un autre que moi-même.</l>
-<stage type="action">Mercure le bat.</stage>
+<stage type="hit">Mercure le bat.</stage>
 </sp>
 <sp who="MERCURE"><speaker>MERCURE</speaker>
 	<l id="362">Mille coups de bâton doivent être le prix</l>
@@ -750,7 +751,7 @@
 	<l id="413">Et peux-tu faire enfin, quand tu serais démon,</l>
 	<l id="414">Que je ne sois pas moi ? Que je ne sois Sosie ?</l>
 </sp>
-<sp who="MERCURE"><speaker>MERCURE, levant son bâton sur Sosie.</speaker>
+<sp stage="fight" who="MERCURE"><speaker>MERCURE, levant son bâton sur Sosie.</speaker>
 	<l id="415" part="i">Comment, tu peux...</l>
 </sp>
 <sp who="SOSIE"><speaker>SOSIE</speaker>
@@ -1045,7 +1046,7 @@
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV.</head>
 <sp who="CLEANTHIS"><speaker>CLEANTHIS</speaker>
-<stage type="action">Mercure veut s'en aller.</stage>
+<stage type="away">Mercure veut s'en aller.</stage>
 	<l id="629">Quoi ? C'est ainsi que l'on me quitte ?</l>
 </sp>
 <sp who="MERCURE"><speaker>MERCURE</speaker>
@@ -1135,7 +1136,7 @@
 	<l id="681">Qu'une fatigante vertu.</l>
 	<l id="682">Adieu, Cléanthis, ma chère âme :</l>
 	<l id="683">Il me faut suivre Amphitryon.</l>
-<stage type="action">Il s'en va.</stage>
+<stage type="exit">Il s'en va.</stage>
 </sp>
 <sp who="CLEANTHIS"><speaker>CLEANTHIS</speaker>
 	<l id="684">Pourquoi, pour punir cet infâme,</l>
@@ -1657,7 +1658,7 @@
 <sp who="AMPHITRYON"><speaker>AMPHYTRION</speaker>
 	<l id="968" part="i">Romps vite ce cachet.</l>
 </sp>
-<sp who="SOSIE"><speaker>SOSIE, ayant ouvert le coffret.</speaker>
+<sp stage="open" who="SOSIE"><speaker>SOSIE, ayant ouvert le coffret.</speaker>
 	<l id="968" part="f">Ma foi, la place est vide.</l>
 	<l id="969">Il faut que par magie on ait su le tirer,</l>
 	<l id="970">Ou bien que de lui-même il soit venu, sans guide,</l>
@@ -1715,7 +1716,7 @@
 	<l id="997">Tendrement je vous embrassai,</l>
 	<l id="998">Et témoignai ma joie à plus d'une reprise.</l>
 </sp>
-<sp who="AMPHITRYON"><speaker>AMPHITRYON, en soi-même.</speaker>
+<sp stage="aparte" who="AMPHITRYON"><speaker>AMPHITRYON, en soi-même.</speaker>
 	<l id="999">Ah ! D'un si doux accueil je me serais passé.</l>
 </sp>
 <sp who="ALCMÈNE"><speaker>ALCMÈNE</speaker>
@@ -1730,7 +1731,7 @@
 	<l id="1008">Et jamais votre amour, en pareille occurrence,</l>
 	<l id="1009">Ne me parut si tendre et si passionné.</l>
 </sp>
-<sp who="AMPHITRYON"><speaker>AMPHITRYON, en soi-même.</speaker>
+<sp stage="aparte" who="AMPHITRYON"><speaker>AMPHITRYON, en soi-même.</speaker>
 	<l id="1010">Peut-on plus vivement se voir assassiné ?</l>
 </sp>
 <sp who="ALCMÈNE"><speaker>ALCMÈNE</speaker>
@@ -2401,7 +2402,7 @@
 	<l id="1408">Cette colère qui m'accable,</l>
 	<l id="1409">Et que vous m'accordiez le pardon favorable</l>
 	<l id="1410">Que je vous demande à vos pieds.</l>
-<stage type="action">Sosie et Cléanthis se mettent aussi à genoux.</stage>
+<stage type="kneel">Sosie et Cléanthis se mettent aussi à genoux.</stage>
 	<l id="1411">Résolvez ici l'un des deux :</l>
 	<l id="1412">Ou de punir, ou bien d'absoudre.</l>
 </sp>
@@ -2717,7 +2718,7 @@
 <sp who="SOSIE"><speaker>SOSIE</speaker>
 	<l id="1574" part="i">Qu'est-ce donc ? Qu'avez-vous ?</l>
 </sp>
-<sp who="AMPHITRYON"><speaker>AMPHITRYON, mettant l'épée à la main.</speaker>
+<sp stage="fight" who="AMPHITRYON"><speaker>AMPHITRYON, mettant l'épée à la main.</speaker>
 	<l id="1574" part="f">Ce que j'ai, misérable ?</l>
 </sp>
 <sp who="SOSIE"><speaker>SOSIE</speaker>
@@ -2792,7 +2793,7 @@
 	<l id="1598">Au milieu des transports d'une âme satisfaite</l>
 	<l id="1599">D'avoir d'Alcmène apaisé le courroux.</l>
 </sp>
-<stage type="action">Sosie se relève.</stage>
+<stage type="stand">Sosie se relève.</stage>
 <sp who="AMPHITRYON"><speaker>AMPHYTRION</speaker>
 	<l id="1600">ô ciel ! Chaque instant, chaque pas</l>
 	<l id="1601">Ajoute quelque chose à mon cruel martyre ;</l>
@@ -2808,7 +2809,7 @@
 <sp who="AMPHITRYON"><speaker>AMPHYTRION</speaker>
 	<l id="1608">Allons : vous y pourrez seconder mon effort,</l>
 	<l id="1609">Et le ciel à propos ici vous a fait rendre.</l>
-<stage type="action">Amphitryon frappe à la porte de sa maison.</stage>
+<stage type="knock">Amphitryon frappe à la porte de sa maison.</stage>
 	<l id="1610">Voyons quelle fortune en ce jour peut m'attendre :</l>
 	<l id="1611">Débrouillons ce mystère, et sachons notre sort.</l>
 	<l id="1612">Hélas ! Je brûle de l'apprendre,</l>
@@ -2837,7 +2838,7 @@
 	<l id="1622">Plus mes regards sur eux s'attachent fortement,</l>
 	<l id="1623">Plus je trouve qu'en tout l'un à l'autre est semblable.</l>
 </sp>
-<sp who="SOSIE"><speaker>SOSIE, passant du côté de Jupiter.</speaker>
+<sp stage="walk" who="SOSIE"><speaker>SOSIE, passant du côté de Jupiter.</speaker>
 	<l id="1624">Messieurs, voici le véritable ;</l>
 	<l id="1625">L'autre est un imposteur digne de châtiment.</l>
 </sp>
@@ -2882,7 +2883,7 @@
 	<l id="1641">Laissez-moi m'assouvir dans mon courroux extrême,</l>
 	<l id="1642">Et laver mon affront au sang d'un scélérat.</l>
 </sp>
-<sp who="NAUCRATES"><speaker>NAUCRATES, arrêtant Amphitryon.</speaker>
+<sp stage="push" who="NAUCRATES"><speaker>NAUCRATES, arrêtant Amphitryon.</speaker>
 	<l id="1643">Nous ne souffrirons point cet étrange combat</l>
 	<l id="1644">D'Amphitryon contre lui-même.</l>
 </sp>
@@ -3264,7 +3265,7 @@
 	<l id="1883">Et je m'en vais au ciel, avec de l'ambrosie,</l>
 	<l id="1884">M'en débarbouiller tout à fait.</l>
 </sp>
-<stage type="action">Il vole dans le ciel.</stage>
+<stage type="fly">Il vole dans le ciel.</stage>
 <sp who="SOSIE"><speaker>SOSIE</speaker>
 	<l id="1885">Le ciel de m'approcher t'ôte à jamais l'envie !</l>
 	<l id="1886">Ta fureur s'est par trop acharnée après moi ;</l>
@@ -3316,7 +3317,7 @@
 	<l id="1924">Les paroles de Jupiter</l>
 	<l id="1925">Sont des arrêts des destinées.</l>
 </sp>
-<stage type="action">Il se perd dans les nues.</stage>
+<stage type="fly">Il se perd dans les nues.</stage>
 <sp who="NAUCRATES"><speaker>NAUCRATES</speaker>
 	<l id="1926">Certes, je suis ravi de ces marques brillantes...</l>
 </sp>

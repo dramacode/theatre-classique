@@ -47,7 +47,7 @@
 		<castItem><role id="UNE POULE" sex="2" type="Z" statut='animal' age='A' stat_amour='néant'>UNE POULE</role>.</castItem>
 		<castItem><role id="UN TAUREAU" sex="1" type="Z" statut='animal' age='A' stat_amour='néant'>UN TAUREAU</role>.</castItem>
 		<castItem><role id="UNE LINOTTE" sex="2" type="Z" statut='animal' age='A' stat_amour='néant'>UNE LINOTTE</role>.</castItem>
-		<castItem><role id="UN DAUPHIN" sex="1" type="Z" statut='animal' age='A' stat_amour='néant'>UN  DAUPHIN, Arlequin</role>.</castItem>
+		<castItem><role id="UN DAUPHIN" sex="1" type="Z" statut='animal' age='A' stat_amour='néant'>UN DAUPHIN, Arlequin</role>.</castItem>
 		<castItem><role id="DANSEURS, DANSEUSES" sex="9" type="H" statut='danseur' age='A' stat_amour='néant'>DANSEURS et DANSEUSES</role>.</castItem>
 	</castList>
 <set location='Ile de Circé' country='Lieu mythologique' periode='Temps mythologiques' link=''>La Scène est dans l'Ile de Circé.</set>
@@ -60,10 +60,10 @@
 <stage type="music">Air : Réveillez-vous, belle endormie.</stage>
 	<l id='1'>Charmante Circé, de votre île</l>
 	<l id='2'>Il faut donc enfin m'arracher.</l>
-	<l id='3' part='i'>Dieux ! Quel effort !</l>
+	<l id='3' part="i">Dieux ! Quel effort !</l>
 </sp>
 <sp who='CIRCÉ'><speaker>CIRCÉ.</speaker>
-	<l id='3' part='f'>Feinte inutile.</l>
+	<l id='3' part="f">Feinte inutile.</l>
 	<l id='4'>Là. Séparons-nous sans tricher.</l>
 <p id='1'>
 	<s id='1'>Oh ! </s>
@@ -313,10 +313,10 @@
 	<l id='41'>Bien plus que moi, vous qui parlez.</l>
 </sp>
 <sp who='ULYSSE'><speaker>ULYSSE.</speaker>
-	<l id='42' part='i'>Pourquoi donc ?</l>
+	<l id='42' part="i">Pourquoi donc ?</l>
 </sp>
 <sp who='LE LOUP'><speaker>LE LOUP.</speaker>
-	<l id='42' part='f'>C'est que vous allez</l>
+	<l id='42' part="f">C'est que vous allez</l>
 	<l id='43'>Retrouver votre femme.</l>
 </sp>
 <sp who='ULYSSE'><speaker>ULYSSE.</speaker>
@@ -346,7 +346,7 @@
 <stage type="[N/A]">Bis. </stage>
 	<l id='45'>Chez vous est maltraité.</l>
 	<l id='46'>Hélas ! Très peu s'en est fallu</l>
-<stage type="[N/A]">Bis.</stage>
+<stage type="bis">Bis.</stage>
 	<l id='47'>Que l'on ne m'ait pendu ?</l>
 </sp>
 <sp who='ULYSSE'><speaker>ULYSSE.</speaker>
@@ -657,7 +657,7 @@
 	<s id='1'>Bon. </s>
 	<s id='2'>N'ai-je pas mon Coq qui vaut mieux que tous les maris du monde.</s>
 </p>
-<stage type="music">Air 32 :  Du haut en bas. (Rondeau)</stage>
+<stage type="music">Air 32 : Du haut en bas. (Rondeau)</stage>
 	<l id='81'>Coquerico.</l>
 	<l id='82'>J'entends sitôt que je caquette ;</l>
 	<l id='83'>Coquerico.</l>
@@ -674,7 +674,7 @@
 <sp who='LA POULE'><speaker>LA POULE.</speaker>
 <stage type="music">Air 8 : Je reviendrai demain au soir.</stage>
 	<l id='88'>Troquer un mari contre un coq,</l>
-<stage type="[N/A]">Bis.</stage>
+<stage type="bis">Bis.</stage>
 	<l id='89'>N'est pas un mauvais troc ;</l>
 	<l id='90'>Un bon coq chante quand il veut,</l>
 <stage type="[N/A]">bis. </stage>
@@ -877,7 +877,7 @@
 	<s id='2'>Ouais ! </s>
 	<s id='3'>Elle est farouche ! </s>
 	<s id='4'>On voit bien qu'elle n'est plus fille. </s>
-	<s id='5'>Aimable Linotte, si vous voulez, je  vous rendrai votre première figure.</s>
+	<s id='5'>Aimable Linotte, si vous voulez, je vous rendrai votre première figure.</s>
 </p>
 </sp>
 <sp who='LA LINOTTE'><speaker>LA LINOTTE.</speaker>
@@ -957,10 +957,10 @@
 	<l id='121'>Je vous donnerai des amants.</l>
 </sp>
 <sp who='LA LINOTTE'><speaker>LA LINOTTE.</speaker>
-<stage type="[N/A]">Bis.</stage>
+<stage type="bis">Bis.</stage>
 	<l id='122'>Vivent les moineaux francs.</l>
 	<l id='123'>En amour les oiseaux sont tous</l>
-<stage type="[N/A]">Bis.</stage>
+<stage type="bis">Bis.</stage>
 	<l id='124'>Bien moins bêtes que vous.</l>
 <stage type="exit">Elle s'en va.</stage>
 </sp>

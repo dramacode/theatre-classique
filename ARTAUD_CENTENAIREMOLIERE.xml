@@ -10,8 +10,8 @@
 			<publicationStmt>	
 				<editor>Texte établi par Julie Morvan (Mémoire de Master I « De la Renaissance aux Lumières » sous la direction de M. Georges Forestier U.F.R de Littérature française et comparée, 2013-2014.)</editor>
 				<publisher>publié par Paul FIEVRE, juin 2014</publisher>
-			<idno></idno>
-</publicationStmt>	
+				<idno>ARTAUD_CENTENAIRE</idno>
+			</publicationStmt>	
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -95,10 +95,10 @@
 <sp who="MOMUS"><speaker>MOMUS.</speaker>	
 	<l id="3">Qu'on dira que nous sommes fous,</l>
 	<l id="4">De voyager ainsi de compagnie. </l>
-	<l id="5" part='i'>Vous en Nuit !</l>
+	<l id="5" part="i">Vous en Nuit !</l>
 </sp>
-<sp who="THALIE"><speaker>THALIE, riant.</speaker>
-	<l id="5" part='f'>Vous en Médecin </l>
+<sp stage="laugh" who="THALIE"><speaker>THALIE, riant.</speaker>
+	<l id="5" part="f">Vous en Médecin </l>
 	<l id="6">Non, de cette plaisanterie, </l>
 	<l id="7">D'honneur je ne vois pas le fin1. </l>
 </sp>
@@ -110,7 +110,7 @@
 <sp who="THALIE"><speaker>THALIE.</speaker>
 	<l id="11">Eh ! non. Je l'en ai corrigé.</l>
 </sp>
-<sp who="MOMUS"><speaker>MOMUS, en confidence</speaker>
+<sp stage="low" who="MOMUS"><speaker>MOMUS, en confidence.</speaker>
 	<l id="12">Vous n'avez corrigé personne,</l>
 	<l id="13">C'est un avis que je vous donne ;</l>
 	<l id="14">Et si quelque chose est changé,</l>
@@ -122,13 +122,13 @@
 	<l id="18">Comme le vôtre, assurément.</l>
 </sp>
 <sp who="MOMUS"><speaker>MOMUS.</speaker>
-	<l id="19">Avec  tout cela, je parie </l>
+	<l id="19">Avec tout cela, je parie </l>
 	<l id="20">Qu'on vous devinera plus aisément que moi.</l>
 </sp>
 <sp who="THALIE"><speaker>THALIE.</speaker>
 	<l id="21">Voudrez-vous bien me dire à quoi ?</l>
 </sp>
-<sp who="MOMUS"><speaker>MOMUS, avec humeur</speaker>
+<sp stage="stress" who="MOMUS"><speaker>MOMUS, avec humeur.</speaker>
 	<l id="22">Non, non, il ne faut pas nous moquer l'un de l'autre.</l>
 	<l id="23">Sur la diversité des goûts,</l>
 	<l id="24">Des Dieux et des auteurs, tant de sots sont jaloux</l>
@@ -210,29 +210,29 @@
 </sp>
 <sp who="THALIE"><speaker>THALIE.</speaker>
 	<l id="76">N'est-elle pas toujours un droit pour le génie ?</l>
-	<l id="77" part='i'>En seriez-vous jaloux ?</l>
+	<l id="77" part="i">En seriez-vous jaloux ?</l>
 </sp>
 <sp who="MOMUS"><speaker>MOMUS.</speaker>
-	<l id="77" part='f'>Oui, si parmi les Dieux,</l>
+	<l id="77" part="f">Oui, si parmi les Dieux,</l>
 	<l id="78">Nous connaissions les humaines misères ;</l>
 	<l id="79">Mais enfin nous venons chercher des caractères,</l>
 	<l id="80">Et, pour vous aider de mon mieux,</l>
 	<l id="81">Je crois que cet habit sera bien à la chose.</l>
 </sp>
 <sp who="THALIE"><speaker>THALIE.</speaker>
-	<l id="82" part='i'>Comment donc ?</l>
+	<l id="82" part="i">Comment donc ?</l>
 </sp>
 <sp who="MOMUS"><speaker>MOMUS.</speaker>
-	<l id="82" part='f'>Je serais surpris</l>
+	<l id="82" part="f">Je serais surpris</l>
 	<l id="83">Si par le choix heureux de ma métamorphose</l>
 	<l id="84">Nous n'attirions pas tout Paris.</l>
 </sp>
 <sp who="THALIE"><speaker>THALIE.</speaker>
 	<l id="85">Vous croyez donc la charlatanerie </l>
-	<l id="86" part='i'>Une chose bien rare ?</l>
+	<l id="86" part="i">Une chose bien rare ?</l>
 </sp>
 <sp who="MOMUS"><speaker>MOMUS.</speaker>
-	<l id="86" part='f'>Non.</l>
+	<l id="86" part="f">Non.</l>
 </sp>
 <sp who="THALIE"><speaker>THALIE.</speaker>
 	<l id="87">Expliquez-moi donc, je vous prie,</l>
@@ -254,13 +254,13 @@
 	<l id="97">Essences, préparations ; </l>
 	<l id="98">Secrets inconnus, alchimiques : </l>
 	<l id="99">Et pour mieux appeler les Grands et les Petits,</l>
-	<l id="100" part='i'>J'ai mis un mot divin.</l>
+	<l id="100" part="i">J'ai mis un mot divin.</l>
 </sp>
 <sp who="THALIE"><speaker>THALIE.</speaker>
-	<l id="100" part='m'>Et ce mot, c'est ?</l>
+	<l id="100" part="m">Et ce mot, c'est ?</l>
 </sp>
 <sp who="MOMUS"><speaker>MOMUS.</speaker>
-	<l id="100" part='f'>Gratis.</l>
+	<l id="100" part="f">Gratis.</l>
 	<l id="101">On ne me prendra pas, je crois, cet artifice.</l>
 </sp>
 <sp who="THALIE"><speaker>THALIE.</speaker>
@@ -304,7 +304,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="2"><head>SCÈNE II.</head>
-<sp who="THALIE"><speaker>THALIE, seule.</speaker>
+<sp stage="alone" who="THALIE"><speaker>THALIE, seule.</speaker>
 	<l id="120">Il est railleur ce Dieu Momus,</l>
 	<l id="121">Et quelque légère nuance</l>
 	<l id="122">Aura suffi sans doute à ses yeux prévenus,</l>
@@ -317,10 +317,10 @@
 	<l id="129">Et c'est un trait bien digne de Thalie</l>
 	<l id="130">Que de les rappeler à l'aimable folie,</l>
 	<l id="131">Qui fut pour eux l'époque des beaux jours.</l>
-<stage type="[N/A]">On entend Sosie qui chante.</stage>
+<stage type="sing">On entend Sosie qui chante.</stage>
 	<l id="132">J'entends du bruit ; tâchons de nous contraindre ;</l>
 	<l id="133">Ce voile-ci va cacher mes efforts :</l>
-<stage type="[N/A]">Elle met un voile.</stage>
+<stage type="dress">Elle met un voile.</stage>
 	<l id="134">Si je vois que l'on m'aime, alors</l>
 	<l id="135">Il ne sera plus temps de feindre.</l>
 </sp>
@@ -337,20 +337,20 @@
 <sp who="THALIE"><speaker>THALIE.</speaker>
 	<l id="140">Toujours ta brusque répartie...</l>
 </sp>
-<sp who="SOSIE"><speaker>SOSIE, examinant avec sa lanterne</speaker>
-	<l id="141" part='i'>N'êtes-vous pas la Nuit ?</l>
+<sp stage="examinate" who="SOSIE"><speaker>SOSIE, examinant avec sa lanterne.</speaker>
+	<l id="141" part="i">N'êtes-vous pas la Nuit ?</l>
 </sp>
 <sp who="THALIE"><speaker>THALIE.</speaker>
-	<l id="141" part='f'>Et quand cela serait ?</l>
+	<l id="141" part="f">Et quand cela serait ?</l>
 </sp>
 <sp who="SOSIE"><speaker>SOSIE.</speaker>
 	<l id="142">Certains coups de bâton dont vous fûtes la cause...</l>
 </sp>
 <sp who="THALIE"><speaker>THALIE.</speaker>
-	<l id="143" part='i'>Ce n'est rien, va.</l>
+	<l id="143" part="i">Ce n'est rien, va.</l>
 </sp>
 <sp who="SOSIE"><speaker>SOSIE.</speaker>
-	<l id="143" part='f'>Peut-être il me faudrait</l>
+	<l id="143" part="f">Peut-être il me faudrait</l>
 	<l id="144">Vous dire encor grand merci de la chose.</l>
 	<l id="145">De me louer de vous, oui, sans doute, j'ai lieu.</l>
 	<l id="146">Que ne me dites-vous aussi, comme Mercure,</l>
@@ -388,30 +388,30 @@
 	<l id="166">Et les femmes ont moins de peine.</l>
 </sp>
 <sp who="THALIE"><speaker>THALIE.</speaker>
-	<l id="167" part='i'>J'entends ; les moeurs...</l>
+	<l id="167" part="i">J'entends ; les moeurs...</l>
 </sp>
 <sp who="SOSIE"><speaker>SOSIE.</speaker>
-	<l id="167" part='f'>Vous m'étonnez.</l>
+	<l id="167" part="f">Vous m'étonnez.</l>
 	<l id="168">Je pensais que de ces affaires</l>
 	<l id="169">Vous ne vous embarrassiez guères,</l>
 	<l id="170">Et que vos soins étaient toujours bornés</l>
 	<l id="171">À présider tout bas aux amoureux mystères.</l>
 </sp>
 <sp who="THALIE"><speaker>THALIE.</speaker>
-	<l id="172" part='i'>Si tu me connaissais !...</l>
+	<l id="172" part="i">Si tu me connaissais !...</l>
 </sp>
-<sp who="SOSIE"><speaker>SOSIE, à part.</speaker>
-	<l id="172" part='f'>Ah ! Voici le roman,</l>
+<sp stage="aparte" who="SOSIE"><speaker>SOSIE, à part.</speaker>
+	<l id="172" part="f">Ah ! Voici le roman,</l>
 	<l id="173">Femme de qui la vertu cloche</l>
 	<l id="174">En a toujours un dans la poche</l>
 	<l id="175">Pour accrocher ou duper un amant.</l>
 </sp>
 <sp who="THALIE"><speaker>THALIE.</speaker>
 	<l id="176">Pour revenir à mon histoire,</l>
-	<l id="177" part='i'>Je suis veuve.</l>
+	<l id="177" part="i">Je suis veuve.</l>
 </sp>
 <sp who="SOSIE"><speaker>SOSIE.</speaker>
-	<l id="177" part='f'>Depuis longtemps ?</l>
+	<l id="177" part="f">Depuis longtemps ?</l>
 </sp>
 <sp who="THALIE"><speaker>THALIE.</speaker>
 	<l id="178">Tu ne me voudras jamais croire,</l>
@@ -436,45 +436,45 @@
 </sp>
 <sp who="THALIE"><speaker>THALIE.</speaker>
 	<l id="191">À chaque mot, si tu me cherches noise,</l>
-	<l id="192" part='i'>Je ne finirai pas.</l>
+	<l id="192" part="i">Je ne finirai pas.</l>
 </sp>
 <sp who="SOSIE"><speaker>SOSIE.</speaker>
-	<l id="192" part='m'>Continuez.</l>
+	<l id="192" part="m">Continuez.</l>
 </sp>
-<sp who="THALIE"><speaker>THALIE, lentement</speaker>
-	<l id="192" part='f'>L'époux</l>
+<sp stage="slow" who="THALIE"><speaker>THALIE, lentement</speaker>
+	<l id="192" part="f">L'époux</l>
 	<l id="193">Que m'enleva le fort jaloux</l>
 	<l id="194">Dans le brillant de sa noble carrière... </l>
 </sp>
 <sp who="SOSIE"><speaker>SOSIE.</speaker>
-	<l id="195" part='i'>Après ?</l>
+	<l id="195" part="i">Après ?</l>
 </sp>
 <sp who="THALIE"><speaker>THALIE.</speaker>
-	<l id="195" part='m'>Il s'appelait.</l>
+	<l id="195" part="m">Il s'appelait.</l>
 </sp>
 <sp who="SOSIE"><speaker>SOSIE.</speaker>
-	<l id="195" part='m'>Eh ! bien, comment ?</l>
+	<l id="195" part="m">Eh ! bien, comment ?</l>
 </sp>
 <sp who="THALIE"><speaker>THALIE.</speaker>
-	<l id="195" part='f'>Molière. </l>
+	<l id="195" part="f">Molière. </l>
 </sp>
 <sp who="SOSIE"><speaker>SOSIE.</speaker>
 	<l id="196">Quoi ! Molière ? Que dites-vous ?</l>
 </sp>
 <sp who="THALIE"><speaker>THALIE.</speaker>
-	<l id="197" part='i'>Rien que de vrai.</l>
+	<l id="197" part="i">Rien que de vrai.</l>
 </sp>
 <sp who="SOSIE"><speaker>SOSIE.</speaker>
-	<l id="197" part='f'>Vous êtes donc Thalie ?</l>
+	<l id="197" part="f">Vous êtes donc Thalie ?</l>
 </sp>
 <sp who="THALIE"><speaker>THALIE.</speaker>
-	<l id="198" part='i'>Oui.</l>
+	<l id="198" part="i">Oui.</l>
 </sp>
 <sp who="SOSIE"><speaker>SOSIE.</speaker>
-	<l id="198" part='m'>Levez ce voile.</l>
+	<l id="198" part="m">Levez ce voile.</l>
 </sp>
-<sp who="THALIE"><speaker>THALIE, ôtant son voile.</speaker>
-	<l id="198" part='f'>Tiens, vois.</l>
+<sp stage="dress" who="THALIE"><speaker>THALIE, ôtant son voile.</speaker>
+	<l id="198" part="f">Tiens, vois.</l>
 </sp>
 <sp who="SOSIE"><speaker>SOSIE.</speaker>
 	<l id="199">À cette mine réjouie, </l>
@@ -482,15 +482,15 @@
 	<l id="201">Dans son transport, vous embrasse une fois.</l>
 </sp>
 <sp who="THALIE"><speaker>THALIE.</speaker>
-	<l id="202" part='i'>Soit.</l>
+	<l id="202" part="i">Soit.</l>
 </sp>
-<sp who="SOSIE"><speaker>SOSIE, jetant sa lanterne.</speaker>
-	<l id="202" part='m'>Eh ! Ma lanterne. Deux ? </l>
+<sp stage="throw" who="SOSIE"><speaker>SOSIE, jetant sa lanterne.</speaker>
+	<l id="202" part="m">Eh ! Ma lanterne. Deux ? </l>
 </sp>
 <sp who="THALIE"><speaker>THALIE.</speaker>
-	<l id="202" part='f'>Trois.</l>
+	<l id="202" part="f">Trois.</l>
 </sp>
-<sp who="SOSIE"><speaker>SOSIE, après s'être livré à toute sa joie, laisse tomber ses bras, et dit en soupirant :</speaker>
+<sp stage="lazzi/sigh" who="SOSIE"><speaker>SOSIE, après s'être livré à toute sa joie, laisse tomber ses bras, et dit en soupirant :</speaker>
 	<l id="203">Oh ! comme c'est touchant, une reconnaissance !</l>
 	<l id="204">Me voilà prêt à pleurer de plaisir.</l>
 </sp>
@@ -521,10 +521,10 @@
 	<l id="218">Voudrait-elle lever un scrupule que j'ai ? </l>
 </sp>
 <sp who="THALIE"><speaker>THALIE.</speaker>
-	<l id="219" part='i'>Parle.</l>
+	<l id="219" part="i">Parle.</l>
 </sp>
 <sp who="SOSIE"><speaker>SOSIE.</speaker>
-	<l id="219" part='f'>Sur cet hymen de vous et de Molière.</l>
+	<l id="219" part="f">Sur cet hymen de vous et de Molière.</l>
 	<l id="220">Si par hasard j'étais interrogé...</l>
 </sp>
 <sp who="THALIE"><speaker>THALIE.</speaker>
@@ -537,11 +537,11 @@
 	<l id="223">Je t'entends. Tu diras que mon contrat en forme</l>
 	<l id="224">Fut par Apollon rédigé.</l>
 </sp>
-<sp who="SOSIE"><speaker>SOSIE, étonné</speaker>
-	<l id="225" part='i'>Là-haut, l'on s'épouse ?</l>
+<sp stage="estonish" who="SOSIE"><speaker>SOSIE, étonné</speaker>
+	<l id="225" part="i">Là-haut, l'on s'épouse ?</l>
 </sp>
 <sp who="THALIE"><speaker>THALIE.</speaker>
-	<l id="225" part='f'>Et l'on s'aime.</l>
+	<l id="225" part="f">Et l'on s'aime.</l>
 </sp>
 <sp who="SOSIE"><speaker>SOSIE.</speaker>
 	<l id="226">C'est la moitié plus qu'à Paris.</l>
@@ -557,18 +557,18 @@
 	<l id="232">Et je n'ai plus d'autre souci</l>
 	<l id="233">Que d'être occupé de vous plaire.</l>
 	<l id="234">A présent de ce qu'il faut faire,</l>
-	<l id="235" part='i'>Instruisez-moi donc.</l>
+	<l id="235" part="i">Instruisez-moi donc.</l>
 </sp>
 <sp who="THALIE"><speaker>THALIE.</speaker>
-	<l id="235" part='f'>Le voici. </l>
+	<l id="235" part="f">Le voici. </l>
 	<l id="236">Premièrement que ma venue ici</l>
 	<l id="237">Pour tout autre soit un mystère.</l>
 </sp>
 <sp who="SOSIE"><speaker>SOSIE.</speaker>
-	<l id="238" part='i'>Soit.</l>
+	<l id="238" part="i">Soit.</l>
 </sp>
 <sp who="THALIE"><speaker>THALIE.</speaker>
-	<l id="238" part='f'>Jupiter, lassé de s'ennuyer,</l>
+	<l id="238" part="f">Jupiter, lassé de s'ennuyer,</l>
 	<l id="239">Avec Momus, qui me sert d'Ecuyer, </l>
 	<l id="240">M'a commandé de venir sur la terre,</l>
 	<l id="241">Et de lui rapporter au séjour du Tonnerre,</l>
@@ -595,10 +595,10 @@
 	<l id="252">Et ce ne sera pas une petite affaire.</l>
 </sp>
 <sp who="THALIE"><speaker>THALIE.</speaker>
-	<l id="253" part='i'>Comment ?</l>
+	<l id="253" part="i">Comment ?</l>
 </sp>
 <sp who="SOSIE"><speaker>SOSIE.</speaker>
-	<l id="253" part='f'>C'est qu'il paraît que la plupart des gens</l>
+	<l id="253" part="f">C'est qu'il paraît que la plupart des gens</l>
 	<l id="254">Ont donné dans le goût fantasque,</l>
 	<l id="255">De n'avoir, pour eux tous, qu'un masque ;</l>
 	<l id="256">Et qui les reconnaît a des yeux bien perçants.</l>
@@ -616,10 +616,10 @@
 	<l id="264">Manque rarement son effet.</l>
 </sp>
 <sp who="THALIE"><speaker>THALIE.</speaker>
-	<l id="265" part='i'>Çà, tu peux nous servir.</l>
+	<l id="265" part="i">Çà, tu peux nous servir.</l>
 </sp>
 <sp who="SOSIE"><speaker>SOSIE.</speaker>
-	<l id="265" part='f'>Eh ! de quelle manière </l>
+	<l id="265" part="f">Eh ! de quelle manière </l>
 	<l id="266">Puis-je mériter vos faveurs ?</l>
 </sp>
 <sp who="THALIE"><speaker>THALIE.</speaker>
@@ -629,10 +629,10 @@
 	<l id="268">Et s'il se présentait des sujets de Molière ?</l>
 </sp>
 <sp who="THALIE"><speaker>THALIE.</speaker>
-	<l id="269" part='i'>Tu railles, ils sont morts. </l>
+	<l id="269" part="i">Tu railles, ils sont morts. </l>
 </sp>
 <sp who="SOSIE"><speaker>SOSIE.</speaker>
-	<l id="269" part='f'>Eux, morts ? Oh, par ma foi,</l>
+	<l id="269" part="f">Eux, morts ? Oh, par ma foi,</l>
 	<l id="270">Ils se portent tous mieux que moi,</l>
 	<l id="271">Et je crois qu'ils feront douze fois ma carrière.</l>
 </sp>
@@ -649,26 +649,26 @@
 	<l id="279">Et du Sot qui le sert avec affection</l>
 	<l id="280">Et du vil flatteur qui l'encense.</l>
 </sp>
-<sp who="THALIE"><speaker>THALIE, à part</speaker>
+<sp stage="aparte" who="THALIE"><speaker>THALIE, à part.</speaker>
 	<l id="281">Tant de bon sens dans un Valet !</l>
 <stage type="toward">À Sosie.</stage>
 	<l id="282">On a frappé ; va voir qui c'est.</l>
-<stage type="[N/A]">Restée seule.</stage>
+<stage type="alone">Restée seule.</stage>
 	<l id="283">Nous en allons avoir de toutes les espèces.</l>
 	<l id="284">Et je jouerais d'un malheur peu commun, </l>
 	<l id="285">Si dans la quantité je n'en attrapais un.</l>
 	<l id="286">Oh ! Ma foi, vive les adresses !</l>
 <stage type="toward">À Sosie, qui revient.</stage>
-	<l id="287" part='i'>Eh bien ?</l>
+	<l id="287" part="i">Eh bien ?</l>
 </sp>
 <sp who="SOSIE"><speaker>SOSIE.</speaker>
-	<l id="287" part='f'>C'est un beau cavalier.</l>
+	<l id="287" part="f">C'est un beau cavalier.</l>
 </sp>
 <sp who="THALIE"><speaker>THALIE.</speaker>
-	<l id="288" part='i'>Et son nom ?</l>
+	<l id="288" part="i">Et son nom ?</l>
 </sp>
 <sp who="SOSIE"><speaker>SOSIE.</speaker>
-	<l id="288" part='f'>C'est Monsieur Lélie.</l>
+	<l id="288" part="f">C'est Monsieur Lélie.</l>
 </sp>
 <sp who="THALIE"><speaker>THALIE.</speaker>
 	<l id="289">Il n'a pas changé de métier :</l>
@@ -678,7 +678,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV. Lélie, Thalie.</head>
-<sp who="LÉLIE"><speaker>LÉLIE, entrant avec empressement </speaker>
+<sp stage="run" who="LÉLIE"><speaker>LÉLIE, entrant avec empressement.</speaker>
 	<l id="292">Ah ! Que le ciel m'oblige, en offrant à ma vue</l>
 	<l id="293">Les célestes attraits dont vous êtes pourvue. </l>
 	<l id="294">Madame, un Charlatan qui me fait accourir,</l>
@@ -705,17 +705,17 @@
 	<l id="307">Mascarille ; il valait, ma foi, son pesant d'or.</l>
 </sp>
 <sp who="THALIE"><speaker>THALIE.</speaker>
-	<l id="308" part='i'>Que m'importe un valet, à moi ?</l>
+	<l id="308" part="i">Que m'importe un valet, à moi ?</l>
 </sp>
 <sp who="LÉLIE"><speaker>LÉLIE.</speaker>
-	<l id="308" part='f'>Quand je le cite,</l>
+	<l id="308" part="f">Quand je le cite,</l>
 	<l id="309">C'est qu'il convient toujours d'honorer le mérite.</l>
 </sp>
 <sp who="THALIE"><speaker>THALIE.</speaker>
-	<l id="310" part='i'>Il était donc bien grand, ce mérite ?</l>
+	<l id="310" part="i">Il était donc bien grand, ce mérite ?</l>
 </sp>
 <sp who="LÉLIE"><speaker>LÉLIE.</speaker>
-	<l id="310" part='f'>Au besoin,</l>
+	<l id="310" part="f">Au besoin,</l>
 	<l id="311">D'imaginer pour moi je lui laissais le soin.</l>
 </sp>
 <sp who="THALIE"><speaker>THALIE.</speaker>
@@ -730,10 +730,10 @@
 	<l id="316">De l'art d'imaginer donnez une autre preuve.</l>
 </sp>
 <sp who="LÉLIE"><speaker>LÉLIE.</speaker>
-	<l id="317" part='i'>Pourquoi donc, s'il vous plaît, Madame ?</l>
+	<l id="317" part="i">Pourquoi donc, s'il vous plaît, Madame ?</l>
 </sp>
 <sp who="THALIE"><speaker>THALIE.</speaker>
-	<l id="317" part='f'>Je suis veuve.</l>
+	<l id="317" part="f">Je suis veuve.</l>
 </sp>
 <sp who="LÉLIE"><speaker>LÉLIE.</speaker>
 	<l id="318">Bon ! pour mieux me cacher le sujet de vos pleurs,</l>
@@ -749,48 +749,48 @@
 	<l id="322">Vous vous doutez assez que depuis ce trépas, </l>
 	<l id="323">Et faite comme on est, ayant quelques appas... </l>
 </sp>
-<sp who="LÉLIE"><speaker>LÉLIE, interrompant</speaker>
+<sp stage="interrupt" who="LÉLIE"><speaker>LÉLIE, interrompant.</speaker>
 	<l id="324">J'entends. Pour adoucir les horreurs du veuvage,</l>
 	<l id="325">Vous n'avez pas voulu déroger à l'usage</l>
-	<l id="326" part='i'>Des amants.</l>
+	<l id="326" part="i">Des amants.</l>
 </sp>
 <sp who="THALIE"><speaker>THALIE.</speaker>
 <note type="C">Le Joueur, comédie de Régnard (1692).</note>
 <note type="C">Le Glorieux, comédie de Néricault-Destouches (1732).</note>
-	<l id="326" part='f'>Un Joueur et puis un Glorieux </l>
+	<l id="326" part="f">Un Joueur et puis un Glorieux </l>
 	<l id="327">Fixèrent, j'en conviens, et mon coeur et mes yeux :</l>
 	<l id="328">Mais d'un dernier, surtout, mon âme est enivrée.</l>
 </sp>
 <sp who="LÉLIE"><speaker>LÉLIE.</speaker>
-	<l id="329" part='i'>Et c'est ?...</l>
+	<l id="329" part="i">Et c'est ?...</l>
 </sp>
 <sp who="THALIE"><speaker>THALIE.</speaker>
-	<l id="329" part='m'>Il est connu.</l>
+	<l id="329" part="m">Il est connu.</l>
 </sp>
 <sp who="LÉLIE"><speaker>LÉLIE.</speaker>
-	<l id="329" part='m'>Son nom ?</l>
+	<l id="329" part="m">Son nom ?</l>
 </sp>
 <sp who="THALIE"><speaker>THALIE.</speaker>
-	<l id="329" part='f'>De l'Empirée.</l>
+	<l id="329" part="f">De l'Empirée.</l>
 	<l id="330">J'en eus d'autres encor ; j'aime à le publier.</l>
 </sp>
 <sp who="LÉLIE"><speaker>LÉLIE.</speaker>
 	<l id="331">N'importe : me voilà pour les faire oublier.</l>
 </sp>
 <sp who="THALIE"><speaker>THALIE.</speaker>
-	<l id="332" part='i'>Qui ? vous, Monsieur ?</l>
+	<l id="332" part="i">Qui ? vous, Monsieur ?</l>
 </sp>
 <sp who="LÉLIE"><speaker>LÉLIE.</speaker>
-	<l id="332" part='f'>Oui, moi : moi, vous dis-je, Madame.</l>
+	<l id="332" part="f">Oui, moi : moi, vous dis-je, Madame.</l>
 	<l id="333">Vous n'imaginez pas tout l'excès de ma flamme ;</l>
 	<l id="334">Et mon coeur est capable, en son transport jaloux,</l>
 	<l id="335">De vous aimer toujours, fussé-je votre époux.</l>
-	<l id="336" part='i'>Oui, je jure...</l>
+	<l id="336" part="i">Oui, je jure...</l>
 </sp>
 </div2>
 <div2 type="scene" n="5"><head>SCÈNE V. Sosie, Lélie, Thalie</head>
-<sp who="SOSIE"><speaker>SOSIE, à Lélie.</speaker>
-	<l id="336" part='f'>Eh ! doit-on jurer de telle sorte, </l>
+<sp stage="toward" who="SOSIE"><speaker>SOSIE, à Lélie.</speaker>
+	<l id="336" part="f">Eh ! doit-on jurer de telle sorte, </l>
 	<l id="337">Monsieur ? Là, là, calmez l'ardeur qui vous transporte.</l>
 </sp>
 <sp who="LÉLIE"><speaker>LÉLIE.</speaker>
@@ -800,21 +800,21 @@
 	<l id="340">Capables de manquer à ce qu'on doit aux Belles,</l>
 	<l id="341">Un bâton sur ton dos m'en dirait des nouvelles</l>
 </sp>
-<sp who="LÉLIE"><speaker>SOSIE, avec ironie.</speaker>
+<sp stage="ironic" who="LÉLIE"><speaker>SOSIE, avec ironie.</speaker>
 	<l id="342">Bon ! vous n'avez pas l'air de ces étourdis-là.</l>
 </sp>
 <sp who="LÉLIE"><speaker>LÉLIE.</speaker>
-	<l id="343" part='i'>Je n'en ai pas l'air.</l>
+	<l id="343" part="i">Je n'en ai pas l'air.</l>
 </sp>
-<sp who="SOSIE"><speaker>SOSIE, de même.</speaker>
-	<l id="343" part='m'>Non.</l>
+<sp stage="ironic" who="SOSIE"><speaker>SOSIE, de même.</speaker>
+	<l id="343" part="m">Non.</l>
 </sp>
 <sp who="LÉLIE"><speaker>LÉLIE.</speaker>
-<stage type="[N/A]">Il le bat.</stage>
-	<l id="343" part='m'>Tu vas voir.</l>
+<stage type="fight">Il le bat.</stage>
+	<l id="343" part="m">Tu vas voir.</l>
 </sp>
 <sp who="SOSIE"><speaker>SOSIE.</speaker>
-	<l id="343" part='f'>Ah ! Ah ! Ah !</l>
+	<l id="343" part="f">Ah ! Ah ! Ah !</l>
 	<l id="344">Au secours, au secours, voisins, je vous en prie.</l>
 </sp>
 <sp who="LÉLIE"><speaker>LÉLIE.</speaker>
@@ -825,18 +825,18 @@
 	<l id="347">Et tu ne veux pas que je crie ?</l>
 </sp>
 <sp who="LÉLIE"><speaker>LÉLIE.</speaker>
-	<l id="348" part='i'>Madame, pardonnez.</l>
+	<l id="348" part="i">Madame, pardonnez.</l>
 </sp>
 <sp who="THALIE"><speaker>THALIE.</speaker>
-	<l id="348" part='f'>Quoi ! votre étourderie...</l>
-	<l id="349" part='i'>Sortez d'ici, Monsieur.</l>
+	<l id="348" part="f">Quoi ! votre étourderie...</l>
+	<l id="349" part="i">Sortez d'ici, Monsieur.</l>
 </sp>
 <sp who="LÉLIE"><speaker>LÉLIE.</speaker>
-	<l id="349" part='f'>Il y va de ma vie.</l>
-	<l id="350" part='i'>Cruelle ! À vos genoux...</l>
+	<l id="349" part="f">Il y va de ma vie.</l>
+	<l id="350" part="i">Cruelle ! À vos genoux...</l>
 </sp>
 <sp who="SOSIE"><speaker>SOSIE.</speaker>
-	<l id="350" part='f'>Madame, tenez bon.</l>
+	<l id="350" part="f">Madame, tenez bon.</l>
 </sp>
 <sp who="THALIE"><speaker>THALIE.</speaker>
 	<l id="351">Mon Oncle, qui paraît, va me faire raison</l>
@@ -848,14 +848,14 @@
 </sp>
 </div2>
 <div2 type="scene" n="6"><head>SCÈNE VI. Momus, Thalie, Lélie, Sosie.</head>
-<sp who="MOMUS"><speaker>MOMUS, en entrant</speaker>
+<sp stage="entrance" who="MOMUS"><speaker>MOMUS, en entrant.</speaker>
 	<l id="355">N'ai-je pas entendu des cris ? </l>
 </sp>
-<sp who="THALIE"><speaker>THALIE, à Momus</speaker>
-	<l id="356" part='i'>Ah ! Mon Oncle !</l>
+<sp stage="toward" who="THALIE"><speaker>THALIE, à Momus.</speaker>
+	<l id="356" part="i">Ah ! Mon Oncle !</l>
 </sp>
 <sp who="LÉLIE"><speaker>LÉLIE.</speaker>
-	<l id="356" part='f'>Ah ! Monsieur, cette charmante nièce</l>
+	<l id="356" part="f">Ah ! Monsieur, cette charmante nièce</l>
 	<l id="357">Peut vous dire l'ardeur qui pour elle me presse ;</l>
 	<l id="358">Et je dois ajouter qu'il nous serait bien doux</l>
 	<l id="359">D'obtenir votre aveu pour devenir époux.</l>
@@ -864,14 +864,14 @@
 	<l id="360">Avant de s'épouser, il faut bien se connaître.</l>
 </sp>
 <sp who="MOMUS"><speaker>MOMUS.</speaker>
-	<l id="361" part='i'>On se marierait peu. </l>
+	<l id="361" part="i">On se marierait peu. </l>
 </sp>
 <sp who="LÉLIE"><speaker>LÉLIE.</speaker>
-	<l id="361" part='f'>Dès qu'on m'a vu paraître,</l>
-	<l id="362" part='i'>Je suis connu. </l>
+	<l id="361" part="f">Dès qu'on m'a vu paraître,</l>
+	<l id="362" part="i">Je suis connu. </l>
 </sp>
 <sp who="THALIE"><speaker>THALIE.</speaker>
-	<l id="362" part='f'>Tant pis. Soyez sûr qu'en ce cas</l>
+	<l id="362" part="f">Tant pis. Soyez sûr qu'en ce cas</l>
 	<l id="363">C'est plutôt un bonheur de ne vous avoir pas.</l>
 </sp>
 <sp who="LÉLIE"><speaker>LÉLIE.</speaker>
@@ -880,25 +880,25 @@
 	<l id="366">Je connais un Poète, il vous chansonnera.</l>
 </sp>
 <sp who="MOMUS"><speaker>MOMUS.</speaker>
-	<l id="367" part='i'>Chansons !</l>
+	<l id="367" part="i">Chansons !</l>
 </sp>
-<sp who="LÉLIE"><speaker>LÉLIE, à Momus.</speaker>
-	<l id="367" part='m'>Vous...</l>
+<sp stage="toward" who="LÉLIE"><speaker>LÉLIE, à Momus.</speaker>
+	<l id="367" part="m">Vous...</l>
 </sp>
 <sp who="MOMUS"><speaker>MOMUS.</speaker>
-	<l id="367" part='m'>Je m'en moque.</l>
+	<l id="367" part="m">Je m'en moque.</l>
 </sp>
 <sp who="LÉLIE"><speaker>LÉLIE.</speaker>
-	<l id="367" part='f'>Eh bien ! on le saura.</l>
+	<l id="367" part="f">Eh bien ! on le saura.</l>
 	<l id="368">Et je vous couvrirai si bien de ridicule,</l>
 	<l id="369">Que vous ne vendrez pas une seule pilule,</l>
-	<l id="370" part='i'>Pas un petit paquet.</l>
+	<l id="370" part="i">Pas un petit paquet.</l>
 <stage type="exit">Il sort brusquement.</stage>
 </sp>
 </div2>
 <div2 type="scene" n="7"><head>SCÈNE VII. Momus, Sosie, Thalie.</head>
-<sp who="MOMUS"><speaker>MOMUS, à Lélie qui sort</speaker>
-	<l id="370" part='f'>Je ris de vos raisons ;</l>
+<sp stage="toward/exit" who="MOMUS"><speaker>MOMUS, à Lélie qui sort.</speaker>
+	<l id="370" part="f">Je ris de vos raisons ;</l>
 	<l id="371">Quoi que vous disiez, peu m'importe.</l>
 <stage type="toward">À Sosie, qui fuit Lélie.</stage>
 	<l id="372">Toi, que vas-tu chercher à cette porte ?</l>
@@ -914,7 +914,7 @@
 	<l id="376">Comme il en est très fidèle témoin,</l>
 	<l id="377">Mieux que personne il pourra vous le dire.</l>
 </sp>
-<sp who="SOSIE"><speaker>SOSIE, revenant à la porte, où il a paru parler à quelqu'un.</speaker>
+<sp stage="back/toward" who="SOSIE"><speaker>SOSIE, revenant à la porte, où il a paru parler à quelqu'un.</speaker>
 	<l id="378">Si vous avez sujet de rire,</l>
 	<l id="379">Je ne dois pas avoir le même soin.</l>
 <stage type="toward">À Momus.</stage>
@@ -924,16 +924,16 @@
 	<l id="383">Il est vêtu de noir et parle d'un ton doux. </l>
 </sp>
 <sp who="MOMUS"><speaker>MOMUS.</speaker>
-	<l id="384" part='i'>Son nom.</l>
+	<l id="384" part="i">Son nom.</l>
 </sp>
 <sp who="SOSIE"><speaker>SOSIE.</speaker>
-	<l id="384" part='f'>Je vous ai dit qu'il ne veut pas le dire.</l>
+	<l id="384" part="f">Je vous ai dit qu'il ne veut pas le dire.</l>
 </sp>
 <sp who="MOMUS"><speaker>MOMUS.</speaker>
-	<l id="385" part='i'>Fais entrer.</l>
+	<l id="385" part="i">Fais entrer.</l>
 </sp>
 <sp who="THALIE"><speaker>THALIE.</speaker>
-	<l id="385" part='f'>Moi je me retire</l>
+	<l id="385" part="f">Moi je me retire</l>
 	<l id="386">Pour vous le laisser recevoir.</l>
 <stage type="exit">Elle sort.</stage>
 </sp>
@@ -941,13 +941,13 @@
 <div2 type="scene" n="8"><head>SCÈNE VIII. Sosie, Momus.</head>
 <sp who="SOSIE"><speaker>SOSIE.</speaker>
 	<l id="387">Et vous consentez à le voir</l>
-	<l id="388" part='i'>Tête-à-tête ?</l>
+	<l id="388" part="i">Tête-à-tête ?</l>
 </sp>
 <sp who="MOMUS"><speaker>MOMUS.</speaker>
-	<l id="388" part='m'>Oui.</l>
+	<l id="388" part="m">Oui.</l>
 </sp>
 <sp who="SOSIE"><speaker>SOSIE.</speaker>
-	<l id="388" part='f'>Mais c'est une folie.</l>
+	<l id="388" part="f">Mais c'est une folie.</l>
 </sp>
 <sp who="MOMUS"><speaker>MOMUS.</speaker>
 	<l id="389">Je ris de ta poltronnerie.</l>
@@ -959,11 +959,11 @@
 	<l id="393">Mais aux pauvres humains il ne faut rien qu'un coup.</l>
 </sp>
 <sp who="MOMUS"><speaker>MOMUS.</speaker>
-	<l id="394" part='i'>Fais-le toujours venir.</l>
+	<l id="394" part="i">Fais-le toujours venir.</l>
 </sp>
 <sp who="SOSIE"><speaker>SOSIE.</speaker>
-	<l id="394" part='f'>Vous hasardez beaucoup. </l>
-<stage type="[N/A]">Il fait signe à Tartuffe d'entrer.</stage>
+	<l id="394" part="f">Vous hasardez beaucoup. </l>
+<stage type="wave/toward">Il fait signe à Tartuffe d'entrer.</stage>
 </sp>
 </div2>
 <div2 type="scene" n="9"><head>SCÈNE IX. Tartuffe, Momus, Sosie.</head>
@@ -973,10 +973,10 @@
 	<l id="397">Monsieur ; le bien de vous que partout on publie...</l>
 </sp>
 <sp who="MOMUS"><speaker>MOMUS.</speaker>
-	<l id="398" part='i'>Arrivé d'aujourd'hui... </l>
+	<l id="398" part="i">Arrivé d'aujourd'hui... </l>
 </sp>
 <sp who="TARTUFFE"><speaker>TARTUFFE.</speaker>
-	<l id="398" part='f'>Permettez, je vous prie : </l>
+	<l id="398" part="f">Permettez, je vous prie : </l>
 	<l id="399">Il est juste, et je crois tout ce qu'on dit de vous :</l>
 	<l id="400">Je ne suis, grâce au Ciel, envieux ni jaloux ;</l>
 	<l id="401">Mais j'ai vu si souvent les horreurs de l'envie</l>
@@ -985,31 +985,31 @@
 	<l id="404">Où mon zèle empressé va ne vous cacher rien.</l>
 </sp>
 <sp who="MOMUS"><speaker>MOMUS.</speaker>
-	<l id="405" part='i'>Parlez, Monsieur.</l>
+	<l id="405" part="i">Parlez, Monsieur.</l>
 </sp>
 <sp who="TARTUFFE"><speaker>TARTUFFE.</speaker>
-	<l id="405" part='f'>Mon coeur de douleur se déchire,</l>
+	<l id="405" part="f">Mon coeur de douleur se déchire,</l>
 	<l id="406">Quand je vois les méchants agrandir leur empire.</l>
 </sp>
-<sp who="MOMUS"><speaker>MOMUS, à part.</speaker>
-	<l id="407" part='i'>Je te connais. </l>
+<sp stage="aparte" who="MOMUS"><speaker>MOMUS, à part.</speaker>
+	<l id="407" part="i">Je te connais. </l>
 <stage type="toward">À Tartuffe.</stage>
-	<l id="407" part='m'>Où tend ce discours ?</l>
+	<l id="407" part="m">Où tend ce discours ?</l>
 </sp>
 <sp who="TARTUFFE"><speaker>TARTUFFE.</speaker>
-	<l id="407" part='f'>Le voici ; </l>
+	<l id="407" part="f">Le voici ; </l>
 	<l id="408">Et vous en allez être à l'instant éclairci.</l>
 	<l id="409">On dit (mais je crois peu ce propos condamnable) </l>
 	<l id="410">Que vous avez chez vous un objet jeune, aimable ;</l>
 	<l id="411">Que sa beauté fragile, appelant tous les coeurs,</l>
 	<l id="412">Peut malheureusement décréditer vos moeurs. </l>
-	<l id="413" part='i'>Et mon zèle...</l>
+	<l id="413" part="i">Et mon zèle...</l>
 </sp>
 <sp who="MOMUS"><speaker>MOMUS.</speaker>
-	<l id="413" part='f'>Je sais ce qu'il convient d'en croire :</l>
+	<l id="413" part="f">Je sais ce qu'il convient d'en croire :</l>
 	<l id="414">Mais pensez-vous qu'on puisse avoir l'âme assez noire ?...</l>
 </sp>
-<sp who="TARTUFFE"><speaker>TARTUFFE, avec vivacité</speaker>
+<sp stage="enthousiamsm" who="TARTUFFE"><speaker>TARTUFFE, avec vivacité.</speaker>
 	<l id="415">Oui, Monsieur. Arrivé depuis fort peu de temps,</l>
 	<l id="416">Vous n'imaginez pas la malice des gens ;</l>
 	<l id="417">Et combien la vertu jadis si respectée,</l>
@@ -1018,65 +1018,65 @@
 	<l id="420">Je ne répondrais pas qu'on ne répandit rien,</l>
 	<l id="421">Étant amis tous deux. La vertu réunie,</l>
 	<l id="422">Avec plus de succès, fera taire l'envie :</l>
-	<l id="423" part='i'>Je suis connu.</l>
+	<l id="423" part="i">Je suis connu.</l>
 </sp>
 <sp who="MOMUS"><speaker>MOMUS.</speaker>
-	<l id="423" part='m'>Sans doute.</l>
+	<l id="423" part="m">Sans doute.</l>
 </sp>
 <sp who="TARTUFFE"><speaker>TARTUFFE.</speaker>
-	<l id="423" part='f'>Et mon zèle discret </l>
+	<l id="423" part="f">Et mon zèle discret </l>
 	<l id="424">Peut, dans votre maison, faire un très bon effet.</l>
 </sp>
-<sp who="MOMUS"><speaker>MOMUS, à part</speaker>
-	<l id="425" part='i'>Le Cafard ! </l>
+<sp stage="aparte" who="MOMUS"><speaker>MOMUS, à part.</speaker>
+	<l id="425" part="i">Le Cafard ! </l>
 </sp>
 <sp who="TARTUFFE"><speaker>TARTUFFE.</speaker>
-	<l id="425" part='f'>En voyant votre charmante nièce,</l>
+	<l id="425" part="f">En voyant votre charmante nièce,</l>
 	<l id="426">Mes avis paternels guideraient sa jeunesse,</l>
 	<l id="427">Et je la sauverais peut-être d'un écueil. </l>
 </sp>
 <sp who="MOMUS"><speaker>MOMUS.</speaker>
-	<l id="428" part='i'>Peut-être, est trop modeste. </l>
+	<l id="428" part="i">Peut-être, est trop modeste. </l>
 </sp>
 <sp who="TARTUFFE"><speaker>TARTUFFE.</speaker>
-	<l id="428" part='f'>Oh ! Je hais tant l'orgueil !</l>
+	<l id="428" part="f">Oh ! Je hais tant l'orgueil !</l>
 </sp>
 <sp who="MOMUS"><speaker>MOMUS.</speaker>
 	<l id="429">Fort bien ; mais je craindrais qu'on ne dît qu'une flamme</l>
-	<l id="430" part='i'>En secret...</l>
+	<l id="430" part="i">En secret...</l>
 </sp>
-<sp who='TARTUFFE'><speaker>TARTUFFE, avec un mouvement d'horreur.</speaker>
-	<l id="430" part='f'>Moi, Monsieur, j'aimerais une femme ! </l>
+<sp stage="frighten" who='TARTUFFE'><speaker>TARTUFFE, avec un mouvement d'horreur.</speaker>
+	<l id="430" part="f">Moi, Monsieur, j'aimerais une femme ! </l>
 	<l id="431">Vous m'objectez en vain ce motif de refus ;</l>
 	<l id="432">On sait bien que j'ai fait mes preuves là-dessus.</l>
 </sp>
-<sp who='TARTUFFE'><speaker>MOMUS, à part</speaker>
+<sp stage="aparte" who='TARTUFFE'><speaker>MOMUS, à part.</speaker>
 	<l id="433">Je vais, pour le punir, l'envoyer chez Thalie.</l>
 <stage type="toward">À Tartuffe.</stage>
 	<l id="434">Je me rends. Oui, je vois que toute votre envie</l>
 	<l id="435">Est de contribuer à mon contentement ;</l>
 	<l id="436">Et vous pouvez passer dans son appartement.</l>
-<stage type="[N/A]">Tartuffe entre chez Thalie.</stage>
+<stage type="exit">Tartuffe entre chez Thalie.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='10'><head>SCÈNE X. Sosie, Momus.</head>
-<sp who='SOSIE'><speaker>SOSIE, se rapprochant.</speaker>
+<sp stage="closer" who='SOSIE'><speaker>SOSIE, se rapprochant.</speaker>
 	<l id="437">Qu'en dites-vous, Seigneur ? Parle-t-il avec force ? </l>
-	<l id="438" part='i'>Voilà l'homme de bien.</l>
+	<l id="438" part="i">Voilà l'homme de bien.</l>
 </sp>
 <sp who="MOMUS"><speaker>MOMUS.</speaker>
-	<l id="438" part='f'>Ce n'en est que l'écorce.</l>
+	<l id="438" part="f">Ce n'en est que l'écorce.</l>
 	<l id="439">Jusqu'à quand verra-t-on l'homme simple et les sots </l>
 	<l id="440">Trompés indignement par l'abus des grands mots ?</l>
 </sp>
 <sp who="SOSIE"><speaker>SOSIE.</speaker>
-	<l id="441" part='i'>Avez-vous su son nom ?</l>
+	<l id="441" part="i">Avez-vous su son nom ?</l>
 </sp>
 <sp who="MOMUS"><speaker>MOMUS.</speaker>
-	<l id="441" part='m'>Tartuffe.</l>
+	<l id="441" part="m">Tartuffe.</l>
 </sp>
 <sp who="SOSIE"><speaker>SOSIE.</speaker>
-	<l id="441" part='f'>De Molière ?</l>
+	<l id="441" part="f">De Molière ?</l>
 	<l id="442">À sa tournure singulière,</l>
 	<l id="443">Je l'aurais pris, ma foi, pour un homme de bien :</l>
 	<l id="444">Sur la mine jamais je ne croirai plus rien.</l>
@@ -1084,18 +1084,18 @@
 </div2>
 <div2 type="scene" n='11'><head>SCÈNE XI. Madame Pernelle, Phlipotte, Momus, Sosie.</head>
 <sp who="MADAME PERNELLE"><speaker>MADAME PERNELLE.</speaker>
-	<l id="445" part='i'>Allons, Phlipotte, allons.</l>
+	<l id="445" part="i">Allons, Phlipotte, allons.</l>
 <stage type="toward">À Momus.</stage>
-	<l id="445" part='f'>Faites-vous votre compte</l>
+	<l id="445" part="f">Faites-vous votre compte</l>
 	<l id="446">Que j'attendrai longtemps ? N'est-ce pas une honte,</l>
 	<l id="447">À vous, le beau Docteur, qu'on ne trouve chez vous</l>
 	<l id="448">Que des impertinents, des fripons et des fous ?</l>
 </sp>
 <sp who="MOMUS"><speaker>MOMUS.</speaker>
-	<l id="449" part='i'>Pourquoi donc y venir ?</l>
+	<l id="449" part="i">Pourquoi donc y venir ?</l>
 </sp>
 <sp who="MADAME PERNELLE"><speaker>MADAME PERNELLE.</speaker>
-	<l id="449" part='f'>Pourquoi ? Mort de ma vie !</l>
+	<l id="449" part="f">Pourquoi ? Mort de ma vie !</l>
 	<l id="450">Évitez, croyez-moi, de me mettre en furie.</l>
 	<l id="451">Et si Tartuffe ici n'avait porté ses pas,</l>
 	<l id="452">Soyez sûr que chez vous vous ne me verriez pas.</l>
@@ -1104,43 +1104,43 @@
 	<l id="453">Mais vous en voulez donc beaucoup à ce pauvre homme ?</l>
 </sp>
 <sp who="MOMUS"><speaker>MOMUS.</speaker>
-	<l id="454" part='i'>Molière a corrigé...</l>
+	<l id="454" part="i">Molière a corrigé...</l>
 </sp>
 <sp who="MADAME PERNELLE"><speaker>MADAME PERNELLE.</speaker>
-	<l id="454" part='f'>Je veux que l'on m'assomme,</l>
+	<l id="454" part="f">Je veux que l'on m'assomme,</l>
 	<l id="455">Si lui ni ses pareils se tiennent pour battus ;</l>
 	<l id="456">Car j'en vois tous les jours, et je crois même plus.</l>
-	<l id="457" part='i'>Mais enfin ce maroufle est ici. </l>
+	<l id="457" part="i">Mais enfin ce maroufle est ici. </l>
 </sp>
 <sp who="MOMUS"><speaker>MOMUS.</speaker>
-	<l id="457" part='f'>Non, Madame ; </l>
-	<l id="458" part='i'>Il n'a fait que passer.</l>
+	<l id="457" part="f">Non, Madame ; </l>
+	<l id="458" part="i">Il n'a fait que passer.</l>
 </sp>
 <sp who="MADAME PERNELLE"><speaker>MADAME PERNELLE.</speaker>
-	<l id="458" part='m'>Où donc ?</l>
+	<l id="458" part="m">Où donc ?</l>
 </sp>
 <sp who="MOMUS"><speaker>MOMUS.</speaker>
-	<l id="458" part='f'>Chez une femme.</l>
+	<l id="458" part="f">Chez une femme.</l>
 </sp>
 <sp who="MADAME PERNELLE"><speaker>MADAME PERNELLE.</speaker>
-	<l id="459" part='i'>Ah ! Que je crains pour elle ! </l>
+	<l id="459" part="i">Ah ! Que je crains pour elle ! </l>
 </sp>
 <sp who="MOMUS"><speaker>MOMUS.</speaker>
-	<l id="459" part='f'>Oh ! moi je ne crains rien. </l>
+	<l id="459" part="f">Oh ! moi je ne crains rien. </l>
 </sp>
 <sp who="MADAME PERNELLE"><speaker>MADAME PERNELLE.</speaker>
 	<l id="460">Vous êtes donc très sûr qu'elle est femme de bien ?</l>
 </sp>
 <sp who="MOMUS"><speaker>MOMUS.</speaker>
-	<l id="461" part='i'>Oh !</l>
+	<l id="461" part="i">Oh !</l>
 </sp>
 <sp who="MADAME PERNELLE"><speaker>MADAME PERNELLE.</speaker>
-	<l id="461" part='f'>Malgré tout cela, j'ai quelque inquiétude.</l>
+	<l id="461" part="f">Malgré tout cela, j'ai quelque inquiétude.</l>
 	<l id="462">Une femme de bien peut n'être qu'une prude ;</l>
 	<l id="463">Et je vais vous conter le fait qui m'engagea</l>
-	<l id="464" part='i'>À penser de la sorte...</l>
+	<l id="464" part="i">À penser de la sorte...</l>
 <stage type="laugh">Voyant rire Momus et Sosie.</stage>
-	<l id="464" part='f'>Oui, ricanez déjà.</l>
+	<l id="464" part="f">Oui, ricanez déjà.</l>
 	<l id="465">Chercher ailleurs vos fous qui vous donnent à rire,</l>
 	<l id="466">Ce n'est pas moi, toujours ; adieu, je me retire.</l>
 	<l id="467">Vous apprendrez bientôt, Messieurs les Charlatans,</l>
@@ -1148,23 +1148,23 @@
 <stage type="toward">À Phlipotte.</stage>
 	<l id="469">Allons, vous ; vous rêvez et bayez aux corneilles.</l>
 	<l id="470">Jour de Dieu ! je saurai vous frotter les oreilles.</l>
-	<l id="471" part='i'>Marchons, gaupe, marchons. </l>
+	<l id="471" part="i">Marchons, gaupe, marchons. </l>
 <stage type="exit">Elle sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='12'><head>SCÈNE XII. Sosie, Momus.</head>
 <sp who='SOSIE'><speaker>SOSIE.</speaker>
-	<l id="471" part='f'>C'est pire qu'un Démon</l>
-	<l id="472" part='i'>Cette dame Pernelle. </l>
+	<l id="471" part="f">C'est pire qu'un Démon</l>
+	<l id="472" part="i">Cette dame Pernelle. </l>
 </sp>
 <sp who="MOMUS"><speaker>MOMUS.</speaker>
-	<l id="472" part='f'>Elle a souvent raison.</l>
+	<l id="472" part="f">Elle a souvent raison.</l>
 	<l id="473">Mais s'il ne vient jamais que des gens de Molière,</l>
 	<l id="474">À Jupiter qui veut un nouveau caractère, </l>
-	<l id="475" part='i'>Que dire ?</l>
+	<l id="475" part="i">Que dire ?</l>
 </sp>
 <sp who='SOSIE'><speaker>SOSIE.</speaker>
-	<l id="475" part='f'>Que les gens de bon sens sont d'avis</l>
+	<l id="475" part="f">Que les gens de bon sens sont d'avis</l>
 	<l id="476">Qu'on ne doit point changer, quand on craint d'être pis.</l>
 </sp>
 </div2>
@@ -1194,7 +1194,7 @@
 <sp who="HARPAGON"><speaker>HARPAGON.</speaker>
 <p id='5'>
 	<s id='1'>Vous moquez-vous ? </s>
-	<s id='2'>Ai-je l'air  d'un homme assez riche pour cette maladie-là ?</s>
+	<s id='2'>Ai-je l'air d'un homme assez riche pour cette maladie-là ?</s>
 </p>
 </sp>
 <sp who="MOMUS"><speaker>MOMUS.</speaker>
@@ -1267,7 +1267,7 @@
 	<s id='1'>Vous prendrez...</s>
 </p>
 </sp>
-<sp who='HARPAGON'><speaker>HARPAGON, tendant son chapeau</speaker>
+<sp stage="dress/give" who='HARPAGON'><speaker>HARPAGON, tendant son chapeau.</speaker>
 <p id='19'>
 	<s id='1'>Tenez, mettez là-dedans.</s>
 </p>
@@ -1282,7 +1282,7 @@
 	<s id='1'>De vos drogues.</s>
 </p>
 </sp>
-<sp who='SOSIE'><speaker>SOSIE, à part</speaker>
+<sp stage="aparte" who='SOSIE'><speaker>SOSIE, à part.</speaker>
 <p id='22'>
 	<s id='1'>Il les irait vendre.</s>
 </p>
@@ -1326,35 +1326,35 @@
 	<l id="477">Qui de vous trois, Messieurs, est Médecin ? </l>
 </sp>
 <sp who='HARPAGON'><speaker>HARPAGON.</speaker>
-	<l id="478" part='i'>Ce n'est pas moi toujours.</l>
+	<l id="478" part="i">Ce n'est pas moi toujours.</l>
 </sp>
 <sp who='SOSIE'><speaker>SOSIE.</speaker>
-	<l id="478" part='m'>Ni moi non plus.</l>
+	<l id="478" part="m">Ni moi non plus.</l>
 </sp>
 <sp who="TRISSOTIN"><speaker>TRISSOTIN.</speaker>
-	<l id="478" part='f'>Enfin,</l>
+	<l id="478" part="f">Enfin,</l>
 <stage type="toward">À Momus.</stage>
 	<l id="479">Ce sera donc Monsieur. Sachez que ma présence</l>
 	<l id="480">Peut ramener chez vous une heureuse abondance.</l>
 </sp>
-<sp who='HARPAGON'><speaker>HARPAGON, à part.</speaker>
-	<l id="481" part='i'>Prenons-lui sa recette. </l>
+<sp stage="aparte" who='HARPAGON'><speaker>HARPAGON, à part.</speaker>
+	<l id="481" part="i">Prenons-lui sa recette. </l>
 </sp>
 <sp who="TRISSOTIN"><speaker>TRISSOTIN.</speaker>
-	<l id="481" part='f'>Et ma prose et mes vers</l>
-	<l id="482" part='i'>Font un bruit assez grand.</l>
+	<l id="481" part="f">Et ma prose et mes vers</l>
+	<l id="482" part="i">Font un bruit assez grand.</l>
 </sp>
 <sp who="MOMUS"><speaker>MOMUS.</speaker>
-	<l id="482" part='m'>Où ?</l>
+	<l id="482" part="m">Où ?</l>
 </sp>
 <sp who="TRISSOTIN"><speaker>TRISSOTIN.</speaker>
-	<l id="482" part='f'>Dans tout l'univers. </l>
+	<l id="482" part="f">Dans tout l'univers. </l>
 </sp>
 <sp who='HARPAGON'><speaker>HARPAGON.</speaker>
 <stage type="aparte">À part.</stage>
-	<l id="483" part='i'>Quel fou !</l>
+	<l id="483" part="i">Quel fou !</l>
 <stage type="toward">À Momus.</stage>
-	<l id="483" part='f'>Quand un conseil me sera nécessaire, </l>
+	<l id="483" part="f">Quand un conseil me sera nécessaire, </l>
 	<l id="484">Monsieur, je viendrai vous revoir.</l>
 	<l id="485">Je vois bien que chez vous je n'ai plus rien à faire,</l>
 	<l id="486">Et je vous prête le bon soir.</l>
@@ -1362,33 +1362,33 @@
 </sp>
 </div2>
 <div2 type="scene" n='15'><head>SCÈNE XV. Trissotin, Sosie, Momus.</head>
-<sp who='TRISSOTIN'><speaker>TRISSOTIN, en ricanant</speaker>
+<sp stage="laugh" who='TRISSOTIN'><speaker>TRISSOTIN, en ricanant.</speaker>
 	<l id="487">D'honneur, je crois que c'est l'Avare de Molière ;</l>
 	<l id="488">Ô le plaisant original ! </l>
 </sp>
-<sp who='SOSIE'><speaker>SOSIE, à Trissotin</speaker>
+<sp stage="aparte" who='SOSIE'><speaker>SOSIE, à Trissotin.</speaker>
 	<l id="489">Vous l'avez deviné ? Ce n'est pas voir trop mal,</l>
 	<l id="490">Et vous ne lui ressemblez guère.</l>
 </sp>
 <sp who="TRISSOTIN"><speaker>TRISSOTIN.</speaker>
 	<l id="491">À son propos qui ne le connaîtrait ?</l>
 </sp>
-<sp who='SOSIE'><speaker>SOSIE, à Momus</speaker>
+<sp stage="toward" who='SOSIE'><speaker>SOSIE, à Momus.</speaker>
 	<l id="492">Mais revenons au bruit dont Monsieur nous parlait. </l>
 </sp>
-<sp who='TRISSOTIN'><speaker>TRISSOTIN, à Momus</speaker>
+<sp stage="toward" who='TRISSOTIN'><speaker>TRISSOTIN, à Momus.</speaker>
 	<l id="493">On lit avec fureur mon recueil d'épigrammes</l>
 	<l id="494">Contre les Beaux esprits, les savants et les femmes.</l>
-	<l id="495" part='i'>L'avez-vous lu, Monsieur ?</l>
+	<l id="495" part="i">L'avez-vous lu, Monsieur ?</l>
 </sp>
 <sp who="MOMUS"><speaker>MOMUS.</speaker>
-	<l id="495" part='m'>Qui ? moi ? </l>
+	<l id="495" part="m">Qui ? moi ? </l>
 </sp>
 <sp who="TRISSOTIN"><speaker>TRISSOTIN.</speaker>
-	<l id="495" part='m'>Vous. </l>
+	<l id="495" part="m">Vous. </l>
 </sp>
 <sp who="MOMUS"><speaker>MOMUS.</speaker>
-	<l id="495" part='f'>Point du tout.</l>
+	<l id="495" part="f">Point du tout.</l>
 </sp>
 <sp who="TRISSOTIN"><speaker>TRISSOTIN.</speaker>
 	<l id="496">Tant pis pour vous. Jamais la justesse et le goût</l>
@@ -1419,59 +1419,59 @@
 </sp>
 </div2>
 <div2 type="scene" n='16'><head>SCÈNE XVI. Alceste, et les acteurs précédents.</head>
-<sp who='SOSIE'><speaker>SOSIE, annonçant</speaker>
-	<l id="513" part='i'>Monsieur Alceste. </l>
+<sp stage="loud" who='SOSIE'><speaker>SOSIE, annonçant</speaker>
+	<l id="513" part="i">Monsieur Alceste. </l>
 </sp>
-<sp who='MOMUS'><speaker>MOMUS, quitte brusquement Trissotin, et va recevoir Alceste avec beaucoup de respect, et veut le faire asseoir dans le fauteuil de Molière. </speaker>
-	<l id="513" part='m'>Oh ! Oh !</l>
+<sp stage="leave/sit" who='MOMUS'><speaker>MOMUS, quitte brusquement Trissotin, et va recevoir Alceste avec beaucoup de respect, et veut le faire asseoir dans le fauteuil de Molière.</speaker>
+	<l id="513" part="m">Oh ! Oh !</l>
 </sp>
 <sp who="ALCESTE"><speaker>ALCESTE.</speaker>
-	<l id="513" part='f'>Point de cérémonie ;</l>
+	<l id="513" part="f">Point de cérémonie ;</l>
 	<l id="514">Supprimez avec moi les façons, je vous prie.</l>
 </sp>
 <sp who="MOMUS"><speaker>MOMUS.</speaker>
-	<l id="515" part='i'>Je sais trop le respect...</l>
+	<l id="515" part="i">Je sais trop le respect...</l>
 </sp>
 <sp who="ALCESTE"><speaker>ALCESTE.</speaker>
-	<l id="515" part='f'>Je veux être debout.</l>
+	<l id="515" part="f">Je veux être debout.</l>
 </sp>
-<sp who='MOMUS'><speaker>MOMUS, insistant</speaker>
-	<l id="516" part='i'>Monsieur.</l>
+<sp stage="stress" who='MOMUS'><speaker>MOMUS, insistant.</speaker>
+	<l id="516" part="i">Monsieur.</l>
 </sp>
-<sp who='SOSIE'><speaker>SOSIE, de même</speaker>
-	<l id="516" part='m'>Monsieur. </l>
+<sp stage="stress" who='SOSIE'><speaker>SOSIE, de même.</speaker>
+	<l id="516" part="m">Monsieur. </l>
 </sp>
 <sp who="TRISSOTIN"><speaker>TRISSOTIN.</speaker>
-	<l id="516" part='f'>Laissez chacun vivre à son goût.</l>
+	<l id="516" part="f">Laissez chacun vivre à son goût.</l>
 </sp>
-<sp who='SOSIE'><speaker>SOSIE, retire le fauteuil.</speaker>
-	<l id="517" part='i'>Enfin.</l>
+<sp stage="decor" who='SOSIE'><speaker>SOSIE, retire le fauteuil.</speaker>
+	<l id="517" part="i">Enfin.</l>
 </sp>
-<sp who='ALCESTE'><speaker>ALCESTE, montrant Trissotin</speaker>
-	<l id="517" part='f'>Monsieur, sans doute, est un de vos confrères ? </l>
+<sp stage="show" who='ALCESTE'><speaker>ALCESTE, montrant Trissotin.</speaker>
+	<l id="517" part="f">Monsieur, sans doute, est un de vos confrères ? </l>
 </sp>
 <sp who="MOMUS"><speaker>MOMUS.</speaker>
-	<l id="518" part='i'>À peu de chose près.</l>
+	<l id="518" part="i">À peu de chose près.</l>
 </sp>
 <sp who="TRISSOTIN"><speaker>TRISSOTIN.</speaker>
-	<l id="518" part='f'>Je hais trop les chimères,</l>
+	<l id="518" part="f">Je hais trop les chimères,</l>
 	<l id="519">Pour oser tourmenter par des remèdes vains</l>
 	<l id="520">Les jours infortunés des malheureux humains. </l>
 </sp>
 <sp who="ALCESTE"><speaker>ALCESTE.</speaker>
-	<l id="521" part='i'>Vous les plaignez donc ?</l>
+	<l id="521" part="i">Vous les plaignez donc ?</l>
 </sp>
 <sp who="TRISSOTIN"><speaker>TRISSOTIN.</speaker>
-	<l id="521" part='m'>Moi ?</l>
+	<l id="521" part="m">Moi ?</l>
 </sp>
 <sp who="ALCESTE"><speaker>ALCESTE.</speaker>
-	<l id='521' part='f'>Pour moi, je les déteste.</l>
+	<l id='521' part="f">Pour moi, je les déteste.</l>
 </sp>
 <sp who="TRISSOTIN"><speaker>TRISSOTIN.</speaker>
-	<l id="522" part='i'>Oh ! J'en fais bien autant.</l>
+	<l id="522" part="i">Oh ! J'en fais bien autant.</l>
 </sp>
 <sp who="ALCESTE"><speaker>ALCESTE.</speaker>
-	<l id="522" part='f'>De leur rage funeste</l>
+	<l id="522" part="f">De leur rage funeste</l>
 	<l id="523">Je prétends par la suite au moins me garantir.</l>
 	<l id="524">Mais de ce monde affreux avant que de sortir,</l>
 	<l id="525">J'ai voulu, par mes yeux, faire l'expérience,</l>
@@ -1482,25 +1482,25 @@
 	<l id="530">Vient de tempérament, ou bien de caractère ?</l>
 </sp>
 <sp who="MOMUS"><speaker>MOMUS.</speaker>
-	<l id="531" part='i'>Monsieur...</l>
+	<l id="531" part="i">Monsieur...</l>
 </sp>
 <sp who="ALCESTE"><speaker>ALCESTE.</speaker>
-	<l id="531" part='m'>Vous hésitez, Monsieur ?</l>
+	<l id="531" part="m">Vous hésitez, Monsieur ?</l>
 </sp>
 <sp who="TRISSOTIN"><speaker>TRISSOTIN.</speaker>
-	<l id="531" part='f'>On peut, je crois ;</l>
+	<l id="531" part="f">On peut, je crois ;</l>
 	<l id="532">Expliquer tout cela par de certaines lois.</l>
 </sp>
 <sp who="ALCESTE"><speaker>ALCESTE.</speaker>
-	<l id="533" part='i'>Voyons un peu ces lois.</l>
+	<l id="533" part="i">Voyons un peu ces lois.</l>
 </sp>
 <sp who="TRISSOTIN"><speaker>TRISSOTIN.</speaker>
-	<l id="533" part='f'>En entrant dans le monde,</l>
+	<l id="533" part="f">En entrant dans le monde,</l>
 	<l id="534">Les vices, les travers dont notre espèce abonde</l>
-	<l id="535" part='i'>Inspirent la pitié.....</l>
+	<l id="535" part="i">Inspirent la pitié.....</l>
 </sp>
 <sp who="ALCESTE"><speaker>ALCESTE.</speaker>
-	<l id="535" part='f'>Dites plutôt, l'horreur.</l>
+	<l id="535" part="f">Dites plutôt, l'horreur.</l>
 	<l id="536">Des hommes sans vertu, des femmes sans pudeur,</l>
 	<l id="537">Des obscurs parvenus l'insolente bassesse,</l>
 	<l id="538">Des jeunes gens tarés la dégoûtante ivresse ;</l>
@@ -1522,10 +1522,10 @@
 	<l id="550">La satire, Monsieur ? que voulez-vous donc dire !</l>
 </sp>
 <sp who="TRISSOTIN"><speaker>TRISSOTIN.</speaker>
-	<l id="551" part='i'>Ne craignez rien Monsieur pour vous-même. </l>
+	<l id="551" part="i">Ne craignez rien Monsieur pour vous-même. </l>
 </sp>
 <sp who="ALCESTE"><speaker>ALCESTE.</speaker>
-	<l id="551" part='f'>Et pourquoi ?</l>
+	<l id="551" part="f">Et pourquoi ?</l>
 </sp>
 <sp who="TRISSOTIN"><speaker>TRISSOTIN.</speaker>
 	<l id="552">C'est que vous paraissez du même avis que moi.</l>
@@ -1543,13 +1543,13 @@
 </sp>
 <sp who="TRISSOTIN"><speaker>TRISSOTIN.</speaker>
 	<l id="558">Pourquoi non, s'il vous plaît ? Sachez que la critique</l>
-	<l id="559" part='i'>Est utile pour moi.</l>
+	<l id="559" part="i">Est utile pour moi.</l>
 </sp>
 <sp who="ALCESTE"><speaker>ALCESTE.</speaker>
-	<l id="559" part='m'>Je le vois.</l>
+	<l id="559" part="m">Je le vois.</l>
 </sp>
 <sp who="TRISSOTIN"><speaker>TRISSOTIN.</speaker>
-	<l id="559" part='f'>Et pour l'art.</l>
+	<l id="559" part="f">Et pour l'art.</l>
 	<l id="560">Il faut se faire un nom, je vous parle sans fard.</l>
 </sp>
 <sp who="ALCESTE"><speaker>ALCESTE.</speaker>
@@ -1562,21 +1562,21 @@
 	<l id="567">Que celui dont le coeur, aussi bas que l'esprit, </l>
 	<l id="568">Ose insulter en lâche au talent dont il vit.</l>
 </sp>
-<sp who='TRISSOTIN'><speaker>TRISSOTIN, outré.</speaker>
-	<l id="569" part='i'>Vous apprendrez bientôt...</l>
+<sp stage="offended" who='TRISSOTIN'><speaker>TRISSOTIN, outré.</speaker>
+	<l id="569" part="i">Vous apprendrez bientôt...</l>
 <stage type="exit">Il sort par la porte qui va chez Thalie.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='17'><head>SCÈNE XVII. Alceste, Sosie, Momus.</head>
 <sp who="ALCESTE"><speaker>ALCESTE.</speaker>
-	<l id="569" part='f'>L'exécrable folie !</l>
+	<l id="569" part="f">L'exécrable folie !</l>
 	<l id="570">Voilà, voilà des gens à livrer à Thalie.</l>
 </sp>
 <sp who="SOSIE"><speaker>SOSIE.</speaker>
-	<l id="571" part='i'>On l'y verra.</l>
+	<l id="571" part="i">On l'y verra.</l>
 </sp>
 <sp who="MOMUS"><speaker>MOMUS.</speaker>
-	<l id="571" part='f'>Comment, avec si peu d'esprit, </l>
+	<l id="571" part="f">Comment, avec si peu d'esprit, </l>
 	<l id="572">Ce petit homme a-t-il une telle arrogance ?</l>
 </sp>
 <sp who="ALCESTE"><speaker>ALCESTE.</speaker>
@@ -1591,10 +1591,10 @@
 	<l id="576">Nous ne verrons ici que des gens de Molière ?</l>
 </sp>
 <sp who="SOSIE"><speaker>SOSIE.</speaker>
-	<l id="577" part='i'>Je vous l'avais bien dit.</l>
+	<l id="577" part="i">Je vous l'avais bien dit.</l>
 </sp>
 <sp who="MOMUS"><speaker>MOMUS.</speaker>
-	<l id="577" part='f'>Dois-je écouter un fat ?</l>
+	<l id="577" part="f">Dois-je écouter un fat ?</l>
 </sp>
 <sp who="SOSIE"><speaker>SOSIE.</speaker>
 	<l id="578">Tous les discours sont des sottises,</l>
@@ -1607,9 +1607,9 @@
 </sp>
 </div2>
 <div2 type="scene" n='19'><head>SCÈNE XIX. Angélique, Claudine, Clitandre, Momus, Sosie.</head>
-<sp who="ANGÉLIQUE"><speaker>ANGÉLIQUE, à Claudine.</speaker>
+<sp stage="toward" who="ANGÉLIQUE"><speaker>ANGÉLIQUE, à Claudine.</speaker>
 <p id='1'>
-	<s id='1'>Restez à cette porte, petite fille,  et si par malheur vous voyez arriver  mon bourgeois de Mari, Monsieur George Dandin, vous nous avertirez ; entendez-vous ?</s>
+	<s id='1'>Restez à cette porte, petite fille, et si par malheur vous voyez arriver mon bourgeois de Mari, Monsieur George Dandin, vous nous avertirez ; entendez-vous ?</s>
 </p>
 </sp>
 <sp who='CLAUDINE'><speaker>CLAUDINE.</speaker>
@@ -1623,12 +1623,12 @@
 	<s id='2'>Non, petite sotte.</s>
 </p>
 </sp>
-<sp who='CLITANDRE'><speaker>CLITANDRE, à Angélique.</speaker>
+<sp stage="toward" who='CLITANDRE'><speaker>CLITANDRE, à Angélique.</speaker>
 <p id='4'>
 	<s id='1'>Voilà, Madame, le fameux Médecin dont on a tant parlé ce matin chez Monsieur le Baron de Sotenville, Monsieur votre père.</s>
 </p>
 </sp>
-<sp who="ANGÉLIQUE"><speaker>ANGÉLIQUE, à Momus.</speaker>
+<sp stage="toward" who="ANGÉLIQUE"><speaker>ANGÉLIQUE, à Momus.</speaker>
 <p id='5'>
 	<s id='1'>Monsieur, parmi les secrets merveilleux que vous avez apportés des Pays Étrangers, je désirerais bien qu'il y eût une recette contre les migraines de l'espèce de la mienne ; votre fortune serait faite. </s>
 	<s id='2'>Ensuite des vapeurs dont j'ai été dévorée, il m'en est resté une qui revient régulièrement tous les jours à la même heure.</s>
@@ -1654,12 +1654,12 @@
 	<s id='1'>Madame ne voit ordinairement à cette heure-là que son, mari, qui revient de ses courses vers la fin du jour, et je crois avoir remarqué que, l'Été, les attaques sont	moins longues.</s>
 </p>
 </sp>
-<sp who='MOMUS'><speaker>MOMUS, à Angélique</speaker>
+<sp stage="toward" who='MOMUS'><speaker>MOMUS, à Angélique.</speaker>
 <p id='10'>
 	<s id='1'>Madame, vous êtes bienheureuse d'avoir auprès de vous un observateur comme Monsieur, et quand on connaît aussi bien les symptômes d'une maladie, il est aisé de la guérir.</s>
 </p>
 </sp>
-<sp who='CLITANDRE'><speaker>CLITANDRE, à Angélique</speaker>
+<sp stage="toward" who='CLITANDRE'><speaker>CLITANDRE, à Angélique.</speaker>
 <p id='11'>
 	<s id='1'>Madame, vous entendez ?</s>
 </p>
@@ -1669,7 +1669,7 @@
 	<s id='1'>À merveille, Monsieur.</s>
 </p>
 </sp>
-<sp who='CLAUDINE'><speaker>CLAUDINE, accourant</speaker>
+<sp stage="run" who='CLAUDINE'><speaker>CLAUDINE, accourant.</speaker>
 <p id='13'>
 	<s id='1'>Le voilà ! </s>
 	<s id='2'>Le voilà !</s>
@@ -1687,14 +1687,14 @@
 	<s id='2'>Mon mari ?</s>
 </p>
 </sp>
-<sp who='MOMUS'><speaker>MOMUS, à part</speaker>
+<sp stage="stage" who='MOMUS'><speaker>MOMUS, à part.</speaker>
 <p id='16'>
 	<s id='1'>Et la migraine ? </s>
 </p>
 </sp>
 </div2>
 <div2 type="scene" n='20'><head>SCÈNE XX. George Dandin, et les Acteurs précédents.</head>
-<sp who='GEORGE DANDIN'><speaker>GEORGE DANDIN, en entrant, à sa femme.</speaker>
+<sp stage="entrance/toward" who='GEORGE DANDIN'><speaker>GEORGE DANDIN, en entrant, à sa femme.</speaker>
 <p id='1'>
 	<s id='1'>Il sera donc dit, Madame, que vous ne sortirez jamais sans avoir Monsieur avec vous ? </s>
 	<s id='2'>Est-ce que votre servante Claudine ne suffit pas ?</s>
@@ -1735,19 +1735,19 @@
 	<s id='1'>Et n'est-ce pas moi qui fais les frais de tout.</s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE, à son mari.</speaker>
+<sp stage="toxard" who='ANGÉLIQUE'><speaker>ANGÉLIQUE, à son mari.</speaker>
 <p id='8'>
 	<s id='1'>Vous avez bonne grâce de vous plaindre ; ce serait moi qui devrais le faire : moi qui ai été sacrifiée, moi qui pouvais épouser un homme de qualité.</s>
 </p>
 </sp>
 </div2>
-<div2 type="scene" n='21'><head>SCÈNE XXI. Monsieur Jourdain, et les Acteurs précédents.</head>
-<sp who='MONSIEUR JOURDAIN'><speaker>MONSIEUR JOURDAIN entre en chaise à porteur. En entendant les derniers mots de la scène avant de sortir de sa chaise, dont les stores sont baissés, il dit :</speaker>
+<div2 type="scene" n='21'><head>SCÈNE XXI. Monsieur Jourdain, et les acteurs précédents.</head>
+<sp stage="entrance/decor/hide" who='MONSIEUR JOURDAIN'><speaker>MONSIEUR JOURDAIN, entre en chaise à porteur. En entendant les derniers mots de la scène avant de sortir de sa chaise, dont les stores sont baissés, il dit :</speaker>
 <p id='1'>
 	<s id='1'>Un homme de qualité ! </s>
 	<s id='2'>Qui est-ce qui parle de moi, là ?</s>
 </p>
-<stage type="[N/A]">Sortant de sa chaise.</stage>
+<stage type="entrance">Sortant de sa chaise.</stage>
 <p id='2'>
 	<s id='1'>Eh ! </s>
 	<s id='2'>Bien, qu'est-ce, mes amis ? </s>
@@ -1759,7 +1759,7 @@
 	<s id='1'>Oh ! </s>
 	<s id='2'>Oh ! </s>
 	<s id='3'>Eh ! </s>
-	<s id='4'>C'est Monsieur Jourdain, en robe de chambre !  </s>
+	<s id='4'>C'est Monsieur Jourdain, en robe de chambre ! </s>
 	<s id='5'>En cet équipage, venez-vous du bal ? </s>
 </p>
 </sp>
@@ -1796,16 +1796,16 @@
 </sp>
 <sp who='MONSIEUR JOURDAIN'><speaker>JOURDAIN.</speaker>
 <p id='10'>
-	<s id='1'>Que je suis malheureux !  </s>
-	<s id='2'>Allez, allez, laissez-moi faire, j'y mettrai bon ordre ;  en vous comptant, voilà le huitième Médecin que je vois.</s>
+	<s id='1'>Que je suis malheureux ! </s>
+	<s id='2'>Allez, allez, laissez-moi faire, j'y mettrai bon ordre ; en vous comptant, voilà le huitième Médecin que je vois.</s>
 </p>
 </sp>
-<sp who='SOSIE'><speaker>SOSIE, à part.</speaker>
+<sp stage="aparte" who='SOSIE'><speaker>SOSIE, à part.</speaker>
 <p id='11'>
 	<s id='1'>Quand nous serons à dix, nous ferons une croix.</s>
 </p>
 </sp>
-<sp who='MOMUS'><speaker>MOMUS, à Jourdain.</speaker>
+<sp stage="toward" who='MOMUS'><speaker>MOMUS, à Jourdain.</speaker>
 <p id='12'>
 	<s id='1'>Peste ! </s>
 	<s id='2'>Vous devez avoir un tempérament de fer.</s>
@@ -1878,24 +1878,24 @@
 </sp>
 </div2>
 <div2 type="scene" n="22"><head>SCÈNE XXII. Les Acteurs précédents, Thalie, Tartuffe, Trissotin.</head>
-<stage type="[N/A]">Ces deux derniers sont fort empressés autour de Thalie.</stage>
-<sp who="THALIE"><speaker>THALIE, à tous deux</speaker>
+<stage type="stress">Ces deux derniers sont fort empressés autour de Thalie.</stage>
+<sp stage="toward" who="THALIE"><speaker>THALIE, à tous deux.</speaker>
 	<l id="582">Vous me pressez en vain : ce n'est qu'aux yeux de tous</l>
 	<l id="583">Que je peux donner à connaître</l>
 	<l id="584">Les sentiments qu'en moi votre ardeur a fait naître :</l>
-	<l id="585" part='i'>Encore je crains... </l>
+	<l id="585" part="i">Encore je crains... </l>
 </sp>
 <sp who="TARTUFFE"><speaker>TARTUFFE.</speaker>
-	<l id="585" part='f'>Peut-on craindre de nous ? ...</l>
+	<l id="585" part="f">Peut-on craindre de nous ? ...</l>
 </sp>
 <sp who="THALIE"><speaker>THALIE.</speaker>
 	<l id="586">Oui, je crains qu'un transport jaloux</l>
 	<l id="587">Dans ce moment ne fasse disparaître</l>
 	<l id="588">L'amitié qui règne entre vous ;</l>
-	<l id="589" part='i'>Car vous êtes amis...</l>
+	<l id="589" part="i">Car vous êtes amis...</l>
 </sp>
 <sp who="MOMUS"><speaker>MOMUS.</speaker>
-	<l id='589' part='f'>Et très dignes de l'être.</l>
+	<l id='589' part="f">Et très dignes de l'être.</l>
 </sp>
 <sp who="THALIE"><speaker>THALIE.</speaker>
 	<l id="590">Avant de m'expliquer, jurez à mes genoux,</l>
@@ -1907,7 +1907,7 @@
 <sp who="TRISSOTIN"><speaker>TRISSOTIN.</speaker>
 	<l id="595">Oh ! De grand coeur, nous le jurons.</l>
 </sp>
-<sp who="TARTUFFE"><speaker>TARTUFFE, à part.</speaker>
+<sp stage="aparte" who="TARTUFFE"><speaker>TARTUFFE, à part.</speaker>
 	<l id="596">Jurons toujours ; ensuite nous verrons.</l>
 </sp>
 <sp who="THALIE"><speaker>THALIE.</speaker>
@@ -1916,18 +1916,18 @@
 <sp who="TARTUFFE"><speaker>TARTUFFE.</speaker>
 	<l id="598">La volonté du Ciel soit faite en toute chose.</l>
 </sp>
-<sp who="THALIE"><speaker>THALIE, à Tartuffe</speaker>
+<sp stage="toward" who="THALIE"><speaker>THALIE, à Tartuffe.</speaker>
 	<l id="599">Partager sa bouche et son coeur</l>
 	<l id="600">Entre les vertus et les vices</l>
 	<l id="601">Me paraît un excès d'horreur,</l>
 	<l id="602">Dont vous avez trop de complices.</l>
-<stage type="[N/A]">Montrant Trissotin.</stage>
-	<l id="603" part='i'>Au moins Monsieur...</l>
+<stage type="show">Montrant Trissotin.</stage>
+	<l id="603" part="i">Au moins Monsieur...</l>
 </sp>
-<sp who="TRISSOTIN"><speaker>TRISSOTIN, interrompant d'un air de satisfaction, et à part.</speaker>
-	<l id="603" part='f'>Je le savais bien, moi. </l>
+<sp stage="interrupt/happy/aparte" who="TRISSOTIN"><speaker>TRISSOTIN, interrompant d'un air de satisfaction, et à part.</speaker>
+	<l id="603" part="f">Je le savais bien, moi. </l>
 </sp>
-<sp who="THALIE"><speaker>THALIE, reprenant</speaker>
+<sp stage="continur" who="THALIE"><speaker>THALIE, reprenant.</speaker>
 	<l id="604">Au moins, Monsieur, d'une feinte inutile </l>
 	<l id="605">Ne s'est pas imposé la Loi ;</l>
 	<l id="606">Et le poison que sa plume distille</l>
@@ -1941,27 +1941,27 @@
 	<l id="610">Cet avis-là vous paraît-il suspect ?</l>
 </sp>
 <sp who="TRISSOTIN"><speaker>TRISSOTIN.</speaker>
-	<l id="611" part='i'>J'écrirai...</l>
+	<l id="611" part="i">J'écrirai...</l>
 </sp>
 <sp who="TARTUFFE"><speaker>TARTUFFE.</speaker>
-	<l id="611" part='m'>Je dirai...</l>
+	<l id="611" part="m">Je dirai...</l>
 </sp>
 <sp who="TRISSOTIN"><speaker>TRISSOTIN.</speaker>
-	<l id="611" part='f'>Vous apprendrez, ma mie...</l>
+	<l id="611" part="f">Vous apprendrez, ma mie...</l>
 </sp>
 <sp who="THALIE"><speaker>THALIE.</speaker>
 	<l id="612">Tout beau, Messieurs ; vous manquez de respect :</l>
-<stage type="[N/A]">Montrant son masque.</stage>
+<stage type="show">Montrant son masque.</stage>
 	<l id="613">Sous ces traits connaissez Thalie.</l>
 </sp>
 <sp who="TRISSOTIN"><speaker>TRISSOTIN.</speaker>
-	<l id="614" part='i'>Ô Ciel !</l>
+	<l id="614" part="i">Ô Ciel !</l>
 </sp>
 <sp who="TARTUFFE"><speaker>TARTUFFE.</speaker>
-	<l id="614" part='m'>Je suis perdu ! </l>
+	<l id="614" part="m">Je suis perdu ! </l>
 </sp>
 <sp who="MONSIEUR JOURDAIN"><speaker>MONSIEUR JOURDAIN.</speaker>
-	<l id="614" part='f'>Je la trouve jolie,</l>
+	<l id="614" part="f">Je la trouve jolie,</l>
 	<l id="615">Malgré son petit air tant soi peu goguenard ;</l>
 	<l id="616">Et ces yeux éveillés m'inspirent pour ma part</l>
 	<l id="617">Certain désir de faire une folie.</l>
@@ -1984,23 +1984,23 @@
 	<l id="628">Avec éclat on ne vous vit paraître.</l>
 </sp>
 <sp who="MONSIEUR JOURDAIN"><speaker>MONSIEUR JOURDAIN.</speaker>
-	<l id="629" part='i'>Quoi ! Cela se pourrait ?</l>
+	<l id="629" part="i">Quoi ! Cela se pourrait ?</l>
 </sp>
 <sp who="MOMUS"><speaker>MOMUS.</speaker>
-	<l id="629" part='f'>Vous en êtes le maître :</l>
-	<l id="630" part='i'>Il ne faut seulement...</l>
+	<l id="629" part="f">Vous en êtes le maître :</l>
+	<l id="630" part="i">Il ne faut seulement...</l>
 </sp>
 </div2>
 <div2 type="scene" n="23"><head>SCÈNE XXIII. Lélie, et les Acteurs précédents.</head>
-<sp who="LÉLIE"><speaker>LÉLIE, accourant.</speaker>
-	<l id="630" part='f'>Craignez tous le Docteur ;</l>
+<sp stage="run" who="LÉLIE"><speaker>LÉLIE, accourant.</speaker>
+	<l id="630" part="f">Craignez tous le Docteur ;</l>
 	<l id="631">Il n'est pas Médecin, ce n'est qu'un imposteur :</l>
 	<l id="632">Je le sais par la voix commune.</l>
 </sp>
 <sp who="SOSIE"><speaker>SOSIE.</speaker>
-	<l id="633" part='i'>Peste de l'étourdi ! </l>
+	<l id="633" part="i">Peste de l'étourdi ! </l>
 <stage type="toward">À Lélie.</stage>
-	<l id="633" part='f'>Monsieur, d'un tour de main,</l>
+	<l id="633" part="f">Monsieur, d'un tour de main,</l>
 	<l id="634">Par votre présence importune, </l>
 	<l id="635">Vous faites perdre au bon Monsieur Jourdain</l>
 	<l id="636">La plus éclatante fortune.</l>
@@ -2012,9 +2012,9 @@
 	<l id="640">Et j'ai fait une étourderie.</l>
 </sp>
 <sp who="THALIE"><speaker>THALIE.</speaker>
-	<l id="641" part='i'>Vous le deviez...</l>
+	<l id="641" part="i">Vous le deviez...</l>
 <stage type="toward">À tous les Acteurs.</stage>
-	<l id="641" part='f'>Rendez grâce aux bienfaits</l>
+	<l id="641" part="f">Rendez grâce aux bienfaits</l>
 	<l id="642">Que répandit sur vous un immortel génie,</l>
 	<l id="643">En vous peignant de ces grands traits </l>
 	<l id="644">Que les fureurs du Temps, ni celles de l'Envie </l>
@@ -2028,36 +2028,36 @@
 	<l id="650">Il faut s'en plaindre à celui qui vous fit. </l>
 </sp>
 <sp who="LÉLIE"><speaker>LÉLIE.</speaker>
-	<l id="651" part='i'>Où le chercher ?</l>
+	<l id="651" part="i">Où le chercher ?</l>
 </sp>
-<sp who="THALIE"><speaker>THALIE, montrant la statue de Molière qui se découvre.</speaker>
-	<l id="651" part='m'>Le voilà.</l>
+<sp stage="show" who="THALIE"><speaker>THALIE, montrant la statue de Molière qui se découvre.</speaker>
+	<l id="651" part="m">Le voilà.</l>
 </sp>
 <sp who="TOUS LES ACTEURS"><speaker>TOUS LES ACTEURS.</speaker>
-	<l id="651" part='f'>C'est Molière :</l>
+	<l id="651" part="f">C'est Molière :</l>
 	<l id="652">Courons embrasser ses genoux.</l>
 </sp>
-<sp who="SOSIE"><speaker>SOSIE, aux coulisses.</speaker>
+<sp stage="location" who="SOSIE"><speaker>SOSIE, aux coulisses.</speaker>
 	<l id="653">Acteurs, Souffleur, Ballets, Messieurs, accourez tous ;</l>
 	<l id="654">Qu'après cent ans complets, ce vif et pur hommage</l>
 	<l id="655">À tous les yeux retrace au moins l'image</l>
 	<l id="656">Des transports de nos coeurs à le revoir chez nous. </l>
 </sp>
 </div2>
-<div2 type="scene" n="24"><head>SCÈNE XXIV, et dernière. Tous les Acteurs de la Comédie, en habit de caractère des pièces de Molière, sur l'aile droite du Théâtre, et tous les Acteurs de la Tragédie en habit Tragique, sur l'aile gauche.</head>
-<sp who="MONSIEUR LE KAIN"><speaker>MONSIEUR LE KAIN, à la tête de la Tragédie.</speaker>
+<div2 type="scene" n="24" stage="costume/decor/location"><head>SCÈNE XXIV, et DERNIÈRE. Tous les acteurs de la Comédie, en habit de caractère des pièces de Molière, sur l'aile droite du Théâtre, et tous les acteurs de la Tragédie en habit Tragique, sur l'aile gauche.</head>
+<sp stage="location" who="MONSIEUR LE KAIN"><speaker>MONSIEUR LE KAIN, à la tête de la Tragédie.</speaker>
 	<l id="657">De quel éclat nouveau brille aujourd'hui la Scène ! </l>
 <stage type="toward">À Thalie.</stage>
 	<l id="658">Ah ! Madame, voyez, en des moments si doux,</l>
-<stage type="[N/A]">En montrant les Acteurs et Actrices tragiques.</stage>
+<stage type="show">En montrant les acteurs et actrices tragiques.</stage>
 	<l id="659">Les Enfants les plus chers au coeur de Melpomène,</l>
 	<l id="660">Partager leur encens entre Molière et vous.</l>
 </sp>
-<sp who="THALIE"><speaker>THALIE, à M. le Kain et aux autres.</speaker>
+<sp stage="toward" who="THALIE"><speaker>THALIE, à Monsieur le Kain et aux autres.</speaker>
 	<l id="661">Soyez assurés que Thalie</l>
 	<l id="662">Goûte une douceur infinie</l>
 	<l id="663">À voir en ce beau jour tous les coeurs réunis.</l>
-<stage type="[N/A]">En montrant Molière et les piédestaux.</stage>
+<stage type="show">En montrant Molière et les piédestaux.</stage>
 	<l id="664">Je commence une galerie,</l>
 	<l id="665">Où les vrais Enfants du génie,</l>
 	<l id="666">Après cent ans, rivaux, mais généraux amis,</l>
@@ -2068,7 +2068,7 @@
 	<l id="669">Nous savons ce qu'ils nous demandent,</l>
 	<l id="670">Et vos voeux seront accomplis.</l>
 </sp>
-<sp who="MONSIEUR BRIZARD"><speaker>MONSIEUR BRIZARD, en Auguste.</speaker>
+<sp stage="costume" who="MONSIEUR BRIZARD"><speaker>MONSIEUR BRIZARD, en Auguste.</speaker>
 	<l id="671">Le Souverain d'un vaste Empire,</l>
 	<l id="672">Sous cet habit représenté,</l>
 	<l id="673">Peut-il en ce beau jour être mieux imité,</l>
@@ -2077,13 +2077,13 @@
 	<l id="676">Rome et Paris ne sont qu'une même patrie ;</l>
 	<l id="677">Et le plus bel emploi d'un immortel laurier,</l>
 	<l id="678">Doit être de briller sur le front du génie.</l>
-<stage type="[N/A]">Il met sa couronne sur la tête de la statue de Molière.</stage>
+<stage type="dress">Il met sa couronne sur la tête de la statue de Molière.</stage>
 </sp>
 <sp who="CHOEUR"><speaker>CHOEUR.</speaker>
 	<l id="679">Vivat, vivat, cent fois vivat,</l>
 	<l id="680">Solus auitor qui tam tene parlat. </l>
 </sp>
-<sp who="MONSIEUR BRIZARD"><speaker>MOMUS, à Thalie</speaker>
+<sp stage="towrad" who="MONSIEUR BRIZARD"><speaker>MOMUS, à Thalie.</speaker>
 	<l id="681">Thalie, eh bien ! ce nouveau caractère,</l>
 	<l id="682">Que nous devions rapporter à Molière,</l>
 	<l id="683">Le voyez-vous parmi ces gens ?</l>
@@ -2093,16 +2093,16 @@
 <sp who="THALIE"><speaker>THALIE.</speaker>
 	<l id="686">Eh ! ne suffit-il pas, pour fêter un bon Père, </l>
 	<l id="687">De lui présenter ses Enfants ?</l>
-<stage type="[N/A]">Le Choeur répète, vivat.</stage>
+<stage type="together">Le Choeur répète, vivat.</stage>
 </sp>
 </div2>
-<div2 type="marche" n="M"><head>MARCHE.</head>
-<stage type="music">Air de la Marche des Apothicaires du Malade Imaginaire, alternativement avec une Marche caractéristique pour la Tragédie. La Comédie est conduire par Sosie en tête, sa lanterne à la main. La Tragédie, par M. le Kain, en habit de Rodrigue dans le Cid, l'épée à la main. On va saluer la statue de Molière deux à deux ; et quand Thalie et Momus sont auprès de la statue, ils attachent au piédestal, l'un sa marotte, l'autre son masque, et Sosie place sa lanterne dans l'attitude de Diogène.</stage>
+<div2 type="marche" n="1"><head>MARCHE.</head>
+<stage type="music/location">Air de la Marche des Apothicaires du Malade Imaginaire, alternativement avec une Marche caractéristique pour la Tragédie. La Comédie est conduire par Sosie en tête, sa lanterne à la main. La Tragédie, par M. le Kain, en habit de Rodrigue dans le Cid, l'épée à la main. On va saluer la statue de Molière deux à deux ; et quand Thalie et Momus sont auprès de la statue, ils attachent au piédestal, l'un sa marotte, l'autre son masque, et Sosie place sa lanterne dans l'attitude de Diogène.</stage>
 </div2>
-<div2 type="scene" n="B"><head>Ballet de caractère.</head>
-<stage type="[N/A]">Des principaux Divertissements de Molière.</stage>
+<div2 type="scene" n="2"><head>Ballet de caractère.</head>
+<stage type="title">Des principaux Divertissements de Molière.</stage>
 </div2>
-<div2 type="scene" n="V"><head>VAUDEVILLE.</head>
+<div2 type="vaudeville" n="1"><head>VAUDEVILLE.</head>
 <sp who="THALIE"><speaker>THALIE.</speaker>
 	<l id="688">Amis, que l'éclat de ce jour</l>
 	<l id="689">Vous anime et vous intéresse :</l>
@@ -2175,13 +2175,13 @@
 	<l id="736">Fier de leur devoir la lumière.</l>
 	<l id="737">Fils de Plaute, on vit commencer</l>
 	<l id="738">Et mes succès, et ma carrière ;</l>
-	<l id="739">Mais il fallait, pour l'achever,  </l>
+	<l id="739">Mais il fallait, pour l'achever, </l>
 	<l id="740">Me voir adopter par Molière.</l>
 </sp>
 <sp who="CHOEUR"><speaker>CHOEUR.</speaker>
 	<l id="741">Mais il fallait, etc.</l>
 </sp>
-<sp who="THALIE"><speaker>THALIE, au Parterre.</speaker>
+<sp stage="toward" who="THALIE"><speaker>THALIE, au parterre.</speaker>
 	<l id="742">En nous accordant vos faveurs, </l>
 	<l id="743">Messieurs, pour cette bagatelle,</l>
 	<l id="744">Daignez n'y voir que de nos coeurs</l>
@@ -2190,9 +2190,9 @@
 	<l id="747">Étant empressés à vous plaire,</l>
 	<l id="748">Pardonnez nos faibles efforts</l>
 	<l id="749">En faveur du nom de Molière. </l>
-<stage type="[N/A]">On fait la révérence.</stage>
+<stage type="wave">On fait la révérence.</stage>
 </sp>
-<sp who="MOMUS"><speaker>MOMUS, à Monsieur Jourdain</speaker>
+<sp stage="toward" who="MOMUS"><speaker>MOMUS, à Monsieur Jourdain.</speaker>
 <p id='1'>
 	<s id='1'>À vous, Monsieur Jourdain ; allons, vous ne donnerez pas quelque chose ?</s>
 </p>
@@ -2218,14 +2218,14 @@
 	<s id='2'>Je n'en sais rien, moi ; attendez, voici... </s>
 	<s id='3'>Oui... :</s>
 </p>
-<stage type="[N/A]">Il fait un petit prélude et chante, sur l'air ; C'est l'ouvrage d'un moment : </stage>
+<stage type="sing">Il fait un petit prélude et chante, sur l'air ; C'est l'ouvrage d'un moment : </stage>
 	<l id="750">En faveur de l'ami Molière,</l>
 	<l id="751">Que je protège ouvertement,</l>
 	<l id="752">Je parle à la Cour très souvent :</l>
 	<l id="753">J'y mets son éloquence entière ;</l>
 	<l id="754">C'est l'ouvrage d'un moment.</l>
 </sp>
-<sp who="MOMUS"><speaker>MOMUS, à Alceste.</speaker>
+<sp stage="toward" who="MOMUS"><speaker>MOMUS, à Alceste.</speaker>
 <note type="C">Rubant vert : En référence à la tenue d'Alceste dans le Misanthrope (Acte V scène 4. Lecture de la lettre). Sganarelle, dans le Médecin Malgré lui, est décrit comme portant un habit jaune et vert.</note>
 	<l id="755">Et vous, Monsieur du Ruban-vert ?</l>
 </sp>
@@ -2234,11 +2234,11 @@
 	<l id="757">Mais j'y veux déroger, seulement pour Molière.</l>
 	<l id="758">Au surplus, je ne sais qu'un air.</l>
 </sp>
-<sp who="MOMUS, MONSIEUR JOURDAIN"><speaker>MOMUS et MONSIEUR JOURDAIN.</speaker>
+<sp stage="together" who="MOMUS, MONSIEUR JOURDAIN"><speaker>MOMUS et MONSIEUR JOURDAIN.</speaker>
 	<l id="759">Chantez, chantez toujours.</l>
 </sp>
 <sp who="ALCESTE"><speaker>ALCESTE.</speaker>
-<stage type="music">Air : Si le Roi m'avait donné. </stage>
+<stage type="title">Air : Si le Roi m'avait donné. </stage>
 	<l id="760">Du Roi sans un ordre exprès, </l>
 	<l id="761">Non, jamais d'Oronte</l>
 	<l id="762">Je ne louerai les Sonnets :</l>
@@ -2248,7 +2248,7 @@
 	<l id="766">J'aime mieux Molière,</l>
 	<l id="767">Ô gué,</l>
 	<l id="768">J'aime mieux Molière. </l>
-<stage type="[N/A]">Une contredanse termine le Divertissement.</stage>
+<stage type="danse">Une contredanse termine le Divertissement.</stage>
 </sp>
 </div2>
 </div1>

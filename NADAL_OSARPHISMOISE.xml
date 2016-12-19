@@ -7,9 +7,9 @@
 			<author born='1659' born_location='Poitiers' death='1741' death_location='Poitiers' academie=''>NADAL, Augustin</author>
 		</titleStmt>
 		<publicationStmt>
-			<p>publié par Paul FIEVRE avril 2010</p>
-		<idno></idno>
-</publicationStmt>
+			<p>publié par Paul FIEVRE avril 2010, octobre 2016</p>
+			<idno>NADAL_OPHARSISMOISE</idno>
+		</publicationStmt>
 		<SourceDesc>
 			<genre>Tragédie</genre>
 			<inspiration>bible</inspiration>
@@ -110,20 +110,20 @@ Osarphis est un personnage de nouvelle espèce pour le Théâtre Français ; un
 <p class='prose'>Que de considérations puissantes pour assurer à votre Altesse Sérénissime, les hommages sincères de tous ceux qui cultivent les Belles Lettres, et dans la profession est de discuter, si j'ose ainsi parler, ces qualités intérieures où Dieu, selon sa parole éternelle, a attaché la principale gloire des filles des Rois. Déjà, Madame, il vous a fait trouver le prix de tant de vertus, dans la personne d'un jeune Prince qui dès sa première campagne est devenu l'amour des Troupes. Elles ont dit de lui devant Kehl, ce qui avait été dit de son Aïeul à Steinkerque : Conti, le magnanime Conti accourut y planter un Drapeau entre le feu de l'ennemi et le nôtre, il se fit longtemps remarquer et presque seul, parmi la foudre et les éclairs, et le soldat alors s'écria, qu'il voyait dans les flammes l'âme du grand Condé. Son petit-fils marche à pas de Géant sur ses traces et lui-même vient de recueillir, dans le Prince qui lui est né, la plus précieuse rétribution que le Ciel puisse accorder à une race auguste et belliqueuse. </p>
 <p class='prose'>Au reste, Madame, de quel heureux présage ne doit point être pour moi cette conformité qui se trouve entre la destinée de ma Pièce et celle de son Héros ? Une Princesse du sang des Sésostris l'a sauvé des périls où venait de l'exposer la proscription générale de tous ceux de son âge : ce même Enfant vient en quelque sorte se reproduire aux pieds de votre Altesse Sérénissime, et son salut ne dépend que de ses augustes regards ; puisse-t-elle en jeter de favorables, sur le berceau où il est renfermé et qui le tient encore flottant parmi les Roseaux du Nil ! </p>
 <p class='prose'>Je suis avec tout le respect et toute la soumission que je dois, </p>
-<p class='prose'>MADAME, de V. A. Sérénissime,  Le très humble, et très obéissant Serviteur, l'Abbé Nadal.</p>
+<p class='prose'>MADAME, de V. A. Sérénissime, Le très humble, et très obéissant Serviteur, l'Abbé Nadal.</p>
 </div>
 	<castList><head>ACTEURS</head>
-		<castItem><role id="MOÏSE" sex="1">MOÏSE</role>, sous le nom d'Osarphis, fils de Jocabel et cru fils de Thermutis Reine d'Égypte. </castItem>
-		<castItem><role id="AMÉNOPHIS" sex="1">AMÉNOPHIS</role>, Roi d'Égypte, frère de Thermutis qui avait usurpé la Couronne sur lui.</castItem>
-		<castItem><role id="JOCABEL" sex="2">JOCABEL</role>, Mère de Moïse, autrement, d'Osarphis.</castItem>
-		<castItem><role id="THARBIS" sex="2">THARBIS</role>, Reine de Sepa et Amante d'Aménophis.</castItem>
-		<castItem><role id="AARON" sex="1">AARON</role>, autre fils de Jocabel et frère d'Osarphis.</castItem>
-		<castItem><role id="PHANÉS" sex="1">PHANÉS</role>, grand Prêtre d'Osiris.</castItem>
-		<castItem><role id="ISÉRIDE" sex="2">ISÉRIDE</role>, Confidente de Jocabel.</castItem>
-		<castItem><role id="ISMÈNE" sex="2">ISMÈNE</role>, Confidente de Tharbis.</castItem>
-		<castItem><role id="ASAPH" sex="1">ASAPH</role>, Confident d'Osarphis.</castItem>
-		<castItem><role id="GARDES" sex="9">GARDES</role>.</castItem>
-    </castList>
+		<castItem><role id="MOÏSE" sex="1" type="H" statut="prophète" age='A' stat_amour='néant'>MOÏSE</role>, sous le nom d'Osarphis, fils de Jocabel et cru fils de Thermutis Reine d'Égypte. </castItem>
+		<castItem><role id="AMÉNOPHIS" sex="1" type="H" statut="poi" age='A' stat_amour='néant'>AMÉNOPHIS</role>, Roi d'Égypte, frère de Thermutis qui avait usurpé la Couronne sur lui.</castItem>
+		<castItem><role id="JOCABEL" sex="2" type="H" statut="eclave" age='A' stat_amour='néant'>JOCABEL</role>, Mère de Moïse, autrement, d'Osarphis.</castItem>
+		<castItem><role id="THARBIS" sex="2" type="H" statut="roi" age='A' stat_amour='néant'>THARBIS</role>, Reine de Sepa et Amante d'Aménophis.</castItem>
+		<castItem><role id="AARON" sex="1" type="H" statut="esclave" age='A' stat_amour='néant'>AARON</role>, autre fils de Jocabel et frère d'Osarphis.</castItem>
+		<castItem><role id="PHANÉS" sex="1" type="H" statut="prêtre" age='A' stat_amour='néant'>PHANÉS</role>, grand Prêtre d'Osiris.</castItem>
+		<castItem><role id="ISÉRIDE" sex="2" type="H" statut="confident" age='A' stat_amour='néant'>ISÉRIDE</role>, Confidente de Jocabel.</castItem>
+		<castItem><role id="ISMÈNE" sex="2" type="H" statut="confident" age='A' stat_amour='néant'>ISMÈNE</role>, Confidente de Tharbis.</castItem>
+		<castItem><role id="ASAPH" sex="1" type="H" statut="confident" age='A' stat_amour='néant'>ASAPH</role>, Confident d'Osarphis.</castItem>
+		<castItem><role id="GARDES" sex="9" type="H" statut="soldat" age='A' stat_amour='néant'>GARDES</role>.</castItem>
+  </castList>
 <set location='Memphis' country='Egypte' periode='Temps bibliques' link=''>La Scène est à Memphis, dans le Palais des anciens Rois d'Égypte. </set>
 </front>
 <body>
@@ -157,10 +157,10 @@ Osarphis est un personnage de nouvelle espèce pour le Théâtre Français ; un
 	<l id='21'>Osarphis triomphant va l'emporter sur moi </l>
 	<l id='22'>Et le Peuple à genoux en recevra la loi ; </l>
 	<l id='23'>Par combien de faveurs l'une à l'autre enchaînées </l>
-	<l id='24' part='i'>Le sort... </l>
+	<l id='24' part="i">Le sort... </l>
 </sp>
 <sp who='PHANES'><speaker>PHANÈS.</speaker>
-	<l id='24' part='f'>Ce grand jour doit fixer ses destinées. </l>
+	<l id='24' part="f">Ce grand jour doit fixer ses destinées. </l>
 	<l id='25'>Ma voix même parmi des honneurs éclatants </l>
 	<l id='26'>Doit le proclamer Roi : mais c'est où je l'attends. </l>
 </sp>
@@ -186,21 +186,21 @@ Osarphis est un personnage de nouvelle espèce pour le Théâtre Français ; un
 </sp>
 <sp who='PHANES'><speaker>PHANÈS.</speaker>
 	<l id='41'>N'en doutez point, Seigneur, cet espoir fut trompé </l>
-	<l id='42'>Et lÉgypte a perdu le fruit de ses vengeances. </l>
+	<l id='42'>Et l'Égypte a perdu le fruit de ses vengeances. </l>
 	<l id='43'>Je ne sais quel démon, quelles intelligences </l>
 	<l id='44'>Au destin d'Israël ont prêté leur appui ; </l>
 	<l id='45'>Mais quant à cet Hébreu qu'on nous cache aujourd'hui, </l>
 	<l id='46'>En vain sur ses Tribus mon soupçon se promène, </l>
 	<l id='47'>Toujours au même objet ma terreur me ramène. </l>
 	<l id='48'>Du Superbe Osarphis l'ami, le compagnon </l>
-	<l id='49' part='i'>Et de tous ses conseils l'âme... </l>
+	<l id='49' part="i">Et de tous ses conseils l'âme... </l>
 </sp>
 <sp who='AMÉNOPHIS'><speaker>AMÉNOPHIS.</speaker>
-	<l id='49' part='f'>Qu'entends-je ? Aron ? </l>
-	<l id='50' part='i'>Lui cet enfant ? </l>
+	<l id='49' part="f">Qu'entends-je ? Aron ? </l>
+	<l id='50' part="i">Lui cet enfant ? </l>
 </sp>
 <sp who='PHANES'><speaker>PHANÈS.</speaker>
-	<l id='50' part='f'>Autant que ce soupçon m'éclaire, </l>
+	<l id='50' part="f">Autant que ce soupçon m'éclaire, </l>
 	<l id='51'>Non, je ne le vois point comme un homme ordinaire : </l>
 	<l id='52'>Je ne sais quel orgueil se mêle à sa vertu ; </l>
 	<l id='53'>Les malheurs d'Israël ne l'ont point abattu. </l>
@@ -297,10 +297,10 @@ Osarphis est un personnage de nouvelle espèce pour le Théâtre Français ; un
 	<l id='124'>La nature et le sang prompts à se révolter </l>
 	<l id='125'>M'apprennent qu'un orage est tout prêt d'éclater. </l>
 	<l id='126'>De ce fils aujourd'hui toi seule as connaissance, </l>
-	<l id='127' part='i'>C'est toi-même... </l>
+	<l id='127' part="i">C'est toi-même... </l>
 </sp>
 <sp who='ISERIDE'><speaker>ISÉRIDE.</speaker>
-	<l id='127' part='f'>Je sais qu'il vous doit sa naissance ; </l>
+	<l id='127' part="f">Je sais qu'il vous doit sa naissance ; </l>
 	<l id='128'>Que des flots en courroux Moïse préservé </l>
 	<l id='129'>Sous le nom d'Osarphis alors fut élevé </l>
 	<l id='130'>Et que de Pharaon la vertueuse fille </l>
@@ -425,12 +425,12 @@ Osarphis est un personnage de nouvelle espèce pour le Théâtre Français ; un
 <sp who='AARON'><speaker>AARON.</speaker>
 	<l id='224'>C'est Osarphis, bientôt dissipant votre ennui... </l>
 </sp>
-<sp who='JOCABEL'><speaker>JOCABEL, à part.</speaker>
+<sp stage="aparte" who='JOCABEL'><speaker>JOCABEL, à part.</speaker>
 	<l id='225'>Juste Ciel ! Tout mon sang se trouble devant lui. </l>
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Jocabel, Osarphis, Aaron, Iséride, suite d'Osarphis.</head>
-<sp who='OSARPHIS'><speaker>OSARPHIS, après avoir fait signe à ceux de sa suite de se retirer. </speaker>
+<sp stage="gesture" who='OSARPHIS'><speaker>OSARPHIS, après avoir fait signe à ceux de sa suite de se retirer. </speaker>
 	<l id='226'>C'est vous, c'est Jocabel ! Dans ma douleur amère </l>
 	<l id='227'>Le Ciel plus doux pour moi me rend une autre mère. </l>
 	<l id='228'>Si Thermutis n'est plus, du moins dans mes douleurs, </l>
@@ -487,10 +487,10 @@ Osarphis est un personnage de nouvelle espèce pour le Théâtre Français ; un
 	<l id='269'>Vous serviez ses desseins, il combattait pour vous. </l>
 </sp>
 <sp who='OSARPHIS'><speaker>OSARPHIS.</speaker>
-	<l id='270' part='i'>Aron, qu'osez-vous dire ? </l>
+	<l id='270' part="i">Aron, qu'osez-vous dire ? </l>
 </sp>
 <sp who='AARON'><speaker>AARON.</speaker>
-	<l id='270' part='f'>Ah ! Sur ce grand mystère, </l>
+	<l id='270' part="f">Ah ! Sur ce grand mystère, </l>
 	<l id='271'>Si Jocabel et moi nous avons su nous taire, </l>
 	<l id='272'>Si jusqu'à vous encor il ne s'est point transmis ; </l>
 	<l id='273'>Sur nos lèvres, Seigneur, le doigt d'un Dieu fut mis ; </l>
@@ -652,12 +652,12 @@ Osarphis est un personnage de nouvelle espèce pour le Théâtre Français ; un
 </sp>
 <sp who='OSARPHIS'><speaker>OSARPHIS.</speaker>
 	<l id='394'>C'est de ce même orgueil qu'excite la naissance, </l>
-	<l id='395' part='i'>Que j'espère... </l>
+	<l id='395' part="i">Que j'espère... </l>
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Osarphis, Ismène, Asaph.</head>
 <sp who='ASAPH'><speaker>ASAPH.</speaker>
-	<l id='395' part='f'>Seigneur, le Grand-Prêtre s'avance, </l>
+	<l id='395' part="f">Seigneur, le Grand-Prêtre s'avance, </l>
 	<l id='396'>Devant lui d'Osiris marche l'auguste Loi. </l>
 	<l id='397'>Tout un Peuple le suit et demande son Roi. </l>
 	<l id='398'>C'en est fait, vous montez au trône de vos Pères. </l>
@@ -667,12 +667,12 @@ Osarphis est un personnage de nouvelle espèce pour le Théâtre Français ; un
 	<l id='400'>C'est pour mieux affermir et leur sang et leurs droits. </l>
 </sp>
 <sp who='ASAPH'><speaker>ASAPH.</speaker>
-	<l id='401' part='i'>Seigneur, voici Phanés. </l>
+	<l id='401' part="i">Seigneur, voici Phanés. </l>
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Osarphis, Phanés, Asaph, Assistants de la Cérémonie.</head>
 <sp who='PHANES'><speaker>PHANÈS.</speaker>
-	<l id='401' part='f'>Digne Fils de nos Rois </l>
+	<l id='401' part="f">Digne Fils de nos Rois </l>
 	<l id='402'>La mort de Thermutis, et nos Lois souveraines </l>
 	<l id='403'>De ses vastes États, te remettent les Rênes. </l>
 	<l id='404'>Mais de la Royauté quand on ceint le Bandeau, </l>
@@ -839,20 +839,20 @@ Osarphis est un personnage de nouvelle espèce pour le Théâtre Français ; un
 	<l id='537'>On sait quel noble orgueil entre ses sentiments, </l>
 	<l id='538'>Quelles hautes vertus Tharbis eut en partage, </l>
 	<l id='539'>Elle est chez Jocabel, sans tarder davantage, </l>
-	<l id='540' part='i'>Seigneur, il faut le voir. </l>
+	<l id='540' part="i">Seigneur, il faut le voir. </l>
 </sp>
 <sp who='AMÉNOPHIS'><speaker>AMÉNOPHIS.</speaker>
-	<l id='540' part='f'>Oserais-je penser </l>
+	<l id='540' part="f">Oserais-je penser </l>
 	<l id='541'>Qu'entre le Trône et moi son coeur pût balancer ? </l>
 </sp>
 <sp who='PHANES'><speaker>PHANÈS.</speaker>
 	<l id='542'>N'en doutez point, fidèle à sa première flamme... </l>
-	<l id='543' part='i'>Mais la voici, Seigneur, je vous laisse. </l>
+	<l id='543' part="i">Mais la voici, Seigneur, je vous laisse. </l>
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Tharbis, Aménophis.</head>
 <sp who='AMÉNOPHIS'><speaker>AMÉNOPHIS.</speaker>
-	<l id='543' part='f'>Ah ! Madame, </l>
+	<l id='543' part="f">Ah ! Madame, </l>
 	<l id='544'>Quel que soit le traité qui vous offre en ces lieux, </l>
 	<l id='545'>Je ne puis vous y voir sans rendre grâce aux Dieux. </l>
 	<l id='546'>Mes pleurs, mon désespoir, mes regrets, mes alarmes </l>
@@ -960,14 +960,14 @@ Osarphis est un personnage de nouvelle espèce pour le Théâtre Français ; un
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII.</head>
-<sp who='AMÉNOPHIS'><speaker>AMÉNOPHIS, seul.</speaker>
+<sp stage="alone" who='AMÉNOPHIS'><speaker>AMÉNOPHIS, seul.</speaker>
 	<l id='642'>Ah ! D'un zèle si beau je dois du moins l'exemple. </l>
-	<l id='643' part='i'>Allons... </l>
+	<l id='643' part="i">Allons... </l>
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI.I. Aménophis, Phanés.</head>
 <sp who='PHANES'><speaker>PHANÈS.</speaker>
-	<l id='643' part='f'>Prince, venez, et rendez-vous au Temple. </l>
+	<l id='643' part="f">Prince, venez, et rendez-vous au Temple. </l>
 	<l id='644'>Venez, j'ai différé d'y proclamer le Roi ; </l>
 	<l id='645'>Et du pied des Autels ému d'un saint effroi, </l>
 	<l id='646'>Au Peuple qui du Temple inonde les portiques, </l>
@@ -1002,10 +1002,10 @@ Osarphis est un personnage de nouvelle espèce pour le Théâtre Français ; un
 	<l id='667'>Aron semble ignorer encor ce qui se passe. </l>
 </sp>
 <sp who='OSARPHIS'><speaker>OSARPHIS.</speaker>
-	<l id='668' part='i'>Va-t-il venir ? </l>
+	<l id='668' part="i">Va-t-il venir ? </l>
 </sp>
 <sp who='ASAPH'><speaker>ASAPH.</speaker>
-	<l id='668' part='f'>Il vient plein d'un noble courroux. </l>
+	<l id='668' part="f">Il vient plein d'un noble courroux. </l>
 	<l id='669'>Mais s'il faut vous le dire, il ne craint que pour vous </l>
 	<l id='670'>Et lorsque pour ses jours votre âme est alarmée... </l>
 </sp>
@@ -1040,10 +1040,10 @@ Osarphis est un personnage de nouvelle espèce pour le Théâtre Français ; un
 	<l id='694'>Assurer jusques-là sa retraite et la vôtre. </l>
 	<l id='695'>Je vous laisse à regret éloigner l'un et l'autre. </l>
 	<l id='696'>Mais sans perdre en discours de précieux instants, </l>
-	<l id='697' part='i'>Je dois la disposer... </l>
+	<l id='697' part="i">Je dois la disposer... </l>
 </sp>
 <sp who='AARON'><speaker>AARON.</speaker>
-	<l id='697' part='f'>Seigneur je vous entends ; </l>
+	<l id='697' part="f">Seigneur je vous entends ; </l>
 	<l id='698'>Et connais à ces soins ce qui peut vous contraindre. </l>
 	<l id='699'>Ce n'est point pour Tharbis que vous avez à craindre. </l>
 	<l id='700'>Pour elle dans ces lieux tout conspire à la fois. </l>
@@ -1216,7 +1216,7 @@ Osarphis est un personnage de nouvelle espèce pour le Théâtre Français ; un
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV.</head>
-<sp who='OSARPHIS'><speaker>OSARPHIS, seul.</speaker>
+<sp stage="alone" who='OSARPHIS'><speaker>OSARPHIS, seul.</speaker>
 	<l id='846'>Non, je ne vois que trop jusqu'au fond de son âme </l>
 	<l id='847'>Les traits encore empreints de sa première flamme ; </l>
 	<l id='848'>Mais à ma gloire ici qu'importe la rigueur ? </l>
@@ -1234,20 +1234,20 @@ Osarphis est un personnage de nouvelle espèce pour le Théâtre Français ; un
 	<l id='854'>Seigneur, dans tous les coeurs jamais ardeur plus belle </l>
 	<l id='855'>Ne parût s'élever contre un parti rebelle : </l>
 	<l id='856'>Mais Ciel ! Dans quel terrible et subit embarras </l>
-	<l id='857' part='i'>Lui-même... </l>
+	<l id='857' part="i">Lui-même... </l>
 </sp>
 <sp who='OSARPHIS'><speaker>OSARPHIS.</speaker>
-	<l id='857' part='m'>Achève... </l>
+	<l id='857' part="m">Achève... </l>
 </sp>
 <sp who='ASAPH'><speaker>ASAPH.</speaker>
-	<l id='857' part='f'>Aron s'est sauvé de nos bras, </l>
+	<l id='857' part="f">Aron s'est sauvé de nos bras, </l>
 	<l id='858'>Dans les mains du Grand-Prêtre il vient de se remettre : </l>
 	<l id='859'>Phanés de son trépas ose tout se promettre, </l>
 	<l id='860'>Le peuple qui tantôt admirait sa vertu, </l>
-	<l id='861' part='i'>Hâte le sacrifice. </l>
+	<l id='861' part="i">Hâte le sacrifice. </l>
 </sp>
 <sp who='OSARPHIS'><speaker>OSARPHIS.</speaker>
-	<l id='861' part='f'>Ô Ciel ! Que me dis-tu ? </l>
+	<l id='861' part="f">Ô Ciel ! Que me dis-tu ? </l>
 	<l id='862'>Quoi Phanés dans sa crainte injuste et légitime, </l>
 	<l id='863'>Phanés ne frémit pas au nom de la victime ? </l>
 	<l id='864'>En vain sur ses Autels, il s'ose reposer ; </l>
@@ -1272,16 +1272,16 @@ Osarphis est un personnage de nouvelle espèce pour le Théâtre Français ; un
 	<l id='879'>Qu'il ne permettra point un si noir sacrifice ; </l>
 	<l id='880'>Mais que sans trop d'égards pour ce peuple insensé, </l>
 	<l id='881'>Je dois venger du moins mon honneur offensé. </l>
-	<l id='882' part='i'>C'est trop tarder. Allons... </l>
+	<l id='882' part="i">C'est trop tarder. Allons... </l>
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Jocabel, Osarphis, Iséride.</head>
 <sp who='JOCABEL'><speaker>JOCABEL.</speaker>
-	<l id='882' part='f'>Quel transport vous inspire ? </l>
-	<l id='883' part='i'>Arrêtez. </l>
+	<l id='882' part="f">Quel transport vous inspire ? </l>
+	<l id='883' part="i">Arrêtez. </l>
 </sp>
 <sp who='OSARPHIS'><speaker>OSARPHIS.</speaker>
-	<l id='883' part='f'>Votre Fils m'est plus cher que l'Empire. </l>
+	<l id='883' part="f">Votre Fils m'est plus cher que l'Empire. </l>
 	<l id='884'>Je sais dans quels périls lui-même il s'est jeté ; </l>
 	<l id='885'>Et le Trône à ce prix serait trop acheté. </l>
 	<l id='886'>Dans le fond de mon coeur j'ignore quel murmure, </l>
@@ -1297,10 +1297,10 @@ Osarphis est un personnage de nouvelle espèce pour le Théâtre Français ; un
 </sp>
 <sp who='OSARPHIS'><speaker>OSARPHIS.</speaker>
 	<l id='894'>Ah ! Laissez-moi du moins punir leur insolence. </l>
-	<l id='895' part='i'>Est-ce à vous... </l>
+	<l id='895' part="i">Est-ce à vous... </l>
 </sp>
 <sp who='JOCABEL'><speaker>JOCABEL.</speaker>
-	<l id='895' part='f'>C'est à moi de rompre le silence. </l>
+	<l id='895' part="f">C'est à moi de rompre le silence. </l>
 	<l id='896'>Cet Oracle terrible, et par vous rejeté, </l>
 	<l id='897'>Cet Oracle s'accorde avec la vérité. </l>
 	<l id='898'>Un Enfant d'Israël qui parmi nous respire, </l>
@@ -1479,10 +1479,10 @@ Osarphis est un personnage de nouvelle espèce pour le Théâtre Français ; un
 	<l id='1033'>Je l'ai promis, il faut vous satisfaire enfin. </l>
 	<l id='1034'>Le Ciel même l'ordonne, et parle par ma bouche. </l>
 	<l id='1035'>Ces murs ; Seigneur, ces murs dont l'aspect seul vous touche </l>
-	<l id='1036' part='i'>Cette auguste demeure... </l>
+	<l id='1036' part="i">Cette auguste demeure... </l>
 </sp>
 <sp who='OSARPHIS'><speaker>OSARPHIS.</speaker>
-	<l id='1036' part='f'>Achevez cet aveu. </l>
+	<l id='1036' part="f">Achevez cet aveu. </l>
 </sp>
 <sp who='JOCABEL'><speaker>JOCABEL.</speaker>
 	<l id='1037'>Ne vous ont point vu naître, et vous êtes Hébreu. </l>
@@ -1537,10 +1537,10 @@ Osarphis est un personnage de nouvelle espèce pour le Théâtre Français ; un
 	<l id='1080'>Ô surprise ! Ô prodige ! Et quel heureux transport </l>
 	<l id='1081'>Jusque là vous pouvait attacher à mon sort ? </l>
 	<l id='1082'>À quoi dois-je imputer ce mouvement si tendre ? </l>
-	<l id='1083' part='i'>D'où vient... </l>
+	<l id='1083' part="i">D'où vient... </l>
 </sp>
 <sp who='JOCABEL'><speaker>JOCABEL.</speaker>
-	<l id='1083' part='f'>Jusques au bout, Seigneur, daignez m'entendre, </l>
+	<l id='1083' part="f">Jusques au bout, Seigneur, daignez m'entendre, </l>
 	<l id='1084'>Aménophis encor n'avait pas vu le jour. </l>
 	<l id='1085'>Thermutis déroba ce secret à la Cour ; </l>
 	<l id='1086'>Perdit alors un fils et vous mit à sa place, </l>
@@ -1566,10 +1566,10 @@ Osarphis est un personnage de nouvelle espèce pour le Théâtre Français ; un
 	<l id='1102'>Mais parmi nous le sang n'établit point nos Maîtres, </l>
 	<l id='1103'>Nous comptons les vertus et non pas les ancêtres. </l>
 	<l id='1104'>D'ailleurs notre esclavage en ce cruel séjour, </l>
-	<l id='1105' part='i'>Ne permet point... </l>
+	<l id='1105' part="i">Ne permet point... </l>
 </sp>
 <sp who='OSARPHIS'><speaker>OSARPHIS.</speaker>
-	<l id='1105' part='f'>De ceux à qui je dois le jour, </l>
+	<l id='1105' part="f">De ceux à qui je dois le jour, </l>
 	<l id='1106'>Le sort, sans doute, avait place en votre mémoire. </l>
 </sp>
 <sp who='JOCABEL'><speaker>JOCABEL.</speaker>
@@ -1579,10 +1579,10 @@ Osarphis est un personnage de nouvelle espèce pour le Théâtre Français ; un
 <sp who='OSARPHIS'><speaker>OSARPHIS.</speaker>
 	<l id='1109'>Je sens que mon bonheur dépendrait de la voir : </l>
 	<l id='1110'>Et sans plus me laisser dans mon erreur première... </l>
-	<l id='1111' part='i'>Hélas ! Vit-elle encore ? </l>
+	<l id='1111' part="i">Hélas ! Vit-elle encore ? </l>
 </sp>
 <sp who='JOCABEL'><speaker>JOCABEL.</speaker>
-	<l id='1111' part='f'>Elle voit la lumière. </l>
+	<l id='1111' part="f">Elle voit la lumière. </l>
 </sp>
 <sp who='OSARPHIS'><speaker>OSARPHIS.</speaker>
 	<l id='1112'>C'est trop me dérober à des objets si doux. </l>
@@ -1604,26 +1604,26 @@ Osarphis est un personnage de nouvelle espèce pour le Théâtre Français ; un
 </sp>
 <sp who='JOCABEL'><speaker>JOCABEL.</speaker>
 	<l id='1120'>Non, Seigneur, aux honneurs par vous-même élevé, </l>
-	<l id='1121' part='i'>Votre père... </l>
+	<l id='1121' part="i">Votre père... </l>
 </sp>
 <sp who='OSARPHIS'><speaker>OSARPHIS.</speaker>
-	<l id='1121' part='f'>Qu'entends-je ! Aurait-il retrouvé </l>
+	<l id='1121' part="f">Qu'entends-je ! Aurait-il retrouvé </l>
 	<l id='1122'>Le prix de sa vertu, celui de sa tendresse ? </l>
 </sp>
 <sp who='JOCABEL'><speaker>JOCABEL.</speaker>
 	<l id='1123'>Sur vous, sur vos desseins ses yeux s'ouvraient sans cesse. </l>
 </sp>
 <sp who='OSARPHIS'><speaker>OSARPHIS.</speaker>
-	<l id='1124' part='i'>Enfin, puis-je le voir ! </l>
+	<l id='1124' part="i">Enfin, puis-je le voir ! </l>
 </sp>
 <sp who='JOCABEL'><speaker>JOCABEL.</speaker>
-	<l id='1124' part='f'>Ô respects superflus ! </l>
+	<l id='1124' part="f">Ô respects superflus ! </l>
 </sp>
 <sp who='OSARPHIS'><speaker>OSARPHIS.</speaker>
-	<l id='1125' part='i'>Que dites-vous ? Ô Ciel ! </l>
+	<l id='1125' part="i">Que dites-vous ? Ô Ciel ! </l>
 </sp>
 <sp who='JOCABEL'><speaker>JOCABEL.</speaker>
-	<l id='1125' part='f'>Votre père n'est plus. </l>
+	<l id='1125' part="f">Votre père n'est plus. </l>
 </sp>
 <sp who='OSARPHIS'><speaker>OSARPHIS.</speaker>
 	<l id='1126'>Quel coup l'a pu ravir ! Et d'où naissent vos larmes ? </l>
@@ -1632,14 +1632,14 @@ Osarphis est un personnage de nouvelle espèce pour le Théâtre Français ; un
 	<l id='1127'>Lui-même à vos côtés subit le sort des armes. </l>
 </sp>
 <sp who='OSARPHIS'><speaker>OSARPHIS.</speaker>
-	<l id='1128' part='i'>Ciel ! </l>
+	<l id='1128' part="i">Ciel ! </l>
 </sp>
 <sp who='JOCABEL'><speaker>JOCABEL.</speaker>
-	<l id='1128' part='f'>Aux dépends des siens vos jours furent sauvés, </l>
-	<l id='1129' part='i'>Son sang vous redonna la lumière... </l>
+	<l id='1128' part="f">Aux dépends des siens vos jours furent sauvés, </l>
+	<l id='1129' part="i">Son sang vous redonna la lumière... </l>
 </sp>
 <sp who='OSARPHIS'><speaker>OSARPHIS.</speaker>
-	<l id='1129' part='f'>Achevez, </l>
+	<l id='1129' part="f">Achevez, </l>
 	<l id='1130'>Et daignez éclaircir ce que je n'ose croire. </l>
 </sp>
 <sp who='JOCABEL'><speaker>JOCABEL.</speaker>
@@ -1651,16 +1651,16 @@ Osarphis est un personnage de nouvelle espèce pour le Théâtre Français ; un
 <sp who='JOCABEL'><speaker>JOCABEL.</speaker>
 	<l id='1133'>Tes yeux furent fermés par la main de ton fils, </l>
 	<l id='1134'>De tes soins paternels ce fut là le salaire, </l>
-	<l id='1135' part='i'>Cher Zaram ! </l>
+	<l id='1135' part="i">Cher Zaram ! </l>
 </sp>
 <sp who='OSARPHIS'><speaker>OSARPHIS.</speaker>
-	<l id='1135' part='m'>Votre Époux ? </l>
+	<l id='1135' part="m">Votre Époux ? </l>
 </sp>
 <sp who='JOCABEL'><speaker>JOCABEL.</speaker>
-	<l id='1135' part='m'>Oui, lui-même. </l>
+	<l id='1135' part="m">Oui, lui-même. </l>
 </sp>
 <sp who='OSARPHIS'><speaker>OSARPHIS.</speaker>
-	<l id='1135' part='f'>Ô ma mère ! </l>
+	<l id='1135' part="f">Ô ma mère ! </l>
 </sp>
 <sp who='JOCABEL'><speaker>JOCABEL.</speaker>
 	<l id='1136'>Ô mon fils ! De ce nom j'ose vous appeler : </l>
@@ -1704,60 +1704,60 @@ Osarphis est un personnage de nouvelle espèce pour le Théâtre Français ; un
 	<l id='1170'>Dans cet espoir, mon fils, entrez dans la carrière, </l>
 	<l id='1171'>Laissez sur tous vos pas des traces de lumière. </l>
 	<l id='1172'>C'est cette même ardeur dont on vous vit brûler, </l>
-	<l id='1173' part='i'>Qui désormais... </l>
+	<l id='1173' part="i">Qui désormais... </l>
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Jocabel, Osarphis, Iséride.</head>
 <sp who='ISERIDE'><speaker>ISÉRIDE.</speaker>
-	<l id='1173' part='f'>Asaph demande à vous parler. </l>
+	<l id='1173' part="f">Asaph demande à vous parler. </l>
 	<l id='1174'>Du Conseil assemblé l'ordre, dit-il, le presse. </l>
 </sp>
 <sp who='OSARPHIS'><speaker>OSARPHIS.</speaker>
-	<l id='1175' part='i'>Qu'il entre. Permettez, Madame... </l>
+	<l id='1175' part="i">Qu'il entre. Permettez, Madame... </l>
 </sp>
 <sp who='JOCABEL'><speaker>JOCABEL.</speaker>
-	<l id='1175' part='f'>Je vous laisse, </l>
+	<l id='1175' part="f">Je vous laisse, </l>
 	<l id='1176'>Et quoi que le Conseil, mon fils, ait ordonné, </l>
 	<l id='1177'>Songez surtout, songez de qui vous êtes né. </l>
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Osarphis, Asaph.</head>
 <sp who='OSARPHIS'><speaker>OSARPHIS.</speaker>
-	<l id='1178' part='i'>Hé bien, Asaph ? </l>
+	<l id='1178' part="i">Hé bien, Asaph ? </l>
 </sp>
 <sp who='ASAPH'><speaker>ASAPH.</speaker>
-	<l id='1178' part='f'>Seigneur, de ce Prince coupable </l>
+	<l id='1178' part="f">Seigneur, de ce Prince coupable </l>
 	<l id='1179'>On vient de prononcer l'Arrêt irrévocable. </l>
 	<l id='1180'>Mais on en voit encor, qu'avec plus de fierté </l>
 	<l id='1181'>De ses aîeux en lui briller la Majesté. </l>
 	<l id='1182'>C'est à vous de prévoir tout ce que l'on hasarde, </l>
-	<l id='1183' part='i'>Et tout proscrit qu'il est, s'il... </l>
-<stage type="[N/A]">Osarphis quoique déjà ébranlé par la reconnaissance qui vient de se faire,  couvre encore ici ses sentiments intérieurs ;  c'est à l'Acteur à savoir prendre les tons de convenance à sa situation,  dans cette Scène et dans la suivante. </stage>
-	<l id='1183' part='f'>Redouble sa garde ; </l>
+	<l id='1183' part="i">Et tout proscrit qu'il est, s'il... </l>
+<stage type="embarrassed">Osarphis quoique déjà ébranlé par la reconnaissance qui vient de se faire, couvre encore ici ses sentiments intérieurs ; c'est à l'acteur à savoir prendre les tons de convenance à sa situation, dans cette scène et dans la suivante. </stage>
+	<l id='1183' part="f">Redouble sa garde ; </l>
 	<l id='1184'>De sa mort dans Memphis que l'apprêt soit dressé, </l>
 	<l id='1185'>Et que dans ce palais à l'instant exhaussé </l>
 	<l id='1186'>Un trône où de vos Rois éclate l'opulence, </l>
 	<l id='1187'>À des peuples mutins annonce ma puissance. </l>
 	<l id='1188'>Va, ne diffère point, le temps est précieux. </l>
-	<l id='1189' part='i'>Mais, que vois-je ? </l>
+	<l id='1189' part="i">Mais, que vois-je ? </l>
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Tharbis, Osarphis, Ismène.</head>
 <sp who='THARBIS'><speaker>THARBIS.</speaker>
-	<l id='1189' part='f'>C'est toi que je cherche en ces lieux. </l>
+	<l id='1189' part="f">C'est toi que je cherche en ces lieux. </l>
 </sp>
 <sp who='OSARPHIS'><speaker>OSARPHIS.</speaker>
-	<l id='1190' part='i'>Moi ? </l>
+	<l id='1190' part="i">Moi ? </l>
 </sp>
 <sp who='THARBIS'><speaker>THARBIS.</speaker>
-	<l id='1190' part='f'>Parle. As-tu dicté l'Arrêt qu'on vient de rendre, </l>
+	<l id='1190' part="f">Parle. As-tu dicté l'Arrêt qu'on vient de rendre, </l>
 	<l id='1191'>Par qui d'Aménophis le sang va se répandre ? </l>
 </sp>
 <sp who='OSARPHIS'><speaker>OSARPHIS.</speaker>
-	<l id='1192' part='i'>À qui dois-je aujourd'hui compte... </l>
+	<l id='1192' part="i">À qui dois-je aujourd'hui compte... </l>
 </sp>
 <sp who='THARBIS'><speaker>THARBIS.</speaker>
-	<l id='1192' part='f'>À qui tu le dois, </l>
+	<l id='1192' part="f">À qui tu le dois, </l>
 	<l id='1193'>À moi-même, à ta mère, aux Dieux, à tous les Rois. </l>
 </sp>
 <sp who='OSARPHIS'><speaker>OSARPHIS.</speaker>
@@ -1830,7 +1830,7 @@ Osarphis est un personnage de nouvelle espèce pour le Théâtre Français ; un
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI.</head>
-<sp who='OSARPHIS'><speaker>OSARPHIS, seul.</speaker>
+<sp stage="alone" who='OSARPHIS'><speaker>OSARPHIS, seul.</speaker>
 	<l id='1254'>Qu'au gré de tes désirs Memphis éclate et tonne, </l>
 	<l id='1255'>Sa vaine inimitié n'est pas ce qui m'étonne : </l>
 	<l id='1256'>Mais Dieu d'Isac, quel est l'état où je me vois ? </l>
@@ -1915,27 +1915,27 @@ Osarphis est un personnage de nouvelle espèce pour le Théâtre Français ; un
 	<l id='1315'>La Cour d'un Tyran même en deviendrait l'asile. </l>
 </sp>
 <sp who='AARON'><speaker>AARON.</speaker>
-	<l id='1316' part='i'>Je vous entends. </l>
+	<l id='1316' part="i">Je vous entends. </l>
 </sp>
 <sp who='JOCABEL'><speaker>JOCABEL.</speaker>
-	<l id='1316' part='f'>Memphis va l'offrir à vos yeux. </l>
+	<l id='1316' part="f">Memphis va l'offrir à vos yeux. </l>
 </sp>
 <sp who='AARON'><speaker>AARON.</speaker>
 	<l id='1317'>Ciel ! Confirme un espoir si doux, si glorieux. </l>
 	<l id='1318'>Non, ce n'est point en vain que mon âme éperdue </l>
 	<l id='1319'>À cet espoir si cher tout à coup s'est rendue. </l>
-	<l id='1320' part='i'>Ce frère m'est connu. </l>
+	<l id='1320' part="i">Ce frère m'est connu. </l>
 </sp>
 <sp who='JOCABEL'><speaker>JOCABEL.</speaker>
-	<l id='1320' part='f'>N'en doutez point, mon fils, </l>
+	<l id='1320' part="f">N'en doutez point, mon fils, </l>
 	<l id='1321'>C'est lui, c'est cet enfant sauvé par Thermutis. </l>
 	<l id='1322'>Par moi de ses desseins il a su le mystère, </l>
-	<l id='1323' part='i'>Et tantôt... Mais on ouvre. </l>
+	<l id='1323' part="i">Et tantôt... Mais on ouvre. </l>
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Jocabel, Osarphis, Aaron.</head>
 <sp who='OSARPHIS'><speaker>OSARPHIS.</speaker>
-	<l id='1323' part='f'>Embrassez-moi mon frère. </l>
+	<l id='1323' part="f">Embrassez-moi mon frère. </l>
 </sp>
 <sp who='AARON'><speaker>AARON.</speaker>
 	<l id='1324'>De quels transports divers mes sens sont combattus ? </l>
@@ -1999,7 +1999,7 @@ Osarphis est un personnage de nouvelle espèce pour le Théâtre Français ; un
 	<l id='1372'>Mon fils, que Jocabel s'écarte de ces lieux ; </l>
 	<l id='1373'>Et c'est assez pour moi que vos jours précieux </l>
 	<l id='1374'>À Dieu seul confiés, dans une autre contrée, </l>
-	<l id='1375'>Se trouvent à abri de son aile sacrée. </l>
+	<l id='1375'>Se trouvent à l'abri de son aile sacrée. </l>
 	<l id='1376'>Laissez-moi des Hébreux partageant les destins, </l>
 	<l id='1377'>Être un garant pour eux de vos secours certains, </l>
 	<l id='1378'>Soutenir leur espoir parmi tant de misères, </l>
@@ -2015,12 +2015,12 @@ Osarphis est un personnage de nouvelle espèce pour le Théâtre Français ; un
 	<l id='1386'>Et mettant dans l'Égypte un terme à nos disgrâces, </l>
 	<l id='1387'>J'y dois de ma sortie au moins laisser des traces </l>
 	<l id='1388'>Dignes de mes destins et d'un projet si haut, </l>
-	<l id='1389' part='i'>Et déjà... </l>
+	<l id='1389' part="i">Et déjà... </l>
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Osarphis, Jocabel, Asaph.</head>
 <sp who='ASAPH'><speaker>ASAPH.</speaker>
-	<l id='1389' part='f'>Tout est prêt, le trône et l'échafaud. </l>
+	<l id='1389' part="f">Tout est prêt, le trône et l'échafaud. </l>
 	<l id='1390'>Le fer brille partout, et Memphis alarmée, </l>
 	<l id='1391'>Dans ses Places déjà voit les Chefs de l'Armée. </l>
 	<l id='1392'>Une nombreuse Garde occupe le Palais. </l>
@@ -2034,23 +2034,23 @@ Osarphis est un personnage de nouvelle espèce pour le Théâtre Français ; un
 	<l id='1397'>Va le chercher, cet ordre importe à mes desseins. </l>
 </sp>
 </div2>
-<div2 type="scene" n='1'><head>SCÈNE I.. Jocabel, Osarphis, Aaron.</head>
+<div2 type="scene" n='4'><head>SCÈNE IV. Jocabel, Osarphis, Aaron.</head>
 <sp who='OSARPHIS'><speaker>OSARPHIS.</speaker>
 	<l id='1398'>Ne perdons point de temps, et sous votre conduite, </l>
 	<l id='1399'>Aron, que cette nuit tout soit prêt pour la fuite ; </l>
 	<l id='1400'>Que ma Garde s'assemble autour de l'étendard, </l>
 	<l id='1401'>Et vole sur nos pas au signal du départ. </l>
 	<l id='1402'>Je saurai vous soustraire au tumulte des armes, </l>
-	<l id='1403' part='i'>Madame, on vient. Allez. </l>
+	<l id='1403' part="i">Madame, on vient. Allez. </l>
 </sp>
-<sp who='JOCABEL'><speaker>JOCABEL, en s'en allant.</speaker>
-	<l id='1403' part='f'>Toi ! Pardonne à mes larmes. </l>
-	<l id='1404' part='i'>Ô Ciel ! </l>
+<sp stage="exit" who='JOCABEL'><speaker>JOCABEL, en s'en allant.</speaker>
+	<l id='1403' part="f">Toi ! Pardonne à mes larmes. </l>
+	<l id='1404' part="i">Ô Ciel ! </l>
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Aménophis, Osarphis, Asaph, Pamène, Gardes.</head>
 <sp who='AMÉNOPHIS'><speaker>AMÉNOPHIS.</speaker>
-	<l id='1404' part='f'>Dans ta vengeance un barbare pouvoir </l>
+	<l id='1404' part="f">Dans ta vengeance un barbare pouvoir </l>
 	<l id='1405'>Me réservait encor la douleur de te voir. </l>
 	<l id='1406'>Ce trait, ce dernier trait le fruit de ta victoire, </l>
 	<l id='1407'>Manquait à mon supplice aussi bien qu'à ta gloire. </l>
@@ -2081,10 +2081,10 @@ Osarphis est un personnage de nouvelle espèce pour le Théâtre Français ; un
 <sp who='OSARPHIS'><speaker>OSARPHIS.</speaker>
 	<l id='1426'>Je vois à ta fierté le sang qui t'a fait naître, </l>
 	<l id='1427'>Mais toi-même à ton tour tu dois mieux me connaître, </l>
-	<l id='1428' part='i'>Qu'on amène Tharbis. </l>
+	<l id='1428' part="i">Qu'on amène Tharbis. </l>
 </sp>
 <sp who='AMÉNOPHIS'><speaker>AMÉNOPHIS.</speaker>
-	<l id='1428' part='f'>Tharbis ? Dans ton courroux </l>
+	<l id='1428' part="f">Tharbis ? Dans ton courroux </l>
 	<l id='1429'>Barbare, tu crois donc mon supplice trop doux ? </l>
 	<l id='1430'>Et que foulant aux pieds et mes droits et ma gloire, </l>
 	<l id='1431'>Ma mort ne suffit pas pour souiller ta victoire ? </l>
@@ -2113,10 +2113,10 @@ Osarphis est un personnage de nouvelle espèce pour le Théâtre Français ; un
 	<l id='1444'>Et toujours entre nous partageant ses rigueurs, </l>
 	<l id='1445'>Unissait nos tourments comme il a fait nos coeurs ? </l>
 	<l id='1446'>Que sans donner de borne au courroux qui l'enflamme, </l>
-	<l id='1447' part='i'>Le Tyran... </l>
+	<l id='1447' part="i">Le Tyran... </l>
 </sp>
 <sp who='OSARPHIS'><speaker>OSARPHIS.</speaker>
-	<l id='1447' part='f'>Il est temps de vous montrer, Madame, </l>
+	<l id='1447' part="f">Il est temps de vous montrer, Madame, </l>
 	<l id='1448'>Quel supplice en effet, je lui garde en ces lieux, </l>
 	<l id='1449'>Prince, voilà le Trône où régnaient tes aïeux. </l>
 	<l id='1450'>Du Fils de Sésostris c'est le noble héritage, </l>
@@ -2125,18 +2125,18 @@ Osarphis est un personnage de nouvelle espèce pour le Théâtre Français ; un
 	<l id='1453'>Que l'équité des lois accordait à ton sang. </l>
 </sp>
 <sp who='AMÉNOPHIS'><speaker>AMÉNOPHIS.</speaker>
-	<l id='1454' part='i'>Qu'entends-je ? </l>
+	<l id='1454' part="i">Qu'entends-je ? </l>
 </sp>
 <sp who='THARBIS'><speaker>THARBIS.</speaker>
-	<l id='1454' part='m'>Juste ciel ! </l>
+	<l id='1454' part="m">Juste ciel ! </l>
 </sp>
 <sp who='OSARPHIS'><speaker>OSARPHIS.</speaker>
-	<l id='1454' part='f'>Une main immortelle, </l>
+	<l id='1454' part="f">Une main immortelle, </l>
 	<l id='1455'>Entre nous deux, Madame, a tranché la querelle, </l>
 	<l id='1456'>Et remettant le sceptre au véritable Roi, </l>
-	<l id='1457' part='i'>Dégage mes serments </l>
+	<l id='1457' part="i">Dégage mes serments </l>
 <stage type="toward">À Tharbis. </stage>
-	<l id='1457' part='f'>Et vous rend votre foi. </l>
+	<l id='1457' part="f">Et vous rend votre foi. </l>
 </sp>
 <sp who='THARBIS'><speaker>THARBIS.</speaker>
 	<l id='1458'>Qu'il est beau dans le cours d'une gloire suprême, </l>
@@ -2149,7 +2149,7 @@ Osarphis est un personnage de nouvelle espèce pour le Théâtre Français ; un
 	<l id='1463'>En de tels changements à peine tu respires </l>
 	<l id='1464'>Aménophis ! Ton coeur n'ose encor s'y fier, </l>
 	<l id='1465'>Toi-même de ton sort tu sembles t'effrayer. </l>
-<stage type="[N/A]">La ferme s'ouvre et l'on voit au fond du théâtre le superbe trône des Rois d'Égypte. .</stage>
+<stage type="open/decor">La ferme s'ouvre et l'on voit au fond du théâtre le superbe trône des Rois d'Égypte. .</stage>
 	<l id='1466'>Mais devant vous, Seigneur, lorsque je trouve grâce. </l>
 	<l id='1467'>Quand on fait tout pour moi, que faut-il que je fasse ? </l>
 </sp>
@@ -2157,10 +2157,10 @@ Osarphis est un personnage de nouvelle espèce pour le Théâtre Français ; un
 	<l id='1468'>Hé bien, tu vas régner, et l'Hébreu s'est soumis : </l>
 	<l id='1469'>Promets de l'appuyer contre ses ennemis, </l>
 	<l id='1470'>Et de favoriser toi-même sa retraite. </l>
-	<l id='1471' part='i'>Voilà... </l>
+	<l id='1471' part="i">Voilà... </l>
 </sp>
 <sp who='AMÉNOPHIS'><speaker>AMÉNOPHIS.</speaker>
-	<l id='1471' part='f'>J'accomplirai ce qu'Osarphis souhaite. </l>
+	<l id='1471' part="f">J'accomplirai ce qu'Osarphis souhaite. </l>
 	<l id='1472'>J'en jure par les Dieux, dont je subis la loi, </l>
 	<l id='1473'>Par celui d'Israël. Si je manque à ma foi </l>
 	<l id='1474'>Que son courroux s'armant de châtiments funèbres </l>
@@ -2200,10 +2200,10 @@ Osarphis est un personnage de nouvelle espèce pour le Théâtre Français ; un
 	<l id='1504'>Lorsque le Ciel en toi laisse voir à nos yeux </l>
 	<l id='1505'>Le modèle des Rois et le rival des Dieux, </l>
 	<l id='1506'>D'un Oracle toujours s'élève la menace, </l>
-	<l id='1507' part='i'>Et... </l>
+	<l id='1507' part="i">Et... </l>
 </sp>
 <sp who='OSARPHIS'><speaker>OSARPHIS.</speaker>
-	<l id='1507' part='f'>Du Dieu d'Israël reconnais mieux la trace. </l>
+	<l id='1507' part="f">Du Dieu d'Israël reconnais mieux la trace. </l>
 	<l id='1508'>Tremble, son règne approche, il est temps qu'Osarphis </l>
 	<l id='1509'>Pour de plus grands desseins abandonne Memphis. </l>
 </sp>
@@ -2218,32 +2218,32 @@ Osarphis est un personnage de nouvelle espèce pour le Théâtre Français ; un
 </sp>
 <sp who='AMÉNOPHIS'><speaker>AMÉNOPHIS.</speaker>
 	<l id='1515'>Vous savez quel péril nous menace, nous presse, </l>
-	<l id='1516' part='i'>Qu'un Enfant... </l>
+	<l id='1516' part="i">Qu'un Enfant... </l>
 </sp>
 <sp who='OSARPHIS'><speaker>OSARPHIS.</speaker>
-	<l id='1516' part='f'>Ce mortel qui cause tant d'effroi, </l>
-	<l id='1517' part='i'>Qu'enfin tu veux connaître... </l>
+	<l id='1516' part="f">Ce mortel qui cause tant d'effroi, </l>
+	<l id='1517' part="i">Qu'enfin tu veux connaître... </l>
 </sp>
 <sp who='AMÉNOPHIS'><speaker>AMÉNOPHIS.</speaker>
-	<l id='1517' part='m'>Hé bien, quel est-il ? </l>
+	<l id='1517' part="m">Hé bien, quel est-il ? </l>
 </sp>
 <sp who='OSARPHIS'><speaker>OSARPHIS.</speaker>
-	<l id='1517' part='f'>Moi. </l>
+	<l id='1517' part="f">Moi. </l>
 </sp>
 <sp who='AMÉNOPHIS'><speaker>AMÉNOPHIS.</speaker>
-	<l id='1518' part='i'>Vous, cet Hébreu ? </l>
+	<l id='1518' part="i">Vous, cet Hébreu ? </l>
 </sp>
 <sp who='THARBIS'><speaker>THARBIS.</speaker>
-	<l id='1518' part='m'>Grands Dieux ! </l>
+	<l id='1518' part="m">Grands Dieux ! </l>
 </sp>
 <sp who='PHANES'><speaker>PHANÈS.</speaker>
-	<l id='1518' part='f'>Quel étrange mystère ! </l>
+	<l id='1518' part="f">Quel étrange mystère ! </l>
 </sp>
 <sp who='AMÉNOPHIS'><speaker>AMÉNOPHIS.</speaker>
-	<l id='1519' part='i'>Le Fils de Thermutis. </l>
+	<l id='1519' part="i">Le Fils de Thermutis. </l>
 </sp>
 <sp who='OSARPHIS'><speaker>OSARPHIS.</speaker>
-	<l id='1519' part='f'>Jocabel est ma mère. </l>
+	<l id='1519' part="f">Jocabel est ma mère. </l>
 	<l id='1520'>Seul sauvé par ta soeur de tant d'enfants proscrits. </l>
 	<l id='1521'>Le Nil, l'adoption, dans ses bras m'ont remis, </l>
 	<l id='1522'>D'un fils mort au berceau, je pris alors la place. </l>
@@ -2266,9 +2266,9 @@ Osarphis est un personnage de nouvelle espèce pour le Théâtre Français ; un
 	<l id='1533'>Suis-moi. Viens. D'Osarphis assurons le départ, </l>
 <stage type="toward">À Tharbis.</stage>
 	<l id='1534'>Sa vertu dans ces lieux nous laisse un grand exemple. </l>
-	<l id='1535' part='i'>Pour notre hymen, Madame </l>
+	<l id='1535' part="i">Pour notre hymen, Madame </l>
 <stage type="toward">À Tharbis.</stage>
-	<l id='1535' part='f'>Allez m'attendre au Temple, </l>
+	<l id='1535' part="f">Allez m'attendre au Temple, </l>
 	<l id='1536'>Allez, si toutefois tremblants de leur côté </l>
 	<l id='1537'>Les Dieux qui l'habitaient ne l'ont point déserté. </l>
 </sp>

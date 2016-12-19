@@ -7,9 +7,9 @@
 			<author born='1610' born_location='Paris' death='1660' death_location='Paris' academie=''>SCARRON, Paul</author>
 		</titleStmt>
 		<publicationStmt>
-			<p>publié par Paul FIEVRE août 2010</p>
-		<idno></idno>
-</publicationStmt>
+			<p>publié par Paul FIEVRE août 2010, revu novembre 2016</p>
+			<idno>SCARRON_BOUTADESMATAMORE</idno>
+		</publicationStmt>
 		<SourceDesc>
 			<genre>Comédie</genre>
 			<inspiration>moeurs françaises</inspiration>
@@ -421,9 +421,9 @@
 	<l id='322'>De me sacrifier aux moindres de vos voeux. </l>
 </sp>
 </div2>
-<div2 type="scene" n='7'><head>ENTRÉE DE MATAMORE en Fou, qui se croit Jupiter.</head>
+<div2 type="scene" n='7' stage="entrance/dress"><head>ENTRÉE DE MATAMORE en Fou, qui se croit Jupiter.</head>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-<stage type="[N/A]">L'entrée est tirée d'Ovide. </stage>
+<stage type="explicit">L'entrée est tirée d'Ovide. </stage>
 	<l id='323'>Je suis le seul Auteur de toute la Nature, </l>
 	<l id='324'>Les Dieux sont mes sujets, l'Homme ma Créature, </l>
 	<l id='325'>L'Enfer est mon esclave, et les esprits damnés, </l>
@@ -1051,7 +1051,7 @@
 	<l id='880'>Et comme auparavant troubler toute la terre : </l>
 <note type="L">Premier : Premier que, conj. Auparavant, ou avant que (locution vieillie). [L]</note>
 	<l id='881'>Mais premier que d'aller visiter les combats, </l>
-	<l id='882'>Je vais me marier à d'aimables appas.  </l>
+	<l id='882'>Je vais me marier à d'aimables appas. </l>
 </sp>
 </div2>
 <div2 type="scene" n='17'><head>STANCES DE MATAMORE.</head>
@@ -1438,7 +1438,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='22'><head>SCÈNE DE MATAMORE et de Bonniface Pédant.</head>
-<sp who='MATAMORE'><speaker>MATAMORE, commence parlant au Peuple.</speaker>
+<sp stage="toward" who='MATAMORE'><speaker>MATAMORE, commence parlant au Peuple.</speaker>
 	<l id='1235'>Ne trouvez pas mauvais visages magnifiques, </l>
 	<l id='1236'>Si je ne parle plus qu'en beaux vers héroïques. </l>
 	<l id='1237'>Puisque enfin les vers sont le langage des Dieux, </l>
@@ -1479,20 +1479,20 @@
 	<l id='1272'>Afin de l'apaiser, allons voir mon Aurore. </l>
 	<l id='1273'>Un seul de ses regards alentira mes feux, </l>
 	<l id='1274'>Et me pourra donner la gloire que je veux. </l>
-	<l id='1275' part='i'>Holà. </l>
+	<l id='1275' part="i">Holà. </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1275' part='m'>Qui frappe-là ? </l>
+	<l id='1275' part="m">Qui frappe-là ? </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1275' part='f'>Qui ventre ? L'effroyable, </l>
+	<l id='1275' part="f">Qui ventre ? L'effroyable, </l>
 	<l id='1276'>C'est l'enfant du Déluge, et le cousin du diable. </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1277' part='i'>Que voulez-vous ? </l>
+	<l id='1277' part="i">Que voulez-vous ? </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1277' part='f'>Comment, vous ne frémissez pas ?, </l>
+	<l id='1277' part="f">Comment, vous ne frémissez pas ?, </l>
 	<l id='1278'>Voyant l'horrible port de ce grand Fier-à-bras ? </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
@@ -1524,10 +1524,10 @@
 	<l id='1298'>Deux mille plus vaillants, et plus sages que vous. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1299' part='i'>Qui sont-ils ? </l>
+	<l id='1299' part="i">Qui sont-ils ? </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1299' part='f'>Attendez je vais quérir le livre. </l>
+	<l id='1299' part="f">Attendez je vais quérir le livre. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
 	<l id='1300'>Ha ventrebleu ! Je crois que ce bonhomme est ivre : </l>
@@ -1537,13 +1537,13 @@
 	<l id='1303'>Vous avez donc bientôt trouvé votre science ? </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1304' part='i'>Oui, voici mon Plutarque. </l>
+	<l id='1304' part="i">Oui, voici mon Plutarque. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1304' part='m'>Ah ventre ! </l>
+	<l id='1304' part="m">Ah ventre ! </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1304' part='f'>Patience. </l>
+	<l id='1304' part="f">Patience. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
 	<l id='1305'>Nomme, nomme-les-moi, ces illustres Héros, </l>
@@ -1553,333 +1553,333 @@
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
 	<l id='1309'>Vous vous moquez, allez vous êtes insensé : </l>
-	<l id='1310' part='i'>Thésée. </l>
+	<l id='1310' part="i">Thésée. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
 <note type="L">Tête-bleu : Espèce de jurement de l'ancienne comédie. [L]</note>
-	<l id='1310' part='f'>Ah tête-bleu, qu'il a bien commencé </l>
+	<l id='1310' part="f">Ah tête-bleu, qu'il a bien commencé </l>
 	<l id='1311'>Thésée malheureux, ce rapineur d'élite, </l>
 	<l id='1312'>Que tu crois si parfait, et rempli de mérite, </l>
 <note type="L">Batteur de pavé : Un batteur de pavé, un fainéant, un vagabond, qui n'a d'autre emploi que de se promener. [L]</note>
 	<l id='1313'>Ne fut qu'un vagabond, un batteur de pavé. </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1314' part='i'>Romule. </l>
+	<l id='1314' part="i">Romule. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1314' part='f'>Un fils de louve, un pauvre enfant trouvé. </l>
+	<l id='1314' part="f">Un fils de louve, un pauvre enfant trouvé. </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1315' part='i'>Licurgue. </l>
+	<l id='1315' part="i">Licurgue. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1315' part='f'>Fabriqua de la fausse monnaie. </l>
+	<l id='1315' part="f">Fabriqua de la fausse monnaie. </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1316' part='i'>Numa. </l>
+	<l id='1316' part="i">Numa. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1316' part='f'>Prenait avis d'une fille de joie. </l>
+	<l id='1316' part="f">Prenait avis d'une fille de joie. </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1317' part='i'>Solon. </l>
+	<l id='1317' part="i">Solon. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1317' part='f'>Sa marchandise offusqua son renom. </l>
+	<l id='1317' part="f">Sa marchandise offusqua son renom. </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1318' part='i'>Publicolle. </l>
+	<l id='1318' part="i">Publicolle. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1318' part='f'>En un jour abolit sa maison. </l>
+	<l id='1318' part="f">En un jour abolit sa maison. </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1319' part='i'>Thémistocles. </l>
+	<l id='1319' part="i">Thémistocles. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1319' part='f'>À son dam aima trop son Image. </l>
+	<l id='1319' part="f">À son dam aima trop son Image. </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1320' part='i'>Camille. </l>
+	<l id='1320' part="i">Camille. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1320' part='f'>À ses soldats ravissait le pillage. </l>
+	<l id='1320' part="f">À ses soldats ravissait le pillage. </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1321' part='i'>Périclès. </l>
+	<l id='1321' part="i">Périclès. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1321' part='f'>Son gros chef s'est toujours fait moquer. </l>
+	<l id='1321' part="f">Son gros chef s'est toujours fait moquer. </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1322' part='i'>Fabie. </l>
+	<l id='1322' part="i">Fabie. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1322' part='f'>Était trop doux et trop long à choquer. </l>
+	<l id='1322' part="f">Était trop doux et trop long à choquer. </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1323' part='i'>Alcibiade. </l>
+	<l id='1323' part="i">Alcibiade. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1323' part='f'>Un prodigue orné de menterie. </l>
+	<l id='1323' part="f">Un prodigue orné de menterie. </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1324' part='i'>Coriolan. </l>
+	<l id='1324' part="i">Coriolan. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1324' part='f'>Sa mère apaisa sa furie. </l>
+	<l id='1324' part="f">Sa mère apaisa sa furie. </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1325' part='i'>Paul-Émile. </l>
+	<l id='1325' part="i">Paul-Émile. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1325' part='f'>Un maraud, un gouverneur d'enfants. </l>
+	<l id='1325' part="f">Un maraud, un gouverneur d'enfants. </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1326' part='i'>Timoléon. </l>
+	<l id='1326' part="i">Timoléon. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1326' part='f'>Ce fou courut vingt ans les champs. </l>
+	<l id='1326' part="f">Ce fou courut vingt ans les champs. </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1327' part='i'>Pélopidas. </l>
+	<l id='1327' part="i">Pélopidas. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1327' part='f'>Sa mort l'accuse d'imprudence. </l>
+	<l id='1327' part="f">Sa mort l'accuse d'imprudence. </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1328' part='i'>Marcellus. </l>
+	<l id='1328' part="i">Marcellus. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1328' part='f'>Manqua d'heur comme d'expérience. </l>
+	<l id='1328' part="f">Manqua d'heur comme d'expérience. </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1329' part='i'>Aristides. </l>
+	<l id='1329' part="i">Aristides. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1329' part='f'>Ce fat ne fut trouvé qu'un gueux. </l>
+	<l id='1329' part="f">Ce fat ne fut trouvé qu'un gueux. </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1330' part='i'>Marc Caton. </l>
+	<l id='1330' part="i">Marc Caton. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1330' part='f'>Ce rousseau faisait trop le hargneux. </l>
+	<l id='1330' part="f">Ce rousseau faisait trop le hargneux. </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1331' part='i'>Philopemen. </l>
+	<l id='1331' part="i">Philopemen. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1331' part='f'>Périt par son humeur hautaine. </l>
+	<l id='1331' part="f">Périt par son humeur hautaine. </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1332' part='i'>Quintus. </l>
+	<l id='1332' part="i">Quintus. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1332' part='f'>Fit une tache à la Grandeur Romaine. </l>
+	<l id='1332' part="f">Fit une tache à la Grandeur Romaine. </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1333' part='i'>Pyrrhus. </l>
+	<l id='1333' part="i">Pyrrhus. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1333' part='f'>Un coup de pierre abattit ce guerrier. </l>
+	<l id='1333' part="f">Un coup de pierre abattit ce guerrier. </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1334' part='i'>Caïus. </l>
+	<l id='1334' part="i">Caïus. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1334' part='f'>Fit la grenouille au milieu d'un bourbier. </l>
+	<l id='1334' part="f">Fit la grenouille au milieu d'un bourbier. </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1335' part='i'>Lisander. </l>
+	<l id='1335' part="i">Lisander. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1335' part='f'>Ce trompeur périt par tromperie. </l>
+	<l id='1335' part="f">Ce trompeur périt par tromperie. </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1336' part='i'>Silla. </l>
+	<l id='1336' part="i">Silla. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1336' part='f'>Fut plein de rage et de forcenerie. </l>
+	<l id='1336' part="f">Fut plein de rage et de forcenerie. </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1337' part='i'>Simon. </l>
+	<l id='1337' part="i">Simon. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1337' part='f'>À ses plaisirs fut trop adonné. </l>
+	<l id='1337' part="f">À ses plaisirs fut trop adonné. </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1338' part='i'>Lucule. </l>
+	<l id='1338' part="i">Lucule. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1338' part='f'>Des Soldats se vit abandonné. </l>
+	<l id='1338' part="f">Des Soldats se vit abandonné. </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1339' part='i'>Nicé. </l>
+	<l id='1339' part="i">Nicé. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1339' part='f'>Ce Capitaine avait le coeur de tremble. </l>
+	<l id='1339' part="f">Ce Capitaine avait le coeur de tremble. </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1340' part='i'>Crassus. </l>
+	<l id='1340' part="i">Crassus. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1340' part='f'>Était avare, et poltron tout ensemble. </l>
+	<l id='1340' part="f">Était avare, et poltron tout ensemble. </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1341' part='i'>Sertorius. </l>
+	<l id='1341' part="i">Sertorius. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1341' part='f'>Ce borgne a passé pour sorcier. </l>
+	<l id='1341' part="f">Ce borgne a passé pour sorcier. </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1342' part='i'>Euménès. </l>
+	<l id='1342' part="i">Euménès. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1342' part='f'>Était fils d'un noble carrossier </l>
+	<l id='1342' part="f">Était fils d'un noble carrossier </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1343' part='i'>Agésilas. </l>
+	<l id='1343' part="i">Agésilas. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1343' part='f'>Fort bien avec sa jambe courte. </l>
+	<l id='1343' part="f">Fort bien avec sa jambe courte. </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1344' part='i'>Pompée. </l>
+	<l id='1344' part="i">Pompée. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1344' part='f'>Il perdit coeur après une déroute.</l>
+	<l id='1344' part="f">Il perdit coeur après une déroute.</l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1345' part='i'>Alexandre. </l>
+	<l id='1345' part="i">Alexandre. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1345' part='f'>Alexandre, il aimait trop le vin. </l>
+	<l id='1345' part="f">Alexandre, il aimait trop le vin. </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1346' part='i'>Jules. </l>
+	<l id='1346' part="i">Jules. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1346' part='f'>Il fut vaillant, mais non pas assez fin. </l>
+	<l id='1346' part="f">Il fut vaillant, mais non pas assez fin. </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1347' part='i'>Phocion. </l>
+	<l id='1347' part="i">Phocion. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1347' part='f'>Cet oiseau se laissa mettre en cage. </l>
+	<l id='1347' part="f">Cet oiseau se laissa mettre en cage. </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1348' part='i'>Caton. </l>
+	<l id='1348' part="i">Caton. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1348' part='f'>Se fit mourir à force de courage. </l>
+	<l id='1348' part="f">Se fit mourir à force de courage. </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1349' part='i'>Cléoménes, Agis. </l>
+	<l id='1349' part="i">Cléoménes, Agis. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1349' part='f'>Ils n'ont rien fait de beau. </l>
+	<l id='1349' part="f">Ils n'ont rien fait de beau. </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1350' part='i'>Les Gracques. </l>
+	<l id='1350' part="i">Les Gracques. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1350' part='f'>Ces mutins avaient trop de cerveau. </l>
+	<l id='1350' part="f">Ces mutins avaient trop de cerveau. </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1351' part='i'>Démosthènes. </l>
+	<l id='1351' part="i">Démosthènes. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1351' part='f'>Mourut en suçant une plume. </l>
+	<l id='1351' part="f">Mourut en suçant une plume. </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1352' part='i'>Cicéron. </l>
+	<l id='1352' part="i">Cicéron. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1352' part='f'>Se parait de la peau d'un volume. </l>
+	<l id='1352' part="f">Se parait de la peau d'un volume. </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1353' part='i'>Démétrie. </l>
+	<l id='1353' part="i">Démétrie. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1353' part='f'>Un gourmand, de vices revêtu. </l>
+	<l id='1353' part="f">Un gourmand, de vices revêtu. </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1354' part='i'>Antoine. </l>
+	<l id='1354' part="i">Antoine. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1354' part='f'>En Cléopâtre étouffa sa vertu. </l>
+	<l id='1354' part="f">En Cléopâtre étouffa sa vertu. </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1355' part='i'>Artaxerce. </l>
+	<l id='1355' part="i">Artaxerce. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1355' part='f'>Un inceste, un fratricide infâme. </l>
+	<l id='1355' part="f">Un inceste, un fratricide infâme. </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1356' part='i'>Dion. </l>
+	<l id='1356' part="i">Dion. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1356' part='f'>De son vivant on lui gardait sa femme. </l>
+	<l id='1356' part="f">De son vivant on lui gardait sa femme. </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1357' part='i'>Brute. </l>
+	<l id='1357' part="i">Brute. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1357' part='f'>Fut un perfide, et l'horreur des humains. </l>
+	<l id='1357' part="f">Fut un perfide, et l'horreur des humains. </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1358' part='i'>Aratus. </l>
+	<l id='1358' part="i">Aratus. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1358' part='f'>Mit sa garde en de mauvaises mains. </l>
+	<l id='1358' part="f">Mit sa garde en de mauvaises mains. </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1359' part='i'>Galba. </l>
+	<l id='1359' part="i">Galba. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1359' part='f'>Monta bien haut, lorsqu'il fallait descendre. </l>
+	<l id='1359' part="f">Monta bien haut, lorsqu'il fallait descendre. </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1360' part='i'>Othon. </l>
+	<l id='1360' part="i">Othon. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1360' part='f'>Cet Empereur ne valait pas le pendre. </l>
+	<l id='1360' part="f">Cet Empereur ne valait pas le pendre. </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1361' part='i'>Annibal. </l>
+	<l id='1361' part="i">Annibal. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1361' part='f'>Négligea l'excès de son bonheur. </l>
+	<l id='1361' part="f">Négligea l'excès de son bonheur. </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1362' part='i'>Scipion. </l>
+	<l id='1362' part="i">Scipion. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1362' part='f'>De Guerrier devint un laboureur. </l>
+	<l id='1362' part="f">De Guerrier devint un laboureur. </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1363' part='i'>Épaminondas. </l>
+	<l id='1363' part="i">Épaminondas. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1363' part='f'>Pauvre, et de naissance oblique. </l>
+	<l id='1363' part="f">Pauvre, et de naissance oblique. </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1364' part='i'>Philippe. </l>
+	<l id='1364' part="i">Philippe. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1364' part='f'>Un tracasseur de Liberté publique. </l>
+	<l id='1364' part="f">Un tracasseur de Liberté publique. </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1365' part='i'>Denis. </l>
+	<l id='1365' part="i">Denis. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1365' part='f'>Faisait sa barbe avec des tisons. </l>
+	<l id='1365' part="f">Faisait sa barbe avec des tisons. </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1366' part='i'>César Auguste. </l>
+	<l id='1366' part="i">César Auguste. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1366' part='f'>Ah ventre, arrête là tes noms ! </l>
+	<l id='1366' part="f">Ah ventre, arrête là tes noms ! </l>
 	<l id='1367'>Ne te travaille plus, finis cette remarque, </l>
 	<l id='1368'>Je sais que tu m'allais encor nommer Plutarque. </l>
 	<l id='1369'>Miltiades, Sénèque avec Pausanias : </l>
@@ -1901,10 +1901,10 @@
 	<l id='1382'>Et faire de ton corps un déluge de sang. </l>
 </sp>
 <sp who='MATAMORE'><speaker>MATAMORE.</speaker>
-	<l id='1383' part='i'>Ah ventre ! </l>
+	<l id='1383' part="i">Ah ventre ! </l>
 </sp>
 <sp who='BONNIFACE'><speaker>BONNIFACE.</speaker>
-	<l id='1383' part='f'>Ah par la mort, il faut que je te tue ! </l>
+	<l id='1383' part="f">Ah par la mort, il faut que je te tue ! </l>
 	<l id='1384'>Comme le drôle fuit : je l'ai perdu de vue. </l>
 	<l id='1385'>Et ce vaillant guerrier si redouté de Mars, </l>
 	<l id='1386'>Ne peut souffrir sans peur, un seul de mes regards. </l>
@@ -2101,7 +2101,7 @@
 	<l id='1558'>Pour les regards que je décoche ? </l>
 	<l id='1559'>Si toutes ces Dames osaient, </l>
 	<l id='1560'>Dieux ! Comme elles soupireraient, </l>
-<note type="L">Oeillader : Lancer des oeillades à quelqu'un (terme qui vieillit).  [L]</note>
+<note type="L">Oeillader : Lancer des oeillades à quelqu'un (terme qui vieillit). [L]</note>
 	<l id='1561'>Oeilladant un si beau visage : </l>
 	<l id='1562'>L'eau qui tomberaient de leurs yeux, </l>
 	<l id='1563'>Vous mouilleraient, parbleu, mille fois davantage, </l>
@@ -2236,7 +2236,7 @@
 	<l id='1674'>J'écraserai le bâtiment. </l>
 </sp>
 <sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
-	<l id='1675'>Hé, qui frappe si rudement ?  </l>
+	<l id='1675'>Hé, qui frappe si rudement ? </l>
 </sp>
 <sp who='LE CAPITAINE'><speaker>LE CAPITAINE.</speaker>
 	<l id='1676'>C'est un faiseur d'égorgement, </l>
@@ -2274,30 +2274,30 @@
 	<l id='1704'>Attendez un peu seulement : </l>
 </sp>
 <sp who='LE CAPITAINE'><speaker>LE CAPITAINE.</speaker>
-	<l id='1705' part='i'>Vous en allez-vous ? </l>
+	<l id='1705' part="i">Vous en allez-vous ? </l>
 </sp>
 <sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
-	<l id='1705' part='f'>Non vraiment, </l>
+	<l id='1705' part="f">Non vraiment, </l>
 	<l id='1706'>Je retourne subitement. </l>
-	<l id='1707' part='i'>Chère Alison. </l>
+	<l id='1707' part="i">Chère Alison. </l>
 </sp>
 <sp who='ALISON'><speaker>ALISON.</speaker>
-	<l id='1707' part='m'>Quoi ? </l>
+	<l id='1707' part="m">Quoi ? </l>
 </sp>
 <sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
-	<l id='1707' part='f'>Prestement. </l>
+	<l id='1707' part="f">Prestement. </l>
 </sp>
 <sp who='ALISON'><speaker>ALISON.</speaker>
-	<l id='1708' part='i'>Que voulez-vous ? </l>
+	<l id='1708' part="i">Que voulez-vous ? </l>
 </sp>
 <sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
-	<l id='1708' part='f'>Viens vitement. </l>
+	<l id='1708' part="f">Viens vitement. </l>
 </sp>
 <sp who='ALISON'><speaker>ALISON.</speaker>
-	<l id='1709' part='i'>Hé bien. </l>
+	<l id='1709' part="i">Hé bien. </l>
 </sp>
 <sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
-	<l id='1709' part='f'>Que tu vas lentement ! </l>
+	<l id='1709' part="f">Que tu vas lentement ! </l>
 </sp>
 <sp who='ALISON'><speaker>ALISON.</speaker>
 	<l id='1710'>Hé qui pourrait plus diablement </l>
@@ -2374,7 +2374,7 @@
 	<l id='1758'>De tous ceux qui crédulement </l>
 	<l id='1759'>Croient à son cajolement ! </l>
 	<l id='1760'>J'enrage de forcènement, </l>
-	<l id='1761'>D'ouïr mentir si puamment,  </l>
+	<l id='1761'>D'ouïr mentir si puamment, </l>
 	<l id='1762'>Ô détestable parement </l>
 	<l id='1763'>De gibet. Quel aveuglement </l>
 	<l id='1764'>Te fait si désordonnément </l>
@@ -2413,13 +2413,13 @@
 	<l id='1785'>Vous me battez iniquement. </l>
 </sp>
 <sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
-	<l id='1786' part='i'>Fuis donc ? </l>
+	<l id='1786' part="i">Fuis donc ? </l>
 </sp>
 <sp who='ALISON'><speaker>ALISON.</speaker>
-	<l id='1786' part='m'>Hé bien. </l>
+	<l id='1786' part="m">Hé bien. </l>
 </sp>
 <sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
-	<l id='1786' part='f'>Indignement, </l>
+	<l id='1786' part="f">Indignement, </l>
 	<l id='1787'>Oser licencieusement </l>
 	<l id='1788'>Donner du mécontentement </l>
 	<l id='1789'>À cet aimable : ô galamment </l>
@@ -2464,10 +2464,10 @@
 	<l id='1820'>J'estime émerveillablement. </l>
 </sp>
 <sp who='LE CAPITAINE'><speaker>LE CAPITAINE.</speaker>
-	<l id='1821' part='i'>À votre père ? </l>
+	<l id='1821' part="i">À votre père ? </l>
 </sp>
 <sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
-	<l id='1821' part='f'>Justement. </l>
+	<l id='1821' part="f">Justement. </l>
 </sp>
 <sp who='LE CAPITAINE'><speaker>LE CAPITAINE.</speaker>
 	<l id='1822'>Bien, attendez patiemment ; </l>
@@ -2810,10 +2810,10 @@
 	<l id='2066'>Parlez et sans déguisement. </l>
 </sp>
 <sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
-	<l id='2067' part='i'>Non, mon coeur. </l>
+	<l id='2067' part="i">Non, mon coeur. </l>
 </sp>
 <sp who='LE CAPITAINE'><speaker>LE CAPITAINE.</speaker>
-	<l id='2067' part='f'>Quoi donc sottement, </l>
+	<l id='2067' part="f">Quoi donc sottement, </l>
 	<l id='2068'>Et sans ratiocinement. </l>
 	<l id='2069'>Vous voulez tyranniquement </l>
 	<l id='2070'>La violenter aigrement. </l>
@@ -2844,7 +2844,7 @@
 	<l id='2087'>Vous esquiver impunément. </l>
 </sp>
 <sp who='TOUS-DEUX'><speaker>Tous deux.</speaker>
-	<l id='2088'>Beau-Lieu, et Beau Château.  </l>
+	<l id='2088'>Beau-Lieu, et Beau Château. </l>
 	<l id='2089'>Pardonnez-nous courtoisement, </l>
 </sp>
 <sp who='LE CAPITAINE'><speaker>LE CAPITAINE.</speaker>
@@ -2863,16 +2863,16 @@
 	<l id='2099'>À ce fâcheux commandement ! </l>
 </sp>
 <sp who='LE CAPITAINE'><speaker>LE CAPITAINE.</speaker>
-	<l id='2100' part='i'>Levez-vous. </l>
+	<l id='2100' part="i">Levez-vous. </l>
 </sp>
 <sp who='BEAU-LIEU'><speaker>BEAU-LIEU.</speaker>
-	<l id='2100' part='f'>Ah quel tremblement ! </l>
+	<l id='2100' part="f">Ah quel tremblement ! </l>
 </sp>
 <sp who='BEAU-CHÂTEAU'><speaker>BEAU-CHÂTEAU.</speaker>
-	<l id='2101' part='i'>Je me meurs. </l>
+	<l id='2101' part="i">Je me meurs. </l>
 </sp>
 <sp who='LE CAPITAINE'><speaker>LE CAPITAINE.</speaker>
-	<l id='2101' part='f'>Favorablement. </l>
+	<l id='2101' part="f">Favorablement. </l>
 	<l id='2102'>Je vous pardonne entièrement </l>
 	<l id='2103'>Allez au diable ensemblement, </l>
 	<l id='2104'>À cette heure l'opposement </l>
@@ -2911,10 +2911,10 @@
 	<l id='2127'>Un amoureux culbutement. </l>
 </sp>
 <sp who='PHILIPIN'><speaker>PHILIPIN.</speaker>
-	<l id='2128' part='i'>Hé bien. </l>
+	<l id='2128' part="i">Hé bien. </l>
 </sp>
 <sp who='ALISON'><speaker>ALISON.</speaker>
-	<l id='2128' part='f'>Je ne sais bonnement, </l>
+	<l id='2128' part="f">Je ne sais bonnement, </l>
 	<l id='2129'>Si c'est en veillant, en dormant </l>
 	<l id='2130'>Que je vois cet événement. </l>
 </sp>

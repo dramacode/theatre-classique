@@ -8,8 +8,8 @@
 			</titleStmt>
 			<publicationStmt>	
 				<p>publié par Paul FIEVRE, février 2015.</p>
-			<idno></idno>
-</publicationStmt>
+				<idno>ARCHAMBAULT_ONFAITCEQUONPEUT</idno>
+			</publicationStmt>
 			<SourceDesc>
 				<genre>Proverbe</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -54,7 +54,7 @@
 <body>
 <div1 type="act" n="1"><head></head>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
-<sp who="FRANVILLE"><speaker>FRANVILLE, seul, devant un bureau avec plusieurs lettres ouvertes.</speaker>
+<sp stage="alone/location/decor" who="FRANVILLE"><speaker>FRANVILLE, seul, devant un bureau avec plusieurs lettres ouvertes.</speaker>
 <p id="1">
 	<s id="1">Parbleu ! </s>
 	<s id='2'>C'est une cruelle chose qu'une entreprise nouvelle, où diable avais-je l'esprit quand j'ai imaginé de me mettre à la tête d'un Spectacle ! </s>
@@ -110,20 +110,20 @@
 	<s id='3'>Il y a conscience : c'est s'y prendre un peu tard !... </s>
 	<s id='4'>Serviteur à votre ingénuité ! </s>
 </p>
-<stage type="action">Il jette la lettre.</stage>
+<stage type="throw">Il jette la lettre.</stage>
 <p id='15'>
 	<s id='1'>Voilà pourtant de ces Agnès comme on en rencontre avec connaissance de cause.</s>
 </p>
 </sp>
 </div2>
 <div2 type="scene" n="2"><head>SCÈNE II. Franville, Le Souffleur.</head>
-<stage type="expression">Il parle en nazillant et grimaçant un peu.</stage>
+<stage type="imitate">Il parle en nazillant et grimaçant un peu.</stage>
 <sp who="LE SOUFLEUR"><speaker>LE SOUFLEUR.</speaker>
 <p id="1">
 	<s id="1">Monsieur, je suis bien votre serviteur, j'ai l'honneur de vous saluer, je vous souhaite bien le bonjour, Monsieur.</s>
 </p>
 </sp>
-<sp who="FRANVILLE"><speaker>FRANVILLE, le contrefaisant.</speaker>
+<sp stage="imitate" who="FRANVILLE"><speaker>FRANVILLE, le contrefaisant.</speaker>
 <p id="2">
 	<s id="">Et moi pareillement, Monsieur, qu'y a-t-il pour votre service, Monsieur?</s>
 </p>
@@ -152,7 +152,7 @@
 <sp who="FRANVILLE"><speaker>FRANVILLE.</speaker>
 <p id="7">
 	<s id="1">Est-il possible, Monsieur ? </s>
-	<s id='2'>Comment, vous avez entendu dire que...  </s>
+	<s id='2'>Comment, vous avez entendu dire que... </s>
 </p>
 </sp>
 <sp who="LE SOUFLEUR"><speaker>LE SOUFLEUR.</speaker>
@@ -321,7 +321,7 @@
 	<s id="1">Vous avez raison.</s>
 </p>
 </sp>
-<sp who="LE SOUFLEUR"><speaker>LE SOUFLEUR, grimaçant.</speaker>
+<sp stage="grimace" who="LE SOUFLEUR"><speaker>LE SOUFLEUR, grimaçant.</speaker>
 <p id="36">
 	<s id="1">Je ne sais pas, Monsieur, si vous trouvez ma figure bien revenante ?</s>
 </p>
@@ -333,15 +333,15 @@
 </sp>
 <sp who="LE SOUFLEUR"><speaker>LE SOUFLEUR.</speaker>
 <p id="38">
-	<s id="1">Eh bien, tout ça ne fait encore rien à la chose.  </s>
+	<s id="1">Eh bien, tout ça ne fait encore rien à la chose. </s>
 	<s id='2'>Quand je serai là, moi.</s>
 </p>
-<stage type="action">Montrant le trou. </stage>
+<stage type="show">Montrant le trou. </stage>
 <p id='39'>
 	<s id='1'>Le Public ne verra mon visage que par derrière.</s>
 </p>
 </sp>
-<sp who='FRANVILLE'><speaker>FRANVILLE, à part.</speaker>
+<sp stage="aparte" who='FRANVILLE'><speaker>FRANVILLE, à part.</speaker>
 <p id='40'>
 	<s id='1'>Il n'y perdra pas.</s>
 </p>
@@ -357,7 +357,7 @@
 	<s id='7'>Et de mes deux yeux, tandis que l'un ne perd pas de vue le livre, l'autre continuellement fixé sur l'acteur, observe son maintien, devine son embarras, et prévient son silence.</s>
 </p>
 </sp>
-<sp who='FRANVILLE'><speaker>FRANVILLE, à part.</speaker>
+<sp stage="aparte" who='FRANVILLE'><speaker>FRANVILLE, à part.</speaker>
 <p id='42'>
 	<s id='1'>Le beau portait ! </s>
 	<s id='2'>Il me semble voir un colimaçon à la découverte, un oeil à droite et l'autre à gauche.</s>
@@ -381,7 +381,7 @@
 	<s id='2'>Le souffleur, ordinairement, copie les répertoires ; est-il vrai ? </s>
 	<s id='3'>Je ne vous dis rien de mon écriture ; mais tenez, en voilà un échantillon ; vous avez des yeux, je m'en rapporte.</s>
 </p>
-<stage type="action">Il lui montre un papier.</stage>
+<stage type="show">Il lui montre un papier.</stage>
 <p id="46">
 	<s id="1">Vous ne voyez que de la commune au moins, l'écriture de tous les jours, mais nous avons la moulée pour les grandes occasions, et le trait pour les coups d'éclat ; à présent, Monsieur, décidez-vous.</s>
 </p>
@@ -401,16 +401,16 @@
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÉNE III.</head>
-<sp who="FRANVILLE"><speaker>FRANVILLE, seul.</speaker>
+<sp stage="alone" who="FRANVILLE"><speaker>FRANVILLE, seul.</speaker>
 <p id="1">
 	<s id="1">Voilà un plaisant Monsieur ! </s>
 	<s id='2'>S'il souffle comme il parle, cela doit être intéressant ; voyons mes autres lettres.</s>
 </p>
-<stage type="action">Il va se mettre à son bureau.</stage>
+<stage type="sit/location">Il va se mettre à son bureau.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÉˆNE IV. FRANVILLE, assis, LE VALET Allemand.</head>
-<sp who="LE VALET"><speaker>LE VALET, à part, du haut du Théâtre, en voix ordinaire.</speaker>
+<div2 type="scene" n="4"><head>SCÉNE IV. FRANVILLE, assis, LE VALET Allemand.</head>
+<sp stage="aparte/location" who="LE VALET"><speaker>LE VALET, à part, du haut du Théâtre, en voix ordinaire.</speaker>
 <p id="1">
 	<s id="1">Voyons s'il me reconnaîtra... </s>
 	<s id='2'>Ah ! </s>
@@ -418,12 +418,12 @@
 	<s id='4'>Oh bien, je vais de mon côté essayer un peu votre patience.</s>
 </p>
 </sp>
-<sp who="FRANVILLE"><speaker>FRANVILLE, se retournant, l'aperçoit.</speaker>
+<sp stage="turn/watch" who="FRANVILLE"><speaker>FRANVILLE, se retournant, l'aperçoit.</speaker>
 <p id="2">
 	<s id="1">Qui est là ?</s>
 </p>
 </sp>
-<sp who="LE VALET"><speaker>LE VALET, en baragouin,</speaker>
+<sp stage="imitate" who="LE VALET"><speaker>LE VALET, en baragouin.</speaker>
 <p id="3">
 	<s id="1">Serfiteur, Monsir.</s>
 </p>
@@ -455,7 +455,7 @@
 <p id="9">
 	<s id="1">Mon ami, dites à votre maître que s'il veut me faire le plaisir de me venir voir, nous nous arrangerons ensemble.</s>
 </p>
-<stage type="action">Le Valet le regarde sans lui répondre.</stage>
+<stage type="watch/silence">Le Valet le regarde sans lui répondre.</stage>
 </sp>
 <sp who="FRANVILLE"><speaker>FRANVILLE.</speaker>
 <p id="10">
@@ -531,17 +531,17 @@
 <p id="23">
 	<s id="1">Il ne comprend rien, j'aurai plutôt fait de le renvoyer. </s>
 </p>
-<stage type="forte">Haut.</stage>
+<stage type="loud">Haut.</stage>
 <p id='24'>
 	<s id='1'>Allez dire à votre maître qu'il vienne me voir, nous causerons ensemble.</s>
 </p>
 </sp>
-<sp who="LE VALET"><speaker>LE VALET, avec impatience.</speaker>
+<sp stage="impatient" who="LE VALET"><speaker>LE VALET, avec impatience.</speaker>
 <p id="25">
 	<s id="1">Mais, Monsir, est-ce que fous n'ententre pas aussi, chattendre ein réponse depuis trois heures.</s>
 </p>
 </sp>
-<sp who="FRANVILLE"><speaker>FRANVILLE, de même.</speaker>
+<sp stage="impatient" who="FRANVILLE"><speaker>FRANVILLE, de même.</speaker>
 <p id="26">
 	<s id="1">Mais, morbleu, est-ce que vous êtes ivre ? </s>
 	<s id='2'>Voilà vingt fois que je vous la répète.</s>
@@ -556,7 +556,7 @@
 <p id="28">
 	<s id="1">Mais, je n'ai rien à lui écrire, dites-lui cela.</s>
 </p>
-<stage type="action">Le valet impatienté s'assied sans répondre.</stage>
+<stage type="stress/sit/silence">Le valet impatienté s'assied sans répondre.</stage>
 <p id="29">
 	<s id="1">Ah ! </s>
 	<s id='2'>Parbleu celui-là est réjouissant ! </s>
@@ -565,7 +565,7 @@
 </sp>
 <sp who="LE VALET"><speaker>LE VALET.</speaker>
 <p id="30">
-	<s id="1">É‰crire fous, encore ein coup, écrire, ché n'entendre pas.</s>
+	<s id="1">Écrire fous, encore ein coup, écrire, ché n'entendre pas.</s>
 </p>
 </sp>
 <sp who="FRANVILLE"><speaker>FRANVILLE.</speaker>
@@ -604,7 +604,7 @@
 	<s id='2'>Il y a deux heures que je me casse la tête là bien à propos ! </s>
 	<s id='3'>Écrire, je comprends actuellement...</s>
 </p>
-<stage type="action">Il lui fait signe.</stage>
+<stage type="wave">Il lui fait signe.</stage>
 <p id='37'>
 	<s id='1'>Attendez un instant.</s>
 </p>
@@ -614,12 +614,12 @@
 	<s id="1">Ya, ya, écrire fous, écrire.</s>
 </p>
 </sp>
-<sp who='FRANVILLE'><speaker>FRANVILLE, lui donne le billet qu'il vient d'écrire.</speaker>
+<sp stage="write/give" who='FRANVILLE'><speaker>FRANVILLE, lui donne le billet qu'il vient d'écrire.</speaker>
 <p id='39'>
 	<s id='1'>Allez, Monsieur écrire, allez.</s>
 </p>
 </sp>
-<sp who='LE VALET'><speaker>LE VALET, va et revient sur ses pas.</speaker>
+<sp stage="away/back" who='LE VALET'><speaker>LE VALET, va et revient sur ses pas.</speaker>
 <p id='40'>
 	<s id='1'>Monsir.</s>
 </p>
@@ -637,7 +637,7 @@
 	<s id="1">Fous faire la Comédie.</s>
 </p>
 </sp>
-<sp who='43'><speaker>FRANVILLE, à part.</speaker>
+<sp stage="aparte" who='FRANVILLE'><speaker>FRANVILLE, à part.</speaker>
 <p id='43'>
 	<s id='1'>Que veut-il dire ?</s>
 </p>
@@ -659,24 +659,24 @@
 	<s id="1">É‰crire fous, ché n'entens pas.</s>
 </p>
 </sp>
-<sp who="FRANVILLE"><speaker>FRANVILLE, le pousse debors.</speaker>
+<sp stage="" who="FRANVILLE"><speaker>FRANVILLE, le pousse debors.</speaker>
 <p id="47">
 	<s id="1">Va-t-en au diable avec tes écritures.</s>
 </p>
 </sp>
-<sp who="LE VALET"><speaker>LE VALET, revenant.</speaker>
+<sp stage="back" who="LE VALET"><speaker>LE VALET, revenant.</speaker>
 <p id="48">
 	<s id="1">Monsir, je sonne fort pien du cor.</s>
 </p>
 </sp>
-<sp who="FRANVILLE"><speaker>FRANVILLE, le poussant.</speaker>
+<sp stage="push" who="FRANVILLE"><speaker>FRANVILLE, le poussant.</speaker>
 <p id="49">
 	<s id="1">Va-t-en, va-t-en.</s>
 </p>
 </sp>
-<sp who="LE VALET"><speaker>LE VALET, revenant.</speaker>
+<sp stage="back" who="LE VALET"><speaker>LE VALET, revenant.</speaker>
 <p id="50">
-	<s id="1">Je connais fort peaucoup la flÉ»te.</s>
+	<s id="1">Je connais fort peaucoup la flûte.</s>
 </p>
 </sp>
 <sp who="FRANVILLE"><speaker>FRANVILLE.</speaker>
@@ -684,27 +684,27 @@
 	<s id="1">Eh morbleu, t'en iras-tu ?</s>
 </p>
 </sp>
-<sp who="LE VALET"><speaker>LE VALET, à la porte.</speaker>
+<sp stage="location" who="LE VALET"><speaker>LE VALET, à la porte.</speaker>
 <p id="52">
-	<s id="1">É‰crire, Monsir, écrire.</s>
+	<s id="1">Écrire, Monsir, écrire.</s>
 </p>
 </sp>
-<sp who="FRANVILLE"><speaker>FRANVILLE, le mettant dehors.</speaker>
+<sp stage="push/exit" who="FRANVILLE"><speaker>FRANVILLE, le mettant dehors.</speaker>
 <p id="53">
 	<s id="1">Oui, oui, je vais t'écrire la porte sur le nez.</s>
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÉˆNE V.</head>
-<sp who="FRANVILLE"><speaker>FRANVILLE, seul.</speaker>
+<div2 type="scene" n="5"><head>SCÉNE V.</head>
+<sp stage="alone" who="FRANVILLE"><speaker>FRANVILLE, seul.</speaker>
 <p id="1">
-	<s id="1">Parbleu, voila une belle acquisition à faire, et une jolie conversation que je viens d'avoir !  </s>
+	<s id="1">Parbleu, voila une belle acquisition à faire, et une jolie conversation que je viens d'avoir ! </s>
 	<s id='2'>Mais je ne reviens pas de ma simplicité. </s>
 	<s id='3'>Voilà deux heures que je ne m'aperçois pas que cet animal est sourd, et je veux lui faire entendre raison ; si je juge du Maître par le Valet, cela ne m'en donne pas grande idée.</s>
 </p>
 </sp>
 </div2>
-<div2 type="scene" n=""><head>SCÉˆNE VI. FRANVILLE, LE BEAU LÉANDRE.</head>
+<div2 type="scene" n=""><head>SCÉNE VI. Franville, Le Beau Léandre.</head>
 <sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 <p id="1">
 	<s id="1">Monsieur, c'est pour avoir l'honneur de vous souhaiter le bonjour.</s>
@@ -812,7 +812,7 @@
 	<s id="1">Encore, dites-moi zen tune, Monsieur.</s>
 </p>
 </sp>
-<sp who="FRANVILLE"><speaker>FRANVILLE, en appuyant.</speaker>
+<sp stage="insistance" who="FRANVILLE"><speaker>FRANVILLE, en appuyant.</speaker>
 <p id="20">
 	<s id="1">Eh ! Mais, par exemple, en voilà tune très forte.</s>
 </p>
@@ -855,15 +855,15 @@
 	<s id="1">Monsieur, je m'en fais fort.</s>
 </p>
 </sp>
-<sp who="FRANVILLE"><speaker>FRANVILLE, à part.</speaker>
+<sp stage="aparte" who="FRANVILLE"><speaker>FRANVILLE, à part.</speaker>
 <p id="28">
 	<s id="1">Il n'est qu'onze heures ; je n'ai rien à faire jusqu'à midi, amusons-nous de son extravagance.</s>
 </p>
-<stage type="forte">Haut.</stage>
+<stage type="loud">Haut.</stage>
 <p id='29'>
 	<s id='1'>Allons, Monsieur, je vous écoute.</s>
 </p>
-<stage type="action">Il s'assied.</stage>
+<stage type="sit">Il s'assied.</stage>
 </sp>
 <sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 <p id="30">
@@ -880,10 +880,10 @@
 	<s id="1">C'est bien pensé.</s>
 </p>
 </sp>
-<sp who='LÉANDRE'><speaker>LÉANDRE, déclame ridiculement.</speaker>
+<sp stage="declamation" who='LÉANDRE'><speaker>LÉANDRE, déclame ridiculement.</speaker>
 	<l id='1'>Enfin je suis ten cage ! Ô perfide maîtresse ! </l>
 	<l id='2'>C'est pour votre inutile et cruelle Duchesse</l>
-	<l id='3'>Que votre amant, bientôt, perdra le goÉ»t du pain !</l>
+	<l id='3'>Que votre amant, bientôt, perdra le goût du pain !</l>
 <p id='32'>
 	<s id='1'>À présent, Monsieur, la fille entre dans la prison. </s>
 	<s id='2'>Le monologue devient à deux. </s>
@@ -947,7 +947,7 @@
 <p id="44">
 	<s id="1">Je prends une voix cassée pour le père, parce que c'est z'un invalide...</s>
 </p>	
-<stage type="loud">Il déclame en tremblant.</stage>
+<stage type="declamation">Il déclame en tremblant.</stage>
 	<l id='13'>Mon ami, pour te voir j'ai dans le voisinage</l>
 	<l id='14'>Visith les bouchons, couru tout le village.</l>
 	<l id='15'>Enfin je viens tici sans trop savoir pourquoi ;</l>
@@ -1030,11 +1030,11 @@
 	<s id="1">Eh ben, Monsieur, nous n'avons qu'à faire un petit arrangement zensemble.</s>
 </p>
 </sp>
-<sp who="FRANVILLE"><speaker>FRANVILLE, à part.</speaker>
+<sp stage="aparte" who="FRANVILLE"><speaker>FRANVILLE, à part.</speaker>
 <p id="59">
 	<s id="1">Je veux m'en amuser encore.</s>
 </p>
-<stage type="forte">Haut.</stage>
+<stage type="loud">Haut.</stage>
 <p id="60">
 	<s id="1">Monsieur, je ne puis rien conclure pour le moment. </s>
 	<s id='2'>J'attends mon associé, et si vous voulez me faire le plaisir de rester à dîner avec nous, nous parlerons d'affaires ; il sera charmé de vous entendre.</s>
@@ -1046,24 +1046,24 @@
 	<s id='2'>Ben, Monsieur, avec plaisir, j'ai z'une petite affaire ici près, j'y vas faire un petit tour et je reviendrai.</s>
 </p>
 </sp>
-<sp who="FRANVILLE"><speaker>FRANVILLE, le retenant.</speaker>
+<sp stage="pull" who="FRANVILLE"><speaker>FRANVILLE, le retenant.</speaker>
 <p id="62">
 	<s id="1">Oh ! </s>
 	<s id='2'>Non, je vous en prie, ne sortez pas, nous allons nous mettre à table ; en attendant, voici un cabinet qui donne sur la rue, entrez-y pour vous dissiper ; si vous voulez lire, il y a des comédies.</s>
 </p>
 </sp>
-<sp who="LÉANDRE"><speaker>LÉANDRE, entrant dans le cabinet.</speaker>
+<sp stage="exit" who="LÉANDRE"><speaker>LÉANDRE, entrant dans le cabinet.</speaker>
 <p id="63">
 	<s id="1">Ah ! </s>
 	<s id='2'>Volontiers, Monsieur : je suis taffectionné à la lecture.</s>
 </p>
 </sp>
-<sp who="FRANVILLE"><speaker>FRANVILLE lui parlant de dessus le Théâtre.</speaker>
+<sp stage="location" who="FRANVILLE"><speaker>FRANVILLE, lui parlant de dessus le Théâtre.</speaker>
 <p id="64">
 	<s id="1">La bibliothèque est à droite ; voyez-vous ?</s>
 </p>
 </sp>
-<sp who="LÉANDRE"><speaker>LÉANDRE, dedans le cabinet.</speaker>
+<sp stage="location" who="LÉANDRE"><speaker>LÉANDRE, dedans le cabinet.</speaker>
 <p id="65">
 	<s id="1">Oui, Monsieur, j'ai tun livre en main.</s>
 </p>
@@ -1073,7 +1073,7 @@
 	<s id="1">Si vous voulez répéter quelques scènes, il y a une glace aussi. </s>
 </p>
 </sp>
-<sp who="LÉANDRE"><speaker>LÉANDRE, au cabinet.</speaker>
+<sp stage="location" who="LÉANDRE"><speaker>LÉANDRE, au cabinet.</speaker>
 <p id="67">
 	<s id="1">Oui, Monsieur, j'en ai déjà t'eu l'intention.</s>
 </p>
@@ -1097,13 +1097,13 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Monsieur POINTU, FRANVILLE.</head>
-<sp who="POINTU"><speaker>POINTU, ivre.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII. Monsieur Pointu, Franville.</head>
+<sp stage="drunk" who="POINTU"><speaker>POINTU, ivre.</speaker>
 <p id="1">
 	<s id="1">Votre serviteur de tout mon coeur.</s>
 </p>
 </sp>
-<sp who="FRANVILLE"><speaker>FRANVILLE, à part.</speaker>
+<sp stage="aparte" who="FRANVILLE"><speaker>FRANVILLE, à part.</speaker>
 <p id="2">
 	<s id="1">Quelle diable de visite est cela ? </s>
 	<s id='2'>Que voulez-vous, Monsieur ?</s>
@@ -1132,7 +1132,7 @@
 <sp who="POINTU"><speaker>POINTU</speaker>
 <p id="7">
 	<s id="1">De porter le quart de mes chagrins... </s>
-	<s id='2'>J'ai perdu...  </s>
+	<s id='2'>J'ai perdu... </s>
 </p>
 </sp>
 <sp who="FRANVILLE"><speaker>FRANVILLE à part.</speaker>
@@ -1142,7 +1142,7 @@
 </sp>
 <sp who="POINTU"><speaker>POINTU</speaker>
 <p id="9">
-	<s id="1">J'ai perdu la gaieté...   et je succombe sous le poids de...</s>
+	<s id="1">J'ai perdu la gaieté...  et je succombe sous le poids de...</s>
 </p>
 </sp>
 <sp who="FRANVILLE"><speaker>FRANVILLE à part.</speaker>
@@ -1175,11 +1175,11 @@
 <p id="15">
 	<s id="1">Ce n'est rien que cela, Monsieur ; j'ai une femme qui est mon tourment ; quand elle était jeune elle me faisait...</s>
 </p>
-<stage type="action">Hoquet.</stage>
+<stage type="hiccup">Hoquet.</stage>
 <p id="16">
 	<s id="1">Elle me faisait enrager, mais j'en venais à bout parce que j'étais jeune aussi ; a présent qu'elle est vieille, elle ne peut plus...</s>
 </p>
-<stage type="action">Hoquet.</stage>
+<stage type="hiccup">Hoquet.</stage>
 <p id="17">
 	<s id="1">Elle ne peut plus me souffrir elle me reproche tout. </s>
 	<s id='2'>Je n'ai qu'une consolation, c'est de boire un petit coup de temps en temps, avec modération ; cependant il n'y paraît jamais. </s>
@@ -1200,10 +1200,10 @@
 	<s id='3'>Tenez, Monsieur, par exemple, aujourd'hui, on ne se douterait pas que j'aie bu. </s>
 	<s id='4'>Eh bien ! </s>
 	<s id='5'>Croiriez vous, je n'ose pas rentrer à la maison. </s>
-	<s id='6'>Sitôt qu'elle va me sentir seulement, elle va me faire un sabbat d'enragé, et cependant je n'ai pas l'haleine chargée du tout...  </s>
+	<s id='6'>Sitôt qu'elle va me sentir seulement, elle va me faire un sabbat d'enragé, et cependant je n'ai pas l'haleine chargée du tout... </s>
 	<s id='7'>Tenez, voyez plutôt.</s>
 </p>
-<stage type="action">Il lui fait un hoquet sur le nez.</stage>
+<stage type="hiccup">Il lui fait un hoquet sur le nez.</stage>
 </sp>
 <sp who="FRANVILLE"><speaker>FRANVILLE.</speaker>
 <p id="20">
@@ -1282,7 +1282,7 @@
 <sp who="POINTU"><speaker>POINTU</speaker>
 <p id="33">
 	<s id="1">C'est bien naturel... </s>
-	<s id='2'>  Tenez, mon cher ami, dans tout ça je vous regarde comme mon sauveur. </s>
+	<s id='2'> Tenez, mon cher ami, dans tout ça je vous regarde comme mon sauveur. </s>
 	<s id='3'>J'ai dans la tête un projet pour punir ce coquin-là, pour me venger de sa mère, et pour me contenter moi sans qu'on ait rien à me reprocher.</s>
 </p>
 </sp>
@@ -1348,17 +1348,17 @@
 </sp>
 </div2>
 <div2 type="scene" n="7"><head>SCÈNE VII.</head>
-<stage type="description">Franvile seul, sur le théâtre. On entend l'autre qui parle avec différentes voix.</stage>
+<stage type="alone/voice">Franvile seul, sur le théâtre. On entend l'autre qui parle avec différentes voix.</stage>
 <sp who='EN DEDANS'><speaker>EN DEDANS.</speaker>
 <p id="1">
 	<s id="1">Eh ! </s>
 	<s id='2'>Quoi, c'est vous, mon père... </s>
-	<s id='3'>  Comment, coquin, te voilà ici... </s>
-	<s id='4'>  Est-ce que vous connaissez Monsieur le Directeur ?... </s>
-	<s id='5'>  Misérable ! </s>
+	<s id='3'> Comment, coquin, te voilà ici... </s>
+	<s id='4'> Est-ce que vous connaissez Monsieur le Directeur ?... </s>
+	<s id='5'> Misérable ! </s>
 	<s id='6'>N'as tu pas de honte ?... </s>
-	<s id='7'>  Mais mon pere... </s>
-	<s id='8'>  Tais-toi, tu es un gueux, un mauvais sujet.</s>
+	<s id='7'> Mais mon pere... </s>
+	<s id='8'> Tais-toi, tu es un gueux, un mauvais sujet.</s>
 </p>
 </sp>
 <sp who="FRANVILLE"><speaker>FRANVILLE.</speaker>
@@ -1377,7 +1377,7 @@
 	<s id="1">Ah ! </s>
 	<s id='2'>Parbleu, je serais curieux de savoir lequel est le plus sou des deux. </s>
 	<s id='3'>Si le fils savait la proposition que le père m'a faite, cela lui fournirait la réplique... </s>
-	<s id='4'>  Si mon Associé pouvait venir ! </s>
+	<s id='4'> Si mon Associé pouvait venir ! </s>
 	<s id='5'>Mais, quelle est cette Dame ?</s>
 </p>
 </sp>
@@ -1388,7 +1388,7 @@
 	<s id="1">Madame, puis-je vous être bon à quelque chose ?</s>
 </p>
 </sp>
-<sp who="Madame POINTU"><speaker>Madame POINTU, en colere.</speaker>
+<sp stage="anger" who="Madame POINTU"><speaker>Madame POINTU, en colère.</speaker>
 <p id="2">
 	<s id="1">Né, né, né, n'êtes-vous pas Mon, monsieur F. F. Fr. Franville ?</s>
 </p>
@@ -1454,7 +1454,7 @@
 	<s id='2'>Que puis-je faire pour vous ?</s>
 </p>
 </sp>
-<sp who="MADAME POINTU"><speaker>MADAME POINTU, se relevant.</speaker>
+<sp stage="stand" who="MADAME POINTU"><speaker>MADAME POINTU, se relevant.</speaker>
 <p id="14">
 	<s id="1">Ah ! </s>
 	<s id='2'>Monsieur, vous avez des pou pouvoirs suffisants pour essuyer mes mes larmes.</s>
@@ -1491,9 +1491,9 @@
 	<s id='2'>Voilà la lettre que vous venez de lui écrire.</s>
 </p>
 </sp>
-<sp who='FRANVILLE'><speaker>FRANVILLE, prend lettre, et lit haut.</speaker>
+<sp stage="get/read" who='FRANVILLE'><speaker>FRANVILLE, prend lettre, et lit haut.</speaker>
 <p id="20">
-	<s id="1">« Monsieur, je ne puis terminer avec vous sans  vous connaître, ainsi faites-moi l'amitié de passer chez moi demain, et si vous pouvez me convenir, je vous ferai votre engagement...  » </s>
+	<s id="1">« Monsieur, je ne puis terminer avec vous sans vous connaître, ainsi faites-moi l'amitié de passer chez moi demain, et si vous pouvez me convenir, je vous ferai votre engagement...  » </s>
 	<s id='2'>Mais c'est la lettre que j'ai donnée à ce valet Allemand, à ce sourd.</s>
 </p>
 </sp>
@@ -1568,8 +1568,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="9"><head>SCÉˆNE IX.</head>
-<stage type="description">Franville seul sur le théâtre. On entend plusieurs voix dans le cabinet.</stage>
+<div2 type="scene" n="9"><head>SCÉNE IX.</head>
+<stage type="alone/voice">Franville seul sur le théâtre. On entend plusieurs voix dans le cabinet.</stage>
 <sp who="MADAME POINTU"><speaker>MADAME POINTU</speaker>
 <p id="1">
 	<s id="1">Comment ! Ca ca canailles, vous voilà donc !</s>
@@ -1627,7 +1627,7 @@
 	<s id='2'>Co co coquin, tu me perds le respect ? </s>
 	<s id='3'>Attends, attends.</s>
 </p>
-<stage type="action">Elle frappe avec la béquille.</stage>
+<stage type="hit">Elle frappe avec la béquille.</stage>
 </sp>
 <sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 <p id='12'>
@@ -1649,7 +1649,7 @@
 	<s id='1'>Ahi, ahi !...</s>
 </p>
 </sp>
-<sp who='FRANVILLE'><speaker>FRANVILLE, riant.</speaker>
+<sp stage="laugh" who='FRANVILLE'><speaker>FRANVILLE, riant.</speaker>
 <p id="1">
 	<s id='1'>Ah, ah, ah, ah, ah. </s>
 	<s id='2'>Parbleu, voilà une excellente matinée pour moi. </s>
@@ -1669,7 +1669,7 @@
 	<s id="1">Monsieur, qui a-t-il pour votre service ? </s>
 </p>
 </sp>
-<sp who="L'ABBÉ"><speaker>L'ABBÉ, d'un ton précieux.</speaker>
+<sp stage="pretentious" who="L'ABBÉ"><speaker>L'ABBÉ, d'un ton précieux.</speaker>
 <p id='3'>
 	<s id='1'>Monsieur, je suis venu avec une de mes parentes qui avait à vous parler pour affaire, et je l'attends à la porte depuis assez longtemps.</s>
 </p>
@@ -1786,7 +1786,7 @@
 	<s id='3'>Portez votre jambe en arrière, mettez vivement vos deux poings dans la poche gauche, et tournez la tête à droite avec un oeil farouche. </s>
 	<s id='4'>Le voici.</s>
 </p>
-<stage type="action">Il fait le geste.</stage>
+<stage type="imitate">Il fait le geste.</stage>
 <p id="24">
 	<s id="1">Ils se battent, Monsieur, l'un des deux chefs est désarmé par l'autre ; exprimez-moi son désespoir ?</s>
 </p>
@@ -1794,7 +1794,7 @@
 	<s id="1">« Frappez un grand coup de poing de la main droite sur le coeur, couvrez-vous le front de la main gauche, renversez la tête en arrière les yeux fermés, et resserrez les épaules en avant. </s>
 	<s id='2'>Le voilà. »</s>
 </p>
-<stage type="action">Il fait le geste.</stage>
+<stage type="imitate">Il fait le geste.</stage>
 <p id="26">
 	<s id="1">À ce mouvement là, Monsieur, son casque est tombé, sa tête se découvre, et son vainqueur le reconnaît. </s>
 	<s id='2'>C'est sa maîtresse, c'est son père, son fils, tout ce que l'on voudra. </s>
@@ -1803,7 +1803,7 @@
 <p id="27">
 	<s id="1">« Renversez-vous et ployez sur la partie gauche, tendez les deux mains en avant, et restez la bouche ouverte. »</s>
 </p>
-<stage type="action">Il fait le geste.</stage>
+<stage type="imitate">Il fait le geste.</stage>
 	<l id='1'>« Eh ! Quoi, c'est vous. »</l>
 <p id="29">
 	<s id='1'>L'autre qui le reconnaît alors, lui pardonne sa victoire, et exprime l'amour, la tendresse qui étouffe la rancune ; et le voici.</s>
@@ -1821,10 +1821,11 @@
 <sp who="FRANVILLE"><speaker>FRANVILLE.</speaker>
 <p id="31">
 	<s id="1">C'est superbe, Monsieur, je sens toute l'utilité d'un travail aussi précieux... </s>
-	<s id='2'>Mais pardon, cela vous fatigue trop, et...  </s>
+	<s id='2'>Mais pardon, cela vous fatigue trop, et... </s>
 </p>
 </sp>
 <sp who="L'ABBÉ"><speaker>L'ABBÉ.</speaker>
+<note type="C">Mithridate est une Tragédie de Jean Racine. Le personnage est un roi en guerre contre les Romains.</note>
 <p id="32">
 	<s id="1">Non, au contraire... </s>
 	<s id='2'>Tenez, un exemple dans le grand tragique.</s>
@@ -1833,8 +1834,7 @@
 	<l id='4'>J'entends partir la foudre et gronder le tonnerre !</l>
 	<l id='5'>Un serpent venimeux me déchire le coeur !</l>
 	<l id='6'>Dieux ! Quels affreux tourments ! Je succombe, je meurs. »</l>
-<stage type="action">En disant ces vers, l'Acteur roule des yeux égarés, marche à grands pas précipités, ou s'arrête tout à coup ; se tord les bras, 
-et termine tous ces mouvements convulsifs par se jeter dans un fauteuil.</stage>
+<stage type="imitate">En disant ces vers, l'acteur roule des yeux égarés, marche à grands pas précipités, ou s'arrête tout à coup ; se tord les bras, et termine tous ces mouvements convulsifs par se jeter dans un fauteuil.</stage>
 <p id="31">
 	<s id="1">Et en voici d'un genre plus tranquille... </s>
 	<s id='2'>Si vous aviez à jouer la Tragédie de Mithridate en Pantomime, comment vous y prendriez-vous.</s>
@@ -1851,19 +1851,19 @@ et termine tous ces mouvements convulsifs par se jeter dans un fauteuil.</stage>
 	<s id='2'>Tenez, écoutez le commencement. </s>
 	<s id='3'>C'est Zipharès qui parle à son confident, lorsqu'il croit Mithridate mort ; il lui dit : </s>
 </p>
-<stage type="action">En déclamant ce morceau, l'Acteur fait des gestes ridicules, mais cependant analogues aux vers qu'il débite, et il les explique à mesure au Directeur qui ne les comprend pas.</stage> 
+<stage type="declamation">En déclamant ce morceau, l'Acteur fait des gestes ridicules, mais cependant analogues aux vers qu'il débite, et il les explique à mesure au Directeur qui ne les comprend pas.</stage> 
 <note type="C">Vers tirés de Mithridate de Racine, Acte I, sc. 1, v. 9-14 </note>
 <stage type="action">Il tourne les mains sur sa tête, pour indiquer la couronne.</stage>
 	<l id='7'>Ainsi ce Roi qui seul et pendant quarante ans</l>
-<stage type="action">Il montre son pouce.</stage>
+<stage type="show">Il montre son pouce.</stage>
 	<l id='8'>Lassa tout ce que Rome eut de chefs importants,</l>
-<stage type="action">Il présente quatre fois ses dix doigts.</stage>
+<stage type="show">Il présente quatre fois ses dix doigts.</stage>
 	<l id='9'>Et qui dans l'Orient balançant la fortune,</l>
-<stage type="action">Il fait avec ses deux mains l'image de la bascule.</stage>
-<stage type="action">Il tourne plusieurs fois ses deux mains sur la tête pour indiquer (dit-il) les Couronnes au pluriel.</stage>
+<stage type="show">Il fait avec ses deux mains l'image de la bascule.</stage>
+<stage type="show">Il tourne plusieurs fois ses deux mains sur la tête pour indiquer (dit-il) les Couronnes au pluriel.</stage>
 	<l id='10'>Vengeait de tous les Rois la querelle commune,</l>
 	<l id='11'>Meurt et laisse après lui pour venger son trépas</l>
-<stage type="action">Il montre les deux premiers doigts de chaque main et les croise comme quand on excite les chats ou les chiens à se battre. </stage>
+<stage type="show">Il montre les deux premiers doigts de chaque main et les croise comme quand on excite les chats ou les chiens à se battre. </stage>
 	<l id='12'>Deux fils infortunés qui ne s'accordent pas.</l>
 	<l id='13'>Croyez-vous que ce petit traité l'à aura quelque succès.</l>
 </sp>
@@ -1897,18 +1897,18 @@ et termine tous ces mouvements convulsifs par se jeter dans un fauteuil.</stage>
 <stage type="entrance">L'Abbé entre.</stage>
 </sp>
 </div2>
-<div2 type="scene" n='11'><head>SCÈˆNE XI.</head>
-<sp who='FRANVILLE'><speaker>FRANVILLE, seul.</speaker>
+<div2 type="scene" n='11'><head>SCÈNE XI.</head>
+<sp stage="alone" who='FRANVILLE'><speaker>FRANVILLE, seul.</speaker>
 <p id='1'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Parbleu, nous allons faire un petit dîner de famille qui j'espère sera réjouissant. </s>
 	<s id='3'>Voyons un peu comment ou le reçoit.</s>
 </p>
-<stage type="action">Il va pour écouter à la porte.</stage>
+<stage type="listen">Il va pour écouter à la porte.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='12'><head>SCÈNE XII. Franville, Un Fiacre.</head>
-<sp who='LE FIACRE'><speaker>LE FIACRE, d'une voix enrouée.</speaker>
+<sp stage="cough" who='LE FIACRE'><speaker>LE FIACRE, d'une voix enrouée.</speaker>
 <p id='1'>
 	<s id='1'>Parlez donc, Monsieur, est-ce qu'on se gobarge de moi donc, de me faire rester comme une enseigne par le temps qu'il fait ?</s>
 </p>
@@ -1948,16 +1948,16 @@ et termine tous ces mouvements convulsifs par se jeter dans un fauteuil.</stage>
 	<s id="1">Ah ! </s>
 	<s id='2'>Morgué, parler, je n'ons pas besoin de parlemantage. C'est de l'argent qu'il me faut.</s>
 </p>
-<stage type="entrance">Franville entre dans le cabinet.</stage>
+<stage type="exit">Franville entre dans le cabinet.</stage>
 </sp>
-<sp who='LE FIACRE'><speaker>LE FIACRE sur le devant du Théâtre.</speaker>
+<sp stage="location" who='LE FIACRE'><speaker>LE FIACRE, sur le devant du Théâtre.</speaker>
 <p id='4'>
 	<s id='1'>Oui, cherche ; vas, tu les trouveras... </s>
 	<s id='2'>Ah ! </s>
 	<s id='3'>Monsieur le Directeur, vous voulez essayer les gens.</s>
 </p>
 </sp>
-<sp who='FRANVILLE'><speaker>FRANVILLE, sortant du cabinet.</speaker>
+<sp stage="entrance" who='FRANVILLE'><speaker>FRANVILLE, sortant du cabinet.</speaker>
 <p id='5'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Morbleu, il n'y a plus personne, ils sont sortis par derrière. </s>
@@ -2029,7 +2029,7 @@ et termine tous ces mouvements convulsifs par se jeter dans un fauteuil.</stage>
 	<s id='2'>Ben, je vas vous faire cabrer, moi.</s>
 </p>
 </sp>
-<sp who='FRANVILLE'><speaker>FRANVILLE, appelle.</speaker>
+<sp stage="loud" who='FRANVILLE'><speaker>FRANVILLE, appelle.</speaker>
 <p id='18'>
 	<s id='1'>La Pierre ! </s>
 	<s id='2'>Oh la Pierre !</s>
@@ -2041,7 +2041,7 @@ et termine tous ces mouvements convulsifs par se jeter dans un fauteuil.</stage>
 	<s id='2'>Palsangué, je me ris de la Pierre et de la butte comme de Colin Tampon ; mais morgué, j'allons voir si vous vous rirez du Commissaire, vous, Monsieur le débaucheur ; j'allons voir çà.</s>
 </p>
 </sp>
-<sp who='FRANVILLE'><speaker>FRANVILLE, le poussant.</speaker>
+<sp stage="push" who='FRANVILLE'><speaker>FRANVILLE, le poussant.</speaker>
 <p id='20'>
 	<s id='1'>Oui, oui, sors d'ici, toujours.</s>
 </p>
@@ -2052,7 +2052,7 @@ et termine tous ces mouvements convulsifs par se jeter dans un fauteuil.</stage>
 	<s id='2'>Ventrebleu, ne nous poussez pas, car je sommes rétifs, je vous en avertis, et je pourrions vous lâcher une ruade en manière de salut.</s>
 </p>
 </sp>
-<sp who='FRANVILLE'><speaker>FRANVILLE, appelant toujours.</speaker>
+<sp stage="loud" who='FRANVILLE'><speaker>FRANVILLE, appelant toujours.</speaker>
 <p id='22'>
 	<s id='1'>La Pierre, viendras-tu donc, maraud ?</s>
 </p>
@@ -2063,22 +2063,22 @@ et termine tous ces mouvements convulsifs par se jeter dans un fauteuil.</stage>
 	<s id='2'>Donc ! </s>
 	<s id=''>Eh ! Donc note bourgeois. </s>
 </p>
-<stage type="action">Il fait comme quand on veut retenir des chevaux.</stage>
-<p id=''>
-	<s id=''>Dia, dia, bride en main. Le Commissaire demeure ici devant. J'allons savoir la définition de ça.</s>
+<stage type="imitate/lazzi">Il fait comme quand on veut retenir des chevaux.</stage>
+<p id='24'>
+	<s id='1'>Dia, dia, bride en main. Le Commissaire demeure ici devant. J'allons savoir la définition de ça.</s>
 </p>
 <stage type="exit">Il s'en va.</stage>
 </sp>
 </div2>
 <div2 type="scene" n="13"><head>SCÈNE XIII.</head>
-<sp who="FRANVILLE"><speaker>FRANVILLE, seul.</speaker>
+<sp stage="alone" who="FRANVILLE"><speaker>FRANVILLE, seul.</speaker>
 <p id="1">
 	<s id="1">Au diable soit le maudit homme ! </s>
 	<s id='2'>Et ce coquin de La Pierre, tenez, qui me laisse seul ici depuis ce matin, pour me faire une commission. </s>
 	<s id='3'>Mais je n'en reviens pas qu'ils soient partis tous, comme cela, sans me rien dire ! </s>
 	<s id='4'>Ils se sont trouvés quatre, ils auront voulu profiter du fiacre pour s'en aller ensemble, ils sont peut-être en bas dans son carrosse ; je m'en vas voir.</s>
 </p>
-<stage type="action">Comme il va pour sortir, il est arrêté par le Commissaire qui entre.</stage>
+<stage type="exit/stop/entrance">Comme il va pour sortir, il est arrêté par le Commissaire qui entre.</stage>
 </sp>
 </div2>
 <div2 type="scene" n="14"><head>SCÈˆNE XIV ET DERNIÈRE. Franville, Un Commissaire, en robe.</head>
@@ -2216,31 +2216,31 @@ et termine tous ces mouvements convulsifs par se jeter dans un fauteuil.</stage>
 	<s id='1'>Eh ! </s>
 	<s id='2'>Bien, Monsieur, attention : vous voyez d'abord le Commissaire. </s>
 </p>
-<stage type="costume">Il ôte sa robe et sa perruque, il paraît sous la capote de Fiacre. Il change sa voix à mesure.</stage>
+<stage type="dress/imitate">Il ôte sa robe et sa perruque, il paraît sous la capote de Fiacre. Il change sa voix à mesure.</stage>
 <p id='24'>
 	<s id='1'>V'là le Fiacre not' Bourgeois.</s>
 </p>
-<stage type="action">Il jette la capote.</stage>
+<stage type="dress/throw">Il jette la capote.</stage>
 <p id='25'>
 	<s id='1'>Voici Monsieur l'Abbé. </s>
 </p>
-<stage type="action">Il tire d'une des poches la perruque de Pointu.</stage>
+<stage type="search/show">Il tire d'une des poches la perruque de Pointu.</stage>
 <p id='26'>
 	<s id='1'>Voici Monsieur Eustache Pointu le père.</s>
 </p>
-<stage type="action">Il tire de l'autre poche un Mantelet. </stage>
+<stage type="search/show">Il tire de l'autre poche un Mantelet. </stage>
 <p id='27'>
 	<s id='1'>Voilà Madame Poin, Pointu la mère.</s>
 </p>
-<stage type="action">Il déboutonne l'habit d'Abbé, et laisse voir la veste du beau Léandre.</stage>
+<stage type="dress">Il déboutonne l'habit d'Abbé, et laisse voir la veste du beau Léandre.</stage>
 <p id='28'>
 	<s id='1'>Monsieur, je suis le jeune homme dont auquel. </s>
 </p>
-<stage type="action">Il ouvre la veste on voit le gilet de l'Allemand.</stage>
+<stage type="dress">Il ouvre la veste on voit le gilet de l'Allemand.</stage>
 <p id='29'>
 	<s id='1'>Ly être la commissionaire de la lettre, Monsir. </s>
 </p>
-<stage type="action">Il tire de son gousset la contre-marque du Souffleur.</stage>
+<stage type="search/show">Il tire de son gousset la contre-marque du Souffleur.</stage>
 <p id='30'>
 	<s id=''>Je viens, Monsieur, vous représenter le billet d'entrée que vous m'avez fourni pour savoir, Monsieur, si vous aviez besoin de mon petit service.</s>
 </p>
@@ -2269,7 +2269,7 @@ et termine tous ces mouvements convulsifs par se jeter dans un fauteuil.</stage>
 	<s id='1'>Monsieur, si le talent chez moi ne répond pas à la bonne volonté, souvenez-vous toujours du Proverbe.</s>
 </p>
 	<l id='14'>ON FAIT CE QU'ON PEUT,</l>
-	<l id='15'>ET NON CE QU'ON VEUT.  </l>
+	<l id='15'>ET NON CE QU'ON VEUT. </l>
 </sp>
 </div2>
 </div1>

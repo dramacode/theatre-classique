@@ -42,15 +42,15 @@
 				<nombre value=""></nombre>		
 			</performance>
 <castList><head>ACTEURS</head>
-       	<castItem><role id="FURIBON" sex="2" type="H" statut="fermier" age="A" stat_amour='néant'>FURIBON</role>, Fermier, Chicanneur.</castItem>
-       	<castItem><role id="ANTOINETTE" sex="2" type="H" statut="bourgeois" age="A" stat_amour='néant'>ANTOINETTE</role>, Fille de Furibon.</castItem>
-       	<castItem><role id="MICHAU" sex="2" type="H" statut="meunier" age="A" stat_amour='néant'>MICHAU</role>, Meunier.</castItem>
-       	<castItem><role id="FRANÇOISE" sex="2" type="H" statut="servante" age="A" stat_amour='néant'>FRANÇOISE</role>, Servante de Furibon.</castItem>
-       	<castItem><role id="PATAU" sex="2" type="H" statut="huissier" age="A" stat_amour='néant'>PATAU</role>, Huissier, ami de Furibon.</castItem>
-       	<castItem><role id="THIBAUT" sex="2" type="H" statut="garde-moulin" age="A" stat_amour='néant'>THIBAUT</role>, Garde-Moulin.</castItem>
-       	<castItem><role id="FURET" sex="2" type="H" statut="commissaire" age="A" stat_amour='néant'>FURET</role>, Commissionnaire.</castItem>
-       	<castItem><role id="PAYSANS" sex="9" type="H" statut="paysan" age="A" stat_amour='néant'>PAYSANS</role>.</castItem>
-       	<castItem><role id="MEUNIERS" sex="9" type="H" statut="meunier" age="A" stat_amour='néant'>MEUNIERS</role>.</castItem>
+    	<castItem><role id="FURIBON" sex="2" type="H" statut="fermier" age="A" stat_amour='néant'>FURIBON</role>, Fermier, Chicanneur.</castItem>
+    	<castItem><role id="ANTOINETTE" sex="2" type="H" statut="bourgeois" age="A" stat_amour='néant'>ANTOINETTE</role>, Fille de Furibon.</castItem>
+    	<castItem><role id="MICHAU" sex="2" type="H" statut="meunier" age="A" stat_amour='néant'>MICHAU</role>, Meunier.</castItem>
+    	<castItem><role id="FRANÇOISE" sex="2" type="H" statut="servante" age="A" stat_amour='néant'>FRANÇOISE</role>, Servante de Furibon.</castItem>
+    	<castItem><role id="PATAU" sex="2" type="H" statut="huissier" age="A" stat_amour='néant'>PATAU</role>, Huissier, ami de Furibon.</castItem>
+    	<castItem><role id="THIBAUT" sex="2" type="H" statut="garde-moulin" age="A" stat_amour='néant'>THIBAUT</role>, Garde-Moulin.</castItem>
+    	<castItem><role id="FURET" sex="2" type="H" statut="commissaire" age="A" stat_amour='néant'>FURET</role>, Commissionnaire.</castItem>
+    	<castItem><role id="PAYSANS" sex="9" type="H" statut="paysan" age="A" stat_amour='néant'>PAYSANS</role>.</castItem>
+    	<castItem><role id="MEUNIERS" sex="9" type="H" statut="meunier" age="A" stat_amour='néant'>MEUNIERS</role>.</castItem>
  
 </castList>
 <set location='Le Mans' country='France' periode='XVIIIème' link=''>La Scène est au Mans.</set>
@@ -69,10 +69,10 @@
 	<l id='5'>Cette paix flatte autant mon âme</l>
 	<l id='6'>Que la vôtre y trouve d'appas.</l>
 	<l id='7'>Je vous dirai bien plus: une secrète flamme</l>
-	<l id='8' part='i'>Pour vous.... Mais ma pudeur...</l>
+	<l id='8' part="i">Pour vous.... Mais ma pudeur...</l>
 </sp>
 <sp who='MICHAU'><speaker>MICHAU.</speaker>
-	<l id='8' part='f'>Quel est cet embarras ?</l>
+	<l id='8' part="f">Quel est cet embarras ?</l>
 	<l id='9'>Si j'eus le bonheur de te plaire,</l>
 	<l id='10'>Pourquoi, belle Antoinette, en ferais-tu mystère ?</l>
 <stage type="music">Air : des Fraises.</stage>
@@ -172,7 +172,7 @@
 </sp>
 <sp who='MICHAU, ANTOINETTE'><speaker>ENSEMBLE.</speaker>
 	<l id='75'>Vive, vive l'allégresse;</l>
-	<l id='76'>Entre nous plus de procès.  </l>
+	<l id='76'>Entre nous plus de procès. </l>
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Furibon, Michau, Antoinette.</head>
@@ -238,7 +238,7 @@
 	<l id='114'>La bonne aventure.</l>
 </sp>
 <sp who='FURIBON'><speaker>FURIBON.</speaker>
-	<l id='115'>Mais j'étais en peine de vous.  </l>
+	<l id='115'>Mais j'étais en peine de vous. </l>
 	<l id='116'>On vient de commencer la danse:</l>
 	<l id='117'>Chacun vous demande, et l'on pense</l>
 	<l id='118'>A faire sauter les époux.</l>
@@ -265,7 +265,7 @@
 <stage type="[N/A]">Il tire l'écritoire.</stage>
 </sp>
 <sp who='FURIBON'><speaker>FURIBON.</speaker>
-	<l id='129'>Il faut, mon cher Patau, prendre une route sûre,  </l>
+	<l id='129'>Il faut, mon cher Patau, prendre une route sûre, </l>
 	<l id='130'>Pour assigner Michau demain de grand matin.</l>
 </sp>
 <sp who='PATAU'><speaker>PATAU.</speaker>
@@ -299,7 +299,7 @@
 	<l id='151'>Oh ! Vous vous moquez tout-à-fait.</l>
 	<l id='152'>Je n'aspire qu'à votre estime.</l>
 	<l id='153'>Qui moi, vous parler d'intérêt ?</l>
-	<l id='154'>C'est votre bien seul qui m'anime.  </l>
+	<l id='154'>C'est votre bien seul qui m'anime. </l>
 <stage type="music">Air Noté, N°4.</stage>
 	<l id='155'>Le plus petit exploit</l>
 	<l id='156'>Toujours me plaît :</l>
@@ -332,7 +332,7 @@
 </sp>
 <sp who='FURIBON'><speaker>FURIBON.</speaker>
 	<l id='175'>Je suis sûr de Catau, de Suson, de Nannette ;</l>
-	<l id='176'>Charlotte, Madelon, toutes m'ont bien promis  </l>
+	<l id='176'>Charlotte, Madelon, toutes m'ont bien promis </l>
 	<l id='177'>De me livrer mes ennemis:</l>
 	<l id='178'>Mais je m'alarme d'Antoinette.</l>
 <stage type="music">Air: Le tout par nature.</stage>
@@ -392,7 +392,7 @@
 	<l id='215'>Quand je le prends devant témoin.</l>
 <stage type="music">Air Noté, N° 5.</stage>
 	<l id='216'>Au coeur né sensible</l>
-	<l id='217'>L'éclat est nuisible.  </l>
+	<l id='217'>L'éclat est nuisible. </l>
 	<l id='218'>Il veut soupirer loin du bruit.</l>
 	<l id='219'>L'amour invisible</l>
 	<l id='220'>D'un réduit paisible</l>
@@ -418,10 +418,10 @@
 	<l id='232'>Lon, lan, là, derirette.</l>
 </sp>
 <sp who='ANTOINETTE'><speaker>ANTOINETTE.</speaker>
-	<l id='233' part='i'>S'il refusait....</l>
+	<l id='233' part="i">S'il refusait....</l>
 </sp>
 <sp who='FRANÇOISE'><speaker>FRANÇOISE.</speaker>
-	<l id='233' part='f'>Oh ! que nenni,</l>
+	<l id='233' part="f">Oh ! que nenni,</l>
 	<l id='234'>Lon, lan, là, deriri.</l>
 <stage type="music">Air : Je ne suis né ni Roi ni Prince.</stage>
 	<l id='235'>Le croyez-vous donc si novice ?</l>
@@ -433,7 +433,7 @@
 </sp>
 <sp who='FRANÇOISE'><speaker>FRANÇOISE.</speaker>
 	<l id='239'>Tâchez qu'il vous prouve souvent</l>
-	<l id='240'>Si c'est de la sorte qu'il aime.  </l>
+	<l id='240'>Si c'est de la sorte qu'il aime. </l>
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Furibon, Antoinette, Ftançoise.</head>
@@ -484,7 +484,7 @@
 	<l id='267'>A mes intentions ils n'ont donné les mains</l>
 	<l id='268'>Que pour augmenter leur fortune.</l>
 	<l id='269'>Sers-nous dans la cause commune.</l>
-	<l id='270'>Ton époux dans son Cabinet  </l>
+	<l id='270'>Ton époux dans son Cabinet </l>
 	<l id='271'>A des contrats et des quittances</l>
 	<l id='272'>Qui font toutes mes espérances;</l>
 	<l id='273'>C'est à toi d'accomplir l'ambitieux projet.</l>
@@ -524,7 +524,7 @@
 <stage type="music">Air : Ciel ! l'Univers va-t-il donc se dissoudre.</stage>
 	<l id='296'>C'est justement l'espoir qui me lutine,</l>
 	<l id='297'>Depuis long-temps il m'occupe en ces lieux</l>
-	<l id='298'>Je me doutais bien, coquine,  </l>
+	<l id='298'>Je me doutais bien, coquine, </l>
 	<l id='299'>Que tu combattrais mes voeux ;</l>
 	<l id='300'>Mais sois mutine,</l>
 	<l id='301'>Si tu le veux,</l>
@@ -535,10 +535,10 @@
 <stage type="[N/A]">Il veut sortir.</stage>
 </sp>
 <sp who='ANTOINETTE'><speaker>ANTOINETTE, l'arrêtant.</speaker>
-	<l id='306' part='i'>Ah ! mon père, arrêtez.</l>
+	<l id='306' part="i">Ah ! mon père, arrêtez.</l>
 </sp>
 <sp who='FURIBON'><speaker>FURIBON.</speaker>
-	<l id='306' part='f'>Je vais de ce pas même</l>
+	<l id='306' part="f">Je vais de ce pas même</l>
 	<l id='307'>Charger un autre du projet.</l>
 	<l id='308'>Toi, si tu trahis mon secret,</l>
 	<l id='309'>Crains tout de mon courroux extrême:</l>
@@ -663,7 +663,7 @@
 <sp who='MICHAU'><speaker>MICHAU.</speaker>
 	<l id='392'>N'entends-je pas que l'on crie ?</l>
 	<l id='393'>Mais ce n'est point raillerie :</l>
-	<l id='394'>Je vois Thibaut... (bis.)  </l>
+	<l id='394'>Je vois Thibaut... (bis.) </l>
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Michau, Thibaut.</head>
@@ -677,10 +677,10 @@
 	<l id='399'>Quoi ! Vous ignorez le panneau ?</l>
 </sp>
 <sp who='MICHAU'><speaker>MICHAU.</speaker>
-	<l id='400' part='i'>Oui.</l>
+	<l id='400' part="i">Oui.</l>
 </sp>
 <sp who='THIBAUT'><speaker>THIBAUT.</speaker>
-	<l id='400' part='f'>Je tremble pour votre peau.</l>
+	<l id='400' part="f">Je tremble pour votre peau.</l>
 </sp>
 <sp who='MICHAU'><speaker>MICHAU.</speaker>
 <stage type="music">Air : Des Nymphes allaient par le coche.</stage>
@@ -698,7 +698,7 @@
 	<l id='410'>Nous entendons nommer Michau :</l>
 	<l id='411'>Plus loin, votre frère Jacot,</l>
 	<l id='412'>Redoublant le bruit, fait que j'ouvre ;</l>
-	<l id='413'>Avec un flambeau je découvre  </l>
+	<l id='413'>Avec un flambeau je découvre </l>
 	<l id='414'>Votre beau-père, qui sortait</l>
 	<l id='415'>De chez votre frère Cadet,</l>
 	<l id='416'>Et qui courait à toutes jambes.</l>
@@ -758,7 +758,7 @@
 <sp who='MICHAU'><speaker>MICHAU.</speaker>
 	<l id='452'>Est-ce ainsi</l>
 	<l id='453'>Qu'on en use ?</l>
-	<l id='454'>Par la ruse....  </l>
+	<l id='454'>Par la ruse.... </l>
 </sp>
 <sp who='ANTOINETTE'><speaker>ANTOINETTE.</speaker>
 	<l id='455'>On t'abuse :</l>
@@ -881,9 +881,9 @@
 	<l id='536'>Ô Ciel ! Je n'ai plus de lumière !</l>
 	<l id='537'>Comment voir la fin du combat ?</l>
 <stage type="[N/A]">Elle s'assied sur le banc de pierre.</stage>
-	<l id='538' part='i'>Reposons-nous un peu. </l>
+	<l id='538' part="i">Reposons-nous un peu. </l>
 <stage type="[N/A]">Elle bâille.</stage>
-	<l id='538' part='f'>Ah ! Le sommeil me ronge.</l>
+	<l id='538' part="f">Ah ! Le sommeil me ronge.</l>
 	<l id='539'>Je crains, si je m'endors, de faire encore un songe.</l>
 	<l id='540'>Que dirai-je à mon père en cette extrémité ?</l>
 <stage type="[N/A]">Elle dit ce dernier vers en s'endormant.</stage>
@@ -915,7 +915,7 @@
 	<l id='553'>Le moyen d'être satisfait?</l>
 	<l id='554'>Vous voulez ce qu'on ne peut faire.</l>
 	<l id='555'>Désobliger n'est pas mon fait;</l>
-	<l id='556'>J'ai toujours aimé le contraire.  </l>
+	<l id='556'>J'ai toujours aimé le contraire. </l>
 </sp>
 <sp who='FURIBON'><speaker>FURIBON.</speaker>
 <stage type="music">Air : Ma Mère, j'ai dix-sept ans.</stage>
@@ -954,12 +954,12 @@
 <stage type="[N/A]">Il lui donne un soufflet, et se sauve. Thibaut le suit, et emporte le flambeau du Paysan qui éclairait Furibon.</stage>
 </sp>
 <sp who='ANTOINETTE'><speaker>ANTOINETTE, courant après eux.</speaker>
-	<l id='577' part='i'>Ah ! Cher époux !</l>
+	<l id='577' part="i">Ah ! Cher époux !</l>
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII. Furibon, Patau la main sur sa joue.</head>
 <sp who='FURIBON'><speaker>FURIBON.</speaker>
-	<l id='577' part='f'>Il faut les suivre :</l>
+	<l id='577' part="f">Il faut les suivre :</l>
 	<l id='578'>Mais, Patau, ne nous quittons pas.</l>
 	<l id='579'>Ils ont pris le flambeau que portait Nicolas.</l>
 </sp>
@@ -974,7 +974,7 @@
 	<l id='584'>Va nous rendre un fort bon office ;</l>
 	<l id='585'>Je suis charmé de cela,</l>
 	<l id='586'>Pour les attaquer en Justice.</l>
-	<l id='587'>Je consens ici de bon cour  </l>
+	<l id='587'>Je consens ici de bon cour </l>
 	<l id='588'>Que l'on t'en donne un meilleur,</l>
 	<l id='589'>Afin de les mieux excéder...</l>
 </sp>
@@ -1106,26 +1106,26 @@
 	<l id='652'>Donnez-moi ce fléau,que je vous les assomme</l>
 </sp>
 <sp who='ANTOINETTE'><speaker>ANTOINETTE.</speaker>
-	<l id='653' part='i'>Arrêtez !...</l>
+	<l id='653' part="i">Arrêtez !...</l>
 </sp>
 <sp who='FURIBON'><speaker>FURIBON, tenant le contrat.</speaker>
-	<l id='653' part='m'>Je déchire...</l>
+	<l id='653' part="m">Je déchire...</l>
 </sp>
 <sp who='ANTOINETTE'><speaker>ANTOINETTE.</speaker>
-	<l id='653' part='f'>Ô funeste transport !</l>
+	<l id='653' part="f">Ô funeste transport !</l>
 </sp>
 <sp who='PATAU'><speaker>PATAU.</speaker>
-	<l id='654' part='i'>Ah! c'est trop barguiner, exploitons.</l>
+	<l id='654' part="i">Ah! c'est trop barguiner, exploitons.</l>
 <stage type="[N/A]">En voulant frapper Michau, Parau donne un coup de fléau à Furibon, qui lâche le Contrat pour porter les deux mains à sa tete; Patau se sauve avec les Paysans.</stage>
 </sp>
 <sp who='FURIBON'><speaker>FURIBON.</speaker>
-	<l id='654' part='f'>Je suis mort.</l>
+	<l id='654' part="f">Je suis mort.</l>
 </sp>
 <sp who='ANTOINETTE'><speaker>ANTOINETTE, ramassant le Contrat.</speaker>
-	<l id='655' part='i'>Ciel !...  </l>
+	<l id='655' part="i">Ciel !... </l>
 </sp>
 <sp who='MICHAU'><speaker>MICHAU.</speaker>
-	<l id='655' part='f'>Prends notre Contrat. Allons, chère Antoinette,</l>
+	<l id='655' part="f">Prends notre Contrat. Allons, chère Antoinette,</l>
 	<l id='656'>Je suis content ; il a son fait.</l>
 </sp>
 <sp who='ANTOINETTE'><speaker>ANTOINETTE, à Furibon, qui est assis sur le banc de pierre.</speaker>
@@ -1207,7 +1207,7 @@
 <stage type="[N/A]">AU PUBLIC.</stage>
 <stage type="[N/A]">Même Air.</stage>
 	<l id='702'>Messieurs, si notre pièce aujourd'hui</l>
-	<l id='703'>N'a pas l'honneur d'avoir votre appui,  </l>
+	<l id='703'>N'a pas l'honneur d'avoir votre appui, </l>
 	<l id='704'>Attendez à demain au soir,</l>
 	<l id='705'>Et revenez nous voir :</l>
 	<l id='706'>Ce n'est pas trop d'un jour</l>

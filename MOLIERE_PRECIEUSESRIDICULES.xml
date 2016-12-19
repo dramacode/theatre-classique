@@ -5,12 +5,11 @@
 			<titleStmt>
 				<title>LES PRÉCIEUSES RIDICULES, COMÉDIE</title>
 				<author born='1622' born_location='Paris' death='1673' death_location='Paris' academie=''>MOLIÈRE</author>
-				<date>1659</date>
 			</titleStmt>
 			<publicationStmt>	
-				<p>publié par Paul FIEVRE mars 2010</p>
-			<idno></idno>
-</publicationStmt>
+				<publisher>publié par Paul FIEVRE mars 2010</publisher>
+				<idno>MOLIERE_PRECIEUSESRIDICULES</idno>
+			</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -23,7 +22,6 @@
 					<lien type="theme">Préciosité</lien>
 					<lien type="oeuvre citée">La CLélie de Madeleine de Scudery</lien>
 				</liens>	
-
 			</SourceDesc>
 		</fileDesc>
 </teiHeader>
@@ -45,7 +43,7 @@
 			<acheveImprime id='1660-01-29'>Achevé d'imprimer pour la première fois le 29 janvier 1660. Les exemplaires ont été fournis.</acheveImprime>
 		</docImprint>
 		<performance>
-			<premiere date="1659-11-18" location='Théâtre du Petit-Bourbon'>Représentée pour la première fois  sur le théâtre du Petit-Bourbon le 18e novembre 1659 par la Troupe de Monsieur, frère unique du Roi.</premiere>
+			<premiere date="1659-11-18" location='Théâtre du Petit-Bourbon'>Représentée pour la première fois sur le théâtre du Petit-Bourbon le 18e novembre 1659 par la Troupe de Monsieur, frère unique du Roi.</premiere>
 		</performance>
 <div type="preface">
 <head>Préface </head>
@@ -501,7 +499,7 @@
 	<s id='1'>Je dis, Monsieur, que vous nous donniez de l'argent, s'il vous plaît. </s>
 </p>
 </sp>
-<sp who='MASCARILLE'><speaker>MASCARILLE, lui donnant un soufflet.</speaker>
+<sp stage="fight" who='MASCARILLE'><speaker>MASCARILLE, lui donnant un soufflet.</speaker>
 <p id='7'>
 	<s id='1'>Comment, coquin, demander de l'argent à une personne de ma qualité ! </s>
 </p>
@@ -520,7 +518,7 @@
 	<s id='4'>Je vous apprendrai à vous connaître ! Ces canailles-là s'osent jouer à moi. </s>
 </p>
 </sp>
-<sp who='PREMIER-PORTEUR'><speaker>PREMIER PORTEUR, prenant un des bâtons de sa chaise.</speaker>
+<sp stage="fight" who='PREMIER-PORTEUR'><speaker>PREMIER PORTEUR, prenant un des bâtons de sa chaise.</speaker>
 <p id='10'>
 	<s id='1'>Çà ! </s>
 	<s id='2'>Payez-nous vitement ! </s>
@@ -585,7 +583,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='9'><head>SCÈNE IX. Magdelon, Cathos, Mascarille, Almanzor.</head>
-<sp who='MASCARILLE'><speaker>MASCARILLE, après avoir salué.</speaker>
+<sp stage="wave" who='MASCARILLE'><speaker>MASCARILLE, après avoir salué.</speaker>
 <p id='1'>
 	<s id='1'>Mesdames, vous serez surprises, sans doute, de l'audace de ma visite ; mais votre réputation vous attire cette méchante affaire, et le mérite a pour moi des charmes si puissants, que je cours partout après lui. </s>
 </p>
@@ -674,7 +672,7 @@
 	<s id='1'>Mais de grâce, Monsieur, ne soyez pas inexorable à ce fauteuil qui vous tend les bras il y a un quart d'heure ; contentez un peu l'envie qu'il a de vous embrasser. </s>
 </p>
 </sp>
-<sp who='MASCARILLE'><speaker>MASCARILLE, après s'être peigné et avoir ajusté ses canons.</speaker>
+<sp stage="dress" who='MASCARILLE'><speaker>MASCARILLE, après s'être peigné et avoir ajusté ses canons.</speaker>
 <p id='17'>
 	<s id='1'>Eh bien, Mesdames, que dites-vous de Paris ? </s>
 </p>
@@ -1179,7 +1177,7 @@
 	<s id='1'>Je vous assure que nous sympathisons vous et moi : j'ai une délicatesse furieuse pour tout ce que je porte ; et jusqu'à mes chaussettes, je ne puis rien souffrir qui ne soit de la bonne ouvrière. </s>
 </p>
 </sp>
-<sp who='MASCARILLE'><speaker>MASCARILLE, s'écriant brusquement.</speaker>
+<sp stage="loud" who='MASCARILLE'><speaker>MASCARILLE, s'écriant brusquement.</speaker>
 <p id='107'>
 	<s id='1'>Ahi, ahi, ahi, doucement ! </s>
 	<s id='2'>Dieu me damne, Mesdames, c'est fort mal en user ; j'ai à me plaindre de votre procédé ; cela n'est pas honnête. </s>
@@ -1281,7 +1279,7 @@
 	<s id='2'>Vicomte ! </s>
 </p>
 </sp>
-<sp who='JODELET'><speaker>JODELET, s'embrassant l'un l'autre.</speaker>
+<sp stage="hugh" who='JODELET'><speaker>JODELET, s'embrassant l'un l'autre.</speaker>
 <p id='2'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Marquis ! </s>
@@ -1364,7 +1362,7 @@
 	<s id='1'>Et dans des lieux où il faisait fort chaud. </s>
 </p>
 </sp>
-<sp who='MASCARILLE'><speaker>MASCARILLE, les regardant toutes deux.</speaker>
+<sp stage="watch" who='MASCARILLE'><speaker>MASCARILLE, les regardant toutes deux.</speaker>
 <p id='18'>
 	<s id='1'>Oui ; mais non pas si chaud qu'ici. </s>
 	<s id='2'>Hai, hai, hai ! </s>
@@ -1451,7 +1449,7 @@
 	<s id='1'>Voici un autre coup qui me perça de part en part à l'attaque de Gravelines. </s>
 </p>
 </sp>
-<sp who='MASCARILLE'><speaker>MASCARILLE, mettant la main sur le bouton de son haut-de-chausses.</speaker>
+<sp stage="dress" who='MASCARILLE'><speaker>MASCARILLE, mettant la main sur le bouton de son haut-de-chausses.</speaker>
 <p id='34'>
 	<s id='1'>Je vais vous montrer une furieuse plaie. </s>
 </p>
@@ -1631,7 +1629,7 @@
 	<s id='1'>Allons donc, mes chères, prenez place. </s>
 </p>
 </sp>
-<sp who='MASCARILLE'><speaker>MASCARILLE, dansant lui seul comme par prélude.</speaker>
+<sp stage="dance" who='MASCARILLE'><speaker>MASCARILLE, dansant lui seul comme par prélude.</speaker>
 <p id='6'>
 	<s id='1'>La, la, la, la, la, la, la, la. </s>
 </p>
@@ -1646,7 +1644,7 @@
 	<s id='1'>Et a la mine de danser proprement. </s>
 </p>
 </sp>
-<sp who='MASCARILLE'><speaker>MASCARILLE, ayant pris Magdelon.</speaker>
+<sp stage="touch" who='MASCARILLE'><speaker>MASCARILLE, ayant pris Magdelon.</speaker>
 <p id='9'>
 	<s id='1'>Ma franchise va danser la courante aussi bien que mes pieds. </s>
 	<s id='2'>En cadence, violons, en cadence. </s>
@@ -1659,7 +1657,7 @@
 	<s id='9'>Ferme, ô violons de village. </s>
 </p>
 </sp>
-<sp who='JODELET'><speaker>JODELET, dansant ensuite.</speaker>
+<sp stage="dance" who='JODELET'><speaker>JODELET, dansant ensuite.</speaker>
 <p id='10'>
 	<s id='1'>Holà ! ne pressez pas si fort la cadence : je ne fais que sortir de maladie. </s>
 </p>
@@ -1674,7 +1672,7 @@
 	<s id='4'>Il y a trois heures que nous vous cherchons. </s>
 </p>
 </sp>
-<sp who='MASCARILLE'><speaker>MASCARILLE, se sentant battre.</speaker>
+<sp stage="fight" who='MASCARILLE'><speaker>MASCARILLE, se sentant battre.</speaker>
 <p id='2'>
 	<s id='1'>Ahy ! </s>
 	<s id='2'>Ahy ! </s>
@@ -1827,7 +1825,7 @@
 	<s id='1'>Je crève de dépit. </s>
 </p>
 </sp>
-<sp who='VIOLONS'><speaker>VIOLONS, au Marquis.</speaker>
+<sp stage="toward" who='VIOLONS'><speaker>VIOLONS, au Marquis.</speaker>
 <p id='17'>
 	<s id='1'>Qu'est-ce donc que ceci ? </s>
 	<s id='2'>Qui nous payera, nous autres ? </s>
@@ -1838,7 +1836,7 @@
 	<s id='1'>Demandez à Monsieur le Vicomte. </s>
 </p>
 </sp>
-<sp who='VIOLONS'><speaker>VIOLONS, au Vicomte.</speaker>
+<sp stage="toward" who='VIOLONS'><speaker>VIOLONS, au Vicomte.</speaker>
 <p id='19'>
 	<s id='1'>Qui est-ce qui nous donnera de l'argent ? </s>
 </p>
@@ -1887,12 +1885,12 @@
 </sp>
 </div2>
 <div2 type="scene" n='17'><head>SCÈNE XVII. Gorgibus, Magdelon, Cathos, Violons.</head>
-<sp who='VIOLONS'><speaker>VIOLONS. .</speaker>
+<sp who='VIOLONS'><speaker>VIOLONS.</speaker>
 <p id='1'>
 	<s id='1'>Monsieur, nous entendons que vous nous contentiez à leur défaut pour ce que nous avons joué ici. </s>
 </p>
 </sp>
-<sp who='GORGIBUS'><speaker>GORGIBUS, les battant.</speaker>
+<sp stage="fight" who='GORGIBUS'><speaker>GORGIBUS, les battant.</speaker>
 <p id='2'>
 	<s id='1'>Oui, oui, je vous vais contenter, et voici la monnaie dont je vous veux payer. </s>
 	<s id='2'>Et vous, pendardes, je ne sais qui me tient que je ne vous en fasse autant. </s>

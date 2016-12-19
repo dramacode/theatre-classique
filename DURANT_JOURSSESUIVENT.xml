@@ -7,9 +7,9 @@
 				<author born='16??' born_location='' death='1736' death_location='' academie=''>DURANT, Catherine</author>
 			</titleStmt>
 			<publicationStmt>	
-				<p>publié par Paul FIEVRE février 2014</p>
-			<idno></idno>
-</publicationStmt>
+				<publisher>publié par Paul FIEVRE février 2014</publisher>
+				<idno>DURANT_JOURSSESUIVENT</idno>
+			</publicationStmt>
 			<SourceDesc>
 				<genre>Proverbe</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -18,9 +18,6 @@
 				<periode>1691-1700</periode>
 				<taille>(mesure non pertinente)</taille>
 				<permalien></permalien>
-				<sources>
-					<source id='1'><author></author><text></text></source>
-				</sources>	
 			</SourceDesc>
 		</fileDesc>
 </teiHeader>
@@ -135,7 +132,7 @@
 <p id="4">
 	<s id='1'>Ne vous moquez point de moi, mon pauvre abbé ; il y a deux ans que je suis une coquette pas à pas, que je prodigue pour elle l'opéra, les comédies, fêtes, soupers ; je ne parle ni des assiduités ni des soupirs, la barbare ne m'en a jamais tenu compte ; mais ce qui comble ma douleur, un bourgeois, un fat, a su toucher son cour : contente d'un tel choix, elle en fait vanité à mes yeux , et je viens dans ces bois pour y cacher ma honte, et pour attendre encore une réponse de l'inhumaine. </s>
 </p>
-<stage type="[N/A]">Apercevant les dames.</stage>
+<stage type="watch">Apercevant les dames.</stage>
 <p id="5">
 	<s id='1'>Mais, Monsieur l'Abbé, vous ne me présentez pas à ces dames ! </s>
 	<s id='2'>Leurs noms et leurs personnes ne me sont point inconnus, et je crois trouver en elles deux illustres malheureuses qui prendront sans doute pitié de mes maux ; ils sont d'une espèce, ces maux, à les conter aux arbres et aux rochers : jugez si j'en dois faire part à une si bonne compagnie.</s>
@@ -191,12 +188,12 @@
 	<s id='1'>J'y consens, quoique ma plus grande nourriture soit maintenant mes propres larmes.</s>
 </p>
 </sp>
-<sp who='LE MARQUIS'><speaker>LE MARQUIS, à la Baronne.</speaker>
+<sp stage="toward" who='LE MARQUIS'><speaker>LE MARQUIS, à la Baronne.</speaker>
 <p id='15'>
 	<s id='1'>Vous voulez bien, Madame, que j'aie l'honneur de vous donner la main pour vous remettre en carrosses ?</s>
 </p>
 </sp>
-<sp who='LE COMTE'><speaker>LE COMTE, à Mademoiselle Dufrêne.</speaker>
+<sp stage="toward" who='LE COMTE'><speaker>LE COMTE, à Mademoiselle Dufrêne.</speaker>
 <p id='15'>
 	<s id='1'>Mademoiselle me fera, s'il lui plaît, la même grâce.</s>
 </p>
@@ -360,7 +357,7 @@
 <p id="10">
 	<s id='1'>Ah ! Voilà le dernier trait ; je te le revaudrai, maraud, ou ne te présente à moi que bien accompagné.</s>
 </p>
-<stage type="[N/A]">Merlin s'enfuit.</stage>
+<stage type="exit">Merlin s'enfuit.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Le Marquis, Le Comte, La Baronne, L'Abbé, Mademoiselle Dufrêne.</head>

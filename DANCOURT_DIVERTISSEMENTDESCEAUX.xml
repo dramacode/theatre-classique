@@ -7,9 +7,9 @@
 				<author born='1661' born_location='Fontainebleau' death='1725' death_location='Courcelles-le-Roi' academie=''>DANCOURT, Florent CARTON dit</author>
 			</titleStmt>
 			<publicationStmt>	
-				<p>publié par Paul FIEVRE, mars 2014</p>
-			<idno></idno>
-</publicationStmt>
+				<publisher>publié par Paul FIEVRE, mars 2014</publisher>
+			    <idno>DANCOURT_DIVERTISSEMENTDESCEUX</idno>
+			</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie-ballet</genre>
 				<inspiration>bergerie</inspiration>
@@ -18,10 +18,6 @@
 				<periode>1701-1710</periode>
 				<taille>0-250</taille>
 				<permalien></permalien>
-				<sources>
-					<source id='1'><author></author><text></text></source>
-				</sources>	
-
 			</SourceDesc>
 		</fileDesc>
 </teiHeader>
@@ -56,8 +52,8 @@
 <body>
 <div1 type="act" n="1"><head></head>
 <div2 type="scene" n="1"><head></head>
-<stage type="[N/A]">Après l’Ouverture, Mademoiselle SALLE, conduisant une Troupe d’Acteurs et d’Actrices, en habit de Théâtre à la Française, chante les paroles suivantes. </stage>
-<sp who="MADEMOISELLE SALLE"><speaker>MADEMOISELLE SALLE. </speaker>
+<stage type="entrance/sing">Après l’Ouverture, Mademoiselle SALLE, conduisant une Troupe d’Acteurs et d’Actrices, en habit de Théâtre à la Française, chante les paroles suivantes. </stage>
+<sp who="MADEMOISELLE SALLE"><speaker>MADEMOISELLE SALLE.</speaker>
 	<l id="1">Ne portons pas </l>
 	<l id="2">Plus loin nos pas, </l>
 	<l id="3">Arrêtons-nous dans ces belles retraites : </l>
@@ -68,27 +64,27 @@
 	<l id="8">Conduisent aux Palais superbes </l>
 	<l id="9">De quelques Divinités. </l>
 </sp>
-<sp who="MONSIEUR SALLE"><speaker>MONSIEUR SALLE vêtu en Druide. </speaker>
+<sp stage="dress" who="MONSIEUR SALLE"><speaker>MONSIEUR SALLE, vêtu en Druide.</speaker>
 	<l id="10">Dans ce séjour chéri des Dieux, </l>
 	<l id="11">Troupe aimable, qui vous attire ? </l>
 	<l id="12">N’est-ce qu’un désir curieux </l>
 	<l id="13">D’y voir les beautés qu’on admire ? </l>
 </sp>
-<sp who="MADEMOISELLE SALLE"><speaker>MADEMOISELLE SALLE. </speaker>
+<sp who="MADEMOISELLE SALLE"><speaker>MADEMOISELLE SALLE.</speaker>
 	<l id="14">Sage druide, apprenez-nous </l>
 	<l id="15">Quels sont les beaux lieux où nous sommes, </l>
 	<l id="16">Quelle Divinité par vous </l>
 	<l id="17">Reçoit ici l’encens et l’hommage des hommes. </l>
 </sp>
-<sp who="LE DRUIDE"><speaker>LE DRUIDE. </speaker>
+<sp who="LE DRUIDE"><speaker>LE DRUIDE.</speaker>
 <note type="L">Vertu : Déesse du Paganisme. Les Romains bâtirent un temple de la Vertu, et un temple de l'Honneur ; mais il fallait passer par le temple de la Vertu pour parvenir à celui de l'Honneur. Ils entendaient par cet ordre, que le vrai chemin de l'honneur est d'être vertueux. On peignait la Vertu en femme grave et modeste, avec un port et un air qui inspirait de la vénération. Lucien la représente triste, affligée, maltraitée de la Fortune, en sorte même qu'il lui étoit défendu de se montrer à la Cour de Jupiter. [T]</note>
 	<l id="18">Bénissez le sort heureux </l>
 	<l id="19">Qui dans ce Palais vous amène ; </l>
 	<l id="20">Hâtez-vous d’offrir vos vœux </l>
 	<l id="21">À notre AUGUSTE SOUVERAINE. </l>
-<stage type="[N/A]">ENTRÉE. </stage>
+<stage type="entrance">ENTRÉE. </stage>
 </sp>
-<sp who="LE DRUIDE"><speaker>LE DRUIDE continue. </speaker>
+<sp stage="continue" who="LE DRUIDE"><speaker>LE DRUIDE, continue.</speaker>
 	<l id="22">C’est la Vertu qui tient ici sa Cour ; </l>
 	<l id="23">Mais ce n’est point cette Vertu sauvage </l>
 	<l id="24">Qui fuit l’innocent badinage </l>
@@ -98,9 +94,9 @@
 <note type="L">Minerve : Nom propre d'une Déesse de l'Antiquité païenne. On la nommait aussi Pallas, et en Grèce Athéné. Minerve était fille de Jupiter ; elle était sortie de son cerveau. Hésiode dit pourtant que Métis, première femme de Jupiter, l'avait conçue, mais Jupiter enferma Métis dans son sein lorsqu'elle était sur le point de mettre Minerve au monde, qui sortit ensuite de son cerveau. Minerve était la Déesse des beaux arts. [T]</note>
 	<l id="28">Des doux plaisirs permet l’usage, </l>
 	<l id="29">Et qui sait les prendre à son tour. </l>
-<stage type="[N/A]">ENTRÉE. </stage>
+<stage type="entrance">ENTRÉE. </stage>
 </sp>
-<sp who="LE DRUIDE"><speaker>LE DRUIDE continue. </speaker>
+<sp stage="continue" who="LE DRUIDE"><speaker>LE DRUIDE continue.</speaker>
 	<l id="30">Elle aime à sa suite </l>
 <note type="L">Vénus : Fausse Divinité des Païens, les poètes ont feint qu'elle est la mère des Grâces et des Amours. C'était la Déesse de la beauté et de la volupté. On remarquait dans le visage, et dans la posture de Vénus une beauté molle, et une langueur passionnée.</note>
 	<l id="31">Que le vrai mérite </l>
@@ -112,7 +108,7 @@
 <note type="L">Comus : Dieu de la joie, des festins, des danses nocturnes. [T]</note>
 	<l id="37">Y retient la jeunesse et l’amour. </l>
 </sp>
-<sp who="MONSIEUR POISSON"><speaker>MONSIEUR POISSON en Crispin. </speaker>
+<sp stage="costume" who="MONSIEUR POISSON"><speaker>MONSIEUR POISSON, en Crispin.</speaker>
 <note type="L">Grâce : Dans le langage des poètes et des païens, divinité fabuleuse. Il y en avait trois qu'on peignait toutes nues, et qu'on feignait être de la suite de Vénus ; on les nommait Aglaïa, Thalie et Euphrosyne ; elles étaient filles de Jupiter, compagnes de Mercure.[T]</note>
 <note type="L">Apollon : Nom propre d'un Dieu, Fils de Jupiter et de Latone. Son nom est Grec, et vient selon Platon de ce qu'il darde ses rayons. [T]</note>
 <p id="1">
@@ -125,7 +121,7 @@
 	<s id="7">Allons, Messieurs, Mesdemoiselles, achevez, s’il vous plaît, votre façon de prologue, et nous commencerons notre Comédie.</s> 
 </p>
 </sp>
-<sp who="MADEMOISELLE SALLE"><speaker>MADEMOISELLE SALLE. </speaker>
+<sp who="MADEMOISELLE SALLE"><speaker>MADEMOISELLE SALLE.</speaker>
 	<l id="38">Que les Grecs soient glorieux, </l>
 <note type="L">Parnasse : Mont de la Phocide consacré à Apollon et aux Muses, qui est la source des fontaines Castalide, Hippocrène et Aganippe, tant célébrées par les poètes. [T]</note>
 	<l id="39">D’avoir chez eux le Parnasse, </l>
@@ -134,7 +130,7 @@
 	<l id="42">Ici la moindre fontaine </l>
 	<l id="43">Vaut tout l’eau d’Hypocrène. </l>
 </sp>
-<sp who="LE DRUIDE"><speaker>LE DRUIDE. </speaker>
+<sp who="LE DRUIDE"><speaker>LE DRUIDE.</speaker>
 	<l id="44">Depuis le jour qu’Apollon </l>
 <note type="L">Sacré vallon : Poétiquement. Le sacré vallon, le vallon situé entre les deux croupes du Parnasse, et qui, selon la Fable, était le séjour des Muses. [L]</note>
 	<l id="45">Quitta le sacré vallon, </l>
@@ -146,7 +142,7 @@
 	<l id="49">N’est point une Piéride, </l>
 	<l id="50">Elle est du sang de nos Dieux. </l>
 </sp>
-<sp who="MADEMOISELLE SALLE"><speaker>MADEMOISELLE SALLE. </speaker>
+<sp who="MADEMOISELLE SALLE"><speaker>MADEMOISELLE SALLE.</speaker>
 	<l id="51">Aux bords de la Seine </l>
 	<l id="52">Une Souveraine </l>
 	<l id="53">Gagne tous les cœurs, </l>
@@ -159,7 +155,7 @@
 	<l id="59">À son char entraîne </l>
 	<l id="60">Moins d’Adorateurs. </l>
 </sp>
-<sp who="MADEMOISELLE SALLE"><speaker>MADEMOISELLE SALLE continue. </speaker>
+<sp stage="continue" who="MADEMOISELLE SALLE"><speaker>MADEMOISELLE SALLE, continue.</speaker>
 <note type="L">Cythère : C'était autrefois le nom d'une île du Péloponèse, vis-à-vis de Crète. On la nomme aujourd'hui Cérigo, Sophiano. Hésiode dit que Vénus ayant été produite de l'écume de la mer fut portée d'abord à cette île sur une conque marine. [T]</note>
 	<l id="61">L’île de Cythère </l>
 	<l id="62">À Vénus si chère </l>
@@ -171,9 +167,9 @@
 	<l id="68">Hé ! Se peut-il faire </l>
 	<l id="69">Qu’on ne les préfère </l>
 	<l id="70">Au séjour des Dieux ? </l>
-<stage type="[N/A]">Ce Divertissement finit par l’Entrée précédente, que l’on répète, après laquelle on représente une Comédie ; ensuite de quoi Monsieur et Mademoiselle Sallé chantent les paroles suivantes, qui précèdent un Bal. </stage>
+<stage type="explicit/sing">Ce Divertissement finit par l’Entrée précédente, que l’on répète, après laquelle on représente une Comédie ; ensuite de quoi Monsieur et Mademoiselle Sallé chantent les paroles suivantes, qui précèdent un Bal. </stage>
 </sp>
-<sp who="MONSIEUR SALLE"><speaker>MONSIEUR SALLE. </speaker>
+<sp who="MONSIEUR SALLE"><speaker>MONSIEUR SALLE.</speaker>
 <poem>
 <lg>
 	<l id="71">Si cette Cour charmante </l>
@@ -196,9 +192,9 @@
 	<l id="84">Est-il un plus digne de prix ? </l>
 </lg>
 </poem>
-<stage type="[N/A]">ENTRÉE. </stage>
+<stage type="entrance">ENTRÉE. </stage>
 </sp>
-<sp who="MADEMOISELLE SALLE"><speaker>MADEMOISELLE SALLE. </speaker>
+<sp who="MADEMOISELLE SALLE"><speaker>MADEMOISELLE SALLE.</speaker>
 	<l id="85">De ce séjour aimable </l>
 	<l id="86">Je crains de m’éloigner, </l>
 	<l id="87">On ne voit point ailleurs régner </l>
@@ -223,8 +219,8 @@
 	<l id="104">Des plaisirs la troupe agréable. </l>
 </lg>
 </poem>
-<stage type="[N/A]">ENTRÉE. </stage>
-<stage type="[N/A]">Branle pour danser en rond, après lequel le Bal commence. </stage>
+<stage type="entrance">ENTRÉE. </stage>
+<stage type="danse">Branle pour danser en rond, après lequel le Bal commence. </stage>
 <poem>
 <lg>
 	<l id="105">Qui s’ennuie</l>

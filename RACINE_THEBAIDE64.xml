@@ -8,7 +8,7 @@
 			<date>1664</date>
 		</titleStmt>
 		<publicationStmt>	
-			<p>publié par Paul FIEVRE, Mai 2006, revu Avril 2016</p>
+			<p>publié par Paul FIEVRE, Mai 2006, revu novembre 2016</p>
 			<idno>RACINE_THEBAIDE64</idno>
 		</publicationStmt>
 		<SourceDesc>
@@ -553,7 +553,7 @@
 	<l id="337">Seconde mes soupirs, donne force à mes pleurs,</l>
 	<l id="338">Et comme il faut enfin, fais parler mes douleurs.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE, demeurant un peu après sa mère.</speaker>
+<sp stage="closer" who="ANTIGONE"><speaker>ANTIGONE, demeurant un peu après sa mère.</speaker>
 	<l id="339">Et si tu prends pitié d'une flamme innocente,</l>
 	<l id="340">Ô ciel ! En ramenant Hémon à son amante.</l>
 	<l id="341">Ramène-le fidèle, et permets en ce jour,</l>
@@ -781,10 +781,10 @@
 	<l id='504'>Fuyez, Hémon, fuyez de la fille d'Oedipe,</l>
 	<l id='505'>Tâchez de n'aimer plus, pour plaire aux immortels,</l>
 	<l id='506'>Et la fille et le coeur de tant de criminels.</l>
-	<l id='507' part='i'>Le crime en sa famille...</l>
+	<l id='507' part="i">Le crime en sa famille...</l>
 </sp>
 <sp who="HEMON"><speaker>HÉMON.</speaker>
-	<l id='507' part='f'>Ah ! Madame leur crime,</l>
+	<l id='507' part="f">Ah ! Madame leur crime,</l>
 	<l id='508'>Ne fait que relever votre vertu sublime,</l>
 	<l id='509'>Puisque par un effort dont les dieux sont jaloux,</l>
 	<l id='510'>Vous brillez d'un éclat qui ne vient que de vous.</l>
@@ -1011,7 +1011,7 @@
 	<l id="674">Si pourtant on peut l'être avec tant d'ennuis.</l>
 </sp>
 </div2><div2 type="scene" n="2"><head>SCÈNE II.</head>
-<sp who="JOCASTE"><speaker>JOCASTE, seule.</speaker>
+<sp stage="alone" who="JOCASTE"><speaker>JOCASTE, seule.</speaker>
 	<l id="675">Dureront-ils toujours ces ennuis si funestes ?</l>
 	<l id="676">N'épuiseront-ils point les vengeances célestes ?</l>
 	<l id="677">Me feront-ils souffrir tant de cruels trépas,</l>
@@ -1727,10 +1727,10 @@
 	<l id="1214">Si vous y montez ce sera par le vôtre.</l>
 	<l id="1215">Et le trône mon fils vous rendrait odieux.</l>
 	<l id="1216">Si vous y montez ce sera pas le vôtre.</l>
-	<l id="1217" part='i'>Conservez votre gloire.</l>
+	<l id="1217" part="i">Conservez votre gloire.</l>
 </sp>
 <sp who='ANTIGONE'><speaker>ANTIGONE.</speaker>
-	<l id="1217" part='f'>Ah ! Mon frère en effet,</l>
+	<l id="1217" part="f">Ah ! Mon frère en effet,</l>
 	<l id="1218">Pouvez-vous concevoir cet horrible forfait ?</l>
 	<l id="1219">Ainsi donc tout à coup l'honneur vous abandonne ?</l>
 	<l id="1220">Ô Dieux ! Est-il si doux de porter le Couronne .</l>
@@ -1863,10 +1863,10 @@
 	<l id="1310">Et moi je vais, cruels, vous apprendre à mourir.</l>
 </sp>
 <sp who="CRÉON"><speaker>CRÉON.</speaker>
-	<l id="1311" part='i'>Heureux emportement !</l>
+	<l id="1311" part="i">Heureux emportement !</l>
 </sp>
 <sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
-	<l id="1311" part='f'>Hélas ! Rien ne les touche !</l>
+	<l id="1311" part="f">Hélas ! Rien ne les touche !</l>
 </sp>
 <sp who="HEMON"><speaker>HÉMON.</speaker>
 	<l id="1312">Rien ne peut ébranler leur constance farouche.</l>
@@ -1901,7 +1901,7 @@
 </div1>
 <div1 type="act" n="5"><head>ACTE V</head>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
-<sp who="ANTIGONE"><speaker>ANTIGONE, seule.</speaker>
+<sp stage="alone" who="ANTIGONE"><speaker>ANTIGONE, seule.</speaker>
 <poem type="stances">
 <lg n="1">
 	<l id="1323">À quoi te résous-tu princesse infortunée ?</l>
@@ -2186,7 +2186,7 @@
 	<l id="1535">Adieu, nous ne faisons tous deux que nous gêner,</l>
 	<l id="1536">Je veux pleurer, Créon, et vous voulez régner.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON, arrêtant Antigone.</speaker>
+<sp stage="stop" who="CRÉON"><speaker>CRÉON, arrêtant Antigone.</speaker>
 	<l id="1537">Ah ! Madame, régnez et montez sur le trône,</l>
 	<l id="1538">Ce haut rang n'appartient qu'à l'illustre Antigone.</l>
 </sp>
@@ -2218,13 +2218,13 @@
 	<l id="1550">Ordonnez seulement ce qu'il faut que je fasse.</l>
 	<l id="1551" part="i">Je suis prêt...</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE, en s'en allant.</speaker>
+<sp stage="away" who="ANTIGONE"><speaker>ANTIGONE, en s'en allant.</speaker>
 	<l id="1551" part="m">Nous verrons.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON, la suivant.</speaker>
+<sp stage="kollow" who="CRÉON"><speaker>CRÉON, la suivant.</speaker>
 	<l id="1551" part="f">J'attends vos lois ici.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE, en s'en allant.</speaker>
+<sp stage="away" who="ANTIGONE"><speaker>ANTIGONE, en s'en allant.</speaker>
 	<l id="1552" part="i">Attendez.</l>
 </sp>
 </div2><div2 type="scene" n="4"><head>SCÈNE IV. Créon, Attale.</head>
@@ -2329,7 +2329,7 @@
 	<l id="1624">Et vous ne pourrez plus mourir pour m'éviter.</l>
 	<l id="1625" part="i">Mourons donc...</l>
 </sp>
-<sp who="ATTALE"><speaker>ATTALE, et des gardes.</speaker>
+<sp who="ATTALE"><speaker>ATTALE et des gardes.</speaker>
 	<l id="1625" part="f">Ah ! Seigneur quelle cruelle envie.</l>
 </sp>
 <sp who="CRÉON"><speaker>CRÉON.</speaker>
@@ -2356,7 +2356,7 @@
 	<l id="1646">La foudre va tomber, la terre est entr'ouverte,</l>
 	<l id="1647">Je ressens à la fois mille tourments divers,</l>
 	<l id="1648">Et je m'en vais chercher du repos aux Enfers.</l>
-<stage type="action/fall">Il tombe entre les mains des gardes.</stage>
+<stage type="fall">Il tombe entre les mains des gardes.</stage>
 </sp>
 </div2>
 

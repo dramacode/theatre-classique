@@ -7,9 +7,9 @@
 			<author>BARANTE et DUFESNY</author>
 		</titleStmt>
 		<publicationStmt>
-			<p>publié par Paul FIEVRE, décembre 2011</p>
-		<idno></idno>
-</publicationStmt>
+			<publisher>publié par Paul FIEVRE, décembre 2011</publisher>
+			<idno>BARANTEDUFRESNY_PASQUINMARFORIO</idno>
+		</publicationStmt>
 		<SourceDesc>
 			<genre>Comédie</genre>
 			<inspiration>moeurs françaises</inspiration>
@@ -19,7 +19,6 @@
 			<taille>250-500</taille>
 			<permalien></permalien>
 		</SourceDesc>
-		<edStmt></edStmt>
 </fileDesc>
 </teiHeader>
 <text>
@@ -56,15 +55,15 @@
 		<castItem><role id="UN-CUISINIER" sex="1" type="H" statut='cuisinier' age='A' stat_amour='néant'>UN CUISINIER</role>.</castItem>
 		<castItem><role id="UN-JALOUX" sex="1" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>UN JALOUX</role>.</castItem>
 		<castItem><role id="UNE-IMPATIENTE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>UNE IMPATIENTE</role>.</castItem>
-    </castList>
+	</castList>
 	<set location='Paris' country='France' periode='XVIIème' link=''>La scène est à Paris. </set>
 </front>
 <body>
 <div1 type='' n='1'><head>ACTE I</head>
 <div2 type="scene" n='1'><head>SCÈNE I.</head>
-<sp who='PASQUIN'><speaker>PASQUIN, seul, en voyageur.</speaker>
+<sp stage="alone/costume" who='PASQUIN'><speaker>PASQUIN, seul, en voyageur.</speaker>
 <note type="L">Pasquinade : Raillerie satirique, ainsi nommée, à cause d'une vieille statue mutilée qui est à Rome, appelée Pasquin, et à laquelle on a accoutumé d'attacher ces sortes de satires. [Ac. 1762]</note>
-<note type="C">Phrase latine : La consolation est pour les malheureux davoir des compagnons dinfortune.</note>
+<note type="C">Phrase latine : La consolation est pour les malheureux d'avoir des compagnons d'infortune.</note>
 <note type="L">Commis : Anciennement, commis aux aides, personne préposée par les fermiers des impôts à la perception des droits sur diverses marchandises. [L]</note>
 <p id='1'>
 	<s id='1'>Ah fortune, fortune ! </s>
@@ -97,7 +96,7 @@
 	<s id='2'>C'est nous que vous devez régaler.</s>
 </p>
 </sp>
-<sp who='LE-CUISINIER'><speaker>LE CUISINIER, d'un ton de colère. </speaker>
+<sp stage="anger" who='LE-CUISINIER'><speaker>LE CUISINIER, d'un ton de colère.</speaker>
 <p id='2'>
 	<s id='1'>Le maladroit ! </s>
 	<s id='2'>Le brutal ! </s>
@@ -242,11 +241,11 @@
 <p id='24'>
 	<s id='1'>Et sers-nous en terre à potier si tu veux, pourvu que nous mangions.</s>
 </p>
-<stage type="[N/A]">Ils le chassent en le battant, et le suivent. </stage>
+<stage type="push/hit/follow">Ils le chassent en le battant, et le suivent. </stage>
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III.</head>
-<sp who='LE-DOCTEUR'><speaker>LE DOCTEUR, seul. </speaker>
+<sp stage="alone" who='LE-DOCTEUR'><speaker>LE DOCTEUR, seul. </speaker>
 <p id='1'>
 	<s id='1'>C'est une profession bien fatigante que celle d'un médecin, il est toujours embarrassé pour les affaires des autres, et n'a pas le temps de veiller aux siennes. </s>
 	<s id='2'>Voilà une lettre que j'ai reçu de mon gendre futur, je vais avertir Angélique de se disposer à le recevoir. </s>
@@ -349,7 +348,7 @@
 </sp>
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker>
 <note type="L">Académiste : écolier qui apprend ses exercices chez un écuyer, à monter à cheval, à faire des armes, à danser, etc. [F]</note>
-<note type="L">Economie :  ou oeconomie, ménagement prudent qu'on fait de son bien, ou de celui d'autrui. [F]</note>
+<note type="L">Economie : ou oeconomie, ménagement prudent qu'on fait de son bien, ou de celui d'autrui. [F]</note>
 <p id='10'>
 	<s id='1'>Des raisons ! </s>
 	<s id='2'>J'en ai mille pour une. </s>
@@ -493,11 +492,11 @@
 <p id='15'>
 	<s id='1'>Sauvons-nous avec Hippocrate. </s>
 </p>
-<stage type="[N/A]">Octave et Léandre viennent avec Scaramouche, et le prient de recommander leurs intérêts à Pasquin et à Marforio. Après qu'ils se sont retirés Pasquin arrive. Scaramouche lui annonce l'arrivée de la Vérité et de la Médisance qui le cherchent.</stage>
+<stage type="entrance/exit">Octave et Léandre viennent avec Scaramouche, et le prient de recommander leurs intérêts à Pasquin et à Marforio. Après qu'ils se sont retirés Pasquin arrive. Scaramouche lui annonce l'arrivée de la Vérité et de la Médisance qui le cherchent.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII. Pasquin, La Vérité. </head>
-<stage type="decor">Le théâtre représente une rivière. On voit La Vérité dans une magnifique gondole, qui avance jusqu'au bord du théâtre, au son des instruments. </stage>
+<stage type="decor/music">Le théâtre représente une rivière. On voit La Vérité dans une magnifique gondole, qui avance jusqu'au bord du théâtre, au son des instruments. </stage>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 	<l id='4'>Quoi ! C'est la Vérité ma fidèle compagne ? </l>
 	<l id='5'>Quel dessein vous oblige à battre la campagne ? </l>
@@ -552,7 +551,7 @@
 	<l id='42'>Mais quand il court la prétentaine </l>
 <note type="L">Prétentaine : terme burlesque, qui ne se dit qu'en cette phrase proverbiale : Ils ont été tout le jour courir la pretentaine, pour dire, Ils sont allez deçà et delà. [F]</note>
 	<l id='43'>Autour de la Samaritaine, </l>
-<note type="L">Blanc : est aussi une ancienne monnaie qui valait cinq deniers. Le denier, en France se dit maintenant  [XVIIè] d'une petite monnaie de cuivre qui vaut la moitié d'un double. [F]</note>
+<note type="L">Blanc : est aussi une ancienne monnaie qui valait cinq deniers. Le denier, en France se dit maintenant [XVIIè] d'une petite monnaie de cuivre qui vaut la moitié d'un double. [F]</note>
 	<l id='44'>Le livre et la feuille, six blancs. </l>
 </sp>
 <sp who='LA-VÉRITÉ'><speaker>LA VÉRITÉ. </speaker>
@@ -560,13 +559,13 @@
 	<l id='46'>Sais-tu le parti que je prends ? </l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
-	<l id='47' part='i'>Non. </l>
+	<l id='47' part="i">Non. </l>
 </sp>
 <sp who='LA-VÉRITÉ'><speaker>LA VÉRITÉ. </speaker>
-	<l id='47' part='m'>Devine.</l>
+	<l id='47' part="m">Devine.</l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
-	<l id='47' part='f'>J'entends. </l>
+	<l id='47' part="f">J'entends. </l>
 	<l id='48'>Auprès des Courtisans tu vas chercher pratique ? </l>
 	<l id='49'>À dire vrai chez eux l'on gagne peu de biens. </l>
 </sp>
@@ -628,7 +627,7 @@
 	<l id='87'>Partout elle me suit. </l>
 	<l id='88'>Je l'entends, elle vient me faire une querelle. </l>
 	<l id='89'>Je suis, si tu l'en crois, bien plus méchante qu'elle. </l>
-<stage type="[N/A]">La Gondole se change en un antre affreux, d'où sort la médisance, qui chante : </stage>
+<stage type="decor/sing">La Gondole se change en un antre affreux, d'où sort la médisance, qui chante : </stage>
 </sp>
 <sp who='LA-MÉDISANCE'><speaker>LA MÉDISANCE.</speaker>
 	<l id='90'>Non, ce n'est point la Médisance ; </l>
@@ -649,16 +648,16 @@
 	<s id='1'>Mais ne pourrait-on point savoir la différence qu'il y a entre vous deux ?</s>
 </p>
 </sp>
-<sp who='LA-MÉDISANCE'><speaker>LA MÉDISANCE, chante.</speaker>
+<sp stage="sing" who='LA-MÉDISANCE'><speaker>LA MÉDISANCE, chante.</speaker>
 	<l id='102'>On dit qu'en festins Iris </l>
 	<l id='103'>Ruinerait quatre maris, </l>
 	<l id='104'>Ce n'est qu'une médisance. </l>
 	<l id='105'>On dit que sans répugnance, </l>
 	<l id='106'>Au dépens de sa beauté, </l>
-	<l id='107'>Son sot Époux fait bombance, </l>
+	<l id='107'>Son sot époux fait bombance, </l>
 	<l id='108'>C'est la pure vérité. </l>
 </sp>
-<sp who='MARFORIO'><speaker>MARFORIO chante. </speaker>
+<sp stage="sing" who='MARFORIO'><speaker>MARFORIO, chante. </speaker>
 	<l id='109'>On dit que Madame Auroux </l>
 	<l id='110'>Vit mal avec son Époux. </l>
 	<l id='111'>Ce n'est qu'une médisance. </l>
@@ -676,7 +675,7 @@
 	<l id='121'>En secret la récompense, </l>
 	<l id='122'>C'est la pure vérité. </l>
 </sp>
-<sp who='LA-MÉDISANCE'><speaker>LA MÉDISANCE, chante.</speaker>
+<sp stage="sing" who='LA-MÉDISANCE'><speaker>LA MÉDISANCE, chante.</speaker>
 	<l id='123'>On dit que le Médecin, </l>
 	<l id='124'>Par malice est assassin, </l>
 	<l id='125'>C'est une médisance. </l>
@@ -685,7 +684,7 @@
 	<l id='128'>Plus que guerre et pestilence, </l>
 	<l id='129'>C'est la pure vérité. </l>
 </sp>
-<sp who='MARFORIO'><speaker>MARFORIO chante. </speaker>
+<sp stage="sing" who='MARFORIO'><speaker>MARFORIO, chante.</speaker>
 	<l id='130'>On dit que d'un Bas Normand, </l>
 	<l id='131'>Un Juge a pris de l'argent, </l>
 	<l id='132'>C'est de la médisance. </l>
@@ -722,7 +721,7 @@
 	<l id='156'>De partir en diligence, </l>
 	<l id='157'>C'est la pure vérité. </l>
 </sp>
-<sp who='LA-MÉDISANCE'><speaker>LA MÉDISANCE, chante.</speaker>
+<sp stage="sing" who='LA-MÉDISANCE'><speaker>LA MÉDISANCE, chante.</speaker>
 	<l id='158'>On dit qu'un certain Gascon, </l>
 	<l id='159'>Fait grande chère en poisson, </l>
 	<l id='160'>Ce n'est qu'une médisance. </l>
@@ -731,7 +730,7 @@
 	<l id='163'>Il fait souvent abstinence, </l>
 	<l id='164'>C'est la pure vérité. </l>
 </sp>
-<sp who='MARFORIO'><speaker>MARFORIO chante. </speaker>
+<sp stage="sing" who='MARFORIO'><speaker>MARFORIO, chante.</speaker>
 	<l id='165'>On dit qu'avec son Amant, </l>
 	<l id='166'>Iris perdit son argent, </l>
 	<l id='167'>Ce n'est qu'une médisance. </l>
@@ -740,7 +739,7 @@
 	<l id='170'>Il lui rendit sa finance, </l>
 	<l id='171'>C'est la pure vérité. </l>
 </sp>
-<sp who='PASQUIN'><speaker>PASQUIN chante. </speaker>
+<sp stage="sing" who='PASQUIN'><speaker>PASQUIN, chante.</speaker>
 	<l id='172'>On dit que Jeannin Carton </l>
 	<l id='173'>N'est pas un bon Tabellion, </l>
 	<l id='174'>Ce n'est qu'une médisance. </l>
@@ -979,7 +978,7 @@
 <p id='10'>
 	<s id='1'>Oh je sais qu'il faut se précipiter sur l'un des bras du fauteuil, comme si on jouait au cheval fondu.</s>
 </p>
-<stage type="[N/A]">Il se jette sur un bras du fauteuil.</stage>
+<stage type="sit">Il se jette sur un bras du fauteuil.</stage>
 </sp>
 <sp who='MARFORIO'><speaker>MARFORIO.</speaker>
 <p id='11'>
@@ -1037,9 +1036,9 @@
 	<s id='1'>Allons, Monsieur, saluez Madame. </s>
 </p>
 </sp>
-<sp who='PASQUIN'><speaker>PASQUIN, chantant sans regarder Angélique. </speaker>
+<sp stage="sing/watch" who='PASQUIN'><speaker>PASQUIN, chantant sans regarder Angélique. </speaker>
 	<l id='250'>Robin ture lure.</l>
-<stage type="[N/A]">Regardant Angélique. </stage>
+<stage type="watch">Regardant Angélique. </stage>
 <p id='20'>
 	<s id='1'>Ah : Vous voilà la belle. </s>
 </p>
@@ -1053,7 +1052,7 @@
 	<s id='1'>Il n'y en a point.</s>
 </p>
 </sp>
-<sp who='PASQUIN'><speaker>PASQUIN à Angélique. </speaker>
+<sp stage="toward" who='PASQUIN'><speaker>PASQUIN, à Angélique. </speaker>
 <p id='23'>
 	<s id='1'>Je vous offrirais bien le mien ; mais vous seriez peut-être assez incivile pour le prendre. </s>
 </p>
@@ -1087,7 +1086,7 @@ Cheval souris, cheval de cette couleur. [L] </note>
 	<s id='1'>Page ? </s>
 	<s id='2'>Le cheval poil de souris souffle-t-il toujours beaucoup ? </s>
 </p>
-<stage type="[N/A]">Vers Angélique. </stage>
+<stage type="toward">Vers Angélique. </stage>
 <p id='29'>
 	<s id='1'>Il a une difficulté de respirer qui l'empêche de parler. </s>
 	<s id='2'>C'est une fort bonne bête, je serais fâché qu'il en vînt faute.</s>
@@ -1122,9 +1121,9 @@ Cheval souris, cheval de cette couleur. [L] </note>
 <p id='34'>
 	<s id='1'>Laissez le faire, Madame, il s'y connaît. </s>
 </p>
-<stage type="[N/A]">Marforio après avoir regardé Angélique sous le nez, chante. </stage>
+<stage type="watch/sing">Marforio après avoir regardé Angélique sous le nez, chante. </stage>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE, à Pasquin.</speaker>
+<sp stage="toward" who='ANGÉLIQUE'><speaker>ANGÉLIQUE, à Pasquin.</speaker>
 <p id='35'>
 	<s id='1'>Mais quoi ? </s>
 	<s id='2'>Ne saurai-je point ce que vous pensez de ma beauté ? </s>
@@ -1139,7 +1138,7 @@ Cheval souris, cheval de cette couleur. [L] </note>
 </p>
 </sp>
 <sp who='MARFORIO'><speaker>MARFORIO.</speaker>
-<note type="L">Piquette : méchant vin qu'on donne aux valets. [F] Ici, il sagit de la beauté du visage : elle ne vaut rien cest comme la piquette par rapport au bon vin.</note>
+<note type="L">Piquette : méchant vin qu'on donne aux valets. [F] Ici, il s'agit de la beauté du visage : elle ne vaut rien c'est comme la piquette par rapport au bon vin.</note>
 <p id='37'>
 	<s id='1'>Ce n'est là que de la piquette. </s>
 </p>
@@ -1175,16 +1174,16 @@ Cheval souris, cheval de cette couleur. [L] </note>
 	<s id='1'>Il a raison. </s>
 	<s id='2'>Vous ne sauriez pas même assez belle pour un Page.</s>
 </p>
-<stage type="[N/A]">Ils s'en vont.</stage>
+<stage type="sing">Ils s'en vont.</stage>
 </sp>
 </div2>
-<div2 type="scene" n='4'><head>SCÈNE IV. Le Docteur, Julie qui chante toujours. </head>
+<div2 type="scene" n='4' stage="sing"><head>SCÈNE IV. Le Docteur, Julie qui chante toujours. </head>
 <sp who='LE-DOCTEUR'><speaker>LE DOCTEUR.</speaker>
 <p id='1'>
 	<s id='1'>Julie, Julie ?</s>
 </p>
 </sp>
-<sp who='JULIE'><speaker>JULIE en dedans. </speaker>
+<sp stage="location" who='JULIE'><speaker>JULIE, en dedans. </speaker>
 	<l id='257'>La la la lire lire la. </l>
 </sp>
 <sp who='LE-DOCTEUR'><speaker>LE DOCTEUR.</speaker>
@@ -1265,7 +1264,7 @@ Cheval souris, cheval de cette couleur. [L] </note>
 </p>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
-<note type="L">Radoubeur : ouvrier qui radoube. On l'appelle plus ordinairement Calfat, ou Calfateur. [F] Ici, cest quelquun qui arrange les généalogies au gré du client, pour quils puissent justifier dun titre de noblesse.</note>
+<note type="L">Radoubeur : ouvrier qui radoube. On l'appelle plus ordinairement Calfat, ou Calfateur. [F] Ici, c'est quelqu'un qui arrange les généalogies au gré du client, pour qu'ils puissent justifier d'un titre de noblesse.</note>
 <note type="L">Corroyer : préparer le cuir pour les divers usages auxquels il est destiné. Corroyer des peaux, des cuirs.</note>
 <p id='4'>
 	<s id='1'>Je suis, Monsieur, un radoubeur de noble, qui sait calfeutrer les crevasses que les alliances roturières ont fait dans les familles. </s>
@@ -1289,7 +1288,7 @@ Cheval souris, cheval de cette couleur. [L] </note>
 1 blanc = 5 deniers.
 1 petit sesterce romain = 18 deniers tournois. 
 1 grand sesterce romain = 1.000 petis sesterces, (25 écus environ). 
-1 louis dor = 11 livres. 
+1 louis d'or = 11 livres. 
 </note>
 <p id='6'>
 	<s id='1'>Pour trente pistoles je vous rendrai noble comme le grand Turc.</s>
@@ -1364,7 +1363,7 @@ Cheval souris, cheval de cette couleur. [L] </note>
 	<s id='1'>Entrez dans ma Manufacture. </s>
 	<s id='2'>Je m'en vais vous faire voir tous les Ancêtres de votre Gendre futur.</s>
 </p>
-<stage type="[N/A]">On ouvre, et on voit un Arbre généalogique chargé de plusieurs Médailles qui représentent des Héros.</stage>
+<stage type="open/decor">On ouvre, et on voit un Arbre généalogique chargé de plusieurs Médailles qui représentent des Héros.</stage>
 </sp>
 <sp who='LA-GÉNÉALOGIE'><speaker>LA GÉNÉALOGIE s'avance et chante. </speaker>
 	<l id='273'>Dans cet Arbre chargé d'une noble chimère, </l>
@@ -1380,7 +1379,7 @@ Cheval souris, cheval de cette couleur. [L] </note>
 <p id='3'>
 	<s id='1'>Vous ne voyez là que l'écorce de cette Généalogie, je vais vous en faire pénétrer le fond.</s>
 </p>
-<stage type="[N/A]">Les Médailles changent et représentent des artisans.</stage>
+<stage type="transform">Les Médailles changent et représentent des artisans.</stage>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN.</speaker>
 <note type="L">Maille : Ce mot signifie quelquefois une monnoie de peu de valeur. [T]</note>
@@ -1441,7 +1440,7 @@ Cheval souris, cheval de cette couleur. [L] </note>
 	<s id='3'>Je vais le faire avancer, et il vous chantera sa Généalogie lui-même.</s>
 </p>
 </sp>
-<sp who='MARFORIO'><speaker>MARFORIO, sort d'une Médaille, et chante. </speaker>
+<sp stage="entrance/sing" who='MARFORIO'><speaker>MARFORIO, sort d'une médaille, et chante. </speaker>
 	<l id='305'>Mon père était fils </l>
 	<l id='306'>D'un père qui fut fils </l>
 	<l id='307'>D'un père, </l>
@@ -1552,7 +1551,7 @@ Cheval souris, cheval de cette couleur. [L] </note>
 <p id='11'>
 	<s id='1'>Nous ne saurions vous rien dire là-dessus, mais nous allons vous montrer des glaces qui ne flattent point. Holà, ho, qu'on apporte un miroir.</s>
 </p>
-<stage type="[N/A]">On apporte un grand Miroir, Angélique s'y voit fort laide, et s'en va toute fâchée. </stage>
+<stage type="decor">On apporte un grand Miroir, Angélique s'y voit fort laide, et s'en va toute fâchée. </stage>
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Pierrot, le Docteur. </head>
@@ -1588,7 +1587,7 @@ Cheval souris, cheval de cette couleur. [L] </note>
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Pasquin, Pierrot, le Docteur. </head>
-<stage type="[N/A]">Pasquin se promène à grands pas sans regarder personne. </stage>
+<stage type="walk/watch">Pasquin se promène à grands pas sans regarder personne. </stage>
 <sp who='LE-DOCTEUR'><speaker>LE DOCTEUR.</speaker>
 <p id='1'>
 	<s id='1'>Monsieur Pasquin, écoutez-moi. </s>
@@ -1684,7 +1683,7 @@ Fuis dans ma chambre. </note>
 <p id='2'>
 	<s id='1'>Monsieur, voilà le rondeau, guérissez-la.</s>
 </p>
-<stage type="[N/A]">Le Docteur et Pierrot s'en vont. </stage>
+<stage type="exit">Le Docteur et Pierrot s'en vont. </stage>
 </sp>
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker>
 <p id='3'>
@@ -1703,7 +1702,7 @@ Fuis dans ma chambre. </note>
 </p>
 </sp>
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker>
-<note type="L">Cassolette : Vase où l'on met des eaux de senteur, ou d'autres parfums, pour les faire évaporer par le feu.  Il se dit aussi de l'odeur même qui s'exhale de la cassolette. [FC]</note>
+<note type="L">Cassolette : Vase où l'on met des eaux de senteur, ou d'autres parfums, pour les faire évaporer par le feu. Il se dit aussi de l'odeur même qui s'exhale de la cassolette. [FC]</note>
 <p id='5'>
 	<s id='1'>Où sont-ils ces calomniateurs, qui m'ont mis en mauvaise odeur dans mon quartier, dont ma vertu était la cassolette ? </s>
 	<s id='2'>Que de Vaudevilles, que de Robins turelure sur moi ! </s>
@@ -1914,7 +1913,7 @@ Fuis dans ma chambre. </note>
 <p id='8'>
 	<s id='1'>Je vais faire ouvrir ma Boutique, peut-être y seront-ils avec les autres.</s>
 </p>
-<stage type="[N/A]">On ouvre, et on voit une Boutique d'Apothicaire remplie de muids et de bouteilles de vin. </stage>
+<stage type="open/decor">On ouvre, et on voit une boutique d'apothicaire remplie de muids et de bouteilles de vin. </stage>
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Léandre, Julie, Le Docteur, Pasquin. </head>
@@ -1942,11 +1941,11 @@ Fuis dans ma chambre. </note>
 <p id='3'>
 	<s id='1'>Je vais vous dire par un apologue, ce qu'il faut faire pour l'empêcher de chanter.</s>
 </p>
-<stage type="[N/A]">FABLE. </stage>
+<stage type="title">FABLE. </stage>
 <note type="L">Rossignolette : femelle du rossignol. [T]</note>
 	<l id='354'>Un jeune Rossignol et sa Rossignolette, </l>
 	<l id='355'>Par mainte et mainte Chansonnette, </l>
-<note type="L">Sentreconter : Se conter lun à lautre. </note>
+<note type="L">S'entreconter : Se conter l'un à l'autre. </note>
 	<l id='356'>Naïvement s'entrecontaient, </l>
 	<l id='357'>Ce que l'un pour l'autre ils sentaient, </l>
 	<l id='358'>Ni plus ni moins selon la Gauloise méthode. </l>
@@ -2243,7 +2242,7 @@ Fuis dans ma chambre. </note>
 	<l id='457'>Notre Cabaret lui présente, </l>
 	<l id='458'>Sur ces murs écrit. </l>
 	<l id='459'>Le beau nom de Pilor Bouffi, </l>
-	<l id='460'>Grand Usurier de Mante.  </l>
+	<l id='460'>Grand Usurier de Mante. </l>
 </sp>
 <sp who='PASQUIN'><speaker>PASQUIN chante. </speaker>
 	<l id='461'>Si par notre pièce naissante, </l>

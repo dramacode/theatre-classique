@@ -8,9 +8,9 @@
 				<date>1745</date>
 			</titleStmt>
 			<publicationStmt>	
-				<p>publié par Paul FIEVRE</p><p>Mai 2006</p>
-			<idno></idno>
-</publicationStmt>
+				<publisher>publié par Paul FIEVRE, Mai 2006</publisher>
+				<idno>NIVELLE_FAUSSEANTIPATHIE</idno>
+			</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -43,11 +43,23 @@
 		<performance>	
 			<premiere date='1744-04-27' location='Théâtre de la rue des Fossés Saint-Germain'>Réprésenté pour la première fois le 27 avril 1744 au Théâtre de la rue des Fossés Saint-Germain à Paris.</premiere>
 		</performance>
-<div type="dedicace">
-<head>À messieurs de l'Académie française.</head>
-<p>Permettez-moi de mettre sous vos auspices, ces essais d'une muse qui vous était déjà dévouée, et qui reconnaît ne devoir attribuer ses succès qu'à vous seuls, c'est un témoignage public qu'elle doit aux bontés et aux secours qu'elle a reçus des « Illustres Amis » que son bonheur lui a procurés parmi vous. Oui, Messieurs, la seule reconnaissance fera tout le prix de l'hommage que vous rend un de vos nourrissons ; c'est en cette qualité, que j'ose vous offrir un tribut que vous m'avez aidé à payer ; c'est le fruit de vos leçons que je vous présente et dont je vous rends grâce. Je suis avec un très profond respect, Messieurs,</p>
-<signature>Votre très humble et très obéissant serviteur, Nivelle de la Chaussée</signature>
-</div>
+		<div type="dedicace">
+			<head>À messieurs de l'Académie française.</head>
+			<p>Permettez-moi de mettre sous vos auspices, ces essais d'une muse qui vous était déjà dévouée, et qui reconnaît ne devoir attribuer ses succès qu'à vous seuls, c'est un témoignage public qu'elle doit aux bontés et aux secours qu'elle a reçus des « Illustres Amis » que son bonheur lui a procurés parmi vous. Oui, Messieurs, la seule reconnaissance fera tout le prix de l'hommage que vous rend un de vos nourrissons ; c'est en cette qualité, que j'ose vous offrir un tribut que vous m'avez aidé à payer ; c'est le fruit de vos leçons que je vous présente et dont je vous rends grâce. Je suis avec un très profond respect, Messieurs,</p>
+			<signature>Votre très humble et très obéissant serviteur, Nivelle de la Chaussée</signature>
+		</div>
+		<castList>
+			<head>ACTEURS DU PROLOGUE</head>
+			<castItem><role id="LE GÉNIE DE LA COMÉDIE FRANÇAISE" sex="9" type="H" statut='allégorie' age='A' stat_amour='néant'>LE GÉNIE DE LA COMÉDIE FRANÇAISE</role>.</castItem>
+			<castItem><role id="LA FOLIE" sex="9" type="H" statut='bourgeois' age='A' stat_amour='néant'>LA FOLIE</role>.</castItem>
+			<castItem><role id="LE BON-SENS" sex="9" type="H" statut='bourgeois' age='A' stat_amour='néant'>LE BON-SENS</role>.</castItem>
+			<castItem><role id="UN BOURGEOIS" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>UN BOURGEOIS</role>.</castItem>
+			<castItem><role id="UNE PRÉCIEUSE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>UNE PRÉCIEUSE</role>.</castItem>
+			<castItem><role id="UN CRITIQUE" sex="1" type="H" statut='critique' age='A' stat_amour='néant'>UN CRITIQUE</role>.</castItem>
+			<castItem><role id="UN PETIT-MAÎTRE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>UN PETIT-MAÎTRE</role>.</castItem>
+			<castItem><role id="UN HOMME SENSÉ" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>UN HOMME SENSÉ</role>.</castItem>
+			<castItem><role id="THALIE" sex="2" type="D" statut='muse' age='A' stat_amour='néant'>THALIE</role>.</castItem>
+		</castList>
 		<castList>
 			<head>ACTEURS</head>
 			<castItem><role id="LÉONORE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>LÉONORE</role>.</castItem>
@@ -62,7 +74,7 @@
 <body>
 <div1 type="act" n='1'><head>PROLOGUE</head>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE.</head>
-<sp who='LE GÉNIE'><speaker>LE GÉNIE de la Comédie Française, seul.</speaker>
+<sp stage="alone" who='LE GÉNIE'><speaker>LE GÉNIE de la Comédie Française, seul.</speaker>
 	<l id='1'>On ne se plaindra plus que je suis indocile.</l>
 	<l id='2'>Sur le goût du public je vais être éclairci :</l>
 	<l id='3'>Lui-même, il m'apprendra ce secret difficile...</l>
@@ -110,10 +122,10 @@
 </sp>
 <sp who='LA FOLIE'><speaker>LA FOLIE.</speaker>
 	<l id='27'>Qu'appelez-vous le véritable ?</l>
-	<l id='28' part='i'>Combien en tentez-vous ?</l>
+	<l id='28' syll="6" part="i">Combien en tentez-vous ?</l>
 </sp>
 <sp who='LE BON-SENS'><speaker>LE BON-SENS.</speaker>
-	<l id='28' part='f'>Autant qu'il est de gens,</l>
+	<l id='28' syll="6" part="f">Autant qu'il est de gens,</l>
 	<l id='29'>Dont les goûts sont entre eux plus ou moins différents,</l>
 	<l id='30'>Le moindre cercle usurpe un nom si respectable ;</l>
 	<l id='31'>C'est là qu'un suffisant décide à tout hasard,</l>
@@ -154,36 +166,36 @@
 	<l id='56'>On m'aime ; et l'on vous craint : voilà la différence.</l>
 	<l id='57'>Lorsque vous paraissez, on baille ; et rien de plus.</l>
 	<l id='58'>Ah ! Je ressens déjà l'effet de sa présence.</l>
-<stage type="[N/A]">Elle baille.</stage>
+<stage type="yawn">Elle baille.</stage>
 	<l id='59'>Oh ! Vous allez jouer un rôle fort plaisant.</l>
 </sp>
 <sp who='LE BON-SENS'><speaker>LE BON-SENS.</speaker>
 	<l id='60'>On va plaider ma cause, et j'y serai présent.</l>
 </sp>
 <sp who='LA FOLIE'><speaker>LA FOLIE</speaker>
-	<l id='61' part='i'>Tant pis.</l>
+	<l id='61' syll="2" part="i">Tant pis.</l>
 </sp>
 <sp who='LE BON-SENS'><speaker>LE BON-SENS.</speaker>
-	<l id='61' part='m'>Peut-être.</l>
+	<l id='61' syll="4" part="m">Peut-être.</l>
 </sp>
 </div2>
-<div2 type="scene" n='1'><head>SCÈNE I.I. Le Génie, LE Folie, LE Bon-sens, une Précieuse, Un Bourgeois, un Critique, un Admirateur, un Homme sensé.</head>
-<stage type="[N/A]">Ils font tous amitié au Bon-Sens.</stage>
-<sp who='LA CRITIQUE'><speaker>LA CRITIQUE, caressant le Bon-Sens.</speaker>
+<div2 type="scene" n='3'><head>SCÈNE III. Le Génie, La Folie, Le Bon-sens, une Précieuse, un Bourgeois, un Critique, un Admirateur, un Homme sensé.</head>
+<stage type="wave">Ils font tous amitié au Bon-Sens.</stage>
+<sp stage="friendly" who='LA CRITIQUE'><speaker>LA CRITIQUE, caressant le Bon-Sens.</speaker>
 <stage type="toward">À la folie</stage>
-	<l id='61' part='f'>Ah ! Serviteur, Déesse.</l>
+	<l id='61' syll="6" part="f">Ah ! Serviteur, Déesse.</l>
 </sp>
 <sp who='LA FOLIE'><speaker>LA FOLIE.</speaker>
 	<l id='62'>D'où vient donc que ces gens lui font tant de caresses ?</l>
 </sp>
-<sp who='LA CRITIQUE'><speaker>LA CRITIQUE, au Bon-Sens.</speaker>
+<sp stage="toward" who='LA CRITIQUE'><speaker>LA CRITIQUE, au Bon-Sens.</speaker>
 	<l id='63'>Ah ! Parbleu, mon Patron, je vous sers assez bien,</l>
 	<l id='64'>Envers et contre-tous ; je ne ménage rien.</l>
 	<l id='65'>Vous êtes ce que j'ai de plus cher au monde.</l>
 	<l id='66'>Sans cesse, à tout propos, je critique, je fronde.</l>
 	<l id='67'>Malheur à tous les sots, y compris les auteurs ;</l>
-	<l id='68'>Sans compter les admirateurs. ;</l>
-<stage type="[N/A]">Il fait une révérence à l'Admirateur.</stage>
+	<l id='68'>Sans compter les admirateurs.</l>
+<stage type="wave">Il fait une révérence à l'Admirateur.</stage>
 	<l id='69'>Quand, suivant leur coutume, ils vous font quelque outrage,</l>
 	<l id='70'>Ventrebleu ! Je m'élève, et contre eux je fais rage.</l>
 </sp>
@@ -202,13 +214,13 @@
 	<l id='78'>Personne, en vérité, ne s'exprime comme elle.</l>
 </sp>
 <sp who='LA CRITIQUE'><speaker>LA CRITIQUE.</speaker>
-	<l id='79' part='i'>Tant pis, morbleu.</l>
+	<l id='79' syll="4" part="i">Tant pis, morbleu.</l>
 </sp>
 <sp who='LA FOLIE'><speaker>LA FOLIE</speaker>
-	<l id='79' part='f'>Voyons ; ce n'est pas d'aujourd'hui</l>
+	<l id='79' syll="8" part="f">Voyons ; ce n'est pas d'aujourd'hui</l>
 	<l id='80'>Que je vois les plus fous se réclamer de lui.</l>
 </sp>
-<sp who='LE BOURGEOIS'><speaker>LE BOURGEOIS, au Bon-Sens.</speaker>
+<sp stage="toward" who='LE BOURGEOIS'><speaker>LE BOURGEOIS, au Bon-Sens.</speaker>
 	<l id='81'>Touchez-là, notre ami ; je suis aussi le vôtre.</l>
 	<l id='82'>Demandez à ma femme, à qui, soir et matin,</l>
 	<l id='83'>je vous prône sans cesse; et c'est, comme dit l'autre,</l>
@@ -219,10 +231,10 @@
 	<l id='86'>Je suis chargé du soin de vos amusements.</l>
 	<l id='87'>Je voudrais, s'il se peut, ne déplaire à personne ;</l>
 	<l id='88'>Et réunir enfin vos applaudissements.</l>
-	<l id='89' part='i'>Donnez m'en la secret ; vous le savez ?</l>
+	<l id='89' syll="10" part="i">Donnez m'en le secret ; vous le savez ?</l>
 </sp>
 <sp who='TOUS'><speaker>TOUS.</speaker>
-	<l id='89' part='f'>Sans doute.</l>
+	<l id='89' syll="2" part="f">Sans doute.</l>
 </sp>
 <sp who='LE GÉNIE'><speaker>LE GÉNIE.</speaker>
 	<l id='90'>Convenez entre vous ; déterminez ma route ;</l>
@@ -248,10 +260,10 @@
 	<l id='102'>En un mot, j'aime à rire, à gorge déployée.</l>
 </sp>
 <sp who='LA PRÉCIEUSE'><speaker>LA PRÉCIEUSE</speaker>
-	<l id='103' part='i'>Est-ce qu'on rit encore ?</l>
+	<l id='103' syll="6" part="i">Est-ce qu'on rit encore ?</l>
 </sp>
 <sp who='LE BOURGEOIS'><speaker>LE BOURGEOIS</speaker>
-	<l id='103' part='f'>Est-ce qu'on ne rit plus ?</l>
+	<l id='103' syll="3" part="f">Est-ce qu'on ne rit plus ?</l>
 	<l id='104'>Vous me la donnez belle ! Et, par quelle aventure...</l>
 </sp>
 <sp who='LA PRÉCIEUSE'><speaker>LA PRÉCIEUSE</speaker>
@@ -259,50 +271,51 @@
 </sp>
 <sp who='LE BOURGEOIS'><speaker>LE BOURGEOIS</speaker>
 	<l id='106'>Et le Bon-Sens aussi. Je m'en moque. Au surplus,</l>
+<note type="L">Samblau : ou Palsembleu, juron gascon : par le sang de Dieu.</note>
 	<l id='107'>Je veux rire ; ou sambleu ! Je prendrai ma revanche.</l>
 	<l id='108'>Monsieur l'ordonnateur, adieu, jusqu'à dimanche.</l>
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Le Génie, La Folie, Le Bon-Sens, La Précieuse, Le Critique, L'Admirateur, l'Homme sensé.</head>
 <sp who='LE BON-SENS'><speaker>LE BON-SENS</speaker>
-	<l id='109' part='i'>Et d'un public.</l>
+	<l id='109' syll="4" part="i">Et d'un public.</l>
 </sp>
 <sp who='LA FOLIE'><speaker>LA FOLIE</speaker>
-	<l id='109' part='f'>Eh bien ? Celui-là par hasard</l>
-	<l id='110' part='i'>N'est-il point à vous ?</l>
+	<l id='109' syll="8" part="f">Eh bien ? Celui-là par hasard</l>
+	<l id='110' syll="6" part="i">N'est-il point à vous ?</l>
 </sp>
 <sp who='LE BON-SENS'><speaker>LE BON-SENS.</speaker>
-	<l id='110' part='f'>Non : je n'y prends point de part.</l>
+	<l id='110' syll="6" part="f">Non : je n'y prends point de part.</l>
 </sp>
 <sp who='LA FOLIE'><speaker>LA FOLIE</speaker>
-	<l id='111' part='i'>Ainsi du reste.</l>
+	<l id='111' syll="4" part="i">Ainsi du reste.</l>
 <stage type="toward">Au critique.</stage>
-	<l id='111' part='f'>À vous, caustique impitoyable.</l>
+	<l id='111' syll="8" part="f">À vous, caustique impitoyable.</l>
 </sp>
 <sp who='LE GÉNIE'><speaker>LE GÉNIE.</speaker>
 	<l id='112'>Dites-nous votre avis. Que trouvez-vous de bon ?</l>
 </sp>
 <sp who='LE-CRITIQUE'><speaker>LE CRITIQUE.</speaker>
-	<l id='113' part='i'>Rien.</l>
+	<l id='113' syll="1" part="i">Rien.</l>
 </sp>
 <sp who='LE GÉNIE'><speaker>LE GÉNIE.</speaker>
-	<l id='113' part='m'>Rien ?</l>
+	<l id='113' syll="1" part="m">Rien ?</l>
 </sp>
 <sp who='LE-CRITIQUE'><speaker>LE CRITIQUE.</speaker>
-	<l id='113' part='f'>Oui, rien de bon, ni même de passable.</l>
+	<l id='113' syll="10" part="f">Oui, rien de bon, ni même de passable.</l>
 </sp>
 <sp who='LE GÉNIE'><speaker>LE GÉNIE.</speaker>
-	<l id='114' part='i'>Vous ne louez donc jamais ?</l>
+	<l id='114' syll="7" part="i">Vous ne louez donc jamais ?</l>
 </sp>
-<sp who='LE-CRITIQUE'><speaker>LE CRITIQUE.</speaker>
-	<l id='114' part='f'>Non;</l>
+<sp who='LE CRITIQUE'><speaker>LE CRITIQUE.</speaker>
+	<l id='114' syll="1" part="f">Non ;</l>
 	<l id='115'>Je n'en eux de mes jours la sotte complaisance.</l>
 </sp>
 <sp who='LE GÉNIE'><speaker>LE GÉNIE.</speaker>
-	<l id='116' part='i'>Quoi, Vous n'approuvez rien ?</l>
+	<l id='116' syll="6" part="i">Quoi, vous n'approuvez rien ?</l>
 </sp>
-<sp who='LE-CRITIQUE'><speaker>LE CRITIQUE.</speaker>
-	<l id='116' part='f'>Je n'ai jamais été </l>
+<sp who='LE CRITIQUE'><speaker>LE CRITIQUE.</speaker>
+	<l id='116' syll="6" part="f">Je n'ai jamais été </l>
 	<l id='117'>Réduit à cette extrémité :</l>
 	<l id='118'>Et pour n'y pas tomber, je blâme tout d'avance.</l>
 	<l id='119'>Le titre de l'ouvrage, et le nom de l'auteur,</l>
@@ -322,14 +335,14 @@
 	<l id='131'>Et trouve des défauts partout,</l>
 	<l id='132'>Qui ne sont bine souvent que dans son propre goût,</l>
 </sp>
-<sp who='LE-CRITIQUE'><speaker>LE CRITIQUE.</speaker>
-	<l id='133' part='i'>Ah ! Vous êtes trop bon.</l>
+<sp who='LE CRITIQUE'><speaker>LE CRITIQUE.</speaker>
+	<l id='133' syll="6" part="i">Ah ! Vous êtes trop bon.</l>
 </sp>
 <sp who='LE GÉNIE'><speaker>LE GÉNIE</speaker>
-	<l id='133' part='f'>Et vous, trop intraitable.</l>
+	<l id='133' syll="6" part="f">Et vous, trop intraitable.</l>
 	<l id='134'>Je n'ai rien à vous demander.</l>
 </sp>
-<sp who='LE-CRITIQUE'><speaker>LE CRITIQUE.</speaker>
+<sp who='LE CRITIQUE'><speaker>LE CRITIQUE.</speaker>
 	<l id='135'>Cependant je puis vous aider</l>
 	<l id='136'>A donner un spectacle un peu moins détestable.</l>
 	<l id='137'>Je connais le public. Il est malin, cruel,</l>
@@ -352,7 +365,7 @@
 <sp who='LA FOLIE'><speaker>LA FOLIE</speaker>
 	<l id='151'>Vous voulez supprimer la plaisir de médire ?</l>
 </sp>
-<sp who='LE-CRITIQUE'><speaker>LE CRITIQUE.</speaker>
+<sp who='LE CRITIQUE'><speaker>LE CRITIQUE.</speaker>
 	<l id='152'>Qu'importe que l'on nuise aussitôt qu'on fait rire ?</l>
 	<l id='153'>Tombera sur ce peuple d'auteurs</l>
 	<l id='154'>À qui l'appas du gain et sa fainéantise</l>
@@ -366,15 +379,15 @@
 	<l id='162'>De ceux que tous les jours on lui voit admirer.</l>
 </sp>
 <sp who='LE GÉNIE'><speaker>LE GÉNIE.</speaker>
-	<l id='163' part='i'>En suivant votre avis...</l>
+	<l id='163' syll="6" part="i">En suivant votre avis...</l>
 </sp>
-<sp who='LE-CRITIQUE'><speaker>LE CRITIQUE.</speaker>
-	<l id='163' part='f'>Vous ne pouvez mieux faire.</l>
+<sp who='LE CRITIQUE'><speaker>LE CRITIQUE.</speaker>
+	<l id='163' syll="6" part="f">Vous ne pouvez mieux faire.</l>
 </sp>
 <sp who='LE GÉNIE'><speaker>LE GÉNIE.</speaker>
 	<l id='164'>Je serai donc sûr de vous plaire.</l>
 </sp>
-<sp who='LE-CRITIQUE'><speaker>LE CRITIQUE.</speaker>
+<sp who='LE CRITIQUE'><speaker>LE CRITIQUE.</speaker>
 	<l id='165'>Point du tout. Quant à moi, ce que je vous en dis,</l>
 	<l id='166'>C'est pour votre profit. Jamais je n'applaudis.</l>
 </sp>
@@ -404,11 +417,11 @@
 	<l id='185'>Et toujours imprévu dans vos expressions.</l>
 	<l id='186'>Agences votre style à l'air de vos pensées.</l>
 </sp>
-<sp who="L'ADMIRATEUR"><speaker>L'ADMIRATEUR, battant des mains.</speaker>
-	<l id='187' part='i'>Ah miracle !</l>
+<sp stage="applause" who="L'ADMIRATEUR"><speaker>L'ADMIRATEUR, battant des mains.</speaker>
+	<l id='187' syll="4" part="i">Ah miracle !</l>
 </sp>
 <sp who='LE BON-SENS'><speaker>LE BON-SENS.</speaker>
-	<l id='187' part='f'>Monsieur entend apparemment</l>
+	<l id='187' syll="8" part="f">Monsieur entend apparemment</l>
 	<l id='188'>Ce jargon-là tout couramment ?</l>
 </sp>
 <sp who="L'ADMIRATEUR"><speaker>L'ADMIRATEUR.</speaker>
@@ -422,7 +435,7 @@
 	<l id='193'>C'est celui de l'esprit. Quiconque en parle un autre ;</l>
 	<l id='194'>Encanaille à la fois sa langue et son esprit.</l>
 </sp>
-<sp who='LE GÉNIE'><speaker>LE GÉNIE, au Bon-sens.</speaker>
+<sp stage="toward" who='LE GÉNIE'><speaker>LE GÉNIE, au Bon-sens.</speaker>
 	<l id='195'>Donnerons-nous encor dans ce tatillonnage ?</l>
 </sp>
 <sp who='LE BON-SENS'><speaker>LE BON-SENS</speaker>
@@ -433,20 +446,20 @@
 	<l id='200'>Il doit être pour vous aussi bon que pour eux.</l>
 </sp>
 <sp who='LA PRÉCIEUSE'><speaker>LA PRÉCIEUSE</speaker>
-	<l id='201' part='i'>J'en appelle.</l>
+	<l id='201' syll="3" part="i">J'en appelle.</l>
 </sp>
 <sp who='LE GÉNIE'><speaker>LE GÉNIE.</speaker>
-	<l id='201' part='m'>À qui donc ?</l>
+	<l id='201' syll="3" part="m">À qui donc ?</l>
 </sp>
 <sp who='LA PRÉCIEUSE'><speaker>LA PRÉCIEUSE.</speaker>
-	<l id='201' part='m'>Au bon sens.</l>
+	<l id='201' syll="3" part="m">Au bon sens.</l>
 </sp>
 <sp who='LE GÉNIE'><speaker>LE GÉNIE.</speaker>
-	<l id='201' part='f'>C'est lui-même.</l>
-	<l id='202' part='i'>Qui vient de décider.</l>
+	<l id='201' syll="3" part="f">C'est lui-même.</l>
+	<l id='202' syll="6" part="i">Qui vient de décider.</l>
 </sp>
 <sp who='LA PRÉCIEUSE'><speaker>LA PRÉCIEUSE.</speaker>
-	<l id='202' part='f'>Votre erreur est extrême.</l>
+	<l id='202' syll="6" part="f">Votre erreur est extrême.</l>
 	<l id='203'>Je m'y connais : ce n'est point lui.</l>
 	<l id='204'>Ismène ouvre, ce soir, son cercle académique.</l>
 	<l id='205'>On doit en sa faveur y relire aujourd'hui</l>
@@ -469,10 +482,10 @@
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Le Génie, La Folie, Le Bon-sens, L'Admirateur, L'Homme sensé.</head>
 <sp who='LE BON-SENS'><speaker>LE BON-SENS.</speaker>
-	<l id='215' part='i'>La bonne connaissance !</l>
+	<l id='215' syll="6" part="i">La bonne connaissance !</l>
 </sp>
 <sp who='LA FOLIE'><speaker>LA FOLIE.</speaker>
-	<l id='215' part='f'>Allez, ma chère amie ;</l>
+	<l id='215' syll="6" part="f">Allez, ma chère amie ;</l>
 	<l id='216'>J'aurai soin de me rendre à votre Académie.</l>
 </sp>
 <sp who="L'ADMIRATEUR"><speaker>L'ADMIRATEUR.</speaker>
@@ -488,10 +501,10 @@
 	<l id='226'>À l'heure du dîner, pour leur commodité,</l>
 	<l id='227'>Mon cuisinier fait des merveilles.</l>
 	<l id='228'>Ces messieurs, à leur tour, enchantent nos oreilles.</l>
-	<l id='229' part='i'>Ainsi...</l>
+	<l id='229' syll="2" part="i">Ainsi...</l>
 </sp>
 <sp who='LE GÉNIE'><speaker>LE GÉNIE.</speaker>
-	<l id='229' part='f'>De vos avis on se passera bien.</l>
+	<l id='229' syll="10" part="f">De vos avis on se passera bien.</l>
 	<l id='230'>Quiconque admire tout, ne se connaît à rien.</l>
 </sp>
 </div2>
@@ -501,7 +514,7 @@
 <stage type="toward">À la Folie.</stage>
 	<l id='232'>Déesse, vous voilà ! Je vous en félicite.</l>
 	<l id='233'>Je vous trouve partout ou l'on trouve quelqu'un,</l>
-<stage type="[N/A]">Montrant le Bon-Sens.</stage>
+<stage type="show">Montrant le Bon-Sens.</stage>
 	<l id='234'>Quel est ce visage importun ?</l>
 	<l id='235'>Je n'ai vu sa figure en aucun lieu du monde.</l>
 	<l id='236'>Cela sent son poète une lieue à sa ronde.</l>
@@ -513,56 +526,56 @@
 	<l id='238'>Avez qui vous n'aurez jamais de liaison.</l>
 </sp>
 <sp who='LE PETIT-MAÎTRE'><speaker>LE PETIT-MAÎTRE.</speaker>
-	<l id='239' part='i'>Qu'on nomme ?</l>
+	<l id='239' syll="3" part="i">Qu'on nomme ?</l>
 </sp>
 <sp who='LA FOLIE'><speaker>LA FOLIE.</speaker>
-	<l id='239' part='m'>Le Bon-Sens.</l>
+	<l id='239' syll="3" part="m">Le Bon-Sens.</l>
 </sp>
 <sp who='LE PETIT-MAÎTRE'><speaker>LE PETIT-MAÎTRE.</speaker>
-	<l id='239' part='f'>Oui, je me le rappelle.</l>
+	<l id='239' syll="6" part="f">Oui, je me le rappelle.</l>
 </sp>
 <sp who='LE BON-SENS'><speaker>LE BON-SENS</speaker>
-	<l id='240' part='i'>C'est du plus loin.</l>
+	<l id='240' syll="4" part="i">C'est du plus loin.</l>
 </sp>
 <sp who='LE PETIT-MAÎTRE'><speaker>LE PETIT-MAÎTRE </speaker>
-	<l id='240' part='f'>Quelle nouvelle ?</l>
-	<l id='241' part='i'>Hé bien ? Qu'a-t-on conclu ?</l>
+	<l id='240' syll="4" part="f">Quelle nouvelle ?</l>
+	<l id='241' syll="6" part="i">Hé bien ? Qu'a-t-on conclu ?</l>
 </sp>
 <sp who='LE GÉNIE'><speaker>LE GÉNIE.</speaker>
-	<l id='241' part='f'>Rien encore entre nous.</l>
+	<l id='241' syll="6" part="f">Rien encore entre nous.</l>
 </sp>
 <sp who='LE PETIT-MAÎTRE'><speaker>LE PETIT-MAÎTRE.</speaker>
-	<l id='242' part='i'>Qu'attend-on ?</l>
+	<l id='242' syll="3" part="i">Qu'attend-on ?</l>
 </sp>
 <sp who='LE GÉNIE'><speaker>LE GÉNIE.</speaker>
-	<l id='242' part='m'>Votre avis.</l>
+	<l id='242' syll="3" part="m">Votre avis.</l>
 </sp>
 <sp who='LE PETIT-MAÎTRE'><speaker>LE PETIT-MAÎTRE.</speaker>
-	<l id='242' part='m'>Soit.</l>
+	<l id='242' syll="1" part="m">Soit.</l>
 </sp>
 <sp who='LE GÉNIE'><speaker>LE GÉNIE.</speaker>
-	<l id='242' part='f'>D'abord, aimez-vous ?...</l>
+	<l id='242' syll="5" part="f">D'abord, aimez-vous ?...</l>
 </sp>
 <sp who='LE PETIT-MAÎTRE'><speaker>LE PETIT-MAÎTRE.</speaker>
-	<l id='243' part='i'>Beaucoup.</l>
+	<l id='243' syll="2" part="i">Beaucoup.</l>
 </sp>
 <sp who='LE GÉNIE'><speaker>LE GÉNIE.</speaker>
-	<l id='243' part='m'>La comédie ?</l>
+	<l id='243' syll="4" part="m">La comédie ?</l>
 </sp>
 <sp who='LE PETIT-MAÎTRE'><speaker>LE PETIT-MAÎTRE.</speaker>
-	<l id='243' part='f'>Oui, quand elle est meublée.</l>
+	<l id='243' syll="6" part="f">Oui, quand elle est meublée.</l>
 </sp>
 <sp who='LE GÉNIE'><speaker>LE GÉNIE.</speaker>
-	<l id='244' part='i'>Qui vous la fait aimer ?</l>
+	<l id='244' syll="6" part="i">Qui vous la fait aimer ?</l>
 </sp>
 <sp who='LE PETIT-MAÎTRE'><speaker>LE PETIT-MAÎTRE.</speaker>
-	<l id='244' part='f'>Le monde, et l'assemblée.</l>
+	<l id='244' syll="6" part="f">Le monde, et l'assemblée.</l>
 </sp>
 <sp who='LE GÉNIE'><speaker>LE GÉNIE.</speaker>
-	<l id='245' part='i'>Mais...</l>
+	<l id='245' syll="1" part="i">Mais...</l>
 </sp>
 <sp who='LE PETIT-MAÎTRE'><speaker>LE PETIT-MAÎTRE.</speaker>
-	<l id='245' part='f'>Le monde se cherche, et je le cherche aussi.</l>
+	<l id='245' syll="11" part="f">Le monde se cherche, et je le cherche aussi.</l>
 </sp>
 <sp who='LE GÉNIE'><speaker>LE GÉNIE.</speaker>
 	<l id='246'>C'est là tout ce qui peut vous attirer ici ?</l>
@@ -582,10 +595,10 @@
 	<l id='258'>Cela fait un coup de théâtre.</l>
 </sp>
 <sp who='LE GÉNIE'><speaker>LE GÉNIE.</speaker>
-	<l id='259' part='i'>Et la pièce ?</l>
+	<l id='259' syll="4" part="i">Et la pièce ?</l>
 </sp>
 <sp who='LE PETIT-MAÎTRE'><speaker>LE PETIT-MAÎTRE.</speaker>
-	<l id='259' part='f'>Elle va son train, et moi, le mien.</l>
+	<l id='259' syll="8" part="f">Elle va son train, et moi, le mien.</l>
 </sp>
 <sp who='LE GÉNIE'><speaker>LE GÉNIE.</speaker>
 	<l id='260'>Sans qu'elle vous occupe en rien ?</l>
@@ -602,23 +615,23 @@
 	<l id='269'>La pièce est aux abois ; le dernier acte expire.</l>
 </sp>
 <sp who='LE GÉNIE'><speaker>LE GÉNIE.</speaker>
-	<l id='270' part='i'>Et vous jugez alors ?...</l>
+	<l id='270' syll="6" part="i">Et vous jugez alors ?...</l>
 </sp>
 <sp who='LE PETIT-MAÎTRE'><speaker>LE PETIT-MAÎTRE.</speaker>
-	<l id='270' part='f'>Définitivement.</l>
+	<l id='270' syll="6" part="f">Définitivement.</l>
 </sp>
 <sp who='LE GÉNIE'><speaker>LE GÉNIE.</speaker>
 	<l id='271'>Mais encor, que pouvez-vous dire ?</l>
 </sp>
 <sp who='LE PETIT-MAÎTRE'><speaker>LE PETIT-MAÎTRE.</speaker>
 	<l id='272'>Ma décision roule alternativement</l>
-	<l id='273' part='i'>Sur ces deux mots...</l>
+	<l id='273' syll="4" part="i">Sur ces deux mots...</l>
 </sp>
 <sp who='LE GÉNIE'><speaker>LE GÉNIE.</speaker>
-	<l id='273' part='m'>Qui sont ?</l>
+	<l id='273' syll="2" part="m">Qui sont ?</l>
 </sp>
 <sp who='LE PETIT-MAÎTRE'><speaker>LE PETIT-MAÎTRE.</speaker>
-	<l id='273' part='f'>Divin, ou détestable,</l>
+	<l id='273' syll="6" part="f">Divin, ou détestable,</l>
 	<l id='274'>Et souvent le dernier est le plus véritable.</l>
 </sp>
 <sp who='LE GÉNIE'><speaker>LE GÉNIE.</speaker>
@@ -633,10 +646,10 @@
 	<l id='279'>Pour l'attiser ici, savez-vous un moyen ?</l>
 </sp>
 <sp who='LE PETIT-MAÎTRE'><speaker>LE PETIT-MAÎTRE.</speaker>
-	<l id='280' part='i'>Parbleu, rien n'est plus simple.</l>
+	<l id='280' syll="6" part="i">Parbleu, rien n'est plus simple.</l>
 </sp>
 <sp who='LE GÉNIE'><speaker>LE GÉNIE.</speaker>
-	<l id='280' part='f'>Hé bien ?</l>
+	<l id='280' syll="2" part="f">Hé bien ?</l>
 </sp>
 <sp who='LE PETIT-MAÎTRE'><speaker>LE PETIT-MAÎTRE.</speaker>
 	<l id='281'>Les nouveautés sont toujours belles.</l>
@@ -659,20 +672,20 @@
 	<l id='292'>Peut-être que j'aurai mon tour.</l>
 </sp>
 <sp who='LE GÉNIE'><speaker>LE GÉNIE à l'Homme sensé.</speaker>
-	<l id='293' part='i'>Passons à vous, Monsieur.</l>
+	<l id='293' syll="6" part="i">Passons à vous, Monsieur.</l>
 </sp>
 <sp who="L'HOMME SENSÉ"><speaker>L'HOMME SENSÉ.</speaker>
-	<l id='293' part='f'>Moi, sur cette matière</l>
+	<l id='293' syll="6" part="f">Moi, sur cette matière</l>
 	<l id='294'>Je n'ai qu'un faible usage, et fort peu de lumière.</l>
-	<l id='295' part='i'>Je pourrais me tromper.</l>
+	<l id='295' syll="6" part="i">Je pourrais me tromper.</l>
 </sp>
 <sp who='LA FOLIE'><speaker>LA FOLIE.</speaker>
-	<l id='295' part='f'>C'en est le pis-aller.</l>
+	<l id='295' syll="6" part="f">C'en est le pis-aller.</l>
 	<l id='296'>Cela ne doit jamais empêcher de parler.</l>
-	<l id='297' part='i'>Comment ? Vous rougissez ?</l>
+	<l id='297' syll="6" part="i">Comment ? Vous rougissez ?</l>
 </sp>
 <sp who="L'HOMME SENSÉ"><speaker>L'HOMME SENSÉ.</speaker>
-	<l id='297' part='f'>J'ai lieu d'être timide.</l>
+	<l id='297' syll="6" part="f">J'ai lieu d'être timide.</l>
 </sp>
 <sp who='LA FOLIE'><speaker>LA FOLIE.</speaker>
 	<l id='298'>On pense mal des gens qui n'osent dire un mot.</l>
@@ -681,19 +694,19 @@
 	<l id='299'>Souvent il n'en faut qu'un pour passer pour un sot.</l>
 </sp>
 <sp who='LA FOLIE'><speaker>LA FOLIE.</speaker>
-	<l id='300' part='i'>Bon, bon, dites toujours.</l>
+	<l id='300' syll="6" part="i">Bon, bon, dites toujours.</l>
 </sp>
 <sp who="L'HOMME SENSÉ"><speaker>L'HOMME SENSÉ.</speaker>
-	<l id='300' part='f'>Jamais je ne décide.</l>
+	<l id='300' syll="6" part="f">Jamais je ne décide.</l>
 </sp>
 <sp who='LA FOLIE'><speaker>LA FOLIE.</speaker>
-	<l id='301' part='i'>Peut-on s'en empêcher ?</l>
+	<l id='301' syll="6" part="i">Peut-on s'en empêcher ?</l>
 </sp>
 <sp who="L'HOMME SENSÉ"><speaker>L'HOMME SENSÉ.</speaker>
-	<l id='301' part='f'>J'écoute ce qu'on dit ;</l>
+	<l id='301' syll="6" part="f">J'écoute ce qu'on dit ;</l>
 	<l id='302'>Et je tâche au surplus de la mettre à profit.</l>
 </sp>
-<sp who='LE BON-SENS'><speaker>LE BON-SENS, à part.</speaker>
+<sp stage="aparte" who='LE BON-SENS'><speaker>LE BON-SENS, à part.</speaker>
 	<l id='303'>Cet homme, par hasard, serait-il raisonnable ?</l>
 	<l id='304'>J'aime sa retenue, et sa timidité.</l>
 	<l id='305'>Quand on compte si peu sur sa capacité,</l>
@@ -816,7 +829,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI.</head>
-<sp who='LE GÉNIE'><speaker>LE GÉNIE, seul.</speaker>
+<sp stage="alone" who='LE GÉNIE'><speaker>LE GÉNIE, seul.</speaker>
 	<l id='385'>Je suis dépourvu. Que faut-il que je fasse ?</l>
 	<l id='386'>La Folie en tous temps, est bonne à ménager.</l>
 </sp>
@@ -833,41 +846,41 @@
 	<l id='390'>Un seul m'a paru bon ; mais il est dangereux.</l>
 </sp>
 <sp who='THALIE'><speaker>THALIE.</speaker>
-	<l id='391' part='i'>Il faut pourtant le suivre.</l>
+	<l id='391' syll="6" part="i">Il faut pourtant le suivre.</l>
 </sp>
 <sp who='LE GÉNIE'><speaker>LE GÉNIE.</speaker>
-	<l id='391' part='f'>Où prendrez-vous des pièces ?</l>
+	<l id='391' syll="6" part="f">Où prendrez-vous des pièces ?</l>
 </sp>
 <sp who='THALIE'><speaker>THALIE.</speaker>
 	<l id='392'>Les Bon-sens t'a promis ses soins officieux.</l>
 </sp>
 <sp who='LE GÉNIE'><speaker>LE GÉNIE.</speaker>
 	<l id='393'>Oui, mais en attendant l'effet de ses promesses,</l>
-	<l id='394' part='i'>Je n'ai rien à donner.</l>
+	<l id='394' syll="6" part="i">Je n'ai rien à donner.</l>
 </sp>
 <sp who='THALIE'><speaker>THALIE.</speaker>
-	<l id='394' part='f'>Eh bien ? Faute de mieux,</l>
-	<l id='395' part='i'>Prends cette comédie.</l>
-<stage type="[N/A]">Lui présentant un manuscrit.</stage>
+	<l id='394' syll="6" part="f">Eh bien ? Faute de mieux,</l>
+	<l id='395' syll="6" part="i">Prends cette comédie.</l>
+<stage type="show">Lui présentant un manuscrit.</stage>
 </sp>
 <sp who='LE GÉNIE'><speaker>LE GÉNIE</speaker>
-	<l id='395' part='f'>Est-ce une bonne aubaine ?</l>
+	<l id='395' syll="6" part="f">Est-ce une bonne aubaine ?</l>
 </sp>
 <sp who='THALIE'><speaker>THALIE.</speaker>
 	<l id='396'>C'est l'essai d'un auteur que je connais à peine.</l>
 </sp>
 <sp who='LE GÉNIE'><speaker>LE GÉNIE.</speaker>
-	<l id='397' part='i'>Tant pis.</l>
+	<l id='397' syll="2" part="i">Tant pis.</l>
 </sp>
 <sp who='THALIE'><speaker>THALIE.</speaker>
-	<l id='397' part='f'>Au bas du Pinde on m'a fait ce présent.</l>
+	<l id='397' syll="10" part="f">Au bas du Pinde on m'a fait ce présent.</l>
 </sp>
 <note type="L">Pinde : Montagne qui se trouve en Thessalie (Grèce), elle est consacrée à Apollon et aux Muses.</note>
 <sp who='LE GÉNIE'><speaker>LE GÉNIE.</speaker>
-	<l id='398' part='i'>Si c'en est un.</l>
+	<l id='398' syll="4" part="i">Si c'en est un.</l>
 </sp>
 <sp who='THALIE'><speaker>THALIE.</speaker>
-	<l id='398' part='f'>Peut-être. Et je n'ose à présent</l>
+	<l id='398' syll="8" part="f">Peut-être. Et je n'ose à présent</l>
 	<l id='399'>Jurer de rien, en fait d'ouvrage,</l>
 	<l id='400'>Le Public qu'on prévient, refuse son suffrage.</l>
 	<l id='401'>Entre-nous, celui-ci paraît hasardeux.</l>
@@ -881,33 +894,33 @@
 </div1>
 <div1 type="act" n='1'><head>ACTE I</head>
 <div2 type="scene" n='1'><head>SCÈNE I. Frontin, Nérine.</head>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='405'>Ton maître et ma maîtresse auraient bien dû s'aimer.</l>
-	<l id='406' part='i'>C'est lui...</l>
+	<l id='406' syll="2" part="i">C'est lui...</l>
 </sp>
 <sp who='FRONTIN'><speaker>FRONTIN.</speaker>
-	<l id='406' part='m'>C'est elle...</l>
+	<l id='406' syll="3" part="m">C'est elle...</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
-	<l id='406' part='m'>Quoi ?</l>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
+	<l id='406' syll="1" part="m">Quoi ?</l>
 </sp>
 <sp who='FRONTIN'><speaker>FRONTIN.</speaker>
-	<l id='406' part='f'>Qui devait l'enflammer.</l>
+	<l id='406' syll="6" part="f">Qui devait l'enflammer.</l>
 	<l id='407'>Léonore a toujours une mélancolie</l>
 	<l id='408'>Qui lui fait bien du tort. L'amour suit la folie.</l>
 	<l id='409'>On veut qu'une maîtresse ait l'air vif, sémillant ;</l>
 	<l id='410'>Un peu moins de bon sens, un peu plus de brillant.</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='411'>Un fou cherche une folle, et la trouve de reste.</l>
 	<l id='412'>L'état de Léonore est cruel et funeste.</l>
-	<l id='413' part='i'>Frontin, toute sa vie, est...</l>
+	<l id='413' syll="7" part="i">Frontin, toute sa vie, est...</l>
 </sp>
 <sp who='FRONTIN'><speaker>FRONTIN.</speaker>
-	<l id='413' part='f'>Défiez-vous-en ;</l>
+	<l id='413' syll="5" part="f">Défiez-vous-en ;</l>
 	<l id='414'>L'histoire d'une femme est toujours un roman.</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='415'>Oui. Le sien commença par un sot mariage.</l>
 	<l id='416'>Ce ne fut point l'amour qui la mit en ménage ;</l>
 	<l id='417'>Et jamais on n'en eut un dépit plus mortel.</l>
@@ -924,12 +937,12 @@
 	<l id='428'>Que ne ferait-on pas pour fuir ce qu'on abhorre ?</l>
 	<l id='429'>Sa mère, mais trop tard, en mourut de regret.</l>
 	<l id='430'>Géronte apprit enfin notre asile secret,</l>
-	<l id='431' part='i'>Et vint nous apporter...</l>
+	<l id='431' syll="6" part="i">Et vint nous apporter...</l>
 </sp>
 <sp who='FRONTIN'><speaker>FRONTIN.</speaker>
-	<l id='431' part='f'>Un brevet de veuvage ?</l>
+	<l id='431' syll="6" part="f">Un brevet de veuvage ?</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='432'>Oui. Nous vîmes la fin d'un si long esclavage.</l>
 	<l id='433'>Cet oncle généreux nous retira chez lui.</l>
 </sp>
@@ -937,7 +950,7 @@
 	<l id='434'>Mais je ne vois point là tant de sujet d'ennui ;</l>
 	<l id='435'>Car Léonore est veuve, et dans le plus bel âge.</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='436'>Douze ans d'absence ont mis tous ses biens au pillage :</l>
 	<l id='437'>C'est pour les recueillir, ou du moins leurs débris,</l>
 	<l id='438'>Que Géronte est allé faire un tour à Paris.</l>
@@ -955,10 +968,10 @@
 </sp>
 <sp who='FRONTIN'><speaker>FRONTIN.</speaker>
 	<l id='450'>Ceci m'ouvre l'esprit ; et je crois entrevoir...</l>
-	<l id='451' part='i'>Que je n'étais qu'un sot... oui.</l>
+	<l id='451' syll="6" part="i">Que je n'étais qu'un sot... oui.</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
-	<l id='451' part='f'>Cela peut bien être.</l>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
+	<l id='451' syll="6" part="f">Cela peut bien être.</l>
 </sp>
 <sp who='FRONTIN'><speaker>FRONTIN.</speaker>
 	<l id='452'>Je crois que Léonore arrête ici mon maître ;</l>
@@ -967,7 +980,7 @@
 	<l id='455'>Tu sais que le château n'était pas praticable ;</l>
 	<l id='456'>Et qu'il était besoin pour le rendre habitable...</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='457'>Oui, je sais qu'il fallut le faire rétablir.</l>
 </sp>
 <sp who='FRONTIN'><speaker>FRONTIN.</speaker>
@@ -977,7 +990,7 @@
 	<l id='461'>Est depuis quelque tems en état d'y loger :</l>
 	<l id='462'>Mon maître cependant paraît n'y pas songer.</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='463'>Ta remarque est juste. Oui... mais la fille d'Orphise...</l>
 </sp>
 <sp who='FRONTIN'><speaker>FRONTIN.</speaker>
@@ -985,66 +998,66 @@
 	<l id='465'>Son amour oserait paraître à découvert.</l>
 	<l id='466'>Léonore est trop fière ; et sa fierté nous perd.</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='467'>Les femmes ne sont pas tout ce qu'elles paraissent.</l>
-	<l id='468' part='i'>J'en aurai le coeur net.</l>
+	<l id='468' syll="6" part="i">J'en aurai le coeur net.</l>
 </sp>
 <sp who='FRONTIN'><speaker>FRONTIN.</speaker>
-	<l id='468' part='f'>Les femmes se connaissent.</l>
+	<l id='468' syll="6" part="f">Les femmes se connaissent.</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='469'>Léonore m'appelle. Adieu. Cela suffit.</l>
 	<l id='470'>Je m'en vais travailler sur ce que tu m'as dit.</l>
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II.</head>
-<sp who='NERINE'><speaker>NÉRINE, seule.</speaker>
+<sp stage="alone" who='NÉRINE'><speaker>NÉRINE, seule.</speaker>
 	<l id='471'>Tout ce que ma mémoire à présent me rappelle,</l>
 	<l id='472'>Me confirme encor plus cette heureuse nouvelle.</l>
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Léonore, Nérine.</head>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
-	<l id='473' part='i'>Vous m'avez appelée.</l>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
+	<l id='473' syll="6" part="i">Vous m'avez appelée.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
-	<l id='473' part='f'>Oui. Je voulais sortir.</l>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
+	<l id='473' syll="6" part="f">Oui. Je voulais sortir.</l>
 	<l id='474'>Mais de la part d'Orphise on vient de m'avertir</l>
 	<l id='475'>Qu'elle veut me parler ; ainsi je vais l'attendre.</l>
 	<l id='476'>Pour toi, l'on ne sait plus désormais où te prendre.</l>
 	<l id='477'>Tu sembles te lasser de l'état où je suis ;</l>
 	<l id='478'>Et pourtant je m'en plains tout le moins que je puis.</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='479'>J'étais avec Frontin, puisqu'il faut vous le dire :</l>
-	<l id='480' part='i'>Je lui parlais de vous.</l>
+	<l id='480' syll="6" part="i">Je lui parlais de vous.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
-	<l id='480' part='f'>Je sais ce qui l'attire.</l>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
+	<l id='480' syll="6" part="f">Je sais ce qui l'attire.</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='481'>Nous disions que Damon aurait dû vous aimer :</l>
 	<l id='482'>Il a pourtant bien fait de ne pas s'enflammer.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
-	<l id='483' part='i'>Tu n'es pas raisonnable.</l>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
+	<l id='483' syll="6" part="i">Tu n'es pas raisonnable.</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
-	<l id='483' part='f'>Il serait trop à plaindre.</l>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
+	<l id='483' syll="6" part="f">Il serait trop à plaindre.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
 	<l id='484'>Va, ce malheur pour lui ne fut jamais à craindre.</l>
-	<l id='485' part='i'>Tu m'assurais pourtant...</l>
+	<l id='485' syll="6" part="i">Tu m'assurais pourtant...</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
-	<l id='485' part='f'>Oui, je croyais d'abord</l>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
+	<l id='485' syll="6" part="f">Oui, je croyais d'abord</l>
 	<l id='486'>Que Damon vous aimait, madame, j'avais tort.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
 	<l id='487'>J'y prends peu d'intérêt. Mais sur quelle assurance</l>
 	<l id='488'>Accuses-tu Damon de tant d'indifférence ?</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='489'>Si l'on aimait encore, ainsi que Céladon,</l>
 	<l id='490'>Peut-être je pourrais en soupçonner Damon.</l>
 	<l id='491'>Mais de pareils amans ne sont plus qu'en idée.</l>
@@ -1060,52 +1073,52 @@
 	<l id='501'>Si Damon vous aimait, il en eût fait l'aveu.</l>
 	<l id='502'>Ainsi nous nous trompions... cela vous fâche un peu ?</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
 	<l id='503'>Vous vous émancipez. M'avez-vous reconnue</l>
 	<l id='504'>Pour être, en ma faveur, follement prévenue ?</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='505'>Ainsi vous croyez donc mon discours conséquent.</l>
 	<l id='506'>Non, ma chère maîtresse, il est extravagant,</l>
-	<l id='507' part='i'>Insoutenable.</l>
+	<l id='507' syll="4" part="i">Insoutenable.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
-	<l id='507' part='m'>En quoi ?</l>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
+	<l id='507' syll="2" part="m">En quoi ?</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
-	<l id='507' part='f'>C'est que Damon vous aime.</l>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
+	<l id='507' syll="6" part="f">C'est que Damon vous aime.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
 	<l id='508'>Mais accorde-toi donc, Nérine, avec toi-même.</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='509'>Un tiers voit mieux que ceux qui sont dans l'embarras.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
-	<l id='510'>Tu viens de me prouver...</l>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
+	<l id='510' syll="6" part="i">Tu viens de me prouver...</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
-	<l id='510' part='f'>Que Damon n'avait pas</l>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
+	<l id='510' syll="6" part="f">Que Damon n'avait pas</l>
 	<l id='511'>Les défauts des amans qu'en ce siècle on voit naître.</l>
 	<l id='512'>Quoi ? Parce que l'on n'est ni fat, ni petit-maître,</l>
 	<l id='513'>On ne peut vous aimer ? L'obstacle est imprévu.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
-	<l id='514' part='i'>Par où peux-tu juger...</l>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
+	<l id='514' syll="6" part="i">Par où peux-tu juger...</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
-	<l id='514' part='f'>Par tout ce que j'ai vu.</l>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
+	<l id='514' syll="6" part="f">Par tout ce que j'ai vu.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
-	<l id='515' part='i'>Mais encore, quoi donc ?</l>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
+	<l id='515' syll="6" part="i">Mais encore, quoi donc ?</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
-	<l id='515' part='f'>Premièrement, vos charmes.</l>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
+	<l id='515' syll="6" part="f">Premièrement, vos charmes.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
 	<l id='516'>Je n'ai jamais compté sur de si faibles armes.</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='517'>J'ai démêlé, vous dis-je, à travers ses respects,</l>
 	<l id='518'>Des soupirs étouffés, des regards indirects,</l>
 	<l id='519'>Un silence pénible, autant qu'involontaire,</l>
@@ -1114,29 +1127,29 @@
 	<l id='522'>Un homme indifférent est bien plus familier.</l>
 	<l id='523'>Ce sont-là mes garants. Tout cela fait en somme</l>
 	<l id='524'>De l'amour ; et, de plus, un amant honnête homme.</l>
-	<l id='525' part='i'>J'ai vu bien plus encore.</l>
+	<l id='525' syll="6" part="i">J'ai vu bien plus encore.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
-	<l id='525' part='f'>Achève ; dis-moi tout.</l>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
+	<l id='525' syll="6" part="f">Achève ; dis-moi tout.</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='526'>Que cet amant serait assez de votre goût.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
 	<l id='527'>Ah ! C'est trop voir. Finis ; je ne veux plus t'entendre.</l>
 	<l id='528'>Je te défends... hélas ! Que puis-je lui défendre ?</l>
 	<l id='529'>Quoi ! De faibles attraits flétris par les douleurs,</l>
 	<l id='530'>Ces yeux accoutumés à pleurer mes malheurs,</l>
 	<l id='531'>Pourraient causer encore une faiblesse ?</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='532'>Et surtout à l'objet pour qui l'amour vous blesse ?</l>
-	<l id='533' part='i'>Car il faut vous aider.</l>
+	<l id='533' syll="6" part="i">Car il faut vous aider.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
-	<l id='533' part='f'>Nérine, tu me perds.</l>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
+	<l id='533' syll="6" part="f">Nérine, tu me perds.</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='534'>De quoi m'accusez-vous ? Croyez que je vous sers.</l>
 	<l id='535'>Léonore et Damon sont formés l'un pour l'autre.</l>
 	<l id='536'>C'est moi qui vous apprends sa défaite et la vôtre.</l>
@@ -1144,7 +1157,7 @@
 	<l id='538'>Il forme quelquefois des liens pleins d'attraits.</l>
 	<l id='539'>Quand on dépend de soi, pour soi l'on se marie.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
 	<l id='540'>Ne me rappelle plus le malheur de ma vie,</l>
 	<l id='541'>Ni les égarements d'un âge sans raison.</l>
 	<l id='542'>À peine j'achevais ma première saison,</l>
@@ -1169,29 +1182,29 @@
 	<l id='561'>Que sans doute l'hymen, mon devoir, et le temps,</l>
 	<l id='562'>Auraient mis dans mon coeur de plus doux sentiments.</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='563'>En tout cas, par bonheur, il est en l'autre monde.</l>
 	<l id='564'>Pour vous montrer sur quoi mon préjugé se fonde,</l>
 	<l id='565'>Au sujet de Damon, il faut vous expliquer</l>
 	<l id='566'>Ce que m'a dit Frontin. Il m'a fait remarquer</l>
 	<l id='567'>Que Damon s'accoutume à la maison d'Orphise.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
-	<l id='568' part='i'>Peut-être que sa fille...</l>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
+	<l id='568' syll="6" part="i">Peut-être que sa fille...</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
-	<l id='568' part='f'>Eh ! Souffrez qu'on vous dise...</l>
-	<l id='569' part='i'>Mais on vient.</l>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
+	<l id='568' syll="6" part="f">Eh ! Souffrez qu'on vous dise...</l>
+	<l id='569' syll="3" part="i">Mais on vient.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
-	<l id='569' part='f'>C'est, sans doute, Orphise que j'attends !</l>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
+	<l id='569' syll="9" part="f">C'est, sans doute, Orphise que j'attends !</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE, à part.</speaker>
+<sp stage="aparte" who='NÉRINE'><speaker>NÉRINE, à part.</speaker>
 	<l id='570'>Le diable qui l'amène a bien mal pris son temps.</l>
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCENE IV. Orphise, Léonore, Nérine.</head>
-<sp who='ORPHISE'><speaker>ORPHISE, à Nérine.</speaker>
+<sp stage="toward" who='ORPHISE'><speaker>ORPHISE, à Nérine.</speaker>
 	<l id='571'>Vous pouvez demeurer. Vous avez quelque adresse ;</l>
 	<l id='572'>J'aurai besoin de vous, et de votre maîtresse.</l>
 <stage type="toward">À Léonore.</stage>
@@ -1205,44 +1218,44 @@
 	<l id='580'>Que la fortune aura mise dans ma famille ;</l>
 	<l id='581'>Et vos plus grands malheurs m'attacheront à vous.</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE, à part.</speaker>
+<sp stage="aparte" who='NÉRINE'><speaker>NÉRINE, à part.</speaker>
 	<l id='582'>Que diantre signifie un exorde si doux ?</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
-	<l id='583' part='i'>Madame...</l>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
+	<l id='583' syll="3" part="i">Madame...</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
-	<l id='583' part='f'>Je prévois ce que vous m'allez dire.</l>
+	<l id='583' syll="9" part="f">Je prévois ce que vous m'allez dire.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
-	<l id='584' part='i'>Ma reconnaissance...</l>
-</sp>
-<sp who='ORPHISE'><speaker>ORPHISE.</speaker>
-	<l id='584' part='f'>Est telle que je désire.</l>
-</sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
-	<l id='585' part='i'>De grâce...</l>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
+	<l id='584' syll="6" part="i">Ma reconnaissance...</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
-	<l id='585' part='f'>Épargnez-vous de vains remerciements.</l>
+	<l id='584' syll="6" part="f">Est telle que je désire.</l>
+</sp>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
+	<l id='585' syll="3" part="i">De grâce...</l>
+</sp>
+<sp who='ORPHISE'><speaker>ORPHISE.</speaker>
+	<l id='585' syll="9" part="f">Épargnez-vous de vains remerciements.</l>
 	<l id='586'>C'est tout ce que je crains quand j'oblige les gens.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
-	<l id='587' part='i'>Souffrez...</l>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
+	<l id='587' syll="2" part="i">Souffrez...</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
-	<l id='587' part='f'>Je viens d'apprendre un départ qui m'afflige.</l>
+	<l id='587' syll="10" part="f">Je viens d'apprendre un départ qui m'afflige.</l>
 	<l id='588'>Damon va nous quitter. Et c'est ce qui m'oblige</l>
 	<l id='589'>À vous venir prier d'empêcher son départ.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
 	<l id='590'>Pour vos moindres désirs il aura plus d'égard.</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
 	<l id='591'>N'importe. Je voudrais, sans être compromise,</l>
 	<l id='592'>Que vous employassiez ici votre entremise.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
 	<l id='593'>Madame, sur Damon, ai-je assez de crédit ?...</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
@@ -1250,37 +1263,37 @@
 	<l id='595'>J'ai des desseins secrets qu'il faut que je vous dise.</l>
 	<l id='596'>Connaissez-vous Damon ? Parlez avec franchise.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
-	<l id='597' part='i'>Je le crois honnête homme.</l>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
+	<l id='597' syll="6" part="i">Je le crois honnête homme.</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
-	<l id='597' part='f'>Oh ! Je n'en doute pas.</l>
+	<l id='597' syll="6" part="f">Oh ! Je n'en doute pas.</l>
 	<l id='598'>Le mystère a pour lui de furieux appas.</l>
 	<l id='599'>Je m'y perds comme vous. Depuis qu'il nous fréquente,</l>
 	<l id='600'>Il est d'une réserve incivile et piquante.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
-	<l id='601' part='i'>En quoi, madame ?</l>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
+	<l id='601' syll="4" part="i">En quoi, Madame ?</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
-	<l id='601' part='f'>En tout. En voici quelques traits.</l>
+	<l id='601' syll="8" part="f">En tout. En voici quelques traits.</l>
 	<l id='602'>Il est homme de guerre, et n'en parle jamais.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
 	<l id='603'>Tous ses pareils devraient imiter sa prudence.</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
 	<l id='604'>Quand on est noble, on peut en faire confidence.</l>
 	<l id='605'>Il ne cite jamais ni lui, ni ses ayeux.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
 	<l id='606'>Ceux qui font autrement sont toujours ennuyeux.</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
 	<l id='607'>Quand on est riche, est-il naturel qu'on s'en cache ?</l>
 	<l id='608'>Le premier avantage est que chacun le sache.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
 	<l id='609'>Il n'appartient qu'aux sots d'en tirer vanité.</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
@@ -1288,13 +1301,13 @@
 	<l id='611'>Tant mieux. Du reste, il est homme assez sociable.</l>
 	<l id='612'>Je crois qu'on en peut faire un mari fort passable.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE, soupire.</speaker>
-	<l id='613' part='i'>Plaît-il ?</l>
+<sp stage="sigh" who='LÉONORE'><speaker>LÉONORE, soupire.</speaker>
+	<l id='613' syll="2" part="i">Plaît-il ?</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
-	<l id='613' part='m'>Rien.</l>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
+	<l id='613' syll="1" part="m">Rien.</l>
 <stage type="aparte">À part.</stage>
-	<l id='613' part='f'>Ciel ! De quoi va-t-elle me prier !</l>
+	<l id='613' syll="9" part="f">Ciel ! De quoi va-t-elle me prier !</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
 	<l id='614'>J'ai, comme vous savez, ma fille à marier.</l>
@@ -1303,7 +1316,7 @@
 	<l id='617'>En ce cas, agissez, madame ; servez-nous,</l>
 	<l id='618'>Comme on vous servirait ; faites comme pour vous.</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='619'>Sans doute, c'est à quoi vous devez vous attendre.</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
@@ -1312,11 +1325,11 @@
 	<l id='622'>Je sors ; il ne faut pas qu'il me trouve en ce lieu.</l>
 	<l id='623'>Vous ne mettrez en jeu ni moi, ni la future.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
-	<l id='624' part='i'>En vérité, madame...</l>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
+	<l id='624' syll="6" part="i">En vérité, Madame...</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
-	<l id='624' part='f'>En pareille aventure,</l>
+	<l id='624' syll="6" part="f">En pareille aventure,</l>
 	<l id='625'>Il faut avec adresse employer les détours.</l>
 	<l id='626'>Tout homme qu'on recherche en abuse toujours :</l>
 	<l id='627'>Se renchérit d'abord, sans valoir davantage :</l>
@@ -1327,20 +1340,20 @@
 	<l id='632'>Nous perdons leur estime, en leur rendant justice ;</l>
 	<l id='633'>Nous nous avilissons, si nous sentons leur prix ;</l>
 	<l id='634'>Et la moindre indulgence attire leur mépris.</l>
-	<l id='635' part='i'>Je vous laisse.</l>
+	<l id='635' syll="" part="i">Je vous laisse.</l>
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Léonore, Nérine.</head>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
-	<l id='635' part='m'>Nérine...</l>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
+	<l id='635' syll="2" part="m">Nérine...</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE, riant.</speaker>
-	<l id='635' part='f'>Ah ! Rien n'est plus risible.</l>
+<sp stage="laugh" who='NÉRINE'><speaker>NÉRINE, riant.</speaker>
+	<l id='635' syll="6" part="f">Ah ! Rien n'est plus risible.</l>
 	<l id='636'>Orphise vous procure un moyen infaillible</l>
 	<l id='637'>De vous servir vous-même, en servant ses desseins.</l>
 	<l id='638'>Voilà des intérêts remis en bonnes mains.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
 	<l id='639'>Quelle commission dangereuse et cruelle !</l>
 	<l id='640'>Je ne puis y songer ni pour moi, ni pour elle.</l>
 	<l id='641'>Oui, cette occasion n'est qu'un piége fatal.</l>
@@ -1348,63 +1361,63 @@
 	<l id='643'>Laissons aller Damon ; il faut que je l'évite.</l>
 	<l id='644'>Imagine une excuse, et reçois sa visite.</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='645'>Quel danger courez-vous ? Quoi ! Vous n'osez saisir</l>
 	<l id='646'>La seule occasion qui peut vous éclaircir.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
 	<l id='647'>J'aime mieux à jamais ignorer ma victoire,</l>
 	<l id='648'>Que de mettre en danger mon honneur et ma gloire.</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='649'>À ne point voir Damon, ne vous obstinez plus.</l>
 	<l id='650'>Que pourrait-il penser d'un semblable refus ?</l>
 	<l id='651'>Cette affectation serait plus dangereuse.</l>
 	<l id='652'>D'ailleurs, Madame Orphise en serait furieuse.</l>
 	<l id='653'>Madame, il faut céder à la nécessité.</l>
-	<l id='654' part='i'>Mais j'aperçois Damon.</l>
+	<l id='654' syll="6" part="i">Mais j'aperçois Damon.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
-	<l id='654' part='f'>Que ne l'ai-je évité !</l>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
+	<l id='654' syll="6" part="f">Que ne l'ai-je évité !</l>
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Damon, Léonore, Nérine.</head>
-<stage type="[N/A]">Damon fait deux ou trois révérences, avance, recule, et paraît déconcerté. </stage>
-<sp who='NERINE'><speaker>NÉRINE, à part.</speaker>
+<stage type="wave/walk/embarrassed">Damon fait deux ou trois révérences, avance, recule, et paraît déconcerté. </stage>
+<sp stage="aparte" who='NÉRINE'><speaker>NÉRINE, à part.</speaker>
 	<l id='655'>Que deux amants sont sots, quand ils sont en présence !</l>
 	<l id='656'>Il faut que je les aide à rompre le silence.</l>
 <stage type="toward">À Damon.</stage>
 	<l id='657'>On dit que vous allez chercher en d'autres lieux</l>
 	<l id='658'>Une société qui vous amuse mieux.</l>
 </sp>
-<sp who='DAMON'><speaker>DAMON, à Léonore.</speaker>
+<sp stage="toward" who='DAMON'><speaker>DAMON, à Léonore.</speaker>
 	<l id='659'>L'ennui n'habite point le séjour où vous êtes.</l>
 	<l id='660'>Des motifs plus pressants, d'autres peines secrètes...</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
-	<l id='661' part='i'>Quoi ! Vous partez, monsieur ?</l>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
+	<l id='661' syll="6" part="i">Quoi ! Vous partez, Monsieur ?</l>
 </sp>
-<sp who='DAMON'><speaker>DAMON, à Léonore.</speaker>
-	<l id='661' part='f'>Oui, madame, je fuis ;</l>
+<sp stage="toward" who='DAMON'><speaker>DAMON, à Léonore.</speaker>
+	<l id='661' syll="6" part="f">Oui, Madame, je fuis ;</l>
 	<l id='662'>Je fais ce que je dois, et plus que je ne puis.</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
-	<l id='663' part='i'>Si la maison vous plaît ?</l>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
+	<l id='663' syll="6" part="i">Si la maison vous plaît ?</l>
 </sp>
-<sp who='DAMON'><speaker>DAMON, à Léonore.</speaker>
-	<l id='663' part='m'>Que trop ?</l>
+<sp styage="toward" who='DAMON'><speaker>DAMON, à Léonore.</speaker>
+	<l id='663' syll="2" part="m">Que trop ?</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
-	<l id='663' part='f'>Hé ! Qui vous presse ?</l>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
+	<l id='663' syll="4" part="f">Hé ! Qui vous presse ?</l>
 </sp>
-<sp who='DAMON'><speaker>DAMON, à Léonore.</speaker>
+<sp stage="toward" who='DAMON'><speaker>DAMON, à Léonore.</speaker>
 	<l id='664'>Mon honneur, ma raison, le danger, ma faiblesse ;</l>
-	<l id='665' part='i'>Votre repos, enfin.</l>
+	<l id='665' syll="6" part="i">Votre repos, enfin.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
-	<l id='665' part='f'>Mon repos, dites-vous ?</l>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
+	<l id='665' syll="6" part="f">Mon repos, dites-vous ?</l>
 </sp>
-<sp who='DAMON'><speaker>DAMON, à Léonore.</speaker>
+<sp stage="toward" who='DAMON'><speaker>DAMON, à Léonore.</speaker>
 	<l id='666'>Ah ! Madame, daignez m'écouter sans courroux.</l>
 	<l id='667'>N'y cherchez point un sens coupable et téméraire.</l>
 	<l id='668'>Oui, pour votre repos, ma fuite est nécessaire.</l>
@@ -1413,7 +1426,7 @@
 	<l id='671'>Car enfin je dois voir ce qu'on rend trop visible,</l>
 	<l id='672'>Sa bonté m'est à charge, et vous serait nuisible.</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='673'>Quoi ! Vous savez déjà le bien qu'elle vous veut ?</l>
 </sp>
 <sp who='DAMON'><speaker>DAMON.</speaker>
@@ -1421,18 +1434,18 @@
 	<l id='675'>Avec plus de mystère, être plus indiscrète.</l>
 	<l id='676'>Mais je ne puis répondre à ce qu'elle souhaite.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
 	<l id='677'>On croyait que Julie aurait dû vous charmer.</l>
 	<l id='678'>Quoi ! Ses attraits naissants n'ont pu vous enflammer ?</l>
 </sp>
 <sp who='DAMON'><speaker>DAMON.</speaker>
 	<l id='679'>Ah ! Tout autre que moi doit lui rendre les armes.</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
-	<l id='680' part='i'>Vous ne l'aimez donc pas ?</l>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
+	<l id='680' syll="6" part="i">Vous ne l'aimez donc pas ?</l>
 </sp>
 <sp who='DAMON'><speaker>DAMON.</speaker>
-	<l id='680' part='f'>Non. J'échappe à ses charmes.</l>
+	<l id='680' syll="6" part="f">Non. J'échappe à ses charmes.</l>
 	<l id='681'>Vous seriez exposée à des soupçons jaloux.</l>
 	<l id='682'>Orphise, avec raison, n'accuserait que vous</l>
 	<l id='683'>Du refus que je fais de prendre cette chaîne.</l>
@@ -1440,10 +1453,10 @@
 	<l id='685'>Sans compter d'autres maux trop aisés à prévoir,</l>
 	<l id='686'>Je payerais trop cher le plaisir de vous voir.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
 	<l id='687'>Vous le voulez ? Il faut approuver votre zèle.</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='688'>Allez, monsieur, allez où l'amour vous appelle.</l>
 </sp>
 <sp who='DAMON'><speaker>DAMON.</speaker>
@@ -1453,11 +1466,11 @@
 	<l id='692'>Mon coeur s'entretiendrait dans l'amour le plus tendre,</l>
 	<l id='693'>Sans laisser éclater le moindre de ses feux.</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='694'>Tenez monsieur, j'ai peine à croire au merveilleux :</l>
 	<l id='695'>Tant de discrétion est hors de vraisemblance.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
 	<l id='696'>Sans entrer plus avant dans votre confidence,</l>
 	<l id='697'>Puisque vous nous quittez, vous avez vos raisons.</l>
 </sp>
@@ -1474,25 +1487,25 @@
 	<l id='707'>Il ferait le malheur de cette infortunée.</l>
 	<l id='708'>Je gémis dans les fers d'un cruel hyménée.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
-	<l id='709' part='i'>Vous êtes marié ?</l>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
+	<l id='709' syll="6" part="i">Vous êtes marié ?</l>
 </sp>
 <sp who='DAMON'><speaker>DAMON.</speaker>
-	<l id='709' part='f'>Je le suis. Mais enfin</l>
+	<l id='709' syll="6" part="f">Je le suis. Mais enfin</l>
 	<l id='710'>Un prompt événement peut changer mon destin.</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='711'>Partez, monsieur, partez ; vous ne pouvez mieux faire.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
 	<l id='712'>Orphise approuvera ce départ nécessaire.</l>
 </sp>
-<sp who='DAMON'><speaker>DAMON, à part.</speaker>
+<sp stage="aparte" who='DAMON'><speaker>DAMON, à part.</speaker>
 	<l id='713'>Madame, j'obéis. J'espère un prompt retour.</l>
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII. Léonore, Nérine.</head>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
 	<l id='714'>Il est donc marié ?... Que devient mon amour ?</l>
 	<l id='715'>Nérine, je l'aimais... Sa présence funeste</l>
 	<l id='716'>N'eût fait qu'entretenir un feu que je déteste.</l>
@@ -1501,12 +1514,12 @@
 	<l id='719'>Ai-je pu contenir ma colère trop prompte ?</l>
 	<l id='720'>N'en ai-je point trop dit ? Ah ! Je mourrais de honte.</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='721'>Je ne puis qu'approuver un trop juste dépit.</l>
 	<l id='722'>Mais quel sens peut avoir un mot qu'il vous a dit.</l>
 	<l id='723'>Qu'un prompt événement peut changer sa fortune ?</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
 	<l id='724'>Ah ! Ne te donne point une gêne importune.</l>
 	<l id='725'>Quand la nécessité ramène ma raison,</l>
 	<l id='726'>Cesse de retarder encor ma guérison.</l>
@@ -1517,10 +1530,10 @@
 </sp>
 </div2>
 <div2 type="scene" n='8'><head>SCÈNE VIII. Frontin, Nérine.</head>
-<sp who='FRONTIN'><speaker>FRONTIN, tenant un paquet de papiers .</speaker>
+<sp stage="get" who='FRONTIN'><speaker>FRONTIN, tenant un paquet de papiers.</speaker>
 	<l id='731'>Ah ! Te voilà, Nérine ! Enseigne-moi mon maître.</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='732'>Il faut que je t'étrangle. Approche, double traître.</l>
 	<l id='733'>Ton maître est marié ; tu m'en fais un secret ?</l>
 </sp>
@@ -1539,64 +1552,64 @@
 	<l id='745'>Bon ! Il n'a point de femme appartenante à lui ;</l>
 	<l id='746'>Partout il a roulé sur le compte d'autrui.</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
-	<l id='747' part='i'>C'est un fait. D'où viens-tu ?</l>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
+	<l id='747' syll="6" part="i">C'est un fait. D'où viens-tu ?</l>
 </sp>
 <sp who='FRONTIN'><speaker>FRONTIN.</speaker>
-	<l id='747' part='f'>Je viens, à toute outrance,</l>
+	<l id='747' syll="6" part="f">Je viens, à toute outrance,</l>
 	<l id='748'>De chez cet avocat ici près en vacance ;</l>
 	<l id='749'>J'y vais dix fois pour une, et toujours sans succès ;</l>
-	<l id='750' part='i'>Mais à la fin...</l>
+	<l id='750' syll="4" part="i">Mais à la fin...</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
-	<l id='750' part='f'>Ton maître a-t-il quelque procès ?</l>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
+	<l id='750' syll="8" part="f">Ton maître a-t-il quelque procès ?</l>
 </sp>
 <sp who='FRONTIN'><speaker>FRONTIN.</speaker>
 	<l id='751'>Ma foi, je ne sais point quelle est leur manigance.</l>
 	<l id='752'>Le robin m'a donné ce paquet d'importance,</l>
 	<l id='753'>En me disant : " voilà votre maître en repos...</l>
-	<l id='754' part='i'>Mais, à quoi rêves-tu ? "</l>
+	<l id='754' syll="6" part="i">Mais, à quoi rêves-tu ? "</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
-	<l id='754' part='f'>C'est à certains propos...</l>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
+	<l id='754' syll="6" part="f">C'est à certains propos...</l>
 	<l id='755'>Pourrais-tu deviner ce que ce papier chante ?</l>
 </sp>
 <sp who='FRONTIN'><speaker>FRONTIN.</speaker>
 	<l id='756'>Oui, si j'étais sorcier. Ah ! L'enquête plaisante !</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='757'>Ah ! Tu n'es bon à rien. Va-t'en, sans différer.</l>
-<stage type="[N/A]">Seule.</stage>
+<stage type="alone">Seule.</stage>
 	<l id='758'>Je ne sais pas pourquoi j'ose encore espérer.</l>
 </sp>
 </div2>
 </div1>
 <div1 type="act" n='2'><head>ACTE II</head>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Léonore, Nérine.</head>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
-	<l id='759' part='i'>Damon est-il parti ?</l>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
+	<l id='759' syll="6" part="i">Damon est-il parti ?</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
-	<l id='759' part='f'>Sans doute qu'il doit l'être.</l>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
+	<l id='759' syll="6" part="f">Sans doute qu'il doit l'être.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
-	<l id='760' part='i'>Orphise ne vient point ?</l>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
+	<l id='760' syll="6" part="i">Orphise ne vient point ?</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
-	<l id='760' part='f'>C'est qu'elle sait peut-être</l>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
+	<l id='760' syll="6" part="f">C'est qu'elle sait peut-être</l>
 	<l id='761'>Tout ce que vous avez à lui dire. En tout cas...</l>
-	<l id='762' part='i'>La voilà justement.</l>
+	<l id='762' syll="6" part="i">La voilà justement.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
-	<l id='762' part='f'>Ne m'abandonne pas.</l>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
+	<l id='762' syll="6" part="f">Ne m'abandonne pas.</l>
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Orphise, Léonore, Nérine.</head>
-<sp who='ORPHISE'><speaker>ORPHISE, à Léonore.</speaker>
+<sp stage="toward" who='ORPHISE'><speaker>ORPHISE, à Léonore.</speaker>
 	<l id='763'>Madame, en vérité, vous êtes admirable,</l>
 	<l id='764'>Une personne unique, une femme adorable.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
 	<l id='765'>Des noms aussi flatteurs ne me conviennent point :</l>
 	<l id='766'>Et vous me surprenez, madame, au dernier point.</l>
 </sp>
@@ -1604,62 +1617,62 @@
 	<l id='767'>Damon nous reste enfin, grâce à votre entremise :</l>
 	<l id='768'>Si je le sais déjà, n'en soyez pas surprise.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
-	<l id='769' part='i'>Madame, excusez-moi...</l>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
+	<l id='769' syll="6" part="i">Madame, excusez-moi...</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
-	<l id='769' part='f'>Ses gens l'ont dit aux miens.</l>
+	<l id='769' syll="6" part="f">Ses gens l'ont dit aux miens.</l>
 	<l id='770'>Les valets savent tout ; c'est d'eux que je le tiens.</l>
 	<l id='771'>Vous me voyez sensible, on ne peut davantage.</l>
-	<l id='772'>Allons, madame, il faut achever votre ouvrage.</l>
+	<l id='772'>Allons, Madame, il faut achever votre ouvrage.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
-	<l id='773' part='i'>Mon ouvrage ?</l>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
+	<l id='773' syll="4" part="i">Mon ouvrage ?</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
-	<l id='773' part='m'>Quoi donc ?</l>
+	<l id='773' syll="2" part="m">Quoi donc ?</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
-	<l id='773' part='f'>Je n'y prends point de part.</l>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
+	<l id='773' syll="6" part="f">Je n'y prends point de part.</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
 	<l id='774'>Mais ne venez-vous pas d'empêcher son départ ?</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
-	<l id='775' part='i'>Il vous plaît de le croire.</l>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
+	<l id='775' syll="6" part="i">Il vous plaît de le croire.</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
-	<l id='775' part='f'>Et de plus, j'en suis sûre.</l>
+	<l id='775' syll="6" part="f">Et de plus, j'en suis sûre.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
-	<l id='776' part='i'>Madame, il n'en est rien.</l>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
+	<l id='776' syll="6" part="i">Madame, il n'en est rien.</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
-	<l id='776' part='m'>Comment ?</l>
+	<l id='776' syll="2" part="m">Comment ?</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
-	<l id='776' part='f'>Non, je vous jure.</l>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
+	<l id='776' syll="4" part="f">Non, je vous jure.</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
 	<l id='777'>Damon reste pourtant ; les ordres sont donnez.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
 	<l id='778'>Cela peut être vrai ; mais vous me l'apprenez.</l>
-	<l id='779' part='i'>Quoi, véritablement ?</l>
+	<l id='779' syll="6" part="i">Quoi, véritablement ?</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
-	<l id='779' part='f'>Je vous le certifie.</l>
-	<l id='780' part='i'>Je n'ai parlé de rien.</l>
-</sp>
-<sp who='ORPHISE'><speaker>ORPHISE.</speaker>
-	<l id='780' part='f'>J'en ai l'âme ravie.</l>
-	<l id='781' part='i'>Vous n'avez point écrit ?</l>
-</sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
-	<l id='781' part='m'>Encore moins.</l>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
+	<l id='779' syll="6" part="f">Je vous le certifie.</l>
+	<l id='780' syll="6" part="i">Je n'ai parlé de rien.</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
-	<l id='781' part='f'>Tant mieux.</l>
+	<l id='780' syll="6" part="f">J'en ai l'âme ravie.</l>
+	<l id='781' syll="6" part="i">Vous n'avez point écrit ?</l>
+</sp>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
+	<l id='781' syll="4" part="m">Encore moins.</l>
+</sp>
+<sp who='ORPHISE'><speaker>ORPHISE.</speaker>
+	<l id='781' syll="2" part="f">Tant mieux.</l>
 	<l id='782'>Je connais le motif qui l'attache en ces lieux.</l>
 	<l id='783'>Ma fille, j'en suis sûre, en a tout le mérite.</l>
 	<l id='784'>Damon ne peut quitter un séjour qu'elle habite.</l>
@@ -1674,7 +1687,7 @@
 	<l id='793'>N'en reconnaître aucune, et dominer partout.</l>
 	<l id='794'>À votre âge, madame, on est fort de ce goût.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
 	<l id='795'>Oui, je sais qu'une femme aime un peu trop à plaire ;</l>
 	<l id='796'>C'est de l'âge où je suis la faiblesse ordinaire.</l>
 	<l id='797'>Dans l'arrière-saison, on ne fait qu'en changer ;</l>
@@ -1694,97 +1707,97 @@
 	<l id='811'>Et l'on corrige un vice avec un autre vice.</l>
 	<l id='812'>Mais je veux vous forcer à me rendre justice.</l>
 	<l id='813'>Un mot vous suffira, pour voir quel intérêt</l>
-	<l id='814' part='i'>Je dois prendre à Damon.</l>
+	<l id='814' syll="6" part="i">Je dois prendre à Damon.</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
-	<l id='814' part='f'>Voyons donc ce que c'est.</l>
+	<l id='814' syll="6" part="f">Voyons donc ce que c'est.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
 	<l id='815'>Apprenez que Damon ne peut être à Julie.</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
 	<l id='816'>Qui l'en empêchera ? Pourquoi donc, je vous prie ?</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
 	<l id='817'>Par un hymen secret il se trouve lié.</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
 	<l id='818'>Bon ! Que me dites-vous ? Le traître est marié ?</l>
-	<l id='819' part='i'>En secret.</l>
+	<l id='819' syll="3" part="i">En secret.</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
-	<l id='819' part='m'>Avec vous ?</l>
+	<l id='819' syll="3" part="m">Avec vous ?</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
-	<l id='819' part='f'>Non, je vous en assure.</l>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
+	<l id='819' syll="6" part="f">Non, je vous en assure.</l>
 	<l id='820'>Ainsi, vous voyez bien que c'est me faire injure.</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
 	<l id='821'>Ah ! L'énigme est assez facile à deviner.</l>
 	<l id='822'>Damon devait cesser de nous importuner.</l>
 	<l id='823'>Il n'est point retenu par moi, ni par Julie ;</l>
-	<l id='824' part='i'>Et cependant il reste.</l>
+	<l id='824' syll="6" part="i">Et cependant il reste.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
-	<l id='824' part='f'>Ah ! Quelle calomnie !</l>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
+	<l id='824' syll="6" part="f">Ah ! Quelle calomnie !</l>
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Léonore, Nérine.</head>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
 	<l id='825'>Je n'y saurais tenir ; je suis au désespoir.</l>
 	<l id='826'>Quel trait injurieux ! En est-il un plus noir ?</l>
 	<l id='827'>Il reste ; je l'ignore ; et l'on m'en fait un crime :</l>
 	<l id='828'>Mon repos, mon honneur, tout en est la victime.</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='829'>Vous connaissez Orphise, et sa malignité.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
 	<l id='830'>Et pouvais-je m'attendre à cette indignité,</l>
 	<l id='831'>Et qu'on m'imputerait la dernière bassesse ?</l>
 	<l id='832'>Nérine, quelle horreur ! On me croit la maîtresse</l>
-	<l id='833' part='i'>D'un homme marié ?</l>
+	<l id='833' syll="6" part="i">D'un homme marié ?</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
-	<l id='833' part='f'>Ce trait est inouï.</l>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
+	<l id='833' syll="6" part="f">Ce trait est inouï.</l>
 	<l id='834'>Une prude jamais n'a bien pensé d'autrui.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
 	<l id='835'>Que vais-je devenir ? Le bruit va s'en répandre.</l>
 	<l id='836'>Orphise va le dire à qui voudra l'entendre.</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
-	<l id='837' part='i'>Et l'on n'en croira rien.</l>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
+	<l id='837' syll="6" part="i">Et l'on n'en croira rien.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
-	<l id='837' part='f'>Ah ! Quelle est ton erreur ?</l>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
+	<l id='837' syll="6" part="f">Ah ! Quelle est ton erreur ?</l>
 	<l id='838'>C'est assez qu'une histoire attaque notre honneur,</l>
 	<l id='839'>Elle passe aussitôt pour être véritable.</l>
 	<l id='840'>Tout ce qui peut nous nuire, ou nous perdre, est croyable,</l>
 	<l id='841'>On n'examine rien ; et la crédulité</l>
 	<l id='842'>Va toujours contre nous jusqu'à l'absurdité.</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='843'>Je ne m'étonne plus si tant d'infortunées</l>
 	<l id='844'>Se plaignent, tous les jours, d'être à tort condamnées.</l>
 	<l id='845'>Je vois bien à présent qu'une femme d'honneur,</l>
 	<l id='846'>Avec son innocence, a besoin de bonheur.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE, avec vivacité.</speaker>
+<sp stage="vivace" who='LÉONORE'><speaker>LÉONORE, avec vivacité.</speaker>
 	<l id='847'>Dis-moi la vérité. Ne m'as-tu point trahie ?</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='848'>Moi, vous trahir, madame ? En quoi, je vous supplie ?</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
 	<l id='849'>Damon devait partir. J'ai reçu ses adieux :</l>
 	<l id='850'>Cependant il s'obstine à rester en ces lieux.</l>
-	<l id='851' part='i'>N'aurais-tu point parlé ?</l>
+	<l id='851' syll="6" part="i">N'aurais-tu point parlé ?</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
-	<l id='851' part='f'>Nullement, je vous jure.</l>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
+	<l id='851' syll="6" part="f">Nullement, je vous jure.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
 	<l id='852'>Je ne sais que penser ; je ne sais que conclure.</l>
 	<l id='853'>Me serais-je oubliée ?... Aurait-il deviné ?</l>
 	<l id='854'>Dis-moi par quel motif il s'est déterminé ?</l>
@@ -1796,19 +1809,19 @@
 	<l id='860'>On ne dit par écrit que ce que l'on veut dire.</l>
 	<l id='861'>Et toi, tu lui feras remettre mon billet.</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
-	<l id='862' part='i'>Allez.</l>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
+	<l id='862' syll="2" part="i">Allez.</l>
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. </head>
-<sp who='NERINE'><speaker>NÉRINE, seule.</speaker>
-	<l id='862' part='f'>Je vais tâcher de trouver son valet.</l>
+<sp stage="alone" who='NÉRINE'><speaker>NÉRINE, seule.</speaker>
+	<l id='862' syll="10" part="f">Je vais tâcher de trouver son valet.</l>
 	<l id='863'>S'il est intelligent, il me pourrait instruire</l>
 	<l id='864'>D'où vient ce changement, et qui peut le produire.</l>
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V.</head>
-<sp who='DAMON'><speaker>DAMON, seul, et tenant des papiers.</speaker>
+<sp stage="alone/get" who='DAMON'><speaker>DAMON, seul, et tenant des papiers.</speaker>
 	<l id='865'>Faisons cesser enfin le bruit de mon trépas.</l>
 	<l id='866'>Mon ennemi s'apaise après tant de débats.</l>
 	<l id='867'>Celle à qui mon malheur avait uni ma vie,</l>
@@ -1832,70 +1845,70 @@
 </div2>
 <div2 type="scene" n='6'><head>SCENE VI. Damon, Nérine.</head>
 <sp who='DAMON'><speaker>DAMON.</speaker>
-	<l id='884' part='i'>Peut-on voir Léonore ?</l>
+	<l id='884' syll="6" part="i">Peut-on voir Léonore ?</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
-	<l id='884' part='f'>Ah ! Monsieur, j'imagine</l>
-	<l id='885' part='i'>Que vous rêvez.</l>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
+	<l id='884' syll="6" part="f">Ah ! Monsieur, j'imagine</l>
+	<l id='885' syll="4" part="i">Que vous rêvez.</l>
 </sp>
 <sp who='DAMON'><speaker>DAMON.</speaker>
-	<l id='885' part='f'>Je veux lui parler un moment.</l>
+	<l id='885' syll="8" part="f">Je veux lui parler un moment.</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='886'>Vous me faites frémir d'y penser seulement.</l>
 </sp>
 <sp who='DAMON'><speaker>DAMON.</speaker>
-	<l id='887' part='i'>Il faut que je la voie.</l>
+	<l id='887' syll="6" part="i">Il faut que je la voie.</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
-	<l id='887' part='f'>Ah ! Je vous crois trop sage</l>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
+	<l id='887' syll="6" part="f">Ah ! Je vous crois trop sage</l>
 	<l id='888'>Pour oser à ses yeux vous offrir davantage.</l>
 	<l id='889'>Votre présence ici cause assez d'embarras.</l>
 </sp>
 <sp who='DAMON'><speaker>DAMON.</speaker>
-	<l id='890' part='i'>De grâce, annonce-moi.</l>
+	<l id='890' syll="6" part="i">De grâce, annonce-moi.</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
-	<l id='890' part='f'>Je ne le ferai pas.</l>
-</sp>
-<sp who='DAMON'><speaker>DAMON.</speaker>
-	<l id='891' part='i'>Que je lui dise un mot.</l>
-</sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
-	<l id='891' part='f'>Cela n'est pas possible.</l>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
+	<l id='890' syll="6" part="f">Je ne le ferai pas.</l>
 </sp>
 <sp who='DAMON'><speaker>DAMON.</speaker>
-	<l id='892' part='i'>Il m'est de conséquence.</l>
-<stage type="[N/A]">Il jette sa bague à terre. </stage>
+	<l id='891' syll="6" part="i">Que je lui dise un mot.</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
-	<l id='892' part='f'>Elle n'est pas visible.</l>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
+	<l id='891' syll="6" part="f">Cela n'est pas possible.</l>
+</sp>
+<sp who='DAMON'><speaker>DAMON.</speaker>
+	<l id='892' syll="6" part="i">Il m'est de conséquence.</l>
+<stage type="throw">Il jette sa bague à terre. </stage>
+</sp>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
+	<l id='892' syll="6" part="f">Elle n'est pas visible.</l>
 	<l id='893'>En vérité, monsieur, je ne vous comprends pas...</l>
-	<l id='894' part='i'>Que cherchez-vous ?</l>
+	<l id='894' syll="4" part="i">Que cherchez-vous ?</l>
 </sp>
 <sp who='DAMON'><speaker>DAMON.</speaker>
-	<l id='894' part='m'>Ma bague.</l>
+	<l id='894' syll="2" part="m">Ma bague.</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE, cherchant la bague.</speaker>
-	<l id='894' part='f'>Ah ! Je la vois là-bas,</l>
+<sp stage="search" who='NÉRINE'><speaker>NÉRINE, cherchant la bague.</speaker>
+	<l id='894' syll="6" part="f">Ah ! Je la vois là-bas,</l>
 	<l id='895'>Ou je suis bien trompée. Oui, justement c'est elle.</l>
-<stage type="[N/A]">Elle ramasse la bague.</stage>
+<stage type="get">Elle ramasse la bague.</stage>
 	<l id='896'>C'eût été grand dommage ; elle est vraiment fort belle.</l>
-<stage type="[N/A]">Elle la rend à Damon. </stage>
+<stage type="give">Elle la rend à Damon. </stage>
 </sp>
-<sp who='DAMON'><speaker>DAMON, refusant la bague.</speaker>
+<sp stage="refuse" who='DAMON'><speaker>DAMON, refusant la bague.</speaker>
 	<l id='897'>Elle est en bonnes mains ; et, puisqu'elle te plaît,</l>
 	<l id='898'>Profite du présent que le hasard te fait.</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
-	<l id='899' part='i'>Moi, que je la garde ?</l>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
+	<l id='899' syll="5" part="i">Moi, que je la garde ?</l>
 </sp>
 <sp who='DAMON'><speaker>DAMON.</speaker>
-	<l id='899' part='f'>Oui ; c'est une bagatelle :</l>
+	<l id='899' syll="7" part="f">Oui ; c'est une bagatelle :</l>
 	<l id='900'>Nérine, je voudrais qu'elle eût été plus belle.</l>
 	<l id='901'>Ce n'est qu'un faible essai du bien que je te veux.</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='902'>Voilà ce qui s'appelle un homme dangereux.</l>
 	<l id='903'>On ne saurait prévoir des tours de cette espèce.</l>
 </sp>
@@ -1903,7 +1916,7 @@
 	<l id='904'>Puisqu'on ne peut parler à ta belle maîtresse,</l>
 	<l id='905'>Tu lui donneras bien un billet de ma part.</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='906'>Voilà donc l'encloueure ! Allons, à tout hasard.</l>
 <note type="L">Encloueure : Est une blessure faite au cheval par un maréchal-ferrand. Au sens figuré : empêchement, obstacle, difficulté.</note>
 	<l id='907'>L'avez-vous ce billet ? Il faut que je m'acquitte.</l>
@@ -1913,7 +1926,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII.</head>
-<sp who='NERINE'><speaker>NÉRINE, seule.</speaker>
+<sp stage="alone" who='NÉRINE'><speaker>NÉRINE, seule.</speaker>
 	<l id='909'>Je ne sais, à présent que j'ai le diamant,</l>
 	<l id='910'>Je vois que je me suis oubliée un moment :</l>
 	<l id='911'>Réfléchissons un peu sur mon étourderie.</l>
@@ -1935,31 +1948,31 @@
 </sp>
 </div2>
 <div2 type="scene" n='8'><head>SCENE VIII. Léonore, Damon, tenant chacun une lettre à la main, Nérine.</head>
-<sp who='LEONORE'><speaker>LÉONORE, sortant d'un côté. à Nérine.</speaker>
-	<l id='927' part='i'>Tiens, fais rendre à Damon...</l>
+<sp stage="exit/toward" who='LÉONORE'><speaker>LÉONORE, sortant d'un côté. à Nérine.</speaker>
+	<l id='927' syll="6" part="i">Tiens, fais rendre à Damon...</l>
 </sp>
-<sp who='DAMON'><speaker>DAMON, sortant de l'autre côté. à Nérine.</speaker>
-	<l id='927' part='f'>Tiens, donne à ta maîtresse...</l>
+<sp stage="exit/roward" who='DAMON'><speaker>DAMON, sortant de l'autre côté. à Nérine.</speaker>
+	<l id='927' syll="6" part="f">Tiens, donne à ta maîtresse...</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE, au milieu d'eux, croisant les bras.</speaker>
+<sp stage="location" who='NÉRINE'><speaker>NÉRINE, au milieu d'eux, croisant les bras.</speaker>
 	<l id='928'>Donnez, je remettrai chacune à son adresse.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE, avec étonnement.</speaker>
-	<l id='929' part='i'>Damon !</l>
+<sp stage="estonish" who='LÉONORE'><speaker>LÉONORE, avec étonnement.</speaker>
+	<l id='929' syll="2" part="i">Damon !</l>
 </sp>
 <sp who='DAMON'><speaker>DAMON.</speaker>
-	<l id='929' part='f'>Madame avait quelque ordre à me donner ?</l>
+	<l id='929' syll="10" part="f">Madame avait quelque ordre à me donner ?</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
 	<l id='930'>Vous le deviez attendre ; et je dois m'étonner</l>
 	<l id='931'>De n'avoir pas reçu cette marque d'estime.</l>
 </sp>
 <sp who='DAMON'><speaker>DAMON.</speaker>
 	<l id='932'>Une raison heureuse, ou du moins légitime,</l>
-	<l id='933' part='i'>Dont je vais vous instruire...</l>
+	<l id='933' syll="6" part="i">Dont je vais vous instruire...</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
-	<l id='933' part='f'>Épargnez-vous le soin</l>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
+	<l id='933' syll="6" part="f">Épargnez-vous le soin</l>
 	<l id='934'>D'un éclaircissement, dont je n'ai pas besoin.</l>
 	<l id='935'>Nous nous devons toujours éviter l'un et l'autre.</l>
 	<l id='936'>J'ai ma raison. Souffrez que j'ignore la vôtre.</l>
@@ -1968,21 +1981,21 @@
 	<l id='939'>C'est pour vous en prier que j'ose vous écrire.</l>
 </sp>
 <sp who='DAMON'><speaker>DAMON.</speaker>
-	<l id='940' part='i'>Mais...</l>
+	<l id='940' syll="1" part="i">Mais...</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
-	<l id='940' part='f'>Vous ne devez plus avoir rien à me dire.</l>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
+	<l id='940' syll="11" part="f">Vous ne devez plus avoir rien à me dire.</l>
 </sp>
 <sp who='DAMON'><speaker>DAMON.</speaker>
-	<l id='941' part='i'>Ah ! Madame...</l>
+	<l id='941' syll="4" part="i">Ah ! Madame...</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
-	<l id='941' part='f'>Damon ose me retenir ?</l>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
+	<l id='941' syll="8" part="f">Damon ose me retenir ?</l>
 </sp>
 <sp who='DAMON'><speaker>DAMON.</speaker>
 	<l id='942'>Apprenez donc mon crime, avant de me punir.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
 	<l id='943'>J'ai lieu de m'offenser de votre résistance.</l>
 </sp>
 <sp who='DAMON'><speaker>DAMON.</speaker>
@@ -1990,33 +2003,33 @@
 	<l id='945'>Il y va de mes jours. Permettez en partant,</l>
 	<l id='946'>Qu'on vous dise un secret qui peut m'être important.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
-	<l id='947' part='i'>Je ne veux rien savoir...</l>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
+	<l id='947' syll="6" part="i">Je ne veux rien savoir...</l>
 </sp>
 <sp who='DAMON'><speaker>DAMON.</speaker>
-	<l id='947' part='f'>Hélas ! Daignez m'entendre.</l>
+	<l id='947' syll="6" part="f">Hélas ! Daignez m'entendre.</l>
 	<l id='948'>Enfin, je puis céder à l'amour le plus tendre.</l>
 	<l id='949'>Ces soupirs, si longtemps retenus dans mon coeur,</l>
 	<l id='950'>Peuvent enfin paraître aux yeux de mon vainqueur.</l>
 	<l id='951'>Moins je l'offense, et plus je ressens que je l'aime.</l>
 	<l id='952'>Je n'ai plus désormais que sa rigueur extrême...</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
-	<l id='953' part='i'>Votre épouse n'est plus ?</l>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
+	<l id='953' syll="6" part="i">Votre épouse n'est plus ?</l>
 </sp>
-<sp who='DAMON'><speaker>DAMON, à Léonore.</speaker>
-	<l id='953' part='f'>Ah ! Ce titre si doux</l>
+<sp stage="toward" who='DAMON'><speaker>DAMON, à Léonore.</speaker>
+	<l id='953' syll="6" part="f">Ah ! Ce titre si doux</l>
 	<l id='954'>Aurait dû ne jamais appartenir qu'à vous.</l>
 	<l id='955'>Celle qui le portait n'a point perdu la vie ;</l>
 	<l id='956'>Nous cédons l'un et l'autre à notre antipathie ;</l>
 	<l id='957'>Et ces noeuds que l'hymen avait désavoués,</l>
 	<l id='958'>Sont d'un commun accord entre nous dénoués.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
-	<l id='959' part='i'>Quoi ! Vous vous séparez ?</l>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
+	<l id='959' syll="6" part="i">Quoi ! Vous vous séparez ?</l>
 </sp>
 <sp who='DAMON'><speaker>DAMON.</speaker>
-	<l id='959' part='f'>Une heureuse rupture</l>
+	<l id='959' syll="6" part="f">Une heureuse rupture</l>
 	<l id='960'>Nous dégage tous deux d'une chaîne trop dure.</l>
 	<l id='961'>Nos serments étaient nuls, ils ont été forcés ;</l>
 	<l id='962'>Notre bouche à regret les avait prononcés.</l>
@@ -2026,14 +2039,14 @@
 	<l id='966'>Nous pouvons tous les deux nous choisir un vainqueur.</l>
 	<l id='967'>Hélas ! Mon choix est fait ; et vous devez m'entendre.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
 	<l id='968'>C'est donc-là ce secret que vous vouliez m'apprendre ?</l>
 	<l id='969'>Et vous croyez, monsieur, qu'il doit m'intéresser ?</l>
 </sp>
 <sp who='DAMON'><speaker>DAMON.</speaker>
 	<l id='970'>Quoi donc ! Ce faible espoir peut-il vous offenser ?</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
 	<l id='971'>Malgré tous ces détours où votre esprit s'efforce,</l>
 	<l id='972'>Ce que vous m'annoncez est toujours un divorce.</l>
 	<l id='973'>Oui, tel que soit le nom dont vous les colorez,</l>
@@ -2058,26 +2071,26 @@
 	<l id='990'>Que le plus grand malheur est celui d'être joint</l>
 	<l id='991'>Au déplorable objet d'une haine invincible.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE, à part.</speaker>
-	<l id='992' part='i'>Quelle conformité.</l>
+<sp stage="aparte" who='LÉONORE'><speaker>LÉONORE, à part.</speaker>
+	<l id='992' syll="6" part="i">Quelle conformité.</l>
 </sp>
 <sp who='DAMON'><speaker>DAMON.</speaker>
-	<l id='992' part='f'>Soyez-y donc sensible.</l>
+	<l id='992' syll="6" part="f">Soyez-y donc sensible.</l>
 	<l id='993'>Quand vous refuseriez de vous rendre à mes voeux,</l>
 	<l id='994'>Nous ne romprons pas moins nos liens rigoureux.</l>
 	<l id='995'>Ma femme n'eut pour moi qu'une haine mortelle ;</l>
 	<l id='996'>C'est ce que vous avez de commun avec elle.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
 	<l id='997'>Dites-moi donc comment elle a pu vous haïr ?</l>
-	<l id='998' part='i'>Vous me haïssez bien.</l>
+	<l id='998' syll="6" part="i">Vous me haïssez bien.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
-	<l id='998' part='f'>Ah ! Laissez-moi vous fuir.</l>
-	<l id='999' part='i'>Oublions-nous tous deux.</l>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
+	<l id='998' syll="6" part="f">Ah ! Laissez-moi vous fuir.</l>
+	<l id='999' syll="6" part="i">Oublions-nous tous deux.</l>
 </sp>
 <sp who='DAMON'><speaker>DAMON.</speaker>
-	<l id='999' part='f'>Moi, que je vous oublie ?</l>
+	<l id='999' syll="6" part="f">Moi, que je vous oublie ?</l>
 	<l id='1000'>Vous, sur qui je fondais le bonheur de ma vie,</l>
 	<l id='1001'>Qui seule avez trouvé le secret d'enflammer</l>
 	<l id='1002'>Un coeur que je croyais incapable d'aimer,</l>
@@ -2087,68 +2100,68 @@
 	<l id='1006'>Que je puis oublier l'auteur de mon malheur.</l>
 	<l id='1007'>Vous l'apprendrez bientôt ; c'est l'espoir qui me reste.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
 	<l id='1008'>N'ajoutez pas encore à mon état funeste</l>
-	<l id='1009' part='i'>Cet affreux désespoir.</l>
+	<l id='1009' syll="6" part="i">Cet affreux désespoir.</l>
 </sp>
 <sp who='DAMON'><speaker>DAMON.</speaker>
-	<l id='1009' part='f'>C'est vous qui le causez.</l>
+	<l id='1009' syll="6" part="f">C'est vous qui le causez.</l>
 	<l id='1010'>Ces frivoles raisons que vous me proposez,</l>
 	<l id='1011'>Qu'invente contre moi votre délicatesse,</l>
 	<l id='1012'>Ne l'emporteraient pas sur la moindre tendresse.</l>
 	<l id='1013'>De votre aversion, c'est le plus sûr garant.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
 	<l id='1014'>Restez dans votre erreur, et vivez seulement.</l>
 </sp>
 <sp who='DAMON'><speaker>DAMON.</speaker>
 	<l id='1015'>Ah ! Puis-je interpréter ce que je viens d'entendre ?</l>
 	<l id='1016'>Est-ce pitié ? Serait-ce un sentiment plus tendre ?</l>
-<stage type="[N/A]">Il se jette aux genoux de Léonore.</stage>
-	<l id='1017' part='i'>Léonore, achevez.</l>
+<stage type="kneel">Il se jette aux genoux de Léonore.</stage>
+	<l id='1017' syll="6" part="i">Léonore, achevez.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
-	<l id='1017' part='m'>Damon...</l>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
+	<l id='1017' syll="2" part="m">Damon...</l>
 </sp>
 <sp who='DAMON'><speaker>DAMON.</speaker>
-	<l id='1017' part='f'>Éclaircissez...</l>
+	<l id='1017' syll="4" part="f">Éclaircissez...</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
 	<l id='1018'>Que vois-je ! Orphise ? Adieu ; fuyez, disparaissez.</l>
 </sp>
 </div2>
 <div2 type="scene" n='9'><head>SCENE IX. Léonore, Orphise, Nérine.</head>
-<sp who='NERINE'><speaker>NÉRINE, bas à Léonore.</speaker>
-	<l id='1019' part='i'>Ferme, tenez-vous bien.</l>
+<sp stage="low/toward" who='NÉRINE'><speaker>NÉRINE, bas à Léonore.</speaker>
+	<l id='1019' syll="6" part="i">Ferme, tenez-vous bien.</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
-	<l id='1019' part='f'>Ce que j'ai vu m'enchante !</l>
+	<l id='1019' syll="6" part="f">Ce que j'ai vu m'enchante !</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
-	<l id='1020' part='i'>Quoi donc ?</l>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
+	<l id='1020' syll="2" part="i">Quoi donc ?</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
-	<l id='1020' part='f'>En vérité, l'attitude est touchante.</l>
+	<l id='1020' syll="8" part="f">En vérité, l'attitude est touchante.</l>
 	<l id='1021'>Je venais vous marquer que j'avais du regret</l>
 	<l id='1022'>D'avoir conçu peut-être un soupçon indiscret.</l>
-	<l id='1023' part='i'>L'excuse n'a plus lieu.</l>
+	<l id='1023' syll="6" part="i">L'excuse n'a plus lieu.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
-	<l id='1023' part='f'>Pardonnez-moi, madame.</l>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
+	<l id='1023' syll="6" part="f">Pardonnez-moi, madame.</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
 	<l id='1024'>Vous souffrez que Damon vous parle de sa flamme ?</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
-	<l id='1025' part='i'>Je fais plus ; car je l'aime.</l>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
+	<l id='1025' syll="6" part="i">Je fais plus ; car je l'aime.</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
-	<l id='1025' part='f'>Avez-vous oublié</l>
+	<l id='1025' syll="6" part="f">Avez-vous oublié</l>
 	<l id='1026'>Que Damon, par malheur, est déjà marié ?</l>
 	<l id='1027'>Pour vous, apparemment, c'est une bagatelle ;</l>
 	<l id='1028'>Ou bien vous m'avez dit une fausse nouvelle.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
 	<l id='1029'>Elle était vraie alors ; mais tout est bien changé.</l>
 	<l id='1030'>D'un malheureux hymen Damon est dégagé.</l>
 	<l id='1031'>On va briser sa chaîne ; il me l'a dit lui-même.</l>
@@ -2159,15 +2172,15 @@
 	<l id='1036'>Mais, Madame, en tout cas, vous pouvez l'en instruire.</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
-	<l id='1037' part='i'>On va briser ses fers ?</l>
+	<l id='1037' syll="6" part="i">On va briser ses fers ?</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
-	<l id='1037' part='f'>Ils vont être rompus.</l>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
+	<l id='1037' syll="6" part="f">Ils vont être rompus.</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
 	<l id='1038'>Madame, il devient libre, et vous ne l'êtes plus.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
 	<l id='1039'>Oui, je n'en rougis point ; je chéris ma défaite ;</l>
 	<l id='1040'>Je perds ma liberté, sans que je la regrette ;</l>
 	<l id='1041'>J'ai rencontré l'objet que je devais aimer.</l>
@@ -2180,24 +2193,24 @@
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
 	<l id='1047'>Vous survivrez, madame, à de plus grandes peines.</l>
 	<l id='1048'>La mort de votre époux n'a point brisé vos chaînes :</l>
-	<l id='1049' part='i'>Il est encore vivant.</l>
+	<l id='1049' syll="6" part="i">Il est encore vivant.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
-	<l id='1049' part='f'>Mon époux est vivant !</l>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
+	<l id='1049' syll="6" part="f">Mon époux est vivant !</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
 	<l id='1050'>Oui. C'est ce que Géronte a dit en arrivant.</l>
 	<l id='1051'>Il va vous confirmer cette heureuse nouvelle.</l>
-	<l id='1052' part='i'>Il était temps.</l>
+	<l id='1052' syll="4" part="i">Il était temps.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
-	<l id='1052' part='f'>Il vit, et je suis infidèle !</l>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
+	<l id='1052' syll="8" part="f">Il vit, et je suis infidèle !</l>
 	<l id='1053'>Grand dieu ! Dans quelle horreur me précipitez-vous ?</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
 	<l id='1054'>Est-ce un si grand malheur de revoir un époux ?</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
 	<l id='1055'>Ah ! Vous n'ignorez pas quelle est l'antipathie,</l>
 	<l id='1056'>Que m'inspira l'époux à qui je suis unie.</l>
 	<l id='1057'>L'un et l'autre aux autels nous fûmes entraînés,</l>
@@ -2210,7 +2223,7 @@
 	<l id='1062'>J'en ai fait un second plus conforme à mes voeux :</l>
 	<l id='1063'>Et bien, je vous dirai qu'ils reviennent au même.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
 	<l id='1064'>Hélas ! Pour éviter une infortune extrême,</l>
 	<l id='1065'>À quel triste moyen n'ai-je pas eu recours ?</l>
 	<l id='1066'>Que ne me laissait-on finir mes tristes jours ?</l>
@@ -2231,7 +2244,7 @@
 	<l id='1079'>Il faudra bien éteindre une flamme importune.</l>
 	<l id='1080'>Et d'ailleurs, quelle est donc cette grande infortune ?</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
 	<l id='1081'>C'est d'avoir cru pouvoir disposer de mon coeur.</l>
 	<l id='1082'>Mais enfin, sous ce nom, qu'au moins pour mon bonheur</l>
 	<l id='1083'>Votre époux a voulu que je gardasse encore,</l>
@@ -2251,7 +2264,7 @@
 	<l id='1095'>Aussi bien que l'amour, l'aversion s'épuise.</l>
 	<l id='1096'>D'autre ressource enfin ne vous est plus permise.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
 	<l id='1097'>On connaît son erreur sans pouvoir en guérir.</l>
 	<l id='1098'>Adieu. Je pars, je fuis ; et je vais en mourir.</l>
 </sp>
@@ -2261,15 +2274,14 @@
 	<l id='1099'>Léonore est en pleurs ? D'où vient qu'elle m'évite ?</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
-	<l id='1100'>C'est vous, Monsieur Géronte ? Où courez-vous</l>
-	<l id='1101' part='i'>Si vite ?</l>
+	<l id='1100'>C'est vous, Monsieur Géronte ? Où courez-vous si vite ?</l>
 </sp>
 <sp who='GERONTE'><speaker>GÉRONTE.</speaker>
-	<l id='1101' part='f'>Je dois à Léonore un petit compliment ;</l>
-	<l id='1102' part='i'>Je vais m'en acquitter.</l>
+	<l id='1101'>Je dois à Léonore un petit compliment ;</l>
+	<l id='1102' syll="6" part="i">Je vais m'en acquitter.</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
-	<l id='1102' part='f'>Eh ! De grâce, un moment.</l>
+	<l id='1102' syll="6" part="f">Eh ! De grâce, un moment.</l>
 </sp>
 <sp who='GERONTE'><speaker>GÉRONTE.</speaker>
 	<l id='1103'>À votre appartement, je me suis fait écrire.</l>
@@ -2286,27 +2298,27 @@
 	<l id='1110'>Ridicules à l'âge où nous sommes tous deux.</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
-	<l id='1111' part='i'>Monsieur, parlez du vôtre.</l>
+	<l id='1111' syll="6" part="i">Monsieur, parlez du vôtre.</l>
 </sp>
 <sp who='GERONTE'><speaker>GÉRONTE.</speaker>
-	<l id='1111' part='f'>Oui, dans l'âge où nous sommes,</l>
+	<l id='1111' syll="6" part="f">Oui, dans l'âge où nous sommes,</l>
 	<l id='1112'>Vous croyez que le tems ne vieillit que les hommes ?</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
-	<l id='1113' part='i'>Autrefois...</l>
+	<l id='1113' syll="3" part="i">Autrefois...</l>
 </sp>
 <sp who='GERONTE'><speaker>GÉRONTE.</speaker>
-	<l id='1113' part='f'>Est passé pour ne plus revenir.</l>
+	<l id='1113' syll="9" part="f">Est passé pour ne plus revenir.</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
 	<l id='1114'>Et vous anticipez toujours sur l'avenir.</l>
 	<l id='1115'>Monsieur, entendons-nous une fois dans la vie.</l>
 </sp>
 <sp who='GERONTE'><speaker>GÉRONTE.</speaker>
-	<l id='1116' part='i'>C'est quand vous le voudrez.</l>
+	<l id='1116' syll="6" part="i">C'est quand vous le voudrez.</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
-	<l id='1116' part='f'>Au sujet de Silvie...</l>
+	<l id='1116' syll="6" part="f">Au sujet de Silvie...</l>
 </sp>
 <sp who='GERONTE'><speaker>GÉRONTE.</speaker>
 	<l id='1117'>Eh ! Madame, pourquoi l'appeler de ce nom ?</l>
@@ -2325,13 +2337,13 @@
 	<l id='1124'>L'apostrophe est commune, et même déplaisante.</l>
 </sp>
 <sp who='GERONTE'><speaker>GÉRONTE.</speaker>
-	<l id='1125' part='i'>Tout va bien.</l>
+	<l id='1125' syll="3" part="i">Tout va bien.</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
-	<l id='1125' part='m'>Son époux est vivant ?</l>
+	<l id='1125' syll="6" part="m">Son époux est vivant ?</l>
 </sp>
 <sp who='GERONTE'><speaker>GÉRONTE.</speaker>
-	<l id='1125' part='f'>Ah ! D'accord.</l>
+	<l id='1125' syll="3" part="f">Ah ! D'accord.</l>
 	<l id='1126'>Oui, cet homme prétend n'avoir pas été mort :</l>
 	<l id='1127'>Il revient, c'est à quoi je ne m'attendais guère :</l>
 	<l id='1128'>Les gens qu'il a chargé du soin de ses affaires,</l>
@@ -2347,25 +2359,25 @@
 	<l id='1136'>En vérité, j'ai plaint sa fortune cruelle.</l>
 </sp>
 <sp who='GERONTE'><speaker>GÉRONTE.</speaker>
-	<l id='1137' part='i'>Tant mieux.</l>
+	<l id='1137' syll="2" part="i">Tant mieux.</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
-	<l id='1137' part='f'>Mais cependant, pour certaine raison,</l>
+	<l id='1137' syll="10" part="f">Mais cependant, pour certaine raison,</l>
 	<l id='1138'>Il faudra, qu'elle ou moi, sortions de la maison.</l>
 </sp>
 <sp who='GERONTE'><speaker>GÉRONTE.</speaker>
 	<l id='1139'>Parbleu, l'alternative est toujours quelque chose.</l>
-	<l id='1140' part='i'>Pourquoi donc, s'il vous plaît ?</l>
+	<l id='1140' syll="6" part="i">Pourquoi donc, s'il vous plaît ?</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
-	<l id='1140' part='f'>C'est que je me propose</l>
-	<l id='1141' part='i'>De marier...</l>
+	<l id='1140' syll="6" part="f">C'est que je me propose</l>
+	<l id='1141' syll="4" part="i">De marier...</l>
 </sp>
 <sp who='GERONTE'><speaker>GÉRONTE.</speaker>
-	<l id='1141' part='m'>Ah, ah !</l>
+	<l id='1141' syll="2" part="m">Ah, ah !</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
-	<l id='1141' part='f'>Ma fille avec Damon.</l>
+	<l id='1141' syll="6" part="f">Ma fille avec Damon.</l>
 </sp>
 <sp who='GERONTE'><speaker>GÉRONTE.</speaker>
 	<l id='1142'>Oui-da, ce parti-là pourrait être assez bon.</l>
@@ -2377,16 +2389,16 @@
 	<l id='1146'>Suffit. Je n'aime point à parler mal d'autrui.</l>
 </sp>
 <sp who='GERONTE'><speaker>GÉRONTE.</speaker>
-	<l id='1147' part='i'>J'entends à demi-mot.</l>
+	<l id='1147' syll="6" part="i">J'entends à demi-mot.</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
-	<l id='1147' part='f'>Disposez votre nièce</l>
+	<l id='1147' syll="6" part="f">Disposez votre nièce</l>
 	<l id='1148'>À suivre son époux. J'y compte. Je vous laisse.</l>
 	<l id='1149'>Arrangez-vous ensemble ; et faites pour le mieux.</l>
 </sp>
 </div2>
 <div2 type="scene" n='11'><head>SCENE XI.</head>
-<sp who='GERONTE'><speaker>GÉRONTE, seul.</speaker>
+<sp stage="alone" who='GERONTE'><speaker>GÉRONTE, seul.</speaker>
 	<l id='1150'>Les femmes ont toujours des projets merveilleux.</l>
 	<l id='1151'>Ma nièce n'aura point regret à mon voyage.</l>
 	<l id='1152'>D'abord, j'ai retiré tous ses biens du pillage.</l>
@@ -2401,7 +2413,7 @@
 </div1>
 <div1 type="act" n='3'><head>ACTE III</head>
 <div2 type="scene" n='1'><head>SCENE I.</head>
-<sp who='ORPHISE'><speaker>ORPHISE, seule.</speaker>
+<sp stage="alone" who='ORPHISE'><speaker>ORPHISE, seule.</speaker>
 	<l id='1159'>Sachons ce que Géronte aura fait chez sa nièce.</l>
 	<l id='1160'>S'il aime un peu ma fille, en cas qu'il s'intéresse</l>
 	<l id='1161'>À son hymen, il peut me servir à mon gré.</l>
@@ -2409,7 +2421,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Géronte, Orphise.</head>
-<sp who='GERONTE'><speaker>GÉRONTE, sortant de chez Léonore.</speaker>
+<sp stage="entrance" who='GERONTE'><speaker>GÉRONTE, sortant de chez Léonore.</speaker>
 	<l id='1163'>La femme est une espece à qui rien ne ressemble ;</l>
 	<l id='1164'>C'est tout bien ou tout mal ; et tous les deux ensemble.</l>
 	<l id='1165'>Est-elle vertueuse ? Elle l'est à l'excès.</l>
@@ -2436,14 +2448,14 @@
 	<l id='1178'>J'avais fait jusqu'ici certaine exception...</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
-	<l id='1179' part='i'>Peut-on savoir combien vous en exceptiez ?</l>
+	<l id='1179' syll="11" part="i">Peut-on savoir combien vous en exceptiez ?</l>
 </sp>
 <sp who='GERONTE'><speaker>GÉRONTE.</speaker>
-	<l id='1179' part='f'>Une.</l>
-	<l id='1180' part='i'>Et c'était encor trop.</l>
+	<l id='1179' syll="1" part="f">Une.</l>
+	<l id='1180' syll="6" part="i">Et c'était encor trop.</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
-	<l id='1180' part='f'>Pour nous quelle fortune !</l>
+	<l id='1180' syll="6" part="f">Pour nous quelle fortune !</l>
 </sp>
 <sp who='GERONTE'><speaker>GÉRONTE.</speaker>
 	<l id='1181'>C'est Silvie. Ah ! Morbleu, je me trompe de nom.</l>
@@ -2451,20 +2463,20 @@
 	<l id='1183'>Diable ! Je ne sais plus ce que je voulais dire.</l>
 	<l id='1184'>J'exceptais Léonore ; et cela vous fait rire.</l>
 </sp>
-<sp who='ORPHISE'><speaker>ORPHISE, riant.</speaker>
+<sp stage="laugh" who='ORPHISE'><speaker>ORPHISE, riant.</speaker>
 	<l id='1185'>C'est votre nièce, à qui vous faisiez cet honneur ?</l>
 </sp>
 <sp who='GERONTE'><speaker>GÉRONTE.</speaker>
-	<l id='1186' part='i'>Léonore, elle-même.</l>
+	<l id='1186' syll="6" part="i">Léonore, elle-même.</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
-	<l id='1186' part='f'>Elle a bien du bonheur.</l>
+	<l id='1186' syll="6" part="f">Elle a bien du bonheur.</l>
 </sp>
 <sp who='GERONTE'><speaker>GÉRONTE.</speaker>
-	<l id='1187' part='i'>Oui, d'avoir du mérite.</l>
+	<l id='1187' syll="6" part="i">Oui, d'avoir du mérite.</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
-	<l id='1187' part='f'>Autant que de sagesse.</l>
+	<l id='1187' syll="6" part="f">Autant que de sagesse.</l>
 </sp>
 <sp who='GERONTE'><speaker>GÉRONTE.</speaker>
 	<l id='1188'>Que trop. Et c'est en elle un excès qui me blesse,</l>
@@ -2483,35 +2495,35 @@
 	<l id='1195'>Plutôt on les apprend, plutôt on s'en console.</l>
 </sp>
 <sp who='GERONTE'><speaker>GÉRONTE.</speaker>
-	<l id='1196' part='i'>J'espère cependant...</l>
+	<l id='1196' syll="6" part="i">J'espère cependant...</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
-	<l id='1196' part='f'>Espérance frivole.</l>
+	<l id='1196' syll="6" part="f">Espérance frivole.</l>
 </sp>
 <sp who='GERONTE'><speaker>GÉRONTE.</speaker>
 	<l id='1197'>Peut-être que Damon, que j'ai fait avertir,</l>
-	<l id='1198' part='i'>Aura plus de crédit...</l>
+	<l id='1198' syll="6" part="i">Aura plus de crédit...</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
-	<l id='1198' part='f'>Eh ! Laissez-la partir.</l>
-	<l id='1199' part='i'>Elle est mariée...</l>
+	<l id='1198' syll="6" part="f">Eh ! Laissez-la partir.</l>
+	<l id='1199' syll="5" part="i">Elle est mariée...</l>
 </sp>
 <sp who='GERONTE'><speaker>GÉRONTE.</speaker>
-	<l id='1199' part='m'>Oui.</l>
+	<l id='1199' syll="1" part="m">Oui.</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
-	<l id='1199' part='f'>L'affaire est terminée.</l>
+	<l id='1199' syll="6" part="f">L'affaire est terminée.</l>
 </sp>
 <sp who='GERONTE'><speaker>GÉRONTE.</speaker>
 	<l id='1200'>Point du tout. Si ma nièce était moins obstinée,</l>
-	<l id='1201' part='i'>Elle pourrait...</l>
+	<l id='1201' syll="4" part="i">Elle pourrait...</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
-	<l id='1201' part='f'>Aller retrouver son époux.</l>
+	<l id='1201' syll="8" part="f">Aller retrouver son époux.</l>
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCENE III. Géronte, Orphise, Damon.</head>
-<sp who='GERONTE'><speaker>GÉRONTE, à Damon.</speaker>
+<sp stage="toward" who='GERONTE'><speaker>GÉRONTE, à Damon.</speaker>
 	<l id='1202'>Venez, monsieur, venez vous unir avec nous ;</l>
 	<l id='1203'>La pauvre Léonore... elle se croyait veuve.</l>
 	<l id='1204'>Eh bien, il n'en est rien ; nous en avons la preuve.</l>
@@ -2526,12 +2538,12 @@
 	<l id='1209'>Déterminez un coeur fortement combattu.</l>
 	<l id='1210'>Ne l'abandonnez pas à sa triste vertu.</l>
 	<l id='1211'>Car je n'ignore plus qu'elle vous intéresse.</l>
-	<l id='1212' part='i'>Vous l'aimez ?</l>
+	<l id='1212' syll="3" part="i">Vous l'aimez ?</l>
 </sp>
 <sp who='DAMON'><speaker>DAMON.</speaker>
-	<l id='1212' part='f'>Je l'adore. à quoi sert ma tendresse ?</l>
+	<l id='1212' syll="9" part="f">Je l'adore. À quoi sert ma tendresse ?</l>
 </sp>
-<sp who='ORPHISE'><speaker>ORPHISE, à Géronte </speaker>
+<sp stage="toward" who='ORPHISE'><speaker>ORPHISE, à Géronte </speaker>
 	<l id='1213'>Ce sont-là de vos tours. Vous servez en ami.</l>
 </sp>
 <sp who='GERONTE'><speaker>GÉRONTE.</speaker>
@@ -2546,16 +2558,16 @@
 	<l id='1220'>On s'en consolera. Modérez votre zèle.</l>
 </sp>
 <sp who='DAMON'><speaker>DAMON.</speaker>
-	<l id='1221' part='i'>Je m'en consolerai ?</l>
+	<l id='1221' syll="6" part="i">Je m'en consolerai ?</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
-	<l id='1221' part='f'>Vous serez dans le cas.</l>
+	<l id='1221' syll="6" part="f">Vous serez dans le cas.</l>
 </sp>
 <sp who='DAMON'><speaker>DAMON.</speaker>
-	<l id='1222' part='i'>Jamais ; et j'en mourrai.</l>
+	<l id='1222' syll="6" part="i">Jamais ; et j'en mourrai.</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
-	<l id='1222' part='f'>Non, vous n'en mourrez pas.</l>
+	<l id='1222' syll="6" part="f">Non, vous n'en mourrez pas.</l>
 </sp>
 <sp who='GERONTE'><speaker>GÉRONTE.</speaker>
 	<l id='1223'>Eh ! Madame, tâchez d'être un peu plus tranquille.</l>
@@ -2564,22 +2576,22 @@
 	<l id='1224'>Vous, donnez un conseil plus sage et plus utile.</l>
 </sp>
 <sp who='GERONTE'><speaker>GÉRONTE.</speaker>
-	<l id='1225' part='i'>Jetez-vous à ses pieds.</l>
+	<l id='1225' syll="6" part="i">Jetez-vous à ses pieds.</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
-	<l id='1225' part='f'>Ne la voyez jamais.</l>
+	<l id='1225' syll="6" part="f">Ne la voyez jamais.</l>
 </sp>
 <sp who='GERONTE'><speaker>GÉRONTE.</speaker>
-	<l id='1226' part='i'>Employez les soupirs.</l>
+	<l id='1226' syll="6" part="i">Employez les soupirs.</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
-	<l id='1226' part='f'>Oubliez ses attraits.</l>
+	<l id='1226' syll="6" part="f">Oubliez ses attraits.</l>
 </sp>
 <sp who='GERONTE'><speaker>GÉRONTE.</speaker>
-	<l id='1227' part='i'>Allez.</l>
+	<l id='1227' syll="2" part="i">Allez.</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
-	<l id='1227' part='f'>Quoi ? Voulez-vous déshonorer Silvie.</l>
+	<l id='1227' syll="10" part="f">Quoi ? Voulez-vous déshonorer Silvie.</l>
 </sp>
 <sp who='DAMON'><speaker>DAMON.</speaker>
 	<l id='1228'>Moi, la déshonorer ? En quoi, je vous supplie ?</l>
@@ -2589,10 +2601,10 @@
 	<l id='1232'>Quand on ne s'aime point, aisément on s'oublie.</l>
 </sp>
 <sp who='GERONTE'><speaker>GÉRONTE.</speaker>
-	<l id='1233' part='i'>Quand on ne s'aime point ?</l>
+	<l id='1233' syll="6" part="i">Quand on ne s'aime point ?</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
-	<l id='1233' part='f'>Pour le coup, je m'y perds.</l>
+	<l id='1233' syll="6" part="f">Pour le coup, je m'y perds.</l>
 </sp>
 <sp who='DAMON'><speaker>DAMON.</speaker>
 	<l id='1234'>On cherche volontiers à sortir de ses fers.</l>
@@ -2606,15 +2618,15 @@
 	<l id='1238'>Léonore est l'objet que j'aimerai toujours.</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
-	<l id='1239' part='i'>Nous extravaguons tous.</l>
+	<l id='1239' syll="6" part="i">Nous extravaguons tous.</l>
 </sp>
 <sp who='GERONTE'><speaker>GÉRONTE.</speaker>
-	<l id='1239' part='f'>Je m'en doutais, madame.</l>
+	<l id='1239' syll="6" part="f">Je m'en doutais, madame.</l>
 	<l id='1240'>Ma nièce est cependant l'objet qui vous enflamme ?</l>
 	<l id='1241'>L'équivoque des noms a pu nous embrouiller ;</l>
 	<l id='1242'>Mais l'histoire en serait trop longue à détailler.</l>
 </sp>
-<sp who='DAMON'><speaker>DAMON, à part.</speaker>
+<sp stage="aparte" who='DAMON'><speaker>DAMON, à part.</speaker>
 	<l id='1243'>Mon secret doit ici n'être su de personne.</l>
 	<l id='1244'>Ce nom m'a fait frémir ; et ce rapport m'étonne.</l>
 </sp>
@@ -2624,7 +2636,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Géronte, Orphise, Damon, Léonore, Nérine.</head>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
 	<l id='1247'>Madame, à vos avis je rends plus de justice.</l>
 	<l id='1248'>Vous arrêtez mes pas au bord du précipice.</l>
 	<l id='1249'>Victime d'un penchant devenu criminel,</l>
@@ -2641,45 +2653,45 @@
 	<l id='1256'>Monsieur, que voulez-vous que madame devienne ?</l>
 </sp>
 <sp who='GERONTE'><speaker>GÉRONTE.</speaker>
-	<l id='1257' part='i'>Heureuse, apparemment.</l>
+	<l id='1257' syll="6" part="i">Heureuse, apparemment.</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
-	<l id='1257' part='m'>Eh ! Le moyen ?</l>
+	<l id='1257' syll="4" part="m">Eh ! Le moyen ?</l>
 </sp>
 <sp who='GERONTE'><speaker>GÉRONTE.</speaker>
-	<l id='1257' part='f'>Est sûr.</l>
+	<l id='1257' syll="2" part="f">Est sûr.</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
 	<l id='1258'>Quoi ! Faudra-t-il qu'au fond de quelque asile obscur,</l>
 	<l id='1259'>Elle aille ensevelir une épouse craintive,</l>
 	<l id='1260'>Ou mener une vie errante et fugitive ?</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
 	<l id='1261'>C'est un dessein coupable ; et je n'y pense plus.</l>
 	<l id='1262'>Je reprends des liens que je croyais rompus.</l>
 	<l id='1263'>Il m'en coûtera cher... que dis-je, malheureuse ?</l>
 	<l id='1264'>Mais la nécessité me rendra vertueuse.</l>
 	<l id='1265'>J'ai gagné sur mon coeur, ou du moins je le crois.</l>
-<stage type="[N/A]">Apercevant Damon.</stage>
+<stage type="watch">Apercevant Damon.</stage>
 	<l id='1266'>Ah, rencontre cruelle ! Et qu'est-ce que je vois ?</l>
 </sp>
 <sp who='DAMON'><speaker>DAMON.</speaker>
 	<l id='1267'>C'est un infortuné, qui n'a plus guère à vivre.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
 	<l id='1268'>Je vous l'ai dit, vivez ; mais cessez de me suivre.</l>
 </sp>
 <sp who='DAMON'><speaker>DAMON.</speaker>
 	<l id='1269'>Eh ! Le puis-je ? C'est vous qui voulez mon trépas.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
 	<l id='1270'>Ah ! Ne m'engagez point à de nouveaux combats.</l>
 	<l id='1271'>Mon coeur n'a pas besoin d'une épreuve cruelle.</l>
 </sp>
 <sp who='DAMON'><speaker>DAMON.</speaker>
 	<l id='1272'>Hélas ! Que craignez-vous ? À quoi servirait-elle ?</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
 	<l id='1273'>À vous faire haïr, à me désespérer.</l>
 	<l id='1274'>C'est me persécuter, c'est me déshonorer,</l>
 	<l id='1275'>Que d'exposer encor mon coeur à se défendre.</l>
@@ -2693,7 +2705,7 @@
 	<l id='1281'>Sans blesser ce devoir, vous pourriez recourir</l>
 	<l id='1282'>À des moyens plus doux, qu'on vient de vous offrir.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
 	<l id='1283'>Non, je n'ai point assez d'audace, ni de force,</l>
 	<l id='1284'>Pour aller mendier un malheureux divorce.</l>
 	<l id='1285'>Je n'imagine pas qu'une femme de bien,</l>
@@ -2704,12 +2716,12 @@
 	<l id='1288'>On vous excepterait de la loi générale.</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
-	<l id='1289' part='i'>Ne vous en flattez pas.</l>
+	<l id='1289' syll="6" part="i">Ne vous en flattez pas.</l>
 </sp>
 <sp who='GERONTE'><speaker>GÉRONTE.</speaker>
-	<l id='1289' part='f'>Le cas est différent.</l>
+	<l id='1289' syll="6" part="f">Le cas est différent.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
 	<l id='1290'>Sur l'espoir d'un succès toujours déshonorant,</l>
 	<l id='1291'>Je ne risquerai point d'être tympanisée.</l>
 <note type="L">Tympaniser : crier hautement et publiquement contre quelqu'un. Voir aussi Molière, "L'École des femmes" vers 72.</note>
@@ -2731,17 +2743,17 @@
 	<l id='1304'>Eh ! Non. Rassure-toi. Ta crainte est mal fondée.</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
-	<l id='1305' part='i'>Eh ! Mais, pardonnez-moi.</l>
+	<l id='1305' syll="6" part="i">Eh ! Mais, pardonnez-moi.</l>
 </sp>
 <sp who='GERONTE'><speaker>GÉRONTE.</speaker>
-	<l id='1305' part='f'>Non. Il s'agit au plus</l>
+	<l id='1305' syll="6" part="f">Non. Il s'agit au plus</l>
 	<l id='1306'>D'achever de briser des noeuds presque rompus,</l>
 	<l id='1307'>De m'en laisser le soin ; en un mot, de reprendre</l>
 	<l id='1308'>L'heureuse liberté qu'on offre de lui rendre ;</l>
-	<l id='1309' part='i'>De quitter un époux.</l>
+	<l id='1309' syll="6" part="i">De quitter un époux.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
-	<l id='1309' part='f'>Daignez lui pardonner.</l>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
+	<l id='1309' syll="6" part="f">Daignez lui pardonner.</l>
 	<l id='1310'>À sa discrétion, je veux m'abandonner.</l>
 	<l id='1311'>Peut-être que l'absence, et son état funeste</l>
 	<l id='1312'>Auront changé son coeur ; le mien fera le reste.</l>
@@ -2760,7 +2772,7 @@
 	<l id='1321'>Je perds tout, en perdant ce bonheur apparent.</l>
 	<l id='1322'>Ce que je deviendrai vous est indifférent.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
 	<l id='1323'>Ah, cruel ! D'où vient donc le remords qui m'accable...</l>
 	<l id='1324'>Qu'ai-je dit ? Je me rends encore plus coupable.</l>
 	<l id='1325'>Ne vous promettez rien des pleurs que je répands.</l>
@@ -2776,27 +2788,27 @@
 	<l id='1333'>Sa haine ou son amour ne m'intéressent plus.</l>
 	<l id='1334'>Ne consent-elle pas que nos fers soient rompus ?</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
-	<l id='1335' part='i'>C'est vous qui le voulez.</l>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
+	<l id='1335' syll="6" part="i">C'est vous qui le voulez.</l>
 </sp>
 <sp who='DAMON'><speaker>DAMON.</speaker>
-	<l id='1335' part='f'>Y consentirait-elle,</l>
+	<l id='1335' syll="6" part="f">Y consentirait-elle,</l>
 	<l id='1336'>Si ce n'était pour prendre une chaîne nouvelle ?</l>
 	<l id='1337'>Je n'eus jamais son coeur ; elle a repris sa foi.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
 	<l id='1338'>Arrêtez. On pourrait en dire autant de moi.</l>
-	<l id='1339' part='i'>C'est vous qui me jugez.</l>
+	<l id='1339' syll="6" part="i">C'est vous qui me jugez.</l>
 </sp>
 <sp who='GERONTE'><speaker>GÉRONTE.</speaker>
-	<l id='1339' part='f'>Quelle bizarrerie !</l>
+	<l id='1339' syll="6" part="f">Quelle bizarrerie !</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
 	<l id='1340'>Oh ! Vous traitez toujours la vertu de folie.</l>
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Géronte, Orphise, Damon, Léonore, Nérine, Frontin.</head>
-<sp who='FRONTIN'><speaker>FRONTIN, à Damon.</speaker>
+<sp stage="toward" who='FRONTIN'><speaker>FRONTIN, à Damon.</speaker>
 	<l id='1341'>Vos gens et vos chevaux, tout est prêt pour aller...</l>
 </sp>
 <sp who='GERONTE'><speaker>GÉRONTE.</speaker>
@@ -2804,7 +2816,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Géronte, Orphise, Damon, Léonore, Nérine.</head>
-<sp who='GERONTE'><speaker>GÉRONTE, à Léonore.</speaker>
+<sp stage="toward" who='GERONTE'><speaker>GÉRONTE, à Léonore.</speaker>
 	<l id='1343'>Pourquoi s'abandonner au torrent des scrupules ?</l>
 	<l id='1344'>De trop grands sentiments sont souvent ridicules.</l>
 	<l id='1345'>Si c'était un époux tel qu'eût été Damon,</l>
@@ -2816,31 +2828,31 @@
 	<l id='1351'>Un homme qui n'agit que par ses émissaires,</l>
 	<l id='1352'>Et n'ose se montrer que par ses gens d'affaires ;</l>
 	<l id='1353'>Qui, lorsqu'on le croit mort, revient après douze ans</l>
-	<l id='1354' part='i'>Pour se démarier.</l>
+	<l id='1354' syll="6" part="i">Pour se démarier.</l>
 </sp>
-<sp who='DAMON'><speaker>DAMON, part.</speaker>
-	<l id='1354' part='f'>Quels rapports étonnants !</l>
+<sp stage="aparte" who='DAMON'><speaker>DAMON, part.</speaker>
+	<l id='1354' syll="6" part="f">Quels rapports étonnants !</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
-	<l id='1355' part='i'>Respectez ses malheurs.</l>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
+	<l id='1355' syll="6" part="i">Respectez ses malheurs.</l>
 </sp>
 <sp who='DAMON'><speaker>DAMON.</speaker>
-	<l id='1355' part='f'>Eh ! De grâce, Madame...</l>
+	<l id='1355' syll="6" part="f">Eh ! De grâce, Madame...</l>
 </sp>
 <sp who='GERONTE'><speaker>GÉRONTE.</speaker>
 	<l id='1356'>Voilà pourtant l'époux que ma nièce réclame !</l>
 </sp>
 <sp who='DAMON'><speaker>DAMON.</speaker>
-	<l id='1357' part='i'>Peut on savoir le nom...</l>
+	<l id='1357' syll="6" part="i">Peut on savoir le nom...</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
-	<l id='1357' part='f'>Ne le sachez jamais.</l>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
+	<l id='1357' syll="6" part="f">Ne le sachez jamais.</l>
 </sp>
 <sp who='DAMON'><speaker>DAMON.</speaker>
-	<l id='1358' part='i'>Ne me refusez pas...</l>
+	<l id='1358' syll="6" part="i">Ne me refusez pas...</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
-	<l id='1358' part='f'>J'entrevois vos projets ;</l>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
+	<l id='1358' syll="6" part="f">J'entrevois vos projets ;</l>
 	<l id='1359'>Et le coupable espoir que vous gardez encore.</l>
 	<l id='1360'>Voulez-vous achever de perdre Léonore ?</l>
 	<l id='1361'>Son repos, son honneur devraient bien vous toucher.</l>
@@ -2850,38 +2862,38 @@
 	<l id='1363'>Vous vous nommez Silvie, et non pas Léonore.</l>
 	<l id='1364'>Que n'êtes-vous aussi l'épouse de Sainflore !</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE, à Damon qui se jette à ses genoux.</speaker>
+<sp stage="toward/kneel" who='LÉONORE'><speaker>LÉONORE, à Damon qui se jette à ses genoux.</speaker>
 	<l id='1365'>Ah ! Qui m'a pu trahir !... Téméraire ! Arrêtez.</l>
-	<l id='1366' part='i'>Quelle horreur !... Laissez-moi...</l>
+	<l id='1366' syll="6" part="i">Quelle horreur !... Laissez-moi...</l>
 </sp>
 <sp who='DAMON'><speaker>DAMON.</speaker>
-	<l id='1366' part='f'>Madame, permettez...</l>
+	<l id='1366' syll="6" part="f">Madame, permettez...</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
-	<l id='1367' part='i'>Damon, y songez-vous ?</l>
+	<l id='1367' syll="6" part="i">Damon, y songez-vous ?</l>
 </sp>
-<sp who='NERINE'><speaker>NÉRINE.</speaker>
-	<l id='1367' part='f'>Pour le coup, il s'oublie.</l>
+<sp who='NÉRINE'><speaker>NÉRINE.</speaker>
+	<l id='1367' syll="6" part="f">Pour le coup, il s'oublie.</l>
 </sp>
 <sp who='DAMON'><speaker>DAMON.</speaker>
 	<l id='1368'>Je renais... Ah ! Madame... Ah ! Ma chère Silvie...</l>
-<stage type="[N/A]">Il donne un papier à Géronte. à Léonore. </stage>
+<stage type="give/toward">Il donne un papier à Géronte. à Léonore. </stage>
 	<l id='1369'>Tenez... je suis... voilà votre consentement ;</l>
 	<l id='1370'>Retrouvez un époux dans le plus tendre amant.</l>
 </sp>
 <sp who='GERONTE'><speaker>GÉRONTE.</speaker>
-	<l id='1371' part='i'>Voyons donc.</l>
+	<l id='1371' syll="3" part="i">Voyons donc.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
-	<l id='1371' part='m'>Vous, Sainflore ?</l>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
+	<l id='1371' syll="3" part="m">Vous, Sainflore ?</l>
 </sp>
 <sp who='ORPHISE'><speaker>ORPHISE.</speaker>
-	<l id='1371' part='m'>Ah, grand dieu !</l>
+	<l id='1371' syll="3" part="m">Ah, grand dieu !</l>
 </sp>
 <sp who='GERONTE'><speaker>GÉRONTE.</speaker>
-	<l id='1371' part='f'>C'est lui-même.</l>
+	<l id='1371' syll="3" part="f">C'est lui-même.</l>
 </sp>
-<sp who='LEONORE'><speaker>LÉONORE.</speaker>
+<sp who='LÉONORE'><speaker>LÉONORE.</speaker>
 	<l id='1372'>Ô sort trop fortuné ! C'est mon époux que j'aime.</l>
 </sp>
 <sp who='GERONTE'><speaker>GÉRONTE.</speaker>

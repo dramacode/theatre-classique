@@ -3,13 +3,13 @@
 <teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>LA VENGEANCE, COMÉDIE</title>
+				<title>LE VERRE D'EAU, COMÉDIE</title>
 				<author born='1751' born_location='' death='1815' death_location='' academie=''>PLANCHER de VALCOUR, Philippe</author>		
 			</titleStmt>
 			<publicationStmt>	
 				<p>publié par Paul FIEVRE décembre 2014</p>
-			<idno></idno>
-</publicationStmt>
+				<idno>PLANCHER_VERREDEAU</idno>
+			</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -18,10 +18,6 @@
 				<periode>1781-1790</periode>
 				<taille>(mesure non pertinente)</taille>
 				<permalien></permalien>
-				<sources>
-					<source id="1"><author/><text/></source>
-				</sources>	
-
 			</SourceDesc>
 		</fileDesc>
 </teiHeader>
@@ -69,7 +65,7 @@
 </sp>
 <sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
 <p id="4">
-	<s id="1">Il le faut bien ; le grand art d'une jolie femme est  d'avoir une cour nombreuse, beaucoup de prétendants. </s>
+	<s id="1">Il le faut bien ; le grand art d'une jolie femme est d'avoir une cour nombreuse, beaucoup de prétendants. </s>
 </p>
 </sp>
 <sp who="MARTON"><speaker>MARTON.</speaker>
@@ -255,11 +251,11 @@
 	<s id='3'>D'abord je lui laisserai prendre feu, il en faut pour jouir de son triomphe, mais je saurai l'abaisser sans me compromettre. </s>
 	<s id='4'>S'il vient, reçois-le gracieusement, contribue à le faire espérer, dispose de ma main, fais tout pour qu'il s'enflamme, et je me charge du reste.</s>
 </p>
-<stage type="[N/A]">Elle fort.</stage>
+<stage type="exit">Elle sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCENE II. </head>
-<sp who='MARTON'><speaker>MARTON, seule. </speaker>
+<sp stage="alone" who='MARTON'><speaker>MARTON, seule. </speaker>
 <p id="38">
 	<s id="1">Quel singulier caractère ! </s>
 	<s id='2'>Il est indéfinissable ! </s>
@@ -516,7 +512,7 @@
 	<s id="1">Oh ! </s>
 	<s id='2'>Que je sais bien cependant : tenez, il faut premièrement d'abord...</s>
 </p>
-<stage type="[N/A]">Il veut l'embrasser.</stage>
+<stage type="kiss">Il veut l'embrasser.</stage>
 </sp>
 <sp who="MARTON"><speaker>MARTON.</speaker>
 <p id="36">
@@ -790,7 +786,7 @@
 <p id="27">
 	<s id="1">En ce cas, Monsieur, comptez sur moi. </s>
 </p>
-<stage type="[N/A]">[À Léveillé.]</stage>
+<stage type="toward">[À Léveillé.]</stage>
 <p id="28">
 	<s id='2'>Toi, attention à mes leçons, sois écolier docile, ou je ne réponds de rien ; je vais rejoindre ma maîtresse, j'entamerai la conversation, je vanterai votre mérite, je tacherai de persuader son esprit, d'intéresser son coeur, ensuite, ma foi, chargez-vous du reste ; car enfin, moi, je ne peux pas tout faire.</s>
 </p>
@@ -850,7 +846,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII. Le Chevalier, La Comtesse.</head>
-<sp who='LA COMTESSE'><speaker>LA COMTESSE, ironiquement. </speaker>
+<sp stage="ironic" who='LA COMTESSE'><speaker>LA COMTESSE, ironiquement. </speaker>
 <p id="1">
 	<s id="1">Hé bien, Monsieur le Chevalier, vous devez être bien fier ! </s>
 	<s id='2'>L'exclusion que je viens de donner à vos rivaux doit vous prouver... </s>
@@ -911,7 +907,7 @@
 	<s id='6'>Cherchez-vous à me réduire au désespoir ?</s>
 </p>
 </sp>
-<sp who='LA COMTESSE'><speaker>LA COMTESSE, chantant. </speaker>
+<sp stage="sing" who='LA COMTESSE'><speaker>LA COMTESSE, chantant. </speaker>
 <p id="11">
 	<s id="1">Quel désespoir d'être sans esprit à votre âge ! </s>
 </p>
@@ -957,7 +953,7 @@
 	<s id='2'>Puis-je espérer de vaincre cette indifférence qui ferait le malheur de ma vie, de l'emporter enfin sur ce préjugé cruel qui vous met en garde contre les hommes, et vous empêche de faire le bonheur de l'amant le plus tendre ? </s>
 	<s id='3'>Achevez, Madame, laissez-vous toucher.</s>
 </p>
-<stage type="[N/A]">Il se jette à ses genoux.</stage>
+<stage type="kneel">Il se jette à ses genoux.</stage>
 <p id='19'>
 	<s id='1'>Partagez mes voeux, mon ivresse.</s>
 </p>
@@ -977,7 +973,7 @@
 <p id='22'>
 	<s id='1'>Calmez-vous, Monsieur, calmez-vous ; vous devenez pressant, vous vous échauffez de plus en plus, ceci deviendrait trop dangereux.</s>
 </p>
-<stage type="[N/A]">Elle sonne.</stage>
+<stage type="ring">Elle sonne.</stage>
 </sp>
 <sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
 <p id="23">
@@ -1005,7 +1001,7 @@
 </p>
 <stage type="exit">Elle sort.</stage>
 </sp>
-<sp who='LE CHEVALIER'><speaker>LE CHEVALIER, avec fureur. </speaker>
+<sp stage="fury" who='LE CHEVALIER'><speaker>LE CHEVALIER, avec fureur. </speaker>
 <p id='3'>
 	<s id='1'>Dieu ! </s>
 	<s id='2'>Quelle ignominie ! </s>
@@ -1030,7 +1026,7 @@
 	<s id='2'>Tiens, i ne me r'garde pas tant seulement ! </s>
 	<s id='3'>Est-ce qu'i n'a pas soif ? </s>
 </p>
-<stage type="[N/A]">Criant à l'oreille du Chevalier.</stage>
+<stage type="shout/toward">Criant à l'oreille du Chevalier.</stage>
 <p id='2'>
 	<s id='1'>Monsieur.</s>
 </p>
@@ -1040,25 +1036,25 @@
 	<s id="1">Veux-tu te retirer, bourreau ?</s>
 </p>
 </sp>
-<sp who='NICAISE'><speaker>NICAISE, reculant, laisse tomber le verre sur l'assiette.</speaker>
+<sp stage="away/throw" who='NICAISE'><speaker>NICAISE, reculant, laisse tomber le verre sur l'assiette.</speaker>
 <p id="4">
 	<s id="1">V'la-t-i pas un beau chef-d'oeuvre que vous avez fait là, en v'la moitié de renversé ; oh ! </s>
 	<s id='2'>J'dis quoique ça, c'est égal, n'y aura rien de perdu.</s>
 </p>
-<stage type="[N/A]">Il remplit le verre.</stage>
+<stage type="drink">Il remplit le verre.</stage>
 </sp>
 <sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
 <p id="5">
 	<s id="1">Je ne reviens point de mon étonnement, de mon indignation ; peut-on pousser plus loin le persiflage !</s>
 </p>
 </sp>
-<sp who='NICAISE'><speaker>NICAISE, à part. </speaker>
+<sp stage="aparte" who='NICAISE'><speaker>NICAISE, à part. </speaker>
 <note type="L">Gaudriole : Propos gai et un peu libre. [L]</note>
 <p id="5">
-	<s id="1">Y n'a pas l'air d'ête ben aise ; il aura p'tête dit queuque gaudriole à not' maitreffe, qui l'y envoie ça pour l'y rincer la bouche... </s>
+	<s id="1">Y n'a pas l'air d'ête ben aise ; il aura p'tête dit queuque gaudriole à not' maitredde, qui l'y envoie ça pour l'y rincer la bouche... </s>
 	<s id='2'>Faut pourtant ben que l'y fasse avaler ça, puisqne not' dame le veut.</s>
 </p>
-<stage type="forte">Haut.</stage>
+<stage type="loud">Haut.</stage>
 <p id='6'>
 	<s id='1'>Monsieur, sauf vot' respect, v'la le verre d'eau qu'attend. </s>
 </p>
@@ -1083,7 +1079,7 @@
 	<s id="1">Pas si bête : faut ben que Monsieur se rafraîchisse.</s>
 </p>
 </sp>
-<sp who='LE CHEVALIER'><speaker>LE CHEVALIER, lui jetant le verre d'eau au nez.</speaker>
+<sp stage="throw" who='LE CHEVALIER'><speaker>LE CHEVALIER, lui jetant le verre d'eau au nez.</speaker>
 <p id='11'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Tu m'impatientes.</s>
@@ -1100,7 +1096,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='10'><head>SCÈNE X. Les Précédents, Marton. </head>
-<sp who='MARTON'><speaker>MARTON, à Nicaise. </speaker>
+<sp stage="toward" who='MARTON'><speaker>MARTON, à Nicaise. </speaker>
 <p id="1">
 	<s id="1">Eh bien, te voila encore toi ? </s>
 	<s id='2'>Est-ce que tu ne devrais pas être dans l'antichambre, demandez-moi à quoi ça s'amuse ? </s>
@@ -1227,11 +1223,11 @@
 	<s id="1">J'en suis sûre ; elle vous distingue : la crainte de vous perdre, un soupçon d'infidélité, une invisibilité momentanée, opérerait ce miracle ; et tenez, je viens de la quitter rêveuse, et j'oserais dire fâchée du tour qu'elle vous a joué.</s>
 </p>
 </sp>
-<sp who='LE CHEVALIER'><speaker>LE CHEVALIER, à part. </speaker>
+<sp stage="aparte" who='LE CHEVALIER'><speaker>LE CHEVALIER, à part. </speaker>
 <p id="16">
 	<s id="1">Dissimulons pour mieux assurer ma vengeance.</s>
 </p>
-<stage type="forte">Haut.</stage>
+<stage type="loud">Haut.</stage>
 <p id='17'>
 	<s id='1'>Si j'en étais certain...</s>
 </p>
@@ -1283,9 +1279,9 @@
 	<s id="1">Pardon, ma reine, j'ai tort, faisons la paix, mais conviens aussi que c'est recevoir un peu bien brusquement son prétendu ; que diable, fais comme ta maîtresse. </s>
 	<s id='2'>À en juger par les apparences, cette beauté si fière s'est enfin humanisée, car la conversation est furieusement longue, si nous profitions de cet instant pour prendre, au moyen d'un petit baiser, un avant-goût du mariage ?... </s>
 </p>
-<stage type="[N/A]">Il veut l'embrasser.</stage>
+<stage type="kiss">Il veut l'embrasser.</stage>
 </sp>
-<sp who='MARTON'><speaker>MARTON, l'arrêtant.</speaker>
+<sp stage="stop" who='MARTON'><speaker>MARTON, l'arrêtant.</speaker>
 <p id="8">
 	<s id="1">Pas de ça, pas de ça, te dis-je, ces avants-goûts là, produisent souvent des dégoûts, je ne m'y fie pas. </s>
 </p>
@@ -1389,7 +1385,7 @@
 	<s id="1">Qu'importe, sommes-nous faites pour ramper sous un sexe orgueilleux et tyrannique, qui ne tombe à nos pieds, que pour s'en relever sûr de sa victoire, et nous faire sentir à chaque instant le joug impérieux ou nous nous sommes soumises. </s>
 	<s id='2'>J'espère que celui-ci n'aura pas lieu de s'applaudir de son triomphe.</s>
 </p>
-<stage type="[N/A]">Le Chevalier sort du cabinet, fait un geste de colère, Marton lui fait signe de reculer.</stage>
+<stage type="entrance/anger/push">Le Chevalier sort du cabinet, fait un geste de colère, Marton lui fait signe de reculer.</stage>
 </sp>
 <sp who="MARTON"><speaker>MARTON.</speaker>
 <p id="6">
@@ -1457,7 +1453,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='14'><head>SCÈNE XIV. Les Mêmes, Le Chavalier.</head>
-<sp who='LE CHEVALIER'><speaker>LE CHEVALIER, sortant avec précipitation du cabinet, et se jetant aux pieds de la Comtesse. </speaker>
+<sp stage="entrance/kneel" who='LE CHEVALIER'><speaker>LE CHEVALIER, sortant avec précipitation du cabinet, et se jetant aux pieds de la Comtesse. </speaker>
 <p id="1">
 	<s id="1">Rassurez-vous, Madame, il ne sera jamais qu'à vos pieds ; séchez ces larmes précieuses que je me reprocherais toujours d'avoir fait couler, et que je voudrais recueillir au passage. </s>
 </p>
@@ -1474,7 +1470,7 @@
 	<s id='2'>Pardonnez-moi d'avoir osé chercher à pénétrer vos sentiments, j'ai lu dans votre coeur, et s'il n'est pas encore touché de ma tendresse, c'est que l'instant heureux, cet instant fixé par l'amour, n'est pas encore arrivé ; permettez-moi d'espérer, ne m'accablez point de votre colère, je n'y survivrais pas. </s>
 </p>
 </sp>
-<sp who='LA COMTESSE'><speaker>LA COMTESSE, émue. </speaker>
+<sp stage="embarrassed" who='LA COMTESSE'><speaker>LA COMTESSE, émue.</speaker>
 <p id="4">
 	<s id="1">Mais relevez-vous donc, Chevalier. </s>
 </p>
@@ -1492,7 +1488,7 @@
 	<s id="1">J'avoue, Chevalier, que votre amour me touche, mais relevez-vous de grâce, je ne puis vous souffrir ainsi à mes genoux.</s>
 </p>
 </sp>
-<sp who='LE CHEVALIER'><speaker>LE CHEVALIER, se relevant. </speaker>
+<sp stage="stand" who='LE CHEVALIER'><speaker>LE CHEVALIER, se relevant. </speaker>
 <p id="7">
 	<s id="1">J'obéis ; mais si l'amour le plus tendre, le plus pur le plus délicat, peut obtenir des droits à votre tendresse... </s>
 </p>
@@ -1526,12 +1522,12 @@
 	<s id='7'>Dépend-il de moi, d'arracher le trait que vos yeux ont fixé dans mon coeur, et qui n'en sortira qu'avec ma vie ? </s>
 </p>
 </sp>
-<sp who='LA COMTESSE'><speaker>LA COMTESSE, très émue. </speaker>
+<sp stage="touched" who='LA COMTESSE'><speaker>LA COMTESSE, très émue. </speaker>
 <p id='12'>
 	<s id='1'>Marton... je crois... qu'il me persuade... </s>
 </p>
 </sp>
-<sp who='MARTON'><speaker>MARTON, bas à la Comtesse. </speaker>
+<sp stage="low/toward" who='MARTON'><speaker>MARTON, bas à la Comtesse. </speaker>
 <p id='13'>
 	<s id='1'>Vraiment, le fripon plaide très-bien sa cause.</s>
 </p>
@@ -1551,7 +1547,7 @@
 	<s id="1">Je l'avoue à ma honte, vous me persuadez, Chevalier, mais je ne suis point encore convaincue ; il faut de la persévérance ; cette épreuve peut-être coûte à mon coeur, jouissez de votre triomphe ; mais je l'exige cette épreuve, et je ne me déterminerai... </s>
 </p>
 </sp>
-<sp who='LE CHEVALIER'><speaker>LE CHEVALIER, avec transport. </speaker>
+<sp stage="enthousiasm" who='LE CHEVALIER'><speaker>LE CHEVALIER, avec transport. </speaker>
 <p id="17">
 	<s id="1">Je puis espérer d'être aimé, je suis trop heureux ! </s>
 	<s id='2'>C'est aux Rois d'envier mon bonheur. </s>
@@ -1562,22 +1558,22 @@
 	<s id='7'>Oui, vous serez ma souveraine, et le moindre de vos regards...</s>
 </p> 
 </sp>
-<sp who='LA COMTESSE'><speaker>LA COMTESSE, dans la plus grande émotion. </speaker>
+<sp stage="touched" who='LA COMTESSE'><speaker>LA COMTESSE, dans la plus grande émotion. </speaker>
 <p id="18">
 	<s id="1">C'en est fait, Chevalier, je n'y résiste plus... </s>
 	<s id='2'>Ce dernier trait... en vous donnant toute mon estime... me répond de votre sincérité ; et... je vous accorde ma main.</s>
 </p>
 </sp>
-<sp who='MARTON'><speaker>MARTON, à part. </speaker>
+<sp stage="aparte" who='MARTON'><speaker>MARTON, à part.</speaker>
 <p id='19'>
 	<s id='1'>Bon, nous voici au dénouement. </s>
 </p>
 </sp>
-<sp who='LE CHEVALIER'><speaker>LE CHEVALIER, à part. </speaker>
+<sp stage="aparte" who='LE CHEVALIER'><speaker>LE CHEVALIER, à part.</speaker>
 <p id='20'>
 	<s id='1'>Pas encore... </s>
 </p>
-<stage type="forte">Haut.</stage>
+<stage type="loud">Haut.</stage>
 <p id='21'>
 	<s id='1'>Je doute si je veille, et mon coeur transporté... </s>
 	<s id='2'>Mais, Madame, ne me trompez-vous pas ? </s>
@@ -1591,19 +1587,19 @@
 	<s id="1">Non, Chevalier, ma main est à vous ; je suis d'autant plus sincère en cet instant, que je sens, à ce que j'éprouve, combien mon procédé était déchirant pour vous. </s>
 </p>
 </sp>
-<sp who='LE CHEVALIER'><speaker>LE CHEVALIER, à part. </speaker>
+<sp stage="aparte" who='LE CHEVALIER'><speaker>LE CHEVALIER, à part. </speaker>
 <p id='23'>
 	<s id='1'>Oh ! </s>
 	<s id='2'>Vous le sentirez encore plus vivement !</s>
 </p>
-<stage type="forte">Haut.</stage>
+<stage type="loud">Haut.</stage>
 <p id='24'>
 	<s id='1'>Mais que j'en suis bien r2compensé dans cet heureux instant ! </s>
 	<s id='2'>Avec quelle volupté je jouis de cet aveu flatteur ! </s>
 	<s id='3'>Répétez-le moi mille dois ce mot charmant : je vous aime.</s>
 </p>
 </sp>
-<sp who='LA COMTESSE'><speaker>LA COMTESSE, soupirant. </speaker>
+<sp stage="sigh" who='LA COMTESSE'><speaker>LA COMTESSE, soupirant. </speaker>
 <p id='25'>
 	<s id='1'>Oui, Chevalier, je vous aime... je vous aime.</s>
 </p>
@@ -1618,21 +1614,21 @@
 <p id="27">
 	<s id="1">Oui, Chevalier, je ne me conçois pas moi-même ; avec ma façon de penser sur tous les hommes, j'aurais dû ne pas vous croire aussi légèrement, mais vous êtes un enchanteur, et vos discours ont fait... malgré moi... passer dans mon âme, tout le feu dont vous êtes pénétré.</s>
 </p>
-<stage type="[N/A]">La Comtesse tombe dans un fauteuil.</stage>
+<stage type="sit">La Comtesse tombe dans un fauteuil.</stage>
 </sp>
-<sp who='LE CHEVALIER'><speaker>LE CHEVALIER, à part. </speaker>
+<sp stage="aparte" who='LE CHEVALIER'><speaker>LE CHEVALIER, à part. </speaker>
 <p id='28'>
 	<s id='1'>Ah nous y voilà.</s>
 </p>
-<stage type="forte">Haut.</stage>
+<stage type="loud">Haut.</stage>
 <p id='29'>
 	<s id='1'>Calmez-vous, Madame, ceci deviendrait trop violent, mais vous connaissez le remède.</s>
 </p>
-<stage type="[N/A]">Il sonne.</stage>
+<stage type="ring">Il sonne.</stage>
 <p id=''>
 	<s id=''>Qu'on donne à Madame un verre d'eau.</s>
 </p>
-<stage type="exit">Il sort en riant aux éclats, chantant, Quel désespoir.</stage>
+<stage type="exit/laugh/sing">Il sort en riant aux éclats, chantant, Quel désespoir.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='13'><head>SCÈNE XV. La Comtesse, Marton, Nicaise.</head>
@@ -1658,7 +1654,7 @@
 	<s id='4'>Sera-ce toi ? </s>
 </p>
 </sp>
-<sp who='MARTON'><speaker>MARTON, à part. </speaker>
+<sp stage="aparte" who='MARTON'><speaker>MARTON, à part.</speaker>
 <p id="2">
 	<s id="1">Je ne reviens point de ma surprise ! </s>
 	<s id='2'>Je ne m'attendais pas à ce raffinement de vengeance. </s>

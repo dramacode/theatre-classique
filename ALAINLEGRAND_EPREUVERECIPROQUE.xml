@@ -5,12 +5,11 @@
 			<titleStmt>
 				<title>L'ÉPREUVE RÉCIPROQUE, COMÉDIE</title>
 				<author born='1680' born_location='Paris' death='1720' death_location='Paris' academie=''>ALAIN, Robert</author>
-				<date>1732</date>
 			</titleStmt>
 			<publicationStmt>	
 				<p>publié par Paul FIEVRE juillet 2012</p>
-			<idno></idno>
-</publicationStmt>
+				<idno>ALAINLEGRAND_EPREUVERECIPROQUE</idno>
+			</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -19,9 +18,6 @@
 				<periode>1711-1720</periode>
 				<taille>(mesure non pertinente)</taille>
 				<permalien>http://gallica.bnf.fr/ark:/12148/bpt6k5455677h</permalien>
-				<sources>
-					<source id='1'><author></author><text></text></source>
-				</sources>	
 			</SourceDesc>
 		</fileDesc>
 </teiHeader>
@@ -62,7 +58,7 @@
 			<castItem><role id="LISETTE" sex="1" type="H" statut='intrigante' age='A' stat_amour='néant'>LISETTE</role>, intrigante.</castItem>
 			<castItem><role id="CRIQUET" sex="1" type="H" statut='page' age='A' stat_amour='néant'>CRIQUET</role>.</castItem>
 		</castList>
-<set location='Paris' country='France' periode='XVIIIème' link=''>La scène est à Paris, dans la maison de madame de Falignac.</set>
+<set location='Paris' country='France' periode='XVIIIème' link=''>La scène est à Paris, dans la maison de Madame de Falignac.</set>
 <note>La Critique donne Legrand comme auteur principal de cette pièce.</note>
 </front>
 <body>
@@ -285,7 +281,7 @@
 	<s id='1'>Comment ?</s>
 </p>
 </sp>
-<sp who='FRONTIN'><speaker>FRONTIN, se donnant de l'argent à lui-même.</speaker>
+<sp stage="give" who='FRONTIN'><speaker>FRONTIN, se donnant de l'argent à lui-même.</speaker>
 <p id='39'>
 	<s id='1'>Tenez, monsieur Frontin, voilà ce que je vous donne... </s>
 	<s id='2'>Ah ! </s>
@@ -343,7 +339,7 @@
 	<s id='1'>Ma foi, je l'aurais pris pour un honnête homme.</s>
 </p>
 </sp>
-<sp who='FRONTIN'><speaker>FRONTIN, montrant sa bourse.</speaker>
+<sp stage="show" who='FRONTIN'><speaker>FRONTIN, montrant sa bourse.</speaker>
 <p id='7'>
 	<s id='1'>Ne le suis-je pas ? </s>
 	<s id='2'>Vous voyez, monsieur, que les connaisseuses s'y trompent. </s>
@@ -372,7 +368,7 @@
 <p id='11'>
 	<s id='1'>Elle est alliée, dit-on, à tout ce qu'il y a de plus illustre à la cour ; et pour juger de sa beauté, il ne faut que voir son portrait.</s>
 </p>
-<stage type="[N/A]">Il lui montre un portrait.</stage>
+<stage type="action/show">Il lui montre un portrait.</stage>
 </sp>
 <sp who='MADAME-DE-FALIGNAC'><speaker>MADAME DE FALIGNAC.</speaker>
 <p id='12'>
@@ -419,7 +415,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. </head>
-<sp who='MADAME-DE-FALIGNAC'><speaker>MADAME DE FALIGNAC, seule.</speaker>
+<sp stage="alone" who='MADAME-DE-FALIGNAC'><speaker>MADAME DE FALIGNAC, seule.</speaker>
 <p id='1'>
 	<s id='1'>Je crains que notre ami Valère ne se repente de sa curiosité. </s>
 	<s id='2'>Philaminte est une étourdie qui pourrait... </s>
@@ -428,7 +424,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Philaminte, Madame de Falignac.</head>
-<sp who='PHILAMINTE'><speaker>PHILAMINTE, éclatant de rire.</speaker>
+<sp stage="laugh" who='PHILAMINTE'><speaker>PHILAMINTE, éclatant de rire.</speaker>
 <p id='1'>
 	<s id='1'>Ma chère Madame de Falignac, vous me voyez dans une joie, dans un excès de joie, qui ne se peut concevoir!</s>
 </p>
@@ -455,7 +451,7 @@
 <p id='5'>
 	<s id='1'>J'ai toujours bien jugé que son ambition le ferait donner dans le panneau. </s>
 	<s id='2'>Comme je n'ai rien de caché pour vous, je vous avouerai que depuis quelques jours je lui ai fait écrire sous le nom d'une comtesse supposée. </s>
-	<s id='3'>Le trailre y a fait réponse. </s>
+	<s id='3'>Le traître y a fait réponse. </s>
 	<s id='4'>Ah ! </s>
 	<s id='5'>ah ! </s>
 	<s id='6'>ah !</s>
@@ -509,7 +505,7 @@
 	<s id='2'>Je ne connais point de meilleure femme que vous.</s>
 </p>
 </sp>
-<sp who='MADAME-DE-FALIGNAC'><speaker>MADAME DE FALIGNAC, à part.</speaker>
+<sp stage="aparte" who='MADAME-DE-FALIGNAC'><speaker>MADAME DE FALIGNAC, à part.</speaker>
 <p id='14'>
 	<s id='1'>Ne disons rien, cette épreuve réciproque nous va donner la comédie en notre petit particulier.</s>
 </p>
@@ -560,7 +556,7 @@
 	<s id='1'>Je m'en suis informée. </s>
 	<s id='2'>On dit que ce n'est pas un homme fort bien fait, mais une agrafe de ce prix...</s>
 </p>
-<stage type="[N/A]">Lui faisant voir l'agrafe.</stage>
+<stage type="action/show">Lui faisant voir l'agrafe.</stage>
 <p id='24'>
 	<s id='1'>M'a d'abord pré venue en sa faveur. </s>
 	<s id='2'>Il m'a vue plusieurs fois, à ce que marque son billet ; il est charmé de moi, toute sa caisse est à mon service. </s>
@@ -769,11 +765,11 @@
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII.</head>
-<sp who='LISETTE'><speaker>LISETTE, seule.</speaker>
+<sp stage="alone" who='LISETTE'><speaker>LISETTE, seule.</speaker>
 <p id='1'>
 	<s id='1'>Que je suis sotte de ne pas profiter de mes charmes ! </s>
 	<s id='2'>Madame de Falignac n'était pas plus que moi quand elle a fait sa fortune ; mais Valère n'est pas ce qu'il me faut. </s>
-	<s id='3'>Philaminte, pour se venger, lui découvrira tôt ou tard qui je  suis. </s>
+	<s id='3'>Philaminte, pour se venger, lui découvrira tôt ou tard qui je suis. </s>
 	<s id='4'>Tournons nos vues de quelqu'autre côté, il se pourra trouver ici quelque dupe qui nous conviendra mieux... </s>
 	<s id='5'>Voici Valère, jouons toujours notre scène avec lui.</s>
 </p>
@@ -911,14 +907,14 @@
 <p id='4'>
 	<s id='1'>Pour achever de nous donner la comédie, amenons ici Valère ; il faut qu'il soit aussi payé de sa curiosité.</s>
 </p>
-<stage type="forte">Haut.</stage>
+<stage type="loud">Haut.</stage>
 <p id='5'>
 	<s id='1'>Je vous laisse.</s>
 </p>
 </sp>
 </div2>
 <div2 type="scene" n='11'><head>SCÈNE XI. Frontin, Philaminte.</head>
-<sp who='FRONTIN'><speaker>FRONTIN, en financier, entre d'un air brusque, contrefaisant Monsieur Patin, son ancien maître.</speaker>
+<sp stage="dress/serious" who='FRONTIN'><speaker>FRONTIN, en financier, entre d'un air brusque, contrefaisant Monsieur Patin, son ancien maître.</speaker>
 <p id='1'>
 	<s id='1'>Me voilà, madame : il y a une heure que je serais ici, sans des importuns, des canailles qui sont venus en foule m'apporter de l'argent ; j'ai cru que cela ne finirait d'aujourd'hui.</s>
 </p>
@@ -956,7 +952,7 @@
 	<s id='1'>Il y a morbleu plus d'éloquence dans cette agrafe-là que dans toutes les épîtres de Cicéron.</s>
 </p>
 </sp>
-<sp who='MADAME-DE-FALIGNAC'><speaker>MADAME DE FALIGNAC, bas, à Valère, l'attirant dans le fond du théâtre.</speaker>
+<sp stage="low/toward/pull/location" who='MADAME-DE-FALIGNAC'><speaker>MADAME DE FALIGNAC, bas, à Valère, l'attirant dans le fond du théâtre.</speaker>
 <p id='8'>
 	<s id='1'>Passons dans cet endroit, nous entendrons toute la conversation.</s>
 </p>
@@ -1088,7 +1084,7 @@
 	<s id='1'>Je le veux ; allons de ce pas chez le notaire faire dresser les articles.</s>
 </p>
 </sp>
-<sp who='FRONTIN'><speaker>FRONTIN, l'arrêtant.</speaker>
+<sp stage="stop" who='FRONTIN'><speaker>FRONTIN, l'arrêtant.</speaker>
 <p id='32'>
 	<s id='1'>Est-ce que vous voulez que ce soit par-devant notaire ?</s>
 </p>
@@ -1120,7 +1116,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='12'><head>SCÈNE XII.</head>
-<sp who='FRONTIN'><speaker>FRONTIN, seul.</speaker>
+<sp stage="alone" who='FRONTIN'><speaker>FRONTIN, seul.</speaker>
 <p id='1'>
 	<s id='1'>Ma foi, cela ne va pas mal, et si je ne craignais les suites... </s>
 	<s id='2'>Mais il ne faut pas jouer ce tour à mon maître. </s>
@@ -1129,7 +1125,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='13'><head>SCÈNE XIII. Valère, Madame de Falignac, sortant de l'endroit où ils étaient cachés ; Frontin.</head>
-<sp who='FRONTIN'><speaker>FRONTIN, seul.</speaker>
+<sp stage="alone" who='FRONTIN'><speaker>FRONTIN, seul.</speaker>
 <p id='1'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Ah ! </s>
@@ -1162,7 +1158,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='14'><head>SCÈNE XIV.</head>
-<sp who='FRONTIN'><speaker>FRONTIN, seul.</speaker>
+<sp stage="alone" who='FRONTIN'><speaker>FRONTIN, seul.</speaker>
 <p id='1'>
 	<s id='1'>Je suis ravi qu'on me laisse seul. </s>
 	<s id='2'>Je vais voir là-dedans si quelque dupe ne donnera pas dans mon bon air... </s>
@@ -1173,16 +1169,16 @@
 </sp>
 </div2>
 <div2 type="scene" n='15'><head>SCÈNE XV. Lisette, en comtesse ; Frontin, en financier.</head>
-<sp who='LISETTE'><speaker>LISETTE, à part.</speaker>
+<sp stage="aparte" who='LISETTE'><speaker>LISETTE, à part.</speaker>
 <p id='1'>
 	<s id='1'>Bon, voilà ce que je cherche, le financier de Philaminte : il m'a tantôt regardée d'un oeil qui n'était pas indifférent ; poussons quelques soupirs pour l'amorcer.</s>
 </p>
-<stage type="forte">Haut.</stage>
+<stage type="loud">Haut.</stage>
 <p id='2'>
 	<s id='1'>Ah !</s>
 </p>
 </sp>
-<sp who='FRONTIN'><speaker>FRONTIN, après l'avoir regardée avec sa lorgnette.</speaker>
+<sp stage="watch" who='FRONTIN'><speaker>FRONTIN, après l'avoir regardée avec sa lorgnette.</speaker>
 <p id='3'>
 	<s id='1'>Vous soupirez, charmante veuve ? </s>
 	<s id='2'>Est-ce pour le défunt, ou après un futur ?</s>
@@ -1382,7 +1378,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='16'><head>SCÈNE XVI. Philaminte, Lisette, en comtesse, Frontin, en financier.</head>
-<sp who='PHILAMINTE'><speaker>PHILAMINTE, le surprenant.</speaker>
+<sp stage="surprise" who='PHILAMINTE'><speaker>PHILAMINTE, le surprenant.</speaker>
 <p id='1'>
 	<s id='1'>Oui, monsieur Patin ?</s>
 </p>
@@ -1417,7 +1413,7 @@
 	<s id='1'>Paix, Lisette ; vous méritez que je vous fasse cet affront pour avoir voulu me trahir.</s>
 </p>
 </sp>
-<sp who='FRONTIN'><speaker>FRONTIN, à part.</speaker>
+<sp stage="aparte" who='FRONTIN'><speaker>FRONTIN, à part.</speaker>
 <p id='7'>
 	<s id='1'>Mon maître en tient, ne nous déconcertons pas. </s>
 	<s id='2'>Comment donc, madame la soubrette, vous osez vous adresser à un homme de ma condition ? </s>
@@ -1451,7 +1447,7 @@
 	<s id='2'>Doucement, monsieur le financier ; n'étendez point jusque-là vos libéralités.</s>
 </p>
 </sp>
-<sp who='FRONTIN'><speaker>FRONTIN, à Lisette.</speaker>
+<sp stage="toward" who='FRONTIN'><speaker>FRONTIN, à Lisette.</speaker>
 <p id='13'>
 	<s id='1'>Vraiment, il vous en faut, ma mie, des seigneurs faits au tour : ôtez-vous de devant mes yeux, impertinente, et allez dans un coin de cette salle rougir de votre effronterie. </s>
 	<s id='2'>Madame, souffrez que je me jette à vos genoux.</s>
@@ -1462,7 +1458,7 @@
 	<s id='1'>Levez-vous ; on vous pardonne.</s>
 </p>
 </sp>
-<sp who='FRONTIN'><speaker>FRONTIN, restant à ses genoux et baisant sa main.</speaker>
+<sp stage="kneel/kiss" who='FRONTIN'><speaker>FRONTIN, restant à ses genoux et baisant sa main.</speaker>
 <p id='15'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Madame, quelles grâces n'ai-je point à rendre...</s>
@@ -1481,7 +1477,7 @@
 	<s id='1'>Le plaisir que j'en ai passe mon espérance, puisque vous en êtes témoin aussi bien que votre belle, votre charmante, votre illustre comtesse.</s>
 </p>	
 </sp>
-<sp who='VALÈRE'><speaker>VALÈRE, montrant Lisette.</speaker>
+<sp stage="show" who='VALÈRE'><speaker>VALÈRE, montrant Lisette.</speaker>
 <p id='3'>
 	<s id='1'>Oui, j'aime, j'adore cette aimable personne, aussi digne d'un coeur comme le mien, que votre procédé vous en a su rendre indigne.</s>
 </p>
@@ -1556,7 +1552,7 @@
 	<s id='2'>Oui, oui ; compte, compte.</s>
 </p>
 </sp>
-<sp who='VALÈRE'><speaker>VALÈRE, à Lisette.</speaker>
+<sp stage="toward" who='VALÈRE'><speaker>VALÈRE, à Lisette.</speaker>
 <p id='16'>
 	<s id='1'>Je n'aimerai jamais que vous. </s>
 	<s id='2'>Je triomphe en ce moment.</s>
@@ -1589,7 +1585,7 @@
 </sp>
 <sp who='FRONTIN'><speaker>FRONTIN.</speaker>
 <p id='21'>
-	<s id='1'>Oui, monsieur, c'est une Lisette. </s>
+	<s id='1'>Oui, Monsieur, c'est une Lisette. </s>
 	<s id='2'>À bon chat, bon rat : on vous jouait le même tour que vous prétendiez jouer.</s>
 </p>
 </sp>

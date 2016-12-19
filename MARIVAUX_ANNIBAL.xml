@@ -7,9 +7,9 @@
 			<author born='1688' born_location='Auvergne' death='1763' death_location='Paris' academie='1743'>MARIVAUX</author>
 		</titleStmt>
 		<publicationStmt>	
-			<p>publié par Paul FIEVRE</p><p>Mai 2002</p>
-		<idno></idno>
-</publicationStmt>
+			<publisher>publié par Paul FIEVRE, mai 2002, revu juillet 2016</publisher>
+			<idno>MARIVAUX_ANNIBAL</idno>
+		</publicationStmt>
 		<SourceDesc>
 			<genre>Tragédie</genre>
 			<inspiration>histoire romaine</inspiration>
@@ -39,14 +39,14 @@
 		</performance>
 
 		<castList><head>ACTEURS.</head>
-			<castItem><role id="ANNIBAL" sex="1">ANNIBAL</role>.</castItem>
-			<castItem><role id="PRUSIAS" sex="1">PRUSIAS</role>.</castItem>
-			<castItem><role id="LAODICE" sex="2">LAODICE</role>, fille de Prusias.</castItem>
-			<castItem><role id="FLAMINIUS" sex="1">FLAMINIUS</role>, ambassadeur romain.</castItem>
-			<castItem><role id="HIERON" sex="1">HIÉRON</role>, confident de Prusias.</castItem>
-			<castItem><role id="AMILCAR" sex="1">AMILCAR</role>, confident d'Annibal.</castItem>
-			<castItem><role id="FLAVIUS" sex="1">FLAVIUS</role>, confident de Flaminius.</castItem>
-			<castItem><role id="EGINE" sex="2">EGINE</role>, confidente de Laodice.</castItem>
+			<castItem><role id="ANNIBAL" sex="1" type="H" statut='général' age='A' stat_amour='néant'>ANNIBAL</role>.</castItem>
+			<castItem><role id="LAODICE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>LAODICE</role>, fille de Prusias.</castItem>
+			<castItem><role id="PRUSIAS" sex="1" type="H" statut='général' age='A' stat_amour='néant'>PRUSIAS</role>.</castItem>
+			<castItem><role id="FLAMINIUS" sex="1" type="H" statut='ambassadeur' age='A' stat_amour='néant'>FLAMINIUS</role>, ambassadeur romain.</castItem>
+			<castItem><role id="HIÉRON" sex="1" type="H" statut='confident' age='A' stat_amour='néant'>HIÉRON</role>, confident de Prusias.</castItem>
+			<castItem><role id="AMILCAR" sex="1" type="H" statut='confident' age='A' stat_amour='néant'>AMILCAR</role>, confident d'Annibal.</castItem>
+			<castItem><role id="FLAVIUS" sex="1" type="H" statut='confident' age='A' stat_amour='néant'>FLAVIUS</role>, confident de Flaminius.</castItem>
+			<castItem><role id="EGINE" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>EGINE</role>, confidente de Laodice.</castItem>
 		</castList>
 		<set location='Carthagène' country='Algérie' periode='IIème avant JC' link=''>La scène est dans le palais de Prusias.</set>
 	</front>
@@ -63,15 +63,15 @@
 	<l id="5">Sais-tu quel est celui que Rome nous envoie !</l>
 </sp>
 <sp who="EGINE"><speaker>EGINE.</speaker>
-	<l id="6" part="i">Flaminius.</l>
+	<l id="6" syll="4" part="i">Flaminius.</l>
 </sp>
 <sp who="LAODICE"><speaker>LAODICE.</speaker>
-	<l id="6" part="f">Pourquoi faut-il que je le voie !</l>
+	<l id="6" syll="8" part="f">Pourquoi faut-il que je le voie !</l>
 	<l id="7">Sans lui j'allais, sans trouble, épouser Annibal.</l>
 	<l id="8">Ô Rome ! Que ton choix à mon coeur est fatal !</l>
-	<l id="9">Ecoute, je veux bien t'apprendre, chère Egine,</l>
+	<l id="9">Écoute, je veux bien t'apprendre, chère Egine,</l>
 	<l id="10">Des pleurs que je versais la secrète origine :</l>
-	<l id="11">Trois ans se sont passés, depuis qu'en ces Etats</l>
+	<l id="11">Trois ans se sont passés, depuis qu'en ces États</l>
 	<l id="12">Le même ambassadeur vint trouver Prusias.</l>
 	<l id="13">Je n'avais jamais vu de Romain chez mon père ;</l>
 	<l id="14">Je pensais que d'un roi l'auguste caractère</l>
@@ -153,12 +153,12 @@
 	<l id="86">Egine, il a ma foi ; je lui serai fidèle.</l>
 </sp>
 <sp who="EGINE"><speaker>EGINE.</speaker>
-	<l id="87" part="i">Madame, le voici.</l>
+	<l id="87" syll="6" part="i">Madame, le voici.</l>
 </sp>
 </div2>
 <div2 type="scene" n="2"><head>SCÈNE II. Laodice, Annibal, Egine, Amilcar.</head>
 <sp who="ANNIBAL"><speaker>ANNIBAL.</speaker>
-	<l id="87" part="f">Puis-je, sans me flatter,</l>
+	<l id="87" syll="6" part="f">Puis-je, sans me flatter,</l>
 	<l id="88">Espérer qu'un moment vous voudrez m'écouter !</l>
 	<l id="89">Je ne viens point, trop fier de l'espoir qui m'engage,</l>
 	<l id="90">De mes tristes soupirs vous présenter l'hommage :</l>
@@ -268,15 +268,15 @@
 	<l id="184">Et déjà je m'apprête à l'aller recevoir.</l>
 </sp>
 <sp who="ANNIBAL"><speaker>ANNIBAL.</speaker>
-	<l id="185" part="i">Qu'entends-je ! Vous, Seigneur !</l>
+	<l id="185" syll="6" part="i">Qu'entends-je ! Vous, Seigneur !</l>
 </sp>
 <sp who="PRUSIAS"><speaker>PRUSIAS.</speaker>
-	<l id="185" part="f">D'où vient cette surprise !</l>
+	<l id="185" syll="6" part="f">D'où vient cette surprise !</l>
 	<l id="186">Je lui fais un honneur que l'usage autorise :</l>
-	<l id="187" part="i">J'imite mes pareils.</l>
+	<l id="187" syll="6" part="i">J'imite mes pareils.</l>
 </sp>
 <sp who="ANNIBAL"><speaker>ANNIBAL.</speaker>
-	<l id="187" part="f">Et n'êtes-vous pas roi !</l>
+	<l id="187" syll="6" part="f">Et n'êtes-vous pas roi !</l>
 </sp>
 <sp who="PRUSIAS"><speaker>PRUSIAS.</speaker>
 	<l id="188">Seigneur, ceux dont je parle ont même rang que moi.</l>
@@ -345,10 +345,10 @@
 	<l id="245">Et vous apercevant dans une foule obscure,</l>
 	<l id="246">Vous ferait un accueil plus choquant qu'une injure.</l>
 	<l id="247">De combien cependant êtes-vous au-dessus</l>
-	<l id="248" part="i">De chaque sénateur !...</l>
+	<l id="248" syll="6" part="i">De chaque Sénateur !...</l>
 </sp>
 <sp who="PRUSIAS"><speaker>PRUSIAS.</speaker>
-	<l id="248" part="f">Seigneur, n'en parlons plus.</l>
+	<l id="248" syll="6" part="f">Seigneur, n'en parlons plus.</l>
 	<l id="249">J'avais cru faire un pas d'une moindre importance :</l>
 	<l id="250">Mais pendant qu'en ces lieux l'ambassadeur s'avance,</l>
 	<l id="251">Souffrez que je vous quitte, et qu'au moins aujourd'hui</l>
@@ -371,10 +371,10 @@
 	<l id="264">Ne vient pas, de sa part, vous demander à lui !</l>
 	<l id="265">Pendant que de ces lieux la retraite est facile,</l>
 	<l id="266">M'en croirez-vous ! Fuyez un dangereux asile ;</l>
-	<l id="267" part="i">Et sans attendre ici...</l>
+	<l id="267" syll="6" part="i">Et sans attendre ici...</l>
 </sp>
 <sp who="ANNIBAL"><speaker>ANNIBAL.</speaker>
-	<l id="267" part="f">Nomme-moi des Etats</l>
+	<l id="267" syll="6" part="f">Nomme-moi des États</l>
 	<l id="268">Plus sûrs pour Annibal que ceux de Prusias.</l>
 	<l id="269">Enseigne-moi des rois qui ne soient point timides ;</l>
 	<l id="270">Je les ai trouvés tous ou lâches ou perfides.</l>
@@ -470,10 +470,10 @@
 	<l id="344">Sans d'autres intérêts qui ne touchent que moi.</l>
 </sp>
 <sp who="FLAVIUS"><speaker>FLAVIUS.</speaker>
-	<l id="345" part="i">Quoi ! Vous !</l>
+	<l id="345" syll="2" part="i">Quoi ! Vous !</l>
 </sp>
 <sp who="FLAMINIUS"><speaker>FLAMINIUS.</speaker>
-	<l id="345" part="f">Nous sommes seuls, nous pouvons ne rien feindre.</l>
+	<l id="345" syll="10" part="f">Nous sommes seuls, nous pouvons ne rien feindre.</l>
 	<l id="346">Annibal n'a que trop montré qu'il est à craindre.</l>
 	<l id="347">Il fuit, il est vaincu, mais vaincu par des coups</l>
 	<l id="348">Que nous devons encor plus au hasard qu'à nous.</l>
@@ -511,16 +511,16 @@
 	<l id="380">Qu'en faveur de mes feux j'épargne Prusias.</l>
 	<l id="381">Rome emprunte ma voix, et m'ordonne elle-même</l>
 	<l id="382">D'user ici pour lui d'une rigueur extrême.</l>
-	<l id="383" part="i">Il le faut en effet.</l>
+	<l id="383" syll="6" part="i">Il le faut en effet.</l>
 </sp>
 <sp who="FLAVIUS"><speaker>FLAVIUS.</speaker>
-	<l id="383" part="f">Mais depuis quand, Seigneur,</l>
+	<l id="383" syll="6" part="f">Mais depuis quand, Seigneur,</l>
 	<l id="384">Brûlez-vous en secret d'une si tendre ardeur !</l>
 	<l id="385">L'aimable Laodice a-t-elle fait connaître</l>
-	<l id="386" part="i">Qu'elle-même à son tour...</l>
+	<l id="386" syll="6" part="i">Qu'elle-même à son tour...</l>
 </sp>
 <sp who="FLAMINIUS"><speaker>FLAMINIUS.</speaker>
-	<l id="386" part="f">Prusias va paraître ;</l>
+	<l id="386" syll="6" part="f">Prusias va paraître ;</l>
 	<l id="387">Cessons ; mais souviens-toi que l'on doit ignorer</l>
 	<l id="388">Ce que ma confiance ose te déclarer.</l>
 </sp>
@@ -795,10 +795,10 @@
 	<l id="624">Je demande Annibal, et le Sénat l'attend.</l>
 </sp>
 <sp who="PRUSIAS"><speaker>PRUSIAS.</speaker>
-	<l id="625" part="i">Annibal !</l>
+	<l id="625" syll="3" part="i">Annibal !</l>
 </sp>
 <sp who="FLAMINIUS"><speaker>FLAMINIUS.</speaker>
-	<l id="625" part="f">Oui, ma charge est de vous en instruire ;</l>
+	<l id="625" syll="9" part="f">Oui, ma charge est de vous en instruire ;</l>
 	<l id="626">Mais, Seigneur, écoutez ce qui me reste à dire.</l>
 	<l id="627">Rome pour Laodice a fait choix d'un époux,</l>
 	<l id="628">Et c'est un choix, Seigneur, avantageux pour vous.</l>
@@ -813,10 +813,10 @@
 	<l id="633">Mais agréez, Seigneur, que l'aimable princesse</l>
 	<l id="634">Sache par moi que Rome à son sort s'intéresse,</l>
 	<l id="635">Que sur ce même choix interrogeant son coeur,</l>
-	<l id="636" part="i">Moi-même...</l>
+	<l id="636" syll="3" part="i">Moi-même...</l>
 </sp>
 <sp who="PRUSIAS"><speaker>PRUSIAS.</speaker>
-	<l id="636" part="f">Vous pouvez l'en avertir, Seigneur,</l>
+	<l id="636" syll="9" part="f">Vous pouvez l'en avertir, Seigneur,</l>
 	<l id="637">J'admire ici les soins que Rome prend pour elle,</l>
 	<l id="638">Et de son amitié l'entreprise est nouvelle ;</l>
 	<l id="639">Ma fille en peut résoudre, et je vais consulter</l>
@@ -824,13 +824,13 @@
 </sp>
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV. Prusias, Hiéron.</head>
-<sp who="HIERON"><speaker>Hiéron.</speaker>
+<sp who="HIÉRON"><speaker>HIÉRON.</speaker>
 	<l id="641">Rome de vos desseins est sans doute informée !</l>
 </sp>
 <sp who="PRUSIAS"><speaker>PRUSIAS.</speaker>
 	<l id="642">Et tu peux ajouter qu'elle en est alarmée.</l>
 </sp>
-<sp who="HIERON"><speaker>Hiéron.</speaker>
+<sp who="HIÉRON"><speaker>HIÉRON.</speaker>
 	<l id="643">Observez donc aussi, Seigneur, que son courroux</l>
 	<l id="644">En est en même temps plus terrible pour vous.</l>
 </sp>
@@ -848,7 +848,7 @@
 	<l id="655">Le Sénat qui travaille à séduire ce coeur,</l>
 	<l id="656">En profitant du coup, il en aurait horreur.</l>
 </sp>
-<sp who="HIERON"><speaker>Hiéron.</speaker>
+<sp who="HIÉRON"><speaker>HIÉRON.</speaker>
 	<l id="657">Non : de trop de vertu votre esprit le soupçonne,</l>
 	<l id="658">Et ce n'est pas ainsi que ce Sénat raisonne.</l>
 	<l id="659">Ne vous y trompez pas : sa superbe fierté</l>
@@ -901,10 +901,10 @@
 <sp who="EGINE"><speaker>EGINE.</speaker>
 	<l id="697">Quand il vous aimerait, eh ! Quel espoir, Madame,</l>
 	<l id="698">Oserait en ce jour se permettre votre âme !</l>
-	<l id="699" part="i">Il faudrait l'oublier.</l>
+	<l id="699" syll="6" part="i">Il faudrait l'oublier.</l>
 </sp>
 <sp who="LAODICE"><speaker>LAODICE.</speaker>
-	<l id="699" part="f">Hélas ! Depuis le jour</l>
+	<l id="699" syll="6" part="f">Hélas ! Depuis le jour</l>
 	<l id="700">Que pour Flaminius je sentis de l'amour,</l>
 	<l id="701">Mon coeur tâcha du moins de se rendre le maître</l>
 	<l id="702">De cet amour qu'il plut au sort d'y faire naître.</l>
@@ -924,12 +924,12 @@
 	<l id="716">Sans crainte et sans espoir voyons Flaminius.</l>
 </sp>
 <sp who="EGINE"><speaker>EGINE.</speaker>
-	<l id="717" part="i">Contraignez-vous : il vient.</l>
+	<l id="717" syll="6" part="i">Contraignez-vous : il vient.</l>
 </sp>
 </div2>
 <div2 type="scene" n="2"><head>SCÈNE II. Laodice, Flaminius, Egine.</head>
-<sp who="FLAMINIUS"><speaker>FLAMINIUS, à part.</speaker>
-	<l id="717" part="f">Quelle grâce nouvelle</l>
+<sp stage="aparte" who="FLAMINIUS"><speaker>FLAMINIUS, à part.</speaker>
+	<l id="717" syll="6" part="f">Quelle grâce nouvelle</l>
 	<l id="718">A mes regards surpris la rend encor plus belle !</l>
 	<l id="719">Madame, le Sénat, en m'envoyant au roi,</l>
 	<l id="720">N'a point à lui parler limité mon emploi.</l>
@@ -947,10 +947,10 @@
 	<l id="732">Ornait la dignité dont il m'a revêtu.</l>
 	<l id="733">Madame, en sa faveur, que votre âme indulgente</l>
 	<l id="734">Fasse grâce à l'époux que sa main vous présente.</l>
-	<l id="735" part="i">Celui qu'il a choisi...</l>
+	<l id="735" syll="6" part="i">Celui qu'il a choisi...</l>
 </sp>
 <sp who="LAODICE"><speaker>LAODICE.</speaker>
-	<l id="735" part="f">Non, n'allez pas plus loin ;</l>
+	<l id="735" syll="6" part="f">Non, n'allez pas plus loin ;</l>
 	<l id="736">Ne dites pas son nom : il n'en est pas besoin.</l>
 	<l id="737">Je dois beaucoup aux soins où le Sénat s'engage ;</l>
 	<l id="738">Mais je n'ai pas, Seigneur, dessein d'en faire usage.</l>
@@ -1055,16 +1055,16 @@
 <sp who="FLAMINIUS"><speaker>FLAMINIUS.</speaker>
 	<l id="824">Achevez ; qui pourrait m'empêcher d'être heureux !</l>
 	<l id="825">Vous aurait-on promise ! Et le roi votre père</l>
-	<l id="826" part="i">Aurait-il !...</l>
+	<l id="826" syll="3" part="i">Aurait-il !...</l>
 </sp>
 <sp who="LAODICE"><speaker>LAODICE.</speaker>
-	<l id="826" part="f">N'accusez nulle cause étrangère.</l>
+	<l id="826" syll="9" part="f">N'accusez nulle cause étrangère.</l>
 	<l id="827">Je ne puis vous aimer, Seigneur, et vos soupçons</l>
 	<l id="828">Ne doivent point ailleurs en chercher des raisons.</l>
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III.</head>
-<sp who="FLAMINIUS"><speaker>FLAMINIUS, seul.</speaker>
+<sp stage="alone" who="FLAMINIUS"><speaker>FLAMINIUS, seul.</speaker>
 	<l id="829">Enfin, elle me fuit, et Rome méprisée</l>
 	<l id="830">À permettre mes feux s'est en vain abaissée.</l>
 	<l id="831">Et moi, je l'aime encore, après tant de refus,</l>
@@ -1085,19 +1085,19 @@
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV. Prusias, Annibal, Flaminius.</head>
 <sp who="PRUSIAS"><speaker>PRUSIAS.</speaker>
-	<l id="845" part="i">J'ignorais qu'en ces lieux...</l>
+	<l id="845" syll="6" part="i">J'ignorais qu'en ces lieux...</l>
 </sp>
 <sp who="FLAMINIUS"><speaker>FLAMINIUS.</speaker>
-	<l id="845" part="f">Non : avant que j'écoute,</l>
+	<l id="845" syll="6" part="f">Non : avant que j'écoute,</l>
 	<l id="846">Répondez-moi, de grâce, et tirez-moi d'un doute.</l>
 	<l id="847">L'hymen de votre fille est aujourd'hui certain.</l>
-	<l id="848">A quel heureux époux destinez-vous sa main !</l>
+	<l id="848">À quel heureux époux destinez-vous sa main !</l>
 </sp>
 <sp who="PRUSIAS"><speaker>PRUSIAS.</speaker>
-	<l id="849" part="i">Que dites-vous, Seigneur !</l>
+	<l id="849" syll="6" part="i">Que dites-vous, Seigneur !</l>
 </sp>
 <sp who="FLAMINIUS"><speaker>FLAMINIUS.</speaker>
-	<l id="849" part="f">Est-ce donc un mystère !</l>
+	<l id="849" syll="6" part="f">Est-ce donc un mystère !</l>
 </sp>
 <sp who="PRUSIAS"><speaker>PRUSIAS.</speaker>
 	<l id="850">Ce que vous exigez ne regarde qu'un père.</l>
@@ -1125,10 +1125,10 @@
 <sp who="FLAMINIUS"><speaker>FLAMINIUS.</speaker>
 	<l id="861">Et vous qui répondez, instruisez-moi, de grâce :</l>
 	<l id="862">Est-ce à vous qu'on m'envoie ! Est-ce ici votre place !</l>
-	<l id="863" part="i">Qu'y faites-vous enfin !</l>
+	<l id="863" syll="6" part="i">Qu'y faites-vous enfin !</l>
 </sp>
 <sp who="ANNIBAL"><speaker>ANNIBAL.</speaker>
-	<l id="863" part="f">J'y viens défendre un roi</l>
+	<l id="863" syll="6" part="f">J'y viens défendre un roi</l>
 	<l id="864">Dont le coeur généreux s'est signalé pour moi ;</l>
 	<l id="865">D'un roi dont Annibal embrasse la fortune,</l>
 	<l id="866">Et qu'avec trop d'excès votre orgueil importune.</l>
@@ -1140,10 +1140,10 @@
 <sp who="FLAMINIUS"><speaker>FLAMINIUS.</speaker>
 	<l id="871">Dût-il de votre fille être bientôt l'époux,</l>
 	<l id="872">Pourrait-il de son sort se montrer plus jaloux !</l>
-	<l id="873" part="i">Qu'en dites-vous, Seigneur !</l>
+	<l id="873" syll="6" part="i">Qu'en dites-vous, Seigneur !</l>
 </sp>
 <sp who="PRUSIAS"><speaker>PRUSIAS.</speaker>
-	<l id="873" part="f">Il me marque son zèle,</l>
+	<l id="873" syll="6" part="f">Il me marque son zèle,</l>
 	<l id="874">Et vous dit ce qu'inspire une amitié fidèle.</l>
 </sp>
 <sp who="ANNIBAL"><speaker>ANNIBAL.</speaker>
@@ -1153,16 +1153,16 @@
 	<l id="878">J'en réponds, cet aveu vaudra bien un outrage.</l>
 </sp>
 <sp who="FLAMINIUS"><speaker>FLAMINIUS.</speaker>
-	<l id="879" part="i">Qui doit donc épouser Laodice !</l>
+	<l id="879" syll="10" part="i">Qui doit donc épouser Laodice !</l>
 </sp>
 <sp who="ANNIBAL"><speaker>ANNIBAL.</speaker>
-	<l id="879" part="f">C'est moi.</l>
+	<l id="879" syll="2" part="f">C'est moi.</l>
 </sp>
 <sp who="FLAMINIUS"><speaker>FLAMINIUS.</speaker>
-	<l id="880" part="i">Annibal !</l>
+	<l id="880" syll="3" part="i">Annibal !</l>
 </sp>
 <sp who="ANNIBAL"><speaker>ANNIBAL.</speaker>
-	<l id="880" part="f">Oui, c'est lui qui défendra le roi ;</l>
+	<l id="880" syll="9" part="f">Oui, c'est lui qui défendra le roi ;</l>
 	<l id="881">Et puisque sa bonté m'accorde Laodice,</l>
 	<l id="882">Puisque de sa révolte Annibal est complice,</l>
 	<l id="883">Le parti le meilleur pour Rome est désormais</l>
@@ -1271,7 +1271,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="6"><head>SCÈNE VI.</head>
-<sp who="PRUSIAS"><speaker>PRUSIAS, seul.</speaker>
+<sp stage="alone" who="PRUSIAS"><speaker>PRUSIAS, seul.</speaker>
 	<l id="977">Il aime Laodice ! Imprudente promesse,</l>
 	<l id="978">Ah ! Sans toi, quel appui m'assurait sa tendresse !</l>
 	<l id="979">Dois-je vous immoler le sang de mes sujets,</l>
@@ -1310,18 +1310,18 @@
 	<l id="1012">Non, de Flaminius sollicitons l'amour.</l>
 	<l id="1013">Mais Annibal revient, et son âme inquiète</l>
 	<l id="1014">Peut-être a pressenti ce que Rome projette.</l>
-	<l id="1015" part="i">Dissimulons.</l>
+	<l id="1015" syll="4" part="i">Dissimulons.</l>
 </sp>
 </div2>
 <div2 type="scene" n="7"><head>SCÈNE VII. Prusias, Annibal.</head>
 <sp who="ANNIBAL"><speaker>ANNIBAL.</speaker>
-	<l id="1015" part="f">J'ai vu sortir l'ambassadeur.</l>
+	<l id="1015" syll="8" part="f">J'ai vu sortir l'ambassadeur.</l>
 	<l id="1016">De quels ordres encor s'agissait-il, Seigneur !</l>
 	<l id="1017">Sans doute il aura fait des menaces nouvelles !</l>
-	<l id="1018" part="i">Son Sénat...</l>
+	<l id="1018" syll="3" part="i">Son Sénat...</l>
 </sp>
 <sp who="PRUSIAS"><speaker>PRUSIAS.</speaker>
-	<l id="1018" part="f">Il voulait terminer vos querelles :</l>
+	<l id="1018" syll="9" part="f">Il voulait terminer vos querelles :</l>
 	<l id="1019">Mais il ne m'a tenu que les mêmes discours,</l>
 	<l id="1020">Dont vos longs différends interrompaient le cours.</l>
 	<l id="1021">Il demande la paix, et m'a parlé sans cesse</l>
@@ -1331,7 +1331,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="8"><head>SCÈNE VIII.</head>
-<sp who="ANNIBAL"><speaker>ANNIBAL, seul.</speaker>
+<sp stage="alone" who="ANNIBAL"><speaker>ANNIBAL, seul.</speaker>
 	<l id="1025">Il fuit ; je l'ai surpris dans une inquiétude</l>
 	<l id="1026">Dont il ne me dit rien, qu'il cache avec étude.</l>
 	<l id="1027">Observons tout : la mort n'est pas ce que je crains ;</l>
@@ -1345,7 +1345,7 @@
 </div1>
 <div1 type="act" n="4"><head>ACTE IV</head>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
-<sp who="LAODICE"><speaker>LAODICE, seule.</speaker>
+<sp stage="alone" who="LAODICE"><speaker>LAODICE, seule.</speaker>
 	<l id="1033">Quel agréable espoir vient me luire en ce jour !</l>
 	<l id="1034">Le roi de mon amant approuve donc l'amour !</l>
 	<l id="1035">Auteur de mes serments, il les romprait lui-même,</l>
@@ -1354,12 +1354,12 @@
 	<l id="1038">Que mon père m'ordonne une infidélité.</l>
 	<l id="1039">Abjure tes souhaits, mon coeur ; qu'il te souvienne</l>
 	<l id="1040">Que c'est faire des voeux pour sa honte et la mienne.</l>
-	<l id="1041" part="i">Mais que vois-je ! Annibal !</l>
+	<l id="1041" syll="6" part="i">Mais que vois-je ! Annibal !</l>
 </sp>
 </div2>
 <div2 type="scene" n="2"><head>SCÈNE II. Laodice, Annibal.</head>
 <sp who="ANNIBAL"><speaker>ANNIBAL.</speaker>
-	<l id="1041" part="f">Enfin voici l'instant</l>
+	<l id="1041" syll="6" part="f">Enfin voici l'instant</l>
 	<l id="1042">Où tout semble annoncer qu'un outrage m'attend.</l>
 	<l id="1043">Un outrage, grands dieux ! À ce seul mot, Madame,</l>
 	<l id="1044">Souffrez qu'un juste orgueil s'empare de mon âme.</l>
@@ -1473,10 +1473,10 @@
 	<l id="1144">J'en assure, en mourant, la mémoire honteuse,</l>
 	<l id="1145">Et qu'on sache à jamais que Rome et son Sénat</l>
 	<l id="1146">Ont porté cet effroi jusqu'à l'assassinat.</l>
-	<l id="1147" part="i">Mais je vous quitte, on vient.</l>
+	<l id="1147" syll="6" part="i">Mais je vous quitte, on vient.</l>
 </sp>
 <sp who="LAODICE"><speaker>LAODICE.</speaker>
-	<l id="1147" part="f">Seigneur, le temps me presse.</l>
+	<l id="1147" syll="6" part="f">Seigneur, le temps me presse.</l>
 	<l id="1148">Mais, quoique vous ayez pénétré ma faiblesse,</l>
 	<l id="1149">Vous m'estimez assez pour ne présumer pas</l>
 	<l id="1150">Qu'on puisse m'obtenir après votre trépas.</l>
@@ -1502,10 +1502,10 @@
 	<l id="1158">Dont trop longtemps la guerre a privé ses sujets,</l>
 	<l id="1159">En faveur de son peuple a bien voulu se rendre</l>
 	<l id="1160">Aux désirs que par vous Rome lui fait entendre.</l>
-	<l id="1161" part="i">Notre hymen est rompu.</l>
+	<l id="1161" syll="6" part="i">Notre hymen est rompu.</l>
 </sp>
 <sp who="FLAMINIUS"><speaker>FLAMINIUS.</speaker>
-	<l id="1161" part="f">Ah ! Je rends grâce aux dieux,</l>
+	<l id="1161" syll="6" part="f">Ah ! Je rends grâce aux dieux,</l>
 	<l id="1162">Qui détournent le roi d'un dessein odieux.</l>
 	<l id="1163">Annibal me suivra sans doute ! Mais, Madame,</l>
 	<l id="1164">Le roi ne fait-il rien en faveur de ma flamme !</l>
@@ -1515,10 +1515,10 @@
 	<l id="1166">Si vous ne trahissez vous-même votre amour.</l>
 </sp>
 <sp who="FLAMINIUS"><speaker>FLAMINIUS.</speaker>
-	<l id="1167" part="i">Moi, le trahir ! Ô ciel !</l>
+	<l id="1167" syll="6" part="i">Moi, le trahir ! Ô ciel !</l>
 </sp>
 <sp who="LAODICE"><speaker>LAODICE.</speaker>
-	<l id="1167" part="f">Écoutez ce qui reste.</l>
+	<l id="1167" syll="6" part="f">Écoutez ce qui reste.</l>
 	<l id="1168">Votre emploi dans ces lieux à ma gloire est funeste.</l>
 	<l id="1169">Ce héros qu'aujourd'hui vous demandez au roi,</l>
 	<l id="1170">Songez, Flaminius, songez qu'il eut ma foi ;</l>
@@ -1538,26 +1538,26 @@
 	<l id="1182">Veut-elle ici m'en faire une nécessité !</l>
 	<l id="1183">Votre main est pour moi d'un prix inestimable,</l>
 	<l id="1184">Et vous me la donnez si je deviens coupable !</l>
-	<l id="1185" part="i">Ah ! Vous ne m'offrez rien.</l>
+	<l id="1185" syll="6" part="i">Ah ! Vous ne m'offrez rien.</l>
 </sp>
 <sp who="LAODICE"><speaker>LAODICE.</speaker>
-	<l id="1185" part="f">Vous vous trompez, Seigneur ;</l>
+	<l id="1185" syll="6" part="f">Vous vous trompez, Seigneur ;</l>
 	<l id="1186">Et j'en ai cru le don plus cher à votre coeur.</l>
 	<l id="1187">Mais à me refuser quel motif vous engage !</l>
 </sp>
 <sp who="FLAMINIUS"><speaker>FLAMINIUS.</speaker>
-	<l id="1188" part="i">Mon devoir.</l>
+	<l id="1188" syll="3" part="i">Mon devoir.</l>
 </sp>
 <sp who="LAODICE"><speaker>LAODICE.</speaker>
-	<l id="1188" part="f">Suivez-vous un devoir si sauvage</l>
+	<l id="1188" syll="9" part="f">Suivez-vous un devoir si sauvage</l>
 	<l id="1189">Qui vous inspire ici des sentiments outrés,</l>
 	<l id="1190">Qu'un tyrannique orgueil ose rendre sacrés !</l>
 	<l id="1191">Annibal, chargé d'ans, va terminer sa vie.</l>
 	<l id="1192">S'il ne meurt outragé, Rome est-elle trahie !</l>
-	<l id="1193" part="i">Quel devoir !</l>
+	<l id="1193" syll="3" part="i">Quel devoir !</l>
 </sp>
 <sp who="FLAMINIUS"><speaker>FLAMINIUS.</speaker>
-	<l id="1193" part="f">Vous savez la grandeur des Romains,</l>
+	<l id="1193" syll="9" part="f">Vous savez la grandeur des Romains,</l>
 	<l id="1194">Et jusqu'où sont portés leurs augustes destins.</l>
 	<l id="1195">De l'univers entier et la crainte et l'hommage</l>
 	<l id="1196">Sont moins de leur valeur le formidable ouvrage</l>
@@ -1591,10 +1591,10 @@
 	<l id="1222">N'est pas un bien que puisse accepter un Romain.</l>
 	<l id="1223">Cependant cet hymen que votre coeur rejette,</l>
 	<l id="1224">Méritez-vous, ingrat, que le mien le regrette !</l>
-	<l id="1225" part="i">Vous ne répondez rien !</l>
+	<l id="1225" syll="6" part="i">Vous ne répondez rien !</l>
 </sp>
 <sp who="FLAMINIUS"><speaker>FLAMINIUS.</speaker>
-	<l id="1225" part="f">C'est avec désespoir</l>
+	<l id="1225" syll="6" part="f">C'est avec désespoir</l>
 	<l id="1226">Que je vais m'acquitter de mon triste devoir.</l>
 	<l id="1227">Né Romain, je gémis de ce noble avantage,</l>
 	<l id="1228">Qui force à des vertus d'un si cruel usage.</l>
@@ -1640,22 +1640,22 @@
 	<l id="1266">Vous n'en connaissez pas le souvenir vengeur.</l>
 </sp>
 <sp who="FLAMINIUS"><speaker>FLAMINIUS.</speaker>
-	<l id="1267" part="i">Quelle épreuve !</l>
+	<l id="1267" syll="3" part="i">Quelle épreuve !</l>
 </sp>
 <sp who="LAODICE"><speaker>LAODICE.</speaker>
-	<l id="1267" part="f">Ah ! Seigneur, ma tendresse l'emporte !</l>
+	<l id="1267" syll="9" part="f">Ah ! Seigneur, ma tendresse l'emporte !</l>
 </sp>
 <sp who="FLAMINIUS"><speaker>FLAMINIUS.</speaker>
 	<l id="1268">Dieux ! Que ne peut-elle être aujourd'hui la plus forte !</l>
-	<l id="1269" part="i">Mais Rome...</l>
+	<l id="1269" syll="3" part="i">Mais Rome...</l>
 </sp>
 <sp who="LAODICE"><speaker>LAODICE.</speaker>
-	<l id="1269" part="f">Ingrat ! Cessez d'excuser vos refus :</l>
+	<l id="1269" syll="9" part="f">Ingrat ! Cessez d'excuser vos refus :</l>
 	<l id="1270">Mon coeur vous garde un prix digne de vos vertus.</l>
 </sp>
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV.</head>
-<sp who="FLAMINIUS"><speaker>FLAMINIUS, seul.</speaker>
+<sp stage="alone" who="FLAMINIUS"><speaker>FLAMINIUS, seul.</speaker>
 	<l id="1271">Elle fuit ; je soupire, et mon âme abattue</l>
 	<l id="1272">A presque perdu Rome et son devoir de vue.</l>
 	<l id="1273">Vil Romain, homme né pour les soins amoureux,</l>
@@ -1711,35 +1711,35 @@
 	<l id="1314">Ou bien y dois-je craindre une infidélité !</l>
 </sp>
 <sp who="PRUSIAS"><speaker>PRUSIAS.</speaker>
-	<l id="1315" part="i">Ici ! N'y craignez rien, Seigneur.</l>
+	<l id="1315" syll="8" part="i">Ici ! N'y craignez rien, Seigneur.</l>
 </sp>
 <sp who="ANNIBAL"><speaker>ANNIBAL.</speaker>
-	<l id="1315" part="f">Je me retire.</l>
+	<l id="1315" syll="4" part="f">Je me retire.</l>
 	<l id="1316">C'en est assez ; voilà ce que j'avais à dire.</l>
 </sp>
 </div2>
 <div2 type="scene" n="7"><head>SCÈNE VII. Flaminius, Prusias.</head>
 <sp who="FLAMINIUS"><speaker>FLAMINIUS.</speaker>
 	<l id="1317">Ce que dans ce moment vous avez répondu,</l>
-	<l id="1318" part="i">M'apprend trop qu'il est temps...</l>
+	<l id="1318" syll="6" part="i">M'apprend trop qu'il est temps...</l>
 </sp>
 <sp who="PRUSIAS"><speaker>PRUSIAS.</speaker>
-	<l id="1318" part="f">J'ai dit ce que j'ai dû...</l>
+	<l id="1318" syll="6" part="f">J'ai dit ce que j'ai dû...</l>
 	<l id="1319">Arrêtez. Le Sénat n'aura point à se plaindre.</l>
 </sp>
 <sp who="FLAMINIUS"><speaker>FLAMINIUS.</speaker>
 	<l id="1320">Eh ! Comment Annibal n'a-t-il plus rien à craindre !</l>
-	<l id="1321" part="i">Que pensez-vous !</l>
+	<l id="1321" syll="4" part="i">Que pensez-vous !</l>
 </sp>
 <sp who="PRUSIAS"><speaker>PRUSIAS.</speaker>
-	<l id="1321" part="f">Seigneur, je ne m'explique pas ;</l>
+	<l id="1321" syll="8" part="f">Seigneur, je ne m'explique pas ;</l>
 	<l id="1322">Mais vous serez bientôt content de Prusias.</l>
-	<l id="1323" part="i">Vous devrez l'être, au moins.</l>
+	<l id="1323" syll="6" part="i">Vous devrez l'être, au moins.</l>
 </sp>
 </div2>
 <div2 type="scene" n="8"><head>SCÈNE VIII.</head>
-<sp who="FLAMINIUS"><speaker>FLAMINIUS, seul.</speaker>
-	<l id="1323" part="f">Quel est donc ce mystère</l>
+<sp stage="alone" who="FLAMINIUS"><speaker>FLAMINIUS, seul.</speaker>
+	<l id="1323" syll="6" part="f">Quel est donc ce mystère</l>
 	<l id="1324">Dont à m'instruire ici sa prudence diffère !</l>
 	<l id="1325">Quoi qu'il en soit, ô Rome ! Approuve que mon coeur</l>
 	<l id="1326">Souhaite que ce prince échappe à son malheur.</l>
@@ -1753,7 +1753,7 @@
 	<l id="1328">Peut-être d'Annibal trancher la destinée.</l>
 	<l id="1329">Dieux ! Quel coup va frapper ce héros malheureux !</l>
 </sp>
-<sp who="HIERON"><speaker>Hiéron.</speaker>
+<sp who="HIÉRON"><speaker>HIÉRON.</speaker>
 	<l id="1330">Non, Seigneur, Annibal a le coeur généreux.</l>
 	<l id="1331">Du courroux du Sénat la nouvelle est semée ;</l>
 	<l id="1332">On sait que l'ennemi forme une double armée.</l>
@@ -1765,16 +1765,16 @@
 <sp who="PRUSIAS"><speaker>PRUSIAS.</speaker>
 	<l id="1337">Mais si l'ambassadeur le poursuit, Hiéron !</l>
 </sp>
-<sp who="HIERON"><speaker>Hiéron.</speaker>
+<sp who="HIÉRON"><speaker>HIÉRON.</speaker>
 	<l id="1338">Eh ! Seigneur, éloignez ce scrupuleux soupçon :</l>
 	<l id="1339">Des fautes du hasard êtes-vous responsable !</l>
-	<l id="1340" part="i">Mais le voici.</l>
+	<l id="1340" syll="4" part="i">Mais le voici.</l>
 </sp>
 <sp who="PRUSIAS"><speaker>PRUSIAS.</speaker>
-	<l id="1340" part="f">Grands dieux ! Sa présence m'accable.</l>
+	<l id="1340" syll="8" part="f">Grands dieux ! Sa présence m'accable.</l>
 	<l id="1341">Je me sens pénétré de honte et de douleur.</l>
 </sp>
-<sp who="HIERON"><speaker>Hiéron.</speaker>
+<sp who="HIÉRON"><speaker>HIÉRON.</speaker>
 	<l id="1342">C'est la faute du sort, et non de votre coeur.</l>
 </sp>
 </div2>
@@ -1854,9 +1854,9 @@
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III.</head>
-<sp who="ANNIBAL"><speaker>ANNIBAL, seul.</speaker>
+<sp stage="alone" who="ANNIBAL"><speaker>ANNIBAL, seul.</speaker>
 	<l id="1401">Ton zèle ! Homme sans coeur, esclave couronné !</l>
-	<l id="1402">A quels rois l'univers est-il abandonné !</l>
+	<l id="1402">À quels rois l'univers est-il abandonné !</l>
 	<l id="1403">Tu les charges de fers, ô Rome ! Et, je l'avoue,</l>
 	<l id="1404">Leur bassesse en effet mérite qu'on t'en loue.</l>
 	<l id="1405">Mais tu pars, Annibal. Imprudent ! Où vas-tu !</l>
@@ -1945,7 +1945,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="5"><head>SCÈNE V.</head>
-<sp who="LAODICE"><speaker>LAODICE, seule.</speaker>
+<sp stage="alone" who="LAODICE"><speaker>LAODICE, seule.</speaker>
 	<l id="1460" part="f">Ô ciel ! Quelle constance !</l>
 	<l id="1461">Tes devoirs tant vantés, ministre des Romains,</l>
 	<l id="1462">Etaient donc d'outrager le plus grand des humains !</l>
@@ -1975,7 +1975,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="8"><head>SCÈNE VIII.</head>
-<sp who="FLAMINIUS"><speaker>FLAMINIUS, seul.</speaker>
+<sp stage="alone" who="FLAMINIUS"><speaker>FLAMINIUS, seul.</speaker>
 	<l id="1475">J'ai satisfait aux soins que m'imposait ta cause ;</l>
 	<l id="1476">Souffre ceux qu'à son tour la vertu me propose,</l>
 	<l id="1477">Rome ! Laisse mon coeur favoriser ses feux,</l>
@@ -2079,7 +2079,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="10"><head>SCÈNE X et dernière. Tous les acteurs.</head>
-<sp who="PRUSIAS"><speaker>PRUSIAS, à Annibal.</speaker>
+<sp stage="alone" who="PRUSIAS"><speaker>PRUSIAS, à Annibal.</speaker>
 	<l id="1562">Seigneur, serait-il vrai ce qu'Amilcar nous dit !</l>
 </sp>
 <sp who="ANNIBAL"><speaker>ANNIBAL.</speaker>
@@ -2101,8 +2101,7 @@
 	<l id="1577">Et j'expire honoré des soins de la vertu.</l>
 	<l id="1578" part="i">Adieu, chère Princesse.</l>
 </sp>
-<sp who="LAODICE"><speaker>LADODICE, à Flaminius.</speaker>
-
+<sp stage="alone" who="LAODICE"><speaker>LADODICE, à Flaminius.</speaker>
 	<l id="1578" part="f">Enfin Rome a vaincu.</l>
 	<l id="1579">Il meurt, et vous avez consommé l'injustice,</l>
 	<l id="1580">Barbare ! Et vous osiez demander Laodice !</l>

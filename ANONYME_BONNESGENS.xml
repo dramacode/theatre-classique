@@ -18,11 +18,6 @@
 				<periode>1771-1780</periode>
 				<taille>250-500</taille>
 				<permalien></permalien>
-
-				<sources>
-					<source id='1'><author></author><text></text></source>
-				</sources>	
-
 			</SourceDesc>
 		</fileDesc>
 </teiHeader>
@@ -50,7 +45,7 @@
 	<p type="v">Tout le monde dirait, choqué de cette idée, </p>
 	<p type="v">Ce sont les Dieux peints par Calot.</p>
 	<p>J'ai l'honneur d'être, avec le plus sincère et le plus respectueux attachement, MADAME,</p>
-	<p>Votre très humble, et très obéissant serviteur, LE MARQUIS DE F***  </p>
+	<p>Votre très humble, et très obéissant serviteur, LE MARQUIS DE F*** </p>
 </div>
 
 <div type="preface"><head>AU PUBLIC.</head>
@@ -269,10 +264,10 @@
 	<l id='132'>À présent ils me sont connus :</l>
 	<l id='133'>C'est vous que j'ai trouvés, et dans ces mêmes places ;</l>
 	<l id='134'>Combien, depuis ce temps, j'éprouve de disgrâces !</l>
-	<l id='135' part='i'>Que je suis malheureux !</l>
+	<l id='135' part="i">Que je suis malheureux !</l>
 </sp>
 <sp who='MADAME-GUILLAUME'><speaker>MADAME GUILLAUME.</speaker>
-	<l id='135' part='f'>Nous le sommes donc tous.</l>
+	<l id='135' part="f">Nous le sommes donc tous.</l>
 	<l id='136'>Quand nous avons un Souverain aimable,</l>
 	<l id='137'>Et qu'un sort rigoureux l'accable,</l>
 	<l id='138'>Nous tombons sous les mêmes coups.</l>
@@ -354,12 +349,12 @@
 	<l id='202'>Oui, c'est dans mes malheurs que je me livre aux traits</l>
 	<l id='203'>De la volupté la plus pure.</l>
 </sp>
-<sp who='MADAME-GUILLAUME'><speaker>MADAME GUILLAUME, à son mari.</speaker>
+<sp stage="toward" who='MADAME-GUILLAUME'><speaker>MADAME GUILLAUME, à son mari.</speaker>
 	<l id='204'>Allez, suivez le Roi ; je demeure aux aguets.</l>
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. </head>
-<sp who='MADAME-GUILLAUME'><speaker>MADAME GUILLAUME, seule.</speaker>
+<sp stage="alone" who='MADAME-GUILLAUME'><speaker>MADAME GUILLAUME, seule.</speaker>
 	<l id='205'>Quelle adorable bienfaisance !</l>
 	<l id='206'>Si nous ne l'avons plus, perdons toute espérance</l>
 	<l id='207'>De le voir remplacé jamais.</l>
@@ -435,30 +430,30 @@
 	<l id='269'>Diable ! C'est un minois et de lys et de rose.</l>
 </sp>
 <sp who='MADAME-GUILLAUME'><speaker>MADAME GUILLAUME.</speaker>
-	<l id='270' part='i'>Voudriez-vous vous rafraîchir ?</l>
+	<l id='270' part="i">Voudriez-vous vous rafraîchir ?</l>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
-	<l id='270' part='f'>Beaucoup.</l>
+	<l id='270' part="f">Beaucoup.</l>
 	<l id='271'>Nous avons parcouru forêt, montagne et plaine :</l>
 	<l id='272'>Nous sommes tous diablement desséché.</l>
-	<l id='273' part='i'>À propos, les chevaux ?</l>
+	<l id='273' part="i">À propos, les chevaux ?</l>
 </sp>
 <sp who='UN-HUSSARD'><speaker>UN HUSSARD.</speaker>
-	<l id='273' part='f'>N'en soyez point en peine.</l>
+	<l id='273' part="f">N'en soyez point en peine.</l>
 	<l id='274'>Je les ai moi-même attachés ;</l>
 	<l id='275'>Et j'en réponds, mon Capitaine.</l>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
-	<l id='276' part='i'>Avez-vous du vin ?</l>
+	<l id='276' part="i">Avez-vous du vin ?</l>
 </sp>
 <sp who='MADAME-GUILLAUME'><speaker>MADAME GUILLAUME.</speaker>
-	<l id='276' part='m'>Non.</l>
+	<l id='276' part="m">Non.</l>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
-	<l id='276' part='m'>Et de la bière ?</l>
+	<l id='276' part="m">Et de la bière ?</l>
 </sp>
 <sp who='MADAME-GUILLAUME'><speaker>MADAME GUILLAUME.</speaker>
-	<l id='276' part='f'>Oui;</l>
+	<l id='276' part="f">Oui;</l>
 	<l id='277'>Mais je crains fort, Monsieur, qu'elle ne soit pas bonne.</l>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
@@ -487,10 +482,10 @@
 	<l id='295'>Avez-vous rencontré quelque homme d'importance,</l>
 	<l id='296'>Ayant, avec un Roi, des traits de ressemblance ?</l>
 	<l id='297'>Un Roi ! C'est grand, c'est beau, c'est noble. Le voilà.</l>
-<stage type="[N/A]">Il se redresse.</stage>
+<stage type="stand">Il se redresse.</stage>
 	<l id='298'>Entre cent mille on ne peut s'y méprendre.</l>
 </sp>
-<sp who='MADAME-GUILLAUME'><speaker>MADAME GUILLAUME, d'un ton ingénu.</speaker>
+<sp stage="naive" who='MADAME-GUILLAUME'><speaker>MADAME GUILLAUME, d'un ton ingénu.</speaker>
 	<l id='299'>À tous ces beaux discours je ne puis rien comprendre.</l>
 	<l id='300'>C'est bien au Village, oui-dà,</l>
 	<l id='301'>Que vous pourrez les faire entendre !</l>
@@ -509,10 +504,10 @@
 	<l id='314'>Lorsqu'il parlait, un tourbillon de vent</l>
 	<l id='315'>À son manteau fit faire un mouvement;</l>
 	<l id='316'>Un ruban bleu croisait là sur sa veste :</l>
-	<l id='317' part='i'>Je n'ai rien vu de plus.</l>
+	<l id='317' part="i">Je n'ai rien vu de plus.</l>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
-	<l id='317' part='f'>Oh ! C'est assez, vraiment ;</l>
+	<l id='317' part="f">Oh ! C'est assez, vraiment ;</l>
 	<l id='318'>Allez-nous chercher la bouteille.</l>
 <stage type="exit">Elle sort un instant.</stage>
 </sp>
@@ -535,7 +530,7 @@
 	<l id='326'>Un suffisait ; nous buvons dans le même :</l>
 	<l id='327'>Nous sommes tous de braves gens,</l>
 	<l id='328'>Qui nous aimons d'une tendresse extrême.</l>
-<stage type="[N/A]">Il boit.</stage>
+<stage type="drink">Il boit.</stage>
 	<l id='329'>Elle est bonne, sans compliments.</l>
 </sp>
 <sp who='MADAME-GUILLAUME'><speaker>MADAME GUILLAUME.</speaker>
@@ -551,7 +546,7 @@
 	<l id='337'>Hors l'amour, qui chez tous est ardent et brutal, </l>
 	<l id='338'>Voyez combien nous différons des moines !</l>
 	<l id='339'>Nous fatiguons beaucoup, et nous vivons fort mal.</l>
-<stage type="[N/A]">Ils achèvent la bouteille, et Arlequin dit :</stage>
+<stage type="drink">Ils achèvent la bouteille, et Arlequin dit :</stage>
 	<l id='340'>Allons, mes chers amis, remontons à cheval.</l>
 </sp>
 <sp who='UN-HUSSARD'><speaker>UN HUSSARD.</speaker>
@@ -588,12 +583,12 @@
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V.</head>
-<sp who='MADAME-GUILLAUME'><speaker>MADAME GUILLAUME, seule.</speaker>
+<sp stage="alone" who='MADAME-GUILLAUME'><speaker>MADAME GUILLAUME, seule.</speaker>
 	<l id='363'>J'ai bien donné le change ; aussi l'ont-ils bien pris...</l>
 	<l id='364'>Déjà l'obscurité m'empêche de les suivre ;</l>
-	<l id='365' part='i'>Comme le coeur me bat !</l>
-<stage type="[N/A]">Elle ouvre sa porte.</stage>
-	<l id='365' part='f'>Seigneur, ils sont partis.</l>
+	<l id='365' part="i">Comme le coeur me bat !</l>
+<stage type="open">Elle ouvre sa porte.</stage>
+	<l id='365' part="f">Seigneur, ils sont partis.</l>
 	<l id='366'>Sortez de la prison où l'amour vous a mis ;</l>
 	<l id='367'>Il est temps que je vous délivre. </l>
 </sp>
@@ -614,10 +609,10 @@
 	<l id='375'>Tandis que l'une se dévoue</l>
 	<l id='376'>Pour mon service à de fâcheux hasards,</l>
 	<l id='377'>De notre niche entendant les hussards,</l>
-	<l id='378' part='i'>L'autre, pour moi, tremblait.</l>
+	<l id='378' part="i">L'autre, pour moi, tremblait.</l>
 </sp>
 <sp who='GUILLAUME'><speaker>GUILLAUME.</speaker>
-	<l id='378' part='f'>Oui, je l'avoue.</l>
+	<l id='378' part="f">Oui, je l'avoue.</l>
 	<l id='379'>Le désir de voir, par mes soins, </l>
 	<l id='380'>Venir à bien votre aventure,</l>
 	<l id='381'>De ma crainte était la mesure,</l>
@@ -640,7 +635,7 @@
 	<l id='394'>Si la force égalait le zèle,</l>
 	<l id='395'>Vous seriez bien en sûreté.</l>
 </sp>
-<stage type="[N/A]">Il fait bon avoir des amis partout.</stage>
+<stage type="proverbe">Il fait bon avoir des amis partout.</stage>
 </div2>
 </div1>
 </body>

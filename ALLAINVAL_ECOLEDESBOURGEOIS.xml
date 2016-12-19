@@ -7,9 +7,9 @@
 			<author born='1700' born_location='Chartres' death='1753' death_location='Paris' academie=''>SOULAS d'ALLAINVAL, Abbé Léonor Jean Christine</author>
 			</titleStmt>
 			<publicationStmt>	
-				<p>publié par Paul FIEVRE, mai 2010.</p>
-			<idno></idno>
-</publicationStmt>
+				<p>publié par Paul FIEVRE, mai 2010, revu novembre 2016.</p>
+				<idno>ALLAINVAL_ECOLEDESBOURGEOIS</idno>
+			</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -48,7 +48,7 @@
 	<castItem><role id="UN-COMMANDEUR" sex="1" type="H" statut='commandeur' age='A' stat_amour='néant'>UN COMMANDEUR</role>, ami du Marquis.</castItem> 
 	<castItem><role id="LE COMTE" sex="1" type="H" statut='comte' age='A' stat_amour='néant'>UN COMTE</role>, ami du Marquis.</castItem> 
 	<castItem><role id="MONSIEUR POT-DE-VIN" sex="1" type="H" statut='intendant' age='A' stat_amour='néant'>MONSIEUR POT-DE-VIN</role>, intendant du Marquis.</castItem> 
-	<castItem><role id="UN COUREUR" sex="1" type="H" statut='coureur' age='A' stat_amour='néant'>UN COUREUR</role> du marquis.</castItem> 
+	<castItem><role id="UN COUREUR" sex="1" type="H" statut='coureur' age='A' stat_amour='néant'>UN COUREUR</role> du Marquis.</castItem> 
 	<castItem><role id="MADAME ABRAHAM" sex="2" type="H" statut='' age='A' stat_amour='néant'>Madame ABRAHAM</role>.</castItem> 
 	<castItem><role id="BENJAMINE" sex="2" type="H" statut='' age="J" stat_amour='néant'>BENJAMINE</role>, sa fille.</castItem> 
 	<castItem><role id="MARTON" sex="2" type="H" statut='suivante' age='A' stat_amour='amant'>MARTON</role>, suivante de Benjamine.</castItem> 
@@ -58,9 +58,9 @@
 <body>
 <div1 type="act" n='1'><head>ACTE I </head>
 <div2 type="scene" n='1'><head>SCÈNE I. Madame Abraham, Benjamine.</head>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='1'>
-	<s id='1'>Enfin, ma chère Benjamine, c'est donc ce soir que tu vas être l'épouse de Monsieur le marquis de Moncade. </s>
+	<s id='1'>Enfin, ma chère Benjamine, c'est donc ce soir que tu vas être l'épouse de Monsieur le Marquis de Moncade. </s>
 	<s id='2'>Il me tarde que cela ne soit déjà ; et il me semble que ce moment n'arrivera jamais.</s>
 </p>
 </sp>
@@ -69,7 +69,7 @@
 	<s id='1'>J'en suis plus impatiente que vous, ma mère ; car, outre le plaisir de me voir femme d'un grand seigneur, c'est que, comme cette affaire s'est traitée depuis que Damis est à sa campagne, je serai ravie qu'à son retour il me trouve mariée, pour m'épargner ses reproches.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='3'>
 	<s id='1'>Est-ce que tu songes encore à Damis ?</s>
 </p>
@@ -83,7 +83,7 @@
 	<s id='5'>Il m'aima ; je l'aimai aussi.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='5'>
 	<s id='1'>Qu'il perd auprès de ce jeune seigneur ! </s>
 	<s id='2'>Qu'il est défait ! </s>
@@ -95,7 +95,7 @@
 </sp>
 <sp who='BENJAMINE'><speaker>BENJAMINE.</speaker>
 <p id='6'>
-	<s id='1'>Vive le marquis de Moncade ! </s>
+	<s id='1'>Vive le Marquis de Moncade ! </s>
 	<s id='2'>Le beau point de vue ! </s>
 	<s id='3'>Quelle légèreté ! </s>
 	<s id='4'>Quelle vivacité ! </s>
@@ -104,7 +104,7 @@
 	<s id='7'>Quelles grâces, surtout !</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='7'>
 	<s id='1'>Les bourgeoises qui ne sont pas connaisseuses en bons airs, appellent cela étourderies, indiscrétions, impolitesses ; mais cela est charmant. </s>
 	<s id='2'>Les femmes de qualité en sentent tout le prix ; et ce sont elles qui les ont mis sur ce pied-là.</s>
@@ -112,10 +112,10 @@
 </sp>
 <sp who='BENJAMINE'><speaker>BENJAMINE.</speaker>
 <p id='8'>
-	<s id='1'>Que j'ai de grâces à rendre à la mauvaise fortune de monsieur le marquis.</s>
+	<s id='1'>Que j'ai de grâces à rendre à la mauvaise fortune de Monsieur le Marquis.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='9'>
 	<s id='1'>À sa mauvaise fortune, dis-tu ?</s>
 	<s id='2'>Qu'est-ce ?... </s>
@@ -125,7 +125,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Madame Abraham, Benjamine, Marthon.</head>
-<sp who='MARTHON'><speaker>MARTHON, à Madame Abraham .</speaker>
+<sp stage="toward" who='MARTHON'><speaker>MARTHON, à Madame Abraham.</speaker>
 <p id='1'>
 	<s id='1'>Madame, voilà Monsieur Mathieu qui vient d'entrer.</s>
 </p>
@@ -135,7 +135,7 @@
 	<s id='1'>Mon oncle ?</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='3'>
 	<s id='1'>L'incommode visite !... </s>
 	<s id='2'>Comment lui déclarer votre mariage ? </s>
@@ -147,7 +147,7 @@
 	<s id='1'>Vous craignez qu'il ne goûte pas cette alliance ?</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='5'>
 	<s id='1'>Oui, il a l'esprit si peuple ! </s>
 	<s id='2'>J'avais cru qu'en épousant une fille de condition, comme il a fait, cela le décrasserait ; mais point du tout. </s>
@@ -161,12 +161,12 @@
 	<s id='2'>Mademoiselle n'en tient point.</s>
 </p>
 </sp>
-<sp who='BENJAMINE'><speaker>BENJAMINE, à Madame Abraham.</speaker>
+<sp stage="toward" who='BENJAMINE'><speaker>BENJAMINE, à Madame Abraham.</speaker>
 <p id='7'>
-	<s id='1'>Si vous lui parliez du dédit que vous avez fait avec monsieur le marquis ?</s>
+	<s id='1'>Si vous lui parliez du dédit que vous avez fait avec Monsieur le Marquis ?</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='8'>
 	<s id='1'>Non ; garde-t'en bien.</s>
 </p>
@@ -176,10 +176,10 @@
 	<s id='1'>Il ne donnera jamais son consentement.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='10'>
 	<s id='1'>On s'en passera. </s>
-	<s id='2'>Ne faudrait-il point, parce qu'il plaît à Monsieur Mathieu que vous épousiez son Damis, que vous renonciez à être marquise, à être l'épouse d'un seigneur, à figurer à la Cour ?...</s>
+	<s id='2'>Ne faudrait-il point, parce qu'il plaît à Monsieur Mathieu que vous épousiez son Damis, que vous renonciez à être Marquise, à être l'épouse d'un seigneur, à figurer à la Cour ?...</s>
 </p>
 <stage type="aparte">À part.</stage>
 <p id='11'>
@@ -194,7 +194,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Madame Abraham, Benjamine, Monsieur Mathieu.</head>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU, riant.</speaker>
+<sp stage="laugh" who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU, riant.</speaker>
 <p id='1'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Ah ! </s>
@@ -202,22 +202,22 @@
 	<s id='4'>Ah !</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM, à part.</speaker>
+<sp stage="aparte" who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM, à part.</speaker>
 <p id='2'>
 	<s id='1'>Qu'a-t-il donc tant à rire ?</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU, à Madame Abraham et à Benjamine.</speaker>
+<sp stage="toward" who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU, à Madame Abraham et à Benjamine.</speaker>
 <p id='3'>
 	<s id='1'>Ma soeur, ma nièce, que je vous régale d'une nouvelle qui court sur votre compte !</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='4'>
 	<s id='1'>Sur le compte de Benjamine ?</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='5'>
 	<s id='1'>Oui, Madame Abraham ; et sur le vôtre aussi. </s>
 	<s id='2'>Elle va vous réjouir, sur ma parole ! </s>
@@ -227,17 +227,17 @@
 	<s id='6'>Cela est trop plaisant !</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='6'>
 	<s id='1'>Achevez donc.</s>
 </p>
 </sp>
-<sp who='BENJAMINE'><speaker>BENJAMINE, à part.</speaker>
+<sp stage="aparte" who='BENJAMINE'><speaker>BENJAMINE, à part.</speaker>
 <p id='7'>
 	<s id='1'>Sa gaîté me rassure.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU, à Madame Abraham.</speaker>
+<sp stage="toward" who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU, à Madame Abraham.</speaker>
 <p id='8'>
 	<s id='1'>On vient donc de me dire que vous mariez ce soir Benjamine à un jeune seigneur de la Cour, à un Marquis. </s>
 	<s id='2'>Est-ce que cela ne vous fait pas plaisir ?</s>
@@ -249,12 +249,12 @@
 	<s id='2'>Il le prend mieux que nous ne pensions.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM, à Monsieur Mathieu.</speaker>
+<sp stage="toward" who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM, à Monsieur Mathieu.</speaker>
 <p id='10'>
 	<s id='1'>Et qu'avez-vous répondu ?</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='11'>
 	<s id='1'>"Quoi ! Ma soeur ? " ai-je dit... </s>
 	<s id='2'>Oui, votre soeur, votre propre soeur, Madame Abraham... </s>
@@ -265,22 +265,22 @@
 	<s id='7'>Eh ! </s>
 	<s id='8'>Non, je ne vous crois point. </s>
 	<s id='9'>Quelle apparence ! </s>
-	<s id='10'>La veuve et la soeur d'un banquier, et qui fait encore actuellement le commerce elle-même, donner sa fille à un marquis ? </s>
+	<s id='10'>La veuve et la soeur d'un banquier, et qui fait encore actuellement le commerce elle-même, donner sa fille à un Marquis ? </s>
 	<s id='11'>Allons donc, vous vous moquez !... </s>
 	<s id='12'>"Mais vous ne riez pas, vous autres ?"</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='12'>
 	<s id='1'>Il n'y a que les impertinents qui en rient.</s>
 </p>
 </sp>
-<sp who='BENJAMINE'><speaker>BENJAMINE, à Monsieur Mathieu.</speaker>
+<sp stage="toward" who='BENJAMINE'><speaker>BENJAMINE, à Monsieur Mathieu.</speaker>
 <p id='13'>
 	<s id='1'>Je n'y vois rien de risible, mon oncle.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='14'>
 	<s id='1'>Ma foi ! </s>
 	<s id='2'>Vous avez raison de vous fâcher toutes les deux. </s>
@@ -288,23 +288,23 @@
 	<s id='4'>Je ne pensais pas que c'était vous donner un ridicule.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='15'>
 	<s id='1'>Que voulez-vous dire, Monsieur Mathieu, avec votre ridicule ?</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='16'>
 	<s id='1'>Laissez, laissez-moi faire. </s>
 	<s id='2'>Je m'en vais retrouver ces impertinents nouvellistes, et leur laver la tête d'importance.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='17'>
 	<s id='1'>Qui vous prie de cela ?</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='18'>
 	<s id='1'>Ils vont trouver à qui parler.</s>
 </p>
@@ -314,18 +314,18 @@
 	<s id=''>Il faut les mépriser.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='20'>
 	<s id='1'>Non, morbleu ! </s>
 	<s id='2'>Non, votre honneur m'est trop cher.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='21'>
 	<s id='1'>Quel tort font-ils à notre honneur ?</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='22'>
 	<s id='1'>Quel tort, ma soeur ? </s>
 	<s id='2'>Quel tort ? </s>
@@ -333,18 +333,18 @@
 	<s id='4'>On vous regardera partout comme des folles.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='23'>
 	<s id='1'>Et nous voulons l'être. </s>
-	<s id='2'>La ville est une sotte, et vous aussi, monsieur mon frère.</s>
+	<s id='2'>La ville est une sotte, et vous aussi, Monsieur mon frère.</s>
 </p>
 </sp>
-<sp who='BENJAMINE'><speaker>BENJAMINE, à Monsieur Mathieu.</speaker>
+<sp stage="toward" who='BENJAMINE'><speaker>BENJAMINE, à Monsieur Mathieu.</speaker>
 <p id='24'>
 	<s id='1'>Est-ce une folie, mon oncle, que d'épouser un homme de qualité ?</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='25'>
 	<s id='1'>Comment donc ! </s>
 	<s id='2'>La chose est-elle vraie ?</s>
@@ -356,88 +356,88 @@
 	<s id='2'>Mais, mon oncle... </s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM, à Monsieur Mathieu.</speaker>
+<sp stage="toward" who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM, à Monsieur Mathieu.</speaker>
 <p id='27'>
 	<s id='1'>Eh bien ! </s>
 	<s id='2'>Oui, elle est vraie.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='28'>
 	<s id='1'>Ma soeur !...</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='29'>
 	<s id='1'>Eh bien, mon frère ?... </s>
 	<s id='2'>Il ne faut point tant ouvrir les yeux, et faire l'étonné. </s>
 	<s id='3'>Qu'y a-t-il donc là-dedans de si étrange ? </s>
 	<s id='4'>Ma fille est puissamment riche ; et, depuis la mort de son père, j'ai encore augmenté considérablement son bien. </s>
-	<s id='5'>Je veux qu'elle s'en serve, qu'il lui procure un mari qui lui donne un beau nom dans le monde, et à moi de la considération : et jugez si je choisis bien, c'est monsieur le marquis de Moncade.</s>
+	<s id='5'>Je veux qu'elle s'en serve, qu'il lui procure un mari qui lui donne un beau nom dans le monde, et à moi de la considération : et jugez si je choisis bien, c'est Monsieur le Marquis de Moncade.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='30'>
 	<s id='1'>Y songez-vous ? </s>
 	<s id='2'>C'est un seigneur ruiné.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='31'>
 	<s id='1'>Nul ne sait mieux que moi ses affaires, mon frère. </s>
 	<s id='2'>J'ai des billets à lui pour plus de cent mille francs. </s>
 	<s id='3'>C'est un présent de noce que je lui ferai, et demain il sera aussi à son aise qu'aucun autre de la cour.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='32'>
 	<s id='1'>Et Benjamine y sera-t-elle, à son aise ? </s>
 	<s id='2'>Vous allez sacrifier à votre vanité le bonheur et le repos de sa vie.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='33'>
 	<s id='1'>Cela me plaît.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='34'>
 	<s id='1'>Qu'au moins mon exemple vous touche. </s>
 	<s id='2'>Riche banquier, par un fol entêtement de noblesse, j'épousai une fille qui n'avait pour bien que ses aïeux ; quels chagrins, quels mépris ne m'a-t-elle pas fait essuyer tant qu'elle a vécu ?</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='35'>
 	<s id='1'>Vous les méritiez, apparemment ?</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='36'>
 	<s id='1'>Elle et toute sa famille puisaient à pleines mains dans ma caisse ; et elle ne croyait pas que je l'eusse encore assez payée.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='37'>
 	<s id='1'>Elle avait raison ; vous ne savez pas ce que c'est que la qualité.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <note type="C">Georges Dandin est une comédie de Molière.</note>
 <p id='38'>
 	<s id='1'>Je n'étais son mari qu'en peinture : elle craignait de déroger avec moi ; en un mot, j'étais le Georges Dandin de la comédie.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='39'>
 	<s id='1'>Elle en usait encore trop bien avec vous.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='40'>
 	<s id='1'>N'exposez point ma nièce à endurer des mépris.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='41'>
 	<s id='1'>Des mépris à ma fille, des mépris ! </s>
 	<s id='2'>Ma fille est-elle faite pour être méprisée ? </s>
@@ -448,19 +448,19 @@
 	<s id='7'>Je ne sais, si vous n'étiez pas mon frère, ce que je ne vous ferais point, dans la colère où vous me mettez.</s>
 </p>
 </sp>
-<sp who='BENJAMINE'><speaker>BENJAMINE, à Monsieur Mathieu.</speaker>
+<sp stage="toward" who='BENJAMINE'><speaker>BENJAMINE, à Monsieur Mathieu.</speaker>
 <p id='42'>
-	<s id='1'>Mon oncle, quand monsieur le marquis ne serait pas un galant homme comme il est, je me flatterais, par ma complaisance, de gagner son affection.</s>
+	<s id='1'>Mon oncle, quand Monsieur le Marquis ne serait pas un galant homme comme il est, je me flatterais, par ma complaisance, de gagner son affection.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='43'>
 	<s id='1'>Quoi ! </s>
 	<s id='2'>Vous aussi, ma nièce ? </s>
 	<s id='3'>Pouvez-vous oublier ainsi Damis ?</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='44'>
 	<s id='1'>Laissez là votre Damis. </s>
 	<s id='2'>Qu'allez-vous lui chanter ? </s>
@@ -476,28 +476,28 @@
 	<s id='12'>Il ne fait que son devoir.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='45'>
 	<s id='1'>Ajoutez à cela que j'ai promis d'assurer mon bien à Benjamine, et que, si elle n'est pas à Damis, mon bien n'est pas à elle.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='46'>
 	<s id='1'>Eh ! </s>
 	<s id='2'>Gardez-le, Monsieur Mathieu, gardez-le : elle est assez riche par elle-même ; et ce serait trop l'acheter que d'écouter vos sots raisonnements.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='47'>
 	<s id='1'>Je le garderai aussi, Madame Abraham. </s>
 	<s id='2'>Adieu, adieu ; et quand je reviendrai vous voir, il fera beau.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='48'>
 	<s id='1'>Adieu, Monsieur Mathieu, adieu.</s>
 </p>
-<stage type="[N/A]">Monsieur Mathieu sort. </stage>
+<stage type="exit">Monsieur Mathieu sort. </stage>
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Madame Abraham, Benjamine.</head>
@@ -506,7 +506,7 @@
 	<s id='1'>Voilà mon oncle bien en colère contre nous.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='2'>
 	<s id='1'>Permis à lui.</s>
 </p>
@@ -517,7 +517,7 @@
 </s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='4'>
 	<s id='1'>Eh ! </s>
 	<s id='2'>Que m'importe ?</s>
@@ -528,7 +528,7 @@
 	<s id='1'>Je suis au désespoir de me voir brouillée avec lui.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='6'>
 	<s id='1'>Bon, bon ! </s>
 	<s id='2'>Ah ! </s>
@@ -543,7 +543,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Madame Abraham, Benjamine, Marthon.</head>
-<sp who='MARTHON'><speaker>MARTHON, à Benjamine.</speaker>
+<sp stage="toward" who='MARTHON'><speaker>MARTHON, à Benjamine.</speaker>
 <p id='1'>
 	<s id='1'>Miséricorde ! </s>
 	<s id='2'>Pour moi, je crois que l'enfer est déchaîné aujourd'hui contre votre mariage. </s>
@@ -562,21 +562,21 @@
 	<s id='1'>Apparemment.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='4'>
 	<s id='1'>Va-t'en lui dire qu'il n'y a personne.</s>
 </p>
-<stage type="[N/A]">Marthon fait quelques pas pour sortir.</stage>
+<stage type="away">Marthon fait quelques pas pour sortir.</stage>
 <p id='5'>
 	<s id='1'>Mais, non, reviens ; il vaut mieux...</s>
 </p>
 </sp>
-<sp who='MARTHON'><speaker>MARTHON, revenant .</speaker>
+<sp stage="back" who='MARTHON'><speaker>MARTHON, revenant.</speaker>
 <p id='6'>
 	<s id='1'>Hâtez-vous de résoudre ; il approche.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='7'>
 	<s id='1'>Eh ! </s>
 	<s id='2'>Faut-il tant de façons ? </s>
@@ -588,7 +588,7 @@
 	<s id='1'>Pour moi, je me retire ; je ne saurais soutenir sa vue.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='9'>
 	<s id='1'>Marthon nous en défera.</s>
 </p>
@@ -603,7 +603,7 @@
 	<s id='2'>Vous n'avez qu'à dire.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='12'>
 	<s id='1'>Il faut que tu lui donnes son congé ; mais cela d'un ton qu'il n'y revienne plus.</s>
 </p>
@@ -625,7 +625,7 @@
 <p id='15'>
 	<s id='1'>Rentrez, rentrez. </s>
 </p>
-<stage type="[N/A]">Madame Abraham et Benjamine rentrent dans leur appartement. </stage>
+<stage type="exit">Madame Abraham et Benjamine rentrent dans leur appartement. </stage>
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. </head>
@@ -648,7 +648,7 @@
 </sp>
 <sp who='MARTHON'><speaker>MARTHON.</speaker>
 <p id='2'>
-	<s id='1'>Bonjour, monsieur.</s>
+	<s id='1'>Bonjour, Monsieur.</s>
 </p>
 </sp>
 <sp who='DAMIS'><speaker>DAMIS.</speaker>
@@ -688,7 +688,7 @@
 </sp>
 <sp who='MARTHON'><speaker>MARTHON.</speaker>
 <p id='10'>
-	<s id='1'>Elles n'y sont pas, monsieur.</s>
+	<s id='1'>Elles n'y sont pas, Monsieur.</s>
 </p>
 </sp>
 <sp who='DAMIS'><speaker>DAMIS.</speaker>
@@ -710,7 +710,7 @@
 </sp>
 <sp who='MARTHON'><speaker>MARTHON.</speaker>
 <p id='14'>
-	<s id='1'>Pardonnez-moi, monsieur ; elle est pour vous plus que pour personne, pour vous seul.</s>
+	<s id='1'>Pardonnez-moi, Monsieur ; elle est pour vous plus que pour personne, pour vous seul.</s>
 </p>
 </sp>
 <sp who='DAMIS'><speaker>DAMIS.</speaker>
@@ -756,7 +756,7 @@
 	<s id='2'>Non, Monsieur Damis, elle ne se plaint point de vous ; mais mettez-vous en sa place. </s>
 	<s id='3'>Figurez-vous qu'elle vous aime à la rage. </s>
 	<s id='4'>Vous ne lui avez dit jusqu'ici que des douceurs bourgeoises, qui courent les rues, que chaque fille sait par coeur en naissant. </s>
-	<s id='5'>Il lui vient un jeune seigneur, un marquis de la haute volée. </s>
+	<s id='5'>Il lui vient un jeune seigneur, un Marquis de la haute volée. </s>
 	<s id='6'>Il ne pousse point de fleurettes, point de soupirs, il ne parle point d'amour, ou, s'il en parle, c'est sans sembler le vouloir faire, par distraction ; mais il étale une figure charmante. </s>
 	<s id='7'>Il apporte avec soi des airs aisés, dissipés, libertins, ravissants. </s>
 	<s id='8'>Il chante, il parle en même temps, et de mille choses différentes à la fois. </s>
@@ -775,13 +775,13 @@
 </sp>
 <sp who='MARTHON'><speaker>MARTHON.</speaker>
 <p id='22'>
-	<s id='1'>Oui, s'il vous plaît, Monsieur le marquis de Moncade, et, à son exemple, moi, je renonce à votre Champagne. </s>
+	<s id='1'>Oui, s'il vous plaît, Monsieur le Marquis de Moncade, et, à son exemple, moi, je renonce à votre Champagne. </s>
 	<s id='2'>Vous devez l'en assurer ; et je vais donner dans l'écuyer.</s>
 </p>
 </sp>
 <sp who='DAMIS'><speaker>DAMIS.</speaker>
 <p id='23'>
-	<s id='1'>Monsieur le marquis de Moncade ?... </s>
+	<s id='1'>Monsieur le Marquis de Moncade ?... </s>
 	<s id='2'>Marthon, je n'ai donc plus d'espérance ?</s>
 </p>
 </sp>
@@ -802,7 +802,7 @@
 </sp>
 <sp who='MARTHON'><speaker>MARTHON.</speaker>
 <p id='26'>
-	<s id='1'>Cela est inutile, monsieur.</s>
+	<s id='1'>Cela est inutile, Monsieur.</s>
 </p>
 </sp>
 <sp who='DAMIS'><speaker>DAMIS.</speaker>
@@ -815,12 +815,12 @@
 	<s id='1'>Vous n'entrerez pas.</s>
 </p>
 </sp>
-<sp who='DAMIS'><speaker>DAMIS, faisant quelques pas pour entrer dans l'appartement de Benjamine.</speaker>
+<sp stage="walk/away" who='DAMIS'><speaker>DAMIS, faisant quelques pas pour entrer dans l'appartement de Benjamine.</speaker>
 <p id='29'>
 	<s id='1'>Que je lui dise un mot !</s>
 </p>
 </sp>
-<sp who='MARTHON'><speaker>MARTHON, le repoussant .</speaker>
+<sp stage="push" who='MARTHON'><speaker>MARTHON, le repoussant.</speaker>
 <p id='30'>
 	<s id='1'>Point !... </s>
 	<s id='2'>Que ces gens de robe sont tenaces !</s>
@@ -828,7 +828,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='8'><head>SCÈNE VIII. Damis, le Marquis de Moncade, entrant sans être vu de Damis et de Marthon, et restant un moment dans le fond ; Marthon.</head>
-<sp who='DAMIS'><speaker>DAMIS, à Marthon.</speaker>
+<sp stage="toward" who='DAMIS'><speaker>DAMIS, à Marthon.</speaker>
 <p id='1'>
 	<s id='1'>Ma chère Marthon !</s>
 </p>
@@ -848,7 +848,7 @@
 	<s id='1'>Je ne veux plus l'être.</s>
 </p>
 </sp>
-<sp who='DAMIS'><speaker>DAMIS, se jetant à genoux.</speaker>
+<sp stage="kneel" who='DAMIS'><speaker>DAMIS, se jetant à genoux.</speaker>
 <p id='5'>
 	<s id='1'>Veux-tu me voir à tes genoux ?</s>
 </p>
@@ -856,18 +856,18 @@
 <sp who='MARTHON'><speaker>MARTHON.</speaker>
 <p id='6'>
 	<s id='1'>Eh ! </s>
-	<s id='2'>Levez-vous, monsieur. </s>
+	<s id='2'>Levez-vous, Monsieur. </s>
 	<s id='3'>Non, je vais mourir à tes pieds, si tu es assez cruelle, assez dure, pour me refuser la faveur...</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS, à part.</speaker>
+<sp stage="aparte" who='LE MARQUIS'><speaker>LE MARQUIS, à part.</speaker>
 <p id='7'>
 	<s id='1'>Les faveurs !</s>
 </p>
 </sp>
 <sp who='MARTHON'><speaker>MARTHON.</speaker>
 <p id='8'>
-	<s id='1'>Que voulez-vous, monsieur ?</s>
+	<s id='1'>Que voulez-vous, Monsieur ?</s>
 </p>
 </sp>
 <sp who='DAMIS'><speaker>DAMIS.</speaker>
@@ -875,7 +875,7 @@
 	<s id='1'>Tiens, ma chère Marthon, voilà ma bourse.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS, à part.</speaker>
+<sp stage="aparte" who='LE MARQUIS'><speaker>LE MARQUIS, à part.</speaker>
 <p id='10'>
 	<s id='1'>Oh ! </s>
 	<s id='2'>Oh ! </s>
@@ -884,39 +884,39 @@
 	<s id='5'>Il offre sa bourse ! </s>
 	<s id='6'>Il est, ma foi, temps que je vienne au secours de la pauvre enfant.</s>
 </p>
-<stage type="[N/A]">Il va se mettre entre Damis et Marthon. </stage>
+<stage type="location">Il va se mettre entre Damis et Marthon. </stage>
 </sp>
 <sp who='DAMIS'><speaker>DAMIS.</speaker>
 <p id='11'>
 	<s id='1'>Prends-la, de grâce.</s>
 </p>
 </sp>
-<sp who='MARTHON'><speaker>MARTHON, regardant la bourse .</speaker>
+<sp stage="watch" who='MARTHON'><speaker>MARTHON, regardant la bourse.</speaker>
 <p id='12'>
 	<s id='1'>Il m'attendrit.</s>
 </p>
-<stage type="aparte">À part, avec étonnement, en apercevant le marquis. </stage>
+<stage type="aparte/extonish/watch">À part, avec étonnement, en apercevant le Marquis. </stage>
 <p id='13'>
-	<s id='1'>Monsieur le marquis !</s>
+	<s id='1'>Monsieur le Marquis !</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS, à Damis .</speaker>
+<sp stage="toward" who='LE MARQUIS'><speaker>LE MARQUIS, à Damis.</speaker>
 <p id='14'>
-	<s id='1'>Courage, monsieur, courage ! </s>
+	<s id='1'>Courage, Monsieur, courage ! </s>
 	<s id='2'>Mais, ma foi, vous ne vous y prenez pas mal !</s>
 </p>
 </sp>
-<sp who='DAMIS'><speaker>DAMIS, s'en allant.</speaker>
+<sp stage="away" who='DAMIS'><speaker>DAMIS, s'en allant.</speaker>
 <p id='15'>
 	<s id='1'>Que je suis malheureux !</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS, l'arrêtant.</speaker>
+<sp stage="stop" who='LE MARQUIS'><speaker>LE MARQUIS, l'arrêtant.</speaker>
 <p id='16'>
 	<s id='1'>Eh ! </s>
 	<s id='2'>Non, eh ! </s>
 	<s id='3'>Non, que je ne vous fasse pas fuir. </s>
-	<s id='4'>Revenez donc, monsieur, revenez donc. </s>
+	<s id='4'>Revenez donc, Monsieur, revenez donc. </s>
 	<s id='5'>Je veux vous servir auprès de Marthon. </s>
 	<s id='6'>Je suis fâché qu'elle vous refuse.</s>
 </p>
@@ -926,15 +926,15 @@
 	<s id='1'>Ah ! Monsieur, laissez-moi me retirer.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='18'>
 	<s id='1'>Allez ; je vais la gronder d'importance des tourments qu'elle vous fait souffrir.</s>
 </p>
-<stage type="[N/A]">Damis sort. </stage>
+<stage type="exit">Damis sort. </stage>
 </sp>
 </div2>
-<div2 type="scene" n='9'><head>SCÈNE IX. le marquis de Moncade, Marthon.</head>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<div2 type="scene" n='9'><head>SCÈNE IX. le Marquis de Moncade, Marthon.</head>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='1'>
 	<s id='1'>Comment ! </s>
 	<s id='2'>Comment ! </s>
@@ -950,10 +950,10 @@
 </sp>
 <sp who='MARTHON'><speaker>MARTHON.</speaker>
 <p id='2'>
-	<s id='1'>Mais, monsieur le marquis...</s>
+	<s id='1'>Mais, Monsieur le Marquis...</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS, l'interrompant.</speaker>
+<sp stage="interrupt" who='LE MARQUIS'><speaker>LE MARQUIS, l'interrompant.</speaker>
 <p id='3'>
 	<s id='1'>Oh ! </s>
 	<s id='2'>Quand tu verras le grand monde, tu apprendras à penser ; cela te formera.</s>
@@ -964,7 +964,7 @@
 	<s id='1'>Avec votre permission...</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS, l'interrompant.</speaker>
+<sp stage="interrupt" who='LE MARQUIS'><speaker>LE MARQUIS, l'interrompant.</speaker>
 <p id='5'>
 	<s id='1'>Toi cruelle ? </s>
 	<s id='2'>Marthon cruelle, avec ces yeux brillants, ce nez fin, cette mine friponne, ce regard attrayant ? </s>
@@ -977,10 +977,10 @@
 <sp who='MARTHON'><speaker>MARTHON.</speaker>
 <p id='6'>
 	<s id='1'>Eh ! </s>
-	<s id='2'>Non, monsieur le marquis...</s>
+	<s id='2'>Non, Monsieur le Marquis...</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS, l'interrompant.</speaker>
+<sp stage="interrupt" who='LE MARQUIS'><speaker>LE MARQUIS, l'interrompant.</speaker>
 <p id='7'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Tu ne l'es pas ? </s>
@@ -992,10 +992,10 @@
 </sp>
 <sp who='MARTHON'><speaker>MARTHON.</speaker>
 <p id='8'>
-	<s id='1'>Non, monsieur le marquis ; c'est un conseiller.</s>
+	<s id='1'>Non, Monsieur le Marquis ; c'est un conseiller.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='9'>
 	<s id='1'>Un conseiller ? </s>
 	<s id='2'>La peste ! </s>
@@ -1007,11 +1007,11 @@
 </sp>
 <sp who='MARTHON'><speaker>MARTHON.</speaker>
 <p id='10'>
-	<s id='1'>Monsieur le marquis, vous me faites trop d'honneur. </s>
+	<s id='1'>Monsieur le Marquis, vous me faites trop d'honneur. </s>
 	<s id='2'>Ce jeune homme est Damis, cousin de ma maîtresse, et ci-devant son amant, à qui je viens de donner son congé.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='11'>
 	<s id='1'>Damis, dis-tu ? </s>
 	<s id='2'>C'est Damis qui sort ? </s>
@@ -1026,12 +1026,12 @@
 	<s id='11'>Non, non, non, tu n'y réussiras pas ; je ne prends point le change : je l'ai vu à tes genoux ; j'ai entendu qu'il te demandait des faveurs : tu étais interdite, et j'ai surpris un de tes regards, qui promettait...</s>
 </p>
 </sp>
-<sp who='MARTHON'><speaker>MARTHON, l'interrompant.</speaker>
+<sp stage="interrupt" who='MARTHON'><speaker>MARTHON, l'interrompant.</speaker>
 <p id='12'>
 	<s id='1'>Toute la faveur qu'il voulait de moi, était de l'introduire auprès de ma maîtresse.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='13'>
 	<s id='1'>Eh ! </s>
 	<s id='2'>Que ne me le disais-tu ? </s>
@@ -1043,11 +1043,11 @@
 </sp>
 <sp who='MARTHON'><speaker>MARTHON.</speaker>
 <p id='14'>
-	<s id='1'>Oui, monsieur ; ils ont été élevés ensemble : on le lui promettait pour mari. </s>
+	<s id='1'>Oui, Monsieur ; ils ont été élevés ensemble : on le lui promettait pour mari. </s>
 	<s id='2'>Le moyen de ne pas aimer un homme dont on doit être la femme !</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS, avec ironie.</speaker>
+<sp stage="ironic" who='LE MARQUIS'><speaker>LE MARQUIS, avec ironie.</speaker>
 <p id='15'>
 	<s id='1'>Oui, tu dis bien : le moyen de s'en empêcher ; il est vrai, cela est fort difficile.</s>
 </p>
@@ -1057,7 +1057,7 @@
 	<s id='1'>Mais ma maîtresse ne l'aime plus ; et je viens de lui signifier, de sa part, de ne plus venir ici.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='17'>
 	<s id='1'>Mais, mais cela est dur à elle ; cela est inhumain. </s>
 	<s id='2'>Renvoyer, congédier ainsi un soupirant pour moi ! </s>
@@ -1072,7 +1072,7 @@
 	<s id='1'>Avec désespoir ? </s>
 	<s id='2'>En effet, cela est désespérant ! </s>
 	<s id='3'>Je compatis à sa peine. </s>
-	<s id='4'>Mais tu devais bien lui dire, pour le consoler, que c'était moi, un seigneur, monsieur le marquis de Moncade, qui lui enlevais sa maîtresse. </s>
+	<s id='4'>Mais tu devais bien lui dire, pour le consoler, que c'était moi, un seigneur, Monsieur le Marquis de Moncade, qui lui enlevais sa maîtresse. </s>
 	<s id='5'>Cela lui aurait fait entendre raison, sur ma parole.</s>
 </p>
 </sp>
@@ -1082,7 +1082,7 @@
 	<s id='2'>La raison est bien faite pour ceux qui aiment.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='20'>
 	<s id='1'>À propos, où est donc tout le monde ? </s>
 	<s id='2'>D'où vient que je ne vois personne ? </s>
@@ -1099,7 +1099,7 @@
 	<s id='3'>Elle est toujours sur les épines.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='22'>
 	<s id='1'>Oui, je conçois que son imagination a à travailler.</s>
 </p>
@@ -1110,49 +1110,49 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n='10'><head>SCÈNE X. Madame Abraham, le marquis, Marthon.</head>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM, au marquis.</speaker>
+<div2 type="scene" n='10'><head>SCÈNE X. Madame Abraham, Le Marquis, Marthon.</head>
+<sp stage="toward" who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM, au Marquis.</speaker>
 <p id='1'>
 	<s id='1'>Eh ! </s>
-	<s id='2'>Monsieur le marquis, quoi ! </s>
+	<s id='2'>Monsieur le Marquis, quoi ! </s>
 	<s id='3'>Vous êtes ici ?</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='2'>
 	<s id='1'>Vous voyez, depuis une heure.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='3'>
 	<s id='1'>D'où vient donc que mes gens ne m'avertissent pas ? </s>
 	<s id='2'>Voilà d'étranges coquins !</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='4'>
 	<s id='1'>Et je commençais à jurer furieusement contre vous et contre votre fille.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='5'>
 	<s id='1'>Je vous prie de m'excuser.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='6'>
 	<s id='1'>Je vous excuse.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM, à Marthon.</speaker>
+<sp stage="toward" who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM, à Marthon.</speaker>
 <p id='7'>
 	<s id='1'>Marthon, va auprès de ma fille ; qu'elle vienne au plus vite ici.</s>
 </p>
-<stage type="[N/A]">Marthon sort. </stage>
+<stage type="exit">Marthon sort. </stage>
 </sp>
 </div2>
-<div2 type="scene" n='11'><head>SCÈNE XI. Madame Abraham, le marquis.</head>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<div2 type="scene" n='11'><head>SCÈNE XI. Madame Abraham, Le Marquis.</head>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='1'>
 	<s id='1'>Comment diable ! </s>
 	<s id='2'>Madame Abraham, comment diable ! </s>
@@ -1163,25 +1163,25 @@
 	<s id='7'>Que la peste m'étouffe, si vous n'avez encore des retours de jeunesse : oui, oui ; et on ne vous donnerait jamais l'âge que vous avez.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='2'>
-	<s id='1'>Vous êtes bien obligeant, monsieur le marquis.</s>
+	<s id='1'>Vous êtes bien obligeant, Monsieur le Marquis.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='3'>
 	<s id='1'>Non, je le dis comme je le pense. </s>
 	<s id='2'>Quel âge avez-vous bien, Madame Abraham ? </s>
 	<s id='3'>Mais ne me mentez pas ; je suis connaisseur.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='4'>
-	<s id='1'>Monsieur le marquis, je compte encore par trente. </s>
+	<s id='1'>Monsieur le Marquis, je compte encore par trente. </s>
 	<s id='2'>J'ai trente-neuf ans.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='5'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Madame Abraham, cela vous plaît à dire, trente-neuf ans ! </s>
@@ -1193,26 +1193,26 @@
 	<s id='8'>Vous pouvez vous donner hardiment la cinquantaine, et sans craindre d'être démentie.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM, à part.</speaker>
+<sp stage="aparte" who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM, à part.</speaker>
 <p id='6'>
 	<s id='1'>On s'en fâcherait d'un autre ; mais il donne à tout ce qu'il dit une tournure si polie !...</s>
 </p>
-<stage type="toward">Au marquis.</stage>
+<stage type="toward">Au Marquis.</stage>
 <p id='7'>
-	<s id='1'>Monsieur le marquis, le notaire a-t-il passé à votre hôtel pour vous faire signer le contrat ?</s>
+	<s id='1'>Monsieur le Marquis, le notaire a-t-il passé à votre hôtel pour vous faire signer le contrat ?</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='8'>
 	<s id='1'>Non, pas encore. Nous signerons ce soir.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='9'>
 	<s id='1'>J'aurais été charmée que vous y eussiez vu les avantages que je vous fais.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='10'>
 	<s id='1'>Eh ! </s>
 	<s id='2'>Madame Abraham, parlons de choses qui nous réjouissent ; toutes ces formalités m'assomment. </s>
@@ -1220,36 +1220,36 @@
 	<s id='4'>Je me repose sur vous de tous mes intérêts.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='11'>
 	<s id='1'>Ils ne sont pas en de méchantes mains... </s>
 	<s id='2'>Mais, je vous assure...</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='12'>
 	<s id='1'>Eh ! </s>
 	<s id='2'>Je le sais.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='13'>
 	<s id='1'>Je m'y démets entièrement pour vous de tous mes biens.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='14'>
 	<s id='1'>Eh ! </s>
 	<s id='2'>Madame Abraham, laissons tout cela, je vous prie ; vous verrez tantôt avec Pot-De-Vin, mon intendant. </s>
 	<s id='3'>Il doit venir, vous vous arrangerez avec lui.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM, lui présentant une bourse.</speaker>
+<sp stage="show" who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM, lui présentant une bourse.</speaker>
 <p id='15'>
 	<s id='1'>Et voilà, en avance, une bourse de mille louis, pour faire les faux-frais de vos noces.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS, prenant la bourse gracieusement.</speaker>
+<sp stage="take" who='LE MARQUIS'><speaker>LE MARQUIS, prenant la bourse gracieusement.</speaker>
 <p id='16'>
 	<s id='1'>Eh bien ! </s>
 	<s id='2'>Madame, donnez donc... </s>
@@ -1258,32 +1258,32 @@
 	<s id='5'>Je me donne au diable ; il faut que j'aie bien de la complaisance !</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='17'>
 	<s id='1'>Il est vrai, mais...</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS, l'interrompant.</speaker>
+<sp stage="interrupt" who='LE MARQUIS'><speaker>LE MARQUIS, l'interrompant.</speaker>
 <p id='18'>
-	<s id='1'>Encore, madame, encore ? </s>
+	<s id='1'>Encore, Madame, encore ? </s>
 	<s id='2'>Vous me persécutez ! </s>
 	<s id='3'>On dirait que je n'épouse votre fille que pour votre argent. </s>
 	<s id='4'>Vous m'ôtez le mérite d'une tendresse désintéressée. </s>
 	<s id='5'>Là, Madame Abraham, voilà qui est fini ; parlons de votre fille. </s>
 	<s id='6'>Hein ? </s>
 	<s id='7'>Ne la verrons-nous point ?... </s>
-	<s id='8'>La voilà, peut-être ? ... </s>
+	<s id='8'>La voilà, peut-être ?... </s>
 	<s id='9'>Non, c'est un de vos gens.</s>
 </p>
 </sp>
 </div2>
 <div2 type="scene" n='12'><head>SCÈNE XII. Madame Abraham, Le Marquis, Un Laquais.</head>
-<sp who='LE-LAQUAIS'><speaker>LE LAQUAIS, à Madame Abraham.</speaker>
+<sp stage="toward" who='LE-LAQUAIS'><speaker>LE LAQUAIS, à Madame Abraham.</speaker>
 <p id='1'>
 	<s id='1'>Madame, on vous demande.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='2'>
 	<s id='1'>Qu'est-ce ?</s>
 </p>
@@ -1293,15 +1293,15 @@
 	<s id='1'>Monsieur le commandeur de...</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM, l'interrompant.</speaker>
+<sp stage="interrupt" who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM, l'interrompant.</speaker>
 <p id='4'>
 	<s id='1'>Qu'il attende.</s>
 </p>
-<stage type="[N/A]">Le laquais sort. </stage>
+<stage type="exit">Le laquais sort. </stage>
 </sp>
 </div2>
 <div2 type="scene" n='13'><head>SCÈNE XIII. Madame Abraham, Le Marquis.</head>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='1'>
 	<s id='1'>Qu'il attende ? </s>
 	<s id='2'>Ah ! </s>
@@ -1310,28 +1310,28 @@
 	<s id='5'>Un commandeur !</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='2'>
 	<s id='1'>C'est un emprunteur d'argent, et je veux quitter le commerce.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='3'>
 	<s id='1'>Non pas, non pas ; gardez-le toujours : cela vous désennuiera, et j'aurai quelquefois le plaisir de vous aller visiter dans votre caisse... </s>
 	<s id='2'>Allez, allez faire affaire avec le commandeur.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='4'>
 	<s id='1'>Vous laisserais-je seul vous ennuyer ?</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='5'>
 	<s id='1'>Non, non, je ne m'ennuierai point.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='6'>
 	<s id='1'>C'est pour un instant, et j'entends ma fille.</s>
 </p>
@@ -1339,9 +1339,9 @@
 </sp>
 </div2>
 <div2 type="scene" n='14'><head>SCÈNE XIV.</head>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='1'>
-	<s id='1'>Les sottes gens, marquis, que cette famille ! </s>
+	<s id='1'>Les sottes gens, Marquis, que cette famille ! </s>
 	<s id='2'>Il y aurait, ma foi, pour en mourir de rire... </s>
 	<s id='3'>Mais il y a déjà huit jours que cette comédie dure, et c'est trop. </s>
 	<s id='4'>Heureusement elle finira ce soir. </s>
@@ -1351,25 +1351,25 @@
 </sp>
 </div2>
 <div2 type="scene" n='15'><head>SCÈNE XV. Benjamine, Le Marquis.</head>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS, tendrement.</speaker>
+<sp stage="tenderness" who='LE MARQUIS'><speaker>LE MARQUIS, tendrement.</speaker>
 <p id='1'>
 	<s id='1'>Eh ! </s>
 	<s id='2'>Venez donc, mademoiselle ; venez donc. </s>
 	<s id='3'>Quoi ! </s>
-	<s id='4'>Me laisser seul ici, m'abandonner, faire attendre le marquis de Moncade ? </s>
+	<s id='4'>Me laisser seul ici, m'abandonner, faire attendre le Marquis de Moncade ? </s>
 	<s id='5'>Cela est-il joli ? </s>
 	<s id='6'>Je vous le demande.</s>
 </p>
 </sp>
 <sp who='BENJAMINE'><speaker>BENJAMINE.</speaker>
 <p id='2'>
-	<s id='1'>Monsieur le marquis, je suis excusable. </s>
+	<s id='1'>Monsieur le Marquis, je suis excusable. </s>
 	<s id='2'>J'étais à m'accommoder pour paraître devant vous ; mais comme je savais que vous étiez ici, plus je me dépêchais, moins j'avançais : tout allait de travers. </s>
 	<s id=''>Je croyais que je n'en viendrais jamais à bout. </s>
 	<s id=''>Cela me désespérait !</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS, gracieusement.</speaker>
+<sp stage="kindly" who='LE MARQUIS'><speaker>LE MARQUIS, gracieusement.</speaker>
 <p id='3'>
 	<s id='1'>C'était donc pour moi que vous vous arrangiez, que vous vous pariez ? </s>
 	<s id='2'>Je suis touché de cette attention. </s>
@@ -1379,10 +1379,10 @@
 </sp>
 <sp who='BENJAMINE'><speaker>BENJAMINE.</speaker>
 <p id='4'>
-	<s id='1'>Oui, monsieur le marquis ; je ferai mon bonheur le plus doux de vous voir tous les moments de ma vie.</s>
+	<s id='1'>Oui, Monsieur le Marquis ; je ferai mon bonheur le plus doux de vous voir tous les moments de ma vie.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='5'>
 	<s id='1'>Eh ! </s>
 	<s id='2'>Mademoiselle, vous avez un air de qualité ; défaites-vous donc de ces discours, et de ces sentiments bourgeois.</s>
@@ -1393,7 +1393,7 @@
 	<s id='1'>Qu'ont-ils donc d'étrange ?</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='7'>
 	<s id='1'>Comment ! </s>
 	<s id='2'>Ce qu'ils ont d'étrange ? </s>
@@ -1406,7 +1406,7 @@
 	<s id='1'>Comment pouvoir se passer de la vue d'un mari qu'on aime ?</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='9'>
 	<s id='1'>D'un mari qu'on aime ? </s>
 	<s id='2'>Mais cela est fort bien ! </s>
@@ -1415,7 +1415,7 @@
 	<s id='5'>Cela jure dans le grand monde. </s>
 	<s id='6'>On ne sait ce que c'est. </s>
 	<s id='7'>Gardez-vous bien de parler ainsi ; cela vous décrierait, on se moquerait de vous. </s>
-	<s id='8'>"Voilà, dirait-on, le marquis de Moncade. </s>
+	<s id='8'>"Voilà, dirait-on, le Marquis de Moncade. </s>
 	<s id='9'>Où est donc sa petite épouse ? </s>
 	<s id='10'>Elle ne le perd pas de vue ; elle ne parle que de lui : elle le loue sans cesse. </s>
 	<s id='11'>Elle est, je pense, amoureuse de lui : elle en est folle." </s>
@@ -1428,7 +1428,7 @@
 	<s id='1'>Est-ce qu'il y a du mal à aimer son mari ?</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='11'>
 	<s id='1'>Du moins, il y a du ridicule. </s>
 	<s id='2'>À la cour, un homme se marie pour avoir des héritiers : une femme pour avoir un nom ; et c'est tout ce qu'elle a de commun avec son mari.</s>
@@ -1440,7 +1440,7 @@
 	<s id='2'>Le moyen de pouvoir bien vivre ensemble ?</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='13'>
 	<s id='1'>On y vit le mieux du monde. </s>
 	<s id='2'>On n'y est ni jaloux, ni inconstant. </s>
@@ -1469,7 +1469,7 @@
 	<s id='1'>Je vous avoue que tout ce que vous me dites me paraît bien extraordinaire.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='15'>
 	<s id='1'>Je le crois franchement. </s>
 	<s id='2'>La cour est un monde bien nouveau pour qui n'a jamais sorti du marais. </s>
@@ -1498,7 +1498,7 @@
 </sp>
 <sp who='MARTHON'><speaker>MARTHON.</speaker>
 <p id='3'>
-	<s id='1'>Monsieur Pot-De-Vin, vous le connaissez donc, Monsieur le marquis de Moncade ?</s>
+	<s id='1'>Monsieur Pot-De-Vin, vous le connaissez donc, Monsieur le Marquis de Moncade ?</s>
 </p>
 </sp>
 <sp who='MONSIEUR-POT-DE-VIN'><speaker>MONSIEUR POT-DE-VIN.</speaker>
@@ -1526,7 +1526,7 @@
 </sp>
 <sp who='MARTHON'><speaker>MARTHON.</speaker>
 <p id='7'>
-	<s id='1'>Chez monsieur le marquis, je crois que vous le faites bien valoir le talent ?</s>
+	<s id='1'>Chez Monsieur le Marquis, je crois que vous le faites bien valoir le talent ?</s>
 </p>
 </sp>
 <sp who='MONSIEUR-POT-DE-VIN'><speaker>MONSIEUR POT-DE-VIN.</speaker>
@@ -1538,7 +1538,7 @@
 	<s id='5'>Quelle générosité ! </s>
 	<s id='6'>Quelle grandeur d'âme ! </s>
 	<s id='7'>Dès qu'on veut ouvrir la bouche pour leur parler de leurs affaires, ils baillent, ils s'endorment, ils regardent comme au-dessous d'eux d'y penser seulement : c'est un temps qu'on vole à leurs plaisirs. </s>
-	<s id='8'>On ne leur rend aucun compte : ils n'entrent dans aucuns détails ; et monsieur le marquis pousse ces belles manières plus loin qu'aucun autre. </s>
+	<s id='8'>On ne leur rend aucun compte : ils n'entrent dans aucuns détails ; et Monsieur le Marquis pousse ces belles manières plus loin qu'aucun autre. </s>
 	<s id='9'>Chez lui, je taille, je rogne tout comme il me plaît ; j'afferme ses terres, je casse les baux, je diminue les loyers, je bâtis, j'abats, je plante, je vends, j'achète, je plaide, sans qu'il se mêle de rien, sans qu'il le sache.</s>
 </p>
 </sp>
@@ -1565,7 +1565,7 @@
 	<s id='1'>Ah ! </s>
 	<s id='2'>Que Madame Abraham a d'esprit ! </s>
 	<s id='3'>Que c'est une femme bien avisée, bien prudente ! </s>
-	<s id='4'>Elle fait-là une bonne affaire de donner sa fille à monsieur le marquis, et, entre nous, Mademoiselle Marthon, elle doit m'en avoir quelque obligation.</s>
+	<s id='4'>Elle fait-là une bonne affaire de donner sa fille à Monsieur le Marquis, et, entre nous, Mademoiselle Marthon, elle doit m'en avoir quelque obligation.</s>
 </p>
 </sp>
 <sp who='MARTHON'><speaker>MARTHON.</speaker>
@@ -1585,10 +1585,10 @@
 </sp>
 <sp who='MONSIEUR-POT-DE-VIN'><speaker>MONSIEUR POT-DE-VIN.</speaker>
 <p id='16'>
-	<s id='1'>Depuis que le bruit s'est répandu que monsieur le marquis épouse Mademoiselle Benjamine, dans toutes les rues où je passe, je suis arrêté par un nombre  infini de gros financiers et d'agioteurs. </s>
+	<s id='1'>Depuis que le bruit s'est répandu que Monsieur le Marquis épouse Mademoiselle Benjamine, dans toutes les rues où je passe, je suis arrêté par un nombre infini de gros financiers et d'agioteurs. </s>
 	<s id='2'>"Eh ! </s>
 	<s id='3'>Monsieur Pot-De-Vin, me disent-ils, mon cher Monsieur Pot-De-Vin, j'ai une fille unique, belle comme l'amour, et des millions !... </s>
-	<s id='4'>Messieurs, il n'est plus temps ; j'en suis fâché, monsieur le marquis a fait un dédit... </s>
+	<s id='4'>Messieurs, il n'est plus temps ; j'en suis fâché, Monsieur le Marquis a fait un dédit... </s>
 	<s id='5'>Eh ! </s>
 	<s id='6'>Nous le paierons avec plaisir ; nous l'achèterons tout ce qu'il vaudra. </s>
 	<s id='7'>Monsieur Pot-De-Vin, voilà ma bourse... </s>
@@ -1596,7 +1596,7 @@
 	<s id='9'>Prenez ; livrez-nous sa main... qu'il épouse ma fille ; vous le pouvez, si vous voulez... au moins, parlez-lui de nos richesses. "</s>
 </p>
 </sp>
-<sp who='MARTHON'><speaker>MARTHON, à part.</speaker>
+<sp stage="aparte" who='MARTHON'><speaker>MARTHON, à part.</speaker>
 <p id='17'>
 	<s id='1'>C'est-à-dire, qu'il ne se donne qu'au plus offrant et dernier enchérisseur...</s>
 </p>
@@ -1623,7 +1623,7 @@
 </sp>
 <sp who='MONSIEUR-POT-DE-VIN'><speaker>MONSIEUR POT-DE-VIN.</speaker>
 <p id='21'>
-	<s id='1'>Dites-lui bien que si monsieur le marquis savait cela, peut-être changerait-il de visée ; mais que je me garderai bien de lui en ouvrir la bouche.</s>
+	<s id='1'>Dites-lui bien que si Monsieur le Marquis savait cela, peut-être changerait-il de visée ; mais que je me garderai bien de lui en ouvrir la bouche.</s>
 </p>
 </sp>
 <sp who='MARTHON'><speaker>MARTHON.</speaker>
@@ -1634,19 +1634,19 @@
 </sp>
 <sp who='MONSIEUR-POT-DE-VIN'><speaker>MONSIEUR POT-DE-VIN.</speaker>
 <p id='23'>
-	<s id='1'>Ce mariage ne vous fera pas de tort ; votre compte s'y trouvera, Mademoiselle Marthon, monsieur le marquis inspirera la générosité à son épouse. </s>
+	<s id='1'>Ce mariage ne vous fera pas de tort ; votre compte s'y trouvera, Mademoiselle Marthon, Monsieur le Marquis inspirera la générosité à son épouse. </s>
 	<s id='2'>Vous verrez vos profits croître au centuple, et vous connaîtrez la différence qu'il y a de servir la femme d'un seigneur, ou celle d'un bourgeois.</s>
 </p>
 </sp>
 <sp who='MARTHON'><speaker>MARTHON.</speaker>
 <p id='24'>
-	<s id='1'>Voici monsieur le marquis, je vous laisse avec lui.</s>
+	<s id='1'>Voici Monsieur le Marquis, je vous laisse avec lui.</s>
 </p>
 <stage type="exit">Elle sort. </stage>
 </sp>
 </div2>
-<div2 type="scene" n='2'><head>SCÈNE II. Le marquis, Monsieur Pot-De-Vin.</head>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<div2 type="scene" n='2'><head>SCÈNE II. Le Marquis, Monsieur Pot-De-Vin.</head>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='1'>
 	<s id='1'>Eh bien ! </s>
 	<s id='2'>Qu'est-ce ? </s>
@@ -1661,10 +1661,10 @@
 </sp>
 <sp who='MONSIEUR-POT-DE-VIN'><speaker>MONSIEUR POT-DE-VIN.</speaker>
 <p id='2'>
-	<s id='1'>Monsieur le marquis, c'est par votre ordre que je viens ici.</s>
+	<s id='1'>Monsieur le Marquis, c'est par votre ordre que je viens ici.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='3'>
 	<s id='1'>Par mon ordre ? </s>
 	<s id='2'>Ah ! </s>
@@ -1675,10 +1675,10 @@
 </sp>
 <sp who='MONSIEUR-POT-DE-VIN'><speaker>MONSIEUR POT-DE-VIN.</speaker>
 <p id='4'>
-	<s id='1'>Monsieur le marquis, je le sais.</s>
+	<s id='1'>Monsieur le Marquis, je le sais.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='5'>
 	<s id='1'>Vous le savez donc ? </s>
 	<s id='2'>Et tout est-il prêt pour la cérémonie... mes équipages ?</s>
@@ -1686,50 +1686,50 @@
 </sp>
 <sp who='MONSIEUR-POT-DE-VIN'><speaker>MONSIEUR POT-DE-VIN.</speaker>
 <p id='6'>
-	<s id='1'>Oui, monsieur le Marquis.</s>
+	<s id='1'>Oui, Monsieur le Marquis.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='7'>
 	<s id='1'>Mes carrosses sont-ils bien magnifiques ?</s>
 </p>
 </sp>
 <sp who='MONSIEUR-POT-DE-VIN'><speaker>MONSIEUR POT-DE-VIN.</speaker>
 <p id='8'>
-	<s id='1'>Oui, monsieur le Marquis ; mais le carrossier...</s>
+	<s id='1'>Oui, Monsieur le Marquis ; mais le carrossier...</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS, l'interrompant.</speaker>
+<sp stage="interrupt" who='LE MARQUIS'><speaker>LE MARQUIS, l'interrompant.</speaker>
 <p id='9'>
 	<s id='1'>Bien dorés ?</s>
 </p>
 </sp>
 <sp who='MONSIEUR-POT-DE-VIN'><speaker>MONSIEUR POT-DE-VIN.</speaker>
 <p id='10'>
-	<s id='1'>Oui, monsieur le Marquis ; mais le doreur...</s>
+	<s id='1'>Oui, Monsieur le Marquis ; mais le doreur...</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS, l'interrompant.</speaker>
+<sp stage="interrupt" who='LE MARQUIS'><speaker>LE MARQUIS, l'interrompant.</speaker>
 <p id='11'>
 	<s id='1'>Les harnais bien brillants ?</s>
 </p>
 </sp>
 <sp who='MONSIEUR-POT-DE-VIN'><speaker>MONSIEUR POT-DE-VIN.</speaker>
 <p id='12'>
-	<s id='1'>Oui, monsieur le Marquis ; mais le sellier...</s>
+	<s id='1'>Oui, Monsieur le Marquis ; mais le sellier...</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS, l'interrompant.</speaker>
+<sp stage="interrupt" who='LE MARQUIS'><speaker>LE MARQUIS, l'interrompant.</speaker>
 <p id='13'>
 	<s id='1'>Ma livrée bien riche, bien leste, bien chamarrée ?</s>
 </p>
 </sp>
 <sp who='MONSIEUR-POT-DE-VIN'><speaker>MONSIEUR POT-DE-VIN.</speaker>
 <p id='14'>
-	<s id='1'>Oui, monsieur le marquis ; mais le tailleur, le marchand de galon...</s>
+	<s id='1'>Oui, Monsieur le Marquis ; mais le tailleur, le marchand de galon...</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS, l'interrompant.</speaker>
+<sp stage="interrupt" who='LE MARQUIS'><speaker>LE MARQUIS, l'interrompant.</speaker>
 <p id='15'>
 	<s id='1'>Le tailleur, le marchand de galon, le doreur, le diable ! </s>
 	<s id='2'>Qui sont tous ces animaux-là ?</s>
@@ -1740,19 +1740,19 @@
 	<s id='1'>Ce sont ceux...</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS, l'interrompant.</speaker>
+<sp stage="inetrrupt" who='LE MARQUIS'><speaker>LE MARQUIS, l'interrompant.</speaker>
 <p id='17'>
 	<s id='1'>Je ne les connais point, et je n'ai que faire de tous ces gens-là. </s>
 	<s id='2'>Voyez, voyez avec eux, et avec</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='18'>
 	<s id='1'>Monsieur Pot-De-Vin. </s>
-	<s id='2'>Mais, monsieur le marquis...</s>
+	<s id='2'>Mais, Monsieur le Marquis...</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS, l'interrompant.</speaker>
+<sp stage="interrupt" who='LE MARQUIS'><speaker>LE MARQUIS, l'interrompant.</speaker>
 <p id='19'>
 	<s id='1'>Oui, voyez avec eux. </s>
 	<s id='2'>N'entendez-vous pas le français ? </s>
@@ -1762,10 +1762,10 @@
 </sp>
 <sp who='MONSIEUR-POT-DE-VIN'><speaker>MONSIEUR POT-DE-VIN.</speaker>
 <p id='20'>
-	<s id='1'>Avec la permission de monsieur le marquis...</s>
+	<s id='1'>Avec la permission de Monsieur le Marquis...</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS, l'interrompant.</speaker>
+<sp stage="interrupt" who='LE MARQUIS'><speaker>LE MARQUIS, l'interrompant.</speaker>
 <p id='21'>
 	<s id='1'>Avec ma permission ? </s>
 	<s id='2'>Monsieur Pot-De-Vin, vous êtes mon intendant ; je vous ai pris pour faire mes affaires. </s>
@@ -1775,12 +1775,12 @@
 	<s id=''>Du moins, usez-en de même avec moi ; laissez-moi vivre, laissez-moi respirer.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-POT-DE-VIN'><speaker>MONSIEUR POT-DE-VIN, tirant un papier de sa poche.</speaker>
+<sp stage="show" who='MONSIEUR-POT-DE-VIN'><speaker>MONSIEUR POT-DE-VIN, tirant un papier de sa poche.</speaker>
 <p id='22'>
-	<s id='1'>Monsieur le marquis, voici mon dernier mémoire, que je vous prie d'arrêter.</s>
+	<s id='1'>Monsieur le Marquis, voici mon dernier mémoire, que je vous prie d'arrêter.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='23'>
 	<s id='1'>Vous continuez de me persécuter ? </s>
 	<s id='2'>Arrêter un mémoire ici ! </s>
@@ -1795,54 +1795,54 @@
 	<s id='2'>Je n'ai que deux mots...</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS, l'interrompant.</speaker>
+<sp stage="interrupt" who='LE MARQUIS'><speaker>LE MARQUIS, l'interrompant.</speaker>
 <p id='25'>
 	<s id='1'>Voyons donc ; il faut me défaire de vous.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-POT-DE-VIN'><speaker>MONSIEUR POT-DE-VIN, lisant.</speaker>
+<sp stage="read" who='MONSIEUR-POT-DE-VIN'><speaker>MONSIEUR POT-DE-VIN, lisant.</speaker>
 <p id='26'>
-	<s id='1'>" Mémoire des frais, mises et avances faits pour le service de monsieur le marquis de Moncade, par moi, Pierre-Roch Pot-De-Vin, intendant de Mondit sieur le marquis... "</s>
+	<s id='1'>" Mémoire des frais, mises et avances faits pour le service de Monsieur le Marquis de Moncade, par moi, Pierre-Roch Pot-De-Vin, intendant de Mondit sieur le Marquis... "</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS, l'interrompant.</speaker>
+<sp stage="interrupt" who='LE MARQUIS'><speaker>LE MARQUIS, l'interrompant.</speaker>
 <p id='27'>
 	<s id='1'>Eh ! </s>
 	<s id='2'>Laissez-là ce maudit préambule.</s>
 </p>
-<stage type="[N/A]">Il se jette dans un fauteuil. </stage>
+<stage type="sit">Il se jette dans un fauteuil. </stage>
 </sp>
 <sp who='MONSIEUR-POT-DE-VIN'><speaker>MONSIEUR POT-DE-VIN.</speaker>
 <p id='28'>
 	<s id='1'>"Premièrement...</s>
 </p>
-<stage type="[N/A]">Le marquis siffle, et Pot-De-Vin s'arrête. </stage>
+<stage type="wistle/action">Le Marquis siffle, et Pot-De-Vin s'arrête. </stage>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='29'>
 	<s id='1'>Continuez, continuez ; je vous écoute.</s>
 </p>
 </sp>
 <sp who='MONSIEUR-POT-DE-VIN'><speaker>MONSIEUR POT-DE-VIN.</speaker>
 <p id='30'>
-	<s id='1'>"Pour un petit dîner que j'ai donné au procureur, à sa maîtresse, à sa femme et à son clerc, pour les engager à veiller aux affaires de monsieur le marquis, cent sept livres."</s>
+	<s id='1'>"Pour un petit dîner que j'ai donné au procureur, à sa maîtresse, à sa femme et à son clerc, pour les engager à veiller aux affaires de Monsieur le Marquis, cent sept livres."</s>
 </p>
-<stage type="[N/A]">Le marquis se lève et répète deux pas de ballet, pendant que Monsieur Pot-De-Vin continue.</stage>
+<stage type="danse">Le Marquis se lève et répète deux pas de ballet, pendant que Monsieur Pot-De-Vin continue.</stage>
 <p id='31'>
 	<s id='1'>"Item, pour avoir mené les susdits à l'opéra voiture et rafraîchissements y compris, soixante-huit livres onze sols six deniers."</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS, chantant.</speaker>
+<sp stage="sing" who='LE MARQUIS'><speaker>LE MARQUIS, chantant.</speaker>
 	<l id='1'>"C'est trop languir pour l'inhumaine ;</l>
 	<l id='2'>"C'est trop, c'est trop... "</l>
 </sp>
-<sp who='MONSIEUR-POT-DE-VIN'><speaker>MONSIEUR POT-DE-VIN, l'interrompant.</speaker>
+<sp stage="interrupt" who='MONSIEUR-POT-DE-VIN'><speaker>MONSIEUR POT-DE-VIN, l'interrompant.</speaker>
 <p id='32'>
-	<s id='1'>Pardonnez-moi, monsieur le marquis, ce n'est pas trop. </s>
+	<s id='1'>Pardonnez-moi, Monsieur le Marquis, ce n'est pas trop. </s>
 	<s id='2'>En honnête homme j'y mets du mien. </s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS, riant.</speaker>
+<sp stage="laugh" who='LE MARQUIS'><speaker>LE MARQUIS, riant.</speaker>
 <p id='33'>
 	<s id='1'>Eh ! </s>
 	<s id='2'>Qui diable vous conteste rien, Monsieur Pot-De-Vin ? </s>
@@ -1855,10 +1855,10 @@
 </sp>
 <sp who='MONSIEUR-POT-DE-VIN'><speaker>MONSIEUR POT-DE-VIN.</speaker>
 <p id='34'>
-	<s id='1'>"Item, pour avoir été parrain du fils de la femme du commis du secrétaire du rapporteur de monsieur le marquis, cent quinze livres. Item... "</s>
+	<s id='1'>"Item, pour avoir été parrain du fils de la femme du commis du secrétaire du rapporteur de Monsieur le Marquis, cent quinze livres. Item... "</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE-MARQUIS, lui arrachant son mémoire .</speaker>
+<sp stage="keep" who='LE MARQUIS'><speaker>LE-MARQUIS, lui arrachant son mémoire.</speaker>
 <p id='35'>
 	<s id='1'>Eh ! </s>
 	<s id='2'>Morbleu ! </s>
@@ -1870,20 +1870,20 @@
 	<s id='8'>Votre plume.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-POT-DE-VIN'><speaker>MONSIEUR POT-DE-VIN, tire de sa poche une écritoire et donne une plume et de l'encre au marquis, qui arrête le mémoire.</speaker>
+<sp stage="give" who='MONSIEUR-POT-DE-VIN'><speaker>MONSIEUR POT-DE-VIN, tire de sa poche une écritoire et donne une plume et de l'encre au Marquis, qui arrête le mémoire.</speaker>
 <p id='36'>
 	<s id='1'>Voilà qui est fait. </s>
 	<s id='2'>Dorénavant, je serai contraint de vous faire une trentaine de blancs-signés, que vous remplirez de vos comptes, afin de n'avoir plus la tête rompue de ces balivernes.</s>
 </p>
 </sp>
 </div2>
-<div2 type="scene" n='3'><head>SCÈNE III. Le marquis, le commandeur, Monsieur Pot-De-Vin.</head>
-<sp who='LE-COMMANDEUR'><speaker>LE COMMANDEUR, au marquis.</speaker>
+<div2 type="scene" n='3'><head>SCÈNE III. Le Marquis, le Commandeur, Monsieur Pot-De-Vin.</head>
+<sp stage="toward" who='LE-COMMANDEUR'><speaker>LE COMMANDEUR, au Marquis.</speaker>
 <p id='1'>
-	<s id='1'>Mon cher marquis !</s>
+	<s id='1'>Mon cher Marquis !</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS, courant à l'embrassade .</speaker>
+<sp stage="run/hugh" who='LE MARQUIS'><speaker>LE MARQUIS, courant à l'embrassade.</speaker>
 <p id='2'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>C'est toi, gros commandeur ? </s>
@@ -1892,19 +1892,19 @@
 <p id='3'>
 	<s id='1'>Allez, allez, Monsieur Pot-De-Vin ; ayez soin de tout ce que je vous ai ordonné, et revenez bientôt voir Madame Abraham.</s>
 </p>
-<stage type="[N/A]">Monsieur Pot-De-Vin sort. </stage>
+<stage type="exit">Monsieur Pot-De-Vin sort. </stage>
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Le Marquis, Le Commandeur.</head>
 <sp who='LE-COMMANDEUR'><speaker>LE COMMANDEUR.</speaker>
 <p id='1'>
 	<s id='1'>Ah ! </s>
-	<s id='2'>Marquis, marquis ! </s>
+	<s id='2'>Marquis, Marquis ! </s>
 	<s id='3'>Je t'y prends avec Monsieur Pot-De-Vin, chez Madame Abraham. </s>
 	<s id='4'>Je te devine, mon cher ; le fait est clair, tu viens emprunter ?</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='2'>
 	<s id='1'>Moi, emprunter ? </s>
 	<s id='2'>Fi donc, commandeur, fi donc ! </s>
@@ -1913,14 +1913,14 @@
 </sp>
 <sp who='LE-COMMANDEUR'><speaker>LE COMMANDEUR.</speaker>
 <p id='3'>
-	<s id='1'>Je suis de meilleure foi que toi, marquis. </s>
+	<s id='1'>Je suis de meilleure foi que toi, Marquis. </s>
 	<s id='2'>Il est vrai, je viens de faire affaire avec elle. </s>
 	<s id='3'>Ah ! </s>
 	<s id='4'>Quelle femme ! </s>
 	<s id='5'>Quelle femme !</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='4'>
 	<s id='1'>Comment donc ?</s>
 </p>
@@ -1931,7 +1931,7 @@
 	<s id='2'>Elle m'a vendu de l'argent au poids de l'or : c'est la femme la plus arabe, la plus grande friponne, la plus grande friponne, la plus grande chienne...</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS, l'interrompant.</speaker>
+<sp stage="interrupt" who='LE MARQUIS'><speaker>LE MARQUIS, l'interrompant.</speaker>
 <p id='6'>
 	<s id='1'>Doucement, commandeur, doucement : ménagez les termes ; ayez du respect, mon ami : n'injuriez point Madame Abraham devant moi.</s>
 </p>
@@ -1942,7 +1942,7 @@
 	<s id='2'>Je t'ai entendu assez bien jurer contre elle ; et cela, il n'y a pas plus de huit jours.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='8'>
 	<s id='1'>Oui, j'en pensais comme toi ; mais les choses ont bien changé.</s>
 </p>
@@ -1952,7 +1952,7 @@
 	<s id='1'>Je ne te comprends pas.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='10'>
 	<s id='1'>Elle va être ma belle-mère.</s>
 </p>
@@ -1962,18 +1962,18 @@
 	<s id='1'>Ta belle-mère ?</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS, riant.</speaker>
+<sp stage="laugh" who='LE MARQUIS'><speaker>LE MARQUIS, riant.</speaker>
 <p id='12'>
 	<s id='1'>Oui, mon cher commandeur ; j'épouse sa fille, j'épouse sa fille.</s>
 </p>
 </sp>
 <sp who='LE-COMMANDEUR'><speaker>LE COMMANDEUR.</speaker>
 <p id='13'>
-	<s id='1'>Allons donc, marquis, tu te moques ? </s>
+	<s id='1'>Allons donc, Marquis, tu te moques ? </s>
 	<s id='2'>Tu es un badin.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='14'>
 	<s id='1'>Non, la peste m'étouffe !</s>
 </p>
@@ -1984,12 +1984,12 @@
 	<s id='2'>Là, là, sérieusement ?</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='16'>
 	<s id='1'>Oui, très sérieusement.</s>
 </p>
 </sp>
-<sp who='LE-COMMANDEUR'><speaker>LE COMMANDEUR, riant.</speaker>
+<sp stage="laugh" who='LE-COMMANDEUR'><speaker>LE COMMANDEUR, riant.</speaker>
 <p id='17'>
 	<s id='1'>Par ma foi cela est risible. </s>
 	<s id='2'>Ah ! </s>
@@ -1997,7 +1997,7 @@
 	<s id='4'>Ah !</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='18'>
 	<s id='1'>N'est-il pas vrai ? </s>
 	<s id='2'>Mais je suis las de traîner ma qualité ; je veux la soutenir : j'épouserais le diable, Madame Abraham même. </s>
@@ -2013,7 +2013,7 @@
 	<s id='5'>Mais, dis-moi, Madame Abraham est fine, ne s'en dédira-t-elle point ?</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='20'>
 	<s id='1'>Bon ! </s>
 	<s id='2'>Bon ! </s>
@@ -2026,7 +2026,7 @@
 	<s id='1'>C'est déjà quelque chose.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='22'>
 	<s id='1'>Et elle avait à moi pour plus de cent mille francs de billets : elle m'a fait un dédit de la même somme.</s>
 </p>
@@ -2037,7 +2037,7 @@
 	<s id='2'>Elle craignait que tu ne lui échappasses ?</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='24'>
 	<s id='1'>Justement.</s>
 </p>
@@ -2048,7 +2048,7 @@
 	<s id='2'>À quand la noce ?</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='26'>
 	<s id='1'>À ce soir.</s>
 </p>
@@ -2060,7 +2060,7 @@
 	<s id='3'>Je t'amènerai compagnie, et je m'apprête à rire.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='28'>
 	<s id='1'>Venez, venez, venez tous ; venez vous divertir aux dépens de la noble parenté où j'entre. </s>
 	<s id='2'>Bernez-les, bernez-moi le premier, je le mérite : Madame Abraham, par vanité, veut éloigner ses parents de la noce.</s>
@@ -2070,10 +2070,10 @@
 <p id='29'>
 	<s id='1'>Oh ! </s>
 	<s id='2'>Morbleu ! </s>
-	<s id='3'>Qu'ils en soient, marquis, ou je n'y viens pas.</s>
+	<s id='3'>Qu'ils en soient, Marquis, ou je n'y viens pas.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='30'>
 	<s id='1'>Va, tu seras content.</s>
 </p>
@@ -2083,7 +2083,7 @@
 	<s id='1'>Ce sont sans doute des originaux qui nous réjouiront.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='32'>
 	<s id='1'>Oui, oui, des originaux ; tu l'as bien dit : tu les définis à ravir. </s>
 	<s id='2'>Il semble que tu les connaisses déjà : des procureurs, des notaires, des commissaires.</s>
@@ -2097,7 +2097,7 @@
 	<s id='4'>Quelle comédie pour nos femmes de qualité !</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='34'>
 	<s id='1'>Elles verront une petite personne embarrassée, qui ne saura ni entrer, ni sortir, ni parler, ni se taire ; qui ne saura que faire de ses mains, de ses pieds, de ses yeux et de toute sa figure.</s>
 </p>
@@ -2105,10 +2105,10 @@
 <sp who='LE-COMMANDEUR'><speaker>LE COMMANDEUR.</speaker>
 <p id='35'>
 	<s id='1'>Oh ! </s>
-	<s id='2'>Elles te devront trop, marquis, de leur procurer ce divertissement.</s>
+	<s id='2'>Elles te devront trop, Marquis, de leur procurer ce divertissement.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='36'>
 	<s id='1'>Ne manque pas de leur annoncer ce plaisir.</s>
 </p>
@@ -2120,7 +2120,7 @@
 	<s id='3'>N'y consens-tu pas ?</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='38'>
 	<s id='1'>Eh ! </s>
 	<s id='2'>Mon cher, tu es le maître, mais je veux te la faire connaître. </s>
@@ -2130,9 +2130,9 @@
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Benjamine, Le Marquis, Le Commandeur.</head>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS, à Benjamine.</speaker>
+<sp stage="toward" who='LE MARQUIS'><speaker>LE MARQUIS, à Benjamine.</speaker>
 <p id='1'>
-	<s id='1'>Approchez, mademoiselle ; voilà monsieur le commandeur qui veut vous faire la révérence.</s>
+	<s id='1'>Approchez, Mademoiselle ; voilà Monsieur le Commandeur qui veut vous faire la révérence.</s>
 </p>
 </sp>
 <sp who='LE-COMMANDEUR'><speaker>LE COMMANDEUR.</speaker>
@@ -2147,10 +2147,10 @@
 </sp>
 <sp who='BENJAMINE'><speaker>BENJAMINE.</speaker>
 <p id='3'>
-	<s id='1'>Vous êtes bien honnête, monsieur le commandeur.</s>
+	<s id='1'>Vous êtes bien honnête, Monsieur le commandeur.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS, au commandeur .</speaker>
+<sp stage="toward" who='LE MARQUIS'><speaker>LE MARQUIS, au Commandeur.</speaker>
 <p id='4'>
 	<s id='1'>Là, tout de bon, qu'en penses-tu ? </s>
 	<s id='2'>Regarde-la bien, examine.</s>
@@ -2161,12 +2161,12 @@
 	<s id='1'>Foi de courtisan, elle est adorable.</s>
 </p>
 </sp>
-<sp who='BENJAMINE'><speaker>BENJAMINE, à part.</speaker>
+<sp stage="aparte" who='BENJAMINE'><speaker>BENJAMINE, à part.</speaker>
 <p id='6'>
 	<s id='1'>Que ces gens de Cour sont galants ! </s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS, au commandeur .</speaker>
+<sp stage="toward" who='LE MARQUIS'><speaker>LE MARQUIS, au commandeur.</speaker>
 <p id='7'>
 	<s id='1'>Tu trouves donc que je ne fais pas mal de l'épouser ?</s>
 </p>
@@ -2177,7 +2177,7 @@
 	<s id='2'>Marquis, je t'en loue.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='9'>
 	<s id='1'>Et qu'elle peut figurer à la cour ?</s>
 </p>
@@ -2194,9 +2194,9 @@
 	<s id='2'>Vraiment, c'est pour vous justement qu'elles sont faites ; attendez-vous-y.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS, à Benjamine.</speaker>
+<sp stage="toward" who='LE MARQUIS'><speaker>LE MARQUIS, à Benjamine.</speaker>
 <p id='12'>
-	<s id='1'>Mademoiselle, monsieur le commandeur s'est offert à vous introduire à la Cour, et vous êtes en bonnes mains ; il connaît bien le terrain.</s>
+	<s id='1'>Mademoiselle, Monsieur le commandeur s'est offert à vous introduire à la Cour, et vous êtes en bonnes mains ; il connaît bien le terrain.</s>
 </p>
 </sp>
 <sp who='BENJAMINE'><speaker>BENJAMINE.</speaker>
@@ -2210,7 +2210,7 @@
 	<s id='2'>Mais j'aperçois Madame Abraham ; son aspect m'effarouche : je cours chez moi donner quelques ordres.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='15'>
 	<s id='1'>À la noce ; ce soir.</s>
 </p>
@@ -2223,22 +2223,22 @@
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Madame Abraham, Benjamine, Le Marquis.</head>
-<sp who='BENJAMINE'><speaker>BENJAMINE, à Madame Abraham.</speaker>
+<sp stage="toward" who='BENJAMINE'><speaker>BENJAMINE, à Madame Abraham.</speaker>
 <p id='1'>
-	<s id='1'>Ma mère, voilà monsieur le commandeur qui se sauve en vous voyant paraître.</s>
+	<s id='1'>Ma mère, voilà Monsieur le commandeur qui se sauve en vous voyant paraître.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS, à Madame Abraham .</speaker>
+<sp stage="toward" who='LE MARQUIS'><speaker>LE MARQUIS, à Madame Abraham.</speaker>
 <p id='2'>
 	<s id='1'>Oui, il a une dent contre vous, Madame Abraham ; et vous lui avez vendu un peu trop cher l'argent que vous venez de lui prêter.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='3'>
-	<s id='1'>Monsieur le marquis est toujours malin !</s>
+	<s id='1'>Monsieur le Marquis est toujours malin !</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='4'>
 	<s id='1'>Eh ! </s>
 	<s id='2'>Morbleu ! </s>
@@ -2252,17 +2252,17 @@
 	<s id='10'>Madame Abraham, il y a de la conscience.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='5'>
 	<s id='1'>La mienne ne me reproche rien là-dessus.</s>
 </p>
 </sp>
 <sp who='BENJAMINE'><speaker>BENJAMINE.</speaker>
 <p id='6'>
-	<s id='1'>Cela n'empêchera pas monsieur le commandeur de venir ce soir à nos noces.</s>
+	<s id='1'>Cela n'empêchera pas Monsieur le commandeur de venir ce soir à nos noces.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='7'>
 	<s id='1'>Non ; et je vais écrire à quelques autres seigneurs de mes amis, pour les en prier...</s>
 </p>	
@@ -2271,12 +2271,12 @@
 	<s id='1'>Et vous, Madame Abraham, avez-vous, de votre côté, fait avertir vos parents, et ceux de feu votre mari ?</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='9'>
-	<s id='1'>Non monsieur le marquis ; je n'ai eu garde.</s>
+	<s id='1'>Non Monsieur le Marquis ; je n'ai eu garde.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='10'>
 	<s id='1'>Vous n'avez eu garde ? </s>
 	<s id='2'>Et pourquoi cela ?</s>
@@ -2284,10 +2284,10 @@
 </sp>
 <sp who='BENJAMINE'><speaker>BENJAMINE.</speaker>
 <p id='11'>
-	<s id='1'>Ma mère a raison, monsieur le marquis ; il ne faut point que ces gens-là y viennent.</s>
+	<s id='1'>Ma mère a raison, Monsieur le Marquis ; il ne faut point que ces gens-là y viennent.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM, au Marquis.</speaker>
+<sp stage="toward" who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM, au Marquis.</speaker>
 <p id='12'>
 	<s id='1'>Ce ne sont que de petits bourgeois. </s>
 	<s id='2'>Voilà de plaisans visages ! </s>
@@ -2295,7 +2295,7 @@
 	<s id='4'>C'est une honte que je veux vous épargner.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='13'>
 	<s id='1'>Non, Madame Abraham, non ; vous me connaissez mal. </s>
 	<s id='2'>S'il vous plaît, qu'ils y viennent tous, ou il n'y a rien de fait. </s>
@@ -2305,41 +2305,41 @@
 	<s id='6'>J'y cours ; vous n'avez qu'à dire, me le faire sentir.</s>
 </p>
 </sp>
-<sp who='BENJAMINE'><speaker>BENJAMINE, à Madame Abraham.</speaker>
+<sp stage="toward" who='BENJAMINE'><speaker>BENJAMINE, à Madame Abraham.</speaker>
 <p id='14'>
-	<s id='1'>Ma mère, empêchez donc monsieur le marquis d'y aller.</s>
+	<s id='1'>Ma mère, empêchez donc Monsieur le Marquis d'y aller.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME-ABRAHAM, au Marquis.</speaker>
+<sp stage="toward" who='MADAME ABRAHAM'><speaker>MADAME-ABRAHAM, au Marquis.</speaker>
 <p id='15'>
 	<s id='1'>Eh ! </s>
-	<s id='2'>Monsieur le marquis, vous me faites rougir de confusion. </s>
+	<s id='2'>Monsieur le Marquis, vous me faites rougir de confusion. </s>
 	<s id='3'>Je serais au désespoir qu'ils vous coûtassent la moindre démarche : ils n'en valent pas la peine ; et, puisque vous voulez absolument qu'ils viennent, je les vais faire avertir.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='16'>
-	<s id='1'>Pour monsieur votre frère, j'en fais mon affaire. </s>
+	<s id='1'>Pour Monsieur votre frère, j'en fais mon affaire. </s>
 	<s id='2'>Je veux aller moi-même le prier.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='17'>
 	<s id='1'>Ah ! </s>
-	<s id='2'>Monsieur le marquis, n'y allez pas.</s>
+	<s id='2'>Monsieur le Marquis, n'y allez pas.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='18'>
 	<s id='1'>C'est une politesse que je lui dois ; je veux m'en acquitter, et sur le champ.</s>
 </p>
 </sp>
 <sp who='BENJAMINE'><speaker>BENJAMINE.</speaker>
 <p id='19'>
-	<s id='1'>Non, monsieur le marquis, je vous en prie ; vous en aurez peu de satisfaction.</s>
+	<s id='1'>Non, Monsieur le Marquis, je vous en prie ; vous en aurez peu de satisfaction.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='20'>
 	<s id='1'>Pourquoi ? </s>
 	<s id='2'>Est-ce qu'il n'approuve pas que j'entre dans sa famille ?</s>
@@ -2351,12 +2351,12 @@
 	<s id='2'>Mais...</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='22'>
 	<s id='1'>C'est-à-dire, non ?</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='23'>
 	<s id='1'>Il est coiffé de son Damis.</s>
 </p>
@@ -2366,7 +2366,7 @@
 	<s id='1'>C'est un homme si extraordinaire !</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS, gracieusement.</speaker>
+<sp stage="kindly" who='LE MARQUIS'><speaker>LE MARQUIS, gracieusement.</speaker>
 <p id='25'>
 	<s id='1'>Eh ! </s>
 	<s id='2'>Tant mieux, ventrebleu ! </s>
@@ -2380,7 +2380,7 @@
 	<s id='1'>Je tremble qu'il ne vous reçoive impoliment.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='27'>
 	<s id='1'>Moi ? </s>
 	<s id='2'>Un homme de Cour ? </s>
@@ -2392,12 +2392,12 @@
 	<s id='8'>N'est-ce pas ici, vis-à-vis ?</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='28'>
-	<s id='1'>Oui, monsieur le marquis.</s>
+	<s id='1'>Oui, Monsieur le Marquis.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='29'>
 	<s id='1'>J'y vole. </s>
 	<s id='2'>Ensuite, j'irai écrire à mes amis...</s>
@@ -2412,12 +2412,12 @@
 	<s id='6'>Où allez-vous donc, mesdames ?</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='31'>
 	<s id='1'>Nous vous reconduisons.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='32'>
 	<s id='1'>Eh ! </s>
 	<s id='2'>Mesdames, laissez-moi sortir. </s>
@@ -2428,7 +2428,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII. Madame Abraham, Benjamine.</head>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='1'>
 	<s id='1'>Eh bien ! </s>
 	<s id='2'>Ma fille, voilà pourtant cet homme de condition, qui, au dire de Monsieur Mathieu, devait t'accabler de mépris.</s>
@@ -2440,7 +2440,7 @@
 	<s id='2'>Ma mère, plus je le vois, et plus j'en suis enchantée.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='2'>
 	<s id='1'>Qu'il eût écarté de la noce toute notre parenté, dont la vue va lui reprocher qu'il se mésallie, cela était dans l'ordre ; nous le voulions nous-mêmes.</s>
 </p>
@@ -2450,7 +2450,7 @@
 	<s id='1'>Et tout le monde l'aurait fait en notre place.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='4'>
 	<s id='1'>Mais lui, nous menacer de rompre ce mariage.</s>
 </p>
@@ -2460,7 +2460,7 @@
 	<s id='1'>Vouloir lui-même les aller prier !</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='6'>
 	<s id='1'>Ma fille, il faut les avertir. </s>
 	<s id='2'>Qu'ils viennent, puisqu'il le veut ; mais, la noce faite, il y a mille occasions de rompre avec eux.</s>
@@ -2471,7 +2471,7 @@
 	<s id='1'>Je tremble que mon oncle ne lui fasse quelque malhonnêteté.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='8'>
 	<s id='1'>Effectivement, c'est un homme si grossier ; mais Monsieur le Marquis a de l'esprit.</s>
 </p>
@@ -2481,7 +2481,7 @@
 	<s id='1'>S'il pouvait arracher son consentement ?</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='10'>
 	<s id='1'>Je ne doute point qu'il n'en vienne à bout, s'il l'entreprend.</s>
 </p>
@@ -2493,12 +2493,12 @@
 </sp>
 </div2>
 <div2 type="scene" n='8'><head>SCÈNE VIII. Madame Abraham, Benjamine, Marthon.</head>
-<sp who='MARTHON'><speaker>MARTHON, à Madame Abraham.</speaker>
+<sp stage="toward" who='MARTHON'><speaker>MARTHON, à Madame Abraham.</speaker>
 <p id='1'>
-	<s id='1'>Madame, Monsieur Pot-De-Vin, l'intendant de Monsieur le marquis de Moncade est là ; lui dirai-je d'entrer ?</s>
+	<s id='1'>Madame, Monsieur Pot-De-Vin, l'intendant de Monsieur le Marquis de Moncade est là ; lui dirai-je d'entrer ?</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='2'>
 	<s id='1'>Non ; je vais avec lui dans mon cabinet, et écrire en même temps à tous nos parents.</s>
 </p>
@@ -2527,7 +2527,7 @@
 <sp who='BENJAMINE'><speaker>BENJAMINE.</speaker>
 <p id='4'>
 	<s id='1'>Eh ! </s>
-	<s id='2'>Marthon, monsieur le marquis le veut ; il s'en est expliqué.</s>
+	<s id='2'>Marthon, Monsieur le Marquis le veut ; il s'en est expliqué.</s>
 </p>
 </sp>
 <sp who='MARTHON'><speaker>MARTHON.</speaker>
@@ -2550,7 +2550,7 @@
 <sp who='BENJAMINE'><speaker>BENJAMINE.</speaker>
 <p id='8'>
 	<s id='1'>Je t'avouerai que, dans le fond de l'âme, je suis charmée de les avoir pour témoins de mon bonheur, et surtout mes cousines. </s>
-	<s id='2'>Quelle mortification pour elles, quel crève-coeur de me voir devenir grande dame, de m'entendre appeler madame la marquise !... </s>
+	<s id='2'>Quelle mortification pour elles, quel crève-coeur de me voir devenir grande dame, de m'entendre appeler Madame la Marquise !... </s>
 	<s id='3'>Oh ! </s>
 	<s id='4'>J'en suis sûre, elles ne pourront jamais soutenir mon triomphe. </s>
 	<s id='5'>Qu'en dis-tu, Marthon ?</s>
@@ -2604,8 +2604,8 @@
 <sp who='MARTHON'><speaker>MARTHON.</speaker>
 <note type="L">Quadrille : contredanse que l'on pratiquait dans les bals.</note>
 <p id='15'>
-	<s id='1'>Elles enrageront bien davantage, quand elles vous entendront dire : adieu, monsieur le commissaire ; adieu, ma cousine, la notaire, la procureuse ; messieurs les bourgeois, doucereux robins, mauvais plaisants du quartier ; adieu le Marais, l'île Saint-Louis, maisons où l'on va, de porte en porte, s'ennuyer ou faire un quadrille. </s>
-	<s id='2'>Madame la marquise de Moncade vous dit adieu ; elle vous quitte sans regret. </s>
+	<s id='1'>Elles enrageront bien davantage, quand elles vous entendront dire : adieu, Monsieur le commissaire ; adieu, ma cousine, la notaire, la procureuse ; messieurs les bourgeois, doucereux robins, mauvais plaisants du quartier ; adieu le Marais, l'île Saint-Louis, maisons où l'on va, de porte en porte, s'ennuyer ou faire un quadrille. </s>
+	<s id='2'>Madame la Marquise de Moncade vous dit adieu ; elle vous quitte sans regret. </s>
 	<s id='3'>Nous allons à la Cour, nous allons à la Cour.</s>
 </p>
 </sp>
@@ -2673,7 +2673,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='10'><head>SCÈNE X. Damis, Marthon.</head>
-<sp who='DAMIS'><speaker>DAMIS, à Benjamine, sortie.</speaker>
+<sp stage="toward" who='DAMIS'><speaker>DAMIS, à Benjamine, sortie.</speaker>
 <p id='1'>
 	<s id='1'>Arrêtez, cruelle !</s>
 </p>
@@ -2696,7 +2696,7 @@
 <sp who='MARTHON'><speaker>MARTHON.</speaker>
 <p id='4'>
 	<s id='1'>Nous ne sommes point en état d'entendre vos lamentations. </s>
-	<s id='2'>Notre imagination n'est pleine que de noces, d'habits, d'équipages, de marquis et de mille autres choses encore plus réjouissantes.</s>
+	<s id='2'>Notre imagination n'est pleine que de noces, d'habits, d'équipages, de Marquis et de mille autres choses encore plus réjouissantes.</s>
 </p>
 </sp>
 <sp who='DAMIS'><speaker>DAMIS.</speaker>
@@ -2710,7 +2710,7 @@
 	<s id='2'>Lui faire des reproches ? </s>
 	<s id='3'>Prenez que vous l'avez appelée infidèle, ingrate, inhumaine, et qu'elle vous a répondu que tel est son plaisir. </s>
 	<s id='4'>Là, portez vos doléances ailleurs. </s>
-	<s id='5'>Je suis votre très humble servante, monsieur le conseiller.</s>
+	<s id='5'>Je suis votre très humble servante, Monsieur le conseiller.</s>
 </p>
 <stage type="exit">Elle sort.</stage>
 </sp>
@@ -2733,7 +2733,7 @@
 	<s id='3'>Benjamine, la cruelle Benjamine, votre nièce...</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU, l'interrompant.</speaker>
+<sp stage="toward" who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU, l'interrompant.</speaker>
 <p id='2'>
 	<s id='1'>Eh bien ? </s>
 	<s id='2'>Eh bien ?</s>
@@ -2744,7 +2744,7 @@
 	<s id='1'>Je ne veux plus la voir.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='4'>
 	<s id='1'>Bon !</s>
 </p>
@@ -2754,17 +2754,17 @@
 	<s id='1'>Je vais la haïr autant que je l'ai aimée.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='6'>
 	<s id='1'>À merveille. </s>
 </p>
 </sp>
 <sp who='DAMIS'><speaker>DAMIS.</speaker>
 <p id='7'>
-	<s id='1'>Elle peut épouser son marquis.</s>
+	<s id='1'>Elle peut épouser son Marquis.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='8'>
 	<s id='1'>Chansons.</s>
 </p>
@@ -2774,7 +2774,7 @@
 	<s id='1'>Non, non, je la méprise, l'infidèle !</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='10'>
 	<s id='1'>Laissez-là toutes ces extravagances. </s>
 	<s id='2'>Allez m'attendre chez moi. </s>
@@ -2786,7 +2786,7 @@
 	<s id='1'>Tout cela est inutile, mon parti est pris.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='12'>
 	<s id='1'>Eh ! </s>
 	<s id='2'>Taisez-vous, vous dis-je. </s>
@@ -2802,7 +2802,7 @@
 	<s id='1'>Vous n'y réussirez pas.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='14'>
 	<s id='1'>Vous êtes sous ma protection ; c'est tout dire.</s>
 </p>
@@ -2810,7 +2810,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='13'><head>SCÈNE XIII.</head>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='1'>
 	<s id='1'>Oh ! </s>
 	<s id='2'>Oh ! </s>
@@ -2820,7 +2820,7 @@
 	<s id='6'>Ah ! Ah ! Laissez-moi faire. </s>
 	<s id='7'>Je suis dans une colère que je ne me possède pas ! </s>
 	<s id='8'>Nous faire cet affront ! </s>
-	<s id='9'>Que ce monsieur le marquis aille épouser ses marquises et ses comtesses. </s>
+	<s id='9'>Que ce Monsieur le Marquis aille épouser ses Marquises et ses comtesses. </s>
 	<s id='10'>Ah ! </s>
 	<s id='11'>Que je voudrais bien, à l'heure qu'il est, le tenir ! </s>
 	<s id='12'>Que je le recevrais bien ! </s>
@@ -2833,39 +2833,39 @@
 </sp>
 </div2>
 <div2 type="scene" n='14'><head>SCÈNE XIV. Monsieur Mathieu, Le Marquis.</head>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS, à part.</speaker>
+<sp stage="aparte" who='LE MARQUIS'><speaker>LE MARQUIS, à part.</speaker>
 <p id='1'>
 	<s id='1'>Voilà apparemment mon homme. </s>
 	<s id='2'>Je le tiens.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU, à part.</speaker>
+<sp stage="aparte" who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU, à part.</speaker>
 <p id='2'>
 	<s id='1'>C'est lui, je pense. </s>
 	<s id='2'>Qu'il vienne, qu'il vienne.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='3'>
-	<s id='1'>Monsieur, de grâce, n'êtes-vous pas monsieur Mathieu ?</s>
+	<s id='1'>Monsieur, de grâce, n'êtes-vous pas Monsieur Mathieu ?</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU, brusquement.</speaker>
+<sp stage="abruptly" who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU, brusquement.</speaker>
 <p id='4'>
-	<s id='1'>Oui, monsieur.</s>
+	<s id='1'>Oui, Monsieur.</s>
 </p>
 <stage type="aparte">À part.</stage>
 <p id='5'>
 	<s id='1'>Nous allons voir.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='6'>
-	<s id='1'>Et moi, monsieur le marquis de Moncade. </s>
+	<s id='1'>Et moi, Monsieur le Marquis de Moncade. </s>
 	<s id='2'>Embrassons-nous.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU, brusquement, en se laissant embrasser.</speaker>
+<sp stage="abruptly/kiss" who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU, brusquement, en se laissant embrasser.</speaker>
 <p id='7'>
 	<s id='1'>Monsieur, je suis votre serviteur.</s>
 </p>
@@ -2874,45 +2874,45 @@
 	<s id='1'>Tenons bon.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='9'>
 	<s id='1'>C'est moi qui suis le vôtre, ou le diable m'emporte.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU, à part.</speaker>
+<sp stage="aparte" who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU, à part.</speaker>
 <p id='10'>
 	<s id='1'>Voilà de nos serviteurs !</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='11'>
 	<s id='1'>Et je viens de chez vous pour vous en assurer. </s>
 	<s id='2'>Ma bonne fortune n'a pas permis que je vous y trouvasse. </s>
 	<s id='3'>Je vous ai attendu, et j'y serais encore, si vos gens ne m'avaient dit que vous veniez d'entrer ici.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU, à part.</speaker>
+<sp stage="aparte" who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU, à part.</speaker>
 <p id='12'>
 	<s id='1'>Il vient de chez moi !</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='13'>
 	<s id='1'>Que je vous embrasse encore.</s>
 </p>
-<stage type="[N/A]">Il embrasse une seconde fois Monsieur Mathieu.</stage>
+<stage type="kiss">Il embrasse une seconde fois Monsieur Mathieu.</stage>
 <note type="C">Si une personne noble demande à une autre de moindre condition de se couvrir cela signifie qu'il le tient en haute estime.</note>
 <p id='14'>
 	<s id='1'>Vous ne sauriez croire à quel prix je mets l'honneur de vous appartenir. </s>
 	<s id='2'>Mais ayez la bonté de vous couvrir.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='15'>
 	<s id='1'>J'ai trop de respect...</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS, l'interrompant.</speaker>
+<sp stage="interrupt" who='LE MARQUIS'><speaker>LE MARQUIS, l'interrompant.</speaker>
 <p id='16'>
 	<s id='1'>Eh ! </s>
 	<s id='2'>Ne me parlez point comme cela. </s>
@@ -2920,7 +2920,7 @@
 	<s id='4'>Allons donc ; je le veux.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='17'>
 	<s id='1'>C'est donc pour vous obéir.</s>
 </p>
@@ -2929,132 +2929,132 @@
 	<s id='1'>Il croit avoir trouvé sa dupe.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='19'>
 	<s id='1'>Mon cher oncle, souffrez par avance que je vous appelle de ce nom, et daignez m'honorer de celui de votre neveu.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='20'>
 	<s id='1'>Oh ! </s>
-	<s id='2'>Monsieur le marquis, c'est une liberté que je ne prendrai point. </s>
+	<s id='2'>Monsieur le Marquis, c'est une liberté que je ne prendrai point. </s>
 	<s id='3'>Je sais trop ce que je vous dois.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='21'>
 	<s id='1'>C'est moi qui vous devrai tout.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU, à part.</speaker>
+<sp stage="aparte" who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU, à part.</speaker>
 <p id='22'>
 	<s id='1'>Je ne sais où j'en suis, avec ses politesses.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='23'>
 	<s id='1'>Monsieur Mathieu, je vous en prie, je vous en conjure !</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU, un peu brusquement.</speaker>
+<sp stage="abruptly" who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU, un peu brusquement.</speaker>
 <p id='24'>
 	<s id='1'>Je ne le ferai point, s'il vous plaît.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='25'>
 	<s id='1'>Quoi ! </s>
 	<s id='2'>Vous me refusez cette faveur ? </s>
 	<s id='3'>Il est vrai qu'elle est grande !</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='26'>
 	<s id='1'>Oh ! </s>
 	<s id='2'>Point du tout.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='27'>
 	<s id='1'>De grâce ! </s>
 	<s id='2'>Parez-moi du titre de votre neveu. </s>
 	<s id='3'>C'est celui qui me flatte le plus.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='28'>
 	<s id='1'>Vous vous moquez ?</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='29'>
 	<s id='1'>Mon cher oncle, voulez-vous que je vous en presse à genoux.</s>
 </p>
-<stage type="[N/A]">Il se met à genoux.</stage>
+<stage type="kneel">Il se met à genoux.</stage>
 <p id='30'>
 	<s id='1'>Monsieur Mathieu, se mettant aussi à genoux, pour le faire relever. </s>
 	<s id='2'>Eh ! </s>
-	<s id='3'>Monsieur le marquis, monsieur le marquis... mon neveu, puisque vous le voulez.</s>
+	<s id='3'>Monsieur le Marquis, Monsieur le Marquis... mon neveu, puisque vous le voulez.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='31'>
 	<s id='1'>Il semble que vous le fassiez malgré vous ?</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='32'>
-	<s id='1'>Non, monsieur...</s>
+	<s id='1'>Non, Monsieur...</s>
 </p>
 <stage type="aparte">À part.</stage>
 <p id='33'>
 	<s id='1'>Le galant homme !</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='34'>
 	<s id='1'>Parlez-moi franchement ; est-ce que vous n'êtes pas content que j'épouse votre nièce ?</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='35'>
 	<s id='1'>Pardonnez-moi.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='36'>
 	<s id='1'>Vous n'avez qu'à dire. </s>
 	<s id='2'>Peut-être protégez-vous Damis ?</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='37'>
-	<s id='1'>Non, monsieur, je vous assure.</s>
+	<s id='1'>Non, Monsieur, je vous assure.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='38'>
 	<s id='1'>Madame Abraham a dû vous dire...</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU, l'interrompant.</speaker>
+<sp stage="interrupt" who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU, l'interrompant.</speaker>
 <p id='39'>
 	<s id='1'>Ma soeur ne m'a rien dit ; et ce n'est que ce matin que le bruit de la ville m'a appris que vous faisiez à ma nièce l'honneur de la rechercher.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='40'>
 	<s id='1'>Que veut dire ceci ? </s>
 	<s id='2'>Quoi ! </s>
 	<s id='3'>Vous ne le savez que de ce matin.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='41'>
-	<s id='1'>Non, monsieur le marquis.</s>
+	<s id='1'>Non, Monsieur le Marquis.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='42'>
 	<s id='1'>Et par un bruit de ville encore ? </s>
 	<s id='2'>Est-il croyable ?...</s>
@@ -3070,16 +3070,16 @@
 	<s id='7'>J'en ai honte pour vous ; et je suis forcé de rabattre plus de la moitié de l'estime que je faisais de vous.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU, à part.</speaker>
+<sp stage="aparte" who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU, à part.</speaker>
 <p id='44'>
 	<s id='1'>Ce courtisan est le plus honnête homme du monde...</s>
 </p>
-<stage type="toward">Au marquis. </stage>
+<stage type="toward">Au Marquis. </stage>
 <p id='45'>
 	<s id='1'>Ma soeur croyait que je n'en valais pas la peine.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='46'>
 	<s id='1'>Je vois bien que c'est à moi à réparer sa faute. </s>
 	<s id='2'>Monsieur Mathieu, j'aime votre nièce ; elle m'aime : sa mère souhaite ardemment de nous voir unis ensemble. </s>
@@ -3087,71 +3087,71 @@
 	<s id='4'>C'est ce soir que nous devons épouser ; mais je vais tout rompre, à cause du mauvais procédé de votre soeur.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='47'>
 	<s id='1'>Eh ! </s>
 	<s id='2'>Non, eh ! </s>
-	<s id='3'>Non, monsieur le marquis, je ne mérite pas...</s>
+	<s id='3'>Non, Monsieur le Marquis, je ne mérite pas...</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS, l'interrompant.</speaker>
+<sp stage="interrupt" who='LE MARQUIS'><speaker>LE MARQUIS, l'interrompant.</speaker>
 <p id='48'>
 	<s id='1'>C'en est fait, je n'y songe plus.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='49'>
-	<s id='1'>Monsieur le marquis, il faut l'excuser.</s>
+	<s id='1'>Monsieur le Marquis, il faut l'excuser.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='50'>
 	<s id='1'>Les mauvaises façons m'ont toujours révolté.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='51'>
-	<s id='1'>Monsieur le marquis, je vous en prie, oubliez cela.</s>
+	<s id='1'>Monsieur le Marquis, je vous en prie, oubliez cela.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='52'>
-	<s id='1'>Non, monsieur Mathieu, ne m'en parlez plus.</s>
+	<s id='1'>Non, Monsieur Mathieu, ne m'en parlez plus.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='53'>
-	<s id='1'>Monsieur le marquis, monsieur le marquis... mon neveu.</s>
+	<s id='1'>Monsieur le Marquis, Monsieur le Marquis... mon neveu.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='54'>
 	<s id='1'>Ah ! Ce nom me désarme. </s>
 	<s id='2'>Madame Abraham vous a obligation, si je tiens ma promesse.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU, à part.</speaker>
+<sp stage="aparte" who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU, à part.</speaker>
 <p id='55'>
 	<s id='1'>Oh ! </s>
 	<s id='2'>Ma foi ! </s>
 	<s id='3'>Voilà un aimable homme !</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='56'>
 	<s id='1'>Embrassez-moi, de grâce ! </s>
 	<s id='2'>Mon cher oncle. </s>
 	<s id='3'>Je cours chez moi écrire à votre nièce et à mes amis ; et, sur le portrait que je leur ferai de vous, je suis sûr qu'ils brûleront de vous connaître. </s>
 	<s id='4'>Adieu, cher oncle.</s>
 </p>
-<stage type="aparte">À part, en s'en allant. </stage>
+<stage type="aparte/away">À part, en s'en allant. </stage>
 <p id='57'>
 		<s id='1'>La bonne pâte d'homme.</s>
 </p>
 </sp>
 </div2>
 <div2 type="scene" n='15'><head>SCÈNE XV.</head>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='1'>
 	<s id='1'>Je suis charmé, transporté, enchanté de ce seigneur ! </s>
 	<s id='2'>Je suis ravi qu'il épouse ma nièce. </s>
@@ -3174,33 +3174,33 @@
 </div1>
 <div1 type="act" n='3'><head>ACTE III</head>
 <div2 type="scene" n='1'><head>SCÈNE I. Madame Abraham, Benjamine, Monsieur Mathieu.</head>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM, à Monsieur Mathieu.</speaker>
+<sp stage="aparte" who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM, à Monsieur Mathieu.</speaker>
 <p id='1'>
 	<s id='1'>Eh bien ! </s>
-	<s id='2'>Mon frère, j'avais grand tort de donner Benjamine à monsieur le Marquis de Moncade ; Damis lui convenait beaucoup mieux : je ne savais ce que je faisais.</s>
+	<s id='2'>Mon frère, j'avais grand tort de donner Benjamine à Monsieur le Marquis de Moncade ; Damis lui convenait beaucoup mieux : je ne savais ce que je faisais.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='2'>
 	<s id='1'>C'est moi, ma soeur, qui ne savais ce que je disais.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='3'>
 	<s id='1'>J'étais une imbécile, une extravagante, une folle, de marier ma fille à un seigneur.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='4'>
 	<s id='1'>Je vous en demande pardon, j'étais un sot.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='5'>
 	<s id='1'>Elle devait être malheureuse avec lui.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='6'>
 	<s id='1'>Prenez cela pour les appréhensions d'un oncle qui aime sa nièce.</s>
 </p>
@@ -3210,15 +3210,15 @@
 	<s id='1'>Je vous en suis obligée, mon oncle.</s>
 </p>	
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU, à Madame Abraham .</speaker>
+<sp stage="toward" who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU, à Madame Abraham.</speaker>
 <p id='8'>
 	<s id='1'>Mon propre exemple, et celui de tant de bourgeois qui se sont mal trouvés de pareilles alliances, me faisaient trembler que ma nièce ne tombât en de méchantes mains. </s>
-	<s id='2'>Cette crainte me faisait regarder monsieur le marquis avec de mauvais yeux. </s>
+	<s id='2'>Cette crainte me faisait regarder Monsieur le Marquis avec de mauvais yeux. </s>
 	<s id='3'>Je me le représentais comme quantité d'autres courtisans, c'est-à-dire, comme un petit maître, étourdi, évaporé, indiscret, dissipateur, méprisant, dédaigneux ; mais, point du tout. </s>
 	<s id='4'>J'ai eu le plaisir de voir que je m'étais trompé ; c'est un jeune seigneur, sage, posé, aimable, plein d'esprit.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='9'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Ah ! </s>
@@ -3230,7 +3230,7 @@
 	<s id='1'>Je suis ravie, mon oncle, que vous en soyez content.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='11'>
 	<s id='1'>Oui, très content, ma chère nièce. </s>
 	<s id='2'>Je jurerais que tu seras avec lui la plus heureuse femme de France. </s>
@@ -3241,12 +3241,12 @@
 	<s id='7'>Je suis enchanté.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='12'>
 	<s id='1'>Vous ne voulez donc plus la déshériter ?</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='13'>
 	<s id='1'>Vous avez entendu comme je viens de dire à Monsieur Pot-De-Vin, son intendant, que je lui assurais tout mon bien ? </s>
 	<s id='2'>Je voudrais avoir cent millions, je les lui donnerais avec plus de plaisir.</s>
@@ -3257,22 +3257,22 @@
 	<s id='1'>Soyez sûr de sa reconnaissance et de la mienne.</s>
 </p>	
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU, à Madame Abraham .</speaker>
+<sp stage="toward" who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU, à Madame Abraham.</speaker>
 <p id='15'>
 	<s id='1'>Je voudrais que vous m'eussiez vu quand je suis entré ici. </s>
 	<s id='2'>Je venais vous quereller. </s>
 	<s id='3'>J'y ai trouvé Damis au désespoir : il m'a encore animé contre vous. </s>
-	<s id='4'>Enfin j'étais dans une colère si grande, que je croyais que j'allais  vous étrangler, vous, Benjamine, et monsieur le marquis même. </s>
+	<s id='4'>Enfin j'étais dans une colère si grande, que je croyais que j'allais vous étrangler, vous, Benjamine, et Monsieur le Marquis même. </s>
 	<s id='5'>Hélas ! </s>
 	<s id='6'>Sitôt qu'il a paru, j'ai senti, peu à peu, que ma colère s'évaporait ; et, à la fin, je me suis voulu un mal incroyable de m'être opposé un seul moment à ce mariage.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='16'>
 	<s id='1'>Je savais bien, moi, que vous reviendriez sur son compte.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='17'>
 	<s id='1'>Mais une chose me tracasse l'esprit.</s>
 </p>
@@ -3282,12 +3282,12 @@
 	<s id='1'>Qu'est-ce, mon oncle ?</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='19'>
 	<s id='1'>C'est que j'ai imprudemment promis ma protection à Damis ; je l'ai envoyé chez moi m'attendre, et je vous avoue qu'il m'embarrasse : je ne sais comment y retourner, ni comment m'en défaire.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='20'>
 	<s id='1'>Quoi ! </s>
 	<s id='2'>Ce n'est que cela ? </s>
@@ -3297,16 +3297,16 @@
 	<s id='6'>Laissez-moi faire ; il n'y a qu'à appeler Marthon.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='21'>
 	<s id='1'>Pourquoi faire ?</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='22'>
 	<s id='1'>Pour le congédier ; elle l'entend à merveille : elle le fera bien vîte déguerpir de votre maison. </s>
 </p>
-<stage type="[N/A]">Appelant.</stage>
+<stage type="loud">Appelant.</stage>
 <p id='23'>
 	<s id='1'>Marthon ? </s>
 	<s id='2'>Bon ! </s>
@@ -3315,24 +3315,24 @@
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Madame Abraham, Benjamine, Monsieur Mathieu, Marthon.</head>
-<sp who='MARTHON'><speaker>MARTHON, à Madame Abraham .</speaker>
+<sp stage="toward" who='MARTHON'><speaker>MARTHON, à Madame Abraham.</speaker>
 <p id='24'>
-	<s id='1'>Madame, voilà le coureur de monsieur le marquis, qui demande à vous parler.</s>
+	<s id='1'>Madame, voilà le coureur de Monsieur le Marquis, qui demande à vous parler.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='25'>
 	<s id='1'>Faites entrer.</s>
 </p>
 </sp>
-<sp who='MARTHON'><speaker>MARTHON, au coureur, en dehors .</speaker>
+<sp stage="toward/location" who='MARTHON'><speaker>MARTHON, au coureur, en dehors.</speaker>
 <p id='26'>
-	<s id='1'>Entrez, monsieur le coureur.</s>
+	<s id='1'>Entrez, Monsieur le coureur.</s>
 </p>
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Madame Abraham, Benjamine, Monsieur Mathieu, Marthon, le coureur.</head>
-<sp who='LE-COUREUR'><speaker>LE COUREUR, à Benjamine.</speaker>
+<sp stage="toward" who='LE-COUREUR'><speaker>LE COUREUR, à Benjamine.</speaker>
 <p id='1'>
 	<s id='1'>Très humbles saluts, Mademoiselle Benjamine.</s>
 </p>
@@ -3350,45 +3350,45 @@
 </p>
 <stage type="toward">À Benjamine, lui donnant un billet. </stage>
 <p id='5'>
-	<s id='1'>Mademoiselle, voilà un billet de monsieur le marquis de Moncade.</s>
+	<s id='1'>Mademoiselle, voilà un billet de Monsieur le Marquis de Moncade.</s>
 </p>
-<stage type="[N/A]">Benjamine prend le billet avec précipitation. </stage>
+<stage type="action/take">Benjamine prend le billet avec précipitation. </stage>
 <p id='6'>
 	<s id='1'>Têtebleu ! </s>
 	<s id='2'>Comme vous prenez cela ? </s>
 	<s id='3'>On voit bien que vous devinez une partie des douceurs qu'il renferme.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='7'>
 	<s id='1'>Tenez, mon ami, voilà un louis d'or pour votre peine.</s>
 </p>
 </sp>
 <sp who='LE-COUREUR'><speaker>LE COUREUR.</speaker>
 <p id='8'>
-	<s id='1'>Grand merci, madame.</s>
+	<s id='1'>Grand merci, Madame.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='9'>
-	<s id='1'>Et en voilà aussi un, pour vous marquer combien j'aime monsieur le marquis.</s>
+	<s id='1'>Et en voilà aussi un, pour vous marquer combien j'aime Monsieur le Marquis.</s>
 </p>
 </sp>
 <sp who='LE-COUREUR'><speaker>LE COUREUR.</speaker>
 <p id='10'>
-	<s id='1'>Grand merci, monsieur.</s>
+	<s id='1'>Grand merci, Monsieur.</s>
 </p>
 <stage type="toward">À Benjamine. </stage>
 <p id='11'>
 	<s id='1'>Et vous, mademoiselle, n'aimez-vous point mon maître ?</s>
 </p>
 </sp>
-<sp who='MARTHON'><speaker>MARTHON, à part.</speaker>
+<sp stage="aparte" who='MARTHON'><speaker>MARTHON, à part.</speaker>
 <p id='12'>
 	<s id='1'>Le drôle y prend goût.</s>
 </p>
 </sp>
-<sp who='LE-COUREUR'><speaker>LE COUREUR, à Benjamine.</speaker>
+<sp stage="toward" who='LE-COUREUR'><speaker>LE COUREUR, à Benjamine.</speaker>
 <p id='13'>
 	<s id='1'>Il est amoureux de vous comme tous les diables.</s>
 </p>
@@ -3404,7 +3404,7 @@
 	<s id='2'>Pour moi, je galope porter cet autre billet chez un duc, des amis de mon maître.</s>
 </p>
 </sp>
-<sp who='BENJAMINE'><speaker>BENJAMINE, à Madame Abraham .</speaker>
+<sp stage="toward" who='BENJAMINE'><speaker>BENJAMINE, à Madame Abraham.</speaker>
 <p id='16'>
 	<s id='1'>Un duc, ma mère !</s>
 </p>
@@ -3412,7 +3412,7 @@
 <sp who='LE-COUREUR'><speaker>LE COUREUR.</speaker>
 <p id='17'>
 	<s id='1'>C'est pour le convier à vos noces. </s>
-	<s id='2'>Votre très humble et  très obéissant.</s>
+	<s id='2'>Votre très humble et très obéissant.</s>
 </p>
 <stage type="toward">À Marthon. </stage>
 <p id='18'>
@@ -3422,17 +3422,17 @@
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Madame Abraham, Benjamine, Monsieur Mathieu, Marthon.</head>
-<sp who='BENJAMINE'><speaker>BENJAMINE, à Monsieur Mathieu, en lui donnant le billet du marquis.</speaker>
+<sp stage="toward/give" who='BENJAMINE'><speaker>BENJAMINE, à Monsieur Mathieu, en lui donnant le billet du Marquis.</speaker>
 <p id='1'>
-	<s id='1'>Tenez, mon oncle, lisez vous-même, afin que vous connaissiez mieux ce que vaut monsieur le marquis.</s>
+	<s id='1'>Tenez, mon oncle, lisez vous-même, afin que vous connaissiez mieux ce que vaut Monsieur le Marquis.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='2'>
 	<s id='1'>Avec plaisir.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='3'>
 	<s id='1'>Je brûle d'entendre ce billet.</s>
 </p>
@@ -3447,61 +3447,61 @@
 	<s id='1'>Tu vas entendre, Marthon.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU, ouvrant le billet, sans voir le dessus, et lisant.</speaker>
+<sp stage="open/read" who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU, ouvrant le billet, sans voir le dessus, et lisant.</speaker>
 <p id='6'>
 	<s id='1'>" Enfin, mon cher duc... " mon cher duc.</s>
 </p>
-<stage type="[N/A]">Il regarde l'adresse.</stage>
+<stage type="action/look">Il regarde l'adresse.</stage>
 <p id='7'>
 	<s id='1'>" À Monsieur, Monsieur le Duc de... "</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='8'>
 	<s id='1'>Vous verrez que le coureur aura fait une méprise.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU, riant.</speaker>
+<sp stage="laugh" who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU, riant.</speaker>
 <p id='9'>
 	<s id='1'>Oui, justement ; il nous a donné le billet qu'il portait à ce duc, ami de son maître. </s>
 	<s id='2'>Peste du butor !</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='10'>
 	<s id='1'>Ne laissons pas de lire, puisqu'il est décacheté.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU, riant.</speaker>
+<sp stage="laugh" who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU, riant.</speaker>
 <p id='11'>
 	<s id='1'>" enfin, mon cher duc, c'est ce soir que je... que je m'encanaille... "</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='12'>
 	<s id='1'>Plaît-il, mon frère ? </s>
 	<s id='2'>Que dites-vous ? </s>
 	<s id='3'>Lisez donc, lisez donc bien.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU, lui donnant le billet.</speaker>
+<sp stage="give" who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU, lui donnant le billet.</speaker>
 <p id='13'>
 	<s id='1'>Lisez mieux vous-même, ma soeur.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM, lisant.</speaker>
+<sp stage="read" who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM, lisant.</speaker>
 <p id='14'>
 	<s id='1'>que je... m'encanaille... "</s>
 </p>
 </sp>
-<sp who='BENJAMINE'><speaker>BENJAMINE, prenant le billet, et lisant .</speaker>
+<sp stage="take/read" who='BENJAMINE'><speaker>BENJAMINE, prenant le billet, et lisant.</speaker>
 <p id='15'>
 	<s id='1'>" que je... m'encanaille... "</s>
 </p>
 </sp>
-<sp who='MARTHON'><speaker>MARTHON, prenant aussi le billet et lisant.</speaker>
+<sp stage="get/read" who='MARTHON'><speaker>MARTHON, prenant aussi le billet et lisant.</speaker>
 <p id='16'>
-	<s id='1'>Oui. " canaille... "</s>
+	<s id='1'>Oui. " Canaille... "</s>
 </p>
 </sp>
 <sp who='BENJAMINE'><speaker>BENJAMINE.</speaker>
@@ -3514,29 +3514,29 @@
 	<s id='1'>Ma foi, j'en tremble pour vous.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU, reprenant le billet.</speaker>
+<sp stage="get" who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU, reprenant le billet.</speaker>
 <p id='19'>
 	<s id='1'>Continuons de lire.</s>
 </p>
 <stage type="read">Il lit. </stage>
 <p id='20'>
 	<s id='1'>" enfin, mon cher duc, c'est ce soir que je m'encanaille. </s>
-	<s id='2'>Ne manque pas de venir à ma noce, et d'y amener le vicomte, le chevalier, le marquis et le gros abbé. </s>
+	<s id='2'>Ne manque pas de venir à ma noce, et d'y amener le vicomte, le chevalier, le Marquis et le gros abbé. </s>
 	<s id='3'>J'ai pris soin de vous assembler un tas d'originaux, qui composent la noble famille où j'entre. </s>
 	<s id='4'>Vous verrez premièrement ma belle-mère, Madame Abraham : vous connaissez tous, pour votre malheur, cette vieille folle... "</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='21'>
 	<s id='1'>L'impertinent !</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU, lisant.</speaker>
+<sp stage="read" who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU, lisant.</speaker>
 <p id='22'>
 	<s id='1'>" Vous verrez ma petite future, Mademoiselle Benjamine, dont le précieux vous fera mourir de rire. "</s>
 </p>
 </sp>
-<sp who='MARTHON'><speaker>MARTHON, à Benjamine.</speaker>
+<sp stage="toward" who='MARTHON'><speaker>MARTHON, à Benjamine.</speaker>
 <p id='23'>
 	<s id='1'>Écoutez ; voilà des vers à votre honneur.</s>
 </p>
@@ -3546,45 +3546,45 @@
 	<s id='1'>Le scélérat !</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU, lisant.</speaker>
+<sp stage="read" who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU, lisant.</speaker>
 <p id='25'>
 	<s id='1'>" Vous verrez mon très honoré oncle, Monsieur Mathieu, qui a poussé la science des nombres jusqu'à savoir combien un écu rapporte par quart-d'heure... "</s>
 </p>
-<stage type="[N/A]">Cessant de lire. </stage>
+<stage type="action">Cessant de lire. </stage>
 <p id='26'>
 	<s id='1'>Le traître !</s>
 </p>
 </sp>
-<sp who='MARTHON'><speaker>MARTHON, à part.</speaker>
+<sp stage="aparte" who='MARTHON'><speaker>MARTHON, à part.</speaker>
 <p id='27'>
 	<s id='1'>Le bon peintre !</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU, lisant.</speaker>
+<sp stage="read" who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU, lisant.</speaker>
 <p id='28'>
 	<s id='1'>" Enfin, vous y verrez un commissaire, un notaire, une accolade de procureurs. </s>
 	<s id='2'>Venez vous réjouir aux dépens de ces animaux-là, et ne craignez point de les trop berner. </s>
 	<s id='3'>Plus la charge sera forte, et mieux ils la porteront. </s>
 	<s id='4'>Ils ont l'esprit le mieux fait du monde, et je les ai mis sur le pied de prendre les brocards des gens de cour pour des compliments. </s>
 	<s id='5'>À ce soir, mon cher duc, je t'embrasse. </s>
-	<s id='6'>Le marquis de Moncade. "</s>
+	<s id='6'>Le Marquis de Moncade. "</s>
 </p>
-<stage type="[N/A]">Après avoir lu. </stage>
+<stage type="action">Après avoir lu. </stage>
 <p id='29'>
 	<s id='1'>Voilà, je vous assure, un méchant homme.</s>
 </p>
 </sp>
-<sp who='MARTHON'><speaker>MARTHON, à part.</speaker>
+<sp stage="aparte" who='MARTHON'><speaker>MARTHON, à part.</speaker>
 <p id='30'>
-	<s id='1'>Je crains bien que nous ne soyons pas emmarquisées.</s>
+	<s id='1'>Je crains bien que nous ne soyons pas emMarquisées.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM, à Monsieur Mathieu .</speaker>
+<sp stage="toward" who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM, à Monsieur Mathieu.</speaker>
 <p id='31'>
 	<s id='1'>Aurait-on pensé cela de lui ?</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='32'>
 	<s id='1'>Après cela, fiez-vous aux courtisans. </s>
 	<s id='2'>Je me serais donné au diable que c'était un honnête-homme. </s>
@@ -3596,7 +3596,7 @@
 	<s id='1'>Ce qui m'en fâche le plus, c'est que vous avez payé cette pillule deux louis d'or au coureur.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='34'>
 	<s id='1'>Quand je lui en aurais donné dix, je ne m'en repentirais pas. </s>
 	<s id='2'>Sa méprise nous fait ouvrir les yeux.</s>
@@ -3609,14 +3609,14 @@
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Madame Abraham, Benjamine, Monsieur Mathieu, Marthon, le coureur.</head>
-<sp who='LE-COUREUR'><speaker>LE COUREUR, à Madame Abraham et à Benjamine .</speaker>
+<sp stage="toward" who='LE-COUREUR'><speaker>LE COUREUR, à Madame Abraham et à Benjamine.</speaker>
 <p id='1'>
 	<s id='1'>Eh ! </s>
 	<s id='2'>Morbleu ! </s>
 	<s id='3'>Mesdames, qu'ai-je fait ? </s>
-	<s id='4'>Voilà votre lettre, et je vous ai donné celle que monsieur le marquis écrivait à un duc de ses amis.</s>
+	<s id='4'>Voilà votre lettre, et je vous ai donné celle que Monsieur le Marquis écrivait à un duc de ses amis.</s>
 </p>
-<stage type="[N/A]">Benjamine prend la nouvelle lettre des mains du coureur, auquel Monsieur Mathieu rend la première. </stage>
+<stage type="action/take">Benjamine prend la nouvelle lettre des mains du coureur, auquel Monsieur Mathieu rend la première. </stage>
 <p id='2'>
 	<s id='1'>Donnez. </s>
 	<s id='2'>Par bonheur le cachet n'est pas rompu ; je vais la raccommoder et la porter en diligence. </s>
@@ -3629,30 +3629,30 @@
 <p id='3'>
 	<s id='1'>Au diable, messager de malheur !</s>
 </p>
-<stage type="[N/A]">Le coureur sort. </stage>
+<stage type="exit">Le coureur sort. </stage>
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Madame Abraham, Benjamine, Monsieur Mathieu, Marthon.</head>
-<sp who='BENJAMINE'><speaker>BENJAMINE, montrant la nouvelle lettre.</speaker>
+<sp stage="show" who='BENJAMINE'><speaker>BENJAMINE, montrant la nouvelle lettre.</speaker>
 <p id='1'>
 	<s id='1'>Je n'ai pas la force d'ouvrir celle-ci.</s>
 </p>
 </sp>
-<sp who='MARTHON'><speaker>MARTHON, la lui prenant .</speaker>
+<sp stage="keep" who='MARTHON'><speaker>MARTHON, la lui prenant.</speaker>
 <p id='2'>
 	<s id='1'>Donnez, donnez-moi. </s>
 	<s id='2'>Ouvrant la lettre. </s>
 	<s id='3'>Or, écoutez.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='3'>
 	<s id='1'>Laisse cela, Marthon. </s>
 	<s id='2'>C'est sans doute quelque nouvelle insulte : mais il n'aura pas le plaisir de se rire encore longtemps de nous. </s>
 	<s id='3'>Son coureur va lui-même le faire donner dans le panneau, et ce soir, en présence de ses amis, il sera la dupe de ses perfidies.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='4'>
 	<s id='1'>Je suis hors de moi.</s>
 </p>
@@ -3662,7 +3662,7 @@
 	<s id='1'>Que faut-il que je devienne ?</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='6'>
 	<s id='1'>Il faut vous raccommoder avec Damis ; il m'attend chez moi.</s>
 </p>
@@ -3676,7 +3676,7 @@
 	<s id='1'>Non, mon oncle ; laissez-moi plutôt ensevelir ma honte dans un couvent.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='9'>
 	<s id='1'>La belle pensée !</s>
 </p>
@@ -3686,7 +3686,7 @@
 	<s id='1'>J'ai rebuté Damis : quelle honte de retourner à lui !</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='11'>
 	<s id='1'>Il sera ravi de vous avoir !</s>
 </p>
@@ -3697,72 +3697,72 @@
 	<s id='2'>Le ferai-je venir ?</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='13'>
 	<s id='1'>Oui, va.</s>
 </p>
 </sp>
-<sp who='MARTHON'><speaker>MARTHON, à part, en sortant.</speaker>
+<sp stage="aparte/exit" who='MARTHON'><speaker>MARTHON, à part, en sortant.</speaker>
 <p id='14'>
-	<s id='1'>Adieu le marquisat ; adieu la Cour.</s>
+	<s id='1'>Adieu le Marquisat ; adieu la Cour.</s>
 </p>
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII. Madame Abraham, Monsieur Mathieu, Benjamine.</head>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM, à Monsieur Mathieu .</speaker>
+<sp stage="toward" who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM, à Monsieur Mathieu.</speaker>
 <p id='1'>
 	<s id='1'>Encore une chose qui me chagrine, mon frère...</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU, l'interrompant.</speaker>
+<sp stage="interrupt" who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU, l'interrompant.</speaker>
 <p id='2'>
 	<s id='1'>Quoi ? </s>
 	<s id='2'>Qu'est-ce ?</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='3'>
-	<s id='1'>C'est que j'ai eu la faiblesse de faire à ce beau marquis un dédit de cent mille francs.</s>
+	<s id='1'>C'est que j'ai eu la faiblesse de faire à ce beau Marquis un dédit de cent mille francs.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='4'>
 	<s id='1'>Cent mille francs ? </s>
 	<s id='2'>Ma soeur, vous craigniez de le manquer.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='5'>
 	<s id='1'>Cela est fait.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='6'>
 	<s id='1'>Il faudra lui donner en paiement les billets que vous avez à lui : aussi bien c'était une dette assez désespérée.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='7'>
 	<s id='1'>J'y songeais.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='8'>
 	<s id='1'>Trop heureuse de ce qu'il ne vous en coûte pas tout votre bien et votre fille !</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='9'>
 	<s id='1'>Que ne vient-il à présent, le perfide !</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='10'>
 	<s id='1'>Non, ma soeur. </s>
 	<s id='2'>Feignons, pour le faire tomber dans le piège que je lui tends.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='11'>
 	<s id='1'>Il vaut donc mieux que je me retire, car je suis outrée ; je ne me posséderais pas. </s>
 	<s id='2'>Je vais envoyer chercher notre cousin le notaire.</s>
@@ -3771,7 +3771,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='8'><head>SCÈNE VIII. Benjamine, Monsieur Mathieu.</head>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='1'>
 	<s id='1'>Vous, Damis va venir ; faites votre paix avec lui... </s>
 	<s id='2'>Le voici déjà. </s>
@@ -3782,11 +3782,11 @@
 <p id='2'>
 	<s id='1'>Restez avec moi, mon oncle...</s>
 </p>
-<stage type="[N/A]">Monsieur Mathieu sort, sans écouter Benjamine. </stage>
+<stage type="exit">Monsieur Mathieu sort, sans écouter Benjamine. </stage>
 </sp>
 </div2>
 <div2 type="scene" n='9'><head>SCÈNE IX.</head>
-<sp who='BENJAMINE'><speaker>BENJAMINE, seule.</speaker>
+<sp stage="allone" who='BENJAMINE'><speaker>BENJAMINE, seule.</speaker>
 <p id='1'>
 	<s id='1'>Que vais-je lui dire ? </s>
 	<s id='2'>Que sa présence m'embarrasse !</s>
@@ -3797,7 +3797,7 @@
 <sp who='DAMIS'><speaker>DAMIS.</speaker>
 <p id='1'>
 	<s id='1'>Enfin, adorable Benjamine, c'en est donc fait ? </s>
-	<s id='2'>Vous épousez le marquis de Moncade ! </s>
+	<s id='2'>Vous épousez le Marquis de Moncade ! </s>
 	<s id='3'>Je vous perds pour toujours... quoi ! </s>
 	<s id='4'>Vous ne daignez pas tourner la vue sur moi ? </s>
 	<s id='5'>Ah ! </s>
@@ -3814,7 +3814,7 @@
 <sp who='DAMIS'><speaker>DAMIS.</speaker>
 <p id='3'>
 	<s id='1'>Non, je vous aimerai toujours, tout infidèle que vous êtes. </s>
-	<s id='2'>Je voudrais que le marquis pût vous offenser, qu'il pût mériter votre haine ; mais non, vous êtes trop belle, trop bonne ; qui pourrait jamais se résoudre à vous déplaire ?</s>
+	<s id='2'>Je voudrais que le Marquis pût vous offenser, qu'il pût mériter votre haine ; mais non, vous êtes trop belle, trop bonne ; qui pourrait jamais se résoudre à vous déplaire ?</s>
 </p>
 </sp>
 <sp who='BENJAMINE'><speaker>BENJAMINE.</speaker>
@@ -3847,7 +3847,7 @@
 <sp who='DAMIS'><speaker>DAMIS.</speaker>
 <p id='9'>
 	<s id='1'>Mon amour, mon coeur. </s>
-	<s id='2'>Oubliez le marquis, oubliez votre infidélité ; et moi, je ne m'en souviens déjà plus.</s>
+	<s id='2'>Oubliez le Marquis, oubliez votre infidélité ; et moi, je ne m'en souviens déjà plus.</s>
 </p>
 </sp>
 <sp who='BENJAMINE'><speaker>BENJAMINE.</speaker>
@@ -3863,15 +3863,15 @@
 	<s id='4'>Je revois en vous cette chère Benjamine, dont la tendresse...</s>
 </p>
 </sp>
-<sp who='BENJAMINE'><speaker>BENJAMINE, l'interrompant.</speaker>
+<sp stage="interrupt" who='BENJAMINE'><speaker>BENJAMINE, l'interrompant.</speaker>
 <p id='12'>
 	<s id='1'>Oui, Damis ; et je ne reverrai jamais qu'en vous ce qui pourra me plaire.</s>
 </p>
-<stage type="[N/A]">Damis lui baise la main. </stage>
+<stage type="action/kiss">Damis lui baise la main. </stage>
 </sp>
 </div2>
 <div2 type="scene" n='11'><head>SCÈNE XI. Benjamine, Monsieur Mathieu, Damis.</head>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU, à Damis.</speaker>
+<sp stage="toward" who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU, à Damis.</speaker>
 <p id='1'>
 	<s id='1'>Ce que je vois me persuade que vous êtes raccommodés. </s>
 	<s id='2'>Eh bien ! </s>
@@ -3889,7 +3889,7 @@
 	<s id='1'>Et moi, pour me faire connaître tout ce que vous valez.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='4'>
 	<s id='1'>Fort bien... </s>
 	<s id='2'>Notre cousin le notaire est ici. </s>
@@ -3897,22 +3897,22 @@
 	<s id='4'>Il travaille à votre contrat de mariage. </s>
 	<s id='5'>Oh ! </s>
 	<s id='6'>Ma foi ! </s>
-	<s id='7'>Monsieur le marquis aura un pied de nez.</s>
+	<s id='7'>Monsieur le Marquis aura un pied de nez.</s>
 </p>
 </sp>
 </div2>
 <div2 type="scene" n='12'><head>SCÈNE XII. Benjamine, Monsieur Mathieu, Damis, Marthon.</head>
-<sp who='MARTHON'><speaker>MARTHON, à Benjamine.</speaker>
+<sp stage="toward" who='MARTHON'><speaker>MARTHON, à Benjamine.</speaker>
 <p id='5'>
-	<s id='1'>Voila monsieur le marquis qui vient ici avec deux seigneurs de ses amis.</s>
+	<s id='1'>Voila Monsieur le Marquis qui vient ici avec deux seigneurs de ses amis.</s>
 </p>
 </sp>
-<sp who='BENJAMINE'><speaker>BENJAMINE, à Monsieur Mathieu.</speaker>
+<sp stage="toward" who='BENJAMINE'><speaker>BENJAMINE, à Monsieur Mathieu.</speaker>
 <p id='6'>
 	<s id='1'>Évitons-les, mon oncle.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='7'>
 	<s id='1'>Oui, vous avez raison. </s>
 	<s id='2'>Il n'est pas encore temps de paraître. </s>
@@ -3938,22 +3938,22 @@
 </sp>
 </div2>
 <div2 type="scene" n='14'><head>SCÈNE XIV. Le Marquis, Le Commandeur, Le Comte, Marthon.</head>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS, au commandeur et au comte .</speaker>
+<sp stage="toward" who='LE MARQUIS'><speaker>LE MARQUIS, au Commandeur et au Comte.</speaker>
 <p id='1'>
 	<s id='1'>Venez, venez, mes amis.</s>
 </p>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE, embrassant Marthon .</speaker>
+<sp stage="kiss" who='LE-COMTE'><speaker>LE COMTE, embrassant Marthon.</speaker>
 <p id='2'>
 	<s id='1'>J'embrasse d'abord...</s>
 </p>
-<stage type="toward">Au marquis. </stage>
+<stage type="toward">Au Marquis. </stage>
 <p id='3'>
-	<s id='1'>Est-ce là ta future, marquis ? </s>
+	<s id='1'>Est-ce là ta future, Marquis ? </s>
 	<s id='2'>Elle est, ma foi, drôle.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='4'>
 	<s id='1'>Eh non ! </s>
 	<s id='2'>Comte, tu te trompes.</s>
@@ -3964,7 +3964,7 @@
 	<s id='1'>C'est à coup sûr quelqu'une de ses parentes.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='6'>
 	<s id='1'>Tout aussi peu, commandeur ; c'est la suivante...</s>
 </p>
@@ -3975,12 +3975,12 @@
 	<s id='3'>Va donc leur dire qu'ils viennent, que ces messieurs brûlent de les voir et de les saluer.</s>
 </p>
 </sp>
-<sp who='MARTHON'><speaker>MARTHON, faisant quelques pas pour s'en aller.</speaker>
+<sp stage="walk/away" who='MARTHON'><speaker>MARTHON, faisant quelques pas pour s'en aller.</speaker>
 <p id='8'>
-	<s id='1'>J'y vais, monsieur.</s>
+	<s id='1'>J'y vais, Monsieur.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS, la rappelant.</speaker>
+<sp stage="call" who='LE MARQUIS'><speaker>LE MARQUIS, la rappelant.</speaker>
 <p id='9'>
 	<s id='1'>St ! St ! </s>
 	<s id='2'>Et mon billet, tu n'en dis rien ? </s>
@@ -3988,12 +3988,12 @@
 	<s id='4'>Ils en sont tous charmés, n'est-ce pas ?</s>
 </p>
 </sp>
-<sp who='MARTHON'><speaker>MARTHON, revenant.</speaker>
+<sp stage="back" who='MARTHON'><speaker>MARTHON, revenant.</speaker>
 <p id='10'>
 	<s id='1'>Assurément. Ils seraient bien difficiles !</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='11'>
 	<s id='1'>Cela est léger, badin. </s>
 	<s id='2'>Damis lui écrivait-il sur ce ton ?</s>
@@ -4004,28 +4004,28 @@
 	<s id='1'>Non, vraiment.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='13'>
 	<s id='1'>À propos de Damis ; il est ici. </s>
 	<s id='2'>Ne sera-t-il pas des nôtres ? </s>
 	<s id='3'>Que Benjamine l'arrête ; je le veux, dis-lui bien.</s>
 </p>
 </sp>
-<sp who='MARTHON'><speaker>MARTHON, à part, en s'en allant.</speaker>
+<sp stage="aparte/exit" who='MARTHON'><speaker>MARTHON, à part, en s'en allant.</speaker>
 <p id='14'>
 	<s id='1'>Quel dommage que de si aimables petits hommes soient si scélérats dans le fond !</s>
 </p>	
 </sp>
 </div2>
 <div2 type="scene" n='15'><head>SCÈNE XV. Le Marquis, Le Commandeur, Le Comte.</head>
-<sp who='LE-COMTE'><speaker>LE COMTE, au marquis .</speaker>
+<sp stage="toward" who='LE-COMTE'><speaker>LE COMTE, au Marquis.</speaker>
 <p id='15'>
 	<s id='1'>Parbleu ! </s>
 	<s id='2'>Marquis, tu me mets-là d'une partie de plaisir des plus singulières ! </s>
 	<s id='3'>Elle est neuve pour moi.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='16'>
 	<s id='1'>Tant mieux. </s>
 	<s id='2'>Elle te piquera davantage.</s>
@@ -4036,12 +4036,12 @@
 	<s id='1'>Aurons-nous des femmes ?</s>
 </p>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE, au marquis .</speaker>
+<sp stage="toward" who='LE-COMTE'><speaker>LE COMTE, au Marquis.</speaker>
 <p id='18'>
 	<s id='1'>Le commandeur va d'abord là.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS, au commandeur.</speaker>
+<sp stage="toward" who='LE MARQUIS'><speaker>LE MARQUIS, au commandeur.</speaker>
 <p id='19'>
 	<s id='1'>Oui ; je t'en promets une légion, tant femmes que filles, et toutes de la parenté. </s>
 	<s id='2'>Ces petites gens peuplent prodigieusement. </s>
@@ -4068,22 +4068,22 @@
 </sp>
 </div2>
 <div2 type="scene" n='16'><head>SCÈNE XVI. Le Marquis, Le Commandeur, Le Comte, un Commissaire, Marthon.</head>
-<sp who='MARTHON'><speaker>MARTHON, au marquis.</speaker>
+<sp stage="toward" who='MARTHON'><speaker>MARTHON, au Marquis.</speaker>
 <p id='1'>
 	<s id='1'>Monsieur le Marquis, la compagnie va venir.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS, bas, en montrant le commissaire .</speaker>
+<sp stage="low/shom" who='LE MARQUIS'><speaker>LE MARQUIS, bas, en montrant le commissaire.</speaker>
 <p id='2'>
 	<s id='1'>Qu'est-ce déjà que ce visage-là ?</s>
 </p>
 </sp>
-<sp who='MARTHON'><speaker>MARTON, bas.</speaker>
+<sp stage="low" who='MARTHON'><speaker>MARTON, bas.</speaker>
 <p id='3'>
-	<s id='1'>C'est monsieur le Commissaire, un beau-frère de feu Monsieur Abraham.</s>
+	<s id='1'>C'est Monsieur le Commissaire, un beau-frère de feu Monsieur Abraham.</s>
 </p>	
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS, bas, au Commandeur et au Comte.</speaker>
+<sp stage="low/toward" who='LE MARQUIS'><speaker>LE MARQUIS, bas, au Commandeur et au Comte.</speaker>
 <p id='4'>
 	<s id='1'>Apprêtez-vous, mes amis ; voilà déjà un de nos acteurs.</s>
 </p>
@@ -4092,32 +4092,32 @@
 	<s id='1'>Soyez le bienvenu, mon oncle le Commissaire.</s>
 </p>
 </sp>
-<sp who='MARTHON'><speaker>MARTON, à part.</speaker>
+<sp stage="aparte" who='MARTHON'><speaker>MARTON, à part.</speaker>
 <p id='6'>
 	<s id='1'>Je m'apprête à bien rire.</s>
 </p>
 </sp>
 <sp who='LE-COMMISSAIRE'><speaker>LE COMMISSAIRE.</speaker>
 <p id='7'>
-	<s id='1'>Monsieur le marquis...</s>
+	<s id='1'>Monsieur le Marquis...</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS, au commandeur et au comte.</speaker>
+<sp stage="toward" who='LE MARQUIS'><speaker>LE MARQUIS, au Commandeur et au Comte.</speaker>
 <p id='8'>
 	<s id='1'>Commandeur, comte, embrassez donc mon oncle le commissaire.</s>
 </p>
 </sp>
-<sp who='LE-COMMANDEUR'><speaker>LE COMMANDEUR, embrassant le commissaire.</speaker>
+<sp stage="kiss" who='LE-COMMANDEUR'><speaker>LE COMMANDEUR, embrassant le commissaire.</speaker>
 <p id='9'>
 	<s id='1'>Embrassons.</s>
 </p>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE, embrassant aussi le commissaire.</speaker>
+<sp stage="kiss" who='LE-COMTE'><speaker>LE COMTE, embrassant aussi le commissaire.</speaker>
 <p id='10'>
 	<s id='1'>De tout mon coeur.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='11'>
 	<s id='1'>Il peut vous rendre service.</s>
 </p>
@@ -4127,10 +4127,10 @@
 	<s id='1'>Je le souhaiterais.</s>
 </p>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE, au marquis .</speaker>
+<sp stage="toward" who='LE-COMTE'><speaker>LE COMTE, au Marquis.</speaker>
 <p id='13'>
 	<s id='1'>Oh ! </s>
-	<s id='2'>Je connais monsieur le commissaire ; c'est un galant. </s>
+	<s id='2'>Je connais Monsieur le commissaire ; c'est un galant. </s>
 	<s id='3'>Tel que vous le voyez, il semble qu'il n'y touche pas.</s>
 </p>
 </sp>
@@ -4139,7 +4139,7 @@
 	<s id='1'>Monsieur, en vérité...</s>
 </p>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE, l'interrompant .</speaker>
+<sp stage="interrupt" who='LE-COMTE'><speaker>LE COMTE, l'interrompant.</speaker>
 <p id='15'>
 	<s id='1'>Il n'y a pas longtemps que je lui ai soufflé une petite fille, auprès de qui il avait déjà fait de la dépense.</s>
 </p>
@@ -4154,26 +4154,26 @@
 	<s id='1'>Oui, une maîtresse est une bagatelle pour un commissaire ; il est à la source.</s>
 </p>
 </sp>
-<sp who='MARTHON'><speaker>MARTON, à part.</speaker>
+<sp stage="aparte" who='MARTHON'><speaker>MARTON, à part.</speaker>
 <p id='18'>
 	<s id='1'>Voilà un pauvre diable en bonne main.</s>
 </p>
 </sp>
 </div2>
 <div2 type="scene" n='17'><head>SCÈNE XVII. Madame Abraham, Benjamine, Monsieur Mathieu, Damis, Le Marquis, Le Commandeur, Le Comte, Le Commissaire, Marthon.</head>
-<sp who='MARTHON'><speaker>MARTHON, au marquis, au commandeur et au comte .</speaker>
+<sp stage="toward" who='MARTHON'><speaker>MARTHON, au Marquis, au commandeur et au comte.</speaker>
 <p id='1'>
 	<s id='1'>Messieurs, voici toute la noce qui arrive.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>MONSIEUR MATHIEU, à Madame Abraham .</speaker>
+<sp stage="toward" who='MONSIEUR MATHIEU'><speaker>MONSIEUR MATHIEU, à Madame Abraham.</speaker>
 <p id='2'>
 	<s id='1'>Ne disons rien, tous tant que nous sommes. </s>
 	<s id='2'>Laissons-leur faire toutes leurs impertinences. </s>
 	<s id='3'>Nous aurons bientôt notre revanche. Il va être bien pris.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS, à Madame Abraham .</speaker>
+<sp stage="toward" who='LE MARQUIS'><speaker>LE MARQUIS, à Madame Abraham.</speaker>
 <p id='3'>
 	<s id='1'>Ah ! Madame Abraham... </s>
 </p>
@@ -4182,24 +4182,24 @@
 	<s id='1'>Allons, commandeur, comte, je vous les présente ; faites-leur politesse, je vous en prie.</s>
 </p>
 </sp>
-<sp who='LE-COMMANDEUR'><speaker>LE COMMANDEUR, à Madame Abraham, en l'embrassant.</speaker>
+<sp stage="toward/kiss" who='LE-COMMANDEUR'><speaker>LE COMMANDEUR, à Madame Abraham, en l'embrassant.</speaker>
 <p id='5'>
 	<s id='1'>Madame Abraham, c'est par vous que je commence. </s>
 	<s id='2'>Sans rancune.</s>
 </p>
-<stage type="[N/A]">Il embrasse ensuite Benjamine.</stage>
+<stage type="action/kiss">Il embrasse ensuite Benjamine.</stage>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='6'>
 	<s id='1'>Elle m'a promis qu'elle ne te rançonnerait plus.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM, à part.</speaker>
+<sp stage="aparte" who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM, à part.</speaker>
 <p id='7'>
 	<s id='1'>J'ai bien de la peine à me contraindre.</s>
 </p>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE, à Madame Abraham, en l'embrassant.</speaker>
+<sp stage="toward/kiss" who='LE-COMTE'><speaker>LE COMTE, à Madame Abraham, en l'embrassant.</speaker>
 <p id='8'>
 	<s id='1'>À moi, Madame Abraham. </s>
 	<s id='2'>Morbleu ! </s>
@@ -4208,7 +4208,7 @@
 	<s id='5'>Vous allez être la femme du royaume la mieux engendrée.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='9'>
 	<s id='1'>À ma future.</s>
 </p>
@@ -4222,19 +4222,19 @@
 <p id='11'>
 	<s id='1'>Et moi, je la garde pour la bonne bouche, et je cours à ce gros père aux écus... </s>
 </p>
-<stage type="[N/A]">Montrant Monsieur Mathieu.</stage>
+<stage type="action/show">Montrant Monsieur Mathieu.</stage>
 <p id='12'>
 	<s id='1'>Morbleu ! </s>
 	<s id='2'>Il a l'encolure d'être tout cousu d'or. </s>
 </p>
-<stage type="[N/A]">Il embrasse Monsieur Mathieu. </stage>
+<stage type="kiss">Il embrasse Monsieur Mathieu. </stage>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='13'>
 	<s id='1'>C'est mon très cher oncle, Monsieur Mathieu.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>MONSIEUR MATHIEU, à part.</speaker>
+<sp stage="aparte" who='MONSIEUR MATHIEU'><speaker>MONSIEUR MATHIEU, à part.</speaker>
 <p id='14'>
 	<s id='1'>Tu ne seras pas mon très cher neveu.</s>
 </p>
@@ -4243,34 +4243,34 @@
 <p id='15'>
 	<s id='1'>Que je vous embrasse aussi, Monsieur Mathieu...</s>
 </p>
-<stage type="[N/A]">Il l'embrasse. </stage>
+<stage type="kiss">Il l'embrasse. </stage>
 <p id='16'>
 	<s id='1'>Il y a longtemps que je cherchais à être en liaison avec vous. </s>
 	<s id='2'>Toute la cour vous connaît pour un homme d'un bon commerce, pour un homme de crédit.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='17'>
 	<s id='1'>Cela me fait bien du plaisir.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS, au commandeur et au comte, en leur montrant Damis.</speaker>
+<sp stage="toward/show" who='LE MARQUIS'><speaker>LE MARQUIS, au commandeur et au comte, en leur montrant Damis.</speaker>
 <p id='18'>
 	<s id='1'>Et mon petit cousin le conseiller, messieurs, ne lui direz-vous rien ?</s>
 </p>
 </sp>
-<sp who='MARTHON'><speaker>MARTHON, à part.</speaker>
+<sp stage="aparte" who='MARTHON'><speaker>MARTHON, à part.</speaker>
 <p id='19'>
 	<s id='1'>Je m'étonnais qu'il l'oubliât.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS, au Commandeur et au Comte.</speaker>
+<sp stage="toward" who='LE MARQUIS'><speaker>LE MARQUIS, au Commandeur et au Comte.</speaker>
 <p id='20'>
 	<s id='1'>Si vous avez des procès, il vous les jugera. </s>
 	<s id='2'>Saluez-le donc, allons.</s>
 </p>
 </sp>
-<sp who='LE-COMMANDEUR'><speaker>LE COMMANDEUR, embrassant Damis.</speaker>
+<sp stage="kiss" who='LE-COMMANDEUR'><speaker>LE COMMANDEUR, embrassant Damis.</speaker>
 <p id='21'>
 	<s id='1'>De toute mon âme. </s>
 </p>
@@ -4279,32 +4279,32 @@
 	<s id='1'>À toi la balle, Comte.</s>
 </p>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE, embrassant Damis.</speaker>
+<sp stage="kiss" who='LE-COMTE'><speaker>LE COMTE, embrassant Damis.</speaker>
 <p id='23'>
 	<s id='1'>J'y suis, Commandeur.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='24'>
 	<s id='1'>C'est le meilleur petit caractère que je connaisse. </s>
 	<s id='2'>J'épouse sa maîtresse ; eh bien ! </s>
 	<s id='3'>Il soutient cela en héros.</s>
 </p>
 </sp>
-<sp who='DAMIS'><speaker>DAMIS, à part.</speaker>
+<sp stage="aparte" who='DAMIS'><speaker>DAMIS, à part.</speaker>
 <p id='25'>
 	<s id='1'>Nous verrons.</s>
 </p>
 </sp>
-<sp who='LE-COMMANDEUR'><speaker>LE COMMANDEUR, au Marquis.</speaker>
+<sp stage="toward" who='LE-COMMANDEUR'><speaker>LE COMMANDEUR, au Marquis.</speaker>
 <p id='26'>
 	<s id='1'>Malepeste ! </s>
 	<s id='2'>Cela s'appelle savoir prendre son parti.</s>
 </p>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE, allant embrasser Benjamine.</speaker>
+<sp stage="kiss" who='LE-COMTE'><speaker>LE COMTE, allant embrasser Benjamine.</speaker>
 <p id='27'>
-	<s id='1'>J'en suis à madame la marquise.</s>
+	<s id='1'>J'en suis à Madame la Marquise.</s>
 </p>
 </sp>
 <sp who='BENJAMINE'><speaker>BENJAMINE.</speaker>
@@ -4315,10 +4315,10 @@
 <sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
 <p id='29'>
 	<s id='1'>Oh ! </s>
-	<s id='2'>Pardonnez-moi, et si monsieur le marquis ne vous épousait pas, je vous épouserais, moi.</s>
+	<s id='2'>Pardonnez-moi, et si Monsieur le Marquis ne vous épousait pas, je vous épouserais, moi.</s>
 </p>
 </sp>
-<sp who='BENJAMINE'><speaker>BENJAMINE, à part.</speaker>
+<sp stage="aparte" who='BENJAMINE'><speaker>BENJAMINE, à part.</speaker>
 <p id='30'>
 	<s id='1'>Je mérite bien cela.</s>
 </p>
@@ -4328,7 +4328,7 @@
 	<s id='1'>N'avons-nous plus personne à haranguer ?</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='32'>
 	<s id='1'>Non, si ce n'est Marthon.</s>
 </p>
@@ -4342,7 +4342,7 @@
 <p id='34'>
 	<s id='1'>Viens çà.</s>
 </p>
-<stage type="[N/A]">Il embrasse Marthon. </stage>
+<stage type="kiss">Il embrasse Marthon. </stage>
 </sp>
 <sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
 <p id='35'>
@@ -4354,19 +4354,19 @@
 	<s id='1'>Elle a une mine libertine qui me plaît.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='37'>
 	<s id='1'>Sa mine n'est point trompeuse, je gage.</s>
 </p>	
 </sp>
-<sp who='MARTHON'><speaker>MARTHON, à part.</speaker>
+<sp stage="aparte" who='MARTHON'><speaker>MARTHON, à part.</speaker>
 <p id='38'>
 	<s id='1'>Voilà pour moi.</s>
 </p>
 </sp>
 </div2>
 <div2 type="scene" n='18'><head>SCÈNE XVIII. Madame Abraham, Benjamine, Monsieur Mathieu, Damis, Le Marquis, Le Commandeur, Le Comte, Le Commissaire, Marthon, Le Notaire.</head>
-<sp who='MONSIEUR-MATHIEU'><speaker>MONSIEUR MATHIEU, à Madame Abraham.</speaker>
+<sp stage="aparte" who='MONSIEUR MATHIEU'><speaker>MONSIEUR MATHIEU, à Madame Abraham.</speaker>
 <p id='1'>
 	<s id='1'>À notre tour. </s>
 	<s id='2'>Nous allons voir beau jeu.</s>
@@ -4376,7 +4376,7 @@
 	<s id='1'>Approchez, mon cousin le notaire.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS, au commandeur et au comte.</speaker>
+<sp stage="toward" who='LE MARQUIS'><speaker>LE MARQUIS, au Commandeur et au Comte.</speaker>
 <p id='3'>
 	<s id='1'>Il vient fort bien. </s>
 	<s id='2'>Embrassons mon cousin le conseiller garde-note. </s>
@@ -4388,7 +4388,7 @@
 	<s id='1'>Laissons-là ma physionomie, messieurs. </s>
 	<s id='2'>Vous vous moquez de moi, sans doute ; mais il n'est pas temps de rire. </s>
 </p>
-<stage type="[N/A]">Montrant un contrat. </stage>
+<stage type="show">Montrant un contrat. </stage>
 <p id='5'>
 	<s id='1'>Voilà le contrat qu'il est question de signer.</s>
 </p>
@@ -4398,36 +4398,36 @@
 	<s id='1'>Monsieur le notaire a raison. </s>
 	<s id='2'>Oui, signons ; nous rirons bien davantage après.</s>
 </p>
-<stage type="[N/A]">Tout le monde signe.</stage>
+<stage type="write">Tout le monde signe.</stage>
 </sp>
-<sp who='DAMIS'><speaker>DAMIS, au marquis, au commandeur et au comte .</speaker>
+<sp stage="toward" who='DAMIS'><speaker>DAMIS, au Marquis, au Commandeur et au Comte.</speaker>
 <p id='7'>
 	<s id='1'>Souffrez qu'à mon tour, messieurs, je vous prie à ma noce.</s>
 </p>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE, riant.</speaker>
+<sp stage="laugh" who='LE-COMTE'><speaker>LE COMTE, riant.</speaker>
 <p id='8'>
 	<s id='1'>Plaît-il ?</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS, à Damis, en riant.</speaker>
+<sp stage="toward/laugh" who='LE MARQUIS'><speaker>LE MARQUIS, à Damis, en riant.</speaker>
 <p id='9'>
 	<s id='1'>Comment ! </s>
 	<s id='2'>Comment ! </s>
 	<s id='3'>Qu'est-ce à dire ?</s>
 </p>
 </sp>
-<sp who='LE-COMMANDEUR'><speaker>LE COMMANDEUR, riant.</speaker>
+<sp stage="laugh" who='LE-COMMANDEUR'><speaker>LE COMMANDEUR, riant.</speaker>
 <p id='10'>
 	<s id='1'>Il y a du malentendu.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM, au marquis.</speaker>
+<sp stage="toward" who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM, au Marquis.</speaker>
 <p id='11'>
-	<s id='1'>Cela veut dire, monsieur le marquis, qu'il y a longtemps que nous vous servons de jouet.</s>
+	<s id='1'>Cela veut dire, Monsieur le Marquis, qu'il y a longtemps que nous vous servons de jouet.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='12'>
 	<s id='1'>Je ne vous entends pas. </s>
 	<s id='2'>Expliquez-moi cette énigme ?</s>
@@ -4437,30 +4437,30 @@
 <p id='13'>
 	<s id='1'>Le mot de l'énigme est que votre coureur a donné par méprise, ou peut-être par malice, à mademoiselle...</s>
 </p>
-<stage type="[N/A]">Montrant Benjamine.</stage>
+<stage type="show">Montrant Benjamine.</stage>
 <p id='14'>
 	<s id='1'>Une lettre que vous écriviez à un duc de vos amis.</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM, au marquis.</speaker>
+<sp stage="toward" who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM, au Marquis.</speaker>
 <p id='15'>
 	<s id='1'>Et que je ne veux pas que vous vous encanailliez.</s>
 </p>
 </sp>
-<sp who='LE-COMMANDEUR'><speaker>LE COMMANDEUR, au marquis, en riant .</speaker>
+<sp stage="toward/laugh" who='LE-COMMANDEUR'><speaker>LE COMMANDEUR, au Marquis, en riant.</speaker>
 <p id='16'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Ah ! </s>
 	<s id='3'>Marquis, tu ne seras pas marié ?</s>
 </p>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE, au marquis.</speaker>
+<sp stage="toxard" who='LE-COMTE'><speaker>LE COMTE, au Marquis.</speaker>
 <p id='17'>
 	<s id='1'>Il ne faut, morbleu ! </s>
 	<s id='2'>Pas en avoir le démenti.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='18'>
 	<s id='1'>Parbleu ! </s>
 	<s id='2'>Mes amis, voilà une royale femme que Madame Abraham. </s>
@@ -4474,25 +4474,25 @@
 	<s id='3'>Mais vous paierez le dédit, n'est-ce pas ?</s>
 </p>
 </sp>
-<sp who='MADAME-ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
+<sp who='MADAME ABRAHAM'><speaker>MADAME ABRAHAM.</speaker>
 <p id='20'>
 	<s id='1'>Il le faut bien, puisque j'ai été assez sotte pour le faire. </s>
 	<s id='2'>Monsieur, je vous rendrai, pour m'acquitter, les billets que j'ai à vous.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <p id='21'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Madame Abraham, vous me donnez là de mauvais effets. </s>
 	<s id='3'>Composons à moitié de profit, argent comptant.</s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
+<sp who='MONSIEUR MATHIEU'><speaker>Monsieur MATHIEU.</speaker>
 <p id='22'>
 	<s id='1'>Non, Monsieur, c'est assez perdre.</s>
 </p>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS, à Madame Abraham .</speaker>
+<sp stage="toward" who='LE MARQUIS'><speaker>LE MARQUIS, à Madame Abraham.</speaker>
 <p id='23'>
 	<s id='1'>Adieu, Madame Abraham.</s>
 </p>
@@ -4517,18 +4517,18 @@
 </sp>
 </div2>
 <div2 type="scene" n='19'><head>SCÈNE XIX. Madame Abraham, Benjamine, Monsieur Mathieu, Damis, le commissaire, le notaire, Marthon.</head>
-<sp who='MARTHON'><speaker>MARTHON, à Madame Abraham.</speaker>
+<sp stage="toward" who='MARTHON'><speaker>MARTHON, à Madame Abraham.</speaker>
 <p id='1'>
 	<s id='1'>Ah bien ! </s>
 	<s id='2'>Vous vous promettiez de le berner ; c'est encore lui qui se moque de vous. </s>
 </p>
 </sp>
-<sp who='MONSIEUR-MATHIEU'><speaker>MONSIEUR MATHIEU, à Madame Abraham, à Benjamine, à Damis, au commissaire et au notaire.</speaker>
+<sp stage="toward" who='MONSIEUR MATHIEU'><speaker>MONSIEUR MATHIEU, à Madame Abraham, à Benjamine, à Damis, au commissaire et au notaire.</speaker>
 <p id='2'>
 	<s id='1'>Allons, allons achever le mariage, et nous réjouir de l'avoir échappé belle.</s>
 </p>
 </sp>
-<sp who='MARTHON'><speaker>MARTHON, au public.</speaker>
+<sp stage="toward" who='MARTHON'><speaker>MARTHON, au public.</speaker>
 <p id='3'>
 	<s id='1'>Et vous, messieurs, s'il vous semble que ce soit ici une bonne école, venez y rire.</s>
 </p>

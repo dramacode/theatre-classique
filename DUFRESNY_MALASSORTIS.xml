@@ -66,7 +66,7 @@
 </front>
 <body>
 <div1 type="act" n='1'><head>ACTE I. </head>
-<div2 type="scene" n='1'><head>SCÈNE I.  Arlequin gouverneur de l'île, Colombine.</head>
+<div2 type="scene" n='1'><head>SCÈNE I. Arlequin gouverneur de l'île, Colombine.</head>
 <stage type="decor">Le théâtre représente une île en Espagne.</stage>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
 <p id='1'>
@@ -481,7 +481,7 @@
 	<s id='3'>Si mes sours me voyaient : elles en voudraient avoir de même. </s>
 </p>
 </sp>
-<stage type="[N/A]">Toutes les filles appellent Pierrot. L'une lui demandent une aiguière, l'autre le pot à la pommade : une autre sa robe de chambre, une autre le miroir, une autre du rouge. Pierrot qui veut les servir toutes, s'embarrasse, tombe en courant d'un côté et d'un autre, et s'en va tout en colère. </stage>
+<stage type="ask/fall/anger">Toutes les filles appellent Pierrot. L'une lui demandent une aiguière, l'autre le pot à la pommade : une autre sa robe de chambre, une autre le miroir, une autre du rouge. Pierrot qui veut les servir toutes, s'embarrasse, tombe en courant d'un côté et d'un autre, et s'en va tout en colère. </stage>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Arlequin, Les Filles. </head>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN, à part. </speaker>
@@ -509,7 +509,7 @@
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
 <p id='5'>
 	<s id='1'>Quelles mamelles ! </s>
-	<s id='2'>Où sont donc les petits marcassins ?  </s>
+	<s id='2'>Où sont donc les petits marcassins ? </s>
 </p>
 <stage type="aparte">À part. </stage>
 <p id='6'>
@@ -880,7 +880,7 @@
 <p id='38'>
 	<s id='1'>Il n'y a point d'armure à toute épreuve de la rage d'une femme.</s>
 </p>
-<stage type="mezzo voce">Bas.</stage>
+<stage type="low">Bas.</stage>
 <p id='39'>
 	<s id='1'>Qui hait son mari. </s>
 </p>
@@ -925,7 +925,7 @@
 <div1 type="act" n='2'><head>ACTE II</head>
 <div2 type="scene" n='1'><head>SCÈNE I. Arlequin, l'Hymen.</head>
 <stage type="decor">Le théâtre représente la salle des Mal-Assortis. </stage>
-<stage type="[N/A]">On voit l'Hymen au milieu de quantité de maris et de femmes  qui se tournent le dos, et qui rechignent l'une contre l'autre. L'Hymen est assis sous un arbre sec, tout plein d'oiseaux de mauvaise augure, comme coucous, hiboux, chauves-souris, etc. La symphonie joue un air fort triste.</stage>
+<stage type="[N/A]">On voit l'Hymen au milieu de quantité de maris et de femmes qui se tournent le dos, et qui rechignent l'une contre l'autre. L'Hymen est assis sous un arbre sec, tout plein d'oiseaux de mauvaise augure, comme coucous, hiboux, chauves-souris, etc. La symphonie joue un air fort triste.</stage>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
 	<l id='7'>Ô Hymen, protecteur du chagrin domestique, </l>
 <note type="L">Climatérique : Qui appartient à un des âges de la vie regardés comme critiques. [L]</note>
@@ -975,10 +975,10 @@
 	<l id='43'>On peut troquer de femme en dépit de l'usage...</l>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
-	<l id='44' part='i'>Qui êtes-vous, l'ami ?</l>
+	<l id='44' part="i">Qui êtes-vous, l'ami ?</l>
 </sp>
 <sp who='LE-CABARETIER'><speaker>LE CABARETIER.</speaker>
-	<l id='44' part='f'>Je suis cabaretier </l>
+	<l id='44' part="f">Je suis cabaretier </l>
 	<l id='45'>De mon métier. </l>
 	<l id='46'>Mais grâce à sa laideur, j'ai bien peu de pratique. </l>
 	<l id='47'>Autrefois les buveurs de clique, </l>
@@ -1005,10 +1005,10 @@
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
 	<l id='63'>Patience, madame, un peu de patience, </l>
-	<l id='64' part='i'>Laissez parler, Monsieur. </l>
+	<l id='64' part="i">Laissez parler, Monsieur. </l>
 </sp>
 <sp who='LA-COQUETTE'><speaker>LA COQUETTE.</speaker>
-	<l id='64' part='f'>Je vais m'évanouir </l>
+	<l id='64' part="f">Je vais m'évanouir </l>
 	<l id='65'>Si vous ne m'écoutez. Je ne puis plus souffrir </l>
 	<l id='66'>Cette chaîne </l>
 	<l id='67'>Qui me gêne, </l>
@@ -1035,10 +1035,10 @@
 <sp who='ARLEQUIN'><speaker>ARLEQUIN, au procureur.</speaker>
 	<l id='79'>Laissez-moi l'entendre. </l>
 	<l id='80'>Vous pourrez vous défendre </l>
-	<l id='81'  part='i'>Quand elle aura tout dit. </l>
+	<l id='81' part="i">Quand elle aura tout dit. </l>
 </sp>
 <sp who='LE-PROCUREUR'><speaker>LE PROCUREUR.</speaker>
-	<l id='81' part='f'>J'attendrai donc longtemps. </l>
+	<l id='81' part="f">J'attendrai donc longtemps. </l>
 </sp>
 <sp who='LA-COQUETTE'><speaker>LA COQUETTE.</speaker>
 	<l id='82'>Oui, oui, je parlerai, et l'on verra comment </l>
@@ -1110,10 +1110,10 @@
 	<l id='122'>Ce n'est pas aux marchands qu'elle fait les avances. </l>
 </sp>
 <sp who='LE-PROCUREUR'><speaker>LE PROCUREUR.</speaker>
-	<l id='123' part='i'>Si vous saviez... </l>
+	<l id='123' part="i">Si vous saviez... </l>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
-	<l id='123' part='f'>J'en sais plus qu'il n'en faut. </l>
+	<l id='123' part="f">J'en sais plus qu'il n'en faut. </l>
 <stage type="toward">Au Procureur. </stage>
 	<l id='124'>Et vous maître nigaud, </l>
 	<l id='125'>Qui semblez mépriser l'aiguillon qui vous pique, </l>
@@ -1131,10 +1131,10 @@
 	<l id='133'>Qui du diable n'a pas tout à fait la figure, </l>
 	<l id='134'>Mais qui dans peu de jours en aura la coiffure. </l>
 	<l id='135'>C'est vous que je destine... </l>
-	<l id='136' part='i'>Au Cabaretier. </l>
+	<l id='136' part="i">Au Cabaretier. </l>
 </sp>
 <sp who='LA-COQUETTE'><speaker>LA COQUETTE.</speaker>
-	<l id='136' part='f'>À moi, monsieur, à moi, </l>
+	<l id='136' part="f">À moi, monsieur, à moi, </l>
 	<l id='137'>Un mari de si bas aloi, </l>
 	<l id='138'>À moi, qui d'un sergent suis l'unique héritière ! </l>
 	<l id='139'>Le Cabaretier à la coquette. </l>
@@ -1174,10 +1174,10 @@
 	<l id='161'>Je crois que vous prenez vos roses et vos lys </l>
 <note type="L">Rubis : Rubis, se dit de la couleur vermeille du vin. Les poètes appellent aussi les raisins, les grains de raisin, des rubis de Bacchus. [T]</note>
 	<l id='162'>Chez le même épicier où je prends mes rubis. </l>
-	<l id='163' part='i'>Ce teint n'est point clair net. </l>
+	<l id='163' part="i">Ce teint n'est point clair net. </l>
 </sp>
 <sp who='LA-COQUETTE'><speaker>LA COQUETTE.</speaker>
-	<l id='163' part='f'>Si son effronterie... </l>
+	<l id='163' part="f">Si son effronterie... </l>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
 	<l id='164'>Ou taisez-vous, ou je vous remarie </l>
@@ -1185,18 +1185,18 @@
 	<l id='166'>Que vous troquiez tous deux. </l>
 </sp>
 <sp who='LE-PROCUREUR'><speaker>LE PROCUREUR.</speaker>
-	<l id='167' part='i'>Monsieur...</l>
+	<l id='167' part="i">Monsieur...</l>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
-	<l id='167' part='f'>Vous êtes trop heureux </l>
+	<l id='167' part="f">Vous êtes trop heureux </l>
 	<l id='168'>D'avoir une femme qui vous convienne. </l>
 </sp>
 <sp who='LE-PROCUREUR'><speaker>LE PROCUREUR.</speaker>
 	<l id='169'>Je l'aime encor mieux que la mienne. </l>
-	<l id='170' part='i'>Toute laide qu'elle est. </l>
+	<l id='170' part="i">Toute laide qu'elle est. </l>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN, au procureur. </speaker>
-	<l id='170' part='f'>Apprenez aujourd'hui, </l>
+	<l id='170' part="f">Apprenez aujourd'hui, </l>
 	<l id='171'>Qu'un procureur ne doit avoir chez lui </l>
 	<l id='172'>Que pain moisi, vin détestable, </l>
 	<l id='173'>Et femme laide comme un diable, </l>
@@ -1421,15 +1421,15 @@
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='206'>Vraiment, monsieur, si j'étais refusée, </l>
-	<l id='207' part='i'>Et que mon mari sut... </l>
+	<l id='207' part="i">Et que mon mari sut... </l>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
-	<l id='207' part='f'>La petite rusée ! </l>
+	<l id='207' part="f">La petite rusée ! </l>
 	<l id='208'>Que j'ai de curiosité </l>
-	<l id='209' part='i'>De voir...</l>
+	<l id='209' part="i">De voir...</l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
-	<l id='209' part='f'>Oh, n'usez point de votre autorité.</l>
+	<l id='209' part="f">Oh, n'usez point de votre autorité.</l>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
 	<l id='210'>Découvrez-moi votre visage.</l>
@@ -1469,10 +1469,10 @@
 	<l id='232'>Vous a-t-il refusé quelque habit magnifique ?</l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
-	<l id='233' part='i'>Six mois, monsieur, six mois.</l>
+	<l id='233' part="i">Six mois, monsieur, six mois.</l>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
-	<l id='233' part='f'>La chose est sans explique, </l>
+	<l id='233' part="f">La chose est sans explique, </l>
 	<l id='234'>Cependant il faudrait savoir de votre époux, </l>
 	<l id='235'>S'il est aussi las d'être à vous.</l>
 </sp>
@@ -1480,25 +1480,25 @@
 	<l id='236'>Ah ! Si vous l'écoutez, monsieur, je suis perdue. </l>
 	<l id='237'>Il consentira qu'on le tue, </l>
 	<l id='238'>Plutôt que de rompre des nouds </l>
-	<l id='239' part='i'>Qui font tout son bonheur.</l>
+	<l id='239' part="i">Qui font tout son bonheur.</l>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
-	<l id='239' part='f'>Il est bien malheureux </l>
+	<l id='239' part="f">Il est bien malheureux </l>
 	<l id='240'>D'aimer une ingrate. </l>
 	<l id='241'>Madame, votre affaire est un peu délicate, </l>
-	<l id='242' part='i'>J'y veux rêver. </l>
+	<l id='242' part="i">J'y veux rêver. </l>
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Léandre, avec un manteau sur le nez, Arlequin. </head>
 <sp who='LÉANDRE'><speaker>LÉANDRE.</speaker>
-	<l id='242' part='m'>Monsieur.</l>
+	<l id='242' part="m">Monsieur.</l>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
-	<l id='242' part='f'>Autre déguisement. </l>
-	<l id='243' part='i'>Que voulez-vous de moi ? </l>
+	<l id='242' part="f">Autre déguisement. </l>
+	<l id='243' part="i">Que voulez-vous de moi ? </l>
 </sp>
 <sp who='LÉANDRE'><speaker>LÉANDRE.</speaker>
-	<l id='243' part='f'>Je viens secrètement </l>
+	<l id='243' part="f">Je viens secrètement </l>
 	<l id='244'>Vous faire un franc aveu de ma bizarrerie. </l>
 	<l id='245'>Mon épouse est jeune et jolie, </l>
 	<l id='246'>Et je pourrais faire serment </l>
@@ -1521,10 +1521,10 @@
 	<l id='259'>D'épouser son caprice, et de remplir ses voux, </l>
 	<l id='260'>De suivre pas à pas ses transports amoureux, </l>
 	<l id='261'>Enfin d'être auprès d'elle </l>
-	<l id='262' part='i'>Nuit et jour ?</l>
+	<l id='262' part="i">Nuit et jour ?</l>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
-	<l id='262' part='f'>Je sais bien qu'une épouse fidèle </l>
+	<l id='262' part="f">Je sais bien qu'une épouse fidèle </l>
 	<l id='263'>Fais voir plus de pays à l'époux complaisant, </l>
 	<l id='264'>Qu'une maîtresse à son amant. </l>
 	<l id='265'>Mais après tout, il faut prendre courage. </l>
@@ -1540,22 +1540,22 @@
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
 	<l id='273'>Depuis six mois il est à la torture. </l>
-	<l id='274' part='i'>Depuis six mois aussi... </l>
+	<l id='274' part="i">Depuis six mois aussi... </l>
 <stage type="[N/A]">Regardant la femme. </stage>
-	<l id='274' part='f'>La plaisante aventure ! </l>
+	<l id='274' part="f">La plaisante aventure ! </l>
 	<l id='275'>De votre cher époux peut-on savoir le nom ? </l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
-	<l id='276' part='i'>C'est Léandre, monsieur. </l>
+	<l id='276' part="i">C'est Léandre, monsieur. </l>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN à l'homme. </speaker>
-	<l id='276' part='f'>Comment vous nomme-t-on ? </l>
+	<l id='276' part="f">Comment vous nomme-t-on ? </l>
 </sp>
 <sp who='LÉANDRE'><speaker>LÉANDRE.</speaker>
-	<l id='277' part='i'>Léandre.</l>
+	<l id='277' part="i">Léandre.</l>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
-	<l id='277' part='f'>Justement. La chose est avérée, </l>
+	<l id='277' part="f">Justement. La chose est avérée, </l>
 	<l id='278'>C'est le mari de la voilée. </l>
 	<l id='279'>Je veux m'en divertir. Écoutez-moi tous deux. </l>
 	<l id='280'>Je vais d'un seul arrêt satisfaire vos voux. </l>
@@ -1564,19 +1564,19 @@
 	<l id='283'>Jamais son trop d'amour ne vous fatiguera, </l>
 	<l id='284'>Et du moment qu'elle vous connaîtra, </l>
 	<l id='285'>Je vous réponds de son indifférence. </l>
-	<l id='286' part='i'>Pour vous, </l>
+	<l id='286' part="i">Pour vous, </l>
 <stage type="toward">À la femme. </stage>
-	<l id='286' part='f'>Dont la volage instance </l>
+	<l id='286' part="f">Dont la volage instance </l>
 	<l id='287'>A pour but de changer, pour changer seulement, </l>
 	<l id='288'>Vous consentiriez aisément </l>
 	<l id='289'>À l'hymen que je vous propose : </l>
 	<l id='290'>Mais il n'est point de bail sans clause, </l>
 	<l id='291'>Et je veux absolument </l>
 	<l id='292'>Que sans résister un moment, </l>
-	<l id='293' part='i'>Vous vous preniez tous deux.</l>
+	<l id='293' part="i">Vous vous preniez tous deux.</l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
-	<l id='293' part='f'>Quoi donc, sans se connaître ?</l>
+	<l id='293' part="f">Quoi donc, sans se connaître ?</l>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
 	<l id='294'>Vous aimez mieux, peut-être, </l>

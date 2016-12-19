@@ -54,7 +54,7 @@
 		<castItem><role id="LA-RENTRÉE" sex="1" type="H" statut='garde-chasse' age='A' stat_amour='néant'>LA RENTRÉE</role>, garde de chasse.</castItem>
 		<castItem><role id="BOURGUIGNON" sex="1" type="H" statut='laquais' age='A' stat_amour='néant'>BOURGUIGNON</role>, laquais du Seigneur.</castItem>
 		<castItem><role id="BEAUVAIS" sex="1" type="H" statut='laquais' age='A' stat_amour='néant'>BEAUVAIS</role>, laquais du Seigneur.</castItem>
-     </castList>
+   </castList>
 <set location='Lieu féerique' country='Pays féérique' periode='XVIIIème' link=''>La Scène représente une Forêt ; d'un coté est la maison de l'Ogre , et de l'autre, une Caverne. Dans le milieu il y a deux Arbres, aux pieds desquels il y a une petite hauteur , ou l'on peut s'asseoir.</set>
 </front>
 <body>
@@ -809,7 +809,7 @@
 <p id='20'>
 	<s id='1'>Tiens cette lampe.</s>
 </p>
-<stage type="[N/A]">Il tire les enfants, qui se tiennent tous ensemble, et se jettent à genoux.</stage>
+<stage type="pull/kneel">Il tire les enfants, qui se tiennent tous ensemble, et se jettent à genoux.</stage>
 </sp>
 <sp who='LE-PETIT-POUCET_PIERROT_JAVOTTE_JANETTE'><speaker>LES QUATRE ENFANTS.</speaker>
 <p id='21'>
@@ -1131,17 +1131,17 @@
 <p id='18'>
 	<s id='1'>J'y suis tout-à-l'heure.</s>
 </p>
-<stage type="[N/A]">Elle paraît avec la lampe.</stage>
+<stage type="entrance">Elle paraît avec la lampe.</stage>
 </sp>
 <sp who='L-OGRE'><speaker>L'OGRE.</speaker>
 <p id='19'>
 	<s id='1'>Voyons, éclaire-moi.</s>
 </p>
-<stage type="[N/A]">Il cherche. </stage>
+<stage type="search">Il cherche. </stage>
 <p id='20'>
 	<s id='1'>Éclaire donc bien. </s>
 </p>
-<stage type="[N/A]">En colère. </stage>
+<stage type="anger">En colère. </stage>
 <p id='21'>
 	<s id=''>Ils n'y sont plus ; c'est toi, abominable bête, qui en es cause.</s>
 </p>

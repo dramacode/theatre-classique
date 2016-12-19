@@ -3,14 +3,14 @@
 <teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>ÉCOLE DES AMIS, Comédie.</title>
+				<title>ÉCOLE DES AMIS, COMÉDIE.</title>
 				<author born='1692' born_location='Paris' death='1754' death_location='Paris' academie='1736'>NIVELLE de la CHAUSSÉE, Pierre</author>
 				<date>1747</date>
 			</titleStmt>
 			<publicationStmt>	
-				<p>publié par Paul FIEVRE, juillet 2011.</p>
-			<idno></idno>
-</publicationStmt>
+				<p>publié par Paul FIEVRE, juillet 2011, revu octobre .</p>
+				<idno>NIVELLE_ECOLEDESAMIS</idno>
+			</publicationStmt>	
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -19,10 +19,6 @@
 				<periode>1731-1740</periode>
 				<taille>1500-1750</taille>
 				<permalien>http://contentdm.warwick.ac.uk/u?/Ancien,22500</permalien>
-				<sources>
-					<source id='1'><author></author><text></text></source>
-				</sources>	
-
 			</SourceDesc>
 		</fileDesc>
 </teiHeader>
@@ -32,7 +28,7 @@
 			<titlePart type="main">ÉCOLE DES AMIS</titlePart>
 			<titlePart type="sub">COMEDIE EN VERS, ET EN CINQ ACTES.</titlePart>
 		</docTitle> 
-		<docDate value='1749'>M D CC XLIX. </docDate>
+		<docDate value='1749'>M D CC XLIX.</docDate>
 		<docAuthor id="NIVELLE DE LA CHAUSSEE, Pierre Claude" bio='nivelle'>Par MARIVAUX. [Nivelle de la Chaussée]</docAuthor>
 		<docImprint>
 			<privilege id=''></privilege>
@@ -44,25 +40,25 @@
 		</performance>
 		<castList>
 			<head>ACTEURS</head>
-			<castItem><role id="HORTENSE" sex="2">HORTENSE</role>.</castItem>
-			<castItem><role id="CLORINE" sex="2">CLORINE</role>, suivante d'Hortense.</castItem>
-			<castItem><role id="MONROSE" sex="1">MONROSE</role>.</castItem>
-			<castItem><role id="DORNANE" sex="1">DORNANE</role>, ami de Monrose.</castItem>
-			<castItem><role id="ARAMONT" sex="1">ARAMONT</role>, ami de Monrose.</castItem>
-			<castItem><role id="ARISTE" sex="1">ARISTE</role>.</castItem>
-			<castItem><role id="GARDE" sex="1">UN GARDE</role>.</castItem>
-			<castItem><role id="LAQUAIS" sex="1">LAQUAIS</role>.</castItem>
+			<castItem><role id="HORTENSE" sex="2" type="H" statut="aristocrate" age='A' stat_amour='néant'>HORTENSE</role>.</castItem>
+			<castItem><role id="MONROSE" sex="1" type="H" statut="aristocrate" age='A' stat_amour='néant'>MONROSE</role>.</castItem>
+			<castItem><role id="CLORINE" sex="2" type="H" statut="suivante" age='A' stat_amour='néant'>CLORINE</role>, suivante d'Hortense.</castItem>
+			<castItem><role id="DORNANE" sex="1" type="H" statut="aristocrate" age='A' stat_amour='néant'>DORNANE</role>, ami de Monrose.</castItem>
+			<castItem><role id="ARAMONT" sex="1" type="H" statut="aristocrate" age='A' stat_amour='néant'>ARAMONT</role>, ami de Monrose.</castItem>
+			<castItem><role id="ARISTE" sex="1" type="H" statut="aristocrate" age='A' stat_amour='néant'>ARISTE</role>.</castItem>
+			<castItem><role id="GARDE" sex="1" type="H" statut="garde" age='A' stat_amour='néant'>UN GARDE</role>.</castItem>
+			<castItem><role id="LAQUAIS" sex="1" type="H" statut="laquais" age='A' stat_amour='néant'>LAQUAIS</role>.</castItem>
 		</castList>
 		<set location='Paris' country='France' periode='XVIIIème' link=''>La Scène est à Paris dans la maison de Monrose.</set>
 </front>
 <body>
 <div1 type="act" n='1'><head>ACTE I </head>
-<div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Monrose qui s'apprête à sortir, Clorine.</head>  
+<div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Monrose qui s'apprête à sortir, Clorine.</head> 
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-	<l id='1' part='i'>Quoi, vous voulez sortir ? </l>
+	<l id='1' part="i">Quoi, vous voulez sortir ? </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1' part='f'>Laisse-moi, je te prie. </l>
+	<l id='1' part="f">Laisse-moi, je te prie. </l>
 	<l id='2'>Je ne puis différer ma première sortie, </l>
 	<l id='3'>Ni demeurer ici davantage en suspens : </l>
 	<l id='4'>Ma blessure m'a fait assez perdre de temps.</l>
@@ -76,10 +72,10 @@
 	<l id='8'>Deux mois se sont passez : je dois être guéri. </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-	<l id='9' part='i'>Quelle raison ! </l>
+	<l id='9' part="i">Quelle raison ! </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='9' part='f'>Après la perte que j'ai faite, </l>
+	<l id='9' part="f">Après la perte que j'ai faite, </l>
 	<l id='10'>Je veux savoir comment la fortune me traite. </l>
 	<l id='11'>D'ailleurs, un intérêt plus pressant, et plus fort </l>
 	<l id='12'>Que celui qui me touche, exige cet effort. </l>
@@ -87,7 +83,7 @@
 	<l id='14'>Et je lui dois un compte... il le faut... le temps presse... </l>
 	<l id='15'>D'autant plus qu'elle va retourner au couvent. </l>
 </sp>
-<sp who='CLORINE'><speaker>CLORINE, avec plus de circonspection.</speaker>
+<sp stage="careful" who='CLORINE'><speaker>CLORINE, avec plus de circonspection.</speaker>
 	<l id='16'>Monsieur, vous vous verrez, sans doute, auparavant ? </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
@@ -98,10 +94,10 @@
 	<l id='19'>Vous craignez de revoir l'objet de votre ardeur ? </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='20' part='i'>La révolution... </l>
+	<l id='20' part="i">La révolution... </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-	<l id='20' part='f'>A changé votre coeur. </l>
+	<l id='20' part="f">A changé votre coeur. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
 	<l id='21'>Plut au Ciel !... quand j'étais un peu plus digne d'elle, </l>
@@ -114,25 +110,25 @@
 	<l id='26'>Est-ce vous, qui depuis le départ pour l'armée </l>
 	<l id='27'>Avez écrit vingt fois pour avoir son portrait, </l>
 	<l id='28'>Qu'on vous eut envoyé, s'il avait été fait ? </l>
-	<l id='29' part='i'>Hortense eut obéi. </l>
+	<l id='29' part="i">Hortense eut obéi. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='29' part='f'>Cesse de m'entreprendre. </l>
+	<l id='29' part="f">Cesse de m'entreprendre. </l>
 	<l id='30'>Si j'avais son portrait, il faudrait le lui rendre ; </l>
 	<l id='31'>Il faudrait la revoir encore, et me plonger... </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-	<l id='32' part='i'>Du moins, la bienséance... </l>
+	<l id='32' part="i">Du moins, la bienséance... </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='32' part='f'>Il n'y faut plus songer. </l>
+	<l id='32' part="f">Il n'y faut plus songer. </l>
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. </head>
 <sp who='CLORINE'><speaker>CLORINE seule. </speaker>
 	<l id='33'>Fort bien, il va se perdre, en fuyant ma maîtresse.</l>
 	<l id='34'>Je veux les rapprocher tous deux avec adresse.</l>
-<stage type="[N/A]">Elle rêve.</stage>
+<stage type="dream">Elle rêve.</stage>
 	<l id='35'>Eh ! le portrait d'Hortense est propre à cet effet. </l>
 	<l id='36'>Il faut lui procurer en secret ce bienfait, </l>
 	<l id='37'>Et lui faire trouver par quelque stratagème </l>
@@ -152,7 +148,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Aramont, Clorine.</head>
-<sp who='ARAMONT'><speaker>ARAMONT, derrière le théâtre, à haute voix.</speaker>
+<sp stage="location/loud" who='ARAMONT'><speaker>ARAMONT, derrière le théâtre, à haute voix.</speaker>
 	<l id='51'>Eh bien ! où sont-ils donc fourrez ? Hola, quelqu'un ? </l>
  </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
@@ -163,10 +159,10 @@
 	<l id='54'>Quand le Maître est dehors, les Valets sont au diable. </l>
 	<l id='55'>C'est Clorine ! Eh ! parbleu, je la trouve à propos. </l>
 	<l id='56'>J'avais à vous parler. J'aurai fait en deux mots. </l>
-	<l id='57' part='i'>Hortense s'en va donc ? </l>
+	<l id='57' part="i">Hortense s'en va donc ? </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-	<l id='57' part='f'>Oui, Monsieur, sans remise. </l>
+	<l id='57' part="f">Oui, Monsieur, sans remise. </l>
 	<l id='58'>Elle rentre au Couvent où le défunt l'a prise. </l>
 	<l id='59'>Il l'avait fait venir pour la former un peu, </l>
 	<l id='60'>Avant que de lui faire épouser son neveu. </l>
@@ -175,30 +171,30 @@
 	<l id='63'>N'avait été malade : elle se porte mieux. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='64' part='i'>Tant-pis. </l>
+	<l id='64' part="i">Tant-pis. </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-	<l id='64' part='f'>Et nous faisons aujourd'hui nos adieux. </l>
+	<l id='64' part="f">Et nous faisons aujourd'hui nos adieux. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
 	<l id='65'>Cette vieille radote ; et ta maîtresse rêve.</l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-	<l id='66' part='i'>En quoi ? </l>
+	<l id='66' part="i">En quoi ? </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='66' part='f'>C'est aujourd'hui que le scellé se lève. </l>
-	<l id='67' part='i'>Hortense a tous ses biens. </l>
+	<l id='66' part="f">C'est aujourd'hui que le scellé se lève. </l>
+	<l id='67' part="i">Hortense a tous ses biens. </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-	<l id='67' part='f'>Quelqu'un en prendra soin. </l>
+	<l id='67' part="f">Quelqu'un en prendra soin. </l>
 	<l id='68'>À quoi servirait-elle ? On n'en a pas besoin. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='69' part='i'>Elle est riche, et très riche. </l>
+	<l id='69' part="i">Elle est riche, et très riche. </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-	<l id='69' part='f'>Oui, Monsieur, je l'espère. </l>
+	<l id='69' part="f">Oui, Monsieur, je l'espère. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
 	<l id='70'>Ah ! je vous en réponds. D'autant plus que son père </l>
@@ -220,12 +216,12 @@
 	<l id='82'>Soit une fille aimable, intelligente, et fine... </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-<stage type="[N/A]">Elle se retourne, comme si on l'appelait.</stage> 
+<stage type="turn/watch">Elle se retourne, comme si on l'appelait.</stage> 
 	<l id='83'>Ah ! point du tout, Monsieur... Oui... j'entends... excusez ; </l>
-	<l id='84' part='i'>On vient de m'appeler. </l>
+	<l id='84' part="i">On vient de m'appeler. </l>
 </sp>
-<sp who='ARAMONT'><speaker>ARAMONT, la retenant.</speaker>
-	<l id='84' part='f'>Non ; vous vous abusez : </l>
+<sp stage="pull" who='ARAMONT'><speaker>ARAMONT, la retenant.</speaker>
+	<l id='84' part="f">Non ; vous vous abusez : </l>
 	<l id='85'>Et quand cela serait, qu'importe ? On peut attendre. </l>
 	<l id='86'>En faveur de Monrose, il faudrait nous entendre. </l>
 	<l id='87'>Tu vois comme au moment de faire son bonheur, </l>
@@ -239,7 +235,7 @@
 	<l id='95'>Et l'on doit peu compter sur leurs successions. </l>
 	<l id='96'>Le défunt ne roulait que sur des pensions, </l>
 	<l id='97'>De forts appointements, qu'il mangeait à mesure, </l>
-	<l id='98'>Ainsi de ce côté la fortune est peu sûre.  </l>
+	<l id='98'>Ainsi de ce côté la fortune est peu sûre. </l>
 	<l id='99'>A l'égard de la Cour, je doute, et je ne sais </l>
 	<l id='100'>Si l'on achèvera des projets commencés : </l>
 	<l id='101'>Et franchement j'ai peur qu'en cet état funeste </l>
@@ -251,13 +247,13 @@
 	<l id='105'>Hortense va passer sous une autre puissance. </l>
 	<l id='106'>On exigera d'elle une autre obéissance. </l>
 </sp>
-<sp who='ARAMONT'><speaker>ARAMONT, ironiquement.</speaker>
+<sp stage="ironic" who='ARAMONT'><speaker>ARAMONT, ironiquement.</speaker>
 	<l id='107'>On exigera d'elle une infidélité : </l>
 	<l id='108'>Vous n'y voyez aucune impossibilité. </l>
-	<l id='109' part='i'>Si Monrose a son coeur... </l>
+	<l id='109' part="i">Si Monrose a son coeur... </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-	<l id='109' part='f'>Mais il fuit ma maîtresse ! </l>
+	<l id='109' part="f">Mais il fuit ma maîtresse ! </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
 	<l id='110'>Elle n'en est pas moins l'objet de sa tendresse ; </l>
@@ -269,17 +265,17 @@
 	<l id='116'>Il faut les rapprocher, et les mettre d'accord. </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-	<l id='117' part='i'>J'entends. </l>
+	<l id='117' part="i">J'entends. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='117' part='f'>Il faudrait donc autoriser mon zèle.  </l>
+	<l id='117' part="f">Il faudrait donc autoriser mon zèle. </l>
 	<l id='118'>Il n'est qu'un mot qui serve. Hortense l'aime-t-elle ? </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-	<l id='119' part='i'>Vous me le demandez, à moi ? </l>
+	<l id='119' part="i">Vous me le demandez, à moi ? </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='119' part='f'>Sans contredit. </l>
+	<l id='119' part="f">Sans contredit. </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
 	<l id='120'>Mais vous n'y pensez pas. Eh ! Qui me l'aurait dit ? </l>
@@ -289,33 +285,33 @@
 	<l id='122'>Suivante et confidente est bien la même chose. </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-	<l id='123' part='i'>Non pas auprès d'Hortense. </l>
+	<l id='123' part="i">Non pas auprès d'Hortense. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='123' part='f'>Ah ! ah ! mais en tout cas. </l>
-	<l id='124' part='i'>On peut bien deviner. </l>
+	<l id='123' part="f">Ah ! ah ! mais en tout cas. </l>
+	<l id='124' part="i">On peut bien deviner. </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-	<l id='124' part='f'>Je ne m'en méle pas. </l>
+	<l id='124' part="f">Je ne m'en méle pas. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
 	<l id='125'>On surprend un secret qu'on ne veut pas nous dire ; </l>
-	<l id='126' part='i'>On le lit dans les yeux, dans... </l>
+	<l id='126' part="i">On le lit dans les yeux, dans... </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-	<l id='126' part='f'>Je n'y sais pas lire.</l>
+	<l id='126' part="f">Je n'y sais pas lire.</l>
  </sp>
-<sp who='ARAMONT'><speaker>ARAMONT, avec dépit.</speaker>
+<sp stage="disappointment" who='ARAMONT'><speaker>ARAMONT, avec dépit.</speaker>
 	<l id='127'>Les filles d'à présent ne savent jamais rien </l>
 	<l id='128'>De tout ce que l'on sait qu'elles savent très bien. </l>
 </sp>
-<sp who='CLORINE'><speaker>CLORINE, riant.</speaker>
+<sp stage="laugh" who='CLORINE'><speaker>CLORINE, riant.</speaker>
 	<l id='129'>On ne saurait penser plus à notre avantage. </l>
-	<l id='130'>Monsieur, vous souvient-il d'un certain mariage  </l>
-	<l id='131' part='i'>Que vous avez fait faire ? </l>
+	<l id='130'>Monsieur, vous souvient-il d'un certain mariage </l>
+	<l id='131' part="i">Que vous avez fait faire ? </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='131' part='f'>Oui, j'aime à m'en mêler. </l>
+	<l id='131' part="f">Oui, j'aime à m'en mêler. </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
 	<l id='132'>C'est le dernier sur-tout que je veux rappeler. </l>
@@ -330,16 +326,16 @@
 	<l id='137'>Bon ! Et ces deux rivaux, Monsieur, que vous en semble ? </l>
 	<l id='138'>Vous les aviez si bien raccommodez ensemble ! </l>
 	<l id='139'>D'où vient sont-ils partis aussi-tôt de la main </l>
-	<l id='140' part='i'>Pour s'aller battre ? </l>
+	<l id='140' part="i">Pour s'aller battre ? </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='140' part='f'>Ils ont pris querelle en chemin. </l>
+	<l id='140' part="f">Ils ont pris querelle en chemin. </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-	<l id='141' part='i'>Vous souvient-il encore ?... </l>
+	<l id='141' part="i">Vous souvient-il encore ?... </l>
 </sp>
-<sp who='ARAMONT'><speaker>ARAMONT, vivement.</speaker>
-	<l id='141' part='f'>Ah ! Trêve de mémoire. </l>
+<sp stage="nervous" who='ARAMONT'><speaker>ARAMONT, vivement.</speaker>
+	<l id='141' part="f">Ah ! Trêve de mémoire. </l>
 	<l id='142'>Il n'est pas question de faire mon histoire. </l>
 	<l id='143'>C'est-à-dire qu'Hortense aura jusqu'à ce jour </l>
 	<l id='144'>Fait perdre à notre ami son temps et son amour ? </l>
@@ -348,20 +344,20 @@
 	<l id='145'>Et ne voulez-vous pas que je l'en dédommage ? </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='146'>Eh ! ventrebleu, pourquoi se laisser rendre hommage,  </l>
+	<l id='146'>Eh ! ventrebleu, pourquoi se laisser rendre hommage, </l>
 	<l id='147'>Lorsque l'on ne veut pas se laisser enflammer ? </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
 	<l id='148'>Hortense obéissait en se laissant aimer. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='149' part='i'>La complaisance est grande. </l>
+	<l id='149' part="i">La complaisance est grande. </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-	<l id='149' part='m'>Assez </l>
+	<l id='149' part="m">Assez </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='149' part='f'>Se peut-il faire !... </l>
+	<l id='149' part="f">Se peut-il faire !... </l>
 	<l id='150'>Eh mais, combien de temps faut-il donc pour lui plaire, </l>
 	<l id='151'>Si depuis une année et plus qu'elle est ici, </l>
 	<l id='152'>L'amour de son amant n'a pas mieux réussi ? </l>
@@ -369,10 +365,10 @@
 	<l id='154'>L'hymen se devait faire au retour de l'armée. </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-	<l id='155' part='i'>Il est vrai. </l>
+	<l id='155' part="i">Il est vrai. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='155' part='f'>Cette époque est bonne à remarquer.</l>
+	<l id='155' part="f">Cette époque est bonne à remarquer.</l>
 	<l id='156'>À quoi pensait Hortense ? Elle allait s'embarquer ; </l>
 	<l id='157'>Et toutefois l'amour n'était pas du voyage. </l>
 </sp>
@@ -394,10 +390,10 @@
 	<l id='170'>On pourra lui trouver un parti convenable. </l>
 	<l id='171'>Quelqu'autre aura des yeux, du bien, de la beauté ; </l>
 	<l id='172'>Oui, l'on pourra tourner de tel autre côté, </l>
-	<l id='173' part='i'>Que... </l>
+	<l id='173' part="i">Que... </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-	<l id='173' part='f'>Eh ! qui menacez-vous ? Je suis votre servante. </l>
+	<l id='173' part="f">Eh ! qui menacez-vous ? Je suis votre servante. </l>
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCENE IV.</head>
@@ -411,11 +407,11 @@
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Aramont, Dornane.</head>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
-	<l id='179'>Serviteur au Baron. J'aime à te rencontrer.  </l>
-	<l id='180' part='i'>Qu'as-tu fait de Monrose ? </l>
+	<l id='179'>Serviteur au Baron. J'aime à te rencontrer. </l>
+	<l id='180' part="i">Qu'as-tu fait de Monrose ? </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='180' part='f'>Il va bientôt rentrer. </l>
+	<l id='180' part="f">Il va bientôt rentrer. </l>
 </sp>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
 	<l id='181'>Tu ne le quittes plus ! Je te trouve adorable. </l>
@@ -448,37 +444,37 @@
 	<l id='200'>Et ce n'est plus qu'un nom qui n'a rien de réel. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='201' part='i'>Sais-tu que tu dis vrai ? </l>
+	<l id='201' part="i">Sais-tu que tu dis vrai ? </l>
 </sp>
-<sp who='DORNANE'><speaker>DORNANE, avec fatuité.</speaker>
-	<l id='201' part='f'>Voilà comme je pense. </l>
+<sp stage="proud" who='DORNANE'><speaker>DORNANE, avec fatuité.</speaker>
+	<l id='201' part="f">Voilà comme je pense. </l>
 	<l id='202'>Mais ce n'est point assez ; j'agis en conséquence. </l>
 	<l id='203'>Depuis qu'il est malade, on n'imagine pas </l>
 	<l id='204'>Ce que j'ai vu de gens, combien j'ai fait de pas. </l>
 	<l id='205'>J'ai mis en action toutes nos connaissances. </l>
 	<l id='206'>N'ai-je pas fait ma cour à toutes les puissances ? </l>
 </sp>
-<sp who='ARAMONT'><speaker>ARAMONT, à part.</speaker>
+<sp stage="aparte" who='ARAMONT'><speaker>ARAMONT, à part.</speaker>
 	<l id='207'>Car il faut bien les voir, quand on en a besoin. </l>
-	<l id='208' part='i'>Quelle fatuité ! </l>
+	<l id='208' part="i">Quelle fatuité ! </l>
 </sp>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
-	<l id='208' part='f'>J'aurais été plus loin </l>
+	<l id='208' part="f">J'aurais été plus loin </l>
 	<l id='209'>Si je l'avais trouvé possible et nécessaire : </l>
 	<l id='210'>Mais Dieu sait de quel air j'ai mené cette affaire ! </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='211' part='i'>De quel air, s'il vous plaît ? </l>
+	<l id='211' part="i">De quel air, s'il vous plaît ? </l>
 </sp>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
-	<l id='211' part='f'>Je crois qu'il est permis </l>
+	<l id='211' part="f">Je crois qu'il est permis </l>
 	<l id='212'>De parler un peu haut quand c'est pour ses amis : </l>
 </sp>
-<sp who='ARAMONT'><speaker>ARAMONT, à part.</speaker>
-	<l id='213' part='i'>Tout est perdu. </l>
+<sp stage="aparte" who='ARAMONT'><speaker>ARAMONT, à part.</speaker>
+	<l id='213' part="i">Tout est perdu. </l>
 </sp>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
-	<l id='213' part='f'>J'agis avec cette assurance </l>
+	<l id='213' part="f">J'agis avec cette assurance </l>
 	<l id='214'>Qui subjugue, ou détruit toute autre concurrence. </l>
 	<l id='215'>Quoi qu'il en soit, j'ai mis l'épouvante et l'effroi </l>
 	<l id='216'>Parmi les prétendants ; ils sont en désarroi. </l>
@@ -492,27 +488,27 @@
 	<l id='222'>Je crains que cela n'ait une suite fatale. </l>
 </sp>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
-	<l id='223' part='i'>Tu t'y connais ! </l>
+	<l id='223' part="i">Tu t'y connais ! </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='223' part='f'>Pour moi, je me borne à des soins </l>
+	<l id='223' part="f">Pour moi, je me borne à des soins </l>
 	<l id='224'>Qui sont à ma portée ; et je risque un peu moins. </l>
 	<l id='225'>Sans moi, des créanciers bloqueraient cette porte : </l>
 	<l id='226'>J'ai du moins, pour un temps, écarté leur cohorte, </l>
 </sp>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
-	<l id='227' part='i'>Comment donc ? </l>
+	<l id='227' part="i">Comment donc ? </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='227' part='f'>En disant partout avec éclat </l>
+	<l id='227' part="f">En disant partout avec éclat </l>
 	<l id='228'>Que la succession est en très bon état </l>
 	<l id='229'>Ainsi j'ai suspendu leurs cris et leurs poursuites. </l>
 </sp>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
-	<l id='230' part='i'>C'est une minutie. </l>
+	<l id='230' part="i">C'est une minutie. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='230' part='f'>On verra dans les suites. </l>
+	<l id='230' part="f">On verra dans les suites. </l>
 	<l id='231'>Mais au surplus, Marquis, n'es-tu pas étonné </l>
 	<l id='232'>Que Monrose aujourd'hui se trouve abandonné </l>
 	<l id='233'>Par l'homme, sur lequel il comptait d'avantage, Ariste ? </l>
@@ -536,17 +532,17 @@
 	<l id='243'>Un Politique sombre, équivoque et caché,</l>
 	<l id='244'>Qui se donne à la Cour pour être détaché </l>
 	<l id='245'>Des postes, des emplois, des grandeurs, et des grâces ; </l>
-	<l id='246'>Mais qui secrètement vise aux premières places ;  </l>
+	<l id='246'>Mais qui secrètement vise aux premières places ; </l>
 	<l id='247'>Et dont l'ambition, quand il en sera temps, </l>
 	<l id='248'>Se manifestera peut-être à nos dépens. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
 	<l id='249'>Cet Ariste pourtant... il avait paru prendre </l>
 	<l id='250'>Au destin de Monrose un intérêt si tendre : </l>
-	<l id='251' part='i'>Je l'ai cru son ami. </l>
+	<l id='251' part="i">Je l'ai cru son ami. </l>
 </sp>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
-	<l id='251' part='f'>Lui ? Sur quel fondement ? </l>
+	<l id='251' part="f">Lui ? Sur quel fondement ? </l>
 	<l id='252'>Quand on est tel, crois-moi, l'on s'annonce autrement. </l>
 	<l id='253'>En effet, l'amitié donne un air moins austère. </l>
 	<l id='254'>Un véritable ami n'a d'autre caractère </l>
@@ -556,23 +552,23 @@
 	<l id='258'>Il prend nos Passions, nos vertus, et nos vices : </l>
 	<l id='259'>C'est un caméléon qui reçoit tour-à-tour... </l>
 </sp>
-<sp who='ARISTE'><speaker>ARISTE, s'avançant.</speaker>
+<sp stage="closer" who='ARISTE'><speaker>ARISTE, s'avançant.</speaker>
 	<l id='260'>Ce portrait-là, Monsieur, est celui de l'amour. </l>
 </sp>
-<sp who='DORNANE'><speaker>DORNANE, à part.</speaker>
-	<l id='261' part='i'>C'est Ariste ! Ah, morbleu ! </l>
+<sp stage="aparte" who='DORNANE'><speaker>DORNANE, à part.</speaker>
+	<l id='261' part="i">C'est Ariste ! Ah, morbleu ! </l>
 </sp>
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
-	<l id='261' part='f'>Mon abord vous étonne ! </l>
+	<l id='261' part="f">Mon abord vous étonne ! </l>
 </sp>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
 	<l id='262'>Ah ! Monsieur, qui pouvait vous croire-là ? </l>
 </sp>
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
-	<l id='263' part='i'>Personne. Si j'ai bien entendu votre entretien... </l>
+	<l id='263' part="i">Personne. Si j'ai bien entendu votre entretien... </l>
 </sp>
-<sp who='DORNANE'><speaker>DORNANE, à part.</speaker>
-	<l id='263' part='f'>Tant-pis. </l>
+<sp stage="aparte" who='DORNANE'><speaker>DORNANE, à part.</speaker>
+	<l id='263' part="f">Tant-pis. </l>
 </sp>
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
 	<l id='264'>Les amis de Monrose étaient sur le tapis. </l>
@@ -589,11 +585,11 @@
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII. Monrose transporté de joie, Ariste, Aramont, Dornane.</head>
-<sp who='MONROSE'><speaker>MONROSE, à Aramont et Dornane.</speaker>
+<sp stage="toward" who='MONROSE'><speaker>MONROSE, à Aramont et Dornane.</speaker>
 	<l id='275'>Mes amis, prenez part à la joie où je suis. </l>
 	<l id='276'>Mon bonheur est prochain ; si j'en crois tous les bruits, </l>
 	<l id='277'>On dit qu'en ma faveur la Cour est réunie. </l>
-<stage type="[N/A]">Apercevant Ariste.</stage>
+<stage type="watch">Apercevant Ariste.</stage>
 	<l id='278'>Ah ! Monsieur. C'est me faire une grâce infinie. </l>
 	<l id='279'>Ces Messieurs sont témoins si depuis mon retour </l>
 	<l id='280'>Ma santé m'a permis de vous faire ma cour. </l>
@@ -602,10 +598,10 @@
 	<l id='281'>Votre santé va bien ; je vous en félicite. </l>
 </sp>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
-	<l id='282' part='i'>Et moi, de la nouvelle... </l>
+	<l id='282' part="i">Et moi, de la nouvelle... </l>
 </sp>
-<sp who='ARAMONT'><speaker>ARAMONT, à part.</speaker>
-	<l id='282' part='f'>En cas de réussite. </l>
+<sp stage="aparte" who='ARAMONT'><speaker>ARAMONT, à part.</speaker>
+	<l id='282' part="f">En cas de réussite. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
 	<l id='283'>Tout Paris là-dessus n'a qu'une seule voix. </l>
@@ -618,17 +614,17 @@
 	<l id='288'>C'est la même façon pour traiter avec eux. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='289' part='i'>Je commence à le croire. </l>
+	<l id='289' part="i">Je commence à le croire. </l>
 </sp>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
-	<l id='289' part='f'>Osais-tu te promettre </l>
-	<l id='290' part='i'>Un aussi bon effet ?... </l>
+	<l id='289' part="f">Osais-tu te promettre </l>
+	<l id='290' part="i">Un aussi bon effet ?... </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='290' part='m'>De quoi ? </l>
+	<l id='290' part="m">De quoi ? </l>
 </sp>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
-	<l id='290' part='f'>De cette lettre </l>
+	<l id='290' part="f">De cette lettre </l>
 	<l id='291'>Qu'il a fallu te faire écrire, et t'arracher ? </l>
 	<l id='292'>Car avec toi, mon cher, à moins de se fâcher... </l>
 </sp>
@@ -636,29 +632,29 @@
 	<l id='293'>Je trouvais que le style en était un peu ferme. </l>
 </sp>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
-	<l id='294'>Eh ! Tant mieux. Tu voulais mesurer chaque terme.  </l>
+	<l id='294'>Eh ! Tant mieux. Tu voulais mesurer chaque terme. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='295' part='i'>Ou du moins adoucir... </l>
+	<l id='295' part="i">Ou du moins adoucir... </l>
 </sp>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
-	<l id='295' part='f'>Va, va, le style est bien. </l>
+	<l id='295' part="f">Va, va, le style est bien. </l>
 	<l id='296'>La souplesse est pour nous un indigne moyen, </l>
 	<l id='297'>Presque toujours nuisible, et jamais légitime : </l>
 	<l id='298'>Qui s'abaisse soi-même est sa propre victime. </l>
 	<l id='299'>On ne cherche que trop à nous humilier. </l>
 	<l id='300'>Nous devons exiger, et non pas supplier. </l>
 <stage type="toward">À Ariste.</stage>
-	<l id='301' part='i'>N'est-il pas vrai, Monsieur ? </l>
+	<l id='301' part="i">N'est-il pas vrai, Monsieur ? </l>
 </sp>
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
-	<l id='301' part='f'>Chacun a ses usages. </l>
+	<l id='301' part="f">Chacun a ses usages. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='302' part='i'>J'ai vu tous nos amis... </l>
+	<l id='302' part="i">J'ai vu tous nos amis... </l>
 </sp>
-<sp who='ARISTE'><speaker>ARISTE, à part.</speaker>
-	<l id='302' part='f'>Qui ne sont pas plus sages. </l>
+<sp stage="aparte" who='ARISTE'><speaker>ARISTE, à part.</speaker>
+	<l id='302' part="f">Qui ne sont pas plus sages. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
 	<l id='303'>Je ne pouvais suffire à leurs embrassements. </l>
@@ -687,43 +683,43 @@
 	<l id='316'>Vous en parlez, Monsieur, avec capacité. </l>
 </sp>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
-	<l id='317' part='i'>En seriez-vous surpris ? </l>
+	<l id='317' part="i">En seriez-vous surpris ? </l>
 </sp>
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
-	<l id='317' part='f'>Vous êtes politique. </l>
+	<l id='317' part="f">Vous êtes politique. </l>
 </sp>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
 	<l id='318'>Et bien meilleur ami. C'est de quoi je me pique. </l>
 </sp>
-<sp who='ARISTE'><speaker>ARISTE, à part.</speaker>
+<sp stage="aparte" who='ARISTE'><speaker>ARISTE, à part.</speaker>
 	<l id='319'>Contre cet étourdi je ne saurais tenir.</l>
 <stage type="toward">À Monrose.</stage>
 	<l id='320'>Dans un instant, Monsieur, pourrais-je revenir ? </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='321' part='i'>Commandez. </l>
+	<l id='321' part="i">Commandez. </l>
 </sp>
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
-	<l id='321' part='f'>J'aurais eu quelque chose à vous dire. </l>
-	<l id='322' part='i'>Je veux prendre mon temps. </l>
+	<l id='321' part="f">J'aurais eu quelque chose à vous dire. </l>
+	<l id='322' part="i">Je veux prendre mon temps. </l>
 </sp>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
-	<l id='322' part='f'>Enfin il se retire.</l>
+	<l id='322' part="f">Enfin il se retire.</l>
 </sp>
 </div2>
 <div2 type="scene" n='8'><head>SCÈNE VIII. Monrose, Aramont, Dornane.</head>
-<sp who='MONROSE'><speaker>MONROSE, toujours joyeux.</speaker>
+<sp stage="happy" who='MONROSE'><speaker>MONROSE, toujours joyeux.</speaker>
 	<l id='323'>Je puis donc m'applaudir avec vous sans témoins, </l>
 	<l id='324'>Et vous féliciter du succès de vos soins. </l>
-<stage type="[N/A]">Il les embrasse.</stage>
+<stage type="kiss">Il les embrasse.</stage>
 	<l id='325'>Permettez ce transport à ma reconnaissance : </l>
 	<l id='326'>D'autres effets seront peut-être en ma puissance. </l>
 	<l id='327'>Ma chute était horrible ; il faut en convenir. </l>
 	<l id='328'>Si je vous faisais voir quel affreux avenir </l>
-	<l id='329' part='i'>Était devant mes yeux !... </l>
+	<l id='329' part="i">Était devant mes yeux !... </l>
 </sp>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
-	<l id='329' part='f'>Éloignons cette idée ; </l>
+	<l id='329' part="f">Éloignons cette idée ; </l>
 	<l id='330'>Puisqu'aussi-bien l'affaire est presque décidée. </l>
 	<l id='331'>D'ailleurs, ton désespoir m'était injurieux. </l>
 	<l id='332'>Suis-je donc un ami si frivole à tes yeux ? </l>
@@ -737,7 +733,7 @@
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
 	<l id='339'>Va, j'en suis convaincu ; ce n'est pas d'aujourd'hui : </l>
 	<l id='340'>Mais je ne veux pas être a la charge d'autrui. </l>
-	<l id='341'>Vous dirai-je pourtant que la froideur d'Ariste  </l>
+	<l id='341'>Vous dirai-je pourtant que la froideur d'Ariste </l>
 	<l id='342'>Jette dans mon esprit un doute qui m'attriste ? </l>
 </sp>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
@@ -754,10 +750,10 @@
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
 	<l id='353'>Oui, c'est bien mon dessein, dès que je serai quitte </l>
-	<l id='354' part='i'>Du rendez-vous d'Ariste. </l>
+	<l id='354' part="i">Du rendez-vous d'Ariste. </l>
 </sp>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
-	<l id='354' part='f'>Expédie au plus vite. </l>
+	<l id='354' part="f">Expédie au plus vite. </l>
 	<l id='355'>Sans adieu. Tout ira comme je le prévois. </l>
 	<l id='356'>Je vais nous faire écrire à dix ou douze endroits. </l>
 </sp>
@@ -769,7 +765,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='10'><head>SCÈNE X.</head> 
-<sp who='MONROSE'><speaker>MONROSE, seul. </speaker>
+<sp stage="alone" who='MONROSE'><speaker>MONROSE, seul. </speaker>
 	<l id='359'>Hortense, est-il possible ?... Ah, qu'il me serait doux </l>
 	<l id='360'>D'avoir à vous offrir un rang digne de vous ! </l>
 </sp>
@@ -777,18 +773,18 @@
 </div1>
 <div1 type="act" n='2'><head>ACTE II</head>
 <div2 type="scene" n='1'><head>SCENE I. Ariste, Monrose.</head> 
-<sp who='MONROSE'><speaker>MONROSE, à part.</speaker>
+<sp stage="aparte" who='MONROSE'><speaker>MONROSE, à part.</speaker>
 	<l id='361'>Quel entretien fâcheux !... Il finira peut-être ? </l>
 </sp>
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
-	<l id='362' part='i'>Je puis donc vous parler ? </l>
+	<l id='362' part="i">Je puis donc vous parler ? </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='362' part='f'>Vous en êtes le Maître.  </l>
-	<l id='363' part='i'>Usez de tous vos droits. </l>
+	<l id='362' part="f">Vous en êtes le Maître. </l>
+	<l id='363' part="i">Usez de tous vos droits. </l>
 </sp>
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
-	<l id='363' part='f'>Vous me le permettez ? </l>
+	<l id='363' part="f">Vous me le permettez ? </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
 	<l id='364'>Ma famille a toujours éprouvé vos bontés. </l>
@@ -798,10 +794,10 @@
 	<l id='366'>Votre oncle n'eut jamais un ami plus fidèle, </l>
 	<l id='367'>Et plus tendre que moi. Je vous trahirais tous, </l>
 	<l id='368'>Si je dissimulais davantage avec vous. </l>
-	<l id='369' part='i'>Vous vous perdez. </l>
+	<l id='369' part="i">Vous vous perdez. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='369' part='f'>Daignez me le faire connaître.</l>
+	<l id='369' part="f">Daignez me le faire connaître.</l>
 </sp>
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
 	<l id='370'>Vous entrez dans le monde ; et vous allez paraître </l>
@@ -831,10 +827,10 @@
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
 	<l id='391'>Le succès ! Puissiez-vous n'être point dans l'erreur ! </l>
 	<l id='392'>Je voudrais avoir pris une fausse terreur : </l>
-	<l id='393' part='i'>Mais je tremble pour vous. </l>
+	<l id='393' part="i">Mais je tremble pour vous. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='393' part='f'>Je vous suis redevable. </l>
+	<l id='393' part="f">Je vous suis redevable. </l>
 </sp>
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
 	<l id='394'>Votre sécurité me semble inconcevable. </l>
@@ -843,13 +839,13 @@
 	<l id='395'>J'apprends de toutes parts le bonheur que j'attends : </l>
 	<l id='396'>N'ai-je pas à la Cour des droits assez constants ? </l>
 	<l id='397'>Et d'ailleurs, un refus est-il en sa puissance ? </l>
-	<l id='398'>Je dois tout espérer de sa reconnaissance.  </l>
+	<l id='398'>Je dois tout espérer de sa reconnaissance. </l>
 </sp>
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
-	<l id='399' part='i'>Dites de ses bontés. </l>
+	<l id='399' part="i">Dites de ses bontés. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='399' part='f'>Je réclame mon bien. </l>
+	<l id='399' part="f">Je réclame mon bien. </l>
 </sp>
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
 	<l id='400'>Vous méritez beaucoup ; mais on ne vous doit rien. </l>
@@ -896,10 +892,10 @@
 	<l id='431'>J'en aurais épargné la peine à mes amis ; </l>
 	<l id='432'>Mais enfin, ma santé ne me l'a pas permis. </l>
 	<l id='433'>S'ils ont agi pour moi, c'est sans me compromettre. </l>
-	<l id='434' part='i'>J'ai même écrit en Cour... </l>
+	<l id='434' part="i">J'ai même écrit en Cour... </l>
 </sp>
-<sp who='ARISTE'><speaker>ARISTE, remettant une lettre à Monrose.</speaker>
-	<l id='434' part='f'>La voici cette lettre.  </l>
+<sp stage="give" who='ARISTE'><speaker>ARISTE, remettant une lettre à Monrose.</speaker>
+	<l id='434' part="f">La voici cette lettre. </l>
 	<l id='435'>Quelqu'un veillait pour vous. Son bonheur a permis </l>
 	<l id='436'>Qu'il ait su le danger où vous vous étiez mis. </l>
 	<l id='437'>Quoi ? Vous osez, Monsieur, dans l'état où vous êtes, </l>
@@ -911,10 +907,10 @@
 	<l id='443'>Quand on manque aux égards que l'on doit à son choix. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='444' part='i'>Vous m'effrayez, Monsieur. </l>
+	<l id='444' part="i">Vous m'effrayez, Monsieur. </l>
 </sp>
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
-	<l id='444' part='f'>Je fais ce que je dois. </l>
+	<l id='444' part="f">Je fais ce que je dois. </l>
 	<l id='445'>Je ne sais point flatter quand le mal est extrême. </l>
 	<l id='446'>Mais vous n'étiez pas fait pour vous perdre vous-même. </l>
 	<l id='447'>Eh ! laissez-vous aller à votre naturel, </l>
@@ -960,7 +956,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II.</head>
-<sp who='ARISTE'><speaker>ARISTE, seul. </speaker>
+<sp stage="alone" who='ARISTE'><speaker>ARISTE, seul. </speaker>
 	<l id='479'>Cherchons en même temps à servir son amour. </l>
 	<l id='480'>Sachons si sa Maîtresse a pour lui du retour. </l>
 	<l id='481'>En cas qu'il soit aimé, je pourrais par la suite... </l>
@@ -999,7 +995,7 @@
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
 	<l id='499'>Que deviendront ces noeuds que l'amour avait faits ? </l>
 	<l id='500'>Votre coeur, votre main, sont les plus grands bienfaits, </l>
-	<l id='501'>Que puissent procurer l'Amour et la Fortune.  </l>
+	<l id='501'>Que puissent procurer l'Amour et la Fortune. </l>
 	<l id='502'>L'espoir va ranimer une foule importune. </l>
 	<l id='503'>On cherchera sans doute à forcer votre choix. </l>
 	<l id='504'>Vous ressouviendrez-vous qu'un autre avait des droits ?... </l>
@@ -1014,11 +1010,11 @@
 	<l id='507' pat='i'>Monsieur ; vous m'étonnez ? </l>
 </sp>
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
-	<l id='507' part='f'>Par des noeuds pleins d'appas</l>
-	<l id='508' part='i'>Vous alliez être unis. </l>
+	<l id='507' part="f">Par des noeuds pleins d'appas</l>
+	<l id='508' part="i">Vous alliez être unis. </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='508' part='f'>Nous ne le sommes pas. </l>
+	<l id='508' part="f">Nous ne le sommes pas. </l>
 </sp>
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
 	<l id='509'>Quoi donc ? Que voulez-vous par-là me faire entendre ? </l>
@@ -1058,13 +1054,13 @@
 	<l id='531'>J'espère par la suite obtenir mon pardon. </l>
 	<l id='532'>À quelque chose enfin l'on peut vous être bon, </l>
 	<l id='533'>Et même auprès de ceux dont vous allez dépendre. </l>
-	<l id='534'>De mon faible crédit je puis assez prétendre...  </l>
+	<l id='534'>De mon faible crédit je puis assez prétendre... </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='535' part='i'>Un homme tel que vous... </l>
+	<l id='535' part="i">Un homme tel que vous... </l>
 </sp>
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
-	<l id='535' part='f'>Ah ! vous y comptez peu. </l>
+	<l id='535' part="f">Ah ! vous y comptez peu. </l>
 	<l id='536'>Si vous ne daignez pas m'accorder votre aveu, </l>
 	<l id='537'>Donnez-moi les moyens d'agir en assurance ; </l>
 	<l id='538'>Dites-moi votre goût, ou votre répugnance ; </l>
@@ -1095,19 +1091,19 @@
 	<l id='549'>Est-ce-là m'éclaircir ?... Lui rendra-t-on justice ? </l>
 </sp>
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
-	<l id='550' part='i'>Il l'attendait de vous, Madame. </l>
+	<l id='550' part="i">Il l'attendait de vous, Madame. </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='550' part='f'>Ah, quel supplice ? </l>
-	<l id='551' part='i'>Vous me persécutez. </l>
+	<l id='550' part="f">Ah, quel supplice ? </l>
+	<l id='551' part="i">Vous me persécutez. </l>
 </sp>
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
-	<l id='551' part='f'>J'en ai bien du regret. </l>
+	<l id='551' part="f">J'en ai bien du regret. </l>
 </sp>
-<sp who='HORTENSE'><speaker>HORTENSE, plus vivement.</speaker>
+<sp stage="nervous" who='HORTENSE'><speaker>HORTENSE, plus vivement.</speaker>
 	<l id='552'>Eh bien, Monsieur, gardez aussi votre secret. </l>
 </sp>
-<sp who='ARISTE'><speaker>ARISTE, à part.</speaker>
+<sp stage="aparte" who='ARISTE'><speaker>ARISTE, à part.</speaker>
 	<l id='553'>Ah ! je ne métais pas trompé dans mon attente.</l>
 <stage type="toward">À Hortense.</stage>
 	<l id='554'>Il faut vous deviner ; et vous serez contente. </l>
@@ -1117,51 +1113,51 @@
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE IV. Hortense, Clorine.</head>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='557' part='i'>Ses désirs, et mes voeux ! </l>
-<stage type="[N/A]">Elle rêve.</stage>
+	<l id='557' part="i">Ses désirs, et mes voeux ! </l>
+<stage type="dream">Elle rêve.</stage>
 </sp>
-<sp who='CLORINE'><speaker>CLORINE, au fond du théâtre.</speaker>
-	<l id='557' part='f'>Le portrait est en vue. </l>
+<sp stage="location" who='CLORINE'><speaker>CLORINE, au fond du théâtre.</speaker>
+	<l id='557' part="f">Le portrait est en vue. </l>
 	<l id='558'>Monrose va rentrer ; attendons-en l'issue. </l>
 </sp>
-<sp who='HORTENSE'><speaker>HORTENSE, à Clorine.</speaker>
+<sp stage="toward" who='HORTENSE'><speaker>HORTENSE, à Clorine.</speaker>
 	<l id='559'>Je ne puis revenir de mon émotion, </l>
 	<l id='560'>Je viens de soutenir la persécution, </l>
 	<l id='561'>L'attaque la plus vive, et la plus continue... </l>
-	<l id='562'>Qu'ai-je fait ? Qu'ai-je dit ? Que suis-je devenue ?  </l>
+	<l id='562'>Qu'ai-je fait ? Qu'ai-je dit ? Que suis-je devenue ? </l>
 	<l id='563'>Conçois-tu les efforts, peut-être superflus, </l>
-	<l id='564' part='i'>Que j'ai faits ? </l>
+	<l id='564' part="i">Que j'ai faits ? </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-	<l id='564' part='f'>Contre qui ? Je ne sais rien de plus. </l>
+	<l id='564' part="f">Contre qui ? Je ne sais rien de plus. </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
 	<l id='565'>Pour pénétrer au fond de mon coeur trop sensible, </l>
-	<l id='566' part='i'>Ariste... </l>
+	<l id='566' part="i">Ariste... </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-	<l id='566' part='m'>Eh bien, Ariste ? </l>
+	<l id='566' part="m">Eh bien, Ariste ? </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='566' part='f'>Il a fait son possible. </l>
+	<l id='566' part="f">Il a fait son possible. </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
 	<l id='567'>C'est-à-dire qu'enfin cet homme a deviné. </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='568' part='i'>J'en serais accablée. </l>
+	<l id='568' part="i">J'en serais accablée. </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-	<l id='568' part='f'>Il s'est imaginé </l>
+	<l id='568' part="f">Il s'est imaginé </l>
 	<l id='569'>Ce que depuis longtemps j'imagine moi-même. </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
 	<l id='570'>Conçois-tu ses desseins ? D'où vient ce soin extrême, </l>
-	<l id='571' part='i'>Dis ? </l>
+	<l id='571' part="i">Dis ? </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
 <note>Vouloir : action de la volonté. Ce mot n'est pas fort bon ni en vers ni en prose ; c'est pourquoi il ne faut l'employer que rarement et en de certaines occasions. [F]</note>
-	<l id='571' part='f'>C'est pour contenter certains vouloirs malins, </l>
+	<l id='571' part="f">C'est pour contenter certains vouloirs malins, </l>
 	<l id='572'>Où naturellement les hommes sont enclins : </l>
 	<l id='573'>Ils ont tous la fureur de savoir nos faiblesses. </l>
 </sp>
@@ -1172,10 +1168,10 @@
 	<l id='575'>Et que sait-on ? Peut-être il vous trouve à son goût. </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='576' part='i'>Lui ? </l>
+	<l id='576' part="i">Lui ? </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-	<l id='576' part='f'>Mon Dieu ! Pourquoi non ? Il faut s'attendre à tout,  </l>
+	<l id='576' part="f">Mon Dieu ! Pourquoi non ? Il faut s'attendre à tout, </l>
 	<l id='577'>Quand on a, comme vous, tant d'attraits en partage. </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
@@ -1186,10 +1182,10 @@
 	<l id='580'>Mais à propos d'amant, vous m'allez bien blâmer. </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='581' part='i'>De quoi donc ? </l>
+	<l id='581' part="i">De quoi donc ? </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-	<l id='581' part='f'>Que je cherche au fond de ma mémoire ! </l>
+	<l id='581' part="f">Que je cherche au fond de ma mémoire ! </l>
 	<l id='582'>C'est à l'occasion... tenez... voilà l'histoire. </l>
 	<l id='583'>Il faut vous l'avouer ; c'est pour votre portrait... </l>
 	<l id='584'>Que diantre ! Il ne peut pas se perdre tout-à-fait. </l>
@@ -1202,24 +1198,24 @@
 	<l id='587'>Je ne sais... J'entrevois du mystère en ceci. </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='588' part='i'>Comment ? </l>
+	<l id='588' part="i">Comment ? </l>
 </sp>
-<sp who='CLORINE'><speaker>CLORINE, montrant l'appartement de Monrose.</speaker>
-	<l id='588' part='f'>Je gagerais qu'il n'est pas loin d'ici. </l>
+<sp stage="show" who='CLORINE'><speaker>CLORINE, montrant l'appartement de Monrose.</speaker>
+	<l id='588' part="f">Je gagerais qu'il n'est pas loin d'ici. </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
 	<l id='589'>Ni moi, ni mon portrait, n'intéressent personne. </l>
-	<l id='590' part='i'>On le rapportera. </l>
+	<l id='590' part="i">On le rapportera. </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-	<l id='590' part='f'>Celui que je soupçonne... </l>
-	<l id='591'>Si Monrose l'avait !... Eh bien, vous m'entendez ?  </l>
+	<l id='590' part="f">Celui que je soupçonne... </l>
+	<l id='591'>Si Monrose l'avait !... Eh bien, vous m'entendez ? </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='592' part='i'>Que veux-tu qu'il en fasse ? </l>
+	<l id='592' part="i">Que veux-tu qu'il en fasse ? </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-	<l id='592' part='f'>Ah ! vous me demandez </l>
+	<l id='592' part="f">Ah ! vous me demandez </l>
 	<l id='593'>Ce qu'on fait du portrait d'une femme qu'on aime ? </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
@@ -1241,7 +1237,7 @@
 	<l id='605'>Qu'on s'en prenne au devoir : c'est lui qui m'a séduite. </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-	<l id='606'>Madame, j'en reviens au soupçon qui m'agite.  </l>
+	<l id='606'>Madame, j'en reviens au soupçon qui m'agite. </l>
 	<l id='607'>Monrose, si j'en crois ce que j'ai dans l'esprit, </l>
 	<l id='608'>Aura votre portrait, comme je vous l'ai dit. </l>
 	<l id='609'>La restitution peut en être incertaine. </l>
@@ -1261,16 +1257,16 @@
 	<l id='617' pat='i'>C'est le dernier. </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-	<l id='617' part='f'>Mais si d'un air soumis et tendre </l>
+	<l id='617' part="f">Mais si d'un air soumis et tendre </l>
 	<l id='618'>Il vous le rapportait, sans vouloir vous le rendre ! </l>
-	<l id='619' part='i'>Pourriez-vous le forcer ?... </l>
+	<l id='619' part="i">Pourriez-vous le forcer ?... </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='619' part='f'>Puis-je faire autrement ! </l>
-	<l id='620' part='i'>Clorine, il faudrait bien... </l>
+	<l id='619' part="f">Puis-je faire autrement ! </l>
+	<l id='620' part="i">Clorine, il faudrait bien... </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-	<l id='620' part='f'>Qu'il vienne seulement ! </l>
+	<l id='620' part="f">Qu'il vienne seulement ! </l>
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Aramont, Hortense, Clorine.</head>
@@ -1287,31 +1283,31 @@
 	<l id='626'>Sans doute qu'il était tombé de votre poche : </l>
 	<l id='627'>Quelqu'autre moins fidèle aurait pu s'en saisir. </l>
 </sp>
-<sp who='CLORINE'><speaker>CLORINE, à part.</speaker>
-	<l id='628' part='i'>Eh bien, quel enragé ! </l>
+<sp stage="aparte" who='CLORINE'><speaker>CLORINE, à part.</speaker>
+	<l id='628' part="i">Eh bien, quel enragé ! </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='628' part='f'>Je me fais un plaisir... </l>
+	<l id='628' part="f">Je me fais un plaisir... </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='629' part='i'>Clorine était en peine... </l>
+	<l id='629' part="i">Clorine était en peine... </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-	<l id='629' part='f'>Et la voilà finie.</l>
+	<l id='629' part="f">Et la voilà finie.</l>
 <stage type="aparte">À part.</stage>
 	<l id='630'>Fussiez-vous dans le fond de votre Baronnie ! </l>
 </sp>
-<sp who='HORTENSE'><speaker>HORTENSE, en lui faisant le révérence.</speaker>
+<sp stage="wave" who='HORTENSE'><speaker>HORTENSE, en lui faisant le révérence.</speaker>
 	<l id='631'>Monsieur, je suis sensible à votre procédé.</l>
 <stage type="toward">À Clorine</stage>
-	<l id='632' part='i'>Reprenez ce portrait. </l>
+	<l id='632' part="i">Reprenez ce portrait. </l>
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Aramont, Clorine.</head>
-<sp who='CLORINE'><speaker>CLORINE, à part.</speaker>
-	 <l id='632' part='f'>Cet homme-est possédé. </l>
+<sp stage="aparte" who='CLORINE'><speaker>CLORINE, à part.</speaker>
+	 <l id='632' part="f">Cet homme-est possédé. </l>
 </sp>
-<sp who='ARAMONT'><speaker>ARAMONT, à part, et la portrait à la main.</speaker>
+<sp stage="aparte/carry" who='ARAMONT'><speaker>ARAMONT, à part, et le portrait à la main.</speaker>
 <note>Déplaisance : vieux mot qui signifiait chagrin, mélancolie. [F]</note>
 	<l id='633'>Ouais ! mon petit service est pris en déplaisance ! </l>
 </sp>
@@ -1336,11 +1332,11 @@
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
 	<l id='641'>Donnez, Monsieur, donnez, puisqu'il faut le reprendre. </l>
-	<l id='642'>Mais ce n'était pas vous qui deviez nous le rendre.  </l>
+	<l id='642'>Mais ce n'était pas vous qui deviez nous le rendre. </l>
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCENE VII.</head>
-<sp who='ARAMONT'><speaker>ARAMONT, seul. </speaker>
+<sp stage="alone" who='ARAMONT'><speaker>ARAMONT, seul. </speaker>
 	<l id='643'>Je serais bien surpris si je n'étais qu'un sot, </l>
 	<l id='644'>Oui, vraiment, à la fin j'entends à demi-mot. </l>
 	<l id='645'>Il s'ensuit qu'il fallait d'abord entr'autre chose </l>
@@ -1354,19 +1350,19 @@
 	<l id='649'>Parbleu, tu nous as fait une belle bévue ! </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='650' part='i'>Laquelle ? </l>
+	<l id='650' part="i">Laquelle ? </l>
 </sp>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
-	<l id='650' part='m'>A ton avis ? </l>
+	<l id='650' part="m">A ton avis ? </l>
 </sp>
-<sp who='ARAMONT'><speaker>ARAMONT, à part.</speaker>
-	<l id='650' part='f'>L'aurait-il déjà sue ? </l>
+<sp stage="alone" who='ARAMONT'><speaker>ARAMONT, à part.</speaker>
+	<l id='650' part="f">L'aurait-il déjà sue ? </l>
 </sp>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
-	<l id='651' part='i'>Tu prônes l'héritage... </l>
+	<l id='651' part="i">Tu prônes l'héritage... </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='651' part='f'>Oui : c'est un tour d'ami.</l>
+	<l id='651' part="f">Oui : c'est un tour d'ami.</l>
 </sp>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
 	<l id='652'>Et que le défunt laisse un argent infini. </l>
@@ -1375,10 +1371,10 @@
 	<l id='653'>Sans doute : je l'ai dit en faveur de Monrose. </l>
 	<l id='654'>Peut-on se maintenir à moins qu'on n'en impose ? </l>
 	<l id='655'>Par-là, ses créanciers, prêts à fondre sur lui, </l>
-	<l id='656' part='i'>Se sont tranquillisez. </l>
+	<l id='656' part="i">Se sont tranquillisez. </l>
 </sp>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
-	<l id='656' part='f'>Tu vas voir aujourd'hui </l>
+	<l id='656' part="f">Tu vas voir aujourd'hui </l>
 	<l id='657'>Que ta finesse aura des suites bien contraires. </l>
 	<l id='658'>Tous ces coquins mettront le feu dans les affaires. </l>
 	<l id='659'>Ils savent qu'on les joue : ils vont saisir partout. </l>
@@ -1386,10 +1382,10 @@
 	<l id='661'>Pourvu que son honneur n'en soit pas la victime. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='662' part='i'>Quelle chimère ! </l>
+	<l id='662' part="i">Quelle chimère ! </l>
 </sp>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
-	<l id='662' part='f'>Point : ma crainte est légitime. </l>
+	<l id='662' part="f">Point : ma crainte est légitime. </l>
 	<l id='663'>Pour être serviable, il faut être prudent. </l>
 	<l id='664'>On est bien dangereux, quand on est trop ardent. </l>
 	<l id='665'>J'aimerais cent fois mieux une amitié stérile, </l>
@@ -1405,10 +1401,10 @@
 	<l id='671'>On dit, fut de tout temps la gazette des sots. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='672' part='i'>C'est le Public. </l>
+	<l id='672' part="i">C'est le Public. </l>
  </sp>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
-	<l id='672' part='f'>Ah ! Ah ! Quels sont donc ces propos ? </l>
+	<l id='672' part="f">Ah ! Ah ! Quels sont donc ces propos ? </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
 	<l id='673'>Que Monrose se perd, et que c'est par la faute </l>
@@ -1417,10 +1413,10 @@
 	<l id='676'>La croyance où l'on est qu'il a tout obtenu. </l>
 </sp>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
-	<l id='677' part='i'>La Cour trouve mauvais ! </l>
+	<l id='677' part="i">La Cour trouve mauvais ! </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='677' part='f'>Voilà ce qui se passe. </l>
+	<l id='677' part="f">Voilà ce qui se passe. </l>
 	<l id='678'>On conseille un ami, sans se mettre à sa place, </l>
 	<l id='679'>Ce qui fait qu'on le perd, c'est qu'ordinairement </l>
 	<l id='680'>La vanité, l'humeur, et le tempérament </l>
@@ -1429,7 +1425,7 @@
 </sp>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
 	<l id='683'>Nous verrons qui des deux aura le plus de tort. </l>
-	<l id='684'>Monrose qui survient va nous mettre d'accord.  </l>
+	<l id='684'>Monrose qui survient va nous mettre d'accord. </l>
 </sp>
 </div2>
 <div2 type="scene" n='9'><head>SCÈNE IX. Aramont, Dornane, Monrose.</head>
@@ -1453,43 +1449,43 @@
 </sp>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
 	<l id='697'>Entendons-nous un peu. Quelle est cette aventure, </l>
-	<l id='698' part='i'>Ou plutôt cette énigme ? </l>
+	<l id='698' part="i">Ou plutôt cette énigme ? </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='698' part='f'>Elle n'est point obscure. </l>
-	<l id='699' part='i'>Tout est perdu. </l>
+	<l id='698' part="f">Elle n'est point obscure. </l>
+	<l id='699' part="i">Tout est perdu. </l>
 </sp>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
-	<l id='699' part='m'>Quel conte ? </l>
+	<l id='699' part="m">Quel conte ? </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='699' part='f'>Oui ; c'est la vérité. </l>
+	<l id='699' part="f">Oui ; c'est la vérité. </l>
 	<l id='700'>On vient de me tirer de ma sécurité. </l>
 </sp>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
-	<l id='701' part='i'>Comment ? La Cour aurait !... </l>
+	<l id='701' part="i">Comment ? La Cour aurait !... </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='701' part='f'>Il lui plaît de répandre </l>
+	<l id='701' part="f">Il lui plaît de répandre </l>
 	<l id='702'>Ses grâces sur quelqu'un qui peut mieux y prétendre. </l>
-	<l id='703' part='i'>Elle accorde au plus digne... </l>
+	<l id='703' part="i">Elle accorde au plus digne... </l>
 </sp>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
-	<l id='703' part='f'>Eh ! dis au plus heureux. </l>
-	<l id='704' part='i'>Le nomme-t-on ? </l>
+	<l id='703' part="f">Eh ! dis au plus heureux. </l>
+	<l id='704' part="i">Le nomme-t-on ? </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='704' part='f'>Non : mais le fait n'est plus douteux. </l>
-	<l id='705' part='i'>C'est un autre que moi. </l>
+	<l id='704' part="f">Non : mais le fait n'est plus douteux. </l>
+	<l id='705' part="i">C'est un autre que moi. </l>
 </sp>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
-	<l id='705' part='f'>N'es-tu point trop crédule ? </l>
+	<l id='705' part="f">N'es-tu point trop crédule ? </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='706' part='i'>Mon malheur est certain. </l>
+	<l id='706' part="i">Mon malheur est certain. </l>
 </sp>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
-	<l id='706' part='f'>Mais il est ridicule. </l>
+	<l id='706' part="f">Mais il est ridicule. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
 	<l id='707'>Ceux que je viens de voir ne m'ont que trop instruit. </l>
@@ -1497,7 +1493,7 @@
 	<l id='709'>Ma plus grande infortune en cette conjoncture </l>
 	<l id='710'>Vient d'avoir devancé ma fortune future. </l>
 	<l id='711'>Comptant sur l'avenir que j'ai trop espéré, </l>
-	<l id='712'>J'en avais pris l'état ; je me suis obéré.  </l>
+	<l id='712'>J'en avais pris l'état ; je me suis obéré. </l>
 </sp>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
 	<l id='713'>Parbleu, qui ne l'est pas ! Surtout parmi nous autres ! </l>
@@ -1531,38 +1527,38 @@
 	<l id='731'>C'est-là que pour jamais je m'ensevelirai. </l>
 </sp>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
-	<l id='732' part='i'>J'empêcherai ta fuite. </l>
+	<l id='732' part="i">J'empêcherai ta fuite. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='732' part='f'>Et moi, je vous suivrai. </l>
+	<l id='732' part="f">Et moi, je vous suivrai. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
 	<l id='733'>Le dessein en est pris, et j'y resterai ferme. </l>
-	<l id='734' part='i'>Il faut s'exécuter. </l>
+	<l id='734' part="i">Il faut s'exécuter. </l>
 </sp>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
-	<l id='734' part='f'>Je n'entends point ce terme. </l>
+	<l id='734' part="f">Je n'entends point ce terme. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='735' part='i'>Je veux me libérer. </l>
+	<l id='735' part="i">Je veux me libérer. </l>
 </sp>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
-	<l id='735' part='f'>Te libérer ? Comment ? </l>
+	<l id='735' part="f">Te libérer ? Comment ? </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
 	<l id='736'>Pour payer, je vendrai jusqu'à mon Régiment. </l>
 </sp>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
-	<l id='737' part='i'>C'est te couper la gorge. </l>
+	<l id='737' part="i">C'est te couper la gorge. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='737' part='f'>Il le faut bien. Que faire ? </l>
+	<l id='737' part="f">Il le faut bien. Que faire ? </l>
 </sp>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
-	<l id='738' part='i'>Que deviendras-tu ? </l>
+	<l id='738' part="i">Que deviendras-tu ? </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='738' part='f'>Rien. Suis-je si nécessaire ? </l>
+	<l id='738' part="f">Rien. Suis-je si nécessaire ? </l>
 	<l id='739'>Faut-il pour soutenir toujours le même état ? </l>
 	<l id='740'>À mille malheureux emprunter mon éclat ? </l>
 	<l id='741'>À l'abri d'une fausse et coupable importance, </l>
@@ -1587,21 +1583,21 @@
 	<l id='758'>Je le saurais. Je vais m'en faire rendre compte. </l>
 	<l id='759'>C'est encore un faux bruit que l'on aura semé. </l>
 	<l id='760'>Ne conclus rien avant que j'en sois informé. </l>
-<stage type="[N/A]">Il va pour sortir.</stage>
+<stage type="away">Il va pour sortir.</stage>
 </sp>
-<sp who='MONROSE'><speaker>MONROSE, à Aramont.</speaker>
+<sp stage="toward" who='MONROSE'><speaker>MONROSE, à Aramont.</speaker>
 	<l id='761'>Tu parais pénétré de mon malheur extrême.</l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
 	<l id='762'>Je ne le soutiens pas aussi-bien que vous-même. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='763' part='i'>Il faut s'en consoler. </l>
+	<l id='763' part="i">Il faut s'en consoler. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='763' part='f'>Que nous veut le Marquis ? </l>
+	<l id='763' part="f">Que nous veut le Marquis ? </l>
 </sp>
-<sp who='DORNANE'><speaker>DORNANE, revenant mystérieusement.</speaker>
+<sp stage="closer/mysterious" who='DORNANE'><speaker>DORNANE, revenant mystérieusement.</speaker>
 	<l id='764'>Je reviens. Quand j'y pense... Il faut tout mettre au pis. </l>
 	<l id='765'>Nous vivons dans un siècle où rien n'est impossible ; </l>
 	<l id='766'>Où, bien loin de servir, le mérite est nuisible. </l>
@@ -1617,57 +1613,57 @@
 	<l id='776'>Qui nous arrangerait tous deux également. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='777' part='i'>Parle. </l>
+	<l id='777' part="i">Parle. </l>
 </sp>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
-	<l id='777' part='f'>Ton régiment est à ma bienséance. </l>
-	<l id='778'>Pourrais-je de ta part avoir la préférence ?   </l>
+	<l id='777' part="f">Ton régiment est à ma bienséance. </l>
+	<l id='778'>Pourrais-je de ta part avoir la préférence ?  </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='779' part='i'>De tout mon coeur. </l>
+	<l id='779' part="i">De tout mon coeur. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='779' part='f'>Oui : mais vous n'avez point d'argent. </l>
+	<l id='779' part="f">Oui : mais vous n'avez point d'argent. </l>
 </sp>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
-	<l id='780' part='i'>Parbleu, j'en trouverai. </l>
+	<l id='780' part="i">Parbleu, j'en trouverai. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='780' part='f'>Cet homme est obligeant. </l>
+	<l id='780' part="f">Cet homme est obligeant. </l>
 </sp>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
 	<l id='781'>Pour un si bon usage, on n'est point sans ressources. </l>
-	<l id='782' part='i'>Mes amis m'aideront... </l>
+	<l id='782' part="i">Mes amis m'aideront... </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='782' part='m'>Oui-da. </l>
+	<l id='782' part="m">Oui-da. </l>
 </sp>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
-	<l id='782' part='f'>Si dans leurs bourses </l>
+	<l id='782' part="f">Si dans leurs bourses </l>
 	<l id='783'>Je ne trouve pas tout, je ferai mon billet </l>
-	<l id='784' part='i'>Du surplus. </l>
+	<l id='784' part="i">Du surplus. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='784' part='f'>Un billet : je suis votre valet. </l>
+	<l id='784' part="f">Un billet : je suis votre valet. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='785' part='i'>On peut s'ajuster. </l>
+	<l id='785' part="i">On peut s'ajuster. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='785' part='m'>Mal. </l>
+	<l id='785' part="m">Mal. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='785' part='f'>Je t'en laisse l'arbitre. </l>
+	<l id='785' part="f">Je t'en laisse l'arbitre. </l>
 </sp>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
-	<l id='786' part='i'>Je te suis obligé. </l>
+	<l id='786' part="i">Je te suis obligé. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='786' part='f'>Ce serait à bon titre. </l>
+	<l id='786' part="f">Ce serait à bon titre. </l>
 </sp>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
 	<l id='787'>Puisque nous convenons, mon cher, en attendant, </l>
-	<l id='788'>Garde-moi le secret, de crainte d'accident.  </l>
+	<l id='788'>Garde-moi le secret, de crainte d'accident. </l>
 </sp>
 </div2>
 <div2 type="scene" n='10'><head>SCÈNE X. Aramont, Monrose.</head>
@@ -1684,20 +1680,20 @@
 	<l id='796'>Sa famille pour lors y donnera la main. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='797' part='i'>Ce marché ridicule aura donc lieu ? </l>
+	<l id='797' part="i">Ce marché ridicule aura donc lieu ? </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='797' part='f'>Sans doute. </l>
+	<l id='797' part="f">Sans doute. </l>
 	<l id='798'>Puisqu'il faut que je vende. Heureux dans ma déroute </l>
 	<l id='799'>De pouvoir obliger quelqu'un de mes amis </l>
 	<l id='800'>C'est le dernier plaisir qui me sera permis ! </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='801' part='i'>On pourrait s'en passer. </l>
+	<l id='801' part="i">On pourrait s'en passer. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='801' part='f'>Souffre que je te quitte. </l>
-	<l id='802'>Je voudrais voir Ariste ; et j'y cours au plus vite.  </l>
+	<l id='801' part="f">Souffre que je te quitte. </l>
+	<l id='802'>Je voudrais voir Ariste ; et j'y cours au plus vite. </l>
 </sp>
 </div2>
 <div2 type="scene" n='11'><head>SCÈNE XI.</head>
@@ -1713,15 +1709,15 @@
 </div1>
 <div1 type="act" n='3'><head>ACTE III</head>
 <div2 type="scene" n='1'><head>SCÈNE I. Ariste, Un Valet.</head>
-<sp who='ARISTE'><speaker>ARISTE, au valet.</speaker>
+<sp stage="toward" who='ARISTE'><speaker>ARISTE, au valet.</speaker>
 	<l id='809'>J'attendrai son retour. Surtout, qu'on l'avertisse,</l>
-	<l id='810' part='i'>Sitôt qu'il rentrera.</l>
+	<l id='810' part="i">Sitôt qu'il rentrera.</l>
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II.</head>
-<sp who='ARISTE'><speaker>ARISTE, seul. </speaker>
-	<l id='810' part='f'>Faut-il que je ne puisse </l>
-	<l id='811'>Lui dire mon secret ? Monrose est étonnant  </l>
+<sp stage="alone" who='ARISTE'><speaker>ARISTE, seul. </speaker>
+	<l id='810' part="f">Faut-il que je ne puisse </l>
+	<l id='811'>Lui dire mon secret ? Monrose est étonnant </l>
 	<l id='812'>De ne pas voir quel est le péril imminent, </l>
 	<l id='813'>Où son humeur facile expose sa fortune. </l>
 	<l id='814'>La remontrance ici deviendrait importune ; </l>
@@ -1733,28 +1729,28 @@
 	<l id='820'>Il faut y suppléer, et ne nous point lasser : </l>
 	<l id='821'>Du moins j'ai réparé les fautes qu'ils ont faites. </l>
 	<l id='822'>Quoi qu'il puisse arriver, j'ai mis ordre à ses dettes ; </l>
-	<l id='823' part='i'>Il ne se perdra point.</l>
+	<l id='823' part="i">Il ne se perdra point.</l>
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Ariste, Monrose.</head> 
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
-	<l id='823' part='f'>Nous nous cherchons tous deux. </l>
+	<l id='823' part="f">Nous nous cherchons tous deux. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='824' part='i'>Oui, je sors de chez vous. </l>
+	<l id='824' part="i">Oui, je sors de chez vous. </l>
 </sp>
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
-	<l id='824' part='f'>Quel est ce bruit fâcheux ? </l>
+	<l id='824' part="f">Quel est ce bruit fâcheux ? </l>
 	<l id='825'>Ce qu'on dit, est-il vrai ? Vous quittez le service ? </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
 	<l id='826'>Je ferai malgré moi ce cruel sacrifice. </l>
 </sp>
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
-	<l id='827' part='i'>On vous prendrait au mot. </l>
+	<l id='827' part="i">On vous prendrait au mot. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='827' part='f'>Je vends mon Régiment  </l>
+	<l id='827' part="f">Je vends mon Régiment </l>
 	<l id='828'>Afin de m'acquitter. Puis-je faire autrement ? </l>
 </sp>
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
@@ -1765,10 +1761,10 @@
 	<l id='831'>C'est d'un autre que moi dont la Cour a fait choix. </l>
 </sp>
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
-	<l id='832' part='i'>Savez vous si cet autre accepte ? </l>
+	<l id='832' part="i">Savez vous si cet autre accepte ? </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='832' part='f'>Ah ! je le crois. </l>
+	<l id='832' part="f">Ah ! je le crois. </l>
 </sp>
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
 	<l id='833'>Ou vous le supposez. Est-ce une conséquence ? </l>
@@ -1779,10 +1775,10 @@
 	<l id='838'>Ou du moins d'un dépit qui n'est pas à sa place. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='839' part='i'>Ce sont mes ennemis... </l>
+	<l id='839' part="i">Ce sont mes ennemis... </l>
 </sp>
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
-	<l id='839' part='f'>Non ; ce n'est point eux. </l>
+	<l id='839' part="f">Non ; ce n'est point eux. </l>
 	<l id='840'>Il est bien d'autres gens qui sont plus dangereux. </l>
 	<l id='841'>Ne croyez pas, Monsieur, que je taxe personne </l>
 	<l id='842'>Dans ces réflexions que je vous abandonne.</l>
@@ -1809,7 +1805,7 @@
 	<l id='861'>Et comment démêler l'amitié véritable </l>
 	<l id='862'>D'avec la flatterie alors inévitable ? </l>
 	<l id='863'>La Fortune nous met un bandeau sur les yeux. </l>
-	<l id='864'>Depuis qu'elle a changé la face de ces lieux,  </l>
+	<l id='864'>Depuis qu'elle a changé la face de ces lieux, </l>
 	<l id='865'>Pouvais-je mieux choisir dans cette circonstance, </l>
 	<l id='866'>Que ceux qui sont venus m'offrir leur assistance ? </l>
 	<l id='867'>Je n'ai retrouvé qu'eux dans mon adversité. </l>
@@ -1827,10 +1823,10 @@
 	<l id='877'>Du reste est-il permis de vous parler d'Hortense ? </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='878' part='i'>Hélas ! </l>
+	<l id='878' part="i">Hélas ! </l>
 </sp>
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
-	<l id='878' part='f'>Qu'est-ce ? On soupçonne un peu votre constance. </l>
+	<l id='878' part="f">Qu'est-ce ? On soupçonne un peu votre constance. </l>
 	<l id='879'>Vous ne la voyez plus. D'où vient ce changement ? </l>
 	<l id='880'>Parlez ; auriez-vous pris quelqu'autre engagement ? </l>
 </sp>
@@ -1860,17 +1856,17 @@
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV.</head>
-<sp who='MONROSE'><speaker>MONROSE, seul. </speaker>
+<sp stage="alone" who='MONROSE'><speaker>MONROSE, seul. </speaker>
 	<l id='897'>Il n'est plus temps ; ses soins ne me serviront guéres. </l>
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCENE V. Monrose, Clorine. </head>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
 	<l id='898'>On vous attend. Ce sont, je crois, des gens d'affaires ; </l>
-	<l id='899' part='i'>Ils en ont bien la mine. </l>
+	<l id='899' part="i">Ils en ont bien la mine. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='899' part='f'>Allons, je vais les voir. </l>
+	<l id='899' part="f">Allons, je vais les voir. </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
 	<l id='900'>Le départ de Madame est fixé pour ce soir. </l>
@@ -1881,61 +1877,61 @@
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI.</head>
-<sp who='CLORINE'><speaker>CLORINE, seule. </speaker>
+<sp stage="alone" who='CLORINE'><speaker>CLORINE, seule. </speaker>
 	<l id='903'>S'il voulait la revoir, il ferait beaucoup mieux. </l>
 	<l id='904'>Mais la voici qui vient d'achever ses adieux. </l>
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII. Hortense, Clorine.</head>
-<sp who='HORTENSE'><speaker>HORTENSE, avec un billet à la main.</speaker>
+<sp stage="show" who='HORTENSE'><speaker>HORTENSE, avec un billet à la main.</speaker>
 	<l id='905'>Je suis au désespoir ; la méprise est cruelle : </l>
-	<l id='906' part='i'>Comment la réparer ? </l>
+	<l id='906' part="i">Comment la réparer ? </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-	<l id='906' part='f'>Madame quelle est-elle ? </l>
+	<l id='906' part="f">Madame quelle est-elle ? </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='907' part='i'>Mes gens se sont trompez. </l>
+	<l id='907' part="i">Mes gens se sont trompez. </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-	<l id='907' part='f'>Peut-on savoir en quoi ? </l>
+	<l id='907' part="f">Peut-on savoir en quoi ? </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
 	<l id='908'>J'ai lu, sans y penser, ce qui n'est pas pour moi. </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
 	<l id='909'>Ah ! n'est-ce que cela ? Quitte à brûler la lettre, </l>
-	<l id='910' part='i'>Et ne s'en pas vanter ! </l>
+	<l id='910' part="i">Et ne s'en pas vanter ! </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='910' part='f'>Il faut la lui remettre </l>
-	<l id='911' part='i'>Absolument.</l>
+	<l id='910' part="f">Il faut la lui remettre </l>
+	<l id='911' part="i">Absolument.</l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-	<l id='911' part='f'>Madame, à qui donc, s'il vous plaît ? </l>
+	<l id='911' part="f">Madame, à qui donc, s'il vous plaît ? </l>
 </sp>
-<sp who='HORTENSE'><speaker>HORTENSE, à Monrose.</speaker>
+<sp stage="toward" who='HORTENSE'><speaker>HORTENSE, à Monrose.</speaker>
 	<l id='912'>Et peut-être ai-je lu mon arrêt. </l>
 	<l id='913'>On finit ses malheurs, s'il veut être sensible : </l>
-	<l id='914' part='i'>Ce billet l'en assure. </l>
+	<l id='914' part="i">Ce billet l'en assure. </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-	<l id='914' part='f'>Ah ! Serait-il possible ? </l>
+	<l id='914' part="f">Ah ! Serait-il possible ? </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
 	<l id='915'>Des offres qu'on lui fait il peut-être charmé. </l>
 	<l id='916'>S'il n'est pas inconstant, du moins il est aimé. </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-	<l id='917' part='i'>Oui, c'est un grand attrait. </l>
+	<l id='917' part="i">Oui, c'est un grand attrait. </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='917' part='f'>Hélas ! qu'elle est heureuse </l>
+	<l id='917' part="f">Hélas ! qu'elle est heureuse </l>
 	<l id='918'>De pouvoir à son gré se montrer généreuse, </l>
-	<l id='919' part='i'>Et d'employer ainsi !... </l>
+	<l id='919' part="i">Et d'employer ainsi !... </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-	<l id='919' part='f'>Je ne sais ; mais enfin </l>
+	<l id='919' part="f">Je ne sais ; mais enfin </l>
 	<l id='920'>Cela sent la beauté qui touche à son déclin. </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
@@ -1948,25 +1944,25 @@
 	<l id='925'>Vous le voulez charger de rendre cette lettre ? </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='926' part='i'>Sans doute. </l>
+	<l id='926' part="i">Sans doute. </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-	<l id='926' part='f'>En quelles mains allez-vous la remettre ? </l>
+	<l id='926' part="f">En quelles mains allez-vous la remettre ? </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='927' part='i'>La supprimerait-il ? </l>
+	<l id='927' part="i">La supprimerait-il ? </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-	<l id='927' part='f'>Ah ! n'en ayez pas peur. </l>
+	<l id='927' part="f">Ah ! n'en ayez pas peur. </l>
 	<l id='928'>D'un bout du monde à l'autre il irait de bon coeur. </l>
 	<l id='929'>Ils la liront ensemble ; et puis, gare la glose ! </l>
 	<l id='930'>Il fera ses efforts pour pervertir Monrose. </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='931' part='i'>Il n'importe. </l>
+	<l id='931' part="i">Il n'importe. </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-	<l id='931' part='f'>Madame, il vous sacrifiera. </l>
+	<l id='931' part="f">Madame, il vous sacrifiera. </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
 	<l id='932'>Plus il est son ami, mieux il me servira. </l>
@@ -1980,7 +1976,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='8'><head>SCÈNE VIII.</head>
-<sp who='HORTENSE'><speaker>HORTENSE, seule.</speaker>
+<sp stage="alone" who='HORTENSE'><speaker>HORTENSE, seule.</speaker>
 	<l id='936'>J'ai donc une rivale ? Il n'en faut point douter. </l>
 	<l id='937'>La preuve que je tiens a de quoi me suffire. </l>
 	<l id='938'>Je ne suis pas la seule à qui l'amour inspire </l>
@@ -1989,18 +1985,18 @@
 	<l id='941'>Si nous nous rencontrons dans la même pensée, </l>
 	<l id='942'>J'ai le secret plaisir de l'avoir devancée... </l>
 	<l id='943'>Mais on ne revient point... Ah ! que les Valets sont... </l>
-<stage type="[N/A]">Elle paraît inquiète.</stage>
+<stage type="anxious">Elle paraît inquiète.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='9'><head>SCÈNE IX. Hortense, Un Valet.</head>
-<sp who='LE-VALET'><speaker>LE VALET</speaker>
+<sp who='LE VALET'><speaker>LE VALET.</speaker>
 	<l id='944'>J'ai lassé le paquet chez Monsieur Aramont. </l>
 </sp>
-<sp who='HORTENSE'><speaker>HORTENSE, avec inquiétude.</speaker>
+<sp stage="anxious" who='HORTENSE'><speaker>HORTENSE, avec inquiétude.</speaker>
 	<l id='945'>Avez-vous bien pris garde à ne vous pas méprendre ? </l>
 </sp>
-<sp who='LE-VALET'><speaker>LE VALET</speaker>
-	<l id='946'>Oui. Son Valet de chambre aura soin de le lui rendre.  </l>
+<sp who='LE VALET'><speaker>LE VALET.</speaker>
+	<l id='946'>Oui. Son Valet de chambre aura soin de le lui rendre. </l>
 </sp>
 </div2>
 <div2 type="scene" n='10'><head>SCÈNE X.</head>
@@ -2018,11 +2014,11 @@
 </sp>
 </div2>
 <div2 type="scene" n='11'><head>SCÈNE XI. Hortense, Clorine. </head>
-<sp who='CLORINE'><speaker>CLORIN, éploréee.</speaker>
-	<l id='957' part='i'>On attend Aramont. </l>
+<sp stage="sad/cry" who='CLORINE'><speaker>CLORIN, éploréee.</speaker>
+	<l id='957' part="i">On attend Aramont. </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='957' part='f'>A-t-on quelques nouvelles ? </l>
+	<l id='957' part="f">A-t-on quelques nouvelles ? </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
 	<l id='958'>Oui, Madame, beaucoup ; et même assez cruelles. </l>
@@ -2032,10 +2028,10 @@
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
 	<l id='960'>Armez-vous de courage ; il est d'autres malheurs... </l>
-	<l id='961' part='i'>Ils vous sont personnels. </l>
+	<l id='961' part="i">Ils vous sont personnels. </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='961' part='f'>Serais-je condamnée </l>
+	<l id='961' part="f">Serais-je condamnée </l>
 	<l id='962'>À passer sous le joug d'un cruel hyménée ? </l>
 	<l id='963'>Ma fortune sans doute aura tenté quelqu'un, </l>
 	<l id='964'>Et l'on m'accorde aux voeux d'un amant importun ! </l>
@@ -2049,24 +2045,24 @@
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
 	<l id='968'>Vous étiez riche, et vous ne l'êtes plus. </l>
-	<l id='969' part='i'>Cet Oncle de Monrose... </l>
+	<l id='969' part="i">Cet Oncle de Monrose... </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='969' part='f'>Explique ce mystère. </l>
+	<l id='969' part="f">Explique ce mystère. </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
 	<l id='970'>Cet homme qu'on croyait un sûr dépositaire, </l>
 	<l id='971'>Que votre père avait chargé de votre bien... </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='972' part='i'>L'aurait-il dissipé ? </l>
+	<l id='972' part="i">L'aurait-il dissipé ? </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-	<l id='972' part='f'>L'on ne retrouve rien ; </l>
-	<l id='973' part='i'>Rien du tout, en un mot.</l>
+	<l id='972' part="f">L'on ne retrouve rien ; </l>
+	<l id='973' part="i">Rien du tout, en un mot.</l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='973' part='f'>Mais en es-tu bien sûre ? </l>
+	<l id='973' part="f">Mais en es-tu bien sûre ? </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
 	<l id='974'>Hélas ! que trop, Madame ; et je vous en assure. </l>
@@ -2075,10 +2071,10 @@
 	<l id='977'>Et ce Témoin, Madame, est un des Commissaires. </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='978' part='i'>Que dit Monrose ? </l>
+	<l id='978' part="i">Que dit Monrose ? </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-	<l id='978' part='f'>Il est avec ces gens d'affaires. </l>
+	<l id='978' part="f">Il est avec ces gens d'affaires. </l>
 	<l id='979'>D'un oeil presque insensible il voyait ses malheurs : </l>
 	<l id='980'>Les vôtres l'ont atteint des plus vives douleurs. </l>
 	<l id='981'>On dirait que lui-même il s'en croit responsable : </l>
@@ -2094,24 +2090,24 @@
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
 	<l id='988'>En l'apprenant, j'ai cru que j'allais expirer. </l>
 </sp>
-<sp who='HORTENSE'><speaker>HORTENSE, à part.</speaker>
+<sp stage="aparte" who='HORTENSE'><speaker>HORTENSE, à part.</speaker>
 	<l id='989'>Quel bonheur ! j'ai sauvé ce qui m'est nécessaire. </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-	<l id='990' part='i'>Qu'allez-vous devenir ? </l>
+	<l id='990' part="i">Qu'allez-vous devenir ? </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='990' part='f'>Ce sera mon affaire. </l>
+	<l id='990' part="f">Ce sera mon affaire. </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
 	<l id='991'>J'envisage pour vous quelques soulagements </l>
-	<l id='992' part='i'>Qui pourront... </l>
+	<l id='992' part="i">Qui pourront... </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='992' part='m'>Quels sont-ils ? </l>
+	<l id='992' part="m">Quels sont-ils ? </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-	<l id='992' part='f'>Ce sont vos diamants : </l>
+	<l id='992' part="f">Ce sont vos diamants : </l>
 	<l id='993'>Vous en avez ; ils sont d'un prix considérable. </l>
 	<l id='994'>Du moins, vous vous ferez un sort moins déplorable. </l>
 </sp>
@@ -2120,10 +2116,10 @@
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
 	<l id='996'>La nouvelle n'a fait encore aucun éclat. </l>
-	<l id='997' part='i'>Il peut n'en rien savoir. </l>
+	<l id='997' part="i">Il peut n'en rien savoir. </l>
 </sp>
-<sp who='HORTENSE'><speaker>HORTENSE, à part.</speaker>
-	<l id='997' part='f'>Si cela pouvait être ! </l>
+<sp stage="aparte" who='HORTENSE'><speaker>HORTENSE, à part.</speaker>
+	<l id='997' part="f">Si cela pouvait être ! </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
 	<l id='998'>Il n'était point ici quand... je le vois paraître. </l>
@@ -2133,10 +2129,10 @@
 </sp>
 </div2>
 <div2 type="scene" n='12'><head>SCÈNE XII. Hortense, Aramont.</head>
-<sp who='ARAMONT'><speaker>ARAMONT, à part.</speaker>
+<sp stage="aparte" who='ARAMONT'><speaker>ARAMONT, à part.</speaker>
 	<l id='1000'>Voyons donc si ma lettre aura bien réussi. </l>
 </sp>
-<sp who='HORTENSE'><speaker>HORTENSE, à part.</speaker>
+<sp stage="aparte" who='HORTENSE'><speaker>HORTENSE, à part.</speaker>
 	<l id='1001'>Voici l'instant fatal ; tout mon coeur en frissonne. </l>
 <stage type="toward">À Aramont.</stage>
 	<l id='1002'>Monsieur, en arrivant, n'avez-vous vu personne ? </l>
@@ -2146,16 +2142,16 @@
 	<l id='1004'>Et je viens m'acquitter de ce premier devoir. </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='1005' part='i'>Puis-je compter sur vous ? </l>
+	<l id='1005' part="i">Puis-je compter sur vous ? </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1005' part='f'>Tout me sera facile. </l>
+	<l id='1005' part="f">Tout me sera facile. </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='1006' part='i'>Je le souhaite. </l>
+	<l id='1006' part="i">Je le souhaite. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1006' part='f'>En quoi puis-je vous être utile ? </l>
+	<l id='1006' part="f">En quoi puis-je vous être utile ? </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
 	<l id='1007'>Avant de m'exposer, il faudrait m'assurer... </l>
@@ -2188,20 +2184,20 @@
 	<l id='1018'>Je vais donc vous donner les preuves les plus sûres </l>
 	<l id='1019'>De l'état que je fais de votre probité. </l>
 	<l id='1020'>Mon coeur va s'épancher avec sécurité. </l>
-	<l id='1021' part='i'>Monrose vous est cher ? </l>
+	<l id='1021' part="i">Monrose vous est cher ? </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1021' part='f'>Beaucoup plus que moi-même. </l>
+	<l id='1021' part="f">Beaucoup plus que moi-même. </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
 	<l id='1022'>Je vous crois trop sensible à son malheur extrême, </l>
 	<l id='1023'>Pour craindre de vous mettre avec moi de moitié, </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1024' part='i'>Sûrement. </l>
+	<l id='1024' part="i">Sûrement. </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='1024' part='f'>Unissons... l'amour et l'amitié. </l>
+	<l id='1024' part="f">Unissons... l'amour et l'amitié. </l>
 	<l id='1025'>Cachez-moi la surprise où ce discours vous jette. </l>
 	<l id='1026'>Votre ami va périr. Je sais ce qu'il projette. </l>
 	<l id='1027'>Puisque le sort s'obstine à le persécuter, </l>
@@ -2213,7 +2209,7 @@
 	<l id='1031'>Il est vrai ; son dessein est de quitter la Cour : </l>
 	<l id='1032'>Son malheur l'y contraint ; ce sera sans retour. </l>
 	<l id='1033'>Que ne puis-je empêcher ce cruel sacrifice ! </l>
-	<l id='1034'>Ma fortune, mes biens, seraient à son service ;  </l>
+	<l id='1034'>Ma fortune, mes biens, seraient à son service ; </l>
 	<l id='1035'>Je saurais employer des moyens détournez : </l>
 	<l id='1036'>Mais malheureusement mes pouvoirs sont bornez. </l>
 </sp>
@@ -2235,10 +2231,10 @@
 	<l id='1045'>Je les saisirais tous : mais, hélas ! Qui sera-ce ? </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='1046' part='i'>Moi-même. </l>
+	<l id='1046' part="i">Moi-même. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1046' part='f'>Vous, Madame ?... Ah ! ah ! ceci me passe. </l>
+	<l id='1046' part="f">Vous, Madame ?... Ah ! ah ! ceci me passe. </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
 	<l id='1047'>Ne pourrais-je être aussi généreuse que vous ? </l>
@@ -2248,7 +2244,7 @@
 	<l id='1049'>Je sais qu'il n'en est point qui ne vous soit commune ; </l>
 	<l id='1050'>Mais avec tout cela, Madame, il en est une </l>
 	<l id='1051'>Que l'on n'a point laissée à votre liberté : </l>
-	<l id='1052'>C'est malheureusement la générosité :  </l>
+	<l id='1052'>C'est malheureusement la générosité : </l>
 	<l id='1053'>Quoique vous jouissiez d'un bien considérable, </l>
 	<l id='1054'>Vous ne pouvez en rien nous être secourable. </l>
 </sp>
@@ -2259,83 +2255,83 @@
 	<l id='1056'>Un si, rend tout possible, et ne conduit à rien. </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='1057' part='i'>Peut-être. </l>
+	<l id='1057' part="i">Peut-être. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1057' part='f'>Eh non. Les lois, votre sexe, votre âge, </l>
-	<l id='1058' part='i'>Vous mettant hors d'état... </l>
+	<l id='1057' part="f">Eh non. Les lois, votre sexe, votre âge, </l>
+	<l id='1058' part="i">Vous mettant hors d'état... </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='1058' part='f'>Je sais notre esclavage. </l>
+	<l id='1058' part="f">Je sais notre esclavage. </l>
 	<l id='1059'>Si vous voulez pourtant ne vous pas opposer... </l>
 	<l id='1060'>J'ai quelque superflu dont je puis disposer. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1061' part='i'>Comment ? </l>
+	<l id='1061' part="i">Comment ? </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='1061' part='f'>C'est peu de chose : et toutefois j'espère </l>
-	<l id='1062' part='i'>Que ce secours pourrait, du moins... </l>
+	<l id='1061' part="f">C'est peu de chose : et toutefois j'espère </l>
+	<l id='1062' part="i">Que ce secours pourrait, du moins... </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1062' part='f'>Quelle chimère ! </l>
+	<l id='1062' part="f">Quelle chimère ! </l>
 </sp>
 </div2>
 <div2 type="scene" n='13'><head>SCÈNE XIII. Hortense, Aramont, Clorine. </head>
-<sp who='CLORINE'><speaker>CLORINE, toute effrayée.</speaker>
-	<l id='1063'>Ah ! Madame... Monsieur, excusez, s'il vous plaît.  </l>
-	<l id='1064' part='i'>Je suis toute saisie... </l>
+<sp stage="frighten" who='CLORINE'><speaker>CLORINE, toute effrayée.</speaker>
+	<l id='1063'>Ah ! Madame... Monsieur, excusez, s'il vous plaît. </l>
+	<l id='1064' part="i">Je suis toute saisie... </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='1064' part='f'>Eh bien, qu'est-ce que c'est ? </l>
+	<l id='1064' part="f">Eh bien, qu'est-ce que c'est ? </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-	<l id='1065' part='i'>Tout est perdu. </l>
+	<l id='1065' part="i">Tout est perdu. </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='1065' part='m'>Quoi donc ? </l>
+	<l id='1065' part="m">Quoi donc ? </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-	<l id='1065' part='f'>Ce sont vos pierreries... </l>
+	<l id='1065' part="f">Ce sont vos pierreries... </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='1066' part='i'>Clorine, parle bas. </l>
+	<l id='1066' part="i">Clorine, parle bas. </l>
 </sp>
-<sp who='CLORINE'><speaker>CLORINE, à voix entrecoupée.</speaker>
-	<l id='1066' part='f'>Qui sont évanouies : </l>
+<sp stage="anxious" who='CLORINE'><speaker>CLORINE, à voix entrecoupée.</speaker>
+	<l id='1066' part="f">Qui sont évanouies : </l>
 	<l id='1067'>Je viens de les chercher, mais inutilement ; </l>
 	<l id='1068'>Et vous êtes volée... indubitablement. </l>
 </sp>
-<sp who='HORTENSE'><speaker>HORTENSE, froidement.</speaker>
-	<l id='1069' part='i'>Que veux-tu que j'y fasse ? </l>
+<sp stage="stress" who='HORTENSE'><speaker>HORTENSE, froidement.</speaker>
+	<l id='1069' part="i">Que veux-tu que j'y fasse ? </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-	<l id='1069' part='f'>Eh, comment donc, Madame ? </l>
+	<l id='1069' part="f">Eh, comment donc, Madame ? </l>
 	<l id='1070'>Ne savez-vous pas bien que cela le réclame ? </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='1071' part='i'>Ce n'en est pas la peine. </l>
+	<l id='1071' part="i">Ce n'en est pas la peine. </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-	<l id='1071' part='f'>Ah ! vous me confondez. </l>
+	<l id='1071' part="f">Ah ! vous me confondez. </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='1072' part='i'>Taisez-vous. </l>
+	<l id='1072' part="i">Taisez-vous. </l>
 </sp>
-<sp who='CLORINE'><speaker>CLORINE, examinant Hortense et Aramont.</speaker>
-	<l id='1072' part='f'>Je ne sais comment vous l'entendez... </l>
+<sp stage="watch" who='CLORINE'><speaker>CLORINE, examinant Hortense et Aramont.</speaker>
+	<l id='1072' part="f">Je ne sais comment vous l'entendez... </l>
 	<l id='1073'>Mais je ne comprends rien à cette politique. </l>
-	<l id='1074' part='i'>J'entrevois du mystère ici. </l>
+	<l id='1074' part="i">J'entrevois du mystère ici. </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='1074' part='f'>Point de réplique. </l>
-	<l id='1075' part='i'>Sortez ; retirez-vous. </l>
-<stage type="[N/A]">Clorine sort, en regardant Aramont.</stage>
+	<l id='1074' part="f">Point de réplique. </l>
+	<l id='1075' part="i">Sortez ; retirez-vous. </l>
+<stage type="exit/watch">Clorine sort, en regardant Aramont.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='14'><head>SCÈNE XIV. Hortense, Aramont.</head>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1075' part='f'>Me serais-je mépris ? </l>
+	<l id='1075' part="f">Me serais-je mépris ? </l>
 	<l id='1076'>Ce sont vos diamants qui vous ont été pris ? </l>
 <note>Lapidaire : ouvrier qui taille les pierres précieuses, marchand qui les débitent ou celui qui est expert à les connaître. [F]</note>
 	<l id='1077'>Permettez ; je m'en vais chez tous les lapidaires, </l>
@@ -2346,17 +2342,17 @@
 	<l id='1080'>Épargnez-vous ce soin, Monsieur ; ils sont chez vous. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1081' part='i'>Chez moi ? </l>
+	<l id='1081' part="i">Chez moi ? </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='1081' part='f'>Je les ai fait porter, sans vous l'apprendre.</l>
+	<l id='1081' part="f">Je les ai fait porter, sans vous l'apprendre.</l>
 	<l id='1082'>Je craignais vos refus ; et j'ai du vous surprendre. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1083' part='i'>Vous me l'aviez bien dit. </l>
+	<l id='1083' part="i">Vous me l'aviez bien dit. </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='1083' part='f'>Enfin j'ai vos serments, </l>
+	<l id='1083' part="f">Enfin j'ai vos serments, </l>
 	<l id='1084'>Songez à satisfaire à vos engagements. </l>
 	<l id='1085'>Le salut de Monrose est en votre puissance. </l>
 </sp>
@@ -2368,27 +2364,27 @@
 	<l id='1088'>Vous nous sauvez tous trois, si vous me secondez. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1089' part='i'>Oh ! parbleu, serviteur. </l>
+	<l id='1089' part="i">Oh ! parbleu, serviteur. </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='1089' part='f'>Quelle froideur funeste ? </l>
+	<l id='1089' part="f">Quelle froideur funeste ? </l>
 	<l id='1090'>Cette faible ressource est tout ce qui nous reste. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1091' part='i'>Cessez de me séduire. </l>
+	<l id='1091' part="i">Cessez de me séduire. </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='1091' part='f'>Eh quoi ! vous hésitez ? </l>
+	<l id='1091' part="f">Eh quoi ! vous hésitez ? </l>
 <note>Superfluités : ce qui est de trop, qui est inutile et dont on se pourrait aisément passer. [F]</note>
 	<l id='1092'>Puis-je mieux employer ces superfluités ! </l>
 	<l id='1093'>Qui ne seraient pour moi qu'une charge importune ! </l>
 	<l id='1094'>N'aurait-il pas joui de toute ma fortune ? </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1095' part='i'>Il l'aurait partagée. </l>
+	<l id='1095' part="i">Il l'aurait partagée. </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='1095' part='f'>Eh ! Peut-on me blâmer ? </l>
+	<l id='1095' part="f">Eh ! Peut-on me blâmer ? </l>
 	<l id='1096'>C'est un infortuné que l'on m'a fait aimer... </l>
 	<l id='1097'>C'est l'ami le plus cher que vous ayez au monde ; </l>
 	<l id='1098'>C'est sur vous à présent que notre espoir se fonde ; </l>
@@ -2399,10 +2395,10 @@
 	<l id='1101'>Ce serait le moyen de lui sauver la vie. </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='1102' part='i'>Hé bien, sauvez-le donc. </l>
+	<l id='1102' part="i">Hé bien, sauvez-le donc. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1102' part='f'>J'en aurais bien envie. </l>
+	<l id='1102' part="f">J'en aurais bien envie. </l>
 	<l id='1103'>Mais si par un malheur que je ne puis prévoir,</l>
 	<l id='1104'>Monrose, quelque jour, venait à le savoir, </l>
 	<l id='1105'>Comptez qu'il en aurait une douleur amère, </l>
@@ -2419,34 +2415,34 @@
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
 	<l id='1114'>Ô sexe, toujours sûr de triompher du nôtre ! </l>
-	<l id='1115' part='i'>L'action est si belle... </l>
+	<l id='1115' part="i">L'action est si belle... </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='1115' part='f'>Ah ! J'éprouve en ce jour, </l>
+	<l id='1115' part="f">Ah ! J'éprouve en ce jour, </l>
 	<l id='1116'>Que l'amitié n'est pas moins tendre que l'amour. </l>
 	<l id='1117'>Allez ; que votre zèle ait une heureuse suite ! </l>
 	<l id='1118'>De tous ces créanciers empêchez la poursuite. </l>
-	<l id='1119' part='i'>Ce n'est pas tout. </l>
+	<l id='1119' part="i">Ce n'est pas tout. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1119' part='m'>Encore ? </l>
+	<l id='1119' part="m">Encore ? </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='1119' part='f'>Oui ; j'exige de vous </l>
+	<l id='1119' part="f">Oui ; j'exige de vous </l>
 	<l id='1120'>Un service moins grand, mais peut-être plus doux. </l>
 	<l id='1121'>Rendez-lui ce billet, qui s'adresse à lui-même : </l>
 	<l id='1122'>Il peut-être pour lui d'une importance extrême.</l>
 </sp>
 </div2>
 <div2 type="scene" n='15'><head>SCÈNE XV. Monrose, Hortense, Aramont. </head>
-<sp who='MONROSE'><speaker>MONROSE, à Aramont, voyant Hortense.</speaker>
+<sp stage="toward/watch" who='MONROSE'><speaker>MONROSE, à Aramont, voyant Hortense.</speaker>
 	<l id='1123'>Je te cherche... Que vois-je ? Hortense ? Ah ! si je puis, </l>
 	<l id='1124'>Cachons-lui sa ruine, et l'état où je suis. </l>
 </sp>
-<sp who='HORTENSE'><speaker>HORTENSE, à Monrose.</speaker>
+<sp stage="toward" who='HORTENSE'><speaker>HORTENSE, à Monrose.</speaker>
 	<l id='1125'>J'ai pris à vos malheurs la part qu'on y doit prendre. </l>
 </sp>
-<sp who='MONROSE'><speaker>MONROSE, embarrassé.</speaker>
+<sp stage="embarrassed" who='MONROSE'><speaker>MONROSE, embarrassé.</speaker>
 	<l id='1126'>Vous les adoucissez, en daignant me l'apprendre. </l>
 	<l id='1127'>Continuez un soin qui m'est si précieux. </l>
 	<l id='1128'>Madame, je comptais ne m'offrir à vos yeux, </l>
@@ -2459,7 +2455,7 @@
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
 	<l id='1133'>Je me trouve garant de votre destinée ; </l>
-	<l id='1134'>Et je compte qu'avant la fin de la journée...  </l>
+	<l id='1134'>Et je compte qu'avant la fin de la journée... </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
 	<l id='1135'>N'avez-vous plus d'espoir du côté de la Cour ? </l>
@@ -2484,96 +2480,96 @@
 	<l id='1146'>On voudrait détourner cet avenir funeste... </l>
 	<l id='1147'>Monsieur, vous n'êtes pas si fort abandonné... </l>
 	<l id='1148'>À des voeux impuissants l'on ne s'est pas borné... </l>
-	<l id='1149' part='i'>Si le sort vous poursuit... </l>
+	<l id='1149' part="i">Si le sort vous poursuit... </l>
 <stage type="aparte">À part.</stage>
-	<l id='1149' part='f'>Ô Ciel ! que vais-je faire ? </l>
+	<l id='1149' part="f">Ô Ciel ! que vais-je faire ? </l>
 <stage type="toward">À Monrose.</stage>
 	<l id='1150'>Vous verrez que l'amour ne vous est pas contraire. </l>
-<stage type="[N/A]">Lui donnant la lettre.</stage>
-	<l id='1151' part='i'>Tenez...</l>
+<stage type="give">Lui donnant la lettre.</stage>
+	<l id='1151' part="i">Tenez...</l>
 <stage type="aparte">À part.</stage>
-	<l id='1151' part='f'>Ma fermeté commence à succomber.  </l>
+	<l id='1151' part="f">Ma fermeté commence à succomber. </l>
 <stage type="toward">À Monrose.</stage>
-	<l id='1152' part='i'>Lisez... </l>
+	<l id='1152' part="i">Lisez... </l>
 <stage type="aparte">À part.</stage>
-	<l id='1152' part='f'>À ses regards il faut me dérober.</l>
+	<l id='1152' part="f">À ses regards il faut me dérober.</l>
 </sp>
 </div2>
 <div2 type="scene" n='16'><head>SCÈNE XVI. Monrose, Aramont.</head>
-<sp who='MONROSE'><speaker>MONROSE, le billet à la main.</speaker>
-	<l id='1153' part='i'>Hortense se déclare. </l>
+<sp stage="show" who='MONROSE'><speaker>MONROSE, le billet à la main.</speaker>
+	<l id='1153' part="i">Hortense se déclare. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1153' part='f'>On se lasse de feindre ;</l>
-	<l id='1154' part='i'>On vous aime. </l>
+	<l id='1153' part="f">On se lasse de feindre ;</l>
+	<l id='1154' part="i">On vous aime. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1154' part='f'>Voilà ce que j'avais à craindre. </l>
+	<l id='1154' part="f">Voilà ce que j'avais à craindre. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
 	<l id='1155'>À craindre ? Votre coeur n'en est-il plus charmé ? </l>
 </sp>
-<sp who='MONROSE'><speaker>MONROSE, avec vivacité.</speaker>
+<sp stage="excited" who='MONROSE'><speaker>MONROSE, avec vivacité.</speaker>
 	<l id='1156'>Ne me parle jamais d'aimer, ni d'être aimé. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1157' part='i'>Bon ! </l>
+	<l id='1157' part="i">Bon ! </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1157' part='f'>Il ne manquait plus à cette infortunée </l>
+	<l id='1157' part="f">Il ne manquait plus à cette infortunée </l>
 	<l id='1158'>Qu'un malheureux amour. Ah, quelle destinée ! </l>
 <stage type="read">Il lit bas.</stage>
 </sp>
-<sp who='ARAMONT'><speaker>ARAMONT, à part.</speaker>
+<sp stage="aparte" who='ARAMONT'><speaker>ARAMONT, à part.</speaker>
 	<l id='1159'>Quel changement est-il arrivé dans son coeur ? </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
 	<l id='1160'>Si je veux renoncer à tout autre vainqueur, </l>
 	<l id='1161'>Elle offre... Ah ! je succombe à son malheur extrême. </l>
-	<l id='1162' part='i'>Vois comme elle m'écrit. </l>
-<stage type="[N/A]">Il donne le billet à Aramont.</stage>
+	<l id='1162' part="i">Vois comme elle m'écrit. </l>
+<stage type="give">Il donne le billet à Aramont.</stage>
 </sp>
-<sp who='ARAMONT'><speaker>ARAMONT, étonné et reconnaissant la lettre qu'il a écrite.</speaker>
-	<l id='1162' part='f'>Eh ! Morbleu, c'est le même ! </l>
+<sp stage="estonished/watch" who='ARAMONT'><speaker>ARAMONT, étonné et reconnaissant la lettre qu'il a écrite.</speaker>
+	<l id='1162' part="f">Eh ! Morbleu, c'est le même ! </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1163' part='i'>Ce billet-là t'étonne ? </l>
+	<l id='1163' part="i">Ce billet-là t'étonne ? </l>
 </sp>
-<sp who='ARAMONT'><speaker>ARAMONT, confus.</speaker>
-	<l id='1163' part='f'>Il n'aurait jamais dû </l>
+<sp stage="confuse" who='ARAMONT'><speaker>ARAMONT, confus.</speaker>
+	<l id='1163' part="f">Il n'aurait jamais dû </l>
 	<l id='1164'>Tomber entre vos mains ; et j'en suis confondu. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-<note>Hyménée : divinité fabuleuse des païens, qu'ils croient présider aux mariage. (...) signifie aussi poétiquement le mariage. [F]</note>
+<note type="L">Hyménée : divinité fabuleuse des païens, qu'ils croient présider aux mariage. (...) signifie aussi poétiquement le mariage. [F]</note>
 	<l id='1165'>Eh, quand elle pourrait régler son hyménée, </l>
 	<l id='1166'>Que ferait-elle, hélas ! puisqu'elle est ruinée ? </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1167' part='i'>Elle est ruinée ? </l>
+	<l id='1167' part="i">Elle est ruinée ? </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1167' part='m'>Oui. </l>
+	<l id='1167' part="m">Oui. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1167' part='f'>Je suis désespéré. </l>
-	<l id='1168' part='i'>Tout de bon ? </l>
+	<l id='1167' part="f">Je suis désespéré. </l>
+	<l id='1168' part="i">Tout de bon ? </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1168' part='m'>C'est un fait. </l>
+	<l id='1168' part="m">C'est un fait. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1168' part='f'>J'ai fort bien opéré. </l>
+	<l id='1168' part="f">J'ai fort bien opéré. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1169' part='i'>Je vois que tu la plains ! </l>
+	<l id='1169' part="i">Je vois que tu la plains ! </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1169' part='f'>Point du tout, je me loue ! </l>
+	<l id='1169' part="f">Point du tout, je me loue ! </l>
 <stage type="aparte">À part.</stage>
-	<l id='1170' part='i'>Ah ! S'il savait le reste ! </l>
+	<l id='1170' part="i">Ah ! S'il savait le reste ! </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1170' part='f'>Il faut que je l'avoue, </l>
+	<l id='1170' part="f">Il faut que je l'avoue, </l>
 	<l id='1171'>Je ne reconnais guère Hortense à cet éclat. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
@@ -2583,29 +2579,29 @@
 	<l id='1173'>Cher ami, le savais-je ? On vient de me confondre, </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1174' part='i'>Et moi, de même. </l>
+	<l id='1174' part="i">Et moi, de même. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1174' part='f'>Il faut cependant lui répondre. </l>
+	<l id='1174' part="f">Il faut cependant lui répondre. </l>
 </sp>
-<sp who='ARAMONT'><speaker>ARAMONT, en déchirant le billet.</speaker>
+<sp stage="throw" who='ARAMONT'><speaker>ARAMONT, en déchirant le billet.</speaker>
 	<l id='1175'>En voici la réponse. Il n'y faut plus penser. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
 	<l id='1176'>Je n'imagine pas pouvoir m'en dispenser. </l>
 	<l id='1177'>Faut-il que je l'abuse, ou que je la méprise ? </l>
-	<l id='1178' part='i'>Je ne puis. </l>
+	<l id='1178' part="i">Je ne puis. </l>
 </sp>
-<sp who='ARAMONT'><speaker>ARAMONT, à part.</speaker>
-	<l id='1178' part='f'>Il faut donc avouer ma sottise.</l>
+<sp stage="aparte" who='ARAMONT'><speaker>ARAMONT, à part.</speaker>
+	<l id='1178' part="f">Il faut donc avouer ma sottise.</l>
 <stage type="toward">À Monrose.</stage>
 	<l id='1179'>Si ce billet vous cause un si grand embarras, </l>
-	<l id='1180' part='i'>On peut vous en tirer. </l>
+	<l id='1180' part="i">On peut vous en tirer. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1180' part='f'>Que tu m'obligeras ! </l>
+	<l id='1180' part="f">Que tu m'obligeras ! </l>
 </sp>
-<sp who='ARAMONT'><speaker>ARAMONT, à part.</speaker>
+<sp stage="aparte" who='ARAMONT'><speaker>ARAMONT, à part.</speaker>
 	<l id='1181'>Se déclarer un sot, est un grand sacrifice. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
@@ -2614,50 +2610,50 @@
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
 	<l id='1183'>Vous vous tourmentez fort, vous vous creusez l'esprit </l>
 	<l id='1184'>Pour faire une réponse à ce maudit écrit ; </l>
-	<l id='1185' part='i'>Il n'en faut point. </l>
+	<l id='1185' part="i">Il n'en faut point. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1185' part='m'>Pourquoi ? </l>
+	<l id='1185' part="m">Pourquoi ? </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1185' part='f'>Non, vous dis-je ; et pour cause. </l>
-	<l id='1186' part='i'>Il n'est point d'elle. </l>
+	<l id='1185' part="f">Non, vous dis-je ; et pour cause. </l>
+	<l id='1186' part="i">Il n'est point d'elle. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1186' part='m'>Il n'est ?... </l>
+	<l id='1186' part="m">Il n'est ?... </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1186' part='f'>Oui ; j'en sais quelque chose. </l>
+	<l id='1186' part="f">Oui ; j'en sais quelque chose. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
 	<l id='1187'>Il n'est point d'elle ?... Eh ; mais elle me l'a donné. </l>
-	<l id='1188' part='i'>N'en es-tu pas témoin ? </l>
+	<l id='1188' part="i">N'en es-tu pas témoin ? </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1188' part='f'>J'en suis fort étonné. </l>
+	<l id='1188' part="f">J'en suis fort étonné. </l>
 	<l id='1189'>Les femmes vont toujours plus loin que l'on ne pense, </l>
 	<l id='1190'>Et que l'on ne voudrait. J'ai fait une imprudence... </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1191' part='i'>Est-il d'une autre ? </l>
+	<l id='1191' part="i">Est-il d'une autre ? </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1191' part='m'>Non. </l>
+	<l id='1191' part="m">Non. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1191' part='f'>De grâce, explique-toi. </l>
+	<l id='1191' part="f">De grâce, explique-toi. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
 	<l id='1192'>Tempêtez, fulminez ; que diable ! il est de moi. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1193' part='i'>De toi ? </l>
+	<l id='1193' part="i">De toi ? </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1193' part='m'>Vous l'avez dit ? </l>
+	<l id='1193' part="m">Vous l'avez dit ? </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1193' part='f'>Quelle est ta frénésie ? </l>
+	<l id='1193' part="f">Quelle est ta frénésie ? </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
 	<l id='1194'>Je voulais lui donner un peu de jalousie </l>
@@ -2675,13 +2671,13 @@
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
 	<l id='1201'>Ce serait à présent contre toute apparence </l>
 	<l id='1202'>Que je pourrais douter de son indifférence. </l>
-	<l id='1203'>Hortense vient de faire éclater son mépris.  </l>
+	<l id='1203'>Hortense vient de faire éclater son mépris. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1204' part='i'>Oui. </l>
+	<l id='1204' part="i">Oui. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1204' part='f'>Si du moindre amour son coeur était épris, </l>
+	<l id='1204' part="f">Si du moindre amour son coeur était épris, </l>
 	<l id='1205'>Elle aurait supprimé cette lettre fatale, </l>
 	<l id='1206'>Que sans doute elle a dû croire d'une rivale. </l>
 </sp>
@@ -2695,10 +2691,10 @@
 	<l id='1211'>Je tenais tout de lui ; je n'avais presque rien. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1212' part='i'>Il est vrai. </l>
+	<l id='1212' part="i">Il est vrai. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1212' part='f'>Jusqu'ici j'ai vécu sur son bien ; </l>
+	<l id='1212' part="f">Jusqu'ici j'ai vécu sur son bien ; </l>
 	<l id='1213'>J'ai jusques à sa mort surchargé sa dépense : </l>
 	<l id='1214'>Ainsi j'ai partagé les dépouilles d'Hortense. </l>
 	<l id='1215'>Il me serait affreux de vivre à ses dépens. </l>
@@ -2716,46 +2712,46 @@
 	<l id='1223'>L'honnête homme ne doit s'en rapporter qu'à lui : </l>
 	<l id='1224'>Il se juge lui-même ; et jamais par autrui : </l>
 	<l id='1225'>Sitôt qu'il se condamne, on ne saurait l'absoudre. </l>
-	<l id='1226' part='i'>En un mot, je le veux. </l>
+	<l id='1226' part="i">En un mot, je le veux. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1226' part='m'>Mais... </l>
+	<l id='1226' part="m">Mais... </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1226' part='f'>Il faut t'y résoudre. </l>
-	<l id='1227' part='i'>Tiens ; voilà... </l>
+	<l id='1226' part="f">Il faut t'y résoudre. </l>
+	<l id='1227' part="i">Tiens ; voilà... </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1227' part='m'>Qu'est-ceci ? </l>
+	<l id='1227' part="m">Qu'est-ceci ? </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1227' part='f'>Ma procuration. </l>
+	<l id='1227' part="f">Ma procuration. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1228' part='i'>Doucement ; s'il vous plaît. </l>
+	<l id='1228' part="i">Doucement ; s'il vous plaît. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1228' part='f'>Point d'obstination ; </l>
+	<l id='1228' part="f">Point d'obstination ; </l>
 	<l id='1229'>L'affaire presse. Avant que sa ruine éclate, </l>
-	<l id='1230' part='i'>Va, cours, vends à tout prix. </l>
+	<l id='1230' part="i">Va, cours, vends à tout prix. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1230' part='m'>Ma foi, non. </l>
+	<l id='1230' part="m">Ma foi, non. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1230' part='f'>Je m'en flatte. </l>
+	<l id='1230' part="f">Je m'en flatte. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1231' part='i'>À tort. </l>
+	<l id='1231' part="i">À tort. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1231' part='f'>Épargne-toi d'inutiles refus. </l>
+	<l id='1231' part="f">Épargne-toi d'inutiles refus. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1232' part='i'>Mais, vous dis-je... </l>
+	<l id='1232' part="i">Mais, vous dis-je... </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1232' part='f'>Je fuis ; je ne t'écoute plus.  </l>
+	<l id='1232' part="f">Je fuis ; je ne t'écoute plus. </l>
 </sp>
 </div2>
 <div2 type="scene" n='17'><head>SCÈNE XVII.</head>
@@ -2772,23 +2768,23 @@
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
 	<l id='1237'>Puis-je obtenir d'Hortense un moment d'audience ? </l>
 </sp>
-<sp who='CLORINE'><speaker>CLORINE, d'un air triste et brusque.</speaker>
+<sp stage="sad/nervous" who='CLORINE'><speaker>CLORINE, d'un air triste et brusque.</speaker>
 	<l id='1238'>Madame va venir ; donnez-vous patience. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
 	<l id='1239'>Clorine a le coeur triste, à ce qui me paraît ? </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-	<l id='1240' part='i'>Vous êtes pénétrant. </l>
+	<l id='1240' part="i">Vous êtes pénétrant. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1240' part='f'>Ah ! je vois ce que c'est. </l>
+	<l id='1240' part="f">Ah ! je vois ce que c'est. </l>
 	<l id='1241'>Vous comptiez suivre Hortense au Couvent ; mais sa tante </l>
 	<l id='1242'>Avec impolitesse a frustré votre attente </l>
-	<l id='1243' part='i'>Par un sot compliment. </l>
+	<l id='1243' part="i">Par un sot compliment. </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-	<l id='1243' part='f'>Pareil à vos discours. </l>
+	<l id='1243' part="f">Pareil à vos discours. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
 	<l id='1244'>Où diable vouliez-vous achever vos beaux jours ? </l>
@@ -2799,77 +2795,77 @@
 	<l id='1248'>D'ailleurs, si vous voulez, vous m'en ferez l'aveu ; </l>
 	<l id='1249'>Mais, à proportion, vous êtes mieux qu'Hortense. </l>
 </sp>
-<sp who='CLORINE'><speaker>CLORINE, à part.</speaker>
-	<l id='1250' part='i'>Vous y mettez bon ordre. </l>
+<sp stage="aparte" who='CLORINE'><speaker>CLORINE, à part.</speaker>
+	<l id='1250' part="i">Vous y mettez bon ordre. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1250' part='f'>Et dans sa décadence </l>
+	<l id='1250' part="f">Et dans sa décadence </l>
 	<l id='1251'>Elle ne peut vous faire aucun bien désormais. </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
 	<l id='1252'>Il me reste à gagner les biens qu'elle m'a faits. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1253' part='i'>Clorine est héroïque ! </l>
+	<l id='1253' part="i">Clorine est héroïque ! </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-	<l id='1253' part='f'>Et vous ne l'êtes guère. </l>
+	<l id='1253' part="f">Et vous ne l'êtes guère. </l>
 	<l id='1254'>Je voudrais me charger de toute sa misère. </l>
 	<l id='1255'>Que ne puis-je ?... Du moins, je ne suis pas de ceux, </l>
 	<l id='1256'>Qui savent abuser d'un coeur trop généreux.</l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
 	<l id='1257'>Écoute, mon enfant. Je vois qu'auprès d'Hortense </l>
-	<l id='1258' part='i'>Il faut que je te serve. </l>
+	<l id='1258' part="i">Il faut que je te serve. </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-	<l id='1258' part='f'>Ah ! je vous en dispense. </l>
+	<l id='1258' part="f">Ah ! je vous en dispense. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
 	<l id='1259'>Tu n'as jamais voulu me croire propre à rien ; </l>
 	<l id='1260'>Mais je veux t'en punir, en te faisant du bien. </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-	<l id='1261' part='i'>Non, Monsieur, s'il vous plaît. </l>
+	<l id='1261' part="i">Non, Monsieur, s'il vous plaît. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1261' part='f'>Parbleu, Mademoiselle, </l>
-<stage type="[N/A]">Voyant Hortense.</stage>
+	<l id='1261' part="f">Parbleu, Mademoiselle, </l>
+<stage type="watch">Voyant Hortense.</stage>
 	<l id='1262'>Ce sera malgré vous... Mais je la vois ; c'est elle. </l>
 </sp>
-<sp who='CLORINE'><speaker>CLORINE, à part.</speaker>
+<sp stage="aparte" who='CLORINE'><speaker>CLORINE, à part.</speaker>
 	<l id='1263'>Moi, je vais vous servir de la bonne façon. </l>
 </sp>
-<sp who='ARAMONT'><speaker>ARAMONT, à part.</speaker>
+<sp stage="aparte" who='ARAMONT'><speaker>ARAMONT, à part.</speaker>
 	<l id='1264'>Cette fille paroît avoir quelque soupçon.</l>
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Hortense, Aramont.</head>
-<sp who='HORTENSE'><speaker>HORTENSE, avec empressement.</speaker>
+<sp stage="stress" who='HORTENSE'><speaker>HORTENSE, avec empressement.</speaker>
 	<l id='1265'>Vous m'apportiez, sans doute, une heureuse nouvelle ? </l>
 	<l id='1266'>Mon coeur impatient volait au devant d'elle. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1267' part='i'>Oui-da. </l>
+	<l id='1267' part="i">Oui-da. </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='1267' part='f'>N'êtes-vous pas notre libérateur ? </l>
+	<l id='1267' part="f">N'êtes-vous pas notre libérateur ? </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
 	<l id='1268'>Vous me donnez, Madame, un titre trop flatteur. </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='1269' part='i'>Ne vous est-il pas dû ? </l>
+	<l id='1269' part="i">Ne vous est-il pas dû ? </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1269' part='f'>Que le Ciel m'en préserve ?  </l>
+	<l id='1269' part="f">Que le Ciel m'en préserve ? </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
 	<l id='1270'>D'où vient cet embarras ? Quelle est cette réserve ? </l>
-	<l id='1271' part='i'>Avez-vous fait usage ?... </l>
+	<l id='1271' part="i">Avez-vous fait usage ?... </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1271' part='f'>Ils sont toujours chez moi : </l>
+	<l id='1271' part="f">Ils sont toujours chez moi : </l>
 	<l id='1272'>Et mon dessein n'est pas d'en faire aucun emploi. </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
@@ -2889,17 +2885,17 @@
 	<l id='1280'>Je voudrais, autrement, le pouvoir secourir. </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='1281' part='i'>Vous prétendez l'aimer ? </l>
+	<l id='1281' part="i">Vous prétendez l'aimer ? </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1281' part='f'>Autant qu'il est possible. </l>
+	<l id='1281' part="f">Autant qu'il est possible. </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
 	<l id='1282'>Ne vous en vantez plus... Serez-vous inflexible ? </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
 	<l id='1283'>Ce n'est pas sans raison. Eh ! Madame en effet, </l>
-	<l id='1284'>Pouviez-vous recueillir le fruit de ce bienfait ?  </l>
+	<l id='1284'>Pouviez-vous recueillir le fruit de ce bienfait ? </l>
 	<l id='1285'>La gloire que mérite une action si belle, </l>
 	<l id='1286'>Devait s'ensevelir et se perdre avec elle. </l>
 	<l id='1287'>Vous ne pouviez passer pour en être l'auteur. </l>
@@ -2909,10 +2905,10 @@
 	<l id='1289'>La générosité n'en veut pas davantage. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1290' part='i'>L'intention suffit. </l>
+	<l id='1290' part="i">L'intention suffit. </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='1290' part='f'>Eh ! quel est ce langage ? </l>
+	<l id='1290' part="f">Eh ! quel est ce langage ? </l>
 	<l id='1291'>En périra-t-il moins ? Nous connaissons ses biens. </l>
 	<l id='1292'>Que peut faire un guerrier, borné dans ses moyens ? </l>
 	<l id='1293'>Il languit, s'il ne tient un état honorable ; </l>
@@ -2921,14 +2917,14 @@
 	<l id='1296'>Il la faut acheter ; il la faut conquérir. </l>
 	<l id='1297'>Et malheureusement (puisqu'il faut vous le dire) </l>
 	<l id='1298'>Le courage tout seul n'a pas de quoi suffire. </l>
-	<l id='1299' part='i'>Vous l'avez éprouvé. </l>
+	<l id='1299' part="i">Vous l'avez éprouvé. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1299' part='f'>Pour le faire briller. </l>
+	<l id='1299' part="f">Pour le faire briller. </l>
 	<l id='1300'>Du reste de vos biens faut-il vous dépouiller ? </l>
-	<l id='1301' part='i'>Songez à vous, Madame. </l>
+	<l id='1301' part="i">Songez à vous, Madame. </l>
 <stage type="aparte">À part.</stage>
-	<l id='1301' part='f'>Il faut que je m'en tire. </l>
+	<l id='1301' part="f">Il faut que je m'en tire. </l>
 <stage type="toward">À Hortense.</stage>
 	<l id='1302'>Vous êtes ruinée. Il est bon de vous dire </l>
 	<l id='1303'>Que vous n'avez plus rien que ces faibles débris. </l>
@@ -2942,16 +2938,16 @@
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
 	<l id='1309'>Pour qui conservez-vous un intérêt si tendre ? </l>
-	<l id='1310' part='i'>Savez-vous seulement si ?... </l>
+	<l id='1310' part="i">Savez-vous seulement si ?... </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='1310' part='f'>C'est me faire entendre </l>
+	<l id='1310' part="f">C'est me faire entendre </l>
 	<l id='1311'>Que Monrose peut-être adresse ailleurs ses voeux. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
 	<l id='1312'>Jusqu'ici, vous avez si peu flatté ses feux... </l>
 </sp>
-<sp who='HORTENSE'><speaker>HORTENSE, vivement.</speaker>
+<sp stage="stress" who='HORTENSE'><speaker>HORTENSE, vivement.</speaker>
 	<l id='1313'>Eh ! ne vous chargez point d'excuser ce que j'aime : </l>
 	<l id='1314'>Je saurai mieux que vous m'en acquitter moi-même, </l>
 	<l id='1315'>Je lui pardonne tout pourvu qu'il soit heureux : </l>
@@ -2967,32 +2963,32 @@
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III.</head>
-<sp who='ARAMONT'><speaker>ARAMONT, seul. </speaker>
+<sp stage="alone" who='ARAMONT'><speaker>ARAMONT, seul. </speaker>
 	<l id='1325'>Oh ! parbleu, serviteur. Pour moi, je m'en désiste. </l>
 	<l id='1326'>Je remettrai le tout entre les mains d'Ariste. </l>
-	<l id='1327' part='i'>Allons... </l>
+	<l id='1327' part="i">Allons... </l>
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Monrose, Aramont.</head>
-<sp who='MONROSE'><speaker>MONROSE, avec vivacité.</speaker>
-	<l id='1327' part='f'>Arrête. Un mot. Daigne un peu m'éclaircir. </l>
+<sp stage="stress" who='MONROSE'><speaker>MONROSE, avec vivacité.</speaker>
+	<l id='1327' part="f">Arrête. Un mot. Daigne un peu m'éclaircir. </l>
 	<l id='1328'>Tu me vois furieux. On vient de te noircir </l>
 	<l id='1329'>D'une accusation que je crois téméraire. </l>
-	<l id='1330'>Il me serait cruel de trouver le contraire.  </l>
-	<l id='1331' part='i'>Clorine... </l>
+	<l id='1330'>Il me serait cruel de trouver le contraire. </l>
+	<l id='1331' part="i">Clorine... </l>
 </sp>
-<sp who='ARAMONT'><speaker>ARAMONT, à part.</speaker>
-	<l id='1331' part='m'>Ah ! C'en est fait. </l>
+<sp stage="aparte" who='ARAMONT'><speaker>ARAMONT, à part.</speaker>
+	<l id='1331' part="m">Ah ! C'en est fait. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1331' part='f'>Vient de me confier </l>
+	<l id='1331' part="f">Vient de me confier </l>
 	<l id='1332'>Un mystère affreux. Songe à te justifier. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1333' part='i'>Cette fille m'en veut. </l>
+	<l id='1333' part="i">Cette fille m'en veut. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1333' part='f'>Ce n'est pas là répondre. </l>
+	<l id='1333' part="f">Ce n'est pas là répondre. </l>
 	<l id='1334'>Ne récrimine point, si tu veux la confondre. </l>
 	<l id='1335'>Cette fille fait plus que de te soupçonner. </l>
 	<l id='1336'>Que dis-je ? Elle prétend que tu t'es fait donner, </l>
@@ -3003,28 +2999,28 @@
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Monrose, Aramont, Un Valet.</head>
-<sp who='LE-VALET'><speaker>LE VALET, à Monrose.</speaker>
+<sp stage="toward" who='LE VALET'><speaker>LE VALET, à Monrose.</speaker>
 	<l id='1341'>Monsieur, un étranger m'a chargé de vous rendre </l>
-	<l id='1342' part='i'>Ce paquet-là. </l>
-<stage type="[N/A]">Le Valet s'en va.</stage>
+	<l id='1342' part="i">Ce paquet-là. </l>
+<stage type="exit">Le Valet s'en va.</stage>
 </sp>
-<sp who='MONROSE'><speaker>MONROSE, en ouvrant le paquet : y trouve plusieurs papiers.</speaker>
-	<l id='1342' part='f'>Sachons ce que l'on veut m'apprendre. </l>
+<sp stage="open" who='MONROSE'><speaker>MONROSE, en ouvrant le paquet : y trouve plusieurs papiers.</speaker>
+	<l id='1342' part="f">Sachons ce que l'on veut m'apprendre. </l>
 	<l id='1343'>Que vois-je ? Mes billets qui me sont renvoyez ! </l>
 	<l id='1344'>Oui, vraiment, ce sont eux ; ils se trouvent payez ! </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1345' part='i'>Tant mieux. </l>
+	<l id='1345' part="i">Tant mieux. </l>
 </sp>
-<sp who='MONROSE'><speaker>MONROSE, transporté de colère.</speaker>
-	<l id='1345' part='f'>Ah, malheureux, c'est donc-là ton ouvrage ? </l>
+<sp stage="anger" who='MONROSE'><speaker>MONROSE, transporté de colère.</speaker>
+	<l id='1345' part="f">Ah, malheureux, c'est donc-là ton ouvrage ? </l>
 	<l id='1346'>Qu'elle indigne ressource as-tu mise en usage ? </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1347' part='i'>Aucune. </l>
+	<l id='1347' part="i">Aucune. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1347' part='f'>À quel complot as tu prêté la main ? </l>
+	<l id='1347' part="f">À quel complot as tu prêté la main ? </l>
 	<l id='1348'>Il faut avoir un coeur bien dur, bien inhumain. </l>
 	<l id='1349'>J'aurais donné mon sang pour cette infortunée, </l>
 	<l id='1350'>Si j'avais pu lui faire une autre destinée. </l>
@@ -3066,14 +3062,14 @@
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
 	<l id='1374'>N'avez-vous pas rompu cette chaîne cruelle ? </l>
-	<l id='1375' part='i'>Je l'ai cru. </l>
+	<l id='1375' part="i">Je l'ai cru. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1375' part='f'>Non ; jamais je n'en eus le dessein. </l>
+	<l id='1375' part="f">Non ; jamais je n'en eus le dessein. </l>
 	<l id='1376'>Hélas ! c'est lui porter un poignard dans le sein. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1377'>C'est pour son bien. Ma foi, j'ai cru faire merveilles.  </l>
+	<l id='1377'>C'est pour son bien. Ma foi, j'ai cru faire merveilles. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
 	<l id='1378'>Ne me propose point des excuses pareilles... </l>
@@ -3081,10 +3077,10 @@
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Monrose, Aramont, Dornane.</head> 
-<sp who='DORNANE'><speaker>DORNANE, à Monrose.</speaker>
+<sp stage="toward" who='DORNANE'><speaker>DORNANE, à Monrose.</speaker>
 	<l id='1380'>Tu grondes le Baron ! C'est toujours fort bien fait. </l>
 <stage type="toward">À Aramont.</stage>
-<note>Vespérie :  signifie aussi réprimande qu'on fait à quelqu'un. [F]</note>
+<note>Vespérie : signifie aussi réprimande qu'on fait à quelqu'un. [F]</note>
 	<l id='1381'>Pardonne, si je viens troubler la vespérie. </l>
 <stage type="toward">À Monrose.</stage>
 	<l id='1382'>Sais-tu ce qui m'arrive ? Écoute, je te prie... </l>
@@ -3096,7 +3092,7 @@
 	<l id='1388'>Il m'embrasse, et me fait un accueil surprenant. </l>
 	<l id='1389'>Je le tire à quartier ; je lui fais ma semonce : </l>
 	<l id='1390'>Mon homme alors se trouble ; et voici sa réponse. </l>
-	<l id='1391'>"Je suis au désespoir (je crois qu'il disait vrai)  </l>
+	<l id='1391'>"Je suis au désespoir (je crois qu'il disait vrai) </l>
 	<l id='1392'>Vous êtes malheureux pour votre coup d'essai."</l>
 	<l id='1393'>Bref, avec des discours à peu près de la sorte, </l>
 	<l id='1394'>Il s'est acheminé du côté de la porte. </l>
@@ -3104,36 +3100,36 @@
 	<l id='1396'>Il venait d'en sortir, lorsque je suis entré. </l>
 	<l id='1397'>Nous aurions fait ensemble une assez bonne affaire ; </l>
 	<l id='1398'>Car j'aurais rassemblé tout l'argent nécessaire : </l>
-	<l id='1399' part='i'>Mais enfin, je te rends ta parole. </l>
+	<l id='1399' part="i">Mais enfin, je te rends ta parole. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1399' part='f'>Tant mieux.</l>
+	<l id='1399' part="f">Tant mieux.</l>
 	<l id='1400'>Il s'agit d'un service un peu plus sérieux. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
 	<l id='1401'>Il est vrai ; l'aventure est presque inconcevable. </l>
 	<l id='1402'>Dis-moi si c'est à toi que je suis redevable </l>
-	<l id='1403' part='i'>D'un service récent... </l>
+	<l id='1403' part="i">D'un service récent... </l>
 </sp>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
-	<l id='1403' part='f'>Ma foi, peut-être bien ; </l>
+	<l id='1403' part="f">Ma foi, peut-être bien ; </l>
 	<l id='1404'>Car je sers tant de gens sans que j'en sache rien... </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
 	<l id='1405'>Je viens de recevoir fous une simple adresse </l>
-	<l id='1406' part='i'>Tous mes billets. </l>
+	<l id='1406' part="i">Tous mes billets. </l>
 </sp>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
-	<l id='1406' part='f'>Que t'a renvoyez ta maîtresse ? </l>
+	<l id='1406' part="f">Que t'a renvoyez ta maîtresse ? </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1407' part='i'>Non : mes créanciers. </l>
+	<l id='1407' part="i">Non : mes créanciers. </l>
 </sp>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
-	<l id='1407' part='m'>Bon. </l>
+	<l id='1407' part="m">Bon. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1407' part='f'>Oui, te dis-je ; à l'instant. </l>
+	<l id='1407' part="f">Oui, te dis-je ; à l'instant. </l>
 </sp>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
 	<l id='1408'>Je voudrais que les miens en pussent faire autant. </l>
@@ -3141,44 +3137,44 @@
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
 	<l id='1409'>Tu n'en devrais pas moins. Tout ce qui m'embarrasse, </l>
 	<l id='1410'>C'est de savoir celui qui s'est mis à leur place. </l>
-	<l id='1411' part='i'>Quelqu'un les a payez pour moi. </l>
+	<l id='1411' part="i">Quelqu'un les a payez pour moi. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1411' part='f'>Sans contredit. </l>
+	<l id='1411' part="f">Sans contredit. </l>
 </sp>
-<sp who='MONROSE'><speaker>MONROSE, à Dornane.</speaker>
-	<l id='1412' part='i'>Marquis, n'est-ce pas toi ? </l>
+<sp stage="toward" who='MONROSE'><speaker>MONROSE, à Dornane.</speaker>
+	<l id='1412' part="i">Marquis, n'est-ce pas toi ? </l>
 </sp>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
-	<l id='1412' part='f'>Moi ! je te l'aurais dit. </l>
+	<l id='1412' part="f">Moi ! je te l'aurais dit. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1413' part='i'>Quoi, véritablement ? </l>
+	<l id='1413' part="i">Quoi, véritablement ? </l>
 </sp>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
-	<l id='1413' part='f'>Non, parbleu, je te jure. </l>
+	<l id='1413' part="f">Non, parbleu, je te jure. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
 	<l id='1414'>Tu le prends pour un autre ; et c'est lui faire injure. </l>
 </sp>
-<sp who='MONROSE'><speaker>MONROSE, à Aramont.</speaker>
-	<l id='1415' part='i'>Serait-ce le Baron ? </l>
+<sp stage="toward" who='MONROSE'><speaker>MONROSE, à Aramont.</speaker>
+	<l id='1415' part="i">Serait-ce le Baron ? </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1415' part='f'>Si j'étais dans le cas, </l>
+	<l id='1415' part="f">Si j'étais dans le cas, </l>
 	<l id='1416'>Ce serait un secret que je n'avouerais pas. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1417' part='i'>Serait-ce Ariste ? </l>
+	<l id='1417' part="i">Serait-ce Ariste ? </l>
 </sp>
-<sp who='DORNANE'><speaker>DORNANE, en ricanant.</speaker>
-	<l id='1417' part='f'>Ariste... Il mérite à merveille </l>
+<sp stage="laugh" who='DORNANE'><speaker>DORNANE, en ricanant.</speaker>
+	<l id='1417' part="f">Ariste... Il mérite à merveille </l>
 	<l id='1418'>Qu'on mette sur son compte une action pareille. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
 	<l id='1419'>Tu l'en crois incapable ? Il n'est pas de ton goût. </l>
 </sp>
-<sp who='DORNANE'><speaker>DORNANE, ironiquement.</speaker>
+<sp stage="ironic" who='DORNANE'><speaker>DORNANE, ironiquement.</speaker>
 	<l id='1420'>Ma foi, je crois qu'Ariste est capable de tout. </l>
 	<l id='1421'>Apprends où t'a conduit une erreur trop durable. </l>
 	<l id='1422'>Cet homme vertueux, ce sage inaltérable, </l>
@@ -3190,18 +3186,18 @@
 	<l id='1428'>Qui pouvant être tout ce qu'il aurait voulu... </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1429' part='i'>Tu parais ironique ! </l>
+	<l id='1429' part="i">Tu parais ironique ! </l>
 </sp>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
-	<l id='1429' part='f'>Il faut cesser de l'être. </l>
+	<l id='1429' part="f">Il faut cesser de l'être. </l>
 	<l id='1430'>Ce grave personnage, Ariste n'est qu'un traître ; </l>
 	<l id='1431'>C'est lui qui te dépouille ; il a tout envahi. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1432' part='i'>Cela ne se peut pas. </l>
+	<l id='1432' part="i">Cela ne se peut pas. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1432' part='f'>Ariste l'a trahi ? </l>
+	<l id='1432' part="f">Ariste l'a trahi ? </l>
 </sp>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
 	<l id='1433'>Lui-même, il a commis une action si basse. </l>
@@ -3212,7 +3208,7 @@
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
 	<l id='1438'>Ah ! daignez-vous prêter à ma délicatesse. </l>
-	<l id='1439'>Je l'ai trop estimé pour ne pas l'excuser.  </l>
+	<l id='1439'>Je l'ai trop estimé pour ne pas l'excuser. </l>
 	<l id='1440'>Que savons-nous ? Sans doute il n'a pu refuser. </l>
 	<l id='1441'>D'ailleurs, j'étais exclus : je n'y pouvais prétendre. </l>
 	<l id='1442'>C'était des biens vacants, des grâces à répandre : </l>
@@ -3226,10 +3222,10 @@
 	<l id='1448'>Rends-lui justice : va, c'est un monstre odieux. </l>
 	<l id='1449'>Voilà mon dernier mot. Je le lui dirais en face, </l>
 	<l id='1450'>Et je l'afficherais... Si j'étais à ta place, </l>
-	<l id='1451' part='i'>Nous nous verrions de près. </l>
+	<l id='1451' part="i">Nous nous verrions de près. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1451' part='f'>L'avis est assez doux. </l>
+	<l id='1451' part="f">L'avis est assez doux. </l>
 </sp>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
 	<l id='1452'>Je n'écouterais plus qu'un trop juste courroux ; </l>
@@ -3238,7 +3234,7 @@
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
 	<l id='1455'>Par ma foi, ce serait des exploits mal placés. </l>
-	<l id='1456'>Son déshonneur nous verge, et le punit assez.  </l>
+	<l id='1456'>Son déshonneur nous verge, et le punit assez. </l>
 </sp>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
 	<l id='1457'>Et sur ce faible espoir sa vengeance se fonde ? </l>
@@ -3255,15 +3251,15 @@
 	<l id='1468'>Serai-je un jour forcé de lui faire ma cour. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1469' part='i'>Non pas moi, sûrement. </l>
+	<l id='1469' part="i">Non pas moi, sûrement. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1469' part='f'>Ce dénouement m'étonne ? Ariste... </l>
+	<l id='1469' part="f">Ce dénouement m'étonne ? Ariste... </l>
 	<l id='1470'>Ah ! c'en est fait... Puisque tout m'abandonne, </l>
-	<l id='1471' part='i'>Va, j'ai pris mon parti. </l>
+	<l id='1471' part="i">Va, j'ai pris mon parti. </l>
 </sp>
 <sp who='DORNANE'><speaker>DORNANE.</speaker>
-	<l id='1471' part='f'>C'est assez... je t'entends : </l>
+	<l id='1471' part="f">C'est assez... je t'entends : </l>
 	<l id='1472'>Et j'ose me flatter que nous serons contents. </l>
 	<l id='1473'>Je m'en vais à la Cour savoir ce qui s'y passe ; </l>
 	<l id='1474'>Et je te l'écrirai. Serviteur ; je t'embrasse. </l>
@@ -3308,13 +3304,13 @@
 </sp>
 </div2>
 <div2 type="scene" n='8'><head>SCÈNE VIII. Monrose, Aramont, Clorine.</head>
-<sp who='CLORINE'><speaker>CLORINE, à Monrose.</speaker>
+<sp stage="toward" who='CLORINE'><speaker>CLORINE, à Monrose.</speaker>
 	<l id='1505'>Si vous avez un mot à dire à ma Maîtresse, </l>
 	<l id='1506'>Je viens vous avertir, Monsieur, que le temps presse. </l>
-	<l id='1507' part='i'>Elle part à l'instant. </l>
+	<l id='1507' part="i">Elle part à l'instant. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1507' part='f'>Ô Ciel ! Il faut... j'y cours.</l>
+	<l id='1507' part="f">Ô Ciel ! Il faut... j'y cours.</l>
 </sp>
 </div2>
 <div2 type="scene" n='9'><head>SCÈNE IX. Aramont, Clorine.</head>
@@ -3324,21 +3320,21 @@
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
 	<l id='1509'>En êtes vous content ? Pour moi, j'en suis ravie. </l>
 	<l id='1510'>Je vous devais cela, pour m'avoir bien servie. </l>
-	<l id='1511' part='i'>Vous êtes bon ami. </l>
+	<l id='1511' part="i">Vous êtes bon ami. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1511' part='f'>Vous vouliez me brouiller </l>
-	<l id='1512' part='i'>Avec Monrose ; mais...</l>
+	<l id='1511' part="f">Vous vouliez me brouiller </l>
+	<l id='1512' part="i">Avec Monrose ; mais...</l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-	<l id='1512' part='f'>Vous vouliez dépouiller  </l>
-	<l id='1513' part='i'>Ma Maîtresse ; mais... </l>
+	<l id='1512' part="f">Vous vouliez dépouiller </l>
+	<l id='1513' part="i">Ma Maîtresse ; mais... </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1513' part='m'>Moi. </l>
+	<l id='1513' part="m">Moi. </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-	<l id='1513' part='f'>La ressource est commode. </l>
+	<l id='1513' part="f">La ressource est commode. </l>
 	<l id='1514'>Ruiner une femme est si fort à la mode, </l>
 	<l id='1515'>Que ce n'est presque plus la peine d'en parler. </l>
 	<l id='1516'>On ne voit autre chose ; c'est un pis-aller </l>
@@ -3354,26 +3350,26 @@
 	<l id='1522'>Ce sont-là des exploits que l'amour autorise. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1523' part='i'>Mais sachez donc.... </l>
+	<l id='1523' part="i">Mais sachez donc.... </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-	<l id='1523' part='f'>Je sais que pour notre malheur </l>
+	<l id='1523' part="f">Je sais que pour notre malheur </l>
 	<l id='1524'>Vous ne traitez pas mieux nos biens que notre honneur. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
 	<l id='1525'>Quand vous aurez lassé votre langue maudite, </l>
-	<l id='1526' part='i'>J'espère... </l>
+	<l id='1526' part="i">J'espère... </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-	<l id='1526' part='f'>On vient. J'ai fait, j'ai dit, et je vous quitte. </l>
+	<l id='1526' part="f">On vient. J'ai fait, j'ai dit, et je vous quitte. </l>
 </sp>
 </div2>
 <div2 type="scene" n='10'><head>SCÈNE X. Aramont, Monrose, Hortense.</head>
-<sp who='HORTENSE'><speaker>HORTENSE, en voyant Aramont.</speaker>
+<sp stage="watch" who='HORTENSE'><speaker>HORTENSE, en voyant Aramont.</speaker>
 	<l id='1527'>Ah ! Ne m'exposez point devant un indiscret, </l>
 	<l id='1528'>Qui ne devait jamais avouer mon secret. </l>
 </sp>
-<sp who='MONROSE'><speaker>MONROSE, à Aramont.</speaker>
+<sp stage="toward" who='MONROSE'><speaker>MONROSE, à Aramont.</speaker>
 	<l id='1529'>Laisse-nous, cher ami ; ta présence la blesse.</l>
 </sp>
 </div2>
@@ -3407,10 +3403,10 @@
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
 	<l id='1548'>Pourquoi se reprocher des maux qu'on n'a point faits ? </l>
 	<l id='1549'>Voulez-vous que je sois injuste et malheureuse ? </l>
-	<l id='1550' part='i'>Ah ! C'est trop exiger.... </l>
+	<l id='1550' part="i">Ah ! C'est trop exiger.... </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1550' part='f'>Quoi, toujours généreuse ? </l>
+	<l id='1550' part="f">Quoi, toujours généreuse ? </l>
 	<l id='1551'>Hortense, hélas ! pourquoi nous avez-vous connus ? </l>
 	<l id='1552'>Un bonheur assuré, des plaisirs continus, </l>
 	<l id='1553'>La plus haute fortune, un brillant hyménée, </l>
@@ -3436,14 +3432,14 @@
 	<l id='1571'>Je ne sens pas qu'on puisse en jouir autrement. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1572' part='i'>Vous l'avez bien fait voir. </l>
+	<l id='1572' part="i">Vous l'avez bien fait voir. </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='1572' part='f'>Et véritablement </l>
+	<l id='1572' part="f">Et véritablement </l>
 	<l id='1573'>Ma ruine fera le repos de ma vie. </l>
 	<l id='1574'>Ma liberté me reste, on l'aurait poursuivie. </l>
 	<l id='1575'>L'autorité, contraire à nos voeux les plus doux, </l>
-	<l id='1576'>M'aurait voulu forcer à prendre un autre époux.  </l>
+	<l id='1576'>M'aurait voulu forcer à prendre un autre époux. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
 	<l id='1577'>Peut-être auriez-vous fait son bonheur et le vôtre. </l>
@@ -3466,7 +3462,7 @@
 	<l id='1590'>Me tient dans une triste et douloureuse attente, </l>
 	<l id='1591'>Il est vrai, mon amour craignait de se montrer. </l>
 	<l id='1592'>J'ai prévu le néant où je viens de rentrer : </l>
-	<l id='1593'>Et je ne suis pas fait pour être téméraire.  </l>
+	<l id='1593'>Et je ne suis pas fait pour être téméraire. </l>
 	<l id='1594'>Pouvais-je imaginer que j'avais pu vous plaire ? </l>
 	<l id='1595'>Et quand je l'aurais su, qu'avais-je à vous offrir ? </l>
 	<l id='1596'>Je devais vous tromper afin de vous guérir. </l>
@@ -3481,15 +3477,15 @@
 	<l id='1603'>Hélas ! que dites-vous ? Croyez que mon devoir </l>
 	<l id='1604'>M'empêchait d'y répondre, et non pas de les voir. </l>
 </sp>
-<sp who='MONROSE'><speaker>MONROSE, en se jetant à ses genoux.</speaker>
+<sp stage="kneel" who='MONROSE'><speaker>MONROSE, en se jetant à ses genoux.</speaker>
 	<l id='1605'>Quel aveu ! Permettez à mon âme ravie </l>
 	<l id='1606'>Un transport, qui sera le dernier de ma vie. </l>
 	<l id='1607'>Je puis donc une fois tomber à vos genoux ! </l>
 	<l id='1608'>Ah ! Devrait-on survivre à des moments si doux ? </l>
 </sp>
-<sp who='HORTENSE'><speaker>HORTENSE, en le relevant.</speaker>
+<sp stage="stand" who='HORTENSE'><speaker>HORTENSE, en le relevant.</speaker>
 	<l id='1609'>Il le faut cependant. Si je vous intéresse, </l>
-	<l id='1610'>Vivez, pour illustrer l'objet de ma tendresse ;  </l>
+	<l id='1610'>Vivez, pour illustrer l'objet de ma tendresse ; </l>
 	<l id='1611'>Remplissez mon idée ; elle est digne de vous ; </l>
 	<l id='1612'>Soyez tel qu'il fallait pour être mon époux ; </l>
 	<l id='1613'>Devenez l'Artisan de votre destinée. </l>
@@ -3498,30 +3494,30 @@
 	<l id='1616'>Et de n'avoir que ceux qu'on a su mériter. </l>
 	<l id='1617'>Ce sont-là mes adieux, mes voeux, et mon présage... </l>
 	<l id='1618'>Va, l'on ne peut manquer quand on a du courage... </l>
-	<l id='1619' part='i'>Imitez mon exemple ; et sachez... </l>
+	<l id='1619' part="i">Imitez mon exemple ; et sachez... </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1619' part='f'>Vous pleurez ! </l>
+	<l id='1619' part="f">Vous pleurez ! </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='1620' part='i'>Séparons-nous ; adieu. </l>
+	<l id='1620' part="i">Séparons-nous ; adieu. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1620' part='m'>Pour jamais !... </l>
+	<l id='1620' part="m">Pour jamais !... </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='1620' part='f'>Demeurez. </l>
+	<l id='1620' part="f">Demeurez. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1621' part='i'>Je ne puis. </l>
+	<l id='1621' part="i">Je ne puis. </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='1621' part='m'>Je le veux.</l>
-<stage type="[N/A]">Elle fuit.</stage>
+	<l id='1621' part="m">Je le veux.</l>
+<stage type="exit">Elle fuit.</stage>
 </sp>
-<sp who='MONROSE'><speaker>MONROSE, en la suivant.</speaker>
-	<l id='1621' part='f'>L'instance est superflue. </l>
-	<l id='1622'>Non ; dussai-je expirer, en vous perdant de vue !...  </l>
+<sp stage="exit" who='MONROSE'><speaker>MONROSE, en la suivant.</speaker>
+	<l id='1621' part="f">L'instance est superflue. </l>
+	<l id='1622'>Non ; dussai-je expirer, en vous perdant de vue !... </l>
 </sp>
 </div2>
 </div1>
@@ -3544,7 +3540,7 @@
 	<l id='1632'>Partout où je pourrai vivre, et me signaler. </l>
 	<l id='1633'>Dans l'état où je suis on n'a plus de Patrie : </l>
 	<l id='1634'>J'abandonne la mienne, où, malgré mon envie, </l>
-	<l id='1635'>Je ne puis plus m'ouvrir un illustre tombeau :  </l>
+	<l id='1635'>Je ne puis plus m'ouvrir un illustre tombeau : </l>
 	<l id='1636'>Un sujet inutile est pour elle un fardeau. </l>
 	<l id='1637'>Je vais mourir ailleurs, ou mériter de vivre. </l>
 </sp>
@@ -3555,10 +3551,10 @@
 	<l id='1639'>Je crois que tu voudrais m'obliger à rester ? </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1640' part='i'>Vous êtes enchaîné. </l>
+	<l id='1640' part="i">Vous êtes enchaîné. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1640' part='f'>Qui pourrait m'arrêter ? </l>
+	<l id='1640' part="f">Qui pourrait m'arrêter ? </l>
 	<l id='1641'>Quelles raisons ? En quoi suis-je ici nécessaire ? </l>
 	<l id='1642'>Tu restes ; on n'a point de reproche à me faire. </l>
 </sp>
@@ -3566,10 +3562,10 @@
 	<l id='1643'>On m'en ferait d'affreux, si vous vous écartez. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1644' part='i'>Comment ? </l>
+	<l id='1644' part="i">Comment ? </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1644' part='f'>Vous me perdez d'honneur, si vous partez. </l>
+	<l id='1644' part="f">Vous me perdez d'honneur, si vous partez. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
 	<l id='1645'>Quel rapport mon départ a-t-il avec ta gloire ? </l>
@@ -3578,19 +3574,19 @@
 	<l id='1646'>Le rapport est plus grand que vous ne pouvez croire. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1647' part='i'>Je ne le comprends pas. </l>
+	<l id='1647' part="i">Je ne le comprends pas. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1647' part='m'>On m'accuse... </l>
+	<l id='1647' part="m">On m'accuse... </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1647' part='f'>Eh de quoi ? </l>
+	<l id='1647' part="f">Eh de quoi ? </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1648' part='i'>D'être votre complice. </l>
+	<l id='1648' part="i">D'être votre complice. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1648' part='f'>Ah ! Tout autre que toi... </l>
+	<l id='1648' part="f">Ah ! Tout autre que toi... </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
 	<l id='1649'>Le Destin a comblé toutes ses injustices. </l>
@@ -3600,15 +3596,15 @@
 	<l id='1651'>Ce nom convient au crime. Eh, quel est donc le mien ? </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1652' part='i'>Il est imaginaire. </l>
+	<l id='1652' part="i">Il est imaginaire. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1652' part='f'>Ah ! ne me cache rien. </l>
+	<l id='1652' part="f">Ah ! ne me cache rien. </l>
 	<l id='1653'>Quel que soit mon destin, je saurai m'y soumettre : </l>
-	<l id='1654' part='i'>Dis... </l>
+	<l id='1654' part="i">Dis... </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1654' part='f'>Dornane m'écrit : jugez-en par sa lettre. </l>
+	<l id='1654' part="f">Dornane m'écrit : jugez-en par sa lettre. </l>
 <stage type="read">Il lit.</stage>
 	<l id='1655'>"Je t'écris à la hâte. Ariste, non content </l>
 	<l id='1656'>Des biens de notre ami, lui ravit sa maîtresse ; </l>
@@ -3620,13 +3616,13 @@
 	<l id='1662'>Fait finir au plutôt cette plaisanterie." </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1663' part='i'>Je suis riche ! </l>
+	<l id='1663' part="i">Je suis riche ! </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1663' part='m'>On le dit. </l>
+	<l id='1663' part="m">On le dit. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1663' part='f'>Comment ? Explique-moi... </l>
+	<l id='1663' part="f">Comment ? Explique-moi... </l>
 	<l id='1664'>Et je suis accusé d'avoir détourné ?.... Quoi ? </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
@@ -3658,7 +3654,7 @@
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
 	<l id='1682'>Quoi ! l'amitié m'aura toujours été funeste ! </l>
-	<l id='1683'>De mes jours malheureux elle est donc le fléau ?  </l>
+	<l id='1683'>De mes jours malheureux elle est donc le fléau ? </l>
 	<l id='1684'>Le sort me réservait ce supplice nouveau. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
@@ -3686,46 +3682,46 @@
 	<l id='1696'>Qu'à me cacher. Je vais me perdre, et me plonger </l>
 	<l id='1697'>Dans une obscurité la plus impénétrable. </l>
 	<l id='1698'>Périssent ma mémoire, et le sang déplorable </l>
-	<l id='1699' part='i'>Qui m'a fait naître ? </l>
+	<l id='1699' part="i">Qui m'a fait naître ? </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1699' part='m'>Ô Ciel ! </l>
+	<l id='1699' part="m">Ô Ciel ! </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1699' part='f'>Et toi, laisse-moi fuir. </l>
+	<l id='1699' part="f">Et toi, laisse-moi fuir. </l>
 	<l id='1700'>Pour la dernière fois, ne te fais point haïr. </l>
-	<l id='1701' part='i'>Adieu. </l>
+	<l id='1701' part="i">Adieu. </l>
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Monrose, Aramont, Un Garde. </head>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1701' part='f'>Mais que nous veut cet homme ? Ô Ciel ! Serait-ce ? </l>
+	<l id='1701' part="f">Mais que nous veut cet homme ? Ô Ciel ! Serait-ce ? </l>
 </sp>
 <sp who='LE-GARDE'><speaker>LE GARDE.</speaker>
-	<l id='1702' part='i'>Je suis chargé d'un ordre... </l>
+	<l id='1702' part="i">Je suis chargé d'un ordre... </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1702' part='f'>Est-ce à moi qu'il s'adresse ? </l>
+	<l id='1702' part="f">Est-ce à moi qu'il s'adresse ? </l>
 </sp>
 <sp who='LE-GARDE'><speaker>LE GARDE.</speaker>
 	<l id='1703'>Oui, Monsieur. À regret je remplis un devoir... </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1704' part='i'>On m'arrête ! Eh pourquoi ? </l>
+	<l id='1704' part="i">On m'arrête ! Eh pourquoi ? </l>
 </sp>
 <sp who='LE-GARDE'><speaker>LE GARDE.</speaker>
-	<l id='1704' part='f'>Vous devez le savoir ? </l>
-	<l id='1705' part='i'>Souffrez que je m'acquitte... </l>
+	<l id='1704' part="f">Vous devez le savoir ? </l>
+	<l id='1705' part="i">Souffrez que je m'acquitte... </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1705' part='f'>Allons. Que faut-il faire ? </l>
-	<l id='1706' part='i'>Faut-il que je vous suive ? </l>
+	<l id='1705' part="f">Allons. Que faut-il faire ? </l>
+	<l id='1706' part="i">Faut-il que je vous suive ? </l>
 </sp>
 <sp who='LE-GARDE'><speaker>LE GARDE.</speaker>
-	<l id='1706' part='f'>Il n'est pas nécessaire, </l>
+	<l id='1706' part="f">Il n'est pas nécessaire, </l>
 	<l id='1707'>Et vous m'avez été consigné seulement. </l>
 </sp>
-<sp who='ARAMONT'><speaker>ARAMONT, au garde.</speaker>
+<sp stage="toward" who='ARAMONT'><speaker>ARAMONT, au garde.</speaker>
 	<l id='1708'>Voulez-vous bien passer dans cet appartement. </l>
 </sp>
 </div2>
@@ -3733,20 +3729,20 @@
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
 	<l id='1709'>On m'arrête ! Et déjà l'on me traite en coupable ! </l>
 	<l id='1710'>On m'enchaîne au forfait dont on me croit capable ! </l>
-	<l id='1711' part='i'>Mes fers me font horreur. </l>
+	<l id='1711' part="i">Mes fers me font horreur. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1711' part='f'>D'où vient cet accident ? </l>
+	<l id='1711' part="f">D'où vient cet accident ? </l>
 	<l id='1712'>Dornane aura parlé. C'est un homme imprudent. </l>
 	<l id='1713'>Vous aurez devant lui projeté votre fuite. </l>
 	<l id='1714'>Ce bruit vous aura nui. La Cour en est instruite : </l>
 	<l id='1715'>Et voilà ce qui fait qu'on s'assure de vous. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1716' part='i'>Comme d'un criminel. </l>
+	<l id='1716' part="i">Comme d'un criminel. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1716' part='f'>Vous les confondrez tous. </l>
+	<l id='1716' part="f">Vous les confondrez tous. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
 	<l id='1717'>Eh ! Comment les confondre ? Est-il en ma puissance. </l>
@@ -3754,11 +3750,11 @@
 	<l id='1719'>Quelle preuve opposer ? Où pourrai-je en trouver ! </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1720' part='i'>Votre ruine même. </l>
+	<l id='1720' part="i">Votre ruine même. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1720' part='f'>Eh, comment la prouver ? </l>
-	<l id='1721'>Par quels moyens veux-tu que je les désabuse ?  </l>
+	<l id='1720' part="f">Eh, comment la prouver ? </l>
+	<l id='1721'>Par quels moyens veux-tu que je les désabuse ? </l>
 	<l id='1722'>En croit-on les serments de ceux que l'on accuse ? </l>
 	<l id='1723'>Ah ! tout concourt encore à ma conviction. </l>
 	<l id='1724'>Ces bruits avantageux à la succession ; </l>
@@ -3773,7 +3769,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Monrose, Aramont, Hortense, entre sans être vue. </head>
-<sp who='MONROSE'><speaker>MONROSE, accablé dans un fauteuil.</speaker>
+<sp stage="sad/sit" who='MONROSE'><speaker>MONROSE, accablé dans un fauteuil.</speaker>
 	<l id='1733'>Je me perds dans l'horreur de chaque circonstance. </l>
 	<l id='1734'>Lorsque pour réparer la ruine d'Hortense, </l>
 	<l id='1735'>Je détourne sur moi les indignes besoins, </l>
@@ -3787,31 +3783,31 @@
 	<l id='1743'>Qu'est-ce qu'un scélérat a de plus à souffrir ? </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='1744' part='i'>Le remords... </l>
+	<l id='1744' part="i">Le remords... </l>
 </sp>
-<sp who='MONROSE'><speaker>MONROSE, en se levant.</speaker>
-	<l id='1744' part='f'>Quelle voix, quel objet vient s'offrir. </l>
+<sp stage="stand" who='MONROSE'><speaker>MONROSE, en se levant.</speaker>
+	<l id='1744' part="f">Quelle voix, quel objet vient s'offrir. </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
 	<l id='1745'>C'est une amante en pleurs. On empêche ma fuite ; </l>
 	<l id='1746'>J'ignore à quel dessein, je n'en suis pas instruite. </l>
-	<l id='1747' part='i'>On m'a fait revenir. </l>
+	<l id='1747' part="i">On m'a fait revenir. </l>
 </sp>
-<sp who='MONROSE'><speaker>MONROSE, en voulant s'en aller.</speaker>
-	<l id='1747' part='f'>Laissez-moi me cacher.</l>
+<sp stage="away" who='MONROSE'><speaker>MONROSE, en voulant s'en aller.</speaker>
+	<l id='1747' part="f">Laissez-moi me cacher.</l>
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCENE V. Monrose, Hortense.</head>
-<sp who='HORTENSE'><speaker>HORTENSE, le retenant.</speaker>
-	<l id='1748' part='i'>Quoi ! vous voulez me fuir ? </l>
+<sp stage="pull" who='HORTENSE'><speaker>HORTENSE, le retenant.</speaker>
+	<l id='1748' part="i">Quoi ! vous voulez me fuir ? </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1748' part='f'>Laissez-moi m'arracher. </l>
+	<l id='1748' part="f">Laissez-moi m'arracher. </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='1749'>Eh ! ne nous quittons point dans l'état où nous sommes.  </l>
+	<l id='1749'>Eh ! ne nous quittons point dans l'état où nous sommes. </l>
 </sp>
-<sp who='MONROSE'><speaker>MONROSE, pénétré.</speaker>
+<sp stage="excited" who='MONROSE'><speaker>MONROSE, pénétré.</speaker>
 	<l id='1750'>Ces regards sont-ils faits pour le dernier des hommes ? </l>
 	<l id='1751'>Je ne puis soutenir vos yeux, ni mes revers. </l>
 </sp>
@@ -3821,10 +3817,10 @@
 	<l id='1754'>Je ne puis que pleurer. Le temps fera le reste. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1755' part='i'>Dites, mon désespoir. </l>
+	<l id='1755' part="i">Dites, mon désespoir. </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='1755' part='f'>Ah ! Cruel, arrêtez. </l>
+	<l id='1755' part="f">Ah ! Cruel, arrêtez. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
 	<l id='1756'>Il finira bientôt des jours trop détestés. </l>
@@ -3834,22 +3830,22 @@
 	<l id='1758'>N'auront donc point assez de puissance et de charmes, </l>
 	<l id='1759'>Pour vous rendre un peu moins sensible à vos malheurs ? </l>
 	<l id='1760'>Qu'on ne nous vante plus le pouvoir de nos pleurs ! </l>
-	<l id='1761' part='i'>Vous ne songez qu'à vous. </l>
+	<l id='1761' part="i">Vous ne songez qu'à vous. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1761' part='m'>Quel reproche ! </l>
+	<l id='1761' part="m">Quel reproche ! </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='1761' part='f'>Il ne tombe</l>
+	<l id='1761' part="f">Il ne tombe</l>
 	<l id='1762'>Que sur ce désespoir où votre coeur succombe, </l>
 	<l id='1763'>Je sais de quels bienfaits vous vouliez me combler. </l>
 	<l id='1764'>Du reste de vos biens vous vouliez m'accabler. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1765' part='i'>Qui m'a trahi ? </l>
+	<l id='1765' part="i">Qui m'a trahi ? </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='1765' part='f'>C'est toi. Va, tu n'as qu'à poursuivre. </l>
+	<l id='1765' part="f">C'est toi. Va, tu n'as qu'à poursuivre. </l>
 	<l id='1766'>Laisse-moi donc mourir, si tu ne veux plus vivre. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
@@ -3871,7 +3867,7 @@
 	<l id='1780'>Rétablit-on sa gloire en se désespérant ? </l>
 	<l id='1781'>Le découragement autorise une injure. </l>
 	<l id='1782'>Il faut vivre pour vaincre ; et la victoire est sûre ; </l>
-	<l id='1783'>Et qui perd tout espoir mérite son malheur.  </l>
+	<l id='1783'>Et qui perd tout espoir mérite son malheur. </l>
 	<l id='1784'>Je vous parle sans doute avec trop de chaleur. </l>
 	<l id='1785'>Excusez une amante, ou plutôt une amie. </l>
 </sp>
@@ -3893,13 +3889,13 @@
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
 	<l id='1795'>Je viens d'être éclairci. Vous n'êtes arrêté, </l>
 	<l id='1796'>Qu'en vertu d'un propos que l'on vous a prêté. </l>
-	<l id='1797' part='i'>Dornane... </l>
+	<l id='1797' part="i">Dornane... </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1797' part='m'>Eh bien ? </l>
+	<l id='1797' part="m">Eh bien ? </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1797' part='f'>Son zèle et sa prudence éclatent. </l>
+	<l id='1797' part="f">Son zèle et sa prudence éclatent. </l>
 	<l id='1798'>C'est un homme qui veut que les autres se battent. </l>
 	<l id='1799'>Il dit que votre idée est de tirer raison </l>
 	<l id='1800'>Du procédé d'Ariste, et de sa trahison : </l>
@@ -3907,13 +3903,13 @@
 	<l id='1802'>Mais vous allez avoir une étrange entrevue. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1803' part='i'>Comment ? </l>
+	<l id='1803' part="i">Comment ? </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1803' part='m'>Ariste... Il ose ici... </l>
+	<l id='1803' part="m">Ariste... Il ose ici... </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1803' part='f'>Quel embarras ? </l>
+	<l id='1803' part="f">Quel embarras ? </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
 	<l id='1804'>Vous l'allez voir paraître ; il marche sur mes pas. </l>
@@ -3923,57 +3919,57 @@
 	<l id='1806'>Je le veux accabler sous le poids de sa chaîne. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1807'>Mais le voici qui vient ; contenons-nous un peu.  </l>
+	<l id='1807'>Mais le voici qui vient ; contenons-nous un peu. </l>
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII. Ariste, Monrose, Aramont, Hortense, Clorine, Le Garde.</head>
-<sp who='ARISTE'><speaker>ARISTE, au Garde dans l'enfoncement du théâtre.</speaker>
+<sp stage="toward/location" who='ARISTE'><speaker>ARISTE, au Garde dans l'enfoncement du théâtre.</speaker>
 	<l id='1808'>Vous pouvez nous laisser : votre ordre n'a plus lieu : </l>
 	<l id='1809'>Je me charge de tout ; la Cour en est instruite.</l>
 </sp>
 </div2>
 <div2 type="scene" n='8'><head>SCÈNE DERNIÈRE. Ariste, Monrose, Aramont, Hortense, Clorine.</head>
-<sp who='ARISTE'><speaker>ARISTE, à Monrose.</speaker>
+<sp stage="toward" who='ARISTE'><speaker>ARISTE, à Monrose.</speaker>
 	<l id='1810'>Je viens rendre raison de toute ma conduite.</l>
 </sp>
-<sp who='MONROSE'><speaker>MONROSE, sans se détourner.</speaker>
+<sp stage="stay" who='MONROSE'><speaker>MONROSE, sans se détourner.</speaker>
 	<l id='1811'>On n'en demande point à ceux qui sont heureux. </l>
 </sp>
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
 	<l id='1812'>Il est vrai, je le suis ; tout succède à mes voeux. </l>
 </sp>
-<sp who='ARAMONT'><speaker>ARAMONT, ironiquement.</speaker>
+<sp stage="ironic" who='ARAMONT'><speaker>ARAMONT, ironiquement.</speaker>
 	<l id='1813'>Monsieur, vous voulez bien que je vous félicite ! </l>
 	<l id='1814'>Vous voyez quels transports votre bonheur excite. </l>
 </sp>
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
-	<l id='1815' part='i'>Je n'en suis point surpris. </l>
+	<l id='1815' part="i">Je n'en suis point surpris. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1815' part='f'>Ma foi, je le crois bien. </l>
+	<l id='1815' part="f">Ma foi, je le crois bien. </l>
 </sp>
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
-	<l id='1816' part='i'>On m'a tout accordé. </l>
+	<l id='1816' part="i">On m'a tout accordé. </l>
 </sp>
-<sp who='ARAMONT'><speaker>ARAMONT, en lui remettant l'écrin, et la procuration de Monrose.</speaker>
-	<l id='1816' part='f'>Pour qu'il n'y manque rien, </l>
+<sp stage="give" who='ARAMONT'><speaker>ARAMONT, en lui remettant l'écrin, et la procuration de Monrose.</speaker>
+	<l id='1816' part="f">Pour qu'il n'y manque rien, </l>
 	<l id='1817'>Tenez ; voilà leur reste : ils n'en savaient que faire. </l>
 	<l id='1818'>Ni moi non plus... Prenez toujours ; c'est votre affaire. </l>
 </sp>
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
-	<l id='1819' part='i'>Madame... </l>
+	<l id='1819' part="i">Madame... </l>
 </sp>
-<sp who='HORTENSE'><speaker>HORTENSE, avec dédain.</speaker>
-	<l id='1819' part='m'>Laissez-moi. </l>
+<sp stage="contempt" who='HORTENSE'><speaker>HORTENSE, avec dédain.</speaker>
+	<l id='1819' part="m">Laissez-moi. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1819' part='f'>Je suis hors d'embarras. </l>
+	<l id='1819' part="f">Je suis hors d'embarras. </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
 	<l id='1820'>Je ne sais ce que c'est, mais je n'ignore pas </l>
 	<l id='1821'>Qu'il vous a plu, Monsieur, d'empêcher ma retraite. </l>
 </sp>
-<sp who='ARISTE'><speaker>ARISTE, rendant à Clorine l'écrin et la procuration.</speaker>
+<sp stage="give" who='ARISTE'><speaker>ARISTE, rendant à Clorine l'écrin et la procuration.</speaker>
 	<l id='1822'>Je crois que vous pourrez en être satisfaite. </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
@@ -3983,11 +3979,11 @@
 	<l id='1824'>Oui ; j'ai sollicité cet ordre de la Cour. </l>
 	<l id='1825'>On ne vous perdra point. L'amour et l'hyménée </l>
 	<l id='1826'>Y vont fixer vos jours, et votre destinée. </l>
-	<l id='1827' part='i'>On m'a favorisé... </l>
+	<l id='1827' part="i">On m'a favorisé... </l>
 </sp>
-<sp who='HORTENSE'><speaker>HORTENSE, avec indignation.</speaker>
-	<l id='1827' part='f'>Qui ? Vous, perfide ami ? </l>
-	<l id='1828'>C'est dans la trahison être bien affermi !  </l>
+<sp stage="anger" who='HORTENSE'><speaker>HORTENSE, avec indignation.</speaker>
+	<l id='1827' part="f">Qui ? Vous, perfide ami ? </l>
+	<l id='1828'>C'est dans la trahison être bien affermi ! </l>
 	<l id='1829'>Vous voulez que ma main couronne votre ouvrage ; </l>
 	<l id='1830'>Mais il faut repousser l'injure par l'outrage. </l>
 	<l id='1831'>Notre état différent vous rend audacieux. </l>
@@ -3997,54 +3993,54 @@
 </sp>
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
 	<l id='1835'>Non, Madame, l'hymen vous garde un sort plus doux. </l>
-	<l id='1836' part='i'>D'ailleurs, vous êtes riche. </l>
+	<l id='1836' part="i">D'ailleurs, vous êtes riche. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1836' part='m'>En quoi ? </l>
+	<l id='1836' part="m">En quoi ? </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1836' part='f'>Que dites-vous ? </l>
+	<l id='1836' part="f">Que dites-vous ? </l>
 </sp>
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
 	<l id='1837'>Qu'il est faux que Madame ait été ruinée. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1838' part='i'>Quel conte ! </l>
+	<l id='1838' part="i">Quel conte ! </l>
 </sp>
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
-	<l id='1838' part='f'>Cette histoire est mal imaginée. </l>
+	<l id='1838' part="f">Cette histoire est mal imaginée. </l>
 	<l id='1839'>Ce bruit injurieux s'est détruit aussitôt. </l>
 	<l id='1840'>Chez un homme public ses biens sont en dépôt. </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='1841' part='i'>Qu'entends-je ? </l>
+	<l id='1841' part="i">Qu'entends-je ? </l>
 </sp>
 <sp who='CLORINE'><speaker>CLORINE.</speaker>
-	<l id='1841' part='m'>Est-il possible ? </l>
+	<l id='1841' part="m">Est-il possible ? </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1841' part='f'>Ô Ciel ! Quelle surprise ? </l>
+	<l id='1841' part="f">Ô Ciel ! Quelle surprise ? </l>
 </sp>
-<sp who='ARISTE'><speaker>ARISTE, à Monrose.</speaker>
+<sp stage="toward" who='ARISTE'><speaker>ARISTE, à Monrose.</speaker>
 	<l id='1842'>C'est la précaution que votre oncle avait prise. </l>
-	<l id='1843'>Oui, Monsieur, ce n'est plus un secret aujourd'hui.  </l>
+	<l id='1843'>Oui, Monsieur, ce n'est plus un secret aujourd'hui. </l>
 	<l id='1844'>Il est justifié ; vous l'êtes comme lui. </l>
 </sp>
-<sp who='MONROSE'><speaker>MONROSE, transporté.</speaker>
-	<l id='1845' part='i'>Je suis justifié ! </l>
+<sp stage="excited" who='MONROSE'><speaker>MONROSE, transporté.</speaker>
+	<l id='1845' part="i">Je suis justifié ! </l>
 </sp>
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
-	<l id='1845' part='f'>C'est moi qui vous l'atteste. </l>
+	<l id='1845' part="f">C'est moi qui vous l'atteste. </l>
 </sp>
-<sp who='MONROSE'><speaker>MONROSE, transporté de joie.</speaker>
+<sp stage="happy" who='MONROSE'><speaker>MONROSE, transporté de joie.</speaker>
 	<l id='1846'>Fortune, c'est assez, je te quitte du reste. </l>
-	<l id='1847'>Mes voeux sont épuisez. Mon honneur m'est rendu.</l>
+	<l id='1847'>Mes voeux sont épuisés. Mon honneur m'est rendu.</l>
 <stage type="toward">À Hortense.</stage>
 	<l id='1848'>Madame, pardonnez à mon coeur éperdu </l>
-	<l id='1849' part='i'>Ce transport excessif... </l>
+	<l id='1849' part="i">Ce transport excessif... </l>
 </sp>
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
-	<l id='1849' part='f'>Permettez ; je vous prie ; </l>
+	<l id='1849' part="f">Permettez ; je vous prie ; </l>
 	<l id='1850'>Il est bien juste aussi que je me justifie. </l>
 	<l id='1851'>J'ai dû jusqu'à la fin vous cacher des secrets, </l>
 	<l id='1852'>Où vous auriez pu faire entrer des indiscrets. </l>
@@ -4062,35 +4058,35 @@
 	<l id='1864'>Le Prince m'a permis de vous les céder tous : </l>
 	<l id='1865'>Et je vous les remets avec toute la joie... </l>
 	<l id='1866'>Souffrez qu'en m'acquittant tout mon coeur se déploie. </l>
-<stage type="[N/A]">Il embrasse Monrose.</stage>
+<stage type="kiss">Il embrasse Monrose.</stage>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
 	<l id='1867'>Monsieur, ce n'est pas-là tout ce que je vous dois. </l>
-	<l id='1868' part='i'>Mes créanciers... </l>
+	<l id='1868' part="i">Mes créanciers... </l>
 </sp>
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
-	<l id='1868' part='m'>Laissons cet incident. </l>
+	<l id='1868' part="m">Laissons cet incident. </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
-	<l id='1868' part='f'>Je vois. </l>
+	<l id='1868' part="f">Je vois. </l>
 	<l id='1869'>Que c'est à vous, Monsieur, que j'en suis redevable. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1870' part='i'>J'ai pensé m'en douter. </l>
+	<l id='1870' part="i">J'ai pensé m'en douter. </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='1870' part='f'>Que je me sens coupable ! </l>
+	<l id='1870' part="f">Que je me sens coupable ! </l>
 </sp>
-<sp who='ARISTE'><speaker>ARISTE, à Hortense.</speaker>
+<sp stage="toward" who='ARISTE'><speaker>ARISTE, à Hortense.</speaker>
 	<l id='1871'>Madame, c'est pour lui que je viens d'obtenir </l>
 	<l id='1872'>Le don de votre main : vous pourrez vous unir. </l>
 </sp>
 <sp who='HORTENSE'><speaker>HORTENSE.</speaker>
-	<l id='1873' part='i'>J'ai des torts avec vous. </l>
+	<l id='1873' part="i">J'ai des torts avec vous. </l>
 </sp>
 <sp who='ARAMONT'><speaker>ARAMONT.</speaker>
-	<l id='1873' part='f'>Bon, bon ; point de rancune : </l>
-	<l id='1874'>Pour moi, je vous réponds que je n'en garde aucune.  </l>
+	<l id='1873' part="f">Bon, bon ; point de rancune : </l>
+	<l id='1874'>Pour moi, je vous réponds que je n'en garde aucune. </l>
 </sp>
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
 	<l id='1875'>Notre premier devoir nous appelle à la Cour. </l>
@@ -4104,7 +4100,7 @@
 	<l id='1879'>En vous faisant jouir du destin le plus doux. </l>
 	<l id='1880'>Croyez-vous que je suis moins fortuné que vous ? </l>
 </sp>
-<sp who='MONROSE'><speaker>MONROSE, à Hortense.</speaker>
+<sp stage="toward" who='MONROSE'><speaker>MONROSE, à Hortense.</speaker>
 	<l id='1881'>Ah ! Madame, souffrez que mon coeur se partage.</l>
 <stage type="toward">À Ariste.</stage> 
 	<l id='1882'>Monsieur, je ne puis rien vous offrir davantage. </l>

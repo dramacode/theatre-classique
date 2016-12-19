@@ -60,8 +60,8 @@
 		<castItem><role id="JOSÉPHINE" sex="2" type="H" statut='aristocrate' age='J' stat_amour='néant'>JOSÉPHINE</role>, fille d' Ariste, joué par Mme. Petit. </castItem>	
 		<castItem><role id="D-HARCOURT" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>D'HARCOURT</role>, amant de Joséphine, joué par M. Talmat. </castItem>		
 		<castItem><role id="MADAME BROCHURE" sex="2" type="H" statut='libraire' age='A' stat_amour='néant'>MADAME BROCHURE</role>, joué par Mlle. Joli. </castItem>		
-		<castItem><role id="GORGI" sex="1" type="H" statut='journaliste' age='A' stat_amour='néant'>GORGI</role>, faiseur de feuilles, joué par  M. Dazincourt. </castItem>	
-		<castItem><role id="FATRAS" sex="1" type="H" statut='avocat' age='A' stat_amour='néant'>FATRAS</role>, Avocat-Général, joué par  M. Dugazon. </castItem>		
+		<castItem><role id="GORGI" sex="1" type="H" statut='journaliste' age='A' stat_amour='néant'>GORGI</role>, faiseur de feuilles, joué par M. Dazincourt. </castItem>	
+		<castItem><role id="FATRAS" sex="1" type="H" statut='avocat' age='A' stat_amour='néant'>FATRAS</role>, Avocat-Général, joué par M. Dugazon. </castItem>		
 		<castItem><role id="UN-ABBE" sex="1" type="H" statut='abbé' age='A' stat_amour='néant'>UN ABBÉ</role>, joué par M. Dazincourt. </castItem>		
 		<castItem><role id="RATURE" sex="1" type="H" statut='censeur' age='A' stat_amour='néant'>RATURE</role>, censeur royal, joué par M. Vanhove. </castItem>		
 		<castItem><role id="CABRIOLE" sex="1" type="H" statut='maître à danser' age='A' stat_amour='néant'>CABRIOLE</role>, maître à danser, joué par M. Dugazon.</castItem>		
@@ -86,14 +86,14 @@
 	<l id='3'>Depuis plus de cent ans vous dites qu'il sommeille ! </l>
 </sp>
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
-	<l id='4' part='i'>Je vous l'ai dit, ma fille. </l>
+	<l id='4' part="i">Je vous l'ai dit, ma fille. </l>
 </sp>
 <sp who='JOSEPHINE'><speaker>JOSÉPHINE.</speaker>
-	<l id='4' part='f'>Ho ! C'est bien surprenant, </l>
-	<l id='5' part='i'>Mon père ; et vous nommez cet homme.... </l>
+	<l id='4' part="f">Ho ! C'est bien surprenant, </l>
+	<l id='5' part="i">Mon père ; et vous nommez cet homme.... </l>
 </sp>
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
-	<l id='5' part='f'>Epiménide ; </l>
+	<l id='5' part="f">Epiménide ; </l>
 	<l id='6'>Il ne craint point les traits de la parque homicide. </l>
 	<l id='7'>Lorsqu'il a vécu quelque temps, </l>
 	<l id='8'>Il s'assoupit ; pendant cent ans, </l>
@@ -103,10 +103,10 @@
 	<l id='12'>Du monde qui varie il voit les changements. </l>
 </sp>
 <sp who='DHARCOURT'><speaker>D'HARCOURT.</speaker>
-	<l id='13' part='i'>Il en a vu beaucoup ! </l>
+	<l id='13' part="i">Il en a vu beaucoup ! </l>
 </sp>
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
-	<l id='13' part='f'>Il a vu dans la Grèce </l>
+	<l id='13' part="f">Il a vu dans la Grèce </l>
 	<l id='14'>La perfidie et la faiblesse </l>
 	<l id='15'>Remplacer les mâles vertus </l>
 	<l id='16'>Qui, des Persans soumis, la rendirent maîtresse. </l>
@@ -131,7 +131,7 @@
 	<l id='33'>Se mêler au bruit du canon </l>
 	<l id='34'>Qui défendait les barricades ; </l>
 	<l id='35'>Il a vécu naguère en ces jours si fameux </l>
-<note type="L">Condé, Louis II, prince de (1621) : Vainquit les Espsagnol à la bataille de Rocroy à 22 ans. Prit le parti contre Mazarin lors de la  Fronde et fut battu par Turenne au Faubourg Saint-Antoine en 52. Après une vie mouvementée pour les armes, il finit sa vie au Château de Chantilly en défenseur des Arts dont Molière. </note>
+<note type="L">Condé, Louis II, prince de (1621) : Vainquit les Espsagnol à la bataille de Rocroy à 22 ans. Prit le parti contre Mazarin lors de la Fronde et fut battu par Turenne au Faubourg Saint-Antoine en 52. Après une vie mouvementée pour les armes, il finit sa vie au Château de Chantilly en défenseur des Arts dont Molière. </note>
 	<l id='36'>Où brillèrent Condé, Turenne et la victoire, </l>
 	<l id='37'>Où Louis fit servir ses peuples à sa gloire, </l>
 	<l id='38'>Immola tout pour elle, et ne fit rien pour eux, </l>
@@ -154,31 +154,31 @@
 	<l id='49'>Croyez-vous bien qu'il peut avoir ? </l>
 </sp>
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
-	<l id='50' part='i'>Mais cinq à six mille ans, </l>
+	<l id='50' part="i">Mais cinq à six mille ans, </l>
 </sp>
 <sp who='JOSEPHINE'><speaker>JOSÉPHINE.</speaker>
-	<l id='50' part='f'>Il est épouvantable, Il va me faire peur. </l>
+	<l id='50' part="f">Il est épouvantable, Il va me faire peur. </l>
 </sp>
 <sp who='DHARCOURT'><speaker>D'HARCOURT.</speaker>
 	<l id='51'>Non, il ne vieillit pas. </l>
 </sp>
 <sp who='JOSEPHINE'><speaker>JOSÉPHINE.</speaker>
 	<l id='52'>Ainsi qu'à la vieillesse échapper au trépas ;</l>
-	<l id='53' part='i'>Mais c'est tout-à-fait agréable. </l>
+	<l id='53' part="i">Mais c'est tout-à-fait agréable. </l>
 <stage type="toward">À Ariste. </stage>
-	<l id='53' part='f'>Vous allez le chercher ? </l>
+	<l id='53' part="f">Vous allez le chercher ? </l>
 </sp>
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
 	<l id='54'>J'y cours. Tu peux m'attendre aux Tuileries. </l>
 </sp>
 <sp who='JOSEPHINE'><speaker>JOSÉPHINE.</speaker>
-	<l id='55' part='i'>Ici seule... </l>
+	<l id='55' part="i">Ici seule... </l>
 </sp>
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
-	<l id='55' part='m'>Un époux... </l>
+	<l id='55' part="m">Un époux... </l>
 </sp>
 <sp who='JOSEPHINE'><speaker>JOSÉPHINE.</speaker>
-	<l id='55' part='f'>Ce n'est que dans deux jours, </l>
+	<l id='55' part="f">Ce n'est que dans deux jours, </l>
 	<l id='56'>Et je crains les plaisanteries. </l>
 </sp>
 <sp who='DHARCOURT'><speaker>D'HARCOURT.</speaker>
@@ -234,10 +234,10 @@
 	<l id='90'>De quel qu'aventure agréable. </l>
 </sp>
 <sp who='DHARCOURT'><speaker>D'HARCOURT.</speaker>
-	<l id='91' part='i'>Une aventure ? </l>
+	<l id='91' part="i">Une aventure ? </l>
 </sp>
 <sp who='JOSEPHINE'><speaker>JOSÉPHINE.</speaker>
-	<l id='91' part='f'>Assurément ; </l>
+	<l id='91' part="f">Assurément ; </l>
 	<l id='92'>Car, puisque je ressemble à celle qui fut chère </l>
 	<l id='93'>A notre illustre revenant, </l>
 	<l id='94'>Il va m'aimer en me voyant, </l>
@@ -295,10 +295,10 @@
 	<l id='129'>Et l'on a de vos jours détruit tous les abus. </l>
 </sp>
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
-	<l id='130' part='i'>Mais beaucoup. </l>
+	<l id='130' part="i">Mais beaucoup. </l>
 </sp>
 <sp who='EPIMENIDE'><speaker>ÉPIMÉNIDE.</speaker>
-	<l id='130' part='f'>Près d'ici j'aperçus tout à l'heure, </l>
+	<l id='130' part="f">Près d'ici j'aperçus tout à l'heure, </l>
 	<l id='131'>Des hommes qui marchaient modestement vêtus, </l>
 	<l id='132'>Les bourgeois pour les voir, sortant de leur demeure, </l>
 	<l id='133'>S'écriaient : "Les voilà ces sages Citoyens", </l>
@@ -330,10 +330,10 @@
 </sp>
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
 	<l id='147'>Ce sont tous les honnêtes gens ; </l>
-	<l id='148' part='i'>Il les aime beaucoup. </l>
+	<l id='148' part="i">Il les aime beaucoup. </l>
 </sp>
 <sp who='EPIMENIDE'><speaker>ÉPIMÉNIDE.</speaker>
-	<l id='148' part='f'>Fort bien. </l>
+	<l id='148' part="f">Fort bien. </l>
 </sp>
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
 	<l id='149'>Chaque province. </l>
@@ -357,10 +357,10 @@
 	<l id='165'>Il y faut de l'argent, ainsi qu'au temps jadis. </l>
 </sp>
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
-	<l id='166' part='i'>Un peu plus. </l>
+	<l id='166' part="i">Un peu plus. </l>
 </sp>
 <sp who='EPIMENIDE'><speaker>ÉPIMÉNIDE.</speaker>
-	<l id='166' part='f'>Vous m'avez promis </l>
+	<l id='166' part="f">Vous m'avez promis </l>
 	<l id='167'>De voir les descendants d'un honnête notaire, </l>
 	<l id='168'>Qui fut longtemps de mes amis ; </l>
 	<l id='169'>Chez lui, de mon vivant, autrefois j'ai remis </l>
@@ -407,10 +407,10 @@
 <stage type="toward">À Josephine.</stage>
 	<l id='197'>Le temps qui flétrit tour, respecta vos attraits, </l>
 	<l id='198'>Vos yeux sont aussi vifs, votre teint aussi frais ; </l>
-	<l id='199' part='i'>Vous êtes jeune encor. </l>
+	<l id='199' part="i">Vous êtes jeune encor. </l>
 </sp>
 <sp who='JOSEPHINE'><speaker>JOSÉPHINE.</speaker>
-	<l id='199' part='f'>La fleurette est jolie :</l>
+	<l id='199' part="f">La fleurette est jolie :</l>
 	<l id='200'>Vous êtes étonné de me voir sans horreur, </l>
 	<l id='201'>Et vous me savez gré de ne pas faire peur. </l>
 </sp>
@@ -439,17 +439,17 @@
 	<l id='217'>Jamais à mes côtés amant ne s'endormit. </l>
 </sp>
 <sp who='EPIMENIDE'><speaker>ÉPIMÉNIDE.</speaker>
-	<l id='218' part='i'>C'était l'an mil six cent.... </l>
+	<l id='218' part="i">C'était l'an mil six cent.... </l>
 </sp>
 <sp who='JOSEPHINE'><speaker>JOSÉPHINE.</speaker>
-	<l id='218' part='f'>Non pas, ne vous déplaise, </l>
+	<l id='218' part="f">Non pas, ne vous déplaise, </l>
 	<l id='219'>Je n'ai pas cent vingt ans, je n'en compte que seize. </l>
 </sp>
 <sp who='EPIMENIDE'><speaker>ÉPIMÉNIDE.</speaker>
-	<l id='220' part='i'>Amélie ! </l>
+	<l id='220' part="i">Amélie ! </l>
 </sp>
 <sp who='JOSEPHINE'><speaker>JOSÉPHINE.</speaker>
-	<l id='220' part='f'>Ah ! Ce nom doit être respecté, </l>
+	<l id='220' part="f">Ah ! Ce nom doit être respecté, </l>
 	<l id='221'>Car par ma bisaïeule, on dit qu'il fut porté. </l>
 	<l id='222'>Et des gens de ma connaissance, </l>
 	<l id='223'>Ont dans leurs accès de gaieté, </l>
@@ -506,10 +506,10 @@
 	<l id='253'>Ne vaut pas ce qu'on imagine. </l>
 </sp>
 <sp who='EPIMENIDE'><speaker>ÉPIMÉNIDE.</speaker>
-	<l id='254' part='i'>Mais tromper le Public ;</l>
+	<l id='254' part="i">Mais tromper le Public ;</l>
 </sp>
 <sp who='GORGI'><speaker>GORGI.</speaker>
-	<l id='254' part='f'>Le Public est si bon ! </l>
+	<l id='254' part="f">Le Public est si bon ! </l>
 	<l id='255'>Il ne veut qu'être ému, c'est à quoi je m'applique ; </l>
 	<l id='256'>Je ne vois que complots et conjuration ; </l>
 	<l id='257'>Je mets partout du fer, des mines, du canon ; </l>
@@ -546,10 +546,10 @@
 	<l id='271'>On n'y peut plus rêver, la Bastille n'est plus. </l>
 </sp>
 <sp who='EPIMENIDE'><speaker>ÉPIMÉNIDE.</speaker>
-	<l id='272' part='i'>Que dites-vous, Monsieur ! </l>
+	<l id='272' part="i">Que dites-vous, Monsieur ! </l>
 </sp>
 <sp who='DHARCOURT'><speaker>D'HARCOURT.</speaker>
-	<l id='272' part='f'>Ses murs sont abattus. </l>
+	<l id='272' part="f">Ses murs sont abattus. </l>
 </sp>
 <sp who='EPIMENIDE'><speaker>ÉPIMÉNIDE.</speaker>
 	<l id='273'>Comment ! Cette puissante et vaste Forteresse, </l>
@@ -591,10 +591,10 @@
 	<l id='299'>Vous pourrez en faire un cadeau. </l>
 </sp>
 <sp who='DHARCOURT'><speaker>D'HARCOURT.</speaker>
-	<l id='300' part='i'>Nous. </l>
+	<l id='300' part="i">Nous. </l>
 </sp>
 <sp who='MME-BROCHURE'><speaker>Mme BROCHURE.</speaker>
-	<l id='300' part='f'>À Mademoiselle ; elle aime la lecture. </l>
+	<l id='300' part="f">À Mademoiselle ; elle aime la lecture. </l>
 </sp>
 <sp who='JOSEPHINE'><speaker>JOSÉPHINE.</speaker>
 	<l id='301'>Eh ! Mais, c'est madame Brochure. </l>
@@ -638,16 +638,16 @@
 	<l id='331'>Ah ! Madame, est libraire. </l>
 </sp>
 <sp who='MME-BROCHURE'><speaker>Mme BROCHURE.</speaker>
-	<l id='332' part='i'>À peu près. </l>
+	<l id='332' part="i">À peu près. </l>
 </sp>
 <sp who='EPIMENIDE'><speaker>ÉPIMÉNIDE.</speaker>
-	<l id='332' part='f'>Quel bonheur ! </l>
+	<l id='332' part="f">Quel bonheur ! </l>
 	<l id='333'>Je vais donc retrouver en France, </l>
 	<l id='334'>Tous les divins écrits dont j'ai chéri l'auteur ; </l>
-	<l id='335' part='i'>Molière, par exemple. </l>
+	<l id='335' part="i">Molière, par exemple. </l>
 </sp>
 <sp who='MME-BROCHURE'><speaker>Mme BROCHURE.</speaker>
-	<l id='335' part='f'>Oh ! Sa vogue est finie. </l>
+	<l id='335' part="f">Oh ! Sa vogue est finie. </l>
 </sp>
 <sp who='EPIMENIDE'><speaker>ÉPIMÉNIDE.</speaker>
 	<l id='336'>De ses vers excellents on s'occupe toujours ? </l>
@@ -656,22 +656,22 @@
 </sp>
 <sp who='EPIMENIDE'><speaker>ÉPIMÉNIDE.</speaker>
 	<l id='339'>Et ce maître de l'art ce sublime génie, </l>
-	<l id='340' part='i'>Corneille.... </l>
+	<l id='340' part="i">Corneille.... </l>
 </sp>
 <sp who='MME-BROCHURE'><speaker>Mme BROCHURE.</speaker>
-	<l id='340' part='f'>Ah ! Monsieur, quel travers ! </l>
+	<l id='340' part="f">Ah ! Monsieur, quel travers ! </l>
 </sp>
 <sp who='EPIMENIDE'><speaker>ÉPIMÉNIDE.</speaker>
-	<l id='341' part='i'>Racine.... </l>
+	<l id='341' part="i">Racine.... </l>
 </sp>
 <sp who='MME-BROCHURE'><speaker>Mme BROCHURE.</speaker>
-	<l id='341' part='f'>On ne lit plus de vers. </l>
+	<l id='341' part="f">On ne lit plus de vers. </l>
 </sp>
 <sp who='EPIMENIDE'><speaker>ÉPIMÉNIDE.</speaker>
-	<l id='342' part='i'>Quoi !.... </l>
+	<l id='342' part="i">Quoi !.... </l>
 </sp>
 <sp who='DHARCOURT'><speaker>D'HARCOURT.</speaker>
-	<l id='342' part='f'>Chaque siècle a sa manie. </l>
+	<l id='342' part="f">Chaque siècle a sa manie. </l>
 	<l id='343'>Dix ans on raffola de l'Encyclopédie. </l>
 </sp>
 <sp who='JOSEPHINE'><speaker>JOSÉPHINE.</speaker>
@@ -735,14 +735,14 @@
 	<l id='367'>Mais aujourd'hui rien ne m'étonne ; </l>
 	<l id='368'>Et que respecte-t-on dans le siècle présent ? </l>
 	<l id='369'>On abolit effrontément Une charge de la couronne : </l>
-	<l id='370' part='i'>On m'ôte mon empire.</l>
+	<l id='370' part="i">On m'ôte mon empire.</l>
 </sp>
 <sp who='EPIMENIDE'><speaker>ÉPIMÉNIDE.</speaker>
-	<l id='370' part='f'>Oh le trait déloyal ! </l>
-	<l id='371' part='i'>Qu'étiez-vous donc, Monsieur ? </l>
+	<l id='370' part="f">Oh le trait déloyal ! </l>
+	<l id='371' part="i">Qu'étiez-vous donc, Monsieur ? </l>
 </sp>
 <sp who='RATURE'><speaker>RATURE.</speaker>
-	<l id='371' part='f'>J'étais Censeur royal. </l>
+	<l id='371' part="f">J'étais Censeur royal. </l>
 	<l id='372'>J'ai censuré Jean-Jacques et Voltaire et Rainal ; </l>
 	<l id='373'>J'ai rempli mes devoirs avec bien du scrupule. </l>
 	<l id='374'>Les plus grands écrivains tremblait à mon aspect ; </l>
@@ -762,10 +762,10 @@
 	<l id='384'>C'est une fâcheuse aventure. </l>
 </sp>
 <sp who='DHARCOURT'><speaker>D'HARCOURT.</speaker>
-	<l id='385' part='i'>Oh, oui, pour les censeurs. </l>
+	<l id='385' part="i">Oh, oui, pour les censeurs. </l>
 </sp>
 <sp who='RATURE'><speaker>RATURE.</speaker>
-	<l id='385' part='f'>Mais bientôt on verra </l>
+	<l id='385' part="f">Mais bientôt on verra </l>
 	<l id='386'>Tous les maux que ceci va causer à la France. </l>
 </sp>
 <sp who='EPIMENIDE'><speaker>ÉPIMÉNIDE.</speaker>
@@ -775,10 +775,10 @@
 	<l id='388'>Chacun écrira ce qu'il pense. </l>
 </sp>
 <sp who='DHARCOURT'><speaker>D'HARCOURT.</speaker>
-	<l id='389' part='i'>Le grand mal. </l>
+	<l id='389' part="i">Le grand mal. </l>
 </sp>
 <sp who='RATURE'><speaker>RATURE.</speaker>
-	<l id='389' part='f'>Si, du moins dans cette occasion, </l>
+	<l id='389' part="f">Si, du moins dans cette occasion, </l>
 	<l id='390'>On nous avait laissé la moindre pension, </l>
 	<l id='391'>J'aurais pu, je le sens, garder moins de rancune ; </l>
 	<l id='392'>Mais, las ! Nous renvoyer sans pension aucune. </l>
@@ -805,17 +805,17 @@
 	<l id='404'>Il aimait trop les arts : il allait tout gâter. </l>
 </sp>
 <sp who='DHARCOURT'><speaker>D'HARCOURT.</speaker>
-	<l id='405' part='i'>Mais vous ? </l>
+	<l id='405' part="i">Mais vous ? </l>
 </sp>
 <sp who='RATURE'><speaker>RATURE.</speaker>
-	<l id='405' part='f'>Moi, je n'ai pas ce reproche à me faire ; </l>
-	<l id='406' part='i'>Cependant je perds tout. </l>
+	<l id='405' part="f">Moi, je n'ai pas ce reproche à me faire ; </l>
+	<l id='406' part="i">Cependant je perds tout. </l>
 </sp>
 <sp who='DHARCOURT'><speaker>D'HARCOURT.</speaker>
-	<l id='406' part='m'>Espérez. </l>
+	<l id='406' part="m">Espérez. </l>
 </sp>
 <sp who='RATURE'><speaker>RATURE.</speaker>
-	<l id='406' part='f'>Que j'espère ? </l>
+	<l id='406' part="f">Que j'espère ? </l>
 </sp>
 <sp who='DHARCOURT'><speaker>D'HARCOURT.</speaker>
 	<l id='407'>D'affaire, croyez-moi, vous pouvez vous tirer. </l>
@@ -824,16 +824,16 @@
 	<l id='408'>Mon embarras, Monsieur, ne saurait se décrire. </l>
 </sp>
 <sp who='DHARCOURT'><speaker>D'HARCOURT.</speaker>
-	<l id='409' part='i'>Mais, secrétaire un jour.... </l>
+	<l id='409' part="i">Mais, secrétaire un jour.... </l>
 </sp>
 <sp who='RATURE'><speaker>RATURE.</speaker>
-	<l id='409' part='f'>Je ne fais pas écrire. </l>
+	<l id='409' part="f">Je ne fais pas écrire. </l>
 </sp>
 <sp who='EPIMENIDE'><speaker>ÉPIMÉNIDE.</speaker>
-	<l id='410' part='i'>Eh ! Que savez-vous donc ? </l>
+	<l id='410' part="i">Eh ! Que savez-vous donc ? </l>
 </sp>
 <sp who='RATURE'><speaker>RATURE.</speaker>
-	<l id='410' part='f'>Je savais censurer. </l>
+	<l id='410' part="f">Je savais censurer. </l>
 <stage type="exit">Il sort.</stage>
 </sp>
 </div2>
@@ -853,10 +853,10 @@
 </div2>
 <div2 type="scene" n='12'><head>SCÈNE XII. Les mêmes, ARISTE.</head>
 <sp who='ARISTE'><speaker>ARISTE à Epiménide.</speaker>
-	<l id='419' part='i'>Vos gens vont arriver. </l>
+	<l id='419' part="i">Vos gens vont arriver. </l>
 </sp>
 <sp who='EPIMENIDE'><speaker>ÉPIMÉNIDE.</speaker>
-	<l id='419' part='f'>Vous prenez trop de soin. </l>
+	<l id='419' part="f">Vous prenez trop de soin. </l>
 	<l id='420'>Vous allez voir tous ceux dont vous avez besoin ; </l>
 	<l id='421'>Mais quand j'ai dit qu'Épiménide </l>
 	<l id='422'>Sort de ce long sommeil qui ressemble au trépas, </l>
@@ -910,10 +910,10 @@
 	<l id='455'>Pourquoi donc vous mettre en courroux ? </l>
 </sp>
 <sp who='DHARCOURT'><speaker>D'HARCOURT.</speaker>
-	<l id='456' part='i'>Je suis pour la raison.</l>
+	<l id='456' part="i">Je suis pour la raison.</l>
 </sp>
 <sp who='FATRAS'><speaker>FATRAS.</speaker>
-	<l id='456' part='f'>Moi pour l'ancien usage, </l>
+	<l id='456' part="f">Moi pour l'ancien usage, </l>
 	<l id='457'>Je ne le vois que trop, les premiers inventeurs </l>
 	<l id='458'>De ces réformes exécrables, </l>
 	<l id='459'>Sont ces Auteurs abominables, </l>
@@ -926,10 +926,10 @@
 	<l id='466'>Je veux, pour nous venger, faire un réquisitoire. </l>
 </sp>
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
-	<l id='467' part='i'>Et contre qui, Monsieur ? </l>
+	<l id='467' part="i">Et contre qui, Monsieur ? </l>
 </sp>
 <sp who='FATRAS'><speaker>FATRAS.</speaker>
-	<l id='467' part='f'>Contre la Nation </l>
+	<l id='467' part="f">Contre la Nation </l>
 	<l id='468'>Et je veux y mêler de vives apostrophes, </l>
 	<l id='469'>Contre un Roi qui fut assez bon, </l>
 	<l id='470'>Pour accorder sa sanction </l>
@@ -951,10 +951,10 @@
 	<l id='475'>C'est un vieil Officier qui se nomme Crisante. </l>
 </sp>
 <sp who='DHARCOURT'><speaker>D'HARCOURT.</speaker>
-	<l id='476' part='i'>Il s'agite, il grimace. </l>
+	<l id='476' part="i">Il s'agite, il grimace. </l>
 </sp>
 <sp who='JOSEPHINE'><speaker>JOSÉPHINE.</speaker>
-	<l id='476' part='f'>Et n'a pas l'air fort doux. </l>
+	<l id='476' part="f">Et n'a pas l'air fort doux. </l>
 </sp>
 <sp who='ARISTE'><speaker>ARISTE, continuant à Epiménide.</speaker>
 	<l id='477'>Gentilhomme Breton, fort de ma connaissance, </l>
@@ -962,19 +962,19 @@
 <sp who='JOSEPHINE'><speaker>JOSÉPHINE.</speaker>
 	<l id='478'>J'aime beaucoup sa fille Hortense. </l>
 <stage type="toward">À Nicolas.</stage>
-	<l id='479' part='i'>Ah ! bonjour, Nicolas. </l>
+	<l id='479' part="i">Ah ! bonjour, Nicolas. </l>
 </sp>
 <sp who='CRISANTE'><speaker>CRISANTE, à Ariste.</speaker>
-	<l id='479' part='f'>C'est un de mes vassaux. </l>
+	<l id='479' part="f">C'est un de mes vassaux. </l>
 </sp>
 <sp who='NICOLAS'><speaker>NICOLAS.</speaker>
 	<l id='480'>Mais ce Paris est admirable. </l>
 </sp>
 <sp who='CRISANTE'><speaker>CRISANTE.</speaker>
-	<l id='481' part='i'>Que viens-tu faire ici ? </l>
+	<l id='481' part="i">Que viens-tu faire ici ? </l>
 </sp>
 <sp who='NICOLAS'><speaker>NICOLAS.</speaker>
-	<l id='481' part='f'>J'ai fini les travaux ; </l>
+	<l id='481' part="f">J'ai fini les travaux ; </l>
 	<l id='482'>J'ai travaillé l'été, j'ai tant chassé l'automne, </l>
 	<l id='483'>Et je viens dans Paris prendre un peu de repos : </l>
 	<l id='484'>Que Monseigneur me le pardonne ! </l>
@@ -999,10 +999,10 @@
 	<l id='497'>À l'entendre, on croirait que nous sommes égaux. </l>
 </sp>
 <sp who='NICOLAS'><speaker>NICOLAS.</speaker>
-	<l id='498' part='i'>Cela pourrait bien être. </l>
+	<l id='498' part="i">Cela pourrait bien être. </l>
 </sp>
 <sp who='CRISANTE'><speaker>CRISANTE.</speaker>
-	<l id='498' part='f'>Autrefois dans la France, </l>
+	<l id='498' part="f">Autrefois dans la France, </l>
 	<l id='499'>La présence d'un Duc faisait taire un Marquis. </l>
 	<l id='500'>Devant l'homme à la Cour admis, </l>
 	<l id='501'>Un Gentilhomme de Province </l>
@@ -1058,10 +1058,10 @@
 	<l id='534'>La Nation mon héritière. </l>
 </sp>
 <sp who='EPIMENIDE'><speaker>ÉPIMÉNIDE.</speaker>
-	<l id='535' part='i'>Quoi donc ! </l>
+	<l id='535' part="i">Quoi donc ! </l>
 </sp>
 <sp who='L-ABBE'><speaker>L'ABBÉ.</speaker>
-	<l id='535' part='f'>Ces députés, ces conseils d'un bon Roi, </l>
+	<l id='535' part="f">Ces députés, ces conseils d'un bon Roi, </l>
 	<l id='536'>Ces hommes qu'on chérir, on ne sait pas pas pourquoi, </l>
 	<l id='537'>Et qui n'ont jamais fait le bien que par surprise, </l>
 	<l id='538'>Pour enrichir l'État nous prennent notre argent, </l>
@@ -1112,10 +1112,10 @@
 	<l id='565'>Vous auriez dû sans doute être plus ménagé. </l>
 </sp>
 <sp who='L-ABBE'><speaker>L'ABBÉ.</speaker>
-	<l id='566' part='i'>On nous enlève tout. </l>
+	<l id='566' part="i">On nous enlève tout. </l>
 </sp>
 <sp who='EPIMENIDE'><speaker>ÉPIMÉNIDE.</speaker>
-	<l id='566' part='f'>Que j'en suis affligé. </l>
+	<l id='566' part="f">Que j'en suis affligé. </l>
 </sp>
 <sp who='DHARCOURT'><speaker>D'HARCOURT.</speaker>
 	<l id='567'>Que je plains ce pauvre Clergé ? </l>
@@ -1149,10 +1149,10 @@
 	<l id='578'>N'est-ce pas vous, Monsieur, qu'on nomme Epiménide ? </l>
 </sp>
 <sp who='EPIMENIDE'><speaker>ÉPIMÉNIDE.</speaker>
-	<l id='579' part='i'>Oui ! </l>
+	<l id='579' part="i">Oui ! </l>
 </sp>
 <sp who='CABRIOLE'><speaker>CABRIOLE.</speaker>
-	<l id='579' part='f'>Monsieur, le respect et m'attire et me guide. </l>
+	<l id='579' part="f">Monsieur, le respect et m'attire et me guide. </l>
 </sp>
 <sp who='EPIMENIDE'><speaker>ÉPIMÉNIDE.</speaker>
 	<l id='580'>Monsieur, vous êtes obligeant. </l>
@@ -1161,10 +1161,10 @@
 	<l id='581'>Vous avez vu Louis-le-Grand. </l>
 </sp>
 <sp who='EPIMENIDE'><speaker>ÉPIMÉNIDE.</speaker>
-	<l id='582' part='i'>Oui, Monsieur. </l>
+	<l id='582' part="i">Oui, Monsieur. </l>
 </sp>
 <sp who='CABRIOLE'><speaker>CABRIOLE.</speaker>
-	<l id='582' part='f'>Ah ! Monsieur, le règne magnifique. </l>
+	<l id='582' part="f">Ah ! Monsieur, le règne magnifique. </l>
 </sp>
 <sp who='EPIMENIDE'><speaker>ÉPIMÉNIDE.</speaker>
 	<l id='583'>Il avait de la majesté. </l>
@@ -1181,10 +1181,10 @@
 </sp>
 <sp who='EPIMENIDE'><speaker>ÉPIMÉNIDE.</speaker>
 	<l id='588'>J'aime mieux le nouveau système. </l>
-	<l id='589' part='i'>Sa Cour..... </l>
+	<l id='589' part="i">Sa Cour..... </l>
 </sp>
 <sp who='CABRIOLE'><speaker>CABRIOLE.</speaker>
-	<l id='589' part='f'>Ah ! Quelle Cour ! Tout le monde y dansait. </l>
+	<l id='589' part="f">Ah ! Quelle Cour ! Tout le monde y dansait. </l>
 	<l id='590'>Les Ducs, les Maréchaux, et jusqu'au Roi lui même ; </l>
 	<l id='591'>Mais maintenant, hélas ! Ô regrets superflus ! </l>
 	<l id='592'>Tout dégénère en France, et l'on ne danse plus. </l>
@@ -1226,10 +1226,10 @@
 	<l id='620'>Ainsi refleurira le grand Art de la Danse. </l>
 </sp>
 <sp who='DHARCOURT'><speaker>D'HARCOURT.</speaker>
-	<l id='621' part='i'>Oui Monsieur.</l>
+	<l id='621' part="i">Oui Monsieur.</l>
 </sp>
 <sp who='CABRIOLE'><speaker>CABRIOLE.</speaker>
-	<l id='621' part='f'>L'État est sauvé. </l>
+	<l id='621' part="f">L'État est sauvé. </l>
 </sp>
 </div2>
 <div2 type="scene" n='18'><head>SCÈNE XVIII. Épiménide, Joséphine, Ariste, D'Harcourt, Gorgi, Rature, Mme. Brochure, Cabriole, Damon.</head>
@@ -1244,19 +1244,19 @@
 	<l id='625' par='i'>C'est donc lui ? </l>
 </sp>
 <sp who='L-ABBE'><speaker>L'ABBÉ.</speaker>
-	<l id='625' part='m'>C'est lui-même. </l>
+	<l id='625' part="m">C'est lui-même. </l>
 </sp>
 <sp who='DAMON'><speaker>DAMON.</speaker>
-	<l id='625' part='f'>À sa large cravate, </l>
+	<l id='625' part="f">À sa large cravate, </l>
 	<l id='626'>À sa démarche fière, à son air imposant,</l>
 	<l id='627'>À sa grosse perruque, on peut voir aisément </l>
 	<l id='628'>Que c'est là quelqu'aristocrate. </l>
 </sp>
 <sp who='MME-BROCHURE'><speaker>Mme BROCHURE.</speaker>
-	<l id='629' part='i'>Croyez-vous ? </l>
+	<l id='629' part="i">Croyez-vous ? </l>
 </sp>
 <sp who='DAMON'><speaker>DAMON.</speaker>
-	<l id='629' part='f'>Très certainement. </l>
+	<l id='629' part="f">Très certainement. </l>
 </sp>
 <sp who='L-ABBE'><speaker>L'ABBÉ.</speaker>
 	<l id='630'>Gorgi ne pourra le défendre, </l>
@@ -1276,10 +1276,10 @@
 	<l id='637'>Qui ? Vous que je croyais un si bon citoyen, </l>
 	<l id='638'>Qui dans notre District avez parlé si bien, </l>
 	<l id='639'>Vous présentez partout un homme qu'on soupçonne </l>
-	<l id='640' part='i'>De conspirer ?</l>
+	<l id='640' part="i">De conspirer ?</l>
 </sp>
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
-	<l id='640' part='f'>Qui, lui ? Votre idée est fort bonne ? </l>
+	<l id='640' part="f">Qui, lui ? Votre idée est fort bonne ? </l>
 	<l id='641'>Il dort depuis un siècle, et s'éveille à présent. </l>
 </sp>
 <sp who='JOSEPHINE'><speaker>JOSÉPHINE.</speaker>
@@ -1289,17 +1289,17 @@
 	<l id='643'>N'avez-vous pas vécu près de Louis-le-Grand ? </l>
 </sp>
 <sp who='EPIMENIDE'><speaker>ÉPIMÉNIDE.</speaker>
-	<l id='644' part='i'>Sans doute. </l>
+	<l id='644' part="i">Sans doute. </l>
 </sp>
 <sp who='DAMON'><speaker>DAMON.</speaker>
-	<l id='644' part='f'>Cette Cour n'était pas populaire ; </l>
+	<l id='644' part="f">Cette Cour n'était pas populaire ; </l>
 	<l id='645'>Et vous êtes peut-être un secret émissaire...</l>
 </sp>
 <sp who='JOSEPHINE'><speaker>JOSÉPHINE.</speaker>
-	<l id='646' part='i'>Sorti de l'autre monde. </l>
+	<l id='646' part="i">Sorti de l'autre monde. </l>
 </sp>
 <sp who='DHARCOURT'><speaker>D'HARCOURT.</speaker>
-	<l id='646' part='f'>Oh ! L'on n'y croit plus guère. </l>
+	<l id='646' part="f">Oh ! L'on n'y croit plus guère. </l>
 </sp>
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
 	<l id='647'>Eh quoi ! Vous réveillez ces soupçons éternels, </l>
@@ -1358,10 +1358,10 @@
 <sp who='DAMON'><speaker>DAMON.</speaker>
 	<l id='683'>Ce n'est pas moi du moins : j'accuse avec courage </l>
 	<l id='684'>Les Ministres, les grands qui nous faisaient outrage. </l>
-	<l id='685' part='i'>Il saut venger le Peuple. </l>
+	<l id='685' part="i">Il saut venger le Peuple. </l>
 </sp>
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
-	<l id='685' part='f'>Il faut surtout l'aimer. </l>
+	<l id='685' part="f">Il faut surtout l'aimer. </l>
 	<l id='686'>Il a brisé le joug de l'antique esclavage, </l>
 	<l id='687'>Au joug des bonnes lois il faut l'accoutumer, </l>
 	<l id='688'>Au lieu de l'aigrir, le calmer, </l>
@@ -1390,10 +1390,10 @@
 </div2>
 <div2 type="scene" n='18'><head>SCÈNE XIX. Les acteurs précédents, excepté Damon.</head>
 <sp who='EPIMENIDE'><speaker>ÉPIMÉNIDE.</speaker>
-	<l id='703' part='i'>Eh, quel homme, Messieurs ! </l>
+	<l id='703' part="i">Eh, quel homme, Messieurs ! </l>
 </sp>
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
-	<l id='703' part='f'>C'est un homme acheté, </l>
+	<l id='703' part="f">C'est un homme acheté, </l>
 	<l id='704'>Qui dans les troubles seuls a mis son espérance, </l>
 	<l id='705'>Et qui contre la liberté, S'efforce d'armer la licence. </l>
 	<l id='706'>On le connaît enfin, il n'est plus écouté. </l>
@@ -1410,10 +1410,10 @@
 	<l id='713'>Voilà tous ces Messieurs dont vous avez besoin. </l>
 </sp>
 <sp who='UN-TAILLEUR'><speaker>UN TAILLEUR. (Soldat).</speaker>
-	<l id='714' part='i'>Monsieur, je suis tout prêt..... </l>
+	<l id='714' part="i">Monsieur, je suis tout prêt..... </l>
 </sp>
 <sp who='EPIMENIDE'><speaker>ÉPIMÉNIDE.</speaker>
-	<l id='714' part='f'>Vous prenez trop de soin... </l>
+	<l id='714' part="f">Vous prenez trop de soin... </l>
 <stage type="toward">À Ariste.</stage>
 	<l id='715'>Dites-moi quel dessein amène </l>
 	<l id='716'>Ces Soldats et cet Officier ? </l>
@@ -1430,10 +1430,10 @@
 	<l id='721'>Est Grenadier. </l>
 </sp>
 <sp who='EPIMENIDE'><speaker>ÉPIMÉNIDE.</speaker>
-	<l id='722' part='i'>Et mon Notaire ? </l>
+	<l id='722' part="i">Et mon Notaire ? </l>
 </sp>
 <sp who='LE-NOTAIRE'><speaker>LE NOTAIRE. (Soldat.)</speaker>
-	<l id='722' part='f'>Est Capitaine. </l>
+	<l id='722' part="f">Est Capitaine. </l>
 </sp>
 <sp who='DHARCOURT'><speaker>D'HARCOURT.</speaker>
 	<l id='723'>Nous sommes tous Guerriers, et le roi des Français. </l>
@@ -1450,10 +1450,10 @@
 	<l id='730'>Du beau nom des Français combien je suis jaloux ! </l>
 </sp>
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
-	<l id='731' part='i'>Demeurez à Paris. </l>
+	<l id='731' part="i">Demeurez à Paris. </l>
 </sp>
 <sp who='EPIMENIDE'><speaker>ÉPIMÉNIDE.</speaker>
-	<l id='731' part='f'>C'est mon voeu le plus doux. </l>
+	<l id='731' part="f">C'est mon voeu le plus doux. </l>
 </sp>
 <sp who='DHARCOURT'><speaker>D'HARCOURT, à Épiménide.</speaker>
 	<l id='732'>Quand vous verrez Madame seule, </l>

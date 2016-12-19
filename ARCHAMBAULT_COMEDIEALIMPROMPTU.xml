@@ -8,8 +8,8 @@
 			</titleStmt>
 			<publicationStmt>	
 				<p>publié par Paul FIEVRE, mars 2015.</p>
-			<idno></idno>
-</publicationStmt>
+				<idno>ARCHAMBAULT_COMEDIEALIMPROMPTU</idno>
+			</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -204,7 +204,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Les Précédents, Lourdis, entre en rêvant et se parlant.</head>
-<sp who='LOURDIS'><speaker>LOURDIS, à lui-même.</speaker>
+<sp stage="toward" who='LOURDIS'><speaker>LOURDIS, à lui-même.</speaker>
 <p id='1'>
 	<s id='1'>Non, non, jamais ma fille n'aurait pu mieux choisir. </s>
 	<s id='2'>Un bon garçon ! </s>
@@ -222,7 +222,7 @@
 	<s id='1'>Qu'est-ce que c'est ?</s>
 </p>
 </sp>
-<sp who='LISETTE'><speaker>LISETTE, présentant Frontin.</speaker>
+<sp stage="show" who='LISETTE'><speaker>LISETTE, présentant Frontin.</speaker>
 <p id='4'>
 	<s id='1'>Voyez-vous bien cet homme-là, Monsieur ?</s>
 </p>
@@ -397,38 +397,38 @@
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Les Précédents, Madame Lourdis, Valère, en uniforme.</head>
-<sp who='MADAME LOURDIS'><speaker>MADAME LOURDIS, à Valère.</speaker>
+<sp stage="toward" who='MADAME LOURDIS'><speaker>MADAME LOURDIS, à Valère.</speaker>
 <p id='1'>
 	<s id='1'>Monsieur, je ne puis rien répondre à tout cela. </s>
 	<s id='2'>Mais voilà mon mari ; expliquez-vous avec lui.</s>
 </p>
 </sp>
-<sp who='FRONTIN'><speaker>FRONTIN, à Lisette.</speaker>
+<sp stage="toward" who='FRONTIN'><speaker>FRONTIN, à Lisette.</speaker>
 <p id='2'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Morbleu ! </s>
 	<s id='3'>Voilà mon maître ; il a déjà parlé à la femme.</s>
 </p>
 </sp>
-<sp who='VALÈRE'><speaker>VALÈRE, à Lourdis.</speaker>
+<sp stage="toward" who='VALÈRE'><speaker>VALÈRE, à Lourdis.</speaker>
 <p id='3'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Monsieur, prenez pitié d'un amoureux passionné qui n'a plus d'espérance qu'en vous.</s>
 </p>
 </sp>
-<sp who='LISETTE'><speaker>LISETTE, à Frontin.</speaker>
+<sp stage="toward" who='LISETTE'><speaker>LISETTE, à Frontin.</speaker>
 <p id='4'>
 	<s id='1'>Eh ! </s>
 	<s id='2'>Miséricorde ! </s>
 	<s id='3'>Il va tout gâter.</s>
 </p>
 </sp>
-<sp who='FRONTIN'><speaker>FRONTIN, à Lisette.</speaker>
+<sp stage="toward" who='FRONTIN'><speaker>FRONTIN, à Lisette.</speaker>
 <p id='5'>
 	<s id='1'>Laisse-moi faire.</s>
 </p>
 </sp>
-<sp who='LOURDIS'><speaker>LOURDIS, tout étonné, à Valère.</speaker>
+<sp stage="estonish/toward" who='LOURDIS'><speaker>LOURDIS, tout étonné, à Valère.</speaker>
 <p id='6'>
 	<s id='1'>Monsieur, que voulez-vous dire ?</s>
 </p>
@@ -438,7 +438,7 @@
 	<s id='1'>Je viens vous découvrir le secret de mon cœur, et j'attends de vous...</s>
 </p>
 </sp>
-<sp who='FRONTIN'><speaker>FRONTIN, l'arrêtant.</speaker>
+<sp stage="stop" who='FRONTIN'><speaker>FRONTIN, l'arrêtant.</speaker>
 <stage type="toward">À Valère.</stage>
 <p id='8'>
 	<s id='1'>Paix. </s>
@@ -478,7 +478,7 @@
 	<s id='1'>Moi, poète !</s>
 </p>
 </sp>
-<sp who='FRONTIN'><speaker>FRONTIN, bas à Valère.</speaker>
+<sp stage="low/toward" who='FRONTIN'><speaker>FRONTIN, bas à Valère.</speaker>
 <p id='16'>
 	<s id='1'>Oui. </s>
 </p>
@@ -510,12 +510,12 @@
 	<s id='1'>Peste !</s>
 </p>
 </sp>
-<sp who='VALÈRE'><speaker>VALÈRE, à Frontin.</speaker>
+<sp stage="toward" who='VALÈRE'><speaker>VALÈRE, à Frontin.</speaker>
 <p id='22'>
 	<s id='1'>Mais, à quoi bon ?...</s>
 </p>
 </sp>
-<sp who='FRONTIN'><speaker>FRONTIN, bas à Valère.</speaker>
+<sp stage="low/toward" who='FRONTIN'><speaker>FRONTIN, bas à Valère.</speaker>
 <p id='23'>
 	<s id='1'>Chut !</s>
 </p>
@@ -546,7 +546,7 @@
 	<s id='1'>Mais, explique-moi donc...</s>
 </p>
 </sp>
-<sp who='FRONTIN'><speaker>FRONTIN, s'emparant du père et de la mère.</speaker>
+<sp stage="toward" who='FRONTIN'><speaker>FRONTIN, s'emparant du père et de la mère.</speaker>
 <p id='29'>
 	<s id='1'>Écoutez, Monsieur, et vous, Madame, ce que j'ai pensé sur votre comédie... </s>
 	<s id='2'>Il ne faut pas aller chercher des acteurs plus loin. Nous jouerons nous-même. </s>
@@ -593,7 +593,7 @@
 	<s id='1'>Monsieur, faites compliment à Monsieur.</s>
 </p>
 </sp>
-<sp who='VALÈRE'><speaker>VALÈRE, à Finot.</speaker>
+<sp stage="toward" who='VALÈRE'><speaker>VALÈRE, à Finot.</speaker>
 <p id='7'>
 	<s id='1'>Monsieur, permettez-vous que j'aie l'honneur de vous assurer de l'intérêt...</s>
 </p>
@@ -683,7 +683,7 @@
 <p id='23'>
 	<s id='1'>Maintenant procédons à la distribution des rôles.</s>
 </p>
-<stage type="[N/A]">Bas à Lisette.</stage>
+<stage type="low/toward">Bas à Lisette.</stage>
 <p id='24'>
 	<s id='1'>Toi ; vas prévenir ta maîtresse.</s>
 </p>
@@ -696,7 +696,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Les Précédents, excepté Lisette.</head>
-<sp who='FRONTIN'><speaker>FRONTIN, à Lourdis.</speaker>
+<sp stage="toward" who='FRONTIN'><speaker>FRONTIN, à Lourdis.</speaker>
 <p id='1'>
 	<s id='1'>Vous, Monsieur, vous avez de la chaleur et du raisonnement, vous nous jouerez fort bien le Père. </s>
 	<s id='2'>Est-il vrai ?</s>
@@ -828,7 +828,7 @@
 <p id='24'>
 	<s id='1'>Vous, ma chère amie, allez avertir votre fille.</s>
 </p>
-<stage type="[N/A]">Lisette rentre.</stage>
+<stage type="entrance">Lisette rentre.</stage>
 <p id='25'>
 	<s id='1'>Toi, Lisette, reste avec ces Messieurs, pour arranger ici tout ce qu'il faudra... </s>
 	<s id='2'>Nous allons vous amener tous les Acteurs. </s>
@@ -878,7 +878,7 @@
 <p id='7'>
 	<s id='1'>Sois tranquille ; je réponds de tout.</s>
 </p>
-<stage type="[N/A]">Elle part.</stage>
+<stage type="exit">Elle part.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII. Valère, Frontin.</head>
@@ -1011,11 +1011,11 @@
 <p id='21'>
 	<s id='1'>Bien dit : je vais parler à ma fille, et mettre tous nos acteurs sur la voie.</s>
 </p>
-<stage type="[N/A]">Valère et Frontin se cachent.</stage>
+<stage type="hide">Valère et Frontin se cachent.</stage>
 </sp>
 </div2>
-<div2 type="scene" n='9'><head>SCÈNE IX. Tous les acteurs entrent. </head>
-<sp who='MADAME LOURDIS'><speaker>MADAME LOURDIS, à son mari.</speaker>
+<div2 type="scene" n='9' stage="entrance"><head>SCÈNE IX. Tous les acteurs entrent. </head>
+<sp stage="toward" who='MADAME LOURDIS'><speaker>MADAME LOURDIS, à son mari.</speaker>
 <p id='1'>
 	<s id='1'>Mon ami, nous commencerons quand vous voudrez.</s>
 </p>
@@ -1025,7 +1025,7 @@
 	<s id='1'>Ce n'est pas parce que Finot est mon fils, mais je vous réponds qu'il jouera bien son rôle.</s>
 </p>
 </sp>
-<sp who='FINOT FILS'><speaker>FINOT FILS, niaisement.</speaker>
+<sp stage="goofy" who='FINOT FILS'><speaker>FINOT FILS, niaisement.</speaker>
 <p id='3'>
 	<s id='1'>Oh, pour ça oui, ma mère.</s>
 </p>
@@ -1039,11 +1039,11 @@
 <p id='5'>
 	<s id='1'>Allons, Mesdames, prenez des chaises.</s>
 </p>
-<stage type="[N/A]">On s'assied. Puis, Lisette voudrait parler à Angélique, mais Lourdis l'en empêche.</stage>
+<stage type="sit/toward/stop">On s'assied. Puis, Lisette voudrait parler à Angélique, mais Lourdis l'en empêche.</stage>
 <p id='6'>
 	<s id='1'>Paix Lisette.</s>
 </p>
-<stage type="[N/A]">Il prend Angélique.</stage>
+<stage type="toward">Il prend Angélique.</stage>
 <p id='7'>
 	<s id='1'>Écoute toi, Angélique. </s>
 	<s id='2'>Nous allons, comme je t'ai dit, jouer une Comédie à l'Impromptu...</s>
@@ -1077,7 +1077,7 @@
 	<s id='4'>Cet amoureux sait ton futur mariage, il en est très piqué, et il t'a écrit cette lettre.</s>
 </p>
 </sp>
-<sp who='LISETTE'><speaker>LISETTE, prenant la lettre.</speaker>
+<sp stage="get" who='LISETTE'><speaker>LISETTE, prenant la lettre.</speaker>
 <p id='11'>
 	<s id='1'>Une lettre ; doucement, Monsieur, vous allez sur mes brisées. </s>
 	<s id='2'>Ceci est de l'emploi des confidentes. </s>
@@ -1090,12 +1090,12 @@
 </p>
 <stage type="action/sit">Ici tout le monde s'assied de côté, et les Personnages qui répètent se mettent en scène.</stage>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE, bas à Lisette.</speaker>
+<sp stage="low/toward" who='ANGÉLIQUE'><speaker>ANGÉLIQUE, bas à Lisette.</speaker>
 <p id='13'>
 	<s id='1'>Mais, Lisette, es-tu folle de vouloir que je me porte à une pareille extravagance ?</s>
 </p>
 </sp>
-<sp who='LISETTE'><speaker>LISETTE, haut exprès et du ton de la scène.</speaker>
+<sp stage="loud" who='LISETTE'><speaker>LISETTE, haut exprès et du ton de la scène.</speaker>
 <p id='14'>
 	<s id='1'>Non, Mademoiselle, je connais vos chagrins et je veux les dissiper. </s>
 	<s id='2'>Apprenez que votre amant va paraître, qu'il va mettre tout en œuvre pour vous arracher des mains de son rival, que je le seconde dans son projet ; et qu'enfin voilà une lettre de sa part.</s>
@@ -1112,9 +1112,9 @@
 	<s id='1'>Mais, Mademoiselle, ce n'est point un jeu. </s>
 	<s id='2'>Lisez vous-même et reconnaissez l'écriture.</s>
 </p>
-<stage type="[N/A]">Elle développe sa lettre.</stage>
+<stage type="open">Elle développe sa lettre.</stage>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE, voyant l'écriture.</speaker>
+<sp stage="watch" who='ANGÉLIQUE'><speaker>ANGÉLIQUE, voyant l'écriture.</speaker>
 <p id='17'>
 	<s id='1'>Ciel ! </s>
 	<s id='2'>Que vois-je ?</s>
@@ -1135,7 +1135,7 @@
 	<s id='1'>Lisez, Mademoiselle.</s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE, lisant à haute voix.</speaker>
+<sp stage="read/loud" who='ANGÉLIQUE'><speaker>ANGÉLIQUE, lisant à haute voix.</speaker>
 <p id='21'>
 	<s id='1'>« Ma chère Angélique, il est donc vrai qu'un rival odieux veut m'enlever ce que j'ai de plus cher au monde... </s>
 	<s id='2'>Mais il n'est pas temps de nous répandre en plaintes inutiles, il faut agir. </s>
@@ -1161,7 +1161,7 @@
 	<s id='2'>Que oui, ma mère.</s>
 </p>
 </sp>
-<sp who='LOURDIS'><speaker>LOURDIS, avec intérêt.</speaker>
+<sp stage="involve" who='LOURDIS'><speaker>LOURDIS, avec intérêt.</speaker>
 <p id='25'>
 	<s id='1'>Chut, paix. </s>
 	<s id='2'>Allons, courage, Angélique, égaye-toi.</s>
@@ -1172,7 +1172,7 @@
 	<s id='1'>Sans doute, Mademoiselle, la situation l'exige.</s>
 </p>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE, toujours embarrassée.</speaker>
+<sp stage="embarrassed" who='ANGÉLIQUE'><speaker>ANGÉLIQUE, toujours embarrassée.</speaker>
 <p id='27'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Ma chère Lisette, est-il possible ! </s>
@@ -1202,15 +1202,15 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n='10'><head>SCÈNE X. Valère et Frontin entrent en scène.</head>
-<sp who='VALÈRE'><speaker>VALÈRE, aux genoux d'Angélique.</speaker>
+<div2 type="scene" n='10' stage="entrance"><head>SCÈNE X. Valère et Frontin entrent en scène.</head>
+<sp stage="kneel" who='VALÈRE'><speaker>VALÈRE, aux genoux d'Angélique.</speaker>
 <p id='1'>
 	<s id='1'>Il est à vos pieds, chère Angélique ! </s>
 	<s id='2'>Il vous adore.</s>
 </p>
-<stage type="[N/A]">Il lui baise la main.</stage>
+<stage type="kiss">Il lui baise la main.</stage>
 </sp>
-<sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE, se laissant aller dans les bras de Lisette et Frontin.</speaker>
+<sp stage="fainted" who='ANGÉLIQUE'><speaker>ANGÉLIQUE, se laissant aller dans les bras de Lisette et Frontin.</speaker>
 <p id='2'>
 	<s id='1'>Ciel !</s>
 </p>
@@ -1257,7 +1257,7 @@
 	<s id='3'>Vous prenez fort bien la chose.</s>
 </p>
 </sp>
-<sp who='FRONTIN'><speaker>FRONTIN, à Mme Lourdis.</speaker>
+<sp stage="toward" who='FRONTIN'><speaker>FRONTIN, à Mme Lourdis.</speaker>
 <p id='10'>
 	<s id='1'>Ici, Madame ! </s>
 	<s id='2'>Il faut que vous surpreniez les Amants... </s>
@@ -1269,13 +1269,13 @@
 	<s id='3'>Allez Madame, jouez l'étonnement.</s>
 </p>
 </sp>
-<sp who='MADAME LOURDIS'><speaker>MADAME LOURDIS, se levant et venant gauchement se mêler à l'action.</speaker>
+<sp stage="stand/embarrassed" who='MADAME LOURDIS'><speaker>MADAME LOURDIS, se levant et venant gauchement se mêler à l'action.</speaker>
 <p id='12'>
 	<s id='1'>Laissez-moi faire... </s>
 	<s id='2'>Que vois-je ! </s>
 	<s id='3'>Un homme baiser la main d'Angélique ! </s>
 </p>
-<stage type="[N/A]">Les deux Amants feignent d'être déconcertés ; de l'autre côté, Frontin et Lisette s'écrient : «Oh ! Ciel !... c'est le Diable.» ; ils restent en attitude.</stage>
+<stage type="embarrassed">Les deux Amants feignent d'être déconcertés ; de l'autre côté, Frontin et Lisette s'écrient : « Oh ! Ciel !... c'est le Diable.» ; ils restent en attitude.</stage>
 </sp>
 <sp who="LOURDIS"><speaker>LOURDIS.</speaker>
 <p id='13'>
@@ -1305,7 +1305,7 @@
 	<s id='2'>Allez, ma femme, allez.</s>
 </p>
 </sp>
-<sp who='MADAME LOURDIS'><speaker>MADAME LOURDIS, à Valère.</speaker>
+<sp stage="toward" who='MADAME LOURDIS'><speaker>MADAME LOURDIS, à Valère.</speaker>
 <p id='18'>
 	<s id='1'>Monsieur, que cherchez-vous ici ?</s>
 </p>
@@ -1316,7 +1316,7 @@
 	<s id='2'>Madame, je ne vous cache point que c'est l'amour qui m'a conduit.</s>
 </p>
 </sp>
-<sp who='MADAME LOURDIS'><speaker>MADAME LOURDIS, minaudant.</speaker>
+<sp stage="simpering" who='MADAME LOURDIS'><speaker>MADAME LOURDIS, minaudant.</speaker>
 <p id='20'>
 	<s id='1'>L'amour ?</s>
 </p>
@@ -1435,14 +1435,14 @@
 </p>
 <stage type="entrance">Ils entrent en scène.</stage>
 </sp>
-<sp who='LOURDIS'><speaker>LOURDIS, d'un air gauche, mais avec beaucoup de prétention.</speaker>
+<sp stage="embarrased/claim" who='LOURDIS'><speaker>LOURDIS, d'un air gauche, mais avec beaucoup de prétention.</speaker>
 <p id='40'>
 	<s id='1'>Ma femme, et vous, ma fille, réjouissez-vous. </s>
 	<s id='2'>Voilà mon gendre arrivé, et je vous le présente. </s>
 	<s id='3'>Ne le trouvez-vous pas joli garçon ?</s>
 </p>
 </sp>
-<sp who='FINOT FILS'><speaker>FINOT FILS, les saluant tous gauchement à mesure qu'il parle.</speaker>
+<sp stage="wave/embarrassed" who='FINOT FILS'><speaker>FINOT FILS, les saluant tous gauchement à mesure qu'il parle.</speaker>
 <p id='41'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Monsieur...</s>
@@ -1570,17 +1570,17 @@
 	<s id='2'>C'est galant cela, Mademoiselle !</s>
 </p>
 </sp>
-<sp who='MADAME FINOT'><speaker>MADAME FINOT, se levant et venant à lui.</speaker>
+<sp stage="stand/closer" who='MADAME FINOT'><speaker>MADAME FINOT, se levant et venant à lui.</speaker>
 <p id='61'>
 	<s id='1'>Viens, mon fils, viens Finot, il faut que je t'embrasse.</s>
 </p>
 </sp>
-<sp who='FRONTIN'><speaker>FRONTIN, la voulant retenir.</speaker>
+<sp stage="pull" who='FRONTIN'><speaker>FRONTIN, la voulant retenir.</speaker>
 <p id='62'>
 	<s id='1'>De grâce, Madame, n'interrompez donc pas ?</s>
 </p>
 </sp>
-<sp who='MADAME FINOT'><speaker>MADAME FINOT, après.</speaker>
+<sp stage="interrupt" who='MADAME FINOT'><speaker>MADAME FINOT, après.</speaker>
 <p id='63'>
 	<s id='1'>Pardon, Monsieur ; c'est un premier mouvement, dont je n'ai pas été la maîtresse.</s>
 </p>
@@ -1606,14 +1606,14 @@
 	<s id='1'>Bon, bon ; laissez-moi faire. </s>
 	<s id='2'>Mon gendre, je suis enchanté de vous ; et comme il me paraît que ces dames pensent comme moi sur votre compte, je veux terminer au plutôt votre mariage ; et de ce pas je vais chez mon notaire faire dresser les articles du contrat.</s>
 </p>
-<stage type="[N/A]">Il se retire avec fracas, et vient se rasseoir.</stage>
+<stage type="away/noise/sit">Il se retire avec fracas, et vient se rasseoir.</stage>
 </sp>
 <sp who="FRONTIN"><speaker>FRONTIN.</speaker>
 <p id='68'>
 	<s id='1'>Fort bien, Monsieur ; voilà une sortie sort bien ménagée.</s>
 </p>
 </sp>
-<sp who='LOURDIS'><speaker>LOURDIS, triomphant.</speaker>
+<sp stage="proud" who='LOURDIS'><speaker>LOURDIS, triomphant.</speaker>
 <p id='69'>
 	<s id='1'>Oh ! </s>
 	<s id='2'>Je connais un peu mon théâtre. </s>
@@ -1647,7 +1647,7 @@
 	<s id='2'>Diable ! </s>
 	<s id='3'>Cela va faire une scène d'éclat.</s>
 </p>
-<stage type="mezzo voce">Bas.</stage>
+<stage type="low">Bas.</stage>
 <p id='74'>
 	<s id='1'>Je parie que mon gendre a peur.</s>
 </p>
@@ -1674,7 +1674,7 @@
 	<s id='1'>Oui, oui, soyez tranquille ; tout est prévu.</s>
 </p>
 </sp>
-<sp who='VALÈRE'><speaker>VALÈRE, jouant le désespoir.</speaker>
+<sp stage="desparate" who='VALÈRE'><speaker>VALÈRE, jouant le désespoir.</speaker>
 <p id='3'>
 	<s id='1'>Ciel ! </s>
 	<s id='2'>Qu'ai-je entendu ? </s>
@@ -1684,21 +1684,21 @@
 <p id='4'>
 	<s id='1'>Et toi, qui viens pour m'enlever l'objet de mon amour, commence auparavant par m'arracher le cœur. </s>
 </p>
-<stage type="[N/A]">Il tire l'épée sur lui.</stage>
+<stage type="fight">Il tire l'épée sur lui.</stage>
 </sp>
-<sp who='FINOT FILS'><speaker>FINOT FILS, reculant en tremblant.</speaker>
+<sp stage="moveBack/frighten" who='FINOT FILS'><speaker>FINOT FILS, reculant en tremblant.</speaker>
 <p id='5'>
 	<s id='1'>Eh bien ! </s>
 	<s id='2'>Monsieur, au secours donc.</s>
 </p>
 </sp>
-<sp who='MADAME FINOT'><speaker>MADAME FINOT, se jetant entr'eux avec effroi, et retenant le bras de Valère.</speaker>
+<sp stage="run/location/frighten/pull" who='MADAME FINOT'><speaker>MADAME FINOT, se jetant entr'eux avec effroi, et retenant le bras de Valère.</speaker>
 <p id='6'>
 	<s id='1'>Qu'est-ce que c'est donc, Monsieur ? </s>
 	<s id='2'>Je ne veux pas que mon fils se batte, moi.</s>
 </p>
 </sp>
-<sp who='FRONTIN'><speaker>FRONTIN, arrêtant Madame Finot.</speaker>
+<sp stage="stop" who='FRONTIN'><speaker>FRONTIN, arrêtant Madame Finot.</speaker>
 <p id='7'>
 	<s id='1'>Eh ! </s>
 	<s id='2'>Madame, vous interrompez au plus bel endroit ; laissez donc faire.</s>
@@ -1740,7 +1740,7 @@
 	<s id='1'>Non, Madame. Vous voyez que Monsieur a bien mieux saisi l'intention du rôle. </s>
 	<s id='2'>Tenez, regardez-le.</s>
 </p>
- <stage type="[N/A]">On voit Finot dans un coin, qui tremble de toutes ses forces.</stage>
+ <stage type="frighten">On voit Finot dans un coin, qui tremble de toutes ses forces.</stage>
 </sp>
 <sp who="LOURDIS"><speaker>LOURDIS.</speaker>
 <p id='14'>
@@ -1762,7 +1762,7 @@
 	<s id='2'>Vous, Monsieur, préparez l'entrée du notaire.</s>
 </p>
 </sp>
-<sp who='VALÈRE'><speaker>VALÈRE, à Finot.</speaker>
+<sp stage="toxard" who='VALÈRE'><speaker>VALÈRE, à Finot.</speaker>
 <p id='3'>
 	<s id='1'>Eh bien ! </s>
 	<s id='2'>Monsieur, je vous laisse le choix, ou de renoncer tout-à-l'heure à Mademoiselle, ou de me disputer son cœur l'épée à la main.</s>
@@ -1811,7 +1811,7 @@
 	<s id='2'>C'est Monsieur Bonne-foi.</s>
 </p>
 </sp>
-<sp who='BONNE-FOI'><speaker>BONNE-FOI, sérieusement.</speaker>
+<sp stage="serious" who='BONNE-FOI'><speaker>BONNE-FOI, sérieusement.</speaker>
 <p id='2'>
 	<s id='1'>Pour vous servir, Monsieur ; voici le contrat que vous m'avez fait demander.</s>
 </p>
@@ -1884,8 +1884,8 @@
 	<s id='1'>Comme vous voudrez : Capitaine au Régiment de...</s>
 </p>
 </sp>
-<sp who='VALÈRE'><speaker>VALÈRE, dictant.</speaker>
-<stage type="[N/A]">Frontin cause avec les autres...</stage>
+<sp stage="dictation" who='VALÈRE'><speaker>VALÈRE, dictant.</speaker>
+<stage type="toward">Frontin cause avec les autres...</stage>
 <p id='15'>
 	<s id='1'>Vous voyez bien, c'est naturel comme cela. </s>
 	<s id='2'>Mais vous ne devez pas l'entendre, vous, parce qu'il est censé qu'on vous trompe...</s>
@@ -1908,7 +1908,7 @@
 	<s id='1'>À vous à signer, Madame.</s>
 </p>
 </sp>
-<sp who='MADAME FINOT'><speaker>MADAME FINOT, avant de signer.</speaker>
+<sp stage="sign" who='MADAME FINOT'><speaker>MADAME FINOT, avant de signer.</speaker>
 <p id='19'>
 	<s id='1'>Signerons-nous aussi.</s>
 </p>
@@ -1927,7 +1927,7 @@
 	<s id='3'>Donnez-moi la plume.</s>
 </p>
 </sp>
-<sp who='FRONTIN'><speaker>FRONTIN, le regardant écrire.</speaker>
+<sp stage="watch/write" who='FRONTIN'><speaker>FRONTIN, le regardant écrire.</speaker>
 <p id='22'>
 	<s id='1'>C'est-il fait, Monsieur ?</s>
 </p>
@@ -1958,7 +1958,7 @@
 	<s id='1'>Pourquoi Les Dupes, il n'y a que mon gendre qui l'a été un instant à la scène de l'épée.</s>
 </p>
 </sp>
-<sp who='FINOT FILS'><speaker>FINOT FILS, avec malice.</speaker>
+<sp stage="malice" who='FINOT FILS'><speaker>FINOT FILS, avec malice.</speaker>
 <p id='27'>
 	<s id='1'>Moi, oh que nenni, j'ai bien vu que c'était un détour.</s>
 </p>
@@ -1989,7 +1989,7 @@
 	<s id='1'>Sans doute, celui-là n'en est pas un, voyez-vous ; c'est un badinage que nous avons fait entre nous, comprenez-vous, une petite Comédie que nous avons jouée pour passer le temps.</s>
 </p>
 </sp>
-<sp who='BONNE-FOI'><speaker>BONNE-FOI, les regardant tous.</speaker>
+<sp stage="watch" who='BONNE-FOI'><speaker>BONNE-FOI, les regardant tous.</speaker>
 <p id='33'>
 	<s id='1'>Comment, une Comédie !</s>
 </p>
@@ -2147,7 +2147,7 @@
 <p id='60'>
 	<s id='1'>Vous n'attendrez pas longtemps, entrez, Messieurs.</s>
 </p>
-<stage type="[N/A]">LE BALLET, entre et commence.</stage>
+<stage type="danse">LE BALLET, entre et commence.</stage>
 </sp>
 </div2>
 <div2 type='vaudeville' n='14'><head>VAUDEVILLE.</head>
@@ -2202,7 +2202,7 @@
 	<l id='51'>Je promets bien, de peur d'être encore dupe,</l>
 	<l id='52'>D'aller tout droit au dénouement.</l>
 </sp>
-<sp who='FRONTIN'><speaker>FRONTIN, au public.</speaker>
+<sp stage="toward" who='FRONTIN'><speaker>FRONTIN, au public.</speaker>
 	<l id='53'>En vain dans une Comédie,</l>
 	<l id='54'>L'auteur traite un plaisant sujet,</l>
 	<l id='55'>Si vous n'approuvez sa folie,</l>

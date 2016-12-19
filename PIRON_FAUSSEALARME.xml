@@ -9,8 +9,8 @@
 			</titleStmt>
 			<publicationStmt>	
 				<authority></authority>
-			<idno></idno>
-</publicationStmt>
+				<idno>PIRON_FAUSSEALARME</idno>
+			</publicationStmt>
 			<SourceDesc>
 				<genre>Pastorale</genre>
 				<inspiration>pastorale</inspiration>
@@ -19,7 +19,6 @@
 				<periode>1771-1780</periode>
 				<taille>250-500</taille>
 				<permalien></permalien>
-				<refNum/>
 			</SourceDesc>
 		</fileDesc>
 	</teiHeader>
@@ -62,7 +61,7 @@
 <body>
 <div1 type="act" n='1'><head></head>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE.</head>
-<sp who='BERGER'><speaker>UN BERGER, derrière le théâtre.</speaker>
+<sp stage="location" who='BERGER'><speaker>UN BERGER, derrière le théâtre.</speaker>
 	<l id='1'>Au loup ! Au loup ! Au loup !</l>
 	<l id='2'>Le monstre en furie</l>
 	<l id='3'>Est dans la prairie</l>
@@ -85,7 +84,7 @@
 	<l id='18'>Est dans la prairie</l>
 	<l id='19'>Qui ravage tout;</l>
 	<l id='20'>Au loup ! Au loup ! Au loup !</l>
-<stage type="[N/A]">Hallalis, aboiements, cors, cris, etc.</stage>
+<stage type="noise">Hallalis, aboiements, cors, cris, etc.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Hylas, Choeur de bergers.</head>
@@ -208,10 +207,10 @@
 	<l id='97'>Avez-vous des sujets de soupçon que j'ignore ?</l>
 </sp>
 <sp who='SYLVIE'><speaker>SYLVIE</speaker>
-	<l id='98' part='i'>Non, mais si vous m'aimez...</l>
+	<l id='98' part="i">Non, mais si vous m'aimez...</l>
 </sp>
 <sp who='LYSIS'><speaker>LYSIS</speaker>
-	<l id='98' part='f'>Aimer ! Je vous adore.</l>
+	<l id='98' part="f">Aimer ! Je vous adore.</l>
 </sp>
 <sp who='SYLVIE'><speaker>SYLVIE</speaker>
 	<l id='99'>Eh bien, si vous m'aimez, rompez avec Hylas.</l>
@@ -242,7 +241,7 @@
 	<l id='120'>Loin d'ici tout volage</l>
 	<l id='121'>Qui nomme esclavage</l>
 	<l id='122'>Les noeuds les plus doux.</l>
-<stage type="[N/A]">Sylvie sort brusquement voyant venir Hylas.</stage>
+<stage type="exit">Sylvie sort brusquement voyant venir Hylas.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Hylas, Lysis.</head>
@@ -302,7 +301,7 @@
 	<l id='161'>Trêve à ta morale offensante :</l>
 	<l id='162'>Donne-moi seulement et l'esprit et le ton</l>
 	<l id='163'>Des vers que tu veux que je chante.</l>
-<stage type="[N/A]">Ici on entend un choeur de bergères qui chante.</stage>
+<stage type="sing">Ici on entend un choeur de bergères qui chante.</stage>
 	<l id='164'>Il n'est d'amours contents</l>
 	<l id='165'>Que les amours constants.</l>
 </sp>
@@ -312,11 +311,11 @@
 	<l id='168'>Et qui, sourdes à ma leçon,</l>
 	<l id='169'>De ta morale extravagante</l>
 	<l id='170'>Font retenir tout le vallon;</l>
-<stage type="[N/A]">Ils sortent</stage>
+<stage type="exit">Ils sortent</stage>
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII. </head>
-<stage type="[N/A]">Entrée de bergères.</stage>
+<stage type="entrance">Entrée de bergères.</stage>
 <sp who='LE CHOEUR'><speaker>LE CHOEUR répète.</speaker>
 	<l id='171'>Il n'est d'amours contents,</l>
 	<l id='172'>Que les amours constants.</l>
@@ -348,7 +347,7 @@
 	<l id='190'>Il n'est d'amours contents,</l>
 	<l id='191'>Que les amours constants.</l>
 </sp>
-<sp who='TIMARETTE'><speaker>TIMARETTE, seule.</speaker>
+<sp stage="alone" who='TIMARETTE'><speaker>TIMARETTE, seule.</speaker>
 	<l id='192'>Qu'au dieu d'Amour Sylvie a de grâces à rendre !</l>
 	<l id='193'>Elle aime uniquement Lysis ;</l>
 	<l id='194'>Et Lysis, des bergers le plus beau, le plus tendre,</l>
@@ -371,7 +370,7 @@
 	<l id='205'>Écoutons de ce cabinet ;</l>
 	<l id='206'>Voyons si je suis en effet</l>
 	<l id='207'>Aimée autant que je le crois être.</l>
-<stage type="[N/A]">Elle va se mettre sous le feuillage.</stage>
+<stage type="location">Elle va se mettre sous le feuillage.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='8'><head>SCÈNE VIII. Lysis, Hylas, et les bergères cachées.</head>
@@ -383,13 +382,13 @@
 </sp>
 </div2>
 <div2 type="scene" n='9'><head>SCÈNE IX. LYSIS et les bergères cachées.</head>
-<sp who='LYSIS'><speaker>LYSIS a voix basse, pas si basse pour que les bergères puissent entendre, commeelles ont entendu Hylas.</speaker> 
+<sp stage="low/listen" who='LYSIS'><speaker>LYSIS a voix basse, pas si basse pour que les bergères puissent entendre, comme elles ont entendu Hylas.</speaker> 
 	<l id='212'>Il a raison en ce moment :</l>
 	<l id='213'>Prenons son ton, son caractère ;</l>
 	<l id='214'>Laissons-là le sentiment ;</l>
 	<l id='215'>Faisons valoir le talent ;</l>
 	<l id='216'>Ne songeons enfin qu'à plaire.</l>
-<stage type="[N/A]">Il commence son rôle.</stage>
+<stage type="play">Il commence son rôle.</stage>
 	<l id='217'>Hélas ! Hélas !</l>
 	<l id='218'>Que le suis las</l>
 	<l id='219'>D'être fidèle !</l>
@@ -438,7 +437,7 @@
 	<l id='257'>J'ai cru te retrouver au fond de ces forêts ;</l>
 	<l id='258'>On te méprise aux champs comme à la ville,</l>
 	<l id='259'>Je les abandonne à jamais.</l>
-<stage type="[N/A]">Elle brise sa houlette et jette au loin sa pannetière.</stage>
+<stage type="break/throw">Elle brise sa houlette et jette au loin sa pannetière.</stage>
 </sp>
 <sp who='TIMARETTE'><speaker>TIMARETTE</speaker>
 	<l id='260'>Ah ! N'abandonnez point une douce retraite</l>
@@ -480,7 +479,7 @@
 	<l id='286'>Et dans l'innocence.</l>
 	<l id='287'>Berger dangereux,</l>
 	<l id='288'>Tu blesses nos yeux.</l>
-<stage type="[N/A]">Ensemble</stage>
+<stage type="together">Ensemble</stage>
 	<l id='289'>Sors de ma présence ;</l>
 	<l id='290'>Berger odieux.</l>
 </sp>
@@ -489,7 +488,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='12'><head>SCÈNE XII. Sylvie, Timaretten Lysis, Hylas.</head>
-<sp who='LYSIS'><speaker>LYSIS, à Hylas.</speaker>
+<sp stage="toward" who='LYSIS'><speaker>LYSIS, à Hylas.</speaker>
 	<l id='292'>Voilà ton rôle, Hylas ;</l>
 	<l id='293'>Quelque autre le peut faire :</l>
 	<l id='294'>Je ne m'en charge pas.</l>
@@ -519,10 +518,10 @@
 <sp who='LYSIS'><speaker>LYSIS</speaker>
 	<l id='307'>J'ignore si je suis,</l>
 	<l id='308'>Et si j'entends Sylvie.</l>
-	<l id='309' part='i'>Que dites-vous ?</l>
+	<l id='309' part="i">Que dites-vous ?</l>
 </sp>
 <sp who='SYLVIE'><speaker>SYLVIE</speaker>
-	<l id='309' part='f'>Ce que je dis,</l>
+	<l id='309' part="f">Ce que je dis,</l>
 	<l id='310'>Je le dirai toute ma vie.</l>
 </sp>
 <sp who='LYSIS'><speaker>LYSIS</speaker>
@@ -544,33 +543,33 @@
 <sp who='SYLVIE'><speaker>SYLVIE</speaker>
 	<l id='321'>Les éclaircissements ne sont plus de raison.</l>
 </sp>
-<sp who='LYSIS'><speaker>LYSIS, à Timarette.</speaker>
+<sp stage="toward" who='LYSIS'><speaker>LYSIS, à Timarette.</speaker>
 	<l id='322'>Ô vous, sa chère confidente !</l>
 	<l id='323'>Au nom de votre intime et tendre liaison,</l>
 	<l id='324'>De grâce, dites-moi ce qu'on veut que j'ignore !</l>
 </sp>
-<sp who='TIMARETTE'><speaker>TIMARETTE, à Sylvie.</speaker>
-	<l id='325' part='i'>Confondez-le d'un mot !</l>
+<sp stage="toward" who='TIMARETTE'><speaker>TIMARETTE, à Sylvie.</speaker>
+	<l id='325' part="i">Confondez-le d'un mot !</l>
 </sp>
 <sp who='SYLVIE'><speaker>SYLVIE</speaker>
-	<l id='325' part='f'>Eh ! Que lui dire encore ?</l>
+	<l id='325' part="f">Eh ! Que lui dire encore ?</l>
 	<l id='326'>Ignore-t-il sa trahison ?</l>
 </sp>
 <sp who='LYSIS'><speaker>LYSIS</speaker>
 	<l id='327'>Moi qui même ne puis la souffrir dans un autre !</l>
-	<l id='328' part='i'>Et quelle bouche a put m'en accuser ?</l>
+	<l id='328' part="i">Et quelle bouche a put m'en accuser ?</l>
 </sp>
 <sp who='SYLVIE'><speaker>SYLVIE</speaker>
-	<l id='328' part='f'>La vôtre.</l>
+	<l id='328' part="f">La vôtre.</l>
 </sp>
 <sp who='LYSIS'><speaker>LYSIS</speaker>
-	<l id='329' part='i'>La mienne.</l>
+	<l id='329' part="i">La mienne.</l>
 </sp>
 <sp who='SYLVIE'><speaker>SYLVIE</speaker>
-	<l id='329' part='m'>Rougissez !</l>
+	<l id='329' part="m">Rougissez !</l>
 </sp>
 <sp who='TIMARETTE'><speaker>TIMARETTE</speaker>
-	<l id='329' part='f'>Berger une autre fois,</l>
+	<l id='329' part="f">Berger une autre fois,</l>
 	<l id='330'>Quand vous vous croirez seul, élevez moins la voix.</l>
 	<l id='331'>Observez-vous avec un soin extrême.</l>
 	<l id='332'>Si vous n'êtes fidèle, au moins soyez prudent.</l>
@@ -598,7 +597,7 @@
 	<l id='347'>Je triomphe, belle bergère !</l>
 	<l id='348'>Car si je fus aimé, je le serai toujours.</l>
 </sp>
-<sp who='SYLVIE'><speaker>SYLVIE, à Timarette.</speaker>
+<sp stage="toward" who='SYLVIE'><speaker>SYLVIE, à Timarette.</speaker>
 	<l id='349'>Où tend ce discours ?</l>
 	<l id='350'>Qu'est ce qu'il espère ?</l>
 	<l id='351'>De quoi rit Hylas ?</l>

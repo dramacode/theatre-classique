@@ -7,9 +7,9 @@
 				<author born='1657' born_location='Paris' death='1724' death_location='Paris' academie=''>DUFRESNY, Charles</author>
 			</titleStmt>
 			<publicationStmt>	
-				<p>publié par Paul FIEVRE janvier 2012</p>
-			<idno></idno>
-</publicationStmt>
+				<publisher>publié par Paul FIEVRE janvier 2012, novembre 2016</publisher>
+				<idno>DUFRESNY_CHEVALIERJOUEUR</idno>
+			</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -17,11 +17,7 @@
 				<type>prose</type>
 				<periode>1691-1700</periode>
 				<taille>(mesure non pertinente)</taille>
-				<permalien></permalien>
-				<sources>
-					<source id="1"><author/><text/></source>
-				</sources>	
-
+				<permalien>http://gallica.bnf.fr/ark:/12148/bpt6k56289047</permalien>
 			</SourceDesc>
 		</fileDesc>
 </teiHeader>
@@ -29,40 +25,40 @@
 	<front>
 		<docTitle>
 			<titlePart type="main">LE CHEVALIER JOUEUR</titlePart>
-			<titlePart type="sub">COMÉDIE EN CINQ ACTES, AVEC UN PROLOGUE.</titlePart>
+			<titlePart type="sub">COMÉDIE EN EN PROSE.</titlePart>
 		</docTitle> 
-		<docDate value='1697'>M. DC. LXXXXVII. Avec approbation et Privilège du Roi.</docDate>
-		<docAuthor id='DUFRESNY, Charles' bio='dufresny'>par M. Dufresny</docAuthor>
+		<docDate value='1697'>M. DC. LXXXXVII. Avec approbation et Privilège de Sa Majesté.</docDate>
+		<docAuthor id='DUFRESNY, Charles' bio='dufresny'>Par Monsieur D*. F**.</docAuthor>
 		<docImprint>
 			<privilege id=""><head></head>
 			</privilege>
 			<acheveImprime id=""></acheveImprime>
-			<printer id=''></printer>
+			<printer id=''>À PARIS, Chez CHRISTOPHE BALLARD, seul imprimeur du Roi pour la musique, rue Saint-Jean de Beauvais, au Mont-Parnasse.</printer>
 		</docImprint>
 		<performance>
 			<premiere date='1697-02-27' location='Théâtre de la rue des Fossés Saint-Germain'>Représentée pour la première fois le 27 Février 1697, au Théâtre de la rue des Fossés Saint-Germain. </premiere>
 		</performance>
 	<castList><head>ACTEURS du Prologue. </head>
-		<castItem><role id="UN-JEUNE-ÉTOURDI" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>UN JEUNE ÉTOURDI</role>.</castItem>
+		<castItem><role id="UN JEUNE ÉTOURDI" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>UN JEUNE ÉTOURDI</role>.</castItem>
 		<castItem><role id="VALÈRE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>VALÈRE</role>.</castItem>
 	</castList>
 	<castList><head>ACTEURS de la Comédie. </head>
 		<castItem><role id="DORANTE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>DORANTE</role>, ami et rival du Chevalier Joueur.</castItem>
-		<castItem><role id="LE-CHEVALIER" sex="1" type="H" statut='chevalier' age='A' stat_amour='néant'>LE CHEVALIER JOUEUR</role>, amant dAngélique.</castItem>
+		<castItem><role id="LE CHEVALIER" sex="1" type="H" statut='chevalier' age='A' stat_amour='néant'>LE CHEVALIER JOUEUR</role>, amant d'Angélique.</castItem>
 		<castItem><role id="ANGÉLIQUE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>ANGÉLIQUE</role>, amante du Chevalier Joueur.</castItem>
-		<castItem><role id="LA-COMTESSE" sex="2" type="H" statut='comte' age='A' stat_amour='néant'>LA COMTESSE</role>, tutrice dAngélique.</castItem>
-		<castItem><role id="NÉRINE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>NÉRINE</role>, suivante dAngélique.</castItem>
+		<castItem><role id="LA COMTESSE" sex="2" type="H" statut='comte' age='A' stat_amour='néant'>LA COMTESSE</role>, tutrice d'Angélique.</castItem>
+		<castItem><role id="NÉRINE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>NÉRINE</role>, suivante d'Angélique.</castItem>
 		<castItem><role id="FRONTIN" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>FRONTIN</role>, valet du Chevalier.</castItem>
-		<castItem><role id="LE-MARQUIS" sex="1" type="H" statut='marquis' age='A' stat_amour='néant'>LE MARQUIS</role>, autre Joueur.</castItem>
-		<castItem><role id="DEUX-CRÉANCIÈRES" sex="9" type="H" statut='financier' age='A' stat_amour='néant'>DEUX CRÉANCIÈRES DU CHEVALIER</role>.</castItem>
+		<castItem><role id="LE MARQUIS" sex="1" type="H" statut='marquis' age='A' stat_amour='néant'>LE MARQUIS</role>, autre Joueur.</castItem>
+		<castItem><role id="DEUX CRÉANCIÈRES" sex="9" type="H" statut='financier' age='A' stat_amour='néant'>DEUX CRÉANCIÈRES DU CHEVALIER</role>.</castItem>
 	</castList>
 	<set location='Paris' country='France' periode='XVIIème' link=''>La Scène est à Paris dans un Salon commun, aux appartements de la Comtesse, d'Angélique et du Chevalier.</set>
 </front>
 <body>
 <div1 type="act" n='1'><head>PROLOGUE.</head>
 <div2 type="scene" n='1'><head></head>
-<stage type="[N/A]">Un jeune étourdi vient fendre la presse sur le Théâtre en cherchant Valère.</stage>
-<sp who='L-ETOURDI'><speaker>L'ETOURDI.</speaker>
+<stage type="entrance/closer">Un jeune étourdi vient fendre la presse sur le Théâtre en cherchant Valère.</stage>
+<sp who="L'ÉTOURDI"><speaker>L'ÉTOURDI.</speaker>
 <note type="L">Presse : Foule de peuple qui veut entrer en un lieu qui ne le peut pas contenir commodément. [F]</note>
 <p id='1'>
 	<s id='1'>Ha ! </s>
@@ -75,7 +71,7 @@
 	<s id='1'>Ce que tu as vu n'est pas assurément...</s>
 </p>
 </sp>
-<sp who='L-ETOURDI'><speaker>L'ETOURDI.</speaker>
+<sp who="L'ÉTOURDI"><speaker>L'ÉTOURDI.</speaker>
 <p id='3'>
 	<s id='1'>Je l'ai vu, je l'ai vu, allons-nous-en, je ne saurais voir une pièce deux fois.</s>
 </p>
@@ -85,7 +81,7 @@
 	<s id='1'>Si tu voulais m'écouter, je te dirais ce que ce Joueur-ci...</s>
 </p>
 </sp>
-<sp who='L-ETOURDI'><speaker>L'ETOURDI.</speaker>
+<sp who="L'ÉTOURDI"><speaker>L'ÉTOURDI.</speaker>
 <p id='5'>
 	<s id='1'>Le Joueur est une pièce, où il y a un Joueur qui joue, qui perd, qui gagne.</s>
 </p>
@@ -95,7 +91,7 @@
 	<s id='1'>D'accord ; mais...</s>
 </p>
 </sp>
-<sp who='L-ETOURDI'><speaker>L'ETOURDI.</speaker>
+<sp who="L'ÉTOURDI"><speaker>L'ÉTOURDI.</speaker>
 <p id='7'>
 	<s id='1'>Je l'ai vu, te dis-je, il a une Angélique, une suivante, un Valet...</s>
 </p>
@@ -105,7 +101,7 @@
 	<s id='1'>Il y a une Angélique, une suivante, un Valet et un joueur aussi dans le Joueur qu'on va représenter ; cependant il est différent de celui que tu as vu.</s>
 </p>
 </sp>
-<sp who='L-ETOURDI'><speaker>L'ETOURDI.</speaker>
+<sp who="L'ÉTOURDI"><speaker>L'ÉTOURDI.</speaker>
 <p id='9'>
 	<s id='1'>Deux Comédies ne peuvent pas être différentes, quand ce sont les mêmes personnages ; dis-moi, dans celle-ci ne parle-t-on pas d'un portrait ?</s>
 </p>
@@ -115,7 +111,7 @@
 	<s id='1'>Oui.</s>
 </p>
 </sp>
-<sp who='L-ETOURDI'><speaker>L'ETOURDI.</speaker>
+<sp who="L'ÉTOURDI"><speaker>L'ÉTOURDI.</speaker>
 <p id='11'>
 	<s id='1'>C'est donc la même chose ?</s>
 </p>
@@ -126,7 +122,7 @@
 	<s id='2'>Je te dis que j'ai entendu lire cette pièce-ci, et je la trouve très différente de l'autre.</s>
 </p>
 </sp>
-<sp who='L-ETOURDI'><speaker>L'ETOURDI.</speaker>
+<sp who="L'ÉTOURDI"><speaker>L'ÉTOURDI.</speaker>
 <p id='13'>
 	<s id='1'>Voyons donc cette différence. </s>
 	<s id='2'>Premièrement je me souviens que l'autre finit par un mariage.</s>
@@ -137,7 +133,7 @@
 	<s id='1'>On sait bien qu'il faut...</s>
 </p>
 </sp>
-<sp who='L-ETOURDI'><speaker>L'ETOURDI.</speaker>
+<sp who="L'ÉTOURDI"><speaker>L'ÉTOURDI.</speaker>
 <p id='15'>
 	<s id='1'>Hé bien, c'est donc la même chose ?</s>
 </p>
@@ -147,7 +143,7 @@
 	<s id='1'>Malheureusement pour toi celle-ci commence, aussi bien que l'autre, par le Valet et la Suivante, sitôt que tu les verras paraître, tu sortiras sans les écouter, en criant tout haut : c'est la même chose, c'est la même chose ; et il faut l'écouter pour voir si c'est la même chose.</s>
 </p>
 </sp>
-<sp who='L-ETOURDI'><speaker>L'ETOURDI.</speaker>
+<sp who="L'ÉTOURDI"><speaker>L'ÉTOURDI.</speaker>
 <p id='17'>
 	<s id='1'>Ma foi, je n'attendrai pas qu'on ait commencé pour sortir, à moins que tu ne me prouves ces prétendues différences.</s>
 </p>
@@ -157,7 +153,7 @@
 	<s id='1'>Il y en a beaucoup, l'autre était en vers, celle-ci est en prose.</s>
 </p>
 </sp>
-<sp who='L-ETOURDI'><speaker>L'ETOURDI.</speaker>
+<sp who="L'ÉTOURDI"><speaker>L'ÉTOURDI.</speaker>
 <p id='19'>
 	<s id='1'>Des vers ou de la prose, est-ce que je prends garde à cela ?</s>
 </p>
@@ -167,7 +163,7 @@
 	<s id='1'>De la manière dont tu entends ordinairement la Comédie, en prose ou vers c'est tout un pour toi : tu causes tant que la pièce dure, tu ris seulement quand tu entends rire le parterre, sans se soucier si ces plaisanteries sont du sujet ou non.</s>
 </p>
 </sp>
-<sp who='L-ETOURDI'><speaker>L'ETOURDI.</speaker>
+<sp who="L'ÉTOURDI"><speaker>L'ÉTOURDI.</speaker>
 <p id='21'>
 	<s id='1'>Que me fait le sujet à moi ? </s>
 	<s id='2'>Je ne veux écouter que les endroits qui me font rire.</s>
@@ -178,7 +174,7 @@
 	<s id='1'>Pour ces endroits fins et délicats, qui font plaisir sans faire rire, tu n'y fais nullement attention.</s>
 </p>
 </sp>
-<sp who='L-ETOURDI'><speaker>L'ETOURDI.</speaker>
+<sp who="L'ÉTOURDI"><speaker>L'ÉTOURDI.</speaker>
 <note type="L">À droit : parce qu'on sous-entendait côté, s'est dit, dans le XVIIe siècle, au lieu de à droite, que nous disons aujourd'hui ; c'est un archaïsme. [L]</note>
 <p id='23'>
 	<s id='1'>Et pourquoi de l'attention ? </s>
@@ -190,7 +186,7 @@
 	<s id='1'>Voilà le goût de nos jeunes étourdis ; mais les gens de bon sens entrent dans le sujet, on veut des caractères soutenus, une intrigue nette et suivie, des situations intéressantes et bien ménagées, des expressions vives et naturelles, et de la gaîté sans immodestie.</s>
 </p>
 </sp>
-<sp who='L-ETOURDI'><speaker>L'ETOURDI.</speaker>
+<sp who="L'ÉTOURDI"><speaker>L'ÉTOURDI.</speaker>
 <note type="L">Gros sel : Des plaisanteries de mauvais goût, ou du moins de goût équivoque. [L]</note>
 <p id='25'>
 	<s id='1'>Oh je veux un peu de gros sel ; là, de ces équivoques claires qui réveillent la joie ; y a-t-il de cela dans ce Joueur-ci ?</s>
@@ -202,7 +198,7 @@
 	<s id='2'>Je prétendais seulement te prouver que toutes ces parties sont traitées différemment dans les deux pièces, et qu'à le bien prendre, elles n'ont rien de semblable que le fond du sujet, et deux ou trois idées de Scènes qui se sont trouvées dans des mémoires que l'un des deux auteurs a dérobés à l'autre.</s>
 </p>
 </sp>
-<sp who='L-ETOURDI'><speaker>L'ETOURDI.</speaker>
+<sp who="L'ÉTOURDI"><speaker>L'ÉTOURDI.</speaker>
 <p id='27'>
 	<s id='1'>Ma foi toutes ces distinctions me brouillent la cervelle ; je veux du nouveau tout pur. </s>
 	<s id='2'>Adieu... </s>
@@ -214,7 +210,7 @@
 	<s id='1'>Oui, mais tu n'as qu'à t'imaginer que c'est un Vicomte, et tu le trouveras nouveau.</s>
 </p>
 </sp>
-<sp who='L-ETOURDI'><speaker>L'ETOURDI.</speaker>
+<sp who="L'ÉTOURDI"><speaker>L'ÉTOURDI.</speaker>
 <p id='29'>
 	<s id='1'>Et le père, le père ?</s>
 </p>
@@ -224,7 +220,7 @@
 	<s id='1'>Il n'y a point de père.</s>
 </p>
 </sp>
-<sp who='L-ETOURDI'><speaker>L'ETOURDI.</speaker>
+<sp who="L'ÉTOURDI"><speaker>L'ÉTOURDI.</speaker>
 <p id='31'>
 	<s id='1'>Cela est nouveau cela ; que ne me disais-tu donc qu'il n'y a point de père.</s>
 </p>
@@ -234,7 +230,7 @@
 	<s id='1'>Je me suis attaché à des différences plus essentielles.</s>
 </p>
 </sp>
-<sp who='L-ETOURDI'><speaker>L'ETOURDI.</speaker>
+<sp who="L'ÉTOURDI"><speaker>L'ÉTOURDI.</speaker>
 <p id='33'>
 	<s id='1'>Et moi je ne resterai que pour cette nouveauté ; tu m'assures qu'il n'y a point de père au moins ? </s>
 	<s id='2'>Point de père, cela sera plaisant.</s>
@@ -303,7 +299,7 @@
 <sp who='FRONTIN'><speaker>FRONTIN.</speaker>
 <note type="L">Casuel : Ce qui arrive fortuitement sans avoir rien d'assuré. On le dit aussi des revenus qui sont fondés sur les cas fortuits, et qui ne viennent pas toujours régulièrement, ni en même temps. [F]</note>
 <p id='10'>
-	<s id='1'>On se soucie bien  de son patrimoine, quand on a des talents pour les grandes fortunes. </s>
+	<s id='1'>On se soucie bien de son patrimoine, quand on a des talents pour les grandes fortunes. </s>
 	<s id='2'>De l'air déterminé dont il joue, il est homme à gagner cent mille écus en trois coups de dés ; cela s'appelle un grand parti ! </s>
 	<s id='3'>À la vérité ton Dorante a plus de bien en fonds ; mais les biens en fonds ont des bornes, et le casuel d'un joueur n'en a point.</s>
 </p>
@@ -389,7 +385,7 @@
 	<s id='1'>Avant que vous sortiez, Madame, voyons donc au moins à prendre une heure pour terminer mes affaires ; depuis huit jours que je vous presse, je ne saurais tirer de vous que des exhortations.</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE.</speaker>
 <p id='2'>
 	<s id='1'>C'est à vous de les écouter avec respect.</s>
 </p>
@@ -399,7 +395,7 @@
 	<s id='1'>Je sais ce qu'une pupille doit à sa tutrice ; mais enfin...</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE.</speaker>
 <p id='4'>
 	<s id='1'>Vous êtes majeure, me dites-vous ?</s>
 </p>
@@ -410,7 +406,7 @@
 	<s id=''>Je ne vous dis plus rien.</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE.</speaker>
 <p id='6'>
 	<s id='1'>Que je blâme nos Lois d'avoir placé la majorité si près de l'enfance !</s>
 </p>
@@ -420,7 +416,7 @@
 	<s id='1'>Finissons donc, Madame.</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE.</speaker>
 <p id='8'>
 	<s id='1'>Car enfin, qu'est-ce que c'est encore qu'une fille à vingt-cinq ans ?</s>
 </p>
@@ -430,7 +426,7 @@
 	<s id='1'>Encore !</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE.</speaker>
 <p id='10'>
 	<s id='1'>Oui, la Loi devrait défendre aux filles, de disposer de leur coeur avant l'âge de quarante ans.</s>
 </p>
@@ -440,7 +436,7 @@
 	<s id='1'>Vous disposerez du vôtre quand il vous plaira.</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE.</speaker>
 <p id='12'>
 	<s id='1'>Une fille n'est point en âge de raison, que l'âge des désirs ne soit passé.</s>
 </p>
@@ -450,7 +446,7 @@
 	<s id='1'>Les désirs sont de tout âge, Madame, et vous désirez retarder mon mariage en retardant mes affaires ; voulez-vous les terminer, ou non ?</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE.</speaker>
 <p id='14'>
 	<s id='1'>Un devoir indispensable m'appelle en Ville, je vais exhorter à la patience une femme qui a épousé un Joueur.</s>
 </p>
@@ -460,7 +456,7 @@
 	<s id='1'>En l'exhortant à la patience vous l'impatientez beaucoup : j'avoue que je suis à bout, Madame ; et puisque vous ne voulez pas finir, je terminerai, moi, dès ce soir avec le Chevalier.</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE.</speaker>
 <note type="L">Extravaguer : Dire ou faire quelque chose mal à propos, indiscrètement et contre le bon sens, ou la suite du discours, ou la bienséance. [F]</note>
 <p id='16'>
 	<s id='1'>Elle extravague, Nérine, je ne puis plus supporter ses égarements ; se peut-il que la figure d'un petit écervelé d'homme cause de si grands désordres dans une âme raisonnable ?</s>
@@ -776,7 +772,7 @@
 <p id='29'>
 	<s id='1'>Ce n'est plus qu'en s'exposant qu'on fait fortune auprès des femmes.</s>
 </p>
-<stage type="[N/A]">Le poussant chez Angélique.</stage>
+<stage type="push">Le poussant chez Angélique.</stage>
 <note type="L">Morbleu : Sorte de jurement en usage même parmi les gens de bon ton. [L]</note>
 <p id='30'>
 	<s id='1'>Exposez-vous, morbleu, exposez-vous... </s>
@@ -813,7 +809,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Frontin, Le Chevalier.</head>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER, donnant son manteau à Frontin.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER, donnant son manteau à Frontin.</speaker>
 <p id='1'>
 	<s id='1'>Pourquoi m'ôtes-tu mon manteau, bourreau que tu es ?</s>
 </p>
@@ -823,7 +819,7 @@
 	<s id='1'>C'est vous qui me le donnez.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='3'>
 	<s id='1'>Ne vois-tu pas que je veux ressortir ?</s>
 </p>
@@ -833,17 +829,17 @@
 	<s id='1'>Le sommeil vous serait plus utile que...</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='5'>
 	<s id='1'>Remets-moi mon manteau, raisonneur... </s>
 	<s id='2'>Irai-je encore ?</s>
 </p>
-<stage type="[N/A]">Frontin veut lui mettre son manteau.</stage>
+<stage type="give">Frontin veut lui mettre son manteau.</stage>
 <p id='6'>
 	<s id='1'>Attends donc. </s>
 	<s id='2'>Cette maison-là est maudite pour moi, je n'y gagnerai jamais ; voyons pourtant, donne.</s>
 </p>
-<stage type="[N/A]">Le Chevalier se promène à grands pas, et Frontin le suit voulant mettre son manteau sur ses épaules.</stage>
+<stage type="walk/follow">Le Chevalier se promène à grands pas, et Frontin le suit voulant mettre son manteau sur ses épaules.</stage>
 <note type="L">Jouer sur sa parole : perdre une somme d'argent sur sa parole, pour dire, Jouer, perdre à crédit et sur sa bonne foi. [Ac 1762]</note>
 <p id='7'>
 	<s id='1'>Mais on n'y veut plus jouer sur ma parole. </s>
@@ -859,7 +855,7 @@
 	<s id='1'>Ces louanges-là ne sont pas sincères.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='9'>
 	<s id='1'>Va-t'en voir chez la Marquise si on joue encore.</s>
 </p>
@@ -869,8 +865,8 @@
 	<s id='1'>Il est neuf heures, Monsieur, et toutes les femmes réglées sortent du Lansquenet dès cinq heures du matin, pour s'aller coucher de bonne heure.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
-<note type="L">Piqué : se dit aussi des choses qui nous flattent, ou qui nous choquent.  On dit aussi, qu'un homme est piqué au jeu, non seulement quand il veut se raquitter à quelque prix que ce soit, mais encore quand il s'opiniâtre à poursuivre une affaire, quelques obstacles qu'il y trouve. [F]</note>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<note type="L">Piqué : se dit aussi des choses qui nous flattent, ou qui nous choquent. On dit aussi, qu'un homme est piqué au jeu, non seulement quand il veut se raquitter à quelque prix que ce soit, mais encore quand il s'opiniâtre à poursuivre une affaire, quelques obstacles qu'il y trouve. [F]</note>
 <p id='11'>
 	<s id='1'>Je suis pourtant bien piqué ; ha Frontin !</s>
 </p>
@@ -880,7 +876,7 @@
 	<s id='1'>Ce soupir signifie que votre bourse est à sec.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='13'>
 	<s id='1'>J'ai tout perdu, Frontin.</s>
 </p>
@@ -891,7 +887,7 @@
 	<s id='2'>Il ne vous reste pas la moindre pistole ?</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='15'>
 	<s id='1'>Pas un sol.</s>
 </p>
@@ -901,7 +897,7 @@
 	<s id='1'>Vous allez donc être bien tendre ; car la tendresse vous vient à mesure que l'argent s'en va.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='17'>
 	<s id='1'>Sais-tu si Angélique est levée ? </s>
 	<s id='2'>Pourquoi n'ai-je point de ses nouvelles ?</s>
@@ -913,7 +909,7 @@
 	<s id='2'>C'est parce qu'on lui aura dit des vôtres ; elle est sortie.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='19'>
 	<s id='1'>Quoi sans m'attendre ? </s>
 	<s id='2'>Elle est donc fâchée ? </s>
@@ -926,7 +922,7 @@
 	<s id='2'>Angélique ne veut point vous épouser que vous n'ayez quitté le jeu : voilà un mariage fort avancé.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER, après avoir rêvé longtemps.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER, après avoir rêvé longtemps.</speaker>
 <p id='21'>
 	<s id='1'>Dis-moi... </s>
 	<s id='2'>Ai-je de l'argent ?</s>
@@ -937,7 +933,7 @@
 	<s id='1'>Non pas, que je sache.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='23'>
 	<s id='1'>Je te demande si tu as fait quelque affaire ?</s>
 </p>
@@ -947,7 +943,7 @@
 	<s id='1'>J'avais fait un tarif d'emprunt, où je taxais, comme amis, jusqu'aux connaissances de vue ; mais il y a longtemps qu'ils ont tous fourni ou refusé leur somme.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='25'>
 	<s id='1'>Et la Comtesse ?</s>
 </p>
@@ -957,7 +953,7 @@
 	<s id='1'>Elle craint qu'en vous prêtant sans emploi, sa conscience n'y soit engagée ; elle vous prêterait pour payer vos créanciers.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='27'>
 	<s id='1'>De l'argent pour payer mes créanciers, j'aimerais autant rien.</s>
 </p>
@@ -967,7 +963,7 @@
 	<s id='1'>J'ai imaginé des dettes d'une espèce libertine, afin que n'osant les payer elle-même...</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='29'>
 	<s id='1'>Elle est ici ?</s>
 </p>
@@ -977,7 +973,7 @@
 	<s id='1'>Non, Monsieur, mais elle va rentrer ; attendez-la au passage, votre présence dissipera ses scrupules.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER, s'assit.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER, s'assit.</speaker>
 <p id='31'>
 	<s id='1'>Un fauteuil... </s>
 	<s id='2'>Je suis abîmé ; j'en ai l'obligation à un homme, un homme, Frontin, un seul homme qui me suit partout.</s>
@@ -988,7 +984,7 @@
 	<s id='1'>Est-ce un de ces joueurs prudents qui ne donnent rien au hasard ?</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='33'>
 	<s id='1'>Non, je n'ai jamais joué contre lui.</s>
 </p>
@@ -999,7 +995,7 @@
 	<s id='2'>Comment donc vous a-t-il abîmé.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <note type="L">Toise : Longueur ou étendue de 5 pieds. [F] La Toise fait environ 10 mètres.</note>
 <p id='35'>
 	<s id='1'>Il a la rage de me porter malheur en s'appuyant sur le dos de ma chaise. </s>
@@ -1012,7 +1008,7 @@
 	<s id='1'>Les Lansquenets sont pleins de ces visages climatériques, dont l'aspect change l'ordre des cartes ; rien n'est plus certain.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='37'>
 	<s id='1'>Je voudrais ne me point abandonner à mes réflexions ; va me chercher un Livre.</s>
 </p>
@@ -1021,12 +1017,12 @@
 <p id='38'>
 	<s id='1'>Si vous voulez lire un petit Ouvrage d'esprit...</s>
 </p>
-<stage type="[N/A]">Le Chevalier, prend le papier.</stage>
+<stage type="get">Le Chevalier prend le papier.</stage>
 <note type="L">Mourir sur un fumier : mourir dans la misère après avoir perdu tout son bien. [L]</note>
 <p id='39'>
 	<s id='1'>Qui court les rues, c'est sur la pauvreté ; je suis curieux de voir tout ce qui s'écrit sur la pauvreté ; car il me revient sans cesse dans l'idée, que nous mourrons tous deux sur un fumier.</s>
 </p>
-<stage type="[N/A]">Le Chevalier regardant fixement le papier sans le lire.</stage>
+<stage type="watch">Le Chevalier regardant fixement le papier sans le lire.</stage>
 <note type="L">Coupe-gorge : Endroit écarté, maison mal famée où l'on court risque d'être assassiné ou volé. Au lansquenet, coupe-gorge, se dit du malheur de celui qui, ayant la main, tire sa carte avant que d'en avoir tiré aucune de celles des joueurs ; ce qui lui fait perdre tout ce qui est sur le tapis.</note>
 <p id='40'>
 	<s id='1'>Trois coupe-gorge de suite.</s>
@@ -1037,7 +1033,7 @@
 	<s id='1'>Il n'y a point de coupe-gorge là dedans.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='42'>
 	<s id='1'>Je ne saurais m'appliquer ; lis.</s>
 </p>
@@ -1061,7 +1057,7 @@
 	<s id='1'>Mais, Monsieur, au lieu de m'écouter vous méditez sur le portrait de votre maîtresse ; auriez-vous quelque remords d'avoir gardé si longtemps ce portrait, malgré tous les diamants qui l'environnent ?</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='46'>
 	<s id='1'>La Comtesse tarde trop, je n'ai pas le loisir d'être si longtemps sans argent ; je perds peut-être le moment de bonheur. </s>
 	<s id='2'>Frontin, il y a longtemps que je suis curieux de savoir ce que peuvent valoir ces diamants-là, va-t'en chez l'Orfèvre, et ...</s>
@@ -1082,7 +1078,7 @@
 	<s id='2'>Madame, venez consoler mon maître, il est dans un accablement.</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE.</speaker>
 <p id='2'>
 	<s id='1'>La passion du jeu est un abîme de désolation, tout se perd dans ce gouffre, le temps, l'esprit, la joie, la santé.</s>
 </p>
@@ -1093,17 +1089,17 @@
 	<s id='2'>Je sais cela parce que mes gages y sont.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER, affectant un chagrin outré.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER, affectant un chagrin outré.</speaker>
 <p id='4'>
 	<s id='1'>Ah !...</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE.</speaker>
 <p id='5'>
 	<s id='1'>Chevalier, êtes-vous fâché que...</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='6'>
 	<s id='1'>Non, madame, vous avez trop de bonté de vouloir bien...</s>
 </p>
@@ -1113,12 +1109,12 @@
 	<s id='1'>Nous aimons vos remontrances pour le bon effet qu'elles produisent.</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE.</speaker>
 <p id='8'>
 	<s id='1'>Ne peut-on pas adoucir votre affliction ?</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='9'>
 	<s id='1'>Je dois vous la cacher, ce n'est rien.</s>
 </p>
@@ -1128,17 +1124,17 @@
 	<s id='1'>C'est Angélique qui cause tous nos maux, nous voudrions bien nous en dépêtrer.</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE.</speaker>
 <p id='11'>
 	<s id='1'>Ouvrez-moi votre coeur, parlez.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='12'>
 	<s id='1'>Non, Madame, mes chagrins, sont d'une nature...</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE.</speaker>
 <p id='13'>
 	<s id='1'>Vous êtes discret, et je ne suis point curieuse.</s>
 </p>
@@ -1148,7 +1144,7 @@
 	<s id='1'>Nous sommes fâchés d'être contraints à précipiter son mariage pour payer des dettes pressantes.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='15'>
 	<s id='1'>Je vous prie de vous taire, Frontin.</s>
 </p>
@@ -1158,7 +1154,7 @@
 	<s id='1'>Dois-je me taire, Madame, parce qu'il a du coeur, et qu'il crèverait plutôt que de vous découvrir ses besoins.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='17'>
 	<s id='1'>Encore un coup, je vous commande de vous taire.</s>
 </p>
@@ -1168,7 +1164,7 @@
 	<s id='1'>Je me tairai, Madame, de peur de chagriner mon maître, je me contenterai de vous faire voir un mémoire instructif.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='19'>
 	<s id='1'>C'en est trop, donnez-moi tout à l'heure ce mémoire que je le déchire en présence de Madame.</s>
 </p>
@@ -1178,7 +1174,7 @@
 	<s id='1'>Je le veux voir absolument.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='21'>
 	<s id='1'>Vous ne le verrez point, Madame, je connais votre coeur.</s>
 </p>
@@ -1188,7 +1184,7 @@
 	<s id='1'>Nous craignons votre générosité.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='23'>
 	<s id='1'>Écoutez, Frontin, si vous parlez seulement du mémoire, je vous chasserai comme un coquin. </s>
 	<s id='2'>Pardon, Madame, je suis au désespoir que vous vous soyez aperçue du sujet de mes chagrins, je me retire pour vous le cacher.</s>
@@ -1202,7 +1198,7 @@
 	<s id='2'>Entre nous, Madame, toute la solidité du coeur de ce jeune homme-là est pour vous, il le dit bien dans ses moments de prudence : je devrais, dit-il, me laisser entraîner au penchant vertueux que je me sens pour Madame la Comtesse.</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE.</speaker>
 <p id='2'>
 	<s id='1'>Quoi ! </s>
 	<s id='2'>Il t'a parlé en ces termes !</s>
@@ -1213,7 +1209,7 @@
 	<s id='1'>Tout au moins, madame, tout au moins ; oui, je crois qu'il reviendrait de son premier entêtement s'il avait le temps de se reconnaître ; or afin qu'il ait le temps de se reconnaître, mon avis serait que vous lui fissiez tenir adroitement l'argent nécessaire pour se reconnaître.</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE.</speaker>
 <p id='4'>
 	<s id='1'>Je t'ai déjà dit que je payerais moi-même.</s>
 </p>
@@ -1223,7 +1219,7 @@
 	<s id='1'>Vous-même ; fi, ces dettes-là sont d'une espèce libertine, des dettes de garçons, une femme régulière ne doit point entrer dans un détail si déréglé.</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE.</speaker>
 <p id='6'>
 	<s id='1'>Voyons le mémoire.</s>
 </p>
@@ -1241,7 +1237,7 @@
 </p>
 <note type="L">Ratafia : Sorte de boisson, ou de liqueur forte, composée avec de l'eau de vie, du sucre, et quelque autre chose que l'on met dedans, comme cerises, groseilles, fleur d'orange, noyaux de pêches, d'abricots, et aromatites. [T]	</note>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE.</speaker>
 <p id='8'>
 	<s id='1'>Nous verrons.</s>
 </p>
@@ -1257,7 +1253,7 @@
 1 blanc = 5 deniers.
 1 petit sesterce romain = 18 deniers tournois. 
 1 grand sesterce romain = 1.000 petis sesterces, (25 écus environ). 
-1 louis dor = 11 livres. </note>
+1 louis d'or = 11 livres. </note>
 <note type="L">Corde : corde de jeu de paume, grosse corde tendue au milieu du jeu de paume et garnie de filets jusqu'en bas pour arrêter la balle qui ne passe pas par-dessus. [L] Metre sus corde : cacher, mettre à l'abri.</note>
 <p id='9'>
 	<s id='1'>Plus, quatre-vingt Louis d'or neufs pour une partie de paume ébauchée : vous ne sauriez l'achever vous-même, Madame ; il faut qu'il mette argent sous corde, mais il vous rendra cela sous la Galerie ; je lui sers de second, nous avons quatre jeux à un, quarante-cinq à rien, une chasse au pied, et notre bisque à prendre ; vous gagnerez à coup sûr. </s>
@@ -1267,7 +1263,7 @@
 	<s id='5'>Il y a encore un article ; parole donnée pour cent pistoles d'honneur à mademoiselle Mimi, Lingère du Palais : vous verrez que c'est pour ses appointements ; mais vous devez ignorer, et payer la pauvre fille incognito par mon ministère si vous voulez.</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE.</speaker>
 <note type="L">Bisque : Terme de jeu de paume. Avantage de quinze points qu'un joueur fait à un autre. [L]</note>
 <note type="L">Quidam : Certain homme qu'on désigne par quelques marques, et dont on ne sait pas le nom. [F]</note>
 <p id='10'>
@@ -1324,7 +1320,7 @@
 	<s id='1'>Encore une conjuration, car il me faut deux cent pistoles.</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE.</speaker>
 <p id='9'>
 	<s id='1'>Non ; je ne donne point d'argent pour jouer, ma conscience...</s>
 </p>
@@ -1336,7 +1332,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII. La Comtesse, Nérine.</head>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE.</speaker>
 <p id='1'>
 	<s id='1'>Pourquoi veux-tu donc que je fournisse au jeu du Chevalier, au lieu de le corriger d'un si grand défaut ?</s>
 </p>
@@ -1346,7 +1342,7 @@
 	<s id='1'>C'est justement pour le corriger de son plus grand défaut que vous devez lui donner de l'argent.</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE.</speaker>
 <p id='3'>
 	<s id='1'>Comment l'entends-tu donc ?</s>
 </p>
@@ -1356,7 +1352,7 @@
 	<s id='1'>Quand il aura de l'argent il continuera de jouer, en continuant de jouer il cessera de plaire à Angélique, et plaire à Angélique est le plus grand défaut qu'il ait, n'est-ce pas Madame ?</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE.</speaker>
 <p id='5'>
 	<s id='1'>Tu es folle, Nérine, je ne veux point donner de l'argent pour jouer.</s>
 </p>
@@ -1366,7 +1362,7 @@
 	<s id='1'>Vous ne devez point avoir cette intention-là, d'accord ; vous lui en donnerez seulement dans la vue de rompre un mauvais mariage.</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE.</speaker>
 <p id='7'>
 	<s id='1'>Je me crois obligée d'empêcher l'union de ces deux jeunes têtes, ce serait trop de faiblesse ensemble.</s>
 </p>
@@ -1376,7 +1372,7 @@
 	<s id='1'>Effectivement le Chevalier est faible, il faudrait l'unir à quelque femme forte, forte comme vous par exemple.</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE.</speaker>
 <p id='9'>
 	<s id='1'>Nérine, votre insolence.</s>
 </p>
@@ -1386,7 +1382,7 @@
 	<s id='1'>Je ne dis pas cela par insolence ; je suis persuadée que vous n'avez jamais aimée, pas même défunt votre mari : savez-vous que dans la sévérité de la morale votre conscience vous obligerait quasi à épouser ce jeune homme-là pour le mettre dans le bon chemin.</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE.</speaker>
 <p id='11'>
 	<s id='1'>À travers tes plaisanteries déréglées, je ne laisse pas d'entrevoir en toi un fond de morale qui me plaît.</s>
 </p>
@@ -1396,7 +1392,7 @@
 	<s id='1'>Pendant que je suis en train de vous plaire, je vous apprendrai que Dorante, cet homme que je croyais presque aussi sage que vous, Dorante est amoureux d'Angélique.</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE.</speaker>
 <p id='13'>
 	<s id='1'>Paix Nérine : ne vous accoutumez point à juger du coeur.</s>
 </p>
@@ -1413,7 +1409,7 @@
 	<s id='1'>J'allais vous faire part, Madame, d'une conversation que je viens d'avoir avec Angélique.</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE.</speaker>
 <p id='2'>
 	<s id='1'>La pauvre enfant me fait une vraie compassion, cela est si jeune et si fragile.</s>
 </p>
@@ -1423,7 +1419,7 @@
 	<s id='1'>Elle ne peut pas comme vous, Madame...</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE.</speaker>
 <p id='4'>
 	<s id='1'>Taisez-vous Dorante, je n'aime point les louanges, quoique ce ne serait pas une grande vanité à moi de me croire moins femme que les femmes d'aujourd'hui.</s>
 </p>
@@ -1438,7 +1434,7 @@
 	<s id='1'>Qu'on serait parfait en ce monde si on n'était ni homme ni femme !</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE.</speaker>
 <p id='7'>
 	<s id='1'>Ne rougissez point d'avoir des vues pour le mariage ; ce que les autres font par faiblesse, nous le pourrions faire par de grands motifs ; et nous autres âmes fortes...</s>
 </p>
@@ -1449,7 +1445,7 @@
 	<s id='2'>En un mot, je prendrai les intérêts d'Angélique sans rien cacher au Chevalier de tout ce que je conseillerai contre lui.</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE.</speaker>
 <p id='9'>
 	<s id='1'>Il faut accorder la sincérité avec la prudence.</s>
 </p>
@@ -1463,7 +1459,7 @@
 </div1>
 <div1 type="act" n='4'><head>ACTE III</head>
 <div2 type="scene" n='1'><head>SCÈNE I. La Comtesse, Dorante.</head>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE.</speaker>
 <p id='1'>
 	<s id='1'>À dire vrai, Dorante, vous prenez là un parti qui me fait trembler ; le conseil que vous allez donner à Angélique me paraît dangereux.</s>
 </p>
@@ -1473,11 +1469,11 @@
 	<s id='1'>J'en prends l'événement sur moi, pourvu que vous me laissiez agir seul : encore un coup, elle est en garde contre vos conseils, ne paraissez point.</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE.</speaker>
 <p id='3'>
 	<s id='1'>Allez donc sans moi, je ne veux rien gâter.</s>
 </p>
-<stage type="[N/A]">Seule.</stage>
+<stage type="alone">Seule.</stage>
 <p id='4'>
 	<s id='1'>J'ai bien peur que le Chevalier n'accepte, il s'apercevra peut-être du panneau qu'on lui veut tendre.</s>
 </p>
@@ -1490,7 +1486,7 @@
 	<s id='2'>Madame, je viens de mettre en campagne un certain Marquis, il fera merveille à ma considération.</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE.</speaker>
 <p id='2'>
 	<s id='1'>Tu connais des Marquis, toi ?</s>
 </p>
@@ -1501,7 +1497,7 @@
 	<s id='2'>Ce Marquis-là est fort estimé, quoiqu'il soit sans nom, et quand les Ducs le voient l'argent à la main, ils le placent à côté d'eux préférablement aux femmes de qualité qui veulent jouer sur leur parole ; en un mot, il est de la connaissance du Chevalier, et il m'a promis de l'engager à rejouer.</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE.</speaker>
 <p id='4'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Nérine, je ne veux point avoir de part à ce désordre, et quoique ce soit pour un bien...</s>
@@ -1512,7 +1508,7 @@
 	<s id='1'>Tout le bien sera sur votre compte, et je prends le désordre sur moi.</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE.</speaker>
 <p id='6'>
 	<s id='1'>Frontin m'attend encore, je n'ai pas voulu lui donner l'argent en présence de Dorante.</s>
 </p>
@@ -1521,7 +1517,7 @@
 <p id='7'>
 	<s id='1'>Allez vite faire cette bonne action-là.</s>
 </p>
-<stage type="[N/A]">Seule.</stage>
+<stage type="alone">Seule.</stage>
 <p id='8'>
 	<s id='1'>Tout ceci commence à prendre un bon train, pourvu que notre petit scélérat ne trouve pas le moyen de se faire écouter ; ah ! </s>
 	<s id='2'>Le voici, empêchons-le d'entrer chez nous.</s>
@@ -1529,7 +1525,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Nérine, Le Chevalier.</head>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='1'>
 	<s id='1'>Je viens de courir toute la Ville, sans pouvoir terminer une seule affaire ; il faut convenir que les hommes sont devenus d'un difficile commerce.</s>
 </p>
@@ -1539,7 +1535,7 @@
 	<s id='1'>Ce n'est pas la faute des emprunteurs, ils ne demandent que la facilité du commerce.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='3'>
 	<s id='1'>N'as-tu point vu Frontin ? </s>
 	<s id='2'>La Comtesse est-elle encore ici ?</s>
@@ -1550,7 +1546,7 @@
 	<s id='1'>Je n'ai vu personne.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='5'>
 	<s id='1'>Et Angélique ?</s>
 </p>
@@ -1558,10 +1554,10 @@
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 <p id='6'>
 	<s id='1'>Oh ! </s>
-	<s id='1'>Qu'elle n'a pas envie d'être sitôt  de retour.</s>
+	<s id='1'>Qu'elle n'a pas envie d'être sitôt de retour.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='7'>
 	<s id='1'>Est-elle fâchée ?</s>
 </p>
@@ -1571,7 +1567,7 @@
 	<s id='1'>Pour vous excuser j'ai menti tout de mon mieux.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='9'>
 	<s id='1'>Dis-tu vrai ?</s>
 </p>
@@ -1581,7 +1577,7 @@
 	<s id='1'>Je ne mens jamais moi.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='11'>
 	<s id='1'>Parle sincèrement, elle est en colère ?</s>
 </p>
@@ -1592,7 +1588,7 @@
 	<s id='2'>Vous avez beau l'offenser, il faut toujours qu'elle en vienne à vous demander pardon, mais quoique vous ayez tort, vous ne laissez pas de lui pardonner.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='13'>
 	<s id='1'>Que veut dire ceci ? </s>
 	<s id='2'>Quelqu'un sort de sa Chambre, c'est Dorante ! </s>
@@ -1610,7 +1606,7 @@
 <p id='1'>
 	<s id='1'>Il ne l'aura pas trouvée, Monsieur.</s>
 </p>
-<stage type="toward">À Dorante, lui faisant signe de dire comme elle.</stage>
+<stage type="wave/toward">À Dorante, lui faisant signe de dire comme elle.</stage>
 <p id='2'>
 	<s id='1'>N'est-il pas vrai que Mademoiselle n'y est pas ?</s>
 </p>
@@ -1620,7 +1616,7 @@
 	<s id='1'>Elle y est Chevalier, elle y est ; je n'ai pas envie de vous en faire mystère.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER, regardant Nérine.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER, regardant Nérine.</speaker>
 <p id='4'>
 	<s id='1'>Nérine.</s>
 </p>
@@ -1632,7 +1628,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Le Chevalier, Dorante.</head>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='1'>
 	<s id='1'>Angélique y est, dites-vous ?</s>
 </p>
@@ -1642,7 +1638,7 @@
 	<s id='1'>Je viens de m'entretenir avec elle.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='3'>
 	<s id='1'>L'aveu est sincère ? </s>
 	<s id='2'>À ce qui me paraît, on vous favorise, cependant vous n'êtes qu'ami, dites-vous, et vous faites profession de ne pas dire une chose pour l'autre.</s>
@@ -1653,7 +1649,7 @@
 	<s id='1'>Si le vous ai trompé, j'ai été trompé le premier ; je croyais que l'amitié seule m'intéressait pour Angélique, mais...</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='5'>
 	<s id='1'>Mais... </s>
 	<s id='2'>mais vous plaisantez, et si vous avez de l'amour pour ma Maîtresse, vous êtes trop prudent pour me l'avouer.</s>
@@ -1664,7 +1660,7 @@
 	<s id='1'>Non seulement je l'avoue, mais j'allais vous chercher pour vous le déclarer.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='7'>
 	<s id='1'>C'est pousser un peu loin la raillerie.</s>
 </p>
@@ -1674,7 +1670,7 @@
 	<s id='1'>Non : sur pareilles matières la raillerie...</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='9'>
 	<s id='1'>Sur pareilles matières le sérieux est encore pis ; quoi ! </s>
 	<s id='2'>Tous ces beaux conseils que vous donniez à Angélique étaient dictés par la jalousie ? </s>
@@ -1687,7 +1683,7 @@
 	<s id='2'>Angélique avait résolu de différer votre mariage, c'est moi seul qui lui fais changer de résolution ; en un mot, elle m'a promis de vous épouser incessamment.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER, surpris.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER, surpris.</speaker>
 <p id='11'>
 	<s id='1'>J'avoue que le sacrifice est héroïque.</s>
 </p>
@@ -1697,7 +1693,7 @@
 	<s id='1'>Moins héroïque qu'il ne vous paraît : il est vrai, je viens de lui conseiller de vous offrir sa main, mais elle ne vous l'offrira qu'à des conditions.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='13'>
 	<s id='1'>Ces conditions apparemment sont d'une nature à rompre l'affaire.</s>
 </p>
@@ -1707,7 +1703,7 @@
 	<s id='1'>Si vous les refusez, ce sera votre faute.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='14'>
 	<s id='1'>Parlez en honnête homme ; souhaitez-vous que je les accepte ?</s>
 </p>
@@ -1733,7 +1729,7 @@
 	<s id='4'>vous cherchez de mauvaises excuses pour justifier votre conduite.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='3'>
 	<s id='1'>C'est à vous ingrate, à me justifier la vôtre.</s>
 </p>
@@ -1743,7 +1739,7 @@
 	<s id='1'>La manière de s'excuser est tendre.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='5'>
 	<s id='1'>Vous parlez de tendresse, vous, est-ce que vous la connaissez ?</s>
 </p>
@@ -1753,7 +1749,7 @@
 	<s id='1'>Je ne connais guère la vôtre, du moins, faire ce qui me déplaît le plus, mépriser mes volontés, violer vos serments...</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='7'>
 	<s id='1'>Il est bien question d'entrer dans ces petits détails, pendant que vous manquez au fond de la tendresse : quoi, Madame, vous savez la passion de Dorante, et vous avez encore de la confiance en lui ?</s>
 </p>
@@ -1763,7 +1759,7 @@
 	<s id='1'>Vous lui avez plus d'obligation, que vous ne pensez.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='9'>
 	<s id='1'>Qu'entends-je ? </s>
 	<s id='2'>Me forcer d'avoir obligation à mon rival ? </s>
@@ -1775,7 +1771,7 @@
 	<s id='1'>Pardon, je croyais que c'était vous qui m'aviez offensée.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='11'>
 	<s id='1'>Je ne devrais jamais vous pardonner... </s>
 	<s id='2'>Mais hélas !</s>
@@ -1796,7 +1792,7 @@
 	<s id='1'>J'avoue que je ne m'attendais pas à être querellée, je croyais que vous étiez au désespoir d'avoir joué.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='15'>
 	<s id='1'>Moi, Madame, je serais bien fâchée de ne l'avoir pas fait.</s>
 </p>
@@ -1806,7 +1802,7 @@
 	<s id='1'>Quels discours ?</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='17'>
 	<s id='1'>Oui, je suis ravi d'avoir connu jusqu'où peut aller l'acharnement du jeu sur un homme : j'ai éprouvé cette nuit... </s>
 	<s id='2'>Non, ces coups-là n'arrivent qu'à moi ; cela m'a donné une horreur pour le jeu, et c'est cette horreur qui me charme, puisqu'elle vous répond de ma conduite à venir ; ah ! </s>
@@ -1818,7 +1814,7 @@
 	<s id='1'>Je ne dois plus me fier à vos résolutions.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='19'>
 	<s id='1'>Je sais que vous voulez m'imposer une loi.</s>
 </p>
@@ -1828,7 +1824,7 @@
 	<s id='1'>Avant que de m'expliquer avec vous là-dessus, je veux éprouver votre conduite.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='21'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Belle Angélique, éprouvez-moi dans des choses plus difficiles ; commandez-moi d'exposer ma fortune, ma gloire, ma vie.</s>
@@ -1840,7 +1836,7 @@
 	<s id='2'>Si jusqu'à présent vous n'avez pu me sacrifier seulement votre passion pour le jeu...</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='23'>
 	<s id='1'>C'est bien de même, Madame, c'est bien de même !</s>
 </p>
@@ -1850,7 +1846,7 @@
 	<s id='1'>Cela est tout différent, d'accord.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='25'>
 	<s id='1'>Ce que vous exigez de moi est un si petit sacrifice, qu'en vérité vous ne devriez pas y faire attention, et je ne me fais pas un mérite auprès de vous de ne point jouer ; au contraire vous me faites un vrai plaisir de me le défendre : naturellement je hais le jeu, moi ; l'oisiveté seule me faisait chercher cet amusement ; mais hélas ! </s>
 	<s id='2'>Je serai si pleinement occupé du plaisir d'être à vous.... </s>
@@ -1863,7 +1859,7 @@
 	<s id='1'>Je vais employer l'après-midi à disposer de mes affaires selon la résolution que j'ai prise.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='27'>
 	<s id='1'>Permettez-moi de passer le reste du jour avec vous.</s>
 </p>
@@ -1874,7 +1870,7 @@
 	<s id='2'>vous m'embarrasseriez.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='29'>
 	<s id='1'>Non, Madame, non, je ne puis vivre sans vous voir, quand je devrais vous embarrasser...</s>
 </p>
@@ -1886,7 +1882,7 @@
 	<s id='1'>Voici...</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER, apercevant la bourse.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER, apercevant la bourse.</speaker>
 <p id='2'>
 	<s id='1'>Mais, Madame, vous dites que je vous embarrasserais.</s>
 </p>
@@ -1896,7 +1892,7 @@
 	<s id='1'>Cependant, Chevalier, si vous vouliez...</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='4'>
 	<s id='1'>Non, madame, je vous quitte, il faut se faire violence ; adieu mon unique plaisir.</s>
 </p>
@@ -1905,16 +1901,16 @@
 <p id='5'>
 	<s id='1'>Rendez-vous ce soir chez moi, nous verrons si je puis faire votre bonheur...</s>
 </p>
-<stage type="[N/A]">Angélique s'en va.</stage>
+<stage type="exit">Angélique s'en va.</stage>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='6'>
 	<s id='1'>Vous ferez tout mon bonheur ; adieu tout mon bonheur, adieu.</s>
 </p>
 </sp>
 </div2>
 <div2 type="scene" n='8'><head>SCÈNE VIII. Le Chevalier, Frontin.</head>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER, prenant la bourse.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER, prenant la bourse.</speaker>
 <p id='1'>
 	<s id='1'>Donne vite.</s>
 </p>
@@ -1926,7 +1922,7 @@
 	<s id='3'>Courage, Monsieur, courage ; quelle gloire pour un Joueur converti de triompher l'argent à la main de la rage de l'aller perdre.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='3'>
 	<s id='1'>J'avoue que je me laissais entraîner moins par inclination que par habitude.</s>
 </p>
@@ -1936,7 +1932,7 @@
 	<s id='1'>Tant que vous aurez entre vos mains cet objet de tentation...</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='5'>
 	<s id='1'>Tu as raison ; tiens, va-t'en le porter.</s>
 </p>
@@ -1946,7 +1942,7 @@
 	<s id='1'>Donnez.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER, voyant le Marquis ne donne point la bourse, et va au-devant du Marquis.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER, voyant le Marquis ne donne point la bourse, et va au-devant du Marquis.</speaker>
 <p id='7'>
 	<s id=''>Je suis résolu...</s>
 </p>
@@ -1958,7 +1954,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='9'><head>SCÈNE IX. Le Chevalier, Frontin, Le Marquis.</head>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <note type="L">Bassette : Jeu de cartes qui a été fort commun ces dernières années, et qu'on a été obligé de défendre, à cause qu'il était trop en vogue. [F]</note>
 <p id='1'>
 	<s id='1'>C'est Monsieur le Marquis ; hé de quel pays venez-vous donc ? </s>
@@ -1974,7 +1970,7 @@
 	<s id='3'>je viens de me mettre au lait à une de mes terres ; les veilles, qheu, les disputes, qheu, les jurements nous ruinent la poitrine, à nous autres Joueurs ; vous devriez aussi vous mettre au lait. </s>
 	<s id='4'>Le lait est un grand remède, qheu, je m'en trouve fort bien, qheu ; mais je vous dis fort bien, qheu, q, fort bien, q, fort bien, q, fort bien.</s>
 </p>
-<stage type="[N/A]">Il tousse jusqu'à extinction.</stage>
+<stage type="cough">Il tousse jusqu'à extinction.</stage>
 </sp>
 <sp who='FRONTIN'><speaker>FRONTIN.</speaker>
 <note type="L">Jouer de son reste : Signifie encore prendre un moyen extrême après lequel on n'a plus de ressource. [L]</note>
@@ -1987,7 +1983,7 @@
 	<s id='1'>En arrivant j'apprends une grande nouvelle.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='5'>
 	<s id='1'>On vous a dit peut-être que je me suis retiré du jeu.</s>
 </p>
@@ -2000,7 +1996,7 @@
 	<s id='4'>Cinquante mille écus, dit-on ?...</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='7'>
 	<s id='1'>L'argent me touche peu ; c'est un mariage d'inclination.</s>
 </p>
@@ -2010,7 +2006,7 @@
 	<s id='1'>Pour la beauté, ou pour l'argent, c'est toujours inclination.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='9'>
 	<s id='1'>Et vous, Marquis, ne vous lassez-vous point de la vie de garçon ?</s>
 </p>
@@ -2026,7 +2022,7 @@
 	<s id='1'>La goutte et les poitrines au lait, font la moitié des mauvais ménages.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='12'>
 	<s id='1'>Pour moi qui aime la vie réglée, je vais m'établir solidement.</s>
 </p>
@@ -2038,7 +2034,7 @@
 	<s id='1'>Je ne vois point d'établissement plus solide, que de ponter qu'heu... contre une certaine dupe qui taille chez la Baronne ; c'est un gros boeuf qu'heu... qu'heu.... riche et bête à l'avenant, il taille tant qu'il a de l'argent, et il a de l'argent tant qu'il veut.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='14'>
 	<s id='1'>Bonne pratique, ma foi ! </s>
 	<s id='2'>Bonne pratique !</s>
@@ -2059,7 +2055,7 @@
 	<s id='1'>Si vous étiez d'humeur à vous enrichir.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='18'>
 	<s id='1'>Non, Marquis, non.</s>
 </p>
@@ -2075,7 +2071,7 @@
 	<s id='1'>C'est une tonne d'or que ce gros faquin-là, jamais Banquier n'a taillé plus libéralement ?</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='21'>
 	<s id='1'>En un mot comme en mille je ne joue plus, je ne veux plus jouer.</s>
 </p>
@@ -2086,7 +2082,7 @@
 	<s id='2'>bon à rien ; je vais donc courir les spectacles.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='23'>
 	<s id='1'>Opéra ou Comédie ?</s>
 </p>
@@ -2098,7 +2094,7 @@
 	<s id='2'>Quatre de nos plus gros acteurs vont commencer une représentation la plus éblouissante ; ils ont cavé chacun trois mille louis d'or, qu'heu ; je suis curieux de voir douze mille louis d'or sur un tapis ; cela ne se voit pas tous les jours.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='25'>
 	<s id='1'>La représentation en sera pathétique, mais je vous jure...</s>
 </p>
@@ -2118,7 +2114,7 @@
 	<s id='1'>Pour moi on me permet de perdre ma centaine, et je la risquerai... douze mille louis d'or... en or, d'or, d'or, en or, d'or.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='29'>
 	<s id='1'>J'avoue que c'est un spectacle à voir.</s>
 </p>
@@ -2133,7 +2129,7 @@
 	<s id='1'>Voyez cela, Chevalier.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='32'>
 	<s id='1'>Quand je le verrais, je ne serais point tenté.</s>
 </p>
@@ -2145,7 +2141,7 @@
 	<s id='3'>Allons, allons, je vous empêcherai bien, allons, allons.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='35'>
 	<s id='1'>Écoutez, j'irai, mais au moins vous me promettez que je ne jouerai point.</s>
 </p>
@@ -2203,12 +2199,12 @@
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Angélique, La Comtesse.</head>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE transportée de joie.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE transportée de joie.</speaker>
 <p id='1'>
 	<s id='1'>Que je vous embrasse, ma chère enfant ! </s>
 	<s id='2'>On vient de m'apprendre vos résolutions généreuses, je suis charmée.</s>
 </p>
-<stage type="[N/A]">Elle l'embrasse, et Angélique reste immobile.</stage>
+<stage type="kiss/stay">Elle l'embrasse, et Angélique reste immobile.</stage>
 <p id='2'>
 	<s id='1'>Comment donc, encore du chagrin ; ne devez-vous pas être ravie ?</s>
 </p>
@@ -2218,7 +2214,7 @@
 	<s id='1'>Je ne puis pas sitôt répondre à vos transports de joie.</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE d'un air sérieux.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE d'un air sérieux.</speaker>
 <p id='4'>
 	<s id='1'>Hélas ! </s>
 	<s id='2'>Je ne suis susceptible ni de joie, ni de chagrin ; je n'ai point de passion, moi : et si ce n'était l'amitié...</s>
@@ -2230,7 +2226,7 @@
 	<s id='2'>Quoi qu'il en soit, Madame, je suis très sensible à votre amitié ; je crains seulement de ne la pas mériter autant que vous le pensez.</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE.</speaker>
 <p id='6'>
 	<s id='1'>L'éloignement fortifiera votre sagesse ; éloignez-vous, mon cher coeur, fuyez la cause de vos égarements. </s>
 	<s id='2'>Je veux bien me charger d'apprendre moi-même à ce petit indigne-là, que vous rompez avec lui pour jamais.</s>
@@ -2241,7 +2237,7 @@
 	<s id='1'>Pour jamais, Madame, je ne dis pas cela.</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE.</speaker>
 <p id='8'>
 	<s id='1'>C'est que vous n'osez le dire ; voyez jusqu'où va le mauvais usage du siècle ; les filles sont honteuses d'avouer qu'elles sont sages.</s>
 </p>
@@ -2251,7 +2247,7 @@
 	<s id='1'>Si dans la suite du temps, le Chevalier changeait de conduite...</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE.</speaker>
 <p id='10'>
 	<s id='1'>Il ne se corrigera point ; mais je ne laisse pas de blâmer votre ami Dorante, il devrait vous épouser pour ne vous pas laisser dans le péril de la rechute.</s>
 </p>
@@ -2261,7 +2257,7 @@
 	<s id='1'>Mais, vous, Madame, pour prévenir ma rechute, vous feriez-vous la violence d'épouser le Chevalier ?</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE.</speaker>
 <p id='12'>
 	<s id='1'>Vous me réduisez à une terrible extrémité.</s>
 </p>
@@ -2271,7 +2267,7 @@
 	<s id='1'>Mais s'il n'y avait que cet expédient ?</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE.</speaker>
 <p id='14'>
 	<s id='1'>En vérité je crois que je devrais le faire.</s>
 </p>
@@ -2282,7 +2278,7 @@
 	<s id='2'>Oui, Madame, je vois clairement ce que je n'avais fait que soupçonner.</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE.</speaker>
 <p id='16'>
 	<s id='1'>Soupçonner, Mademoiselle ! </s>
 	<s id='2'>Soupçonner ! </s>
@@ -2294,12 +2290,12 @@
 	<s id='1'>Ce serait pour votre bien.</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE.</speaker>
 <p id='18'>
 	<s id='1'>Quel discours ! </s>
 	<s id='2'>J'ai besoin de toute ma modération.</s>
 </p>
-<stage type="[N/A]">Fort en colère.</stage>
+<stage type="loud/anger">Fort en colère.</stage>
 <p id='19'>
 	<s id='1'>Pour écouter tranquillement vos sottises. </s>
 	<s id='2'>Vous vous fiez sur ce que je suis maîtresse de ma colère ; partez vite.</s>
@@ -2310,7 +2306,7 @@
 	<s id='1'>Mon départ vous exposerait peut-être à certaine passion, dont vous seriez moins maîtresse que de votre colère ; vous avez vos vues pendant mon absence ; vous voulez que je parte, et moi je ne veux plus partir.</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE.</speaker>
 <p id='21'>
 	<s id='1'>À vous entendre, ma petite mignonne, vous n'avez qu'à paraître pour plaire ; cependant vous n'avez pas dans le coeur du Chevalier toute la part dont vous vous flattez.</s>
 </p>
@@ -2320,7 +2316,7 @@
 	<s id='1'>Au moins la part que j'y ai, ne me coûte rien.</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE.</speaker>
 <p id='23'>
 	<s id='1'>Vous n'avez pas assez d'esprit pour railler, vous avez tort de vous en mêler.</s>
 </p>
@@ -2330,7 +2326,7 @@
 	<s id='1'>Je ne me mêle que de plaire au Chevalier.</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE.</speaker>
 <p id='25'>
 	<s id='1'>On peut plaire plus solidement par de certains mérites, où vous n'arriverez jamais.</s>
 </p>
@@ -2370,7 +2366,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV.</head>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE seule.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE seule.</speaker>
 <p id='1'>
 	<s id='1'>Je me suis trop déclarée ; la jalousie a rallumé plus d'amour que la colère n'en avait éteint. </s>
 	<s id='2'>Quel parti prendre ? </s>
@@ -2388,39 +2384,39 @@
 	<s id='3'>Voici le jour heureux que la fortune nous devait : nous sommes riches à jamais.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <note type="L">Provençal : terme de Joueur qui se dit en cette phrase : Faire la Provençale. C'est jeter toutes les cartes les unes après les autres sur le tapis, et en différentes places, afin qu'elles soient mieux brouillées et mêlées. [F]</note>
 <p id='2'>
 	<s id='1'>Oui, Madame, je viens de gagner jusqu'à m'en lasser ; j'ai fait sept mains complètes avec des cartes de reprise, réjouissances, doubles, triples, rien ne tenait devant moi, Madame : la ronde était de douze coupeurs, je prend couleur au seize de couche et de belle, à partie forcée, Madame, je suis laissé d'abord à carte simple, ma main vient, je fais le provençale, on coupe, je donne, ma droite est portée au chandelier, écoutez ceci, Madame...</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE.</speaker>
 <p id='3'>
 	<s id='1'>J'ignore le langage des Joueurs, mais je veux m'en instruire pour vous faire plaisir ; Angélique n'aurait pas tant de complaisance : je suis fâchée de vous apprendre qu'elle ne veut plus vous voir.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER, ricanant.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER, ricanant.</speaker>
 <p id='4'>
 	<s id='1'>Ha, ha, ha, je vous crois, Madame, je vous crois : donne ton chapeau, Frontin.</s>
 </p>
-<stage type="[N/A]">Le Chevalier met dans le chapeau de Frontin des bijoux et de l'argent.</stage>
+<stage type="dress">Le Chevalier met dans le chapeau de Frontin des bijoux et de l'argent.</stage>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE.</speaker>
 <p id='5'>
 	<s id='1'>Pour peu qu'elle vous aimât, elle n'exigeait point que vous vous privassiez du jeu, qui dans le fond n'est qu'un délassement d'esprit tolérable.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='6'>
 	<s id='1'>Votre exhortation de tantôt était plus sévère.</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE.</speaker>
 <p id='7'>
 	<s id='1'>Au reste, Chevalier, je suis ravie d'avoir contribué à votre gain en vous prêtant...</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='8'>
 	<s id='1'>Prêter ! </s>
 	<s id='2'>À moi prêter ! </s>
@@ -2432,7 +2428,7 @@
 	<s id='1'>L'argent de Madame vous a porté bonheur, ne le méconnaissez pas.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='10'>
 	<s id='1'>Quoi ! </s>
 	<s id='2'>Les deux cents pistoles que tu m'a données, c'est Madame qui...</s>
@@ -2443,7 +2439,7 @@
 	<s id='1'>Je vous l'ai dit, Monsieur, c'est le mémoire.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='12'>
 	<s id='1'>Tu es un coquin.</s>
 </p>
@@ -2453,7 +2449,7 @@
 	<s id='1'>Monsieur.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='14'>
 	<s id='1'>Un fripon.</s>
 </p>
@@ -2463,7 +2459,7 @@
 	<s id='1'>Ah !</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='16'>
 	<s id='1'>Ne t'ai-je pas défendu en présence de Madame de parler du mémoire ?</s>
 </p>
@@ -2473,49 +2469,49 @@
 	<s id='1'>C'est une faute de jugement.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='18'>
 	<s id='1'>Voici de quoi vous rendre.</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE.</speaker>
 <p id='19'>
 	<s id='1'>C'est une bagatelle.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='20'>
 	<s id='1'>Non, Madame, il faut...</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE.</speaker>
 <p id='21'>
 	<s id='1'>Non, je veux que vous gardiez cela.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='22'>
 	<s id='1'>Écoutez, Madame, il y a des argents heureux. </s>
 	<s id='2'>Je veux encore gagner avec le vôtre. </s>
 	<s id='3'>Le jeu me doit cent mille écus, et je les gagnerai dans peu ; j'ai attrapé la veine.</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE.</speaker>
 <p id='23'>
 	<s id='1'>Vous pourriez concevoir des espérances plus solides, s'il était vrai que vous eussiez pour moi...</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='24'>
 	<s id='1'>Beaucoup de respect, Madame, de vénération pour vos vertus.</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE.</speaker>
 <p id='25'>
 	<s id='1'>Frontin m'a expliqué vos sentiments, et...</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='26'>
 	<s id='1'>Maraud ! </s>
 	<s id='2'>Tu me fais parler je crois ?</s>
@@ -2526,14 +2522,14 @@
 	<s id='1'>Prenons patience, Madame, quand la perte l'aura humilié, il nous traitera tous deux plus respectueusement.</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE.</speaker>
 <p id='28'>
 	<s id='1'>Votre vanité vous fait prendre à la lettre... </s>
 	<s id='2'>Je voulais seulement connaître votre ingratitude... </s>
 	<s id='3'>On sait le mépris que j'ai pour les hommes, et je n'en connais point de si méprisables que vous.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER comptant son argent dans son chapeau.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER comptant son argent dans son chapeau.</speaker>
 <p id='29'>
 	<s id='1'>Un, deux, trois, quatre, cinq.</s>
 </p>
@@ -2550,7 +2546,7 @@
 	<s id='1'>Bonjour, Monsieur, bonjour ; le Portier m'a dit que vous ne parliez à personne, cela m'a fait croire que vous aviez de l'argent.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER comptant dans son chapeau.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER comptant dans son chapeau.</speaker>
 <p id='3'>
 	<s id='1'>Dix-huit, dix-neuf, et vingt.</s>
 </p>
@@ -2565,7 +2561,7 @@
 	<s id='1'>Monsieur, ma mère vous supplie très humblement de vous souvenir d'elle à votre commodité.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='6'>
 	<s id='1'>Vingt-huit, vingt-neuf et trente.</s>
 </p>
@@ -2585,7 +2581,7 @@
 	<s id='1'>Je suis bien en peine, laquelle des deux sera plutôt payée ; l'une par brutalité, l'autre par douceur.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='10'>
 	<s id='1'>Vous prenez mal votre temps, je n'ai pas un sol.</s>
 </p>
@@ -2595,7 +2591,7 @@
 	<s id='1'>Son faible est de ne payer ni l'une ni l'autre.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='12'>
 	<s id='1'>Ne voyez-vous pas que c'est de l'argent du jeu, si je lui dérobais seulement une pistole, je reperdrais tout, vous ne voudriez pas me ruiner. </s>
 	<s id='2'>Écoutez, Madame Brusquan, j'ai d'autres fonds destinés pour mes créanciers ; dans peu de temps il me sera dû quelque petite partie d'une petite rente...</s>
@@ -2614,7 +2610,7 @@
 	<s id='2'>Je ne saurais entendre jurer des femmes, adieu Monsieur.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='15'>
 	<s id='1'>Adieu l'aimable Babiche, elle embellit tous les jours.</s>
 </p>
@@ -2654,7 +2650,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='8'><head>SCÈNE VIII. Le Chevalier, Frontin, Dorante.</head>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='1'>
 	<s id='1'> Vous voyez l'insolence, j'allais payer cette créature-là, si elle avait pris le parti de la douceur ; et je la payerai dans peu, seulement pour dégager votre parole.</s>
 </p>
@@ -2665,7 +2661,7 @@
 	<s id='2'>Qu'est-ce donc, Chevalier, j'apprends qu'Angélique a rompu de nouveau avec vous.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='3'>
 	<s id='1'>J'obtiendrai facilement pardon, quand on gagne on n'a pas tort ; et je n'aurais pas joué sans un pressentiment sûr. </s>
 	<s id='2'>On ne refuse point à gagner sûrement deux mille louis d'or.</s>
@@ -2676,7 +2672,7 @@
 	<s id='1'>Angélique ne se payera pas de cette excuse.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='5'>
 	<s id='1'>Elle s'en payera ; elle est trop raisonnable, je crois qu'elle s'en payera ; en tout cas l'état d'un garçon aisé a de quoi consoler.</s>
 </p>
@@ -2692,7 +2688,7 @@
 	<s id='1'>L'indifférence où je vous vois pour Angélique m'autorise à vous donner un avis.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <note type="L">Pâte : Fig. et familièrement. Complexion, constitution. Il se dit, d'une façon analogue, du caractère et des dispositions morales. [L]</note>
 <p id='8'>
 	<s id='1'>Volontiers nous nous disons nos vérités sans nous fâcher ; nous sommes deux rivaux d'une bonne pâte.</s>
@@ -2713,13 +2709,13 @@
 	<s id='1'>Convenez de bonne foi qu'Angélique n'eût pas été fort heureuse avec vous.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='12'>
 	<s id='1'>N'eût pas été ! </s>
 	<s id='2'>Comment donc n'eût pas été ? </s>
 	<s id='3'>J'espère bien qu'elle le sera ; je vous conseille de la plaindre, la pauvre enfant sera fort à plaindre avec des aubaines comme cela... </s>
 </p>
-<stage type="[N/A]">Montrant son Chapeau plein d'argent.</stage>
+<stage type="show">Montrant son xhapeau plein d'argent.</stage>
 <p id='13'>
 	<s id='1'>Mon cher ami, vous serez le seul à plaindre de cette affaire-ci ; mais consolez-vous, l'espérance est votre partage. </s>
 	<s id='2'>Vous pouvez attendre Angélique en secondes noces ; je suis usé moi par le jeu, je mourrai quelque jour, et pour lors Angélique fera une très jolie veuve.</s>
@@ -2732,7 +2728,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='9'><head>SCÈNE IX. Le Chevalier, Frontin.</head>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='1'>
 	<s id='1'>Je lui pardonne de se fâcher, il aime sans être aimé ; c'est une situation affligeante.</s>
 </p>
@@ -2744,7 +2740,7 @@
 	<s id='3'>Maîtresse oubliée.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER montrant son argent.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER montrant son argent.</speaker>
 <p id='3'>
 	<s id='1'>Voici ma ressource, mon ami et ma maîtresse. </s>
 	<s id='2'>Il faut convenir que le jeu est une charmante chose. </s>
@@ -2759,7 +2755,7 @@
 	<s id='1'>Monsieur, il serait pourtant bon de ménager Angélique, et de voir la situation de son esprit.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='5'>
 	<s id='1'>Vois cela toi, vois, vois cela, je suis accablé d'affaires.</s>
 </p>
@@ -2769,7 +2765,7 @@
 	<s id='1'>Cependant vous devriez...</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='7'>
 	<s id='1'>Je prétends bien la voir aujourd'hui.</s>
 </p>
@@ -2781,7 +2777,7 @@
 	<s id='3'>lui dirai-je, que vous la verrez à sept, huit, neuf heures.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='9'>
 	<s id='1'>La séance ne sera pas encore finie.</s>
 </p>
@@ -2791,7 +2787,7 @@
 	<s id='1'>Entre neuf et dix.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='11'>
 	<s id='1'>Bon à dix heures, on commence la grosse partie chez l'Abbé.</s>
 </p>
@@ -2801,7 +2797,7 @@
 	<s id='1'>À onze heures, aussi c'est bien tard.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <note type="L">Piquée : Fig. Qui est ému par quelque sentiment vif comme par une piqûre. [L]</note>
 <p id='13'>
 	<s id='1'>À onze heures, non, c'est l'heure des femmes piquées.</s>
@@ -2812,7 +2808,7 @@
 	<s id='1'>Et à minuit Angélique sera couchée.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='15'>
 	<s id='1'>N'importe, va, demande-lui toujours son heure : je cours à la fortune.</s>
 </p>
@@ -2822,7 +2818,7 @@
 	<s id='1'>Monsieur.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='17'>
 	<s id='1'>Courons à la fortune, la fortune nous attend, courons, courons à la fortune.</s>
 </p>
@@ -2839,7 +2835,7 @@
 	<s id='4'>elle nous attend à l'Hôpital.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='2'>
 	<s id='1'>Il faut avouer que le jeu est une passion bien abominable.</s>
 </p>
@@ -2849,11 +2845,11 @@
 	<s id='1'>Le jeu est un Pérou pour un homme qui a de la conduite.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='4'>
 	<s id='1'>Pour ce maudit jeu on oublie tout, devoir, fortune, amis maîtresse.</s>
 </p>
-<stage type="[N/A]">Embrassant Frontin.</stage>
+<stage type="kiss">Embrassant Frontin.</stage>
 <p id='5'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Mon pauvre Frontin !</s>
@@ -2864,7 +2860,7 @@
 	<s id='1'>Vos deux mille Louis d'or sont partis ; mais en récompense il vous est revenu de la douceur d'esprit et de la morale.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='7'>
 	<s id='1'>Je serais à demi consolé, si le Marquis me rapportait le portrait qu'il m'a gagné ; il m'a promis de venir me le mettre sur une carte contre un petit contrat qui me reste encore là-haut.</s>
 </p>
@@ -2874,7 +2870,7 @@
 	<s id='1'>Vous avez perdu le portrait de votre maîtresse ?</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='9'>
 	<s id='1'>Que veux-tu, quand la fureur du jeu me possède...</s>
 </p>
@@ -2884,7 +2880,7 @@
 	<s id='1'>Vous joueriez l'Original s'il était garni de diamants.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='11'>
 	<s id='1'>J'entends le Marquis, il monte à ma chambre. </s>
 	<s id='2'>Va dire à Angélique que je suis dans un instant au rendez-vous qu'elle m'a donné, je vais regagner son portrait.</s>
@@ -3037,7 +3033,7 @@
 <p id='8'>
 	<s id='1'>Non, Madame...</s>
 </p>
-<stage type="mezzo voce">Bas.</stage>
+<stage type="low">Bas.</stage>
 <p id='9'>
 	<s id='1'>Commencez à vous servir du conseil que je vous ai donné, pour connaître le fond du coeur de cet homme-là.</s>
 </p>
@@ -3052,14 +3048,14 @@
 	<s id='2'>Ne m'abandonnez pas.</s>
 </p>
 </sp>
-<sp who='FRONTIN'><speaker>FRONTIN, seul.</speaker>
+<sp stage="alone" who='FRONTIN'><speaker>FRONTIN, seul.</speaker>
 <p id='12'>
 	<s id='1'>Ils ont machiné quelque chose contre mon maître, je voudrais bien voir comment il s'en tirera.</s>
 </p>
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII. Frontin, Le Marquis, Le Chevalier.</head>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER un jeu de cartes à la main.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER un jeu de cartes à la main.</speaker>
 <p id='1'>
 	<s id='1'>Vous me coupez la gorge ! </s>
 	<s id='2'>Oui monsieur, c'est me couper la gorge que de me quitter sur ma perte ; je perds cinq cent pistoles de suite contre un portrait que je veux r'avoir.</s>
@@ -3071,7 +3067,7 @@
 	<s id='2'>Il y a huit jours que je n'ai pas dormi.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='3'>
 	<s id='1'>Il faut dormir, Monsieur, il est permis de dormir, dormez Monsieur dormez dormez, mais, tenez-moi jeu seulement le reste de la nuit.</s>
 </p>
@@ -3082,7 +3078,7 @@
 	<s id='2'>Vous êtes insatiable, qu'heu ; je vous gagne cinq cent pistoles sur votre parole, ne devez-vous pas être content.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='5'>
 	<s id='1'>Je le suis aussi, je ne me plains pas de vos manières, vous êtes beau Joueur, honnête Joueur, galant homme.</s>
 </p>
@@ -3096,7 +3092,7 @@
 	<s id='1'>Non, Monsieur, qu'heu, je ne veux point vous pousser à bout.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='8'>
 	<s id='1'>Hé ! </s>
 	<s id='2'>Monsieur, achevez-moi, par grâce, ruinez-moi, que je vous aie cette obligation-là, ruinez-moi.</s>
@@ -3108,7 +3104,7 @@
 	<s id='2'>Ne l'êtes-vous pas ruiné ?</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER se jetant à genoux.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER se jetant à genoux.</speaker>
 <p id='10'>
 	<s id='1'>Je vous en conjure, abîmez-moi.</s>
 </p>
@@ -3120,19 +3116,19 @@
 </sp>
 </div2>
 <div2 type="scene" n='8'><head>SCÈNE VIII. Le Chevalier, Frontin.</head>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='1'>
 	<s id='1'>Il s'en va... </s>
 	<s id='2'>Après m'avoir gagné mon âme, je taille, je perds tout sur la même carte, et c'est un valet...</s>
 </p>
-<stage type="[N/A]">Restant immobile, et regardant le valet qu'il tire du jeu de cartes, laissant tomber le reste.</stage>
+<stage type="stop/watch">Restant immobile, et regardant le valet qu'il tire du jeu de cartes, laissant tomber le reste.</stage>
 <p id='2'>
 	<s id='1'>Ah traître de valet ! </s>
 	<s id='2'>Tu es ma carte d'aversion... </s>
 	<s id='3'>D'aversion... </s>
 	<s id='4'>Tu es ma bête, bourreau, scélérat, infâme.</s>
 </p>
-<stage type="[N/A]">Tenant la carte dans les dents et secouant la tête.</stage>
+<stage type="get">Tenant la carte dans les dents et secouant la tête.</stage>
 <p id='3'>
 	<s id='1'>Hon, que n'es-tu en vie.</s>
 </p>
@@ -3141,14 +3137,14 @@
 	<s id='1'>Que je suis malheureux ! </s>
 	<s id='2'>Injuste valet de pique, que t'ai-je fait pour me persécuter ?...</s>
 </p>
-<stage type="[N/A]">Colère violente.</stage>
+<stage type="anger">Colère violente.</stage>
 <note type="L">Sonica : Terme du jeu de la Bassette, qui a passé dans le discours familier. À point nommé : il est arrivé sonica. [FC]</note>
 <p id='5'>
 	<s id='1'>Parle donc, parle valet détestable ? </s>
 	<s id='2'>Pourquoi t'acharnes-tu sur moi ? </s>
 	<s id='3'>Tu viens quatre fois quatre fois sonica sonica.</s>
 </p>
-<stage type="[N/A]">De rage il jette sur le flambeau, le Chapeau de Frontin, et tombe dans un fauteuil.</stage>
+<stage type="anger/throw/sit">De rage il jette sur le flambeau, le Chapeau de Frontin, et tombe dans un fauteuil.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='9'><head>SCÈNE IX. Le Chevalier, Frontin, Nérine, Angélique.</head>
@@ -3157,7 +3153,7 @@
 	<s id='1'>Il a éteint la lumière.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER doucement et par réflexion.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER doucement et par réflexion.</speaker>
 <p id='2'>
 	<s id='1'>Un homme vient me trouver, me gagne tout mon bien, cela est-il naturel ? </s>
 	<s id='2'>Je suis filouté, oui, je suis volé, volé ; mais je n'ai que ce que je mérite. </s>
@@ -3165,27 +3161,27 @@
 	<s id='4'>Ô ! </s>
 	<s id='5'>Joue à cette heure que tu n'as pas un sol ; joue...</s>
 </p>
-<stage type="[N/A]">Ironiquement.</stage>
+<stage type="ironic">Ironiquement.</stage>
 <p id='3'>
 	<s id='1'>Joue Chevalier mon ami, joue mon enfant, joue mon coeur.</s>
 </p>
-<stage type="[N/A]">Se frappant la tête du poing.</stage>
+<stage type="hit">Se frappant la tête du poing.</stage>
 <p id='3'>
 	<s id='1'>Joue maraud, joue traître, joue enragé maudit ; tu as joué ton bien, ton sang, ô joue-toi, toi-même... </s>
 	<s id='2'>Me voilà ruiné... </s>
 	<s id='3'>J'en suis ravi, j'en suis ravi...</s>
 </p>
-<stage type="[N/A]">Vite.</stage>
+<stage type="quick">Vite.</stage>
 <p id='4'>
 	<s id='1'>J'en suis ravi...</s>
 </p>
-<stage type="[N/A]">Par secousses.</stage>
+<stage type="shake">Par secousses.</stage>
 <p id='5'>
 	<s id='1'>Je ga...gne... deux... mille pistoles, et je ne veux pas quitter ; oui deux mille pistoles, tu les gagnais, et tu n'es pas content, insatiable !... </s>
 	<s id='2'>Que veux-tu donc gagner ? </s>
 	<s id='3'>Le diable : tu gagneras la rage qui te crève, la peste qui t'étouffe...</s>
 </p>
-<stage type="[N/A]">Désespoir.</stage>
+<stage type="desparate">Désespoir.</stage>
 <p id='6'>
 	<s id='1'>Un poignard, un poignard... </s>
 	<s id='2'>pour te poignarder.</s>
@@ -3209,7 +3205,7 @@
 	<s id='1'>Tout est perdu, Angélique vient d'entrer, elle aura entendu le poignard, allons Monsieur, il faut jouer ici de tête.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER, après s'être un peu remis.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER, après s'être un peu remis.</speaker>
 <p id='10'>
 	<s id='1'>Oui, je devrais me poignarder, puisque j'ai déplu à l'adorable Angélique.</s>
 </p>
@@ -3218,14 +3214,14 @@
 <p id='11'>
 	<s id='1'>Fort bien.</s>
 </p>
-<stage type="forte">Haut.</stage>
+<stage type="loud">Haut.</stage>
 <p id='12'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Que Angélique est heureuse d'être aimée si sincèrement ! </s>
 	<s id='3'>Monsieur si vous alliez vous jeter à ses pieds.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='13'>
 	<s id='1'>Non : je veux éviter sa présence ; peut-être qu'elle aurait assez de tendresse pour me pardonner, je ne mérite plus qu'elle me pardonne ; il faut que le désespoir...</s>
 </p>
@@ -3259,7 +3255,7 @@
 	<s id='3'>Parlez-moi donc ?</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='19'>
 	<s id='1'>Laissez-moi me punir.</s>
 </p>
@@ -3269,7 +3265,7 @@
 	<s id='1'>Demeurez.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='21'>
 	<s id='1'>Vous avez encore la faiblesse de m'arrêter ? </s>
 	<s id='2'>Mais hélas ! </s>
@@ -3286,7 +3282,7 @@
 	<s id='1'>Voici le fait ; Mademoiselle veut bien que vous disposiez de sa personne, mais elle ne veut pas que vous puissiez disposer de son bien.</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='24'>
 	<s id='1'>Ah, charmante Angélique, je ne veux posséder que vous ; trop heureux de vous donner cette preuve de mon amour et de mon désintéressement. </s>
 	<s id='2'>Mais je fais réflexion que vous manquez de confiance en moi, et vous dites que vous m'aimez.... </s>
@@ -3300,7 +3296,7 @@
 	<s id='1'>Venez guérir la délicatesse de Monsieur.</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE.</speaker>
 <p id='2'>
 	<s id='1'>Qu'y a-t-il donc ?</s>
 </p>
@@ -3315,7 +3311,7 @@
 	<s id='1'>Par délicatesse d'amour, Monsieur veut ruiner sa maîtresse, et elle lui propose grossièrement une séparation de biens...</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE.</speaker>
 <p id='5'>
 	<s id='1'>Pour moi si j'estimais un homme, je le rendrais maître absolu de tout ce que je possède.</s>
 </p>
@@ -3330,7 +3326,7 @@
 	<s id='1'>Hé bien, Chevalier, acceptez-vous ma proposition ?</s>
 </p>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='8'>
 	<s id='1'>Non, mademoiselle, non, vous n'avez que l'intérêt en vue, et moi c'est le coeur seul que je demande.</s>
 </p>
@@ -3347,19 +3343,19 @@
 </sp>
 </div2>
 <div2 type="scene" n='11'><head>SCÈNE XI. Le Chevalier, Frontin, La Comtesse.</head>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='1'>
 	<s id='1'>Je n'en suis point jaloux, je suis si pénétré des bontés de Madame la Comtesse...</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
+<sp who='LA COMTESSE'><speaker>LA COMTESSE.</speaker>
 <p id='2'>
 	<s id='1'>Vous avez entendu ce que je viens de dire, je ne m'en dédis point ; oui Chevalier, je sacrifierais tout pour un homme que j'estimerais, mais vous vous êtes rendu indigne de mon estime, cherchez une autre dupe que moi.</s>
 </p>
 </sp>
 </div2>
 <div2 type="scene" n='12'><head>SCÈNE DERNIÈRE. Le Chevalier, Frontin.</head>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <p id='1'>
 	<s id='1'>Angélique, Dorante, la Comtesse, tout m'abandonne !</s>
 </p>

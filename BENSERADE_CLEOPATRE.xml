@@ -7,9 +7,9 @@
 				<author born='1613' born_location='Lyons-la-Forêt' death='1691' death_location='Gentilly' academie='1674'>BENSÉRADE, Isaac de</author>
 			</titleStmt>
 			<publicationStmt>	
-				<p>publié par Paul FIEVRE</p><p>Mai 2006</p>
-			<idno></idno>
-</publicationStmt>
+				<publisher>publié par Paul FIEVRE, Mai 2006</publisher>
+				<idno>BENSERADE_CLEOPATRE</idno>
+			</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire romaine</inspiration>
@@ -18,10 +18,6 @@
 				<periode>1631-1640</periode>
 				<taille>1750-2000</taille>
 				<permalien>http://gallica.bnf.fr/ark:/12148/bpt6k71387c</permalien>
-				<sources>
-					<source id="1"><author/><text/></source>
-				</sources>	
-
 			</SourceDesc>
 		</fileDesc>
 </teiHeader>
@@ -39,7 +35,7 @@
 				<p>Par grâce et privilège du roi en date du vingt-deuxième jour de février mille six cent trente-six, signé par le Roi en son conseil Chapelain, il est permis au sieur Isaac de Bensérade écuyer, de faire imprimer une tragédie de sa composition, intitulée CLEOPATRE, ou à ceux qui auront droit de lui, de défenses sont faites à tous autres libraires et imprimeurs de contrefaire le livre, ni en vendre et distribuer d'autres que de ceux qu'aura fait faire le dit Sieur Bensérade, ou ceux qui auront droit de lui, et ce durant le temps et espace de neuf ans, à compter du jour que le dit livre sera achevé d'imprimer, à peine de trois mille livres d'amende, et de tous dépends dommage et intérêts, ainsi qu'il est plus au long dans les dites lettres.</p>
 				<p>Et le dit sieur de Bensérade a cédé, et transporté le susdit privilège à ANTOINE DE SOMMAVILLE, marchand libraire à Paris, pour jouir par lui du dit privilège de temps ci mentionné suivant l'accord fait entre eux.</p>
 			</privilege>
-			<acheveImprime id="1636-03-29">Achevé d'imprimer le 29. jour  de mars 1636.</acheveImprime>
+			<acheveImprime id="1636-03-29">Achevé d'imprimer le 29. jour de mars 1636.</acheveImprime>
 			<printer id='Antoine de Sommaville'>À PARIS, chez ANTOINE de SOMMAVILLE, au Palais dans la petite salle à l'Ecu de France.</printer>
 		</docImprint>
 		<performance>
@@ -60,18 +56,18 @@
 			<l id="3">Ce que je refusais de faire pour Octave,</l>
 			<l id="4">Ma générosité le fait pour Richelieu.</l>
 		</stanza>
-      	<stanza type="quatrain" n="2">
+   	<stanza type="quatrain" n="2">
 			<l id="5">Qu'il triomphe de moi, qu'il me traite en esclave,</l>
 			<l id="6">Rien ne peut m'empêcher de le suivre en tout lieu,</l>
 			<l id="7">Et le char d'un vainqueur si puissant, et si brave</l>
 			<l id="8">Mérite qu'une reine en soutienne l'essieu.</l>
 		</stanza>
-      	<stanza type="tercet" n="1">
+   	<stanza type="tercet" n="1">
 			<l id="9">Ha ! Grand duc, si le maître, et d'Antoine, et de moi,</l>
 			<l id="10">Eut eu les qualités que l'on remarque en toi,</l>
 			<l id="11">Et ces rares vertus dont l'éclat te renomme,</l>
 		</stanza>
-      	<stanza type="tercet" n="2">
+   	<stanza type="tercet" n="2">
 			<l id="12">J'aurais plutôt choisi les fers que le tombeau,</l>
 			<l id="13">Oui j'aurais voulu vivre, et la superbe Rome</l>
 			<l id="14">Aurait vu Cléopâtre autrement qu'en tableau.</l>
@@ -92,8 +88,8 @@
 		<castItem><role id="EROS" sex="1" type="H" statut='affranchi' age='A' stat_amour='néant'>EROS</role>, affranchi d'Antoine.</castItem>
 		<castItem><role id="EPAPHRODITE" sex="1" type="H" statut='affranchi' age='A' stat_amour='néant'>EPAPHRODITE</role>, affranchi de César.</castItem>
 		<castItem><role id="SUITE" sex="9" type="H" statut='suite' age='A' stat_amour='néant'>SUITE de CÉSAR</role>.</castItem>
-   </castList>
-   <set location='Alexandrie' country='Egypte' periode='Ier avant JC' link=''>La scène est à Alexandrie.</set>
+  </castList>
+  <set location='Alexandrie' country='Egypte' periode='Ier avant JC' link=''>La scène est à Alexandrie.</set>
 </front>
 <body>
 <div1 type="act" n="1"><head>ACTE I</head>
@@ -118,10 +114,10 @@
 	<l id="17">Hélas leur désespoir vaut mieux que mon attente !</l>
 </sp>
 <sp who="LUCILE"><speaker>LUCILE.</speaker>
-	<l id="18" part="i">Ce sont traits de fortune.</l>
+	<l id="18" syll="6" part="i">Ce sont traits de fortune.</l>
 </sp>
 <sp who="ANTOINE"><speaker>ANTOINE.</speaker>
-	<l id="18" part="f">Ha qu'elle est inconstante !</l>
+	<l id="18" syll="6" part="f">Ha qu'elle est inconstante !</l>
 	<l id="19">Vois comme elle a changé, tout vivait sous ma loi,</l>
 	<l id="20">Je pensais que le ciel fut au dessous de moi,</l>
 	<l id="21">Mais les dieux aux plus grands font voir qu'ils ont des maîtres,</l>
@@ -138,10 +134,10 @@
 	<l id="32">Sans toi je me dirais tout à fait malheureux.</l>
 </sp>
 <sp who="LUCILE"><speaker>LUCILE.</speaker>
-	<l id="33" part="i">Je serais bien ingrat.</l>
+	<l id="33" syll="6" part="i">Je serais bien ingrat.</l>
 </sp>
 <sp who="ANTOINE"><speaker>ANTOINE.</speaker>
-	<l id="33" part="f">Moins que cette inhumaine</l>
+	<l id="33" syll="6" part="f">Moins que cette inhumaine</l>
 	<l id="34">Qui trahit ma fortune, et qui cause ma peine,</l>
 	<l id="35">Cruel ressouvenir de mes vieilles douleurs !</l>
 	<l id="36">Cléopâtre, Lucile, a fait tous mes malheurs,</l>
@@ -175,10 +171,10 @@
 	<l id="62">Nous ne sommes vaincus que par notre faiblesse :</l>
 	<l id="63">Chassez de votre esprit ces injustes soupçons,</l>
 	<l id="64">Le sort vous persécuté en assez de façons ;</l>
-	<l id="65" part="i">La reine vous trahit ?</l>
+	<l id="65" syll="6" part="i">La reine vous trahit ?</l>
 </sp>
 <sp who="ANTOINE"><speaker>ANTOINE.</speaker>
-	<l id="65" part="f">Oui me trahit, Lucile,</l>
+	<l id="65" syl="6" part="f">Oui me trahit, Lucile,</l>
 	<l id="66">De tous mes ennemis elle est la plus subtile,</l>
 	<l id="67">Bien que ceux qui m'aimaient se retirent de moi,</l>
 	<l id="68">Bien que je trouve en eux des manquements de foi,</l>
@@ -190,10 +186,10 @@
 	<l id="74">C'était là le seul coup qui me pouvait abattre.</l>
 </sp>
 <sp who="LUCILE"><speaker>LUCILE.</speaker>
-	<l id="75" part="i">Trahi d'elle ? Et comment ?</l>
+	<l id="75" syll="6" part="i">Trahi d'elle ? Et comment ?</l>
 </sp>
 <sp who="ANTOINE"><speaker>ANTOINE.</speaker>
-	<l id="75" part="f">Par des voeux complaisants,</l>
+	<l id="75" syll="6" part="f">Par des voeux complaisants,</l>
 	<l id="76">S'entendre avec César, lui faire des présents,</l>
 	<l id="77">Lui prêter contre moi le secours de mes armes,</l>
 	<l id="78">Employer pour lui plaire, et ma vie, et ses charmes,</l>
@@ -235,10 +231,10 @@
 	<l id="106">Nous ferons voir aussi des effets de courage,</l>
 	<l id="107">Et quoi que tout vous quitte en ce malheur commun,</l>
 	<l id="108">Cent se perdront encor pour en conserver un.</l>
-	<l id="109" part="i">Mais j'aperçois la reine.</l>
+	<l id="109" syll="6" part="i">Mais j'aperçois la reine.</l>
 </sp>
 <sp who="ANTOINE"><speaker>ANTOINE.</speaker>
-	<l id="109" part="f">À l'aspect de ses charmes</l>
+	<l id="109" syll="6" part="f">À l'aspect de ses charmes</l>
 	<l id="110">Quel juste désespoir ne mettrait bas les armes ?</l>
 	<l id="111">Quand je vois sa beauté qui trouble ma raison,</l>
 	<l id="112">Je ne puis soupçonner son coeur de trahison,</l>
@@ -246,8 +242,8 @@
 	<l id="114">Et je crois qu'elle m'aime, à cause qu'elle est belle.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II.  Cléopâtre, Antoine, Lucile, Eras, Charmion, Dircet, et autres gardes.</head>
-<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE à Antoine.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II. Cléopâtre, Antoine, Lucile, Eras, Charmion, Dircet, et autres gardes.</head>
+<sp stage="toward" who="CLEOPATRE"><speaker>CLÉOPÂTRE, à Antoine.</speaker>
 	<l id="115">Avez-vous résolu de sortir aujourd'hui</l>
 	<l id="116">Pour combler tous mes sens de frayeur, et d'ennui ?</l>
 <note type="L">Bellone : dieu qui personnifie la guerre et accompagne Mars.</note>
@@ -339,10 +335,10 @@
 	<l id="192">Je serais malheureux, si je ne l'étais pas.</l>
 </sp>
 <sp who="LUCILE"><speaker>LUCILE.</speaker>
-	<l id="193" part="i">Nous tardons bien longtemps.</l>
+	<l id="193" syll="6" part="i">Nous tardons bien longtemps.</l>
 </sp>
 <sp who="ANTOINE"><speaker>ANTOINE continue.</speaker>
-	<l id="193" part="f">Mais votre foi m'assure,</l>
+	<l id="193" syll="6" part="f">Mais votre foi m'assure,</l>
 	<l id="194">Mon soupçon vous offense, et lui fait une injure,</l>
 	<l id="195">Et quand je souffrirais un tourment infini,</l>
 	<l id="196">Ma peine serait douce, et mon crime impuni.</l>
@@ -375,11 +371,11 @@
 	<l id="217">Mon coeur n'affecte plus cette grandeur suprême,</l>
 	<l id="218">Ma honte c'est ma gloire, et pour tout dire, j'aime.</l>
 </sp>
-<sp who="LUCILE"><speaker>LUCILE, tout bas.</speaker>
+<sp stage="low" who="LUCILE"><speaker>LUCILE, tout bas.</speaker>
 	<l id="219">Qu'amour en peu de temps rend un coeur abattu,</l>
 	<l id="220">Et que ce puissant vice affaiblit la vertu !</l>
 </sp>
-<sp who="ANTOINE"><speaker>ANTOINE, à Lucile.</speaker>
+<sp stage="toward" who="ANTOINE"><speaker>ANTOINE, à Lucile.</speaker>
 	<l id="221">Tu vois que mes projets sont réduits en fumée,</l>
 	<l id="222">Lucile, prends le soin de conduire l'armée,</l>
 	<l id="223">Puisque cette beauté qui me tient sous sa loi</l>
@@ -461,10 +457,10 @@
 	<l id="284">Madame, il a raison de vous en soupçonner.</l>
 </sp>
 <sp who="CLEOPATRE"><speaker>CLÉOPÂTRE.</speaker>
-	<l id="285" part="i">Que dites-vous ?</l>
+	<l id="285" syll="4" part="i">Que dites-vous ?</l>
 </sp>
 <sp who="ERAS"><speaker>ERAS.</speaker>
-	<l id="285" part="f">Il sait que sa maîtresse l'aime,</l>
+	<l id="285" syll="8" part="f">Il sait que sa maîtresse l'aime,</l>
 	<l id="286">Mais croit-il votre coeur ennemi de soi-même ?</l>
 	<l id="287">Que sans le soulager vous puissiez vous trahir,</l>
 	<l id="288">Et que pour trop l'aimer, vous deviez vous haïr ?</l>
@@ -505,10 +501,10 @@
 </sp>
 <sp who="CHARMION"><speaker>CHARMION.</speaker>
 	<l id="321">Que votre majesté pense au doux nom de mère,</l>
-	<l id="322" part="i">Songez à vos enfants.</l>
+	<l id="322" syll="6" part="i">Songez à vos enfants.</l>
 </sp>
 <sp who="CLEOPATRE"><speaker>CLÉOPÂTRE.</speaker>
-	<l id="322" part="f">Oublierai-je leur père ?</l>
+	<l id="322" syll="6" part="f">Oublierai-je leur père ?</l>
 </sp>
 <sp who="CHARMION"><speaker>CHARMION.</speaker>
 	<l id="323">Mais si le pauvre Antoine est sensible à son mal,</l>
@@ -663,10 +659,10 @@
 	<l id="448">Est un des plus grands points de ta commission.</l>
 </sp>
 <sp who="AGRIPE"><speaker>AGRIPE.</speaker>
-	<l id="449" part="i">Vous m'honorez beaucoup.</l>
+	<l id="449" syll="6" part="i">Vous m'honorez beaucoup.</l>
 </sp>
 <sp who="CESAR"><speaker>CÉSAR.</speaker>
-	<l id="449" part="f">Presse, et force à se rendre</l>
+	<l id="449" syll="6" part="f">Presse, et force à se rendre</l>
 	<l id="450">Cette ville en état de ne se plus défendre,</l>
 	<l id="451">Si son peuple affaibli veut faire le mutin,</l>
 	<l id="452">Signale de son sang ton glorieux butin,</l>
@@ -714,10 +710,10 @@
 	<l id="488">Et puisqu'elle n'a pas secondé vos desseins,</l>
 	<l id="489">Dans la condition qui vous rend déplorable</l>
 	<l id="490">Une honteuse paix vous serait honorable,</l>
-	<l id="491" part="i">Qu'on en parle à César.</l>
+	<l id="491" syll="6" part="i">Qu'on en parle à César.</l>
 </sp>
 <sp who="ANTOINE"><speaker>ANTOINE.</speaker>
-	<l id="491" part="f">Ha jour infortuné !</l>
+	<l id="491" syll="6" part="f">Ha jour infortuné !</l>
 	<l id="492">Recevrais-je d'autrui ce que j'ai tant donné !</l>
 	<l id="493">Je me suis vu, Lucile, en ces degrés suprêmes,</l>
 	<l id="494">D'où nos superbes pieds foulent les diadèmes,</l>
@@ -741,10 +737,10 @@
 	<l id="510">Moins il en usera, plus il aura de gloire.</l>
 </sp>
 <sp who="ANTOINE"><speaker>ANTOINE.</speaker>
-	<l id="511" part="i">Il veut régner tout seul.</l>
+	<l id="511" syll="6" part="i">Il veut régner tout seul.</l>
 </sp>
 <sp who="LUCILE"><speaker>LUCILE.</speaker>
-	<l id="511" part="f">Qu'il en ait le plaisir,</l>
+	<l id="511" syll="6" part="f">Qu'il en ait le plaisir,</l>
 	<l id="512">Et vengez-vous de lui par son propre désir,</l>
 	<l id="513">Renoncez à la part d'une grande fortune,</l>
 	<l id="514">Et que deux portions se réduisent en une :</l>
@@ -786,10 +782,10 @@
 	<l id="544">Troublerait mon repos pour assurer le sien.</l>
 </sp>
 <sp who="LUCILE"><speaker>LUCILE.</speaker>
-	<l id="545" part="i">Rendez-vous donc à lui.</l>
+	<l id="545" syll="6" part="i">Rendez-vous donc à lui.</l>
 </sp>
 <sp who="ANTOINE"><speaker>ANTOINE.</speaker>
-	<l id="545" part="f">Je savais bien, Lucile,</l>
+	<l id="545" syll="6" part="f">Je savais bien, Lucile,</l>
 	<l id="546">Que tu ne m'offrirais qu'un remède inutile,</l>
 	<l id="547">Et que j'attirerais ton jugement bien sain</l>
 	<l id="548">À l'approbation de mon noble dessein :</l>
@@ -818,11 +814,11 @@
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III. Cléopâtre, ses filles, Dircet.</head>
-<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE, à Dircet.</speaker>
-	<l id="571" part="i">Comment, on la trahi ?</l>
+<sp stage="toward" who="CLEOPATRE"><speaker>CLÉOPÂTRE, à Dircet.</speaker>
+	<l id="571" syll="6" part="i">Comment, on la trahi ?</l>
 </sp>
 <sp who="DIRCET"><speaker>DIRCET.</speaker>
-	<l id="571" part="f">Que votre majesté</l>
+	<l id="571" syll="6" part="f">Que votre majesté</l>
 	<l id="572">Apprenne le succès de cette lâcheté.</l>
 	<l id="573">Aussitôt que le peuple assemblé dans la ville</l>
 	<l id="574">A vu sortir Antoine, assisté de Lucile,</l>
@@ -854,10 +850,10 @@
 	<l id="596">L'une, et l'autre s'embrasse, au lieu de s'accrocher.</l>
 </sp>
 <sp who="CLEOPATRE"><speaker>CLÉOPÂTRE.</speaker>
-	<l id="597" part="i">Dieux quelle perfidie !</l>
+	<l id="597" syll="6" part="i">Dieux quelle perfidie !</l>
 </sp>
 <sp who="DIRCET"><speaker>DIRCET.</speaker>
-	<l id="597" part="f">En ce puissant orage</l>
+	<l id="597" syll="6" part="f">En ce puissant orage</l>
 	<l id="598">Antoine reste ferme, il ne perd point courage,</l>
 	<l id="599">Et sous un front constant, et plein de gravité</l>
 	<l id="600">Cache le désespoir de cette lâcheté.</l>
@@ -873,10 +869,10 @@
 	<l id="610">Qu'il déteste le sort, qu'il vous appelle ingrate ;</l>
 	<l id="611">Car dans son désespoir qui se fait craindre à tous</l>
 	<l id="612">Son esprit furieux n'en accuse que vous.</l>
-	<l id="613" part="i">Je m'en vais le trouver.</l>
+	<l id="613" syll="6" part="i">Je m'en vais le trouver.</l>
 </sp>
 <sp who="CLEOPATRE"><speaker>CLÉOPÂTRE.</speaker>
-	<l id="613" part="f">De tout je suis la cause,</l>
+	<l id="613" syll="6" part="f">De tout je suis la cause,</l>
 	<l id="614">Quoique d'un vain bonheur la fortune dispose,</l>
 	<l id="615">On ne s'en prend qu'à moi quand l'on en est haï,</l>
 	<l id="616">J'aime toujours César lors qu'Antoine est trahi,</l>
@@ -888,10 +884,10 @@
 	<l id="620">Sa fureur pourrait bien pêcher innocemment.</l>
 </sp>
 <sp who="CHARMION"><speaker>CHARMION.</speaker>
-	<l id="621" part="i">Il faudrait s'éloigner.</l>
+	<l id="621" syll="6" part="i">Il faudrait s'éloigner.</l>
 </sp>
 <sp who="CLEOPATRE"><speaker>CLÉOPÂTRE.</speaker>
-	<l id="621" part="f">Envoyons Diomède</l>
+	<l id="621" syll="6" part="f">Envoyons Diomède</l>
 	<l id="622">L'avertir que la mort est mon dernier remède,</l>
 	<l id="623">Et que mon coeur n'a pu souffrir son déplaisir,</l>
 	<l id="624">Je mourrai sans regret s'il en jette un soupir,</l>
@@ -995,10 +991,10 @@
 	<l id="710">C'est assez que je vive afin que je le pleure,</l>
 	<l id="711">Sans que ces lâches mains lui creusent un tombeau,</l>
 	<l id="712">Que je sois son esclave, et non pas son bourreau,</l>
-	<l id="713" part="i">J'embrasse ses genoux.</l>
+	<l id="713" syll="6" part="i">J'embrasse ses genoux.</l>
 </sp>
 <sp who="ANTOINE"><speaker>ANTOINE.</speaker>
-	<l id="713" part="f">Contente mon envie,</l>
+	<l id="713" syll="6" part="f">Contente mon envie,</l>
 	<l id="714">C'est me donner beaucoup que de m'ôter la vie,</l>
 	<l id="715">Ta molle affection m'afflige au dernier point,</l>
 	<l id="716">Et dedans ta pitié je n'en rencontre point,</l>
@@ -1016,19 +1012,19 @@
 	<l id="728">Et donne à la pitié ce qu'il nie au respect.</l>
 </sp>
 <sp who="EROS"><speaker>EROS.</speaker>
-	<l id="729" part="i">Vous voulez donc mourir ?</l>
+	<l id="729" syll="6" part="i">Vous voulez donc mourir ?</l>
 </sp>
 <sp who="ANTOINE"><speaker>ANTOINE.</speaker>
-	<l id="729" part="f">Cléopâtre m'appelle,</l>
+	<l id="729" syll="6" part="f">Cléopâtre m'appelle,</l>
 	<l id="730">Dans son teint plus hideux la mort me semble belle,</l>
 	<l id="731">Et je veux à ce triste, et déplorable jour</l>
 	<l id="732">Faire voir un triomphe, et d'honneur, et d'amour.</l>
 </sp>
 <sp who="EROS"><speaker>EROS.</speaker>
-	<l id="733" part="i">Et de plus par ma main ?</l>
+	<l id="733" syll="6" part="i">Et de plus par ma main ?</l>
 </sp>
 <sp who="ANTOINE"><speaker>ANTOINE.</speaker>
-	<l id="733" part="f">Oui si j'ai la puissance</l>
+	<l id="733" syll="6" part="f">Oui si j'ai la puissance</l>
 	<l id="734">D'obtenir cet effet de ton obéissance.</l>
 </sp>
 <sp who="EROS"><speaker>EROS à l'écart.</speaker>
@@ -1044,10 +1040,10 @@
 	<l id="744">Je m'en vais contenter votre sanglant désir.</l>
 </sp>
 <sp who="ANTOINE"><speaker>ANTOINE en l'embrassant.</speaker>
-	<l id="745" part="i">Ô rare serviteur !</l>
+	<l id="745" syll="6" part="i">Ô rare serviteur !</l>
 </sp>
 <sp who="EROS"><speaker>EROS.</speaker>
-	<l id="745" part="f">Donnez-moi votre épée.</l>
+	<l id="745" syll="6" part="f">Donnez-moi votre épée.</l>
 </sp>
 <sp who="ANTOINE"><speaker>ANTOINE.</speaker>
 	<l id="746">Ami, jamais ta main ne fut mieux occupée,</l>
@@ -1063,7 +1059,7 @@
 	<l id="754">Vous attendez la mort de ma main meurtrière ?</l>
 	<l id="755">Je dois être conforme à vos tristes souhaits,</l>
 	<l id="756">Octroyez un pardon au crime que je fais.</l>
-<stage type="[N/A]">Il se met à genoux.</stage>
+<stage type="kneel">Il se met à genoux.</stage>
 </sp>
 <sp who="ANTOINE"><speaker>ANTOINE.</speaker>
 	<l id="757">Frappe, je te pardonne une si belle offense.</l>
@@ -1076,7 +1072,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="2"><head>SCÈNE II.</head>
-<sp who="ANTOINE"><speaker>ANTOINE, seul.</speaker>
+<sp stage="alone" who="ANTOINE"><speaker>ANTOINE, seul.</speaker>
 	<l id="761">Que fais-tu ? Mais déjà de ce noble courage</l>
 	<l id="762">Dans les flots de son sang la vie a fait naufrage.</l>
 	<l id="763">Eros, tu fais ton mal de ce qui fait mon bien,</l>
@@ -1085,7 +1081,7 @@
 	<l id="766">Antoine apprend de toi le chemin qu'il doit suivre,</l>
 	<l id="767">Outre qu'un tel excès de générosité</l>
 	<l id="768">Sert d'un illustre exemple à la postérité.</l>
-<stage type="[N/A]">Il ramasse l'épée.</stage>
+<stage type="keep">Il ramasse l'épée.</stage>
 	<l id="769">Mourons, que dans mon sang ma propre main se lave,</l>
 	<l id="770">Et ne rougissons point d'imiter un esclave.</l>
 	<l id="771">Rome, qui pour ta gloire as vu briller ce fer,</l>
@@ -1121,22 +1117,22 @@
 	<l id="800">Par de honteuses pleurs, mais pleurons noblement,</l>
 	<l id="801">Mon coeur, suis Cléopâtre, et force ta demeure,</l>
 	<l id="802">Fais couler tout mon sang, c'est comme Antoine pleure.</l>
-<stage type="[N/A]">Il se donne un coup et regarde son sang.</stage>
+<stage type="suicide">Il se donne un coup et regarde son sang.</stage>
 	<l id="803">Ô mort qu'heureusement tu me viens secourir,</l>
 	<l id="804">Et qu'il est malheureux qui ne sait pas mourir !</l>
 	<l id="805">Si tu m'eusses plus jeune obligé de la sorte,</l>
 	<l id="806">La gloire de mes jours ne fut pas si tôt morte,</l>
 	<l id="807">L'on ne m'eût vu jamais amoureux, ni vaincu,</l>
-<stage type="action/fall">Il tombe.</stage>
+<stage type="fall">Il tombe.</stage>
 	<l id="808">Et j'aurais vécu plus, si j'eusse moins vécu.</l>
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III. Antoine, Dircet et autres gardes accourent.</head>
 <sp who="DIRCET"><speaker>DIRCET.</speaker>
-	<l id="809" part="i">Ô tragique spectacle !</l>
+	<l id="809" syll="6" part="i">Ô tragique spectacle !</l>
 </sp>
 <sp who="ANTOINE"><speaker>ANTOINE.</speaker>
-	<l id="809" part="f">Ha douleur violente !</l>
+	<l id="809" syll="6" part="f">Ha douleur violente !</l>
 	<l id="810">Amis, rendez ma mort, ou plus douce, ou moins lente,</l>
 	<l id="811">Exercez sur ce corps un effet d'amitié,</l>
 	<l id="812">Et faites par un meurtre un acte de pitié.</l>
@@ -1153,20 +1149,20 @@
 	<l id="819">Pour jouir des douceurs de nos derniers propos.</l>
 </sp>
 <sp who="DIRCET"><speaker>DIRCET.</speaker>
-	<l id="820" part="i">Quel est ce corps sanglant ?</l>
+	<l id="820" syll="6" part="i">Quel est ce corps sanglant ?</l>
 </sp>
 <sp who="ANTOINE"><speaker>ANTOINE.</speaker>
-	<l id="820" part="f">Celui du brave Eros,</l>
+	<l id="820" syll="6" part="f">Celui du brave Eros,</l>
 	<l id="821">Il a plongé pour moi ce fer dans ses entrailles,</l>
-	<l id="822" part="i">Rendez-lui les devoirs.</l>
+	<l id="822" syll="6" part="i">Rendez-lui les devoirs.</l>
 </sp>
-<stage type="[N/A]">Il est porté vers Cléopâtre.</stage>
+<stage type="action">Il est porté vers Cléopâtre.</stage>
 <sp who="DIRCET"><speaker>DIRCET.</speaker>
-	<l id="822" part="f">Dieux que de funérailles !</l>
+	<l id="822" syll="6" part="f">Dieux que de funérailles !</l>
 </sp>
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV.</head>
-<sp who="LUCILE"><speaker>LUCILE, seul.</speaker>
+<sp stage="alone" who="LUCILE"><speaker>LUCILE, seul.</speaker>
 	<l id="823">La ville est à César, les habitants troublés</l>
 	<l id="824">Se vont rendre au vainqueur, et lui portent les clés,</l>
 	<l id="825">Faut-il que je l'annonce, et me dois-je résoudre</l>
@@ -1197,10 +1193,10 @@
 	<l id="844">Et tu meurs en effet quand je feins de mourir.</l>
 </sp>
 <sp who="ANTOINE"><speaker>ANTOINE.</speaker>
-	<l id="845" part="i">Console-toi, mon coeur.</l>
+	<l id="845" syll="6" part="i">Console-toi, mon coeur.</l>
 </sp>
 <sp who="CLEOPATRE"><speaker>CLÉOPÂTRE.</speaker>
-	<l id="845" part="f">Sévères destinées,</l>
+	<l id="845" syll="6" part="f">Sévères destinées,</l>
 	<l id="846">Retranchez-vous si tôt le fil de ses années !</l>
 	<l id="847">Et vous mes ennemis, dieux inhumains, et sourds,</l>
 	<l id="848">Me privez-vous si tôt de l'âme de mes jours !</l>
@@ -1252,16 +1248,16 @@
 	<l id="888">Heureux qui d'un tel coup se laisse surmonter !</l>
 </sp>
 <sp who="CLEOPATRE"><speaker>CLÉOPÂTRE.</speaker>
-	<l id="889" part="i">Ô dieux !</l>
+	<l id="889" syll="2" part="i">Ô dieux !</l>
 </sp>
 <sp who="ANTOINE"><speaker>ANTOINE.</speaker>
-	<l id="889" part="f">Puisque le ciel veut que je t'abandonne,</l>
+	<l id="889" syll="10" part="f">Puisque le ciel veut que je t'abandonne,</l>
 	<l id="890">Chéris Antoine, et suis les avis qu'il te donne,</l>
 	<l id="891">Ne plains point mon désastre, et conserve tes jours</l>
 	<l id="892">Pour les vivants effets de nos tristes amours.</l>
 	<l id="893">Toutefois si César usant de sa victoire</l>
 	<l id="894">Les veut faire servir d'ornements à sa gloire,</l>
-<stage type="[N/A]">Se soulevant un peu.</stage>
+<stage type="stand">Se soulevant un peu.</stage>
 	<l id="895">Qu'ils soient lors généreux, qu'ils marchent sur mes pas,</l>
 	<l id="896">Qu'ils imitent leur père, et n'en rougissent pas.</l>
 	<l id="897">C'en est fait, je me sens réduit au dernier terme,</l>
@@ -1271,7 +1267,7 @@
 <sp who="CLEOPATRE"><speaker>CLÉOPÂTRE.</speaker>
 	<l id="899">Ô sensible douleur ! Quoi je perds mon appui ?</l>
 	<l id="900">Dieux ma vigueur me laisse, et je meurs comme lui.</l>
-<stage type="[N/A]">Elle pâme.</stage>
+<stage type="fall">Elle pâme.</stage>
 </sp>
 </div2>
 <div2 type="scene" n="6"><head>SCÈNE VI. Eras, Charmion, Cléopâtre.</head>
@@ -1288,10 +1284,10 @@
 	<l id="908">Un seul trépas aussi termine leurs tourments.</l>
 </sp>
 <sp who="ERAS"><speaker>ERAS.</speaker>
-	<l id="909" part="i">Madame, elle revient.</l>
+	<l id="909" syll="6" part="i">Madame, elle revient.</l>
 </sp>
-<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE, revenue à soi.</speaker>
-	<l id="909" part="f">Qui m'a rendu la vie,</l>
+<sp stage="awake" who="CLEOPATRE"><speaker>CLÉOPÂTRE, revenue à soi.</speaker>
+	<l id="909" syll="6" part="f">Qui m'a rendu la vie,</l>
 	<l id="910">Et les tristes douleurs dont elle était suivie ?</l>
 	<l id="911">Ce corps a succombé sous l'effort du trépas,</l>
 	<l id="912">Mais je reviens, Antoine, et tu ne reviens pas,</l>
@@ -1328,10 +1324,10 @@
 </sp>
 <sp who="ERAS"><speaker>ERAS.</speaker>
 	<l id="943">Que votre majesté modère ses ennuis,</l>
-	<l id="944" part="i">Consolez-vous, madame.</l>
+	<l id="944" syll="6" part="i">Consolez-vous, madame.</l>
 </sp>
 <sp who="CLEOPATRE"><speaker>CLÉOPÂTRE.</speaker>
-	<l id="944" part="f">En l'état où je suis ?</l>
+	<l id="944" syll="6" part="f">En l'état où je suis ?</l>
 </sp>
 <sp who="ERAS"><speaker>ERAS.</speaker>
 	<l id="945">Mais, Madame, songez que la mort est commune,</l>
@@ -1356,10 +1352,10 @@
 	<l id="964">Et ce que vous pleurez vous l'eussiez souhaité.</l>
 </sp>
 <sp who="CLEOPATRE"><speaker>CLÉOPÂTRE.</speaker>
-	<l id="965" part="i">Il est vrai.</l>
+	<l id="965" syll="3" part="i">Il est vrai.</l>
 </sp>
 <sp who="CHARMION"><speaker>CHARMION.</speaker>
-	<l id="965" part="f">Cessez donc de le plaindre, Madame,</l>
+	<l id="965" syll="9" part="f">Cessez donc de le plaindre, Madame,</l>
 	<l id="966">Puisqu'il meurt généreux pour ne pas vivre infâme :</l>
 	<l id="967">Cessez de le pleurer, et n'entreprenez plus</l>
 	<l id="968">De troubler son repos par des cris superflus,</l>
@@ -1371,10 +1367,10 @@
 	<l id="974">Qu'il soit dans votre coeur, lui dans votre mémoire,</l>
 	<l id="975">Ne demeurez point ferme en ce frivole ennui,</l>
 	<l id="976">Et sauvez ce qui reste, et de vous et de lui</l>
-	<l id="977" part="i">Vos chers enfants.</l>
+	<l id="977" syll="4" part="i">Vos chers enfants.</l>
 </sp>
 <sp who="CLEOPATRE"><speaker>CLÉOPÂTRE.</speaker>
-	<l id="977" part="f">Non, non, sois plus femme que mère,</l>
+	<l id="977" syll="8" part="f">Non, non, sois plus femme que mère,</l>
 	<l id="978">Ils te doivent la vie, et tu la dois au père,</l>
 	<l id="979">Change donc cette vie en un juste trépas,</l>
 	<l id="980">Elle te rend ingrate, et ne leur aide pas :</l>
@@ -1464,10 +1460,10 @@
 	<l id="1052">Rome en verra bien peu derrière votre char.</l>
 </sp>
 <sp who="CESAR"><speaker>CÉSAR.</speaker>
-	<l id="1053" part="i">De quoi m'accuses-tu ?</l>
+	<l id="1053" syll="6" part="i">De quoi m'accuses-tu ?</l>
 </sp>
 <sp who="EPAPHRODITE"><speaker>EPAPHRODITE.</speaker>
-	<l id="1053" part="f">D'avoir trop de clémence,</l>
+	<l id="1053" syll="6" part="f">D'avoir trop de clémence,</l>
 	<l id="1054">Aux grands cette vertu nuit dans son abondance,</l>
 	<l id="1055">Étouffe la justice en un sévère coeur,</l>
 	<l id="1056">Oblige le vaincu, mais fait tort au vainqueur,</l>
@@ -1627,10 +1623,10 @@
 	<l id="1190">S'efforçait d'abréger et sa vie, et sa peine.</l>
 </sp>
 <sp who="CESAR"><speaker>CÉSAR.</speaker>
-	<l id="1191" part="i">Vous laissa-t-elle entrer ?</l>
+	<l id="1191" syll="6" part="i">Vous laissa-t-elle entrer ?</l>
 </sp>
 <sp who="DIRCET"><speaker>DIRCET.</speaker>
-	<l id="1191" part="f">Non, du haut du tombeau</l>
+	<l id="1191" syll="6" part="f">Non, du haut du tombeau</l>
 	<l id="1192">Ses filles d'une corde attiraient ce fardeau,</l>
 	<l id="1193">La reine même aidait en ce vil exercice,</l>
 	<l id="1194">Ses délicates mains y faisaient leur office,</l>
@@ -1642,10 +1638,10 @@
 	<l id="1200">Se soulevait un peu, mais retombait après.</l>
 </sp>
 <sp who="CESAR"><speaker>CÉSAR.</speaker>
-	<l id="1201" part="i">Son coeur aimait encore ?</l>
+	<l id="1201" syll="6" part="i">Son coeur aimait encore ?</l>
 </sp>
 <sp who="DIRCET"><speaker>DIRCET.</speaker>
-	<l id="1201" part="f">Il conservait sa flamme,</l>
+	<l id="1201" syll="6" part="f">Il conservait sa flamme,</l>
 	<l id="1202">La blessure du corps n'avait pas guéri l'âme,</l>
 	<l id="1203">Ses yeux étaient ardents quand ils perdaient le jour,</l>
 	<l id="1204">Et la mort y laissait une place à l'amour.</l>
@@ -1709,7 +1705,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="5"><head>SCÈNE V.</head>
-<sp who="CLEOPATRE"><speaker>CLEOPATRE, vêtue de deuil, et dans une chambre tendue de deuil.</speaker>
+<sp stage="dress" who="CLEOPATRE"><speaker>CLEOPATRE, vêtue de deuil, et dans une chambre tendue de deuil.</speaker>
 	<l id="1251">Diadèmes, grandeurs, rangs, titres absolus,</l>
 	<l id="1252">Puisque vous me quittez ne m'importunez plus,</l>
 	<l id="1253">Sceptres, qui m'éleviez avec tant de gloire,</l>
@@ -1756,10 +1752,10 @@
 </div2>
 <div2 type="scene" n="6"><head>SCÈNE VI. Eras, Cléopâtre.</head>
 <sp who="ERAS"><speaker>ERAS.</speaker>
-	<l id="1293" part="i">César est ici bas.</l>
+	<l id="1293" syll="6" part="i">César est ici bas.</l>
 </sp>
 <sp who="CLEOPATRE"><speaker>CLÉOPÂTRE.</speaker>
-	<l id="1293" part="f">Que venez-vous m'apprendre ?</l>
+	<l id="1293" syll="6" part="f">Que venez-vous m'apprendre ?</l>
 </sp>
 <sp who="ERAS"><speaker>ERAS.</speaker>
 	<l id="1294">Que le vainqueur, madame, au vaincu se vient rendre,</l>
@@ -1774,14 +1770,14 @@
 	<l id="1301">Mon oeil lançait des feux, il n'a plus que des larmes,</l>
 	<l id="1302">Et le tombeau d'Antoine est celui de mes charmes,</l>
 	<l id="1303">Il ne m'en reste pas pour le rendre adouci,</l>
-	<l id="1304" part="i">Ni pour vaincre un vainqueur.</l>
+	<l id="1304" syll="6" part="i">Ni pour vaincre un vainqueur.</l>
 </sp>
 <sp who="ERAS"><speaker>ERAS.</speaker>
-	<l id="1304" part="f">Madame, le voici.</l>
+	<l id="1304" syll="6" part="f">Madame, le voici.</l>
 </sp>
 </div2>
 <div2 type="scene" n="7"><head>SCÈNE VII. Cléopâtre, César.</head>
-<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE aux pieds de César.</speaker>
+<sp stage="kneel" who="CLEOPATRE"><speaker>CLÉOPÂTRE, aux pieds de César.</speaker>
 	<l id="1305">Seigneur (car vous portez cette qualité haute,</l>
 	<l id="1306">Le ciel qui vous chérit vous la donne, et me l'ôte)</l>
 	<l id="1307">Vous voyez, ô César ! Une reine à vos pieds</l>
@@ -1795,7 +1791,7 @@
 	<l id="1315">Soyez content, songez remerciant les dieux</l>
 	<l id="1316">Que vous seriez cruel étant plus glorieux.</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR, la relevant.</speaker>
+<sp stage="stand" who="CESAR"><speaker>CÉSAR, la relevant.</speaker>
 	<l id="1317">Si vous ne saviez pas de quelle douceur j'use</l>
 	<l id="1318">Vers ceux que je surmonte, et que la guerre abuse,</l>
 	<l id="1319">Et si de mon côté j'ignorais de quel front</l>
@@ -1835,7 +1831,7 @@
 	<l id="1349">Excusez si mes faits vous ont coûté des larmes,</l>
 	<l id="1350">On ne peut réprimer l'insolence des armes.</l>
 </sp>
-<sp who="CLEOPATRE"><speaker>CLEOPATRE, continue.</speaker>
+<sp stage="continue" who="CLEOPATRE"><speaker>CLEOPATRE, continue.</speaker>
 	<l id="1351">L'amour, divin César, est un puissant démon,</l>
 	<l id="1352">Qui n'en ressent la force en respecte le nom,</l>
 	<l id="1353">Nul ne peut s'exempter de son pouvoir suprême,</l>
@@ -1853,7 +1849,7 @@
 	<l id="1363">S'il eut eu ce défaut, sa gloire, et vos appas</l>
 	<l id="1364">Au temple de l'estime auraient un lieu plus bas.</l>
 </sp>
-<sp who="CLEOPATRE"><speaker>CLEOPATRE, continue.</speaker>
+<sp stage="continue" who="CLEOPATRE"><speaker>CLEOPATRE, continue.</speaker>
 	<l id="1365">Sa puissante vertu justement animée</l>
 	<l id="1366">Au dessein de punir mon frère Ptolemée,</l>
 	<l id="1367">L'emmena dans ces lieux où notre amour naquit,</l>
@@ -1862,12 +1858,12 @@
 	<l id="1370">Et rendit à la soeur ce qu'il ôtait au frère,</l>
 	<l id="1371">Lors m'ayant pardonné, le magnifique don</l>
 	<l id="1372">D'un sceptre et de son coeur fut joint à ce pardon.</l>
-<stage type="[N/A]">Elle lui montre des lettres de Jules César.</stage>
+<stage type="show">Elle lui montre des lettres de Jules César.</stage>
 	<l id="1373">Reconnaissez ces traits, ces lettres que j'adore,</l>
 	<l id="1374">Elles sont de sa main, je les conserve encore,</l>
 	<l id="1375">Voyez sa passion décrite en peu de lieu,</l>
 	<l id="1376">Et ce qu'un dieu disait pressé d'un autre dieu.</l>
-<stage type="[N/A]">Elle lui fait voir le tableau des Jules.</stage>
+<stage type="show">Elle lui fait voir le tableau des Jules.</stage>
 	<l id="1377">Contemplez le portrait de ce foudre de guerre,</l>
 	<l id="1378">Voila comme il était quand il conquit la terre,</l>
 	<l id="1379">Quand il fit au ciel même appréhender ses lois,</l>
@@ -1876,17 +1872,17 @@
 	<l id="1382">Vaincu qu'il en était il triomphait à Rome ;</l>
 	<l id="1383">Dans ce port doux et grave il conseille aux guerriers</l>
 	<l id="1384">De joindre avec honneur les myrtes aux lauriers.</l>
-<stage type="[N/A]">Elle se prosterne.</stage>
+<stage type="kneel">Elle se prosterne.</stage>
 	<l id="1385">Je l'adore, ou plutôt à vous je rends hommage,</l>
 	<l id="1386">Puisque vous me semblez sa plus vivante image,</l>
 	<l id="1387">Renouvelle (mon coeur) ce qu'autrefois tu fis,</l>
 	<l id="1388">Et laissez-moi chercher le père dans le fils.</l>
 </sp>
 <sp who="CESAR"><speaker>CÉSAR.</speaker>
-	<l id="1389" part="i">Espérez tout de moi.</l>
+	<l id="1389" syll="6" part="i">Espérez tout de moi.</l>
 </sp>
 <sp who="CLEOPATRE"><speaker>CLEOPATRE en pleurant.</speaker>
-	<l id="1389" part="f">Je veux dans ma misère</l>
+	<l id="1389" syll="6" part="f">Je veux dans ma misère</l>
 	<l id="1390">Obtenir deux faveurs, c'est tout ce que j'espère,</l>
 	<l id="1391">L'une que vous souffriez pour borner mon ennui</l>
 	<l id="1392">Que je retrouve Antoine en mourant comme lui,</l>
@@ -1923,7 +1919,7 @@
 </div1>
 <div1 type="act" n="5"><head>ACTE V</head>
 <div2 type="scene" n="1"><head>SCÈNE I. Cléopâtre, ses filles, Epaphrodite.</head>
-<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE, à Epaphrodite.</speaker>
+<sp stage="toward" who="CLEOPATRE"><speaker>CLÉOPÂTRE, à Epaphrodite.</speaker>
 	<l id="1413">Ton esprit, je l'avoue, ô sage Epaphrodite,</l>
 	<l id="1414">Change par ses raisons ce que le mien médite,</l>
 	<l id="1415">Ton conseil salutaire à l'ennui que je sens,</l>
@@ -1994,10 +1990,10 @@
 	<l id="1472">Et suis ses pas vainqueurs, ou même triomphants.</l>
 </sp>
 <sp who="EPAPHRODITE"><speaker>EPAPHRODITE.</speaker>
-	<l id="1473" part="i">Madame, j'obéis.</l>
+	<l id="1473" syll="6" part="i">Madame, j'obéis.</l>
 </sp>
 <sp who="CLEOPATRE"><speaker>CLÉOPÂTRE.</speaker>
-	<l id="1473" part="f">Le ciel soit ton salaire.</l>
+	<l id="1473" syll="6" part="f">Le ciel soit ton salaire.</l>
 </sp>
 <sp who="EPAPHRODITE"><speaker>EPAPHRODITE.</speaker>
 	<l id="1474">Je n'en recherche point que l'honneur de vous plaire.</l>
@@ -2037,10 +2033,10 @@
 	<l id="1500">Et triompher de nous pour triompher de lui.</l>
 </sp>
 <sp who="CLEOPATRE"><speaker>CLÉOPÂTRE.</speaker>
-	<l id="1501" part="i">N'est-ce pas mon dessein ?</l>
+	<l id="1501" syll="6" part="i">N'est-ce pas mon dessein ?</l>
 </sp>
 <sp who="CHARMION"><speaker>CHARMION.</speaker>
-	<l id="1501" part="f">Que tardons-nous, Madame ?</l>
+	<l id="1501" syll="6" part="f">Que tardons-nous, Madame ?</l>
 	<l id="1502">Suivons un empereur, et dégageons notre âme,</l>
 	<l id="1503">Que l'horreur du trépas ne nous puisse empêcher,</l>
 	<l id="1504">La liberté vaut mieux quand elle coûte cher :</l>
@@ -2053,10 +2049,10 @@
 	<l id="1509">N'irritez point le ciel, n'avancez point votre heure,</l>
 	<l id="1510">Ne suivez point mes pas, c'est assez que je meure,</l>
 	<l id="1511">Usez heureusement le fil de vos beaux jours,</l>
-	<l id="1512" part="i">Vivez après ma mort.</l>
+	<l id="1512" syll="6" part="i">Vivez après ma mort.</l>
 </sp>
 <sp who="ERAS"><speaker>ERAS.</speaker>
-	<l id="1512" part="f">Nous vous suivrons toujours.</l>
+	<l id="1512" syll="6" part="f">Nous vous suivrons toujours.</l>
 </sp>
 <sp who="CHARMION"><speaker>CHARMION.</speaker>
 	<l id="1513">Non, non, notre destin sera conforme au vôtre,</l>
@@ -2154,10 +2150,10 @@
 	<l id="1584">Que son âme a goûté d'un si doux compliment.</l>
 </sp>
 <sp who="AGRIPE"><speaker>AGRIPE.</speaker>
-	<l id="1585" part="i">Vous l'avez bien trompée.</l>
+	<l id="1585" syll="6" part="i">Vous l'avez bien trompée.</l>
 </sp>
 <sp who="CESAR"><speaker>CÉSAR.</speaker>
-	<l id="1585" part="f">Une telle visite.</l>
+	<l id="1585" syll="6" part="f">Une telle visite.</l>
 	<l id="1586">Mais quelle occasion amène Epaphrodite ?</l>
 </sp>
 </div2>
@@ -2192,7 +2188,7 @@
 	<l id="1606">Et j'aime encore mieux être inhumain que lâche,</l>
 	<l id="1607">J'ai bien su résister aux charmes de sa voix,</l>
 	<l id="1608">Elle m'écrit en vain, mais voyons toutefois.</l>
-<stage type="[N/A]">Lettre de Cléopâtre à César.</stage>
+<stage type="explicit">Lettre de Cléopâtre à César.</stage>
 	<l id="1609">César, je suis lasse de vivre,</l>
 	<l id="1610">Antoine est mort, je le veux suivre,</l>
 	<l id="1611">Juge que mon dessein est généreux et beau,</l>
@@ -2269,7 +2265,7 @@
 	<l id="1668">Je gagne dans ma perte, imitez mon exemple,</l>
 	<l id="1669">De crainte que César ne vous attire à soi,</l>
 	<l id="1670">Et qu'un tyran sur vous ne triomphe de moi :</l>
-<stage type="[N/A]">Montrant son sceptre.</stage>
+<stage type="show">Montrant son sceptre.</stage>
 	<l id="1671">J'emporte malgré lui cette superbe marque,</l>
 	<l id="1672">Je descends de mon trône au séjour de la Parque,</l>
 	<l id="1673">Et quoi que l'inhumain s'efforce de m'ôter</l>
@@ -2322,7 +2318,7 @@
 	<l id="1714">Et même le trépas fait des ambitieux ?</l>
 	<l id="1715">Ainsi la raison veut que vous marchiez derrière,</l>
 	<l id="1716">Et l'honneur m'appartient de mourir la première,</l>
-<stage type="[N/A]">Elle prend l'aspic.</stage>
+<stage type="keep">Elle prend l'aspic.</stage>
 	<l id="1717">Cherchons-en le moyen : te voilà donc serpent,</l>
 	<l id="1718">De mon sort affligé l'espoir bas et rampant ?</l>
 	<l id="1719">Cet aigle qui si haut s'élève dans la nue,</l>
@@ -2334,7 +2330,7 @@
 	<l id="1725">Mais d'où vient que mon coeur craint et fuit son repos ?</l>
 	<l id="1726">Quelle subite horreur se glisse dans mes os ?</l>
 	<l id="1727">Indigne mouvement ! C'est lâchement se rendre,</l>
-<stage type="[N/A]">Elle se fait mordre.</stage>
+<stage type="suicide">Elle se fait mordre.</stage>
 	<l id="1728">Attaque, et mords ce bras, il ne m'a pu défendre,</l>
 	<l id="1729">S'il eut eu plus de force, il me serait plus cher,</l>
 	<l id="1730">Et la nature ailleurs le devait attacher.</l>
@@ -2375,7 +2371,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="6"><head>SCÈNE VI. César, Epaphrodite, Agripe.</head>
-<sp who="CESAR"><speaker>CÉSAR, à Epaphrodite.</speaker>
+<sp stage="toward" who="CESAR"><speaker>CÉSAR, à Epaphrodite.</speaker>
 	<l id="1755">Courez y promptement, qu'est-ce qui vous retarde ?</l>
 	<l id="1756">Voyez ce qu'elle fait, et renforcez sa garde,</l>
 	<l id="1757">Précipitez vos pas, faites ce qu'il me plaît,</l>
@@ -2408,17 +2404,17 @@
 	<l id="1779">L'on n'y saurait entrer qu'on n'en rompe la porte,</l>
 	<l id="1780">Et nous n'oserions pas en user de la sorte,</l>
 	<l id="1781">Craignant de profaner par ce peu de respect</l>
-	<l id="1782" part="i">La majesté du lieu.</l>
+	<l id="1782" syll="6" part="i">La majesté du lieu.</l>
 </sp>
 <sp who="CESAR"><speaker>CÉSAR.</speaker>
-	<l id="1782" part="f">Tout ceci m'est suspect,</l>
+	<l id="1782" syll="6" part="f">Tout ceci m'est suspect,</l>
 	<l id="1783">Allons tout de ce pas contenter notre envie,</l>
 	<l id="1784">Et regretter sa mort, ou conserver sa vie.</l>
 </sp>
 </div2>
 <div2 type="scene" n="7"><head>SCÈNE VII.</head>
 <sp who="CHARMION"><speaker>CHARMION.</speaker>
-<stage type="[N/A]">On tire un rideau, et Cléopâtre parée, est sur un beau lit, Eras à ses pieds.</stage>
+<stage type="decor">On tire un rideau, et Cléopâtre parée, est sur un beau lit, Eras à ses pieds.</stage>
 	<l id="1785">Enfin j'aurai le bien qu'elles ont obtenu,</l>
 	<l id="1786">Enfin je reste seule, et mon rang est venu :</l>
 	<l id="1787">Devant que je vous suive, et que mon âme sorte</l>
@@ -2428,10 +2424,10 @@
 	<l id="1791">J'ai cet honneur, Madame, et du moins je célèbre</l>
 	<l id="1792">Avant que de mourir votre pompe funèbre,</l>
 	<l id="1793">Je vous rends vénérable à l'empire romain,</l>
-<stage type="[N/A]">Elle raffermit la couronne de Cléopâtre.</stage>
+<stage type="costume">Elle raffermit la couronne de Cléopâtre.</stage>
 	<l id="1794">Et votre diadème affermi par ma main.</l>
 	<l id="1795">toi qu'elle chérissait, fidèle confidente,</l>
-<stage type="[N/A]">Elle baise Eras.</stage>
+<stage type="kiss">Elle baise Eras.</stage>
 	<l id="1796">Reçois morte un baiser d'une bouche vivante,</l>
 	<l id="1797">J'ai sur toi l'avantage en ce dernier trépas</l>
 	<l id="1798">De te faire un présent que tu ne me rends pas.</l>
@@ -2442,12 +2438,12 @@
 	<l id="1803">Il nous mène à la mort par un gracieux somme,</l>
 	<l id="1804">C'est un chemin plus beau que le chemin de Rome.</l>
 	<l id="1805">Mais d'où vient ce grand bruit ? La porte va s'ouvrir,</l>
-<stage type="[N/A]">Elle chancelle.</stage>
+<stage type="fall">Elle chancelle.</stage>
 	<l id="1806">N'importe, on ne peut plus m'empêcher de mourir.</l>
 </sp>
 </div2>
 <div2 type="scene" n="8"><head>SCÈNE VIII et DERNIÈRE. César, Agripe, Charmion.</head>
-<sp who="CESAR"><speaker>CÉSAR entrant dans la chambre, et voyant Cléopâtre morte.</speaker>
+<sp stage="entrance/watch" who="CESAR"><speaker>CÉSAR entrant dans la chambre, et voyant Cléopâtre morte.</speaker>
 	<l id="1807">Dort-elle, ou si la parque a fini sa misère ?</l>
 	<l id="1808">Je ne puis discerner la soeur d'avec le frère,</l>
 	<l id="1809">Ses yeux ont-ils encor les charmes qu'ils ont eus ?</l>
@@ -2457,7 +2453,7 @@
 	<l id="1812">Faut-il prêter main forte à ce projet infâme ?</l>
 	<l id="1813">Pourquoi n'empêchiez-vous qu'il fut exécuté.</l>
 </sp>
-<sp who="CHARMION"><speaker>CHARMION tombant morte.</speaker>
+<sp stage="die" who="CHARMION"><speaker>CHARMION, tombant morte.</speaker>
 	<l id="1814">Il est digne de nous, et de sa majesté.</l>
 </sp>
 <sp who="CESAR"><speaker>CÉSAR.</speaker>
@@ -2479,10 +2475,10 @@
 	<l id="1828">Et quoi des ennemis sont-ils si nécessaires ?</l>
 	<l id="1829">Rome sera contente, et ravie en son coeur</l>
 	<l id="1830">Du tableau des vaincus, et du front du vainqueur,</l>
-	<l id="1831" part="i">C'est ce qu'elle demande.</l>
+	<l id="1831" syll="6" part="i">C'est ce qu'elle demande.</l>
 </sp>
 <sp who="CESAR"><speaker>CÉSAR.</speaker>
-	<l id="1831" part="f">Ô la noble aventure !</l>
+	<l id="1831" syll="6" part="f">Ô la noble aventure !</l>
 	<l id="1832">Que vainqueur en effet je triomphe en peinture,</l>
 	<l id="1833">J'eusse été glorieux si la reine eut vécu,</l>
 	<l id="1834">Mais les romains diront, il dit qu'il a vaincu.</l>
@@ -2510,7 +2506,7 @@
 	<l id="1852">Je la plains pour moi seul, je l'estime pour elle,</l>
 	<l id="1853">Qui pourrait détourner le cours de ces malheurs,</l>
 	<l id="1854">Et qui se garderait d'un aspic sous des fleurs ?</l>
-<stage type="[N/A]">Apercevant l'aspic.</stage>	
+<stage type="watch">Apercevant l'aspic.</stage>	
 	<l id="1855">Mais, ne regrettons plus un malheur sans remède,</l>
 	<l id="1856">Ne montrons point au sort que mon pouvoir lui cède,</l>
 	<l id="1857">Inhumons ce beau corps, pâle, immobile, froid,</l>

@@ -53,7 +53,7 @@
 			<castItem><role id="RODERIC" sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>RODERIC</role>, Chef des Conjurés.</castItem>
 			<castItem><role id="ARLEQUIN" sex="1" type="H" statut="bouffon" age="A" stat_amour='néant'>ARLEQUIN</role>, bouffon de la Cour.</castItem>
 			<castItem><role id="OFFCIERS" sex="9" type="H" statut="officier" age="A" stat_amour='néant'>PLUSIEURS OFFICIERS</role>.</castItem>
-			<castItem><role id="GARDES"  sex="9" type="H" statut="garde" age="A" stat_amour='néant'>GARDES</role>.</castItem>
+			<castItem><role id="GARDES" sex="9" type="H" statut="garde" age="A" stat_amour='néant'>GARDES</role>.</castItem>
 			<castItem><role id="SOLDATS" sex="9" type="H" statut="soldat" age="A" stat_amour='néant'>SOLDATS</role>.</castItem>
 		</castList>
 <set location='Pologne' country='Pologne' periode='XVIIIème' link=''>La scène est en Pologne.</set>
@@ -80,20 +80,20 @@
 	<l id='10'>L'amour que j'ai pour eux m'a seul rendu coupable.</l>
 </sp>
 <sp who='ULRIC'><speaker>ULRIC.</speaker>
-	<l id='11' part='i'>Seigneur, que dites-vous ?</l>
+	<l id='11' part="i">Seigneur, que dites-vous ?</l>
 </sp>
 <sp who='LE-ROI'><speaker>LE ROI.</speaker>
-	<l id='11' part='f'>Il est temps que mon coeur</l>
+	<l id='11' part="f">Il est temps que mon coeur</l>
 	<l id='12'>Te dévoile un secret à l'État nécessaire,</l>
 	<l id='13'>Dont un seul homme est le dépositaire,</l>
 	<l id='14'>Et qui va te remplir de surprise et d'horreur.</l>
 	<l id='15'>Cette tour que tu vois, cette prison si noire</l>
 	<l id='16'>Dont l'aspect seul épouvante les yeux</l>
 	<l id='17'>Ces lieux puis-je le dire, et pourras-tu le croire ? </l>
-	<l id='18' part='i'>Renferment dans leurs murs mon fils unique.</l>
+	<l id='18' part="i">Renferment dans leurs murs mon fils unique.</l>
 </sp>
 <sp who='ULRIC'><speaker>ULRIC.</speaker>
-	<l id='18' part='f'>Ô Dieux !</l>
+	<l id='18' part="f">Ô Dieux !</l>
 </sp>
 <sp who='LE-ROI'><speaker>LE ROI.</speaker>
 	<l id='19'>Pour t'éclaircir cet horrible mystère,</l>
@@ -196,12 +196,12 @@
 	<l id='97'>Tous mes sens font saisis d'une frayeur extrême.</l>
 	<l id='98'>Quel fantôme s'avance ! II est charge de fers,</l>
 	<l id='99'>Et ses regards font peur : c'est le diable lui-même ;</l>
-	<l id='100' part='i'>Je suis perdu.</l>
+	<l id='100' part="i">Je suis perdu.</l>
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Sigismond enchaîné, Arlequin.</head>
 <sp who='SIGISMOND'><speaker>SIGISMOND.</speaker>
-	<l id='100' part='f'>Parle, n'es-tu point las,</l>
+	<l id='100' part="f">Parle, n'es-tu point las,</l>
 	<l id='101'>Ô Ciel ! Injuste Ciel, de m'accabler de chaînes ?</l>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
@@ -268,14 +268,14 @@
 	<l id='149'>Dis-moi, de mes tourments quand finira le cours ;</l>
 	<l id='150'>Quand pourrai-je un instant jouir de la lumière ?</l>
 	<l id='151'>Ou de ta bouche au moins apprendre qui je suis.</l>
-	<l id='152' part='i'>Dévoile moi...</l>
+	<l id='152' part="i">Dévoile moi...</l>
 </sp>
 <sp who='CLOTALDE'><speaker>CLOTALDE.</speaker>
-	<l id='152' part='f'>Je ne le puis.</l>
-	<l id='153' part='i'>Soumettez-vous.</l>
+	<l id='152' part="f">Je ne le puis.</l>
+	<l id='153' part="i">Soumettez-vous.</l>
 </sp>
 <sp who='SIGISMOND'><speaker>SIGISMOND.</speaker>
-	<l id='153' part='f'>Voilà ton langage ordinaire,</l>
+	<l id='153' part="f">Voilà ton langage ordinaire,</l>
 	<l id='154'>Et je ne vois jamais mes doutes éclaircis :</l>
 	<l id='155'>Cependant, si j'en crois les livres que je lis ;</l>
 	<l id='156'>Instruire est le devoir d'un maître.</l>
@@ -327,10 +327,10 @@
 </sp>
 <sp who='SIGISMOND'><speaker>SIGISMOND.</speaker>
 	<l id='188'>Tu peux trancher mes jours, non me faire plier ;</l>
-	<l id='189' part='i'>Et je brave...</l>
+	<l id='189' part="i">Et je brave...</l>
 </sp>
 <sp who='CLOTALDE'><speaker>CLOTALDE.</speaker>
-	<l id='189' part='f'>Qu'on le saisisse,</l>
+	<l id='189' part="f">Qu'on le saisisse,</l>
 	<l id='190'>Et qu'on l'enferme sans tarder.</l>
 </sp>
 <sp who='SIGISMOND'><speaker>SIGISMOND.</speaker>
@@ -492,10 +492,10 @@
 	<l id='328'>Toi, cours exécuter ce qu'il t'a su prescrire.</l>
 </sp>
 <sp who='CLOTALDE'><speaker>CLOTALDE.</speaker>
-	<l id='329' part='i'>J'y vole.</l>
+	<l id='329' part="i">J'y vole.</l>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN sautant au col du Roi.</speaker>
-	<l id='329' part='f'>Papa Roi, pour ce trait éclatant</l>
+	<l id='329' part="f">Papa Roi, pour ce trait éclatant</l>
 	<l id='330'>Souffrez qu'Arlequin vous embrasse,</l>
 	<l id='331'>Et qu'il courre annoncer le Prince à vos États.</l>
 	<l id='332'>Je le savais bien, moi, que j'obtiendrais sa grâce ;</l>
@@ -612,10 +612,10 @@
 <sp who='CLOTALDE'><speaker>CLOTALDE.</speaker>
 	<l id='412'>Seigneur, j'avais juré de garder le silence,</l>
 	<l id='413'>On m'aurait vu souffrir la mort avec constance</l>
-	<l id='414' part='i'>Plutôt que de le rompre.</l>
+	<l id='414' part="i">Plutôt que de le rompre.</l>
 </sp>
 <sp who='SIGISMOND'><speaker>SIGISMOND.</speaker>
-	<l id='414' part='f'>Ah ! Tu la souffriras,</l>
+	<l id='414' part="f">Ah ! Tu la souffriras,</l>
 	<l id='415'>Pour avoir trop gardé ce silence funeste ;</l>
 	<l id='416'>Ministre affreux que je déteste,</l>
 	<l id='417'>Je veux par ma vengeance effrayer ces États.</l>
@@ -645,10 +645,10 @@
 </sp>
 <sp who='SIGISMOND'><speaker>SIGISMOND.</speaker>
 	<l id='427'>Arrête, ton discours ne peut que m'offenser.</l>
-	<l id='428' part='i'>Si tu dis un seul mot...</l>
+	<l id='428' part="i">Si tu dis un seul mot...</l>
 </sp>
 <sp who='ULRIC'><speaker>ULRIC.</speaker>
-	<l id='428' part='f'>Je ne puis me défendre...</l>
+	<l id='428' part="f">Je ne puis me défendre...</l>
 </sp>
 <sp who='SIGISMOND'><speaker>SIGISMOND.</speaker>
 	<l id='429'>Puisqu'il répond, sans balancer</l>
@@ -673,10 +673,10 @@
 	<l id='438'>Calmez un transport condamnable.</l>
 </sp>
 <sp who='SIGISMOND'><speaker>SIGISMOND.</speaker>
-	<l id='439' part='i'>Qu'entends-je ?</l>
+	<l id='439' part="i">Qu'entends-je ?</l>
 </sp>
 <sp who='LE-ROI'><speaker>LE ROI.</speaker>
-	<l id='439' part='f'>Vous devez m'écouter et songer</l>
+	<l id='439' part="f">Vous devez m'écouter et songer</l>
 	<l id='440'>Qu'un Prince qui s'oublie au point de se plonger</l>
 	<l id='441'>Dans le sang d'un sujet, fût il même coupable ;</l>
 	<l id='442'>Déshonore son bras au lieu de se venger.</l>
@@ -712,9 +712,9 @@
 	<l id='465'>Je sens que je ne puis t'approcher trop de moi.</l>
 </sp>
 <sp who='LE-ROI'><speaker>LE ROI à part.</speaker>
-	<l id='466' part='i'>Ô ! Père trop heureux !</l>
+	<l id='466' part="i">Ô ! Père trop heureux !</l>
 <stage type="forte">Haut.</stage>
-	<l id='466' part='f'>Je me flatte j'espère</l>
+	<l id='466' part="f">Je me flatte j'espère</l>
 	<l id='467'>Quand je serai connu de vous,</l>
 	<l id='468'>De redoubler encor des sentiments si doux.</l>
 </sp>
@@ -723,10 +723,10 @@
 </sp>
 <sp who='LE-ROI'><speaker>LE ROI.</speaker>
 	<l id='470'>Nature ! C'en est trop, je cède à ton effort.</l>
-	<l id='471' part='i'>Je suis...</l>
+	<l id='471' part="i">Je suis...</l>
 </sp>
 <sp who='SIGISMOND'><speaker>SIGISMOND.</speaker>
-	<l id='471' part='f'>Eh bien, achève, instruis-moi de ton sort.</l>
+	<l id='471' part="f">Eh bien, achève, instruis-moi de ton sort.</l>
 </sp>
 <sp who='LE-ROI'><speaker>LE ROI.</speaker>
 	<l id='472'>Embrasse-moi, mon fils, et reconnais ton père.</l>
@@ -877,10 +877,10 @@
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
 	<l id='585'>Nous allons voir un beau tapage :</l>
 	<l id='586'>Mais il est en fureur, et je suis seul ici,</l>
-	<l id='587' part='i'>Je tremble.</l>
+	<l id='587' part="i">Je tremble.</l>
 </sp>
 <sp who='SIGISMOND'><speaker>SIGISMOND.</speaker>
-	<l id='587' part='f'>Qui donc est-tu ? Dis.</l>
+	<l id='587' part="f">Qui donc est-tu ? Dis.</l>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN à part.</speaker>
 	<l id='588'>Ah ! Je lui dirais bien qu'Arlequin est son frère,</l>
@@ -892,21 +892,21 @@
 <sp who='ARLEQUIN'><speaker>ARLEQUIN à part.</speaker>
 	<l id='591'>Quel air rébarbatif ? J'en suis épouvanté.</l>
 <stage type="forte">Haut.</stage>
-	<l id='592' part='i'>Seigneur, je suis...</l>
-<stage type="mezzo voce">Bas.</stage>
-	<l id='592' part='f'>Je crains qu'il ne m'assomme.</l>
+	<l id='592' part="i">Seigneur, je suis...</l>
+<stage type="low">Bas.</stage>
+	<l id='592' part="f">Je crains qu'il ne m'assomme.</l>
 </sp>
 <sp who='SIGISMOND'><speaker>SIGISMOND.</speaker>
-	<l id='593' part='i'>Veux-tu parler ?</l>
+	<l id='593' part="i">Veux-tu parler ?</l>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
-	<l id='593' part='f'>Je suis... je suis un gentilhomme.</l>
+	<l id='593' part="f">Je suis... je suis un gentilhomme.</l>
 </sp>
 <sp who='SIGISMOND'><speaker>SIGISMOND.</speaker>
-	<l id='594' part='i'>Est-ce de la Cour du Roi ?</l>
+	<l id='594' part="i">Est-ce de la Cour du Roi ?</l>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
-	<l id='594' part='f'>Non.</l>
+	<l id='594' part="f">Non.</l>
 	<l id='595'>Un gentilhomme, là... de conversation.</l>
 </sp>
 <sp who='SIGISMOND'><speaker>SIGISMOND.</speaker>
@@ -917,34 +917,34 @@
 	<l id='598'>Ou gentilhomme qui fait rire.</l>
 </sp>
 <sp who='SIGISMOND'><speaker>SIGISMOND.</speaker>
-	<l id='599' part='i'>Fais moi rire.</l>
+	<l id='599' part="i">Fais moi rire.</l>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
-	<l id='599' part='f'>Ah ! Voilà pour m'interdire.</l>
+	<l id='599' part="f">Ah ! Voilà pour m'interdire.</l>
 </sp>
 <sp who='SIGISMOND'><speaker>SIGISMOND.</speaker>
-	<l id='600' part='i'>Veux-tu me faire rire ?</l>
+	<l id='600' part="i">Veux-tu me faire rire ?</l>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN à part.</speaker>
-	<l id='600' part='f'>Il me le dit d'un ton</l>
+	<l id='600' part="f">Il me le dit d'un ton</l>
 	<l id='601'>À me faire trembler. La terreur qu'il m'inspire</l>
 	<l id='602'>Me donne déjà le frisson.</l>
 </sp>
 <sp who='SIGISMOND'><speaker>SIGISMOND.</speaker>
-	<l id='603' part='i'>Quand me feras-tu rire, hem ?</l>
+	<l id='603' part="i">Quand me feras-tu rire, hem ?</l>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
-	<l id='603' part='f'>Tout à l'heure, Sire.</l>
+	<l id='603' part="f">Tout à l'heure, Sire.</l>
 <stage type="aparte">À part.</stage>
 	<l id='604'>D'y réussir je ne puis me flatter.</l>
 	<l id='605'>Son visage me désespère.</l>
 </sp>
 <sp who='SIGISMOND'><speaker>SIGISMOND.</speaker>
 	<l id='606'>Fais moi rire au plus vite, ou je te fais sauter</l>
-	<l id='607' part='i'>Du haut de ce balcon.</l>
+	<l id='607' part="i">Du haut de ce balcon.</l>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN à part.</speaker>
-	<l id='607' part='f'>Il est homme à le faire.</l>
+	<l id='607' part="f">Il est homme à le faire.</l>
 	<l id='608'>C'est ainsi qu'à la Cour on se voit ballotté.</l>
 	<l id='609'>J'étais tantôt jeteur, et vais être jeté.</l>
 </sp>
@@ -999,11 +999,11 @@
 	<l id='633'>Je suis à bout de mon rôle à présent.</l>
 	<l id='634'>Que de viendrai-je, misérable ?</l>
 <stage type="forte">Haut.</stage>
-	<l id='635' part='i'>Prince, êtes-vous chatouilleux ?</l>
+	<l id='635' part="i">Prince, êtes-vous chatouilleux ?</l>
 <stage type="[N/A]">Il le chatouille.</stage>
 </sp>
 <sp who='SIGISMOND'><speaker>SIGISMOND.</speaker>
-	<l id='635' part='f'>Insolent,</l>
+	<l id='635' part="f">Insolent,</l>
 	<l id='636'>Tu vas servir d'exemple à tout mauvais plaisant.</l>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN se jetant a ses pieds.</speaker>
@@ -1035,13 +1035,13 @@
 	<l id='654'>Vous verrez là-dedans tous les noms des proscrits.</l>
 </sp>
 <sp who='SIGISMOND'><speaker>SIGISMOND.</speaker>
-	<l id='655' part='i'>Lis toi-même.</l>
+	<l id='655' part="i">Lis toi-même.</l>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
-	<l id='655' part='m'>Seigneur...</l>
+	<l id='655' part="m">Seigneur...</l>
 </sp>
 <sp who='SIGISMOND'><speaker>SIGISMOND.</speaker>
-	<l id='655' part='f'>Lis donc sans plus remettre.</l>
+	<l id='655' part="f">Lis donc sans plus remettre.</l>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
 	<l id='656'>Lisons quand je devrais épeler chaque lettre.</l>
@@ -1052,7 +1052,7 @@
 	<l id='659'>Sur le trône ce Duc comptait depuis longtemps ;</l>
 	<l id='660' pat='i'>Mais il comptait sans l'hôte.</l>
 <stage type="[N/A]">Il continue à lire.</stage>
-	<l id='660' part='f'>Sophronie,</l>
+	<l id='660' part="f">Sophronie,</l>
 	<l id='661'>Dans sa vingtième année, et nièce aussi du Roi,</l>
 <stage type="aparte">À part.</stage>
 	<l id='662'>Seigneur, vous avez là, ma foi,</l>
@@ -1063,12 +1063,12 @@
 <sp who='SIGISMOND'><speaker>SIGISMOND.</speaker>
 	<l id='666'>Que de beautés ! Voilà le chef-d'oeuvre des Dieux</l>
 	<l id='667'>J'oublie en la voyant qu'elle est mon ennemie.</l>
-	<l id='668' part='i'>Mes sens sont enchantés ;</l>
+	<l id='668' part="i">Mes sens sont enchantés ;</l>
 </sp>
 </div2>
 <div2 type="scene" n='8'><head>SCÈNE VIII. Sigismond, Sophronie.</head>
 <sp who='SOPHRONIE'><speaker>SOPHRONIE.</speaker>
-	<l id='668' part='f'>Seigneur, vous voulez bien</l>
+	<l id='668' part="f">Seigneur, vous voulez bien</l>
 	<l id='669'>Que je vous rende ici mon hommage sincère.</l>
 </sp>
 <sp who='SIGISMOND'><speaker>SIGISMOND.</speaker>
@@ -1183,10 +1183,10 @@
 </sp>
 <sp who='SIGISMOND'><speaker>SIGISMOND.</speaker>
 	<l id='756'>Ah ! je cours trouver l'inhumain,</l>
-	<l id='757' part='i'>Et ma rage...</l>
+	<l id='757' part="i">Et ma rage...</l>
 </sp>
 <sp who='SOPHRONIE'><speaker>SOPHRONIE.</speaker>
-	<l id='757' part='f'>Arrêtez. Quel est votre dessein ?</l>
+	<l id='757' part="f">Arrêtez. Quel est votre dessein ?</l>
 	<l id='758'>Est-ce par la fureur que vous croyez me plaire ?</l>
 	<l id='759'>À ce transport mettez plutôt un frein.</l>
 	<l id='760'>Contre un père, Seigneur, et contre un souverain.</l>
@@ -1196,12 +1196,12 @@
 	<l id='764'>Par d'autres sentiments méritez mon estime;</l>
 	<l id='765'>Et gravez bien dans votre souvenir</l>
 	<l id='766'>Que la vertu la peut seule obtenir,</l>
-	<l id='767' part='i'>Adieu.</l>
+	<l id='767' part="i">Adieu.</l>
 </sp>
 </div2>
 <div2 type="scene" n='9'><head>SCENE IX. Sigismond, Arlequin.</head>
 <sp who='SIGISMOND'><speaker>SIGISMOND.</speaker>
-	<l id='767' part='f'>Princesse, eh bien, j'étoufferai ma haines</l>
+	<l id='767' part="f">Princesse, eh bien, j'étoufferai ma haines</l>
 	<l id='768'>Mais d'un si noble effort vous serez donc le prix,</l>
 	<l id='769'>Avec vous je suivrai la clémence sans peine ;</l>
 	<l id='770'>Je serai généreux envers mes ennemis.</l>
@@ -1382,10 +1382,10 @@
 	<l id='885'>Sur mon Trône tous deux vous allez être assis.</l>
 </sp>
 <sp who='SOPHRONIE'><speaker>SOPHRONIE.</speaker>
-	<l id='886' part='i'>Votre fils doit lui seul...</l>
+	<l id='886' part="i">Votre fils doit lui seul...</l>
 </sp>
 <sp who='LE-ROI'><speaker>LE ROI.</speaker>
-	<l id='886' part='f'>Non, ce fils trop fidèle ;</l>
+	<l id='886' part="f">Non, ce fils trop fidèle ;</l>
 	<l id='887'>À me justifier par son humeur cruelle,</l>
 	<l id='888'>Ce qu'ont prédit de lui les Astres ennemis,</l>
 	<l id='889'>Vient d'épuiser l'amitié paternelle ;</l>
@@ -1634,16 +1634,16 @@
 	<l id='1072'>Un vent qui change, une vaine fumée.</l>
 </sp>
 <sp who='SIGISMOND'><speaker>SIGISMOND.</speaker>
-	<l id='1073' part='i'>Et l'espérance ?</l>
+	<l id='1073' part="i">Et l'espérance ?</l>
 </sp>
 <sp who='CLOTALDE'><speaker>CLOTALDE.</speaker>
-	<l id='1073' part='f'>Un appas séducteur.</l>
+	<l id='1073' part="f">Un appas séducteur.</l>
 </sp>
 <sp who='SIGISMOND'><speaker>SIGISMOND.</speaker>
-	<l id='1074' part='i'>Et la vie ?</l>
+	<l id='1074' part="i">Et la vie ?</l>
 </sp>
 <sp who='CLOTALDE'><speaker>CLOTALDE.</speaker>
-	<l id='1074' part='f'>Et la vie est un songe trompeur.</l>
+	<l id='1074' part="f">Et la vie est un songe trompeur.</l>
 	<l id='1075'>La Vertu seule est constante et réelle.</l>
 	<l id='1076'>Le vrai bonheur est dans le bien ;</l>
 	<l id='1077'>Tout le reste est compté pour rien.</l>
@@ -1713,10 +1713,10 @@
 	<l id='1126'>Et du peuple pour lui redouble la chaleur.</l>
 </sp>
 <sp who='CLOTALDE'><speaker>CLOTALDE.</speaker>
-	<l id='1127' part='i'>Qu'entens-je ?</l>
+	<l id='1127' part="i">Qu'entens-je ?</l>
 </sp>
 <sp who='ULRIC'><speaker>ULRIC.</speaker>
-	<l id='1127' part='f'>Elle est d'autant plus formidable</l>
+	<l id='1127' part="f">Elle est d'autant plus formidable</l>
 	<l id='1128'>Qu'à la beauté suprême elle joint la valeur.</l>
 	<l id='1129'>On sait que de son sexe aimable</l>
 	<l id='1130'>Elle suit la molesse, et méconnaît la peur ;</l>
@@ -1762,10 +1762,10 @@
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Arlequin, Roderic, Sordats.</head>
 <sp who='RODERIC'><speaker>RODERIC.</speaker>
-	<l id='1162' part='i'>Vive, vive Sigismond.</l>
+	<l id='1162' part="i">Vive, vive Sigismond.</l>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
-	<l id='1162' part='f'>Dis,</l>
+	<l id='1162' part="f">Dis,</l>
 	<l id='1163'>Que lui veux-tu donc, mon ami ?</l>
 	<l id='1164'>Et qui te fais crier jusqu'à perte d'haleine ?</l>
 </sp>
@@ -1829,16 +1829,16 @@
 	<l id='1194'>Madame, le voilà prêt à monter au trône.</l>
 </sp>
 <sp who='SOPHRONIE'><speaker>SOPHRONIE.</speaker>
-	<l id='1195' part='i'>Ce n'est pas là le Prince.</l>
+	<l id='1195' part="i">Ce n'est pas là le Prince.</l>
 </sp>
 <sp who='RODERIC'><speaker>RODERIC.</speaker>
-	<l id='1195' part='f'>Un tel discours m'étonne.</l>
+	<l id='1195' part="f">Un tel discours m'étonne.</l>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
-	<l id='1196' part='i'>Ce n'est donc pas vous ?</l>
+	<l id='1196' part="i">Ce n'est donc pas vous ?</l>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
-	<l id='1196' part='f'>Non, mais je suis son cadet ;</l>
+	<l id='1196' part="f">Non, mais je suis son cadet ;</l>
 	<l id='1197'>Et vous voyez en ma personne</l>
 	<l id='1198'>Le Prince Sigismondinet.</l>
 	<l id='1199'>C'est là l'appartement où mon frère demeure,</l>

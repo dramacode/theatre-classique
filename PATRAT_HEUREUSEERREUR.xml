@@ -8,8 +8,8 @@
 			</titleStmt>
 			<publicationStmt>	
 				<p>publié par Paul FIEVRE, septembre 2013</p>
-			<idno></idno>
-</publicationStmt>
+				<idno>PATRAT_HEUREUSEMENT</idno>
+			</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -18,10 +18,6 @@
 				<periode>1781-1790</periode>
 				<taille>(mesure non pertinente)</taille>
 				<permalien></permalien>
-				<sources>
-					<source id="1"><author/><text/></source>
-				</sources>	
-
 			</SourceDesc>
 		</fileDesc>
 </teiHeader>
@@ -40,7 +36,7 @@
 				<p>De l'Imprimerie de la Veuve BALLARD et Fils, Imprimeurs du Roi, rue des Mathurins, 1783.</p>
 			</privilege>
 			<acheveImprime id=""></acheveImprime>
-	<printer id='LOUIS'>Chez Louis,  Md. de Musique Rue du Roule à la Croix d'Or No. 6. Et No. 290.</printer>
+	<printer id='LOUIS'>Chez Louis, Md. de Musique Rue du Roule à la Croix d'Or No. 6. Et No. 290.</printer>
 		</docImprint>
 		<performance>
 			<premiere date='1783-07-22' location='Théâtre italien (salle Favart)'>Représentée, pour la première fois, par les Comédiens Italiens ordinaires du Roi, le 22 Juillet 1783.</premiere>
@@ -57,10 +53,10 @@
 		</div>
 		<castList><head>PERSONNAGES</head>
 			<castItem><role id='LA COMTESSE DELFORT' sex="1" type="H" statut="constesse" age="J" stat_amour='néant'>LA COMTESSE DELFORT</role>, riche veuve de dix-huit ans, retirée du monde et vivant dans son château. Elle est en négligé galant. Mme. Verteuil.</castItem>
-			<castItem><role id='SOPHIE DELVAL' sex="2" type="H" statut="aristocrete" age="A" stat_amour='néant'>SOPHIE DELVAL</role>, riche héritiere, demeurant dans un château voisin de celui de la Comtesse, habillee en paysanne. Mme. Jalien.</castItem>
+			<castItem><role id='SOPHIE DELVAL' sex="2" type="H" statut="aristocrete" age="A" stat_amour='néant'>SOPHIE DELVAL</role>, riche héritière, demeurant dans un château voisin de celui de la Comtesse, habillée en paysanne. Mme. Jalien.</castItem>
 			<castItem><role id='LISETTE' sex="2" type="H" statut="femme de chambre" age="A" stat_amour='néant'>LISETTE</role>, Femme-de-chambre de Sophie Delval, placée par son ordre chez la Comtesse, en déshabillé. Mme. Raymond.</castItem>
 			<castItem><role id='MONSIEUR LUVILLE' sex="1" type="H" statut="comte" age="A" stat_amour='néant'>MONSIEUR LUVILLE</role>, frère de la Comtesse Delfort, jeune homme aimable, en frac très uni. M. Grangé.</castItem>
-			<castItem><role id='MONSIEUR DELVAL' sex="1" type="H" statut="comte" age="J" stat_amour='néant'>MONSIEUR DELVAL</role>, frère cadet de Sophie, très jeune ; il paraît d'abord en sartout uniforme, ensuite richement paré. M. Raymond.</castItem>
+			<castItem><role id='MONSIEUR DELVAL' sex="1" type="H" statut="comte" age="J" stat_amour='néant'>MONSIEUR DELVAL</role>, frère cadet de Sophie, très jeune ; il paraît d'abord en surtout uniforme, ensuite richement paré. M. Raymond.</castItem>
 			<castItem><role id='DUBOIS' sex="1" type="H" statut="domestique" age="V" stat_amour='néant'>DUBOIS</role>, vieux Domestique de la maison, mis comme Dubois, de la Gageure imprévue. M. Favard.</castItem>
 			<castItem><role id='ANDRÉ' sex="1" type="H" statut="valet" age="A" stat_amour='néant'>ANDRÉ</role>, Valet ingénu, en veste de Courier. M. Valleroi. </castItem>
 			<castItem><role id='MONSIEUR MINUTE' sex="1" type="H" statut="notaire" age="A" stat_amour='néant'>MONSIEUR MINUTE</role>, mis en Notaire de Village. M. Coralli. </castItem>
@@ -70,8 +66,8 @@
 <body>
 <div1 type="act" n='1'><head>L'HEUREUSE ERREUR</head>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE.</head>
-<stage type="decor">Le théâtre représente un salon trèsorné.</stage>
-<sp who="LISETTE"><speaker>LISETTE seule, sortant du cabinet de sa Maîtresse actuelle, de la Comtesse, avec l'air le plus satisfait.</speaker>
+<stage type="decor">Le théâtre représente un salon très orné.</stage>
+<sp stage="alone/entrance/satisfy" who="LISETTE"><speaker>LISETTE seule, sortant du cabinet de sa Maîtresse actuelle, de la Comtesse, avec l'air le plus satisfait.</speaker>
 <p id='1'>
 	<s id='1'>Oh ! </s>
 	<s id='2'>Pour le coup, ma réussite est certaine ; me voilà reçue chez la jeune Comtesse, et déjà dans ses bonnes grâces : elle a donné, tête baissée, dans les pièges que je lui ai tendus ; et au vif intérêt que ma maîtresse paraît prendre à ce badinage, je ne doute point que ma récompense ne soit proportionnée au plaisir que je vais lui faire. </s>
@@ -205,7 +201,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III.</head>
-<sp who="LISETTE"><speaker>LISETTE, seule.</speaker>
+<sp stage="alone" who="LISETTE"><speaker>LISETTE, seule.</speaker>
 <p id='1'>
 	<s id='1'>Personne ne sait que je suis ici. </s>
 	<s id='2'>Que peut me vouloir cette paysanne ? </s>
@@ -215,17 +211,17 @@
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Lisette, Mademoiselle Sophie, Delval, Dubois.</head>
-<sp who="DUBOIS"><speaker>DUBOIS, à Lisette.</speaker>
+<sp stage="toward" who="DUBOIS"><speaker>DUBOIS, à Lisette.</speaker>
 <p id='1'>
 	<s id='1'>La voilà, mademoiselle Lisette.</s>
 </p>
 </sp>
-<sp who="LISETTE"><speaker>LISETTE, très surprise.</speaker>
+<sp stage="surprise" who="LISETTE"><speaker>LISETTE, très surprise.</speaker>
 <p id='2'>
 	<s id='1'>C'est vous, Mad.....</s>
 </p>
 </sp>
-<sp who='SOPHIE'><speaker>SOPHIE, l'interrompant et l'embrassant ensuite.</speaker>
+<sp stage="interrupt/kiss" who='SOPHIE'><speaker>SOPHIE, l'interrompant et l'embrassant ensuite.</speaker>
 <p id='3'>
 	<s id='1'>Oui, ma chère cousine ! </s>
 	<s id='2'>C'est moi.</s>
@@ -237,12 +233,12 @@
 	<s id='2'>C'est votre cousine ?</s>
 </p>
 </sp>
-<sp who='SOPHIE'><speaker>SOPHIE, bas à Lisette.</speaker>
+<sp stage="low/toward" who='SOPHIE'><speaker>SOPHIE, bas à Lisette.</speaker>
 <p id='5'>
 	<s id='1'>Prends-bien garde !</s>
 </p>
 </sp>
-<sp who="LISETTE"><speaker>LISETTE, bas à Sophie.</speaker>
+<sp stage="low/toward" who="LISETTE"><speaker>LISETTE, bas à Sophie.</speaker>
 <p id='6'>
 	<s id='1'>Tout est dit.</s>
 </p>
@@ -252,7 +248,7 @@
 	<s id='1'>Elle est bien jolie, oui !</s>
 </p>
 </sp>
-<sp who="LISETTE"><speaker>LISETTE, à Dubois.</speaker>
+<sp stage="toward" who="LISETTE"><speaker>LISETTE, à Dubois.</speaker>
 <p id='8'>
 	<s id='1'>Laissez-nous, s'il vous plaît.</s>
 </p>
@@ -370,25 +366,25 @@
 	<s id='2'>- Ah ! </s>
 	<s id='3'>Ma pauvre enfant ! </s>
 	<s id='4'>Sophie ne connaît pas les hommes comme moi ; ce sont tous "des monstres ! </s>
-	<s id='5'> Hé bien ! </s>
-	<s id='6'>Mademoiselle est persuadée que cette aversion que vous avez pour l'espèce en général, n'est qu'un sentiment passager, et que lorsque vous aurez renoncé à cette chimère, il ne vous restera plus que le regret cruel d'en avoir trop prolongé la durée. </s>
-	<s id='7'> Elle se trompe, ma haine sera éternelle. </s>
-	<s id='8'> Éternelle ? Bon, s'il n'y avait point de Mademoiselle Sophie au monde. </s>
-	<s id='9'> Que veux-tu dire ? </s>
-	<s id='10'> Rien. </s>
-	<s id='11'> Parle. </s>
-	<s id='12'> Je n'ose. </s>
-	<s id='13'> D'où vient ? </s>
-	<s id='14'> C'est un secret qu'elle m'a confié. </s>
-	<s id='15'> Tu n'es plus à elle. </s>
-	<s id='16'> Il est vrai ; mais... </s>
-	<s id='17'> Quoi ? </s>
-	<s id='18'> Le secret vous regarde uniquement... </s>
-	<s id='19'> Moi ? </s>
-	<s id='20'> Vous-même. </s>
-	<s id='21'> Raison de plus pour m'en instruire. </s>
-	<s id='22'> En effet, je suis à vous, et mon zèle doit étouffer mes scrupules. </s>
-	<s id='23'> Dis donc, dis donc. »</s>
+	<s id='5'>- Hé bien ! </s>
+	<s id='6'>- Mademoiselle est persuadée que cette aversion que vous avez pour l'espèce en général, n'est qu'un sentiment passager, et que lorsque vous aurez renoncé à cette chimère, il ne vous restera plus que le regret cruel d'en avoir trop prolongé la durée. </s>
+	<s id='7'>- Elle se trompe, ma haine sera éternelle. </s>
+	<s id='8'>- Éternelle ? Bon, s'il n'y avait point de Mademoiselle Sophie au monde. </s>
+	<s id='9'>- Que veux-tu dire ? </s>
+	<s id='10'>- Rien. </s>
+	<s id='11'>- Parle. </s>
+	<s id='12'>- Je n'ose. </s>
+	<s id='13'>- D'où vient ? </s>
+	<s id='14'>- C'est un secret qu'elle m'a confié. </s>
+	<s id='15'>- Tu n'es plus à elle. </s>
+	<s id='16'>- Il est vrai ; mais... </s>
+	<s id='17'>- Quoi ? </s>
+	<s id='18'>- Le secret vous regarde uniquement... </s>
+	<s id='19'>- Moi ? </s>
+	<s id='20'>- Vous-même. </s>
+	<s id='21'>- Raison de plus pour m'en instruire. </s>
+	<s id='22'>- En effet, je suis à vous, et mon zèle doit étouffer mes scrupules. </s>
+	<s id='23'>- Dis donc, dis donc. »</s>
 </p>
 <stage type="toward">À Sophie.</stage>
 <p id='20'>
@@ -404,8 +400,8 @@
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 <p id='22'>
 	<s id='1'>« Mademoiselle Sophie, ai-je ajouté avec un air de confidence, a le plus grand mépris pour son sexe ; elle regrette de ne pas être homme, elle soutient que toutes les femmes sont folles, extravagantes, présomptueuses, sans tenues dans leurs projets, sans solidité dans leurs résolutions ; et, pour vous prouver que vous êtes vous-même au nombre de ces femmelettes, qui se proposent tout et n'exécutent rien, elle a résolu de venir ici sous le nom de son frère. </s>
-	<s id='2'> Est-il possible ? </s>
-	<s id='3'> Et elle a même gagé, que si elle parvient à vous voir, elle se fera aimer de vous, et jouira ensuite du plaisir de vous faire rougir d'avoir eu l'orgueil téméraire de vous croire capable de tenir un serment. »</s>
+	<s id='2'>- Est-il possible ? </s>
+	<s id='3'>- Et elle a même gagé, que si elle parvient à vous voir, elle se fera aimer de vous, et jouira ensuite du plaisir de vous faire rougir d'avoir eu l'orgueil téméraire de vous croire capable de tenir un serment. »</s>
 </p>
 </sp>
 <sp who='SOPHIE'><speaker>SOPHIE.</speaker>
@@ -415,7 +411,7 @@
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 <p id='24'>
-	<s id='1'>«  Ah ! </s>
+	<s id='1'>« Ah ! </s>
 	<s id='2'>Lisette, m'a-t-elle dit, en m'embrassant, je reconnaîtrai le service que tu viens de me rendre ; je la recevrai et je la badinerai si bien, que les rieurs ne seront pas de son côté. »</s>
 </p>
 </sp>
@@ -429,7 +425,7 @@
 	<s id='1'>Oui, Madame.</s>
 </p>
 </sp>
-<sp who='SOPHIE'><speaker>SOPHIE, très satisfaite.</speaker>
+<sp stage="satisfy" who='SOPHIE'><speaker>SOPHIE, très satisfaite.</speaker>
 <p id='27'>
 	<s id='1'>Voilà tout ce que je voulais.</s>
 </p>
@@ -567,12 +563,12 @@
 	<s id='1'>Il y a longtemps, Monsieur.</s>
 </p>
 </sp>
-<sp who='LUVILLE'><speaker>LUVILLE, appercevant Sophie.</speaker>
+<sp stage="watch" who='LUVILLE'><speaker>LUVILLE, apercevant Sophie.</speaker>
 <p id='3'>
 	<s id='1'>Qu'est-ce que c'est que cette charmante paysanne ? </s>
 </p>
 </sp>
-<sp who='LISETTE'><speaker>LISETTE, embarrassée.</speaker>
+<sp stage="embarrassed" who='LISETTE'><speaker>LISETTE, embarrassée.</speaker>
 <p id='4'>
 	<s id='1'>Monsieur,... c'est...</s>
 </p>
@@ -601,12 +597,12 @@
 <p id='9'>
 	<s id='1'>Mais, point du tout ; elle est charmante la petite cousine !</s>
 </p>
-<stage type="[N/A]">Sophie fait la révérence.</stage>
+<stage type="wave">Sophie fait la révérence.</stage>
 <stage type="aparte">À part.</stage>
 <p id='10'>
 	<s id='1'>Qu'elle a de grâce ! </s>
 </p>
-<stage type="forte">Haut.</stage>
+<stage type="loud">Haut.</stage>
 <p id='11'>
 	<s id='1'>D'où êtes-vous, ma belle enfant ?</s>
 </p>
@@ -616,7 +612,7 @@
 	<s id='1'>Monsieur, je suis d'un village qui est à six lieux d'ici.</s>
 </p>
 </sp>
-<sp who='LUVILLE'><speaker>LUVILLE, avec intérêt.</speaker>
+<sp stage="interest" who='LUVILLE'><speaker>LUVILLE, avec intérêt.</speaker>
 <p id='13'>
 	<s id='1'>Et, où allez-vous ? </s>
 	<s id='2'>Que faites-vous ?</s>
@@ -647,7 +643,7 @@
 	<s id='1'>J'ai eu le bonheur d'être élevée avec elle, je ne l'ai quittée que pour secourir mes parents, je viens de les perdre, et j'allais réclamer ses bontés, quand j'ai appris que ma cousine n'était plus à son service ; n'osant me présenter au château, je suis venue la trouver ici ; et, quand Monsieur est entré, elle me disait qu'il n'y avait rien à espérer pour moi.</s>
 </p>
 </sp>
-<sp who='LUVILLE'><speaker>LUVILLE, vivement.</speaker>
+<sp stage="stress" who='LUVILLE'><speaker>LUVILLE, vivement.</speaker>
 <p id='19'>
 	<s id='1'>Hé, pourquoi donc, Lisette ? </s>
 	<s id='2'>Hé, mais, vous avez tort ; il ne faut point abandonner cette jeune personne, cela serait affreux ! </s>
@@ -666,7 +662,7 @@
 	<s id='1'>Monsieur, étant moi-même nouvellement reçue dans la maison, je n'aurais jamais eu la hardiesse de vous en faire la prière. </s>
 </p>
 </sp>
-<sp who='LUVILLE'><speaker>LUVILLE, très vivement.</speaker>
+<sp stage="stress" who='LUVILLE'><speaker>LUVILLE, très vivement.</speaker>
 <p id='22'>
 	<s id='1'>Mais, pourquoi donc ? </s>
 	<s id='2'>J'aime à rendre service, moi ! </s>
@@ -679,7 +675,7 @@
 	<s id='1'>Oui, Monsieur.</s>
 </p>
 </sp>
-<sp who='LUVILLE'><speaker>LUVILLE, vivement.</speaker>
+<sp stage="stress" who='LUVILLE'><speaker>LUVILLE, vivement.</speaker>
 <p id='24'>
 	<s id='1'>Qu'elle demeure avec vous.</s>
 </p>
@@ -699,16 +695,16 @@
 	<s id='1'>Croyez, Monsieur, que je suis vivement touchée de vos bontés.</s>
 </p>
 </sp>
-<sp who='LUVILLE'><speaker>LUVILLE, très vivement.</speaker>
+<sp stage="stress" who='LUVILLE'><speaker>LUVILLE, très vivement.</speaker>
 <p id='28'>
 	<s id='1'>Hé, mais cela n'en vaut pas la peine ; ce que je fais est tout simple ; il n'y a pas de spectacle plus attendrissant pour une âme sensible, que la beauté dans l'indigence.</s>
 </p>
 <stage type="toward">À Lisette.</stage>
 <p id='29'>
-	<s id=''>Allez, Lisette, allez vite donner ordre, de ma part, qu'on lui prépare une chambre voisine de la vôtre ; il faudra qu'elle s'occupe, sans quelle soit obligé de sortir, et vous aurez grand soin, surtout, de ne la charger jamais que d'ouvrages qui la dissippe, sans la fatiguer.</s>
+	<s id=''>Allez, Lisette, allez vite donner ordre, de ma part, qu'on lui prépare une chambre voisine de la vôtre ; il faudra qu'elle s'occupe, sans quelle soit obligé de sortir, et vous aurez grand soin, surtout, de ne la charger jamais que d'ouvrages qui la dissipe, sans la fatiguer.</s>
 </p>
 </sp>
-<sp who='LISETTE'><speaker>LISETTE, passant à la gauche de Sophie.</speaker>
+<sp stage="walk/location" who='LISETTE'><speaker>LISETTE, passant à la gauche de Sophie.</speaker>
 <p id='30'>
 	<s id='1'>Reposez-vous sur moi. </s>
 	<s id='2'>Allons, ma cousine, remerciez Monsieur, et suivez-moi.</s>
@@ -718,12 +714,12 @@
 	<s id='1'>Il est pris.</s>
 </p>
 </sp>
-<sp who='SOPHIE'><speaker>SOPHIE, bas à Lisette.</speaker>
+<sp stage="low/toward" who='SOPHIE'><speaker>SOPHIE, bas à Lisette.</speaker>
 <p id='32'>
 	<s id='1'>Il est bien aimable !</s>
 </p>
 </sp>
-<sp who='LUVILLE'><speaker>LUVILLE, à Sophie.</speaker>
+<sp stage="toward" who='LUVILLE'><speaker>LUVILLE, à Sophie.</speaker>
 <p id='33'>
 	<s id='1'>Que dites-vous, tout bas, à votre cousine ?</s>
 </p>
@@ -733,23 +729,23 @@
 	<s id='1'>Que je n'oublierai jamais le service que vous me rendez.</s>
 </p>
 </sp>
-<sp who='LUVILLE'><speaker>LUVILLE, avec chaleur.</speaker>
+<sp stage="warmly" who='LUVILLE'><speaker>LUVILLE, avec chaleur.</speaker>
 <p id='35'>
 	<s id='1'>Je ne me bornerai pas à cela ; mais, c'est que vous m'intéressez infiniment !</s>
 </p>
 </sp>
-<sp who='LISETTE'><speaker>LISETTE, à Sophie.</speaker>
+<sp stage="toward" who='LISETTE'><speaker>LISETTE, à Sophie.</speaker>
 <p id='36'>
 	<s id='1'>Allons, encore une révérence, et partons.</s>
 </p>
 </sp>
-<sp who='LUVILLE'><speaker>LUVILLE, la retenant.</speaker>
+<sp stage="pull" who='LUVILLE'><speaker>LUVILLE, la retenant.</speaker>
 <p id='37'>
 	<s id='1'>Un moment. </s>
 	<s id='2'>Comment vous nomme-t-on ?</s>
 </p>
 </sp>
-<sp who='SOPHIE'><speaker>SOPHIE, embarrassée.</speaker>
+<sp stage="embarrassed" who='SOPHIE'><speaker>SOPHIE, embarrassée.</speaker>
 <p id='38'>
 	<s id='1'>Je me...</s>
 </p>
@@ -759,34 +755,34 @@
 	<s id='1'>Vous n'osez dire votre nom ?</s>
 </p>
 </sp>
-<sp who='SOPHIE'><speaker>SOPHIE, se remettant.</speaker>
+<sp stage="excuse" who='SOPHIE'><speaker>SOPHIE, se remettant.</speaker>
 <p id='40'>
 	<s id='1'>Pardonnez-moi, Monsieur, je m'appelle Mariane.</s>
 </p>
 </sp>
-<sp who='LUVILLE'><speaker>LUVILLE, avec tendresse.</speaker>
+<sp stage="tenderness" who='LUVILLE'><speaker>LUVILLE, avec tendresse.</speaker>
 <p id='41'>
 	<s id='1'>Eh bien, belle Mariane, croyez que je ferai mon possible pour que vous puissiez vous rappeler avec plaisir l'instant où le hasard vous a conduit dans ce château.</s>
 </p>
 </sp>
-<sp who='SOPHIE'><speaker>SOPHIE, avec sentiment.</speaker>
+<sp stage="enthousiasm" who='SOPHIE'><speaker>SOPHIE, avec sentiment.</speaker>
 <p id='42'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Monsieur ! </s>
 	<s id='3'>Je crois que je ne l'oublierai jamais !</s>
 </p>
 </sp>
-<sp who='LUVILLE'><speaker>LUVILLE, très vivement.</speaker>
+<sp stage="stress" who='LUVILLE'><speaker>LUVILLE, très vivement.</speaker>
 <p id='43'>
 	<s id='1'>Que voulez-vous dire ?</s>
 </p>
 </sp>
-<sp who='SOPHIE'><speaker>SOPHIE, voulant s'en aller.</speaker>
+<sp stage="away" who='SOPHIE'><speaker>SOPHIE, voulant s'en aller.</speaker>
 <p id='44'>
 	<s id='1'>Adieu, Monsieur.</s>
 </p>
 </sp>
-<sp who='LUVILLE'><speaker>LUVILLE, la retenant.</speaker>
+<sp stage="pull" who='LUVILLE'><speaker>LUVILLE, la retenant.</speaker>
 <p id='45'>
 	<s id='1'>Encore un moment. </s>
 	<s id='2'>Lisette, allez toujours faire préparer sa chambre, et vous la viendrez reprendre ici.</s>
@@ -797,7 +793,7 @@
 	<s id='1'>Permettez que je me retire avec elle.</s>
 </p>
 </sp>
-<sp who='LUVILLE'><speaker>LUVILLE, avec noblesse.</speaker>
+<sp stage="proud" who='LUVILLE'><speaker>LUVILLE, avec noblesse.</speaker>
 <p id='47'>
 	<s id='1'>Belle Mariane, vous pouvez rester ; on doit être sur d'imprimer le respect, quand on porte sur le front l'empreinte de l'honnêteté.</s>
 </p>
@@ -818,18 +814,18 @@
 <p id='50'>
 	<s id='1'>Le temps vous apprendra quel cas je fais de la vôtre, par les soins que je prendrai pour la mériter.</s>
 </p>
-<stage type="[N/A]">Elle salue.</stage>
+<stage type="wave">Elle salue.</stage>
 <p id='51'>
 	<s id='1'>Adieu, Monsieur.</s>
 </p>
 </sp>
-<sp who='LISETTE'><speaker>LISETTE, bas à Sophie, en s'en allant.</speaker>
+<sp stage="low/toward/away" who='LISETTE'><speaker>LISETTE, bas à Sophie, en s'en allant.</speaker>
 <p id='52'>
 	<s id='1'>Hé bien ! </s>
 	<s id='2'>Qu'en dites-vous ?</s>
 </p>
 </sp>
-<sp who='SOPHIE'><speaker>SOPHIE, de même.</speaker>
+<sp stage="low/toward/away" who='SOPHIE'><speaker>SOPHIE, de même.</speaker>
 <p id='53'>
 	<s id='1'>Qu'un homme aimable, dont l'âme est honnête est bien dangereux pour une femme sensible.</s>
 </p>
@@ -837,7 +833,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCENE VII.</head>
-<sp who='LUVILLE'><speaker>LUVILLE, seul.</speaker>
+<sp stage="alone" who='LUVILLE'><speaker>LUVILLE, seul.</speaker>
 <p id='1'>
 	<s id='1'>Quelle figure intéressante ! </s>
 	<s id='2'>Quel feu dans le regard ! </s>
@@ -851,7 +847,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='8'><head>SCÈNE VIII. André, Luville.</head>
-<sp who='ANDRÉ'><speaker>ANDRÉ, cherchant des yeux.</speaker>
+<sp stage="watch" who='ANDRÉ'><speaker>ANDRÉ, cherchant des yeux.</speaker>
 <p id='1'>
 	<s id='1'>Dam ! </s>
 	<s id='2'>Je ne trouve personne, moi !</s>
@@ -915,7 +911,7 @@
 	<s id='1'>Et il n'y a aucun de mes gens dans l'antichambre ?</s>
 </p>
 </sp>
-<sp who='ANDRÉ'><speaker>ANDRÉ, ôtant son chapeau.</speaker>
+<sp stage="dress" who='ANDRÉ'><speaker>ANDRÉ, ôtant son chapeau.</speaker>
 <p id='13'>
 	<s id='1'>Vos gens ? </s>
 	<s id='2'>Est-ce que vous êtes le maître, vous ?</s>
@@ -979,7 +975,7 @@
 	<s id='1'>Serais-je assez heureux pour pouvoir vous être utile ?</s>
 </p>
 </sp>
-<sp who='DELVAL'><speaker>DELVAL, cherchant la lettre.</speaker>
+<sp stage="search" who='DELVAL'><speaker>DELVAL, cherchant la lettre.</speaker>
 <p id='4'>
 	<s id=''>Je suis chargé de vous remettre une lettre.</s>
 </p>
@@ -1015,12 +1011,12 @@
 <p id='10'>
 	<s id=''>« Je vous recommande vivement la personne qui vous remettra ma lettre, mon cher neveu. »</s>
 </p>
-<stage type="[N/A]">Il s'interrompt.</stage>
+<stage type="interrupt">Il s'interrompt.</stage>
 <p id='11'>
 	<s id='1'>Comment, c'est une recommandation ? </s>
 	<s id='2'>Un homme tel que vous n'en a pas besoin. </s>
 </p>
-<stage type="[N/A]">Delval s'incline et Luville continue de lire.</stage>
+<stage type="wave/read">Delval s'incline et Luville continue de lire.</stage>
 <p id='12'>
 	<s id='1'>« C'est le jeune Marquis Delval dont le nom vous est connu, et dont les brillantes dispositions annoncent le mérite le plus distingué : engagez ma nièce à le recevoir, dites-lui que je l'en prie ; sa solitude me désespère ; vous savez combien je vous aime tous les deux ; je ne m'occupe que de votre bonheur et je serais au comble de mes voeux si je pouvais l'assurer à jamais. »</s>
 	<s id='2'>Ce cher homme ! </s>
@@ -1038,28 +1034,28 @@
 	<s id='2'>Ce château : appartient à ma soeur ; elle n'y reçois jamais d'homme, elle les a tous en horreur.</s>
 </p>
 </sp>
-<sp who='ANDRÉ'><speaker>ANDRÉ, riant,</speaker>
+<sp stage="laugh" who='ANDRÉ'><speaker>ANDRÉ, riant.</speaker>
 <p id='15'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>C'est plaisant çà !</s>
 </p>
 </sp>
-<sp who='DELVAL'><speaker>DELVAL, le regardant sévèrement.</speaker>
+<sp stage="watch" who='DELVAL'><speaker>DELVAL, le regardant sévèrement.</speaker>
 <p id='16'>
 	<s id='1'>Hein !</s>
 </p>
 </sp>
-<sp who='LUVILLE'><speaker>LUVILLE, à André.</speaker>
+<sp stage="toward" who='LUVILLE'><speaker>LUVILLE, à André.</speaker>
 <p id='17'>
 	<s id='1'>Qu'est-ce que tu trouves donc de si plaisant à cela ?</s>
 </p>
 </sp>
-<sp who='ANDRÉ'><speaker>ANDRÉ, riant.</speaker>
+<sp stage="laugh" who='ANDRÉ'><speaker>ANDRÉ, riant.</speaker>
 <p id='18'>
 	<s id='1'>C'est que la Dame que je servais les aimait tant, tant, tant.... </s>
 </p>
 </sp>
-<sp who='DELVAL'><speaker>DELVAL, à André.</speaker>
+<sp stage="toward" who='DELVAL'><speaker>DELVAL, à André.</speaker>
 <p id='19'>
 	<s id='1'>Paix.</s>
 </p>
@@ -1101,7 +1097,7 @@
 <p id='26'>
 	<s id='1'>Ben volontiers, Monsieur.</s>
 </p>
-<stage type="[N/A]">Il sonne.</stage>
+<stage type="ring">Il sonne.</stage>
 <p id='27'>
 	<s id='1'>Déjà ça fera plaisir à Monsieur, car il aime la toilette comme une femme.</s>
 </p>
@@ -1117,8 +1113,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n='10'><head>SCÈNE X. Les Acteurs précédens, Dubois.</head>
-<sp who='LUVILLE'><speaker>LUVILLE, à Dubois.</speaker>
+<div2 type="scene" n='10'><head>SCÈNE X. Les Acteurs précédents, Dubois.</head>
+<sp stage="toward" who='LUVILLE'><speaker>LUVILLE, à Dubois.</speaker>
 <p id='1'>
 	<s id='1'>Conduisez ce garçon à l'appartement du Commandeur, que Monsieur Delval va occuper.</s>
 </p>
@@ -1163,14 +1159,14 @@
 	<s id='2'>Mais comme il va s'ennuyer ! </s>
 	<s id='3'>Ma soeur ne le recevra pas, et mes nouveaux sentiments ne me permettront pas de lui faire exactement compagnie.</s>
 </p>
-<stage type="[N/A]">Il appelle.</stage>
+<stage type="shout">Il appelle.</stage>
 <p id='2'>
 	<s id='1'>Lisette.</s>
 </p>
 </sp>
 </div2>
 <div2 type="scene" n='12'><head>SCÈNE XII. Luville, Lisette.</head>
-<sp who='LISETTE'><speaker>LISETTE, regardant avant de s'approcher.</speaker>
+<sp stage="watch/closer" who='LISETTE'><speaker>LISETTE, regardant avant de s'approcher.</speaker>
 <p id='1'>
 	<s id='1'>Que veut Monsieur ?</s>
 </p>
@@ -1211,17 +1207,17 @@
 	<s id='1'>Écoute donc.</s>
 </p>
 </sp>
-<sp who='LISETTE'><speaker>LISETTE, vivement.</speaker>
+<sp stage="stress" who='LISETTE'><speaker>LISETTE, vivement.</speaker>
 <p id='9'>
 	<s id='1'>Quoi ?</s>
 </p>
 </sp>
-<sp who='LUVILLE'><speaker>LUVILLE, après un silence. </speaker>
+<sp stage="silence" who='LUVILLE'><speaker>LUVILLE, après un silence. </speaker>
 <p id='10'>
 	<s id='1'>Rien, rien.</s>
 </p>
 </sp>
-<sp who='LISETTE'><speaker>LISETTE, en sortant.</speaker>
+<sp stage="exit" who='LISETTE'><speaker>LISETTE, en sortant.</speaker>
 <p id='11'>
 	<s id='1'>Il en tient.</s>
 </p>
@@ -1249,12 +1245,12 @@
 <p id='2'>
 	<s id='1'>Lisez cette lettre, et dictez-moi la réponse.</s>
 </p>
-<stage type="[N/A]">La Comtesse sourit à mesure qu'elle lit la lettre.</stage>
+<stage type="read/smile">La Comtesse sourit à mesure qu'elle lit la lettre.</stage>
 <p id='3'>
 	<s id='1'>Hé bien ma soeur ?</s>
 </p>
 </sp>
-<sp who='LA COMTESSE'><speaker>LA COMTESSE, gaiement.</speaker>
+<sp stage="happy" who='LA COMTESSE'><speaker>LA COMTESSE, gaiement.</speaker>
 <p id='4'>
 	<s id='1'>Hé bien, mon frère, la recommandation de mon oncle est toute puissante sur moi, et je suis prête à recevoir son protégé.</s>
 </p>
@@ -1295,7 +1291,7 @@
 	<s id='1'>Expliquez-vous?</s>
 </p>
 </sp>
-<sp who="LA COMTESSE"><speaker>LA COMTESSE, riant.</speaker>
+<sp stage="laugh" who="LA COMTESSE"><speaker>LA COMTESSE, riant.</speaker>
 <p id='12'>
 	<s id='1'>Ce jeune Marquis qui vous est si fortement recommandé par mon oncle...</s>
 </p>
@@ -1407,25 +1403,25 @@
 	<s id='1'>Dites-moi donc ce qui vous occupe ?</s>
 </p>
 </sp>
-<sp who="LUVILLE"><speaker>LUVILLE, avec effusion.</speaker>
+<sp stage="enthousiasm" who="LUVILLE"><speaker>LUVILLE, avec effusion.</speaker>
 <p id='32'>
 	<s id='1'>Hé bien !...</s>
 </p>
-<stage type="[N/A]">En se sauvant.</stage>
+<stage type="away">En se sauvant.</stage>
 <p id='33'>
 	<s id='1'>Vous le saurez.</s>
 </p>
 </sp>
 </div2>
 <div2 type="scene" n='15'><head>SCÈNE XV.</head>
-<sp who="LA COMTESSE"><speaker>LA COMTESSE, seule.</speaker>
+<sp stage="alone" who="LA COMTESSE"><speaker>LA COMTESSE, seule.</speaker>
 <p id='1'>
 	<s id='1'>Qu'est-ce que cela signifie ?</s>
 </p>
 </sp>
 </div2>
 <div2 type="scene" n='16'><head>SCÈNE XVI. La Comtesse, Lisette.</head>
-<sp who="LISETTE"><speaker>LISETTE, accourant.</speaker>
+<sp stage="entrance/run" who="LISETTE"><speaker>LISETTE, accourant.</speaker>
 <p id='1'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Madame ! </s>
@@ -1447,7 +1443,7 @@
 	<s id='1'>On vient.</s>
 </p>
 </sp>
-<sp who="LISETTE"><speaker>LISETTE, en fuyant.</speaker>
+<sp stage="away" who="LISETTE"><speaker>LISETTE, en fuyant.</speaker>
 <p id='5'>
 	<s id='1'>Je me sauve !</s>
 </p>
@@ -1458,9 +1454,9 @@
 <p id='1'>
 	<s id='1'>Ma soeur, voilà Monsieur Delval, que je vous présente.</s>
 </p>
-<stage type="[N/A]">On se salue.</stage>
+<stage type="wave">On se salue.</stage>
 </sp>
-<sp who="DELVAL"><speaker>DELVAL, à part.</speaker>
+<sp stage="aparte" who="DELVAL"><speaker>DELVAL, à part.</speaker>
 <p id='2'>
 	<s id='1'>Qu'elle est belle !</s>
 </p>
@@ -1475,7 +1471,7 @@
 	<s id='1'>Rien ne pourra jamais m'acquitter envers votre oncle, Madame ; c'est à lui que je dois le bonheur de vous présenter mes hommages.</s>
 </p>
 </sp>
-<sp who="LA COMTESSE"><speaker>LA COMTESSE, à part.</speaker>
+<sp stage="aparte" who="LA COMTESSE"><speaker>LA COMTESSE, à part.</speaker>
 <p id='4'>
 	<s id='1'>Qu'elle a bonne grâce ! </s>
 </p>
@@ -1494,7 +1490,8 @@
 	<s id='1'>Ah ! </s>
 	<s id='2'>Monsieur, la flatterie est un poison qui n'a point encore corrompu notre retraite ; et je serais vraiment fâchée qu'il y pénétrât.</s>
 </p>
-<stage type="[N/A]">DELVAL.</stage>
+</sp>
+<sp who="DELVAL"><speaker>DELVAL.</speaker>
 <p id='8'>
 	<s id='1'>Louer ce qu'on admire, exprimer ce qu'on pense, appelez-vous cela de la flatterie ?</s>
 </p>
@@ -1515,14 +1512,14 @@
 	<s id='6'>Adieu. </s>
 	<s id='7'>Bonjour ma soeur !</s>
 </p>
-<stage type="[N/A]">Il l'embrasse.</stage>
+<stage type="kiss">Il l'embrasse.</stage>
 </sp>
-<sp who="LA COMTESSE"><speaker>LA COMTESSE, bas à Luville.</speaker>
+<sp stage="low/toward" who="LA COMTESSE"><speaker>LA COMTESSE, bas à Luville.</speaker>
 <p id='11'>
 	<s id='1'>Qu'elle est bien en homme !</s>
 </p>
 </sp>
-<sp who="LUVILLE"><speaker>LUVILLE, bas à la Comtesse.</speaker>
+<sp stage="low/toward" who="LUVILLE"><speaker>LUVILLE, bas à la Comtesse.</speaker>
 <p id='12'>
 	<s id='1'>C'est à s'y méprendre.</s>
 </p>
@@ -1536,7 +1533,7 @@
 	<s id=''>Monsieur, je...</s>
 </p>
 </sp>
-<sp who="LUVILLE"><speaker>LUVILLE, revenant.</speaker>
+<sp stage="back" who="LUVILLE"><speaker>LUVILLE, revenant.</speaker>
 <p id='15'>
 	<s id='1'>À propos ! </s>
 	<s id='2'>Eh vous ne l'avez pas embrassée en entrant !</s>
@@ -1559,7 +1556,7 @@
 	<s id='1'>Cet honneur....</s>
 </p>
 </sp>
-<sp who="LUVILLE"><speaker>LUVILLE, à la Comtesse.</speaker>
+<sp stage="toward" who="LUVILLE"><speaker>LUVILLE, à la Comtesse.</speaker>
 <p id='19'>
 	<s id='1'>Embrasses-le donc toi-même, car cela ne finirait pas.</s>
 </p>
@@ -1571,7 +1568,7 @@
 </p>
 <stage type="action/laugh">Après avoir embrassé Delval qui reste stupéfait, elle et Luville éclatent de rire.</stage>
 </sp>
-<sp who="DELVAL"><speaker>DELVAL, à part.</speaker>
+<sp stage="aparte" who="DELVAL"><speaker>DELVAL, à part.</speaker>
 <p id='21'>
 	<s id='1'>Qu'est-ce que cela signifie ?</s>
 </p>
@@ -1588,7 +1585,7 @@
 <div2 type="scene" n='18'><head>SCENE XVIII. La Comtesse, Delval.</head>
 <sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
 <p id='1'>
-	<s id='1'>Qu'avez-vous donc, Monsieur? Vous avez l'air tout interdit.</s>
+	<s id='1'>Qu'avez-vous donc, Monsieur ? Vous avez l'air tout interdit.</s>
 </p>
 </sp>
 <sp who="DELVAL"><speaker>DELVAL.</speaker>
@@ -1688,7 +1685,7 @@
 	<s id='1'>Me croyez-vous un cour insensible ?</s>
 </p>
 </sp>
-<sp who="LA COMTESSE"><speaker>LA COMTESSE, finement.</speaker>
+<sp stage="subtly" who="LA COMTESSE"><speaker>LA COMTESSE, finement.</speaker>
 <p id='21'>
 	<s id='1'>Vous n'en avez pas l'air.</s>
 </p>
@@ -1698,7 +1695,7 @@
 	<s id='1'>Hé pourquoi donc douteriez-vous de mon amour ?</s>
 </p>
 </sp>
-<sp who="LA COMTESSE"><speaker>LA COMTESSE, riant.</speaker>
+<sp stage="laugh" who="LA COMTESSE"><speaker>LA COMTESSE, riant.</speaker>
 <p id='23'>
 	<s id='1'>C'est que je ne crois jamais à l'impossible.</s>
 </p>
@@ -1725,7 +1722,7 @@
 	<s id='1'>Peut-être mieux que vous ne croyez.</s>
 </p>
 </sp>
-<sp who="DELVAL"><speaker>DELVAL, avec tendresse.</speaker>
+<sp stage="tenderness" who="DELVAL"><speaker>DELVAL, avec tendresse.</speaker>
 <p id='18'>
 	<s id='1'>Détrompez-vous, Madame : et pardonnez-moi un aveu que votre incrédulité m'arrache. </s>
 	<s id='2'>Je n'avais point encore connu le sentiment que vous m'inspirez.</s>
@@ -1736,12 +1733,12 @@
 	<s id='1'>Cela est possible.</s>
 </p>
 </sp>
-<sp who="DELVAL"><speaker>DELVAL, de même.</speaker>
+<sp stage="tenderness" who="DELVAL"><speaker>DELVAL, de même.</speaker>
 <p id='20'>
 	<s id='1'>Votre premier regard a pénétré mon coeur....</s>
 </p>
 </sp>
-<sp who='LA COMTESSE'><speaker>LA COMTESSE, plaisantant.</speaker>
+<sp stage="joking" who='LA COMTESSE'><speaker>LA COMTESSE, plaisantant.</speaker>
 <p id='21'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Ciel!</s>
@@ -1752,7 +1749,7 @@
 	<s id='1'>Et maintenant je ne puis plus vivre que pour vous adorer !</s>
 </p>
 </sp>
-<sp who="LA COMTESSE"><speaker>LA COMTESSE, riant.</speaker>
+<sp stage="laugh" who="LA COMTESSE"><speaker>LA COMTESSE, riant.</speaker>
 <p id='23'>
 	<s id='1'>Savez-vous que cela imite le naturel ?</s>
 </p>
@@ -1814,12 +1811,12 @@
 	<s id='4'>Ne me supposez pas si peu de discernement, je vous distingue sans doute, et je vois clairement la différence qu'il y a entre vous et tous les hommes.</s>
 </p>
 </sp>
-<sp who="DELVAL"><speaker>DELVAL, avec joie.</speaker>
+<sp stage="happy" who="DELVAL"><speaker>DELVAL, avec joie.</speaker>
 <p id='34'>
 	<s id='1'>Cette flatteuse préférence.</s>
 </p>
 </sp>
-<sp who="LA COMTESSE"><speaker>LA COMTESSE, avec malignité.</speaker>
+<sp stage="slyness" who="LA COMTESSE"><speaker>LA COMTESSE, avec malignité.</speaker>
 <p id='35'>
 	<s id='1'>Reste à savoir si c'en est une.</s>
 </p>
@@ -1884,7 +1881,7 @@
 	<s id='1'>Sur quoi ?</s>
 </p>
 </sp>
-<sp who="LA COMTESSE"><speaker>LA COMTESSE, sérieusement.</speaker>
+<sp stage="serious" who="LA COMTESSE"><speaker>LA COMTESSE, sérieusement.</speaker>
 <p id='47'>
 	<s id='1'>Le voici. </s>
 	<s id='2'>Ce n'est pas sans dessein que vous êtes ici : quels sont les motifs qui vous ont inspirés l'envie de me connaître ? </s>
@@ -1896,7 +1893,7 @@
 	<s id='1'>J'ai souvent entendu vanter vos charmes ; on m'a fait un éloge si brillant de tout votre mérite, que je n'ai pu résister au désir de voir une personne si accomplie ; et j'éprouve, au dépend de ma liberté, que le portrait n'était pas flatté.</s>
 </p>
 </sp>
-<sp who="LA COMTESSE"><speaker>LA COMTESSE, lui faisant une profonde révérence en souriant.</speaker>
+<sp stage="wave/smile" who="LA COMTESSE"><speaker>LA COMTESSE, lui faisant une profonde révérence en souriant.</speaker>
 <p id='49'>
 	<s id='1'>Je vous demande bien pardon, Monsieur ; mais vous mentez !</s>
 </p>
@@ -1907,7 +1904,7 @@
 	<s id='2'>Mais j'avouerai qu'avant de vous connaître, j'avais formé le projet de vous rendre des soins, et de tout mettre en usage pour me faire aimer de vous...</s>
 </p>
 </sp>
-<sp who="LA COMTESSE"><speaker>LA COMTESSE, l'interrompant.</speaker>
+<sp stage="interrupt" who="LA COMTESSE"><speaker>LA COMTESSE, l'interrompant.</speaker>
 <p id='51'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Vous parlez vrai à présent ; j'en suis sûre.</s>
@@ -1924,7 +1921,7 @@
 	<s id='2'>Je crois que vous vous trompez de mot.</s>
 </p>
 </sp>
-<sp who='DELVAL'><speaker>DELVAL, vivement.</speaker>
+<sp stage="stress" who='DELVAL'><speaker>DELVAL, vivement.</speaker>
 <p id="54">
 	<s id="1">Il est vrai, c'était un pressentiment secret qui m'entraînait invinciblement vers l'objet adorable que je devais aimer toute ma vie !</s>
 </p>
@@ -1934,7 +1931,7 @@
 	<s id="1">Toute votre vie !</s>
 </p>
 </sp>
-<sp who='DELVAL'><speaker>DELVAL, à genoux.</speaker>
+<sp stage="kneel" who='DELVAL'><speaker>DELVAL, à genoux.</speaker>
 <p id="56">
 	<s id="1">Oui, Madame, et je jure à vos pieds que mon amour sera aussi constant qu'il est tendre et sincère.</s>
 </p>
@@ -1985,18 +1982,18 @@
 	<s id="1">Mais pour de l'amour, vous ne m'en inspirerez de votre vie.</s>
 </p>
 </sp>
-<sp who='DELVAL'><speaker>DELVAL, se relevant.</speaker>
+<sp stage="stand" who='DELVAL'><speaker>DELVAL, se relevant.</speaker>
 <p id='66'>
 	<s id='1'>Juste Ciel !</s>
 </p>
 </sp>
-<sp who='LA COMTESSE'><speaker>LA COMTESSE, ironiquement.</speaker>
+<sp stage="ironic" who='LA COMTESSE'><speaker>LA COMTESSE, ironiquement.</speaker>
 <p id='67'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>C'est cruel!</s>
 </p>
 </sp>
-<sp who='DELVAL'><speaker>DELVAL, accablé.</speaker>
+<sp stage="afflicted" who='DELVAL'><speaker>DELVAL, accablé.</speaker>
 <p id='68'>
 	<s id='1'>Et vous allez, sans doute, m'ordonner de vous fuir ?</s>
 </p>
@@ -2007,7 +2004,7 @@
 	<s id='2'>Vous pouvez rester.</s>
 </p>
 </sp>
-<sp who='DELVAL'><speaker>DELVAL, avec un peu de satisfaction.</speaker>
+<sp stage="satisfy" who='DELVAL'><speaker>DELVAL, avec un peu de satisfaction.</speaker>
 <p id='70'>
 	<s id='1'>C'est du moins une marque de préférence.</s>
 </p>
@@ -2038,7 +2035,7 @@
 	<s id="1">Non, je ne vous haïs point; et si vous voulez lever ce voile épais qui me cache le fond de votre coeur, et m'aimer de bonne foi, je pourrais à mon tour vous aimer à la folie.</s>
 </p>
 </sp>
-<sp who='DELVAL'><speaker>DELVAL, enchanté.</speaker>
+<sp stage="happy" who='DELVAL'><speaker>DELVAL, enchanté.</speaker>
 <p id="76">
 	<s id="1">Ah ! </s>
 	<s id='2'>Vous me rendez la vie ; si vous mesurez vos sentiments sur les miens, bientôt un amour mutuel...</s>
@@ -2066,7 +2063,7 @@
 	<s id="1">Expliquez-vous ?</s>
 </p>
 </sp>
-<sp who="LA COMTESSE"><speaker>LA COMTESSE, légérement.</speaker>
+<sp stage="lightly" who="LA COMTESSE"><speaker>LA COMTESSE, légèrement.</speaker>
 <p id='81'>
 	<s id='1'>Dites-moi une chose.</s>
 </p>
@@ -2124,7 +2121,7 @@
 	<s id='2'>Ils prennent quelquefois le désir pour l'amour, mais le bonheur détruit bientôt l'illusion.</s>
 </p>
 </sp>
-<sp who='DELVAL'><speaker>DELVAL, vivement.</speaker>
+<sp stage="stress" who='DELVAL'><speaker>DELVAL, vivement.</speaker>
 <p id="91">
 	<s id="1">Ne les jugez pas tous ainsi ; je suis encore bien jeune, et cependant j'en ai connu beaucoup dont l'amour augmentait par la possession.</s>
 </p>
@@ -2139,7 +2136,7 @@
 	<s id="1">Oui, Madame, beaucoup.</s>
 </p>
 </sp>
-<sp who='LA COMTESSE'><speaker>LA COMTESSE, souriant.</speaker>
+<sp stage="smile" who='LA COMTESSE'><speaker>LA COMTESSE, souriant.</speaker>
 <p id='94'>
 	<s id='1'>Je vous en fais mon compliment.</s>
 </p>
@@ -2149,7 +2146,7 @@
 	<s id="1">Dans une affaire qui me regarde personnellement, je n'ai pas besoin de plaider la cause des hommes en général...</s>
 </p>
 </sp>
-<sp who='LA COMTESSE'><speaker>LA COMTESSE, riant.</speaker>
+<sp stage="laugh" who='LA COMTESSE'><speaker>LA COMTESSE, riant.</speaker>
 <p id='96'>
 	<s id='1'>En effet, cela ne serait pas fort décent...</s>
 </p>
@@ -2159,7 +2156,7 @@
 	<s id="1">Et puisque je suis sûr de mon coeur...</s>
 </p>
 </sp>
-<sp who='LA COMTESSE'><speaker>LA COMTESSE, lui prenant la main avec bonté.</speaker>
+<sp stage="touch" who='LA COMTESSE'><speaker>LA COMTESSE, lui prenant la main avec bonté.</speaker>
 <p id='98'>
 	<s id='1'>Hé bien, c'est à lui que j'en appelle.</s>
 </p>
@@ -2169,39 +2166,39 @@
 	<s id="1">Ce n'est pas le moyen de gagner votre cause.</s>
 </p>
 </sp>
-<sp who='LA COMTESSE'><speaker>LA COMTESSE, de même.</speaker>
+<sp stage="touch" who='LA COMTESSE'><speaker>LA COMTESSE, de même.</speaker>
 <p id='100'>
 	<s id='1'>Je ne veux pourtant pas d'autre Juge.</s>
 </p>
 </sp>
-<sp who='DELVAL'><speaker>DELVAL, avec tendresse.</speaker>
+<sp stage="tenderness" who='DELVAL'><speaker>DELVAL, avec tendresse.</speaker>
 <p id='101'>
 	<s id='1'>Il vous dira que je vous adore !</s>
 </p>
 </sp>
-<sp who="LA COMTESSE"><speaker>LA COMTESSE, le fixant avec douceur.</speaker>
+<sp stage="watch/sweet" who="LA COMTESSE"><speaker>LA COMTESSE, le fixant avec douceur.</speaker>
 <p id='102'>
 	<s id='1'>Vous !</s>
 </p>
 </sp>
-<sp who='DELVAL'><speaker>DELVAL, avec passion.</speaker>
+<sp stage="passion" who='DELVAL'><speaker>DELVAL, avec passion.</speaker>
 <p id='103'>
 	<s id='1'>Et que jusqu'au dernier soupir....</s>
 </p>
 </sp>
-<sp who='LA COMTESSE'><speaker>LA COMTESSE, quittant sa main et lui parlant avec froideur et dignité.</speaker>
+<sp stage="coolness/proud" who='LA COMTESSE'><speaker>LA COMTESSE, quittant sa main et lui parlant avec froideur et dignité.</speaker>
 <p id='104'>
 	<s id='1'>Monsieur, agir en liberté et ne point parler d'amour : voilà les deux conditions que mon frère avait exigées en vous laissant seul avec moi. </s>
 	<s id='2'>Vous avez oubliez l'une, et je vais profiter de l'autre pour terminer un entretien qui nous gêne également tous les deux.</s>
 </p>
-<stage type="[N/A]">Elle lui fait une profonde révérence, et dit en sortant :</stage>
+<stage type="wave/exit">Elle lui fait une profonde révérence, et dit en sortant :</stage>
 <p id='105'>
 	<s id='1'>C'est bien dommage !</s>
 </p>
 </sp>
 </div2>
 <div2 type="scene" n='19'><head>SCÈNE XIX.</head>
-<sp who='DELVAL'><speaker>DELVAL, seul.</speaker>
+<sp stage="alone" who='DELVAL'><speaker>DELVAL, seul.</speaker>
 <p id='1'>
 	<s id='1'>Quel mélange inouï d'esprit et d'incrédulité, de beauté et de froideur ! </s>
 	<s id='2'>Je crains bien que ma soeur, en cherchant à me rendre heureux, n'ait fait tout le malheur de ma vie !</s>
@@ -2280,7 +2277,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='21'><head>SCÈNE XXI. Luville, Delval, André.</head>
-<sp who='LUVILLE'><speaker>LUVILLE, d'un air sombre.</speaker>
+<sp stage="sad" who='LUVILLE'><speaker>LUVILLE, d'un air sombre.</speaker>
 <p id='1'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Vous voilà, Monsieur, je vous cherchais.</s>
@@ -2291,12 +2288,12 @@
 	<s id="1">Je n'ai pas quitté ce salon.</s>
 </p>
 </sp>
-<sp who='LUVILLE'><speaker>LUVILLE, de même.</speaker>
+<sp stage="sad" who='LUVILLE'><speaker>LUVILLE, de même.</speaker>
 <p id='3'>
 	<s id='1'>Renvoyez votre laquais.</s>
 </p>
 </sp>
-<sp who='DELVAL'><speaker>DELVAL, à André.</speaker>
+<sp stage="toward" who='DELVAL'><speaker>DELVAL, à André.</speaker>
 <p id='4'>
 	<s id='1'>Sors.</s>
 </p>
@@ -2311,24 +2308,24 @@
 	<s id="1">Non.</s>
 </p>
 </sp>
-<sp who='ANDRÉ'><speaker>ANDRÉ, s'en allant.</speaker>
+<sp stage="away" who='ANDRÉ'><speaker>ANDRÉ, s'en allant.</speaker>
 <p id='7'>
 	<s id='1'>Tant-pis.</s>
 </p>
 </sp>
 </div2>
 <div2 type="scene" n='22'><head>SCÈNE XXII. Luville, Delval.</head>
-<sp who='DELVAL'><speaker>DELVAL, à part.</speaker>
+<sp stage="aparte" who='DELVAL'><speaker>DELVAL, à part.</speaker>
 <p id='1'>
 	<s id='1'>Que signifie cet air glacé ?</s>
 </p>
 </sp>
-<sp who='LUVILLE'><speaker>LUVILLE, à part, en riant.</speaker>
+<sp stage="aparte/laugh" who='LUVILLE'><speaker>LUVILLE, à part, en riant.</speaker>
 <p id='2'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Mademoiselle Delval, je vous pousserai à bout.</s>
 </p>
-<stage type="[N/A]">Un moment de silence.</stage>
+<stage type="silence">Un moment de silence.</stage>
 </sp>
 <sp who="DELVAL"><speaker>DELVAL.</speaker>
 <p id="3">
@@ -2336,12 +2333,12 @@
 	<s id='2'>Vous avez l'air bien sérieux !</s>
 </p>
 </sp>
-<sp who='LUVILLE'><speaker>LUVILLE, d'un air sombre.</speaker>
+<sp stage="sad" who='LUVILLE'><speaker>LUVILLE, d'un air sombre.</speaker>
 <p id='4'>
 	<s id='1'>Vous êtes gentilhomme ?</s>
 </p>
 </sp>
-<sp who='DELVAL'><speaker>DELVAL, avec sang-froid.</speaker>
+<sp stage="coolness" who='DELVAL'><speaker>DELVAL, avec sang-froid.</speaker>
 <p id='5'>
 	<s id='1'>Je ne pense pas qu'on en doute.</s>
 </p>
@@ -2376,7 +2373,7 @@
 	<s id="1">Je ne vous entends pas.</s>
 </p>
 </sp>
-<sp who='LUVILLE'><speaker>LUVILLE, s'approchant de lui.</speaker>
+<sp stage="closer" who='LUVILLE'><speaker>LUVILLE, s'approchant de lui.</speaker>
 <p id='12'>
 	<s id='1'>Je vais m'expliquer mieux.</s>
 </p>
@@ -2416,7 +2413,7 @@
 	<s id="1">Que l'amour...</s>
 </p>
 </sp>
-<sp who='LUVILLE'><speaker>LUVILLE, furieux.</speaker>
+<sp stage="anger" who='LUVILLE'><speaker>LUVILLE, furieux.</speaker>
 <p id='20'>
 	<s id=''>L'amour !</s>
 </p>
@@ -2426,7 +2423,7 @@
 	<s id="1">Qu'a donc ce mot de si révoltant ?</s>
 </p>
 </sp>
-<sp who='LUVILLE'><speaker>LUVILLE, le prenant par la main.</speaker>
+<sp stage="touch" who='LUVILLE'><speaker>LUVILLE, le prenant par la main.</speaker>
 <p id='21'>
 	<s id='1'>Écoutez-moi.</s>
 </p>
@@ -2446,7 +2443,7 @@
 	<s id="1">J'en fais gloire !</s>
 </p>
 </sp>
-<sp who='LUVILLE'><speaker>LUVILLE, mettant son chapeau.</speaker>
+<sp stage="dress" who='LUVILLE'><speaker>LUVILLE, mettant son chapeau.</speaker>
 <p id='25'>
 	<s id='1'>Il faut me faire raison.</s>
 </p>
@@ -2497,11 +2494,11 @@
 	<s id="1">Non, je ne me battrai point contre le frère de celle que j'adore !</s>
 </p>
 </sp>
-<sp who='LUVILLE'><speaker>LUVILLE, à part, en riant.</speaker>
+<sp stage="aparte/laugh" who='LUVILLE'><speaker>LUVILLE, à part, en riant.</speaker>
 <p id='35'>
 	<s id='1'>La voilà bien embarrassée.</s>
 </p>
-<stage type="forte">Haut. </stage>
+<stage type="loud">Haut.</stage>
 <p id='36'>
 	<s id='1'>Mauvais prétexte. </s>
 	<s id='2'>Allons, allons.</s>
@@ -2512,7 +2509,7 @@
 	<s id="1">Écoutez-moi...</s>
 </p>
 </sp>
-<sp who='LUVILLE'><speaker>LUVILLE, l'épée à la main.</speaker>
+<sp stage="fight" who='LUVILLE'><speaker>LUVILLE, l'épée à la main.</speaker>
 <p id='38'>
 	<s id='1'>Rien, rien.</s>
 </p>
@@ -2527,22 +2524,22 @@
 	<s id="1">Allons, allons, défendez-vous.</s>
 </p>
 </sp>
-<sp who='DELVAL'><speaker>DELVAL, mettant son chapeau.</speaker>
+<sp stage="dress" who='DELVAL'><speaker>DELVAL, mettant son chapeau.</speaker>
 <p id='41'>
 	<s id='1'>Vous le voulez, Monsieur ? </s>
 	<s id='2'>Il faut vous satisfaire.</s>
 </p>
 </sp>
-<sp who='LUVILLE'><speaker>LUVILLE, à part, surpris.</speaker>
+<sp stage="aparte/suprise" who='LUVILLE'><speaker>LUVILLE, à part, surpris.</speaker>
 <p id='42'>
 	<s id='1'>Comment, diable !</s>
 </p>
 </sp>
-<sp who='DELVAL'><speaker>DELVAL, fonçant sur lui.</speaker>
+<sp stage="run/closer" who='DELVAL'><speaker>DELVAL, fonçant sur lui.</speaker>
 <p id='43'>
 	<s id='1'>C'est vous qui m'y forcez.</s>
 </p>
-<stage type="[N/A]">Luville voyant Delval foncer sur lui, rompt précipitamment, dans la crainte de le blesser, Delval saute au désarmement, et lui ôte son épée.</stage>
+<stage type="fight">Luville voyant Delval foncer sur lui, rompt précipitamment, dans la crainte de le blesser, Delval saute au désarmement, et lui ôte son épée.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='23'><head>SCÈNE XXIII. Luville, La Comtesse, Delval.</head>
@@ -2552,18 +2549,18 @@
 	<s id='2'>Que vois-je ?</s>
 </p>
 </sp>
-<sp who='DELVAL'><speaker>DELVAL, lui présentant l'épée de Luville.</speaker>
+<sp stage="give" who='DELVAL'><speaker>DELVAL, lui présentant l'épée de Luville.</speaker>
 <p id='2'>
-	<s id='1'>Venez, Madame, venez apaiser l'injuste colère de votre frère ; il voulait percer le cour de son ami.</s>
+	<s id='1'>Venez, Madame, venez apaiser l'injuste colère de votre frère ; il voulait percer le coeur de son ami.</s>
 </p>
 </sp>
-<sp who='LA COMTESSE'><speaker>LA COMTESSE, rendant l'épée.</speaker>
+<sp stage="give" who='LA COMTESSE'><speaker>LA COMTESSE, rendant l'épée.</speaker>
 <p id='3'>
 	<s id='1'>Quoi ! </s>
 	<s id='2'>Mon frère !...</s>
 </p>
 </sp>
-<sp who='LUVILLE'><speaker>LUVILLE, bas à la Comtesse.</speaker>
+<sp stage="low/toward" who='LUVILLE'><speaker>LUVILLE, bas à la Comtesse.</speaker>
 <p id='4'>
 	<s id='1'>C'est un diable !</s>
 </p>
@@ -2584,7 +2581,7 @@
 	<s id='2'>La passion...</s>
 </p>
 </sp>
-<sp who='LA COMTESSE'><speaker>LA COMTESSE, riant.</speaker>
+<sp stage="laugh" who='LA COMTESSE'><speaker>LA COMTESSE, riant.</speaker>
 <p id='8'>
 	<s id='1'>La passion !...</s>
 </p>
@@ -2684,12 +2681,12 @@
 	<s id="1">Est tout simple; que le notaire vienne, que votre frère dicte le contrat, et je signe aveuglément.</s>
 </p>
 </sp>
-<sp who='LA COMTESSE'><speaker>LA COMTESSE, riant nonchalamment.</speaker>
+<sp stage="laugh" who='LA COMTESSE'><speaker>LA COMTESSE, riant nonchalamment.</speaker>
 <p id='28'>
 	<s id='1'>Vous badinez !</s>
 </p>
 </sp>
-<sp who='DELVAL'><speaker>DELVAL, avec feu.</speaker>
+<sp stage="enthousiasm" who='DELVAL'><speaker>DELVAL, avec feu.</speaker>
 <p id='29'>
 	<s id='1'>Mais quelle horrible opinion avez-vous donc conçue de moi ? </s>
 	<s id='2'>Ah ! </s>
@@ -2697,17 +2694,17 @@
 	<s id='4'>Croyez que mon bonheur est de vous aimer, de passer mes jours auprès de vous, et de réparer, par les plus tendres soins, tous les chagrins cruels que l'hymen vous a fait éprouver.</s>
 </p>
 </sp>
-<sp who='LA COMTESSE'><speaker>LA COMTESSE, bas à Luville.</speaker>
+<sp stage="low/toward" who='LA COMTESSE'><speaker>LA COMTESSE, bas à Luville.</speaker>
 <p id='20'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Mon frère !</s>
 </p>
 </sp>
-<sp who='LUVILLE'><speaker>LUVILLE, bas à la Comtesse.</speaker>
+<sp stage="low/toward" who='LUVILLE'><speaker>LUVILLE, bas à la Comtesse.</speaker>
 <p id='21'>
 	<s id='1'>Il faut la mettre au pied du mur.</s>
 </p>
-<stage type="forte">Haut. </stage>
+<stage type="loud">Haut.</stage>
 <p id='22'>
 	<s id='1'>Hé bien, Monsieur, je me rends et je vous accorde ma soeur.</s>
 </p>
@@ -2728,7 +2725,7 @@
 	<s id="1">Vouloir hâter l'instant de mon bonheur, c'est redoubler ma félicité.</s>
 </p>
 </sp>
-<sp who='LA COMTESSE'><speaker>LA COMTESSE, avec tendresse.</speaker>
+<sp stage="tenderness" who='LA COMTESSE'><speaker>LA COMTESSE, avec tendresse.</speaker>
 <p id="26">
 	<s id="1">Delval, cher Delval ne me forcez pas à vous haïr. </s>
 	<s id='2'>Je vous aime plus que vous ne croyez, et je désire avec une extrême ardeur que vous m'autorisiez a vous aimer toujours de même.</s>
@@ -2760,7 +2757,7 @@
 	<s id="1">Et quel plus beau triomphe que le don de votre coeur et le titre de votre époux ?</s>
 </p>
 </sp>
-<sp who='LA COMTESSE'><speaker>LA COMTESSE, très sévèrement.</speaker>
+<sp stage="stress" who='LA COMTESSE'><speaker>LA COMTESSE, très sévèrement.</speaker>
 <p id="32">
 	<s id="1">Hé bien, Monsieur, allez donc chez le notaire, faites dresser le contrat, si vous l'osez, mais songez bien que ma haine sera le prix de votre perfidie.</s>
 </p>
@@ -2769,14 +2766,14 @@
 <p id="33">
 	<s id="1">Mon coeur est trop pur, pour redouter cette menace.</s>
 </p>
-<stage type="[N/A]">Il appelle André.</stage>
+<stage type="shout">Il appelle André.</stage>
 <p id='34'>
 	<s id='1'>André ?</s>
 </p>
 </sp>
 </div2>
 <div2 type="scene" n='10'><head>SCÈNE X.IV. Les Acteurs précédents et André.</head>
-<sp who='ANDRÉ'><speaker>ANDRÉ, accourant.</speaker>
+<sp stage="run" who='ANDRÉ'><speaker>ANDRÉ, accourant.</speaker>
 <p id='1'>
 	<s id='1'>Me vlà Madame.</s>
 </p>
@@ -2798,12 +2795,12 @@
 	<s id="1">Qu'avez-vous donc ?</s>
 </p>
 </sp>
-<sp who='LA COMTESSE, LUVILLE'><speaker>LA COMTESSE ET LUVILLE.</speaker>
+<sp stage="together" who='LA COMTESSE, LUVILLE'><speaker>LA COMTESSE ET LUVILLE.</speaker>
 <p id='5'>
 	<s id=''>Rien, rien.</s>
 </p>
 </sp>
-<sp who='DELVAL'><speaker>DELVAL, à André.</speaker>
+<sp stage="toward" who='DELVAL'><speaker>DELVAL, à André.</speaker>
 <p id='6'>
 	<s id='1'>Vas t'informer où loge le notaire du lieu, et viens me prendre pour m'y conduire.</s>
 </p>
@@ -2814,7 +2811,7 @@
 	<s id='2'>Il loge là, tout vis-à-vis la porte du châtiau.</s>
 </p>
 </sp>
-<sp who='DELVAL'><speaker>DELVAL, voulant sortir.</speaker>
+<sp stage="away" who='DELVAL'><speaker>DELVAL, voulant sortir.</speaker>
 <p id="8">
 	<s id="1">J'y vole; et ce jour fortuné va m'assurer à jamais une épouse adorée ! </s>
 	<s id='2'>Et un ami respectable.</s>
@@ -2823,7 +2820,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='25'><head>SCÈNE XXV. Luville, La Comtesse.</head>
-<sp who='LA COMTESSE'><speaker>LA COMTESSE, le regardant sortir.</speaker>
+<sp stage="watch" who='LA COMTESSE'><speaker>LA COMTESSE, le regardant sortir.</speaker>
 <p id='1'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>C'est pousser trop loin l'impudence !</s>
@@ -2847,14 +2844,14 @@
 	<s id='2'>Bien au contraire.</s>
 </p>
 </sp>
-<sp who='LA COMTESSE'><speaker>LA COMTESSE, riant.</speaker>
+<sp stage="laugh" who='LA COMTESSE'><speaker>LA COMTESSE, riant.</speaker>
 <p id='5'>
 	<s id='1'>Comment donc, au contraire ?</s>
 </p>
 </sp>
 <sp who="LUVILLE"><speaker>LUVILLE.</speaker>
 <p id="6">
-	<s id="1">Oui parbleu; quand je me suis présenté pour l'intimider, elle a foncé sur moi comme un lion : j'avais une peur horrible de la blesser, je me tenais sur la défensive. </s>
+	<s id="1">Oui parbleu ; quand je me suis présenté pour l'intimider, elle a foncé sur moi comme un lion : j'avais une peur horrible de la blesser, je me tenais sur la défensive. </s>
 	<s id='2'>Quand elle n'aurait jamais fait autre chose, elle n'en saurait pas davantage.</s>
 </p>
 </sp>
@@ -2896,7 +2893,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='26'><head>SCÈNE XXVI. Luville, La Comtesse, Lisette.</head>
-<sp who='LISETTE'><speaker>LISETTE, accourant.</speaker>
+<sp stage="run" who='LISETTE'><speaker>LISETTE, accourant.</speaker>
 <p id='14'>
 	<s id='1'>Voici Mademoiselle Sophie qui revient avec le notaire.</s>
 </p>
@@ -2905,9 +2902,9 @@
 <p id='15'>
 	<s id='1'>Je vous laisse avec eux. J'écoute, et je paraîtrai quand il en sera temps.</s>
 </p>
-<stage type="[N/A]">Elle entre dans son cabinet.</stage>
+<stage type="exit">Elle entre dans son cabinet.</stage>
 </sp>
-<sp who='LISETTE'><speaker>LISETTE, à part.</speaker>
+<sp stage="aparte" who='LISETTE'><speaker>LISETTE, à part.</speaker>
 <p id='16'>
 	<s id='1'>Moi, je cours chercher ma maîtresse. </s>
 	<s id='2'>Il est temps qu'elle se découvre.</s>
@@ -2916,7 +2913,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='17'><head>SCENE XXVII.</head>
-<sp who="LUVILLE"><speaker>LUVILLE, seul.</speaker>
+<sp stage="alone" who="LUVILLE"><speaker>LUVILLE, seul.</speaker>
 <p id='1'>
 	<s id='1'>Cette plaisanterie m'éloigne de ma chère Mariane. </s>
 	<s id='2'>Heureusement elle va bientôt finir.</s>
@@ -2940,7 +2937,7 @@
 	<s id="1">Rien de plus honnête !</s>
 </p>
 </sp>
-<sp who='LE NOTAIRE'><speaker>LE NOTAIRE, allant à la table.</speaker>
+<sp stage="walk/decor" who='LE NOTAIRE'><speaker>LE NOTAIRE, allant à la table.</speaker>
 <p id='4'>
 	<s id='1'>Et si Madame la Comtesse jouit d'une haute fortune, Monsieur, assurément, ne lui cède en rien.</s>
 </p>
@@ -3017,7 +3014,7 @@
 	<s id="1">Mais, moi, je ne vous entends pas du tout. </s>
 </p>
 </sp>
-<sp who='LUVILLE'><speaker>LUVILLE, lui montrant le contrat.</speaker>
+<sp stage="show" who='LUVILLE'><speaker>LUVILLE, lui montrant le contrat.</speaker>
 <p id='19'>
 	<s id='1'>Qu'est-ce que cela ?</s>
 </p>
@@ -3063,7 +3060,7 @@
 	<s id="1">Là, ce qu'on appelle signer !</s>
 </p>
 </sp>
-<sp who='DELVAL'><speaker>DELVAL, très-vivement.</speaker>
+<sp stage="stress" who='DELVAL'><speaker>DELVAL, très vivement.</speaker>
 <p id='28'>
 	<s id=''>Hé oui, oui, homme cruel que vous êtes, je le signerai, et de mon sang s'il le faut.</s>
 </p>
@@ -3092,40 +3089,40 @@
 <p id="33">
 	<s id="1">Allons-donc !</s>
 </p>
-<stage type="[N/A]">Il appelle Lisette.</stage>
+<stage type="shout">Il appelle Lisette.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='29'><head>SCÈNE XXIX. Les précédents, Lisette.</head>
-<sp who='LISETTE'><speaker>LISETTE, accourant.</speaker>
+<sp stage="run" who='LISETTE'><speaker>LISETTE, accourant.</speaker>
 <p id='1'>
 	<s id='1'>Monsieur.</s>
 </p>
-<stage type="[N/A]">Faisant l'étonnée en voyant Delval.</stage>
+<stage type="watch/estonish">Faisant l'étonnée en voyant Delval.</stage>
 <p id='2'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Ciel !</s>
 </p>
 </sp>
-<sp who='DELVAL'><speaker>DELVAL, la reconnaissant.</speaker>
+<sp stage="recognize" who='DELVAL'><speaker>DELVAL, la reconnaissant.</speaker>
 <p id='3'>
 	<s id='1'>Hé, que fais-tu ici ?</s>
 </p>
 </sp>
-<sp who='LISETTE'><speaker>LISETTE, à Delval à demi-voix.</speaker>
+<sp stage="low/toward" who='LISETTE'><speaker>LISETTE, à Delval à demi-voix.</speaker>
 <p id='4'>
 	<s id='1'>Soyez tranquille, je n'ai rien dit.</s>
 </p>
 </sp>
-<sp who='DELVAL'><speaker>DELVAL, étonné.</speaker>
+<sp stage="estonish" who='DELVAL'><speaker>DELVAL, étonné.</speaker>
 <p id='5'>
 	<s id='1'>Comment rien dit ?</s>
 </p>
 </sp>
-<sp who='LISETTE'><speaker>LISETTE, sortant en voyant entrer la Comtesse.</speaker>
+<sp stage="exit/entrance" who='LISETTE'><speaker>LISETTE, sortant en voyant entrer la Comtesse.</speaker>
 <p id='6'>
 	<s id='1'>Non, demandez plutôt à Madame.</s>
 </p>
-<stage type="[N/A]">Elle rentre vite. </stage>
+<stage type="run/exit">Elle rentre vite. </stage>
 </sp>
 </div2>
 <div2 type="scene" n='30'><head>SCÈNE XXX. Le Notaire, La Comtesse, Luville, Delval.</head>
@@ -3139,12 +3136,12 @@
 	<s id="1">Moi, pourquoi donc ?</s>
 </p>
 </sp>
-<sp who='LA COMTESSE'><speaker>LA COMTESSE, bas à Luville.</speaker>
+<sp stage="low/toward" who='LA COMTESSE'><speaker>LA COMTESSE, bas à Luville.</speaker>
 <p id='3'>
 	<s id='1'>Quelle audace !</s>
 </p>
 </sp>
-<sp who='LUVILLE'><speaker>LUVILLE, bas à la Comtesse.</speaker>
+<sp stage="low/toward" who='LUVILLE'><speaker>LUVILLE, bas à la Comtesse.</speaker>
 <p id='4'>
 	<s id='1'>Voyons jusqu'où cela ira.</s>
 </p>
@@ -3153,7 +3150,7 @@
 	<s id='1'>Allons Monsieur, approchez, et signons.</s>
 </p>
 </sp>
-<sp who='LE NOTAIRE'><speaker>LE NOTAIRE, présentant la plume à Delval.</speaker>
+<sp stage="give" who='LE NOTAIRE'><speaker>LE NOTAIRE, présentant la plume à Delval.</speaker>
 <p id='6'>
 	<s id='1'>À vous, Monsieur.</s>
 </p>
@@ -3223,19 +3220,19 @@
 	<s id="1">Oui.</s>
 </p>
 </sp>
-<sp who='LA COMTESSE'><speaker>LA COMTESSE, signant.</speaker>
+<sp stage="sign" who='LA COMTESSE'><speaker>LA COMTESSE, signant.</speaker>
 <p id='19'>
 	<s id='1'>Soyez content.</s>
 </p>
 </sp>
-<sp who='DELVAL'><speaker>DELVAL, transporté.</speaker>
+<sp stage="enthousiasm" who='DELVAL'><speaker>DELVAL, transporté.</speaker>
 <p id='20'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Je suis au comble de mes voeux ! </s>
 	<s id='3'>Allons, à vous mon cher frère.</s>
 </p>
 </sp>
-<sp who='LUVILLE'><speaker>LUVILLE, signant.</speaker>
+<sp stage="sign" who='LUVILLE'><speaker>LUVILLE, signant.</speaker>
 <p id='21'>
 	<s id='1'>Je le veux bien, ma chère soeur !</s>
 </p>
@@ -3252,7 +3249,7 @@
 	<s id='3'>Voilà la plume.</s>
 </p>
 </sp>
-<sp who='DELVAL'><speaker>DELVAL, signant.</speaker>
+<sp stage="sign" who='DELVAL'><speaker>DELVAL, signant.</speaker>
 <p id='24'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Je n'ai jamais rien signé de si bon coeur. </s>
@@ -3298,7 +3295,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='31'><head>SCÈNE XXXI, et DERNIÈRE. Lisette, Luville, Sophie, La Comtesse, Delval, André, Le Notaire, derrière.</head>
-<sp who='SOPHIE'><speaker>SOPHIE, à la Comtesse.</speaker>
+<sp stage="toward" who='SOPHIE'><speaker>SOPHIE, à la Comtesse.</speaker>
 <p id='1'>
 	<s id='1'>Pour me haïr ? </s>
 	<s id='2'>Eh ! </s>
@@ -3311,13 +3308,13 @@
 	<s id='2'>Que voulez-vous ?</s>
 </p>
 </sp>
-<sp who='DELVAL'><speaker>DELVAL, la reconnaissant.</speaker>
+<sp stage="recognize" who='DELVAL'><speaker>DELVAL, la reconnaissant.</speaker>
 <p id='3'>
 	<s id='1'>Hé ! </s>
 	<s id='2'>C'est ma soeur !</s>
 </p>
 </sp>
-<sp who='LA COMTESSE, LUVILLE'><speaker>LA COMTESSE et LUVILLE.</speaker>
+<sp stage="together" who='LA COMTESSE, LUVILLE'><speaker>LA COMTESSE et LUVILLE.</speaker>
 <p id='4'>
 	<s id='1'>Sa soeur !</s>
 </p>
@@ -3350,14 +3347,14 @@
 	<s id="1">Votre coeur a-t-il pu s'y méprendre ?</s>
 </p>
 </sp>
-<sp who='LA COMTESSE'><speaker>LA COMTESSE, après un moment de silence, se jette dans les bras de Sophie et dit :</speaker>
+<sp stage="silence/hugh" who='LA COMTESSE'><speaker>LA COMTESSE, après un moment de silence, se jette dans les bras de Sophie et dit :</speaker>
 <p id='10'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Sophie, que je vous aime !</s>
 </p>
-<stage type="[N/A]">Elles s'embrassent.</stage>
+<stage type="kiss">Elles s'embrassent.</stage>
 </sp>
-<sp who='LUVILLE'><speaker>LUVILLE, à Sophie.</speaker>
+<sp stage="toward" who='LUVILLE'><speaker>LUVILLE, à Sophie.</speaker>
 <p id='11'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Mariane ! </s>

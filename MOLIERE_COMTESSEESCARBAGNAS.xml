@@ -4,13 +4,13 @@
 		<fileDesc>
 			<titleStmt>
 				<title>LA COMTESSE D'ESCARBAGNAS, COMÉDIE</title>
-			<author born='1622' born_location='Paris' death='1673' death_location='Paris' academie=''>MOLIÈRE</author>
+			<author born='1622' born_location='Paris' death='1673' death_location='Paris' academie=''>MOLIERE</author>
 				<date>1666</date>
 			</titleStmt>
 			<publicationStmt>	
 				<p>publié par Paul FIEVRE, septembre 2011</p>
-			<idno></idno>
-</publicationStmt>
+				<idno>MOLIERE_COMTESSEDESCARBAGNAS</idno>
+			</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -19,9 +19,6 @@
 				<periode>1671-1680</periode>
 				<taille>(mesure non pertinente)</taille>
 				<permalien></permalien>
-				<sources>
-					<source id='1'><author></author><text></text></source>
-				</sources>	
 			</SourceDesc>
 		</fileDesc>
 </teiHeader>
@@ -32,13 +29,13 @@
 			<titlePart type="sub">COMÉDIE</titlePart>
 		</docTitle> 
 		<docDate value='1671'>M. DC. LXXI.</docDate>
-		<docAuthor id='MOLIERE' bio='moliere'>Molière</docAuthor>
+		<docAuthor id='MOLIÈRE' bio='moliere'>Molière</docAuthor>
 		<docImprint>
 			<privilege id='166*-**-**'></privilege>
 			<acheveImprime id='166*-**-**'></acheveImprime>
 		</docImprint>
 	<castList><head>PERSONNAGES</head>
-		<castItem><role id="LA-COMTESSE-D-ESCARBAGNAS" sex="2" type="H" statut='comte' age='A' stat_amour='néant'>LA COMTESSE D'ESCARBAGNAS</role>.</castItem>
+		<castItem><role id="LA COMTESSE D'ESCARBAGNAS" sex="2" type="H" statut='comte' age='A' stat_amour='néant'>LA COMTESSE D'ESCARBAGNAS</role>.</castItem>
 		<castItem><role id="LE COMTE" sex="1" type="H" statut='comte' age='J' stat_amour='néant'>LE COMTE</role>, son fils.</castItem>
 		<castItem><role id="LE VICOMTE" sex="1" type="H" statut='vicomte' age='J' stat_amour='Julie'>LE VICOMTE</role>, amant de Julie.</castItem>
 		<castItem><role id="JULIE" sex="2" type="H" statut='aristocrate' age='J' stat_amour='Le Vicomte'>JULIE</role>, amante du Vicomte.</castItem>
@@ -54,7 +51,7 @@
 <body>
 <div1 type="act" n='1'><head></head>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Julie, Le Vicomte.</head>
-<sp who='LE-VICOMTE'><speaker>LE VICOMTE.</speaker>
+<sp who='LE VICOMTE'><speaker>LE VICOMTE.</speaker>
 <p id='1'>
 	<s id='1'>Hé quoi ? </s>
 	<s id='2'>Madame, vous êtes déjà ici ?</s>
@@ -65,7 +62,7 @@
 	<s id='1'>Oui, vous en devriez rougir, Cléante, et il n'est guère honnête à un amant de venir le dernier au rendez-vous.</s>
 </p>
 </sp>
-<sp who='LE-VICOMTE'><speaker>LE VICOMTE.</speaker>
+<sp who='LE VICOMTE'><speaker>LE VICOMTE.</speaker>
 <p id='3'>
 	<s id='1'>Je serais ici il y a une heure, s'il n'y avait point de fâcheux au monde, et j'ai été arrêté, en chemin, par un vieux importun de qualité, qui m'a demandé tout exprès des nouvelles de la cour, pour trouver moyen de m'en dire des plus extravagantes qu'on puisse débiter ; et c'est là, comme vous savez, le fléau des petites villes, que ces grands nouvellistes qui cherchent partout où répandre les contes qu'ils ramassent. </s>
 	<s id='2'>Celui-ci m'a montré d'abord deux feuilles de papier, pleines jusques aux bords d'un grand fatras de balivernes, qui viennent, m'a-t-il dit, de l'endroit le plus sûr du monde. </s>
@@ -81,7 +78,7 @@
 	<s id='1'>Vous parez votre excuse du mieux que vous pouvez, afin de la rendre agréable, et faire qu'elle soit plus aisément reçue.</s>
 </p>
 </sp>
-<sp who='LE-VICOMTE'><speaker>LE VICOMTE.</speaker>
+<sp who='LE VICOMTE'><speaker>LE VICOMTE.</speaker>
 <p id='5'>
 	<s id='1'>C'est là, belle Julie, la véritable cause de mon retardement ; et si je voulais y donner une excuse galante, je n'aurais qu'à vous dire que le rendez-vous que vous voulez prendre peut autoriser la paresse dont vous me querellez ; que m'engager à faire l'amant de la maîtresse du logis, c'est me mettre en état de craindre de me trouver ici le premier ; que cette feinte où je me force n'étant que pour vous plaire, j'ai lieu de ne vouloir en souffrir la contrainte que devant les yeux qui s'en divertissent ; que j'évite le tête-à-tête avec cette comtesse ridicule dont vous m'embarrassez ; et, en un mot, que ne venant ici que pour vous, j'ai toutes les raisons du monde d'attendre que vous y soyez.</s>
 </p>
@@ -92,7 +89,7 @@
 	<s id='2'>Cependant, si vous étiez venu une demi-heure plus tôt, nous aurions profité de tous ces moments ; car j'ai trouvé, en arrivant, que la comtesse était sortie, et je ne doute point qu'elle ne soit allée par la ville se faire honneur de la comédie que vous me donnez sous son nom.</s>
 </p>
 </sp>
-<sp who='LE-VICOMTE'><speaker>LE VICOMTE.</speaker>
+<sp who='LE VICOMTE'><speaker>LE VICOMTE.</speaker>
 <p id='7'>
 	<s id='1'>Mais tout de bon, Madame, quand voulez-vous mettre fin à cette contrainte, et me faire moins acheter le bonheur de vous voir ?</s>
 </p>
@@ -103,7 +100,7 @@
 	<s id='2'>Vous savez, comme moi, que les démêlés de nos deux familles ne nous permettent point de nous voir autre part, et que mes frères, non plus que votre père, ne sont pas assez raisonnables pour souffrir notre attachement.</s>
 </p>
 </sp>
-<sp who='LE-VICOMTE'><speaker>LE VICOMTE.</speaker>
+<sp who='LE VICOMTE'><speaker>LE VICOMTE.</speaker>
 <p id='9'>
 	<s id='1'>Mais pourquoi ne pas mieux jouir du rendez-vous que leur inimitié nous laisse, et me contraindre à perdre en une sotte feinte les moments que j'ai près de vous ?</s>
 </p>
@@ -116,7 +113,7 @@
 	<s id='4'>L'approche de l'air de la Cour a donné à son ridicule de nouveaux agréments, et sa sottise tous les jours ne fait que croître et embellir.</s>
 </p>
 </sp>
-<sp who='LE-VICOMTE'><speaker>LE VICOMTE.</speaker>
+<sp who='LE VICOMTE'><speaker>LE VICOMTE.</speaker>
 <p id='11'>
 	<s id='1'>Oui ; mais vous ne considérez pas que le jeu qui vous divertit tient mon coeur au supplice, et qu'on n'est point capable de se jouer longtemps, lorsqu'on a dans l'esprit une passion aussi sérieuse que celle que je sens pour vous. </s>
 	<s id='2'>Il est cruel, belle Julie, que cet amusement dérobe à mon amour un temps qu'il voudrait employer à vous expliquer son ardeur ; et, cette nuit, j'ai fait là-dessus quelques vers, que je ne puis m'empêcher de vous réciter, sans que vous me le demandiez, tant la démangeaison de dire ses ouvrages est un vice attaché à la qualité de poète.</s>
@@ -146,7 +143,7 @@
 	<s id='2'>Cependant je serai bien aise que vous me donniez ces vers par écrit.</s>
 </p>
 </sp>
-<sp who='LE-VICOMTE'><speaker>LE VICOMTE.</speaker>
+<sp who='LE VICOMTE'><speaker>LE VICOMTE.</speaker>
 <p id='14'>
 	<s id='1'>C'est assez de vous les avoir dits, et je dois en demeurer là : il est permis d'être parfois assez fou pour faire des vers, mais non pour vouloir qu'ils soient vus.</s>
 </p>
@@ -156,7 +153,7 @@
 	<s id='1'>C'est en vain que vous vous retranchez sur une fausse modestie ; on sait dans le monde que vous avez de l'esprit, et je ne vois pas la raison qui vous oblige à cacher les vôtres.</s>
 </p>
 </sp>
-<sp who='LE-VICOMTE'><speaker>LE VICOMTE.</speaker>
+<sp who='LE VICOMTE'><speaker>LE VICOMTE.</speaker>
 <p id='16'>
 	<s id='1'>Mon Dieu ! </s>
 	<s id='2'>Madame, marchons là-dessus, s'il vous plaît, avec beaucoup de retenue ; il est dangereux dans le monde de se mêler d'avoir de l'esprit. </s>
@@ -169,7 +166,7 @@
 	<s id='2'>Cléante, vous avez beau dire, je vois, avec tout cela, que vous mourez d'envie de me les donner, et je vous embarrasserais si je faisais semblant de ne m'en pas soucier.</s>
 </p>
 </sp>
-<sp who='LE-VICOMTE'><speaker>LE VICOMTE.</speaker>
+<sp who='LE VICOMTE'><speaker>LE VICOMTE.</speaker>
 <p id='18'>
 	<s id='1'>Moi, Madame ? </s>
 	<s id='2'>Vous vous moquez, et je ne suis pas si poète que vous pourriez bien croire, pour... </s>
@@ -240,7 +237,7 @@
 </p>
 </sp>
 <sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
-<note type="L">Saboler : terme popuplaire, qui se dit de ceux qui se trounmmmente le corps, qui se renversent à terre, se roulent, se houspillent, ou foulent au pied, comme font les petites gens, quand ils se jouent. [F]</note>
+<note type="L">Saboler : terme populaire, qui se dit de ceux qui se tourmentent le corps, qui se renversent à terre, se roulent, se houspillent, ou foulent au pied, comme font les petites gens, quand ils se jouent. [F]</note>
 <p id='11'>
 	<s id='1'>Ôtez-moi mes coiffes. </s>
 	<s id='2'>Doucement donc, maladroite, comme vous me saboulez la tête avec vos mains pesantes !</s>
@@ -345,7 +342,7 @@
 </p>
 </sp>
 <sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
-<note type="L">Bourvier(ère) :  Celui, celle qui garde, conduit les boeufs. Fig. et familièrement. C'est un bouvier, se dit d'un homme grossier. [L]</note>
+<note type="L">Bourvier(ère) : Celui, celle qui garde, conduit les boeufs. Fig. et familièrement. C'est un bouvier, se dit d'un homme grossier. [L]</note>
 <p id='29'>
 	<s id='1'>Laissez là votre Criquet, bouvière, et appelez laquais.</s>
 </p>
@@ -455,7 +452,7 @@
 	<s id='2'>Apportez-moi un verre d'eau. </s>
 	<s id='3'>Madame.</s>
 </p>
-<stage type="[N/A]">Faisant des cérémonies pour s'asseoir.</stage>
+<stage type="wave/sit">Faisant des cérémonies pour s'asseoir.</stage>
 </sp>
 <sp who='JULIE'><speaker>JULIE.</speaker>
 <p id='50'>
@@ -584,7 +581,7 @@
 <p id='71'>
 	<s id='1'>Cela est bien aisé.</s>
 </p>
-<stage type="[N/A]">Andrée casse le verre.</stage>
+<stage type="break">Andrée casse le verre.</stage>
 </sp>
 <sp who='LA-COMTESSE'><speaker>LA COMTESSE.</speaker>
 <p id='72'>
@@ -604,7 +601,7 @@
 	<s id='1'>Mais voyez cette maladroite, cette bouvière, cette butorde, cette...</s>
 </p>
 </sp>
-<sp who='ANDRÉE'><speaker>ANDRÉE, s'en allant.</speaker>
+<sp stage="exit" who='ANDRÉE'><speaker>ANDRÉE, s'en allant.</speaker>
 <p id='75'>
 	<s id='1'>Dame, Madame, si je le paye, je ne veux point être querellée.</s>
 </p>
@@ -781,7 +778,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Le Vicomte, La Comtesse, Julie, Criquet, Andrée.</head>
-<sp who='LE-VICOMTE'><speaker>LE VICOMTE.</speaker>
+<sp who='LE VICOMTE'><speaker>LE VICOMTE.</speaker>
 <p id='1'>
 	<s id='1'>Madame, je viens vous avertir que la comédie sera bientôt prête, et que, dans un quart d'heure, nous pouvons passer dans la salle.</s>
 </p>
@@ -792,7 +789,7 @@
 	<s id='2'>Que l'on dise à mon Suisse qu'il ne laisse entrer personne.</s>
 </p>
 </sp>
-<sp who='LE-VICOMTE'><speaker>LE VICOMTE.</speaker>
+<sp who='LE VICOMTE'><speaker>LE VICOMTE.</speaker>
 <p id='3'>
 	<s id='1'>En ce cas, Madame, je vous déclare que je renonce à la comédie, et je n'y saurais prendre de plaisir lorsque la compagnie n'est pas nombreuse. </s>
 	<s id='2'>Croyez-moi, si vous voulez vous bien divertir, qu'on dise à vos gens de laisser entrer toute la ville.</s>
@@ -806,7 +803,7 @@
 	<s id='4'>Je vous donne la liberté de le lire tout haut, je ne l'ai point encore vu.</s>
 </p>
 </sp>
-<sp who='LE-VICOMTE'><speaker>LE VICOMTE.</speaker>
+<sp who='LE VICOMTE'><speaker>LE VICOMTE.</speaker>
 <p id='5'>
 	<s id='1'>Voici un billet du beau style, Madame, et qui mérite d'être bien écouté. </s>
 </p>
@@ -820,7 +817,7 @@
 	<s id='1'>Cela vous marque clairement qu'il ne se passe rien entre nous.</s>
 </p>
 </sp>
-<sp who='LE-VICOMTE'><speaker>LE VICOMTE, continue.</speaker>
+<sp stage="continue" who='LE VICOMTE'><speaker>LE VICOMTE, continue.</speaker>
 <p id='8'>
 	<s id='1'>Les poires ne sont pas encore bien mûres, mais elles en cadrent mieux avec la dureté de votre âme, qui, par ses continuels dédains, ne me promet pas poires molles. </s>
 	<s id='2'>Trouvez bon, Madame, que sans m'engager dans une énumération de vos perfections et charmes, qui me jetterait dans un progrès à l'infini, je conclue ce mot, en vous faisant considérer que je suis d'un aussi franc chrétien que les poires que je vous envoie, puisque je rends le bien pour le mal, c'est-à-dire, Madame, pour m'expliquer plus intelligiblement, puisque je vous présente des poires de bon-chrétien pour des poires d'angoisse, que vos cruautés me font avaler tous les jours. </s>
@@ -863,7 +860,7 @@
 	<s id='1'>Ce néanmoins, Madame, bon droit a besoin d'aide, et j'ai sujet d'appréhender de me voir supplanté par un tel rival, et que Madame ne soit circonvenue par la qualité de vicomte.</s>
 </p>
 </sp>
-<sp who='LE-VICOMTE'><speaker>LE VICOMTE.</speaker>
+<sp who='LE VICOMTE'><speaker>LE VICOMTE.</speaker>
 <p id='5'>
 	<s id='1'>J'espérais quelque chose, Monsieur Tibaudier, avant votre billet ; mais il me fait craindre pour mon amour.</s>
 </p>
@@ -873,7 +870,7 @@
 	<s id='1'>Voici encore, Madame, deux petits versets, ou couplets, que j'ai composés à votre honneur et gloire.</s>
 </p>
 </sp>
-<sp who='LE-VICOMTE'><speaker>LE VICOMTE.</speaker>
+<sp who='LE VICOMTE'><speaker>LE VICOMTE.</speaker>
 <p id='7'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Je ne pensais pas que Monsieur Tibaudier fût poète, et voilà pour m'achever que ces deux petits versets-là.</s>
@@ -895,7 +892,7 @@
 	<l id='20'>Mais je la blâme</l>
 	<l id='21'>D'avoir de la fierté.</l>
 </sp>
-<sp who='LE-VICOMTE'><speaker>LE VICOMTE.</speaker>
+<sp who='LE VICOMTE'><speaker>LE VICOMTE.</speaker>
 <p id='9'>
 	<s id='1'>Je suis perdu après cela.</s>
 </p>
@@ -927,7 +924,7 @@
 	<l id='30'>Vous dépouiller, en ma faveur, d'une peau de tigresse,</l>
 	<l id='31'>Qui couvre vos appas la nuit comme le jour.</l>
 </sp>
-<sp who='LE-VICOMTE'><speaker>LE VICOMTE.</speaker>
+<sp who='LE VICOMTE'><speaker>LE VICOMTE.</speaker>
 <p id='13'>
 	<s id='1'>Me voilà supplanté, moi, par Monsieur Tibaudier.</s>
 </p>
@@ -937,8 +934,8 @@
 	<s id='1'>Ne pensez pas vous moquer : pour des vers faits dans la province, ces vers-là sont fort beaux.</s>
 </p>
 </sp>
-<sp who='LE-VICOMTE'><speaker>LE VICOMTE.</speaker>
-<note>Martial : poète latin né à Biblis en Espagne vers l'an 43, arriva à Rome vers l'âge de 23 ans, s'y fit remarquer par son talent poétique, obtint par ses flatteris les bnnes grâces de Titus Après 35 ans passés à Rome, il retourne dns sa patrie et y mourut vers l'an 103. On trouve dans les poésies d eMariel beaucoup d'esprit, de finesse et de mordant. [B]</note>
+<sp who='LE VICOMTE'><speaker>LE VICOMTE.</speaker>
+<note>Martial : poète latin né à Biblis en Espagne vers l'an 43, arriva à Rome vers l'âge de 23 ans, s'y fit remarquer par son talent poétique, obtint par ses flatteries les bonnes grâces de Titus Après 35 ans passés à Rome, il retourne dans sa patrie et y mourut vers l'an 103. On trouve dans les poésies d eMariel beaucoup d'esprit, de finesse et de mordant. [B]</note>
 <p id='15'>
 	<s id='1'>Comment, Madame, me moquer ? </s>
 	<s id='2'>Quoique son rival, je trouve ces vers admirables, et ne les appelle pas seulement deux strophes, comme vous, mais deux épigrammes, aussi bonnes que toutes celles de Martial.</s>
@@ -956,7 +953,7 @@
 	<s id='1'>Ce n'est pas ce Martial-là, Madame ; c'est un auteur qui vivait il y a trente ou quarante ans.</s>
 </p>
 </sp>
-<sp who='LE-VICOMTE'><speaker>LE VICOMTE.</speaker>
+<sp who='LE VICOMTE'><speaker>LE VICOMTE.</speaker>
 <p id='18'>
 	<s id='1'>Monsieur Tibaudier a lu les auteurs, comme vous le voyez. </s>
 	<s id='2'>Mais allons voir, madame, si ma musique et ma comédie, avec mes entrées de ballet, pourront combattre dans votre esprit les progrès des deux strophes et du billet que nous venons de voir.</s>
@@ -1018,7 +1015,7 @@
 </p>
 </sp>
 <sp who='MONSIEUR-BOBINET'><speaker>MONSIEUR BOBINET.</speaker>
-<note>Cicéron : le plus célèbre des orateurs romains, né près d'Arpinium, l'an 107 avant JC. Mort à 64 ans. Comme orateur, son éloquence brille surtout par l'abondance et par le nombre. Cicéron fut aussi un philosphe distingué et introduisit à Rome la philosophie des Grecs.  [B]</note>
+<note>Cicéron : le plus célèbre des orateurs romains, né près d'Arpinium, l'an 107 avant JC. Mort à 64 ans. Comme orateur, son éloquence brille surtout par l'abondance et par le nombre. Cicéron fut aussi un philosophe distingué et introduisit à Rome la philosophie des Grecs. [B]</note>
 <p id='10'>
 	<s id='1'>Il compose un thème, Madame, que je viens de lui dicter, sur une épître de Cicéron.</s>
 </p>
@@ -1033,7 +1030,7 @@
 	<s id='1'>Soit fait, Madame, ainsi que vous le commandez.</s>
 </p>
 </sp>
-<sp who='LE-VICOMTE'><speaker>LE VICOMTE.</speaker>
+<sp who='LE VICOMTE'><speaker>LE VICOMTE.</speaker>
 <p id='13'>
 	<s id='1'>Ce Monsieur Bobinet, Madame, a la mine fort sage, et je crois qu'il a de l'esprit.</s>
 </p>
@@ -1070,7 +1067,7 @@
 	<s id='1'>En vérité, Madame, Monsieur le Comte a tout à fait bon air.</s>
 </p>
 </sp>
-<sp who='LE-VICOMTE'><speaker>LE VICOMTE.</speaker>
+<sp who='LE VICOMTE'><speaker>LE VICOMTE.</speaker>
 <p id='6'>
 	<s id='1'>Voilà un jeune gentilhomme qui vient bien dans le monde.</s>
 </p>
@@ -1154,7 +1151,7 @@
 	<s id='2'>Monsieur Tibaudier, prenez Madame.</s>
 </p>
 </sp>
-<sp who='LE-VICOMTE'><speaker>LE VICOMTE.</speaker>
+<sp who='LE VICOMTE'><speaker>LE VICOMTE.</speaker>
 <p id='21'>
 	<s id='1'>Il est nécessaire de dire que cette comédie n'a été faite que pour lier ensemble les différents morceaux de musique et de danse dont on a voulu composer ce divertissement, et que...</s>
 </p>
@@ -1165,11 +1162,11 @@
 	<s id='2'>Voyons l'affaire : on a assez d'esprit pour comprendre les choses.</s>
 </p>
 </sp>
-<sp who='LE-VICOMTE'><speaker>LE VICOMTE.</speaker>
+<sp who='LE VICOMTE'><speaker>LE VICOMTE.</speaker>
 <p id='23'>
 	<s id='1'>Qu'on commence le plus tôt qu'on pourra, et qu'on empêche, s'il se peut, qu'aucun fâcheux ne vienne troubler notre divertissement.</s>
 </p>
-<stage type="[N/A]">Après que les violons ont quelque peu joué, et que toute la compagnie est assise.</stage>
+<stage type="music/sit">Après que les violons ont quelque peu joué, et que toute la compagnie est assise.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='8'><head>SCÈNE VIII. La Comtesse, Le Comte, Le Vicomte, Julie, Monsieur Harpin, Monsieur Tibaudier aux pieds de la comtesse, Monsieur Bobinet, Andrée.</head>
@@ -1227,7 +1224,7 @@
 	<s id='2'>S'il y a ici quelque chose de vilain, ce ne sont point mes jurements, ce sont vos actions, et il vaudrait bien mieux que vous jurassiez, vous, la tête, la mort et la sang, que de faire ce que vous faites avec Monsieur le Vicomte.</s>
 </p>
 </sp>
-<sp who='LE-VICOMTE'><speaker>LE VICOMTE.</speaker>
+<sp who='LE VICOMTE'><speaker>LE VICOMTE.</speaker>
 <p id='33'>
 	<s id='1'>Je ne sais pas, monsieur le Receveur, de quoi vous vous plaignez, et si...</s>
 </p>
@@ -1238,7 +1235,7 @@
 	<s id='1'>Pour vous, Monsieur, je n'ai rien à vous dire : vous faites bien de pousser votre pointe, cela est naturel, je ne le trouve point étrange, et je vous demande pardon si j'interromps votre comédie ; mais vous ne devez point trouver étrange aussi que je me plaigne de son procédé, et nous avons raison tous deux de faire ce que nous faisons.</s>
 </p>
 </sp>
-<sp who='LE-VICOMTE'><speaker>LE VICOMTE.</speaker>
+<sp who='LE VICOMTE'><speaker>LE VICOMTE.</speaker>
 <p id='35'>
 	<s id='1'>Je n'ai rien à dire à cela, et ne sais point les sujets de plaintes que vous pouvez avoir contre Madame la comtesse d'Escarbagnas.</s>
 </p>
@@ -1282,7 +1279,7 @@
 </p>
 </sp>
 <sp who='MONSIEUR-HARPIN'><speaker>MONSIEUR HARPIN.</speaker>
-<note>Fariboles : contes, choses vaines qui ne méritent auune considération. [F]</note>
+<note>Fariboles : contes, choses vaines qui ne méritent aucune considération. [F]</note>
 <p id='43'>
 	<s id='1'>Hé ventrebleu ! </s>
 	<s id='2'>Madame, quittons la faribole.</s>
@@ -1330,7 +1327,7 @@
 	<s id='1'>Pour moi, je suis confuse de cette insolence.</s>
 </p>
 </sp>
-<sp who='LE-VICOMTE'><speaker>LE VICOMTE.</speaker>
+<sp who='LE VICOMTE'><speaker>LE VICOMTE.</speaker>
 <p id='51'>
 	<s id='1'>Les jaloux, Madame, sont comme ceux qui perdent leur procès : ils ont permission de tout dire. </s>
 	<s id='2'>Prêtons silence à la comédie.</s>
@@ -1343,7 +1340,7 @@
 	<s id='1'>Voilà un billet, monsieur, qu'on nous a dit de vous donner vite.</s>
 </p>
 </sp>
-<sp who='LE-VICOMTE'><speaker>LE VICOMTE lit :</speaker>
+<sp who='LE VICOMTE'><speaker>LE VICOMTE lit :</speaker>
 <p id='2'>
 	<s id='1'>En cas que vous ayez quelque mesure à prendre, je vous envoie promptement un avis. </s>
 	<s id='2'>La querelle de vos parents et de ceux de Julie vient d'être accommodée, et les conditions de cet accord, c'est le mariage de vous et d'elle. </s>
@@ -1365,7 +1362,7 @@
 	<s id='2'>Qu'est-ce que cela veut dire ?</s>
 </p>
 </sp>
-<sp who='LE-VICOMTE'><speaker>LE VICOMTE.</speaker>
+<sp who='LE VICOMTE'><speaker>LE VICOMTE.</speaker>
 <p id='5'>
 	<s id='1'>Cela veut dire, Madame, que j'épouse Julie ; et, si vous m'en croyez, pour rendre la comédie complète de tout point, vous épouserez Monsieur Tibaudier, et donnerez Mademoiselle Andrée à son laquais, dont il fera son valet de chambre.</s>
 </p>
@@ -1376,7 +1373,7 @@
 	<s id='2'>Jouer de la sorte une personne de ma qualité ?</s>
 </p>
 </sp>
-<sp who='LE-VICOMTE'><speaker>LE VICOMTE.</speaker>
+<sp who='LE VICOMTE'><speaker>LE VICOMTE.</speaker>
 <p id='7'>
 	<s id='1'>C'est sans vous offenser, Madame, et les comédies veulent de ces sortes de choses.</s>
 </p>
@@ -1391,7 +1388,7 @@
 	<s id='1'>Ce m'est bien de l'honneur, Madame.</s>
 </p>
 </sp>
-<sp who='LE-VICOMTE'><speaker>LE VICOMTE.</speaker>
+<sp who='LE VICOMTE'><speaker>LE VICOMTE.</speaker>
 <p id='10'>
 	<s id='1'>Souffrez, Madame, qu'en enrageant, nous puissions voir ici le reste du spectacle.</s>
 </p>

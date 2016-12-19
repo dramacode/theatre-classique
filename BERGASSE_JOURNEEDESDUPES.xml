@@ -7,9 +7,9 @@
 				<author born='' born_location='' death='' death_location='' academie='1647'>BERGASSE, Nicolas ; CHASTENET de PUYSÉGUR, Armand-Marie-Jacques.</author>
 			</titleStmt>
 			<publicationStmt>	
-				<p>publié par Paul FIEVRE, Janvier 2015</p>
-			<idno></idno>
-</publicationStmt>
+				<publisher>publié par Paul FIEVRE, Janvier 2015, janvier 2017.</publisher>
+				<idno>BERGASSE_JOURNEEDESDUPES</idno>
+			</publicationStmt>
 			<SourceDesc>
 				<genre>Tragi-comédie</genre>
 				<inspiration>histoire française</inspiration>
@@ -18,10 +18,6 @@
 				<periode>1781-1790</periode>
 				<taille>(mesure non pertinente)</taille>
 				<permalien>http://gallica.bnf.fr/ark:/12148/bpt6k6264037</permalien>
-				<sources>
-					<source id='1'><author></author><text></text></source>
-				</sources>	
-
 			</SourceDesc>
 		</fileDesc>
 </teiHeader>
@@ -158,7 +154,7 @@
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Bimeaura, Pecheillar, une Patrouille de la Garde Nationale, du Peuple. </head>
 <sp who='DEUX SENTINELLES'><speaker>DEUX SENTINELLES placés vis-à-vis l'un de l'autre. </speaker>
-<stage type="[N/A]">Ensemble.</stage>
+<stage type="together">Ensemble.</stage>
 <p id='1'>
 	<s id='1'>Qui vive !</s>
 </p>
@@ -168,7 +164,7 @@
 	<s id='1'>N'aies pas peur, Patrouille, c'est moi.</s>
 </p>
 </sp>
-<sp who='LES DEUX SENTINELLES'><speaker>LES DEUX SENTINELLES, ensemble.</speaker>
+<sp stage="together" who='LES DEUX SENTINELLES'><speaker>LES DEUX SENTINELLES, ensemble.</speaker>
 <p id='3'>
 	<s id='1'>Passez de l'autre côté.</s>
 </p>
@@ -178,7 +174,7 @@
 	<s id='1'>Est-ce que la rue a trois côtés ? </s>
 	<s id='2'>Vaudrait autant nous dire de nous en aller.</s>
 </p>
-<stage type="[N/A]">Apercevant Bimeaura.</stage>
+<stage type="watch">Apercevant Bimeaura.</stage>
 <p id='5'>
 	<s id='1'>Hé ! </s>
 	<s id='2'>C'est notre vigoureux. </s>
@@ -269,7 +265,7 @@
 	<s id='4'>Adieu, Pecheillar, suis-moi.</s>
 </p>
 </sp>
-<sp who='TOUTES LES POISSARDES'><speaker>TOUTES LES POISSARDES, ensemble.</speaker>
+<sp stage="together" who='TOUTES LES POISSARDES'><speaker>TOUTES LES POISSARDES, ensemble.</speaker>
 <p id='21'>
 	<s id='1'>Je brûlerons notre dernier jupe plutôt que de l'abandonner.</s>
 </p>
@@ -281,7 +277,7 @@
 	<s id='3'>Les chiens.</s>
 </p>
 </sp>
-<sp who='UN HOMME DE LA TROUPE'><speaker>UN HOMME DE LA TROUPE. </speaker>
+<sp who='UN HOMME DE LA TROUPE'><speaker>UN HOMME DE LA TROUPE.</speaker>
 <p id='23'>
 	<s id='1'>Je vais mettre quatre charges dans mon fusil, et le premier aristocrate que je rencontrerai payera pour le veto.</s>
 </p>
@@ -290,10 +286,10 @@
 <p id='24'>
 	<s id='1'>Mesdames, allons joindre nos camarades qui nous attendent, car il y a quelque chose de grand à faire aujourd'hui.</s>
 </p>
-<stage type="[N/A]">Le peuple sort, excepté quelques traîneurs qui voient arriver Monsieur de la Peyrouse et o Paria; ils les observent.</stage>
+<stage type="exit/watch">Le peuple sort, excepté quelques traîneurs qui voient arriver Monsieur de la Peyrouse et o Paria; ils les observent.</stage>
 </sp>
 </div2>
-<div2 type="scene" n='3'><head>SCÈNE III. La Peyrouse, O Paria,  quelques gens du Peuple.</head> 
+<div2 type="scene" n='3'><head>SCÈNE III. La Peyrouse, O Paria, quelques gens du Peuple.</head> 
 <sp who='LA PEYROUSE'><speaker>LA PEYROUSE.</speaker>
 <p id='1'>
 	<s id="1">Mon cher O Paria, tu as trop pleuré ta patrie pour être étonné des transports qui agitent mon coeur en voyant mon pays. </s>
@@ -303,7 +299,7 @@
 	<s id='5'>Tu vas voir le plus grand monarque de l'univers tempérant sa puissance et sa force par sa modération et ses vertus pacifiques, près de lui une reine brillante de gloire et de beauté, adoucissant par une affabilité touchante cet air de majesté qu'elle tient de la nature et de son grand caractère.</s>
 </p>
 </sp>
-<sp who='UN HOMME DU PEUPLE'><speaker>UN HOMME DU PEUPLE, bas à la troupe).  </speaker>
+<sp stage="low/toward" who='UN HOMME DU PEUPLE'><speaker>UN HOMME DU PEUPLE, bas à la troupe.</speaker>
 <p id='2'>
 	<s id="1">Quel langage ! </s>
 	<s id='2'>C'est bien là un aristocrate. </s>
@@ -311,14 +307,14 @@
 </p>
 <stage type="exit">Ils sortent.</stage>
 </sp>
-<sp who='LA PEYROUSE'><speaker>LA PEYROUSE.  </speaker>
+<sp who='LA PEYROUSE'><speaker>LA PEYROUSE.</speaker>
 <p id='3'>
 	<s id="1">Tu vas surtout admirer l'urbanité et la douceur de ce peuple aimable, son idolâtrie pour son roi, cet esprit piquant et ingénieux qui fait de la capitale le temple des arts, des spectacles enchanteurs, une police plus étonnante encore, les plaisirs et la sûreté attirant de toutes parts des voyageurs curieux, qui viennent ici répandre à grands flots les richesses des nations étrangères ; tu seras touché surtout de l'accueil flatteur dont ce peuple généreux va récompenser mes travaux et mes dangers; tu vas voir jusqu'à quel point les Français sont dignes...</s>
 </p>
 </sp>
 </div2>
-<div2 type="scene" n='4'><head>SCÈNE IV. Le Peyrouse, O Paria, Le Peuple, Monsieur Garde-Rue, Soldats.</head>   
-<sp who='LE PEUPLE'><speaker>LE PEUPLE, revient en criant.</speaker>
+<div2 type="scene" n='4'><head>SCÈNE IV. Le Peyrouse, O Paria, Le Peuple, Monsieur Garde-Rue, Soldats.</head>  
+<sp stage="back/shout" who='LE PEUPLE'><speaker>LE PEUPLE, revient en criant.</speaker>
 <p id='1'>
 	<s id='1'>À bas la cocarde blanche !</s>
 </p>
@@ -330,7 +326,7 @@
 </sp>
 <sp who='LE PEUPLE'><speaker>LE PEUPLE.</speaker>
 <p id='3'>
-	<s id='1'>À bas la cocarde blanche!</s>
+	<s id='1'>À bas la cocarde blanche !</s>
 </p>
 </sp>
 <sp who="LA PEYROUSE"><speaker>LA PEYROUSE.</speaker>
@@ -354,12 +350,12 @@
 <p id="7">
 	<s id="1">C'est ainsi que tu oses parler à la nation !</s>
 </p>
-<stage type="[N/A]">Ils se jettent sur lui, lui arrachent sa cocarde, et lui volent ses boucles, sa montre, et tout ce qu'O Paria possède.</stage>
+<stage type="fight/steal">Ils se jettent sur lui, lui arrachent sa cocarde, et lui volent ses boucles, sa montre, et tout ce qu'O Paria possède.</stage>
  <p id='8'>
 	<s id='1'>À bas la cocarde!... </s>
 	<s id='2'>Il faut que tu fasses un don patriotique.</s>
 </p>
-<stage type="[N/A]">La patrouille arrivée.</stage>
+<stage type="entrance">La patrouille arrivée.</stage>
 </sp>
 <sp who="MONSIEUR GARDE-RUE"><speaker>MONSIEUR GARDE-RUE.</speaker>
 <p id="9">
@@ -369,9 +365,9 @@
 	<s id='4'>Au nom de dieu, au nom de la loi ! </s>
 	<s id='5'>Permettez que j'approche.</s>
 </p>
-<stage type="[N/A]">Il sépare le peuple.</stage>
+<stage type="push">Il sépare le peuple.</stage>
 </sp>
-<sp who='LA PEYROUSE'><speaker>LA PEYROUSE à Monsieur Garde-Rue.</speaker>
+<sp stage="toward" who='LA PEYROUSE'><speaker>LA PEYROUSE, à Monsieur Garde-Rue.</speaker>
 <p id="9">
 	<s id="1">Ah ! </s>
 	<s id='2'>Monsieur, vous arrivez bien à propos pour me tirer des mains de ces brigands. </s>
@@ -506,7 +502,7 @@
 	<s id="1">Expliquez-moi ces énigmes.</s>
 </p>
 </sp>
-<sp who='MONSIEUR GARDE-RUE'><speaker>MONSIEUR GARDE-RUE, avec un sourire de mépris.</speaker>
+<sp stage="smile/contempt" who='MONSIEUR GARDE-RUE'><speaker>MONSIEUR GARDE-RUE, avec un sourire de mépris.</speaker>
 <p id="32">
 	<s id="1">Je vois bien, Monsieur, que vous n'avez lu aucun des décrets de l'assemblée. </s>
 	<s id='2'>Voici ce dont il s'agit. </s>
@@ -551,7 +547,7 @@
 	<s id="1">Criez, Monsieur, criez, ou je ne réponds pas de vos jours.</s>
 </p>
 </sp>
-<sp who='LA PEYROUSE'><speaker>LA PEYROUSE, en sortant. </speaker>
+<sp stage="exit" who='LA PEYROUSE'><speaker>LA PEYROUSE, en sortant. </speaker>
 <p id='40'>
 	<s id='1'>Vive la lanterne ! </s>
 	<s id='2'>Vive la lanterne ! </s>
@@ -562,8 +558,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n='5'><head>SCÈNE V. </head>
-<sp who='O PARIA'><speaker>O PARIA, seul.</speaker>
+<div2 type="scene" n='5'><head>SCÈNE V.</head>
+<sp stage="alone" who='O PARIA'><speaker>O PARIA, seul.</speaker>
 <p id='1'>
 	<s id='1'>Il y a si longtemps que le capitaine est sorti de France qu'il n'en sait plus trouver le chemin ; il s'en croyait plus près qu'il ne l'est. </s>
 	<s id='2'>Il savait mieux le chemin de nos îles que celui de son pays... </s>
@@ -578,7 +574,7 @@
 </div1>
  <div1 type="act" n='2'><head>ACTE II</head>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. </head>
-<sp who='YETAFET'><speaker>YETAFET, seul.  </speaker>
+<sp stage="alone" who='YETAFET'><speaker>YETAFET, seul. </speaker>
 <p id='1'>
 	<s id='1'>Quels mouvements ont-ils donc fait naître dans mon coeur ?... </s>
 	<s id='2'>Sans doute ils ont raison... </s>
@@ -628,7 +624,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III.</head>
-<sp who='LAIBIL'><speaker>LAIBIL, seul. </speaker>
+<sp stage="alone" who='LAIBIL'><speaker>LAIBIL, seul. </speaker>
 <p id="1">
 	<s id="1">Quel manège !... </s>
 	<s id='2'>Voilà donc les profondeurs de la politique ! </s>
@@ -638,7 +634,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Laibil, La Payrouse, O Paria, Le Peuple, La Garde.</head> 
-<sp who='LE PEUPLE'><speaker>LE PEUPLE, lance avec violence sur la scène la Peyrouse sanglant et en désordre.</speaker>
+<sp stage="fight/push" who='LE PEUPLE'><speaker>LE PEUPLE, lance avec violence sur la scène la Peyrouse sanglant et en désordre.</speaker>
 <p id='1'>
 	<s id='1'>V'la un aristocrate... </s>
 	<s id='2'>Un traître... </s>
@@ -651,7 +647,7 @@
 	<s id='2'>Voilà sans doute quelque victime qu'il faut que j'arrache à leur fureur.</s>
 </p>
 </sp>
-<sp who='LA PEYROUSE'><speaker>LA PEYROUSE, reconnaissant Laibil.</speaker>
+<sp stage="recognize" who='LA PEYROUSE'><speaker>LA PEYROUSE, reconnaissant Laibil.</speaker>
 <p id="3">
 	<s id="1">Mais c'est lui... </s>
 	<s id='2'>Quel costume nouveau !... </s>
@@ -661,9 +657,9 @@
 	<s id='6'>Instruisez-moi, de grâce qu'est-ce que... </s>
 	<s id='7'>Tout m'étonne et me bouleverse...</s>
 </p>
-<stage type="[N/A]">Il veut embrasser Laibil.</stage>
+<stage type="kiss">Il veut embrasser Laibil.</stage>
 </sp>
-<sp who='LAIBIL'><speaker>LAIBIL, le repousse avec dignité. </speaker>
+<sp stage="push/proud" who='LAIBIL'><speaker>LAIBIL, le repousse avec dignité. </speaker>
 <p id="4">
 	<s id="1">Respectez ma mairie... </s>
 	<s id='2'>Songez que vous parlez à votre chef et votre juge. </s>
@@ -770,7 +766,7 @@
 	<s id='3'>À la lanterne ! </s>
 </p>
 </sp>
-<sp who='LAIBIL'><speaker>LAIBIL, par forme de conversation.</speaker>
+<sp stage="disdain" who='LAIBIL'><speaker>LAIBIL, par forme de conversation.</speaker>
 <p id='22'>
 	<s id='1'>Avez-vous trouvé le fameux passage ?</s>
 </p>
@@ -791,7 +787,7 @@
 	<s id='6'>Ne pouvant avoir la ville d'assaut, ils veulent la prendre à l'abordage.</s>
 </p>
 </sp>
-<sp who='LAIBIL'><speaker>LAIBIL, avec gravité.</speaker>
+<sp stage="serious" who='LAIBIL'><speaker>LAIBIL, avec gravité.</speaker>
 <p id="24">
 	<s id="1">Êtes-vous depuis longtemps à Paris ?</s>
 </p>
@@ -809,7 +805,7 @@
 	<s id='3'>Il allait peut-être ouvrir la porte de l'égout à ses vaisseaux. </s>
 </p>
 </sp>
-<sp who='LAIBIL'><speaker>LAIBIL, toujours en accusant. </speaker>
+<sp stage="stress" who='LAIBIL'><speaker>LAIBIL, toujours en accusant. </speaker>
 <p id='27'>
 	<s id=''>Avez-vous fait des cartes ?</s>
 </p>
@@ -831,7 +827,7 @@
 	<s id='7'>Faudra lui demander ça bien finement.</s>
 </p>
 </sp>
-<sp who='LAIBIL'><speaker>LAIBIL, à part. </speaker>
+<sp stage="aparte" who='LAIBIL'><speaker>LAIBIL, à part. </speaker>
 <p id="29">
 	<s id="1">Je suis combattu par les devoirs de ma place, et mon amour pour les sciences... </s>
 	<s id='2'>Mes questions indiscrètes le conduisent au bord du précipice... </s>
@@ -857,7 +853,7 @@
 <p id="33">
 	<s id="1">Qu'on le fasse rentrer.</s>
 </p>
-<stage type="[N/A]">La Peyrouse rentre.</stage>
+<stage type="entrance">La Peyrouse rentre.</stage>
 <p id='34'>
 	<s id='1'>Citoyen vous êtes libre. </s>
 	<s id='2'>Je vais vous donner quatre fusiliers pour vous conduire.</s>
@@ -867,7 +863,7 @@
 <p id="35">
 	<s id="1">Je vous prie, Monseigneur de Laibil, de me permettre de vous confier un billet que je vais écrire ; il concerne mes plus chers intérêts.</s>
 </p>
-<stage type="[N/A]">Il écrit son billet, et le donne à Laibil.</stage>
+<stage type="write/give">Il écrit son billet, et le donne à Laibil.</stage>
 <p id='36'>
 	<s id='1'>Je ne puis trop vous remercier de la justice que vous m'avez rendue.</s>
 </p>
@@ -890,7 +886,7 @@
 	<s id="1">Je voulons aller couper la tête à ces chiens de garde-du-corps qui font des gueuletons pendant que je mourrons de faim.</s>
 </p>
 </sp>
-<sp who='LAIBIL'><speaker>LAIBIL, à part.</speaker>
+<sp stage="aparte" who='LAIBIL'><speaker>LAIBIL, à part.</speaker>
 <p id='4'>
 	<s id='1'>Bon...</s>
 </p>
@@ -906,7 +902,7 @@
 	<s id='3'>Ils ont fait un grand cabaret ; ils ont mangé plus de quinze cents livres de pain, et bu à l'avenant ; et puis ils ont dit au roi et à la reine qu'ils l'aimions bien ; je n'aimons pas ces façons-là.</s>
 </p>
 </sp>
-<sp who='LAIBIL'><speaker>LAIBIL, à un confident.</speaker>
+<sp stage="toward" who='LAIBIL'><speaker>LAIBIL, à un confident.</speaker>
 <p id='7'>
 	<s id='1'>Sont-ils nombreux ?</s>
 </p>
@@ -966,7 +962,7 @@
 	<s id='2'>Je t'avons fait not' commandant pour que tu nous obéisses ; ainsi marche, ou à la lanterne !</s>
 </p>
 </sp>
-<sp who='YETAFET'><speaker>YETAFET, à Laibil.</speaker>
+<sp stage="toward" who='YETAFET'><speaker>YETAFET, à Laibil.</speaker>
 <p id='8'>
 	<s id='1'>Vous l'ordonnez, Monsieur.</s>
 </p>
@@ -986,7 +982,7 @@
 </div1>
 <div1 type="act" n='3'><head>ACTE III</head>
 <div2 type="scene" n='1'><head>SCÈNE I.</head>
-<sp who='LA PEYROUSE'><speaker>LA PEYROUSE, entre dans la salle d'un hôtel du Palais-Royal.</speaker>
+<sp stage="entrance/decor" who='LA PEYROUSE'><speaker>LA PEYROUSE, entre dans la salle d'un hôtel du Palais-Royal.</speaker>
 <p id='1'>
 	<s id='1'>Fut-il jamais un homme plus malheureux ! </s>
 	<s id='2'>Assailli, persécuté au milieu de ma patrie, ne reconnaissant ni ses lois, ni ses troupes ; ni ses juges, je ne trouve aucun appui ; je ne puis même rencontrer un ami qui m'explique ce que mon esprit ne peut concevoir... </s>
@@ -995,7 +991,7 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n='2'><head>SCÈNE II. LA PEYROUSE, LA MAITRESSE DE L'HOTEL.</head>
+<div2 type="scene" n='2'><head>SCÈNE II. La Peyrouse, La Maitresse de l'Hôtel.</head>
 <sp who="LA PEYROUSE"><speaker>LA PEYROUSE.</speaker>
 <p id="1">
 	<s id="1">Ah ! </s>
@@ -1007,7 +1003,7 @@
 	<s id="1">Monsieur, je ne fais que mon devoir.</s>
 </p>
 </sp>
-<sp who='LA PEYROUSE'><speaker>LA PEYROUSE, à part.</speaker>
+<sp stage="aparte" who='LA PEYROUSE'><speaker>LA PEYROUSE, à part.</speaker>
 <p id='3'>
 	<s id='1'>Enfin je vais trouver un être raisonnable. </s>
 	<s id='2'>Madame, je viens m'établir chez vous.</s>
@@ -1022,7 +1018,7 @@
 </sp>
 <sp who="LA PEYROUSE"><speaker>LA PEYROUSE.</speaker>
 <p id="5">
-	<s id="1">Ce que vous voudrez, Madame, un poulet et des cottelettes de mouton.</s>
+	<s id="1">Ce que vous voudrez, Madame, un poulet et des côtelettes de mouton.</s>
 </p>
 </sp>
 <sp who="LA MAÎTRESSE"><speaker>LA MAÎTRESSE.</speaker>
@@ -1062,7 +1058,7 @@
 	<s id='1'>Monsieur ne me comprend pas bien ; c'est son service militaire qu'il fait en ce moment ; il est au corps-de-garde.</s>
 </p>
 </sp>
-<sp who='LA PEYROUSE'><speaker>LA PEYROUSE, avec surprise.</speaker>
+<sp stage="surprise" who='LA PEYROUSE'><speaker>LA PEYROUSE, avec surprise.</speaker>
 <p id='13'>
 	<s id='1'>Son service militaire !</s>
 </p>
@@ -1219,7 +1215,7 @@ Elle veut sortir un rentre effrayée.
 	<s id='2'>Écoutez.</s>
 </p>
 </sp>
-<sp who='LE PEUPLE'><speaker>LE PEUPLE, dans le jardin.</speaker>
+<sp stage="location" who='LE PEUPLE'><speaker>LE PEUPLE, dans le jardin.</speaker>
 <note type="L">Bled : nom donné à un ensemble de céréales blé, seigle (...).</note>
 <p id='40'>
 	<s id='1'>À la lanterne! </s>
@@ -1253,13 +1249,13 @@ Elle veut sortir un rentre effrayée.
 	<s id='3'>Il faut le pendre...</s>
 </p>
 </sp>
-<sp who='LA MAÎTRESSE'><speaker>LA MAÎTRESSE, à genoux un pleurant.</speaker>
+<sp stage="kneel/cry" who='LA MAÎTRESSE'><speaker>LA MAÎTRESSE, à genoux un pleurant.</speaker>
 <p id="2">
 	<s id="1">Grâces, Messieurs, grâces pour lui ! </s>
 	<s id='2'>Je vous jure qu'il n'a de pain que ce qu'il en faut pour nos seigneurs les Députés! </s>
 </p>
 </sp>
-<sp who='LE PEUPLE'><speaker>LE PEUPLE, apercevant la Peyrouse.</speaker>
+<sp stage="watch" who='LE PEUPLE'><speaker>LE PEUPLE, apercevant la Peyrouse.</speaker>
 <p id='3'>
 	<s id='1'>Le voici ! </s>
 	<s id='2'>Le voici! </s>
@@ -1272,7 +1268,7 @@ Elle veut sortir un rentre effrayée.
 	<s id='2'>Ce n'est donc pas mon mari qu'ils cherchent !</s>
 </p>
 </sp>
-<sp who='LA PEYROUSE'><speaker>LA PEYROUSE, se débattant. </speaker>
+<sp stage="push" who='LA PEYROUSE'><speaker>LA PEYROUSE, se débattant. </speaker>
 <p id='5'>
 	<s id='1'>Mais que me voulez-vous ?</s>
 </p>
@@ -1283,7 +1279,7 @@ Elle veut sortir un rentre effrayée.
 	<s id='2'>Il est si loin d'être un accaparateur, qu'il n'a pas mangé un morceau de pain de toute la journée.</s>
 </p>
 </sp>
-<sp who='UN HOMME DU PEUPLE'><speaker>UN HOMME DU PEUPLE, tenant un billet. </speaker>
+<sp stage="show" who='UN HOMME DU PEUPLE'><speaker>UN HOMME DU PEUPLE, tenant un billet. </speaker>
 <p id='7'>
 	<s id='1'>Il ne se doute de rien ! </s>
 	<s id='2'>Le pauvre garçon ! </s>
@@ -1303,22 +1299,22 @@ Elle veut sortir un rentre effrayée.
 <p id="10">
 	<s id="1">Des expériences !... </s>
 	<s id='2'>Oui, à nos dépens !... </s>
-	<s id='3'>Tu vas faire une expérience que tu ne répéteras pas deux fois...  </s>
+	<s id='3'>Tu vas faire une expérience que tu ne répéteras pas deux fois... </s>
 	<s id='4'>Allons à la lanterne!</s>
 </p>
-<stage type="[N/A]">Ils l'entraînent.</stage>
+<stage type="pull">Ils l'entraînent.</stage>
 </sp>
 <sp who='UN DE LA TROUPE'><speaker>UN DE LA TROUPE.</speaker>
 <p id='11'>
 	<s id='1'>Attends, je vais faire son affaire ; j'ai quatre charges dans mon fusil.</s>
 </p>
-<stage type="[N/A]">Il vise la Peyrouse, le manque et tombe à la renverse.</stage>
+<stage type="fight/shoot/fall">Il vise la Peyrouse, le manque et tombe à la renverse.</stage>
 </sp>
 <sp who="GUILLAUME"><speaker>GUILLAUME.</speaker>
 <p id="12">
 	<s id="1">Son fusil a tiré à rebours, je crois qu'il s'est tué.</s>
 </p>
-<stage type="[N/A]">Il veut ramasser le fusil.  </stage>
+<stage type="get">Il veut ramasser le fusil. </stage>
 </sp>
 <sp who='UN DE LA TROUPE'><speaker>LE PREMIER HOMME, qui a tiré. </speaker>
 <p id="13">
@@ -1343,7 +1339,7 @@ Elle veut sortir un rentre effrayée.
 	<s id='5'>Encore si nous n'étions pas libres, on aurait pu le juger... </s>
 	<s id='6'>Apparemment que cela doit être comme cela pour la liberté, il faut d'abord chasser les Parlements et la Justice. . .</s>
 </p>
-<stage type="[N/A]">Elle regarde à la fenêtre.</stage>
+<stage type="watch/location">Elle regarde à la fenêtre.</stage>
 <p id='2'>
 	<s id='1'>Ciel ! </s>
 	<s id='2'>Le voilà pendu ! </s>
@@ -1354,24 +1350,24 @@ Elle veut sortir un rentre effrayée.
 	<s id='7'>Je me trouve mal... </s>
 	<s id='8'>J'expire... </s>
 </p>
-<stage type="action/fall">Elle tombe.</stage>
+<stage type="fall">Elle tombe.</stage>
 </sp>
 </div2>
  <div2 type="scene" n='5'><head>SCÈNE V. Bimeaura, La Maîtresse.</head>
 <sp who="BIMEAURA"><speaker>BIMEAURA.</speaker>
-<stage type="[N/A]">Apercevant la maîtresse.</stage>
+<stage type="watch">Apercevant la maîtresse.</stage>
 <p id="1">
 	<s id="1">Madame du Club ? </s>
 	<s id='2'>Qu'avez-vous?... </s>
 	<s id='3'>Elle se trouve mal...</s>
 </p>
-<stage type="[N/A]">Il la secoure.</stage>
+<stage type="help">Il la secoure.</stage>
 <p id='2'>
 	<s id='1'>Madame du Club ! </s>
 	<s id='2'>Madame du Club.</s>
 </p>
 </sp>
-<sp who='LA MAÎTRESSE'><speaker>LA MAÎTRESSE, revenant à elle.</speaker>
+<sp stage="back" who='LA MAÎTRESSE'><speaker>LA MAÎTRESSE, revenant à elle.</speaker>
 <p id='3'>
 	<s id='1'>Où suis-je ! </s>
 	<s id='2'>Ciel !... </s>
@@ -1402,7 +1398,7 @@ Elle veut sortir un rentre effrayée.
 	<s id="1">Tant mieux, Monsieur, c'est une bonne oeuvre que vous avez faite...</s>
 </p>
 </sp>
-<sp who="BIMEAURA"><speaker>BIMEAURA, à part.</speaker>
+<sp stage="aparte" who="BIMEAURA"><speaker>BIMEAURA, à part.</speaker>
 <p id="8">
 	<s id="1">Ce sont d'autres victimes qu'il me faut.</s>
 </p>
@@ -1430,7 +1426,7 @@ Elle veut sortir un rentre effrayée.
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI.</head>
-<sp who='BIMEAURA'><speaker>BIMEAURA, seul.</speaker>
+<sp stage="alone" who='BIMEAURA'><speaker>BIMEAURA, seul.</speaker>
  <p id="1">
 	<s id="1">À quel affreux supplice me livrent l'incertitude et l'attente !... </s>
 	<s id='2'>Non, jamais il ne résistera à cette épreuve !... </s>
@@ -1514,7 +1510,7 @@ Elle veut sortir un rentre effrayée.
 	<s id="1">Ah ! </s>
 	<s id='2'>Je ne m'attendais pas à cette surprise.</s>
 </p>
-<stage type="[N/A]">Catepane se retire à l'écart pour lire.</stage>
+<stage type="away/read">Catepane se retire à l'écart pour lire.</stage>
 </sp>
 <sp who="ALMENANDRE"><speaker>ALMENANDRE.</speaker>
 <p id="14">
@@ -1550,12 +1546,12 @@ Elle veut sortir un rentre effrayée.
 </sp>
 </div2>
 <div2 type="scene" n='8'><head>SCÈNE VIII. Montmici, Catepane, Almenandre, Mola.</head>
-<sp who='MONTMICI'><speaker>MONTMICI, finissant la lecture. </speaker>
+<sp stage="read" who='MONTMICI'><speaker>MONTMICI, finissant la lecture. </speaker>
 <p id='1'>
 	<s id='1'>C'est parfaitement constitutionnel.</s>
 </p>
 </sp>
-<sp who='CATEPANE'><speaker>CATEPANE, de même.</speaker>
+<sp stage="read" who='CATEPANE'><speaker>CATEPANE, de même.</speaker>
 <p id='2'>
 	<s id=''>Je suis très content, ça rendra.</s>
 </p>
@@ -1703,7 +1699,7 @@ Elle veut sortir un rentre effrayée.
 	<s id='11'>L'armée s'est enfin emparée de la personne du roi et de sa famille, ils entrent dans la capitale.</s>
 </p>
 </sp>
-<sp who='BIMEAURA'><speaker>BIMEAURA, avec désespoir.</speaker>
+<sp stage="desperate" who='BIMEAURA'><speaker>BIMEAURA, avec désespoir.</speaker>
 <p id="5">
 	<s id="1">Ainsi Yetafet triomphe, et le monarque va voir augmenter l'amour de ses sujets ! </s>
 	<s id='2'>Tout est donc perdu !... </s>
@@ -1719,7 +1715,7 @@ Elle veut sortir un rentre effrayée.
 <p id="7">
 	<s id="1">Donne vite...</s>
 </p>
-<stage type="[N/A]">Il la lit bas et finit haut.</stage>
+<stage type="read/low/loud">Il la lit bas et finit haut.</stage>
 <p id="">
 	<s id="1">« Traître ! </s>
 	<s id='2'>Je pars. </s>
@@ -1736,7 +1732,7 @@ Elle veut sortir un rentre effrayée.
 	<s id="1">Tu triomphes, Bimeaura, des nouveaux désordres qui affligent la France !</s>
 </p>
 </sp>
-<sp who='BIMEAURA'><speaker>BIMEAURA, à part.</speaker>
+<sp stage="aparte" who='BIMEAURA'><speaker>BIMEAURA, à part.</speaker>
 <p id='2'>
 	<s id='1'>Je triomphe ! </s>
 	<s id='2'>J'ai la rage dans le coeur!</s>
@@ -1787,7 +1783,7 @@ Elle veut sortir un rentre effrayée.
 	<s id='7'>Le dernier terme de l'autorité est souvent la perte des ambitieux, actuellement que vous l'avez toute acquise...</s>
 </p> 
 </sp>
-<sp who='BIMEAURA'><speaker>BIMEAURA, à part.</speaker>
+<sp stage="aparte" who='BIMEAURA'><speaker>BIMEAURA, à part.</speaker>
 <p id="10">
 	<s id="1">Toute acquise ! </s>
 	<s id='2'>Ce mot est cruel, au moment où elle m'échappe !</s>
@@ -1815,7 +1811,7 @@ Elle veut sortir un rentre effrayée.
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Mounier, Yetafet.</head>
-<sp who='MOUNIER'><speaker>MOUNIER, à Bimeaura qui sort.</speaker>
+<sp stage="toward/exit" who='MOUNIER'><speaker>MOUNIER, à Bimeaura qui sort.</speaker>
 <p id="1">
 	<s id="1">Oui sans doute, je n'ai pour tous les hommes qu'un poids et une balance. </s>
 </p>
@@ -1849,7 +1845,7 @@ Elle veut sortir un rentre effrayée.
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV.</head>
-<sp who='YETAFET'><speaker>YETAFET, seul.</speaker>
+<sp stage="alone" who='YETAFET'><speaker>YETAFET, seul.</speaker>
 <p id="1">
 	<s id="1">Ils ne m'ont que trop deviné ! J'espérais conserver ma popularité et mon crédit... </s>
 	<s id='2'>L'un et l'autre sont également compromis ; je n'ai trompé ni le monarque, ni le peuple, et dans cette affreuse journée, j'ai donc uniquement servi les intérêts de Bimeaura.</s>
@@ -1874,7 +1870,7 @@ Elle veut sortir un rentre effrayée.
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI.</head>
-<sp who='LA PEYROUSE'><speaker>LA PEYROUSE, seul.</speaker>
+<sp stage="alone" who='LA PEYROUSE'><speaker>LA PEYROUSE, seul.</speaker>
 <p id='1'>
 	<s id='1'>Voilà donc le terme de mes travaux pénibles. </s>
 	<s id='2'>Mais je dois m'oublier moi-même au milieu des malheurs qui accablent mon Roi.</s>
@@ -1882,7 +1878,7 @@ Elle veut sortir un rentre effrayée.
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII. LA PEYROUSE, O PARIA.</head>
-<sp who='O PARIA'><speaker>O PARIA, tout couvert de rubans.</speaker>
+<sp stage="dress" who='O PARIA'><speaker>O PARIA, tout couvert de rubans.</speaker>
 <p id='1'>
 	<s id='1'>Partons pour la France, capitaine ! </s>
 	<s id='2'>Partons, je viens de voir apprêter le repas de nation ! </s>

@@ -8,8 +8,8 @@
 			</titleStmt>
 			<publicationStmt>	
 				<p>publié par Paul FIEVRE, avril 2014</p>
-			<idno></idno>
-</publicationStmt>
+				<idno>POINSINET_CERCLE</idno>
+			</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -18,9 +18,6 @@
 				<periode>1761-1770</periode>
 				<taille>(mesure non pertinente)</taille>
 				<permalien></permalien>
-				<sources>
-					<source id='1'><author></author><text></text></source>
-				</sources>	
 			</SourceDesc>
 		</fileDesc>
 </teiHeader>
@@ -52,13 +49,13 @@
 	</div>
 <castList>
 	<head>ACTEURS.</head>
-		<castItem><role id="ARAMINTE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>ARAMINTE</role>, Veuve d'un Financier. Mme Préville</castItem>
+		<castItem><role id="ARAMINTE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>ARAMINTE</role>, veuve d'un Financier. Mme Préville</castItem>
 		<castItem><role id="CIDALISE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>CIDALISE</role>, amie d'Araminte. Melle d'Epinay</castItem>
 		<castItem><role id="ISMÈNE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>ISMÈNE</role>, amie d'Araminte. Melle Hus.</castItem>
-		<castItem><role id="LUCILE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>LUCILE</role>, Fille d'Araminte. Melle Doligny.</castItem>
-		<castItem><role id="LISETTE" sex="2" type="H" statut='femme de chambre' age='A' stat_amour='néant'>LISETTE</role>, sa femme de hambre. Melle Bellecourt.</castItem>
+		<castItem><role id="LUCILE" sex="2" type="H" statut='bourgeois' age='J' stat_amour='néant'>LUCILE</role>, fille d'Araminte. Melle Doligny.</castItem>
+		<castItem><role id="LISETTE" sex="2" type="H" statut='femme de chambre' age='A' stat_amour='néant'>LISETTE</role>, sa femme de chambre. Melle Bellecourt.</castItem>
 		<castItem><role id="LISIDOR" sex="1" type="H" statut='conseiller au parlement' age='A' stat_amour='néant'>LISIDOR</role>, Conseiller au Parlement. M. D'Auberval.</castItem>
-		<castItem><role id="LE MARQUIS" sex="1" type="H" statut='marquis' age='A' stat_amour='néant'>LE MARQUIS</role>, jeune Colonel. M. Molé.</castItem>
+		<castItem><role id="LE MARQUIS" sex="1" type="H" statut='marquis' age='J' stat_amour='néant'>LE MARQUIS</role>, jeune Colonel. M. Molé.</castItem>
 		<castItem><role id="LE BARON" sex="1" type="H" statut='baron' age='A' stat_amour='néant'>LE BARON</role>, ancien militaire. M. de Bonneval.</castItem>
 		<castItem><role id="UN MÉDECIN" sex="1" type="H" statut='médecin' age='A' stat_amour='néant'>UN MÉDECIN</role>. M. Préville.</castItem>
 		<castItem><role id="UN ABBÉ" sex="1" type="H" statut='abbé' age='A' stat_amour='néant'>UN ABBÉ</role>. M. Auger.</castItem>
@@ -68,7 +65,7 @@
 </front>
 <body>
 <div1 type="act" n='1'><head></head>
-<div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Lisette, Lisidor, Ils entrent de différents côtés.</head> 
+<div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Lisette, Lisidor ; Ils entrent de différents côtés.</head> 
 <stage type="decor">Le théâtre représente un salon de compagnie, où se trouvent des sièges, un canapé, un métier de tapisserie, des tables de jeu, des livres de musique, une guitare, etc.</stage>
 <sp who="LISETTE"><speaker>LISETTE.</speaker>
 <p id="1">
@@ -81,7 +78,7 @@
 	<s id="1">Mon empressement t'étonnera moins quand le motif t'en sera connu. </s>
 	<s id='2'>Je viens de recevoir quelques nouvelles qui m'affligent, et je voulais avoir à l'issue de son dîner, une conversation avec l'aimable Lucile.</s>
 </p>
-<stage type="[N/A]">Il tire sa montre.</stage>
+<stage type="watch">Il tire sa montre.</stage>
 <p id='3'>
 	<s id='1'>Le repas me paraît aujourd'hui plus long qu'a l'ordinaire.</s>
 </p>
@@ -91,13 +88,13 @@
 	<s id="1">Ce n'est pas que Madame Araminte s'amuse à table : depuis que je la connais, j'ai toujours remarqué que ce n'est jamais où elle est qu'elle se désire ; mais nous avons compagnie.</s>
 </p>
 </sp>
-<sp who='LISIDOR'><speaker>LISIDOR, tirant une bague de son doigt.</speaker>
+<sp stage="dress" who='LISIDOR'><speaker>LISIDOR, tirant une bague de son doigt.</speaker>
 <p id="5">
 	<s id="1">En attendant que l'une ou l'autre de ces Dames soit visible.... </s>
 	<s id='2'>Te pourrai-je consulter sur ce bijou ?</s>
 </p>
 </sp>
-<sp who='LISETTE'><speaker>LISETTE, prenant la bague.</speaker>
+<sp stage="take" who='LISETTE'><speaker>LISETTE, prenant la bague.</speaker>
 <p id="6">
 	<s id="1">Comment ! </s>
 	<s id='2'>C'est la plus jolie bague.</s>
@@ -123,7 +120,7 @@
 	<s id="1">Elle serait bien ingrate.</s>
 </p>
 </sp>
-<sp who='LISIDOR'><speaker>LISIDOR, finement.</speaker>
+<sp stage="subtly" who='LISIDOR'><speaker>LISIDOR, finement.</speaker>
 <p id="11">
 	<s id="1">J'espère cependant que tu ne le seras point, Lisette.</s>
 </p>
@@ -164,8 +161,8 @@
 </sp>
 <sp who="LISETTE"><speaker>LISETTE.</speaker>
 <p id="16">
-	<s id="1">Peut-Ëtre, mais il n'en serait pas moins ridicule. </s>
-	<s id='é'>Vraiment, le coeur me dit bien tout bas qu'il n'est pas trop dans les règles du respect de juger ainsi sa maîtresse ; mais, ma foi, s'il y a du mal à le penser, il y a bien du plaisir à le dire, et l'un va pour l'autre.</s>
+	<s id="1">Peut-être, mais il n'en serait pas moins ridicule. </s>
+	<s id='2'>Vraiment, le coeur me dit bien tout bas qu'il n'est pas trop dans les règles du respect de juger ainsi sa maîtresse ; mais, ma foi, s'il y a du mal à le penser, il y a bien du plaisir à le dire, et l'un va pour l'autre.</s>
 </p>
 </sp>
 <sp who="LISIDOR"><speaker>LISIDOR.</speaker>
@@ -224,7 +221,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Lisette, Lucile, Lisidor.</head>
-<sp who='LUCILE'><speaker>LUCILE, d'un ton naïf.</speaker>
+<sp stage="naive" who='LUCILE'><speaker>LUCILE, d'un ton naïf.</speaker>
 <p id="1">
 	<s id="1">Ah ! </s>
 	<s id=''>Vous voilà, Monsieur ?</s>
@@ -325,20 +322,20 @@
 	<s id=''>Si je connais bien Madame Araminte, le Marquis, d'un jour à l'autre peut lui déplaire ; l'inconséquence et la légèreté sont le caractère distinctif des gens à la mode, et mon heureux rival peut en un instant perdre tout le crédit que je ne sais quel heureux hasard lui a fait si vite acquérir.</s>
 </p>
 </sp>
-<sp who='LISETTE'><speaker>LISETTE, prenant le milieu du Théâtre.</speaker>
+<sp stage="location" who='LISETTE'><speaker>LISETTE, prenant le milieu du théâtre.</speaker>
 <p id="19">
 	<s id="1">Oh ! </s>
 	<s id='2'>Ceci me regarde, c'est une petite anecdote que je possède et qu'il est bon de vous conter. </s>
 	<s id='3'>Or, écoutez. </s>
-	<s id='4'>Notre Maîtresse et ses deux inséparables, vous reconnaissez bien Ism7ne et Cidalise, ennuyées d'un Tri et ne sachant sur quoi médire, s'avisèrent de s'occuper. </s>
+	<s id='4'>Notre Maîtresse et ses deux inséparables, vous reconnaissez bien Ismène et Cidalise, ennuyées d'un Tri et ne sachant sur quoi médire, s'avisèrent de s'occuper. </s>
 	<s id='5'>Araminte à ce métier achève une fleur de tapisserie ; Cidalise prend nonchalamment un fil d'or, fait approcher de son fauteuil un tambour et brode en bâillant une garniture de robe, tandis qu'Ismene couchée sur le canapé travaille un falbala de Marly : on entend des chevaux hennir, l'escalier retentir, un laquais annonce, et le Marquis paraît : « Que je suis heureux de vous trouver Mesdames ! </s>
 	<s id='6'>Mais que vois-je ? </s>
 	<s id='7'>Que ce point est égal ! </s>
 	<s id='8'>Comme ces fleurs sont nuancées ! </s>
 	<s id='9'>C'est l'ouvrage des Grâces, c'est celui des Fées, ou plutôt c'est le vôtre. » </s>
 	<s id='10'>Aussitôt, il tire de sa poche un étui, dont assurément on ne le soupçonnait pas d'être porteur, il y choisit une aiguille d'or, s'empare de la soie, et voilà mon Colonel qui fait de la tapisserie. </s>
-	<s id='11'>On le considère, on l'admire ; mais ce n'est rien encore, il quitte Araminte et son ouvrage, il court à Cidalise, lui dérobe le tambour, et déjà sa main légere achève le contour de la fleur à peine commencée. </s>
-	<s id='12'>Ismène, la minaudière Ismene, laisse alors tomber un regard, et ce regard veut dire, « serai-je la seule délaissée, mon ouvrage est-il indigne de vos soins ? Non, Madame, non certainement » reprend l'impétueux Marquis. Il s'élance sur le canapé ; saisit un bout du falbala et accélère d'autant plus son ouvrage qu'il est plus jaloux d'être auprès de l'aimable Ismène. </s>
+	<s id='11'>On le considère, on l'admire ; mais ce n'est rien encore, il quitte Araminte et son ouvrage, il court à Cidalise, lui dérobe le tambour, et déjà sa main légère achève le contour de la fleur à peine commencée. </s>
+	<s id='12'>Ismène, la minaudière Ismène, laisse alors tomber un regard, et ce regard veut dire, « serai-je la seule délaissée, mon ouvrage est-il indigne de vos soins ? Non, Madame, non certainement » reprend l'impétueux Marquis. Il s'élance sur le canapé ; saisit un bout du falbala et accélère d'autant plus son ouvrage qu'il est plus jaloux d'être auprès de l'aimable Ismène. </s>
 	<s id='13'>Peignez-vous la surprise, l'extase de nos trois femmes ; le Marquis tire sa montre, suppose un rendez-vous et les quitte : mais que le fripon sait bien avoir gravé dans leurs coeurs la plus profonde idée de son mérite ! </s>
 	<s id='14'>C'est un homme unique, essentiel ; un Colonel qui brode, qui fait de la tapisserie ; il est charmant, il faut se l'attacher ; mais comment ? </s>
 	<s id='15'>Lucile est fille, eh bien ! qu'il soit son époux. </s>
@@ -481,7 +478,7 @@ de Voltaire, que Mérope était la Tragédie qu'il préférait. [Note de l'auteu
 	<s id='2'>Et vous ne devez pas m'en vouloir... </s>
 	<s id='3'>Je sais bien quelles étaient vos vues ; mais il y a dans ce dernier arrangement une sorte de convenance. </s>
 	<s id='4'>Vous tenez à votre état, il est triste, je le suis naturellement, et j'ai besoin d'un gendre qui m'égaie. </s>
-	<s id='5'>Au reste je ne répons point des événements.</s>
+	<s id='5'>Au reste je ne réponds point des événements.</s>
 </p>
 </sp>
 <sp who="LISIDOR"><speaker>LISIDOR.</speaker>
@@ -581,7 +578,7 @@ de Voltaire, que Mérope était la Tragédie qu'il préférait. [Note de l'auteu
 <stage type="toward">À Lisidor.</stage>
 <p id="11">
 	<s id="1">Aussi bien le Baron m'a-t-il écrit qu'il viendrait ce soir ; s'il ne me trouvait pas, il faudrait bouder des siècles. </s>
-	<s id=''>Mais Qu'entens-je ? </s>
+	<s id=''>Mais Qu'entends-je ? </s>
 	<s id=''>Serait-ce déjà lui ? </s>
 	<s id=''>Je vous garde au moins Lisidor.</s>
 </p>
@@ -686,7 +683,7 @@ de Voltaire, que Mérope était la Tragédie qu'il préférait. [Note de l'auteu
 	<s id="1">Doucement, Baron.</s>
 </p>
 </sp>
-<sp who='LISIDOR'><speaker>LISIDOR, à Araminte à demi-voix</speaker>
+<sp stage="low/toward" who='LISIDOR'><speaker>LISIDOR, à Araminte à demi-voix</speaker>
 <p id="16">
 	<s id="1">Vous voyez, Madame, que je ne suis pas le seul....</s>
 </p>
@@ -781,7 +778,7 @@ de Voltaire, que Mérope était la Tragédie qu'il préférait. [Note de l'auteu
 	<s id='2'>C'est-là, c'est du sein de son château qu'un bon gentilhomme voit se fertiliser sous ses yeux la terre, qu'il a souvent aidé à défricher lui-même. </s>
 	<s id='3'>Les arbres qu'il a plantés, s'élèvent sous sa vue et sa joie s'accroît avec eux. </s>
 	<s id='4'>Entouré de Paysans qui le chérissent en père, il les anime au travail le moins estimé, mais le plus noble ; il les encourage, il les récompense. </s>
-	<s id='5'>Ces gens-là ne le louent pas, mais il le bénissent, et cela vaut  mieux. </s>
+	<s id='5'>Ces gens-là ne le louent pas, mais il le bénissent, et cela vaut mieux. </s>
 	<s id='6'>Il connaît ses prérogatives, il n'y déroge pas, mais il rougirait d'en abuser ; il sait qu'il commande à des hommes, et c'est en les rendant heureux qu'il s'assure le droit de l'être lui-même</s>
 </p>
 </sp>
@@ -867,7 +864,7 @@ de Voltaire, que Mérope était la Tragédie qu'il préférait. [Note de l'auteu
 </sp>
 <sp who="DAMON"><speaker>DAMON.</speaker>
 <p id="2">
-	<s id="1">Elles vont se rendre ici ; et si cela peut vous plaire, Madame, je n'attendrai plus que vos ordres et leur présence pour commecer la lecture de ma tragédie. </s>
+	<s id="1">Elles vont se rendre ici ; et si cela peut vous plaire, Madame, je n'attendrai plus que vos ordres et leur présence pour commencer la lecture de ma tragédie. </s>
 	<s id='2'>Vous m'avez paru la désirer.</s>
 </p>
 </sp>
@@ -875,7 +872,7 @@ de Voltaire, que Mérope était la Tragédie qu'il préférait. [Note de l'auteu
 <p id="3">
 	<s id="1">Oui, j'en serai charmée ; cela vient à miracle ; je reste chez moi ; et, tenez, voilà Monsieur </s>
 </p>
-<stage type="[N/A]">En montrant Lisidor.</stage>
+<stage type="show">En montrant Lisidor.</stage>
 <p id="3">
 	<s id="1">qui pourra vous donner d'excellents avis : c'est un connaisseur.</s>
 </p>
@@ -888,7 +885,7 @@ de Voltaire, que Mérope était la Tragédie qu'il préférait. [Note de l'auteu
 	<s id='3'>Ma pièce est finie, Madame : et je crois avoir à peu près tout prévu ; ainsi il ne reste plus...</s>
 </p>
 </sp>
-<sp who='LISIDOR'><speaker>LISIDOR, en souriant.</speaker>
+<sp stage="smile" who='LISIDOR'><speaker>LISIDOR, en souriant.</speaker>
 <p id='5'>
 	<s id='1'>Que des éloges à en faire.</s>
 </p>
@@ -922,7 +919,7 @@ de Voltaire, que Mérope était la Tragédie qu'il préférait. [Note de l'auteu
 	<s id="1">N'en doutez pas : j'ai toujours compté sur votre bienveillance ; et, en vérité, pour nous soutenir dans la carrière des Arts, nous avons besoin que les personnes de votre rang daignent semer quelques roses sur les épines dont elle est remplie.</s>
 </p>
 </sp>
-<sp who='ARAMINTE'><speaker>ARAMINTE, à Lisidor.</speaker>
+<sp stage="toward" who='ARAMINTE'><speaker>ARAMINTE, à Lisidor.</speaker>
 <p id="11">
 	<s id="1">Comment il parle !</s>
 </p>
@@ -936,10 +933,9 @@ de Voltaire, que Mérope était la Tragédie qu'il préférait. [Note de l'auteu
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII. Lisette, Lisidor, Lucile, Damon, Cidalise, Araminte, Ismène, L'Abbé.</head>
-<stage type="[N/A]">Les portes s'ouvrent ; les deux femmes entrent d'abord. Isméne s'appuie sur le bras de l'Abbé. Lisidor va au devant de Lucile qui suit avec Lisette.</stage>
-<sp who='ARAMINTE'><speaker>ARAMINTE, allant au devant.</speaker>
-<note type="C">J'ai, selon mon usage, noté la pantomime de cette pièce,
-dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </note>
+<stage type="open">Les portes s'ouvrent ; les deux femmes entrent d'abord. Ismène s'appuie sur le bras de l'Abbé. Lisidor va au devant de Lucile qui suit avec Lisette.</stage>
+<sp stage="closer" who='ARAMINTE'><speaker>ARAMINTE, allant au devant.</speaker>
+<note type="C">J'ai, selon mon usage, noté la pantomime de cette pièce, dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles.</note>
 <p id="1">
 	<s id="1">Eh ! </s>
 	<s id='2'>Venez donc, mes charmantes... </s>
@@ -973,25 +969,25 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 	<s id="1">Je le soupçonnais sans m'en occuper.</s>
 </p>
 </sp>
-<sp who='ISMÈNE'><speaker>ISMÈNE, à Lucile.</speaker>
+<sp stage="toward" who='ISMÈNE'><speaker>ISMÈNE, à Lucile.</speaker>
 <p id="7">
 	<s id="1">Je vous en fais mon compliment, Mademoiselle ; le nombre de vos amants s'augmente avec vos charmes. </s>
 	<s id='2'>On dirait que tous les aspirants se sont donné rendez vous aujourd'hui. </s>
 	<s id='3'>Le Baron vient de sortir ; Monsieur Lisidor est ici, et le Marquis ne peut tarder d'y paraître.</s>
 </p>
 </sp>
-<sp who='ARAMINTE'><speaker>ARAMINTE, à Ismene.</speaker>
+<sp stage="toward" who='ARAMINTE'><speaker>ARAMINTE, à Ismène.</speaker>
 <p id="8">
 	<s id="1">Ah ! </s>
-	<s id='2'>J'espère être bientôt délivrée  toutes ces tracasseries.</s>
+	<s id='2'>J'espère être bientôt délivrée toutes ces tracasseries.</s>
 </p>
-<stage type="[N/A]">Les Domestiques préparent des sièges.</stage>
+<stage type="decor">Les Domestiques préparent des sièges.</stage>
 <p id='9'>
 	<s id='1'>Voulons-nous nous asseoir ? </s>
 	<s id='2'>Monsieur Damon nous doit gratifier d'une lecture.</s>
 </p>
 </sp>
-<sp who='ISMÈNE'><speaker>ISMÈNE, à l'Abbé.</speaker>
+<sp stage="toward" who='ISMÈNE'><speaker>ISMÈNE, à l'Abbé.</speaker>
 <p id='10'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Ciel ! </s>
@@ -1004,11 +1000,11 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 	<s id='2'>Quelque tragédie de sa façon.</s>
 </p>
 </sp>
-<sp who='ISMÈNE'><speaker>ISMÈNE, à part.</speaker>
+<sp stage="aparte" who='ISMÈNE'><speaker>ISMÈNE, à part.</speaker>
 <p id="12">
 	<s id="1">Je suis déjà morte.</s>
 </p>
-<stage type="forte">Haut.</stage>
+<stage type="loud">Haut.</stage>
 <p id="13">
 	<s id="1">Monsieur, nous la lirez-vous toute entière ?</s>
 </p>
@@ -1029,9 +1025,9 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 	<s id='2'>Point du tout, Mesdames ; on oublie aisément ses peines quand on réussit à vous amuser. </s>
 	<s id='3'>Je vais commencer...</s>
 </p>
-<stage type="[N/A]">On s'assied.</stage>
+<stage type="sit">On s'assied.</stage>
 </sp>
-<sp who='ARAMINTE'><speaker>ARAMINTE, à Ismene.</speaker>
+<sp stage="toward" who='ARAMINTE'><speaker>ARAMINTE, à Ismène.</speaker>
 <p id='17'>
 	<s id='1'>Vous n'avez donc rien gagné sur notre cher Abbé ?</s>
 </p>
@@ -1048,7 +1044,7 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 	<s id='3'>J'ai la poitrine si cruellement fatiguée !... </s>
 	<s id='4'>À peine puis je parler...</s>
 </p>
-<stage type="[N/A]">Il tousse.</stage>
+<stage type="cough">Il tousse.</stage>
 <p id="20">
 	<s id="1">Vous voyez... </s>
 	<s id='2'>J'ai passé la moitié de la nuit chez une Duchesse où l'on m'a fait impitoyablement chanter un acte de l'opéra et six romances... </s>
@@ -1113,7 +1109,7 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 <p id="2">
 	<s id="1">Qu'il entre ; j'en suis ravie ; qu'il entre. </s>
 	<s id='2'>Venez ; je vous sais bon gré de ne pas m'abandonner. </s>
-	<s id='3'>Ismene, je vous demande votre confiance pour Monsieur... </s>
+	<s id='3'>Ismène, je vous demande votre confiance pour Monsieur... </s>
 	<s id='4'>Un fauteuil, Lisette... </s>
 	<s id='5'>Ce cher Docteur, c'est qu'il est bien moins mon médecin que mon ami. </s>
 	<s id='6'>C'est par attachement qu'il me traite, et dans ma dernière migraine, il ne m'a pas quitté d'une minute.</s>
@@ -1132,12 +1128,12 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 	<s id='2'>Point du tout.</s>
 </p>
 </sp>
-<sp who='DAMON'><speaker>DAMON, à part.</speaker>
+<sp stage="aparte" who='DAMON'><speaker>DAMON, à part.</speaker>
 <p id='5'>
 	<s id='1'>Me voilà perdu.</s>
 </p>
 </sp>
-<sp who="L'ABBÉ"><speaker>L'ABBÉ, à Ismène.</speaker>
+<sp stage="toward" who="L'ABBÉ"><speaker>L'ABBÉ, à Ismène.</speaker>
 <p id='6'>
 	<s id='1'>Vous croyez aux médecins, Madame ?</s>
 </p>
@@ -1225,13 +1221,13 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 	<s id="1">Il est charmant.</s>
 </p>
 </sp>
-<sp who='DAMON'><speaker>DAMON, à part.</speaker>
+<sp stage="toward" who='DAMON'><speaker>DAMON, à part.</speaker>
 <p id='21'>
 	<s id='1'>Oh ! </s>
 	<s id='2'>Des gens aussi superficiels ne sentiront jamais les beautés mâles de ma Tragédie.</s>
 </p>
 </sp>
-<sp who='LE MÉDECIN'><speaker>LE MÉDECIN, à Ismene.</speaker>
+<sp stage="toward" who='LE MÉDECIN'><speaker>LE MÉDECIN, à Ismène.</speaker>
 <p id='22'>
 	<s id='1'>Et vous, Madame, pour lier connaissance, n'avez-vous pas quelque confidence à me faire ?</s>
 </p>
@@ -1251,11 +1247,11 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 	<s id="1">Sans doute ; ne me connaissez-vous pas de la langueur, des tiraillements ?</s>
 </p>
 </sp>
-<sp who="L'ABBÉ"><speaker>L'ABBÉ, à part.</speaker>
+<sp stage="aparte" who="L'ABBÉ"><speaker>L'ABBÉ, à part.</speaker>
 <p id='26'>
 	<s id='1'>Je n'y tiens plus.</s>
 </p>
-<stage type="[N/A]">L'Abbé se lève, se promène, ouvre des livres de musique, prend une guitare.</stage>
+<stage type="stand/walk/take/music">L'Abbé se lève, se promène, ouvre des livres de musique, prend une guitare.</stage>
 </sp>
 <sp who="LE MÉDECIN"><speaker>LE MÉDECIN.</speaker>
 <p id="27">
@@ -1283,7 +1279,7 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 	<s id='3'>J'irai demain matin vous faire ma cour ; je serai bien aise de vous voit un peu assidûment, afin de mieux étudier les causes de votre état.</s>
 </p>
 </sp>
-<sp who='LISIDOR'><speaker>LISIDOR, à Lucile.</speaker>
+<sp stage="toward" who='LISIDOR'><speaker>LISIDOR, à Lucile.</speaker>
 <p id='30'>
 	<s id='1'>Le ridicule personnage !</s>
 </p>
@@ -1293,7 +1289,7 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 	<s id="1">Plus je l'écoute, plus il m'enchante.</s>
 </p>
 </sp>
-<sp who='DAMON'><speaker>DAMON, en se levant.</speaker>
+<sp stage="stand" who='DAMON'><speaker>DAMON, en se levant.</speaker>
 <p id="32">
 	<s id="1">Comme les moments s'écoulent ! </s>
 	<s id='2'>Si vous vouliez permettre, Mesdames...</s>
@@ -1306,7 +1302,7 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 	<s id='3'>Laissez-nous jouir du cher Docteur.</s>
 </p>
 </sp>
-<sp who='DAMON'><speaker>DAMON, à part.</speaker>
+<sp stage="aparte" who='DAMON'><speaker>DAMON, à part.</speaker>
 <p id="34">
 	<s id="1">J'enrage : où me suis-je fourré ?</s>
 </p>
@@ -1379,7 +1375,7 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 	<s id="1">Voilà certainement une étrange politique !</s>
 </p>
 </sp>
-<sp who="L'ABBÉ"><speaker>L'ABBÉ, préludant.</speaker>
+<sp stage="sing" who="L'ABBÉ"><speaker>L'ABBÉ, préludant.</speaker>
 <p id="46">
 	<s id="1">La, la, la, la, la.</s>
 </p>
@@ -1389,7 +1385,7 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 	<s id="1">Chut, taisons nous.</s>
 </p>
 </sp>
-<sp who='DAMON'><speaker>DAMON, lisant.</speaker>
+<sp stage="read" who='DAMON'><speaker>DAMON, lisant.</speaker>
 <p id='48'>
 	<s id='1'>Tant mieux... </s>
 	<s id='2'>Scène première...</s>
@@ -1399,13 +1395,13 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 </p>
 	<l id='1'>Du centre des déserts de l'inculte Arménie.</l>
 </sp>
-<sp who='CIDALISE'><speaker>CIDALISE, l'interrompant.</speaker>
+<sp stage="interrupt" who='CIDALISE'><speaker>CIDALISE, l'interrompant.</speaker>
 <p id='50'>
 	<s id='1'>Paix donc : l'Abbé ne se doute pas qu'on l'écoute.</s>
 </p>
 </sp>
 <sp who="L'ABBÉ"><speaker>L'ABBÉ.</speaker>
-<stage type="music">Air : Noté à la fin.</stage>
+<stage type="title">Air : Noté à la fin.</stage>
 	<l id='2'>Serait-il vrai jeune bergère,</l>
 	<l id='3'>Que mes soins n'ont pu vous charmer ?</l>
 	<l id='4'>Que d'efforts il faut pour vous plaire !</l>
@@ -1440,8 +1436,8 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 <sp who="L'ABBÉ"><speaker>L'ABBÉ.</speaker>
 	<l id='6'>Quand j'osai découvrir ma flamme ;</l>
 	<l id='7'>J'attendais un sort plus heureux.</l>
-	<l id='8'>Tout le feu qui brûle mon ame</l>
-	<l id='9'>Ne peut-il qu'animer vos yeux ?  </l>
+	<l id='8'>Tout le feu qui brûle mon âme</l>
+	<l id='9'>Ne peut-il qu'animer vos yeux ? </l>
 	<l id='10'>Amour dans ses bras tu reposes ;</l>
 	<l id='11'>De son teint tu peins la blancheur.</l>
 	<l id='12'>Je t'ai vu sur son sein de roses ;</l>
@@ -1508,7 +1504,7 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 	<s id='2'>Je vais recommencer.</s>
 </p>
 </sp>
-<sp who='LE MÉDECIN'><speaker>LE MÉDECIN, se levant.</speaker>
+<sp stage="stand" who='LE MÉDECIN'><speaker>LE MÉDECIN, se levant.</speaker>
 <p id='68'>
 	<s id='1'>Je suis pénétré de ne pouvoir vous entendre.</s>
 </p>
@@ -1534,7 +1530,7 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 </sp>
 <sp who="LE MÉDECIN"><speaker>LE MÉDECIN.</speaker>
 <p id="72">
-	<s id="1">Oui ; cela est fini. Elle s'est entetée d'un certain Empyrique... </s>
+	<s id="1">Oui ; cela est fini. Elle s'est entêtée d'un certain Empyrique... </s>
 	<s id='2'>Je vous conterai quelque jour son aventure. </s>
 	<s id='3'>Adieu, Mesdames.</s>
 </p>
@@ -1561,7 +1557,7 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 <stage type="exit">Il sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n='1'><head>SCÈNE I.. Lisidor, Lucile, Damon, Cidalise, Araminte, Ismène, L'Abbé.</head>
+<div2 type="scene" n='9'><head>SCÈNE IX. Lisidor, Lucile, Damon, Cidalise, Araminte, Ismène, L'Abbé.</head>
 <sp who="DAMON"><speaker>DAMON.</speaker>
 <p id="1">
 	<s id="1">Je puis espérer qu'à présent.</s>
@@ -1573,11 +1569,11 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 	<s id='2'>Commencez, Monsieur Damon.</s>
 </p>
 </sp>
-<sp who="L'ABBÉ"><speaker>L'ABBÉ, à part.</speaker>
+<sp stage="aparte" who="L'ABBÉ"><speaker>L'ABBÉ, à part.</speaker>
 <p id="3">
 	<s id="1">On ne s'occupe plus de nous, sortons.</s>
 </p>
-<stage type="forte">Haut.</stage>
+<stage type="loud">Haut.</stage>
 <p id='4'>
 	<s id='1'>Mesdames, vous m'excuserez.</s>
 </p>
@@ -1600,7 +1596,7 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 	<s id='2'>Je ne la crois pas curieuse des grands poèmes. </s>
 	<s id='3'>Le Baron qui ne peut tarder à revenir, serait charmé de vous entendre, et Lucile apprendrait de vous quelque jolie romance. </s>
 </p>
-<stage type="[N/A]">L'Abbé salue Araminte, baise la main d'Ismene, et présente la sienne à Lucile après avoir dit.</stage>
+<stage type="wave/kiss/touch">L'Abbé salue Araminte, baise la main d'Ismene, et présente la sienne à Lucile après avoir dit.</stage>
 </sp>
 <sp who="L'ABBÉ"><speaker>L'ABBÉ.</speaker>
 <p id="8">
@@ -1608,11 +1604,11 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 	<s id='2'>Je vous suis, Mademoiselle.</s>
 </p>
 </sp>
-<sp who='LISIDOR'><speaker>LISIDOR, à Lucile.</speaker>
+<sp stage="toward" who='LISIDOR'><speaker>LISIDOR, à Lucile.</speaker>
 <p id='9'>
 	<s id='1'>Que ne puis-je vous accompagner ? </s>
 </p>
-<stage type="[N/A]">Lucile sort avec l'Abbé ; Lisette les suit.</stage>
+<stage type="exit/follow">Lucile sort avec l'Abbé ; Lisette les suit.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='10'><head>SCÈNE X. Lisidor, Damon, Cidalise, Araminte, Ismène, ensuite Lisette.</head>
@@ -1630,8 +1626,8 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 	<s id='3'>À vous, Monsieur Damon.</s>
 </p>
 </sp>
-<sp who='DAMON'><speaker>DAMON, prenant la main de Lisidor qui est distrait.</speaker>
-<note type="C">Il existe plusieurs Cyrus : César-Pierre Richelet, opéra de 1751 ; Antoine Danchet, tragédie de 1706 ; Pierre Mainfray, tragédie de 1618 et aussi La Mort de Cyrus de Philippe Quiault, tragédie de 1656.</note>
+<sp stage="touch" who='DAMON'><speaker>DAMON, prenant la main de Lisidor qui est distrait.</speaker>
+<note type="C">Il existe plusieurs Cyrus : César-Pierre Richelet, opéra de 1751 ; Antoine Danchet, tragédie de 1706 ; Pierre Mainfray, tragédie de 1618 et aussi La Mort de Cyrus de Philippe Quinault, tragédie de 1656.</note>
 <p id="3">
 	<s id="1">Suivez-moi, Monsieur, s'il vous plaît ; le titre de ma Tragédie est CYRUS, fils de Cambise. </s>
 	<s id='2'>Vous savez, Mesdames, que le tyran Astyages......</s>
@@ -1652,7 +1648,7 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 	<s id="1">N'est ce pas à vous à commander chez moi ? </s>
 	<s id='2'>Lisette, allons vite, une table.</s>
 </p>
-<stage type="[N/A]">Lisette arrive et fait apporter une table.</stage>
+<stage type="entrance/decor">Lisette arrive et fait apporter une table.</stage>
 </sp>
 <sp who="ISMÈNE"><speaker>ISMÈNE.</speaker>
 <p id="7">
@@ -1660,12 +1656,12 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 	<s id='2'>Il écoutera mieux et nous ferons un tri, nous autres, pendant que Monsieur Damon lira sa tragédie.</s>
 </p>
 </sp>
-<sp who='DAMON'><speaker>DAMON, à part.</speaker>
+<sp stage="aparte" who='DAMON'><speaker>DAMON, à part.</speaker>
 <p id="8">
 	<s id="1">Ah ciel ! </s>
 	<s id='2'>Je n'en puis revenir.</s>
 </p>
-<stage type="[N/A]">On dispose la table.</stage>
+<stage type="decor">On dispose la table.</stage>
 </sp>
 <sp who="CIDALISE"><speaker>CIDALISE.</speaker>
 <p id="9">
@@ -1694,18 +1690,18 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 	<s id='6'>Araminte, Cidalise, et moi... </s>
 	<s id='7'>Vous allez vous mettre ici...</s>
 </p>
-<stage type="[N/A]">Elle dispose une chaise qu'elle place au coin de la table qui doit être au côté gauche du Théâtre.</stage>
+<stage type="decor/location">Elle dispose une chaise qu'elle place au coin de la table qui doit être au côté gauche du Théâtre.</stage>
 <p id='13'>
 	<s id='1'>Oui, là. </s>
 	<s id='2'>Vous nous tournerez le dos, afin d'être moins distrait.</s>
 </p>
 </sp>
-<sp who='LISIDOR'><speaker>LISIDOR, à part.</speaker>
+<sp stage="aparte" who='LISIDOR'><speaker>LISIDOR, à part.</speaker>
 <p id='14'>
 	<s id='1'>Voilà des auditeurs bien attentifs !</s>
 </p>
 </sp>
-<sp who='DAMON'><speaker>DAMON, à part.</speaker>
+<sp stage="aparte" who='DAMON'><speaker>DAMON, à part.</speaker>
 <p id='15'>
 	<s id='1'>Non, je ne sais où j'en suis. </s>
 	<s id='2'>Pauvres talents, comme on vous humilie ! </s>
@@ -1713,7 +1709,7 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 	<s id='4'>Qu'il est cruel d'avoir besoin de certaines gens ! </s>
 	<s id='5'>N'importe...</s>
 </p>
-<stage type="[N/A]">Il remet son cahier dans sa poche.</stage>
+<stage type="hide">Il remet son cahier dans sa poche.</stage>
 <p id='16'>
 	<s id='1'>Adieu, Mesdames, c'est moi qui craindrais de vous distraire de vos grandes occupations... </s>
 	<s id='2'>J'en aurais du regret... </s>
@@ -1775,9 +1771,9 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 </p>
 </sp>
 </div2>
-<div2 type="scene" n='12'><head>SCÈNE XII. Ismène, Araminte, Cidalise, jouant ; Lisidor, tantôt derrière le fauteuil d Araminte, tantôt se promenant ; Le Marquis, qui se place à la droite d'Ismene</head>
-<stage type="[N/A]">La table est à la gauche du théâtre.</stage>
-<sp who='LE MARQUIS'><speaker>LE MARQUIS, dans la coulisse.</speaker>
+<div2 type="scene" n='12' stage="location"><head>SCÈNE XII. Ismène, Araminte, Cidalise, jouant ; Lisidor, tantôt derrière le fauteuil d Araminte, tantôt se promenant ; Le Marquis, qui se place à la droite d'Ismene.</head>
+<stage type="decor">La table est à la gauche du théâtre.</stage>
+<sp stage="location" who='LE MARQUIS'><speaker>LE MARQUIS, dans la coulisse.</speaker>
 <p id='1'>
 	<s id='1'>Oui, oui ; j'arrangerai tout cela. </s>
 	<s id='2'>Je verrai, j'irai, je parlerai.</s>
@@ -1797,13 +1793,14 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 <p id="4">
 	<s id="1">Je vais donc voir ce dangereux rival.</s>
 </p>
-<stage type="[N/A]">Le Marquis entre.</stage>
+<stage type="entrance">Le Marquis entre.</stage>
 </sp>
 <sp who="CIDALISE"><speaker>CIDALISE.</speaker>
 <p id="5">
 	<s id="1">L'étourdi ! </s>
 	<s id='2'>Pourquoi venir si tard ? </s>
 	<s id='3'>Voilà notre partie arrangée. </s>
+<note type="L">Reversis : Jeu de cartes dans lequel gagne celui qui fait le moins de levées, et où le valet de coeur, appelé le quinola, est la carte principale ; il se joue à quatre. [L]</note>
 	<s id='4'>Nous aurions fait un reversis.</s>
 </p>
 </sp>
@@ -1875,7 +1872,7 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 <p id="16">
 	<s id="1">De grâce point de conseils.</s>
 </p>
-<stage type="[N/A]">Pendant ce temps le Marquis regarde le jeu d'Ismene, et lui présente du tabac.</stage>
+<stage type="watch/show">Pendant ce temps le Marquis regarde le jeu d'Ismene, et lui présente du tabac.</stage>
 </sp>
 <sp who="ARAMINTE"><speaker>ARAMINTE.</speaker>
 <note type="L">Guignon : Malheur, accident dont on ne peut savoir la cause, ni à qui s'en prendre. Il est de style bas et familier. [F]</note>
@@ -1950,7 +1947,7 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 	<s id='3'>Vous verrez qu'on ne pourra plus courir Paris sans avoir le blason dans sa poche.</s>
 </p>
 </sp>
-<sp who='LISIDOR'><speaker>LISIDOR, à part.</speaker>
+<sp stage="aparte" who='LISIDOR'><speaker>LISIDOR, à part.</speaker>
 <p id="27">
 	<s id="1">Je sais à présent à quoi m'en tenir sur le compte de mon rival.</s>
 </p>
@@ -1981,7 +1978,7 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 	<s id='3'>Bien, je vous jure que je n'ai que votre falbala dans la tête, que je m'en occupe sérieusement.</s>
 </p>
 </sp>
-<sp who='LISIDOR'><speaker>LISIDOR, à part.</speaker>
+<sp stage="aparte" who='LISIDOR'><speaker>LISIDOR, à part.</speaker>
 <p id='31'>
 	<s id='1'>La belle occupation !</s>
 </p>
@@ -2006,7 +2003,7 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 	<s id='2'>Votre petite incrédulité mérite d'être confondue. </s>
 	<s id='3'>Tenez, tenez.</s>
 </p>
-<stage type="[N/A]">Il tire différentes choses de sa poche, enfin un sac à ouvrage.</stage>
+<stage type="show">Il tire différentes choses de sa poche, enfin un sac à ouvrage.</stage>
 <note type="L">Jarrretière : Lien avec lequel on attache ses bas vers le jarret [haut du mollet] : maintenant on les met au genou. [F]</note>
 <p id="35">
 	<s id="1">Non ce n'est pas cela ; ce sont les jarretières de Lise, les noeuds de Chloë.... </s>
@@ -2032,7 +2029,7 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 	<s id='2'>Rien ne me manque.</s>
 </p>
 </sp>
-<sp who='CIDALISE'><speaker>CIDALISE, jetant son jeu.</speaker>
+<sp stage="throw" who='CIDALISE'><speaker>CIDALISE, jetant son jeu.</speaker>
 <p id="39">
 	<s id="1">Cela est rebutant. </s>
 	<s id='2'>En vérité, Monsieur le Marquis, vous êtes très aimable : mais vous pourriez attendre la fin de la partie ; on ne peut s'occuper de son jeu, et vous écouter.</s>
@@ -2047,7 +2044,7 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 	<s id='5'>Mais, diable ! </s>
 	<s id='6'>Dussiez-vous m'en vouloir encore, j'oubliais précisément ce que je suis venu tout exprès pour vous dire.</s>
 </p>
-<stage type="[N/A]">Il enfile une aiguille.</stage>
+<stage type="work">Il enfile une aiguille.</stage>
 <p id='41'>
 	<s id='1'>C'est une chose assez particulière.</s>
 </p>
@@ -2157,17 +2154,17 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 </p>
 </sp>
 <sp who="ARAMINTE"><speaker>ARAMINTE.</speaker>
-<note type="L">Vole : Terme de jeu de cartes ; et se dit, quand quelq'un fait toutes les mains ou levées de cartes, à l'Hombre, à la Bête, à la Triomphe, etc et alors chacun lui doit une remarques. [F]</note>
+<note type="L">Vole : Terme de jeu de cartes ; et se dit, quand quelqu'un fait toutes les mains ou levées de cartes, à l'Hombre, à la Bête, à la Triomphe, etc et alors chacun lui doit une remarques. [F]</note>
 <p id="58">
 	<s id="1">Il laisse de petits enfants... </s>
-	<s id='2'>J'aurais gagné pour la vole...  </s>
+	<s id='2'>J'aurais gagné pour la vole... </s>
 	<s id='3'>Marquis, vous m'avez serez le coeur... </s>
 	<s id='4'>Il me revient encore deux fiches.</s>
 </p>
 </sp>
 </div2>
 <div2 type="scene" n='13'><head>SCENE XIII. Ismène, Araminte, Cidalise, Lisidor, Le Marquis, Lisette.</head>
-<sp who='LISETTE'><speaker>LISETTE, accourant.</speaker>
+<sp stage="run" who='LISETTE'><speaker>LISETTE, accourant.</speaker>
 <p id='1'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Madame, votre serin vient de s'échapper.</s>
@@ -2175,7 +2172,7 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 </sp>
 <sp who="ARAMINTE"><speaker>ARAMINTE.</speaker>
 <p id="2">
-	<s id="1">Mon Serin privé ? </s>
+	<s id="1">Mon serin privé ? </s>
 	<s id='2'>Juste Ciel ! </s>
 	<s id='3'>Eh ! </s>
 	<s id='4'>Vite, suivez-moi, Lisette.</s>
@@ -2226,7 +2223,7 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 	<s id="1">Passablement.</s>
 </p>
 </sp>
-<sp who='LE MARQUIS'><speaker>LE MARQUIS, se lève, et va à la table.</speaker>
+<sp stage="walk/closer" who='LE MARQUIS'><speaker>LE MARQUIS, se lève, et va à la table.</speaker>
 <p id="10">
 	<s id="1">On m'a dit qu'il se donnait les airs d'être mon rival : par exemple, voilà de ces choses auxquelles je ne saurais m'accoutumer.</s>
 </p>
@@ -2242,7 +2239,7 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 	<s id="1">Cela n'est guère décent que la nuit : on court les parades, les spectacles.</s>
 </p>
 </sp>
-<sp who='LE MARQUIS'><speaker>LE MARQUIS, ayant pris la place d'Araminte.</speaker>
+<sp stage="location" who='LE MARQUIS'><speaker>LE MARQUIS, ayant pris la place d'Araminte.</speaker>
 <note type="L">Fantoccini : marionnettes. Mot italien.</note>
 <p id="13">
 	<s id="1">Oui, les Fantoccini... </s>
@@ -2271,7 +2268,7 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 </sp>
 <sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 <p id="17">
-	<s id="1">Pouvois je y tenir ? </s>
+	<s id="1">Pouvais je y tenir ? </s>
 	<s id='2'>C'est la plus exigeante de toutes les prudes : il faudrait toujours être là, ne la pas quitter d'une minute. </s>
 	<s id='3'>Ah ! </s>
 	<s id='4'>Parbleu, je me suis ménagé avec elle la rupture la plus signalée. </s>
@@ -2380,7 +2377,7 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 </p>
 </sp>
 </div2>
-<div2 type="scene" n='14'><head>SCÈNE XIV. Araminte, Cidalise, Ismène, Le Baron?  Lisette et Lisidor entrent un instant après.</head>
+<div2 type="scene" n='14'><head>SCÈNE XIV. Araminte, Cidalise, Ismène, Le Baron, Lisette et Lisidor entrent un instant après.</head>
 <sp who="ARAMINTE"><speaker>ARAMINTE.</speaker>
 <p id="1">
 	<s id="1">J'ai retrouvé mon serin ; je vous ai quittées bien brusquement, j'en consens : mais vous connaissez ma sensibilité. </s>
@@ -2395,8 +2392,8 @@ dont, sans cette précaution, beaucoup d'endroits seraient inintelligibles. </no
 <p id="3">
 	<s id="1">Bon ! </s>
 	<s id='2'>Les malheurs se succèdent : Lisidor et le Baron me suivent. </s>
-	<s id='3'>Je suis persécutée de tous les côtés... Mais oú donc
-est le Marquis ?</s>
+	<s id='3'>Je suis persécutée de tous les côtés... </s>
+	<s id="4">Mais où donc est le Marquis ?</s>
 </p>
 </sp>
 <sp who="ISMÈNE"><speaker>ISMÈNE.</speaker>

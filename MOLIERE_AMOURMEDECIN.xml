@@ -7,9 +7,9 @@
 			<author born='1622' born_location='Paris' death='1673' death_location='Paris' academie=''>Molière</author>
 			</titleStmt>
 			<publicationStmt>	
-				<p>publié par Paul FIEVRE juillet 2009.</p>
-			<idno></idno>
-</publicationStmt>
+				<p>publié par Paul FIEVRE juillet 2009, revu novembre 2016.</p>
+				<idno>MOLIERE_AMOURMEDECIN</idno>
+			</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -18,11 +18,6 @@
 				<periode>1661-1670</periode>
 				<taille>(mesure non pertinente)</taille>
 				<permalien></permalien>
-
-				<sources>
-					<source id='1'><author></author><text></text></source>
-				</sources>	
-
 			</SourceDesc>
 		</fileDesc>
 </teiHeader>
@@ -51,7 +46,7 @@
 			<castItem><role id="AMINTE" sex="2" type="H" statut='bourgeois' age="A" stat_amour='néant'>AMINTE</role>, voisine de Sganarelle.</castItem> 
 			<castItem><role id="LUCRECE" sex="2" type="H" statut='bourgeois' age="J" stat_amour='néant'>LUCRÈCE</role>, nièce de Sganarelle.</castItem> 
 			<castItem><role id="LISETTE" sex="2" type="H" statut='suivante' age="A" stat_amour='néant'>LISETTE</role>, suivante de Lucinde.</castItem> 
-			<castItem><role id="MONSIEUR GUILLAUME" sex="1" type="H" statut='ccommerçant' age="A" stat_amour='néant'>MONSIEUR GUILLAUME</role>, vendeur de tapisseries.</castItem> 
+			<castItem><role id="MONSIEUR GUILLAUME" sex="1" type="H" statut='commerçant' age="A" stat_amour='néant'>MONSIEUR GUILLAUME</role>, vendeur de tapisseries.</castItem> 
 			<castItem><role id="MONSIEUR JOSSE" sex="1" type="H" statut='orfèvre' age="A" stat_amour='néant'>MONSIEUR JOSSE</role>, orfèvre.</castItem> 
 			<castItem><role id="MONSIEUR TOMÈS" sex="1" type="H" statut='médecin' age="A" stat_amour='néant'>MONSIEUR TOMÈS</role>, médecin.</castItem> 
 			<castItem><role id="MONSIEUR DE FONANDRÈS" sex="1" type="H" statut='médecin' age="A" stat_amour='néant'>MONSIEUR DE FONANDRÈS</role>, médecin.</castItem> 
@@ -71,7 +66,7 @@
 			<castItem><role id="SCARAMOUCHES" sex="1" type="H" statut='bourgeois' age="A" stat_amour='néant'>SCARAMOUCHES</role>.</castItem> 
 	</castList>
 		<castList><head>PERSONNAGES du BALLET, Troisième entrée.</head>
-		<castItem><role id="LA-COMEDIE" sex="2" type="P" statut='art' age="A" stat_amour='néant'>LA COMÉDIE</role>.</castItem> 
+		<castItem><role id="LA COMÉDIE" sex="2" type="P" statut='art' age="A" stat_amour='néant'>LA COMÉDIE</role>.</castItem> 
 		<castItem><role id="LA-MUSIQUE" sex="2" type="P" statut='art' age="A" stat_amour='néant'>LA MUSIQUE</role>.</castItem> 
 		<castItem><role id="LE-BALLET" sex="1" type="P" statut='art' age="A" stat_amour='néant'>LE BALLET</role>.</castItem> 
 		<castItem><role id="JEUX" sex="9" type="P" statut='jeux-ris-plaisir' age="A" stat_amour='néant'>JEUX</role>.</castItem> 
@@ -81,9 +76,9 @@
 <set location='Paris' country='France' periode='XVIIème' link=''>La scène est à Paris dans une salle de la maison de Sganarelle.</set>
 </front>
 <body>
-<div1 type="act"  n='1'><head>PROLOGUE</head>
+<div1 type="act" n='1'><head>PROLOGUE</head>
 <div2 type="scene" n='1'><head> La Comédie, la Musique et le Ballet.</head>
-<sp who='LA-COMEDIE'><speaker>LA COMÉDIE.</speaker>
+<sp who='LA COMÉDIE'><speaker>LA COMÉDIE.</speaker>
 	<l id='2'>Quittons, quittons notre vaine querelle,</l>
 	<l id='3'>Ne nous disputons point nos talents tour à tour,</l>
 	<l id='4'>Et d'une gloire plus belle</l>
@@ -91,27 +86,27 @@
 	<l id='6'>Unissons-nous tous trois d'une ardeur sans seconde,</l>
 	<l id='7'>Pour donner du plaisir au plus grand roi du monde.</l>
 </sp>
-<sp who='COMEDIE_MUSIQUE_BALLET'><speaker>Tous Trois</speaker>
+<sp stahe="together" who='COMÉDIE, MUSIQUE, BALLET'><speaker>TOUS TROIS.</speaker>
 	<l id='8'>Unissons-nous...</l>
 </sp>
-<sp who='LA-COMEDIE'><speaker>LA COMÉDIE.</speaker>
+<sp who='LA COMÉDIE'><speaker>LA COMÉDIE.</speaker>
 	<l id='9'>De ses travaux, plus grands qu'on ne peut croire,</l>
 	<l id='10'>Il se vient quelquefois délasser parmi nous :</l>
 	<l id='11'>Est-il de plus grande gloire,</l>
 	<l id='12'>Est-il bonheur plus doux ?</l>
 	<l id='13'>Unissons-nous tous trois...</l>
 </sp>
-<sp who='COMEDIE_MUSIQUE_BALLET'><speaker>Tous Trois</speaker>
+<sp stage="together" who='COMÉDIE, MUSIQUE, BALLET'><speaker>Tous Trois</speaker>
 	<l id='14'>Unissons-nous...</l>
 </sp>
 </div2>
 </div1> 
 <div1 type="act" n='2'><head>ACTE I</head>
-<div2 type="scene" n='1'><head>SCÈNE I. Sganarelle, Aminte, Lucrèce, M.Guillaume, M. Josse.</head>
+<div2 type="scene" n='1'><head>SCÈNE I. Sganarelle, Aminte, Lucrèce, Monsieur Guillaume, Monsieur Josse.</head>
 <sp who='SGANARELLE'><speaker>SGANARELLE.</speaker>
 <p id='1'>
 	<s id='1'>Ah !</s>
-	<s id='2'>l'étrange chose que la vie !</s>
+	<s id='2'>L'étrange chose que la vie !</s>
 	<s id='3'>Et que je puis bien dire, avec ce grand philosophe de l'antiquité, que qui terre a, guerre a, et qu'un malheur ne vient jamais sans l'autre ! </s>
 	<s id='4'>Je n'avais qu'une seule femme, qui est morte. </s>
 </p>
@@ -135,6 +130,7 @@
 </p>
 </sp>
 <sp who='MONSIEUR-JOSSE'><speaker>MONSIEUR JOSSE.</speaker>
+<note type="L">Braverie : Toilette, beaux habits. [L]</note>
 <p id='4'>
 	<s id='1'>Pour moi, je tiens que la braverie et l'ajustement est la chose qui réjouit le plus les filles ; et si j'étais que de vous, je lui achèterais, dès aujourd'hui, une belle garniture de diamants, ou de rubis, ou d'émeraudes. </s>
 </p>
@@ -153,7 +149,7 @@
 <p id='7'>
 	<s id='1'>Et moi, je tiens que votre fille n'est point du tout propre pour le mariage. </s>
 	<s id='2'>Elle est d'une complexion trop délicate et trop peu saine, et c'est la vouloir envoyer bientôt en l'autre monde, que de l'exposer, comme elle est, à faire des enfants. </s>
-	<s id='3'>Le monde n'est point du tout son fait, et je vous conseille de la mettre dans un convent, où elle trouvera des divertissements qui seront mieux de son humeur. </s>
+	<s id='3'>Le monde n'est point du tout son fait, et je vous conseille de la mettre dans un couvent, où elle trouvera des divertissements qui seront mieux de son humeur. </s>
 </p>
 </sp>
 <sp who='SGANARELLE'><speaker>SGANARELLE.</speaker>
@@ -175,34 +171,34 @@
 	<s id='1'>Ah ! </s>
 	<s id='2'>Voilà ma fille qui prend l'air. </s>
 	<s id='3'>Elle ne me voit pas ; elle soupire ; elle lève les yeux au ciel. </s>
-	<s id='4'>Dieu vous garde  ! </s>
+	<s id='4'>Dieu vous garde ! </s>
 	<s id='6'>Bonjour, ma mie. </s>
 	<s id='7'>Hé bien ! </s>
-	<s id='8'>Qu'est-ce ?  </s>
-	<s id='9'>Comme vous en va ?  </s>
+	<s id='8'>Qu'est-ce ? </s>
+	<s id='9'>Comme vous en va ? </s>
 	<s id='10'>Hé ! </s>
-	<s id='11'>Quoi ?  </s>
+	<s id='11'>Quoi ? </s>
 	<s id='12'>toujours triste et mélancolique comme cela, et tu ne veux pas me dire ce que tu as. </s>
 	<s id='13'>Allons donc, découvre-moi ton petit coeur. </s>
 	<s id='14'>Là, ma pauvre mie, dis ; dis ; dis tes petites pensées à ton petit papa mignon. </s>
 	<s id='15'>Courage ! </s>
-	<s id='16'>Veux-tu que je te baise ?  </s>
+	<s id='16'>Veux-tu que je te baise ? </s>
 	<s id='17'>Viens.</s>
 	<s id='18'>J'enrage de la voir de cette humeur-là. </s>
-	<s id='19'>Mais, dis-moi, me veux-tu faire mourir de déplaisir, et ne puis-je savoir d'où vient cette grande langueur ?  </s>
+	<s id='19'>Mais, dis-moi, me veux-tu faire mourir de déplaisir, et ne puis-je savoir d'où vient cette grande langueur ? </s>
 	<s id='20'>Découvre-m'en la cause, et je te promets que je ferai toutes choses pour toi. </s>
 	<s id='21'>Oui, tu n'as qu'à me dire le sujet de ta tristesse ; je t'assure ici, et te fais serment qu'il n'y a rien que je ne fasse pour te satisfaire : c'est tout dire. </s>
-	<s id='22'>Est-ce que tu es jalouse de quelqu'une de tes compagnes que tu voies plus brave que toi ?  </s>
-	<s id='23'>Et serait-il quelque étoffe nouvelle dont tu voulusses avoir un habit ?  </s>
+	<s id='22'>Est-ce que tu es jalouse de quelqu'une de tes compagnes que tu voies plus brave que toi ? </s>
+	<s id='23'>Et serait-il quelque étoffe nouvelle dont tu voulusses avoir un habit ? </s>
 	<s id=''>Non. </s>
-	<s id=''>Est-ce que ta chambre ne te semble pas assez parée, et que tu souhaiterais quelque cabinet de la foire Saint-Laurent ?  </s>
+	<s id=''>Est-ce que ta chambre ne te semble pas assez parée, et que tu souhaiterais quelque cabinet de la foire Saint-Laurent ? </s>
 	<s id=''>Ce n'est pas cela. </s>
-	<s id=''>Aurais-tu envie d'apprendre quelque chose ?  </s>
-	<s id=''>Et veux-tu que je te donne un maître pour te montrer à jouer du clavecin ?  </s>
+	<s id=''>Aurais-tu envie d'apprendre quelque chose ? </s>
+	<s id=''>Et veux-tu que je te donne un maître pour te montrer à jouer du clavecin ? </s>
 	<s id=''>Nenni. </s>
 	<s id=''>Aimerais-tu quelqu'un, et souhaiterais-tu d'être mariée ?</s>
 </p>
-<stage type="[N/A]">Lucinde lui fait signe que c'est cela.</stage>
+<stage type="sign">Lucinde lui fait signe que c'est cela.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Lisette, Sganarelle, Lucinde.</head>
@@ -233,25 +229,25 @@
 <p id='5'>
 	<s id='1'>Laissez-moi faire, vous dis-je. </s>
 	<s id='2'>Peut-être qu'elle se découvrira plus librement à moi qu'à vous. </s>
-	<s id='3'>Quoi ?  </s>
-	<s id='4'>Madame, vous ne nous direz point ce que vous avez, et vous voulez affliger ainsi tout le monde ?  </s>
+	<s id='3'>Quoi ? </s>
+	<s id='4'>Madame, vous ne nous direz point ce que vous avez, et vous voulez affliger ainsi tout le monde ? </s>
 	<s id='5'>Il me semble qu'on n'agit point comme vous faites, et que, si vous avez quelque répugnance à vous expliquer à un père, vous n'en devez avoir aucune à me découvrir votre coeur. </s>
-	<s id='6'>Dites-moi, souhaitez-vous quelque chose de lui ?  </s>
+	<s id='6'>Dites-moi, souhaitez-vous quelque chose de lui ? </s>
 	<s id='7'>Il nous a dit plus d'une fois qu'il n'épargnerait rien pour vous contenter. </s>
-	<s id='8'>Est-ce qu'il ne vous donne pas toute la liberté que vous souhaiteriez, et les promenades et les cadeaux ne tenteraient-ils point votre âme ?  </s>
+	<s id='8'>Est-ce qu'il ne vous donne pas toute la liberté que vous souhaiteriez, et les promenades et les cadeaux ne tenteraient-ils point votre âme ? </s>
 	<s id='9'>Heu. </s>
-	<s id='10'>Avez-vous reçu quelque déplaisir de quelqu'un ?  </s>
+	<s id='10'>Avez-vous reçu quelque déplaisir de quelqu'un ? </s>
 	<s id='11'>Heu. </s>
-	<s id='12'>N'auriez-vous point quelque secrète inclination, avec qui vous souhaiteriez que votre père vous mariât ?  </s>
+	<s id='12'>N'auriez-vous point quelque secrète inclination, avec qui vous souhaiteriez que votre père vous mariât ? </s>
 	<s id='13'>Ah ! </s>
 	<s id='14'>Je vous entends. </s>
 	<s id='15'>Voilà l'affaire. </s>
-	<s id='16'>Que diable ?  </s>
-	<s id='17'>Pourquoi tant de façons ?  </s>
+	<s id='16'>Que diable ? </s>
+	<s id='17'>Pourquoi tant de façons ? </s>
 	<s id='18'>Monsieur, le mystère est découvert ; et...</s>
 </p>
 </sp>
-<sp who='SGANARELLE'><speaker>SGANARELLE, l'interrompant.</speaker>
+<sp stage="interrupt" who='SGANARELLE'><speaker>SGANARELLE, l'interrompant.</speaker>
 <p id='6'>
 	<s id='1'>Va, fille ingrate, je ne te veux plus parler, et je te laisse dans ton obstination. </s>
 </p>
@@ -341,7 +337,7 @@
 	<s id='1'>C'est un mari qu'elle veut.</s>
 </p>
 </sp>
-<sp who='SGANARELLE'><speaker>SGANARELLE, faisant semblant de ne pas entendre.</speaker>
+<sp stage="expression" who='SGANARELLE'><speaker>SGANARELLE, faisant semblant de ne pas entendre.</speaker>
 <p id='24'>
 	<s id='1'>Je l'abandonne. </s>
 </p>
@@ -425,20 +421,20 @@
 <sp who='LUCINDE'><speaker>LUCINDE.</speaker>
 <p id='4'>
 	<s id='1'>Hélas ! </s>
-	<s id='2'>De quoi m'aurait servi de te le découvrir plus tôt ?  </s>
-	<s id='3'>Et n'aurais-je pas autant gagné à le tenir caché toute ma vie ?  </s>
+	<s id='2'>De quoi m'aurait servi de te le découvrir plus tôt ? </s>
+	<s id='3'>Et n'aurais-je pas autant gagné à le tenir caché toute ma vie ? </s>
 	<s id='4'>Crois-tu que je n'aie pas bien prévu tout ce que tu vois maintenant ; que je ne susse pas à fond tous les sentiments de mon père, et que le refus qu'il a fait porter à celui qui m'a demandée par un ami n'ait pas étouffé dans mon âme toute sorte d'espoir ? </s>
 </p>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 <p id='5'>
-	<s id='1'>Quoi ?  </s>
+	<s id='1'>Quoi ? </s>
 	<s id='2'>C'est cet inconnu qui vous a fait demander, pour qui vous... </s>
 </p>
 </sp>
 <sp who='LUCINDE'><speaker>LUCINDE.</speaker>
 <p id='6'>
-	<s id='1'>Peut-être n'est-il pas honnête à une fille de s'expliquer si librement ; mais enfin je t'avoue que, s'il m'étoit permis de vouloir quelque chose, ce serait lui que je voudrais. </s>
+	<s id='1'>Peut-être n'est-il pas honnête à une fille de s'expliquer si librement ; mais enfin je t'avoue que, s'il m'était permis de vouloir quelque chose, ce serait lui que je voudrais. </s>
 	<s id='2'>Nous n'avons eu ensemble aucune conversation, et sa bouche ne m'a point déclaré la passion qu'il a pour moi ; mais, dans tous les lieux où il m'a pu voir, ses regards et ses actions m'ont toujours parlé si tendrement, et la demande qu'il a fait faire de moi m'a paru d'un si honnête homme, que mon coeur n'a pu s'empêcher d'être sensible à ses ardeurs ; et cependant tu vois où la dureté de mon père réduit toute cette tendresse. </s>
 </p>
 </sp>
@@ -450,16 +446,16 @@
 </sp>
 <sp who='LUCINDE'><speaker>LUCINDE.</speaker>
 <p id='8'>
-	<s id='1'>Mais que veux-tu que je fasse contre l'autorité d'un père ?  </s>
+	<s id='1'>Mais que veux-tu que je fasse contre l'autorité d'un père ? </s>
 	<s id='2'>Et s'il est inexorable à mes voeux... </s>
 </p>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 <p id='9'>
 	<s id='1'>Allez, allez, il ne faut pas se laisser mener comme un oison ; et pourvu que l'honneur n'y soit pas offensé, on peut se libérer un peu de la tyrannie d'un père. </s>
-	<s id='2'>Que prétend-il que vous fassiez ?  </s>
-	<s id='3'>N'êtes-vous pas en âge d'être mariée ?  </s>
-	<s id='4'>Et croit-il que vous soyez de marbre ?  </s>
+	<s id='2'>Que prétend-il que vous fassiez ? </s>
+	<s id='3'>N'êtes-vous pas en âge d'être mariée ? </s>
+	<s id='4'>Et croit-il que vous soyez de marbre ? </s>
 	<s id='5'>Allez, encore un coup, je veux servir votre passion ; je prends, dès à présent, sur moi tout le soin de ses intérêts, et vous verrez que je sais des détours.... </s>
 	<s id='6'>Mais je vois votre père. </s>
 	<s id='7'>Rentrons, et me laissez agir.</s>
@@ -470,16 +466,16 @@
 <sp who='SGANARELLE'><speaker>SGANARELLE.</speaker>
 <p id='1'>
 	<s id='1'>Il est bon quelquefois de ne point faire semblant d'entendre les choses qu'on n'entend que trop bien ; et j'ai fait sagement de parer la déclaration d'un désir que je ne suis pas résolu de contenter. </s>
-	<s id='2'>A-t-on jamais rien vu de plus tyrannique que cette coutume où l'on veut assujettir les pères ?  </s>
-	<s id='3'>Rien de plus impertinent et de plus ridicule que d'amasser du bien avec de grands travaux, et élever une fille avec beaucoup de soin et de tendresse, pour se dépouiller de l'un et de l'autre entre les mains d'un homme qui ne nous touche de rien ?  </s>
+	<s id='2'>A-t-on jamais rien vu de plus tyrannique que cette coutume où l'on veut assujettir les pères ? </s>
+	<s id='3'>Rien de plus impertinent et de plus ridicule que d'amasser du bien avec de grands travaux, et élever une fille avec beaucoup de soin et de tendresse, pour se dépouiller de l'un et de l'autre entre les mains d'un homme qui ne nous touche de rien ? </s>
 	<s id='4'>Non, non : je me moque de cet usage, et je veux garder mon bien et ma fille pour moi. </s>
 </p>
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Lisette, Sganarelle.</head>
-<sp who='LISETTE'><speaker>LISETTE, faisant semblant de ne pas voir Sganarelle.</speaker>
+<sp stage="expression" who='LISETTE'><speaker>LISETTE, faisant semblant de ne pas voir Sganarelle.</speaker>
 <p id='1'>
-    <s id='1'>Ah ! </s>
+  <s id='1'>Ah ! </s>
 	<s id='2'>Malheur ! </s>
 	<s id='3'>Ah ! </s>
 	<s id='4'>Disgrâce ! </s>
@@ -641,16 +637,16 @@
 	<s id='3'>Ma fille ! </s>
 	<s id='4'>Ma pauvre fille ! </s>
 </p>
-<stage type="[N/A]">Premier Entracte.</stage>
-<stage type="[N/A]">Champagne, en dansant, frappe aux portes de quatre médecins, qui dansent et entrent avec cérémonie chez le père de la malade.</stage>
+<stage type="entrance">Premier Entracte.</stage>
+<stage type="danse">Champagne, en dansant, frappe aux portes de quatre médecins, qui dansent et entrent avec cérémonie chez le père de la malade.</stage>
 </sp>
 </div2>
 </div1>
 <div1 type="act" n='3'><head>ACTE II</head>
-<div2 type="scene" n='1'><head>SCÈNE I.Sganarelle, Lisette.</head>
+<div2 type="scene" n='1'><head>SCÈNE I. Sganarelle, Lisette.</head>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 <p id='1'>
-	<s id='1'>Que voulez-vous donc faire, Monsieur, de quatre médecins ?  </s>
+	<s id='1'>Que voulez-vous donc faire, Monsieur, de quatre médecins ? </s>
 	<s id='2'>N'est-ce pas assez d'un pour tuer une personne ? </s>
 </p>
 </sp>
@@ -689,7 +685,7 @@
 </sp>
 <sp who='SGANARELLE'><speaker>SGANARELLE.</speaker>
 <p id='8'>
-	<s id='1'>Voulez-vous vous taire ?  </s>
+	<s id='1'>Voulez-vous vous taire ? </s>
 	<s id='2'>vous dis-je. </s>
 	<s id='3'>Mais voyez quelle impertinence ! </s>
 	<s id='4'>Les voici. </s>
@@ -737,7 +733,7 @@
 </sp>
 <sp who='SGANARELLE'><speaker>SGANARELLE.</speaker>
 <p id='7'>
-	<s id='1'>Allons, faites donner des siéges. </s>
+	<s id='1'>Allons, faites donner des sièges. </s>
 </p>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
@@ -825,13 +821,13 @@
 	<s id='3'>Messieurs, je vous supplie de consulter de la bonne manière. </s>
 	<s id='4'>Quoique ce ne soit pas la coutume de payer auparavant, toutefois, de peur que je l'oublie, et afin que ce soit une affaire faite, voici... </s>
 </p>
-<stage type="[N/A]">Il les paye, et chacun, en recevant l'argent, fait un geste différent.</stage>
+<stage type="give">Il les paye, et chacun, en recevant l'argent, fait un geste différent.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Messieurs des Fonandrès, Tomès, Macroton et Bahys.</head>
-<stage type="[N/A]">Ils s'asseyent et toussent.</stage>
-<sp who='MONSIEUR-DES-FONANDRES'><speaker>MONSIEUR DES FONANDRÈS.</speaker>
-<note type="C">Paris au XVIIème siècle est compris dans les sept premiers arrondissements actuels, cette ville paraîssait grande aux contemporains.</note>
+<stage type="sit/cough">Ils s'asseyent et toussent.</stage>
+<sp who='MONSIEUR DES FONANDRÈS'><speaker>MONSIEUR DES FONANDRÈS.</speaker>
+<note type="C">Paris au XVIIème siècle est compris dans les sept premiers arrondissements actuels, cette ville paraissait grande aux contemporains.</note>
 <p id='1'>
 	<s id='1'>Paris est étrangement grand, et il faut faire de longs trajets quand la pratique donne un peu. </s>
 </p>
@@ -841,29 +837,29 @@
 	<s id='	'>Il faut avouer que j'ai une mule admirable pour cela, et qu'on a peine à croire le chemin que je lui fais faire tous les jours. </s>
 </p>
 </sp>
-<sp who='MONSIEUR-DES-FONANDRES'><speaker>MONSIEUR DES FONANDRÈS.</speaker>
+<sp who='MONSIEUR DES FONANDRÈS'><speaker>MONSIEUR DES FONANDRÈS.</speaker>
 <p id='3'>
 	<s id='1'>J'ai un cheval merveilleux, et c'est un animal infatigable. </s>
 </p>
 </sp>
 <sp who='MONSIEUR-TOMES'><speaker>MONSIEUR TOMÈS.</speaker>
 <p id='4'>
-	<s id='1'>Savez-vous le chemin que ma mule a fait aujourd'hui ?  </s>
+	<s id='1'>Savez-vous le chemin que ma mule a fait aujourd'hui ? </s>
 	<s id='2'>J'ai été premièrement tout contre l'Arsenal ; de l'Arsenal, au bout du faubourg Saint-Germain ; du faubourg Saint-Germain, au fond du Marais ; du fond du Marais, à la porte Saint-Honoré ; de la porte Saint-Honoré, au faubourg Saint-Jacques, du faubourg Saint Jacques, à la porte de Richelieu, de la porte de Richelieu, ici ; et d'ici, je dois aller encore à la place Royale. </s>
 </p>
 </sp>
-<sp who='MONSIEUR-DES-FONANDRES'><speaker>MONSIEUR DES FONANDRÈS.</speaker>
+<sp who='MONSIEUR DES FONANDRÈS'><speaker>MONSIEUR DES FONANDRÈS.</speaker>
 <p id='5'>
 	<s id='1'>Mon cheval a fait tout cela aujourd'hui ; et de plus, j'ai été à Ruel voir un malade. </s>
 </p>
 </sp>
 <sp who='MONSIEUR-TOMES'><speaker>MONSIEUR TOMÈS.</speaker>
 <p id='6'>
-	<s id='1'>Mais à repos, quel parti prenez-vous dans la querelle des deux médecins Théophraste et Artémius ?  </s>
+	<s id='1'>Mais à repos, quel parti prenez-vous dans la querelle des deux médecins Théophraste et Artémius ? </s>
 	<s id='2'>Car c'est une affaire qui partage tout notre corps. </s>
 </p>
 </sp>
-<sp who='MONSIEUR-DES-FONANDRES'><speaker>MONSIEUR DES FONANDRÈS.</speaker>
+<sp who='MONSIEUR DES FONANDRÈS'><speaker>MONSIEUR DES FONANDRÈS.</speaker>
 <p id='7'>
 	<s id='1'>Moi, je suis pour Artémius. </s>
 </p>
@@ -875,7 +871,7 @@
 	<s id=''>Qu'en dites-vous ? </s>
 </p>
 </sp>
-<sp who='MONSIEUR-DES-FONANDRES'><speaker>MONSIEUR DES FONANDRÈS.</speaker>
+<sp who='MONSIEUR DES FONANDRÈS'><speaker>MONSIEUR DES FONANDRÈS.</speaker>
 <p id='9'>
 	<s id='1'>Sans doute. </s>
 	<s id='2'>Il faut toujours garder les formalités, quoi qu'il puisse arriver. </s>
@@ -887,7 +883,7 @@
 	<s id='2'>Les gens de la maison faisaient ce qu'ils pouvaient et la maladie pressait ; mais je n'en voulus point démordre, et la malade mourut bravement pendant cette contestation. </s>
 </p>
 </sp>
-<sp who='MONSIEUR-DES-FONANDRES'><speaker>MONSIEUR DES FONANDRÈS.</speaker>
+<sp who='MONSIEUR DES FONANDRÈS'><speaker>MONSIEUR DES FONANDRÈS.</speaker>
 <p id='11'>
 	<s id='1'>C'est fort bien fait d'apprendre aux gens à vivre, et de leur montrer leur bec jaune. </s>
 </p>
@@ -909,7 +905,7 @@
 	<s id='1'>Allons, Monsieur. </s>
 </p>
 </sp>
-<sp who='MONSIEUR-DES-FONANDRES'><speaker>MONSIEUR DES FONANDRÈS.</speaker>
+<sp who='MONSIEUR DES FONANDRÈS'><speaker>MONSIEUR DES FONANDRÈS.</speaker>
 <p id='3'>
 	<s id='1'>Non, Monsieur, parlez, s'il vous plaît. </s>
 </p>
@@ -919,7 +915,7 @@
 	<s id='1'>Vous vous moquez. </s>
 </p>
 </sp>
-<sp who='MONSIEUR-DES-FONANDRES'><speaker>MONSIEUR DES FONANDRÈS.</speaker>
+<sp who='MONSIEUR DES FONANDRÈS'><speaker>MONSIEUR DES FONANDRÈS.</speaker>
 <p id='5'>
 	<s id='1'>Je ne parlerai pas le premier. </s>
 </p>
@@ -929,7 +925,7 @@
 	<s id='1'>Monsieur. </s>
 </p>
 </sp>
-<sp who='MONSIEUR-DES-FONANDRES'><speaker>MONSIEUR DES FONANDRÈS.</speaker>
+<sp who='MONSIEUR DES FONANDRÈS'><speaker>MONSIEUR DES FONANDRÈS.</speaker>
 <p id='7'>
 	<s id='1'>Monsieur. </s>
 </p>
@@ -939,14 +935,14 @@
 	<s id='1'>Hé ! </s>
 	<s id='2'>De grâce, Messieurs, laissez toutes ces cérémonies, et songez que les choses pressent. </s>
 </p>
-<stage type="[N/A]">Ils parlent tous quatre ensemble.</stage>
+<stage type="together">Ils parlent tous quatre ensemble.</stage>
 </sp>
 <sp who='MONSIEUR-TOMES'><speaker>MONSIEUR TOMÈS.</speaker>
 <p id='9'>
 	<s id='1'>La maladie de votre fille... </s>
 </p>
 </sp>
-<sp who='MONSIEUR-DES-FONANDRES'><speaker>MONSIEUR DES FONANDRÈS.</speaker>
+<sp who='MONSIEUR DES FONANDRÈS'><speaker>MONSIEUR DES FONANDRÈS.</speaker>
 <p id='10'>
 	<s id='1'>L'avis de tous ces Messieurs tous ensemble... </s>
 </p>
@@ -963,7 +959,7 @@
 </sp>
 <sp who='SGANARELLE'><speaker>SGANARELLE.</speaker>
 <p id='13'>
-    <s id='1'>Hé ! </s>
+  <s id='1'>Hé ! </s>
 	<s id='2'>Messieurs, parlez l'un après l'autre, de grâce. </s>
 </p>
 </sp>
@@ -973,8 +969,8 @@
 	<s id='1'>Monsieur, nous avons raisonné sur la maladie de votre fille, et mon avis, à moi, est que cela procède d'une grande chaleur de sang : ainsi je conclus à la saigner le plus tôt que vous pourrez. </s>
 </p>
 </sp>
-<sp who='MONSIEUR-DES-FONANDRES'><speaker>MONSIEUR DES FONANDRÈS.</speaker>
-<note type="L">Emetique : est une remède qui purge avec violence par haut et par bas, fait de la pourdre et du beurre d'antimoire préparé, dont on a séparé les sels corrosifs par plusieurs lotions. [F]</note>
+<sp who='MONSIEUR DES FONANDRÈS'><speaker>MONSIEUR DES FONANDRÈS.</speaker>
+<note type="L">Emetique : est une remède qui purge avec violence par haut et par bas, fait de la poudre et du beurre d'antimoire préparé, dont on a séparé les sels corrosifs par plusieurs lotions. [F]</note>
 <p id='15'>
 	<s id='1'>Et moi, je dis que sa maladie est une pourriture d'humeurs, causée par une trop grande réplétion : ainsi je conclus à lui donner de l'émétique. </s>
 </p>
@@ -984,7 +980,7 @@
 	<s id='1'>Je soutiens que l'émétique la tuera. </s>
 </p>
 </sp>
-<sp who='MONSIEUR-DES-FONANDRES'><speaker>MONSIEUR DES FONANDRÈS.</speaker>
+<sp who='MONSIEUR DES FONANDRÈS'><speaker>MONSIEUR DES FONANDRÈS.</speaker>
 <p id='17'>
 	<s id='1'>Et moi, que la saignée la fera mourir. </s>
 </p>
@@ -994,7 +990,7 @@
 	<s id='1'>C'est bien à vous de faire l'habile homme. </s>
 </p>
 </sp>
-<sp who='MONSIEUR-DES-FONANDRES'><speaker>MONSIEUR DES FONANDRÈS.</speaker>
+<sp who='MONSIEUR DES FONANDRÈS'><speaker>MONSIEUR DES FONANDRÈS.</speaker>
 <p id='19'>
 	<s id='1'>Oui, c'est à moi ; et je vous prêterai le collet en tout genre d'érudition. </s>
 </p>
@@ -1004,7 +1000,7 @@
 	<s id='1'>Souvenez-vous de l'homme que vous fîtes crever ces jours passés. </s>
 </p>
 </sp>
-<sp who='MONSIEUR-DES-FONANDRES'><speaker>MONSIEUR DES FONANDRÈS.</speaker>
+<sp who='MONSIEUR DES FONANDRÈS'><speaker>MONSIEUR DES FONANDRÈS.</speaker>
 <p id='21'>
 	<s id='1'>Souvenez-vous de la dame que vous avez envoyée en l'autre monde, il y a trois jours. </s>
 </p>
@@ -1014,7 +1010,7 @@
 	<s id='1'>Je vous ai dit mon avis. </s>
 </p>
 </sp>
-<sp who='MONSIEUR-DES-FONANDRES'><speaker>MONSIEUR DES FONANDRÈS.</speaker>
+<sp who='MONSIEUR DES FONANDRÈS'><speaker>MONSIEUR DES FONANDRÈS.</speaker>
 <p id='23'>
 	<s id='1'>Je vous ai dit ma pensée. </s>
 </p>
@@ -1024,7 +1020,7 @@
 	<s id='1'>Si vous ne faites saigner tout à l'heure votre fille, c'est une personne morte. </s>
 </p>
 </sp>
-<sp who='MONSIEUR-DES-FONANDRES'><speaker>MONSIEUR DES FONANDRÈS.</speaker>
+<sp who='MONSIEUR DES FONANDRÈS'><speaker>MONSIEUR DES FONANDRÈS.</speaker>
 <p id='25'>
 	<s id='1'>Si vous la faites saigner, elle ne sera pas en vie dans un quart d'heure.</s>
 </p>
@@ -1033,13 +1029,13 @@
 <div2 type="scene" n='5'><head>SCÈNE V. Sganarelle, Messieurs Macroton et Bahys, médecins. </head>
 <sp who='SGANARELLE'><speaker>SGANARELLE.</speaker>
 <p id='1'>
-	<s id='1'>À qui croire des deux ?  </s>
-	<s id='2'>Et quelle résolution prendre, sur des avis si opposés ?  </s>
+	<s id='1'>À qui croire des deux ? </s>
+	<s id='2'>Et quelle résolution prendre, sur des avis si opposés ? </s>
 	<s id='3'>Messieurs, je vous conjure de déterminer mon esprit, et de me dire, sans passion, ce que vous croyez le plus propre à soulager ma fille. </s>
 </p>
 </sp>
 <sp who='MONSIEUR-MACROTON'><speaker>MONSIEUR MACROTON.</speaker>
-<stage type="[N/A]">Il parle en allongeant ses mots.</stage>
+<stage type="slow">Il parle en allongeant ses mots.</stage>
 <p id='2'>
 	<s id='1'>Mon-si-eur dans ces ma-ti-è-res-là il faut pro-cé-der a-vec-que cir-con-spec-tion et ne ri-en fai-re com-me on dit à la vo-lé-e d'au-tant que les fau-tes qu'on y peut fai-re sont se-lon no-tre maî-tre Hip-po-cra-te d'u-ne dan-ge-reu-se con-sé-quen-ce. </s>
 </p>
@@ -1057,7 +1053,7 @@
 </p>
 </sp>
 <sp who='MONSIEUR-MACROTON'><speaker>MONSIEUR MACROTON.</speaker>
-<stage type="[N/A]">Il détache chaque syllabe.</stage>
+<stage type="slow">Il détache chaque syllabe.</stage>
 <p id='5'>
 	<s id='1'>Or, Monsieur pour venir au fait je trouve que votre fille a une maladie chronique et qu'elle peut péricliter si on ne lui donne du secours d'autant que les symptômes qu'elle a sont indicatifs d'une vapeur fuligineuse et mordicante qui lui picote les membranes du cerveau. Or cette vapeur que nous nommons en grec atmos est causée par des humeurs putrides tenaces et conglutineuses qui sont contenues dans le bas ventre. </s>
 </p>
@@ -1097,13 +1093,13 @@
 	<s id='1'>Et vous avons parlé comme nous parlerions à notre propre frère. </s>
 </p>
 </sp>
-<sp who='SGANARELLE'><speaker>SGANARELLE, à Macroton.</speaker>
+<sp stage="toward" who='SGANARELLE'><speaker>SGANARELLE, à Macroton.</speaker>
 <p id='13'>
 	<s id='1'>Je vous rends très humbles grâces. </s>
 </p>
-<stage type="toward">À M. Bahys.</stage>
+<stage type="toward">À Monsieur Bahys.</stage>
 <p id='14'>
-       <s id='1'>Et vous suis infiniment obligé de la peine que vous avez prise. </s>
+    <s id='1'>Et vous suis infiniment obligé de la peine que vous avez prise. </s>
 </p>
 </sp>
 </div2>
@@ -1125,7 +1121,7 @@
 	<s id='2'>Monsieur, je vous prie de me donner une boîte de votre orviétan, que je m'en vais vous payer.</s>
 </p>
 </sp>
-<sp who='L-OPERATEUR'><speaker>L'Opérateur, chantant.</speaker>
+<sp stage="sing" who="L'OPÉRATEUR"><speaker>L'OPÉRATEUR, chantant.</speaker>
 	<l id='15'>L'or de tous les climats qu'entoure l'Océan</l>
 	<l id='16'>Peut-il jamais payer ce secret d'importance ?</l>
 	<l id='17'>Mon remède guérit, par sa rare excellence,</l>
@@ -1146,7 +1142,7 @@
 	<s id='1'>Monsieur, je crois que tout l'or du monde n'est pas capable de payer votre remède ; mais pourtant voici une pièce de trente sols que vous prendrez, s'il vous plaît.</s>
 </p>
 </sp>
-<sp who='L-OPERATEUR'><speaker>L'Opérateur, chantant.</speaker>
+<sp stage="sing" who="L'OPÉRATEUR"><speaker>L'OPÉRATEUR, chantant.</speaker>
 	<l id='29'>Admirez mes bontés, et le peu qu'on vous vend</l>
 	<l id='30'>Ce trésor merveilleux que ma main vous dispense.</l>
 	<l id='31'>Vous pouvez avec lui braver en assurance</l>
@@ -1161,19 +1157,19 @@
 	<l id='40'>Descente,</l>
 	<l id='41'>Rougeole.</l>
 	<l id='42'>Ô grande puissance de l'orviétan !</l>
-<stage type="[N/A]">Deuxième Entr'acte.</stage>
-<stage type="[N/A]">Plusieurs Trivelins et Scaramouches, valets de l'opérateur, se réjouissent en dansant.</stage>
+<stage type="title">Deuxième Entr'acte.</stage>
+<stage type="danse">Plusieurs Trivelins et Scaramouches, valets de l'opérateur, se réjouissent en dansant.</stage>
 </sp>
 </div2>
 </div1>
 <div1 type="act" n='4'><head>ACTE III</head>
 <div2 type="scene" n='1'><head>SCÈNE I. Messieurs Filerin, Tomès et des Fonandrès.</head>
-<sp who='MONSIEUR-FILERIN'><speaker>MONSIEUR FILERIN.</speaker>
+<sp who='MONSIEUR FILERIN'><speaker>MONSIEUR FILERIN.</speaker>
 <note type="L">Galimatias : discours obscur, et embrouillé, où on ne comprend rien, où les paroles sont mises confusément, et sans ordre ; et où il n'y a rien de naturel. [F]</note>
 <p id='1'>
-	<s id='1'>N'avez-vous point de honte, Messieurs, de montrer si peu de prudence, pour des gens de votre âge, et de vous être querellés comme de jeunes étourdis ?  </s>
-	<s id='2'>Ne voyez-vous pas bien quel tort ces sortes de querelles nous font parmi le monde ?  </s>
-	<s id='3'>Et n'est-ce pas assez que les savants voient les contrariétés et les dissensions qui sont entre nos auteurs et nos anciens maîtres, sans découvrir encore au peuple, par nos débats et nos querelles, la forfanterie de notre art ?  </s>
+	<s id='1'>N'avez-vous point de honte, Messieurs, de montrer si peu de prudence, pour des gens de votre âge, et de vous être querellés comme de jeunes étourdis ? </s>
+	<s id='2'>Ne voyez-vous pas bien quel tort ces sortes de querelles nous font parmi le monde ? </s>
+	<s id='3'>Et n'est-ce pas assez que les savants voient les contrariétés et les dissensions qui sont entre nos auteurs et nos anciens maîtres, sans découvrir encore au peuple, par nos débats et nos querelles, la forfanterie de notre art ? </s>
 	<s id='4'>Pour moi, je ne comprends rien du tout à cette méchante politique de quelques-uns de nos gens ; et il faut confesser que toutes ces contestations nous ont décriés, depuis peu, d'une étrange manière, et que, si nous n'y prenons garde, nous allons nous ruiner nous-mêmes. </s>
 	<s id='5'>Je n'en parle pas pour mon intérêt ; car, Dieu merci, j'ai déjà établi mes petites affaires. </s>
 	<s id='6'>Qu'il vente, qu'il pleuve, qu'il grêle, ceux qui sont morts sont morts, et j'ai de quoi me passer des vivants ; mais enfin toutes ces disputes ne valent rien pour la médecine. </s>
@@ -1192,28 +1188,28 @@
 	<s id='1'>Vous avez raison en tout ce que vous dites ; mais ce sont chaleurs de sang, dont parfois on n'est pas le maître. </s>
 </p>
 </sp>
-<sp who='MONSIEUR-FILERIN'><speaker>MONSIEUR FILERIN.</speaker>
+<sp who='MONSIEUR FILERIN'><speaker>MONSIEUR FILERIN.</speaker>
 <p id='3'>
 	<s id='1'>Allons donc, Messieurs, mettez bas toute rancune, et faisons ici votre accommodement. </s>
 </p>
 </sp>
-<sp who='MONSIEUR-DES-FONANDRES'><speaker>MONSIEUR DES FONANDRÈS.</speaker>
+<sp who='MONSIEUR DES FONANDRÈS'><speaker>MONSIEUR DES FONANDRÈS.</speaker>
 <p id='4'>
 	<s id='1'>J'y consens. </s>
 	<s id='2'>Qu'il me passe mon émétique pour la malade dont il s'agit, et je lui passerai tout ce qu'il voudra pour le premier malade dont il sera question. </s>
 </p>
 </sp>
-<sp who='MONSIEUR-FILERIN'><speaker>MONSIEUR FILERIN.</speaker>
+<sp who='MONSIEUR FILERIN'><speaker>MONSIEUR FILERIN.</speaker>
 <p id='5'>
 	<s id='1'>On ne peut pas mieux dire, et voilà se mettre à la raison. </s>
 </p>
 </sp>
-<sp who='MONSIEUR-DES-FONANDRES'><speaker>MONSIEUR DES FONANDRÈS.</speaker>
+<sp who='MONSIEUR DES FONANDRÈS'><speaker>MONSIEUR DES FONANDRÈS.</speaker>
 <p id='6'>
 	<s id='1'>Cela est fait. </s>
 </p>
 </sp>
-<sp who='MONSIEUR-FILERIN'><speaker>MONSIEUR FILERIN.</speaker>
+<sp who='MONSIEUR FILERIN'><speaker>MONSIEUR FILERIN.</speaker>
 <p id='7'>
 	<s id='1'>Touchez donc là. </s>
 	<s id='2'>Adieu. </s>
@@ -1224,13 +1220,13 @@
 <div2 type="scene" n='2'><head>SCÈNE II. Messieurs Tomès, des Fonandrès, Lisette.</head>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 <p id='1'>
-	<s id='1'>Quoi ?  </s>
+	<s id='1'>Quoi ? </s>
 	<s id='2'>Messieurs, vous voilà, et vous ne songez pas à réparer le tort qu'on vient de faire à la médecine ? </s>
 </p>
 </sp>
 <sp who='MONSIEUR-TOMES'><speaker>MONSIEUR TOMÈS.</speaker>
 <p id='2'>
-	<s id='1'>Comment ?  </s>
+	<s id='1'>Comment ? </s>
 	<s id='2'>Qu'est-ce ? </s>
 </p>
 </sp>
@@ -1400,9 +1396,9 @@
 	<s id='1'>Oui, fais. </s>
 </p>
 </sp>
-<sp who='CLITANDRE'><speaker>CLITANDRE, tâtant le pouls à Sganarelle.</speaker>
+<sp stage="keep" who='CLITANDRE'><speaker>CLITANDRE, tâtant le pouls à Sganarelle.</speaker>
 <p id='10'>
-       <s id='1'>Votre fille est bien malade. </s>
+    <s id='1'>Votre fille est bien malade. </s>
 </p>
 </sp>
 <sp who='SGANARELLE'><speaker>SGANARELLE.</speaker>
@@ -1425,19 +1421,19 @@
 </sp>
 <sp who='SGANARELLE'><speaker>SGANARELLE.</speaker>
 <p id='2'>
-	<s id='1'>Pourquoi ?  </s>
+	<s id='1'>Pourquoi ? </s>
 	<s id='2'>Je veux demeurer là. </s>
 </p>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 <p id='3'>
-	<s id='1'>Vous moquez-vous ?  </s>
+	<s id='1'>Vous moquez-vous ? </s>
 	<s id='2'>Il faut s'éloigner : un médecin a cent choses à demander qu'il n'est pas honnête qu'un homme entende. </s>
 </p>
 </sp>
-<sp who='CLITANDRE'><speaker>CLITANDRE, parlant à Lucinde à part.</speaker>
+<sp stage="toward/low" who='CLITANDRE'><speaker>CLITANDRE, parlant à Lucinde à part.</speaker>
 <p id='4'>
-       <s id='1'>Ah ! </s>
+    <s id='1'>Ah ! </s>
 	<s id='2'>Madame, que le ravissement où je me trouve est grand ! </s>
 	<s id='3'>Et que je sais peu par où vous commencer mon discours ! </s>
 	<s id='4'>Tant que je ne vous ai parlé que des yeux, j'avais, ce me semblait, cent choses à vous dire ; et maintenant que j'ai la liberté de vous parler de la façon que je souhaitais je demeure interdit ; et la grande joie où je suis étouffe toutes mes paroles. </s>
@@ -1460,19 +1456,19 @@
 	<s id='1'>Si vous ne m'en devez pas la pensée, vous m'êtes redevable au moins d'en avoir approuvé la proposition avec beaucoup de joie. </s>
 </p>
 </sp>
-<sp who='SGANARELLE'><speaker>SGANARELLE, à Lisette.</speaker>
+<sp stage="toward" who='SGANARELLE'><speaker>SGANARELLE, à Lisette.</speaker>
 <p id='8'>
 	<s id='1'>Il me semble qu'il lui parle de bien près. </s>
 </p>
 </sp>
-<sp who='LISETTE'><speaker>LISETTE, à Sganarelle.</speaker>
+<sp stage="toward" who='LISETTE'><speaker>LISETTE, à Sganarelle.</speaker>
 <p id='9'>
 	<s id='1'>C'est qu'il observe sa physionomie et tous les traits de son visage. </s>
 </p>
 </sp>
-<sp who='CLITANDRE'><speaker>CLITANDRE, à Lucinde.</speaker>
+<sp stage="toward" who='CLITANDRE'><speaker>CLITANDRE, à Lucinde.</speaker>
 <p id='10'>
-       <s id='1'>Serez-vous constante, Madame, dans ces bontés que vous me témoignez ? </s>
+    <s id='1'>Serez-vous constante, Madame, dans ces bontés que vous me témoignez ? </s>
 </p>
 </sp>
 <sp who='LUCINDE'><speaker>LUCINDE.</speaker>
@@ -1562,7 +1558,7 @@
 </sp>
 <sp who='LUCINDE'><speaker>LUCINDE.</speaker>
 <p id='26'>
-	<s id='1'>Quoi ?  </s>
+	<s id='1'>Quoi ? </s>
 	<s id='2'>Vous êtes dans les sentiments d'être mon mari ? </s>
 </p>
 </sp>
@@ -1626,7 +1622,7 @@
 	<s id='1'>Mais, Monsieur... </s>
 </p>
 </sp>
-<sp who='SGANARELLE'><speaker>SGANARELLE, s'étouffant de rire.</speaker>
+<sp stage="laugh" who='SGANARELLE'><speaker>SGANARELLE, s'étouffant de rire.</speaker>
 <p id='38'>
 	<s id='1'>Non, non : c'est pour... </s>
 	<s id='2'>Pour lui contenter l'esprit. </s>
@@ -1668,7 +1664,7 @@
 </sp>
 <sp who='LUCINDE'><speaker>LUCINDE.</speaker>
 <p id='45'>
-	<s id='1'>Quoi ?  </s>
+	<s id='1'>Quoi ? </s>
 	<s id='2'>vous aviez amené un notaire ? </s>
 </p>
 </sp>
@@ -1691,14 +1687,14 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n='7'><head>SCÈNE VII. Le Notaire, Clitandre, Sganarelle, Lucinde, Lisette
-Clitandre parle au Notaire à l'oreille.</head>
+<div2 type="scene" n='7'><head>SCÈNE VII. Le Notaire, Clitandre, Sganarelle, Lucinde, Lisette</head>
+<stage type="low/toward">Clitandre parle au Notaire à l'oreille.</stage>
 <sp who='SGANARELLE'><speaker>SGANARELLE.</speaker>
 <p id='1'>
 	<s id='1'>Oui, Monsieur, il faut faire un contrat pour ces deux personnes-là. </s>
 	<s id='2'>Écrivez. </s>
 </p>
-<stage type="[N/A]">Le Notaire écrit.</stage>
+<stage type="write">Le Notaire écrit.</stage>
 <p id='2'>
 	<s id='1'>Voilà le contrat qu'on fait : je lui donne vingt mille écus en mariage. </s>
 	<s id='2'>Écrivez. </s>
@@ -1728,7 +1724,7 @@ Clitandre parle au Notaire à l'oreille.</head>
 <p id='7'>
 	<s id='1'>Hé ! </s>
 	<s id='1'>Non, vous dis-je. </s>
-	<s id='2'>Sait-on pas bien ?  </s>
+	<s id='2'>Sait-on pas bien ? </s>
 	<s id='3'>Allons, donnez-lui la plume pour signer. </s>
 	<s id='4'>Allons, signé, signé, signé. </s>
 	<s id='5'>Va, va, je signerai tantôt, moi. </s>
@@ -1765,13 +1761,13 @@ Clitandre parle au Notaire à l'oreille.</head>
 </sp>
 </div2>
 <div2 tpe='scene' n='8'><head>SCÈNE DERNIÈRE. La Comédie, le Ballet et la Musique.</head>
-<sp who='COMEDIE_MUSIQUE_BALLET'><head>TOUS TROIS ENSEMBLE.</head>
-     <l id='43'>Sans nous tous les hommes</l>
+<sp stage="together" who='COMÉDIE, MUSIQUE, BALLET'><head>TOUS TROIS ENSEMBLE.</head>
+   <l id='43'>Sans nous tous les hommes</l>
 	<l id='44'>Deviendraient mal sains,</l>
 	<l id='45'>Et c'est nous qui sommes</l>
 	<l id='46'>Leurs grands médecins.</l>
 </sp>
-<sp who='LA-COMEDIE'><speaker>LA COMÉDIE.</speaker>
+<sp who='LA COMÉDIE'><speaker>LA COMÉDIE.</speaker>
 	<l id='47'>Veut-on qu'on rabatte,</l>
 	<l id='48'>Par des moyens doux,</l>
 	<l id='49'>Les vapeurs de rate</l>
@@ -1779,9 +1775,9 @@ Clitandre parle au Notaire à l'oreille.</head>
 	<l id='51'>Qu'on laisse Hippocrate,</l>
 	<l id='52'>Et qu'on vienne à nous.</l>
 </sp>
-<sp who='COMEDIE_MUSIQUE_BALLET'><speaker>Tous trois ensemble.</speaker>
-       <l id='53'>Sans nous...</l>
-<stage type="[N/A]">Durant qu'ils chantent, et que les Jeux, les Ris et les Plaisirs dansent, Clitandre emmène Lucinde.</stage>
+<sp stage="together" who='COMÉDIE, MUSIQUE, BALLET'><speaker>TOUS TROIS ENSEMBLE.</speaker>
+    <l id='53'>Sans nous...</l>
+<stage type="sing/danse">Durant qu'ils chantent, et que les Jeux, les Ris et les Plaisirs dansent, Clitandre emmène Lucinde.</stage>
 </sp>
 <sp who='SGANARELLE'><speaker>SGANARELLE.</speaker>
 <p id='1'>
@@ -1806,11 +1802,11 @@ Clitandre parle au Notaire à l'oreille.</head>
 </p>
 </sp>
 <sp who='SGANARELLE'><speaker>SGANARELLE.</speaker>
-<stage type="[N/A]">Les danseurs le retiennent et veulent le faire danser de force.</stage>
+<stage type="danse/pull">Les danseurs le retiennent et veulent le faire danser de force.</stage>
 <p id='5'>
 	<s id='1'>Comment, diable ! </s>
 	<s id='2'>Laissez-moi aller, laissez-moi aller, vous dis-je. </s>
-	<s id='3'>Encore ?  </s>
+	<s id='3'>Encore ? </s>
 	<s id='4'>Peste des gens ! </s>
 </p>
 </sp>

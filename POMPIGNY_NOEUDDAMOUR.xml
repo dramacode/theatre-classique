@@ -48,13 +48,13 @@
 			</performance>
 
 	<castList><head>ACTEURS</head>
-       	<castItem><role id="MONSIEUR BONHUMAIN" sex="1" type="H" statut="intendant" age="A" stat_amour='néant'>MONSIEUR BONHUMAIN</role>.	M. Pénancier.</castItem>
+    	<castItem><role id="MONSIEUR BONHUMAIN" sex="1" type="H" statut="intendant" age="A" stat_amour='néant'>MONSIEUR BONHUMAIN</role>.	M. Pénancier.</castItem>
 		<castItem><role id="MONSIEUR TAMARIN" sex="1" type="H" statut="apothicaire" age="A" stat_amour='néant'>MONSIEUR TAMARIN</role>.	M. Beaubourg.</castItem>
-       	<castItem><role id="LE CHEVALIER SANDIS" sex="1" type="H" statut="chevalier" age="A" stat_amour='néant'>LE CHEVALIER SANDIS</role>.	M. Boucher.</castItem>
-       	<castItem><role id="COLIN" sex="1" type="H" statut="bourgeois" age="A" stat_amour='néant'>COLIN</role>.	M. Desmazures.</castItem>
-       	<castItem><role id="LA MÈRE BAZU" sex="2" type="H" statut="bourgeois" age="A" stat_amour='néant'>LA MÈRE BAZU</role>.	Mlle. Destrée.</castItem>
-       	<castItem><role id="BABET" sex="2" type="H" statut="bourgeois" age="J" stat_amour='néant'>BABET</role>.	Mlle. Bisson.</castItem>
-       	<castItem><role id="VILLAGEOIS" sex="9" type="H" statut="peuple" age="A" stat_amour='néant'>VILLAGEOIS ET VILLAGEOISES</role>.</castItem>
+    	<castItem><role id="LE CHEVALIER SANDIS" sex="1" type="H" statut="chevalier" age="A" stat_amour='néant'>LE CHEVALIER SANDIS</role>.	M. Boucher.</castItem>
+    	<castItem><role id="COLIN" sex="1" type="H" statut="bourgeois" age="A" stat_amour='néant'>COLIN</role>.	M. Desmazures.</castItem>
+    	<castItem><role id="LA MÈRE BAZU" sex="2" type="H" statut="bourgeois" age="A" stat_amour='néant'>LA MÈRE BAZU</role>.	Mlle. Destrée.</castItem>
+    	<castItem><role id="BABET" sex="2" type="H" statut="bourgeois" age="J" stat_amour='néant'>BABET</role>.	Mlle. Bisson.</castItem>
+    	<castItem><role id="VILLAGEOIS" sex="9" type="H" statut="peuple" age="A" stat_amour='néant'>VILLAGEOIS ET VILLAGEOISES</role>.</castItem>
 	</castList>
 <set location='À la campagne' country='France' periode='XVIIIème' link=''>La Scène est dans un hameau.</set>
 </front>
@@ -234,7 +234,7 @@
 	<s id='2'>Le sort va décider de la primauté. </s>
 	<s id='2'>Mais, je les vois s'avancer avec toute la jeunesse du Village, que la nouveauté de ce spectacle attire.</s>
 </p>
-<stage type="[N/A]">Marche dansante pour les Villageois et Villageoises.</stage>
+<stage type="dance">Marche dansante pour les Villageois et Villageoises.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. La Mère Bazu, Bonhumain, Tamarin, Le Chevalier Sandis, Colin, Babet.</head>
@@ -331,7 +331,7 @@
 <p id='14'>
 	<s id='1'>À vous, notre ancien, l'honneur vous appartient. </s>
 </p>
-<stage type="[N/A]">Tamarin tire un billet.</stage>
+<stage type="show">Tamarin tire un billet.</stage>
 </sp>
 <sp who="BONHUMAIN"><speaker>BONHUMAIN.</speaker>
 <p id="15">
@@ -345,7 +345,7 @@
 	<s id='3'>Régardez bien ; jé suis sûr dé mon coup. </s>
 	<s id='4'>Tenez, mon ami, annoncez mon bonheur.</s>
 </p>
- <stage type="[N/A]">Il tire.</stage>
+ <stage type="draw">Il tire.</stage>
 </sp>
 <sp who="BONHUMAIN"><speaker>BONHUMAIN.</speaker>
 <p id="17">
@@ -371,7 +371,7 @@
 	<s id='2'>À vous le noeud, si vous pouvez l'obtenir, et si vous avez l'adresse de le dénouer. </s>
 	<s id='3'>Voilà Babet ; tâchez d'avoir son consentement.</s>
 </p>
-<stage type="[N/A]">Après la Pantomime.</stage>
+<stage type="explicit">Après la Pantomime.</stage>
 <p id="21">
 	<s id="1">Allons, c'est assez; reposez-vous tous deux. </s>
 	<s id='2'>Reprends haleine, Colin.</s>
@@ -410,7 +410,7 @@
 	<s id='1'>Oh ! </s>
 	<s id='2'>Le maladroit!</s>
 </p>
-<stage type="[N/A]">Bonhumain sort avec la Mère Bazu, le Chevalier et Tamarin.</stage>
+<stage type="exit">Bonhumain sort avec la Mère Bazu, le Chevalier et Tamarin.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Babet, Colin.</head>
@@ -562,7 +562,7 @@
 	<s id="1">Quoi donc ?</s>
 </p>
 </sp>
-<sp who='COLIN'><speaker>COLIN, mettant sa main sur le Noeud.</speaker>
+<sp stage="touch" who='COLIN'><speaker>COLIN, mettant sa main sur le noeud.</speaker>
 <p id="28">
 	<s id="1">Ce beau noeud qui doit faire mon bonheur.</s>
 </p>
@@ -585,7 +585,7 @@
 	<s id='4'>Finissez, encore une fois, ou je me fâcherai.</s>
 </p>
 </sp>
-<sp who='COLIN'><speaker>COLIN, avec dépit.</speaker>
+<sp stage="despite" who='COLIN'><speaker>COLIN, avec dépit.</speaker>
 <p id='32'>
 	<s id='1'>Eh bien ! </s>
 	<s id='2'>Mademoiselle, c'est fort bien fait ! </s>
@@ -606,7 +606,7 @@
 	<s id='4'>Je m'en vais : oui, je m'en vais au bout du monde.... </s>
 	<s id='5'>Adieu, perfide.</s>
 </p>
-<stage type="[N/A]">Il va et revient.</stage>
+<stage type="away/back">Il va et revient.</stage>
 </sp>
 <sp who="BABET"><speaker>BABET.</speaker>
 <p id="35">
@@ -718,13 +718,13 @@
 	<s id='2'>Je craignais que ce fripon de Colin n'eut l'avantage ; mais puisqu'il a échoué, ma nièce se réserve pour vous, et j'en suis sûre, car je le lui ai bien recommandé.</s>
 </p>
 </sp>
-<sp who='COLIN'><speaker>COLIN, bas à Babet.</speaker>
+<sp stage="low/toward" who='COLIN'><speaker>COLIN, bas à Babet.</speaker>
 <p id="6">
 	<s id="1">Défends-toi bien, ma chère Babet ; tiens, je ne saurais souffrir ce vilain Chevalier. </s>
 	<s id='2'>Si je pouvais rester !...</s>
 </p>
 </sp>
-<sp who='BABET'><speaker>BABET, bas à Colin.</speaker>
+<sp stage="low/toward" who='BABET'><speaker>BABET, bas à Colin.</speaker>
 <p id='7'>
 	<s id='1'>Ce sont mes affaires. </s>
 	<s id='2'>Va-t-en.</s>
@@ -866,7 +866,7 @@
 	<s id='2'>Vous êtes un trop grand Monsieur pour moi !</s>
 </p>
 </sp>
-<sp who='LE CHEVALIER'><speaker>LE CHEVALIER, voulant prendre le Noeud.</speaker>
+<sp stage="get" who='LE CHEVALIER'><speaker>LE CHEVALIER, voulant prendre le noeud.</speaker>
 <p id="23">
 	<s id="1">Point du tout. </s>
 	<s id='2'>Jé suis votré pétit servitûr. </s>
@@ -1015,7 +1015,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. La mère Bazu, Babet, Tamarin, La Chavaleir Sandis, Colin, Bonhumain.</head>
-<sp who='COLIN'><speaker>COLIN, au Chevalier.</speaker>
+<sp stage="toward" who='COLIN'><speaker>COLIN, au Chevalier.</speaker>
 <p id='1'>
 	<s id='1'>Doucement, Monsieur, doucement.</s>
 </p>
@@ -1101,7 +1101,7 @@
 	<s id="1">À l'ouvrage, père Rapapiole ; jé crois qué vous en férez dé belles !</s>
 </p>
 </sp>
-<sp who='COLIN'><speaker>COLIN, à Bonhumain.</speaker>
+<sp stage="toward" who='COLIN'><speaker>COLIN, à Bonhumain.</speaker>
 <p id='16'>
 	<s id='1'>Ce vieux m'inquiète. </s>
 	<s id='2'>Il est riche, et rusé comme un démon.</s>
@@ -1133,7 +1133,7 @@
 	<s id='2'>Je veux employer le temps qu'ils ont perdu en sauts et en gambades, à jouir de son aimable conversation. </s>
 	<s id='3'>Rira bien qui rira le dernier.</s>
 </p>
-<stage type="[N/A]">Bonhumain sort avec la Mère Bazu, le Chevalier et Colin.</stage>
+<stage type="exit">Bonhumain sort avec la Mère Bazu, le Chevalier et Colin.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII. Babet, Tamarin.</head>
@@ -1389,7 +1389,7 @@
 <p id="47">
 	<s id="1">Ah ! </s>
 	<s id='2'>Qu'il est joli ce petit noeud d'amour ! </s>
-	<s id='3'>Attendez, que je prenne  mes lunettes pour l'examiner avec plus d'attention.</s>
+	<s id='3'>Attendez, que je prenne mes lunettes pour l'examiner avec plus d'attention.</s>
 </p>
 </sp>
 <sp who="BABET"><speaker>BABET.</speaker>
@@ -1525,7 +1525,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='9'><head>SCÈNE IX.</head>
-<sp who='BABET'><speaker>BABET, seule.</speaker>
+<sp stage="alone" who='BABET'><speaker>BABET, seule.</speaker>
 <p id="1">
 	<s id="1">Que le Chevalier est ridicule ! </s>
 	<s id='2'>Que le vieux Tamarin est fatiguant ! </s>
@@ -1540,7 +1540,7 @@
 	<s id='11'>S'il avait cette audace... </s>
 	<s id='12'>Non, jamais je ne le reverrais.</s>
 </p>
-<stage type="[N/A]">Elle s'assied sur un banc de gazon, et dort.</stage>
+<stage type="sit/location/sleep">Elle s'assied sur un banc de gazon, et dort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='10'><head>SCÈNE X. Colin, Babet.</head>
@@ -1563,7 +1563,7 @@
 	<s id='15'>Babet, si tu le réserves au plus fidèle, je suis sûr de le posséder. </s>
 	<s id='16'>Mais les filles sont si capricieuses ! </s>
 	<s id='17'>Que sais-je ! </s>
-	<s id='18'>Quand une fois je l'aurai, je dirai....   que je le tiens d'elle.... </s>
+	<s id='18'>Quand une fois je l'aurai, je dirai....  que je le tiens d'elle.... </s>
 	<s id='19'>Mentir ! </s>
 	<s id='20'>Non, jamais je ne pourrais. </s>
 	<s id='21'>Je veux qu'elle sache quel sacrifice je lui fais ; je veux lui prendre son collier, et elle sentira mieux combien j'ai respecté sa rosette. </s>
@@ -1693,7 +1693,7 @@
 </sp>
 </div2>
 <div2 type='divertissement' n='12'><head>DIVERTISSEMENT. Troupes de jeunes Paysans et Paysannes en danse.</head>
-<stage type="[N/A]">VAUDEVILLE.</stage>
+<stage type="title">VAUDEVILLE.</stage>
 <sp who="BABET"><speaker>BABET.</speaker>
 	<l id='1'>Jeunes amants qui voulez plaire,</l>
 	<l id='2'>Brûlez d'une flamme sincère ;</l>
@@ -1720,13 +1720,13 @@
 </sp>
 <sp who="TAMARIN"><speaker>TAMARIN.</speaker>
 	<l id='19'>Près d'un objet tendre et sensible,</l>
-	<l id='20'>Pour plaire on se croit tout possible ;  </l>
+	<l id='20'>Pour plaire on se croit tout possible ; </l>
 	<l id='21'>L'esprit et le coeur sont en feu ;</l>
 	<l id='22'>Mais d'amour la grande science</l>
 	<l id='23'>Est de prouver ce qu'on avance :</l>
 	<l id='24'>Voilà le noeud, voilà le noeud.</l>
 </sp>
-<sp who='BONHUMAIN'><speaker>BONHUMAIN, au Parterre.</speaker>
+<sp stage="toward" who='BONHUMAIN'><speaker>BONHUMAIN, au Parterre.</speaker>
 	<l id='25'>L'Auteur ne cherche qu'à vous plaire ;</l>
 	<l id='26'>Nous, Messieurs, qu'à vous satisfaire :</l>
 	<l id='27'>C'est son désir, c'est notre voeu ;</l>

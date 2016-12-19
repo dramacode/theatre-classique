@@ -7,9 +7,9 @@
 			<author born='' born_location='' death='' death_location='' academie=''>Anonyme</author>
 			</titleStmt>
 			<publicationStmt>	
-				<p>publié par Paul FIEVRE juillet 2011.</p>
-			<idno></idno>
-</publicationStmt>
+				<publisher>publié par Paul FIEVRE juillet 2011, revu novembre 2106.</publisher>
+				<idno>ANONYME_MATINEECOMEDIENFRANCAIS</idno>
+			</publicationStmt>
 			<SourceDesc>
 				<genre>Proverbe</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -18,11 +18,6 @@
 				<periode>1781-1790</periode>
 				<taille>(mesure non pertinente)</taille>
 				<permalien>http://contentdm.warwick.ac.uk/u?/Ancien,24256</permalien>
-
-				<sources>
-					<source id='1'><author></author><text></text></source>
-				</sources>	
-
 			</SourceDesc>
 		</fileDesc>
 </teiHeader>
@@ -56,7 +51,7 @@
 <body>
 <div1 type="act" n='1'><head></head>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE.</head> 
-<sp who='BELVAL'><speaker>BELVAL, regardant à la Pendule.</speaker>
+<sp stage="watch" who='BELVAL'><speaker>BELVAL, regardant à la pendule.</speaker>
 <p id='1'>
 	<s id='1'>Comment ! </s>
 	<s id='2'>Il est dix heures et ma robe de chambre n'est point arrivée ; ce maraud de tailleur est cause que je me lève une heure plutôt qu'à l'ordinaire ; vous verrez que ce sera inutilement ; cependant il n'a point à se plaindre: il est mieux payé qu'aucun de mes fournisseurs ; je ne lui dois pas mille écus, le fat ! </s>
@@ -114,7 +109,7 @@
 	<s id='2'>Ah, pour cette robe de chambre ; conçois-tu ce petit Fraquet qui ose me faire attendre ; cours chez lui, et avertis-le de sa ruine, s'il n'est pas plus exact. </s>
 </p>
 </sp>
-<sp who='LA-FLEUR'><speaker>LA FLEUR, d'un air de compassion.</speaker>
+<sp stage="sorry" who='LA-FLEUR'><speaker>LA FLEUR, d'un air de compassion.</speaker>
 <p id='9'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Monsieur.</s>
@@ -133,7 +128,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III.</head> 
-<sp who='BELVAL'><speaker>BELVAL, seul.</speaker>
+<sp stage="alone" who='BELVAL'><speaker>BELVAL, seul.</speaker>
 <p id='1'>
 	<s id='1'>Il est bien médiocre ! </s>
 	<s id='2'>Ah, ah, ah, je rirai bien si cela réussit ; quand ce ne serait que pour me venger de cet autre qui prétend voler de ses propres ailes, qui ne s'informe pas même si j'existe pour se présenter ; c'est d'un orgueil...</s>
@@ -143,7 +138,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Belval, Verville.</head> 
-<sp who='BELVAL'><speaker>BELVAL, à Verville, qui entrouvre la porte avec une espèce de crainte.</speaker>
+<sp stage="toward/open" who='BELVAL'><speaker>BELVAL, à Verville, qui entrouvre la porte avec une espèce de crainte.</speaker>
 <p id='1'>
 	<s id='1'>Entrez, mon cher ami, entrez ; rassurez-vous, je vous veux du bien.</s>
 </p>
@@ -153,7 +148,7 @@
 	<s id='2'>Pardon, Monsieur, si j'ai osé insister pour avoir l'honneur de vous voir, mais je me trouve forcé de partir dans quinze jours d'après une lettre que j'ai reçue hier, sinon je manque une place très sûre pour une autre qui est encore très incertaine. </s>
 </p>
 </sp>
-<sp who='BELVAL'><speaker>BELVAL, avec hauteur.</speaker>
+<sp stage="contempt" who='BELVAL'><speaker>BELVAL, avec hauteur.</speaker>
 <p id='3'>
 	<s id='1'>Comment donc, incertaine ?</s>
 </p>
@@ -185,7 +180,7 @@
 	<s id='1'>Quoi !</s>
 </p>
 </sp>
-<sp who='BELVAL'><speaker>BELVAL, sans l'écouter.</speaker>
+<sp stage="listen" who='BELVAL'><speaker>BELVAL, sans l'écouter.</speaker>
 <p id='9'>
 	<s id='1'>Le premier, dans trois jours ; le second, quatre jours après ; le troisième, n'en exigera pas davantage. </s>
 	<s id='2'>Oui, dans douze jours ce sera une affaire faite.</s>
@@ -304,12 +299,12 @@
 	<s id='2'>Cependant il me reste des remords par rapport à ces pauvres diables qui me seront sacrifiés...</s>
 </p>
 </sp>
-<sp who='BELVAL'><speaker>BELVAL, sans l'écouter, d'un air protecteur.</speaker>
+<sp stage="listen" who='BELVAL'><speaker>BELVAL, sans l'écouter, d'un air protecteur.</speaker>
 <p id='31'>
 	<s id='1'>Adieu ; je voudrais vous retenir plus longtemps, mais persuadez vous que vous faites corps avec nous ; ces jours-ci nous ferons les visites nécessaires, adieu.</s>
 </p>
 </sp>
-<sp who='VERVILLE'><speaker>VERVILLE, en le saluant très profondément.</speaker>
+<sp stage="wave" who='VERVILLE'><speaker>VERVILLE, en le saluant très profondément.</speaker>
 <p id='31'>
 	<s id='1'>Comment vous exprimer tout ce que je vous dois ?</s>
 </p>
@@ -349,7 +344,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI.</head> 
-<sp who='BELVAL'><speaker>BELVAL, en robe-de-chambre superbe, se regardant dans sa glace.</speaker>
+<sp stage="dress/watch" who='BELVAL'><speaker>BELVAL, en robe-de-chambre superbe, se regardant dans sa glace.</speaker>
 <p id='1'>
 	<s id='1'>Ma foi, de telle manière que je me mette, je suis toujours bien. </s>
 	<s id='2'>C'est une folie pourtant que cette robe de chambre ; mais il serait si ridicule d'être surpris sans une certaine élégance... </s>
@@ -435,7 +430,7 @@
 	<s id='1'>Vous m'excuserez donc de ne pouvoir vous en présenter un. </s>
 </p>
 </sp>
-<sp who='SOPHIE'><speaker>SOPHIE, étonnée.</speaker>
+<sp stage="estonish" who='SOPHIE'><speaker>SOPHIE, étonnée.</speaker>
 <p id='13'>
 	<s id='1'>Pour moi, il n'en faut pas.</s>
 </p>
@@ -457,7 +452,7 @@
 	<s id='4'>Est-il un seul homme qui, vous possédant comme moi en tête-à-tête, ne soit tombé à vos pieds. </s>
 </p>
 </sp>
-<sp who='SOPHIE'><speaker>SOPHIE, avec fierté.</speaker>
+<sp stage="proud" who='SOPHIE'><speaker>SOPHIE, avec fierté.</speaker>
 <p id='16'>
 	<s id='1'>Je ne l'ai jamais souffert. </s>
 	<s id='2'>Et où prenez-vous, Monsieur, que ces soit un tête-à-tête que je vous accorde...</s>
@@ -520,7 +515,7 @@
 	<s id='1'>Heureuse tranquillité ! </s>
 	<s id='2'>Vous faites de l'amour un joujou. </s>
 </p>
-<stage type="[N/A]">Voyant que Sophie paraît vouloir se lever.</stage>
+<stage type="watch">Voyant que Sophie paraît vouloir se lever.</stage>
 <p id='26'>	
 	<s id='1'>Parlons donc de choses sérieuses avec vous, Sophie.</s>
 </p>
@@ -961,26 +956,26 @@
 	<s id='2'>C'est qu'il est si crotté !... </s>
 </p>
 </sp>
-<sp who='BELVAL'><speaker>BELVAL, riant.</speaker>
+<sp stage="laugh" who='BELVAL'><speaker>BELVAL, riant.</speaker>
 <p id='19'>
 	<s id='1'>Là, bien crotté.</s>
 </p>
 </sp>
-<sp who='LA-FLEUR'><speaker>LA FLEUR, riant aussi.</speaker>
+<sp stage="laugh" who='LA-FLEUR'><speaker>LA FLEUR, riant aussi.</speaker>
 <p id='20'>
 	<s id='1'>Il est venu à pied par le temps qu'il fait.</s>
 </p>
 </sp>
-<sp who='BELVAL'><speaker>BELVAL, à part.</speaker>
+<sp stage="aparte" who='BELVAL'><speaker>BELVAL, à part.</speaker>
 <p id='21'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>C'est un auteur.</s>
 </p>
-<stage type="forte">Haut à la Fleur.</stage> 
+<stage type="loud/toward">Haut à la Fleur.</stage> 
 <p id='22'>
 	<s id='1'>Qu'importe ; fais ce que je te dis.</s>
 </p>
-<stage type="toward/mezzo voce">Bas à Sophie.</stage>
+<stage type="low/toward">Bas à Sophie.</stage>
 <p id='23'>
 	<s id='1'>C'est à cause de cela qu'il faut le recevoir.</s>
 </p>
@@ -1031,7 +1026,7 @@
 	<s id='1'>Daignez donc vous seoir ; je ne faisais pas attention... </s>
 </p>
 </sp>
-<sp who='SOPHIE'><speaker>SOPHIE, au Comte.</speaker>
+<sp stage="toward" who='SOPHIE'><speaker>SOPHIE, au Comte.</speaker>
 <p id='6'>
 	<s id='1'>C'est un caractère qui promet.</s>
 </p>
@@ -1115,7 +1110,7 @@
 	<s id='1'>Monsieur a sonné. </s>
 </p>
 </sp>
-<sp who='BELVAL'><speaker>BELVAL, à La Fleur.</speaker>
+<sp stage="toward" who='BELVAL'><speaker>BELVAL, à La Fleur.</speaker>
 <p id='2'>
 	<s id='1'>Monsieur veut bien prendre ma voiture.</s>
 </p>
@@ -1135,7 +1130,7 @@
 	<s id='1'>J'accepte donc, puisque vous le voulez,et sors pénétré de tout ce que vous faites pour moi. </s>
 	<s id='2'>Adieu, Monsieur : Madame, je vous présente mon respect. </s>
 </p>
-<stage type="[N/A]">Sophie, fait une révérence à la mode ; c'est-à-dire, fait un encensoir de ses reins.</stage>
+<stage type="wave">Sophie, fait une révérence à la mode ; c'est-à-dire, fait un encensoir de ses reins.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='11'><head>SCÈNE XI. Belval, Sophie.</head>
@@ -1165,11 +1160,11 @@
 	<s id='1'>À propos, avez-vous remarqué qu'à travers la simplicité de sa mise, il a un certain air d'assurance,et qu'il est d'une figure assez distinguée.</s>
 </p>
 </sp>
-<sp who='BELVAL'><speaker>BELVAL, malignement.</speaker>
+<sp stage="brightly" who='BELVAL'><speaker>BELVAL, malignement.</speaker>
 <p id='5'>
 	<s id='1'>Comment, vous avez fait cette remarque ?</s>
 </p>
-<stage type="[N/A]">D'un air de dédain.</stage>
+<stage type="disdain">D'un air de dédain.</stage>
 <p id='6'>
 	<s id='1'>Oui, oui, il est assez bien, pas mal.</s>
 </p>
@@ -1215,7 +1210,7 @@
 	<s id='6'>La Fleur m'a dit qu'il était déjà venu plusieurs fois, et ce n'est que d'aujourd'hui que j'ai consenti à le recevoir, encore en connaissez-vous le motif ?</s>
 </p>
 </sp>
-<sp who='SOPHIE'><speaker>SOPHIE, devenant subitement sérieuse.</speaker>
+<sp stage="serious" who='SOPHIE'><speaker>SOPHIE, devenant subitement sérieuse.</speaker>
 <p id='13'>
 	<s id='1'>Oui, j'en suis édifiée.</s>
 </p>
@@ -1303,7 +1298,7 @@
 </sp>
 <sp who='BELVAL'><speaker>BELVAL.</speaker>
 <p id='26'>
-	<s id='1'>Cur excellent ! </s>
+	<s id='1'>Coeur excellent ! </s>
 	<s id='1'>Combien vous vous attachez ceux qui vous connaissent à fond ? </s>
 	<s id='3'>Mais voilà déjà la Fleur de retour. </s>
 </p>
@@ -1327,7 +1322,7 @@
 	<s id='1'>Bon ! </s>
 </p>
 </sp>
-<sp who='SOPHIE'><speaker>SOPHIE, à Belval.</speaker>
+<sp stage="toward" who='SOPHIE'><speaker>SOPHIE, à Belval.</speaker>
 <p id='4'>
 	<s id='1'>Eh bien ! </s>
 	<s id='2'>Ne m'en étais-je pas douté ?</s>
@@ -1338,7 +1333,7 @@
 	<s id='1'>D'ici à votre voiture il m'a suivi en ricanant.</s>
 </p>
 </sp>
-<sp who='BELVAL'><speaker>BELVAL, avec hauteur.</speaker>
+<sp stage="contempt" who='BELVAL'><speaker>BELVAL, avec hauteur.</speaker>
 <p id='6'>
 	<s id='1'>Comment, faquin, en ricanant.</s>
 </p>
@@ -1349,7 +1344,7 @@
 	<s id='2'>Oui, ma foi, je vous dis la vérité.</s>
 </p>
 </sp>
-<sp who='BELVAL'><speaker>BELVAL, du même ton.</speaker>
+<sp stage="contempt" who='BELVAL'><speaker>BELVAL, du même ton.</speaker>
 <p id='8'>
 	<s id='1'>Ensuite.</s>
 </p>
@@ -1364,7 +1359,7 @@
 	<s id='1'>Ah !</s>
 </p>
 </sp>
-<sp who='LA-FLEUR'><speaker>LA FLEUR, à part.</speaker>
+<sp stage="aparte" who='LA-FLEUR'><speaker>LA FLEUR, à part.</speaker>
 <p id='11'>
 	<s id='1'>C'est-à-dire, en haussant les épaules.</s>
 </p>
@@ -1407,7 +1402,7 @@
 	<s id='1'>Que peut-il me dire ? </s>
 	<s id='2'>Voyons. </s>
 </p>
-<stage type="[N/A]">En ouvrant la Lettre.</stage>
+<stage type="open">En ouvrant la lettre.</stage>
 <p id='19'>
 	<s id='1'>Elle était écrite avant de se rendre chez moi...</s>
 </p>
@@ -1446,7 +1441,7 @@
 <p id='26'>
 	<s id='1'>Vous le voulez, à la bonne heure.</s>
 </p>
-<stage type="[N/A]">Il continue.</stage>
+<stage type="continue">Il continue.</stage>
 <p id='27'>
 	<s id='1'>"Ne me croyez pas votre dupe ; vous n'avez pas lu " ma Pièce." Ah j'aime bien qu'il doute.</s>
 </p>
@@ -1456,12 +1451,12 @@
 	<s id='1'>Mais, achevez.</s>
 </p>
 </sp>
-<sp who='BELVAL'><speaker>BELVAL, continue.</speaker>
+<sp stage="continue" who='BELVAL'><speaker>BELVAL, continue.</speaker>
 <p id='29'>
 	<s id='1'>"Car je ne vous en ai point remise. </s>
 	<s id='2'>C'est un cahier blanc sous enveloppe que vous avez reçu de moi."</s>
 </p>
-<stage type="[N/A]">Belval étonné.</stage>
+<stage type="estonish">Belval étonné.</stage>
 </sp>
 <sp who='SOPHIE'><speaker>SOPHIE.</speaker>
 <p id='30'>
@@ -1474,11 +1469,11 @@
 	<s id='1'>Quoi ! </s>
 	<s id='2'>Je serais...</s>
 </p>
-<stage type="toward">À Sophie qui le presse d'achever.</stage>
+<stage type="toward/stress">À Sophie qui le presse d'achever.</stage>
 <p id='32'>
 	<s id='1'>Je continue. </s>
 	<s id='2'>" J'ai voulu vérifier si les plaintes que j'ai entendu faire à un jeune homme de ma connaissance avoient quelques fondements. </s>
-	<s id='3'>Vous devez croire que je n'ai pas besoin d'autres preuves que les conseils que vous avez bien voulu me donner ce matin, sur ce qui n'existe pas, pour  être convaincu qu'il a raison. </s>
+	<s id='3'>Vous devez croire que je n'ai pas besoin d'autres preuves que les conseils que vous avez bien voulu me donner ce matin, sur ce qui n'existe pas, pour être convaincu qu'il a raison. </s>
 	<s id='4'>Comme ma lettre était écrite avant de me rendre chez vous, sachant à point nommé votre réception, et mon dessein étant de la laisser en sortant. </s>
 	<s id='5'>Je n'ajouterai que deux mots. </s>
 	<s id='6'>Je vous remercie de votre voiture qui est fort douce et plus élégante qu'aucune des miennes : je vous dois cet aveu pour vous prouver ma reconnaissance" Le Comte DE MOEURSEVILLE. </s>
@@ -1513,7 +1508,7 @@
 	<s id='1'>Oui, Sophie, oui, vous avez raison. </s>
 </p>
 </sp>
-<sp who='LA-FLEUR'><speaker>LA FLEUR, à part.</speaker>
+<sp stage="aparte" who='LA-FLEUR'><speaker>LA FLEUR, à part.</speaker>
 <p id='37'>
 	<s id='1'>Le voilà revenu à lui-même. </s>
 	<s id='2'>Cela paraissait assez difficile : on voit qu'il ne faut jurer de rien. </s>

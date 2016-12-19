@@ -8,9 +8,9 @@
 				<date>1717</date>
 			</titleStmt>
 			<publicationStmt>	
-				<authority>publié par Paul FIEVRE, Septembre 2006, revu mars 2015.</authority>
-			<idno></idno>
-</publicationStmt>
+				<publisher>publié par Paul FIEVRE, Septembre 2006, revu mars 2015.</publisher>
+				<idno>CREBILLON_SEMIRAMIS</idno>
+			</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire orientale</inspiration>
@@ -18,7 +18,7 @@
 				<type>vers</type>
 				<periode>1711-1720</periode>
 				<taille>1500-1750</taille>
-				<permalien></permalien>
+				<permalien>http://gallica.bnf.fr/ark:/12148/bpt6k5459349d</permalien>
 			</SourceDesc>
 		</fileDesc>
 	</teiHeader>
@@ -28,29 +28,27 @@
 				<titlePart type="main">SÉMIRAMIS</titlePart>
 				<titlePart type="sub">TRAGÉDIE</titlePart>
 			</docTitle> 
-			<docDate value='1717'>M. DCC XVII. Avec Approbation et Privilège du Roi</docDate>
+			<docDate value='1717'>M. DCC. XVII. Avec Approbation et Privilège du Roi</docDate>
 			<docAuthor id='CREBILLON, Prosper Jolyot de' bio='crebillon'>Par M. de CRÉBILLON</docAuthor>
 			<docImprint>
-				<privilege id='1717-05-28'><head>APPROBATION</head>
-				<p>J'ai lu sur l'ordre de Monseigneur le Chancellie, la tragédie de Sémiramis ; cette reine y fait voir des sentiments coupables : mais son châtiment, au défaut de ses remaords, peut servir d'instruction. Le public en a vu les représentations avec plaisir ; et j'ai cru que l'impression lui serait agréable.</p>
+				<approbation id='1717-05-28'><head>APPROBATION</head>
+				<p>J'ai lu sur l'ordre de Monseigneur le Chancellier, la tragédie de Sémiramis ; cette reine y fait voir des sentiments coupables : mais son châtiment, au défaut de ses remords, peut servir d'instruction. Le public en a vu les représentations avec plaisir ; et j'ai cru que l'impression lui serait agréable.</p>
 				<p>Fait à paris ce 28 mai 1717.</p>
-				<p>Signé DANCHET</p></privilege>
-				<imprimeur id='***'>***</imprimeur>
-				<acheveImprime id='17**-**-**'>***</acheveImprime>
+				<p>Signé DANCHET</p></approbation>
 				<printer id='RIBOU'>Chez Pierre RIBOU, seul libraire de l'Académie Royale de Musique, Quai des Augustins, à la Descente du Pont-Neuf, à l'Image Saint-Louis. </printer>
 			</docImprint>
 			<performance>
 				<premiere date='1717-04-10' location='Théâtre français'>Représenté pour la première fois le 10 avril 1717 au Théâtre français par la troupe de la Comédie française.</premiere>
 			</performance>
 <castList><head>Acteurs</head>
-	<castItem><role id="SEMIRAMIS" sex="2" type="H" statut='roi' age='A' stat_amour='néant'>SÉMIRAMIS</role>.</castItem>
+	<castItem><role id="SÉMIRAMIS" sex="2" type="H" statut='roi' age='A' stat_amour='néant'>SÉMIRAMIS</role>.</castItem>
 	<castItem><role id="BELUS" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>BÉLUS</role>, frère de Sémiramis.</castItem>
 	<castItem><role id="MADATE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>MADATE</role>.</castItem>
 	<castItem><role id="MERMECIDE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>MERMÉCIDE</role>.</castItem>
-	<castItem><role id="TENESIS" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>TÉNÉSIS</role>, fille de Bélus.</castItem>
-	<castItem><role id="AGENOR" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>AGÉNOR</role>.</castItem>
+	<castItem><role id="TÉNÉSIS" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>TÉNÉSIS</role>, fille de Bélus.</castItem>
+	<castItem><role id="AGÉNOR" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>AGÉNOR</role>.</castItem>
 	<castItem><role id="MIRAME" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>MIRAME</role>, confident de Ninias.</castItem>
-	<castItem><role id="PHENICE" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>PHÉNICE</role>, confidente de Sémiramis.</castItem>
+	<castItem><role id="PHÉNICE" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>PHÉNICE</role>, confidente de Sémiramis.</castItem>
 	<castItem><role id="ARBAS" sex="1" type="H" statut='capitaine' age='A' stat_amour='néant'>ARBAS</role>, capitaine des Gardes.</castItem>
 	<castItem><role id="NINIAS" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>NINIAS</role>, fils de Sémiramis, élevé sous le nom d'Agénor.</castItem>
 	<castItem><role id="GARDES" sex="9" type="H" statut='garde' age='A' stat_amour='néant'>GARDES</role>.</castItem>
@@ -117,10 +115,10 @@
 	<l id='47'>Vous êtes découvert, Mégabise a parlé.</l>
 </sp>
 <sp who='BÉLUS'><speaker>BÉLUS.</speaker>
-	<l id='48' part='i'>Mégabise !</l>
+	<l id='48' syll="3" part="i">Mégabise !</l>
 </sp>
 <sp who='MADATE'><speaker>MADATE.</speaker>
-	<l id='48' part='f'>Sans doute il a tout révélé.</l>
+	<l id='48' syll="9" part="f">Sans doute il a tout révélé.</l>
 	<l id='49'>Seigneur, il vous souvient que de notre entreprise</l>
 	<l id='50'>Vous aviez nommé chef le traître Mégabise :</l>
 	<l id='51'>Cet infidèle et moi nous nous étions promis</l>
@@ -321,7 +319,7 @@
 	<l id='230'>Ne m'eût forcé de fuir leur importune vue.</l>
 	<l id='231'>Si Mégabise vit, nous sommes découverts.</l>
 </sp>
-<sp who='BÉLUS'><speaker>BÉLUS, à Madate.</speaker>
+<sp stage="toward" who='BÉLUS'><speaker>BÉLUS, à Madate.</speaker>
 	<l id='232'>Trop prévoyant ami, qu'as-tu fait ? Tu nous perds.</l>
 </sp>
 <sp who='MERMECIDE'><speaker>MERMÉCIDE.</speaker>
@@ -342,7 +340,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Sémiramis, Bélus, Ténésis, Madate, Gardes.</head>
-<sp who='SEMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
+<sp who='SÉMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
 	<l id='245'>Je triomphe, Bélus : une heureuse victoire</l>
 	<l id='246'>Comblerait aujourd'hui mes désirs et ma gloire,</l>
 	<l id='247'>Si le sort, dangereux même dans ses bienfaits,</l>
@@ -357,10 +355,10 @@
 	<l id='256'>Si mon coeur n'aurait pas à se plaindre de vous.</l>
 </sp>
 <sp who='BÉLUS'><speaker>BÉLUS.</speaker>
-	<l id='257' part='i'>De moi ?</l>
+	<l id='257' syll="2" part="i">De moi ?</l>
 </sp>
-<sp who='SEMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
-	<l id='257' part='f'>Je sais, Bélus, que de vos soins fidèles</l>
+<sp who='SÉMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
+	<l id='257' syll="9" part="f">Je sais, Bélus, que de vos soins fidèles</l>
 	<l id='258'>Je dois mieux présumer ; mais enfin les rebelles</l>
 	<l id='259'>De mes desseins contre eux sont si bien informés,</l>
 	<l id='260'>Qu'ils sont tous prévenus aussitôt que formés.</l>
@@ -371,7 +369,7 @@
 	<l id='263'>Sur quelle conjecture, ou sur quelle action ?</l>
 	<l id='264'>Vous savez que mon coeur est sans ambition.</l>
 </sp>
-<sp who='SEMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
+<sp who='SÉMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
 	<l id='265'>On me trahit : c'est tout ce que je puis vous dire.</l>
 <stage type="toward">À ses gardes. </stage>
 	<l id='266'>Allez, c'en est assez. Et vous, qu'on se retire.</l>
@@ -381,13 +379,13 @@
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Sémiramis, Ténésis.</head>
-<sp who='SEMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
+<sp who='SÉMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
 	<l id='269'>Je vois qu'on me trahit, et je crains votre père,</l>
 	<l id='270'>Mais sans le soupçonner d'un odieux mystère ;</l>
 	<l id='271'>Et quand même il aurait mérité mon courroux,</l>
 	<l id='272'>Mon injuste rigueur n'irait point jusqu'à vous.</l>
 </sp>
-<sp who='TENESIS'><speaker>TÉNÉSIS.</speaker>
+<sp who='TÉNÉSIS'><speaker>TÉNÉSIS.</speaker>
 	<l id='273'>Au grand coeur de Bélus rendez plus de justice :</l>
 	<l id='274'>Sa vertu n'admet point un si noir artifice.</l>
 	<l id='275'>C'est de cette vertu que je crains les transports.</l>
@@ -415,7 +413,7 @@
 	<l id='297'>Je vous en dis assez pour vous faire comprendre</l>
 	<l id='298'>Tout ce que ma fierté craint de vous faire entendre.</l>
 </sp>
-<sp who='TENESIS'><speaker>TÉNÉSIS.</speaker>
+<sp who='TÉNÉSIS'><speaker>TÉNÉSIS.</speaker>
 	<l id='299'>Je conçois aisément qu'une cruelle ardeur</l>
 	<l id='300'>De vos jours malgré vous a troublé la douceur.</l>
 	<l id='301'>Le reste est un secret que mon respect, Madame,</l>
@@ -427,37 +425,37 @@
 	<l id='307'>J'avais cru jusqu'ici que pour plaire à vos yeux</l>
 	<l id='308'>Il fallait ou des rois, ou des enfants des dieux.</l>
 </sp>
-<sp who='SEMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
+<sp who='SÉMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
 	<l id='309'>Et voilà ce qui met le trouble dans mon âme,</l>
 	<l id='310'>Et qui me fait rougir d'une honteuse flamme.</l>
 	<l id='311'>Agénor inconnu ne compte point d'aïeux</l>
 	<l id='312'>Pour me justifier d'un amour odieux.</l>
 </sp>
-<sp who='TENESIS'><speaker>TÉNÉSIS.</speaker>
-	<l id='313' part='i'>Agénor !</l>
+<sp who='TÉNÉSIS'><speaker>TÉNÉSIS.</speaker>
+	<l id='313' syll="3" part="i">Agénor !</l>
 </sp>
-<sp who='SEMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
-	<l id='313' part='f'>Le voilà, ce vainqueur redoutable,</l>
+<sp who='SÉMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
+	<l id='313' syll="9" part="f">Le voilà, ce vainqueur redoutable,</l>
 	<l id='314'>Qu'un front sans ornement ne rend pas moins aimable ;</l>
 	<l id='315'>Plus terrible lui seul que tous mes ennemis,</l>
 	<l id='316'>Et plus cruel pour moi que ceux qu'il m'a soumis.</l>
 	<l id='317'>Ma raison s'arme en vain de quelques étincelles :</l>
 	<l id='318'>Mon coeur semble grossir le nombre des rebelles.</l>
 </sp>
-<sp who='TENESIS'><speaker>TÉNÉSIS.</speaker>
+<sp who='TÉNÉSIS'><speaker>TÉNÉSIS.</speaker>
 	<l id='319'>Madame, et quel dessein a-t-il donc pu former ?</l>
-	<l id='320' part='i'>En aimant Agénor, que prétend-il ?</l>
+	<l id='320' syll="10" part="i">En aimant Agénor, que prétend-il ?</l>
 </sp>
-<sp who='SEMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
-	<l id='320' part='f'>L'aimer ;</l>
+<sp who='SÉMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
+	<l id='320' syll="2" part="f">L'aimer ;</l>
 	<l id='321'>Et, si ce n'est assez, lui partager encore</l>
 	<l id='322'>Un sceptre qu'aussi bien mon amour déshonore.</l>
 </sp>
-<sp who='TENESIS'><speaker>TÉNÉSIS.</speaker>
+<sp who='TÉNÉSIS'><speaker>TÉNÉSIS.</speaker>
 	<l id='323'>Ah ! Ciel ! Et que dira l'univers étonné ?</l>
 	<l id='324'>À quels soins ce grand coeur s'est-il abandonné ?</l>
 </sp>
-<sp who='SEMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
+<sp who='SÉMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
 	<l id='325'>J'ai fait taire ma gloire, et tu veux que je craigne</l>
 	<l id='326'>Les discours importuns de ceux sur qui je règne !</l>
 	<l id='327'>Ténésis, plût aux dieux que mon funeste amour</l>
@@ -482,10 +480,10 @@
 	<l id='346'>Tu sais ce que pour moi notre amitié t'impose ;</l>
 	<l id='347'>J'en exige aujourd'hui des efforts généreux...</l>
 </sp>
-<sp who='TENESIS'><speaker>TÉNÉSIS.</speaker>
+<sp who='TÉNÉSIS'><speaker>TÉNÉSIS.</speaker>
 	<l id='348'>Hé ! Que puis-je pour vous qui réponde à vos voeux ?</l>
 </sp>
-<sp who='SEMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
+<sp who='SÉMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
 	<l id='349'>Il faut faire approuver mon amour à mon frère,</l>
 	<l id='350'>Fléchir en sa faveur sa vertu trop austère.</l>
 	<l id='351'>Retenir dans son coeur des leçons que je crains.</l>
@@ -513,7 +511,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI.</head>
-<sp who='TENESIS'><speaker>TÉNÉSIS.</speaker>
+<sp who='TÉNÉSIS'><speaker>TÉNÉSIS.</speaker>
 	<l id='373'>Est-ce à moi, juste ciel ! Que ce discours s'adresse ?</l>
 	<l id='374'>Qu'oses-tu m'avouer, téméraire princesse ?</l>
 	<l id='375'>Que je plains ton amour, faible Sémiramis,</l>
@@ -563,7 +561,7 @@
 </div1>
 <div1 type="act" n='2'><head>ACTE II</head>
 <div2 type="scene" n='1'><head>SCÈNE I. Agénor, Mirame.</head>
-<sp who='AGENOR'><speaker>AGÉNOR.</speaker>
+<sp who='AGÉNOR'><speaker>AGÉNOR.</speaker>
 	<l id='417'>Où suis-je ? Dans quels lieux la fortune me guide !</l>
 	<l id='418'>Dieux, que réservez-vous au fils de Mermécide ?</l>
 	<l id='419'>Vains honneurs qu'Agénor n'a que trop recherchés,</l>
@@ -598,7 +596,7 @@
 	<l id='446'>En volant sur vos pas, de plus près vous éclaire.</l>
 	<l id='447'>Après ce que pour vous a fait Sémiramis...</l>
 </sp>
-<sp who='AGENOR'><speaker>AGÉNOR.</speaker>
+<sp who='AGÉNOR'><speaker>AGÉNOR.</speaker>
 	<l id='448'>Laissons-là ses bienfaits : parle de Ténésis ;</l>
 	<l id='449'>Dans ces superbes lieux voilà ce qui m'amène :</l>
 	<l id='450'>Tout autre soin ne fait que redoubler ma peine.</l>
@@ -617,7 +615,7 @@
 	<l id='461'>Pour oser vous flatter de tromper sa tendresse.</l>
 	<l id='462'>Songez à quels périls vous livrez la princesse.</l>
 </sp>
-<sp who='AGENOR'><speaker>AGÉNOR.</speaker>
+<sp who='AGÉNOR'><speaker>AGÉNOR.</speaker>
 	<l id='463'>Je ne le sais que trop, et c'est le seul effroi</l>
 	<l id='464'>Qui de tant de dangers soit venu jusqu'à moi ;</l>
 	<l id='465'>D'autant plus alarmé, que, déjà las de feindre,</l>
@@ -651,33 +649,33 @@
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Agénor, Ténésis.</head>
-<sp who='TENESIS'><speaker>TÉNÉSIS.</speaker>
-	<l id='493' part='i'>Je vous cherche, Seigneur.</l>
+<sp who='TÉNÉSIS'><speaker>TÉNÉSIS.</speaker>
+	<l id='493' syll="6" part="i">Je vous cherche, Seigneur.</l>
 </sp>
-<sp who='AGENOR'><speaker>AGÉNOR.</speaker>
-	<l id='493' part='m'>Moi, Madame ?</l>
+<sp who='AGÉNOR'><speaker>AGÉNOR.</speaker>
+	<l id='493' syll="3" part="m">Moi, Madame ?</l>
 </sp>
-<sp who='TENESIS'><speaker>TÉNÉSIS.</speaker>
-	<l id='493' part='f'>Oui, vous-même,</l>
+<sp who='TÉNÉSIS'><speaker>TÉNÉSIS.</speaker>
+	<l id='493' syll="3" part="f">Oui, vous-même,</l>
 	<l id='494'>Et vous cherche de plus par un ordre suprême.</l>
 	<l id='495'>Pour remplir votre espoir par des soins éclatants,</l>
 	<l id='496'>Je viens vous révéler des secrets importants.</l>
 </sp>
-<sp who='AGENOR'><speaker>AGÉNOR.</speaker>
+<sp who='AGÉNOR'><speaker>AGÉNOR.</speaker>
 	<l id='497'>Quel que soit le dessein qui vers moi vous adresse,</l>
 	<l id='498'>Madame, plût au ciel, dans le soin qui vous presse,</l>
 	<l id='499'>Que, de tous les secrets qu'on veut me révéler,</l>
 	<l id='500'>À quelques-uns des miens un seul pût ressembler !</l>
 	<l id='501'>Que, las de les garder, mon coeur souffre à les taire !</l>
 </sp>
-<sp who='TENESIS'><speaker>TÉNÉSIS.</speaker>
+<sp who='TÉNÉSIS'><speaker>TÉNÉSIS.</speaker>
 	<l id='502'>Je n'en viens point, Seigneur, pénétrer le mystère ;</l>
 	<l id='503'>Je n'ai pas prétendu vous déclarer les miens,</l>
 	<l id='504'>Et votre coeur pour lui peut réserver les siens :</l>
 	<l id='505'>Le soin de les savoir n'est pas ce qui m'amène ;</l>
 	<l id='506'>Je ne m'empresse ici que pour ceux de la reine.</l>
 </sp>
-<sp who='AGENOR'><speaker>AGÉNOR.</speaker>
+<sp who='AGÉNOR'><speaker>AGÉNOR.</speaker>
 	<l id='507'>Ah ! Madame, daignez vous épargner ce soin ;</l>
 	<l id='508'>Votre zèle pour elle irait en vain plus loin :</l>
 	<l id='509'>Je ne veux rien savoir des secrets de la reine,</l>
@@ -693,7 +691,7 @@
 	<l id='519'>Et quel est son espoir, ou plutôt son erreur ?</l>
 	<l id='520'>Que vous pénétrez peu l'une et l'autre en mon coeur !</l>
 </sp>
-<sp who='TENESIS'><speaker>TÉNÉSIS.</speaker>
+<sp who='TÉNÉSIS'><speaker>TÉNÉSIS.</speaker>
 	<l id='521'>Qu'elle s'abuse ou non sur ce qu'elle en espère,</l>
 	<l id='522'>Vous pourrez avec elle éclaircir ce mystère :</l>
 	<l id='523'>Je ne me charge ici que de vous informer</l>
@@ -703,7 +701,7 @@
 	<l id='527'>Sa tendresse et sa main sont d'un assez grand prix</l>
 	<l id='528'>Pour ne pas s'attirer un injuste mépris.</l>
 </sp>
-<sp who='AGENOR'><speaker>AGÉNOR.</speaker>
+<sp who='AGÉNOR'><speaker>AGÉNOR.</speaker>
 	<l id='529'>Les dieux, pour ajouter à sa grandeur suprême,</l>
 	<l id='530'>Eussent-ils dans ses mains mis leur puissance même,</l>
 	<l id='531'>Il est pour Agénor un bien plus précieux</l>
@@ -733,7 +731,7 @@
 	<l id='555'>Les miens ne sont ouverts que pour les admirer,</l>
 	<l id='556'>Et mon coeur n'était fait que pour les adorer.</l>
 </sp>
-<sp who='TENESIS'><speaker>TÉNÉSIS.</speaker>
+<sp who='TÉNÉSIS'><speaker>TÉNÉSIS.</speaker>
 	<l id='557'>Je n'ai que trop prévu que l'amour de la reine</l>
 	<l id='558'>Exciterait en vous une audace si vaine ;</l>
 	<l id='559'>Et, mesurant bientôt tous les coeurs sur le sien,</l>
@@ -764,13 +762,13 @@
 	<l id='584'>Ce qu'il faut espérer de sa fille et de lui.</l>
 <stage type="exit">Elle sort. </stage>
 </sp>
-<sp who='AGENOR'><speaker>AGÉNOR, seul.</speaker>
+<sp stage="alone" who='AGÉNOR'><speaker>AGÉNOR, seul.</speaker>
 	<l id='585'>Qu'entends-je ? Quel mépris ! Ah ! C'en est trop, ingrate ;</l>
 	<l id='586'>Vous n'abuserez plus d'un amour qui vous flatte.</l>
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Agénor, Bélus.</head>
-<sp who='AGENOR'><speaker>AGÉNOR.</speaker>
+<sp who='AGÉNOR'><speaker>AGÉNOR.</speaker>
 	<l id='587'>Mais j'aperçois Bélus ; fuyons un entretien</l>
 	<l id='588'>Qui ne peut plus qu'aigrir et son coeur et le mien.</l>
 </sp>
@@ -784,21 +782,21 @@
 	<l id='595'>L'esprit avec justice indigné de ce bruit,</l>
 	<l id='596'>J'ai voulu par vous-même en être mieux instruit.</l>
 </sp>
-<sp who='AGENOR'><speaker>AGÉNOR.</speaker>
+<sp who='AGÉNOR'><speaker>AGÉNOR.</speaker>
 	<l id='597'>Si ce bruit, quel qu'il soit, a de quoi vous surprendre,</l>
 	<l id='598'>De la reine, Seigneur, ne pouviez-vous l'apprendre ?</l>
 </sp>
 <sp who='BÉLUS'><speaker>BÉLUS.</speaker>
 	<l id='599'>Ah ! Je ne sais que trop ses projets insensés.</l>
 </sp>
-<sp who='AGENOR'><speaker>AGÉNOR.</speaker>
+<sp who='AGÉNOR'><speaker>AGÉNOR.</speaker>
 	<l id='600'>Et moi de vos secrets plus que vous ne pensez.</l>
 </sp>
 <sp who='BÉLUS'><speaker>BÉLUS.</speaker>
 	<l id='601'>Si jamais votre coeur fut vraiment magnanime,</l>
 	<l id='602'>Vous n'aurez donc pour moi conçu que de l'estime.</l>
 </sp>
-<sp who='AGENOR'><speaker>AGÉNOR.</speaker>
+<sp who='AGÉNOR'><speaker>AGÉNOR.</speaker>
 	<l id='603'>Je ne démêle point les divers intérêts</l>
 	<l id='604'>Qui vous font en ces lieux former tant de projets :</l>
 	<l id='605'>Il m'a suffi, savant dans l'art de les détruire,</l>
@@ -812,7 +810,7 @@
 	<l id='611'>Mon coeur n'est point ingrat ; cependant je sens bien</l>
 	<l id='612'>Qu'il voudrait vous haïr et ne vous devoir rien.</l>
 </sp>
-<sp who='AGENOR'><speaker>AGÉNOR.</speaker>
+<sp who='AGÉNOR'><speaker>AGÉNOR.</speaker>
 	<l id='613'>Je vais donc aujourd'hui, par un aveu sincère,</l>
 	<l id='614'>Justifier ici cette haine si chère.</l>
 	<l id='615'>Vous avez cru sans doute, en votre vain courroux,</l>
@@ -833,10 +831,10 @@
 	<l id='630'>Ou que sans ses mépris j'adorerais encore.</l>
 </sp>
 <sp who='BÉLUS'><speaker>BÉLUS.</speaker>
-	<l id='631' part='i'>Ma fille ! Ténésis ?</l>
+	<l id='631' syll="6" part="i">Ma fille ! Ténésis ?</l>
 </sp>
-<sp who='AGENOR'><speaker>AGÉNOR.</speaker>
-	<l id='631' part='f'>Un captif tel que moi</l>
+<sp who='AGÉNOR'><speaker>AGÉNOR.</speaker>
+	<l id='631' syll="6" part="f">Un captif tel que moi</l>
 	<l id='632'>Honorerait ses fers, même sans qu'il fût roi.</l>
 </sp>
 <sp who='BÉLUS'><speaker>BÉLUS.</speaker>
@@ -845,7 +843,7 @@
 	<l id='635'>Quoi ! D'aïeux sans éclat Agénor descendu</l>
 	<l id='636'>À l'hymen de ma fille aurait-il prétendu ?</l>
 </sp>
-<sp who='AGENOR'><speaker>AGÉNOR.</speaker>
+<sp who='AGÉNOR'><speaker>AGÉNOR.</speaker>
 	<l id='637'>On vante peu le sang dont j'ai reçu la vie ;</l>
 	<l id='638'>Mais je n'en connais point à qui je porte envie :</l>
 	<l id='639'>D'aucun soin sur ce point mon coeur n'est combattu,</l>
@@ -883,7 +881,7 @@
 	<l id='669'>Sur un sang aussi beau si votre amour se fonde,</l>
 	<l id='670'>Venez la disputer au souverain du monde.</l>
 </sp>
-<sp who='AGENOR'><speaker>AGÉNOR.</speaker>
+<sp who='AGÉNOR'><speaker>AGÉNOR.</speaker>
 	<l id='671'>L'orgueil de ces grands noms n'éblouit point mes yeux</l>
 	<l id='672'>Le mien, sans ce secours, est assez glorieux</l>
 	<l id='673'>Pour ne rien voir ici dont ma fierté s'étonne.</l>
@@ -908,7 +906,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV.</head>
-<sp who='AGENOR'><speaker>AGÉNOR.</speaker>
+<sp who='AGÉNOR'><speaker>AGÉNOR.</speaker>
 	<l id='689'>Ah ! Dût-il m'en coûter le repos de ma vie ;</l>
 	<l id='690'>Je veux de leur mépris punir l'ignominie.</l>
 	<l id='691'>La reine vient : parlons, irritons son ardeur,</l>
@@ -917,7 +915,7 @@
 	<l id='694'>Le moment de raison que mon dépit me laisse.</l></sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Sémiramis, Agénor.</head>
-<sp who='SEMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
+<sp who='SÉMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
 	<l id='695'>Invincible héros, seul appui de mes jours,</l>
 	<l id='696'>À quel autre aujourd'hui pourrais-je avoir recours ?</l>
 	<l id='697'>Je viens de pénétrer le plus affreux mystère.</l>
@@ -930,10 +928,10 @@
 	<l id='704'>M'en fait des ennemis déclarés ou secrets.</l>
 	<l id='705'>L'auriez-vous soupçonné d'une action si noire ?</l>
 </sp>
-<sp who='AGENOR'><speaker>AGÉNOR.</speaker>
+<sp who='AGÉNOR'><speaker>AGÉNOR.</speaker>
 	<l id='706'>D'un prince tel que lui vous devez peu la croire.</l>
 </sp>
-<sp who='SEMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
+<sp who='SÉMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
 	<l id='707'>Seigneur, il n'est plus temps de le justifier :</l>
 	<l id='708'>Il ne faut plus songer qu'à le sacrifier.</l>
 	<l id='709'>Ma tendresse pour lui ne fut que trop sincère ;</l>
@@ -948,28 +946,28 @@
 	<l id='718'>Mégabise, Seigneur, dans ces murs va paraître :</l>
 	<l id='719'>Je le fais en secret apporter en ces lieux.</l>
 </sp>
-<sp who='AGENOR'><speaker>AGÉNOR.</speaker>
+<sp who='AGÉNOR'><speaker>AGÉNOR.</speaker>
 	<l id='720'>Madame, devez-vous en croire un furieux ?</l>
 	<l id='721'>Il est vrai qu'il accuse et Bélus et Madate.</l>
 </sp>
-<sp who='SEMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
+<sp who='SÉMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
 	<l id='722'>Vous voyez s'il est temps que ma vengeance éclate.</l>
 </sp>
-<sp who='AGENOR'><speaker>AGÉNOR.</speaker>
+<sp who='AGÉNOR'><speaker>AGÉNOR.</speaker>
 	<l id='723'>Il faut dissimuler un si juste courroux :</l>
 	<l id='724'>Bélus est dans ces lieux aussi puissant que vous.</l>
 	<l id='725'>Gardez-vous d'éclater plus que jamais, Madame,</l>
 	<l id='726'>Vous devez renfermer vos transports dans votre âme.</l>
 	<l id='727'>Tout un peuple, pour lui prêt à se déclarer...</l>
 </sp>
-<sp who='SEMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
+<sp who='SÉMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
 	<l id='728'>Eh bien ! Pendant la nuit il faut s'en assurer.</l>
 	<l id='729'>C'est de vous que j'attends cet important service,</l>
 	<l id='730'>Vous, pour qui seul ici j'ordonne son supplice.</l>
 	<l id='731'>Seigneur, vous vous troublez ! Je ne sais quels transports</l>
 	<l id='732'>éclatent dans vos yeux malgré tous vos efforts.</l>
 </sp>
-<sp who='AGENOR'><speaker>AGÉNOR.</speaker>
+<sp who='AGÉNOR'><speaker>AGÉNOR.</speaker>
 	<l id='733'>Reine, je l'avouerai qu'à regret contre un frère</l>
 	<l id='734'>Mon bras vous prêterait ici mon ministère :</l>
 	<l id='735'>Non que de vous servir il néglige l'emploi,</l>
@@ -977,7 +975,7 @@
 	<l id='737'>Vous ne m'en verrez pas moins prompt à vous défendre,</l>
 	<l id='738'>Contre des jours si chers si l'on ose entreprendre.</l>
 </sp>
-<sp who='SEMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
+<sp who='SÉMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
 	<l id='739'>Ah ! Seigneur, ce n'est pas l'intérêt de mes jours</l>
 	<l id='740'>Qui me fait d'un héros implorer le secours.</l>
 	<l id='741'>Plût au ciel que Bélus n'en voulût qu'à ma vie !</l>
@@ -991,10 +989,10 @@
 	<l id='749'>Et le vôtre du moins, plein de reconnaissance,</l>
 	<l id='750'>Rassurerait du mien la timide espérance.</l>
 </sp>
-<sp who='AGENOR'><speaker>AGÉNOR.</speaker>
+<sp who='AGÉNOR'><speaker>AGÉNOR.</speaker>
 	<l id='751'>La princesse a daigné, dans un long entretien...</l>
 </sp>
-<sp who='SEMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
+<sp who='SÉMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
 	<l id='752'>Hé quoi ! Vous l'avez vue, et ne m'en dites rien !</l>
 	<l id='753'>On sait tout, cependant on garde un froid silence !</l>
 	<l id='754'>On se trouble, on soupire, et même en ma présence !</l>
@@ -1003,7 +1001,7 @@
 	<l id='757'>Ah ! Seigneur, pardonnez ces pleurs à mes alarmes,</l>
 	<l id='758'>Et n'accusez que vous de mes premières larmes.</l>
 </sp>
-<sp who='AGENOR'><speaker>AGÉNOR.</speaker>
+<sp who='AGÉNOR'><speaker>AGÉNOR.</speaker>
 	<l id='759'>Quand on est, comme vous, si ressemblante aux dieux,</l>
 	<l id='760'>Dans le coeur des mortels on devrait lire mieux.</l>
 	<l id='761'>Que n'en doit point attendre une reine si belle ?</l>
@@ -1018,7 +1016,7 @@
 	<l id='769'>Mais tel qu'il est enfin, si ce coeur peut vous plaire,</l>
 	<l id='770'>J'accepte tous les dons que vous voulez me faire.</l>
 </sp>
-<sp who='SEMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
+<sp who='SÉMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
 	<l id='771'>Que vous me rassurez par un aveu si doux !</l>
 	<l id='772'>Qu'avec crainte, Seigneur, j'ai paru devant vous !</l>
 	<l id='773'>Hélas ! Sans se flatter, une reine coupable</l>
@@ -1187,12 +1185,12 @@
 	<l id='906'>Lui doive un assassin après un parricide ;</l>
 	<l id='907'>Grands dieux ! Si vous n'osez vous joindre à mon courroux,</l>
 	<l id='908'>Daignez pour un moment m'associer à vous.</l>
-	<l id='909' part='i'>On vient...</l>
+	<l id='909' syll="2" part="i">On vient...</l>
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Agénor, Bélus.</head>
 <sp who='BÉLUS'><speaker>BÉLUS.</speaker>
-	<l id='909' part='f'>C'est l'étranger. Que de trouble à sa vue</l>
+	<l id='909' syll="10" part="f">C'est l'étranger. Que de trouble à sa vue</l>
 	<l id='910'>S'élève tout à coup dans mon âme éperdue !</l>
 <stage type="toward">À Agénor. </stage>
 	<l id='911'>N'est-ce point abuser des moments d'Agénor,</l>
@@ -1202,7 +1200,7 @@
 	<l id='915'>Après un entretien mêlé de tant d'aigreur,</l>
 	<l id='916'>Puis-je en espérer un plus conforme à mon coeur ?</l>
 </sp>
-<sp who='AGENOR'><speaker>AGÉNOR.</speaker>
+<sp who='AGÉNOR'><speaker>AGÉNOR.</speaker>
 	<l id='917'>Dès qu'il en bannira l'orgueil et la menace,</l>
 	<l id='918'>Qu'il n'ira point lui-même exciter mon audace,</l>
 	<l id='919'>Bélus peut-il penser qu'Agénor aujourd'hui</l>
@@ -1252,7 +1250,7 @@
 	<l id='961'>Quel était donc l'espoir du feu qui vous anime ?</l>
 	<l id='962'>Vous saviez mes projets ; ignorez-vous son crime ?</l>
 </sp>
-<sp who='AGENOR'><speaker>AGÉNOR.</speaker>
+<sp who='AGÉNOR'><speaker>AGÉNOR.</speaker>
 	<l id='963'>Et que m'importe à moi ce forfait odieux ?</l>
 	<l id='964'>Est-ce à moi sur ce point de prévenir les dieux ?</l>
 	<l id='965'>Pour vous charger ici du soin de son supplice,</l>
@@ -1312,7 +1310,7 @@
 	<l id='1017'>Abandonnez la soeur, je vous réponds du frère.</l>
 	<l id='1018'>Dites-moi, Ténésis vous est-elle encor chère ?</l>
 </sp>
-<sp who='AGENOR'><speaker>AGÉNOR.</speaker>
+<sp who='AGÉNOR'><speaker>AGÉNOR.</speaker>
 	<l id='1019'>Cruel ! N'achevez pas, j'entrevois vos desseins :</l>
 	<l id='1020'>Offrez à d'autres voeux vos présents inhumains.</l>
 	<l id='1021'>Laissez-moi ma vertu : la vôtre, trop farouche,</l>
@@ -1354,7 +1352,7 @@
 	<l id='1055'>Fait-il donc consister sa gloire à protéger</l>
 	<l id='1056'>Des crimes dont déjà vous m'auriez dû venger ?</l>
 </sp>
-<sp who='AGENOR'><speaker>AGÉNOR.</speaker>
+<sp who='AGÉNOR'><speaker>AGÉNOR.</speaker>
 	<l id='1057'>Voyez où vous emporte une aveugle colère.</l>
 	<l id='1058'>Eh ! Qui défends-je ici ? La soeur contre le frère.</l>
 	<l id='1059'>Votre coeur croit en vain l'emporter sur le mien :</l>
@@ -1386,7 +1384,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Bélus, Ténésis.</head>
-<sp who='TENESIS'><speaker>TÉNÉSIS.</speaker>
+<sp who='TÉNÉSIS'><speaker>TÉNÉSIS.</speaker>
 	<l id='1081'>Ah ! Seigneur, est-ce vous ? Que mon âme éperdue</l>
 	<l id='1082'>Avait besoin ici d'une si chère vue !</l>
 	<l id='1083'>Je ne sais quels projets on médite en ces lieux ;</l>
@@ -1410,7 +1408,7 @@
 	<l id='1099'>Ma chère Ténésis ! On sait tous mes projets,</l>
 	<l id='1100'>Et c'est contre moi seul que se font tant d'apprêts.</l>
 </sp>
-<sp who='TENESIS'><speaker>TÉNÉSIS.</speaker>
+<sp who='TÉNÉSIS'><speaker>TÉNÉSIS.</speaker>
 	<l id='1101'>Pourquoi donc en ces lieux vous arrêter encore ?</l>
 	<l id='1102'>Souffrez que pour vous-même ici je vous implore :</l>
 	<l id='1103'>Fuyez ; daignez du moins tenter quelque secours</l>
@@ -1438,7 +1436,7 @@
 	<l id='1123'>Je me suis abaissé jusques à supplier ;</l>
 	<l id='1124'>Mais qu'un vil étranger vient de m'humilier !</l>
 </sp>
-<sp who='TENESIS'><speaker>TÉNÉSIS.</speaker>
+<sp who='TÉNÉSIS'><speaker>TÉNÉSIS.</speaker>
 	<l id='1125'>Je vous connais tous deux : violents l'un et l'autre,</l>
 	<l id='1126'>Son coeur fier n'aura pas voulu céder au vôtre :</l>
 	<l id='1127'>Une timide voix saura mieux le fléchir,</l>
@@ -1456,7 +1454,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII.</head>
-<sp who='TENESIS'><speaker>TÉNÉSIS.</speaker>
+<sp who='TÉNÉSIS'><speaker>TÉNÉSIS.</speaker>
 	<l id='1137'>Ô sort ! Si notre sang te doit quelques victimes,</l>
 	<l id='1138'>La reine à ton courroux n'offre que trop de crimes !</l>
 	<l id='1139'>Hélas ! C'en est donc fait, et je touche au moment</l>
@@ -1496,7 +1494,7 @@
 </div1>
 <div1 type="act" n='4'><head>ACTE IV</head>
 <div2 type="scene" n='1'><head>SCÈNE I.</head>
-<sp who='AGENOR'><speaker>AGÉNOR.</speaker>
+<sp who='AGÉNOR'><speaker>AGÉNOR.</speaker>
 	<l id='1171'>Où vais-je ? Malheureux ! Et quel est mon espoir ?</l>
 	<l id='1172'>Indomptable fierté, chimérique devoir,</l>
 	<l id='1173'>Si tu veux qu'à tes lois la gloire encor m'enchaîne,</l>
@@ -1516,7 +1514,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Agénor, Ténésis.</head>
-<sp who='TENESIS'><speaker>TÉNÉSIS.</speaker>
+<sp who='TÉNÉSIS'><speaker>TÉNÉSIS.</speaker>
 	<l id='1187'>Ne fuyez point, Seigneur : un coeur si généreux</l>
 	<l id='1188'>Ne doit pas éviter l'abord des malheureux.</l>
 	<l id='1189'>Hélas ! Je ne viens point pour troubler par mes larmes</l>
@@ -1542,7 +1540,7 @@
 	<l id='1209'>Daignez prendre pitié d'une triste famille :</l>
 	<l id='1210'>N'immolez pas du moins le père avec la fille.</l>
 </sp>
-<sp who='AGENOR'><speaker>AGÉNOR.</speaker>
+<sp who='AGÉNOR'><speaker>AGÉNOR.</speaker>
 	<l id='1211'>Ah ! Ne m'outragez point par cet indigne effroi ;</l>
 	<l id='1212'>Si j'immole quelqu'un, ce ne sera que moi.</l>
 	<l id='1213'>N'accablez point vous-même un amant déplorable,</l>
@@ -1572,7 +1570,7 @@
 	<l id='1237'>À des périls trop sûrs c'est exposer ma gloire,</l>
 	<l id='1238'>Que d'oser à vos yeux disputer la victoire.</l>
 </sp>
-<sp who='TENESIS'><speaker>TÉNÉSIS.</speaker>
+<sp who='TÉNÉSIS'><speaker>TÉNÉSIS.</speaker>
 	<l id='1239'>Hélas ! Malgré les soins de ce que je me dois,</l>
 	<l id='1240'>Que la mienne, Seigneur, sera triste pour moi !</l>
 	<l id='1241'>Qu'Agénor frémirait de mon destin barbare,</l>
@@ -1602,24 +1600,24 @@
 	<l id='1265'>Il n'en est pas moins vrai qu'un funeste hyménée</l>
 	<l id='1266'>Aux lois d'un autre époux soumet ma destinée.</l>
 </sp>
-<sp who='AGENOR'><speaker>AGÉNOR.</speaker>
-	<l id='1267' part='i'>Vous, Madame ?</l>
+<sp who='AGÉNOR'><speaker>AGÉNOR.</speaker>
+	<l id='1267' syll="3" part="i">Vous, Madame ?</l>
 </sp>
-<sp who='TENESIS'><speaker>TÉNÉSIS.</speaker>
-	<l id='1267' part='f'>Et j'ai cru devoir vous révéler</l>
+<sp who='TÉNÉSIS'><speaker>TÉNÉSIS.</speaker>
+	<l id='1267' syll="9" part="f">Et j'ai cru devoir vous révéler</l>
 	<l id='1268'>Ce qu'ici vainement je voudrais vous celer.</l>
-	<l id='1269' part='i'>Ce serait vous trahir...</l>
+	<l id='1269' syll="6" part="i">Ce serait vous trahir...</l>
 </sp>
-<sp who='AGENOR'><speaker>AGÉNOR.</speaker>
-	<l id='1269' part='f'>Ah ! Cruelle princesse,</l>
+<sp who='AGÉNOR'><speaker>AGÉNOR.</speaker>
+	<l id='1269' syll="6" part="f">Ah ! Cruelle princesse,</l>
 	<l id='1270'>De quel barbare prix payez-vous ma tendresse !</l>
 	<l id='1271'>Et puisqu'enfin j'allais abandonner ces lieux,</l>
 	<l id='1272'>Pourquoi me dévoiler ces secrets odieux ?</l>
 </sp>
-<sp who='TENESIS'><speaker>TÉNÉSIS.</speaker>
+<sp who='TÉNÉSIS'><speaker>TÉNÉSIS.</speaker>
 	<l id='1273'>Trop d'espoir eût séduit votre âme généreuse.</l>
 </sp>
-<sp who='AGENOR'><speaker>AGÉNOR.</speaker>
+<sp who='AGÉNOR'><speaker>AGÉNOR.</speaker>
 	<l id='1274'>Mais il en eût rendu la douleur moins affreuse.</l>
 	<l id='1275'>Hélas ! Que le destin, en unissant nos coeurs,</l>
 	<l id='1276'>S'est bien fait un plaisir d'égaler nos malheurs !</l>
@@ -1634,14 +1632,14 @@
 	<l id='1285'>S'ils ont pu se former, qu'elle doit être belle !</l>
 	<l id='1286'>La seule Ténésis l'emporterait sur elle.</l>
 	<l id='1287'>Que vous plaindrez mon sort à ce fatal récit !</l>
-	<l id='1288' part='i'>Près de Sinope...</l>
+	<l id='1288' syll="4" part="i">Près de Sinope...</l>
 </sp>
-<sp who='TENESIS'><speaker>TÉNÉSIS.</speaker>
-	<l id='1288' part='f'>Ô ciel ! Quel trouble me saisit !</l>
+<sp who='TÉNÉSIS'><speaker>TÉNÉSIS.</speaker>
+	<l id='1288' syll="8" part="f">Ô ciel ! Quel trouble me saisit !</l>
 	<l id='1289'>Ne fut-ce point, Seigneur, près d'un antre terrible,</l>
 	<l id='1290'>Des décrets du destin interprète invisible ?</l>
 </sp>
-<sp who='AGENOR'><speaker>AGÉNOR.</speaker>
+<sp who='AGÉNOR'><speaker>AGÉNOR.</speaker>
 	<l id='1291'>C'est là, pour la première et la dernière fois,</l>
 	<l id='1292'>Que je vis la beauté qu'on soumit à mes lois.</l>
 <note type="L">Pyrope : Terme d'antiquité . Mélange de quatre parties de cuivre et d'une partie d'or, dont les anciens faisaient usage. [L]</note>
@@ -1654,46 +1652,46 @@
 	<l id='1299'>Un prêtre, deux vieillards, nul esclave près d'eux :</l>
 	<l id='1300'>De la pourpre des rois on nous orna tous deux.</l>
 </sp>
-<sp who='TENESIS'><speaker>TÉNÉSIS.</speaker>
+<sp who='TÉNÉSIS'><speaker>TÉNÉSIS.</speaker>
 	<l id='1301'>Mais, Seigneur, à l'autel ne vit-on point vos mères ?</l>
 </sp>
-<sp who='AGENOR'><speaker>AGÉNOR.</speaker>
+<sp who='AGÉNOR'><speaker>AGÉNOR.</speaker>
 	<l id='1302'>L'un et l'autre avec nous nous n'avions que nos pères.</l>
 </sp>
-<sp who='TENESIS'><speaker>TÉNÉSIS.</speaker>
-	<l id='1303' part='i'>Achevez.</l>
+<sp who='TÉNÉSIS'><speaker>TÉNÉSIS.</speaker>
+	<l id='1303' syll="3" part="i">Achevez.</l>
 </sp>
-<sp who='AGENOR'><speaker>AGÉNOR.</speaker>
-	<l id='1303' part='m'>J'ai tout dit.</l>
+<sp who='AGÉNOR'><speaker>AGÉNOR.</speaker>
+	<l id='1303' syll="3" part="m">J'ai tout dit.</l>
 </sp>
-<sp who='TENESIS'><speaker>TÉNÉSIS.</speaker>
-	<l id='1303' part='f'>Hélas ! C'était donc vous ?</l>
+<sp who='TÉNÉSIS'><speaker>TÉNÉSIS.</speaker>
+	<l id='1303' syll="6" part="f">Hélas ! C'était donc vous ?</l>
 </sp>
-<sp who='AGENOR'><speaker>AGÉNOR.</speaker>
-	<l id='1304' part='i'>Quoi ! Madame...</l>
+<sp who='AGÉNOR'><speaker>AGÉNOR.</speaker>
+	<l id='1304' syll="3" part="i">Quoi ! Madame...</l>
 </sp>
-<sp who='TENESIS'><speaker>TÉNÉSIS.</speaker>
-	<l id='1304' part='f'>Ah ! Seigneur, vous êtes mon époux.</l>
+<sp who='TÉNÉSIS'><speaker>TÉNÉSIS.</speaker>
+	<l id='1304' syll="9" part="f">Ah ! Seigneur, vous êtes mon époux.</l>
 	<l id='1305'>Moi, votre époux ! Qui ? Moi, le fils de Mermécide !</l>
 </sp>
-<sp who='TENESIS'><speaker>TÉNÉSIS.</speaker>
+<sp who='TÉNÉSIS'><speaker>TÉNÉSIS.</speaker>
 	<l id='1306'>Ah ! Seigneur, ce nom seul de notre hymen décide :</l>
 	<l id='1307'>Bélus m'en a parlé cent fois avec transport,</l>
 	<l id='1308'>De ce fils disparu plaignant toujours le sort.</l>
 	<l id='1309'>De celui des humains ce fils doit être arbitre.</l>
 </sp>
-<sp who='AGENOR'><speaker>AGÉNOR.</speaker>
+<sp who='AGÉNOR'><speaker>AGÉNOR.</speaker>
 	<l id='1310'>Mon coeur est moins touché d'un si superbe titre,</l>
-	<l id='1311' part='i'>Que d'un bien...</l>
+	<l id='1311' syll="3" part="i">Que d'un bien...</l>
 </sp>
-<sp who='TENESIS'><speaker>TÉNÉSIS.</speaker>
-	<l id='1311' part='f'>Terminons des transports superflus.</l>
+<sp who='TÉNÉSIS'><speaker>TÉNÉSIS.</speaker>
+	<l id='1311' syll="9" part="f">Terminons des transports superflus.</l>
 	<l id='1312'>Adieu, Seigneur, adieu : je cours chercher Bélus.</l>
 	<l id='1313'>Les moments nous sont chers ; il faut que je vous laisse.</l>
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III.</head>
-<sp who='AGENOR'><speaker>AGÉNOR.</speaker>
+<sp who='AGÉNOR'><speaker>AGÉNOR.</speaker>
 	<l id='1314'>Qu'ai-je entendu ? Qui ? Moi, l'époux de la princesse !</l>
 	<l id='1315'>Et comment ce Bélus, si jaloux de son rang,</l>
 	<l id='1316'>A-t-il pu se choisir un gendre de mon rang ?</l>
@@ -1706,45 +1704,45 @@
 	<l id='1319'>Seigneur, un étranger, qui se cache avec soin,</l>
 	<l id='1320'>Demande à vous parler un moment sans témoin.</l>
 </sp>
-<sp who='AGENOR'><speaker>AGÉNOR, à part.</speaker>
+<sp stage="aparte" who='AGÉNOR'><speaker>AGÉNOR, à part.</speaker>
 	<l id='1321'>Qu'il entre. Cependant, que mon âme agitée,</l>
 	<l id='1322'>Toute entière aux plaisirs dont elle est transportée,</l>
 	<l id='1323'>Aurait besoin ici d'un peu de liberté !</l>
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Agénor, Mermécide, Mirame.</head>
-<sp who='AGENOR'><speaker>AGÉNOR.</speaker>
+<sp who='AGÉNOR'><speaker>AGÉNOR.</speaker>
 	<l id='1324'>Approchez, vous pouvez parler en sûreté.</l>
 </sp>
 <sp who='MERMECIDE'><speaker>MERMÉCIDE.</speaker>
 	<l id='1325'>D'un secret important chargé de vous instruire...</l>
 	<l id='1326'>Mais daignez ordonner, Seigneur, qu'on se retire.</l>
 </sp>
-<sp who='AGENOR'><speaker>AGÉNOR, à Mirame.</speaker>
-	<l id='1327' part='i'>Sortez.</l>
+<sp stage="towrad" who='AGÉNOR'><speaker>AGÉNOR, à Mirame.</speaker>
+	<l id='1327' syll="2" part="i">Sortez.</l>
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Agénor, Mermécide.</head>
-<sp who='AGENOR'><speaker>AGÉNOR.</speaker>
-	<l id='1327' part='f'>Eh bien ! Quel est ce secret important ?</l>
+<sp who='AGÉNOR'><speaker>AGÉNOR.</speaker>
+	<l id='1327' syll="10" part="f">Eh bien ! Quel est ce secret important ?</l>
 	<l id='1328'>Hâtez-vous ; tout m'appelle ailleurs en cet instant.</l>
 </sp>
 <sp who='MERMECIDE'><speaker>MERMÉCIDE.</speaker>
 	<l id='1329'>Seigneur, dans ce billet que j'ose ici vous rendre...</l>
 </sp>
-<sp who='AGENOR'><speaker>AGÉNOR.</speaker>
-	<l id='1330' part='i'>De quelle main ?</l>
+<sp who='AGÉNOR'><speaker>AGÉNOR.</speaker>
+	<l id='1330' syll="3" part="i">De quelle main ?</l>
 </sp>
 <sp who='MERMECIDE'><speaker>MERMÉCIDE.</speaker>
-	<l id='1330' part='f'>Lisez, et vous allez l'apprendre.</l>
+	<l id='1330' syll="9" part="f">Lisez, et vous allez l'apprendre.</l>
 </sp>
-<sp who='AGENOR'><speaker>AGÉNOR.</speaker>
+<sp who='AGÉNOR'><speaker>AGÉNOR.</speaker>
 	<l id='1331'>C'est de Bélus, sans doute ; et son coeur généreux</l>
-	<l id='1332' part='i'>Daigne encor... mais lisons.</l>
-<stage type="[N/A]">Mermécide tire un poignard, et le lève pour Frapper Agénor.</stage>
+	<l id='1332' syll="6" part="i">Daigne encor... mais lisons.</l>
+<stage type="fight">Mermécide tire un poignard, et le lève pour frapper Agénor.</stage>
 </sp>
-<sp who='AGENOR'><speaker>AGÉNOR, arrêtant le bras de Mermécide.</speaker>
-	<l id='1332' part='f'>Arrête, malheureux !</l>
+<sp stage="pull" who='AGÉNOR'><speaker>AGÉNOR, arrêtant le bras de Mermécide.</speaker>
+	<l id='1332' syll="6" part="f">Arrête, malheureux !</l>
 	<l id='1333'>D'une si faible main qu'espères-tu, perfide ?</l>
 	<l id='1334'>Mais qu'est-ce que je vois ? Grands dieux ! C'est Mermécide !</l>
 </sp>
@@ -1752,7 +1750,7 @@
 	<l id='1335'>Ciel ! Que vois-je à mon tour ? Mérodate ! Mon fils !</l>
 	<l id='1336'>Et pour comble d'horreurs, parmi mes ennemis !</l>
 </sp>
-<sp who='AGENOR'><speaker>AGÉNOR.</speaker>
+<sp who='AGÉNOR'><speaker>AGÉNOR.</speaker>
 	<l id='1337'>Seigneur, ne mêlez point d'amertume à ma joie :</l>
 	<l id='1338'>Pénétré du bonheur que le ciel me renvoie,</l>
 	<l id='1339'>Mon coeur ne ressentit jamais tant de douceur.</l>
@@ -1761,7 +1759,7 @@
 	<l id='1340'>Et le mien n'a jamais ressenti tant d'horreur.</l>
 	<l id='1341'>En quels lieux m'offrez-vous une tête si chère ?</l>
 </sp>
-<sp who='AGENOR'><speaker>AGÉNOR.</speaker>
+<sp who='AGÉNOR'><speaker>AGÉNOR.</speaker>
 	<l id='1342'>Ô ciel ! à quels transports reconnais-je mon père ?</l>
 </sp>
 <sp who='MERMECIDE'><speaker>MERMÉCIDE.</speaker>
@@ -1773,14 +1771,14 @@
 	<l id='1348'>De votre sort affreux tremblez d'être éclairci.</l>
 	<l id='1349'>Mais j'aperçois la reine, ingrat ! Et je vous laisse.</l>
 </sp>
-<sp who='AGENOR'><speaker>AGÉNOR.</speaker>
+<sp who='AGÉNOR'><speaker>AGÉNOR.</speaker>
 	<l id='1350'>Ah ! De noms moins cruels honorez ma tendresse :</l>
 	<l id='1351'>Du plaisir de vous voir ne privez point mes yeux :</l>
 	<l id='1352'>Vous n'avez près de moi rien à craindre en ces lieux.</l>
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII. Sémiramis, Agénor, Mermécide.</head>
-<sp who='SEMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
+<sp who='SÉMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
 	<l id='1353'>Que faites-vous, Seigneur, et quel soin vous arrête,</l>
 	<l id='1354'>Lorsque mille périls menacent notre tête ?</l>
 	<l id='1355'>Babylone en fureur s'arme de toutes parts :</l>
@@ -1795,25 +1793,25 @@
 	<l id='1364'>Mon ennemi, Seigneur, et le plus grand de tous !</l>
 	<l id='1365'>Ah ! Traître, enfin le ciel te livre à ma vengeance !</l>
 </sp>
-<sp who='AGENOR'><speaker>AGÉNOR.</speaker>
+<sp who='AGÉNOR'><speaker>AGÉNOR.</speaker>
 	<l id='1366'>Daignez de ces transports calmer la violence.</l>
 	<l id='1367'>De quels crimes s'est donc noirci cet étranger,</l>
 	<l id='1368'>Pour forcer une reine à vouloir s'en venger ?</l>
 </sp>
-<sp who='SEMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
+<sp who='SÉMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
 	<l id='1369'>De quels crimes, Seigneur ? Le perfide ! Le lâche ! ...</l>
 	<l id='1370'>Mais en vain à la mort votre pitié l'arrache :</l>
 	<l id='1371'>Le ciel même dût-il s'armer en sa faveur,</l>
 	<l id='1372'>Rien ne peut le soustraire à ma juste fureur.</l>
 </sp>
-<sp who='AGENOR'><speaker>AGÉNOR.</speaker>
+<sp who='AGÉNOR'><speaker>AGÉNOR.</speaker>
 	<l id='1373'>Je vous ai déjà dit que j'ignore son crime :</l>
 	<l id='1374'>Quel qu'il soit cependant, j'adopte la victime.</l>
 	<l id='1375'>Cet étranger m'est cher ; j'ose même aujourd'hui</l>
 	<l id='1376'>Ici comme de moi vous répondre de lui.</l>
 	<l id='1377'>Dès mes plus jeunes ans je connais Mermécide.</l>
 </sp>
-<sp who='SEMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
+<sp who='SÉMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
 	<l id='1378'>Vous n'avez donc connu qu'un rebelle, un perfide,</l>
 	<l id='1379'>Indigne de la vie et de votre pitié ;</l>
 	<l id='1380'>Que loin de dérober à mon inimitié</l>
@@ -1826,7 +1824,7 @@
 	<l id='1387'>Ce généreux secours qu'on m'avait tant promis</l>
 	<l id='1388'>Se termine à sauver mes plus grands ennemis.</l>
 </sp>
-<sp who='AGENOR'><speaker>AGÉNOR.</speaker>
+<sp who='AGÉNOR'><speaker>AGÉNOR.</speaker>
 	<l id='1389'>Madame, si le ciel ne vous en fit point d'autres,</l>
 	<l id='1390'>Vous me verrez longtemps le protecteur des vôtres.</l>
 	<l id='1391'>Si celui-ci surtout a besoin de secours,</l>
@@ -1834,25 +1832,25 @@
 	<l id='1393'>Il n'est empire, honneur, que je ne sacrifie</l>
 	<l id='1394'>Au soin de conserver une si chère vie.</l>
 </sp>
-<sp who='SEMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
+<sp who='SÉMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
 	<l id='1395'>Ah ! Qu'est-ce que j'entends ? Je ne sais quelle horreur</l>
 	<l id='1396'>Se répand tout à coup jusqu'au fond de mon coeur.</l>
 	<l id='1397'>Je ne vois dans leurs yeux qu'un trouble qui me glace.</l>
 	<l id='1398'>Seigneur, entre vous deux qu'est-ce donc qui se passe ?</l>
 	<l id='1399'>Quel intérêt si grand prenez-vous à ses jours ?</l>
 </sp>
-<sp who='AGENOR'><speaker>AGÉNOR.</speaker>
+<sp who='AGÉNOR'><speaker>AGÉNOR.</speaker>
 	<l id='1400'>Est-il besoin encor d'éclaircir ce discours ?</l>
 	<l id='1401'>Voulez-vous qu'à vos coups j'abandonne mon père.</l>
 </sp>
 <sp who='MERMECIDE'><speaker>MERMÉCIDE.</speaker>
 	<l id='1402'>Non, je ne le suis pas ; mais voilà votre mère.</l>
 </sp>
-<sp who='AGENOR'><speaker>AGÉNOR.</speaker>
-	<l id='1403' part='i'>Ma mère !</l>
+<sp who='AGÉNOR'><speaker>AGÉNOR.</speaker>
+	<l id='1403' syll="2" part="i">Ma mère !</l>
 </sp>
-<sp who='SEMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
-	<l id='1403' part='f'>Lui mon fils ! Grands dieux ! Qu'ai-je entendu ?</l>
+<sp who='SÉMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
+	<l id='1403' syll="10" part="f">Lui mon fils ! Grands dieux ! Qu'ai-je entendu ?</l>
 	<l id='1404'>Cher Agénor, hélas ! Je vous ai donc perdu !</l>
 </sp>
 <sp who='MERMECIDE'><speaker>MERMÉCIDE.</speaker>
@@ -1873,7 +1871,7 @@
 	<l id='1417'>Je n'oublierai jamais que je lui dois la vie,</l>
 	<l id='1418'>Et je ne prétends pas qu'aucun autre l'oublie.</l>
 </sp>
-<sp who='SEMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
+<sp who='SÉMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
 	<l id='1419'>Non, tu n'es point mon fils : en vain cet imposteur</l>
 	<l id='1420'>Prétend de mon amour démentir la fureur :</l>
 	<l id='1421'>Si tu l'étais ; déjà la voix de la nature</l>
@@ -1913,7 +1911,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='8'><head>SCÈNE VIII. Sémiramis, Phénice.</head>
-<sp who='SEMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
+<sp who='SÉMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
 	<l id='1453'>Ingrat ! Quels soins veux-tu que la nature inspire</l>
 	<l id='1454'>À ce coeur qui jamais n'en reconnut l'empire ?</l>
 	<l id='1455'>Ce coeur infortuné, que l'amour a séduit,</l>
@@ -1934,7 +1932,7 @@
 	<l id='1470'>Puis-je en croire un moment un témoin si perfide ?</l>
 	<l id='1471'>Ninias ne vit plus : un frivole souci...</l>
 </sp>
-<sp who='PHENICE'><speaker>PHÉNICE.</speaker>
+<sp who='PHÉNICE'><speaker>PHÉNICE.</speaker>
 	<l id='1472'>Mégabise en mourant n'a que trop éclairci</l>
 	<l id='1473'>Ce doute malheureux où votre coeur se livre,</l>
 	<l id='1474'>Madame : Ninias n'a point cessé de vivre.</l>
@@ -1947,7 +1945,7 @@
 	<l id='1481'>Loin d'en croire aux transports qui séduisent votre âme,</l>
 	<l id='1482'>Dans ce péril pressant songez à vous, Madame.</l>
 </sp>
-<sp who='SEMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
+<sp who='SÉMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
 	<l id='1483'>Qu'espères-tu de moi dans l'état où je suis ?</l>
 	<l id='1484'>Détester mes forfaits est tout ce que je puis.</l>
 	<l id='1485'>Tout en proie aux horreurs dont mon âme est troublée,</l>
@@ -1979,7 +1977,7 @@
 </div1>
 <div1 type="act" n='5'><head>ACTE V</head>
 <div2 type="scene" n='1'><head>SCÈNE I.</head>
-<sp who='SEMIRAMIS'><speaker>SÉMIRAMIS, seule.</speaker>
+<sp stage="alone" who='SÉMIRAMIS'><speaker>SÉMIRAMIS, seule.</speaker>
 	<l id='1509'>Que deviens-je ? Où fuirai-je ? Amante déplorable,</l>
 	<l id='1510'>Épouse sans vertu, mère encor plus coupable,</l>
 	<l id='1511'>Où t'iras-tu cacher ? Quel gouffre assez affreux</l>
@@ -2010,15 +2008,15 @@
 	<l id='1536'>Si grand, si généreux, si digne d'être aimé,</l>
 	<l id='1537'>Que pour me voir moi-même adorer mon ouvrage,</l>
 	<l id='1538'>Et trahir la nature, à qui j'en dois l'hommage ?</l>
-	<l id='1539' part='i'>Mais de quel bruit affreux...</l>
+	<l id='1539' syll="6" part="i">Mais de quel bruit affreux...</l>
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Sémiramis, Arbas, Phénice.</head>
-<sp who='SEMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
-	<l id='1539' part='f'>Ciel ! Qu'est-ce que je vois ?</l>
+<sp who='SÉMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
+	<l id='1539' syll="6" part="f">Ciel ! Qu'est-ce que je vois ?</l>
 	<l id='1540'>Phénice, où courez-vous ? Et d'où naît votre effroi ?</l>
 </sp>
-<sp who='PHENICE'><speaker>PHÉNICE.</speaker>
+<sp who='PHÉNICE'><speaker>PHÉNICE.</speaker>
 	<l id='1541'>Fuyez, reine, fuyez ; vos soldats vous trahissent :</l>
 	<l id='1542'>Du nom de Ninias tous ces lieux retentissent.</l>
 	<l id='1543'>À peine a-t-il paru, qu'à son terrible aspect</l>
@@ -2029,7 +2027,7 @@
 	<l id='1548'>Ordonner à grands cris le trépas de sa soeur.</l>
 	<l id='1549'>Où sera votre asile en ce moment funeste ?</l>
 </sp>
-<sp who='SEMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
+<sp who='SÉMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
 	<l id='1550'>Va, ne crains rien pour moi tant qu'un soupir me reste.</l>
 	<l id='1551'>Au gré de son courroux le ciel peut m'accabler ;</l>
 	<l id='1552'>Mais ce sera du moins sans me faire trembler.</l>
@@ -2044,7 +2042,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Sémiramis, Phénice.</head>
-<sp who='SEMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
+<sp who='SÉMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
 	<l id='1561'>Et nous, allons, Phénice, au devant d'un barbare,</l>
 	<l id='1562'>Nous exposer sans crainte à ce qu'il nous prépare :</l>
 	<l id='1563'>Viens me voir terminer mon déplorable sort.</l>
@@ -2052,7 +2050,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Sémiramis, Ninias, Phénice.</head>
-<sp who='SEMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
+<sp who='SÉMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
 	<l id='1565'>Mais qu'est-ce que je vois ?... Ah ! Courroux si terrible,</l>
 	<l id='1566'>Qu'à cet aspect si cher vous devenez flexible !</l>
 <stage type="toward">À Ninias. </stage>
@@ -2063,7 +2061,7 @@
 	<l id='1569'>Ce que j'y cherche ? Hélas ! J'y viens chercher ma mère ;</l>
 	<l id='1570'>J'y viens livrer un fils à toute sa colère.</l>
 </sp>
-<sp who='SEMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
+<sp who='SÉMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
 	<l id='1571'>Toi mon fils ! Toi, cruel ! L'objet de ma fureur,</l>
 	<l id='1572'>Que je ne puis plus voir sans en frémir d'horreur !</l>
 	<l id='1573'>Tandis que devant moi ton orgueil s'humilie,</l>
@@ -2107,7 +2105,7 @@
 	<l id='1609'>Rendez-moi Ténésis, rendez-moi mon épouse.</l>
 	<l id='1610'>Est-ce à moi d'éprouver votre fureur jalouse ?</l>
 </sp>
-<sp who='SEMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
+<sp who='SÉMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
 	<l id='1611'>Maître de l'univers, c'en est trop ; levez-vous :</l>
 	<l id='1612'>Ce n'est pas au vainqueur à fléchir les genoux.</l>
 	<l id='1613'>Arbitre souverain de ce superbe empire,</l>
@@ -2118,10 +2116,10 @@
 	<l id='1618'>Vous rendre Ténésis, mais ce sera sans vie.</l>
 </sp>
 <sp who='NINIAS'><speaker>NINIAS.</speaker>
-	<l id='1619' part='i'>Ah ! Si je le croyais...</l>
+	<l id='1619' syll="6" part="i">Ah ! Si je le croyais...</l>
 </sp>
-<sp who='SEMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
-	<l id='1619' part='f'>Je brave ta fureur,</l>
+<sp who='SÉMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
+	<l id='1619' syll="6" part="f">Je brave ta fureur,</l>
 	<l id='1620'>Fils ingrat : mon supplice est au fond de mon coeur.</l>
 	<l id='1621'>Menace, tonne, éclate, et m'arrache une vie</l>
 	<l id='1622'>Que déjà tant d'horreurs m'ont à demi ravie.</l>
@@ -2148,17 +2146,17 @@
 	<l id='1641'>Que vous humiliez l'orgueil de ma naissance !</l></sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Sémiramis, Ninias, Bélus, Mermécide, Madate, Mirame, Phénice, gardes.</head>
-<sp who='NINIAS'><speaker>NINIAS, à Bellus.</speaker>
+<sp stage="toward" who='NINIAS'><speaker>NINIAS, à Bellus.</speaker>
 	<l id='1642'>Ah ! Seigneur, est-ce vous ? Que de votre présence</l>
 	<l id='1643'>Mon coeur avait besoin dans ces moments affreux !</l>
 	<l id='1644'>Qu'ils ont été pour moi tristes et rigoureux !</l>
-	<l id='1645' part='i'>Mais quoi ! Sans Ténésis ?</l>
+	<l id='1645' syll="6" part="i">Mais quoi ! Sans Ténésis ?</l>
 </sp>
 <sp who='BÉLUS'><speaker>BÉLUS.</speaker>
-	<l id='1645' part='f'>La douleur qui me presse</l>
+	<l id='1645' syll="6" part="f">La douleur qui me presse</l>
 	<l id='1646'>Annonce assez, mon fils, le sort de la princesse.</l>
 </sp>
-<sp who='SEMIRAMIS'><speaker>SÉMIRAMIS, à part.</speaker>
+<sp stage="aparte" who='SÉMIRAMIS'><speaker>SÉMIRAMIS, à part.</speaker>
 	<l id='1647'>L'aurait-on immolée, au gré de mes souhaits ?</l>
 </sp>
 <sp who='BÉLUS'><speaker>BÉLUS.</speaker>
@@ -2174,21 +2172,21 @@
 	<l id='1657'>Et toi, dont la fureur désole ma famille,</l>
 	<l id='1658'>Barbare ! Réponds-moi, qu'as-tu fait de ma fille ?</l>
 </sp>
-<sp who='SEMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
+<sp who='SÉMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
 	<l id='1659'>Ce que ton lâche coeur voulait faire de moi,</l>
 	<l id='1660'>Et ce que je voudrais pouvoir faire de toi.</l></sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Sémiramis, Ninias, Bélus, Ténésis, Mermécide, Madate, Mirame, Phénice, Gardes.</head>
-<sp who='SEMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
+<sp who='SÉMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
 	<l id='1661'>Mais qu'est-ce que je vois ? ô ciel ! Je suis trahie !</l>
 </sp>
-<sp who='NINIAS'><speaker>NINIAS, à Ténésis.</speaker>
+<sp stage="toward" who='NINIAS'><speaker>NINIAS, à Ténésis.</speaker>
 	<l id='1662'>Quoi ! Madame, c'est vous ! Une si chère vie...</l>
 </sp>
-<sp who='TENESIS'><speaker>TÉNÉSIS.</speaker>
+<sp who='TÉNÉSIS'><speaker>TÉNÉSIS.</speaker>
 	<l id='1663'>Seigneur, si c'est un bien pour vous si précieux,</l>
 	<l id='1664'>Rendez grâce à la main qui nous rejoint tous deux.</l>
-<stage type="[N/A]">En montrant Mermécide. </stage>
+<stage type="show">En montrant Mermécide. </stage>
 	<l id='1665'>Vous voyez devant vous l'étranger intrépide</l>
 	<l id='1666'>Par qui j'échappe aux coups d'une main parricide.</l>
 <stage type="toward">À Sémiramis. </stage>
@@ -2203,7 +2201,7 @@
 	<l id='1674'>C'est l'unique faveur que de vous je désire :</l>
 	<l id='1675'>L'un et l'autre, daignez l'accorder à mes voeux.</l>
 </sp>
-<sp who='SEMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
+<sp who='SÉMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
 	<l id='1676'>Madame, je dois trop à ces soins généreux :</l>
 	<l id='1677'>Cette noble pitié, quoique peu désirée,</l>
 	<l id='1678'>N'en est pas moins ici digne d'être admirée.</l>
@@ -2216,10 +2214,10 @@
 <stage type="die">Elle se tue. </stage>
 </sp>
 <sp who='NINIAS'><speaker>NINIAS.</speaker>
-	<l id='1685' part='i'>Ah ! Juste ciel !</l>
+	<l id='1685' syll="4" part="i">Ah ! Juste ciel !</l>
 </sp>
-<sp who='SEMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
-	<l id='1685' part='f'>Ingrat, cesse de te contraindre :</l>
+<sp who='SÉMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
+	<l id='1685' syll="8" part="f">Ingrat, cesse de te contraindre :</l>
 	<l id='1686'>Après ce que j'ai fait, est-ce à toi de me plaindre ?</l>
 	<l id='1687'>Que ne me plongeais-tu le poignard dans le sein !</l>
 	<l id='1688'>J'aurais trouvé la mort plus douce de ta main.</l>

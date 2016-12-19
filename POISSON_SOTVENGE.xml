@@ -7,9 +7,9 @@
 				<author born='1655' born_location='Paris' death='1709' death_location='château de grillon, Dourdan' academie=''>POISSON, Jean-François</author>
 			</titleStmt>
 			<publicationStmt>	
-				<p>publié par Paul FIEVRE juillet 2011</p>
-			<idno></idno>
-</publicationStmt>
+				<p>publié par Paul FIEVRE juillet 2011, revu octobre 2016</p>
+				<idno>POISSON_SORVENGE</idno>
+			</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -18,21 +18,17 @@
 				<periode>1661-1670</periode>
 				<taille>500-750</taille>
 				<permalien></permalien>
-				<sources>
-					<source id="1"><author/><text/></source>
-				</sources>	
-
 			</SourceDesc>
 		</fileDesc>
 </teiHeader>
 <text>
 <front>
 	<docTitle>
-	       <titlePart part="main">LE SOT VENGÉ</titlePart>
-      	 <titlePart part="sub">COMÉDIE en UN ACTE</titlePart> 
+	    <titlePart part="main">LE SOT VENGÉ</titlePart>
+   	 <titlePart part="sub">COMÉDIE en UN ACTE</titlePart> 
 	</docTitle>
-      <docDate value="1679">M. DC. LXXIX. Avec Privilège du Roi.</docDate>
-      <docAuthor id='POISSON, Raymond' bio='poisson'>DE MONSIEUR POISSON</docAuthor>
+   <docDate value="1679">M. DC. LXXIX. Avec Privilège du Roi.</docDate>
+   <docAuthor id='POISSON, Raymond' bio='poisson'>DE MONSIEUR POISSON</docAuthor>
 	<docImprint>
 		<privilege id="16**-**-**"></privilege>
 		<acheveImprime id="16**-**-**"></acheveImprime>
@@ -43,12 +39,12 @@
 	</performance>
 
 	<castList><head>PERSONNAGES</head>
-      	<castItem><role id="LUBIN" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>LUBIN</role>, ou le sot vengé.</castItem>
-      	<castItem><role id="LUBINE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>LUBINE</role>, femme de Lubin.</castItem>
-      	<castItem><role id="LE-COMPÈRE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='Lubine'>LE COMPÈRE</role>, amoureux de Lubine.</castItem>
-      	<castItem><role id="MONSIEUR-RAGOT" sex="1" type="H" statut='bourgeois' age='A' stat_amour='Lubine'>MONSIEUR RAGOT</role>, amoureux de Lubine.</castItem>
-      	<castItem><role id="CROQUILLON" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>CROQUILLON</role>, valet du Compère.</castItem>
-    </castList>
+   	<castItem><role id="LUBIN" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>LUBIN</role>, ou le sot vengé.</castItem>
+   	<castItem><role id="LUBINE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>LUBINE</role>, femme de Lubin.</castItem>
+   	<castItem><role id="LE-COMPÈRE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='Lubine'>LE COMPÈRE</role>, amoureux de Lubine.</castItem>
+   	<castItem><role id="MONSIEUR-RAGOT" sex="1" type="H" statut='bourgeois' age='A' stat_amour='Lubine'>MONSIEUR RAGOT</role>, amoureux de Lubine.</castItem>
+   	<castItem><role id="CROQUILLON" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>CROQUILLON</role>, valet du Compère.</castItem>
+  </castList>
 	<set location='Paris' country='France' periode='XVIIème' link=''>La scène est a Paris.</set>
 </front>
 <body>
@@ -85,7 +81,7 @@
 	<l id='20'>Faites vos plaintes à la porte,</l>
 	<l id='21'>Je suis lasse de l'entretien</l>
 	<l id='22'>D'un homme plus sot que le mien. </l>
-<stage type="[N/A]">Elle rentre.</stage>
+<stage type="exit">Elle rentre.</stage>
 </sp>
 <sp who='MONSIEUR-RAGOT'><speaker>MONSIEUR RAGOT.</speaker>
 	<l id='23'>Ah ! C'est trop mépriser ma flamme ;</l>
@@ -106,7 +102,7 @@
 	<l id='33'>D'où vient ce grand empressement ?</l>
 </sp>
 <sp who='LE-COMPÈRE'><speaker>LE COMPÈRE.</speaker>
-<stage type="[N/A]">Il regarde sa montre avec empressement.</stage>
+<stage type="watch">Il regarde sa montre avec empressement.</stage>
 	<l id='34'>Il est huit heures justement,</l>
 	<l id='35'>C'est l'heure qu'elle m'a donnée.</l>
 </sp>
@@ -114,15 +110,15 @@
 <note type="L">Haquenée : cheval qui va l'amble. Si dit aussi en termes comiques du bâton que que portent ceux qui font des voyages à pied pour se soulager en marchant. [F]</note>
 	<l id='36'>Je ne sais point de haquenée,</l>
 <note type="L">Amble : train ou certaine allure du cheval, lorsque les deux jambes du même côté se meuvent ensemble, et que les deux autres se meuvent après. [F]</note>
-	<l id='37' part='i'>Dont l'amble...</l>
+	<l id='37' part="i">Dont l'amble...</l>
 </sp>
 <sp who='LE-COMPÈRE'><speaker>LE COMPÈRE.</speaker>
-	<l id='37' part='f'>Veux-tu m'obliger ?</l>
+	<l id='37' part="f">Veux-tu m'obliger ?</l>
 	<l id='38'>C'est ici l'heure du Berger ;</l>
-	<l id='39' part='i'>La manquer !</l>
+	<l id='39' part="i">La manquer !</l>
 </sp>
 <sp who='CROQUILLON'><speaker>CROQUILLON.</speaker>
-	<l id='39' part='f'>Mon maître extravague.</l>
+	<l id='39' part="f">Mon maître extravague.</l>
 </sp>
 <sp who='LE-COMPÈRE'><speaker>LE COMPÈRE.</speaker>
 	<l id='40'>À propos donne-moi ma bague.</l>
@@ -160,10 +156,10 @@
 <sp who='CROQUILLON'><speaker>CROQUILLON. </speaker>
 	<l id='60'>Il revient de la boucherie</l>
 	<l id='61'>Quérir une tête de veau,</l>
-	<l id='62' part='i'>Il vient de rentrer.</l>
+	<l id='62' part="i">Il vient de rentrer.</l>
 </sp>
 <sp who='LE-COMPÈRE'><speaker>LE COMPÈRE.</speaker>
-	<l id='62' part='f'>Mon anneau :</l>
+	<l id='62' part="f">Mon anneau :</l>
 	<l id='63'>Que ta longueur me désespère !</l>
 </sp>
 <sp who='CROQUILLON'><speaker>CROQUILLON.</speaker>
@@ -175,12 +171,12 @@
 	<l id='67'>Et c'est pour finir mon martyre...</l>
 </sp>
 <sp who='CROQUILLON'><speaker>CROQUILLON.</speaker>
-<stage type="[N/A]">Il donne la bague.</stage>
+<stage type="give">Il donne la bague.</stage>
 	<l id='68'>Courez, je n'ai plus rien à dire,</l>
 	<l id='69'>Mais je crains pour le diamant.</l>
 </sp>
 <sp who='LE-COMPÈRE'><speaker>LE COMPÈRE.</speaker>
-<stage type="[N/A]">Il se donne en hâte un coup de peigne.</stage>
+<stage type="dress">Il se donne en hâte un coup de peigne.</stage>
 	<l id='70'>C'est peu pour cet heureux moment.</l>
 </sp>
 <sp who='CROQUILLON'><speaker>CROQUILLON.</speaker>
@@ -215,25 +211,25 @@
 	<l id='83'>Je vous ai détourné peut-être.</l>
 </sp>
 <sp who='LE-COMPÈRE'><speaker>LE COMPÈRE.</speaker>
-	<l id='84' part='i'>Vous vous moquez,</l>
+	<l id='84' part="i">Vous vous moquez,</l>
 </sp>
 <sp who='CROQUILLON'><speaker>CROQUILLON.</speaker>
-	<l id='84' part='f'>Ah qu'il est traître ?</l>
+	<l id='84' part="f">Ah qu'il est traître ?</l>
 </sp>
 <sp who='MONSIEUR-RAGOT'><speaker>MONSIEUR RAGOT.</speaker>
 	<l id='85'>Sans vous, ami, je suis perdu.</l>
 </sp>
-<sp who='LE-COMPÈRE'><speaker>LE COMPÈRE, bas.</speaker>
+<sp stage="low" who='LE-COMPÈRE'><speaker>LE COMPÈRE, bas.</speaker>
 	<l id='86'>Fusse-tu mille fois pendu.</l>
 	<l id='87'>Monsieur, allât-il de ma vie.</l>
-<stage type="forte">Haut.</stage>
+<stage type="loud">Haut.</stage>
 	<l id='88'>Je ne perdrai jamais l'envie</l>
 	<l id='89'>De vous prouver ma passion.</l>
 </sp>
 <sp who='MONSIEUR-RAGOT'><speaker>MONSIEUR RAGOT.</speaker>
 	<l id='90'>Je suis dans la confusion.</l>
 </sp>
-<sp who='LE-COMPÈRE'><speaker>LE COMPÈRE, bas.</speaker>
+<sp stage="low" who='LE-COMPÈRE'><speaker>LE COMPÈRE, bas.</speaker>
 	<l id='91'>Et moi, je suis dedans la rage.</l>
 </sp>
 <sp who='CROQUILLON'><speaker>CROQUILLON.</speaker>
@@ -245,10 +241,10 @@
 </sp>
 <sp who='LE-COMPÈRE'><speaker>LE COMPÈRE.</speaker>
 	<l id='95'>J'irais pour vous jusques à Rome</l>
-	<l id='96' part='i'>Les pieds nus.</l>
+	<l id='96' part="i">Les pieds nus.</l>
 </sp>
 <sp who='CROQUILLON'><speaker>CROQUILLON.</speaker>
-	<l id='96' part='f'>Ah, le méchant homme ?</l>
+	<l id='96' part="f">Ah, le méchant homme ?</l>
 </sp>
 <sp who='LE-COMPÈRE'><speaker>LE COMPÈRE.</speaker>
 	<l id='97'>Et je vous donnerais mon coeur.</l>
@@ -257,21 +253,21 @@
 	<l id='98'>Votre franchise et votre ardeur,</l>
 	<l id='99'>Se trouve pour moi sans seconde.</l>
 </sp>
-<sp who='LE-COMPÈRE'><speaker>LE COMPÈRE, bas.</speaker>
+<sp stage="low" who='LE-COMPÈRE'><speaker>LE COMPÈRE, bas.</speaker>
 	<l id='100'>Derechef l'enfer te confonde ;</l>
-<stage type="forte">Haut.</stage>
+<stage type="loud">Haut.</stage>
 	<l id='101'>Je crains qu'on ne m'aille ravir</l>
 	<l id='102'>L'avantage de vous servir.</l>
 </sp>
 <sp who='MONSIEUR-RAGOT'><speaker>MONSIEUR RAGOT.</speaker>
-	<l id='103' part='i'>Partons.</l>
+	<l id='103' part="i">Partons.</l>
 </sp>
-<sp who='LE-COMPÈRE'><speaker>LE COMPÈRE, à son valet.</speaker>
-	<l id='103' part='f'>Tu le paieras, traître.</l>
+<sp stage="toward" who='LE-COMPÈRE'><speaker>LE COMPÈRE, à son valet.</speaker>
+	<l id='103' part="f">Tu le paieras, traître.</l>
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV.</head>
-<sp who='CROQUILLON'><speaker>CROQUILLON, seul.</speaker>
+<sp stage="alone" who='CROQUILLON'><speaker>CROQUILLON, seul.</speaker>
 	<l id='104'>Eh bien, vit-on jamais paraître</l>
 	<l id='105'>Une plus grande trahison ?</l>
 	<l id='106'>Si je rentre dans ta maison</l>
@@ -320,10 +316,10 @@
 	<l id='128'>Ma foi ! Si tu me fais te prendre !</l>
 	<l id='129'>Je te donnerai du gros bout,</l>
 	<l id='130'>Et dessus le ventre et partout</l>
-	<l id='131' part='i'>Chien de cornard.</l>
+	<l id='131' part="i">Chien de cornard.</l>
 </sp>
 <sp who='LUBIN'><speaker>LUBIN.</speaker>
-	<l id='131' part='f'>Je le confesse,</l>
+	<l id='131' part="f">Je le confesse,</l>
 	<l id='132'>Quand tu n'étais que ma maîtresse ></l>
 	<l id='133'>Voyant tout ce que tu faisais</l>
 	<l id='134'>Je vis bien que je le serais;</l>
@@ -337,10 +333,10 @@
 	<l id='140'>L'on me montre au doigt quand je passe,</l>
 <note type="L">Gueux : indigent, nécessiteux, qui est réduit à mendier, à demander l'aumône. [F]</note>
 	<l id='141'>Voilà la femme de ce gueux,</l>
-	<l id='142' part='i'>Dit-on.</l>
+	<l id='142' part="i">Dit-on.</l>
 </sp>
 <sp who='LUBIN'><speaker>LUBIN.</speaker>
-	<l id='142' part='f'>Moi l'on me montre à deux.</l>
+	<l id='142' part="f">Moi l'on me montre à deux.</l>
 </sp>
 <sp who='LUBINE'><speaker>LUBINE.</speaker>
 	<l id='143'>Moi, t'avoir pris ! Moi qui suis fille</l>
@@ -383,7 +379,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI.</head>
-<sp who='LUBIN'><speaker>LUBIN, l'ayant écoutée.</speaker>
+<sp stage="listen" who='LUBIN'><speaker>LUBIN, l'ayant écoutée.</speaker>
 	<l id='171'>Est-ce une si belle besogne</l>
 	<l id='172'>Pour t'en oser vanter, carogne </l>
 	<l id='173'>Fais-moi, du moins, m'ayant fait sot</l>
@@ -475,21 +471,21 @@
 	<l id='237'>L'a-t-il pas reprise, faquin ?</l>
 </sp>
 <sp who='LUBIN'><speaker>LUBIN.</speaker>
-	<l id='238' part='i'>Vraiment oui.</l>
+	<l id='238' part="i">Vraiment oui.</l>
 </sp>
 <sp who='LUBINE'><speaker>LUBINE.</speaker>
-	<l id='238' part='f'>Va quérir du vin,</l>
+	<l id='238' part="f">Va quérir du vin,</l>
 	<l id='239'>Et que le rôtisseur nous barde</l>
 	<l id='240'>Une bonne et grasse poularde</l>
 	<l id='241'>Pour dîner mon Compère et moi.</l>
 	<l id='242'>Tu prendras, si tu veux pour toi,</l>
 	<l id='243'>Ou des noix, ou bien du fromage :</l>
-	<l id='244' part='i'>Redonne ces souliers.</l>
+	<l id='244' part="i">Redonne ces souliers.</l>
 </sp>
 </div2>
 <div2 type="scene" n='9'><head>SCÈNE IX.</head>
-<sp who='LUBIN'><speaker>LUBIN, seul.</speaker>
-	<l id='244' part='f'>J'enrage,</l>
+<sp stage="alone" who='LUBIN'><speaker>LUBIN, seul.</speaker>
+	<l id='244' part="f">J'enrage,</l>
 	<l id='245'>Et si Job en ma place était</l>
 	<l id='246'>Je pense qu'il enragerait</l>
 	<l id='247'>Et qu'il dirAit en sa colère</l>
@@ -584,10 +580,10 @@
 <sp who='LUBIN'><speaker>LUBIN.</speaker>
 	<l id='301'>Mais peste. Je m'amuse bien</l>
 	<l id='302'>J'aurai tantôt du rot de chien,</l>
-	<l id='303' part='i'>Je vais revenir.</l>
+	<l id='303' part="i">Je vais revenir.</l>
 </sp>
 <sp who='MONSIEUR-RAGOT'><speaker>MONSIEUR RAGOT.</speaker>
-	<l id='303' part='f'>Non demeure,</l>
+	<l id='303' part="f">Non demeure,</l>
 	<l id='304'>Je m'en vais te ravir sur l'heure : </l>
 	<l id='305'>T'entretenir, étant pressé</l>
 	<l id='306'>De tous les lieux où j'ai passé,</l>
@@ -669,10 +665,10 @@
 <sp who='LUBIN'><speaker>LUBIN.</speaker>
 	<l id='356'>Ce serait bien là mon affaire :</l>
 	<l id='357'>Mais l'homme qui l'avait trouvé</l>
-	<l id='358' part='i'>Ce bâton...</l>
+	<l id='358' part="i">Ce bâton...</l>
 </sp>
 <sp who='MONSIEUR-RAGOT'><speaker>MONSIEUR RAGOT.</speaker>
-	<l id='358' part='f'>L'avait éprouvé :</l>
+	<l id='358' part="f">L'avait éprouvé :</l>
 	<l id='359'>Mais connaissais-tu pas ma femme ?</l>
 </sp>
 <sp who='LUBIN'><speaker>LUBIN.</speaker>
@@ -743,23 +739,23 @@
 	<l id='400'>Tasse vouzi driou titave.</l>
 </sp>
 <sp who='LUBIN'><speaker>LUBIN.</speaker>
-	<l id='401' part='i'>Tasse, roti....</l>
+	<l id='401' part="i">Tasse, roti....</l>
 </sp>
 <sp who='MONSIEUR-RAGOT'><speaker>MONSIEUR RAGOT.</speaker>
-	<l id='401' part='f'>Quoi ! Quatre mots...</l>
+	<l id='401' part="f">Quoi ! Quatre mots...</l>
 </sp>
 <sp who='LUBIN'><speaker>LUBIN.</speaker>
 	<l id='402'>Patience, un peu de repos.</l>
 </sp>
 <sp who='MONSIEUR-RAGOT'><speaker>MONSIEUR RAGOT.</speaker>
-	<l id='403' part='i'>Tasse...</l>
+	<l id='403' part="i">Tasse...</l>
 </sp>
 <sp who='LUBIN'><speaker>LUBIN.</speaker>
-	<l id='403' part='f'>Je sais bien une tasse</l>
-	<l id='404' part='i'>Dans laquelle on boit.</l>
+	<l id='403' part="f">Je sais bien une tasse</l>
+	<l id='404' part="i">Dans laquelle on boit.</l>
 </sp>
 <sp who='MONSIEUR-RAGOT'><speaker>MONSIEUR RAGOT.</speaker>
-	<l id='404' part='f'>Je me lasse.</l>
+	<l id='404' part="f">Je me lasse.</l>
 </sp>
 <sp who='LUBIN'><speaker>LUBIN.</speaker>
 	<l id='405'>Dites-les moi plus posément.</l>
@@ -769,27 +765,27 @@
 	<l id='407' pat='i'>Tasse rouzi....</l>
 </sp>
 <sp who='LUBIN'><speaker>LUBIN.</speaker>
-	<l id='407' part='f'>Disons ensemble.</l>
+	<l id='407' part="f">Disons ensemble.</l>
 </sp>
 <sp who='MONSIEUR-RAGOT'><speaker>MONSIEUR RAGOT.</speaker>
-	<l id='408' part='i'>Pourquoi m'interrompre ?</l>
+	<l id='408' part="i">Pourquoi m'interrompre ?</l>
 </sp>
 <sp who='LUBIN'><speaker>LUBIN.</speaker>
-	<l id='408' part='f'>Il me semble</l>
+	<l id='408' part="f">Il me semble</l>
 	<l id='409'>Que quand nous parlerons toux deux</l>
 	<l id='410'>Je les dirai peut-être mieux.</l>
 </sp>
 <sp who='MONSIEUR-RAGOT'><speaker>MONSIEUR RAGOT.</speaker>
-	<l id='411' part='i'>Tasse.</l>
+	<l id='411' part="i">Tasse.</l>
 </sp>
 <sp who='LUBIN'><speaker>LUBIN.</speaker>
-	<l id='411' part='f'>Tasse. Dis-je pas bien ?</l>
+	<l id='411' part="f">Tasse. Dis-je pas bien ?</l>
 </sp>
 <sp who='MONSIEUR-RAGOT'><speaker>MONSIEUR RAGOT.</speaker>
-	<l id='412' part='i'>Achève.</l>
+	<l id='412' part="i">Achève.</l>
 </sp>
 <sp who='LUBIN'><speaker>LUBIN.</speaker>
-	<l id='412' part='f'>Je ne sais plus rien.</l>
+	<l id='412' part="f">Je ne sais plus rien.</l>
 </sp>
 <sp who='MONSIEUR-RAGOT'><speaker>MONSIEUR RAGOT.</speaker>
 	<l id='413'>Et comment donc prétends-tu faire ?</l>
@@ -806,7 +802,7 @@
 	<l id='418'>Dedans la ville d'Antipode !</l>
 	<l id='419'>Cela me ferait détester.</l>
 </sp>
-<sp who='MONSIEUR-RAGOT'><speaker>MONSIEUR RAGOT, à part.</speaker>
+<sp stage="aparte" who='MONSIEUR-RAGOT'><speaker>MONSIEUR RAGOT, à part.</speaker>
 	<l id='420'>Je ne me veux point rebuter,</l>
 	<l id='421'>Il faut s'armer de patience</l>
 	<l id='422'>Pour bien assurer sa vengeance,</l>
@@ -819,12 +815,12 @@
 <sp who='MONSIEUR-RAGOT'><speaker>MONSIEUR RAGOT.</speaker>
 	<l id='426'>Les voilà, tu n'es plus esclave,</l>
 	<l id='427'>Ils te rendront maître chez toi.</l>
-	<l id='428' part='i'>Adieu.</l>
+	<l id='428' part="i">Adieu.</l>
 </sp>
 </div2>
 <div2 type="scene" n='11'><head>SCÈNE XI. Lubin, Lubine.</head>
 <sp who='LUBINE'><speaker>LUBINE.</speaker>
-	<l id='428' part='f'>Te moques-tu de moi ?</l>
+	<l id='428' part="f">Te moques-tu de moi ?</l>
 </sp>
 <sp who='LUBIN'><speaker>LUBIN.</speaker>
 	<l id='429'>Ne voilà-t-il pas la carogne ?</l>
@@ -835,10 +831,10 @@
 <sp who='LUBIN'><speaker>LUBIN.</speaker>
 	<l id='431'>Tasse rouzi friou... J'y fais...</l>
 	<l id='432'>Il ne m'en souviendra jamais,</l>
-	<l id='433' part='i'>Voisin.</l>
+	<l id='433' part="i">Voisin.</l>
 </sp>
 <sp who='LUBINE'><speaker>LUBINE.</speaker>
-	<l id='433' part='f'>Dis sot, est-ce pour rire ?</l>
+	<l id='433' part="f">Dis sot, est-ce pour rire ?</l>
 </sp>
 <sp who='LUBIN'><speaker>LUBIN.</speaker>
 	<l id='434'>Il s'en est allé sans rien dire,</l>
@@ -861,7 +857,7 @@
 	<l id='445'>Comme ce coquin, fait le grave !</l>
 </sp>
 <sp who='LUBIN'><speaker>LUBIN.</speaker>
-<stage type="[N/A]">Il la frappe</stage>
+<stage type="hit">Il la frappe</stage>
 	<l id='446'>Tasse rouzi friou titave.</l>
 </sp>
 <sp who='LUBINE'><speaker>LUBINE.</speaker>
@@ -877,7 +873,7 @@
 	<l id='452'>Dis donc, que diable as-tu mangé !</l>
 </sp>
 <sp who='LUBIN'><speaker>LUBIN.</speaker>
-<stage type="[N/A]">Il la frappe.</stage>
+<stage type="hit">Il la frappe.</stage>
 	<l id='453'>Ah coquine tu m'injuries.</l>
 </sp>
 <sp who='LUBINE'><speaker>LUBINE.</speaker>
@@ -888,7 +884,7 @@
 	<l id='456'>D'où diable me vient cet honneur ?</l>
 	<l id='457'>Crois-tu parler à ton Compère ?</l>
 	<l id='458'>Tasse rouzi friou, j'espère</l>
-<stage type="[N/A]">Il la frappe.</stage>
+<stage type="hit">Il la frappe.</stage>
 	<l id='459'>Te reconnaître quelque jour.</l>
 </sp>
 <sp who='LUBINE'><speaker>LUBINE.</speaker>
@@ -906,10 +902,10 @@
 <div2 type="scene" n='12'><head>SCÈNE XII. Le Compère, Lubine, Lubin.</head>
 <sp who='LE-COMPÈRE'><speaker>LE COMPÈRE.</speaker>
 	<l id='467'>Sortir si brusquement ! Pourquoi</l>
-	<l id='468' part='i'>Dites donc.</l>
+	<l id='468' part="i">Dites donc.</l>
 </sp>
 <sp who='LUBINE'><speaker>LUBINE.</speaker>
-	<l id='468' part='f'>Pour l'amour de moi.</l>
+	<l id='468' part="f">Pour l'amour de moi.</l>
 </sp>
 <sp who='LE-COMPÈRE'><speaker>LE COMPÈRE.</speaker>
 	<l id='469'>Ah ! C'est en peu de mots tout dire,</l>
@@ -917,10 +913,10 @@
 </sp>
 <sp who='LUBIN'><speaker>LUBIN.</speaker>
 	<l id='471'>Voilà le Compère sorti,</l>
-	<l id='472' part='i'>Bon.</l>
+	<l id='472' part="i">Bon.</l>
 </sp>
 <sp who='LUBINE'><speaker>LUBINE.</speaker>
-	<l id='472' part='f'>Mon amour, il est parti.</l>
+	<l id='472' part="f">Mon amour, il est parti.</l>
 </sp>
 <sp who='LUBIN'><speaker>LUBIN.</speaker>
 	<l id='473'>Il est parti ! Ton coeur soupire !</l>
@@ -1027,28 +1023,28 @@
 	<l id='529'>Commande, je suis ton esclave.</l>
 </sp>
 </div2>
-<div2 type="scene" n='13'><head>SCÈNE DERNIÈRE. Monsieur Ragot, Le Compère sortants chacun d'un côté, Lubin, Lubine.</head> 
+<div2 type="scene" n='13' stage="entrance"><head>SCÈNE DERNIÈRE. Monsieur Ragot, Le Compère sortants chacun d'un côté, Lubin, Lubine.</head> 
 <sp who='LUBIN'><speaker>LUBIN.</speaker>
-	<l id='530' part='i'>Ah, voisin !</l>
+	<l id='530' part="i">Ah, voisin !</l>
 </sp>
 <sp who='MONSIEUR-RAGOT'><speaker>MONSIEUR RAGOT.</speaker>
-	<l id='530' part='f'>As-tu réussi ?</l>
+	<l id='530' part="f">As-tu réussi ?</l>
 </sp>
-<sp who='LUBIN'><speaker>LUBIN, au Compère.</speaker>
+<sp stage="toward" who='LUBIN'><speaker>LUBIN, au Compère.</speaker>
 	<l id='531'>Que venez-vous chercher ici ?</l>
 </sp>
 <sp who='LE-COMPÈRE'><speaker>LE COMPÈRE.</speaker>
-	<l id='532' part='i'>Hen.</l>
+	<l id='532' part="i">Hen.</l>
 </sp>
 <sp who='LUBIN'><speaker>LUBIN.</speaker>
-	<l id='532' part='f'>Ne faites point tant le brave ;</l>
+	<l id='532' part="f">Ne faites point tant le brave ;</l>
 	<l id='533'>Tasse rouzi friou titave,</l>
 	<l id='534'>Vous pourrait maltraiter, ma foi,</l>
 	<l id='535'>Votre gîte n'est plus chez moi,</l>
-	<l id='536' part='i'>Le temps est passé.</l>
+	<l id='536' part="i">Le temps est passé.</l>
 </sp>
 <sp who='LE-COMPÈRE'><speaker>LE COMPÈRE.</speaker>
-	<l id='536' part='f'>Hé compère !</l>
+	<l id='536' part="f">Hé compère !</l>
 </sp>
 <sp who='LUBIN'><speaker>LUBIN.</speaker>
 	<l id='537'>Il n'est compère ni commère,</l>

@@ -64,7 +64,7 @@
 </front>
 <body>
 <div1 type="act" n='1'><head></head>
-<stage type="[N/A]">Théâtre représente une rue.</stage>
+<stage type="decor">Théâtre représente une rue.</stage>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Maître Groseel Avocat, Flon-Flon en vieux grivois, La Commère Voire, en harangère.</head>
 <sp who='MAÎTRE GROSSEL'><speaker>MAÎTRE GROSSEL, à Flon-flon.</speaker>
 <stage type="music">Air : Mon Père, je viens devant vous.</stage>
@@ -107,7 +107,7 @@
 </sp>
 <sp who='MAÎTRE GROSSEL'><speaker>MAÎTRE GROSSEL.</speaker>
 <p id='3'>
-	<s id='1'>Je ne  vous connaissais que de nom ; je suis ravi de vous connaître personnellement. </s>
+	<s id='1'>Je ne vous connaissais que de nom ; je suis ravi de vous connaître personnellement. </s>
 	<s id='2'>Hé bien qu'y a-t-il gour votre service ? </s>
 	<s id='3'>De quoi s'agit-il ?</s>
 </p>
@@ -221,11 +221,11 @@
 	<l id='36'>Monsieur, c'est le Mitron de Gonesse.</l>
 </sp>
 <sp who='MAÎTRE GROSSEL'><speaker>MAÎTRE GROSSEL.</speaker>
-	<l id='37' part='i'>Ce Manant ?</l>
+	<l id='37' part="i">Ce Manant ?</l>
 </sp>
 <sp who='LA COMÈRE VOIRE'><speaker>LA COMÈRE VOIRE.</speaker>
 <note type="L">Bagnolet : ville à l'Est et proche de Paris.</note>
-	<l id='37' part='f'>C'est Pierre Bagnolet.</l>
+	<l id='37' part="f">C'est Pierre Bagnolet.</l>
 </sp>
 <sp who='MAÎTRE GROSSEL'><speaker>MAÎTRE GROSSEL.</speaker>
 <p id='1'>
@@ -356,7 +356,7 @@
 	<l id='93'>Banir les vieux Couplets ;</l>
 	<l id='94'>Et vous n'aurez plus désormais</l>
 	<l id='95'>Rien à craindre que les sifflets.</l>
-<stage type="[N/A]">Maître Gouffin sort. Les quatre Couplets Nouveaux qui viennent d'arriver le suivent. Le Menuet et la Musette restent encore un moment.</stage>
+<stage type="exit">Maître Gouffin sort. Les quatre Couplets Nouveaux qui viennent d'arriver le suivent. Le Menuet et la Musette restent encore un moment.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Le Menuet, La Musette.</head>
@@ -371,11 +371,11 @@
 	<l id='99'>Toure , toure , tourelourirette.</l>
 	<l id='100'>Soyons témoins de cela,</l>
 	<l id='101'>Tourelourirette, ô lironfa !</l>
-<stage type="[N/A]">Ils se prennent tous deux par les mains, et s'en vont en dansant et chantant le refrain de l'air précédent.</stage>
+<stage type="danse/sing">Ils se prennent tous deux par les mains, et s'en vont en dansant et chantant le refrain de l'air précédent.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Le Président, Les quatre Conseillers, Maître Gouffin, Maître Grossel, Troupe de vieux couplets, Troupe de nouveaux couplets, Maître Babillary avocat, Le Greffier.</head>
-<stage type="[N/A]">On lève le rideau, qui laisse voir dans l'enfoncement du théâtre le Mont Parnasse, au bas duquel sont cinq ifs. Celui du milieu, plus gros que les quatre autres, sert de dossier au Président, et les quatre autres ifs sont pour les quatre Conseillers qui sont aux cotés du Président. Devant eux est le greffier, appuyé sur une petite table, et tenant plusieurs placets. Les Avocats sont dans les ailes avec leurs parties.</stage>
+<stage type="decor">On lève le rideau, qui laisse voir dans l'enfoncement du théâtre le Mont Parnasse, au bas duquel sont cinq ifs. Celui du milieu, plus gros que les quatre autres, sert de dossier au Président, et les quatre autres ifs sont pour les quatre Conseillers qui sont aux cotés du Président. Devant eux est le greffier, appuyé sur une petite table, et tenant plusieurs placets. Les Avocats sont dans les ailes avec leurs parties.</stage>
 <sp who='LE PRÉSIDENT'><speaker>LE PRÉSIDENT, au Greffer.</speaker>
 <p id='1'>
 	<s id='1'>Appelez les placets.</s>
@@ -388,7 +388,7 @@
 </sp>
 <sp who='LE PRÉSIDENT'><speaker>LE PRÉSIDENT.</speaker>
 <p id='3'>
-	<s id='1'>Appellez-en un autre.</s>
+	<s id='1'>Appelez-en un autre.</s>
 </p>
 </sp>
 <sp who='LE GREFFIER'><speaker>LE GREFFIER.</speaker>
@@ -451,15 +451,15 @@
 	<l id='117'>Et sont l'effroi de la pudeur.</l>
 </sp>
 <sp who='MAÎTRE GROSSEL'><speaker>MAÎTRE GROSSEL.</speaker>
-<stage type="music">Air  Je ferai mon devoir.</stage>
+<stage type="music">Air Je ferai mon devoir.</stage>
 	<l id='118'>Oh ! S'il vous plaît, Maître Gouffin,</l>
 	<l id='119'>Ménagez le prochain : </l>
-<stage type="[N/A]">Bis.</stage>
+<stage type="bis">Bis.</stage>
 	<l id='120'>Là-dessus soyez délicat.</l>
 </sp>
 <sp who='MAÎTRE GOUFFIN'><speaker>MAÎTRE GOUFFIN.</speaker>
 	<l id='121'>Je suis un Avocat. </l>
-<stage type="[N/A]">Bis.</stage>
+<stage type="bis">Bis.</stage>
 <stage type="toward">Aux Juges.</stage>
 <p id="11">
 	<s id="1">Messieurs, voici le fait en deux mots. </s>
@@ -515,7 +515,7 @@
 <p id='17'>
 	<s id='1'>À moi le dé.</s>
 </p>
-<stage type="[N/A]">Après avoir toussé et craché.</stage>
+<stage type="cough/spit">Après avoir toussé et craché.</stage>
 <stage type="music">Air 169 : N'aurai-je jamais un Amant ?</stage>
 	<l id='132'>Maître Gouffin vous vient, Messieurs,</l>
 	<l id='133'>D'étaler bien des fleurs,</l>
@@ -609,7 +609,7 @@
 	<s id='2'>Est-ce avec un Menuet, est-ce avec une Contredanse que vous ferez l'exposition d'un sujet ? </s>
 	<s id='3'>Lequel de vos nouveaux couplets est aussi propre à faire un Récit que le "Cap de Bonne Espérance",</s>
 </p>
-<stage type="[N/A]">Il en chante le commencement : Ce qu'il fait aussi aux trois autres qu'il va citer.</stage>
+<stage type="sing">Il en chante le commencement : Ce qu'il fait aussi aux trois autres qu'il va citer.</stage>
 <p id="29">
 	<s id="1">et le vieux "Joconde" ? </s>
 	<s id='2'>Pour bien marquer la joie, avez-vous l'équivalent d'un "Allons-gai", "Toujours-gai", "D'un-air gai" ? </s>
@@ -654,7 +654,7 @@
 	<l id='170'>Depuis longtemps nous ayons le bonheur</l>
 	<l id='171'>De divertir, en combattant les Vices :</l>
 	<l id='172'>Ah ! Laissez-nous mourir au lit d'honneur !</l>
-<stage type="[N/A]">Ici les Juges vont aux opinions.</stage>
+<stage type="action">Ici les Juges vont aux opinions.</stage>
 <p id='34'>
 	<s id='1'>Songez, Messieurs, que l'Opéra Comique nous doit sa naissance. </s>
 	<s id='2'>Nous en sommes les Fondateurs.</s>
@@ -711,7 +711,7 @@
 	<l id='182'>Bien sensée,</l>
 	<l id='183'>Bien troussée,</l>
 	<l id='184'>Est toujours de saison.</l>
-<stage type="[N/A]">Bis.</stage>
+<stage type="bis">Bis.</stage>
 </sp>
 <sp who='LE GREFFIER'><speaker>LE GREFFIER.</speaker>
 <p id='42'>
@@ -720,7 +720,7 @@
 </p>
 </sp>
 <sp who='LE PRÉSIDENT'><speaker>LE PRÉSIDENT.</speaker>
-<stage type="[N/A]">SENTENCE.</stage>
+<stage type="explicit">SENTENCE.</stage>
 <stage type="music">Air Voulez-vous savoir qui des deux.</stage>
 	<l id='185'>À bien vivre avec leurs rivaux</l>
 	<l id='186'>Nous condamnons les airs nouveaux.</l>
@@ -740,7 +740,7 @@
 </p>
 </sp>
 <sp who='LE PRÉSIDENT'><speaker>LE PRÉSIDENT.</speaker>
-<stage type="music">Air  Vous, qui vous moquez par vos ris.</stage>
+<stage type="music">Air Vous, qui vous moquez par vos ris.</stage>
 	<l id='191'>Tout vieux couplet continuera</l>
 	<l id='192'>D'entrer dans un ouvrage :</l>
 	<l id='193'>Mais un Auteur se gardera,</l>
@@ -760,7 +760,7 @@
 </p>
 <stage type="sing">Il chante.</stage>
 	<l id='197'>N'y a pas d'mal à ça.</l>
-<stage type="[N/A]">Bis.</stage>
+<stage type="bis">Bis.</stage>
 </sp>
 <sp who='LE PRÉSIDENT'><speaker>LE PRÉSIDENT.</speaker>
 <p id='47'>
@@ -798,7 +798,7 @@
 </sp>
 <sp who='CHOEUR'><speaker>CHOEUR.</speaker>
 	<l id='216'>Toque etc.</l>
-<stage type="[N/A]">Tous les Couplets ; tant Vieux que Nouveaux, dansent seuls et à deux, chacun dans leur caractère ; après quoi ils se réunissent tous, et finissent le Divertissement par un ballet général.</stage>
+<stage type="sing/danse">Tous les Couplets ; tant Vieux que Nouveaux, dansent seuls et à deux, chacun dans leur caractère ; après quoi ils se réunissent tous, et finissent le Divertissement par un ballet général.</stage>
 </sp>
 </div2>
 </div1>

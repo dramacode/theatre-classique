@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding='iso-8859-1'?>
+<?xml version="1.0" encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
 <teiHeader>
 	<fileDesc>
@@ -8,9 +8,9 @@
 			
 		</titleStmt>
 		<publicationStmt>	
-			<p>publié par Paul FIEVRE, mai 2015</p>
-		<idno></idno>
-</publicationStmt>
+			<publisher>publié par Paul FIEVRE, mai 2015, décembre 2016</publisher>
+			<idno>BEAUNOIR_LIBELLISTES</idno>
+		</publicationStmt>
 		<SourceDesc>
 				<genre>Drame</genre>
 				<inspiration>moeurs autrichiennes</inspiration>
@@ -110,12 +110,12 @@
 	<s id="1">Personne.</s>
 </p>
 </sp>
-<sp who='LE BARON'><speaker>LE BARON, s'asseyant, et montrant une chaise à Robert.</speaker>
+<sp stage="sit/show" who='LE BARON'><speaker>LE BARON, s'asseyant, et montrant une chaise à Robert.</speaker>
 <p id='7'>
 	<s id='1'>Asseyez-vous, Robert.</s>
 </p>
 </sp>
-<sp who='ROBERT'><speaker>ROBERT, hésitant.</speaker>
+<sp stage="hesitate" who='ROBERT'><speaker>ROBERT, hésitant.</speaker>
 <p id='8'>
 	<s id='1'>Monsieur le Baron....</s>
 </p>
@@ -125,7 +125,7 @@
 	<s id="1">Asseyez-vous, vous dis-je. </s>
 	<s id='2'>Le dépôt précieux que je vous ai confié, et dont vous allez me rendre compte, fait disparaître à mes yeux le simple serviteur.</s>
 </p>
-<stage type="[N/A]">Robert s'asseoit. Le Baron continue. </stage>
+<stage type="sit/continue">Robert s'asseoit. Le Baron continue. </stage>
 <p id="9">
 	<s id="1">Quand je quittai Vienne, il y a huit ans, pour la Cour ou mon Souverain m'envoyait ; la trop grande jeunesse de mon fils, ne me permit pas de l'emmener avec moi ; je vous le confiai, Robert, non comme à un Mentor, mais comme à un serviteur aussi zélé que fidèle ; je ne vous donnai pas le titre de gouverneur, j'oserais à peine le prendre, moi qui suis son père ; vous restâtes toujours mon intendant. </s>
 	<s id='3'>Êtes-vous content de mon fils, Robert ?... </s>
@@ -191,7 +191,7 @@
 	<s id="1">Oui, Monsieur le Baron, c'est le nom qu'on lui donne.</s>
 </p>
 </sp>
-<sp who='LE BARON'><speaker>LE BARON, se levant.</speaker>
+<sp stage="stand" who='LE BARON'><speaker>LE BARON, se levant.</speaker>
 <p id='21'>
 	<s id='1'>Ô ciel ! </s>
 	<s id='2'>Tu me punis comme je l'ai mérité ! </s>
@@ -213,7 +213,7 @@
 	<s id="1">Il en est tout au plus soupçonné ; quelques affaires que lui suscitèrent ses premiers écrits, et dont il se tira avec honneur...</s>
 </p>
 </sp>
-<sp who='LE BARON'><speaker>LE BARON, vivement.</speaker>
+<sp stage="enthousiasm" who='LE BARON'><speaker>LE BARON, vivement.</speaker>
 <p id="25">
 	<s id="1">Dites avec bonheur.</s>
 </p>
@@ -256,9 +256,9 @@
 	<s id="1">Oui, Monsieur le Baron.</s>
 </p>
 </sp>
-<sp who='LE BARON'><speaker>LE BARON, à part.</speaker>
+<sp stage="aparte" who='LE BARON'><speaker>LE BARON, à part.</speaker>
 <p id="33">
-	<s id="1">À mon hermitage ! </s>
+	<s id="1">À mon ermitage ! </s>
 	<s id='2'>Ah ! </s>
 	<s id='3'>S'il savait combien j'y ai versé de larmes ! </s>
 	<s id='5'>Achevez, Robert ; vous n'avez rien découvert de plus ?</s>
@@ -296,7 +296,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II.</head>
-<sp who='LE BARON'><speaker>LE BARON, seul.</speaker>
+<sp stage="alone" who='LE BARON'><speaker>LE BARON, seul.</speaker>
 <p id="1">
 	<s id="1">Que viens-je d'apprendre ! </s>
 	<s id='2'>Ce n'était donc pas assez d'avoir à pleurer sur mes torts ! </s>
@@ -320,7 +320,7 @@
 	<s id="1">Bonjour, mon fils ; vous êtes sorti de bien grand matin ?</s>
 </p>
 </sp>
-<sp who='ROTHENBERG'><speaker>ROTHENBERG, un peu ému.</speaker>
+<sp stage="touched" who='ROTHENBERG'><speaker>ROTHENBERG, un peu ému.</speaker>
 <p id='2'>
 	<s id='1'>C'est mon habitude, mon père ; j'aime à goûter a la campagne la fraîcheur et le calme d'une belle matinée.</s>
 </p>
@@ -341,7 +341,7 @@
 	<s id="1">Pardonnez-moi, je vois de l'inquiétude dans vos yeux ce n'est pas sans doute mon retour qui vous afflige ?</s>
 </p>
 </sp>
-<sp who='ROTHENBERG'><speaker>ROTHENBERG, lui baisant la main,</speaker>
+<sp stage="kiss" who='ROTHENBERG'><speaker>ROTHENBERG, lui baisant la main.</speaker>
 <p id='6'>
 	<s id='1'>Ô mon père !... </s>
 	<s id='2'>Je vais vous l'avouer ; je porte peut-être trop loin la sensibilité.</s>
@@ -476,7 +476,7 @@
 <sp who="LE BARON"><speaker>LE BARON.</speaker>
 <p id="27">
 	<s id="1">Je ne vous crois pas assez malheureux pour être un de ces fléaux de la société qui, rougissant eux-mêmes de leur lâcheté, se cachent pour lancer dans le silence les traits empoisonnés dont ils déchirent le coeur de leurs victimes... </s>
-	<s id='2'>Êtres aussi vils que méchants, qui font horreur à eux-mêmes, sont l'effroi des honnêtes gens, baissent les  yeux devant l'homme qui les regarde fixement, et rougissent lorsqu'ils s'entendent nommer. </s>
+	<s id='2'>Êtres aussi vils que méchants, qui font horreur à eux-mêmes, sont l'effroi des honnêtes gens, baissent les yeux devant l'homme qui les regarde fixement, et rougissent lorsqu'ils s'entendent nommer. </s>
 	<s id='3'>Non, mon fils n'est pas un libelliste. </s>
 	<s id='4'>Je l'offenserais d'en former même le soupçon ; il ne voudrait pas porter la honte, le désespoir et la mort dans le coeur de son père... </s>
 	<s id='5'>Je n'attribue donc qu'à votre modestie, le refus que vous me faites de me montrer votre travail ; demain vous le confierez à ma tendresse ; demain nous visiterons ensemble votre portefeuille n'est-il pas vrai, mon fils ?</s>
@@ -515,7 +515,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV.</head>
-<sp who='ROTHENBERG'><speaker>ROTHENBERG, seul.</speaker>
+<sp stage="alone" who='ROTHENBERG'><speaker>ROTHENBERG, seul.</speaker>
 <p id="1">
 	<s id="1">Quel bonheur qu'il n'ait pas insisté à voir mon porte-feuille ; oh ! </s>
 	<s id='2'>Comme je souffrais ! </s>
@@ -575,7 +575,7 @@
 <p id="2">
 	<s id="1">Le désir de vous rendre mes devoirs, Monsieur, et de vous témoigner ma reconnaissance ; votre dernier pamphlet est une mine d'or pour moi, je ne puis suffire à la vente, et je vous prie de vouloir bien accepter ce petit cadeau.</s>
 </p>
-<stage type="[N/A]">Il pose un rouleau de cent ducats sur le bureau de Rothenberg.</stage>
+<stage type="drop/location">Il pose un rouleau de cent ducats sur le bureau de Rothenberg.</stage>
 </sp>
 <sp who="ROTHENBERG"><speaker>ROTHENBERG.</speaker>
 <p id="3">
@@ -839,7 +839,7 @@
 	<s id='2'>Le ministre ne manquerait pas de faire saisir toute l'édition lorsqu'elle entrerait dans le royaume ; pendant ce temps, je ferais la mienne en secret, et j'aurais le plaisir de ruiner un libraire Hollandais. </s>
 	<s id='3'>Voilà, Monsieur, le petit service que j'ose attendre de vous ; pour une plume comme la vôtre, c'est l'affaire d'une matinée ; quatre pages bien frappées suffiront, et voilà vingt ducats que je vous prie d'accepter. </s>
 </p>
-<stage type="[N/A]">Il compte vingt ducats sur le bureau de Rothenberg.</stage>
+<stage type="search">Il compte vingt ducats sur le bureau de Rothenberg.</stage>
 </sp>
 <sp who="ROTHENBERG"><speaker>ROTHENBERG.</speaker>
 <p id="53">
@@ -857,7 +857,7 @@
 	<s id="1">Que Monsieur de Scharfmann est un homme d'honneur.</s>
 </p>
 </sp>
-<sp who='LA PRESSE'><speaker>LA PRESSE, ajoutant quatre ducats.</speaker>
+<sp stage="give" who='LA PRESSE'><speaker>LA PRESSE, ajoutant quatre ducats.</speaker>
 <p id='56'>
 	<s id="1">Cela se peut.</s>
 </p>
@@ -866,14 +866,14 @@
 <p id="57">
 	<s id="1">Qu'il a autant de probité que de talents.</s>
 </p>
-<stage type="[N/A]">La Presse ajoute encore quatre ducats.</stage>
+<stage type="drop">La Presse ajoute encore quatre ducats.</stage>
 </sp>
 <sp who="ROTHENBERG"><speaker>ROTHENBERG.</speaker>
 <p id="58">
 	<s id="1">Qu'il est incapable de manquer au juste respect qu'il doit à un ministre qui le protège, l'aime et l'estime ; que ses satires attaquent les vices et non les personnes.</s>
 </p>
 </sp>
-<sp who='LA PRESSE'><speaker>LA PRESSE, ajoutant quatre ducats.</speaker>
+<sp stage="give" who='LA PRESSE'><speaker>LA PRESSE, ajoutant quatre ducats.</speaker>
 <p id='59'>
 	<s id='1'>Je sais tout cela, Monsieur.</s>
 </p>
@@ -894,17 +894,17 @@
 	<s id="1">Vous en compteriez cent, vous en compteriez mille, que vous ne me feriez pas écrire une ligne contre un ami que j'estime.</s> 
 </p>
 </sp>
-<sp who='LA PRESSE'><speaker>LA PRESSE ramassant son or, et le remettant dans sa bourse.</speaker>
+<sp stage="get/hide" who='LA PRESSE'><speaker>LA PRESSE ramassant son or, et le remettant dans sa bourse.</speaker>
 <p id='63'>
 	<s id='1'>C'est votre dernier mot, Monsieur ?</s>
 </p>
 </sp>
-<sp who='ROTHENBERG'><speaker>ROTHENBERG, avec humeur.</speaker>
+<sp stage="nervous" who='ROTHENBERG'><speaker>ROTHENBERG, avec humeur.</speaker>
 <p id='64'>
 	<s id='1'>Oui, Monsieur.</s>
 </p>
 </sp>
-<sp who='LA PRESSE'><speaker>LA PRESSE, avec une douceur ironique.</speaker>
+<sp stage="gently/ironic" who='LA PRESSE'><speaker>LA PRESSE, avec une douceur ironique.</speaker>
 <p id='65'>
 	<s id='1'>Monsieur, on ne concilie pas les extrêmes ; ou soyez honnête homme, ou soyez libelliste. </s>
 </p>
@@ -912,7 +912,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI.</head>
-<sp who='ROTHENBERG'><speaker>ROTHENBERG, seul.</speaker>
+<sp stage="alone" who='ROTHENBERG'><speaker>ROTHENBERG, seul.</speaker>
 <p id='1'>
 	<s id='1'>Il a raison ; lorsque j'interroge mon coeur, je ne suis pas content de moi.</s>
 </p>
@@ -957,7 +957,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='8'><head>SCÈNE VIII. Rothenberg, Madame Berg.</head>
-<sp who='ROTHENBERG'><speaker>ROTHENBERG, va au-devant d'elle, et lui présente un fauteuil.</speaker>
+<sp stage="closer/decor" who='ROTHENBERG'><speaker>ROTHENBERG, va au-devant d'elle, et lui présente un fauteuil.</speaker>
 <p id="1">
 	<s id="1">Puis-je savoir, Madame, ce qui me procure l'honneur de votre visite, et si je puis vous être bon à quelque chose ?</s>
 </p>
@@ -1051,7 +1051,7 @@
 	<s id="1">Oui, Monsieur.</s>
 </p>
 </sp>
-<sp who='ROTHENBERG'><speaker>ROTHENBERG, lui donnant le rouleau que La Presse a laissé sur son bureau.</speaker>
+<sp stage="give/location" who='ROTHENBERG'><speaker>ROTHENBERG, lui donnant le rouleau que La Presse a laissé sur son bureau.</speaker>
 <p id='19'>
 	<s id='1'>En voilà cent, Madame.</s>
 </p>
@@ -1091,7 +1091,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='9'><head>SCÈNE IX.</head>
-<sp who='ROTHENBERG'><speaker>ROTHENBERG, seul.</speaker>
+<sp stage="alone" who='ROTHENBERG'><speaker>ROTHENBERG, seul.</speaker>
 <p id="1">
 	<s id="1">Au moins j'ai réparé le tort que j'avais fait à cette pauvre femme sans la connaître ; et l'or de Monsieur de La Presse a été bien employé. </s>
 	<s id='2'>Je ne suis pas heureux... </s>
@@ -1106,7 +1106,7 @@
 <div1 type="act" n='2'><head>ACTE II</head>
 <stage type="decor">Le théâtre représente un Jardin potager ; sur un des côtés ; en avant, est une petite élévation couverte de fleurs, et de jeunes arbustes ; à côté est un banc de pierre, dans le fond du Théâtre est une chaumière.</stage>
 <div2 type="scene" n='2'><head>SCÈNE PREMIÈRE. Wild, Henriette.</head>
-<stage type="action">Au lever de la toile, Wild est occupé à remplir un panier de légumes ; Henriette cueille une rose, sur un rosier planté sur la petite élévation.</stage>
+<stage type="work">Au lever de la toile, Wild est occupé à remplir un panier de légumes ; Henriette cueille une rose, sur un rosier planté sur la petite élévation.</stage>
 <sp who="WILD"><speaker>WILD.</speaker>
 <note type="C">Wild, est un nom allemand, qui signifie sauvage. Il faut avoir l'attention de le prononcer comme s'il y avait Ouilde.</note>
 <p id="1">
@@ -1227,7 +1227,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Wild, Henriette, Berte.</head>
-<sp who='HENRIETTE'><speaker>HENRIETTE, étonnée de voir entrer Berte.</speaker>
+<sp stage="estonish/entrance" who='HENRIETTE'><speaker>HENRIETTE, étonnée de voir entrer Berte.</speaker>
 <p id='1'>
 	<s id='1'>C'est vous ?</s>
 </p>
@@ -1283,7 +1283,7 @@
 	<s id="1">C'est vrai.</s>
 </p>	
 </sp>
-<sp who='WILD'><speaker>WILD, lui donnant un panier de fruits, et un de légumes.</speaker>
+<sp stage="give" who='WILD'><speaker>WILD, lui donnant un panier de fruits, et un de légumes.</speaker>
 <p id='12'>
 	<s id='1'>Tenez, ma bonne voisine, voici un panier de fruits, en voici un de légumes.</s>
 </p>
@@ -1293,7 +1293,7 @@
 	<s id="1">Et votre crème, ma fille ?</s>
 </p>
 </sp>
-<sp who='HENRIETTE'><speaker>HENRIETTE, avec un petit mouvement d'humeur.</speaker>
+<sp stage="nervous" who='HENRIETTE'><speaker>HENRIETTE, avec un petit mouvement d'humeur.</speaker>
 <p id='14'>
 	<s id='1'>Je la garde.</s>
 </p>
@@ -1374,14 +1374,14 @@
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV.</head>
-<sp who='HENRIETTE'><speaker>HENRIETTE seule, elle regarde tristement sa rose.</speaker>
+<sp stage="alone/watch/sad" who='HENRIETTE'><speaker>HENRIETTE seule, elle regarde tristement sa rose.</speaker>
 <p id="1">
 	<s id="1">Pauvre rose ! </s>
 	<s id='2'>C'était à Georges, c'était à ce méchant que je t'avais destinée, il n'est pas venu te chercher... </s>
 	<s id='3'>Il préfère aller travailler dans le jardin d'une grande Dame, à venir prendre les fruits de son Henriette... </s>
 	<s id='4'>Pauvre Henriette !</s>
 </p>
-<stage type="[N/A]">Elle laisse tomber une larme sur la rose.</stage>
+<stage type="cry">Elle laisse tomber une larme sur la rose.</stage>
 <p id="2">
 	<s id="1">Quoi ! </s>
 	<s id='2'>C'est de mes larmes qu'est arrosée la première rose que j'ai vue s'épanouir, que j'avais cueillie pour lui... pour lui... </s>
@@ -1389,18 +1389,18 @@
 	<s id='5'>Je ne te verrai donc que pour penser à lui... </s>
 	<s id='5'>Non, non. </s>
 </p>
-<stage type="[N/A]">Elle jette la rose par terre.</stage>
+<stage type="throw">Elle jette la rose par terre.</stage>
 <p id="3">
 	<s id="1">Je n'y veux plus penser, c'est un ingrat... </s>
 </p>
-<stage type="[N/A]">Elle marche sur la rose et l'écrase.</stage>
+<stage type="walk/break">Elle marche sur la rose et l'écrase.</stage>
 <p id='4'>
 	<s id='1'>Tiens, méchant, tiens ; voilà comme je traite ta rose.</s>
 </p>
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Wild, Henriette.</head>
-<sp who='WILD'><speaker>WILD, reste un instant au fond du théâtre, il regarde Henriette qui écrase la rose, et s'approche doucement d'elle en souriant.</speaker>
+<sp stage="stay/watch" who='WILD'><speaker>WILD, reste un instant au fond du théâtre, il regarde Henriette qui écrase la rose, et s'approche doucement d'elle en souriant.</speaker>
 <p id='1'>
 	<s id='1'>Que fais-tu donc là, Henriette ?</s>
 </p>
@@ -1467,17 +1467,17 @@
 	<s id="1">Sans embrasser ton père ?</s>
 </p>
 </sp>
-<sp who='HENRIETTE'><speaker>HENRIETTE, se jetant dans ses bras.</speaker>
+<sp stage="hugh" who='HENRIETTE'><speaker>HENRIETTE, se jetant dans ses bras.</speaker>
 <p id='14'>
 	<s id='1'>Oh ! </s>
 	<s id='2'>Papa.</s>
 </p>
-<stage type="[N/A]">Wild l'embrasse, elle va dans le jardin.</stage>
+<stage type="kiss/exit">Wild l'embrasse, elle va dans le jardin.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI.</head>
 <sp who='WILD'><speaker>WILD seul.</speaker>
-<stage type="[N/A]">Il regarde tristement Henriette qui s'éloigne.</stage>
+<stage type="watch/sad/away">Il regarde tristement Henriette qui s'éloigne.</stage>
 <p id='1'>
 	<s id='1'>Pauvre enfant ! </s>
 	<s id='2'>Quelle différence du sort que je te prépare, à celui qui t'était destiné ! </s>
@@ -1517,12 +1517,12 @@
 	<s id="1">Huit années d'absence ont-elles suffi pour effacer du coeur de Wild tous les traits, et jusqu'au souvenir de son voisin ?</s>
 </p>
 </sp>
-<sp who='WILD'><speaker>WILD, avec joie.</speaker>
+<sp stage="happy" who='WILD'><speaker>WILD, avec joie.</speaker>
 <p id='5'>
 	<s id='1'>C'est le baron de Rothenberg.</s>
 </p>
 </sp>
-<sp who='LE BARON'><speaker>LE BARON, l'embrassant.</speaker>
+<sp stage="kiss" who='LE BARON'><speaker>LE BARON, l'embrassant.</speaker>
 <p id='6'>
 	<s id='1'>Lui-même, qui vous serre enfin dans ses bras.</s>
 </p>
@@ -1739,7 +1739,7 @@
 	<s id='3'>Condamné sur cet affreux ouvrage, par un ministre, dont la haine le poursuivent depuis longtemps, et qui lui-même avait fourni ces notes perfides, trop fier, trop vertueux pour se défendre, ce juge respectable disparut ; il perdit sa place, qui faisait toute sa fortune : réduit au plus grand besoin, il vint se cacher sous le chaume et sous l'habit d'un simple paysan, occupé nuit et jour à maudire son infâme calomniateur ; j'ai eu le bonheur de le découvrir, de pouvoir prouver son innocence... et c'est lui que je serre dans mes bras.</s>
 </p>
 </sp>
-<sp who='WILD'><speaker>WILD, se levant et le repoussant.</speaker>
+<sp stage="stand/push" who='WILD'><speaker>WILD, se levant et le repoussant.</speaker>
 <p id="45">
 	<s id="1">Cruel ! </s>
 	<s id='2'>Vous venez de me porter un coup affreux.... </s>
@@ -1974,7 +1974,7 @@
 	<s id='2'>Embrasse l'ami, le bien bon ami de ton père.</s>
 </p>
 </sp>
-<sp who='LE BARON'><speaker>LE BARON, l'embrassant.</speaker>
+<sp stage="kiss" who='LE BARON'><speaker>LE BARON, l'embrassant.</speaker>
 <p id='5'>
 	<s id='1'>Ma fille, ma chère fille !</s>
 </p>
@@ -2054,7 +2054,7 @@
 	<s id="1">C'est la mère de ce jeune paysan dont je vous ai parlé, qui vient prendre mes commissions.</s>
 </p>
 </sp>
-<sp who='HENRIETTE'><speaker>HENRIETTE, gaiement.</speaker>
+<sp stage="happy" who='HENRIETTE'><speaker>HENRIETTE, gaiement.</speaker>
 <p id='9'>
 	<s id='1'>C'est la mère de Georges.</s>
 </p>
@@ -2178,7 +2178,7 @@
 	<s id="1">Georges n'est pas son fils ?</s>
 </p>
 </sp>
-<sp who='LE BARON'><speaker>LE BARON, à part.</speaker>
+<sp stage="aparte" who='LE BARON'><speaker>LE BARON, à part.</speaker>
 <p id='17'>
 	<s id='1'>Ô mon Dieu ! </s>
 	<s id='2'>Ta bonté surpasse donc encore ta justice...</s>
@@ -2188,7 +2188,7 @@
 	<s id='1'>Ainsi donc, de concert avec lui, vous trompiez ce brave et honnête homme.</s>
 </p>
 </sp>
-<sp who="HENRIETTE"><speaker>BERTE.</speaker>
+<sp who="BERTE"><speaker>BERTE.</speaker>
 <p id="19">
 	<s id="1">Écoutez-moi sans vous fâcher, sans me condamner, je vous dirai tout, tout...</s>
 </p>
@@ -2197,12 +2197,12 @@
 <p id="20">
 	<s id="1">Parle donc, malheureuse , parle donc.</s>
 </p>
-<stage type="[N/A]">Pendant le récit que va faire Berthe, il est essentiel que les autres acteurs en coupent la longueur et la monotonie, mais seulement par leur pantomime.</stage>
-<stage type="[N/A]">Ainsi, Wild furieux est prêt à l'interrompre à tout moment, mais il en est toujours empêché, soit par le Baron qui écoute avec la plus grande attention, soit par Henriette même, qui témoigne la plus douce sensibilité.</stage>
+<stage type="pantomime">Pendant le récit que va faire Berthe, il est essentiel que les autres acteurs en coupent la longueur et la monotonie, mais seulement par leur pantomime.</stage>
+<stage type="anger/serious/gently">Ainsi, Wild furieux est prêt à l'interrompre à tout moment, mais il en est toujours empêché, soit par le Baron qui écoute avec la plus grande attention, soit par Henriette même, qui témoigne la plus douce sensibilité.</stage>
 </sp>
 <sp who='BERTE'><speaker>BERTE.</speaker>
 <p id="21">
-	<s id="1">Il y a environ trois mois, qu'un matin, c'était un dimanche, je vis entrer chez moi un jeune homme bien beau, bien habillée ; je lui demandai, toute ébauhie de sa visite, ce qu'il voulait de moi. </s>
+	<s id="1">Il y a environ trois mois, qu'un matin, c'était un dimanche, je vis entrer chez moi un jeune homme bien beau, bien habillée ; je lui demandai, toute ébahie de sa visite, ce qu'il voulait de moi. </s>
 	<s id='2'>Un service, me répondit-il, qui peut me sauver la vie. </s>
 	<s id='3'>De quoi s'agit-il, lui dis-je ? </s>
 	<s id='4'>Vous allez, reprit-il, chercher tous les matins le lait, les fruits, et les légumes de Monsieur Wild, qui demeure dans cette chaumière, à côté de l'ermitage du baron de Rothenberg ? </s>
@@ -2230,7 +2230,7 @@
 	<s id="1">Il ne vous a jamais dit qui il était ?</s>
 </p>
 </sp>
-<sp who="HENRIETTE"><speaker>BERTE.</speaker>
+<sp who="BERTE"><speaker>BERTE.</speaker>
 <p id="24">
 	<s id="1">Jamais, mais je puis vous assurer que c'est un bien honnête garçon ; depuis qu'il vient dans ce hameau, on n'y a pas versé une seule larme, il n'y a plus un seul malheureux ; il est incapable de faire du mal à quelqu'un.</s>
 </p>
@@ -2241,7 +2241,7 @@
 	<s id='2'>Sors vite...</s>
 </p>
 </sp>
-<sp who='BERTE'><speaker>BERTE, épouvantée.</speaker>
+<sp stage="frighten" who='BERTE'><speaker>BERTE, épouvantée.</speaker>
 <p id='26'>
 	<s id='1'>Oh ! </s>
 	<s id='2'>Mon Dieu, ayez pitié de lui.</s>
@@ -2335,32 +2335,32 @@
 </sp>
 </div2>
 <div2 type="scene" n='12'><head>SCÈNE XII. WILD, HENRIETTE.</head>
-<stage type="[N/A]">Moment de silence ; Wild regarde tristement sa fille, Henriette regarde la tombe de sa mère.</stage>
+<stage type="silence/sad/watch/location">Moment de silence ; Wild regarde tristement sa fille, Henriette regarde la tombe de sa mère.</stage>
 <sp who="WILD"><speaker>WILD.</speaker>
 <p id="1">
 	<s id="1">Ce Georges ! </s>
 	<s id='2'>Ce Georges ! </s>
 	<s id='3'>Voilà les hommes, mon enfant.</s>
 </p>
-<stage type="[N/A]">HENRIETTE, ne répond rien, mais elle s'approche de la tombe de sa mère, considère quelque temps le rosier que Georges lui a donné, l'arrache et le jette loin d'elle.</stage>
+<stage type="watch/closer/break">Henriette, ne répond rien, mais elle s'approche de la tombe de sa mère, considère quelque temps le rosier que Georges lui a donné, l'arrache et le jette loin d'elle.</stage>
 </sp>
 <sp who="WILD"><speaker>WILD.</speaker>
 <p id="2">
 	<s id="1">Bien, ma fille.</s>
 </p>
-<stage type="[N/A]">Henriette ramasse le rosier, et vient en froisser les racines sur le banc de pierre.</stage>
+<stage type="get/break">Henriette ramasse le rosier, et vient en froisser les racines sur le banc de pierre.</stage>
 </sp>
 <sp who="WILD"><speaker>WILD.</speaker>
 <p id="3">
 	<s id="1">Oui, ma fille, oui, sur la pierre.</s>
 </p>
-<stage type="[N/A]">Henriette rentre dans la chaumière, en se cachant les yeux avec ses deux mains ; Wild la suit en gardant le même silence.</stage>
+<stage type="exit/location/hide/silence">Henriette rentre dans la chaumière, en se cachant les yeux avec ses deux mains ; Wild la suit en gardant le même silence.</stage>
 </sp>
 </div2>
 </div1>
 <div1 type="act" n='3'><head>ACTE III</head>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Rothenberg, Scharfmann.</head>
-<sp who='SCHARFMANN'><speaker>SCHARFMANN, suivant Rothenberg, qui rentre dans son cabinet avec colère.</speaker>
+<sp stage="follow/location" who='SCHARFMANN'><speaker>SCHARFMANN, suivant Rothenberg, qui rentre dans son cabinet avec colère.</speaker>
 <p id='1'>
 	<s id='1'>Mais on écoute les gens, au moins.</s>
 </p>
@@ -2503,7 +2503,7 @@
 	<s id="1">Je t'en donne ma parole.</s>
 </p>
 </sp>
-<sp who='FRANCK'><speaker>FRANCK, annonçant à la porte sans entrer,</speaker>
+<sp stage="loud/location" who='FRANCK'><speaker>FRANCK, annonçant à la porte sans entrer.</speaker>
 <p id='25'>
 	<s id='1'>Monsieur le Comte de Vander-Alte !</s>
 </p>
@@ -2697,7 +2697,7 @@ Rothenberg?</s>
 	<s id="1">Monsieur...</s>
 </p>
 </sp>
-<sp who='SCHARFMANN'><speaker>SCHARFMANN, bas à Rothenberg.</speaker>
+<sp stage="low/toward" who='SCHARFMANN'><speaker>SCHARFMANN, bas à Rothenberg.</speaker>
 <p id='30'>
 	<s id='1'>Contraignez-vous, ou vous allez vous perdre.</s>
 </p>
@@ -2740,7 +2740,7 @@ Rothenberg?</s>
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Rothenberg, Scharfmann.</head>
-<sp who='ROTHENBERG'><speaker>ROTHENBERG, à Monsieur de Scharfmann qui l'arrête.</speaker>
+<sp stage="toward/stop" who='ROTHENBERG'><speaker>ROTHENBERG, à Monsieur de Scharfmann qui l'arrête.</speaker>
 <p id="1">
 	<s id="1">Laissez-moi... </s>
 	<s id='2'>Laissez-moi le lâche ! </s>
@@ -2939,7 +2939,7 @@ Rothenberg?</s>
 	<s id="1">N'ayez aucune inquiétude ; tout sera brûlé, tout.</s>
 </p>
 </sp>
-<sp who='SCHARFMANN'><speaker>SCHARFMANN à demi-voix, à Monsieur de Rothenberg.</speaker>
+<sp stage="low/toward" who='SCHARFMANN'><speaker>SCHARFMANN à demi-voix, à Monsieur de Rothenberg.</speaker>
 <p id="16">
 	<s id="1">Comment pouvez-vous laisser tous vos manuscrits, des manuscrits d'une si grande importance, à la merci d'un valet ?... </s>
 	<s id='2'>Ne craignez-vous pas sa curiosité, son indiscrétion ?</s>
@@ -2958,7 +2958,7 @@ Rothenberg?</s>
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V.</head>
-<sp who='FRANCK'><speaker>FRANCK, seul.</speaker>
+<sp stage="alone" who='FRANCK'><speaker>FRANCK, seul.</speaker>
 <p id="1">
 	<s id="1">Le beau feu que je vais faire !... </s>
 	<s id='2'>Mais pourquoi donc veut-il que je brûle tous ses papiers, qui lui ont couté tant de peines à griffonner... </s>
@@ -2974,7 +2974,7 @@ Rothenberg?</s>
 	<s id='12'>Cachons-les... </s>
 	<s id='13'>Je quitterai cette ville, j'irai à Paris, j'y porterai tous ces ouvrages, je les y vendrai comme de moi ; je m'y ferai auteur, comme tant d'autres...</s>
 </p>
-<stage type="[N/A]">Il se met au bureau de son maître, et joue toute la pantomime du monologue.</stage>
+<stage type="location/pantomime">Il se met au bureau de son maître, et joue toute la pantomime du monologue.</stage>
 <p id="2">
 	<s id="1">Se mettre à son bureau, se frotter les mains, essayer ses plumes, en jeter cinq ou six par terre, rêver quelques instants, se gratter le front, écrire quelques lignes, les effacer, se lever précipitamment, se promener à grands pas, revenir s'asseoir, et puis recommencer à se gratter la tête, à se frotter le front... </s>
 	<s id='2'>Voilà tout : ce n'est pas si difficile d'être auteur. </s>
@@ -2983,14 +2983,14 @@ Rothenberg?</s>
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Franck, Le Tendre, Le Douceur.</head>
-<stage type="[N/A]">La Douceur et Le Tendre sont enveloppés dans de grands manteaux qui leur cachent les bras et les mains.</stage>
+<stage type="costume/hide">La Douceur et Le Tendre sont enveloppés dans de grands manteaux qui leur cachent les bras et les mains.</stage>
 <sp who="FRANCK"><speaker>FRANCK.</speaker>
 <p id="1">
 	<s id="1">Mais que me veulent ces Messieurs ?... </s>
 	<s id='2'>Messieurs...</s>
 </p>
 </sp>
-<sp who='LE TENDRE'><speaker>LE TENDRE, le retenant sur sa chaise.</speaker>
+<sp stage="pull/sit" who='LE TENDRE'><speaker>LE TENDRE, le retenant sur sa chaise.</speaker>
 <p id="1">
 	<s id="1">Ne vous dérangez pas, Monsieur... </s>
 	<s id='2'>De grâce ne vous dérangez pas, nous serions fâchés de vous faire perdre quelque idée brillante, quelque trait charmant.... </s>
@@ -3014,12 +3014,12 @@ Rothenberg?</s>
 	<s id='2'>Mais asseyez-vous, je vous en prie.</s>
 </p>
 </sp>
-<sp who='LE TENDRE'><speaker>LE TENDRE, s'asseyant à la droite de Franck.</speaker>
+<sp stage="sit/location" who='LE TENDRE'><speaker>LE TENDRE, s'asseyant à la droite de Franck.</speaker>
 <p id="5">
 	<s id="1">Nous ne vous interromprons pas longtemps dans vos charmantes occupations.</s>
 </p>
 </sp>
-<sp who='LA DOUCEUR'><speaker>LA DOUCEUR, s'asseyant à la gauche de Franck.</speaker>
+<sp stage="sit/location" who='LA DOUCEUR'><speaker>LA DOUCEUR, s'asseyant à la gauche de Franck.</speaker>
 <p id='6'>
 	<s id='1'>Nous sommes étrangers, et prêts à retourner en France nous n'avons pas voulu quitter cette ville, sans voir son plus beau génie.</s>
 </p>
@@ -3054,7 +3054,7 @@ Rothenberg?</s>
 <p id="12">
 	<s id="1">Quelle vis comica dans les anecdotes !</s>
 </p>
-<stage type="toward">À chaque compliment, Franck leur fait des révérences ridicules, se caresse le menton, et tire son jabot.</stage>
+<stage type="wave/touch/toward">À chaque compliment, Franck leur fait des révérences ridicules, se caresse le menton, et tire son jabot.</stage>
 </sp>
 <sp who="FRANCK"><speaker>FRANCK.</speaker>
 <p id="13">
@@ -3068,7 +3068,7 @@ Rothenberg?</s>
 </p>
 </sp>
 <sp who="LA DOUCEUR"><speaker>LA DOUCEUR.</speaker>
-<note type="L">Aretin : ********</note>
+<note type="L">Aretin (Pierre) [1492-1556] : écrivain italien, dramaturge auteur de cinq comédies.</note>
 <p id="15">
 	<s id="1">De celui qui vous confirme le titre de l'Aretin du dix-huitième siècle.</s>
 </p>
@@ -3126,7 +3126,7 @@ Rothenberg?</s>
 	<s id="1">Que cela ?</s>
 </p>
 </sp>
-<sp who='FRANCK'><speaker>FRANCK, se frappant le front.</speaker>
+<sp stage="hit" who='FRANCK'><speaker>FRANCK, se frappant le front.</speaker>
 <p id="26">
 	<s id="1">Bon ! </s>
 	<s id='2'>C'est une misère ; vous en verrez bien d'autres ; j'en ai là, au moins cent, bien supérieurs.</s>
@@ -3178,17 +3178,17 @@ Rothenberg?</s>
 	<s id='2'>Oui, Messieurs, c'est moi.</s>
 </p>
 </sp>
-<sp who='LE TENDRE'><speaker>LE TENDRE, se levant.</speaker>
+<sp stage="stand" who='LE TENDRE'><speaker>LE TENDRE, se levant.</speaker>
 <p id='36'>
 	<s id='1'>C'est vous ?</s>
 </p>
 </sp>
-<sp who='LA DOUCEUR'><speaker>LA DOUCEUR, se levant.</speaker>
+<sp stage="stand" who='LA DOUCEUR'><speaker>LA DOUCEUR, se levant.</speaker>
 <p id='37'>
 	<s id='1'>Bien certainement vous ?</s>
 </p>
 </sp>
-<sp who='FRANCK'><speaker>FRANCK, se levant aussi.</speaker>
+<sp stage="stand" who='FRANCK'><speaker>FRANCK, se levant aussi.</speaker>
 <p id='38'>
 	<s id='1'>Bien certainement. Messieurs, je vous le signerais... </s>
 	<s id='2'>Si je le pouvais.</s>
@@ -3203,7 +3203,7 @@ Rothenberg?</s>
 <p id="40">
 	<s id="1">Hem ?</s>
 </p>
-<stage type="[N/A]">Le Tendre et La Douceur examinent en silence si la porte et les croisées sont bien fermées ; alors jetant à terre leurs manteaux, ils montrent à Franck chacun un jonc bien pliant qu'ils secouent.</stage>
+<stage type="silece/dress/trhow">Le Tendre et La Douceur examinent en silence si la porte et les croisées sont bien fermées ; alors jetant à terre leurs manteaux, ils montrent à Franck chacun un jonc bien pliant qu'ils secouent.</stage>
 </sp>
 <sp who="FRANCK"><speaker>FRANCK.</speaker>
 <p id="41">
@@ -3215,18 +3215,18 @@ Rothenberg?</s>
 	<s id="1">Parlez bas ; nous sommes chargés de la part de Monsieur le Comte de Vander-Alte, que vous avez lâchement outragé dans votre affreux libelle, de vous donner une petite correction littéraire.</s>
 </p>
 </sp>
-<sp who='FRANCK'><speaker>FRANCK, élevant la voix.</speaker>
+<sp stage="loud" who='FRANCK'><speaker>FRANCK, élevant la voix.</speaker>
 <p id='43'>
 	<s id='1'>Messieurs.... </s>
 	<s id='2'>Messieurs si j'appelle mes gens</s>
 </p>
 </sp>
-<sp who='LE TENDRE'><speaker>LE TENDRE, lui présentant un pistolet.</speaker>
+<sp stage="show" who='LE TENDRE'><speaker>LE TENDRE, lui présentant un pistolet.</speaker>
 <p id='44'>
 	<s id='1'>Parlez bas, ou...</s>
 </p>
 </sp>
-<sp who='FRANCK'><speaker>FRANCK, à voix basse.</speaker>
+<sp stage="low" who='FRANCK'><speaker>FRANCK, à voix basse.</speaker>
 <p id='45'>
 	<s id='1'>Mais, Messieurs... un mot... un seul mot...</s>
 </p>
@@ -3330,7 +3330,7 @@ Rothenberg?</s>
 </p>
 <stage type="read">Il lit.</stage>
 <p id="65">
-	<s id="1">« Je reconnais avoir reçu de Son Excellence, Monsieur le Comte de Vander-Alte, par les mains de messieurs le Tendre et la Douceur, (ce sont les noms de vos très humbles serviteurs), vingt-cinq coups de bâton, pour prix des infâmes calomnies que je me suis permises contre lui, dans mon libelle intitulé les Portraits du jour, dont je lui demande pardon, et lui fais réparation. À Vienne, ce 1er mai 1797.»  </s>
+	<s id="1">« Je reconnais avoir reçu de Son Excellence, Monsieur le Comte de Vander-Alte, par les mains de messieurs le Tendre et la Douceur, (ce sont les noms de vos très humbles serviteurs), vingt-cinq coups de bâton, pour prix des infâmes calomnies que je me suis permises contre lui, dans mon libelle intitulé les Portraits du jour, dont je lui demande pardon, et lui fais réparation. À Vienne, ce 1er mai 1797.» </s>
 	<s id='2'>Voulez-vous bien signer ?</s>
 </p>
 </sp>
@@ -3358,14 +3358,14 @@ Rothenberg?</s>
 <p id="70">
 	<s id="1">Je ne le peux pas.</s>
 </p>
-<stage type="[N/A]">Le Tendre et la Douceur rejettent leurs manteaux par terre.</stage>
+<stage type="dress/trhow">Le Tendre et la Douceur rejettent leurs manteaux par terre.</stage>
 </sp>
 <sp who="LE TENDRE"><speaker>LE TENDRE.</speaker>
 <p id="71">
 	<s id="1">J'en suis bien fâché, Monsieur ; nous avons l'ordre exprès de Monsieur le Comte de VaNder-Alte, d'apporter votre signature, en de vous faire expirer sous le bâton.</s>
 </p>
 </sp>
-<sp who='FRANCK'><speaker>FRANCK, se jetant à genoux.</speaker>
+<sp stage="kneel" who='FRANCK'><speaker>FRANCK, se jetant à genoux.</speaker>
 <p id="72">
 	<s id="1">Miséricorde, Messieurs ; je vous jure par tout ce qu'il y a de plus sacré, que je ne suis qu'un pauvre valet.</s>
 </p>
@@ -3392,7 +3392,7 @@ Rothenberg?</s>
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII. Franck, Le Tendre, La Douceur, Robert ouvre la porte du fond.</head>
-<sp who='FRANCK'><speaker>FRANCK, apercevant Robert.</speaker>
+<sp stage="watch" who='FRANCK'><speaker>FRANCK, apercevant Robert.</speaker>
 <p id='1'>
 	<s id=''>Eh ! </s>
 	<s id='2'>Voilà justement Monsieur Robert ; mon cher Monsieur Robert, venez donc me sauver.</s>
@@ -3437,12 +3437,12 @@ Rothenberg?</s>
 	<s id='3'>Le pauvre diable ne sait ni lire, ni écrire.</s>
 </p>
 </sp>
-<sp who='LE TENDRE'><speaker>LE TENDRE, reprenant son manteau.</speaker>
+<sp stage="dress" who='LE TENDRE'><speaker>LE TENDRE, reprenant son manteau.</speaker>
 <p id='9'>
 	<s id='1'>En ce cas, pardon, Monsieur Franck, du petit quiproquo... </s>
 	<s id='2'>Serviteur. </s>
 </p>
-<stage type="[N/A]">Le Tendre et la Douceur se retirent en faisant à Franck de grandes révérences.</stage>
+<stage type="exit/wave">Le Tendre et la Douceur se retirent en faisant à Franck de grandes révérences.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='8'><head>SCÈNE VIII. Robert, Franck.</head>
@@ -3474,20 +3474,20 @@ Rothenberg?</s>
 	<s id='2'>Tant mieux..... tant mieux.</s>
 </p>
 </sp>
-<sp who='FRANCK'><speaker>FRANCK, à part.</speaker>
+<sp stage="aparte" who='FRANCK'><speaker>FRANCK, à part.</speaker>
 <p id='6'>
 	<s id='1'>Maudits papiers... </s>
 	<s id='2'>Ah ! </s>
 	<s id='3'>Le sot métier que celui d'auteur.</s>
 </p>
-<stage type="[N/A]">Robert et Franck emportent tous les cartons et te porte-feuille.</stage>
+<stage type="get/carry">Robert et Franck emportent tous les cartons et te porte-feuille.</stage>
 </sp>
 </div2>
 </div1>
 <div1 type="act" n='4'><head>ACTE IV</head>
-<stage type="decor">Le théâtre représente un salon de l'intérieur de l'hermitage du baron de Rothenberg.</stage>
+<stage type="decor">Le théâtre représente un salon de l'intérieur de l'ermitage du Baron de Rothenberg.</stage>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE.</head>
-<sp who='ROTHENBERG'><speaker>ROTHENBERG fils, seul.</speaker>
+<sp stage="alone" who='ROTHENBERG'><speaker>ROTHENBERG fils, seul.</speaker>
 <p id='1'>
 	<s id='1'>Je respire enfin ; ici le calme renaît dans mon âme, je suis près de mon Henriette, je respire le même air que mon Henriette. </s>
 	<s id='2'>D'ici je vois le chaume tranquille qu'elle habite ; les fleurs qu'elle cultive ; ce spectacle si doux me rend à moi-même. </s>
@@ -3566,12 +3566,12 @@ Rothenberg?</s>
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Rothenberg, Le Baron.</head>
-<sp who='ROTHENBERG'><speaker>ROTHENBERG allant au-devant de son père.</speaker>
+<sp stage="closer" who='ROTHENBERG'><speaker>ROTHENBERG, allant au-devant de son père.</speaker>
 <p id='1'>
 	<s id='1'>Mon père !</s>
 </p>
 </sp>
-<sp who='LE BARON'><speaker>LE BARON, le repoussant.</speaker>
+<sp stage="push" who='LE BARON'><speaker>LE BARON, le repoussant.</speaker>
 <p id='2'>
 	<s id='1'>Êtes-vous assez cruel, Monsieur !</s>
 </p>
@@ -3592,21 +3592,21 @@ Rothenberg?</s>
 	<s id='7'>C'est lui qui afflige mes derniers jours, c'est lui qui me fait descendre au tombeau dans la douleur et la honte.</s>
 </p>
 </sp>
-<sp who='ROTHENBERG'><speaker>ROTHENBERG, se jetant à ses pieds.</speaker>
+<sp stage="kneel" who='ROTHENBERG'><speaker>ROTHENBERG, se jetant à ses pieds.</speaker>
 <p id="5">
 	<s id="1">Ô mon père ! </s>
 	<s id='2'>Mon père ! </s>
 	<s id='3'>Ne m'accablez pas : vos reproches me tuent, je mérite plus votre pitié que votre colère.</s>
 </p>
 </sp>
-<sp who='LE BARON'><speaker>LE BARON, s'éloignant.</speaker>
+<sp stage="away" who='LE BARON'><speaker>LE BARON, s'éloignant.</speaker>
 <p id="6">
 	<s id="1">Ma pitié ! </s>
 	<s id='2'>Il faut en avoir pour oser en réclamer, et votre coeur ne l'a jamais connue ; quand vous déchiriez celui qui, loin de vous avoir offensé, vous caressait peut-être, vous croyait son ami, vous confiait ses peines et ses secrets ; quand vous faisiez verser des larmes de désespoir, au malheureux qui ne connaissait pas même votre nom, quand vous enleviez à l'innocence, à la probité son honneur, ce bien si précieux, la sentiez vous cette pitié que vous osez me demander ? </s>
 	<s id='3'>Voilà donc vos titres à la gloire, voilà par quels ouvrages vous recommandez votre nom à la postérité Allez, vous êtes plus vil, plus méchant à mes yeux, que le malheureux qui m'enlève ma bourse, que l'assassin qui m'arrache la vie.</s>
 </p>
 </sp>
-<sp who='ROTHENBERG'><speaker>ROTHENBERG, levant les mains au ciel.</speaker>
+<sp stage="wave" who='ROTHENBERG'><speaker>ROTHENBERG, levant les mains au ciel.</speaker>
 <p id='7'>
 	<s id='1'>Ô mon Dieu ! </s>
 	<s id='2'>N'est-il donc pas de grâce pour le repentir ?</s>
@@ -3648,18 +3648,18 @@ Rothenberg?</s>
 <p id="14">
 	<s id="1">Votre coeur ne vous reproche rien, quand vous n'êtes occupé qu'à séduire, à tromper l'innocence.</s>
 </p>	
-<stage type="[N/A]">Il le prend avec force par le bras, le conduit jusqu'à une croisée, et lui montre la chaumière de Wild.</stage>
+<stage type="touch/pull/location">Il le prend avec force par le bras, le conduit jusqu'à une croisée, et lui montre la chaumière de Wild.</stage>
 <p id="15">
 	<s id="1">Malheureux ! </s>
 	<s id='2'>Regarde cette chaumière ; ose après me regarder.</s>
 </p>
 </sp>
-<sp who='ROTHENBERG'><speaker>ROTHENBERG, prenant les mains de son père.</speaker>
+<sp stage="get/touch" who='ROTHENBERG'><speaker>ROTHENBERG, prenant les mains de son père.</speaker>
 <p id='16'>
 	<s id='1'>Mon père, voulez-vous m'écouter ?</s>
 </p>
 </sp>
-<sp who='LE BARON'><speaker>LE BARON, retirant ses mains avec effort, et s'éloignant.</speaker>
+<sp stage="pull/away" who='LE BARON'><speaker>LE BARON, retirant ses mains avec effort, et s'éloignant.</speaker>
 <p id='17'>
 	<s id='1'>Retirez-vous ; vos mains glacent mes mains.</s>
 </p>
@@ -3700,7 +3700,7 @@ Rothenberg?</s>
 <p id="23">
 	<s id="1">Oui, Monsieur ; un monstre comme vous, un calomniateur, un libelliste, après lui avoir arraché l'honneur, l'a plongé dans le désespoir et la misère ; et c'est à cet homme que vous voulez déchirer le coeur en séduisant sa fille !</s>
 </p>
-<stage type="action/fall">Il tombe assis sur un fauteuil, Rothenberg profite de son accablement pour se jeter à ses pieds.</stage>
+<stage type="fall/sit/kneel">Il tombe assis sur un fauteuil, Rothenberg profite de son accablement pour se jeter à ses pieds.</stage>
 </sp>
 <sp who="ROTHENBERG"><speaker>ROTHENBERG.</speaker>
 <p id="24">
@@ -3828,15 +3828,15 @@ Rothenberg?</s>
 	<s id="1">On vient de remettre à votre hôtel ce paquet de la part du ministre ; j'ai craint qu'il ne contînt quelqu'ordre pressé, et j'ai cru devoir vous l'apporter sur-le-champ.</s>
 </p>
 </sp>
-<sp who='LE BARON'><speaker>LE BARON, prenant le paquet.</speaker>
+<sp stage="get" who='LE BARON'><speaker>LE BARON, prenant le paquet.</speaker>
 <p id="3">
 	<s id="1">Vous avez bien fait;</s>
 </p>
-<stage type="[N/A]">Le Baron décacheté le paquet.</stage>
+<stage type="open">Le Baron décachette le paquet.</stage>
 <p id='4'>
 	<s id='1'>C'est sans doute vos provisions pour ma place.</s>
 </p>
-<stage type="[N/A]">Il parcourt, rapidement la lettre.</stage>
+<stage type="read">Il parcourt rapidement la lettre.</stage>
 <p id='5'>
 	<s id='1'>Retirez-vous, Robert, et ne dites à personne, avant demain, où je suis.</s>
 </p>
@@ -3849,7 +3849,7 @@ Rothenberg?</s>
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Le Baron, Rothenberg.</head>
-<sp who='LE BARON'><speaker>LE BARON, donnant la lettre à son fils.</speaker>
+<sp stage="give/toward" who='LE BARON'><speaker>LE BARON, donnant la lettre à son fils.</speaker>
 <p id='1'>
 	<s id='1'>Voyez ce que m'écrit le Ministre : lisez haut.</s>
 </p>
@@ -3889,21 +3889,21 @@ Rothenberg?</s>
 	<s id='2'>Mon père.</s>
 </p>
 </sp>
-<sp who='LE BARON'><speaker>LE BARON, avec bonté.</speaker>
+<sp stage="gently" who='LE BARON'><speaker>LE BARON, avec bonté.</speaker>
 <p id='6'>
 	<s id='1'>Mon fils, vous voyez les fruits amers que vous recueillez aujourd'hui, non de la méchanceté de votre coeur, j'aime à le croire sensible et bon, j'ai besoin de le croire ; mais de la légèreté de votre esprit, de la causticité de votre plume : le mépris général en est la récompense ; la punition est sans doute assez forte redevenez le bon, le sensible Georges. </s>
 	<s id='2'>Allez désarmer la colère de Wild, consoler l'aimable Henriette, obtenir votre pardon ; et songez sous cette chaumière sacrée, aux terribles effets que peut produire un libelle... </s>
 	<s id='3'>Allez...</s>
 </p>
 </sp>
-<sp who='ROTHENBERG'><speaker>ROTHENBERG, baisant la main de son père.</speaker>
+<sp stage="kiss" who='ROTHENBERG'><speaker>ROTHENBERG, baisant la main de son père.</speaker>
 <p id='7'>
 	<s id='1'>Mon père je vais être heureux ; je serai digne de vous.</s>
 </p>
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII.</head>
-<sp who='LE BARON'><speaker>LE BARON, seul.</speaker>
+<sp stage="alone" who='LE BARON'><speaker>LE BARON, seul.</speaker>
 <p id='1'>
 	<s id='1'>Ô mon Dieu ! </s>
 	<s id='2'>Ce n'est pas pour moi que je t'implore, c'est pour Wild : attendris son coeur, éclaire son esprit ; il n'est que malheureux, il est digne de toute ta clémence ; fais rentrer le bonheur dans son coeur, et le calme dans le mien. </s>
@@ -3921,7 +3921,7 @@ Rothenberg?</s>
 </div2>
 <div2 type="scene" n='8'><head>SCÈNE VIII.</head>
 <stage type="decor">Le théâtre change et représente le jardin de Wild.</stage>
-<sp who='WILD'><speaker>WILD, assis près du tombeau de son épouse.</speaker>
+<sp stage="sit/location" who='WILD'><speaker>WILD, assis près du tombeau de son épouse.</speaker>
 <p id='1'>
 	<s id='1'>Épouse chérie ! </s>
 	<s id='2'>Bientôt je vais te rejoindre ; nous allons nous rapprocher, nous confondre ; nos rameaux se réuniront un jour, pour ne former qu'un seul berceau, sous lequel la nature, l'amour et l'amitié viendront soupirer, et nous arroser de leurs douces larmes ; mais auparavant, tu seras vengée, le sang du lâche qui porta la mort dans ton sein, aura coulé sur ta terre altérée... </s>
@@ -3945,7 +3945,7 @@ Rothenberg?</s>
 </sp>
 </div2>
 <div2 type="scene" n='9'><head>SCÈNE IX. Wild, Henriette.</head>
-<sp who='HENRIETTE'><speaker>HENRIETTE, arrêtant son père.</speaker>
+<sp stage="stop" who='HENRIETTE'><speaker>HENRIETTE, arrêtant son père.</speaker>
 <p id="1">
 	<s id="1">Tu me fuis, papa, tu fuis ton Henriette, quand elle a tant besoin de tes caresses.</s>
 </p>
@@ -4071,7 +4071,7 @@ Rothenberg?</s>
 	<s id='2'>La mienne aussi ; puisque mon père veut me quitter, puisque Georges m'a trompée, je n'aime plus rien dans la vie, délivre-m'en, mon père. </s>
 </p>
 </sp>
-<sp who='WILD'><speaker>WILD, avec effroi.</speaker>
+<sp stage="frighten" who='WILD'><speaker>WILD, avec effroi.</speaker>
 <p id='22'>
 	<s id='1'>Henriette !</s>
 </p>
@@ -4120,7 +4120,7 @@ Rothenberg?</s>
 	<s id="1">Oui, mon enfant, oui ; embrasse ton père.</s>
 </p>
 </sp>
-<sp who='HENRIETTE'><speaker>HENRIETTE, s'éloignant.</speaker>
+<sp stage="away" who='HENRIETTE'><speaker>HENRIETTE, s'éloignant.</speaker>
 <p id='31'>
 	<s id='1'>Non, papa.</s>
 </p>
@@ -4214,7 +4214,7 @@ Rothenberg?</s>
 	<s id="1">Il s'agit du bonheur de ton père.</s>
 </p>
 </sp>
-<sp who='HENRIETTE'><speaker>HENRIETTE, ouvrant, et marquant son étonnement de voir Rothenberg richement habillé.</speaker>
+<sp stage="open/estonish/costume" who='HENRIETTE'><speaker>HENRIETTE, ouvrant, et marquant son étonnement de voir Rothenberg richement habillé.</speaker>
 <p id='11'>
 	<s id=''>Entrez... </s>
 	<s id='2'>C'est donc bien vrai que vous n'êtes plus Georges, Monsieur</s>
@@ -4326,7 +4326,7 @@ Rothenberg?</s>
 </sp>
 <sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
 <p id="31">
-	<s id="1">Non , je sais bien que je suis née dans l'opulence ; que c'est un lâche, un monstre, qui, par la plus infâme des calomnies, a fait perdre à mon père son rang, son état,  sa fortune, et l'a réduit à cacher jusqu'à son nom.</s>
+	<s id="1">Non , je sais bien que je suis née dans l'opulence ; que c'est un lâche, un monstre, qui, par la plus infâme des calomnies, a fait perdre à mon père son rang, son état, sa fortune, et l'a réduit à cacher jusqu'à son nom.</s>
 </p>
 </sp>
 <sp who="ROTHENBERG"><speaker>ROTHENBERG.</speaker>
@@ -4385,18 +4385,18 @@ Rothenberg?</s>
 </sp>
 </div2>
 <div2 type="scene" n='12'><head>SCÈNE XII. Wild, Henriette, Rothenberg.</head>
-<sp who='HENRIETTE'><speaker>HENRIETTE, allant au-devant de son père.</speaker>
+<sp stage="closer" who='HENRIETTE'><speaker>HENRIETTE, allant au-devant de son père.</speaker>
 <p id='1'>
 	<s id='1'>Papa, papa, n'aie plus de chagrin voilà Georges.</s>
 </p>
 </sp>
-<sp who='WILD'><speaker>WILD, s'avançant avec fureur.</speaker>
+<sp stage="closer/anger" who='WILD'><speaker>WILD, s'avançant avec fureur.</speaker>
 <p id='2'>
 	<s id='1'>Malheureux !.... </s>
 	<s id='2'>Tu oses...</s>
 </p>
 </sp>
-<sp who='HENRIETTE'><speaker>HENRIETTE, se jetant au-devant de son père, et l'arrêtant.</speaker>
+<sp stage="closer/stop" who='HENRIETTE'><speaker>HENRIETTE, se jetant au-devant de son père, et l'arrêtant.</speaker>
 <p id='3'>
 	<s id='1'>Ne le menace pas.... </s>
 	<s id='2'>Ce n'est pas un méchant, ce n'est pas un trompeur... </s>
@@ -4483,7 +4483,7 @@ Rothenberg?</s>
 <p id="9">
 	<s id="1">Président de Rostein, il est ton fils , il est ton fils...</s>
 </p>
-<stage type="[N/A]">Se jetant aux pieds de Wild.</stage>
+<stage type="kneel">Se jetant aux pieds de Wild.</stage>
 <p id='10'>
 	<s id='1'>Et voila ta victime.</s>
 </p>
@@ -4494,7 +4494,7 @@ Rothenberg?</s>
 	<s id='2'>Que voulez-vous dire ?</s>
 </p>
 </sp>
-<sp who='LE BARON'><speaker>LE BARON, présentant son épée nue.</speaker>
+<sp stage="threat" who='LE BARON'><speaker>LE BARON, présentant son épée nue.</speaker>
 <p id="12">
 	<s id="1">C'est moi qui suis ce monstre qui t'a perdu, qui a fait mourir ta femme de douleur... </s>
 	<s id='2'>C'est moi dont ta main brûle de verser le sang... </s>
@@ -4504,17 +4504,17 @@ Rothenberg?</s>
 	<s id='6'>Termine mon supplice.</s>
 </p>
 </sp>
-<sp who='WILD'><speaker>WILD, levant les mains au ciel.</speaker>
+<sp stage="wave" who='WILD'><speaker>WILD, levant les mains au ciel.</speaker>
 <p id='13'>
 	<s id='1'>Il est un Dieu !</s>
 </p>
 </sp>
-<sp who='LE BARON'><speaker>LE BARON, lui tendant les bras.</speaker>
+<sp stage="hush" who='LE BARON'><speaker>LE BARON, lui tendant les bras.</speaker>
 <p id='14'>
 	<s id='1'>Est-il une clémence ?</s>
 </p>
 </sp>
-<sp who='WILD'><speaker>WILD, le relevant et le serrant dans ses bras.</speaker>
+<sp stage="stand/hugh" who='WILD'><speaker>WILD, le relevant et le serrant dans ses bras.</speaker>
 <p id='15'>
 	<s id='1'>Oui, puisqu'il est un repentir ; et c'est le président de Rostein qui embrasse le baron de Rothenberg.</s>
 </p>
@@ -4539,7 +4539,7 @@ Rothenberg?</s>
 	<s id="1">Oui.</s>
 </p>
 </sp>
-<sp who='LE BARON'><speaker>LE BARON, lui donnant ta lettre du ministre.</speaker>
+<sp stage="give" who='LE BARON'><speaker>LE BARON, lui donnant la lettre du ministre.</speaker>
 <p id='20'>
 	<s id='1'>Voyez s'il en est digne.</s>
 </p>
@@ -4554,7 +4554,7 @@ Rothenberg?</s>
 	<s id="1">Voulez-vous que nous le trompions encore une fois ?</s>
 </p>
 </sp>
-<sp who='WILD'><speaker>WILD, rend la lettre au Baron, après l'avoir lue.</speaker>
+<sp stage="read/give" who='WILD'><speaker>WILD, rend la lettre au Baron, après l'avoir lue.</speaker>
 <p id='23'>
 	<s id='1'>Vous lui avez pardonné ?</s>
 </p>

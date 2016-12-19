@@ -8,7 +8,7 @@
 			</titleStmt>
 			<publicationStmt>	
 				<p>publié par Paul FIEVRE juillet 2015</p>
-				<idno></idno>
+				<idno>VONDREBECK-ALARD_FORCESDELAMOUR</idno>
 			</publicationStmt>
 			<SourceDesc>
 				<genre>Divertissement</genre>
@@ -18,9 +18,6 @@
 				<periode>1671-1680</periode>
 				<taille>(mesure non pertinente)</taille>
 				<permalien></permalien>
-				<sources>
-					<source id="1"><author/><text/></source>
-				</sources>	
 			</SourceDesc>
 		</fileDesc>
 </teiHeader>
@@ -60,13 +57,13 @@
 	</front>
 <body>
 <div1 type='intermède' n='1'><head>PREMIER INTERMÈDE.</head>
-<stage type="deco">La décoration du théâtre représente une grande forêt. On voit dans les eûtes des ailes du théâtre quantité de sauteurs, sur des piédestaux. Après que les hautbois ont joué une ouverture fort agréable, on voit paraître un acteur, sous le nom de MERLIN.</stage>
+<stage type="decor">La décoration du théâtre représente une grande forêt. On voit dans les eûtes des ailes du théâtre quantité de sauteurs, sur des piédestaux. Après que les hautbois ont joué une ouverture fort agréable, on voit paraître un acteur, sous le nom de MERLIN.</stage>
 <div2 type="scene" n='1'><head>SCÈNE I.</head>
-<sp who='MERLIN'><speaker>MERLIN, seul.</speaker>
+<sp stage='alone' who='MERLIN'><speaker>MERLIN, seul.</speaker>
 <p id='1'>
 	<s id='1'>Amour,amour, chien d'amour, coquin d'amour, maraud d'amour, quoi ! </s>
 	<s id='2'>Jamais de repos ! </s>
-	<s id='3'>Dieux ! Faut-il être né sous une planète si malheureuse, pour être né  valet, et valet d'un maître plus diable que le diable ; qui ne passe sa vie et son temps qu'à lire des grammaires, qui n'a pour divertissement que des sorciers. Pour son manger, les ragoûts sont friands : vipères, crapauds et crocodiles. </s>
+	<s id='3'>Dieux ! Faut-il être né sous une planète si malheureuse, pour être né valet, et valet d'un maître plus diable que le diable ; qui ne passe sa vie et son temps qu'à lire des grammaires, qui n'a pour divertissement que des sorciers. Pour son manger, les ragoûts sont friands : vipères, crapauds et crocodiles. </s>
 	<s id='4'>Ce ne serait que demi-mal ; mais il est, par-dessus ces belles qualités, amoureux. </s>
 	<s id='5'>Il aime une bergère ; mais il n'a pu jusqu'ici percer le coeur de cette pauvre brebis. </s>
 	<s id='6'>Elle n'a, ma foi, pas tout le tort, car si une fois il s'en était rendu le maître, elle n'entendrait pour toute musique que hurlements ; ses beaux yeux ne verraient que Démons, que Furies et qu'Enfer, et ses belles dents d'ivoire ne seraient occupées qu'à ronger des aspics et des couleuvres. </s>
@@ -150,7 +147,7 @@
 	<s id='3'>Ce sont les domestiques de mon maître, qui lui servent d'espions, et qui vont en votre présence me donner de fortes et vigoureuses assurances de celle vérité. </s>
 	<s id='4'>Que je serai heureux, s'ils ne me rompent que deux ou trois côtes !</s>
 </p>
-<stage type="action/hit">Les démons le battent en faisant des pas figurés.</stage>
+<stage type="fight/danse">Les démons le battent en faisant des pas figurés.</stage>
 <p id='11'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Messieurs, doucement, je vous prie ; comme camarade, épargnez la bastonnade... </s>
@@ -160,7 +157,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III.</head>
-<sp who='MERLIN'><speaker>MERLIN, seul.</speaker>
+<sp stage='alone' who='MERLIN'><speaker>MERLIN, seul.</speaker>
 <note type="L">Croquignole : espèce de chiquenaude ou de nasarde. C'est un coup qui se donne sur le visage, en lâchant avec violence un doigt qu'on a posé sur un autre. [F]</note>
 <note type="L">Caron : Divinité de l'enfer dont la charge était de faire passer aux morts dans une barque le fleuve du Styx. [L]</note>
 <p id='1'>
@@ -175,16 +172,16 @@
 	<s id='1'>Mais j'ai compté sans mon hôte, et je vois bien que je suis destiné à mourir sous le bâton. </s>
 	<s id='2'>Il faut pourtant défendre ma peau et, par ruse ou par adresse, me tirer de ce mauvais pas. Mais comment faire ?</s>
 </p>
-<stage type="action/look">Merlin regarde les sauteurs qui sont sur leurs piédestaux.</stage>
+<stage type="watch">Merlin regarde les sauteurs qui sont sur leurs piédestaux.</stage>
 <p id='3'>
 	<s id='1'>Il faut que je prenne la place d'un de ces messieurs ; mais à qui m'adresser ? </s>
 	<s id='2'>C'est à toi que j'en veux ; ta physionomie me déplaît.</s>
 </p>
-<stage type="action">Il fait descendre un sauteur et saute en sa place.</stage>
+<stage type="down/jump">Il fait descendre un sauteur et saute en sa place.</stage>
 <p id='4'>
 	<s id='1'>Ôte-toi de là, et fais place à Merlin qui est plus honnête homme que toi.</s>
 </p>
-<stage type="entrance/action">Les Démons reviennent et font mouvoir les statues en faisant des pas figurés.</stage>
+<stage type="entrance/danse">Les Démons reviennent et font mouvoir les statues en faisant des pas figurés.</stage>
 <p id='5'>
 	<s id='1'>Ma foi, je n'y sais plus rien, et je vois bien que mes épaules ni mes bras ne sont pas suffisants pour me tirer d'affaire. </s>
 	<s id='2'>Il faut encore me rompre le col. </s>
@@ -229,13 +226,13 @@
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II.</head>
-<sp who='ZOROASTRE'><speaker>ZOROASTRE, seul.</speaker>
+<sp stage="alone" who='ZOROASTRE'><speaker>ZOROASTRE, seul.</speaker>
 <p id='1'>
 	<s id='1'>C'est à ce coup, belle Grésinde, c'est à ce coup que je viendrai à bout de vos rigueurs, et les Démons m'ont promis de me servir d'une manière que vous ne pourrez pas vous en dédire. </s>
 	<s id='2'>Et toi, amour, qui m'as blessé de tes flèches les plus perçantes, achève ton ouvrage, et fais en sorte que ma bergère soit touchée de ma passion. </s>
 	<s id='3'>Je me suis engagé de la régaler ; je veux tenir ma promesse et enfin vaincre ou périr.</s>
 </p>
-<stage type="action/bring">Les Démons apportent la table et tout ce que le magicien a demandé.</stage>
+<stage type="entrance/bring">Les Démons apportent la table et tout ce que le magicien a demandé.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Zoroastre, Merlin.</head>
@@ -257,7 +254,7 @@
 	<s id='1'>Ne te mets point en peine, je veux le régaler comme il faut, et le faire voir si Zoroastre sait venir à bout de ses desseins... </s>
 	<s id='2'>La bergère ne s'est pas voulu rendre à mes soumissions ; je veux me servir de la force de ma magie.</s>
 </p>
-<stage type="action">Il compose son charme.</stage>
+<stage type="magic">Il compose son charme.</stage>
 </sp>
 <sp who='MERLIN'><speaker>MERLIN.</speaker>
 <p id='5'>
@@ -265,7 +262,7 @@
 	<s id='2'>Monsieur, que j'ai vu une belle magicienne !</s>
 </p>
 </sp>
-<sp who='ZOROASTRE'><speaker>ZOROASTRE, sans l'écouter.</speaker>
+<sp stage="ignore" who='ZOROASTRE'><speaker>ZOROASTRE, sans l'écouter.</speaker>
 <p id='6'>
 	<s id='1'>Que ma bergère est aimable !</s>
 </p>
@@ -286,12 +283,12 @@
 	<s id='2'>Ils vous ont obéi amplement, j'en suis caution, à la vérité un peu rudement.</s>
 </p>
 </sp>
-<sp who='ZOROASTRE'><speaker>ZOROASTRE, riant.</speaker>
+<sp stage="laugh" who='ZOROASTRE'><speaker>ZOROASTRE, riant.</speaker>
 <p id='10'>
 	<s id='1'>C'est pour t'apprendre ton devoir, et tu ne seras pas si longtemps une autre fois à faire ce que je te commande.</s>
 </p>
 </sp>
-<sp who='MERLIN'><speaker>MERLIN, lui montrant Grésinde qui arrive.</speaker>
+<sp stage="entrance/show" who='MERLIN'><speaker>MERLIN, lui montrant Grésinde qui arrive.</speaker>
 <p id='11'>
 	<s id='1'>On ne peut plus juste ni plus régulièrement. </s>
 	<s id='2'>Voyez.</s>
@@ -299,7 +296,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Grésinde, Zoroastre, Merlin.</head>
-<sp who='ZOROASTRE'><speaker>ZOROASTRE, abordant Grésinde.</speaker>
+<sp stage="toward" who='ZOROASTRE'><speaker>ZOROASTRE, abordant Grésinde.</speaker>
 <p id='1'>
 	<s id='1'>Je vous suis obligé, aimable bergère, de votre visite ; c'était à moi à vous aller rendre mes devoirs, pour vous renouveler l'offre de mes services et de mon coeur ; mais vous savez que mes occupations me dispensent de sortir de cette retraite que les Dieux ne m'ont accordée pour mon séjour qu'à la condition que je n'en sortirais jamais : trop heureux, puisque vous avez choisi le même lieu pour y passer solitairement vos jours, et je le serais tout à fait, si vous vouliez faire la félicité de Zoroastre.</s>
 </p>
@@ -316,17 +313,17 @@
 </p>
 <stage type="danse">Un Danseur danse une entrée, les bergers en dansent une nouvelle, ensuite un sauteur en Arlequin danse une gigue.</stage>
 </sp>
-<sp who='MERLIN'><speaker>MERLIN, bas à Grésinde.</speaker>
+<sp stage="low/toward" who='MERLIN'><speaker>MERLIN, bas à Grésinde.</speaker>
 <p id='4'>
 	<s id='1'>Tenez ferme, ou rendez-vous. </s>
 	<s id='2'>Choisissez, car, par ma foi, vous alliez voir beau jeu ; et surtout gardez-vous bien de manger de notre souper.</s>
 </p>
 </sp>
-<sp who='GRÉSINDE'><speaker>GRÉSINDE, si Zoroastre.</speaker>
+<sp stage="" who='GRÉSINDE'><speaker>GRÉSINDE, à Zoroastre.</speaker>
 <p id="5">
 	<s id="1">Faites-moi donc voir ce que vous m'avez préparé. </s>
 </p>
-<stage type="action">Le magicien fait apporter une table, et, avec sa baguette, fait des conjurations et des cercles ; ensuite il lève trois gobelets qui sont sur cette table, les montre et les remet ; en les relevant, il en sort trois singes qui font quantité de sauts et se rangent au coté du théâtre. Il reprend le gobelet du milieu, le montre, et le remet ; il le relève, et il en sort un pâté, duquel on voit voler quantité de serpents ailés. Il donne ensuite un coup de baguette sur la table. Deux Démons enlèvent la table, et il paraît un nouveau Démon qui faits des sauts périlleux avec des singes ; ces sauts épouvantent la bergère qui semble forcée de se rendre.</stage>
+<stage type="decor/entrance">Le magicien fait apporter une table, et, avec sa baguette, fait des conjurations et des cercles ; ensuite il lève trois gobelets qui sont sur cette table, les montre et les remet ; en les relevant, il en sort trois singes qui font quantité de sauts et se rangent au coté du théâtre. Il reprend le gobelet du milieu, le montre, et le remet ; il le relève, et il en sort un pâté, duquel on voit voler quantité de serpents ailés. Il donne ensuite un coup de baguette sur la table. Deux Démons enlèvent la table, et il paraît un nouveau Démon qui faits des sauts périlleux avec des singes ; ces sauts épouvantent la bergère qui semble forcée de se rendre.</stage>
 </sp>
 <sp who='GRÉSINDE'><speaker>GRÉSINDE.</speaker>
 <p id="6">
@@ -362,7 +359,7 @@
 	<s id='2'>Que je suis content ! </s>
 	<s id='3'>Merlin accompagne ma bergère, et ne la quitte pas.</s>
 </p>
-<stage type="action">Quatre sauteurs en Polichinelles forment une entrée qui finit ce second intermède.</stage>
+<stage type="entrance">Quatre sauteurs en Polichinelles forment une entrée qui finit ce second intermède.</stage>
 </sp>
 </div2>
 </div1>
@@ -434,7 +431,7 @@
 	<s id='1'>Voici, charmante bergère, voici le jour heureux où mes voeux seront satisfaits. </s>
 	<s id='2'>Souffrez que je vous embrasse.</s>
 </p>
-<stage type="action">La bergère disparaît, et en sa place un Démon fait un saut périlleux du haut du cintre.</stage>
+<stage type="danse">La bergère disparaît, et en sa place un Démon fait un saut périlleux du haut du cintre.</stage>
 </sp>
 <sp who='MERLIN'><speaker>MERLIN.</speaker>
 <p id='2'>
@@ -448,7 +445,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V.</head>
-<sp who='MERLIN'><speaker>MERLIN, seul.</speaker>
+<sp stage='alone' who='MERLIN'><speaker>MERLIN, seul.</speaker>
 <p id='1'>
 	<s id='1'>Ma foi je m'en tiens à cette maxime : Tout par amitié et rien par force. </s>
 	<s id='2'>Je renonce au charme que le magicien veut faire pour moi, et je ne veux, pour charmer ma maîtresse, que ma beauté et ma gentillesse.</s>

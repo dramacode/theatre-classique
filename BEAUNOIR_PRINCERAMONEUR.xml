@@ -7,9 +7,9 @@
 			<author born='17460' born_location='Paris' death='1823' death_location='Paris' academie=''>BEAUNOIR, Alexandre-Louis-Bertrand Robineau dit de</author>
 		</titleStmt>
 		<publicationStmt>	
-			<p>publié par Paul FIEVRE, octobre 2014</p>
-		<idno></idno>
-</publicationStmt>
+			<publisher>publié par Paul FIEVRE, octobre 2014, revu janvier 2017</publisher>
+			<idno>BEAUNOIR_PRINCERAMONEUR</idno>
+		</publicationStmt>
 		<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -18,10 +18,6 @@
 				<periode>1781-1790</periode>
 				<taille>(mesure non pertinente)</taille>
 				<permalien>http://gallica.bnf.fr/ark:/12148/bpt6k5609725g</permalien>
-				<sources>
-					<source id='1'></source>
-				</sources>	
-
 		</SourceDesc>
 	</fileDesc>
 	</teiHeader>
@@ -54,8 +50,7 @@
 	</front>
 <body>
 <div1 type="acte" n="1"><head></head>
-<stage type="decor">Le théâtre, représente un riche appartement, au fond duquel est une cheminée. Il est orné de fauteuils, de glaces et d'un sofa. On y voir une petite table ambulante sur un des côtés, il en est une plus grande,
-couverte d'un tapis qui pend jusqu'à terre.</stage>
+<stage type="decor">Le théâtre, représente un riche appartement, au fond duquel est une cheminée. Il est orné de fauteuils, de glaces et d'un sofa. On y voir une petite table ambulante sur un des côtés, il en est une plus grande, couverte d'un tapis qui pend jusqu'à terre.</stage>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Gusman, Don Lope, un paquet sous le bras.</head>
 <sp who="GUSMAN"><speaker>GUSMAN.</speaker>
 <p id="1">
@@ -199,22 +194,22 @@ couverte d'un tapis qui pend jusqu'à terre.</stage>
 	<s id="1">Voilà le plus honnête homme de tous les tailleurs.</s>
 </p>
 </sp>
-<sp who="DON LOPE"><speaker>DON LOPE, s'en allant, à part.</speaker>
+<sp stage="apatre/exit" who="DON LOPE"><speaker>DON LOPE, s'en allant, à part.</speaker>
 <p id="25">
-	<s id="1">Voilà le moins fripon de tous les valets.  </s>
+	<s id="1">Voilà le moins fripon de tous les valets. </s>
 </p>
 </sp>
 </div2>
 <div2 type="scene" n="2"><head>SCÈNE II. Gusman, Milescas.</head>
-<sp who="MILESCAS"><speaker>MILESCAS, entre avec une grande perruque bien frisée à la main.</speaker>
+<sp stage="entrance/carry" who="MILESCAS"><speaker>MILESCAS, entre avec une grande perruque bien frisée à la main.</speaker>
 <p id="1">
-	<s id="1">Voici la perruque in-solio de Monseigneur.</s>
+	<s id="1">Voici la perruque in-folio de Monseigneur.</s>
 </p>
-<stage type="[N/A]">Il la pose sur la table couverte d'un tapis.</stage>
+<stage type="drop/decor">Il la pose sur la table couverte d'un tapis.</stage>
 </sp>
 <sp who="GUSMAN"><speaker>GUSMAN.</speaker>
 <p id="2">
-	<s id="1">Cela ne laisse pas que de donner un air noble à un homme, au moins!</s>
+	<s id="1">Cela ne laisse pas que de donner un air noble à un homme, au moins !</s>
 </p>
 </sp>
 <sp who="MILESCAS"><speaker>MILESCAS.</speaker>
@@ -231,7 +226,7 @@ couverte d'un tapis qui pend jusqu'à terre.</stage>
 	<s id="3">Voici son habit...</s>
 </p>
 </sp>
-<sp who="MILESCAS"><speaker>MILESCAS, apportant les effets qu'il nomme.</speaker>
+<sp stage="carry" who="MILESCAS"><speaker>MILESCAS, apportant les effets qu'il nomme.</speaker>
 <p id="5">
 	<s id="1">Son chapeau, du linge...</s>
 </p>
@@ -257,7 +252,7 @@ couverte d'un tapis qui pend jusqu'à terre.</stage>
 <p id="9">
 	<s id="1">Il est aisé d'y remédier sans cela.</s>
 </p>
-<stage type="[N/A]">Il couvre le tout d'une grande serviette.</stage>
+<stage type="hide">Il couvre le tout d'une grande serviette.</stage>
 </sp>
 <sp who="GUSMAN"><speaker>GUSMAN.</speaker>
 <p id="10">
@@ -297,14 +292,14 @@ couverte d'un tapis qui pend jusqu'à terre.</stage>
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III.</head>
-<sp who="BAROGO"><speaker>BAROGO, seul.</speaker>
-<stage type="[N/A]">Avant de paraître on l'entend chanter et crier le patois des Ramoneurs. Il paraît en secouant ses habits.</stage>
+<sp stage="alone" who="BAROGO"><speaker>BAROGO, seul.</speaker>
+<stage type="sing/shout/dress">Avant de paraître on l'entend chanter et crier le patois des Ramoneurs. Il paraît en secouant ses habits.</stage>
 <p id="1">
 	<s id="1">Ouf ! </s>
 	<s id="2">Le chien de métier ! </s>
 	<s id="3">Qu'on y a de mal et peu de profit !</s>
 </p>
-<stage type="[N/A]">Apercevant l'appartement.</stage>
+<stage type="watch">Apercevant l'appartement.</stage>
 <p id="2">
 	<s id="1">Qu'est-ce que ceci ? </s>
 	<s id="2">Ah ! </s>
@@ -317,7 +312,7 @@ couverte d'un tapis qui pend jusqu'à terre.</stage>
 	<s id="9">Que c'est donc beau ! </s>
 	<s id="10">Je n'en reviens pas !</s>
 </p>
-<stage type="[N/A]">S'approchant d'un fauteuil.</stage>
+<stage type="closer">S'approchant d'un fauteuil.</stage>
 <p id="3">
 	<s id="1">Tiens ! </s>
 	<s id="2">La drôle de machine ! </s>
@@ -327,32 +322,32 @@ couverte d'un tapis qui pend jusqu'à terre.</stage>
 	<s id="6">Pardienne ! </s> 
 	<s id="7">Tâtons en ; boutons-nous-y.</s>
 </p>
-<stage type="[N/A]">Il s'assied.</stage>
+<stage type="sit">Il s'assied.</stage>
 <p id="4">
 	<s id="1">Jarnigoi ! </s>
 	<s id="2">Queux plaisir ! </s>
 	<s id="3">Comme j'enfonce!</s>
 </p>
-<stage type="[N/A]">Il se relève tout-à-coup.</stage>
+<stage type="stand">Il se relève tout-à-coup.</stage>
 <p id="5">
 	<s id="1">Mais si quelqu'un....</s>
 </p>
-<stage type="[N/A]">Il va écouter aux portes.</stage>
+<stage type="listen">Il va écouter aux portes.</stage>
 <p id="6">
 	<s id="1">Il faut qu'il n'y ait pas de femmes dans la maison, ou qu'elles dorment, car je n'entends pas parler.</s>
 </p>
-<stage type="[N/A]">Revenant.</stage>
+<stage type="back">Revenant.</stage>
 <p id="7">
 	<s id="1">Pour les Messieurs Laquais, je n'en suis pas embarrassé. </s>
 	<s id="2">Ces grands drôles-là, plus fainéants que leur maître, sont encore étendus comme des vieux dans leur lit, tandis que nous autres, pauvres gens de métier, qui valons mieux qu'eux mille fois, nous nous tuons le corps et l'âme à travailler, pour ne pas gagner la moitié tant, encore!</s>
 </p>
-<stage type="[N/A]">Il se regarde dans une glace.</stage>
+<stage type="watch">Il se regarde dans une glace.</stage>
 <p id="8">
 	<s id="1">C'est peut-être pour ça que je suis si laid. </s>
 	<s id="2">J'ai beau me revirer de toutes les manières, c'est la même chose, d'un côte comme de l'autre, et par derrière comme par devant, pardi ! </s>
 	<s id="3">Qui est-ce qui m'empêche de me débarbouiller un petit brin, et de m'essuyer ensuite avec cette serviette, sans que ça paraisse ?</s>
 </p>
-<stage type="[N/A]">Il crache dans ses mains, se frotte la figure, et prend la serviette qui couvre l'habit du Prince.</stage>
+<stage type="spit/wash/get">Il crache dans ses mains, se frotte la figure, et prend la serviette qui couvre l'habit du Prince.</stage>
 <p id="9">
 	<s id="1">Miséricorde ! </s>
 	<s id="2">Que vois je là ? </s>
@@ -364,17 +359,17 @@ couverte d'un tapis qui pend jusqu'à terre.</stage>
 	<s id="8">Mais voilà qui est du magnifique ! </s>
 	<s id="9">Comme ça doit bien faire sur un homme !</s>
 </p>
-<stage type="[N/A]">Il prend le manteau, le retourne en tous sens; il le met sur ses épaules, et le chapeau sur sa tête.</stage>
+<stage type="get/dress">Il prend le manteau, le retourne en tous sens ; il le met sur ses épaules, et le chapeau sur sa tête.</stage>
 <p id="10">
 	<s id="1">On l'aurait taillé tout exprès pour ma personne, que ça ne m'irait pas mieux !</s>
 </p>
-<stage type="[N/A]">Il court dans cet équipage voir, et écouter de nouveau aux portes.</stage>
+<stage type="run/listen">Il court dans cet équipage voir, et écouter de nouveau aux portes.</stage>
 <p id="11">
 	<s id="1">Bon ! </s>
 	<s id="2">Il n'y a pas un chat. </s>
 	<s id="3">Tout ça vous dort comme des taupes, et vous ronfle comme des chanoines.</s>
 </p>
-<stage type="[N/A]">Il revient ; et se considère dans une glace.</stage>
+<stage type="back/watch">Il revient ; et se considère dans une glace.</stage>
 <p id="12">
 	<s id="1">Ce que c'est d'être Prince ! </s>
 	<s id="2">C'est que comme ça j'en ai quasiment la mine. </s>
@@ -391,7 +386,7 @@ couverte d'un tapis qui pend jusqu'à terre.</stage>
 	<s id="13">On n'en meurt pas. </s>
 	<s id="14">Il faut voir.</s>
 </p>
-<stage type="[N/A]">Il ôte son bonnet, son habit, ses genouillères et ses souliers, et met la perruque, le chapeau, les ringraves, l'habit, le manteau, et les bottines du Prince. À chaque pièce de l'habillement il s'écrie:</stage>
+<stage type="dress/shout">Il ôte son bonnet, son habit, ses genouillères et ses souliers, et met la perruque, le chapeau, les ringraves, l'habit, le manteau, et les bottines du Prince. À chaque pièce de l'habillement il s'écrie :</stage>
 <p id="13">
 	<s id="1">On n'en aurait pris la mesure sur moi, que ça ne serait pas pis. </s>
 	<s id="2">Ça me va comme un charme ! </s>
@@ -399,7 +394,7 @@ couverte d'un tapis qui pend jusqu'à terre.</stage>
 	<s id="4">Je vais être à croquer. </s>
 	<s id="5">Je dois être bien gentil comme ça.</s>
 </p>
-<stage type="[N/A]">Ensuite il s'admire dans une glace, se rengorge, et se promène de long en large.</stage>
+<stage type="watch/proud/walk">Ensuite il s'admire dans une glace, se rengorge, et se promène de long en large.</stage>
 <p id="14">
 	<s id="1">Je défie au patron d'avoir une meilleure mine que moi. </s>
 	<s id="2">On dirait que je n'ai pas fait d'autre métier que celui de Prince toute ma vie... </s>
@@ -409,19 +404,19 @@ couverte d'un tapis qui pend jusqu'à terre.</stage>
 	<s id="6">Voyons. </s>
 	<s id="7">Pour ce qu'il m'en coûte, vaut autant ne se pas gêner.</s>
 </p>
-<stage type="[N/A]">Il entre par une porte qui est sur le devant du Théâtre.</stage>
+<stage type="exit/location">Il entre par une porte qui est sur le devant du théâtre.</stage>
 </sp>
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV.</head>
-<sp who="LE PRINCE"><speaker>LE PRINCE, seul.</speaker>
-<stage type="[N/A]">Il entre par une des portes du Fond. Il est en bonnet de nuit, en robe-de-chambre. Il sassied.</stage>
+<sp stage="alone" who="LE PRINCE"><speaker>LE PRINCE, seul.</speaker>
+<stage type="entrance/dress/sit">Il entre par une des portes du fond. Il est en bonnet de nuit, en robe-de-chambre. Il s'assied.</stage>
 <p id="1">
 	<s id="1">Je suis excédé d'inquiétudes et d'ennui. </s>
 	<s id="2">Il ne m'a pas été possible de fermer l'oeil de la nuit. </s>
 	<s id="3">Des soupçons graves que j'ai sur le compte de cette perfide Eléonore, m'en ont empêché. </s>
 	<s id="4">Je ne suis rien moins que tranquille.</s>
 </p>
-<stage type="[N/A]">Absorbé dans sa rêverie, il se promène dans l'appartement.</stage>
+<stage type="dream/walk">Absorbé dans sa rêverie, il se promène dans l'appartement.</stage>
 <p id="2">
 	<s id="1">J'ai mille raisons de croire que l'ingrate me trahit... </s>
 	<s id="2">Ce Duc, ce Chanteur... Ce Don César même... </s>
@@ -430,8 +425,7 @@ couverte d'un tapis qui pend jusqu'à terre.</stage>
 </sp>
 </div2>
 <div2 type="scene" n="5"><head>SCÈNE V. Le Prince, Barogo.</head>
-<stage type="[N/A]">Barogo survient, fait quelques pas dans l'appartement, aperçoit le Prince, qui tourne le dos en ce moment et entre aussitôt tout effrayé dans l'endroit d'où il vient de sortir. De dedans l'appartement, dont il tient la por
-te entrouverte : </stage>
+<stage type="entrance/walk/frighten">Barogo survient, fait quelques pas dans l'appartement, aperçoit le Prince, qui tourne le dos en ce moment et entre aussitôt tout effrayé dans l'endroit d'où il vient de sortir. De dedans l'appartement, dont il tient la porte entrouverte : </stage>
 <sp who="BAROGO"><speaker>BAROGO.</speaker>
 <p id="1">
 	<s id="1">Quelle peur j'ai eu ! </s>
@@ -486,7 +480,7 @@ te entrouverte : </stage>
 	<s id="4">On le dit pourtant assez bon diable.</s>
 </p>
 </sp>
-<sp who="LE PRINCE"><speaker>LE PRINCE, apercevant la dépouille de Barogo.</speaker>
+<sp stage="watch" who="LE PRINCE"><speaker>LE PRINCE, apercevant la dépouille de Barogo.</speaker>
 <p id="10">
 	<s id="1">Que vois-je ! </s>
 	<s id="2">Par quel hasard !</s>
@@ -497,7 +491,7 @@ te entrouverte : </stage>
 	<s id="1">Apparemment qu'il regarde cette trouvaille comme une bonne fortune.</s>
 </p>
 </sp>
-<sp who="LE PRINCE"><speaker>LE PRINCE, apercevant la cheminée.</speaker>
+<sp stage="watch" who="LE PRINCE"><speaker>LE PRINCE, apercevant la cheminée.</speaker>
 <p id="12">
 	<s id="1">Ah ! </s>
 	<s id="2">Fort bien ! </s>
@@ -519,12 +513,12 @@ te entrouverte : </stage>
 <p id="15">
 	<s id="1">Je suis curieux de voir ce qu'il va faire.</s>
 </p>
-<stage type="[N/A]">Le Prince ôte son bonnet de nuit et sa robe de chambre met par dessus sa résille, le bonnet de Barogo, sa veste par-dessus le gilet de dessous, la gratoire à sa ceinture, les genouillères à ses genoux, et les souliers à la place de ses pantoufles.</stage>
+<stage type="costume">Le Prince ôte son bonnet de nuit et sa robe de chambre met par dessus sa résille, le bonnet de Barogo, sa veste par-dessus le gilet de dessous, la gratoire à sa ceinture, les genouillères à ses genoux, et les souliers à la place de ses pantoufles.</stage>
 </sp>
 <sp who="BAROGO"><speaker>BAROGO.</speaker>
 <p id="16">
 	<s id="1">Est-ce qu'il y pense, donc ? </s>
-	<s id="2">S'il allait gâter mes habits?..</s>
+	<s id="2">S'il allait gâter mes habits ?..</s>
 </p>
 </sp>
 <sp who="LE PRINCE"><speaker>LE PRINCE.</speaker>
@@ -546,18 +540,18 @@ te entrouverte : </stage>
 <sp who="BAROGO"><speaker>BAROGO.</speaker>
 <p id="20">
 	<s id="1">Ciel ! </s>
-	<s id="2">Avec mes habits! S'il vouloit troquer, passe!</s>
+	<s id="2">Avec mes habits! S'il voulait troquer, passe!</s>
 </p>
 </sp>
 <sp who="LE PRINCE"><speaker>LE PRINCE.</speaker>
 <p id="21">
 	<s id="1">Heureusement j'ai la clé de cet escalier dérobé.</s>
 </p>
-<stage type="[N/A]">Il la prend dans la veste qu'il a quitte, et qu'il cache sous un des coussins du fauteuil, après l'avoir roulée avec la robe-de-chambre.</stage>
+<stage type="get/hide">Il la prend dans la veste qu'il a quitté, et qu'il cache sous un des coussins du fauteuil, après l'avoir roulée avec la robe-de-chambre.</stage>
 <p id="22">
 	<s id="1">La voici.</s>
 </p>
-<stage type="[N/A]">Il s'avance vers la petite porte.</stage>
+<stage type="closer">Il s'avance vers la petite porte.</stage>
 </sp>
 <sp who="BAROGO"><speaker>BAROGO.</speaker>
 <p id="23">
@@ -566,13 +560,13 @@ te entrouverte : </stage>
 </sp>
 </div2>
 <div2 type="scene" n="6"><head>SCÈNE VI. Les Précédents, Milescas.</head>
-<sp who="MILESCAS"><speaker>MILESCAS, dans la coulisse.</speaker>
+<sp stage="location" who="MILESCAS"><speaker>MILESCAS, dans la coulisse.</speaker>
 <p id="1">
 	<s id="1">Monseigneur n'a-t-il pas aperçu ? </s>
 </p>
-<stage type="[N/A]">Il entre.</stage>
+<stage type="entrance">Il entre.</stage>
 </sp>
-<sp who="LE PRINCE"><speaker>LE PRINCE, à part.</speaker>
+<sp stage="aparte" who="LE PRINCE"><speaker>LE PRINCE, à part.</speaker>
 <p id="2">
 	<s id="">Me voilà découvert !</s>
 </p>
@@ -582,7 +576,7 @@ te entrouverte : </stage>
 	<s id="1">Autant m'en pend à l'oreille.</s>
 </p>
 </sp>
-<sp who="MILESCAS"><speaker>MILESCAS, au Prince, qu'il prend pour le Ramoneur.</speaker>
+<sp stage="toward" who="MILESCAS"><speaker>MILESCAS, au Prince, qu'il prend pour le Ramoneur.</speaker>
 <p id="4">
 	<s id="1">Qu'est-ce que tu fais donc ici, toi. </s>
 	<s id="2">Eh ! </s>
@@ -590,17 +584,17 @@ te entrouverte : </stage>
 	<s id="4">Veux-tu ?...</s>
 </p>
 </sp>
-<sp who="LE PRINCE"><speaker>LE PRINCE, à part.</speaker>
+<sp stage="aparte" who="LE PRINCE"><speaker>LE PRINCE, à part.</speaker>
 <p id="5">
 	<s id="1">Il ne soupçonne pas qui je suis. </s>
 	<s id="2">Dissimulons </s>
 </p>
-<stage type="forte">Haut.</stage>
+<stage type="loud">Haut.</stage>
 <p id="6">
 	<s id="1">Seigneur...</s>
 </p>
 </sp>
-<sp who="MILESCAS"><speaker>MILESCAS, le contrefaisant.</speaker>
+<sp stage="imitate" who="MILESCAS"><speaker>MILESCAS, le contrefaisant.</speaker>
 <p id="7">
 	<s id="1">Seigneur... </s>
 	<s id="2">Seigneur ! </s>
@@ -642,13 +636,13 @@ te entrouverte : </stage>
 	<s id="1">Traiter ainsi une Altesse !</s>
 </p>
 </sp>
-<sp who="LE PRINCE"><speaker>LE PRINCE, à part.</speaker>
+<sp stage="aparte" who="LE PRINCE"><speaker>LE PRINCE, à part.</speaker>
 <p id="14">
 	<s id="1">Ce coquin-là le serait comme il le dit.</s>
 </p>
-<stage type="[N/A]">Il court vers la porte pour sortir.</stage>
+<stage type="run/away">Il court vers la porte pour sortir.</stage>
 </sp>
-<sp who="MILESCAS"><speaker>MILESCAS, le menant vers la cheminée.</speaker>
+<sp stage="pull/location" who="MILESCAS"><speaker>MILESCAS, le menant vers la cheminée.</speaker>
 <p id="15">
 	<s id="1">Aie la complaisance de retourner par le même chemin que tu es venu, et cela tout de suite et devant moi, encore.</s>
 </p>
@@ -658,7 +652,7 @@ te entrouverte : </stage>
 	<s id="1">Il y a gros à parier qu'il est aussi embarrassé que moi.</s>
 </p>
 </sp>
-<sp who="LE PRINCE"><speaker>LE PRINCE, à part.</speaker>
+<sp stage="aparte" who="LE PRINCE"><speaker>LE PRINCE, à part.</speaker>
 <p id="17">
 	<s id="1">Le pas est difficile. </s>
 	<s id="2">Comment faire ?</s>
@@ -684,7 +678,7 @@ te entrouverte : </stage>
 </sp>
 </div2>
 <div2 type="scene" n="8"><head>SCÈNE VIII.</head>
-<sp who="BAROGO"><speaker>BAROGO, entrant.</speaker>
+<sp stage="entrance" who="BAROGO"><speaker>BAROGO, entrant.</speaker>
 <p id="1">
 	<s id="1">Le voilà parti ! </s>
 	<s id="2">Et moi bien propre ! </s>
@@ -693,28 +687,28 @@ te entrouverte : </stage>
 	<s id="5">Arrêté comme voleur ! </s>
 	<s id="6">Je ferais un joli garçon, moi !</s>
 </p>
-<stage type="[N/A]">Il va pour se déshabiller.</stage>
+<stage type="dress">Il va pour se déshabiller.</stage>
 </sp>
 </div2>
 <div2 type="scene" n="9"><head>SCÈNE IX. Barogo, Milescas.</head>
-<sp who="MILESCAS"><speaker>MILESCAS, entrant vers la cheminée.</speaker>
+<sp stage="entrance/location" who="MILESCAS"><speaker>MILESCAS, entrant vers la cheminée.</speaker>
 <p id="1">
 	<s id="1">Eh bien ?</s>
 </p>
 </sp>
-<sp who="BAROGO"><speaker>BAROGO, en entendant venir, renfonce tout-à-coup son chapeau, s'avance sur le bord de la scène, et tournant le dos à celui qui entre, il le regarde du coin de l'oeil.</speaker>
+<sp stage="listen/dress/location" who="BAROGO"><speaker>BAROGO, en entendant venir, renfonce tout-à-coup son chapeau, s'avance sur le bord de la scène, et tournant le dos à celui qui entre, il le regarde du coin de l'oeil.</speaker>
 <p id="2">
 	<s id="1">Gare à nous. </s>
 	<s id="2">C'est l'homme à la trique.</s>
 </p>
 </sp>
-<sp who="MILESCAS"><speaker>MILESCAS, surpris, dit à part.</speaker>
+<sp stage="surprise/aparte" who="MILESCAS"><speaker>MILESCAS, surpris, dit à part.</speaker>
 <p id="3">
 	<s id="1">Monseigneur déjà habillé ! </s>
-	<s id="2">Il a donc fait sa toilette lui-même.  </s>
+	<s id="2">Il a donc fait sa toilette lui-même. </s>
 </p>
 </sp>
-<sp who="BAROGO"><speaker>BAROGO, à part.</speaker>
+<sp stage="aparte" who="BAROGO"><speaker>BAROGO, à part.</speaker>
 <p id="4">
 	<s id="1">Rengorgeons-nous. </s>
 	<s id="2">Il me prend pour son maître ; cela paraît naturel, il vient de prendre son maître pour moi.</s>
@@ -728,7 +722,7 @@ te entrouverte : </stage>
 </sp>
 </div2>
 <div2 type="scene" n="10"><head>SCÈNE X.</head>
-<sp who="BAROGO"><speaker>BAROGO, seul.</speaker>
+<sp stage="alone" who="BAROGO"><speaker>BAROGO, seul.</speaker>
 <p id="1">
 	<s id="1">Ah ! </s>
 	<s id="2">Ah ! </s>
@@ -754,24 +748,24 @@ te entrouverte : </stage>
 	<s id="1">Voici le chocolat de Monseigneur.</s>
 </p>
 </sp>
-<sp who="BAROGO"><speaker>BAROGO, à part.</speaker>
+<sp stage="aparte" who="BAROGO"><speaker>BAROGO, à part.</speaker>
 <p id="2">
 	<s id="1">Le chocolat de Monseigneur, l'excellent début ! </s>
 	<s id="2">Oui, pourvu que la fin y réponde. </s>
 	<s id="3">Parlons en Prince, de peur que ma voix n'évente la mèche.</s>
 </p>
-<stage type="[N/A]">Il fait signe impérieusement qu'on lui apporte son déjeuner, et s'assied sur un fauteuil, ayant soin de se cacher le visage à mesure que Gusman pose le chocolat sur la petite table, qu'il approche de Barogo, après quoi il se retire au fond du Théâtre.</stage>
+<stage type="sit/hide/away/location">Il fait signe impérieusement qu'on lui apporte son déjeuner, et s'assied sur un fauteuil, ayant soin de se cacher le visage à mesure que Gusman pose le chocolat sur la petite table, qu'il approche de Barogo, après quoi il se retire au fond du théâtre.</stage>
 </sp>
 <sp who="GUSMAN"><speaker>GUSMAN.</speaker>
 <p id="3">
 	<s id="1">Il est bien taciturne aujourd'hui !</s>
 </p>
 </sp>
-<sp who="BAROGO"><speaker>BAROGO, en regardant Gusman.</speaker>
+<sp stage="watch" who="BAROGO"><speaker>BAROGO, en regardant Gusman.</speaker>
 <p id="4">
 	<s id="1">Il est encore là ; qu'il y reste.</s>
 </p>
-<stage type="[N/A]">Regardant le chocolat.</stage>
+<stage type="watch">Regardant le chocolat.</stage>
 <p id="5">
 	<s id="1">Comme cela sent bon : le boirai-je-ti, ou ne le boirai-je-ti pas ? </s>
 	<s id="2">Je serais bien fou de m'en faire faute. </s>
@@ -779,17 +773,17 @@ te entrouverte : </stage>
 	<s id="4">Ah ça ! </s>
 	<s id="5">Mais cependant cet autre me regarde, faisons-le partir.</s>
 </p>
-<stage type="[N/A]">Il fait signe à Gusman, d'un air grave, de sortir. Gusman obéit.</stage>
+<stage type="wave/exit">Il fait signe à Gusman, d'un air grave, de sortir. Gusman obéit.</stage>
 
 </sp>
 </div2>
 <div2 type="scene" n="12"><head>SCÈNE XII.</head>
-<sp who="BAROGO"><speaker>BAROGO, seul.</speaker>
+<sp stage="alone" who="BAROGO"><speaker>BAROGO, seul.</speaker>
 <p id="1">
 	<s id="1">Ces grands gueux-là n'observent tous les gestes de leurs maîtres que pour se moquer d'eux. </s>
 	<s id="2">Mais dépêchons.</s>
 </p>
-<stage type="[N/A]">Il mange.</stage>
+<stage type="eat">Il mange.</stage>
 <p id="1">
 	<s id="1">Miam ! </s>
 	<s id="2">Miam ! </s>
@@ -803,7 +797,7 @@ te entrouverte : </stage>
 	<s id="10">Tiens ! </s>
 	<s id="11">Qu'est-ce qu'on veux donc que je sasse de ce verre ?</s>
 </p>
-<stage type="[N/A]">Il en goûte, et rejette aussi tôt ce qu'il a avalé.</stage>
+<stage type="eat/throw">Il en goûte, et rejette aussi tôt ce qu'il a avalé.</stage>
 <p id="2">
 	<s id="1">Pouah ! </s>
 	<s id="2">Pouah ! </s>
@@ -813,28 +807,27 @@ te entrouverte : </stage>
 </sp>
 </div2>
 <div2 type="scene" n="13"><head>SCÈNE XIII. Barogo, Don César, Gusman.</head>
-<sp who="GUSMAN"><speaker>GUSMAN, annonçant.</speaker>
+<sp stage="loud" who="GUSMAN"><speaker>GUSMAN, annonçant.</speaker>
 <p id="1">
 	<s id="1">Seigneur, Don César.</s>
 </p>
 </sp>
-<sp who="BAROGO"><speaker>BAROGO, à part.</speaker>
+<sp stage="aparte" who="BAROGO"><speaker>BAROGO, à part.</speaker>
 <p id="2">
 	<s id="1">Voilà des visites, à présent.</s>
 </p>
 </sp>
-<sp who="GUSMAN"><speaker>GUSMAN, à part, à Don César.</speaker>
+<sp stage="aparte/toward" who="GUSMAN"><speaker>GUSMAN, à part, à Don César.</speaker>
 <p id="3">
 	<s id="1">Il ne souffle pas un mot. </s>
 	<s id="2">Je ne sais ce qu'il a.</s>
 </p>
 </sp>
-<sp who="DON CÉSAR"><speaker>DON CÉSAR, à part.</speaker>
+<sp stage="aparte" who="DON CÉSAR"><speaker>DON CÉSAR, à part.</speaker>
 <p id="4">
 	<s id="1">Aurait il découvert ?</s>
 </p>
-<stage type="[N/A]">Gusman reporte au fond du Théâtre la petite table sur laquelle était le déjeUner, et dit en passant près de Don César, à qui il sait observer l'action de Barogo, qui se
-cache avec son mouchoir.</stage>
+<stage type="decor/location/toward">Gusman reporte au fond du Théâtre la petite table sur laquelle était le déjeuner, et dit en passant près de Don César, à qui il sait observer l'action de Barogo, qui se cache avec son mouchoir.</stage>
 </sp>
 <sp who="GUSMAN"><speaker>GUSMAN.</speaker>
 <p id="5">
@@ -846,7 +839,7 @@ cache avec son mouchoir.</stage>
 	<s id="1">Je le croirais aussi.</s>
 </p>
 </sp>
-<sp who="GUSMAN"><speaker>GUSMAN, sort, et dit à part en désignant Don César.</speaker>
+<sp stage="exit/aparte/show" who="GUSMAN"><speaker>GUSMAN, sort, et dit à part en désignant Don César.</speaker>
 <p id="7">
 	<s id="1">Le voilà, cet honnête homme ! </s>
 	<s id="2">Si le Ciel pouvoit nous en débarrasser!</s>
@@ -877,27 +870,27 @@ cache avec son mouchoir.</stage>
 	<s id="1">Le voici, ainsi que les deux cents piastres que Monseigneur lui a fait la faveur de lui promettre, et qui y sont énoncées.</s>
 </p>
 </sp>
-<sp who="BAROGO"><speaker>BAROGO, à part.</speaker>
+<sp stage="aparte" who="BAROGO"><speaker>BAROGO, à part.</speaker>
 <p id="5">
 	<s id="1">On n'en donnerAit pas tant à une honnête femme. </s>
 </p>
-<stage type="[N/A]">Don César approche la grande table de Barogo, et y dépose la somme en rouleaux.</stage>
+<stage type="closer/decor/drop">Don César approche la grande table de Barogo, et y dépose la somme en rouleaux.</stage>
 </sp>
 <sp who="DON CÉSAR"><speaker>DON CÉSAR.</speaker>
 <p id="6">
 	<s id="1">Voilà la somme.</s>
 </p>
 </sp>
-<sp who="BAROGO"><speaker>BAROGO, en approche un rouleau de son nez.</speaker>
+<sp stage="closer" who="BAROGO"><speaker>BAROGO, en approche un rouleau de son nez.</speaker>
 <p id="7">
 	<s id="1">Ça sent encore meilleur que le chocolat.</s>
 </p>
 </sp>
-<sp who="DON CÉSAR"><speaker>DON CÉSAR, à part.</speaker>
+<sp stage="aparte" who="DON CÉSAR"><speaker>DON CÉSAR, à part.</speaker>
 <p id="8">
 	<s id="1">J'espère en avoir ma bonne part.</s>
 </p>
-<stage type="forte">Haut à Barogo, qui a pris le billet, et qui feint de le lire.</stage>
+<stage type="loud/toward/read">Haut à Barogo, qui a pris le billet, et qui feint de le lire.</stage>
 <p id="9">
 	<s id="1">J'ose me flatter que Monseigneur n'est pas moins satisfait du style, que la Signora Eléonore le sera de la somme.</s>
 </p>
@@ -913,27 +906,27 @@ cache avec son mouchoir.</stage>
 	<s id="1">Comme le billet n'est pas long, si votre Altesse souhaite le transcrire tout de suite, je le serai parvenir aussitôt à son adresse.</s>
 </p>
 </sp>
-<sp who="BAROGO"><speaker>BAROGO, à part, après avoir sait signe que non.</speaker>
+<sp stage="aparte/wave" who="BAROGO"><speaker>BAROGO, à part, après avoir fait signe que non.</speaker>
 <p id="12">
 	<s id="1">Il faut empêcher ça. </s>
 	<s id="2">Deux cents piastres à une créature ! </s>
 	<s id="3">Soyez donc honnêtes, Mesdames.</s>
 </p>
 </sp>
-<sp who="DON CÉSAR"><speaker>DON CÉSAR, voulant reprendre les rouleaux.</speaker>
+<sp stage="get" who="DON CÉSAR"><speaker>DON CÉSAR, voulant reprendre les rouleaux.</speaker>
 <p id="13">
 	<s id="1">Je craindrais que quelque main indiscrète...</s>
 </p>
-<stage type="[N/A]">Barogo, lui sait signe de les laisser et de s'en aller.</stage>
+<stage type="wave">Barogo, lui sait signe de les laisser et de s'en aller.</stage>
 </sp>
-<sp who="DON CÉSAR"><speaker>DON CÉSAR, en s'en allant.</speaker>
+<sp stage="away" who="DON CÉSAR"><speaker>DON CÉSAR, en s'en allant.</speaker>
 <p id="14">
 	<s id="1">Cela ne fait pas mon affaire.</s>
 </p>
 </sp>
 </div2>
 <div2 type="scene" n="15"><head>SCÈNE XV.</head>
-<sp who="BAROGO"><speaker>BAROGO, seul.</speaker>
+<sp stage="alone" who="BAROGO"><speaker>BAROGO, seul.</speaker>
 <p id="1">
 	<s id="1">M'en voilà quitte ! </s>
 	<s id="2">Comme c'est commode, un geste ! </s>
@@ -949,29 +942,29 @@ cache avec son mouchoir.</stage>
 	<s id="1">Monseigneur, la Femme de Chambre de la Signora Eléonore désirerait avoir un moment d'audience de votre Altesse.</s>
 </p>
 </sp>
-<sp who="BAROGO"><speaker>BAROGO, à part, mettant les Tablettes et l'Argent dans ses poches.</speaker>
+<sp stage="aparte" who="BAROGO"><speaker>BAROGO, à part, mettant les tablettes et l'argent dans ses poches.</speaker>
 <p id="2">
 	<s id="1">Maudite soit la Principauté ! </s>
 	<s id="2">Vous allez voir qu'il faudra que je donne comme ça audience à toute la Ville.</s>
 </p>
-<stage type="[N/A]">Il continue de se cacher avec son mouchoir.</stage>
+<stage type="hide">Il continue de se cacher avec son mouchoir.</stage>
 </sp>
-<sp who="GUSMAN"><speaker>GUSMAN, à part à Dona Sancha.</speaker>
+<sp stage="aparte/toward" who="GUSMAN"><speaker>GUSMAN, à part à Dona Sancha.</speaker>
 <p id="3">
 	<s id="1">Vous voyez que c'est son mal de dents qui l'empêche de parler ; mais ne craignez rien, approchez.</s>
 </p>
 </sp>
-<sp who="BAROGO"><speaker>BAROGO, à part.</speaker>
+<sp stage="aparte" who="BAROGO"><speaker>BAROGO, à part.</speaker>
 <p id="4">
 	<s id="1">Je vois ce dont il retourne : c'est sa Maîtresse qui lui envoie chercher l'argent.</s>
 </p>
 </sp>
-<sp who="GUSMAN"><speaker>GUSMAN, bas à Dona Sancha.</speaker>
+<sp stage="low/toward" who="GUSMAN"><speaker>GUSMAN, bas à Dona Sancha.</speaker>
 <p id="5">
 	<s id="1">N'épargnez pas Don César.</s>
 </p>
 </sp>
-<sp who="DONA SANCHA"><speaker>DONA SANCHA, de même.</speaker>
+<sp stage="low/toward" who="DONA SANCHA"><speaker>DONA SANCHA, de même.</speaker>
 <p id="6">
 	<s id="1">Laissez-moi faire.</s>
 </p>
@@ -990,54 +983,54 @@ cache avec son mouchoir.</stage>
 </sp>
 </div2>
 <div2 type="scene" n="17"><head>SCÈNE XVII. Barogo, Dona Sancha.</head>
-<stage type="action">Pendant cette scène, Barogo invente plusieurs moyens pour examiner et caresser Dona Sancha, sans se montrer. Tantôt il lui prend la main pour s'en cacher la figure en la baisant, tantôt il se retourne ou il se sert de son mouchoir, et il met en jeu mille attitudes différentes pour n'être pas découvert.</stage>
-<sp who="BAROGO"><speaker>BAROGO, à part, en lorgnant Sancha du coin de l'oeil.</speaker>
+<stage type="argument">Pendant cette scène, Barogo invente plusieurs moyens pour examiner et caresser Dona Sancha, sans se montrer. Tantôt il lui prend la main pour s'en cacher la figure en la baisant, tantôt il se retourne ou il se sert de son mouchoir, et il met en jeu mille attitudes différentes pour n'être pas découvert.</stage>
+<sp stage="aparte/watch" who="BAROGO"><speaker>BAROGO, à part, en lorgnant Sancha du coin de l'oeil.</speaker>
 <p id="1">
 	<s id="1">Le friand morceau ! </s>
 	<s id="2">Comme je vous croquerais ça, moi !</s>
 </p>
 </sp>
-<sp who="DONA SANCHA"><speaker>DONA SANCHA, à part.</speaker>
+<sp stage="aparte" who="DONA SANCHA"><speaker>DONA SANCHA, à part.</speaker>
 <p id="2">
 	<s id="1">Que je serais contente, si me voyant de plus près, il m'allât trouver plus belle que ma maîtresse !</s>
 </p>
 </sp>
-<sp who="BAROGO"><speaker>BAROGO, à part.</speaker>
+<sp stage="aparte" who="BAROGO"><speaker>BAROGO, à part.</speaker>
 <p id="3">
 	<s id="1">En ma qualité de Prince, j'ai quelques droits là-dessus, j'espère. </s>
 </p>
-<stage type="[N/A]">Il lui fait signe d'approcher.</stage>
+<stage type="wave">Il lui fait signe d'approcher.</stage>
 <p id="4">
 	<s id="1">Oui, mais si le véritable privilégié allait venir, je serais dans de beaux draps.</s>
 </p>
 </sp>
-<sp who="DONA SANCHA"><speaker>DONA SANCHA, en s'approchant.</speaker>
+<sp stage="closer" who="DONA SANCHA"><speaker>DONA SANCHA, en s'approchant.</speaker>
 <p id="5">
 	<s id="1">Il me regardera peut-être.</s>
 </p>
 </sp>
-<sp who="BAROGO"><speaker>BAROGO, qui l'a entendue.</speaker>
+<sp stage="listen" who="BAROGO"><speaker>BAROGO, qui l'a entendue.</speaker>
 <p id="6">
 	<s id="1">Qu'elle ne voie pas ma figure, sans quoi ma Principauté est à tous les diables.</s>
 </p>
-<stage type="[N/A]">Il s'assied sur le Sopha, et veut que Dona Sancha se mette à côté de lui.</stage>
+<stage type="sit/decor/closer">Il s'assied sur le Sopha, et veut que Dona Sancha se mette à côté de lui.</stage>
 </sp>
-<sp who="DONA SANCHA"><speaker>DONA SANCHA, sait une révérence en refusant.</speaker>
+<sp stage="wave" who="DONA SANCHA"><speaker>DONA SANCHA, sait une révérence en refusant.</speaker>
 <p id="7">
 	<s id="1">Monseigneur...</s>
 </p>
-<stage type="[N/A]">Barogo insiste.</stage>
+<stage type="stress">Barogo insiste.</stage>
 <p id="8">
-	<s id="1">Monseigneur, Monseigneur me fait trop d'honneur.  </s>
+	<s id="1">Monseigneur, Monseigneur me fait trop d'honneur. </s>
 </p>
 </sp>
-<sp who="BAROGO"><speaker>BAROGO, à part.</speaker>
+<sp stage="aparte" who="BAROGO"><speaker>BAROGO, à part.</speaker>
 <p id="9">
 	<s id="1">Oh ! </s>
 	<s id="2">Comme ça... </s>
 	<s id="3">Laissez-vous honorer.</s>
 </p>
-<stage type="[N/A]">Il lui prend les mains qu'il baise à plusieurs reprises.</stage>
+<stage type="touch/kiss">Il lui prend les mains qu'il baise à plusieurs reprises.</stage>
 </sp>
 <sp who="DONA SANCHA"><speaker>DONA SANCHA.</speaker>
 <p id="10">
@@ -1049,7 +1042,7 @@ cache avec son mouchoir.</stage>
 	<s id="1">Je le tiens.</s>
 </p>
 </sp>
-<sp who="BAROGO"><speaker>BAROGO, à voix étouffée.</speaker>
+<sp stage="low" who="BAROGO"><speaker>BAROGO, à voix étouffée.</speaker>
 <p id="12">
 	<s id="1">Oui, oui.</s>
 </p>
@@ -1058,14 +1051,14 @@ cache avec son mouchoir.</stage>
 <p id="13">
 	<s id="1">Je vous avouerai donc, Monseigneur, que le sujet qui m'amène me perdrait dans l'esprit de ma Maîtresse si jamais elle venait à le savoir.</s>
 </p>
-<stage type="[N/A]">Barogo profite d'un moment où elle a les yeux baissés pour les lui fermer avec la main, et l'embrasser.</stage>
+<stage type="watch/touch/kiss">Barogo profite d'un moment où elle a les yeux baissés pour les lui fermer avec la main, et l'embrasser.</stage>
 </sp>
 <sp who="DONA SANCHA"><speaker>DONA SANCHA.</speaker>
 <p id="14">
 	<s id="1">Vous ne m'écoutez pas, Monseigneur ?</s>
 </p>
 </sp>
-<sp who="BAROGO"><speaker>BAROGO, à voix étouffée</speaker>
+<sp stage="low" who="BAROGO"><speaker>BAROGO, à voix étouffée.</speaker>
 <p id="15">
 	<s id="1">Si, si.</s>
 </p>
@@ -1127,7 +1120,7 @@ cache avec son mouchoir.</stage>
 <p id="26">
 	<s id="1">Je vois bien pour quoi, c'est que votre Altesse s'imagine sans doute que ce que j'en dis, c'est par esprit de vengeance et de dépit contre ma Maîtresse ; mais je puis vous prouver que je n'avance rien que de très véritable.</s>
 </p>
-<stage type="[N/A]">Elle se lève et fouille dans ses poches.</stage>
+<stage type="stand/search">Elle se lève et fouille dans ses poches.</stage>
 <p id="27">
 	<s id="1">Où sont donc ces Lettres ? </s>
 	<s id="2">Je croyais les avoir prise avec moi. </s>
@@ -1139,9 +1132,9 @@ cache avec son mouchoir.</stage>
 <p id="28">
 	<s id="1">Si, si.</s>
 </p>
-<stage type="[N/A]">Il l'embrasse.</stage>
+<stage type="kiss">Il l'embrasse.</stage>
 </sp>
-<sp who="DONA SANCHA"><speaker>DONA SANCHA, en sortant, à part.</speaker>
+<sp stage="aparte/exit" who="DONA SANCHA"><speaker>DONA SANCHA, en sortant, à part.</speaker>
 <p id="29">
 	<s id="1">En vérité, je ne reconnais plus le Prince.</s>
 </p>
@@ -1153,7 +1146,7 @@ cache avec son mouchoir.</stage>
 </sp>
 </div2>
 <div2 type="scene" n="18"><head>SCÈNE XVIII.</head>
-<sp who="BAROGO"><speaker>BAROGO, seul.</speaker>
+<sp stage="alone" who="BAROGO"><speaker>BAROGO, seul.</speaker>
 <p id="1">
 	<s id="1">Oui, oui, si, si ! </s>
 	<s id="2">Ah ! Ah ! Oh ! Oh ! Eh ! Eh ! Hum ! Hum ! Hem ! Hem ! </s>
@@ -1168,7 +1161,7 @@ cache avec son mouchoir.</stage>
 	<s id="1">Don Felicio, ancien Précepteur de Monseigneur...</s>
 </p>
 </sp>
-<sp who="BAROGO"><speaker>BAROGO, à part.</speaker>
+<sp stage="aparte" who="BAROGO"><speaker>BAROGO, à part.</speaker>
 <p id="3">
 	<s id="1">Ça ne sera jamais fini.</s>
 </p>
@@ -1201,13 +1194,13 @@ cache avec son mouchoir.</stage>
 	<s id="3">Le Seigneur Félicio, se trouve, pour ainsi dire, réduit à la mendicité.</s>
 </p>
 </sp>
-<sp who="BAROGO"><speaker>BAROGO, à part.</speaker>
+<sp stage="aparte" who="BAROGO"><speaker>BAROGO, à part.</speaker>
 <p id="9">
 	<s id="1">Ceci est un cas différent ! </s>
 	<s id="2">Il me vient une idée. </s>
 	<s id="3">Morbleu, elle est bonne ; et le Prince à coup-sûr, en serait autant s'il était à ma place.</s>
 </p>
-<stage type="[N/A]">Il donne les quatre rouleaux à Milescas.</stage>
+<stage type="give">Il donne les quatre rouleaux à Milescas.</stage>
 <p id="10">
 	<s id="1">Ce pauvre honnête homme attend, mieux vaut qu'il ait cet argent qu'une coquine qui n'en a déjà que trop.</s>
 </p>
@@ -1219,14 +1212,14 @@ cache avec son mouchoir.</stage>
 	<s id="3">Comme il va bénir votre Altesse !... </s>
 	<s id="4">Vous plaît-il, Monseigneur, qu'on le laisse entrer ?</s>
 </p>	
-<stage type="[N/A]">Barogo continuant de se cacher avec son mouchoir sait signe que non.</stage>
+<stage type="hide/wave">Barogo continuant de se cacher avec son mouchoir sait signe que non.</stage>
 <p id="12">
 	<s id="1">Je lui dirai que votre mal de dents vous empêche de le recevoir.</s>
 </p>
 </sp>
 </div2>
 <div2 type="scene" n="20"><head>SCÈNE XX.</head>
-<sp who="BAROGO"><speaker>BAROGO, seul.</speaker>
+<sp stage="alone" who="BAROGO"><speaker>BAROGO, seul.</speaker>
 <p id="1">
 	<s id="1">Mon mal de dents ! </s>
 	<s id="2">Ah ! </s>
@@ -1251,7 +1244,7 @@ cache avec son mouchoir.</stage>
 </sp>
 </div2>
 <div2 type="scene" n="21"><head>SCÈNE XXI. Le Prince, Barogo, caché.</head>
-<sp who="LE PRINCE"><speaker>LE PRINCE, rentre par où il a sorti.</speaker>
+<sp stage="entrance/location" who="LE PRINCE"><speaker>LE PRINCE, rentre par où il a sorti.</speaker>
 <p id="1">
 	<s id="1">Je n'ai rien pu découvrir ; rien absolument ; mon déguisement toutefois ne m'a pas été inutile, puisqu'il m'a valu cette commission à la porte de Dona Eléonore, pour le Seigneur Gusman, mon Valet de Chambre. </s>
 	<s id="2">Elle m'honore trop pour ne pas m'en acquitter avec soin. </s>
@@ -1259,7 +1252,7 @@ cache avec son mouchoir.</stage>
 	<s id="4">Reprenons d'abord mes habits, et cachons ceux-ci pour m'en servir à la première occasion.</s>
 </p>
 </sp>
-<sp who="BAROGO"><speaker>BAROGO, caché.</speaker>
+<sp stage="hide" who="BAROGO"><speaker>BAROGO, caché.</speaker>
 <p id="2">
 	<s id="1">Me voilà bien avancé.</s>
 </p>
@@ -1274,14 +1267,14 @@ cache avec son mouchoir.</stage>
 	<s id="1">Il est sorcier.</s>
 </p>
 </sp>
-<sp who="LE PRINCE"><speaker>LE PRINCE, après avoir repris sa robe-de-chambre, cache l'habit de Barogo au même endroit.</speaker>
+<sp stage="costume/keep/hide" who="LE PRINCE"><speaker>LE PRINCE, après avoir repris sa robe-de-chambre, cache l'habit de Barogo au même endroit.</speaker>
 <p id="5">
-	<s id="1">Quoique de fort bonne heure, comme les rues étaient déjà peuplées d'artisans de tous les sexes se de tous les âges, ils volaient gaiement au travail, tandis que le riche cherche à prolonger un sommeil cent sois interrompu, pour s'arracher à l'ennui qui l'assiège et aux remords qui le persécutent.... </s>
+	<s id="1">Quoique de fort bonne heure, comme les rues étaient déjà peuplées d'artisans de tous les sexes se de tous les âges, ils volaient gaiement au travail, tandis que le riche cherche à prolonger un sommeil cent fois interrompu, pour s'arracher à l'ennui qui l'assiège et aux remords qui le persécutent.... </s>
 	<s id="2">Mais j'oublie ma commission.</s>
 </p>
-<stage type="[N/A]">Il sonne.</stage>
+<stage type="ring">Il sonne.</stage>
 <p id="6">
-	<s id="1">J'ai d'ailleurs un appétit....  </s>
+	<s id="1">J'ai d'ailleurs un appétit.... </s>
 </p>
 </sp>
 </div2>
@@ -1291,12 +1284,12 @@ cache avec son mouchoir.</stage>
 	<s id="1">C'est Gusman que je veux.</s>
 </p>
 </sp>
-<sp who="MILESCAS"><speaker>MILESCAS, à part.</speaker>
+<sp stage="aparte" who="MILESCAS"><speaker>MILESCAS, à part.</speaker>
 <p id="2">
 	<s id="1">Quoi ! </s>
 	<s id="2">Le voilà déshabillé ! </s>
 </p>
-<stage type="toward/action">Au Prince en lui donnant une lettre.</stage>
+<stage type="toward/give">Au Prince en lui donnant une lettre.</stage>
 <p id="3">
 	<s id="1">C'est de la part de Dom Félicio.</s>
 </p>
@@ -1323,7 +1316,7 @@ cache avec son mouchoir.</stage>
 	<s id="1">GUSMAN, voyez un peu ce que c'est que le paquet qui se trouve ici pour vous.</s>
 </p>
 </sp>
-<sp who="GUSMAN"><speaker>GUSMAN, à part.</speaker>
+<sp stage="aparte" who="GUSMAN"><speaker>GUSMAN, à part.</speaker>
 <p id="2">
 	<s id="1">Qui diable l'aurait apporté là ?</s>
 </p>
@@ -1361,24 +1354,24 @@ cache avec son mouchoir.</stage>
 	<s id="1">Ayez celle de m'obéir.</s>
 </p>
 </sp>
-<sp who="GUSMAN"><speaker>GUSMAN, après avoir ouvert le paquet.</speaker>
+<sp stage="open" who="GUSMAN"><speaker>GUSMAN, après avoir ouvert le paquet.</speaker>
 <p id="9">
 	<s id="1">Monseigneur, c'est pour vous même.</s>
 </p>
 </sp>
-<sp who="LE PRINCE"><speaker>LE PRINCE, après avoir lu la seconde enveloppe.</speaker>
+<sp stage="read" who="LE PRINCE"><speaker>LE PRINCE, après avoir lu la seconde enveloppe.</speaker>
 <p id="10">
 	<s id="1">Il a raison. </s>
 	<s id="2">Il est plaisant que ce soit moi à présent qui fasse mes commissions et celles de mes gens... </s>
 	<s id="3">Mon chocolat.</s>
 </p>
 </sp>
-<sp who="GUSMAN"><speaker>GUSMAN, avec étonnement.</speaker>
+<sp stage="estonish" who="GUSMAN"><speaker>GUSMAN, avec étonnement.</speaker>
 <p id="11">
 	<s id="">Mais, Monseigneur.</s>
 </p>
 </sp>
-<sp who="LE PRINCE"><speaker>LE PRINCE, lit.</speaker>
+<sp stage="read" who="LE PRINCE"><speaker>LE PRINCE, lit.</speaker>
 <p id="12">
 	<s id="1">Mon Prince. </s>
 	<s id="2">C'est Don Sancha qui m'écrit; </s>
@@ -1473,7 +1466,7 @@ cache avec son mouchoir.</stage>
 </sp>
 <sp who="LE PRINCE"><speaker>LE PRINCE.</speaker>
 <p id="27">
-	<s id="1">Les voilà donc ces éclaircissements que je désirais tant avoir,   et que j'obtiens à l'instant que je m'y attendais le moins ! </s>
+	<s id="1">Les voilà donc ces éclaircissements que je désirais tant avoir,  et que j'obtiens à l'instant que je m'y attendais le moins ! </s>
 	<s id="2">Mais mon parti est pris, me voilà désabusé. </s>
 	<s id="3">Dissimulons...</s>
 </p>
@@ -1556,7 +1549,7 @@ cache avec son mouchoir.</stage>
 </sp>
 <sp who="DON CÉSAR"><speaker>DON CÉSAR.</speaker>
 <p id="2">
-	<s id="1">J'ignore, mon Prince, si vous aviez déjeuné en effet, mais je sais que vous quittiez une tasse, quand j'ai eu l'honneur de vous remettre le billet et les deux cents piastres pour la signora Eléonore.  </s>
+	<s id="1">J'ignore, mon Prince, si vous aviez déjeuné en effet, mais je sais que vous quittiez une tasse, quand j'ai eu l'honneur de vous remettre le billet et les deux cents piastres pour la signora Eléonore. </s>
 </p>
 </sp>
 <sp who="BAROGO"><speaker>BAROGO.</speaker>
@@ -1604,22 +1597,22 @@ cache avec son mouchoir.</stage>
 	<s id="1">Messieurs, je vous ordonne de finir un jeu qui me déplaît souverainement, ou je saurai punir votre audace.</s>
 </p>
 </sp>
-<sp who="DON CÉSAR"><speaker>DON CÉSAR, à part.</speaker>
+<sp stage="aparte" who="DON CÉSAR"><speaker>DON CÉSAR, à part.</speaker>
 <p id="12">
 	<s id="1">Il extravague.</s>
 </p>
 </sp>
-<sp who="GUSMAN"><speaker>GUSMAN, à part.</speaker>
+<sp stage="aparte" who="GUSMAN"><speaker>GUSMAN, à part.</speaker>
 <p id="13">
 	<s id="1">La tête lui tourne.</s>
 </p>
 </sp>
-<sp who="MILESCAS"><speaker>MILESCAS, à part.</speaker>
+<sp stage="aparte" who="MILESCAS"><speaker>MILESCAS, à part.</speaker>
 <p id="14">
 	<s id="1">Il est fou.</s>
 </p>
 </sp>
-<sp who="BAROGO"><speaker>BAROGO, à part.</speaker>
+<sp stage="aparte" who="BAROGO"><speaker>BAROGO, à part.</speaker>
 <p id="15">
 	<s id="1">Pas si fou.</s>
 </p>
@@ -1671,7 +1664,7 @@ cache avec son mouchoir.</stage>
 <p id="24">
 	<s id="1">Je tombe des nues.</s>
 </p>
-<stage type="[N/A]">Il prend la lettre de Félicio, l'ouvre, et lit.</stage>
+<stage type="get/open/read">Il prend la lettre de Félicio, l'ouvre, et lit.</stage>
 <p id="25">
 	<s id="1">Mon Prince, que d'actions de grâces ne vous dois-je pas pour les deux cents piastres que vous venez d'accorder au plus dévoué de vos serviteurs !</s>
 </p>
@@ -1733,14 +1726,14 @@ cache avec son mouchoir.</stage>
 	<s id="1">Je vous comprends encore moins.</s>
 </p>
 </sp>
-<sp who="POSTICHI"><speaker>POSTICHI, à part à Gusman.</speaker>
+<sp stage="aparte/toward" who="POSTICHI"><speaker>POSTICHI, à part à Gusman.</speaker>
 <p id="10">
 	<s id="1">M'auriez-vous ingannato ?</s>
 </p>
 </sp>
 <sp who="GUSMAN"><speaker>GUSMAN.</speaker>
 <p id="11">
-	<s id="1">Ne voyez-vous pas qu'il le fait exprès?</s>
+	<s id="1">Ne voyez-vous pas qu'il le fait exprès ?</s>
 </p>
 </sp>
 <sp who="POSTICHI"><speaker>POSTICHI.</speaker>
@@ -1755,7 +1748,7 @@ cache avec son mouchoir.</stage>
 	<s id="3">Vous vous moquez, Seigneur Docteur ; mes dents sont dans le meilleur état du monde, et je ne me rappelle pas même y avoir jamais eu mal de ma vie.</s>
 </p>
 </sp>
-<sp who="DON CÉSAR"><speaker>DON CÉSAR, à part.</speaker>
+<sp stage="aparte" who="DON CÉSAR"><speaker>DON CÉSAR, à part.</speaker>
 <p id="14">
 	<s id="1">Où a-t-il la tête aujourd'hui ?</s>
 </p>
@@ -1771,7 +1764,7 @@ cache avec son mouchoir.</stage>
 	<s id="1">Je vous ai dit, et je vous le répète encore...</s>
 </p>
 </sp>
-<sp who="POSTICHI"><speaker>POSTICHI, portant sa trousse sur la table.</speaker>
+<sp stage="carry/location" who="POSTICHI"><speaker>POSTICHI, portant sa trousse sur la table.</speaker>
 <p id="17">
 	<s id="1">Abia patienza, Monsignor, non sta besoin avec moi d'avoir peur, perché, sans me vanter, je puis dire ché sono il premier uomo de mon mestier.</s>
 </p>
@@ -1919,19 +1912,19 @@ cache avec son mouchoir.</stage>
 <p id="14">
 	<s id="1">Vous m'avez entendu.</s>
 </p>
-<stage type="action/keep">Il reprend la clef.</stage>
+<stage type="get">Il reprend la clef.</stage>
 <p id="15">
 	<s id="1">Dès ce moment vous n'êtes plus à moi. </s>
 	<s id="2">Cette lettre vous en apprendra la raison. </s>
 </p>
-<stage type="action/give">Il la lui donne.</stage>
+<stage type="give">Il la lui donne.</stage>
 <p id="16">
 	<s id="1">Quant aux deux cents piastres, je saurai les retrouver. </s>
 	<s id="2">En attendant, sortez.</s>
 </p>
 <stage type="exit">Don César sort.</stage>
 </sp>
-<sp who="POSTICHI"><speaker>POSTICHI, à Don César qu'il retient.</speaker>
+<sp stage="toward/pull" who="POSTICHI"><speaker>POSTICHI, à Don César qu'il retient.</speaker>
 <p id="17">
 	<s id="1">C'est la rage des dents qui le tient. </s>
 	<s id="2">Attendez un peu, attendez ; io vo i remediar.</s>
@@ -1963,16 +1956,16 @@ cache avec son mouchoir.</stage>
 <p id="2">
 	<s id="">Abia patienza, Monsignor.</s>
 </p>
-<stage type="[N/A]">Le Prince, impatienté, pousse rudement le Docteur qui, renversant la table, découvre Barogo.</stage>
+<stage type="nervous/push/fall">Le Prince, impatienté, pousse rudement le Docteur qui, renversant la table, découvre Barogo.</stage>
 </sp>
-<sp who="BAROGO"><speaker>BAROGO, criant.</speaker>
+<sp stage="shout" who="BAROGO"><speaker>BAROGO, criant.</speaker>
 <p id="3">
 	<s id="1">Miséricorde ! </s>
 	<s id="2">C'en est, fait de moi!</s>
 </p>
-<stage type="[N/A]">Les gens effrayés laissent tomber la table sur les pieds, de Postichi, qui crie pendant que les autres rient de la figure de Barogo.</stage>
+<stage type="drop/hurt/laugh">Les gens effrayés laissent tomber la table sur les pieds, de Postichi, qui crie pendant que les autres rient de la figure de Barogo.</stage>
 </sp>
-<sp who="POSTICHI"><speaker>POSTICHI, se jetant sur un fauteuil.</speaker>
+<sp stage="sit" who="POSTICHI"><speaker>POSTICHI, se jetant sur un fauteuil.</speaker>
 <p id="4">
 	<s id="1">Ahi ! ahi ! ahi !</s>
 </p>
@@ -1982,7 +1975,7 @@ cache avec son mouchoir.</stage>
 	<s id="">Ahi! ahi! ahi!</s>
 </p>
 </sp>
-<sp who="LE PRINCE"><speaker>LE PRINCE, qui pendant ce temps allait sortir, se retourne.</speaker>
+<sp stage="away/turn" who="LE PRINCE"><speaker>LE PRINCE, qui pendant ce temps allait sortir, se retourne.</speaker>
 <p id="6">
 	<s id="1">Qu'est-ce ?</s>
 </p>
@@ -2027,13 +2020,13 @@ cache avec son mouchoir.</stage>
 	<s id="7">Ha !</s>
 </p>
 </sp>
-<sp who="LE PRINCE"><speaker>LE PRINCE, s'avançant</speaker>
+<sp stage="closer" who="LE PRINCE"><speaker>LE PRINCE, s'avançant</speaker>
 <p id="11">
 	<s id="1">Eh ! </s>
 	<s id="2">Mais, que vois-je ?</s>
 </p>
 </sp>
-<sp who="BAROGO"><speaker>BAROGO, se débarrassant de dessous le tapis et les tréteaux.</speaker>
+<sp stage="throw" who="BAROGO"><speaker>BAROGO, se débarrassant de dessous le tapis et les tréteaux.</speaker>
 <p id="12">
 	<s id="1">Un malheureux, Monseigneur, qui réclame à deux genoux votre indulgence. </s>
 	<s id="2">Tout un chacun dit comme ça que vous êtes si bon Prince.</s>
@@ -2091,7 +2084,7 @@ cache avec son mouchoir.</stage>
 	<s id="2">Monseigneur...</s>
 </p>
 </sp>
-<sp who="DONA SANCHA"><speaker>DONA SANCHA, à Barogo.</speaker>
+<sp stage="toward" who="DONA SANCHA"><speaker>DONA SANCHA, à Barogo.</speaker>
 <p id="21">
 	<s id="1">C'est donc là ce Monseigneur qui m'a fait la grâce de me presser si fort ? </s>
 </p>
@@ -2156,7 +2149,7 @@ cache avec son mouchoir.</stage>
 <p id="32">
 	<s id="1">Cela est vrai; mais, Monseigneur, malheureusement l'habit ne fait pas l'homme.</s>
 </p>
-<stage type="[N/A]">AU PUBLIC.</stage>
+<stage type="toward">AU PUBLIC.</stage>
 <p id="33">
 	<s id="1">Messieurs, j'ai fait une bonne journée, pour un ramoneur ; mais elle serait pour moi celle d'un Prince, si vos bontés daignent la couronner.</s>
 </p>

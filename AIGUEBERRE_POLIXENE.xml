@@ -7,7 +7,7 @@
 			<author born='1692' born_location='' death='1655' death_location='' academie=''>AIGUEBERRE, Jean Dumas d'</author>
 		</titleStmt>
 		<publicationStmt>
-			<p>publié par Paul FIEVRE juillet 2014</p>
+			<p>publié par Paul FIEVRE juillet 2014, revu octobre 2016</p>
 			<idno>AIGUEBERRE_POLIXENE</idno>
 		</publicationStmt>
 		<SourceDesc>
@@ -49,7 +49,7 @@
 		<performance>
 			<premiere date='(non représentée)' location='(non représentée)'></premiere>
 		</performance>
-    <castList><head>ACTEURS DE POLYXENE.</head>
+  <castList><head>ACTEURS DE POLYXENE.</head>
 		<castItem><role id="POLIXÈNE" sex="1" type="H" statut='prince' age='J' stat_amour='néant'>POLIXÈNE</role>, fille de Priam Roi de Troie.</castItem>
 		<castItem><role id="PYRRHUS" sex="1" type="H" statut='roi' age='J' stat_amour='néant'>PYRRHUS</role>, fils d'Achille Roi d'Epire.</castItem>
 		<castItem><role id="AEGINE" sex="1" type="H" statut='confident' age='A' stat_amour='néant'>AEGINE</role> Confidente de Polixetie</castItem>
@@ -105,10 +105,10 @@
 	<l id='24'>Des Grecs, le plus barbare a surpris tous mes voeux.</l>
 </sp>
 <sp who='AEGINE'><speaker>AEGINE.</speaker>
-	<l id='25' part='i'>Dieux ! Serait-ce Pyrrhus ?</l>
+	<l id='25' part="i">Dieux ! Serait-ce Pyrrhus ?</l>
 </sp>
 <sp who='POLIXÈNE'><speaker>POLIXÈNE.</speaker>
-	<l id='25' part='f'>AEgine, c'est lui-même ;</l>
+	<l id='25' part="f">AEgine, c'est lui-même ;</l>
 	<l id='26'>Ce vainqueur ou plutôt, ce fier tyran, je l'aime.</l>
 </sp>
 <sp who='AEGINE'><speaker>AEGINE.</speaker>
@@ -243,7 +243,7 @@
 	<l id='137'>Seigneur, et si j'en crois l'ardeur qui les anime,</l>
 	<l id='138'>Ils vont bientôt ici demander leur victime.</l>
 </sp>
-<sp who='POLIXÈNE'><speaker>POLIXÈNE, à part.</speaker>
+<sp stage="aparte" who='POLIXÈNE'><speaker>POLIXÈNE, à part.</speaker>
 	<l id='139'>Dieux ! Je respire enfin, et votre inimitié</l>
 	<l id='140'>À force de rigueur me tient lieu de pitié.</l>
 </sp>
@@ -458,7 +458,7 @@ De l'Hymen sur sa tombe allumer le flambeau.</note>
 </sp>
 </div2>
 <div2 type="scene" n='8'><head>SCÈNE VIII. Pyrrhus, Aegine, Thessandre.</head>
-<sp who='PYRRHUS'><speaker>PYRRHUS, du fond du théâtre.</speaker>
+<sp stage="location" who='PYRRHUS'><speaker>PYRRHUS, du fond du théâtre.</speaker>
 	<l id='305'>Je l'avais bien prévu que ma seule présence</l>
 	<l id='306'>D'un peuple audacieux confondrait l'insolence ;</l>
 	<l id='307'>Mais quoi ? Je ne vois point Polixène en ces lieux.</l>
@@ -479,7 +479,7 @@ De l'Hymen sur sa tombe allumer le flambeau.</note>
 </sp>
 </div2>
 <div2 type="scene" n='9'><head>SCÈNE IX. Pyrrhus, Polixène, AEgine, Thessandre, Soldats.</head>
-<sp who='POLIXÈNE'><speaker>POLIXÈNE, aux Soldats qui l'empêchent de sortir.</speaker>
+<sp stage="toward/stop" who='POLIXÈNE'><speaker>POLIXÈNE, aux Soldats qui l'empêchent de sortir.</speaker>
 	<l id='316'>Barbares est-ce assez ? M'envierez-vous toujours</l>
 	<l id='317'>Les douceurs d'une mort trop longtemps attendue ?</l>
 	<l id='318'>Mais quoi ; Pyrrhus encor vient s'offrir à ma vue !</l>
@@ -501,17 +501,17 @@ De l'Hymen sur sa tombe allumer le flambeau.</note>
 	<l id='331'>Même aux yeux de Calchas vainement courroucé</l>
 	<l id='332'>Je renverse à ses pieds l'Autel qu'il a dressé.</l>
 	<l id='333'>Ainsi prompt à confondre un Ministre profane,</l>
-	<l id='334' part='i'>Le Ciel vous justifie.</l>
+	<l id='334' part="i">Le Ciel vous justifie.</l>
 </sp>
 <sp who='POLIXÈNE'><speaker>POLIXÈNE.</speaker>
 <stage type="die">Elle se frappe.</stage>
-	<l id='334' part='f'>Et moi je me condamne.</l>
+	<l id='334' part="f">Et moi je me condamne.</l>
 </sp>
 <sp who='PYRRHUS'><speaker>PYRRHUS.</speaker>
-	<l id='335' part='i'>Ciel !</l>
+	<l id='335' part="i">Ciel !</l>
 </sp>
 <sp who='POLIXÈNE'><speaker>POLIXÈNE.</speaker>
-	<l id='335' part='f'>Seigneur, mon destin aurait été trop doux ;</l>
+	<l id='335' part="f">Seigneur, mon destin aurait été trop doux ;</l>
 	<l id='336'>Si Polixène eût pu ne vivre que pour vous ;</l>
 	<l id='337'>Si des Dieux divisés la colère inhumaine,</l>
 	<l id='338'>Entre nos deux Maisons n'eût semé trop de haine,</l>
@@ -526,7 +526,7 @@ De l'Hymen sur sa tombe allumer le flambeau.</note>
 	<l id='347'>Daignez la délivrer de ses tristes liens,</l>
 	<l id='348'>Et défendez ses jours, sans regretter les miens.</l>
 </sp>
-<stage type="exit">On l'emporte.</stage>
+<stage type="exit/carry">On l'emporte.</stage>
 </div2>
 <div2 type="scene" n='10'><head>SCÈNE DERNIÈRE. Pyrrhus, Thessandre.</head>
 <sp who='PYRRHUS'><speaker>PYRRHUS.</speaker>

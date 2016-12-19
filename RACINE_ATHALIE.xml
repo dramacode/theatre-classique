@@ -2,13 +2,13 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
 <teiHeader>
 	<fileDesc>
-   	<titleStmt>
+  	<titleStmt>
 		<title>ATHALIE, TRAGÉDIE tirée de l'écriture sainte.</title>
 		<author born='1639' born_location='La Ferté Millon' death='1699' death_location='Paris' academie='1673'>RACINE, Jean</author>
 		<date>1691</date>
 	</titleStmt>
 	<publicationStmt>	
-		<p>publié par Paul FIEVRE</p><p>Mai 2002</p>
+		<publisher>publié par Paul FIEVRE, Mai 2002, revu novembre 2016</publisher>
 		<idno>RACINE_ATHALIE</idno>
 	</publicationStmt>
 	<SourceDesc>
@@ -19,7 +19,7 @@
 		<periode>1691-1700</periode>
 		<taille>1750-2000</taille>
 		<permalien>http://gallica.bnf.fr/ark:/12148/bpt6k70415j</permalien>
-         </SourceDesc>
+     </SourceDesc>
 	</fileDesc>
 </teiHeader>
 <text>
@@ -457,13 +457,13 @@
 	<l id="310">Chantez, louez le Dieu que vous venez chercher. </l></sp>
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV. Le Choeur.</head>
-<sp who="CHOEUR"><speaker>TOUT LE CHOEUR chante.</speaker>
+<sp stage="sing" who="CHOEUR"><speaker>TOUT LE CHOEUR, chante.</speaker>
 	<l id="311">Tout l'univers est plein de sa magnificence.</l>
 	<l id="312">Qu'on l'adore, ce Dieu, qu'on l'invoque à jamais.</l>
 	<l id="313">Son empire a des temps précédé la naissance.</l>
 	<l id="314">Chantons, publions ses bienfaits.</l>
 </sp>
-<sp who="CHOEUR"><speaker>UNE VOIX, seule.</speaker>
+<sp stage="alone" who="CHOEUR"><speaker>UNE VOIX, seule.</speaker>
 	<l id="315">En vain l'injuste violence</l>
 	<l id="316">Au peuple qui le loue, imposerait silence,</l>
 	<l id="317">Son nom ne périra jamais.</l>
@@ -471,11 +471,11 @@
 	<l id="319">Tout l'univers est plein de sa magnificence,</l>
 	<l id="320">Chantons, publions ses bienfaits. </l>
 </sp>
-<sp who="CHOEUR"><speaker>TOUT LE CHOEUR répète.</speaker>
+<sp stage="repeat" who="CHOEUR"><speaker>TOUT LE CHOEUR, répète.</speaker>
 	<l id="321">Tout l'univers est plein de sa magnificence.</l>
 	<l id="322">Chantons, publions ses bienfaits.</l>
 </sp>
-<sp who="CHOEUR"><speaker>UNE VOIX, seule.</speaker>
+<sp stage="alone" who="CHOEUR"><speaker>UNE VOIX, seule.</speaker>
 	<l id="323">Il donne aux fleurs leur aimable peinture.</l>
 	<l id="324">Il fait naître et mûrir les fruits.</l>
 	<l id="325">Il leur dispense avec mesure</l>
@@ -513,7 +513,7 @@
 	<l id="349">Que de raisons, quelle douceur extrême</l>
 	<l id="350">D'engager à ce Dieu son amour et sa foi ! </l>
 </sp>
-<sp who="CHOEUR"><speaker>UNE VOIX, seule.</speaker>
+<sp stage="alone" who="CHOEUR"><speaker>UNE VOIX, seule.</speaker>
 	<l id="351">D'un joug cruel il sauva nos aïeux,</l>
 	<l id="352">Les nourrit au désert d'un pain délicieux.</l>
 	<l id="353">Il nous donne ses lois, il se donne lui-même :</l>
@@ -533,7 +533,7 @@
 	<l id="361">Que de raisons, quelle douceur extrême,</l>
 	<l id="362">D'engager à ce Dieu son amour et sa foi !</l>
 </sp>
-<sp who="CHOEUR"><speaker>UNE AUTRE VOIX, seule.</speaker>
+<sp stage="alone" who="CHOEUR"><speaker>UNE AUTRE VOIX, seule.</speaker>
 	<l id="363">Vous, qui ne connaissez qu'une crainte servile,</l>
 	<l id="364">Ingrats, un Dieu si bon ne peut-il vous charmer ?</l>
 	<l id="365">Est-il donc à vos coeurs, est-il si difficile</l>
@@ -665,7 +665,7 @@
 	<l id="437">Heureuse, si je puis trouver par son secours</l>
 	<l id="438">Cette paix que je cherche, et qui me fuit toujours.</l>
 
-<stage type="action">Elle s'assied.</stage>
+<stage type="sit">Elle s'assied.</stage>
 </sp>
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV. Athalie, Abner, etc.</head>
@@ -899,11 +899,11 @@
 	<l id="616">À tous mes Tyriens faites prendre les armes.</l></sp>
 </div2>
 <div2 type="scene" n="7"><head>SCÈNE VII. Joas, Josabet, Athalie, Zacharie, Abner, Salomith, deux Lévites, Le Choeur, etc.</head>
-<sp who="JOSABET"><speaker>JOSABET, aux deux lévites.</speaker>
+<sp stage="toward" who="JOSABET"><speaker>JOSABET, aux deux lévites.</speaker>
 	<l id="617">Ô vous, sur ces enfants si chers, si précieux,</l>
 	<l id="618">Ministres du Seigneur, ayez toujours les yeux.</l>
 </sp>
-<sp who="ABNER"><speaker>ABNER, à Josabet.</speaker>
+<sp stage="toward" who="ABNER"><speaker>ABNER, à Josabet.</speaker>
 	<l id="619">Princesse, assurez-vous, je les prends sous ma garde. </l>
 </sp>
 <sp who="ATHALIE"><speaker>ATHALIE.</speaker>
@@ -941,7 +941,7 @@
 	<l id="630">N'altère point encor la simple vérité. </l>
 	<l id="631">Laissez-le s'expliquer sur tout ce qui le touche.</l>
 </sp>
-<sp who="JOSABET"><speaker>JOSABET, tout bas.</speaker>
+<sp stage="low" who="JOSABET"><speaker>JOSABET, tout bas.</speaker>
 	<l id="632">Daigne mettre, grand Dieu, ta sagesse en sa bouche.</l>
 </sp>
 <sp who="ATHALIE"><speaker>ATHALIE.</speaker>
@@ -1098,7 +1098,7 @@
 	<l id="689" part="f">Hé, Madame ! excusez</l>
 	<l id="690" part="i">Un enfant...</l>
 </sp>
-<sp who="ATHALIE"><speaker>ATHALIE, à Josabet.</speaker>
+<sp stage="toward" who="ATHALIE"><speaker>ATHALIE, à Josabet.</speaker>
 	<l id="690" part="f">J'aime à voir comme vous l'instruisez. </l>
 	<l id="691">Enfin, Éliacin, vous avez su me plaire.</l>
 	<l id="692">Vous n'êtes point sans doute un enfant ordinaire.</l>
@@ -1125,7 +1125,7 @@
 <sp who="JOAS"><speaker>JOAS.</speaker>
 	<l id="700" part="f">Pour quelle mère ? </l>
 </sp>
-<sp who="ATHALIE"><speaker>ATHALIE, à Josabet.</speaker>
+<sp stage="toward" who="ATHALIE"><speaker>ATHALIE, à Josabet.</speaker>
 	<l id="701">Sa mémoire est fidèle, et dans tout ce qu'il dit</l>
 	<l id="702">De vous et de Joad je reconnais l'esprit.</l>
 	<l id="703">Voilà comme infectant cette simple jeunesse</l>
@@ -1172,13 +1172,13 @@
 	<l id="736">Mais nous nous reverrons. Adieu, je sors contente,</l>
 	<l id="737" part="i">J'ai voulu voir, j'ai vu.</l>
 </sp>
-<sp who="ABNER"><speaker>ABNER, à Josabet.</speaker>
+<sp stage="toward" who="ABNER"><speaker>ABNER, à Josabet.</speaker>
 	<l id="737" part="f">Je vous l'avais promis,</l>
 	<l id="738">Je vous rends le dépôt que vous m'avez commis.</l>
  </sp>
 </div2>
 <div2 type="scene" n="8"><head>SCÈNE VIII. Joad, Josabet, Joas, Zacharie, Abner, Salomith, Lévites, Le Choeur.</head>
-<sp who="JOSABET"><speaker>JOSABET, à Joad.</speaker>
+<sp stage="toward" who="JOSABET"><speaker>JOSABET, à Joad.</speaker>
 	<l id="739">Avez-vous entendu cette superbe reine,</l>
 	<l id="740" part="i">Seigneur ?</l>
 </sp>
@@ -1186,7 +1186,7 @@
 	<l id="740" part="f">J'entendais tout, et plaignais votre peine. </l>
 	<l id="741">Ces lévites et moi prêts à vous secourir</l>
 	<l id="742">Nous étions avec vous résolus de périr.</l>
-<stage type="toward">À Joas, en l'embrassant.</stage>
+<stage type="toward/kiss">À Joas, en l'embrassant.</stage>
 	<l id="743">Que Dieu veille sur vous, enfant dont le courage</l>
 	<l id="744">Vient de rendre à son nom le noble témoignage.</l>
 	<l id="745">Je reconnais, Abner, ce service important. </l>
@@ -1222,7 +1222,7 @@
 	<l id="766">Il devint des Hébreux l'espérance et l'oracle.</l>
 	<l id="767">Puisses-tu, comme lui, consoler Israël !</l>
 </sp>
-<sp who="CHOEUR"><speaker>UNE AUTRE, chante.</speaker>
+<sp stage="sing" who="CHOEUR"><speaker>UNE AUTRE, chante.</speaker>
 	<l id="768">Ô bienheureux mille fois</l>
 	<l id="769">L'enfant que le Seigneur aime,</l>
 	<l id="770">Qui de bonne heure entend sa voix, </l>
@@ -1236,7 +1236,7 @@
 	<l id="776">Heureuse, heureuse l'enfance</l>
 	<l id="777">Que le Seigneur instruit et prend sous sa défense !</l>
 </sp>
-<sp who="CHOEUR"><speaker>LA MEME VOIX, seule.</speaker>
+<sp stage="alone" who="CHOEUR"><speaker>LA MEME VOIX, seule.</speaker>
 	<l id="778">Tel en un secret vallon</l>
 	<l id="779">Sur le bord d'une onde pure</l>
 	<l id="780">Croît à l'abri de l'aquilon</l>
@@ -1250,7 +1250,7 @@
 	<l id="786">Heureux, heureux mille fois</l>
 	<l id="787">L'enfant que le Seigneur rend docile à ses lois !</l>
 </sp>
-<sp who="CHOEUR"><speaker>UNE VOIX, seule.</speaker>
+<sp stage="alone" who="CHOEUR"><speaker>UNE VOIX, seule.</speaker>
 	<l id="788">Mon Dieu, qu'une vertu naissante</l>
 	<l id="789">Parmi tant de périls marche à pas incertains !</l>
 	<l id="790">Qu'une âme qui te cherche, et veut être innocente, </l>
@@ -1273,7 +1273,7 @@
 	<l id="802">Une impie étangère</l>
 	<l id="803">Assise, hélas ! au trône de tes rois ?</l>
 </sp>
-<sp who="CHOEUR"><speaker>LA MÊME VOIX, continue.</speaker>
+<sp stage="continue" who="CHOEUR"><speaker>LA MÊME VOIX, continue.</speaker>
 	<l id="804">Au lieu des cantiques charmants,</l>
 	<l id="805">Où David t'exprimait ses saints ravissements, </l>
 	<l id="806">Et bénissait son Dieu, son Seigneur, et son père ;</l>
@@ -1282,7 +1282,7 @@
 	<l id="809">Et blasphémer le nom qu'ont adoré tes rois ?</l>
 <note type="V">Variante, v.804-809 absents de l'édition 1691.</note>
 </sp>
-<sp who="CHOEUR"><speaker>UNE VOIX, seule.</speaker>
+<sp stage="alone" who="CHOEUR"><speaker>UNE VOIX, seule.</speaker>
 	<l id="810">Combien de temps, Seigneur, combien de temps encore</l>
 	<l id="811">Verrons-nous contre toi les méchants s'élever ?</l>
 	<l id="812">Jusque dans ton saint Temple ils viennent te braver.</l>
@@ -1313,7 +1313,7 @@
 	<l id="831">Tes clartés immortelles,</l>
 	<l id="832">C'est à nous de chanter tes dons et ta grandeur.</l>
 </sp>
-<sp who="CHOEUR"><speaker>UNE VOIX, seule.</speaker>
+<sp stage="alone" who="CHOEUR"><speaker>UNE VOIX, seule.</speaker>
 	<l id="833">De tous ces vains plaisirs où leur âme se plonge,</l>
 	<l id="834">Que leur restera-t-il ? Ce qui reste d'un songe</l>
 	<l id="835">Dont on a reconnu l'erreur. </l>
@@ -1595,7 +1595,7 @@
 	<l id="1040">Déjà sont à ta porte et demandent leur proie. </l>
 </sp>
 <sp who="MATHAN"><speaker>MATHAN.</speaker>
-<stage type="expression">Il se trouble.</stage>
+<stage type="embarrassed">Il se trouble.</stage>
 	<l id="1041">Avant la fin du jour... on verra qui de nous...</l>
 	<l id="1042" part="i">Doit... Mais sortons, Nabal.</l>
 </sp>
@@ -1838,13 +1838,13 @@
 	<l id="1210">S'arme-t-il pour nous défendre ? </l>
 	<l id="1211">S'arme-t-il pour nous accabler ?</l>
 </sp>
-<sp who="CHOEUR"><speaker>TOUT LE CHOEUR, chante.</speaker>
+<sp stage="sing" who="CHOEUR"><speaker>TOUT LE CHOEUR, chante.</speaker>
 	<l id="1212">Ô promesse ! ô menace ! ô ténébreux mystère !</l>
 	<l id="1213">Que de maux, que de biens sont prédits tour à tour !</l>
 	<l id="1214">Comment peut-on avec tant de colère,</l>
 	<l id="1215">Accorder tant d'amour ? </l>
 </sp>
-<sp who="CHOEUR"><speaker>UNE VOIX, seule.</speaker>
+<sp stage="alone" who="CHOEUR"><speaker>UNE VOIX, seule.</speaker>
 	<l id="1216">Sion ne sera plus. Une flamme cruelle</l>
 	<l id="1217">Détruira tous ses ornements.</l>
 </sp>
@@ -1902,7 +1902,7 @@
 	<l id="1239">Dans ces voiles, mes soeurs, que portent-ils tous deux ?</l>
 	<l id="1240">Quel est ce glaive enfin qui marche devant eux ? </l>
 </sp>
-<sp who="JOSABET"><speaker>JOSABET, à Zacharie.</speaker>
+<sp stage="toward" who="JOSABET"><speaker>JOSABET, à Zacharie.</speaker>
 	<l id="1241">Mon fils, avec respect posez sur cette table</l>
 	<l id="1242">De notre sainte Loi le Livre redoutable.</l>
 	<l id="1243">Et vous aussi posez, aimable Éliacin,</l>
@@ -1925,7 +1925,7 @@
 	<l id="1254">Du roi qui l'a porté respectez la mémoire.</l>
 	<l id="1255">Un malheureux enfant aux ours abandonné... </l>
 </sp>
-<sp who="JOSABET"><speaker>JOSABET, lui essayant le diadème.</speaker>
+<sp stage="dress" who="JOSABET"><speaker>JOSABET, lui essayant le diadème.</speaker>
 	<l id="1256">Laissez, mon fils, je fais ce qui m'est ordonné.</l>
 </sp>
 <sp who="JOAS"><speaker>JOAS.</speaker>
@@ -1941,7 +1941,7 @@
 	<l id="1264">Ne craignez rien. Et nous, sortons tous de ces lieux.</l></sp>
 </div2>
 <div2 type="scene" n="2"><head>SCÈNE II. Joad, Joas.</head>
-<sp who="JOAS"><speaker>JOAS, courant dans les bras du grand prêtre.</speaker>
+<sp stage="run/hugh" who="JOAS"><speaker>JOAS, courant dans les bras du grand prêtre.</speaker>
 	<l id="1265" part="i">Mon père !</l>
 </sp>
 <sp who="JOAD"><speaker>JOAD.</speaker>
@@ -1997,7 +1997,7 @@
 	<l id="1290">Puisse périr comme eux quiconque leur ressemble. </l>
 	<l id="1291">Mon père, en quel état vous vois-je devant moi ?</l>
 </sp>
-<sp who="JOAD"><speaker>JOAD, se prosternant à ses pieds.</speaker>
+<sp stage="prostern" who="JOAD"><speaker>JOAD, se prosternant à ses pieds.</speaker>
 	<l id="1292">Je vous rends le respect que je dois à mon roi.</l>
 	<l id="1293">De votre aïeul David, Joas, rendez-vous digne.</l>
 </sp>
@@ -2152,20 +2152,20 @@
 	<l id="1412">Paraissez, Josabet, vous pouvez vous montrer.</l></sp>
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV. Joas, Joad, Joasabet, Zacharie, Azarias, etc., Salomith, Le Choeur.</head>
-<sp who="JOSABET"><speaker>JOSABET, embrassant Joas.</speaker>
+<sp stage="kiss" who="JOSABET"><speaker>JOSABET, embrassant Joas.</speaker>
 	<l id="1413" part="i">Ô Roi, fils de David !</l>
 </sp>
 <sp who="JOAS"><speaker>JOAS.</speaker>
 	<l id="1413" part="f">Ô mon unique mère !</l>
 	<l id="1414">Venez, cher Zacharie, embrasser votre frère.</l>
 </sp>
-<sp who="JOSABET"><speaker>JOSABET, à Zacharie.</speaker>
+<sp stage="toward" who="JOSABET"><speaker>JOSABET, à Zacharie.</speaker>
 	<l id="1415">Aux pieds de votre roi prosternez-vous, mon fils. </l>
 </sp>
-<sp who="JOAD"><speaker>JOAD, pendant qu'ils s'embrassent.</speaker>
+<sp stage="kiss" who="JOAD"><speaker>JOAD, pendant qu'ils s'embrassent.</speaker>
 	<l id="1416">Enfants, ainsi toujours puissiez-vous être unis !</l>
 </sp>
-<sp who="JOSABET"><speaker>JOSABET, à Joas.</speaker>
+<sp stage="toward" who="JOSABET"><speaker>JOSABET, à Joas.</speaker>
 	<l id="1417">Vous savez donc quel sang vous a donné la vie ?</l>
 </sp>
 <sp who="JOAS"><speaker>JOAS.</speaker>
@@ -2198,12 +2198,12 @@
 	<l id="1429">L'un d'eux en blasphémant, vient de nous faire entendre</l>
 	<l id="1430">Qu'Abner est dans les fers, et ne peut nous défendre. </l>
 </sp>
-<sp who="JOSABET"><speaker>JOSABET, à Joas.</speaker>
+<sp stage="toward" who="JOSABET"><speaker>JOSABET, à Joas.</speaker>
 	<l id="1431">Cher enfant, que le ciel en vain m'avait rendu,</l>
 	<l id="1432">Hélas ! pour vous sauver j'ai fait ce que j'ai pu.</l>
 	<l id="1433">Dieu ne se souvient plus de David votre père.</l>
 </sp>
-<sp who="JOAD"><speaker>JOAD, à Josabet.</speaker>
+<sp stage="toward" who="JOAD"><speaker>JOAD, à Josabet.</speaker>
 	<l id="1434">Quoi ! Vous ne craignez pas d'attirer sa colère</l>
 	<l id="1435">Sur vous, et sur ce roi si cher à votre amour ? </l>
 	<l id="1436">Et quand Dieu de vos bras l'arrachant sans retour,</l>
@@ -2227,26 +2227,26 @@
 	<l id="1454">Comme de vils troupeaux réservés au carnage,</l>
 	<l id="1455">Et croit ne rencontrer que désordre et qu'effroi. </l>
 	<l id="1456">Qu'Azarias partout accompagne le roi.</l>
-	<l id="1457" part='i'>Venez, </l>
+	<l id="1457" part="i">Venez, </l>
 <stage type="toward">À Joas.</stage>
-	<l id="1457" part='f'>Venez, cher rejeton d'une vaillante race,</l>
+	<l id="1457" part="f">Venez, cher rejeton d'une vaillante race,</l>
 	<l id="1458">Remplir vos défenseurs d'une nouvelle audace.</l>
 	<l id="1459">Venez du diadème à leurs yeux vous couvrir,</l>
 	<l id="1460">Et périssez du moins en roi, s'il faut périr. </l>
-	<l id="1461" part='i'>Suivez-le, Josabet. Vous, </l>
+	<l id="1461" part="i">Suivez-le, Josabet. Vous, </l>
 <stage type="toward">À un lévite.</stage>
-	<l id="1461" part='f'> donnez-moi ces armes.</l>
+	<l id="1461" part="f"> donnez-moi ces armes.</l>
 	<l id="1462">Enfants, offrez à Dieu vos innocentes larmes.</l></sp>
 </div2>
 <div2 type="scene" n="6"><head>SCÈNE VI. Salomith, Le Choeur.</head>
-<sp who="CHOEUR"><speaker>TOUT LE CHOEUR, chante.</speaker>
+<sp stage="sing" who="CHOEUR"><speaker>TOUT LE CHOEUR, chante.</speaker>
 	<l id="1463">Partez, enfants d'Aaron, partez.</l>
 	<l id="1464">Jamais plus illustre querelle</l>
 	<l id="1465">De vos aïeux n'arma le zèle. </l>
 	<l id="1466">Partez, enfants d'Aaron, partez.</l>
 	<l id="1467">C'est votre roi, c'est Dieu, pour qui vous combattez.</l>
 </sp>
-<sp who="CHOEUR"><speaker>UNE VOIX, seule.</speaker>
+<sp stage="alone" who="CHOEUR"><speaker>UNE VOIX, seule.</speaker>
 	<l id="1468">Où sont les traits que tu lances,</l>
 	<l id="1469">Grand Dieu, dans ton juste courroux ?</l>
 	<l id="1470">N'es-tu plus le Dieu jaloux ? </l>
@@ -2261,7 +2261,7 @@
 <sp who="CHOEUR"><speaker>TOUT LE CHOEUR.</speaker>
 	<l id="1476">Où sont, Dieu de Jacob, tes antiques bontés ?</l>
 </sp>
-<sp who="CHOEUR"><speaker>UNE VOIX, seule.</speaker>
+<sp stage="alone" who="CHOEUR"><speaker>UNE VOIX, seule.</speaker>
 	<l id="1477">C'est à toi que dans cette guerre</l>
 	<l id="1478">Les flèches des méchants prétendent s'adresser.</l>
 	<l id="1479">Faisons, disent-ils, cesser</l>
@@ -2278,7 +2278,7 @@
 	<l id="1488">N'es-tu plus le Dieu jaloux ?</l>
 	<l id="1489">N'es-tu plus le Dieu des vengeances ?</l>
 </sp>
-<sp who="CHOEUR"><speaker>UNE VOIX, seule.</speaker>
+<sp stage="alone" who="CHOEUR"><speaker>UNE VOIX, seule.</speaker>
 	<l id="1490">Triste reste de nos rois, </l>
 	<l id="1491">Chère et dernière fleur d'une tige si belle,</l>
 	<l id="1492">Hélas ! sous le couteau d'une mère cruelle</l>
@@ -2297,7 +2297,7 @@
 	<l id="1501">Où sont, Dieu de Jacob, tes antiques bontés ?</l>
 	<l id="1502">N'es-tu plus le Dieu qui pardonne ?</l>
 </sp>
-<sp who="CHOEUR"><speaker>UNE DES FILLES DU CHOEUR, sans chanter.</speaker>
+<sp stage="speak" who="CHOEUR"><speaker>UNE DES FILLES DU CHOEUR, sans chanter.</speaker>
 	<l id="1503">Chères soeurs, n'entendez-vous pas</l>
 	<l id="1504">Des cruels Tyriens la trompette qui sonne ?</l>
 </sp>
@@ -2340,7 +2340,7 @@
 	<l id="1528">Et les appelait tous ses pères ou ses frères.</l>
 </sp>
 <sp who="SALOMITH"><speaker>SALOMITH.</speaker>
-	<l id="1529">Ce secret au dehors est-il aussi semé ?   </l>
+	<l id="1529">Ce secret au dehors est-il aussi semé ?  </l>
 </sp>
 <sp who="ZACHARIE"><speaker>ZACHARIE.</speaker>
 	<l id="1530">Ce secret dans le Temple est encor renfermé. </l>
@@ -2464,7 +2464,7 @@
 	<l id="1625">Que feriez-vous de plus, si des rois vos aïeux</l>
 	<l id="1626">Ce jeune enfant était un reste précieux ?</l>
 </sp>
-<sp who="JOSABET"><speaker>JOSABET, tout bas à Joad.</speaker>
+<sp stage="low/toward" who="JOSABET"><speaker>JOSABET, tout bas à Joad.</speaker>
 	<l id="1627">Pour le sang de ses rois vous voyez sa tendresse.</l>
 	<l id="1628" part="i">Que ne lui parlez-vous ?</l>
 </sp>
@@ -2520,7 +2520,7 @@
 <sp who="JOAD"><speaker>JOAD.</speaker>
 	<l id="1668">Grand Dieu, voici ton heure, on t'amène ta proie.</l>
 	<l id="1669" part="i">Ismaël, écoutez. </l></sp>
-<stage type="toward/mezzo voce">Il lui parle à l'oreille.</stage>
+<stage type="toward/low">Il lui parle à l'oreille.</stage>
 <sp who="JOSABET"><speaker>JOSABET.</speaker>
 	<l id="1669" part="f">Puissant maître des cieux,</l>
 	<l id="1670">Remets lui le bandeau, dont tu couvris ses yeux, </l>
@@ -2536,9 +2536,9 @@
 	<l id="1678">Qu'il s'avance suivi de nos sacrés soldats.</l>
 	<l id="1679">Faites venir aussi sa fidèle nourrice,</l>
 	<l id="1680">Princesse, et de vos pleurs que la source tarisse. </l>
-	<l id="1681" part='i'>Vous </l>
+	<l id="1681" part="i">Vous </l>
 <stage type="toward">À un lévite.</stage>
-	<l id="1681" part='f'>dès que cette reine ivre d'un fol orgueil</l>
+	<l id="1681" part="f">dès que cette reine ivre d'un fol orgueil</l>
 	<l id="1682">De la porte du Temple aura passé le seuil,</l>
 	<l id="1683">Qu'elle ne pourra plus retourner en arrière,</l>
 	<l id="1684">Prenez soin qu'à l'instant la trompette guerrière</l>
@@ -2549,12 +2549,12 @@
 	<l id="1689" part="i">Il vient.</l></sp>
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV. Joas, Joad, Josabet, Troupes de prêtres et de lévites, etc.</head>
-<sp who="JOAD"><speaker>JOAD, continue.</speaker>
+<sp stage="continue" who="JOAD"><speaker>JOAD, continue.</speaker>
 	<l id="1689" part="f">Lévites saints, prêtres de notre Dieu,</l>
 	<l id="1690">Partout, sans vous montrer, environnez ce lieu. </l>
 	<l id="1691">Et laissant à mes soins gouverner votre zèle,</l>
 	<l id="1692">Pour paraître attendez que ma voix vous appelle.</l>
-<stage type="action/hide">Ils se cachent tous.</stage>
+<stage type="hide">Ils se cachent tous.</stage>
 	<l id="1693">Roi, je crois qu'à vos voeux cet espoir est permis,</l>
 	<l id="1694">Venez voir à vos pieds tomber vos ennemis.</l>
 	<l id="1695">Celle dont la fureur poursuivit votre enfance</l>
@@ -2563,7 +2563,7 @@
 	<l id="1698">L'Ange exterminateur est debout avec nous.</l>
 	<l id="1699">Montez sur votre trône, et... Mais la porte s'ouvre.</l>
 	<l id="1700">Permettez un moment que ce voile vous couvre, </l>
-<stage type="action">Il tire une rideau.</stage>
+<stage type="decor">Il tire un rideau.</stage>
 	<l id="1701" part="i">Vous changez de couleur, Princesse ?</l>
 </sp>
 <sp who="JOSABET"><speaker>JOSABET.</speaker>
@@ -2603,7 +2603,7 @@
 <sp who="ABNER"><speaker>ABNER.</speaker>
 	<l id="1723" part="i">Ciel ! </l>
 </sp>
-<sp who="ATHALIE"><speaker>ATHALIE, à Joad.</speaker>
+<sp stage="toward" who="ATHALIE"><speaker>ATHALIE, à Joad.</speaker>
 	<l id="1723" part="m">Perfide !</l>
 </sp>
 <sp who="JOAD"><speaker>JOAD.</speaker>
@@ -2642,7 +2642,7 @@
 	<l id="1739" part="f">Laisse là ton Dieu, traître,</l>
 	<l id="1740" part="i">Et venge-moi.</l>
 </sp>
-<sp who="ABNER"><speaker>ABNER, se jetant aux pieds de Joas.</speaker>
+<sp stage="kneel" who="ABNER"><speaker>ABNER, se jetant aux pieds de Joas.</speaker>
 	<l id="1740" part="f">Sur qui ? Sur Joas ! Sur mon maître ! </l>
 </sp>
 <sp who="ATHALIE"><speaker>ATHALIE.</speaker>
@@ -2652,7 +2652,7 @@
 	<l id="1744">On vient à mon secours. Tremblez, troupe rebelle.</l></sp>
 </div2>
 <div2 type="scene" n="6"><head>SCÈNE VI. Ismaël, Joas, Joad, Athalie, etc.</head>
-<sp who="ISMAEL"><speaker>ISMAËL, à Joad.</speaker>
+<sp stage="toward" who="ISMAEL"><speaker>ISMAËL, à Joad.</speaker>
 	<l id="1745">Seigneur, le Temple est libre, et n'a plus d'ennemis. </l>
 	<l id="1746">L'étranger est en fuite, et le Juif est soumis.</l>
 	<l id="1747">Comme le vent dans l'air dissipe la fumée,</l>
@@ -2718,7 +2718,7 @@
 	<l id="1799">Et ne souffrez jamais qu'elle soit accomplie.</l>
 	<l id="1800">Faites que Joas meure, avant qu'il vous oublie. </l>
 </sp>
-<sp who="JOAD"><speaker>JOAD, aux lévites.</speaker>
+<sp stage="toward" who="JOAD"><speaker>JOAD, aux lévites.</speaker>
 	<l id="1801">Appelez tout le peuple, et montrons lui son roi,</l>
 	<l id="1802">Qu'il lui vienne en ses mains renouveler sa foi.</l>
 	<l id="1803">Roi, prêtres, peuple, allons, pleins de reconnaissance,</l>
@@ -2748,7 +2748,7 @@
 <bottom>
 <div1 type="annexe" n="1"><head></head>	
 <div2 type="oeuvres" n="2"><head>Liste des oeuvres théâtrales de Jean Racine</head>
-	<p id='p'>Le corpus théâtral de Jean Racine se compose de douze pièces : onze tragédies et une comédie. Cette production se partage dans le temps en deux parties : la première et principale se situe entre les débuts avec "La Thébaïde" (1664) et le la polémique de "Phèdre" (1677), la seconde concerne les deux tragédies religieuses d'Esther (1689) et d'Athalie (1691) commandées par Mme de Maintenon. Les deux premières tragédies ont été représentées par le troupe de Molière au théâtre du Palais-Royal puis Racine confia ses pièces à la troupe de l'Hôtel de Bourgogne et se brouilla avec Molière. Son unique comédie fut représentée à l'Hôtel Guénégaud et ses dernières tragédies au Collège de Saint-Cyr jouées par les pensionnaires devant Louis XIV. Les sujets des tragédies sont tirés de la mythologie  grecque (La Thébaïde, Andromaque, Iphigénie, Phèdre), de l'histoire antique grecque (Alexandre) ou romaine (Britannicus, Bérénice, Mithridate), ou de l'histoire récente proche-orientale (Bajazet). Esther et Athalie sont inspirées des livres éponymes de la Bible. La comédie des Plaideurs ironise sur la justice de son temps.</p>
+	<p id='p'>Le corpus théâtral de Jean Racine se compose de douze pièces : onze tragédies et une comédie. Cette production se partage dans le temps en deux parties : la première et principale se situe entre les débuts avec "La Thébaïde" (1664) et le la polémique de "Phèdre" (1677), la seconde concerne les deux tragédies religieuses d'Esther (1689) et d'Athalie (1691) commandées par Mme de Maintenon. Les deux premières tragédies ont été représentées par le troupe de Molière au théâtre du Palais-Royal puis Racine confia ses pièces à la troupe de l'Hôtel de Bourgogne et se brouilla avec Molière. Son unique comédie fut représentée à l'Hôtel Guénégaud et ses dernières tragédies au Collège de Saint-Cyr jouées par les pensionnaires devant Louis XIV. Les sujets des tragédies sont tirés de la mythologie grecque (La Thébaïde, Andromaque, Iphigénie, Phèdre), de l'histoire antique grecque (Alexandre) ou romaine (Britannicus, Bérénice, Mithridate), ou de l'histoire récente proche-orientale (Bajazet). Esther et Athalie sont inspirées des livres éponymes de la Bible. La comédie des Plaideurs ironise sur la justice de son temps.</p>
 	
 	<p id='p'>La Thébaïde ou les rère ennemis (1664), représentée pour le première fois le 20 juin 1664 au Théâtre du Palais-Royal</p>
 	<p id='p'>Alexandre le Grand (1665), représentée pour le première fois le 4 décembre 1665 au Théâtre du Palais Royal.</p>

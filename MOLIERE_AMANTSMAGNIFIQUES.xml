@@ -7,9 +7,9 @@
 			<author born='1622' born_location='Paris' death='1673' death_location='Paris' academie=''>Molière</author>
 			</titleStmt>
 			<publicationStmt>	
-				<p>publié par Paul FIEVRE, juillet 2012.</p>
-			<idno></idno>
-</publicationStmt>
+				<p>publié par Paul FIEVRE, juillet 2012, juin 2016.</p>
+				<idno>MOLIERE_AMANTSMAGNIFIQUES</idno>
+			</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -18,10 +18,6 @@
 				<periode>1661-1670</periode>
 				<taille>250-500</taille>
 				<permalien>http://gallica.bnf.fr/ark:/12148/bpt6k832702</permalien>
-					<sources>
-					<source id='1'><author></author><text></text></source>
-				</sources>	
-
 			</SourceDesc>
 		</fileDesc>
 </teiHeader>
@@ -32,16 +28,16 @@
 			<titlePart type="sub">COMÉDIE</titlePart>
 			<titlePart type="sub">Mêlée de musique et d'entrées de ballet.</titlePart>
 		</docTitle> 
-		<docDate value='1670'>1670</docDate>
+		<docDate value='1670'>M. DC. LXX. Avec Privilège de sa Majesté.</docDate>
 		<docAuthor id='MOLIERE' bio='moliere'>Molière</docAuthor>
 		<docImprint>
 			<privilege id=''></privilege>
 			<acheveImprime id=''></acheveImprime>
-			<editor id=''></editor>
+			<printer id=''>À PARIS, Par ROBERT BALLARD, seul Imprimeur du Roi pour la musique.</printer>
 		</docImprint>
-<div type="preface"><head>Avant-propos</head>
-<p>Le roi, qui ne veut que des choses extraordinaires dans tout ce qu'il entreprend, s'est proposé de donner à sa cour un divertissement qui fût composé de tous ceux que le théâtre peut fournir ; et, pour embrasser cette vaste idée et enchaîner ensemble tant de choses diverses, Sa Majesté a choisi pour sujet deux princes rivaux, qui, dans le champêtre séjour de la vallée de Tempé, où l'on avait célébré la fête des jeux Pythiens, régalent à l'envi une jeune princesse et sa mère de toutes les galanteries dont ils se peuvent aviser.</p>
-</div>
+		<div type="preface"><head>Avant-propos</head>
+		<p>Le roi, qui ne veut que des choses extraordinaires dans tout ce qu'il entreprend, s'est proposé de donner à sa cour un divertissement qui fût composé de tous ceux que le théâtre peut fournir ; et, pour embrasser cette vaste idée et enchaîner ensemble tant de choses diverses, Sa Majesté a choisi pour sujet deux princes rivaux, qui, dans le champêtre séjour de la vallée de Tempé, où l'on avait célébré la fête des jeux Pythiens, régalent à l'envi une jeune princesse et sa mère de toutes les galanteries dont ils se peuvent aviser.</p>
+		</div>
 
 <castList><head>PERSONNAGES</head>
 	<castItem><role id="ARISTIONE" sex="2" type="H" statut='prince' age='A' stat_amour='néant'>ARISTIONE</role>, princesse, mère d'Eriphile.</castItem> 
@@ -53,7 +49,7 @@
 	<castItem><role id="CLITIDAS" sex="1" type="H" statut='suivant' age='A' stat_amour='néant'>CLITIDAS</role>, plaisant de cour, de la suite d'Eriphile.</castItem> 
 	<castItem><role id="SOSTRATE" sex="1" type="H" statut='général' age='A' stat_amour='néant'>SOSTRATE</role>, général d'armée amant d'Eriphile.</castItem> 
 	<castItem><role id="ANAXARQUE" sex="1" type="H" statut='astrologue' age='A' stat_amour='néant'>ANAXARQUE</role>, astrologue.</castItem> 
-	<castItem><role id="CLEON" sex="1" type="H" statut='bourgeois' age='J' stat_amour='néant'>CLÉON</role>, fils d'Anaxarque.</castItem> 
+	<castItem><role id="CLÉON" sex="1" type="H" statut='bourgeois' age='J' stat_amour='néant'>CLÉON</role>, fils d'Anaxarque.</castItem> 
 	<castItem><role id="FAUSSE-VENUS" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>UNE FAUSSE VÉNUS</role>, d'intelligence avec Anaxarque.</castItem> 
 </castList>
 <castList><head>PERSONNAGES DE LA PASTORALE.</head>
@@ -70,9 +66,10 @@
 <div1 type="act" n='1'><head>PREMIER INTERMÈDE</head>
 <div2 type="scene" n='1'><head></head>
 <stage type="decor">Le théâtre s'ouvre à l'agréable bruit de quantité d'instruments, et d'abord il offre aux yeux une vaste mer, bordée de chaque côté de quatre grands rochers, dont le sommet porte chacun un Fleuve, accoudé sur les marques de ces sortes de déités. Au pied de ces rochers sont douze Tritons de chaque côté, et dans le milieu de la mer quatre Amours montés sur des dauphins, et derrière eux le dieu Éole, élevé au-dessus des ondes sur un petit nuage. Éole commande aux vents de se retirer, et, tandis que les Amours, les Tritons, et les Fleuves lui répondent, la mer se calme, et du milieu des ondes on voit s'élever une île. Huit Pêcheurs sortent du fond de la mer avec des nacres de perles et des branches de corail, et, après une danse agréable, vont se placer chacun sur un rocher au-dessous d'un Fleuve. Le choeur de la musique annonce la venue de Neptune, et, tandis que ce dieu danse avec sa suite, les Pêcheurs, les Tritons et les Fleuves accompagnent ses pas de gestes différents et de bruit de conques de perles. Tout ce spectacle est une magnifique galanterie, dont l'un des princes régale sur la mer la promenade des princesses.</stage>
-<stage type="[N/A]">Première entrée de ballet : Neptune et six dieux marins.</stage> <stage type="[N/A]">Deuxième entrée de ballet : Huit pêcheurs de corail.</stage>
-<stage type="[N/A]">Vers chantés.</stage>
-<sp who='EOLE'><speaker>Récit d'ÉOLE.</speaker>
+<stage type="entrance">Première entrée de ballet : Neptune et six dieux marins.</stage> 
+<stage type="entrance">Deuxième entrée de ballet : Huit pêcheurs de corail.</stage>
+<stage type="sing">Vers chantés.</stage>
+<sp who='ÉOLE'><speaker>Récit d'ÉOLE.</speaker>
 	<l id='1'>Vents, qui troublez les plus beaux jours,</l>
 	<l id='2'>Rentrez dans vos grottes profondes,</l>
 	<l id='3'>Et laissez régner sur les ondes</l>
@@ -194,7 +191,7 @@
 </sp>
 <sp who='CLITIDAS'><speaker>CLITIDAS.</speaker>
 <p id='9'>
-	<s id='1'>Serviteur, seigneur Sostrate.</s>
+	<s id='1'>Serviteur, Seigneur Sostrate.</s>
 </p>
 </sp>
 <sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
@@ -504,7 +501,7 @@
 	<s id='2'>Qu'est-ce donc que cela veut dire ?</s>
 </p>
 </sp>
-<sp who='CLITIDAS'><speaker>CLITIDAS, se parlant à lui-même.</speaker>
+<sp stage="toward" who='CLITIDAS'><speaker>CLITIDAS, se parlant à lui-même.</speaker>
 <p id='22'>
 	<s id='1'>Paix ! </s>
 	<s id='2'>Impertinent que vous êtes. </s>
@@ -685,7 +682,7 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n='4'><head>SCÈNE IV. Iphicrate, Timoclès, Clitidas</head>
+<div2 type="scene" n='4'><head>SCÈNE IV. Iphicrate, Timoclès, Clitidas.</head>
 <sp who='IPHICRATE'><speaker>IPHICRATE.</speaker>
 <p id='1'>
 	<s id='1'>Clitidas se ressouvient bien qu'il est de mes amis : je lui recommande toujours de prendre mes intérêts auprès de sa maîtresse, contre ceux de mon rival.</s>
@@ -723,7 +720,7 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n='5'><head>SCÈNE V. Eriphile, Cléonice</head>
+<div2 type="scene" n='5'><head>SCÈNE V. Eriphile, Cléonice.</head>
 <sp who='CLÉONICE'><speaker>CLÉONICE.</speaker>
 <p id='1'>
 	<s id='1'>On trouvera étrange, Madame, que vous vous soyez ainsi écartée de tout le monde.</s>
@@ -781,8 +778,8 @@
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SECOND INTERMÈDE.</head>
-<stage type="[N/A]">La confidente de la jeune princesse lui produit trois danseurs, sous le nom de Pantomimes, c'est-à-dire qui expriment par leurs gestes toutes sortes de choses. La Princesse les voit danser, et les reçoit à son service.</stage>
-<stage type="[N/A]">Entrée de ballet de trois Pantomimes</stage>
+<stage type="entrance/danse">La confidente de la jeune princesse lui produit trois danseurs, sous le nom de Pantomimes, c'est-à-dire qui expriment par leurs gestes toutes sortes de choses. La Princesse les voit danser, et les reçoit à son service.</stage>
+<stage type="entrance">Entrée de ballet de trois Pantomimes.</stage>
 </div2>
 </div1>
 <div1 type="act" n='2'><head>ACTE II</head>
@@ -806,7 +803,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Eriphile, Clitidas.</head>
-<sp who='CLÉONICE'><speaker>CLÉONICE, en allant au devant de Clitidas.</speaker>
+<sp stage="closer" who='CLÉONICE'><speaker>CLÉONICE, en allant au devant de Clitidas.</speaker>
 <p id='4'>
 	<s id='1'>Je vous avertis, Clitidas, que la Princesse veut être seule.</s>
 </p>
@@ -818,12 +815,12 @@
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Eriphile, Clitidas.</head>
-<sp who='CLITIDAS'><speaker>CLITIDAS, fait semblant de chanter.</speaker>
+<sp stage="sing" who='CLITIDAS'><speaker>CLITIDAS, fait semblant de chanter.</speaker>
 <p id='1'>
 	<s id='1'>La, la, la, la, ah !</s>
 </p>
 </sp>
-<sp who='ERIPHILE'><speaker>ERIPHILE, à Clitidas qui feint de vouloir s'éloigner.</speaker>
+<sp stage="toward/away" who='ERIPHILE'><speaker>ERIPHILE, à Clitidas qui feint de vouloir s'éloigner.</speaker>
 <p id='2'>
 	<s id='1'>Clitidas.</s>
 </p>
@@ -856,7 +853,7 @@
 </p>
 </sp>
 <sp who='ERIPHILE'><speaker>ERIPHILE.</speaker>
-<note type="L">Pénée : Fleuve de Thessalie, avait sa source au noeud du Pinde et des monts Cambuniens,  sur les confins de la Thessalie et de la Macédoine, parcourait dans son cours sinueux une partie de la Thessalie, coulait entre l'Olympe et l'Ossa, arrosant la vallée de Tempé, (?) et se jetait dans le golfe Thermaïque. [B]</note>
+<note type="L">Pénée : Fleuve de Thessalie, avait sa source au noeud du Pinde et des monts Cambuniens, sur les confins de la Thessalie et de la Macédoine, parcourait dans son cours sinueux une partie de la Thessalie, coulait entre l'Olympe et l'Ossa, arrosant la vallée de Tempé, et se jetait dans le golfe Thermaïque. [B]</note>
 <p id='8'>
 	<s id='1'>Le fleuve Pénée fait ici d'agréables détours.</s>
 </p>
@@ -1159,7 +1156,7 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n='4'><head>SCÈNE IV. Chorèbe, Sostrate, Eriphile</head>
+<div2 type="scene" n='4'><head>SCÈNE IV. Chorèbe, Sostrate, Eriphile.</head>
 <sp who='CHOREBE'><speaker>CHORÈBE.</speaker>
 <p id='1'>
 	<s id='1'>Madame, voilà la Princesse qui vient vous prendre ici, pour aller au bois de Diane.</s>
@@ -1231,22 +1228,22 @@
 	<l id='73' pat='i'>Eh ! Le moyen ? Hélas !</l>
 </sp>
 <sp who='MENANDRE'><speaker>MÉNANDRE.</speaker>
-	<l id='73' part='f'>Fais, fais-toi quelque effort.</l>
+	<l id='73' part="f">Fais, fais-toi quelque effort.</l>
 </sp>
 <sp who='TIRCIS'><speaker>TIRCIS.</speaker>
 	<l id='74'>Eh ! Le moyen, hélas ! Quand le mal est trop fort ?</l>
 </sp>
 <sp who='LYCASTE'><speaker>LYCASTE.</speaker>
-	<l id='75' part='i'>Ce mal trouvera son remède.</l>
+	<l id='75' part="i">Ce mal trouvera son remède.</l>
 </sp>
 <sp who='TIRCIS'><speaker>TIRCIS.</speaker>
-	<l id='75' part='f'>Je ne guérirai qu'à ma mort.</l>
+	<l id='75' part="f">Je ne guérirai qu'à ma mort.</l>
 </sp>
 <sp who='LYCASTE_MENANDRE'><speaker>LYCASTE et MÉNANDRE.</speaker>
-	<l id='76' part='i'>Ah ! Tircis !</l>
+	<l id='76' part="i">Ah ! Tircis !</l>
 </sp>
 <sp who='TIRCIS'><speaker>TIRCIS.</speaker>
-	<l id='76' part='f'>Ah ! Bergers !</l>
+	<l id='76' part="f">Ah ! Bergers !</l>
 </sp>
 <sp who='LYCASTE_MENANDRE'><speaker>LYCASTE et MÉNANDRE.</speaker>
 	<l id='77'>Prends sur toi plus d'empire.</l>
@@ -1261,10 +1258,10 @@
 	<l id='80'>C'est trop, c'est trop souffrir.</l>
 </sp>
 <sp who='LYCASTE_MENANDRE'><speaker>LYCASTE et MÉNANDRE.</speaker>
-	<l id='81' part='i'>Quelle faiblesse !</l>
+	<l id='81' part="i">Quelle faiblesse !</l>
 </sp>
 <sp who='TIRCIS'><speaker>TIRCIS.</speaker>
-	<l id='81' part='f'>Quel martyre !</l>
+	<l id='81' part="f">Quel martyre !</l>
 </sp>
 <sp who='LYCASTE_MENANDRE'><speaker>LYCASTE et MÉNANDRE.</speaker>
 	<l id='82'>Il faut prendre courage.</l>
@@ -1327,7 +1324,7 @@
 	<l id='127'>Qui défende à nos sens d'en goûter la douceur.</l>
 </sp>
 </div2>
-<div2 type="scene" n='5'><head>SCÈNE IV. Caliste, endormie, Tircis, Lycaste, Ménandre</head>
+<div2 type="scene" n='5'><head>SCÈNE IV. Caliste, endormie, Tircis, Lycaste, Ménandre.</head>
 <sp who='TIRCIS'><speaker>TIRCIS.</speaker>
 	<l id='128'>Vers ma belle ennemie</l>
 	<l id='129'>Portons sans bruit nos pas,</l>
@@ -1401,11 +1398,11 @@
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE V. Deux Satyres, Tircis, Lycaste, Caliste, Ménandre.</head>
-<sp who='PREMIER-SATYRE'><speaker>PREMIER SATYRE.</speaker>
+<sp who='PREMIER SATYRE'><speaker>PREMIER SATYRE.</speaker>
 	<l id='173'>Quoi ? Tu me fuis, ingrate, et je te vois ici</l>
 	<l id='174'>De ce berger à moi faire une préférence ?</l>
 </sp>
-<sp who='DEUXIEME-SATYRE'><speaker>DEUXIÈME SATYRE.</speaker>
+<sp who='DEUXIEME SATYRE'><speaker>DEUXIÈME SATYRE.</speaker>
 	<l id='175'>Quoi ? Mes soins n'ont rien pu sur ton indifférence,</l>
 	<l id='176'>Et pour ce langoureux ton coeur s'est adouci ?</l>
 </sp>
@@ -1413,14 +1410,14 @@
 	<l id='177'>Le destin le veut ainsi ;</l>
 	<l id='178'>Prenez tous deux patience.</l>
 </sp>
-<sp who='PREMIER-SATYRE'><speaker>PREMIER SATYRE.</speaker>
+<sp who='PREMIER SATYRE'><speaker>PREMIER SATYRE.</speaker>
 	<l id='179'>Aux amants qu'on pousse à bout</l>
 	<l id='180'>L'amour fait verser des larmes ;</l>
 	<l id='181'>Mais ce n'est pas notre goût,</l>
 	<l id='182'>Et la bouteille a des charmes</l>
 	<l id='183'>Qui nous consolent de tout.</l>
 </sp>
-<sp who='DEUXIEME-SATYRE'><speaker>DEUXIÈME SATYRE.</speaker>
+<sp who='DEUXIEME SATYRE'><speaker>DEUXIÈME SATYRE.</speaker>
 	<l id='184'>Notre amour n'a pas toujours</l>
 	<l id='185'>Tout le bonheur qu'il désire ;</l>
 	<l id='186'>Mais nous avons un secours,</l>
@@ -1495,7 +1492,7 @@
 	<l id='230'>Pour vous raccommoder.</l>
 	<l id='231'>Amants, que vos querelles</l>
 	<l id='232'>Sont aimables et belles, etc.</l>
-<stage type="[N/A]">Les faunes et les dryades recommencent leur danse, que les bergères et bergers musiciens entremêlent de leurs chansons, tandis que trois petites dryades et trois petits faunes font paraître dans l'enfoncement du théâtre, tout ce qui se passe sur le devant.</stage>
+<stage type="danse/sing">Les faunes et les dryades recommencent leur danse, que les bergères et bergers musiciens entremêlent de leurs chansons, tandis que trois petites dryades et trois petits faunes font paraître dans l'enfoncement du théâtre, tout ce qui se passe sur le devant.</stage>
 </sp>
 <sp who='BERGERS_BERGERES'><speaker>Les BERGERS et BERGÈRES</speaker>
 	<l id='233'>Jouissons, jouissons des plaisirs innocents</l>
@@ -1858,7 +1855,7 @@
 </div2>
 </div1>
 <div1 type="act" n='5'><head>ACTE IV</head>
-<div2 type="scene" n='1'><head>SCÈNE I. Aristione, Eriphile</head>
+<div2 type="scene" n='1'><head>SCÈNE I. Aristione, Eriphile.</head>
 <sp who='ARISTIONE'><speaker>ARISTIONE.</speaker>
 <p id='1'>
 	<s id='1'>De qui que cela soit, on ne peut rien de plus galant et de mieux entendu. </s>
@@ -1903,7 +1900,7 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n='2'><head>SCÈNE II. Venus, accompagnée de quatre petits Amours, dans une machine, Aristione, Eriphile.</head>
+<div2 type="scene" n='2'><head>SCÈNE II. Vénus, accompagnée de quatre petits Amours, dans une machine, Aristione, Eriphile.</head>
 <sp who='VENUS'><speaker>VÉNUS.</speaker>
 	<l id='246'>Princesse, dans tes soins brille un zèle exemplaire.</l>
 	<l id='247'>Qui par les Immortels doit être couronné,</l>
@@ -1924,8 +1921,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n='3'><head>SCÈNE III. Anaxarque, Cléon</head>
-<sp who='CLEON'><speaker>CLÉON.</speaker>
+<div2 type="scene" n='3'><head>SCÈNE III. Anaxarque, Cléon.</head>
+<sp who='CLÉON'><speaker>CLÉON.</speaker>
 <p id='1'>
 	<s id='1'>Voilà la Princesse qui s'en va : ne voulez-vous pas lui parler ?</s>
 </p>
@@ -1939,7 +1936,7 @@
 	<s id='5'>Il y a longtemps, mon fils, que je prépare cette machine, et me voilà tantôt au but de mes prétentions.</s>
 </p>
 </sp>
-<sp who='CLEON'><speaker>CLÉON.</speaker>
+<sp who='CLÉON'><speaker>CLÉON.</speaker>
 <p id='3'>
 	<s id='1'>Mais pour lequel des deux princes au moins dressez-vous tout cet artifice ?</s>
 </p>
@@ -2031,9 +2028,9 @@
 <p id='2'>
 	<s id='1'>Oui, Cléonice, qu'ils fassent tout ce qu'ils voudront, pourvu qu'ils me laissent à mes pensées.</s>
 </p>
-<stage type="[N/A]">Cinquième intermède</stage>
-<stage type="[N/A]">Quatre Pantomimes... Quatre Pantomimes, pour épreuve de leur adresse, ajustent leurs gestes et leurs pas aux inquiétudes de la jeune Princesse.</stage>
-<stage type="[N/A]">Entrée de ballet de quatre Pantomimes</stage>
+<stage type="entrance">Cinquième intermède</stage>
+<stage type="danse">Quatre Pantomimes, pour épreuve de leur adresse, ajustent leurs gestes et leurs pas aux inquiétudes de la jeune Princesse.</stage>
+<stage type="entrance">Entrée de ballet de quatre Pantomimes.</stage>
 </sp>
 </div2>
 </div1>
@@ -2261,10 +2258,10 @@
 	<s id='1'>Je pardonne toutes ces menaces aux chagrins d'un amour qui se croit offensé, et nous n'en verrons pas avec moins de tranquillité la fête des jeux Pythiens. </s>
 	<s id='2'>Allons-y de ce pas, et couronnons par ce pompeux spectacle cette merveilleuse journée.</s>
 </p>
-<stage type="[N/A]">Sixième intermède ; Qui est la solennité des Jeux pythiens.</stage>
-<stage type="decor">Le théâtre est une grande salle, en manière d'amphithéâtre, ouverte d'une grande arcade dans le fond, au-dessus de laquelle est une tribune fermée d'un rideau ; et dans l'éloignement paroît un autel pour le sacrifice. Six hommes, presque nus, portant chacun une hache sur l'épaule, comme ministres du sacrifice, entrent par le portique, au son des violons, et sont suivis de deux Sacrificateurs musiciens, et d'une Prêtresse musicienne.</stage>
+<stage type="entrance">Sixième intermède ; Qui est la solennité des Jeux pythiens.</stage>
+<stage type="decor/entrance/music">Le théâtre est une grande salle, en manière d'amphithéâtre, ouverte d'une grande arcade dans le fond, au-dessus de laquelle est une tribune fermée d'un rideau ; et dans l'éloignement paraît un autel pour le sacrifice. Six hommes, presque nus, portant chacun une hache sur l'épaule, comme ministres du sacrifice, entrent par le portique, au son des violons, et sont suivis de deux Sacrificateurs musiciens, et d'une Prêtresse musicienne.</stage>
 </sp>
-<sp who='LA-PRÊTRESSE'><speaker>LA PRÊTRESSE.</speaker>
+<sp who='LA PRÊTRESSE'><speaker>LA PRÊTRESSE.</speaker>
 	<l id='256'>Chantez, peuples, chantez, en mille et mille lieux,</l>
 	<l id='257'>Du dieu que nous servons les brillantes merveilles ;</l>
 	<l id='258'>Parcourez la terre et les cieux :</l>
@@ -2273,29 +2270,29 @@
 </sp>
 <sp who='UNE-GRECQUE-2'><speaker>UNE GRECQUE.</speaker>
 	<l id='261'>À ce dieu plein de force, à ce dieu plein d'appas</l>
-	<l id='262' part='i'>Il n'est rien qui résiste.</l>
+	<l id='262' part="i">Il n'est rien qui résiste.</l>
 </sp>
 <sp who='AUTRE-GRECQUE-1'><speaker>AUTRE GRECQUE.</speaker>
-	<l id='262' part='f'>Il n'est rien ici-bas</l>
+	<l id='262' part="f">Il n'est rien ici-bas</l>
 	<l id='263'>Qui par ses bienfaits ne subsiste.</l>
 </sp>
 <sp who='AUTRE-GRECQUE-2'><speaker>AUTRE GRECQUE.</speaker>
 	<l id='264'>Toute la terre est triste</l>
-	<l id='265' part='i'>Quand on ne le voit pas.</l>
+	<l id='265' part="i">Quand on ne le voit pas.</l>
 </sp>
 <sp who='TOUS-ENSEMBLE'><speaker>TOUS ENSEMBLE.</speaker>
-	<l id='265' part='f'>Poussons à sa mémoire</l>
+	<l id='265' part="f">Poussons à sa mémoire</l>
 	<l id='266'>Des concerts si touchants,</l>
 	<l id='267'>Que du haut de sa gloire</l>
 	<l id='268'>Il écoute nos chants.</l>
-<stage type="[N/A]">Première entrée de ballet.</stage>
-<stage type="[N/A]">Les six hommes portant les haches font entre eux une danse ornée de toutes les attitudes que peuvent exprimer des gens qui étudient leur force, puis ils se retirent aux deux côtés du théâtre pour faire place à six voltigeurs.</stage>
-<stage type="[N/A]">Deuxième entrée de ballet</stage>
-<stage type="[N/A]">Six voltigeurs en cadence font paraître leur adresse sur des chevaux de bois, qui sont apportés par des esclaves.</stage>
-<stage type="[N/A]">Troisième entrée de ballet</stage>
-<stage type="[N/A]">Quatre conducteurs d'esclaves amènent, en cadence, douze esclaves qui dansent en marquant la joie qu'ils ont d'avoir recouvré la liberté.</stage>
-<stage type="[N/A]">Quatrième entrée de ballet</stage>
-<stage type="[N/A]">Quatre femmes et quatre hommes armés à la grecque font ensemble une manière de jeu pour les armes.</stage>
+<stage type="entrance">Première entrée de ballet.</stage>
+<stage type="danse">Les six hommes portant les haches font entre eux une danse ornée de toutes les attitudes que peuvent exprimer des gens qui étudient leur force, puis ils se retirent aux deux côtés du théâtre pour faire place à six voltigeurs.</stage>
+<stage type="entrance">Deuxième entrée de ballet</stage>
+<stage type="danse">Six voltigeurs en cadence font paraître leur adresse sur des chevaux de bois, qui sont apportés par des esclaves.</stage>
+<stage type="entrance">Troisième entrée de ballet</stage>
+<stage type="danse/happy">Quatre conducteurs d'esclaves amènent, en cadence, douze esclaves qui dansent en marquant la joie qu'ils ont d'avoir recouvré la liberté.</stage>
+<stage type="entrance">Quatrième entrée de ballet</stage>
+<stage type="danse">Quatre femmes et quatre hommes armés à la grecque font ensemble une manière de jeu pour les armes.</stage>
 <stage type="decor/entrance/music">La tribune s'ouvre. Un héraut, six trompettes et un timbalier se mêlant à tous les instruments, annonce, avec un grand bruit, la venue d'Apollon.</stage>
 </sp>
 <sp who='LE-CHOEUR'><speaker>LE CHOEUR.</speaker>
@@ -2306,11 +2303,11 @@
 	<l id='273'>Quel port glorieux !</l>
 	<l id='274'>Où voit-on des dieux</l>
 	<l id='275'>Qui soient faits de même ?</l>
-<stage type="music/entrance/action">Apollon, au bruit des trompettes et des violons, entre par le portique, précédé de six jeunes gens, qui portent des lauriers entrelacés autour d'un bâton et un soleil d'or au-dessus, avec la devise royale en manière de trophée. </stage>
-<stage type="[N/A]">Les six jeunes gens, pour danser avec Apollon, donnent leur trophée à tenir aux six hommes qui portent les haches, et commencent avec Apollon une danse héroïque, à laquelle se joignent, en diverses manières, les six hommes portant les trophées, les quatre femmes armées, avec leurs timbres, et les quatre hommes armés, avec leurs tambours, tandis que les six trompettes, le timbalier, les Sacrificateurs, la Prêtresse, et le choeur de musique accompagnent tout cela, en s'y mêlant par diverses reprises : ce qui finit la fête des jeux Pythiens, et tout le divertissement.</stage>
-<stage type="[N/A]">Cinquième entrée de ballet</stage>
+<stage type="music/entrance">Apollon, au bruit des trompettes et des violons, entre par le portique, précédé de six jeunes gens, qui portent des lauriers entrelacés autour d'un bâton et un soleil d'or au-dessus, avec la devise royale en manière de trophée. </stage>
+<stage type="danse/music">Les six jeunes gens, pour danser avec Apollon, donnent leur trophée à tenir aux six hommes qui portent les haches, et commencent avec Apollon une danse héroïque, à laquelle se joignent, en diverses manières, les six hommes portant les trophées, les quatre femmes armées, avec leurs timbres, et les quatre hommes armés, avec leurs tambours, tandis que les six trompettes, le timbalier, les Sacrificateurs, la Prêtresse, et le choeur de musique accompagnent tout cela, en s'y mêlant par diverses reprises : ce qui finit la fête des jeux Pythiens, et tout le divertissement.</stage>
+<stage type="entrance">Cinquième entrée de ballet</stage>
 </sp>
-<sp who='APOLLON'><speaker>APOLLON et six jeunes gens de sa suite.</speaker>
+<sp stage="together" who='APOLLON'><speaker>APOLLON et six jeunes gens de sa suite.</speaker>
 	<l id='276'>Pour le Roi, représentant le Soleil.</l>
 	<l id='277'>Je suis la source des clartés,</l>
 	<l id='278'>Et les astres les plus vantés,</l>

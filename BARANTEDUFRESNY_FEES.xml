@@ -7,9 +7,9 @@
 			<author>BARANTE et DUFESNY</author>
 		</titleStmt>
 		<publicationStmt>
-			<p>publié par Paul FIEVRE, décembre 2011</p>
-		<idno></idno>
-</publicationStmt>
+			<p>publié par Paul FIEVRE, décembre 2011, décembre 2016.</p>
+			<idno>BARANTEDUFRESNY_FEES</idno>
+		</publicationStmt>
 		<SourceDesc>
 			<genre>Comédie</genre>
 			<inspiration>moeurs françaises</inspiration>
@@ -54,13 +54,13 @@
 		<castItem><role id="UN BERGER" sex="1" type="H" statut="berger" age="A" stat_amour='néant'>UN BERGER</role>, changé en Lanterne. Léandre.</castItem>
 		<castItem><role id="UN VIEUX" sex="1" type="H" statut="bourgeois" age="V" stat_amour='néant'>UN VIEUX</role>, changé en Limaçon. Mezzetin.</castItem>
 		<castItem><role id="UNE DAME" sex="2" type="H" statut="bourgeois" age="A" stat_amour='néant'>UNE DAME</role>, changée en Pendule. Colombine.</castItem>
-    </castList>
+  </castList>
 	<set location='Lieu féérique' country='Pays féérique' periode='Temps féériques' link=''>La scène est dans une Caverne d'Ogres.</set>
 </front>
 <body>
 <div1 type='acte' n='1'><head></head>
 <div2 type='scene' n='1'><head>SCÈNE I. Pierrot, Octave.</head>
-<stage type="[N/A]">Pierrot conduit Octave dans un Chariot volant. Après qu'ils ont mis pied à terre, il dit :</stage>
+<stage type="entrance">Pierrot conduit Octave dans un Chariot volant. Après qu'ils ont mis pied à terre, il dit :</stage>
 <sp who='PIERROT'><speaker>PIERROT.</speaker>
 <p id='1'>
 	<s id='1'>Hé bien, Monsieur, ne vous ai-je pas bien conduit ? </s>
@@ -123,7 +123,7 @@
 </sp>
 </div2>
 <div2 type='scene' n='2'><head>SCÈNE II. Octave, Isménie.</head>
-<stage type="decor">Le théâtre représente une Caverne. On voit la Princesse Isménie enchaînée, et environnée d'Ogres qui la gardent.</stage>
+<stage type="decor/entrance">Le théâtre représente une Caverne. On voit la Princesse Isménie enchaînée, et environnée d'Ogres qui la gardent.</stage>
 <sp who='OCTAVE'><speaker>OCTAVE.</speaker>
 <p id='2'>
 	<s id='1'>La Fée qui m'a envoyé ici m'a promis que j'y apprendrais des nouvelles de la Princesse que j'aime ; cependant je suis dans une solitude affreuse, et je n'y découvre rien. </s>
@@ -162,7 +162,7 @@
 	<s id='2'>Qu'est-ce que j'entends ? </s>
 	<s id='3'>Mais je sens la chair fraîche, qu'on le saisisse.</s>
 </p>
-<stage type="[N/A]">Les Ogres prennent Octave.</stage>
+<stage type="catch">Les Ogres prennent Octave.</stage>
 </sp>
 <sp who='ISMÉNIE'><speaker>ISMÉNIE.</speaker>
 <p id='7'>
@@ -174,7 +174,7 @@
 <p id='8'>
 	<s id='2'>Allons, allons, qu'on le mène au Cuisinier, et qu'on le mette au court-bouillon ; et pour vous, Madame, si vous l'aimez tant, on vous en servira un quartier à votre souper.</s>
 </p>
-<stage type="[N/A]">Les Ogres emmènent Octave.</stage>
+<stage type="catch">Les Ogres emmènent Octave.</stage>
 </sp>
 <sp who='ISMÉNIE'><speaker>ISMÉNIE.</speaker>
 <p id='9'>
@@ -206,7 +206,7 @@
 	<s id='1'>Bon, bon, voici encore de la chair fraîche. </s>
 	<s id='2'>Vite, qu'on le saisisse, et qu'on le fasse embrocher avec l'autre.</s>
 </p>
-<stage type="[N/A]">Comme les Ogres se jettent sur Arlequin, une Fée paraît qui les en empêche.</stage>
+<stage type="catch/entrance">Comme les Ogres se jettent sur Arlequin, une Fée paraît qui les en empêche.</stage>
 </sp>
 <sp who='LA-FÉE'><speaker>UNE FÉE.</speaker>
 <p id='3'>
@@ -223,7 +223,7 @@
 <p id='5'>
 	<s id='1'>Allez, Madame la Fée, vous avez beau faire le Diable à quatre, votre pouvoir expire aujourd'hui.</s>
 </p>
-<stage type="[N/A]">Les Ogres et Isménie s'en vont.</stage>
+<stage type="exit">Les Ogres et Isménie s'en vont.</stage>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
 <p id='6'>
@@ -291,7 +291,7 @@
 <p id='15'>
 	<s id='1'>Volontiers, vous allez apprendre ses aventures. </s>
 	<s id='2'>Il était un Prince d'une coudée et demie de haut, qu'on surnommait Croquignolet, à cause de quantité de Batailles qu'il avait gagnées à coup de Croquignoles. </s>
-	<s id='3'>Il avait épousé l'Infante Bichette, surnommée l'il Pochée, à cause d'un coup de poing qu'il lui donna le premier jour de ses noces. </s>
+	<s id='3'>Il avait épousé l'Infante Bichette, surnommée l'oeil Pochée, à cause d'un coup de poing qu'il lui donna le premier jour de ses noces. </s>
 	<s id='4'>L'Infante Bichette était héritière présomptive d'un Royaume que son Père avait envie de conquérir. </s>
 	<s id='5'>Croquignolet eut de l'Infante une fille belle comme le jour, et dont il était si raffolé, qu'il passait les jours et les nuits à la bercer, en chantant ; Do do, l'enfant dort. </s>
 	<s id='6'>Car c'était le Premier Prince du monde, et qui avait les plus beaux talents pour endormir les petits enfants.</s>
@@ -322,7 +322,7 @@
 <note type="L">Homme : anciennement, homme d'armes, cavalier armé de toutes pièces. [L]</note>
 	<l id='18'>N'ai un homme de toute pièce.</l>
 </sp>
-<sp who='LA-FÉE'><speaker>LA FÉE, regardant Arlequin.</speaker>
+<sp stage="watch" who='LA-FÉE'><speaker>LA FÉE, regardant Arlequin.</speaker>
 <p id='18'>
 	<s id='1'>Un homme de toute pièce ?</s>
 </p>
@@ -342,7 +342,7 @@
 	<s id='1'>Je t'ai déjà dit, que je protège l'honneur des filles ; mais mon pouvoir est limité, et je ne puis le conserver que jusqu'à l'âge de quinze ans et six minutes, et si c'est bien tiré.</s>
 </p>
 </sp>
-<sp who='ARLEQUIN'><speaker>ARLEQUIN, regardant sa montre.</speaker>
+<sp stage="watch" who='ARLEQUIN'><speaker>ARLEQUIN, regardant sa montre.</speaker>
 <note type="C">L'original porte éguille, corrigé par aiguille.</note>
 <p id='21'>
 	<s id='1'>Quinze ans et six minutes ? </s>
@@ -392,7 +392,7 @@
 </sp>
 </div2>
 <div2 type='scene' n='4'><head>SCÈNE IV. Une Fée chante, Arlequin.</head>
-<sp who='LA-FÉE'><speaker>LA FÉE, chante.</speaker>
+<sp stage="sing" who='LA-FÉE'><speaker>LA FÉE, chante.</speaker>
 	<l id='19'>Con la bellezza</l>
 	<l id='20'>L'anime vince Donna volgar.</l>
 	<l id='21'>Con la fortezza,</l>
@@ -404,7 +404,7 @@
 	<l id='27'>L'anime vince Donna volgar.</l>
 	<l id='28'>Con la fortezza,</l>
 	<l id='29'>Io che son grande vo' trionfar.</l>
-<stage type="[N/A]">Arlequin rentre avec la Fée.</stage>
+<stage type="exit">Arlequin rentre avec la Fée.</stage>
 </sp>
 </div2>
 <div2 type='scene' n='5'><head>SCÈNE V. Un Ogre, Isménie, La Nourrice.</head>
@@ -422,7 +422,7 @@
 	<s id='3'>Or Brutalin avait pris la Principauté d'un autre Prince qui s'appelait Bonbenin Bonbenêt Bonbeninguet. </s>
 	<s id='4'>Bonbeningueutte sa femme, en fut si fâchée qu'elle en mourut de douleur en accouchant, et Bonbeninguet prit le Poupard entre ses bras, et s'en alla dans un bois en pleurant. </s>
 	<s id='5'>Il y trouva une vieille fée, qui lui dit en marmottant, Bonbenin Bonbenêt, Bonbeninguet, donne-moi ton poupard, et dans neuf mois d'ici je te ferai trouver ta Principauté, une belle fille, et ton poupard encore avec. </s>
-	<s id='6'>Bonbeninguet lui donna le poupard, et la Fée le rendit si petit, si petit, qu'elle le fit entrer dans un oeuf de poulette par le trou d'une aiguille, et puis elle porta cet oeuf à la belle Pétille, en lui disant : Ma belle Pétille, prends cet oeuf de poulette, et porte-le neuf mois dans ton sein sans le casser ; quand tu l'auras porté neuf mois dans ton sein, tu t'en iras dans le jardinet de ton père, et tu chanteras ce refrain.</s> 
+	<s id='6'>Bonbeninguet lui donna le poupard, et la Fée le rendit si petit, si petit, qu'elle le fit entrer dans un oeoeuf de poulette par le trou d'une aiguille, et puis elle porta cet oeoeuf à la belle Pétille, en lui disant : Ma belle Pétille, prends cet oeoeuf de poulette, et porte-le neuf mois dans ton sein sans le casser ; quand tu l'auras porté neuf mois dans ton sein, tu t'en iras dans le jardinet de ton père, et tu chanteras ce refrain.</s> 
 </p>
 	<l id='30'>Plutôt que plus tard</l>
 	<l id='31'>Pétille veut l'être,</l>
@@ -441,11 +441,11 @@
 	<l id='38'>Vaut mieux tard que jamais,</l>
 <p id='5'>
 	<s id='1'>Or Brutalin fit un grand Bal où il convia tous ceux qui la demandaient en mariage. </s>
-	<s id='2'>La Fée y amena Bonbeninguet déguisé en invisible ; et la première chose qu'il fit, fut d'aller batifoler à l'entour du sein de Pétille, qui se mit à dire ; Fi donc, ôtez-vous de là, arrêtez-vous, vous casserez mon uf. </s>
-	<s id='3'>Tant y a que l'oeuf cassa, et une coquille piqua le sein de Pétille qui se mit à crier, ahi, ahi, ahi ! </s>
+	<s id='2'>La Fée y amena Bonbeninguet déguisé en invisible ; et la première chose qu'il fit, fut d'aller batifoler à l'entour du sein de Pétille, qui se mit à dire ; Fi donc, ôtez-vous de là, arrêtez-vous, vous casserez mon oeuf. </s>
+	<s id='3'>Tant y a que l'oeoeuf cassa, et une coquille piqua le sein de Pétille qui se mit à crier, ahi, ahi, ahi ! </s>
 	<s id='4'>Et le Poupard en sortit, qui cria de son côté, eh, eh, eh, eh !</s>
 </p>
-<stage type="[N/A]">Il contrefait les cris d'un enfant.</stage>
+<stage type="shout">Il contrefait les cris d'un enfant.</stage>
 <p id='6'>
 	<s id='1'>Les Épouseurs dirent tous : Je n'en veux plus, je n'en veux plus. </s>
 	<s id='2'>Brutalin rendit le Royaume à Bonbeninguet qui reconnut le Poupard, et épousa Pétille. </s>
@@ -456,7 +456,7 @@
 <note type="L">Hoc : sorte de jeu de cartes. Il a doné naissance à cette locution proverbiale : cela lui est hoc, lui est assuré. [FC]</note>
 	<l id='41'>Messieurs les railleurs, pareil cas vous est hoc,</l>
 	<l id='42'>Et pis encore,</l>
-	<l id='43'>Car tel de vous voit l'oeuf éclore,</l>
+	<l id='43'>Car tel de vous voit l'oeoeuf éclore,</l>
 	<l id='44'>Dont il ne fut jamais le Coq.</l>
 </sp>
 </div2>
@@ -506,13 +506,13 @@
 	<s id='3'>Ah ! </s>
 	<s id='4'>Si tu te connaissais en grimaces ; tiens.</s>
 </p>
-<stage type="[N/A]">Il fait des grimaces.</stage>
+<stage type="grimace">Il fait des grimaces.</stage>
 <p id='8'>
 	<s id='1'>Mes yeux, mon nez, ma bouche, ce ton de voix moelleux. </s>
 	<s id='2'>Admire ma force, admire mon agilité.</s>
 </p>
-<stage type="[N/A]">Il danse.</stage>
-<stage type="[N/A]">D'un coup de massue il jette plusieurs Ogres à terre, Isménie prend la fuite. Comme l'Ogre la poursuit, Arlequin survient avec la baguette enchantée, et la change en rocher.</stage>
+<stage type="danse">Il danse.</stage>
+<stage type="fight/magic">D'un coup de massue il jette plusieurs Ogres à terre, Isménie prend la fuite. Comme l'Ogre la poursuit, Arlequin survient avec la baguette enchantée, et la change en rocher.</stage>
 </sp>
 </div2>
 <div2 type='scene' n='7'><head>SCÈNE VII. Arlequin, Isménie et Octave changés en Rocher.</head>
@@ -532,13 +532,13 @@
 <p id='2'>
 	<s id='1'>Je voudrais bien pouvoir leur rendre leur première figure ; mais je ne le puis faire que quand je verrai une Urne d'Or, à ce que m'a dit la Fée.</s>
 </p>
-<stage type="[N/A]">Une urne d'or sort de dessous le théâtre.</stage>
+<stage type="decor">Une urne d'or sort de dessous le théâtre.</stage>
 <p id='3'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Voilà justement l'Urne. </s>
 	<s id='3'>Allons.</s>
 </p>
-<stage type="[N/A]">Il donne un coup de baguette, et Octave et Isménie reprennent leur première figure.</stage>
+<stage type="magic">Il donne un coup de baguette, et Octave et Isménie reprennent leur première figure.</stage>
 </sp>
 <sp who='OCTAVE'><speaker>OCTAVE.</speaker>
 <p id='4'>
@@ -565,7 +565,7 @@
 	<s id='1'>Hé, mariez-vous toujours, le consentement viendra ensuite. </s>
 	<s id='2'>Mais voilà justement Monsieur Croquignolet lui-même.</s>
 </p> 
-<stage type="[N/A]">Croquignolet armé sort de l'Urne.</stage>
+<stage type="entrance">Croquignolet armé sort de l'urne.</stage>
 </sp>
 <sp who='ISMÉNIE'><speaker>ISMÉNIE.</speaker>
 <p id='9'>
@@ -577,7 +577,7 @@
 	<s id='1'>Monsieur Croquignolet, ces deux Amants vous attendent pour donner votre consentement à leur mariage.</s>
 </p>
 </sp>
-<sp who='CROQUIGNOLET'><speaker>CROQUIGNOLET, chante.</speaker>
+<sp stage="sing" who='CROQUIGNOLET'><speaker>CROQUIGNOLET, chante.</speaker>
 	<l id='49'>Le conseil d'un vieux Barbon</l>
 	<l id='50'>Est toujours bon,</l>
 	<l id='51'>Est toujours bon,</l>
@@ -591,20 +591,20 @@
 	<s id='1'>Puisque voilà le consentement, réjouissons-nous. </s>
 	<s id='2'>Je m'en vais changer cette grotte en un palais magnifique, le Palais des Fées.</s>
 </p>
-<stage type="[N/A]">Arlequin donne un coup de sa baguette, et le Théâtre se change en un Palais magnifique. On y voit une Pendule, un Limaçon, un Papillon et une Lanterne.</stage>
+<stage type="magic/decor">Arlequin donne un coup de sa baguette, et le Théâtre se change en un Palais magnifique. On y voit une Pendule, un Limaçon, un Papillon et une Lanterne.</stage>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
 <p id='12'>
 	<s id='1'>Tout ce que vous voyez-là, ce sont des gens que les Fées ont ainsi métamorphosés pour se divertir, mais je m'en vais leur rendre leur première forme.</s>
 </p>
-<stage type="[N/A]">Arlequin frappe une seconde fois de sa baguette, et le Papillon devient une Nymphe, la Lanterne un Berger, le Limaçon un Vieillard, et la Pendule une Dame.</stage>
+<stage type="magic">Arlequin frappe une seconde fois de sa baguette, et le Papillon devient une Nymphe, la Lanterne un Berger, le Limaçon un Vieillard, et la Pendule une Dame.</stage>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
 <p id='13'>
 	<s id='1'>Hé bien, vous qui étiez Papillon tout à l'heure, contez-nous un peu la raison pourquoi les Fées vous avaient ainsi métamorphosée.</s>
 </p>
 </sp>
-<sp who='LA NYMPHE'><speaker>LA NYMPHE, chante.</speaker>
+<sp stage="sing" who='LA NYMPHE'><speaker>LA NYMPHE, chante.</speaker>
 	<l id='56'>Un jeune inconstant</l>
 	<l id='57'>Brûlait pour moi d'une flamme nouvelle.</l>
 	<l id='58'>Son feu me parut si brillant,</l>
@@ -653,7 +653,7 @@
 	<s id='1'>Et vous qui gardez encore quelque chose du Limaçon que vous étiez tout à l'heure, contez-nous donc votre aventure.</s>
 </p>
 </sp>
-<sp who='LE-VIEILLARD'><speaker>LE VIEILLARD, chante.</speaker>
+<sp stage="sing" who='LE-VIEILLARD'><speaker>LE VIEILLARD, chante.</speaker>
 	<l id='80'>Vieux et bossu,</l>
 	<l id='81'>Je voulus</l>
 	<l id='82'>Avec la jeune fée, ébaucher l'aventure.</l>
@@ -739,7 +739,7 @@
 	<l id='98'>Les vieilles Coquettes</l>
 	<l id='99'>En jeunes tendrons.</l>
 </sp>
-<sp who='LA-DAME'><speaker>LA DAME, chante.</speaker>
+<sp stage="sing" who='LA-DAME'><speaker>LA DAME, chante.</speaker>
 	<l id='100'>Sans être sorcières,</l>
 	<l id='101'>En mille manières</l>
 	<l id='102'>Nous nous transformons,</l>
@@ -758,7 +758,7 @@
 	<l id='112'>Les fières tigresses </l>
 	<l id='113'>En petits moutons.</l>
 </sp>
-<sp who='ARLEQUIN'><speaker>ARELQUIN, chante.</speaker>
+<sp stage="sing" who='ARLEQUIN'><speaker>ARELQUIN, chante.</speaker>
 	<l id='114'>Pour nous satisfaire,</l>
 	<l id='115'>De toute manière</l>
 	<l id='116'>Nous nous déguisons,</l>

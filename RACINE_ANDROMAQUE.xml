@@ -7,7 +7,7 @@
 				<author born="1639" born_location="La Ferté Millon" death="1699" death_location="Paris" academie="1673">RACINE, Jean</author>
 			</titleStmt>
 			<publicationStmt>	
-				<p>publié par Paul FIEVRE, Mai 2006, revu décembre 2013, revu septembre 2015</p>
+				<p>publié par Paul FIEVRE, Mai 2006, revu décembre 2013, revu novembre 2016</p>
 				<idno>RACINE_ADROMAQUE</idno>
 			</publicationStmt>
 			<SourceDesc>
@@ -103,7 +103,7 @@
 <p type="p">Combien Euripide a-t-il été plus hardi dans sa tragédie d'Hélène ! Il y choque ouvertement la créance commune de toute la Grèce : il suppose qu'Hélène n'a jamais mis le pied dans Troie, et qu'après l'embrasement de cette ville, Ménélas trouve sa femme en Égypte, d'où elle n'était point partie ; tout cela fondé sur une opinion qui n'était reçue que parmi les Égyptiens, comme on le peut voir dans Hérodote. </p>
 <p type="p">Je ne crois pas que j'eusse besoin de cet exemple d'Euripide pour justifier le peu de liberté que j'ai prise. Car il y a bien de la différence entre détruire le principal fondement d'une fable et en altérer quelques incidents, qui changent presque de face dans toutes les mains qui les traitent. Ainsi Achille, selon la plupart des poètes, ne peut être blessé qu'au talon, quoique Homère le fasse blesser au bras, et ne le croie invulnérable en aucune partie de son corps. Ainsi Sophocle fait mourir Jocaste aussitôt après la reconnaissance d'Oedipe ; tout au contraire d'Euripide qui la fait vivre jusqu'au combat et à la mort de ses deux fils. Et c'est à propos de quelques contrariétés de cette nature qu'un ancien commentateur de Sophocle remarque fort bien "qu'il ne faut point s'amuser à chicaner les poètes pour quelques changements qu'ils ont pu faire dans la fable ; mais qu'il faut s'attacher à considérer l'excellent usage qu'ils ont fait de ces changements, et la manière ingénieuse dont ils ont su accommoder la fable à leur sujet". </p>
 </div>
-   <castList><head>ACTEURS</head>
+  <castList><head>ACTEURS</head>
 		<castItem><role id="ANDROMAQUE" sex="2" type="H" statut="esclave" age="A" stat_amour="néant">ANDROMAQUE</role>, veuve d'Hector, captive de Pyrrhus.</castItem>
 		<castItem><role id="PYRRHUS" sex="1" type="H" statut="roi" age="A" stat_amour="amoureux">PYRRHUS</role>, fils d'Achille roi d'Épire.</castItem>
 		<castItem><role id="ORESTE" sex="1" type="H" statut="prince" age="A" stat_amour="amoureux">ORESTE</role>, fils d'Agamemnon.</castItem>
@@ -113,9 +113,9 @@
 		<castItem><role id="CEPHISE" sex="2" type="H" statut="confident" age="A" stat_amour="néant">CÉPHISE </role>, confidente d'Andromaque.</castItem>
 		<castItem><role id="PHOENIX" sex="1" type="H" statut="gouverneur" age="A" stat_amour="néant">PHOENIX </role>, gouverneur d'Achille, et ensuite de Pyrrhus.</castItem>
 		<castItem><role id="SUITE D'ORESTE" sex="9" type="H" statut="suite" age="A" stat_amour="néant">Suite d'Oreste</role>.</castItem>
-	   </castList>
-	   <set location="Buthrot" country="Albanie" periode="Temps mythologiques" link="">La scène est à Buthrot, ville d'Épire, dans une salle du palais de Pyrrhus.</set>
-	   <note>Le texte est celui de l'édition 1697.</note>
+	  </castList>
+	  <set location="Buthrot" country="Albanie" periode="Temps mythologiques" link="">La scène est à Buthrot, ville d'Épire, dans une salle du palais de Pyrrhus.</set>
+	  <note>Le texte est celui de l'édition 1697.</note>
 	</front>
 <body>
 <div1 type="act" n="1"><head>ACTE I</head>
@@ -890,7 +890,7 @@
 	<l id="590">Adieu, s'il y consent, je suis prête à vous suivre.</l></sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III.</head>
-<sp who="ORESTE"><speaker>ORESTE, seul.</speaker>
+<sp stage="alone" who="ORESTE"><speaker>ORESTE, seul.</speaker>
 	<l id="591">Oui, oui, vous me suivrez, n'en doutez nullement.</l>
 	<l id="592">Je vous réponds déjà de son consentement.</l>
 	<l id="593">Je ne crains pas enfin que Pyrrhus la retienne,</l>
@@ -1332,14 +1332,14 @@
 	<l id="890" part="i">Mais lui-même il vous cherche.</l></sp>
 </div2>
 <div2 type="scene" n="6"><head>SCÈNE VI. Pyrrhus, Aandromaque, Phoenix, Céphise.</head>
-<sp who="PYRRHUS"><speaker>PYRRHUS, à Phoenix.</speaker>
+<sp stage="toward" who="PYRRHUS"><speaker>PYRRHUS, à Phoenix.</speaker>
 	<l id="890" part="f">Où donc est la princesse ?</l>
 	<l id="891">Ne m'avais-tu pas dit qu'elle était en ces lieux ?</l>
 </sp>
 <sp who="PHOENIX"><speaker>PHOENIX</speaker>
 	<l id="892" part="i">Je le croyais.</l>
 </sp>
-<sp who="ANDROMAQUE"><speaker>ANDROMAQUE, à Céphise.</speaker>
+<sp stage="toward" who="ANDROMAQUE"><speaker>ANDROMAQUE, à Céphise.</speaker>
 	<l id="892" part="f">Tu vois le pouvoir de mes yeux.</l>
 </sp>
 <sp who="PYRRHUS"><speaker>PYRRHUS</speaker>
@@ -2038,7 +2038,7 @@
 </div1>
 <div1 type="act" n="5"><head>ACTE V</head>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
-<sp who="HERMIONE"><speaker>HERMIONE, seule.</speaker>
+<sp stage="alone" who="HERMIONE"><speaker>HERMIONE, seule.</speaker>
 	<l id="1393">Où suis-je ? Qu'ai-je fait ? Que dois-je faire encore ?</l>
 	<l id="1394">Quel transport me saisit ? Quel chagrin me dévore ?</l>
 	<l id="1395">Errante, et sans dessein, je cours dans ce palais.</l>
@@ -2260,7 +2260,7 @@
 	<l id="1564">Traître, qu'elle ait produit un monstre comme toi.</l></sp>
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV.</head>
-<sp who="ORESTE"><speaker>ORESTE, seul.</speaker>
+<sp stage="alone" who="ORESTE"><speaker>ORESTE, seul.</speaker>
 	<l id="1565">Que vois-je ? Est-ce Hermione ? Et que viens-je d'entendre ?</l>
 	<l id="1566">Pour qui coule le sang que je viens de répandre ?</l>
 	<l id="1567">Je suis, si je l'en crois, un traître, un assassin.</l>
@@ -2374,7 +2374,7 @@
 <bottom>
 <div1 type="annexe" n="1"><head>ANNEXES</head>	
 <div2 type="oeuvres" n="2"><head>Liste des oeuvres théâtrales de Jean Racine</head>
-	<p id='p'>Le corpus théâtral de Jean Racine se compose de douze pièces : onze tragédies et une comédie. Cette production se partage dans le temps en deux parties : la première et principale se situe entre les débuts avec "La Thébaïde" (1664) et le la polémique de "Phèdre" (1677), la seconde concerne les deux tragédies religieuses d'Esther (1689) et d'Athalie (1691) commandées par Mme de Maintenon. Les deux premières tragédies ont été représentées par le troupe de Molière au théâtre du Palais-Royal puis Racine confia ses pièces à la troupe de l'Hôtel de Bourgogne et se brouilla avec Molière. Son unique comédie fut représentée à l'Hôtel Guénégaud et ses dernières tragédies au Collège de Saint-Cyr jouées par les pensionnaires devant Louis XIV. Les sujets des tragédies sont tirés de la mythologie  grecque (La Thébaïde, Andromaque, Iphigénie, Phèdre), de l'histoire antique grecque (Alexandre) ou romaine (Britannicus, Bérénice, Mithridate), ou de l'histoire récente proche-orientale (Bajazet). Esther et Athalie sont inspirées des livres éponymes de la Bible. La comédie des Plaideurs ironise sur la justice de son temps.</p>
+	<p id='p'>Le corpus théâtral de Jean Racine se compose de douze pièces : onze tragédies et une comédie. Cette production se partage dans le temps en deux parties : la première et principale se situe entre les débuts avec "La Thébaïde" (1664) et le la polémique de "Phèdre" (1677), la seconde concerne les deux tragédies religieuses d'Esther (1689) et d'Athalie (1691) commandées par Mme de Maintenon. Les deux premières tragédies ont été représentées par le troupe de Molière au théâtre du Palais-Royal puis Racine confia ses pièces à la troupe de l'Hôtel de Bourgogne et se brouilla avec Molière. Son unique comédie fut représentée à l'Hôtel Guénégaud et ses dernières tragédies au Collège de Saint-Cyr jouées par les pensionnaires devant Louis XIV. Les sujets des tragédies sont tirés de la mythologie grecque (La Thébaïde, Andromaque, Iphigénie, Phèdre), de l'histoire antique grecque (Alexandre) ou romaine (Britannicus, Bérénice, Mithridate), ou de l'histoire récente proche-orientale (Bajazet). Esther et Athalie sont inspirées des livres éponymes de la Bible. La comédie des Plaideurs ironise sur la justice de son temps.</p>
 	
 	<p id='p'>La Thébaïde ou les rère ennemis (1664), représentée pour le première fois le 20 juin 1664 au Théâtre du Palais-Royal</p>
 	<p id='p'>Alexandre le Grand (1665), représentée pour le première fois le 4 décembre 1665 au Théâtre du Palais Royal.</p>

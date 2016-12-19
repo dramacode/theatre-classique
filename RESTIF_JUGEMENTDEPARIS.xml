@@ -8,21 +8,20 @@
 				
 			</titleStmt>
 			<publicationStmt>	
-				publié par Paul FIEVRE, septembre 2015.
-			<idno></idno>
-</publicationStmt>
+				<publisher>publié par Paul FIEVRE, septembre 2015, revu septembre 2016.</publisher>
+				<idno>RESTIF_JUGEMENTDEPARIS</idno>
+			</publicationStmt>
 			<SourceDesc>
-				<genre>comédie</genre>
+				<genre>Comédie</genre>
 				<inspiration>mythe grec</inspiration>
 				<structure>Un acte</structure>
 				<type>prose</type>
 				<periode>1771-1780</periode>
-				<taille>2000-2250</taille>
+				<taille>(mesure non pertinence)</taille>
 				<permalien></permalien>
 				<liens>
 					<lien type="source">OVIDE, Les Métamorphoses</lien>
-				</liens>	
-
+				</liens>
 			</SourceDesc>
 		</fileDesc>
 </teiHeader>
@@ -357,12 +356,12 @@
 	<s id="1">Il ne la connaît pas encore ; mais vous devez bien juger qu'étant jeune, et fils de Roi, il possède toutes les qualités qui sont propres à former un Héros.</s>
 </p>
 </sp>
-<sp who="VÉNUS"><speaker>VÉNUS, d'un ton avantageux.</speaker>
+<sp stage="proud" who="VÉNUS"><speaker>VÉNUS, d'un ton avantageux.</speaker>
 <p id="35">
 	<s id="1">Est-il marié, ce beau Berger ?</s>
 </p>
 </sp>
-<sp who="MOMUS"><speaker>MOMUS, sur le même ton.</speaker>
+<sp stage="proud" who="MOMUS"><speaker>MOMUS, sur le même ton.</speaker>
 <p id="36">
 	<s id="1">Non, Déesse, c'est encore une conquête à faire. </s>
 	<s id="2">Il est aussi beau qu'Adonis, vous ne perdrez rien au change ; mais je vous préviens que vous aurez une rivale.</s>
@@ -392,7 +391,7 @@
 	<s id="1">Oui : son nom est OEnone.</s>
 </p>
 </sp>
-<sp who="OENONE"><speaker>OENONE, dans le fond du Théâtre.</speaker>
+<sp stage="location" who="OENONE"><speaker>OENONE, dans le fond du Théâtre.</speaker>
 <p id="41">
 	<s id="1">On parle de moi, écoutons.</s>
 </p>
@@ -404,7 +403,7 @@
 	<s id="3">Trompé par les apparences... </s>
 	<s id="4">Hem...</s>
 </p>
-<stage type="[N/A]">En s'avançant vers le fond du Théâtre.</stage>
+<stage type="away/location">En s'avançant vers le fond du Théâtre.</stage>
 <p id="43">
 	<s id="1">Il croit que ce n'est qu'un misérable aventurier, sans fortune... </s>
 	<s id="2">Ah ! </s>
@@ -463,12 +462,12 @@
 	<s id="1">Arrêtez, un mot ; nous cherchons Pâris : c'est l'objet de notre voyage ; il faut que vous l'ameniez ici, ces Dames veulent le consulter sur un point des plus délicat.</s>
 </p>
 </sp>
-<sp who="OENONE"><speaker>OENONE, à part.</speaker>
+<sp stage="aparte" who="OENONE"><speaker>OENONE, à part.</speaker>
 <p id="9">
 	<s id="1">Ô Ciel ! </s>
 	<s id="2">Elles viennent pour m'enlever mon amant...</s>
 </p>
-<stage type="forte">Haut.</stage>
+<stage type="loud">Haut.</stage>
 <p id="10">
 	<s id="1">Monsieur, est-ce que je ne puis pas bien leur donner moi-même les éclaircissements dont elles ont besoin ?</s>
 </p>
@@ -519,11 +518,11 @@
 	<s id="1">L'un est plus aisé que l'autre.</s>
 </p>
 </sp>
-<sp who="PALLAS"><speaker>PALLAS, en donnant à Momus son casque et sa lance.</speaker>
+<sp stage="give" who="PALLAS"><speaker>PALLAS, en donnant à Momus son casque et sa lance.</speaker>
 <p id="8">
 	<s id="1">L'un et l'autre m'est également facile, et malgré ce souris moqueur, j'espère vous en donner des preuves avant la fin du jour.</s>
 </p>
-<stage type="[N/A]">Momus met le casque sur sa tête.</stage>
+<stage type="dress">Momus met le casque sur sa tête.</stage>
 </sp>
 <sp who="VÉNUS"><speaker>VÉNUS.</speaker>
 <p id="9">
@@ -576,7 +575,7 @@
 <p id="17">
 	<s id="1">Que faire de cela : il me prend envie d'essayer aussi de la Majesté.</s>
 </p>
-<stage type="[N/A]">Il met le manteau.</stage>
+<stage type="dress">Il met le manteau.</stage>
 <p id="18">
 	<s id="1">Cela sera drôle : vous riez. </s>
 	<s id="2">Eh bien, tant mieux, j'aime fort que l'on rie, moi, fut-ce même à mes dépens.</s>
@@ -638,7 +637,7 @@
 	<s id="1">Voilà une générosité dont vous auriez pu nous faire grâce.</s>
 </p>
 </sp>
-<sp who="VÉNUS"><speaker>VÉNUS, à part.</speaker>
+<sp stage="aparte" who="VÉNUS"><speaker>VÉNUS, à part.</speaker>
 <p id="28">
 	<s id="1">Bon, elles ne l'ont point aperçue.</s>
 </p>
@@ -691,13 +690,13 @@
 </p>
 </sp>
 <sp who="OENONE"><speaker>OENONE.</speaker>
-<stage type="[N/A]">Elle la prend et lit.</stage>
+<stage type="get/read">Elle la prend et lit.</stage>
 <p id="37">
 	<s id="1">À la plus belle : bon, ce n'est que cela, grand merci, Monsieur, votre servante.</s>
 </p>
 </sp>
 <sp who="MOMUS"><speaker>MOMUS.</speaker>
-<stage type="[N/A]">En la retenant.</stage>
+<stage type="pull">En la retenant.</stage>
 <p id="38">
 	<s id="1">Que faites-vous donc ?</s>
 </p>
@@ -708,7 +707,7 @@
 	<s id="2">Il faudrait être bien téméraire pour le lui disputer.</s>
 </p>
 </sp>
-<sp who="VÉNUS"><speaker>VÉNUS, à part.</speaker>
+<sp stage="aparte" who="VÉNUS"><speaker>VÉNUS, à part.</speaker>
 <p id="40">
 	<s id="1">On ne l'a point flatté : il est vraiment intéressant, ce garçon-là.</s>
 </p>
@@ -786,14 +785,14 @@
 <p id="53">
 	<s id="1">Qu'est-ce donc que tout cela signifie ?</s>
 </p>
-<stage type="[N/A]">En arrachant le bandeau de dessus les yeux de Paris.</stage>
+<stage type="dress/show">En arrachant le bandeau de dessus les yeux de Paris.</stage>
 <p id="54">
 	<s id="1">Ah ! </s>
 	<s id="2">Finissons la plaisanterie.</s>
 </p>
 </sp>
 <sp who="PÂRIS"><speaker>PÂRIS.</speaker>
-<stage type="[N/A]">Il ne voit encore que Junon et Pallas.</stage>
+<stage type="watch">Il ne voit encore que Junon et Pallas.</stage>
 <p id="55">
 	<s id="1">Que vois-je ? </s>
 	<s id="2">Ô Ciel ! </s>
@@ -801,7 +800,7 @@
 	<s id="4">Que de beautés ! </s>
 	<s id="5">Mes yeux ne peuvent suffire à les voir, ma langue à les exprimer...</s>
 </p>
-<stage type="[N/A]">Il aperçoit Vénus, et reste frappé d'extase, les yeux fixés, la bouche béante, en s'écriant.</stage>
+<stage type="watch/suprise/loud">Il aperçoit Vénus, et reste frappé d'extase, les yeux fixés, la bouche béante, en s'écriant.</stage>
 <p id="56">
 	<s id="1">Dieux !</s>
 </p>
@@ -815,7 +814,7 @@
 <p id="58">
 	<s id="1">Il est devenu sourd.</s>
 </p>
-<stage type="[N/A]">Elle appelle.</stage>
+<stage type="loud">Elle appelle.</stage>
 <p id="59">
 	<s id="1">Pâris ; tes serments, perfide, tes serments.</s>
 </p>
@@ -829,20 +828,20 @@
 	<s id="5">Regarde-les donc toutes auparavant.</s>
 </p>
 </sp>
-<sp who="PÂRIS"><speaker>PÂRIS tourne ses regards un moment sur les deux autres Déesses, puis les laisse retomber sur Vénus, en poussant un soupir.</speaker>
+<sp stage="watch/sigh" who="PÂRIS"><speaker>PÂRIS tourne ses regards un moment sur les deux autres Déesses, puis les laisse retomber sur Vénus, en poussant un soupir.</speaker>
 <p id="61">
 	<s id="1">Ah !</s>
 </p>
 </sp>
-<sp who="PALLAS"><speaker>PALLAS voyant qu'il est prêt de donner la Pomme à Vénus.</speaker>
+<sp stage="watch" who="PALLAS"><speaker>PALLAS, voyant qu'il est prêt de donner la Pomme à Vénus.</speaker>
 <p id="62">
 	<s id="1">Un moment. </s>
 	<s id="2">Il y a ici un charme qu'il faut détruire. </s>
-	<s id="3">La vraie beauté ne frappe pas d'abord ; il faut, pour  la distinguer, un examen plus attentif. </s>
+	<s id="3">La vraie beauté ne frappe pas d'abord ; il faut, pour la distinguer, un examen plus attentif. </s>
 	<s id="4">Je demande, avant de donner le prix, que notre juge nous voie seule à seule, et l'une après l'autre.</s>
 </p>
 </sp>
-<sp who="VÉNUS"><speaker>VÉNUS, en souriant, d'un air avantageux.</speaker>
+<sp stage="smile/proud" who="VÉNUS"><speaker>VÉNUS, en souriant, d'un air avantageux.</speaker>
 <p id="63">
 	<s id="1">En vérité, tout ce que vous voudrez... </s>
 	<s id="2">Vous êtes trop aimables, l'une et l'autre, pour qu'on puisse vous rien refuser.</s>
@@ -863,7 +862,7 @@
 <p id="66">
 	<s id="1">Attendez ; voilà qui va vous mettre d'accord.</s>
 </p>
-<stage type="[N/A]">Il présente à Junon trois pailles qu'il a ramassées.</stage>
+<stage type="show">Il présente à Junon trois pailles qu'il a ramassées.</stage>
 </sp>
 <sp who="JUNON"><speaker>JUNON.</speaker>
 <p id="67">
@@ -876,7 +875,7 @@
 	<s id="2">La plus courte paille passera la première. </s>
 	<s id="3">Bon, c'est vous-même.</s>
 </p>
-<stage type="[N/A]">Il présente ensuite à Pallas et à Vénus.</stage>
+<stage type="show">Il présente ensuite à Pallas et à Vénus.</stage>
 <p id="69">
 	<s id="1">Vous ensuite, et Vénus la dernière. </s>
 	<s id="2">Maintenant, Mesdames, c'est à vous de vous retirer, en attendant votre tour.</s>
@@ -981,7 +980,7 @@
 	<s id="1">Sans doute.</s>
 </p>
 </sp>
-<sp who="MOMUS"><speaker>MOMUS, à part.</speaker>
+<sp stage="aparte" who="MOMUS"><speaker>MOMUS, à part.</speaker>
 <p id="16">
 	<s id="1">Voilà, ma foi, l'oiseau dans le piège.</s>
 </p>
@@ -1057,7 +1056,7 @@
 	<s id="1">Halte-là, jeune homme ; point de serment pour ton honneur.</s>
 </p>
 </sp>
-<sp who="PÂRIS"><speaker>PÂRIS, à part.</speaker>
+<sp stage="aparte" who="PÂRIS"><speaker>PÂRIS, à part.</speaker>
 <p id="29">
 	<s id="1">Il m'éclaire : qu'allais-je dire ? </s>
 	<s id="2">Ah, Vénus !</s>
@@ -1207,7 +1206,7 @@
 	<s id="1">La sagesse.</s>
 </p>
 </sp>
-<sp who="MOMUS"><speaker>MOMUS, à part.</speaker>
+<sp stage="aparte" who="MOMUS"><speaker>MOMUS, à part.</speaker>
 <p id="19">
 	<s id="1">Je prévois que notre guerrière aura de la peine à se faire entendre.</s>
 </p>
@@ -1273,7 +1272,7 @@
 	<s id="1">Je ne résiste plus : puissante Déesse, accordez-moi, de grâce, de si précieux dons, et demandez-moi tout ce que vous voudrez.</s>
 </p>
 </sp>
-<sp who="OENONE"><speaker>OENONE, à part.</speaker>
+<sp stage="aparte" who="OENONE"><speaker>OENONE, à part.</speaker>
 <p id="30">
 	<s id="1">Est-il fou ? </s>
 	<s id="2">Que veut-il donc faire ?</s>
@@ -1285,7 +1284,7 @@
 	<s id="2">Tu tiens dans ta main la seule récompense qui puisse me flatter.</s>
 </p>
 </sp>
-<sp who="MOMUS"><speaker>MOMUS, à part.</speaker>
+<sp stage="aparte" who="MOMUS"><speaker>MOMUS, à part.</speaker>
 <p id="32">
 	<s id="1">La raison l'emporterait-elle sur l'amour et sur la fortune dans le coeur d'un jeune homme ? </s>
 	<s id="2">Je suis curieux de voir ce nouveau prodige.</s>
@@ -1303,7 +1302,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="9"><head>SCÈNE IX. Les mêmes.</head>
-<sp who="VÉNUS"><speaker>VÉNUS, paraissant tout-à-coup dans le fond du Théâtre.</speaker>
+<sp stage="entrance/location" who="VÉNUS"><speaker>VÉNUS, paraissant tout-à-coup dans le fond du Théâtre.</speaker>
 <p id="1">
 	<s id="1">Voilà donc mes soupçons vérifiés.</s>
 </p>
@@ -1401,14 +1400,14 @@
 <p id="12">
 	<s id="1">Et moi, je vous donne la beauté.</s>
 </p>
-<stage type="[N/A]">Elle tire sa Ceinture, qui était cachée dans ses cheveux, et la passe autour d'OEnone : la Bergère va se mirer dans le ruisseau voisin.</stage>
+<stage type="dress/watch">Elle tire sa ceinture, qui était cachée dans ses cheveux, et la passe autour d'OEnone : la bergère va se mirer dans le ruisseau voisin.</stage>
 </sp>
 <sp who="PÂRIS"><speaker>PÂRIS.</speaker>
 <p id="13">
 	<s id="1">Minerve m'offrait un nom glorieux.</s>
 </p>
 </sp>
-<sp who="VÉNUS"><speaker>VÉNUS, en lui remettant un papier.</speaker>
+<sp stage="give" who="VÉNUS"><speaker>VÉNUS, en lui remettant un papier.</speaker>
 <p id="14">
 	<s id="">Et Vénus le bonheur.</s>
 </p>
@@ -1418,26 +1417,26 @@
 	<s id="1">Que vois-je ? </s>
 	<s id="2">Le père d'OEnone consent à notre union !</s>
 </p>
-<stage type="toward">À OEnone, qui est venue se mettre dans la Place où était Vénus, et qu'il prend pour cette Déesse.</stage>
+<stage type="toward/location">À OEnone, qui est venue se mettre dans la place où était Vénus, et qu'il prend pour cette Déesse.</stage>
 <p id="16">
 	<s id="1">Généreuse immortelle, comment ai-je mérité tant de faveurs ? </s>
 	<s id="2">Quel prix pourra jamais m'acquitter envers vous ?</s>
 </p>
-<stage type="[N/A]">Il se tourne du côté de Vénus.</stage>
+<stage type="closer">Il se tourne du côté de Vénus.</stage>
 <p id="17">
-	<s id="1">Tiens, chere OEnone, regarde.... </s>
+	<s id="1">Tiens, chère OEnone, regarde.... </s>
 	<s id="2">Ô Ciel ! </s>
 	<s id="3">Quel changement ! </s>
 	<s id="4">Quel prodige ! </s>
 	<s id="5">Aussi belle que Vénus !</s>
 </p>
 </sp>
-<sp who="OENONE"><speaker>OENONE saute au col de Vénus, en s'écriant.</speaker>
+<sp stage="strangle/shout" who="OENONE"><speaker>OENONE, saute au col de Vénus, en s'écriant.</speaker>
 <p id="18">
-	<s id="1">Ah, Déesse!</s>
+	<s id="1">Ah, Déesse !</s>
 </p>
 </sp>
-<sp who="MOMUS"><speaker>MOMUS, paraissant dans le fond du Théâtre.</speaker>
+<sp stage="entrance/location" who="MOMUS"><speaker>MOMUS, paraissant dans le fond du Théâtre.</speaker>
 <stage type="aparte">À part.</stage>
 <p id="19">
 	<s id="1">Jupiter trouverait peut-être mauvais que j'abandonne ainsi mon poste ; c'est un Seigneur qui n'entend pas raillerie, et moi, naturellement, je n'aime pas les affaires sérieuses.</s>
@@ -1480,7 +1479,7 @@
 	<s id="1">Déesses, écoutez de grâce, et rendez-moi justice. </s>
 	<s id="2">Junon, vous avez flatté mon ambition, recevez mes remerciements ; Minerve a éclairé ma raison, elle mérite toute mon estime ; mais Vénus a gagné mon coeur, et je lui dois la Pomme...</s>
 </p>
-<stage type="[N/A]">Il la lui donne.</stage>
+<stage type="give">Il la lui donne.</stage>
 </sp>
 <sp who="JUNON"><speaker>JUNON.</speaker>
 <p id="4">
@@ -1544,13 +1543,13 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="11"><head>SCÈNE XII ET DERNIÈRE. Les mêmes, excepté Minerve et Junon, les trois Grâces.</head>
+<div2 type="scene" n="11"><head>SCÈNE XII et DERNIÈRE. Les mêmes, excepté Minerve et Junon, les trois Grâces.</head>
 <sp who='PREMIÈRE DES GRÂCES'><speaker>LA PREMIÈRE DES GRÂCES.</speaker>
 	<l id='1'>Venez, mes soeurs, chantons la Reine de Cythere,</l>
 	<l id='2'>Célébrons ce grand jour, réunissons nos voix ;</l>
 	<l id='3'>Elle est mère du Dieu qui féconde la terre,</l>
 	<l id='4'>Et commande à celui qui la tient sous ses lois.</l>
-<stage type="[N/A]">Une troupe de Bergers et de Bergères se rassemble à la voix des Grâces.</stage>
+<stage type="entrance/sing">Une troupe de Bergers et de Bergères se rassemble à la voix des Grâces.</stage>
 	<l id='5'>Venez Bergers, fêtons la Reine de Cythere ;</l>
 	<l id='6'>Unissez, beaux Bergers, vos Danses à nos voix.</l>
 	<l id='7'>Danse des Bergers et des Bergères.</l>
@@ -1562,7 +1561,7 @@
 	<l id='13'>Bientôt il chancelle,</l>
 	<l id='14'>Et l'amour l'attelle</l>
 	<l id='15'>A son Char vainqueur.</l>
-<stage type="[N/A]">Danses des Bergers, etc.</stage>
+<stage type="danse">Danses des Bergers, etc.</stage>
 </sp>
 <sp who='DEUXIEME GRÂCE'><speaker>DEUXIEME GRÂCE.</speaker>
 	<l id='16'>Quel nuage, ô mortels, vous cache la lumière ?</l>
@@ -1584,12 +1583,12 @@
 	<l id='30'>Quels sont donc les charmes des secrètes armes</l>
 	<l id='31'>Que portent nos yeux ?</l>
 </sp>
-<sp who='LES DEUX PREMIÈRES GRACES'><speaker>LES DEUX PREMIÈRES GRACES, ensemble.</speaker>
+<sp stage="together" who='LES DEUX PREMIÈRES GRACES'><speaker>LES DEUX PREMIÈRES GRACES, ensemble.</speaker>
 	<l id='32'>Chantez, chantez la Reine de Cythere,</l>
 	<l id='33'>Célébrez son pouvoir, reconnaissez ses droits ;</l>
 	<l id='34'>Elle est mère du Dieu qui féconde la terre,</l>
 	<l id='35'>Et commande à celui qui la tient sous ses lois.</l>
-<stage type="[N/A]">Les Grâces se réunissent aux Danses des Bergers et des Bergères.</stage>
+<stage type="danse">Les Grâces se réunissent aux Danses des Bergers et des Bergères.</stage>
 </sp>
 </div2>
 </div1>

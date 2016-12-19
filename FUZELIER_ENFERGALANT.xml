@@ -41,16 +41,16 @@
 				<nombre value=""></nombre>		
 			</performance>
 <castList><head>ACTEURS</head>
-       	<castItem><role id="DIANE" sex="2" type="D" statut="dieu" age="A" stat_amour='néant'>DIANE</role>.</castItem>
-       	<castItem><role id="PLUTON" sex="1" type="D" statut="dieu" age="A" stat_amour='néant'>PLUTON</role>.</castItem>
-       	<castItem><role id="ENDYMION" sex="1" type="H" statut="berger" age="A" stat_amour='néant'>ENDYMION</role>.</castItem>
-       	<castItem><role id="VÉNUS" sex="2" type="D" statut="dieu" age="A" stat_amour='néant'>VÉNUS</role>.</castItem>
-       	<castItem><role id="MELPOMÈNE" sex="2" type="D" statut="muse" age="A" stat_amour='néant'>MELPOMÈNE</role>.</castItem>
-       	<castItem><role id="HÉBÉ" sex="2" type="D" statut="dieu" age="A" stat_amour='néant'>HÉBÉ</role>.</castItem>
-       	<castItem><role id="BACCHUS" sex="1" type="D" statut="dieu" age="A" stat_amour='néant'>BACCHUS</role>.</castItem>
-       	<castItem><role id="APOLLON" sex="1" type="D" statut="dieu" age="A" stat_amour='néant'>APOLLON</role>.</castItem>
-       	<castItem><role id="MARS" sex="1" type="D" statut="dieu" age="A" stat_amour='néant'>MARS</role>.</castItem>
-       	<castItem><role id="PAN" sex="1" type="D" statut="dieu" age="A" stat_amour='néant'>PAN</role>.</castItem>
+    	<castItem><role id="DIANE" sex="2" type="D" statut="dieu" age="A" stat_amour='néant'>DIANE</role>.</castItem>
+    	<castItem><role id="PLUTON" sex="1" type="D" statut="dieu" age="A" stat_amour='néant'>PLUTON</role>.</castItem>
+    	<castItem><role id="ENDYMION" sex="1" type="H" statut="berger" age="A" stat_amour='néant'>ENDYMION</role>.</castItem>
+    	<castItem><role id="VÉNUS" sex="2" type="D" statut="dieu" age="A" stat_amour='néant'>VÉNUS</role>.</castItem>
+    	<castItem><role id="MELPOMÈNE" sex="2" type="D" statut="muse" age="A" stat_amour='néant'>MELPOMÈNE</role>.</castItem>
+    	<castItem><role id="HÉBÉ" sex="2" type="D" statut="dieu" age="A" stat_amour='néant'>HÉBÉ</role>.</castItem>
+    	<castItem><role id="BACCHUS" sex="1" type="D" statut="dieu" age="A" stat_amour='néant'>BACCHUS</role>.</castItem>
+    	<castItem><role id="APOLLON" sex="1" type="D" statut="dieu" age="A" stat_amour='néant'>APOLLON</role>.</castItem>
+    	<castItem><role id="MARS" sex="1" type="D" statut="dieu" age="A" stat_amour='néant'>MARS</role>.</castItem>
+    	<castItem><role id="PAN" sex="1" type="D" statut="dieu" age="A" stat_amour='néant'>PAN</role>.</castItem>
 </castList>
 <set location='Mont Latmos' country='Grèce' periode='Temps mythologiques' link=''>Le théâtre représente le mont Latmos couvert de bois avec une caverne au fond.</set>
 </front>
@@ -750,7 +750,7 @@
 	<s id='1'>Vous avez une fureur de politesse qui assomme ! </s>
 	<s id='2'>On ne saurait sortir de chez vous que vous ne fassiez atteler votre char et que vous ne vous campiez vous-même dedans pour ramener...</s>
 </p>
-<stage type="mezzo voce">Bas.</stage>
+<stage type="low">Bas.</stage>
 <p id='7'>
 	<s id='1'>des gens qui ne vous tiennent pas grand compte de vos honnêtetés.</s>
 </p>
@@ -762,9 +762,9 @@
 	<l id='224'>Je vois fort bien que Pluton vous ennuie.</l>
 </sp>
 <sp who='DIANE'><speaker>DIANE.</speaker>
-	<l id='225' part='i'>Oui comme amant</l>
-	<l id='225' part='m'>Mais</l>
-	<l id='225' part='f'>Je respecte le dieu.</l>
+	<l id='225' part="i">Oui comme amant</l>
+	<l id='225' part="m">Mais</l>
+	<l id='225' part="f">Je respecte le dieu.</l>
 <stage type="aparte">À part</stage>
 	<l id='226'>Toure lon ton ton tontaine la tontaine</l>
 	<l id='227'>Toure lon ton ton tontaine la tonton</l>
@@ -840,20 +840,20 @@
 <stage type="music">Air : Pierre Bagnolet</stage>
 	<l id='256'>Quel est ce feu qui vous anime ?</l>
 	<l id='257'>Il ne paraît pas fort pressant.</l>
-	<l id='258' part='i'>Parlez.</l>
+	<l id='258' part="i">Parlez.</l>
 </sp>
 <sp who='ENDYMION'><speaker>ENDYMION.</speaker>
-	<l id='258' part='f'>Vous m'ordonnez un crime.</l>
+	<l id='258' part="f">Vous m'ordonnez un crime.</l>
 </sp>
 <sp who='DIANE'><speaker>DIANE, à part, haussant les épaules.</speaker>
 	<l id='259'>Il veut toujours être innocent !</l>
 	<l id='260'>Quel innocent !</l>
 	<l id='261'>Pauvre innocent !</l>
 <stage type="forte">Haut.</stage>
-	<l id='262' part='i'>Parlez.</l>
+	<l id='262' part="i">Parlez.</l>
 </sp>
 <sp who='ENDYMION'><speaker>ENDYMION.</speaker>
-	<l id='262' part='f'>Vous m'ordonnez un crime ?</l>
+	<l id='262' part="f">Vous m'ordonnez un crime ?</l>
 </sp>
 <sp who='DIANE'><speaker>DIANE.</speaker>
 	<l id='263'>La peste crève l'innocent.</l>
@@ -926,15 +926,15 @@
 <p id='7'>
 	<s id='1'>Comment nommez-vous ce fortuné là ?</s>
 </p>
-	<l id='295' part='i'>Eh bien ?</l>
+	<l id='295' part="i">Eh bien ?</l>
 </sp>
 <sp who='DIANE'><speaker>DIANE.</speaker>
-	<l id='295' part='f'>Faut-il vous le redire ?</l>
+	<l id='295' part="f">Faut-il vous le redire ?</l>
 </sp>
 <sp who='ENDYMION'><speaker>ENDYMION.</speaker>
-	<l id='296' part='i'>Vous ne l'avez pas encore dit.</l>
+	<l id='296' part="i">Vous ne l'avez pas encore dit.</l>
 <stage type="music">Air : Lampons.</stage>
-	<l id='296' part='f'>Parlez donc plus clairement.</l>
+	<l id='296' part="f">Parlez donc plus clairement.</l>
 	<l id='297'>Parlez donc plus clairement.</l>
 </sp>
 <sp who='DIANE'><speaker>DIANE.</speaker>
@@ -1028,8 +1028,8 @@
 </p>
 </sp>
 <sp who='LE CHOEUR'><speaker>CHOEUR DES DIEUX, qui arrivent formant un branle avec Pluton qu'ils entraînent malgré lui, ils environnent Diane et Endymion en chantant.</speaker>
-	<l id='337' part='i'>Endymion.</l>
-	<l id='337' part='f'>Songez-y donc</l>
+	<l id='337' part="i">Endymion.</l>
+	<l id='337' part="f">Songez-y donc</l>
 	<l id='338'>Est-ce que cela se demande ?</l>
 <stage type="[N/A]">Pluton se débarrasse des dieux qui l'arrêtaient. Diane et Endymion entourés tâchent de s'échapper.</stage>
 </sp>
@@ -1148,10 +1148,10 @@
 <sp who='DIANE'><speaker>DIANE, tiraillant Endymion.</speaker>
 <stage type="music">Air : Bonsoir la compagnie.</stage>
 	<l id='361'>Remuez-vous, Endymion ?</l>
-	<l id='362' part='i'>La...</l>
+	<l id='362' part="i">La...</l>
 </sp>
 <sp who='ENDYMION'><speaker>ENDYMION, baillant.</speaker>
-	<l id='362' part='f'>C'en est fait ma mie !</l>
+	<l id='362' part="f">C'en est fait ma mie !</l>
 </sp>
 <sp who='DIANE'><speaker>DIANE.</speaker>
 	<l id='363'>Juste ciel !</l>

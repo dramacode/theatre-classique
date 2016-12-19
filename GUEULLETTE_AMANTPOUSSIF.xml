@@ -53,7 +53,7 @@
 	<set location='Paris' country='France' periode='XVIIIème' link=''>.</set>
 </front>
 <body>
-<div1 type='' n='1'><head></head>
+<div1 type='act' n='1'><head></head>
 <div2 type="scene" n='1'><head>SCÈNE I. Cassandre, Gilles.</head>
 <sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
 <p id='1'>
@@ -131,7 +131,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II.</head>
-<sp who='ISABELLE'><speaker>ISABELLE, seule.</speaker>
+<sp stage="alone" who='ISABELLE'><speaker>ISABELLE, seule.</speaker>
 <p id='1'>
 	<s id='1'>Ô Ciel ! </s>
 	<s id='2'>Prend pitié de mon amour et de ma tendresse.... </s>
@@ -164,7 +164,7 @@
 	<s id='3'>Que je sois plutôt écartelé sous la foudre. </s>
 	<s id='4'>Vous serez ma Persée, et je serai l'Andromaque qui vous délivrera des bras de ce monstre, fut-il plus fort qu'un Caton ; je lui plongerai mille et mille fois mon épée au travers du corps, eût-il autant de bras que Brioché... </s>
 </p>
-<stage type="[N/A]">Il se mouche.</stage>
+<stage type="blow">Il se mouche.</stage>
 <p id='4'>
 	<s id='1'>Je m'en vengerai où il me sera l'impossible. </s>
 	<s id='2'>À quelle extrémité me réduis-tu vieux Cassandre ! </s>
@@ -295,17 +295,17 @@
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE V. Gilles, Cassandre.</head>
-<sp who='GILLES'><speaker>GILLES, aparté, feignant de ne pas voir Cassandre.</speaker>
+<sp stage="aparte" who='GILLES'><speaker>GILLES, aparté, feignant de ne pas voir Cassandre.</speaker>
 <p id='1'>
 	<s id='1'>Il vaudrait mieux pour mon pauvre maître, qu'il eut la fièvre, la teigne, les médecins et la grosse rougeole, que de donner sa fille Isabelle à un homme qui ne respire que par ricochet.</s>
 </p>
 </sp>
-<sp who='CASSANDRE'><speaker>CASSANDRE, aparté.</speaker>
+<sp stage="aparte" who='CASSANDRE'><speaker>CASSANDRE, aparté.</speaker>
 <p id='2'>
 	<s id='1'>Que veut dire cet animal-là ?</s>
 </p>
 </sp>
-<sp who='GILLES'><speaker>GILLES, aparté.</speaker>
+<sp stage="aparte" who='GILLES'><speaker>GILLES, aparté.</speaker>
 <note type="L">Caïphe : grand prêtre des juifs, de la secte des saducéens, fit condamner Jésus à mort, fit arrêter les apôtres et fouetter Saint-Pierre et Saint-Jean qui prêchaient la résurrection de leur maître. [B]</note>
 <p id='3'>
 	<s id='1'>Hélas ! </s>
@@ -319,20 +319,20 @@
 	<s id='3'>En voici bien d'un autre.</s>
 </p>
 </sp>
-<sp who='GILLES'><speaker>GILLES, aparté.</speaker>
+<sp stage="aparte" who='GILLES'><speaker>GILLES, aparté.</speaker>
 <note type="L">Ravaudeuse : Qui raccoutre, qui raccommode les bas. [F]</note>
 <p id='5'>
 	<s id='1'>Il ne sait pas que sa tante Magdelaine Pelé, ravaudeuse suivant la Cour, a fait une course le dos tout nu en grande compagnie.</s>
 </p>
 </sp>
-<sp who='CASSANDRE'><speaker>CASSANDRE, aparté.</speaker>
+<sp stage="aparte" who='CASSANDRE'><speaker>CASSANDRE, aparté.</speaker>
 <p id='6'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Ah ! </s>
 	<s id='3'>Ce n'est donc pas sans sujet que mon compère presse si fort le mariage de son fils !</s>
 </p>
 </sp>
-<sp who='GILLES'><speaker>GILLES, apercevant Cassandre.</speaker>
+<sp stage="watch" who='GILLES'><speaker>GILLES, apercevant Cassandre.</speaker>
 <p id='7'>
 	<s id='1'>Allons, Monsieur, de la joie : Monsieur Cupoil est arrivé.</s>
 </p>
@@ -386,11 +386,11 @@
 </sp>
 </div2>
 <div2 type="scene" n='8'><head>SCÈNE VIII. Léandre, Gilles, Cassandre, Isabelle.</head>
-<sp who='LÉANDRE'><speaker>LÉANDRE, aparté.</speaker>
+<sp stage="aparte" who='LÉANDRE'><speaker>LÉANDRE, aparté.</speaker>
 <p id='1'>
 	<s id='1'>Je vais passer aux yeux du bon homme Cassandre pour mon rival, à celle fin de le dégoûter de ce mariage. </s>
 </p>
-<stage type="forte">Haut à Gilles.</stage>
+<stage type="loud/toward">Haut à Gilles.</stage>
 <p id="2">
 	<s id='1'>Monsieur Cassandre, il est vrai de dire que je serais mouillé et crotté jusqu'au croupion, pour avoir l'avantage de profiter de paraître plutôt en votre présence, et saluer les appas de Mam'selle.</s>
 </p>
@@ -479,10 +479,10 @@
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 <p id='18'>
-	<s id='1'>Celle-là est de la supérieure, j'aime mieux celle de soeur Cunégonde.</s>
+	<s id='1'>Celle-là est de la supérieure, j'aime mieux celle de soeur Cunégonde.</s>
 </p>
 <stage type="sing">Elle chante.</stage>
-	<l id='3'>C'est la fille d'un prince, et la soeur d'un duc,</l>
+	<l id='3'>C'est la fille d'un prince, et la soeur d'un duc,</l>
 	<l id='4'>Le soir elle est pucelle, le matin ne l'est plus,</l>
 	<l id='5'>Sol, la, sol, sol, la, dé, ré, mi, ré, ut.</l>
 </sp>
@@ -553,7 +553,7 @@
 	<s id='1'>Ma foi, Monsieur, vous direz tout ce qu'il vous plaira, mais je ne crois pas que vous mourriez jamais en odeur de sainteté.</s>
 </p>
 </sp>
-<sp who='LÉANDRE'><speaker>LÉANDRE, donnant un soufflet à Cassandre.</speaker>
+<sp stage="fight" who='LÉANDRE'><speaker>LÉANDRE, donnant un soufflet à Cassandre.</speaker>
 <p id='31'>
 	<s id=''>Taisez-vous, maître sot.</s>
 </p>
@@ -613,11 +613,11 @@
 <p id='42'>
 	<s id='1'>Parlasembleu, je veux tirer le boyau de ce maudit vieillard, tordre le cou à ce faquin de parrain, et fendre en deux cette insolente Isabelle.</s>
 </p>
-<stage type="[N/A]">Cassandre et Gilles s'enfuient.</stage>
+<stage type="exit">Cassandre et Gilles s'enfuient.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='9'><head>SCÈNE IX. Léandre, Isabelle.</head>
-<sp who='LÉANDRE'><speaker>LÉANDRE, continuant et se jetant aux genoux d'Isabelle en ôtant son nez postiche.</speaker>
+<sp stage="kneel/costume" who='LÉANDRE'><speaker>LÉANDRE, continuant et se jetant aux genoux d'Isabelle en ôtant son nez postiche.</speaker>
 <p id='1'>
 	<s id='1'>Que j'aime, et que j'aimerai toute ma vie.</s>
 </p>
@@ -681,7 +681,7 @@
 	<s id='2'>Que vous disait cet insolent ?</s>
 </p>
 </sp>
-<sp who='ISABELLE'><speaker>ISABELLE, riant et éclatant.</speaker>
+<sp stage="laugh" who='ISABELLE'><speaker>ISABELLE, riant et éclatant.</speaker>
 <p id='2'>
 	<s id='1'>Mon père... </s>
 	<s id='2'>Mon cher père... </s>
@@ -841,7 +841,7 @@
 	<s id='2'>Monsieur, cela est morguenne véritable et indubitable.</s>
 </p>
 </sp>
-<sp who='LÉANDRE'><speaker>LÉANDRE, se panadant.</speaker>
+<sp stage="walk" who='LÉANDRE'><speaker>LÉANDRE, se panadant.</speaker>
 <p id='19'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Monsieur... </s>
@@ -894,7 +894,7 @@
 	<s id='1'>C'est moi, Monsieur, je suis toute prête.</s>
 </p>
 </sp>
-<sp who='GILLES'><speaker>GILLES, contrefaisant Isabelle.</speaker>
+<sp stage="imitate" who='GILLES'><speaker>GILLES, contrefaisant Isabelle.</speaker>
 <p id='3'>
 	<s id='1'>Me voilà aussi, Monsieur.</s>
 </p>
@@ -910,7 +910,7 @@
 	<s id='1'>Allons, Monsieur, vous n'avez tant seulement que les noms à remplir ; lisez-nous le contrat.</s>
 </p>
 </sp>
-<sp who='LE NOTAIRE'><speaker>LE NOTAIRE, lisant.</speaker>
+<sp stage="read" who='LE NOTAIRE'><speaker>LE NOTAIRE, lisant.</speaker>
 <p id='6'>
 	<s id='1'>« Pardevant les conseillers, notaires garde-mottes et garde-selles et garde-robes du Châtelet de Paris ; furent absents en leurs personnes Christophe Joachim de Léandre, soit disant mineur, demeurant rue des Foureurs, paroisse Saint Germain-l'Auxerrois, d'autre part : et Blaise Cassandre, bourgeois de Paris, et sergent du Guet à pied, stipulant pour Cunégonde Isabelle, sa vraie fille, de son consentement demeurante avec lui rue Trousse-vache, à la Corne de cerf, paroisse Saint Jean-le-rond, d'une part.</s>
 </p>
@@ -947,7 +947,7 @@
 <note type="L">Urinal : Vaisseau propre à recevoir des urines, et dont on se sert ordinairement pour le commodité des malades. [F]</note>
 	<l id='16'>Un urinal de fer blanc,</l>
 	<l id='17'>Six manches de couteau.»</l>
-<stage type="[N/A]">Léandre et Isabelle font des remerciements à Cassandre pendant qu'on lit les articles.</stage>
+<stage type="wave/read">Léandre et Isabelle font des remerciements à Cassandre pendant qu'on lit les articles.</stage>
 </sp>
 <sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
 <p id='7'>
@@ -995,7 +995,7 @@
 <p id='14'>
 	<s id='1'>Cela sera comme ça, Mam'selle.</s>
 </p>
-<stage type="[N/A]">Le notaire signe.</stage>
+<stage type="sign">Le notaire signe.</stage>
 </sp>
 </div2>
 </div1>

@@ -8,9 +8,9 @@
 			
 		</titleStmt>
 		<publicationStmt>	
-			<p>publié par Paul FIEVRE, septembre 2014</p>
-		<idno></idno>
-</publicationStmt>
+			<publisher>publié par Paul FIEVRE, septembre 2014</publisher>
+			<idno>BEAUNOIR_CACOPHONIE</idno>
+		</publicationStmt>
 		<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -19,10 +19,6 @@
 				<periode>1771-1780</periode>
 				<taille>(mesure non pertinente)</taille>
 				<permalien></permalien>
-				<sources>
-					<source id='1'></source>
-				</sources>	
-
 		</SourceDesc>
 	</fileDesc>
 	</teiHeader>
@@ -51,10 +47,10 @@
 			<castItem><role id="LUCETTE" sex="1" type="H" statut='bourgeois' age='J' stat_amour='néant'>LUCETTE</role>, sa Fille.</castItem>
 			<castItem><role id="VUIDE-GOUSSET" sex="1" type="H" statut='procureur' age='A' stat_amour='néant'>VUIDE-GOUSSET</role>, Procureur, rival de Vincent. </castItem>
 			<castItem><role id="VINCENT" sex="1" type="H" statut='couvreur' age='J' stat_amour='néant'>VINCENT</role>, Couvreur, Amant de Lucette.</castItem>
-			<castItem><role id="BROUTILLARD" sex="1" type="H" statut='clers' age='A' stat_amour='néant'>BROUTILLARD</role>,  Clerc de M. Vuide-Gousset.</castItem>
+			<castItem><role id="BROUTILLARD" sex="1" type="H" statut='clers' age='A' stat_amour='néant'>BROUTILLARD</role>, Clerc de M. Vuide-Gousset.</castItem>
 			<castItem><role id="GILLES" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>GILLES</role>.</castItem>
 			<castItem><role id="MONSIEUR PREND-TOUT" sex="1" type="H" statut='procureur' age='A' stat_amour='néant'>MONSIEUR PREND-TOUT</role>, autre Procureur. Dans le Parquet.</castItem>
-			<castItem><role id="UN MEUNIER" sex="1" type="H" statut='meunier' age='A' stat_amour='néant'>UN MEUNIER</role>. Aux secondes  Loges à droite.</castItem>
+			<castItem><role id="UN MEUNIER" sex="1" type="H" statut='meunier' age='A' stat_amour='néant'>UN MEUNIER</role>. Aux secondes Loges à droite.</castItem>
 			<castItem><role id="MADAME CARPILLON" sex="2" type="H" statut='commerçant' age='A' stat_amour='néant'>MADAME CARPILLON</role>, Poissarde. Aux secondes Loges à gauche.</castItem>
 		</castList>
 		<set location='Paris' country='France' periode='XVIIIème' link=''></set>
@@ -63,7 +59,7 @@
 <body>
 <div1 type="act" n='1'><head></head>
 <div2 type="scene" n='1'><head>SCÈNE PREMIERE. SILVESTRE, CLAUDINE, LUCETTE.</head>
-<sp who='SILVESTRE'><speaker>SILVESTRE, entrant.</speaker>
+<sp stage="entrance" who='SILVESTRE'><speaker>SILVESTRE, entrant.</speaker>
 <p id='1'>
 	<s id='1'>Je ne demanderais pas mieux que je fussions tous d'accord, si cela le pouvait; mais j'en sommes palsangué bian éloignés.</s>
 </p>
@@ -209,7 +205,7 @@
 	<s id='4'>Eh bian ! </s>
 	<s id='5'>Puisque tu veux nous contrarier tous deux, tu en seras la dupe. </s>
 	<s id=''>Et si mon mari ne veut pas prendre mon parti, je prendrons le sien, nous, et tu seras procureuse, là.</s>
-</p>  
+</p> 
 </sp>
 <sp who='SILVESTRE'><speaker>SILVESTRE.</speaker>
 <p id='24'>
@@ -245,9 +241,9 @@
 <sp who='SILVESTRE'><speaker>SILVESTRE.</speaker>
 <note type="L">Grison : On appelle un cheval grison, lorsqu'il est gris : et un âne s'appelle absolument un grison, parce qu'il est ordinairement gris. [F] </note>
 <p id='28'>
-	<s id='1'>D'accord ; mais il envoye son bled moudre à mon moulin.... </s>
+	<s id='1'>D'accord ; mais il envoie son bled moudre à mon moulin.... </s>
 	<s id='2'>Chacun fait son métier ; suffit que je n'en suis pas la dupe. </s>
-	<s id='3'>Tiens, dans ce moment même que mon grison viant de mourir, il m'en faut un autre pour porter mes moutures, je n'ai pas le	sou. </s>
+	<s id='3'>Tiens, dans ce moment même que mon grison vient de mourir, il m'en faut un autre pour porter mes moutures, je n'ai pas le	sou. </s>
 	<s id='4'>Qu'est-ce que je ferais sans lui... </s>
 	<s id='5'>Laisse-moi; tranquille. </s>
 	<s id='6'>Chacun sait ses affaires ; je vais lui parler tout-à-l'heure.</s>
@@ -268,7 +264,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III.</head>
-<sp who='LUCETTE'><speaker>LUCETTE, seule.</speaker>
+<sp stage="alone" who='LUCETTE'><speaker>LUCETTE, seule.</speaker>
 <p id='1'>
 	<s id='1'>Heureusement que mon père et ma mère ne sont pas d'accord. </s>
 	<s id='1'>Cela pourra donner le temps à Vincent de se retourner. </s>
@@ -395,7 +391,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V.</head>
-<sp who='LUCETTE'><speaker>LUCETTE, seule.</speaker>
+<sp stage="alone" who='LUCETTE'><speaker>LUCETTE, seule.</speaker>
 <p id='1'>
 	<s id='1'>Voilà mon père avec son procureur. </s>
 	<s id='2'>Allons-nous-en.</s>
@@ -420,7 +416,7 @@
 	<s id='2'>Lucette, viens ici, Lucette... </s>
 	<s id='3'>Fais donc la révérence à Monsieur Vuide-Gousset. </s>
 </p>
-<stage type="[N/A]">Elle fait une très petite révérence.</stage>
+<stage type="wave">Elle fait une très petite révérence.</stage>
 <p id='4'>
 	<s id='1'>Est-ce comme ça ? </s>
 	<s id='2'>Tout bas donc pour Monsieur le Procureux, jarnigoi !</s>
@@ -432,7 +428,7 @@
 	<s id='2'>Bonjour, ma petite Lucette.</s>
 </p>
 </sp>
-<sp who='LUCETTE'><speaker>LUCETTE, à part.</speaker>
+<sp stage="aparte" who='LUCETTE'><speaker>LUCETTE, à part.</speaker>
 <p id='6'>
 	<s id='1'>Sa petite Lucette... </s>
 	<s id='2'>Bonjour, Monsieur.</s>
@@ -526,7 +522,7 @@
 	<s id='3'>Lucette ; va-t-en.</s>
 </p>
 </sp>
-<sp who='LUCETTE'><speaker>LUCETTE, en s'en allant.</speaker>
+<sp stage="exit" who='LUCETTE'><speaker>LUCETTE, en s'en allant.</speaker>
 <p id='21'>
 	<s id='1'>Oh ! </s>
 	<s id='2'>Tant mieux, c'est ce que je demande.</s>
@@ -544,7 +540,7 @@
 <sp who='VUIDE-GOUSSET'><speaker>VUIDE-GOUSSET.</speaker>
 <p id='2'>
 	<s id='1'>Quand je l'aurai, j'en viendrai bien à bout. </s>
-	<s id='2'>Une jeunesse est comme une pâte encore tendre ; cela se pétrit  comme on veut ; allez, je n'en suis pas embarrassé, pourvu que vous teniez ferme.</s>
+	<s id='2'>Une jeunesse est comme une pâte encore tendre ; cela se pétrit comme on veut ; allez, je n'en suis pas embarrassé, pourvu que vous teniez ferme.</s>
 </p>
 </sp>
 <sp who='SILVESTRE'><speaker>SILVESTRE.</speaker>
@@ -584,7 +580,7 @@
 	<s id='3'>Puisque j'épouse votre fille, ce sera un présent de noce.</s>
 </p>
 </sp>
-<sp who='BROUTILLARD'><speaker>BROUTILLARD, à part.</speaker>
+<sp stage="aparte" who='BROUTILLARD'><speaker>BROUTILLARD, à part.</speaker>
 <p id='9'>
 	<s id='1'>Diable ! </s>
 	<s id='2'>Il est donc bien amoureux.</s>
@@ -692,7 +688,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='9'><head>SCÈNE IX. Vuide-Gousset, Broutillard, Vincent.</head>
-<sp who='VINCENT'><speaker>VINCENT, sur la maison.</speaker>
+<sp stage="location" who='VINCENT'><speaker>VINCENT, sur la maison.</speaker>
 <p id='1'>
 	<s id='1'>C'est le Procureur avec son clerc, ils sont seuls.... </s>
 	<s id='2'>Écoutons.</s>
@@ -903,7 +899,7 @@
 	<s id='4'>Les jambes me tremblent ; marchons comme je pourrons.</s>
 </p>
 </sp>
-<sp who='VUIDE-GOUSSET'><speaker>VUIDE-GOUSSET, à son Clerc.</speaker>
+<sp stage="toward" who='VUIDE-GOUSSET'><speaker>VUIDE-GOUSSET, à son Clerc.</speaker>
 <p id='6'>
 	<s id='1'>Il a peur de quelque chose. </s>
 	<s id='2'>L'occasion est bonne.</s>
@@ -913,7 +909,7 @@
 <p id='7'>
 	<s id='1'>On dit qu'il ne faut pas regarder derrière soi , que ça vous torderait le cou.</s>
 </p>
- <stage type="[N/A]">Vuide-gousset détache le grison, et se passe la bride au cou.</stage>
+ <stage type="open">Vuide-gousset détache le grison, et se passe la bride au cou.</stage>
 <p id='8'>
 	<s id='1'>J'ai encore bien du chemin à faire avant de sortir de-là... </s>
 	<s id='2'>Je n'entends plus rien.... </s>
@@ -921,7 +917,7 @@
 	<s id='4'>Je ne sais pas si j'aurai la force de grimper dessus. </s>
 	<s id='5'>Voilà une grosse pierre qui m'aidera.</s>
 </p>
-<stage type="[N/A]">Il se retourne et aperçoit le procureur. Il se jette en bas de frayeur.</stage>
+<stage type="turn/watch/fall/frighten">Il se retourne et aperçoit le procureur. Il se jette en bas de frayeur.</stage>
 <p id='9'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Que vois-je ? </s>
@@ -1037,7 +1033,7 @@
 <sp who='GILLES'><speaker>GILLES.</speaker>
 <p id='30'>
 	<s id='1'>Et malheureusement pour moi, votre temps vient de finir. </s>
-	<s id='2'>C'était donc pour cela que vous appeliez le diable  tout-à-l'heure ?</s>
+	<s id='2'>C'était donc pour cela que vous appeliez le diable tout-à-l'heure ?</s>
 </p>
 </sp>
 <sp who='VUIDE-GOUSSET'><speaker>VUIDE-GOUSSET.</speaker>
@@ -1045,7 +1041,7 @@
 	<s id='1'>Le diable ?... </s>
 	<s id='2'>Oui.... </s>
 	<s id='3'>Oui.... </s>
-	<s id='4'>Je sentais que mon temps  expirait, et que j'allais redevenir procureur.</s>
+	<s id='4'>Je sentais que mon temps expirait, et que j'allais redevenir procureur.</s>
 </p>
 </sp>
 <sp who='GILLES'><speaker>GILLES.</speaker>
@@ -1056,7 +1052,7 @@
 </sp>
 <sp who='VUIDE-GOUSSET'><speaker>VUIDE-GOUSSET.</speaker>
 <p id='33'>
-	<s id='1'>Je n'étais pas le maître du moment, mais j'espère que vous ne m'en voudrez pas ; vous avez l'air trop  bon-homme pour cela.</s>
+	<s id='1'>Je n'étais pas le maître du moment, mais j'espère que vous ne m'en voudrez pas ; vous avez l'air trop bon-homme pour cela.</s>
 </p>
 </sp>
 <sp who='GILLES'><speaker>GILLES.</speaker>
@@ -1068,7 +1064,7 @@
 <p id='35'>
 	<s id='1'>Si j'avais su que c'était un procureur, comme je l'aurais rossé...</s>
 </p>
-<stage type="forte">Haut.</stage>
+<stage type="loud">Haut.</stage>
 <p id='36'>
 	<s id='1'>Mais, là, dites : n'est-il pas vrai que je vous ai mené bien doucement ?</s>
 </p>
@@ -1223,7 +1219,7 @@
 	<s id='4'>Mais je n'ai plus rien à voler.</s>
 </p>
 </sp>
-<sp who='VINCENT'><speaker>VINCENT, arrivant.</speaker>
+<sp stage="entrance" who='VINCENT'><speaker>VINCENT, arrivant.</speaker>
 <p id='4'>
 	<s id='1'>Qu'avez-vous donc ?</s>
 </p>
@@ -1261,7 +1257,7 @@
 <p id='10'>
 	<s id='1'>Je vous l'expliquerai, quand j'aurai vu quelqu'un à qui j'ai affaire... </s>
 	<s id='2'>Ne vous en allez pas chez vous. </s>
-	<s id='3'>Vous ne  perdrez peut-être pas votre grison... </s>
+	<s id='3'>Vous ne perdrez peut-être pas votre grison... </s>
 	<s id='4'>Allez dans un moment m'attendre au Cheval blanc. </s>
 	<s id='5'>J'irai vous y trouver ; n'y manquez pas.</s>
 </p>
@@ -1274,14 +1270,14 @@
 	<s id='4'>Je vais y aller.</s>
 </p>
 </sp>
-<sp who='VINCENT'><speaker>VINCENT, à part, en s'en allant.</speaker>
+<sp stage="aparte/exit" who='VINCENT'><speaker>VINCENT, à part, en s'en allant.</speaker>
 <p id='12'>
 	<s id='1'>Il faut avertir Lucette de ma découverte.</s>
 </p>
 </sp>
 </div2>
 <div2 type="scene" n='12'><head>SCÈNE XII.</head>
-<sp who='GILLES'><speaker>GILLES, seul.</speaker>
+<sp stage="alone" who='GILLES'><speaker>GILLES, seul.</speaker>
 <p id='1'>
 	<s id='1'>S'il pouvait me faire rendre mon argent ; ce serait un honnête homme.</s>
 </p>
@@ -1309,7 +1305,7 @@
 	<s id='1'>Eh, parbleu! </s>
 	<s id='2'>Je regarde ton grison.... </s>
 	<s id='3'>Je ne me trompe pas.... </s>
-	<s id='4'>Adieu , mon argent ; le procureur a déjà  recommencé les fredaines. </s>
+	<s id='4'>Adieu , mon argent ; le procureur a déjà recommencé les fredaines. </s>
 	<s id='5'>C'est lui, c'est lui !</s>
 </p>
 </sp>
@@ -1480,14 +1476,14 @@
 </sp>
 </div2>
 <div2 type="scene" n='14'><head>SCÈNE XIV. Silvestre, Claudine, Lucette.</head>
-<sp who='SILVESTRE'><speaker>SILVESTRE, sans voir Claudine, ni Lucette.</speaker>
+<sp stage="watch" who='SILVESTRE'><speaker>SILVESTRE, sans voir Claudine, ni Lucette.</speaker>
 <p id='1'>
 	<s id='1'>Il y a queuque chose là-dessous que je ne comprenons pas...</s>
 </p>
-<stage type="[N/A]">Les apercevant.</stage>
+<stage type="watch">Les apercevant.</stage>
 <p id='2'>
 	<s id='1'>Ah ! </s>
-	<s id='2'>Je vois notre femme et  note fille... </s>
+	<s id='2'>Je vois notre femme et note fille... </s>
 	<s id='3'> Vous v'là toutes deux, j'en suis bien aise. </s>
 	<s id='4'>Je vais bientôt revenir avec Monsieur Vuide-gousset. </s>
 	<s id='5'>Je lui ai promis de finir nos arrangemens aujourd'hui ; attendez-moi là.</s>
@@ -1522,7 +1518,7 @@
 <p id='5'>
 	<s id='1'>Le vilain homme, qui me fait battre par mon mari ! </s>
 	<s id='2'>Ah ! </s>
-	<s id='3'>S'il devenait jamais le tien, et que tu  voulusses m'en croire, il s'en repentirait. </s>
+	<s id='3'>S'il devenait jamais le tien, et que tu voulusses m'en croire, il s'en repentirait. </s>
 	<s id='4'>Je t'en apprendrais le moyen.</s>
 </p>
 </sp>
@@ -1573,7 +1569,7 @@
 </sp>
 <sp who='VINCENT'><speaker>VINCENT.</speaker>
 <p id='7'>
-	<s id='1'>Ne t'inquiète pas ; puisque ta mère est pour nous,  j'ai bonne espérance. </s>
+	<s id='1'>Ne t'inquiète pas ; puisque ta mère est pour nous, j'ai bonne espérance. </s>
 	<s id='2'>Le Procureur a fait un tour pendable. </s>
 	<s id='3'>Il aura de la peine à s'en tirer, j'ai un homme qui le mettra au pied du mur. </s>
 	<s id='4'>Je vais te raconter cela... </s>
@@ -1668,7 +1664,7 @@
 <sp who='VINCENT'><speaker>VINCENT.</speaker>
 <p id='13'>
 	<s id='1'>Ah ! </s>
-	<s id='2'>Oui, oui ; il est vrai que je n'ai pas le secret d'avoir un âne, comme lui, à si bon marché, pour vous en faire  présent.</s>
+	<s id='2'>Oui, oui ; il est vrai que je n'ai pas le secret d'avoir un âne, comme lui, à si bon marché, pour vous en faire présent.</s>
 </p>
 </sp>
 <sp who='VUIDE-GOUSSET'><speaker>VUIDE-GOUSSET.</speaker>
@@ -1684,10 +1680,10 @@
 </sp>
 <sp who='VINCENT'><speaker>VINCENT.</speaker>
 <p id='15'>
-	<s id='1'>Que tout le monde sait que Monsieur Vuide-Gousset prend tous les moyens possibles pour ne pas vuider son  gousset, et cela ne serait pas difficile à prouver.</s>
+	<s id='1'>Que tout le monde sait que Monsieur Vuide-Gousset prend tous les moyens possibles pour ne pas vuider son gousset, et cela ne serait pas difficile à prouver.</s>
 </p>
 </sp>
-<sp who='VUIDE-GOUSSET'><speaker>VUIDE-GOUSSET, à part.</speaker>
+<sp stage="aparte" who='VUIDE-GOUSSET'><speaker>VUIDE-GOUSSET, à part.</speaker>
 <p id='16'>
 	<s id='1'>Saurait-il quelque chose ?</s>
 </p>
@@ -1728,7 +1724,7 @@
 	<s id='1'>Tenez, tenez, voilà l'homme à qui il a volé l'âne.</s>
 </p>
 </sp>
-<sp who='VUIDE-GOUSSET'><speaker>VUIDE-GOUSSET, se cachant.</speaker>
+<sp stage="hide" who='VUIDE-GOUSSET'><speaker>VUIDE-GOUSSET, se cachant.</speaker>
 <p id='2'>
 	<s id='1'>Que vois-je ?...</s>
 </p>
@@ -1739,7 +1735,7 @@
 	<s id=''>Parlez, Monsieur le Procureux ; connaissez-vous st'homme-là qui vient?</s>
 </p>
 </sp>
-<sp who='VUIDE-GOUSSET'><speaker>VUIDE-GOUSSET, à part.</speaker>
+<sp stage="aparte" who='VUIDE-GOUSSET'><speaker>VUIDE-GOUSSET, à part.</speaker>
 <p id='4'>
 	<s id='1'>Comment me tirer de-là ?</s>
 </p>
@@ -1750,8 +1746,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n='19'><head>SCÈNE XIX.  Le Procureur Prend-Tout, dans le Parquet, Madame Carpillon, dans une Loge, Un Meunier, de l'autre, les précédents.</head>
-<sp who='PREND-TOUT'><speaker>PREND-TOUT, se levant.</speaker>
+<div2 type="scene" n='19'><head>SCÈNE XIX. Le Procureur Prend-Tout, dans le Parquet, Madame Carpillon, dans une Loge, Un Meunier, de l'autre, les précédents.</head>
+<sp stage="stand" who='PREND-TOUT'><speaker>PREND-TOUT, se levant.</speaker>
 <p id='1'>
 	<s id='1'>C'est trop jouer les Procureurs, aussi. </s>
 	<s id='2'>Toujours fripons, fripons. </s>
@@ -1841,7 +1837,7 @@
 	<s id='5'>Oh! </s>
 	<s id='6'>Je vous jure que je m'en plaindrai, soyez-en sûrs.</s>
 </p>
-<stage type="[N/A]">En sortant.</stage>
+<stage type="exit">En sortant.</stage>
 <p id='13'>
 	<s id='1'>Nous verrons, nous verrons. </s>
 	<s id='2'>Cela est affreux, cela est abominable.</s>
@@ -1864,12 +1860,12 @@
 	<s id='4'>Monsieur Vuide-gousset, qu'en dites-vous ?</s>
 </p>
 </sp>
-<sp who='VUIDE-GOUSSET'><speaker>VUIDE-GOUSSET, à part.</speaker>
+<sp stage="aparte" who='VUIDE-GOUSSET'><speaker>VUIDE-GOUSSET, à part.</speaker>
 <p id='3'>
 	<s id='1'>Mais, mais, que lui dire ? </s>
 	<s id='2'>Payons d'effronterie. </s>
 </p>
-<stage type="forte">Haut.</stage>
+<stage type="loud">Haut.</stage>
 <p id='4'>
 	<s id='1'>Eh bien ! </s>
 	<s id='2'>Que l'on me fasse assigner, je répondrai. </s>
@@ -1879,7 +1875,7 @@
 	<s id='6'>Oh ! </s>
 	<s id='7'>Oh ! </s>
 	<s id='8'>Petit	drôle, tu ne sais pas ce que c'est que d'avoir affaire à un procureur ; il faut être bien hardi.</s>
-</p>  
+</p> 
 </sp>
 <sp who='VINCENT'><speaker>VINCENT.</speaker>
 <p id='5'>

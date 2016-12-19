@@ -8,18 +8,17 @@
 		</titleStmt>
 		<publicationStmt>
 			<publisher>publié par Paul FIEVRE novembre 2013</publisher>
-		<idno></idno>
-</publicationStmt>
+			<idno>GUEULLETTE_MARCHANDDEMERDE</idno>
+		</publicationStmt>
 		<SourceDesc>
 			<genre>Parade</genre>
 			<inspiration>moeurs françaises</inspiration>
 			<structure>Un acte</structure>
 			<type>prose</type>
-			<periode>1711-1720</periode>
+			<periode>1751-1760</periode>
 			<taille>(mesure non pertinente)</taille>
-			<permalien></permalien>
+			<permalien>http://gallica.bnf.fr/ark:/12148/bpt6k5713311q</permalien>
 		</SourceDesc>
-		<edStmt></edStmt>
 </fileDesc>
 </teiHeader>
 <text>
@@ -32,11 +31,7 @@
 	<docDate value='1720'>M. DCC. XX.</docDate>
 	<docAuthor id='GUEULLETTE, Thomas-Simon' bio='gueullette'>par M. GUEULLETTE</docAuthor>
 	<docImprint>
-		<approbation value=''></approbation>
-			<privilege value=''><head></head>
-			</privilege>
-			<acheveImprime value=''></acheveImprime>
-			<printer id=''>.</printer>
+			<printer id="">À MAHON, De l'imprimerie de GILLES LANGLOIS à l'enseigne de l'Étrille.</printer>
 	</docImprint>
 	<performance>
 		<premiere date='1720' location='En société'>Représentée pour la première fois en société en 1720.</premiere>
@@ -46,9 +41,10 @@
 		<castItem><role id="ARLEQUIN" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>ARLEQUIN</role>.</castItem>
 		<castItem><role id="GILLES" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>GILLES</role>.</castItem>
 		<castItem><role id="CATIN" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>CATIN</role>.</castItem>
-		<castItem><role id="L'APOTHICAIRE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>L'APOTHICAIRE</role>.</castItem>
+		<castItem><role id="L'APOTHICAIRE" sex="1" type="H" statut='apothicaire' age='A' stat_amour='néant'>L'APOTHICAIRE</role>.</castItem>
 	</castList>
-	<set location='Paris' country='France' periode='XVIIIème' link=''>.</set>
+	<set location='Paris' country='France' periode='XVIIIème' link=''></set>
+	<note>Tiré de "Théâtre des Boulevards ou Recueil des parades. Tome premier" pp 239-260</note>
 </front>
 <body>
 <div1 type='' n='1'><head></head>
@@ -342,7 +338,7 @@
 	<s id='1'>Pardienne, elle a raison : il faut que je cherche à faire queuque chose. </s>
 	<s id='2'>Voyons :</s>
 </p>
-<stage type="[N/A]">Il sait une énumération de tous les métiers.</stage>
+<stage type="count">Il fait une énumération de tous les métiers.</stage>
 <p id='2'>
 	<s id='1'>Si j'avais des rentes je n'aurais pas tant de peine à trouver un métier. Allons, il faut que j'en cherche, j'épouserai Catin, j'aurai bien des petits enfants ; toutes les filles seront Catins, et tous les garçons seront Gilles. </s>
 	<s id='2'>Pardienne, j'aurai bien de la famille.</s>
@@ -530,7 +526,7 @@
 	<s id='1'>Monsieur, Monsieur, on ne traite point un honnête marchand comme vous faites.</s>
 </p>
 </sp>
-<sp who="L'APOTHICAIRE"><speaker>L'APOTHICAIRE lui donnant un soufflet.</speaker>
+<sp stage="fight" who="L'APOTHICAIRE"><speaker>L'APOTHICAIRE, lui donnant un soufflet.</speaker>
 <p id='6'>
 	<s id='1'>Un Marchand de mon cul.</s>
 </p>
@@ -541,7 +537,7 @@
 	<s id='2'>Mais goûtez avant que de mépriser la marchandise, vous verrez qu'elle vaut mieux que celle de tantôt.</s>
 </p>
 </sp>
-<sp who="L'APOTHICAIRE"><speaker>L'APOTHICAIRE prenant un bâton.</speaker>
+<sp stage="fight" who="L'APOTHICAIRE"><speaker>L'APOTHICAIRE, prenant un bâton.</speaker>
 <p id='8'>
 	<s id='1'>Ce coquin ci payera pour l'autre.</s>
 </p>
@@ -552,7 +548,7 @@
 	<s id='2'>Hé bien je vous donnerai celui-ci qui est trois fois plus gros pour dix écus, comptez que c'est une trouvaille.</s>
 </p>
 </sp>
-<sp who="L'APOTHICAIRE"><speaker>L'APOTHICAIRE, le battant et lui cassant le tonneau sur le corps.</speaker>
+<sp stage="fight" who="L'APOTHICAIRE"><speaker>L'APOTHICAIRE, le battant et lui cassant le tonneau sur le corps.</speaker>
 <p id='10'>
 	<s id='1'>Tiens Marchand de Merde, garde ta marchandise pour toi et t'en va.</s>
 </p>
@@ -593,7 +589,7 @@
 </sp>
 <sp who='GILLES'><speaker>GILLES.</speaker>
 <p id='6'>
-	<s id='1'>Non vraimentÂ» je vous assure, la marchandise était bonne, sentez plutôt, vous devez vous y connaître. </s>
+	<s id='1'>Non vraiment, je vous assure, la marchandise était bonne, sentez plutôt, vous devez vous y connaître. </s>
 	<s id='2'>Ce vilain apothicaire de mon cul, n'a seulement pas voulu la goûter.</s>
 </p>
 </sp>

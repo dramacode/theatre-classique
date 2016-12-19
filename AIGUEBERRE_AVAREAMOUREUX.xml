@@ -8,8 +8,8 @@
 		</titleStmt>
 		<publicationStmt>
 			<p>publié par Paul FIEVRE juillet 2014, revu février 2015</p>
-		<idno></idno>
-</publicationStmt>
+			<idno>AIGUEBERRE_AVAREAMOUREUX</idno>
+		</publicationStmt>
 		<SourceDesc>
 			<genre>Comédie</genre>
 			<inspiration>moeurs françaises</inspiration>
@@ -17,7 +17,7 @@
 			<type>prose</type>
 			<periode>1781-1790</periode>
 			<taille>(mesure non pertinente)</taille>
-			<permalien></permalien>
+			<permalien>http://gallica.bnf.fr/ark:/12148/bpt6k58182419</permalien>
 		</SourceDesc>
 		<edStmt></edStmt>
 </fileDesc>
@@ -31,12 +31,12 @@
 			
 		</docTitle> 
 		<docDate value='1781'>M. DCC. LXXXI. AVEC APPROBATION ET PERMISSION.</docDate>
-		<docAuthor id="AIGUEBERRE, Jean Dumas d'" bio='aigueberre'>Par M. d'AIGUEBERRE, conseiller au Parlement de Toulouse.</docAuthor>
+		<docAuthor id="AIGUEBERRE, Jean Dumas d'" bio='aigueberre'>Par MONSIEUR d'AIGUEBERT.</docAuthor>
 		<docImprint>
 			<approbation><head>APPROBATION.</head>
 				<p>Permis d'imprimer de 15 mars 1781 ; LARTIGUE, Juge-****.</p>
 			</approbation>
-			<printer id='TABARIE'>À TOULOUSE, Chez BROULHIET, Libraiire, acquéreur de fond de M. Baour, rue St. Rome, faisant coin de la rue Dunai.</printer>
+			<printer id='TABARIE'>À TOULOUSE, Chez BROULHIET, Libraire, acquéreur de fond de M. Baour, rue St. Rome, faisant coin de la rue Dunai.</printer>
 		</docImprint>
 		<performance>
 			<premiere date='(non représentée)' location='(non représentée)'></premiere>
@@ -50,7 +50,7 @@
 		<castItem><role id="NÉRINE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>NÉRINE</role>, suivante de Julie.</castItem>
 		<castItem><role id="MONSIEUR SUBTIL" sex="1" type="H" statut='notaire' age='A' stat_amour='néant'>MONSIEUR SUBTIL</role>, notaire.</castItem>
 		<castItem><role id="MONSIEUR COURTELIGNE" sex="1" type="H" statut='notaire' age='A' stat_amour='néant'>MONSIEUR COURTELIGNE</role>, notaire.</castItem>
-    </castList>
+  </castList>
 <set location='Campagne' country='France' periode='XVIIIème' link=''>La Scène est à la Maison de Campagne de...</set>
 </front>
 <body>
@@ -291,18 +291,18 @@
 	<s id='1'>Ah Julie !</s>
 </p>
 </sp>
-<sp who='NÉRINE'><speaker>NÉRINE, le contrefaisant.</speaker>
+<sp stage="imitate" who='NÉRINE'><speaker>NÉRINE, le contrefaisant.</speaker>
 <p id='13'>
 	<s id='1'>Ah Monsieur ! </s>
 	<s id='2'>Retirez-vous, vous dis-je ; votre rival approche.</s>
 </p>
 </sp>
-<sp who='VALÈRE'><speaker>VALÈRE, à Julie, en s'en allant.</speaker>
+<sp stage="toward/exit" who='VALÈRE'><speaker>VALÈRE, à Julie, en s'en allant.</speaker>
 <p id='14'>
 	<s id='1'>Il faut donc vous quitter.</s>
 </p>
 </sp>
-<sp who='NÉRINE'><speaker>NÉRINE, à Julie.</speaker>
+<sp stage="toward" who='NÉRINE'><speaker>NÉRINE, à Julie.</speaker>
 <p id='15'>
 	<s id='1'>Rentrez donc vite. </s>
 	<s id='2'>Je l'entends qui grogne tout seul. </s>
@@ -356,7 +356,7 @@
 	<s id='4'>Elle a pour moi une estime toute particulière : je l'épouserai, Monsieur Géronte, je l'épouserai.</s>
 </p>
 </sp>
-<sp who='NÉRINE'><speaker>NÉRINE, le contrefaisant.</speaker>
+<sp stage="imitate" who='NÉRINE'><speaker>NÉRINE, le contrefaisant.</speaker>
 <p id='8'>
 	<s id='1'>Vous n'en ferez rien, Monsieur Argante, vous n'en ferez rien.</s>
 </p>
@@ -386,11 +386,11 @@
 	<s id='1'>Eh bien, voilà ce que tu ne verras plus ; et pour t'en mieux convaincre, je vais tout de ce pas entrer chez Dorimène, pour lui en faire la proposition.</s>
 </p>
 </sp>
-<sp who='NÉRINE'><speaker>NÉRINE, à part.</speaker>
+<sp stage="aparte" who='NÉRINE'><speaker>NÉRINE, à part.</speaker>
 <p id='14'>
 	<s id='1'>Et nous allons porter à Julie cette agréable nouvelle. </s>
 </p>
-<stage type="[N/A]">Elle voit Monsieur Argante prêt a entrer chez Julie, et le pousse vers l'appartement de Doriméne.</stage>
+<stage type="action/push">Elle voit Monsieur Argante prêt a entrer chez Julie, et le pousse vers l'appartement de Dorimène.</stage>
 <p id='15'>
 	<s id='1'>Eh, Monsieur vous n'y songez pas. </s>
 	<s id='2'>C'est ici l'appartement de Julie, voilà celui de Dorimène.</s>
@@ -401,12 +401,12 @@
 	<s id='1'>Je suis si troublé de colère contre Monsieur Géronte, que je ne sais ce que je fais.</s>
 </p>
 </sp>
-<sp who='NÉRINE'><speaker>NÉRINE, à part.</speaker>
+<sp stage="aparte" who='NÉRINE'><speaker>NÉRINE, à part.</speaker>
 <p id='17'>
 	<s id='1'>Il faut le voir entrer.</s>
 </p>
 </sp>
-<sp who='ARGANTE'><speaker>ARGANTE, revenant sur ses pas.</speaker>
+<sp stage="back" who='ARGANTE'><speaker>ARGANTE, revenant sur ses pas.</speaker>
 <p id='18'>
 	<s id='1'>Comment penses-tu que la petite Julie prendra la chose ?</s>
 </p>
@@ -428,7 +428,7 @@
 <p id='21'>
 	<s id='1'>Commencez par épouser Doriméne : et puis vous vous informerez de toutes ces bagatelles. </s>
 </p>
-<stage type="[N/A]">Elle le pousse dans la chambre de Doriméne. </stage>
+<stage type="action/push">Elle le pousse dans la chambre de Doriméne. </stage>
 <p id='22'>
 	<s id='1'>Allons, Monsieur entrez. </s>
 	<s id='2'>Que j'aie la satisfaction de vous voir faire dans la vie une action de vigueur.</s>
@@ -474,7 +474,7 @@
 	<s id='1'>Si je la voyais auparavant.</s>
 </p>
 </sp>
-<sp who='NÉRINE'><speaker>NÉRINE, à part.</speaker>
+<sp stage="aparte" who='NÉRINE'><speaker>NÉRINE, à part.</speaker>
 <p id='30'>
 	<s id='1'>Nous voilà bien avancés</s>
 </p>
@@ -514,7 +514,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII. Argante, Julie, Nérine.</head>
-<sp who='NÉRINE'><speaker>NÉRINE, à Julie.</speaker>
+<sp stage="toward" who='NÉRINE'><speaker>NÉRINE, à Julie.</speaker>
 <p id='1'>
 	<s id='1'>Jouez bien.</s>
 </p>
@@ -524,7 +524,7 @@
 	<s id='1'>Laisse-moi faire.</s>
 </p>
 </sp>
-<sp who='ARGANTE'><speaker>ARGANTE, regardant Julie.</speaker>
+<sp stage="watch" who='ARGANTE'><speaker>ARGANTE, regardant Julie.</speaker>
 <p id='3'>
 	<s id='1'>Non, je ne conçois point qu'on puisse être le père d'une aussi jolie enfant ; et ne lui pas donner tout son bien en la mariant.</s>
 </p>
@@ -535,7 +535,7 @@
 	<s id='1'>Et moi , Monsieur je ne conçois point comment il le trouve des Pères assez bons pour donner quelque chose en mariant leurs filles : et si faite, comme je suis, il en coûtait une obole au mien, je me croirais déshonorée.</s>
 </p>
 </sp>
-<sp who='NÉRINE'><speaker>NÉRINE, à Julie.</speaker>
+<sp stage="toward" who='NÉRINE'><speaker>NÉRINE, à Julie.</speaker>
 <p id='5'>
 	<s id='1'>Bon.</s>
 </p>
@@ -550,7 +550,7 @@
 	<s id='1'>Oui, Monsieur.</s>
 </p>
 </sp>
-<sp who='ARGANTE'><speaker>ARGANTE, à part.</speaker>
+<sp stage="aparte" who='ARGANTE'><speaker>ARGANTE, à part.</speaker>
 <p id='8'>
 	<s id='1'>Quel Diable de raffinement est-ceci ?</s>
 </p>
@@ -560,12 +560,12 @@
 	<s id='1'>Et vous pouvez compter qu'un homme qui aura voulu me faire cet affront, ne fera jamais mon époux.</s>
 </p>
 </sp>
-<sp who='NÉRINE'><speaker>NÉRINE, à Julie.</speaker>
+<sp stage="toward" who='NÉRINE'><speaker>NÉRINE, à Julie.</speaker>
 <p id='10'>
 	<s id='1'>À merveilles.</s>
 </p>
 </sp>
-<sp who='ARGANTE'><speaker>ARGANTE, à Julie.</speaker>
+<sp stage="toward" who='ARGANTE'><speaker>ARGANTE, à Julie.</speaker>
 <p id='11'>
 	<s id='1'>Eh bien, trop charmante Julie. </s>
 </p>
@@ -573,28 +573,28 @@
 <p id='12'>
 	<s id='1'>Voici un moment qui va me coûter tout mon bien et par conséquent la vie. </s>
 </p>
-<stage type="[N/A]">Ensuite regardant Julie. </stage>
+<stage type="action/watch">Ensuite regardant Julie. </stage>
 <p id='13'>
 	<s id='1'>Eh bien, on vous épousera tour comme vous voudrez. </s>
 	<s id='2'>En souhaitez vous davantage.</s>
 </p>
 </sp>
-<sp who='NÉRINE'><speaker>NÉRINE, à part.</speaker>
+<sp stage="aparte" who='NÉRINE'><speaker>NÉRINE, à part.</speaker>
 <p id='14'>
 	<s id='1'>Peste soit du vieux fou.</s>
 </p>
 </sp>
-<sp who='JULIE'><speaker>JULIE, étonnée.</speaker>
+<sp stage="estonish" who='JULIE'><speaker>JULIE, étonnée.</speaker>
 <p id='15'>
 	<s id='1'>Nérine !</s>
 </p>
 </sp>
-<sp who='NÉRINE'><speaker>NÉRINE, étonnée.</speaker>
+<sp stage="estonish" who='NÉRINE'><speaker>NÉRINE, étonnée.</speaker>
 <p id='16'>
 	<s id='1'>Mademoiselle !</s>
 </p>
 </sp>
-<sp who='ARGANTE'><speaker>ARGANTE, continue.</speaker>
+<sp stage="continue" who='ARGANTE'><speaker>ARGANTE, continue.</speaker>
 <p id='17'>
 	<s id='1'>Oui, cher objet de mes désirs, je n'en veux qu'à votre petit coeur, et je le préfère à tous les trésors du monde. </s>
 	<s id='2'>Disposez de ma personne, disposez de ma vie : mais songez que mon bien n'est pas des plus considérable, et que Monsieur Géronte est d'une complexion à vivre encore longtemps.</s>
@@ -697,7 +697,7 @@
 	<s id='1'>Vous avez raison ; et mon amour pour vous est une véritable extravagance. </s>
 	<s id='2'>Au plus petit mot de tendresse qu'elle m'eût dit, c'en était fait, je l'épousais : Mais je ne crois pas qu'il m'arrive de la rechercher d'avantage. </s>
 	<s id='3'>Or sus, mon coeur , plus de faiblesse. </s>
-	<s id='4'>Et vous  Monsieur Argante, songez à ce que vous faites. </s>
+	<s id='4'>Et vous Monsieur Argante, songez à ce que vous faites. </s>
 	<s id='5'>Voilà l'appartement de Julie : c'est-là qu'il ne faut plus aller de votre vie. </s>
 	<s id=''>Voici celui de Doriméne : c'est ici qu'il faut entrer, et n'en sortir que pour vous marier avec elle.</s>
 </p>
@@ -807,7 +807,7 @@
 	<s id='1'>Pardonnez-moi, je cours chez mon notaire.</s>
 </p>
 </sp>
-<sp who='DORIMÈNE'><speaker>DORIMÈNE, seule.</speaker>
+<sp stage="alone" who='DORIMÈNE'><speaker>DORIMÈNE, seule.</speaker>
 <p id='19'>
 	<s id='1'>Je n'en pouvais plus. </s>
 	<s id='2'>Encore un instant, et j'allais éclater. </s>
@@ -962,7 +962,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='12'><head>SCÈNE XII.</head>
-<sp who='NÉRINE'><speaker>NÉRINE, seule.</speaker>
+<sp stage="alone" who='NÉRINE'><speaker>NÉRINE, seule.</speaker>
 <p id='1'>
 	<s id='1'>Cela n'est pas encore si sûr, et vous en serez pour vos préparatifs, ou Nérine....</s>
 </p>
@@ -997,10 +997,10 @@
 	<s id='1'>Dis-moi, l'adorable Julie est-elle instruite de tout ? </s>
 	<s id='2'>La trouverai-je chez Dorimène ? </s>
 	<s id='3'>A-t-on prévenu Monsieur Géronte en ma saveur ? </s>
-	<s id='4'>Mais, quoi, tu ne me répons rien !</s>
+	<s id='4'>Mais, quoi, tu ne me réponds rien !</s>
 </p>
 </sp>
-<sp who='NÉRINE'><speaker>NÉRINE, apercevant Julie en pleurs.</speaker>
+<sp stage="watch" who='NÉRINE'><speaker>NÉRINE, apercevant Julie en pleurs.</speaker>
 <p id='6'>
 	<s id='1'>Voilà Julie : regardez-la.</s>
 </p>
@@ -1231,7 +1231,7 @@
 	<s id='3'>Tenez, puisqu'il faut tout vous dire, pas plus tard que ce matin, il me disait qu'il donnerait tout son bien pour posséder Julie.</s>
 </p>
 </sp>
-<sp who='GÉRONTE'><speaker>GÉRONTE,</speaker>
+<sp who='GÉRONTE'><speaker>GÉRONTE.</speaker>
 <p id='26'>
 	<s id='1'>Que me conseille-tu de lui demander ?</s>
 </p>
@@ -1297,14 +1297,14 @@
 </sp>
 </div2>
 <div2 type="scene" n='16'><head>SCÈNE XVII. Argante, Nérine.</head>
-<sp who='NÉRINE'><speaker>NÉRINE, feignant de ne le point voir.</speaker>
+<sp stage="watch" who='NÉRINE'><speaker>NÉRINE, feignant de ne le point voir.</speaker>
 <p id='1'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Ma chère Maîtresse, Monsieur Argante vous épouse sans dot. </s>
 	<s id='3'>Voilà un effort qui fait honneur à vos charmes : plût au Ciel qu'il ne fît point de tort à votre fortune.</s>
 </p>
 </sp>
-<sp who='ARGANTE'><speaker>ARGANTE, à part.</speaker>
+<sp stage="aparte" who='ARGANTE'><speaker>ARGANTE, à part.</speaker>
 <p id='2'>
 	<s id='1'>Que dit-elle de la fortune de Julie ?</s>
 </p>
@@ -1314,12 +1314,12 @@
 	<s id='1'>On devrait bien faire un exemple de ces cajoleuses de vieillards, qui enlèvent le bien des familles, à la faveur de certains mariages et je ne sais comment.</s>
 </p>
 </sp>
-<sp who='ARGANTE'><speaker>ARGANTE, à part.</speaker>
+<sp stage="aparte" who='ARGANTE'><speaker>ARGANTE, à part.</speaker>
 <p id='4'>
 	<s id='1'>Il y a là-dessous quelque chose.</s>
 </p>
 </sp>
-<sp who='NÉRINE'><speaker>NÉRINE, continuant.</speaker>
+<sp stage="continue" who='NÉRINE'><speaker>NÉRINE, continuant.</speaker>
 <p id='5'>
 	<s id='1'>Monsieur Argante ne sait pas pourquoi votre père ne vous donne rien.</s>
 </p>
@@ -1414,7 +1414,7 @@
 	<s id='1'>Ne crains rien.</s>
 </p>
 </sp>
-<sp who='NÉRINE'><speaker>NÉRINE, seule.</speaker>
+<sp stage="alone" who='NÉRINE'><speaker>NÉRINE, seule.</speaker>
 <p id='21'>
 	<s id='1'>Voilà mon stratagème en bon train, et je me fais d'avance un plaisir de voir nos deux corsaires aux prises. </s>
 	<s id='2'>Mais les voici tous deux, et je m'en vais bien rire.</s>
@@ -1422,13 +1422,13 @@
 </sp>
 </div2>
 <div2 type="scene" n='18'><head>SCÈNE XVIII. Géronte, Argante, Nérine.</head>
-<sp who='GÉRONTE'><speaker>GÉRONTE, d'une voix tranquille.</speaker>
+<sp stage="quiet" who='GÉRONTE'><speaker>GÉRONTE, d'une voix tranquille.</speaker>
 <p id='1'>
 	<s id='1'>Ah, Monsieur ! </s>
 	<s id='2'>J'allais chez vous pour...</s>
 </p>
 </sp>
-<sp who='ARGANTE'><speaker>ARGANTE, d'un ton de voix brusque.</speaker>
+<sp stage="nervous" who='ARGANTE'><speaker>ARGANTE, d'un ton de voix brusque.</speaker>
 <p id='2'>
 	<s id='1'>Et moi je viens pour...</s>
 </p>
@@ -1530,7 +1530,7 @@
 	<s id='1'>On voit tous les jours des maris se ruiner par complaisance pour leurs femmes.</s>
 </p>
 </sp>
-<sp who='ARGANTE'><speaker>ARGANTE, en colère.</speaker>
+<sp stage="anger" who='ARGANTE'><speaker>ARGANTE, en colère.</speaker>
 <p id='22'>
 	<s id='1'>Bref.</s>
 </p>
@@ -1564,14 +1564,14 @@
 <p id='28'>
 	<s id='1'>À moins de cinquante mille écus.</s>
 </p>
-<stage type="[N/A]">Ils reculent tous les deux, et restent quelque temps a se regarder sans rien dire.</stage>
+<stage type="action/watch">Ils reculent tous les deux, et restent quelque temps a se regarder sans rien dire.</stage>
 </sp>
-<sp who='NÉRINE'><speaker>NÉRINE, sur les ailes du Théâtre.</speaker>
+<sp stage="location" who='NÉRINE'><speaker>NÉRINE, sur les ailes du Théâtre.</speaker>
 <p id='29'>
 	<s id='1'>Les voilà comme deux termes.</s>
 </p>
 </sp>
-<sp who='ARGANTE'><speaker>ARGANTE, à Nérine.</speaker>
+<sp stage="toward" who='ARGANTE'><speaker>ARGANTE, à Nérine.</speaker>
 <p id='30'>
 	<s id='1'>C'est Araminte qui l'oblige à me faire cette demande.</s>
 </p>
@@ -1654,12 +1654,12 @@
 	<s id='1'>Et moi à la mienne.</s>
 </p>
 </sp>
-<sp who='NÉRINE'><speaker>NÉRINE, à part.</speaker>
+<sp stage="aparte" who='NÉRINE'><speaker>NÉRINE, à part.</speaker>
 <p id='45'>
 	<s id='1'>Voilà ma belle Maîtresse en vente pour la somme de cinquante mille écus.</s>
 </p>
 </sp>
-<sp who='ARGANTE'><speaker>ARGANTE, à Nérine.</speaker>
+<sp stage="toward" who='ARGANTE'><speaker>ARGANTE, à Nérine.</speaker>
 <p id='46'>
 	<s id='1'>Hé bien, Nérine, que dis-tu du procédé de Monsieur Géronte ?</s>
 </p>
@@ -1682,7 +1682,7 @@
 	<s id='2'>Il reviendra.</s>
 </p>
 </sp>
-<sp who='ARGANTE'><speaker>ARGANTE, revenant.</speaker>
+<sp stage="back" who='ARGANTE'><speaker>ARGANTE, revenant.</speaker>
 <p id='50'>
 	<s id='1'>Monsieur Géronte... </s>
 	<s id='2'>Vous allez vous en repentir.</s>
@@ -1728,20 +1728,20 @@
 	<s id='1'>Oui, votre soeur : et voilà Monsieur Subtil, mon fidèle notaire, qui pourra vous en dire des nouvelles.</s>
 </p>
 </sp>
-<sp who='NÉRINE'><speaker>NÉRINE, à part.</speaker>
+<sp stage="aparte" who='NÉRINE'><speaker>NÉRINE, à part.</speaker>
 <p id='59'>
 	<s id='1'>Et nous allons avertir Dorimène de ce qui se passe.</s>
 </p>
 </sp>
 </div2>
 <div2 type="scene" n='19'><head>SCÈNE XIX. Géronte, Argante, Monsieur Subtil, Monsieur Courte-Ligne.</head>
-<sp who='MONSIEUR SUBTIL'><speaker>MONSIEUR SUBTIL, à Argante.</speaker>
+<sp stage="toward" who='MONSIEUR SUBTIL'><speaker>MONSIEUR SUBTIL, à Argante.</speaker>
 <p id='1'>
 	<s id='1'>Voici, Monsieur, votre contrat avec Doriméne.</s>
 </p>
 </sp>
-<sp who='MONSIEUR COURTE-LIGNE'><speaker>MONSIEUR COURTE-LIGNE, à Géronte.</speaker>
-<note typ="L">Seing privé : Signature qui n'a point été faite en présence d'un officier public. [L] Un billet sous seing privé ne porte point d'hypothèque jusqu'à ce qu'il foit reconnu. [F]</note>
+<sp stage="toward" who='MONSIEUR COURTE-LIGNE'><speaker>MONSIEUR COURTE-LIGNE, à Géronte.</speaker>
+<note typ="L">Seing privé : Signature qui n'a point été faite en présence d'un officier public. [L] Un billet sous seing privé ne porte point d'hypothèque jusqu'à ce qu'il soit reconnu. [F]</note>
 <p id='2'>
 	<s id='1'>Je vous apporte, Monsieur, le contrat de votre fille avec Monsieur Argante. </s>
 	<s id='2'>Tous deux à la fois. </s>
@@ -1765,8 +1765,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n='20'><head>SCÈNE XX. Les Acteurs précedents, Dorimène et Julie.</head>
-<sp who='ARGANTE'><speaker>ARGANTE, à part.</speaker>
+<div2 type="scene" n='20'><head>SCÈNE XX. Les Acteurs précédents, Dorimène et Julie.</head>
+<sp stage="aparte" who='ARGANTE'><speaker>ARGANTE, à part.</speaker>
 <p id='1'>
 	<s id='1'>Julie est avec elle, fermons les yeux.</s>
 </p>
@@ -1782,7 +1782,7 @@
 	<s id='1'>De quoi s'agit-il, mon frère ?</s>
 </p>
 </sp>
-<sp who='GÉRONTE'><speaker>GÉRONTE a part, k Doriméne:</speaker>
+<sp stage="aparte/toward" who='GÉRONTE'><speaker>GÉRONTE, à part, à Dorimène.</speaker>
 <p id='4'>
 	<s id='1'>Comment, ma soeur, vous ne vous contentez pas de ne rien faire pour votre nièce, il faut encore que vous nous fissiez manquer notre fortune, en épousant Monsieur Argante ?</s>
 </p>
@@ -1832,13 +1832,13 @@
 	<s id='3'>Et vous, Monsieur Courteligne, suivez-moi, nous aurons besoin de vous.</s>
 </p>
 </sp>
-<sp who='GÉRONTE'><speaker>GÉRONTE à Argante.</speaker>
+<sp stage="toward" who='GÉRONTE'><speaker>GÉRONTE, à Argante.</speaker>
 <note type="L">Bagatelle : Chose de peu de prix et peu nécessaire. [FC]</note>
 <p id='4'>
 	<s id='1'>J'espère, Monsieur, que cette bagatelle n'empêchera pas que nous ne soyons toujours amis ?</s>
 </p>
 </sp>
-<sp who='NÉRINE'><speaker>NÉRINE à Argante.</speaker>
+<sp stage="toward" who='NÉRINE'><speaker>NÉRINE, à Argante.</speaker>
 <p id='5'>
 	<s id='1'>Je suis bien fâché, Monsieur, que vous soyez sans femme, et que l'excès de mon zèle en soit la cause.</s>
 </p>

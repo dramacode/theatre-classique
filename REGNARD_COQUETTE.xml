@@ -822,7 +822,7 @@
 <p id='18'>
 	<s id='1'>Je sens quelquefois des convulsions de bravoure que je ne saurais retenir.</s>
 </p>
-<stage type="[N/A]">Il tousse. </stage>
+<stage type="cough">Il tousse. </stage>
 <p id='19'>
 	<s id='1'>J'étais né pour la guerre : mais mon père, voyant que j'avais trop d'esprit pour ce métier-là, me mit dans notre présidial de Beauvais, et m'acheta une charge d'assesseur. </s>
 </p>
@@ -966,7 +966,7 @@
 	<s id='2'>Je suis revenu trente fois de l'assaut en meilleur équipage. </s>
 	<s id='3'>Il est vrai qu'une jolie personne comme vous est un redoutable ouvrage à cornes.</s>
 </p>
-<stage type="[N/A]">Il râpe du tabac ; Nigaudin tousse. </stage>
+<stage type="cough">Il râpe du tabac ; Nigaudin tousse. </stage>
 <p id='17'>
 	<s id='1'>Hem, plaît-il ? </s>
 </p>
@@ -981,7 +981,7 @@
 <p id='19'>
 	<s id='1'>Je ne suis pas mal fait, oui ; je dois ma taille à une douzaine de bouteilles de vin que je bois réglément par jour : un grand ventre sied bien à la tête d'un bataillon.</s>
 </p>
-<stage type="[N/A]">Nigaudin tousse. </stage>
+<stage type="cough">Nigaudin tousse. </stage>
 <p id='20'>
 	<s id='1'>Ouais ! </s>
 	<s id='2'>Qu'est-ce donc que j'entends ? </s>
@@ -1024,14 +1024,14 @@
 	<s id='2'>Par la ventrebleu ! </s>
 	<s id='3'>Si jamais je l'y rencontre ; je n'aime pas le bruit, mais assurément je lui couperai les oreilles.</s>
 </p>
-<stage type="[N/A]">Nigaudin tousse, et Colombine tousse aussi, de peur que le Capitaine ne l'entende. </stage>
+<stage type="cough">Nigaudin tousse, et Colombine tousse aussi, de peur que le Capitaine ne l'entende. </stage>
 </sp>
 <sp who='COLOMBINE'><speaker>COLOMBINE.</speaker>
 <p id='27'>
 	<s id='1'>Hé ! </s>
 	<s id='2'>Fi, monsieur, ne m'en parlez point ; je ne le saurais souffrir : c'est une éponge à sottises.</s> 
 </p>
-<stage type="[N/A]">Elle tousse. </stage>
+<stage type="cough">Elle tousse. </stage>
 </sp>
 <sp who='LE-CAPITAINE'><speaker>LE CAPITAINE.</speaker>
 <p id='28'>
@@ -2182,9 +2182,9 @@
 	<l id='35'>Vous saurez que je sens une convulsion, </l>
 	<l id='36'>Un appétit, nommé vapeurs de mariage ; </l>
 	<l id='37'>Un... là... quelque Arlequin qui demande passage. </l>
-	<l id='38' part='i'>Me dois-je marier ? </l>
+	<l id='38' part="i">Me dois-je marier ? </l>
 <stage type="[N/A]">La première Bohémienne gesticule et ne dit mot. </stage>
-	<l id='38' part='f'>Oh ! Vous avez raison. </l>
+	<l id='38' part="f">Oh ! Vous avez raison. </l>
 	<l id='39'>Et vous, à votre avis, me marierai-je, ou non ? </l>
 <stage type="[N/A]">La seconde Bohémienne gesticule et ne dit mot. </stage>
 	<l id='40'>C'est bien dit ; à ces mots il n'est point de réplique. </l>
@@ -2194,22 +2194,22 @@
 	<l id='43'>(Car cela vous fait mal) devrais-je convoler ? </l>
 </sp>
 <sp who='PREMIÈRE-BOHEMIÉNNE'><speaker>PREMIÈRE BOHEMIÉNNE.</speaker>
-	<l id='44' part='i'>Oui. </l>
+	<l id='44' part="i">Oui. </l>
 </sp>
 <sp who='SECONDE-BOHEMIÉNNE'><speaker>SECONDE BOHEMIÉNNE.</speaker>
-	<l id='44' part='m'>Non.</l>
+	<l id='44' part="m">Non.</l>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
-	<l id='44' part='m'>Comment ?</l>
+	<l id='44' part="m">Comment ?</l>
 </sp>
 <sp who='PREMIÈRE-BOHEMIÉNNE'><speaker>PREMIÈRE BOHEMIÉNNE.</speaker>
-	<l id='44' part='m'>Oui.</l>
+	<l id='44' part="m">Oui.</l>
 </sp>
 <sp who='SECONDE-BOHEMIÉNNE'><speaker>SECONDE BOHEMIÉNNE.</speaker>
-	<l id='44' part='m'>Non.</l>
+	<l id='44' part="m">Non.</l>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
-	<l id='44' part='f'>Quelle peste de gamme !</l>
+	<l id='44' part="f">Quelle peste de gamme !</l>
 </sp>
 <sp who='PREMIÈRE-BOHEMIÉNNE'><speaker>PREMIÈRE BOHEMIÉNNE.</speaker>
 	<l id='45'>C'est manquer de bon sens que de vivre sans femme. </l>
@@ -2313,28 +2313,28 @@
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
 	<l id='115'>Voilà, je vous l'avoue, un extrait de sorcière, </l>
 	<l id='116'>Que les femmes devraient jeter dans la rivière : </l>
-	<l id='117' part='i'>Elle en dit peu de bien. </l>
+	<l id='117' part="i">Elle en dit peu de bien. </l>
 </sp>
 <sp who='SECONDE-BOHEMIÉNNE'><speaker>SECONDE BOHEMIÉNNE.</speaker>
-	<l id='117' part='f'>Touchez là, j'en dirai, </l>
+	<l id='117' part="f">Touchez là, j'en dirai, </l>
 	<l id='118'>Foi de fille d'honneur, sitôt que j'en saurai. </l>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN, à la première Bohémienne. </speaker>
 	<l id='119'>Mais parlez-moi français ;... là, si je me marie, </l>
-	<l id='120' part='i'>Ne serai-je point,... là... </l>
+	<l id='120' part="i">Ne serai-je point,... là... </l>
 </sp>
 <sp who='PREMIÈRE-BOHEMIÉNNE'><speaker>PREMIÈRE BOHEMIÉNNE.</speaker>
-	<l id='120' part='m'>Quoi, là ?</l>
+	<l id='120' part="m">Quoi, là ?</l>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
-	<l id='120' part='f'>Je vous en prie, </l>
-	<l id='121' part='i'>Ne me déguisez rien. </l>
+	<l id='120' part="f">Je vous en prie, </l>
+	<l id='121' part="i">Ne me déguisez rien. </l>
 </sp>
 <sp who='PREMIÈRE-BOHEMIÉNNE'><speaker>PREMIÈRE BOHEMIÉNNE.</speaker>
-	<l id='121' part='m'>Quoi donc ? </l>
+	<l id='121' part="m">Quoi donc ? </l>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
-	<l id='121' part='f'>Là, ce qu'était </l>
+	<l id='121' part="f">Là, ce qu'était </l>
 	<l id='122'>Peut-être votre époux dans le temps qu'il vivait. </l>
 </sp>
 <sp who='PREMIÈRE-BOHEMIÉNNE'><speaker>PREMIÈRE BOHEMIÉNNE.</speaker>
@@ -2344,41 +2344,41 @@
 	<l id='126'>Ce sont là des terreurs pour les petits esprits... </l>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
-	<l id='127' part='i'>Et pour les grands parfois. </l>
+	<l id='127' part="i">Et pour les grands parfois. </l>
 </sp>
 <sp who='PREMIÈRE-BOHEMIÉNNE'><speaker>PREMIÈRE BOHEMIÉNNE.</speaker>
-	<l id='127' part='f'>Des visions cornues </l>
+	<l id='127' part="f">Des visions cornues </l>
 	<l id='128'>Que les hommes vont mettre en leurs têtes fourchues. </l>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
 	<l id='129'>Ce sont elles, morbleu, qui nous les plantent là, </l>
-	<l id='130' part='i'>De par Belzébuth. </l>
+	<l id='130' part="i">De par Belzébuth. </l>
 </sp>
 <sp who='PREMIÈRE-BOHEMIÉNNE'><speaker>PREMIÈRE BOHEMIÉNNE.</speaker>
-	<l id='130' part='f'>Bon ! Approchez, venez çà ; </l>
+	<l id='130' part="f">Bon ! Approchez, venez çà ; </l>
 	<l id='131'>Regardez-moi bien. Non, vous n'avez point la mine </l>
 	<l id='132'>De recevoir échec de la gent féminine. </l>
-	<l id='133' part='i'>Vous êtes beau, joli, bien fait...</l>
+	<l id='133' part="i">Vous êtes beau, joli, bien fait...</l>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
-	<l id='133' part='f'>Assurément. </l>
+	<l id='133' part="f">Assurément. </l>
 </sp>
 <sp who='PREMIÈRE-BOHEMIÉNNE'><speaker>PREMIÈRE BOHEMIÉNNE.</speaker>
 	<l id='134'>Vous avez de l'esprit, le port fier, l'air charmant ; </l>
-	<l id='135' part='i'>Allez, ne craignez rien. </l>
+	<l id='135' part="i">Allez, ne craignez rien. </l>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
-	<l id='135' part='f'>Mauvaise sauvegarde </l>
+	<l id='135' part="f">Mauvaise sauvegarde </l>
 	<l id='136'>Contre les accidents qu'une femme vous garde. </l>
 </sp>
 <sp who='SECONDE-BOHEMIÉNNE'><speaker>SECONDE BOHEMIÉNNE.</speaker>
 	<l id='137'>Moi je dis, à vous voir seulement par le dos... </l>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
-	<l id='138' part='i'>Ah, ciel ! Nous y voilà. </l>
+	<l id='138' part="i">Ah, ciel ! Nous y voilà. </l>
 </sp>
 <sp who='SECONDE-BOHEMIÉNNE'><speaker>SECONDE BOHEMIÉNNE.</speaker>
-	<l id='138' part='f'>Je vous dis en deux mots </l>
+	<l id='138' part="f">Je vous dis en deux mots </l>
 	<l id='139'>Que vous avez tout l'air, la physionomie, </l>
 	<l id='140'>L'oeil, le nez, la façon, la métoposcopie </l>
 	<l id='141'>D'un homme à qui l'on doit faire un mauvais parti. </l>
@@ -2387,15 +2387,15 @@
 	<l id='144'>Vous me portez tout l'air d'en avoir une charge.</l>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
-	<l id='145' part='i'>Ah ! Je sens déjà là... </l>
+	<l id='145' part="i">Ah ! Je sens déjà là... </l>
 <stage type="[N/A]">Il se touche la tête. </stage>
 </sp>
 <sp who='PREMIÈRE-BOHEMIÉNNE'><speaker>PREMIÈRE BOHEMIÉNNE.</speaker>
-	<l id='145' part='f'>Animal défiant, </l>
-	<l id='146' part='i'>Vous croyez donc... </l>
+	<l id='145' part="f">Animal défiant, </l>
+	<l id='146' part="i">Vous croyez donc... </l>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
-	<l id='146' part='f'>Ma foi ! Je crois à l'ascendant. </l>
+	<l id='146' part="f">Ma foi ! Je crois à l'ascendant. </l>
 	<l id='147'>Ce grand front, cet aspect... Dans cette conjoncture, </l>
 	<l id='148'>Je crains bien de payer un jour avec usure </l>
 	<l id='149'>Tous les frais de la guerre. Allons, tant que quelqu'un </l>
@@ -2410,14 +2410,14 @@
 	<l id='156'>Vous n'en tâterez point ! Halte-là, je vous prie. </l>
 </sp>
 <sp who='SECONDE-BOHEMIÉNNE'><speaker>SECONDE BOHEMIÉNNE.</speaker>
-	<l id='157' part='i'>Point de femme, morbleu ! </l>
+	<l id='157' part="i">Point de femme, morbleu ! </l>
 </sp>
 <sp who='PREMIÈRE-BOHEMIÉNNE'><speaker>PREMIÈRE BOHEMIÉNNE.</speaker>
-	<l id='157' part='f'>Si vous n'en prenez pas, </l>
-	<l id='158' part='i'>Vous n'avez pas encor trois jours à vivre.</l>
+	<l id='157' part="f">Si vous n'en prenez pas, </l>
+	<l id='158' part="i">Vous n'avez pas encor trois jours à vivre.</l>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
-	<l id='158' part='f'>Hélas ! </l>
+	<l id='158' part="f">Hélas ! </l>
 </sp>
 <sp who='SECONDE-BOHEMIÉNNE'><speaker>SECONDE BOHEMIÉNNE.</speaker>
 	<l id='159'>Et si vous en prenez, moi, je vous signifie </l>
@@ -2430,10 +2430,10 @@
 </sp>
 <sp who='PREMIÈRE-BOHEMIÉNNE'><speaker>PREMIÈRE BOHEMIÉNNE.</speaker>
 	<l id='163'>Avant de vous quitter, il faut que je vous voie </l>
-	<l id='164' part='i'>À côté d'une femme.</l>
+	<l id='164' part="i">À côté d'une femme.</l>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
-	<l id='164' part='f'>Ah ! Plutôt qu'on me noie !</l>
+	<l id='164' part="f">Ah ! Plutôt qu'on me noie !</l>
 </sp>
 <sp who='SECONDE-BOHEMIÉNNE'><speaker>SECONDE BOHEMIÉNNE.</speaker>
 	<l id='165'>Pour vous laisser, je veux vous mettre hors d'état </l>
@@ -2443,21 +2443,21 @@
 	<l id='167'>N'en faites rien ; je suis le dernier de ma race. </l>
 </sp>
 <sp who='PREMIÈRE-BOHEMIÉNNE'><speaker>PREMIÈRE BOHEMIÉNNE.</speaker>
-	<l id='168' part='i'>Que de bruit !</l>
+	<l id='168' part="i">Que de bruit !</l>
 </sp>
 <sp who='SECONDE-BOHEMIÉNNE'><speaker>SECONDE BOHEMIÉNNE.</speaker>
-	<l id='168' part='m'>Qu'on me suive.</l>
+	<l id='168' part="m">Qu'on me suive.</l>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
-	<l id='168' part='f'>Hé ! Mesdames, de grâce ! </l>
+	<l id='168' part="f">Hé ! Mesdames, de grâce ! </l>
 	<l id='169'>Un accord : je serai six mois de l'an garçon, </l>
-	<l id='170' part='i'>Et six mois marié. </l>
+	<l id='170' part="i">Et six mois marié. </l>
 </sp>
 <sp who='PREMIÈRE-BOHEMIÉNNE'><speaker>PREMIÈRE BOHEMIÉNNE.</speaker>
-	<l id='170' part='m'>Marchez. </l>
+	<l id='170' part="m">Marchez. </l>
 </sp>
 <sp who='SECONDE-BOHEMIÉNNE'><speaker>SECONDE BOHEMIÉNNE.</speaker>
-	<l id='170' part='f'>Que de façon ! </l>
+	<l id='170' part="f">Que de façon ! </l>
 <stage type="[N/A]">Elles le tiraillent de façon qu'elles emportent chacune une manche de son habit. Il crie au voleur. D'autres Bohémiens l'entourent, dansent autour de lui et le volent. </stage>
 </sp>
 </div2>

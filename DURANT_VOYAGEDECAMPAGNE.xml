@@ -7,9 +7,9 @@
 				<author born='16??' born_location='' death='1736' death_location='' academie=''>DURANT, Catherine</author>
 			</titleStmt>
 			<publicationStmt>	
-				<p>publié par Paul FIEVRE janvier 2014</p>
-			<idno></idno>
-</publicationStmt>
+				<publisher>publié par Paul FIEVRE janvier 2014, revu juillet 2016</publisher>
+				<idno>DURANT_VOYAGEDECAMPAGNE</idno>
+			</publicationStmt>
 			<SourceDesc>
 				<genre>Proverbe</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -56,7 +56,7 @@
 			<castItem><role id="CATOS" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>CATOS</role>.</castItem>
 			<castItem><role id="CHAMPAGNE" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>CHAMPAGNE</role>.</castItem>
 		</castList>
-<set location='Paris' country='France' periode='XVIIIème' link=''>La scène est à Paris, dans la maison de madame de Falignac.</set>
+<set location='Paris' country='France' periode='XVIIIème' link=''>La scène est à Paris, dans la maison de Madame de Falignac.</set>
 <note>Cette pièce est insérée dans "Voyage de campagne" de Mme Henriette-Julie de Castelnau Comtesse de Murat (1670-1716). pp 200-211</note>
 </front>
 <body>
@@ -117,7 +117,7 @@
 	<s id='2'>S'il est vrai que je suis belle, c'est une chose assez visible ; et quand on n'a que trente ans, je crois qu'on peut encore passer pour jeune.</s>
 </p>
 </sp>
-<sp who='CATOS'><speaker>CATOS, à part.</speaker>
+<sp stage="aparte" who='CATOS'><speaker>CATOS, à part.</speaker>
 <p id='11'>
 	<s id='1'>Sa fille en a pourtant quarante-cinq.</s>
 </p>
@@ -160,7 +160,7 @@
 	<s id='1'>Tenez, chevalier; vous peut-on refuser quelque chose ?</s>
 </p>
 </sp>
-<sp who='LE CHEVALIER'><speaker>LE CHEVALIER, en baisant la main de madame Vieillardis.</speaker>
+<sp stage="kiss" who='LE CHEVALIER'><speaker>LE CHEVALIER, en baisant la main de madame Vieillardis.</speaker>
 <p id='17'>
 	<s id='1'>Quelle main ! </s>
 	<s id='2'>Qui peut être à l'heure qu'il est aussi heureux que moi ? </s>
@@ -173,12 +173,12 @@
 	<s id='2'>Passons dans mon cabinet.</s>
 </p>
 </sp>
-<sp who='LE CHEVALIER'><speaker>LE CHEVALIER, à Champagne, en s'en allant.</speaker>
+<sp stage="toward/away" who='LE CHEVALIER'><speaker>LE CHEVALIER, à Champagne, en s'en allant.</speaker>
 <p id='19'>
 	<s id='1'>Ah, Champagne, je meurs de peur !</s>
 </p>
 </sp>
-<sp who='CHAMPAGNE'><speaker>CHAMPAGNE, riant.</speaker>
+<sp stage="laugh" who='CHAMPAGNE'><speaker>CHAMPAGNE, riant.</speaker>
 <p id='19'>
 	<s id='1'>À votre avis, mademoiselle Catos, de quoi Madame de Vieillardis va-t-elle entretenir mon maître ?</s>
 </p>
@@ -267,7 +267,7 @@
 	<s id="1">La vieille sera bien surprise ; quand elle ne trouvera plus l'évanoui !</s>
 </p>
 </sp>
-<sp who='MADAME DE VIEILLARDIS'><speaker>MADAME DE VIEILLARDIS, revenant.</speaker>
+<sp stage="back" who='MADAME DE VIEILLARDIS'><speaker>MADAME DE VIEILLARDIS, revenant.</speaker>
 <p id='33'>
 	<s id='1'>Catos, où est le chevalier ?</s>
 </p>
@@ -277,7 +277,7 @@
 	<s id='1'>Nous l'avons fait revenir, madame ; et aussitôt il est parti avec son Champagne, qui a bien de la peine à le traîner : il est si honteux de cet accident, qu'il dit qu'il n'osera plus se présenter devant vous.</s>
 </p>
 </sp>
-<sp who='MADAME DE VIEILLARDIS'><speaker>MADAME DE VIEILLARDIS, revenant.</speaker>
+<sp stage="back" who='MADAME DE VIEILLARDIS'><speaker>MADAME DE VIEILLARDIS, revenant.</speaker>
 <p id='35'>
 	<s id='1'>Hélas ! </s>
 	<s id='2'>Le pauvre enfant, qu'il a le cour bon ! </s>

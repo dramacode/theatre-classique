@@ -8,7 +8,7 @@
 			<date>1669</date>
 		</titleStmt>
 		<publicationStmt>	
-			<p>publié par Paul FIEVRE, Mai 2002, revu avril 2014</p>
+			<p>publié par Paul FIEVRE, Mai 2002, revu novembre 2016</p>
 			<idno>RACINE_PLAIDEURS</idno>
 		</publicationStmt>
 		<SourceDesc>
@@ -70,7 +70,7 @@
 <body>
 <div1 type="act" n='1'><head>ACTE I</head>
 <div2 type='scene' n='1'><head>SCÈNE PREMIÈRE.</head>
-<sp who="PETIT-JEAN"><speaker>PETIT JEAN, traînant un gros sac de procès.</speaker>
+<sp stage="pull" who="PETIT-JEAN"><speaker>PETIT JEAN, traînant un gros sac de procès.</speaker>
 	<l id='1'>Ma foi, sur l'avenir, bien fou qui se fiera.</l>
 	<l id='2'>Tel qui rit vendredi, dimanche pleurera.</l>
 	<l id='3'>Un juge, l'an passé, me prit à son service,</l>
@@ -160,10 +160,10 @@
 </sp>
 </div2>
 <div2 type ='scene' n='3'><head>SCÈNE III. Dandin, L'intimé, Petit-Jean.</head>
-<sp who="DANDIN"><speaker>DANDIN, à la fenêtre.</speaker>
+<sp stage="watch" who="DANDIN"><speaker>DANDIN, à la fenêtre.</speaker>
 	<l id='61' part="i">Petit Jean. L'Intimé.</l>
 </sp>
-<sp who="L'INTIMÉ"><speaker>L'INTIMÉ, à Petit Jean.</speaker>
+<sp stage="toward" who="L'INTIMÉ"><speaker>L'INTIMÉ, à Petit Jean.</speaker>
 	<l id='61' part="m">Paix.</l>
 </sp>
 <sp who="DANDIN"><speaker>DANDIN.</speaker>
@@ -245,7 +245,7 @@
 	<l id='83'>Du repos ? Ah, sur toi tu veux régler ton père.</l>
 	<l id='84'>Crois-tu qu'un juge n'ait qu'à faire bonne chère,</l>
 	<l id='85'>Qu'à battre le pavé comme un tas de galants, </l>
-<note type="L">Brelan :  Jeu qui se joue avec trois cartes, à trois, ou à quatre, ou à cinq. Par extension, maison de jeu, tripot ; il se prend en mauvaise part.[L]</note>
+<note type="L">Brelan : Jeu qui se joue avec trois cartes, à trois, ou à quatre, ou à cinq. Par extension, maison de jeu, tripot ; il se prend en mauvaise part.[L]</note>
 	<l id='86'>Courir le bal la nuit, et le jour les brelans !</l>
 	<l id='87'>L'argent ne nous vient pas si vite que l'on pense.</l>
 	<l id='88'>Chacun de tes rubans me coûte une sentence.</l>
@@ -396,7 +396,7 @@
 </sp>
 </div2>
 <div2 type ='scene' n='6'><head>SCÈNE VI. Chicanneau, Petit-Jean.</head>
-<sp who="CHICANNEAU"><speaker>CHICANNEAU, allant et revenant.</speaker>
+<sp stage="walk" who="CHICANNEAU"><speaker>CHICANNEAU, allant et revenant.</speaker>
 	<l id='164' part="f">La Brie !</l>
 	<l id='165'>Qu'on garde la maison, je reviendrai bientôt. </l>
 	<l id='166'>Qu'on ne laisse monter aucune âme là-haut, </l>
@@ -411,13 +411,13 @@
 	<l id='175'>Qu'il m'attende. Je crains que mon juge ne sorte. </l>
 	<l id='176'>Quatre heures vont sonner. Mais frappons à sa porte. </l>
 </sp>
-<sp who="PETIT-JEAN"><speaker>PETIT JEAN, entr'ouvrant la porte.</speaker>
+<sp stage="open" who="PETIT-JEAN"><speaker>PETIT JEAN, entr'ouvrant la porte.</speaker>
 	<l id='177' part="i">Qui va là ?</l>
 </sp>
 <sp who="CHICANNEAU"><speaker>CHICANNEAU.</speaker>
 	<l id='177' part="m">Peut-on voir Monsieur ?</l>
 </sp>
-<sp who="PETIT-JEAN"><speaker>PETIT JEAN, refermant la porte.</speaker>
+<sp stage="close" who="PETIT-JEAN"><speaker>PETIT JEAN, refermant la porte.</speaker>
 	<l id='177' part="m">Non.</l>
 </sp>
 <sp who="CHICANNEAU"><speaker>CHICANNEAU.</speaker>
@@ -979,7 +979,7 @@
 <sp who="L'INTIMÉ"><speaker>L'INTIMÉ.</speaker>
 	<l id='360' part="f">Il ne dort non plus que votre père, </l>
 	<l id='361' part="i">Il se tourmente. Il vous...</l>
-<stage type="action">Apercevant Chicanneau.</stage>
+<stage type="watch">Apercevant Chicanneau.</stage>
 	<l id='361' part="f">fera voir aujourd'hui</l>
 	<l id='362'>Que l'on ne gagne rien à plaider contre lui.</l>
 </sp>
@@ -992,7 +992,7 @@
 	<l id='366'>Comment ! c'est un exploit que ma fille lisait ?</l>
 	<l id='367'>Ah ! Tu seras un jour l'honneur de ta famille.</l>
 	<l id='368'>Tu défendras ton bien. Viens, mon sang, viens, ma fille.</l>
-<note type="L">Voir  "Le praticien français, contenant grand nombre d'instructions très-nécessaires pour la pratique des cours de France", Paris : Cardin Besongne, 1654. cote BnF F- 42096. Ouvrage à caractère juridique.</note>
+<note type="L">Voir "Le praticien français, contenant grand nombre d'instructions très-nécessaires pour la pratique des cours de France", Paris : Cardin Besongne, 1654. cote BnF F- 42096. Ouvrage à caractère juridique.</note>
 	<l id='369'>Va, je t'achèterai "Le Praticien Français".</l>
 <note type="L">Exploit : Terme de pratique. Acte que l'huissier dresse et signifie pour assigner, notifier, saisir. [L]</note>
 	<l id='370'>Mais, diantre, il ne faut pas déchirer les exploits. </l>
@@ -1155,7 +1155,7 @@
 <sp who="CHICANNEAU"><speaker>CHICANNEAU.</speaker>
 	<l id='429' part="i">Oui-dà. Je verrai bien s'il est sergent.</l>
 </sp>
-<sp who="L'INTIMÉ"><speaker>L'INTIMÉ, en posture d'écrire.</speaker>
+<sp stage="write" who="L'INTIMÉ"><speaker>L'INTIMÉ, en posture d'écrire.</speaker>
 	<l id='429' part="f">Tôt donc,</l>
 	<l id='430' part="i">Frappez. J'ai quatre enfants à nourrir.</l>
 </sp>
@@ -1235,7 +1235,7 @@
 </sp>
 </div2>
 <div2 type ='scene' n='6'><head>SCÈNE VI. Léandre, Isabelle, Chicanneau, L'Intimé.</head>
-<sp who="L'INTIMÉ"><speaker>L'INTIMÉ, à Isabelle.</speaker>
+<sp stage="toward" who="L'INTIMÉ"><speaker>L'INTIMÉ, à Isabelle.</speaker>
 	<l id='460' part="i">Vous le reconnaissez.</l>
 </sp>
 <sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
@@ -1247,7 +1247,7 @@
 <sp who="ISABELLE"><speaker>ISABELLE.</speaker>
 	<l id='463' part="m">Isabelle.</l>
 </sp>
-<sp who="LÉANDRE"><speaker>LÉANDRE, à l'Intimé.</speaker>
+<sp stage="toward" who="LÉANDRE"><speaker>LÉANDRE, à l'Intimé.</speaker>
 	<l id='463' part="f">Écrivez. Et votre âge ?</l>
 </sp>
 <sp who="ISABELLE"><speaker>ISABELLE.</speaker>
@@ -1360,7 +1360,7 @@
 	<l id='497' part="f">Oui-dà, gaiement,</l>
 	<l id='498'>À tout ce qu'elle a dit, je signe aveuglément.</l>
 </sp>
-<sp who="LÉANDRE"><speaker>LÉANDRE, à Isabelle.</speaker>
+<sp stage="toward" who="LÉANDRE"><speaker>LÉANDRE, à Isabelle.</speaker>
 	<l id='499'>Tout va bien. À mes voeux le succès est conforme :</l>
 	<l id='500'>Il signe un bon contrat écrit en bonne forme, </l>
 	<l id='501'>Et sera condamné tantôt sur son écrit.</l>
@@ -1463,13 +1463,13 @@
 <sp who="LA-COMTESSE"><speaker>LA COMTESSE.</speaker>
 	<l id='530' part="f">Monsieur, je viens me plaindre aussi. </l>
 </sp>
-<sp who="CHICANNEAU_LA COMTESSE"><speaker>CHICANNEAU, LA COMTESSE.</speaker>
+<sp stage="together" who="CHICANNEAU, LA COMTESSE"><speaker>CHICANNEAU, LA COMTESSE.</speaker>
 	<l id='531'>Vous voyez devant vous mon adverse partie.</l>
 </sp>
 <sp who="L'INTIMÉ"><speaker>L'INTIMÉ.</speaker>
 	<l id='532'>Parbleu, je me veux mettre aussi de la partie.</l>
 </sp>
-<sp who="CHICANNEAU, LA COMTESSE, L'INTIME"><speaker>CHICANNEAU, LA COMTESSE et L'INTIMÉ.</speaker>
+<sp stage="together" who="CHICANNEAU, LA COMTESSE, L'INTIME"><speaker>CHICANNEAU, LA COMTESSE et L'INTIMÉ.</speaker>
 	<l id='533'>Monsieur je viens ici pour un petit exploit.</l>
 </sp>
 <sp who="CHICANNEAU"><speaker>CHICANNEAU.</speaker>
@@ -1481,10 +1481,10 @@
 <sp who="DANDIN"><speaker>DANDIN.</speaker>
 	<l id='536' part="i">Qu'est-ce qu'on vous a fait ?</l>
 </sp>
-<sp who="CHICANNEAU, LA COMTESSE, L'INTIME"><speaker> CHICANNEAU, L'INTIMÉ et LA COMTESSE .</speaker>
+<sp stage="together" who="CHICANNEAU, LA COMTESSE, L'INTIME"><speaker> CHICANNEAU, L'INTIMÉ et LA COMTESSE .</speaker>
 	<l id='536' part="f">On m'a dit des injures.</l>
 </sp>
-<sp who="L'INTIMÉ"><speaker>L'INTIMÉ, continuant.</speaker>
+<sp stage="stage" who="L'INTIMÉ"><speaker>L'INTIMÉ, continuant.</speaker>
 	<l id='537'>Outre un soufflet, Monsieur, que j'ai reçu plus qu'eux.</l>
 </sp>
 <sp who="CHICANNEAU"><speaker>CHICANNEAU.</speaker>
@@ -1573,7 +1573,7 @@
 </sp>
 </div2>
 <div2 type ='scene' n='11'><head>SCÈNE XI. Petit-Jean, Léandre, Chicanneau, etc.</head>
-<sp who="PETIT-JEAN"><speaker>PETIT JEAN, à Léandre.</speaker>
+<sp stage="toward" who="PETIT-JEAN"><speaker>PETIT JEAN, à Léandre.</speaker>
 	<l id='555'>On ne l'entendra pas, quelque chose qu'il fasse. </l>
 	<l id='556'>Parbleu, je l'ai fourré dans notre salle basse,</l>
 	<l id='557' part="i">Tout auprès de la cave.</l>
@@ -1585,7 +1585,7 @@
 <sp who="CHICANNEAU"><speaker>CHICANNEAU.</speaker>
 	<l id='558' part="f">Hé bien donc. Si pourtant</l>
 	<l id='559'>Sur toute cette affaire il faut que je le voie. </l>
-<stage type="entrance">Dandin paraît par le soupirail.</stage>
+<stage type="location">Dandin paraît par le soupirail.</stage>
 	<l id='560'>Mais que vois-je ? Ah, c'est lui que le ciel nous renvoie. </l>
 </sp>
 <sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
@@ -1636,7 +1636,7 @@
 <sp who="DANDIN"><speaker>DANDIN.</speaker>
 	<l id='568' part="f">Redites votre affaire.</l>
 </sp>
-<sp who="LÉANDRE"><speaker>LÉANDRE, à l'Intimé.</speaker>
+<sp stage="toward" who="LÉANDRE"><speaker>LÉANDRE, à l'Intimé.</speaker>
 	<l id='569'>Il faut les entourer ici de tous côtés.</l>
 </sp>
 <sp who="LA-COMTESSE"><speaker>LA COMTESSE.</speaker>
@@ -1690,7 +1690,7 @@
 <div2 type ='scene' n='12'><head>SCÈNE XII. La Comtesse, Léandre.</head>
 <sp who="LA-COMTESSE"><speaker>LA COMTESSE.</speaker>
 	<l id='581'>Misérable ! il s'en va lui prévenir l'esprit.</l>
-<stage type="action">Par le soupirail.</stage>
+<stage type="location">Par le soupirail.</stage>
 	<l id='582'>Monsieur, ne croyez rien de tout ce qu'il vous dit.</l>
 	<l id='583' part="i">Il n'a point de témoins. C'est un menteur.</l>
 </sp>
@@ -1780,7 +1780,7 @@
 	<l id='619' part="f">Arrête ! arrête ! attrape !</l>
 </sp>
 <sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
-	<l id='620'>Ah ! c'est mon prisonnier sans doute qui s'échappe. </l>
+	<l id='620'>Ah ! C'est mon prisonnier sans doute qui s'échappe. </l>
 </sp>
 <sp who="L'INTIMÉ"><speaker>L'INTIMÉ.</speaker>
 	<l id='621' part="i">Non, non, ne craignez rien.</l>
@@ -1924,7 +1924,7 @@
 <sp who="DANDIN"><speaker>DANDIN.</speaker>
 	<l id='673' part="i">Ne te couvre donc pas.</l>
 </sp>
-<sp who="PETIT-JEAN"><speaker>PETIT JEAN, se couvrant.</speaker>
+<sp toward="dress" who="PETIT-JEAN"><speaker>PETIT JEAN, se couvrant.</speaker>
 	<l id='673' part="f">Messieurs... Vous doucement :</l>
 	<l id='674'>Ce que je sais le mieux, c'est mon commencement.</l>
 	<l id='675'>Messieurs, quand je regarde avec exactitude, </l>
@@ -1967,7 +1967,7 @@
 	<l id='695'>Te voilà sur tes pieds droit comme une statue, </l>
 	<l id='696'>Dégourdis-toi. Courage ! allons, qu'on s'évertue.</l>
 </sp>
-<sp who="PETIT-JEAN"><speaker>PETIT JEAN, remuant les bras.</speaker>
+<sp stage="expression" who="PETIT-JEAN"><speaker>PETIT JEAN, remuant les bras.</speaker>
 	<l id='697' part="i">Quand... je vois... Quand...je vois...</l>
 </sp>
 <sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
@@ -2103,7 +2103,7 @@
 <sp who="DANDIN"><speaker>DANDIN.</speaker>
 	<l id='726' part="f">Il est de bonne foi.</l>
 </sp>
-<sp who="L'INTIMÉ"><speaker>L'INTIMÉd'un ton finissant en fausset.</speaker>
+<sp stage="expression" who="L'INTIMÉ"><speaker>L'INTIMÉ, d'un ton finissant en fausset.</speaker>
 	<l id='727'>Messieurs. Tout ce qui peut étonner un coupable,</l>
 	<l id='728'>Tout ce que les mortels ont de plus redoutable,</l>
 	<l id='729'>Semble s'être assemblé contre nous par hasard,</l>
@@ -2116,7 +2116,7 @@
 	<l id='733' part="f">Avocat,</l>
 	<l id='734'>De votre ton vous-mêmes adoucissez l'éclat.</l>
 </sp>
-<sp who="L'INTIMÉ"><speaker>L'INTIMÉ, du beau ton.</speaker>
+<sp stage="expression" who="L'INTIMÉ"><speaker>L'INTIMÉ, du beau ton.</speaker>
 	<l id='735'>Oui-dà, j'en ai plusieurs. Mais quelque défiance</l>
 	<l id='736'>Que nous doive donner la susdite éloquence,</l>
 	<l id='737'>Et le susdit crédit : ce néanmoins, Messieurs,</l>
@@ -2177,7 +2177,7 @@
 <sp who="L'INTIMÉ"><speaker>L'INTIMÉ.</speaker>
 	<l id='754' part="f">Ho ! vous êtes si prompt.</l>
 	<l id='755' part="i">Voici le fait. </l>
-<stage type="expression">Vite.</stage>
+<stage type="quick">Vite.</stage>
 	<l id='755' part="f">Un chien vient dans une cuisine, </l>
 	<l id='756'>Il y trouve un chapon, lequel a bonne mine.</l>
 	<l id='757'>Or celui pour lequel je parle est affamé.</l>
@@ -2203,7 +2203,7 @@
 <sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id='768' part="f">Il est fort à la mode.</l>
 </sp>
-<sp who="L'INTIMÉ"><speaker>L'INTIMÉ, d'un ton véhément.</speaker>
+<sp stage="expression" who="L'INTIMÉ"><speaker>L'INTIMÉ, d'un ton véhément.</speaker>
 	<l id='769'>Qu'arrive-t-il, Messieurs ! On vient. Comment vient-on ?</l>
 	<l id='770'>On poursuit ma partie. On force une maison. </l>
 	<l id='771'>Quelle maison ? Maison de notre propre juge.</l>
@@ -2247,7 +2247,7 @@
 	<l id='790' part="f">Reposez-vous. </l>
 	<l id='791' part="i">Et concluez.</l>
 </sp>
-<sp who="L'INTIMÉ"><speaker>L'INTIMÉ, d'un ton pesant.</speaker>
+<sp stage="expression" who="L'INTIMÉ"><speaker>L'INTIMÉ, d'un ton pesant.</speaker>
 	<l id='791' part="f">Puis donc, qu'on nous, permet, de prendre,</l>
 	<l id='792'>Haleine, et que l'on nous défend, de nous, étendre,</l>
 <note type="L">Prévariquer : S'écarter de son sujet. [L]</note>
@@ -2270,7 +2270,7 @@
 <sp who="L'INTIMÉ"><speaker>L'INTIMÉ.</speaker>
 	<l id='800' part="f">Avant la naissance du monde... </l>
 </sp>
-<sp who="DANDIN"><speaker>DANDIN, bâillant.</speaker>
+<sp stage="yawn" who="DANDIN"><speaker>DANDIN, bâillant.</speaker>
 	<l id='801' part="i">Avocat, ah ! Passons au déluge.</l>
 </sp>
 <sp who="L'INTIMÉ"><speaker>L'INTIMÉ.</speaker>
@@ -2285,7 +2285,7 @@
 <note type="C">Vers 809-810, citation de La Création d'Ovide, Métamorphes I : La nature dans l'univers entier ne présentait qu'un seul aspect,
 que l'on nomma Chaos. C'était une masse grossière et confuse(...).</note>
 	<l id='809'>Unus erat toto naturæ vultus in orbe,</l>
-	<l id='810'>Quem Græci dixere chaos, rudis indigestaque moles...</l>
+	<l id='810'>Quem Graeci dixere chaos, rudis indigestaque moles...</l>
 </sp>
 <sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id='811' part="i">Quelle chute ! Mon père ?</l>
@@ -2321,7 +2321,7 @@ que l'on nomma Chaos. C'était une masse grossière et confuse(...).</note>
 	<l id='817'>De monde, de chaos, j'ai la tête troublée.</l>
 	<l id='818' part="i">Hé concluez.</l>
 </sp>
-<sp who="L'INTIMÉ"><speaker>L'INTIMÉ, lui présentant de petits chiens.</speaker>
+<sp stage="show" who="L'INTIMÉ"><speaker>L'INTIMÉ, lui présentant de petits chiens.</speaker>
 	<l id='818' part="f">Venez, famille désolée.</l>
 	<l id='819'>Venez, pauvres enfants, qu'on veut rendre orphelins,</l>
 	<l id='820'>Venez faire parler vos esprits enfantins. </l>
@@ -2429,7 +2429,7 @@ que l'on nomma Chaos. C'était une masse grossière et confuse(...).</note>
 	<l id='858'>Ce que la fille veut, le père le désire.</l>
 	<l id='859' part="i">C'est à vous de juger.</l>
 </sp>
-<sp who="DANDIN"><speaker>DANDIN, se rasseyant.</speaker>
+<sp stage="sit" who="DANDIN"><speaker>DANDIN, se rasseyant.</speaker>
 	<l id='859' part="f">Mariez, au plus tôt. </l>
 	<l id='860'>Dès demain, si l'on veut ; aujourd'hui, s'il le faut. </l>
 </sp>

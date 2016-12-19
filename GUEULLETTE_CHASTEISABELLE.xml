@@ -8,20 +8,16 @@
 			</titleStmt>
 			<publicationStmt>	
 				<p>publié par Paul FIEVRE novembre 2013</p>
-			<idno></idno>
-</publicationStmt>
+				<idno>GUEULLETTE_CHASTEISABELLE</idno>
+			</publicationStmt>
 			<SourceDesc>
-				<genre>Farce</genre>
+				<genre>Parade</genre>
 				<inspiration>moeurs françaises</inspiration>
 				<structure>Un acte</structure>
 				<type>prose</type>
-				<periode>1711-1720</periode>
+				<periode>1751-1760</periode>
 				<taille>(mesure non pertinente)</taille>
-				<permalien></permalien>
-				<sources>
-					<source id="1"><author/><text/></source>
-				</sources>	
-
+				<permalien>http://gallica.bnf.fr/ark:/12148/bpt6k5713311q</permalien>
 			</SourceDesc>
 		</fileDesc>
 </teiHeader>
@@ -29,15 +25,12 @@
 	<front>
 		<docTitle>
 			<titlePart type="main">LA CHASTE ISABELLE</titlePart>
-			<titlePart type="sub">FARCE EN UN ACTE</titlePart>
+			<titlePart type="sub">PARADE</titlePart>
 		</docTitle> 
-		<docDate value="1720">M. CC. XX.</docDate>
+		<docDate value="1756">M. DCC. LVI.</docDate>
 	<docAuthor id='GUEULLETTE, Thomas-Simon' bio='gueullette'>par M. GUEULLETTE</docAuthor>
 		<docImprint>
-		<privilege date=""><head></head>
-		</privilege>
-			<acheveImprime id=""></acheveImprime>
-			<printer id=''></printer>
+			<printer id="">À MAHON, De l'imprimerie de GILLES LANGLOIS à l'enseigne de l'Étrille.</printer>
 		</docImprint>
 	<performance>
 			<premiere date='1720' location='En société'>Représentée pour la première fois en 1720 en société.</premiere>
@@ -50,6 +43,7 @@
 		<castItem><role id="MONSIEUR CASSANDRE" sex="1" type="H" statut='bourgeois' age='V' stat_amour='néant'>MONSIEUR CASSANDRE</role>, vieillard.</castItem>
 	</castList>
 	<set location="France" country='France' periode='XVIIIème' link=''></set>
+	<note>Tiré de "Théâtre des Boulevards ou Recueil des parades. Tome premier" pp 51-73</note>
 </front>
 <body>
 <div1 type="act" n='1'><head></head>
@@ -788,11 +782,11 @@
 <p id='3'>
 	<s id='1'>Donnez toujours.</s>
 </p>
-<stage type="[N/A]">Après avoir pris, il dit à Gilles :</stage>
+<stage type="get/toward">Après avoir pris, il dit à Gilles :</stage>
 <p id='4'>
 	<s id='1'>Monsieur, faites votre devoir.</s>
 </p>
-<stage type="[N/A]">Gilles les emmène.</stage>
+<stage type="give">Gilles les emmène.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='10'><head>SCÈNE X.</head>
@@ -803,13 +797,13 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n='11'><head>SCÈNE XI, et dernière. Gilles, Cassandre, Vilebrequin.</head>
+<div2 type="scene" n='11'><head>SCÈNE XI ET DERNIÈRE. Gilles, Cassandre, Vilebrequin.</head>
 <sp who='GILLES'><speaker>GILLES, les lâchant de la coulisse.</speaker>
 <p id='1'>
 	<s id='1'>Allez, Messieurs, faites la paix, croyez-moi, je vais boire à votre santé. </s>
 	<s id='2'>Voilà ce que c'est que de vouloir souper dehors.</s>
 </p>
-<stage type="[N/A]">Cassandre et Villebrequin sont attachés et liés en face, ils se démènent, tombent par terre, et se battent, tantôt dessus, tantôt dessous, et s'en vont en roulant.</stage>
+<stage type="fight">Cassandre et Villebrequin sont attachés et liés en face, ils se démènent, tombent par terre, et se battent, tantôt dessus, tantôt dessous, et s'en vont en roulant.</stage>
 </sp>
 </div2>
 </div1>

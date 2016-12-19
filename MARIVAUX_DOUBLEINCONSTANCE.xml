@@ -59,7 +59,7 @@
 		<castItem><role id="TRIVELIN" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>TRIVELIN</role>.</castItem>
 		<castItem><role id="LAQUAIS" sex="9" type="H" statut='laquais' age='A' stat_amour='néant'>DES LAQUAIS</role>.</castItem>
 		<castItem><role id="FILLES_DE_CHAMBRE" sex="9" type="H" statut='' age='A' stat_amour='néant'>DES FILLES DE CHAMBRE</role>.</castItem>
-       </castList>
+    </castList>
 	<set location='(non indiqué)' country='France' periode='XVIIIème' link=''>La scène est dans le palais du Prince. </set>
 </front>
 <body>
@@ -929,7 +929,9 @@
 	<s id='2'>Eh bien, avec un bon lit, une bonne table, une douzaine de chaises de paille, ne suis-je pas bien meublé ? </s>
 	<s id='3'>N'ai-je pas toutes mes commodités ? </s>
 	<s id='4'>Oh, mais je n'ai pas de carrosse ? </s>
-<stage type="[N/A]">En montrant ses jambes.</stage>
+</p>
+<stage type="show">En montrant ses jambes.</stage>
+<p id='68'>
 	<s id='5'>Eh bien, je ne verserai point. </s>
 	<s id='6'>Ne voilà-t-il pas un équipage que ma mère m'a donné ? </s>
 	<s id='7'>N'est-ce pas là de bonnes jambes ? </s>
@@ -967,7 +969,7 @@
 	<s id='3'>Seriez-vous bien aise d'avoir un cuisinier qui vous apprêtât délicatement à manger, et en abondance ? </s>
 	<s id='4'>Imaginez-vous ce qu'il y a de meilleur, de plus friand en viande et en poisson : vous l'aurez, et pour toute votre vie. </s>
 </p>
-<stage type="[N/A]">Arlequin est quelque temps à répondre.</stage>
+<stage type="wait">Arlequin est quelque temps à répondre.</stage>
 <p id='74'>
 	<s id='1'>Vous ne répondez rien ? </s>
 </p>

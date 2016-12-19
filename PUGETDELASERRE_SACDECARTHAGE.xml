@@ -7,9 +7,9 @@
 				<author born='1594' born_location='Toulouse' death='1665' death_location='Paris' academie='1825'>PUGET DE LA SERRE, Jean</author>
 			</titleStmt>
 			<publicationStmt>	
-				<p>publié par Paul FIEVRE, Décembre 2015</p>
-			<idno></idno>
-</publicationStmt>
+				<p>publié par Paul FIEVRE, Décembre 2015, revu octobre 2016</p>
+				<idno>PUGETDELASERRE_SACDECARTHAGE</idno>
+			</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire romaine</inspiration>
@@ -17,7 +17,7 @@
 				<type>prose</type>
 				<periode>1641-1650</periode>
 				<taille>(mesure non pertinente)</taille>
-				<permalien>ark:/12148/bpt6k1187062</permalien>
+				<permalien>http://gallica.bnf.fr/ark:/12148/bpt6k1187062</permalien>
 				<liens>
 					<lien type="oeuvre citée">Le Cid de Pierre Corneille</lien>
 					<lien type="ville citée">Carthage, Tunisie</lien>
@@ -138,13 +138,13 @@
 </sp>
 <sp who='SCIPION'><speaker>SCIPION.</speaker>
 <p id='2'>
-	<s id='1'>Qu'on les fasse entrer : ils veulent sans doute éprouver notre clémence, n'ayant pu résister à notre valeur : mais je ne fuis absolu que pour leur ruine,  s'ils demandent la vie qu'ils vivent esclaves, je n'ai que des fers et des chaînes à leur donner. </s>
+	<s id='1'>Qu'on les fasse entrer : ils veulent sans doute éprouver notre clémence, n'ayant pu résister à notre valeur : mais je ne fuis absolu que pour leur ruine, s'ils demandent la vie qu'ils vivent esclaves, je n'ai que des fers et des chaînes à leur donner. </s>
 	<s id='2'>Les voici qui viennent leurs funestes livrées font déjà paraître au dehors la douleur qu'ils portent dans l'âme.</s>
 </p>
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III.</head>
-<stage type="[N/A]">Harangue des Députés du fort de Carthage à Scipion.</stage>
+<stage type="title">Harangue des Députés du fort de Carthage à Scipion.</stage>
 <sp who='AMILCAR'><speaker>AMILCAR.</speaker>
 <p id='1'>
 	<s id='1'>Souverain Capitaine, puis que cette qualité que tu portes nous fait voir tout le Sénat en ta seule personne, nous nous plaignons de lui pour tirer raison de toi. </s>
@@ -176,7 +176,7 @@
 </p>
 </sp>
 <sp who='SCIPION'><speaker>SCIPION.</speaker>
-<stage type="[N/A]">Ils rentrent.</stage>
+<stage type="exit">Ils rentrent.</stage>
 <p id='3'>
 	<s id='1'>Retirez-vous, j'ai entendu vos plaintes, vous saurez bientôt ma résolution. </s>
 	<s id='2'>La raison et la pitié me touchent également en faveur de ces Carthaginois. </s>
@@ -286,7 +286,7 @@
 	<s id="1">Madame, si les Dieux tiennent le parti de nos ennemis, il n'est plus temps de faire de voeux que pour notre ruine : mais au moins cette consolation nous demeure, de pouvoir mourir quand il nous plaira, conservons-en la volonté puisque notre naissance nous en donne le courage, en attendant le retour d'Amilcar : nos tombeaux font toujours ouverts, le premier pas que nous ferons en avant nous peut mettre à l'abri de toutes forces d'orages.</s>
 </p>
 </sp>
-<sp who="SOPHRONICE"><speaker>SOPHRONICE, leur mère.</speaker>
+<sp stage="qualify" who="SOPHRONICE"><speaker>SOPHRONICE, leur mère.</speaker>
 <p id="4">
 	<s id="1">Que pouvons-nous espérer de son retour si toutes nos espérances sont entre les mains de nos ennemis. </s>
 	<s id='2'>Croyez-vous qu'ils aient travaillé si longtemps à notre ruine sans être résolus de parachever leur ouvrage.</s>
@@ -315,7 +315,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II.</head>
-<sp who='AMILCAR'><speaker>AMILCAR, Député des Carthaginois,</speaker>
+<sp stage="qualify" who='AMILCAR'><speaker>AMILCAR, Député des Carthaginois.</speaker>
 <p id='1'>
 	<s id='1'>Madame, je n'aurai pas beaucoup de peine à vous persuader qu'il faut mourir puisque nous respirons continuellement dans des mortelles agonies. </s>
 	<s id='2'>On nous en a prononcé l'arrêt, Scipion veut entrer par la brèche dans le fort qui nous reste. </s>
@@ -347,11 +347,11 @@
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. </head>
-<sp who='SOPHRONICE'><speaker>SOPHRONICE, femme d'Asdrubal continue de parler à se filles.</speaker>
+<sp stage="qualify/continue" who='SOPHRONICE'><speaker>SOPHRONICE, femme d'Asdrubal continue de parler à se filles.</speaker>
 <p id='1'>
 	<s id='1'>Il faut de nécessité que je voie Asdrubal, et que son visage me die plutôt que sa bouche la trahison de son coeur, s'il a eu l'esprit assez lâche d'en concevoir la pensée. </s>
 	<s id='2'>Le Trompette que j'ai déjà envoyé sur le même avis que j'ai reçu, me frayera le chemin avec sûreté. </s>
-	<s id='3'>Je vois déjà les Romains assemblés pour se déterminer d'une commune voix au dessein de notre ruine  : mais allons au devant : que puis-je appréhender si l'impatience en l'attente de la mort est la plus grande de toutes mes peines.</s>
+	<s id='3'>Je vois déjà les Romains assemblés pour se déterminer d'une commune voix au dessein de notre ruine : mais allons au devant : que puis-je appréhender si l'impatience en l'attente de la mort est la plus grande de toutes mes peines.</s>
 </p>
 </sp>
 </div2>
@@ -364,7 +364,7 @@
 </sp>
 <sp who="ASDRUBAL"><speaker>ASDRUBAL.</speaker>
 <p id="2">
-	<s id="1">Après avoir employé inutilement les derniers soins de mon industrie et de mes veilles pour le salut de ma Patrie ; après, dis-je, avoir éprouvé et à ma honte, et à ma confusion la grandeur de ton courage, et la force de tes armes, l'Amour et la Nature plus puissants que toi, me contraignent aujourd'hui de me rendre à ta valeur et à ta fortune pour sauver ma femme et mes filles  : je te ferai entrer sans brèche dans le fort, si tu les en laisses sortir sans dommage : et saches que l'avantage nous sera commun, puis que tu peux éviter la perte de tes meilleurs soldats, en sauvant ces trois personnes.</s>
+	<s id="1">Après avoir employé inutilement les derniers soins de mon industrie et de mes veilles pour le salut de ma Patrie ; après, dis-je, avoir éprouvé et à ma honte, et à ma confusion la grandeur de ton courage, et la force de tes armes, l'Amour et la Nature plus puissants que toi, me contraignent aujourd'hui de me rendre à ta valeur et à ta fortune pour sauver ma femme et mes filles : je te ferai entrer sans brèche dans le fort, si tu les en laisses sortir sans dommage : et saches que l'avantage nous sera commun, puis que tu peux éviter la perte de tes meilleurs soldats, en sauvant ces trois personnes.</s>
 </p>
 </sp>
 <sp who='SCIPION'><speaker>SCIPION.</speaker>
@@ -374,7 +374,7 @@
 </sp>
 <sp who='CATON'><speaker>CATON.</speaker>
 <p id='4'>
-	<s id='1'>Sers-toi du temps, Asdrubal, pour tirer ton salut de ta perte : les Dieux obéissent à la nécessité aussi bien que les hommes ; que si ces lois te semblent trop dures, fais aujourd'hui ce qu'elle te doit imposer demain, et  emprunte de ton courage la force qu'elle te pourrait donner.</s>
+	<s id='1'>Sers-toi du temps, Asdrubal, pour tirer ton salut de ta perte : les Dieux obéissent à la nécessité aussi bien que les hommes ; que si ces lois te semblent trop dures, fais aujourd'hui ce qu'elle te doit imposer demain, et emprunte de ton courage la force qu'elle te pourrait donner.</s>
 </p>
 </sp>
 <sp who='LELIE'><speaker>LELIE.</speaker>
@@ -384,7 +384,7 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n='5'><head>SCÈNE V. </head>
+<div2 type="scene" n='5'><head>SCÈNE V.</head>
 <sp who='LE CENTURION'><speaker>LE CENTURION.</speaker>
 <p id='1'>
 	<s id='1'>Seigneur, la femme d'Afdrubal demande audience.</s>
@@ -397,7 +397,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI.</head>
-<sp who='SOPHRONICE'><speaker>SOPHRONICE, femme d'Asdrubal.</speaker>
+<sp stage="qualify" who='SOPHRONICE'><speaker>SOPHRONICE, femme d'Asdrubal.</speaker>
 <p id='1'>
 	<s id='1'>Fameux et invincible Capitaine, je ne viens pas ici persuader ta clémence de soulager mes maux, il me suffit de savoir que la mort seule en doit être le remède. </s>
 	<s id='2'>La curiosité m'y a conduite pour m'enquérir d'Asdrubal avec ta permission, du sujet de son voyage.</s>
@@ -410,7 +410,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='8'><head>SCÈNE VII.</head>
-<sp who='SOPHRONICE'><speaker>SOPHRONICE, parlant à son mari en présence de Scipion, de Caton, et de Lelie.</speaker>
+<sp stage="toward/entrance" who='SOPHRONICE'><speaker>SOPHRONICE, parlant à son mari en présence de Scipion, de Caton, et de Lelie.</speaker>
 <p id='1'>
 	<s id='1'>Je m'étonne Asdrubal de te voir à la veille de nos funérailles parmi ceux qui travaillent encore à notre tombeau, les ruines de ta patrie t'ont-elles déjà fait oublier son nom ? </s>
 	<s id='2'>As-tu envie d'être Romain parce que tu es le dernier des Carthaginois, je veux que ta perte soit inévitable dans ce commun naufrage, tu perdras bien peu si tu sauves ton honneur. </s>
@@ -419,18 +419,18 @@
 	<s id='5'>Les hommes de ta naissance et de ton mérite ne vivent que pour autrui : tes actions regardent l'avenir puisque la postérité en doit être le juge : tu as vieilli dans les combats avec beaucoup d'honneur que si tu es vaincu en ce dernier, fais voir que ton courage sait tirer raison de la Fortune, demeurant invincible dans ta défaite, pour suivre les lois de ton devoir, plutôt que celles de la nécessité.</s>
 </p>
 </sp>
-<sp who='ASDRUBAL'><speaker>ASDRUBAL, son mari.</speaker>
+<sp stage="qualify" who='ASDRUBAL'><speaker>ASDRUBAL, son mari.</speaker>
 <p id='2'>
 	<s id='1'>Tu t'étonnes de me voir à la veille de nos funérailles parmi ceux qui travaillent encore à notre tombeau. </s>
 	<s id='2'>Saches que c'est pour les empêcher qu'il ne parachèvent leur ouvrage, dans la résolution où je suis de te sauver.</s>
 </p>
 </sp>
-<sp who='SOPHRONICE'><speaker>SOPHRONICE, sa femme.</speaker>
+<sp stage="qualify" who='SOPHRONICE'><speaker>SOPHRONICE, sa femme.</speaker>
 <p id='3'>
 	<s id=''>Il semble que tu ne me connaisse pas, je ne cherche mon salut que dans celui de ma Patrie.</s>
 </p>
 </sp>
-<sp who='ASDRUBAL'><speaker>ASDRUBAL, son mari.</speaker>
+<sp stage="qualify" who='ASDRUBAL'><speaker>ASDRUBAL, son mari.</speaker>
 <note type="C">On devrait lire "courir" au lieu de "courre".</note>
 <p id='4'>
 	<s id='1'>Et si sa perte est inévitable, pourquoi veux-tu courre aveuglément à la mort.</s>
@@ -568,7 +568,7 @@
 </sp>
 <sp who="SOPHRONICE"><speaker>SOPHRONICE.</speaker>
 <p id="31">
-	<s id="1">Ô cruelle amour ! De prolonger mes jours  pour accroître les misères.</s>
+	<s id="1">Ô cruelle amour ! De prolonger mes jours pour accroître les misères.</s>
 </p>
 </sp>
 <sp who="ASDRUBAL"><speaker>ASDRUBAL.</speaker>
@@ -630,7 +630,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='8'><head>DERNIÈRE SCÈNE.</head>
-<sp who='SCIPION'><speaker>SCIPION, continue de parler à Asdrubal.</speaker>
+<sp stage="continue/toward" who='SCIPION'><speaker>SCIPION, continue de parler à Asdrubal.</speaker>
 <p id='1'>
 	<s id='1'>Ne t'étonne pas, Asdrubal des discours d'une femme, ce texte timide et léger refuse aujourd'hui ce qu'il donnera demain. </s>
 	<s id='2'>La présence de la mort lui fera bientôt changer de langage, et toute extrémité, tu trouveras cette consolation dans sa perte, d'avoir cherché toutes sortes de moyens pour la sauver : je te donne sa vie et celle de tes filles, apprends-moi seulement le plus court chemin du triomphe, le temps dans sa longueur est un redoutable ennemi.</s>
@@ -652,7 +652,7 @@
 </sp>
 <sp who='SCIPION'><speaker>SCIPION.</speaker>
 <p id='4'>
-	<s id=''>Si la prise du fort que nous assiégeons aujourd'hui n'était infaillible,  on te pourrait accuser de trahison : mais n'étant plus en état de me résister tu ne fais qu'avancer d'un moment sa ruine ; et tu témoignes beaucoup plus de prudence que d'amour, de subir des lois que tu ne peux violer.</s>
+	<s id=''>Si la prise du fort que nous assiégeons aujourd'hui n'était infaillible, on te pourrait accuser de trahison : mais n'étant plus en état de me résister tu ne fais qu'avancer d'un moment sa ruine ; et tu témoignes beaucoup plus de prudence que d'amour, de subir des lois que tu ne peux violer.</s>
 </p>
 </sp>
 <sp who='CATON'><speaker>CATON.</speaker>
@@ -693,7 +693,7 @@
 <sp who='ASDRUBAL'><speaker>ASDRUBAL.</speaker>
 <p id='2'>
 	<s id='1'>Mon visage et ma solitude ne te sauraient parler que de mon malheur, dans la misérable condition où je me trouve. </s>
-	<s id='2'>Je ne suis pas d'humeur à me repentir de ce que je t'ai dit puisque je le redirai encore si tu l'as oublié : donne-moi seulement la liberté de parler à mes filles avant que tes soldats entrent dedans le Fort. C'est une grâce qu'un père te  demande ; et comme tu partages cette qualité avec moi nos communs sentiments t'obligent à me l'accorder.</s>
+	<s id='2'>Je ne suis pas d'humeur à me repentir de ce que je t'ai dit puisque je le redirai encore si tu l'as oublié : donne-moi seulement la liberté de parler à mes filles avant que tes soldats entrent dedans le Fort. C'est une grâce qu'un père te demande ; et comme tu partages cette qualité avec moi nos communs sentiments t'obligent à me l'accorder.</s>
 </p>
 </sp>
 <sp who="SCIPION"><speaker>SCIPION.</speaker>
@@ -709,7 +709,7 @@
 </sp>
 <sp who='LELIE'><speaker>LELIE.</speaker>
 <p id='5'>
-	<s id='1'>Ma présence, Asdrubal ne te peut être qu'utile, si tu es résolu à nous  être fidèle. </s>
+	<s id='1'>Ma présence, Asdrubal ne te peut être qu'utile, si tu es résolu à nous être fidèle. </s>
 	<s id='2'>Une action généreuse demande le jour, puisque la lumière est la plus évidente preuve de son mérite.</s>
 </p>
 </sp>
@@ -719,7 +719,7 @@
 </p>
 </sp>
 <sp who="SCIPION"><speaker>SCIPION.</speaker>
-<stage type="[N/A]">Scipion s'en va.</stage>
+<stage type="exit">Scipion s'en va.</stage>
 <p id="7">
 	<s id="1">Lélie, accompagne Asdrubal en ce dessin, je le laisse sous ta conduite. </s>
 </p>
@@ -741,14 +741,14 @@
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III.</head>
-<sp who='ASDRUBAL'><speaker>ASDRUBAL, parle à ses filles.</speaker>
+<sp stage="toward" who='ASDRUBAL'><speaker>ASDRUBAL, parle à ses filles.</speaker>
 <p id='1'>
 	<s id='1'>Mes filles la clémence du Sénat et la bonté de Scipion vous pardonnent le crime de votre résistance, si votre repentir en demande la grâce.</s>
 </p>
 </sp>
 <sp who='CLORISBÉ'><speaker>CLORISBÉ.</speaker>
 <p id='2'>
-	<s id=''>Si notre résistance fait notre crime nous sommes disposées d'en mourir de  joie, plutôt que de regret.</s>
+	<s id=''>Si notre résistance fait notre crime nous sommes disposées d'en mourir de joie, plutôt que de regret.</s>
 </p>
 </sp>
 <sp who='ASDRUBAL'><speaker>ASDRUBAL.</speaker>
@@ -828,7 +828,7 @@
 </sp>
 <sp who='CLORISBÉ'><speaker>CLORISBÉ.</speaker>
 <p id='17'>
-	<s id='1'>Leur courage l'est encore moins, ils cherchent la mort pour trouver  leur repos, et nous voulons suivre leur exemple.</s>
+	<s id='1'>Leur courage l'est encore moins, ils cherchent la mort pour trouver leur repos, et nous voulons suivre leur exemple.</s>
 </p>
 </sp>
 <sp who="ASDRUBAL"><speaker>ASDRUBAL.</speaker>
@@ -1020,7 +1020,7 @@
 	<s id="1">Et puisque ta perfidie tient esclave ta raison je te livre à ton repentir.</s>
 </p>
 *****
-<stage type="[N/A]">Elles s'en vont toutes trois.</stage>
+<stage type="exit">Elles s'en vont toutes trois.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE DERNIÈRE.</head>
@@ -1102,7 +1102,7 @@
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Amilcar, Cliphax, Lutius et Cléobule, Carthaginois.</head>
 <sp who='AMILCAR'><speaker>AMILCAR.</speaker>
 <p id='1'>
-	<s id='1'>Mes compagnons, nous sommes trahis, Asdrubal a vendu nos vies, pour racheter celles de sa femme et de ses filles : mais quoi que son honneur soit  compris le premier en cette vente, il faut sacrifier le marchand pour nous venger de sa trahison.</s>
+	<s id='1'>Mes compagnons, nous sommes trahis, Asdrubal a vendu nos vies, pour racheter celles de sa femme et de ses filles : mais quoi que son honneur soit compris le premier en cette vente, il faut sacrifier le marchand pour nous venger de sa trahison.</s>
 </p>
 </sp>
 <sp who='CLIPHAX'><speaker>CLIPHAX.</speaker>
@@ -1168,7 +1168,7 @@
 <div2 type="scene" n='3'><head>SCÈNE III.</head>
 <sp who='SOPHRONICE'><speaker>SOPHRONICE.</speaker>
 <p id='1'>
-	<s id='1'>Allons mes filles, allons chercher des témoins de nos dernières  actions, afin que notre mort anime les plus lâches à suivre notre exemple.</s>
+	<s id='1'>Allons mes filles, allons chercher des témoins de nos dernières actions, afin que notre mort anime les plus lâches à suivre notre exemple.</s>
 </p>
 </sp>
 <sp who='CLORISBÉ'><speaker>CLORISBÉ.</speaker>
@@ -1204,7 +1204,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV.</head>
-<sp who='GOBRIAS'><speaker>GOBRIAS, leur serviteur domestique.</speaker>
+<sp stage="qualify" who='GOBRIAS'><speaker>GOBRIAS, leur serviteur domestique.</speaker>
 <p id='1'>
 	<s id='1'>Madame, le peuple révolté de l'obéissance qu'il vous doit vous accuse de trahison, et déjà il s'assemble en divers lieux avec dessein d'en tirer vengeance.</s>
 </p>
@@ -1218,7 +1218,7 @@
 </sp>
 <sp who="CLORISBÉ"><speaker>CLORISBÉ.</speaker>
 <p id="5">
-	<s id="1">Madame, il est nécessaire pour notre commune satisfaction que vous  fassiez connaître votre innocence, allons à la mort mais tenons le chemin de la gloire.</s>
+	<s id="1">Madame, il est nécessaire pour notre commune satisfaction que vous fassiez connaître votre innocence, allons à la mort mais tenons le chemin de la gloire.</s>
 </p>
 </sp>
 <sp who="FAUSTINE"><speaker>FAUSTINE.</speaker>
@@ -1322,9 +1322,9 @@
 </sp>
 <sp who="SOPHRONICE"><speaker>SOPHRONICE.</speaker>
 <p id="2">
-	<s id="1">Il est temps, puis que les victimes vous attendent sur l'autel ouvrez,  ouvrez leur promptement le sein, afin que vous voyez dans leurs entrailles la fidélité que la Nature y a gravée.</s>
+	<s id="1">Il est temps, puis que les victimes vous attendent sur l'autel ouvrez, ouvrez leur promptement le sein, afin que vous voyez dans leurs entrailles la fidélité que la Nature y a gravée.</s>
 </p>
-<stage type="[N/A]">Les poignards leur tombent des mains.</stage>
+<stage type="drop">Les poignards leur tombent des mains.</stage>
 <p id='3'>
 	<s id='1'>Les armes vous tombent des mains en voici d'autres : offrez aux Dieux le sang innocent de cette femme, pour expier le crime de son mari, et n'épargnez pas celui de ces filles, pour les punir de la trahison de leur père.</s>
 </p>
@@ -1367,7 +1367,7 @@
 <sp who='CLIPHAX'><speaker>CLIPHAX.</speaker>
 <p id='10'>
 	<s id='1'>Madame, votre fidélité nous est aussi connue que votre naissance, oubliez seulement le passé, et souffrez que nous vous donnions des preuves de nos courages à l'avenir. </s>
-	<s id=''>Nos plaintes se changent en louanges, notre haine en amour ; le dessein de nous venger en cette résolution de nous punir nous-mêmes, vous nous jugez  indignes de votre grâce.</s>
+	<s id=''>Nos plaintes se changent en louanges, notre haine en amour ; le dessein de nous venger en cette résolution de nous punir nous-mêmes, vous nous jugez indignes de votre grâce.</s>
 </p>
 </sp>
 </div2>
@@ -1433,7 +1433,7 @@
 </sp>
 <sp who="SOPHRONICE"><speaker>SOPHRONICE.</speaker>
 <p id="12">
-	<s id="1">Mourons donc, mes filles, les ennemis nous appellent au combat : mais  nous allons au devant de la victoire, puisque nous la tenons enchaînée a la pointe de ces poignards.</s>
+	<s id="1">Mourons donc, mes filles, les ennemis nous appellent au combat : mais nous allons au devant de la victoire, puisque nous la tenons enchaînée a la pointe de ces poignards.</s>
 </p>
 </sp>
 </div2>
@@ -1509,7 +1509,7 @@
 <p id="6">
 	<s id="1">Rome n'a jamais été éclairée d'un si beau jour que celui-ci, puisque la Renommée fait le tour du monde sur les terres de son Empire de même que le Soleil, mais la Fortune toujours changeante aussi bien qu'aveugle, a mêlé les soucis parmi mes lauriers, pour me faire connaître sensiblement que la tristesse et la joie étant unies ensemble, on ne saurait goûter ici bas des plaisirs tous purs. </s>
 	<s id='3'>J'ai promis a Asdrubal de sauver sa femme et ses filles ; mon honneur court le même sort que leur vie, et le sang de leurs blessures en changeant de couleur, et rejaillissant sur moi, noircira ma réputation. </s>
-	<s id=''>Les nouvelles de leur défaite me feront oublier celles de ma victoire.  </s>
+	<s id=''>Les nouvelles de leur défaite me feront oublier celles de ma victoire. </s>
 	<s id='4'>J'attends avec impatience un second messager : mais voici Lelie. </s>
 	<s id='5'>Dis-moi promptement si la femme et les filles d'Afdrubal vivent encore.</s>
 </p>
@@ -1527,7 +1527,7 @@
 <p id="3">
 	<s id="1">Ha ! </s>
 	<s id='2'>Que la Fortune me vend chèrement cette dernière victoire ; le triomphe de mes ennemis, mais mon honneur intéressé me met au nombre des vaincus. </s>
-	<s id='3'>Que dirai-je à Asdrubal pour me justifier ?  </s>
+	<s id='3'>Que dirai-je à Asdrubal pour me justifier ? </s>
 	<s id='4'>Ou plutôt ; que répondrai-je a moi-même pour me satisfaire ? </s>
 	<s id='5'>Il a abandonne sa femme et ses filles sous la protection de ma parole, et je l'ai violée : il a mis son coeur entre mes mains, et j'en ai fait ma proie : ne fuis-je pas contraint de prendre part à son malheur.</s>
 </p>
@@ -1547,12 +1547,12 @@
 </sp>
 <sp who='SCIPION'><speaker>SCIPION.</speaker>
 <p id='6'>
-	<s id='1'>Soyons plus heureux que lui en sa faveur, et allons donner nos soins  et nos conseils au soulagement de ses peines.</s>
+	<s id='1'>Soyons plus heureux que lui en sa faveur, et allons donner nos soins et nos conseils au soulagement de ses peines.</s>
 </p>
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV.</head>
-<sp who='ASDRUBAL'><speaker>ASDRUBAL, seul.</speaker>
+<sp stage="alone" who='ASDRUBAL'><speaker>ASDRUBAL, seul.</speaker>
 <p id='1'>
 	<s id='1'>Qui suis-je, je ne me connais plus ? </s>
 	<s id='2'>Où fuis-je ? </s>
@@ -1565,10 +1565,10 @@
 	<s id='9'>Si vous êtes justes, pourquoi laissez-vous ces crimes impunis ? Vos foudres grondent sur ma tête, à quoi tient-il que leurs feux ne la réduisent en cendres. </s>
 	<s id='10'>Vos abîmes se font voir sous mes pieds, que ne les remplissez-vous de l'horreur de ma mémoire. </s>
 	<s id='11'>Mais que dis-je, vous faites bien connaître votre justice, si vous animez déjà une partie de moi-même à se venger de l'autre. </s>
-	<s id='12'>Vous voulez que mes mains  en m'arrachant le coeur soient les foudres de votre vengeance, et le tombeau d'oubli que mon désespoir me prépare, les abîmes de mon châtiment. </s>
+	<s id='12'>Vous voulez que mes mains en m'arrachant le coeur soient les foudres de votre vengeance, et le tombeau d'oubli que mon désespoir me prépare, les abîmes de mon châtiment. </s>
 	<s id='13'>Exécutons donc cet arrêt que vous venez de prononcer, le courage qui me reste après avoir tout perdu, me donne assez de force pour l'entreprendre, en présence même de Scipion, de Caton et de Lelie, puisque vous voulez qu'ils en soient témoins.</s>
 </p>
-<stage type="[N/A]">Il paraissent tous trois.</stage>
+<stage type="entrance">Il paraissent tous trois.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>CINQUIÈME ET DERNIÈRE SCÈNE. Scipion, Caton et Lélie</head>
@@ -1682,7 +1682,7 @@
 	<s id='1'>Je n'en refuse point la grâce : mais je la veux signer de mon sang, afin que la postérité l'autorise. </s>
 	<s id='2'>Va dire maintenant au Sénat que tu as vu ensevelir Carthage dans le tombeau d'Asdrubal.</s>
 </p>
-<stage type="die">Il se tue de ceux coups de poignards.</stage>
+<stage type="suicide">Il se tue de ceux coups de poignards.</stage>
 </sp>
 <sp who="SCIPION"><speaker>SCIPION.</speaker>
 <p id="19">

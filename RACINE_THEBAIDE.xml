@@ -7,9 +7,9 @@
 			<author born='1639' born_location='La Ferté Millon' death='1699' death_location='Paris' academie='1673'>RACINE, Jean</author>
 		</titleStmt>
 		<publicationStmt>	
-			<p>publié par Paul FIEVRE</p><p>Mai 2006</p>
-		<idno></idno>
-</publicationStmt>
+			<publisher>publié par Paul FIEVRE, Mai 2006, révision novembre 2016</publisher>
+			<idno>RACINE_THEBAIDE</idno>
+		</publicationStmt>
 		<SourceDesc>
 			<genre>Tragédie</genre>
 			<inspiration>mythe grec</inspiration>
@@ -39,7 +39,7 @@
 		<docAuthor id="RACINE, Jean" bio='racine'></docAuthor>
 		<docImprint>
 			<privilege id="1664-10-03"></privilege>
-			<acheveImprime id="1664-30-10"></acheveImprime>
+			<acheveImprime id="1664-10-30"></acheveImprime>
 			<printer id="TRABOUILLET">À Paris, Chez Pierre Trabouillet, dans la Galerie des Prisonniers, à l'Image Saint-Hubert.</printer>
 		</docImprint>
 		<performance>
@@ -517,7 +517,7 @@
 	<l id="301">Seconde mes soupirs, donne force à mes pleurs ; </l>
 	<l id="302">Et comme il faut enfin, fais parler mes douleurs.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE, demeurant un peu après sa mère.</speaker>
+<sp stage="stay" who="ANTIGONE"><speaker>ANTIGONE, demeurant un peu après sa mère.</speaker>
 	<l id="303">Et si tu prends pitié d'une flamme innocente,</l>
 	<l id="304">Ô ciel ! en ramenant Hémon à son amante,</l>
 	<l id="305">Ramène-le fidèle, et permets en ce jour, </l>
@@ -915,7 +915,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="2"><head>SCÈNE II.</head>
-<sp who="JOCASTE"><speaker>JOCASTE, seule.</speaker>
+<sp stage="alone" who="JOCASTE"><speaker>JOCASTE, seule.</speaker>
 	<l id="591">Dureront-ils toujours ces ennuis si funestes ?</l>
 	<l id="592">N'épuiseront-ils point les vengeances célestes ?</l>
 	<l id="593">Me feront-ils souffrir tant de cruels trépas,</l>
@@ -1217,7 +1217,7 @@
 	<l id="813" part="i">Allons.</l>
 </sp>
 <sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
-	<l id="813" part="f">Ah ! si ce jour rend la paix aux Thébains,</l>
+	<l id="813" part="f">Ah ! Si ce jour rend la paix aux Thébains,</l>
 	<l id="814">Elle sera, Créon, l'ouvrage de vos mains.</l>
 </sp>
 </div2>
@@ -1760,7 +1760,7 @@
 </div1>
 <div1 type="act" n="5"><head>ACTE V</head>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
-<sp who="ANTIGONE"><speaker>ANTIGONE, seule.</speaker>
+<sp stage="alone" who="ANTIGONE"><speaker>ANTIGONE, seule.</speaker>
 <poem type="stances">
 <lg n="1">
 	<l id="1203">À quoi te résous-tu princesse infortunée ?</l>
@@ -2032,7 +2032,7 @@
 	<l id="1403">Adieu, nous ne faisons tous deux que nous gêner.</l>
 	<l id="1404">Je veux pleurer, Créon, et vous voulez régner.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON, arrêtant Antigone.</speaker>
+<sp satge="stop" who="CRÉON"><speaker>CRÉON, arrêtant Antigone.</speaker>
 	<l id="1405">Ah ! Madame, régnez et montez sur le trône, </l>
 	<l id="1406">Ce haut rang n'appartient qu'à l'illustre Antigone.</l>
 </sp>
@@ -2063,13 +2063,13 @@
 	<l id="1418">Ordonnez seulement ce qu'il faut que je fasse.</l>
 	<l id="1419" part="i">Je suis prêt...</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE, en s'en allant.</speaker>
+<sp stage="exit" who="ANTIGONE"><speaker>ANTIGONE, en s'en allant.</speaker>
 	<l id="1419" part="m">Nous verrons.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON, la suivant.</speaker>
+<sp stage="exit" who="CRÉON"><speaker>CRÉON, la suivant.</speaker>
 	<l id="1419" part="f">J'attends vos lois ici.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE, en s'en allant.</speaker>
+<sp stage="exit" who="ANTIGONE"><speaker>ANTIGONE, en s'en allant.</speaker>
 	<l id="1420" part="i">Attendez.</l>
 </sp>
 </div2>
@@ -2179,7 +2179,7 @@
 	<l id="1493" part="f">Ah ! Seigneur quelle cruelle envie...</l>
 </sp>
 <sp who="CRÉON"><speaker>CRÉON.</speaker>
-	<l id="1494">Ah ! c'est m'assassiner que me sauver la vie.</l>
+	<l id="1494">Ah ! C'est m'assassiner que me sauver la vie.</l>
 	<l id="1495">Amour, rage, transports, venez à mon secours, </l>
 	<l id="1496">Venez et terminez mes détestables jours.</l>
 	<l id="1497">De ces cruels amis trompez tous les obstacles.</l>
@@ -2202,7 +2202,7 @@
 	<l id="1514">La foudre va tomber, la terre est entr'ouverte,</l>
 	<l id="1515">Je ressens à la fois mille tourments divers, </l>
 	<l id="1516">Et je m'en vais chercher du repos aux Enfers.</l>
-	<stage type="action/fall">Il tombe entre les mains des gardes.</stage>
+<stage type="fall">Il tombe entre les mains des gardes.</stage>
 </sp>
 </div2>
 </div1>

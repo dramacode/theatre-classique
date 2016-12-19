@@ -5,10 +5,9 @@
 			<titleStmt>
 				<title>LE BARBIER DE BAGDAD, COMÉDIE UN ACTE.</title>
 				<author born='1730' born_location='Nancy' death='1814' death_location='Paris' academie=''>PALISSOT de MONTENOY, Charles</author>
-				<date>1760</date>
 			</titleStmt>
 			<publicationStmt>	
-				<p>publié par Paul FIEVRE, novembre 2011</p>
+				<publisher>publié par Paul FIEVRE, novembre 2011</publisher>
 				<idno>PALISSOT_BARBIERDEBAGDAD</idno>
 			</publicationStmt>
 			<SourceDesc>
@@ -19,9 +18,6 @@
 				<periode>1751-1760</periode>
 				<taille>(mesure non pertinente)</taille>
 				<permalien></permalien>
-				<sources>
-					<source id='1'><author></author><text></text></source>
-				</sources>	
 			</SourceDesc>
 		</fileDesc>
 </teiHeader>
@@ -45,7 +41,7 @@
 	</performance>
 	<div type="preface"><head>AVERTISSEMENT.</head>
 		<p>On se permet d'imprimer cette bagatelle, qui n'a été faite pour aucun théâtre, quoiqu'elle ait été demandée plus d'une fois à l'Auteur. On peut la regarder comme un exemple de ce qu'on appelle dans le monde Pièce de Société.</p>
-		<p>Elle servit à l'amusement d'une personne illustre, qui en indiqua le sujet. Il est tiré des Contes Arabes, connus sous le nom des Mille et une Nuits. C'est une des meilleures histoires du livre : et peut-être la gaîté française n'a-t-elle rien imaginé de plus comique dans ce genre. Le personnage d'Arlequin est le seul qui soit de l'invention de l'Auteur. Il parut se soutenir à côté du rôle principal. L'entreprise n'était pas aisée : on en appelle à tous ceux qui ont lu le conte. Le reste de la pièce n'est que le sujet même mis en dialogue. On a cru devoir conserver jusqu'aux expressions, qui, dans l'original, sont en effet aussi plaisantes qu'elles puissent l'être.</p>
+		<p>Elle servit à l'amusement d'une personne illustre, qui en indiqua le sujet. Il est tiré des Contes Arabes, connus sous le nom des Mille et une Nuits. C'est une des meilleures histoires du livre : et peut-être la gaieté française n'a-t-elle rien imaginé de plus comique dans ce genre. Le personnage d'Arlequin est le seul qui soit de l'invention de l'Auteur. Il parut se soutenir à côté du rôle principal. L'entreprise n'était pas aisée : on en appelle à tous ceux qui ont lu le conte. Le reste de la pièce n'est que le sujet même mis en dialogue. On a cru devoir conserver jusqu'aux expressions, qui, dans l'original, sont en effet aussi plaisantes qu'elles puissent l'être.</p>
 	</div>
 <castList>
 	<head>ACTEURS.</head>
@@ -55,7 +51,7 @@
 	<castItem><role id="FATMÉ" sex="2" type="H" statut='aristocrate' age='A' stat_amour='amoureux'>FATMÉ</role>.</castItem>
 	<castItem><role id="ARLEQUIN" sex="2" type="H" statut='valet' age='A' stat_amour='néant'>ARLEQUIN</role>.</castItem>
 	<castItem><role id="LE-BARBIER" sex="2" type="H" statut='barbier' age='A' stat_amour='néant'>LE BARBIER</role>.</castItem>
-	<castItem><role id="ESCLAVES-D-ALMANZOR" sex="9" type="H" statut='esclabe' age='A' stat_amour='néant'>ESCLAVES D'ALMANZOR</role>.</castItem>
+	<castItem><role id="ESCLAVES-D-ALMANZOR" sex="9" type="H" statut='esclave' age='A' stat_amour='néant'>ESCLAVES D'ALMANZOR</role>.</castItem>
 	<castItem><role id="SUITE DU CADI" sex="9" type="H" statut='suite' age='A' stat_amour='néant'>SUITE DU CADI</role>.</castItem>
 </castList>
 <set location='Bagdad' country='Irak' periode='XVIIIème' link=''>La scène est à Bagdad.</set>
@@ -81,19 +77,19 @@
 	<s id='4'>Après son injuste rigueur, je souhaiterais de lui trouver un défaut.</s>
 </p>
 </sp>
-<sp who='FATMÉ'><speaker>FATMÉ, malignement.</speaker>
+<sp stage="subtil" who='FATMÉ'><speaker>FATMÉ, malignement.</speaker>
 <p id='4'>
 	<s id='1'>Je veux bien convenir que Zulime est en effet très aimable ; mais...</s>
 </p>
 </sp>
-<sp who='ALMANZOR'><speaker>ALMANZOR, vivement.</speaker>
+<sp stage="stress" who='ALMANZOR'><speaker>ALMANZOR, vivement.</speaker>
 <p i='5'>
 	<s id='1'>Je veux bien convenir ! </s>
 	<s id='2'>Zulime ne vous est-elle pas. Bien obligée ? </s>
 	<s id='3'>Ne voilà-t-il pas une jolie expression ? En vérité, vous autres femmes, quand vous louez les personnes de votre sexe, vous avez toujours un ton si sec, si aride, qu'il n'est pas possible de vous écouter de sang-froid. Je veux bien convenir !</s>
 </p>
 </sp>
-<sp who='FATMÉ'><speaker>FATMÉ, riant.</speaker>
+<sp stage="laugh" who='FATMÉ'><speaker>FATMÉ, riant.</speaker>
 <p id='6'>
 	<s id='1'>Ha, ha, ha, ha! </s>
 	<s id='2'>Tu peux me contredire, Fatmé, je ne m'en offenserai pas. </s>
@@ -264,12 +260,12 @@
 	<s id='1'>Je compris qu'elle voulait observer sur mon visage, si j'étais en effet aussi pénétrée de vos sentiments que je semblais l'être. Je m'y connais, seigneur Almanzor ; il y avait de l'intérêt dans ce regard-là, et les mouvements d'une femme échappent rarement aux yeux d'une autre femme.</s>
 </p>
 </sp>
-<sp who='ALMANZOR'><speaker>ALMANZOR, avec transport.</speaker>
+<sp stage="enthousiasm" who='ALMANZOR'><speaker>ALMANZOR, avec transport.</speaker>
 <p id='37'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Fatmé, chère Fatmé, que ne te dois-je pas ! </s>
 	<s id='3'>Quoi ! </s>
-	<s id='4'>Zulime?....</s>
+	<s id='4'>Zulime ?...</s>
 </p>
 </sp>
 <sp who='FATMÉ'><speaker>FATMÉ.</speaker>
@@ -278,7 +274,7 @@
 	<s id='2'>Tour-à-tour les victimes du désespoir, ou les jouets de l'espérance.</s>
 </p>
 </sp>
-<sp who='ALMANZOR'><speaker>ALMANZOR, vivement.</speaker>
+<sp stage="stress" who='ALMANZOR'><speaker>ALMANZOR, vivement.</speaker>
 <p id='39'>
 	<s id='1'>Cours, ma chère Fatmé, cours. </s>
 	<s id='2'>Ose tenter avec Zulime un nouvel entretien. </s>
@@ -295,7 +291,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Arlequin, Almanzor.</head>
-<sp who='ARLEQUIN'><speaker>ARLEQUIN, voyant sortir Fatmé.</speaker>
+<sp stage="watch/exit" who='ARLEQUIN'><speaker>ARLEQUIN, voyant sortir Fatmé.</speaker>
 <p id='1'>
 	<s id='1'>J'ai dîné quand je vois cette femme-là. </s>
 	<s id='2'>Dès qu'un maître est amoureux, il n'y a plus rien à gagner que pour ces intrigantes.</s>
@@ -401,7 +397,7 @@
 	<s id='2'>Enfin, mon cher Arlequin, j'ai lieu de croire que la belle Zulime commence à devenir plus sensible ; Fatmé vient de me promettre d'employer...</s>
 </p>
 </sp>
-<sp who='ARLEQUIN'><speaker>ARLEQUIN, en même temps que son maître, dit entre ses dents :</speaker>
+<sp stage="together/aparte" who='ARLEQUIN'><speaker>ARLEQUIN, en même temps que son maître, dit entre ses dents :</speaker>
 <p id='17'>
 	<s id='1'>La tortue aux écailles dorées montée sur l'éléphant couleur de rose.... </s>
 	<s id='2'>Non : l'éléphant couleur de rose monté sur la tortue....</s>
@@ -422,7 +418,7 @@
 	<s id='1'>Fatmé m'a donc promis d'employer toute son adresse auprès de Zulime...</s>
 </p>
 </sp>
-<sp who='ARLEQUIN'><speaker>ARLEQUIN, continuant toujours sans écouter son maître.</speaker>
+<sp stage="continue/listen" who='ARLEQUIN'><speaker>ARLEQUIN, continuant toujours sans écouter son maître.</speaker>
 <p id='21'>
 	<s id='1'>L'éléphant prit son vol pour traverser... </s>
 	<s id='2'>L'Euphrate, oui, l'Euphrate, pendant que la tortue...</s>
@@ -433,17 +429,18 @@
 	<s id='1'>Encore ?</s>
 </p>
 </sp>
-<sp who='ARLEQUIN'><speaker>ARLEQUIN, comme s'éveillant.</speaker>
+<sp stage="awake" who='ARLEQUIN'><speaker>ARLEQUIN, comme s'éveillant.</speaker>
 <p id='23'>
 	<s id='1'>Achevez, Monsieur, je ne perds pas un mot.</s>
 </p>
 </sp>
 <sp who='ALMANZOR'><speaker>ALMANZOR.</speaker>
 <p id='24'>
-	<s id='1'>Conçois, mon cher Arlequin, conçois tout l'excès de ma joie, si Fatmé ne m'abuse point. Mais, dis-moi, penses-tu que Zulime ne se rende pas en effet à tant d'amour ?</s>
+	<s id='1'>Conçois, mon cher Arlequin, conçois tout l'excès de ma joie, si Fatmé ne m'abuse point. </s>
+	<s id="2">Mais, dis-moi, penses-tu que Zulime ne se rende pas en effet à tant d'amour ?</s>
 </p>
 </sp>
-<sp who='ARLEQUIN'><speaker>ARLEQUIN, avec distraction.</speaker>
+<sp stage="inavertenly" who='ARLEQUIN'><speaker>ARLEQUIN, avec distraction.</speaker>
 <p id='25'>
 	<s id='1'>Si Fatmé a promis de vous servir...</s>
 </p>
@@ -454,7 +451,7 @@
 	<s id='2'>Oui, je peux compter entièrement sur son zèle.</s>
 </p>
 </sp>
-<sp who='ARLEQUIN'><speaker>ARLEQUIN, du même ton.</speaker>
+<sp stage="inavertenly" who='ARLEQUIN'><speaker>ARLEQUIN, du même ton.</speaker>
 <p id='27'>
 	<s id='1'>Je ne doute pas qu'elle ne réussisse. </s>
 	<s id='2'>Elle a une de ces physionomies qui promet beaucoup , cette fille-là ! </s>
@@ -466,7 +463,7 @@
 	<s id='1'>Quel diable de galimatias me fais-tu là d'éléphant, de tortue, et de je ne sais combien d'autres impertinences ?</s>
 </p>
 </sp>
-<sp who='ARLEQUIN'><speaker>ARLEQUIN, se frappant la tète.</speaker>
+<sp stage="hurt" who='ARLEQUIN'><speaker>ARLEQUIN, se frappant la tète.</speaker>
 <p id='29'>
 	<s id='1'>Cette maudite histoire me revient toujours à l'esprit ! </s>
 	<s id='2'>Mais voilà qui est fait, Monsieur, je me l'appelle très-bien ce que j'avais à vous dire. </s>
@@ -485,12 +482,12 @@
 </p>
 </sp>
 <sp who='ALMANZOR'><speaker>ALMANZOR.</speaker>
-<stage type="[N/A]">Pendant qu'il parle, Arlequin s'éloigne insensiblement.</stage>
+<stage type="away">Pendant qu'il parle, Arlequin s'éloigne insensiblement.</stage>
 <p id='32'>
 	<s id='1'>Mais peux-tu me voir dans l'inquiétude où je suis, et t'occuper de pareilles misères ? </s>
 	<s id='2'>Songes-tu bien que ma vie dépend du succès de mon amour, et ne devrais-tu pas, du moins, te montrer sensible ?...</s>
 </p>
-<stage type="[N/A]">Arrêtant Arlequin.</stage>
+<stage type="stop">Arrêtant Arlequin.</stage>
 <p id='33'>
 	<s id='1'>Oh ! </s>
 	<s id='2'>Pour le coup, je t'y attendais. </s>
@@ -498,7 +495,7 @@
 	<s id='4'>Parle, réponds, où allais-tu ?</s>
 </p>
 </sp>
-<sp who='ARLEQUIN'><speaker>ARLEQUIN, avec crainte.</speaker>
+<sp stage="frighten" who='ARLEQUIN'><speaker>ARLEQUIN, avec crainte.</speaker>
 <p id='34'>
 	<s id='1'>Monsieur....</s>
 </p>
@@ -508,7 +505,7 @@
 	<s id='1'>Parle, dis-je, ou je t'assomme.</s>
 </p>
 </sp>
-<sp who='ARLEQUIN'><speaker>ARLEQUIN, avec crainte.</speaker>
+<sp stage="frighten" who='ARLEQUIN'><speaker>ARLEQUIN, avec crainte.</speaker>
 <p id='36'>
 	<s id='1'>Eh bien ! </s>
 	<s id='2'>Monsieur, puisqu'il faut vous le dire, j'allais....</s>
@@ -519,7 +516,7 @@
 	<s id='1'>Où ?</s>
 </p>
 </sp>
-<sp who='ARLEQUIN'><speaker>ARLEQUIN, avec un soupir.</speaker>
+<sp stage="sigh" who='ARLEQUIN'><speaker>ARLEQUIN, avec un soupir.</speaker>
 <p id='38'>
 	<s id='1'>Chez le Barbier.</s>
 </p>
@@ -708,7 +705,7 @@
 	<s id='2'>Je ne m'occupe, en vérité, que de vos affaires.</s>
 </p>
 </sp>
-<sp who='ARLEQUIN'><speaker>ARLEQUIN, à part.</speaker>
+<sp stage="aparte" who='ARLEQUIN'><speaker>ARLEQUIN, à part.</speaker>
 <p id='4'>
 	<s id='1'>La fine mouche !</s>
 </p>
@@ -723,7 +720,7 @@
 <p id='6'>
 	<s id='1'>Oh! je la crois enfin dans les dispositions...</s>
 </p>	
-<stage type="[N/A]">Apercevant Arlequin, et fiant.</stage>
+<stage type="watch/away">Apercevant Arlequin, et filant.</stage>
 <p id='7'>
 	<s id='1'>Mais quelle est cette plaisante figure ? </s>
 	<s id='2'>Ha, ha, ha !</s>
@@ -790,7 +787,7 @@
 	<s id='4'>Je crois que j'en deviendrai folle ; ha, ha, ha !</s>
 </p>
 </sp>
-<sp who='ALMANZOR'><speaker>ALMANZOR, à Arlequin.</speaker>
+<sp stage="toward" who='ALMANZOR'><speaker>ALMANZOR, à Arlequin.</speaker>
 <p id='18'>
 	<s id='1'>Retire-toi, maraud.</s>
 </p>
@@ -825,7 +822,7 @@
 	<s id='4'>Je n'ai jamais tant ri de ma vie : ha, ha !</s>
 </p>
 </sp>
-<sp who='ARLEQUIN'><speaker>ARLEQUIN, la contrefaisant.</speaker>
+<sp stage="imitate" who='ARLEQUIN'><speaker>ARLEQUIN, la contrefaisant.</speaker>
 <p id='24'>
 	<s id='1'>Ho, ho, ho, ho, ho ! </s>
 	<s id='2'>Est-ce que vous croyez que l'on ne sait pas rire aussi bien que vous ?</s>
@@ -848,7 +845,7 @@
 <stage type="laugh">Ils rient tous trois.</stage>
 <p id='28'>
 	<s id='1'>Eh bien, Fatmé ! </s>
-	<s id='2'>Cette gaîté du moins est-elle d'un heureux présage pour mon amour ?</s>
+	<s id='2'>Cette gaieté du moins est-elle d'un heureux présage pour mon amour ?</s>
 </p>
 </sp>
 <sp who='FATMÉ'><speaker>FATMÉ.</speaker>
@@ -888,7 +885,7 @@
 	<s id='1'>Je ne peux trop te payer une si bonne nouvelle. </s>
 	<s id='2'>Tiens, Fatmé.</s>
 </p>
-<stage type="[N/A]">Il lui donne une bourse : Arlequin fait plusieurs lazzis pour s'en emparer.</stage>
+<stage type="give/lazzis">Il lui donne une bourse : Arlequin fait plusieurs lazzis pour s'en emparer.</stage>
 </sp>
 <sp who='FATMÉ'><speaker>FATMÉ.</speaker>
 <p id='35'>
@@ -914,7 +911,7 @@
 <p id='2'>
 	<s id='1'>Oui, Monsieur.</s>
 </p>
-<stage type="[N/A]">Revenant sur ses pas.</stage>
+<stage type="back">Revenant sur ses pas.</stage>
 <p id='3'>
 	<s id='1'>Mais le vôtre demeure fort loin ; si j'allais chercher l'autre ?</s>
 </p>
@@ -943,7 +940,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V.</head>
-<sp who='ALMANZOR'><speaker>ALMANZOR, seul.</speaker>
+<sp stage="alone" who='ALMANZOR'><speaker>ALMANZOR, seul.</speaker>
 <p id='1'>
 	<s id='1'>Enfin, je suis le plus heureux des hommes ; je suis aimé de Zulime ! </s>
 	<s id='2'>Mes peines passées ne sont plus qu'un songe, dont le bonheur est le réveil. </s>
@@ -964,24 +961,24 @@
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Le Barbier, Alamanzor, Arlequin.</head>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
-<stage type="[N/A]">Il entre à reculons, comme pour ne pas perdre le Barbier de vue, et se laisse tomber sur son maître. Le Barbier tombe aussi embarrassé dans les jambes d'Arlequin. Ce dernier se relève, et court vite au secours du Barbier, avec un empressement qui tient du respect.</stage>
+<stage type="entrance/watch/fall/stand">Il entre à reculons, comme pour ne pas perdre le Barbier de vue, et se laisse tomber sur son maître. Le Barbier tombe aussi embarrassé dans les jambes d'Arlequin. Ce dernier se relève, et court vite au secours du Barbier, avec un empressement qui tient du respect.</stage>
 <p id='1'>
 	<s id='1'>Le voici, le voici le Barbier ! </s>
 	<s id='2'>Vous prenez feu d'abord, comme si tout était perdu.</s>
 </p>
 </sp>
-<sp who='ALMANZOR'><speaker>ALMANZOR, se relevant.</speaker>
+<sp stage="stand" who='ALMANZOR'><speaker>ALMANZOR, se relevant.</speaker>
 <p id='2'>
 	<s id='1'>Voyez un peu ce butor ! </s>
 	<s id='2'>Allons, maraud, dépêche-toi.</s>
 </p>
 </sp>
-<sp who='LE-BARBIER'><speaker>LE BARBIER, après de grandes révérences qui étonnent Almanzor,</speaker>
+<sp stage="wave" who='LE-BARBIER'><speaker>LE BARBIER, après de grandes révérences qui étonnent Almanzor.</speaker>
 <p id='3'>
 	<s id='1'>Béni soit, seigneur Almanzor, l'heureux jour qui m'approche de votre personne, le fidèle esclave qui est venu m'apporter vos ordres, et l'occasion fortunée qui me procure le précieux avantage de vous être utile !</s>
 </p>
 </sp>
-<sp who='ALMANZOR'><speaker>ALMANZOR, à part.</speaker>
+<sp stage="aparte" who='ALMANZOR'><speaker>ALMANZOR, à part.</speaker>
 <p id='4'>
 	<s id='1'>Voilà bien des cérémonies !</s>
 </p>
@@ -1001,18 +998,18 @@
 	<s id='2'>Allons donc vite, Arlequin, allons donc vite !</s>
 </p>
 </sp>
-<sp who='ARLEQUIN'><speaker>ARLEQUIN, pleurant.</speaker>
+<sp stage="cry" who='ARLEQUIN'><speaker>ARLEQUIN, pleurant.</speaker>
 <p id='7'>
 	<s id='1'>Oui, Monsieur.</s>
 </p>
 </sp>
-<sp who='LE-BARBIER'><speaker>LE BARBIER, avec un profond soupir.</speaker>
+<sp stage="sigh" who='LE-BARBIER'><speaker>LE BARBIER, avec un profond soupir.</speaker>
 <p id='8'>
 	<s id='1'>Puisqu'il faut étouffer une douleur si juste, permettez-moi, Seigneur, de vous demander comment vous vous portez. </s>
 	<s id='2'>Votre visage ne semble pas des meilleurs.</s>
 </p>
 </sp>
-<sp who='ALMANZOR'><speaker>ALMANZOR, avec une nuance d'impatience.</speaker>
+<sp stage="nervous" who='ALMANZOR'><speaker>ALMANZOR, avec une nuance d'impatience.</speaker>
 <p id='9'>
 	<s id='1'>Aussi ne fais-je que relever de maladie.</s>
 </p>
@@ -1027,7 +1024,7 @@
 	<s id='1'>Arlequin ?...</s>
 </p>
 </sp>
-<sp who='ARLEQUIN'><speaker>ARLEQUIN, préparant une toilette au fond du théâtre.</speaker>
+<sp stage="costume/location" who='ARLEQUIN'><speaker>ARLEQUIN, préparant une toilette au fond du théâtre.</speaker>
 <p id='12'>
 	<s id='1'>Tout est prêt, Monsieur, tout est prêt.</s>
 </p>
@@ -1079,7 +1076,7 @@
 </div2>
 <div2 type="scene" n='8'><head>SCÈNE VIII. Le Barbier, Almanzor, Arlequin.</head>
 <sp who='LE-BARBIER'><speaker>LE BARBIER. </speaker>
-<stage type="[N/A]">Il passe gravement une serviette au col d'Almanzor, et s'approche comme pour commencer; mais tout-à-coup, il quitte ses rasoirs, ouvre une fenêtre, prend son astrolabe, et va consulter les astres.</stage>
+<stage type="dress/away/watch">Il passe gravement une serviette au col d'Almanzor, et s'approche comme pour commencer ; mais tout-à-coup, il quitte ses rasoirs, ouvre une fenêtre, prend son astrolabe, et va consulter les astres.</stage>
 <p id='1'>
 	<s id='1'>Je n'ai pas tardé, comme vous le voyez, à prendre mes rasoirs ; mon grand âge ne m'a point encore fait perdre de mon activité... </s>
 	<s id='2'>Mais qu'allais-je faire ?</s>
@@ -1126,7 +1123,7 @@
 <p id='9'>
 	<s id='1'>Eh ! </s>
 	<s id='2'>Je n'ai que faire de vos avis, ni de vos prédictions. </s>
-	<s id='3'>Commencez, de grâce, ou rztirez-vous.</s>
+	<s id='3'>Commencez, de grâce, ou retirez-vous.</s>
 </p>
 </sp>
 <sp who='LE-BARBIER'><speaker>LE BARBIER.</speaker>
@@ -1134,27 +1131,27 @@
 	<s id='1'>Mais quel sujet avez-vous de vous mettre en colère ? </s>
 	<s id='2'>Savez-vous que dans tout Bagdad vous ne trouveriez pas un Barbier qui me ressemble ? </s>
 </p>
-<stage type="[N/A]">Avec une volubilité prodigieuse.</stage>
+<stage type="fast">Avec une volubilité prodigieuse.</stage>
 <p id='11'>
 	<s id='1'>Un homme qui possède à fond la cosmométrie, la géométrie, la trigonométrie et l'arithmétique ! </s>
 	<s id='2'>Qui soit plus versé dans la métallurgie, la chimie, l'anatomie, la zoologie, la musurgie, la myologie et la rhétorique ! </s>
 	<s id='3'>Qui ait plus approfondi la chiromancie, l'arithmancie, la géomancie, l'hydromancie, la gyromancie, la pyromancie, l'onomancie, la rabdomancie, la myomancie, la nécromancie et la grammaire ! </s>
-	<s id='4'>Je ne parle point de la physiognonomie, de la métoposcopie, de l'onirocratie et de l'orthograpbe ! </s>
+	<s id='4'>Je ne parle point de la physiognonomie, de la métoposcopie, de l'onirocratie et de l'orthographe ! </s>
 	<s id='5'>Il suffit de vous dire que vous voyez en moi la polymathie, ou plutôt l'encyclopédie des connaissances humaines.</s>
 </p>
 </sp>
-<sp who='ARLEQUIN'><speaker>ARLEQUIN, laissant tomber d'admiration le plat à barbe.</speaker>
+<sp stage="throw" who='ARLEQUIN'><speaker>ARLEQUIN, laissant tomber d'admiration le plat à barbe.</speaker>
 <p id='12'>
 	<s id='1'>Oh ! </s>
 	<s id='2'>L'habile homme, l'habile homme!</s>
 </p>
 </sp>
-<sp who='ALMANZOR'><speaker>ALMANZOR, à part.</speaker>
+<sp stage="aparte" who='ALMANZOR'><speaker>ALMANZOR, à part.</speaker>
 <p id='13'>
 	<s id='1'>Je crois que si j'étais moins pressé, ce bourreau parviendrait à me faire rire.</s>
 </p>
 </sp>
-<sp who='LE-BARBIER'><speaker>LE BARBIER, s'essuyantle visage.</speaker>
+<sp stage="wash" who='LE-BARBIER'><speaker>LE BARBIER, s'essuyant le visage.</speaker>
 <p id='14'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Que votre honnête homme de père connaissait bien tout mon mérite ! </s>
@@ -1173,7 +1170,7 @@
 	<s id='1'>Qui ? Moi babillard ? Vous me faites injure. J'avais six frères, à la vérité, qui pouvaient mériter ce nom. L'aîné se nommait Bacbouc; le second, Baebarac ; le troisième Bacbac ; le quatrième Àlcouz ; le cinquième Alnaschar ; et le sixième Schacabac. </s>
 	<s id='2'>C'étaient d'insupportables parleurs ; mais moi, qui suis leur cadet, je suis grave et concis dans mes discours : aussi m'avait-on surnommé le Silencieux...</s>
 </p>	
-<stage type="[N/A]">Pendant ce dialogue, Arlequin et le barbier se trouvent naturellement accoudés chacun sur une épaule d'Almanzor, qui les repousse avec violence.</stage>
+<stage type="touch/push">Pendant ce dialogue, Arlequin et le barbier se trouvent naturellement accoudés chacun sur une épaule d'Almanzor, qui les repousse avec violence.</stage>
 </sp>
 <sp who='ALMANZOR'><speaker>ALMANZOR.</speaker>
 <p id='17'>
@@ -1187,7 +1184,7 @@
 	<s id='3'>Ce n'est pas moi qui suis venu vous chercher ; c'est vous qui m'avez fait quitter ma boutique, et je jure, foi de Musulman, que je ne sortirai point d'ici que je ne vous aie rasé. Si vous ne connaissez pas ce que je vaux, ce n'est pas ma faute.</s>
 </p>
 </sp>
-<sp who='ALMANZOR'><speaker>ALMANZOR, abattu d'impatience.</speaker>
+<sp stage="nervous" who='ALMANZOR'><speaker>ALMANZOR, abattu d'impatience.</speaker>
 <p id='19'>
 	<s id='1'>Non ! </s>
 	<s id='2'>Il n'est pas possible qu'il y ait au monde un homme qui se fasse, comme vous, un plaisir de désoler les gens ! </s>
@@ -1202,20 +1199,21 @@
 </sp>
 <sp who='ALMANZOR'><speaker>ALMANZOR.</speaker>
 <p id='21'>
-	<s id='1'>Eh ! sans doute, il y a deux heures que je vous le dis.</s>
+	<s id='1'>Eh ! </s>
+	<s id="2">Sans doute, il y a deux heures que je vous le dis.</s>
 </p>
 </sp>
-<sp who='LE-BARBIER'><speaker>LE BARBIER, commençant à le raser, et s'arrêtant alternativement.</speaker>
+<sp stage="shave" who='LE-BARBIER'><speaker>LE BARBIER, commençant à le raser, et s'arrêtant alternativement.</speaker>
 <p id='22'>
 	<s id='1'>Allons ! </s>
 	<s id=''>Seigneur Almanzor, nous allons commencer ; mais, au lieu de vous mettre en colère, si vous m'appreniez la nature de votre affaire, je pourrais vous donner d'excellents conseils.</s>
 </p>
 </sp>
-<sp who='ALMANZOR'><speaker>ALMANZOR, à part.</speaker>
+<sp stage="aparte" who='ALMANZOR'><speaker>ALMANZOR, à part.</speaker>
 <p id='23'>
 	<s id='1'>Que puis-je dire à ce misérable ? </s>
 </p>
-<stage type="forte">Haut.</stage>
+<stage type="loud">Haut.</stage>
 <p id='24'>
 	<s id='1'>Des amis m'attendent à un festin qu'ils me donnent pour célébrer le retour de ma santé.</s>
 </p>
@@ -1226,16 +1224,16 @@
 	<s id='2'>Seigneur, s'il est ainsi, je vous accompagne, et dès ce moment, je m'attache à votre service pour jamais. </s>
 	<s id='3'>Je veux m'acquitter envers vous de tout ce que je dois à votre illustre père. </s>
 	<s id='4'>Aussi bien ma profonde science et ma profession me donnent à peine de quoi vivre : malgré cela, je n'engendre point de mélancolie. </s>
-	<s id='5'>Nous sommes quatre ou cinq amis de la même humeur ; Zantou qui vend des fèves; Aboumékarès qui arrose les rues, et Cassem de la garde du Calife, tous bons vivans, ni querelleurs, ni fâcheux; silencieux, comme voire serviteur, et plus contents que le Calife lui-même. </s>
+	<s id='5'>Nous sommes quatre ou cinq amis de la même humeur ; Zantou qui vend des fèves; Aboumékarès qui arrose les rues, et Cassem de la garde du Calife, tous bons vivants, ni querelleurs, ni fâcheux; silencieux, comme voire serviteur, et plus contents que le Calife lui-même. </s>
 	<s id='6'>Chacun d'eux a sa petite danse ou sa petite chanson pour amuser les passants. </s>
 	<s id='7'>Je crois me rappeler celle d'Aboumékarès qui arrose les rues.</s>
 </p>
-<stage type="[N/A]">Il danse et chante avec Arlequin.</stage>
+<stage type="danse/sing">Il danse et chante avec Arlequin.</stage>
 <p id='26'>
 	<s id='1'>Balada, balachou, balada, balada, balachou.</s>
 </p>
 </sp>
-<sp who='ALMANZOR'><speaker>ALMANZOR, en fureur.</speaker>
+<sp stage="frighten" who='ALMANZOR'><speaker>ALMANZOR, en fureur.</speaker>
 <p id='27'>
 	<s id='1'>Maudit Barbier !... </s>
 	<s id='2'>Traître d'Arlequin !... </s>
@@ -1243,7 +1241,7 @@
 	<s id='4'>Barbier de malheur, finirez-vous ?</s>
 </p>
 </sp>
-<sp who='LE-BARBIER'><speaker>LE BARBIER, se remettant à l'ouvrage.</speaker>
+<sp stage="shave" who='LE-BARBIER'><speaker>LE BARBIER, se remettant à l'ouvrage.</speaker>
 <p id='28'>
 	<s id='1'>Allez ! </s>
 	<s id='2'>Seigneur Almanzor, quand vous aurez à votre suite un homme tel que moi...</s>
@@ -1263,12 +1261,12 @@
 	<s id='3'>Vos amis ne peuvent pas trouver mauvais que je vous accompagne : d'ailleurs, c'est une chose résolue; battez-moi, tuez-moi, je vous suivrai.</s>
 </p>
 </sp>
-<sp who='ALMANZOR'><speaker>ALMANZOR, à part.</speaker>
+<sp stage="aparte" who='ALMANZOR'><speaker>ALMANZOR, à part.</speaker>
 <p id='31'>
 	<s id='1'>Ouf ! </s>
 	<s id='2'>Dissimulons, et tâchons par la douceur d'éloigner ce misérable.</s>
 </p>
-<stage type="forte">Haut.</stage>
+<stage type="loud">Haut.</stage>
  <p id='32'>
 	<s id='1'>Eh bien ! </s>
 	<s id='2'>Voilà qui est fini, sans doute ?</s>
@@ -1284,12 +1282,12 @@
 	<s id='1'>Remportez vos rasoirs, vos lancettes, votre astrolabe, je ne partirai point sans vous.</s>
 </p>
 </sp>
-<sp who='LE-BARBIER'><speaker>LE BARBIER, lui ôtant la serviette, et lui faisant plusieurs révérences.</speaker> 
+<sp stage="dress/wave" who='LE-BARBIER'><speaker>LE BARBIER, lui ôtant la serviette, et lui faisant plusieurs révérences.</speaker> 
 <p id='35'>
 	<s id='1'>Voilà une barbe qui m'a coûté bien des peines ! </s>
 	<s id='2'>Je vais vite chez moi, Seigneur, prendre un équipage plus honnête, et je reviens sans vous faire attendre.</s>
 </p>
-<stage type="exit">Il sort en chantant.</stage>
+<stage type="exit/sing">Il sort en chantant.</stage>
 <p id='36'>
 	<s id='1'>Balada, balachou, balada.</s>
 </p>
@@ -1308,13 +1306,13 @@
 	<s id='7'>Mon doliman, misérable : vite ! </s>
 	<s id=''>Mes pabouches, mon turban.</s>
 </p>
-<stage type="[N/A]">Il s'habille avec précipitation.</stage>
+<stage type="dress">Il s'habille avec précipitation.</stage>
 <p id='2'>
 	<s id='1'>Qu'on m'attende. </s>
 </p>
-<stage type="[N/A]">Il veut sortir.</stage>
+<stage type="away">Il veut sortir.</stage>
 </sp>
-<sp who='ARLEQUIN'><speaker>ARLEQUIN, l'appelant.</speaker>
+<sp stage="shout" who='ARLEQUIN'><speaker>ARLEQUIN, l'appelant.</speaker>
 <p id='3'>
 	<s id='1'>Monsieur, Monsieur !</s>
 </p>
@@ -1339,16 +1337,16 @@
 	<s id='1'>Le Barbier.</s>
 </p>
 </sp>
-<sp who='ALMANZOR'><speaker>ALMANZOR, le battant.</speaker>
+<sp stage="fight" who='ALMANZOR'><speaker>ALMANZOR, le battant.</speaker>
 <p id='8'>
 	<s id='1'>Attends-moi, traître, attends ! </s>
 	<s id='2'>Tiens, voilà pour ton impertinence.</s>
 </p>
-<stage type="[N/A]">Arlequin se sauve.</stage>
+<stage type="exit">Arlequin se sauve.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='10'><head>SCÈNE X.</head>
-<sp who='ALMANZOR'><speaker>ALMANZOR, à la porte de Zulime.</speaker>
+<sp stage="alone/location" who='ALMANZOR'><speaker>ALMANZOR, à la porte de Zulime.</speaker>
 <p id='1'>
 	<s id='1'>C'est ici la maison de Zulime. </s>
 	<s id='2'>Je ne vois personne paraître. </s>
@@ -1364,11 +1362,11 @@
 	<s id='12'>Fatmé ! </s>
 	<s id='13'>Mais on ouvre, et je crois entendre la voix de Zulime.</s>
 </p>
-<stage type="[N/A]">Il entre, et ferme la porte au nez du Barbier qui accourt.</stage>
+<stage type="exit/close/run">Il entre, et ferme la porte au nez du Barbier qui accourt.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='11'><head>SCÈNE XI.</head>
-<sp who='LE-BARBIER'><speaker>LE BARBIER, accourant avec empressement.</speaker>
+<sp stage="run" who='LE-BARBIER'><speaker>LE BARBIER, accourant avec empressement.</speaker>
 <p id='1'>
 	<s id='1'>Seigneur Almanzor ! </s>
 	<s id='2'>Seigneur Almanzor ! </s>
@@ -1390,7 +1388,7 @@
 	<s id='18'>Bon ! </s>
 	<s id='19'>Demandez de la prudence aux jeunes gens! J'aurais pu le servir, écarter les surveillants, les fâcheux... </s>
 	<s id='20'>Si le Cadi allait rentrer ? </s>
-	<s id='21'>Almanzor est très-heureux que je puisse observer ce qui se passe.... </s>
+	<s id='21'>Almanzor est très heureux que je puisse observer ce qui se passe.... </s>
 	<s id='22'>Mais il me semble... </s>
 	<s id='23'>Non... </s>
 	<s id='24'>Oui, je ne me trompe pas... </s>
@@ -1418,7 +1416,7 @@
 	<s id='1'>Approchez, l'honnête homme, approchez ; que voulez-vous ?</s>
 </p>
 </sp>
-<sp who='LE-BARBIER'><speaker>LE BARBIER, à part.</speaker>
+<sp stage="aparte" who='LE-BARBIER'><speaker>LE BARBIER, à part.</speaker>
 <p id='4'>
 	<s id='1'>Arlequin est éloigné... </s>
 	<s id='2'>Bon ! </s>
@@ -1469,11 +1467,11 @@
 	<s id='3'>Revenez ce soir, mon ami, je vous ferai justice : une affaire pressante m'appelle actuellement dans ma maison.</s>
 </p>
 </sp>
-<sp who='LE-BARBIER'><speaker>LE BARBIER, à part, en se mettant entre la porte et le Cadi.</speaker>
+<sp stage="aparte/location" who='LE-BARBIER'><speaker>LE BARBIER, à part, en se mettant entre la porte et le Cadi.</speaker>
 <p id='12'>
 	<s id='1'>Vraiment, ce n'est pas là mon compte.</s>
 </p>
-<stage type="forte">Haut.</stage>
+<stage type="loud">Haut.</stage>
 <p id='13'>
 	<s id='1'>Seigneur ?...</s>
 </p>
@@ -1550,13 +1548,13 @@
 <p id='27'>
 	<s id='1'>Précisément....</s>
 </p>
-<stage type="[N/A]">Apercevant Arlequin.</stage>
+<stage type="watch">Apercevant Arlequin.</stage>
 <p id='28'>
 	<s id='1'>Mais que vois-je ? </s>
 	<s id='2'>Ah ! </s>
 	<s id='3'>Pauvre Arlequin, où viens-tu te fourrer? </s>
 </p>
-<stage type="[N/A]">Il lui fait toutes sortes de signes pour l'empêcher d'avancer.</stage>
+<stage type="sign">Il lui fait toutes sortes de signes pour l'empêcher d'avancer.</stage>
 </sp>
 <sp who='AMBLÉTUSE'><speaker>AMBLÉTUSE.</speaker>
 <p id='29'>
@@ -1565,7 +1563,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='13'><head>SCÈNE XIII. Arlequin, Le Cadi et sa Suite, Le Barbier.</head>
-<sp who='LE-BARBIER'><speaker>LE BARBIER, à part.</speaker>
+<sp stage="aparte" who='LE-BARBIER'><speaker>LE BARBIER, à part.</speaker>
 <p id='1'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Pauvre Arlequin, pauvre Arlequin !</s>
@@ -1627,7 +1625,7 @@
 	<s id='1'>Qu'on lui applique sur-le-champ la plus vigoureuse bastonnade.</s>
 </p>
 </sp>
-<sp who='ARLEQUIN'><speaker>ARLEQUIN, battu.</speaker>
+<sp stage="fight" who='ARLEQUIN'><speaker>ARLEQUIN, battu.</speaker>
 <p id='12'>
 	<s id='1'>Ah, ah, ah, ah ! </s>
 	<s id='2'>Seigneur. </s>
@@ -1637,7 +1635,7 @@
 	<s id='6'>Monsieur le Barbier, à mon secours.</s>
 </p>
 </sp>
-<sp who='LE-BARBIER'><speaker>LE BARBIER, à Arlequin, d'un air de finesse.</speaker>
+<sp stage="toward" who='LE-BARBIER'><speaker>LE BARBIER, à Arlequin, d'un air de finesse.</speaker>
 <p id='13'>
 	<s id='1'>Paix ! </s>
 	<s id='2'>C'est un stratagème.</s>
@@ -1707,7 +1705,7 @@
 	<s id='1'>Je voudrais qu'on me les rendît.</s>
 </p>
 </sp>
-<sp who='ARLEQUIN'><speaker>ARLEQUIN, se mettant en devoir de le battre.</speaker>
+<sp stage="fight" who='ARLEQUIN'><speaker>ARLEQUIN, se mettant en devoir de le battre.</speaker>
 <p id='11'>
 	<s id='1'>Absolument ?</s>
 </p>
@@ -1782,7 +1780,7 @@
 	<s id='1'>Non ; mais celle d'un prétendu vol que tu m'avais fait : tu conçois combien cela devenait plaisant.</s>
 </p>
 </sp>
-<sp who='ARLEQUIN'><speaker>ARLEQUIN, riant.</speaker>
+<sp stage="laugh" who='ARLEQUIN'><speaker>ARLEQUIN, riant.</speaker>
 <p id='25'>
 	<s id='1'>Oh, oh, oh, oh ! </s>
 	<s id='2'>Oui, c'était effectivement une drôle d'invention.</s>
@@ -1791,7 +1789,7 @@
 <sp who='LE-BARBIER'><speaker>LE BARBIER.</speaker>
 <p id='26'>
 	<s id='1'>C'était le plus adroit stratagème que j'eusse imaginé de ma vie ! </s>
-	<s id='2'>Mais, par malheur, tu es arrivé précisément pour recevoir cett grêle de coups de bâton...</s>
+	<s id='2'>Mais, par malheur, tu es arrivé précisément pour recevoir cette grêle de coups de bâton...</s>
 </p>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
@@ -1819,7 +1817,7 @@
 	<s id='4'>Approche-toi tout doucement de la porte du Cadi.</s>
 </p>
 </sp>
-<sp who='ARLEQUIN'><speaker>ARLEQUIN, s'approchant de la porte.</speaker>
+<sp stage="away" who='ARLEQUIN'><speaker>ARLEQUIN, s'approchant de la porte.</speaker>
 <p id='31'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Monsieur le Barbier, l'excellente odeur de macarons !</s>
@@ -1868,13 +1866,13 @@
 	<s id='3'>Venez, venez écouter vous-même.</s>
 </p>
 </sp>
-<sp who='LE-BARBIER'><speaker>LE BARBIER, s'approchant.</speaker>
+<sp stage="closer" who='LE-BARBIER'><speaker>LE BARBIER, s'approchant.</speaker>
 <p id='40'>
 	<s id='1'>Je n'entends rien.</s>
 </p>
 </sp>
 <sp who='ARLEQUIN'><speaker>ARLEQUIN.</speaker>
-<note type="L">Sabbat : se dit ausi populairement et par extention, d'un grand bruit, d'une crierie telle qu'on s'imagine qu'on fait au sabbat. [F]</note>
+<note type="L">Sabbat : se dit aussi populairement et par extension, d'un grand bruit, d'une crierie telle qu'on s'imagine qu'on fait au sabbat. [F]</note>
 <p id='41'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Je l'entends bien, moi. </s>
@@ -1891,7 +1889,7 @@
 <p id='43'>
 	<s id='1'>Ce n'est rien, ce n'est rien ; c'est le petit chat qui miaule.</s>
 </p>
-<stage type="[N/A]">Se retirant tout-à-coup, comme s'il était fort effrayé.</stage>
+<stage type="away/frighten">Se retirant tout-à-coup, comme s'il était fort effrayé.</stage>
 <p id='44'>
 	<s id='1'>Oh ! </s>
 	<s id='2'>Oh ! </s>
@@ -1925,7 +1923,7 @@
 	<s id='4'>Ah ! </s>
 	<s id='5'>C'est une chose abominable, et, qui crie vengeance ! </s>
 </p>
-<stage type="[N/A]">Arlequin rentre avec des esclaves.</stage>
+<stage type="entrance">Arlequin rentre avec des esclaves.</stage>
 <p id='49'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Te voilà, mon pauvre Arlequin ! </s>
@@ -1957,7 +1955,7 @@
 	<s id='1'>Oui, méchant Cadi. Rendez-nous notre maître au plus vite, ou nous allons brûler la maison.</s>
 </p>
 </sp>
-<sp who='ALMANZOR'><speaker>ALMANZOR, à la fenêtre, faisant inutilement des signes au Barbier.</speaker>
+<sp stage="location" who='ALMANZOR'><speaker>ALMANZOR, à la fenêtre, faisant inutilement des signes au Barbier.</speaker>
 <p id='5'>
 	<s id='1'>Quoi ! </s>
 	<s id='2'>C'est encore ce malheureux ! </s>
@@ -2013,7 +2011,7 @@
 <p id='13'>
 	<s id='1'>Oui, oui , nous chercherons. </s>
 	<s id='2'>Attendez-moi la seulement, mes amis. </s>
-	<s id=''>Le Calife sera informé de cette action, et il en fera bonne et briève justice.</s>
+	<s id=''>Le Calife sera informé de cette action, et il en fera bonne et brève justice.</s>
 </p>
 </sp>
 <sp who='LE-CADI'><speaker>LE CADI.</speaker>
@@ -2045,13 +2043,13 @@
 <p id='1'>
 	<s id='1'>Oui, mon père , j'ose vous l'avouer. </s>
 </p>
-<stage type="[N/A]">Montrant Almanzor.</stage>
+<stage type="show">Montrant Almanzor.</stage>
 <p id='2'>
 	<s id='1'>Ma perte et ma grâce sont entre vos mains ; mais Zulime vous est chère, et le même arrêt qui lui donnerait la mort, entraînerait aussi la mienne.</s>
 </p>
-<stage type="[N/A]">Ils tombent tous aux genoux du Cadi.</stage>
+<stage type="kneel">Ils tombent tous aux genoux du Cadi.</stage>
 </sp>
-<sp who='LE-CADI'><speaker>LE CADI, après un moment de silence.</speaker>
+<sp stage="silence" who='LE-CADI'><speaker>LE CADI, après un moment de silence.</speaker>
 <p id='3'>
 	<s id='1'>Levez-vous, mes enfants ! </s>
 	<s id='2'>Je ne briserai pas des noeuds que le Ciel même semble avoir pris plaisir à former.</s>

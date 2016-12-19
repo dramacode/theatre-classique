@@ -7,9 +7,9 @@
 			<author born='' born_location='' death='' death_location='' academie=''>(anonyme)</author>
 			</titleStmt>
 			<publicationStmt>	
-				<p>publié par Paul FIEVRE août 2012.</p>
-			<idno></idno>
-</publicationStmt>
+				<p>publié par Paul FIEVRE août 2012, revu novembre 2016.</p>
+				<idno>ANONYME_CLUBDESDAMES</idno>
+			</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -18,11 +18,6 @@
 				<periode>1781-1790</periode>
 				<taille>(mesure non pertinente)</taille>
 				<permalien>http://contentdm.warwick.ac.uk/u?/Ancien,9363</permalien>
-
-				<sources>
-					<source id='1'><author></author><text></text></source>
-				</sources>	
-
 			</SourceDesc>
 		</fileDesc>
 </teiHeader>
@@ -113,7 +108,7 @@
 <body>
 <div1 type="act" n='1'><head></head>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE.</head>
-<sp who='LA COMTESSE'><speaker>LA COMTESSE, à ses Femmes.</speaker>
+<sp stage="toward" who='LA COMTESSE'><speaker>LA COMTESSE, à ses femmes.</speaker>
 <p id='1'>
 	<s id='1'>Oui, ma toilette : je suis pressée ; j'attends ces Dames ; j'attends aussi le Marquis... </s>
 	<s id='2'>La bonne journée !... </s>
@@ -123,7 +118,7 @@
 <p id='2'>
 	<s id='1'>Le plaisir de la vengeance ; le bruit, le mouvement, le fracas que tout cela va faire... </s>
 </p>
-<stage type="[N/A]">Nota. Pendant ce monologue, la toilette va toujours. </stage>
+<stage type="dress">Nota. Pendant ce monologue, la toilette va toujours. </stage>
 <p id='3'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Messieurs les hommes, vous vous séparez de nous ! </s>
@@ -146,7 +141,7 @@
 	<s id='19'>Ah, non ! </s>
 	<s id='20'>C'est le Chevalier. </s>
 </p>
-<stage type="[N/A]">Un Laquais annonce le Chevalier, qui entre en même-temps.</stage>
+<stage type="loud/entrance">Un Laquais annonce le Chevalier, qui entre en même-temps.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Le Chevalier, La Comtesse, ses femmes.</head>
@@ -178,7 +173,7 @@
 	<s id='2'>Des charmes si frais, un teint si vif... </s>
 	<s id='3'>Des yeux si beaux... </s>
 </p>
-<stage type="mezzo voce">À demi-voix.</stage>
+<stage type="low">À demi-voix.</stage>
 <p id='6'>
 	<s id='1'>Des formes... </s>
 </p>
@@ -210,7 +205,7 @@
 	<s id='1'>Vous me plaisantez, Madame, bien rigoureusement.</s>
 </p>
 </sp>
-<sp who='LA COMTESSE'><speaker>LA COMTESSE, faisant enlever la toilette. </speaker>
+<sp stage="dress" who='LA COMTESSE'><speaker>LA COMTESSE, faisant enlever la toilette. </speaker>
 <p id='11'>
 	<s id='1'>Je n'ai rien dit ; mais je vais dire quelque chose. </s>
 	<s id='2'>J'attends grand nombre de femmes ; car nous formons aussi un Club. </s>
@@ -220,7 +215,7 @@
 	<s id=''>Adieu, Chevalier, je vous conseille de ne plus revenir à ma toilette. </s>
 </p>
 </sp>
-<sp who='LE CHEVALIER'><speaker>LE CHEVALIER, souriant froidement.</speaker>
+<sp stage="smile/ironic" who='LE CHEVALIER'><speaker>LE CHEVALIER, souriant froidement.</speaker>
 <p id='12'>
 	<s id='1'>Madame la Comtesse, je suis poli : le congé que vous me donnez n'altérera pas mon caractère. </s>
 	<s id='2'>Je vois que nos amusements vous blessent ; je veux les justifier.</s>
@@ -231,7 +226,7 @@
 	<s id='1'>Justifier une singularité qui vous confond avec des sauvages !</s>
 </p>
 </sp>
-<sp who='LE CHEVALIER'><speaker>LE CHEVALIER, d'un ton léger. </speaker>
+<sp stage="happy" who='LE CHEVALIER'><speaker>LE CHEVALIER, d'un ton léger. </speaker>
 <p id='14'>
 	<s id='1'>Je crois que je puis l'entreprendre... </s>
 	<s id='2'>Qu'est-ce que c'est qu'une femme ? </s>
@@ -287,9 +282,9 @@
 	<s id='1'>La dette est plus qu'acquittée ; vous devez être content de vous... </s>
 	<s id='2'>Je vois que mes reproches ne troubleraient pas votre sécurité ; et vous êtes si singulier dans cet état d'innocence, que je fuis fâchée de voir interrompre le spectacle que vous me donnez. </s>
 </p>
-<stage type="[N/A]">La Marquise, la Baronne, et Madame de Merval s'avancent. Le Chevalier s'incline en les apercevant. La Comtesse leur recommande le silence par un signe que le Chevalier ne voit pas. En même-temps elle fait une révérence à celui-ci pour le congédier.</stage>
+<stage type="walk/silence/salut">La Marquise, la Baronne, et Madame de Merval s'avancent. Le Chevalier s'incline en les apercevant. La Comtesse leur recommande le silence par un signe que le Chevalier ne voit pas. En même-temps elle fait une révérence à celui-ci pour le congédier.</stage>
 </sp>
-<sp who='LE CHEVALIER'><speaker>LE CHEVALIER, à la Comtesse.</speaker>
+<sp stage="toward" who='LE CHEVALIER'><speaker>LE CHEVALIER, à la Comtesse.</speaker>
 <p id='22'>
 	<s id='1'>Non, la présence de ces dames ne me chasse point. </s>
 	<s id='2'>J'ai peut-être à me justifier aussi auprès d'elles.</s>
@@ -299,7 +294,7 @@
 	<s id='1'>Mesdames, si vous pensez comme Madame la Comtesse, vous devez avoir quelque chose a me dire... </s>
 	<s id='2'>J'aurai l'honneur de vous répondre.</s>
 </p>
-<stage type="[N/A]">Les Dames ne parlent pas. Il continue.</stage>
+<stage type="silence/continue">Les Dames ne parlent pas. Il continue.</stage>
 <p id='24'>
 	<s id='1'>Vous ne me croyez pas digne du moindre mot ? </s>
 	<s id='2'>Je serai plus juste envers vous. </s>
@@ -308,7 +303,7 @@
 	<s id='5'>Vous vous amuserez, vous disserterez. </s>
 	<s id='6'>La Philosophie, l'épigramme, les douces protestations de vous aimer toujours... *****</s>
 </p>
-<stage type="[N/A]">Les Dames ne parlent pas.</stage>
+<stage type="silence">Les Dames ne parlent pas.</stage>
 <p is='25'>
 	<s id='1'>Vous ne me dites rien ?... </s>
 	<s id='2'>Vous n'avez rien à me dire ?... </s>
@@ -319,7 +314,7 @@
 	<s id='7'>La bonté, l'indulgence sont une belle chose... </s>
 	<s id='8'>Adieu, Mesdames.</s>
 </p>
-<stage type="exit">Il sort ; elles éclatent de rire : il entend ces éclats et y répond par les siens.</stage>
+<stage type="exit/laugh">Il sort ; elles éclatent de rire : il entend ces éclats et y répond par les siens.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. La Comtesse, La Baronne, La Marquise, Madame de Merval.</head>
@@ -346,7 +341,7 @@
 <p id='4'>
 	<s id='1'>Oui, je vous crois en fonds pour cela... </s>
 </p>
-<stage type="[N/A]">Parlant presque toutes ensemble.</stage>
+<stage type="together">Parlant presque toutes ensemble.</stage>
 </sp>
 <sp who='LA BARONNE'><speaker>LA BARONNE.</speaker>
 <p id='5'>
@@ -358,7 +353,7 @@
 	<s id='1'>Nous amuserons-nous beaucoup ?</s>
 </p>
 </sp>
-<sp who='MADAME DE MERVAL'><speaker>MADAME DE MERVAL, à la Comtesse.</speaker>
+<sp stage="toward" who='MADAME DE MERVAL'><speaker>MADAME DE MERVAL, à la Comtesse.</speaker>
 <p id='7'>
 	<s id='1'>Avez-vous rédigé un plan ? </s>
 </p>
@@ -383,7 +378,7 @@
 	<s id='1'>Et, d'ailleurs, s'il est vrai, comme on le dit, qu'il soit le premier qui nous ait découvert une âme, il est bien juste que nous lui rendions la vie, à notre volonté. </s>
 </p>
 </sp>
-<sp who='LA MARQUISE'><speaker>LA MARQUISE, avec un peu de colère.</speaker>
+<sp stage="anger" who='LA MARQUISE'><speaker>LA MARQUISE, avec un peu de colère.</speaker>
 <p id='12'>
 	<s id='1'>Pour qui donc nous prenaient ces Messieurs, avant cette découverte ?</s>
 </p>
@@ -424,7 +419,7 @@
 	<s id='1'>Elle a raison : mais c'est que le dépit, l'humeur sont un peu contraires à la tranquillité de l'esprit. </s>
 </p>
 </sp>
-<sp who='LA BARONNE'><speaker>LA BARONNE, d'un ton riant.</speaker>
+<sp stage="happy" who='LA BARONNE'><speaker>LA BARONNE, d'un ton riant.</speaker>
 <p id='20'>
 	<s id='1'>J'ai une idée qui me tourmente... </s>
 	<s id='2'>Dites moi, Mesdames, dans nos assemblées vivrons-nous longtemps bien paisiblement ensemble ? </s>
@@ -471,7 +466,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. La Vicomtesse, La Comtesse, La Baronne, La Marquise, Madame de Merval.</head>
-<sp who='LA COMTESSE'><speaker>LA COMTESSE, avec douceur.</speaker>
+<sp stage="sweet" who='LA COMTESSE'><speaker>LA COMTESSE, avec douceur.</speaker>
 <p id='1'>
 	<s id='1'>Ma charmante ; vous faites une démarche bien sérieuse pour votre âge. </s>
 	<s id='2'>Abandonnerez-vous tous ces amusements frivoles ? </s>
@@ -563,7 +558,7 @@
 	<s id='1'>Votre société me convient déjà beaucoup : l'exemple fera le reste.</s>
 </p>
 </sp>
-<sp who='LA BARONNE'><speaker>LA BARONNE, avec amitié.</speaker>
+<sp stage="warmly" who='LA BARONNE'><speaker>LA BARONNE, avec amitié.</speaker>
 <p id='15'>
 	<s id='1'>Nous la recevrons donc à l'essai. </s>
 </p>
@@ -584,9 +579,9 @@
 <p id='18'>
 	<s id='1'>Dans une demi-heure, soit ; nous avons quelques visites à faire : nous revenons.</s>
 </p>
-<stage type="[N/A]">Les Dames se retirent.</stage>
+<stage type="exit">Les Dames se retirent.</stage>
 </sp>
-<sp who='LA COMTESSE'><speaker>LA COMTESSE, seule un moment.</speaker>
+<sp stage="alone" who='LA COMTESSE'><speaker>LA COMTESSE, seule un moment.</speaker>
 <p id='19'>
 	<s id='1'>Le Marquis ne vient point... depuis deux heures que je l'attends... </s>
 	<s id='2'>Descartes arrivera, et je ne saurai que lui dire : je ne connais de lui que son nom et sa gloire... </s>
@@ -727,7 +722,7 @@
 	<s id='7'>Descartes l'a rencontrée, l'a fait voir...</s>
 </p>
 </sp>
-<sp who='LA COMTESSE'><speaker>LA COMTESSE, avec vivacité.</speaker>
+<sp stage="stress" who='LA COMTESSE'><speaker>LA COMTESSE, avec vivacité.</speaker>
 <p id='21'>
 	<s id='1'>Et les femmes de chambre l'ont parée, depuis, tantôt, d'une robe, tantôt d'une autre. </s>
 	<s id='2'>Le monde, qui ne regarde rien en face, la voit passer habillée successivement de blanc, de noir, de rouge, et croit que ce sont trois femmes. </s>
@@ -831,7 +826,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. La Comtesse, La Marquise, La Baronne, La Vicomtesse, Madame de Merval, Le Marquis.</head>
-<sp who='LA MARQUISE'><speaker>LA MARQUISE, très vivement. </speaker>
+<sp stage="stress" who='LA MARQUISE'><speaker>LA MARQUISE, très vivement. </speaker>
 <p id='1'>
 	<s id='1'>C'est lui ; le voilà qui arrive : nous l'avons rencontré. </s>
 </p>
@@ -879,7 +874,7 @@
 	<s id='1'>Franchement, nous lui devons des honneurs : sans lui, les hommes nous prendraient peut-être encore pour des machines.</s>
 </p>
 </sp>
-<sp who='LA MARQUISE'><speaker>LA MARQUISE, avec humeur. </speaker>
+<sp stage="stress" who='LA MARQUISE'><speaker>LA MARQUISE, avec humeur. </speaker>
 <p id='10'>
 	<s id='1'>Ces Messieurs, avec leurs Clubs, leurs assemblées, voudraient peut-être nous remettre au temps qui a précédé Descartes.</s>
 </p>
@@ -889,7 +884,7 @@
 	<s id='1'>Oh, point de courroux. </s>
 	<s id='2'>Le voici.</s>
 </p>
-<stage type="[N/A]">Les Dames vont au-devant de lui.</stage>
+<stage type="closer">Les Dames vont au-devant de lui.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII. Descartes, Le Marquis, Les mêmes.</head>
@@ -900,7 +895,7 @@
 	<s id='3'>C'est l'ouvrier qui vient revoir son ouvrage.</s>
 </p>
 </sp>
-<sp who='LA COMTESSE'><speaker>LA COMTESSE, à Descartes. </speaker>
+<sp stage="toward" who='LA COMTESSE'><speaker>LA COMTESSE, à Descartes. </speaker>
 <p id='2'>
 	<s id='1'>Notre reconnaissance, Monsieur, est sans bornes. </s>
 	<s id='2'>Notre sexe vous devait déjà beaucoup. </s>
@@ -911,7 +906,7 @@
 <p id='3'>
 	<s id='1'>Elle est de mon côté, Mesdames ; et déjà je sens qu'il me sera difficile de m'acquitter. </s>
 </p>
-<stage type="[N/A]">On s'assoit.</stage>
+<stage type="sit">On s'assoit.</stage>
 </sp>
 <sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 <p id='4'>
@@ -1053,7 +1048,7 @@
 	<s id='1'>Vous avez dû connaître ce plaisir plus tard qu'un autre, Monsieur ; mais vous l'avez fait éprouver plutôt.</s>
 </p>
 </sp>
-<sp who='DESCARTES'><speaker>DESCARTES, en la regardant avec intérêt.</speaker>
+<sp stage="watch" who='DESCARTES'><speaker>DESCARTES, en la regardant avec intérêt.</speaker>
 <p id='27'>
 	<s id='1'>Toujours des choses senties, Madame ! </s>
 </p>
@@ -1097,7 +1092,7 @@
 <p id='34'>
 	<s id='1'>Exactement, plus d'hommes... </s>
 </p>	
-<stage type="[N/A]">En montrant le Marquis.</stage>
+<stage type="show">En montrant le Marquis.</stage>
 <p id='35'>
 	<s id='1'>En revanche, nous n'avons voulu admettre que Monsieur, qui nous reste exclusivement... </s>
 	<s id='2'>Des courses, des chevaux, des paris, des jeux éternels et ruineux... </s>
@@ -1132,7 +1127,7 @@
 	<s id=''>Mais je vous trouve bien instruite, Madame ; il faut qu'il s'y trouve quelque faux-frère bien indiscret ? </s>
 </p>
 </sp>
-<sp who='LA COMTESSE'><speaker>LA COMTESSE, gaiement. </speaker>
+<sp stage="happy" who='LA COMTESSE'><speaker>LA COMTESSE, gaiement. </speaker>
 <p id='41'>
 	<s id='1'>Non, Monsieur, on ne m'a rien confié ; je ne connais ni n'accueille les indiscrets ; mais c'est ainsi qu'il faut que cela soit, dès que l'entrée nous en est interdite. </s>
 </p>
@@ -1148,11 +1143,11 @@
 	<s id='2'>C'est le port où ils ont mis leur philosophie, et leurs âmes, rassasiées de plaisir, à l'abri des incursions de la beauté.</s>
 </p>
 </sp>
-<sp who='LA VICOMTESSE'><speaker>LA VICOMTESSE, avec douceur.</speaker>
+<sp stage="pain" who='LA VICOMTESSE'><speaker>LA VICOMTESSE, avec douceur.</speaker>
 <p id='44'>
 	<s id='1'>C'est un caprice, une mode d'un jour...</s>
 </p>
-<stage type="[N/A]">Avec intérêt.</stage>
+<stage type="focus">Avec intérêt.</stage>
 <p id='45'>
 	<s id='1'>Les hommes pourraient-ils croire qu'il y a un bonheur attaché à l'insensibilité ? </s>
 </p>
@@ -1175,7 +1170,7 @@
 	<s id='3'>Il y a là de bonnes têtes.</s>
 </p>
 </sp>
-<sp who='DESCARTES'><speaker>DESCARTES, avec un peu de chaleur.</speaker>
+<sp stage="warmly" who='DESCARTES'><speaker>DESCARTES, avec un peu de chaleur.</speaker>
 <p id='49'>
 	<s id='1'>Il ne faut pas les laisser triompher... </s>
 	<s id='2'>Mesdames, j'irai dans les Clubs ; j'irai y élever la voix, pour le bonheur commun. </s>
@@ -1206,18 +1201,18 @@
 	<s id='4'>À notre tour, nous trouverons dans le genre d'esprit qui nous est propre, dans nos âmes, dans nos talents réunis, le moyen précieux de nous acquitter en partie ; et si ces Messieurs s'instruisent à nous tromper, nous nous instruirons dans l'art de nous défendre.</s>
 </p>
 </sp>
-<sp who='DESCARTES'><speaker>DESCARTES, les réunissant toutes autour de lui, avec l'air du mystère.</speaker>
+<sp stage="closer/mystery" who='DESCARTES'><speaker>DESCARTES, les réunissant toutes autour de lui, avec l'air du mystère.</speaker>
 <p id='53'>
 	<s id='1'>Mesdames, c'est là le grand secret : votre indulgence les tient dans une douce sécurité. </s>
 	<s id='2'>Soyez en force contre leurs séductions, vous les verrez revenir, mériter par des soins, assidus ce que l'on accordait peut-être trop facilement à leur piquante indifférence.</s>
 </p>
-<stage type="[N/A]">On se lève.</stage>
+<stage type="stand">On se lève.</stage>
 </sp>
-<sp who='LA COMTESSE'><speaker>LA COMTESSE, avec beaucoup d'aménité.</speaker>
+<sp stage="stress" who='LA COMTESSE'><speaker>LA COMTESSE, avec beaucoup d'aménité.</speaker>
 <p id='54'>
 	<s id='1'>Regardez-nous déjà, Monsieur, comme des écolières très dociles... </s>
 </p>
-<stage type="[N/A]">Avec beaucoup de douceur.</stage>
+<stage type="sweet">Avec beaucoup de douceur.</stage>
 <p id='55'>
 	<s id='1'>Mais notre maître nous permet-il d'avoir encore un moment la liberté des opinions ? </s>
 </p>
@@ -1253,7 +1248,7 @@
 <p id='61'>
 	<s id='1'>Oh, quant à votre coiffure dans nos assemblées, la voilà toute trouvée.</s>
 </p>
-<stage type="[N/A]">Elle lui pose une couronne de laurier sur la tête.</stage>
+<stage type="dress">Elle lui pose une couronne de laurier sur la tête.</stage>
 </sp>
 <sp who='DESCARTES'><speaker>DESCARTES.</speaker>
 <p id='62'>
@@ -1265,7 +1260,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='8'><head>DIVERTISSEMENT.</head>
-<stage type="music">Air : (chanté par une femme.) </stage>
+<stage type="title">Air : (chanté par une femme.) </stage>
 <sp who='UNE FEMME'><speaker>UNE FEMME.</speaker>
 	<l id='1'>La Beauté, l'Esprit et les Grâces, </l>
 	<l id='2'>En voyageant, suivaient les traces </l>
@@ -1277,7 +1272,7 @@
 	<l id='8'>Leur dit-elle, d'un ton aimable : </l>
 	<l id='9'>Pour vous guider, je vaux bien le plaisir.</l>
 </sp>
-<sp who='UN DOMESTIQUE'><speaker>UN DOMESTIQUE, annonce à Descartes un député de la Touraine, qui entre en même-temps, une couronne à la main.</speaker>
+<sp stage="entrance/carry" who='UN DOMESTIQUE'><speaker>UN DOMESTIQUE, annonce à Descartes un député de la Touraine, qui entre en même-temps, une couronne à la main.</speaker>
 <p id='1'>
 	<s id='1'>Monsieur, un député de la province de Touraine, votre patrie. </s>
 </p>
@@ -1288,15 +1283,15 @@
 	<s id='2'>Mon cher compatriote ! </s>
 	<s id='3'>Mon ami !</s>
 </p>
-<stage type="[N/A]">Ils se jettent dans les bras l'un de l'autre.</stage>
+<stage type="hugh">Ils se jettent dans les bras l'un de l'autre.</stage>
 </sp>
-<sp who='LE TOURANGEAU'><speaker>LE TOURANGEAU, après l'avoir pressé long-temps.</speaker>
+<sp stage="hugh" who='LE TOURANGEAU'><speaker>LE TOURANGEAU, après l'avoir pressé longtemps.</speaker>
 <p id='2'>
 	<s id='1'>Je venais vous parler au nom de tous les Corps, prévenus que vous deviez arriver... </s>
 	<s id='2'>Je ne pense plus qu'à moi, qu'au plaisir de vous revoir, de vous embrasser. </s>
 </p>
 </sp>
-<sp who='DESCARTES'><speaker>DESCARTES, très attendri.</speaker>
+<sp stage="sweet" who='DESCARTES'><speaker>DESCARTES, très attendri.</speaker>
 <p id='3'>
 	<s id='1'>Il est donc un bonheur qu'on ne peut nous ravir. </s>
 	<s id='2'>Je l'éprouve délicieusement... </s>
@@ -1314,7 +1309,7 @@
 	<s id='1'>Oh, mon ami ! </s>
 </p>
 </sp>
-<sp who='LE TOURANGEAU'><speaker>LE TOURANGEAU, en montrant la couronne qu'il tient à la main.</speaker>
+<sp stage="show" who='LE TOURANGEAU'><speaker>LE TOURANGEAU, en montrant la couronne qu'il tient à la main.</speaker>
 <p id='6'>
 	<s id='1'>Mesdames, j'apportais le tribut le plus juste. </s>
 	<s id='2'>Vous m'avez prévenu : je ne saurais m'en plaindre : c'est à la Beauté sensible de couronner le Génie. </s>

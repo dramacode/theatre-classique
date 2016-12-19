@@ -9,8 +9,8 @@
 			<publicationStmt>	
 				<editor>Texte établi à partir de la transcription par Dr Roger Peters.</editor>
 				<publisher>publié par Paul FIEVRE, janvier 2014</publisher>
-			<idno></idno>
-</publicationStmt>
+				<idno>ARCHAMBAULT_JANIOTBATTUS</idno>
+			</publicationStmt>
 			<SourceDesc>
 				<genre>Proverbe</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -19,10 +19,6 @@
 				<periode>1771-1780</periode>
 				<taille>(mesure non pertinente)</taille>
 				<permalien>http://gallica.bnf.fr/ark:/12148/bpt6k108762c/f1.image</permalien>
-				<sources>
-					<source id='1'><author></author><text></text></source>
-				</sources>	
-
 			</SourceDesc>
 		</fileDesc>
 </teiHeader>
@@ -30,7 +26,7 @@
 	<front>
 		<docTitle>
 			<titlePart type="main">JANOT</titlePart>
-			<titlePart type="sub"> OU LES BATTUS PAIENT L'AMENDE</titlePart>
+			<titlePart type="sub">OU LES BATTUS PAIENT L'AMENDE</titlePart>
 			<titlePart type="sub">COMÉDIE-PROVERBE EN UN ACTE</titlePart>
 		</docTitle> 
 		<docDate value='1779'>M. DCC. LXXIX.</docDate>
@@ -38,7 +34,7 @@
 		<docImprint>
 			
 		</docImprint>
-		<printer id='SERCY'>À PARIS, chez CHARLES DE SERCY, au Palais, au sixième pilier de la Grand Salle, à  la Bonne Foi Couronnée.</printer>
+		<printer id='SERCY'>À PARIS, chez CHARLES DE SERCY, au Palais, au sixième pilier de la Grand Salle, à la Bonne Foi Couronnée.</printer>
 		<performance>
 			<premiere date='1779-06-06' location='Théâtre des Variétés amusantes'>Représenté pour la première fois le 6 juin 1779 au Théâtre des Variétés-Amusantes à Paris.</premiere>
 		</performance>
@@ -60,7 +56,7 @@
 <div1 type="act" n='1'><head></head>
 <div2 type="scene" n='1'><head>SCÈNE I.</head>
 <stage type="decor">Le théâtre représente un carrefour ; sur le devant, à la gauche du spectateur, est la boutique de Ragot, fripier ; vis-à-vis à droite, est la boutique de Simon, savetier, et dans le fond aussi à droite, la maison d'un commissaire, distinguée par un réverbère.</stage>
-<sp who='MADAME RAGOT'><speaker>MADAME RAGOT, seule, devant sa porte.</speaker>
+<sp stage="alone/location" who='MADAME RAGOT'><speaker>MADAME RAGOT, seule, devant sa porte.</speaker>
 <p id="1">
 	<s id="1">Voyez un peu de chien d'ivrogne ! </s>
 	<s id="2">C'est tous les jours le même train. </s>
@@ -84,7 +80,7 @@
 	<s id="1">D'où ce que je reviens ? </s>
 	<s id="2">Tiens, regard ça.</s>
 </p>
-<stage type="[N/A]">Il lui montre son tableau.</stage>
+<stage type="show">Il lui montre son tableau.</stage>
 </sp>
 <sp who="MADAME RAGOT"><speaker>MADAME RAGOT.</speaker>
 <p id="3">
@@ -104,7 +100,7 @@
 	<s id="3">Et ton argent, où est il ?</s>
 </p>
 </sp>
-<sp who='RAGOT'><speaker>RAGOT, en montrant le tableau.</speaker>
+<sp stage="show" who='RAGOT'><speaker>RAGOT, en montrant le tableau.</speaker>
 <p id='6'>
 	<s id='1'>Regarde ça, je te dis.</s>
 </p>
@@ -128,7 +124,7 @@
 	<s id="2">Est-ce que tu te moques de moi ?</s>
 </p>
 </sp>
-<sp who='RAGOT'><speaker>RAGOT, lui cognant le nez avec.</speaker>
+<sp stage="hit" who='RAGOT'><speaker>RAGOT, lui cognant le nez avec.</speaker>
 <p id='10'>
 	<s id='1'>Mais regarde-le donc, tu verras ce que c'est.</s>
 </p>
@@ -243,7 +239,7 @@
 	<s id="1">Vous ne pouviez pas vous faire aider par Janot ? </s>
 	<s id="2">Où est-ti, st'animal ?</s>
 </p>
-<stage type="[N/A]">Il appelle.</stage>
+<stage type="loud">Il appelle.</stage>
 <p id='29'>
 	<s id='1'>Janot ! </s>
 	<s id="2">Oh ! </s>
@@ -296,9 +292,9 @@
 	<s id="1">Ah ben, dame ! </s>
 	<s id="2">Donnez-vous le temps.</s>
 </p>
-<stage type="action/fall">Il tombe dans l'escalier en courant ; on entend le bruit.</stage>
+<stage type="fall/noise">Il tombe dans l'escalier en courant ; on entend le bruit.</stage>
 </sp>
-<sp who='MADAME RAGOT'><speaker>MADAME RAGOT, à Janot qui entre.</speaker>
+<sp stage="toward/exit" who='MADAME RAGOT'><speaker>MADAME RAGOT, à Janot qui entre.</speaker>
 <p id='9'>
 	<s id='1'>Ah ! </s>
 	<s id="2">le mal-à-droit !... </s>
@@ -461,12 +457,12 @@
 	<s id="2">Qu'est-ce que t'as fait des six sous que ma femme t'as donnés ce matin ?</s>
 </p>
 </sp>
-<sp who='JANOT'><speaker>JANOT, aparté.</speaker>
+<sp stage="aparte" who='JANOT'><speaker>JANOT, aparté.</speaker>
 <p id="37">
 	<s id="1">Ah ! </s>
-	<s id="2">jarni, je ne croyais pas qu'il savait ceux-là !</s>
+	<s id="2">Jarni, je ne croyais pas qu'il savait ceux-là !</s>
 </p>
-<stage type="forte">Haut.</stage>
+<stage type="loud">Haut.</stage>
 <p id="38">
 	<s id="1">Monsieur, j'en ai fait mettre des bouts à mes souyers, de quatre sous, par le savetier du coin, qui étaient tout percés à jour.</s>
 </p>
@@ -521,7 +517,7 @@
 	<s id="1">Oui, tu m'as l'air heureux aussi !... </s>
 	<s id="2">Quiens, ma femme, donne-lui de la monnaie ; moi, je vas mettre le couvert.</s>
 </p>
-<stage type="[N/A]">Il rentre.</stage>
+<stage type="exit">Il rentre.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Madame Ragot, Janot.</head>
@@ -570,7 +566,7 @@
 	<s id="2">Pardine, laissez faire, allez, je ne suis pas bête, moi. </s>
 	<s id="3">Vous savez ben qu'on ne m'attrape pas comme ça...</s>
 </p>
-<stage type="[N/A]">Seul.</stage>
+<stage type="alone">Seul.</stage>
 <p id="9">
 	<s id="1">C'est bon... </s>
 	<s id="2">J'avais ben encore queuques sous de monnaie que je n'ai pas voulu l'y dire, là-haut dans un coin de ma chambre ; je les garde pour aller déjeuner demain avec Mam'selle Suzon, qu'est fête, comme j'avons été dimanche dernier... </s>
@@ -585,7 +581,7 @@
 <p id="10">
 	<s id="1">Quiens, la vlà. </s>
 </p>
-<stage type="[N/A]">Elle lui donne.</stage>
+<stage type="give">Elle lui donne.</stage>
 </sp>
 <sp who="RAGOT"><speaker>JANOT.</speaker>
 <p id="11">
@@ -598,7 +594,7 @@
 	<s id="1">Eh mais ! </s>
 	<s id="2">Dieu me pardonne, je crois que vlà Mam'selle Suzon à sa fenêt' ; faut que je l'y dise un petit bon soir sans faire semblant de rien.</s>
 </p>
-<stage type="[N/A]">En criant.</stage>
+<stage type="shout">En criant.</stage>
 <p id='13'>
 	<s id='1'>Bonsoir, Mam'selle Suzon, comme que vous vous portez, s'il vous plaît ?</s>
 </p>	
@@ -784,7 +780,7 @@
 <p id="30">
 	<s id="1">C'est bon.</s>
 </p>
-<stage type="[N/A]">Il souffle sa lumière.</stage>
+<stage type="blow/light">Il souffle sa lumière.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Janot, Simon, à la fenêtre, à Suzon.</head>
@@ -794,31 +790,31 @@
 	<s id="2">Chienne de bavarde, avec qui que t'es ponc là à causer ?</s>
 </p>
 </sp>
-<sp who='SUZON'><speaker>SUZON, bas.</speaker>
+<sp stage="low" who='SUZON'><speaker>SUZON, bas.</speaker>
 <p id='2'>
 	<s id='1'>Avec personne, mon père.</s>
 </p>
 </sp>
-<sp who='JANOT'><speaker>JANOT, d'en bas de la rue.</speaker>
+<sp stage="loxation" who='JANOT'><speaker>JANOT, d'en bas de la rue.</speaker>
 <p id='3'>
 	<s id='1'>Hem ! </s>
 	<s id="2">Qu'est-ce que vous dites, Mam'selle Suzon ?</s>
 </p>
 </sp>
-<sp who='SIMON'><speaker>SIMON, à la fenêtre.</speaker>
+<sp stage="location" who='SIMON'><speaker>SIMON, à la fenêtre.</speaker>
 <p id='4'>
 	<s id='1'>Ah ! </s>
 	<s id="2">C'est encore ce petit gueux de Janot !</s>
 </p>
 </sp>
-<sp who='JANOT'><speaker>JANOT, d'en bas.</speaker>
+<sp stage="location" who='JANOT'><speaker>JANOT, d'en bas.</speaker>
 <p id='5'>
 	<s id='1'>Janot,... </s>
 	<s id="2">Oui, c'est moi... </s>
 	<s id="3">Jetez donc.</s>
 </p>
 </sp>
-<sp who='SIMON'><speaker>SIMON, déguisant sa voix.</speaker>
+<sp stage="imitate" who='SIMON'><speaker>SIMON, déguisant sa voix.</speaker>
 <p id='6'>
 	<s id='1'>Que je jette ?</s>
 </p>
@@ -829,27 +825,27 @@
 	<s id="2">Me vlà.</s>
 </p>
 </sp>
-<sp who='SIMON'><speaker>SIMON, déguisant sa voix.</speaker>
+<sp stage="imitate" who='SIMON'><speaker>SIMON, déguisant sa voix.</speaker>
 <p id='8'>
 	<s id='1'>Tout-à-l'heure. </s>
 	<s id="2">Attends, attends.</s>
 </p>
-<stage type="[N/A]">Il va chercher un pot, etc.</stage>
+<stage type="get">Il va chercher un pot, etc.</stage>
 <p id='9'>
 	<s id='1'>Y es-tu ?</s>
 </p>
 </sp>
-<sp who='JANOT'><speaker>JANOT, s'approchant sous la fenêtre, et tendant son bonnet.</speaker>
+<sp stage="cloaser/location/give" who='JANOT'><speaker>JANOT, s'approchant sous la fenêtre, et tendant son bonnet.</speaker>
 <p id='10'>
 	<s id='1'>Oui, jette.</s>
 </p>
 </sp>
-<sp who='SIMON'><speaker>SIMON, lui jetant sur le corps.</speaker>
+<sp stage="throw" who='SIMON'><speaker>SIMON, lui jetant sur le corps.</speaker>
 <p id='11'>
 	<s id='1'>Tiens, attrape.</s>
 </p>
 </sp>
-<sp who='JANOT'><speaker>JANOT, qui a tout reçu, etc.</speaker>
+<sp stage="get" who='JANOT'><speaker>JANOT, qui a tout reçu, etc.</speaker>
 <p id='12'>
 	<s id='1'>Ah ! </s>
 	<s id="2">Sarpédié ! </s>
@@ -859,7 +855,7 @@
 	<s id="6">Mais comme ça sent donc !... </s>
 	<s id="7">Est-ce que ça serait...</s>
 </p>
-<stage type="[N/A]">Il flaire.</stage>
+<stage type="smell">Il flaire.</stage>
 <p id='13'>
 	<s id='1'>Ah ! </s>
 	<s id="2">Jarniguoi ! </s>
@@ -878,7 +874,7 @@
 	<s id="15">Comment que j'allons donc faire ? </s>
 	<s id="16">Fait aller montrer ça tout chaud à not' maîtresse.</s>
 </p>
-<stage type="[N/A]">Il se retourne vivement pour s'en aller, et se cogne contre Dodinet.</stage>
+<stage type="turn/exit/hurt">Il se retourne vivement pour s'en aller, et se cogne contre Dodinet.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII. Janot, Dodinet.</head>
@@ -900,13 +896,13 @@
 	<s id="1">Eh ben, on va doucement, on ne se jette pas comme ça dans le monde.</s>
 </p>
 </sp>
-<sp who='JANOT'><speaker>JANOT, aparté.</speaker>
+<sp stage="aparte" who='JANOT'><speaker>JANOT, aparté.</speaker>
 <p id='4'>
 	<s id='1'>Eh ! </s>
 	<s id="2">Mais, queu rencontre ! </s>
 	<s id="3">Y me semble j'ai vu ste voix-là queuque part...</s>
 </p>
-<stage type="forte">Haut.</stage>
+<stage type="loud">Haut.</stage>
 <p id='5'>
 	<s id='1'>Qui est-là ?</s>
 </p>
@@ -916,12 +912,12 @@
 	<s id="1">Qui est-là, toi-même ?</s>
 </p>
 </sp>
-<sp who='JANOT'><speaker>JANOT, aparté.</speaker>
+<sp stage="aparte" who='JANOT'><speaker>JANOT, aparté.</speaker>
 <p id='7'>
 	<s id='1'>Oh ! </s>
 	<s id="2">C'est lui sûrement.</s>
 </p>
-<stage type="forte">Haut.</stage>
+<stage type="loud">Haut.</stage>
 <p id='8'>
 	<s id='1'>Je m'appelle Janot.</s>
 </p>
@@ -947,7 +943,7 @@
 <p id="11">
 	<s id="1">De tout mon cœur.</s>
 </p>
-<stage type="[N/A]">Ils s'embrassent.</stage>
+<stage type="kiss">Ils s'embrassent.</stage>
 <p id='12'>
 	<s id='1'>Eh ! </s>
 	<s id="2">mais, tu es tout mouillé !</s>
@@ -959,7 +955,7 @@
 	<s id="2">C'est une histoire que je te vas conter. </s>
 	<s id="3">Quiens, imagine-toi...</s>
 </p>
-<stage type="[N/A]">En gesticulant il touche l'épée de Dodinet.</stage>
+<stage type="fight">En gesticulant il touche l'épée de Dodinet.</stage>
 <p id='14'>
 	<s id='1'>Mais, qu'est-ce que t'as donc là ?</s>
 </p>
@@ -991,11 +987,11 @@
 	<s id="2">Je t'en réponds, va... </s>
 	<s id="3">Mais...</s>
 </p>
-<stage type="[N/A]">Il flaire.</stage>
+<stage type="small">Il flaire.</stage>
 <p id='20'>
 	<s id='1'>Viens un peu de ce côté-ci.</s>
 </p>
-<stage type="[N/A]">Il mène à l'autre bout du théâtre.</stage>
+<stage type="walk/location">Il mène à l'autre bout du théâtre.</stage>
 <p id='21'>
 	<s id='1'>Eh ben, ton histoire ?</s>
 </p>
@@ -1005,19 +1001,19 @@
 	<s id="1">Imagine-toi donc, je m'en allais chercher not' soupé, et pis vlà que...</s>
 </p>
 </sp>
-<sp who='DODINET'><speaker>DODINET, aparté.</speaker>
+<sp stage="aparte" who='DODINET'><speaker>DODINET, aparté.</speaker>
 <p id='23'>
 	<s id='1'>Queu diable d'odeur ! </s>
 	<s id="2">Quiens, reculons-nous ici.</s>
 </p>
-<stage type="[N/A]">Il recule d'un autre côté.</stage>
+<stage type="walk">Il recule d'un autre côté.</stage>
 </sp>
 <sp who="RAGOT"><speaker>JANOT.</speaker>
 <p id="24">
 	<s id="1">Et pis, vlà donc que je passais, en passant ; et pis tout d'un coup...</s>
 </p>
 </sp>
-<sp who='DODINET'><speaker>DODINET, reculant toujours, aparté.</speaker>
+<sp stage="away/aparte" who='DODINET'><speaker>DODINET, reculant toujours, aparté.</speaker>
 <p id='25'>
 	<s id='1'>Mais c'est encore pus fort ici.</s>
 </p>
@@ -1051,9 +1047,9 @@
 	<s id="3">Ah ! </s>
 	<s id="4">Quiens, c'est ça, peut-être.</s>
 </p>
-<stage type="[N/A]">Il lui porte son bras sous le nez.</stage>
+<stage type="slap">Il lui porte son bras sous le nez.</stage>
 </sp>
-<sp who='DODINET'><speaker>DODINET, le repoussant.</speaker>
+<sp stage="push" who='DODINET'><speaker>DODINET, le repoussant.</speaker>
 <p id='31'>
 	<s id='1'>Ah ! </s>
 	<s id="2">Fi donc ! </s>
@@ -1261,7 +1257,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='8'><head>SCÈNE VIII.</head>
-<sp who='JANOT'><speaker>JANOT, seul.</speaker>
+<sp stage="alone" who='JANOT'><speaker>JANOT, seul.</speaker>
 <p id="1">
 	<s id="1">Pardine, je suis ben heureux de l'avoir rencontre ! </s>
 	<s id="2">Sans lui, j'aurais encore perdu ça, moi. </s>
@@ -1269,7 +1265,7 @@
 	<s id="4">On tire part de tout. </s>
 	<s id="5">C'est là qui m'a dit le commissaire, je crois, voyons t'un peu, holà.</s>
 </p>
-<stage type="[N/A]">Il frappe.</stage>
+<stage type="knock">Il frappe.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='9'><head>SCÈNE IX. Janot, Un Clerc de Commissaire.</head>
@@ -1340,7 +1336,7 @@
 	<s id="1">Oui, Monsieur, je viens faire une plainte contre...</s>
 </p>
 </sp>
-<sp who='LE CLERC'><speaker>LE CLERC, l'interrompant.</speaker>
+<sp stage="interrupt" who='LE CLERC'><speaker>LE CLERC, l'interrompant.</speaker>
 <p id="13">
 	<s id="1">Un instant, mon ami, pour faire une plainte, il y a une petite formalité à observer.</s>
 </p>
@@ -1398,7 +1394,7 @@
 </p>
 <stage type="exit">Il s'en va.</stage>
 </sp>
-<sp who='JANOT'><speaker>JANOT, sur le devant.</speaker>
+<sp stage="front" who='JANOT'><speaker>JANOT, sur le devant.</speaker>
 <p id="22">
 	<s id="1">Une belle chienne de raison ! </s>
 	<s id="2">C'est justement-là le moment de se plaindre, ou jamais... </s>
@@ -1470,7 +1466,7 @@
 <p id="32">
 	<s id="1">Le vlà, Monsieur.</s>
 </p>
-<stage type="[N/A]">Il montre son écu.</stage>
+<stage type="show">Il montre son écu.</stage>
 </sp>
 <sp who="LE CLERC"><speaker>LE CLERC.</speaker>
 <p id="33">
@@ -1632,20 +1628,20 @@
 	<s id="2">pourvu que vous en ayez trois ou quatre, cela suffira... </s>
 	<s id="3">Voyons, combien avez-vous encore là ? </s>
 </p>
-<stage type="[N/A]">Il regarde dans sa main.</stage>
+<stage type="watch">Il regarde dans sa main.</stage>
 </sp>
 <sp who="RAGOT"><speaker>JANOT.</speaker>
 <p id="60">
 	<s id="1">C'est un p'tit écu, ça.</s>
 </p>
 </sp>
-<sp who='LE CLERC'><speaker>LE CLERC, le prenant.</speaker>
+<sp stage="get" who='LE CLERC'><speaker>LE CLERC, le prenant.</speaker>
 <note type="L">Serrer : Se dit aussi, enfermer, arranger, mettre à couvert en lieu sûr. [F]</note>
 <p id="61">
 	<s id="1">Un petit écu, eh bien ? </s>
 	<s id="2">C'est pour quatre assignations, il y en aura assez.</s>
 </p>
-<stage type="[N/A]">Il serre l'écu.</stage>
+<stage type="get">Il serre l'écu.</stage>
 </sp>
 <sp who="RAGOT"><speaker>JANOT.</speaker>
 <p id="62">
@@ -1786,7 +1782,7 @@
 	<s id="4">Comment vous avez donc les oreilles dures !... </s>
 	<s id="5">J'étais en bas, moi, et une fille qui était à une fenêtre, là-haut voyez-vous !... </s>
 </p>
-<stage type="[N/A]">En gesticulant, il lui porte son bras sous le nez ; le clerc sent l'odeur.</stage>
+<stage type="animate/hit/smell">En gesticulant, il lui porte son bras sous le nez ; le clerc sent l'odeur.</stage>
 </sp>
 <sp who="LE CLERC"><speaker>LE CLERC.</speaker>
 <p id="85">
@@ -1808,7 +1804,7 @@
 	<s id="2">Qu'est-ce donc ?</s>
 </p>
 </sp>
-<sp who='JANOT'><speaker>JANOT, lui reportant au nez.</speaker>
+<sp stage="threat" who='JANOT'><speaker>JANOT, lui reportant au nez.</speaker>
 <p id='88'>
 	<s id='1'>Pardine ! </s>
 	<s id="2">Vous ne devinez pas ?</s>
@@ -1851,7 +1847,7 @@
 	<s id="2">Eh ben, conseillez-moi donc à présent ?</s>
 </p>
 </sp>
-<sp who='LE CLERC'><speaker>LE CLERC, se reculant de lui.</speaker>
+<sp stage="away" who='LE CLERC'><speaker>LE CLERC, se reculant de lui.</speaker>
 <p id='95'>
 	<s id='1'>Eh bien, mon ami, je te conseille de t'en aller à cette heure.</s>
 </p>
@@ -1871,20 +1867,20 @@
 	<s id="1">Mais, écoutez donc...</s>
 </p>
 </sp>
-<sp who='LE CLERC'><speaker>LE CLERC, se reculant toujours.</speaker>
+<sp stage="away" who='LE CLERC'><speaker>LE CLERC, se reculant toujours.</speaker>
 <p id="99">
 	<s id="1">Non, non, je n'ai pas le temps ; tu n'as plus à te plaindre, tu n'as plus d'argent... </s>
 	<s id="2">Sois tranquille, va, va, te nettoyer, va, mon ami. </s>
 </p>
-<stage type="[N/A]">Il rentre chez lui.</stage>
+<stage type="exit">Il rentre chez lui.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='10'><head>SCÈNE X.</head>
-<sp who='JANOT'><speaker>JANOT, seul.</speaker>
+<sp stage="alone" who='JANOT'><speaker>JANOT, seul.</speaker>
 <p id="1">
 	<s id="1">Oui, il a raison, je commence à me refroidir là ; faut que j'aille chercher not' souper cheux le pâtissier, je me sécherai à son four.</s>
 </p>
-<stage type="[N/A]">Il marche, et aperçoit un des garçons de la boutique, qui passe.</stage>
+<stage type="walk/watch">Il marche, et aperçoit un des garçons de la boutique, qui passe.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='11'><head>SCÈNE XI. Janot, Un Garçon Pâtissier, portant un plat.</head>
@@ -1952,11 +1948,11 @@
 <p id="11">
 	<s id="1">Oui, oui, Monsieur Pierre va me trouver ça.</s>
 </p>
-<stage type="[N/A]">Le garçon s'en va, et Janot va à la boutique.</stage>
+<stage type="exit/location">Le garçon s'en va, et Janot va à la boutique.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='12'><head>SCÈNE XII. Ragot, Le Pâtissoer, Janot.</head>
-<sp who='RAGOT'><speaker>RAGOT, sortant de chez lui avec sa serviette.</speaker>
+<sp stage="entrance" who='RAGOT'><speaker>RAGOT, sortant de chez lui avec sa serviette.</speaker>
 <p id="1">
 	<s id="1">Eh ben ! </s>
 	<s id="2">Mais ventrebleu ! </s>
@@ -1967,7 +1963,7 @@
 	<s id="7">ça me donne la pépie... </s>
 	<s id="8">Y sera à causer avec le cabaretier ; je vas le faire avancer, moi...</s>
 </p>
-<stage type="[N/A]">On entend arrière Janot qui dispute avec le pâtissier.</stage>
+<stage type="threat/toward">On entend arrière Janot qui dispute avec le pâtissier.</stage>
 </sp>
 <sp who="RAGOT"><speaker>JANOT.</speaker>
 <p id="2">
@@ -1981,14 +1977,14 @@
 	<s id="1">N'est-ce pas lui que j'entends donc ?</s>
 </p>
 </sp>
-<sp who='LE PÂTISSIER'><speaker>LE PÂTISSIER, derrière le théâtre.</speaker>
-<note type="L">Rosser : Terme populaire. Bâtonnerrudement quelqu'un, le traiter en rosse [méchant cheval] et se dit par extension de toutes sortes de mauvais triatements. [F]</note>
+<sp stage="location" who='LE PÂTISSIER'><speaker>LE PÂTISSIER, derrière le théâtre.</speaker>
+<note type="L">Rosser : Terme populaire. Bâtonner rudement quelqu'un, le traiter en rosse [méchant cheval] et se dit par extension de toutes sortes de mauvais triatements. [F]</note>
 <p id='4'>
 	<s id='1'>Allons, allons, va t'en, villain ; va te secher ailleurs. </s>
 </p>
-<stage type="[N/A]">On l'entend rosser à coups de torchon.</stage>
+<stage type="hit">On l'entend rosser à coups de torchon.</stage>
 </sp>
-<sp who='JANOT'><speaker>JANOT, criant derrière.</speaker>
+<sp stage="shout" who='JANOT'><speaker>JANOT, criant derrière.</speaker>
 <p id='5'>
 	<s id='1'>Ahi ! </s>
 	<s id="2">ahi ! </s>
@@ -2005,14 +2001,14 @@
 </sp>
 </div2>
 <div2 type="scene" n='13'><head>SCÈNE XIII. Janot, Ragot, rentrant.</head>
-<sp who='JANOT'><speaker>JANOT, aparté, sans voir Ragot.</speaker>
+<sp stage="aparte/watch" who='JANOT'><speaker>JANOT, aparté, sans voir Ragot.</speaker>
 <p id="1">
 	<s id="1">Eh ben ! </s>
 	<s id="2">Ne me vlà pas mal, moi, à st'heure ! </s>
 	<s id="3">Ce diable de maître clerc qui ne m'a pas laissé tant seulement de quoi payer la cuisson de mon gigot !</s>
 </p>
 </sp>
-<sp who='RAGOT'><speaker>RAGOT, revenant.</speaker>
+<sp stage="back" who='RAGOT'><speaker>RAGOT, revenant.</speaker>
 <p id='2'>
 	<s id='1'>Ah ! </s>
 	<s id="2">Te vlà donc, à la fin ! </s>
@@ -2085,7 +2081,7 @@
 	<s id="1">Si fait, elle m'a donné une écu pour le changer, de six francs, là tantôt.</s>
 </p>
 </sp>
-<sp who='RAGOT'><speaker>RAGOT, en colère.</speaker>
+<sp stage="anger" who='RAGOT'><speaker>RAGOT, en colère.</speaker>
 <p id="14">
 	<s id="1">Elle t'a donné six livres, misérable ! </s>
 	<s id="2">Eh ! </s>
@@ -2098,9 +2094,9 @@
 	<s id="2">Monsieur, vous n'entendez donc pas ? </s>
 	<s id="3">Je vous dis que c'est le commissaire, là, pour une plainte, avec son clerc, que Dodinet m'a dit, d'une histoire, dessus ma veste, par une fenêtre, où ce que vous voyez ben, tenez...</s>
 </p>
-<stage type="[N/A]">Il lui porte de même son bras sous le nez.</stage>
+<stage type="threat">Il lui porte de même son bras sous le nez.</stage>
 </sp>
-<sp who='RAGOT'><speaker>RAGOT, le repoussant.</speaker>
+<sp stage="push" who='RAGOT'><speaker>RAGOT, le repoussant.</speaker>
 <p id='16'>
 	<s id='1'>Ah ! </s>
 	<s id="2">Le vilain cochon ! </s>
@@ -2182,7 +2178,7 @@
 	<s id="2">Va les chercher... </s>
 	<s id="3">Bonsoir.</s>
 </p>
-<stage type="[N/A]">Il lui ferme la porte sur le nez.</stage>
+<stage type="close">Il lui ferme la porte sur le nez.</stage>
 </sp>
 <sp who="RAGOT"><speaker>JANOT.</speaker>
 <p id="29">
@@ -2196,14 +2192,14 @@
 </sp>
 </div2>
 <div2 type="scene" n='14'><head>SCÈNE XIV.</head>
-<sp who='JANOT'><speaker>JANOT, seul.</speaker>
+<sp stage="alone" who='JANOT'><speaker>JANOT, seul.</speaker>
 <p id="1">
 	<s id="1">Pardine ! </s>
 	<s id="2">Me vlà ben à mon aise ! </s>
 	<s id="3">Vlà que st'affaire-là s'entame pas mal ! </s>
 	<s id="4">Un beau conseil qui m'a donné là lui, avec sa plainte, Dodinet, et son soufflet de dix pistoles.</s>
 </p>
-<stage type="[N/A]">Il frappe à la porte de Ragot.</stage>
+<stage type="hurt">Il frappe à la porte de Ragot.</stage>
 <p id="2">
 	<s id="1">Eh ben, Monsieur, me rendez-vous mon habit donc ?...</s>
 </p>
@@ -2215,7 +2211,7 @@
 	<s id="4">Toujours courir ! </s>
 	<s id="5">C'est être ben traître à son corps aussi...</s>
 </p>
-<stage type="[N/A]">Il frappe encore.</stage>
+<stage type="hit">Il frappe encore.</stage>
 <p id="4">
 	<s id="1">Eh ben ! </s>
 	<s id="2">Monsieur, c'est-ti pour rire donc ? </s>
@@ -2223,7 +2219,7 @@
 	<s id="4">Mon habit ?</s>
 </p>
 </sp>
-<sp who='RAGOT'><speaker>RAGOT, lui jetant par la fenêtre son habit.</speaker>
+<sp stage="throw/location" who='RAGOT'><speaker>RAGOT, lui jetant par la fenêtre son habit.</speaker>
 <p id="5">
 	<s id="1">Quiens, le vlà ; mais va-t-en, et ne me fais pas descendre, sinon je t'irai habiller, moi.</s>
 </p>
@@ -2242,7 +2238,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='15'><head>SCÈNE XV.</head>
-<sp who='JANOT'><speaker>JANOT, seul.</speaker>
+<sp stage="alone" who='JANOT'><speaker>JANOT, seul.</speaker>
 <p id="1">
 	<s id="1">À déjeuner ! </s>
 	<s id="2">En attendant faudrait souper, et je n'ai pas le sou, et je ne connais personne de connaissance enfin. </s>
@@ -2257,7 +2253,7 @@
 	<s id="11">Je suis enragé après ste Mam'selle Suzon, qu'est cause de ça ; faut que je m'en venge... </s>
 	<s id="12">J'y vas casser ses vitres. </s>
 </p>
-<stage type="[N/A]">Il ramasse des pierres et les jette.</stage>
+<stage type="get/throw">Il ramasse des pierres et les jette.</stage>
 <p id="2">
 	<s id="1">Quiens, attrape ! </s>
 	<s id="2">Pan, encore une !... </s>
@@ -2266,7 +2262,7 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n='16'><head>SCÈNE XVI. Simon, à sa fenêtre, Janot, jetant des pierres.</head>
+<div2 type="scene" n='16' stage="location/throw"><head>SCÈNE XVI. Simon, à sa fenêtre, Janot, jetant des pierres.</head>
 <sp who="SIMON"><speaker>SIMON.</speaker>
 <p id="1">
 	<s id="1">Parle donc, hé ! </s>
@@ -2304,14 +2300,14 @@
 <p id="6">
 	<s id="1">Arrive donc, si t'as du cœur ; en attendant, attrape toujours.</s>
 </p>
-<stage type="[N/A]">Il jette des pierres. Aparté.</stage>
+<stage type="throw/aparte">Il jette des pierres. Aparté.</stage>
 <p id="7">
 	<s id="1">Si y pouvait venir me donner queuques giffes, tant seulement, ça rendrait mon affaire ben meilleure ; comme disait Dodinet, y me manquait ça tantôt dedans ma plainte.</s>
 </p>
 </sp>
 </div2>
-<div2 type="scene" n='17'><head>SCÈNE XVII. Janot, Simon, en entrant, le rosse avec son tire-pied.</head>
-<sp who='SIMON'><speaker>SIMON, frappant.</speaker>
+<div2 type="scene" n='17' stage="entrance/hit"><head>SCÈNE XVII. Janot, Simon, en entrant, le rosse avec son tire-pied.</head>
+<sp stage="hit" who='SIMON'><speaker>SIMON, frappant.</speaker>
 <note type="L">Gueux : Indigent, qui est réduit à mendier. [FC]</note>
 <p id='1'>
 	<s id='2'>Ah ! </s>
@@ -2326,7 +2322,7 @@
 	<s id="3">Tu me prends par derrière !</s>
 </p>
 </sp>
-<sp who='SIMON'><speaker>SIMON, le rossant.</speaker>
+<sp stage="hit" who='SIMON'><speaker>SIMON, le rossant.</speaker>
 <p id='3'>
 	<s id='1'>Quiens, en vlà aussi par-devant.</s>
 </p>
@@ -2337,7 +2333,7 @@
 	<s id="2">Donnes-en donc encore un pour voir.</s>
 </p>
 </sp>
-<sp who='SIMON'><speaker>SIMON, le battant.</speaker>
+<sp stage="hit" who='SIMON'><speaker>SIMON, le battant.</speaker>
 <p id='5'>
 	<s id='1'>Quiens, polisson, en vlà encore un.</s>
 </p>
@@ -2361,7 +2357,7 @@
 	<s id="2">C'est un peu trop fort aussi ! </s>
 	<s id="3">Pisque tu le prends sur ce ton-là, je m'en vas te parler, moi.</s>
 </p>
-<stage type="[N/A]">Il se met à crier.</stage>
+<stage type="shout">Il se met à crier.</stage>
 <p id='9'>
 	<s id='1'>Au guet ! </s>
 	<s id="2">Au voleur ! </s>
@@ -2390,7 +2386,7 @@
 	<s id="2">Quiens, drôle ! </s>
 	<s id="3">Vas lui porter ça...</s>
 </p>
-<stage type="[N/A]">Après l'avoir bien rossé, il se sauve.</stage>
+<stage type="hit/escape">Après l'avoir bien rossé, il se sauve.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='18'><head>SCÈNE XVIII. Madame Ragot, à sa fenêtre, Janot.</head>
@@ -2416,19 +2412,19 @@
 </sp>
 </div2>
 <div2 type="scene" n='19'><head>SCÈNE XIX. Simon, Madame Ragot, Ragot, Suzon, à leurs fenêtres, Janot.</head>
-<sp who='SIMON'><speaker>SIMON, criant à sa fenêtre.</speaker>
+<sp stage="shout" who='SIMON'><speaker>SIMON, criant à sa fenêtre.</speaker>
 <p id='1'>
 	<s id='1'>Au guet ! </s>
 	<s id="2">Au voleur !</s>
 </p>
 </sp>
-<sp who='JANOT'><speaker>JANOT, étonné de l'entendre.</speaker>
+<sp stage="estonish" who='JANOT'><speaker>JANOT, étonné de l'entendre.</speaker>
 <p id='2'>
 	<s id='1'>Ah ben ! </s>
 	<s id="2">En vlà encore une bonne celle-là</s>
 </p>
 </sp>
-<sp who='MADAME RAGOT'><speaker>MADAME RAGOT, criant aussi, et Ragot avec elle, ainsi que Suzon.</speaker> 
+<sp stage="shout" who='MADAME RAGOT'><speaker>MADAME RAGOT, criant aussi, et Ragot avec elle, ainsi que Suzon.</speaker> 
 <p id='3'>
 	<s id='1'>Au guet ! </s>
 	<s id="2">Au guet !... </s>
@@ -2482,7 +2478,7 @@
 	<s id="2">Monsieur, c'est que... </s>
 	<s id="3">Tenez, vlà comme ça est venu.</s>
 </p>
-<stage type="[N/A]">Il veut lui faire sentir son bras, etc.</stage>
+<stage type="smell">Il veut lui faire sentir son bras, etc.</stage>
 </sp>
 <sp who="LE CAPORAL"><speaker>LE CAPORAL.</speaker>
 <p id="8">
@@ -2522,7 +2518,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='21'><head>SCÈNE XXI. Les Précédents, Le Clerc du Commissaire.</head>
-<sp who='LE CLERC'><speaker>LE CLERC, à Janot.</speaker>
+<sp stage="toward" who='LE CLERC'><speaker>LE CLERC, à Janot.</speaker>
 <p id="1">
 	<s id="1">Eh bien ! </s>
 	<s id="2">Te voilà encore ! </s>
@@ -2535,7 +2531,7 @@
 	<s id="2">Je n'ai pus d'argent !... </s>
 	<s id="3">C'est pas moi, Monsieur, c'est ce drôle-là qui se plaint. </s>
 </p>
-<stage type="[N/A]">Il montre le savetier Simon.</stage>
+<stage type="show">Il montre le savetier Simon.</stage>
 </sp>
 <sp who="SIMON"><speaker>SIMON.</speaker>
 <p id="3">
@@ -2565,7 +2561,7 @@
 	<s id="3">Là, par une fenêtre...</s>
 </p>
 </sp>
-<sp who='LE CLERC'><speaker>LE CLERC, se reculant de lui.</speaker>
+<sp stage="walk/away" who='LE CLERC'><speaker>LE CLERC, se reculant de lui.</speaker>
 <p id="8">
 	<s id="1">Oui, oui, je sais ce qu c'est... </s>
 	<s id="2">Mais il fallait te retirer, comme je te l'ai dit, et ne pas te faire justice toi-même. </s>
@@ -2630,7 +2626,7 @@
 	<s id="3">Fort bien jugé !</s>
 </p>
 </sp>
-<sp who='SIMON'><speaker>SIMON, à la fenêtre.</speaker>
+<sp stage="location" who='SIMON'><speaker>SIMON, à la fenêtre.</speaker>
 <p id='19'>
 	<s id='1'>Oui, je m'y accorde.</s>
 </p>
@@ -2656,7 +2652,7 @@
 <p id="23">
 	<s id="1">Oui, tu as l'alternative, ainsi arrange-toi avec ces messieurs.</s>
 </p>
-<stage type="[N/A]">Il rentre chez lui.</stage>
+<stage type="entrance">Il rentre chez lui.</stage>
 </sp>
 <sp who="RAGOT"><speaker>JANOT.</speaker>
 <p id="24">
@@ -2681,12 +2677,12 @@
 	<s id="2">Ça n'est-ti pas enrageant une jugerie comme ça !... </s>
 	<s id="3">Allons donc, pisqu'il faut en passer par-là, emportez le paquet...</s>
 </p>
-<stage type="[N/A]">Aparté.</stage>
+<stage type="aparte">Aparté.</stage>
 <p id='28'>
 	<s id='1'>Et que le diable vous emporte avec...</s>
 </p>
 </sp>
-<sp who='LE CAPORAL'><speaker>LE CAPORAL, prenant le paquet.</speaker>
+<sp stage="get" who='LE CAPORAL'><speaker>LE CAPORAL, prenant le paquet.</speaker>
 <p id="29">
 	<s id="1">À la bonne heure :</s>
 </p>
@@ -2698,35 +2694,35 @@
 <p id="31">
 	<s id="1">Pour toi, mon ami, va te coucher, crois-moi, car si je te trouve en repassant, je te mettrai à couvert ; au revoir.</s>
 </p>
-<stage type="exit">Il s'en va avec le Guet.</stage>
+<stage type="exit">Il s'en va avec le guet.</stage>
 </sp>
 <sp who="MADAME RAGOT"><speaker>MADAME RAGOT.</speaker>
 <p id="32">
 	<s id="1">C'est ben fait : il le mérite ben. </s>
 </p>
-<stage type="[N/A]">Elle lui ferme la fenêtre au nez.</stage>
+<stage type="close">Elle lui ferme la fenêtre au nez.</stage>
 </sp>
 <sp who="RAGOT"><speaker>RAGOT.</speaker>
 <p id="33">
 	<s id="1">Adieu, mauvais sujet...</s>
 </p>
-<stage type="[N/A]">Il lui ferme aussi la fenêtre.</stage>
+<stage type="close">Il lui ferme aussi la fenêtre.</stage>
 </sp>
 <sp who="SIMON"><speaker>SIMON.</speaker>
 <p id="34">
 	<s id="1">Bonsoir, mon p'tit ami...</s>
 </p>
-<stage type="[N/A]">Il lui ferme la fenêtre.</stage>
+<stage type="close">Il lui ferme la fenêtre.</stage>
 </sp>
 <sp who="SUZON"><speaker>SUZON.</speaker>
 <p id="35">
 	<s id="1">Adieu, mon pauvre Janot.</s>
 </p>
-<stage type="[N/A]">Elle ferme la fenêtre.</stage>
+<stage type="close">Elle ferme la fenêtre.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='22'><head>SCÈNE XXII, et dernière.</head>
-<sp who='JANOT'><speaker>JANOT, seul.</speaker>
+<sp stage="alone" who='JANOT'><speaker>JANOT, seul.</speaker>
 <p id="1">
 	<s id="1">Au diable !... </s>
 	<s id="2">Eh ben ! </s>

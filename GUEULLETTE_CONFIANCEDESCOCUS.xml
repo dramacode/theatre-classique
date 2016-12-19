@@ -9,8 +9,8 @@
 		<publicationStmt>
 			<editor>Saisie du texte : S. Pestel pour la collection électronique de la Bibliothèque Municipale de Lisieux (30.VII.1998), Texte relu par : A. Guézou.</editor>
 			<publisher>publié par Paul FIEVRE novembre 2013</publisher>
-		<idno></idno>
-</publicationStmt>
+			<idno>GUEULLETTE_CONFIANCEDESCOCUS</idno>
+		</publicationStmt>
 		<SourceDesc>
 			<genre>Parade</genre>
 			<inspiration>moeurs françaises</inspiration>
@@ -18,7 +18,7 @@
 			<type>prose</type>
 			<periode>1711-1720</periode>
 			<taille>(mesure non pertinente)</taille>
-			<permalien></permalien>
+			<permalien>http://gallica.bnf.fr/ark:/12148/bpt6k5713311q</permalien>
 		</SourceDesc>
 		<edStmt></edStmt>
 </fileDesc>
@@ -29,14 +29,10 @@
 		<titlePart type="main">LA CONFIANCE DES COCUS</titlePart>
 		<titlePart type="sub">PARADE.</titlePart>
 	</docTitle>
-	<docDate value='1720'>M. DCC. XX.</docDate>
+	<docDate value="1756">M. DCC. LVI.</docDate>
 	<docAuthor id='GUEULLETTE, Thomas-Simon' bio='gueulette'>par M. GUEULLETTE</docAuthor>
 	<docImprint>
-		<approbation value=''></approbation>
-			<privilege value=''><head></head>
-			</privilege>
-			<acheveImprime value=''></acheveImprime>
-			<printer id=''></printer>
+		<printer id="">À MAHON, De l'imprimerie de GILLES LANGLOIS à l'enseigne de l'Étrille.</printer>
 	</docImprint>
 	<performance>
 		<premiere date='1720' location='En société'>Représentée pour la première fois en société en 1720.</premiere>
@@ -48,12 +44,13 @@
 		<castItem><role id="PICOTIN" sex="1" type="H" statut='filou' age='A' stat_amour='néant'>PICOTIN</role>.</castItem>
 		<castItem><role id="GILLES" sex="1" type="H" statut='filou' age='A' stat_amour='néant'>GILLES</role>.</castItem>
 		</castList>
-	<set location='Paris' country='France' periode='XVIIIème' link=''>.</set>
+	<set location='Paris' country='France' periode='XVIIIème' link=''></set>
+	<note>Tiré de "Théâtre des Boulevards ou Recueil des parades. Tome premier" pp 25-47</note>
 </front>
 <body>
 <div1 type="act" n='1'><head></head>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE.</head>
-<sp who='GILLES'><speaker>GILLES, seul.</speaker>
+<sp stage="alone" who='GILLES'><speaker>GILLES, seul.</speaker>
 <p id="1">
 	<s id="1">Pardienne, je suis tombé cheux un bon maître, ou plutôt cheux une bonne maîtresse ; car Mamselle z'Isabelle porte les culottes : il est vrai qu'elle n'en use pas pour une paire, mais que m'importe à moi ? </s>
 	<s id='2'>Monsieur Cassandre, son bon homme de mari, z'est plus que content. </s>
@@ -68,7 +65,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Cassecroute, Picotin, Gilles caché.</head>
-<sp who='PICOTIN'><speaker>PICOTIN, bredouillant.</speaker>
+<sp stage="hesitate" who='PICOTIN'><speaker>PICOTIN, bredouillant.</speaker>
 <p id='1'>
 	<s id='1'>En vérité, Monsieur Cassecroute, je n'y puis plus tenir.</s>
 </p>
@@ -551,7 +548,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Cassandre, Cassecroute, Picotin.</head>
-<sp who='CASSECROUTE'><speaker>CASSECROUTE, nazillant.</speaker>
+<sp stage="voice" who='CASSECROUTE'><speaker>CASSECROUTE, nazillant.</speaker>
 <p id='1'>
 	<s id='1'>Bonjour notre bon parent Cassandre.</s>
 </p>
@@ -718,11 +715,11 @@
 <p id='33'>
 	<s id='1'>Non, Dieu me damne, je parle au nom de Monsieur Cassandre ; mais comme mes bons amis ne sont pas ici, je vais vous entretenir pour eux, et je les prierai d'en faire autant.</s>
 </p>	
-<stage type="[N/A]">Il prend un bâton et les chasse.</stage>
+<stage type="get/fight">Il prend un bâton et les chasse.</stage>
  </sp>
  </div2>
  <div2 type="scene" n='6'><head>SCÈNE VI.</head>
-<sp who='CASSANDRE'><speaker>CASSANDRE seul.</speaker>
+<sp stage="alone" who='CASSANDRE'><speaker>CASSANDRE, seul.</speaker>
 <p id='1'>
 	<s id='1'>Les voilà donc partis ces insolents, ces méchants, qui veulent faire tort à un honneur comme celui-là d'Isabelle. </s>
 	<s id='2'>Hola Gilles.</s>

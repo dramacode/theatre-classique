@@ -9,8 +9,8 @@
 			<publicationStmt>	
 				<editor>Texte établi à partir de la transcription par Dr Roger Peters.</editor>
 				<publisher>publié par Paul FIEVRE, janvier 2014</publisher>
-			<idno></idno>
-</publicationStmt>
+				<idno>ARCHAMBAULT_JANOTDEGRAISSEUR</idno>
+			</publicationStmt>
 			<SourceDesc>
 				<genre>Proverbe</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -19,10 +19,6 @@
 				<periode>1771-1780</periode>
 				<taille>(mesure non pertinente)</taille>
 				<permalien></permalien>
-				<sources>
-					<source id='1'><author></author><text></text></source>
-				</sources>	
-
 			</SourceDesc>
 		</fileDesc>
 </teiHeader>
@@ -35,10 +31,9 @@
 		</docTitle> 
 		<docDate value='1779'>M. DCC. LXXIX.</docDate>
 		<docAuthor id='ARCHAMBAULT, Louis-François' bio='achambault'>de Louis-François Archambault, dit Dorvigny</docAuthor>
-		<docImprint>
-			
+		<docImprint>			
 		</docImprint>
-		<printer id='SERCY'>À PARIS, chez CHARLES DE SERCY, au Palais, au sixième pilier de la Grand Salle, à  la Bonne Foi Couronnée.</printer>
+		<printer id='SERCY'>À PARIS, chez CHARLES DE SERCY, au Palais, au sixième pilier de la Grand Salle, à la Bonne Foi Couronnée.</printer>
 		<performance>
 			<premiere date='1779-10-18' location='Théâtre des Variétés amusantes'>Représenté pour la première fois le 18 octobre 1779 au Théâtre des Variétés-Amusantes à Paris.</premiere>
 		</performance>
@@ -257,7 +252,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Madame Simon, Simon, rentre avec un paquet.</head>
-<sp who='SIMON'><speaker>SIMON, à lui-même.</speaker>
+<sp stage="toward" who='SIMON'><speaker>SIMON, à lui-même.</speaker>
 <p id='1'>
 	<s id='1'>Mais ce n'est-i' pas un sort donc ça !</s>
 </p>
@@ -413,7 +408,7 @@
 </p>
 </sp>
 <sp who="SIMON"><speaker>SIMON.</speaker>
-<note type="L">Faraud : Qui est fier de  son allure.</note>
+<note type="L">Faraud : Qui est fier de son allure.</note>
 <p id="27">
 	<s id="1">M'as-tu savonné le côté gauche de ce faraud qui fait toujours chapeau sous le bras ?</s>
 </p>
@@ -493,7 +488,7 @@
 	<s id="1">Auparavant faire moi la plaisir prendre fous ein prise tabac.</s>
 </p>
 </sp>
-<sp who='MADAME SIMON'><speaker>MADAME SIMON, prenant du tabac.</speaker>
+<sp stage="get" who='MADAME SIMON'><speaker>MADAME SIMON, prenant du tabac.</speaker>
 <p id='8'>
 	<s id='1'>Après, voyons ?</s>
 </p>
@@ -512,7 +507,7 @@
 <p id="11">
 	<s id="1">Pon, afale, fort.</s>
 </p>
-<stage type="[N/A]">Madame Simon éternue.</stage>
+<stage type="sneeze">Madame Simon éternue.</stage>
 <p id='12'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Gouth ! </s>
@@ -538,7 +533,7 @@
 <p id="16">
 	<s id="1">Allons, voyons donc.</s>
 </p>	
-<stage type="[N/A]">Elles se mouchent à diverses reprises aux commandements du Suisse.</stage>
+<stage type="blow">Elles se mouchent à diverses reprises aux commandements du Suisse.</stage>
 </sp>
 <sp who="LE SUISSE"><speaker>LE SUISSE.</speaker>
 <p id="17">
@@ -555,7 +550,7 @@
 <p id="19">
 	<s id="1">À c't' heure, recarte-vous ici.</s>
 </p>
-<stage type="[N/A]">Il montre une culotte.</stage>
+<stage type="show">Il montre une culotte.</stage>
 </sp>
 <sp who="MADAME SIMON"><speaker>MADAME SIMON.</speaker>
 <p id="20">
@@ -579,18 +574,18 @@
 	<s id='2'>Vot' mari rendre pour moi hier, faire la plaisir toutes les teux pour sentir là tetans.</s>
 </p>
 </sp>
-<sp who='MADAME SIMON'><speaker>MADAME SIMON, aparté.</speaker>
+<sp stage="aparte" who='MADAME SIMON'><speaker>MADAME SIMON, aparté.</speaker>
 <p id='24'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Je me doute de ce que c'est.</s>
 </p>
 </sp>
-<sp who='LE SUISSE'><speaker>LE SUISSE, à Mlle Courtois.</speaker>
+<sp stage="toward" who='LE SUISSE'><speaker>LE SUISSE, à Mademoiselle Courtois.</speaker>
 <p id='25'>
 	<s id='1'>À fous, matemoiselle.</s>
 </p>
 </sp>
-<sp who='MADEMOISELLE COURTOIS'><speaker>MADEMOISELLE COURTOIS, le repoussant.</speaker>
+<sp stage="push" who='MADEMOISELLE COURTOIS'><speaker>MADEMOISELLE COURTOIS, le repoussant.</speaker>
 <p id='26'>
 	<s id='1'>Laissez donc : cela sent mauvais.</s>
 </p>
@@ -609,7 +604,7 @@
 	<s id='4'>Mais celui-ci l'y être l'odeir pour l'ennemi quand il afre peir.</s>
 </p>
 </sp>
-<sp who='MADEMOISELLE COURTOIS'><speaker>MADEMOISELLE COURTOIS, qui a développé sa robe, dit au Suisse.</speaker>
+<sp stage="dress/toward" who='MADEMOISELLE COURTOIS'><speaker>MADEMOISELLE COURTOIS, qui a développé sa robe, dit au Suisse.</speaker>
 <p id='29'>
 	<s id='1'>Éloignez-vous donc, ça se communique... </s>
 	<s id='2'>On dirait que ma robe sent de même.</s>
@@ -630,7 +625,7 @@
 	<s id='1'>Voyez donc vous-même.</s>
 </p>
 </sp>
-<sp who='LE SUISSE'><speaker>LE SUISSE, flairant la robe.</speaker>
+<sp stage="smell" who='LE SUISSE'><speaker>LE SUISSE, flairant la robe.</speaker>
 <p id='33'>
 	<s id='1'>La, l'y est aussi.</s>
 </p>
@@ -713,12 +708,12 @@
 	<s id="1">Qu'appelles-tu plaindre ?... </s>
 	<s id='2'>Voir ben, camarate, la plainte l'y être là.</s>
 </p>
-<stage type="[N/A]">Montrant son sabre qu'il a tiré à moitié.</stage>
+<stage type="show">Montrant son sabre qu'il a tiré à moitié.</stage>
 <p id='10'>
 	<s id='1'>Charnitiaple !</s>
 </p>
 </sp>
-<sp who='MADAME SIMON'><speaker>MADAME SIMON, effrayée.</speaker>
+<sp stage="frighten" who='MADAME SIMON'><speaker>MADAME SIMON, effrayée.</speaker>
 <p id='11'>
 	<s id='1'>Au secours !... </s>
 	<s id='2'>À la garde !</s>
@@ -778,13 +773,13 @@
 <p id="5">
 	<s id="1">Voyons donc un peu pour que je voie à voir ça.</s>
 </p>
-<stage type="[N/A]">Ils dérangent tous les hardes.</stage>
+<stage type="pack">Ils dérangent tous les hardes.</stage>
 <p id='6'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Quiens ! </s>
 	<s id='3'>Not' homme, c'est p't-êt' ça ?</s>
 </p>
-<stage type="[N/A]">Elle lui montre une veste.</stage>
+<stage type="show">Elle lui montre une veste.</stage>
 </sp>
 <sp who="SIMON"><speaker>SIMON.</speaker>
 <p id="7">
@@ -834,7 +829,7 @@
 <p id="15">
 	<s id="1">Ôte-la d'ici, ta maudite veste et que le diabe la puisse emporter.</s>
 </p>
-<stage type="[N/A]">Mme Simon jette la veste par la fenêtre. À Perrette.</stage>
+<stage type="throw/toward">Mme Simon jette la veste par la fenêtre. À Perrette.</stage>
 <p id='16'>
 	<s id='1'>Et toi, coquine, tu me le payeras : voyez un peu s'il est possible d'être aussi étourdie que ça.</s>
 </p>
@@ -852,7 +847,7 @@
 	<s id='3'>Va-t'en l'y régler ça, Mme Simon... </s>
 	<s id='4'>Je ne m'étonne pus à présent.</s>
 </p>
-<stage type="exit">Mme Simon et Perrette sortent.</stage>
+<stage type="exit">Madame Simon et Perrette sortent.</stage>
 <p id='19'>
 	<s id='1'>Quiens ! </s>
 	<s id='2'>Qu'est-ce qui vient encore ?</s>
@@ -1135,9 +1130,9 @@
 	<s id='5'>Mais ne crais pas que j'en serai la dupe, non. </s>
 	<s id='6'>Je te rendrai celle-là, quand tu me rendras la mienne.</s>
 </p>
-<stage type="[N/A]">Il s'empare d'un paquet.</stage>
+<stage type="get">Il s'empare d'un paquet.</stage>
 </sp>
-<sp who='SIMON'><speaker>SIMON, se jetant sur lui.</speaker>
+<sp stage="hit" who='SIMON'><speaker>SIMON, se jetant sur lui.</speaker>
 <p id='44'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Coquin, tu me voles !</s>
@@ -1147,7 +1142,7 @@
 <p id="45">
 	<s id="1">C'est toi qui me voles, moi je reprends mon bien.</s>
 </p>
-<stage type="[N/A]">Ils se battent.</stage>
+<stage type="fight">Ils se battent.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='10'><head>SCÈNE X. Les Précédents, Madame Simon.</head>
@@ -1248,7 +1243,7 @@
 	<s id="1">Ia, fermer son boutique, mais auparavant il payir mon culotte.</s>
 </p>
 </sp>
-<sp who='JANOT'><speaker>JANOT, au Suisse.</speaker>
+<sp stage="toward" who='JANOT'><speaker>JANOT, au Suisse.</speaker>
 <p id='3'>
 	<s id='1'>Oui, et ma veste aussi, Monsieur.</s>
 </p>
@@ -1271,7 +1266,7 @@
 	<s id='3'>V'là la vérité de tout, Monsieur : mes drogues sont bonnes, mais tout ça est venu par un équiproquo, que c'est ce petit drôle-là qu'en est cause.</s>
 </p>
 </sp>
-<sp who='LE SUISSE'><speaker>LE SUISSE, à Janot.</speaker>
+<sp stage="toward" who='LE SUISSE'><speaker>LE SUISSE, à Janot.</speaker>
 <p id='7'>
 	<s id='1'>Terteiffle ! </s>
 	<s id='2'>Toi l'i afre caté mon culotte ?</s>
@@ -1282,7 +1277,7 @@
 	<s id="1">Moi, Monsieur ? Ça n'est pas vrai.</s>
 </p>
 </sp>
-<sp who='LE CLERC'><speaker>LE CLERC, le reconnaissant.</speaker>
+<sp stage="recognize" who='LE CLERC'><speaker>LE CLERC, le reconnaissant.</speaker>
 <p id='9'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>C'est toi. </s>
@@ -1385,7 +1380,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='13'><head>SCÈNE XIII. Les Précédents, sauf Le Suisse.</head>
-<sp who='JANOT'><speaker>JANOT, au clerc.</speaker>
+<sp stage="toward" who='JANOT'><speaker>JANOT, au clerc.</speaker>
 <p id='1'>
 	<s id='1'>Monsieur se ressouviendra ben que ce n'est pas moi qui ai entamé la plainte c'te fois-ci.</s>
 </p>
@@ -1458,7 +1453,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='14'><head>SCÈNE XIV. Les Précédents, sauf Le Clerc.</head>
-<sp who='SIMON'><speaker>SIMON, brusquement à Janot.</speaker>
+<sp stage="abrupt" who='SIMON'><speaker>SIMON, brusquement à Janot.</speaker>
 <p id='1'>
 	<s id='1'>Allons ! </s>
 	<s id='2'>Marche là-dedans.</s>
@@ -1472,7 +1467,7 @@
 <stage type="exit">Ils entrent au fond.</stage>
 </sp>
 </div2>
-<div2 type="scene" n='14'><head>SCÈNE XV. Madame Simon, L'Abbé, donnant le bras à La Comtesse.</head>
+<div2 type="scene" n='14' stage="touch"><head>SCÈNE XV. Madame Simon, L'Abbé, donnant le bras à La Comtesse.</head>
 <sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
 <p id="1">
 	<s id="1">Est-ce vous qui êtes Madame Simon ?</s>
@@ -1547,7 +1542,7 @@
 	<s id="1">Oh ! </s>
 	<s id='2'>Pour de l'odeur, si elle n'est pas trop forte...</s>
 </p>
-<stage type="toward">À la comtesse.</stage>
+<stage type="toward">À la Comtesse.</stage>
 <p id="14">
 	<s id="1">Madame, on est accoutumé aux odeurs à présent... </s>
 	<s id='2'>Voyons donc ?</s>
@@ -1579,7 +1574,7 @@
 	<s id='3'>En vérité, Madame la comtesse, ce sont des effets perdus entièrement, abîmés sans ressource.</s>
 </p>
 </sp>
-<sp who='LA COMTESSE'><speaker>LA COMTESSE, d'un ton dur.</speaker>
+<sp stage="abrupt" who='LA COMTESSE'><speaker>LA COMTESSE, d'un ton dur.</speaker>
 <p id="19">
 	<s id="1">Vous êtes une femme bien maladroite, Madame Simon : c'est une mauvaise plaisanterie que vous nous faites là.</s>
 </p>
@@ -1597,7 +1592,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='16'><head>SCÈNE XVI. Les Précédents, Simon, Janot, en habit de jockey.</head>
-<sp who='SIMON'><speaker>SIMON, à Janot.</speaker>
+<sp stage="toward" who='SIMON'><speaker>SIMON, à Janot.</speaker>
 <p id='1'>
 	<s id='1'>La, vous v'là ben comme ça !</s>
 </p>
@@ -1654,7 +1649,7 @@
 	<s id='2'>Monsieur l'abbé, je vous en prions... </s>
 	<s id='3'>Ma chère dame, c'est lui...</s>
 </p>
-<stage type="[N/A]">Elle se jette aux pieds de la comtesse.</stage>
+<stage type="kneel">Elle se jette aux pieds de la Comtesse.</stage>
 </sp>
 <sp who="JANOT"><speaker>JANOT.</speaker>
 <p id="11">
@@ -1701,7 +1696,7 @@
 	<s id='2'>Écoute, Janot, si tu veux faire la paix avec Mademoiselle Suzon, donne-lui ma robe, je t'en fais présent.</s>
 </p>
 </sp>
-<sp who='JANOT'><speaker>JANOT, transporté de joie.</speaker>
+<sp stage="happy" who='JANOT'><speaker>JANOT, transporté de joie.</speaker>
 <p id="18">
 	<s id="1">Ah ! </s>
 	<s id='2'>Ma chère dame ? </s>

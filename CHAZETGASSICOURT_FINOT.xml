@@ -68,10 +68,10 @@
 	<s id='8'>Pourvu que monsieur Plaisantin, son tuteur, ne la donne pas à ce vilain monsieur Double-Sens qu'elle ne peut pas souffrir ! </s>
 	<s id='9'>J'aimerais mieux qu'elle épousît pour mari ce jeune-homme qui demeure en face de chez nous, et pour qui elle "a de la pente". </s>
 	<s id='10'>En attendant, arrangeons le déjeuner : des tasses d'un côté, des verres de l'autre. </s>
-	<s id='11'>Madame Cocasse veut être devant un plat  : eh ben, elle sera en face de monsieur Double-Sens. </s>
+	<s id='11'>Madame Cocasse veut être devant un plat : eh ben, elle sera en face de monsieur Double-Sens. </s>
 	<s id='12'>Monsieur Plaisantin ne boit que de l'eau ; le voilà.</s>
 </p>
-<stage type="[N/A]">Il pose le pot-à-l'eau.</stage>
+<stage type="put">Il pose le pot-à-l'eau.</stage>
 <note type="C">Le pain sans levain : le pain sans le vin.</note>
 <note type="L">Ste : cette.</note>
 <p id='2'>
@@ -122,7 +122,7 @@
 <p id='7'>
 	<s id='1'>C'est qu'ils sont tous "Hambourgeois".</s>
 </p>
-<stage type="[N/A]">Ils se mettent à table.</stage>
+<stage type="sit">Ils se mettent à table.</stage>
 </sp>
 <sp who='PLAISANTIN'><speaker>PLAISANTIN.</speaker>
 <note type="C">À bon port : à bon porc.</note>
@@ -135,7 +135,7 @@
 <p id='9'>
 	<s id='1'>Vous parlez-là comme un "homme de l'art".</s>
 </p>
-<stage type="[N/A]">Feignant de ne pouvoir couper le jambon.</stage>
+<stage type="expression">Feignant de ne pouvoir couper le jambon.</stage>
 <p id='10'>
 	<s id='1'>Mais on a eu tort de tuer ce porc.</s>
 </p>
@@ -215,7 +215,7 @@
 <p id='22'>
 	<s id=''>C'est tout naturel ; mais ce testament ne se trouve pas, et, dans cet embarras, il faut pourtant un "débouché".</s>
 </p>
-<stage type="[N/A]">Il débouche une bouteille.</stage>
+<stage type="action">Il débouche une bouteille.</stage>
 </sp>
 <sp who='DOUBLE-SENS'><speaker>DOUBLE-SENS.</speaker>
 <p id='23'>
@@ -244,7 +244,7 @@
 	<s id='1'>Dam ! </s>
 	<s id='2'>Monsieur, je vois ben qu'il y a quelque chose là-dedans ;</s>
 </p>
-<stage type="[N/A]">Renversant la bouteille.</stage>
+<stage type="action">Renversant la bouteille.</stage>
 <p id='28'>
 	<s id='1'>C'est un rouleau de papier.</s>
 </p>
@@ -336,8 +336,8 @@
 </sp>
 <sp who='PLAISANTIN'><speaker>PLAISANTIN.</speaker>
 <p id='43'>
-	<s id='1'>Eh  ! </s>
-	<s id='2'>Parbleu  ! </s>
+	<s id='1'>Eh ! </s>
+	<s id='2'>Parbleu ! </s>
 	<s id='3'>Par l'escalier.</s>
 </p>
 </sp>
@@ -712,11 +712,11 @@
 	<s id='1'>Madame, vous aurez beau revenir promptement ; vous ne serez de longtemps "sur le retour".</s>
 </p>
 </sp>
-<sp who='MADME COCASSE'><speaker>MADAME COCASSE, à part.</speaker>
+<sp stage="aparte" who='MADME COCASSE'><speaker>MADAME COCASSE, à part.</speaker>
 <p id='20'>
 	<s id='1'>Il est vraiment aimable.</s>
 </p>
-<stage type="forte">Haut.</stage>
+<stage type="loud">Haut.</stage>
 <p id='21'>
 	<s id='1'>Bien fâchée de vous laisser seul.</s>
 </p>
@@ -736,7 +736,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII. Finot, Taxe.</head>
-<sp who='FINOT'><speaker>FINOT, à part.</speaker>
+<sp stage="aparte" who='FINOT'><speaker>FINOT, à part.</speaker>
 <p id='1'>
 	<s id='1'>J'ai vu sûrement cette figure-là sur un visage de ma connaissance.</s>
 </p>
@@ -762,7 +762,7 @@
 	<s id='1'>Pardine ! </s>
 	<s id='2'>Je le crois ; Monsieur Cocasse m'a fait beaucoup de cadeaux.</s>
 </p>
-<stage type="[N/A]">Tirant une montre.</stage>
+<stage type="watch">Tirant une montre.</stage>
 <p id='6'>
 	<s id='1'>Tenez, voilà une montre qu'il m'a donnée.</s>
 </p>
@@ -848,7 +848,7 @@
 <p id='21'>
 	<s id=''>Tiens, voilà de quoi boire à ma santé. </s>
 </p>
-<stage type="[N/A]">Il lui donne six francs.</stage>
+<stage type="give">Il lui donne six francs.</stage>
 </sp>
 <sp who='FINOT'><speaker>FINOT.</speaker>
 <p id='22'>
@@ -991,7 +991,7 @@
 	<s id='1'>C'est par-là que les jeunes ânes, Monsieur, entraient dans la carrière, et c'est au bas de ce petit sentier que nous avons trouvé la pierre.</s>
 </p>
 </sp>
-<sp who='TAXE'><speaker>TAXE, à part.</speaker>
+<sp stage="aparte" who='TAXE'><speaker>TAXE, à part.</speaker>
 <p id='48'>
 	<s id='1'>Bon ! </s>
 	<s id='2'>Je profiterai de ce renseignement.</s>
@@ -1085,11 +1085,11 @@
 <p id='1'>
 	<s id='1'>On m'a dit, monsieur, que je vous trouverais ici.</s>
 </p>
-<stage type="[N/A]">Il tousse.</stage>
+<stage type="cough">Il tousse.</stage>
 <p id='2'>
 	<s id='1'>Et je suis venu en droite ligne.</s>
 </p>
-<stage type="[N/A]">Il tousse.</stage>
+<stage type="cough">Il tousse.</stage>
 </sp>
 <sp who='TAXE'><speaker>TAXE.</speaker>
 <p id='3'>
@@ -1097,7 +1097,7 @@
 </p>
 </sp>
 <sp who='GRAPIN'><speaker>GRAPIN, tirant un papier de sa poche.</speaker>
-<note  type="L">Minute : 60ème unité de l'heure. Mais aussi document original d'acte notarié ou de jugements.</note>
+<note type="L">Minute : 60ème unité de l'heure. Mais aussi document original d'acte notarié ou de jugements.</note>
 <p id='4'>
 	<s id='1'>Je ne vous demande qu'un quart-d'heure pour lire la "minute".</s>
 </p>
@@ -1134,7 +1134,7 @@
 	<s id='1'>On m'avait bien prévenu que monsieur Double-Sens aimait à rire ; mais je croyais qu'avec un homme de mon caractère, il voudrait bien se contraindre, et parler sérieusement.</s>
 </p>
 </sp>
-<sp who='TAXE'><speaker>TAXE, à part.</speaker>
+<sp stage="aparte" who='TAXE'><speaker>TAXE, à part.</speaker>
 <p id='11'>
 	<s id='1'>Bon ! </s>
 	<s id='2'>Il me prend pour mon rival.</s>
@@ -1149,7 +1149,7 @@
 <p id='13'>
 	<s id='1'>Par-devant etc.</s>
 </p>
-<stage type="[N/A]">Taxe et Finot reculent.</stage>
+<stage type="walk">Taxe et Finot reculent.</stage>
 <p id='14'>
 	<s id='1'>Marc-Roch-Luc Grapin, furent présents Jérôme Double-Sens d'une part, et Barbe Cocasse, fille mineure, de l'autre, lesquels, etc. </s>
 	<s id='2'>Ladite future apporte une maison...</s>
@@ -1231,7 +1231,7 @@
 <p id='28'>
 	<s id='1'>Je la prends.</s>
 </p>
-<stage type="[N/A]">Revenant.</stage>
+<stage type="walk">Revenant.</stage>
 <p id='29'>
 	<s id='1'>Vous mériteriez que je me vengeasse par d'aussi mauvais calembours que les vôtres. </s>
 	<s id='2'>Voyons quelle est la ville où l'on mange le poisson le plus délicat ?</s>
@@ -1270,7 +1270,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='10'><head>SCÈNE X. Taxe, Plaisantin.</head>
-<sp who='PLAISANTIN'><speaker>PLAISANTIN, entrant.</speaker>
+<sp stage="entrance" who='PLAISANTIN'><speaker>PLAISANTIN, entrant.</speaker>
 <p id='1'>
 	<s id='1'>Ma foi, notre ami Double-Sens est bien près de deviner l'inscription. </s>
 	<s id='2'>Mais je croyais madame Cocasse ici. </s>
@@ -1282,7 +1282,7 @@
 	<s id='1'>Citoyen notaire, soyez le bienvenu.</s>
 </p>
 </sp>
-<sp who='TAXE'><speaker>TAXE, à part.</speaker>
+<sp stage="aparte" who='TAXE'><speaker>TAXE, à part.</speaker>
 <p id='3'>
 	<s id='1'>La bonne méprise !</s>
 </p>
@@ -1291,7 +1291,7 @@
 <p id='4'>
 	<s id='1'>Nous allons le marier.</s>
 </p>
-<stage type="[N/A]">Mystérieusement.</stage>
+<stage type="expression">Mystérieusement.</stage>
 <p id='5'>
 	<s id='1'>Ma foi, j'ai eu quelque inquiétude.</s>
 </p>
@@ -1337,7 +1337,7 @@
 	<s id='1'>Heureusement qu'il n'a point été averti des conditions du testament ; car il se fût présenté pour deviner l'inscription, et il eût fallu l'admettre. </s>
 	<s id='2'>Mais vous êtes sans doute pressé de les marier, et je ne veux pas retarder le bonheur de ma nièce.</s>
 </p>
-<stage type="[N/A]">Il appelle.</stage>
+<stage type="shout">l appelle.</stage>
 <p id='14'>
 	<s id='1'>Finot ? </s>
 	<s id='2'>Finot ?</s>
@@ -1409,7 +1409,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='13'><head>SCÈNE XIII ET DERNIÈRE. Tous les acteurs.</head>
-<stage type="[N/A]">Marche triomphale pour l'entrée de la pierre.</stage>
+<stage type="danse">Marche triomphale pour l'entrée de la pierre.</stage>
 <sp who='FINOT'><speaker>FINOT.</speaker>
 <note type="C">Pierre de taille : grosse pierre, pierre de construction obtenue par une taille.</note>
 <p id='1'>

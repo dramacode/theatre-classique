@@ -43,7 +43,7 @@
 	<performance>
 		<premiere date='1707-03-17' location='Château de Versailles'>Représenté pour la première fois le 17 mars 1707 au Château de Versailles.</premiere>
 	</performance>
-       <castList>
+    <castList>
 		<castItem><role id="ATREE" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>ATRÉE</role>, roi d'Argos</castItem>
 		<castItem><role id="THYESTE" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>THYESTE</role>, roi de Mycene, frère d'Atrée.</castItem>
 		<castItem><role id="PLISTHENE" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>PLISTHÈNE</role>, fils d'Aérope et de Thyeste, cru fils d'Atrée.</castItem>
@@ -54,8 +54,8 @@
 		<castItem><role id="LEONIDE" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>LÉONIDE</role>, confidente de Théodamie.</castItem>
 		<castItem><role id="SUITE" sex="9" type="H" statut='suite' age='A' stat_amour='néant'>Suite d'Atrée</role>.</castItem>
 		<castItem><role id="GARDES" sex="9" type="H" statut='garde' age='A' stat_amour='néant'>Gardes</role>.</castItem>
-       </castList>
-       <set location='Chalcys' country='Grèce' periode='Temps mythologiques' link=''>La scène est à Chalcys, capitale de l'île d'Eubée, dans le palais d'Atrée.</set>
+    </castList>
+    <set location='Chalcys' country='Grèce' periode='Temps mythologiques' link=''>La scène est à Chalcys, capitale de l'île d'Eubée, dans le palais d'Atrée.</set>
 </front>
 <body>
 <div1 type="act" n="1"><head>ACTE I</head>
@@ -651,7 +651,7 @@
 	<l id="482">Aerope, à cet aspect, plaintive et désolée,</l>
 	<l id="483">De ses lambeaux sanglants à mes yeux s'est voilée.</l>
 	<l id="484">Alors j'ai fait, pour fuir, des efforts impuissants ;</l>
-      <l id="485">L'horreur a suspendu l'usage de mes sens.</l>
+   <l id="485">L'horreur a suspendu l'usage de mes sens.</l>
 	<l id="486">À mille affreux objets l'âme entière livrée,</l>
 	<l id="487">Ma frayeur m'a jeté sans force aux pieds d'Atrée.</l>
 	<l id="488">Le cruel, d'une main, semblait m'ouvrir le flanc,</l>
@@ -867,7 +867,7 @@
 	<l id="612">Eh bien ! Reconnais-moi ; je suis ce que tu veux,</l>
 	<l id="613">Ce Thyeste ennemi, ce frère malheureux.</l>
 	<l id="614">Quand même tes soupçons et ta haine funeste</l>
-      <l id="615">N'eussent point découvert l'infortuné Thyeste,</l>
+   <l id="615">N'eussent point découvert l'infortuné Thyeste,</l>
 	<l id="616">Peut-être que la mienne, esclave malgré moi,</l>
 	<l id="617">Aux dépens de mes jours m'eût découvert à toi.</l>
 </sp>
@@ -920,7 +920,7 @@
 	<l id="654">Vous prétendez en vain que mon cour s'attendrisse.</l>
 	<l id="655">Qu'on lui donne la mort, gardes ; qu'on m'obéisse ;</l>
 	<l id="656">De son sang odieux qu'on épuise son flanc...</l>
-<stage type="mezzo voce">Bas, à part.</stage>
+<stage type="low">Bas, à part.</stage>
 	<l id="657">Mais non ; une autre main doit verser tout son sang.</l>
 <stage type="toward">Aux gardes.</stage>
 	<l id="658">Oubliais-je... arrêtez. Qu'on me cherche Plisthène.</l>
@@ -1978,21 +1978,21 @@
 	<l id="1444">Malgré ce que je fais, peu sûr de cette foi,</l>
 	<l id="1445">Je vois que votre cour s'alarme auprès de moi.</l>
 	<l id="1446">J'avais cru cependant qu'une pleine assurance</l>
-	<l id="1447" part='i'>Devait suivre...</l>
+	<l id="1447" part="i">Devait suivre...</l>
 </sp>
 <sp who="THYESTE"><speaker>THYESTE</speaker>
-	<l id="1447" part='f'>Ah ! Seigneur, ce reproche m'offense.</l>
+	<l id="1447" part="f">Ah ! Seigneur, ce reproche m'offense.</l>
 </sp>
 <sp who="ATREE"><speaker>ATRÉE, à un garde.</speaker>
 	<l id="1448">Qu'on cherche la princesse ; allez, et qu'en ces lieux</l>
 	<l id="1449">Plisthène, sans tarder, se présente à ses yeux.</l>
-	<l id="1450" part='i'>Il faut...</l>
+	<l id="1450" part="i">Il faut...</l>
 </sp>
 </div2>
 <div2 type="scene" n="7"><head>SCÈNE VII. Atrée, Thyeste, Eurysthène, Gardes.</head>
 <stage type="[N/A]">Eurysthène apporte la coupe.</stage>
 <sp who="ATREE"><speaker>ATRÉE</speaker>
-	<l id="1450" part='f'>Mais j'aperçois la coupe de nos pères :</l>
+	<l id="1450" part="f">Mais j'aperçois la coupe de nos pères :</l>
 	<l id="1451">Voici le noud sacré de la paix de deux frères ;</l>
 	<l id="1452">Elle vient à propos pour rassurer un cour</l>
 	<l id="1453">Qu'alarme en ce moment une indigne terreur.</l>
@@ -2053,10 +2053,10 @@
 	<l id="1494">Mon fils, est-ce ton sang qu'on offrait à ton père ?</l>
 </sp>
 <sp who="ATREE"><speaker>ATRÉE</speaker>
-	<l id="1495" part='i'>Méconnais-tu ce sang ?</l>
+	<l id="1495" part="i">Méconnais-tu ce sang ?</l>
 </sp>
 <sp who="THYESTE"><speaker>THYESTE</speaker>
-	<l id="1495" part='f'>Je reconnais mon frère.</l>
+	<l id="1495" part="f">Je reconnais mon frère.</l>
 </sp>
 <sp who="ATREE"><speaker>ATRÉE</speaker>
 	<l id="1496">Il fallait le connaître, et ne point l'outrager ;</l>
@@ -2088,20 +2088,20 @@
 <stage type="die">Il se tue.</stage>
 </sp>
 <sp who="THEODAMIE"><speaker>THÉODAMIE</speaker>
-	<l id="1516" part='i'>Ah ciel !</l>
+	<l id="1516" part="i">Ah ciel !</l>
 </sp>
 <sp who="THYESTE"><speaker>THYESTE</speaker>
-	<l id="1516" part='f'>Consolez-vous, ma fille ; et de ces lieux</l>
+	<l id="1516" part="f">Consolez-vous, ma fille ; et de ces lieux</l>
 	<l id="1517">Fuyez, et remettez votre vengeance aux dieux.</l>
 	<l id="1518">Contente, par vos pleurs, d'implorer leur justice,</l>
 	<l id="1519">Allez loin de ce traître attendre son supplice.</l>
 	<l id="1520">Les dieux, que ce parjure a fait pâlir d'effroi,</l>
 	<l id="1521">Le rendront quelque jour plus malheureux que moi ;</l>
 	<l id="1522">Le ciel me le promet, la coupe en est le gage ;</l>
-	<l id="1523" part='i'>Et je meurs.</l>
+	<l id="1523" part="i">Et je meurs.</l>
 </sp>
 <sp who="ATREE"><speaker>ATRÉE</speaker>
-	<l id="1523" part='f'>À ce prix, j'accepte le présage :</l>
+	<l id="1523" part="f">À ce prix, j'accepte le présage :</l>
 	<l id="1524">Ta main, en t'immolant, a comblé mes souhaits,</l>
 	<l id="1525">Et je jouis enfin du fruit de mes forfaits.</l>
 </sp>

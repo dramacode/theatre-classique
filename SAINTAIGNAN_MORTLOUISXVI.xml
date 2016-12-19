@@ -73,7 +73,7 @@
 			<premiere date='(non représentée)' location='(non représentée)'>(non représentée)</premiere>
 		</performance>
 	<castList><head>PERSONNAGES</head>
-		<castItem><role id="LOUIS"  sex="1" type="H" statut='roi' age='A' stat_amour='néant'>LOUIS XVI</role>, roi de France.</castItem>
+		<castItem><role id="LOUIS" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>LOUIS XVI</role>, roi de France.</castItem>
 		<castItem><role id="MARIE-ANTOINETTE" sex="2" type="H" statut='roi' age='A' stat_amour='néant'>MARIE-ANTOINETTE</role>, reine.</castItem>
 		<castItem><role id="ELISABETH" sex="2" type="H" statut='prince' age='A' stat_amour='néant'>ELISABETH</role>, soeur du roi.</castItem>
 		<castItem><role id="DAUPHIN" sex="1" type="H" statut='prince' age='E' stat_amour='néant'>Le DAUPHIN</role>, âgé de sept ans.</castItem>
@@ -168,21 +168,21 @@
 	<l id='54'>Au glaive, sans pâlir, il offrirait sa tête.... </l>
 </sp>
 <sp who='TRONCHET'><speaker>TRONCHET.</speaker>
-	<l id='55' part='i'>Il l'offrira. </l>
+	<l id='55' part="i">Il l'offrira. </l>
 </sp>
 <sp who='DESEZE'><speaker>DESÈZE.</speaker>
-	<l id='55' part='f'>Non, non, et le Sénat français, </l>
+	<l id='55' part="f">Non, non, et le Sénat français, </l>
 	<l id='56'>S'il ne croit pas au ciel, croit à ses intérêts. </l>
 </sp>
 <sp who='LAMOIGNON'><speaker>LAMOIGNON.</speaker>
-	<l id='57'>On vient  : c'est d'Orléans. L'aspect de cet infâme </l>
+	<l id='57'>On vient : c'est d'Orléans. L'aspect de cet infâme </l>
 	<l id='58'>D'un sentiment d'horreur a pénétré mon âme ; </l>
 	<l id='59'>J'aperçois avec lui Robespierre et Marat. </l>
 	<l id='60'>Cher collègues, fuyons ce groupe scélérat. </l>
-	<l id='61' part='i'>Que ferions nous ici ? </l>
+	<l id='61' part="i">Que ferions nous ici ? </l>
 </sp>
 <sp who='DESEZE'><speaker>DESÈZE.</speaker>
-	<l id='61' part='f'>Restons ; Kersaint s'avance. </l>
+	<l id='61' part="f">Restons ; Kersaint s'avance. </l>
 	<l id='62'>Je vois Garran, Villette amis de I'innocence ; </l>
 	<l id='63'>Contre les factieux ils seront son support.</l>
 </sp>
@@ -317,13 +317,13 @@
 <sp who='GARRAN-DE-COULON'><speaker>GARRAN DE COULON, à d'Orléans.</speaker>
 	<l id='163'>Philippe, ton parti n'a pas encore vaincu ; </l>
 	<l id='164'>J'en sais ici plus d'un qui croît à la vertu, </l>
-	<l id='165' part='i'>Veut le bien.... le fera.... </l>
+	<l id='165' part="i">Veut le bien.... le fera.... </l>
 <stage type="exit">Il sort suivi de Charles Villette, et de plusieurs autres députés.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Philippe d'Orléans, Robespierre, Marat.</head>
 <sp who='PHILIPPE-D-ORLEANS'><speaker>D'ORLÉANS.</speaker>
-	<l id='165' part='f'>De cet homme intraitable </l>
+	<l id='165' part="f">De cet homme intraitable </l>
 	<l id='166'>Toujours l'austérité m'a semblé redoutable : </l>
 	<l id='167'>De mes complots le voile est trop tôt déchiré ; </l>
 	<l id='168'>J'en crains pour leur succès l'éclat prématuré. </l>
@@ -383,22 +383,22 @@
 	<l id='212'>Si j'eusse été Louis, il n'existerait plus. </l>
 	<l id='213'>Mais Manuel s'approche.... Eh quoi ! De son visage, </l>
 	<l id='214'>L'éclat est obscurci par un sombre nuage. </l>
-	<l id='215' part='i'>Que vient-il m'annoncer ?.....</l>
+	<l id='215' part="i">Que vient-il m'annoncer ?.....</l>
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Les Précédents, Manuel.</head>
 <stage type="[N/A]">Manuel entre d'un air rêveur. En voyant Philippe qui s'approche de lui, il se retire.</stage>
 <sp who='PHILIPPE-D-ORLEANS'><speaker>D'ORLÉANS.</speaker>
-	<l id='215' part='f'>Me trompai-je ? Il nous fuit !.... </l>
+	<l id='215' part="f">Me trompai-je ? Il nous fuit !.... </l>
 </sp>
 <sp who='MANUEL'><speaker>MANUEL.</speaker>
-	<l id='216' part='i'>Je fuis.... </l>
+	<l id='216' part="i">Je fuis.... </l>
 </sp>
 <sp who='PHILIPPE-D-ORLEANS'><speaker>D'ORLÉANS.</speaker>
-	<l id='216' part='m'>Quoi ? </l>
+	<l id='216' part="m">Quoi ? </l>
 </sp>
 <sp who='MANUEL'><speaker>MANUEL.</speaker>
-	<l id='216' part='f'>Le remord qui partout me poursuit </l>
+	<l id='216' part="f">Le remord qui partout me poursuit </l>
 	<l id='217'>Depuis que des grandeurs la soif insatiable, </l>
 	<l id='218'>M'a fait de vos desseins le complice coupable. </l>
 	<l id='219'>Pour moi plus de repos ; l'enfer est dans mon sein. </l>
@@ -467,10 +467,10 @@
 </sp>
 <sp who='PHILIPPE-D-ORLEANS'><speaker>D'ORLÉANS.</speaker>
 	<l id='277'>Nous saurons réprimer l'excès de ton audace ; </l>
-	<l id='278' part='i'>Crains les proscriptions. </l>
+	<l id='278' part="i">Crains les proscriptions. </l>
 </sp>
 <sp who='MANUEL'><speaker>MANUEL.</speaker>
-	<l id='278' part='f'>Je brave ta menace. </l>
+	<l id='278' part="f">Je brave ta menace. </l>
 	<l id='279'>Puissai-je à ma patrie, en montrant tes complots, </l>
 	<l id='280'>Épargner un grand crime, épargner de grands maux, </l>
 	<l id='281'>Sauver la république, après l'avoir trahie, Périr...... </l>
@@ -507,13 +507,13 @@
 	<l id='297'>Oh ! d'un coeur vraiment libre, affreuse incertitude ! </l>
 </sp>
 <sp who='PREMIER-COMMISSAIRE'><speaker>PREMIER COMMISSAIRE.</speaker>
-	<l id='298' part='i'>Je l'entends ; le voici.</l>
+	<l id='298' part="i">Je l'entends ; le voici.</l>
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Les Précédents, Louis XVI, Le Dauphin, deux autres Commissaires sortant du cabinet.</head>
 <stage type="[N/A]">Ces deux derniers Commissaires confèrent un instant à part avec les autres. Ils se retirent ; et ceux qui restent se tiennent à l'écart.</stage>
 <sp who='LOUIS-XVI'><speaker>LOUIS, à son fils.</speaker>
-	<l id='298' part='f'>Reprenons notre étude. </l>
+	<l id='298' part="f">Reprenons notre étude. </l>
 <stage type="[N/A]">Ils s'asseyent ; Louis prend le globe dans sa main.</stage>
 	<l id='299'>Nous avons vu la France où régnèrent longtemps </l>
 	<l id='300'>Les Bourbons, le bonheur, les arts et les talents ; </l>
@@ -541,23 +541,23 @@
 	<l id='322'>Ne puisse de votre âme écarter sa mémoire ; </l>
 	<l id='323'>Et dans tous vos projets invoquez son secours ; </l>
 	<l id='324'>Mais de notre leçon ne troublons plus le cours : </l>
-	<l id='325' part='i'>Parcourons l'Angleterre. </l>
+	<l id='325' part="i">Parcourons l'Angleterre. </l>
 </sp>
 <sp who='LE-DAUPHIN'><speaker>LE DAUPHIN.</speaker>
-	<l id='325' part='f'>Eh quoi ! Cette contrée, </l>
+	<l id='325' part="f">Eh quoi ! Cette contrée, </l>
 	<l id='326'>Qui porta sur son roi sa main dénaturée ? </l>
 	<l id='327'>Ô ciel ! Ses habitants sont donc bien forcenés ? </l>
 </sp>
 <sp who='LOUIS-XVI'><speaker>LOUIS.</speaker>
-	<l id='328' part='i'>Ils le furent, mon fils. </l>
+	<l id='328' part="i">Ils le furent, mon fils. </l>
 </sp>
 <sp who='LE-DAUPHIN'><speaker>LE DAUPHIN.</speaker>
-	<l id='328' part='f'>Ah ! Cher papa, daignez </l>
+	<l id='328' part="f">Ah ! Cher papa, daignez </l>
 	<l id='329'>De ce grand attentat me retracer l'histoire. </l>
-	<l id='330' part='i'>Je frémis d'y penser.... </l>
+	<l id='330' part="i">Je frémis d'y penser.... </l>
 </sp>
 <sp who='LOUIS-XVI'><speaker>LOUIS à part.</speaker>
-	<l id='330' part='f'>Ah ! Dieu ! S'il pouvait croire.... </l>
+	<l id='330' part="f">Ah ! Dieu ! S'il pouvait croire.... </l>
 <stage type="[N/A]">Il remet le globe sur la table.</stage>
 <stage type="forte">Haut.</stage>
 	<l id='331'>Écoutez-la, mon fils ; que cet événement </l>
@@ -590,10 +590,10 @@
 </sp>
 <sp who='LE-DAUPHIN'><speaker>LE DAUPHIN.</speaker>
 	<l id='356'>Il me semblait, papa, voir Charles dans Louis. </l>
-	<l id='357' part='i'>Si j'étais cet enfant, ô ciel ! </l>
+	<l id='357' part="i">Si j'étais cet enfant, ô ciel ! </l>
 </sp>
 <sp who='LOUIS-XVI'><speaker>LOUIS, vivement ému.</speaker>
-	<l id='357' part='f'>Que veux-tu dire ? </l>
+	<l id='357' part="f">Que veux-tu dire ? </l>
 <stage type="aparte">À part.</stage>
 	<l id='358'>Il est trop vrai, peut-être, et c'est Dieu qui l'inspire. </l>
 <stage type="forte">Haut.</stage>
@@ -648,18 +648,18 @@
 <div2 type="scene" n='3'><head>SCÈNE III. Les Précédents; Lamoignon.</head>
 <stage type="[N/A]">Il entre d'un air triste et pensif. Le Dauphin et les Commissaires se retirent.</stage>
 <sp who='LOUIS-XVI'><speaker>LOUIS, à son fils.</speaker>
-	<l id='397' part='i'>C'est Lamoignon..... Sortez. </l>
+	<l id='397' part="i">C'est Lamoignon..... Sortez. </l>
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCENE IV. Louis, Lamoignon.</head>
 <sp who='LAMOIGNON'><speaker>LAMOIGNON.</speaker>
-	<l id='397' part='f'>Prince, il faut du courage. </l>
+	<l id='397' part="f">Prince, il faut du courage. </l>
 </sp>
 <sp who='LOUIS-XVI'><speaker>LOUIS.</speaker>
-	<l id='398' part='i'>J'en ai. </l>
+	<l id='398' part="i">J'en ai. </l>
 </sp>
 <sp who='LAMOIGNON'><speaker>LAMOIGNON.</speaker>
-	<l id='398' part='f'>Les assassins ont assouvi leur rage, </l>
+	<l id='398' part="f">Les assassins ont assouvi leur rage, </l>
 	<l id='399'>D'Orléans est vainqueur, et.... L'arrêt est porté. </l>
 </sp>
 <sp who='LOUIS-XVI'><speaker>LOUIS.</speaker>
@@ -748,10 +748,10 @@
 	<l id='470'>À faire révoquer la sentence fatale.</l>
 	<l id='471'>Peut-être vos dangers agitant les esprits, </l>
 	<l id='472'>En faveur de son roi réveilleront Paris. </l>
-	<l id='473' part='i'>Qu'il ose se montrer.... </l>
+	<l id='473' part="i">Qu'il ose se montrer.... </l>
 </sp>
 <sp who='LOUIS-XVI'><speaker>LOUIS, vivement.</speaker>
-	<l id='473' part='f'>Ami tendre et fidèle, </l>
+	<l id='473' part="f">Ami tendre et fidèle, </l>
 	<l id='474'>Réprimez, croyez-moi, l'excès de votre zèle, </l>
 	<l id='475'>Plutôt que d'exciter les plus légers combats. </l>
 	<l id='476'>J'aimerais mieux souffrir mille et mille trépas. </l>
@@ -776,10 +776,10 @@
 </sp>
 <sp who='PREMIER-COMMISSAIRE'><speaker>LE MÈME COMMISSAIRE.</speaker>
 	<l id='489'>Je sais comme on punit un insolent esclave : </l>
-	<l id='490' part='i'>Tu connaîtras bientôt mon pouvoir. </l>
+	<l id='490' part="i">Tu connaîtras bientôt mon pouvoir. </l>
 </sp>
 <sp who='LAMOIGNON'><speaker>LAMOIGNON.</speaker>
-	<l id='490' part='f'>Je le brave.</l>
+	<l id='490' part="f">Je le brave.</l>
 	<l id='491'>Par un fer assassin, si mon roi doit périr, </l>
 	<l id='492'>Le suivre est dans mon coeur le plus ardent désir. </l>
 	<l id='493'>Mais non ; votre fureur sera mal assouvie, </l>
@@ -805,10 +805,10 @@
 	<l id='508'>Nous l'anéantirons, ce jugement de mort. </l>
 	<l id='509'>Le peuple et le Sénat, d'un accord unanime, </l>
 	<l id='510'>Verront, détesteront, répareront leur crime ; </l>
-	<l id='511' part='i'>Vous nous serez rendu. </l>
+	<l id='511' part="i">Vous nous serez rendu. </l>
 </sp>
 <sp who='LOUIS-XVI'><speaker>LOUIS.</speaker>
-	<l id='511' part='f'>Non, je l'espère peu, </l>
+	<l id='511' part="f">Non, je l'espère peu, </l>
 	<l id='512'>Mais on m'arrache à vous.... Ah, chers amis ! Adieu.... </l>
 <stage type="exit/entrance">Louis et les Commissaires entrent dans le cabinet. Les défenseurs sortent.</stage>
 </sp>
@@ -848,10 +848,10 @@
 <sp who='DEUXIEME-COMMISSAIRE'><speaker>DEUXIÈME COMMISSAIRE.</speaker>
 	<l id='535'>Ô sublime vertu ! Le coeur le plus sauvage, </l>
 	<l id='536'>Peut-il, sans l'admirer, entendre ton langage ? </l>
-	<l id='537' part='i'>Nous vous laissons, Louis. </l>
+	<l id='537' part="i">Nous vous laissons, Louis. </l>
 </sp>
 <sp who='LOUIS-XVI'><speaker>LOUIS.</speaker>
-	<l id='537' part='f'>Mortels compatissants, </l>
+	<l id='537' part="f">Mortels compatissants, </l>
 	<l id='538'>J'adresse au Ciel pour vous mes voeux reconnoissants.</l>
 <stage type="exit">Ils sortent.</stage>
 </sp>
@@ -940,9 +940,9 @@
 </sp>
 <sp who='LE-MINISTRE'><speaker>LE MINISTRE.</speaker>
 	<l id='607'>Daignez fixer un choix, me le faire connaître, </l>
-	<l id='608' part='i'>Vos voeux seront remplis. </l>
+	<l id='608' part="i">Vos voeux seront remplis. </l>
 <stage type="[N/A]">Louis s'approche d'une table, écrit le nom et la demeure du prêtre, et remet le billet au ministre.</stage>
-	<l id='608' part='f'>Vous l'allez voir paraître. </l>
+	<l id='608' part="f">Vous l'allez voir paraître. </l>
 <stage type="[N/A]">Il se retire. Louis se promène quelques moments à grands pas, et passe dans son cabinet.</stage>
 </sp>
 </div2>
@@ -973,13 +973,13 @@
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Louis, Marie-Antoinette, Élisabeth, Les Enfants du Roi.</head>
 <sp who='MARIE-ANTOINETTE'><speaker>ANTOINETTE.</speaker>
-	<l id='625' part='i'>Où peut-il être, ô ciel !... </l>
+	<l id='625' part="i">Où peut-il être, ô ciel !... </l>
 </sp>
 <sp who='LOUIS-XVI'><speaker>LOUIS, sortant du cabinet.</speaker>
-	<l id='625' part='m'>Qu'entends-je ?... </l>
+	<l id='625' part="m">Qu'entends-je ?... </l>
 </sp>
 <sp who='MARIE-ANTOINETTE'><speaker>ANTOINETTE, l'embrassant.</speaker>
-	<l id='625' part='f'>Ah, cher époux ! </l>
+	<l id='625' part="f">Ah, cher époux ! </l>
 </sp>
 <sp who='ELISABETH'><speaker>ÉLISABETH.</speaker>
 	<l id='626'>Vos enfants, votre soeur, embrassent vos genoux. </l>
@@ -1069,13 +1069,13 @@
 <div2 type="scene" n='6'><head>SCÈNE VI et DERNIÈRE. Les Précédents; Le Confesseur du Roi, Santerre, détachement de la garde nationale.</head>
 <stage type="[N/A]">Ils se tiennent dans l'enfoncement.</stage>
 <sp who='MARIE-ANTOINETTE'><speaker>ANTOINETTE.</speaker>
-	<l id='695' part='i'>Ciel ! Que vois-je !... </l>
+	<l id='695' part="i">Ciel ! Que vois-je !... </l>
 </sp>
 <sp who='LE-CONFESSEUR'><speaker>LE CONFESSEUR.</speaker>
-	<l id='695' part='m'>Ô Louis !... </l>
+	<l id='695' part="m">Ô Louis !... </l>
 </sp>
 <sp who='LOUIS-XVI'><speaker>LOUIS.</speaker>
-	<l id='695' part='f'>Approchez-vous, mon père, </l>
+	<l id='695' part="f">Approchez-vous, mon père, </l>
 	<l id='696'>Mon coeur vous attendait, c'est en vous que j'espère. </l>
 <stage type="toward">À Santerre.</stage>
 	<l id='697'>Je vous suis à l'instant... ô ma femme ! ô ma soeur ! </l>
@@ -1085,10 +1085,10 @@
 	<l id='700'>Venez... Elle chancelle, et ne peut plus m'entendre. Antoinette !... </l>
 </sp>
 <sp who='MARIE-ANTOINETTE'><speaker>ANTOINETTE.</speaker>
-	<l id='701' part='i'>J'expire !... </l>
+	<l id='701' part="i">J'expire !... </l>
 </sp>
 <sp who='LOUIS-XVI'><speaker>LOUIS.</speaker>
-	<l id='701' part='f'>Ah ! Reprenez vos sens... </l>
+	<l id='701' part="f">Ah ! Reprenez vos sens... </l>
 	<l id='702'>N'ajoutez pas encore à mes affreux tourments.</l>
 	<l id='703'>Faut-il que ce soit moi, dans ce moment terrible, </l>
 	<l id='704'>Qui cherche à consoler votre coeur trop sensible ? </l>
@@ -1123,69 +1123,69 @@
 	<l id='727'>Suivez-moi... Votre frère est sûr de sa conquête. </l>
 <stage type="[N/A]">Le Dauphin et la jeune Princesse se jettent aux pieds des gardes.</stage>
 	<l id='728'>Ah ! D'un père innocent ne tranchez pas la tête ! </l>
-	<l id='729' part='i'>Coupez plutôt la mienne... </l>
+	<l id='729' part="i">Coupez plutôt la mienne... </l>
 </sp>
 <sp who='LA-PRINCESSE'><speaker>LA PRINCESSE.</speaker>
-	<l id='729' part='m'>Et puis la mienne... </l>
+	<l id='729' part="m">Et puis la mienne... </l>
 </sp>
 <sp who='LE-DAUPHIN'><speaker>LE DAUPHIN.</speaker>
-	<l id='729' part='f'>Hélas ! </l>
+	<l id='729' part="f">Hélas ! </l>
 	<l id='730'>Daignez à l'Assemblée accompagner mes pas... </l>
 <stage type="[N/A]">Santerre à quelques Soldats.</stage>
-	<l id='731' part='i'>Emmenez ces enfants..... </l>
+	<l id='731' part="i">Emmenez ces enfants..... </l>
 </sp>
 <sp who='LE-DAUPHIN'><speaker>LE DAUPHIN.</speaker>
-	<l id='731' part='f'>À vos pieds que j'embrasse, </l>
+	<l id='731' part="f">À vos pieds que j'embrasse, </l>
 	<l id='732'>Ne me refusez pas cette dernière grâce..... </l>
 </sp>
 <sp who='SANTERRE'><speaker>SANTERRE.</speaker>
-	<l id='733' part='i'>Soldats, qu'on les emporte..... </l>
+	<l id='733' part="i">Soldats, qu'on les emporte..... </l>
 <stage type="[N/A]">On les emporte.</stage>
 </sp>
 <sp who='MARIE-ANTOINETTE'><speaker>ANTOINETTE.</speaker>
-	<l id='733' part='f'>Ah ! Cruels, arrêtez !... </l>
+	<l id='733' part="f">Ah ! Cruels, arrêtez !... </l>
 </sp>
 <sp who='LOUIS-XVI'><speaker>LOUIS.</speaker>
-	<l id='734' part='i'>Mon fils.... </l>
+	<l id='734' part="i">Mon fils.... </l>
 </sp>
 <sp who='LA-PRINCESSE'><speaker>LA PRINCESSE.</speaker>
-	<l id='734' part='m'>On nous sépare... </l>
+	<l id='734' part="m">On nous sépare... </l>
 </sp>
 <sp who='LE-DAUPHIN'><speaker>LE DAUPHIN, à ses parents.</speaker>
-	<l id='734' part='f'>Et quoi, vous nous quittez ! </l>
+	<l id='734' part="f">Et quoi, vous nous quittez ! </l>
 <stage type="[N/A]">On l'entraîne de force.</stage>
 </sp>
 <sp who='SANTERRE'><speaker>SANTERRE, à Louis.</speaker>
-	<l id='735' part='i'>Marchons, il en est temps... </l>
+	<l id='735' part="i">Marchons, il en est temps... </l>
 <stage type="toward">À quelques soldats, montrant Antoinette et Elisabeth.</stage>
-	<l id='735' part='f'>Soldats, veillez sur elles </l>
+	<l id='735' part="f">Soldats, veillez sur elles </l>
 </sp>
 <sp who='MARIE-ANTOINETTE'><speaker>ANTOINETTE, se précipitant sur la garde.</speaker>
 	<l id='736'>Non, je puis affronter vos cohortes cruelles. </l>
-	<l id='737' part='i'>Entends-moi, cher époux... </l>
+	<l id='737' part="i">Entends-moi, cher époux... </l>
 </sp>
 <sp who='ELISABETH'><speaker>ÉLISABETH.</speaker>
-	<l id='737' part='m'>Louis... Mon frère... </l>
+	<l id='737' part="m">Louis... Mon frère... </l>
 </sp>
 <sp who='LOUIS-XVI'><speaker>LOUIS, sortant précipitamment.</speaker>
-	<l id='737' part='f'>Adieu... </l>
+	<l id='737' part="f">Adieu... </l>
 </sp>
 <sp who='MARIE-ANTOINETTE'><speaker>ANTOINETTE.</speaker>
 	<l id='738'>Il nous fuit... Se peut-il ?... On l'entraîne... Ah ! Grand Dieu ! </l>
-	<l id='739' part='i'>Suivons ses pas... Courons... </l>
+	<l id='739' part="i">Suivons ses pas... Courons... </l>
 <stage type="[N/A]">Louis disparaît, Antoinette tombe dans le sein d'Elisabeth.</stage>
-	<l id='739' part='m'>Je me meurs... </l>
+	<l id='739' part="m">Je me meurs... </l>
 </sp>
 <sp who='ELISABETH'><speaker>ÉLISABETH.</speaker>
-	<l id='739' part='f'>Antoinette... </l>
+	<l id='739' part="f">Antoinette... </l>
 <stage type="[N/A]">Elles s'évanouissent l'une et l'autre.</stage>
 </sp>
 <sp who='SANTERRE'><speaker>SANTERRE.</speaker>
 	<l id='740'>Profitons de l'état où la douleur les jette. </l>
 <stage type="toward">À quelques soldats.</stage>
-	<l id='741' part='i'>Qu'on les transporte ailleurs... </l>
+	<l id='741' part="i">Qu'on les transporte ailleurs... </l>
 <stage type="toward">À sa suite.</stage>
-	<l id='741' part='f'>Et nous, sans nul retard </l>
+	<l id='741' part="f">Et nous, sans nul retard </l>
 	<l id='742'>Dans le sein du despote, enfonçons le poignard. </l>
 <stage type="exit">lls sortent d'un côté, tandis qu'on emmène Antoinette et Elisabeth de l'autre.</stage>
 </sp>
