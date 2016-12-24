@@ -8,9 +8,9 @@
 			<date>1672</date>
 		</titleStmt>
 		<publicationStmt>	
-			<p>publié par Paul FIEVRE, octobre 2014</p>
-		<idno></idno>
-</publicationStmt>
+			<p>publié par Paul FIEVRE, octobre 2014, revu décembre 2016.</p>
+			<idno>BIANCOLLELLIROMAGNESI_ARCAGAMBIS</idno>
+		</publicationStmt>
 		<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -176,10 +176,10 @@
 <sp who='ARCAGAMBIS'><speaker>ARCAGAMBIS.</speaker>
 	<l id='60'>Gardes obéissez, je n'ai rien à lui dire.</l>
 </sp>
-<sp who='GARGAME'><speaker>GARGAME en s'en allant.</speaker>
+<sp stage="exit" who='GARGAME'><speaker>GARGAME, en s'en allant.</speaker>
 	<l id='61'>le Roi, cher Hierbas, a su ma trahison.</l>
 </sp>
-<sp who='HIERBAS'><speaker>HIERBAS, en s'en allant.</speaker>
+<sp stage="exit" who='HIERBAS'><speaker>HIERBAS, en s'en allant.</speaker>
 	<l id='62'>Et moi qui n'en suis point on me mène en prison.</l>
 </sp>
 <sp who='NABOTAS'><speaker>NABOTAS.</speaker>
@@ -336,7 +336,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. </head>
-<sp who='ARCAGAMBIS'><speaker>ARCAGAMBIS, seul.</speaker>
+<sp stage="alone" who='ARCAGAMBIS'><speaker>ARCAGAMBIS, seul.</speaker>
 	<l id='151'>La perfide me fuit, quel projet forme-t-elle ?</l>
 	<l id='152'>Je n'en suis plus aimé l'ingrate infidèle,</l>
 	<l id='153'>Elle-même à l'instant vient de m'en assurer : </l>
@@ -422,13 +422,13 @@
 <sp who='GARGAME'><speaker>GARGAME.</speaker>
 	<l id='194'>L'oreille d'un Sanglier que je porte.</l>
 </sp>
-<sp who='ARCAGAMBIS'><speaker>ARCAGAMBIS, embrassant.</speaker>
+<sp stage="kiss" who='ARCAGAMBIS'><speaker>ARCAGAMBIS, embrassant.</speaker>
 	<l id='195' part="i">Ah ! Mon fils !</l>
 </sp>
 <sp who='GARGAME'><speaker>GARGAME.</speaker>
 	<l id='195' part="m">Moi votre fils !</l>
 </sp>
-<sp who='NABOTAS'><speaker>NABOTAS, au Roi.</speaker>
+<sp stage="toward" who='NABOTAS'><speaker>NABOTAS, au Roi.</speaker>
 	<l id='195' part="f">Mon âme a lieu d'être étonnée ;</l>
 	<l id='196'>Seigneur, vous qui jamais au joug de l'hyménée</l>
 	<l id='197'>N'avez assujetti votre invincible cœur,</l>
@@ -483,7 +483,7 @@
 <sp who='GARGAME'><speaker>GARGAME.</speaker>
 	<l id='228' part="f">Dieux je n'ai plus de père !</l>
 </sp>
-<sp who='NABOTAS'><speaker>NABOTAS, à Gargame.</speaker>
+<sp stage="toward" who='NABOTAS'><speaker>NABOTAS, à Gargame.</speaker>
 	<l id='229'>Par de tels sentiments n'allez pas vous trahir,</l>
 	<l id='230'>Puisqu'il est votre père, il lui faut obéir.</l>
 </sp>
@@ -491,11 +491,11 @@
 	<l id='231'>Non, non lorsqu'il prétend me ravir ce que j'aime</l>
 	<l id='232'>Je ne reconnaît plus sa puissance suprême.</l>
 </sp>
-<sp who='NABOTAS'><speaker>NABOTAS, au Roi.</speaker>
+<sp stage="toward" who='NABOTAS'><speaker>NABOTAS, au Roi.</speaker>
 	<l id='233'>À vôtre âge l'on doit craindre le nom d'époux,</l>
 	<l id='234'>La Princesse Seigneur lui convient mieux qu'à voué.</l>
 </sp>
-<sp who='ARCAGAMBIS'><speaker>ARCAGAMBIS, à Gargame.</speaker>
+<sp stage="toward" who='ARCAGAMBIS'><speaker>ARCAGAMBIS, à Gargame.</speaker>
 	<l id='235'>Puisqu'enfin tu ne peux étouffer ta tendresse,</l>
 	<l id='236'>Je vais pour te punir épouser la Princesse.</l>
 </sp>
@@ -526,11 +526,11 @@
 	<l id='252' part="f">Comptez sur mon courage,</l>
 	<l id='253'>Je saurai de ce soin dignement m'acquitter,</l>
 	<l id='254'>Malheur à votre fils, s'il m'ose résister.</l>
-<stage type="[N/A]">Il sen va.</stage>
+<stage type="exit">Il sen va.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='9'><head>SCÈNE IX.</head>
-<sp who='ARCAGAMBIS'><speaker>ARCAGAMBIS, seul.</speaker>
+<sp stage="alone" who='ARCAGAMBIS'><speaker>ARCAGAMBIS, seul.</speaker>
 	<l id='255'>Quels combats tout à coup s'élèvent dans mon âme,</l>
 	<l id='256'>Souffrirai-je qu'un fils outrage ainsi ma flamme ?</l>
 	<l id='257'>Non, si jusqu'à ce point il ose me braver ;</l>
@@ -622,7 +622,7 @@
 <stage type="die">Il se tue.</stage>
 	<l id='301'>Ce jour par notre mort devait être marqué,</l>
 	<l id='302'>Justes Dieux ! C'en est fait, mon songe est expliqué.</l>
-<stage type="[N/A]">On emporte Arcagambis.</stage>
+<stage type="carry/exit">On emporte Arcagambis.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='11'><head>SCÈNE DERNIÈRE. Gargame, Hierbas, Gardes.</head>

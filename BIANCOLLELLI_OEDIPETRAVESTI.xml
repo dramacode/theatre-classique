@@ -8,8 +8,8 @@
 		</titleStmt>
 		<publicationStmt>	
 			<p>publié par Paul FIEVRE, juillet 2015</p>
-		<idno></idno>
-</publicationStmt>
+			<idno>BIANCOLLELLI_OEDIPETRAVESTI</idno>
+		</publicationStmt>
 		<SourceDesc>
 				<genre>Parodie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -18,10 +18,6 @@
 				<periode>1711-1720</periode>
 				<taille>1250-1500</taille>
 				<permalien></permalien>
-				<sources>
-					<source id='1'></source>
-				</sources>	
-
 		</SourceDesc>
 	</fileDesc>
 	</teiHeader>
@@ -34,15 +30,6 @@
 		</docTitle> 
 		<docDate value='1711'>M. DCC. XI. AVEC PRIVILÈGE DU ROI.</docDate>
 		<docAuthor id='BIANCOLELLI, Pierre François' bio='biancolelli'>PAR M. DOMINIQUE, COMÉDIEN DU ROI.</docAuthor>
-		<docImprint>
-			<privilege id=''><head></head>
-				
-			</privilege>
-			<approbation>
-			</approbation>
-			<acheveImprime id=''></acheveImprime>
-				<printer id=''></printer>
-		</docImprint>
 		<performance>
 			<premiere date='1719-04-17' location="Salle de l'Opéra d Lyon">Représentée pour la première fois par les Comédiens italiens ordinaires du Roi, le 17 avril 1719.</premiere>
 		</performance>
@@ -515,7 +502,7 @@
 <sp who="TRIVELIN"><speaker>TRIVELIN.</speaker>
 	<l id="260">Quel mensonge ! Peut-on m'outrager de la sorte ?</l>
 </sp>
-<sp who='COLOMBINE'><speaker>COLOMBINE, à Trivelin.</speaker>
+<sp stage="toward" who='COLOMBINE'><speaker>COLOMBINE, à Trivelin.</speaker>
 	<l id="261">Quoi ! Du pauvre Pierrot, vous seriez l'assassin ?</l>
 </sp>
 <sp who="FINEBRETTE"><speaker>FINEBRETTE.</speaker>
@@ -543,7 +530,7 @@
 	<l id="279">Pour nous je n'irons point demander votre grâce,</l>
 	<l id="280">Il faut tout au plutôt que justice se fasse.</l>
 </sp>
-<sp who='TRIVELIN'><speaker>TRIVELIN, au Magister.</speaker>
+<sp stage="toward" who='TRIVELIN'><speaker>TRIVELIN, au Magister.</speaker>
 	<l id="281">Non ! Je ne reviens point de mon saisissement,</l>
 	<l id="282">Et ma rage est égale à mon étonnement.</l>
 	<l id="283">Je rendrais par ta mort ma vengeance certaine :</l>
@@ -753,7 +740,7 @@
 	<l id="409">Je veux être éclairci : viens malheureux vieillard,</l>
 	<l id="410">Approche... mais je crois t'avoir vu quelque part.</l>
 </sp>
-<sp who='SIMON'><speaker>SIMON, à Colombine.</speaker>
+<sp stage="toward" who='SIMON'><speaker>SIMON, à Colombine.</speaker>
 	<l id="411">Hé bien, est-ce aujourd'hui qu'il faut que l'on me pende ?</l>
 	<l id="412">À ce funeste sort, faut-il que je m'attende ?</l>
 	<l id="413">N'avez-vous point encor calmé votre courroux ?</l>
@@ -761,7 +748,7 @@
 <sp who='COLOMBINE'><speaker>COLOMBINE.</speaker>
 	<l id="414">Rassurez-vous, Simon, parlez à mon époux.</l>
 </sp>
-<sp who='SIMON'><speaker>SIMON, à Trivelin.</speaker>
+<sp stage="toward" who='SIMON'><speaker>SIMON, à Trivelin.</speaker>
 	<l id="415">Quoi donc ? Pierrot est mort, et voilà votre femme !</l>
 <stage type="toward">À Colombine.</stage>
 	<l id="416">Vous n'avez pas été longtemps veuve, Madame.</l>
@@ -809,11 +796,11 @@
 	<l id="434">Trivelin, épargnez ce spectacle à mes yeux ;</l>
 	<l id="435">Êtes-vous possédé, quel démon vous tourmente ?</l>
 	<l id="436">Je ne puis plus rester, ici tout m'épouvante.</l>
-<stage type="[N/A]">File sort avec Simon.</stage>
+<stage type="exit">File sort avec Simon.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='9'><head>SCÈNE IX.</head>
-<sp who='TRIVELIN'><speaker>TRIVELIN, seul.</speaker>
+<sp stage="alone" who='TRIVELIN'><speaker>TRIVELIN, seul.</speaker>
 	<l id="437">Elle fait bien de fuir un monstre tel que moi,</l>
 	<l id="438">J'assassine Pierrot, et sans savoir pourquoi.</l>
 	<l id="439">Ah ! je suis un infâme, un gibier de potence,</l>
@@ -943,7 +930,7 @@
 	<l id="488" part="f">Que le diable l'emporte.</l>
 	<l id="489" part="i">Voyez un peu la langue! '</l>
 </sp>
-<sp who='GUILLAUME'><speaker>GUILLAUME,à Trivelin.</speaker>
+<sp stage="toward" who='GUILLAUME'><speaker>GUILLAUME,à Trivelin.</speaker>
 	<l id="489" part="f">Allez, n'en doutez pas ;</l>
 	<l id="490">Quoi que ce vieillard dise, il vous mit dans mes bras,</l>
 	<l id="491" part="i">Et voilà votre père.</l>
@@ -982,7 +969,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='12'><head>SCÈNE XII.</head>
-<sp who='TRIVELIN'><speaker>TRIVELIN, seul.</speaker>
+<sp stage="alone" who='TRIVELIN'><speaker>TRIVELIN, seul.</speaker>
 <note type="L">Magister : Maître d'école de village, qui enseigne à lire aux jeunes paysans. Il aide aussi à faire l'office du curé et du vicaire. Ce mot est pus latin, et s'applique aussi quelquefois à toutes sortes de pédants. [F]</note>
 	<l id="503">Hé bien, es-tu content, Magister détestable ?</l>
 	<l id="504">Ton oracle à la fin n'est que trop véritable.</l>

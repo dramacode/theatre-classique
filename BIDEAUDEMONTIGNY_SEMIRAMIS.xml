@@ -7,9 +7,9 @@
 			<author born='' born_location='' death='' death_location='' academie=''>BIDEAU DE MONTIGNY, Jean Charles François</author>
 			</titleStmt>
 			<publicationStmt>	
-				<p>publié par Paul FIEVRE, juin 2013.</p>
-			<idno></idno>
-</publicationStmt>
+				<p>publié par Paul FIEVRE, juin 2013, revu décembre 2016.</p>
+				<idno>BIDEAUDEMONTIGNY</idno>
+			</publicationStmt>
 			<SourceDesc>
 				<genre>Parodie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -18,9 +18,6 @@
 				<periode>1741-1750</periode>
 				<taille>0-250</taille>
 				<permalien></permalien>
-				<sources>
-					<source id='1'><author></author><text></text></source>
-				</sources>	
 			</SourceDesc>
 		</fileDesc>
 </teiHeader>
@@ -43,7 +40,7 @@
 		<castList><head>NOMS DES ACTEURS</head>
 			<castItem><role id="SÉMIRAMIS" sex="2" type="P" statut="oeuvre" age="A" stat_amour='néant'>SÉMIRAMIS</role>, tragédie de M. de Voltaire.</castItem>
 			<castItem><role id="L'EXPOSITION" sex="2" type="P" statut="élément de rhétorique" age="A" stat_amour='néant'>L'EXPOSITION</role>.</castItem>
-			<castItem><role id="LE DÉNOUMENT" sex="1" type="P" statut="élément de rhétorique" age="A" stat_amour='néant'>LE DÉNOUMENT</role>, sous le nom d'Oroès.</castItem>
+			<castItem><role id="LE DÉNOUEMENT" sex="1" type="P" statut="élément de rhétorique" age="A" stat_amour='néant'>LE DÉNOUEMENT</role>, sous le nom d'Oroès.</castItem>
 			<castItem><role id="L'INTÉRÊT" sex="1" type="P" statut="sentiment" age="A" stat_amour='néant'>L'INTÉRÊT</role>, sous le nom de Ninias.</castItem>
 			<castItem><role id="LA PITIÉ" sex="2" type="P" statut="sentiment" age="A" stat_amour='néant'>LA PITIÉ</role>, sous le nom d'Azéma.</castItem>
 			<castItem><role id="LA CABALE" sex="2" type="P" statut="événement" age="A" stat_amour='néant'>LA CABALE</role>, sous le nom d'Assur.</castItem>
@@ -65,7 +62,7 @@
 <body>
 <div1 type="act" n='1'><head>ACTE I</head>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. L'Exposition, Le Dénouement.</head>
-<sp who='LE DÉNOUMENT'><speaker>LE DÉNOUMENT.</speaker>
+<sp who='LE DÉNOUEMENT'><speaker>LE DÉNOUEMENT.</speaker>
 	<l id='1'>Oui c'est le Dénoument, oui c'est moi je vous jure,</l>
 	<l id='2'>C'est moi qui du Grand-Prêtre emprunte la figure.</l>
 </sp>
@@ -75,7 +72,7 @@
 	<l id='4'>Vous a fait devancer l'intrigue de si loin ?</l>
 	<l id='5'>Ne dois-je pas ici paraître la première ?</l>
 </sp>
-<sp who='LE DÉNOUMENT'><speaker>LE DÉNOUMENT.</speaker>
+<sp who='LE DÉNOUEMENT'><speaker>LE DÉNOUEMENT.</speaker>
 <note type="C">Voir le vers 10 d'Iphigénie de Racine qui cmmence par "Heureux".</note>
 	<l id='6'>Heureux le Dénoument qui seyant la lumière</l>
 <note type="C">Voir le vers 11 d'Iphigénie de Racine : "Libre du joug superbe où je suis attaché".</note>
@@ -90,7 +87,7 @@
 	<l id='13'>L'avouerai-je, Seigneur ? J'ai perdu la parole ;</l>
 	<l id='14'>Mais vous, si vous vouliez jouer ici mon rôle ?...</l>
 </sp>
-<sp who='LE DÉNOUMENT'><speaker>LE DÉNOUMENT.</speaker>
+<sp who='LE DÉNOUEMENT'><speaker>LE DÉNOUEMENT.</speaker>
 	<l id='15'>Madame y pensez-vous ? Moi qui suis si discret,</l>
 	<l id='16'>Qui sais avec tant d'art ménager un secret,</l>
 	<l id='17'>Vous voulez que je sois ici votre interprète ?</l>
@@ -100,7 +97,7 @@
 <sp who="L'EXPOSITION"><speaker>L'EXPOSITION.</speaker>
 	<l id='18' part="m">Quoi ?</l>
 </sp>
-<sp who='LE DÉNOUMENT'><speaker>LE DÉNOUMENT.</speaker>
+<sp who='LE DÉNOUEMENT'><speaker>LE DÉNOUEMENT.</speaker>
 	<l id='18' part="f">La royale cassette</l>
 	<l id='19'>Que pour bonnes raisons j'ai fait venir ici,</l>
 	<l id='20'>En ce pressant besoin peut vous servir aussi.</l>
@@ -117,7 +114,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II.</head>
-<sp who='LE DÉNOUMENT'><speaker>LE DÉNOUMENT, seule.</speaker>
+<sp stage="alone" who='LE DÉNOUEMENT'><speaker>LE DÉNOUEMENT, seule.</speaker>
 	<l id='29'>Elle s'en va contente, et je me moque d'elle.</l>
 	<l id='30'>Faut-il donc à parler instruire une femelle ?</l>
 	<l id='31'>Voilà comme un sujet souvent mal déclaré</l>
@@ -203,7 +200,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III.</head>
-<sp who='LA CABALE'><speaker>LA CABALE, seule.</speaker>
+<sp stage="alone" who='LA CABALE'><speaker>LA CABALE, seule.</speaker>
 <note type="C">Voir Semiramis de Voltaire, v. 351-352 : "Comme si, loin de nous, le dieu de l'univers / N'eût mis la vérité qu'au fond de ces déserts ;"</note>
 	<l id='77'>Comme si loin de nous le maître de la terrre</l>
 	<l id='78'>N'eut placé le bon goût qu'au fond de l'Angleterre.</l>
@@ -234,7 +231,7 @@
 <sp who="SÉMIRAMIS"><speaker>SÉMIRAMIS.</speaker>
 	<l id='81' part="f">Il se fait bien attendre ;</l>
 </sp>
-<sp who="L'INTÉRÊT"><speaker>L'INTÉRÊT, entre sous le nom de Ninias.</speaker>
+<sp stage="hide" who="L'INTÉRÊT"><speaker>L'INTÉRÊT, entre sous le nom de Ninias.</speaker>
 <note type="C">Le vers porute "plutôt", nous corrigeons en "plus tôt".</note>
 	<l id='82'>J'aurais dû, j'en conviens, un peu plus tôt me rendre.</l>
 </sp>
@@ -247,7 +244,7 @@
 <sp who='UN REMORD'><speaker>UN REMORD.</speaker>
 	<l id='84' part="f">On dit qu'il n'en est point.</l>
 </sp>
-<sp who='SÉMIRAMIS'><speaker>SÉMIRAMIS, à la Terreur.</speaker>
+<sp stage="toward" who='SÉMIRAMIS'><speaker>SÉMIRAMIS, à la Terreur.</speaker>
 	<l id='85' part="i">Et vous, que faites vous ?</l>
 </sp>
 <sp who='LA TERREUR'><speaker>LA TERREUR.</speaker>
@@ -288,7 +285,7 @@
 </sp>
 <sp who="SÉMIRAMIS"><speaker>SÉMIRAMIS.</speaker>
 	<l id='100' part="f">À l'imprimeur.</l>
-<stage type="[N/A]">Tous les Acteurs marquent leur surprise.</stage>
+<stage type="surpise">Tous les Acteurs marquent leur surprise.</stage>
 </sp>
 <sp who='LA PITIÉ'><speaker>LA PITIÉ.</speaker>
 	<l id='101' part="i">Hélas !</l>
@@ -383,43 +380,43 @@
 	<l id='135' part="i">Mais que veut le Grand-Prêtre ?</l>
 </sp>
 <sp who='LA PITIÉ'><speaker>LA PITIÉ.</speaker>
-	<l id='135' part="f">Ah ! C'est le Dénoument.</l>
+	<l id='135' part="f">Ah ! C'est le DÉNOUEMENT.</l>
 </sp>
-<sp who='LE DÉNOUMENT'><speaker>LE DÉNOUMENT.</speaker>
+<sp who='LE DÉNOUEMENT'><speaker>LE DÉNOUEMENT.</speaker>
 	<l id='136'>Je voudrais en secret vous parler un moment.</l>
-<stage type="[N/A]">La Pitié se retire.</stage>
+<stage type="exit">La Pitié se retire.</stage>
 </sp>
 </div2>
-<div2 type="scene" n='2'><head>SCÈNE II. L'Intérêt, Le Dénoument.</head>
-<sp who='LE DÉNOUMENT'><speaker>LE DÉNOUMENT.</speaker>
+<div2 type="scene" n='2'><head>SCÈNE II. L'Intérêt, Le Dénouement.</head>
+<sp who='LE DÉNOUEMENT'><speaker>LE DÉNOUEMENT.</speaker>
 	<l id='137' part="i">Je viens vous apporter...</l>
 </sp>
 <sp who="L'INTÉRÊT"><speaker>L'INTÉRÊT.</speaker>
 	<l id='137' part="f">J'entends, c'est une Lettre.</l>
 </sp>
-<sp who='LE DÉNOUMENT'><speaker>LE DÉNOUMENT.</speaker>
+<sp who='LE DÉNOUEMENT'><speaker>LE DÉNOUEMENT.</speaker>
 	<l id='138'>C'est un paquet qu'on m'a chargé de vous remettre.</l>
 </sp>
 <sp who="L'INTÉRÊT"><speaker>L'INTÉRÊT.</speaker>
 	<l id='139' part="i">De quelle part ?</l>
 </sp>
-<sp who='LE DÉNOUMENT'><speaker>LE DÉNOUMENT.</speaker>
+<sp who='LE DÉNOUEMENT'><speaker>LE DÉNOUEMENT.</speaker>
 	<l id='139' part="f">L'adresse est bien à Ninias.</l>
 <note type="C">Voir Sémiramis de Voltaire, v.1292 : "Adorez, rendez grâce, et ne murmurez pas".</note>
 	<l id='140'>Prenez donc, rendez grace, et ne répliquez pas.</l>
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III.</head>
-<sp who="L'INTÉRÊT"><speaker>L'INTÉRÊT, seul.</speaker>
+<sp stage="alone" who="L'INTÉRÊT"><speaker>L'INTÉRÊT, seul.</speaker>
 	<l id='141'>Ouvrons vite et voyons quel est tout ce mystère :</l>
 	<l id='142'>Oh oh : voici de quoi bien réjouir ma mère.</l>
-<stage type="[N/A]">Il parcourt plusieurs papiers et lit les titres.</stage>
+<stage type="title">Il parcourt plusieurs papiers et lit les titres.</stage>
 <p id="1">
 	<s id="1">Lettre sur Sémiramis, Critique de Sémiramis, seconde Critique, troisième Lettre, Apologie, Contre-Critique, etc.</s>
 </p>
 	<l id='143'>Ceci sent la cabale ! Hélas Sémiramis,</l>
 	<l id='144'>A donc plus de Censeurs en ces lieux, que d'Amis !</l>
-<stage type="[N/A]">Apercevant Sémiramis.</stage>
+<stage type="watch">Apercevant Sémiramis.</stage>
 	<l id='145' part="i">Ah ! Cachons...</l>
 </sp>
 </div2>
@@ -493,7 +490,7 @@
 	<l id='157'>Eh bien que ces écrits soient donc le seul supplice,</l>
 	<l id='158'>Qui de tous vos excès puissent faire justice.</l>
 </sp>
-<sp who="SÉMIRAMIS"><speaker>SÉMIRAMIS, après avoir lu.</speaker>
+<sp stage="read" who="SÉMIRAMIS"><speaker>SÉMIRAMIS, après avoir lu.</speaker>
 	<l id='159'>Ah, mon fils, je me meurs... et prête à succomber...</l>
 	<l id='160' part="i">Soutiens-moi.</l>
 </sp>
@@ -562,7 +559,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II.</head>
-<sp who='LA PITIÉ'><speaker>LA PITIÉ, seule.</speaker>
+<sp stage="alone" who='LA PITIÉ'><speaker>LA PITIÉ, seule.</speaker>
 	<l id='189'>Elle y va ; je crains bien que cette conjoncture</l>
 	<l id='190'>N'apporte à mon amant quelque triste aventure.</l>
 <note type="C">Voir Sémiramis de Voltaire, v.303 : "Je l'invoque en tremblant : des sons, des cris affreux,"</note>
@@ -587,7 +584,7 @@
 <note type="C">Voir Sémiramis de Voltaire, vers 1646 : "Et qu'on rende au trépas ma victime échappée."</note>
 	<l id='197'>La victime, grands Dieux, nous est donc échappée,</l>
 </sp>
-<sp who='LA CABALE'><speaker>LA CABALE, l'épée a la main.</speaker>
+<sp stage="threat" who='LA CABALE'><speaker>LA CABALE, l'épée a la main.</speaker>
 	<l id='198'>Tu n'échapperas pas toi-même à mon épée.</l>
 </sp>
 <sp who="L'INTÉRÊT"><speaker>L'INTÉRÊT.</speaker>
@@ -626,7 +623,7 @@
 <sp who="L'INTÉRÊT"><speaker>L'INTÉRÊT.</speaker>
 	<l id='205' part="f">Ah grands Dieux ; C'est ma mère !</l>
 </sp>
-<sp who='SÉMIRAMIS'><speaker>SÉMIRAMIS, douloureusement.</speaker>
+<sp stage="pain" who='SÉMIRAMIS'><speaker>SÉMIRAMIS, douloureusement.</speaker>
 	<l id='206'>Si j'en meurs, Ah c'est bien la faute de mon père !</l>
 </sp>
 <sp who="L'INTÉRÊT"><speaker>L'INTÉRÊT.</speaker>
@@ -668,10 +665,10 @@
 	<l id='215'>Le coup m'a renvoyé tomber à quatre pas...</l>
 	<l id='216'>Et je ne ssais, mon fils, si je n'en mourrai pas,</l>
 	<l id='217'>Je suis si MALTRAITÉE et ma douleur est telle...</l>
-	<l id='218' part="i">'Ah !</l>
+	<l id='218' part="i">Ah !</l>
 </sp>
-<sp who='LA PITIÉ'><speaker>LA PITIÉ, lui frottant la tête.</speaker>
-	<l id='218' part="m">Là , là ...</l>
+<sp stage="hit" who='LA PITIÉ'><speaker>LA PITIÉ, lui frottant la tête.</speaker>
+	<l id='218' part="m">Là, là ...</l>
 </sp>
 <sp who="L'INTÉRÊT"><speaker>L'INTÉRÊT.</speaker>
 	<l id='218' part="f">Ce que c'est que d'aller sans chandelle !</l>
@@ -685,7 +682,7 @@
 <sp who="SÉMIRAMIS"><speaker>SÉMIRAMIS.</speaker>
 	<l id='220' part="f">Que je vous dicte ici mes volontés.</l>
 	<l id='221'>Je veux qu'un noeud sacré tous les deux vous assemble ;</l>
-	<l id='222'>Tâchez d'être confìants et de bien vivre ensemble.</l>
+	<l id='222'>Tâchez d'être confiants et de bien vivre ensemble.</l>
 	<l id='223'>Gagnez vous tous les coeurs ; si de votre union</l>
 	<l id='224'>Vous donnez au Public quelque production...</l>
 </sp>
