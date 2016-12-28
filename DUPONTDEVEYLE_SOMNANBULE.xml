@@ -8,9 +8,9 @@
 				
 			</titleStmt>
 			<publicationStmt>	
-				<p>publié par Paul FIEVRE mai 2012</p>
-			<idno></idno>
-</publicationStmt>
+				<p>publié par Paul FIEVRE mai 2012, revu décembre 2016</p>
+				<idno>DUPONTDEVAYLE_SOMNANBULE</idno>
+			</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -19,9 +19,6 @@
 				<periode>1731-1740</periode>
 				<taille>(mesure non pertinente)</taille>
 				<permalien></permalien>
-				<sources>
-					<source id='1'><author></author><text></text></source>
-				</sources>	
 			</SourceDesc>
 		</fileDesc>
 </teiHeader>
@@ -34,10 +31,6 @@
 		<docDate value='1739'>M. DCC. LXXVI.</docDate>
 		<docAuthor id="FERIOL DE PONT-DE-VEYLE, Antoine de" bio='dupontdeveyle'>Par M. DE PONT DE VEYLE.</docAuthor>
 		<docImprint>
-			<privilege id=''><head></head>
-			<p> </p>
-			</privilege>
-			<acheveImprime id=''></acheveImprime>
 			<printer id='DELALAIN'>À PARIS, Chez DELALAIN, rue et à côté de la Comédie Française.</printer>
 		</docImprint>
 		<performance>	
@@ -46,9 +39,9 @@
 		<castList>
 			<head>PERSONNAGES</head>
 			<castItem><role id="LE-BARON" sex="1" type="H" statut='baron' age='A' stat_amour='néant'>LE BARON</role>.</castItem>
-			<castItem><role id="LA-COMTESSE" sex="2" type="H" statut='conte' age='A' stat_amour='néant'>LA COMTESSE</role>.</castItem>
-			<castItem><role id="ROSALIE" sex="2" type="H" statut='aristorate' age='A' stat_amour='amoureux'>ROSALIE</role>, fille de la Comtesse.</castItem>
-			<castItem><role id="VALÈRE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='amoureux'>VALÈRE</role>, neveu du Baron, Amant de Rosalie.</castItem>
+			<castItem><role id="LA-COMTESSE" sex="2" type="H" statut='comte' age='A' stat_amour='néant'>LA COMTESSE</role>.</castItem>
+			<castItem><role id="ROSALIE" sex="2" type="H" statut='aristorate' age='J' stat_amour='Valère'>ROSALIE</role>, fille de la Comtesse.</castItem>
+			<castItem><role id="VALÈRE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='Rosalie'>VALÈRE</role>, neveu du Baron, Amant de Rosalie.</castItem>
 			<castItem><role id="DORANTE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>DORANTE</role>.</castItem>
 			<castItem><role id="THIBAUT" sex="1" type="H" statut='jardinier' age='A' stat_amour='néant'>THIBAUT</role>, jardinier du Baron.</castItem>
 			<castItem><role id="FROTIN" sex="1" type="H" statut='valet' age='A' stat_amour='néant'>FRONTIN</role>, valet de Dorante, et neveu de Thibaut.</castItem>
@@ -71,7 +64,7 @@
 </sp>
 <sp who='VALÈRE'><speaker>VALÈRE.</speaker>
 <p id='3'>
-	<s id='1'>Viens donc vite; je n'ai peut-être qu'un moment à te parler. </s>
+	<s id='1'>Viens donc vite ; je n'ai peut-être qu'un moment à te parler. </s>
 	<s id='2'>J'ai trouvé le secret d'échapper à mon oncle.</s>
 </p>
 </sp>
@@ -104,9 +97,9 @@
 	<s id='3'>Je sis son Jardinier: je deviendrai le vôtre ; il est juste que je vous servions d'avance.</s>
 </p>
 </sp>
-<sp who='VALÈRE'><speaker>VALÈRE, gaiement.</speaker>
+<sp stage="happy" who='VALÈRE'><speaker>VALÈRE, gaiement.</speaker>
 <p id='9'>
-	<s id='1'>Mon cher Thibaut!</s>
+	<s id='1'>Mon cher Thibaut !</s>
 </p>
 </sp>
 <sp who='THIBAUT'><speaker>THIBAUT.</speaker>
@@ -350,7 +343,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II.</head>
-<sp who='THIBAUT'><speaker>THIBAUT, seul.</speaker>
+<sp stage="alone" who='THIBAUT'><speaker>THIBAUT, seul.</speaker>
 <p id='1'>
 	<s id='1'>Par la sambille, voilà un amoureux bian résolu !</s>
 </p>
@@ -482,7 +475,7 @@
 	<s id='6'>Il plante, pis déplante; il arrache; il défriche; il élève; il abbat; en un mot, bien ou mal, il fait toujours travailler. </s>
 	<s id='7'>L'argent roule.</s>
 </p>
-<stage type="[N/A]">Touchant son gousset.</stage>
+<stage type="get">Touchant son gousset.</stage>
 <p id='19'>
 	<s id='1'>Vois-tu comme ça sonne ?</s>
 </p>
@@ -672,7 +665,7 @@
 <p id='49'>
 	<s id='1'>Oh ! </s>
 	<s id='2'>Dis donc vîte. </s>
-	<s id='3'>SonSonanbule. </s>
+	<s id='3'>Son... Sonanbule. </s>
 	<s id='4'>Je n'avons jamais entendu parler de ça.</s>
 </p>
 </sp>
@@ -761,7 +754,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Frontin, Valère, Le Baron, Thibaut.</head>
-<sp who='LE-BARON'><speaker>LE BARON, avec des bas de peau dont le roulis est fort grand, ayant à la main un de ces grands bâtons de campagne.</speaker>
+<sp stage="dress" who='LE-BARON'><speaker>LE BARON, avec des bas de peau dont le roulis est fort grand, ayant à la main un de ces grands bâtons de campagne.</speaker>
 <p id='1'>
 	<s id='1'>Il faut se lever plus matin, Valère ; oui, beaucoup plus matin.</s>
 </p>
@@ -791,7 +784,7 @@
 	<s id='2'>Il faut achever cette année, la terrasse neuve. </s>
 	<s id='3'>Et si nous ne profitons pas de la belle saison...</s>
 </p>
-<stage type="[N/A]">Voyant Frontin.</stage>
+<stage type="watch">Voyant Frontin.</stage>
 <p id='6'>
 	<s id='1'>Quel est cet homme, Thibaut ?</s>
 </p>
@@ -823,7 +816,7 @@
 	<s id='1'>Monsieur Dorante.</s>
 </p>
 </sp>
-<sp who='VALÈRE'><speaker>VALÈRE, à part.</speaker>
+<sp stage="aparte" who='VALÈRE'><speaker>VALÈRE, à part.</speaker>
 <p id='12'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Ciel !</s>
@@ -862,7 +855,7 @@
 	<s id='3'>Croyez-moi, laissez vos jets d'eau à sec.</s>
 </p>
 </sp>
-<sp who='LE-BARON'><speaker>LE BARON, à Frontin.</speaker>
+<sp stage="toward" who='LE-BARON'><speaker>LE BARON, à Frontin.</speaker>
 <p id='17'>
 	<s id='1'>C'est une bagatelle. </s>
 	<s id='2'>J'ai toujours fait les bassins, et les cascades, et je n'ai plus que les sources à trouver. </s>
@@ -878,11 +871,11 @@
 <p id='19'>
 	<s id='1'>Vas donc, Thibaut.</s>
 </p>
-<stage type="[N/A]">Thibaut s'en va.</stage>
+<stage type="exit">Thibaut s'en va.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Frontin, Le Baron, Dorante, Valère.</head>
-<sp who='FRONTIN'><speaker>FRONTIN, au Baron.</speaker>
+<sp stage="toward" who='FRONTIN'><speaker>FRONTIN, au Baron.</speaker>
 <p id='1'>
 	<s id='1'>Monsieur, voici mon Maître.</s>
 </p>
@@ -894,7 +887,7 @@
 	<s id='3'>Soyez le bien arrivé! Je ne vous attendais que demain.</s>
 </p>
 </sp>
-<sp who='DORANTE'><speaker>DORANTE, au Baron.</speaker>
+<sp stage="toward" who='DORANTE'><speaker>DORANTE, au Baron.</speaker>
 <p id='3'>
 	<s id='1'>Je n'a pu résister à l'impatience de voir Rosalie, et à celle de vous rendre grâce d'une union qui va faire mon bonheur.</s>
 </p>
@@ -917,7 +910,7 @@
 	<s id='2'>Vous êtes en bonne maison ; on aura soin de vous.</s>
 </p>
 </sp>
-<sp who='DORANTE'><speaker>DORANTE, montrant Valère.</speaker>
+<sp stage="show" who='DORANTE'><speaker>DORANTE, montrant Valère.</speaker>
 <p id='7'>
 	<s id='1'>Ne serait-ce pas là Monsieur votre neveu ?</s>
 </p>
@@ -932,7 +925,7 @@
 	<s id='1'>Je l'ai vu si jeune, que j'ai des droits sur son amitié.</s>
 </p>
 </sp>
-<sp who='VALÈRE'><speaker>VALÈRE, à Dorante.</speaker>
+<sp stage="toward" who='VALÈRE'><speaker>VALÈRE, à Dorante.</speaker>
 <p id='10'>
 	<s id='1'>Monsieur... je voudrais... pouvoir...</s>
 </p>
@@ -1137,7 +1130,7 @@
 	<s id='3'>Je te parle des charmes de ma maison, de mon Jardin, qui...</s>
 </p>
 </sp>
-<sp who='VALÈRE'><speaker>VALÈRE, rougissant.</speaker>
+<sp stage="shy" who='VALÈRE'><speaker>VALÈRE, rougissant.</speaker>
 <p id='13'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>J'entends ; et vous avez raison. </s>
@@ -1152,7 +1145,7 @@
 </sp>
 <sp who='VALÈRE'><speaker>VALÈRE.</speaker>
 <p id='15'>
-	<s id='1'>J'y remrquais une beauté que je n'y avais jamais vue : j'en admirais tous les charmes, et...</s>
+	<s id='1'>J'y remarquais une beauté que je n'y avais jamais vue : j'en admirais tous les charmes, et...</s>
 </p>
 </sp>
 <sp who='LE-BARON'><speaker>LE BARON.</speaker>
@@ -1240,22 +1233,22 @@
 	<s id='3'>Dorante est arrivé.</s>
 </p> 
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE, gaiement.</speaker>
+<sp stage="happy" who='LA-COMTESSE'><speaker>LA COMTESSE, gaiement.</speaker>
 <p id='13'>
 	<s id='1'>Il est arrivé ?</s>
 </p>
 </sp>
-<sp who='ROSALIE'><speaker>ROSALIE, tristement.</speaker>
+<sp stage="sad" who='ROSALIE'><speaker>ROSALIE, tristement.</speaker>
 <p id='14'>
 	<s id='1'>Il est arrivé ?</s>
 </p>
 </sp>
-<sp who='VALÈRE'><speaker>VALÈRE, languissamment.</speaker>
+<sp stage="lovely" who='VALÈRE'><speaker>VALÈRE, languissamment.</speaker>
 <p id='15'>
 	<s id='1'>Oui, arrivé.</s>
 </p>
 </sp>
-<sp who='LE-BARON'><speaker>LE BARON, brusquement, à Valère.</speaker>
+<sp stage="abrupt/toward" who='LE-BARON'><speaker>LE BARON, brusquement, à Valère.</speaker>
 <p id='16'>
 	<s id='1'>Oui, oui arrivé. </s>
 	<s id='2'>Que diable veux-tu dire ? </s>
@@ -1268,7 +1261,7 @@
 	<s id='2'>Je confirme ce que vous dites.</s>
 </p>
 </sp>
-<sp who='LE-BARON'><speaker>LE BARON, à la Comtesse.</speaker>
+<sp stage="toward" who='LE-BARON'><speaker>LE BARON, à la Comtesse.</speaker>
 <p id='18'>
 	<s id='1'>Il est charmant, agréable, vif, sage, et posé. </s>
 	<s id='2'>Oh ! </s>
@@ -1282,14 +1275,14 @@
 	<s id='2'>C'est Madamoiselle qui doit en décider.</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE, à Rosalie.</speaker>
+<sp stage="toward" who='LA-COMTESSE'><speaker>LA COMTESSE, à Rosalie.</speaker>
 <p id='20'>
 	<s id='1'>Eh ! </s>
 	<s id='2'>Bien, qu'est-ce qu'on répond ? </s>
 	<s id='3'>Mademoiselle répondez donc.</s>
 </p>
 </sp>
-<sp who='ROSALIE'><speaker>ROSALIE, à Valère.</speaker>
+<sp stage="toward" who='ROSALIE'><speaker>ROSALIE, à Valère.</speaker>
 <p id='21'>
 	<s id='1'>Il peut-être amiable, Monsieur : mais il ne faudrait pas s'en rapporter à moi. </s>
 	<s id='2'>Je ne puis plus en juger sans prévention.</s>
@@ -1408,7 +1401,7 @@
 	<s id='1'>Oui : mais la montagne ne changera pas de place.</s>
 </p>
 </sp>
-<sp who='LE-BARON'><speaker>LE BARON, confidemment.</speaker>
+<sp stage="confident" who='LE-BARON'><speaker>LE BARON, confidemment.</speaker>
 <p id='2'>
 	<s id='1'>Je ne dis mot ; mais elle sautera.</s>
 </p>
@@ -1458,7 +1451,7 @@
 	<s id='2'>Bon.</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE, au Baron.</speaker>
+<sp stage="toward" who='LA-COMTESSE'><speaker>LA COMTESSE, au Baron.</speaker>
 <p id='4'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Je vous donnerai de bons conseils. </s>
@@ -1501,22 +1494,22 @@
 	<s id='1'>Suivez mon doigt.</s>
 </p>
 </sp>
-<sp who='VALÈRE'><speaker>VALÈRE, à Rosalie.</speaker>
+<sp stage="toward" who='VALÈRE'><speaker>VALÈRE, à Rosalie.</speaker>
 <p id='11'>
 	<s id='1'>Vous ne vous approchez pas, Mademoiselle ?</s>
 </p>
 </sp>
-<sp who='ROSALIE'><speaker>ROSALIE, à Valère.</speaker>
+<sp stage="toward" who='ROSALIE'><speaker>ROSALIE, à Valère.</speaker>
 <p id='12'>
 	<s id='1'>J'ai déjà fait l'aveu de mon ignorance ; je n'y entends rien.</s>
 </p>
 </sp>
-<sp who='VALÈRE'><speaker>VALÈRE, bas.</speaker>
+<sp stage="low" who='VALÈRE'><speaker>VALÈRE, bas.</speaker>
 <p id='13'>
 	<s id='1'>Et vous n'entendez pas non plus les soupirs de l'homme du monde le plus malheureux ?</s>
 </p>
 </sp>
-<sp who='ROSALIE'><speaker>ROSALIE, à part.</speaker>
+<sp stage="aparte" who='ROSALIE'><speaker>ROSALIE, à part.</speaker>
 <p id='14'>
 	<s id='1'>Hélas !</s>
 </p>
@@ -1547,18 +1540,18 @@
 	<s id='1'>Tatigué, que vous allez voir clair !</s>
 </p>
 </sp>
-<sp who='VALÈRE'><speaker>VALÈRE, haut.</speaker>
+<sp stage="loud" who='VALÈRE'><speaker>VALÈRE, haut.</speaker>
 <p id='20'>
 	<s id='1'>Pourquoi vous défier de vos lumières, Mademoiselle ? </s>
 	<s id='2'>On pourrait vous expliquer...</s>
 </p>
 </sp>
-<sp who='ROSALIE'><speaker>ROSALIE, haut.</speaker>
+<sp stage="loud" who='ROSALIE'><speaker>ROSALIE, haut.</speaker>
 <p id='21'>
 	<s id='1'>À quoi me servirait cette connaissance ?</s>
 </p>
 </sp>
-<sp who='VALÈRE'><speaker>VALÈRE, bas.</speaker>
+<sp stage="low" who='VALÈRE'><speaker>VALÈRE, bas.</speaker>
 <p id='22'>
 	<s id='1'>À mériter votre pitié.</s>
 </p>
@@ -1600,7 +1593,7 @@
 	<s id='1'>Un, deux, trois, quatre, cinq.</s>
 </p>
 </sp>
-<sp who='VALÈRE'><speaker>VALÈRE, haut, regardant Rosalie.</speaker>
+<sp stage="loud/watch" who='VALÈRE'><speaker>VALÈRE, haut, regardant Rosalie.</speaker>
 <p id='30'>
 	<s id='1'>Dorante perd beaucoup, quand il retarde le moment de voir tant de beautés.</s>
 </p>
@@ -1624,7 +1617,7 @@
 	<s id='1'>Sans doute ; et une vue...</s>
 </p>
 </sp>
-<sp who='VALÈRE'><speaker>VALÈRE, à la Comtesse.</speaker>
+<sp stage="toward" who='VALÈRE'><speaker>VALÈRE, à la Comtesse.</speaker>
 <p id='34'>
 	<s id='1'>Admirable, Madame.</s>
 </p>
@@ -1637,7 +1630,7 @@
 	<s id='1'>D'un coeur que votre refus réduirait au désespoir.</s>
 </p>
 </sp>
-<sp who='LE-BARON'><speaker>LE BARON, à Rosalie.</speaker>
+<sp stage="toward" who='LE-BARON'><speaker>LE BARON, à Rosalie.</speaker>
 <p id='37'>
 	<s id='1'>Il connait la situation comme moi-même : c'est lui, Mademoiselle, qui a dressé le plan sur mes projets.</s>
 </p>
@@ -1667,7 +1660,7 @@
 	<s id='1'>Jaurai soixante avenues de cette taille-là.</s>
 </p>
 </sp>
-<sp who='VALÈRE'><speaker>VALÈRE, à Rosalie.</speaker>
+<sp stage="toward" who='VALÈRE'><speaker>VALÈRE, à Rosalie.</speaker>
 <p id='42'>
 	<s id='1'>Vous concevez, Mademoiselle, l'effet que cela produira.</s>
 </p>
@@ -1675,7 +1668,7 @@
 <p id='43'>
 	<s id='1'>En sortant de table...</s>
 </p>
-<stage type="forte">Haut.</stage>
+<stage type="loud">Haut.</stage>
 <p id='44'>
 	<s id='1'>Rien ne sera si noble sans contredit.</s>
 </p>
@@ -1683,7 +1676,7 @@
 <p id='45'>
 	<s id='1'>Ici même, dans cette salle...</s>
 </p>
-<stage type="forte">Haut.</stage>
+<stage type="loud">Haut.</stage>
 <p id='46'>
 	<s id='1'>Cela demande de la patience, à la vérité.</s>
 </p>
@@ -1691,7 +1684,7 @@
 <p id='47'>
 	<s id='1'>Si vous voulez m'écouter un moment, vous me sauverez la vie.</s>
 </p>
-<stage type="forte">Haut</stage>
+<stage type="loud">Haut</stage>
 <p id='48'>
 	<s id='1'>Mais convenez que c'est une belle entreprise.</s>
 </p>
@@ -1720,12 +1713,12 @@
 	<s id='2'>Eh ! </s>
 	<s id='3'>Mais...</s>
 </p>
-<stage type="[N/A]">Montrant avec sa main.</stage>
+<stage type="show">Montrant avec sa main.</stage>
 <p id='53'>
 	<s id='1'>Comme cela ?</s>
 </p>
 </sp>
-<sp who='LE-BARON'><speaker>LE BARON, riant.</speaker>
+<sp stage="laugh" who='LE-BARON'><speaker>LE BARON, riant.</speaker>
 <p id='54'>
 	<s id='1'>Ah ! ah ! ah !... </s>
 	<s id='2'>Que vous n'y êtes pas ! </s>
@@ -1794,7 +1787,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='11'><head>SCÈNE XI. Les Acteurs Précédents, Un Maître d'Hôtel.</head>
-<sp who='LE-BARON'><speaker>LE BARON, au Maître d'Hôtel.</speaker>
+<sp stage="toward" who='LE-BARON'><speaker>LE BARON, au Maître d'Hôtel.</speaker>
 <p id='1'>
 	<s id='1'>Ces Dames sont servies ?</s>
 </p>
@@ -1823,7 +1816,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='12'><head>SCÈNE XII.</head>
-<sp who='THIBAUT'><speaker>THIBAUT, seul.</speaker>
+<sp stage="alone" who='THIBAUT'><speaker>THIBAUT, seul.</speaker>
 <p id='1'>
 	<s id='1'>Avec son parc ! </s>
 	<s id='2'>Il est, morgué, bian fou. </s>
@@ -1952,7 +1945,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='14'><head>SCÈNE XIV. Frontin, Thibaut, Dorante.</head>
-<stage type="[N/A]">Dorante paraît en robe-de-chambre, avec une botte, une pantoufle, une perruque mal mise, un ceinturon, un fouet de poste à la main ; enfin dans le désordre, mais cependant ni meséant ni trop ridicule.</stage>
+<stage type="dress">Dorante paraît en robe-de-chambre, avec une botte, une pantoufle, une perruque mal mise, un ceinturon, un fouet de poste à la main ; enfin dans le désordre, mais cependant ni meséant ni trop ridicule.</stage>
 <sp who='THIBAUT'><speaker>THIBAUT.</speaker>
 <p id='1'>
 	<s id='1'>Tiens, voilà ton maître qui veut te parler.</s>
@@ -2043,14 +2036,14 @@
 </p>
 </sp>
 <sp who='DORANTE'><speaker>DORANTE.</speaker>
-<stage type="[N/A]">Il donne des coups de fouet en l'air et attrape Thibaut.</stage>
+<stage type="hit">Il donne des coups de fouet en l'air et attrape Thibaut.</stage>
 <p id='14'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Les mauvais chevaux ! </s>
 	<s id='3'>Ohé, ohé, ohé !</s>
 </p>
 </sp>
-<sp who='FRONTIN'><speaker>FRONTIN, riant.</speaker>
+<sp stage="laugh" who='FRONTIN'><speaker>FRONTIN, riant.</speaker>
 <p id='15'>
 	<s id='1'>Ah, ah, ah, ah !</s>
 </p>
@@ -2101,7 +2094,7 @@
 	<s id='2'>Il faut lui rendre...</s>
 </p>
 </sp>
-<sp who='FRONTIN'><speaker>FRONTIN, s'avançant.</speaker>
+<sp stage="closer" who='FRONTIN'><speaker>FRONTIN, s'avançant.</speaker>
 <p id='23'>
 	<s id='1'>Oui, votre correspondant.</s>
 </p>
@@ -2112,9 +2105,9 @@
 	<s id='2'>Il est bien pressé... </s>
 	<s id='3'>Écrivons.</s>
 </p>
-<stage type="[N/A]">Il fait avec son fouet comme s'il écrivait.</stage>
+<stage type="write">Il fait avec son fouet comme s'il écrivait.</stage>
 </sp>
-<sp who='FRONTIN'><speaker>FRONTIN, à Thibaut.</speaker>
+<sp stage="toward" who='FRONTIN'><speaker>FRONTIN, à Thibaut.</speaker>
 <p id='25'>
 	<s id='1'>Oh ! </s>
 	<s id='2'>Maintenant je vais l'éveiller.</s>
@@ -2164,7 +2157,7 @@
 	<s id='1'>Tiens ma lettre, Frontin.</s>
 </p>
 </sp>
-<sp who='FRONTIN'><speaker>FRONTIN, à Dorante.</speaker>
+<sp stage="toward" who='FRONTIN'><speaker>FRONTIN, à Dorante.</speaker>
 <p id='34'>
 	<s id='1'>Oui, Monsieur, votre lettre.</s>
 </p>
@@ -2186,7 +2179,7 @@
 	<s id='4'>Prenons, prenons ; nous le partagerons.</s>
 </p>
 </sp>
-<sp who='DORANTE'><speaker>DORANTE, saisissant Thibaut au collet.</speaker>
+<sp stage="strangle" who='DORANTE'><speaker>DORANTE, saisissant Thibaut au collet.</speaker>
 <p id='37'>
 	<s id='1'>Partagerons... </s>
 	<s id='2'>Voleur, je t'étranglerai.</s>
@@ -2213,7 +2206,7 @@
 	<s id='3'>Au secours !</s>
 </p>
 </sp>
-<sp who='FRONTIN'><speaker>FRONTIN, à Thibaut.</speaker>
+<sp stage="toward" who='FRONTIN'><speaker>FRONTIN, à Thibaut.</speaker>
 <p id='40'>
 	<s id='1'>Attendez ; laissez-moi lui prendre le petit doigt ; il n'y a pas d'autre moyen de l'éveiller.</s>
 </p>
@@ -2223,7 +2216,7 @@
 	<s id='1'>Prends-li, morgué, tout ce que tu voudras ; mais tire-moi de ses pattes.</s>
 </p>
 </sp>
-<sp who='FRONTIN'><speaker>FRONTIN, à Dorante.</speaker>
+<sp stage="toward" who='FRONTIN'><speaker>FRONTIN, à Dorante.</speaker>
 <p id='42'>
 	<s id='1'>Monsieur, Monsieur éveillez-vous.</s>
 </p>
@@ -2253,7 +2246,7 @@
 	<s id='3'>Je m'en souviens ; je suis chez Monsieur le Baron.</s>
 </p>
 </sp>
-<sp who='THIBAUT'><speaker>THIBAUT, à Dorante.</speaker>
+<sp stage="toward" who='THIBAUT'><speaker>THIBAUT, à Dorante.</speaker>
 <p id='47'>
 	<s id='1'>Oui, de par tous les Diables, vous y êtes.</s>
 </p>
@@ -2285,7 +2278,7 @@
 	<s id='1'>Pargué, vous croyez trop vite.</s>
 </p>
 </sp>
-<sp who='DORANTE'><speaker>DORANTE, à Thibaut.</speaker>
+<sp stage="toward" who='DORANTE'><speaker>DORANTE, à Thibaut.</speaker>
 <p id='53'>
 	<s id='1'>Il n'y a rien que je ne te donne pour t'engager au secret. </s>
 	<s id='2'>Que penserait Rosalie ? </s>
@@ -2330,7 +2323,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='15'><head>SCÈNE XV.</head>
-<sp who='THIBAUT'><speaker>THIBAUT, seul.</speaker>
+<sp stage="alone" who='THIBAUT'><speaker>THIBAUT, seul.</speaker>
 <p id='1'>
 	<s id='1'>Vela, morguienne, une recommendation bian sèche, et un drôle de répondant ! </s>
 	<s id='2'>Tout ce que j'avons vu du depuis un moment, me partrouble. </s>
@@ -2357,7 +2350,7 @@
 <p id='2'>
 	<s id='1'>Mais comment diantre m'y prendrai-je pour lui dégoiser tout ça ?</s>
 </p>
-<stage type="forte">Haut.</stage>
+<stage type="loud">Haut.</stage>
 <p id='3'>
 	<s id='1'>Oh ! </s>
 	<s id='2'>Palsanguienne, allez, Monsieur, vous ne savez pas...</s>
@@ -2399,10 +2392,10 @@
 </sp>
 <sp who='THIBAUT'><speaker>THIBAUT.</speaker>
 <p id='10'>
-	<s id='1'>Mais tout ce que j'avons à vous dire, est itou fort nécessarie.</s>
+	<s id='1'>Mais tout ce que j'avons à vous dire, est itou fort nécessaire.</s>
 </p>
 </sp>
-<sp who='VALÈRE'><speaker>VALÈRE, à Thibaut.</speaker>
+<sp stage="toward" who='VALÈRE'><speaker>VALÈRE, à Thibaut.</speaker>
 <p id='11'>
 	<s id='1'>Dans ce moment je ne sens que mon impatience.</s>
 </p>
@@ -2431,7 +2424,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='16'><head>SCÈNE XVII.</head>
-<sp who='VALÈRE'><speaker>VALÈRE, seul.</speaker>
+<sp stage="alone" who='VALÈRE'><speaker>VALÈRE, seul.</speaker>
 <p id='1'>
 	<s id='1'>Enfin, j'en suis défait. </s>
 	<s id='2'>Je me suis peut-être trop flatté ; Rosalie ne viendra pas. </s>
@@ -2451,7 +2444,7 @@
 	<s id='3'>Avancez donc quelques pas ; on pourrait nous entendre.</s>
 </p>
 </sp>
-<sp who='ROSALIE'><speaker>ROSALIE, tremblante et n'avançant que très peu.</speaker>
+<sp stage="frighten" who='ROSALIE'><speaker>ROSALIE, tremblante et n'avançant que très peu.</speaker>
 <p id='2'>
 	<s id='1'>Non, Valère ; j'ai trop de peur. </s>
 	<s id='2'>Dites-moi vite ce que vous me voulez. </s>
@@ -2688,7 +2681,7 @@
 	<s id='1'>Non, Baron ; son amour...</s>
 </p>
 </sp>
-<sp who='LE-BARON'><speaker>LE BARON, à la Comtesse.</speaker>
+<sp stage="toward" who='LE-BARON'><speaker>LE BARON, à la Comtesse.</speaker>
 <p id='13'>
 	<s id='1'>Son amour ! </s>
 	<s id='2'>Son amour est impertinent. </s>
@@ -2704,7 +2697,7 @@
 	<s id='1'>Je vous proteste, mon oncle, que j'ai pour Madame un respect infini.</s>
 </p>
 </sp>
-<sp who='LE-BARON'><speaker>LE BARON, à la Comtesse.</speaker>
+<sp stage="toward" who='LE-BARON'><speaker>LE BARON, à la Comtesse.</speaker>
 <p id='16'>
 	<s id='1'>Une jeune barbe qui ne songe pas que vous seriez sa mère, et qui ose vous manquer.</s>
 </p>
@@ -2792,14 +2785,14 @@
 	<s id='2'>Dorante n'est point instruit de ce qui s'est passé ; le moyen de le lui cacher, c'est de laisser les choses au même état.</s>
 </p>
 </sp>
-<sp who='VALÈRE'><speaker>VALÈRE, se jetant à ses genoux.</speaker>
+<sp stage="kneel" who='VALÈRE'><speaker>VALÈRE, se jetant à ses genoux.</speaker>
 <p id='30'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Mon oncle. </s>
 	<s id='3'>Si vous daigniez ajouter à tant de bontés...</s>
 </p>
 </sp>
-<sp who='LE-BARON'><speaker>LE BARON, à Valère.</speaker>
+<sp stage="toward" who='LE-BARON'><speaker>LE BARON, à Valère.</speaker>
 <p id='31'>
 	<s id='1'>Tais-toi : je te parlerai. </s>
 	<s id='2'>Tu verras comment je saurai faire passer cet amour prétendu, cette bouffée de jeunesse : je t'apprendrai si l'on doit aimer à ton âge, et dans mon château, sans ma permission !</s>
@@ -2880,23 +2873,23 @@
 </sp>
 </div2>
 <div2 type="scene" n='21'><head>SCÈNE XXI. Rosalie, La Comtesse, Dorante, Le Baron, Valère.</head> 
-<stage type="[N/A]">Dorante paraît en robe-de-chambre, et tenant son chapeau à la main, dont il se cache le bas du visage.</stage>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE, à Rosalie.</speaker>
+<stage type="dress/hide">Dorante paraît en robe-de-chambre, et tenant son chapeau à la main, dont il se cache le bas du visage.</stage>
+<sp stage="toward" who='LA-COMTESSE'><speaker>LA COMTESSE, à Rosalie.</speaker>
 <p id='1'>
 	<s id='1'>Vous nous mettez dans une jolie situation, Mademoiselle !</s>
 </p>
 </sp>
-<sp who='LE-BARON'><speaker>LE BARON, à la Comtesse.</speaker>
+<sp stage="toward" who='LE-BARON'><speaker>LE BARON, à la Comtesse.</speaker>
 <p id='2'>
 	<s id='1'>Il n'y aurait point de remède, s'il nous avait écouté.</s>
 </p>
 </sp>
-<sp who='VALÈRE'><speaker>VALÈRE, à part.</speaker>
+<sp stage="aparte" who='VALÈRE'><speaker>VALÈRE, à part.</speaker>
 <p id='3'>
 	<s id='1'>Plut au Ciel !</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE, au Baron.</speaker>
+<sp stage="toward" who='LA-COMTESSE'><speaker>LA COMTESSE, au Baron.</speaker>
 <p id='4'>
 	<s id='1'>Qu'il a l'air occupé !</s>
 </p>
@@ -2925,7 +2918,7 @@
 <p id='9'>
 	<s id='1'>Il ne se soucie plus de plaire à ma fille, preuve de mépris !</s>
 </p>
-<stage type="[N/A]">D'un ton précieux, à Dorante.</stage>
+<stage type="disdain">D'un ton précieux, à Dorante.</stage>
 <p id='10'>
 	<s id='1'>De quelque façon que soit Monsieur il est toujours bien.</s>
 </p>
@@ -2950,18 +2943,18 @@
 	<s id='1'>Ma foi? point de façons... </s>
 	<s id='2'>Vous ne faites point de façons, il me paraît.</s>
 </p>
-<stage type="[N/A]">Riant à demi voix.</stage>
+<stage type="laugh">Riant à demi voix.</stage>
 <p id='14'>
 	<s id='1'>Ah, ah, ah !... </s>
 	<s id='2'>Ah, ah, ah !...</s>
 </p>
 </sp>
-<sp who='VALÈRE'><speaker>VALÈRE, à part.</speaker>
+<sp stage="aparte" who='VALÈRE'><speaker>VALÈRE, à part.</speaker>
 <p id='15'>
 	<s id='1'>Il a tout entendu.</s>
 </p>
 </sp>
-<sp who='LE-BARON'><speaker>LE BARON, à Dorante.</speaker>
+<sp stage="toward" who='LE-BARON'><speaker>LE BARON, à Dorante.</speaker>
 <p id='16'>
 	<s id='1'>Vous êtes toujours naturel, toujours jovial. </s>
 	<s id='2'>Oh ! </s>
@@ -2975,7 +2968,7 @@
 	<s id='3'>Oh ! </s>
 	<s id='4'>Non.</s>
 </p>
-<stage type="[N/A]">Riant.</stage>
+<stage type="laugh">Riant.</stage>
 <p id='18'>
 	<s id='1'>Ah, ah, ah.</s>
 </p>
@@ -3020,7 +3013,7 @@
 	<s id='3'>Ce sont des masques.</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE, à Rosalie.</speaker>
+<sp stage="toward" who='LA-COMTESSE'><speaker>LA COMTESSE, à Rosalie.</speaker>
 <p id='25'>
 	<s id='1'>Voilà ce que vous m'attirez, Mademoiselle. </s>
 </p>
@@ -3030,8 +3023,8 @@
 	<s id='2'>Sachez, Monsieur, que tout autre parti était plus honnête que celui que vous prenez pour rompre avec nous.</s>
 </p>
 </sp>
-<sp who='DORANTE'><speaker>DORANTE s'approche d'un fauteuil et s'assied.</speaker>
-<stage type="[N/A]">Rosalie, la Comtesse, le Baron, Valere, Dorante assis.</stage>
+<sp stage="closer/sit" who='DORANTE'><speaker>DORANTE, s'approche d'un fauteuil et s'assied.</speaker>
+<stage type="sit">Rosalie, la Comtesse, le Baron, Valere, Dorante assis.</stage>
 <p id='27'>
 	<s id='1'>Ouf ! </s>
 	<s id='2'>Je suis beaucoup mieux... </s>
@@ -3048,7 +3041,7 @@
 <p id='29'>
 	<s id='1'>Qu'elle aille se promener avec un autre. </s>
 </p>
-<stage type="[N/A]">Il s'endort.</stage>
+<stage type="sleep">Il s'endort.</stage>
 </sp>
 <sp who='LE-BARON'><speaker>LE BARON.</speaker>
 <p id='30'>
@@ -3085,28 +3078,28 @@
 	<s id='2'>Ma mère !</s>
 </p>
 </sp>
-<sp who='VALÈRE'><speaker>VALÈRE, à Rosalie.</speaker>
+<sp stage="toward" who='VALÈRE'><speaker>VALÈRE, à Rosalie.</speaker>
 <p id='35'>
-	<s id='1'>Rien n'égale monbonheur. </s>
+	<s id='1'>Rien n'égale mon bonheur. </s>
 	<s id='2'>Quoi ! </s>
 	<s id='3'>Vous êtes à moi?</s>
 </p>
 </sp>
-<sp who='ROSALIE'><speaker>ROSALIE, à Valère.</speaker>
+<sp stage="toward" who='ROSALIE'><speaker>ROSALIE, à Valère.</speaker>
 <p id='36'>
 	<s id='1'>Oui. </s>
 	<s id='2'>Aurions-nous pu nous en flatter ?</s>
 </p>
 </sp>
 </div2>
-<div2 type="scene" n='22'><head>SCÈNE XXII. ET DERNIÈRE. Valère, Rosalie, La Comtesse, Le Baron, Frontin, Thibaut, Dorante.</head>
-<sp who='FRONTIN'><speaker>FRONTIN, dans le fond à Thibaut.</speaker>
+<div2 type="scene" n='22'><head>SCÈNE XXII et DERNIÈRE. Valère, Rosalie, La Comtesse, Le Baron, Frontin, Thibaut, Dorante.</head>
+<sp stage="toward/location" who='FRONTIN'><speaker>FRONTIN, dans le fond à Thibaut.</speaker>
 <p id='1'>
 	<s id='1'>Il s'est échappé : je ne l'ai plus trouvé dans son lit. </s>
 	<s id='2'>Où diable peut-il être ?</s>
 </p>
 </sp>
-<sp who='THIBAUT'><speaker>THIBAUT, dans le fond à Frontin.</speaker>
+<sp stage="toward/location" who='THIBAUT'><speaker>THIBAUT, dans le fond à Frontin.</speaker>
 <p id='2'>
 	<s id='1'>Tiens, morgué, le vela là-bas en conversation avec la compagnie.</s>
 </p>
@@ -3121,12 +3114,12 @@
 	<s id='1'>Oh ! </s>
 	<s id='2'>Laisse-moi, je n'avons rien à ménager.</s>
 </p>
-<stage type="[N/A]">S'approchant, à la compagnie. </stage>
+<stage type="closer/toward">S'approchant, à la compagnie. </stage>
 <p id='5'>
 	<s id='1'>C'est un...</s>
 </p>
 </sp>
-<sp who='FRONTIN'><speaker>FRONTIN, lui mettant la main sur la bouche.</speaker>
+<sp stage="touch" who='FRONTIN'><speaker>FRONTIN, lui mettant la main sur la bouche.</speaker>
 <p id='6'>
 	<s id='1'>Parbleu vous ne direz mot.</s>
 </p>
@@ -3160,7 +3153,7 @@
 <p id='12'>
 	<s id='1'>Non, morgné ; c'est lui qui rêve : et pour vous faire voir que je ne mentons pas, je connaissons son petit doigt, et j'allons l'éveiller.</s>
 </p>
-<stage type="[N/A]">Thibaut serre le petit doigt de Dorante.</stage>
+<stage type="touch">Thibaut serre le petit doigt de Dorante.</stage>
 </sp>
 <sp who='VALÈRE'><speaker>VALÈRE.</speaker>
 <p id='13'>
@@ -3183,7 +3176,7 @@
 	<s id='6'>N'ai-je rien fait ?...</s>
 </p>
 </sp>
-<sp who='LE-BARON'><speaker>LE BARON, à Dorante.</speaker>
+<sp stage="toward" who='LE-BARON'><speaker>LE BARON, à Dorante.</speaker>
 <p id='15'>
 	<s id='1'>Pouvez-vous le demander ? </s>
 	<s id='2'>Que vous importe, puisque votre mariage est rompu ?</s>
@@ -3196,7 +3189,7 @@
 	<s id='3'>Je ne puis comprendre...</s>
 </p>
 </sp>
-<sp who='FRONTIN'><speaker>FRONTIN, à Dorante.</speaker>
+<sp stage="toward" who='FRONTIN'><speaker>FRONTIN, à Dorante.</speaker>
 <p id='17'>
 	<s id='1'>Pour moi, je comprends fort bien, Monsieur. </s>
 	<s id='2'>Nous sommes découverts, et vous aurez fait quelqu'extravagance.</s>
@@ -3206,7 +3199,7 @@
 	<s id='1'>J'ose vous assurer, Madame, que mon Maître est l'homme du monde le plus sage, quand il veille ; et ce n'est pas sa faute, s'il a le sommeil un peu brutal.</s>
 </p>
 </sp>
-<sp who='LA-COMTESSE'><speaker>LA COMTESSE, à Dorante.</speaker>
+<sp stage="toward" who='LA-COMTESSE'><speaker>LA COMTESSE, à Dorante.</speaker>
 <p id='18'>
 	<s id='1'>Quoi ! </s>
 	<s id='2'>L'on me voudra faire passer pour rêve la façon indigne dont vous nous avez traitées ma fille et moi. </s>
@@ -3225,7 +3218,7 @@
 	<s id='2'>C'est à Valère...</s>
 </p>
 </sp>
-<sp who='THIBAUT'><speaker>THIBAUT, à Dorante.</speaker>
+<sp stage="toward" who='THIBAUT'><speaker>THIBAUT, à Dorante.</speaker>
 <p id='21'>
 	<s id='1'>Lui-même. </s>
 	<s id='2'>Dame, il y a plus de six mois qu'il n'en dort pas, lui.</s>
@@ -3237,7 +3230,7 @@
 	<s id='2'>Je ne vous épousais que par obéissance.</s>
 </p>
 </sp>
-<sp who='DORANTE'><speaker>DORANTE, à Rosalie.</speaker>
+<sp stage="toward" who='DORANTE'><speaker>DORANTE, à Rosalie.</speaker>
 <p id='23'>
 	<s id='1'>Cet aveu ne me permet par d'insister ; et je ne dois plus que rire d'une aventure qui nous empêche tous trois d'être malheureux.</s>
 </p>
@@ -3248,12 +3241,12 @@
 	<s id='2'>Morguenne, le bonheur vous vient en dormant.</s>
 </p>
 </sp>
-<sp who='LE-BARON'><speaker>LE BARON, à Valère et à Rosalie.</speaker>
+<sp stage="toward" who='LE-BARON'><speaker>LE BARON, à Valère et à Rosalie.</speaker>
 <p id='25'>
 	<s id='1'>Allons, allons, mes enfants ; tout en nous promenant, nous prendrons des mesures pour ne pas retarder votre bonheur.</s>
 </p>
 </sp>
-<sp who='FRONTIN'><speaker>FRONTIN, au Parterre.</speaker>
+<sp stage="toward" who='FRONTIN'><speaker>FRONTIN, au Parterre.</speaker>
 <p id='26'>
 	<s id='1'>Il aurait tort de se plaindre ; il n'est pas le premier qui perd sa femme quand il dort.</s>
 </p>

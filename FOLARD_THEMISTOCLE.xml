@@ -7,9 +7,9 @@
 				<author born='1683' born_location='Avignon' death='1739' death_location='Lyon' academie='1688'>FOLARD, Melchior de</author>
 			</titleStmt>
 			<publicationStmt>	
-				<p>publié par Paul FIEVRE janvier 2012</p>
-			<idno></idno>
-</publicationStmt>
+				<p>publié par Paul FIEVRE janvier 2012, revu décembre 2016</p>
+				<idno>FOLARD_THEMISTOCLE</idno>
+			</publicationStmt>
 			<SourceDesc>
 				<genre>Tragédie</genre>
 				<inspiration>histoire grecque</inspiration>
@@ -21,9 +21,8 @@
 				<sources>
 					<source id="1">Source : Bibliothèque nationale de France, département Littérature et art, YF-6733</source>
 				</sources>	
-
 			</SourceDesc>
-		</fileDesc>d
+		</fileDesc>
 </teiHeader>
 <text>
 	<front>
@@ -287,7 +286,7 @@
 <sp who='MILTIADE'><speaker>MILTIADE.</speaker>
 	<l id='115' part="i">Thémistocle !...</l>
 </sp>
-<sp who='THÉMISTOCLE'><speaker>THÉMISTOCLE, en se couvrant.</speaker>
+<sp stage="hide" who='THÉMISTOCLE'><speaker>THÉMISTOCLE, en se couvrant.</speaker>
 	<l id='115' part="f">Tes yeux avec un soin extrême</l>
 	<l id='116'>Me cherchent, je le vois, moi-même dans moi-même.</l>
 	<l id='117'>Rien ne t'annonce en moi le Vainqueur de Naxos,</l>
@@ -312,7 +311,7 @@
 	<l id='134'>Les mânes effrayés semblent fuir devant vous.</l>
 	<l id='135'>Mais souffrez, qu'écartant ces images pompeuses,</l>
 	<l id='136'>Je baise avec transport ces mains victorieuses.</l>
-<stage type="[N/A]">Il lui prend les mains.</stage>
+<stage type="touch">Il lui prend les mains.</stage>
 	<l id='137'>Oui : j'accepte la foi que vous daignez m'offrir ;</l>
 	<l id='138'>Je vous donne la mienne : et s'il faut l'affermir,</l>
 <note type="L">Soleil : Dieu des Perses. [Note de l'auteur]</note>
@@ -401,7 +400,7 @@
 	<l id='200'>Il faut qu'aux yeux du Prince Artaban vous conduise :</l>
 	<l id='201'>Satrape, dès longtemps puissant auprès du Roi,</l>
 	<l id='202'>Fier, et jaloux surtout de son rang, et de moi.</l>
-	<l id='203'>Les Cours de l'Orient, esclaves d'elles-mêmes,</l>
+	<l id='203'>Les Cours de l'Orient, esclaves d'elles-mêmes,</l>
 	<l id='204'>Observent ces devoirs comme des lois suprêmes.</l>
 	<l id='205'>On n'en dispense point. Souffrez qu'en vous nommant...</l>
 </sp>
@@ -419,7 +418,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III.</head>
-<sp who='THÉMISTOCLE'><speaker>THÉMISTOCLE, seul.</speaker>
+<sp stage="alone" who='THÉMISTOCLE'><speaker>THÉMISTOCLE, seul.</speaker>
 	<l id='213'>Palais du grand Cyrus, séjour, que mes exploits</l>
 	<l id='214'>De pleurs, de sang, de deuil ont rempli tant de fois,</l>
 	<l id='215'>Que le Sort en ce jour venge bien vos alarmes !</l>
@@ -429,7 +428,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Thémistocle, Artaban, Miltiade.</head>
-<sp who='MILTIADE'><speaker>MILTIADE, à Artaban.</speaker>
+<sp stage="toward" who='MILTIADE'><speaker>MILTIADE, à Artaban.</speaker>
 	<l id='219'>C'est-là cet étranger, dont le sort m'intéresse ,</l>
 	<l id='220'>Seigneur ; il est instruit des secrets de la Grèce,</l>
 	<l id='221'>Si pour lui mes esprits ne sont trop prévenus,</l>
@@ -529,7 +528,7 @@
 	<l id='288' part="f">Il ne peut nous le dire.</l>
 	<l id='289'>C'est un secret, Seigneur, réservé pour le Roi.</l>
 </sp>
-<sp who='ARTABAN'><speaker>ARTABAN, d'un ton fier.</speaker>
+<sp stage="proud" who='ARTABAN'><speaker>ARTABAN, d'un ton fier.</speaker>
 	<l id='290' part="i">Je ne puis l'introduire.</l>
 </sp>
 <sp who='MILTIADE'><speaker>MILTIADE.</speaker>
@@ -684,7 +683,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Xerxès, Miltiade, Thémistocle, Artaban.</head>
-<sp who='ARTABAN'><speaker>ARTABAN, conduisant Thémistocle.</speaker>
+<sp stage="push" who='ARTABAN'><speaker>ARTABAN, conduisant Thémistocle.</speaker>
 	<l id='377'>Obéis, Étranger ; adore le grand Roi.</l>
 </sp>
 <sp who='THÉMISTOCLE'><speaker>THÉMISTOCLE.</speaker>
@@ -752,7 +751,7 @@
 	<l id='430'>J'apporte l'infamie, ou la gloire chez lui.</l>
 	<l id='431' part="i">Je vous laisse choisir.</l>
 </sp>
-<sp who='XERXÈS'><speaker>XERXÈS, d'un ton irrité.</speaker>
+<sp stage="nervous" who='XERXÈS'><speaker>XERXÈS, d'un ton irrité.</speaker>
 	<l id='431' part="f">Mon choix n'est plus à faire :</l>
 	<l id='432'>Ton nom l'a décidé. Sortez tous. Qu'on éclaire</l>
 	<l id='433'>Tous les pas de ce Grec ; et veillez Sur ses jours;</l>
@@ -837,7 +836,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Xerxès, Miltiade, Artaban, les Satrapes.</head>
-<sp who='XERXÈS'><speaker>XERXÈS, aux Satrapes prosternés.</speaker>
+<sp stage="toward" who='XERXÈS'><speaker>XERXÈS, aux Satrapes prosternés.</speaker>
 	<l id='496'>Satrapes, levez-vous. L'objet de votre haine,</l>
 	<l id='497'>L'éternel ennemi de mon trône sacré,</l>
 	<l id='498'>Thémistocle y demande un asile assuré.</l>
@@ -893,7 +892,7 @@
 	<l id='533'>Mon vertueux orgueil n'en est plus offensé.</l>
 	<l id='534'>Je te rends les respects, dont tu m'as dispensé.</l>
 	<l id='535' part="i">J'adore ta vertu... </l>
-<stage type="[N/A]">En se relevant.</stage>
+<stage type="stand">En se relevant.</stage>
 	<l id='535' part="f">Mais non ton diadème.</l>
 </sp>
 <sp who='XERXÈS'><speaker>XERXÈS.</speaker>
@@ -1097,7 +1096,7 @@
 	<l id='682'>Se livrer sans réserve aux bras de son vainqueur.</l>
 	<l id='683'>Quel discours ! Quels égards ! C'est peu ; Quel respect même !</l>
 <note type="L">Cyrus : Roi de Perse, fils de Cambyse, prince perse et de Mandane, fille d'Astyages, roi de sMèes, naquit vers l'an 599 av. J.C. Il rendit l'indépendance à la Perse qui était sou dépendance des Mèdes, se fit nommer roi de ce pays vers l'an 560 av. J.C., agrandit en peu de temps son empire. Il permit aux Hébreux captifs de retourner dans leur patrie en 536. </note>
-	<l id='684'>Ô, trône de Cyrus ! Ô, sacré Diadème ! </l>
+	<l id='684'>Ô, trône de Cyrus ! Ô, sacré Diadème ! </l>
 	<l id='685'>Viens, allons arrêter ma chute et sa faveur...</l>
 	<l id='686' part="i">Qui s'avance vers nous ;</l>
 </sp>
@@ -1266,7 +1265,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Aristide, Miltiade, Parmenis.</head>
-<sp who='MILTIADE'><speaker>MILTIADE, à Aristide.</speaker>
+<sp stage="toward" who='MILTIADE'><speaker>MILTIADE, à Aristide.</speaker>
 	<l id='799'>Je vous cherchais, Seigneur, avec impatience...</l>
 	<l id='800'>Pourriez-vous d'un Proscrit soutenir la présence ?</l>
 	<l id='801'>Que dis-je, d'un proscrit ? Son Sort infortuné</l>
@@ -1352,7 +1351,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII. Xerxès, Miltiade, Artaban, Les Ambassadeurs, Thémistocle.</head> 
-<sp who='XERXÈS'><speaker>XERXÈS, aux ambassadeurs</speaker>
+<sp stage="toxard" who='XERXÈS'><speaker>XERXÈS, aux ambassadeurs</speaker>
 	<l id='853' part="f">Non, non : Grecs. Mon devoir</l>
 	<l id='854'>Me fait, en son absence, un crime de vous voir.</l>
 </sp>
@@ -1401,7 +1400,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='8'><head>SCÈNE VIII. Roxane, Xerxès, Ambassadeurs, Thémistocle, Miltiade, Artaban.</head> 
-<sp who='ROXANE'><speaker>ROXANE, en deuil, aux Ambassadeurs.</speaker>
+<sp stage="mourning" who='ROXANE'><speaker>ROXANE, en deuil, aux Ambassadeurs.</speaker>
 	<l id='889' part="f">Grecs, arrêtez. D'une princesse en pleurs</l>
 	<l id='890'>Venez, auprès du trône, appuyer les douleurs.</l>
 	<l id='891'>Seigneur, que faites-vous ? Quelle étrange clémence</l>
@@ -1458,7 +1457,7 @@
 <sp who='XERXÈS'><speaker>XERXÈS.</speaker>
 	<l id='937'>Dieux ! Qu'est-ce que j'ai fait... De grâce , éloignez-vous :</l>
 	<l id='938'>En fuyant de ses yeux, soulagez son courroux.</l>
-<stage type="[N/A]">Il se retire.</stage>
+<stage type="exit">Il se retire.</stage>
 	<l id='939'>Calmez, chère Roxane, un transport si funeste.</l>
 </sp>
 <sp who='ROXANE'><speaker>ROXANE.</speaker>
@@ -1596,7 +1595,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Miltiade, Artaban, Aristide.</head>
-<sp who='ARISTIDE'><speaker>ARISTIDE, à Miltiade.</speaker>
+<sp stage="toward" who='ARISTIDE'><speaker>ARISTIDE, à Miltiade.</speaker>
 	<l id='1044'>Je vous cherche, Seigneur... Quoi ? vous êtes tranquille,</l>
 <note type="L">Naxos : Île du royaume de Grèce. Saccagée sous Darius Ier après la révolte d'Ionie, elle fit alliance avec Athènes lors de l'invasion de Xerxès ; mai elle vit bientôt l'alliance se changer en protectorat. [B]</note>
 	<l id='1045'>Et l'on attente aux jours du vainqueur de Naxos ?</l>
@@ -1781,7 +1780,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Les Ambassadeurs, Thémistocle, Roxane, Militade, Artaban.</head>
-<sp who='ROXANE'><speaker>ROXANE, amenant Thémistocle.</speaker>
+<sp stage="pull" who='ROXANE'><speaker>ROXANE, amenant Thémistocle.</speaker>
 	<l id='1159' part="f">Je veux au Roi moi-même te conduire,</l>
 	<l id='1160'>Je veux de leurs fureurs et me plaindre, et l'instruire.</l>
 	<l id='1161'>Je ne souffrirai point qu'un infâme assassin</l>
@@ -1943,7 +1942,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='9'><head>SCÈNE IX. </head>
-<sp who='THÉMISTOCLE'><speaker>THÉMISTOCLE, seul.</speaker>
+<sp stage="alone" who='THÉMISTOCLE'><speaker>THÉMISTOCLE, seul.</speaker>
 	<l id='1273'>Voilà, voilà le coup, qu'en secret combattu,</l>
 	<l id='1274'>Mon coeur, dans ses retours, craignait pour ma vertu.</l>
 	<l id='1275'>Tant que mes ennemis n'en voulaient qu'à ma vie,</l>
@@ -2225,14 +2224,14 @@
 	<l id='1484'>Vos vertus pourraient m'être un fidèle interprète,</l>
 	<l id='1485'>Je n'ose cependant, puisque vous le voulez,</l>
 	<l id='1486'>Pénétrer des secrets, que vous tenez voilés...</l>
-<stage type="[N/A]">Des prêtres s'avancent et dressent deux autels.</stage>
+<stage type="closer/decor">Des prêtres s'avancent et dressent deux autels.</stage>
 	<l id='1487'>Mais que vois-je ? Et pourquoi sous ce vaste portique</l>
 	<l id='1488'>Dresser de ces autels l'appareil magnifique ?</l>
 	<l id='1489'>Pourquoi ces Prêtres saints, et ces feux solennels ?...</l>
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Xerxès,Thémistocle, Aristide, Miltiade, Artaban, les prêtres.</head> 
-<sp who='XERXÈS'><speaker>XERXÈS, à Aristide.</speaker>
+<sp stage="toward" who='XERXÈS'><speaker>XERXÈS, à Aristide.</speaker>
 	<l id='1490'>Demeure, Athénien. Il faut qu'à ces autels,</l>
 	<l id='1491'>Où nous allons des Grecs jurer la perte entière,</l>
 	<l id='1492'>Je te fasse aujourd'hui ma réponse dernière...</l>
@@ -2278,7 +2277,7 @@
 	<l id='1518'>C'est l'unique présent agréable à ses yeux.</l>
 	<l id='1519'>Le sang des animaux, que le fer sacrifie,</l>
 	<l id='1520'>Ne saurait plaire au Dieu, source unique de vie.</l>
-<stage type="[N/A]">Les Prêtres versent l'encens.</stage>
+<stage type="drop">Les Prêtres versent l'encens.</stage>
 	<l id='1521'>« Brillant, Père du jour, qui du plus haut des Cieux</l>
 	<l id='1522'>Protèges de Cyrus le trône glorieux,</l>
 	<l id='1523'>Des serments que je fais sois le témoin fidèle.</l>
@@ -2294,7 +2293,7 @@
 	<l id='1533'>J'ai dit. Pontifes saints, pour sceller mes serments,</l>
 	<l id='1534'>De nouveau sur ces feux répandez votre encens.</l>
 </sp>
-<sp who='THÉMISTOCLE'><speaker>THÉMISTOCLE, à Xerxès.</speaker>
+<sp stage="toward" who='THÉMISTOCLE'><speaker>THÉMISTOCLE, à Xerxès.</speaker>
 	<l id='1535'>Avant qu'à cet autel à mon tour je m'engage,</l>
 	<l id='1536'>Que ne puis-je vous rendre un juste témoignage !</l>
 	<l id='1537'>Heureux, si je pouvais, pour garant de ma foi,</l>
@@ -2305,11 +2304,11 @@
 	<l id='1542'>Peut-être cet objet, propre à la consoler,</l>
 	<l id='1543' part="i">Flatterait sa douleur...</l>
 </sp>
-<sp who='XERXÈS'><speaker>XERXÈS, à Miltiade.</speaker>
+<sp stage="toward" who='XERXÈS'><speaker>XERXÈS, à Miltiade.</speaker>
 	<l id='1543' part="f">Amenez la Princesse.</l>
 <stage type="exit">Miltiade sort.</stage>	
 </sp>
-<sp who='THÉMISTOCLE'><speaker>THÉMISTOCLE, la main sur l'autel.</speaker>
+<sp stage="touch" who='THÉMISTOCLE'><speaker>THÉMISTOCLE, la main sur l'autel.</speaker>
 	<l id='1544'>« Chère Athènes, la gloire et l'appui de la Grèce,</l>
 	<l id='1545'>C'est à toi que ma main élève cet autel.</l>
 	<l id='1546'>Tes citoyens jaloux me veulent criminel.</l>
@@ -2335,10 +2334,10 @@
 <stage type="toward">Aux prêtres, en leur présentant la coupe.</stage>
 	<l id='1565'>Versez le vin sacré, qu'il faut répandre ici.</l>
 </sp>
-<sp who='XERXÈS'><speaker>XERXÈS, aux prêtres.</speaker>
+<sp stage="toward" who='XERXÈS'><speaker>XERXÈS, aux prêtres.</speaker>
 	<l id='1566' part="i">Où donc est la victime ? il est temps...</l>
 </sp>
-<sp who='THÉMISTOCLE'><speaker>THÉMISTOCLE, après avoir bu la coupe.</speaker>
+<sp stage="drink" who='THÉMISTOCLE'><speaker>THÉMISTOCLE, après avoir bu la coupe.</speaker>
 	<l id='1566' part="f">La voici.</l>
 </sp>
 <sp who='XERXÈS'><speaker>XERXÈS.</speaker>
@@ -2351,7 +2350,7 @@
 	<l id='1569'>Quel soupçon dans mon coeur s'élève de nouveau ?</l>
 </sp>
 <sp who='THÉMISTOCLE'><speaker>THÉMISTOCLE.</speaker>
-<stage type="[N/A]">En montrant sa main à Aristide</stage>
+<stage type="show">En montrant sa main à Aristide</stage>
 	<l id='1570'>Grâce au puissant secours, que cachait cet anneau,</l>
 	<l id='1571'>Ne crains plus désormais pour moi, pour la patrie,</l>
 	<l id='1572'>Ami. D'un suc mortel la coupe était remplie.</l>
@@ -2398,7 +2397,7 @@
 	<l id='1595'>Dieux, en nous le montrant si digne qu'on l'admire,</l>
 	<l id='1596'>Le deviez-vous sitôt ravir à mon empire !</l>
 </sp>
-<sp who='THÉMISTOCLE'><speaker>THÉMISTOCLE, à Aristide.</speaker>
+<sp stage="toward" who='THÉMISTOCLE'><speaker>THÉMISTOCLE, à Aristide.</speaker>
 	<l id='1597'>Ah, je meurs trop heureux !... dans ce dernier moment</l>
 	<l id='1598'>Accordez-moi, Seigneur, un tendre embrassement.</l>
 	<l id='1599'>Que je meure à la fois, moi, qu'on a cru perfide,</l>
@@ -2417,14 +2416,14 @@
 <sp who='ROXANE'><speaker>ROXANE.</speaker>
 	<l id='1603' part="f">Quelle main parricide ?...</l>
 </sp>
-<sp who='THÉMISTOCLE'><speaker>THÉMISTOCLE, à Miltiade.</speaker>
+<sp stage="toward" who='THÉMISTOCLE'><speaker>THÉMISTOCLE, à Miltiade.</speaker>
 	<l id='1604'>Viens, reçois dans ton sein, où la vertu réside,</l>
 	<l id='1605'>L'âme d'un tendre ami, toujours digne de toi.</l>
 </sp>
 <sp who='MILTIADE'><speaker>MILTIADE en se jetant à ses genoux.</speaker>
 	<l id='1606' part="i">Ô, mon Père !</l>
 </sp>
-<sp who='THÉMISTOCLE'><speaker>THÉMISTOCLE, apercevant Roxane.</speaker>
+<sp stage="watch" who='THÉMISTOCLE'><speaker>THÉMISTOCLE, apercevant Roxane.</speaker>
 	<l id='1606' part="f">Princesse, est-ce vous que je vois ?</l>
 	<l id='1607' part="i">Votre deuil est vengé...</l>
 </sp>
@@ -2441,7 +2440,7 @@
 </sp>
 <sp who='MILTIADE'><speaker>MILTIADE.</speaker>
 	<l id='1611' part="i">Il expire, Seigneur... </l>
-<stage type="[N/A]">On l'emmène.</stage>
+<stage type="carry/exit">On l'emmène.</stage>
 </sp>
 <sp who='XERXÈS'><speaker>XERXÈS.</speaker>
 	<l id='1611' part="f">Miltiade, à sa cendre</l>
