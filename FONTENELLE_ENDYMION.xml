@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<TEI xml:lang="fr">
 <teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -8,8 +8,8 @@
 			</titleStmt>
 			<publicationStmt>	
 				<p>publié par Paul FIEVRE décembre 2014</p>
-			<idno></idno>
-</publicationStmt>
+				<idno>FONTENELLE_ENDYMION</idno>
+			</publicationStmt>
 			<SourceDesc>
 				<genre>Pastorale héroïque</genre>
 				<inspiration>mythe grec</inspiration>
@@ -18,9 +18,6 @@
 				<periode>1691-1700</periode>
 				<taille>750-1000</taille>
 				<permalien>http://gallica.bnf.fr/ark:/12148/bpt6k71611z</permalien>
-				<sources>
-					<source id="1"><author/><text/></source>
-				</sources>	
 			</SourceDesc>
 		</fileDesc>
 </teiHeader>
@@ -73,7 +70,7 @@
 <div1 type="act" n='1'><head>ACTE I</head>
 <stage type="decor">Le théâtre représente un Bois.</stage>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Pan, Lycoris, Un Satyre.</head>
-<sp who='LYCORIS'><speaker>LYCORIS, à Pan.</speaker>
+<sp stage="toward" who='LYCORIS'><speaker>LYCORIS, à Pan.</speaker>
 	<l id="1">Cessez, cessez d'être amant d'une ingrate.</l>
 </sp>
 <sp who="LE SATYRE"><speaker>LE SATYRE.</speaker>
@@ -123,11 +120,11 @@
 	<l id="25">Pour les surmonter tous il est d'heureux moments ;</l>
 	<l id="26">Mais quand l'Amour fait des miracles,</l>
 	<l id="27">Ce n'est pas en faveur des timides Amants.</l>
-<stage type="[N/A]">Pan sort avec le Satyre, et Lycoris demeure seule pendant quelques moments.</stage>
+<stage type="exit">Pan sort avec le Satyre, et Lycoris demeure seule pendant quelques moments.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Diane, Lycoris.</head>
-<sp who='LYCORIS'><speaker>LYCORIS, à Diane qu'elle voit arriver.</speaker>
+<sp stage="toward/entrance" who='LYCORIS'><speaker>LYCORIS, à Diane qu'elle voit arriver.</speaker>
 	<l id="28">Quel bonheur vous conduit dans ce bois solitaire,</l>
 	<l id="29">Sans y trouver un amant odieux ?</l>
 	<l id="30">Pan vient de sortir de ces lieux.</l>
@@ -206,7 +203,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Diane, Ismène, Nymphes de Diane.</head>
-<sp who='CHUR DE NYMPHES'><speaker>CHUR DE NYMPHES.</speaker>
+<sp who='CHOEUR DE NYMPHES'><speaker>CHOEUR DE NYMPHES.</speaker>
 	<l id="79">Nous goûtons une paix profonde,</l>
 	<l id="80">Venez, venez parmi nous :</l>
 	<l id="81">Que l'Amour au reste du monde</l>
@@ -215,7 +212,7 @@
 	<l id="84">Venez, venez parmi nous.</l>
 	<l id="85">Nous goûtons une paix profonde,</l>
 	<l id="86">Venez, venez parmi nous.</l>
-<stage type="[N/A]">Danse des Nymphes.</stage>
+<stage type="danse">Danse des Nymphes.</stage>
 </sp>
 <sp who='UNE NYMPHE'><speaker>UNE NYMPHE.</speaker>
 	<l id="87">Les biens qui contentent nos coeurs,</l>
@@ -225,11 +222,11 @@
 	<l id="91">Les chansons des oiseaux, les ombrages, les fleurs,</l>
 	<l id="92">Les doux zéphyrs, ont pour nous tous les charmes.</l>
 </sp>
-<sp who='DIANE'><speaker>DIANE, à Ismène.</speaker>
+<sp stage="toward" who='DIANE'><speaker>DIANE, à Ismène.</speaker>
 	<l id="93">Puisqu'enfin votre coeur persiste dans son choix,</l>
 	<l id="94">Recevez de ma main et l'arc et le carquois.</l>
 </sp>
-<sp who='CHUR DES NYMPHES'><speaker>CHUR DES NYMPHES.</speaker>
+<sp who='CHOEUR DES NYMPHES'><speaker>CHOEUR DES NYMPHES.</speaker>
 	<l id="95">Jouissez de l'heureux partage</l>
 	<l id="96">Qui vous est présenté.</l>
 </sp>
@@ -374,7 +371,7 @@
 	<l id="188">On vous élève ailleurs des Temples éclatants ;</l>
 	<l id="189">Mais dans un lieu plus magnifique</l>
 	<l id="190">On n'offre pas des voeux plus purs et plus constants.</l>
-<stage type="[N/A]">Danse des Bergers.</stage>
+<stage type="danse">Danse des Bergers.</stage>
 </sp>
 <sp who='PREMIER BERGER'><speaker>PREMIER BERGER.</speaker>
 	<l id="191">Brillant Astre des nuits, vous réparez l'absence</l>
@@ -390,14 +387,14 @@
 	<l id="199">Les Monstres dans vos Jeux succombent sous vos traits.</l>
 </sp>
 <sp who='UNE BERGÈRE, UN BERGER, EURILAS'><speaker>UNE BERGÈRE, UN BERGER, EURILAS.</speaker>
-<stage type="[N/A]">ENSEMBLE.</stage>
+<stage type="together">ENSEMBLE.</stage>
 	<l id="200">Jusque dans les Enfers votre pouvoir éclate ;</l>
 	<l id="201">Les Mânes, en tremblant, écoutent votre voix :</l>
 	<l id="202">Au redoutable nom d'Hécate,</l>
 	<l id="203">Le sévère Pluton rompt lui-même ses lois.</l>
 <stage type="danse">On danse.</stage>
 </sp>
-<sp who='LE CHUR'><speaker>LE CHUR.</speaker>
+<sp who='LE CHOEUR'><speaker>LE CHOEUR.</speaker>
 	<l id="204">Que le Ciel, que la Terre, et le sombre Rivage,</l>
 	<l id="205">Que tout rende à Diane un éternel hommage :</l>
 	<l id="206">Que de voeux différents elle doit recevoir !</l>
@@ -415,7 +412,7 @@
 	<l id="216">Célébrer la gloire immortelle</l>
 	<l id="217">D'un coeur toujours maître de soi.</l>
 </sp>
-<sp who='LE CHUR'><speaker>LE CHUR.</speaker>
+<sp who='LE CHOEUR'><speaker>LE CHOEUR.</speaker>
 	<l id="218">Un triomphe éclatant augmente votre gloire,</l>
 	<l id="219">C'est en vain que l'Amour veut s'armer contre vous,</l>
 	<l id="220">Votre insensible coeur a su braver ses coups ;</l>
@@ -423,7 +420,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Diane, Lycoris, Endymion, Bergers.</head>
-<stage type="[N/A]">Diane descend du Ciel.</stage>
+<stage type="fly">Diane descend du Ciel.</stage>
 <sp who="DIANE"><speaker>DIANE.</speaker>
 	<l id="222">Bergers, jusqu'en ces lieux votre hommage m'attire,</l>
 	<l id="223">De sincères respects savent charmer les Dieux ;</l>
@@ -437,7 +434,7 @@
 	<l id="231">Il ne faut point leur faire outrage.</l>
 	<l id="232">Retirez-vous, c'en est assez :</l>
 	<l id="233">Vos encens et vos voeux seront récompensés.</l>
-<stage type="[N/A]">Tous les Bergers se retirent.</stage>
+<stage type="exit">Tous les Bergers se retirent.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Diane, Lycoris.</head>
@@ -648,7 +645,7 @@
 	<l id="372">On ne doit célébrer qu'un Objet si charmant</l>
 	<l id="373">Dans tous les lieux où règne son Amant.</l>
 </sp>
-<sp who='LE CHUR'><speaker>LE CHUR.</speaker>
+<sp who='LE CHOEUR'><speaker>LE CHOEUR.</speaker>
 	<l id="374">Que les Forêts, que les Monts applaudissent</l>
 	<l id="375">Au choix qu'a fait le Dieu des Monts et des Forêts ;</l>
 	<l id="376">Que les Antres les plus secrets,</l>
@@ -657,7 +654,7 @@
 	<l id="379">Que tous les autres chants finissent.</l>
 	<l id="380">On ne doit célébrer qu'un objet si charmant</l>
 	<l id="381">Dans tous les lieux où règne son amant.</l>
-<stage type="[N/A]">Danse des Faunes.</stage>
+<stage type="danse">Danse des Faunes.</stage>
 </sp>
 <sp who='UNE DRYADE'><speaker>UNE DRYADE.</speaker>
 	<l id="382">Dans nos forêts tout plaît, tout enchante,</l>
@@ -703,13 +700,13 @@
 	<l id="420">Sur les Faunes, sur les Sylvains,</l>
 	<l id="421">Étendez désormais vos ordres souverains.</l>
 </sp>
-<sp who='LE CHUR'><speaker>LE CHUR.</speaker>
+<sp who='LE CHOEUR'><speaker>LE CHOEUR.</speaker>
 	<l id="422">Régnez, régnez sur nous, adorable Immortelle,</l>
 	<l id="423">Faites-vous une Cour nouvelle ;</l>
 	<l id="424">Sur les Faunes, sur les Sylvains,</l>
 	<l id="425">Étendez désormais vos ordres souverains.</l>
 <stage type="danse">On danse.</stage>
-<stage type="[N/A]">Une dryade, alternativement avec le Choeur.</stage>
+<stage type="together">Une dryade, alternativement avec le Choeur.</stage>
 </sp>
 <sp who='LA DRYADE'><speaker>LA DRYADE.</speaker>
 	<l id="426">Chantons dans ces Retraites :</l>
@@ -719,7 +716,7 @@
 	<l id="430">Chantons mille fois,</l>
 	<l id="431">Les aimables Lois.</l>
 </sp>
-<sp who='LE CHUR'><speaker>LE CHUR.</speaker>
+<sp who='LE CHOEUR'><speaker>LE CHOEUR.</speaker>
 	<l id="432">Chantons dans ces Retraites :</l>
 	<l id="433">Échos de ces bois,</l>
 	<l id="434">Répondez à nos voix ;</l>
@@ -735,7 +732,7 @@
 	<l id="442">Jamais le mépris</l>
 	<l id="443">N'en devient le prix.</l>
 </sp>
-<sp who='LE CHUR'><speaker>LE CHUR.</speaker>
+<sp who='LE CHOEUR'><speaker>LE CHOEUR.</speaker>
 	<l id="444">Chantons dans ces Retraites :</l>
 	<l id="445">Échos de ces bois,</l>
 	<l id="446">Répondez à nos voix ;</l>
@@ -751,7 +748,7 @@
 	<l id="454">Les moindres faveurs</l>
 	<l id="455">Sont des traits vainqueurs.</l>
 </sp>
-<sp who='LE CHUR'><speaker>LE CHUR.</speaker>
+<sp who='LE CHOEUR'><speaker>LE CHOEUR.</speaker>
 	<l id="456">Chantons dans ces Retraites :</l>
 	<l id="457">Échos de ces bois,</l>
 	<l id="458">Répondez à nos voix ;</l>
@@ -978,7 +975,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Diane, Endymion, Les Heures.</head>
-<sp who='UNE HEURE'><speaker>UNE DES HEURES, à Diane.</speaker>
+<sp stage="toward" who='UNE HEURE'><speaker>UNE DES HEURES, à Diane.</speaker>
 	<l id="605">Du grand Astre des jours la mourante lumière,</l>
 	<l id="606">Va dans quelques moments s'éteindre au fond des Mers ;</l>
 	<l id="607">Commencez votre carrière,</l>
@@ -991,7 +988,7 @@
 <sp who='DANSE DES HEURES'><speaker>DANSE DES HEURES.</speaker>
 	<l id="611">Tandis que le char descend.</l>
 </sp>
-<sp who='CHUR DES HEURES'><speaker>CHUR DES HEURES.</speaker>
+<sp who='CHOEUR DES HEURES'><speaker>CHOEUR DES HEURES.</speaker>
 	<l id="612">Répandez Répandez votre douce clarté</l>
 	<l id="613">Dissipez de la nuit l'obscurité profonde ;</l>
 	<l id="614">Vous devez la lumière au monde,</l>
@@ -1017,7 +1014,7 @@
 	<l id="627">Si nous avons d'heureux moments,</l>
 	<l id="628">Ne les employons que pour Elle ;</l>
 	<l id="629">Ne servons jamais les Amants.</l>
-<stage type="[N/A]">Diane monte dans son char.</stage>
+<stage type="up/exit">Diane monte dans son char.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI.</head>
@@ -1093,7 +1090,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Diane, Endymion.</head>
-<sp who='ENDYMION'><speaker>ENDYMION, qui s'éveille.</speaker>
+<sp stage="awake" who='ENDYMION'><speaker>ENDYMION, qui s'éveille.</speaker>
 	<l id="683">Que vois-je ? Quoi, Déesse ?</l>
 	<l id="684">Vous venez pour punir un amour qui vous blesse ?</l>
 	<l id="685">Ah ! Mon trépas était certain ;</l>
@@ -1194,14 +1191,14 @@
 	<l id="739">Formez les plus aimables jeux</l>
 	<l id="740">Pour le Dieu de Cythère.</l>
 </sp>
-<sp who='CHUR DES AMOURS'><speaker>CHUR DES AMOURS.</speaker>
+<sp who='CHOEUR DES AMOURS'><speaker>CHOEUR DES AMOURS.</speaker>
 	<l id="741">Formons les plus aimables jeux</l>
 	<l id="742">Pour le Dieu de Cythère.</l>
 </sp>
 <sp who="L'AMOUR"><speaker>L'AMOUR.</speaker>
 	<l id="743">De ces tendres Amants favorisez les feux.</l>
 </sp>
-<sp who='CHUR DES AMOURS'><speaker>LE CHUR.</speaker>
+<sp who='CHOEUR DES AMOURS'><speaker>LE CHOEUR.</speaker>
 	<l id="744">Formons les plus aimables jeux</l>
 	<l id="745">Pour le Dieu de Cythère.</l>
 </sp>
@@ -1209,7 +1206,7 @@
 	<l id="746">L'Amour veut qu'en ces lieux tout conspire à leur plaire ;</l>
 	<l id="747">De ces tendres Amants favorisez les feux.</l>
 </sp>
-<sp who='CHUR DES AMOURS'><speaker>LE CHUR.</speaker>
+<sp who='CHOEUR DES AMOURS'><speaker>LE CHOEUR.</speaker>
 	<l id="748">Formons les plus aimables jeux</l>
 	<l id="749">Pour le Dieu de Cythère.</l>
 <stage type="danse">On danse.</stage>

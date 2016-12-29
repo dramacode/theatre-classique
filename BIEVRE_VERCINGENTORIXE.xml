@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<TEI xml:lang="fr">
 <teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -199,7 +199,7 @@
 	<l id='35'>Et ne leur faisons point de quartier de soulier,</l>
 	<l id='36'>Périssons ou vengeons les Gaules d'écuyer.</l>
 </sp>
-<sp who='EPOREDORIXE'><speaker>ÉPORÉDORIXE, avec embarras.</speaker>
+<sp stage="embarrassed" who='EPOREDORIXE'><speaker>ÉPORÉDORIXE, avec embarras.</speaker>
 	<l id='37'>C'est mon avis, seigneur, et mon coeur de laitue...</l>
 </sp>
 <sp who='VERCINGENTORIXE'><speaker>VERCINGENTORIXE.</speaker>
@@ -211,7 +211,7 @@
 	<l id='40'>Le secours ne vient point et César est vainqueur;</l>
 	<l id='41'>Le meilleur parti... peut-être est de se rendre.</l>
 </sp>
-<sp who='CRITOGNAT'><speaker>CRITOGNAT, vivement.</speaker>
+<sp stage="quick" who='CRITOGNAT'><speaker>CRITOGNAT, vivement.</speaker>
 	<l id='42'>Vous, Catuat, ô ciel ! seigneur, daignez m'entendre;</l>
 	<l id='43'>Non, je ne puis souffrir ni ce plan de maison,</l>
 	<l id='44'>Ni le noble dessein à la mine de plomb,</l>
@@ -250,7 +250,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Les Précédents, Sylvie.</head>
-<sp who='SYLVIE'><speaker>SYLVIE, entrant précipitamment.</speaker>
+<sp stage="entrance/quick" who='SYLVIE'><speaker>SYLVIE, entrant précipitamment.</speaker>
 	<l id='71' part="f">Ciel ! de mon lit,</l>
 	<l id='72'>Prenez garde malade, ô prince ! On vous trahit :</l>
 	<l id='73' part="i">C'est Éporédorixe.</l>
@@ -258,7 +258,7 @@
 <sp who='ÉPORÉDORIXE'><speaker>ÉPORÉDORIXE.</speaker>
 	<l id='73' part="m">Ah ! Seigneur !</l>
 </sp>
-<sp who='SYLVIE'><speaker>SYLVIE, avec véhémence.</speaker>
+<sp stage="stress" who='SYLVIE'><speaker>SYLVIE, avec véhémence.</speaker>
 	<l id='73' part="f">Oui, barbare,</l>
 	<l id='74'>Tu croyais m'abuser par ton air de guitare;</l>
 	<l id='75'>Mais plus que toi, Sylvie est adroite en entrant.</l>
@@ -270,11 +270,11 @@
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Les précédents, un soldat.</head>
-<sp who='SOLDAT'><speaker>LE SOLDAT, à Vercingentorixe.</speaker>
+<sp stage="toward" who='SOLDAT'><speaker>LE SOLDAT, à Vercingentorixe.</speaker>
 	<l id='79'>Seigneur, je voudrais bien vous celer et brider</l>
 	<l id='80' part="i">Que...</l>
 </sp>
-<sp who='VERCINGENTORIXE'><speaker>VERCINGENTORIXE, lui parle à l'oreille, ensuite il dit :</speaker>
+<sp stage="low/toward" who='VERCINGENTORIXE'><speaker>VERCINGENTORIXE, lui parle à l'oreille, ensuite il dit :</speaker>
 	<l id='80' part="f">Cours de botanique, et fais tout décider.</l>
 <stage type="toward">À Sylvie.</stage>
 	<l id='81'>Madame, pardonnez, je souffre d'allumette,</l>
@@ -285,10 +285,10 @@
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Sylvie, Convictolitan.</head>
-<sp who='SYLVIE'><speaker>SYLVIE, rappelant Convictolitan prêt à sortir avec les autres.</speaker>
+<sp stage="back" who='SYLVIE'><speaker>SYLVIE, rappelant Convictolitan prêt à sortir avec les autres.</speaker>
 	<l id='85' part="i">Cher Convictolitan !</l>
 	</sp>
-<sp who='CONVICTOLITAN'><speaker>CONVICTOLITAN, se retournant.</speaker>
+<sp stage="turn" who='CONVICTOLITAN'><speaker>CONVICTOLITAN, se retournant.</speaker>
 	<l id='85' part="f">Ô ma chère Sylvie !</l>
 	<l id='86'>Je vole dans la poche au secours d'Alexie.</l>
 </sp>
@@ -358,13 +358,13 @@
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Les précécent, Critognat.</head>
-<sp who='CRITOGNAT'><speaker>CRITOGNAT, l'épée à la main, et couvert de sang comme un homme qui sort du combat.</speaker>
+<sp stage="threat" who='CRITOGNAT'><speaker>CRITOGNAT, l'épée à la main, et couvert de sang comme un homme qui sort du combat.</speaker>
 	<l id='127'>C'est trop livrer vos coeurs à ce combat naval;</l>
 	<l id='128'>L'amour dans ce héros est un vice-amiral,</l>
 	<l id='129'>Lorsqu'il doit de la main défendre sa patrie.</l>
 	<l id='130' part="i">Viens, Convictolitan.</l>
 </sp>
-<sp who='CONVICTOLITAN'><speaker>CONVICTOLITAN, à Sylvie.</speaker>
+<sp stage="toward" who='CONVICTOLITAN'><speaker>CONVICTOLITAN, à Sylvie.</speaker>
 	<l id='130' part="f">Vous venez de l'entendre...</l>
 	<l id='131' part="i">Je te suis, Critognat... Dieux !</l>
 </sp>
@@ -376,7 +376,7 @@
 	<l id='133'>L'amour va m'y conduire, et par sa main divine,</l>
 	<l id='134'>Ton image en mon coeur sera peinte ou chopine.</l>
 </sp>
-<sp who='SYLVIE'><speaker>SYLVIE, avec transport.</speaker>
+<sp stage="entousiasm" who='SYLVIE'><speaker>SYLVIE, avec transport.</speaker>
 	<l id='135'>Je suis remise au mois par cet espoir charmant.</l>
 	<l id='136' part="i">Adieu...</l>
 </sp>
@@ -386,17 +386,17 @@
 <sp who='SYLVIE'><speaker>SYLVIE.</speaker>
 	<l id='136' part="m">Eh bien !</l>
 </sp>
-<sp who='CONVICTOLITAN'><speaker>CONVICTOLITAN, les larmes aux yeux.</speaker>
+<sp stage="cry" who='CONVICTOLITAN'><speaker>CONVICTOLITAN, les larmes aux yeux.</speaker>
 	<l id='136' part="m">Sylvie !...</l>
 </sp>
 <sp who='SYLVIE'><speaker>SYLVIE.</speaker>
 	<l id='136' part="f">Ah ! Quel moment !</l>
-<stage type="[N/A]">Convictolitan sort entraîné par Critognat ; Sylvie reste seule.</stage>
+<stage type="pull/exit/alone">Convictolitan sort entraîné par Critognat ; Sylvie reste seule.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI.</head>
 <sp who='SYLVIE'><speaker>SYLVIE.</speaker>
-<stage type="[N/A]">Pendant le monologue les gardes disposent la table du festin.</stage>
+<stage type="decor">Pendant le monologue les gardes disposent la table du festin.</stage>
 	<l id='137'>Ah ! Nous attendrissons les cieux de mon carrosse.</l>
 	<l id='138'>Quel serait l'avenir, si le présent de noce</l>
 	<l id='139'>Nous réduit solitaire à tant d'affreux tourments...</l>
@@ -420,7 +420,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII. Vercingentorixe, Critognat, Conutodun, Catuat, Cotus, Sylvie, Gardes.</head>
-<sp who='VERCINGENTORIXE'><speaker>VERCINGENTORIXE, à Sylvie.</speaker>
+<sp stage="toward" who='VERCINGENTORIXE'><speaker>VERCINGENTORIXE, à Sylvie.</speaker>
 	<l id='156'>Princesse, il fut un temps où les grâces d'état,</l>
 	<l id='157'>Les ris de veau jouaient autour de ma couronne.</l>
 	<l id='158'>Les jeux de main alors embellissaient mon trône</l>
@@ -428,9 +428,9 @@
 	<l id='160'>Hélas ! Sans eux brouillés que peuvent les humains ?</l>
 <stage type="toward">Aux soldats.</stage>
 	<l id='161'>Vous, soldats, avancez la table des matières.</l>
-<stage type="[N/A]">On avance la table vers le milieu du théâtre.</stage>
+<stage type="decor">On avance la table vers le milieu du théâtre.</stage>
 	<l id='162' part="i">C'est votre place aux veaux.</l>
-<stage type="[N/A]">Tout le monde s'assied.</stage>
+<stage type="sit">Tout le monde s'assied.</stage>
 	<l id='162' part="f">Oublions nos misères.</l>
 </sp>
 <sp who='SYLVIE'><speaker>SYLVIE.</speaker>
@@ -447,22 +447,22 @@
 <sp who='VERCINGENTORIXE'><speaker>VERCINGENTORIXE.</speaker>
 	<l id='165'>Voici ce corps de chasse où logeaient tous les vices.</l>
 	<l id='166'>Consolons-nous, amis, reprenons nos sens suisses.</l>
-<stage type="[N/A]">En servant Sylvie.</stage>
+<stage type="give">En servant Sylvie.</stage>
 	<l id='167' part="i">Vous, Madame, damée.</l>
 </sp>
 <sp who='SYLVIE'><speaker>SYLVIE.</speaker>
 	<l id='167' part="m">Ah ! Seigneur.</l>
 </sp>
-<sp who='VERCINGENTORIXE'><speaker>VERCINGENTORIXE, en servant Catuat et les autres.</speaker>
+<sp stage="give" who='VERCINGENTORIXE'><speaker>VERCINGENTORIXE, en servant Catuat et les autres.</speaker>
 	<l id='167' part="f">Catuat...</l>
 	<l id='168' part="i">Cotus... Conutodun...</l>
 </sp>
 <sp who='CONUTODUN'><speaker>CONUTODUN.</speaker>
 	<l id='168' part="m">Ah ! Prince.</l>
 </sp>
-<sp who='VERCINGENTORIXE'><speaker>VERCINGENTORIXE, en servant Critognat.</speaker>
+<sp stage="give" who='VERCINGENTORIXE'><speaker>VERCINGENTORIXE, en servant Critognat.</speaker>
 	<l id='168' part="f">Critognat...</l>
-<stage type="[N/A]">Tout le monde mange, excepté Critognat.</stage>
+<stage type="eat">Tout le monde mange, excepté Critognat.</stage>
 	<l id='169'>Dieux ! Je sens fermenter la brûlante amertume...</l>
 	<l id='170'>L'amour dans ces plats pieds est-ce ton sang qui fume</l>
 	<l id='171'>Hélas ! Sous ces couteaux tranchants du grand seigneur</l>
@@ -516,7 +516,7 @@
 <sp who='VERCINGENTORIXE'><speaker>VERCINGENTORIXE.</speaker>
 	<l id='209'>Ami, tout mon courage est à bout de chandelle.</l>
 </sp>
-<sp who='SYLVIE'><speaker>SYLVIE, fondant en larmes.</speaker>
+<sp stage="cry" who='SYLVIE'><speaker>SYLVIE, fondant en larmes.</speaker>
 	<l id='210' part="i">Ah ! b, c, d...</l>
 </sp>
 <sp who='CRITOGNAT'><speaker>CRITOGNAT.</speaker>
@@ -527,7 +527,7 @@
 	<l id='214'>On préparait déjà cette pompe aspirante</l>
 	<l id='215'>Que l'on croyait devoir à ses mânes d'osier.</l>
 </sp>
-<sp who='SYLVIE'><speaker>SYLVIE, dans le dernier accablement.</speaker>
+<sp stage="" who='SYLVIE'><speaker>SYLVIE, dans le dernier accablement.</speaker>
 	<l id='216' part="i">Oh ! p, q...</l>
 </sp>
 <sp who='CRITOGNAT'><speaker>CRITOGNAT.</speaker>
@@ -582,15 +582,15 @@
 <sp who='CATUAT'><speaker>CATUAT.</speaker>
 	<l id='232'>Ne me refusez point; car de conversion,</l>
 	<l id='233'>Vous me rendrez enfin un service de table.</l>
-<stage type="[N/A]">Il reçoit la mort de la main de Conutodun, qui se tue lui-même après, Cotus se tue ensuite.</stage>
+<stage type="kill/die">Il reçoit la mort de la main de Conutodun, qui se tue lui-même après, Cotus se tue ensuite.</stage>
 </sp>
-<sp who='SYLVIE'><speaker>SYLVIE, se levant et s'avançant sur la scène.</speaker>
+<sp stage="stand" who='SYLVIE'><speaker>SYLVIE, se levant et s'avançant sur la scène.</speaker>
 	<l id='234'>Pour moi, quand mes flancs d'oeufs dans ce jour déplorable,</l>
 	<l id='235'>Ont reçu quittance le cors de mon amant,</l>
 	<l id='236'>Le mien ne sera point souillé par le fer blanc.</l>
 	<l id='237'>Je vais me retirer dans ma tente ou ma nièce,</l>
 	<l id='238'>Et j'attendrai la mort de la faim de la pièce.</l>
-<stage type="[N/A]">Elle fait la révérence et la toile tombe.</stage>
+<stage type="wave">Elle fait la révérence et la toile tombe.</stage>
 </sp>
 </div2>
 </div1>

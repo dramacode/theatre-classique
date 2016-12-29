@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<TEI xml:lang="fr">
 <teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -283,10 +283,10 @@
 	<l id='151'>Cette femme m'occupe : un jour même, en secret,</l>
 	<l id='152'>Je n'ai pu m'empêcher de voler son portrait,</l>
 	<l id='153' part="i">Et j'aime à le revoir.</l>
-<stage type="[N/A]">Regardant le Portrait, et le faisant voir à Zeronès.</stage>
+<stage type="watch/show">Regardant le Portrait, et le faisant voir à Zeronès.</stage>
 	<l id='153' part="f">Orphise est si jolie !</l>
 	<l id='154'>Ce serait bien le cas d'une double folie...</l>
-<stage type="[N/A]">Resserrant le Portrait.</stage>
+<stage type="hide">Resserrant le Portrait.</stage>
 	<l id='155'>Mais elles s'aiment trop : il n'est pas temps encor ;</l>
 	<l id='156'>Et ce serait risquer d'échouer dans le port.</l>
 	<l id='157'>Enfin, je me fuis fait amoureux de Mélise</l>
@@ -741,7 +741,7 @@
 	<l id='403'>Ah ! tout ce que Paris a de plus précieux,</l>
 	<l id='404'>Mesdames, je le vois rassemblé dans ces lieux.</l>
 	<l id='405'>Les grâces de l'esprit, les qualités de l'âme ;</l>
-<stage type="[N/A]">En montrant Mélise.</stage>
+<stage type="show">En montrant Mélise.</stage>
 	<l id='406' part="i">Les talents enchanteurs.</l>
 </sp>
 <sp stage="aparte/toward" who='MÉLISE'><speaker>MÉLISE, à part à Damis.</speaker>
@@ -771,7 +771,7 @@
 	<l id='413' part="f">Enfin, je vois à son aurore</l>
 	<l id='414'>La beauté, la vertu qui l'embellit encore,</l>
 	<l id='415'>Et le tableau touchant d'une pure amitié....</l>
-<stage type="[N/A]">En regardant tout le monde.</stage>
+<stage type="watch">En regardant tout le monde.</stage>
 	<l id='416'>Auprès de vous, Paris est bientôt oublié.</l>
 </sp>
 <sp stage="toward" who='ORGON'><speaker>ORGON, à Zénonès.</speaker>
@@ -1290,11 +1290,11 @@
 <sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 	<l id='739'>Que vous êtes aimable et que mon sort est doux !</l>
 	<l id='740'>Combien notre amitié va faire de jaloux !</l>
-	<l id='741'>Ah ! Je fuis dans l'ivresse... Et mon bonheur extrême...</l>
+	<l id='741'>Ah ! Je suis dans l'ivresse... Et mon bonheur extrême...</l>
 <stage type="kiss/kneel">Il lui baise la mains et se jette à ses genoux.</stage>
 </sp>
 <sp who='MÉLISE'><speaker>MÉLISE.</speaker>
-<stage type="[N/A]">Se détournant et cherchant à retirer sa main.</stage>
+<stage type="turn/pull">Se détournant et cherchant à retirer sa main.</stage>
 	<l id='742' part="i">Ah ! Marquis...</l>
 </sp>
 <sp stage="watch/touch" who='LE MARQUIS'><speaker>LE MARQUIS, profitant de ce moment pour regarder à sa montre en tenant toujours la main de Mélise.</speaker>

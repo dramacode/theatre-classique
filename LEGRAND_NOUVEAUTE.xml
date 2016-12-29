@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<?xml version="1.0" encoding='utf-8'?>
+<TEI xml:lang="fr">
 <teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -7,9 +7,9 @@
 				<author born='1673' born_location='Paris' death='1728' death_location='Paris' academie=''>LEGRAND, Marc-Antoine</author>
 			</titleStmt>
 			<publicationStmt>	
-				<p>publié par Paul FIEVRE, novembre 2014, revu décembre 2016</p>
-				<idno>LEGRAND_NOUVEAUTE</idno>
-			</publicationStmt>
+				<p>publié par Paul FIEVRE, novembre 2014</p>
+			<idno></idno>
+</publicationStmt>
 			<SourceDesc>
 				<genre>Comédie</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -18,6 +18,10 @@
 				<periode>1721-1730</periode>
 				<taille>0-250</taille>
 				<permalien></permalien>
+				<sources>
+					<source id='1'><author></author><text></text></source>
+				</sources>	
+
 			</SourceDesc>
 		</fileDesc>
 </teiHeader>
@@ -68,8 +72,8 @@
 <div1 type="act" n="1"><head>LA NOUVEAUTÉ</head>
 <stage type="decor">Le théâtre représente un bois de cyprès dépouillés de verdure, au travers duquel passe le Fleuve de L'Ennui dont les eaux sont noires et bourbeuses. On voir sur ses bords plusieurs personnes de divers caractères qui attendent que le temps vienne les passer, et les tirer de ce triste lieu, et plusieurs images de gens qui s'ennuient.</stage>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
-<sp stage="carry" who="LE TEMPS"><speaker>LE TEMPS, un rame à la main.</speaker>
-<stage type="title">CHANT n°I.</stage>
+<sp who="LE TEMPS"><speaker>LE TEMPS, un rame à la main.</speaker>
+<stage type="[N/A]">CHANT n°I.</stage>
 	<l id="1">C'est ici de l'Ennui le fleuve affreux et sombre ;</l>
 	<l id="2">Les plus heureux mortels le passent tour-à-tour ;</l>
 	<l id="3">Des plaisirs on n'y voit que l'ombre :</l>
@@ -382,7 +386,7 @@
 	<s id="1">Le sujet est-il tiré de la Fable ou de la Métamorphose.</s>
 </p>
 </sp>
-<sp stage="laugh" who="MERCURE"><speaker>MERCURE, en riant.</speaker>
+<sp who="MERCURE"><speaker>MERCURE, en riant.</speaker>
 <p id="12">
 	<s id="1">Non, c'est de l'Histoire.</s>
 </p>
@@ -448,11 +452,12 @@
 	<s id='2'>Croyez-moi, Messieurs, ne manquez jamais la première représentation d'une pièce, on n'est jamais sûr d'en avoir une seconde : et venez tous avec moi condamner ou applaudir la Nouveauté. </s>
 	<s id='3'>Mais vous n'aurez pas peine de l'aller chercher à la Comédie, puisque la voilà qui vient ne personne au devant de vous.</s>
 </p>
-<stage type="exit">Le FLeuve de l'Ennui disparaît.</stage>
+<stage type="[N/A]">Le FLeuve de l'Ennui disparaît.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI.</head>
-<sp stage="entrance/sing" who='LA NOUVEAUTÉ'><speaker>LA NOUVEAUTÉ suivie d'une foule de gens de toutes espèces, chante.</speaker>
+<stage type="[N/A]">Le FLeuve de l'Ennui disparaît.</stage>
+<sp who='LA NOUVEAUTÉ'><speaker>LA NOUVEAUTÉ suivie d'une foule de gens de toutes espèces, chante.</speaker>
 <poem type="chanson">
 <lg n='1'>
 	<l id='5'>La Nouveauté vous appelle :</l>
@@ -472,7 +477,7 @@
 </lg>
 </poem>
 </sp>
-<sp stage="together" who='TROUPE DE CURIEUX'><speaker>TROUPE DE CURIEUX, ensemble.</speaker>
+<sp who='TROUPE DE CURIEUX'><speaker>TROUPE DE CURIEUX, ensemble.</speaker>
 <p id='1'>
 	<s id='1'>Charmante Nouveauté !...</s>
 </p>
@@ -664,7 +669,7 @@
 	<s id='1'>Entre nous, je crois y avoir un peu de part ; et je vous avouerai franchement que c'est moi qui vous donne aujourd'hui tant de goût l'un pour l'autre.</s>
 </p>
 </sp>
-<sp stage="low/toward" who='ÉLIANTE'><speaker>ÉLIANTE, bas à la Nouveauté.</speaker>
+<sp who='ÉLIANTE'><speaker>ÉLIANTE, bas à la Nouveauté.</speaker>
 <p id='4'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Madame, qu'allez-vous lui découvrir ?</s>
@@ -1152,7 +1157,7 @@
 	<s id='2'>Adieu, Madame la Nouveauté : nous suivrons vos avis quand vous serez devenue plus raisonnable.</s>
 </p>
 </sp>
-<sp stage="alone" who='LA NOUVEAUTÉ'><speaker>LA NOUVEAUTÉ, seule.</speaker>
+<sp who='LA NOUVEAUTÉ'><speaker>LA NOUVEAUTÉ, seule.</speaker>
 <p id='25'>
 	<s id='1'>Ils ont, après tout, quelque raison ; et il faut avouer que je suis souvent bien extravagante.</s>
 </p>
@@ -1463,7 +1468,7 @@
 </sp>
 </div2>
 <div2 type='divertissement' n='15'><head>DIVERTISSEMENT.</head>
-<stage type="entrance">ENTRÉE de toutes sortes de personnes amoureuse de la nouveauté.</stage>
+<stage type="[N/A]">ENTRÉE de toutes sortes de personnes amoureuse de la nouveauté.</stage>
 <sp who='DEUX SUIVANTS'><speaker>DEUX SUIVANTS de la Nouveauté.</speaker>
 	<l id='21'>Dans la jeunesse,</l>
 	<l id='22'>Dans la vieillesse,</l>
@@ -1490,8 +1495,8 @@
 	<l id='39'>Dans la tristesse,</l>
 	<l id='40'>Nous cherchons sans cesse</l>
 	<l id='41'>La Nouveauté.</l>
-<stage type="entrance">ENTRÉE de quatre âges, et des soucis qui les troublent et leur font souhaiter la Nouveauté.</stage>
-<stage type="title">MENUET</stage>
+<stage type="[N/A]">ENTRÉE de quatre âges, et des soucis qui les troublent et leur font souhaiter la Nouveauté.</stage>
+<stage type="[N/A]">MENUET</stage>
 	<l id='42'>Quand une beauté</l>
 	<l id='43'>Cesse d'être inhumaine,</l>
 	<l id='44'>Vers l'infidélité</l>
@@ -1500,8 +1505,8 @@
 	<l id='47'>Nouveaux désirs,</l>
 	<l id='48'>Nouveaux soupirs,</l>
 	<l id='49'>Nouveaux plaisirs.</l>
-<stage type="entrance">ENTRÉE des nations amoureuses de la Nouveauté.</stage>
-<stage type="title">VAUDEVILLE.</stage>
+<stage type="[N/A]">ENTRÉE des nations amoureuses de la Nouveauté.</stage>
+<stage type="[N/A]">VAUDEVILLE.</stage>
 <poem type="vaudeville">
 <lg n="1">
 	<l id='50'>Vous qui cherchez à faire emplette</l>
@@ -1562,7 +1567,7 @@
 	<l id='91'>Applaudissez la Nouveauté.</l>
 </lg>
 </poem>
-<stage type="title">CONTRE-DANSE.</stage>
+<stage type="[N/A]">CONTRE-DANSE.</stage>
 </sp>
 </div2>
 </div1>

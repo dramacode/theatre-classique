@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<TEI xml:lang="fr">
 <teiHeader>
 	<fileDesc>
 		<titleStmt>
@@ -300,10 +300,10 @@
 </sp>
 </div2>
 <div2 type="scene" n="5"><head>SCÈNE V. Philotas, Sitalce.</head>
-<sp who="PHILOTAS"><speaker>PHILOTAS, à part.</speaker>
+<sp stage="aparte" who="PHILOTAS"><speaker>PHILOTAS, à part.</speaker>
 	<l id="163">Allons joindre Sitalce. Il est de conséquence</l>
 	<l id="164">Qu'il sache.... Mais tout triste en ces lieux il s'avance!</l>
-<stage type="forte">Haut à Sitalce.</stage>
+<stage type="loud/toward">Haut à Sitalce.</stage>
 	<l id="165">Prince, vous n'avez plus cette louable ardeur ;</l>
 	<l id="166">Laissez-vous de votre âme éteindre la ferveur ?</l>
 </sp>
@@ -521,7 +521,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="9"><head>SCÈNE IX.</head>
-<sp who="SITALCE"><speaker>SITALCE, seul.</speaker>
+<sp stage="alone" who="SITALCE"><speaker>SITALCE, seul.</speaker>
 	<l id="313">PRest à frapper ce coup trop longtemps attendu,</l>
 	<l id="314">Mon bras déjà levé demeure suspendu.</l>
 	<l id="315">Les deux Rois, sont aux mains, et du combat l'issue</l>
@@ -593,7 +593,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="2"><head>SCÈNE II. Sysigambis, Ophis, Sitalce, Statira, Zaminte, Zonime.</head>
-<sp who="SITALCE"><speaker>SITALCE, à Sysigambis.</speaker>
+<sp stage="toward" who="SITALCE"><speaker>SITALCE, à Sysigambis.</speaker>
 	<l id="361">Eh ! Madame, cessez de répandre des pleurs !</l>
 	<l id="362">Je viens vous annoncer la fin de vos malheurs.</l>
 	<l id="363">Alexandre est vaincu, vos soldats pleins de rage,</l>
@@ -672,12 +672,12 @@
 	<l id="420">À le défendre bien Philotas se dispose.</l>
 	<l id="421">Je vais sans différer conférer avec lui.</l>
 </sp>
-<sp who="SYSIGAMBIS"><speaker>SYSIGAMBIS, à Ophis.</speaker>
+<sp stage="toward" who="SYSIGAMBIS"><speaker>SYSIGAMBIS, à Ophis.</speaker>
 	<l id="422">Allez-voir ce qu'il vont décider aujourd'hui.</l>
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III. Sysigambis, Statira, Philotas, Zaminte.</head>
-<sp who="PHILOTAS"><speaker>PHILOTAS, à Sysigambis.</speaker>
+<sp stage="toward" who="PHILOTAS"><speaker>PHILOTAS, à Sysigambis.</speaker>
 	<l id="423">Un soldat devançant la prompte Renommée,</l>
 	<l id="424">Se présente, Madame, arrivant de l'armée ;</l>
 	<l id="425">Et porteur d'un secret vous intéressant tous,</l>
@@ -688,7 +688,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV. Sysigambis, Statira, Philotas, Zaminte, Un Soldat.</head>
-<sp who="SYSIGAMBIS"><speaker>SYSIGAMBIS, au Soldat.</speaker>
+<sp stage="toward" who="SYSIGAMBIS"><speaker>SYSIGAMBIS, au Soldat.</speaker>
 	<l id="427" part="f">Approchez-vous, et venez nous apprendre</l>
 	<l id="428">S'il est vrai que mon fils ait défait Alexandre.</l>
 	<l id="429">Quel mouvement subit vous présente à nos yeux ?</l>
@@ -730,7 +730,7 @@
 	<l id="451">Dieux, qui nous poursuivez avec tant de furie,</l>
 	<l id="452">Pour mieux la signaler vous me laissez la vie!</l>
 	<l id="453">Si vous étiez touchés des rigueurs de mon sort,</l>
-<stage type="[N/A]">* On tenait à grande ignominie d'être privé des honneurs de la sépulture.</stage>
+<stage type="explicit">* On tenait à grande ignominie d'être privé des honneurs de la sépulture.</stage>
 	<l id="454">Vous le termineriez par une prompte mort.</l>
 	<l id="455">Je la saurais trouver dans mon malheur extrême,</l>
 	<l id="456">Avant d'en recevoir de vous l'ordre suprême.</l>
@@ -808,7 +808,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="7"><head>SCÈNE VII. Alexandre, Sysigambis, Statira, Philotas, Éphestion, Zonime.</head>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE, à Sysigambis.</speaker>
+<sp stage="toward" who="ALEXANDRE"><speaker>ALEXANDRE, à Sysigambis.</speaker>
 	<l id="513">Madame, mes exploits ne m'offrent rien de doux,</l>
 	<l id="514">Lorsque sur vos malheurs je m'afflige avec vous.</l>
 	<l id="515">Je connais vos vertus, Le sort, qui vous opprime,</l>
@@ -840,7 +840,7 @@
 	<l id="538">Je suis votre captive, et voilà mon état.</l>
 	<l id="539">Je ne veux rien pour moi, Seigneur, je vous l'atteste ;</l>
 	<l id="540">Je vous demande tout en faveur de ce reste</l>
-<stage type="[N/A]">Montrant sa famille.</stage>
+<stage type="show">Montrant sa famille.</stage>
 	<l id="541">Que vous voyez ici sous le poids de vos fers,</l>
 	<l id="542">Gémir, servir d'exemple aux Rois de l'univers.</l>
 	<l id="543">Tout retentit, Seigneur, du succès de vos armes ;</l>
@@ -1052,7 +1052,7 @@
 	<l id="698">Les femmes, les enfants de plusieurs Officiers,</l>
 	<l id="699">Des illustres Persans, et même plusieurs Princes.</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE, à Éphestion.</speaker>
+<sp stage="toward" who="ALEXANDRE"><speaker>ALEXANDRE, à Éphestion.</speaker>
 	<l id="700">Il faut les disperser dans diverses Provinces.</l>
 </sp>
 <sp who="LE CAPITAINE"><speaker>LE CAPITAINE.</speaker>
@@ -1117,7 +1117,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="6"><head>SCÈNE VI.</head>
-<sp who="SITALCE"><speaker>SITALCE, seul.</speaker>
+<sp stage="alone" who="SITALCE"><speaker>SITALCE, seul.</speaker>
 	<l id="739">Guidé par la lueur d'une fausse lumière,</l>
 	<l id="740">On est dans les horreurs au moment qu'elle éclaire.</l>
 	<l id="741">De tout ce que je sens rien ne me satisfait ;</l>
@@ -1181,12 +1181,12 @@
 	<l id="785">Qui l'ont vu, disent-ils, combattre dans Issus,</l>
 	<l id="786">Où ce Prince semblait avoir pris le dessus ;</l>
 	<l id="787">Mais Alexandre vint, suivi de la victoire.</l>
-<stage type="[N/A]">Il se présente deux prisonniers ; mais Nicandre fait signe de la main à l'autre de s'en aller.</stage>
+<stage type="show/wave">Il se présente deux prisonniers ; mais Nicandre fait signe de la main à l'autre de s'en aller.</stage>
 	<l id="788">Par eux vous apprendrez le reste de l'histoire.</l>
 </sp>
 </div2>
 <div2 type="scene" n="8"><head>SCÈNE VIII. Ophis, Nicandre, Zonime.</head>
-<sp who="OPHIS"><speaker>OPHIS, à part.</speaker>
+<sp stage="aparte" who="OPHIS"><speaker>OPHIS, à part.</speaker>
 	<l id="789">Je crains de lui parler en ce jour malheureux ;</l>
 	<l id="790">Il m'en dira, je crois, bien plus que je ne veux.</l>
 	<l id="791">Mais que vois-je ? Grands Dieux ! Nicandre, est-il possible,</l>
@@ -1261,7 +1261,7 @@
 <sp who="OPHIS"><speaker>OPHIS.</speaker>
 	<l id="841">On se trompe, et bien-tôt le fait s'éclaircira.</l>
 </sp>
-<sp who="ZONIME"><speaker>ZONIME, à Statira.</speaker>
+<sp stage="toward" who="ZONIME"><speaker>ZONIME, à Statira.</speaker>
 	<l id="842">Et de plus, pour complice on nomme Statira.</l>
 </sp>
 <sp who="STATIRA"><speaker>STATIRA.</speaker>
@@ -1290,7 +1290,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="10"><head>SCÈNE X. Ophis, Statira, Zonime, Zaminte.</head>
-<sp who="ZAMINTE"><speaker>ZAMINTE, à Statira.</speaker>
+<sp stage="stage" who="ZAMINTE"><speaker>ZAMINTE, à Statira.</speaker>
 	<l id="853">Tout est perdu, Madadame ! On voit de tous côtés</l>
 	<l id="854">Des Gardes, des Soldats, à pas précipités,</l>
 	<l id="855">Courir dans cette enceinte où l'on nous environne :</l>
@@ -1495,7 +1495,7 @@
 	<l id="1000">Tous ces détours ne font qu'irriter mon courroux.</l>
 	<l id="1001">Il ne m'est plus permis d'en douter, inhumaine ;</l>
 	<l id="1002">J'ai de votre attentat une preuve certaine.</l>
-<stage type="[N/A]">Lui montrant un billet.</stage>
+<stage type="show">Lui montrant un billet.</stage>
 <stage type="read">Il lit :</stage>
 	<l id="1003">Le Roi dans un moment va se rendre à ma tente :</l>
 	<l id="1004">Suivez-le de bien près. Je suis impatiente</l>
@@ -1564,7 +1564,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV.</head>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE, seul.</speaker>
+<sp stage="alone" who="ALEXANDRE"><speaker>ALEXANDRE, seul.</speaker>
 	<l id="1051">OPHIS voit que ma haine à son aspect chancelle.</l>
 	<l id="1052">Qu'une secrète voix ose parler pour elle, </l>
 	<l id="1053">Que je voudrais douter de son lâche attentat.</l>
@@ -1673,7 +1673,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="7"><head>SCÈNE VII. Alexandre, Éphestion.</head>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE, allant au-devant d'Éphestion.</speaker>
+<sp stage="closer" who="ALEXANDRE"><speaker>ALEXANDRE, allant au-devant d'Éphestion.</speaker>
 	<l id="1121">Cher ami, de quel coup viens-je d'être frappé !</l>
 	<l id="1122">Sitalce, justes Dieux ! peut-il m'avoir trompé !</l>
 	<l id="1123">Son injuste pitié peut-elle être capable</l>
@@ -1809,7 +1809,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III. Ophis, Sysigambis, Statira, Zaminte, Zonime.</head>
-<sp who="OPHIS"><speaker>OPHIS, à Sysigambis.</speaker>
+<sp stage="toward" who="OPHIS"><speaker>OPHIS, à Sysigambis.</speaker>
 	<l id="1199">HE, bien ! Est-il encore un rayon d'espérance ?</l>
 	<l id="1200">Et pouvons nous..... Mais quoi, vous gardez le silence .</l>
 	<l id="1201">Vous poussez des soupirs ! Une vive douleur</l>
@@ -1916,7 +1916,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV. Éphestion, Ophis, Statira, Zonime.</head>
-<sp who="ÉPHESTION"><speaker>ÉPHESTION, à Statira.</speaker>
+<sp stage="toward" who="ÉPHESTION"><speaker>ÉPHESTION, à Statira.</speaker>
 	<l id="1253">Madame, je croyais trouver ici le Roi.</l>
 </sp>
 <sp who="STATIRA"><speaker>STATIRA.</speaker>
@@ -1985,7 +1985,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="6"><head>SCÈNE VI. Alexandre, Sysigambis, Ophis, Statira, Nicandre, Éphestion, Zaminte, Zonime.</head>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE, à Sysigambis.</speaker>
+<sp stage="toward" who="ALEXANDRE"><speaker>ALEXANDRE, à Sysigambis.</speaker>
 	<l id="1297">Sitalce dans sa mort me paraît trop cruel.</l>
 	<l id="1298">Ce Prince repentant n'était plus criminel ;</l>
 	<l id="1299">Se livrant sans réserve aux traits de ma vengeance,</l>
@@ -2043,7 +2043,7 @@
 	<l id="1339">Mais dans ses grands projets son âme généreuse.</l>
 	<l id="1340">Ne veut la subjuguer que pour la rendre heureuse.</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE, à Statira.</speaker>
+<sp stage="toward" who="ALEXANDRE"><speaker>ALEXANDRE, à Statira.</speaker>
 	<l id="1341">Madame, je bénis le sort de ces époux :</l>
 	<l id="1342">Ce que je fais pour eux, je l'aurais fait pour vous ;</l>
 	<l id="1343">Mais l'intérêt des Grecs s'oppose à mon envie.</l>

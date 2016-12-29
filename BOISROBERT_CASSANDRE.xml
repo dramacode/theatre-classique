@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<TEI xml:lang="fr">
 <teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -7,7 +7,7 @@
 			<author born="1589" born_location="Caen" death="1662" death_location="Paris" academie="">BOISROBERT, François Le Métel de </author>
 			</titleStmt>
 			<publicationStmt>	
-				<publisher>publié par Paul FIEVRE, Janvier 2014, revu mai 2016</publisher>
+				<publisher>publié par Paul FIEVRE, Janvier 2014, revu décembre 2016</publisher>
 				<editor>Texte établi Mémoire de Maîtrise et présenté par dirigé par Georges Forestier Francisco Guevara Quiel Paris, 2002.</editor>
 				<idno>BOISROBERT_CASSANDRE</idno>
 			</publicationStmt>
@@ -107,7 +107,7 @@
 	<l id="28">Vous serez bien plus propre à cette confidence,</l>
 	<l id="29">Son coeur s'ouvrira mieux sans doute à vous qu'à moi.</l>
 </sp>
-<sp who="ASTOLFE"><speaker>ASTOLFE, bas.</speaker>
+<sp stage="low" who="ASTOLFE"><speaker>ASTOLFE, bas.</speaker>
 	<l id="30">Dirai-je que j'attends des marques de sa foi ?</l>
 	<l id="31">Dirai-je que je l'aime, et que mon feu la touche ?</l>
 	<l id="32">Non, ayons-en devant le congé de sa bouche.</l>
@@ -138,7 +138,7 @@
 	<l id="55">Sauvez-moi du murmure, et des uns et des autres,</l>
 	<l id="56">Si mes conseils sont bons, secondez-les des vôtres.</l>
 </sp>
-<sp who="ASTOLFE"><speaker>ASTOLFE, à part.</speaker>
+<sp stage="low" who="ASTOLFE"><speaker>ASTOLFE, à part.</speaker>
 	<l id="57">Oui, Seigneur, sur ce point vous serez obéi,</l>
 	<l id="58">N'y réponds, pas mon coeur, ma bouche t'a trahi ;</l>
 	<l id="59">Mais voici la Princesse à qui je ne puis taire.</l>
@@ -150,7 +150,7 @@
 	<l id="61">Ah c'est trop me presser sur ce choix odieux !</l>
 	<l id="62">Ne précipitons rien, laissons-le faire aux Dieux.</l>
 </sp>
-<sp who="ASTOLFE"><speaker>ASTOLFE, à part.</speaker>
+<sp stage="low" who="ASTOLFE"><speaker>ASTOLFE, à part.</speaker>
 	<l id="63">Ô Dieux que ce discours me donne lieu de craindre,</l>
 	<l id="64">Je ne puis plus, Madame, à vos yeux me contraindre,</l>
 	<l id="65">Voyez les maux cruels qui me sont préparés,</l>
@@ -172,7 +172,7 @@
 	<l id="69" part="f">Allez-y de ce pas,</l>
 	<l id="70">Obéissez, vous dis-je, et ne répliquez pas.</l>
 </sp>
-<sp who="ASTOLFE"><speaker>ASTOLFE, à part.</speaker>
+<sp stage="low" who="ASTOLFE"><speaker>ASTOLFE, à part.</speaker>
 	<l id="71">Quel accueil, justes Dieux, quelle atteinte à mon âme.</l>
 </sp>
 </div2>
@@ -372,7 +372,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V.</head>
-<sp who='BERALDE'><speaker>BERALDE, seul.</speaker>
+<sp stage="alone" who='BERALDE'><speaker>BERALDE, seul.</speaker>
 	<l id="199">J'ai ce me semble été bien léger à promettre,</l>
 	<l id="200">De rendre à leur maîtresse et l'une et l'autre lettre,</l>
 	<l id="201">Qui prend, s'engage enfin, que sert de contester,</l>
@@ -396,28 +396,29 @@
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI.</head>
-<sp who='ASTOLFE'><speaker>ASTOLFE, surprenant Beralde lui arrache ces deux lettres.</speaker>
+<sp stage="get" who='ASTOLFE'><speaker>ASTOLFE, surprenant Beralde lui arrache ces deux lettres.</speaker>
+<note type="L">Poulet : Fig. Billet de galanterie, missive d'amour. [L]</note>
 	<l id="219">De qui sont ces poulets sont-ils d'une maîtresse.</l>
 </sp>
-<sp who='BERALDE'><speaker>BERALDE, surpris.</speaker>
+<sp stage="surprise" who='BERALDE'><speaker>BERALDE, surpris.</speaker>
 	<l id="220">On me les a donnés pour rendre à la Princesse.</l>
 </sp>
 <sp who="ASTOLFE"><speaker>ASTOLFE.</speaker>
 	<l id="221" part="i">À la Princesse !</l>
 </sp>
-<sp who='BERALDE'><speaker>BERALDE, à part.</speaker>
+<sp stage="aparte" who='BERALDE'><speaker>BERALDE, à part.</speaker>
 	<l id="221" part="f">Ô dieux ! Que je suis interdit,</l>
 	<l id="222">Ô cruelle surprise, insensé qu'ai-je dit ?</l>
 </sp>
 <sp who="ASTOLFE"><speaker>ASTOLFE.</speaker>
 	<l id="223" part="i">Pour rendre à la Princesse ? </l>
 </sp>
-<sp who='BERALDE'><speaker>BERALDE, à part.</speaker>
+<sp stage="aparte" who='BERALDE'><speaker>BERALDE, à part.</speaker>
 	<l id="223" part="f">Ah ! Je lui devais dire,</l>
 	<l id="224">Qu'à sa soeur ces rivaux avaient raison d'écrire,</l>
 	<l id="225" part="i">Ô maudit intérêt.</l>
 </sp>
-<sp who='ASTOLFE'><speaker>ASTOLFE, bas.</speaker>
+<sp stage="low" who='ASTOLFE'><speaker>ASTOLFE, bas.</speaker>
 	<l id="225" part="f">J'ai lieu d'être jaloux.</l>
 	<l id="226">Je les rendrai moi-même, allez retirez vous.</l>
 	<l id="227">Qui donc si hardiment ose écrire à Cassandre ?</l>
@@ -436,12 +437,12 @@
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII. Cassandre, Moncade, Astolfe.</head>
-<stage type="[N/A]">Astolfe, lit toujours, et ne voit point la Princesse.</stage>
+<stage type="read">Astolfe, lit toujours, et ne voit point la Princesse.</stage>
 <sp who="CASSANDRE"><speaker>CASSANDRE.</speaker>
 	<l id="240">Oui, je ferai mon choix, oui, vous aurez un maître.</l>
 	<l id="241" part="i">Qu'on ne m'en parle plus.</l>
 </sp>
-<sp who='ASTOLFE'><speaker>ASTOLFE, lit tout haut.</speaker>
+<sp stage="read/loud" who='ASTOLFE'><speaker>ASTOLFE, lit tout haut.</speaker>
 	<l id="241" part="f">Puisque vous connaissez le sang.</l>
 	<l id="242">De Moncade Madame.</l>
 	<l id="243">Puisque vous connaissez son rang.</l>
@@ -451,20 +452,20 @@
 	<l id="245">Ô dieux le lâche tour,</l>
 	<l id="246">C'est ma lettre, et Beralde a trahi mon amour.</l>
 </sp>
-<sp who='CASSANDRE'><speaker>CASSANDRE, à Moncade.</speaker>
+<sp stage="toward" who='CASSANDRE'><speaker>CASSANDRE, à Moncade.</speaker>
 	<l id="247">Quelle lecture occupe Astolfe de la sorte,</l>
 	<l id="248">Il ne nous a point vus, ce billet le transporte, </l>
-<stage type="[N/A]">Elle arrache la lettre à Astolfe. </stage>
+<stage type="get">Elle arrache la lettre à Astolfe. </stage>
 	<l id="249">Il attache son âme aussi bien que ses yeux,</l>
 	<l id="250">Vous savez qu'une fille a l'esprit curieux,</l>
 	<l id="251">D'où vous vient ce billet, voyons qui vous l'envoie,</l>
 	<l id="252">Vous vous fâchez en vain, il faut que je le voie.</l>
 </sp>
-<sp who='ASTOLFE'><speaker>ASTOLFE, bas.</speaker>
+<sp stage="low" who='ASTOLFE'><speaker>ASTOLFE, bas.</speaker>
 	<l id="253">L'ingrate de Moncade a reconnu la main,</l>
 	<l id="254" part="i">Et retire sa lettre.</l>
 </sp>
-<sp who="CASSANDRE"><speaker>CASSANDRE,à part.</speaker>
+<sp stage="aparte" who="CASSANDRE"><speaker>CASSANDRE,à part.</speaker>
 	<l id="254" part="f">Il s'est ému soudain,</l>
 	<l id="255">De cette émotion je devine la cause,</l>
 	<l id="256">Astolphe, dans l'esprit, vous avez quelque chose,</l>
@@ -474,14 +475,14 @@
 	<l id="258">Mon mal est bien aisé, Madame, à deviner,</l>
 	<l id="259">Et je serais sans coeur si j'étais insensible.</l>
 </sp>
-<sp who='MONCADE'><speaker>MONCADE, bas.</speaker>
+<sp stage="low" who='MONCADE'><speaker>MONCADE, bas.</speaker>
 	<l id="260">Il condamne mon feu la chose est trop visible,</l>
 	<l id="261">Et vu ma qualité, j'en suis assez surpris.</l>
 </sp>
-<sp who='CASSANDRE'><speaker>CASSANDRE, bas.</speaker>
+<sp stage="low" who='CASSANDRE'><speaker>CASSANDRE, bas.</speaker>
 	<l id="262" part="i">D'où lui vint ce billet.</l>
 </sp>
-<sp who='MONCADE'><speaker>MONCADE, bas.</speaker>
+<sp stage="low" who='MONCADE'><speaker>MONCADE, bas.</speaker>
 	<l id="262" part="f">D'où lui vient ce mépris ?</l>
 </sp>
 <sp who="CASSANDRE"><speaker>CASSANDRE.</speaker>
@@ -496,7 +497,7 @@
 <sp who="ASTOLFE"><speaker>ASTOLFE.</speaker>
 	<l id="266" part="i">Oui, Madame.</l>
 </sp>
-<sp who='MONCADE'><speaker>MONCADE, bas.</speaker>
+<sp stage="low" who='MONCADE'><speaker>MONCADE, bas.</speaker>
 	<l id="266" part="f">Ai-je écrit pour outrager sa soeur ?</l>
 </sp>
 <sp who="CASSANDRE"><speaker>CASSANDRE.</speaker>
@@ -515,7 +516,7 @@
 <sp who="ASTOLFE"><speaker>ASTOLFE.</speaker>
 	<l id="272">La déclaration ne peut être plus claire.</l>
 </sp>
-<sp who='CASSANDRE'><speaker>CASSANDRE, en s'en allant.</speaker>
+<sp stage="exit" who='CASSANDRE'><speaker>CASSANDRE, en s'en allant.</speaker>
 	<l id="273" part="i">Malheureuse Cassandre.</l>
 </sp>
 <sp who="ASTOLFE"><speaker>ASTOLFE.</speaker>
@@ -524,12 +525,12 @@
 <sp who="MONCADE"><speaker>MONCADE.</speaker>
 	<l id="274">Suivons-la pour lui dire enfin tout mon tourment :</l>
 	<l id="275">Car je n'attends plus rien de cet injuste frère.</l>
-<stage type="[N/A]">Elle emporte ma lettre.</stage>
+	<l id="276" syll="6" part="i">Elle emporte ma lettre.</l>
 </sp>
 </div2>
 <div2 type="scene" n='8'><head>SCÈNE VIII. Astolfe, Moncade.</head>
 <sp who="ASTOLFE"><speaker>ASTOLFE.</speaker>
-	<l id="276">Et je pourrai m'en taire ?</l>
+	<l id="276" syll="6" part="f">Et je pourrai m'en taire ?</l>
 	<l id="277">Je souffrirai sans bruit ce coup de désespoir ?</l>
 	<l id="278">Moncade, hors d'ici, je désire vous voir.</l>
 </sp>
@@ -572,7 +573,7 @@
 	<l id="302">Vous vous abusez fort de vous l'être promis,</l>
 	<l id="303" part="i">Je ne puis jamais l'être, adieu.</l>
 </sp>
-<sp who='MONCADE'><speaker>MONCADE, seul.</speaker>
+<sp stage="alone" who='MONCADE'><speaker>MONCADE, seul.</speaker>
 	<l id="303" part="f">Quelle injustice. </l>
 	<l id="304">D'où lui vient ce mépris, d'où lui naît ce caprice ?</l>
 	<l id="305">Si j'apprends qu'Isabelle ait un mépris pareil,</l>
@@ -598,7 +599,7 @@
 	<l id="313">J'ai vu dans un billet son amitié nouvelle : </l>
 	<l id="314">Et c'est Moncade enfin qui la rend infidèle.</l>
 </sp>
-<sp who='ISABELLE'><speaker>ISABELLE, bas.</speaker>
+<sp stage="low" who='ISABELLE'><speaker>ISABELLE, bas.</speaker>
 	<l id="315">Moncade ? Ah s'il est vrai je suis au désespoir.</l>
 </sp>
 <sp who="ASTOLFE"><speaker>ASTOLFE.</speaker>
@@ -612,7 +613,7 @@
 	<l id="319">Vous avez bien sujet de vous en étonner,</l>
 	<l id="320">On avait cette lettre encor à lui donner,</l>
 	<l id="321">Vous verrez ce que c'est, ma soeur, je vous la laisse.</l>
-<stage type="[N/A]">Il voit venir la Princesse.</stage>
+<stage type="watch">Il voit venir la Princesse.</stage>
 	<l id="322">Adieu, vos propres yeux y verront sa faiblesse.</l>
 </sp>
 </div2>
@@ -661,7 +662,7 @@
 	<l id="347" part="f">Enfin examinons </l>
 	<l id="348">Si c'est avec raison que nous le condamnons.</l>
 </sp>
-<sp who='CASSANDRE'><speaker>CASSANDRE, lit la lettre de Moncade.</speaker>
+<sp stage="read" who='CASSANDRE'><speaker>CASSANDRE, lit la lettre de Moncade.</speaker>
 	<l id="349">Avant que de faire éclater,</l>
 	<l id="350">La Passion incomparable,</l>
 	<l id="351">Par qui je me laisse flatter,</l>
@@ -679,7 +680,7 @@
 <sp who="CASSANDRE"><speaker>CASSANDRE.</speaker>
 	<l id="359" part="f">De Don Remon j'y vois la hardiesse.</l>
 </sp>
-<sp who='ISABELLE'><speaker>ISABELLE, bas.</speaker>
+<sp stage="low" who='ISABELLE'><speaker>ISABELLE, bas.</speaker>
 	<l id="360">C'est à moi que l'ingrat devait écrire ainsi.</l>
 </sp>
 <sp who="CASSANDRE"><speaker>CASSANDRE.</speaker>
@@ -718,7 +719,7 @@
 </sp>
 <sp who="ISABELLE"><speaker>ISABELLE.</speaker>
 	<l id="381">J'admire vos bontés de le traiter ainsi,</l>
-<stage type="[N/A]">Un valet vient.</stage>
+<stage type="entrance">Un valet vient.</stage>
 	<l id="382">Madame il va passer de la mort à la gloire ;</l>
 	<l id="383">Tantôt, de ses malheurs me racontant l'histoire,</l>
 	<l id="384">Il m'a mis cette lettre encore entre les mains,</l>
@@ -726,11 +727,15 @@
 </sp>
 <sp who="CASSANDRE"><speaker>CASSANDRE.</speaker>
 	<l id="385" part="f">Voyons la, je le plains.</l>
-<stage type="[N/A]">Cassandre lit.</stage>
+<stage type="read">Cassandre lit.</stage>
+<poem type="quatrain">
+<lg n="1">
 	<l id="386">« Souffrez adorable Isabelle,</l>
 	<l id="387">Qu'un amant discret et fidèle</l>
 	<l id="388">Vous découvre sa passion,</l>
 	<l id="389">Vous connaissez le sang illustre d'Aragon. »</l>
+</lg>
+</poem>
 	<l id="390">C'est à vous qu'on l'écrit. </l>
 </sp>
 <sp who="ISABELLE"><speaker>ISABELLE.</speaker>
@@ -1115,7 +1120,7 @@
 <sp who="BERALDE"><speaker>BERALDE.</speaker>
 	<l id="651" part="f">Que leur dirai-je, ô Dieux.</l>
 </sp>
-<sp who='DON PEDRE'><speaker>DON PEDRE, bas.</speaker>
+<sp stage="low" who='DON PEDRE'><speaker>DON PEDRE, bas.</speaker>
 	<l id="652">Vous verrez qu'on le fourbe, et qu'on me traite mieux.</l>
 </sp>
 <sp who="MONCADE"><speaker>MONCADE.</speaker>
@@ -1144,7 +1149,7 @@
 <sp who="BERALDE"><speaker>BERALDE.</speaker>
 	<l id="665" part="m">En main propre.</l>
 </sp>
-<sp who='MONCADE'><speaker>MONCADE, bas.</speaker>
+<sp stage="low" who='MONCADE'><speaker>MONCADE, bas.</speaker>
 	<l id="665" part="f">Ô l'insigne imposture.</l>
 </sp>
 <sp who="BERALDE"><speaker>BERALDE.</speaker>
@@ -1163,7 +1168,7 @@
 	<l id="673">De cette aversion je ne suis pas la cause,</l>
 	<l id="674">Et ne pouvais pas mieux exécuter la chose.</l>
 </sp>
-<sp who='MONCADE'><speaker>MONCADE, bas.</speaker>
+<sp stage="low" who='MONCADE'><speaker>MONCADE, bas.</speaker>
 	<l id="675">Mon ami je vous crois, par là j'ai trop compris,</l>
 	<l id="676">Que ma disgrâce est vraie, ah j'en ai trop appris,</l>
 	<l id="677">Le mépris de la soeur répond bien au caprice,</l>
@@ -1171,7 +1176,7 @@
 	<l id="679">Puis-je l'aimer encore ? Adieu, quoi qu'outragé,</l>
 	<l id="680">Beralde, je me sens à vos soins obligé.</l>
 </sp>
-<sp who='BERALDE'><speaker>BERALDE, seul.</speaker>
+<sp stage="alone" who='BERALDE'><speaker>BERALDE, seul.</speaker>
 	<l id="681">Je suis défait de l'un, l'autre est encore à craindre, </l>
 	<l id="682">Mais ne lui disons rien qui l'oblige à se plaindre :</l>
 	<l id="683">C'est un esprit fougueux, traitons-le doucement ;</l>
@@ -1238,8 +1243,8 @@
 <sp who="DON PEDRE"><speaker>DON PEDRE.</speaker>
 	<l id="718" part="f">Ami je vous en prie.</l>
 </sp>
-<sp who='BERALDE'><speaker>BERALDE, à part.</speaker>
-<stage type="[N/A]">Il se tire à l'écart.</stage>
+<sp stage="aparte" who='BERALDE'><speaker>BERALDE, à part.</speaker>
+<stage type="away">Il se tire à l'écart.</stage>
 	<l id="719">Je me suis bien tiré d'un pas fort dangereux, </l>
 <note type="L">Fourber : Tromper adroitement, finement. Ceux qui agissent avec sincérité, sont ceux qu'on fourbe le plus aisément. [F]</note>
 	<l id="720">Mais on ne peut longtemps fourber deux amoureux.</l>
@@ -1297,7 +1302,7 @@
 	<l id="745" part="f">La voulez vous attendre ?</l>
 </sp>
 <sp who="MONCADE"><speaker>MONCADE.</speaker>
-<stage type="[N/A]">Il s'en éloigne, et Don Pedre l'aborde.</stage>
+<stage type="away/toward">Il s'en éloigne, et Don Pedre l'aborde.</stage>
 	<l id="746">Oui, quoi qu'à son amour je n'ose rien prétendre. </l>
 </sp>
 </div2>
@@ -1306,7 +1311,7 @@
 	<l id="747">Souffrez qu'avec respect je vous donne la main,</l>
 	<l id="748">Madame, et que mon coeur ait part à ce dessein.</l>
 </sp>
-<sp who='ISABELLE'><speaker>ISABELLE, bas.</speaker>
+<sp stage="low" who='ISABELLE'><speaker>ISABELLE, bas.</speaker>
 	<l id="749">QuoI donc, ce que je hais me cherche, et ce que j'aime,</l>
 	<l id="750" part="i">Me fuit ?</l>
 </sp>
@@ -1318,21 +1323,21 @@
 	<l id="751" part="f">Oui je la sais Don Pedre, et sais de plus,</l>
 	<l id="752" part="i">Que vous m'avez écrit.</l>
 </sp>
-<sp who="BERALDE"><speaker>BERALDE, bas.</speaker>
+<sp stage="low" who="BERALDE"><speaker>BERALDE, bas.</speaker>
 	<l id="752" part="f">Nos billets sont reçus.</l>
 </sp>
 <sp who="ISABELLE"><speaker>ISABELLE.</speaker>
 	<l id="753">Oui, jusque dans mes mains votre lettre est venue,</l>
 	<l id="754">Et pour réponse enfin sachez que je l'ai lue.</l>
 </sp>
-<sp who='DON PEDRE'><speaker>DON PEDRE, embrassant Beralde.</speaker>
+<sp stage="kiss" who='DON PEDRE'><speaker>DON PEDRE, embrassant Beralde.</speaker>
 	<l id="755">Ah véritable ami, je te croirai toujours,</l>
 	<l id="756">Que ne te dois-je point après un tel secours,</l>
 </sp>
 <sp who="BERALDE"><speaker>BERALDE.</speaker>
 	<l id="757">Je vous l'avais bien dit, je suis franc et fidèle.</l>
 </sp>
-<sp who='MONCADE'><speaker>MONCADE, à l'autre bout du théâtre.</speaker>
+<sp stage="location" who='MONCADE'><speaker>MONCADE, à l'autre bout du théâtre.</speaker>
 	<l id="758">Après cette action que puis-je espérer d'elle ?</l>
 </sp>
 <sp who="DON PEDRE"><speaker>DON PEDRE.</speaker>
@@ -1345,31 +1350,31 @@
 <sp who="DON PEDRE"><speaker>DON PEDRE.</speaker>
 	<l id="761" part="f">He bien je me retire.</l>
 </sp>
-<sp who='MONCADE'><speaker>MONCADE, à part.</speaker>
-<stage type="[N/A]">Don Pedre se tire à un coin pour observer Moncade.</stage>
+<sp stage="aparte" who='MONCADE'><speaker>MONCADE, à part.</speaker>
+<stage type="away/location/watch">Don Pedre se tire à un coin pour observer Moncade.</stage>
 	<l id="762">Que tu souffres, mon coeur, un étrange martyre. </l>
 </sp>
-<sp who='ISABELLE'><speaker>ISABELLE, à part.</speaker>
+<sp stage="watch" who='ISABELLE'><speaker>ISABELLE, à part.</speaker>
 	<l id="763">Ingrat, que ton mépris me va coûter de pleurs,</l>
 	<l id="764">Cessons de nous flatter, sans doute il aime ailleurs ;</l>
 	<l id="765">S'il approuvait ma flamme, il m'aurait abordée,</l>
 	<l id="766">Hélas son coeur est plein d'une plus noble idée.</l>
 	<l id="767">Il aime la Princesse, il s'est déjà donné.</l>
 </sp>
-<sp who='MONCADE'><speaker>MONCADE, à part.</speaker>
+<sp stage="aparte" who='MONCADE'><speaker>MONCADE, à part.</speaker>
 	<l id="768">Romps l'obstacle, mon coeur, qui te tient enchaîné,</l>
 	<l id="769">Quoi que de ton ardeur on face peu de conte ;</l>
 	<l id="770">Que tu n'espères rien que mépris et que honte, </l>
 	<l id="771">Rends un dernier hommage à sa fière beauté,</l>
 	<l id="772">Et donne lui ta vie après ta liberté.</l>
 </sp>
-<sp who='ISABELLE'><speaker>ISABELLE, à part.</speaker>
+<sp stage="aparte" who='ISABELLE'><speaker>ISABELLE, à part.</speaker>
 	<l id="773" part="i">Il s'ébranle à la fin.</l>
 </sp>
 <sp who="MONCADE"><speaker>MONCADE.</speaker>
 	<l id="773" part="f">Ô rigoureuse crainte.</l>
 </sp>
-<sp who='ISABELLE'><speaker>ISABELLE, à part.</speaker>
+<sp stage="aparte" who='ISABELLE'><speaker>ISABELLE, à part.</speaker>
 	<l id="774">Il vient : mais l'action me paraît bien contrainte,</l>
 	<l id="775">La bienséance enfin ne lui permettrait pas,</l>
 	<l id="776">En détournant son coeur de détourner ses pas.</l>
@@ -1384,7 +1389,7 @@
 	<l id="778" part="f">Adorable Isabelle,</l>
 	<l id="779">Souffrez que dans ce lieu je vous parle un moment.</l>
 </sp>
-<sp who='ISABELLE'><speaker>ISABELLE, bas.</speaker>
+<sp stage="low" who='ISABELLE'><speaker>ISABELLE, bas.</speaker>
 	<l id="780">La civilité seule a fait son compliment.</l>
 	<l id="781">Mais comme je connais le sujet qui l'engage,</l>
 	<l id="782">Je ne le puis tenir en suspens davantage.</l>
@@ -1443,7 +1448,7 @@
 	<l id="811">Un coeur généreux cède aux volontés du sort,</l>
 	<l id="812">Adieu résolvez vous, vous savez notre accord.</l>
 </sp>
-<sp who='MONCADE'><speaker>MONCADE, seul.</speaker>
+<sp stage="alone" who='MONCADE'><speaker>MONCADE, seul.</speaker>
 	<l id="813">L'objet qu'elle propose est sans doute Cassandre,</l>
 	<l id="814">Ses mots étaient obscurs, mais je les sais comprendre :</l>
 	<l id="815">Et tout autre que moi dégagerait son coeur,</l>
@@ -1459,7 +1464,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII. Cassandre, Moncade.</head>
-<sp who='CASSANDRE'><speaker>CASSANDRE, à part.</speaker>
+<sp stage="aparte" who='CASSANDRE'><speaker>CASSANDRE, à part.</speaker>
 	<l id="825">Astolfe tarde bien, sa longueur importune,</l>
 	<l id="826">Retarde un peu ma joie ainsi que sa fortune ;</l>
 	<l id="827">Mais ce retardement ne peut m'inquiéter,</l>
@@ -1486,7 +1491,7 @@
 	<l id="844">Avant que les tenter, il les faut pressentir,</l>
 	<l id="845">Afin de n'en avoir ni déplaisir ni honte.</l>
 </sp>
-<sp who='MONCADE'><speaker>MONCADE, bas.</speaker>
+<sp stage="low" who='MONCADE'><speaker>MONCADE, bas.</speaker>
 	<l id="846">C'est d'un illustre sang faire trop peu de conte ;</l>
 	<l id="847">Ah cette amour m'expose à trop de déplaisirs.</l>
 	<l id="848">Quand on n'a dans le coeur que de justes désirs,</l>
@@ -1517,7 +1522,7 @@
 	<l id="862">Dégageant votre esprit de ce tourment extrême,</l>
 	<l id="863">Vous sentez bien à qui vous serez obligé.</l>
 </sp>
-<sp who='MONCADE'><speaker>MONCADE, faisant une profonde révérence.</speaker>
+<sp stage="wave" who='MONCADE'><speaker>MONCADE, faisant une profonde révérence.</speaker>
 	<l id="864">Oui je le sens, Madame, et je suis dégagé,</l>
 <stage type="low">Bas.</stage>
 	<l id="865">Elle confirme bien ce qu'a dit Isabelle ;</l>
@@ -1599,7 +1604,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='9'><head>SCÈNE IX.</head>
-<sp who='CASSANDRE'><speaker>CASSANDRE seule, comme si elle revenait d'une léthargie.</speaker>
+<sp stage="alone/awake" who='CASSANDRE'><speaker>CASSANDRE seule, comme si elle revenait d'une léthargie.</speaker>
 	<l id="925">Est-ce Astolfe ? Est-ce lui que j'ai vu disparaître,</l>
 	<l id="926">Quoi l'ingrat m'abandonne ? Ah cela ne peut être,</l>
 	<l id="927">Quoi, c'est sa propre voix qui d'un ton de mépris,</l>
@@ -1613,7 +1618,7 @@
 	<l id="935">Il ne peut s'échapper à mon juste courroux ;</l>
 	<l id="936" part="i">Hola.</l>
 </sp>
-<sp who='DON LOPE'><speaker>DON LOPE, vient au bruit.</speaker>
+<sp stage="entrance" who='DON LOPE'><speaker>DON LOPE, vient au bruit.</speaker>
 	<l id="936" part="f">Que vous plaît-il, Madame, et qu'avez-vous ?</l>
 </sp>
 <sp who="CASSANDRE"><speaker>CASSANDRE.</speaker>
@@ -1626,7 +1631,7 @@
 	<l id="943">Oui, oui je fus trop prompte à lui donner les mains,</l>
 	<l id="944">Et je mérite bien sa fuite, et ses dédains.</l>
 </sp>
-<sp who='DON LOPE'><speaker>DON LOPE, bas.</speaker>
+<sp stage="low" who='DON LOPE'><speaker>DON LOPE, bas.</speaker>
 	<l id="945">Son coeur paraît touché d'une douleur extrême.</l>
 </sp>
 <sp who="CASSANDRE"><speaker>CASSANDRE.</speaker>
@@ -1673,7 +1678,7 @@
 	<l id="971">Votre équipage est prêt, pour votre passeport,</l>
 	<l id="972" part="i">Je m'en vais le signer.</l>
 </sp>
-<sp who='ASTOLFE'><speaker>ASTOLFE, à part.</speaker>
+<sp stage="aparte" who='ASTOLFE'><speaker>ASTOLFE, à part.</speaker>
 	<l id="972" part="f">Ah c'est signer ma mort.</l>
 </sp>
 </div2>
@@ -1700,7 +1705,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III.</head>
-<sp who='MONCADE'><speaker>MONCADE seul, chez la Princesse.</speaker>
+<sp stage="alone" who='MONCADE'><speaker>MONCADE seul, chez la Princesse.</speaker>
 	<l id="979">Oui, oui, brise tes fers, esclave malheureux,</l>
 	<l id="980">Porte ailleurs tes respects, et tes soins amoureux :</l>
 	<l id="981">Et sans plus t'exposer aux mépris d'Isabelle,</l>
@@ -1717,7 +1722,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Cassandre, Moncade.</head>
-<sp who='CASSANDRE'><speaker>CASSANDRE, à un bout de la chambre qui ne voit point Moncade.</speaker>
+<sp stage="location/watch" who='CASSANDRE'><speaker>CASSANDRE, à un bout de la chambre qui ne voit point Moncade.</speaker>
 	<l id="991" part="f">Malheureuse ! Hé n'as tu pas compris,</l>
 	<l id="992">Que ton humeur facile attira ces mépris,</l>
 	<l id="993">Pour m'être à coeur ouvert librement déclarée, </l>
@@ -1760,12 +1765,12 @@
 	<l id="1019">Et ce sceptre hérité de vos braves aïeux,</l>
 	<l id="1020">À moins d'éclat pour lui que n'en ont vos beaux yeux.</l>
 </sp>
-<sp who='CASSANDRE'><speaker>CASSANDRE, à part.</speaker>
+<sp stage="aparte" who='CASSANDRE'><speaker>CASSANDRE, à part.</speaker>
 	<l id="1021">Comme il s'est abusé, je m'étais abusée,</l>
 	<l id="1022">Son nom a trop d'éclat pour servir de risée,</l>
 	<l id="1023">Comme il est homme enfin de mérite, et de coeur,</l>
 	<l id="1024">Je ne veux point nourrir ni flatter son erreur,</l>
-<stage type="forte">Haut.</stage>
+<stage type="loud">Haut.</stage>
 	<l id="1025">Vous me plaignez, Moncade, en croyant qu'on vous aime,</l>
 	<l id="1026">Mais vous ferez bien mieux de vous plaindre vous-même,</l>
 	<l id="1027">Mieux que vous ne pensez j'ai compris vos desseins,</l>
@@ -1775,10 +1780,10 @@
 <sp who="MONCADE"><speaker>MONCADE.</speaker>
 	<l id="1029" part="f">Oui, Madame,</l>
 </sp>
-<sp who='CASSANDRE'><speaker>CASSANDRE, après avoir rompu la lettre, qu'elle lui jette.</speaker>
+<sp stage="break/throw" who='CASSANDRE'><speaker>CASSANDRE, après avoir rompu la lettre, qu'elle lui jette.</speaker>
 	<l id="1030">Adieu tâchez d'en faire autant de votre flamme.</l>
 </sp>
-<sp who='MONCADE'><speaker>MONCADE, à part.</speaker>
+<sp stage="aparte" who='MONCADE'><speaker>MONCADE, à part.</speaker>
 	<l id="1031">Cette colère est juste, et j'ai mal fait ma cour,</l>
 	<l id="1032">Puisqu'elle a vu ma lettre, avant que mon amour,</l>
 	<l id="1033">Avec tant de ferveur se déclarât pour elle,</l>
@@ -1795,7 +1800,7 @@
 	<l id="1037">L'amour dessus mon âme avait trop pris d'Empire,</l>
 	<l id="1038">Adieu sortez, Messieurs, que chacun se retire,</l>
 </sp>
-<sp who='MONCADE'><speaker>MONCADE, en faisant une profonde révérence.</speaker>
+<sp stage="wave" who='MONCADE'><speaker>MONCADE, en faisant une profonde révérence.</speaker>
 <stage type="aparte">À part.</stage>
  <note type="L">Heur : rencontre avantageuse. (...) [F] [antonyme de malheur]</note>
 	<l id="1039">Je ne pers pas l'espoir de l'heur où je prétends :</l>
@@ -1823,13 +1828,13 @@
 <sp who="LE DUC"><speaker>LE DUC.</speaker>
 	<l id="1050">À vos commandements je voudrais satisfaire, </l>
 	<l id="1051">Hola qu'on cherche Astolfe, et qu'on coure après lui, </l>
-<stage type="[N/A]">Un valet vient à part.</stage>
+<stage type="entrance/aparte">Un valet vient à part.</stage>
 	<l id="1052">Hélas s'il est trouvé je vais mourir d'ennui.</l>
 </sp>
 <sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
 <stage type="[N/A]">Elle s'assied.</stage>
 	<l id="1053">Enfin nous voici seuls ; vous pouvez prendre un siège,</l>
-<stage type="[N/A]">Elle lui fait signe de s'asseoir. Il s'en défend.</stage>
+<stage type="wave">Elle lui fait signe de s'asseoir. Il s'en défend.</stage>
 	<l id="1054">Votre âge et votre rang ont un grand privilège,</l>
 	<l id="1055" part="i">Seyez vous.</l>
 </sp>
@@ -1936,7 +1941,7 @@
 	<l id="1135">Le perfide en bizarre est sorti de ce lieu,</l>
 	<l id="1136">Et m'a dit sans m'entendre un éternel adieu.</l>
 </sp>
-<sp who='LE DUC'><speaker>LE DUC, à part.</speaker>
+<sp stage="aparte" who='LE DUC'><speaker>LE DUC, à part.</speaker>
 	<l id="1137">Ô Dieux, il l'a revue, et contre ma défense.</l>
 </sp>
 <sp who="CASSANDRE"><speaker>CASSANDRE.</speaker>
@@ -2005,7 +2010,7 @@
 	<l id="1189" part="i">Madame,</l>
 </sp>
 <sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
-<stage type="[N/A]">Ici Cassandre fait signe à Don Lope de sortir.</stage>
+<stage type="wave/exit">Ici Cassandre fait signe à Don Lope de sortir.</stage>
 	<l id="1189" part="m"> Astolfe ?</l>
 </sp>
 <sp who="LE DUC"><speaker>LE DUC.</speaker>
@@ -2021,7 +2026,7 @@
 <sp who="CASSANDRE"><speaker>CASSANDRE.</speaker>
 	<l id="1191">Sa présence a d'abord dissipé mon courroux.</l>
 </sp>
-<sp who='LE DUC'><speaker>LE DUC, bas à Astolfe.</speaker>
+<sp stage="low/toward" who='LE DUC'><speaker>LE DUC, bas à Astolfe.</speaker>
 	<l id="1192">Dissimulez, mon fils, ou vous nous perdez tous.</l>
 </sp>
 <sp who="CASSANDRE"><speaker>CASSANDRE.</speaker>
@@ -2060,9 +2065,9 @@
 	<l id="1211">De ce trésor divin je serai possesseur,</l>
 	<l id="1212" part="i">Si vous me l'ordonnez.</l>
 </sp>
-<sp who='LE DUC'><speaker>LE DUC, bas.</speaker>
+<sp stage="low" who='LE DUC'><speaker>LE DUC, bas.</speaker>
 	<l id="1212" part="f">Quoi méchant, de ta soeur ? </l>
-<stage type="forte">Haut.</stage>
+<stage type="loud">Haut.</stage>
 	<l id="1213">L'extravagance est grande, et je ne la puis taire,</l>
 	<l id="1214">Il dit qu'il ne le peut, et qu'il n'en veut rien faire.</l>
 </sp>
@@ -2097,7 +2102,7 @@
 <sp who="LE CAPITAINE DES GARDES"><speaker>LE CAPITAINE DES GARDES.</speaker>
 	<l id="1224" part="i">Rendez moi votre épée.</l>
 </sp>
-<sp who='CASSANDRE'><speaker>CASSANDRE, à part.</speaker>
+<sp stage="aparte" who='CASSANDRE'><speaker>CASSANDRE, à part.</speaker>
 	<l id="1224" part="f">Ah j'en mourrai d'ennui.</l>
 </sp>
 <sp who="ASTOLFE"><speaker>ASTOLFE.</speaker>
@@ -2111,7 +2116,7 @@
 	<l id="1226">Cette rigueur, mon père, offense la nature,</l>
 	<l id="1227">Si je n'ai point failli, Dieux par quelle raison,</l>
 </sp>
-<sp who='LE DUC'><speaker>LE DUC, bas à Astolfe.</speaker>
+<sp stage="low/toward" who='LE DUC'><speaker>LE DUC, bas à Astolfe.</speaker>
 	<l id="1228">Marche, ton seul salut consiste en ta prison. </l>
 </sp>
 <sp who="ASTOLFE"><speaker>ASTOLFE.</speaker>
@@ -2150,7 +2155,7 @@
 	<l id="1247">Pourquoi donc me quitter, à quoi bons ces adieux ?</l>
 	<l id="1248">Pourquoi si brusquement sortir en furieux ?</l>
 	<l id="1249">Car enfin, malheureux, vous m'avez délaissée,</l>
-<stage type="[N/A]">Il jette un soupir.</stage>
+<stage type="sigh">Il jette un soupir.</stage>
 	<l id="1250">Croyez-vous l'avoir fait sans m'avoir offensée ?</l>
 	<l id="1251">D'où naît ce grand soupir, reprenez vos esprits,</l>
 	<l id="1252">Astolfe, si l'on vient à savoir vos mépris ;</l>
@@ -2193,11 +2198,11 @@
 	<l id="1277">Eh songe à notre honneur, songe à ta conscience,</l>
 	<l id="1278">Et tâche d'oublier cette horrible alliance.</l>
 </sp>
-<sp who='ASTOLFE'><speaker>ASTOLFE, bas.</speaker>
+<sp stage="low" who='ASTOLFE'><speaker>ASTOLFE, bas.</speaker>
 	<l id="1279">Ce grand mal dans mon âme est trop enraciné,</l>
 	<l id="1280">Je n'en saurais sortir, je suis trop enchaîné.</l>
 </sp>
-<sp who='LE DUC'><speaker>LE DUC, Haut.</speaker>
+<sp stage="loud" who='LE DUC'><speaker>LE DUC, haut.</speaker>
 	<l id="1281">Voyez l'extravagance où l'emporte sa rage,</l>
 	<l id="1282">Il ne dit pas un mot qui ne tende à l'outrage ;</l>
 </sp>
@@ -2211,17 +2216,17 @@
 	<l id="1287">Rappelez vos esprits, mon fils, songez à vous :</l>
 	<l id="1288">Et des Dieux irritez évitez le courroux.</l>
 </sp>
-<sp who='ASTOLFE'><speaker>ASTOLFE, bas.</speaker>
+<sp stage="low" who='ASTOLFE'><speaker>ASTOLFE, bas.</speaker>
 	<l id="1289">Peuvent-ils condamner une si sainte flamme ? </l>
 </sp>
-<sp who='LE DUC'><speaker>LE DUC, bas.</speaker>
+<sp stage="low" who='LE DUC'><speaker>LE DUC, bas.</speaker>
 	<l id="1290">Mais elle est votre soeur, la voudriez vous pour femme ?</l>
 </sp>
 <sp who="ASTOLFE"><speaker>ASTOLFE.</speaker>
 	<l id="1291">Oui, puis que de ce mal je ne saurais guérir :</l>
 	<l id="1292">Je voudrais l'épouser, et puis après mourir.</l>
 </sp>
-<sp who='LE DUC'><speaker>LE DUC, bas à Astolfe.</speaker>
+<sp stage="low/toward" who='LE DUC'><speaker>LE DUC, bas à Astolfe.</speaker>
 	<l id="1293">N'attends que la moitié d'un souhait si funeste,</l>
 	<l id="1294">Démon incestueux, n'espère pas le reste,</l>
 <stage type="toward">À la Princesse.</stage>
@@ -2293,7 +2298,7 @@
 	<l id="1326">Je crois que c'est à moi que ce premier s'adresse,</l>
 	<l id="1327">Lisons. Vous cependant, allez, mais promptement</l>
 	<l id="1328">Me chercher Isabelle en son appartement.</l>
-<stage type="[N/A]">Lettre d'Astolfe à la Princesse.</stage>
+<stage type="title">Lettre d'Astolfe à la Princesse.</stage>
 	<l id="1329">« Si devant que me condamner,</l>
 	<l id="1330">Vous lisez cet écrit qui me vient de mon père,</l>
 	<l id="1331">Madame, vous aurez quelque peine à le faire ;</l>
@@ -2304,7 +2309,7 @@
 	<l id="1336">Jugez de la douleur que doit souffrir mon âme. »</l>
 	<l id="1337">Ce sens est bien obscur, ouvrons l'autre, et voyons</l>
 	<l id="1338">S'il n'éclaircira point ce que nous ignorons.</l>
-<stage type="[N/A]">LETTRE DU DUC DE CARDONNE À ASTOLFE.</stage>
+<stage type="title">LETTRE DU DUC DE CARDONNE À ASTOLFE.</stage>
 	<l id="1339">« Quand j'ai souffert, mon fils, qu'on vous fit violence,</l>
 	<l id="1340">Je me la faisais plus qu'à vous,</l>
 	<l id="1341">Et contre votre résistance,</l>
@@ -2332,7 +2337,7 @@
 	<l id="1362">Il gronde sur ce monstre, et ne l'écrase pas :</l>
 	<l id="1363">Ciel tu le laisses vivre, et ta vaine tempête</l>
 	<l id="1364">Se perd sur des rochers pour épargner sa tête.</l>
-<stage type="[N/A]">Elle relit.</stage>
+<stage type="read">Elle relit.</stage>
 	<l id="1365">« Votre soeur trop facile à vous donner sa foi,</l>
 	<l id="1366">Doit gêner votre esprit d'une peine terrible ?</l>
 	<l id="1367">Fuyez, mon fils, et s'il vous est possible,</l>
@@ -2391,7 +2396,7 @@
 	<l id="1401">Lisez-la, malheureuse, et voyez si j'ai tort,</l>
 	<l id="1402">De détester l'horreur d'un si funeste sort.</l>
 </sp>
-<sp who='ISABELLE'><speaker>ISABELLE, lit.</speaker>
+<sp stage="read" who='ISABELLE'><speaker>ISABELLE, lit.</speaker>
 	<l id="1403">Votre soeur trop facile à vous donner sa foi,</l>
 	<l id="1404">Doit gêner votre esprit d'une peine terrible,</l>
 	<l id="1405">Ce crime noir m'est bien sensible,</l>
@@ -2401,7 +2406,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Le Duc de Cardone, Cassandre, Isabelle.</head>
-<sp who='CASSANDRE'><speaker>CASSANDRE, bas.</speaker>
+<sp stage="low" who='CASSANDRE'><speaker>CASSANDRE, bas.</speaker>
 	<l id="1409">De ce grand coup de foudre elle a l'esprit frappé.</l>
 </sp>
 <sp who="LE DUC"><speaker>LE DUC.</speaker>
@@ -2554,7 +2559,7 @@
 </sp>
 <sp who='LE DUC'><speaker>LE DUC.</speaker>
 	<l id="1511" part="i">Je vais vous obéir.</l>
-<stage type="[N/A]">Le Duc s'en va.</stage>
+<stage type="exit">Le Duc s'en va.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SÈNE IV. Cassandre, Isabelle.</head>
@@ -2613,7 +2618,7 @@
 	<l id="1554">Je serai la première à fléchir les genoux,</l>
 	<l id="1555">On fait dans le Palais assembler la Noblesse ;</l>
 	<l id="1556">Rentrons, non non, passez vous êtes ma Princesse.</l>
-<stage type="[N/A]">Isabelle lui présente la porte.</stage>
+<stage type="show/exit">Isabelle lui présente la porte.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Cassandre, Isabelle, Beralde.</head>
@@ -2644,7 +2649,7 @@
 	<l id="1565">J'en ai fait avertir le Duc diligemment,</l>
 	<l id="1566">Et suis vers votre Altesse accouru promptement.</l>
 </sp>
-<sp who="CASSANDRE"><speaker>CASSANDRE, en rentrant.</speaker>
+<sp stage="exit" who="CASSANDRE"><speaker>CASSANDRE, en rentrant.</speaker>
 	<l id="1567">Hé bien, nous les verrons avecque la Noblesse,</l>
 	<l id="1568">Pourrai-je bien le voir sans montrer ma faiblesse ?</l>
 </sp>
@@ -2682,7 +2687,7 @@
 	<l id="1581">Embrassez moi, mon fils, vous venez à propos,</l>
 	<l id="1582">Pour rendre à nos esprits le calme et le repos.</l>
 </sp>
-<sp who='ASTOLFE'><speaker>ASTOLFE, à part.</speaker>
+<sp stage="aparte" who='ASTOLFE'><speaker>ASTOLFE, à part.</speaker>
 	<l id="1583">Et pour combler le mien d'ennuis et de disgrâce,</l>
 </sp>
 <sp who="LE DUC"><speaker>LE DUC.</speaker>

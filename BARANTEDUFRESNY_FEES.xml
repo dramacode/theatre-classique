@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<TEI xml:lang="fr">
 <teiHeader>
 	<fileDesc>
 		<titleStmt>
@@ -44,8 +44,8 @@
 		<castItem><role id="ISMÉNIE" sex="2" type="H" statut="prince" age="J" stat_amour='amoureux'>ISMÉNIE</role>, Fille du Roi. Marinette.</castItem>
 		<castItem><role id="OCTAVE" sex="1" type="H" statut="prince" age="J" stat_amour='amoureux'>OCTAVE</role>, Prince, amant d'Isménie.</castItem>
 		<castItem><role id="ARLEQUIN" sex="1" type="H" statut="valet" age="A" stat_amour='néant'>ARLEQUIN</role>, Valet d'Octave.</castItem>
-		<castItem><role id="LA-NOURRICE" sex="2" type="H" statut="nourrice" age="A" stat_amour='néant'>LA NOURRICE</role> d'Isménie. Mezzetin.</castItem>
-		<castItem><role id="LA-FÉE" sex="2" type="H" statut="féé" age="A" stat_amour='marié'>LA FÉE</role>, Conservatrice de l'honneur des Filles. Colombine.</castItem>
+		<castItem><role id="LA NOURRICE" sex="2" type="H" statut="nourrice" age="A" stat_amour='néant'>LA NOURRICE</role> d'Isménie. Mezzetin.</castItem>
+		<castItem><role id="LA FÉE" sex="2" type="H" statut="féé" age="A" stat_amour='marié'>LA FÉE</role>, Conservatrice de l'honneur des Filles. Colombine.</castItem>
 		<castItem><role id="PIERROT" sex="1" type="H" statut="valet" age="A" stat_amour='néant'>PIERROT</role>, Valet de la Fée.</castItem>
 		<castItem><role id="SCARAMOUCHE" sex="1" type="F" statut="ogre" age="A" stat_amour='néant'>SCARAMOUCHE</role>, Prince des Ogres.</castItem>
 		<castItem><role id="UNE FÉE" sex="2" type="F" statut="fée" age="A" stat_amour='néant'>UNE FÉE</role>, chantante.</castItem>
@@ -60,7 +60,7 @@
 <body>
 <div1 type='acte' n='1'><head></head>
 <div2 type='scene' n='1'><head>SCÈNE I. Pierrot, Octave.</head>
-<stage type="entrance">Pierrot conduit Octave dans un Chariot volant. Après qu'ils ont mis pied à terre, il dit :</stage>
+<stage type="entrance/decor/fly">Pierrot conduit Octave dans un Chariot volant. Après qu'ils ont mis pied à terre, il dit :</stage>
 <sp who='PIERROT'><speaker>PIERROT.</speaker>
 <p id='1'>
 	<s id='1'>Hé bien, Monsieur, ne vous ai-je pas bien conduit ? </s>
@@ -156,7 +156,7 @@
 	<s id='4'>Voilà celui qui me garde qui s'éveille.</s>
 </p>
 </sp>
-<sp who='L-OGRE'><speaker>UN OGRE en s'éveillant.</speaker>
+<sp who="L'OGRE"><speaker>UN OGRE en s'éveillant.</speaker>
 <p id='6'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Qu'est-ce que j'entends ? </s>
@@ -169,12 +169,12 @@
 	<s id='1'>Arrêtez, barbares, arrêtez : que voulez-vous faire, respectez un Prince que j'aime plus que ma vie.</s>
 </p>
 </sp>
-<sp who='L-OGRE'><speaker>L'OGRE.</speaker>
+<sp who="L'OGRE"><speaker>L'OGRE.</speaker>
 <note type="L">Court-bouillon : Liquide composé dans lequel on fait cuire le poisson. Le court-bouillon se compose d'eau, de vinaigre ou de vin blanc, de sel, de poivre, girofle, laurier, oignons et carottes en tranches, thym, ail et persil. Le même court-bouillon peut servir tant qu'il est en bon état. [L]</note>
 <p id='8'>
 	<s id='2'>Allons, allons, qu'on le mène au Cuisinier, et qu'on le mette au court-bouillon ; et pour vous, Madame, si vous l'aimez tant, on vous en servira un quartier à votre souper.</s>
 </p>
-<stage type="catch">Les Ogres emmènent Octave.</stage>
+<stage type="carry">Les Ogres emmènent Octave.</stage>
 </sp>
 <sp who='ISMÉNIE'><speaker>ISMÉNIE.</speaker>
 <p id='9'>
@@ -182,7 +182,7 @@
 	<s id='2'>Cruel, pouvez-vous...</s>
 </p>
 </sp>
-<sp who='L-OGRE'><speaker>L'OGRE.</speaker>
+<sp who="L'OGRE"><speaker>L'OGRE.</speaker>
 <note type="L">Ogrine : Mot inventé pour désigner l'épouse d'un ogre qui plus est sultane.</note>
 <p id='10'>
 	<s id='1'>Bon, bon, voilà bien du fracas pour un petit homme à demi formé. </s>
@@ -201,7 +201,7 @@
 	<s id='3'>Je viens de rouler de ce Rocher en bas ; où trouverai-je mon Maître ?</s>
 </p>
 </sp>
-<sp who='L-OGRE'><speaker>L'OGRE.</speaker>
+<sp who="L'OGRE"><speaker>L'OGRE.</speaker>
 <p id='2'>
 	<s id='1'>Bon, bon, voici encore de la chair fraîche. </s>
 	<s id='2'>Vite, qu'on le saisisse, et qu'on le fasse embrocher avec l'autre.</s>
@@ -218,7 +218,7 @@
 	<s id='1'>Oui, arrêtez, arrêtez-vous donc.</s>
 </p>
 </sp>
-<sp who='L-OGRE'><speaker>L'OGRE en s'en allant.</speaker>
+<sp who="L'OGRE"><speaker>L'OGRE en s'en allant.</speaker>
 <note type="L">Diable : Faire le diable, le diable à quatre, faire grand bruit, grand tumulte, se donner beaucoup de mouvement pour une chose. [L]</note>
 <p id='5'>
 	<s id='1'>Allez, Madame la Fée, vous avez beau faire le Diable à quatre, votre pouvoir expire aujourd'hui.</s>
@@ -408,7 +408,7 @@
 </sp>
 </div2>
 <div2 type='scene' n='5'><head>SCÈNE V. Un Ogre, Isménie, La Nourrice.</head>
-<sp who='L-OGRE'><speaker>L'OGRE.</speaker>
+<sp who="L'OGRE"><speaker>L'OGRE.</speaker>
 <p id='1'>
 	<s id='1'>Allons, Madame, voilà la Nourrice qui va vous faire un Conte pour vous endormir. </s>
 	<s id='2'>Nourrice faites-lui un Conte.</s>
@@ -730,7 +730,7 @@
 	<s id='8'>Voici la Fée qui vient mener le branle.</s>
 </p>
 </sp>
-<sp who='LA-FÉE'><speaker>LA FÉE chante.</speaker>
+<sp stage="sing" who='LA-FÉE'><speaker>LA FÉE, chante.</speaker>
 	<l id='93'>Tout dans la nature,</l>
 	<l id='94'>Change de figure,</l>
 	<l id='95'>Quand nous commandons,</l>
@@ -749,7 +749,7 @@
 	<l id='105'>De simples Grisettes </l>
 	<l id='106'>En riches Jupons.</l>
 </sp>
-<sp who='LE-VIEILLARD'><speaker>LE VIEILLARD, chante.</speaker>
+<sp stage="sing" who='LE-VIEILLARD'><speaker>LE VIEILLARD, chante.</speaker>
 	<l id='107'>Malgré nos grimaces,</l>
 	<l id='108'>Nos rides, nos glaces,</l>
 	<l id='109'>Souvent nous chantons :</l>

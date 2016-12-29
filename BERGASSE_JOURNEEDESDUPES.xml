@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<TEI xml:lang="fr">
 <teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -1316,7 +1316,7 @@ Elle veut sortir un rentre effrayée.
 </p>
 <stage type="get">Il veut ramasser le fusil. </stage>
 </sp>
-<sp who='UN DE LA TROUPE'><speaker>LE PREMIER HOMME, qui a tiré. </speaker>
+<sp 'stage="explicit" who='UN DE LA TROUPE'><speaker>LE PREMIER HOMME, qui a tiré. </speaker>
 <p id="13">
 	<s id="1">Ciel ! </s>
 	<s id='2'>Guillaume, prends garde à ce que tu vas faire ! </s>

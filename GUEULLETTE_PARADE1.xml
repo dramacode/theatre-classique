@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<TEI xml:lang="fr">
 <teiHeader> 
 		<fileDesc>
 			<titleStmt>
@@ -8,8 +8,8 @@
 			</titleStmt>
 			<publicationStmt>	
 				<p>publié par Paul FIEVRE Novembre 2013</p>
-			<idno></idno>
-</publicationStmt>
+				<idno>GUEULLETTE_PARADE1</idno>
+			</publicationStmt>
 			<SourceDesc>
 				<genre>Farce</genre>
 				<inspiration>moeurs françaises</inspiration>
@@ -18,10 +18,6 @@
 				<periode>1711-1720</periode>
 				<taille>(mesure non pertinente)</taille>
 				<permalien></permalien>
-				<sources>
-					<source id="1"><author/><text/></source>
-				</sources>	
-
 			</SourceDesc>
 		</fileDesc>
 </teiHeader>
@@ -70,7 +66,7 @@
 	<s id='5'>Gilles ! </s>
 	<s id='6'>Gilles !</s>
 </p>
-<stage type="[N/A]">Gilles, en dedans, crie de toutes ses forces. Il entre ensuite avec les cinq doigts de la main droite enveloppés de cornets de papier.</stage>
+<stage type="location/shout/entrance">Gilles, en dedans, crie de toutes ses forces. Il entre ensuite avec les cinq doigts de la main droite enveloppés de cornets de papier.</stage>
 </sp>
 <sp who='GILLES'><speaker>GILLES.</speaker>
 <p id='2'>
@@ -522,7 +518,7 @@
 	<s id='6'>Ah ! </s>
 	<s id='7'>Ah !</s>
 </p>
-<stage type="[N/A]">Ici arrive une sage-femme du voisinage qui soutient qu'elle a entendu les cris d'une fille qui veut accoucher ; qu'elle s'y connaît. Elle soutient que Gilles est une fille déguisée, laquelle a été débauchée par le maître, qui y est très sujet. Elle veut visiter Gilles. On la chasse.</stage>
+<stage type="narration">Ici arrive une sage-femme du voisinage qui soutient qu'elle a entendu les cris d'une fille qui veut accoucher ; qu'elle s'y connaît. Elle soutient que Gilles est une fille déguisée, laquelle a été débauchée par le maître, qui y est très sujet. Elle veut visiter Gilles. On la chasse.</stage>
 </sp>
 <sp who='TAILLE-BRAS'><speaker>TAILLE-BRAS.</speaker>
 <p id='63'>
@@ -618,7 +614,7 @@
 	<s id='1'>Voyez ce que fait la force de l'imagination.</s>
 </p>
 </sp>
-<sp who='TAILLE-BRAS'><speaker>TAILLE-BRAS, au maître.</speaker>
+<sp stage="toward" who='TAILLE-BRAS'><speaker>TAILLE-BRAS, au maître.</speaker>
 <p id='79'>
 	<s id='1'>Monsieur, ce coquin-là se moque de nous et de vous.</s>
 </p>
@@ -680,7 +676,7 @@
 	<s id='3'>Eh bien ! </s>
 	<s id='4'>Voici la monnaie que j'ai à vous donner.</s>
 </p>
-<stage type="[N/A]">Il les rosse et les chasse.</stage>
+<stage type="hit/exit">Il les rosse et les chasse.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Le Maître, Gilles.</head>
@@ -716,7 +712,7 @@
 <p id='6'>
 	<s id='1'>Oui, Monsieur. </s>
 </p>
-<stage type="[N/A]">Il porte la bouteille à sa bouche.</stage>
+<stage type="drink">Il porte la bouteille à sa bouche.</stage>
 </sp>
 <sp who='LE MAÎTRE'><speaker>LE MAÎTRE.</speaker>
 <p id='7'>
@@ -744,14 +740,14 @@
 <p id='11'>
 	<s id='1'>Fort bien, mais je ne prétends pas que tu satisfasses ta curiosité en cette occasion, et tu peux assurer Madamoiselle Ampoüisse que c'est du véritable vin grec.</s>
 </p>
-<stage type="[N/A]">Gilles veut boire.</stage>
+<stage type="drink">Gilles veut boire.</stage>
 <p id='12'>
 	<s id='1'>Ouais ! </s>
 	<s id='2'>cette bouteille te tente terriblement. </s>
 	<s id='3'>Oh ! </s>
 	<s id='4'>Je sais un bon moyen de t'empêcher d'y toucher.</s>
 </p>
-<stage type="[N/A]">Le Maître lui attache la bouteille au derrière avec une corde pendante. Durant ce temps, Gilles se mouche sur sa manche.</stage>
+<stage type="attach/blow">Le Maître lui attache la bouteille au derrière avec une corde pendante. Durant ce temps, Gilles se mouche sur sa manche.</stage>
 <p id='13'>
 	<s id='1'>Il faut avouer que tu es bien malpropre.</s>
 </p>
@@ -767,7 +763,7 @@
 	<s id='1'>Va, et ensuite tu iras exécuter tes commissions. </s>
 	<s id='2'>Pour moi, je vais partir pour Corbeil.</s>
 </p>
-<stage type="[N/A]">Ils rentrent.</stage>
+<stage type="exit">Ils rentrent.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Prends-tout, Laisse-rien.</head>
@@ -885,14 +881,14 @@
 <p id='15'>
 	<s id='1'>Croirais-tu bien, par exemple, que dans le Monomotapa j'ai vu une souris qui avait fait ses petits dans l'oreille d'un chat ?</s>
 </p>
-<stage type="[N/A]">Pendant ce temps, Laisse-Rien boit à la bouteille.</stage>
+<stage type="drink">Pendant ce temps, Laisse-Rien boit à la bouteille.</stage>
 </sp>
 <sp who='GILLES'><speaker>GILLES.</speaker>
 <p id='16'>
 	<s id='1'>Dans l'oreille d'un chat ? </s>
 	<s id='2'>Cela est-il possible ? </s>
 </p>
-<stage type="[N/A]">D'un coup de cul il culbute Laisse-Rien, qui se relève et vient lui raconter ce qui suit.</stage>
+<stage type="push/stand/continue">D'un coup de cul il culbute Laisse-Rien, qui se relève et vient lui raconter ce qui suit.</stage>
 </sp>
 <sp who='LAISSE-RIEN'><speaker>LAISSE-RIEN.</speaker>
 <p id='17'>
@@ -928,7 +924,7 @@
 	<s id='1'>Houlas ! </s>
 	<s id='2'>Ils sont donc bien sévères, dans ce pays-là? </s>
 </p>
-<stage type="[N/A]">Il culbute Prends-Tout d'un coup de cul, en disant : «Houlas !»</stage>
+<stage type="push/fall">Il culbute Prends-Tout d'un coup de cul, en disant : «Houlas !»</stage>
 </sp>
 <sp who='PRENDS-TOUT'><speaker>PRENDS-TOUT.</speaker>
 <p id='23'>
@@ -940,7 +936,7 @@
 	<s id='1'>Cela est-il croyable ? </s>
 	<s id='2'>Houlas ! </s>
 </p>
-<stage type="[N/A]">Il culbute Laisse-Rien.</stage>
+<stage type="push/fall">Il culbute Laisse-Rien.</stage>
 </sp>
 <sp who='LAISSE-RIEN'><speaker>LAISSE-RIEN.</speaker>
 <p id='25'>
@@ -952,7 +948,7 @@
 	<s id='1'>Ah ! </s>
 	<s id='2'>Celui-là est original. </s>
 </p>
-<stage type="[N/A]">Il culbute Prends-Tout.</stage>
+<stage type="push/fall">Il culbute Prends-Tout.</stage>
 </sp>
 <sp who='PRENDS-TOUT'><speaker>PRENDS-TOUT.</speaker>
 <p id='17'>
@@ -980,7 +976,7 @@
 	<s id='4'>Des servantes d'acier! </s>
 	<s id='5'>Houlas ! </s>
 </p>
-<stage type="[N/A]">Il culbute Laisse-Rien.</stage>
+<stage type="push/fall">Il culbute Laisse-Rien.</stage>
 </sp>
 <sp who='LAISSE-RIEN'><speaker>LAISSE-RIEN.</speaker>
 <p id='21'>
@@ -1006,7 +1002,7 @@
 	<s id='2'>Oh ! </s>
 	<s id='3'>Cela est plaisant. </s>
 </p>
-<stage type="[N/A]">Il culbute Prends-Tout.</stage>
+<stage type="push/fall">Il culbute Prends-Tout.</stage>
 </sp>
 <sp who='PRENDS-TOUT'><speaker>PRENDS-TOUT.</speaker>
 <p id='25'>
@@ -1032,7 +1028,7 @@
 	<s id='2'>Oh ! </s>
 	<s id='3'>Morguenne, voilà un drôle de corps. </s>
 </p>
-<stage type="[N/A]">Il culbute Laisse-Rien.</stage>
+<stage type="push/fall">Il culbute Laisse-Rien.</stage>
 </sp>
 <sp who='PRENDS-TOUT'><speaker>PRENDS-TOUT.</speaker>
 <p id='29'>
@@ -1203,11 +1199,11 @@
 	<s id='2'>On se déshonorerait de faire autrement.</s>
 </p>
 </sp>
-<sp who='GILLES'><speaker>GILLES, aparté.</speaker>
+<sp stage="aparte" who='GILLES'><speaker>GILLES, aparte.</speaker>
 <p id='24'>
 	<s id='1'>Nous allons bientôt voir si tu dis vrai.</s>
 </p>
-<stage type="[N/A]">Il donne un coup de poing à son maître et se jette à terre.</stage>
+<stage type="hit/fall">Il donne un coup de poing à son maître et se jette à terre.</stage>
 </sp>
 <sp who='LE MAÎTRE'><speaker>LE MAÎTRE.</speaker>
 <note type="L">Maraud : Terme injurieux qui se dit des gueux, des coquins qui n'ont ni bien ni honneur, qui sont capables de faire toutes sortes de lâchetés. [F]</note>
@@ -1216,7 +1212,7 @@
 	<s id='2'>Maraud, je vais t'abattre la tête.</s>
 </p>
 </sp>
-<sp who='GILLES'><speaker>GILLES, à terre.</speaker>
+<sp stage="lie" who='GILLES'><speaker>GILLES, à terre.</speaker>
 <p id='26'>
 	<s id=''>Le point d'honneur !</s>
 </p>
@@ -1314,11 +1310,11 @@
 <p id='42'>
 	<s id='1'>J'en suis quitte à bon marché.</s>
 </p>
-<stage type="[N/A]">Gilles rentre.</stage>
+<stage type="exit">Gilles rentre.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII. Le Maître, Prends-Tout.</head>
-<sp who='PRENDS-TOUT'><speaker>PRENDS-TOUT, aparté.</speaker>
+<sp stage="aparte" who='PRENDS-TOUT'><speaker>PRENDS-TOUT, aparte.</speaker>
 <p id='1'>
 	<s id='1'>Nous verrons tout à l'heure si tu es plus fin que ton valet.</s>
 </p>
@@ -1329,7 +1325,7 @@
 	<s id='2'>Il n'y a pas loin d'ici.</s>
 </p>
 </sp>
-<sp who='PRENDS-TOUT'><speaker>PRENDS-TOUT, contrefaisant le petit garçon.</speaker>
+<sp stage="imitate" who='PRENDS-TOUT'><speaker>PRENDS-TOUT, contrefaisant le petit garçon.</speaker>
 <p id='3'>
 	<s id='1'>Monsieur, ayez pitié de moi !</s>
 </p>
@@ -1379,18 +1375,18 @@
 <p id='11'>
 	<s id='1'>Je vous en prie, Monsieur, soyez mon protecteur.</s>
 </p>
-<stage type="[N/A]">Prends-Tout, qui s'accroupit quand il fait le petit garçon, se lève de toute sa grandeur quand il contrefait Monsieur Guillaume et passe tantôt à droite et tantôt à gauche du Maître.</stage>
+<stage type="lazzi">Prends-Tout, qui s'accroupit quand il fait le petit garçon, se lève de toute sa grandeur quand il contrefait Monsieur Guillaume et passe tantôt à droite et tantôt à gauche du Maître.</stage>
 </sp>
 <sp who='LE MAÎTRE'><speaker>LE MAÎTRE.</speaker>
 <p id='12'>
 	<s id='1'>Laisse-moi faire.</s>
 </p>
 </sp>
-<sp who='PRENDS-TOUT'><speaker>PRENDS-TOUT, d'une grosse voix.</speaker>
+<sp stage="strong" who='PRENDS-TOUT'><speaker>PRENDS-TOUT, d'une grosse voix.</speaker>
 <p id='13'>
 	<s id='1'>Si j'attrape ce petit fripon, je l'assommerai du coup.</s>
 </p>
-<stage type="[N/A]">D'une petite voix et passant de l'autre côté.</stage>
+<stage type="weak/location">D'une petite voix et passant de l'autre côté.</stage>
 <p id='14'>
 	<s id='1'>Vous l'entendez, Monsieur.</s>
 </p>
@@ -1429,7 +1425,7 @@
 	<s id='2'>Ah ! </s>
 	<s id='3'>Vous allez voir comme je vais l'étriller.</s>
 </p>
-<stage type="[N/A]">Il rosse le Maître et se remet du côté du petit garçon en criant de toutes ses forces.</stage>
+<stage type="hit">Il rosse le Maître et se remet du côté du petit garçon en criant de toutes ses forces.</stage>
 </sp>
 <sp who='LE MAÎTRE'><speaker>LE MAÎTRE.</speaker>
 <p id='21'>
@@ -1478,14 +1474,14 @@
 	<s id='2'>Monsieur, je vous demande excuse. </s>
 	<s id='3'>Mon père a menti.</s>
 </p>
-<stage type="[N/A]">Il grossit sa voix.</stage>
+<stage type="strong">Il grossit sa voix.</stage>
 <p id='29'>
 	<s id='1'>Vous l'entendez, Monsieur ? </s>
 	<s id='2'>Comment, coquin, j'ai menti ! </s>
 	<s id='3'>Ah ! </s>
 	<s id='4'>Vous en aurez.</s>
 </p>
-<stage type="[N/A]">Il rosse le Maître.</stage>
+<stage type="hit">Il rosse le Maître.</stage>
 <p id='30'>
 	<s id='1'>Ahi ! </s>
 	<s id='1'>Ahi ! </s>
@@ -1508,7 +1504,7 @@
 	<s id='3'>Ah ! </s>
 	<s id='4'>Je vous apprendrai, coquin !...</s>
 </p>
-<stage type="[N/A]">Il rosse le Maître.</stage>
+<stage type="hit">Il rosse le Maître.</stage>
 <p id='33'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Monsieur, je n'ai pas volé mon père. </s>
@@ -1552,17 +1548,17 @@
 	<s id='1'>Ah ! </s>
 	<s id='2'>Que non, Monsieur, je lui en donnerai bien davantage. </s>
 </p>
-<stage type="[N/A]">Il prend sa petite voix.</stage>
+<stage type="weak">Il prend sa petite voix.</stage>
 <p id='40'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Pardon, mon papa, mon petit papa. </s>
 </p>
-<stage type="[N/A]">De sa grosse voix.</stage>
+<stage type="strong">De sa grosse voix.</stage>
 <p id='41'>
 	<s id='1'>Point de pardon. </s>
 	<s id='2'>Je veux qu'il expire sous le bâton. </s>
 </p>
-<stage type="[N/A]">De sa petite voix.</stage>
+<stage type="weak">De sa petite voix.</stage>
 <p id='42'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Ah ! </s>
@@ -1583,15 +1579,15 @@
 	<s id='1'>Ah ! </s>
 	<s id='2'>Monsieur, je vous en fais excuse. </s>
 </p>
-<stage type="[N/A]">De sa petite voix.</stage>
+<stage type="weak">De sa petite voix.</stage>
 <p id='45'>
 	<s id='1'>Monsieur, amusez mon père pendant que je m'enfuirai. </s>
 </p>
-<stage type="[N/A]">Il lui embrasse la cuisse et lui vole sa bourse. De sa grosse voix.</stage>
+<stage type="kiss/steal/loud">Il lui embrasse la cuisse et lui vole sa bourse. De sa grosse voix.</stage>
 <p id='46'>
 	<s id='1'>Avant que tu t'enfuisses, je prétends t'estropier et te rendre cul-de-jatte. </s>
 </p>
-<stage type="[N/A]">Il rosse le Maître, crie de toute sa force et s'en va.</stage>
+<stage type="hit/exit">Il rosse le Maître, crie de toute sa force et s'en va.</stage>
 </sp>
 <sp who='LE MAÎTRE'><speaker>LE MAÎTRE.</speaker>
 <p id='47'>
@@ -1663,7 +1659,7 @@
 <p id='10'>
 	<s id='1'>Tiens, la voilà ! </s>
 </p>
-<stage type="[N/A]">Gilles jette l'épée dans la maison et commence à étriller son maître.</stage>
+<stage type="throw/hit">Gilles jette l'épée dans la maison et commence à étriller son maître.</stage>
 </sp>
 <sp who='GILLES'><speaker>GILLES.</speaker>
 <p id='11'>
@@ -1681,7 +1677,7 @@
 <p id='13'>
 	<s id='1'>N'avez-vous pas dit tantôt : «Je veux bien que l'on m'étrille si l'on me prend cette bourse» ? </s>
 </p>
-<stage type="[N/A]">Il le rosse.</stage>
+<stage type="hit">Il le rosse.</stage>
 </sp>
 <sp who='LE MAÎTRE'><speaker>LE MAÎTRE.</speaker>
 <p id='14'>
@@ -1722,7 +1718,7 @@
 </div1>
 <div1 type="act" n='2'><head>ACTE II</head>
 <div2 type="scene" n='1'><head>SCÈNE I.</head>
-<sp who='GILLES'><speaker>GILLES, seul.</speaker>
+<sp stage="alone" who='GILLES'><speaker>GILLES, seul.</speaker>
 <p id='1'>
 	<s id='1'>Il faut avouer que je joue de malheur. </s>
 	<s id='2'>Mon maître m'assomme parce que je laisse boire son vin à mon derrière, et il a l'esprit assez mal fait pour se fâcher quand je lui donne quelques coups de bâton pour s'être laissé voler sa bourse. </s>
@@ -1733,7 +1729,7 @@
 	<s id='7'>Eh bien ! </s>
 	<s id='8'>Je prendrai avec elle un ton caressant.</s>
 </p>
-<stage type="[N/A]">Il heurte à la porte.</stage>
+<stage type="knock">Il heurte à la porte.</stage>
 <p id='2'>
 	<s id='1'>Gillette ! </s>
 	<s id='2'>Gillette !</s>
@@ -1741,7 +1737,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Gilles, Gillette.</head>
-<sp who='GILLETTE'><speaker>GILLETTE, en dedans.</speaker>
+<sp stage="location" who='GILLETTE'><speaker>GILLETTE, en dedans.</speaker>
 <p id='1'>
 	<s id='1'>Qui est le butor qui frappe ainsi ?</s>
 </p>
@@ -1964,22 +1960,22 @@
 	<s id='4'>C'est pour en mourir, cependant ! </s>
 	<s id='5'>Mais, n'importe !</s>
 </p>
-<stage type="[N/A]">Ils s'asseyent sur une banquette, se font plusieurs signes. Gilles lui montre la porte de son amant et lui fait entendre qu'elle couche avec lui. Gillette, par signes, soutient que cela n'est pas vrai. Et, en lui montrant les cornes, lui affirme quelle ne le fait pas cocu. Gilles secoue la tête et lui fait comprendre que, s'il en était certain, son amant ne mourrait que de sa main et qu'il l'assommerait ensuite.</stage>
+<stage type="narration">Ils s'asseyent sur une banquette, se font plusieurs signes. Gilles lui montre la porte de son amant et lui fait entendre qu'elle couche avec lui. Gillette, par signes, soutient que cela n'est pas vrai. Et, en lui montrant les cornes, lui affirme quelle ne le fait pas cocu. Gilles secoue la tête et lui fait comprendre que, s'il en était certain, son amant ne mourrait que de sa main et qu'il l'assommerait ensuite.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Gilles, Gillette, Un Suisse, à moitié ivre.</head>
-<sp who='LE SUISSE'><speaker>LE SUISSE, mal articulant.</speaker>
+<sp stage="imitate" who='LE SUISSE'><speaker>LE SUISSE, mal articulant.</speaker>
 <p id='1'>
 	<s id='1'>Ponne chour, ma petit cuir. </s>
 	<s id='2'>Li fouloir que je li estre à toy, la petite pouchonne.</s>
 </p>
-<stage type="[N/A]">Il veut la caresser ; Gillette le repousse, Gilles rit.</stage>
+<stage type="caress/push/laugh">Il veut la caresser ; Gillette le repousse, Gilles rit.</stage>
 <p id='2'>
 	<s id='1'>Toi rire, ti moi ? </s>
 	<s id='3'>fisache di piastre ! </s>
 	<s id='4'>Moi tonnir à toi une ponne soufflet à ta physonomie. </s>
 </p>
-<stage type="[N/A]">Gilles demande excuse par gestes.</stage>
+<stage type="wave">Gilles demande excuse par gestes.</stage>
 <p id='3'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Toi li être ponne garçonne.</s>
@@ -1991,40 +1987,40 @@
 	<s id='3'>Li être pas comme la tisache de sti damoiselles di Paris. </s>
 	<s id='4'>Moi li être content peaucoup plus que grandement di faire avec toi un petit l'épousement pour mon vie.</s>
 </p>	
-<stage type="[N/A]">Gillette fait entendre qu'elle est mariée à Gilles, qu'il est jaloux et craint d'être cocu.</stage>
+<stage type="explicit">Gillette fait entendre qu'elle est mariée à Gilles, qu'il est jaloux et craint d'être cocu.</stage>
 <p id='5'>
 	<s id='1'>Moi craindre pas le cocuage, vouloir encore pousser sti fille.</s>
 </p>
-<stage type="[N/A]">Gillette rit.</stage>
+<stage type="laugh">Gillette rit.</stage>
 <p id='6'>
 	<s id='1'>Toi li être, par mon foi, la plus pelle meilleure himeur du monde. </s>
 	<s id='2'>Toi li dire à moi un petite touceur.</s>
 </p>
-<stage type="[N/A]">Gillette lui fait entendre qu'elle est muette.</stage>
+<stage type="explicit">Gillette lui fait entendre qu'elle est muette.</stage>
 <p id='7'>
 	<s id='1'>Ponne pour moi, un femme muette. </s>
 	<s id='2'>Quand moi revenir à ma logement, je la trouvir touce comme un moutonne. </s>
 	<s id='3'>Fienne donc toi avec moi, ma petit cuir.</s>
 </p>
-<stage type="[N/A]">Gilles veut l'empêcher d'emmener Gillette.</stage>
+<stage type="pull/push">Gilles veut l'empêcher d'emmener Gillette.</stage>
 <p id='8'>
 	<s id='1'>Par mon foi, moi tonnir à toi un soufflet sur ton face ! </s>
 	<s id='2'>Va trouvir un petit ménage qui aura la même ressemplement. </s>
 	<s id='3'>Ponne chour, camerate.</s>
 </p>
-<stage type="[N/A]">Il emmène Gillette, malgré Gilles qui reçoit quelques soufflets.</stage>
+<stage type="pull/slap">Il emmène Gillette, malgré Gilles qui reçoit quelques soufflets.</stage>
 </sp>
-<sp who='GILLETTE'><speaker>GILLETTE, derrière le théâtre.</speaker>
+<sp stage="location" who='GILLETTE'><speaker>GILLETTE, derrière le théâtre.</speaker>
 <p id='9'>
 	<s id='1'>Au secours, Gilles... </s>
 	<s id='2'>Gilles, à moi !</s>
 </p>
-<stage type="[N/A]">Gilles rit de toute sa force.</stage>
+<stage type="laugh">Gilles rit de toute sa force.</stage>
 <p id='10'>
 	<s id='1'>Gilles... </s>
 	<s id='2'>Gilles...</s>
 </p>
-<stage type="[N/A]">Elle revient son bonnet tout de travers.</stage>
+<stage type="back/dress">Elle revient son bonnet tout de travers.</stage>
 <p id='11'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>vilain coquin ! </s>
@@ -2048,7 +2044,7 @@
 	<s id='1'>Tu feras le ménage.</s>
 </p>
 </sp>
-<sp who='GILLETTE'><speaker>GILLETTE, le battant.</speaker>
+<sp stage="hit" who='GILLETTE'><speaker>GILLETTE, le battant.</speaker>
 <p id='15'>
 	<s id='1'>Sac à vin ! </s>
 	<s id='2'>Infâme !</s>
@@ -2059,11 +2055,11 @@
 	<s id='1'>Tu feras le ménage.</s>
 </p>
 </sp>
-<sp who='GILLETTE'><speaker>GILLETTE, aparté.</speaker>
+<sp stage="aparte" who='GILLETTE'><speaker>GILLETTE, aparte.</speaker>
 <p id='17'>
 	<s id='1'>Puisque ce vilain marsouin est si bête, je vais me venger de lui en le faisant lui-même porteur d'une lettre pour Monsieur Olibrius, mon amant. </s>
 </p>
-<stage type="forte">Haut.</stage>
+<stage type="loud">Haut.</stage>
 <p id='18'>
 	<s id='1'>Ne songeons plus à ce misérable-là. </s>
 	<s id='2'>Voici une lettre que Monsieur Stirlik-Berlik m'a chargée de faire remettre à notre voisin, Monsieur Olibrius. </s>
@@ -2087,7 +2083,7 @@
 	<s id='2'>Que non.</s>
 </p>
 </sp>
-<sp who='GILLES'><speaker>GILLES, la lui arrachant.</speaker>
+<sp stage="extract" who='GILLES'><speaker>GILLES, la lui arrachant.</speaker>
 <p id='21'>
 	<s id='1'>Rentre seulement dans la maison et point de bruit.</s>
 </p>
@@ -2104,7 +2100,7 @@
 	<s id='3'>Oh ! </s>
 	<s id='4'>Le cheval !</s>
 </p>
-<stage type="[N/A]">Elle rentre.</stage>
+<stage type="exit">Elle rentre.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE IV. Gilles, Monsieur Olibrius.</head>
@@ -2116,7 +2112,7 @@
 	<s id='4'>Quelqu'un.</s>
 </p>
 </sp>
-<sp who='OLIBRIUS'><speaker>OLIBRIUS, en spadassin.</speaker>
+<sp stage="dress" who='OLIBRIUS'><speaker>OLIBRIUS, en spadassin.</speaker>
 <p id='2'>
 	<s id='1'>Qui est-ce qui heurte donc ainsi ?</s>
 </p>
@@ -2140,11 +2136,11 @@
 	<s id='2'>Ma femme m'a dit qu'il y avait autant à gagner.</s>
 </p>
 </sp>
-<sp who='OLIBRIUS'><speaker>OLIBRIUS, aparté.</speaker>
+<sp stage="aparte" who='OLIBRIUS'><speaker>OLIBRIUS, aparte.</speaker>
 <p id='6'>
 	<s id='1'>Il faut que ce soit quelque tour d'adresse de Madamoiselle Gillette, pour me faire tenir un billet. </s>
 </p>
-<stage type="forte">Haut.</stage>
+<stage type="loud">Haut.</stage>
 <p id="7">
 	<s id='1'>Mais, mon ami, faut-il encore que je sache de quoi il s'agit et de quelle part vient cette lettre.</s>
 </p>
@@ -2154,12 +2150,12 @@
 	<s id='1'>De la part de Monsieur Stirlik-Berlik.</s>
 </p>
 </sp>
-<sp who='OLIBRIUS'><speaker>OLIBRIUS, aparté.</speaker>
+<sp stage="aparte" who='OLIBRIUS'><speaker>OLIBRIUS, aparté.</speaker>
 <p id='9'>
 	<s id='1'>Je ne me trompe pas. </s>
 	<s id='2'>C'est une tromperie de ma maîtresse. </s>
 </p>
-<stage type="forte">Haut.</stage>
+<stage type="loud">Haut.</stage>
 <p di='10'>
 	<s id='1'>Mon voisin, quand j'aurai lu la lettre, tu auras l'écu, si la lettre le dit.</s>
 </p>
@@ -2170,7 +2166,7 @@
 	<s id='2'>Bon, cela.</s>
 </p>
 </sp>
-<stage type="[N/A]">Olibrius prend la lettre et lit les premières lignes qui le confirment dans sa pensée. Puis, voyant Gilles qui veut entendre ce qu'il lit, il lui dit :</stage>
+<stage type="get/read">Olibrius prend la lettre et lit les premières lignes qui le confirment dans sa pensée. Puis, voyant Gilles qui veut entendre ce qu'il lit, il lui dit :</stage>
 <sp who='OLIBRIUS'><speaker>OLIBRIUS.</speaker>
 <p id='12'>
 	<s id='1'>Vous êtes bien curieux, mon ami.</s>
@@ -2181,11 +2177,11 @@
 	<s id='1'>Monsieur, outre l'écu promis, j'ai encore des raisons pour savoir ce que contient cette lettre.</s>
 </p>
 </sp>
-<sp who='OLIBRIUS'><speaker>OLIBRIUS, aparté.</speaker>
+<sp stage="aparte" who='OLIBRIUS'><speaker>OLIBRIUS, aparté.</speaker>
 <p id='14'>
 	<s id='1'>Je vais lui jouer d'un tour à quoi il ne s'attend pas. </s>
 </p>
-<stage type="forte">Haut.</stage>
+<stage type="loud">Haut.</stage>
 <p id='15'>
 	<s id='1'>Eh bien ! </s>
 	<s id='2'>mon voisin, il faut vous satisfaire. </s>
@@ -2207,7 +2203,7 @@
 <p id='18'>
 	<s id='1'>Attendez, mon ami. </s>
 </p>
-<stage type="[N/A]">Il feint de continuer à lire.</stage>
+<stage type="read">Il feint de continuer à lire.</stage>
 <p id='19'>
 	<s id='1'>« C'est un brave garçon ! </s>
 	<s id='2'>Cependant, comme il est journalier, s'il refusait de mesurer son épée contre la vôtre...»</s>
@@ -2218,7 +2214,7 @@
 	<s id='1'>Il ne faut pas être bien brave pour mesurer deux épées et voir quelle est la plus longue.</s>
 </p>
 </sp>
-<sp who='OLIBRIUS'><speaker>OLIBRIUS, continuant à feindre de lire.</speaker>
+<sp stage="read" who='OLIBRIUS'><speaker>OLIBRIUS, continuant à feindre de lire.</speaker>
 <p id='21'>
 	<s id='1'>« Avec une douzaine de coups de bâton vous viendrez à bout d'échauffer sa bile. </s>
 	<s id='2'>En cas que vous ne soyez pas content de son procédé, vous pouvez l'assommer ou lui couper la tête. </s>
@@ -2271,7 +2267,7 @@
 <p id='29'>
 	<s id='1'>Cela étant ainsi, il faut avoir recours au remède. </s>
 </p>
-<stage type="[N/A]">Il rosse Gilles.</stage>
+<stage type="hit">Il rosse Gilles.</stage>
 </sp>
 <sp who='GILLES'><speaker>GILLES.</speaker>
 <p id='30'>
@@ -2330,7 +2326,7 @@
 	<s id='2'>Mademoiselle, je le crois bien.</s>
 </p>
 </sp>
-<sp who='GILLETTE'><speaker>GILLETTE, à Gilles.</speaker>
+<sp stage="toward" who='GILLETTE'><speaker>GILLETTE, à Gilles.</speaker>
 <p id='9'>
 	<s id='1'>Lâche que tu es ! </s>
 	<s id='2'>Vois-tu comme je lui fais peur ! </s>
@@ -2384,7 +2380,7 @@
 	<s id='3'>Nous ne vous craignons pas.</s>
 </p>
 </sp>
-<sp who='GILLETTE'><speaker>GILLETTE, apportant une épée.</speaker>
+<sp stage="carry" who='GILLETTE'><speaker>GILLETTE, apportant une épée.</speaker>
 <p id='18'>
 	<s id='1'>Tiens, voilà une bonne épée. </s>
 	<s id='2'>Allons, du courage !</s>
@@ -2395,9 +2391,9 @@
 <p id='19'>
 	<s id='1'>Cela est bien aisé à dire.</s>
 </p>
-<stage type="[N/A]">Il cache son épée.</stage>
+<stage type="hide">Il cache son épée.</stage>
 </sp>
-<sp who='OLIBRIUS'><speaker>OLIBRIUS, tournant autour de lui.</speaker>
+<sp stage="round" who='OLIBRIUS'><speaker>OLIBRIUS, tournant autour de lui.</speaker>
 <p id='20'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>C'en est trop, je veux abattre la tête à ce coquin-là.</s>
@@ -2409,7 +2405,7 @@
 	<s id='2'>C'est bien le diable, il veut me couper la tête.</s>
 </p>
 </sp>
-<sp who='GILLETTE'><speaker>GILLETTE, en dedans.</speaker>
+<sp stage="location" who='GILLETTE'><speaker>GILLETTE, en dedans.</speaker>
 <p id='22'>
 	<s id='1'>Tu n'es qu'un sot. </s>
 	<s id='2'>Mets l'épée à la main. </s>
@@ -2452,7 +2448,7 @@
 	<s id='2'>Eh bien ! </s>
 	<s id='3'>Je sais un autre moyen de te mettre en colère. </s>
 </p>
-<stage type="[N/A]">Il le rosse.</stage>
+<stage type="hit">Il le rosse.</stage>
 </sp>
 <sp who='GILLES'><speaker>GILLES.</speaker>
 <p id='29'>
@@ -2460,7 +2456,7 @@
 	<s id='2'>Passe pour cela. </s>
 	<s id='3'>Pour le coup, tu vas voir beau jeu. </s>
 </p>
-<stage type="[N/A]">Il met l'épée à la main.</stage>
+<stage type="threat">Il met l'épée à la main.</stage>
 <p id='30'>
 	<s id='1'>Comment nous battrons-nous ?</s>
 </p>
@@ -2474,7 +2470,7 @@
 <p id='32'>
 	<s id='1'>Va, seul à seul.</s>
 </p>
-<stage type="[N/A]">Il lui tourne le dos et tire des bottes en l'air.</stage>
+<stage type="back/dress">Il lui tourne le dos et tire des bottes en l'air.</stage>
 </sp>
 <sp who='OLIBRIUS'><speaker>OLIBRIUS.</speaker>
 <p id='33'>
@@ -2522,7 +2518,7 @@
 <p id='41'>
 	<s id='1'>Va !</s>
 </p>
-<stage type="[N/A]">Il tire des bottes.</stage>
+<stage type="dress">Il tire des bottes.</stage>
 <p id='42'>
 	<s id=''>Avance donc.</s>
 </p>
@@ -2560,7 +2556,7 @@
 	<s id='2'>Voilà mon épée.</s>
 </p>
 </sp>
-<sp who='GILLES'><speaker>GILLES, avec les deux épées.</speaker>
+<sp stage="threat" who='GILLES'><speaker>GILLES, avec les deux épées.</speaker>
 <p id='49'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Ah ! </s>
@@ -2577,18 +2573,18 @@
 	<s id='1'>Vous fuyez, coquin...</s>
 </p>
 </sp>
-<sp who='OLIBRIUS'><speaker>OLIBRIUS, aparté.</speaker>
+<sp stage="aparte" who='OLIBRIUS'><speaker>OLIBRIUS, aparte.</speaker>
 <p id='52'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>c'en est trop ! </s>
 	<s id='3'>Je ne veux que le fourreau de mon épée pour lui faire peur. </s>
 </p>
-<stage type="forte">Haut.</stage>
+<stage type="loud">Haut.</stage>
 <p id='53'>
 	<s id='1'>Attends, coquin, voilà une autre épée.</s>
 </p>
 </sp>
-<sp who='GILLES'><speaker>GILLES, se sauvant.</speaker>
+<sp stage="escape" who='GILLES'><speaker>GILLES, se sauvant.</speaker>
 <p id='54'>
 	<s id='1'>Gillette ! </s>
 	<s id='2'>Gillette ! </s>
@@ -2613,7 +2609,7 @@
 <p id='3'>
 	<s id='1'>Attends, attends. </s>
 </p>
-<stage type="[N/A]">Elle prend Olibrius, l'enlève et l'emporte dans la maison.</stage>
+<stage type="carry/exit">Elle prend Olibrius, l'enlève et l'emporte dans la maison.</stage>
 </sp>
 <sp who='OLIBRIUS'><speaker>OLIBRIUS.</speaker>
 <p id='4'>
@@ -2630,7 +2626,7 @@
 	<s id='4'>Ma vie en dépend.</s>
 </p>
 </sp>
-<sp who='GILLETTE'><speaker>GILLETTE, en dedans.</speaker>
+<sp stage="location" who='GILLETTE'><speaker>GILLETTE, en dedans.</speaker>
 <p id='6'>
 	<s id='1'>Ne crains rien, j'ai mis les verrous.</s>
 </p>
@@ -2668,7 +2664,7 @@
 	<s id='2'>C'est que la bastarde de la cousine de Monsieur Divertissant a été mariée à Saint-Denis, et, comme il a été prié de la noce, et moi aussi, nous n'avons pas voulu refuser l'honneur qu'on nous a fait.</s>
 </p>
 </sp>
-<sp who='DIVERTISSANT'><speaker>DIVERTISSANT, ivre.</speaker>
+<sp stage="drunk" who='DIVERTISSANT'><speaker>DIVERTISSANT, ivre.</speaker>
 <p id='3'>
 	<s id='1'>Oui, Monsieur, nous en arrivons dans le moment. </s>
 	<s id='2'>La mariée a voulu que la noce se fît à Saint-Denis, à cause de la grande mesure. </s>
@@ -2747,7 +2743,7 @@
 	<s id='2'>Mais voilà des manants bien insolents !</s>
 </p>
 </sp>
-<sp who='DIVERTISSANT'><speaker>DIVERTISSANT, ivre.</speaker>
+<sp stage="drunk" who='DIVERTISSANT'><speaker>DIVERTISSANT, ivre.</speaker>
 <p id='16'>
 	<s id='1'>Mon camarade parle juste... </s>
 	<s id='2'>Vous nous la direz ou vous aurez beau jeu.</s>
@@ -2827,7 +2823,7 @@
 	<s id='4'>Et quelle autorité avez-vous donc sur Jacqueline ?</s>
 </p>
 </sp>
-<sp who='SANS-QUARTIER et DIVERTISSANT'><speaker>SANS-QUARTIER et DIVERTISSANT, ensemble.</speaker>
+<sp stage="together" who='SANS-QUARTIER et DIVERTISSANT'><speaker>SANS-QUARTIER et DIVERTISSANT, ensemble.</speaker>
 <p id='30'>
 	<s id='1'>C'est ma femme, Monsieur.</s>
 </p>
@@ -2882,7 +2878,7 @@
 	<s id='1'>Ah ! </s>
 	<s id='2'>je vous étrillerai sur le ventre et partout.</s>
 </p>
-<stage type="[N/A]">Ils se sauvent.</stage>
+<stage type="escape">Ils se sauvent.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Sans-Quartier, Diverstissant.</head>
@@ -2980,7 +2976,7 @@
 	<s id='3'>Éloignez-vous seulement un peu. </s>
 	<s id='4'>Je vais heurter à sa porte.</s>
 </p>
-<stage type="[N/A]">Ils se retirent dans la coulisse.</stage>
+<stage type="exit">Ils se retirent dans la coulisse.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Sans-Quartier, Le Maître.</head>
@@ -3029,7 +3025,7 @@
 <p id='8'>
 	<s id='1'>Et moi, je vais vous montrer comme je traite les brutaux.</s>
 </p>
-<stage type="[N/A]">Il le rosse, le chasse et rentre.</stage>
+<stage type="hit/throw/exit">Il le rosse, le chasse et rentre.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Divertissant, Sans-Quartier, Gilles.</head>
@@ -3164,7 +3160,7 @@
 <p id='10'>
 	<s id='1'>Cela est juste, et je vais payer vos comparaisons ce qu'elles méritent.</s>
 </p>
-<stage type="[N/A]">Divertissant crie ; le Maître le rosse et rentre.</stage>
+<stage type="shout/hit/exit">Divertissant crie ; le Maître le rosse et rentre.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII. Divertissant, Sans-Quartier, Gilles.</head>
@@ -3206,7 +3202,7 @@
 	<s id='1'>Qui est là ?</s>
 </p>
 </sp>
-<sp who='GILLES'><speaker>GILLES, d'un ton poli.</speaker>
+<sp stage="nice" who='GILLES'><speaker>GILLES, d'un ton poli.</speaker>
 <p id='3'>
 	<s id='1'>Ah ! </s>
 	<s id='2'>Monsieur, je suis votre valet. </s>
@@ -3225,7 +3221,7 @@
 	<s id='1'>D'une bagatelle. </s>
 	<s id='2'>De payer nos gages, à mes camarades et à moi... </s>
 </p>
-<stage type="[N/A]">Élevant la voix.</stage>
+<stage type="shout">Élevant la voix.</stage>
 <p id='6'>
 	<s id='1'>Sinon, par la mort !...</s>
 </p>
@@ -3237,17 +3233,17 @@
 	<s id='3'>Point de colère.</s>
 </p>
 </sp>
-<sp who='GILLES'><speaker>GILLES, aparté.</speaker>
+<sp stage="aparte" who='GILLES'><speaker>GILLES, aparte.</speaker>
 <p id='8'>
 	<s id='1'>Il a peur. </s>
 	<s id='2'>Courage !</s>
 </p>
-<stage type="forte">Haut.</stage>
+<stage type="loud">Haut.</stage>
 <p id='9'>
 	<s id='1'>Savez-vous bien, Monsieur, avec tout le respect que je vous dois, que si vous ne nous donnez de l'argent, et tout à l'heure, je suis homme à mettre le feu.</s>
 </p>
 </sp>
-<sp who='LE MAÎTRE'><speaker>LE MAÎTRE, feignant d'avoir peur.</speaker>
+<sp stage="frighten" who='LE MAÎTRE'><speaker>LE MAÎTRE, feignant d'avoir peur.</speaker>
 <p id='10'>
 	<s id='1'>À mettre le feu ?</s>
 </p>
@@ -3261,14 +3257,14 @@
 	<s id='5'>Vous ne me connaissez pas encore !</s>
 </p>
 </sp>
-<sp who='LE MAÎTRE'><speaker>LE MAÎTRE, d'un ton élevé.</speaker>
+<sp stage="loud" who='LE MAÎTRE'><speaker>LE MAÎTRE, d'un ton élevé.</speaker>
 <note type="L">Faquin : se dit aussi en quelque sorte figuré, pour un homme sans mérite, sans honneur, sans coeur, digne de toute sorte de mépris. [F]</note>
 <p id='12'>
 	<s id='1'>À mettre le feu ? </s>
 	<s id='2'>Faquin ! </s>
 	<s id='3'>À mettre le feu, misérable !</s>
 </p>
-<stage type="[N/A]">Gilles recule et tremble.</stage>
+<stage type="away/frighten">Gilles recule et tremble.</stage>
 <p id='13'>
 	<s id='1'>À mettre le feu, infâme ! </s>
 	<s id='2'>À ma maison, apparemment !</s>
@@ -3303,7 +3299,7 @@
 <p id='18'>
 	<s id='1'>Mais, Monsieur, je crois qu'il n'y a pas de mal à ce qu'elle soit de poids. </s>
 </p>
-<stage type="[N/A]">D'un ton insolent.</stage>
+<stage type="disdain">D'un ton insolent.</stage>
 <p id='19'>
 	<s id='1'>Mais dépêchez-vous, car si une fois la cervelle s'échauffe...</s>
 </p>
@@ -3314,11 +3310,11 @@
 	<s id='2'>Puisque vous êtes si vif, il faut vous payer sans attendre. </s>
 	<s id='3'>Tenez, voilà de la monnaie de poids.</s>
 </p>
-<stage type="[N/A]">Il le rosse.</stage>
+<stage type="hit">Il le rosse.</stage>
 <p id='21'>
 	<s id='1'>Partagez cela avec vos camarades.</s>
 </p>
-<stage type="[N/A]">Il lui présente la batte.</stage>
+<stage type="show/threat">Il lui présente la batte.</stage>
 </sp>
 <sp who='GILLES'><speaker>GILLES.</speaker>
 <p id='22'>
@@ -3342,7 +3338,7 @@
 <p id='3'>
 	<s id='1'>Cela est juste.</s>
 </p>
-<stage type="[N/A]">Gilles les rosse, ils crient.</stage>
+<stage type="hit/shout">Gilles les rosse, ils crient.</stage>
 </sp>
 <sp who='GILLES'><speaker>GILLES.</speaker>
 <p id='4'>
@@ -3354,7 +3350,7 @@
 	<s id='1'>Que la peste te crève avec tes mauvaises plaisanteries ! </s>
 	<s id='2'>Mais, après tout, il nous faut de l'argent; et, puisque nous avons à faire à un homme si peu raisonnable, il faut lui faire un mauvais parti.</s>
 </p>
-<stage type="[N/A]">Le Maître paraît derrière eux et les écoute.</stage>
+<stage type="entrance/listen">Le Maître paraît derrière eux et les écoute.</stage>
 </sp>
 <sp who='DIVERTISSANT'><speaker>DIVERTISSANT.</speaker>
 <p id='6'>
@@ -3491,7 +3487,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='10'><head>SCÈNE X. Divertissant, Sans-Quartier, Gilles, Le Maître.</head>
-<stage type="[N/A]">Sitôt que le Maître paraît, ils se retirent de chaque côté et écoutent ce qu'il dit.</stage>
+<stage type="entrance/away/listen">Sitôt que le Maître paraît, ils se retirent de chaque côté et écoutent ce qu'il dit.</stage>
 <sp who='LE MAÎTRE'><speaker>LE MAÎTRE.</speaker>
 <p id='1'>
 	<s id='1'>Parbleu, je viens de faire un plaisant rêve. </s>
@@ -3567,7 +3563,7 @@
 <p id='13'>
 	<s id='1'>C'est de donner cent coups de bâton à ces trois coquins-là.</s>
 </p>
-<stage type="[N/A]">Il les rosse, ils crient, et le Maître rentre.</stage>
+<stage type="hit/exit">Il les rosse, ils crient, et le Maître rentre.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='11'><head>SCÈNE XI. Divertisssant, Sans Qartier, Gilles.</head>
@@ -3702,7 +3698,7 @@
 <p id='23'>
 	<s id='1'>Tiens, voilà tout l'équipage. </s>
 </p>
-<stage type="[N/A]">On habille Gilles comiquement.</stage>
+<stage type="dress">On habille Gilles comiquement.</stage>
 </sp>
 <sp who='GILLES'><speaker>GILLES.</speaker>
 <p id='24'>
@@ -3826,7 +3822,7 @@
 <p id='45'>
 	<s id='1'>Ne t'embarrasse de rien.</s>
 </p>
-<stage type="[N/A]">Gilles reste dans un coin.</stage>
+<stage type="location">Gilles reste dans un coin.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='12'><head>SCÈNE XII. Divertissant, Sans-Quartier, Le Maître.</head>
@@ -3903,13 +3899,13 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n='13'><head>SCÈNE XIII, et dernière. Divertissant, Sans-Quartier, Le Maître.</head>
+<div2 type="scene" n='13'><head>SCÈNE XIII et dernière. Divertissant, Sans-Quartier, Le Maître.</head>
 <sp who='GILLES'><speaker>GILLES.</speaker>
 <p id='1'>
 	<s id='1'>Ego.</s>
 </p>
 </sp>
-<sp who='SANS-QUARTIER'><speaker>SANS-QUARTIER, soufflant.</speaker>
+<sp stage="blow" who='SANS-QUARTIER'><speaker>SANS-QUARTIER, soufflant.</speaker>
 <p id='2'>
 	<s id='1'>Sum.</s>
 </p>
@@ -3919,7 +3915,7 @@
 	<s id='1'>Sum.</s>
 </p>
 </sp>
-<sp who='SANS-QUARTIER'><speaker>SANS-QUARTIER, soufflant.</speaker>
+<sp stage="blow" who='SANS-QUARTIER'><speaker>SANS-QUARTIER, soufflant.</speaker>
 <p id='4'>
 	<s id='1'>Doctor, doctorantibus.</s>
 </p>
@@ -3928,12 +3924,12 @@
 <p id='5'>
 	<s id='1'>Avec votre permission, Monsieur le docteur, j'ai oublié de dire quelque chose dans ma maison.</s>
 </p>
-<stage type="[N/A]">Il entre et, en dedans, il dit d'une voix élevée.</stage>
+<stage type="exit/shout">Il entre et, en dedans, il dit d'une voix élevée.</stage>
 <p id='6'>
 	<s id='1'>Qu'on l'arrête, qu'on lui coupe la gorge..., qu'on le jette dans l'eau bouillante, qu'on lui arrache poil à poil...</s>
 </p>
 </sp>
-<sp who='GILLES'><speaker>GILLES, effrayé pendant ce discours, jette tout son équipage et s'enfuit en disant :</speaker>
+<sp stage="frighten" who='GILLES'><speaker>GILLES, effrayé pendant ce discours, jette tout son équipage et s'enfuit en disant :</speaker>
 <p id='7'>
 	<s id='1'>Entends-tu tout ce qu'il dit ?... </s>
 	<s id='2'>Quelque sot qui ira haranguer cet homme-là !</s>
@@ -3960,7 +3956,7 @@
 	<s id='3'>Un peu de courage ! </s>
 	<s id='4'>Le voici : Ego sum doctor. </s>
 </p>
-<stage type="[N/A]">Il le rhabille.</stage>
+<stage type="dress">Il le rhabille.</stage>
 </sp>
 <sp who='GILLES'><speaker>GILLES.</speaker>
 <p id='11'>
@@ -3973,13 +3969,13 @@
 	<s id='2'>Vous venez dans un moment où j'étais occupé. </s>
 	<s id='3'>Je suis à vous dans l'instant.</s>
 </p>
-<stage type="[N/A]">En dedans :</stage>
+<stage type="location">En dedans :</stage>
 <note type="L">Cotret : menu bois, court et relié avec des hares. On appelle figurément et burlesquement des coups de bâtons : huile de cotret. [F]</note>
 <p id='13'>
 	<s id='1'>Qu'on lie ces cotrets..., qu'on en prenne cinq ou six ; des meilleurs parements.</s>
 </p>
 </sp>
-<sp who='GILLES'><speaker>GILLES, jetant tous ses habits à terre, à Sans-Quartier.</speaker>
+<sp stage="dress/throw" who='GILLES'><speaker>GILLES, jetant tous ses habits à terre, à Sans-Quartier.</speaker>
 <p id='14'>
 	<s id='1'>Eh bien ! </s>
 	<s id='2'>Qu'as-tu à dire ?</s>
@@ -3996,7 +3992,7 @@
 	<s id='1'>Cela pourrait bien être. </s>
 	<s id='2'>Je me suis alarmé hors propos. </s>
 </p>
-<stage type="[N/A]">Il se rhabille comiquement.</stage>
+<stage type="dress">Il se rhabille comiquement.</stage>
 <p id='17'>
 	<s id='1'>Reprenons notre air grave. </s>
 	<s id='2'>Le voici : Ego sum doctor.</s>
@@ -4006,12 +4002,12 @@
 <p id='18'>
 	<s id='1'>Pardonnez, Monsieur, je n'ai qu'un petit mot à dire. </s>
 </p>
-<stage type="[N/A]">Il rentre et dit en dedans:</stage>
+<stage type="exit/location">Il rentre et dit en dedans :</stage>
 <p id='19'>
 	<s id=''>Quinte, quatorze et le point.</s>
 </p>
 </sp>
-<sp who='GILLES'><speaker>GILLES, jetant toutes ses hardes à terre.</speaker>
+<sp stage="throw" who='GILLES'><speaker>GILLES, jetant toutes ses hardes à terre.</speaker>
 <p id='20'>
 	<s id='1'>Ceci n'est point équivoque, pour le coup.</s>
 </p>
@@ -4054,7 +4050,7 @@
 	<s id='1'>Allons ! </s>
 	<s id='2'>remets ta robe. </s>
 </p>
-<stage type="[N/A]">Gilles se rhabille.</stage>
+<stage type="dress">Gilles se rhabille.</stage>
 </sp>
 <sp who='LE MAÎTRE'><speaker>LE MAÎTRE.</speaker>
 <p id='28'>
@@ -4070,12 +4066,12 @@
 <p id='30'>
 	<s id='1'>Je suis à vous dans la minute.</s>
 </p>
-<stage type="[N/A]">Il rentre et dit en dedans :</stage>
+<stage type="exit/location">Il rentre et dit en dedans :</stage>
 <p id='31'>
 	<s id='1'>Quatorze de valets.</s>
 </p>
 </sp>
-<sp who='GILLES'><speaker>GILLES, jetant sa robe à terre et voulant s'enfuir.</speaker>
+<sp stage="throw/escape" who='GILLES'><speaker>GILLES, jetant sa robe à terre et voulant s'enfuir.</speaker>
 <p id='32'>
 	<s id='1'>Au diable si je les attends !</s>
 </p>
@@ -4117,12 +4113,12 @@
 <p id='38'>
 	<s id='1'>Je reviens dans l'instant.</s>
 </p>
-<stage type="[N/A]">Il rentre et dit en dedans :</stage>
+<stage type="exit/location">Il rentre et dit en dedans :</stage>
 <p id='39'>
 	<s id='1'>Pique, coeur, et je jette du carreau.</s>
 </p>
 </sp>
-<sp who='GILLES'><speaker>GILLES, jetant tout à terre.</speaker>
+<sp stage="throw" who='GILLES'><speaker>GILLES, jetant tout à terre.</speaker>
 <p id='40'>
 	<s id='1'>Qu'on lui pique le coeur, qu'on le jette sur le carreau ! </s>
 	<s id='2'>Dis donc encore que c'est là du piquet !</s>
@@ -4135,7 +4131,7 @@
 	<s id='3'>Il nomme ses couleurs et la carte qu'il jette.</s>
 </p>
 </sp>
-<sp who='GILLES'><speaker>GILLES, se rhabillant.</speaker>
+<sp stage="dress" who='GILLES'><speaker>GILLES, se rhabillant.</speaker>
 <p id='42'>
 	<s id='1'>Oh ! </s>
 	<s id='2'>par ma foi, je n'en puis plus !...</s>
@@ -4180,12 +4176,12 @@
 	<s id='1'>Ah ! </s>
 	<s id='2'>Parbleu, j'oubliais le plus essentiel.</s>
 </p>
-<stage type="[N/A]">Il rentre et dit en dedans :</stage>
+<stage type="exit/location">Il rentre et dit en dedans :</stage>
 <p id='50'>
 	<s id='1'>Jacqueline, que l'on aille tout à l'heure chercher le chaudronnier.</s>
 </p>
 </sp>
-<sp who='GILLES'><speaker>GILLES, jetant sa robe à terre et dit fort effrayé :</speaker>
+<sp stage="dress/throw/frighten" who='GILLES'><speaker>GILLES, jetant sa robe à terre et dit fort effrayé :</speaker>
 <p id='51'>
 	<s id='1'>Le chaudronnier !... </s>
 	<s id='2'>Miséricorde !... </s>
@@ -4209,14 +4205,14 @@
 	<s id='1'>Quelle misère ! </s>
 	<s id='2'>tu n'as non plus de courage qu'une poule mouillée. </s>
 </p>
-<stage type="[N/A]">Il le rhabille.</stage>
+<stage type="dress">Il le rhabille.</stage>
 </sp>
 <sp who='LE MAÎTRE'><speaker>LE MAÎTRE.</speaker>
 <p id='55'>
 	<s id='1'>Enfin, vous finirez votre phrase. </s>
 	<s id='2'>Sum doctor doctorantibus.</s>
 </p>
-<stage type="[N/A]">Sans-Quartier et Divertissant soufflent Gilles et lui disent qu'il faut un peu se démener et remuer les bras.</stage>
+<stage type="slap/shake">Sans-Quartier et Divertissant soufflent Gilles et lui disent qu'il faut un peu se démener et remuer les bras.</stage>
 </sp>
 <sp who='GILLES'><speaker>GILLES.</speaker>
 <p id='56'>
@@ -4249,7 +4245,7 @@
 <p id='61'>
 	<s id='1'>A Sansquartieribus, Divertissantibus et Gilantibus.</s>
 </p>
-<stage type="[N/A]">En se démenant, sa robe, son chapeau et sa perruque tombent.</stage>
+<stage type="dress">En se démenant, sa robe, son chapeau et sa perruque tombent.</stage>
 </sp>
 <sp who='LE MAÎTRE'><speaker>LE MAÎTRE.</speaker>
 <p id='62'>
@@ -4283,7 +4279,7 @@
 <p id='66'>
 	<s id='1'>Voilà comment je les paye à des coquins tels que vous.</s>
 </p>
-<stage type="[N/A]">Il les rosse. Mais Sans-Quartier, Divertissant et Gilles ramassent des battes, se jettent sur le Maître et l'assomment de coups. Il se sauve et ils sont si animés qu'ils se frappent longtemps l'un sur l'autre en criant de toutes leurs forces, sans s'apercevoir que le Maître s'est retiré. Cette espèce de combat finit la parade.</stage>
+<stage type="narration">Il les rosse. Mais Sans-Quartier, Divertissant et Gilles ramassent des battes, se jettent sur le Maître et l'assomment de coups. Il se sauve et ils sont si animés qu'ils se frappent longtemps l'un sur l'autre en criant de toutes leurs forces, sans s'apercevoir que le Maître s'est retiré. Cette espèce de combat finit la parade.</stage>
 </sp>
 </div2>
 </div1>
